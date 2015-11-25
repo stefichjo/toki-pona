@@ -4,7 +4,7 @@
 
 ### nimi lili monsi (Partikulo)
 
-* jan **ala**
+* jan pona **o** (ho amiko)
 
 ### nimi lili insa (Infiksa Rolmontrilo)
 
