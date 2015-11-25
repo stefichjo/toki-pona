@@ -9,7 +9,12 @@
 ### nimi lili insa (Infiksa Rolmontrilo)
 
 * tomo **pi** telo nasa
+* tomo sona **pi** jan pona
 * mi olin **e** sina.
+
+tenpo lili la nimi "ijo" li *pimeja*. ni la nimi lili insa "e" kama kin *pimeja*.
+
+* mi moku **e** ijo. → mi moku. (mi manĝas ion. → mi manĝas.)
 
 ### nimi lili sinpin (Prefiksa Rolmontrilo)
 
@@ -34,8 +39,11 @@ monsi pi nimi "mi" en monsi nimi "sina" la sina ken ala kepeken nimi "li". ni la
 
 ### nimi suli monsi (Adjektivo)
 
-* jan pona **mute**
-* jan **pona** mute
+* jan **pona** **mute**
+
+tenpo lili la nimi "ijo" li *pimeja*. ni la nimi suli monsi li ken kama nimi suli lawa.
+
+* ijo **kiwen** → kiwen (io malmola → ŝtono)
 
 ### nimi suli insa (Prepozicio)
 
