@@ -96,7 +96,3 @@ sina ken kepeken nimi suli lon monsi pi lawa pi kulupu suli nimi. taso ken la si
 * ~~mi pali luka.~~ → mi pali kepeken luka. (Mi laboras mane.)
 * ~~mi lukin pona.~~ → mi lukin kepeken pona. (Mi vidas bone.)
 * mi lukin pona. (Mi provas ripari.)
-
-taso sina ken kepeken nimi lili monsi.
-
-* ~~mi lape kepeken ala~~ → mi lape **ala**.
