@@ -64,36 +64,45 @@ sina ken ala kepeken nimi suli insa lon sinpin pi nimi lili insa.
 
 ## kulupu nimi
 
-### kulupu lili pi nimi suli lawa
+### kulupu nimi lili
+
+#### kulupu nimi lili lawa
 
 * **jan pona**
 * **telo nasa**
 
-nimi suli monsi ali li nimi suli lawa kin. taso nimi suli monsi li jo ala nimi suli monsi ante la sina ken ala kepeken nimi "pi" lon insa pi ona tu. ni la nimi "pi" li *pimeja*.
+#### kulupu nimi lili monsi
 
-* tomo pi telo nasa
-* ~~tomo pi telo~~ → **tomo telo**
+##### kulupu nimi lili monsi pi nimi lili
+
+* tomo **pi telo nasa**
+
+nimi suli monsi ali li nimi suli lawa kin. taso nimi suli monsi li jo ala nimi suli monsi la sina ken ala kepeken nimi "pi" lon insa pi ona tu. ni la nimi "pi" li *pimeja*. kepeken nimi ante la kulupu nimi lili monsi li kama nimi suli monsi.
+
+* ~~tomo **[pi] telo**~~ → tomo **telo** (banĉambro)
 
 sina ken ala kepeken nimi "pi" lon sinpin pi nimi "pi" *pimeja*.
 
 * ~~telo pi jan pona nasa~~ → telo nasa pi jan pona (freneziga likvo de amiko)
-* telo pi jan pona nasa (akvo de freneza amiko)
-* telo nasa pi jan pona (freneziga akvo de amiko)
-* telo pi nasa pi jan pona (akvo freneza kiel amiko)
+* telo pi jan pona nasa (likvo de freneza amiko)
 
-## kulupu nimi lili ##
+##### kulupu nimi lili monsi pi nimi suli
 
-### kulupu (nimi) lili pi nimi lili insa
+* jan pona **lon tomo sona** (amiko en lernejo)
 
-* **pi jan pona**
+sina ken kepeken nimi "pi" kepeken ala nimi "lon". taso kulupu nimi suli sina li kama ike.
 
-### kulupu (nimi) lili pi nimi suli insa
+* ~~jan pona **pi tomo sona**~~ (amiko de lernejo)
+* ~~jan pona **pi lon pi tomo sona**~~ (amiko de ĉeesto de lernejo)
 
-* **lon tomo**
-
-## kulupu nimi suli (Frazo)
+### kulupu nimi suli (Frazo)
 
 * **mi lukin e sitelen.**
+
+#### kulupu nimi suli monsi (Subfrazo)
+
+* ~~mi sona e jan pi **ona li moku e soweli.**~~ → jan moku e soweli. mi sona e ona.
+* ~~mi sona e ijo pi **ona li moku e soweli.**~~ → mi sona e [ijo] ni: ona li moku e soweli.
 
 ### lawa pi kulupu nimi suli (Verbo)
 
@@ -105,10 +114,3 @@ sina ken kepeken nimi suli lon monsi pi lawa pi kulupu suli nimi. taso ken la si
 * ~~mi lukin pona.~~ → mi lukin kepeken pona. (Mi vidas bone.)
 * mi lukin pona. (Mi provas ripari.)
 
-### kulupu nimi lili monsi
-
-* tomo **pi telo nasa**
-
-### kulupu nimi suli monsi
-
-* ~~mi sona e jan pi **ona li moku e soweli.**~~ → jan moku e soweli. mi sona e ona.
