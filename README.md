@@ -90,7 +90,7 @@ sina ken ala kepeken nimi "pi" lon sinpin pi nimi "pi" *pimeja*.
 
 * jan pona **lon tomo sona** (amiko en lernejo)
 
-sina ken kepeken nimi "pi" kepeken ala nimi "lon". taso kulupu nimi suli sina li kama ike.
+sina ken kepeken nimi "pi" li ken ala kepeken nimi "lon". taso kulupu nimi suli sina li kama ike.
 
 * ~~jan pona **pi tomo sona**~~ (amiko de lernejo)
 * ~~jan pona **pi lon pi tomo sona**~~ (amiko de ĉeesto de lernejo)
