@@ -64,7 +64,7 @@ sina ken ala kepeken nimi suli insa lon sinpin pi nimi lili insa.
 
 ## kulupu nimi
 
-### kulupu pi nimi suli lawa
+### kulupu lili pi nimi suli lawa
 
 * **jan pona**
 * **telo nasa**
@@ -81,21 +81,21 @@ sina ken ala kepeken nimi "pi" lon sinpin pi nimi "pi" *pimeja*.
 * telo nasa pi jan pona (freneziga akvo de amiko)
 * telo pi nasa pi jan pona (akvo freneza kiel amiko)
 
-## kulupu lili nimi ##
+## kulupu nimi lili ##
 
-### kulupu lili pi nimi lili insa
+### kulupu (nimi) lili pi nimi lili insa
 
 * **pi jan pona**
 
-### kulupu lili pi nimi suli insa
+### kulupu (nimi) lili pi nimi suli insa
 
 * **lon tomo**
 
-## kulupu suli nimi (Frazo)
+## kulupu nimi suli (Frazo)
 
 * **mi lukin e sitelen.**
 
-### lawa pi kulupu suli nimi (Verbo)
+### lawa pi kulupu nimi suli (Verbo)
 
 * mi **lukin** e sitelen.
 
@@ -104,3 +104,11 @@ sina ken kepeken nimi suli lon monsi pi lawa pi kulupu suli nimi. taso ken la si
 * ~~mi pali luka.~~ → mi pali kepeken luka. (Mi laboras mane.)
 * ~~mi lukin pona.~~ → mi lukin kepeken pona. (Mi vidas bone.)
 * mi lukin pona. (Mi provas ripari.)
+
+### kulupu nimi lili monsi
+
+* tomo **pi telo nasa**
+
+### kulupu nimi suli monsi
+
+* ~~mi sona e jan pi **ona li moku e soweli.**~~ → jan moku e soweli. mi sona e ona.
