@@ -2,14 +2,40 @@
 
 ## Partikuloj: nimi ilo
 
-* tomo **pi** telo nasa
-* tomo sona **pi** jan pona
-* ona **li** lape.
-* mi olin **e** sina.
-* mi moku **e** ijo. → mi moku. (mi manĝas ion. → mi manĝas.)
-* ~~mi li moku.~~ → mi moku.
-* ~~sina li toki.~~ → sina toki.
-* jan pona **o** kama (ho amiko, venu)
+nimi ilo li wan nimi tu. (Partikulo kombinas du vortojn.)
+
+* toki **li** pona. (Komunikado estas bona.)
+
+### La Partikulo "li": nimi ilo "li"
+
+nimi ilo "li" li weka lon monsi pi nimi "mi" anu nimi "sina".
+
+* mi ~~**li**~~ toki. → mi toki. (Mi parolas.)
+* sina ~~**li**~~ toki. → sina toki. (Vi parolas.)
+* mi en sina **li** toki. (Mi kaj vi parolas.)
+
+### La Partikulo "pi": nimi ilo "pi"
+
+nimi ilo "pi" li weka lon monsi pi nimi pi wan taso.
+
+* toki ~~**pi**~~ pona → toki pona (bona lingvo)
+* toki **pi** pona mute (tre bona lingvo)
+
+### La Partikulo "e": nimi ilo "e"
+
+nimi ilo "e" en nimi "ijo" li ken weka.
+
+* mi moku **e** ijo. → mi moku. (Mi manĝas ion. → Mi manĝas.)
+
+### La partikulo "o": nimi ilo "o"
+
+nimi "sina" li ken weka lon sinpin pi nimi ilo "o".
+
+* sina o kama. → o kama. (Vi venu! → Venu!)
+
+nimi "sona" li ken weka lon monsi pi nimi ilo "o".
+
+* jan pona **o** sona! → jan pona **o**! (Amiko, sciu! → Ho amiko!)
 
 ## Radikoj: nimi ijo
 
