@@ -31,7 +31,7 @@ nimi ilo "e" lon poka pi nimi "ijo" li ken weka. *(La partikulo "e" kun "ijo" po
 
 nimi "sina" li ken weka lon sinpin pi nimi ilo "o". *("sina" povas manki antaŭ la partikulo "o".)*
 
-* sina o kama. → o kama. *(Vi venu! → Venu!)*
+* sina **o** kama. → **o** kama. *(Vi venu! → Venu!)*
 
 nimi "sona" li ken weka lon monsi pi nimi ilo "o". *("sona" povas manki malantaŭ la partikulo "o".)*
 
