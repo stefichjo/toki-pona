@@ -37,16 +37,17 @@ nimi "sona" li ken weka lon monsi pi nimi ilo "o". *("sona" povas manki malanta�
 
 * jan pona **o** sona! → jan pona **o**! *(Amiko, sciu! → Ho amiko!)*
 
-## Radikoj: nimi ijo
+## Substantivoj: nimi ijo
 
-### Substantivoj: nimi ijo lawa
-
-* **jan** pona
+* **jan** *(homo)*
 
 ### Adjektivoj: nimi ijo monsi
 
-* jan **pona**
-* ijo **kiwen** → kiwen (io malmola → ŝtono)
+* jan **pona** (bona homo = amiko)
+
+nimi "ijo" li ken weka lon sinpin pi nimi ijo monsi. ni la nimi ijo monsi ni li kama nimi ijo.
+
+* ijo **suno** → suno (io hela → la suno)
 
 ### Prepozicioj: nimi ijo insa
 
