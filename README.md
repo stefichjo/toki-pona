@@ -19,7 +19,7 @@ nimi ilo "li" li weka lon monsi pi nimi "mi" anu nimi "sina". *(La partikulo "li
 nimi ilo "pi" li weka lon sinpin pi nimi pi wan taso. *(La partikulo "pi" mankas antaŭ unu vorto sola.)*
 
 * toki ~~**pi**~~ pona → toki pona *(bona lingvo)*
-* toki **pi** pona mute *(tre bona lingvo)*
+* toki **pi** pona ~~**pi**~~ mute *(tre bona lingvo)*
 
 ### La Partikulo "e": nimi ilo "e"
 
