@@ -45,7 +45,7 @@ nimi "sona" li ken weka lon monsi pi nimi ilo "o". *("sona" povas manki malanta�
 
 * jan **pona** (bona homo = amiko)
 
-nimi "ijo" li ken weka lon sinpin pi nimi ijo monsi. ni la nimi ijo monsi ni li kama nimi ijo.
+nimi "ijo" li ken weka lon sinpin pi nimi ijo monsi. ni la nimi ijo monsi ni li kama nimi ijo. *(La vorto "ijo" povas manki antaŭ adjektivo. Tiam tiu adjektivo fariĝas substantivo.)*
 
 * ijo **suno** → suno (io hela → la suno)
 
