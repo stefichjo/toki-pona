@@ -2,40 +2,40 @@
 
 ## Partikuloj: nimi ilo
 
-nimi ilo li wan e nimi tu. (Partikulo kombinas du vortojn.)
+nimi ilo li wan e nimi tu. *(Partikulo kombinas du vortojn.)*
 
 * toki **li** pona. (Komunikado estas bona.)
 
 ### La Partikulo "li": nimi ilo "li"
 
-nimi ilo "li" li weka lon monsi pi nimi "mi" anu nimi "sina".
+nimi ilo "li" li weka lon monsi pi nimi "mi" anu nimi "sina". *(La partikulo "li" mankas malantaŭ "mi" aŭ "sina".)*
 
-* mi ~~**li**~~ toki. → mi toki. (Mi parolas.)
-* sina ~~**li**~~ toki. → sina toki. (Vi parolas.)
-* mi en sina **li** toki. (Mi kaj vi parolas.)
+* mi ~~**li**~~ toki. → mi toki. *(Mi parolas.)*
+* sina ~~**li**~~ toki. → sina toki. *(Vi parolas.)*
+* mi en sina **li** toki. *(Mi kaj vi parolas.)*
 
 ### La Partikulo "pi": nimi ilo "pi"
 
-nimi ilo "pi" li weka lon monsi pi nimi pi wan taso.
+nimi ilo "pi" li weka lon sinpin pi nimi pi wan taso. *(La partikulo "pi" mankas malantaŭ unu vorto sola.)*
 
-* toki ~~**pi**~~ pona → toki pona (bona lingvo)
-* toki **pi** pona mute (tre bona lingvo)
+* toki ~~**pi**~~ pona → toki pona *(bona lingvo)*
+* toki **pi** pona mute *(tre bona lingvo)*
 
 ### La Partikulo "e": nimi ilo "e"
 
-nimi ilo "e" en nimi "ijo" li ken weka.
+nimi ilo "e" lon poka pi nimi "ijo" li ken weka. *(La partikulo "e" kun "ijo" povas manki.)*
 
-* mi moku **e** ijo. → mi moku. (Mi manĝas ion. → Mi manĝas.)
+* mi moku **e** ijo. → mi moku. *(Mi manĝas ion. → Mi manĝas.)*
 
 ### La partikulo "o": nimi ilo "o"
 
-nimi "sina" li ken weka lon sinpin pi nimi ilo "o".
+nimi "sina" li ken weka lon sinpin pi nimi ilo "o". *("sina" povas manki antaŭ la partikulo "o".)*
 
-* sina o kama. → o kama. (Vi venu! → Venu!)
+* sina o kama. → o kama. *(Vi venu! → Venu!)*
 
-nimi "sona" li ken weka lon monsi pi nimi ilo "o".
+nimi "sona" li ken weka lon monsi pi nimi ilo "o". *("sona" povas manki malantaŭ la partikulo "o".)*
 
-* jan pona **o** sona! → jan pona **o**! (Amiko, sciu! → Ho amiko!)
+* jan pona **o** sona! → jan pona **o**! *(Amiko, sciu! → Ho amiko!)*
 
 ## Radikoj: nimi ijo
 
