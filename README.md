@@ -2,7 +2,7 @@
 
 ## Partikuloj: nimi ilo
 
-nimi ilo li wan nimi tu. (Partikulo kombinas du vortojn.)
+nimi ilo li wan e nimi tu. (Partikulo kombinas du vortojn.)
 
 * toki **li** pona. (Komunikado estas bona.)
 
