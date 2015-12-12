@@ -23,8 +23,15 @@ nimi ilo "pi" li weka lon sinpin pi nimi pi wan taso. *(La partikulo "pi" mankas
 
 ### La Partikulo "e": nimi ilo "e"
 
-ona li pona. *(Ŝi estas sana.)*
-ona li pona **e** sina. *(Ŝi sanigas vin.)*
+... *(...)*
+
+* ona li pona. *(Ŝi estas sana.)*
+* ona li pona **e** sina. *(Ŝi sanigas vin.)*
+
+... *(...)*
+
+* ona li moku. *(Ĝi estas manĝebla.)*
+* mi moku **e** ona. *(Mi manĝas ĝin.)*
 
 nimi ilo "e" lon poka pi nimi "ijo" li ken weka. *(La partikulo "e" kun "ijo" povas manki.)*
 
@@ -51,6 +58,7 @@ nimi "sona" li ken weka lon monsi pi nimi ilo "o". *("sona" povas manki malanta�
 nimi "ijo" li ken weka lon sinpin pi nimi ijo monsi. ni la nimi ijo monsi ni li kama nimi ijo. *(La vorto "ijo" povas manki antaŭ adjektivo. Tiam tiu adjektivo fariĝas substantivo.)*
 
 * ijo **suno** → suno (io hela → la suno)
+* ijo **moku** → moku (io manĝebla → manĝaĵo)
 
 ### Prepozicioj: nimi ijo insa
 
