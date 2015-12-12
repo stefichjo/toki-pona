@@ -1,68 +1,41 @@
-# Toki Pona
+# Gramatiko de Toki Pona: nasin toki pi toki pona
 
-## nimi ilo
-
-### nimi ilo monsi (Partikulo)
-
-* jan pona **o** (ho amiko)
-
-### nimi ilo insa (Infiksa Rolmontrilo)
+## Partikuloj: nimi ilo
 
 * tomo **pi** telo nasa
 * tomo sona **pi** jan pona
-* mi olin **e** sina.
-
-tenpo lili la nimi "ijo" li *pimeja*. ni la nimi ilo insa "e" kama kin *pimeja*.
-
-* mi moku **e** ijo. → mi moku. (mi manĝas ion. → mi manĝas.)
-
-### nimi ilo sinpin (Prefiksa Rolmontrilo)
-
 * ona **li** lape.
-
-monsi pi nimi "mi" en monsi pi nimi "sina" la sina ken ala kepeken nimi "li". ni la nimi "li" li *pimeja*.
-
+* mi olin **e** sina.
+* mi moku **e** ijo. → mi moku. (mi manĝas ion. → mi manĝas.)
 * ~~mi li moku.~~ → mi moku.
 * ~~sina li toki.~~ → sina toki.
+* jan pona **o** kama (ho amiko, venu)
 
-## nimi ijo (Radiko)
+## Radikoj: nimi ijo
 
-* **mi**
-* **kepeken**
-* **insa**
-* **tawa**
-* **soweli**
-
-### nimi ijo lawa (Substantivo)
+### Substantivoj: nimi ijo lawa
 
 * **jan** pona
 
-### nimi ijo monsi (Adjektivo)
+### Adjektivoj: nimi ijo monsi
 
-* jan **pona** **mute**
-
-tenpo lili la nimi "ijo" li *pimeja*. ni la nimi ijo monsi li ken kama nimi ijo lawa.
-
+* jan **pona**
 * ijo **kiwen** → kiwen (io malmola → ŝtono)
 
-### nimi ijo insa (Prepozicio)
+### Prepozicioj: nimi ijo insa
 
 * jan pona **lon** tomo sona
-
-sina ken ala kepeken nimi suli insa lon sinpin pi nimi lili insa.
-
 * ~~mi lukin **lon** tomo **e** sitelen.~~ → mi lukin **e** sitelen **lon** tomo.
-
+* ~~mi lukin **e** sitelen **pi** **lon** tomo.~~
 * mi tawa tomo **e** sina.
-
 * ~~mi lukin [pi] mute e sitelen.~~ (Mi multe rigardas la bildon.)
 * mi lukin mute e sitelen. (Mi provas multigi la bildon.)
 
-### nimi ijo sinpin
+### Helpaj Verboj: nimi ijo sinpin
 
 * mi **wile** lape.
 
-## kulupu nimi
+## Vortgrupoj: kulupu nimi
 
 ### kulupu lili nimi
 
