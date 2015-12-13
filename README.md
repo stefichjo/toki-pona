@@ -112,5 +112,5 @@ sina ken kepeken nimi monsi lon monsi pi kulupu nimi lili pi nimi monsi. taso ni
 
 ### Adjektiva Frazo: kulupu nimi suli pi nimi monsi
 
-* ~~mi sona e jan **pi ona li moku e soweli.**~~ → jan moku e soweli. mi sona e ona.
-* ~~mi sona e ijo **pi ona li moku e soweli.**~~ → mi sona e [ijo] ni: ona li moku e soweli.
+* mi sona e jan ~~**pi ona li moku e soweli.**~~ → jan moku e soweli. mi sona e ona.
+* mi sona e ijo ~~**pi ona li moku e soweli.**~~ → mi sona e ni: ona li moku e soweli.
