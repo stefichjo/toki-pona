@@ -37,9 +37,23 @@ nimi ilo "pi" li weka lon sinpin pi nimi ijo insa. *(La partikulo "pi" mankas an
 * ona li moku. *(Ĝi estas manĝebla.)*
 * mi moku **e** ona. *(Mi manĝas ĝin.)*
 
+... *(...)*
+
+* mi tawa tomo. *(Mi iras hejmen.)*
+* mi tawa tomo **e** sina. *(Mi portas vin hejmen.)*
+
 nimi ilo "e" lon poka pi nimi "ijo" li ken weka. *(La partikulo "e" kun "ijo" povas manki.)*
 
 * mi moku **e** ijo. → mi moku. *(Mi manĝas ion. → Mi manĝas.)*
+
+nimi monsi anu kulupu nimi lili monsi pi nimi ilo li ken lon insa pi nimi ijo suli en nimi ilo "e". *(Adjektivo aŭ adjektiva frazero je partikulo povas esti inter la verbo kaj la partikulo "e".)*
+
+* mi lukin pona **e** sitelen. *(Mi legas bone.)*
+* mi lukin pi pona mute **e** sitelen. *(Mi legas tre bone.)*
+
+taso kulupu nimi lili monsi pi nimi ijo li ken lon sinpin pi kulupu nimi lili ala pi nimi ilo "e". *(Sed adjektiva frazero je radiko ne povas esti antaŭ frazero je la partikulo "e".)*
+
+* mi lukin **e** sitelen kepeken tenpo mute. *(Mi legas malrapide.)*
 
 ### La partikulo "o": nimi ilo "o"
 
@@ -63,6 +77,12 @@ nimi "sina o jo e" li ken weka.
 ## Substantivoj: nimi ijo
 
 * **jan** *(homo)*
+
+## Verbo: nimi ijo suli
+
+kulupu nimi suli la nimi ijo suli li suli. nimi ali ante li suli ala. *(En frazo, la verbo estas la plej grava vorto.)*
+
+* ona li **mama**. *(Ŝi estas patrino.)*
 
 ### Adjektivoj/Adverboj: nimi ijo monsi
 
@@ -94,12 +114,6 @@ nimi ijo insa li ken jo e nimi ijo monsi ala. *(Prepozicio ne povas havi adverbo
 nimi ijo li ken weka lon monsi pi nimi ijo sinpin. ni la nimi ijo sinpin ni li kama nimi ijo. *(Verbo povas manki post helpa verbo. Tiam tiu helpa verbo fariĝas verbo.)*
 
 * mi **wile** jo e ni. → mi wile e ni. *(Mi volas havi tion. → Mi volas tion.)*
-
-### "ala": nimi "ala"
-
-... *(...)*
-
-* ona li **tawa** ~~ala~~ tomo. → ona li tawa ala **tawa** tomo. → ona li **tawa** tomo ala. *(Ŝi ne iras hejmen. → Ŝi iras al neniu hejmo.)*
 
 ## Vortgrupoj: kulupu nimi
 
