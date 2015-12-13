@@ -78,12 +78,6 @@ nimi "sina o jo e" li ken weka.
 
 * **jan** *(homo)*
 
-### Verboj: nimi ijo suli
-
-kulupu nimi suli la nimi ijo suli li suli. nimi ali ante li suli ala. *(En frazo, la verbo estas la plej grava vorto.)*
-
-* ona li **mama**. *(Ŝi estas patrino.)*
-
 ### Adjektivoj/Adverboj: nimi ijo monsi
 
 * toki **pona** *(bona lingvo)*
@@ -108,6 +102,14 @@ sina ken kepeken nimi ijo insa lon poka pi nimi ijo sama. taso ni li ken toki ik
 nimi ijo insa li ken jo e nimi ijo monsi ala. *(Prepozicio ne povas havi adverbon.)*
 
 * ona li **tawa** ~~pona~~ tomo. → ona li tawa pona **tawa** tomo. *(Ŝi sekure iras hejmen.)*
+
+### Verboj: nimi ijo suli
+
+kulupu nimi suli la nimi ijo suli li suli. nimi ali ante li suli ala. *(En frazo, la verbo estas la plej grava vorto.)*
+
+* ona li **lape**. *(Ŝi dormas.)*
+* ona li **pona**. *(Ŝi estas bona.)*
+* ona li **mama**. *(Ŝi estas patrino.)*
 
 ### Helpaj Verboj: nimi ijo sinpin
 
