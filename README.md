@@ -117,11 +117,11 @@ nimi ijo li ken weka lon monsi pi nimi ijo sinpin. ni la nimi ijo sinpin ni li k
 
 ... *(...)*
 
-* tomo **pi telo nasa**
+* tomo **pi telo nasa** *(trinkejo)*
 
 sina ken kepeken nimi monsi lon monsi pi kulupu nimi lili pi nimi monsi pi nimi ilo. taso ni li ken toki ike. *(Oni povus uzi adjektivon malantaŭ adjektiva frazero je partikulo. Sed tio ŝajnas evitinda.)*
 
-* ~~telo pi jan pona, nasa~~ → telo nasa pi jan pona (freneziga likvo de amiko)
+* ~~tomo **pi telo nasa**, pona~~ → tomo pona **pi telo nasa** (bona trinkejo)
 
 ##### kulupu lili pi nimi monsi pi nimi ijo
 
