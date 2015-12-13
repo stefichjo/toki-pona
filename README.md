@@ -144,11 +144,11 @@ kulupu nimi suli pi wile sona pi lon anu ala li jo e nimi "anu seme" lon pini. *
 
 nasin ante la sina ken kepeken nimi ijo monsi "ala" en nimi ijo suli pi tenpo tu. *(Alternative oni povas uzi la adjektivon "ala" kaj la verbon dufoje.)* 
 
-* ona li kama ala kama? *(Ĉu ŝi venos?)*
+* ona li **kama ala kama**? *(Ĉu ŝi venos?)*
 
 nimi ijo insa li ken suli. taso nimi ijo insa ken jo e nimi monsi ala. tan ni la nasin ante ni pi kulupu nimi suli pi wile sona pi lon anu ala li ken toki ike. *(Prepozicio povas esti verbo. Sed prepozicio ne povas havi adjektivon/adverbon. Tial tiu alternativa maniero de jes-/ne-demanda frazo ŝajnas evitinda.)*
 
-* ona li tawa ~~**ala tawa**~~ tomo? → ona li tawa tomo **anu seme**? *(Ĉu ŝi iras hejmen?)*
+* ona li **tawa ~~ala tawa**~~ tomo? → ona li tawa tomo **anu seme**? *(Ĉu ŝi iras hejmen?)*
 * ona li tawa ala tawa tomo. *(Ŝi ne iras hejmen.)*
 
 ### Substantiva Frazero: kulupu nimi lili
