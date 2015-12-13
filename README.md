@@ -5,7 +5,6 @@
 *(Partikuloj)*
 
 nimi ilo li lon insa pi [nimi ijo lawa](#nimi-ijo-lawa) (anu [kulupu nimi lili](#kulupu-nimi-lili)) en nimi ijo ante.
-
 *(Partikulo estas inter substantivo (aŭ substantiva frazero) kaj alia radika vorto.)*
 
 * toki **li** pona. *(Komunikado estas bona.)*
