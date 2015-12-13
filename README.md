@@ -74,11 +74,11 @@ nimi "sina o jo e" li ken weka.
 * ona li moku ~~**en**~~ toki. → ona li moku li toki. *(Ŝi manĝas kaj parolas.)*
 * ona li moku e kili ~~**en**~~ pan. → ona li moku e kili e pan. *(Ŝi manĝas frukton kaj panon.)*
 
-## Substantivoj: nimi ijo
+## Radikoj/Substantivoj: nimi ijo
 
 * **jan** *(homo)*
 
-## Verbo: nimi ijo suli
+### Verboj: nimi ijo suli
 
 kulupu nimi suli la nimi ijo suli li suli. nimi ali ante li suli ala. *(En frazo, la verbo estas la plej grava vorto.)*
 
