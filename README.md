@@ -2,13 +2,17 @@
 
 ## Partikuloj: nimi ilo
 
-nimi ilo li wan e nimi tu. *(Partikulo kombinas du vortojn.)*
+nimi ilo li lon insa pi [nimi ijo lawa](#substantivoj-nimi-ijo-lawa) (anu [kulupu nimi lili](#substantiva-frazero-kulupu-nimi-lili)) en nimi ijo ante. *(Partikulo estas inter substantivo (aŭ substantiva frazero) kaj alia radika vorto.)*
 
 * toki **li** pona. *(Komunikado estas bona.)*
 
 ### La Partikulo "li": nimi ilo "li"
 
-nimi ilo "li" li weka lon monsi pi nimi "mi" anu nimi "sina". *(La partikulo "li" mankas malantaŭ "mi" aŭ "sina".)*
+nimi ilo "li" li lon insa ``subjekto`` en ``predikato``.
+
+* ona **li** pona. *(Ĝi estas bona.)*
+
+nimi ilo "li" li weka lon monsi pi nimi "mi" taso anu nimi "sina" taso. *(La partikulo "li" mankas malantaŭ sola "mi" aŭ sola "sina".)*
 
 * mi ~~**li**~~ toki. → mi toki. *(Mi parolas.)*
 * sina ~~**li**~~ toki. → sina toki. *(Vi parolas.)*
@@ -16,12 +20,12 @@ nimi ilo "li" li weka lon monsi pi nimi "mi" anu nimi "sina". *(La partikulo "li
 
 ### La Partikulo "pi": nimi ilo "pi"
 
-nimi ilo "pi" li weka lon sinpin pi nimi pi wan taso. *(La partikulo "pi" mankas antaŭ unu vorto sola.)*
+nimi ilo "pi" li weka lon sinpin pi nimi ijo pi wan taso. *(La partikulo "pi" mankas antaŭ unu radika vorto sola.)*
 
 * toki ~~**pi**~~ pona → toki pona *(bona lingvo)*
 * toki **pi** pona ~~**pi**~~ mute → toki **pi** pona mute *(tre bona lingvo)*
 
-nimi ilo "pi" li weka lon sinpin pi nimi ijo insa. *(La partikulo "pi" mankas antaŭ prepozicio.)*
+nimi ilo "pi" li weka lon sinpin pi [nimi ijo insa](#prepozicioj-nimi-ijo-insa). *(La partikulo "pi" mankas antaŭ prepozicio.)*
 
 * jan pona li lape ~~**pi**~~ lon tomo. → jan pona li lape lon tomo. *(Amiko dormas en la ĉambro.)*
 
@@ -42,11 +46,11 @@ nimi ilo "pi" li weka lon sinpin pi nimi ijo insa. *(La partikulo "pi" mankas an
 * mi tawa tomo. *(Mi iras hejmen.)*
 * mi tawa tomo **e** sina. *(Mi portas vin hejmen.)*
 
-nimi ilo "e" lon poka pi nimi "ijo" li ken weka. *(La partikulo "e" kun "ijo" povas manki.)*
+[kulupu nimi lili](#substantiva-frazero-kulupu-nimi-lili) pi nimi ilo "e" li ken weka. *(Frazero je la partikulo "e" povas manki.)*
 
 * mi moku **e** ijo. → mi moku. *(Mi manĝas ion. → Mi manĝas.)*
 
-nimi ijo monsi anu kulupu nimi lili monsi pi nimi ilo li ken lon insa pi nimi ijo suli en nimi ilo "e". *(Adjektivo aŭ adjektiva frazero je partikulo povas esti inter la verbo kaj la partikulo "e".)*
+[nimi ijo monsi](#adjektivojadverboj-nimi-ijo-monsi) anu [kulupu nimi lili monsi](#adjektiva-frazero-kulupu-nimi-lili-monsi) pi nimi ilo li ken lon insa pi [nimi ijo suli](#verboj-nimi-ijo-suli) en nimi ilo "e". *(Adjektivo aŭ adjektiva frazero je partikulo povas esti inter la verbo kaj la partikulo "e".)*
 
 * mi lukin pona **e** sitelen. *(Mi legas bone.)*
 * mi lukin pi pona mute **e** sitelen. *(Mi legas tre bone.)*
