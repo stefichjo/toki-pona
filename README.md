@@ -76,6 +76,10 @@ sina ken kepeken nimi ilo "en" ala lon kulupu nimi lili pi nimi ijo suli anu nim
 * ona li moku ~~**en**~~ toki. → ona li moku li toki. *(Ŝi manĝas kaj parolas.)*
 * ona li moku e kili ~~**en**~~ pan. → ona li moku e kili e pan. *(Ŝi manĝas frukton kaj panon.)*
 
+### La partikulo "anu": nimi ilo "anu"
+
+... *(...)*
+
 ## Radikoj/Substantivoj: nimi ijo
 
 * **jan** *(homo)*
@@ -124,6 +128,28 @@ nimi ijo li ken weka lon monsi pi nimi ijo sinpin. ni la nimi ijo sinpin ni li k
 ### Frazo: kulupu nimi suli
 
 * **mi lukin e sitelen.** *(Mi legas.)*
+
+#### Demanda Frazo: kulupu nimi suli pi wile sona
+
+nimi pi wile sona li nimi "seme". *(La demanda vorto estas "seme".)*
+
+* sina lukin e **seme**? *(Kion vi vidas?)*
+* jan **seme** li lon tomo? *(Kiu estas en la domo?)*
+
+#### Jes-/Ne-Demanda Frazo: kulupu nimi suli pi wile sona pi lon anu ala
+
+kulupu nimi suli pi wile sona pi lon anu ala li jo e nimi "anu seme" lon pini. *(Jes-/Ne-Demandoj enhavas la vortojn "anu seme" ĉe la fino.)*
+
+* ona li kama **anu seme**? *(Ĉu ŝi venos?)*
+
+nasin ante la sina ken kepeken nimi ijo monsi "ala" en nimi ijo suli pi tenpo tu. *(Alternative oni povas uzi la adjektivon "ala" kaj la verbon dufoje.)* 
+
+* ona li kama ala kama? *(Ĉu ŝi venos?)*
+
+nimi ijo insa li ken suli. taso nimi ijo insa ken jo e nimi monsi ala. tan ni la nasin ante ni pi kulupu nimi suli pi wile sona pi lon anu ala li ken toki ike. *(Prepozicio povas esti verbo. Sed prepozicio ne povas havi adverbon. Tial tiu alternativa maniero de jes-/ne-demanda frazo ŝajnas evitinda.)*
+
+* ona li tawa ~~**ala tawa**~~ tomo? → ona li tawa tomo **anu seme**? *(Ĉu ŝi iras hejmen?)*
+* ona li tawa ala tawa tomo. (Ŝi ne iras hejmen.)
 
 ### Substantiva Frazero: kulupu nimi lili
 
