@@ -62,7 +62,7 @@ nimi "sona" li ken weka lon monsi pi nimi ilo "o". *("sona" povas manki malanta�
 
 ### Adjektivoj: nimi ijo monsi
 
-* jan **pona** *(bona homo = amiko)*
+* toki **pona** *(bona lingvo)*
 
 nimi "ijo" li ken weka lon sinpin pi nimi ijo monsi. ni la nimi ijo monsi ni li kama nimi ijo. *(La vorto "ijo" povas manki antaŭ adjektivo. Tiam tiu adjektivo fariĝas substantivo.)*
 
@@ -70,6 +70,12 @@ nimi "ijo" li ken weka lon sinpin pi nimi ijo monsi. ni la nimi ijo monsi ni li 
 * ijo **moku** → moku *(io manĝebla → manĝaĵo)*
 
 ### Prepozicioj: nimi ijo insa
+
+nimi insa li ken jo e nimi monsi ala. *(Prepozicio ne povas havi adverbon.)*
+
+* ona li **tawa** ~~pona~~ tomo. → ona li tawa pona **tawa** tomo. *(Ŝi sekure iras hejmen.)*
+
+
 
 * jan pona **lon** tomo sona
 * ~~mi lukin **lon** tomo **e** sitelen.~~ → mi lukin **e** sitelen **lon** tomo.
@@ -81,6 +87,11 @@ nimi "ijo" li ken weka lon sinpin pi nimi ijo monsi. ni la nimi ijo monsi ni li 
 ### Helpaj Verboj: nimi ijo sinpin
 
 * mi **wile** lape.
+
+### "ala": nimi "ala"
+
+* ona li **tawa** ~~ala~~ tomo. → ona li tawa ala **tawa** tomo. → ona li **tawa** tomo ala. *(Ŝi ne iras hejmen. → Ŝi iras al neniu hejmo.)*
+
 
 ## Vortgrupoj: kulupu nimi
 
