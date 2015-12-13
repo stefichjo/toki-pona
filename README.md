@@ -21,6 +21,10 @@ nimi ilo "pi" li weka lon sinpin pi nimi pi wan taso. *(La partikulo "pi" mankas
 * toki ~~**pi**~~ pona → toki pona *(bona lingvo)*
 * toki **pi** pona ~~**pi**~~ mute → toki **pi** pona mute *(tre bona lingvo)*
 
+nimi ilo "pi" li weka lon sinpin pi nimi ijo insa. *(La partikulo "pi" mankas antaŭ prepozicio.)*
+
+* jan pona li lape ~~**pi**~~ lon tomo. → jan pona li lape lon tomo. *(Amiko dormas en la ĉambro.)*
+
 ### La Partikulo "e": nimi ilo "e"
 
 ... *(...)*
@@ -53,12 +57,12 @@ nimi "sona" li ken weka lon monsi pi nimi ilo "o". *("sona" povas manki malanta�
 
 ### Adjektivoj: nimi ijo monsi
 
-* jan **pona** (bona homo = amiko)
+* jan **pona** *(bona homo = amiko)*
 
 nimi "ijo" li ken weka lon sinpin pi nimi ijo monsi. ni la nimi ijo monsi ni li kama nimi ijo. *(La vorto "ijo" povas manki antaŭ adjektivo. Tiam tiu adjektivo fariĝas substantivo.)*
 
-* ijo **suno** → suno (io hela → la suno)
-* ijo **moku** → moku (io manĝebla → manĝaĵo)
+* ijo **suno** → suno *(io hela → la suno)*
+* ijo **moku** → moku *(io manĝebla → manĝaĵo)*
 
 ### Prepozicioj: nimi ijo insa
 
