@@ -103,37 +103,14 @@ nimi ijo li ken weka lon monsi pi nimi ijo sinpin. ni la nimi ijo sinpin ni li k
 
 ## Vortgrupoj: kulupu nimi
 
-### Frazero: kulupu nimi lili
-
-#### Substantiva Frazero: kulupu nimi lili pi nimi ijo
-
-... *(...)*
-
-* **jan pona**
-
-#### Adjektiva Frazero: kulupu nimi lili pi nimi monsi
+### Adjektiva Frazero: kulupu nimi lili pi nimi monsi
 
 sina ken kepeken nimi monsi lon monsi pi kulupu nimi lili pi nimi monsi. taso ni li ken toki ike. *(Oni povus uzi adjektivon malantaŭ adjektiva frazero. Sed tio ŝajnas evitinda.)*
 
 * ~~tomo **pi telo nasa**, pona~~ → tomo pona **pi telo nasa** *(bona trinkejo)*
 * ~~jan **lon tomo sona**, pona~~ → jan pona **lon tomo sona** *(amiko en lernejo)*
 
-### Frazo: kulupu nimi suli
+### Adjektiva Frazo: kulupu nimi suli pi nimi monsi
 
-* **mi lukin e sitelen.** *(Mi rigardas la bildon.)*
-
-#### kulupu suli pi nimi monsi (Subfrazo)
-
-* ~~mi sona e jan pi **ona li moku e soweli.**~~ → jan moku e soweli. mi sona e ona.
-* ~~mi sona e ijo pi **ona li moku e soweli.**~~ → mi sona e [ijo] ni: ona li moku e soweli.
-
-### lawa pi kulupu pi nimi ijo (Verbo)
-
-* mi **lukin** e sitelen.
-
-sina ken kepeken nimi ijo lon monsi pi lawa pi kulupu suli nimi. taso ken la sina wile ala e ni.
-
-* ~~mi pali luka.~~ → mi pali kepeken luka. (Mi laboras mane.)
-* ~~mi lukin pona.~~ → mi lukin kepeken pona. (Mi vidas bone.)
-* mi lukin pona. (Mi provas ripari.)
-
+* ~~mi sona e jan **pi ona li moku e soweli.**~~ → jan moku e soweli. mi sona e ona.
+* ~~mi sona e ijo **pi ona li moku e soweli.**~~ → mi sona e [ijo] ni: ona li moku e soweli.
