@@ -1,4 +1,4 @@
-# Gramatiko de Toki Pona: nasin toki pi toki pona
+# Gramatiko de Tokipono: nasin toki pi toki pona
 
 ## Partikuloj: nimi ilo
 
@@ -46,7 +46,7 @@ nimi ilo "e" lon poka pi nimi "ijo" li ken weka. *(La partikulo "e" kun "ijo" po
 
 * mi moku **e** ijo. → mi moku. *(Mi manĝas ion. → Mi manĝas.)*
 
-nimi monsi anu kulupu nimi lili monsi pi nimi ilo li ken lon insa pi nimi ijo suli en nimi ilo "e". *(Adjektivo aŭ adjektiva frazero je partikulo povas esti inter la verbo kaj la partikulo "e".)*
+nimi ijo monsi anu kulupu nimi lili monsi pi nimi ilo li ken lon insa pi nimi ijo suli en nimi ilo "e". *(Adjektivo aŭ adjektiva frazero je partikulo povas esti inter la verbo kaj la partikulo "e".)*
 
 * mi lukin pona **e** sitelen. *(Mi legas bone.)*
 * mi lukin pi pona mute **e** sitelen. *(Mi legas tre bone.)*
@@ -80,7 +80,11 @@ sina ken kepeken nimi ilo "en" ala lon kulupu nimi lili pi nimi ijo suli anu nim
 
 ... *(...)*
 
-## Radikoj/Substantivoj: nimi ijo
+## Radikaj Vortoj: nimi ijo
+
+### Substantivoj: nimi ijo lawa
+
+nimi ijo lawa li nimi ijo pona. nimi ijo ante li pona ala. *(Substantivoj estas la plej simplaj radikaj vortoj.)*
 
 * **jan** *(homo)*
 
@@ -90,7 +94,7 @@ sina ken kepeken nimi ilo "en" ala lon kulupu nimi lili pi nimi ijo suli anu nim
 
 nimi "ijo" li ken weka lon sinpin pi nimi ijo monsi. ni la nimi ijo monsi ni li kama nimi ijo. *(La vorto "ijo" povas manki antaŭ adjektivo. Tiam tiu adjektivo fariĝas substantivo.)*
 
-* ijo **suno** → suno *(io hela → la suno)*
+* ijo **suno** → suno *(io hela → lumo, la suno)*
 * ijo **moku** → moku *(io manĝebla → manĝaĵo)*
 
 ### Prepozicioj: nimi ijo insa
@@ -105,9 +109,10 @@ sina ken kepeken nimi ijo insa lon poka pi nimi ijo sama. taso ni li ken toki ik
 * ona li ~~tawa~~ **tawa** tomo. → ona li **tawa** tomo. *(Ŝi iras al la hejmo. → Ŝi iras hejmen.)*
 * ona li tawa kepeken tenpo mute **tawa** tomo. *(Ŝi iras malrapide al la hejmo.)*
 
-nimi ijo insa li ken jo e nimi ijo monsi ala. *(Prepozicio ne povas havi adverbon.)*
+nimi ijo insa li ken jo e nimi ijo monsi ala anu kulupu nimi lili monsi. *(Prepozicio ne povas havi adverbon aŭ adverban frazeron.)*
 
 * ona li **tawa** ~~pona~~ tomo. → ona li tawa pona **tawa** tomo. *(Ŝi sekure iras hejmen.)*
+* mi **tawa** ~~e sina~~ tomo. → mi **tawa** tomo e sina. *(Mi portas vin hejmen.)*
 
 ### Verboj: nimi ijo suli
 
