@@ -71,6 +71,8 @@ nimi "sina o jo e" li ken weka.
 
 ### La partikulo "en": nimi ilo "en"
 
+sina ken kepeken nimi ilo "en" ala lon kulupu nimi lili pi nimi ijo suli anu nimi ilo "e". *(Oni ne povas uzi la partikulon "en" en verba frazero aŭ en akuzativa frazero.)*
+
 * ona li moku ~~**en**~~ toki. → ona li moku li toki. *(Ŝi manĝas kaj parolas.)*
 * ona li moku e kili ~~**en**~~ pan. → ona li moku e kili e pan. *(Ŝi manĝas frukton kaj panon.)*
 
