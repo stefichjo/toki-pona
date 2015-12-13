@@ -61,7 +61,7 @@ nimi "sina" li ken weka lon sinpin pi nimi ilo "o". *("sina" povas manki antaŭ 
 
 * sina **o** kama. → **o** kama. *(Vi venu! → Venu!)*
 
-nimi "sona" li ken weka lon monsi pi nimi ilo "o". *("sona" povas manki malantaŭ la partikulo "o".)*
+nimi ijo suli li ken weka lon monsi pi nimi ilo "o". *(Verbo povas manki malantaŭ la partikulo "o".)*
 
 * jan pona **o** sona! → jan pona **o**! *(Amiko, sciu! → Ho amiko!)*
 
