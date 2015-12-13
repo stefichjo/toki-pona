@@ -86,7 +86,10 @@ nimi insa li ken jo e nimi monsi ala. *(Prepozicio ne povas havi adverbon.)*
 
 ### Helpaj Verboj: nimi ijo sinpin
 
-* mi **wile** lape.
+nimi ijo li ken weka lon monsi pi nimi ijo sinpin. ni la nimi ijo sinpin ni li kama nimi ijo.
+
+* mi **wile** jo e ni. → mi wile e ni. *(Mi volas havi tion. → Mi volas tion.)*
+
 
 ### "ala": nimi "ala"
 
