@@ -107,8 +107,8 @@ nimi ijo li ken weka lon monsi pi nimi ijo sinpin. ni la nimi ijo sinpin ni li k
 
 sina ken kepeken nimi monsi lon monsi pi kulupu nimi lili pi nimi monsi. taso ni li ken toki ike. *(Oni povus uzi adjektivon malantaŭ adjektiva frazero. Sed tio ŝajnas evitinda.)*
 
-* ~~tomo **pi telo nasa**, pona~~ → tomo pona **pi telo nasa** *(bona trinkejo)*
-* ~~jan **lon tomo sona**, pona~~ → jan pona **lon tomo sona** *(amiko en lernejo)*
+* tomo **pi telo nasa**, ~~pona~~ → tomo pona **pi telo nasa** *(bona trinkejo)*
+* jan **lon tomo sona**, ~~pona~~ → jan pona **lon tomo sona** *(amiko en lernejo)*
 
 ### Adjektiva Frazo: kulupu nimi suli pi nimi monsi
 
