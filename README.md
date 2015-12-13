@@ -4,7 +4,7 @@
 
 nimi ilo li wan e nimi tu. *(Partikulo kombinas du vortojn.)*
 
-* toki **li** pona. (Komunikado estas bona.)
+* toki **li** pona. *(Komunikado estas bona.)*
 
 ### La Partikulo "li": nimi ilo "li"
 
