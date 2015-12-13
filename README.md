@@ -89,51 +89,39 @@ nimi ijo insa li ken jo e nimi ijo monsi ala. *(Prepozicio ne povas havi adverbo
 
 * ona li **tawa** ~~pona~~ tomo. → ona li tawa pona **tawa** tomo. *(Ŝi sekure iras hejmen.)*
 
-
-
-
-* jan pona **lon** tomo sona
-* ~~mi lukin **lon** tomo **e** sitelen.~~ → mi lukin **e** sitelen **lon** tomo.
-* ~~mi lukin **e** sitelen **pi** **lon** tomo.~~
-* mi tawa tomo **e** sina.
-* ~~mi lukin [pi] mute e sitelen.~~ (Mi multe rigardas la bildon.)
-* mi lukin mute e sitelen. (Mi provas multigi la bildon.)
-
 ### Helpaj Verboj: nimi ijo sinpin
 
 nimi ijo li ken weka lon monsi pi nimi ijo sinpin. ni la nimi ijo sinpin ni li kama nimi ijo. *(Verbo povas manki post helpa verbo. Tiam tiu helpa verbo fariĝas verbo.)*
 
 * mi **wile** jo e ni. → mi wile e ni. *(Mi volas havi tion. → Mi volas tion.)*
 
-
 ### "ala": nimi "ala"
+
+... *(...)*
 
 * ona li **tawa** ~~ala~~ tomo. → ona li tawa ala **tawa** tomo. → ona li **tawa** tomo ala. *(Ŝi ne iras hejmen. → Ŝi iras al neniu hejmo.)*
 
-
 ## Vortgrupoj: kulupu nimi
 
-### kulupu lili nimi
+### Frazero: kulupu nimi lili
 
-#### kulupu lili pi nimi lawa
+#### Substantiva Frazero: kulupu nimi lili pi nimi ijo
+
+... *(...)*
 
 * **jan pona**
-* **telo nasa**
 
-#### kulupu lili pi nimi monsi
+#### Adjektiva Frazero: kulupu nimi lili pi nimi monsi
 
-##### kulupu lili pi nimi monsi pi nimi ilo
+##### Adjektiva Frazero je Partikulo: kulupu nimi lili pi nimi monsi pi nimi ilo
+
+... *(...)*
 
 * tomo **pi telo nasa**
 
-nimi ijo monsi ali li nimi ijo lawa kin. taso nimi ijo monsi li jo ala nimi ijo monsi la sina ken ala kepeken nimi "pi" lon insa pi ona tu. ni la nimi "pi" li *pimeja*. kepeken nimi ante la kulupu nimi ilo monsi li kama nimi ijo monsi.
+sina ken kepeken nimi monsi lon monsi pi kulupu nimi lili pi nimi monsi pi nimi ilo. taso ni li ken toki ike. *(Oni povus uzi adjektivon malantaŭ adjektiva frazero je partikulo. Sed tio ŝajnas evitinda.)*
 
-* ~~tomo **[pi] telo**~~ → tomo **telo** (banĉambro)
-
-sina ken ala kepeken nimi "pi" lon sinpin pi nimi "pi" *pimeja*.
-
-* ~~telo pi jan pona nasa~~ → telo nasa pi jan pona (freneziga likvo de amiko)
-* telo pi jan pona nasa (likvo de freneza amiko)
+* ~~telo pi jan pona, nasa~~ → telo nasa pi jan pona (freneziga likvo de amiko)
 
 ##### kulupu lili pi nimi monsi pi nimi ijo
 
