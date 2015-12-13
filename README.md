@@ -51,6 +51,11 @@ nimi "sona" li ken weka lon monsi pi nimi ilo "o". *("sona" povas manki malanta�
 
 * jan pona **o** sona! → jan pona **o**! *(Amiko, sciu! → Ho amiko!)*
 
+### La partikulo "en": nimi ilo "en"
+
+* ona li moku ~~**en**~~ toki. → ona li moku li toki. *(Ŝi manĝas kaj parolas.)*
+* ona li moku e kili ~~**en**~~ pan. → ona li moku e kili e pan. *(Ŝi manĝas frukton kaj panon.)*
+
 ## Substantivoj: nimi ijo
 
 * **jan** *(homo)*
