@@ -113,28 +113,14 @@ nimi ijo li ken weka lon monsi pi nimi ijo sinpin. ni la nimi ijo sinpin ni li k
 
 #### Adjektiva Frazero: kulupu nimi lili pi nimi monsi
 
-##### Adjektiva Frazero je Partikulo: kulupu nimi lili pi nimi monsi pi nimi ilo
+sina ken kepeken nimi monsi lon monsi pi kulupu nimi lili pi nimi monsi. taso ni li ken toki ike. *(Oni povus uzi adjektivon malantaŭ adjektiva frazero. Sed tio ŝajnas evitinda.)*
 
-... *(...)*
+* ~~tomo **pi telo nasa**, pona~~ → tomo pona **pi telo nasa** *(bona trinkejo)*
+* ~~jan **lon tomo sona**, pona~~ → jan pona **lon tomo sona** *(amiko en lernejo)*
 
-* tomo **pi telo nasa** *(trinkejo)*
+### Frazo: kulupu nimi suli
 
-sina ken kepeken nimi monsi lon monsi pi kulupu nimi lili pi nimi monsi pi nimi ilo. taso ni li ken toki ike. *(Oni povus uzi adjektivon malantaŭ adjektiva frazero je partikulo. Sed tio ŝajnas evitinda.)*
-
-* ~~tomo **pi telo nasa**, pona~~ → tomo pona **pi telo nasa** (bona trinkejo)
-
-##### kulupu lili pi nimi monsi pi nimi ijo
-
-* jan pona **lon tomo sona** (amiko en lernejo)
-
-sina ken kepeken nimi "pi" li ken ala kepeken nimi "lon". taso kulupu nimi suli sina li kama ike.
-
-* ~~jan pona **pi tomo sona**~~ (amiko de lernejo)
-* ~~jan pona **pi lon pi tomo sona**~~ (amiko de ĉeesto de lernejo)
-
-### kulupu suli nimi (Frazo)
-
-* **mi lukin e sitelen.**
+* **mi lukin e sitelen.** *(Mi rigardas la bildon.)*
 
 #### kulupu suli pi nimi monsi (Subfrazo)
 
