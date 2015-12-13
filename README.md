@@ -64,7 +64,7 @@ nimi "sina o jo e" li ken weka.
 
 * **jan** *(homo)*
 
-### Adjektivoj: nimi ijo monsi
+### Adjektivoj/Adverboj: nimi ijo monsi
 
 * toki **pona** *(bona lingvo)*
 
@@ -75,9 +75,20 @@ nimi "ijo" li ken weka lon sinpin pi nimi ijo monsi. ni la nimi ijo monsi ni li 
 
 ### Prepozicioj: nimi ijo insa
 
-nimi insa li ken jo e nimi monsi ala. *(Prepozicio ne povas havi adverbon.)*
+nimi ijo insa li ken kama nimi ijo. *(Prepozicio povas fariĝi verbo.)*
+
+* ona li **tawa** tomo. *(Ŝi iras hejmen.)*
+* ona li tawa. *(Ŝi iras.)*
+
+sina ken kepeken nimi ijo insa lon poka pi nimi ijo sama. taso ni li ken toki ike. *(Oni povus uzi prepozicion kun sama verbo. Sed tio ŝajnas evitinda.)*
+
+* ona li ~~tawa~~ **tawa** tomo. → ona li **tawa** tomo. *(Ŝi iras al la hejmo. → Ŝi iras hejmen.)*
+* ona li tawa kepeken tenpo mute **tawa** tomo. *(Ŝi iras malrapide al la hejmo.)*
+
+nimi ijo insa li ken jo e nimi ijo monsi ala. *(Prepozicio ne povas havi adverbon.)*
 
 * ona li **tawa** ~~pona~~ tomo. → ona li tawa pona **tawa** tomo. *(Ŝi sekure iras hejmen.)*
+
 
 
 
