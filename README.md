@@ -5,7 +5,7 @@
 *(Partikuloj)*
 
 **nimi ilo** li lon insa pi [nimi ijo lawa](#nimi-ijo-lawa) (anu [kulupu nimi lili](#kulupu-nimi-lili)) en [nimi ijo](#nimi-ijo) ante.
-*(Partikulo estas inter substantivo (aŭ substantiva frazero) kaj alia radika vorto.)*
+*(Partikulo estas inter substantivo (aŭ frazero) kaj alia radika vorto.)*
 
 * toki **li** pona. *(Komunikado estas bona.)*
 
@@ -196,7 +196,7 @@ nasin ante la sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) "ala" en [nimi 
 * ona li tawa ala tawa tomo. *(Ŝi ne iras hejmen.)*
 
 ### kulupu nimi lili
-*(Substantiva Frazero)*
+*(Frazero)*
 
 * **jan pona** *(amiko)*
 
@@ -214,3 +214,16 @@ sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) lon monsi pi **kulupu nimi li
 
 * mi sona e jan ~~**pi ona li moku e soweli.**~~ → jan moku e soweli. mi sona e ona.
 * mi sona e ijo ~~**pi ona li moku e soweli.**~~ → mi sona e ni: ona li moku e soweli.
+
+### kulupu nimi lili sinpin
+*(Helpa Frazero)*
+
+[nimi ijo insa](#nimi-ijo-insa) "lon" li ken weka lon **kulupu nimi lili sinpin**.
+*(La prepozicio "lon" povas manki en helpa frazero.)*
+
+* mi toki lon tenpo ni. → lon tenpo ni **la** mi toki. → tenpo ni **la** mi toki. *(Mi parolas nun. → Nun, mi parolas.)*
+
+### kulupu nimi suli sinpin
+*(Helpa Frazo)*
+
+* sina kama la mi kama kin. *(Se vi venos, ankaŭ mi venos.)*
