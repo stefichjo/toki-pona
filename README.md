@@ -132,7 +132,7 @@ nimi ijo insa li ken kama [nimi ijo suli](#nimi-ijo-suli).
 * ona li **tawa** tomo. *(Ŝi iras hejmen.)*
 * ona li tawa. *(Ŝi iras.)*
 
-sina ken kepeken nimi ijo insa lon poka pi [nimi ijo suli](#nimi-ijo-suli) sama. taso ni li ken toki ike.
+sina ken kepeken nimi ijo insa lon poka pi [nimi ijo suli](#nimi-ijo-suli) sama. taso ni li toki ike.
 *(Oni povus uzi prepozicion kun sama verbo. Sed tio ŝajnas evitinda.)*
 
 * ona li ~~tawa~~ **tawa** tomo. → ona li **tawa** tomo. *(Ŝi iras al la hejmo. → Ŝi iras hejmen.)*
@@ -189,7 +189,7 @@ nasin ante la sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) "ala" en [nimi 
 
 * ona li **kama ala kama**? *(Ĉu ŝi venos?)*
 
-[nimi ijo insa](#nimi-ijo-insa) li ken kama [nimi ijo suli](#nimi-ijo-suli). taso [nimi ijo insa](#nimi-ijo-insa) ken jo e [nimi ijo monsi](#nimi-ijo-monsi) ala. tan ni la nasin ante ni pi kulupu nimi suli pi wile sona pi lon anu ala li ken toki ike.
+[nimi ijo insa](#nimi-ijo-insa) li ken kama [nimi ijo suli](#nimi-ijo-suli). taso [nimi ijo insa](#nimi-ijo-insa) ken jo e [nimi ijo monsi](#nimi-ijo-monsi) ala. tan ni la nasin ante ni pi kulupu nimi suli pi wile sona pi lon anu ala li toki ike.
 *(Prepozicio povas fariĝi verbo. Sed prepozicio ne povas havi adjektivon/adverbon. Tial tiu alternativa maniero de jes-/ne-demanda frazo ŝajnas evitinda.)*
 
 * ona li **tawa ~~ala tawa~~** tomo? → ona li tawa tomo **anu seme**? *(Ĉu ŝi iras hejmen?)*
@@ -203,7 +203,7 @@ nasin ante la sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) "ala" en [nimi 
 ### kulupu nimi lili monsi
 *(Adjektiva Frazero)*
 
-sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) lon monsi pi kulupu nimi lili monsi. taso ni li ken toki ike.
+sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) lon monsi pi kulupu nimi lili monsi. taso ni li toki ike.
 *(Oni povus uzi adjektivon malantaŭ adjektiva frazero. Sed tio ŝajnas evitinda.)*
 
 * tomo **pi telo nasa**, ~~pona~~ → tomo pona **pi telo nasa** *(bona trinkejo)*
