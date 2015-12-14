@@ -35,6 +35,11 @@
 
 * jan pona li lape ~~**pi**~~ lon tomo. → jan pona li lape lon tomo. *(Amiko dormas en la ĉambro.)*
 
+sina ken kepeken **nimi ilo "pi"** lon insa pi [nimi ijo lawa](#nimi-ijo-lawa) (anu [kulupu nimi lili](#kulupu-nimi-lili)) en [nimi ijo insa](#nimi-ijo-insa). taso ni li toki ike.
+*(Oni povas uzi la partikulon "pi" inter substantivo (aŭ frazero) kaj prepozicio. Sed tio ŝajnas evitinda.)*
+
+* pali ~~**pi**~~ lon tomo. → pali lon tomo *(laboro en domo)*
+
 ### nimi ilo "e"
 *(La Partikulo "e")*
 
