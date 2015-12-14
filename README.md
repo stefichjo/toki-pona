@@ -56,12 +56,13 @@ nimi ilo "pi" li weka lon sinpin pi [nimi ijo insa](#nimi-ijo-insa). *(La partik
 
 * mi moku **e** ijo. → mi moku. *(Mi manĝas ion. → Mi manĝas.)*
 
-[nimi ijo monsi](#nimi-ijo-monsi) anu [kulupu nimi lili monsi](#kulupu-nimi-lili-monsi) pi nimi ilo li ken lon insa pi [nimi ijo suli](#nimi-ijo-suli) en nimi ilo "e". *(Adjektivo aŭ adjektiva frazero je partikulo povas esti inter la verbo kaj la partikulo "e".)*
+[nimi ijo monsi](#nimi-ijo-monsi) anu [kulupu nimi lili monsi](#kulupu-nimi-lili-monsi) pi [nimi ilo](#nimi-ilo) li ken lon insa pi [nimi ijo suli](#nimi-ijo-suli) en nimi ilo "e". *(Adjektivo aŭ adjektiva frazero je partikulo povas esti inter la verbo kaj la partikulo "e".)*
 
 * mi lukin pona **e** sitelen. *(Mi legas bone.)*
 * mi lukin pi pona mute **e** sitelen. *(Mi legas tre bone.)*
 
-taso kulupu nimi lili monsi pi nimi ijo li ken lon sinpin pi kulupu nimi lili ala pi nimi ilo "e". *(Sed adjektiva frazero je radiko ne povas esti antaŭ frazero je la partikulo "e".)*
+taso [kulupu nimi lili monsi](#kulupu-nimi-lili-monsi) pi [nimi ijo](#nimi-ijo) li ken lon sinpin pi [kulupu nimi lili](#kulupu-nimi-lili) ala pi nimi ilo "e".
+*(Sed adjektiva frazero je radiko ne povas esti antaŭ frazero je la partikulo "e".)*
 
 * mi lukin **e** sitelen kepeken tenpo mute. *(Mi legas malrapide.)*
 
@@ -73,7 +74,7 @@ nimi "sina" li ken weka lon sinpin pi nimi ilo "o".
 
 * sina **o** kama. → **o** kama. *(Vi venu! → Venu!)*
 
-nimi ijo suli li ken weka lon monsi pi nimi ilo "o".
+[nimi ijo suli](#nimi-ijo-suli) li ken weka lon monsi pi nimi ilo "o".
 *(Verbo povas manki malantaŭ la partikulo "o".)*
 
 * jan pona **o** sona! → jan pona **o**! *(Amiko, sciu! → Ho amiko!)*
@@ -86,7 +87,7 @@ nimi "sina o jo e" li ken weka.
 ### nimi ilo "en"
 *(La partikulo "en")*
 
-sina ken kepeken nimi ilo "en" ala lon kulupu nimi lili pi nimi ijo suli anu nimi ilo "e".
+sina ken kepeken nimi ilo "en" ala lon [kulupu nimi lili](#kulupu-nimi-lili) pi [nimi ijo suli](#nimi-ijo-suli) anu [nimi ilo "e"](#nimi-ilo-e).
 *(Oni ne povas uzi la partikulon "en" en verba frazero aŭ en akuzativa frazero.)*
 
 * ona li moku ~~**en**~~ toki. → ona li moku li toki. *(Ŝi manĝas kaj parolas.)*
@@ -103,7 +104,7 @@ sina ken kepeken nimi ilo "en" ala lon kulupu nimi lili pi nimi ijo suli anu nim
 ### nimi ijo lawa
 *(Substantivoj)*
 
-nimi ijo lawa li nimi ijo pona. nimi ijo ante li pona ala.
+nimi ijo lawa li [nimi ijo](#nimi-ijo) pona. [nimi ijo](#nimi-ijo) ante li ike.
 *(Substantivoj estas la plej simplaj radikaj vortoj.)*
 
 * **jan** *(homo)*
@@ -113,7 +114,7 @@ nimi ijo lawa li nimi ijo pona. nimi ijo ante li pona ala.
 
 * toki **pona** *(bona lingvo)*
 
-[nimi ijo lawa](#nimi-ijo-lawa) "ijo" li ken weka lon sinpin pi nimi ijo monsi. ni la nimi ijo monsi ni li kama [nimi ijo lawa](#nimi-ijo-lawa).
+[nimi ijo lawa](#nimi-ijo-lawa) "ijo" li ken weka lon sinpin pi [nimi ijo monsi](#nimi-ijo-monsi). ni la [nimi ijo monsi](#nimi-ijo-monsi) ni li kama [nimi ijo lawa](#nimi-ijo-lawa).
 *(La substantivo "ijo" povas manki antaŭ adjektivo. Tiam tiu adjektivo fariĝas substantivo.)*
 
 * ijo **suno** → suno *(io hela → lumo, la suno)*
