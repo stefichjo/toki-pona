@@ -4,8 +4,8 @@
 ## nimi ilo
 *(Partikuloj)*
 
-**nimi ilo** li lon insa pi [nimi ijo lawa](#nimi-ijo-lawa) (anu [kulupu nimi lili](#kulupu-nimi-lili)) en [nimi ijo](#nimi-ijo) ante.
-*(Partikulo estas inter substantivo (aŭ frazero) kaj alia radika vorto.)*
+**nimi ilo** li lon insa pi [nimi ijo lawa](#nimi-ijo-lawa) (anu [kulupu nimi lili lawa](#kulupu-nimi-lili-lawa)) en [nimi ijo](#nimi-ijo) ante.
+*(Partikulo estas inter substantivo (aŭ substantiva frazero) kaj alia radika vorto.)*
 
 * toki **li** pona. *(Komunikado estas bona.)*
 
@@ -24,8 +24,8 @@
 ### nimi ilo "pi"
 *(La Partikulo "pi")*
 
-**nimi ilo "pi"** li weka lon sinpin pi [nimi ijo](#nimi-ijo) pi wan taso.
-*(La partikulo "pi" mankas antaŭ unu radika vorto sola.)*
+**nimi ilo "pi"** li insa [nimi ijo lawa](#nimi-ijo-lawa) (anu [kulupu nimi lili lawa](#kulupu-nimi-lili-lawa)) en [kulupu nimi lili lawa](#kulupu-nimi-lili-lawa) ante.
+*(La partikulo "pi" estas inter substantivo (aŭ substantiva frazero) kaj alia substantiva frazero.)*
 
 * toki ~~**pi**~~ pona → toki pona *(bona lingvo)*
 * toki **pi** pona ~~**pi**~~ mute → toki **pi** pona mute *(tre bona lingvo)*
@@ -35,8 +35,8 @@
 
 * jan pona li lape ~~**pi**~~ lon tomo. → jan pona li lape lon tomo. *(Amiko dormas en la ĉambro.)*
 
-sina ken kepeken **nimi ilo "pi"** lon insa pi [nimi ijo lawa](#nimi-ijo-lawa) (anu [kulupu nimi lili](#kulupu-nimi-lili)) en [nimi ijo insa](#nimi-ijo-insa). taso ni li toki ike.
-*(Oni povas uzi la partikulon "pi" inter substantivo (aŭ frazero) kaj prepozicio. Sed tio ŝajnas evitinda.)*
+sina ken kepeken **nimi ilo "pi"** lon insa pi [nimi ijo lawa](#nimi-ijo-lawa) (anu [kulupu nimi lili lawa](#kulupu-nimi-lili-lawa)) en [nimi ijo insa](#nimi-ijo-insa). taso ni li toki ike.
+*(Oni povas uzi la partikulon "pi" inter substantivo (aŭ substantiva frazero) kaj prepozicio. Sed tio ŝajnas evitinda.)*
 
 * pali ~~**pi**~~ lon tomo. → pali lon tomo *(laboro en domo)*
 
@@ -177,6 +177,9 @@ sina ken kepeken **nimi ijo insa** lon poka pi [nimi ijo suli](#nimi-ijo-suli) s
 
 ### kulupu nimi lili
 *(Frazero)*
+
+#### kulupu nimi lili lawa
+*(Substantiva Frazero)*
 
 * **jan pona** *(amiko)*
 
