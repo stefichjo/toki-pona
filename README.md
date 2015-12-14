@@ -12,11 +12,10 @@ nimi ilo li lon insa pi [nimi ijo lawa](#nimi-ijo-lawa) (anu [kulupu nimi lili](
 ### nimi ilo "li"
 *(La Partikulo "li")*
 
-nimi ilo "li" li lon insa ``subjekto`` en ``predikato``.
-
 * ona **li** pona. *(Ĝi estas bona.)*
 
-nimi ilo "li" li weka lon monsi pi nimi "mi" taso anu nimi "sina" taso. *(La partikulo "li" mankas malantaŭ sola "mi" aŭ sola "sina".)*
+nimi ilo "li" li weka lon monsi pi nimi "mi" taso anu nimi "sina" taso.
+*(La partikulo "li" mankas malantaŭ sola "mi" aŭ sola "sina".)*
 
 * mi ~~**li**~~ toki. → mi toki. *(Mi parolas.)*
 * sina ~~**li**~~ toki. → sina toki. *(Vi parolas.)*
@@ -25,12 +24,14 @@ nimi ilo "li" li weka lon monsi pi nimi "mi" taso anu nimi "sina" taso. *(La par
 ### nimi ilo "pi"
 *(La Partikulo "pi")*
 
-nimi ilo "pi" li weka lon sinpin pi [nimi ijo](#nimi-ijo) pi wan taso. *(La partikulo "pi" mankas antaŭ unu radika vorto sola.)*
+nimi ilo "pi" li weka lon sinpin pi [nimi ijo](#nimi-ijo) pi wan taso.
+*(La partikulo "pi" mankas antaŭ unu radika vorto sola.)*
 
 * toki ~~**pi**~~ pona → toki pona *(bona lingvo)*
 * toki **pi** pona ~~**pi**~~ mute → toki **pi** pona mute *(tre bona lingvo)*
 
-nimi ilo "pi" li weka lon sinpin pi [nimi ijo insa](#nimi-ijo-insa). *(La partikulo "pi" mankas antaŭ prepozicio.)*
+nimi ilo "pi" li weka lon sinpin pi [nimi ijo insa](#nimi-ijo-insa).
+*(La partikulo "pi" mankas antaŭ prepozicio.)*
 
 * jan pona li lape ~~**pi**~~ lon tomo. → jan pona li lape lon tomo. *(Amiko dormas en la ĉambro.)*
 
@@ -52,11 +53,13 @@ nimi ilo "pi" li weka lon sinpin pi [nimi ijo insa](#nimi-ijo-insa). *(La partik
 * mi tawa tomo. *(Mi iras hejmen.)*
 * mi tawa tomo **e** sina. *(Mi portas vin hejmen.)*
 
-[kulupu nimi lili](#kulupu-nimi-lili) pi nimi ilo "e" li ken weka. *(Frazero je la partikulo "e" povas manki.)*
+[kulupu nimi lili](#kulupu-nimi-lili) pi nimi ilo "e" li ken weka.
+*(Frazero je la partikulo "e" povas manki.)*
 
 * mi moku **e** ijo. → mi moku. *(Mi manĝas ion. → Mi manĝas.)*
 
-[nimi ijo monsi](#nimi-ijo-monsi) anu [kulupu nimi lili monsi](#kulupu-nimi-lili-monsi) pi [nimi ilo](#nimi-ilo) li ken lon insa pi [nimi ijo suli](#nimi-ijo-suli) en nimi ilo "e". *(Adjektivo aŭ adjektiva frazero je partikulo povas esti inter la verbo kaj la partikulo "e".)*
+[nimi ijo monsi](#nimi-ijo-monsi) anu [kulupu nimi lili monsi](#kulupu-nimi-lili-monsi) pi [nimi ilo](#nimi-ilo) li ken lon insa pi [nimi ijo suli](#nimi-ijo-suli) en nimi ilo "e".
+*(Adjektivo aŭ adjektiva frazero je partikulo povas esti inter la verbo kaj la partikulo "e".)*
 
 * mi lukin pona **e** sitelen. *(Mi legas bone.)*
 * mi lukin pi pona mute **e** sitelen. *(Mi legas tre bone.)*
@@ -144,7 +147,8 @@ nimi ijo insa li ken jo e [nimi ijo monsi](#nimi-ijo-monsi) ala anu [kulupu nimi
 ### nimi ijo suli
 *(Verboj)*
 
-[kulupu nimi suli](#kulupu-nimi-suli) la nimi ijo suli li suli. nimi ali ante li lili. *(En frazo, la verbo estas la plej grava vorto.)*
+[kulupu nimi suli](#kulupu-nimi-suli) la nimi ijo suli li suli. nimi ali ante li lili.
+*(En frazo, la verbo estas la plej grava vorto.)*
 
 * ona li **lape**. *(Ŝi dormas.)*
 * ona li **pona**. *(Ŝi estas bona.)*
@@ -169,7 +173,8 @@ nimi ijo insa li ken jo e [nimi ijo monsi](#nimi-ijo-monsi) ala anu [kulupu nimi
 #### kulupu nimi suli pi wile sona
 *(Demanda Frazo)*
 
-nimi pi wile sona li nimi "seme". *(La demanda vorto estas "seme".)*
+nimi pi wile sona li nimi "seme".
+*(La demanda vorto estas "seme".)*
 
 * sina lukin e **seme**? *(Kion vi vidas?)*
 * jan **seme** li lon tomo? *(Kiu estas en la domo?)*
