@@ -40,6 +40,11 @@ sina ken kepeken **nimi ilo "pi"** lon insa pi [nimi ijo lawa](#nimi-ijo-lawa) (
 
 * pali ~~**pi**~~ lon tomo. → pali lon tomo *(laboro en domo)*
 
+sina ken kepeken **nimi ilo "pi"** lon monsi pi [nimi ilo "li"]. taso ni li toki ike.
+*(Oni povas uzi la partikulon "pi" malantaŭ la partikulo "li". Sed tio ŝajnas evitinda.)*
+
+* kili ni li ~~**pi**~~ mi. → kili ni li ijo mi. *(Tiu frukto estas mia. → Tiu frukto estas io mia.)*
+
 ### nimi ilo "e"
 *(La Partikulo "e")*
 
@@ -125,7 +130,7 @@ sina ken kepeken **nimi ilo "en"** ala lon [kulupu nimi lili](#kulupu-nimi-lili)
 [nimi ijo lawa](#nimi-ijo-lawa) "ijo" li ken weka lon sinpin pi [nimi ijo monsi](#nimi-ijo-monsi). ni la [nimi ijo monsi](#nimi-ijo-monsi) ni li kama [nimi ijo lawa](#nimi-ijo-lawa).
 *(La substantivo "ijo" povas manki antaŭ adjektivo. Tiam tiu adjektivo fariĝas substantivo.)*
 
-* ijo **suno** → suno *(io hela → lumo, la suno)*
+* ijo **suno** → suno *(io hela, io brilanta → lumo, la suno)*
 * ijo **moku** → moku *(io manĝebla → manĝaĵo)*
 
 ### nimi ijo insa
