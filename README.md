@@ -40,7 +40,7 @@ sina ken kepeken **nimi ilo "pi"** lon insa pi [nimi ijo lawa](#nimi-ijo-lawa) (
 
 * pali ~~**pi**~~ lon tomo. → pali lon tomo *(laboro en domo)*
 
-sina ken kepeken **nimi ilo "pi"** lon monsi pi [nimi ilo "li"]. taso ni li toki ike.
+sina ken kepeken **nimi ilo "pi"** lon monsi pi [nimi ilo "li"](nimi-ilo-li). taso ni li toki ike.
 *(Oni povas uzi la partikulon "pi" malantaŭ la partikulo "li". Sed tio ŝajnas evitinda.)*
 
 * kili ni li ~~**pi**~~ mi. → kili ni li ijo mi. *(Tiu frukto estas mia. → Tiu frukto estas io mia.)*
