@@ -165,6 +165,11 @@ sina ken kepeken **nimi ijo insa** lon poka pi [nimi ijo suli](#nimi-ijo-suli) s
 ## kulupu nimi
 *(Vortgrupoj)*
 
+### kulupu nimi lili
+*(Frazero)*
+
+* **jan pona** *(amiko)*
+
 ### kulupu nimi suli
 *(Frazo)*
 
@@ -194,11 +199,6 @@ nasin ante la sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) "ala" en [nimi 
 
 * ona li **tawa ~~ala tawa~~** tomo? → ona li tawa tomo **anu seme**? *(Ĉu ŝi iras hejmen?)*
 * ona li tawa ala tawa tomo. *(Ŝi ne iras hejmen.)*
-
-### kulupu nimi lili
-*(Frazero)*
-
-* **jan pona** *(amiko)*
 
 ### kulupu nimi lili monsi
 *(Adjektiva Frazero)*
