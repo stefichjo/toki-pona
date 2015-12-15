@@ -111,6 +111,11 @@ sina ken kepeken **nimi ilo "en"** ala lon [kulupu nimi lili](#kulupu-nimi-lili)
 
 ... *(...)*
 
+### nimi ilo "la"
+*(La partikulo "la")*
+
+→ [nimi kulupu sinpin](#nimi-kulupu-sinpin)
+
 ## nimi ijo
 *(Radikaj Vortoj)*
 
@@ -130,8 +135,8 @@ sina ken kepeken **nimi ilo "en"** ala lon [kulupu nimi lili](#kulupu-nimi-lili)
 [nimi ijo lawa](#nimi-ijo-lawa) "ijo" li ken weka lon sinpin pi [nimi ijo monsi](#nimi-ijo-monsi). ni la [nimi ijo monsi](#nimi-ijo-monsi) ni li kama [nimi ijo lawa](#nimi-ijo-lawa).
 *(La substantivo "ijo" povas manki antaŭ adjektivo. Tiam tiu adjektivo fariĝas substantivo.)*
 
-* ijo **suno** → suno *(io hela, io brilanta → lumo, la suno)*
-* ijo **moku** → moku *(io manĝebla → manĝaĵo)*
+* suno *(heleco, brilo)*
+ * ijo **suno** → suno *(io hela, io brilanta → lumo, la suno)*
 
 ### nimi ijo insa
 *(Prepozicioj)*
@@ -228,7 +233,10 @@ sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) lon monsi pi **kulupu nimi li
 * mi sona e jan ~~**pi ona li moku e soweli.**~~ → jan moku e soweli. mi sona e ona.
 * mi sona e ijo ~~**pi ona li moku e soweli.**~~ → mi sona e ni: ona li moku e soweli.
 
-### kulupu nimi lili sinpin
+### kulupu nimi sinpin
+*(Helpa Fraz(er)o)*
+
+#### kulupu nimi lili sinpin
 *(Helpa Frazero)*
 
 [nimi ijo insa](#nimi-ijo-insa) "lon" li ken weka lon **kulupu nimi lili sinpin**.
@@ -236,7 +244,10 @@ sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) lon monsi pi **kulupu nimi li
 
 * mi toki lon tenpo ni. → lon tenpo ni **la** mi toki. → tenpo ni **la** mi toki. *(Mi parolas nun. → Nun, mi parolas.)*
 
-### kulupu nimi suli sinpin
+#### kulupu nimi suli sinpin
 *(Helpa Frazo)*
 
-* sina kama la mi kama kin. *(Se vi venos, ankaŭ mi venos.)*
+nimi ilo "la" li lon insa pi **kulupu nimi suli sinpin** en [kulupu nimi suli](#kulupu-nimi-suli) lawa.
+*(La partikulo "la" estas inter helpa frazo kaj ĉefa frazo.)*
+
+* sina kama **la** mi kama kin. *(Se vi venos, ankaŭ mi venos.)*
