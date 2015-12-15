@@ -159,6 +159,23 @@ sina ken kepeken **nimi ijo insa** lon poka pi [nimi ijo suli](#nimi-ijo-suli) s
 * ona li **tawa** ~~pona~~ tomo. → ona li tawa pona **tawa** tomo. *(Ŝi sekure iras hejmen.)*
 * mi **tawa** ~~e sina~~ tomo. → mi **tawa** tomo e sina. *(Mi portas vin hejmen.)*
 
+### nimi ijo lawa pi lon en tawa
+*(Lokaj Substantivoj)*
+
+**nimi ijo lawa pi lon en tawa** lon poka pi [nimi ijo insa](#nimi-ijo-insa) "lon" anu "tawa" anu "tan" li sama [nimi ijo insa](#nimi-ijo-insa) sin pi pona a kute.
+*(Loka substantivo kun la prepozicio "lon" aŭ "tawa" aŭ "tan" estas kiel nova pli facile komprenebla prepozicio.)*
+
+* jan pona li lon tomo sona *(Amiko estas ĉe la lernejo.)*
+ * jan pona li lon **insa** pi tomo sona. *(Amiko estas ĉe la interno de la lernejo. = Amiko estas en la lernejo.)*
+ * jan pona li tawa **insa** pi tomo sona. *(Amiko iras al la interno de la lernejo. = Amiko iras en la lernejon.)*
+
+sina ken ala kepeken **nimi ijo lawa pi lon en tawa** taso sama [nimi ijo insa](#nimi-ijo-insa).
+*(Oni ne povas uzi lokan substantivon solan kvazaŭ prepozicion.)*
+
+* ona li lon **poka** pi tomo tawa. (Ŝi estas ĉe la flanko de la aŭto. = Ŝi estas apud la aŭto.)
+ * ~~ona li **poka** tomo tawa.~~
+* ona li **poka** lon tomo tawa. (Ŝi flankas ĉe la aŭto. = Ŝi apudas la aŭton.)
+
 ### nimi ijo suli
 *(Verboj)*
 
