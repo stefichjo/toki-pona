@@ -114,7 +114,7 @@ sina ken kepeken **nimi ilo "en"** ala lon [kulupu nimi lili](#kulupu-nimi-lili)
 ### nimi ilo "la"
 *(La partikulo "la")*
 
-→ [nimi kulupu sinpin](#nimi-kulupu-sinpin)
+→ [kulupu nimi sinpin](#kulupu-nimi-sinpin)
 
 ## nimi ijo
 *(Radikaj Vortoj)*
