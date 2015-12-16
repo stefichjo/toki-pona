@@ -92,10 +92,11 @@ nimi "sina" li ken weka lon sinpin pi **nimi ilo "o"**.
 
 * jan pona **o** sona! → jan pona **o**! *(Amiko, sciu! → Ho amiko!)*
 
-nimi "sina o jo e" li ken weka.
-*("sina o jo e" povas manki.)*
+nimi "o lon" li ken weka.
+*("o lon" povas manki.)*
 
-* sina **o** jo e kama pona! → kama pona! *(Bonvenon!)*
+* kama pona **o** lon! → kama pona! *(Bonvenon)*!
+* tawa pona **o** lon! → tawa pona! *(Bonan vojaĝon!)*
 
 ### nimi ilo "en"
 *(La partikulo "en")*
