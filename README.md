@@ -259,7 +259,8 @@ nasin ante la sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) "ala" en [nimi 
 [nimi ijo insa](#nimi-ijo-insa) "lon" li ken weka lon **kulupu nimi lili sinpin**.
 *(La prepozicio "lon" povas manki en helpa frazero.)*
 
-* mi toki lon tenpo ni. → lon tenpo ni **la** mi toki. → tenpo ni **la** mi toki. *(Mi parolas nun. → Nun, mi parolas.)*
+* mi lape lon tenpo pimeja. *(Mi dormas dum la nokto.)*
+ * lon tenpo pimeja **la** mi lape. → tenpo pimeja **la** mi lape. *(Dum la nokto, mi dormas. → Nokte, mi dormas.)*
 
 #### kulupu nimi suli sinpin
 *(Helpa Frazo)*
@@ -267,4 +268,5 @@ nasin ante la sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) "ala" en [nimi 
 nimi ilo "la" li lon insa pi **kulupu nimi suli sinpin** en [kulupu nimi suli](#kulupu-nimi-suli) lawa.
 *(La partikulo "la" estas inter helpa frazo kaj ĉefa frazo.)*
 
-* sina kama **la** mi kama kin. *(Se vi venos, ankaŭ mi venos.)*
+* tenpo pimeja **la** mi lape. *(Nokte, mi dormas.)*
+ * tenpo li pimeja **la** mi lape. *(Dum la tempo estas malhela, mi dormas.)*
