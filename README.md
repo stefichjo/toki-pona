@@ -205,6 +205,15 @@ sina ken ala kepeken **nimi ijo lawa pi lon en tawa** taso sama [nimi ijo insa](
 
 * **jan pona** *(amiko)*
 
+#### kulupu nimi lili monsi
+*(Adjektiva Frazero)*
+
+sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) lon monsi pi **kulupu nimi lili monsi**. taso ni li toki ike.
+*(Oni povus uzi adjektivon malantaŭ adjektiva frazero. Sed tio ŝajnas evitinda.)*
+
+* tomo **pi telo nasa**, ~~pona~~ → tomo pona **pi telo nasa** *(bona trinkejo)*
+* jan **lon tomo sona**, ~~pona~~ → jan pona **lon tomo sona** *(amiko en lernejo)*
+
 ### kulupu nimi suli
 *(Frazo)*
 
@@ -234,15 +243,6 @@ nasin ante la sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) "ala" en [nimi 
 
 * ona li **tawa ~~ala tawa~~** tomo? → ona li tawa tomo **anu seme**? *(Ĉu ŝi iras hejmen?)*
 * ona li tawa ala tawa tomo. *(Ŝi ne iras hejmen.)*
-
-### kulupu nimi lili monsi
-*(Adjektiva Frazero)*
-
-sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) lon monsi pi **kulupu nimi lili monsi**. taso ni li toki ike.
-*(Oni povus uzi adjektivon malantaŭ adjektiva frazero. Sed tio ŝajnas evitinda.)*
-
-* tomo **pi telo nasa**, ~~pona~~ → tomo pona **pi telo nasa** *(bona trinkejo)*
-* jan **lon tomo sona**, ~~pona~~ → jan pona **lon tomo sona** *(amiko en lernejo)*
 
 ### kulupu nimi suli monsi
 *(Adjektiva Frazo)*
