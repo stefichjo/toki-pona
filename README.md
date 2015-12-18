@@ -270,3 +270,36 @@ nimi ilo "la" li lon insa pi **kulupu nimi suli sinpin** en [kulupu nimi suli](#
 
 * tenpo pimeja **la** mi lape. *(Nokte, mi dormas.)*
  * tenpo li pimeja **la** mi lape. *(Dum la tempo estas malhela, mi dormas.)*
+
+# nasin toki pi toki pi pona ala
+
+## toki ike
+*(Komplika Lingvaĵo)*
+
+* jan pona pi tawa pi ma tomo Lantan la mi lon ala.
+* jan pona li tawa ma tomo Lantan la mi lon ala.
+
+## toki pakala
+*(Fuŝa Lingvaĵo)*
+
+* mi kepeken e ilo. → mi kepeken ilo.
+* mi lukin anpa. → mi lukin e anpa.
+
+## toki nasa
+*(Stranga Lingvaĵo)*
+
+## toki namako
+*(Neologisma Lingvaĵo)*
+
+* namako → sin
+* a → kin
+* monsuta → aseki
+
+## toki mu
+*(Slanga Lingvaĵo)*
+
+ona li mu. → ona li toki "mu".
+ona li poka tomo tawa. → ona li lon poka pi tomo tawa.
+
+## toki pi pu ala
+*(Tokiponido)*
