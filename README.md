@@ -160,21 +160,27 @@ sina ken kepeken **nimi ijo insa** lon poka pi [nimi ijo suli](#nimi-ijo-suli) s
 * ona li **tawa** ~~pona~~ tomo. → ona li tawa pona **tawa** tomo. *(Ŝi sekure iras hejmen.)*
 * mi **tawa** ~~e sina~~ tomo. → mi **tawa** tomo e sina. *(Mi portas vin hejmen.)*
 
-### nimi ijo lawa pi lon en tawa
+### nimi ijo lawa lon
 *(Lokaj Substantivoj)*
 
-**nimi ijo lawa pi lon en tawa** lon poka pi [nimi ijo insa](#nimi-ijo-insa) "lon" anu "tawa" anu "tan" li sama [nimi ijo insa](#nimi-ijo-insa) sin pi pona a kute.
+**nimi ijo lawa lon** lon poka pi [nimi ijo insa](#nimi-ijo-insa) "lon" anu "tawa" anu "tan" li sama [nimi ijo insa](#nimi-ijo-insa) sin pi pona a sona.
 *(Loka substantivo kun la prepozicio "lon" aŭ "tawa" aŭ "tan" estas kiel nova pli facile komprenebla prepozicio.)*
 
-* jan pona li lon tomo sona. *(Amiko estas ĉe la lernejo.)*
- * jan pona li lon **insa** pi tomo sona. *(Amiko estas ĉe la interno de la lernejo. = Amiko estas en la lernejo.)*
- * jan pona li tawa **insa** pi tomo sona. *(Amiko iras al la interno de la lernejo. = Amiko iras en la lernejon.)*
+#### nimi ijo lawa pi lon insa
+*(En-lokaj Substantivoj)*
 
-sina ken ala kepeken **nimi ijo lawa pi lon en tawa** taso sama [nimi ijo insa](#nimi-ijo-insa).
-*(Oni ne povas uzi lokan substantivon solan kvazaŭ prepozicion.)*
+nimi ijo lawa pi lon insa li nimi "insa" en nimi "sewi".
 
-* ona li lon **poka** pi tomo tawa. (Ŝi estas ĉe la flanko de la aŭto. = Ŝi estas apud la aŭto.)
-* ~~ona li **poka** tomo tawa.~~ → ona li **poka** lon tomo tawa. (Ŝi flankas ĉe la aŭto. = Ŝi apudas la aŭton.)
+* ona li lon **insa** pi tomo sona. *("Ŝi estas ĉe la interno de la lernejo." = Ŝi estas en la lernejo.)*
+ * ona li insa lon tomo sona. *("Ŝi internas ĉe la lernejo." = Ŝi estas en la lernejo.)*
+
+#### nimi ijo lawa pi lon poka
+*(Ĉe-lokaj Substantivoj)*
+
+nimi ijo lawa pi lon poka li nimi "poka" li nimi "sinpin" li nimi "monsi" li nimi "noka".
+
+* ona li lon poka pi tomo sona. *("Ŝi estas ĉe la flanko de la lernejo." = Ŝi estas apud la lernejo.)*
+ * tomo sona li poka lon ona. *("La lernejo flankas ĉe ŝi." = Ŝi estas apud la lernejo.)*
 
 ### nimi ijo suli
 *(Verboj)*
@@ -297,6 +303,14 @@ nimi ilo "la" li lon insa pi **kulupu nimi suli sinpin** en [kulupu nimi suli](#
 
 ## toki mu
 *(Slanga Lingvaĵo)*
+
+sina ken ala kepeken **nimi ijo lawa lon** sama [nimi ijo insa](#nimi-ijo-insa).
+*(Oni ne povas uzi lokan substantivon kvazaŭ prepozicion.)*
+
+* jan pona li lon **poka** pi tomo sona. ("Amiko estas ĉe la flanko de la lernejo." = Amiko estas apud la lernejo.)
+* ~~tomo sona li poka jan pona.~~ → tomo sona li poka lon jan pona. ("~~Lernejo flankas home bone.~~" → "Lernejo flankas ĉe amiko." = "Amiko estas apud lernejo.)
+
+... *(...)*
 
 ona li mu. → ona li toki "mu".
 ona li poka tomo tawa. → ona li lon poka pi tomo tawa.
