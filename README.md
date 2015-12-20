@@ -240,7 +240,7 @@ nimi ilo "la" li lon insa pi **kulupu nimi suli sinpin** en [kulupu nimi suli](#
 * tenpo pimeja **la** mi lape. *(Dum la nokto, mi dormas.)*
 * tenpo li pimeja **la** mi lape. *(Dum la tempo estas malhela, mi dormas.)*
 
-# nasin toki pi toki pi pona ala
+# nasin toki pi pona ala
 
 ## toki ike
 *(Komplika Lingvaĵo)*
