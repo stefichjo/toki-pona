@@ -33,8 +33,8 @@
 ### nimi ilo "e"
 *(La Partikulo "e")*
 
-sina ken [nimi ijo suli](#nimi-ijo-suli) e [nimi ijo](#nimi-ijo). [nimi ijo sinpin](#nimi-ijo-sinpin) lon sinpin pi [nimi ijo suli](#nimi-ijo-suli) ni lon sinpin pi nimi ilo "e" li ken weka.
-*(Oni povas verbigi radikan vorton. Helpa verbo antaŭ tia (transitiva) verbo povas manki.)*
+sina ken [nimi ijo suli](#nimi-ijo-suli) e [nimi ijo](#nimi-ijo). [nimi ijo sinpin](#nimi-ijo-sinpin) lon sinpin pi [nimi ijo suli](#nimi-ijo-suli) ni lon sinpin pi nimi ilo "e" ni li ken weka.
+*(Oni povas verbigi radikan vorton. Helpa verbo antaŭ tia verbo (transitiva) povas manki.)*
 
 * ona li pona. *(Ŝi estas sana.)*
 * ona li kama pona. *(Ŝi saniĝas.)*
@@ -149,6 +149,17 @@ nimi ijo lawa pi lon insa li nimi "insa" en nimi "sewi".
 * ona li lon **insa** pi tomo sona. *("Ŝi estas ĉe la interno de la lernejo." = Ŝi estas en la lernejo.)*
  * ona li insa lon tomo sona. *("Ŝi internas ĉe la lernejo." = Ŝi estas en la lernejo.)*
 
+sina ken **nimi ijo lawa pi lon insa** e [nimi ijo lawa](#nimi-ijo-lawa).
+*(Oni povas igi substantivon enloka.)*
+
+* anpa *(malalto)*
+ * pipi li lon anpa mi. *(Insekto estas sub mi.)*
+* lawa *(supro)*
+ * kon li pona lon lawa nena. *(La aero estas bona supre de la monto.)*
+* open *(malfermiteco)*
+ * mi tawa lon open pi lupa tomo. *(Mi iras tra la pordo de la domo.)*
+ * mi tawa lon open pi poka tomo. *("Mi iras tra la apudo de la domo." → Mi iras preter la domo.)*
+
 #### nimi ijo lawa pi lon poka
 *(Ĉe-lokaj Substantivoj)*
 
@@ -156,6 +167,14 @@ nimi ijo lawa pi lon poka li nimi "poka" li nimi "sinpin" li nimi "monsi" li nim
 
 * ona li lon poka pi tomo sona. *("Ŝi estas ĉe la flanko de la lernejo." = Ŝi estas apud la lernejo.)*
  * tomo sona li poka lon ona. *("La lernejo flankas ĉe ŝi." = Ŝi estas apud la lernejo.)*
+
+sina ken **nimi ijo lawa pi lon poka** e [nimi ijo lawa](#nimi-ijo-lawa).
+*(Oni povas igi substantivon ĉeloka.)*
+
+* sike *(kurbiteco)*
+ * mi tawa lon sike tomo. *(Mi iras ĉirkaŭ la domo(n).)*
+* supa *(horizontaleco)*
+ * waso li lon supa pi tomo sona. *(Birdo sidas sur la lernejo.)*
 
 ### nimi ijo suli
 *(Verboj)*
@@ -244,25 +263,6 @@ nimi ilo "la" li lon insa pi **kulupu nimi suli sinpin** en [kulupu nimi suli](#
 
 # nasin toki pi pona ala
 
-## toki walo
-*(Redunda Lingvaĵo)*
-
-sina ken kepeken [nimi ijo insa](#nimi-ijo-insa) lon poka pi [nimi ijo suli](#nimi-ijo-suli) sama. taso ni li **toki walo**.
-*(Oni povus uzi prepozicion kun sama verbo. Sed tio ŝajnas evitinda.)*
-
-* ona li ~~tawa~~ **tawa** tomo. → ona li **tawa** tomo. *(Ŝi iras al la hejmo. → Ŝi iras hejmen.)*
-* ona li tawa kepeken tenpo mute **tawa** tomo. *(Ŝi iras malrapide al la hejmo.)*
-
-## toki pimeja
-*(Obskura Lingvaĵo)*
-
-sina ken [nimi ijo](#nimi-ijo) ante e [nimi ijo](#nimi-ijo) lon weka pi [nimi ijo sinpin](#nimi-ijo-sinpin). taso ni li **toki pimeja**.
-*(Oni povus derivi alian vorton de vorto sen helpa verbo. Sed tio ŝajnas evitinda.)*
-
-* ona li (kama) open e lupa. *(Ŝi malfermas la pordon.)*
- * ~~open~~ → kama open *(malfermo, malfermiĝo)*
- * open *(malfermiteco)*
-
 ## toki ike
 *(Komplika Lingvaĵo)*
 
@@ -273,6 +273,12 @@ sina ken kepeken **nimi ilo "pi"** lon insa pi [nimi ijo](#nimi-ijo) en [nimi ij
  * pali pi lon tomo *("laboro de doma ĉeesto")*
 * jan pona li lape ~~**pi**~~ lon tomo. → jan pona li lape lon tomo. *(Amiko dormas en la domo.)*
  * jan pona li lape pi lon tomo. *("Amiko dormas dom-ĉeeste.")*
+
+sina ken kepeken [nimi ijo insa](#nimi-ijo-insa) lon poka pi [nimi ijo suli](#nimi-ijo-suli) sama. taso ni li **toki ike**.
+*(Oni povus uzi prepozicion kun sama verbo. Sed tio ŝajnas evitinda.)*
+
+* ona li ~~tawa~~ **tawa** tomo. → ona li **tawa** tomo. *(Ŝi iras al la hejmo. → Ŝi iras hejmen.)*
+* ona li tawa kepeken tenpo mute **tawa** tomo. *(Ŝi iras malrapide al la hejmo.)*
 
 sina ken [nimi ijo suli](#nimi-ijo-suli) e [nimi ijo lawa lon](#nimi-ijo-lawa-lon). taso ni li **toki ike**.
 *(Oni povus verbigi lokajn substantivojn. Sed tio ŝajnas evitinda.)*
