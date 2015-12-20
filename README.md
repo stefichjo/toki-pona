@@ -33,10 +33,12 @@
 ### nimi ilo "e"
 *(La Partikulo "e")*
 
-... *(...)*
+sina ken [nimi ijo suli](#nimi-ijo-suli) e [nimi ijo](#nimi-ijo). [nimi ijo sinpin](#nimi-ijo-sinpin) lon sinpin pi [nimi ijo suli] lon sinpin pi nimi ilo "e" ni li ken weka.
+*(Oni povas verbigi radikan vorton. Helpa verbo antaŭ tia verbo (transitiva) povas manki.)*
 
 * ona li pona. *(Ŝi estas sana.)*
-* ona li pona **e** sina. *(Ŝi sanigas vin.)*
+* ona li kama pona. *(Ŝi saniĝas.)*
+* jan pona li ~~kama~~ pona **e** ona. → jan pona li pona **e** ona. *(Amiko sanigas ŝin.)*
 
 ... *(...)*
 
