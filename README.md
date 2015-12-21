@@ -155,6 +155,8 @@ sina ken **nimi ijo lawa pi lon insa** e [nimi ijo lawa](#nimi-ijo-lawa).
 * open *(malfermiteco)*
  * mi tawa lon open pi lupa tomo. *(Mi iras tra la pordo de la domo.)*
  * mi tawa lon open pi poka tomo. *("Mi iras tra la apudo de la domo." → Mi iras preter la domo.)*
+* weka *(distanco)*
+ * ona li pana e telo seli lon weka suwi tawa mi. *("Ŝi donis al mi teon ĉe distanco de sukero." → Ŝi donis al mi teon sen sukero.)*
 
 #### nimi ijo lawa pi lon poka
 *(Ĉe-lokaj Substantivoj)*
@@ -354,6 +356,11 @@ sina ken kepeken [nimi ijo lawa lon](#nimi-ijo-lawa-lon) sama [nimi ijo insa](#n
 
 * jan pona li lon **poka** pi tomo sona. ("Amiko estas ĉe la flanko de la lernejo." = Amiko estas apud la lernejo.)
 * ~~tomo sona li poka jan pona.~~ → tomo sona li poka lon jan pona. ("~~Lernejo flankas home bone.~~" → "Lernejo flankas ĉe amiko." = "Amiko estas apud lernejo.)
+
+sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) sama [nimi ijo insa](#nimi-ijo-insa). taso ni li **toki mu**.
+*(Oni povus uzi adjektivon kvazaŭ prepozicion. Sed tio ŝajnas evitinda.)*
+
+* ~~ona li pana telo seli taso suwi tawa mi.~~ *(Ŝi donis al mi teon sen sukero.)*
 
 ... *(...)*
 
