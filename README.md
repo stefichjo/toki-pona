@@ -278,11 +278,10 @@ sina ken [nimi ijo](#nimi-ijo) ante e [nimi ijo](#nimi-ijo) lon weka pi [nimi ij
  * ~~open~~ → kama open *(malfermo, malfermiĝo)*
  * open *(malfermiteco)*
 
-[nimi ijo lawa](#nimi-ijo-lawa) "pona" li ken weka lon sinpin pi [nimi ijo suli](#nimi-ijo-suli). taso ni li **toki pimeja**.
-*(La substantivo "pona" povus manki antaŭ verbo. Sed tio ŝajnas evitinda.)*
+sina ken weka e nimi "pona" lon sinpin pi [nimi ijo suli](#nimi-ijo-suli). taso ni li **toki pimeja**.
+*(Oni povus mankigi "pona" antaŭ verbo. Sed tio ŝajnas evitinda.)*
 
 * ~~kili ni li moku.~~ → kili ni li **pona** moku. *(Tiu frukto estas manĝebla.)*
-* kili ni li moku. *("Tiu frukto manĝas.")*
 
 ## toki ike
 *(Komplika Lingvaĵo)*
