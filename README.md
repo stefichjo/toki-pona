@@ -116,6 +116,12 @@ sina ken kepeken **nimi ilo "en"** ala lon [kulupu nimi lili](#kulupu-nimi-lili)
 * suno *(heleco, brilo)*
  * ijo **suno** → suno *(io hela, io brilanta → lumo, la suno)*
 
+[nimi ijo lawa](#nimi-ijo-lawa) "pona" li ken weka lon monsi pi [nimi-ijo-lawa](#nimi-ijo-lawa) "ijo" weka.
+
+* ijo pi pona **moku** → moku *(io manĝebla → manĝo)*
+* ijo pi pona **sitelen** → sitelen *(io desegnebla → desegno)*
+* ijo pi pona **sona** → sona *(io sciebla → scio)*
+
 ### nimi ijo insa
 *(Prepozicioj)*
 
