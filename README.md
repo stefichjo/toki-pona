@@ -187,7 +187,8 @@ sina ken **nimi ijo lawa pi lon poka** e [nimi ijo lawa](#nimi-ijo-lawa).
 * supa *(faco)*
  * waso li lon supa pi tomo sona. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)*
 * taso *(sendependo)*
- * mi lon taso pi jan pona. *("Mi estas ĉe sendependo de amiko. → Mi estas sen amiko.")*
+ * mi lon taso pi jan pona. *("Mi estas ĉe sendependo de amiko." → Mi estas sen amiko.)*
+ * mi kama lon taso. → taso la mi kama. → taso mi kama. *("Mi venos ĉe sendependo." → Sendepende, mi venos.)*
 
 ### nimi ijo suli
 *(Verboj)*
@@ -233,6 +234,11 @@ sina ken **nimi ijo lawa pi lon poka** e [nimi ijo lawa](#nimi-ijo-lawa).
 
 * mi lape lon tenpo pimeja. *(Mi dormas dum la nokto.)*
  * lon tenpo pimeja **la** mi lape. → tenpo pimeja **la** mi lape. *(Dum la nokto, mi dormas. → Nokte, mi dormas.)*
+
+**kulupu nimi lili sinpin** "taso la" la [nimi ilo](#nimi-ilo) "la" li ken weka.
+*(En la helpa frazero "taso la" povas manki la partikulo "la".)*
+
+* mi kama. taso ~~**la**~~ ona li kama ala. → mi kama. taso ona li kama ala. *(Mi venos. Sed ŝi ne venos.)*
 
 ### kulupu nimi suli
 *(Frazo)*
