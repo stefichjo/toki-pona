@@ -186,9 +186,9 @@ sina ken **nimi ijo lawa pi lon poka** e [nimi ijo lawa](#nimi-ijo-lawa).
  * mi tawa lon sike tomo. *("Mi iras ĉe la kurbeco de la domo." → Mi iras ĉirkaŭ la domo(n).)*
 * supa *(faco)*
  * waso li lon supa pi tomo sona. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)*
-* taso *(izoleco)*
- * mi lon taso pi jan pona. *("Mi estas ĉe izoleco de amiko. → Mi estas sen amiko.")*
-
+* taso *(sendependo)*
+ * mi lon taso pi jan pona. *("Mi estas ĉe sendependo de amiko. → Mi estas sen amiko.")*
+ * 
 ### nimi ijo suli
 *(Verboj)*
 
