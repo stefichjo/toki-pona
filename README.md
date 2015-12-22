@@ -106,8 +106,6 @@ sina ken kepeken **nimi ilo "en"** ala lon [kulupu nimi lili](#kulupu-nimi-lili)
 ### nimi ilo "la"
 *(La partikulo "la")*
 
-→ [kulupu nimi sinpin](#kulupu-nimi-sinpin)
-
 ## nimi ijo
 *(Radikaj Vortoj)*
 
@@ -223,6 +221,16 @@ sina ken **nimi ijo lawa pi lon poka** e [nimi ijo lawa](#nimi-ijo-lawa).
 *(Adjektiva Frazero)*
 
 * tomo pona **pi telo nasa** *(bona trinkejo)*
+* tomo pona **lon ma tomo** *(bona domo en urbo)*
+
+#### kulupu nimi lili sinpin
+*(Helpa Frazero)*
+
+[nimi ijo insa](#nimi-ijo-insa) "lon" li ken weka lon **kulupu nimi lili sinpin**.
+*(La prepozicio "lon" povas manki en helpa frazero.)*
+
+* mi lape lon tenpo pimeja. *(Mi dormas dum la nokto.)*
+ * lon tenpo pimeja **la** mi lape. → tenpo pimeja **la** mi lape. *(Dum la nokto, mi dormas. → Nokte, mi dormas.)*
 
 ### kulupu nimi suli
 *(Frazo)*
@@ -248,23 +256,25 @@ nasin ante la sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) "ala" en [nimi 
 
 * ona li **kama ala kama**? *(Ĉu ŝi venos?)*
 
-### kulupu nimi suli monsi
-*(Adjektiva Frazo)*
+#### kulupu nimi suli pi pana sona
+*(Responda Frazo)*
 
-* mi sona e jan ~~**pi ona li moku e soweli.**~~ → jan moku e soweli. mi sona e ona.
-* mi sona e ijo ~~**pi ona li moku e soweli.**~~ → mi sona e ni: ona li moku e soweli.
+**kulupu nimi suli pi pana sona** pi lon anu ala li [nimi ijo suli](#nimi ijo suli) taso.
+*(Responda frazo al jes-/ne-demando konsistas nur el verbo.)*
 
-### kulupu nimi sinpin
-*(Helpa Fraz(er)o)*
+* ona li kama **anu seme**? *(Ĉu ŝi venos?)*
+ * kama. *("Venos." → "Jes.")*
+ * kama ala. *("Ne venos." → "Ne.")*
 
-#### kulupu nimi lili sinpin
-*(Helpa Frazero)*
+[nimi ijo suli](#nimi-ijo-suli) lon sinpin pi nimi "ala" lon **kulupu nimi suli pi pana sona** li ken weka.
+*(La verbo en responda frazo al jes-/ne-demando povas manki antaŭ "ala".)*
 
-[nimi ijo insa](#nimi-ijo-insa) "lon" li ken weka lon **kulupu nimi lili sinpin**.
-*(La prepozicio "lon" povas manki en helpa frazero.)*
+* kama ala. → ala. *(Ne.)*
 
-* mi lape lon tenpo pimeja. *(Mi dormas dum la nokto.)*
- * lon tenpo pimeja **la** mi lape. → tenpo pimeja **la** mi lape. *(Dum la nokto, mi dormas. → Nokte, mi dormas.)*
+sina ken kepeken [nimi ijo suli](#nimi-ijo-suli) taso sama **kulupu nimi suli pi pana sona**.
+*(Oni povas uzi solan verbon kvazaŭ respondon al jes-/ne-demando.)*
+
+* pona. *(Bone.)*
 
 #### kulupu nimi suli sinpin
 *(Helpa Frazo)*
@@ -363,6 +373,8 @@ sina ken kepeken **nimi ilo "pi"** lon monsi pi [nimi ilo "li"](nimi-ilo-li). ta
 * namako → sin
 * a → kin
 * monsuta → aseki
+* apeja → ike
+* kipisi → wan/tu
 
 ## toki mu
 *(Slanga Lingvaĵo)*
