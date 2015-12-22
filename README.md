@@ -122,11 +122,15 @@ sina ken kepeken **nimi ilo "en"** ala lon [kulupu nimi lili](#kulupu-nimi-lili)
 
 * toki **pona** *(bona lingvo)*
 
-[nimi ijo lawa](#nimi-ijo-lawa) "ijo" li ken weka lon sinpin pi [nimi ijo monsi](#nimi-ijo-monsi). ni la **nimi ijo monsi** ni li kama [nimi ijo lawa](#nimi-ijo-lawa).
-*(La substantivo "ijo" povas manki antaŭ adjektivo. Tiam tiu adjektivo fariĝas substantivo.)*
+[nimi ijo lawa](#nimi-ijo-lawa) pi "ijo" en "ilo" en "jan" li ken weka lon sinpin pi [nimi ijo monsi](#nimi-ijo-monsi). ni la **nimi ijo monsi** ni li kama [nimi ijo lawa](#nimi-ijo-lawa).
+*(La substantivoj "ijo", "ilo" kaj "jan" povas manki antaŭ adjektivo. Tiam tiu adjektivo fariĝas substantivo.)*
 
 * suno *(heleco, brilo)*
  * ijo **suno** → suno *(io hela, io brilanta → lumo, la suno)*
+* lukin *(rigardo, vido)*
+ * ilo **lukin** → lukin *(ilo rigardanta, ilo vidanta → okulo)*
+* mama *(kreo)*
+ * jan **mama** → mama *(kreanto → gepatro)*
 
 [nimi ijo lawa](#nimi-ijo-lawa) "pona" li ken weka lon monsi pi [nimi ijo lawa](#nimi-ijo-lawa) "ijo" weka. ni la **nimi ijo monsi** lon monsi pi nimi "ijo pi pona" weka li kama [nimi ijo lawa](#nimi-ijoj-lawa).
 *(La substantivo "pona" povas manki malantaŭ la mankanta substantivo "ijo". Tiam la adjektivo malantaŭ "ijo pi pona" fariĝas substantivo.)*
@@ -383,6 +387,7 @@ sina ken kepeken **nimi ilo "pi"** lon monsi pi [nimi ilo "li"](nimi-ilo-li). ta
 * monsuta → aseki
 * apeja → ike
 * kipisi → wan/tu
+* oko → lukin
 
 ## toki mu
 *(Slanga Lingvaĵo)*
