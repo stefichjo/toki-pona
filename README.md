@@ -185,7 +185,7 @@ sina ken **nimi ijo lawa pi lon poka** e [nimi ijo lawa](#nimi-ijo-lawa).
 * sike *(kurbeco)*
  * mi tawa lon sike tomo. *("Mi iras ĉe la kurbeco de la domo." → Mi iras ĉirkaŭ la domo(n).)*
 * supa *(faco)*
- * waso li lon supa pi tomo sona. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)*
+ * waso li lon supa pi tomo tawa. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)*
 * taso *(sendependo)*
  * mi lon taso pi jan pona. *("Mi estas ĉe sendependo de amiko." → Mi estas sen amiko.)*
  * mi kama lon taso. → taso la mi kama. → taso mi kama. *("Mi venos ĉe sendependo." → Sendepende, mi venos.)*
