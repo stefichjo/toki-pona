@@ -114,7 +114,7 @@ sina ken kepeken **nimi ilo "en"** ala lon [kulupu nimi lili](#kulupu-nimi-lili)
 ### nimi ijo lawa
 *(Substantivoj)*
 
-**nimi ijo lawa** li [nimi ijo](#nimi-ijo) pona. [nimi ijo](#nimi-ijo) ante li ike.
+**nimi ijo lawa** li [nimi ijo](#nimi-ijo) pona pi nanpa wan.
 *(Substantivoj estas la plej simplaj radikaj vortoj.)*
 
 * **jan** *(homo)*
@@ -124,13 +124,14 @@ sina ken kepeken **nimi ilo "en"** ala lon [kulupu nimi lili](#kulupu-nimi-lili)
 
 * toki **pona** *(bona lingvo)*
 
-[nimi ijo lawa](#nimi-ijo-lawa) "ijo" li ken weka lon sinpin pi [nimi ijo monsi](#nimi-ijo-monsi). ni la [nimi ijo monsi](#nimi-ijo-monsi) ni li kama [nimi ijo lawa](#nimi-ijo-lawa).
+[nimi ijo lawa](#nimi-ijo-lawa) "ijo" li ken weka lon sinpin pi [nimi ijo monsi](#nimi-ijo-monsi). ni la **nimi ijo monsi** ni li kama [nimi ijo lawa](#nimi-ijo-lawa).
 *(La substantivo "ijo" povas manki antaŭ adjektivo. Tiam tiu adjektivo fariĝas substantivo.)*
 
 * suno *(heleco, brilo)*
  * ijo **suno** → suno *(io hela, io brilanta → lumo, la suno)*
 
-[nimi ijo lawa](#nimi-ijo-lawa) "pona" li ken weka lon monsi pi [nimi-ijo-lawa](#nimi-ijo-lawa) "ijo" weka.
+[nimi ijo lawa](#nimi-ijo-lawa) "pona" li ken weka lon monsi pi [nimi ijo lawa](#nimi-ijo-lawa) "ijo" weka. ni la **nimi ijo monsi** lon monsi pi nimi "ijo pi pona" weka li kama [nimi ijo lawa](#nimi-ijoj-lawa).
+*(La substantivo "pona" povas manki malantaŭ la mankanta substantivo "ijo". Tiam la adjektivo malantaŭ "ijo pi pona" fariĝas substantivo.)*
 
 * ijo pi pona **moku** → moku *(io manĝebla → manĝo)*
 * ijo pi pona **sitelen** → sitelen *(io desegnebla → desegno)*
@@ -163,11 +164,11 @@ sina ken **nimi ijo lawa pi lon insa** e [nimi ijo lawa](#nimi-ijo-lawa).
 *(Oni povas igi substantivon enloka.)*
 
 * anpa *(malalto)*
- * pipi li lon anpa mi. *(Insekto estas sub mi.)*
+ * pipi li lon anpa mi. *("Insekto estas ĉe la malalto de mi." → Insekto estas sub mi.)*
 * lawa *(supro)*
- * kon li pona lon lawa nena. *(La aero estas bona supre de la monto.)*
+ * kon li pona lon lawa nena. *("La aero estas bona ĉe la supro de la monto." → La aero estas bona supre de la monto.)*
 * open *(malfermiteco)*
- * mi tawa lon open pi lupa tomo. *(Mi iras tra la pordo de la domo.)*
+ * mi tawa lon open pi lupa tomo. *("Mi iras ĉe la malfermiteco de la pordo de la domo." → "Mi iras tra la pordo de la domo.")*
  * mi tawa lon open pi poka tomo. *("Mi iras tra la apudo de la domo." → Mi iras preter la domo.)*
 * weka *(distanco)*
  * ona li pana e telo seli lon weka suwi tawa mi. *("Ŝi donis al mi teon ĉe distanco de sukero." → Ŝi donis al mi teon sen sukero.)*
@@ -183,20 +184,21 @@ nimi ijo lawa pi lon poka li nimi "poka" li nimi "sinpin" li nimi "monsi" li nim
 sina ken **nimi ijo lawa pi lon poka** e [nimi ijo lawa](#nimi-ijo-lawa).
 *(Oni povas igi substantivon ĉeloka.)*
 
-* sike *(kurbiteco)*
- * mi tawa lon sike tomo. *(Mi iras ĉirkaŭ la domo(n).)*
-* supa *(horizontaleco)*
- * waso li lon supa pi tomo sona. *(Birdo sidas sur la lernejo.)*
+* sike *(kurbeco)*
+ * mi tawa lon sike tomo. *("Mi iras ĉe la kurbeco de la domo." → Mi iras ĉirkaŭ la domo(n).)*
+* supa *(faco)*
+ * waso li lon supa pi tomo sona. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)*
 
 ### nimi ijo suli
 *(Verboj)*
 
-[kulupu nimi suli](#kulupu-nimi-suli) la **nimi ijo suli** li suli. nimi ali ante li lili.
-*(En frazo, la verbo estas la plej grava vorto.)*
+[kulupu nimi suli](#kulupu-nimi-suli) la **nimi ijo suli** li suli pi nanpa wan. Ona li monsi pi [nimi ilo "li"](#nimi-ilo-li).
+*(En frazo, la verbo estas la plej grava vorto. Ĝi sekvas la partikulon "li".)*
 
 * ona li **lape**. *(Ŝi dormas.)*
 * ona li **pona**. *(Ŝi estas bona.)*
 * ona li **mama**. *(Ŝi estas patrino.)*
+* ona li **tawa** tomo. *(Ŝi iras hejmen.)*
 
 ### nimi ijo sinpin
 *(Helpaj Verboj)*
