@@ -4,31 +4,41 @@
 ## nimi ilo
 *(Partikuloj)*
 
-**nimi ilo** li lon insa pi [nimi ijo lawa](#nimi-ijo-lawa) (anu [kulupu nimi lili lawa](#kulupu-nimi-lili-lawa)) en [nimi ijo](#nimi-ijo) ante.
-*(Partikulo estas inter substantivo (aŭ substantiva frazero) kaj alia radika vorto.)*
+**nimi ilo** li lon insa pi [nimi ijo](#nimi-ijo) tu.
+*(Partikulo estas inter du radikaj vortoj.)*
 
 * toki **li** pona. *(Komunikado estas bona.)*
+* nasin **pi** toki pona. *(tokiponismo)*
 
 ### nimi ilo "li"
 *(La Partikulo "li")*
 
+nimi ilo "li" li lon insa pi [nimi ijo lawa](#nimi-ijo-lawa) en [nimi ijo suli](#nimi-ijo-suli).
+*(La partikulo "li" estas inter substantivo kaj verbo.)*
+
 * ona **li** pona. *(Ĝi estas bona.)*
+* ona **li** jan pona. *(Ŝi estas amiko.)*
+* mi en sina **li** toki. *(Mi kaj vi parolas.)*
 
 **nimi ilo "li"** li weka lon monsi pi nimi "mi" taso anu nimi "sina" taso.
 *(La partikulo "li" mankas malantaŭ sola "mi" aŭ sola "sina".)*
 
 * mi ~~**li**~~ toki. → mi toki. *(Mi parolas.)*
 * sina ~~**li**~~ toki. → sina toki. *(Vi parolas.)*
-* mi en sina **li** toki. *(Mi kaj vi parolas.)*
 
 ### nimi ilo "pi"
 *(La Partikulo "pi")*
 
-**nimi ilo "pi"** li insa [nimi ijo lawa](#nimi-ijo-lawa) (anu [kulupu nimi lili lawa](#kulupu-nimi-lili-lawa)) en [kulupu nimi lili lawa](#kulupu-nimi-lili-lawa) ante.
-*(La partikulo "pi" estas inter substantivo (aŭ substantiva frazero) kaj alia substantiva frazero.)*
+**nimi ilo "pi"** li insa [nimi ijo lawa](#nimi-ijo-lawa) tu.
+*(La partikulo "pi" estas inter du substantivoj.)*
 
-* toki ~~**pi**~~ pona → toki pona *(bona lingvo)*
-* toki **pi** pona ~~**pi**~~ mute → toki **pi** pona mute *(tre bona lingvo)*
+* nimi **pi** jan pona *(nomo de amiko)*
+* tomo tawa **pi** jan pona *(aŭto de amiko)*
+
+nimi ilo "pi" li weka lon sinpin pi [nimi ijo lawa](#nimi-ijo-lawa) lon weka pi [nimi ijo monsi](#nimi-ijo-monsi). ni la [nimi ijo lawa](#nimi-ijo-lawa) ni li kama [nimi ijo monsi](#nimi-ijo-monsi).
+*(La partikulo "pi" mankas antaŭ substantivo sen adjektivo. Tiam tiu substantivo fariĝas adjektivo.)*
+
+* jan ~~**pi**~~ pona → jan pona *("persono de bono" → "bona persono" → amiko)*
 
 ### nimi ilo "e"
 *(La Partikulo "e")*
@@ -45,16 +55,20 @@ sina ken [nimi ijo suli](#nimi-ijo-suli) e [nimi ijo](#nimi-ijo). [nimi ijo sinp
 
 * mi moku **e** ijo. → mi moku. *(Mi manĝas ion. → Mi manĝas.)*
 
-[nimi ijo monsi](#nimi-ijo-monsi) anu [kulupu nimi lili monsi](#kulupu-nimi-lili-monsi) pi [nimi ilo](#nimi-ilo) li ken lon insa pi [nimi ijo suli](#nimi-ijo-suli) en nimi ilo "e".
-*(Adjektivo aŭ adjektiva frazero je partikulo povas esti inter la verbo kaj la partikulo "e".)*
+[nimi ijo monsi](#nimi-ijo-monsi) li ken lon insa pi [nimi ijo suli](#nimi-ijo-suli) en nimi ilo "e".
+*(Adverbo povas esti inter la verbo kaj la partikulo "e".)*
 
 * mi lukin pona **e** sitelen. *(Mi legas bone.)*
+
+[kulupu nimi lili monsi](#kulupu-nimi-lili-monsi) pi [nimi ilo "pi"](#nimi-ilo-pi) li ken insa pi [nimi ijo suli](#nimi-ijo-suli) en nimi ilo "e".
+*(Adverba frazero je la partikulo "pi" povas esti inter la verbo kaj la partikulo "e".)*
+
 * mi lukin pi pona mute **e** sitelen. *(Mi legas tre bone.)*
 
 taso [kulupu nimi lili monsi](#kulupu-nimi-lili-monsi) pi [nimi ijo](#nimi-ijo) li ken lon sinpin pi [kulupu nimi lili](#kulupu-nimi-lili) ala pi **nimi ilo "e"**.
 *(Sed adjektiva frazero je radiko ne povas esti antaŭ frazero je la partikulo "e".)*
 
-* mi lukin **e** sitelen kepeken tenpo mute. *(Mi legas malrapide.)*
+* mi lukin ~~kepeken tenpo mute~~ **e** sitelen. → mi lukin **e** sitelen kepeken tenpo mute. *(Mi legas malrapide.)*
 
 ### nimi ilo "o"
 *(La partikulo "o")*
@@ -72,8 +86,8 @@ nimi "sina" li ken weka lon sinpin pi **nimi ilo "o"**.
 nimi "o lon" li ken weka.
 *("o lon" povas manki.)*
 
-* kama pona **o** lon! → kama pona! *(Bonvenon)*!
-* tawa pona **o** lon! → tawa pona! *(Bonan vojaĝon!)*
+* kama pona **o** lon! → kama pona! *("Estu bonveno!" → Bonvenon)*!
+* tawa pona **o** lon! → tawa pona! *("Estu bona vojaĝo!" → Bonan vojaĝon!)*
 
 ### nimi ilo "en"
 *(La partikulo "en")*
