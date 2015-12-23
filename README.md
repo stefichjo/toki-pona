@@ -262,11 +262,6 @@ sina ken **nimi ijo lawa pi lon poka** e [nimi ijo lawa](#nimi-ijo-lawa).
 * mi lape lon tenpo pimeja. *(Mi dormas dum la nokto.)*
  * lon tenpo pimeja **la** mi lape. → tenpo pimeja **la** mi lape. *(Dum la nokto, mi dormas. → Nokte, mi dormas.)*
 
-**kulupu nimi lili sinpin** "taso la" la [nimi ilo](#nimi-ilo) "la" li ken weka.
-*(En la helpa frazero "taso la" povas manki la partikulo "la".)*
-
-* mi kama. taso ~~**la**~~ ona li kama ala. → mi kama. taso ona li kama ala. *(Mi venos. Sed ŝi ne venos.)*
-
 ### kulupu nimi suli
 *(Frazo)*
 
@@ -316,7 +311,6 @@ sina ken kepeken [nimi ijo lawa lon](#nimi-ijo-lawa-lon) sama **kulupu nimi suli
 
 * **taso** la mi kama. → **taso** mi kama. *(Sendepende, mi venos. → Sed mi venos.)*
 
-
 #### kulupu nimi suli sinpin
 *(Helpa Frazo)*
 
@@ -337,7 +331,7 @@ sina ken kepeken [nimi ijo insa](#nimi-ijo-insa) lon poka pi [nimi ijo suli](#ni
 * ona li ~~tawa~~ **tawa** tomo. → ona li **tawa** tomo. *(Ŝi iras al la hejmo. → Ŝi iras hejmen.)*
 * ona li tawa kepeken tenpo mute **tawa** tomo. *(Ŝi iras malrapide al la hejmo.)*
 
-sina ken kepeken e nimi sama pi tenpo tu. nasin ni la ona kama wawa. taso ni li **toki walo**.
+sina ken kepeken e nimi sama pi tenpo tu. nasin ni la ona li kama wawa. taso ni li **toki walo**.
 *(Oni povus uzi la saman vorton dufoje por emfazi ĝin. Sed tio ŝajnas evitinda.)*
 
 * ona li pona pona. *(Ĝi estas bonbona.)*
