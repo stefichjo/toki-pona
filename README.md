@@ -430,15 +430,11 @@ sina ken kepeken [nimi ijo lawa lon](#nimi-ijo-lawa-lon) sama [nimi ijo insa](#n
 * jan pona li lon **poka** pi tomo sona. ("Amiko estas ĉe la flanko de la lernejo." = Amiko estas apud la lernejo.)
 * ~~tomo sona li poka jan pona.~~ → tomo sona li poka lon jan pona. ("~~Lernejo flankas home bone.~~" → "Lernejo flankas ĉe amiko." = Amiko estas apud lernejo.)
 
-sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) sama [nimi ijo insa](#nimi-ijo-insa). taso ni li **toki mu**.
-*(Oni povus uzi adjektivon kvazaŭ prepozicion. Sed tio ŝajnas evitinda.)*
-
-* ~~ona li pana telo seli taso suwi tawa mi.~~ *(Ŝi donis al mi teon sen sukero.)*
-
 sina ken [nimi ijo insa](#nimi-ijo-insa) e [nimi ijo lawa lon](#nimi-ijo-lawa-lon). taso ni li **toki mu**.
 *(Oni povus prepoziciigi lokan substantivon. Sed tio ŝajnas evitinda.)*
 
 * ~~ona li **poka** tomo tawa.~~ → ona li lon **poka** pi tomo tawa. *(Ŝi estas apud aŭto.)*
+* ~~ona li pana e telo seli **taso** suwi tawa mi.~~ → ona li pana e telo lon taso suwi tawa mi.* (Ŝi donis al mi teon sen sukero.)*
 
 sina ken nimi ijo e nimi ilo kalama. taso ni li **toki mu**.
 *(Oni povus radikigi sonimiton. Sed tio ŝajnas evitinda.)*
