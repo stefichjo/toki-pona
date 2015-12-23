@@ -2,7 +2,7 @@
 *(Gramatiko de Tokipono)*
 
 ## nimi ilo
-*(Partikuloj)*f
+*(Partikuloj)*
 
 **nimi ilo** li lon insa pi [nimi ijo](#nimi-ijo) tu.
 *(Partikulo estas inter du radikaj vortoj.)*
@@ -199,6 +199,8 @@ sina ken **nimi ijo lawa pi lon insa** e [nimi ijo lawa](#nimi-ijo-lawa).
  * mi lon taso pi jan pona. *("Mi estas ĉe sendependo de amiko." → Mi estas sen amiko.)*
  * mi kama lon taso. → taso la mi kama. → taso mi kama. *("Mi venos ĉe sendependo." → "Sendepende, mi venos." → Sed mi venos.)*
  * ona li taso. *("Ŝi estas sendependa." → Ŝi estas libera.)*
+* kulupu *(grupo)*
+ * mi lon kulupu pi jan pona. *("Mi estas en grupo de amikoj." → Mi estas inter amikoj.)*
 
 #### nimi ijo lawa pi lon poka
 *(Ĉe-lokaj Substantivoj)*
