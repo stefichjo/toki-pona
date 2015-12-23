@@ -106,6 +106,23 @@ sina ken kepeken **nimi ilo "en"** ala lon [kulupu nimi lili](#kulupu-nimi-lili)
 ### nimi ilo "la"
 *(La partikulo "la")*
 
+## nimi kalama
+*(Sonimitoj)*
+
+* a a a! *(Ha ha ha!)*
+* mu! *(Miaŭ!)*
+
+kulupu nimi la **nimi kalama** li lon monsi pi nimi "nimi".
+*(En vortgrupo, sonimito estas malantaŭ la vorto "nimi".)*
+
+* nimi "mu" li nimi kalama soweli. *(La vorto "mu" estas la sonimito de bestoj.)*
+
+insa pi [nimi ijo lawa](#nimi-ijo-lawa) en **nimi kalama** la nimi "pi nimi" li ken weka.
+*(Inter substantivo kaj sonimito, la vortoj "pi nimi" povas manki.)*
+
+* mi jan pi nimi "Tepan". → mi jan Tepan. *("Mi estas persono de la nomo 'Stephan'." → Mi estas Stephan.)*
+* mi sona e toki pi nimi "Epelanto". → mi sona e toki Epelanto. *("Mi konas la lingvon de la nomo 'Esperanto'. → Mi konas Esperanton.)*
+
 ## nimi ijo
 *(Radikaj Vortoj)*
 
@@ -154,6 +171,9 @@ sina ken kepeken **nimi ilo "en"** ala lon [kulupu nimi lili](#kulupu-nimi-lili)
 **nimi ijo lawa lon** lon poka pi [nimi ijo insa](#nimi-ijo-insa) "lon" anu "tawa" anu "tan" li sama [nimi ijo insa](#nimi-ijo-insa) sin pi pona a sona.
 *(Loka substantivo kun la prepozicio "lon" aŭ "tawa" aŭ "tan" estas kiel nova pli facile komprenebla prepozicio.)*
 
+* jan pona li lon tomo tawa. *(Amiko estas ĉe la aŭto.)*
+* jan pona li lon **insa** pi tomo tawa. *(Amiko estas en la aŭto.)*
+
 #### nimi ijo lawa pi lon insa
 *(En-lokaj Substantivoj)*
 
@@ -174,6 +194,11 @@ sina ken **nimi ijo lawa pi lon insa** e [nimi ijo lawa](#nimi-ijo-lawa).
  * mi tawa lon open pi poka tomo. *("Mi iras tra la apudo de la domo." → Mi iras preter la domo.)*
 * weka *(distanco)*
  * ona li pana e telo seli lon weka suwi tawa mi. *("Ŝi donis al mi teon ĉe distanco de sukero." → Ŝi donis al mi teon sen sukero.)*
+ * ona li weka. *("Ŝi estas distanca." → Ŝi estas for.)*
+* taso *(sendependo)*
+ * mi lon taso pi jan pona. *("Mi estas ĉe sendependo de amiko." → Mi estas sen amiko.)*
+ * mi kama lon taso. → taso la mi kama. → taso mi kama. *("Mi venos ĉe sendependo." → "Sendepende, mi venos." → Sed mi venos.)*
+ * ona li taso. *("Ŝi estas sendependa." → Ŝi estas libera.)*
 
 #### nimi ijo lawa pi lon poka
 *(Ĉe-lokaj Substantivoj)*
@@ -186,13 +211,10 @@ nimi ijo lawa pi lon poka li nimi "poka" li nimi "sinpin" li nimi "monsi" li nim
 sina ken **nimi ijo lawa pi lon poka** e [nimi ijo lawa](#nimi-ijo-lawa).
 *(Oni povas igi substantivon ĉeloka.)*
 
-* sike *(kurbeco)*
- * mi tawa lon sike tomo. *("Mi iras ĉe la kurbeco de la domo." → Mi iras ĉirkaŭ la domo(n).)*
+* sike *(kurbiĝo)*
+ * mi tawa lon sike tomo. *("Mi iras ĉe la kurbiĝo de la domo." → Mi iras ĉirkaŭ la domo(n).)*
 * supa *(faco)*
  * waso li lon supa pi tomo tawa. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)*
-* taso *(sendependo)*
- * mi lon taso pi jan pona. *("Mi estas ĉe sendependo de amiko." → Mi estas sen amiko.)*
- * mi kama lon taso. → taso la mi kama. → taso mi kama. *("Mi venos ĉe sendependo." → Sendepende, mi venos.)*
 
 ### nimi ijo suli
 *(Verboj)*
