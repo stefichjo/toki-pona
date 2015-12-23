@@ -35,7 +35,7 @@ nimi ilo "li" li lon insa pi [nimi ijo lawa](#nimi-ijo-lawa) en [nimi ijo suli](
 * nimi **pi** jan pona *(nomo de amiko)*
 * tomo tawa **pi** jan pona *(aŭto de amiko)*
 
-nimi ilo "pi" li weka lon sinpin pi [nimi ijo lawa](#nimi-ijo-lawa) lon weka pi [nimi ijo monsi](#nimi-ijo-monsi). ni la [nimi ijo lawa](#nimi-ijo-lawa) ni li kama [nimi ijo monsi](#nimi-ijo-monsi).
+**nimi ilo "pi"** li weka lon sinpin pi [nimi ijo lawa](#nimi-ijo-lawa) lon weka pi [nimi ijo monsi](#nimi-ijo-monsi). ni la [nimi ijo lawa](#nimi-ijo-lawa) ni li kama [nimi ijo monsi](#nimi-ijo-monsi).
 *(La partikulo "pi" mankas antaŭ substantivo sen adjektivo. Tiam tiu substantivo fariĝas adjektivo.)*
 
 * jan ~~**pi**~~ pona → jan pona *("persono de bono" → "bona persono" → amiko)*
@@ -283,7 +283,7 @@ nimi pi wile sona li nimi "seme".
 **kulupu nimi suli pi wile sona** pi lon anu ala li jo e nimi "anu seme" lon pini.
 *(Jes-/Ne-Demandoj enhavas la vortojn "anu seme" ĉe la fino.)*
 
-* ona li kama **anu seme**? *(Ĉu ŝi venos?)*
+* ona li kama **anu seme**? *("Ŝi venos aŭ kio?" → Ĉu ŝi venos?)*
 
 nasin ante la sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) "ala" en [nimi ijo suli](#nimi-ijo-suli) pi tenpo tu.
 *(Alternative oni povas uzi la adjektivon "ala" kaj la verbon dufoje.)* 
@@ -330,6 +330,11 @@ sina ken kepeken [nimi ijo insa](#nimi-ijo-insa) lon poka pi [nimi ijo suli](#ni
 * ona li ~~tawa~~ **tawa** tomo. → ona li **tawa** tomo. *(Ŝi iras al la hejmo. → Ŝi iras hejmen.)*
 * ona li tawa kepeken tenpo mute **tawa** tomo. *(Ŝi iras malrapide al la hejmo.)*
 
+sina ken kepeken e nimi sama pi tenpo tu. nasin ni la ona kama wawa. taso ni li **toki walo**.
+*(Oni povus uzi la saman vorton dufoje por emfazi ĝin. Sed tio ŝajnas evitinda.)*
+
+* ona li pona pona. *(Ĝi estas bonbona.)*
+
 ## toki pimeja
 *(Obskura Lingvaĵo)*
 
@@ -345,10 +350,15 @@ sina ken weka e nimi "pona" lon sinpin pi [nimi ijo suli](#nimi-ijo-suli). taso 
 
 * ~~kili ni li moku.~~ → kili ni li **pona** moku. *(Tiu frukto estas manĝebla.)*
 
-## toki ike
-*(Komplika Lingvaĵo)*
+## toki pi wan wan
+*(Detala Lingvaĵo)*
 
-sina ken kepeken **nimi ilo "pi"** lon insa pi [nimi ijo](#nimi-ijo) en [nimi ijo insa](#nimi-ijo-insa). taso ni li **toki ike**.
+* ~~ona **li** sona e jan pi ona **li** moku ala e soweli.~~ *(Ŝi konas la vegetaranon.)*
+
+## toki ike
+*(Maleleganta Lingvaĵo)*
+
+sina ken kepeken [nimi ilo "pi"](#nimi-ilo-pi) lon insa pi [nimi ijo](#nimi-ijo) en [nimi ijo insa](#nimi-ijo-insa). taso ni li **toki ike**.
 *(Oni povus uzi la partikulon "pi" inter radika vorto kaj prepozicio. Sed tio ŝajnas evitinda.)*
 
 * pali ~~**pi**~~ lon tomo → pali lon tomo *(laboro en domo)*
@@ -388,7 +398,7 @@ sina ken kepeken [nimi ijo insa](#nimi-ijo-insa) lon poka pi [nimi ijo monsi](#n
 * mi tawa ~~e jan pona,~~ tomo. → mi tawa tomo e sina. *(Mi portas amikon hejmen.)*
  * mi tawa e jan pona tomo. *("Mi movas hejman amikon.")*
 
-sina ken kepeken **nimi ilo "pi"** lon monsi pi [nimi ilo "li"](nimi-ilo-li). taso ni li **toki nasa**.
+sina ken kepeken [nimi ilo "pi"](#nimi-ilo-pi) lon monsi pi [nimi ilo "li"](nimi-ilo-li). taso ni li **toki nasa**.
 *(Oni povus uzi la partikulon "pi" malantaŭ la partikulo "li". Sed tio ŝajnas evitinda.)*
 
 * kili ni li ~~**pi**~~ mi mute. → kili ni li ijo **pi** mi mute. *(Tiu frukto estas nia. → Tiu frukto estas io nia.)*
@@ -418,7 +428,7 @@ sina ken kepeken [nimi ijo lawa lon](#nimi-ijo-lawa-lon) sama [nimi ijo insa](#n
 *(Oni povus uzi lokan substantivon kvazaŭ prepozicion. Sed tio ŝajnas evitinda.)*
 
 * jan pona li lon **poka** pi tomo sona. ("Amiko estas ĉe la flanko de la lernejo." = Amiko estas apud la lernejo.)
-* ~~tomo sona li poka jan pona.~~ → tomo sona li poka lon jan pona. ("~~Lernejo flankas home bone.~~" → "Lernejo flankas ĉe amiko." = "Amiko estas apud lernejo.)
+* ~~tomo sona li poka jan pona.~~ → tomo sona li poka lon jan pona. ("~~Lernejo flankas home bone.~~" → "Lernejo flankas ĉe amiko." = Amiko estas apud lernejo.)
 
 sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) sama [nimi ijo insa](#nimi-ijo-insa). taso ni li **toki mu**.
 *(Oni povus uzi adjektivon kvazaŭ prepozicion. Sed tio ŝajnas evitinda.)*
