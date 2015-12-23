@@ -197,7 +197,6 @@ sina ken **nimi ijo lawa pi lon insa** e [nimi ijo lawa](#nimi-ijo-lawa).
  * ona li weka. *("Ŝi estas distanca." → Ŝi estas for.)*
 * taso *(sendependo)*
  * mi lon taso pi jan pona. *("Mi estas ĉe sendependo de amiko." → Mi estas sen amiko.)*
- * mi kama lon taso. → taso la mi kama. → taso mi kama. *("Mi venos ĉe sendependo." → "Sendepende, mi venos." → Sed mi venos.)*
  * ona li taso. *("Ŝi estas sendependa." → Ŝi estas libera.)*
 * kulupu *(grupo)*
  * mi lon kulupu pi jan pona. *("Mi estas en grupo de amikoj." → Mi estas inter amikoj.)*
@@ -311,6 +310,12 @@ sina ken kepeken [nimi ijo suli](#nimi-ijo-suli) taso sama **kulupu nimi suli pi
 *(Oni povas uzi solan verbon kvazaŭ respondon al jes-/ne-demando.)*
 
 * pona. *(Bone.)*
+
+sina ken kepeken [nimi ijo lawa lon](#nimi-ijo-lawa-lon) sama **kulupu nimi suli pi pana sona** sama [kulupu nimi suli sinpin](#kulupu-nimi-suli-sinpin). ni la nimi ilo "la" li ken weka.
+*(Oni povas uzi lokan substantivon kiel respondan helpan frazon. Tiam la partikulo "la" povas manki.)*
+
+* **taso** la mi kama. → **taso** mi kama. *(Sendepende, mi venos. → Sed mi venos.)*
+
 
 #### kulupu nimi suli sinpin
 *(Helpa Frazo)*
