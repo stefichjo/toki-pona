@@ -434,7 +434,7 @@ sina ken [nimi ijo insa](#nimi-ijo-insa) e [nimi ijo lawa lon](#nimi-ijo-lawa-lo
 *(Oni povus prepoziciigi lokan substantivon. Sed tio ŝajnas evitinda.)*
 
 * ~~ona li **poka** tomo tawa.~~ → ona li lon **poka** pi tomo tawa. *(Ŝi estas apud aŭto.)*
-* ~~ona li pana e telo seli **taso** suwi tawa mi.~~ → ona li pana e telo lon taso suwi tawa mi. *(Ŝi donis al mi teon sen sukero.)*
+* ~~ona li pana e telo seli **taso** suwi tawa mi.~~ → ona li pana e telo lon **taso** suwi tawa mi. *(Ŝi donis al mi teon sen sukero.)*
 
 sina ken nimi ijo e nimi ilo kalama. taso ni li **toki mu**.
 *(Oni povus radikigi sonimiton. Sed tio ŝajnas evitinda.)*
