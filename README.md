@@ -435,10 +435,15 @@ sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) sama [nimi ijo insa](#nimi-ij
 
 * ~~ona li pana telo seli taso suwi tawa mi.~~ *(Ŝi donis al mi teon sen sukero.)*
 
-... *(...)*
+sina ken [nimi ijo insa](#nimi-ijo-insa) e [nimi ijo lawa lon](#nimi-ijo-lawa-lon). taso ni li **toki mu**.
+*(Oni povus prepoziciigi lokan substantivon. Sed tio ŝajnas evitinda.)*
 
-ona li mu. → ona li toki "mu".
-ona li poka tomo tawa. → ona li lon poka pi tomo tawa.
+* ~~ona li **poka** tomo tawa.~~ → ona li lon **poka** pi tomo tawa. *(Ŝi estas apud aŭto.)*
+
+sina ken nimi ijo e nimi ilo kalama. taso ni li **toki mu**.
+*(Oni povus radikigi sonimiton. Sed tio ŝajnas evitinda.)*
+
+* ~~soweli li **mu**.~~ → soweli li kalama e nimi **"mu"**. *("La kato sonas 'miaŭ'." → La kato miaŭas.)*
 
 ## toki pi pu ala
 *(Tokiponido)*
