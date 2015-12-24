@@ -13,7 +13,7 @@
 ### nimi ilo "li"
 *(La Partikulo "li")*
 
-nimi ilo "li" li lon insa pi [nimi ijo lawa](#nimi-ijo-lawa) en [nimi ijo suli](#nimi-ijo-suli).
+nimi ilo "li" li lon insa pi [nimi ijo lawa](#nimi-lawa) en [nimi ijo suli](#nimi-suli).
 *(La partikulo "li" estas inter substantivo kaj verbo.)*
 
 * mi en sina **li** toki. *(Mi kaj vi parolas.)*
@@ -24,21 +24,51 @@ nimi ilo "li" li lon insa pi [nimi ijo lawa](#nimi-ijo-lawa) en [nimi ijo suli](
 * mi ~~**li**~~ toki. → mi toki. *(Mi parolas.)*
 * sina ~~**li**~~ toki. → sina toki. *(Vi parolas.)*
 
-[nimi suli](#nimi-ijo-suli) li ken weka lon monsi pi [nimi sinpin](#nimi-ijo-sinpin). ni la [nimi sinpin](#nimi-ijo-sinpin) ni li kama [nimi suli](#nimi-ijo-suli).
+[nimi suli](#nimi-suli) li ken weka lon monsi pi [nimi sinpin](#nimi-sinpin). ni la [nimi sinpin](#nimi-sinpin) ni li kama [nimi suli](#nimi-suli).
 *(Verbo povas manki post helpa verbo. Tiam tiu helpa verbo fariĝas verbo.)*
 
 * mi **wile** jo e ni. → mi wile e ni. *(Mi volas havi tion. → Mi volas tion.)*
 
+**kulupu pi nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi **nimi ilo "li"**.
+*(En frazo, la verbo estas la plej grava vorto. Ĝi estas malantaŭ la partikulo "li".)*
+
+* ona li **lape**. *(Ŝi dormas.)*
+* ona li **pona**. *(Ŝi estas bona.)*
+* ona li **mama**. *(Ŝi estas patrino.)*
+* ona li **tawa** tomo. *(Ŝi iras hejmen.)*
+
+kulupu pi nimi suli pi pana sona pi lon anu ala li nimi suli taso.
+*(Responda frazo al jes-/ne-demando konsistas nur el verbo.)*
+
+* ona li kama anu seme? *(Ĉu ŝi venos?)*
+ * **kama**. *("Venos." → "Jes.")*
+ * **kama** ala. *("Ne venos." → "Ne.")*
+
+nimi suli lon sinpin pi nimi "ala" lon kulupu pi nimi suli pi pana sona pi lon anu ala li ken weka.
+*(La verbo en responda frazo al jes-/ne-demando povas manki antaŭ "ala".)*
+
+* **kama** ala. → ala. *(Ne.)*
+
+sina ken kepeken nimi suli taso sama kulupu nimi suli pi pana sona.
+*(Oni povas uzi solan verbon kvazaŭ respondon al jes-/ne-demando.)*
+
+* pona. *(Estas bone. → Bone.)*
+
+sina ken kepeken [nimi lawa lon](#nimi-lawa-lon) sama **kulupu nimi suli pi pana sona** sama [kulupu pi nimi sinpin](#nimi-sinpin). ni la nimi ilo "la" li ken weka.
+*(Oni povas uzi lokan substantivon kiel respondan helpan frazon. Tiam la partikulo "la" povas manki.)*
+
+* **taso** la mi kama. → **taso** mi kama. *(Sendepende, mi venos. → Sed mi venos.)*
+
 ### nimi ilo "pi"
 *(La Partikulo "pi")*
 
-**nimi ilo "pi"** li insa [nimi ijo lawa](#nimi-ijo-lawa) tu.
+**nimi ilo "pi"** li insa [nimi ijo lawa](#nimi-lawa) tu.
 *(La partikulo "pi" estas inter du substantivoj.)*
 
 * nimi **pi** jan pona *(nomo de amiko)*
 * tomo tawa **pi** jan pona *(aŭto de amiko)*
 
-**nimi ilo "pi"** li weka lon sinpin pi [nimi ijo lawa](#nimi-ijo-lawa) lon weka pi [nimi ijo monsi](#nimi-ijo-monsi). ni la [nimi ijo lawa](#nimi-ijo-lawa) ni li kama [nimi ijo monsi](#nimi-ijo-monsi).
+**nimi ilo "pi"** li weka lon sinpin pi [nimi ijo lawa](#nimi-lawa) lon weka pi [nimi ijo monsi](#nimi-monsi). ni la [nimi ijo lawa](#nimi-lawa) ni li kama [nimi ijo monsi](#nimi-monsi).
 *(La partikulo "pi" mankas antaŭ substantivo sen adjektivo. Tiam tiu substantivo fariĝas adjektivo.)*
 
 * jan ~~**pi**~~ pona → jan pona *("persono de bono" → "bona persono" → amiko)*
@@ -46,23 +76,23 @@ nimi ilo "li" li lon insa pi [nimi ijo lawa](#nimi-ijo-lawa) en [nimi ijo suli](
 ### nimi ilo "e"
 *(La Partikulo "e")*
 
-sina ken [nimi ijo suli](#nimi-ijo-suli) e [nimi ijo](#nimi-ijo).
+sina ken [nimi ijo suli](#nimi-suli) e [nimi ijo](#nimi-ijo).
 *(Oni povas verbigi radikan vorton.)*
 
 * ona li pona. *(Ŝi estas sana.)*
 * ona li kama pona. *(Ŝi saniĝas.)*
 
-[nimi ijo sinpin](#nimi-ijo-sinpin) lon sinpin pi [nimi ijo suli](#nimi-ijo-suli) ni lon sinpin pi nimi ilo "e" li ken weka.
+[nimi ijo sinpin](#nimi-sinpin) lon sinpin pi [nimi ijo suli](#nimi-suli) ni lon sinpin pi nimi ilo "e" li ken weka.
 *(Helpa verbo antaŭ tia (transitiva) verbo povas manki.)*
 
 * jan pona li ~~kama~~ pona **e** ona. → jan pona li pona **e** ona. *(Amiko sanigas ŝin.)*
 
-**kulupu "e"** li ken weka.
-*(Akuzativa frazero povas manki.)*
+**kulupu pi nimi "e"** li ken weka.
+*(La rekta objekto povas manki.)*
 
 * mi moku **e** ijo. → mi moku. *(Mi manĝas ion. → Mi manĝas.)*
 
-[nimi ijo monsi](#nimi-ijo-monsi) li ken lon insa pi [nimi ijo suli](#nimi-ijo-suli) en nimi ilo "e".
+[nimi ijo monsi](#nimi-monsi) li ken lon insa pi [nimi ijo suli](#nimi-suli) en nimi ilo "e".
 *(Adverbo povas esti inter la verbo kaj la partikulo "e".)*
 
 * mi lukin pona **e** sitelen. *(Mi legas bone.)*
@@ -75,7 +105,7 @@ nimi "sina" li ken weka lon sinpin pi **nimi ilo "o"**.
 
 * sina **o** kama. → **o** kama. *(Vi venu! → Venu!)*
 
-[nimi ijo suli](#nimi-ijo-suli) li ken weka lon monsi pi **nimi ilo "o"**.
+[nimi ijo suli](#nimi-suli) li ken weka lon monsi pi **nimi ilo "o"**.
 *(Verbo povas manki malantaŭ la partikulo "o".)*
 
 * jan pona **o** sona! → jan pona **o**! *(Amiko, sciu! → Ho amiko!)*
@@ -98,14 +128,25 @@ sina ken kepeken **nimi ilo "en"** ala lon [kulupu pi nimi "li"](#nimi-ilo-li) a
 ### nimi ilo "anu"
 *(La partikulo "anu")*
 
-...
-*(...)*
+kulupu pi nimi suli pi wile sona pi lon anu ala li jo e nimi "anu seme" lon pini.
+*(Jes-/Ne-Demandoj enhavas la vortojn "anu seme" ĉe la fino.)*
+
+* ona li kama **anu** seme? *("Ŝi venos aŭ kio?" → Ĉu ŝi venos?)*
 
 ### nimi ilo "la"
 *(La partikulo "la")*
 
-...
-*(...)*
+[nimi ijo insa](#nimi-insa) "lon" li ken weka lon **kulupu nimi lili sinpin**.
+*(La prepozicio "lon" povas manki en helpa frazero.)*
+
+* mi lape lon tenpo pimeja. *(Mi dormas dum la nokto.)*
+ * lon tenpo pimeja **la** mi lape. → tenpo pimeja **la** mi lape. *(Ĉe la nokto, mi dormas. → Nokte, mi dormas.)*
+
+nimi ilo "la" li lon insa pi **kulupu nimi suli sinpin** en [kulupu nimi suli](#kulupu-nimi-suli) lawa.
+*(La partikulo "la" estas inter helpa frazo kaj ĉefa frazo.)*
+
+* tenpo pimeja **la** mi lape. *(Dum la nokto, mi dormas.)*
+* tenpo li pimeja **la** mi lape. *(Dum la tempo estas malhela, mi dormas.)*
 
 ## nimi kalama
 *(Sonimitoj)*
@@ -113,12 +154,12 @@ sina ken kepeken **nimi ilo "en"** ala lon [kulupu pi nimi "li"](#nimi-ilo-li) a
 * **a a a**! *(Ha ha ha!)*
 * **mu**! *(Miaŭ!)*
 
-[kulupu suli](#nimi-ijo-suli) la **nimi kalama** li lon monsi pi nimi "nimi".
+[kulupu pi nimi suli](#nimi-ilo-li) la **nimi kalama** li lon monsi pi nimi "nimi".
 *(En frazo, sonimito estas malantaŭ la vorto "nimi".)*
 
 * nimi "*mu*" li nimi kalama soweli. *(La vorto "mu" estas sonimito de bestoj.)*
 
-insa pi [nimi ijo lawa](#nimi-ijo-lawa) en **nimi kalama** la nimi "pi nimi" li ken weka.
+insa pi [nimi ijo lawa](#nimi-lawa) en **nimi kalama** la nimi "pi nimi" li ken weka.
 *(Inter substantivo kaj sonimito, la vortoj "pi nimi" povas manki.)*
 
 * mi jan pi nimi "Tepan". → mi jan Tepan. *("Mi estas persono de la nomo 'Stephan'." → Mi estas Stephan.)*
@@ -127,7 +168,7 @@ insa pi [nimi ijo lawa](#nimi-ijo-lawa) en **nimi kalama** la nimi "pi nimi" li 
 ## nimi ijo
 *(Radikaj Vortoj)*
 
-### nimi ijo lawa
+### nimi lawa
 *(Substantivoj)*
 
 **nimi ijo lawa** li [nimi ijo](#nimi-ijo) pona pi nanpa wan.
@@ -135,16 +176,16 @@ insa pi [nimi ijo lawa](#nimi-ijo-lawa) en **nimi kalama** la nimi "pi nimi" li 
 
 * **jan** *(homo)*
 
-### nimi ijo monsi
+### nimi monsi
 *(Adjektivoj/Adverboj)*
 
-**nimi ijo monsi** li lon monsi pi [nimi ijo lawa](#nimi-ijo-lawa) anu [nimi ijo suli](#nimi-ijo-suli).
+**nimi ijo monsi** li lon monsi pi [nimi ijo lawa](#nimi-lawa) anu [nimi ijo suli](#nimi-suli).
 *(Adjektivo/adverbo estas malantaŭ substantivo/verbo.)*
 
 * lukin **pona** *(bona vido)*
 * mi lukin **pona** *(Mi bone vidas.)*
 
-[nimi ijo lawa](#nimi-ijo-lawa) pi "ijo" en "ilo" en "jan" li ken weka lon sinpin pi [nimi ijo monsi](#nimi-ijo-monsi). ni la **nimi ijo monsi** ni li kama [nimi ijo lawa](#nimi-ijo-lawa).
+[nimi ijo lawa](#nimi-lawa) pi "ijo" en "ilo" en "jan" li ken weka lon sinpin pi [nimi ijo monsi](#nimi-monsi). ni la **nimi ijo monsi** ni li kama [nimi ijo lawa](#nimi-lawa).
 *(La substantivoj "ijo", "ilo" kaj "jan" povas manki antaŭ adjektivo. Tiam tiu adjektivo fariĝas substantivo.)*
 
 * suno *(heleco, brilo)*
@@ -154,14 +195,14 @@ insa pi [nimi ijo lawa](#nimi-ijo-lawa) en **nimi kalama** la nimi "pi nimi" li 
 * mama *(kreo)*
  * jan **mama** → mama *(kreanto → gepatro)*
 
-[nimi ijo lawa](#nimi-ijo-lawa) "pona" li ken weka lon monsi pi nimi "ijo" weka. ni la **nimi ijo monsi** lon monsi pi nimi "ijo pi pona" weka li kama [nimi ijo lawa](#nimi-ijoj-lawa).
+[nimi ijo lawa](#nimi-lawa) "pona" li ken weka lon monsi pi nimi "ijo" weka. ni la **nimi ijo monsi** lon monsi pi nimi "ijo pi pona" weka li kama [nimi ijo lawa](#nimi-lawa).
 *(La substantivo "pona" povas manki malantaŭ manka "ijo". Tiam la adjektivo malantaŭ "ijo pi pona" fariĝas substantivo.)*
 
 * ijo pi pona **moku** → moku *(io manĝebla → manĝo)*
 * ijo pi pona **sitelen** → sitelen *(io desegnebla → desegno)*
 * ijo pi pona **sona** → sona *(io sciebla → scio)*
 
-### nimi ijo insa
+### nimi insa
 *(Prepozicioj)*
 
 **nimi ijo insa** li ken kama [nimi ijo](#nimi-ijo) pona.
@@ -170,16 +211,16 @@ insa pi [nimi ijo lawa](#nimi-ijo-lawa) en **nimi kalama** la nimi "pi nimi" li 
 * ona li **tawa** tomo. *(Ŝi iras hejmen.)*
 * ona li tawa. *(Ŝi iras.)*
 
-### nimi ijo lawa lon
+### nimi lawa lon
 *(Lokaj Substantivoj)*
 
-**nimi ijo lawa lon** lon poka pi [nimi ijo insa](#nimi-ijo-insa) "lon" anu "tawa" anu "tan" li sama [nimi ijo insa](#nimi-ijo-insa) sin.
+**nimi ijo lawa lon** lon poka pi [nimi ijo insa](#nimi-insa) "lon" anu "tawa" anu "tan" li sama [nimi ijo insa](#nimi-insa) sin.
 *(Loka substantivo kun la prepozicio "lon" aŭ "tawa" aŭ "tan" estas kiel nova prepozicio.)*
 
 * jan pona li lon tomo tawa. *(Amiko estas ĉe la aŭto.)*
 * jan pona li lon **insa** pi tomo tawa. *("Amiko estas ĉe la interno de la aŭto." → Amiko estas en la aŭto.)*
 
-#### nimi ijo lawa pi lon insa
+#### nimi lawa pi lon insa
 *(Intern-lokaj Substantivoj)*
 
 **nimi ijo lawa pi lon insa** li nimi "insa" en nimi "sewi".
@@ -188,7 +229,7 @@ insa pi [nimi ijo lawa](#nimi-ijo-lawa) en **nimi kalama** la nimi "pi nimi" li 
 * ona li lon **insa** pi tomo sona. *("Ŝi estas ĉe la interno de la lernejo." → Ŝi estas en la lernejo.)*
  * ona li insa lon tomo sona. *("Ŝi internas ĉe la lernejo." → Ŝi estas en la lernejo.)*
 
-sina ken **nimi ijo lawa pi lon insa** e [nimi ijo lawa](#nimi-ijo-lawa).
+sina ken **nimi ijo lawa pi lon insa** e [nimi ijo lawa](#nimi-lawa).
 *(Oni povas igi substantivon intern-loka.)*
 
 * anpa *(malalto)*
@@ -207,7 +248,7 @@ sina ken **nimi ijo lawa pi lon insa** e [nimi ijo lawa](#nimi-ijo-lawa).
 * kulupu *(grupo)*
  * mi lon kulupu pi jan pona. *("Mi estas en grupo de amikoj." → Mi estas inter amikoj.)*
 
-#### nimi ijo lawa pi lon poka
+#### nimi lawa pi lon poka
 *(Apud-lokaj Substantivoj)*
 
 nimi ijo lawa pi lon poka li nimi "poka" li nimi "sinpin" li nimi "monsi" li nimi "noka".
@@ -215,7 +256,7 @@ nimi ijo lawa pi lon poka li nimi "poka" li nimi "sinpin" li nimi "monsi" li nim
 * ona li lon poka pi tomo sona. *("Ŝi estas ĉe la flanko de la lernejo." → Ŝi estas apud la lernejo.)*
  * tomo sona li poka lon ona. *("La lernejo flankas ĉe ŝi." → Ŝi estas apud la lernejo.)*
 
-sina ken **nimi ijo lawa pi lon poka** e [nimi ijo lawa](#nimi-ijo-lawa).
+sina ken **nimi ijo lawa pi lon poka** e [nimi ijo lawa](#nimi-lawa).
 *(Oni povas igi substantivon apud-loka.)*
 
 * sike *(kurbiĝo)*
@@ -223,89 +264,20 @@ sina ken **nimi ijo lawa pi lon poka** e [nimi ijo lawa](#nimi-ijo-lawa).
 * supa *(faco)*
  * waso li lon supa pi tomo tawa. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)*
 
-### nimi ijo suli
-*(Verboj)*
-
-[kulupu suli](#nimi-ijo-suli) la **nimi ijo suli** li suli pi nanpa wan. ona li monsi pi [nimi ilo "li"](#nimi-ilo-li).
-*(En frazo, la verbo estas la plej grava vorto. Ĝi estas malantaŭ la partikulo "li".)*
-
-* ona li **lape**. *(Ŝi dormas.)*
-* ona li **pona**. *(Ŝi estas bona.)*
-* ona li **mama**. *(Ŝi estas patrino.)*
-* ona li **tawa** tomo. *(Ŝi iras hejmen.)*
-
-### nimi ijo sinpin
+### nimi sinpin
 *(Helpaj Verboj)*
 
-**nimi sinpin** li lon sinpin pi [nimi suli](#nimi-ijo-suli).
+**nimi sinpin** li lon sinpin pi [nimi suli](#nimi-suli).
 *(Helpa verbo estas antaŭ verbo.)*
 
 * ona li *wile* lape. *(Ŝi devas dormi.)*
-
-#### kulupu nimi lili sinpin
-*(Helpa Frazero)*
-
-[nimi ijo insa](#nimi-ijo-insa) "lon" li ken weka lon **kulupu nimi lili sinpin**.
-*(La prepozicio "lon" povas manki en helpa frazero.)*
-
-* mi lape lon tenpo pimeja. *(Mi dormas dum la nokto.)*
- * lon tenpo pimeja **la** mi lape. → tenpo pimeja **la** mi lape. *(Ĉe la nokto, mi dormas. → Nokte, mi dormas.)*
-
-#### kulupu nimi suli pi wile sona
-*(Demanda Frazo)*
-
-nimi pi wile sona li nimi "seme".
-*(La demanda vorto estas "seme".)*
-
-* sina lukin e **seme**? *(Kion vi vidas?)*
-* jan **seme** li lon tomo? *(Kiu estas en la domo?)*
-* nasin **seme** la sina pilin? *(Kiel vi fartas?)*
-
-**kulupu nimi suli pi wile sona** pi lon anu ala li jo e nimi "anu seme" lon pini.
-*(Jes-/Ne-Demandoj enhavas la vortojn "anu seme" ĉe la fino.)*
-
-* ona li kama **anu seme**? *("Ŝi venos aŭ kio?" → Ĉu ŝi venos?)*
-
-#### kulupu nimi suli pi pana sona
-*(Responda Frazo)*
-
-**kulupu nimi suli pi pana sona** pi lon anu ala li [nimi ijo suli](#nimi ijo suli) taso.
-*(Responda frazo al jes-/ne-demando konsistas nur el verbo.)*
-
-* ona li kama **anu seme**? *(Ĉu ŝi venos?)*
- * kama. *("Venos." → "Jes.")*
- * kama ala. *("Ne venos." → "Ne.")*
-
-[nimi ijo suli](#nimi-ijo-suli) lon sinpin pi nimi "ala" lon **kulupu nimi suli pi pana sona** li ken weka.
-*(La verbo en responda frazo al jes-/ne-demando povas manki antaŭ "ala".)*
-
-* kama ala. → ala. *(Ne.)*
-
-sina ken kepeken [nimi ijo suli](#nimi-ijo-suli) taso sama **kulupu nimi suli pi pana sona**.
-*(Oni povas uzi solan verbon kvazaŭ respondon al jes-/ne-demando.)*
-
-* pona. *(Estas bone. → Bone.)*
-
-sina ken kepeken [nimi ijo lawa lon](#nimi-ijo-lawa-lon) sama **kulupu nimi suli pi pana sona** sama [kulupu nimi suli sinpin](#kulupu-nimi-suli-sinpin). ni la nimi ilo "la" li ken weka.
-*(Oni povas uzi lokan substantivon kiel respondan helpan frazon. Tiam la partikulo "la" povas manki.)*
-
-* **taso** la mi kama. → **taso** mi kama. *(Sendepende, mi venos. → Sed mi venos.)*
-
-#### kulupu nimi suli sinpin
-*(Helpa Frazo)*
-
-nimi ilo "la" li lon insa pi **kulupu nimi suli sinpin** en [kulupu nimi suli](#kulupu-nimi-suli) lawa.
-*(La partikulo "la" estas inter helpa frazo kaj ĉefa frazo.)*
-
-* tenpo pimeja **la** mi lape. *(Dum la nokto, mi dormas.)*
-* tenpo li pimeja **la** mi lape. *(Dum la tempo estas malhela, mi dormas.)*
 
 # nasin toki pi pona ala
 
 ## toki walo
 *(Redunda Lingvaĵo)*
 
-sina ken kepeken [nimi ijo insa](#nimi-ijo-insa) lon poka pi [nimi ijo suli](#nimi-ijo-suli) sama. taso ni li **toki walo**.
+sina ken kepeken [nimi ijo insa](#nimi-insa) lon poka pi [nimi ijo suli](#nimi-suli) sama. taso ni li **toki walo**.
 *(Oni povus uzi prepozicion kun sama verbo. Sed tio ŝajnas evitinda.)*
 
 * ona li ~~**tawa**~~ **tawa** tomo. → ona li **tawa** tomo. *("Ŝi iras al la domo." → Ŝi iras hejmen.)*
@@ -319,14 +291,14 @@ sina ken kepeken e nimi sama pi tenpo tu. nasin ni la ona li kama wawa. taso ni 
 ## toki pimeja
 *(Obskura Lingvaĵo)*
 
-sina ken [nimi ijo](#nimi-ijo) ante e [nimi ijo](#nimi-ijo) lon weka pi [nimi ijo sinpin](#nimi-ijo-sinpin). taso ni li **toki pimeja**.
+sina ken [nimi ijo](#nimi-ijo) ante e [nimi ijo](#nimi-ijo) lon weka pi [nimi ijo sinpin](#nimi-sinpin). taso ni li **toki pimeja**.
 *(Oni povus derivi alian vorton de vorto sen helpa verbo. Sed tio ŝajnas evitinda.)*
 
 * ona li (*kama*) open e lupa. *(Ŝi malfermas la pordon.)*
  * ~~open~~ → *kama* open *(malfermo, malfermiĝo)*
  * open *(malfermiteco)*
 
-sina ken weka e nimi "pona" lon sinpin pi [nimi ijo suli](#nimi-ijo-suli). taso ni li **toki pimeja**.
+sina ken weka e nimi "pona" lon sinpin pi [nimi ijo suli](#nimi-suli). taso ni li **toki pimeja**.
 *(Oni povus mankigi "pona" antaŭ verbo. Sed tio ŝajnas evitinda.)*
 
 * ~~kili ni li moku.~~ → kili ni li **pona** moku. *(Tiu frukto estas manĝebla.)*
@@ -339,7 +311,7 @@ sina ken weka e nimi "pona" lon sinpin pi [nimi ijo suli](#nimi-ijo-suli). taso 
 ## toki ike
 *(Maleleganta Lingvaĵo)*
 
-sina ken kepeken [nimi ilo "pi"](#nimi-ilo-pi) lon insa pi [nimi ijo](#nimi-ijo) en [nimi ijo insa](#nimi-ijo-insa). taso ni li **toki ike**.
+sina ken kepeken [nimi ilo "pi"](#nimi-ilo-pi) lon insa pi [nimi ijo](#nimi-ijo) en [nimi ijo insa](#nimi-insa). taso ni li **toki ike**.
 *(Oni povus uzi la partikulon "pi" inter radika vorto kaj prepozicio. Sed tio ŝajnas evitinda.)*
 
 * pali ~~**pi**~~ lon tomo → pali lon tomo *(laboro en domo)*
@@ -347,7 +319,7 @@ sina ken kepeken [nimi ilo "pi"](#nimi-ilo-pi) lon insa pi [nimi ijo](#nimi-ijo)
 * jan pona li lape ~~**pi**~~ lon tomo. → jan pona li lape lon tomo. *(Amiko dormas en la domo.)*
  * jan pona li lape pi lon tomo. *("Amiko dormas dom-ĉeeste.")*
 
-sina ken [nimi ijo suli](#nimi-ijo-suli) lon poka pi [kulupu nimi lili](#kulupu-nimi-lili) pi [nimi ilo "e"](#nimi-ilo-e) e [nimi ijo lawa lon](#nimi-ijo-lawa-lon). taso ni li **toki ike**.
+sina ken [nimi ijo suli](#nimi-suli) lon poka pi [kulupu nimi lili](#kulupu-nimi-lili) pi [nimi ilo "e"](#nimi-ilo-e) e [nimi ijo lawa lon](#nimi-lawa-lon). taso ni li **toki ike**.
 *(Oni igi lokan substantivon transitiva verbo. Sed tio ŝajnas evitinda.)*
 
 * jan pona li **lon** poka tomo. *("Amiko estas ĉe la flanko de la domo." → Amiko estas apud la domo.)*
@@ -362,7 +334,7 @@ sina ken [nimi ijo suli](#nimi-ijo-suli) lon poka pi [kulupu nimi lili](#kulupu-
 ## toki nasa
 *(Stranga Lingvaĵo)*
 
-sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) lon monsi pi [kulupu monsi](#nimi-ijo-monsi). taso ni li **toki nasa**.
+sina ken kepeken [nimi ijo monsi](#nimi-monsi) lon monsi pi [kulupu monsi](#nimi-monsi). taso ni li **toki nasa**.
 *(Oni povus uzi adjektivon malantaŭ adjektiva frazero. Sed tio ŝajnas evitinda.)*
 
 * tomo **pi telo nasa**, ~~pona~~ → tomo pona **pi telo nasa** *(bona trinkejo)*
@@ -370,7 +342,7 @@ sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) lon monsi pi [kulupu monsi](#
 * jan **lon tomo sona**, ~~pona~~ → jan pona **lon tomo sona** *(amiko en lernejo)*
  * "jan **lon tomo sona pona**" *(homo en bona lernejo)*
 
-sina ken kepeken [nimi ijo insa](#nimi-ijo-insa) lon poka pi [nimi ijo monsi](#nimi-ijo-monsi). taso ni li **toki nasa**.
+sina ken kepeken [nimi ijo insa](#nimi-insa) lon poka pi [nimi ijo monsi](#nimi-monsi). taso ni li **toki nasa**.
 *(Oni povus uzi prepozicion kun adverbo. Sed tio ŝajnas evitinda.)*
 
 * ona li tawa ~~pona,~~ tomo. → ona li tawa pona tawa tomo. *(Ŝi sekure iras hejmen.)*
@@ -385,13 +357,13 @@ sina ken kepeken [nimi ilo "pi"](#nimi-ilo-pi) lon monsi pi [nimi ilo "li"](nimi
 * kili ni li ~~**pi** mi~~. → kili ni li ijo mi. *(Tiu frukto estas mia. → Tiu frukto estas io mia.)*
  * kili ni li mi. *("Tiu frukto estas mi.")*
 
-[kulupu nimi suli pi wile sona](#kulupu-nimi-suli-pi-wile-sona) la sina ken kepeken [nimi ijo monsi](#nimi-ijo-monsi) "ala" en [nimi ijo suli](#nimi-ijo-suli) pi tenpo tu. taso ni li **toki nasa**.
+[kulupu nimi suli pi wile sona](#kulupu-nimi-suli-pi-wile-sona) la sina ken kepeken [nimi ijo monsi](#nimi-monsi) "ala" en [nimi ijo suli](#nimi-suli) pi tenpo tu. taso ni li **toki nasa**.
 *(En jes-/ne-demanda frazo, ni povus uzi la adjektivon "ala" kaj la verbon dufoje. Sed tio ŝajnas evitinda.)* 
 
 * ona li **kama ala kama**? → ona li kama anu seme? *(Ĉu ŝi venos?)*
 * ona li tawa ala tawa tomo. → ona li tawa tomo ala. *("Ŝi iras al neniu hejmo." → Ŝi ne iras hejmen.)*
 
-[kulupu monsi](#nimi-ijo-monsi) pi [nimi ilo](#nimi-ilo) li ken insa pi [nimi ijo suli](#nimi-ijo-suli) en **kulupu "e"**. taso [kulupu monsi](#nimi-ijo-monsi) pi [nimi ijo](#nimi-ijo) li ken lon sinpin pi **kulupu "e"** ala.
+[kulupu monsi](#nimi-monsi) pi [nimi ilo](#nimi-ilo) li ken insa pi [nimi ijo suli](#nimi-suli) en **kulupu "e"**. taso [kulupu monsi](#nimi-monsi) pi [nimi ijo](#nimi-ijo) li ken lon sinpin pi **kulupu "e"** ala.
 *(Adverba frazero je partikulo povas esti inter la verbo kaj akuzativa frazero. Sed adverba frazero je radiko ne povas esti antaŭ akuzativa frazero.)*
 
 * mi lukin pi pona mute **e** sitelen. *(Mi legas tre bone.)*
@@ -411,13 +383,13 @@ sina ken kepeken [nimi ilo "pi"](#nimi-ilo-pi) lon monsi pi [nimi ilo "li"](nimi
 ## toki mu
 *(Slanga Lingvaĵo)*
 
-sina ken kepeken [nimi ijo lawa lon](#nimi-ijo-lawa-lon) sama [nimi ijo insa](#nimi-ijo-insa). taso ni li **toki mu**.
+sina ken kepeken [nimi ijo lawa lon](#nimi-lawa-lon) sama [nimi ijo insa](#nimi-insa). taso ni li **toki mu**.
 *(Oni povus uzi lokan substantivon kvazaŭ prepozicion. Sed tio ŝajnas evitinda.)*
 
 * jan pona li lon **poka** pi tomo sona. ("Amiko estas ĉe la flanko de la lernejo." → Amiko estas apud la lernejo.)
 * ~~tomo sona li poka jan pona.~~ → tomo sona li poka lon jan pona. ("~~Lernejo flankas home bone.~~" → "Lernejo flankas ĉe amiko." = Amiko estas apud lernejo.)
 
-sina ken [nimi ijo insa](#nimi-ijo-insa) e [nimi ijo lawa lon](#nimi-ijo-lawa-lon). taso ni li **toki mu**.
+sina ken [nimi ijo insa](#nimi-insa) e [nimi ijo lawa lon](#nimi-lawa-lon). taso ni li **toki mu**.
 *(Oni povus prepoziciigi lokan substantivon. Sed tio ŝajnas evitinda.)*
 
 * ~~ona li **poka** tomo tawa.~~ → ona li lon **poka** pi tomo tawa. *(Ŝi estas apud aŭto.)*
