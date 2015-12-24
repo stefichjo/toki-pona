@@ -349,8 +349,8 @@ sina ken kepeken e nimi sama pi tenpo tu. nasin ni la ona li kama wawa. taso ni 
 sina ken [nimi ijo](#nimi-ijo) ante e [nimi ijo](#nimi-ijo) lon weka pi [nimi ijo sinpin](#nimi-ijo-sinpin). taso ni li **toki pimeja**.
 *(Oni povus derivi alian vorton de vorto sen helpa verbo. Sed tio ŝajnas evitinda.)*
 
-* ona li (kama) open e lupa. *(Ŝi malfermas la pordon.)*
- * ~~open~~ → kama open *(malfermo, malfermiĝo)*
+* ona li (*kama*) open e lupa. *(Ŝi malfermas la pordon.)*
+ * ~~open~~ → *kama* open *(malfermo, malfermiĝo)*
  * open *(malfermiteco)*
 
 sina ken weka e nimi "pona" lon sinpin pi [nimi ijo suli](#nimi-ijo-suli). taso ni li **toki pimeja**.
