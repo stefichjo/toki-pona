@@ -62,16 +62,6 @@ sina ken [nimi ijo suli](#nimi-ijo-suli) e [nimi ijo](#nimi-ijo).
 
 * mi lukin pona **e** sitelen. *(Mi legas bone.)*
 
-[kulupu monsi](#nimi-ijo-monsi) pi [nimi ilo](#nimi-ilo) li ken insa pi [nimi ijo suli](#nimi-ijo-suli) en **kulupu "e"**.
-*(Adverba frazero je partikulo povas esti inter la verbo kaj akuzativa frazero.)*
-
-* mi lukin pi pona mute **e** sitelen. *(Mi legas tre bone.)*
-
-taso [kulupu monsi](#nimi-ijo-monsi) pi [nimi ijo](#nimi-ijo) li ken lon sinpin pi **kulupu "e"** ala.
-*(Sed adverba frazero je radiko ne povas esti antaŭ akuzativa frazero.)*
-
-* mi lukin ~~kepeken tenpo mute~~ **e** sitelen. → mi lukin **e** sitelen kepeken tenpo mute. *(Mi legas malrapide.)*
-
 ### nimi ilo "o"
 *(La partikulo "o")*
 
@@ -406,6 +396,13 @@ sina ken kepeken [nimi ilo "pi"](#nimi-ilo-pi) lon monsi pi [nimi ilo "li"](nimi
 
 * ona li **kama ala kama**? → ona li kama anu seme? *(Ĉu ŝi venos?)*
 * ona li tawa ala tawa tomo. → ona li tawa tomo ala. *("Ŝi iras al neniu hejmo." → Ŝi ne iras hejmen.)*
+
+[kulupu monsi](#nimi-ijo-monsi) pi [nimi ilo](#nimi-ilo) li ken insa pi [nimi ijo suli](#nimi-ijo-suli) en **kulupu "e"**. taso [kulupu monsi](#nimi-ijo-monsi) pi [nimi ijo](#nimi-ijo) li ken lon sinpin pi **kulupu "e"** ala.
+*(Adverba frazero je partikulo povas esti inter la verbo kaj akuzativa frazero. Sed adverba frazero je radiko ne povas esti antaŭ akuzativa frazero.)*
+
+* mi lukin pi pona mute **e** sitelen. *(Mi legas tre bone.)*
+* mi lukin ~~kepeken tenpo mute~~ **e** sitelen. → mi lukin **e** sitelen kepeken tenpo mute. *(Mi legas malrapide.)*
+
 
 ## toki namako
 *(Neologisma Lingvaĵo)*
