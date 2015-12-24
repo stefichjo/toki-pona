@@ -335,13 +335,13 @@ nimi ilo "la" li lon insa pi **kulupu nimi suli sinpin** en [kulupu nimi suli](#
 sina ken kepeken [nimi ijo insa](#nimi-ijo-insa) lon poka pi [nimi ijo suli](#nimi-ijo-suli) sama. taso ni li **toki walo**.
 *(Oni povus uzi prepozicion kun sama verbo. Sed tio ŝajnas evitinda.)*
 
-* ona li ~~tawa~~ **tawa** tomo. → ona li **tawa** tomo. *("Ŝi iras al la domo." → Ŝi iras hejmen.)*
+* ona li ~~**tawa**~~ **tawa** tomo. → ona li **tawa** tomo. *("Ŝi iras al la domo." → Ŝi iras hejmen.)*
 * ona li tawa kepeken tenpo lili **tawa** tomo. *("Ŝi iras ĉe malmulta tempo al la domo." → Ŝi iras rapide hejmen.)*
 
 sina ken kepeken e nimi sama pi tenpo tu. nasin ni la ona li kama wawa. taso ni li **toki walo**.
 *(Oni povus uzi la saman vorton dufoje por emfazi ĝin. Sed tio ŝajnas evitinda.)*
 
-* ona li pona pona. *("Ĝi estas bone bona." → Ĝi estas bonbona.)*
+* ona li **pona pona**. *("Ĝi estas bone bona." → Ĝi estas bonbona.)*
 
 ## toki pimeja
 *(Obskura Lingvaĵo)*
