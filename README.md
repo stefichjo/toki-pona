@@ -46,8 +46,8 @@ kulupu pi [nimi suli](#nimi-suli) pi pana sona pi lon anu ala li [nimi suli](#ni
 
 * pona. *(Estas bone. → Bone. → Jes.)*
 
-[nimi suli](#nimi-suli) lon sinpin pi nimi "ala" lon kulupu pi [nimi suli](#nimi-suli) pi pana sona pi lon anu ala li ken weka.
-*(La verbo en responda frazo al jes-/ne-demando povas manki antaŭ "ala".)*
+kulupu pi [nimi suli](#nimi-suli) pi pana sona pi lon anu ala la [nimi suli](#nimi-suli) lon sinpin pi nimi "ala" li ken weka.
+*(En jes-/ne-responda frazo, la verbo antaŭ "ala" povas manki.)*
 
 * pona ala. → ala. *(Estas ne bone. → Ne bone. → Ne.)*
 
