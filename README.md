@@ -118,8 +118,8 @@ sina ken kepeken **nimi "en"** ala lon kulupu pi [nimi "li"](#nimi-li) anu kulup
 ### nimi "anu"
 *(La partikulo "anu")*
 
-kulupu pi [nimi suli](#nimi-suli) pi wile sona pi lon anu ala li jo e nimi "anu seme" lon pini.
-*(Jes-/Ne-Demandoj enhavas la vortojn "anu seme" ĉe la fino.)*
+kulupu pi [nimi suli](#nimi-suli) pi wile sona pi lon anu ala la nimi "anu seme" li lon pini.
+*(En jes-/ne-demandoj, la vortoj "anu seme" estas ĉe la fino.)*
 
 * ona li kama **anu** seme? *("Ŝi venos aŭ kio?" → Ĉu ŝi venos?)*
 
