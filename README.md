@@ -371,6 +371,15 @@ kulupu pi [nimi monsi](#nimi-monsi) pi [nimi ilo](#nimi-ilo) li ken insa pi [nim
 * mi lukin pi pona mute **e** sitelen. *(Mi legas tre bone.)*
 * mi lukin ~~kepeken tenpo mute~~ **e** sitelen. → mi lukin **e** sitelen kepeken tenpo mute. *(Mi legas malrapide.)*
 
+...
+*(...)*
+
+* tomo pona pi telo nasa lon ma tomo Lantan *(bona trinkejo en Londono)*
+
+...
+*(...)*
+
+* mi tawa Lantan. → mi tawa ma tomo Lantan. *(Mi iras al Londono.)*
 
 ## toki namako
 *(Neologisma Lingvaĵo)*
