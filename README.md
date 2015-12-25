@@ -172,14 +172,6 @@ kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi [
 
 * mi **wile** jo e ni. → mi **wile** e ni. *(Mi volas havi tion. → Mi volas tion.)*
 
-### nimi lawa
-*(Substantivoj)*
-
-**nimi lawa** li [nimi ijo](#nimi-ijo) pona pi nanpa wan.
-*(Substantivoj estas la plej simplaj radikaj vortoj.)*
-
-* **jan** *(homo)*
-
 ### nimi monsi
 *(Adjektivoj/Adverboj)*
 
@@ -189,7 +181,28 @@ kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi [
 * mi jo e lukin **pona**. *(Mi havas bonan vidon.)*
 * mi lukin **pona**. *(Mi bone vidas.)*
 
-### nimi lawa pi pona weka
+### nimi insa
+*(Prepozicioj)*
+
+**nimi insa** en nimi "tan" en "nimi "lon" en nimi "tawa" en nimi "sama" en nimi "kepeken" li **nimi insa**.
+*("tan", "lon", "tawa", "sama" kaj "kepeken" estas prepozicioj.)*
+
+* ona li **tawa** tomo. *(Ŝi iras hejmen.)*
+
+**nimi insa** li ken kama [nimi ijo](#nimi-ijo) pona.
+*(Prepozicio povas fariĝi simpla radika vorto.)*
+
+* ona li **tawa**. *(Ŝi iras.)*
+
+### nimi lawa
+*(Substantivoj)*
+
+**nimi lawa** li [nimi ijo](#nimi-ijo) pona pi nanpa wan.
+*(Substantivoj estas la plej simplaj radikaj vortoj.)*
+
+* **jan** *(homo)*
+
+#### nimi lawa pi pona weka
 *(Mankigeblaj Substantivoj)*
 
 lon sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "ijo" en "ilo" en "jan" li ken weka. ni la [nimi monsi](#nimi-monsi) ni li kama [nimi lawa](#nimi-lawa).
@@ -208,20 +221,7 @@ monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#
 * ijo pi pona **moku** → moku *(io manĝebla → manĝo)*
 * ijo pi pona **sona** → sona *(io sciebla → scio)*
 
-### nimi insa
-*(Prepozicioj)*
-
-**nimi insa** en nimi "tan" en "nimi "lon" en nimi "tawa" en nimi "sama" en nimi "kepeken" li **nimi insa**.
-*("tan", "lon", "tawa", "sama" kaj "kepeken" estas prepozicioj.)*
-
-* ona li **tawa** tomo. *(Ŝi iras hejmen.)*
-
-**nimi insa** li ken kama [nimi ijo](#nimi-ijo) pona.
-*(Prepozicio povas fariĝi simpla radika vorto.)*
-
-* ona li **tawa**. *(Ŝi iras.)*
-
-### nimi lawa lon
+#### nimi lawa lon
 *(Lokaj Substantivoj)*
 
 poka pi [nimi insa](#nimi-insa) "lon" anu "tawa" anu "tan" la **nimi lawa lon** li sama [nimi insa](#nimi-insa) sin.
@@ -230,7 +230,7 @@ poka pi [nimi insa](#nimi-insa) "lon" anu "tawa" anu "tan" la **nimi lawa lon** 
 * jan pona li lon tomo tawa. *(Amiko estas ĉe la aŭto.)*
 * jan pona li lon **insa** pi tomo tawa. *("Amiko estas ĉe la interno de la aŭto." → Amiko estas en la aŭto.)*
 
-#### nimi lawa pi lon insa
+##### nimi lawa pi lon insa
 *(Intern-lokaj Substantivoj)*
 
 nimi "**insa**" en nimi "**sewi**" li **nimi lawa pi lon insa**.
@@ -244,21 +244,21 @@ sina ken **nimi lawa pi lon insa** e [nimi lawa](#nimi-lawa).
 
 * **anpa** *(malalto)*
  * pipi li lon **anpa** pi jan pona. *("Insekto estas ĉe la malalto de amiko." → Insekto estas sub amiko.)*
+* **kulupu** *(grupo)*
+ * mi lon **kulupu** pi jan pona. *("Mi estas en grupo de amikoj." → Mi estas inter amikoj.)*
 * **lawa** *(supro)*
  * kon li pona lon **lawa** nena. *("La aero estas bona ĉe la supro de la monto." → La aero estas bona supre de la monto.)*
 * **open** *(malfermiteco)*
  * mi tawa lon **open** pi lupa tomo. *("Mi iras ĉe la malfermiteco de la pordo de la domo." → "Mi iras tra la pordo de la domo.")*
  * mi tawa lon **open** pi poka tomo. *("Mi iras tra la apudo de la domo." → Mi iras preter la domo.)*
-* **weka** *(distanco)*
- * ona li pana e telo seli lon **weka** suwi tawa mi. *("Ŝi donis al mi teon ĉe distanco de sukero." → Ŝi donis al mi teon sen sukero.)*
- * ona li **weka**. *("Ŝi estas distanca." → Ŝi estas for.)*
 * **taso** *(sendependo)*
  * mi lon **taso** pi jan pona. *("Mi estas ĉe sendependo de amiko." → Mi estas sen amiko.)*
  * ona li **taso**. *("Ŝi estas sendependa." → Ŝi estas libera.)*
-* **kulupu** *(grupo)*
- * mi lon **kulupu** pi jan pona. *("Mi estas en grupo de amikoj." → Mi estas inter amikoj.)*
+* **weka** *(distanco)*
+ * ona li pana e telo seli lon **weka** suwi tawa mi. *("Ŝi donis al mi teon ĉe distanco de sukero." → Ŝi donis al mi teon sen sukero.)*
+ * ona li **weka**. *("Ŝi estas distanca." → Ŝi estas for.)*
 
-#### nimi lawa pi lon poka
+##### nimi lawa pi lon poka
 *(Apud-lokaj Substantivoj)*
 
 nimi "**poka**" en nimi "**sinpin**" en nimi "**monsi**" en nimi "**noka**" li **nimi lawa pi lon poka**.
