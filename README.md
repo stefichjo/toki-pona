@@ -52,8 +52,8 @@ sinpin pi [nimi lawa](#nimi-lawa) taso la **nimi ilo "pi"** li weka. ni la [nimi
 
 * ona **li** toki. *(Ŝi parolas.)*
 
-**nimi ilo "li"** li weka lon monsi pi nimi "mi" taso anu nimi "sina" taso.
-*(La partikulo "li" mankas malantaŭ sola "mi" aŭ sola "sina".)*
+monsi pi nimi "mi" taso anu nimi "sina" taso la **nimi ilo "li"** li weka.
+*(Malantaŭ sola "mi" aŭ sola "sina", la partikulo "li" mankas.)*
 
 * mi ~~**li**~~ toki. → mi toki. *(Mi parolas.)*
 * sina ~~**li**~~ toki. → sina toki. *(Vi parolas.)*
