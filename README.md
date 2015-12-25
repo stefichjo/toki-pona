@@ -74,13 +74,13 @@ kulupu pi [nimi suli](#nimi-suli) pi pana sona pi lon anu ala la [nimi suli](#ni
 sina ken [nimi suli](#nimi-suli) e [nimi ijo](#nimi-ijo).
 *(Oni povas verbigi radikan vorton.)*
 
-* ona li pona. *(Ŝi estas sana.)*
-* ona li kama pona. *(Ŝi saniĝas.)*
+* ona li pona. *(Ĝi estas bona.)*
+* ona li kama pona. *(Ĝi boniĝas.)*
 
 [nimi sinpin](#nimi-sinpin) lon sinpin pi [nimi suli](#nimi-suli) ni lon sinpin pi nimi ilo "e" li ken weka.
 *(Helpa verbo antaŭ tia (transitiva) verbo povas manki.)*
 
-* jan pona li ~~kama~~ pona **e** ona. → jan pona li pona **e** ona. *(Amiko sanigas ŝin.)*
+* jan pona li ~~kama~~ pona **e** ona. → jan pona li pona **e** ona. *("Amiko bonigas ĝin." → Amiko riparas ĝin.)*
 
 **kulupu pi nimi "e"** li ken weka.
 *(La rekta objekto povas manki.)*
