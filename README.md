@@ -132,7 +132,7 @@ kulupu pi [nimi insa](#nimi-insa) li ken kama kulupu pi **nimi "la"**.
 * mi pali lon tomo. → lon tomo la mi pali. *(Mi laboras ĉe la domo. → Ĉe la domo, mi laboras.)*
 
 kulupu pi **nimi "la"** la [nimi insa](#nimi-insa) "lon" li ken weka.
-*(En "la"-frazero, la prepozicio "lon" mankas.)*
+*(En "la"-frazero, la prepozicio "lon" povas manki.)*
 
 * lon tomo la mi pali. → tomo la mi pali. *(Ĉe la domo, mi laboras. → Hejme, mi laboras.)*
 
