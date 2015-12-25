@@ -27,8 +27,8 @@ insa pi [nimi lawa](#nimi-lawa) en **nimi kalama** la nimi "pi nimi" li ken weka
 **nimi ilo** li lon insa pi [nimi ijo](#nimi-ijo) tu.
 *(Partikulo estas inter du radikaj vortoj.)*
 
+* nasin **pi** toki pona *(tokiponismo)*
 * toki **li** pona. *(Komunikado estas bona.)*
-* nasin **pi** toki pona. *(tokiponismo)*
 
 ### nimi ilo "pi"
 *(La Partikulo "pi")*
