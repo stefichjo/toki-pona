@@ -184,7 +184,7 @@ kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi [
 ### nimi insa
 *(Prepozicioj)*
 
-nimi "tan" en "nimi "lon" en nimi "tawa" en nimi "sama" en nimi "kepeken" li **nimi insa**.
+nimi "tan" en nimi "lon" en nimi "tawa" en nimi "sama" en nimi "kepeken" li **nimi insa**.
 *("tan", "lon", "tawa", "sama" kaj "kepeken" estas prepozicioj.)*
 
 * ona li **tawa** tomo. *(Ŝi iras hejmen.)*
@@ -224,8 +224,8 @@ monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#
 #### nimi lawa lon
 *(Lokaj Substantivoj)*
 
-poka pi [nimi insa](#nimi-insa) "lon" anu "tawa" anu "tan" la **nimi lawa lon** li sama [nimi insa](#nimi-insa) sin.
-*(Kun la prepozicio "lon" aŭ "tawa" aŭ "tan" , loka substantivo estas kvazaŭ nova prepozicio.)*
+poka pi nimi "lon" anu nimi "tawa" anu nimi "tan" la **nimi lawa lon** li sama [nimi insa](#nimi-insa) sin.
+*(Kun "lon", "tawa" aŭ "tan", loka substantivo estas kvazaŭ nova prepozicio.)*
 
 * jan pona li lon tomo tawa. *(Amiko estas ĉe la aŭto.)*
 * jan pona li lon **insa** pi tomo tawa. *("Amiko estas ĉe la interno de la aŭto." → Amiko estas en la aŭto.)*
