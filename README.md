@@ -95,15 +95,15 @@ kulupu pi **nimi "e"** li ken weka.
 ### nimi ilo "o"
 *(La partikulo "o")*
 
-nimi "sina" li ken weka lon sinpin pi **nimi ilo "o"**.
+nimi "sina" li ken weka lon sinpin pi **nimi "o"**.
 *("sina" povas manki antaŭ la partikulo "o".)*
 
 * sina **o** kama. → **o** kama. *(Vi venu! → Venu!)*
 
-[nimi suli](#nimi-suli) li ken weka lon monsi pi **nimi ilo "o"**.
+[nimi suli](#nimi-suli) li ken weka lon monsi pi **nimi "o"**.
 *(Verbo povas manki malantaŭ la partikulo "o".)*
 
-* jan pona **o** sona! → jan pona **o**! *(Amiko, sciu! → Ho amiko!)*
+* jan pona **o** kute! → jan pona **o**! *(Amiko, aŭdu! → Ho amiko!)*
 
 nimi "o lon" li ken weka.
 *("o lon" povas manki.)*
