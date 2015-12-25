@@ -50,7 +50,7 @@ sinpin pi [nimi lawa](#nimi-lawa) taso la **nimi ilo "pi"** li weka. ni la [nimi
 **nimi ilo "li"** li lon insa pi [nimi lawa](#nimi-lawa) en [nimi suli](#nimi-suli).
 *(La partikulo "li" estas inter substantivo kaj verbo.)*
 
-* mi en sina **li** toki. *(Mi kaj vi parolas.)*
+* ona **li** toki. *(Ŝi parolas.)*
 
 **nimi ilo "li"** li weka lon monsi pi nimi "mi" taso anu nimi "sina" taso.
 *(La partikulo "li" mankas malantaŭ sola "mi" aŭ sola "sina".)*
