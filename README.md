@@ -273,7 +273,7 @@ kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi [
 **nimi suli** li ken weka lon monsi pi **nimi sinpin**. ni la **nimi sinpin** ni li kama **nimi suli**.
 *(Verbo povas manki malantaŭ helpa verbo. Tiam tiu helpa verbo fariĝas verbo.)*
 
-* mi **wile** jo e ni. → mi wile e ni. *(Mi volas havi tion. → Mi volas tion.)*
+* mi **wile** jo e ni. → mi **wile** e ni. *(Mi volas havi tion. → Mi volas tion.)*
 
 # nasin toki pi pona ala
 
