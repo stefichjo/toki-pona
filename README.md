@@ -4,7 +4,7 @@
 ## nimi kalama
 *(Sonimitoj)*
 
-nimi kalama li nimi "a" en nimi "mu".
+**nimi kalama** li nimi "a" en nimi "mu".
 *(La sonimitoj estas "a" kaj "mu".)*
 
 * **a a a**! *(Ha ha ha!)*
