@@ -188,10 +188,14 @@ sina ken kepeken [nimi lawa lon](#nimi-lawa-lon) sama **kulupu nimi suli pi pana
 ### nimi insa
 *(Prepozicioj)*
 
+**nimi insa** li nimi "tan" en "nimi "lon" en nimi "tawa" en nimi "sama" en nimi "kepeken".
+*(La prepozicioj estas "tan", "lon", "tawa", "sama" kaj "kepeken".)*
+
+* ona li **tawa** tomo. *(Ŝi iras hejmen.)*
+
 **nimi insa** li ken kama [nimi ijo](#nimi-ijo) pona.
 *(Prepozicio povas fariĝi simpla radika vorto.)*
 
-* ona li **tawa** tomo. *(Ŝi iras hejmen.)*
 * ona li tawa. *(Ŝi iras.)*
 
 ### nimi lawa lon
