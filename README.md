@@ -161,13 +161,13 @@ kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi [nimi lawa lon
 *(Adjektivoj/Adverboj)*
 
 **nimi monsi** li lon monsi pi [nimi lawa](#nimi-lawa) anu [nimi suli](#nimi-suli).
-*(Adjektivo/adverbo estas malantaŭ substantivo/verbo.)*
+*(Adjektivo/adverbo estas malantaŭ substantivo respektive verbo.)*
 
-* lukin **pona** *(bona vido)*
+* mi jo e lukin **pona** *(Mi havas bonan vidon.)*
 * mi lukin **pona** *(Mi bone vidas.)*
 
-[nimi lawa](#nimi-lawa) pi "ijo" en "ilo" en "jan" li ken weka lon sinpin pi [nimi monsi](#nimi-monsi). ni la **nimi monsi** ni li kama [nimi lawa](#nimi-lawa).
-*(La substantivoj "ijo", "ilo" kaj "jan" povas manki antaŭ adjektivo. Tiam tiu adjektivo fariĝas substantivo.)*
+lon sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "ijo" en "ilo" en "jan" li ken weka. ni la **nimi monsi** ni li kama [nimi lawa](#nimi-lawa).
+*(Antaŭ adjektivo, la substantivoj "ijo", "ilo" kaj "jan" povas manki. Tiam tiu adjektivo fariĝas substantivo.)*
 
 * suno *(heleco, brilo)*
  * ijo **suno** → suno *(io hela, io brilanta → lumo, la suno)*
@@ -176,11 +176,10 @@ kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi [nimi lawa lon
 * mama *(kreo)*
  * jan **mama** → mama *(kreanto → gepatro)*
 
-[nimi lawa](#nimi-lawa) "pona" li ken weka lon monsi pi nimi "ijo" weka. ni la **nimi monsi** lon monsi pi nimi "ijo pi pona" weka li kama [nimi lawa](#nimi-lawa).
-*(La substantivo "pona" povas manki malantaŭ manka "ijo". Tiam la adjektivo malantaŭ "ijo pi pona" fariĝas substantivo.)*
+monsi pi nimi "ijo" weka la [nimi lawa](#nimi-lawa) "pona" li ken weka. ni la **nimi monsi** lon monsi pi nimi "ijo pi pona" weka li kama [nimi lawa](#nimi-lawa).
+*(Malantaŭ manka "ijo", la substantivo "pona" povas manki. Tiam la adjektivo malantaŭ "ijo pi pona" fariĝas substantivo.)*
 
 * ijo pi pona **moku** → moku *(io manĝebla → manĝo)*
-* ijo pi pona **sitelen** → sitelen *(io desegnebla → desegno)*
 * ijo pi pona **sona** → sona *(io sciebla → scio)*
 
 ### nimi insa
