@@ -7,7 +7,7 @@
 * **a a a**! *(Ha ha ha!)*
 * **mu**! *(Miaŭ!)*
 
-kulupu pi [nimi suli](#nimi-ilo-li) la **nimi kalama** li lon monsi pi nimi "nimi".
+kulupu pi [nimi suli](#nimi-suli) la **nimi kalama** li lon monsi pi nimi "nimi".
 *(En frazo, sonimito estas malantaŭ la vorto "nimi".)*
 
 * nimi "*mu*" li nimi kalama soweli. *(La vorto "mu" estas sonimito de bestoj.)*
