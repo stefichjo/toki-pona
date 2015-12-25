@@ -114,7 +114,7 @@ nimi "o lon" li ken weka.
 ### nimi ilo "en"
 *(La partikulo "en")*
 
-sina ken kepeken **nimi ilo "en"** ala lon [kulupu pi nimi "li"](#nimi-ilo-li) anu [kulupu pi nimi "e"](#nimi-ilo-e).
+sina ken kepeken **nimi "en"** ala lon kulupu pi [nimi "li"](#nimi-ilo-li) anu kulupu pi [nimi "e"](#nimi-ilo-e).
 *(Oni ne povas uzi la partikulon "en" en predikato aŭ en rekta objekto.)*
 
 * ona li moku ~~**en**~~ toki. → ona li moku li toki. *(Ŝi manĝas kaj parolas.)*
@@ -137,13 +137,13 @@ kulupu pi nimi suli pi wile sona pi lon anu ala li jo e nimi "anu seme" lon pini
 * mi lape lon tenpo pimeja. *(Mi dormas dum la nokto.)*
  * lon tenpo pimeja **la** mi lape. → tenpo pimeja **la** mi lape. *(Ĉe la nokto, mi dormas. → Nokte, mi dormas.)*
 
-nimi ilo "la" li lon insa pi **kulupu nimi suli sinpin** en [kulupu nimi suli](#kulupu-nimi-suli) lawa.
+nimi ilo "la" li lon insa pi **kulupu nimi suli sinpin** en kulupu pi [nimi suli](#nimi-suli) lawa.
 *(La partikulo "la" estas inter helpa frazo kaj ĉefa frazo.)*
 
 * tenpo pimeja **la** mi lape. *(Dum la nokto, mi dormas.)*
 * tenpo li pimeja **la** mi lape. *(Dum la tempo estas malhela, mi dormas.)*
 
-sina ken kepeken [nimi lawa lon](#nimi-lawa-lon) sama **kulupu nimi suli pi pana sona** sama [kulupu pi nimi sinpin](#nimi-sinpin). ni la nimi ilo "la" li ken weka.
+sina ken kepeken [nimi lawa lon](#nimi-lawa-lon) sama **kulupu nimi suli pi pana sona** sama kulupu pi [nimi sinpin](#nimi-sinpin). ni la nimi ilo "la" li ken weka.
 *(Oni povas uzi lokan substantivon kiel respondan helpan frazon. Tiam la partikulo "la" povas manki.)*
 
 * **taso** la mi kama. → **taso** mi kama. *(Sendepende, mi venos. → Sed mi venos.)*
@@ -321,7 +321,7 @@ sina ken kepeken [nimi ilo "pi"](#nimi-ilo-pi) lon insa pi [nimi ijo](#nimi-ijo)
 * jan pona li lape ~~**pi**~~ lon tomo. → jan pona li lape lon tomo. *(Amiko dormas en la domo.)*
  * jan pona li lape pi lon tomo. *("Amiko dormas dom-ĉeeste.")*
 
-sina ken [nimi suli](#nimi-suli) lon poka pi [kulupu nimi lili](#kulupu-nimi-lili) pi [nimi ilo "e"](#nimi-ilo-e) e [nimi lawa lon](#nimi-lawa-lon). taso ni li **toki ike**.
+sina ken [nimi suli](#nimi-suli) lon poka pi kulupu pi [nimi "e"](#nimi-ilo-e) e [nimi lawa lon](#nimi-lawa-lon). taso ni li **toki ike**.
 *(Oni igi lokan substantivon transitiva verbo. Sed tio ŝajnas evitinda.)*
 
 * jan pona li **lon** poka tomo. *("Amiko estas ĉe la flanko de la domo." → Amiko estas apud la domo.)*
@@ -336,7 +336,7 @@ sina ken [nimi suli](#nimi-suli) lon poka pi [kulupu nimi lili](#kulupu-nimi-lil
 ## toki nasa
 *(Stranga Lingvaĵo)*
 
-sina ken kepeken [nimi monsi](#nimi-monsi) lon monsi pi [kulupu monsi](#nimi-monsi). taso ni li **toki nasa**.
+sina ken kepeken [nimi monsi](#nimi-monsi) lon monsi pi kulupu pi [nimi monsi](#nimi-monsi). taso ni li **toki nasa**.
 *(Oni povus uzi adjektivon malantaŭ adjektiva frazero. Sed tio ŝajnas evitinda.)*
 
 * tomo **pi telo nasa**, ~~pona~~ → tomo pona **pi telo nasa** *(bona trinkejo)*
@@ -359,13 +359,13 @@ sina ken kepeken [nimi ilo "pi"](#nimi-ilo-pi) lon monsi pi [nimi ilo "li"](nimi
 * kili ni li ~~**pi** mi~~. → kili ni li ijo mi. *(Tiu frukto estas mia. → Tiu frukto estas io mia.)*
  * kili ni li mi. *("Tiu frukto estas mi.")*
 
-[kulupu nimi suli pi wile sona](#kulupu-nimi-suli-pi-wile-sona) la sina ken kepeken [nimi monsi](#nimi-monsi) "ala" en [nimi suli](#nimi-suli) pi tenpo tu. taso ni li **toki nasa**.
+kulupu pi [nimi suli](#nimi-suli) pi wile sona la sina ken kepeken [nimi monsi](#nimi-monsi) "ala" en [nimi suli](#nimi-suli) pi tenpo tu. taso ni li **toki nasa**.
 *(En jes-/ne-demanda frazo, ni povus uzi la adjektivon "ala" kaj la verbon dufoje. Sed tio ŝajnas evitinda.)* 
 
 * ona li **kama ala kama**? → ona li kama anu seme? *(Ĉu ŝi venos?)*
 * ona li tawa ala tawa tomo. → ona li tawa tomo ala. *("Ŝi iras al neniu hejmo." → Ŝi ne iras hejmen.)*
 
-[kulupu monsi](#nimi-monsi) pi [nimi ilo](#nimi-ilo) li ken insa pi [nimi suli](#nimi-suli) en **kulupu "e"**. taso [kulupu monsi](#nimi-monsi) pi [nimi ijo](#nimi-ijo) li ken lon sinpin pi **kulupu "e"** ala.
+kulupu pi [nimi monsi](#nimi-monsi) pi [nimi ilo](#nimi-ilo) li ken insa pi [nimi suli](#nimi-suli) en **kulupu "e"**. taso kulupu pi [nimi monsi](#nimi-monsi) pi [nimi ijo](#nimi-ijo) li ken lon sinpin pi **kulupu "e"** ala.
 *(Adverba frazero je partikulo povas esti inter la verbo kaj akuzativa frazero. Sed adverba frazero je radiko ne povas esti antaŭ akuzativa frazero.)*
 
 * mi lukin pi pona mute **e** sitelen. *(Mi legas tre bone.)*
