@@ -88,7 +88,7 @@ kulupu pi **nimi "e"** li ken weka.
 * mi moku **e** ijo. → mi moku. *(Mi manĝas ion. → Mi manĝas.)*
 
 [nimi monsi](#nimi-monsi) li ken lon insa pi [nimi suli](#nimi-suli) en **nimi "e"**.
-*(Adverbo povas esti inter la verbo kaj la partikulo "e".)*
+*(Adverbo povas esti inter la verbo kaj la rekta objekto.)*
 
 * mi lukin pona **e** sitelen. *(Mi legas bone.)*
 
