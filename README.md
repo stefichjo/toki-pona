@@ -42,7 +42,7 @@ insa pi [nimi lawa](#nimi-lawa) en **nimi kalama** la nimi "pi nimi" li ken weka
 * sina ~~**li**~~ toki. → sina toki. *(Vi parolas.)*
 
 kulupu pi [nimi suli](#nimi-suli) pi pana sona pi lon anu ala li [nimi suli](#nimi-suli) taso.
-*(Responda frazo al jes-/ne-demando konsistas nur el verbo.)*
+*(Jes-/ne-responda frazo konsistas nur el verbo.)*
 
 * pona. *(Estas bone. → Bone. → Jes.)*
 
