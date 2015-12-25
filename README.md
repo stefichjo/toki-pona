@@ -381,6 +381,7 @@ sina ken kepeken [nimi ilo "pi"](#nimi-ilo-pi) lon monsi pi [nimi ilo "li"](nimi
 * apeja → ike
 * kipisi → wan/tu
 * oko → lukin
+* ali → ale
 
 ## toki mu
 *(Slanga Lingvaĵo)*
