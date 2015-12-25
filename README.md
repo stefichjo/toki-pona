@@ -126,22 +126,25 @@ kulupu pi [nimi suli](#nimi-suli) pi wile sona pi lon anu ala la nimi "anu seme"
 ### nimi "la"
 *(La partikulo "la")*
 
-[nimi insa](#nimi-insa) "lon" li ken weka lon **kulupu nimi lili sinpin**.
-*(La prepozicio "lon" povas manki en helpa frazero.)*
+kulupu pi [nimi insa](#nimi-insa) li ken kama kulupu pi **nimi "la"**.
+*(Prepozicia frazero povas fariĝi "la"-frazero.)*
 
-* mi lape lon tenpo pimeja. *(Mi dormas dum la nokto.)*
- * lon tenpo pimeja **la** mi lape. → tenpo pimeja **la** mi lape. *(Ĉe la nokto, mi dormas. → Nokte, mi dormas.)*
+* mi pali lon tomo. → lon tomo la mi pali. *(Mi laboras ĉe la domo. → Ĉe la domo, mi laboras.)*
 
-nimi "la" li lon insa pi **kulupu nimi suli sinpin** en kulupu pi [nimi suli](#nimi-suli) lawa.
-*(La partikulo "la" estas inter helpa frazo kaj ĉefa frazo.)*
+kulupu pi **nimi "la"** la [nimi insa](#nimi-insa) "lon" li ken weka.
+*(En "la"-frazero, la prepozicio "lon" mankas.)*
 
-* tenpo pimeja **la** mi lape. *(Dum la nokto, mi dormas.)*
-* tenpo li pimeja **la** mi lape. *(Dum la tempo estas malhela, mi dormas.)*
+* lon tomo la mi pali. → tomo la mi pali. *(Ĉe la domo, mi laboras. → Hejme, mi laboras.)*
 
-sina ken kepeken [nimi lawa lon](#nimi-lawa-lon) sama **kulupu nimi suli pi pana sona** sama kulupu pi [nimi sinpin](#nimi-sinpin). ni la nimi "la" li ken weka.
-*(Oni povas uzi lokan substantivon kiel respondan helpan frazon. Tiam la partikulo "la" povas manki.)*
+kulupu pi **nimi "la"** la nimi "lon ni:" li weka.
+*(En "la"-frazero, la konjunkcio "lon ni:" mankas.)*
 
-* **taso** la mi kama. → **taso** mi kama. *(Sendepende, mi venos. → Sed mi venos.)*
+* mi pali lon ni: mi lon tomo. → mi lon tomo la mi pali. *("Mi laboras ĉe tio: mi estas ĉe la domo." → Se mi estas ĉe la domo, mi laboras.)*
+
+kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi [nimi lawa lon](#nimi-lawa-lon).
+*(En "la"-frazero, la partikulo "la" povas manki malantaŭ loka substantivo.)*
+
+* mi pali lon taso. → taso la mi pali. → taso mi pali. *(Mi laboras ĉe sendependo. → Sendepende, mi laboras. → Sed mi laboras.)*
 
 ## nimi ijo
 *(Radikaj Vortoj)*
