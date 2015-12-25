@@ -169,7 +169,7 @@ kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi [nimi lawa lon
 ### nimi lawa pi pona weka
 *(Mankigeblaj Substantivoj)*
 
-lon sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "ijo" en "ilo" en "jan" li ken weka. ni la **nimi monsi** ni li kama [nimi lawa](#nimi-lawa).
+lon sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "ijo" en "ilo" en "jan" li ken weka. ni la [nimi monsi](#nimi-monsi) ni li kama [nimi lawa](#nimi-lawa).
 *(Antaŭ adjektivo, la substantivoj "ijo", "ilo" kaj "jan" povas manki. Tiam tiu adjektivo fariĝas substantivo.)*
 
 * suno *(heleco, brilo)*
@@ -179,7 +179,7 @@ lon sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "ijo" en "
 * mama *(kreo)*
  * jan **mama** → mama *(kreanto → gepatro)*
 
-monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) "pona" li ken weka. ni la monsi pi nimi "ijo pi pona" weka la **nimi monsi** ni li kama [nimi lawa](#nimi-lawa).
+monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) "pona" li ken weka. ni la monsi pi nimi "ijo pi pona" weka la [nimi monsi](#nimi-monsi) ni li kama [nimi lawa](#nimi-lawa).
 *(Malantaŭ manka "ijo", antaŭ adjektivo, la substantivo "pona" povas manki. Tiam, malantaŭ "ijo pi pona", tiu adjektivo fariĝas substantivo.)*
 
 * ijo pi pona **moku** → moku *(io manĝebla → manĝo)*
