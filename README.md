@@ -276,7 +276,7 @@ sina ken **nimi lawa pi lon poka** e [nimi lawa](#nimi-lawa).
  * waso li lon **supa** pi tomo tawa. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)*
 
 # toki ike
-*(Evitinda Lingvaĵo)*
+*(Evitindaj Lingvaĵoj)*
 
 ## toki walo
 *(Redunda Lingvaĵo)*
@@ -317,8 +317,8 @@ ken la sina ken weka e nimi "pona" lon sinpin pi [nimi suli](#nimi-suli). taso n
 * mi kepeken e ilo. → mi kepeken ilo.
 * mi lukin anpa. → mi lukin e anpa.
 
-ken la sina ken weka e [nimi lawa](#nimi-lawa) lon sinpin pi kulupu pi [nimi kalama](#nimi-kalama). taso ni li **toki pakala**.
-*(...)*
+ken la sina ken weka e [nimi lawa](#nimi-lawa) lon sinpin pi [nimi kalama](#nimi-kalama). taso ni li **toki pakala**.
+*(Oni povus mankigi substantivon antaŭ sonimito. Sed tio ŝajnas evitinda.)*
 
 * mi tawa **Lantan**. → mi tawa ma tomo **Lantan**. *(Mi iras al Londono.)*
 
