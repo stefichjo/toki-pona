@@ -82,12 +82,12 @@ sina ken [nimi suli](#nimi-suli) e [nimi ijo](#nimi-ijo).
 
 * jan pona li ~~kama~~ pona **e** ona. → jan pona li pona **e** ona. *("Amiko bonigas ĝin." → Amiko riparas ĝin.)*
 
-**kulupu pi nimi "e"** li ken weka.
+kulupu pi **nimi "e"** li ken weka.
 *(La rekta objekto povas manki.)*
 
 * mi moku **e** ijo. → mi moku. *(Mi manĝas ion. → Mi manĝas.)*
 
-[nimi monsi](#nimi-monsi) li ken lon insa pi [nimi suli](#nimi-suli) en nimi ilo "e".
+[nimi monsi](#nimi-monsi) li ken lon insa pi [nimi suli](#nimi-suli) en **nimi "e"**.
 *(Adverbo povas esti inter la verbo kaj la partikulo "e".)*
 
 * mi lukin pona **e** sitelen. *(Mi legas bone.)*
