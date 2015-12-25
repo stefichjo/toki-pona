@@ -39,8 +39,8 @@ insa pi [nimi lawa](#nimi-lawa) en **nimi kalama** la nimi "pi nimi" li ken weka
 * nimi **pi** jan pona *(nomo de amiko)*
 * tomo tawa **pi** jan pona *(aŭto de amiko)*
 
-sinpin pi [nimi lawa](#nimi-lawa) lon taso pi [nimi monsi](#nimi-monsi) la **nimi ilo "pi"** li weka. ni la [nimi lawa](#nimi-lawa) ni li kama [nimi monsi](#nimi-monsi).
-*(Antaŭ substantivo sen adjektivo, la partikulo "pi" mankas. Tiam tiu substantivo fariĝas adjektivo.)*
+sinpin pi [nimi lawa](#nimi-lawa) taso la **nimi ilo "pi"** li weka. ni la [nimi lawa](#nimi-lawa) ni li kama [nimi monsi](#nimi-monsi).
+*(Antaŭ sola substantivo, la partikulo "pi" mankas. Tiam tiu substantivo fariĝas adjektivo.)*
 
 * jan ~~**pi**~~ pona → jan pona *("persono de bono" → "bona persono" → amiko)*
 
