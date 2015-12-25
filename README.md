@@ -184,7 +184,7 @@ kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi [
 ### nimi insa
 *(Prepozicioj)*
 
-**nimi insa** en nimi "tan" en "nimi "lon" en nimi "tawa" en nimi "sama" en nimi "kepeken" li **nimi insa**.
+nimi "tan" en "nimi "lon" en nimi "tawa" en nimi "sama" en nimi "kepeken" li **nimi insa**.
 *("tan", "lon", "tawa", "sama" kaj "kepeken" estas prepozicioj.)*
 
 * ona li **tawa** tomo. *(Ŝi iras hejmen.)*
