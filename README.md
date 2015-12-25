@@ -80,7 +80,7 @@ sina ken [nimi suli](#nimi-suli) e [nimi ijo](#nimi-ijo).
 sinpin pi [nimi suli](#nimi-suoi) ni poka pi **nimi "e"** la [nimi sinpin](#nimi-sinpin) li ken weka.
 *(Antaŭ tia verbo kun rekta objekto, helpa verbo povas manki.)*
 
-* jan pona li ~~kama~~ pona **e** ona. → jan pona li pona **e** ona. *("Amiko bonigas ĝin." → Amiko riparas ĝin.)*
+* jan pona li ~~kama~~ pona **e** ona. → jan pona li pona **e** ona. *(Amiko bonigas ĝin.)*
 
 kulupu pi **nimi "e"** li ken weka.
 *(La rekta objekto povas manki.)*
@@ -118,7 +118,7 @@ sina ken kepeken **nimi "en"** ala lon kulupu pi [nimi "li"](#nimi-li) anu kulup
 ### nimi "anu"
 *(La partikulo "anu")*
 
-kulupu pi nimi suli pi wile sona pi lon anu ala li jo e nimi "anu seme" lon pini.
+kulupu pi [nimi suli](#nimi-suli) pi wile sona pi lon anu ala li jo e nimi "anu seme" lon pini.
 *(Jes-/Ne-Demandoj enhavas la vortojn "anu seme" ĉe la fino.)*
 
 * ona li kama **anu** seme? *("Ŝi venos aŭ kio?" → Ĉu ŝi venos?)*
