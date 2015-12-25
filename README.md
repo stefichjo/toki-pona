@@ -77,8 +77,8 @@ sina ken [nimi suli](#nimi-suli) e [nimi ijo](#nimi-ijo).
 * ona li pona. *(Ĝi estas bona.)*
 * ona li kama pona. *(Ĝi boniĝas.)*
 
-[nimi sinpin](#nimi-sinpin) lon sinpin pi [nimi suli](#nimi-suli) ni lon sinpin pi nimi ilo "e" li ken weka.
-*(Helpa verbo antaŭ tia (transitiva) verbo povas manki.)*
+sinpin pi [nimi suli](#nimi-suoi) ni poka pi **nimi "e"** la [nimi sinpin](#nimi-sinpin) li ken weka.
+*(Antaŭ tia verbo kun rekta objekto, helpa verbo povas manki.)*
 
 * jan pona li ~~kama~~ pona **e** ona. → jan pona li pona **e** ona. *("Amiko bonigas ĝin." → Amiko riparas ĝin.)*
 
