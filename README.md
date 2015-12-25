@@ -4,8 +4,8 @@
 ## nimi kalama
 *(Sonimitoj)*
 
-**nimi kalama** li nimi "a" en nimi "mu".
-*(La sonimitoj estas "a" kaj "mu".)*
+nimi "a" en nimi "mu" li **nimi kalama**.
+*("a" kaj "mu" estas sonimitoj.)*
 
 * **a a a**! *(Ha ha ha!)*
 * **mu**! *(Miaŭ!)*
@@ -188,8 +188,8 @@ monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#
 ### nimi insa
 *(Prepozicioj)*
 
-**nimi insa** li nimi "tan" en "nimi "lon" en nimi "tawa" en nimi "sama" en nimi "kepeken".
-*(La prepozicioj estas "tan", "lon", "tawa", "sama" kaj "kepeken".)*
+**nimi insa** en nimi "tan" en "nimi "lon" en nimi "tawa" en nimi "sama" en nimi "kepeken" li **nimi insa**.
+*("tan", "lon", "tawa", "sama" kaj "kepeken" estas prepozicioj.)*
 
 * ona li **tawa** tomo. *(Ŝi iras hejmen.)*
 
@@ -210,8 +210,8 @@ poka pi [nimi insa](#nimi-insa) "lon" anu "tawa" anu "tan" la **nimi lawa lon** 
 #### nimi lawa pi lon insa
 *(Intern-lokaj Substantivoj)*
 
-**nimi lawa pi lon insa** li nimi "**insa**" en nimi "**sewi**".
-*(La intern-lokaj substantivoj estas "insa" kaj "sewi".)*
+nimi "**insa**" en nimi "**sewi**" li **nimi lawa pi lon insa**.
+*("insa" kaj "sewi" estas intern-lokaj substantivoj.)*
 
 * ona li lon **insa** pi tomo sona. *("Ŝi estas ĉe la interno de la lernejo." → Ŝi estas en la lernejo.)*
  * ona li **insa** lon tomo sona. *("Ŝi internas ĉe la lernejo." → Ŝi estas en la lernejo.)*
@@ -238,7 +238,8 @@ sina ken **nimi lawa pi lon insa** e [nimi lawa](#nimi-lawa).
 #### nimi lawa pi lon poka
 *(Apud-lokaj Substantivoj)*
 
-nimi lawa pi lon poka li nimi "**poka**" li nimi "**sinpin**" li nimi "**monsi**" li nimi "**noka**".
+nimi "**poka**" en nimi "**sinpin**" en nimi "**monsi**" en nimi "**noka**" li **nimi lawa pi lon poka**.
+*("monsi" kaj "noka" estas apud-lokaj substantivoj.)*
 
 * ona li lon **poka** pi tomo sona. *("Ŝi estas ĉe la flanko de la lernejo." → Ŝi estas apud la lernejo.)*
  * tomo sona li **poka** lon ona. *("La lernejo flankas ĉe ŝi." → Ŝi estas apud la lernejo.)*
