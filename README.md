@@ -163,8 +163,11 @@ kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi [nimi lawa lon
 **nimi monsi** li lon monsi pi [nimi lawa](#nimi-lawa) anu [nimi suli](#nimi-suli).
 *(Adjektivo/adverbo estas malantaŭ substantivo respektive verbo.)*
 
-* mi jo e lukin **pona** *(Mi havas bonan vidon.)*
-* mi lukin **pona** *(Mi bone vidas.)*
+* mi jo e lukin **pona**. *(Mi havas bonan vidon.)*
+* mi lukin **pona**. *(Mi bone vidas.)*
+
+### nimi lawa pi pona weka
+*(Mankigeblaj Substantivoj)*
 
 lon sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "ijo" en "ilo" en "jan" li ken weka. ni la **nimi monsi** ni li kama [nimi lawa](#nimi-lawa).
 *(Antaŭ adjektivo, la substantivoj "ijo", "ilo" kaj "jan" povas manki. Tiam tiu adjektivo fariĝas substantivo.)*
