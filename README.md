@@ -159,15 +159,15 @@ kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi [
 * ona li **mama**. *(Ŝi estas gepatro.)*
 * ona li **tawa** tomo. *(Ŝi iras hejmen.)*
 
-#### nimi sinpin
+### nimi sinpin
 *(Helpaj Verboj)*
 
-**nimi sinpin** li lon sinpin pi **nimi suli**.
+**nimi sinpin** li lon sinpin pi [nimi suli](#nimi-suli).
 *(Helpa verbo estas antaŭ verbo.)*
 
 * ona li **wile** lape. *(Ŝi devas dormi.)*
 
-**nimi suli** li ken weka lon monsi pi **nimi sinpin**. ni la **nimi sinpin** ni li kama **nimi suli**.
+[nimi suli](#nimi-suli) li ken weka lon monsi pi **nimi sinpin**. ni la **nimi sinpin** ni li kama [nimi suli](#nimi-suli).
 *(Verbo povas manki malantaŭ helpa verbo. Tiam tiu helpa verbo fariĝas verbo.)*
 
 * mi **wile** jo e ni. → mi **wile** e ni. *(Mi volas havi tion. → Mi volas tion.)*
