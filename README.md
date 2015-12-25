@@ -4,13 +4,16 @@
 ## nimi kalama
 *(Sonimitoj)*
 
+nimi kalama li nimi "a" en nimi "mu".
+*(La sonimitoj estas "a" kaj "mu".)*
+
 * **a a a**! *(Ha ha ha!)*
 * **mu**! *(Miaŭ!)*
 
 kulupu pi [nimi suli](#nimi-suli) la **nimi kalama** li lon monsi pi nimi "nimi".
 *(En frazo, sonimito estas malantaŭ la vorto "nimi".)*
 
-* nimi "*mu*" li nimi kalama soweli. *(La vorto "mu" estas sonimito de bestoj.)*
+* nimi "**mu**" li nimi kalama soweli. *(La vorto "mu" estas sonimito de bestoj.)*
 
 insa pi [nimi lawa](#nimi-lawa) en **nimi kalama** la nimi "pi nimi" li ken weka.
 *(Inter substantivo kaj sonimito, la vortoj "pi nimi" povas manki.)*
