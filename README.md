@@ -275,33 +275,32 @@ sina ken **nimi lawa pi lon poka** e [nimi lawa](#nimi-lawa).
 * **supa** *(faco)*
  * waso li lon **supa** pi tomo tawa. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)*
 
-# nasin toki pi pona ala
+# toki ike
 
 ## toki walo
 *(Redunda Lingvaĵo)*
 
-sina ken kepeken [nimi insa](#nimi-insa) lon poka pi [nimi suli](#nimi-suli) sama. taso ni li **toki walo**.
+ken la sina ken kepeken e nimi sama pi tenpo tu. nasin ni la ona li kama wawa. taso ni li **toki walo**.
+*(Oni povus uzi la saman vorton dufoje por emfazi ĝin. Sed tio ŝajnas evitinda.)*
+
+* ona li **~~pona pona~~**. → oni li pona mute. *(Ĝi estas bonbona. → Ĝi estas tre bona.)*
+
+ken la sina ken kepeken [nimi insa](#nimi-insa) lon poka pi [nimi suli](#nimi-suli) sama. taso ni li **toki walo**.
 *(Oni povus uzi prepozicion kun sama verbo. Sed tio ŝajnas evitinda.)*
 
 * ona li ~~**tawa**~~ **tawa** tomo. → ona li **tawa** tomo. *("Ŝi iras al la domo." → Ŝi iras hejmen.)*
-* ona li tawa kepeken tenpo lili **tawa** tomo. *("Ŝi iras ĉe malmulta tempo al la domo." → Ŝi iras rapide hejmen.)*
-
-sina ken kepeken e nimi sama pi tenpo tu. nasin ni la ona li kama wawa. taso ni li **toki walo**.
-*(Oni povus uzi la saman vorton dufoje por emfazi ĝin. Sed tio ŝajnas evitinda.)*
-
-* ona li **pona pona**. *("Ĝi estas bone bona." → Ĝi estas bonbona.)*
 
 ## toki pimeja
 *(Obskura Lingvaĵo)*
 
-sina ken [nimi ijo](#nimi-ijo) ante e [nimi ijo](#nimi-ijo) lon weka pi [nimi sinpin](#nimi-sinpin). taso ni li **toki pimeja**.
+ken la sina ken ante e nasin pi [nimi ijo](#nimi-ijo) lon weka pi [nimi sinpin](#nimi-sinpin). taso ni li **toki pimeja**.
 *(Oni povus derivi alian vorton de vorto sen helpa verbo. Sed tio ŝajnas evitinda.)*
 
-* ona li (*kama*) open e lupa. *(Ŝi malfermas la pordon.)*
+* ona li *kama* open e lupa. → ona li open e lupa. *(Ŝi malfermas la pordon.)*
  * ~~open~~ → *kama* open *(malfermo, malfermiĝo)*
  * open *(malfermiteco)*
 
-sina ken weka e nimi "pona" lon sinpin pi [nimi suli](#nimi-suli). taso ni li **toki pimeja**.
+ken la sina ken weka e nimi "pona" lon sinpin pi [nimi suli](#nimi-suli). taso ni li **toki pimeja**.
 *(Oni povus mankigi "pona" antaŭ verbo. Sed tio ŝajnas evitinda.)*
 
 * ~~kili ni li moku.~~ → kili ni li **pona** moku. *(Tiu frukto estas manĝebla.)*
@@ -310,6 +309,9 @@ sina ken weka e nimi "pona" lon sinpin pi [nimi suli](#nimi-suli). taso ni li **
 *(Detala Lingvaĵo)*
 
 * ~~ona **li** sona e jan pi ona **li** moku ala e soweli.~~ → ona li sona e jan ni: ona li moku ala e soweli. *(Ŝi konas la vegetaranon.)*
+
+
+
 
 ## toki ike
 *(Maleleganta Lingvaĵo)*
