@@ -196,13 +196,13 @@ monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#
 **nimi insa** li ken kama [nimi ijo](#nimi-ijo) pona.
 *(Prepozicio povas fariĝi simpla radika vorto.)*
 
-* ona li tawa. *(Ŝi iras.)*
+* ona li **tawa**. *(Ŝi iras.)*
 
 ### nimi lawa lon
 *(Lokaj Substantivoj)*
 
-**nimi lawa lon** lon poka pi [nimi insa](#nimi-insa) "lon" anu "tawa" anu "tan" li sama [nimi insa](#nimi-insa) sin.
-*(Loka substantivo kun la prepozicio "lon" aŭ "tawa" aŭ "tan" estas kiel nova prepozicio.)*
+poka pi [nimi insa](#nimi-insa) "lon" anu "tawa" anu "tan" la **nimi lawa lon** li sama [nimi insa](#nimi-insa) sin.
+*(Kun la prepozicio "lon" aŭ "tawa" aŭ "tan" , loka substantivo estas kvazaŭ nova prepozicio.)*
 
 * jan pona li lon tomo tawa. *(Amiko estas ĉe la aŭto.)*
 * jan pona li lon **insa** pi tomo tawa. *("Amiko estas ĉe la interno de la aŭto." → Amiko estas en la aŭto.)*
@@ -210,46 +210,46 @@ monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#
 #### nimi lawa pi lon insa
 *(Intern-lokaj Substantivoj)*
 
-**nimi lawa pi lon insa** li nimi "insa" en nimi "sewi".
+**nimi lawa pi lon insa** li nimi "**insa**" en nimi "**sewi**".
 *(La intern-lokaj substantivoj estas "insa" kaj "sewi".)*
 
 * ona li lon **insa** pi tomo sona. *("Ŝi estas ĉe la interno de la lernejo." → Ŝi estas en la lernejo.)*
- * ona li insa lon tomo sona. *("Ŝi internas ĉe la lernejo." → Ŝi estas en la lernejo.)*
+ * ona li **insa** lon tomo sona. *("Ŝi internas ĉe la lernejo." → Ŝi estas en la lernejo.)*
 
 sina ken **nimi lawa pi lon insa** e [nimi lawa](#nimi-lawa).
 *(Oni povas igi substantivon intern-loka.)*
 
-* anpa *(malalto)*
- * pipi li lon anpa pi jan pona. *("Insekto estas ĉe la malalto de amiko." → Insekto estas sub amiko.)*
-* lawa *(supro)*
- * kon li pona lon lawa nena. *("La aero estas bona ĉe la supro de la monto." → La aero estas bona supre de la monto.)*
-* open *(malfermiteco)*
- * mi tawa lon open pi lupa tomo. *("Mi iras ĉe la malfermiteco de la pordo de la domo." → "Mi iras tra la pordo de la domo.")*
- * mi tawa lon open pi poka tomo. *("Mi iras tra la apudo de la domo." → Mi iras preter la domo.)*
-* weka *(distanco)*
- * ona li pana e telo seli lon weka suwi tawa mi. *("Ŝi donis al mi teon ĉe distanco de sukero." → Ŝi donis al mi teon sen sukero.)*
- * ona li weka. *("Ŝi estas distanca." → Ŝi estas for.)*
-* taso *(sendependo)*
- * mi lon taso pi jan pona. *("Mi estas ĉe sendependo de amiko." → Mi estas sen amiko.)*
- * ona li taso. *("Ŝi estas sendependa." → Ŝi estas libera.)*
-* kulupu *(grupo)*
- * mi lon kulupu pi jan pona. *("Mi estas en grupo de amikoj." → Mi estas inter amikoj.)*
+* **anpa** *(malalto)*
+ * pipi li lon **anpa** pi jan pona. *("Insekto estas ĉe la malalto de amiko." → Insekto estas sub amiko.)*
+* **lawa** *(supro)*
+ * kon li pona lon **lawa** nena. *("La aero estas bona ĉe la supro de la monto." → La aero estas bona supre de la monto.)*
+* **open** *(malfermiteco)*
+ * mi tawa lon **open** pi lupa tomo. *("Mi iras ĉe la malfermiteco de la pordo de la domo." → "Mi iras tra la pordo de la domo.")*
+ * mi tawa lon **open** pi poka tomo. *("Mi iras tra la apudo de la domo." → Mi iras preter la domo.)*
+* **weka** *(distanco)*
+ * ona li pana e telo seli lon **weka** suwi tawa mi. *("Ŝi donis al mi teon ĉe distanco de sukero." → Ŝi donis al mi teon sen sukero.)*
+ * ona li **weka**. *("Ŝi estas distanca." → Ŝi estas for.)*
+* **taso** *(sendependo)*
+ * mi lon **taso** pi jan pona. *("Mi estas ĉe sendependo de amiko." → Mi estas sen amiko.)*
+ * ona li **taso**. *("Ŝi estas sendependa." → Ŝi estas libera.)*
+* **kulupu** *(grupo)*
+ * mi lon **kulupu** pi jan pona. *("Mi estas en grupo de amikoj." → Mi estas inter amikoj.)*
 
 #### nimi lawa pi lon poka
 *(Apud-lokaj Substantivoj)*
 
-nimi lawa pi lon poka li nimi "poka" li nimi "sinpin" li nimi "monsi" li nimi "noka".
+nimi lawa pi lon poka li nimi "**poka**" li nimi "**sinpin**" li nimi "**monsi**" li nimi "**noka**".
 
-* ona li lon poka pi tomo sona. *("Ŝi estas ĉe la flanko de la lernejo." → Ŝi estas apud la lernejo.)*
- * tomo sona li poka lon ona. *("La lernejo flankas ĉe ŝi." → Ŝi estas apud la lernejo.)*
+* ona li lon **poka** pi tomo sona. *("Ŝi estas ĉe la flanko de la lernejo." → Ŝi estas apud la lernejo.)*
+ * tomo sona li **poka** lon ona. *("La lernejo flankas ĉe ŝi." → Ŝi estas apud la lernejo.)*
 
 sina ken **nimi lawa pi lon poka** e [nimi lawa](#nimi-lawa).
 *(Oni povas igi substantivon apud-loka.)*
 
-* sike *(kurbiĝo)*
- * mi tawa lon sike tomo. *("Mi iras ĉe la kurbiĝo de la domo." → Mi iras ĉirkaŭ la domo.)*
-* supa *(faco)*
- * waso li lon supa pi tomo tawa. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)*
+* **sike** *(kurbiĝo)*
+ * mi tawa lon **sike** tomo. *("Mi iras ĉe la kurbiĝo de la domo." → Mi iras ĉirkaŭ la domo.)*
+* **supa** *(faco)*
+ * waso li lon **supa** pi tomo tawa. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)*
 
 ### nimi suli
 
