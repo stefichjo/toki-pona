@@ -149,6 +149,29 @@ kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi [nimi lawa lon
 ## nimi ijo
 *(Radikaj Vortoj)*
 
+### nimi suli
+
+kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi [nimi "li"](#nimi-li).
+*(En frazo, la verbo estas la plej grava vorto. Ĝi estas malantaŭ la partikulo "li".)*
+
+* ona li **lape**. *(Ŝi dormas.)*
+* ona li **pona**. *(Ŝi estas bona.)*
+* ona li **mama**. *(Ŝi estas gepatro.)*
+* ona li **tawa** tomo. *(Ŝi iras hejmen.)*
+
+#### nimi sinpin
+*(Helpaj Verboj)*
+
+**nimi sinpin** li lon sinpin pi **nimi suli**.
+*(Helpa verbo estas antaŭ verbo.)*
+
+* ona li **wile** lape. *(Ŝi devas dormi.)*
+
+**nimi suli** li ken weka lon monsi pi **nimi sinpin**. ni la **nimi sinpin** ni li kama **nimi suli**.
+*(Verbo povas manki malantaŭ helpa verbo. Tiam tiu helpa verbo fariĝas verbo.)*
+
+* mi **wile** jo e ni. → mi **wile** e ni. *(Mi volas havi tion. → Mi volas tion.)*
+
 ### nimi lawa
 *(Substantivoj)*
 
@@ -251,29 +274,6 @@ sina ken **nimi lawa pi lon poka** e [nimi lawa](#nimi-lawa).
  * mi tawa lon **sike** tomo. *("Mi iras ĉe la kurbiĝo de la domo." → Mi iras ĉirkaŭ la domo.)*
 * **supa** *(faco)*
  * waso li lon **supa** pi tomo tawa. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)*
-
-### nimi suli
-
-kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi [nimi "li"](#nimi-li).
-*(En frazo, la verbo estas la plej grava vorto. Ĝi estas malantaŭ la partikulo "li".)*
-
-* ona li **lape**. *(Ŝi dormas.)*
-* ona li **pona**. *(Ŝi estas bona.)*
-* ona li **mama**. *(Ŝi estas patrino.)*
-* ona li **tawa** tomo. *(Ŝi iras hejmen.)*
-
-#### nimi sinpin
-*(Helpaj Verboj)*
-
-**nimi sinpin** li lon sinpin pi **nimi suli**.
-*(Helpa verbo estas antaŭ verbo.)*
-
-* ona li **wile** lape. *(Ŝi devas dormi.)*
-
-**nimi suli** li ken weka lon monsi pi **nimi sinpin**. ni la **nimi sinpin** ni li kama **nimi suli**.
-*(Verbo povas manki malantaŭ helpa verbo. Tiam tiu helpa verbo fariĝas verbo.)*
-
-* mi **wile** jo e ni. → mi **wile** e ni. *(Mi volas havi tion. → Mi volas tion.)*
 
 # nasin toki pi pona ala
 
