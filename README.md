@@ -1,6 +1,23 @@
 # nasin toki pi toki pona
 *(Gramatiko de Tokipono)*
 
+## nimi kalama
+*(Sonimitoj)*
+
+* **a a a**! *(Ha ha ha!)*
+* **mu**! *(Miaŭ!)*
+
+kulupu pi [nimi suli](#nimi-ilo-li) la **nimi kalama** li lon monsi pi nimi "nimi".
+*(En frazo, sonimito estas malantaŭ la vorto "nimi".)*
+
+* nimi "*mu*" li nimi kalama soweli. *(La vorto "mu" estas sonimito de bestoj.)*
+
+insa pi [nimi lawa](#nimi-lawa) en **nimi kalama** la nimi "pi nimi" li ken weka.
+*(Inter substantivo kaj sonimito, la vortoj "pi nimi" povas manki.)*
+
+* mi jan pi nimi "**Tepan**". → mi jan **Tepan**. *("Mi estas persono de la nomo 'Stephan'." → Mi estas Stephan.)*
+* mi sona e toki pi nimi "**Epelanto**". → mi sona e toki **Epelanto**. *("Mi konas la lingvon de la nomo 'Esperanto'. → Mi konas Esperanton.)*
+
 ## nimi ilo
 *(Partikuloj)*
 
@@ -147,23 +164,6 @@ nimi ilo "la" li lon insa pi **kulupu nimi suli sinpin** en [kulupu nimi suli](#
 
 * tenpo pimeja **la** mi lape. *(Dum la nokto, mi dormas.)*
 * tenpo li pimeja **la** mi lape. *(Dum la tempo estas malhela, mi dormas.)*
-
-## nimi kalama
-*(Sonimitoj)*
-
-* **a a a**! *(Ha ha ha!)*
-* **mu**! *(Miaŭ!)*
-
-[kulupu pi nimi suli](#nimi-ilo-li) la **nimi kalama** li lon monsi pi nimi "nimi".
-*(En frazo, sonimito estas malantaŭ la vorto "nimi".)*
-
-* nimi "*mu*" li nimi kalama soweli. *(La vorto "mu" estas sonimito de bestoj.)*
-
-insa pi [nimi lawa](#nimi-lawa) en **nimi kalama** la nimi "pi nimi" li ken weka.
-*(Inter substantivo kaj sonimito, la vortoj "pi nimi" povas manki.)*
-
-* mi jan pi nimi "Tepan". → mi jan Tepan. *("Mi estas persono de la nomo 'Stephan'." → Mi estas Stephan.)*
-* mi sona e toki pi nimi "Epelanto". → mi sona e toki Epelanto. *("Mi konas la lingvon de la nomo 'Esperanto'. → Mi konas Esperanton.)*
 
 ## nimi ijo
 *(Radikaj Vortoj)*
