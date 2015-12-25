@@ -87,11 +87,6 @@ kulupu pi **nimi "e"** li ken weka.
 
 * mi moku **e** ijo. → mi moku. *(Mi manĝas ion. → Mi manĝas.)*
 
-[nimi monsi](#nimi-monsi) li ken lon insa pi [nimi suli](#nimi-suli) en **nimi "e"**.
-*(Adverbo povas esti inter la verbo kaj la rekta objekto.)*
-
-* mi lukin pona **e** sitelen. *(Mi legas bone.)*
-
 ### nimi "o"
 *(La partikulo "o")*
 
@@ -364,6 +359,11 @@ kulupu pi [nimi suli](#nimi-suli) pi wile sona la sina ken kepeken [nimi monsi](
 
 * ona li **kama ala kama**? → ona li kama anu seme? *(Ĉu ŝi venos?)*
 * ona li tawa ala tawa tomo. → ona li tawa tomo ala. *("Ŝi iras al neniu hejmo." → Ŝi ne iras hejmen.)*
+
+[nimi monsi](#nimi-monsi) li ken lon insa pi [nimi suli](#nimi-suli) en **nimi "e"**.
+*(Adverbo povas esti inter la verbo kaj la rekta objekto.)*
+
+* mi lukin pona **e** sitelen. *(Mi legas bone.)*
 
 kulupu pi [nimi monsi](#nimi-monsi) pi [nimi ilo](#nimi-ilo) li ken insa pi [nimi suli](#nimi-suli) en **kulupu "e"**. taso kulupu pi [nimi monsi](#nimi-monsi) pi [nimi ijo](#nimi-ijo) li ken lon sinpin pi **kulupu "e"** ala.
 *(Adverba frazero je partikulo povas esti inter la verbo kaj akuzativa frazero. Sed adverba frazero je radiko ne povas esti antaŭ akuzativa frazero.)*
