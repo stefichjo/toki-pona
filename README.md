@@ -416,6 +416,14 @@ ken la sina ken [nimi ijo](#nimi-ijo) e [nimi kalama](#nimi-kalama). taso ni li 
 
 * soweli li ~~**mu**~~. → soweli li kalama e nimi **"mu"**. *("La kato sonas 'miaŭ'." → La kato miaŭas.)*
 
+ken la sina ken [nimi sinpin](#nimi-sinpin) e [nimi insa](#nimi-insa). taso ni li **toki mu**.
+*(Oni povus igi prepozicion helpa verbo. Sed tio ŝajnas evitinda.)*
+
+* ~~mi tawa moku.~~ → tenpo kama la mi moku. *(Mi estas manĝonta. → Mi manĝos.)*
+ * mi tawa moku. *(Mi iras al manĝo.)*
+* ~~mi tan moku.~~ → tenpo pini la mi moku. *(Mi estas manĝinta. → Mi manĝis.)*
+ * mi tan moku. *(Mi venas de manĝo.)*
+
 ### toki namako
 *(Neologisma Lingvaĵo)*
 
