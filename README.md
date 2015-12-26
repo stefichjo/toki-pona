@@ -1,6 +1,9 @@
 # nasin toki pi toki pona
 *(Gramatiko de Tokipono)*
 
+[nimi kalama](#nimi-kalama) en [nimi ilo](#nimi-ilo) en [nimi ijo](#nimi-ijo) li nasin nimi lon toki pona.
+*(Sonimitoj, partikuloj kaj radikaj vortoj estas la vortspecoj en Tokipono.)*
+
 ## nimi kalama
 *(Sonimitoj)*
 
