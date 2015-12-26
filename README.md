@@ -19,7 +19,7 @@ insa pi [nimi lawa](#nimi-lawa) en **nimi kalama** la nimi "pi nimi" li ken weka
 *(Inter substantivo kaj sonimito, la vortoj "pi nimi" povas manki.)*
 
 * mi jan pi nimi "**Tepan**". → mi jan **Tepan**. *("Mi estas persono de la nomo 'Stephan'." → Mi estas Stephan.)*
-* mi sona e toki pi nimi "**Epelanto**". → mi sona e toki **Epelanto**. *("Mi konas la lingvon de la nomo 'Esperanto'. → Mi konas Esperanton.)*
+* mi sona e toki pi nimi "**Epelanto**". → mi sona e toki **Epelanto**. *("Mi konas la lingvon de la nomo 'Esperanto'." → Mi konas Esperanton.)*
 
 ## nimi ilo
 *(Partikuloj)*
