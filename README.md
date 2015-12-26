@@ -351,6 +351,7 @@ ken la sina ken kepeken [nimi monsi](#nimi-monsi) "ala" en [nimi suli](#nimi-sul
 *(Oni povus uzi la adjektivon "ala" kaj la verbon dufoje en jes-/ne-demanda frazo. Sed tio ŝajnas evitinda.)* 
 
 * ona li **kama ala kama**? → ona li kama anu seme? *(Ĉu ŝi venos?)*
+* ona li tawa ala tawa ma tomo Lantan. *(Ŝi ne iras al Londono.)*
 
 ### toki nasa
 *(Stranga Lingvaĵo)*
