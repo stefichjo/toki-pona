@@ -323,7 +323,7 @@ ken la sina ken weka e nimi "ijo" lon sinpin pi [nimi "pi"](#nimi-pi). taso ni l
 * kili ni li ~~**pi**~~ mi mute. → kili ni li ijo **pi** mi mute. *(Tiu frukto estas nia. → Tiu frukto estas io nia.)*
 * kili ni li ~~**pi** mi~~. → kili ni li ijo mi. *(Tiu frukto estas mia. → Tiu frukto estas io mia.)*
 
-ken la sina ken weka e [nimi "en"](#nimi-en) lon insa pi [nimi nanpa](#nimi nanpa). taso ni li **toki pimeja**.
+ken la sina ken weka e [nimi "en"](#nimi-en) lon insa pi [nimi nanpa](#nimi-nanpa). taso ni li **toki pimeja**.
 *(Oni povus mankigi "en" inter numeraloj. Sed tio ŝajnas evitinda.)*
 
 * kili tu wan → kili pi tu en wan *("fruktoj du kaj unu" → tri fruktoj)*
@@ -361,7 +361,7 @@ ken la sina ken kepeken [nimi monsi](#nimi-monsi) lon monsi pi kulupu pi [nimi m
 * tomo **pi telo nasa**, ~~pona~~ → tomo pona **pi telo nasa** *(bona trinkejo)*
 * jan **lon tomo sona**, ~~pona~~ → jan pona **lon tomo sona** *(amiko en lernejo)*
 
-ken la sina ken kepeken kulupu pi [nimi monsi](#nimi monsi) lon monsi pi kulupu pi [nimi insa](#nimi-insa). taso ni li **toki nasa**.
+ken la sina ken kepeken kulupu pi [nimi monsi](#nimi-monsi) lon monsi pi kulupu pi [nimi insa](#nimi-insa). taso ni li **toki nasa**.
 *(Oni povus uzi adjektivan frazeron malantaŭ prepozicia frazero. Sed tio ŝajnas evitinda.)*
 
 * tomo pona lon ma tomo Lantan ~~**pi telo nasa**~~. → tomo pona **pi telo nasa** lon ma tomo Lantan *(bona trinkejo en Londono)*
