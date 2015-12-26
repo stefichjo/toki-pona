@@ -275,8 +275,19 @@ sina ken **nimi lawa pi lon poka** e [nimi lawa](#nimi-lawa).
 * **supa** *(faco)*
  * waso li lon **supa** pi tomo tawa. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)*
 
+### nimi nanpa
+
+...
+*(...)*
+
+* kili tu *(du fruktoj)*
+* kili pi nanpa tu *(la dua frukto)*
+
 ## toki ike
 *(Evitindaj Lingvaĵoj)*
+
+ken la sina ken kepeken toki pi pu ala. taso ni li **toki ike**.
+*(Oni povus paroli tokiponide, t.e. sen konsulti la oficialan libron de Tokipono aŭ "kontraŭfundamente". Sed tio ŝajnas evitinda.)*
 
 ### toki walo
 *(Redunda Lingvaĵo)*
@@ -311,6 +322,11 @@ ken la sina ken weka e nimi "ijo" lon sinpin pi [nimi "pi"](#nimi-pi). taso ni l
 
 * kili ni li ~~**pi**~~ mi mute. → kili ni li ijo **pi** mi mute. *(Tiu frukto estas nia. → Tiu frukto estas io nia.)*
 * kili ni li ~~**pi** mi~~. → kili ni li ijo mi. *(Tiu frukto estas mia. → Tiu frukto estas io mia.)*
+
+ken la sina ken weka e [nimi "en"](#nimi-en) lon insa pi [nimi nanpa](#nimi nanpa). taso ni li **toki pimeja**.
+*(Oni povus mankigi "en" inter numeraloj. Sed tio ŝajnas evitinda.)*
+
+* kili tu wan → kili pi tu en wan *("fruktoj du kaj unu" → tri fruktoj)*
 
 ### toki pi wan wan
 *(Detala Lingvaĵo)*
@@ -404,6 +420,3 @@ ken la sina ken [nimi ijo](#nimi-ijo) e [nimi kalama](#nimi-kalama). taso ni li 
 * monsuta → aseki
 * namako → sin
 * oko → lukin
-
-### toki pi pu ala
-*(Tokiponido)*
