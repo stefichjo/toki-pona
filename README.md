@@ -329,7 +329,7 @@ ken la sina ken weka e [nimi "en"](#nimi-en) lon insa pi [nimi nanpa](#nimi-nanp
 * kili tu wan → kili pi tu en wan *("fruktoj du kaj unu" → tri fruktoj)*
 
 ### toki pi wan wan
-*(Detala Lingvaĵo)*
+*(Rekursia Lingvaĵo)*
 
 ...
 *(...)*
