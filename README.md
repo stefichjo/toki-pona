@@ -280,8 +280,8 @@ sina ken **nimi lawa pi lon poka** e [nimi lawa](#nimi-lawa).
 
 ### nimi nanpa
 
-...
-*(...)*
+nimi "wan" en nimi "tu" li **nimi nanpa**.
+*("wan" kaj "tu" estas numeraloj.)*
 
 * kili tu *(du fruktoj)*
 * kili pi nanpa tu *(la dua frukto)*
@@ -290,7 +290,7 @@ sina ken **nimi lawa pi lon poka** e [nimi lawa](#nimi-lawa).
 *(Evitindaj Lingvaĵoj)*
 
 ken la sina ken kepeken toki pi pu ala. taso ni li **toki ike**.
-*(Oni povus paroli tokiponide, t.e. sen konsulti la oficialan libron de Tokipono aŭ "kontraŭfundamente". Sed tio ŝajnas evitinda.)*
+*(Oni povus paroli tokiponide, t.e. "sen konsulti la oficialan libron pri Tokipono" aŭ "kontraŭfundamente". Sed tio ŝajnas evitinda.)*
 
 ### toki walo
 *(Redunda Lingvaĵo)*
@@ -334,8 +334,8 @@ ken la sina ken weka e [nimi "en"](#nimi-en) lon insa pi [nimi nanpa](#nimi-nanp
 ### toki pi wan wan
 *(Rekursia Lingvaĵo)*
 
-...
-*(...)*
+ken la sina ken kepeken kulupu pi nasin nimi lon insa pi kulupu pi nasin nimi sama. taso ni li **toki pi wan wan**.
+*(Oni povus uzi frazeron ene de samspeca frazero. Sed tio ŝajnas evitinda.)*
 
 * ona **li** sona e jan ~~pi ona **li** moku ala e soweli~~. → ona **li** sona e jan ni: ona **li** moku ala e soweli. *(Ŝi konas la vegetaranon.)*
 
@@ -421,6 +421,6 @@ ken la sina ken [nimi ijo](#nimi-ijo) e [nimi kalama](#nimi-kalama). taso ni li 
 * ali → ale
 * apeja *(fia)* → ike
 * kipisi → wan/tu
-* monsuta → aseki
+* monsuta → akesi
 * namako → sin
 * oko → lukin
