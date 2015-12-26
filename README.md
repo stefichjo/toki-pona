@@ -373,7 +373,7 @@ ken la sina ken kepeken [nimi monsi](#nimi-monsi) lon monsi pi [nimi insa](#nimi
 * ona li tawa ~~**pona**,~~ tomo. → ona li **tawa pona** tawa tomo. *(Ŝi sekure iras hejmen.)*
 
 ken la sina ken kepeken kulupu pi [nimi insa](#nimi-insa) lon sinpin pi kulupu pi [nimi "e"](#nimi-e). taso ni li **toki nasa**.
-*(Oni povus uzi prepozician frazeron antaŭ rekta objekto. Sed tio ŝajnas evitina.)*
+*(Oni povus uzi prepozician frazeron antaŭ rekta objekto. Sed tio ŝajnas evitinda.)*
 
 * mi lukin ~~kepeken tenpo mute~~ **e** sitelen. → mi lukin **e** sitelen kepeken tenpo mute. *(Mi legas malrapide.)*
 
