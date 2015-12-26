@@ -247,6 +247,8 @@ sina ken **nimi lawa pi lon insa** e [nimi lawa](#nimi-lawa).
 
 * **anpa** *(malalto)*
  * pipi li lon **anpa** pi jan pona. *("Insekto estas ĉe la malalto de amiko." → Insekto estas sub amiko.)*
+* **ante** *(diverso)*
+ * ona li suli lon ante mi. *("Ŝi estas granda ĉe kontrasto de mi." → Ŝi estas pli granda ol mi.)*
 * **kulupu** *(grupo)*
  * mi lon **kulupu** pi jan pona. *("Mi estas en grupo de amikoj." → Mi estas inter amikoj.)*
 * **lawa** *(supro)*
