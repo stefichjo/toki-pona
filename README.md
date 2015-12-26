@@ -275,10 +275,10 @@ sina ken **nimi lawa pi lon poka** e [nimi lawa](#nimi-lawa).
 * **supa** *(faco)*
  * waso li lon **supa** pi tomo tawa. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)*
 
-# toki ike
+## toki ike
 *(Evitindaj Lingvaĵoj)*
 
-## toki walo
+### toki walo
 *(Redunda Lingvaĵo)*
 
 ken la sina ken kepeken e nimi sama pi tenpo tu. nasin ni la ona li kama wawa. taso ni li **toki walo**.
@@ -291,7 +291,7 @@ ken la sina ken kepeken [nimi insa](#nimi-insa) lon poka pi [nimi suli](#nimi-su
 
 * ona li ~~**tawa**~~ **tawa** tomo. → ona li **tawa** tomo. *("Ŝi iras al la domo." → Ŝi iras hejmen.)*
 
-## toki pimeja
+### toki pimeja
 *(Obskura Lingvaĵo)*
 
 ken la sina ken ante e nasin pi [nimi ijo](#nimi-ijo) lon weka pi [nimi sinpin](#nimi-sinpin). taso ni li **toki pimeja**.
@@ -306,12 +306,12 @@ ken la sina ken weka e nimi "pona" lon sinpin pi [nimi suli](#nimi-suli). taso n
 
 * ~~kili ni li moku.~~ → kili ni li **pona** moku. *(Tiu frukto estas manĝebla.)*
 
-## toki pi wan wan
+### toki pi wan wan
 *(Detala Lingvaĵo)*
 
 * ~~ona **li** sona e jan pi ona **li** moku ala e soweli.~~ → ona li sona e jan ni: ona li moku ala e soweli. *(Ŝi konas la vegetaranon.)*
 
-## toki pakala
+### toki pakala
 *(Fuŝa Lingvaĵo)*
 
 * mi kepeken e ilo. → mi kepeken ilo.
@@ -322,7 +322,7 @@ ken la sina ken weka e [nimi lawa](#nimi-lawa) lon sinpin pi [nimi kalama](#nimi
 
 * mi tawa **Lantan**. → mi tawa ma tomo **Lantan**. *(Mi iras al Londono.)*
 
-## toki nasa
+### toki nasa
 *(Stranga Lingvaĵo)*
 
 ken la sina ken kepeken [nimi monsi](#nimi-monsi) lon monsi pi kulupu pi [nimi monsi](#nimi-monsi). taso ni li **toki nasa**.
@@ -358,7 +358,7 @@ ken la sina ken kepeken [nimi monsi](#nimi-monsi) "ala" en [nimi suli](#nimi-sul
 
 * ona li **kama ala kama**? → ona li kama anu seme? *(Ĉu ŝi venos?)*
 
-## toki ike
+### toki ike
 *(Maleleganta Lingvaĵo)*
 
 sina ken kepeken [nimi "pi"](#nimi-pi) lon insa pi [nimi ijo](#nimi-ijo) en [nimi insa](#nimi-insa). taso ni li **toki ike**.
@@ -375,7 +375,7 @@ sina ken [nimi suli](#nimi-suli) lon poka pi kulupu pi [nimi "e"](#nimi-e) e [ni
 * jan pona li **lon** poka tomo. *("Amiko estas ĉe la flanko de la domo." → Amiko estas apud la domo.)*
 * jan pona li ~~poka e~~ tomo (lon ona sama). → tomo li poka lon jan pona. *("Amiko flankas la domon." → Domo apudas la amikon.)*
 
-## toki mu
+### toki mu
 *(Slanga Lingvaĵo)*
 
 sina ken kepeken [nimi lawa lon](#nimi-lawa-lon) sama [nimi insa](#nimi-insa). taso ni li **toki mu**.
@@ -395,16 +395,19 @@ sina ken [nimi ijo](#nimi-ijo) e [nimi kalama](#nimi-kalama). taso ni li **toki 
 
 * ~~soweli li **mu**.~~ → soweli li kalama e nimi **"mu"**. *("La kato sonas 'miaŭ'." → La kato miaŭas.)*
 
-## toki namako
+### toki namako
 *(Neologisma Lingvaĵo)*
 
 * namako → sin
 * a → kin
 * monsuta → aseki
-* apeja → ike
+* apeja *(fia)* → ike
 * kipisi → wan/tu
 * oko → lukin
 * ali → ale
 
-## toki pi pu ala
+### toki pi pu ala
 *(Tokiponido)*
+
+### toki apeja
+*(...)*
