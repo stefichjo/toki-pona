@@ -334,23 +334,23 @@ ken la sina ken weka e [nimi "en"](#nimi-en) lon insa pi [nimi nanpa](#nimi-nanp
 ...
 *(...)*
 
-* ~~ona **li** sona e jan pi ona **li** moku ala e soweli.~~ → ona **li** sona e jan ni: ona **li** moku ala e soweli. *(Ŝi konas la vegetaranon.)*
+* ona **li** sona e jan ~~pi ona **li** moku ala e soweli~~. → ona **li** sona e jan ni: ona **li** moku ala e soweli. *(Ŝi konas la vegetaranon.)*
 
 ### toki pakala
 *(Fuŝa Lingvaĵo)*
 
-* mi kepeken **e** ilo. → mi kepeken ilo.
-* mi lukin anpa. → mi lukin **e** anpa.
+* mi kepeken ~~**e**~~ ilo. → mi kepeken ilo. *(Mi uzas instrumenton.)*
+* mi lukin ~~anpa~~. → mi lukin **e** anpa. *(Mi rigardas malsupren.)*
 
 ken la sina ken weka e [nimi lawa](#nimi-lawa) lon sinpin pi [nimi kalama](#nimi-kalama). taso ni li **toki pakala**.
 *(Oni povus mankigi substantivon antaŭ sonimito. Sed tio ŝajnas evitinda.)*
 
-* mi tawa **Lantan**. → mi tawa ma tomo **Lantan**. *(Mi iras al Londono.)*
+* mi tawa ~~**Lantan**~~. → mi tawa ma tomo **Lantan**. *(Mi iras al Londono.)*
 
 ken la sina ken kepeken [nimi monsi](#nimi-monsi) "ala" en [nimi suli](#nimi-suli) pi tenpo tu lon kulupu pi [nimi suli](#nimi-suli) pi wile sona. taso ni li **toki pakala**.
 *(Oni povus uzi la adjektivon "ala" kaj la verbon dufoje en jes-/ne-demanda frazo. Sed tio ŝajnas evitinda.)* 
 
-* ona li **kama ala kama**? → ona li kama anu seme? *(Ĉu ŝi venos?)*
+* ona li ~~**tawa ala tawa**~~ ma tomo Lantan? → ona li tawa ma tomo Lantan anu seme? *(Ĉu ŝi iras al Londono?)*
 * ona li tawa ala tawa ma tomo Lantan. *(Ŝi ne iras al Londono.)*
 
 ### toki nasa
