@@ -27,10 +27,14 @@ insa pi [nimi lawa](#nimi-lawa) en **nimi kalama** la nimi "pi nimi" li ken weka
 ## nimi ilo
 *(Partikuloj)*
 
+nimi "**anu**" en nimi "**e**" en nimi "**en**" en nimi "**la**" en nimi "**li**" en nimi "**o**" en nimi "**pi**" li **nimi ilo**.
+*("anu", "e", "en", "la", "li", "o" kaj "pi" estas partikuloj.)*
+
+* nasin **pi** toki pona *(tokiponismo)*
+
 **nimi ilo** li lon insa pi [nimi ijo](#nimi-ijo) tu.
 *(Partikulo estas inter du radikaj vortoj.)*
 
-* nasin **pi** toki pona *(tokiponismo)*
 * toki **li** pona. *(Komunikado estas bona.)*
 
 ### nimi "pi"
@@ -161,7 +165,7 @@ kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi [
 #### nimi suli wawa
 *(Transitivaj Verboj)*
 
-nimi "alasa" en nimi "jo" en nimi "kute" en nimi "lawa" en nimi "lukin" en nimi "moku" en nimi "olin" en nimi "pali" en nimi "pana" en nimi "sona" en nimi "toki" en nimi "unpa" en nimi "utala" li **nimi suli wawa**.
+nimi "**alasa**" en nimi "**jo**" en nimi "**kute**" en nimi "**lawa**" en nimi "**lukin**" en nimi "**moku**" en nimi "**olin**" en nimi "**pali**" en nimi "**pana**" en nimi "**sona**" en nimi "**toki**" en nimi "**unpa**" en nimi "**utala**" li **nimi suli wawa**.
 *("alasa", "jo", "kute", "lawa", "lukin", "moku", "olin", "pali", "pana", "sona", "toki", "unpa" kaj "utala" estas transitivaj verboj.)*
 
 * mi **olin** e sina. *(Mi amas vin.)*
@@ -174,7 +178,7 @@ monsi pi **nimi suli wawa** la kulupu pi [nimi "e"](#nimi-e) li ken weka. ni la 
 ### nimi sinpin
 *(Helpaj Verboj)*
 
-nimi "awen" en nimi "kama" en nimi "ken" en nimi "lukin" en nimi "sona" en nimi "wile" li **nimi sinpin**. ona li lon sinpin pi [nimi suli](#nimi-suli).
+nimi "**awen**" en nimi "**kama**" en nimi "**ken**" en nimi "**lukin**" en nimi "**sona**" en nimi "**wile**" li **nimi sinpin**. ona li lon sinpin pi [nimi suli](#nimi-suli).
 *("awen", "kama", "ken", "lukin", "sona" kaj "wile" estas helpaj verboj. Ili estas antaŭ verbo.)*
 
 * ona li **wile** lape. *(Ŝi devas dormi.)*
@@ -196,7 +200,7 @@ nimi "awen" en nimi "kama" en nimi "ken" en nimi "lukin" en nimi "sona" en nimi 
 #### nimi monsi wawa
 *(Prepozicioj)*
 
-nimi "tan" en nimi "lon" en nimi "tawa" en nimi "sama" en nimi "kepeken" li **nimi monsi wawa**.
+nimi "**tan**" en nimi "**lon**" en nimi "**tawa**" en nimi "**sama**" en nimi "**kepeken**" li **nimi monsi wawa**.
 *("tan", "lon", "tawa", "sama" kaj "kepeken" estas prepozicioj.)*
 
 * ona li **tawa** tomo. *(Ŝi iras hejmen.)*
