@@ -179,7 +179,7 @@ monsi pi **nimi suli wawa** la kulupu pi [nimi "e"](#nimi-e) li ken weka. ni la 
 *(Helpaj Verboj)*
 
 nimi "**awen**" en nimi "**kama**" en nimi "**ken**" en nimi "**lukin**" en nimi "**sona**" en nimi "**wile**" li **nimi sinpin**. ona li lon sinpin pi [nimi suli](#nimi-suli).
-*("awen", "kama", "ken", "lukin", "sona" kaj "wile" estas helpaj verboj. Ili estas antaŭ verbo.)*
+*("awen", "kama", "ken", "lukin", "sona" kaj "wile" estas helpaj verboj. Ili estas antaŭ la verbo.)*
 
 * ona li **wile** lape. *(Ŝi devas dormi.)*
 
