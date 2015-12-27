@@ -164,7 +164,7 @@ kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi [
 monsi pi **nimi suli wawa** la kulupu pi [nimi "e"](#nimi-e) li ken weka. ni la pilin pi **nimi suli wawa** ni li awen sama.
 *(Malantaŭ transitiva verbo, la rekta objekto povas manki. Tiam la signifo de tiu transitiva verbo restas la sama.)*
 
-* mi moku **e** ijo. → mi moku. *(Mi manĝas ion. → Mi manĝas.)*
+* mi **moku** e ijo. → mi **moku**. *(Mi manĝas ion. → Mi manĝas.)*
 
 ### nimi sinpin
 *(Helpaj Verboj)*
