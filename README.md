@@ -293,10 +293,11 @@ sina ken **nimi lawa pi lon poka** e [nimi lawa](#nimi-lawa).
 * **supa** *(faco)*
  * waso li lon **supa** pi tomo tawa. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)*
 * **utala** *(konflikto)*
+ * jan lili li musi lon **utala** pi jan suli. *("Infano ludas en konflikto de plenkreskulo." → Infano ludas kontraŭ plenkreskulo.)*
 
 ### nimi nanpa
 
-nimi "wan" en nimi "tu" li **nimi nanpa**.
+nimi "**wan**" en nimi "**tu**" li **nimi nanpa**.
 *("wan" kaj "tu" estas numeraloj.)*
 
 * kili tu *(du fruktoj)*
