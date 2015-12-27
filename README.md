@@ -165,8 +165,8 @@ kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi [
 ### nimi sinpin
 *(Helpaj Verboj)*
 
-**nimi sinpin** li lon sinpin pi [nimi suli](#nimi-suli).
-*(Helpa verbo estas antaŭ verbo.)*
+nimi "awen" en nimi "kama" en nimi "ken" en nimi "lukin" en nimi "sona" en nimi "wile" li **nimi sinpin**. ona li lon sinpin pi [nimi suli](#nimi-suli).
+*("awen", "kama", "ken", "lukin", "sona" kaj "wile estas helpaj verboj. Ili estas antaŭ verbo.)*
 
 * ona li **wile** lape. *(Ŝi devas dormi.)*
 
