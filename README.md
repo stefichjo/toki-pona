@@ -234,8 +234,8 @@ sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "
 monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) "pona" li ken weka. ni la monsi pi nimi "ijo pi pona" weka la [nimi monsi](#nimi-monsi) ni li kama [nimi lawa](#nimi-lawa).
 *(Malantaŭ manka "ijo", antaŭ adjektivo, la substantivo "pona" povas manki. Tiam, malantaŭ "ijo pi pona", tiu adjektivo fariĝas substantivo.)*
 
-* ijo pi pona **moku** → moku *(io manĝebla → manĝo)*
-* ijo pi pona **sona** → sona *(io sciebla → scio)*
+* **ijo pi pona** moku → moku *(io manĝebla → manĝo)*
+* **ijo pi pona** sona → sona *(io sciebla → scio)*
 
 #### nimi lawa lon
 *(Lokaj Substantivoj)*
