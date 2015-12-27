@@ -300,8 +300,8 @@ sina ken **nimi lawa pi lon poka** e [nimi lawa](#nimi-lawa).
 nimi "**wan**" en nimi "**tu**" li **nimi nanpa**.
 *("wan" kaj "tu" estas numeraloj.)*
 
-* kili tu *(du fruktoj)*
-* kili pi nanpa tu *(la dua frukto)*
+* kili **tu** *(du fruktoj)*
+* kili pi nanpa **tu** *(la dua frukto)*
 
 ## toki ike
 *(Evitindaj Lingvaĵoj)*
