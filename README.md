@@ -161,6 +161,11 @@ kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi [
 #### nimi suli wawa
 *(Transitivaj Verboj)*
 
+nimi "alasa" en nimi "jo" en nimi "kute" en nimi "lawa" en nimi "lukin" en nimi "moku" en nimi "olin" en nimi "pali" en nimi "pana" en nimi "sona" en nimi "toki" en nimi "unpa" en nimi "utala" li **nimi suli wawa**.
+*("alasa", "jo", "kute", "lawa", "lukin", "moku", "olin", "pali", "pana", "sona", "toki", "unpa" kaj "utala" estas transitivaj verboj.)*
+
+* mi **olin** e sina. *(Mi amas vin.)*
+
 monsi pi **nimi suli wawa** la kulupu pi [nimi "e"](#nimi-e) li ken weka. ni la pilin pi **nimi suli wawa** ni li awen sama.
 *(Malantaŭ transitiva verbo, la rekta objekto povas manki. Tiam la signifo de tiu transitiva verbo restas la sama.)*
 
