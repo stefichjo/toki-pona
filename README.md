@@ -161,6 +161,7 @@ kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi [
 * ona li **pona**. *(Ŝi estas bona.)*
 * ona li **mama**. *(Ŝi estas gepatro.)*
 * ona li **tawa** tomo. *(Ŝi iras hejmen.)*
+* ona li **olin** e sina. *(Ŝi amas vin.)*
 
 #### nimi suli wawa
 *(Transitivaj Verboj)*
