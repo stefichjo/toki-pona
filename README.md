@@ -283,6 +283,7 @@ sina ken **nimi lawa pi lon poka** e [nimi lawa](#nimi-lawa).
  * mi tawa lon **sike** tomo. *("Mi iras ĉe la kurbiĝo de la domo." → Mi iras ĉirkaŭ la domo.)*
 * **supa** *(faco)*
  * waso li lon **supa** pi tomo tawa. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)*
+* **utala** *(konflikto)*
 
 ### nimi nanpa
 
