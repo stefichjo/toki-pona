@@ -85,11 +85,6 @@ sinpin pi [nimi suli](#nimi-suoi) ni poka pi **nimi "e"** la [nimi sinpin](#nimi
 
 * jan pona li ~~kama~~ pona **e** ona. → jan pona li pona **e** ona. *(Amiko bonigas ĝin.)*
 
-kulupu pi **nimi "e"** li ken weka.
-*(La rekta objekto povas manki.)*
-
-* mi moku **e** ijo. → mi moku. *(Mi manĝas ion. → Mi manĝas.)*
-
 ### nimi "o"
 *(La partikulo "o")*
 
@@ -153,6 +148,7 @@ kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi [nimi lawa lon
 *(Radikaj Vortoj)*
 
 ### nimi suli
+*(Verboj)*
 
 kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi [nimi "li"](#nimi-li).
 *(En frazo, la verbo estas la plej grava vorto. Ĝi estas malantaŭ la partikulo "li".)*
@@ -162,11 +158,19 @@ kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi [
 * ona li **mama**. *(Ŝi estas gepatro.)*
 * ona li **tawa** tomo. *(Ŝi iras hejmen.)*
 
+#### nimi suli wawa
+*(Transitivaj Verboj)*
+
+monsi pi **nimi suli wawa** la kulupu pi [nimi "e"](#nimi-e) li ken weka. ni la pilin pi **nimi suli wawa** ni li awen sama.
+*(Malantaŭ transitiva verbo, la rekta objekto povas manki. Tiam la signifo de tiu transitiva verbo restas la sama.)*
+
+* mi moku **e** ijo. → mi moku. *(Mi manĝas ion. → Mi manĝas.)*
+
 ### nimi sinpin
 *(Helpaj Verboj)*
 
 nimi "awen" en nimi "kama" en nimi "ken" en nimi "lukin" en nimi "sona" en nimi "wile" li **nimi sinpin**. ona li lon sinpin pi [nimi suli](#nimi-suli).
-*("awen", "kama", "ken", "lukin", "sona" kaj "wile estas helpaj verboj. Ili estas antaŭ verbo.)*
+*("awen", "kama", "ken", "lukin", "sona" kaj "wile" estas helpaj verboj. Ili estas antaŭ verbo.)*
 
 * ona li **wile** lape. *(Ŝi devas dormi.)*
 
