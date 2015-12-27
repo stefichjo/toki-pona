@@ -221,7 +221,7 @@ nimi "**tan**" en nimi "**lon**" en nimi "**tawa**" en nimi "**sama**" en nimi "
 #### nimi lawa pi pona weka
 *(Mankigeblaj Substantivoj)*
 
-lon sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "ijo" en "ilo" en "jan" li ken weka. ni la [nimi monsi](#nimi-monsi) ni li kama [nimi lawa](#nimi-lawa).
+sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "**ilo**" en "**jan**" li ken weka. ni la [nimi monsi](#nimi-monsi) ni li kama [nimi lawa](#nimi-lawa).
 *(Antaŭ adjektivo, la substantivoj "ijo", "ilo" kaj "jan" povas manki. Tiam tiu adjektivo fariĝas substantivo.)*
 
 * suno *(heleco, brilo)*
