@@ -225,11 +225,11 @@ sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "
 *(Antaŭ adjektivo, la substantivoj "ijo", "ilo" kaj "jan" povas manki. Tiam tiu adjektivo fariĝas substantivo.)*
 
 * suno *(heleco, brilo)*
- * ijo **suno** → suno *(io hela, io brilanta → lumo, la suno)*
+ * **ijo** suno → suno *(io hela, io brilanta → lumo, la suno)*
 * lukin *(rigardo, vido)*
- * ilo **lukin** → lukin *(ilo rigardanta, ilo vidanta → okulo)*
+ * **ilo** lukin → lukin *(ilo rigardanta, ilo vidanta → okulo)*
 * mama *(kreo)*
- * jan **mama** → mama *(kreanto → gepatro)*
+ * **jan** mama → mama *(kreanto → gepatro)*
 
 monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) "pona" li ken weka. ni la monsi pi nimi "ijo pi pona" weka la [nimi monsi](#nimi-monsi) ni li kama [nimi lawa](#nimi-lawa).
 *(Malantaŭ manka "ijo", antaŭ adjektivo, la substantivo "pona" povas manki. Tiam, malantaŭ "ijo pi pona", tiu adjektivo fariĝas substantivo.)*
