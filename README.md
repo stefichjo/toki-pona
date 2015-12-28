@@ -333,8 +333,8 @@ kalama pi "np" en "nk" li ken kama `[mp]` en `[ŋk]`.
 * tenpo `[tempo]` *(tempo)*
 * Sonko `[soŋko]` *(ĉina)*
 
-...
-*(...)*
+kalama pi "p" en "t" en "s" en "k" li ken kama `[b]` en `[d]` en `[z]` en `[g]`. sama ni la kalama pi "pi" en "si" en "ki" li ken kama `[vi]` en `[ði]` en `[ɣi]`.
+*(La prononco de "p", "t", "s" kaj "k" povas fariĝi `[b]`, `[d]`, `[z]` kaj `[g]`. Simile, la prononco de "pi", "si" kaj "ki"' povas fariĝi `[vi]`, `[ði]` kaj `[ɣi]`.)*
 
 * toki pona `[toki bona]` *(Tokipono)*
  * tenpo pini `[tempo vini]` *(pasinteco)*
