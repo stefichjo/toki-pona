@@ -459,8 +459,8 @@ ken la sina ken [nimi sinpin](#nimi-sinpin) e [nimi monsi wawa](#nimi-monsi-wawa
 ### toki namako
 *(Neologisma Lingvaĵo)*
 
-nimi "esun" en nimi "pan" li jo e sitelen tawa ona. tan ni la ona li **nimi namako** ala.
-*("esun" kaj "pan" havas propran hieroglifon. Pro tio, ili ne estas neologismoj.)*
+nimi "alasa" en nimi "esun" en nimi "pan" en nimi "pu" li jo e sitelen wan. tan ni la ona li **nimi namako** ala.
+*("alasa", "esun", "pan" kaj "pu" havas unikan hieroglifon. Pro tio, ili ne estas neologismoj.)*
 
 #### ali
 
