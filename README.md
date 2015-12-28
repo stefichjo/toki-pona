@@ -318,6 +318,12 @@ nimi "**wan**" en nimi "**tu**" li **nimi nanpa**.
 ken la sina ken kepeken toki pi pu ala. taso ni li **toki ike**.
 *(Oni povus paroli tokiponide, t.e. "sen konsulti la oficialan libron pri Tokipono" aŭ "kontraŭfundamente". Sed tio ŝajnas evitinda.)*
 
+### toki apeja
+*(Fia Lingvaĵo)*
+
+ken la sina ken toki e ni: toki ike li toki pona sama. taso ni li **toki apeja**.
+*(Oni povus diri, ke evitinda lingvaĵo estas ankaŭ Tokipono. Sed tio ŝajnas evitinda.)*
+
 ### toki walo
 *(Redunda Lingvaĵo)*
 
@@ -484,13 +490,16 @@ nimi "**kin**" li sama [nimi ijo](#nimi-ijo). taso ni li [toki mu](#toki-mu).
 * **kipisi** kili → wan kili *(tranĉo de frukto → fruktero)*
 
 #### monsuta
+*(monstro)*
 
 * jan utala pona li moli e akesi **monsuta**. → jan utala pona li moli e akesi. *(La kavaliro mortigas la dragon.)*
 
 #### namako
+*(krom)*
 
 * nimi **namako** → nimi sin *(neologismo → nova vorto)*
 
 #### oko
+*(okulo)*
 
 * ijo li lon **oko** mi. → ijo li lon lukin mi. *(Io estas en mia okulo. → Io estas en mia vido.)*
