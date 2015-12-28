@@ -253,16 +253,16 @@ poka pi nimi "lon" anu nimi "tawa" anu nimi "tan" la **nimi lawa lon** li sama [
 * jan pona li lon **insa** pi tomo tawa. *("Amiko estas ĉe la interno de la aŭto." → Amiko estas en la aŭto.)*
 
 ##### nimi lawa pi lon insa
-*(Intern-lokaj Substantivoj)*
+*(En-lokaj Substantivoj)*
 
 nimi "**insa**" en nimi "**sewi**" li **nimi lawa pi lon insa**.
-*("insa" kaj "sewi" estas intern-lokaj substantivoj.)*
+*("insa" kaj "sewi" estas en-lokaj substantivoj.)*
 
 * ona li lon **insa** pi tomo sona. *("Ŝi estas ĉe la interno de la lernejo." → Ŝi estas en la lernejo.)*
  * ona li **insa** lon tomo sona. *("Ŝi internas ĉe la lernejo." → Ŝi estas en la lernejo.)*
 
 sina ken **nimi lawa pi lon insa** e [nimi lawa](#nimi-lawa).
-*(Oni povas igi substantivon intern-loka.)*
+*(Oni povas igi substantivon en-loka.)*
 
 * **anpa** *(malalto)*
  * pipi li lon **anpa** pi jan pona. *("Insekto estas ĉe la malalto de amiko." → Insekto estas sub amiko.)*
@@ -282,17 +282,17 @@ sina ken **nimi lawa pi lon insa** e [nimi lawa](#nimi-lawa).
  * ona li pana e telo seli lon **weka** suwi tawa mi. *("Ŝi donis al mi teon ĉe distanco de sukero." → Ŝi donis al mi teon sen sukero.)*
  * ona li **weka**. *("Ŝi estas distanca." → Ŝi estas for.)*
 
-##### nimi lawa pi lon poka
-*(Apud-lokaj Substantivoj)*
+##### nimi lawa pi lon selo
+*(Ekster-lokaj Substantivoj)*
 
-nimi "**poka**" en nimi "**sinpin**" en nimi "**monsi**" en nimi "**noka**" li **nimi lawa pi lon poka**.
-*("monsi" kaj "noka" estas apud-lokaj substantivoj.)*
+nimi "**poka**" en nimi "**sinpin**" en nimi "**monsi**" en nimi "**noka**" li **nimi lawa pi lon selo**.
+*("monsi" kaj "noka" estas ekster-lokaj substantivoj.)*
 
 * ona li lon **poka** pi tomo sona. *("Ŝi estas ĉe la flanko de la lernejo." → Ŝi estas apud la lernejo.)*
  * tomo sona li **poka** lon ona. *("La lernejo flankas ĉe ŝi." → Ŝi estas apud la lernejo.)*
 
-sina ken **nimi lawa pi lon poka** e [nimi lawa](#nimi-lawa).
-*(Oni povas igi substantivon apud-loka.)*
+sina ken **nimi lawa pi lon selo** e [nimi lawa](#nimi-lawa).
+*(Oni povas igi substantivon ekster-loka.)*
 
 * **selo** *(eksterno)*
  * mi awen lon **selo** tomo. *("Mi atendas ĉe la eksterno de la domo." → Mi atendas ekster la domo.)*
