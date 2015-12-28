@@ -465,6 +465,7 @@ nimi "**ale**" li kalama pi sama mute sama nimi "**ala**". tan ni la nimi "**ali
 * apeja → ike
 
 #### kin
+*(ja)*
 
 nimi "**kin**" li sama nimi "**a**". taso ni li **toki namako**.
 *("kin" estas kiel "a". Sed tio ŝajnas evitinda.)*
