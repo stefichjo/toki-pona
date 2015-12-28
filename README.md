@@ -305,12 +305,44 @@ sina ken **nimi lawa pi lon poka** e [nimi lawa](#nimi-lawa).
  * jan lili li musi lon **utala** pi jan suli. *("Infano ludas en konflikto de plenkreskulo." → Infano ludas kontraŭ plenkreskulo.)*
 
 ### nimi nanpa
+*(Numeraloj)*
 
 nimi "**wan**" en nimi "**tu**" li **nimi nanpa**.
 *("wan" kaj "tu" estas numeraloj.)*
 
 * kili **tu** *(du fruktoj)*
 * kili pi nanpa **tu** *(la dua frukto)*
+
+### kalama nimi
+*(Prononco)*
+
+kalama nimi li ken kama ante. wan sama la kalama pi wan nimi "si" li ken kama insa `[si]` en `[ti]`.
+*(La prononco povas varii. Ekzemple, la prononco de la silabo "si" povas fariĝi inter `[si]` kaj `[ti]`.)*
+
+* sina `[θina]` *(vi)*
+
+kalama pi "pi" en "ki" li ken kama `[fi]` en `[xi]`.
+*(La prononco de "pi" kaj "ki" povas fariĝi `[fi]` kaj `[xi]`.)*
+
+* pini `[fini]` *(fini)*
+* kili `[xili]` *(frukto)*
+
+kalama pi "np" en "nk" li ken kama `[mp]` en `[ŋk]`.
+*(La prononco de "np" kaj "nk" povas fariĝi `[mp]` kaj `[ŋk]`.)*
+
+* tenpo `[tempo]` *(tempo)*
+* Sonko `[soŋko]` *(ĉina)*
+
+...
+*(...)*
+
+* toki pona `[toki bona]` *(Tokipono)*
+ * tenpo pini `[tempo vini]` *(pasinteco)*
+* tomo tawa `[tomo dawa]` *(aŭto)*
+* tomo sona `[tomo zona]` *(lernejo)*
+ * nimi sina `[nimi ðina]` *(via nomo)*
+* tenpo kama [`tempo gama`] *(estonteco)*
+ * telo kili `[telo ɣili]` *(suko)*
 
 ## toki ike
 *(Evitindaj Lingvaĵoj)*
