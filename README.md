@@ -13,6 +13,11 @@ nimi "a" en nimi "mu" li **nimi kalama**.
 * **a a a**! *(Ha ha ha!)*
 * **mu**! *(Miaŭ!)*
 
+monsi la **nimi kalama** "a" li wawa e kulupu pi [nimi suli](#nimi-suli).
+*(Malantaŭe, la sonimito "a" emfazas frazon.)*
+
+* sina pona lukin a! *(Vi estas ja bela!)*
+
 kulupu pi [nimi suli](#nimi-suli) la **nimi kalama** li lon monsi pi nimi "nimi".
 *(En frazo, sonimito estas malantaŭ la vorto "nimi".)*
 
