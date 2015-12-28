@@ -316,29 +316,38 @@ nimi "**wan**" en nimi "**tu**" li **nimi nanpa**.
 ## toki ike
 *(Evitindaj Lingvaĵoj)*
 
-ken la sina ken kepeken toki pi pu ala. taso ni li **toki ike**.
-*(Oni povus paroli tokiponide, t.e. "sen konsulti la oficialan libron pri Tokipono" aŭ "kontraŭfundamente". Sed tio ŝajnas evitinda.)*
-
 ### toki apeja
-*(Fia Lingvaĵo)*
+*(Skisma Lingvaĵo)*
 
-ken la sina ken toki e ni: toki ike li toki pona sama. taso ni li **toki apeja**.
-*(Oni povus diri, ke evitinda lingvaĵo estas ankaŭ Tokipono. Sed tio ŝajnas evitinda.)*
+jan li toki pakala lon toki pona li pu ala la ni li **toki ike**.
 
-### toki walo
-*(Redunda Lingvaĵo)*
+* mi kepeken ~~**e**~~ ilo. → mi kepeken ilo. *(Mi ~~igas uzi~~ la instrumenton. → Mi uzas instrumenton.)*
+* mi lukin ~~sewi~~. → mi lukin **e** sewi. *(Mi rigardas ~~alte~~. → Mi rigardas supren.)*
 
-ken la sina ken kepeken e nimi sama pi tenpo tu. nasin ni la ona li kama wawa. taso ni li **toki walo**.
-*(Oni povus uzi la saman vorton dufoje por emfazi ĝin. Sed tio ŝajnas evitinda.)*
+### toki kin
+*(Homonima Lingvaĵo)*
 
-* ona li **pona ~~pona~~**. → oni li pona mute. *(Ĝi estas bonbona. → Ĝi estas tre bona.)*
+jan li kalama ante e nimi pi toki pona la ni li **toki ike**.
 
-ken la sina ken kepeken [nimi monsi wawa](#nimi-monsi-wawa) lon poka pi [nimi suli](#nimi-suli) sama. taso ni li **toki walo**.
-*(Oni povus uzi prepozicion kun sama verbo. Sed tio ŝajnas evitinda.)*
+* mun `[mun]` *(luno)*
+ * tenpo `[tempo]` *(tempo)*
+ * Sonko `[soŋko]` *(ĉina)*
+* pona `[pona]` *(bona)*
+ * toki pona `[toki bona]` *(Tokipono)*
+ * pini `[fini]` *(fini)*
+ * tenpo pini `[tempo vini]` *(pasinteco)*
+* tawa `[tawa]` *(movo)* 
+ * tomo tawa `[tomo dawa]` *(aŭto)*
+* sona `[sona]` *(scio)*
+ * tomo sona `[tomo zona]` *(lernejo)*
+ * sina `[θina]` *(vi)*
+ * nimi sina `[nimi ðina]` *(via nomo)*
+* kama `[kama]`
+ * tenpo kama `[tempo gama]` *(estonteco)*
+ * kili `[xili]` *(frukto)*
+ * telo kili `[telo ɣili]` *(suko)*
 
-* ona li ~~**tawa**~~ **tawa** tomo. → ona li **tawa** tomo. *("Ŝi iras al la domo." → Ŝi iras hejmen.)*
-
-### toki pimeja
+### toki kipisi
 *(Obskura Lingvaĵo)*
 
 ken la sina ken ante e nasin pi [nimi ijo](#nimi-ijo) lon weka pi [nimi sinpin](#nimi-sinpin). taso ni li **toki pimeja**.
@@ -364,33 +373,23 @@ ken la sina ken weka e [nimi "en"](#nimi-en) lon insa pi [nimi nanpa](#nimi-nanp
 
 * kili tu wan → kili pi tu en wan *("fruktoj du kaj unu" → tri fruktoj)*
 
-### toki pi wan wan
-*(Rekursia Lingvaĵo)*
+### toki monsuta
+*(Ekstrema Lingvaĵo)*
+
+ken la sina ken kepeken e nimi sama pi tenpo tu. nasin ni la ona li kama wawa. taso ni li **toki monsuta**.
+*(Oni povus uzi la saman vorton dufoje por emfazi ĝin. Sed tio ŝajnas evitinda.)*
+
+* ona li **pona ~~pona~~**. → oni li pona mute. *(Ĝi estas bonbona. → Ĝi estas tre bona.)*
+
+ken la sina ken kepeken [nimi monsi wawa](#nimi-monsi-wawa) lon poka pi [nimi suli](#nimi-suli) sama. taso ni li **toki monsuta**.
+*(Oni povus uzi prepozicion kun sama verbo. Sed tio ŝajnas evitinda.)*
+
+* ona li ~~**tawa**~~ **tawa** tomo. → ona li **tawa** tomo. *("Ŝi iras al la domo." → Ŝi iras hejmen.)*
 
 ken la sina ken kepeken kulupu pi nasin nimi lon insa pi kulupu pi nasin nimi sama. taso ni li **toki pi wan wan**.
 *(Oni povus uzi frazeron ene de samspeca frazero. Sed tio ŝajnas evitinda.)*
 
 * ona **li** sona e jan ~~pi ona **li** moku ala e soweli~~. → ona **li** sona e jan ni: ona **li** moku ala e soweli. *(Ŝi konas la vegetaranon.)*
-
-### toki pakala
-*(Fuŝa Lingvaĵo)*
-
-* mi kepeken ~~**e**~~ ilo. → mi kepeken ilo. *(Mi uzas instrumenton.)*
-* mi lukin ~~anpa~~. → mi lukin **e** anpa. *(Mi rigardas malsupren.)*
-
-ken la sina ken weka e [nimi lawa](#nimi-lawa) lon sinpin pi [nimi kalama](#nimi-kalama). taso ni li **toki pakala**.
-*(Oni povus mankigi substantivon antaŭ sonimito. Sed tio ŝajnas evitinda.)*
-
-* mi tawa ~~**Lantan**~~. → mi tawa ma tomo **Lantan**. *(Mi iras al Londono.)*
-
-ken la sina ken kepeken [nimi monsi](#nimi-monsi) "ala" en [nimi suli](#nimi-suli) pi tenpo tu lon kulupu pi [nimi suli](#nimi-suli) pi wile sona. taso ni li **toki pakala**.
-*(Oni povus uzi la adjektivon "ala" kaj la verbon dufoje en jes-/ne-demanda frazo. Sed tio ŝajnas evitinda.)* 
-
-* ona li ~~**tawa ala tawa**~~ ma tomo Lantan? → ona li tawa ma tomo Lantan anu seme? *(Ĉu ŝi iras al Londono?)*
-* ona li tawa ala tawa ma tomo Lantan. *(Ŝi ne iras al Londono.)*
-
-### toki nasa
-*(Stranga Lingvaĵo)*
 
 ken la sina ken kepeken [nimi monsi](#nimi-monsi) lon monsi pi kulupu pi [nimi monsi](#nimi-monsi) anu [nimi monsi wawa](#nimi-monsi-wawa). taso ni li **toki nasa**.
 *(Oni povus uzi adjektivon malantaŭ adjektiva frazero aŭ prepozicia frazero. Sed tio ŝajnas evitinda.)*
@@ -413,22 +412,19 @@ ken la sina ken kepeken kulupu pi [nimi monsi wawa](#nimi-monsi-wawa) lon sinpin
 
 * mi lukin ~~kepeken tenpo mute~~ **e** sitelen. → mi lukin **e** sitelen kepeken tenpo mute. *(Mi legas malrapide.)*
 
-ken la sina ken [nimi suli](#nimi-suli) lon poka pi kulupu pi [nimi "e"](#nimi-e) e [nimi lawa lon](#nimi-lawa-lon). taso ni li **toki nasa**.
-*(Oni povus igi lokan substantivon transitiva verbo. Sed tio ŝajnas evitinda.)*
-
-* jan pona li **lon** poka tomo. *("Amiko estas ĉe la flanko de la domo." → Amiko estas apud la domo.)*
-* jan pona li ~~poka e~~ tomo. → tomo li poka lon jan pona. *("Amiko flankas la domon." → Domo apudas la amikon.)*
-
-ken la sina ken kepeken [nimi "pi"](#nimi-pi) lon insa pi [nimi ijo](#nimi-ijo) en [nimi monsi wawa](#nimi-monsi-wawa). taso ni li **toki nasa**.
-*(Oni povus uzi la partikulon "pi" inter radika vorto kaj prepozicio. Sed tio ŝajnas evitinda.)*
-
-* pali ~~**pi**~~ lon tomo → pali lon tomo *(laboro en domo)*
- * pali pi lon tomo *("laboro de doma ĉeesto")*
-* jan pona li lape ~~**pi**~~ lon tomo. → jan pona li lape lon tomo. *(Amiko dormas en la domo.)*
- * jan pona li lape pi lon tomo. *("Amiko dormas dom-ĉeeste.")*
-
 ### toki mu
 *(Slanga Lingvaĵo)*
+
+ken la sina ken weka e [nimi lawa](#nimi-lawa) lon sinpin pi [nimi kalama](#nimi-kalama). taso ni li **toki pakala**.
+*(Oni povus mankigi substantivon antaŭ sonimito. Sed tio ŝajnas evitinda.)*
+
+* mi tawa ~~**Lantan**~~. → mi tawa ma tomo **Lantan**. *(Mi iras al Londono.)*
+
+ken la sina ken kepeken [nimi monsi](#nimi-monsi) "ala" en [nimi suli](#nimi-suli) pi tenpo tu lon kulupu pi [nimi suli](#nimi-suli) pi wile sona. taso ni li **toki pakala**.
+*(Oni povus uzi la adjektivon "ala" kaj la verbon dufoje en jes-/ne-demanda frazo. Sed tio ŝajnas evitinda.)* 
+
+* ona li ~~**tawa ala tawa**~~ ma tomo Lantan? → ona li tawa ma tomo Lantan anu seme? *(Ĉu ŝi iras al Londono?)*
+* ona li tawa ala tawa ma tomo Lantan. *(Ŝi ne iras al Londono.)*
 
 ken la sina ken kepeken [nimi lawa lon](#nimi-lawa-lon) sama [nimi monsi wawa](#nimi-monsi-wawa). taso ni li **toki mu**.
 *(Oni povus uzi lokan substantivon kvazaŭ prepozicion. Sed tio ŝajnas evitinda.)*
@@ -457,7 +453,15 @@ ken la sina ken [nimi sinpin](#nimi-sinpin) e [nimi monsi wawa](#nimi-monsi-wawa
  * mi tan moku. *(Mi venas de manĝo.)*
 
 ### toki namako
-*(Neologisma Lingvaĵo)*
+*(Redunda Lingvaĵo)*
+
+ken la sina ken kepeken [nimi "pi"](#nimi-pi) lon insa pi [nimi ijo](#nimi-ijo) en [nimi monsi wawa](#nimi-monsi-wawa). taso ni li **toki nasa**.
+*(Oni povus uzi la partikulon "pi" inter radika vorto kaj prepozicio. Sed tio ŝajnas evitinda.)*
+
+* pali ~~**pi**~~ lon tomo → pali lon tomo *(laboro en domo)*
+ * pali pi lon tomo *("laboro de doma ĉeesto")*
+* jan pona li lape ~~**pi**~~ lon tomo. → jan pona li lape lon tomo. *(Amiko dormas en la domo.)*
+ * jan pona li lape pi lon tomo. *("Amiko dormas dom-ĉeeste.")*
 
 nimi "alasa" en nimi "esun" en nimi "pan" en nimi "pu" li jo e sitelen wan. tan ni la ona li **nimi namako** ala.
 *("alasa", "esun", "pan" kaj "pu" havas unikan hieroglifon. Pro tio, ili ne estas neologismoj.)*
@@ -508,33 +512,6 @@ nimi "**kin**" li sama [nimi ijo](#nimi-ijo). taso ni li [toki mu](#toki-mu).
 
 * ijo li lon **oko** mi. → ijo li lon lukin mi. *(Io estas en mia okulo. → Io estas en mia vido.)*
 
-### toki tawa
-*(Flua Lingvaĵo)*
 
-ken la kalama nimi li ken kama ante. taso ni li **toki tawa**. wan sama la kalama pi wan nimi "si" li ken lon insa `[si]` en `[ti]`.
-*(La prononco povus varii. Sed tio ŝajnas evitinda. Ekzemple, la prononco de la silabo "si" povus esti inter `[si]` kaj `[ti]`.)*
 
-* sina `[θina]` *(vi)*
 
-kalama pi "pi" en "ki" li ken kama `[fi]` en `[xi]`.
-*(La prononco de "pi" kaj "ki" povus fariĝi `[fi]` kaj `[xi]`.)*
-
-* pini `[fini]` *(fini)*
-* kili `[xili]` *(frukto)*
-
-kalama pi "np" en "nk" li ken kama `[mp]` en `[ŋk]`.
-*(La prononco de "np" kaj "nk" povus fariĝi `[mp]` kaj `[ŋk]`.)*
-
-* tenpo `[tempo]` *(tempo)*
-* Sonko `[soŋko]` *(ĉina)*
-
-kalama pi "p" en "t" en "s" en "k" li ken kama `[b]` en `[d]` en `[z]` en `[g]`. sama ni la kalama pi "pi" en "si" en "ki" li ken kama `[vi]` en `[ði]` en `[ɣi]`.
-*(La prononco de "p", "t", "s" kaj "k" povus fariĝi `[b]`, `[d]`, `[z]` kaj `[g]`. Simile, la prononco de "pi", "si" kaj "ki"' povus fariĝi `[vi]`, `[ði]` kaj `[ɣi]`.)*
-
-* toki pona `[toki bona]` *(Tokipono)*
- * tenpo pini `[tempo vini]` *(pasinteco)*
-* tomo tawa `[tomo dawa]` *(aŭto)*
-* tomo sona `[tomo zona]` *(lernejo)*
- * nimi sina `[nimi ðina]` *(via nomo)*
-* tenpo kama [`tempo gama`] *(estonteco)*
- * telo kili `[telo ɣili]` *(suko)*
