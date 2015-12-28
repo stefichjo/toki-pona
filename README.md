@@ -16,7 +16,7 @@ nimi "a" en nimi "mu" li **nimi kalama**.
 monsi la **nimi kalama** "a" li wawa e kulupu pi [nimi suli](#nimi-suli).
 *(Malantaŭe, la sonimito "a" emfazas frazon.)*
 
-* sina pona lukin a! *(Vi estas ja bela!)*
+* sina pona lukin **a**! *(Vi estas ja bela!)*
 
 kulupu pi [nimi suli](#nimi-suli) la **nimi kalama** li lon monsi pi nimi "nimi".
 *(En frazo, sonimito estas malantaŭ la vorto "nimi".)*
@@ -436,6 +436,7 @@ ken la sina ken [nimi ijo](#nimi-ijo) e [nimi kalama](#nimi-kalama). taso ni li 
 *(Oni povus radikigi sonimiton. Sed tio ŝajnas evitinda.)*
 
 * soweli li ~~**mu**~~. → soweli li kalama e nimi **"mu"**. *("La kato sonas 'miaŭ'." → La kato miaŭas.)*
+* ona ~~**a**~~ li kute e kalama musi. → ona sama li kute e kalama musi. *(Ankaŭ ŝi aŭskultas muzikon.)*
 
 ken la sina ken [nimi sinpin](#nimi-sinpin) e [nimi monsi wawa](#nimi-monsi-wawa). taso ni li **toki mu**.
 *(Oni povus igi prepozicion helpa verbo. Sed tio ŝajnas evitinda.)*
@@ -448,8 +449,14 @@ ken la sina ken [nimi sinpin](#nimi-sinpin) e [nimi monsi wawa](#nimi-monsi-wawa
 ### toki namako
 *(Neologisma Lingvaĵo)*
 
-* a → kin
-* ali → ale
+nimi "**kin**" li **nimi namako** sama nimi "**a**". nimi "kin" li [nimi ijo](#nimi-ijo) sama. taso ni li **toki namako** li [toki mu](#toki-mu).
+
+* ona ~~**kin**~~ li kute e kalama musi. → ona sama li kute e kalama musi. *(Ankaŭ ŝi aŭskultas muzikon.)*
+
+nimi "**ale**" li sama kute mute sama nimi "**ala**". tan ni la nimi "**ali**" li **nimi namako** sama nimi "**ale**". taso ni li **toki namako**.
+
+* **ali** li pona. → **ale** li pona. *(Ĉio estas bona.)*
+
 * apeja *(fia)* → ike
 * kipisi → wan/tu
 * monsuta → akesi
