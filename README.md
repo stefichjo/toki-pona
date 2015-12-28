@@ -449,11 +449,13 @@ ken la sina ken [nimi sinpin](#nimi-sinpin) e [nimi monsi wawa](#nimi-monsi-wawa
 ### toki namako
 *(Neologisma Lingvaĵo)*
 
-nimi "**kin**" li **nimi namako** sama nimi "**a**". nimi "kin" li [nimi ijo](#nimi-ijo) sama. taso ni li **toki namako** li [toki mu](#toki-mu).
+nimi "**kin**" li sama nimi "**a**". taso nimi "**kin**" li [nimi ijo](#nimi-ijo). taso ni li **toki namako** li [toki mu](#toki-mu).
+*("kin" estas kiel "a". Sed "kin" estas radika vorto. Sed tio estas evitinda.)*
 
 * ona ~~**kin**~~ li kute e kalama musi. → ona sama li kute e kalama musi. *(Ankaŭ ŝi aŭskultas muzikon.)*
 
-nimi "**ale**" li sama kute mute sama nimi "**ala**". tan ni la nimi "**ali**" li **nimi namako** sama nimi "**ale**". taso ni li **toki namako**.
+nimi "**ale**" li kalama pi sama mute sama nimi "**ala**". tan ni la nimi "**ali**" li lon li **nimi namako** sama nimi "**ale**". taso ni li **toki namako**.
+*("ale" sonas tre simile kiel "ala". pro tio, "ali" ekzistas kiel neologismo de "ale". Sed tio ŝajnas evitinda.)*
 
 * **ali** li pona. → **ale** li pona. *(Ĉio estas bona.)*
 
