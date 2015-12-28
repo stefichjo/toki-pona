@@ -294,6 +294,9 @@ nimi "**poka**" en nimi "**sinpin**" en nimi "**monsi**" en nimi "**noka**" li *
 sina ken **nimi lawa pi lon poka** e [nimi lawa](#nimi-lawa).
 *(Oni povas igi substantivon apud-loka.)*
 
+* **selo** *(eksterno)*
+ * mi awen lon **selo** tomo. *("Mi atendas ĉe la eksterno de la domo." → Mi atendas ekster la domo.)*
+ * mi tawa **selo** tomo. *("Mi iras al la eksterno de la domo." → Mi iras el la domo.)*
 * **sike** *(kurbiĝo)*
  * mi tawa lon **sike** tomo. *("Mi iras ĉe la kurbiĝo de la domo." → Mi iras ĉirkaŭ la domo.)*
 * **supa** *(faco)*
