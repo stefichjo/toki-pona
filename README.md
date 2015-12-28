@@ -313,37 +313,6 @@ nimi "**wan**" en nimi "**tu**" li **nimi nanpa**.
 * kili **tu** *(du fruktoj)*
 * kili pi nanpa **tu** *(la dua frukto)*
 
-### kalama nimi
-*(Prononco)*
-
-kalama nimi li ken kama ante. wan sama la kalama pi wan nimi "si" li ken kama insa `[si]` en `[ti]`.
-*(La prononco povas varii. Ekzemple, la prononco de la silabo "si" povas fariĝi inter `[si]` kaj `[ti]`.)*
-
-* sina `[θina]` *(vi)*
-
-kalama pi "pi" en "ki" li ken kama `[fi]` en `[xi]`.
-*(La prononco de "pi" kaj "ki" povas fariĝi `[fi]` kaj `[xi]`.)*
-
-* pini `[fini]` *(fini)*
-* kili `[xili]` *(frukto)*
-
-kalama pi "np" en "nk" li ken kama `[mp]` en `[ŋk]`.
-*(La prononco de "np" kaj "nk" povas fariĝi `[mp]` kaj `[ŋk]`.)*
-
-* tenpo `[tempo]` *(tempo)*
-* Sonko `[soŋko]` *(ĉina)*
-
-kalama pi "p" en "t" en "s" en "k" li ken kama `[b]` en `[d]` en `[z]` en `[g]`. sama ni la kalama pi "pi" en "si" en "ki" li ken kama `[vi]` en `[ði]` en `[ɣi]`.
-*(La prononco de "p", "t", "s" kaj "k" povas fariĝi `[b]`, `[d]`, `[z]` kaj `[g]`. Simile, la prononco de "pi", "si" kaj "ki"' povas fariĝi `[vi]`, `[ði]` kaj `[ɣi]`.)*
-
-* toki pona `[toki bona]` *(Tokipono)*
- * tenpo pini `[tempo vini]` *(pasinteco)*
-* tomo tawa `[tomo dawa]` *(aŭto)*
-* tomo sona `[tomo zona]` *(lernejo)*
- * nimi sina `[nimi ðina]` *(via nomo)*
-* tenpo kama [`tempo gama`] *(estonteco)*
- * telo kili `[telo ɣili]` *(suko)*
-
 ## toki ike
 *(Evitindaj Lingvaĵoj)*
 
@@ -538,3 +507,34 @@ nimi "**kin**" li sama [nimi ijo](#nimi-ijo). taso ni li [toki mu](#toki-mu).
 *(okulo)*
 
 * ijo li lon **oko** mi. → ijo li lon lukin mi. *(Io estas en mia okulo. → Io estas en mia vido.)*
+
+### toki tawa
+*(Flua Lingvaĵo)*
+
+ken la kalama nimi li ken kama ante. taso ni li **toki tawa**. wan sama la kalama pi wan nimi "si" li ken lon insa `[si]` en `[ti]`.
+*(La prononco povus varii. Sed tio ŝajnas evitinda. Ekzemple, la prononco de la silabo "si" povus esti inter `[si]` kaj `[ti]`.)*
+
+* sina `[θina]` *(vi)*
+
+kalama pi "pi" en "ki" li ken kama `[fi]` en `[xi]`.
+*(La prononco de "pi" kaj "ki" povus fariĝi `[fi]` kaj `[xi]`.)*
+
+* pini `[fini]` *(fini)*
+* kili `[xili]` *(frukto)*
+
+kalama pi "np" en "nk" li ken kama `[mp]` en `[ŋk]`.
+*(La prononco de "np" kaj "nk" povus fariĝi `[mp]` kaj `[ŋk]`.)*
+
+* tenpo `[tempo]` *(tempo)*
+* Sonko `[soŋko]` *(ĉina)*
+
+kalama pi "p" en "t" en "s" en "k" li ken kama `[b]` en `[d]` en `[z]` en `[g]`. sama ni la kalama pi "pi" en "si" en "ki" li ken kama `[vi]` en `[ði]` en `[ɣi]`.
+*(La prononco de "p", "t", "s" kaj "k" povus fariĝi `[b]`, `[d]`, `[z]` kaj `[g]`. Simile, la prononco de "pi", "si" kaj "ki"' povus fariĝi `[vi]`, `[ði]` kaj `[ɣi]`.)*
+
+* toki pona `[toki bona]` *(Tokipono)*
+ * tenpo pini `[tempo vini]` *(pasinteco)*
+* tomo tawa `[tomo dawa]` *(aŭto)*
+* tomo sona `[tomo zona]` *(lernejo)*
+ * nimi sina `[nimi ðina]` *(via nomo)*
+* tenpo kama [`tempo gama`] *(estonteco)*
+ * telo kili `[telo ɣili]` *(suko)*
