@@ -62,7 +62,7 @@ nimi "**anu**" en nimi "**e**" en nimi "**en**" en nimi "**la**" en nimi "**li**
 sinpin pi [nimi lawa](#nimi-lawa) taso la **nimi "pi"** li weka. ni la [nimi lawa](#nimi-lawa) ni li kama [nimi monsi](#nimi-monsi).
 *(Antaŭ sola substantivo, la partikulo "pi" mankas. Tiam tiu substantivo fariĝas adjektivo.)*
 
-* jan ~~**pi**~~ pona → jan pona *("persono de bono" → "bona persono" → amiko)*
+* jan ~~**pi**~~ pona → jan pona *("persono de bono" → amiko)*
 
 ### nimi "li"
 *(La Partikulo "li")*
@@ -352,6 +352,17 @@ nasin pi jan Sonja la nimi "ala" li ken lon insa pi [nimi suli](#nimi-suli) sama
 
 * ona li tawa ma tomo Lantan **anu seme**? → ona li **tawa ala tawa** ma tomo Lantan? *(Ĉu ŝi iras al Londono?)*
 
+### nimi namako
+*(Neologismoj)*
+
+nasin pi jan Sonja la nimi "alasa" en nimi "esun" en nimi "pan" en nimi "pu" li lon li jo e sitelen wan.
+*(Laŭ Sonja, "alasa", "esun", "pan" kaj "pu" ekzistas kaj havas unikan hieroglifon.)*
+
+* **alasa** *(ĉasi)*
+* **esun** *(merkato)*
+* **pan** *(pano)*
+* **pu** *(interagi kun la oficiala libro pri Tokipono)*
+
 nasin pi jan Sonja la nimi "ali" en nimi "kin" en nimi "oko" li nasin ante pi nimi "ale" en nimi "a" en nimi "lukin".
 *(Laŭ Sonja, "ali", "kin" kaj "oko" estas sinonimoj de "ale", "a" kaj "lukin".)*
 
@@ -359,19 +370,33 @@ nasin pi jan Sonja la nimi "ali" en nimi "kin" en nimi "oko" li nasin ante pi ni
 * sina pona lukin **a**. → sina pona lukin **kin**. *(Vi belas ja.)*
 * ijo li lon **lukin** mi. → ijo li lon **oko** mi. *(Io estas en mia okulo.)*
 
+nasin pu la nimi namako ante li lon ala.
+*(Laŭ la oficiala libro pri Tokipono, aliaj neologismoj ne ekzistas.)*
+
+* ~~**apeja**~~ → **ike** *(malbona → fia)*
+* ~~**kipisi**~~ → **tu**, **wan** *(duigi → tranĉi, peco → tranĉo)*
+* ~~**monsuta**~~ → **akesi** *(monstro)*
+* ~~**namako**~~ → **sin** *(krom)*
+
 ## toki ike
 *(Evitindaj Lingvaĵoj)*
 
 ### toki apeja
 *(Skisma Lingvaĵo)*
 
-jan li toki pakala lon toki pona li pu ala la ni li **toki ike**.
-
-* mi kepeken ~~**e**~~ ilo. → mi kepeken ilo. *(Mi ~~igas uzi~~ la instrumenton. → Mi uzas instrumenton.)*
-* mi lukin ~~sewi~~. → mi lukin **e** sewi. *(Mi rigardas ~~alte~~. → Mi rigardas supren.)*
-
 ### toki kipisi
 *(Obskura Lingvaĵo)*
+
+### toki monsuta
+*(Danĝera Lingvaĵo)*
+
+### toki mu
+*(Slanga Lingvaĵo)*
+
+
+
+
+
 
 ken la sina ken ante e nasin pi [nimi ijo](#nimi-ijo) lon weka pi [nimi sinpin](#nimi-sinpin). taso ni li **toki ike**.
 *(Oni povus derivi alian vorton de vorto sen helpa verbo. Sed tio ŝajnas evitinda.)*
@@ -395,9 +420,6 @@ ken la sina ken weka e [nimi "en"](#nimi-en) lon insa pi [nimi nanpa](#nimi-nanp
 *(Oni povus mankigi "en" inter numeraloj. Sed tio ŝajnas evitinda.)*
 
 * kili tu wan → kili pi tu en wan *("fruktoj du kaj unu" → tri fruktoj)*
-
-### toki monsuta
-*(Ekstrema Lingvaĵo)*
 
 ken la sina ken kepeken e nimi sama pi tenpo tu. nasin ni la ona li kama wawa. taso ni li **toki ike**.
 *(Oni povus uzi la saman vorton dufoje por emfazi ĝin. Sed tio ŝajnas evitinda.)*
@@ -436,9 +458,6 @@ ken la sina ken kepeken kulupu pi [nimi monsi wawa](#nimi-monsi-wawa) lon sinpin
 
 * mi lukin ~~kepeken tenpo mute~~ **e** sitelen. → mi lukin **e** sitelen kepeken tenpo mute. *(Mi legas malrapide.)*
 
-### toki mu
-*(Slanga Lingvaĵo)*
-
 ken la sina ken weka e [nimi lawa](#nimi-lawa) lon sinpin pi [nimi kalama](#nimi-kalama). taso ni li **toki ike**.
 *(Oni povus mankigi substantivon antaŭ sonimito. Sed tio ŝajnas evitinda.)*
 
@@ -470,9 +489,6 @@ ken la sina ken [nimi sinpin](#nimi-sinpin) e [nimi monsi wawa](#nimi-monsi-wawa
 * ~~mi tan moku.~~ → tenpo pini la mi moku. *(Mi estas manĝinta. → Mi manĝis.)*
  * mi tan moku. *(Mi venas de manĝo.)*
 
-### toki namako
-*(Redunda Lingvaĵo)*
-
 ken la sina ken kepeken [nimi "pi"](#nimi-pi) lon insa pi [nimi ijo](#nimi-ijo) en [nimi monsi wawa](#nimi-monsi-wawa). taso ni li **toki ike**.
 *(Oni povus uzi la partikulon "pi" inter radika vorto kaj prepozicio. Sed tio ŝajnas evitinda.)*
 
@@ -481,26 +497,7 @@ ken la sina ken kepeken [nimi "pi"](#nimi-pi) lon insa pi [nimi ijo](#nimi-ijo) 
 * jan pona li lape ~~**pi**~~ lon tomo. → jan pona li lape lon tomo. *(Amiko dormas en la domo.)*
  * jan pona li lape pi lon tomo. *("Amiko dormas dom-ĉeeste.")*
 
-nimi "alasa" en nimi "esun" en nimi "pan" en nimi "pu" li jo e sitelen wan. tan ni la ona li **nimi namako** ala.
-*("alasa", "esun", "pan" kaj "pu" havas unikan hieroglifon. Pro tio, ili ne estas neologismoj.)*
+jan li toki pakala lon toki pona li pu ala la ni li **toki ike**.
 
-#### apeja
-*(fia)*
-
-* apeja → ike
-
-#### kipisi
-*(tranĉi)*
-
-* mi **kipisi** e kili. → mi tu e kili. *(Mi tranĉas la frukton. → Mi dividas la frukton.)*
-* **kipisi** kili → wan kili *(tranĉo de frukto → fruktero)*
-
-#### monsuta
-*(monstro)*
-
-* jan utala pona li moli e akesi **monsuta**. → jan utala pona li moli e akesi. *(La kavaliro mortigas la dragon.)*
-
-#### namako
-*(krom)*
-
-* nimi **namako** → nimi sin *(neologismo → nova vorto)*
+* mi kepeken ~~**e**~~ ilo. → mi kepeken ilo. *(Mi ~~igas uzi~~ la instrumenton. → Mi uzas instrumenton.)*
+* mi lukin ~~sewi~~. → mi lukin **e** sewi. *(Mi rigardas ~~alte~~. → Mi rigardas supren.)*
