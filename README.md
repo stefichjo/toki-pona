@@ -21,13 +21,21 @@ monsi la **nimi kalama** "a" li wawa e kulupu pi [nimi suli](#nimi-suli).
 kulupu pi [nimi suli](#nimi-suli) la **nimi kalama** li lon monsi pi nimi "nimi".
 *(En frazo, sonimito estas malantaŭ la vorto "nimi".)*
 
-* nimi "**mu**" li nimi kalama soweli. *(La vorto "mu" estas sonimito de bestoj.)*
+* nimi "**mu**" li nimi pi kalama soweli. *(La vorto "mu" estas sonimito de bestoj.)*
 
 insa pi [nimi lawa](#nimi-lawa) en **nimi kalama** la nimi "pi nimi" li ken weka.
 *(Inter substantivo kaj sonimito, la vortoj "pi nimi" povas manki.)*
 
 * mi jan pi nimi "**Tepan**". → mi jan **Tepan**. *("Mi estas persono de la nomo 'Stephan'." → Mi estas Stephan.)*
 * mi sona e toki pi nimi "**Epelanto**". → mi sona e toki **Epelanto**. *("Mi konas la lingvon de la nomo 'Esperanto'." → Mi konas Esperanton.)*
+
+nimi "kalama e nimi" en nimi "kalama (pi) nimi" li ken kama "toki".
+*("kalama e nimi" kaj "kalama (pi) nimi" povas fariĝi "toki".)*
+
+* ona li kalama e nimi "**Inli**". (Ŝi prononcas la vorton "Inli".)
+ * ona li toki "**Inli**". (Ŝi prononcas "Inli".)
+* ona li kalama pi nimi "**Inli**". (Ĝi estas la prononco de la vorto "Inli".)
+ * ona li toki "**Inli**". (Ĝi estas la prononco "Inli".)
 
 ## nimi ilo
 *(Partikuloj)*
@@ -73,12 +81,12 @@ monsi pi nimi "mi" taso anu nimi "sina" taso la **nimi "li"** li weka.
 kulupu pi [nimi suli](#nimi-suli) pi pana sona pi lon anu ala li [nimi suli](#nimi-suli) taso.
 *(Jes-/ne-responda frazo konsistas nur el verbo.)*
 
-* pona. *(Estas bone. → Jes.)*
+* pona. *(Bonas. → Jes.)*
 
 kulupu pi [nimi suli](#nimi-suli) pi pana sona pi lon anu ala la [nimi suli](#nimi-suli) lon sinpin pi nimi "ala" li ken weka.
 *(En jes-/ne-responda frazo, la verbo antaŭ "ala" povas manki.)*
 
-* pona ala. → ala. *(Ne estas bone. → Ne.)*
+* pona ala. → ala. *(Ne bonas. → Ne.)*
 
 ### nimi "e"
 *(La Partikulo "e")*
