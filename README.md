@@ -323,6 +323,11 @@ nimi "**wan**" en nimi "**tu**" li **nimi nanpa**.
 * kili **tu** *(du fruktoj)*
 * kili pi nanpa **tu** *(la dua frukto)*
 
+nasin jan Sonja la sina ken weka e [nimi "en"](#nimi-en) lon insa pi [nimi nanpa](#nimi-nanpa).
+*(Laŭ Sonja, oni povas mankigi "en" inter numeraloj.)*
+
+* kili pi tu en wan → kili tu wan *(tri fruktoj)*
+
 ## toki namako
 *(Kroma Lingvaĵo)*
 
@@ -381,6 +386,23 @@ nasin pu la nimi namako ante li lon ala.
 * ~~**monsuta**~~ → **akesi** *(reptilo, amfibio → monstro)*
 * ~~**namako**~~ → **sin** *(nova → aldona)*
 
+## toki open
+*(Klara Lingvaĵo)*
+
+toki open la nimi "**kama**" li weka lon ni taso: ona li [nimi sinpin](#nimi-sinpin).
+
+* ona li **kama** open e lupa. → ona li open e lupa. *(Ŝi malfermas la pordon.)*
+ * ~~open~~ → **kama** open *(malfermo, malfermiĝo)*
+ * open *(malfermiteco)*
+
+ken la sina ken weka e nimi "pona" lon sinpin pi [nimi suli](#nimi-suli). taso ni li **toki ike**.
+*(Oni povus mankigi "pona" antaŭ verbo. Sed tio ŝajnas evitinda.)*
+
+* kili ni li ~~moku~~. → kili ni li **pona** moku. *(Tiu frukto estas manĝebla.)*
+
+
+
+
 ## toki ike
 *(Evitindaj Lingvaĵoj)*
 
@@ -399,30 +421,11 @@ nasin pu la nimi namako ante li lon ala.
 
 
 
-
-
-ken la sina ken ante e nasin pi [nimi ijo](#nimi-ijo) lon weka pi [nimi sinpin](#nimi-sinpin). taso ni li **toki ike**.
-*(Oni povus derivi alian vorton de vorto sen helpa verbo. Sed tio ŝajnas evitinda.)*
-
-* ona li **kama** open e lupa. → ona li open e lupa. *(Ŝi malfermas la pordon.)*
- * ~~open~~ → **kama** open *(malfermo, malfermiĝo)*
- * open *(malfermiteco)*
-
-ken la sina ken weka e nimi "pona" lon sinpin pi [nimi suli](#nimi-suli). taso ni li **toki ike**.
-*(Oni povus mankigi "pona" antaŭ verbo. Sed tio ŝajnas evitinda.)*
-
-* kili ni li ~~moku~~. → kili ni li **pona** moku. *(Tiu frukto estas manĝebla.)*
-
 ken la sina ken weka e nimi "ijo" lon sinpin pi [nimi "pi"](#nimi-pi). taso ni li **toki ike**.
 *(Oni povus mankigi "ijo" antaŭ "pi". Sed tio ŝajnas evitinda.)*
 
 * kili ni li ~~**pi**~~ mi mute. → kili ni li ijo **pi** mi mute. *(Tiu frukto estas nia. → Tiu frukto estas io nia.)*
 * kili ni li ~~**pi** mi~~. → kili ni li ijo mi. *(Tiu frukto estas mia. → Tiu frukto estas io mia.)*
-
-ken la sina ken weka e [nimi "en"](#nimi-en) lon insa pi [nimi nanpa](#nimi-nanpa). taso ni li **toki ike**.
-*(Oni povus mankigi "en" inter numeraloj. Sed tio ŝajnas evitinda.)*
-
-* kili tu wan → kili pi tu en wan *("fruktoj du kaj unu" → tri fruktoj)*
 
 ken la sina ken kepeken e nimi sama pi tenpo tu. nasin ni la ona li kama wawa. taso ni li **toki ike**.
 *(Oni povus uzi la saman vorton dufoje por emfazi ĝin. Sed tio ŝajnas evitinda.)*
