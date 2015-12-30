@@ -323,7 +323,7 @@ nimi "**wan**" en nimi "**tu**" li **nimi nanpa**.
 * kili **tu** *(du fruktoj)*
 * kili pi nanpa **tu** *(la dua frukto)*
 
-nasin jan Sonja la sina ken weka e [nimi "en"](#nimi-en) lon insa pi [nimi nanpa](#nimi-nanpa).
+nasin pi jan Sonja la sina ken weka e [nimi "en"](#nimi-en) lon insa pi [nimi nanpa](#nimi-nanpa).
 *(Laŭ Sonja, oni povas mankigi "en" inter numeraloj.)*
 
 * kili pi tu en wan → kili tu wan *(tri fruktoj)*
@@ -389,19 +389,19 @@ nasin pu la nimi namako ante li lon ala.
 ## toki open
 *(Klara Lingvaĵo)*
 
-toki open la nimi "**kama**" li weka lon ni taso: ona li [nimi sinpin](#nimi-sinpin).
+toki open la nimi "**kama**" li ken weka lon ni taso: ona li [nimi sinpin](#nimi-sinpin) li jo ala e kulupu pi [nimi "e"](#nimi-e).
+*(En klara lingvaĵo, la vorto "kama" povas manki nur se ĝi estas helpa verbo sen rekta objekto.)*
 
 * ona li **kama** open e lupa. → ona li open e lupa. *(Ŝi malfermas la pordon.)*
- * ~~open~~ → **kama** open *(malfermo, malfermiĝo)*
+ * open → **kama** open *(malfermo, malfermiĝo)*
  * open *(malfermiteco)*
 
-ken la sina ken weka e nimi "pona" lon sinpin pi [nimi suli](#nimi-suli). taso ni li **toki ike**.
-*(Oni povus mankigi "pona" antaŭ verbo. Sed tio ŝajnas evitinda.)*
+toki open la nimi "**pona**" li ken weka lon ni taso: ona li monsi pi nimi "ijo pi" weka.
+*(En klara lingvaĵo, la vorto "pona" povas manki nur se ĝi estas malantaŭ manka "ijo pi".)*
 
-* kili ni li ~~moku~~. → kili ni li **pona** moku. *(Tiu frukto estas manĝebla.)*
-
-
-
+* **ijo pi pona** moku → moku *(manĝo)*
+ * moku → **pona** moku *(manĝebla)*
+ * moku *(manĝi)*
 
 ## toki ike
 *(Evitindaj Lingvaĵoj)*
