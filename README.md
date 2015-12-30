@@ -328,8 +328,28 @@ nasin pi jan Sonja la sina ken weka e [nimi "en"](#nimi-en) lon insa pi [nimi na
 
 * kili pi tu en wan → kili tu wan *(tri fruktoj)*
 
+## toki open
+*(Klara Lingvaĵo)*
+
+toki open la nimi "**kama**" li ken weka lon ni taso: ona li [nimi sinpin](#nimi-sinpin) li jo ala e kulupu pi [nimi "e"](#nimi-e).
+*(En klara lingvaĵo, la vorto "kama" povas manki nur se ĝi estas helpa verbo sen rekta objekto.)*
+
+* ona li **kama** open e lupa. → ona li open e lupa. *(Ŝi malfermas la pordon.)*
+ * open → **kama** open *(malfermo, malfermiĝo)*
+ * open *(malfermiteco)*
+
+toki open la nimi "**pona**" li ken weka lon ni taso: ona li monsi pi nimi "**ijo pi**" weka.
+*(En klara lingvaĵo, la vorto "pona" povas manki nur se ĝi estas malantaŭ manka "ijo pi".)*
+
+* **ijo pi pona** moku → moku *(manĝo)*
+ * moku → **pona** moku *(manĝebla)*
+ * moku *(manĝi)*
+
 ## toki namako
 *(Kroma Lingvaĵo)*
+
+nasin pi jan Sonja la toki pona ken kama ante lili.
+*(Laŭ Sonja, Tokipono povas iomete varii.)*
 
 ### kalama namako
 *(Kromaj Sonoj)*
@@ -385,23 +405,6 @@ nasin pu la nimi namako ante li lon ala.
 * ~~**kipisi**~~ → **tu**, **wan** *(duigi → tranĉi, peco → tranĉo)*
 * ~~**monsuta**~~ → **akesi** *(reptilo, amfibio → monstro)*
 * ~~**namako**~~ → **sin** *(nova → aldona)*
-
-## toki open
-*(Klara Lingvaĵo)*
-
-toki open la nimi "**kama**" li ken weka lon ni taso: ona li [nimi sinpin](#nimi-sinpin) li jo ala e kulupu pi [nimi "e"](#nimi-e).
-*(En klara lingvaĵo, la vorto "kama" povas manki nur se ĝi estas helpa verbo sen rekta objekto.)*
-
-* ona li **kama** open e lupa. → ona li open e lupa. *(Ŝi malfermas la pordon.)*
- * open → **kama** open *(malfermo, malfermiĝo)*
- * open *(malfermiteco)*
-
-toki open la nimi "**pona**" li ken weka lon ni taso: ona li monsi pi nimi "**ijo pi**" weka.
-*(En klara lingvaĵo, la vorto "pona" povas manki nur se ĝi estas malantaŭ manka "ijo pi".)*
-
-* **ijo pi pona** moku → moku *(manĝo)*
- * moku → **pona** moku *(manĝebla)*
- * moku *(manĝi)*
 
 ## toki ike
 *(Evitindaj Lingvaĵoj)*
