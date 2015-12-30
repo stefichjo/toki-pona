@@ -474,7 +474,7 @@ kulupu pi [nimi suli](#nimi-suli) li ken lon kulupu pi [nimi "pi"](#nimi-pi) ala
 *(Loka substantivo ne povas fariĝi prepozicio.)*
 
 * waso li tawa ~~**sewi**~~ tomo sona. → waso li tawa lon **sewi** pi tomo sona. *(Birdo flugas super la lernejo.)*
-*mi tawa ~~**poka** jan pona. → mi tawa lon **poka** pi jan pona. *(Mi vojaĝas kun amiko.)*
+*mi tawa ~~**poka**~~ jan pona. → mi tawa lon **poka** pi jan pona. *(Mi vojaĝas kun amiko.)*
 
 [nimi kalama](#nimi-kalama) li ken ala kama [nimi ijo](#nimi-ijo).
 *(Sonimito ne povas fariĝi radika vorto.)*
