@@ -331,9 +331,10 @@ nasin pi jan Sonja la sina ken weka e [nimi "en"](#nimi-en) lon insa pi [nimi na
 ## toki open
 *(Klara Lingvaĵo)*
 
-toki open la nimi "**kama**" li ken weka lon ni taso: ona li [nimi sinpin](#nimi-sinpin) li jo ala e kulupu pi [nimi "e"](#nimi-e).
-*(En klara lingvaĵo, la vorto "kama" povas manki nur se ĝi estas helpa verbo sen rekta objekto.)*
+toki open la nimi "**kama**" li ken weka lon ni taso: ona li [nimi sinpin](#nimi-sinpin).
+*(En klara lingvaĵo, la vorto "kama" povas manki nur se ĝi estas helpa verbo.)*
 
+* lupa li **kama** open. → lupa li open. *(La pordo malfermiĝis. → La pordo estas malfermita.)*
 * ona li **kama** open e lupa. → ona li open e lupa. *(Ŝi malfermas la pordon.)*
  * open → **kama** open *(malfermo, malfermiĝo)*
  * open *(malfermiteco)*
