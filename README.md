@@ -375,8 +375,8 @@ nasin pu la nimi namako ante li lon ala.
 
 * ~~**apeja**~~ → **ike** *(malbona → fia)*
 * ~~**kipisi**~~ → **tu**, **wan** *(duigi → tranĉi, peco → tranĉo)*
-* ~~**monsuta**~~ → **akesi** *(monstro)*
-* ~~**namako**~~ → **sin** *(krom)*
+* ~~**monsuta**~~ → **akesi** *(reptilo, amfibio → monstro)*
+* ~~**namako**~~ → **sin** *(nova → aldona)*
 
 ## toki ike
 *(Evitindaj Lingvaĵoj)*
