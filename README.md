@@ -336,7 +336,7 @@ nasin pi jan Sonja la kalama nimi li ken kama ante lili. mi pana e wan sama ni:
  * **toki pona** `[toki bona]` *(Tokipono)*
  * **pini** `[fini]` *(fini)*
  * **tenpo pini** `[tempo vini]` *(pasinteco)*
-* **tawa** `[tawa]` *(movo)* 
+* tawa `[tawa]` *(movo)* 
  * **tomo tawa** `[tomo dawa]` *(aŭto)*
 * sona `[sona]` *(scio)*
  * **tomo sona** `[tomo zona]` *(lernejo)*
@@ -352,8 +352,8 @@ nasin pi jan Sonja la nimi "ala" li ken lon insa pi [nimi suli](#nimi-suli) sama
 
 * ona li tawa ma tomo Lantan **anu seme**? → ona li **tawa ala tawa** ma tomo Lantan? *(Ĉu ŝi iras al Londono?)*
 
-nasin pi jan Sonja la nimi "ali" en nimi "kin" li nasin ante pi nimi "ale" en nimi "a".
-*(Laŭ Sonja, "ali" estas sinonimo de "ale".)*
+nasin pi jan Sonja la nimi "ali" en nimi "kin" en nimi "oko" li nasin ante pi nimi "ale" en nimi "a" en nimi "lukin".
+*(Laŭ Sonja, "ali", "kin" kaj "oko" estas sinonimoj de "ale", "a" kaj "lukin".)*
 
 * **ale** li pona. → **ali** li pona. *(Ĉio estas bona.)*
 * sina pona lukin **a**. → sina pona lukin **kin**. *(Vi belas ja.)*
