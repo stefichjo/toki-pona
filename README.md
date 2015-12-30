@@ -396,7 +396,7 @@ toki open la nimi "**kama**" li ken weka lon ni taso: ona li [nimi sinpin](#nimi
  * open → **kama** open *(malfermo, malfermiĝo)*
  * open *(malfermiteco)*
 
-toki open la nimi "**pona**" li ken weka lon ni taso: ona li monsi pi nimi "ijo pi" weka.
+toki open la nimi "**pona**" li ken weka lon ni taso: ona li monsi pi nimi "**ijo pi**" weka.
 *(En klara lingvaĵo, la vorto "pona" povas manki nur se ĝi estas malantaŭ manka "ijo pi".)*
 
 * **ijo pi pona** moku → moku *(manĝo)*
