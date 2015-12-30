@@ -486,5 +486,5 @@ kulupu pi [nimi suli](#nimi-suli) li ken lon kulupu pi [nimi "pi"](#nimi-pi) ala
 [nimi monsi wawa](#nimi-monsi-wawa) li ken ala kama [nimi-sinpin](#nimi-sinpin).
 *(Prepozicio ne povas fariĝi helpa verbo.)*
 
-* ~~mi tawa moku.~~ → tenpo kama la mi moku. *(Mi estas manĝonta. → Mi manĝos.)*
-* ~~mi tan moku.~~ → tenpo pini la mi moku. *(Mi estas manĝinta. → Mi manĝis.)*
+* ~~mi **tawa** moku.~~ → tenpo kama la mi moku. *(Mi estas manĝonta. → Mi manĝos.)*
+* ~~mi **tan** moku.~~ → tenpo pini la mi moku. *(Mi estas manĝinta. → Mi manĝis.)*
