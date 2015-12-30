@@ -326,6 +326,9 @@ nimi "**wan**" en nimi "**tu**" li **nimi nanpa**.
 ## toki namako
 *(Kroma Lingvaĵo)*
 
+### kalama namako
+*(Kromaj Sonoj)*
+
 nasin pi jan Sonja la kalama nimi li ken kama ante lili. mi pana e wan sama ni:
 *(Laŭ Sonja, la prononco povas varii iomete. Mi donas ĉi tiujn ekzemplojn:)*
 
@@ -353,7 +356,7 @@ nasin pi jan Sonja la nimi "ala" li ken lon insa pi [nimi suli](#nimi-suli) sama
 * ona li tawa ma tomo Lantan **anu seme**? → ona li **tawa ala tawa** ma tomo Lantan? *(Ĉu ŝi iras al Londono?)*
 
 ### nimi namako
-*(Neologismoj)*
+*(Kromaj Vortoj)*
 
 nasin pi jan Sonja la nimi "alasa" en nimi "esun" en nimi "pan" en nimi "pu" li lon li jo e sitelen wan.
 *(Laŭ Sonja, "alasa", "esun", "pan" kaj "pu" ekzistas kaj havas unikan hieroglifon.)*
