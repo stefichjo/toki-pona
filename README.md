@@ -326,10 +326,8 @@ nimi "**wan**" en nimi "**tu**" li **nimi nanpa**.
 ## toki namako
 *(Kroma Lingvaĵo)*
 
-### kalama nimi
-
-nasin pi jan Sonja la kalama nimi li ken kama ante lili. tan ni la mi pana e wan sama ni:
-*(Laŭ Sonja, la prononco povas varii iomete. Pro tio, mi donas ĉi tiujn ekzemplojn:)*
+nasin pi jan Sonja la kalama nimi li ken kama ante lili. mi pana e wan sama ni:
+*(Laŭ Sonja, la prononco povas varii iomete. Mi donas ĉi tiujn ekzemplojn:)*
 
 * mun `[mun]` *(luno)*
  * **tenpo** `[tempo]` *(tempo)*
@@ -349,44 +347,17 @@ nasin pi jan Sonja la kalama nimi li ken kama ante lili. tan ni la mi pana e wan
  * **kili** `[xili]` *(frukto)*
  * **telo kili** `[telo ɣili]` *(suko)*
 
-### nimi namako
-*(Neologismoj)*
-
-#### ala
-*(ĉu)*
-
 nasin pi jan Sonja la nimi "ala" li ken lon insa pi [nimi suli](#nimi-suli) sama tu. ni li nasin ante pi nimi "anu seme".
-*(Laŭ Sonja, "la" povas esti inter du samaj verboj. Tio estas alternativo de "anu seme".)*
+*(Laŭ Sonja, "ala" povas esti inter du samaj verboj. Tio estas alternativo de "anu seme".)*
 
 * ona li tawa ma tomo Lantan **anu seme**? → ona li **tawa ala tawa** ma tomo Lantan? *(Ĉu ŝi iras al Londono?)*
-* ona li tawa ala tawa ma tomo Lantan. *(Ŝi ne iras al Londono.)*
 
-#### ali
-*(ĉio)*
+nasin pi jan Sonja la nimi "ali" en nimi "kin" li nasin ante pi nimi "ale" en nimi "a".
+*(Laŭ Sonja, "ali" estas sinonimo de "ale".)*
 
-nimi "**ale**" li kalama pi sama mute sama nimi "**ala**". tan ni la nimi "**ali**" li lon li **nimi namako** sama nimi "**ale**". taso ni li **toki ike**.
-*("ale" sonas tre simila al "ala". Pro tio, "ali" ekzistas kiel neologismo de "ale". Sed tio ŝajnas evitinda.)*
-
-* **ali** li pona. → **ale** li pona. *(Ĉio estas bona.)*
-
-#### kin
-*(ja)*
-
-nimi "**kin**" li sama nimi "**a**". taso ni li **toki ike**.
-*("kin" estas kiel "a". Sed tio ŝajnas evitinda.)*
-
-* sina pona lukin **kin**. → sina pona lukin a. *(Vi belas ja.)*
-
-nimi "**kin**" li sama [nimi ijo](#nimi-ijo). taso ni li [toki mu](#toki-mu).
-*("kin" estas ankaŭ radika vorto. Sed tio estas evitinda.)*
-
-* ona ~~**kin**~~ li kute e kalama musi. → ona sama li kute e kalama musi. *(Ankaŭ ŝi aŭskultas muzikon.)*
-
-#### oko
-*(okulo)*
-
-* ijo li lon **oko** mi. → ijo li lon lukin mi. *(Io estas en mia okulo. → Io estas en mia vido.)*
-
+* **ale** li pona. → **ali** li pona. *(Ĉio estas bona.)*
+* sina pona lukin **a**. → sina pona lukin **kin**. *(Vi belas ja.)*
+* ijo li lon **lukin** mi. → ijo li lon **oko** mi. *(Io estas en mia okulo.)*
 
 ## toki ike
 *(Evitindaj Lingvaĵoj)*
@@ -436,7 +407,8 @@ ken la sina ken kepeken e nimi sama pi tenpo tu. nasin ni la ona li kama wawa. t
 ken la sina ken kepeken [nimi monsi wawa](#nimi-monsi-wawa) lon poka pi [nimi suli](#nimi-suli) sama. taso ni li **toki ike**.
 *(Oni povus uzi prepozicion kun sama verbo. Sed tio ŝajnas evitinda.)*
 
-* ona li ~~**tawa**~~ **tawa** tomo. → ona li **tawa** tomo. *("Ŝi iras al la domo." → Ŝi iras hejmen.)*
+* ona li ~~**tawa**~~ **tawa** ma tomo Lantan. → ona li **tawa** ma tomo Lantan. *(Ŝi iras al Londono.)*
+* ona li **tawa** ala **tawa** ma tomo Lantan. *(Ŝi ne iras al Londono.)*
 
 ken la sina ken kepeken kulupu pi nasin nimi lon insa pi kulupu pi nasin nimi sama. taso ni li **toki ike**.
 *(Oni povus uzi frazeron ene de samspeca frazero. Sed tio ŝajnas evitinda.)*
