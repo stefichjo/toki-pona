@@ -384,8 +384,8 @@ nasin pi jan Sonja la nimi "ala" li ken lon insa pi [nimi suli](#nimi-suli) sama
 ### nimi namako
 *(Kromaj Vortoj)*
 
-nasin pi jan Sonja la nimi "alasa" en nimi "esun" en nimi "pan" en nimi "pu" li lon li jo e sitelen wan.
-*(Laŭ Sonja, "alasa", "esun", "pan" kaj "pu" ekzistas kaj havas unikan hieroglifon.)*
+nasin pi jan Sonja la nimi "alasa" en nimi "esun" en nimi "pan" en nimi "pu" li lon li jo e sitelen pona.
+*(Laŭ Sonja, "alasa", "esun", "pan" kaj "pu" ekzistas kaj havas simplan simbolon.)*
 
 * **alasa** *(ĉasi)*
 * **esun** *(merkato)*
