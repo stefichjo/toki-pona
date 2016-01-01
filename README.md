@@ -396,9 +396,9 @@ nasin pi jan Sonja la nimi "ali" en nimi "namako" en nimi "kin" en nimi "oko" li
 *(Laŭ Sonja, "ali", "kin" kaj "oko" estas sinonimoj de "ale", "a" kaj "lukin".)*
 
 * **ale** li pona. → **ali** li pona. *(Ĉio estas bona.)*
-* kule **sin** → kule **namako** *(aldona koloro → ŝminko)*
+* kule **sin** → kule **namako** *("aldona koloro" → ŝminko)*
 * sina pona lukin **a**. → sina pona lukin **kin**. *(Vi belas ja.)*
-* ijo li lon **lukin** mi. → ijo li lon **oko** mi. *(Io estas en mia okulo.)*
+* ijo li lon **lukin** mi. → ijo li lon **oko** mi. *("Io estas en mia vido." → Io estas en mia okulo.)*
 
 nasin pu la nimi namako ante li lon ala.
 *(Laŭ la oficiala libro pri Tokipono, aliaj neologismoj ne ekzistas.)*
