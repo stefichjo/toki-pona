@@ -392,10 +392,11 @@ nasin pi jan Sonja la nimi "alasa" en nimi "esun" en nimi "pan" en nimi "pu" li 
 * **pan** *(pano)*
 * **pu** *(interagi kun la oficiala libro pri Tokipono)*
 
-nasin pi jan Sonja la nimi "ali" en nimi "kin" en nimi "oko" li nasin ante pi nimi "ale" en nimi "a" en nimi "lukin".
+nasin pi jan Sonja la nimi "ali" en nimi "namako" en nimi "kin" en nimi "oko" li nasin ante pi nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin".
 *(Laŭ Sonja, "ali", "kin" kaj "oko" estas sinonimoj de "ale", "a" kaj "lukin".)*
 
 * **ale** li pona. → **ali** li pona. *(Ĉio estas bona.)*
+* kule **sin** → kule **namako** *(aldona koloro → ŝminko)*
 * sina pona lukin **a**. → sina pona lukin **kin**. *(Vi belas ja.)*
 * ijo li lon **lukin** mi. → ijo li lon **oko** mi. *(Io estas en mia okulo.)*
 
@@ -405,7 +406,6 @@ nasin pu la nimi namako ante li lon ala.
 * ~~**apeja**~~ → **ike** *(malbona → fia)*
 * ~~**kipisi**~~ → **tu**, **wan** *(duigi → tranĉi, peco → tranĉo)*
 * ~~**monsuta**~~ → **akesi** *(reptilo, amfibio → monstro)*
-* ~~**namako**~~ → **sin** *(nova → aldona)*
 
 ## toki ike
 *(Evitindaj Lingvaĵoj)*
