@@ -188,6 +188,7 @@ monsi pi **nimi suli wawa** la kulupu pi [nimi "e"](#nimi-e) li ken weka. ni la 
 *(Malantaŭ transitiva verbo, la rekta objekto povas manki. Tiam la signifo de tiu transitiva verbo restas la sama.)*
 
 * mi **moku** e ijo. → mi **moku**. *(Mi manĝas ion. → Mi manĝas.)*
+* mi **lukin pona** e sitelen. → mi **lukin pona**. *(Mi bone vidas la signojn. → Mi bone vidas.)*
 
 ### nimi sinpin
 *(Helpaj Verboj)*
