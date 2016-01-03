@@ -428,8 +428,8 @@ nimi "jo e" anu nimi "lon" li ken ala weka.
 * ona li ~~**pona sijelo**~~. → ona li **jo e pona sijelo**. *(Ŝi havas korpan sanon.)*
 * ona li ~~**pona sijelo**~~. → ona li **pona lon sijelo**. *(Ŝi estas sana en la korpo.)*
 
-nimi "pana e ... tawa" ken ala kama "... e".
-*(La vortoj "pana e ... tawa" ne povas fariĝi "... e".)*
+nimi "pana e" li ken ala weka.
+*("pana e" ne povas manki.)*
 
 * ona li ~~**len e**~~ mi. → ona li **pana e len tawa** mi. *(Ŝi vestis min.)*
 * ona li ~~**nimi "jan pona" e**~~ mi. → ona li **pana e nimi "jan pona" tawa** mi. *(Ŝi nomis min "amiko".)*
