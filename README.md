@@ -427,6 +427,12 @@ nimi lon sinpin pi [nimi "pi"](#nimi-pi) ken ala weka.
 
 * kili mute ni li ~~**pi**~~ mi mute. → kili mute ni li ijo **pi** mi mute. *(Tiuj fruktoj estas niaj. → Tiuj fruktoj estas io nia.)*
 
+nimi "pana e ... tawa" ken ala kama "... e".
+*(La vortoj "pana e ... tawa" ne povas fariĝi "... e".)*
+
+* ona li ~~**len e**~~ mi. → ona li **pana e len tawa** mi. *(Ŝi vestis min.)*
+* ona li ~~**nimi "jan pona" e**~~ mi. → ona li **pana e nimi "jan pona" tawa** mi. *(Ŝi nomis min "amiko".)*
+
 ### toki monsuta
 *(Monstra Lingvaĵo)*
 
