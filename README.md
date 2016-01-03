@@ -422,16 +422,22 @@ jan li toki ike li wile ante e toki pona la ni li **toki apeja**.
 ### toki kipisi
 *(Obskura Lingvaĵo)*
 
-nimi lon sinpin pi [nimi "pi"](#nimi-pi) ken ala weka.
-*(La vorto(j) antaŭ "pi" ne povas manki.)*
+nimi "jo e" anu nimi "lon" li ken ala weka.
+*("jo e" aŭ "lon" ne povas manki.)*
 
-* kili mute ni li ~~**pi**~~ mi mute. → kili mute ni li **ijo pi** mi mute. *(Tiuj fruktoj estas niaj. → Tiuj fruktoj estas io nia.)*
+* ona li ~~**pona sijelo**~~. → ona li **jo e pona sijelo**. *(Ŝi havas korpan sanon.)*
+* ona li ~~**pona sijelo**~~. → ona li **pona lon sijelo**. *(Ŝi estas sana en la korpo.)*
 
 nimi "pana e ... tawa" ken ala kama "... e".
 *(La vortoj "pana e ... tawa" ne povas fariĝi "... e".)*
 
 * ona li ~~**len e**~~ mi. → ona li **pana e len tawa** mi. *(Ŝi vestis min.)*
 * ona li ~~**nimi "jan pona" e**~~ mi. → ona li **pana e nimi "jan pona" tawa** mi. *(Ŝi nomis min "amiko".)*
+
+nimi lon sinpin pi [nimi "pi"](#nimi-pi) ken ala weka.
+*(La vorto(j) antaŭ "pi" ne povas manki.)*
+
+* kili mute ni li ~~**pi**~~ mi mute. → kili mute ni li **ijo pi** mi mute. *(Tiuj fruktoj estas niaj. → Tiuj fruktoj estas io nia.)*
 
 ### toki monsuta
 *(Monstra Lingvaĵo)*
