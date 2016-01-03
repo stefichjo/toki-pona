@@ -425,7 +425,7 @@ jan li toki ike li wile ante e toki pona la ni li **toki apeja**.
 nimi lon sinpin pi [nimi "pi"](#nimi-pi) ken ala weka.
 *(La vorto(j) antaŭ "pi" ne povas manki.)*
 
-* kili mute ni li ~~**pi**~~ mi mute. → kili mute ni li ijo **pi** mi mute. *(Tiuj fruktoj estas niaj. → Tiuj fruktoj estas io nia.)*
+* kili mute ni li ~~**pi**~~ mi mute. → kili mute ni li **ijo pi** mi mute. *(Tiuj fruktoj estas niaj. → Tiuj fruktoj estas io nia.)*
 
 nimi "pana e ... tawa" ken ala kama "... e".
 *(La vortoj "pana e ... tawa" ne povas fariĝi "... e".)*
