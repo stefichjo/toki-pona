@@ -299,6 +299,7 @@ nimi "**poka**" en nimi "**sinpin**" en nimi "**monsi**" en nimi "**noka**" li *
 
 * ona li lon **poka** pi tomo sona. *("Ŝi estas ĉe la flanko de la lernejo." → Ŝi estas apud la lernejo.)*
  * tomo sona li **poka** lon ona. *("La lernejo flankas ĉe ŝi." → Ŝi estas apud la lernejo.)*
+* ona li lon **poka ante** pi ma tomo. *("Ŝi loĝas ĉe la alia flanko de la urbo." → Ŝi loĝas trans la urbo.)*
 
 sina ken **nimi lawa pi lon selo** e [nimi lawa](#nimi-lawa).
 *(Oni povas igi substantivon ekster-loka.)*
