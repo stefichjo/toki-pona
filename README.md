@@ -487,7 +487,7 @@ kulupu pi [nimi suli](#nimi-suli) li ken lon kulupu pi [nimi "pi"](#nimi-pi) ala
 *(Frazo ne povas esti en adjektiva/adverba frazero. Oni devas uzi aldonan frazon.)*
 
 * ona li meli pi ona ~~**li**~~ moku ala ~~**e**~~ soweli. → ona li meli. ona li moku ala e soweli. *(Ŝi estas vegetaranino. → Ŝi estas virino. Ŝi ne manĝas viandon.)*
-* mi jo e tomo pi **~~lon ma~~**. → mi jo e tomo lon ma. *(Mi havas domon, kiu estas en la kamparo. → Mi havas domon en la kamparo.)*
+* mi jo e tomo pi **~~ona li lon ma~~**. → mi jo e tomo pi **~~lon ma~~**. → mi jo e tomo lon ma. *(Mi havas domon, kiu estas en la kamparo. → Mi havas domon en la kamparo.)*
 
 ### toki mu
 *(Slanga Lingvaĵo)*
