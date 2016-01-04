@@ -486,7 +486,7 @@ kulupu pi [nimi "e"] li lon sinpin pi kulupu pi [nimi monsi wawa](#nimi-monsi-wa
 kulupu pi [nimi suli](#nimi-suli) li ken lon kulupu pi [nimi "pi"](#nimi-pi) ala. jan li wile kepeken kulupu pi [nimi suli](#nimi-suli) sin.
 *(Frazo ne povas esti en adjektiva/adverba frazero. Oni devas uzi aldonan frazon.)*
 
-* ona li meli pi ona ~~**li**~~ moku ala ~~**e**~~ soweli. → ona li meli. ona li moku ala e soweli. *(Ŝi estas vegetaranino. → Ŝi estas virino. Ŝi ne manĝas viandon.)*
+* ona li meli pi ona ~~**li**~~ moku ala ~~**e**~~ soweli. → ona li meli. ona li moku ala e soweli. *("Ŝi estas virino, kiu ne manĝas viandon." → Ŝi estas virino. Ŝi ne manĝas viandon.)*
 * mi jo e tomo pi **~~ona li lon ma~~**. → mi jo e tomo pi **~~lon ma~~**. → mi jo e tomo lon ma. *(Mi havas domon, kiu estas en la kamparo. → Mi havas domon en la kamparo.)*
 
 ### toki mu
