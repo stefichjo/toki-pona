@@ -347,6 +347,14 @@ toki open la nimi "**pona**" li ken weka lon ni taso: ona li monsi pi nimi "**ij
  * moku → **pona** moku *(manĝebla)*
  * moku *(manĝi)*
 
+toki open la nimi "**jo e**" li ken weka la ona li weka.
+*(En klara lingvaĵo, se "jo e" povas manki, ĝi mankas.)*
+
+* ona li **jo e** pona lukin. → ona li pona lukin. *("Ŝi havas belon." → Ŝi estas bela.)*
+* ona li **jo e** pona lukin. *("Ŝi havas okulan sanon.")*
+* ona li **jo e** lukin pona. *(Ŝi havas bonajn okulojn.)*
+* ona li lukin pona. *(Ŝi vidas bone.)*
+
 ## toki namako
 *(Kroma Lingvaĵo)*
 
