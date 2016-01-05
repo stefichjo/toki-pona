@@ -1,2 +1,0 @@
-# nasin pi sitelen pona
-
