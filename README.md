@@ -239,12 +239,27 @@ nimi "**tan**" en nimi "**lon**" en nimi "**tawa**" en nimi "**sama**" en nimi "
 sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "**ilo**" en "**jan**" li ken weka. ni la [nimi monsi](#nimi-monsi) ni li kama [nimi lawa](#nimi-lawa).
 *(Antaŭ adjektivo, la substantivoj "ijo", "ilo" kaj "jan" povas manki. Tiam tiu adjektivo fariĝas substantivo.)*
 
-* suno *(heleco, brilo)*
- * **ijo** suno → suno *(io hela, io brilanta → lumo, la suno)*
-* lukin *(rigardo, vido)*
- * **ilo** lukin → lukin *(ilo rigardanta, ilo vidanta → okulo)*
-* mama *(kreo)*
- * **jan** mama → mama *(kreanto → gepatro)*
+
+
+* **ijo** kiwen → kiwen *(io malmola → ŝtono, metalo, diamanto)*
+* (**ijo** ko → ko *(io "malpreciza" → kaĉo, amaso, pulvoro)*)
+* **ijo** kon → kon *(io ŝvebanta → gaso, aero)*
+* **ijo** linja → linja *(io longa, io fleksebla → linio, haro)*
+* **ijo** lipu → lipu *(io ebena → folio)*
+* (**ijo** lupa → lupa *(io malplena → truo)*)
+* **ijo** suno → suno *(io hela, io brilanta → lumo, la suno)*
+
+* **ilo** kute → kute *(ilo aŭdanta, ilo aŭskultanta → orelo)*
+* **ilo** lawa → lawa *(ilo gvidanta → kapo)*
+* (**ilo** luka → luka *(ilo manipulanta → brako, mano)*)
+* **ilo** lukin → lukin *(ilo rigardanta, ilo vidanta → okulo)*
+* (**ilo** noka → noka *(ilo staranta → gambo, piedo)*)
+* (**ilo** palisa → palisa *(ilo indikanta → fingro)*)
+* (**ilo** uta →  uta *(ilo kisanta → buŝo)*)
+
+* **jan** mama → mama *(kreanto → gepatro)*
+* **jan** meli → meli *("inulo" → ino)*
+* **jan** mije → mije *("virulo" → viro)*
 
 monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) "pona" li ken weka. ni la monsi pi nimi "ijo pi pona" weka la [nimi monsi](#nimi-monsi) ni li kama [nimi lawa](#nimi-lawa).
 *(Malantaŭ manka "ijo", antaŭ adjektivo, la substantivo "pona" povas manki. Tiam, malantaŭ "ijo pi pona", tiu adjektivo fariĝas substantivo.)*
