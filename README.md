@@ -243,11 +243,11 @@ sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "
 *(Mankigebla Substantivo "ijo")*
 
 * **ijo** kiwen → kiwen *(io malmola → ŝtono, metalo, diamanto)*
-* **ijo** ko → ko *(io "malpreciza" → kaĉo, amaso, pulvoro)* (*)
-* **ijo** kon → kon *(io ŝvebanta → gaso, aero)* (*)
+* **ijo** ko → ko *(io "malpreciza" → kaĉo, amaso, pulvoro)* `*`
+* **ijo** kon → kon *(io ŝvebanta → gaso, aero)* `*`
 * **ijo** linja → linja *(io longa, io fleksebla → linio, haro)*
 * **ijo** lipu → lipu *(io ebena → folio)*
-* **ijo** lupa → lupa *(io malplena → truo)* (*)
+* **ijo** lupa → lupa *(io malplena → truo)* `*`
 * **ijo** suno → suno *(io hela, io brilanta → lumo, la suno)*
 
 monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) "pona" li ken weka. ni la monsi pi nimi "ijo pi pona" weka la [nimi monsi](#nimi-monsi) ni li kama [nimi lawa](#nimi-lawa).
@@ -261,11 +261,11 @@ monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#
 
 * **ilo** kute → kute *(ilo por aŭdi, ilo por aŭskulti → orelo)*
 * **ilo** lawa → lawa *(ilo por gvidi → kapo)*
-* **ilo** luka → luka *(ilo por manipuli → brako, mano)* (*)
+* **ilo** luka → luka *(ilo por manipuli → brako, mano)* `*`
 * **ilo** lukin → lukin *(ilo por rigardi, ilo vidanta → okulo)*
-* **ilo** noka → noka *(ilo por stari → gambo, piedo)* (*)
-* **ilo** palisa → palisa *(ilo por indiki → fingro)* (*)
-* **ilo** uta →  uta *(ilo por kisi → buŝo)* (*)
+* **ilo** noka → noka *(ilo por stari → gambo, piedo)* `*`
+* **ilo** palisa → palisa *(ilo por indiki → fingro)* `*`
+* **ilo** uta →  uta *(ilo por kisi → buŝo)* `*`
 
 ##### nimi lawa "jan" pi pona weka
 *(Mankigebla Substantivo "jan")*
@@ -534,5 +534,5 @@ kulupu pi [nimi suli](#nimi-suli) li ken lon kulupu pi [nimi "pi"](#nimi-pi) ala
 * ~~mi **tan** moku.~~ → tenpo pini la mi moku. *(Mi estas manĝinta. → Mi manĝis.)*
 
 
- (*)
- ken *(eblo)*
+`*`
+ken *(eblo)*
