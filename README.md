@@ -243,11 +243,12 @@ sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "
 *(Mankigebla Substantivo "ijo")*
 
 * **ijo** kiwen → kiwen *(io malmola → ŝtono, metalo, diamanto)*
-* **ijo** ko → ko *(io "malpreciza" → kaĉo, amaso, pulvoro)* `*`
+* **ijo** ko → ko *(io amorfa → kaĉo, amaso, pulvoro)* `*`
 * **ijo** kon → kon *(io ŝvebanta → gaso, aero)* `*`
-* **ijo** linja → linja *(io longa, io fleksebla → linio, haro)*
-* **ijo** lipu → lipu *(io ebena → folio)*
-* **ijo** lupa → lupa *(io malplena → truo)* `*`
+* **ijo** linja → linja *(io longa, fleksebla → linio, haro)*
+* **ijo** lipu → lipu *(io ebena → folio)* `*`
+* **ijo** lupa → lupa *(io malplena → truo, kavo)* `*`
+* **ijo** seli → seli *(io varma → fajro)*
 * **ijo** suno → suno *(io hela, io brilanta → lumo, la suno)*
 
 monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) "pona" li ken weka. ni la monsi pi nimi "ijo pi pona" weka la [nimi monsi](#nimi-monsi) ni li kama [nimi lawa](#nimi-lawa).
@@ -259,12 +260,13 @@ monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#
 ##### nimi lawa "ilo" pi pona weka
 *(Mankigebla Substantivo "ilo")*
 
-* **ilo** kute → kute *(ilo por aŭdi, ilo por aŭskulti → orelo)*
+* **ilo** kute → kute *(ilo por aŭdi, aŭskulti → orelo)*
 * **ilo** lawa → lawa *(ilo por gvidi → kapo)*
-* **ilo** luka → luka *(ilo por manipuli → brako, mano)* `*`
-* **ilo** lukin → lukin *(ilo por rigardi, ilo vidanta → okulo)*
+* **ilo** luka → luka *(ilo por atingi, manipuli → brako, mano)* `*`
+* **ilo** lukin → lukin *(ilo por vidi, rigardi → okulo)*
 * **ilo** noka → noka *(ilo por stari → gambo, piedo)* `*`
 * **ilo** palisa → palisa *(ilo por indiki → fingro)* `*`
+* **ilo** pu → pu *(ilo por tokiponumi → la oficiala libro pri Tokipono)* `*`
 * **ilo** uta →  uta *(ilo por kisi → buŝo)* `*`
 
 ##### nimi lawa "jan" pi pona weka
@@ -276,6 +278,12 @@ monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#
 
 #### nimi lawa lon
 *(Lokaj Substantivoj)*
+
+**nimi lawa lon** li lon monsi pi nimi "ma" weka.
+*(Loka substantivo estas malantaŭ manka "ma".)*
+
+* **ma** insa → insa *("ejo interna" → interno)*
+* **ma** selo → selo *("zono eksterna" → eksterno)*
 
 poka pi nimi "lon" anu nimi "tawa" anu nimi "tan" la **nimi lawa lon** li sama [nimi monsi wawa](#nimi-monsi-wawa) sin.
 *(Kun "lon", "tawa" aŭ "tan", loka substantivo estas kvazaŭ nova prepozicio.)*
