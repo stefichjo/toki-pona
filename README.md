@@ -206,7 +206,7 @@ nimi "**awen**" en nimi "**kama**" en nimi "**ken**" en nimi "**lukin**" en nimi
 ### nimi monsi
 *(Adjektivoj/Adverboj)*
 
-* ... ante ike pona jaki kalama lape lete moli musi nasa pakala suli wawa lili mute
+* ... ante ike pona jaki kalama lape lete moli musi nasa pakala suli wawa lili mute `K`
 
 **nimi monsi** li lon monsi pi [nimi lawa](#nimi-lawa) anu [nimi suli](#nimi-suli).
 *(Adjektivo/adverbo estas malantaŭ substantivo respektive verbo.)*
@@ -244,61 +244,61 @@ sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "
 ##### nimi lawa "ijo" pi pona weka
 *(Mankigebla Substantivo "ijo")*
 
-* **ijo** ala → ala *(io nula → nenio)* `*`
+* **ijo** ala → ala *(io nula → nenio)* `K`
 * **ijo** ale → ale *(io tuta → ĉio)*
-* **ijo** ijo → ijo *(io ekzistanta → aĵo)* `*`
+* **ijo** ijo → ijo *(io ekzistanta → aĵo)* `K`
 * **ijo** ilo → ilo *(io utila → ilo)*
-* **ijo** jan → jan *(io konscia → animo, besto, persono)* `*`
+* **ijo** jan → jan *(io konscia → animo, besto, persono)* `K`
 * **ijo** kasi → kasi *(io vivanta, kreskanta → planto)*
 * **ijo** kili → kili *(io rezultanta, sukcesa → frukto)*
 * **ijo** kiwen → kiwen *(io malmola → ŝtono, metalo, diamanto)*
-* **ijo** ko → ko *(io amorfa → kaĉo, amaso, pulvoro)* `*`
-* **ijo** kon → kon *(io ŝvebanta → gaso, aero)* `*`
-* **ijo** len → len *(io pendanta, instalita → vestaĵo)* `*`
+* **ijo** ko → ko *(io amorfa → kaĉo, amaso, pulvoro)* `K`
+* **ijo** kon → kon *(io ŝvebanta → gaso, aero)* `K`
+* **ijo** len → len *(io pendanta, instalita → vestaĵo)* `K`
 * **ijo** linja → linja *(io longa, fleksebla → linio, haro)*
-* **ijo** lipu → lipu *(io ebena → folio)* `*`
-* **ijo** lupa → lupa *(io malplena → truo, kavo)* `*`
-* **ijo** ma → ma *(io fekunda → grundo, tero, tereno, loko)* `*`
-* **ijo** mun → mun *(io akompananta, altirita → partnero, la luno)* `*`
-* **ijo** nena → nena *(io faldita → ŝvelaĵo, monto)* `*`
+* **ijo** lipu → lipu *(io ebena → folio)* `K`
+* **ijo** lupa → lupa *(io malplena → truo, kavo)* `K`
+* **ijo** ma → ma *(io fekunda → grundo, tero, tereno, loko)* `K`
+* **ijo** mun → mun *(io akompananta, altirita → partnero, la luno)* `K`
+* **ijo** nena → nena *(io faldita → ŝvelaĵo, monto)* `K`
 * **ijo** pan → pan *(io grena, faruna → pano)*
 * **ijo** seli → seli *(io varma → fajro)*
 * **ijo** sin → sin *(io kroma, aldona, artefarita → dekoracio, lukso)*
-* **ijo** sitelen → sitelen *(io projekciita → bildo, skemo, modelo)* `*`
+* **ijo** sitelen → sitelen *(io projekciita → bildo, skemo, modelo)* `K`
 * **ijo** suno → suno *(io hela, io brilanta → lumo, la suno)*
 * **ijo** suwi → suwi *(io dolĉa → sukero)*
 * **ijo** telo → telo *(io likva, malseka → akvko)*
-* **ijo** tenpo → tenpo *(io daŭranta → tempo)* `*`
-* **ijo** tomo → tomo *(io orda, honora → hejmo, domo)* `*`
+* **ijo** tenpo → tenpo *(io daŭranta → tempo)* `K`
+* **ijo** tomo → tomo *(io orda, honora → hejmo, domo)* `K`
 
 monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) "pona" li ken weka. ni la monsi pi nimi "ijo pi pona" weka la [nimi monsi](#nimi-monsi) ni li kama [nimi lawa](#nimi-lawa).
 *(Malantaŭ manka "ijo", antaŭ adjektivo, la substantivo "pona" povas manki. Tiam, malantaŭ "ijo pi pona", tiu adjektivo fariĝas substantivo.)*
 
 * **ijo pi pona** moku → moku *(io manĝebla → manĝo)*
 * **ijo pi pona** sona → sona *(io sciebla → scio)*
-* **ijo pi pona** len → len *(io pendigebla → vesto)* `*`
+* **ijo pi pona** len → len *(io pendigebla → vesto)* `K`
 
 sinpin pi nimi "mani" la nimi "nanpa" en nimi "ijo" li weka.
 *(Antaŭ "mani", "nanpa" kaj "ijo" mankas.)*
 
-* **ijo** mani → mani *(io ekvivalenta → signifo, valoro)* `*`
- * **nanpa** ~~pi ijo~~ mani → mani *(kvanto de signifo, valoro → mono)* `*`
- * **nanpa** ~~pi ijo~~ mani seme → mani pi mute seme *(kiu kvanto de signifo, valoro → kiom da mono)* `*`
+* **ijo** mani → mani *(io ekvivalenta → signifo, valoro)* `K`
+ * **nanpa** ~~pi ijo~~ mani → mani *(kvanto de signifo, valoro → mono)* `K`
+ * **nanpa** ~~pi ijo~~ mani seme → mani pi mute seme *(kiu kvanto de signifo, valoro → kiom da mono)* `K`
 
 ##### nimi lawa "ilo" pi pona weka
 *(Mankigebla Substantivo "ilo")*
 
 * **ilo** kute → kute *(ilo por aŭdi, aŭskulti → orelo)*
 * **ilo** lawa → lawa *(ilo por gvidi → kapo)*
-* **ilo** luka → luka *(ilo por atingi, manipuli → brako, mano)* `*`
+* **ilo** luka → luka *(ilo por atingi, manipuli → brako, mano)* `K`
 * **ilo** lukin → lukin *(ilo por vidi, rigardi → okulo)*
-* **ilo** noka → noka *(ilo por stari → gambo, piedo)* `*`
-* **ilo** palisa → palisa *(ilo por indiki → fingro)* `*`
+* **ilo** noka → noka *(ilo por stari → gambo, piedo)* `K`
+* **ilo** palisa → palisa *(ilo por indiki → fingro)* `K`
 * **ilo** pilin → pilin *(ilo por senti → emocio, koro)*
-* **ilo** poki → poki *(ilo por enhavi → ujo, ingo)* `*`
-* **ilo** pu → pu *(ilo por tokiponumi → la oficiala libro pri Tokipono)* `*`
+* **ilo** poki → poki *(ilo por enhavi → ujo, ingo)* `K`
+* **ilo** pu → pu *(ilo por tokiponumi → la oficiala libro pri Tokipono)* `K`
 * **ilo** supa → supa *(horizontala utilaĵo → tablo, lito, seĝo)*
-* **ilo** uta →  uta *(ilo por kisi → buŝo)* `*`
+* **ilo** uta →  uta *(ilo por kisi → buŝo)* `K`
 
 ##### nimi lawa "jan" pi pona weka
 *(Mankigebla Substantivo "jan")*
@@ -307,14 +307,14 @@ sinpin pi nimi "mani" la nimi "nanpa" en nimi "ijo" li weka.
 * **jan** meli → meli *("persono ina" → ino)*
 * **jan** mije → mije *("persono vira" → viro)*
 
-* ... akesi kala pipi soweli waso `*`
+* ... akesi kala pipi soweli waso `K`
 
 ##### nimi lawa "sijelo" pi pona weka
 *(Mankigebla Substantivo "sijelo")*
 
-* ... stato, korpo, formo, farto, sano
-* ... kule: jelo laso loje
-* ... (suno): pimeja walo
+* ... stato, korpo, formo, farto, sano `K`
+* ... kule: jelo laso loje `K`
+* ... (suno): pimeja walo `K`
 
 #### nimi lawa lon
 *(Lokaj Substantivoj)*
@@ -324,7 +324,7 @@ sinpin pi nimi "mani" la nimi "nanpa" en nimi "ijo" li weka.
 
 * **ma** insa → insa *("ejo interna" → interno)*
 * **ma** selo → selo *("zono eksterna" → eksterno)*
-* **ma** esun → esun *("loko por interŝanĝi → merkato")* `*`
+* **ma** esun → esun *("loko por interŝanĝi → merkato")* `K`
 
 poka pi nimi "lon" anu nimi "tawa" anu nimi "tan" la **nimi lawa lon** li sama [nimi monsi wawa](#nimi-monsi-wawa) sin.
 *(Kun "lon", "tawa" aŭ "tan", loka substantivo estas kvazaŭ nova prepozicio.)*
@@ -378,7 +378,7 @@ sina ken **nimi lawa pi lon selo** e [nimi lawa](#nimi-lawa).
 * **esun** *(interŝanĝo)*
  * mi moku e kili lon esun soweli. *(Mi manĝas la frukton anstataŭ la viandon.)*
 * **nasin** *(maniero)*
- * nasin mi la ... *(Laŭ mi, ...)* 
+ * nasin mi la ni. *(Laŭ mi, jes.)* 
 * **selo** *(eksterno)*
  * mi awen lon **selo** tomo. *("Mi atendas ĉe la eksterno de la domo." → Mi atendas ekster la domo.)*
  * mi tawa **selo** tomo. *("Mi iras al la eksterno de la domo." → Mi iras el la domo.)*
@@ -585,5 +585,4 @@ kulupu pi [nimi suli](#nimi-suli) li ken lon kulupu pi [nimi "pi"](#nimi-pi) ala
 * ~~mi **tan** moku.~~ → tenpo pini la mi moku. *(Mi estas manĝinta. → Mi manĝis.)*
 
 
-`*`
-ken *(eblo)*
+`K`: ken *(eblo)*
