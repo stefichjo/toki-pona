@@ -441,8 +441,9 @@ toki open la nimi "**jo e**" li ken weka la ona li weka.
 toki tan la [nimi sinpin](#nimi-sinpin) li lon ala.
 *(En pralingvaĵo, ne ekzistas helpaj verboj.)*
 
-* mi wile e ni: mi lape. → mi wile lape. *("Mi bezonas, ke mi dormas." → Mi bezonas dormi.)* `K`
-* mi lukin tawa ni: mi lape. → mi lukin lape. *("Mi serĉas, ke mi dormas." → Mi provas dormi.)* `K`
+* mi lukin tawa sina. *("Mi rigardas por vi." → Mi serĉas vin.)* `K`
+ * mi lukin tawa ni: mi pana e pona tawa sina. → mi **lukin** pana e pona tawa sina. *("Mi serĉas, ke mi donas bonon al vi." → Mi provas helpi vin.)* `K`
+ * mi lukin tawa sina. → mi **lukin** tawa sina. *(Mi serĉas vin. → Mi provas iri al vi.)* `K`
 
 ## toki namako
 *(Kroma Lingvaĵo)*
