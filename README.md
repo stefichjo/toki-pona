@@ -406,6 +406,12 @@ nasin pi jan Sonja la sina ken weka e [nimi "en"](#nimi-en) lon insa pi [nimi na
 ## toki open
 *(Klara Lingvaĵo)*
 
+toki open la pilin nimi li ken tu la [nimi lawa pi pona weka](#nimi-lawa-pi-pona-weka) li weka ala.
+*(En klara lingvaĵo, se la senco de vortoj povas esti ambigua, mankigebla substantivo malmankas.)*
+
+* lupa meli li ~~mama ale~~. → lupa meli li mama pi **ijo** ale. *(~~La sino de virino estas ĉiu gepatro.~~ → La sino de virino estas la kreanto de ĉio.)*
+* kili ni li ~~mi~~. → kili ni li **ijo** mi. *(~~Tiu frukto estas mi.~~ → Tiu frukto estas mia.)*
+
 toki open la nimi "**kama**" li ken weka lon ni taso: ona li [nimi sinpin](#nimi-sinpin).
 *(En klara lingvaĵo, la vorto "kama" povas manki nur se ĝi estas helpa verbo.)*
 
@@ -516,11 +522,6 @@ nimi "pana e" li ken ala weka.
 
 * ona li ~~**len e**~~ mi. → ona li **pana e len tawa** mi. *(Ŝi vestis min.)*
 * ona li ~~**nimi "jan pona" e**~~ mi. → ona li **pana e nimi "jan pona" tawa** mi. *(Ŝi nomis min "amiko".)*
-
-nimi lon sinpin pi [nimi "pi"](#nimi-pi) ken ala weka.
-*(La vorto(j) antaŭ "pi" ne povas manki.)*
-
-* kili mute ni li ~~**pi**~~ mi mute. → kili mute ni li **ijo pi** mi mute. *(Tiuj fruktoj estas niaj. → Tiuj fruktoj estas io nia.)*
 
 ### toki monsuta
 *(Monstra Lingvaĵo)*
