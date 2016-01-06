@@ -435,6 +435,15 @@ toki open la nimi "**jo e**" li ken weka la ona li weka.
 * ona li **jo e** lukin pona. *(Ŝi havas bonajn okulojn.)*
 * ona li lukin pona. *(Ŝi vidas bone.)*
 
+## toki tan
+*(Pralingvaĵo)*
+
+toki tan la [nimi sinpin](#nimi-sinpin) li lon ala.
+*(En pralingvaĵo, ne ekzistas helpaj verboj.)*
+
+* mi wile e ni: mi lape. → mi wile lape. *("Mi bezonas, ke mi dormas." → Mi bezonas dormi.)* `K`
+* mi lukin tawa ni: mi lape. → mi lukin lape. *("Mi serĉas, ke mi dormas." → Mi provas dormi.)* `K`
+
 ## toki namako
 *(Kroma Lingvaĵo)*
 
@@ -587,3 +596,5 @@ kulupu pi [nimi suli](#nimi-suli) li ken lon kulupu pi [nimi "pi"](#nimi-pi) ala
 
 
 `K`: ken *(eblo)*
+`@`: nasa *(stranga)*
+`©`: pu *(laŭfundamenta)*
