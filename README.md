@@ -206,8 +206,6 @@ nimi "**awen**" en nimi "**kama**" en nimi "**ken**" en nimi "**lukin**" en nimi
 ### nimi monsi
 *(Adjektivoj/Adverboj)*
 
-* ante ike pona jaki kalama lape lete moli musi nasa pakala suli wawa lili mute `K` `…`
-
 **nimi monsi** li lon monsi pi [nimi lawa](#nimi-lawa) anu [nimi suli](#nimi-suli).
 *(Adjektivo/adverbo estas malantaŭ substantivo respektive verbo.)*
 
@@ -312,15 +310,6 @@ sinpin pi nimi "mani" la nimi "nanpa" en nimi "ijo" li weka.
 * **jan** mama → mama *("persono kreanta, kreskiganta, respondeca" → gepatro)*
 * **jan** meli → meli *("persono ina" → ino)*
 * **jan** mije → mije *("persono vira" → viro)*
-
-* akesi kala pipi soweli waso `K` `…`
-
-##### nimi lawa "sijelo" pi pona weka
-*(Mankigebla Substantivo "sijelo")*
-
-* stato, korpo, formo, farto, sano `K` `…`
-* kule: jelo laso loje `K` `…`
-* (suno): pimeja walo `K` `…`
 
 #### nimi lawa lon
 *(Lokaj Substantivoj)*
@@ -451,28 +440,27 @@ toki open la nimi "**jo e**" li ken weka la ona li weka.
  * mi lukin tawa ni: mi pana e pona tawa sina. → mi **lukin** pana e pona tawa sina. *("Mi serĉas, ke mi donas bonon al vi." → Mi provas helpi vin.)* `K`
  * mi lukin tawa sina. → mi **lukin** tawa sina. *(Mi serĉas vin. → Mi provas iri al vi.)* `K`
 
-`…`
+**toki tan** la nimi pi sitelen pona tan sitelen pona tu li lon ala.
+*(En pralingvaĵo, ne ekzistas kompleksaj simplaj signoj.)*
 
-* luka uta → moku *("manipuli buŝe" → manĝi)*
-* (lon) luka ilo (pi) → kepeken *((ĉe) utila mano (de) → per)*
-* luka ijo → pali *("manipuli afere" → fari, labori)*
-* luka sin → pana *("manipuli aldone" → doni)*
-* uta sin → kalama *("kroma voĉo" → sonoro, sono)*
-* lipu sin → sona *("nova dokumento" → scio)*
-* ijo sin → toki *(novaĵo → rakonti, paroli)*
-* kule suno → jelo *("koloro de la suno" → flava)*
-* kule kasi → laso *("koloro de plantoj" → verda, blua)*
-* kule uta → loje *("koloro de la buŝo" → ruĝa)*
-* kule ala → pimeja *("neniu koloro" → nigra, malhela)*
-* kule suli → waso *("grava koloro" → blanka, hela)*
+* luka uta → moku *("manipuli buŝe" → manĝi)* `K`
+* luka ijo → pali *("manipuli afere" → fari, labori)* `K`
+* (lon) luka ilo (pi) → kepeken *((ĉe) utila mano (de) → per)* `K`
+* luka sin → pana *("manipuli aldone" → doni)* `K`
+* ijo sin → toki *(novaĵo, informo → rakonti, paroli)* `K`
+* uta sin → kalama *("kroma voĉo" → sonoro, sono)* `K`
+* lipu sin → sona *("nova paĝo" → scio)* `K`
+* (kepeken) lipu pi toki pona *("(per) la libro pri Tokipono" → interaganta kun la libro pri Tokipono)* `K`
+* kule uta → loje *("koloro de la buŝo" → ruĝa)* `K`
+* kule suno → jelo *("koloro de la suno" → flava)* `K`
+* kule kasi → laso *("koloro de plantoj" → verda, blua)* `K`
+* kule ala → pimeja *("neniu koloro" → nigra, malhela)* `K`
+* kule suli → waso *("grava koloro" → blanka, hela)* `K`
+* ijo suli → wawa *("grave granda" → forta)* `K`
+* (sama) poki lupa → open *("(kiel) ingo malplena" → malfermita)* `K`
+* pilin pilin → olin *("kore senti" → ami)* `K`
 
-* poki lupa → open *("ujo malplena" → malfermiteco)*
-* pilin pilin → olin *("senti kore" → ami)*
-* (kepeken) lipu pi toki pona *("per la libro pri Tokipono" → interaganta kun la libro pri Tokipono)*
 
-* suli ijo → wawa *("vere granda" → forta)*
-
-* lukin anpa → apeja `K`
 
 ## toki namako
 *(Kroma Lingvaĵo)*
@@ -513,7 +501,7 @@ nasin pi jan Sonja la nimi "ala" li ken lon insa pi [nimi suli](#nimi-suli) sama
 *(Kromaj Vortoj)*
 
 nasin pi jan Sonja la nimi "alasa" en nimi "esun" en nimi "pan" en nimi "pu" li lon li jo e sitelen pona.
-*(Laŭ Sonja, "alasa", "esun", "pan" kaj "pu" ekzistas kaj havas simplan simbolon.)*
+*(Laŭ Sonja, "alasa", "esun", "pan" kaj "pu" ekzistas kaj havas simplan signon.)*
 
 * **alasa** *(ĉasi)*
 * **esun** *(merkato)*
@@ -531,9 +519,9 @@ nasin pi jan Sonja la nimi "ali" en nimi "namako" en nimi "kin" en nimi "oko" li
 nasin pu la nimi namako ante li lon ala.
 *(Laŭ la oficiala libro pri Tokipono, aliaj neologismoj ne ekzistas.)*
 
-* ~~**apeja**~~ → **ike** *(malbona → fia)*
-* ~~**kipisi**~~ → **tu**, **wan** *(duigi → tranĉi, peco → tranĉo)*
-* ~~**monsuta**~~ → **akesi** *(reptilo, amfibio → monstro)*
+* **anpa lukin** → ~~**apeja**~~ *("malalta por vidi" → maldigna, fia)*
+* **akesi moli** → ~~**monsuta**~~ *("mortiga reptilo/amfibio" → monstro)*
+* (insa pi) **wan (pi ijo) tu** → ~~**kipisi**~~ *("(inter) du pecoj" → tranĉo)*
 
 ## toki ike
 *(Evitindaj Lingvaĵoj)*
@@ -626,6 +614,4 @@ kulupu pi [nimi suli](#nimi-suli) li ken lon kulupu pi [nimi "pi"](#nimi-pi) ala
 
 
 `K`: ken *(eblo)*
-`@`: nasa *(stranga)*
 `©`: pu *(laŭfundamenta)*
-```: ...
