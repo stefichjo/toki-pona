@@ -451,6 +451,23 @@ toki open la nimi "**jo e**" li ken weka la ona li weka.
  * mi lukin tawa ni: mi pana e pona tawa sina. → mi **lukin** pana e pona tawa sina. *("Mi serĉas, ke mi donas bonon al vi." → Mi provas helpi vin.)* `K`
  * mi lukin tawa sina. → mi **lukin** tawa sina. *(Mi serĉas vin. → Mi provas iri al vi.)* `K`
 
+`…`
+
+* luka uta → moku *("manipuli buŝe" → manĝi)*
+* (lon) luka ilo (pi) → kepeken *((ĉe) utila mano (de) → per)*
+* luka ijo → pali *("manipuli afere" → fari, labori)*
+* luka sin → pana *("manipuli aldone" → doni)*
+* uta sin → kalama *("kroma voĉo" → sonoro, sono)*
+* lipu sin → sona *("nova dokumento" → scio)*
+* ijo sin → toki *(novaĵo → rakonti, paroli)*
+* kule suno → jelo *("koloro de la suno" → flava)*
+* kule kasi → laso *("koloro de plantoj" → verda, blua)*
+* kule uta → loje *("koloro de la buŝo" → ruĝa)*
+* kule ala → pimeja *("neniu koloro" → nigra, malhela)*
+* kule wawa → waso *("forta koloro" → blanka, hela)*
+
+* lukin anpa → apeja `K`
+
 ## toki namako
 *(Kroma Lingvaĵo)*
 
