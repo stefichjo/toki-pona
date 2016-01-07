@@ -253,7 +253,7 @@ sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "
 * **ijo** ijo → ijo *(io ekzistanta → aĵo)* `K`
 * **ijo** ilo → ilo *(io utila → ilo)*
 * **ijo** jan → jan *(io konscia → animo, besto, persono)* `K`
-* **ijo** kasi → kasi *(io vivanta, kreskanta → planto)*
+* **ijo** kasi → kasi *(io kreskanta → planto)*
 * **ijo** kili → kili *(io rezultanta, sukcesa → frukto)*
 * **ijo** kiwen → kiwen *(io malmola → ŝtono, metalo, diamanto)*
 * **ijo** ko → ko *(io amorfa → kaĉo, amaso, pulvoro)* `K`
@@ -268,6 +268,7 @@ sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "
 * **ijo** pan → pan *(io grena, faruna → pano)*
 * **ijo** seli → seli *(io varma → fajro)*
 * **ijo** sin → sin *(io kroma, aldona, artefarita → dekoracio, lukso)*
+* **ijo** sijelo → sijelo *(io vivanta → korpo)*
 * **ijo** sitelen → sitelen *(io projekciita → bildo, skemo, modelo)* `K`
 * **ijo** suno → suno *(io hela, io brilanta → lumo, la suno)*
 * **ijo** suwi → suwi *(io dolĉa → sukero)*
