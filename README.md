@@ -443,24 +443,22 @@ toki open la nimi "**jo e**" li ken weka la ona li weka.
 **toki tan** la nimi pi sitelen pona tan sitelen pona tu li lon ala.
 *(En pralingvaĵo, ne ekzistas kompleksaj simplaj signoj.)*
 
-* luka uta → moku *("manipuli buŝe" → manĝi)* `K`
-* luka ijo → pali *("manipuli afere" → fari, labori)* `K`
-* (lon) luka ilo (pi) → kepeken *((ĉe) utila mano (de) → per)* `K`
-* luka sin → pana *("manipuli aldone" → doni)* `K`
-* ijo sin → toki *(novaĵo, informo → rakonti, paroli)* `K`
-* uta sin → kalama *("kroma voĉo" → sonoro, sono)* `K`
-* lipu sin → sona *("nova paĝo" → scio)* `K`
-* (kepeken) lipu pi toki pona *("(per) la libro pri Tokipono" → interaganta kun la libro pri Tokipono)* `K`
-* kule uta → loje *("koloro de la buŝo" → ruĝa)* `K`
-* kule suno → jelo *("koloro de la suno" → flava)* `K`
-* kule kasi → laso *("koloro de plantoj" → verda, blua)* `K`
-* kule ala → pimeja *("neniu koloro" → nigra, malhela)* `K`
-* kule suli → waso *("grava koloro" → blanka, hela)* `K`
-* ijo suli → wawa *("grave granda" → forta)* `K`
-* (sama) poki lupa → open *("(kiel) ingo malplena" → malfermita)* `K`
-* pilin pilin → olin *("kore senti" → ami)* `K`
-
-
+* **luka uta** → **moku** *("manipuli buŝe" → manĝi)* `K`
+* **luka ijo** → **pali** *("manipuli afere" → fari, labori)* `K`
+* (lon) **luka ilo** (pi) → **kepeken** *((ĉe) utila mano (de) → per)* `K`
+* **luka sin** → **pana** *("manipuli aldone" → doni)* `K`
+* **ijo sin** → **toki** *(novaĵo, informo → rakonti, paroli)* `K`
+* **uta sin** → **kalama** *("kroma voĉo" → sonoro, sono)* `K`
+* **lipu sin** → **sona** *("nova paĝo" → scio)* `K`
+* (kepeken) **lipu** (pi) **toki pona** → **pu** *("(per) la libro pri Tokipono" → interaganta kun la libro pri Tokipono)* `K`
+* **kule uta** → **loje** *("koloro de la buŝo" → ruĝa)* `K`
+* **kule suno** → **jelo** *("koloro de la suno" → flava)* `K`
+* **kule kasi** → **laso** *("koloro de plantoj" → verda, blua)* `K`
+* **kule ala** → **pimeja** *("neniu koloro" → nigra, malhela)* `K`
+* **kule suli** → **waso** *("grava koloro" → blanka, hela)* `K`
+* **ijo suli** → **wawa** *("grave granda" → forta)* `K`
+* (sama) **poki lupa** → **open** *("(kiel) ingo malplena" → malfermita)* `K`
+* **pilin pilin** → **olin** *("kore senti" → ami)* `K`
 
 ## toki namako
 *(Kroma Lingvaĵo)*
