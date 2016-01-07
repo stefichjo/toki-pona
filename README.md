@@ -464,7 +464,13 @@ toki open la nimi "**jo e**" li ken weka la ona li weka.
 * kule kasi → laso *("koloro de plantoj" → verda, blua)*
 * kule uta → loje *("koloro de la buŝo" → ruĝa)*
 * kule ala → pimeja *("neniu koloro" → nigra, malhela)*
-* kule wawa → waso *("forta koloro" → blanka, hela)*
+* kule suli → waso *("grava koloro" → blanka, hela)*
+
+* poki lupa → open *("ujo malplena" → malfermiteco)*
+* pilin pilin → olin *("senti kore" → ami)*
+* (kepeken) lipu pi toki pona *("per la libro pri Tokipono" → interaganta kun la libro pri Tokipono)*
+
+* suli ijo → wawa *("vere granda" → forta)*
 
 * lukin anpa → apeja `K`
 
