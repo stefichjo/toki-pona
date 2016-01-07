@@ -156,7 +156,7 @@ kulupu pi **nimi "la"** la nimi "lon ni:" li weka.
 
 * mi pali lon ni: mi lon tomo. → mi lon tomo **la** mi pali. *("Mi laboras ĉe tio: mi estas ĉe la domo." → Se mi estas ĉe la domo, mi laboras.)*
 
-kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi [nimi lawa lon](#nimi-lawa-lon).
+kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi [nimi lawa ma](#nimi-lawa-ma).
 *(En helpa frazero, la partikulo "la" povas manki malantaŭ loka substantivo.)*
 
 * mi pali lon taso. → taso **la** mi pali. → taso mi pali. *(Mi laboras ĉe sendependo. → Sendepende, mi laboras. → Sed mi laboras.)*
@@ -312,33 +312,33 @@ sinpin pi nimi "mani" la nimi "nanpa" en nimi "ijo" li weka.
 * **jan** meli → meli *("persono ina" → ino)*
 * **jan** mije → mije *("persono vira" → viro)*
 
-#### nimi lawa lon
+#### nimi lawa ma
 *(Lokaj Substantivoj)*
 
-**nimi lawa lon** li lon monsi pi nimi "ma" weka.
+**nimi lawa ma** li lon monsi pi nimi "ma" weka.
 *(Loka substantivo estas malantaŭ manka "ma".)*
 
-* **ma** insa → insa *("ejo interna" → interno)*
-* **ma** selo → selo *("zono eksterna" → eksterno)*
+* **ma** insa → insa *("interna loko"/"ejo" → interno)*
+* **ma** selo → selo *("eksterna loko"/"zono" → eksterno)*
 * **ma** esun → esun *("loko por interŝanĝi → merkato")* `K`
 
-poka pi nimi "lon" anu nimi "tawa" anu nimi "tan" la **nimi lawa lon** li sama [nimi monsi wawa](#nimi-monsi-wawa) sin.
+poka pi nimi "lon" anu nimi "tawa" anu nimi "tan" la **nimi lawa ma** li sama [nimi monsi wawa](#nimi-monsi-wawa) sin.
 *(Kun "lon", "tawa" aŭ "tan", loka substantivo estas kvazaŭ nova prepozicio.)*
 
 * jan pona li lon tomo tawa. *(Amiko estas ĉe la aŭto.)*
 * jan pona li lon **insa** pi tomo tawa. *("Amiko estas ĉe la interno de la aŭto." → Amiko estas en la aŭto.)*
 
-##### nimi lawa pi lon insa
-*(En-lokaj Substantivoj)*
+##### nimi lawa pi ma insa
+*(Ejaj Substantivoj)*
 
-nimi "**insa**" en nimi "**sewi**" li **nimi lawa pi lon insa**.
-*("insa" kaj "sewi" estas en-lokaj substantivoj.)*
+nimi "**insa**" en nimi "**sewi**" li **nimi lawa pi ma insa**.
+*("insa" kaj "sewi" estas ejaj substantivoj.)*
 
 * ona li lon **insa** pi tomo sona. *("Ŝi estas ĉe la interno de la lernejo." → Ŝi estas en la lernejo.)*
  * ona li **insa** lon tomo sona. *("Ŝi internas ĉe la lernejo." → Ŝi estas en la lernejo.)*
 
-sina ken **nimi lawa pi lon insa** e [nimi lawa](#nimi-lawa).
-*(Oni povas igi substantivon en-loka.)*
+sina ken **nimi lawa pi ma insa** e [nimi lawa](#nimi-lawa).
+*(Oni povas igi substantivon eja.)*
 
 * **anpa** *(malalto)*
  * pipi li lon **anpa** pi jan pona. *("Insekto estas ĉe la malalto de amiko." → Insekto estas sub amiko.)*
@@ -358,18 +358,18 @@ sina ken **nimi lawa pi lon insa** e [nimi lawa](#nimi-lawa).
  * ona li pana e telo seli lon **weka** suwi tawa mi. *("Ŝi donis al mi teon ĉe distanco de sukero." → Ŝi donis al mi teon sen sukero.)*
  * ona li **weka**. *("Ŝi estas distanca." → Ŝi estas for.)*
 
-##### nimi lawa pi lon selo
-*(Ekster-lokaj Substantivoj)*
+##### nimi lawa pi ma selo
+*(Zonaj Substantivoj)*
 
-nimi "**poka**" en nimi "**sinpin**" en nimi "**monsi**" en nimi "**noka**" li **nimi lawa pi lon selo**.
-*("monsi" kaj "noka" estas ekster-lokaj substantivoj.)*
+nimi "**poka**" en nimi "**sinpin**" en nimi "**monsi**" en nimi "**noka**" li **nimi lawa pi ma selo**.
+*("monsi" kaj "noka" estas zonaj substantivoj.)*
 
 * ona li lon **poka** pi tomo sona. *("Ŝi estas ĉe la flanko de la lernejo." → Ŝi estas apud la lernejo.)*
  * tomo sona li **poka** lon ona. *("La lernejo flankas ĉe ŝi." → Ŝi estas apud la lernejo.)*
 * ona li lon **poka ante** pi ma tomo. *("Ŝi loĝas ĉe la alia flanko de la urbo." → Ŝi loĝas trans la urbo.)*
 
-sina ken **nimi lawa pi lon selo** e [nimi lawa](#nimi-lawa).
-*(Oni povas igi substantivon ekster-loka.)*
+sina ken **nimi lawa pi ma selo** e [nimi lawa](#nimi-lawa).
+*(Oni povas igi substantivon zona.)*
 
 * **esun** *(interŝanĝo)*
  * mi moku e kili lon esun soweli. *(Mi manĝas la frukton anstataŭ la viandon.)*
@@ -592,7 +592,7 @@ kulupu pi [nimi suli](#nimi-suli) li ken lon kulupu pi [nimi "pi"](#nimi-pi) ala
 ### toki mu
 *(Slanga Lingvaĵo)*
 
-[nimi lawa lon](#nimi-lawa-lon) li ken ala kama [nimi monsi wawa](#nimi-monsi-wawa).
+[nimi lawa ma](#nimi-lawa-ma) li ken ala kama [nimi monsi wawa](#nimi-monsi-wawa).
 *(Loka substantivo ne povas fariĝi prepozicio.)*
 
 * waso li tawa ~~**sewi**~~ tomo sona. → waso li tawa lon **sewi** pi tomo sona. *(Birdo flugas super la lernejo.)*
