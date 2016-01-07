@@ -206,7 +206,7 @@ nimi "**awen**" en nimi "**kama**" en nimi "**ken**" en nimi "**lukin**" en nimi
 ### nimi monsi
 *(Adjektivoj/Adverboj)*
 
-* ... ante ike pona jaki kalama lape lete moli musi nasa pakala suli wawa lili mute `K`
+* ante ike pona jaki kalama lape lete moli musi nasa pakala suli wawa lili mute `K` `…`
 
 **nimi monsi** li lon monsi pi [nimi lawa](#nimi-lawa) anu [nimi suli](#nimi-suli).
 *(Adjektivo/adverbo estas malantaŭ substantivo respektive verbo.)*
@@ -226,6 +226,12 @@ nimi "**tan**" en nimi "**lon**" en nimi "**tawa**" en nimi "**sama**" en nimi "
 *(Prepozicio povas fariĝi simpla radika vorto.)*
 
 * ona li **tawa**. *(Ŝi iras.)*
+
+**nimi monsi wawa** "tawa" li ken jo e pilin sama "pilin ... la".
+*(La prepozicio "tawa" povas havi la proksimuman signifon "pilin ... la".)*
+
+* sina li pona **tawa** mi. *("Vi estas bona por mi." → Laŭ mi, vi estas bona.)*
+* pilin mi la sina li pona. *(Laŭ mia sento, vi estas bona.)*
 
 ### nimi lawa
 *(Substantivoj)*
@@ -307,14 +313,14 @@ sinpin pi nimi "mani" la nimi "nanpa" en nimi "ijo" li weka.
 * **jan** meli → meli *("persono ina" → ino)*
 * **jan** mije → mije *("persono vira" → viro)*
 
-* ... akesi kala pipi soweli waso `K`
+* akesi kala pipi soweli waso `K` `…`
 
 ##### nimi lawa "sijelo" pi pona weka
 *(Mankigebla Substantivo "sijelo")*
 
-* ... stato, korpo, formo, farto, sano `K`
-* ... kule: jelo laso loje `K`
-* ... (suno): pimeja walo `K`
+* stato, korpo, formo, farto, sano `K` `…`
+* kule: jelo laso loje `K` `…`
+* (suno): pimeja walo `K` `…`
 
 #### nimi lawa lon
 *(Lokaj Substantivoj)*
@@ -438,7 +444,7 @@ toki open la nimi "**jo e**" li ken weka la ona li weka.
 ## toki tan
 *(Pralingvaĵo)*
 
-toki tan la [nimi sinpin](#nimi-sinpin) li lon ala.
+**toki tan** la [nimi sinpin](#nimi-sinpin) li lon ala.
 *(En pralingvaĵo, ne ekzistas helpaj verboj.)*
 
 * mi lukin tawa sina. *("Mi rigardas por vi." → Mi serĉas vin.)* `K`
@@ -599,3 +605,4 @@ kulupu pi [nimi suli](#nimi-suli) li ken lon kulupu pi [nimi "pi"](#nimi-pi) ala
 `K`: ken *(eblo)*
 `@`: nasa *(stranga)*
 `©`: pu *(laŭfundamenta)*
+```: ...
