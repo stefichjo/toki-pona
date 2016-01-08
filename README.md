@@ -4,14 +4,27 @@
 [nimi kalama](#nimi-kalama) en [nimi ilo](#nimi-ilo) en [nimi ijo](#nimi-ijo) li nasin nimi lon toki pona.
 *(Sonimitoj, partikuloj kaj radikaj vortoj estas la vortspecoj en Tokipono.)*
 
-## nimi kalama
+## nimi ilo
+*(Partikuloj)*
+
+nimi "**anu**" en nimi "**e**" en nimi "**en**" en nimi "**la**" en nimi "**li**" en nimi "**o**" en nimi "**pi**" li **nimi ilo**.
+*("anu", "e", "en", "la", "li", "o" kaj "pi" estas partikuloj.)*
+
+* nasin **pi** toki pona *(tokiponismo)*
+
+**nimi ilo** li lon insa pi [nimi ijo](#nimi-ijo) tu.
+*(Partikulo estas inter du radikaj vortoj.)*
+
+* toki **li** pona. *(Komunikado estas bona.)* ``©``
+
+### nimi kalama
 *(Sonimitoj)*
 
-nimi "a" en nimi "mu" li **nimi kalama**.
-*("a" kaj "mu" estas sonimitoj.)*
+nimi "a" en nimi "mu" li **nimi kalama**. pu la ona li [nimi ilo][#nimi-ilo].
+*("a" kaj "mu" estas sonimitoj. Laŭ la oficiala libro pri Tokipono, ili estas partikuloj.)*
 
-* **a a a**! *(Ha ha ha!)*
-* **mu**! *(Miaŭ!)*
+* **a a a**! *(Ha ha ha!)* ``©``
+* **mu**! *(Miaŭ!)* ``©``
 
 monsi la **nimi kalama** "a" li wawa e kulupu pi [nimi suli](#nimi-suli).
 *(Malantaŭe, la sonimito "a" emfazas frazon.)*
@@ -21,7 +34,7 @@ monsi la **nimi kalama** "a" li wawa e kulupu pi [nimi suli](#nimi-suli).
 kulupu pi [nimi suli](#nimi-suli) la **nimi kalama** li lon monsi pi nimi "nimi".
 *(En frazo, sonimito estas malantaŭ la vorto "nimi".)*
 
-* nimi "**mu**" li nimi pi kalama soweli. *(La vorto "mu" estas sonimito de bestoj.)*
+* **nimi "mu**" li nimi pi kalama soweli. *(La vorto "mu" estas sonimito de bestoj.)*
 
 insa pi [nimi lawa](#nimi-lawa) en **nimi kalama** la nimi "pi nimi" li ken weka.
 *(Inter substantivo kaj sonimito, la vortoj "pi nimi" povas manki.)*
@@ -36,19 +49,6 @@ nimi "kalama e nimi" en nimi "kalama (pi) nimi" li ken kama "toki".
  * ona li toki "**Inli**". (Ŝi prononcas "Inli".)
 * ona li kalama pi nimi "**Inli**". (Ĝi estas la prononco de la vorto "Inli".)
  * ona li toki "**Inli**". (Ĝi estas la prononco "Inli".)
-
-## nimi ilo
-*(Partikuloj)*
-
-nimi "**anu**" en nimi "**e**" en nimi "**en**" en nimi "**la**" en nimi "**li**" en nimi "**o**" en nimi "**pi**" li **nimi ilo**.
-*("anu", "e", "en", "la", "li", "o" kaj "pi" estas partikuloj.)*
-
-* nasin **pi** toki pona *(tokiponismo)*
-
-**nimi ilo** li lon insa pi [nimi ijo](#nimi-ijo) tu.
-*(Partikulo estas inter du radikaj vortoj.)*
-
-* toki **li** pona. *(Komunikado estas bona.)*
 
 ### nimi "pi"
 *(La Partikulo "pi")*
@@ -159,7 +159,19 @@ kulupu pi **nimi "la"** la nimi "lon ni:" li weka.
 kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi [nimi lawa ma](#nimi-lawa-ma).
 *(En helpa frazero, la partikulo "la" povas manki malantaŭ loka substantivo.)*
 
-* mi pali lon taso. → taso **la** mi pali. → taso mi pali. *(Mi laboras ĉe sendependo. → Sendepende, mi laboras. → Sed mi laboras.)*
+* mi pali lon taso. → taso **la** mi pali. → taso mi pali. *(Mi laboras ĉe sendependo. → Sendepende, mi laboras. → Sed mi laboras.)* `K`
+
+### nimi "seme"
+*("kio")*
+
+kulupu pi [nimi suli](#nimi-suli) pi wile sona la **nimi "seme"** li lon. pu la ona li [nimi ilo](#nimi-ilo).
+*(En demanda frazo, estas "seme". Laŭ la oficiala libro pri Tokipono, ĝi estas partikulo.)*
+
+* seme li sin? *(Kio estas nova?)* ``©``
+* sina pu anu seme? *(Ĉu vi jam eklegis la oficialan libron pri Tokipono?)* ``©``
+* sina seme e ona? *(Kion vi faras al ŝi?)* ``©``
+* kala wawa li moku e seme? *(Kion manĝas ŝarko?)* ``©``
+* sina jo e ilo seme? *(Kiajn ilojn vi havas?)* ``©``
 
 ## nimi ijo
 *(Radikaj Vortoj)*
@@ -269,7 +281,7 @@ sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "
 * **ijo** pan → pan *(io grena, faruna → pano)*
 * **ijo** seli → seli *(io varma → fajro)*
 * **ijo** sin → sin *(io kroma, aldona, artefarita → dekoracio, lukso)*
-* **ijo** sijelo → sijelo *(io vivanta → korpo)*
+* **ijo** sijelo → sijelo *(io vivanta → korpo)* `K`
 * **ijo** sitelen → sitelen *(io projekciita → bildo, skemo, modelo)* `K`
 * **ijo** suno → suno *(io hela, io brilanta → lumo, la suno)*
 * **ijo** suwi → suwi *(io dolĉa → sukero)*
@@ -462,6 +474,15 @@ toki open la nimi "**jo e**" li ken weka la ona li weka.
 * (sama) **poki lupa** → **open** *("(kiel) ingo malplena" → malfermita)* `K`
 * **pilin pilin** → **olin** *("kore senti" → ami)* `K`
 
+...
+*()*
+
+* **ijo sijelo suwi/seli** → **soweli** *("dolĉa/varma besto" → mamulo)* ``K``
+* **ijo sijelo lete** → **akesi** *("malvarma besto" → reptilo, amfibio)* ``K``
+* **ijo sijelo kon** → **waso** *("aera besto" → birdo)* ``K``
+* **ijo sijelo ma** → **pipi** *("tera besto" → insekto)* ``K``
+* **ijo sijelo telo** → **kala** *("akva besto" → fiŝo)* ``K``
+
 ## toki namako
 *(Kroma Lingvaĵo)*
 
@@ -521,7 +542,7 @@ nasin pu la nimi namako ante li lon ala.
 
 * **anpa lukin** → ~~**apeja**~~ *("malalta por vidi" → maldigna, fia)*
 * **akesi moli** → ~~**monsuta**~~ *("mortiga reptilo/amfibio" → monstro)*
-* (insa pi) **wan (pi ijo) tu** → ~~**kipisi**~~ *("(inter) du pecoj" → tranĉo)*
+* (insa pi) **wan** (pi ijo) **tu** → ~~**kipisi**~~ *("(inter) du pecoj" → tranĉo)*
 
 ## toki ike
 *(Evitindaj Lingvaĵoj)*
@@ -614,4 +635,4 @@ kulupu pi [nimi suli](#nimi-suli) li ken lon kulupu pi [nimi "pi"](#nimi-pi) ala
 
 
 `K`: ken *(eblo)*
-`©`: pu *(laŭfundamenta)*
+`©`: pu *(laŭ la oficiala libro pri Tokipono)*
