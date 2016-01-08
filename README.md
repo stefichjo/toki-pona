@@ -236,6 +236,17 @@ nimi "**tan**" en nimi "**lon**" en nimi "**tawa**" en nimi "**sama**" en nimi "
 
 * ona li **tawa**. *(Ŝi iras.)*
 
+"tawa" li "kama ma ante". taso ona li "wile kama ma ante" sin.
+*("tawa" signifas "alilokiĝi"/"moviĝi". Sed ĝi ankaŭ signifas "alilokiĝemi"/"por".)*
+
+* mi lukin **tawa** sina. *("Mi rigardas por vi." → Mi serĉas vin.)*  ``K``
+ * mi lukin **tawa** sina. *(Mi provas iri al vi.)*
+
+"tawa" li "pana e pilin" sin.
+*("tawa" ankaŭ signifas "impresi".)*
+
+* sina pona **tawa** mi. *("Vi estas bona laŭ mi." → Vi plaĉas al mi. → Mi ŝatas vin)* ``K``
+
 ### nimi lawa
 *(Substantivoj)*
 
@@ -250,7 +261,7 @@ nimi "**tan**" en nimi "**lon**" en nimi "**tawa**" en nimi "**sama**" en nimi "
 sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "**ilo**" en "**jan**" li ken weka. ni la [nimi monsi](#nimi-monsi) ni li kama [nimi lawa](#nimi-lawa).
 *(Antaŭ adjektivo, la substantivoj "ijo", "ilo" kaj "jan" povas manki. Tiam tiu adjektivo fariĝas substantivo.)*
 
-* **ijo** suwi → suwi *(io dolĉa → dolĉaĵo, sukero)*
+* **ijo** suwi → suwi *(io dolĉa → dolĉaĵo)*
 
 ##### nimi lawa "ijo" pi pona weka
 *(Mankigebla Substantivo "ijo")*
@@ -279,7 +290,7 @@ sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "
 * **ijo** sijelo → sijelo *(io vivanta → korpo, besto)* `K`
 * **ijo** sitelen → sitelen *(io projekciita, skribita, pentrita → bildo, skemo, modelo)* `K`
 * **ijo** suno → suno *(io hela, io brilanta → lumo, la suno)*
-* **ijo** suwi → suwi *(io dolĉa → dolĉaĵo, sukero)*
+* **ijo** suwi → suwi *(io dolĉa → dolĉaĵo)*
 * **ijo** telo → telo *(io likva, malseka → akvo)*
 * **ijo** tenpo → tenpo *(io daŭranta → tempo)* `K`
 * **ijo** tomo → tomo *(io orda, honora → hejmo, domo)* `K`
@@ -291,13 +302,6 @@ monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#
 * **ijo pi pona** moku → moku *(io manĝebla → manĝo)*
 * **ijo pi pona** sona → sona *(io sciebla → scio)*
 
-sinpin pi nimi "mani" la nimi "nanpa" en nimi "ijo" li weka.
-*(Antaŭ "mani", "nanpa" kaj "ijo" mankas.)*
-
-* **ijo** mani → mani *(io ekvivalenta → signifo, valoro)* `K`
- * **nanpa** ~~pi ijo~~ mani → mani *(kvanto de signifo, valoro → mono)* `K`
- * **nanpa** ~~pi ijo~~ mani seme → mani pi mute seme *(kiu kvanto de signifo, valoro → kiom da mono)* `K`
-
 ##### nimi lawa "ilo" pi pona weka
 *(Mankigebla Substantivo "ilo")*
 
@@ -305,6 +309,7 @@ sinpin pi nimi "mani" la nimi "nanpa" en nimi "ijo" li weka.
 * **ilo** lawa → lawa *(ilo por estri, gvidi → kapo)*
 * **ilo** luka → luka *(ilo por atingi, manipuli → brako, mano)* `K`
 * **ilo** lukin → lukin *(ilo por vidi, rigardi → okulo)*
+* **ilo** mani → mani *(ilo ekvivalenta, anstataŭanta → substituto, mono)* `K`
 * **ilo** noka → noka *(ilo por stari → gambo, piedo)* `K`
 * **ilo** palisa → palisa *(ilo por indiki, direkti → fingro)* `K`
 * **ilo** pilin → pilin *(ilo por senti → emocio, koro)*
@@ -363,7 +368,7 @@ jan ken **nimi lawa pi ma insa** e [nimi lawa](#nimi-lawa).
  * mi lon **taso** pi jan pona. *("Mi estas ĉe sendependo de amiko." → Mi estas sen amiko.)* ``K``
  * ona li **taso**. *("Ŝi estas sendependa." → Ŝi estas libera.)* ``K``
 * **weka** *(distanco)* ``K``
- * ona li pana e telo seli lon **weka** suwi tawa mi. *("Ŝi donis al mi teon ĉe distanco de sukero." → Ŝi donis al mi teon sen sukero.)* ``K``
+ * ona li pana e telo seli lon **weka** pi ko suwi tawa mi. *("Ŝi donis al mi teon ĉe distanco de sukero." → Ŝi donis al mi teon sen sukero.)* ``K``
  * ona li **weka**. *("Ŝi estas distanca." → Ŝi estas for.)* ``K``
 
 ##### nimi lawa pi ma selo
@@ -379,19 +384,19 @@ nimi "**poka**" en nimi "**sinpin**" en nimi "**monsi**" en nimi "**noka**" li *
 jan ken **nimi lawa pi ma selo** e [nimi lawa](#nimi-lawa).
 *(Oni povas igi substantivon zona.)*
 
-* **esun** *(interŝanĝo)*
- * mi moku e kili lon esun soweli. *(Mi manĝas la frukton anstataŭ la viandon.)*
-* **nasin** *(maniero)*
- * nasin mi la ni. *(Laŭ mi, jes.)* 
+* **esun** *(interŝanĝo)* ``K``
+ * mi pana e tomo tawa lon esun pi kiwen jelo. *(Mi vendis mian aŭton kontraŭ oro.)* ``K``
+* **mani** *(anstataŭo)* ``K``
+ * mi moku e kili lon mani pi sike mama waso. *(Mi manĝas frukton anstataŭ ovon.)* ``K``
 * **selo** *(eksterno)*
- * mi awen lon **selo** tomo. *("Mi atendas ĉe la eksterno de la domo." → Mi atendas ekster la domo.)*
- * mi tawa **selo** tomo. *("Mi iras al la eksterno de la domo." → Mi iras el la domo.)*
-* **sike** *(kurbiĝo)*
- * mi tawa lon **sike** tomo. *("Mi iras ĉe la kurbiĝo de la domo." → Mi iras ĉirkaŭ la domo.)*
-* **supa** *(faco)*
- * waso li lon **supa** pi tomo tawa. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)*
-* **utala** *(konflikto)*
- * jan lili li musi lon **utala** pi jan suli. *("Infano ludas en konflikto de plenkreskulo." → Infano ludas kontraŭ plenkreskulo.)*
+ * mi awen lon **selo** tomo. *("Mi atendas ĉe la eksterno de la domo." → Mi atendas ekster la domo.)* ``K``
+ * mi tawa **selo** tomo. *("Mi iras al la eksterno de la domo." → Mi iras el la domo.)* ``K``
+* **sike** *(kurbiĝo)* ``K``
+ * mi tawa lon **sike** tomo. *("Mi iras ĉe la kurbiĝo de la domo." → Mi iras ĉirkaŭ la domo.)* ``K``
+* **supa** *(faco)* ``K``
+ * waso li lon **supa** pi tomo tawa. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)* ``K``
+* **utala** *(konflikto)* ``K``
+ * jan lili li musi lon **utala** pi jan suli. *("Infano ludas en konflikto de plenkreskulo." → Infano ludas kontraŭ plenkreskulo.)* ``K``
 
 ### nimi nanpa
 *(Numeraloj)*
