@@ -20,8 +20,8 @@ nimi "**anu**" en nimi "**e**" en nimi "**en**" en nimi "**la**" en nimi "**li**
 ### nimi kalama
 *(Sonimitoj)*
 
-nimi "a" en nimi "mu" li **nimi kalama**. pu la ona li [nimi ilo][#nimi-ilo].
-*("a" kaj "mu" estas sonimitoj. Laŭ la oficiala libro pri Tokipono, ili estas partikuloj.)*
+nimi "a" en nimi "mu" li **nimi kalama**. ona li sama kulupu sin pi [nimi suli](#nimi-suli). taso pu la ona li **nimi ilo**.
+*("a" kaj "mu" estas sonimitoj. Ili estas kiel propraj frazoj. Sed laŭ la oficiala libro pri Tokipono, ili estas partikuloj.)*
 
 * **a a a**! *(Ha ha ha!)* ``©``
 * **mu**! *(Miaŭ!)* ``©``
@@ -164,8 +164,8 @@ kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi [nimi lawa ma]
 ### nimi "seme"
 *("kio")*
 
-kulupu pi [nimi suli](#nimi-suli) pi wile sona la **nimi "seme"** li lon. pu la ona li [nimi ilo](#nimi-ilo).
-*(En demanda frazo, estas "seme". Laŭ la oficiala libro pri Tokipono, ĝi estas partikulo.)*
+kulupu pi [nimi suli](#nimi-suli) pi wile sona la **nimi "seme"** li lon. ona li sama [nimi-ijo](#nimi-ijo). taso pu la ona li [nimi ilo](#nimi-ilo).
+*(En demanda frazo, estas "seme". Ĝi estas kiel radika vorto. Sed laŭ la oficiala libro pri Tokipono, ĝi estas partikulo.)*
 
 * seme li sin? *(Kio estas nova?)* ``©``
 * sina pu anu seme? *(Ĉu vi jam eklegis la oficialan libron pri Tokipono?)* ``©``
@@ -194,7 +194,7 @@ kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi [
 nimi "**alasa**" en nimi "**jo**" en nimi "**kute**" en nimi "**lawa**" en nimi "**lukin**" en nimi "**moku**" en nimi "**olin**" en nimi "**pali**" en nimi "**pana**" en nimi "**sona**" en nimi "**toki**" en nimi "**unpa**" en nimi "**utala**" li **nimi suli palisa**. tan ni la ona li jo e kulupu pi [nimi "e"](#nimi-e).
 *("alasa", "jo", "kute", "lawa", "lukin", "moku", "olin", "pali", "pana", "sona", "toki", "unpa" kaj "utala" estas transitivaj verboj. Tial, ili havas rektan objekton.)*
 
-* mi **olin** e sina. *(Mi amas vin.)*
+* mi **olin e sina**. *(Mi amas vin.)*
 
 monsi pi **nimi suli palisa** la kulupu pi [nimi "e"](#nimi-e) li ken weka. ni la pilin pi **nimi suli palisa** ni li awen sama.
 *(Malantaŭ transitiva verbo, la rekta objekto povas manki. Tiam, la signifo de tiu transitiva verbo restas la sama.)*
