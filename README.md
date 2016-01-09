@@ -236,14 +236,19 @@ nimi "**tan**" en nimi "**lon**" en nimi "**tawa**" en nimi "**sama**" en nimi "
 
 * ona li **tawa**. *(Ŝi iras.)*
 
-"tawa" li "kama ma ante". taso ona li "wile kama ma ante" sin.
-*("tawa" signifas "alilokiĝi"/"moviĝi". Sed ĝi ankaŭ signifas "alilokiĝemi"/"por".)*
+kon pi nimi "lon" li ken kon pi nimi "weka ala".
+*(La signifo de "lon" povas esti "weka ala".)*
+
+* mi **lon** e sina. *("Mi malizolas vin." → Mi vekas vin.)*
+
+kon pi nimi "tawa" li ken kon pi nimi "kama ma ante". taso ona li ken kon pi nimi "wile kama ma ante" sin.
+*(La signifo de "tawa" povas esti "alilokiĝi"/"moviĝi". Sed ĝi ankaŭ povas signifi "alilokiĝemi"/"por".)*
 
 * mi lukin **tawa** sina. *("Mi rigardas por vi." → Mi serĉas vin.)*  ``K``
  * mi lukin **tawa** sina. *(Mi provas iri al vi.)*
 
-"tawa" li "pana e pilin" sin.
-*("tawa" ankaŭ signifas "impresi".)*
+kon pi nimi "tawa" li ken kon pi nimi "pana e pilin" sin.
+*(La signifo de "tawa" ankaŭ povas esti "impresi".)*
 
 * sina pona **tawa** mi. *("Vi estas bona laŭ mi." → Vi plaĉas al mi. → Mi ŝatas vin)* ``K``
 
@@ -256,8 +261,9 @@ nimi "**tan**" en nimi "**lon**" en nimi "**tawa**" en nimi "**sama**" en nimi "
 * **jan** *(homo)*
 
 #### nimi lawa pi pona weka
+*(Mankigeblaj Substantivoj)*
 #### nimi lawa weka
-*(Manka Substantivoj)*
+*(Mankaj Substantivoj)*
 
 sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "**ilo**" en "**jan**" li ken weka. ni la [nimi monsi](#nimi-monsi) ni li kama [nimi lawa](#nimi-lawa).
 *(Antaŭ adjektivo, la substantivoj "ijo", "ilo" kaj "jan" povas manki. Tiam, tiu adjektivo fariĝas substantivo.)*
@@ -276,7 +282,7 @@ sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "
 * **ijo** kili → kili *(io rezultanta, sukcesa → frukto)* ``K``
 * **ijo** kiwen → kiwen *(io malmola → ŝtono, metalo, diamanto)*
 * **ijo** ko → ko *(io amorfa → kaĉo, amaso, pulvoro)* `K`
-* **ijo** kon → kon *(io ŝvebanta → gaso, aero)* `K`
+* **ijo** kon → kon *(io ŝvebanta → gaso, aero, spirito)* `K`
 * **ijo** kule → kule *(io ŝajnanta → aspekto, koloro)* ``K``
 * **ijo** len → len *(io pendigita, pendanta → vestaĵo)* `K`
 * **ijo** linja → linja *(io longa, fleksebla → linio, haro)*
@@ -333,6 +339,7 @@ nimi "ala" en nimi "ale" la nimi "mute pi ijo" li ken weka.
 * **jan** mama → mama *("kreanto, kreskiganto" → gepatro)*
 * **jan** meli → meli *("inulo" → ino)*
 * **jan** mije → mije *("virulo" → viro)*
+* **jan** sewi → sewi *("ĉielulo" → dio)*
 
 #### nimi lawa ma
 *(Lokaj Substantivoj)*
@@ -362,21 +369,17 @@ nimi "**insa**" en nimi "**sewi**" li **nimi lawa pi ma insa**.
 jan ken **nimi lawa pi ma insa** e [nimi lawa](#nimi-lawa).
 *(Oni povas igi substantivon eja.)*
 
-* **anpa** *(malalto)*
+* **ma** anpa → anpa *("malalta loko" → malalto)*
  * pipi li lon **anpa** pi jan pona. *("Insekto estas ĉe la malalto de amiko." → Insekto estas sub amiko.)*
-* **ante** *(diverso)*
- * ona li suli lon **ante** mi. *("Ŝi estas granda ĉe diverso de mi." → Ŝi estas pli granda ol mi.)* ``K``
-* **kulupu** *(grupo)*
- * mi lon **kulupu** pi jan pona. *("Mi estas en grupo de amikoj." → Mi estas inter amikoj.)* ``K``
-* **lawa** *(supro)* ``K``
+* **ma** lawa → lawa *("kapa loko" → supro)* ``K``
  * kon li pona lon **lawa** nena. *("La aero estas bona ĉe la supro de la monto." → La aero estas bona supre de la monto.)* ``K``
-* **open** *(malfermiteco)* ``K``
- * mi tawa lon **open** pi lupa tomo. *("Mi iras ĉe la malfermiteco de la pordo de la domo." → "Mi iras tra la pordo de la domo.")* ``K``
+* **ma** open → open *("malfermita loko" → trairejo)* ``K``
+ * mi tawa lon **open** pi lupa tomo. *("Mi iras ĉe la trairejo de la pordo de la domo." → "Mi iras tra la pordo de la domo.")* ``K``
  * mi tawa lon **open** pi poka tomo. *("Mi iras tra la apudo de la domo." → Mi iras preter la domo.)* ``K``
-* **taso** *(sendependo)* ``K``
+* **ma** taso → taso *(libera loko → sendependo)* ``K``
  * mi lon **taso** pi jan pona. *("Mi estas ĉe sendependo de amiko." → Mi estas sen amiko.)* ``K``
- * ona li **taso**. *("Ŝi estas sendependa." → Ŝi estas libera.)* ``K``
-* **weka** *(distanco)* ``K``
+ * ona li **taso**. *(Ŝi estas libera.)* ``K``
+* **ma** weka → weka *("izolita loko" → distanco)* ``K``
  * ona li pana e telo seli lon **weka** pi ko suwi tawa mi. *("Ŝi donis al mi teon ĉe distanco de sukero." → Ŝi donis al mi teon sen sukero.)* ``K``
  * ona li **weka**. *("Ŝi estas distanca." → Ŝi estas for.)* ``K``
 
