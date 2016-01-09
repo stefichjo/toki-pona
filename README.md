@@ -303,6 +303,22 @@ sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "
 * **ijo** tenpo → tenpo *(io daŭranta → tempo)* `K`
 * **ijo** tomo → tomo *(io orda, honora → hejmo, domo)* `K`
 
+nimi "ala" en nimi "ale" la nimi "mute pi ijo" li ken weka.
+*(Ĉe "ala" kaj "ale" povas manki "mute pi ijo".)*
+
+* **mute pi ijo** ala → ala *("kvanto de nenio" → neniom)*
+* **mute pi ijo** ale → ale *("kvanto de ĉio" → ĉiom)*
+
+nimi "ijo sijelo (pilin)" li ken weka.
+*("ijo sijelo (pilin)" povas manki.)*
+
+* **ijo sijelo** jan → jan *("anima besto" → homo)*
+* **ijo sijelo** soweli → soweli *("dolĉa besto" → mamulo)*
+* **ijo sijelo** akesi → akesi *("malica besto" → amfibio, reptilo)*
+* **ijo sijelo** waso → waso *("fluganta besto" → birdo)*
+* **ijo sijelo** pipi → pipi *("rampanta besto" → insekto)*
+* **ijo sijelo** kala → kala *("naĝanta besto" → fiŝo)*
+
 monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) "pona" li ken weka. ni la monsi pi nimi "ijo pi pona" weka la [nimi monsi](#nimi-monsi) ni li kama [nimi lawa](#nimi-lawa).
 *(Malantaŭ manka "ijo", antaŭ adjektivo, la substantivo "pona" povas manki. Tiam, malantaŭ "ijo pi pona", tiu adjektivo fariĝas substantivo.)*
 
@@ -310,12 +326,6 @@ monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#
 * **ijo pi pona** moku → moku *(io manĝebla → manĝo)*
 * **ijo pi pona** sona → sona *(io sciebla → scio)*
 
-nimi "ala" en nimi "ale" la nimi "mute pi ijo" li ken weka.
-
-*(Ĉe "ala" kaj "ale" povas manki "mute pi ijo".)*
-
-* **mute pi ijo** ala → ala *("kvanto de nenio" → neniom)*
-* **mute pi ijo** ale → ale *("kvanto de ĉio" → ĉiom)*
 
 ##### nimi lawa weka "ilo"
 *(Manka Substantivo "ilo")*
@@ -484,11 +494,12 @@ toki open la nimi "**jo e**" li ken weka la ona li weka.
 * (sama) **poki lupa** → **open** *("(kiel) ingo malplena" → malfermita)* `K`
 * **pilin pilin** → **olin** *("kore senti" → ami)* `K`
 
-ken la toki tan la nimi pi ijo sijelo li lon ala.
+ken la toki tan la nimi pi ijo sijelo pilin li lon ala.
 *(Eble, en pralingvaĵo, la nomoj de bestoj ne ekzistis.)*
 
-* **ijo sijelo suwi/seli** → **soweli** *("dolĉa/varma besto" → mamulo)* ``K``
-* **ijo sijelo lete** → **akesi** *("malvarma besto" → reptilo, amfibio)* ``K``
+* **ijo sijelo sona** → **jan** *("scianta besto" → homo)* ``K``
+* **ijo sijelo seli** → **soweli** *("varma besto" → mamulo)* ``K``
+* **ijo sijelo lete** → **akesi** *("malvarma besto" → amfibio, reptilo)* ``K``
 * **ijo sijelo kon** → **waso** *("aera besto" → birdo)* ``K``
 * **ijo sijelo ma** → **pipi** *("tera besto" → insekto)* ``K``
 * **ijo sijelo telo** → **kala** *("akva besto" → fiŝo)* ``K``
@@ -551,7 +562,7 @@ nasin pu la nimi namako ante li lon ala.
 *(Laŭ la oficiala libro pri Tokipono, aliaj neologismoj ne ekzistas.)*
 
 * **anpa lukin** → ~~**apeja**~~ *("malalta por vidi" → maldigna, fia)*
-* **akesi moli** → ~~**monsuta**~~ *("mortiga reptilo/amfibio" → monstro)*
+* **jan akesi** → ~~**monsuta**~~ *("maliculo" → monstro)*
 * (insa pi) **wan** (pi ijo) **tu** → ~~**kipisi**~~ *("(inter) du pecoj" → tranĉo)*
 
 ## toki ike
