@@ -164,7 +164,7 @@ kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi [nimi lawa ma]
 ### nimi "seme"
 *("kio")*
 
-kulupu pi [nimi suli](#nimi-suli) pi wile sona la **nimi "seme"** li lon. ona li sama [nimi-ijo](#nimi-ijo). taso pu la ona li [nimi ilo](#nimi-ilo).
+kulupu pi [nimi suli](#nimi-suli) pi wile sona la **nimi "seme"** li lon. ona li sama [nimi ijo](#nimi-ijo). taso pu la ona li [nimi ilo](#nimi-ilo).
 *(En demanda frazo, estas "seme". Ĝi estas kiel radika vorto. Sed laŭ la oficiala libro pri Tokipono, ĝi estas partikulo.)*
 
 * seme li sin? *(Kio estas nova?)* ``©``
@@ -657,3 +657,22 @@ kulupu pi [nimi suli](#nimi-suli) li ken lon kulupu pi [nimi "pi"](#nimi-pi) ala
 
 `K`: ken *(eblo)*
 `©`: pu *(laŭ la oficiala libro pri Tokipono)*
+
+```
+aÖX¢8…≠YA»+æ
+O T…&… Gα ←♈
+K Q……S△……)- 
+Ø…⚹>v~□ ÷50U
+⊕…♉♀e♂ †[……Ü
+3#@↑…↓……o ……
+⚡ |ŭ …♡ IÏ……
+ ©=……?wE…*6]
+… …V⊙π^¶Ͱ→≈⌚
+ ⌂2♋D… 14 …W
+```
+
+* ``:( :)``
+* ``△⊙ △♈ △D △X △V``
+* ``5T 5D 5O 5*``
+* ``D* □* O*``
+* ``♡♡ OV``
