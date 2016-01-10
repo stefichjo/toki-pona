@@ -15,7 +15,7 @@ nimi "**anu**" en nimi "**e**" en nimi "**en**" en nimi "**la**" en nimi "**li**
 **nimi ilo** li lon insa pi [nimi ijo](#nimi-ijo) tu.
 *(Partikulo estas inter du radikaj vortoj.)*
 
-* toki **li** pona. *(Komunikado estas bona.)* ``©``
+* toki **li** pona. *(Komunikado estas bona.)* `©`
 
 ### nimi kalama
 *(Sonimitoj)*
@@ -23,8 +23,8 @@ nimi "**anu**" en nimi "**e**" en nimi "**en**" en nimi "**la**" en nimi "**li**
 nimi "a" en nimi "mu" li **nimi kalama**. ona li sama kulupu sin pi [nimi suli](#nimi-suli). taso pu la ona li **nimi ilo**.
 *("a" kaj "mu" estas sonimitoj. Ili estas kiel propraj frazoj. Sed laŭ la oficiala libro pri Tokipono, ili estas partikuloj.)*
 
-* **a a a**! *(Ha ha ha!)* ``©``
-* **mu**! *(Miaŭ!)* ``©``
+* **a a a**! *(Ha ha ha!)* `©`
+* **mu**! *(Miaŭ!)* `©`
 
 monsi la **nimi kalama** "a" li wawa e kulupu pi [nimi suli](#nimi-suli).
 *(Malantaŭe, la sonimito "a" emfazas frazon.)*
@@ -167,11 +167,11 @@ kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi [nimi lawa ma]
 kulupu pi [nimi suli](#nimi-suli) pi wile sona la **nimi "seme"** li lon. ona li sama [nimi ijo](#nimi-ijo). taso pu la ona li [nimi ilo](#nimi-ilo).
 *(En demanda frazo, estas "seme". Ĝi estas kiel radika vorto. Sed laŭ la oficiala libro pri Tokipono, ĝi estas partikulo.)*
 
-* seme li sin? *(Kio estas nova?)* ``©``
-* sina pu anu seme? *(Ĉu vi jam eklegis la oficialan libron pri Tokipono?)* ``©``
-* sina seme e ona? *(Kion vi faras al ŝi?)* ``©``
-* kala wawa li moku e seme? *(Kion manĝas ŝarko?)* ``©``
-* sina jo e ilo seme? *(Kiajn ilojn vi havas?)* ``©``
+* seme li sin? *(Kio estas nova?)* `©`
+* sina pu anu seme? *(Ĉu vi jam eklegis la oficialan libron pri Tokipono?)* `©`
+* sina seme e ona? *(Kion vi faras al ŝi?)* `©`
+* kala wawa li moku e seme? *(Kion manĝas ŝarko?)* `©`
+* sina jo e ilo seme? *(Kiajn ilojn vi havas?)* `©`
 
 ## nimi ijo
 *(Radikaj Vortoj)*
@@ -244,13 +244,13 @@ kon pi nimi "lon" li ken kon pi nimi "weka ala".
 kon pi nimi "tawa" li ken kon pi nimi "kama ma ante". taso ona li ken kon pi nimi "wile kama ma ante" sin.
 *(La signifo de "tawa" povas esti "alilokiĝi"/"moviĝi". Sed ĝi ankaŭ povas signifi "alilokiĝemi"/"por".)*
 
-* mi lukin **tawa** sina. *("Mi rigardas por vi." → Mi serĉas vin.)*  ``K``
+* mi lukin **tawa** sina. *("Mi rigardas por vi." → Mi serĉas vin.)*  `K`
  * mi lukin **tawa** sina. *(Mi provas iri al vi.)*
 
 kon pi nimi "tawa" li ken kon pi nimi "pana e pilin" sin.
 *(La signifo de "tawa" ankaŭ povas esti "impresi".)*
 
-* sina pona **tawa** mi. *("Vi estas bona laŭ mi." → Vi plaĉas al mi. → Mi ŝatas vin)* ``K``
+* sina pona **tawa** mi. *("Vi estas bona laŭ mi." → Vi plaĉas al mi. → Mi ŝatas vin)* `K`
 
 ### nimi lawa
 *(Substantivoj)*
@@ -276,25 +276,26 @@ sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "
 * **ijo** ala → ala *(io nula → nenio)* `K`
 * **ijo** ale → ale *(io tuta → ĉio)*
 * **ijo** ijo → ijo *(io ekzistanta, reala, efektiva → afero, fakto, objekto, aĵo, io, materio, materialo)* `K`
-* **ijo** ilo → ilo *(io utila → ilo)* ``K``
+* **ijo** ilo → ilo *(io utila → ilo)* `K`
 * **ijo** jan → jan *(io konscia, anima → persono, ulo, homo)* `K`
-* **ijo** kasi → kasi *(io kreskanta → planto)* ``K``
-* **ijo** kili → kili *(io rezultanta, sukcesa → frukto)* ``K``
+* **ijo** kasi → kasi *(io kreskanta → planto)* `K`
+* **ijo** kili → kili *(io rezultanta, sukcesa → frukto)* `K`
 * **ijo** kiwen → kiwen *(io malmola → ŝtono, metalo, diamanto)*
 * **ijo** ko → ko *(io amorfa → kaĉo, amaso, pulvoro)* `K`
 * **ijo** kon → kon *(io ŝvebanta → gaso, aero, spirito)* `K`
-* **ijo** kule → kule *(io ŝajnanta → aspekto, koloro)* ``K``
+* **ijo** kule → kule *(io ŝajnanta → aspekto, koloro)* `K`
 * **ijo** len → len *(io pendigita, pendanta → vestaĵo)* `K`
 * **ijo** linja → linja *(io longa, fleksebla → linio, haro)*
 * **ijo** lipu → lipu *(io ebena → folio)* `K`
 * **ijo** lupa → lupa *(io malplena → truo, kavo)* `K`
 * **ijo** ma → ma *(io fekunda → grundo, tero, tereno, loko)* `K`
 * **ijo** mun → mun *(io akompananta, altirita → partnero, la luno)* `K`
+* **ijo** nanpa → nanpa *(io nombrita, cifereca, diĝita → numero)* `K`
 * **ijo** nena → nena *(io faldita → ŝvelaĵo, monto)* `K`
 * **ijo** pan → pan *(io grena, faruna → pano)*
 * **ijo** seli → seli *(io varma → fajro)*
 * **ijo** sike → sike *(io kurba, ronda → cirklo, sfero)*
-* **ijo** sin → sin *(io kroma, aldona, artefarita → dekoracio, lukso)* ``K``
+* **ijo** sin → sin *(io kroma, aldona, artefarita → dekoracio, lukso)* `K`
 * **ijo** sijelo → sijelo *(io vivanta → korpo, besto)* `K`
 * **ijo** sitelen → sitelen *(io projekciita, skribita, pentrita → bildo, skemo, modelo)* `K`
 * **ijo** suno → suno *(io hela, io brilanta → lumo, la suno)*
@@ -302,12 +303,16 @@ sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "
 * **ijo** telo → telo *(io likva, malseka → akvo)*
 * **ijo** tenpo → tenpo *(io daŭranta → tempo)* `K`
 * **ijo** tomo → tomo *(io orda, honora → hejmo, domo)* `K`
+* **ijo** tu → tu *(io dividita → paro, duopo)* `K`
+* **ijo** wan → wan *(io unika, unueca → elemento, membro, ero, peco, unuo)*
 
-nimi "ala" en nimi "ale" la nimi "mute pi ijo" li ken weka.
-*(Ĉe "ala" kaj "ale" povas manki "mute pi ijo".)*
+nimi "ala" en nimi "ale" en nimi "wan" en nimi "tu" la nimi "mute pi ijo" li ken weka.
+*(Ĉe "ala", "ale", "wan" kaj "tu" povas manki "mute pi ijo".)*
 
 * **mute pi ijo** ala → ala *("kvanto de nenio" → neniom)*
 * **mute pi ijo** ale → ale *("kvanto de ĉio" → ĉiom)*
+* **mute pi ijo** wan → wan *("kvanto de io unika" → unu)*
+* **mute pi ijo** tu → tu *("kvanto de io dividita" → du)* `K`
 
 nimi "ijo sijelo (pilin)" li ken weka.
 *("ijo sijelo (pilin)" povas manki.)*
@@ -325,7 +330,6 @@ monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#
 * **ijo pi pona** len → len *(io pendigebla → vesto)* `K`
 * **ijo pi pona** moku → moku *(io manĝebla → manĝo)*
 * **ijo pi pona** sona → sona *(io sciebla → scio)*
-
 
 ##### nimi lawa weka "ilo"
 *(Manka Substantivo "ilo")*
@@ -381,17 +385,17 @@ jan ken **nimi lawa pi ma insa** e [nimi lawa](#nimi-lawa).
 
 * **ma** anpa → anpa *("malalta loko" → malalto)*
  * pipi li lon **anpa** pi jan pona. *("Insekto estas ĉe la malalto de amiko." → Insekto estas sub amiko.)*
-* **ma** lawa → lawa *("kapa loko" → supro)* ``K``
- * kon li pona lon **lawa** nena. *("La aero estas bona ĉe la supro de la monto." → La aero estas bona supre de la monto.)* ``K``
-* **ma** open → open *("malfermita loko" → trairejo)* ``K``
- * mi tawa lon **open** pi lupa tomo. *("Mi iras ĉe la trairejo de la pordo de la domo." → "Mi iras tra la pordo de la domo.")* ``K``
- * mi tawa lon **open** pi poka tomo. *("Mi iras tra la apudo de la domo." → Mi iras preter la domo.)* ``K``
-* **ma** taso → taso *(libera loko → sendependo)* ``K``
- * mi lon **taso** pi jan pona. *("Mi estas ĉe sendependo de amiko." → Mi estas sen amiko.)* ``K``
- * ona li **taso**. *(Ŝi estas libera.)* ``K``
-* **ma** weka → weka *("izolita loko" → distanco)* ``K``
- * ona li pana e telo seli lon **weka** pi ko suwi tawa mi. *("Ŝi donis al mi teon ĉe distanco de sukero." → Ŝi donis al mi teon sen sukero.)* ``K``
- * ona li **weka**. *("Ŝi estas distanca." → Ŝi estas for.)* ``K``
+* **ma** lawa → lawa *("kapa loko" → supro)* `K`
+ * kon li pona lon **lawa** nena. *("La aero estas bona ĉe la supro de la monto." → La aero estas bona supre de la monto.)* `K`
+* **ma** open → open *("malfermita loko" → trairejo)* `K`
+ * mi tawa lon **open** pi lupa tomo. *("Mi iras ĉe la trairejo de la pordo de la domo." → "Mi iras tra la pordo de la domo.")* `K`
+ * mi tawa lon **open** pi poka tomo. *("Mi iras tra la apudo de la domo." → Mi iras preter la domo.)* `K`
+* **ma** taso → taso *(libera loko → sendependo)* `K`
+ * mi lon **taso** pi jan pona. *("Mi estas ĉe sendependo de amiko." → Mi estas sen amiko.)* `K`
+ * ona li **taso**. *(Ŝi estas libera.)* `K`
+* **ma** weka → weka *("izolita loko" → distanco)* `K`
+ * ona li pana e telo seli lon **weka** pi ko suwi tawa mi. *("Ŝi donis al mi teon ĉe distanco de sukero." → Ŝi donis al mi teon sen sukero.)* `K`
+ * ona li **weka**. *("Ŝi estas distanca." → Ŝi estas for.)* `K`
 
 ##### nimi lawa pi ma selo
 *(Zonaj Substantivoj)*
@@ -406,28 +410,28 @@ nimi "**poka**" en nimi "**sinpin**" en nimi "**monsi**" en nimi "**noka**" li *
 jan ken **nimi lawa pi ma selo** e [nimi lawa](#nimi-lawa).
 *(Oni povas igi substantivon zona.)*
 
-* **esun** *(interŝanĝo)* ``K``
- * mi pana e tomo tawa lon esun pi kiwen jelo. *(Mi vendis mian aŭton kontraŭ oro.)* ``K``
-* **mani** *(anstataŭo)* ``K``
- * mi moku e kili lon mani pi sike mama waso. *(Mi manĝas frukton anstataŭ ovon.)* ``K``
+* **esun** *(interŝanĝo)* `K`
+ * mi pana e tomo tawa lon esun pi kiwen jelo. *(Mi vendis mian aŭton kontraŭ oro.)* `K`
+* **mani** *(anstataŭo)* `K`
+ * mi moku e kili lon mani pi sike mama waso. *(Mi manĝas frukton anstataŭ ovon.)* `K`
 * **selo** *(eksterno)*
- * mi awen lon **selo** tomo. *("Mi atendas ĉe la eksterno de la domo." → Mi atendas ekster la domo.)* ``K``
- * mi tawa **selo** tomo. *("Mi iras al la eksterno de la domo." → Mi iras el la domo.)* ``K``
-* **sike** *(kurbiĝo)* ``K``
- * mi tawa lon **sike** tomo. *("Mi iras ĉe la kurbiĝo de la domo." → Mi iras ĉirkaŭ la domo.)* ``K``
-* **supa** *(faco)* ``K``
- * waso li lon **supa** pi tomo tawa. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)* ``K``
+ * mi awen lon **selo** tomo. *("Mi atendas ĉe la eksterno de la domo." → Mi atendas ekster la domo.)* `K`
+ * mi tawa **selo** tomo. *("Mi iras al la eksterno de la domo." → Mi iras el la domo.)* `K`
+* **sike** *(kurbiĝo)* `K`
+ * mi tawa lon **sike** tomo. *("Mi iras ĉe la kurbiĝo de la domo." → Mi iras ĉirkaŭ la domo.)* `K`
+* **supa** *(faco)* `K`
+ * waso li lon **supa** pi tomo tawa. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)* `K`
 
-### nimi nanpa
+### nimi pi ijo mute
 *(Numeraloj)*
 
-nimi "**wan**" en nimi "**tu**" li **nimi nanpa**.
+nimi "**wan**" en nimi "**tu**" li **nimi pi ijo mute**.
 *("wan" kaj "tu" estas numeraloj.)*
 
 * kili **tu** *(du fruktoj)*
 * kili pi nanpa **tu** *(la dua frukto)*
 
-pu la jan ken weka e [nimi "en"](#nimi-en) lon insa pi [nimi nanpa](#nimi-nanpa).
+pu la jan ken weka e [nimi "en"](#nimi-en) lon insa pi **nimi pi ijo mute**.
 *(Laŭ la oficiala libro pri Tokipono, oni povas mankigi "en" inter numeraloj.)*
 
 * kili pi tu en wan → kili tu wan *(tri fruktoj)*
@@ -438,7 +442,7 @@ pu la jan ken weka e [nimi "en"](#nimi-en) lon insa pi [nimi nanpa](#nimi-nanpa)
 toki open la pilin nimi li ken tu la [nimi lawa weka](#nimi-lawa-weka) li weka ala.
 *(En klara lingvaĵo, se la senco de vortoj povas esti ambigua, manka substantivo malmankas.)*
 
-* lupa meli li ~~mama ale~~. → lupa meli li mama pi **ijo** ale. *(~~La sino de virino estas ĉiu gepatro.~~ → La sino de virino estas la kreanto de ĉio.)* ``©``
+* lupa meli li ~~mama ale~~. → lupa meli li mama pi **ijo** ale. *(~~La sino de virino estas ĉiu gepatro.~~ → La sino de virino estas la kreanto de ĉio.)* `©`
 * kili ni li ~~mi~~. → kili ni li **ijo** mi. *(~~Tiu frukto estas mi.~~ → Tiu frukto estas mia.)*
 
 toki open la nimi "**kama**" li ken weka lon ni taso: ona li [nimi (suli palisa) sinpin](#nimi-suli-palisa-sinpin).
@@ -497,12 +501,12 @@ toki open la nimi "**jo e**" li ken weka la ona li weka.
 ken la toki tan la nimi pi ijo sijelo pilin li lon ala.
 *(Eble, en pralingvaĵo, la nomoj de bestoj ne ekzistis.)*
 
-* **ijo sijelo sona** → **jan** *("scianta besto" → homo)* ``K``
-* **ijo sijelo seli** → **soweli** *("varma besto" → mamulo)* ``K``
-* **ijo sijelo lete** → **akesi** *("malvarma besto" → amfibio, reptilo)* ``K``
-* **ijo sijelo kon** → **waso** *("aera besto" → birdo)* ``K``
-* **ijo sijelo ma** → **pipi** *("tera besto" → insekto)* ``K``
-* **ijo sijelo telo** → **kala** *("akva besto" → fiŝo)* ``K``
+* **ijo sijelo sona** → **jan** *("scianta besto" → homo)* `K`
+* **ijo sijelo seli** → **soweli** *("varma besto" → mamulo)* `K`
+* **ijo sijelo lete** → **akesi** *("malvarma besto" → amfibio, reptilo)* `K`
+* **ijo sijelo kon** → **waso** *("aera besto" → birdo)* `K`
+* **ijo sijelo ma** → **pipi** *("tera besto" → insekto)* `K`
+* **ijo sijelo telo** → **kala** *("akva besto" → fiŝo)* `K`
 
 ## toki namako
 *(Kroma Lingvaĵo)*
@@ -517,22 +521,22 @@ pu la kalama nimi li ken kama ante lili.
 *(Laŭ la oficiala libro pri Tokipono, la prononco povas varii iomete.)*
 
 * mun `[mun]` *(luno)*
- * **tenpo** `[tempo]` *(tempo)* ``K``
- * **Sonko** `[soŋko]` *(ĉina)* ``K``
+ * **tenpo** `[tempo]` *(tempo)* `K`
+ * **Sonko** `[soŋko]` *(ĉina)* `K`
 * pona `[pona]` *(bona)*
- * **toki pona** `[toki bona]` *(Tokipono)* ``K``
- * **pini** `[fini]` *(fini)* ``K``
- * **tenpo pini** `[tempo vini]` *(pasinteco)* ``K``
+ * **toki pona** `[toki bona]` *(Tokipono)* `K`
+ * **pini** `[fini]` *(fini)* `K`
+ * **tenpo pini** `[tempo vini]` *(pasinteco)* `K`
 * tawa `[tawa]` *(movo)* 
- * **tomo tawa** `[tomo dawa]` *(aŭto)* ``K``
+ * **tomo tawa** `[tomo dawa]` *(aŭto)* `K`
 * sona `[sona]` *(scio)*
- * **tomo sona** `[tomo zona]` *(lernejo)* ``K``
- * **sina** `[θina]` *(vi)* ``K``
- * **nimi sina** `[nimi ðina]` *(via nomo)* ``K``
+ * **tomo sona** `[tomo zona]` *(lernejo)* `K`
+ * **sina** `[θina]` *(vi)* `K`
+ * **nimi sina** `[nimi ðina]` *(via nomo)* `K`
 * kama `[kama]`
- * **tenpo kama** `[tempo gama]` *(estonteco)* ``K``
- * **kili** `[xili]` *(frukto)* ``K``
- * **telo kili** `[telo ɣili]` *(suko)* ``K``
+ * **tenpo kama** `[tempo gama]` *(estonteco)* `K`
+ * **kili** `[xili]` *(frukto)* `K`
+ * **telo kili** `[telo ɣili]` *(suko)* `K`
 
 pu la nimi "ala" li ken lon insa pi [nimi suli](#nimi-suli) sama tu. ni li nasin ante pi nimi "anu seme".
 *(Laŭ la oficiala libro pri Tokipono, "ala" povas esti inter du samaj verboj. Tio estas alternativo de "anu seme".)*
