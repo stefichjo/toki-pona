@@ -290,7 +290,7 @@ sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "
 * **ijo** lupa → lupa *(io malplena → truo, kavo)* `K`
 * **ijo** ma → ma *(io fekunda → grundo, tero, tereno, loko)* `K`
 * **ijo** mun → mun *(io akompananta, altirita → partnero, la luno)* `K`
-* **ijo** nanpa → nanpa *(io nombrita, cifereca, diĝita → numero)* `K`
+* **ijo** nanpa → nanpa *(io nombrita, cifereca, diĝita → numero, indekso)* `K`
 * **ijo** nena → nena *(io faldita → ŝvelaĵo, monto)* `K`
 * **ijo** pan → pan *(io grena, faruna → pano)*
 * **ijo** seli → seli *(io varma → fajro)*
@@ -305,24 +305,6 @@ sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "
 * **ijo** tomo → tomo *(io orda, honora → hejmo, domo)* `K`
 * **ijo** tu → tu *(io dividita → paro, duopo)* `K`
 * **ijo** wan → wan *(io unika, unueca → elemento, membro, ero, peco, unuo)*
-
-nimi "ala" en nimi "ale" en nimi "wan" en nimi "tu" la nimi "mute pi ijo" li ken weka.
-*(Ĉe "ala", "ale", "wan" kaj "tu" povas manki "mute pi ijo".)*
-
-* **mute pi ijo** ala → ala *("kvanto de nenio" → neniom)*
-* **mute pi ijo** ale → ale *("kvanto de ĉio" → ĉiom)*
-* **mute pi ijo** wan → wan *("kvanto de io unika" → unu)*
-* **mute pi ijo** tu → tu *("kvanto de io dividita" → du)* `K`
-
-pu la nimi "nanpa" ken nimi ilo. tan ni la "pi" lon insa pi nimi "nanpa" en nimi "mute" li ken weka.
-*(Laŭ la oficiala libro pri Tokipono, "nanpa" povas esti partikulo. Tial, "pi" inter "nanpa" kaj "mute" povas manki.)*
-
-* lipu **pi** nanpa ale → lipu nanpa ale *(lasta paĝo)* `K`
-
-pu la nimi "en" lon insa pi kulupu pi nimi "mute pi ijo" weka li ken weka. ni la kulupu ni li kama sama nimi wan. tan ni la nimi "pi" lon monsi pi kulupu ni li weka.
-*(Laŭ la oficiala libro pri Tokipono, "en" inter du numeraloj povas manki. Tiam, la numeraloj estas kiel unu vorto. Tial, "pi" mankas antaŭ tiuj numeraloj.)*
-
-* kili pi tu en wan → kili tu wan *("fruktoj de du kaj unu" → tri fruktoj)*
 
 nimi "ijo sijelo (pilin)" li ken weka.
 *("ijo sijelo (pilin)" povas manki.)*
@@ -340,6 +322,27 @@ monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#
 * **ijo pi pona** len → len *(io pendigebla → vesto)* `K`
 * **ijo pi pona** moku → moku *(io manĝebla → manĝo)*
 * **ijo pi pona** sona → sona *(io sciebla → scio)*
+
+###### nimi lawa weka "nanpa"
+*(Numeraloj kaj Ordinaloj)*
+
+nimi "ala" en nimi "ale" en nimi "wan" en nimi "tu" la nimi "mute pi ijo" li ken weka.
+*(Ĉe "ala", "ale", "wan" kaj "tu" povas manki "mute pi ijo".)*
+
+* **mute pi ijo** ala → ala *("kvanto de nenio" → neniom)*
+* **mute pi ijo** ale → ale *("kvanto de ĉio" → ĉiom)*
+* **mute pi ijo** wan → wan *("kvanto de io unika" → unu)*
+* **mute pi ijo** tu → tu *("kvanto de io dividita" → du)* `K`
+
+pu la nimi "nanpa" ken nimi ilo. tan ni la "pi" lon insa pi nimi "nanpa" en nimi "mute" li ken weka.
+*(Laŭ la oficiala libro pri Tokipono, "nanpa" povas esti partikulo. Tial, "pi" inter "nanpa" kaj "mute" povas manki.)*
+
+* lipu **pi** nanpa ale → lipu nanpa ale *(lasta paĝo)* `K`
+
+pu la nimi "en" lon insa pi kulupu pi nimi "mute pi ijo" weka li ken weka. ni la kulupu ni li kama sama nimi wan. tan ni la nimi "pi" lon monsi pi kulupu ni li weka.
+*(Laŭ la oficiala libro pri Tokipono, "en" inter du numeraloj povas manki. Tiam, la numeraloj estas kiel unu vorto. Tial, "pi" mankas antaŭ tiuj numeraloj.)*
+
+* kili **pi** tu **en** wan → kili tu wan *("fruktoj de du kaj unu" → tri fruktoj)*
 
 ##### nimi lawa weka "ilo"
 *(Manka Substantivo "ilo")*
