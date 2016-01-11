@@ -355,7 +355,7 @@ pu la nimi "nanpa" ken nimi ilo. ni la "pi" lon insa pi nimi "nanpa" en nimi "mu
 pu la nimi pi ijo mute li ken nimi ilo lon poka pi nimi ante pi ijo mute. tan ni la nimi ilo "en" lon insa pi nimi tu pi ijo mute li lon ala. ni la nimi tu ni pi ijo mute li sama nimi wan sin pi ijo mute. tan ni la nimi "pi" lon monsi ona li lon ala.
 *(Laŭ la oficiala libro pri Tokipono, numeralo povas esti partikulo kun alia numeralo. Tial, ne estas la partikulo "en" inter du numeraloj. Tiam, tiaj du numeraloj estas kiel unu nova numeralo. Tial, ne estas "pi" antaŭ ili.)*
 
-* kili *pi* tu **en** wan → kili tu wan *(tri fruktoj)*
+* kili **pi** tu **en** wan → kili tu wan *(tri fruktoj)*
 
 ##### nimi lawa weka "ilo"
 *(Manka Substantivo "ilo")*
