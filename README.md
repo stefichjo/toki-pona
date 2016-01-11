@@ -320,7 +320,7 @@ pu la nimi "nanpa" ken nimi ilo. tan ni la "pi" lon insa pi nimi "nanpa" en nimi
 * lipu **pi** nanpa tu → lipu nanpa tu *(dua paĝo)*
 
 pu la nimi "en" lon insa pi kulupu pi nimi "mute pi ijo" weka li ken weka. ni la kulupu ni li kama sama nimi wan. tan ni la nimi "pi" lon monsi pi kulupu ni li weka.
-*(Laŭ la oficiala libro pri Tokipono, "en" inter du numeraloj povas manki. Tiam, la numeraloj estas kiel unu vorto. Tial, "pi" mankas antaaŭ tiuj numeraloj.)*
+*(Laŭ la oficiala libro pri Tokipono, "en" inter du numeraloj povas manki. Tiam, la numeraloj estas kiel unu vorto. Tial, "pi" mankas antaŭ tiuj numeraloj.)*
 
 * kili pi tu en wan → kili tu wan *("fruktoj de du kaj unu" → tri fruktoj)*
 
