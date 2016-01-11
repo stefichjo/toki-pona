@@ -317,7 +317,7 @@ nimi "ala" en nimi "ale" en nimi "wan" en nimi "tu" la nimi "mute pi ijo" li ken
 pu la nimi "nanpa" ken nimi ilo. tan ni la "pi" lon insa pi nimi "nanpa" en nimi "mute" li ken weka.
 *(Laŭ la oficiala libro pri Tokipono, "nanpa" povas esti partikulo. Tial, "pi" inter "nanpa" kaj "mute" povas manki.)*
 
-* lipu **pi** nanpa tu → lipu nanpa tu *(dua paĝo)*
+* lipu **pi** nanpa ale → lipu nanpa ale *(lasta paĝo)* `K`
 
 pu la nimi "en" lon insa pi kulupu pi nimi "mute pi ijo" weka li ken weka. ni la kulupu ni li kama sama nimi wan. tan ni la nimi "pi" lon monsi pi kulupu ni li weka.
 *(Laŭ la oficiala libro pri Tokipono, "en" inter du numeraloj povas manki. Tiam, la numeraloj estas kiel unu vorto. Tial, "pi" mankas antaŭ tiuj numeraloj.)*
