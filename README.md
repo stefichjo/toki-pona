@@ -196,7 +196,7 @@ nimi "**alasa**" en nimi "**jo**" en nimi "**kute**" en nimi "**lawa**" en nimi 
 
 * mi **olin e sina**. *(Mi amas vin.)*
 
-monsi pi **nimi suli palisa** la kulupu pi [nimi "e"](#nimi-e) li ken weka. ni la pilin pi **nimi suli palisa** ni li awen sama.
+monsi pi **nimi suli palisa** la kulupu pi [nimi "e"](#nimi-e) li ken weka. ni la kon pi **nimi suli palisa** ni li awen sama.
 *(Malantaŭ transitiva verbo, la rekta objekto povas manki. Tiam, la signifo de tiu transitiva verbo restas la sama.)*
 
 * mi **moku e ijo**. → mi **moku**. *(Mi manĝas ion. → Mi manĝas.)*
@@ -270,6 +270,11 @@ sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "
 
 * **ijo** suwi → suwi *(io dolĉa → dolĉaĵo)*
 
+nimi lawa ni li ken jo e kon sin.
+*(Tia substantivo povas havi aldonan signifon.)*
+
+* **ijo** suno → suno *(io hela, brilanta → lumo, la suno)*
+
 ##### nimi lawa weka "ijo"
 *(Manka Substantivo "ijo")*
 
@@ -298,7 +303,7 @@ sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "
 * **ijo** sin → sin *(io kroma, aldona, artefarita → dekoracio, lukso)* `K`
 * **ijo** sijelo → sijelo *(io vivanta → korpo, besto)* `K`
 * **ijo** sitelen → sitelen *(io projekciita, skribita, pentrita → bildo, skemo, modelo)* `K`
-* **ijo** suno → suno *(io hela, io brilanta → lumo, la suno)*
+* **ijo** suno → suno *(io hela, brilanta → lumo, la suno)*
 * **ijo** suwi → suwi *(io dolĉa → dolĉaĵo)*
 * **ijo** telo → telo *(io likva, malseka → akvo)*
 * **ijo** tenpo → tenpo *(io daŭranta → tempo)* `K`
@@ -323,26 +328,34 @@ monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#
 * **ijo pi pona** moku → moku *(io manĝebla → manĝo)*
 * **ijo pi pona** sona → sona *(io sciebla → scio)*
 
-###### nimi lawa weka "mute"
+###### nimi pi ijo mute
 *(Numeraloj)*
 
-nimi "ala" en nimi "ale" en nimi "wan" en nimi "tu" la nimi "mute pi ijo" li ken weka.
-*(Ĉe "ala", "ale", "wan" kaj "tu" povas manki "mute pi ijo".)*
+nimi pi ijo mute la nimi "mute pi ijo" li ken weka.
+*(Ĉe numeraloj, "mute pi ijo" povas manki.)*
 
 * **mute pi ijo** ala → ala *("kvanto de nenio" → neniom)*
 * **mute pi ijo** ale → ale *("kvanto de ĉio" → ĉiom)*
 * **mute pi ijo** wan → wan *("kvanto de io unika" → unu)*
 * **mute pi ijo** tu → tu *("kvanto de io dividita" → du)* `K`
+* **mute pi ijo** mute → mute *("kvanto de io multa" → tri, multe)* `K`
+* **mute pi ijo** luka → luka *("kvanto de io mana" → kvin)*
 
-pu la nimi "nanpa" ken nimi ilo. tan ni la "pi" lon insa pi nimi "nanpa" en nimi "mute" li ken weka.
-*(Laŭ la oficiala libro pri Tokipono, "nanpa" povas esti partikulo. Tial, "pi" inter "nanpa" kaj "mute" povas manki.)*
+pu la, nimi "ale" li ken jo e kon pi nimi "mute mute".
+*(Laŭ la oficiala libro pri Tokipono, "ale" povas signifi "tre multe".)*
 
-* lipu **pi** nanpa ale → lipu nanpa ale *(lasta paĝo)* `K`
+* nimi ale *("ĉiuj vortoj" → cent vortoj)*
 
-pu la nimi "en" lon insa pi kulupu pi nimi "mute pi ijo" weka li ken weka. ni la kulupu ni li kama sama nimi wan. tan ni la nimi "pi" lon monsi pi kulupu ni li weka.
-*(Laŭ la oficiala libro pri Tokipono, "en" inter du numeraloj povas manki. Tiam, la numeraloj estas kiel unu vorto. Tial, "pi" mankas antaŭ tiuj numeraloj.)*
+pu la nimi "nanpa" ken nimi ilo. ni la "pi" lon insa pi nimi "nanpa" en nimi "mute" li weka.
+*(Laŭ la oficiala libro pri Tokipono, "nanpa" povas esti partikulo. Tiam, "pi" inter "nanpa" kaj "mute" mankas.)*
 
-* kili **pi** tu **en** wan → kili tu wan *("fruktoj de du kaj unu" → tri fruktoj)*
+* toki **pi** nanpa wan → toki nanpa wan *(unua lingvo)* `©`
+* lipu **pi** nanpa ale → lipu nanpa ale *("lasta paĝo" → centa paĝo)* `K`
+
+pu la nimi pi ijo mute li ken nimi ilo lon poka pi nimi ante pi ijo mute. tan ni la nimi ilo "en" lon insa pi nimi tu pi ijo mute li lon ala. ni la nimi tu ni pi ijo mute li sama nimi wan sin pi ijo mute. tan ni la nimi "pi" lon monsi ona li lon ala.
+*(Laŭ la oficiala libro pri Tokipono, numeralo povas esti partikulo kun alia numeralo. Tial, ne estas la partikulo "en" inter du numeraloj. Tiam, tiaj du numeraloj estas kiel unu nova numeralo. Tial, ne estas "pi" antaŭ ili.)*
+
+* kili *pi* tu **en** wan → kili tu wan *(tri fruktoj)*
 
 ##### nimi lawa weka "ilo"
 *(Manka Substantivo "ilo")*
