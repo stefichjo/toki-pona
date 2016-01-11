@@ -255,7 +255,7 @@ kon pi nimi "tawa" li ken kon pi nimi "pana e pilin" sin.
 ### nimi lawa
 *(Substantivoj)*
 
-**nimi lawa** li [nimi ijo](#nimi-ijo) pona pi nanpa wan.
+**nimi lawa** li [nimi ijo](#nimi-ijo) li pona pi nanpa wan.
 *(Substantivoj estas la plej simplaj radikaj vortoj.)*
 
 * **jan** *(homo)*
