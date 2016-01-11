@@ -340,6 +340,7 @@ nimi pi ijo mute la nimi "mute pi ijo" li ken weka.
 * **mute pi ijo** tu → tu *("kvanto de io dividita" → du)* `K`
 * **mute pi ijo** mute → mute *("kvanto de io multa" → tri, multe)* `K`
 * **mute pi ijo** luka → luka *("kvanto de io mana" → kvin)*
+* **mute pi ijo** esun → esun *("kvanto de io merkata" → sep)* `K`
 
 pu la, nimi "ale" li ken jo e kon pi nimi "mute mute".
 *(Laŭ la oficiala libro pri Tokipono, "ale" povas signifi "tre multe".)*
