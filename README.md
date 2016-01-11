@@ -314,6 +314,16 @@ nimi "ala" en nimi "ale" en nimi "wan" en nimi "tu" la nimi "mute pi ijo" li ken
 * **mute pi ijo** wan → wan *("kvanto de io unika" → unu)*
 * **mute pi ijo** tu → tu *("kvanto de io dividita" → du)* `K`
 
+pu la nimi "nanpa" ken nimi ilo. tan ni la "pi" lon insa pi nimi "nanpa" en nimi "mute" li ken weka.
+*(Laŭ la oficiala libro pri Tokipono, "nanpa" povas esti partikulo. Tial, "pi" inter "nanpa" kaj "mute" povas manki.)*
+
+* lipu **pi** nanpa tu → lipu nanpa tu *(dua paĝo)*
+
+pu la nimi "en" lon insa pi kulupu pi nimi "mute pi ijo" weka li ken weka. ni la kulupu ni li kama sama nimi wan. tan ni la nimi "pi" lon monsi pi kulupu ni li weka.
+*(Laŭ la oficiala libro pri Tokipono, "en" inter du numeraloj povas manki. Tiam, la numeraloj estas kiel unu vorto. Tial, "pi" mankas antaaŭ tiuj numeraloj.)*
+
+* kili pi tu en wan → kili tu wan *("fruktoj de du kaj unu" → tri fruktoj)*
+
 nimi "ijo sijelo (pilin)" li ken weka.
 *("ijo sijelo (pilin)" povas manki.)*
 
@@ -421,20 +431,6 @@ jan ken **nimi lawa pi ma selo** e [nimi lawa](#nimi-lawa).
  * mi tawa lon **sike** tomo. *("Mi iras ĉe la kurbiĝo de la domo." → Mi iras ĉirkaŭ la domo.)* `K`
 * **supa** *(faco)* `K`
  * waso li lon **supa** pi tomo tawa. *("Birdo sidas ĉe la faco de la aŭto." → Birdo sidas sur la aŭto.)* `K`
-
-### nimi pi ijo mute
-*(Numeraloj)*
-
-nimi "**wan**" en nimi "**tu**" li **nimi pi ijo mute**.
-*("wan" kaj "tu" estas numeraloj.)*
-
-* kili **tu** *(du fruktoj)*
-* kili pi nanpa **tu** *(la dua frukto)*
-
-pu la jan ken weka e [nimi "en"](#nimi-en) lon insa pi **nimi pi ijo mute**.
-*(Laŭ la oficiala libro pri Tokipono, oni povas mankigi "en" inter numeraloj.)*
-
-* kili pi tu en wan → kili tu wan *(tri fruktoj)*
 
 ## toki open
 *(Klara Lingvaĵo)*
