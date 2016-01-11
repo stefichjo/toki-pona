@@ -290,7 +290,7 @@ sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#nimi-lawa) pi "**ijo**" en "
 * **ijo** lupa → lupa *(io malplena → truo, kavo)* `K`
 * **ijo** ma → ma *(io fekunda → grundo, tero, tereno, loko)* `K`
 * **ijo** mun → mun *(io akompananta, altirita → partnero, la luno)* `K`
-* **ijo** nanpa → nanpa *(io nombrita, cifereca, diĝita → numero, indekso)* `K`
+* **ijo** nanpa → nanpa *(io nombrita, cifereca, diĝita → numero, indekso, rango)* `K`
 * **ijo** nena → nena *(io faldita → ŝvelaĵo, monto)* `K`
 * **ijo** pan → pan *(io grena, faruna → pano)*
 * **ijo** seli → seli *(io varma → fajro)*
@@ -323,8 +323,8 @@ monsi pi nimi "ijo" weka la sinpin pi [nimi monsi](#nimi-monsi) la [nimi lawa](#
 * **ijo pi pona** moku → moku *(io manĝebla → manĝo)*
 * **ijo pi pona** sona → sona *(io sciebla → scio)*
 
-###### nimi lawa weka "nanpa"
-*(Numeraloj kaj Ordinaloj)*
+###### nimi lawa weka "mute"
+*(Numeraloj)*
 
 nimi "ala" en nimi "ale" en nimi "wan" en nimi "tu" la nimi "mute pi ijo" li ken weka.
 *(Ĉe "ala", "ale", "wan" kaj "tu" povas manki "mute pi ijo".)*
