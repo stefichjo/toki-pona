@@ -1,5 +1,10 @@
 # nimi pi toki pona
 
+
+## ijo
+*(aĵo)*
+## ma
+*(ejo)*
 ## poki
 *(ujo, ingo)*
 ### poki lipu
