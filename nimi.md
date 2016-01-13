@@ -18,10 +18,8 @@
 ### poki
 *(enteni)*
 
-* poki ← *ilo* poki
-*(ingo, ujo ← entenilo)*
-  * poki lipu
-*("ebena ingo" → telero)*
+* poki ← *ilo* poki *(ingo, ujo ← entenilo)*
+  * poki lipu *("ebena ingo" → telero)*
 
 ### pona
 * **jan** pona
