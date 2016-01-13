@@ -1,5 +1,7 @@
 # nimi pi toki pona
 
+## nimi ijo
+
 ### ijo
 * *ijo* ijo
 
@@ -13,7 +15,9 @@
 * lukin ← *ilo* lukin
 
 ### mama
-* mama ← *jan* mama
+*(kreanta, naskanta, kreskiganta)*
+
+* mama ← *jan* mama *(kreanto, naskanto, kreskiganto)*
 
 ### poki
 *(enteni)*
