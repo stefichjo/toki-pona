@@ -18,14 +18,14 @@
 ### ale
 *(tuta)*
 
-* ale ← *ijo* ale *(ĉio ← tutaĵo)*
-* ale ← *mute* ale *(ĉiom ← tuta kvanto)*
+* ale ← *ijo* ale *(ĉio ← la tutaĵo)*
+* ale ← *mute* ale *(ĉiom ← la tuta kvanto)*
 
 ### anpa
 *(malsupra)*
 
 * anpa ← *ma* anpa *(malsupro ← malsupra ejo)*
- * lon anpa *(sub)*
+ * lon anpa *(sub ← en la malsupro de)*
 
 ### ante
 
@@ -35,15 +35,15 @@
 *(interŝanĝanta)*
 
 * esun ← *ma* esun *(merkato ← interŝanĝejo)*
- * lon esun *(anstataŭ, por, kontraŭ)*
+ * lon esun *(anstataŭ, por, kontraŭ ← en interŝanĝo de)*
 
 ### insa
 *(interna)*
 
 * insa ← *ijo* insa *(mezo ← internaĵo)*
- *  lon insa *("en la mezo" → inter)*
+ *  lon insa *(inter ← en la mezo de)*
 * insa ← *ma* insa *(interno ← interna ejo)*
- * lon insa *("en la interno" → en)*
+ * lon insa *(en ← en la interno de)*
 
 ### ijo
 *(reala)*
@@ -53,7 +53,7 @@
 ### ilo
 *(utila)*
 
-* ilo ← *ijo* ilo *(ilo ← utilaĵo)*
+* ilo ← *ijo* ilo *(ilo, instrumento, organo ← utilaĵo)*
 
 ### jan
 * jan ← *ijo* jan
@@ -62,12 +62,16 @@
 *(gvidanta, supra)*
 
 * lawa ← *ilo* lawa *(kapo ← gvidilo)*
-* lawa ← *ma* lawa *(supro ← supra ejo)*
+* lawa ← *ijo* lawa *(supro ← supraĵo)*
 
-* **jan** lawa *(gvidanto, suprulo → ĉefo, estro)*
+* **jan** lawa *(ĉefo, estro ← gvidanto, suprulo)*
 
 ### lukin
-* lukin ← *ilo* lukin
+*(vidi, rigardi)*
+
+* lukin ← *ilo* lukin *(okulo ← vidorgano)*
+
+* **ilo** lukin *(spegulo ← rigardilo)* 
 
 ### mama
 *(kreanta, naskanta, kreskiganta)*
@@ -77,9 +81,9 @@
 ### monsi
 *(malantaŭa)*
 
-* monsi ← *ma* monsi *(malantaŭo ← malantaŭa ejo)*
- * lon monsi *("en la malantaŭo" → malantaŭ)*
 * monsi ← *ijo* monsi *(dorso ← malantaŭaĵo)*
+* monsi ← *ma* monsi *(malantaŭo ← malantaŭa ejo)*
+ * lon monsi *(malantaŭ ← en la malantaŭo de)*
 
 ### nasa
 *(stranga)*
@@ -88,38 +92,39 @@
 *(apuda)*
 
 * poka ← *ma* poka *(apudo ← apuda ejo)*
- * lon poka *("en la apudo" → apud)*
+ * lon poka *(apudo ← en la apudo de)*
 * poka ← *ijo* poka *(flanko, kokso ← apudaĵo)*
 
 ### poki
 *(enteni)*
 
 * poki ← *ilo* poki *(ingo, ujo ← entenilo)*
-  * poki lipu *("ebena ingo" → telero)*
+  * poki lipu *(telero ← ebena ingo)*
 
 ### pona
 *(bona)*
 
-* **jan** pona *("bonulo" → amiko)*
+* **jan** pona *(amiko ← bonulo)*
 
 ### seli
-*(varma)*
+*(varma, arda)*
 
-* seli ← *ijo* seli *(fajro ← varmaĵo)*
+* seli ← *ijo* seli *(fajro ← ardaĵo)*
 
 ### selo
 *(eksterna)*
 
-* selo ← **ma** selo *(eksterno ← eksterna ejo)*
- * lon selo ← *("en la eksterno" → ekster)*
- * tawa selo ← *("al la eksterno" → el)*
-* selo ← **ijo** selo *(formo, haŭto ← eksternaĵo)*
+* selo ← *ma* selo *(eksterno ← eksterna ejo)*
+ * lon selo *(ekster ← en la eksterno)*
+ * tawa selo *(el ← al la eksterno)*
+* selo ← *ijo* selo *(formo, haŭto, ŝelo, supraĵo ← eksternaĵo)*
 
 ### sewi
 *(alta)*
 
-* sewi ← *ma* sewi *(alto ← alta ejo)*
- * lon sewi *("en la alto" → super)*
+* sewi ← *ma* sewi *(alto, ĉielo ← alta ejo)*
+ * lon sewi *(super ← en la alto de)*
+ * sewi ← *jan* sewi *(dio ← ĉielulo)*
 
 ### sijelo
 *(vivanta)*
@@ -131,15 +136,15 @@
 
 * sike ← *ijo* sike *(cirklo, sfero ← rondaĵo)*
 * sike ← *ma* sike *(ĉirkaŭo ← ronda ejo)*
- * lon sike *("en la ĉirkaŭo" → ĉirkaŭ)*
+ * lon sike *(ĉirkaŭ ← en la ĉirkaŭo de)*
 
 ### sinpin
 *(antaŭa)*
 
 * sinpin ← *ijo* sinpin *(fronto, muro, obstaklo ← antaŭaĵo)*
- * sinpin lawa *("fronto de la kapo" → vizaĝo)*
+ * sinpin lawa *(vizaĝo ← fronto de la kapo)*
 * sinpin ← *ma* sinpin *(antaŭo)*
- * lon sinpin *("en la antaŭo" → antaŭ)*
+ * lon sinpin *(antaŭ ← en la antaŭo de)*
 
 ### suno
 *(hela)*
@@ -156,7 +161,7 @@
 *(likva, malseka)*
 
 * telo ← *ijo* telo *(akvo, likvo ← likvaĵo, malsekaĵo)*
-  * telo nasa *("strangiga likvo" → alkoholo)*
+  * telo nasa *(alkoholo ← strangiga likvo)*
 
 ### tomo
 * tomo tawa
