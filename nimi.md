@@ -58,10 +58,24 @@
 ### jan
 *(anima)*
 
-* ~~ijo~~ jan *(ulo, persono, homo ← animaĵo)*
+* ~~sijelo~~ jan *(ulo, persono, homo ← anima besto)*
+
+### kasi
+*(kreska)*
+
+* ~~sijelo~~ kasi *(planto ← kreskanta vivaĵo)*
+
+### kili
+*(sukcesa)*
+
+* ~~ijo~~ kili *(frukto ← sukcesaĵo)*
 
 ### kute
 *(aŭdanta, aŭskultanta, obeanta)*
+
+* ~~ilo~~ kute *(orelo ← aŭdilo)*
+
+* **ilo** kute *(kapaŭskultiloj ← aŭskultilo)*
 
 ### lawa
 *(gvidanta, supra)*
@@ -92,6 +106,11 @@
 * ~~ilo~~ lukin *(okulo ← vidorgano)*
 
 * **ilo** lukin *(spegulo ← rigardilo)* 
+
+### lupa
+*(kava, malplena)*
+
+* ~~ijo~~ lupa *(truo ← kavaĵo)*
 
 ### ma
 *(vasta)*
@@ -126,6 +145,12 @@
 
 * ~~ilo~~ noka *(gambo, piedo, bazo, fundamento, fundo ← starilo)*
  * lon noka *(malsupre de ← ĉe la fundo de)*
+
+### open
+*(malfermita)*
+
+* ~~ma~~ open *(trairejo ← malfermita ejo)*
+ * lon open *(tra ← en la trairejo de)*
 
 ### palisa
 *(indika)*
@@ -218,12 +243,9 @@
 ### tomo
 *(hejma)*
 
-* ~~ma~~ tomo *(domo ← hejma ejo)*
+* ~~ma~~ tomo *(domo, ĉambro ← hejma ejo)*
  * **ma** tomo *(urbo ← doma tero)*
-
-* tomo tawa
-  * tomo tawa kon
-  * tomo tawa linja
-* tomo telo
-* tomo pi telo nasa
+ * tomo tawa *(aŭto ← ira ĉambro)*
+ * tomo telo *(banĉambro ← ĉambro de akvo)*
+ * tomo pi telo nasa *(trinkejo ← ĉambro de alkoholo)*
 
