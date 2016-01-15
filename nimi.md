@@ -18,8 +18,8 @@
 ### ale
 *(tuta)*
 
-* ale ← *ijo* ale *(ĉio ← la tutaĵo)*
-* ale ← *mute* ale *(ĉiom ← la tuta kvanto)*
+* ~~ijo~~ ale *(ĉio ← la tutaĵo)*
+* ~~mute~~ ale *(ĉiom ← la tuta kvanto)*
 
 ### anpa
 *(malsupra)*
@@ -48,7 +48,7 @@
 ### ijo
 *(reala)*
 
-* ijo ← *ijo* ijo
+* ~~ijo~~ ijo *(afero, objekto ← realaĵo)*
 
 ### ilo
 *(utila)*
@@ -56,7 +56,12 @@
 * ~~ijo~~ ilo *(ilo, instrumento, organo ← utilaĵo)*
 
 ### jan
-* ~~ijo~~ jan
+*(anima)*
+
+* ~~ijo~~ jan *(ulo, persono, homo ← animaĵo)*
+
+### kute
+*(aŭdanta, aŭskultanta, obeanta)*
 
 ### lawa
 *(gvidanta, supra)*
@@ -66,12 +71,33 @@
 
 * **jan** lawa *(ĉefo, estro ← gvidanto, suprulo)*
 
-### lukin
-*(vidi, rigardi)*
+### linja
+*(linia)*
 
-* lukin ← *ilo* lukin *(okulo ← vidorgano)*
+* ~~ijo~~ linja *(haro ← liniaĵo)*
+
+### lipu
+*(ebena)*
+
+* ~~ijo~~ ebena *(folio, paĝo, dokumento ← ebenaĵo)*
+
+### luka
+*(atinganta, manipulanta)*
+
+* ~~ilo~~ luka *(brako, mano ← atingilo, manipulilo)*
+
+### lukin
+*(vidanta, rigardanta)*
+
+* ~~ilo~~ lukin *(okulo ← vidorgano)*
 
 * **ilo** lukin *(spegulo ← rigardilo)* 
+
+### ma
+*(vasta)*
+
+* ~~ijo~~ ma *(ejo, lando, grundo, kampo, tero, loko, spaco ← vastaĵo)*
+ * ma Epelanto *(Esperantujo)*
 
 ### mama
 *(kreanta, naskanta, kreskiganta)*
@@ -86,7 +112,25 @@
  * lon monsi *(malantaŭ ← en la malantaŭo de)*
 
 ### nasa
-*(stranga)*
+*(stranga, malkutima, freneza)*
+
+### nena
+*(elstara)*
+
+* ~~ijo~~ nena *(nazo ← elstaraĵo)*
+ * nena linja *(faldo ← linia elstaraĵo)*
+* ~~ma~~ nena *(monto ← elstara grundo)*
+
+### noka
+*(stara)*
+
+* ~~ilo~~ noka *(gambo, piedo, bazo, fundamento, fundo ← starilo)*
+ * lon noka *(malsupre de ← ĉe la fundo de)*
+
+### palisa
+*(indika)*
+
+* ~~ilo~~ palisa *(fingro, bastono ← indikilo)*
 
 ### poka
 *(apuda)*
@@ -96,9 +140,9 @@
  * lon poka *(apudo ← en la apudo de)*
 
 ### poki
-*(enteni)*
+*(enhava)*
 
-* ~~ilo~~ poki *(ingo, ujo ← entenilo)*
+* ~~ilo~~ poki *(ingo, ujo ← enhavilo)*
   * poki lipu *(telero ← ebena ingo)*
 
 ### pona
@@ -143,7 +187,7 @@
 
 * ~~ijo~~ sinpin *(fronto, muro, obstaklo ← antaŭaĵo)*
  * sinpin lawa *(vizaĝo ← fronto de la kapo)*
-* ~~ma~~ sinpin *(antaŭo)*
+* ~~ma~~ sinpin *(antaŭo ← antaŭa ejo)*
  * lon sinpin *(antaŭ ← en la antaŭo de)*
 
 ### suno
@@ -152,10 +196,15 @@
 * ~~ijo~~ suno *(suno, lumo ← helaĵo)*
 
 ### suwi
-* ~~ijo~~ suwi
+*(dolĉa)*
+
+* ~~ijo~~ suwi *(dolĉaĵo)*
 
 ### tawa
-* **ilo** tawa
+*(ira, al, por, laŭ)*
+
+* **ilo** tawa *(veturilo ← irilo)*
+  * mi tawa ma tomo Lantan *(Mi iras al Londono.)*
 
 ### telo
 *(likva, malseka)*
@@ -163,7 +212,15 @@
 * ~~ijo~~ telo *(akvo, likvo ← likvaĵo, malsekaĵo)*
   * telo nasa *(alkoholo ← strangiga likvo)*
 
+### toki
+*(parolanta, diranta)*
+
 ### tomo
+*(hejma)*
+
+* ~~ma~~ tomo *(domo ← hejma ejo)*
+ * **ma** tomo *(urbo ← doma tero)*
+
 * tomo tawa
   * tomo tawa kon
   * tomo tawa linja
