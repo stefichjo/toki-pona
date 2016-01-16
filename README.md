@@ -188,6 +188,16 @@ kulupu pi [nimi suli](#nimi-suli) pi wile sona la **nimi "seme"** li lon. ona li
 * kala wawa li moku e seme? *(Kion manĝas ŝarko?)* `©`
 * sina jo e ilo seme? *(Kiajn ilojn vi havas?)* `©`
 
+___
+
+* seme *(kiu, kia)*
+ * ~~ijo~~ seme *(kio ← kiu afero)*
+   * lon seme *(kie ← ĉe kio)*
+   * tan seme *(kial ← de kio)*
+   * tawa seme *(kien ← al kio)*
+ * **tenpo** seme *(kiam ← kiu tempo)*
+ * lon nasin seme *(kiel ← en kiu maniero)*
+
 ## nimi ijo
 *(Radikaj Vortoj)*
 
