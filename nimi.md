@@ -146,8 +146,6 @@
  * ~~ma~~ selo *(eksterno ← eksterna ejo)*
    * lon selo *(ekster ← en la eksterno)*
    * tawa selo *(el ← al la eksterno)*
-* seme *(kiu)*
- * ~~ijo~~ seme *(kio ← kiu afero)*
 * sewi *(alta)*
  * ~~ma~~ sewi *(alto, ĉielo ← alta ejo)*
    * lon sewi *(super ← en la alto de)*
