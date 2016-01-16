@@ -19,13 +19,13 @@ nimi "**anu**" en nimi "**e**" en nimi "**en**" en nimi "**la**" en nimi "**li**
 
 ___
 
-* [anu](#nimi-anu)
-* [e](#nimi-e)
-* [en](#nimi-en)
-* [la](#nimi-la)
-* [li](#nimi-li)
-* [o](#nimi-o)
-* [pi](#nimi-pi)
+* [anu](#nimi-anu) *(aŭ)*
+* [e](#nimi-e) *(-n)*
+* [en](#nimi-en) *(kaj)*
+* [la](#nimi-la) *(se, -e)*
+* [li](#nimi-li) *(-as)*
+* [o](#nimi-o) *(-u)*
+* [pi](#nimi-pi) *(de, -a, -e)*
 
 ### nimi kalama
 *(Sonimitoj)*
@@ -62,8 +62,8 @@ nimi "kalama e nimi" en nimi "kalama (pi) nimi" li ken kama "toki".
 
 ___
 
-* a
-* mu
+* a *(ha)*
+* mu *(miaŭ)*
 
 ### nimi "pi"
 *(La Partikulo "pi")*
