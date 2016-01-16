@@ -17,6 +17,16 @@ nimi "**anu**" en nimi "**e**" en nimi "**en**" en nimi "**la**" en nimi "**li**
 
 * toki **li** pona. *(Komunikado estas bona.)* `©`
 
+___
+
+* [anu](#nimi-anu)
+* [e](#nimi-e)
+* [en](#nimi-en)
+* [la](#nimi-la)
+* [li](#nimi-li)
+* [o](#nimi-o)
+* [pi](#nimi-pi)
+
 ### nimi kalama
 *(Sonimitoj)*
 
@@ -49,6 +59,11 @@ nimi "kalama e nimi" en nimi "kalama (pi) nimi" li ken kama "toki".
  * ona li toki "**Inli**". (Ŝi prononcas "Inli".)
 * ona li kalama pi nimi "**Inli**". (Ĝi estas la prononco de la vorto "Inli".)
  * ona li toki "**Inli**". (Ĝi estas la prononco "Inli".)
+
+___
+
+* a
+* mu
 
 ### nimi "pi"
 *(La Partikulo "pi")*
