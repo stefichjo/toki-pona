@@ -1,7 +1,5 @@
 # nimi pi toki pona
 
-* a anu e en la li mu o pi
-
 * akesi *(malica)*
  * ~~sijelo~~ akesi *(reptilo, amfibio ← malica besto)* 
 * ala *(nula)*
