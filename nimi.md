@@ -3,7 +3,6 @@
 * akesi *(malica)*
  * ~~sijelo~~ akesi *(reptilo, amfibio ← malica besto)* 
 * ala *(nula)*
-* alasa *(ĉasanta)*
 * ale *(tuta)*
  * ~~ijo~~ ale *(ĉio ← la tutaĵo)*
  * ~~mute~~ ale *(ĉiom ← la tuta kvanto)*
@@ -13,9 +12,6 @@
 * ante *(diversa)*
 * awen *(resta)*
  * awen ~~e ni: ona li~~ *(plu)*
-* esun *(interŝanĝanta)*
- * ~~ma~~ esun *(merkato ← interŝanĝejo)*
-   * lon esun *(anstataŭ, por, kontraŭ ← en interŝanĝo de)*
 * ijo *(reala)*
  * ~~ijo~~ ijo *(afero, objekto ← realaĵo)*
 * ike *(malbona)*
@@ -30,7 +26,6 @@
 * jan *(anima)*
  * ~~sijelo~~ jan *(ulo, persono, homo ← anima besto)*
 * jelo *(flava)*
-* jo *(havanta)*
 * kala *(naĝa)*
  * ~~sijelo~~ kala *(fiŝo, delfeno, baleno ← naĝa besto)*
 * kalama *(sona)*
@@ -39,10 +34,9 @@
 * kama *(iĝa)*
  * kama ~~e ni: ona li~~ *(ek-)*
 * kasi *(kreska)*
- * ~~sijelo~~ kasi *(planto ← kreskanta vivaĵo)*
+ * ~~sijelo~~ kasi *(planto ← kreska vivaĵo)*
 * ken *(kapabla)*
  * ken ~~e ni: ona li~~ *(povas)*
-* kepeken *(per)*
 * kili *(sukcesa)*
  * ~~ijo~~ kili *(frukto ← sukcesaĵo)*
 * kiwen *(malmola)*
@@ -54,15 +48,8 @@
 * kule *(ŝajna)*
  * ~~ijo~~ kule *(aspekto, koloro ← ŝajnaĵo)*
 * kulupu *(grupo, aro)*
-* kute *(aŭdanta, aŭskultanta, obeanta)*
- * ~~ilo~~ kute *(orelo ← aŭdilo)*
- * **ilo** kute *(kapaŭskultiloj ← aŭskultilo)*
 * lape *(dorma)*
 * laso *(verda, blua)*
-* lawa *(gvidanta, supra)*
- * ~~ilo~~ lawa *(kapo ← gvidilo)*
- * ~~ijo~~ lawa *(supro ← supraĵo)*
- * **jan** lawa *(ĉefo, estro ← gvidanto, suprulo)*
 * len *(penda)*
  * ~~ijo~~ len *(vesto ← pendaĵo)*
 * lete *(malvarma)*
@@ -72,26 +59,18 @@
 * lipu *(ebena)*
  * ~~ijo~~ ebena *(folio, paĝo, dokumento ← ebenaĵo)*
 * loje *(ruĝa)*
-* lon *(ĉe, en, ĉeesta)*
 * luka *(atinganta, manipulanta)*
  * ~~ilo~~ luka *(brako, mano ← atingilo, manipulilo)*
-* lukin *(vidanta, rigardanta)*
- * ~~ilo~~ lukin *(okulo ← vidorgano)*
- * **ilo** lukin *(spegulo ← rigardilo)* 
 * lupa *(kava, malplena)*
  * ~~ijo~~ lupa *(truo ← kavaĵo)*
 * ma *(vasta)*
  * ~~ijo~~ ma *(ejo, lando, grundo, kampo, tero, loko, spaco ← vastaĵo)*
    * ma Epelanto *(Esperantujo)*
-* mama *(kreanta, naskanta, kreskiganta)*
- * ~~jan~~ mama *(gepatro ← kreanto, naskanto, kreskiganto)*
 * mani *(mono)*
 * meli *(ina)*
  * ~~jan~~ meli *(virino, ino ← inulo)*
-* mi *(mi)*
 * mije *(vira)*
  * ~~jan~~ mije *(viro, masklo ← virulo)*
-* moku *(manĝanta)*
 * moli *(malviva)*
 * monsi *(malantaŭa)*
  * ~~ijo~~ monsi *(dorso ← malantaŭaĵo)*
@@ -113,18 +92,13 @@
 * noka *(stara)*
  * ~~ilo~~ noka *(gambo, piedo, bazo, fundamento, fundo ← starilo)*
    * lon noka *(malsupre de ← ĉe la fundo de)*
-* olin *(amanta)*
-* ona *(ŝi, li, ĝi, ili)*
 * open *(malfermita)*
  * ~~ma~~ open *(trairejo ← malfermita ejo)*
    * lon open *(tra ← en la trairejo de)*
 * pakala *(misa)*
-* pali *(laboranta, faranta)*
 * palisa *(indika)*
  * ~~ilo~~ palisa *(fingro, bastono ← indikilo)*
 * pan *(pano)*
-* pana *(donanta)*
-* pilin *(sentanta)*
 * pimeja *(malhela, nigra)*
 * pini *(eksa)*
 * pipi *(insekto)*
@@ -138,7 +112,6 @@
 * pona *(bona, simpla, harmonia)*
  * **jan** pona *(amiko ← bonulo)*
 * pu *(interaganta kun la oficiala libro pri Tokipono)*
-* sama *(kiel, sama)*
 * seli *(varma, arda)*
  * ~~ijo~~ seli *(fajro ← ardaĵo)*
 * selo *(eksterna)*
@@ -157,14 +130,11 @@
  * ~~ma~~ sike *(ĉirkaŭo ← ronda ejo)*
    * lon sike *(ĉirkaŭ ← en la ĉirkaŭo de)*
 * sin *(aldona)*
-* sina *(vi)*
 * sinpin *(antaŭa)*
  * ~~ijo~~ sinpin *(fronto, muro, obstaklo ← antaŭaĵo)*
    * sinpin lawa *(vizaĝo ← fronto de la kapo)*
  * ~~ma~~ sinpin *(antaŭo ← antaŭa ejo)*
    * lon sinpin *(antaŭ ← en la antaŭo de)*
-* sitelen *(pentranta, desegnanta)*
-* sona *(scianta, konanta)*
 * soweli *(mamulo)*
 * suli *(granda)*
 * suno *(brila)*
@@ -172,18 +142,13 @@
 * supa *()*
 * suwi *(dolĉa)*
  * ~~ijo~~ suwi *(dolĉaĵo)*
-* tan *()*
 * taso *()*
-* tawa *(ira, al, por, laŭ)*
- * **ilo** tawa *(veturilo ← irilo)*
-   * mi tawa ma tomo Lantan *(Mi iras al Londono.)*
 * telo *(likva, malseka)*
  * ~~ijo~~ telo *(akvo, likvo ← likvaĵo, malsekaĵo)*
    * telo nasa *(alkoholo ← strangiga likvo)*
  * telo e *(lavanta, bananta, duŝanta ← malsekiganta)*
 * tenpo *(daŭra)*
  * ~~ijo~~ tenpo *(tempo, periodo, fazo, ado ← daŭraĵo)*
-* toki *(parolanta, diranta)*
 * tomo *(hejma)*
  * ~~ma~~ tomo *(domo, ĉambro ← hejma ejo)*
    * **ma** tomo *(urbo ← doma tero)*
@@ -191,9 +156,7 @@
    * tomo telo *(banĉambro ← ĉambro de akvo)*
    * tomo pi telo nasa *(trinkejo ← ĉambro de alkoholo)*
 * tu *()*
-* unpa *()*
 * uta *()*
-* utala *()*
 * walo *(hela, blanka)*
 * wan *()*
 * waso *()*
