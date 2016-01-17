@@ -1,8 +1,43 @@
 # nasin toki pi toki pona
 *(Gramatiko de Tokipono)*
 
-[nimi ilo](#nimi-ilo) en [nimi ijo](#nimi-ijo) li nasin nimi lon toki pona.
-*(Partikuloj kaj radikaj vortoj estas la vortspecoj en Tokipono.)*
+[nimi kalama](#nimi-kalama) en [nimi ilo](#nimi-ilo) en [nimi ijo](#nimi-ijo) li nasin nimi lon toki pona.
+*(Sonimitoj, partikuloj kaj radikaj vortoj estas la vortspecoj en Tokipono.)*
+
+## nimi kalama
+*(Sonimitoj)*
+
+nimi "a" en nimi "mu" li **nimi kalama**. ona li sama kulupu sin pi [nimi suli](#nimi-suli). taso pu la ona li [nimi ilo](#nimi-ilo).
+*("a" kaj "mu" estas sonimitoj. Ili estas kiel propraj frazoj. Sed laŭ la oficiala libro pri Tokipono, ili estas partikuloj.)*
+
+* **a a a**! *(Ha ha ha!)* `©`
+* **mu**! *(Miaŭ!)* `©`
+
+monsi la **nimi kalama** "a" li wawa e kulupu pi [nimi suli](#nimi-suli).
+*(Malantaŭe, la sonimito "a" emfazas frazon.)*
+
+* sina pona lukin **a**! *(Vi estas ja bela!)*
+* sina pu a! *(Vi estas ja interaganta kun la oficiala libro pri Tokipono.)* `©`
+
+insa pi [nimi lawa](#nimi-lawa) en **nimi kalama** la nimi "pi nimi" li ken weka.
+*(Inter substantivo kaj sonimito, la vortoj "pi nimi" povas manki.)*
+
+* mi jan pi nimi "**Tepan**". → mi jan **Tepan**. *("Mi estas persono de la nomo 'Stephan'." → Mi estas Stephan.)*
+* mi sona e toki pi nimi "**Epelanto**". → mi sona e toki **Epelanto**. *("Mi konas la lingvon de la nomo 'Esperanto'." → Mi konas Esperanton.)*
+
+nimi "kalama e nimi" en nimi "kalama (pi) nimi" li ken kama "toki".
+*("kalama e nimi" kaj "kalama (pi) nimi" povas fariĝi "toki".)*
+
+* ona li kalama e nimi "**Inli**". (Ŝi prononcas la vorton "Inli".)
+ * ona li toki "**Inli**". (Ŝi prononcas "Inli".)
+* ona li kalama pi nimi "**Inli**". (Ĝi estas la prononco de la vorto "Inli".)
+ * ona li toki "**Inli**". (Ĝi estas la prononco "Inli".)
+
+___
+
+* a *(ha)*
+* mu *(miaŭ)*
+
 
 ## nimi ilo
 *(Partikuloj)*
@@ -208,44 +243,6 @@ sinpin pi [nimi lawa](#nimi-lawa) taso la **nimi "pi"** li weka. ni la [nimi law
 *(Antaŭ sola substantivo, la partikulo "pi" mankas. Tiam, tiu substantivo fariĝas adjektivo.)*
 
 * jan ~~**pi**~~ pona → jan pona *("persono de bono" → amiko)*
-
-## nimi kalama
-*(Sonimitoj)*
-
-nimi "a" en nimi "mu" li **nimi kalama**. ona li sama kulupu sin pi [nimi suli](#nimi-suli). taso pu la ona li **nimi ilo**.
-*("a" kaj "mu" estas sonimitoj. Ili estas kiel propraj frazoj. Sed laŭ la oficiala libro pri Tokipono, ili estas partikuloj.)*
-
-* **a a a**! *(Ha ha ha!)* `©`
-* **mu**! *(Miaŭ!)* `©`
-
-monsi la **nimi kalama** "a" li wawa e kulupu pi [nimi suli](#nimi-suli).
-*(Malantaŭe, la sonimito "a" emfazas frazon.)*
-
-* sina pona lukin **a**! *(Vi estas ja bela!)*
-
-kulupu pi [nimi suli](#nimi-suli) la **nimi kalama** li lon monsi pi nimi "nimi".
-*(En frazo, sonimito estas malantaŭ la vorto "nimi".)*
-
-* **nimi "mu**" li nimi pi kalama soweli. *(La vorto "mu" estas sonimito de bestoj.)*
-
-insa pi [nimi lawa](#nimi-lawa) en **nimi kalama** la nimi "pi nimi" li ken weka.
-*(Inter substantivo kaj sonimito, la vortoj "pi nimi" povas manki.)*
-
-* mi jan pi nimi "**Tepan**". → mi jan **Tepan**. *("Mi estas persono de la nomo 'Stephan'." → Mi estas Stephan.)*
-* mi sona e toki pi nimi "**Epelanto**". → mi sona e toki **Epelanto**. *("Mi konas la lingvon de la nomo 'Esperanto'." → Mi konas Esperanton.)*
-
-nimi "kalama e nimi" en nimi "kalama (pi) nimi" li ken kama "toki".
-*("kalama e nimi" kaj "kalama (pi) nimi" povas fariĝi "toki".)*
-
-* ona li kalama e nimi "**Inli**". (Ŝi prononcas la vorton "Inli".)
- * ona li toki "**Inli**". (Ŝi prononcas "Inli".)
-* ona li kalama pi nimi "**Inli**". (Ĝi estas la prononco de la vorto "Inli".)
- * ona li toki "**Inli**". (Ĝi estas la prononco "Inli".)
-
-___
-
-* a *(ha)*
-* mu *(miaŭ)*
 
 ## nimi ijo
 *(Radikaj Vortoj)*
