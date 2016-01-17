@@ -1,6 +1,6 @@
 # nimi pi toki pona
 
-* akesi *(malica)*
+* akesi *(malvarmsanga, malica)*
  * ~~sijelo~~ akesi *(reptilo, amfibio ← malica besto)* 
 * ala *(nula)*
 * ale *(tuta)*
