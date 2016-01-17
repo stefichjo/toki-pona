@@ -87,10 +87,10 @@ kulupu pi [nimi suli](#nimi-suli) pi wile sona pi lon anu ala la nimi "anu seme"
 
 * mi pali **e** ni: **sina lape**. → mi **lape e sina**. *(Mi faras, ke vi dormas. → Mi dormigas vin.)*
 
-nimi lon monsi pi nimi "li" li sama la kulupu tu pi nimi suli ken kama wan. ni la nimi suli pi nanpa wan li kama **nimi suli sinpin**.
-*(Kiam la subjekto estas la sama, du frazoj povas unuiĝi. Tiam la verbo de la unua frazo fariĝas helpa verbo.)*
+kulupu pi nimi suli lon monsi pi nimi "e ni" li jo e nimi sama lon sinpin pi nimi "li" la nimi suli tu li ken kama wan. ni la nimi suli pi nanpa wan li kama **nimi suli sinpin**.
+*(Kiam subfrazo havas la saman subjekton, la du verboj povas fariĝi unu. Tiam la unua verbo fariĝas helpa verbo.)*
 
-* ona li wile e ni: ona li kama e ni: ona li sona e toki pona. → ona li wile kama sona e toki pona. *(Ŝi volas lerni Tokiponon.)*
+* ona li **wile** e ni: ona li **kama** e ni: ona li **sona** e toki pona. → ona li **wile kama sona** e toki pona. *(Ŝi volas lerni Tokiponon.)*
 
 jan li **nimi suli palisa** e **nimi suli pi palisa ala** la **nimi suli sinpin** lon monsi pi **nimi suli pi palisa ala** li weka.
 *(Kiam oni igas netransitivan verbon transitiva, helpa verbo antaŭ la netransitiva verbo mankas.)*
