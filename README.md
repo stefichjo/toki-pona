@@ -433,7 +433,7 @@ ___
  * ~~ijo~~ selo *(ŝelo, haŭto, formo ← eksternaĵo)*
  * ~~ma~~ selo *(eksterno ← eksterna ejo)*
    * lon selo *(ekster ← en la eksterno)*
-   * tawa selo *(el ← al la eksterno)*
+  * tawa selo *(el ← al la eksterno)*
 * sewi *(alta)*
  * ~~ma~~ sewi *(alto, ĉielo ← alta ejo)*
    * lon sewi *(super ← en la alto de)*
