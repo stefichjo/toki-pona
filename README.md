@@ -49,6 +49,65 @@ sinpin pi [nimi suli](#nimi-suoi) ni poka pi **nimi "e"** la [nimi (suli palisa)
 
 * jan pona li ~~kama~~ pona **e** ona. → jan pona li pona **e** ona. *(Amiko bonigas ĝin.)*
 
+#### nimi suli palisa
+*(Transitivaj Verboj)*
+
+nimi "**alasa**" en nimi "**jo**" en nimi "**kute**" en nimi "**lawa**" en nimi "**lukin**" en nimi "**moku**" en nimi "**olin**" en nimi "**pali**" en nimi "**pana**" en nimi "**sona**" en nimi "**toki**" en nimi "**unpa**" en nimi "**utala**" li **nimi suli palisa**. tan ni la ona li jo e kulupu pi [nimi "e"](#nimi-e).
+*("alasa", "jo", "kute", "lawa", "lukin", "moku", "olin", "pali", "pana", "sona", "toki", "unpa" kaj "utala" estas transitivaj verboj. Tial, ili havas rektan objekton.)*
+
+* mi **olin e sina**. *(Mi amas vin.)*
+
+monsi pi **nimi suli palisa** la kulupu pi [nimi "e"](#nimi-e) li ken weka. ni la kon pi **nimi suli palisa** ni li awen sama.
+*(Malantaŭ transitiva verbo, la rekta objekto povas manki. Tiam, la signifo de tiu transitiva verbo restas la sama.)*
+
+* mi **moku e ijo**. → mi **moku**. *(Mi manĝas ion. → Mi manĝas.)*
+* mi **lukin pona e sitelen**. → mi **lukin pona**. *(Mi bone vidas la signojn. → Mi bone vidas.)*
+
+___
+
+* alasa *(ĉasanta)*
+* esun *(interŝanĝi)*
+ * ~~ma~~ esun *(merkato ← interŝanĝejo)*
+   * lon esun *(anstataŭ, por, kontraŭ ← en interŝanĝo de)*
+* jo *(havanta)*
+* kute *(aŭdanta, aŭskultanta, obeanta)*
+ * ~~ilo~~ kute *(orelo ← aŭdilo)*
+ * **ilo** kute *(kapaŭskultiloj ← aŭskultilo)*
+* lawa *(gvidanta, supra)*
+ * ~~ilo~~ lawa *(kapo ← gvidilo)*
+ * ~~ijo~~ lawa *(supro ← supraĵo)*
+ * **jan** lawa *(ĉefo, estro ← gvidanto, suprulo)*
+* lukin *(vidanta, rigardanta)*
+ * ~~ilo~~ lukin *(okulo ← vidorgano)*
+ * **ilo** lukin *(spegulo ← rigardilo)* 
+* mama *(kreanta, naskanta, kreskiganta)*
+ * ~~jan~~ mama *(gepatro ← kreanto, naskanto, kreskiganto)*
+* moku *(manĝanta)*
+* olin *(amanta)*
+* pali *(laboranta, faranta)*
+* pana *(donanta)*
+* pilin *(sentanta)*
+* sitelen *(pentranta, desegnanta)*
+* sona *(scianta, konanta)*
+* toki *(parolanta, diranta)*
+* unpa *(seksumanta)*
+* utala *(konfliktanta, batalanta)*
+
+
+#### nimi (suli palisa) sinpin
+*(Helpaj Verboj)*
+
+nimi "**awen**" en nimi "**kama**" en nimi "**ken**" en nimi "**lukin**" en nimi "**sona**" en nimi "**wile**" li **nimi (suli palisa) sinpin**. tan ni la ona li lon sinpin pi [nimi suli](#nimi-suli).
+*("awen", "kama", "ken", "lukin", "sona" kaj "wile" estas helpaj verboj. Tial, ili estas antaŭ la verbo.)*
+
+* ona li **wile** lape. *(Ŝi devas dormi.)*
+
+[nimi suli](#nimi-suli) li ken weka lon monsi pi **nimi (suli palisa) sinpin**. ni la **nimi (suli palisa) sinpin** ni li kama [nimi suli](#nimi-suli).
+*(Verbo povas manki malantaŭ helpa verbo. Tiam, tiu helpa verbo fariĝas verbo.)*
+
+* mi **wile** jo e ni. → mi **wile** e ni. *(Mi volas havi tion. → Mi volas tion.)*
+
+
 ### nimi "en"
 *(La partikulo "en")*
 
@@ -104,6 +163,18 @@ kulupu pi [nimi suli](#nimi-suli) pi pana sona pi lon anu ala la [nimi suli](#ni
 *(En jes-/ne-responda frazo, la verbo antaŭ "ala" povas manki.)*
 
 * pona ala. → ala. *(Ne bonas. → Ne.)*
+
+#### nimi suli
+*(Verboj)*
+
+kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi [nimi "li"](#nimi-li).
+*(En frazo, la verbo estas la plej grava vorto. Ĝi estas malantaŭ la partikulo "li".)*
+
+* ona li **lape**. *(Ŝi dormas.)*
+* ona li **pona**. *(Ŝi estas bona.)*
+* ona li **mama**. *(Ŝi estas gepatro.)*
+* ona li **tawa tomo**. *(Ŝi iras hejmen.)*
+* ona li **olin e sina**. *(Ŝi amas vin.)*
 
 ### nimi "o"
 *(La partikulo "o")*
@@ -179,80 +250,7 @@ ___
 ## nimi ijo
 *(Radikaj Vortoj)*
 
-### nimi suli
-*(Verboj)*
-
-kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan. ona li monsi pi [nimi "li"](#nimi-li).
-*(En frazo, la verbo estas la plej grava vorto. Ĝi estas malantaŭ la partikulo "li".)*
-
-* ona li **lape**. *(Ŝi dormas.)*
-* ona li **pona**. *(Ŝi estas bona.)*
-* ona li **mama**. *(Ŝi estas gepatro.)*
-* ona li **tawa tomo**. *(Ŝi iras hejmen.)*
-* ona li **olin e sina**. *(Ŝi amas vin.)*
-
-#### nimi suli palisa
-*(Transitivaj Verboj)*
-
-nimi "**alasa**" en nimi "**jo**" en nimi "**kute**" en nimi "**lawa**" en nimi "**lukin**" en nimi "**moku**" en nimi "**olin**" en nimi "**pali**" en nimi "**pana**" en nimi "**sona**" en nimi "**toki**" en nimi "**unpa**" en nimi "**utala**" li **nimi suli palisa**. tan ni la ona li jo e kulupu pi [nimi "e"](#nimi-e).
-*("alasa", "jo", "kute", "lawa", "lukin", "moku", "olin", "pali", "pana", "sona", "toki", "unpa" kaj "utala" estas transitivaj verboj. Tial, ili havas rektan objekton.)*
-
-* mi **olin e sina**. *(Mi amas vin.)*
-
-monsi pi **nimi suli palisa** la kulupu pi [nimi "e"](#nimi-e) li ken weka. ni la kon pi **nimi suli palisa** ni li awen sama.
-*(Malantaŭ transitiva verbo, la rekta objekto povas manki. Tiam, la signifo de tiu transitiva verbo restas la sama.)*
-
-* mi **moku e ijo**. → mi **moku**. *(Mi manĝas ion. → Mi manĝas.)*
-* mi **lukin pona e sitelen**. → mi **lukin pona**. *(Mi bone vidas la signojn. → Mi bone vidas.)*
-
-#### nimi (suli palisa) sinpin
-*(Helpaj Verboj)*
-
-nimi "**awen**" en nimi "**kama**" en nimi "**ken**" en nimi "**lukin**" en nimi "**sona**" en nimi "**wile**" li **nimi (suli palisa) sinpin**. tan ni la ona li lon sinpin pi [nimi suli](#nimi-suli).
-*("awen", "kama", "ken", "lukin", "sona" kaj "wile" estas helpaj verboj. Tial, ili estas antaŭ la verbo.)*
-
-* ona li **wile** lape. *(Ŝi devas dormi.)*
-
-[nimi suli](#nimi-suli) li ken weka lon monsi pi **nimi (suli palisa) sinpin**. ni la **nimi (suli palisa) sinpin** ni li kama [nimi suli](#nimi-suli).
-*(Verbo povas manki malantaŭ helpa verbo. Tiam, tiu helpa verbo fariĝas verbo.)*
-
-* mi **wile** jo e ni. → mi **wile** e ni. *(Mi volas havi tion. → Mi volas tion.)*
-
-___
-
-* alasa *(ĉasanta)*
-* esun *(interŝanĝi)*
- * ~~ma~~ esun *(merkato ← interŝanĝejo)*
-   * lon esun *(anstataŭ, por, kontraŭ ← en interŝanĝo de)*
-* jo *(havanta)*
-* kute *(aŭdanta, aŭskultanta, obeanta)*
- * ~~ilo~~ kute *(orelo ← aŭdilo)*
- * **ilo** kute *(kapaŭskultiloj ← aŭskultilo)*
-* lawa *(gvidanta, supra)*
- * ~~ilo~~ lawa *(kapo ← gvidilo)*
- * ~~ijo~~ lawa *(supro ← supraĵo)*
- * **jan** lawa *(ĉefo, estro ← gvidanto, suprulo)*
-* lukin *(vidanta, rigardanta)*
- * ~~ilo~~ lukin *(okulo ← vidorgano)*
- * **ilo** lukin *(spegulo ← rigardilo)* 
-* mama *(kreanta, naskanta, kreskiganta)*
- * ~~jan~~ mama *(gepatro ← kreanto, naskanto, kreskiganto)*
-* moku *(manĝanta)*
-* olin *(amanta)*
-* pali *(laboranta, faranta)*
-* pana *(donanta)*
-* pilin *(sentanta)*
-* sitelen *(pentranta, desegnanta)*
-* sona *(scianta, konanta)*
-* toki *(parolanta, diranta)*
-* unpa *(seksumanta)*
-* utala *(konfliktanta, batalanta)*
-
-
-
-
-
-#### nimi "seme"
+### nimi "seme"
 *("kio")*
 
 kulupu pi [nimi suli](#nimi-suli) pi wile sona la **nimi "seme"** li lon. ona li sama [nimi ijo](#nimi-ijo). taso pu la ona li [nimi ilo](#nimi-ilo).
@@ -273,10 +271,6 @@ ___
    * **tawa** seme *(kien ← al kio)*
  * **tenpo** seme *(kiam ← kiu tempo)*
  * **lon nasin** seme *(kiel ← en kiu maniero)*
-
-
-
-
 
 ### nimi monsi
 *(Adjektivoj/Adverboj)*
