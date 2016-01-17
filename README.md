@@ -69,37 +69,30 @@ ___
 *(La partikulo "anu")*
 
 kulupu pi [nimi suli](#nimi-suli) pi wile sona pi lon anu ala la nimi "anu seme" li lon pini.
-*(En jes-/ne-demandoj, la vortoj "anu seme" estas ĉe la fino.)*
+*(En jes-/ne-demandoj, "anu seme" estas ĉe la fino.)*
 
 * ona li kama **anu** seme? *("Ŝi venos aŭ kio?" → Ĉu ŝi venos?)*
 
 ### nimi "e"
 *(La Partikulo "e")*
 
-jan ken [nimi suli](#nimi-suli) e [nimi ijo](#nimi-ijo).
-*(Oni povas verbigi radikan vorton.)*
-
-* ona li pona. *(Ĝi estas bona.)*
-* ona li kama pona. *(Ĝi boniĝas.)*
-
-sinpin pi [nimi suli](#nimi-suoi) ni poka pi **nimi "e"** la [nimi (suli palisa) sinpin](#nimi-suli-palisa-sinpin) li ken weka.
-*(Antaŭ tia verbo kun rekta objekto, helpa verbo povas manki.)*
-
-* jan pona li ~~kama~~ pona **e** ona. → jan pona li pona **e** ona. *(Amiko bonigas ĝin.)*
-
-#### nimi suli palisa
-*(Transitivaj Verboj)*
-
-nimi "**alasa**" en nimi "**jo**" en nimi "**kute**" en nimi "**lawa**" en nimi "**lukin**" en nimi "**moku**" en nimi "**olin**" en nimi "**pali**" en nimi "**pana**" en nimi "**sona**" en nimi "**toki**" en nimi "**unpa**" en nimi "**utala**" li **nimi suli palisa**. tan ni la ona li jo e kulupu pi [nimi "e"](#nimi-e).
-*("alasa", "jo", "kute", "lawa", "lukin", "moku", "olin", "pali", "pana", "sona", "toki", "unpa" kaj "utala" estas transitivaj verboj. Tial, ili havas rektan objekton.)*
-
-* mi **olin e sina**. *(Mi amas vin.)*
-
-monsi pi **nimi suli palisa** la kulupu pi [nimi "e"](#nimi-e) li ken weka. ni la kon pi **nimi suli palisa** ni li awen sama.
-*(Malantaŭ transitiva verbo, la rekta objekto povas manki. Tiam, la signifo de tiu transitiva verbo restas la sama.)*
+**nimi suli palisa** li jo e kulupu pi **nimi "e"**. taso kulupu pi **nimi "e"** li ken weka. ni la kon pi **nimi suli palisa** li ante ala.
+*(Transitiva verbo havas rektan objekton. Sed la rekta objekto povas manki. Tiam, la signifo de transitiva verbo ne ŝanĝiĝas.)*
 
 * mi **moku e ijo**. → mi **moku**. *(Mi manĝas ion. → Mi manĝas.)*
 * mi **lukin pona e sitelen**. → mi **lukin pona**. *(Mi bone vidas la signojn. → Mi bone vidas.)*
+
+**nimi suli pi palisa ala** li jo ala e kulupu pi **nimi "e"**. taso jan li ken **nimi suli palisa** e **nimi suli pi palisa ala** kepeken nimi "pali (e) ni" weka.
+*(Netransitiva verbo ne havas rektan objekton. Sed oni povas igi netransitivan verbon transitiva per manka "pali (e) ni".)*
+
+* mi pali **e** ni: **sina lape**. → mi **lape e sina**. *(Mi faras, ke vi dormas. → Mi dormigas vin.)*
+
+jan li **nimi suli palisa** e **nimi suli pi palisa ala** la [nimi suli sinpin](#nimi-suli-sinpin) lon monsi pi **nimi suli pi palisa ala** li weka.
+*(Kiam oni igas netransitivan verbon transitiva, helpa verbo antaŭ la netransitiva verbo mankas.)*
+
+* ona li pona. *(Ĝi estas bona.)*
+* ona li kama pona. *(Ĝi boniĝas.)*
+* mi pali **e** ni: **ona** li **kama pona**. → mi **~~kama~~ pona e ona**. → mi **pona e ona**. *(Mi bonigas ĝin.)*
 
 ___
 
@@ -130,7 +123,6 @@ ___
 * toki *(parolanta, diranta)*
 * unpa *(seksumanta)*
 * utala *(konfliktanta, batalanta)*
-
 
 #### nimi (suli palisa) sinpin
 *(Helpaj Verboj)*
