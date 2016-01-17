@@ -177,26 +177,26 @@ kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi [nimi lawa ma]
 ### nimi "li"
 *(La Partikulo "li")*
 
-**nimi "li"** li lon insa pi [nimi lawa](#nimi-lawa) en [nimi suli](#nimi-suli).
+**nimi "li"** li lon insa pi [nimi lawa](#nimi-lawa) en **nimi suli**.
 *(La partikulo "li" estas inter substantivo kaj verbo.)*
 
 * ona **li** toki. *(Ŝi parolas.)*
 
-monsi pi nimi "mi" taso anu nimi "sina" taso la **nimi "li"** li weka.
-*(Malantaŭ sola "mi" aŭ sola "sina", la partikulo "li" mankas.)*
+**nimi lon sinpin pi nimi "li"** li nimi "mi" anu nimi "sina" la **nimi "li"** li weka.
+*(Se la subjekto estas "mi" aŭ "sina", "li" mankas.)*
 
 * mi ~~**li**~~ toki. → mi toki. *(Mi parolas.)*
 * sina ~~**li**~~ toki. → sina toki. *(Vi parolas.)*
 
-kulupu pi [nimi suli](#nimi-suli) pi pana sona pi lon anu ala li [nimi suli](#nimi-suli) taso.
-*(Jes-/ne-responda frazo konsistas nur el verbo.)*
+**nimi "li"** en **nimi lon sinpin pi nimi "li"** li ken weka.
 
-* pona. *(Bonas. → Jes.)*
+* ona **li** kama. → kama. *(Ŝi venos. → Venos.)*
 
-kulupu pi [nimi suli](#nimi-suli) pi pana sona pi lon anu ala la [nimi suli](#nimi-suli) lon sinpin pi nimi "ala" li ken weka.
-*(En jes-/ne-responda frazo, la verbo antaŭ "ala" povas manki.)*
+ni la jan ken pana sona kepeken tenpo lili. **nimi suli** lon sinpin pi nimi "ala" li ken weka.
+*(Tiel oni povas rapide respondi. La verbo antaŭ "ala" povas manki.)*
 
-* pona ala. → ala. *(Ne bonas. → Ne.)*
+* kama. *(Venos. → Jes.)*
+* kama ala. → ala. *(Ne venos. → Ne.)*
 
 #### nimi suli
 *(Verboj)*
