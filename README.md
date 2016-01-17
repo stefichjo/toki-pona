@@ -105,20 +105,6 @@ kulupu pi [nimi suli](#nimi-suli) pi pana sona pi lon anu ala la [nimi suli](#ni
 
 * pona ala. → ala. *(Ne bonas. → Ne.)*
 
-### nimi "pi"
-*(La Partikulo "pi")*
-
-**nimi "pi"** li insa [nimi lawa](#nimi-lawa) tu.
-*(La partikulo "pi" estas inter du substantivoj.)*
-
-* nimi **pi** jan pona *(nomo de amiko)*
-* tomo tawa **pi** jan pona *(aŭto de amiko)*
-
-sinpin pi [nimi lawa](#nimi-lawa) taso la **nimi "pi"** li weka. ni la [nimi lawa](#nimi-lawa) ni li kama [nimi monsi](#nimi-monsi).
-*(Antaŭ sola substantivo, la partikulo "pi" mankas. Tiam, tiu substantivo fariĝas adjektivo.)*
-
-* jan ~~**pi**~~ pona → jan pona *("persono de bono" → amiko)*
-
 ### nimi "o"
 *(La partikulo "o")*
 
@@ -137,6 +123,20 @@ nimi "o lon" li ken weka.
 
 * kama pona **o** lon! → kama pona! *("Estu bonveno!" → Bonvenon)*!
 * tawa pona **o** lon! → tawa pona! *("Estu bona vojaĝo!" → Bonan vojaĝon!)*
+
+### nimi "pi"
+*(La Partikulo "pi")*
+
+**nimi "pi"** li insa [nimi lawa](#nimi-lawa) tu.
+*(La partikulo "pi" estas inter du substantivoj.)*
+
+* nimi **pi** jan pona *(nomo de amiko)*
+* tomo tawa **pi** jan pona *(aŭto de amiko)*
+
+sinpin pi [nimi lawa](#nimi-lawa) taso la **nimi "pi"** li weka. ni la [nimi lawa](#nimi-lawa) ni li kama [nimi monsi](#nimi-monsi).
+*(Antaŭ sola substantivo, la partikulo "pi" mankas. Tiam, tiu substantivo fariĝas adjektivo.)*
+
+* jan ~~**pi**~~ pona → jan pona *("persono de bono" → amiko)*
 
 ## nimi kalama
 *(Sonimitoj)*
