@@ -52,6 +52,9 @@ nimi "**anu**" en nimi "**e**" en nimi "**en**" en nimi "**la**" en nimi "**li**
 
 * toki **li** pona. *(Komunikado estas bona.)* `©`
 
+nimi "seme" li sama [nimi ijo](#nimi-ijo). taso pu la ona li **nimi ilo**.
+*("seme" estas kiel radika vorto. Sed laŭ la oficiala libro pri Tokipono, ĝi estas partikulo.)*
+
 ___
 
 * [anu](#nimi-anu) *(aŭ)*
