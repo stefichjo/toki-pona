@@ -1,2 +1,0 @@
-# nimi pi toki pona
-
