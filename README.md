@@ -38,7 +38,6 @@ ___
 * a *(ha)*
 * mu *(miaŭ)*
 
-
 ## nimi ilo
 *(Partikuloj)*
 
@@ -82,8 +81,8 @@ kulupu pi [nimi suli](#nimi-suli) pi wile sona pi lon anu ala la nimi "anu seme"
 * mi **moku e ijo**. → mi **moku**. *(Mi manĝas ion. → Mi manĝas.)*
 * mi **lukin pona e sitelen**. → mi **lukin pona**. *(Mi bone vidas la signojn. → Mi bone vidas.)*
 
-**nimi suli pi palisa ala** li jo ala e kulupu pi **nimi "e"**. taso jan li ken **nimi suli palisa** e **nimi suli pi palisa ala** kepeken nimi "pali (e) ni" weka.
-*(Netransitiva verbo ne havas rektan objekton. Sed oni povas igi netransitivan verbon transitiva per manka "pali (e) ni".)*
+**nimi suli pi palisa ala** li jo ala e kulupu pi **nimi "e"**. taso jan li ken **nimi suli palisa** e **nimi suli pi palisa ala** kepeken nimi "pali (e) ni" weka. ni la kon pi **nimi suli pi palisa ala** li kama ante.
+*(Netransitiva verbo ne havas rektan objekton. Sed oni povas igi netransitivan verbon transitiva per manka "pali (e) ni". Tiam, la signifo de la netransitiva verbo ŝanĝiĝas.)*
 
 * mi pali **e** ni: **sina lape**. → mi **lape e sina**. *(Mi faras, ke vi dormas. → Mi dormigas vin.)*
 
