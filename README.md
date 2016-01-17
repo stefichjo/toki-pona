@@ -27,19 +27,59 @@ ___
 * [o](#nimi-o) *(-u)*
 * [pi](#nimi-pi) *(de, -a, -e)*
 
-### nimi "pi"
-*(La Partikulo "pi")*
+### nimi "anu"
+*(La partikulo "anu")*
 
-**nimi "pi"** li insa [nimi lawa](#nimi-lawa) tu.
-*(La partikulo "pi" estas inter du substantivoj.)*
+kulupu pi [nimi suli](#nimi-suli) pi wile sona pi lon anu ala la nimi "anu seme" li lon pini.
+*(En jes-/ne-demandoj, la vortoj "anu seme" estas ĉe la fino.)*
 
-* nimi **pi** jan pona *(nomo de amiko)*
-* tomo tawa **pi** jan pona *(aŭto de amiko)*
+* ona li kama **anu** seme? *("Ŝi venos aŭ kio?" → Ĉu ŝi venos?)*
 
-sinpin pi [nimi lawa](#nimi-lawa) taso la **nimi "pi"** li weka. ni la [nimi lawa](#nimi-lawa) ni li kama [nimi monsi](#nimi-monsi).
-*(Antaŭ sola substantivo, la partikulo "pi" mankas. Tiam, tiu substantivo fariĝas adjektivo.)*
+### nimi "e"
+*(La Partikulo "e")*
 
-* jan ~~**pi**~~ pona → jan pona *("persono de bono" → amiko)*
+jan ken [nimi suli](#nimi-suli) e [nimi ijo](#nimi-ijo).
+*(Oni povas verbigi radikan vorton.)*
+
+* ona li pona. *(Ĝi estas bona.)*
+* ona li kama pona. *(Ĝi boniĝas.)*
+
+sinpin pi [nimi suli](#nimi-suoi) ni poka pi **nimi "e"** la [nimi (suli palisa) sinpin](#nimi-suli-palisa-sinpin) li ken weka.
+*(Antaŭ tia verbo kun rekta objekto, helpa verbo povas manki.)*
+
+* jan pona li ~~kama~~ pona **e** ona. → jan pona li pona **e** ona. *(Amiko bonigas ĝin.)*
+
+### nimi "en"
+*(La partikulo "en")*
+
+jan ken kepeken **nimi "en"** ala lon kulupu pi [nimi "li"](#nimi-li) anu kulupu pi [nimi "e"](#nimi-e).
+*(Oni ne povas uzi la partikulon "en" en predikato aŭ en rekta objekto.)*
+
+* ona li moku ~~**en**~~ toki. → ona li moku li toki. *(Ŝi manĝas kaj parolas.)*
+* ona li moku e kili ~~**en**~~ pan. → ona li moku e kili e pan. *(Ŝi manĝas frukton kaj panon.)*
+
+### nimi "la"
+*(La partikulo "la")*
+
+kulupu pi [nimi monsi palisa](#nimi-monsi-palisa) li ken kama kulupu pi **nimi "la"**.
+*(Prepozicia frazero povas fariĝi helpa frazero.)*
+
+* mi pali lon tomo. → lon tomo **la** mi pali. *(Mi laboras ĉe la domo. → Ĉe la domo, mi laboras.)*
+
+kulupu pi **nimi "la"** la [nimi monsi palisa](#nimi-monsi-palisa) "lon" li ken weka.
+*(En helpa frazero, la prepozicio "lon" povas manki.)*
+
+* lon tomo **la** mi pali. → tomo **la** mi pali. *(Ĉe la domo, mi laboras. → Hejme, mi laboras.)*
+
+kulupu pi **nimi "la"** la nimi "lon ni:" li weka.
+*(En helpa frazero, la konjunkcio "lon ni:" mankas.)*
+
+* mi pali lon ni: mi lon tomo. → mi lon tomo **la** mi pali. *("Mi laboras ĉe tio: mi estas ĉe la domo." → Se mi estas ĉe la domo, mi laboras.)*
+
+kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi [nimi lawa ma](#nimi-lawa-ma).
+*(En helpa frazero, la partikulo "la" povas manki malantaŭ loka substantivo.)*
+
+* mi pali lon taso. → taso **la** mi pali. → taso mi pali. *(Mi laboras ĉe sendependo. → Sendepende, mi laboras. → Sed mi laboras.)* `K`
 
 ### nimi "li"
 *(La Partikulo "li")*
@@ -65,19 +105,19 @@ kulupu pi [nimi suli](#nimi-suli) pi pana sona pi lon anu ala la [nimi suli](#ni
 
 * pona ala. → ala. *(Ne bonas. → Ne.)*
 
-### nimi "e"
-*(La Partikulo "e")*
+### nimi "pi"
+*(La Partikulo "pi")*
 
-jan ken [nimi suli](#nimi-suli) e [nimi ijo](#nimi-ijo).
-*(Oni povas verbigi radikan vorton.)*
+**nimi "pi"** li insa [nimi lawa](#nimi-lawa) tu.
+*(La partikulo "pi" estas inter du substantivoj.)*
 
-* ona li pona. *(Ĝi estas bona.)*
-* ona li kama pona. *(Ĝi boniĝas.)*
+* nimi **pi** jan pona *(nomo de amiko)*
+* tomo tawa **pi** jan pona *(aŭto de amiko)*
 
-sinpin pi [nimi suli](#nimi-suoi) ni poka pi **nimi "e"** la [nimi (suli palisa) sinpin](#nimi-suli-palisa-sinpin) li ken weka.
-*(Antaŭ tia verbo kun rekta objekto, helpa verbo povas manki.)*
+sinpin pi [nimi lawa](#nimi-lawa) taso la **nimi "pi"** li weka. ni la [nimi lawa](#nimi-lawa) ni li kama [nimi monsi](#nimi-monsi).
+*(Antaŭ sola substantivo, la partikulo "pi" mankas. Tiam, tiu substantivo fariĝas adjektivo.)*
 
-* jan pona li ~~kama~~ pona **e** ona. → jan pona li pona **e** ona. *(Amiko bonigas ĝin.)*
+* jan ~~**pi**~~ pona → jan pona *("persono de bono" → amiko)*
 
 ### nimi "o"
 *(La partikulo "o")*
@@ -97,46 +137,6 @@ nimi "o lon" li ken weka.
 
 * kama pona **o** lon! → kama pona! *("Estu bonveno!" → Bonvenon)*!
 * tawa pona **o** lon! → tawa pona! *("Estu bona vojaĝo!" → Bonan vojaĝon!)*
-
-### nimi "en"
-*(La partikulo "en")*
-
-jan ken kepeken **nimi "en"** ala lon kulupu pi [nimi "li"](#nimi-li) anu kulupu pi [nimi "e"](#nimi-e).
-*(Oni ne povas uzi la partikulon "en" en predikato aŭ en rekta objekto.)*
-
-* ona li moku ~~**en**~~ toki. → ona li moku li toki. *(Ŝi manĝas kaj parolas.)*
-* ona li moku e kili ~~**en**~~ pan. → ona li moku e kili e pan. *(Ŝi manĝas frukton kaj panon.)*
-
-### nimi "anu"
-*(La partikulo "anu")*
-
-kulupu pi [nimi suli](#nimi-suli) pi wile sona pi lon anu ala la nimi "anu seme" li lon pini.
-*(En jes-/ne-demandoj, la vortoj "anu seme" estas ĉe la fino.)*
-
-* ona li kama **anu** seme? *("Ŝi venos aŭ kio?" → Ĉu ŝi venos?)*
-
-### nimi "la"
-*(La partikulo "la")*
-
-kulupu pi [nimi monsi palisa](#nimi-monsi-palisa) li ken kama kulupu pi **nimi "la"**.
-*(Prepozicia frazero povas fariĝi helpa frazero.)*
-
-* mi pali lon tomo. → lon tomo **la** mi pali. *(Mi laboras ĉe la domo. → Ĉe la domo, mi laboras.)*
-
-kulupu pi **nimi "la"** la [nimi monsi palisa](#nimi-monsi-palisa) "lon" li ken weka.
-*(En helpa frazero, la prepozicio "lon" povas manki.)*
-
-* lon tomo **la** mi pali. → tomo **la** mi pali. *(Ĉe la domo, mi laboras. → Hejme, mi laboras.)*
-
-kulupu pi **nimi "la"** la nimi "lon ni:" li weka.
-*(En helpa frazero, la konjunkcio "lon ni:" mankas.)*
-
-* mi pali lon ni: mi lon tomo. → mi lon tomo **la** mi pali. *("Mi laboras ĉe tio: mi estas ĉe la domo." → Se mi estas ĉe la domo, mi laboras.)*
-
-kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi [nimi lawa ma](#nimi-lawa-ma).
-*(En helpa frazero, la partikulo "la" povas manki malantaŭ loka substantivo.)*
-
-* mi pali lon taso. → taso **la** mi pali. → taso mi pali. *(Mi laboras ĉe sendependo. → Sendepende, mi laboras. → Sed mi laboras.)* `K`
 
 ## nimi kalama
 *(Sonimitoj)*
