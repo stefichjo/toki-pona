@@ -87,7 +87,7 @@ kulupu pi [nimi suli](#nimi-suli) pi wile sona pi lon anu ala la nimi "anu seme"
 ___
 
 * alasa *(ĉasanta)*
-* [esun](#nimi-lawa-weka-ma)
+* [esun](#nimi-lawa-weka-mute-pi-ijo)
 * jo *(havanta)*
 * [kute](#nimi-lawa-weka-ilo)
 * [lawa](#nimi-lawa-weka-ilo)
@@ -271,7 +271,6 @@ ___
 * loje *(ruĝa)*
 * moli *(malviva)*
 * musi *(distriĝa, amuziĝa)*
-* mute *(multa)*
 * nasa *(stranga, malkutima, freneza)*
 * pakala *(misa)*
 * pimeja *(malhela, nigra)*
@@ -281,9 +280,7 @@ ___
 * sin *(aldona)*
 * suli *(granda)*
 * tenpo *(daŭra)*
-* tu *(disa)*
 * walo *(hela, blanka)*
-* wan *(unika, unueca)*
 * wawa *(forta, energia)*
 
 
@@ -433,9 +430,7 @@ ___
 * anpa *(malsupra)*
  * ~~ma~~ anpa *(malsupro ← malsupra ejo)*
    * lon anpa *(sub ← en la malsupro de)*
-* esun *(interŝanĝi)* `K`
- * ~~ma~~ esun *(merkato ← interŝanĝejo)*
-   * lon esun *(anstataŭ, por, kontraŭ ← en interŝanĝo de)* `K`
+* [esun](#nimi-lawa-weka-mute-pi-ijo)
 * insa *(interna)*
  * ~~ijo~~ insa *(mezo, centro ← internaĵo)*
    * lon insa *(inter ← en la mezo de)*
@@ -499,6 +494,8 @@ nimi "seme" li sama [nimi ijo](#nimi-ijo). taso pu la ona li [nimi ilo](#nimi-il
 
 ___
 
+* [ala](#nimi-lawa-weka-mute)
+* [ale](#nimi-lawa-weka-mute)
 * ni *(tiu)*
   * ~~ijo~~ ni *(tio ← tiu afero)*
     * pi **ijo** ni *(ties ← de tio)*
@@ -556,6 +553,34 @@ ___
    * pi **jan** seme *(ĉies ← de ĉiu)*
  * lon tenpo ale *(ĉiam ← en ĉiu tempo)*
 
+###### nimi lawa weka "mute pi ijo"
+
+___
+* wan *(unika, unueca)*
+ * ~~mute pi ijo~~ wan *(unu ← kvanto de io unueca)*
+* tu *(dividita)*
+ * ~~mute pi ijo~~ tu *(du ← kvanto de io dividita)*
+* mute *(multa)*
+ * ~~mute pi ijo~~ mute *(tri ← kvanto de io multa)*
+* luka *(atinganta, manipulanta)* `K`
+ * ~~ilo~~ luka *(brako, mano ← atingilo, manipulilo)*
+   * ~~mute pi ijo~~ luka *(kvin ← kvanto de io mana)*
+* esun *(interŝanĝanta)* `K`
+ * ~~ma~~ esun *(merkato ← interŝanĝejo)*
+   * ~~sike~~ esun *(semajno ← merkata ciklo)*
+     * ~~mute pi ijo~~ esun *(sep ← kvanto de io semajna)*
+   * lon esun *(anstataŭ, por, kontraŭ ← en interŝanĝo de)* `K`
+
+##### nimi lawa weka "sike"
+
+* tenpo suno *(tago ← brila tempo)*
+ * ~~sike pi~~ tenpo suno *(diurno ← taga ciklo)*
+
+___
+
+* [esun](#nimi-lawa-weka-mute-pi-ijo)
+
+
 ##### nimi lawa weka "ilo"
 
 ___
@@ -566,8 +591,7 @@ ___
  * ~~ilo~~ lawa *(kapo ← gvidilo)*
  * ~~ijo~~ lawa *(supro ← supraĵo)* `K`
  * **jan** lawa *(ĉefo, estro ← gvidanto, suprulo)*
-* luka *(atinganta, manipulanta)* `K`
- * ~~ilo~~ luka *(brako, mano ← atingilo, manipulilo)*
+* [luka](#nimi-lawa-weka-mute-pi-ijo)
 * lukin *(vidanta, rigardanta)*
  * ~~ilo~~ lukin *(okulo ← vidorgano)*
  * **ilo** lukin *(spegulo ← rigardilo)*
@@ -613,19 +637,9 @@ ___
  * ~~jan~~ mije *(viro, masklo ← virulo)*
 * [sewi](#nimi-lawa-weka-ma)
 
+##########################################################
 ###### nimi pi ijo mute
 *(Numeraloj)*
-
-nimi pi ijo mute la nimi "mute pi ijo" li ken weka.
-*(Ĉe numeraloj, "mute pi ijo" povas manki.)*
-
-* **mute pi ijo** ala → ala *("kvanto de nenio" → neniom)*
-* **mute pi ijo** ale → ale *("kvanto de ĉio" → ĉiom)*
-* **mute pi ijo** wan → wan *("kvanto de io unika" → unu)*
-* **mute pi ijo** tu → tu *("kvanto de io dividita" → du)* `K`
-* **mute pi ijo** mute → mute *("kvanto de io multa" → tri, multe)* `K`
-* **mute pi ijo** luka → luka *("kvanto de io mana" → kvin)*
-* **mute pi ijo** esun → esun *("kvanto de io merkata" → sep)* `K`
 
 pu la, nimi "ale" li ken jo e kon pi nimi "mute mute".
 *(Laŭ la oficiala libro pri Tokipono, "ale" povas signifi "tre multe".)*
