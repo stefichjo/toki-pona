@@ -255,20 +255,16 @@ sinpin pi [nimi lawa](#nimi-lawa) taso la **nimi "pi"** li weka. ni la [nimi law
 #### nimi monsi palisa
 *(Prepozicioj)*
 
-nimi "**tan**" en nimi "**lon**" en nimi "**tawa**" en nimi "**sama**" en nimi "**kepeken**" li **nimi monsi palisa**.
-*("tan", "lon", "tawa", "sama" kaj "kepeken" estas prepozicioj.)*
+kulupu pi **nimi monsi palisa** li jo e **nimi monsi palisa** e nimi lon monsi.
+*(Prepozicia frazero havas prepozicion kaj vorton malantaŭan.)*
 
 * ona li **tawa** tomo. *(Ŝi iras hejmen.)*
 
-**nimi monsi palisa** li ken kama [nimi ijo](#nimi-ijo) pona.
-*(Prepozicio povas fariĝi simpla radika vorto.)*
+**nimi monsi palisa** li ken kama [nimi monsi](#nimi-monsi) pona.
+*(Prepozicio povas fariĝi simpla adjektivo/adverbo vorto.)*
 
 * ona li **tawa**. *(Ŝi iras.)*
-
-kon pi nimi "lon" li ken kon pi nimi "weka ala".
-*(La signifo de "lon" povas esti "weka ala".)*
-
-* mi **lon** e sina. *("Mi malizolas vin." → Mi vekas vin.)*
+* ona li tomo **tawa**. *(Ĝi estas aŭto.)*
 
 kon pi nimi "tawa" li ken kon pi nimi "kama ma ante". taso ona li ken kon pi nimi "wile kama ma ante" sin.
 *(La signifo de "tawa" povas esti "alilokiĝi"/"moviĝi". Sed ĝi ankaŭ povas signifi "alilokiĝemi"/"por".)*
