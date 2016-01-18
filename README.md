@@ -247,8 +247,8 @@ sinpin pi [nimi lawa](#nimi-lawa) taso la **nimi "pi"** li weka. ni la [nimi law
 ### nimi monsi
 *(Adjektivoj/Adverboj)*
 
-**nimi monsi** li lon monsi pi [nimi lawa](#nimi-lawa) anu [nimi suli](#nimi-suli).
-*(Adjektivo/adverbo estas malantaŭ substantivo respektive verbo.)*
+**nimi monsi** li lon monsi pi [nimi lawa](#nimi-lawa) anu [nimi suli](#nimi-suli). [nimi ijo](#nimi-ijo) ale li ken kama **nimi monsi**.
+*(Adjektivo/adverbo estas malantaŭ substantivo respektive verbo. Ĉiu radika vorto povas fariĝi adjektivo/adverbo.)*
 
 * mi jo e lukin **pona**. → mi lukin **pona**. *(Mi havas bonan vidon. → Mi bone vidas.)*
 
