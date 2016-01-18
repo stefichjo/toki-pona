@@ -525,6 +525,11 @@ ___
 
 ##### nimi lawa weka "mute"
 
+pu la nimi "ale" li ken jo e kon pi nimi "mute mute".
+*(Laŭ la oficiala libro pri Tokipono, "ale" povas signifi "tre multe".)*
+
+* nimi ale *(cent vortoj ← ĉiuj vortoj)*
+
 ___
 * ala *(nula, neniu)*
  * ~~ijo~~ ala *(nenio ← nula afero, neniu afero)*
@@ -554,6 +559,16 @@ ___
  * lon tenpo ale *(ĉiam ← en ĉiu tempo)*
 
 ###### nimi lawa weka "mute pi ijo"
+
+pu la nimi "nanpa" ken nimi ilo. ni la nimi "pi" lon insa pi nimi "nanpa" en nimi "mute" li weka.
+*(Laŭ la oficiala libro pri Tokipono, "nanpa" povas esti partikulo. Tiam, "pi" inter "nanpa" kaj "mute" mankas.)*
+
+* toki pi nanpa pi **mute pi ijo** wan → toki nanpa wan *(unua lingvo)* `©`
+
+pu la nimi pi ijo mute li ken nimi ilo lon poka pi nimi ante pi ijo mute. tan ni la nimi ilo "en" lon insa pi nimi tu pi ijo mute li lon ala. ni la nimi tu ni pi ijo mute li sama nimi wan sin pi ijo mute. tan ni la nimi "pi" lon monsi ona li lon ala.
+*(Laŭ la oficiala libro pri Tokipono, numeralo povas esti partikulo kun alia numeralo. Tial, ne estas la partikulo "en" inter du numeraloj. Tiam, tiaj du numeraloj estas kiel unu nova numeralo. Tial, ne estas "pi" antaŭ ili.)*
+
+* kili **pi** tu **en** wan → kili tu wan *(tri fruktoj)*
 
 ___
 * wan *(unika, unueca)*
@@ -636,26 +651,6 @@ ___
 * mije *(vira)*
  * ~~jan~~ mije *(viro, masklo ← virulo)*
 * [sewi](#nimi-lawa-weka-ma)
-
-##########################################################
-###### nimi pi ijo mute
-*(Numeraloj)*
-
-pu la, nimi "ale" li ken jo e kon pi nimi "mute mute".
-*(Laŭ la oficiala libro pri Tokipono, "ale" povas signifi "tre multe".)*
-
-* nimi ale *("ĉiuj vortoj" → cent vortoj)*
-
-pu la nimi "nanpa" ken nimi ilo. ni la "pi" lon insa pi nimi "nanpa" en nimi "mute" li weka.
-*(Laŭ la oficiala libro pri Tokipono, "nanpa" povas esti partikulo. Tiam, "pi" inter "nanpa" kaj "mute" mankas.)*
-
-* toki **pi** nanpa wan → toki nanpa wan *(unua lingvo)* `©`
-* lipu **pi** nanpa ale → lipu nanpa ale *("lasta paĝo" → centa paĝo)* `K`
-
-pu la nimi pi ijo mute li ken nimi ilo lon poka pi nimi ante pi ijo mute. tan ni la nimi ilo "en" lon insa pi nimi tu pi ijo mute li lon ala. ni la nimi tu ni pi ijo mute li sama nimi wan sin pi ijo mute. tan ni la nimi "pi" lon monsi ona li lon ala.
-*(Laŭ la oficiala libro pri Tokipono, numeralo povas esti partikulo kun alia numeralo. Tial, ne estas la partikulo "en" inter du numeraloj. Tiam, tiaj du numeraloj estas kiel unu nova numeralo. Tial, ne estas "pi" antaŭ ili.)*
-
-* kili **pi** tu **en** wan → kili tu wan *(tri fruktoj)*
 
 ## toki open
 *(Klara Lingvaĵo)*
