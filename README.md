@@ -41,18 +41,11 @@ ___
 ## nimi ilo
 *(Partikuloj)*
 
-nimi "**anu**" en nimi "**e**" en nimi "**en**" en nimi "**la**" en nimi "**li**" en nimi "**o**" en nimi "**pi**" li **nimi ilo**.
-*("anu", "e", "en", "la", "li", "o" kaj "pi" estas partikuloj.)*
-
-* nasin **pi** toki pona *(tokiponismo)*
-
 **nimi ilo** li lon insa pi [nimi ijo](#nimi-ijo) tu.
 *(Partikulo estas inter du radikaj vortoj.)*
 
+* nasin **pi** toki pona *(tokiponismo)*
 * toki **li** pona. *(Komunikado estas bona.)* `©`
-
-nimi "seme" li sama [nimi ijo](#nimi-ijo). taso pu la ona li **nimi ilo**.
-*("seme" estas kiel radika vorto. Sed laŭ la oficiala libro pri Tokipono, ĝi estas partikulo.)*
 
 ___
 
@@ -67,10 +60,10 @@ ___
 ### nimi "anu"
 *(La partikulo "anu")*
 
-kulupu pi [nimi suli](#nimi-suli) pi wile sona pi lon anu ala la nimi "anu seme" li lon pini.
-*(En jes-/ne-demandoj, "anu seme" estas ĉe la fino.)*
+nimi ilo "anu" li lon insa pi [nimi ijo](#nimi-ijo) ken tu.
+*(La partikuloj "anu" estas inter du eblaj radikaj vortoj.)*
 
-* ona li kama **anu** seme? *("Ŝi venos aŭ kio?" → Ĉu ŝi venos?)*
+* pan anu telo *(pano aŭ akvo)*
 
 ### nimi "e"
 *(La Partikulo "e")*
@@ -78,11 +71,12 @@ kulupu pi [nimi suli](#nimi-suli) pi wile sona pi lon anu ala la nimi "anu seme"
 #### nimi suli palisa
 *(Transitivaj Verboj)*
 
-**nimi suli palisa** li jo e kulupu pi **nimi "e"**. taso kulupu pi **nimi "e"** li ken weka. ni la kon pi **nimi suli palisa** li ante ala.
+**nimi suli palisa** li jo e kulupu pi [nimi "e"](#nimi-e). taso kulupu pi [nimi "e"](#nimi-e) li ken weka. ni la kon pi **nimi suli palisa** li ante ala.
 *(Transitiva verbo havas rektan objekton. Sed la rekta objekto povas manki. Tiam, la signifo de transitiva verbo ne ŝanĝiĝas.)*
 
 * mi **moku e ijo**. → mi **moku**. *(Mi manĝas ion. → Mi manĝas.)*
 * mi **lukin pona e sitelen**. → mi **lukin pona**. *(Mi bone vidas la signojn. → Mi bone vidas.)*
+* mi **toki e ijo**. → mi **toki**. *(Mi diras ion. → Mi parolas.)*
 
 ___
 
@@ -100,7 +94,7 @@ ___
 * pilin *(sentanta)*
 * sitelen *(pentranta, desegnanta)*
 * sona *(scianta, konanta)*
-* toki *(parolanta, diranta)*
+* toki *(diranta, komunikanta)*
 * unpa *(seksumanta)*
 * utala *(konfliktanta, batalanta)*
 
@@ -342,11 +336,10 @@ ___
 * sina *(vi)*
  * ijo sina *(io via)*
 * ijo *(io)*
-* nasin *(maniero, kvalito, funkcio, rolo, sistemo, vojo)* `K`
-
 * mani *(mono)*
 * mun *(luno)*
 * nanpa *(numero)*
+* [nasin](#nimi-sama)
 * nimi *(nomo, vorto)*
 * pan *(pano)*
 
@@ -355,10 +348,10 @@ ___
 poka pi [nimi ijo](#nimi-ijo) mute la [nimi lawa](#nimi-lawa) "ijo" li ken weka. ni la [nimi ijo](#nimi-ijo) ni li kama [nimi lawa](#nimi-lawa) sin.
 *(Apud multaj radikaj vortoj, la substantivo "ijo" povas manki. Tiam, tia radika vorto fariĝas propra substantivo.)*
 
-* ~~ijo~~ ni *(tio ← tiu afero)*
-
-* ~~ijo~~ ilo *(ilo ← io utila)* `K`
 * ~~ijo~~ ma *(ejo ← io vasta)* `K`
+* ~~ijo~~ mute *(kvanto ← io multa)* `K`
+* ~~ijo~~ sike *(ciklo ← io ronda)* `K`
+* ~~ijo~~ ilo *(ilo ← io utila)* `K`
 * ~~ijo~~ sijelo *(besto, korpo ← io viva)* `K`
  * ~~sijelo~~ jan *(ulo ← io anima)* `K`
 
@@ -413,8 +406,6 @@ ___
  * ~~ijo~~ telo *(akvo, likvo ← likvaĵo, malsekaĵo)*
    * telo nasa *(alkoholo ← strangiga likvo)*
  * telo e *(lavanta, bananta, duŝanta ← malsekiganta)*
-
-
 
 ##### nimi lawa weka "ma"
 *(Manka Substantivo "ma")*
@@ -485,44 +476,6 @@ ___
 * weka *(izolita, for)*
  * ~~ma~~ weka *(distanco ← izolita ejo)*
 
-##### nimi lawa weka "nasin"
-
-nimi "seme" li sama [nimi ijo](#nimi-ijo). taso pu la ona li [nimi ilo](#nimi-ilo).
-*("seme" estas kiel radika vorto. Sed laŭ la oficiala libro pri Tokipono, ĝi estas partikulo.)*
-
-* ~~ijo~~ seme *(kio ← kiu afero)*
-
-___
-
-* [ala](#nimi-lawa-weka-mute)
-* [ale](#nimi-lawa-weka-mute)
-* ni *(tiu)*
-  * ~~ijo~~ ni *(tio ← tiu afero)*
-    * pi **ijo** ni *(ties ← de tio)*
-    * lon ni *(tie ← ĉe tio)*
-    * tan ni *(de tie, tial ← de tio)*
-    * tawa ni *(tien ← al tio)*
-  * ~~nasin~~ ni *(tiu maniero)*
-    * lon ni *(tiel ← en tiu maniero)*
-    * ni *(tia ← de tiu maniero)*
-  * **jan** ni *(tiu ← tiu persono)*
-    pi **jan** ni *(ties ← de tiu persono)*
-  * **mute** ni *(tiom ← tiu kvanto)*
-  * lon tenpo ni *(tiam, nun ← en tiu tempo)*
-* seme *(kiu, kia)*
- * ~~ijo~~ seme *(kio ← kiu afero)*
-   * pi **ijo** seme *(kies ← de kio)*
-   * lon seme *(kie ← ĉe kio)*
-   * tan seme *(de kie, kial ← de kio)*
-   * tawa seme *(kien ← al kio)*
- * ~~nasin~~ seme *(kiu maniero)*
-   * lon seme *(kiel ← en kiu maniero)*
-   * seme *(kia ← de tiu maniero)*
- * **jan** seme *(kiu ← kiu persono)*
-   * pi **jan** seme *(kies ← de kiu persono)*
- * **mute** seme *(kiom ← kiu kvanto)*
- * lon tenpo seme *(kiam ← en kiu tempo)*
-
 ##### nimi lawa weka "mute"
 
 pu la nimi "ale" li ken jo e kon pi nimi "mute mute".
@@ -538,9 +491,6 @@ ___
    * tan ala *(de nenie, nenial ← de nenio)*
    * tawa ala *(nenien ← al nenio)*
  * ~~mute~~ ala *(neniom ← nula kvanto)*
- * ~~nasin~~ ala *(neniu maniero)*
-   * lon ala *(neniel ← en neniu maniero)*
-   * ala *(nenia ← de neniu maniero)*
  * **jan** seme *(neniu ← neniu persono)*
    * pi **jan** seme *(nenies ← de neniu)*
  * lon tenpo ala *(neniam ← en neniu tempo)*
@@ -551,9 +501,6 @@ ___
    * tan ale *(de ĉie, ĉial ← de ĉio)*
    * tawa ale *(ĉien ← al ĉio)*
  * ~~mute~~ ale *(ĉiom ← tuta kvanto)*
- * ~~nasin~~ ale *(ĉiu maniero)*
-   * lon ale *(ĉiel ← en ĉiu maniero)*
-   * ale *(ĉia ← de ĉiu maniero)*
  * **jan** seme *(ĉiu ← ĉiu persono)*
    * pi **jan** seme *(ĉies ← de ĉiu)*
  * lon tenpo ale *(ĉiam ← en ĉiu tempo)*
@@ -652,22 +599,43 @@ ___
  * ~~jan~~ mije *(viro, masklo ← virulo)*
 * [sewi](#nimi-lawa-weka-ma)
 
+#### nimi sama
+*(Korelativoj)*
+
+nimi "seme" li sama [nimi ijo](#nimi-ijo). taso pu la ona li [nimi ilo](#nimi-ilo).
+*("seme" estas kiel radika vorto. Sed laŭ la oficiala libro pri Tokipono, ĝi estas partikulo.)*
+
+* nasin seme *(kiu maniero)*
+
+
+| ala *(neniu, nenio)*            | ale *(ĉiu, ĉio)*                | ni *(tiu, tio)*                 | seme *(kiu, kio)*               |
+|:-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|
+| pi ijo ala *(nenies)*           | pi ijo ale *(ĉies)*             | pi ijo ni *(ties)*              | pi seme ni *(kies)*             |
+| jan ala *(neniu)*               | jan ale *(ĉiu)*                 | jan ni *(tiu)*                  | jan seme *(kiu)*                |
+| pi jan ala *(nenies)*           | pi jan ale *(ĉies)*             | pi jan ni *(ties)*              | pi jan seme *(kies)*            |
+| lon ala *(nenie, laŭ nenio)*    | lon ale *(ĉie, laŭ ĉio)*        | lon ni *(tie, laŭ tio)*         | lon seme *(kie, laŭ kio)*       |
+| tawa ala *(nenien, por nenio)*  | tawa ale *(ĉien, por ĉio)*      | tawa ni *(tien, por tio)*       | tawa seme *(kien, por kio)*     |
+| tan ala *(de nenie, nenial)*    | tan ale *(de ĉie, ĉial)*        | tan ni *(de tie, tial)*         | tan seme *(de kie, kial)*       |
+| lon tenpo ala *(neniam)*        | lon tenpo ale *(ĉiam)*          | lon tenpo ni *(tiam)*           | lon tenpo seme *(kiam)*         |
+| lon nasin ala *(neniel)*        | lon nasin ale *(ĉiel)*          | lon nasin ni *(tiel)*           | lon nasin seme *(kiel)*         |
+| pi nasin ala *(nenia)*          | pi nasin ale *(ĉia)*            | pi nasin ni *(tia)*             | pi nasin seme *(kia)*           |
+| ~~pi mute~~ ala *(neniom (da))* | ~~pi mute~~ ale *(ĉiom (da))*   | pi mute ni *(tiom (da))*        | pi mute seme *(kiom (da))*      |
+
+___
+
+* ni *(tiu)*
+* seme *(kiu)*
+* nasin *(maniero, kvalito, funkcio, rolo, sistemo, vojo)* `K`
+
+
 ## toki open
 *(Klara Lingvaĵo)*
 
-toki open la pilin nimi li ken tu la [nimi lawa weka](#nimi-lawa-weka) li weka ala.
+toki open la kon nimi li ken tu la [nimi lawa weka](#nimi-lawa-weka) li weka ala.
 *(En klara lingvaĵo, se la senco de vortoj povas esti ambigua, manka substantivo malmankas.)*
 
 * lupa meli li ~~mama ale~~. → lupa meli li mama pi **ijo** ale. *(~~La sino de virino estas ĉiu gepatro.~~ → La sino de virino estas la kreanto de ĉio.)* `©`
 * kili ni li ~~mi~~. → kili ni li **ijo** mi. *(~~Tiu frukto estas mi.~~ → Tiu frukto estas mia.)*
-
-toki open la nimi "**kama**" li ken weka lon ni taso: ona li [nimi (suli palisa) sinpin](#nimi-suli-palisa-sinpin).
-*(En klara lingvaĵo, la vorto "kama" povas manki nur se ĝi estas helpa verbo.)*
-
-* lupa li **kama** open. → lupa li open. *(La pordo malfermiĝis. → La pordo estas malfermita.)*
-* ona li **kama** open e lupa. → ona li open e lupa. *(Ŝi malfermas la pordon.)*
- * open → **kama** open *(malfermo, malfermiĝo)*
- * open *(malfermiteco)*
 
 toki open la nimi "**pona**" li ken weka lon ni taso: ona li monsi pi nimi "**ijo pi**" weka.
 *(En klara lingvaĵo, la vorto "pona" povas manki nur se ĝi estas malantaŭ manka "ijo pi".)*
@@ -885,7 +853,7 @@ K Q……S△……)-
 Ø…⚹>v~□ ÷50U
 ⊕…♉♀e♂ †[……Ü
 3#@↑…↓……o ……
-⚡ |ŭ …♡ IÏ……
+⚡  |ŭ …♡ IÏ……
  ©=……?wE…*6]
 … …V⊙π^¶Ͱ→≈⌚
  ⌂2♋D… 14 …W
