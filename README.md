@@ -17,21 +17,13 @@ monsi la **nimi kalama** "a" li wawa e kulupu pi [nimi suli](#nimi-suli).
 *(Malantaŭe, la sonimito "a" emfazas frazon.)*
 
 * sina pona lukin **a**! *(Vi estas ja bela!)*
-* sina pu a! *(Vi estas ja interaganta kun la oficiala libro pri Tokipono.)* `©`
+* sina pu **a**! *(Vi estas ja interaganta kun la oficiala libro pri Tokipono.)* `©`
 
 insa pi [nimi lawa](#nimi-lawa) en **nimi kalama** la nimi "pi nimi" en ilo nimi li ken weka.
 *(Inter substantivo kaj sonimito, "pi nimi" kaj la citiloj povas manki.)*
 
 * mi jan pi nimi "**Tepan**". → mi jan **Tepan**. *("Mi estas persono de la nomo 'Stephan'." → Mi estas Stephan.)*
 * mi sona e toki pi nimi "**Epelanto**". → mi sona e toki **Epelanto**. *("Mi konas la lingvon de la nomo 'Esperanto'." → Mi konas Esperanton.)*
-
-nimi "kalama e nimi" en nimi "kalama (pi) nimi" li ken kama "toki".
-*("kalama e nimi" kaj "kalama (pi) nimi" povas fariĝi "toki".)*
-
-* ona li kalama e nimi "**Inli**". (Ŝi prononcas la vorton "Inli".)
- * ona li toki "**Inli**". (Ŝi prononcas "Inli".)
-* ona li kalama pi nimi "**Inli**". (Ĝi estas la prononco de la vorto "Inli".)
- * ona li toki "**Inli**". (Ĝi estas la prononco "Inli".)
 
 ___
 
@@ -109,8 +101,8 @@ ___
 #### nimi suli sinpin
 *(Helpaj Verboj)*
 
-kulupu pi nimi suli lon monsi pi nimi "e ni" li jo e nimi sama lon sinpin pi nimi "li" la nimi suli tu li ken kama wan. ni la nimi suli pi nanpa wan li kama **nimi suli sinpin**.
-*(Kiam subfrazo havas la saman subjekton, la du verboj povas fariĝi unu. Tiam la unua verbo fariĝas helpa verbo.)*
+kulupu pi nimi suli lon monsi pi nimi "e ni" li jo e nimi sama lon sinpin pi nimi "li" la nimi suli tu li ken kama wan. ni la nimi suli pi nanpa wan li kama **nimi suli sinpin** pi nimi suli pi nanpa tu.
+*(Kiam subfrazo havas la saman subjekton, la du verboj povas fariĝi unu. Tiam la unua verbo fariĝas helpa verbo de la dua verbo.)*
 
 * ona li **wile** e ni: ona li **kama** e ni: ona li **sona** e toki pona. → ona li **wile kama sona** e toki pona. *(Ŝi volas lerni Tokiponon.)*
 
@@ -584,7 +576,7 @@ nimi "seme" li sama [nimi ijo](#nimi-ijo). taso pu la ona li [nimi ilo](#nimi-il
 
 | ala *(neniu, nenio)*             | ale *(ĉiu, ĉio)*                 | ni *(tiu, tio)*                  | seme *(kiu, kio)*                |
 |:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
-| pi ijo ala *(nenies)*            | pi ijo ale *(ĉies)*              | pi ijo ni *(ties)*               | pi seme ni *(kies)*              |
+| pi ijo ala *(nenies)*            | pi ijo ale *(ĉies)*              | pi ijo ni *(ties)*               | pi ijo seme *(kies)*              |
 | jan ala *(neniu)*                | jan ale *(ĉiu)*                  | jan ni *(tiu)*                   | jan seme *(kiu)*                 |
 | pi jan ala *(nenies)*            | pi jan ale *(ĉies)*              | pi jan ni *(ties)*               | pi jan seme *(kies)*             |
 | lon ala *(nenie, laŭ nenio)*     | lon ale *(ĉie, laŭ ĉio)*         | lon ni *(tie, laŭ tio)*          | lon seme *(kie, laŭ kio)*        |
