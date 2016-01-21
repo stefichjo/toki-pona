@@ -121,8 +121,10 @@ ___
  * kama ~~e ni: ona li~~ *(ek-)*
 * ken *(kapabla)* `K`
  * ken ~~e ni: ona li~~ *(povas)*
-* [lukin](#nimi-suli-palisa)
-* [sona] (#nimi-suli-palisa)
+* [lukin](#nimi-lawa-weka-ilo) *(vidanta, rigardanta)*
+ * lukin ~~tawa ni: ona li~~ *(provas)*
+* [sona](#nimi-suli-palisa) *(scianta, konanta)*
+ * sona ~~e ni: ona li ken e ni: ona li~~ *(scipovas)*
 * wile *(nepra)* `K`
  * wile ~~e ni: ona li~~ *(emas, volas, devas)*
 
