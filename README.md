@@ -63,8 +63,8 @@ nimi ilo "anu" li lon insa pi [nimi ijo](#nimi-ijo) tu pi ijo ken tu.
 #### nimi suli palisa
 *(Transitivaj Verboj)*
 
-**nimi suli palisa** li jo e kulupu pi [nimi "e"](#nimi-e). taso kulupu pi [nimi "e"](#nimi-e) li ken weka. taso ni la kon pi **nimi suli palisa** li ante ala.
-*(Transitiva verbo havas rektan objekton. Sed la rekta objekto povas manki. Sed tiam, la signifo de transitiva verbo ne ŝanĝiĝas.)*
+**nimi suli palisa** li jo e kulupu pi [nimi "e"](#nimi-e). jan li weka e kulupu pi [nimi "e"](#nimi-e) la kon pi **nimi suli palisa** li kama ante ala.
+*(Transitiva verbo havas rektan objekton. Kiam oni mankigas la rektan objekton, la signifo de la transitiva verbo ne ŝanĝiĝas.)*
 
 * mi **moku e ijo**. → mi **moku**. *(Mi manĝas ion. → Mi manĝas.)*
 * mi **lukin pona e sitelen**. → mi **lukin pona**. *(Mi bone vidas la signojn. → Mi bone vidas.)*
@@ -93,8 +93,8 @@ ___
 #### nimi suli pi palisa ala
 *(Netransitivaj Verboj)*
 
-**nimi suli pi palisa ala** li jo ala e kulupu pi **nimi "e"**. taso jan li ken **nimi suli palisa** e **nimi suli pi palisa ala** kepeken nimi "pali (e) ni" weka. ni la kon pi **nimi suli pi palisa ala** li kama ante.
-*(Netransitiva verbo ne havas rektan objekton. Sed oni povas igi netransitivan verbon transitiva per manka "pali (e) ni". Tiam, la signifo de la netransitiva verbo ŝanĝiĝas.)*
+**nimi suli pi palisa ala** li jo ala e kulupu pi **nimi "e"**. jan li poka e kulupu pi [nimi "e"](#nimi-e) la kon pi **nimi suli pi palisa ala** li kama ante.
+*(Netransitiva verbo ne havas rektan objekton. Kiam oni aldonas rektan objekton, la signifo de la netransitiva verbo ŝanĝiĝas.)*
 
 * mi pali **e** ni: **sina lape**. → mi **lape e sina**. *(Mi faras, ke vi dormas. → Mi dormigas vin.)*
 
@@ -123,6 +123,8 @@ ___
  * ken ~~e ni: ona li~~ *(povas)*
 * [lukin](#nimi-lawa-weka-ilo) *(vidanta, rigardanta)*
  * lukin ~~tawa ni: ona li~~ *(provas)*
+* pini *(eksa)*
+ * pini ~~e ni: ona li~~ *(ĉesas)* `K`
 * [sona](#nimi-suli-palisa) *(scianta, konanta)*
  * sona ~~e ni: ona li ken e ni: ona li~~ *(scipovas)*
 * wile *(nepra)* `K`
@@ -255,27 +257,26 @@ ___
 * ante *(diversa)*
 * ike *(malbona)*
 * jaki *(malpura)*
-* jelo *(flava)*
+* [jelo](#nimi-lawa-weka-kule) *(flava)*
 * kalama *(sona)*
 * lape *(dorma)*
-* laso *(verda, blua)*
+* [laso](#nimi-lawa-weka-kule) *(verda, blua)*
 * lete *(malvarma)*
 * lili *(malgranda, eta)*
-* loje *(ruĝa)*
+* [loje](#nimi-lawa-weka-kule) *(ruĝa)*
 * moli *(malviva)*
 * musi *(distriĝa, amuziĝa)*
 * nasa *(stranga, malkutima, freneza)*
 * pakala *(misa)*
-* pimeja *(malhela, nigra)*
-* pini *(eksa)*
+* [pimeja](#nimi-lawa-weka-kule) *(malhela, nigra)*
+* [pini](#nimi-suli-sinpin) *(eksa)*
 * pona *(bona, simpla, harmonia)*
 * pu *(interaganta kun la oficiala libro pri Tokipono)*
 * sin *(aldona)*
 * suli *(granda)*
 * tenpo *(daŭra)*
-* walo *(hela, blanka)*
+* [walo](#nimi-lawa-weka-kule) *(hela, blanka)*
 * wawa *(forta, energia)*
-
 
 #### nimi monsi palisa
 *(Prepozicioj)*
@@ -338,10 +339,15 @@ ___
 
 #### nimi lawa weka "ijo"
 
-poka pi [nimi ijo](#nimi-ijo) mute la [nimi lawa](#nimi-lawa) "ijo" li ken weka. ni la [nimi ijo](#nimi-ijo) ni li kama [nimi lawa](#nimi-lawa) sin.
-*(Apud multaj radikaj vortoj, la substantivo "ijo" povas manki. Tiam, tia radika vorto fariĝas propra substantivo.)*
+monsi pi [nimi ijo](#nimi-ijo) mute la [nimi lawa](#nimi-lawa) "ijo" li ken weka. ni la [nimi ijo](#nimi-ijo) ni li kama [nimi lawa](#nimi-lawa) sin.
+*(Antaŭ multaj radikaj vortoj, la substantivo "ijo" povas manki. Tiam, tia radika vorto fariĝas propra substantivo.)*
 
 * ~~ijo~~ suwi *(dolĉaĵo ← io dolĉa)*
+
+monsi pi [nimi suli palisa](#nimi-suli-palisa) ale la [nimi lawa](#nimi-lawa) "ijo" li ken weka. taso [nimi lawa](#nimi-lawa) sin ni li sama kulupu pi nimi "e" lon monsi pi [nimi suli palisa](#nimi-suli-palisa).
+*(Antaŭ ĉiu transitiva verbo, la substantivo "ijo" povas manki. Sed tiu nova substantivo estas kiel la rekta objekto de la transitiva verbo.)*
+
+* ~~ijo~~ sitelen *(desegnaĵo)*
 
 ___
 
@@ -567,18 +573,24 @@ ___
  * ~~jan~~ mije *(viro, masklo ← virulo)*
 * [sewi](#nimi-lawa-weka-ma)
 
+##### nimi lawa weka "kule"
+
+___
+
+* jelo *(flava)*
+* laso *(verda, blua)*
+* loje *(ruĝa)*
+* pimeja *(malhela, nigra)*
+* walo *(hela, blanka)*
+
+
+
 #### nimi sama
 *(Korelativoj)*
 
-nimi "seme" li sama [nimi ijo](#nimi-ijo). taso pu la ona li [nimi ilo](#nimi-ilo).
-*("seme" estas kiel radika vorto. Sed laŭ la oficiala libro pri Tokipono, ĝi estas partikulo.)*
-
-* nasin seme *(kiu maniero)*
-
-
 | ala *(neniu, nenio)*             | ale *(ĉiu, ĉio)*                 | ni *(tiu, tio)*                  | seme *(kiu, kio)*                |
 |:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
-| pi ijo ala *(nenies)*            | pi ijo ale *(ĉies)*              | pi ijo ni *(ties)*               | pi ijo seme *(kies)*              |
+| pi ijo ala *(nenies)*            | pi ijo ale *(ĉies)*              | pi ijo ni *(ties)*               | pi ijo seme *(kies)*             |
 | jan ala *(neniu)*                | jan ale *(ĉiu)*                  | jan ni *(tiu)*                   | jan seme *(kiu)*                 |
 | pi jan ala *(nenies)*            | pi jan ale *(ĉies)*              | pi jan ni *(ties)*               | pi jan seme *(kies)*             |
 | lon ala *(nenie, laŭ nenio)*     | lon ale *(ĉie, laŭ ĉio)*         | lon ni *(tie, laŭ tio)*          | lon seme *(kie, laŭ kio)*        |
@@ -589,6 +601,10 @@ nimi "seme" li sama [nimi ijo](#nimi-ijo). taso pu la ona li [nimi ilo](#nimi-il
 | pi nasin ala *(nenia)*           | pi nasin ale *(ĉia)*             | pi nasin ni *(tia)*              | pi nasin seme *(kia)*            |
 | ~~pi mute~~ ala *(neniom (da))*  | ~~pi mute~~ ale *(ĉiom (da))*    | pi mute ni *(tiom (da))*         | pi mute seme *(kiom (da))*       |
 
+nimi "seme" li sama [nimi ijo](#nimi-ijo). taso pu la ona li [nimi ilo](#nimi-ilo).
+*("seme" estas kiel radika vorto. Sed laŭ la oficiala libro pri Tokipono, ĝi estas partikulo.)*
+
+* nasin seme *(kiu maniero)*
 ___
 
 * ni *(tiu)*
