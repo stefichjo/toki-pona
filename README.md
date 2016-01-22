@@ -253,7 +253,7 @@ ___
 * jaki *(malpura)*
 * kalama *(sona)*
 * lape *(dorma)*
-* lawa *(supra)* → [lawa e](#nimi-suli-palisa)
+* lawa *(supra)* → [[lawa e]](#nimi-suli-palisa)
 * lete *(malvarma)*
 * lili *(malgranda, eta)*
 * moli *(malviva)*
@@ -320,15 +320,12 @@ ___
 * mani *(mono)*
 * mun *(luno)*
 * nanpa *(numero)*
-* nasin *(maniero, vojo)*
+* nasin *(maniero, kvalito, funkcio, rolo, sistemo, vojo)* `Ü`
 * nimi *(nomo, vorto)*
 * pan *(pano)*
-
-* tomo *(hejma)* `Ü`
- * ~~ma~~ tomo *(domo, ĉambro ← hejma ejo)*
-
+* tomo *(hejmo, domo, ĉambro)*
 * ~~ma~~ esun *(merkato ← interŝanĝejo)*
-* lon esun *(anstataŭ, por, kontraŭ ← en interŝanĝo de)* `K`
+* lon esun *(anstataŭ, por, kontraŭ ← en interŝanĝo de)* `Ü`
 
 
 #### nimi lawa weka "ijo"
@@ -466,9 +463,14 @@ ___
 * ~~jan~~ mama *(gepatro ← kreanto, naskanto, kreskiganto)*
 * ~~jan~~ meli *(virino, ino ← inulo)*
 * ~~jan~~ mije *(viro, masklo ← virulo)*
-* ~~jan pi ma~~ sewi *(dio ← ĉielulo)*
+* ~~jan pi ma~~ sewi *(dio ← ĉielulo, altulo)*
 
 ##### nimi lawa weka "kule"
+
+...
+*(...)*
+
+* kili loje jelo *(oranĝo ← oranĝkolora frukto)*
 
 ___
 * ~~kule~~ jelo *(flava)*
@@ -501,7 +503,6 @@ ___
 
 * ni *(tiu)*
 * seme *(kiu)*
-* nasin *(maniero, kvalito, funkcio, rolo, sistemo, vojo)* `Ü`
 
 
 ## toki open
@@ -580,23 +581,33 @@ pu la toki pona ken kama ante lili.
 pu la kalama nimi li ken kama ante lili.
 *(Laŭ la oficiala libro pri Tokipono, la prononco povas varii iomete.)*
 
-* mun `[mun]` *(luno)*
- * **tenpo** `[tempo]` *(tempo)* `Ü`
- * **Sonko** `[soŋko]` *(ĉina)* `Ü`
-* pona `[pona]` *(bona)*
- * **toki pona** `[toki bona]` *(Tokipono)* `Ü`
- * **pini** `[fini]` *(fini)* `Ü`
- * **tenpo pini** `[tempo vini]` *(pasinteco)* `Ü`
-* tawa `[tawa]` *(movo)* 
- * **tomo tawa** `[tomo dawa]` *(aŭto)* `Ü`
-* sona `[sona]` *(scio)*
- * **tomo sona** `[tomo zona]` *(lernejo)* `Ü`
- * **sina** `[θina]` *(vi)* `Ü`
- * **nimi sina** `[nimi ðina]` *(via nomo)* `Ü`
-* kama `[kama]`
- * **tenpo kama** `[tempo gama]` *(estonteco)* `Ü`
- * **kili** `[xili]` *(frukto)* `Ü`
- * **telo kili** `[telo ɣili]` *(suko)* `Ü`
+* tenpo pini → ~~tempo vini~~ `[tempo vini]` *(historio)*
+* toki Sonko → ~~toki Zongko~~ `[toki zoŋko]` *(la Ĉina)*
+* sinpin lawa sina → ~~ŝimpin lawa ẑina~~ `[ʃimpin lawa ʒina]` *(via vizaĝo)*
+* telo kili → ~~telo ĝili~~ `[telo ɣili]` *(suko)*
+
+kalama "n" li ken kama `[m]` anu `[ŋ]`.
+*(La sonoj de "n" povas fariĝi `[m]` aŭ `[ŋ]`.)*
+
+| mun `[mun]`               |
+|:-------------------------:|
+| tenpo `[tempo]`           |
+| Sonko `[soŋko]`           |
+
+kalama "p" en kalama "t" en kalama "s" en kalama "k" li ken kama `[b]` anu `[d]` anu `[z]` anu `[g]`.
+*(La sonoj de "p", "t", "s", "k" povas fariĝi `[b]`, `[d]`, `[z]`, `[g]`.)*
+
+| pona `[pona]`             | tawa `[tawa]`             | sona `[sona]`             | kama `[kama]`             |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+| toki pona `[toki bona]`   | tomo tawa `[tomo dawa]`   | jan sona `[jan zona]`     | ilo kute `[ilo gute]`     |
+
+kalama "p" en kalama "s" en kalama "k" li ken kama `[f]`/`[v]` anu `[ʃ]`/`[ʒ]` anu `[x]`/`[ɣ]`.
+*(La sonoj de "p", "s", "k" povas fariĝi `[f]`/`[v]`, `[ʃ]`/`[ʒ]`, `[x]`/`[ɣ]`.)*
+
+| pini `[fini]`             | sina `[ʃina]`             | kili `[xili]`             |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| tenpo pini `[tempo vini]` | nimi sina `[nimi ʒina]`   | telo kili `[telo ɣili]`   |
+
 
 pu la nimi "ala" li ken lon insa pi [nimi suli](#nimi-suli) sama tu. ni li nasin ante pi nimi "anu seme".
 *(Laŭ la oficiala libro pri Tokipono, "ala" povas esti inter du samaj verboj. Tio estas alternativo de "anu seme".)*
@@ -719,8 +730,8 @@ kulupu pi [nimi suli](#nimi-suli) li ken lon kulupu pi [nimi "pi"](#nimi-pi) ala
 * ~~mi **tan** moku.~~ → tenpo pini la mi moku. *(Mi estas manĝinta. → Mi manĝis.)*
 
 
-`Ü`: ken *(eblo)*
-`©`: pu *(laŭ la oficiala libro pri Tokipono)*
+`Ü`: musi
+`©`: pu
 
 ```
 aÖX¢8…≠YA»+æ
