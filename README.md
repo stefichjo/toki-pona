@@ -97,7 +97,7 @@ ___
 *(Netransitiva verbo ne havas rektan objekton. Kiam oni aldonas rektan objekton, la signifo de la netransitiva verbo ŝanĝiĝas.)*
 
 * mi pali **e** ni: **sina lape**. → mi **lape e sina**. *(Mi faras, ke vi dormas. → Mi dormigas vin.)*
-* mi pali **e** ni: **luka telo**. → mi **telo e luka**. *(Mi faras, ke la manoj malsekas. → Mi lavas la manojn.)*
+* mi pali **e** ni: **luka** li **telo**. → mi **telo e luka**. *(Mi faras, ke la manoj malsekas. → Mi lavas la manojn.)*
 
 #### nimi suli sinpin
 *(Helpaj Verboj)*
@@ -327,8 +327,6 @@ ___
 * tomo *(hejma)* `Ü`
  * ~~ma~~ tomo *(domo, ĉambro ← hejma ejo)*
 
-* [esun](#nimi-lawa-weka-mute)
-* esun *(interŝanĝanta)* `K`
 * ~~ma~~ esun *(merkato ← interŝanĝejo)*
 * lon esun *(anstataŭ, por, kontraŭ ← en interŝanĝo de)* `K`
 
@@ -351,7 +349,7 @@ ___
 * ~~ijo~~ ale *(ĉio ← ĉiu aĵo)*
 * ~~ijo~~ ilo *(ilo, instrumento, organo ← utilaĵo)* `Ü`
 * ~~ijo~~ insa *(centro, mezo ← internaĵo)*
- * lon ~~ijo~~ insa *(inter ← en la centro/mezo de)*
+ * lon ~~ma pi ijo~~ insa *(inter ← en la centro/mezo de)*
 * ~~ijo~~ kili *(frukto ← sukcesaĵo)* `Ü`
 * ~~ijo~~ kiwen *(ŝtono, metalo, osto ← malmolaĵo)*
 * ~~ijo~~ ko *(amaso, pulvoro ← amorfaĵo)*
@@ -367,7 +365,7 @@ ___
 * ~~ijo~~ monsi *(dorso ← malantaŭaĵo)*
 * ~~ijo~~ nena *(nazo, monto, faldo ← elstaraĵo)* `Ü`
 * ~~ijo~~ poka *(flanko, kokso ← apudaĵo)*
- * lon ~~ijo~~ poka ante *(trans ← ĉe la alia flanko)*
+ * lon ~~ma pi ijo~~ poka ante *(trans ← ĉe la alia flanko)*
 * ~~ijo~~ seli *(fajro ← varmaĵo, ardaĵo)*
 * ~~ijo~~ seme *(kio ← kiu aĵo)*
 * ~~ijo~~ selo *(ŝelo, haŭto, formo ← eksternaĵo)*
@@ -397,12 +395,11 @@ ___
 * lon ~~ma~~ monsi *(malantaŭ ← en la malantaŭo de)*
 * lon ~~ma pi ilo~~ noka *(malsupre de ← piede de)*
 * lon ~~ma~~ open *(tra ← en la malfermiteco/traireblo de)*
-* lon ~~ma~~ open pi poka ijo *(preter ← tra ies apudo)* `Ü`
+* lon ~~ma~~ open pi ~~ma~~ poka ijo *(preter ← tra ies apudo)* `Ü`
 * lon ~~ma~~ poka *(apud ← en la apudo de)*
 * lon ~~ma~~ selo *(ekster ← en la eksterno)*
-* lon ~~ma~~ selo sike *(ĉirkaŭ ← en la ĉirkaŭo)*
+* lon ~~ma~~ selo sike *(ĉirkaŭ ← en la ĉirkaŭo)* `Ü`
 * lon ~~ma~~ sewi *(super ← en la alto de)*
-* lon ~~ma~~ sike *(ĉirkaŭ ← en la ĉirkaŭo de)* `Ü`
 * lon ~~ma~~ sinpin *(antaŭ ← en la antaŭo de)*
 * lon ~~ma~~ supa *(sur ← en la horizontalo de)* `Ü`
 * lon ~~ma~~ taso *(sen ← en sendependo/libero de)* `Ü`
@@ -433,7 +430,7 @@ ___
 * ~~mute pi ijo~~ tu *(du ← kvanto de io dividita)*
 * ~~mute pi ijo~~ mute *(tri ← kvanto de io multa)*
 * ~~mute pi ijo~~ luka *(kvin ← kvanto de io mana)*
-* ~~mute pi ijo~~ esun *(sep ← kvanto de io semajna)* `Ü`
+* ~~mute pi ijo sike pi ma~~ esun *(sep ← kvanto de io semajna)* `Ü`
 
 ##### nimi lawa weka "sike"
 
