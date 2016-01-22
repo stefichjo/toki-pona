@@ -70,8 +70,12 @@ nimi ilo "anu" li lon insa pi [nimi ijo](#nimi-ijo) tu pi ijo ken tu.
 * mi **lukin pona e sitelen**. → mi **lukin pona**. *(Mi bone vidas la signojn. → Mi bone vidas.)*
 * mi **toki e ijo**. → mi **toki**. *(Mi diras ion. → Mi parolas.)*
 
-___
+monsi pi **nimi suli palisa** ale la [nimi lawa](#nimi-lawa) "ijo" li ken [weka](#nimi-lawa-weka-ijo). taso [nimi lawa](#nimi-lawa) sin ni li sama kulupu pi **nimi "e"** lon monsi pi **nimi suli palisa**.
+*(Antaŭ ĉiu transitiva verbo, la substantivo "ijo" povas manki. Sed tiu nova substantivo estas kiel la rekta objekto de la transitiva verbo.)*
 
+* ~~ijo~~ sitelen *(desegno ← desegnaĵo)*
+
+___
 * alasa e *(ĉasanta)*
 * esun e *(interŝanĝanta)*
 * jo e *(havanta)*
@@ -335,11 +339,6 @@ monsi pi [nimi ijo](#nimi-ijo) mute la [nimi lawa](#nimi-lawa) "ijo" li ken weka
 
 * ~~ijo~~ suwi *(dolĉaĵo ← io dolĉa)*
 
-monsi pi [nimi suli palisa](#nimi-suli-palisa) ale la [nimi lawa](#nimi-lawa) "ijo" li ken weka. taso [nimi lawa](#nimi-lawa) sin ni li sama kulupu pi nimi "e" lon monsi pi [nimi suli palisa](#nimi-suli-palisa).
-*(Antaŭ ĉiu transitiva verbo, la substantivo "ijo" povas manki. Sed tiu nova substantivo estas kiel la rekta objekto de la transitiva verbo.)*
-
-* ~~ijo~~ sitelen *(desegnaĵo)*
-
 ___
 
 * ~~ijo~~ ala *(nenio ← neniu aĵo)*
@@ -362,6 +361,7 @@ ___
 * ~~ijo~~ monsi *(dorso ← malantaŭaĵo)*
 * ~~ijo~~ nena *(nazo, monto, faldo ← elstaraĵo)* `Ü`
 * ~~ijo~~ poka *(flanko, kokso ← apudaĵo)*
+ * lon ~~ma pi ijo~~ poka *(ĉe, kun ← ĉe la flanko)*
  * lon ~~ma pi ijo~~ poka ante *(trans ← ĉe la alia flanko)*
 * ~~ijo~~ seli *(fajro ← varmaĵo, ardaĵo)*
 * ~~ijo~~ seme *(kio ← kiu aĵo)*
@@ -581,10 +581,10 @@ pu la toki pona ken kama ante lili.
 pu la kalama nimi li ken kama ante lili.
 *(Laŭ la oficiala libro pri Tokipono, la prononco povas varii iomete.)*
 
-* tenpo pini → ~~tempo vini~~ `[tempo vini]` *(historio)*
+* tenpo pini → ~~tempo bhini~~ `[tempo vini]` *(historio)*
 * toki Sonko → ~~toki Zongko~~ `[toki zoŋko]` *(la Ĉina)*
-* sinpin lawa sina → ~~ŝimpin lawa ẑina~~ `[ʃimpin lawa ʒina]` *(via vizaĝo)*
-* telo kili → ~~telo ĝili~~ `[telo ɣili]` *(suko)*
+* sinpin lawa sina → ~~shimpin lawa zhina~~ `[ʃimpin lawa ʒina]` *(via vizaĝo)*
+* telo kili → ~~telo ghili~~ `[telo ɣili]` *(suko)*
 
 kalama "n" li ken kama `[m]` anu `[ŋ]`.
 *(La sonoj de "n" povas fariĝi `[m]` aŭ `[ŋ]`.)*
