@@ -80,8 +80,8 @@ ___
 * esun e *(interŝanĝanta)*
 * jo e *(havanta)*
 * kute e *(aŭdanta, aŭskultanta)*
-* lawa e *(gvidanta)* → [lawa](#nimi-monsi)
-* lukin e *(vidanta, rigardanta)
+* lawa e *(gvidanta)* → [[lawa]](#nimi-monsi)
+* lukin e *(vidanta, rigardanta)*
 * mama e *(kreanta, naskanta, kreskiganta)*
 * moku e *(manĝanta)*
 * olin e *(amanta)*
@@ -160,7 +160,7 @@ kulupu pi **nimi "la"** la nimi "lon ni:" li weka.
 
 * mi pali lon ni: mi lon tomo. → mi lon tomo **la** mi pali. *("Mi laboras ĉe tio: mi estas ĉe la domo." → Se mi estas ĉe la domo, mi laboras.)*
 
-kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi [nimi lawa weka ma](#nimi-lawa-weka-ma).
+kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi [nimi lawa weka "ma"](#nimi-lawa-weka-ma).
 *(En helpa frazero, la partikulo "la" povas manki malantaŭ loka substantivo.)*
 
 * mi pali lon taso. → taso **la** mi pali. → taso mi pali. *(Mi laboras ĉe sendependo. → Sendepende, mi laboras. → Sed mi laboras.)* `Ü`
@@ -572,8 +572,10 @@ ken la toki tan la nimi pi ijo sijelo pilin li lon ala.
 ## toki namako
 *(Kroma Lingvaĵo)*
 
-pu la toki pona ken kama ante lili.
-*(Laŭ la oficiala libro pri Tokipono, Tokipono povas iomete varii.)*
+pu la nimi "ala" li ken lon insa pi [nimi suli](#nimi-suli) sama tu. ni li nasin ante pi nimi "anu seme".
+*(Laŭ la oficiala libro pri Tokipono, "ala" povas esti inter du samaj verboj. Tio estas alternativo de "anu seme".)*
+
+* ona li tawa ma tomo Lantan **anu seme**? → ona li **tawa ala tawa** ma tomo Lantan? *(Ĉu ŝi iras al Londono?)*
 
 ### kalama namako
 *(Kromaj Sonoj)*
@@ -609,21 +611,16 @@ kalama "p" en kalama "s" en kalama "k" li ken kama `[f]`/`[v]` anu `[ʃ]`/`[ʒ]`
 | tenpo pini `[tempo vini]` | nimi sina `[nimi ʒina]`   | telo kili `[telo ɣili]`   |
 
 
-pu la nimi "ala" li ken lon insa pi [nimi suli](#nimi-suli) sama tu. ni li nasin ante pi nimi "anu seme".
-*(Laŭ la oficiala libro pri Tokipono, "ala" povas esti inter du samaj verboj. Tio estas alternativo de "anu seme".)*
-
-* ona li tawa ma tomo Lantan **anu seme**? → ona li **tawa ala tawa** ma tomo Lantan? *(Ĉu ŝi iras al Londono?)*
-
 ### nimi namako
 *(Kromaj Vortoj)*
 
 pu la nimi "alasa" en nimi "esun" en nimi "pan" en nimi "pu" li lon li jo e sitelen pona.
 *(Laŭ la oficiala libro pri Tokipono, "alasa", "esun", "pan" kaj "pu" ekzistas kaj havas simplan signon.)*
 
-* **alasa** *(ĉasi)*
+* **alasa** *(ĉasanta)*
 * **esun** *(merkato)*
 * **pan** *(pano)*
-* **pu** *(interagi kun la oficiala libro pri Tokipono)*
+* **pu** *(interaganta kun la oficiala libro pri Tokipono)*
 
 pu la nimi "ali" en nimi "namako" en nimi "kin" en nimi "oko" li nasin ante pi nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin".
 *(Laŭ la oficiala libro pri Tokipono, "ali", "kin" kaj "oko" estas sinonimoj de "ale", "a" kaj "lukin".)*
