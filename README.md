@@ -1,8 +1,15 @@
 # nasin toki pi toki pona
 *(Gramatiko de Tokipono)*
 
-[nimi kalama](#nimi-kalama) en [nimi ilo](#nimi-ilo) en [nimi ijo](#nimi-ijo) li nasin nimi lon toki pona.
-*(Sonimitoj, partikuloj kaj radikaj vortoj estas la vortspecoj en Tokipono.)*
+wan sama tan pu li jo e sitelen pona `©`. 
+*(Ekzemploj laŭ la oficiala libro pri Tokipono havas la hieroglifon `©`.)*
+
+* ale li pona. *(Ĉio estas bona.)* `©`
+
+tenpo mute la mi musi kepeken nasin lawa. ona li utala ala e toki pona. taso ona li jo ala e wan sama. tenpo ni la mi taso mama e wan sama. ona li jo e sitelen pona `Ü`.
+*(Ofte mi ludas per reguloj. Ili ne kontraŭas Tokiponon, sed ili ne havas ekzemplojn. Tiam, mi mem verkas ekzemplojn. Ili havas la hieroglifon `Ü`.)*
+
+* mi mama e wan sama. *(Mi verkas ekzemplon.)* `Ü`
 
 ## nimi kalama
 *(Sonimitoj)*
@@ -77,7 +84,7 @@ monsi pi **nimi suli palisa** ale la [nimi lawa](#nimi-lawa) "ijo" li ken [weka]
 
 ___
 * alasa e *(ĉasanta)*
-* esun e *(interŝanĝanta)*
+* esun e *(interŝanĝanta)* [[~~mute pi ijo sike pi ma~~ esun]](#nimi-lawa-weka-mute) [[~~sike pi ma~~ esun]](#nimi-lawa-weka-sike) [[~~ma~~ esun]](#nimi-lawa-weka-ma)
 * jo e *(havanta)*
 * kute e *(aŭdanta, aŭskultanta)*
 * lawa e *(gvidanta)* → [[lawa]](#nimi-monsi)
@@ -329,8 +336,6 @@ ___
 * nimi *(nomo, vorto)*
 * pan *(pano)*
 * tomo *(hejmo, domo, ĉambro)*
-* ~~ma~~ esun *(merkato ← interŝanĝejo)*
-* lon esun *(anstataŭ, por, kontraŭ ← en interŝanĝo de)* `Ü`
 
 #### nimi lawa weka "ijo"
 
@@ -361,7 +366,7 @@ ___
 * ~~ijo~~ mani *(mono, resurso, kapitalo ← valoraĵo)* `Ü`
 * ~~ijo~~ monsi *(dorso ← malantaŭaĵo)*
 * ~~ijo~~ nena *(nazo, monto, faldo ← elstaraĵo)* `Ü`
-* ~~ijo~~ poka *(flanko, kokso ← apudaĵo)*
+* ~~ijo~~ poka *(flanko, kokso ← apudaĵo)* [[~~ma~~ poka]](#nimi-lawa-weka-ma)
  * lon ~~ma pi ijo~~ poka *(ĉe, kun ← ĉe la flanko)*
  * lon ~~ma pi ijo~~ poka ante *(trans ← ĉe la alia flanko)*
 * ~~ijo~~ seli *(fajro ← varmaĵo, ardaĵo)*
@@ -386,13 +391,14 @@ kepeken nimi lon monsi pi **nimi lawa weka "ma"** la jan ken sin e [nimi monsi p
 
 ___
 * lon ~~ma~~ anpa *(sub ← en la malsupro de)*
+* lon ~~ma~~ esun *(por, kontraŭ ← ĉe interŝanĝo de)* `Ü` [[~~mute pi ijo sike pi ma~~ esun]](#nimi-lawa-weka-mute) [[~~sike pi ma~~ esun]](#nimi-lawa-weka-sike) [[esun e]](#nimi-suli-palisa)
 * lon ~~ma~~ insa *(en ← en la interno de)*
-* lon ~~ma pi ilo~~ lawa *(supre de ← kape de)*
+* lon ~~ma pi ilo~~ lawa *(supre de ← kape de)* [[~~ilo~~ lawa]](#nimi-lawa-weka-ilo)
 * lon ~~ma~~ monsi *(malantaŭ ← en la malantaŭo de)*
 * lon ~~ma pi ilo~~ noka *(malsupre de ← piede de)*
 * lon ~~ma~~ open *(tra ← en la malfermiteco/traireblo de)*
 * lon ~~ma~~ open pi ~~ma~~ poka ijo *(preter ← tra ies apudo)* `Ü`
-* lon ~~ma~~ poka *(apud ← en la apudo de)*
+* lon ~~ma~~ poka *(apud ← en la apudo de)* [[~~ijo~~ poka]](#nimi-lawa-weka-ijo)
 * lon ~~ma~~ selo *(ekster ← en la eksterno)*
 * lon ~~ma~~ selo sike *(ĉirkaŭ ← en la ĉirkaŭo)* `Ü`
 * lon ~~ma~~ sewi *(super ← en la alto de)*
@@ -426,12 +432,15 @@ ___
 * ~~mute pi ijo~~ tu *(du ← kvanto de io dividita)*
 * ~~mute pi ijo~~ mute *(tri ← kvanto de io multa)*
 * ~~mute pi ijo~~ luka *(kvin ← kvanto de io mana)*
-* ~~mute pi ijo sike pi ma~~ esun *(sep ← kvanto de io semajna)* `Ü`
+* ~~mute pi ijo sike pi ma~~ esun *(sep ← kvanto de io semajna)* `Ü` [[~~sike pi ma~~ esun]](#nimi-lawa-weka-sike) [[~~ma~~ esun]](#nimi-lawa-weka-ma) [[esun e]](#nimi-suli-palisa)
 
 ##### nimi lawa weka "sike"
 
 * tenpo suno *(tago ← brila tempo)*
  * ~~sike pi~~ tenpo suno *(diurno ← taga ciklo)*
+
+___
+* ~~sike pi ma~~ esun *(semajno ← merkata ciklo)* `Ü` [[~~mute pi ijo sike pi ma~~ esun]](#nimi-lawa-weka-mute) [[~~ma~~ esun]](#nimi-lawa-weka-ma) [[esun e]](#nimi-suli-palisa)
 
 ##### nimi lawa weka "ilo"
 
