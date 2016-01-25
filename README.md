@@ -323,7 +323,6 @@ ___
 * ijo *(io)*
 
 ___
-* mani *(mono)*
 * mun *(luno)*
 * nanpa *(numero)*
 * nasin *(maniero, kvalito, funkcio, rolo, sistemo, vojo)* `Ü`
@@ -359,6 +358,7 @@ ___
 * ~~ijo~~ lipu *(folio, paĝo, dokumento ← ebenaĵo)*
 * ~~ijo~~ lupa *(truo ← kavaĵo, malplenaĵo)* `Ü`
 * ~~ijo~~ ma *(ejo, lando, grundo, kampo, tero, loko, spaco ← vastaĵo)*
+* ~~ijo~~ mani *(mono, resurso, kapitalo ← valoraĵo)* `Ü`
 * ~~ijo~~ monsi *(dorso ← malantaŭaĵo)*
 * ~~ijo~~ nena *(nazo, monto, faldo ← elstaraĵo)* `Ü`
 * ~~ijo~~ poka *(flanko, kokso ← apudaĵo)*
