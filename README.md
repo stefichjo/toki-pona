@@ -82,6 +82,7 @@ monsi pi **nimi suli palisa** ale la [nimi lawa](#nimi-lawa) "ijo" li ken [weka]
 
 * ~~ijo~~ sitelen *(desegno ← desegnaĵo)*
 * ~~ijo~~ nasin *(sistemo, funkcio, rolo, kvalito, maniero, vojo, direkto ← direktaĵo)* `Ü`
+* ~~ijo~~ nimi *(nomo, vorto, termino, esprimo, signifo ← esprimaĵo, signifaĵo)* `Ü`
 
 ___
 * alasa e *(ĉasanta)*
@@ -93,6 +94,7 @@ ___
 * mama e *(kreanta, naskanta, kreskiganta)*
 * moku e *(manĝanta)*
 * nasin e *(direktanta)* `Ü`
+* nimi e *(esprimanta, signifanta)* `Ü`
 * olin e *(amanta)*
 * pali e *(laboranta, faranta)*
 * pana e *(donanta)*
@@ -255,7 +257,6 @@ sinpin pi [nimi lawa](#nimi-lawa) pi wan taso la **nimi "pi"** li weka. nasin ni
 * pona *(bona ←→ bono)*
 
 ___
-
 * ante *(diversa)*
 * ike *(malbona)*
 * jaki *(malpura)*
@@ -305,7 +306,6 @@ kon pi nimi "tawa" li ken kon pi nimi "pana e pilin" sin.
 * sina pona **tawa** mi. *(Mi ŝatas vin. ← Vi plaĉas al mi. ← Mi havas la impreson, ke vi estas bona.)*
 
 ___
-
 * kepeken *(per)*
 * lon *(ĉe, en, ĉeesta)*
 * sama *(kiel, kvazaŭ, sama)*
@@ -325,7 +325,6 @@ ___
 * lipu tan mi *(libro de mi)*
 
 ___
-
 * mi *(mi, ni)*
 * ona *(ŝi, li, ĝi, ili)*
 * sina *(vi)*
@@ -333,8 +332,7 @@ ___
 
 ___
 * mun *(luno)*
-* nanpa *(numero, indekso, pozicio)*
-* nimi *(nomo, vorto, esprimo)*
+* nanpa *(numero, indekso, pozicio, ordo, rango)*
 * pan *(pano)*
 * tomo *(hejmo, domo, ĉambro)*
 
@@ -346,7 +344,6 @@ monsi pi [nimi ijo](#nimi-ijo) mute la [nimi lawa](#nimi-lawa) "ijo" li ken weka
 * ~~ijo~~ suwi *(dolĉaĵo ← io dolĉa)*
 
 ___
-
 * ~~ijo~~ ala *(nenio ← neniu aĵo)*
 * ~~ijo~~ ale *(ĉio ← ĉiu aĵo)*
 * ~~ijo~~ ilo *(ilo, instrumento, organo ← utilaĵo)* `Ü`
@@ -407,7 +404,6 @@ ___
 * lon ~~ma~~ supa *(sur ← en la horizontalo de)* `Ü`
 * lon ~~ma~~ taso *(sen ← en sendependo/libero de)* `Ü`
 * lon ~~ma~~ weka *(fore de ← en distanco/izoleco de)* `Ü`
-
 
 ##### nimi lawa weka "mute"
 
@@ -539,7 +535,7 @@ toki open la jan li [nimi suli palisa](#nimi-suli-palisa) e [nimi suli pi palisa
 * mi **~~kama~~ pona e ona**. → mi **pona e ona**. *(Mi ~~boniĝigas~~ ĝin. → Mi bonigas ĝin.)*
 
 ## toki tan
-*(Origina Lingvaĵo)*
+*(Pralingvaĵo)*
 
 **toki tan** la [nimi suli sinpin](#nimi-suli-sinpin) li lon ala.
 *(En pralingvaĵo, ne ekzistas helpaj verboj.)*
@@ -575,6 +571,13 @@ ken la toki tan la nimi pi ijo sijelo pilin li lon ala.
 * **ijo sijelo kon** → **waso** *("aera besto" → birdo)* `Ü`
 * **ijo sijelo ma** → **pipi** *("tera besto" → insekto)* `Ü`
 * **ijo sijelo telo** → **kala** *("akva besto" → fiŝo)* `Ü`
+
+ken la toki tan la [nimi "pi"](#nimi-pi) en [nimi monsi](#nimi-monsi) li lon ala.
+*(Eble, en pralingvo, "pi" kaj adjektivoj/adverboj ne ekzistis.)*
+
+* **toki pona** → **toki** lon **pona**
+* **tomo pi jan pona** → **tomo** tan **jan** lon **pona**
+* **ilo moku** → **ilo** tawa **moku**
 
 ## toki namako
 *(Kroma Lingvaĵo)*
@@ -643,6 +646,15 @@ pu la nimi namako ante li lon ala.
 * **anpa lukin** → ~~**apeja**~~ *(malalta por vidi → maldigna, fia)*
 * **jan akesi** → ~~**monsuta**~~ *(maliculo → monstro)*
 * insa pi **wan** pi ijo **tu** → ~~**kipisi**~~ *(inter du pecoj → tranĉo)*
+
+## toki musi
+*(Luda Lingvaĵo)*
+
+...
+*(...)*
+
+* ale li pona pi **nanpa sinpin** ni. *(Ĉio estas pli bona ol tio.)* `Ü`
+* ale li pona pi **nanpa monsi** ni. *(Ĉio estas malpli bona ol tio.)* `Ü`
 
 ## toki ike
 *(Evitindaj Lingvaĵoj)*
@@ -737,8 +749,9 @@ nimi lon monsi pi [nimi lawa weka "ma"](#nimi-lawa-weka-ma) li ken ala kama [nim
 * ~~mi **tawa** moku.~~ → tenpo kama la mi moku. *(Mi estas manĝonta. → Mi manĝos.)*
 * ~~mi **tan** moku.~~ → tenpo pini la mi moku. *(Mi estas manĝinta. → Mi manĝis.)*
 
-`Ü`: musi
-`©`: pu
+____
+* `Ü`: *(musi)*
+* `©`: *(pu)*
 
 ```
 aÖX¢8…≠YA»+æ
