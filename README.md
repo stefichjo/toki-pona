@@ -81,6 +81,7 @@ monsi pi **nimi suli palisa** ale la [nimi lawa](#nimi-lawa) "ijo" li ken [weka]
 *(Antaŭ ĉiu transitiva verbo, la substantivo "ijo" povas manki. Sed la signifo de tiu nova substantivo estas kiel de la rekta objekto de la transitiva verbo.)*
 
 * ~~ijo~~ sitelen *(desegno ← desegnaĵo)*
+* ~~ijo~~ nasin *(sistemo, funkcio, rolo, kvalito, maniero, vojo, direkto ← direktaĵo)* `Ü`
 
 ___
 * alasa e *(ĉasanta)*
@@ -91,6 +92,7 @@ ___
 * lukin e *(vidanta, rigardanta)*
 * mama e *(kreanta, naskanta, kreskiganta)*
 * moku e *(manĝanta)*
+* nasin e *(direktanta)* `Ü`
 * olin e *(amanta)*
 * pali e *(laboranta, faranta)*
 * pana e *(donanta)*
@@ -331,9 +333,8 @@ ___
 
 ___
 * mun *(luno)*
-* nanpa *(numero)*
-* nasin *(maniero, kvalito, funkcio, rolo, sistemo, vojo)* `Ü`
-* nimi *(nomo, vorto)*
+* nanpa *(numero, indekso, pozicio)*
+* nimi *(nomo, vorto, esprimo)*
 * pan *(pano)*
 * tomo *(hejmo, domo, ĉambro)*
 
