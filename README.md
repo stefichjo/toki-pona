@@ -93,6 +93,7 @@ ___
 * lukin e *(vidanta, rigardanta)*
 * mama e *(kreanta, naskanta, kreskiganta)*
 * moku e *(manĝanta)*
+* nanpa e *(kalkulanta, nombranta, numeranta, indicanta, rangiganta, posteniganta)* `Ü`
 * nasin e *(direktanta)* `Ü`
 * nimi e *(esprimanta, signifanta)* `Ü`
 * olin e *(amanta)*
@@ -332,7 +333,6 @@ ___
 
 ___
 * mun *(luno)*
-* nanpa *(numero, indekso, pozicio, ordo, rango)*
 * pan *(pano)*
 * tomo *(hejmo, domo, ĉambro)*
 
