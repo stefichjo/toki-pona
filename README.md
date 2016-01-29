@@ -1,7 +1,7 @@
 # nasin-toki pi toki-pona
 *(Gramatiko de Tokipono)*
 
-lipu-ni la mi sitelen e `-` lon insa pi [nimi-lawa](#nimi-lawa)/[nimi-suli](#nimi-suli) en [nimi-monsi](#nimi-monsi). nasin sitelen ni li wile ala. taso ona li pana e pona.
+lipu-ni la mi sitelen e `-` lon insa pi [nimi-lawa](#nimi-lawa)/[nimi-suli](#nimi-suli) en [nimi-monsi](#nimi-monsi). nasin-sitelen-ni li wile-ala. taso ona li pana e pona.
 *(En ĉi tiu dokumento, mi skribas `-` inter substantivo/verbo kaj adjektivo/adverbo. Tiu skribmaniero ne estas necesa, sed helpas.)*
 
 * mi pana e tomo tawa sina. *(Mi donas la domon al vi.)*
