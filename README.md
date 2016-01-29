@@ -5,9 +5,9 @@ lipu-ni la mi sitelen e `-` lon insa pi [nimi-lawa](#nimi-lawa)/[nimi-suli](#nim
 *(En ĉi tiu dokumento, mi skribas `-` inter substantivo/verbo kaj adjektivo/adverbo. Tiu skribmaniero ne estas necesa, sed helpas.)*
 
 * mi pana e tomo tawa sina. *(Mi donas la domon al vi.)*
-* mi pana e tomo-tawa-sina. *(Mi donas vian aŭton.)*
+* mi pana e **tomo-tawa-sina**. *(Mi donas vian aŭton.)*
 * mi lukin pona e sitelen. *(Mi provas ripari la bildon.)*
-* mi lukin-pona e sitelen. *(Mi bone vidas la signojn.)*
+* mi **lukin-pona** e sitelen. *(Mi bone vidas la signojn.)*
 
 wan-sama tan pu li jo e sitelen-pona `©`.
 *(Ekzemploj laŭ la oficiala libro pri Tokipono havas la hieroglifon `©`.)*
