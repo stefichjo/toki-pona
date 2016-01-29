@@ -136,10 +136,34 @@ ___
 * awen ~~e ni~~ *(plu- ← resta)*
 * kama ~~e ni~~ *(ek- ← iĝa)*
 * ken ~~e ni~~ *(povas ← kapabla)* `Ü`
-* lukin ~~tawa ni~~ *(provas ← vidanta, rigardanta)*
 * pini ~~e ni~~ *(ĉesas ← eksa)* `Ü`
-* sona ~~ken e ni~~ *(scipovas ← scianta, konanta)*
 * wile ~~e ni~~ *(emas, volas, devas ← nepra)* `Ü`
+
+##### nimi-suli-sinpin-weka
+
+sinpin pi [nimi-suli-sinpin](#nimi-suli-sinpin) "ken" la [nimi-suli](#nimi-suli) "sona" li ken [nimi-suli-sinpin](#nimi-suli-sinpin). taso tenpo ni la [nimi-suli-sinpin](#nimi-suli-sinpin) "ken" li weka.
+*(Antaŭ la helpa verbo "ken", la verbo "sona" povas esti helpa verbo. Sed tiam, la helpa verbo "ken" mankas.)*
+
+* mi **sona** toki-pona. ← mi **sona ken** toki-pona. ← mi **sona** e ni: mi **ken** e ni: mi toki-pona. *(Mi scipovas paroli simple.)*
+
+monsi pi [nimi-suli-sinpin](#nimi-suli-sinpin) "wile" la [nimi-suli](#nimi-suli) "lukin" li ken [nimi-suli-sinpin](#nimi-suli-sinpin). taso tenpo ni la [nimi-suli-sinpin](#nimi-suli-sinpin) "wile" li weka.
+*(Malantaŭ la helpa verbo "wile", la verbo "lukin" povas esti helpa verbo. Sed tiam, la helpa verbo "wile" mankas.)*
+
+* mi **lukin** lape-pona. ← mi **wile lukin** lape-pona. ← mi **wile** e ni: mi **lukin** e ni: mi lape-pona. *(Mi provas dormi bone.)*
+
+jan wile ala kepeken nimi "wile" lon sinpin pi [nimi-suli-palisa](#nimi-suli-palisa) "lukin e" la ona li ken kepeken nimi "lukin tawa".
+*(Por eviti "wile" antaŭ la transitiva verbo "lukin e", oni povas uzi "lukin tawa".)*
+
+* mi **lukin tawa** sina. ← mi **wile lukin** e sina. ← mi **wile** e ni: mi **lukin** e sina. *(Mi serĉas vin. ← Mi rigardas por vi. ← Mi volas vidi vin.)*
+
+nimi "lukin tawa" la [nimi-suli](#nimi-suli) "lukin" en [nimi-monsi-palisa](#nimi-monsi-palisa) "tawa" li ken kama [nimi-suli-sinpin](#nimi-suli-sinpin) en [nimi-suli](#nimi-suli).
+*(En "lukin tawa", la verbo "lukin" kaj la prepozicio "tawa" povas fariĝi helpa verbo kaj verbo.)*
+
+* mi **lukin tawa** sina. ← mi **lukin tawa** sina. *(Mi provas iri al vi. ← Mi serĉas vin.)*
+
+___
+* lukin ~~tawa ni~~ *(provas ← vidanta, rigardanta)*
+* sona ~~ken e ni~~ *(scipovas ← scianta, konanta)*
 
 ### nimi "en"
 *(La partikulo "en")*
@@ -346,7 +370,7 @@ ___
 
 #### nimi-lawa-weka "ijo"
 
-monsi pi [nimi ijo](#nimi-ijo) mute la [nimi lawa](#nimi-lawa) "ijo" li ken weka. nasin ni la [nimi ijo](#nimi-ijo) ni li kama [nimi lawa](#nimi-lawa) sin.
+monsi pi [nimi-ijo](#nimi-ijo)-mute la [nimi-lawa](#nimi-lawa) "ijo" li ken weka. nasin-ni la [nimi-ijo](#nimi-ijo)-ni li kama [nimi-lawa](#nimi-lawa) sin.
 *(Antaŭ multaj radikaj vortoj, la substantivo "ijo" povas manki. Tiel, tia radika vorto fariĝas propra substantivo.)*
 
 * ~~ijo~~-suwi *(dolĉaĵo ← io dolĉa)*
