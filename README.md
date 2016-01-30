@@ -162,8 +162,8 @@ nimi "lukin tawa" la [nimi-suli](#nimi-suli) "lukin" en [nimi-monsi-palisa](#nim
 * mi **lukin tawa** sina. ← mi **lukin tawa** sina. *(Mi provas iri al vi. ← Mi serĉas vin.)*
 
 ___
-* lukin ~~tawa ni~~ *(provas ← vidanta, rigardanta)*
-* sona ~~ken e ni~~ *(scipovas ← scianta, konanta)*
+* ~~wile~~ lukin *(provas ← volas vidi, volas rigardi)*
+* sona ~~ken~~ *(scipovas, kapablas ← scias povi)*
 
 ### nimi "en"
 *(La partikulo "en")*
