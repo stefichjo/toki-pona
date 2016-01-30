@@ -144,22 +144,22 @@ ___
 sinpin pi [nimi-suli-sinpin](#nimi-suli-sinpin) "ken" la [nimi-suli](#nimi-suli) "sona" li ken [nimi-suli-sinpin](#nimi-suli-sinpin). taso tenpo ni la [nimi-suli-sinpin](#nimi-suli-sinpin) "ken" li weka.
 *(Antaŭ la helpa verbo "ken", la verbo "sona" povas esti helpa verbo. Sed tiam, la helpa verbo "ken" mankas.)*
 
-* mi **sona** toki-pona. ← mi **sona ken** toki-pona. ← mi **sona** e ni: mi **ken** e ni: mi toki-pona. *(Mi scipovas paroli simple.)*
+* mi **sona** toki-pona. ← mi **sona ken** toki-pona. ← mi **sona** e ni: mi **ken** e ni: mi toki-pona. *(Mi scipovas paroli simple.)* `Ü`
 
 monsi pi [nimi-suli-sinpin](#nimi-suli-sinpin) "wile" la [nimi-suli](#nimi-suli) "lukin" li ken [nimi-suli-sinpin](#nimi-suli-sinpin). taso tenpo ni la [nimi-suli-sinpin](#nimi-suli-sinpin) "wile" li weka.
 *(Malantaŭ la helpa verbo "wile", la verbo "lukin" povas esti helpa verbo. Sed tiam, la helpa verbo "wile" mankas.)*
 
-* mi **lukin** lape-pona. ← mi **wile lukin** lape-pona. ← mi **wile** e ni: mi **lukin** e ni: mi lape-pona. *(Mi provas dormi bone.)*
+* mi **lukin** lape-pona. ← mi **wile lukin** lape-pona. ← mi **wile** e ni: mi **lukin** e ni: mi lape-pona. *(Mi provas dormi bone.)* `Ü`
 
 jan wile ala kepeken nimi "wile" lon sinpin pi [nimi-suli-palisa](#nimi-suli-palisa) "lukin e" la ona li ken kepeken nimi "lukin tawa".
 *(Por eviti "wile" antaŭ la transitiva verbo "lukin e", oni povas uzi "lukin tawa".)*
 
-* mi **lukin tawa** sina. ← mi **wile lukin** e sina. ← mi **wile** e ni: mi **lukin** e sina. *(Mi serĉas vin. ← Mi rigardas por vi. ← Mi volas vidi vin.)*
+* mi **lukin tawa** sina. ← mi **wile lukin** e sina. ← mi **wile** e ni: mi **lukin** e sina. *(Mi serĉas vin. ← Mi rigardas por vi. ← Mi volas vidi vin.)* `Ü`
 
 nimi "lukin tawa" la [nimi-suli](#nimi-suli) "lukin" en [nimi-monsi-palisa](#nimi-monsi-palisa) "tawa" li ken kama [nimi-suli-sinpin](#nimi-suli-sinpin) en [nimi-suli](#nimi-suli).
 *(En "lukin tawa", la verbo "lukin" kaj la prepozicio "tawa" povas fariĝi helpa verbo kaj verbo.)*
 
-* mi **lukin tawa** sina. ← mi **lukin tawa** sina. *(Mi provas iri al vi. ← Mi serĉas vin.)*
+* mi **lukin tawa** sina. ← mi **lukin tawa** sina. *(Mi provas iri al vi. ← Mi serĉas vin.)* `Ü`
 
 ___
 * ~~wile~~ lukin *(provas ← volas vidi, volas rigardi)*
@@ -322,16 +322,6 @@ kulupu pi **nimi-monsi-palisa** li jo e **nimi-monsi-palisa** e nimi lon monsi.
 *(Prepozicio povas fariĝi nura modifilo.)*
 
 * ona li **tawa**. *(Ŝi iras.)*
-
-kon pi nimi "tawa" li ken sama ijo pi nimi "e" ken.
-*(La signifo de "tawa" povas esti kiel de ebla "e".)*
-
-* mi lukin **tawa** sina. *(Mi serĉas vin. ← Mi rigardas por vi.)* `Ü`
-
-ken la tan-ni la "lukin" li kama [nimi-suli-sinpin](#nimi-suli-sinpin) pi kon-sama.
-Eble tial, "lukin" estas samsignifa helpa verbo.
-
-* mi **lukin** tawa sina. *(Mi provas iri al vi.)*
 
 kon pi nimi "tawa" li ken kon pi nimi "pana e pilin" sin.
 *(La signifo de "tawa" ankaŭ povas esti "impresi".)*
