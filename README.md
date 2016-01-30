@@ -494,10 +494,12 @@ ___
 
 ##### nimi-lawa-weka "kule"
 
-...
-*(...)*
+toki-pona la kule-loje li lon insa pi kule-jelo en kule-laso li ken kule-loje-jelo en kule-loje-laso.
+*(En Tokipono, ruĝo estas inter flavo kaj bluo kaj povas esti aŭ oranĝkolora kaj violkolora.)*
 
-* kili-loje-jelo *(oranĝo ← oranĝkolora frukto)*
+* kili loje ← kili pi ~~kule~~-loje *(ruĝa/oranĝkolora/violkolora frukto)*
+ * kili pi loje-jelo ← kili pi ~~kule~~-loje-jelo *(oranĝkolora frukto)*
+ * kili pi loje-laso ← kili pi ~~kule~~-loje-laso *(violkolora frukto)*
 
 ___
 * ~~kule~~-jelo *(flava)*
