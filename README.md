@@ -2,12 +2,12 @@
 *(Gramatiko de Tokipono)*
 
 lipu-ni la mi sitelen e `-` lon insa pi [nimi-lawa](#nimi-lawa)/[nimi-suli](#nimi-suli) en [nimi-monsi](#nimi-monsi). nasin-sitelen-ni li wile-ala. taso ona li pana e pona.
-*(En ĉi tiu dokumento, mi skribas `-` inter substantivo/verbo kaj adjektivo/adverbo. Tiu skribmaniero ne estas necesa, sed helpas.)*
+*(En ĉi tiu dokumento, mi skribas `-` inter substantivo/verbo kaj modifilo. Tiu skribmaniero ne estas necesa, sed helpas.)*
 
-* mi pana e tomo tawa sina. *(Mi donas la domon al vi.)*
 * mi pana e **tomo-tawa-sina**. *(Mi donas vian aŭton.)*
-* mi lukin pona e sitelen. *(Mi provas ripari la bildon.)*
+* mi pana e tomo tawa sina. *(Mi donas la domon al vi.)*
 * mi **lukin-pona** e sitelen. *(Mi bone vidas la signojn.)*
+* mi lukin pona e sitelen. *(Mi provas ripari la bildon.)*
 
 wan-sama tan pu li jo e sitelen-pona `©`.
 *(Ekzemploj laŭ la oficiala libro pri Tokipono havas la hieroglifon `©`.)*
@@ -234,7 +234,7 @@ kulupu pi **nimi-suli** ken jo e **nimi-suli** taso.
 * ni li **pona**. → **pona**. *(Tio estas bona. → Dankon.)*
 
 nasin ni la jan ken pana e sona kepeken tenpo-lili. [nimi-suli](#nimi-suli) lon sinpin pi [nimi-monsi](#nimi-monsi) "ala" li ken weka.
-*(Tiel, oni povas rapide respondi. La verbo antaŭ adverba "ala" povas manki.)*
+*(Tiel, oni povas rapide respondi. La verbo antaŭ modifa "ala" povas manki.)*
 
 * ona li **kama**. → **kama**. *(Ŝi venos. → Jes.)*
 * ona li **kama-ala**. → **kama-ala**. → **ala.** *(Ŝi ne venos. → Ne.)*
@@ -269,7 +269,7 @@ nimi "o lon" li ken weka.
 * tomo-tawa **pi** jan-pona *(aŭto de amiko)*
 
 sinpin pi [nimi-lawa](#nimi-lawa) pi wan-taso la **nimi "pi"** li weka. nasin-ni la [nimi-lawa](#nimi-lawa)-ni li kama [nimi-monsi](#nimi-monsi).
-*(Antaŭ nur unu substantivo, la partikulo "pi" mankas. Tiel, tiu substantivo fariĝas adjektivo.)*
+*(Antaŭ nur unu substantivo, la partikulo "pi" mankas. Tiel, tiu substantivo fariĝas modifilo.)*
 
 * jan ~~**pi**~~ pona → jan-pona *("persono de bono" → amiko)*
 
@@ -277,15 +277,15 @@ sinpin pi [nimi-lawa](#nimi-lawa) pi wan-taso la **nimi "pi"** li weka. nasin-ni
 *(Radikaj Vortoj)*
 
 ### nimi-monsi
-*(Adjektivoj/Adverboj)*
+*(Modifiloj)*
 
-**nimi monsi** li lon monsi pi [nimi-ijo](#nimi-ijo). [nimi ijo](#nimi-ijo) ale li ken kama **nimi monsi**.
-*(Adjektivo/adverbo estas malantaŭ radika vorto. Ĉiu radika vorto povas fariĝi adjektivo/adverbo.)*
+**nimi-monsi** li nimi lon monsi pi [nimi-lawa](#nimi-lawa) anu [nimi-suli](#nimi-lawa). [nimi-ijo](#nimi-ijo) ale li ken kama **nimi-monsi**.
+*(Modifilo estas aŭ adjektivo aŭ adverbo. Ĉiu radika vorto povas fariĝi modifilo.)*
 
 * mi lukin-**pona**. *(Mi bone vidas.)*
 
 **nimi-monsi**-ale li ken kama [nimi-lawa](#nimi-lawa).
-*(Ĉiu adjektivo/adverbo povas fariĝi substantivo.)*
+*(Ĉiu modifilo povas fariĝi substantivo.)*
 
 * pona *(bona ←→ bono)*
 
@@ -301,7 +301,7 @@ ___
 * moli *(malviva)*
 * musi *(distriĝa, amuziĝa)*
 * nasa *(stranga, malkutima, freneza)*
-* pakala *(misa)*
+* pakala *(aĉa)*
 * pini *(eksa)*
 * pona *(bona, simpla, harmonia)*
 * pu *(tokiponumanta)*
@@ -319,7 +319,7 @@ kulupu pi **nimi-monsi-palisa** li jo e **nimi-monsi-palisa** e nimi lon monsi.
 * ona li **tawa** tomo. *(Ŝi iras hejmen.)*
 
 **nimi-monsi-palisa** li ken kama [nimi-monsi](#nimi-monsi)-taso.
-*(Prepozicio povas fariĝi nura adjektivo/adverbo vorto.)*
+*(Prepozicio povas fariĝi nura modifilo.)*
 
 * ona li **tawa**. *(Ŝi iras.)*
 
@@ -352,7 +352,7 @@ ___
 *(Originaj Substantivoj)*
 
 **nimi-lawa-tan** li kama [nimi-monsi](#nimi-monsi) la kon-ona li jo-sin e ijo pi nimi "tan".
-*(Kiam origina substantivo fariĝas adjektivo/adverbo, ĝia signifo enhavas aldone tiun de "origino".)*
+*(Kiam origina substantivo fariĝas modifilo, ĝia signifo enhavas aldone tiun de "origino".)*
 
 * lipu-mi *(mia libro)*
 * lipu tan mi *(libro de mi)*
@@ -605,7 +605,7 @@ ken la toki-tan la nimi pi ijo-sijelo li lon-ala.
 * **ijo-sijelo-telo** → **kala** *("akva besto" → fiŝo)* `Ü`
 
 ken la toki-tan la [nimi "pi"](#nimi-pi) en [nimi-monsi](#nimi-monsi) li lon-ala.
-*(Eble, en pralingvo, "pi" kaj adjektivoj/adverboj ne ekzistis.)*
+*(Eble, en pralingvo, "pi" kaj modifiloj ne ekzistis.)*
 
 * **toki-pona** → **toki** lon **pona**
 * **tomo pi jan-pona** → **tomo** tan **jan** lon **pona**
@@ -619,7 +619,7 @@ pu la nimi "ala" li ken lon insa pi [nimi-suli](#nimi-suli)-sama-tu. ni li nasin
 
 * ona li tawa ma-tomo Lantan **anu seme**? → ona li **tawa ala tawa** ma-tomo Lantan? *(Ĉu ŝi iras al Londono?)*
 
-### kalama namako
+### kalama-namako
 *(Kromaj Sonoj)*
 
 pu la kalama-nimi li ken kama ante-lili.
@@ -692,7 +692,7 @@ pu la nimi-namako-ante li lon-ala.
 *(Evitindaj Lingvaĵoj)*
 
 jan li toki-pakala lon toki-pona li pu-ala la ni li **toki-ike**.
-*(Se iu parolas malbone en Tokipono sen interagi kun la oficiala libro pri Tokipono, tio estas evitinda lingvaĵo.)*
+*(Se iu misparolas en Tokipono sen interagi kun la oficiala libro pri Tokipono, tio estas evitinda lingvaĵo.)*
 
 ### toki-apeja
 *(Skisma Lingvaĵo)*
@@ -718,17 +718,17 @@ nimi "pana e" li ken-ala weka.
 *(Monstra Lingvaĵo)*
 
 [nimi-monsi](#nimi-monsi) li lon sinpin pi kulupu pi [nimi-monsi](#nimi-monsi)-ante.
-*(Adjektivo/adverbo estas antaŭ alia adjektiva/adverba frazero.)*
+*(Modifilo estas antaŭ alia modifa frazero.)*
 
 * tomo **pi telo-nasa**, ~~pona~~ → tomo-pona **pi telo-nasa** *(bona trinkejo)*
 
 [nimi-monsi](#nimi-monsi) li lon sinpin pi kulupu pi [nimi-monsi-palisa](#nimi-monsi-palisa).
-*(Adjektivo/adverbo estas antaŭ prepozicia frazero.)*
+*(Modifilo estas antaŭ prepozicia frazero.)*
 
 * jan **lon tomo-sona**, ~~pona~~ → jan-pona **lon tomo-sona** *(amiko en lernejo)*
 
 kulupu pi [nimi-monsi](#nimi-monsi) li lon sinpin pi kulupu pi [nimi-monsi-palisa](#nimi-monsi-palisa).
-*(Adjektiva/adverba frazero estas antaŭ prepozicia frazero.)*
+*(Modifa frazero estas antaŭ prepozicia frazero.)*
 
 * tomo lon ma-tomo Lantan ~~**pi telo-nasa**~~. → tomo **pi telo-nasa** lon ma-tomo Lantan *(trinkejo en Londono)*
 
@@ -738,23 +738,23 @@ kulupu pi [nimi "e"](#nimi-e) li lon sinpin pi kulupu pi [nimi-monsi-palisa](#ni
 * mi lukin ~~kepeken tenpo-lili~~ **e** sitelen. → mi lukin **e** sitelen kepeken tenpo-lili. *(Mi legas rapide.)*
 
 [nimi-monsi](#nimi-monsi) li jo ala e [nimi-monsi](#nimi-monsi). jan li wile kepeken nimi "pi".
-*(Adjektivo/adverbo ne havas adverbon. Oni devas uzi "pi".)*
+*(Modifilo ne havas modifilon. Oni devas uzi "pi".)*
 
 * telo-nasa ~~**mute**~~ → telo pi nasa-mute *("tre freneziga likvo" → vodko)*
 
 [nimi-monsi-palisa](#nimi-monsi-palisa) li jo-ala e [nimi-monsi](#nimi-monsi). jan li wile kepeken [nimi-suli](#nimi-suli)-sin.
-*(Prepozicio ne havas adverbon. Oni devas uzi aldonan verbon.)*
+*(Prepozicio ne havas modifilon. Oni devas uzi aldonan verbon.)*
 
 * ona li tawa-~~**pona**,~~ tomo. → ona li tawa-**pona** tawa tomo. *(Ŝi sekure iras hejmen.)*
 * ona li tawa ~~**ala**,~~ ma-tomo Lantan. → ona li tawa-**ala** tawa ma-tomo Lantan. *(Ŝi ne iras al Londono.)*
 
 [nimi-monsi](#nimi-monsi) "ala" lon poka pi [nimi-suli](#nimi-suli)-sin pi nasin-ni li wile-ala.
-*(La adverbo "ala" apud tia aldona verbo ne estas necesa.)*
+*(La modifilo "ala" apud tia aldona verbo ne estas necesa.)*
 
 * ona li tawa-**ala** tawa ma-tomo Lantan. → ona li tawa ma-tomo Lantan **ala**. *(Ŝi ne iras al Londono. ← Ŝi iras al neniu Londono.)*
 
-kulupu pi [nimi-suli](#nimi-suli) li ken lon kulupu pi [nimi "pi"](#nimi-pi)-ala. jan li wile kepeken kulupu pi [nimi-suli](#nimi-suli)-sin.
-*(Frazo ne povas esti en adjektiva/adverba frazero. Oni devas uzi aldonan frazon.)*
+kulupu pi [nimi-suli](#nimi-suli) li ken lon insa-ala pi kulupu pi [nimi "pi"](#nimi-pi). jan li wile kepeken kulupu pi [nimi-suli](#nimi-suli)-sin.
+*(Frazo ne povas esti ene de modifa frazero. Oni devas uzi aldonan frazon.)*
 
 * ona li meli pi ona ~~**li**~~ moku-ala ~~**e**~~ soweli. → ona li meli. ona li moku-ala e soweli. *("Ŝi estas virino, kiu ne manĝas viandon." → Ŝi estas virino. Ŝi ne manĝas viandon.)*
 * mi jo e tomo pi **~~ona li lon ma~~**. → mi jo e tomo pi **~~lon ma~~**. → mi jo e tomo lon ma. *(Mi havas domon, kiu estas en la kamparo. → Mi havas domon en la kamparo.)*
