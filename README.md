@@ -752,24 +752,24 @@ kulupu pi [nimi suli](#nimi-suli) li ken lon insa ala pi kulupu pi [nimi "pi"](#
 ### toki mu
 *(Slanga Lingvaĵo)*
 
-nimi lon monsi pi [nimi lawa weka "ma"](#nimi-lawa-weka-ma) li ken-ala kama [nimi monsi palisa](#nimi-monsi-palisa).
+nimi lon monsi pi [nimi lawa weka "ma"](#nimi-lawa-weka-ma) li ken ala kama [nimi monsi palisa](#nimi-monsi-palisa).
 *(Loka substantivo ne povas fariĝi prepozicio.)*
 
-* waso li:tawa=~~**sewi**~~ tomo-sona. → waso li:tawa lon=**sewi** pi:tomo-sona. *(Birdo flugas super la lernejo.)*
+* waso li:tawa ~~**sewi**=~~tomo-sona. → waso li:tawa lon=**sewi** pi:tomo-sona. *(Birdo flugas super la lernejo.)*
 * mi tawa ~~**poka**=~~jan-pona. → mi tawa lon=**poka** pi:jan-pona. *(Mi vojaĝas kun amiko.)*
 
 [nimi kalama](#nimi-kalama) li ken ala kama [nimi ijo](#nimi-ijo).
 *(Sonimito ne povas fariĝi radika vorto.)*
 
-* soweli li ~~**mu**~~. → soweli li kalama **"mu"**. *(La kato miaŭas.)*
-* ona ~~**a**~~ li kute e kalama-musi. → ona-**sama** li kute e kalama-musi. *(Ankaŭ ŝi aŭskultas muzikon.)*
-* mi tawa ~~**Lantan**~~. → mi tawa ma-tomo **Lantan**. *(Mi iras al Londono.)*
+* soweli li:~~**mu**~~. → soweli li:kalama **"mu"**. *(La kato miaŭas.)*
+* ona ~~**a**~~ li:kute e:kalama-musi. → ona-**sama** li:kute e:kalama-musi. *(Ankaŭ ŝi aŭskultas muzikon.)*
+* mi tawa ~~**Lantan**~~. → mi tawa=ma-tomo **Lantan**. *(Mi iras al Londono.)*
 
-[nimi monsi palisa](#nimi-monsi-palisa) li ken-ala kama [nimi suli sinpin](#nimi-suli-sinpin).
+[nimi monsi palisa](#nimi-monsi-palisa) li ken ala kama [nimi suli sinpin](#nimi-suli-sinpin).
 *(Prepozicio ne povas fariĝi helpa verbo.)*
 
-* ~~mi **tawa** moku.~~ → tenpo-kama la mi moku. *(Mi estas manĝonta. → Mi manĝos.)*
-* ~~mi **tan** moku.~~ → tenpo-pini la mi moku. *(Mi estas manĝinta. → Mi manĝis.)*
+* ~~mi **tawa**.moku.~~ → tenpo-kama la:mi moku. *(Mi estas manĝonta. → Mi manĝos.)*
+* ~~mi **tan**.moku.~~ → tenpo-pini la:mi moku. *(Mi estas manĝinta. → Mi manĝis.)*
 
 ____
 * `Ü`: *(musi)*
