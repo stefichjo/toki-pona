@@ -212,8 +212,8 @@ kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi nimi lon monsi
 **nimi lon sinpin pi nimi "li"** li nimi "mi" anu nimi "sina" la **nimi "li"** li weka.
 *(Se la subjekto estas "mi" aŭ "sina", "li" mankas.)*
 
-* mi ~~**li** ~~toki. → mi toki. *(Mi parolas.)*
-* sina ~~**li** ~~toki. → sina toki. *(Vi parolas.)*
+* mi ~~**li**~~ toki. → mi toki. *(Mi parolas.)*
+* sina ~~**li**~~ toki. → sina toki. *(Vi parolas.)*
 
 #### nimi suli 
 *(La Verbo/Predikato)*
@@ -270,7 +270,7 @@ nimi "o lon" li ken weka.
 sinpin pi [nimi lawa](#nimi-lawa) pi wan taso la **nimi "pi"** li weka. nasin ni la [nimi lawa](#nimi-lawa) ni li kama [nimi monsi](#nimi-monsi).
 *(Antaŭ nur unu substantivo, la partikulo "pi" mankas. Tiel, tiu substantivo fariĝas modifilo.)*
 
-* jan ~~**pi** ~~pona → jan-pona *("persono de bono" → amiko)*
+* jan ~~**pi**~~ pona → jan-pona *("persono de bono" → amiko)*
 
 ## nimi ijo
 *(Radikaj Vortoj)*
@@ -455,7 +455,7 @@ ___
 ##### nimi lawa weka "sike"
 
 * tenpo-suno *(tago ← brila tempo)*
- * ~~sike pi ~~tenpo-suno *(diurno ← taga ciklo)*
+ * ~~sike pi~~ tenpo-suno *(diurno ← taga ciklo)*
 
 ___
 * ~~sike pi ma~~ esun *(semajno ← merkata ciklo)* `Ü` [[~~mute pi ijo sike pi ma~~-esun]](#nimi-lawa-weka-mute) [[~~ma~~ esun]](#nimi-lawa-weka-ma) [[esun e]](#nimi-suli-palisa)
@@ -702,8 +702,8 @@ nimi "jo e" anu nimi "lon" li ken ala weka.
 nimi "pana e" li ken ala weka.
 *("pana e" ne povas manki.)*
 
-* ona li ~~**len e** ~~mi. → ona li **pana e len tawa**=mi. *(Ŝi vestis min.)*
-* ona li ~~**nimi "jan-pona" e** ~~mi. → ona li **pana e nimi "jan-pona" tawa**=mi. *(Ŝi nomis min "amiko".)*
+* ona li ~~**len e**~~ mi. → ona li **pana e len tawa**=mi. *(Ŝi vestis min.)*
+* ona li ~~**nimi "jan-pona" e**~~ mi. → ona li **pana e nimi "jan-pona" tawa**=mi. *(Ŝi nomis min "amiko".)*
 
 ### toki monsuta
 *(Monstra Lingvaĵo)*
@@ -747,7 +747,7 @@ kulupu pi [nimi "e"](#nimi-e) li lon sinpin pi kulupu pi [nimi monsi palisa](#ni
 kulupu pi [nimi suli](#nimi-suli) li ken lon insa ala pi kulupu pi [nimi "pi"](#nimi-pi). jan li wile kepeken kulupu pi [nimi suli](#nimi-suli) sin.
 *(Frazo ne povas esti ene de modifa frazero. Oni devas uzi aldonan frazon.)*
 
-* ona li meli pi ona ~~**li** ~~moku-ala ~~**e** ~~soweli. → ona li meli. ona li moku-ala e soweli. *("Ŝi estas virino, kiu ne manĝas viandon." → Ŝi estas virino. Ŝi ne manĝas viandon.)*
+* ona li meli pi ona ~~**li**~~ moku-ala ~~**e**~~ soweli. → ona li meli. ona li moku-ala e soweli. *("Ŝi estas virino, kiu ne manĝas viandon." → Ŝi estas virino. Ŝi ne manĝas viandon.)*
 * mi jo e tomo pi **~~ona li lon=ma~~**. → mi jo e tomo pi **~~lon=ma~~**. → mi jo e tomo lon ma. *(Mi havas domon, kiu estas en la kamparo. → Mi havas domon en la kamparo.)*
 
 ### toki mu
