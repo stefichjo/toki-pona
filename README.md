@@ -204,7 +204,7 @@ kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi nimi lon monsi
 ### nimi "li"
 *(La Partikulo "li")*
 
-**nimi "li"** li lon insa pi [nimi lawa](#nimi-lawa) en **nimi suli **.
+**nimi "li"** li lon insa pi [nimi lawa](#nimi-lawa) en **nimi suli**.
 *(La partikulo "li" estas inter substantivo kaj verbo/predikato.)*
 
 * ona **li** toki. *(Ŝi parolas.)*
