@@ -12,7 +12,7 @@ wan sama tan pu li jo e sitelen pona `©`.
 
 * ale li pona. *(Ĉio estas bona.)* `©`
 
-tenpo-mute la mi musi kepeken nasin-lawa. ona li utala-ala e toki pona. taso ona li jo-ala e wan-sama. tenpo-ni la mi-taso mama e wan-sama. ona li jo e sitelen-pona `Ü`.
+tenpo mute la mi musi kepeken nasin lawa. ona li utala ala e toki pona. taso ona li jo ala e wan sama. tenpo ni la mi taso mama e wan sama. ona li jo e sitelen pona `Ü`.
 *(Ofte mi ludas per reguloj. Ili ne kontraŭas Tokiponon, sed ili ne havas ekzemplojn. Tiam, mi mem verkas ekzemplojn. Ili havas la hieroglifon `Ü`.)*
 
 * mi mama e wan-sama. *(Mi verkas ekzemplon.)* `Ü`
@@ -32,7 +32,7 @@ monsi la **nimi kalama** "a" li wawa e kulupu pi [nimi suli](#nimi-suli).
 * sina pona-lukin **a**! *(Vi estas ja bela!)*
 * sina pu **a**! *(Vi estas ja interaganta kun la oficiala libro pri Tokipono.)* `©`
 
-insa pi [nimi lawa](#nimi-lawa) en **nimi kalama** la nimi "pi nimi" en ilo-nimi li ken weka.
+insa pi [nimi lawa](#nimi-lawa) en **nimi kalama** la nimi "pi nimi" en ilo nimi li ken weka.
 *(Inter substantivo kaj sonimito, "pi nimi" kaj la citiloj povas manki.)*
 
 * mi jan pi nimi "**Tepan**". → mi jan **Tepan**. *("Mi estas persono de la nomo 'Stephan'." → Mi estas Stephan.)*
@@ -84,7 +84,7 @@ nimi ilo "anu" li lon insa pi [nimi ijo](#nimi-ijo) tu pi ijo ken tu.
 * mi **lukin-pona e sitelen**. → mi **lukin-pona**. *(Mi bone vidas la signojn. → Mi bone vidas.)*
 * mi **toki e ijo**. → mi **toki**. *(Mi diras ion. → Mi parolas.)*
 
-monsi pi **nimi suli palisa** ale la [nimi lawa](#nimi-lawa) "ijo" li ken [weka](#nimi-lawa-weka-ijo). taso kon pi [nimi lawa](#nimi-lawa)-sin-ni li sama-ijo pi kulupu pi **nimi "e"** lon monsi pi **nimi suli palisa**.
+monsi pi **nimi suli palisa** ale la [nimi lawa](#nimi-lawa) "ijo" li ken [weka](#nimi-lawa-weka-ijo). taso kon pi [nimi lawa](#nimi-lawa) sin ni li sama ijo pi kulupu pi **nimi "e"** lon monsi pi **nimi suli palisa**.
 *(Antaŭ ĉiu transitiva verbo, la substantivo "ijo" povas manki. Sed la signifo de tiu nova substantivo estas kiel de la rekta objekto de la transitiva verbo.)*
 
 * ~~ijo~~-sitelen *(desegno ← desegnaĵo)*
@@ -93,7 +93,7 @@ monsi pi **nimi suli palisa** ale la [nimi lawa](#nimi-lawa) "ijo" li ken [weka]
 
 ___
 * alasa e *(ĉasanta)*
-* esun e *(interŝanĝanta)* [[~~mute pi ijo-sike pi ma~~-esun]](#nimi-lawa-weka-mute) [[~~sike pi ma~~-esun]](#nimi-lawa-weka-sike) [[~~ma~~-esun]](#nimi-lawa-weka-ma)
+* esun e *(interŝanĝanta)* [[~~mute pi ijo sike pi ma~~ esun]](#nimi-lawa-weka-mute) [[~~sike pi ma~~ esun]](#nimi-lawa-weka-sike) [[~~ma~~ esun]](#nimi-lawa-weka-ma)
 * jo e *(havanta)*
 * kute e *(aŭdanta, aŭskultanta)*
 * lawa e *(gvidanta)* → [[lawa]](#nimi-monsi)
