@@ -829,8 +829,8 @@ nimi lon monsi pi [nimi lawa weka "ma"](#nimi-lawa-weka-ma) li ken ala kama [nim
 [nimi monsi palisa](#nimi-monsi-palisa) li ken ala kama [nimi suli sinpin](#nimi-suli-sinpin).
 *(Prepozicio ne povas fariĝi helpa verbo.)*
 
-* ~~mi **tawa**.moku.~~ → tenpo-kama la mi moku. *(Mi estas manĝonta. → Mi manĝos.)*
-* ~~mi **tan**.moku.~~ → tenpo-pini la mi moku. *(Mi estas manĝinta. → Mi manĝis.)*
+* ~~mi **tawa**+moku.~~ → tenpo-kama la mi moku. *(Mi estas manĝonta. → Mi manĝos.)*
+* ~~mi **tan**+moku.~~ → tenpo-pini la mi moku. *(Mi estas manĝinta. → Mi manĝis.)*
 
 nimi "ni" lon sinpin pi kulupu insa pi [nimi suli](#nimi-suli) li ken ala weka. taso o sona e ni: jan Sonja li kepeken kulupu insa pi [nimi suli](#nimi-suli) ala.
 *("ni" antaŭ subfrazo ne povas manki. Sed sciu, ke Sonja ne uzas subfrazojn.)*
