@@ -14,7 +14,7 @@ tenpo mute la mi musi kepeken nasin lawa. ona li utala ala e toki pona. taso ona
 ## sitelen lon insa nimi
 *(Interpunkcio)*
 
-### sitelen "."
+### sitelen .
 *(Punkto)*
 
 sitelen **.** li lon monsi pi kulupu pi [nimi suli](#nimi-suli).
@@ -22,24 +22,24 @@ sitelen **.** li lon monsi pi kulupu pi [nimi suli](#nimi-suli).
 
 * toki li pona**.** *(Komunikado estas bona.)*
 
-#### sitelen "?"
+#### sitelen ?
 *(Demandosigno)*
 
 kulupu pi [nimi suli](#nimi-suli) li jo e nimi "seme", la sitelen **?** li lon monsi.
 *(Se la frazo enhavas la vorton "seme", sekvas demandosigno.)*
 
-* **seme** li pona**?** *(Kio estas bona?)*
+* ***seme*** li pona**?** *(Kio estas bona?)*
 
-#### sitelen "!"
+#### sitelen !
 *(Krisigno)*
 
 kulupu pi [nimi suli](#nimi-suli) li jo e nimi "a" anu "o", la sitelen **!** li lon monsi.
 *(Se la frazo enhavas la vorton "a" aŭ "o", sekvas krisigno.)*
 
-* sina pona lukin **a!** *(Vi ja belas!)*
-* **o** toki**!** *(Rakontu!)*
+* sina pona lukin ***a!*** *(Vi ja belas!)*
+* ***o*** toki***!*** *(Rakontu!)*
 
-### sitelen ","
+### sitelen ,
 *(Komo)*
 
 kulupu pi [nimi suli](#nimi-suli) tu li kama wan, la sitelen **.** insa li kama sitelen **,**.
@@ -63,47 +63,47 @@ ___
 * a *(ha)*
 * mu *(miaŭ)*
 
-#### sitelen ":"
+#### sitelen :
 *(Dupunkto)*
 
-kulupu pi [nimi suli](#nimi-suli) pi nanpa wan li jo e kon sama ijo pi nimi "ni" tan kulupu pi [nimi suli](#nimi-suli) pi nanpa wan, la sitelen "," li kama sitelen ":".
+kulupu pi [nimi suli](#nimi-suli) pi nanpa wan li jo e kon sama ijo pi nimi "ni" tan kulupu pi [nimi suli](#nimi-suli) pi nanpa wan, la sitelen **,** li kama sitelen **:**.
 *(Se la dua frazo havas la saman signifon kiel iu "ni" el la unua frazo, komo fariĝas dupunkto.)*
 
-* sina toki e ni: sina olin e mi. *(Vi diras, ke vi amas min.)*
+* sina toki e **ni:** sina olin e mi. *(Vi diras, ke vi amas min.)*
 
-kulupu pi nimi "la" la sitelen ":" li kama ",".
+kulupu pi nimi "la" la sitelen **:** li kama **,**.
 *(En la-frazo, dupunkto fariĝas komo.)*
 
-* mi pilin pona tan ni: sina kama sona e toki pona. *(Mi ĝojas, ĉar vi lernas Tokiponon.)*
-* tan ni, sina kama sona e toki pona, la mi pilin pona. *(Ĉar vi lernas Tokiponon, mi ĝojas.)* `Ü`
+* mi pilin pona tan **ni:** sina kama sona e toki pona. *(Mi ĝojas, ĉar vi lernas Tokiponon.)*
+* tan **ni,** sina kama sona e toki pona**,** la mi pilin pona. *(Ĉar vi lernas Tokiponon, mi ĝojas.)* `Ü`
 
-#### sitelen """
+#### sitelen "
 *(Citiloj)*
 
-monsi pi nimi "nimi" la kalama nimi li lon insa pi sitelen """.
+monsi pi nimi "nimi" la kalama nimi li lon insa pi sitelen **"**.
 *(Malantaŭ "nimi", la sono de vorto(j) estas inter citiloj.)*
 
-* sina toki e nimi "mi olin e sina". *(Vi diras "mi amas vin".)*
+* sina toki e nimi **"**mi olin e sina**"**. *(Vi diras "mi amas vin".)*
 
-kalama nimi li nimi sin, la nimi "pi nimi" en sitelen """ li ken weka.
+kalama nimi li nimi sin, la nimi "pi nimi" en sitelen **"** li ken weka.
 *(Se la sono de vorto(j) estas propra vorto, "pi nimi" kaj la citiloj povas manki.)*
 
-* mi jan **pi nimi "**Tepan**"** → mi jan Tepan. *(Mi estas Stefo.)*
-* mi sona e toki **pi nimi "**Epelanto**"** → mi sona e toki Epelanto. *(Mi konas Esperanton.)*
+* mi jan ***pi nimi "***Tepan***"*** → mi jan Tepan. *(Mi estas Stefo.)*
+* mi sona e toki ***pi nimi "***Epelanto***"*** → mi sona e toki Epelanto. *(Mi konas Esperanton.)*
 
-### sitelen "-"
+### sitelen -
 *(Ligostreko)*
 
-pu la [nimi lawa](#nimi-lawa) (anu [nimi suli](#nimi-suli)) en [nimi monsi](#nimi-monsi) li kama sitelen pona wan. lipu ni la [nimi monsi](#nimi-monsi) li ken jo e sitelen "-".
+pu la [nimi lawa](#nimi-lawa) (anu [nimi suli](#nimi-suli)) en [nimi monsi](#nimi-monsi) li kama sitelen pona wan. lipu ni la [nimi monsi](#nimi-monsi) li ken jo e sitelen **-**.
 *(Laŭ la oficiala libro pri Tokipono, substantivo (aŭ verbo) kaj modifilo unuiĝas al unu hieroglifo. En tiu ĉi dokumento, modifilo povas havi ligostrekon.)*
 
 * mi pana e tomo-tawa-sina. *(Mi donas vian aŭton.)*
 * mi pana e tomo tawa sina. *(Mi donas la domon al vi.)*
 
-### sitelen "+"
+### sitelen +
 *(Plus-Signo)*
 
-lipu ni la [nimi suli sinpin](#nimi-suli-sinpin) li ken jo e sitelen "+".
+lipu ni la [nimi suli sinpin](#nimi-suli-sinpin) li ken jo e sitelen **+**.
 *(En tiu ĉi dokumento, helpa verbo povas havi plus-signon.)*
 
 * mi lukin+tawa sina. *(Mi provas iri al vi.)*
@@ -117,8 +117,6 @@ lipu ni la [nimi suli sinpin](#nimi-suli-sinpin) li ken jo e sitelen "+".
 
 * nasin **pi** toki-pona *(tokiponismo)*
 * toki **li** pona. *(Komunikado estas bona.)* `©`
-
-
 ___
 
 * [anu](#nimi-anu) *(aŭ)*
@@ -209,12 +207,12 @@ ___
 sinpin pi [nimi suli sinpin](#nimi-suli-sinpin) "ken" la [nimi suli](#nimi-suli) "sona" li ken [nimi suli sinpin](#nimi-suli-sinpin). taso tenpo ni la [nimi suli sinpin](#nimi-suli-sinpin) "ken" li weka.
 *(Antaŭ la helpa verbo "ken", la verbo "sona" povas esti helpa verbo. Sed tiam, la helpa verbo "ken" mankas.)*
 
-* mi **sona**+toki-pona. ← mi **sona+ken**+toki-pona. ← mi **sona** e ni: mi **ken** e ni: mi toki-pona. *(Mi scipovas paroli simple.)* `Ü`
+* mi **sona**.toki-pona. ← mi **sona.ken**.toki-pona. ← mi **sona** e ni: mi **ken** e ni: mi toki-pona. *(Mi scipovas paroli simple.)* `Ü`
 
 monsi pi [nimi suli sinpin](#nimi-suli-sinpin) "wile" la [nimi suli](#nimi-suli) "lukin" li ken [nimi suli sinpin](#nimi-suli-sinpin). taso tenpo ni la [nimi suli sinpin](#nimi-suli-sinpin) "wile" li weka.
 *(Malantaŭ la helpa verbo "wile", la verbo "lukin" povas esti helpa verbo. Sed tiam, la helpa verbo "wile" mankas.)*
 
-* mi **lukin**+lape-pona. ← mi **wile+lukin**+lape-pona. ← mi **wile** e ni: mi **lukin** e ni: mi lape-pona. *(Mi provas dormi bone.)* `Ü`
+* mi **lukin**.lape-pona. ← mi **wile+lukin**.lape-pona. ← mi **wile** e ni: mi **lukin** e ni: mi lape-pona. *(Mi provas dormi bone.)* `Ü`
 
 jan wile ala kepeken nimi "wile" lon sinpin pi [nimi suli palisa](#nimi-suli-palisa) "lukin e", la ona li ken kepeken nimi "lukin tawa".
 *(Por eviti "wile" antaŭ la transitiva verbo "lukin e", oni povas uzi "lukin tawa".)*
@@ -771,6 +769,12 @@ nimi "pana e" li ken ala weka.
 * ona li ~~**len e**~~ mi. → ona li **pana e len tawa** mi. *(Ŝi vestis min.)*
 * ona li ~~**nimi "jan-pona" e**~~ mi. → ona li **pana e nimi "jan-pona" tawa** mi. *(Ŝi nomis min "amiko".)*
 
+nimi "ni" lon sinpin pi kulupu insa pi [nimi suli](#nimi-suli) li ken ala weka. taso o sona e ni: jan Sonja li kepeken kulupu insa pi [nimi suli](#nimi-suli) ala.
+*("ni" antaŭ subfrazo ne povas manki. Sed sciu, ke Sonja ne uzas subfrazojn.)*
+
+* ona li meli pi ni: ona li moku ala e soweli. → ona li meli pi ni: moku ala e soweli. → ona li meli. → ona li meli ~~pi moku ala e soweli~~. → ona li meli li moku ala e soweli. *(Ŝi estas virino, kiu ne manĝas viandon. → Ŝi estas virino kaj ne manĝas viandon.)* `Ü`
+* mi jo e tomo pi ni: ona li lon ma. → mi jo e tomo pi ni: lon ma. -> mi jo e tomo ~~pi lon ma~~. → mi jo e tomo lon ma. *(Mi havas domon, kiu estas en la kamparo. → Mi havas domon en la kamparo.)*
+
 ### toki monsuta
 *(Monstra Lingvaĵo)*
 
@@ -819,7 +823,7 @@ nimi lon monsi pi [nimi lawa weka "ma"](#nimi-lawa-weka-ma) li ken ala kama [nim
 * waso li tawa ~~**sewi** ~~tomo-sona. → waso li tawa lon **sewi** pi tomo-sona. *(Birdo flugas super la lernejo.)*
 * mi tawa ~~**poka** ~~jan-pona. → mi tawa lon **poka** pi jan-pona. *(Mi vojaĝas kun amiko.)*
 
-**nimi-kalama** li ken ala kama [nimi ijo](#nimi-ijo).
+***nimi-kalama*** li ken ala kama [nimi ijo](#nimi-ijo).
 *(Sonimito ne povas fariĝi radika vorto.)*
 
 * soweli li ~~**mu**~~. → soweli li kalama **"mu"**. *(La kato miaŭas.)*
@@ -829,34 +833,5 @@ nimi lon monsi pi [nimi lawa weka "ma"](#nimi-lawa-weka-ma) li ken ala kama [nim
 [nimi monsi palisa](#nimi-monsi-palisa) li ken ala kama [nimi suli sinpin](#nimi-suli-sinpin).
 *(Prepozicio ne povas fariĝi helpa verbo.)*
 
-* ~~mi **tawa**+moku.~~ → tenpo-kama la mi moku. *(Mi estas manĝonta. → Mi manĝos.)*
-* ~~mi **tan**+moku.~~ → tenpo-pini la mi moku. *(Mi estas manĝinta. → Mi manĝis.)*
-
-nimi "ni" lon sinpin pi kulupu insa pi [nimi suli](#nimi-suli) li ken ala weka. taso o sona e ni: jan Sonja li kepeken kulupu insa pi [nimi suli](#nimi-suli) ala.
-*("ni" antaŭ subfrazo ne povas manki. Sed sciu, ke Sonja ne uzas subfrazojn.)*
-
-* ona li meli pi ni: ona li moku ala e soweli. → ona li meli pi ni: moku ala e soweli. → ona li meli. → ona li meli ~~pi moku ala e soweli~~. → ona li meli li moku ala e soweli. *(Ŝi estas virino, kiu ne manĝas viandon. → Ŝi estas virino kaj ne manĝas viandon.)* `Ü`
-* mi jo e tomo pi ni: ona li lon ma. → mi jo e tomo pi ni: lon ma. -> mi jo e tomo ~~pi lon ma~~. → mi jo e tomo lon ma. *(Mi havas domon, kiu estas en la kamparo. → Mi havas domon en la kamparo.)*
-
-____
-* `Ü`: *(musi)*
-* `©`: *(pu)*
-
-```
-aÖX¢8+≠YA»+æ
-O T+&+ Gα ←♈
-K Q++S△++)- 
-Ø+⚹>v~□ ÷50U
-⊕+♉♀e♂ †[++Ü
-3#@↑+↓++o ++
-⚡  |ŭ +♡ IÏ++
- ©=++?wE+*6]
-+ +V⊙π^¶Ͱ→≈⌚
- ⌂2♋D+ 14 +W
-```
-
-* ``:( :)``
-* ``△⊙ △♈ △D △X △V``
-* ``5T 5D 5O 5*``
-* ``D* □* O*``
-* ``♡♡ OV``
+* ~~mi **tawa**.moku.~~ → tenpo-kama la mi moku. *(Mi estas manĝonta. → Mi manĝos.)*
+* ~~mi **tan**.moku.~~ → tenpo-pini la mi moku. *(Mi estas manĝinta. → Mi manĝis.)*
