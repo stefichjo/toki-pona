@@ -151,9 +151,9 @@ nimi ilo "anu" li lon insa pi [nimi ijo](#nimi-ijo) tu pi ijo ken tu.
 monsi pi **nimi suli palisa** ale la [nimi lawa](#nimi-lawa) "ijo" li ken [weka](#nimi-lawa-weka-ijo). taso kon pi [nimi lawa](#nimi-lawa) sin ni li sama ijo pi kulupu pi **nimi "e"** lon monsi pi **nimi suli palisa**.
 *(Antaŭ ĉiu transitiva verbo, la substantivo "ijo" povas manki. Sed la signifo de tiu nova substantivo estas kiel de la rekta objekto de la transitiva verbo.)*
 
-* ~~ijo~~-sitelen *(desegno ← desegnaĵo)*
 * ~~ijo~~-nasin *(sistemo, funkcio, rolo, kvalito, maniero, vojo, direkto ← direktaĵo)* `Ü`
 * ~~ijo~~-nimi *(nomo, vorto, termino, esprimo, signifo ← esprimaĵo, signifaĵo)* `Ü`
+* ~~ijo~~-sitelen *(desegno ← desegnaĵo)*
 
 ___
 * alasa e *(ĉasanta)*
@@ -169,6 +169,7 @@ ___
 * nimi e *(esprimanta, signifanta)* `Ü`
 * olin e *(amanta)*
 * pali e *(laboranta, faranta)*
+* pan e *(rakoltanta)* `Ü`
 * pana e *(donanta)*
 * pilin e *(sentanta)*
 * sitelen e *(pentranta, desegnanta)*
@@ -193,7 +194,6 @@ kulupu pi [nimi suli](#nimi-suli) lon monsi pi nimi "e ni" li jo e nimi sama lon
 *(Kiam subfrazo havas la saman subjekton, la du verboj povas fariĝi unu. Tiel, la unua verbo fariĝas helpa verbo de la dua verbo.)*
 
 * ona li **wile** e ni: ona li **kama** e ni: ona li **sona** e toki-pona. → ona li **wile+kama+sona** e toki-pona. *(Ŝi volas lerni Tokiponon.)*
-
 ___
 
 * awen ~~e ni~~ *(plu- ← resta)*
@@ -207,12 +207,12 @@ ___
 sinpin pi [nimi suli sinpin](#nimi-suli-sinpin) "ken" la [nimi suli](#nimi-suli) "sona" li ken [nimi suli sinpin](#nimi-suli-sinpin). taso tenpo ni la [nimi suli sinpin](#nimi-suli-sinpin) "ken" li weka.
 *(Antaŭ la helpa verbo "ken", la verbo "sona" povas esti helpa verbo. Sed tiam, la helpa verbo "ken" mankas.)*
 
-* mi **sona**.toki-pona. ← mi **sona.ken**.toki-pona. ← mi **sona** e ni: mi **ken** e ni: mi toki-pona. *(Mi scipovas paroli simple.)* `Ü`
+* mi **sona**+toki-pona. ← mi **sona+ken**+toki-pona. ← mi **sona** e ni: mi **ken** e ni: mi toki-pona. *(Mi scipovas paroli simple.)* `Ü`
 
 monsi pi [nimi suli sinpin](#nimi-suli-sinpin) "wile" la [nimi suli](#nimi-suli) "lukin" li ken [nimi suli sinpin](#nimi-suli-sinpin). taso tenpo ni la [nimi suli sinpin](#nimi-suli-sinpin) "wile" li weka.
 *(Malantaŭ la helpa verbo "wile", la verbo "lukin" povas esti helpa verbo. Sed tiam, la helpa verbo "wile" mankas.)*
 
-* mi **lukin**.lape-pona. ← mi **wile+lukin**.lape-pona. ← mi **wile** e ni: mi **lukin** e ni: mi lape-pona. *(Mi provas dormi bone.)* `Ü`
+* mi **lukin**+lape-pona. ← mi **wile+lukin**+lape-pona. ← mi **wile** e ni: mi **lukin** e ni: mi lape-pona. *(Mi provas dormi bone.)* `Ü`
 
 jan wile ala kepeken nimi "wile" lon sinpin pi [nimi suli palisa](#nimi-suli-palisa) "lukin e", la ona li ken kepeken nimi "lukin tawa".
 *(Por eviti "wile" antaŭ la transitiva verbo "lukin e", oni povas uzi "lukin tawa".)*
@@ -409,7 +409,6 @@ ___
 
 * lipu-mi *(mia libro)*
 * lipu tan mi *(libro de mi)*
-
 ___
 * mi *(mi, ni)*
 * ona *(ŝi, li, ĝi, ili)*
@@ -445,7 +444,6 @@ ___
 * ~~ijo~~ monsi *(dorso ← malantaŭaĵo)*
 * ~~ijo~~ mun *(luno, planedo, satelito ← orbitaĵo)* `Ü`
 * ~~ijo~~ nena *(nazo, monto, faldo ← elstaraĵo)* `Ü`
-* ~~ijo~~ pan *(pano, greno ← rakoltaĵo)* `Ü`
 * ~~ijo~~ poka *(flanko, kokso ← apudaĵo)* [[~~ma~~ poka]](#nimi-lawa-weka-ma)
  * lon ~~ma pi ijo~~ poka *(ĉe, kun ← ĉe la flanko)*
  * lon ~~ma pi ijo~~ poka ante *(trans ← ĉe la alia flanko)*
