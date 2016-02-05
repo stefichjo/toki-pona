@@ -416,11 +416,6 @@ ___
 * sina *(vi)*
 * ijo *(io)*
 
-___
-* mun *(luno)*
-* pan *(pano)*
-* tomo *(hejmo, domo, ĉambro)*
-
 #### nimi lawa weka "ijo"
 
 monsi pi [nimi ijo](#nimi-ijo)-mute la [nimi lawa](#nimi-lawa) "ijo" li ken weka. nasin-ni la [nimi ijo](#nimi-ijo)-ni li kama [nimi lawa](#nimi-lawa) sin.
@@ -448,7 +443,9 @@ ___
 * ~~ijo~~ ma *(ejo, lando, grundo, kampo, tero, loko, spaco ← vastaĵo)*
 * ~~ijo~~ mani *(mono, resurso, kapitalo ← valoraĵo)* `Ü`
 * ~~ijo~~ monsi *(dorso ← malantaŭaĵo)*
+* ~~ijo~~ mun *(luno, planedo, satelito ← orbitaĵo)* `Ü`
 * ~~ijo~~ nena *(nazo, monto, faldo ← elstaraĵo)* `Ü`
+* ~~ijo~~ pan *(pano, greno ← rakoltaĵo)* `Ü`
 * ~~ijo~~ poka *(flanko, kokso ← apudaĵo)* [[~~ma~~ poka]](#nimi-lawa-weka-ma)
  * lon ~~ma pi ijo~~ poka *(ĉe, kun ← ĉe la flanko)*
  * lon ~~ma pi ijo~~ poka ante *(trans ← ĉe la alia flanko)*
@@ -488,6 +485,7 @@ ___
 * lon ~~ma~~ sinpin *(antaŭ ← en la antaŭo de)*
 * lon ~~ma~~ supa *(sur ← en la horizontalo de)* `Ü`
 * lon ~~ma~~ taso *(sen ← en sendependo/libero de)* `Ü`
+* lon ~~ma~~ tomo *(ĉe ← ĉe la hejmo/domo/ĉambro de ← ĉe la loĝejo de)* `Ü`
 * lon ~~ma~~ weka *(fore de ← en distanco/izoleco de)* `Ü`
 
 ##### nimi lawa weka "mute"
