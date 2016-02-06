@@ -431,8 +431,7 @@ ___
 * ~~ijo~~ ala *(nenio ← neniu aĵo)*
 * ~~ijo~~ ale *(ĉio ← ĉiu aĵo)*
 * ~~ijo~~ ilo *(ilo, instrumento, organo ← utilaĵo)* `Ü`
-* ~~ijo~~ insa *(centro, mezo ← internaĵo)*
- * lon ~~ma pi ijo~~ insa *(inter ← en la centro/mezo de)*
+* ~~ijo~~ insa *(centro, mezo ← internaĵo)* → [[lon ~~ma pi ijo~~ insa]](#nimi-lawa-weka-ma)
 * ~~ijo~~ kili *(frukto ← sukcesaĵo)* `Ü`
 * ~~ijo~~ kiwen *(ŝtono, metalo, osto ← malmolaĵo)*
 * ~~ijo~~ ko *(amaso, pulvoro ← amorfaĵo)*
@@ -449,9 +448,7 @@ ___
 * ~~ijo~~ monsi *(dorso ← malantaŭaĵo)*
 * ~~ijo~~ mun *(luno, planedo, satelito ← orbitaĵo)* `Ü`
 * ~~ijo~~ nena *(nazo, monto, faldo ← elstaraĵo)* `Ü`
-* ~~ijo~~ poka *(flanko, kokso ← apudaĵo)* [[~~ma~~ poka]](#nimi-lawa-weka-ma)
- * lon ~~ma pi ijo~~ poka *(ĉe, kun ← ĉe la flanko)*
- * lon ~~ma pi ijo~~ poka ante *(trans ← ĉe la alia flanko)*
+* ~~ijo~~ poka *(flanko, kokso ← apudaĵo)* [[~~ma~~ poka]](#nimi-lawa-weka-ma) → [[lon ~~ma pi ijo~~ poka]](#nimi-lawa-weka-ma)
 * ~~ijo~~ seli *(fajro ← varmaĵo, ardaĵo)*
 * ~~ijo~~ seme *(kio ← kiu aĵo)*
 * ~~ijo~~ selo *(ŝelo, haŭto, formo ← eksternaĵo)*
@@ -477,12 +474,15 @@ ___
 * lon ~~ma~~ anpa *(sub ← en la malsupro de)*
 * lon ~~ma~~ esun *(por, kontraŭ ← ĉe interŝanĝo de)* `Ü` [[~~mute pi ijo sike pi ma~~ esun]](#nimi-lawa-weka-mute) [[~~sike pi ma~~ esun]](#nimi-lawa-weka-sike) [[esun e]](#nimi-suli-palisa)
 * lon ~~ma~~ insa *(en ← en la interno de)*
+ * lon ~~ma pi ijo~~ insa *(inter ← en la centro/mezo de)* → [[~~ijo~~ insa]](#nimi-lawa-weka-ijo)
 * lon ~~ma pi ilo~~ lawa *(supre de ← kape de)* [[~~ilo~~ lawa]](#nimi-lawa-weka-ilo)
 * lon ~~ma~~ monsi *(malantaŭ ← en la malantaŭo de)*
 * lon ~~ma pi ilo~~ noka *(malsupre de ← piede de)*
 * lon ~~ma~~ open *(tra ← en la malfermiteco/traireblo de)*
-* lon ~~ma~~ open pi ~~ma~~ poka ijo *(preter ← tra ies apudo)* `Ü`
+ * lon ~~ma~~ open pi ~~ma~~ poka ijo *(preter ← tra ies apudo)* `Ü`
 * lon ~~ma~~ poka *(apud ← en la apudo de)* [[~~ijo~~ poka]](#nimi-lawa-weka-ijo)
+ * lon ~~ma pi ijo~~ poka *(ĉe, kun ← ĉe la flanko)* → [[~~ijo~~ poka]](#nimi-lawa-weka-ijo)
+   * lon ~~ma pi ijo~~ poka ante *(trans ← ĉe la alia flanko)*
 * lon ~~ma~~ selo *(ekster ← en la eksterno)*
 * lon ~~ma~~ selo sike *(ĉirkaŭ ← en la ĉirkaŭo)* `Ü`
 * lon ~~ma~~ sewi *(super ← en la alto de)*
