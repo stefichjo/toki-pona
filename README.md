@@ -457,6 +457,7 @@ ___
 * ~~ijo~~ supa *((horizontalaĵa) meblo ← horizontalaĵo)*
 * ~~ijo~~ suwi *(dolĉaĵo)*
 * ~~ijo~~ telo *(akvo, likvo ← likvaĵo, malsekaĵo)*
+* ~~ijo~~ tomo *(hejmo, domo, ĉambro ← sekuraĵo)* `Ü` → [[~~ma pi ijo~~ tomo]](#nimi-lawa-weka-ma)
 
 ##### nimi lawa weka "ma"
 *(Manka Substantivo "ma")*
@@ -483,7 +484,7 @@ ___
 * lon ~~ma~~ sinpin *(antaŭ ← en la antaŭo de)*
 * lon ~~ma~~ supa *(sur ← en la horizontalo de)* `Ü`
 * lon ~~ma~~ taso *(sen ← en sendependo/libero de)* `Ü`
-* lon ~~ma~~ tomo *(ĉe ← ĉe la hejmo/domo/ĉambro de ← ĉe la loĝejo de)* `Ü`
+* lon ~~ma pi ijo~~ tomo *(ĉe ← ĉe la hejmo/domo/ĉambro de)* `Ü` → [[~~ijo~~ tomo]](#nimi-lawa-weka-ijo)
 * lon ~~ma~~ weka *(fore de ← en distanco/izoleco de)* `Ü`
 
 ##### nimi lawa weka "mute"
