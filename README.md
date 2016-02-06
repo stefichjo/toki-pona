@@ -126,10 +126,10 @@ ___
 * [anu](#nimi-anu) *(aŭ)*
 * [e](#nimi-e) *(-n)*
 * [en](#nimi-en) *(kaj)*
-* [la](#nimi-la) *(se, -e)*
+* [la](#nimi-la) *(,)*
 * [li](#nimi-li) *(-as)*
 * [o](#nimi-o) *(-u)*
-* [pi](#nimi-pi) *(de, -a, -e)*
+* [pi](#nimi-pi) *(-a, -e)*
 
 ### nimi "anu"
 *(La partikulo "anu")*
