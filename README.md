@@ -769,8 +769,8 @@ nimi "pana e" li ken ala weka.
 nimi "ni" lon sinpin pi kulupu insa pi [nimi suli](#nimi-suli) li ken ala weka. taso o sona e ni: jan Sonja li kepeken kulupu insa pi [nimi suli](#nimi-suli) ala.
 *("ni" antaŭ subfrazo ne povas manki. Sed sciu, ke Sonja ne uzas subfrazojn.)*
 
-* ona li meli pi ni: ona li moku ala e soweli. → ona li meli pi ni: moku ala e soweli. → ona li meli. → ona li meli ~~pi moku ala e soweli~~. → ona li meli li moku ala e soweli. *(Ŝi estas virino, kiu ne manĝas viandon. → Ŝi estas virino kaj ne manĝas viandon.)* `Ü`
-* mi jo e tomo pi ni: ona li lon ma. → mi jo e tomo pi ni: lon ma. -> mi jo e tomo ~~pi lon ma~~. → mi jo e tomo lon ma. *(Mi havas domon, kiu estas en la kamparo. → Mi havas domon en la kamparo.)*
+* ona li meli pi ni: (ona li) moku ala e soweli. → ~~ona li meli pi (ona li) moku ala e soweli~~. → ona li meli li moku ala e soweli. *(Ŝi estas virino, kiu ne manĝas viandon. → Ŝi estas virino kaj ne manĝas viandon.)* `Ü`
+* mi jo e tomo pi ni: (ona li) lon ma. → ~~mi jo e tomo pi (ona li) lon ma~~. → mi jo e tomo lon ma. *(Mi havas domon, kiu estas en la kamparo. → Mi havas domon en la kamparo.)*
 
 ### toki monsuta
 *(Monstra Lingvaĵo)*
