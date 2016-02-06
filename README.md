@@ -120,7 +120,7 @@ lipu ni la [nimi suli sinpin](#nimi-suli-sinpin) li ken jo e sitelen **+**.
 
 | anu      | e        | en       | la       | li       | o        | pi       |
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| *aŭ*     | *-n*     | *kaj*    | *-e*     | *-as*    | *-u*     | *-a, -e* |
+| *aŭ*     | *-n*     | *kaj*    | *,*      | *-as*    | *-u*     | *-a, -e* |
 
 ___
 * [anu](#nimi-anu) *(aŭ)*
