@@ -58,8 +58,8 @@ monsi la **nimi kalama** "a" li wawa e kulupu pi [nimi suli](#nimi-suli).
 
 * sina pona-lukin **a**! *(Vi estas ja bela!)*
 * sina pu **a**! *(Vi estas ja interaganta kun la oficiala libro pri Tokipono.)* `©`
-___
 
+___
 * a *(ha)*
 * mu *(miaŭ)*
 
@@ -117,8 +117,12 @@ lipu ni la [nimi suli sinpin](#nimi-suli-sinpin) li ken jo e sitelen **+**.
 
 * nasin **pi** toki-pona *(tokiponismo)*
 * toki **li** pona. *(Komunikado estas bona.)* `©`
-___
 
+| anu      | e        | en       | la       | li       | o        | pi       |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| *aŭ*     | *-n*     | *kaj*    | *-e*     | *-as*    | *-u*     | *-a, -e* |
+
+___
 * [anu](#nimi-anu) *(aŭ)*
 * [e](#nimi-e) *(-n)*
 * [en](#nimi-en) *(kaj)*
@@ -194,8 +198,8 @@ kulupu pi [nimi suli](#nimi-suli) lon monsi pi nimi "e ni" li jo e nimi sama lon
 *(Kiam subfrazo havas la saman subjekton, la du verboj povas fariĝi unu. Tiel, la unua verbo fariĝas helpa verbo de la dua verbo.)*
 
 * ona li **wile** e ni: ona li **kama** e ni: ona li **sona** e toki-pona. → ona li **wile+kama+sona** e toki-pona. *(Ŝi volas lerni Tokiponon.)*
-___
 
+___
 * awen ~~e ni~~ *(plu- ← resta)*
 * kama ~~e ni~~ *(ek- ← iĝa)*
 * ken ~~e ni~~ *(povas ← kapabla)* `Ü`
@@ -409,6 +413,7 @@ ___
 
 * lipu-mi *(mia libro)*
 * lipu tan mi *(libro de mi)*
+
 ___
 * mi *(mi, ni)*
 * ona *(ŝi, li, ĝi, ili)*
@@ -523,6 +528,8 @@ ___
 
 ##### nimi lawa weka "ilo"
 
+... *(...)*
+
 ___
 * ~~ilo~~ kute *(orelo ← aŭdilo, aŭskultilo)*
 * ~~ilo~~ lawa *(kapo ← gvidilo)* [[~~ijo~~ lawa]](#nimi-lawa-weka-ijo)
@@ -535,6 +542,8 @@ ___
 
 ##### nimi lawa weka "sijelo"
 
+... *(...)*
+
 ___
 * ~~sijelo~~ akesi *(reptilo, amfibio ← malvarmsanga/malica vivaĵo)* `Ü`
 * ~~sijelo~~ jan *(ulo, persono, homo ← anima vivaĵo)* `Ü`
@@ -545,6 +554,8 @@ ___
 * ~~sijelo~~ waso *(birdo ← fluga vivaĵo)* `Ü`
 
 ###### nimi lawa weka "jan"
+
+... *(...)*
 
 ___
 * ~~jan~~ mama *(gepatro ← kreanto, naskanto, kreskiganto)*
@@ -588,8 +599,8 @@ nimi "seme" li sama [nimi ijo](#nimi-ijo). taso pu la ona li [nimi ilo](#nimi-il
 *("seme" estas kiel radika vorto. Sed laŭ la oficiala libro pri Tokipono, ĝi estas partikulo.)*
 
 * nasin-seme *(kiu maniero)*
-___
 
+___
 * ni *(tiu)*
 * seme *(kiu)*
 
