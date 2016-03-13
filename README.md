@@ -533,7 +533,7 @@ ___
 ___
 * ~~ilo~~ kute *(orelo ← aŭdilo, aŭskultilo)*
 * ~~ilo~~ lawa *(kapo ← gvidilo)* [[~~ijo~~ lawa]](#nimi-lawa-weka-ijo)
-* ~~ilo~~ luka *(mano, brako ← atingilo, manipulilo)*
+* ~~ilo~~ luka *(mano, brako ← atingilo, manipulilo, tuŝilo)*
 * ~~ilo~~ lukin *(okulo ← vidilo, rigardilo)*
 * ~~ilo~~ noka *(gambo, piedo ← starilo)* `Ü`
 * ~~ilo~~ palisa *(fingro, bastono ← indikilo)* `Ü`
