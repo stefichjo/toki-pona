@@ -780,17 +780,17 @@ nimi "pana e" li ken ala weka.
 nimi "ni" lon sinpin pi kulupu pi [nimi suli](#nimi-suli) li ken weka ala.
 *("ni" antaŭ subfrazo ne povas manki.)*
 
-* mi sona e jan pi **ni:** ona li moku e soweli. *(Mi konas la personon, kiu manĝas viandon.)*
+* mi sona e jan ni. → mi sona e jan pi **ni:** ona li moku e soweli. *(Mi konas tiun personon. → Mi konas la personon, kiu manĝas viandon.)*
  * mi sona e jan ~~pi ona li moku~~ e soweli. *(Mi konas la personon, kiu manĝas viandon.)*
  * mi sona e jan ~~pi li moku~~ e soweli. *(Mi konas la personon, kiu manĝas viandon.)*
  * mi sona e jan ~~pi moku~~ e soweli. *(Mi konas la personon manĝantan viandon.)*
 
-* jan pi **ni,** ona li moku e soweli, li moli. *(La persono, kiu manĝas viandon, mortis.)*
+* jan ni li moli. → jan pi **ni,** ona li moku e soweli, li moli. *(Tiu persono mortis. → La persono, kiu manĝas viandon, mortis.)*
  * jan ~~pi ona li moku~~ e soweli li moli. *(La persono, kiu manĝas viandon, mortis.)*
  * jan ~~pi li moku~~ e soweli li moli. *(La persono, kiu manĝas viandon, mortis.)*
  * jan ~~pi moku~~ e soweli li moli. *(La persono manĝanta viandon mortis.)*
 
-* mi jo e tomo pi **ni:** ona li lon ma. *(Mi havas domon, kiu estas en la kamparo.)*
+* mi jo e tomo ni. → mi jo e tomo pi **ni:** ona li lon ma. *(Mi havas tiun domon. → Mi havas domon, kiu estas en la kamparo.)*
  * mi jo e tomo ~~pi ona li lon~~ ma. *(Mi havas domon, kiu estas en la kamparo.)*
  * mi jo e tomo ~~pi li lon~~ ma. *(Mi havas domon, kiu estas en la kamparo.)*
  * mi jo e tomo ~~pi lon~~ ma. *(Mi havas domon estantan en la kamparo.)*
