@@ -764,12 +764,12 @@ jan li toki ike li wile ante e toki pona, la ni li **toki apeja**.
 *(Se iu parolas evitinde por ŝanĝi Tokiponon, tio estas skisma lingvaĵo.)*
 
 ### toki kipisi
-*(Obskura Lingvaĵo)*
+*(Kripla Lingvaĵo)*
 
 nimi "jo e" anu nimi "lon" li ken ala weka.
 *("jo e" aŭ "lon" ne povas manki.)*
 
-* ona li ~~**pona-sijelo**~~. → ona li **jo e pona-sijelo**./ona li **pona lon sijelo**. *(~~Ŝi kore sanas.~~ → Ŝi havas korpan sanon./Ŝi estas sana en la korpo.)*
+* ona li ~~**pona-sijelo**~~. → ona li **jo e pona-sijelo**./ona li **pona lon sijelo**. *(~~Ŝi korpe sanas.~~ → Ŝi havas korpan sanon./Ŝi estas sana en la korpo.)*
 
 nimi "pana e" li ken ala weka.
 *("pana e" ne povas manki.)*
@@ -777,11 +777,23 @@ nimi "pana e" li ken ala weka.
 * ona li ~~**len e**~~ mi. → ona li **pana e len tawa** mi. *(Ŝi vestis min.)*
 * ona li ~~**nimi "jan-pona" e**~~ mi. → ona li **pana e nimi "jan-pona" tawa** mi. *(Ŝi nomis min "amiko".)*
 
-nimi "ni" lon sinpin pi kulupu insa pi [nimi suli](#nimi-suli) li ken ala weka. taso o sona e ni: jan Sonja li kepeken kulupu insa pi [nimi suli](#nimi-suli) ala.
-*("ni" antaŭ subfrazo ne povas manki. Sed sciu, ke Sonja ne uzas subfrazojn.)*
+nimi "ni" lon sinpin pi kulupu pi [nimi suli](#nimi-suli) li ken weka ala.
+*("ni" antaŭ subfrazo ne povas manki.)*
 
-* ona li meli pi ni: (ona li) moku ala e soweli. → ~~ona li meli pi (ona li) moku ala e soweli~~. → ona li meli li moku ala e soweli. *(Ŝi estas virino, kiu ne manĝas viandon. → Ŝi estas virino kaj ne manĝas viandon.)* `Ü`
-* mi jo e tomo pi ni: (ona li) lon ma. → ~~mi jo e tomo pi (ona li) lon ma~~. → mi jo e tomo lon ma. *(Mi havas domon, kiu estas en la kamparo. → Mi havas domon en la kamparo.)*
+* mi sona e jan pi **ni:** ona li moku e soweli. *(Mi konas la personon, kiu manĝas viandon.)*
+ * mi sona e jan ~~pi ona li moku~~ e soweli. *(Mi konas la personon, kiu manĝas viandon.)*
+ * mi sona e jan ~~pi li moku~~ e soweli. *(Mi konas la personon, kiu manĝas viandon.)*
+ * mi sona e jan ~~pi moku~~ e soweli. *(Mi konas la personon manĝantan viandon.)*
+
+* jan pi **ni,** ona li moku e soweli, li moli. *(La persono, kiu manĝas viandon, mortis.)*
+ * jan ~~pi ona li moku~~ e soweli li moli. *(La persono, kiu manĝas viandon, mortis.)*
+ * jan ~~pi li moku~~ e soweli li moli. *(La persono, kiu manĝas viandon, mortis.)*
+ * jan ~~pi moku~~ e soweli li moli. *(La persono manĝanta viandon mortis.)*
+
+* mi jo e tomo pi **ni:** ona li lon ma. *(Mi havas domon, kiu estas en la kamparo.)*
+ * mi jo e tomo ~~pi ona li lon~~ ma. *(Mi havas domon, kiu estas en la kamparo.)*
+ * mi jo e tomo ~~pi li lon~~ ma. *(Mi havas domon, kiu estas en la kamparo.)*
+ * mi jo e tomo ~~pi lon~~ ma. *(Mi havas domon estantan en la kamparo.)*
 
 ### toki monsuta
 *(Monstra Lingvaĵo)*
