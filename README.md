@@ -70,7 +70,7 @@ lipu ni la [nimi monsi](#nimi-monsi) li ken jo e sitelen "pi". kepeken nasin ni 
 *(En ĉi tiu libro, modifilo povas havi ligostrekon por distingi sin.)*
 
 * mi pana e kala tawa ona lon tomo. *(Mi donas al ŝi la fiŝon en la domo.)*
-* mi pana e kala***-tawa-ona*** lon tomo. *(Mi donas ŝian moviĝantan fiŝon en la domo.)* `Ü`
+* mi alasa e kala***-tawa-ona*** lon tomo. *(Mi ĉasas ŝian moviĝantan fiŝon en la domo.)* `Ü`
 
 lipu ni la [nimi suli sinpin](#nimi-suli-sinpin) li ken jo e sitelen "en". kepeken nasin ni la ona li pona lukin e ante pi ona sama.
 
