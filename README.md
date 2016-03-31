@@ -44,6 +44,7 @@ monsi la nimi kalama "a" li wawa e kulupu pi [nimi suli](#nimi-suli).
 ___
 * a *(ha)*
 * mu *(miaŭ)*
+
 ___
 
 kulupu pi [nimi suli](#nimi-suli) pi nanpa tu li jo e kon sama ijo pi nimi "ni" tan kulupu pi [nimi suli](#nimi-suli) pi nanpa wan, la sitelen kulupu li kama sitelen palisa.
@@ -60,7 +61,7 @@ kulupu pi nimi "la" la sitelen palisa li kama sitelen kulupu.
 nimi pi jan ante li lon insa pi sitelen nimi.
 *(Vortoj de iu alia estas inter citiloj.)*
 
-* sina toki e nimi **"**mi olin e sina**"**. *(Vi diras "mi amas vin".)*
+* jan Isa ... li toki e ni: "mama mi o! ..." *(Jesuo ... diris: "Patro mia ...!")*
 
 ### sitelen -
 *(Ligostreko)*
