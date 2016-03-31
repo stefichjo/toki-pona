@@ -1,101 +1,72 @@
 # nasin toki pi toki pona
 *(Gramatiko de Tokipono)*
 
-wan sama tan pu li jo e sitelen pona `©`.
-*(Ekzemploj laŭ la oficiala libro pri Tokipono havas la hieroglifon `©`.)*
+pu la jan ken kama sona e nasin toki pi toki pona. taso tenpo mute la pu taso la jan ken ala kama sona e ale pi toki pona. lipu ni li lukin pana e sona sin ale. ijo pi kama tan sona sin ni li jo e sitelen  `Ü`.
+*(Interagante kun la oficiala libro de Tokipono oni povas lerni la gramatikon de Tokipono. Sed ofte simple "pu"-ante oni ne povas lerni ĉion pri Tokipono. Ĉi tiu dokumento provas instrui la reston. Derivaĵoj de tiuj aldonaj priskriboj havas la signon `Ü`.)*
 
-* ale li pona. *(Ĉio estas bona.)* `©`
-
-tenpo mute la mi musi kepeken nasin lawa. ona li utala ala e toki pona. taso ona li jo ala e wan sama. tenpo ni la mi taso mama e wan sama. ona li jo e sitelen pona `Ü`.
-*(Ofte mi ludas per reguloj. Ili ne kontraŭas Tokiponon, sed ili ne havas ekzemplojn. Tiam, mi mem verkas ekzemplojn. Ili havas la hieroglifon `Ü`.)*
-
-* mi mama e wan-sama. *(Mi verkas ekzemplon.)* `Ü`
+* o ***luka*** ala e mi! *(Ne tuŝu min!)* `Ü`
 
 ## sitelen lon insa nimi
 *(Interpunkcio)*
 
-### sitelen .
-*(Punkto)*
-
-sitelen **.** li lon monsi pi kulupu pi [nimi suli](#nimi-suli).
+sitelen insa li lon monsi pi kulupu pi [nimi suli](#nimi-suli).
 *(Punkto sekvas frazon.)*
 
-* toki li pona**.** *(Komunikado estas bona.)*
+* telo li pona***.*** *(Akvo estas bona.)*
 
-#### sitelen ?
-*(Demandosigno)*
-
-kulupu pi [nimi suli](#nimi-suli) li jo e nimi "seme", la sitelen **?** li lon monsi.
+kulupu pi [nimi suli](#nimi-suli) li jo e nimi "seme", la sitelen "seme" li lon monsi.
 *(Se la frazo enhavas la vorton "seme", sekvas demandosigno.)*
 
-* ***seme*** li pona**?** *(Kio estas bona?)*
+* ***seme*** li sin***?*** *(Kio estas nova?)*
 
-#### sitelen !
-*(Krisigno)*
-
-kulupu pi [nimi suli](#nimi-suli) li jo e nimi "a" anu "o", la sitelen **!** li lon monsi.
+kulupu pi [nimi suli](#nimi-suli) li jo e nimi "a" anu "o", la sitelen "a anu o" li lon monsi.
 *(Se la frazo enhavas la vorton "a" aŭ "o", sekvas krisigno.)*
 
-* sina pona lukin ***a!*** *(Vi ja belas!)*
-* ***o*** toki***!*** *(Rakontu!)*
+* sina suli  ***a!*** *(Vi ja estas alta!)*
+* ***o*** pali***!*** *(Agu!)*
 
-### sitelen ,
-*(Komo)*
+kulupu pi [nimi suli](#nimi-suli) tu li kama wan, la sitelen kulupu li lon insa pi ona tu.
+*(Se du frazoj fariĝas unu, komo estas inter ili.)*
 
-kulupu pi [nimi suli](#nimi-suli) tu li kama wan, la sitelen **.** insa li kama sitelen **,**.
-*(Se du frazoj fariĝas unu, punkto fariĝas komo.)*
+* ona li mama ala, li jo ala e mama. *(Ŝi ne estas gepatro kaj ne havas gepatron.)*
 
-* nasin mama li nasin**,** jan Nejo o! *(La Matrico estas sistemo, Neo.)*
+nimi "a" en nimi "mu" li nimi kalama. ona li sama kulupu sin pi [nimi suli](#nimi-suli). taso pu la ona li [nimi ilo](#nimi-ilo). tan ni la sitelen kulupu li lon ala lon insa ona.
+*("a" kaj "mu" estas sonimitoj. Ili estas kiel propraj frazoj. Sed laŭ la oficiala libro de Tokipono, ili estas partikuloj. Tial, ne estas komo inter ili.)*
 
-nimi "a" en nimi "mu" li nimi kalama. ona li sama kulupu sin pi [nimi suli](#nimi-suli). taso pu la ona li [nimi ilo](#nimi-ilo). tan ni la sitelen **,** li lon ala lon insa ona.
-*("a" kaj "mu" estas sonimitoj. Ili estas kiel propraj frazoj. Sed laŭ la oficiala libro pri Tokipono, ili estas partikuloj. Tial, ne estas komo inter ili.)*
+* ***a a a***! *(Ha ha ha!)*
+* ***mu***! *(Miaŭ!)*
 
-* **a a a**! *(Ha ha ha!)* `©`
-* **mu**! *(Miaŭ!)* `©`
-
-monsi la **nimi kalama** "a" li wawa e kulupu pi [nimi suli](#nimi-suli).
+monsi la nimi kalama "a" li wawa e kulupu pi [nimi suli](#nimi-suli).
 *(Malantaŭe, la sonimito "a" emfazas frazon.)*
 
-* sina pona-lukin **a**! *(Vi estas ja bela!)*
-* sina pu **a**! *(Vi estas ja interaganta kun la oficiala libro pri Tokipono.)* `©`
+* sina pu **a**! *(Vi estas ja interaganta kun la oficiala libro de Tokipono.)*
 
 ___
 * a *(ha)*
 * mu *(miaŭ)*
+___
 
-#### sitelen :
-*(Dupunkto)*
-
-kulupu pi [nimi suli](#nimi-suli) pi nanpa wan li jo e kon sama ijo pi nimi "ni" tan kulupu pi [nimi suli](#nimi-suli) pi nanpa wan, la sitelen **,** li kama sitelen **:**.
+kulupu pi [nimi suli](#nimi-suli) pi nanpa tu li jo e kon sama ijo pi nimi "ni" tan kulupu pi [nimi suli](#nimi-suli) pi nanpa wan, la sitelen kulupu li kama sitelen palisa.
 *(Se la dua frazo havas la saman signifon kiel iu "ni" el la unua frazo, komo fariĝas dupunkto.)*
 
-* sina toki e **ni:** sina olin e mi. *(Vi diras, ke vi amas min.)*
+* mi sona e ***ni:*** mi anpa. *(Mi scias, ke mi estas malsupera.)*
 
-kulupu pi nimi "la" la sitelen **:** li kama **,**.
+kulupu pi nimi "la" la sitelen palisa li kama sitelen kulupu.
 *(En la-frazo, dupunkto fariĝas komo.)*
 
-* mi pilin pona tan **ni:** sina kama sona e toki pona. *(Mi ĝojas, ĉar vi lernas Tokiponon.)*
-* tan **ni,** sina kama sona e toki pona**,** la mi pilin pona. *(Ĉar vi lernas Tokiponon, mi ĝojas.)* `Ü`
+* mi pilin pona tan ***ni:*** sina kama sona e toki pona. *(Mi ĝojas, ĉar vi lernas Tokiponon.)* `Ü`
+* tan ***ni,*** sina kama sona e toki pona***, la*** mi pilin pona. *(Ĉar vi lernas Tokiponon, mi ĝojas.)* `Ü`
 
-#### sitelen "
-*(Citiloj)*
-
-monsi pi nimi "nimi" la kalama nimi li lon insa pi sitelen **"**.
-*(Malantaŭ "nimi", la sono de vorto(j) estas inter citiloj.)*
+nimi pi jan ante li lon insa pi sitelen nimi.
+*(Vortoj de iu alia estas inter citiloj.)*
 
 * sina toki e nimi **"**mi olin e sina**"**. *(Vi diras "mi amas vin".)*
-
-kalama nimi li nimi sin, la nimi "pi nimi" en sitelen **"** li ken weka.
-*(Se la sono de vorto(j) estas propra vorto, "pi nimi" kaj la citiloj povas manki.)*
-
-* mi jan ***pi nimi "***Tepan***"*** → mi jan Tepan. *(Mi estas Stefo.)*
-* mi sona e toki ***pi nimi "***Epelanto***"*** → mi sona e toki Epelanto. *(Mi konas Esperanton.)*
 
 ### sitelen -
 *(Ligostreko)*
 
 pu la [nimi lawa](#nimi-lawa) (anu [nimi suli](#nimi-suli)) en [nimi monsi](#nimi-monsi) li kama sitelen pona wan. lipu ni la [nimi monsi](#nimi-monsi) li ken jo e sitelen **-**.
-*(Laŭ la oficiala libro pri Tokipono, substantivo (aŭ verbo) kaj modifilo unuiĝas al unu hieroglifo. En tiu ĉi dokumento, modifilo povas havi ligostrekon.)*
+*(Laŭ la oficiala libro de Tokipono, substantivo (aŭ verbo) kaj modifilo unuiĝas al unu hieroglifo. En tiu ĉi dokumento, modifilo povas havi ligostrekon.)*
 
 * mi pana e tomo-tawa-sina. *(Mi donas vian aŭton.)*
 * mi pana e tomo tawa sina. *(Mi donas la domon al vi.)*
@@ -495,17 +466,17 @@ ___
 ##### nimi lawa weka "mute"
 
 pu la nimi "ale" li ken jo e kon pi nimi "mute mute".
-*(Laŭ la oficiala libro pri Tokipono, "ale" povas signifi "tre multe".)*
+*(Laŭ la oficiala libro de Tokipono, "ale" povas signifi "tre multe".)*
 
 * nimi-ale *(cent vortoj ← ĉiuj vortoj)*
 
 pu la nimi "nanpa" ken [nimi ilo](#nimi-ilo). nasin ni la nimi "pi" lon insa pi nimi "nanpa" en nimi "mute" li weka.
-*(Laŭ la oficiala libro pri Tokipono, "nanpa" povas esti partikulo. Tiel, "pi" inter "nanpa" kaj "mute" mankas.)*
+*(Laŭ la oficiala libro de Tokipono, "nanpa" povas esti partikulo. Tiel, "pi" inter "nanpa" kaj "mute" mankas.)*
 
 * toki pi nanpa pi **mute pi ijo** wan → toki nanpa wan *(unua lingvo)* `©`
 
 pu la [nimi pi ijo mute](#nimi-lawa-weka-mute) li ken [nimi ilo](#nimi-ilo) lon poka pi [nimi ante pi ijo mute](#nimi-lawa-weka-mute). tan ni la [nimi ilo "en"](#nimi-en) lon insa pi [nimi tu pi ijo mute](#nimi-lawa-weka-mute) li lon ala. nasin ni la [nimi tu pi ijo mute](#nimi-lawa-weka-mute) li sama [nimi wan sin pi ijo mute](#nimi-lawa-weka-mute). tan ni la [nimi "pi"](#nimi-pi) lon monsi ona li lon ala.
-*(Laŭ la oficiala libro pri Tokipono, numeralo povas esti partikulo kun alia numeralo. Tial, ne estas la partikulo "en" inter du numeraloj. Tiel, du numeraloj estas kiel unu nova numeralo. Tial, ne estas "pi" antaŭ ili.)*
+*(Laŭ la oficiala libro de Tokipono, numeralo povas esti partikulo kun alia numeralo. Tial, ne estas la partikulo "en" inter du numeraloj. Tiel, du numeraloj estas kiel unu nova numeralo. Tial, ne estas "pi" antaŭ ili.)*
 
 * kili **pi** tu **en** wan → kili tu wan *(tri fruktoj)*
 
@@ -596,7 +567,7 @@ ___
 | ~~pi mute~~-ala *(neniom (da))*  | ~~pi mute~~-ale *(ĉiom (da))*    | pi mute-ni *(tiom (da))*         | pi mute-seme *(kiom (da))*       |
 
 nimi "seme" li sama [nimi ijo](#nimi-ijo). taso pu la ona li [nimi ilo](#nimi-ilo).
-*("seme" estas kiel radika vorto. Sed laŭ la oficiala libro pri Tokipono, ĝi estas partikulo.)*
+*("seme" estas kiel radika vorto. Sed laŭ la oficiala libro de Tokipono, ĝi estas partikulo.)*
 
 * nasin-seme *(kiu maniero)*
 
@@ -678,7 +649,7 @@ ken la toki-tan la [nimi "pi"](#nimi-pi) en [nimi monsi](#nimi-monsi) li lon-ala
 *(Kroma Lingvaĵo)*
 
 pu la nimi "ala" li ken lon insa pi [nimi suli](#nimi-suli) sama tu. ni li nasin-ante pi nimi "anu seme".
-*(Laŭ la oficiala libro pri Tokipono, "ala" povas esti inter du samaj verboj. Tio estas alternativo de "anu seme".)*
+*(Laŭ la oficiala libro de Tokipono, "ala" povas esti inter du samaj verboj. Tio estas alternativo de "anu seme".)*
 
 * ona li tawa ma-tomo Lantan **anu seme**? → ona li **tawa ala tawa** ma-tomo Lantan? *(Ĉu ŝi iras al Londono?)*
 
@@ -686,7 +657,7 @@ pu la nimi "ala" li ken lon insa pi [nimi suli](#nimi-suli) sama tu. ni li nasin
 *(Kromaj Sonoj)*
 
 pu la kalama nimi li ken kama ante lili.
-*(Laŭ la oficiala libro pri Tokipono, la prononco povas varii iomete.)*
+*(Laŭ la oficiala libro de Tokipono, la prononco povas varii iomete.)*
 
 * tenpo-pini → ~~tempo-bhini~~ `[tempo vini]` *(historio)*
 * toki-Sonko → ~~toki-Zongko~~ `[toki zoŋko]` *(la Ĉina)*
@@ -720,15 +691,15 @@ kalama "p" en kalama "s" en kalama "k" li ken kama `[f]`/`[v]` anu `[ʃ]`/`[ʒ]`
 *(Kromaj Vortoj)*
 
 pu la nimi "alasa" en nimi "esun" en nimi "pan" en nimi "pu" li lon li jo e sitelen pona.
-*(Laŭ la oficiala libro pri Tokipono, "alasa", "esun", "pan" kaj "pu" ekzistas kaj havas hieroglifon.)*
+*(Laŭ la oficiala libro de Tokipono, "alasa", "esun", "pan" kaj "pu" ekzistas kaj havas hieroglifon.)*
 
 * **alasa** *(ĉasanta)*
 * **esun** *(merkato)*
 * **pan** *(pano)*
-* **pu** *(interaganta kun la oficiala libro pri Tokipono)*
+* **pu** *(interaganta kun la oficiala libro de Tokipono)*
 
 pu la nimi "ali" en nimi "namako" en nimi "kin" en nimi "oko" li nasin ante pi nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin".
-*(Laŭ la oficiala libro pri Tokipono, "ali", "kin" kaj "oko" estas sinonimoj de "ale", "a" kaj "lukin".)*
+*(Laŭ la oficiala libro de Tokipono, "ali", "kin" kaj "oko" estas sinonimoj de "ale", "a" kaj "lukin".)*
 
 * **ale** li pona. → **ali** li pona. *(Ĉio estas bona.)*
 * kule-**sin** → kule-**namako** *(aldona koloro → ŝminko)*
@@ -736,7 +707,7 @@ pu la nimi "ali" en nimi "namako" en nimi "kin" en nimi "oko" li nasin ante pi n
 * ijo li lon **lukin**-mi. → ijo li lon **oko**-mi. *(Io estas en mia okulo.)*
 
 pu la nimi namako ante li lon ala.
-*(Laŭ la oficiala libro pri Tokipono, aliaj neologismoj ne ekzistas.)*
+*(Laŭ la oficiala libro de Tokipono, aliaj neologismoj ne ekzistas.)*
 
 * **anpa-lukin** → ~~**apeja**~~ *(malalta por vidi → maldigna, fia)*
 * **jan-akesi** → ~~**monsuta**~~ *(maliculo → monstro)*
@@ -755,7 +726,7 @@ pu la nimi namako ante li lon ala.
 *(Evitindaj Lingvaĵoj)*
 
 jan li toki pakala lon toki pona li pu ala la ni li **toki ike**.
-*(Se iu misparolas en Tokipono sen interagi kun la oficiala libro pri Tokipono, tio estas evitinda lingvaĵo.)*
+*(Se iu misparolas en Tokipono sen interagi kun la oficiala libro de Tokipono, tio estas evitinda lingvaĵo.)*
 
 ### toki apeja
 *(Skisma Lingvaĵo)*
