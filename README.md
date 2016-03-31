@@ -30,6 +30,22 @@ kulupu pi [nimi suli](#nimi-suli) tu li kama wan, la sitelen kulupu li lon insa 
 
 * ona li mama ala, li jo ala e mama. *(Ŝi ne estas gepatro kaj ne havas gepatron.)*
 
+kulupu pi [nimi suli](#nimi-suli) pi nanpa tu li jo e kon sama ijo pi nimi "ni" tan kulupu pi [nimi suli](#nimi-suli) pi nanpa wan, la sitelen kulupu li kama sitelen palisa.
+*(Se la dua frazo havas la saman signifon kiel iu "ni" el la unua frazo, komo fariĝas dupunkto.)*
+
+* mi sona e ***ni:*** mi anpa. *(Mi scias, ke mi estas malsupera.)*
+
+kulupu pi nimi "la" la sitelen palisa li kama sitelen kulupu.
+*(En "la"-frazo, dupunkto fariĝas komo.)*
+
+* mi pilin pona tan ***ni:*** sina kama sona e toki pona. *(Mi ĝojas, ĉar vi lernas Tokiponon.)* `Ü`
+* tan ***ni,*** sina kama sona e toki pona***, la*** mi pilin pona. *(Ĉar vi lernas Tokiponon, mi ĝojas.)* `Ü`
+
+nimi pi jan ante li lon insa pi sitelen nimi.
+*(Vortoj de iu alia estas inter citiloj.)*
+
+* jan Isa ... li toki e ni: "mama mi o! ..." *(Jesuo ... diris: "Patro mia ...!")*
+
 nimi "a" en nimi "mu" li nimi kalama. ona li sama kulupu sin pi [nimi suli](#nimi-suli). taso pu la ona li [nimi ilo](#nimi-ilo). tan ni la sitelen kulupu li lon ala lon insa ona.
 *("a" kaj "mu" estas sonimitoj. Ili estas kiel propraj frazoj. Sed laŭ la oficiala libro de Tokipono, ili estas partikuloj. Tial, ne estas komo inter ili.)*
 
@@ -47,39 +63,18 @@ ___
 
 ___
 
-kulupu pi [nimi suli](#nimi-suli) pi nanpa tu li jo e kon sama ijo pi nimi "ni" tan kulupu pi [nimi suli](#nimi-suli) pi nanpa wan, la sitelen kulupu li kama sitelen palisa.
-*(Se la dua frazo havas la saman signifon kiel iu "ni" el la unua frazo, komo fariĝas dupunkto.)*
+### sitelen sin lon insa nimi
+*(Aldona Interpunkcio)*
 
-* mi sona e ***ni:*** mi anpa. *(Mi scias, ke mi estas malsupera.)*
+lipu ni la [nimi monsi](#nimi-monsi) li ken jo e sitelen "pi". kepeken nasin ni la ona li pona lukin e ante pi ona sama.
+*(En ĉi tiu libro, modifilo povas havi ligostrekon por distingi sin.)*
 
-kulupu pi nimi "la" la sitelen palisa li kama sitelen kulupu.
-*(En la-frazo, dupunkto fariĝas komo.)*
+* mi pana e kala tawa ona lon tomo. *(Mi donas al ŝi la fiŝon en la domo.)*
+* mi pana e kala***-tawa-ona*** lon tomo. *(Mi donas ŝian moviĝantan fiŝon en la domo.)* `Ü`
 
-* mi pilin pona tan ***ni:*** sina kama sona e toki pona. *(Mi ĝojas, ĉar vi lernas Tokiponon.)* `Ü`
-* tan ***ni,*** sina kama sona e toki pona***, la*** mi pilin pona. *(Ĉar vi lernas Tokiponon, mi ĝojas.)* `Ü`
+lipu ni la [nimi suli sinpin](#nimi-suli-sinpin) li ken jo e sitelen "en". kepeken nasin ni la ona li pona lukin e ante pi ona sama.
 
-nimi pi jan ante li lon insa pi sitelen nimi.
-*(Vortoj de iu alia estas inter citiloj.)*
-
-* jan Isa ... li toki e ni: "mama mi o! ..." *(Jesuo ... diris: "Patro mia ...!")*
-
-### sitelen -
-*(Ligostreko)*
-
-pu la [nimi lawa](#nimi-lawa) (anu [nimi suli](#nimi-suli)) en [nimi monsi](#nimi-monsi) li kama sitelen pona wan. lipu ni la [nimi monsi](#nimi-monsi) li ken jo e sitelen **-**.
-*(Laŭ la oficiala libro de Tokipono, substantivo (aŭ verbo) kaj modifilo unuiĝas al unu hieroglifo. En tiu ĉi dokumento, modifilo povas havi ligostrekon.)*
-
-* mi pana e tomo-tawa-sina. *(Mi donas vian aŭton.)*
-* mi pana e tomo tawa sina. *(Mi donas la domon al vi.)*
-
-### sitelen +
-*(Plus-Signo)*
-
-lipu ni la [nimi suli sinpin](#nimi-suli-sinpin) li ken jo e sitelen **+**.
-*(En tiu ĉi dokumento, helpa verbo povas havi plus-signon.)*
-
-* mi lukin+tawa sina. *(Mi provas iri al vi.)*
-* mi lukin tawa sina. *(Mi serĉas vin.)*
+* mije wawa li lukin+jo e meli pona. *(La forta viro serĉas bonan virinon.)*
 
 ## nimi ilo
 *(Partikuloj)*
