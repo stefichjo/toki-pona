@@ -70,32 +70,22 @@ nimi pi "ni" lon sinpin pi kulupu pi [nimi suli](#nimi-suli) li ken weka.
 [nimi monsi](#nimi-monsi) li ken lon monsi pi kulupu pi [nimi monsi](#nimi-monsi) anu kulupu pi [nimi monsi palisa](#nimi-monsi-palisa).
 *(Modifilo povas esti malantaŭ modifa frazero aŭ prepozicia frazero.)*
 
-* tomo ***pona*** pi telo nasa → tomo pi telo nasa, ***pona*** *(bona trinkejo)*
-* jan ***pona*** lon tomo sona → jan lon tomo sona, ***pona*** *(amiko en lernejo)*
-
-*(Prepozicia frazero povas esti antaŭ modifa frazero aŭ rekta objekto.)*
+* tomo ***pona*** pi telo nasa → tomo pi telo nasa - ***pona*** *(bona trinkejo)*
+* jan ***pona*** lon tomo sona → jan lon tomo sona - ***pona*** *(amiko en lernejo)*
 
 kulupu pi [nimi monsi](#nimi-monsi) en kulupu pi [nimi "e"](#nimi-e) li ken monsi pi kulupu pi [nimi monsi palisa](#nimi-monsi-palisa).
 *(Modifaj frazeroj kaj rektaj objektoj povas esti malantaŭ prepozicia frazero.)*
 
-* tomo ***pi telo nasa*** lon ma tomo Lantan → tomo lon ma tomo Lantan ***pi ma telo nasa*** *(trinkejo en Londono)*
-* mi lukin ***e sitelen*** kepeken tenpo lili. → mi lukin kepeken tenpo lili ***e sitelen***. *(Mi legas rapide.)*
+* tomo ***pi telo nasa*** lon ma tomo Lantan → tomo lon ma tomo Lantan - ***pi ma telo nasa*** *(trinkejo en Londono)*
+* mi lukin ***e sitelen*** kepeken tenpo lili. → mi lukin kepeken tenpo lili - ***e sitelen***. *(Mi legas rapide.)*
 
-[nimi monsi](#nimi-monsi) li jo ala e [nimi monsi](#nimi-monsi). jan li wile kepeken nimi "pi".
-*(Modifilo ne havas modifilon. Oni devas uzi "pi".)*
+[nimi monsi](#nimi-monsi) en [nimi monsi palisa](#nimi-monsi-palisa) li jo ala e [nimi monsi](#nimi-monsi).
+*(Modifiloj kaj prepozicioj povas havi modifilon.)*
 
-* telo-nasa~~-**mute**~~ → telo pi nasa-mute *(tre strangiga likvo → vodko)*
-
-[nimi monsi palisa](#nimi-monsi-palisa) li jo ala e [nimi monsi](#nimi-monsi). jan li wile kepeken [nimi suli](#nimi-suli) sin.
-*(Prepozicio ne havas modifilon. Oni devas uzi aldonan verbon.)*
-
-* ona li tawa~~-**pona**,~~ tomo. → ona li tawa-**pona** tawa tomo. *(Ŝi sekure iras hejmen.)*
-* ona li tawa~~-**ala**,~~ ma-tomo Lantan. → ona li tawa-**ala** tawa ma-tomo Lantan. *(Ŝi ne iras al Londono.)*
-
-[nimi monsi](#nimi-monsi) "ala" lon poka pi [nimi suli](#nimi-suli) sin pi nasin ni li wile ala.
-*(La modifilo "ala" apud tia aldona verbo ne estas necesa.)*
-
-* ona li tawa-**ala** tawa ma-tomo Lantan. → ona li tawa ma-tomo Lantan **ala**. *(Ŝi ne iras al Londono. ← Ŝi iras al neniu Londono.)*
+* telo pi nasa mute → telo nasa-***mute***  *(tre strangiga likvo → vodko)*
+* ona li tawa ***ala*** tawa ma tomo Lantan. *(Ŝi ne iras al Londono.)*
+ * → ona li tawa ***ala*** - ma tomo Lantan.
+ * → ona li tawa ma tomo Lantan - ***ala***.
 
 ### toki mu
 *(Slanga Lingvaĵo)*
