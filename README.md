@@ -95,12 +95,13 @@ nimi lon monsi pi [nimi lawa weka "ma"](#nimi-lawa-weka-ma) li ken kama [nimi mo
 
 * waso li tawa lon kon ***lon sewi pi*** tomo sona. → waso li tawa lon kon ***sewi*** tomo sona. *(Birdo flugas super la lernejo.)*
 
-nimi kalama li ken ala kama [nimi ijo](#nimi-ijo).
-*(Sonimito ne povas fariĝi radika vorto.)*
+nimi kalama li ken kama [nimi ijo](#nimi-ijo).
+*(Sonimito povas fariĝi radika vorto.)*
 
-* soweli li ~~**mu**~~. → soweli li kalama **"mu"**. *(La kato miaŭas.)*
-* ona ~~**a**~~ li kute e kalama-musi. → ona-**sama** li kute e kalama-musi. *(Ankaŭ ŝi aŭskultas muzikon.)*
-* mi tawa ~~**Lantan**~~. → mi tawa ma-tomo **Lantan**. *(Mi iras al Londono.)*
+* soweli li toki e ni: ***"mu"*** → soweli li ***mu***. *(La kato miaŭas.)*
+* ona ***sama*** li kalama musi. *(Ŝi same aŭskultas muzikon.)*
+ * → ona a li kalama musi. *(Eĉ/Ankaŭ ŝi aŭskultas muzikon.)*
+ * → ona ***sama*** li kalama musi. *(Ŝi mem aŭskultas muzikon.)*
 
 [nimi monsi palisa](#nimi-monsi-palisa) li ken ala kama [nimi suli sinpin](#nimi-suli-sinpin).
 *(Prepozicio ne povas fariĝi helpa verbo.)*
