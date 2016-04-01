@@ -106,9 +106,9 @@ nimi kalama li ken kama [nimi ijo](#nimi-ijo).
 
 * soweli li toki e ni: ***"mu"*** *(La kato miaŭas.)*
  * → soweli li ***mu***.
-* ona ***sama*** li kalama musi. *(Ŝi same aŭskultas muzikon.)*
- * → ona a li kalama musi. *(Eĉ/Ankaŭ ŝi aŭskultas muzikon.)*
- * → ona ***sama*** li kalama musi. *(Ŝi mem aŭskultas muzikon.)*
+* ona ***sama*** li kalama musi. *(Ŝi same muzikas.)*
+ * → ona a li kalama musi. *(Eĉ/Ankaŭ ŝi muzikas.)*
+ * → ona ***sama*** li kalama musi. *(Ŝi mem muzikas.)*
 
 [nimi monsi palisa](#nimi-monsi-palisa) li ken kama [nimi suli sinpin](#nimi-suli-sinpin).
 *(Prepozicio povas fariĝi helpa verbo.)*
