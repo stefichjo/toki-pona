@@ -73,15 +73,13 @@ nimi pi "ni" lon sinpin pi kulupu pi [nimi suli](#nimi-suli) li ken weka.
 * tomo ***pona*** pi telo nasa → tomo pi telo nasa, ***pona*** *(bona trinkejo)*
 * jan ***pona*** lon tomo sona → jan lon tomo sona, ***pona*** *(amiko en lernejo)*
 
-kulupu pi [nimi monsi](#nimi-monsi) li lon sinpin pi kulupu pi [nimi monsi palisa](#nimi-monsi-palisa).
-*(Modifa frazero estas antaŭ prepozicia frazero.)*
+*(Prepozicia frazero povas esti antaŭ modifa frazero aŭ rekta objekto.)*
 
-* tomo lon ma-tomo Lantan ~~**pi telo-nasa**~~. → tomo **pi telo-nasa** lon ma-tomo Lantan *(trinkejo en Londono)*
+kulupu pi [nimi monsi](#nimi-monsi) en kulupu pi [nimi "e"](#nimi-e) li ken monsi pi kulupu pi [nimi monsi palisa](#nimi-monsi-palisa).
+*(Modifaj frazeroj kaj rektaj objektoj povas esti malantaŭ prepozicia frazero.)*
 
-kulupu pi [nimi "e"](#nimi-e) li lon sinpin pi kulupu pi [nimi monsi palisa](#nimi-monsi-palisa).
-*(La rekta objekto estas antaŭ prepozicia frazero.)*
-
-* mi lukin ~~kepeken tenpo-lili~~ **e** sitelen. → mi lukin **e** sitelen kepeken tenpo-lili. *(Mi legas rapide.)*
+* tomo ***pi telo nasa*** lon ma tomo Lantan → tomo lon ma tomo Lantan ***pi ma telo nasa*** *(trinkejo en Londono)*
+* mi lukin ***e sitelen*** kepeken tenpo lili. → mi lukin kepeken tenpo lili ***e sitelen***. *(Mi legas rapide.)*
 
 [nimi monsi](#nimi-monsi) li jo ala e [nimi monsi](#nimi-monsi). jan li wile kepeken nimi "pi".
 *(Modifilo ne havas modifilon. Oni devas uzi "pi".)*
