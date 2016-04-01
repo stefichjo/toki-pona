@@ -79,7 +79,7 @@ kulupu pi [nimi monsi](#nimi-monsi) en kulupu pi [nimi "e"](#nimi-e) li ken mons
 *(Modifaj frazeroj kaj rektaj objektoj povas esti malantaŭ prepozicia frazero.)*
 
 * tomo ***pi telo nasa*** lon ma tomo Lantan *(trinkejo en Londono)*
- * → tomo lon ma tomo Lantan - ***pi ma telo nasa***
+ * → tomo lon ma tomo Lantan - ***pi telo nasa***
 * mi lukin ***e sitelen*** kepeken tenpo lili. *(Mi legas rapide.)*
  * → mi lukin kepeken tenpo lili - ***e sitelen***.
 
