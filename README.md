@@ -30,51 +30,6 @@ taso tenpo mute la pu taso la jan ken ala kama sona e ale pi toki pona. lipu ni 
 * sijelo meli li ***kama pona***. *(La sano de la virino boniĝis.)*
 * sina ***~~kama~~ pona*** e ona. *(Vi ~~boniĝigis~~ ĝin.)* → sina ***pona*** e ona. *(Vi bonigis ĝin.)* `Ü`
 
-## toki tan
-*(Pralingvaĵo)*
-
-**toki tan** la [nimi suli sinpin](#nimi-suli-sinpin) li lon ala.
-*(En pralingvaĵo, ne ekzistas helpaj verboj.)*
-
-* mi **lukin**.tawa sina. → mi **lukin** tawa ni: mi tawa sina. *(Mi provas iri al vi.)* `Ü`
-
-**toki tan** la nimi pi sitelen pona tan sitelen pona tu li lon ala.
-*(En pralingvaĵo, ne ekzistas kompleksaj hieroglifoj.)*
-
-* **moku** → **luka** kepeken **uta** → **luka** lon luka-ilo-**uta** *(manĝi → manipuli per la buŝo → manipuli ĉe utila mano de la buŝo)* `Ü`
-* **pali** → **luka** e **ijo** *(fari, labori → manipuli aferon)* `Ü`
-* **kepeken** → lon **luka-ilo** pi *(per → ĉe utila mano de)* `Ü`
-* **pana** → **luka-sin** *(doni → manipuli aldone)* `Ü`
-* **toki** → pana e **ijo-sin** → luka-sin e **ijo-sin** *(rakonti, paroli → doni novaĵon → manipuli aldone novaĵon)* `Ü`
-* **kalama** → **uta-sin** *(sono → kroma voĉo)* `Ü`
-* **sona** → **lipu-sin** *(scio → nova paĝo)* `Ü`
-* **pu** → kepeken **lipu** pi **toki-pona** → lon luka-ilo pi **lipu** pi luka-sin-**pona** pi **ijo-sin** *(tokiponumanta → per la libro de Tokipono → ĉe utila mano de libro de bona aldona manipulado de novaĵoj)* `Ü`
-* **loje** → **kule-uta** *(ruĝo → koloro de la buŝo)* `Ü`
-* **jelo** → **kule-suno** *(flavo → koloro de la suno)* `Ü`
-* **laso** → **kule-kasi** *(verdo, bluo → koloro de plantoj)* `Ü`
-* **pimeja** → **kule-ala** *(malhelo, nigro → neniu koloro)* `Ü`
-* **waso** → **kule-suli** *(helo, blanko → granda koloro)* `Ü`
-* **wawa** → **ijo-suli** *(forto → grava grando)* `Ü`
-* **open** → **poki-lupa** *(malfermiteco/traireblo → malplena, kava ingo, ujo)*
-* **olin** → **pilin** kepeken **pilin** → **pilin** lon luka-ijo-**pilin** *(ami → senti per la koro → senti ĉe utila mano de la koro)*
-
-ken la toki tan la nimi pi ijo sijelo li lon ala.
-*(Eble, en pralingvaĵo, la nomoj de bestoj ne ekzistis.)*
-
-* **ijo-sijelo-sona** → **jan** *("scianta besto" → homo)* `Ü`
-* **ijo-sijelo-seli** → **soweli** *("varma besto" → mamulo)* `Ü`
-* **ijo-sijelo-lete** → **akesi** *("malvarma besto" → amfibio, reptilo)* `Ü`
-* **ijo-sijelo-kon** → **waso** *("aera besto" → birdo)* `Ü`
-* **ijo-sijelo-ma** → **pipi** *("tera besto" → insekto)* `Ü`
-* **ijo-sijelo-telo** → **kala** *("akva besto" → fiŝo)* `Ü`
-
-ken la toki-tan la [nimi "pi"](#nimi-pi) en [nimi monsi](#nimi-monsi) li lon-ala.
-*(Eble, en pralingvo, "pi" kaj modifiloj ne ekzistis.)*
-
-* **toki-pona** → **toki** lon **pona**
-* **tomo pi jan-pona** → **tomo** tan **jan** lon **pona**
-* **ilo-moku** → **ilo** tawa **moku**
-
 ## toki namako
 *(Kroma Lingvaĵo)*
 
