@@ -33,14 +33,6 @@ taso tenpo mute la pu taso la jan ken ala kama sona e ale pi toki pona. lipu ni 
 ## toki namako
 *(Kroma Lingvaĵo)*
 
-pu la nimi "alasa" en nimi "esun" en nimi "pan" en nimi "pu" li lon li jo e sitelen pona.
-*(Laŭ la oficiala libro de Tokipono, "alasa", "esun", "pan" kaj "pu" ekzistas kaj havas hieroglifon.)*
-
-* **alasa** *(ĉasanta)*
-* **esun** *(merkato)*
-* **pan** *(pano)*
-* **pu** *(interaganta kun la oficiala libro de Tokipono)*
-
 pu la nimi "ali" en nimi "namako" en nimi "kin" en nimi "oko" li nasin ante pi nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin".
 *(Laŭ la oficiala libro de Tokipono, "ali", "kin" kaj "oko" estas sinonimoj de "ale", "a" kaj "lukin".)*
 
@@ -738,3 +730,4 @@ lipu ni la [nimi monsi](#nimi-monsi) li ken jo e sitelen "pi". kepeken nasin ni 
 lipu ni la [nimi suli sinpin](#nimi-suli-sinpin) li ken jo e sitelen "en". kepeken nasin ni la ona li pona lukin e ante pi ona sama.
 
 * mije wawa li lukin+jo e meli pona. *(La forta viro serĉas bonan virinon.)*
+
