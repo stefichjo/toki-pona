@@ -14,14 +14,10 @@ taso tenpo mute la pu taso la jan ken ala kama sona e ale pi toki pona. lipu ni 
 ## toki open
 *(Klara Lingvaĵo)*
 
-[nimi lawa](#nimi-lawa) "[ijo](#nimi-lawa-weka-ijo)" (en nimi ante) lon sinpin pi [nimi monsi](#nimi-monsi) mute li weka.
-*(La substantivo "ijo" (kaj aliaj) mankas antaŭ multaj modifiloj.)*
+[nimi lawa](#nimi-lawa) "[ijo](#nimi-lawa-weka-ijo)" (en nimi ante) lon sinpin pi [nimi monsi](#nimi-monsi) mute li weka. [nimi lawa weka](#nimi-lawa-weka) ni li kama [nimi monsi](#nimi-monsi), la ona li kama sin.
+*(La substantivo "ijo" (kaj aliaj) mankas antaŭ multaj modifiloj. Kiam tia manka substantivo fariĝas modifilo, ĝi reaperas.)*
 
 * ***~~ijo~~*** ale *(ĉiu aĵo, ĉio)*
-
-[nimi lawa weka](#nimi-lawa-weka) ni li kama [nimi monsi](#nimi-monsi), la ona li kama sin.
-*(Kiam tia manka substantivo fariĝas modifilo, ĝi reaperas.)*
-
 * mama ***~~ale~~*** *(ĉiu gepatro)* → mama pi ***ijo ale*** *(gepatro de ĉio)*
 
 [nimi suli pi palisa ala](#nimi-suli-pi-palisa-ala) li kama [nimi suli palisa](#nimi-suli-palisa), la [nimi suli sinpin](#nimi-suli-sinpin) lon sinpin ona li kama weka.
