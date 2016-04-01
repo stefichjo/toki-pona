@@ -22,7 +22,7 @@ taso tenpo mute la pu taso la jan ken ala kama sona e ale pi toki pona. lipu ni 
 [nimi lawa weka](#nimi-lawa-weka) ni li kama [nimi monsi](#nimi-monsi), la ona li kama sin.
 *(Kiam tia manka substantivo fariĝas modifilo, ĝi reaperas.)*
 
-* ~~mama ale~~ *(ĉiu gepatro)* → mama pi ***ijo*** ale *(gepatro de ĉio)*
+* mama ***~~ale~~*** *(ĉiu gepatro)* → mama pi ***ijo ale*** *(gepatro de ĉio)*
 
 [nimi suli pi palisa ala](#nimi-suli-pi-palisa-ala) li kama [nimi suli palisa](#nimi-suli-palisa), la [nimi suli sinpin](#nimi-suli-sinpin) lon monsi pi [nimi suli pi palisa ala](#nimi-suli-pi-palisa-ala) li kama weka.
 *(Kiam netransitiva verbo fariĝas transitiva, helpa verbo antaŭ ĝi malaperas.)*
