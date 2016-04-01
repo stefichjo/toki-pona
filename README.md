@@ -4,7 +4,7 @@
 pu la jan ken kama sona e nasin toki pi toki pona.
 *(Interagante kun la oficiala libro de Tokipono oni povas lerni la gramatikon de Tokipono.)*
 
-* jan sona li pu. *(La instruistoj konsultas la oficialan libron de Tokipono.)*
+* jan sona pi toki pona li pu lon tenpo mute. *(La instruisto de Tokipono ofte konsultas la oficialan libron de Tokipono.)*
 
 taso tenpo mute la pu taso la jan ken ala kama sona e ale pi toki pona. lipu ni li lukin pana e sona sin ale. ijo pi kama tan ijo sin ni li jo e sitelen  `Ü`.
 *(Sed ofte simple "pu"-ante oni ne povas lerni ĉion pri Tokipono. Ĉi tiu dokumento provas instrui la reston. Derivaĵoj de tiuj aldonaĵoj havas la signon `Ü`.)*
@@ -14,7 +14,7 @@ taso tenpo mute la pu taso la jan ken ala kama sona e ale pi toki pona. lipu ni 
 ## toki open
 *(Klara Lingvaĵo)*
 
-[nimi lawa](#nimi-lawa) "[ijo](#nimi-lawa-weka-ijo)" (en nimi ante) lon sinpin pi [nimi monsi] mute li weka.
+[nimi lawa](#nimi-lawa) "[ijo](#nimi-lawa-weka-ijo)" (en nimi ante) lon sinpin pi [nimi monsi](#nimi-monsi) mute li weka.
 *(La substantivo "ijo" (kaj aliaj) mankas antaŭ multaj modifiloj.)*
 
 * ***~~ijo~~*** ale *(ĉiu aĵo, ĉio)*
@@ -24,21 +24,10 @@ taso tenpo mute la pu taso la jan ken ala kama sona e ale pi toki pona. lipu ni 
 
 * ~~mama ale~~ *(ĉiu gepatro)* → mama pi ***ijo*** ale *(gepatro de ĉio)*
 
-toki open la nimi lawa weka li weka ala, la nimi lawa weka ale li weka ala lon poka.
-*(En klara lingvaĵo, kiam manka substantivo malmankas, ĉiuj mankaj substantivoj malmankas kune.)*
-
-* moku → ~~ijo-moku~~ → ijo pi pona-moku *(manĝo → ~~manĝaĵo~~ → manĝeblaĵo)*
-
-toki open la nimi "jo e" li ken weka, la ona li weka.
-*(En klara lingvaĵo, se "jo e" povas manki, ĝi mankas.)*
-
-* ona li **jo e** pona-lukin. → ona li pona-lukin. *(Ŝi havas okulan sanon./Ŝi havas belon. → Ŝi estas bela.)*
-* ona li **jo e** lukin-pona. → ona li lukin-pona. *(Ŝi havas bonajn okulojn. → Ŝi vidas bone.)*
-
 toki open la jan li [nimi suli palisa](#nimi-suli-palisa) e [nimi suli pi palisa ala](#nimi-suli-pi-palisa-ala), la [nimi suli sinpin](#nimi-suli-sinpin) lon monsi pi [nimi suli pi palisa ala](#nimi-suli-pi-palisa-ala) li weka.
 *(En klara lingvaĵo, kiam oni igas netransitivan verbon transitiva, helpa verbo antaŭ la netransitiva verbo mankas.)*
 
-* mi **~~kama~~+pona e ona**. → mi **pona e ona**. *(Mi ~~boniĝigas~~ ĝin. → Mi bonigas ĝin.)*
+* mi **~~kama~~+pona e ona**. → mi **pona e ona**. *(Mi ~~boniĝigas~~ ĝin. → Mi bonigas ĝin.)* `Ü`
 
 ## toki tan
 *(Pralingvaĵo)*
