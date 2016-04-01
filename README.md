@@ -11,6 +11,257 @@ taso tenpo mute la pu taso la jan ken ala kama sona e ale pi toki pona. lipu ni 
 
 * o ***luka*** ala e mi! *(Ne tuŝu min!)* `Ü`
 
+## toki open
+*(Klara Lingvaĵo)*
+
+toki open la kon nimi li ken tu la [nimi lawa weka](#nimi-lawa-weka) li weka ala.
+*(En klara lingvaĵo, se la senco de vortoj povas esti ambigua, manka substantivo malmankas.)*
+
+* ~~mama-ale~~ → mama pi **ijo**-ale *(~~ĉiuj gepatroj~~ → la kreanto de ĉio)* `©`
+
+toki open la nimi lawa weka li weka ala, la nimi lawa weka ale li weka ala lon poka.
+*(En klara lingvaĵo, kiam manka substantivo malmankas, ĉiuj mankaj substantivoj malmankas kune.)*
+
+* moku → ~~ijo-moku~~ → ijo pi pona-moku *(manĝo → ~~manĝaĵo~~ → manĝeblaĵo)*
+
+toki open la nimi "jo e" li ken weka, la ona li weka.
+*(En klara lingvaĵo, se "jo e" povas manki, ĝi mankas.)*
+
+* ona li **jo e** pona-lukin. → ona li pona-lukin. *(Ŝi havas okulan sanon./Ŝi havas belon. → Ŝi estas bela.)*
+* ona li **jo e** lukin-pona. → ona li lukin-pona. *(Ŝi havas bonajn okulojn. → Ŝi vidas bone.)*
+
+toki open la jan li [nimi suli palisa](#nimi-suli-palisa) e [nimi suli pi palisa ala](#nimi-suli-pi-palisa-ala), la [nimi suli sinpin](#nimi-suli-sinpin) lon monsi pi [nimi suli pi palisa ala](#nimi-suli-pi-palisa-ala) li weka.
+*(En klara lingvaĵo, kiam oni igas netransitivan verbon transitiva, helpa verbo antaŭ la netransitiva verbo mankas.)*
+
+* mi **~~kama~~+pona e ona**. → mi **pona e ona**. *(Mi ~~boniĝigas~~ ĝin. → Mi bonigas ĝin.)*
+
+## toki tan
+*(Pralingvaĵo)*
+
+**toki tan** la [nimi suli sinpin](#nimi-suli-sinpin) li lon ala.
+*(En pralingvaĵo, ne ekzistas helpaj verboj.)*
+
+* mi **lukin**.tawa sina. → mi **lukin** tawa ni: mi tawa sina. *(Mi provas iri al vi.)* `Ü`
+
+**toki tan** la nimi pi sitelen pona tan sitelen pona tu li lon ala.
+*(En pralingvaĵo, ne ekzistas kompleksaj hieroglifoj.)*
+
+* **moku** → **luka** kepeken **uta** → **luka** lon luka-ilo-**uta** *(manĝi → manipuli per la buŝo → manipuli ĉe utila mano de la buŝo)* `Ü`
+* **pali** → **luka** e **ijo** *(fari, labori → manipuli aferon)* `Ü`
+* **kepeken** → lon **luka-ilo** pi *(per → ĉe utila mano de)* `Ü`
+* **pana** → **luka-sin** *(doni → manipuli aldone)* `Ü`
+* **toki** → pana e **ijo-sin** → luka-sin e **ijo-sin** *(rakonti, paroli → doni novaĵon → manipuli aldone novaĵon)* `Ü`
+* **kalama** → **uta-sin** *(sono → kroma voĉo)* `Ü`
+* **sona** → **lipu-sin** *(scio → nova paĝo)* `Ü`
+* **pu** → kepeken **lipu** pi **toki-pona** → lon luka-ilo pi **lipu** pi luka-sin-**pona** pi **ijo-sin** *(tokiponumanta → per la libro de Tokipono → ĉe utila mano de libro de bona aldona manipulado de novaĵoj)* `Ü`
+* **loje** → **kule-uta** *(ruĝo → koloro de la buŝo)* `Ü`
+* **jelo** → **kule-suno** *(flavo → koloro de la suno)* `Ü`
+* **laso** → **kule-kasi** *(verdo, bluo → koloro de plantoj)* `Ü`
+* **pimeja** → **kule-ala** *(malhelo, nigro → neniu koloro)* `Ü`
+* **waso** → **kule-suli** *(helo, blanko → granda koloro)* `Ü`
+* **wawa** → **ijo-suli** *(forto → grava grando)* `Ü`
+* **open** → **poki-lupa** *(malfermiteco/traireblo → malplena, kava ingo, ujo)*
+* **olin** → **pilin** kepeken **pilin** → **pilin** lon luka-ijo-**pilin** *(ami → senti per la koro → senti ĉe utila mano de la koro)*
+
+ken la toki tan la nimi pi ijo sijelo li lon ala.
+*(Eble, en pralingvaĵo, la nomoj de bestoj ne ekzistis.)*
+
+* **ijo-sijelo-sona** → **jan** *("scianta besto" → homo)* `Ü`
+* **ijo-sijelo-seli** → **soweli** *("varma besto" → mamulo)* `Ü`
+* **ijo-sijelo-lete** → **akesi** *("malvarma besto" → amfibio, reptilo)* `Ü`
+* **ijo-sijelo-kon** → **waso** *("aera besto" → birdo)* `Ü`
+* **ijo-sijelo-ma** → **pipi** *("tera besto" → insekto)* `Ü`
+* **ijo-sijelo-telo** → **kala** *("akva besto" → fiŝo)* `Ü`
+
+ken la toki-tan la [nimi "pi"](#nimi-pi) en [nimi monsi](#nimi-monsi) li lon-ala.
+*(Eble, en pralingvo, "pi" kaj modifiloj ne ekzistis.)*
+
+* **toki-pona** → **toki** lon **pona**
+* **tomo pi jan-pona** → **tomo** tan **jan** lon **pona**
+* **ilo-moku** → **ilo** tawa **moku**
+
+## toki namako
+*(Kroma Lingvaĵo)*
+
+pu la nimi "ala" li ken lon insa pi [nimi suli](#nimi-suli) sama tu. ni li nasin-ante pi nimi "anu seme".
+*(Laŭ la oficiala libro de Tokipono, "ala" povas esti inter du samaj verboj. Tio estas alternativo de "anu seme".)*
+
+* ona li tawa ma-tomo Lantan **anu seme**? → ona li **tawa ala tawa** ma-tomo Lantan? *(Ĉu ŝi iras al Londono?)*
+
+### kalama namako
+*(Kromaj Sonoj)*
+
+pu la kalama nimi li ken kama ante lili.
+*(Laŭ la oficiala libro de Tokipono, la prononco povas varii iomete.)*
+
+* tenpo-pini → ~~tempo-bhini~~ `[tempo vini]` *(historio)*
+* toki-Sonko → ~~toki-Zongko~~ `[toki zoŋko]` *(la Ĉina)*
+* sinpin-lawa-sina → ~~shimpin-lawa-zhina~~ `[ʃimpin lawa ʒina]` *(via vizaĝo)*
+* telo-kili → ~~telo-ghili~~ `[telo ɣili]` *(suko)*
+
+kalama `[n]` li ken kama `[m]` anu `[ŋ]`.
+*(La sono de `n` povas fariĝi `[m]` aŭ `[ŋ]`.)*
+
+| mun `[mun]`               |
+|:-------------------------:|
+| tenpo `[tempo]`           |
+| Sonko `[soŋko]`           |
+
+kalama `[p]` en kalama `[t]` en kalama `[s]` en kalama `[k]` li ken kama `[b]` anu `[d]` anu `[z]` anu `[g]`.
+*(La sonoj `[p]`, `[t]`, `[s]`, `[k]` povas fariĝi `[b]`, `[d]`, `[z]`, `[g]`.)*
+
+| pona `[pona]`             | tawa `[tawa]`             | sona `[sona]`             | kama `[kama]`             |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+| toki-pona `[toki bona]`   | tomo-tawa `[tomo dawa]`   | jan-sona `[jan zona]`     | ilo-kute `[ilo gute]`     |
+
+kalama "p" en kalama "s" en kalama "k" li ken kama `[f]`/`[v]` anu `[ʃ]`/`[ʒ]` anu `[x]`/`[ɣ]`.
+*(La sonoj de "p", "s", "k" povas fariĝi `[f]`/`[v]`, `[ʃ]`/`[ʒ]`, `[x]`/`[ɣ]`.)*
+
+| pini `[fini]`             | sina `[ʃina]`             | kili `[xili]`             |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| tenpo-pini `[tempo vini]` | nimi-sina `[nimi ʒina]`   | telo-kili `[telo ɣili]`   |
+
+
+### nimi namako
+*(Kromaj Vortoj)*
+
+pu la nimi "alasa" en nimi "esun" en nimi "pan" en nimi "pu" li lon li jo e sitelen pona.
+*(Laŭ la oficiala libro de Tokipono, "alasa", "esun", "pan" kaj "pu" ekzistas kaj havas hieroglifon.)*
+
+* **alasa** *(ĉasanta)*
+* **esun** *(merkato)*
+* **pan** *(pano)*
+* **pu** *(interaganta kun la oficiala libro de Tokipono)*
+
+pu la nimi "ali" en nimi "namako" en nimi "kin" en nimi "oko" li nasin ante pi nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin".
+*(Laŭ la oficiala libro de Tokipono, "ali", "kin" kaj "oko" estas sinonimoj de "ale", "a" kaj "lukin".)*
+
+* **ale** li pona. → **ali** li pona. *(Ĉio estas bona.)*
+* kule-**sin** → kule-**namako** *(aldona koloro → ŝminko)*
+* sina pona-lukin **a**. → sina pona-lukin **kin**. *(Vi belas ja. → Vi belas eĉ.)*
+* ijo li lon **lukin**-mi. → ijo li lon **oko**-mi. *(Io estas en mia okulo.)*
+
+pu la nimi namako ante li lon ala.
+*(Laŭ la oficiala libro de Tokipono, aliaj neologismoj ne ekzistas.)*
+
+* **anpa-lukin** → ~~**apeja**~~ *(malalta por vidi → maldigna, fia)*
+* **jan-akesi** → ~~**monsuta**~~ *(maliculo → monstro)*
+* insa pi **wan** pi ijo-**tu** → ~~**kipisi**~~ *(inter du pecoj → tranĉo)*
+
+## toki musi
+*(Luda Lingvaĵo)*
+
+...
+*(...)*
+
+* ale li pona pi **nanpa-sinpin**-ni. *(Ĉio estas pli bona ol tio.)* `Ü`
+* ale li pona pi **nanpa-monsi**-ni. *(Ĉio estas malpli bona ol tio.)* `Ü`
+
+## toki ike
+*(Evitindaj Lingvaĵoj)*
+
+jan li toki pakala lon toki pona li pu ala la ni li **toki ike**.
+*(Se iu misparolas en Tokipono sen interagi kun la oficiala libro de Tokipono, tio estas evitinda lingvaĵo.)*
+
+### toki apeja
+*(Skisma Lingvaĵo)*
+
+jan li toki ike li wile ante e toki pona, la ni li **toki apeja**.
+*(Se iu parolas evitinde por ŝanĝi Tokiponon, tio estas skisma lingvaĵo.)*
+
+### toki kipisi
+*(Kripla Lingvaĵo)*
+
+nimi "jo e" anu nimi "lon" li ken ala weka.
+*("jo e" aŭ "lon" ne povas manki.)*
+
+* ona li ~~**pona-sijelo**~~. → ona li **jo e pona-sijelo**./ona li **pona lon sijelo**. *(~~Ŝi korpe sanas.~~ → Ŝi havas korpan sanon./Ŝi estas sana en la korpo.)*
+
+nimi "pana e" li ken ala weka.
+*("pana e" ne povas manki.)*
+
+* ona li ~~**len e**~~ mi. → ona li **pana e len tawa** mi. *(Ŝi vestis min.)*
+* ona li ~~**nimi "jan-pona" e**~~ mi. → ona li **pana e nimi "jan-pona" tawa** mi. *(Ŝi nomis min "amiko".)*
+
+nimi "ni" lon sinpin pi kulupu pi [nimi suli](#nimi-suli) li ken weka ala.
+*("ni" antaŭ subfrazo ne povas manki.)*
+
+* mi sona e jan ni. → mi sona e jan pi **ni:** ona li moku e soweli. *(Mi konas tiun personon. → Mi konas la personon, kiu manĝas viandon.)*
+ * mi sona e jan ~~pi ona li moku~~ e soweli. *(Mi konas la personon, kiu manĝas viandon.)*
+ * mi sona e jan ~~pi li moku~~ e soweli. *(Mi konas la personon, kiu manĝas viandon.)*
+ * mi sona e jan ~~pi moku~~ e soweli. *(Mi konas la personon manĝantan viandon.)*
+
+* jan ni li moli. → jan pi **ni,** ona li moku e soweli, li moli. *(Tiu persono mortis. → La persono, kiu manĝas viandon, mortis.)*
+ * jan ~~pi ona li moku~~ e soweli li moli. *(La persono, kiu manĝas viandon, mortis.)*
+ * jan ~~pi li moku~~ e soweli li moli. *(La persono, kiu manĝas viandon, mortis.)*
+ * jan ~~pi moku~~ e soweli li moli. *(La persono manĝanta viandon mortis.)*
+
+* mi jo e tomo ni. → mi jo e tomo pi **ni:** ona li lon ma. *(Mi havas tiun domon. → Mi havas domon, kiu estas en la kamparo.)*
+ * mi jo e tomo ~~pi ona li lon~~ ma. *(Mi havas domon, kiu estas en la kamparo.)*
+ * mi jo e tomo ~~pi li lon~~ ma. *(Mi havas domon, kiu estas en la kamparo.)*
+ * mi jo e tomo ~~pi lon~~ ma. *(Mi havas domon estantan en la kamparo.)*
+
+### toki monsuta
+*(Monstra Lingvaĵo)*
+
+[nimi monsi](#nimi-monsi) li lon sinpin pi kulupu pi [nimi monsi](#nimi-monsi) ante.
+*(Modifilo estas antaŭ alia modifa frazero.)*
+
+* tomo **pi telo-nasa**, ~~pona~~ → tomo-pona **pi telo-nasa** *(bona trinkejo)*
+
+[nimi monsi](#nimi-monsi) li lon sinpin pi kulupu pi [nimi monsi palisa](#nimi-monsi-palisa).
+*(Modifilo estas antaŭ prepozicia frazero.)*
+
+* jan **lon tomo-sona**, ~~pona~~ → jan-pona **lon tomo-sona** *(amiko en lernejo)*
+
+kulupu pi [nimi monsi](#nimi-monsi) li lon sinpin pi kulupu pi [nimi monsi palisa](#nimi-monsi-palisa).
+*(Modifa frazero estas antaŭ prepozicia frazero.)*
+
+* tomo lon ma-tomo Lantan ~~**pi telo-nasa**~~. → tomo **pi telo-nasa** lon ma-tomo Lantan *(trinkejo en Londono)*
+
+kulupu pi [nimi "e"](#nimi-e) li lon sinpin pi kulupu pi [nimi monsi palisa](#nimi-monsi-palisa).
+*(La rekta objekto estas antaŭ prepozicia frazero.)*
+
+* mi lukin ~~kepeken tenpo-lili~~ **e** sitelen. → mi lukin **e** sitelen kepeken tenpo-lili. *(Mi legas rapide.)*
+
+[nimi monsi](#nimi-monsi) li jo ala e [nimi monsi](#nimi-monsi). jan li wile kepeken nimi "pi".
+*(Modifilo ne havas modifilon. Oni devas uzi "pi".)*
+
+* telo-nasa~~-**mute**~~ → telo pi nasa-mute *(tre strangiga likvo → vodko)*
+
+[nimi monsi palisa](#nimi-monsi-palisa) li jo ala e [nimi monsi](#nimi-monsi). jan li wile kepeken [nimi suli](#nimi-suli) sin.
+*(Prepozicio ne havas modifilon. Oni devas uzi aldonan verbon.)*
+
+* ona li tawa~~-**pona**,~~ tomo. → ona li tawa-**pona** tawa tomo. *(Ŝi sekure iras hejmen.)*
+* ona li tawa~~-**ala**,~~ ma-tomo Lantan. → ona li tawa-**ala** tawa ma-tomo Lantan. *(Ŝi ne iras al Londono.)*
+
+[nimi monsi](#nimi-monsi) "ala" lon poka pi [nimi suli](#nimi-suli) sin pi nasin ni li wile ala.
+*(La modifilo "ala" apud tia aldona verbo ne estas necesa.)*
+
+* ona li tawa-**ala** tawa ma-tomo Lantan. → ona li tawa ma-tomo Lantan **ala**. *(Ŝi ne iras al Londono. ← Ŝi iras al neniu Londono.)*
+
+### toki mu
+*(Slanga Lingvaĵo)*
+
+nimi lon monsi pi [nimi lawa weka "ma"](#nimi-lawa-weka-ma) li ken ala kama [nimi monsi palisa](#nimi-monsi-palisa).
+*(Loka substantivo ne povas fariĝi prepozicio.)*
+
+* waso li tawa ~~**sewi**~~ tomo-sona. → waso li tawa lon **sewi** pi tomo-sona. *(Birdo flugas super la lernejo.)*
+* mi tawa ~~**poka**~~ jan-pona. → mi tawa lon **poka** pi jan-pona. *(Mi vojaĝas kun amiko.)*
+
+nimi kalama li ken ala kama [nimi ijo](#nimi-ijo).
+*(Sonimito ne povas fariĝi radika vorto.)*
+
+* soweli li ~~**mu**~~. → soweli li kalama **"mu"**. *(La kato miaŭas.)*
+* ona ~~**a**~~ li kute e kalama-musi. → ona-**sama** li kute e kalama-musi. *(Ankaŭ ŝi aŭskultas muzikon.)*
+* mi tawa ~~**Lantan**~~. → mi tawa ma-tomo **Lantan**. *(Mi iras al Londono.)*
+
+[nimi monsi palisa](#nimi-monsi-palisa) li ken ala kama [nimi suli sinpin](#nimi-suli-sinpin).
+*(Prepozicio ne povas fariĝi helpa verbo.)*
+
+* ~~mi **tawa**.moku.~~ → tenpo-kama la mi moku. *(Mi estas manĝonta. → Mi manĝos.)*
+* ~~mi **tan**.moku.~~ → tenpo-pini la mi moku. *(Mi estas manĝinta. → Mi manĝis.)*
+
 ## nimi ilo
 *(Partikuloj)*
 
@@ -505,258 +756,6 @@ nimi "seme" li sama [nimi ijo](#nimi-ijo). taso pu la ona li [nimi ilo](#nimi-il
 ___
 * ni *(tiu)*
 * seme *(kiu)*
-
-
-## toki open
-*(Klara Lingvaĵo)*
-
-toki open la kon nimi li ken tu la [nimi lawa weka](#nimi-lawa-weka) li weka ala.
-*(En klara lingvaĵo, se la senco de vortoj povas esti ambigua, manka substantivo malmankas.)*
-
-* ~~mama-ale~~ → mama pi **ijo**-ale *(~~ĉiuj gepatroj~~ → la kreanto de ĉio)* `©`
-
-toki open la nimi lawa weka li weka ala, la nimi lawa weka ale li weka ala lon poka.
-*(En klara lingvaĵo, kiam manka substantivo malmankas, ĉiuj mankaj substantivoj malmankas kune.)*
-
-* moku → ~~ijo-moku~~ → ijo pi pona-moku *(manĝo → ~~manĝaĵo~~ → manĝeblaĵo)*
-
-toki open la nimi "jo e" li ken weka, la ona li weka.
-*(En klara lingvaĵo, se "jo e" povas manki, ĝi mankas.)*
-
-* ona li **jo e** pona-lukin. → ona li pona-lukin. *(Ŝi havas okulan sanon./Ŝi havas belon. → Ŝi estas bela.)*
-* ona li **jo e** lukin-pona. → ona li lukin-pona. *(Ŝi havas bonajn okulojn. → Ŝi vidas bone.)*
-
-toki open la jan li [nimi suli palisa](#nimi-suli-palisa) e [nimi suli pi palisa ala](#nimi-suli-pi-palisa-ala), la [nimi suli sinpin](#nimi-suli-sinpin) lon monsi pi [nimi suli pi palisa ala](#nimi-suli-pi-palisa-ala) li weka.
-*(En klara lingvaĵo, kiam oni igas netransitivan verbon transitiva, helpa verbo antaŭ la netransitiva verbo mankas.)*
-
-* mi **~~kama~~+pona e ona**. → mi **pona e ona**. *(Mi ~~boniĝigas~~ ĝin. → Mi bonigas ĝin.)*
-
-## toki tan
-*(Pralingvaĵo)*
-
-**toki tan** la [nimi suli sinpin](#nimi-suli-sinpin) li lon ala.
-*(En pralingvaĵo, ne ekzistas helpaj verboj.)*
-
-* mi **lukin**.tawa sina. → mi **lukin** tawa ni: mi tawa sina. *(Mi provas iri al vi.)* `Ü`
-
-**toki tan** la nimi pi sitelen pona tan sitelen pona tu li lon ala.
-*(En pralingvaĵo, ne ekzistas kompleksaj hieroglifoj.)*
-
-* **moku** → **luka** kepeken **uta** → **luka** lon luka-ilo-**uta** *(manĝi → manipuli per la buŝo → manipuli ĉe utila mano de la buŝo)* `Ü`
-* **pali** → **luka** e **ijo** *(fari, labori → manipuli aferon)* `Ü`
-* **kepeken** → lon **luka-ilo** pi *(per → ĉe utila mano de)* `Ü`
-* **pana** → **luka-sin** *(doni → manipuli aldone)* `Ü`
-* **toki** → pana e **ijo-sin** → luka-sin e **ijo-sin** *(rakonti, paroli → doni novaĵon → manipuli aldone novaĵon)* `Ü`
-* **kalama** → **uta-sin** *(sono → kroma voĉo)* `Ü`
-* **sona** → **lipu-sin** *(scio → nova paĝo)* `Ü`
-* **pu** → kepeken **lipu** pi **toki-pona** → lon luka-ilo pi **lipu** pi luka-sin-**pona** pi **ijo-sin** *(tokiponumanta → per la libro de Tokipono → ĉe utila mano de libro de bona aldona manipulado de novaĵoj)* `Ü`
-* **loje** → **kule-uta** *(ruĝo → koloro de la buŝo)* `Ü`
-* **jelo** → **kule-suno** *(flavo → koloro de la suno)* `Ü`
-* **laso** → **kule-kasi** *(verdo, bluo → koloro de plantoj)* `Ü`
-* **pimeja** → **kule-ala** *(malhelo, nigro → neniu koloro)* `Ü`
-* **waso** → **kule-suli** *(helo, blanko → granda koloro)* `Ü`
-* **wawa** → **ijo-suli** *(forto → grava grando)* `Ü`
-* **open** → **poki-lupa** *(malfermiteco/traireblo → malplena, kava ingo, ujo)*
-* **olin** → **pilin** kepeken **pilin** → **pilin** lon luka-ijo-**pilin** *(ami → senti per la koro → senti ĉe utila mano de la koro)*
-
-ken la toki tan la nimi pi ijo sijelo li lon ala.
-*(Eble, en pralingvaĵo, la nomoj de bestoj ne ekzistis.)*
-
-* **ijo-sijelo-sona** → **jan** *("scianta besto" → homo)* `Ü`
-* **ijo-sijelo-seli** → **soweli** *("varma besto" → mamulo)* `Ü`
-* **ijo-sijelo-lete** → **akesi** *("malvarma besto" → amfibio, reptilo)* `Ü`
-* **ijo-sijelo-kon** → **waso** *("aera besto" → birdo)* `Ü`
-* **ijo-sijelo-ma** → **pipi** *("tera besto" → insekto)* `Ü`
-* **ijo-sijelo-telo** → **kala** *("akva besto" → fiŝo)* `Ü`
-
-ken la toki-tan la [nimi "pi"](#nimi-pi) en [nimi monsi](#nimi-monsi) li lon-ala.
-*(Eble, en pralingvo, "pi" kaj modifiloj ne ekzistis.)*
-
-* **toki-pona** → **toki** lon **pona**
-* **tomo pi jan-pona** → **tomo** tan **jan** lon **pona**
-* **ilo-moku** → **ilo** tawa **moku**
-
-## toki namako
-*(Kroma Lingvaĵo)*
-
-pu la nimi "ala" li ken lon insa pi [nimi suli](#nimi-suli) sama tu. ni li nasin-ante pi nimi "anu seme".
-*(Laŭ la oficiala libro de Tokipono, "ala" povas esti inter du samaj verboj. Tio estas alternativo de "anu seme".)*
-
-* ona li tawa ma-tomo Lantan **anu seme**? → ona li **tawa ala tawa** ma-tomo Lantan? *(Ĉu ŝi iras al Londono?)*
-
-### kalama namako
-*(Kromaj Sonoj)*
-
-pu la kalama nimi li ken kama ante lili.
-*(Laŭ la oficiala libro de Tokipono, la prononco povas varii iomete.)*
-
-* tenpo-pini → ~~tempo-bhini~~ `[tempo vini]` *(historio)*
-* toki-Sonko → ~~toki-Zongko~~ `[toki zoŋko]` *(la Ĉina)*
-* sinpin-lawa-sina → ~~shimpin-lawa-zhina~~ `[ʃimpin lawa ʒina]` *(via vizaĝo)*
-* telo-kili → ~~telo-ghili~~ `[telo ɣili]` *(suko)*
-
-kalama `[n]` li ken kama `[m]` anu `[ŋ]`.
-*(La sono de `n` povas fariĝi `[m]` aŭ `[ŋ]`.)*
-
-| mun `[mun]`               |
-|:-------------------------:|
-| tenpo `[tempo]`           |
-| Sonko `[soŋko]`           |
-
-kalama `[p]` en kalama `[t]` en kalama `[s]` en kalama `[k]` li ken kama `[b]` anu `[d]` anu `[z]` anu `[g]`.
-*(La sonoj `[p]`, `[t]`, `[s]`, `[k]` povas fariĝi `[b]`, `[d]`, `[z]`, `[g]`.)*
-
-| pona `[pona]`             | tawa `[tawa]`             | sona `[sona]`             | kama `[kama]`             |
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-| toki-pona `[toki bona]`   | tomo-tawa `[tomo dawa]`   | jan-sona `[jan zona]`     | ilo-kute `[ilo gute]`     |
-
-kalama "p" en kalama "s" en kalama "k" li ken kama `[f]`/`[v]` anu `[ʃ]`/`[ʒ]` anu `[x]`/`[ɣ]`.
-*(La sonoj de "p", "s", "k" povas fariĝi `[f]`/`[v]`, `[ʃ]`/`[ʒ]`, `[x]`/`[ɣ]`.)*
-
-| pini `[fini]`             | sina `[ʃina]`             | kili `[xili]`             |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-| tenpo-pini `[tempo vini]` | nimi-sina `[nimi ʒina]`   | telo-kili `[telo ɣili]`   |
-
-
-### nimi namako
-*(Kromaj Vortoj)*
-
-pu la nimi "alasa" en nimi "esun" en nimi "pan" en nimi "pu" li lon li jo e sitelen pona.
-*(Laŭ la oficiala libro de Tokipono, "alasa", "esun", "pan" kaj "pu" ekzistas kaj havas hieroglifon.)*
-
-* **alasa** *(ĉasanta)*
-* **esun** *(merkato)*
-* **pan** *(pano)*
-* **pu** *(interaganta kun la oficiala libro de Tokipono)*
-
-pu la nimi "ali" en nimi "namako" en nimi "kin" en nimi "oko" li nasin ante pi nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin".
-*(Laŭ la oficiala libro de Tokipono, "ali", "kin" kaj "oko" estas sinonimoj de "ale", "a" kaj "lukin".)*
-
-* **ale** li pona. → **ali** li pona. *(Ĉio estas bona.)*
-* kule-**sin** → kule-**namako** *(aldona koloro → ŝminko)*
-* sina pona-lukin **a**. → sina pona-lukin **kin**. *(Vi belas ja. → Vi belas eĉ.)*
-* ijo li lon **lukin**-mi. → ijo li lon **oko**-mi. *(Io estas en mia okulo.)*
-
-pu la nimi namako ante li lon ala.
-*(Laŭ la oficiala libro de Tokipono, aliaj neologismoj ne ekzistas.)*
-
-* **anpa-lukin** → ~~**apeja**~~ *(malalta por vidi → maldigna, fia)*
-* **jan-akesi** → ~~**monsuta**~~ *(maliculo → monstro)*
-* insa pi **wan** pi ijo-**tu** → ~~**kipisi**~~ *(inter du pecoj → tranĉo)*
-
-## toki musi
-*(Luda Lingvaĵo)*
-
-...
-*(...)*
-
-* ale li pona pi **nanpa-sinpin**-ni. *(Ĉio estas pli bona ol tio.)* `Ü`
-* ale li pona pi **nanpa-monsi**-ni. *(Ĉio estas malpli bona ol tio.)* `Ü`
-
-## toki ike
-*(Evitindaj Lingvaĵoj)*
-
-jan li toki pakala lon toki pona li pu ala la ni li **toki ike**.
-*(Se iu misparolas en Tokipono sen interagi kun la oficiala libro de Tokipono, tio estas evitinda lingvaĵo.)*
-
-### toki apeja
-*(Skisma Lingvaĵo)*
-
-jan li toki ike li wile ante e toki pona, la ni li **toki apeja**.
-*(Se iu parolas evitinde por ŝanĝi Tokiponon, tio estas skisma lingvaĵo.)*
-
-### toki kipisi
-*(Kripla Lingvaĵo)*
-
-nimi "jo e" anu nimi "lon" li ken ala weka.
-*("jo e" aŭ "lon" ne povas manki.)*
-
-* ona li ~~**pona-sijelo**~~. → ona li **jo e pona-sijelo**./ona li **pona lon sijelo**. *(~~Ŝi korpe sanas.~~ → Ŝi havas korpan sanon./Ŝi estas sana en la korpo.)*
-
-nimi "pana e" li ken ala weka.
-*("pana e" ne povas manki.)*
-
-* ona li ~~**len e**~~ mi. → ona li **pana e len tawa** mi. *(Ŝi vestis min.)*
-* ona li ~~**nimi "jan-pona" e**~~ mi. → ona li **pana e nimi "jan-pona" tawa** mi. *(Ŝi nomis min "amiko".)*
-
-nimi "ni" lon sinpin pi kulupu pi [nimi suli](#nimi-suli) li ken weka ala.
-*("ni" antaŭ subfrazo ne povas manki.)*
-
-* mi sona e jan ni. → mi sona e jan pi **ni:** ona li moku e soweli. *(Mi konas tiun personon. → Mi konas la personon, kiu manĝas viandon.)*
- * mi sona e jan ~~pi ona li moku~~ e soweli. *(Mi konas la personon, kiu manĝas viandon.)*
- * mi sona e jan ~~pi li moku~~ e soweli. *(Mi konas la personon, kiu manĝas viandon.)*
- * mi sona e jan ~~pi moku~~ e soweli. *(Mi konas la personon manĝantan viandon.)*
-
-* jan ni li moli. → jan pi **ni,** ona li moku e soweli, li moli. *(Tiu persono mortis. → La persono, kiu manĝas viandon, mortis.)*
- * jan ~~pi ona li moku~~ e soweli li moli. *(La persono, kiu manĝas viandon, mortis.)*
- * jan ~~pi li moku~~ e soweli li moli. *(La persono, kiu manĝas viandon, mortis.)*
- * jan ~~pi moku~~ e soweli li moli. *(La persono manĝanta viandon mortis.)*
-
-* mi jo e tomo ni. → mi jo e tomo pi **ni:** ona li lon ma. *(Mi havas tiun domon. → Mi havas domon, kiu estas en la kamparo.)*
- * mi jo e tomo ~~pi ona li lon~~ ma. *(Mi havas domon, kiu estas en la kamparo.)*
- * mi jo e tomo ~~pi li lon~~ ma. *(Mi havas domon, kiu estas en la kamparo.)*
- * mi jo e tomo ~~pi lon~~ ma. *(Mi havas domon estantan en la kamparo.)*
-
-### toki monsuta
-*(Monstra Lingvaĵo)*
-
-[nimi monsi](#nimi-monsi) li lon sinpin pi kulupu pi [nimi monsi](#nimi-monsi) ante.
-*(Modifilo estas antaŭ alia modifa frazero.)*
-
-* tomo **pi telo-nasa**, ~~pona~~ → tomo-pona **pi telo-nasa** *(bona trinkejo)*
-
-[nimi monsi](#nimi-monsi) li lon sinpin pi kulupu pi [nimi monsi palisa](#nimi-monsi-palisa).
-*(Modifilo estas antaŭ prepozicia frazero.)*
-
-* jan **lon tomo-sona**, ~~pona~~ → jan-pona **lon tomo-sona** *(amiko en lernejo)*
-
-kulupu pi [nimi monsi](#nimi-monsi) li lon sinpin pi kulupu pi [nimi monsi palisa](#nimi-monsi-palisa).
-*(Modifa frazero estas antaŭ prepozicia frazero.)*
-
-* tomo lon ma-tomo Lantan ~~**pi telo-nasa**~~. → tomo **pi telo-nasa** lon ma-tomo Lantan *(trinkejo en Londono)*
-
-kulupu pi [nimi "e"](#nimi-e) li lon sinpin pi kulupu pi [nimi monsi palisa](#nimi-monsi-palisa).
-*(La rekta objekto estas antaŭ prepozicia frazero.)*
-
-* mi lukin ~~kepeken tenpo-lili~~ **e** sitelen. → mi lukin **e** sitelen kepeken tenpo-lili. *(Mi legas rapide.)*
-
-[nimi monsi](#nimi-monsi) li jo ala e [nimi monsi](#nimi-monsi). jan li wile kepeken nimi "pi".
-*(Modifilo ne havas modifilon. Oni devas uzi "pi".)*
-
-* telo-nasa~~-**mute**~~ → telo pi nasa-mute *(tre strangiga likvo → vodko)*
-
-[nimi monsi palisa](#nimi-monsi-palisa) li jo ala e [nimi monsi](#nimi-monsi). jan li wile kepeken [nimi suli](#nimi-suli) sin.
-*(Prepozicio ne havas modifilon. Oni devas uzi aldonan verbon.)*
-
-* ona li tawa~~-**pona**,~~ tomo. → ona li tawa-**pona** tawa tomo. *(Ŝi sekure iras hejmen.)*
-* ona li tawa~~-**ala**,~~ ma-tomo Lantan. → ona li tawa-**ala** tawa ma-tomo Lantan. *(Ŝi ne iras al Londono.)*
-
-[nimi monsi](#nimi-monsi) "ala" lon poka pi [nimi suli](#nimi-suli) sin pi nasin ni li wile ala.
-*(La modifilo "ala" apud tia aldona verbo ne estas necesa.)*
-
-* ona li tawa-**ala** tawa ma-tomo Lantan. → ona li tawa ma-tomo Lantan **ala**. *(Ŝi ne iras al Londono. ← Ŝi iras al neniu Londono.)*
-
-### toki mu
-*(Slanga Lingvaĵo)*
-
-nimi lon monsi pi [nimi lawa weka "ma"](#nimi-lawa-weka-ma) li ken ala kama [nimi monsi palisa](#nimi-monsi-palisa).
-*(Loka substantivo ne povas fariĝi prepozicio.)*
-
-* waso li tawa ~~**sewi**~~ tomo-sona. → waso li tawa lon **sewi** pi tomo-sona. *(Birdo flugas super la lernejo.)*
-* mi tawa ~~**poka**~~ jan-pona. → mi tawa lon **poka** pi jan-pona. *(Mi vojaĝas kun amiko.)*
-
-nimi kalama li ken ala kama [nimi ijo](#nimi-ijo).
-*(Sonimito ne povas fariĝi radika vorto.)*
-
-* soweli li ~~**mu**~~. → soweli li kalama **"mu"**. *(La kato miaŭas.)*
-* ona ~~**a**~~ li kute e kalama-musi. → ona-**sama** li kute e kalama-musi. *(Ankaŭ ŝi aŭskultas muzikon.)*
-* mi tawa ~~**Lantan**~~. → mi tawa ma-tomo **Lantan**. *(Mi iras al Londono.)*
-
-[nimi monsi palisa](#nimi-monsi-palisa) li ken ala kama [nimi suli sinpin](#nimi-suli-sinpin).
-*(Prepozicio ne povas fariĝi helpa verbo.)*
-
-* ~~mi **tawa**.moku.~~ → tenpo-kama la mi moku. *(Mi estas manĝonta. → Mi manĝos.)*
-* ~~mi **tan**.moku.~~ → tenpo-pini la mi moku. *(Mi estas manĝinta. → Mi manĝis.)*
 
 ## sitelen lon insa nimi
 *(Interpunkcio)*
