@@ -33,43 +33,6 @@ taso tenpo mute la pu taso la jan ken ala kama sona e ale pi toki pona. lipu ni 
 ## toki namako
 *(Kroma Lingvaĵo)*
 
-### kalama namako
-*(Kromaj Sonoj)*
-
-pu la kalama nimi li ken kama ante lili.
-*(Laŭ la oficiala libro de Tokipono, la prononco povas varii iomete.)*
-
-* tenpo-pini → ~~tempo-bhini~~ `[tempo vini]` *(historio)*
-* toki-Sonko → ~~toki-Zongko~~ `[toki zoŋko]` *(la Ĉina)*
-* sinpin-lawa-sina → ~~shimpin-lawa-zhina~~ `[ʃimpin lawa ʒina]` *(via vizaĝo)*
-* telo-kili → ~~telo-ghili~~ `[telo ɣili]` *(suko)*
-
-kalama `[n]` li ken kama `[m]` anu `[ŋ]`.
-*(La sono de `n` povas fariĝi `[m]` aŭ `[ŋ]`.)*
-
-| mun `[mun]`               |
-|:-------------------------:|
-| tenpo `[tempo]`           |
-| Sonko `[soŋko]`           |
-
-kalama `[p]` en kalama `[t]` en kalama `[s]` en kalama `[k]` li ken kama `[b]` anu `[d]` anu `[z]` anu `[g]`.
-*(La sonoj `[p]`, `[t]`, `[s]`, `[k]` povas fariĝi `[b]`, `[d]`, `[z]`, `[g]`.)*
-
-| pona `[pona]`             | tawa `[tawa]`             | sona `[sona]`             | kama `[kama]`             |
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-| toki-pona `[toki bona]`   | tomo-tawa `[tomo dawa]`   | jan-sona `[jan zona]`     | ilo-kute `[ilo gute]`     |
-
-kalama "p" en kalama "s" en kalama "k" li ken kama `[f]`/`[v]` anu `[ʃ]`/`[ʒ]` anu `[x]`/`[ɣ]`.
-*(La sonoj de "p", "s", "k" povas fariĝi `[f]`/`[v]`, `[ʃ]`/`[ʒ]`, `[x]`/`[ɣ]`.)*
-
-| pini `[fini]`             | sina `[ʃina]`             | kili `[xili]`             |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-| tenpo-pini `[tempo vini]` | nimi-sina `[nimi ʒina]`   | telo-kili `[telo ɣili]`   |
-
-
-### nimi namako
-*(Kromaj Vortoj)*
-
 pu la nimi "alasa" en nimi "esun" en nimi "pan" en nimi "pu" li lon li jo e sitelen pona.
 *(Laŭ la oficiala libro de Tokipono, "alasa", "esun", "pan" kaj "pu" ekzistas kaj havas hieroglifon.)*
 
