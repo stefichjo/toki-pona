@@ -62,15 +62,15 @@ nimi pi "ni" lon sinpin pi kulupu pi [nimi suli](#nimi-suli) li ken weka.
  * → mi pana e moku tawa jan ***pi ona li kama lon tomo mi***.
  * → mi pana e moku tawa jan ***pi li kama lon tomo mi***.
  * → mi pana e moku tawa jan ***pi kama lon tomo mi***.
-* mi pana e moku tawa jan kama lon tomo mi. *(Mi donis manĝon al la aperanta persono en mia domo.)*
+* mi pana e moku tawa jan kama lon tomo mi. *(Mi donis manĝon al la aperinta persono en mia domo.)*
 
 ### toki monsuta
 *(Monstra Lingvaĵo)*
 
-[nimi monsi](#nimi-monsi) li lon sinpin pi kulupu pi [nimi monsi](#nimi-monsi) ante.
-*(Modifilo estas antaŭ alia modifa frazero.)*
+[nimi monsi](#nimi-monsi) li ken lon monsi pi kulupu pi [nimi monsi](#nimi-monsi).
+*(Modifilo povas esti malantaŭ modifa frazero.)*
 
-* tomo **pi telo-nasa**, ~~pona~~ → tomo-pona **pi telo-nasa** *(bona trinkejo)*
+* tomo ***pona*** pi telo nasa → tomo pi telo nasa, ***pona*** *(bona trinkejo)*
 
 [nimi monsi](#nimi-monsi) li lon sinpin pi kulupu pi [nimi monsi palisa](#nimi-monsi-palisa).
 *(Modifilo estas antaŭ prepozicia frazero.)*
