@@ -114,9 +114,9 @@ nimi kalama li ken kama [nimi ijo](#nimi-ijo).
 *(Prepozicio povas fariĝi helpa verbo.)*
 
 * tenpo kama la mi moku. *(Mi manĝos.)*
- * → mi ***tawa.***moku. *(Mi estas manĝonta.)*
+ * → mi ***tawa*** moku. *(Mi estas manĝonta.)*
 * tenpo pini la mi moku. *(Mi manĝis.)*
- * → mi ***tan.***moku. *(Mi estas manĝinta.)*
+ * → mi ***tan*** moku. *(Mi estas manĝinta.)*
 
 ## nimi ilo
 *(Partikuloj)*
