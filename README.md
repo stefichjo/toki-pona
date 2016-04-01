@@ -88,13 +88,12 @@ kulupu pi [nimi monsi](#nimi-monsi) en kulupu pi [nimi "e"](#nimi-e) li ken mons
  * → ona li tawa ma tomo Lantan - ***ala***.
 
 ### toki mu
-*(Slanga Lingvaĵo)*
+*(Bleka Lingvaĵo)*
 
-nimi lon monsi pi [nimi lawa weka "ma"](#nimi-lawa-weka-ma) li ken ala kama [nimi monsi palisa](#nimi-monsi-palisa).
-*(Loka substantivo ne povas fariĝi prepozicio.)*
+nimi lon monsi pi [nimi lawa weka "ma"](#nimi-lawa-weka-ma) li ken kama [nimi monsi palisa](#nimi-monsi-palisa).
+*(Loka substantivo povas fariĝi prepozicio.)*
 
-* waso li tawa ~~**sewi**~~ tomo-sona. → waso li tawa lon **sewi** pi tomo-sona. *(Birdo flugas super la lernejo.)*
-* mi tawa ~~**poka**~~ jan-pona. → mi tawa lon **poka** pi jan-pona. *(Mi vojaĝas kun amiko.)*
+* waso li tawa lon kon ***lon sewi pi*** tomo sona. → waso li tawa lon kon ***sewi*** tomo sona. *(Birdo flugas super la lernejo.)*
 
 nimi kalama li ken ala kama [nimi ijo](#nimi-ijo).
 *(Sonimito ne povas fariĝi radika vorto.)*
