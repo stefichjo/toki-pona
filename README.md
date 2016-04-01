@@ -33,11 +33,6 @@ taso tenpo mute la pu taso la jan ken ala kama sona e ale pi toki pona. lipu ni 
 ## toki namako
 *(Kroma Lingvaĵo)*
 
-pu la nimi "ala" li ken lon insa pi [nimi suli](#nimi-suli) sama tu. ni li nasin-ante pi nimi "anu seme".
-*(Laŭ la oficiala libro de Tokipono, "ala" povas esti inter du samaj verboj. Tio estas alternativo de "anu seme".)*
-
-* ona li tawa ma-tomo Lantan **anu seme**? → ona li **tawa ala tawa** ma-tomo Lantan? *(Ĉu ŝi iras al Londono?)*
-
 ### kalama namako
 *(Kromaj Sonoj)*
 
@@ -719,6 +714,10 @@ kulupu pi [nimi suli](#nimi-suli) li jo e nimi "seme", la sitelen "seme" li lon 
 *(Se la frazo enhavas la vorton "seme", sekvas demandosigno.)*
 
 * ***seme*** li sin***?*** *(Kio estas nova?)*
+
+nimi "anu seme" li ken kama nimi "ala" en [nimi suli](#nimi-suli) sin. *("anu seme" povas fariĝi "ala" kaj denova verbo.)*
+
+* ona li mama ***anu seme?*** → ona li ***mama ala mama?*** *(Ĉu ŝi estas gepatro?)*
 
 kulupu pi [nimi suli](#nimi-suli) li jo e nimi "a" anu "o", la sitelen "a anu o" li lon monsi.
 *(Se la frazo enhavas la vorton "a" aŭ "o", sekvas krisigno.)*
