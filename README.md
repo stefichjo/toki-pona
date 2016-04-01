@@ -33,20 +33,13 @@ taso tenpo mute la pu taso la jan ken ala kama sona e ale pi toki pona. lipu ni 
 ## toki namako
 *(Kroma Lingvaĵo)*
 
-pu la nimi "ali" en nimi "namako" en nimi "kin" en nimi "oko" li nasin ante pi nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin".
-*(Laŭ la oficiala libro de Tokipono, "ali", "kin" kaj "oko" estas sinonimoj de "ale", "a" kaj "lukin".)*
+nimi "ale" en "nimi "sin" en nimi "a" en nimi "lukin" li jo e nimi pi kon sama.
+*("ale, "sin", "a" kaj "lukin" havas sinonimojn.)*
 
-* **ale** li pona. → **ali** li pona. *(Ĉio estas bona.)*
-* kule-**sin** → kule-**namako** *(aldona koloro → ŝminko)*
-* sina pona-lukin **a**. → sina pona-lukin **kin**. *(Vi belas ja. → Vi belas eĉ.)*
-* ijo li lon **lukin**-mi. → ijo li lon **oko**-mi. *(Io estas en mia okulo.)*
-
-pu la nimi namako ante li lon ala.
-*(Laŭ la oficiala libro de Tokipono, aliaj neologismoj ne ekzistas.)*
-
-* **anpa-lukin** → ~~**apeja**~~ *(malalta por vidi → maldigna, fia)*
-* **jan-akesi** → ~~**monsuta**~~ *(maliculo → monstro)*
-* insa pi **wan** pi ijo-**tu** → ~~**kipisi**~~ *(inter du pecoj → tranĉo)*
+* ***ale*** → ***ali*** *(ĉio)*
+* ***sin*** → ***namako*** *(aldona)*
+* ***a*** → ***kin***. *(ja)*
+* ***lukin*** → ***oko*** *(vidi, okulo)*
 
 ## toki musi
 *(Luda Lingvaĵo)*
