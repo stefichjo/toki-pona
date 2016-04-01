@@ -38,17 +38,8 @@ nimi "ale" en "nimi "sin" en nimi "a" en nimi "lukin" li jo e nimi pi kon sama.
 
 * ***ale*** → ***ali*** *(ĉio)*
 * ***sin*** → ***namako*** *(aldona)*
-* ***a*** → ***kin***. *(ja)*
+* ***a*** → ***kin*** *(ja)*
 * ***lukin*** → ***oko*** *(vidi, okulo)*
-
-## toki musi
-*(Luda Lingvaĵo)*
-
-...
-*(...)*
-
-* ale li pona pi **nanpa-sinpin**-ni. *(Ĉio estas pli bona ol tio.)* `Ü`
-* ale li pona pi **nanpa-monsi**-ni. *(Ĉio estas malpli bona ol tio.)* `Ü`
 
 ## toki ike
 *(Evitindaj Lingvaĵoj)*
