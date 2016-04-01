@@ -33,7 +33,7 @@ taso tenpo mute la pu taso la jan ken ala kama sona e ale pi toki pona. lipu ni 
 ## toki namako
 *(Kroma Lingvaĵo)*
 
-nimi "ale" en "nimi "sin" en nimi "a" en nimi "lukin" li jo e nimi pi kon sama.
+nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin" li jo e nimi pi kon sama.
 *("ale, "sin", "a" kaj "lukin" havas sinonimojn.)*
 
 * ***ale*** → ***ali*** *(ĉio)*
@@ -44,14 +44,10 @@ nimi "ale" en "nimi "sin" en nimi "a" en nimi "lukin" li jo e nimi pi kon sama.
 ## toki ike
 *(Evitindaj Lingvaĵoj)*
 
-jan li toki pakala lon toki pona li pu ala la ni li **toki ike**.
-*(Se iu misparolas en Tokipono sen interagi kun la oficiala libro de Tokipono, tio estas evitinda lingvaĵo.)*
+jan li toki pakala la, ona li kepeken **toki ike**. jan nasa li wile ante e toki pona, la ona li kepeken **toki apeja**.
+*(Se oni misparolas Tokiponon, oni parolas evitinde. Tokiponidisto parolas slange.)*
 
-### toki apeja
-*(Skisma Lingvaĵo)*
-
-jan li toki ike li wile ante e toki pona, la ni li **toki apeja**.
-*(Se iu parolas evitinde por ŝanĝi Tokiponon, tio estas skisma lingvaĵo.)*
+* ona li ***apeja***. *(Ĝi estas malmojosa.)*
 
 ### toki kipisi
 *(Kripla Lingvaĵo)*
