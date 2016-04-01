@@ -104,7 +104,8 @@ nimi lon monsi pi [nimi lawa weka "ma"](#nimi-lawa-weka-ma) li ken kama [nimi mo
 nimi kalama li ken kama [nimi ijo](#nimi-ijo).
 *(Sonimito povas fariĝi radika vorto.)*
 
-* soweli li toki e ni: ***"mu"*** → soweli li ***mu***. *(La kato miaŭas.)*
+* soweli li toki e ni: ***"mu"*** *(La kato miaŭas.)*
+ * → soweli li ***mu***.
 * ona ***sama*** li kalama musi. *(Ŝi same aŭskultas muzikon.)*
  * → ona a li kalama musi. *(Eĉ/Ankaŭ ŝi aŭskultas muzikon.)*
  * → ona ***sama*** li kalama musi. *(Ŝi mem aŭskultas muzikon.)*
