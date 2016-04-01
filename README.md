@@ -28,7 +28,7 @@ taso tenpo mute la pu taso la jan ken ala kama sona e ale pi toki pona. lipu ni 
 *(Kiam netransitiva verbo fariĝas transitiva, helpa verbo antaŭ ĝi malaperas.)*
 
 * sijelo meli li ***kama pona***. *(La sano de la virino boniĝis.)*
-* sina ***~~kama~~ pona*** e ona. *(Vi ~~boniĝigis~~ ĝin.)* → sina ***pona*** e ona. *(Vi bonigis ĝin.)* `Ü`
+* telo li ***~~kama~~ wawa*** e mi. *(Akvo ~~fortiĝigas~~ min.)* → telo li ***wawa*** e mi. *(Akvo fortigas min.)*
 
 ## toki namako
 *(Kroma Lingvaĵo)*
