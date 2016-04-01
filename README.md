@@ -738,4 +738,3 @@ lipu ni la [nimi monsi](#nimi-monsi) li ken jo e sitelen "pi". kepeken nasin ni 
 lipu ni la [nimi suli sinpin](#nimi-suli-sinpin) li ken jo e sitelen "en". kepeken nasin ni la ona li pona lukin e ante pi ona sama.
 
 * mije wawa li lukin+jo e meli pona. *(La forta viro serĉas bonan virinon.)*
-
