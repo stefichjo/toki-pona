@@ -182,30 +182,11 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi palisa](#nimi-monsi-palisa
 * meli lili li kute ***ike*** e mama. *(La knabinoj misaŭdis la gepatron.)*
 * ~~ijo~~ ***kiwen*** → ***kiwen*** *(malmolaĵo, metalo, ŝtono)*
 
-#### nimi monsi palisa
-*(Prepozicioj)*
-
-kulupu pi **nimi monsi palisa** li jo e **nimi monsi palisa** e nimi lon monsi.
-*(Prepozicia frazero havas prepozicion kaj vorton malantaŭe.)*
+**nimi monsi palisa** li **nimi monsi** lon sinpin pi [nimi lawa](#nimi-lawa). **nimi monsi palisa** li ken ala jo e **nimi monsi**. taso ona li ken kama **nimi monsi** taso.
+*(Prepozicio estas modifilo kun objekto. Prepozicio ne povas havi modifilon, sed ĝi povas fariĝi nura modifilo.)*
 
 * ona li **tawa** tomo. *(Ŝi iras hejmen.)*
-
-**nimi monsi palisa** li ken kama [nimi monsi](#nimi-monsi)-taso.
-*(Prepozicio povas fariĝi nura modifilo.)*
-
 * ona li **tawa**. *(Ŝi iras.)*
-
-kon pi nimi "tawa" li ken kon pi nimi "pana e pilin" sin.
-*(La signifo de "tawa" ankaŭ povas esti "impresi".)*
-
-* sina pona **tawa** mi. *(Mi ŝatas vin. ← Vi plaĉas al mi. ← Mi havas la impreson, ke vi estas bona.)*
-
-___
-* kepeken *(per)*
-* lon *(ĉe, en, ĉeesta)*
-* sama *(kiel, kvazaŭ, sama)*
-* tan *(vena, de, pro, ĉar)*
-* tawa *(ira, al, por, laŭ)*
 
 ### nimi lawa
 *(Substantivoj)*
