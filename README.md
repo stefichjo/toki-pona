@@ -403,7 +403,7 @@ ___
 ## nimi ilo
 *(Partikuloj)*
 
-nimi ilo "anu" li lon insa pi [nimi ijo](#nimi-ijo) tu anu kulupu pi [nimi suli](#nimi-suli) tu pi ijo ken tu.
+**nimi ilo "anu"** li lon insa pi [nimi ijo](#nimi-ijo) tu anu kulupu tu pi [nimi suli](#nimi-suli) pi ijo ken tu.
 *(La partikuloj "anu" estas inter du radikaj vortoj aŭ du frazoj pri du eblaĵoj.)*
 
 * mi kute e mije ***anu*** meli. *(Mi aŭdas viron aŭ virinon.)*
