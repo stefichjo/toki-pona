@@ -176,36 +176,11 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi palisa](#nimi-monsi-palisa
 ### nimi monsi
 *(Modifiloj)*
 
-**nimi monsi** li nimi lon monsi pi [nimi lawa](#nimi-lawa) anu [nimi suli](#nimi-lawa). [nimi ijo](#nimi-ijo) ale li ken kama **nimi monsi**.
-*(Modifilo estas aŭ adjektivo aŭ adverbo. Ĉiu radika vorto povas fariĝi modifilo.)*
+**nimi monsi** li nimi lon monsi pi [nimi lawa](#nimi-lawa) anu [nimi suli](#nimi-ilo). [nimi ijo](#nimi-ijo) mute li **nimi monsi**. taso **nimi monsi** li ken kama [nimi lawa](#nimi-lawa).
+*(Modifilo estas aŭ adjektivo aŭ adverbo. Multaj radikaj vortoj estas modifilo. Sed modifilo povas fariĝi substantivo.)*
 
-* mi lukin-**pona**. *(Mi bone vidas.)*
-
-**nimi monsi** ale li ken kama [nimi lawa](#nimi-lawa).
-*(Ĉiu modifilo povas fariĝi substantivo.)*
-
-* pona *(bona ←→ bono)*
-
-___
-* ante *(diversa)*
-* ike *(malbona)*
-* jaki *(malpura)*
-* kalama *(sona)*
-* lape *(dorma)*
-* lawa *(supra)* → [[lawa e]](#nimi-suli-palisa)
-* lete *(malvarma)*
-* lili *(malgranda, eta)*
-* moli *(malviva)*
-* musi *(distriĝa, amuziĝa)*
-* nasa *(stranga, malkutima, freneza)*
-* pakala *(aĉa)*
-* pini *(eksa)*
-* pona *(bona, simpla, harmonia)*
-* pu *(tokiponumanta)*
-* sin *(aldona)*
-* suli *(granda)*
-* tenpo *(daŭra)*
-* wawa *(forta, energia)*
+* meli lili li kute ***ike*** e mama. *(La knabinoj misaŭdis la gepatron.)*
+* ~~ijo~~ ***kiwen*** → ***kiwen*** *(malmolaĵo, metalo, ŝtono)*
 
 #### nimi monsi palisa
 *(Prepozicioj)*
