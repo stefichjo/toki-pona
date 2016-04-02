@@ -199,7 +199,7 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi palisa](#nimi-monsi) "tawa
 ## nimi ilo
 *(Partikuloj)*
 
-**nimi ilo** "anu" en nimi ilo "en" li lon insa pi [nimi ijo](#nimi-ijo) tu anu kulupu tu pi [nimi suli](#nimi-ilo) pi ijo ken tu.
+**nimi ilo** "anu" en nimi ilo "en" li lon insa pi [nimi ijo](#nimi-ijo) tu anu kulupu tu pi **nimi suli** pi ijo ken tu.
 *(La partikuloj "anu" kaj "en" estas inter du radikaj vortoj aŭ du frazoj pri du eblaĵoj aŭ efektivaĵoj.)*
 
 * mi kute e mije ***anu*** meli. *(Mi aŭdas viron aŭ virinon.)*
@@ -207,19 +207,19 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi palisa](#nimi-monsi) "tawa
 * sina **en** mi li anpa tawa sewi. *(Vi kaj mi estas malsuperaj laŭ Dio.)*
  * → sina anpa tawa sewi ***en*** mi anpa tawa sewi. `Ü`
 
-**nimi ilo** "e" li lon monsi pi [nimi suli](#nimi-ilo) palisa. **nimi ilo** "li" li lon insa pi kulupu pi [nimi suli](#nimi-ilo) en [nimi lawa](#nimi-lawa) ona. insa pi kulupu pi **nimi suli** anu **nimi ilo** "e" la **nimi ilo** "en" li ken ala lon.
+**nimi ilo** "e" li lon monsi pi **nimi suli** palisa. **nimi ilo** "li" li lon insa pi kulupu pi **nimi suli** en [nimi lawa](#nimi-lawa) ona. insa pi kulupu pi **nimi suli** anu **nimi ilo** "e" la **nimi ilo** "en" li ken ala lon.
 *(La partikulo "e" estas malantaŭ transitiva verbo. La partikulo "li" estas inter predikato kaj ĝia subjekto. En predikato aŭ rekta objekto ne povas esti la partikulo "en".)*
 
 * mi moku ***e*** telo. *(Mi trinkas akvon.)*
 * jan sona ***li*** pu. *(La instruistoj konsultas la oficialan libron de Tokipono.)*
 * ona li moku e telo ***~~en~~*** pan ***~~en~~*** toki. → ona li moku e telo e pan li toki. *(Ŝi trinkas la akvon, manĝas la panon kaj parolas.)*
 
-kepeken **nimi ilo** "la" la kulupu pi [nimi monsi palisa](#nimi-monsi) li ken kama lon sinpin pi [nimi lawa](#nimi-lawa) pi kulupu pi [nimi suli](#nimi-ilo).
+kepeken **nimi ilo** "la" la kulupu pi [nimi monsi palisa](#nimi-monsi) li ken kama lon sinpin pi [nimi lawa](#nimi-lawa) pi kulupu pi **nimi suli**.
 *(Per la partikulo "la", prepozicia frazero povas aperi antaŭ la subjekto.)*
 
 * ni li pona tawa mi. *(Mi ŝatas ĝin.)* → tawa mi la ni li pona. *(Al mi ĝi plaĉas.)*
 
-**nimi ilo** "o" li sama **nimi ilo** "li". taso kulupu pi [nimi suli](#nimi-ilo) lon monsi pi **nimi ilo** "o" li wile pi jan toki.
+**nimi ilo** "o" li sama **nimi ilo** "li". taso kulupu pi **nimi suli** lon monsi pi **nimi ilo** "o" li wile pi jan toki.
 *(La partikulo "o" similas al la partikulo "li". Sed la predikato malantaŭ la partikulo "o" estas deziro de la parolanto.)*
 
 * mi ***o*** moku e ijo pona. *(Mi manĝu bonaĵojn.)*
