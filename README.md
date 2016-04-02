@@ -694,4 +694,4 @@ lipu ni la [nimi suli sinpin](#nimi-suli-sinpin) li ken jo e sitelen "en". kepek
 *(En ĉi tiu libro, helpa verbo povas havi plus-signon por distingi sin.)*
 
 * mije wawa li ***lukin+***jo e meli pona. *(La forta viro serĉas bonan virinon.)*
-* mi lukin pona e sitelen. *(Mi bone legas.)* `Ü`
+* mi lukin***-pona*** e sitelen. *(Mi bone legas.)* `Ü`
