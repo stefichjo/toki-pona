@@ -14,6 +14,17 @@ taso jan pi pu taso li ken ala kama sona e ale pi toki pona. lipu ni li lukin pa
 ## toki open
 *(Klara Lingvaĵo)*
 
+nimi lon sinpin pi [nimi "li"](#nimi-li) li nimi "mi" taso anu nimi "sina" taso, la [nimi "li"](#nimi-li) li kama weka.
+*(Se la subjekto estas nura "mi" aŭ nura "sina", "li" malaperas.)*
+
+* mi ***~~li~~*** mije. → mi mije. *(Mi estas viro.)*
+* sina ***~~li~~*** sin. → sina sin. *(Vi estas nova.)*
+
+sinpin pi [nimi lawa](#nimi-lawa) taso la [nimi "pi"](#nimi-pi) li kama weka. nasin ni la [nimi lawa](#nimi-lawa) ni li kama [nimi monsi](#nimi-monsi).
+*(Antaŭ nura substantivo, la partikulo "pi" malaperas. Tiel tiu substantivo fariĝas modifilo.)*
+
+* toki ***~~pi~~*** pona *(lingvo de bono)* → toki pona *(bona lingvo)*
+
 [nimi lawa](#nimi-lawa) "[ijo](#nimi-lawa-weka-ijo)" (en nimi ante) lon sinpin pi [nimi monsi](#nimi-monsi) mute li kama weka. [nimi lawa weka](#nimi-lawa-weka) ni li kama [nimi monsi](#nimi-monsi), la ona li kama lon sin.
 *(La substantivo "ijo" (kaj aliaj) malaperas antaŭ multaj modifiloj. Kiam tia manka substantivo fariĝas modifilo, ĝi reaperas.)*
 
@@ -25,6 +36,12 @@ taso jan pi pu taso li ken ala kama sona e ale pi toki pona. lipu ni li lukin pa
 
 * sijelo meli li ***kama pona***. *(La sano de la virino boniĝis.)*
 * telo li ***~~kama~~ wawa*** e mi. *(Akvo ~~fortiĝigas~~ min.)* → telo li ***wawa*** e mi. *(Akvo fortigas min.)*
+
+kulupu pi [nimi "la"](nimi-la) la [nimi monsi palisa](#nimi-monsi-palisa) "lon" (en nimi "ni") li kama weka. monsi pi nimi "taso" la [nimi "la"](#nimi-la) li kama weka. " *(En helpa frazero, la prepozicio "lon" (kaj "ni") malaperas. Post "taso" malaperas "la".)*
+
+* ***~~lon~~*** kulupu la mi wawa. *(En grupo ni estas fortaj.)*
+* ***~~lon ni,~~*** mi pona tawa jan, la jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi.)*
+* taso ***~~la~~*** mije en meli li pali li pilin pona. → taso mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj.)*
 
 ## toki namako
 *(Kroma Lingvaĵo)*
@@ -551,12 +568,6 @@ kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi nimi lon monsi
 
 * ona **li** toki. *(Ŝi parolas.)*
 
-**nimi lon sinpin pi nimi "li"** li nimi "mi" anu nimi "sina", la **nimi "li"** li weka.
-*(Se la subjekto estas "mi" aŭ "sina", "li" mankas.)*
-
-* mi ~~**li**~~ toki. → mi toki. *(Mi parolas.)*
-* sina ~~**li**~~ toki. → sina toki. *(Vi parolas.)*
-
 #### nimi suli 
 *(La Verbo/Predikato)*
 
@@ -608,11 +619,6 @@ nimi "o lon" li ken weka.
 
 * nimi **pi** jan-pona *(nomo de amiko)*
 * tomo-tawa **pi** jan-pona *(aŭto de amiko)*
-
-sinpin pi [nimi lawa](#nimi-lawa) pi wan taso la **nimi "pi"** li weka. nasin ni la [nimi lawa](#nimi-lawa) ni li kama [nimi monsi](#nimi-monsi).
-*(Antaŭ nur unu substantivo, la partikulo "pi" mankas. Tiel, tiu substantivo fariĝas modifilo.)*
-
-* jan ~~**pi**~~ pona → jan-pona *("persono de bono" → amiko)*
 
 ## sitelen lon insa nimi
 *(Interpunkcio)*
