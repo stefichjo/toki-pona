@@ -20,7 +20,7 @@ nimi lon sinpin pi [nimi "li"](#nimi-li) li nimi "mi" taso anu nimi "sina" taso,
 * mi ***~~li~~*** mije. → mi mije. *(Mi estas viro.)*
 * sina ***~~li~~*** sin. → sina sin. *(Vi estas nova.)*
 
-nimi lon sinpin pi [nimi "li"(#nimi-li) li ken kama weka. nasin ni la jan ken toki sin kepeken tenpo lili.
+nimi lon sinpin pi [nimi "li"](#nimi-li) li ken kama weka. nasin ni la jan ken toki sin kepeken tenpo lili.
 *(La subjekto povas malaperi por respondi rapide.)*
 
 * ~~ni li~~ ***pona***. *(Tio estas bona.)* → ***pona***. *(Dankon.)*
@@ -37,6 +37,12 @@ sinpin pi [nimi lawa](#nimi-lawa) taso la [nimi "pi"](#nimi-pi) li kama weka. na
 
 * ***~~ijo~~*** ale *(ĉiu aĵo, ĉio)*
 * mama ***~~ale~~*** *(ĉiu gepatro)* → mama pi ***ijo ale*** *(gepatro de ĉio)*
+
+kulupu pi [nimi ilo "e"](#nimi-ilo) li nimi "ijo", la ona li ken kama weka. nimi "ijo" lon sinpin pi [nimi suli](#nimi-suli) palisa li jo e kon sama pi kulupu pi [nimi ilo "e"](#nimi-ilo). taso ona li kama weka.
+*(Se la rekta objekto estas "ijo", ĝi povas malaperi. "ijo" antaŭ transitiva verbo havas la saman signifon kiel la rekta objekto, sed ĝi malaperas.)*
+
+* mije li sona ***e ijo***. *(La viro scias aferojn.)* → mije li sona. *(La viro scias.)*
+* ***~~ijo~~*** toki *(parolaĵo)* → toki *(lingvo)*
 
 [nimi suli pi palisa ala](#nimi-suli-pi-palisa-ala) li kama [nimi suli palisa](#nimi-suli-palisa), la [nimi suli sinpin](#nimi-suli-sinpin) lon sinpin ona li kama weka.
 *(Kiam netransitiva verbo fariĝas transitiva, helpa verbo antaŭ ĝi malaperas.)*
@@ -411,30 +417,18 @@ ___
 *(Partikuloj)*
 
 **nimi ilo "anu"** li lon insa pi [nimi ijo](#nimi-ijo) tu anu kulupu tu pi [nimi suli](#nimi-suli) pi ijo ken tu.
-*(La partikuloj "anu" estas inter du radikaj vortoj aŭ du frazoj pri du eblaĵoj.)*
+*(La partikulo "anu" estas inter du radikaj vortoj aŭ du frazoj pri du eblaĵoj.)*
 
 * mi kute e mije ***anu*** meli. *(Mi aŭdas viron aŭ virinon.)*
 * ona li awen ***anu*** ona li weka. *(Ŝi restas aŭ forestas.)* `Ü`
 
-### nimi "e"
-*(La Partikulo "e")*
+**nimi ilo "e"** li lon monsi pi [nimi suli](#nimi-suli) palisa.
+*(La partikulo "e" estas malantaŭ transitiva verbo.)*
 
-#### nimi suli palisa
-*(Transitivaj Verboj)*
+* mi moku ***e*** telo. *(Mi trinkas akvon.)*
 
-**nimi suli palisa** li jo e kulupu pi [nimi "e"](#nimi-e). jan li weka e kulupu pi [nimi "e"](#nimi-e), la kon pi **nimi suli palisa** li awen sama.
-*(Transitiva verbo havas rektan objekton. Kiam oni mankigas la rektan objekton, la signifo de la transitiva verbo restas sama.)*
 
-* mi **moku e ijo**. → mi **moku**. *(Mi manĝas ion. → Mi manĝas.)*
-* mi **lukin-pona e sitelen**. → mi **lukin-pona**. *(Mi bone vidas la signojn. → Mi bone vidas.)*
-* mi **toki e ijo**. → mi **toki**. *(Mi diras ion. → Mi parolas.)*
 
-monsi pi **nimi suli palisa** ale la [nimi lawa](#nimi-lawa) "ijo" li ken [weka](#nimi-lawa-weka-ijo). taso kon pi [nimi lawa](#nimi-lawa) sin ni li sama ijo pi kulupu pi **nimi "e"** lon monsi pi **nimi suli palisa**.
-*(Antaŭ ĉiu transitiva verbo, la substantivo "ijo" povas manki. Sed la signifo de tiu nova substantivo estas kiel de la rekta objekto de la transitiva verbo.)*
-
-* ~~ijo~~-nasin *(sistemo, funkcio, rolo, kvalito, maniero, vojo, direkto ← direktaĵo)* `Ü`
-* ~~ijo~~-nimi *(nomo, vorto, termino, esprimo, signifo ← esprimaĵo, signifaĵo)* `Ü`
-* ~~ijo~~-sitelen *(desegno ← desegnaĵo)*
 
 ___
 * alasa e *(ĉasanta)*
