@@ -44,11 +44,17 @@ kulupu pi [nimi ilo "e"](#nimi-ilo) li nimi "ijo", la ona li ken kama weka. nimi
 * mije li sona ***e ijo***. *(La viro scias aferojn.)* → mije li sona. *(La viro scias.)*
 * ***~~ijo~~*** toki *(parolaĵo)* → toki *(lingvo)*
 
-[nimi suli pi palisa ala](#nimi-suli-pi-palisa-ala) li kama [nimi suli palisa](#nimi-suli-palisa), la [nimi suli sinpin](#nimi-suli-sinpin) lon sinpin ona li kama weka.
-*(Kiam netransitiva verbo fariĝas transitiva, helpa verbo antaŭ ĝi malaperas.)*
+[nimi suli](#nimi-suli) pi palisa ala li ken kama [nimi suli](#nimi-suli) palisa. tenpo ni la [nimi suli](#nimi-suli) lon sinpin ona li kama weka.
+*(Netransitiva verbo povas fariĝi transitiva. Tiam helpa verbo malaperas.)*
 
-* sijelo meli li ***kama pona***. *(La sano de la virino boniĝis.)*
-* telo li ***~~kama~~ wawa*** e mi. *(Akvo ~~fortiĝigas~~ min.)* → telo li ***wawa*** e mi. *(Akvo fortigas min.)*
+* telo li ***~~ijo e ni:~~*** mi ***~~kama~~*** wawa. *(Akvo igas, ke mi fortiĝas.)* → telo li wawa ***e*** mi. *(Akvo fortigas min.)*
+
+nimi lon sinpin pi nimi "li" pi kulupu tu pi [nimi suli](#nimi-suli) li sama, ona tu li ken kama wan lon ni: [nimi suli](#nimi-suli) pi nanpa wan li "[nimi suli](#nimi-suli) sinpin". [nimi suli](#nimi-suli) sinpin "ken" li kama weka lon monsi pi [nimi suli](#nimi-suli) sinpin "sona".
+*(Se la subjektoj de du frazoj estas samaj, ili povas unuiĝi, se la unua verbo estas "helpa verbo". La helpa verbo "ken" malaperas malantaŭ la helpa verbo "sona". La helpa verbo "wile" malaperas antaŭ la helpa verbo "lukin".)*
+
+* mi ***wile ~~e ni: mi~~*** lon ma mama mi. → mi ***wile+***lon ma mama mi. *(Mi volas esti en mia patrujo.)*
+* jan mute li ***sona ala ~~e nasin pi ni: ona li ken+*** tawa lon telo ~~kepeken ona~~. *(Multaj homoj ne scias kiel ili povas moviĝi en akvo.)* → jan mute li ***sona-ala+***tawa lon telo. *(Multaj ne scipovas naĝi.)*
+* mije wawa li ***~~wile~~ lukin ~~e ni: ona li~~*** jo e meli pona. → mije wawa li ***lukin+***jo e meli pona. *(La forta viro serĉas bonan virinon.)*
 
 kulupu pi [nimi "la"](nimi-la) la [nimi monsi palisa](#nimi-monsi-palisa) "lon" (en nimi "ni") li kama weka. monsi pi nimi "taso" la [nimi "la"](#nimi-la) li kama weka. " *(En helpa frazero, la prepozicio "lon" (kaj "ni") malaperas. Post "taso" malaperas "la".)*
 
@@ -148,6 +154,16 @@ nimi kalama li ken kama [nimi ijo](#nimi-ijo).
  * → mi ***tawa*** moku. *(Mi estas manĝonta.)*
 * tenpo pini la mi moku. *(Mi manĝis.)*
  * → mi ***tan*** moku. *(Mi estas manĝinta.)*
+
+monsi pi [nimi suli](#nimi-suli) palisa la [nimi monsi palisa](#nimi-monsi-palisa) "tawa" li ken kama [nimi ilo](#nimi-ilo).
+*(Malantaŭ transitivaj verboj la prepozicio "tawa" povas fariĝi partikulo.)*
+
+* mi ***lukin*** lukin ***e*** sina. → mi lukin ***tawa*** sina. *(Mi provas vidi vin.)*
+
+jan wile ala kepeken nimi "wile" lon sinpin pi [nimi suli palisa](#nimi-suli-palisa) "lukin e", la ona li ken kepeken nimi "lukin tawa".
+*(Por eviti "wile" antaŭ la transitiva verbo "lukin e", oni povas uzi "lukin tawa".)*
+
+* mi **lukin tawa** sina. ← mi **wile+lukin** e sina. ← mi **wile** e ni: mi **lukin** e sina. *(Mi serĉas vin. ← Mi rigardas por vi. ← Mi volas vidi vin.)* `Ü`
 
 ## nimi ijo
 *(Radikaj Vortoj)*
@@ -413,6 +429,7 @@ ___
 * ni *(tiu)*
 * seme *(kiu)*
 
+
 ## nimi ilo
 *(Partikuloj)*
 
@@ -428,80 +445,6 @@ ___
 * mi moku ***e*** telo. *(Mi trinkas akvon.)*
 
 
-
-
-___
-* alasa e *(ĉasanta)*
-* esun e *(interŝanĝanta)* [[~~mute pi ijo sike pi ma~~ esun]](#nimi-lawa-weka-mute) [[~~sike pi ma~~ esun]](#nimi-lawa-weka-sike) [[~~ma~~ esun]](#nimi-lawa-weka-ma)
-* jo e *(havanta)*
-* kute e *(aŭdanta, aŭskultanta)*
-* lawa e *(gvidanta)* → [[lawa]](#nimi-monsi)
-* lukin e *(vidanta, rigardanta)*
-* mama e *(kreanta, naskanta, kreskiganta)*
-* moku e *(manĝanta)*
-* nanpa e *(kalkulanta, nombranta, numeranta, indicanta, rangiganta, posteniganta)* `Ü`
-* nasin e *(direktanta)* `Ü`
-* nimi e *(esprimanta, signifanta)* `Ü`
-* olin e *(amanta)*
-* pali e *(laboranta, faranta)*
-* pan e *(rakoltanta)* `Ü`
-* pana e *(donanta)*
-* pilin e *(sentanta)*
-* sitelen e *(pentranta, desegnanta)*
-* sona e *(scianta, konanta)*
-* toki e *(diranta, komunikanta)*
-* unpa e *(seksumanta)*
-* utala e *(konfliktanta, batalanta)*
-
-#### nimi suli pi palisa ala
-*(Netransitivaj Verboj)*
-
-**nimi suli pi palisa ala** li jo ala e kulupu pi **nimi "e"**. jan li poka e kulupu pi [nimi "e"](#nimi-e), la kon pi **nimi suli pi palisa ala** li kama ante.
-*(Netransitiva verbo ne havas rektan objekton. Kiam oni aldonas rektan objekton, la signifo de la netransitiva verbo ŝanĝiĝas.)*
-
-* mi pali **e** ni: **sina lape**. → mi **lape e sina**. *(Mi faras, ke vi dormas. → Mi dormigas vin.)*
-* mi pali **e** ni: **luka** li **telo**. → mi **telo e luka**. *(Mi faras, ke la manoj malsekas. → Mi lavas la manojn.)*
-
-#### nimi suli sinpin
-*(Helpaj Verboj)*
-
-kulupu pi [nimi suli](#nimi-suli) lon monsi pi nimi "e ni" li jo e nimi sama lon sinpin pi [nimi "li"](#nimi-li), la [nimi suli](#nimi-suli) tu li ken kama wan. nasin ni la [nimi suli](#nimi-suli) pi nanpa wan li kama **nimi suli sinpin** pi [nimi suli](#nimi-suli) pi nanpa tu.
-*(Kiam subfrazo havas la saman subjekton, la du verboj povas fariĝi unu. Tiel, la unua verbo fariĝas helpa verbo de la dua verbo.)*
-
-* ona li **wile** e ni: ona li **kama** e ni: ona li **sona** e toki-pona. → ona li **wile+kama+sona** e toki-pona. *(Ŝi volas lerni Tokiponon.)*
-
-___
-* awen ~~e ni~~ *(plu- ← resta)*
-* kama ~~e ni~~ *(ek- ← iĝa)*
-* ken ~~e ni~~ *(povas ← kapabla)* `Ü`
-* pini ~~e ni~~ *(ĉesas ← eksa)* `Ü`
-* wile ~~e ni~~ *(emas, volas, devas ← nepra)* `Ü`
-
-##### nimi suli sinpin weka
-
-sinpin pi [nimi suli sinpin](#nimi-suli-sinpin) "ken" la [nimi suli](#nimi-suli) "sona" li ken [nimi suli sinpin](#nimi-suli-sinpin). taso tenpo ni la [nimi suli sinpin](#nimi-suli-sinpin) "ken" li weka.
-*(Antaŭ la helpa verbo "ken", la verbo "sona" povas esti helpa verbo. Sed tiam, la helpa verbo "ken" mankas.)*
-
-* mi **sona**+toki-pona. ← mi **sona+ken**+toki-pona. ← mi **sona** e ni: mi **ken** e ni: mi toki-pona. *(Mi scipovas paroli simple.)* `Ü`
-
-monsi pi [nimi suli sinpin](#nimi-suli-sinpin) "wile" la [nimi suli](#nimi-suli) "lukin" li ken [nimi suli sinpin](#nimi-suli-sinpin). taso tenpo ni la [nimi suli sinpin](#nimi-suli-sinpin) "wile" li weka.
-*(Malantaŭ la helpa verbo "wile", la verbo "lukin" povas esti helpa verbo. Sed tiam, la helpa verbo "wile" mankas.)*
-
-* mi **lukin**+lape-pona. ← mi **wile+lukin**+lape-pona. ← mi **wile** e ni: mi **lukin** e ni: mi lape-pona. *(Mi provas dormi bone.)* `Ü`
-
-jan wile ala kepeken nimi "wile" lon sinpin pi [nimi suli palisa](#nimi-suli-palisa) "lukin e", la ona li ken kepeken nimi "lukin tawa".
-*(Por eviti "wile" antaŭ la transitiva verbo "lukin e", oni povas uzi "lukin tawa".)*
-
-* mi **lukin tawa** sina. ← mi **wile+lukin** e sina. ← mi **wile** e ni: mi **lukin** e sina. *(Mi serĉas vin. ← Mi rigardas por vi. ← Mi volas vidi vin.)* `Ü`
-
-nimi "lukin tawa" la [nimi suli](#nimi-suli) "lukin" en [nimi monsi palisa](#nimi-monsi-palisa) "tawa" li ken kama [nimi suli sinpin](#nimi-suli-sinpin) en [nimi suli](#nimi-suli).
-*(En "lukin tawa", la verbo "lukin" kaj la prepozicio "tawa" povas fariĝi helpa verbo kaj verbo.)*
-
-* mi **lukin+tawa** sina. ← mi **lukin tawa** sina. *(Mi provas iri al vi. ← Mi serĉas vin.)* `Ü`
-
-___
-* ~~wile~~ lukin *(provas ← volas vidi, volas rigardi)*
-* sona ~~ken~~ *(scipovas, kapablas ← scias povi)*
 
 ### nimi "en"
 *(La partikulo "en")*
@@ -629,12 +572,6 @@ monsi la nimi kalama "a" li wawa e kulupu pi [nimi suli](#nimi-suli).
 
 * sina pu **a**! *(Vi estas ja interaganta kun la oficiala libro de Tokipono.)*
 
-___
-* a *(ha)*
-* mu *(miaŭ)*
-
-___
-
 ### sitelen sin lon insa nimi
 *(Aldona Interpunkcio)*
 
@@ -647,5 +584,4 @@ lipu ni la [nimi monsi](#nimi-monsi) li ken jo e sitelen "pi". kepeken nasin ni 
 lipu ni la [nimi suli sinpin](#nimi-suli-sinpin) li ken jo e sitelen "en". kepeken nasin ni la ona li pona lukin e ante ona.
 *(En ĉi tiu libro, helpa verbo povas havi plus-signon por distingi sin.)*
 
-* mije wawa li ***lukin+***jo e meli pona. *(La forta viro serĉas bonan virinon.)*
-* mi lukin***-pona*** e sitelen. *(Mi bone legas.)* `Ü`
+* mi ***kama+***sona e toki pona. *(Mi lernas Tokiponon.)*
