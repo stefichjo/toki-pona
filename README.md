@@ -182,8 +182,8 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi palisa](#nimi-monsi) "tawa
 * meli lili li kute ***ike*** e mama. *(La knabinoj misaŭdis la gepatron.)*
 * ~~ijo~~ ***kiwen*** → ***kiwen*** *(malmolaĵo, metalo, ŝtono)*
 
-**nimi monsi palisa** li **nimi monsi** lon sinpin pi [nimi lawa](#nimi-lawa). **nimi monsi palisa** li ken ala jo e **nimi monsi**. taso ona li ken kama **nimi monsi** taso.
-*(Prepozicio estas modifilo kun objekto. Prepozicio ne povas havi modifilon, sed ĝi povas fariĝi modifilo.)*
+**nimi monsi palisa** li lon sinpin pi [nimi lawa](#nimi-lawa). **nimi monsi palisa** li ken ala jo e **nimi monsi**. taso ona li ken kama **nimi monsi** taso.
+*(Prepozicio havas objekton. Prepozicio ne povas havi modifilon, sed ĝi povas fariĝi modifilo.)*
 
 * ona li **tawa** tomo. *(Ŝi iras hejmen.)*
 * ona li **tawa**. *(Ŝi iras.)*
