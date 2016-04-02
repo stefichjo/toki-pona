@@ -20,6 +20,13 @@ nimi lon sinpin pi [nimi "li"](#nimi-li) li nimi "mi" taso anu nimi "sina" taso,
 * mi ***~~li~~*** mije. → mi mije. *(Mi estas viro.)*
 * sina ***~~li~~*** sin. → sina sin. *(Vi estas nova.)*
 
+nimi lon sinpin pi [nimi "li"(#nimi-li) li ken kama weka. nasin ni la jan ken toki sin kepeken tenpo lili.
+*(La subjekto povas malaperi por respondi rapide.)*
+
+* ~~ni li~~ ***pona***. *(Tio estas bona.)* → ***pona***. *(Dankon.)*
+* ~~ona li~~ ***mama***. *(Ŝi estas gepatro.)* → ***mama***. *(Jes.)*
+ * ~~ona li ***mama***~~ ala. *(Ŝi ne estas gepatro.)* → ***ala***. *(Ne.)*
+
 sinpin pi [nimi lawa](#nimi-lawa) taso la [nimi "pi"](#nimi-pi) li kama weka. nasin ni la [nimi lawa](#nimi-lawa) ni li kama [nimi monsi](#nimi-monsi).
 *(Antaŭ nura substantivo, la partikulo "pi" malaperas. Tiel tiu substantivo fariĝas modifilo.)*
 
@@ -543,17 +550,6 @@ kulupu pi **nimi suli** la **nimi suli** li suli pi nanpa wan.
 * ona li **mama**. *(Ŝi estas gepatro.)*
 * ona li **tawa tomo**. *(Ŝi iras hejmen.)*
 * ona li **olin e sina**. *(Ŝi amas vin.)*
-
-kulupu pi **nimi suli** ken jo e **nimi suli** taso.
-*(Frazo povas konsisti nur el la verbo/predikato.)*
-
-* ni li **pona**. → **pona**. *(Tio estas bona. → Dankon.)*
-
-nasin ni la jan ken pana e sona kepeken tenpo-lili. [nimi suli](#nimi-suli) lon sinpin pi [nimi monsi](#nimi-monsi) "ala" li ken weka.
-*(Tiel, oni povas rapide respondi. La verbo antaŭ modifa "ala" povas manki.)*
-
-* ona li **kama**. → **kama**. *(Ŝi venos. → Jes.)*
-* ona li **kama-ala**. → **kama-ala**. → **ala.** *(Ŝi ne venos. → Ne.)*
 
 ### nimi "o"
 *(La partikulo "o")*
