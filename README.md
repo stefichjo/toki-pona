@@ -684,13 +684,14 @@ ___
 ### sitelen sin lon insa nimi
 *(Aldona Interpunkcio)*
 
-lipu ni la [nimi monsi](#nimi-monsi) li ken jo e sitelen "pi". kepeken nasin ni la ona li pona lukin e ante pi ona sama.
+lipu ni la [nimi monsi](#nimi-monsi) li ken jo e sitelen "pi". kepeken nasin ni la ona li pona lukin e ante ona.
 *(En ĉi tiu libro, modifilo povas havi ligostrekon por distingi sin.)*
 
 * mi pana e kala tawa ona lon tomo. *(Mi donas al ŝi la fiŝon en la domo.)*
 * mi alasa e kala***-tawa-ona*** lon tomo. *(Mi ĉasas ŝian moviĝantan fiŝon en la domo.)* `Ü`
 
-lipu ni la [nimi suli sinpin](#nimi-suli-sinpin) li ken jo e sitelen "en". kepeken nasin ni la ona li pona lukin e ante pi ona sama.
+lipu ni la [nimi suli sinpin](#nimi-suli-sinpin) li ken jo e sitelen "en". kepeken nasin ni la ona li pona lukin e ante ona.
+*(En ĉi tiu libro, helpa verbo povas havi plus-signon por distingi sin.)*
 
 * mije wawa li lukin+jo e meli pona. *(La forta viro serĉas bonan virinon.)*
 
