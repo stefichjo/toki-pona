@@ -182,7 +182,7 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi palisa](#nimi-monsi) "tawa
 * meli lili li kute ***ike*** e mama. *(La knabinoj misaŭdis la gepatron.)*
 * ~~ijo~~ ***kiwen*** → ***kiwen*** *(malmolaĵo, metalo, ŝtono)*
 
-**nimi monsi palisa** li **nimi monsi** lon sinpin pi [nimi lawa](#nimi-lawa). **nimi monsi palisa** li ken ala jo e **nimi monsi**. taso ona li ken kama **nimi monsi** taso anu [nimi suli pi palisa ala](#nimi-ilo).
+**nimi monsi palisa** li **nimi monsi** lon sinpin pi [nimi lawa](#nimi-lawa). **nimi monsi palisa** li ken ala jo e **nimi monsi**. taso ona li ken kama **nimi monsi** taso.
 *(Prepozicio estas modifilo kun objekto. Prepozicio ne povas havi modifilon, sed ĝi povas fariĝi nura modifilo.)*
 
 * ona li **tawa** tomo. *(Ŝi iras hejmen.)*
@@ -191,20 +191,10 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi palisa](#nimi-monsi) "tawa
 ### nimi lawa
 *(Substantivoj)*
 
-#### nimi lawa tan
-*(Originaj Substantivoj)*
+**nimi lawa** li nimi "mi" en nimi "sina" en nimi "ona" en nimi "ijo". [nimi ijo](#nimi-ijo) ante li [nimi monsi](#nimi-monsi). **nimi lawa** li kama [nimi monsi](#nimi-monsi), la ona li jo e kon poka "jo".
+*("mi", "sina", "ona" kaj "ijo" estas substantivoj. Aliaj radikaj vortoj estas modifiloj. Kiam substantivo fariĝas modifilo, ĝi kunhavas la signifon "posedo".)*
 
-**nimi lawa tan** li kama [nimi monsi](#nimi-monsi), la kon ona li jo sin e ijo pi nimi "tan".
-*(Kiam origina substantivo fariĝas modifilo, ĝia signifo enhavas aldone tiun de "origino".)*
-
-* lipu-mi *(mia libro)*
-* lipu tan mi *(libro de mi)*
-
-___
-* mi *(mi, ni)*
-* ona *(ŝi, li, ĝi, ili)*
-* sina *(vi)*
-* ijo *(io)*
+* ***sina*** jo e lipu seme? *(Kiun libron vi havas?)* → lipu ***sina*** li seme? *(Kiu estas via libro?)*
 
 #### nimi lawa weka "ijo"
 
