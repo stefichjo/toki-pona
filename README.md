@@ -693,5 +693,5 @@ lipu ni la [nimi monsi](#nimi-monsi) li ken jo e sitelen "pi". kepeken nasin ni 
 lipu ni la [nimi suli sinpin](#nimi-suli-sinpin) li ken jo e sitelen "en". kepeken nasin ni la ona li pona lukin e ante ona.
 *(En ĉi tiu libro, helpa verbo povas havi plus-signon por distingi sin.)*
 
-* mije wawa li lukin+jo e meli pona. *(La forta viro serĉas bonan virinon.)*
-
+* mije wawa li ***lukin+***jo e meli pona. *(La forta viro serĉas bonan virinon.)*
+* mi lukin pona e sitelen. *(Mi bone legas.)* `Ü`
