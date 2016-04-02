@@ -543,22 +543,7 @@ jan ken kepeken **nimi "en"** ala lon kulupu pi [nimi "li"](#nimi-li).
 kulupu pi [nimi monsi palisa](#nimi-monsi-palisa) li ken kama kulupu pi **nimi "la"**.
 *(Prepozicia frazero povas fariĝi helpa frazero.)*
 
-* mi pali lon tomo. → lon tomo **la** mi pali. *(Mi laboras ĉe la domo. → Ĉe la domo, mi laboras.)*
-
-kulupu pi **nimi "la"** la [nimi monsi palisa](#nimi-monsi-palisa) "lon" li ken weka.
-*(En helpa frazero, la prepozicio "lon" povas manki.)*
-
-* **lon** tomo **la** mi pali. → tomo **la** mi pali. *(Ĉe la domo, mi laboras. → Hejme, mi laboras.)*
-
-kulupu pi **nimi "la"** la nimi "lon ni" li weka.
-*(En helpa frazero, la konjunkcio "lon ni" mankas.)*
-
-* mi pali lon ni: mi lon tomo. → ~~lon ni,~~ mi lon tomo, **la** mi pali. *("Mi laboras ĉe ke mi estas ĉe la domo." → Se mi estas ĉe la domo, mi laboras.)* `Ü`
-
-kulupu pi **nimi "la"** la **nimi "la"** li ken weka lon monsi pi nimi lon monsi pi [nimi lawa weka "ma"](#nimi-lawa-weka-ma).
-*(En helpa frazero, la partikulo "la" povas manki malantaŭ loka substantivo.)*
-
-* mi pali lon taso-ni: → taso-ni **la** mi pali. → taso mi pali. *(Mi laboras ĉe tiu sendependo. → Sendepende, mi laboras. → Sed mi laboras.)* `Ü`
+* ni li pona tawa mi. *(Mi ŝatas ĝin.)* → tawa mi la ni li pona. *(Al mi ĝi plaĉas.)*
 
 ### nimi "li"
 *(La Partikulo "li")*
