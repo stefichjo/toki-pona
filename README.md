@@ -414,7 +414,7 @@ ___
 ## nimi ilo
 *(Partikuloj)*
 
-**nimi ilo "anu"** en nimi ilo "en" li lon insa pi [nimi ijo](#nimi-ijo) tu anu kulupu tu pi [nimi suli](#nimi-ilo) pi ijo ken tu.
+**nimi ilo** "anu" en nimi ilo "en" li lon insa pi [nimi ijo](#nimi-ijo) tu anu kulupu tu pi [nimi suli](#nimi-ilo) pi ijo ken tu.
 *(La partikuloj "anu" kaj "en" estas inter du radikaj vortoj aŭ du frazoj pri du eblaĵoj aŭ efektivaĵoj.)*
 
 * mi kute e mije ***anu*** meli. *(Mi aŭdas viron aŭ virinon.)*
@@ -422,14 +422,14 @@ ___
 * sina **en** mi li anpa tawa sewi. *(Vi kaj mi estas malsuperaj laŭ Dio.)*
  * → sina anpa tawa sewi ***en*** mi anpa tawa sewi. `Ü`
 
-**nimi ilo "e"** li lon monsi pi [nimi suli](#nimi-ilo) palisa. ***nimi ilo "li"*** li lon insa pi kulupu pi [nimi suli](#nimi-ilo) en [nimi lawa](#nimi-lawa) ona. insa pi kulupu pi **nimi suli** anu **nimi ilo** "e" la **nimi ilo** "en" li ken ala lon.
+**nimi ilo** "e" li lon monsi pi [nimi suli](#nimi-ilo) palisa. **nimi ilo** "li" li lon insa pi kulupu pi [nimi suli](#nimi-ilo) en [nimi lawa](#nimi-lawa) ona. insa pi kulupu pi **nimi suli** anu **nimi ilo** "e" la **nimi ilo** "en" li ken ala lon.
 *(La partikulo "e" estas malantaŭ transitiva verbo. La partikulo "li" estas inter predikato kaj ĝia subjekto. En predikato aŭ rekta objekto ne povas esti la partikulo "en".)*
 
 * mi moku ***e*** telo. *(Mi trinkas akvon.)*
 * jan sona ***li*** pu. *(La instruistoj konsultas la oficialan libron de Tokipono.)*
 * ona li moku e telo ***~~en~~*** pan ***~~en~~*** toki. → ona li moku e telo e pan li toki. *(Ŝi trinkas la akvon, manĝas la panon kaj parolas.)*
 
-kepeken **nimi ilo "la"** la kulupu pi [nimi monsi palisa](#nimi-monsi-palisa) li ken kama lon sinpin pi [nimi lawa](#nimi-lawa) pi kulupu pi [nimi suli](#nimi-ilo).
+kepeken **nimi ilo** "la" la kulupu pi [nimi monsi palisa](#nimi-monsi-palisa) li ken kama lon sinpin pi [nimi lawa](#nimi-lawa) pi kulupu pi [nimi suli](#nimi-ilo).
 *(Per la partikulo "la", prepozicia frazero povas aperi antaŭ la subjekto.)*
 
 * ni li pona tawa mi. *(Mi ŝatas ĝin.)* → tawa mi la ni li pona. *(Al mi ĝi plaĉas.)*
@@ -439,7 +439,7 @@ kepeken **nimi ilo "la"** la kulupu pi [nimi monsi palisa](#nimi-monsi-palisa) l
 
 * mi ***o*** moku e ijo pona. *(Mi manĝu bonaĵojn.)*
 
-**nimi ilo "pi"** li lon sinpin pi kulupu pi [nimi monsi](#nimi-monsi).
+**nimi ilo** "pi" li lon sinpin pi kulupu pi [nimi monsi](#nimi-monsi).
 *(La partikulo "pi" estas antaŭ modifa frazero.)*
 
 * jan ***pi*** pona mute *(tre bona persono, amikego)*
