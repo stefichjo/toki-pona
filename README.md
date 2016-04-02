@@ -1,7 +1,7 @@
 # nasin toki pi toki pona
 *(Gramatiko de Tokipono)*
 
-pu la jan ken kama sona e nasin toki pi toki pona.
+jan pu li ken kama sona e nasin toki pi toki pona.
 *(Interagante kun la oficiala libro de Tokipono oni povas lerni la gramatikon de Tokipono.)*
 
 * jan sona pi toki pona li pu lon tenpo mute. *(La instruisto de Tokipono ofte konsultas la oficialan libron de Tokipono.)*
