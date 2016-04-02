@@ -403,32 +403,11 @@ ___
 ## nimi ilo
 *(Partikuloj)*
 
-**nimi ilo** li lon insa pi [nimi ijo](#nimi-ijo) tu.
-*(Partikulo estas inter du radikaj vortoj.)*
+nimi ilo "anu" li lon insa pi [nimi ijo](#nimi-ijo) tu anu kulupu pi [nimi suli](#nimi-suli) tu pi ijo ken tu.
+*(La partikuloj "anu" estas inter du radikaj vortoj aŭ du frazoj pri du eblaĵoj.)*
 
-* nasin **pi** toki pona *(tokiponismo)*
-* toki **li** pona. *(Komunikado estas bona.)* `©`
-
-| anu      | e        | en       | la       | li       | o        | pi       |
-|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| *aŭ*     | *-n*     | *kaj*    | *,*      | *-as*    | *-u*     | *-a, -e* |
-
-___
-* [anu](#nimi-anu) *(aŭ)*
-* [e](#nimi-e) *(-n)*
-* [en](#nimi-en) *(kaj)*
-* [la](#nimi-la) *(,)*
-* [li](#nimi-li) *(-as)*
-* [o](#nimi-o) *(-u)*
-* [pi](#nimi-pi) *(-a, -e)*
-
-### nimi "anu"
-*(La partikulo "anu")*
-
-nimi ilo "anu" li lon insa pi [nimi ijo](#nimi-ijo) tu pi ijo ken tu.
-*(La partikuloj "anu" estas inter du radikaj vortoj pri du eblaĵoj.)*
-
-* pan **anu** telo *(pano aŭ akvo)*
+* mi kute e mije ***anu*** meli. *(Mi aŭdas viron aŭ virinon.)*
+* ona li awen ***anu*** ona li weka. *(Ŝi restas aŭ forestas.)* `Ü`
 
 ### nimi "e"
 *(La Partikulo "e")*
