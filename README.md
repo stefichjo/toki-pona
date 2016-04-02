@@ -14,8 +14,8 @@ taso jan pi pu taso li ken ala kama sona e ale pi toki pona. lipu ni li lukin pa
 ## toki open
 *(Klara Lingvaĵo)*
 
-[nimi lawa](#nimi-lawa) "[ijo](#nimi-lawa-weka-ijo)" (en nimi ante) lon sinpin pi [nimi monsi](#nimi-monsi) mute li weka. [nimi lawa weka](#nimi-lawa-weka) ni li kama [nimi monsi](#nimi-monsi), la ona li kama sin.
-*(La substantivo "ijo" (kaj aliaj) mankas antaŭ multaj modifiloj. Kiam tia manka substantivo fariĝas modifilo, ĝi reaperas.)*
+[nimi lawa](#nimi-lawa) "[ijo](#nimi-lawa-weka-ijo)" (en nimi ante) lon sinpin pi [nimi monsi](#nimi-monsi) mute li kama weka. [nimi lawa weka](#nimi-lawa-weka) ni li kama [nimi monsi](#nimi-monsi), la ona li kama sin.
+*(La substantivo "ijo" (kaj aliaj) malaperas antaŭ multaj modifiloj. Kiam tia manka substantivo fariĝas modifilo, ĝi reaperas.)*
 
 * ***~~ijo~~*** ale *(ĉiu aĵo, ĉio)*
 * mama ***~~ale~~*** *(ĉiu gepatro)* → mama pi ***ijo ale*** *(gepatro de ĉio)*
@@ -48,15 +48,15 @@ jan li toki pakala la, ona li kepeken **toki ike**. jan nasa li wile ante e toki
 ### toki kipisi
 *(Kripla Lingvaĵo)*
 
-nimi "pana e" li ken weka.
-*("pana e" povas manki.)*
+nimi "pana e" li ken kama weka.
+*("pana e" povas malaperi.)*
 
 * mi telo e kasi. *(Mi malsekigas la planton.)*
 * mi ***pana e*** telo tawa kasi. *(Mi akvumas la planton.)*
  * → mi ***telo e*** kasi.
 
-nimi pi "ni" lon sinpin pi kulupu pi [nimi suli](#nimi-suli) li ken weka.
-*(Vortoj de subfrazo povas manki.)*
+nimi pi "ni" lon sinpin pi kulupu pi [nimi suli](#nimi-suli) li ken kama weka.
+*(Vortoj de subfrazo povas malaperi.)*
 
 * mi pana e moku tawa jan ***pi ni: ona li kama lon tomo mi***. *(Mi donis manĝon al la persono, kiu aperis en mia domo.)*
  * → mi pana e moku tawa jan ***pi ona li kama lon tomo mi***.
