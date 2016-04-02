@@ -11,8 +11,8 @@ taso jan pi pu taso li ken ala kama sona e ale pi toki pona. lipu ni li lukin pa
 
 * o ***luka*** ala e mi! *(Ne tuŝu min!)* `Ü`
 
-## toki open
-*(Klara Lingvaĵo)*
+## toki lili
+*(Konciza Lingvaĵo)*
 
 nimi lon sinpin pi [nimi "li"](#nimi-li) li nimi "mi" taso anu nimi "sina" taso, la [nimi "li"](#nimi-li) li kama weka.
 *(Se la subjekto estas nura "mi" aŭ nura "sina", "li" malaperas.)*
