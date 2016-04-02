@@ -155,7 +155,7 @@ nimi kalama li ken kama [nimi ijo](#nimi-ijo).
  * → ona kin li kalama musi. *(Ankaŭ ŝi muzikas.)*
  * → ona ***sama*** li kalama musi. *(Ŝi mem muzikas.)*
 
-[nimi monsi](#nimi-monsi) palisa li ken kama [nimi suli sinpin](#nimi-suli-sinpin).
+[nimi monsi](#nimi-monsi) palisa li ken kama [nimi suli](#nimi-ilo) sinpin.
 *(Prepozicio povas fariĝi helpa verbo.)*
 
 * tenpo kama la mi moku. *(Mi manĝos.)*
@@ -293,7 +293,7 @@ lipu ni la [nimi monsi](#nimi-monsi) li ken jo e sitelen "pi". kepeken nasin ni 
 * mi pana e kala tawa ona lon tomo. *(Mi donas al ŝi la fiŝon en la domo.)*
 * mi alasa e kala***-tawa-ona*** lon tomo. *(Mi ĉasas ŝian moviĝantan fiŝon en la domo.)* `Ü`
 
-lipu ni la [nimi suli sinpin](#nimi-suli-sinpin) li ken jo e sitelen "en". kepeken nasin ni la ona li pona lukin e ante ona.
+lipu ni la [nimi suli](#nimi-ilo) sinpin li ken jo e sitelen "en". kepeken nasin ni la ona li pona lukin e ante ona.
 *(En ĉi tiu libro, helpa verbo povas havi plus-signon por distingi sin.)*
 
 * mi ***kama+***sona e toki pona. *(Mi lernas Tokiponon.)*
