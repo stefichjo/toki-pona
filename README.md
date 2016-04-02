@@ -158,12 +158,7 @@ nimi kalama li ken kama [nimi ijo](#nimi-ijo).
 monsi pi [nimi suli](#nimi-suli) palisa la [nimi monsi palisa](#nimi-monsi-palisa) "tawa" li ken kama [nimi ilo](#nimi-ilo).
 *(Malantaŭ transitivaj verboj la prepozicio "tawa" povas fariĝi partikulo.)*
 
-* mi ***lukin*** lukin ***e*** sina. → mi lukin ***tawa*** sina. *(Mi provas vidi vin.)*
-
-jan wile ala kepeken nimi "wile" lon sinpin pi [nimi suli palisa](#nimi-suli-palisa) "lukin e", la ona li ken kepeken nimi "lukin tawa".
-*(Por eviti "wile" antaŭ la transitiva verbo "lukin e", oni povas uzi "lukin tawa".)*
-
-* mi **lukin tawa** sina. ← mi **wile+lukin** e sina. ← mi **wile** e ni: mi **lukin** e sina. *(Mi serĉas vin. ← Mi rigardas por vi. ← Mi volas vidi vin.)* `Ü`
+* mi ***lukin+***lukin ***e*** sina. → mi lukin ***tawa*** sina. *(Mi provas vidi vin.)*
 
 ## nimi ijo
 *(Radikaj Vortoj)*
