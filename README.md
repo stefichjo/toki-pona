@@ -227,7 +227,7 @@ kepeken **nimi ilo** "la" la kulupu pi [nimi monsi](#nimi-monsi) palisa li ken k
 **nimi ilo** "o" li sama **nimi ilo** "li". taso kulupu pi **nimi suli** lon monsi pi **nimi ilo** "o" li toki e wile pi jan toki.
 *(La partikulo "o" similas al la partikulo "li". Sed la predikato malantaŭ la partikulo "o" esprimas deziron de la parolanto.)*
 
-* mi ***o*** moku e ijo pona. *(Mi manĝu bonaĵojn.)*
+* mi ***o*** moku e ijo pona. *(Mi manĝu ion bonan.)*
 
 **nimi ilo** "pi" li lon sinpin pi kulupu pi [nimi monsi](#nimi-monsi).
 *(La partikulo "pi" estas antaŭ modifa frazero.)*
