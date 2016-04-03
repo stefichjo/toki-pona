@@ -179,7 +179,7 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa
 **nimi monsi** li nimi lon monsi pi [nimi lawa](#nimi-lawa) anu [nimi suli](#nimi-ilo).
 *(Modifilo estas aŭ adjektivo aŭ adverbo.)*
 
-* ma Apika jo e jan ***mute**. *(Afriko havas multajn homojn.)*
+* ma Apika jo e jan ***mute***. *(Afriko havas multajn homojn.)*
 * meli lili li kute ***ike*** e mama. *(La knabinoj misaŭdis la gepatron.)*
 
 **nimi monsi palisa** li lon sinpin pi [nimi lawa](#nimi-lawa). **nimi monsi palisa** li ken ala jo e **nimi monsi**. taso ona li ken kama **nimi monsi** taso.
