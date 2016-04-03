@@ -159,9 +159,9 @@ nimi kalama li ken kama [nimi ijo](#nimi-ijo).
 *(Prepozicio povas fariĝi helpa verbo.)*
 
 * tenpo kama la mi moku. *(Mi manĝos.)*
- * → mi ***tawa*** moku. *(Mi estas manĝonta.)*
+ * → mi ***tawa+***moku. *(Mi estas manĝonta.)*
 * tenpo pini la mi moku. *(Mi manĝis.)*
- * → mi ***tan*** moku. *(Mi estas manĝinta.)*
+ * → mi ***tan+***moku. *(Mi estas manĝinta.)*
 
 monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa" li ken kama [nimi ilo](#nimi-ilo).
 *(Malantaŭ transitivaj verboj la prepozicio "tawa" povas fariĝi partikulo.)*
@@ -283,7 +283,7 @@ nimi pi jan ante li lon insa pi sitelen nimi.
 nimi "a" en nimi "mu" li nimi kalama. ona li sama [kulupu suli](#nimi-ilo) sin. taso pu la ona li [nimi ilo](#nimi-ilo). tan ni la sitelen kulupu li lon ala lon insa ona.
 *("a" kaj "mu" estas sonimitoj. Ili estas kiel propraj frazoj. Sed laŭ la oficiala libro de Tokipono, ili estas partikuloj. Tial, ne estas komo inter ili.)*
 
-* ***a a a***! *(Ha ha ha!)*
+* ***a, a, a!*** → ***a a a***! *(Ha, ha, ha!)*
 * ***mu***! *(Miaŭ!)*
 
 monsi la nimi kalama "a" li wawa e [kulupu suli](#nimi-ilo).
