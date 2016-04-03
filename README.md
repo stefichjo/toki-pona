@@ -32,7 +32,7 @@ sinpin pi [nimi lawa](#nimi-lawa) taso la [nimi ilo](#nimi-ilo) "pi" li kama wek
 
 * toki ***~~pi~~*** pona *(lingvo de bono)* → toki pona *(bona lingvo)*
 
-[nimi lawa](#nimi-lawa) "[ijo](#nimi-lawa-weka-ijo)" (en nimi ante) lon sinpin pi [nimi monsi](#nimi-monsi) mute li kama weka. kulupu pi [nimi lawa](#nimi-lawa) weka li kama [nimi monsi](#nimi-monsi), la [nimi lawa](#nimi-lawa) weka li kama lon sin.
+[nimi lawa](#nimi-lawa) "ijo" (en nimi ante) lon sinpin pi [nimi monsi](#nimi-monsi) mute li kama weka. kulupu pi [nimi lawa](#nimi-lawa) weka li kama [nimi monsi](#nimi-monsi), la [nimi lawa](#nimi-lawa) weka li kama lon sin.
 *(La substantivo "ijo" (kaj aliaj) malaperas antaŭ multaj modifiloj. Kiam frazero kun implica substantivo fariĝas modifilo, la implica substantivo reaperas.)*
 
 * ***~~ijo~~*** ale *(ĉiu aĵo, ĉio)*
