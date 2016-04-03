@@ -237,22 +237,19 @@ kepeken **nimi ilo** "la" la kulupu pi [nimi monsi](#nimi-monsi) palisa li ken k
 ## sitelen lon insa nimi
 *(Interpunkcio)*
 
-sitelen insa li lon monsi pi kulupu pi [nimi suli](#nimi-ilo).
-*(Punkto sekvas frazon.)*
+sitelen insa li lon monsi pi [kulupu suli](#nimi-ilo).
+*(Punkto estas malantaŭ frazo.)*
 
 * telo li pona***.*** *(Akvo estas bona.)*
 
-[kulupu suli](#nimi-ilo) li jo e nimi "seme", la sitelen "seme" li lon monsi.
-*(Se la frazo enhavas la vorton "seme", sekvas demandosigno.)*
+[kulupu suli](#nimi-ilo) li jo e nimi "seme", la sitelen "seme" li lon monsi ona. taso nimi "anu seme" li ken kama nimi "ala" en [nimi suli](#nimi-ilo) sin.
+*(Se frazo enhavas la vorton "seme", demandosigno estas malantaŭ ĝi. Sed "anu seme" povas fariĝi "ala" kaj denova verbo.)*
 
 * ***seme*** li sin***?*** *(Kio estas nova?)*
-
-nimi "anu seme" li ken kama nimi "ala" en [nimi suli](#nimi-ilo) sin. *("anu seme" povas fariĝi "ala" kaj denova verbo.)*
-
 * ona li mama ***anu seme?*** → ona li ***mama ala mama?*** *(Ĉu ŝi estas gepatro?)*
 
-[kulupu suli](#nimi-ilo) li jo e nimi "a" anu "o", la sitelen "a anu o" li lon monsi.
-*(Se la frazo enhavas la vorton "a" aŭ "o", sekvas krisigno.)*
+[kulupu suli](#nimi-ilo) li jo e nimi "a" anu "o", la sitelen "a anu o" li lon monsi ona.
+*(Se la frazo enhavas la vorton "a" aŭ "o", estas krisigno malantaŭ ĝi.)*
 
 * sina suli  ***a!*** *(Vi ja estas alta!)*
 * ***o*** pali***!*** *(Agu!)*
