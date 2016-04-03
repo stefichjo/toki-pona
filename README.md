@@ -195,7 +195,7 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa
 
 * ***sina*** jo e lipu seme? *(Kiun libron vi havas?)* → lipu ***sina*** li seme? *(Kiu estas via libro?)*
 
-[nimi monsi](#nimi-monsi) mute li ken kama [nimi-lawa](#nimi-lawa) pi kon sin tan ni: ona li jo e [nimi-lawa](#nimi-lawa) weka.
+[nimi monsi](#nimi-monsi) mute li ken kama [nimi-lawa](#nimi-lawa) pi kon sin tan ni: ona li jo e [nimi lawa](#nimi-lawa) weka.
 *(Multaj modifiloj povas fariĝi substantivoj kun aldona signifo, ĉar ili havas implican substantivon.)*
 
 * ***suno*** *(hela)*
