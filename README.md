@@ -257,7 +257,7 @@ nimi "anu seme" li ken kama nimi "ala" en [nimi suli](#nimi-ilo) sin. *("anu sem
 
 * ona li mama ala, li jo ala e mama. *(Ŝi ne estas gepatro kaj ne havas gepatron.)*
 
-sona sin li insa sitelen poki anu sitelen kulupu. *(Alonaj informoj estas inter krampiloj aŭ komoj.)*
+sona sin li insa sitelen poki anu sitelen kulupu. *(Aldonaj informoj estas inter krampiloj aŭ komoj.)*
 
 * jan (mi pana e moku tawa ona) li kama lon tomo mi. *(Iu (mi donis manĝon al li) aperis en mia domo.)*
  * → jan, mi pana e moku tawa ona, li kama lon tomo mi.
