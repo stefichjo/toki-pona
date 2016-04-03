@@ -260,7 +260,7 @@ nimi "anu seme" li ken kama nimi "ala" en [nimi suli](#nimi-ilo) sin. *("anu sem
 sona sin li insa sitelen poki anu sitelen kulupu. *(Alonaj informoj estas inter krampiloj aŭ komoj.)*
 
 * jan (mi pana e moku tawa ona) li kama lon tomo mi. *(Iu (mi donis manĝon al li) aperis en mia domo.)*
- * -> jan, mi pana e moku tawa ona, li kama lon tomo mi.
+ * → jan, mi pana e moku tawa ona, li kama lon tomo mi.
 
 [kulupu suli](#nimi-ilo) pi nanpa tu li jo e kon sama ijo pi nimi "ni" tan [kulupu suli](#nimi-ilo) pi nanpa wan, la sitelen kulupu li kama sitelen palisa.
 *(Se la dua frazo havas la saman signifon kiel iu "ni" el la unua frazo, komo fariĝas dupunkto.)*
