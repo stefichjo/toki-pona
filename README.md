@@ -50,7 +50,7 @@ kulupu pi [nimi ilo](#nimi-ilo) "e" li nimi "ijo", la ona li ken kama weka. nimi
 * telo li ***~~ijo e ni:~~*** mi ***~~kama~~*** wawa. *(Akvo igas, ke mi fortiĝas.)* → telo li wawa ***e*** mi. *(Akvo fortigas min.)*
 
 [kulupu suli](#nimi-ilo) ("kulupu pi [nimi lawa](#nimi-lawa) pi kulupu pi [nimi suli](#nimi-suli)") tu li jo e [nimi lawa suli](#nimi-ilo) ("[nimi lawa](#nimi-lawa) pi kulupu pi [nimi suli](#nimi-ilo)") sama, la ona tu li ken kama wan lon ni: [nimi suli](#nimi-ilo) pi nanpa wan li [nimi suli](#nimi ilo) "sinpin". [nimi suli](#nimi-ilo) sinpin "ken" li kama weka lon monsi pi [nimi suli](#nimi-ilo) sinpin "sona".
-*(Se du frazoj (subjekta frazero) havas la saman subjekton (predikatan substantivon), ili povas unuiĝi, se la una verbo estas "helpa" verbo. La helpa verbo "ken" malaperas malantaŭ la helpa verbo "sona". La helpa verbo "wile" malaperas antaŭ la helpa verbo "lukin".)*
+*(Se du frazoj ("subjektaj frazeroj") havas la saman subjekton ("predikatan substantivon"), ili povas unuiĝi, se la una verbo estas "helpa" verbo. La helpa verbo "ken" malaperas malantaŭ la helpa verbo "sona". La helpa verbo "wile" malaperas antaŭ la helpa verbo "lukin".)*
 
 * mi ***wile ~~e ni: mi~~*** lon ma mama mi. → mi ***wile+***lon ma mama mi. *(Mi volas esti en mia patrujo.)*
 * jan mute li ***sona ala ~~e nasin pi ni: ona li ken+~~***tawa lon telo ~~kepeken ona~~. *(Multaj homoj ne scias kiel ili povas moviĝi en akvo.)* → jan mute li ***sona-ala+***tawa lon telo. *(Multaj ne scipovas naĝi.)*
@@ -256,6 +256,11 @@ nimi "anu seme" li ken kama nimi "ala" en [nimi suli](#nimi-ilo) sin. *("anu sem
 *(Se du frazoj fariĝas unu, komo estas inter ili.)*
 
 * ona li mama ala, li jo ala e mama. *(Ŝi ne estas gepatro kaj ne havas gepatron.)*
+
+sona sin li insa sitelen poki anu sitelen kulupu. *(Alonaj informoj estas inter krampiloj aŭ komoj.)*
+
+* jan (mi pana e moku tawa ona) li kama lon tomo mi. *(Iu (mi donis manĝon al li) aperis en mia domo.)*
+ * -> jan, mi pana e moku tawa ona, li kama lon tomo mi.
 
 [kulupu suli](#nimi-ilo) pi nanpa tu li jo e kon sama ijo pi nimi "ni" tan [kulupu suli](#nimi-ilo) pi nanpa wan, la sitelen kulupu li kama sitelen palisa.
 *(Se la dua frazo havas la saman signifon kiel iu "ni" el la unua frazo, komo fariĝas dupunkto.)*
