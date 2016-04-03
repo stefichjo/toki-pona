@@ -36,7 +36,7 @@ sinpin pi [nimi lawa](#nimi-lawa) taso la [nimi ilo](#nimi-ilo) "pi" li kama wek
 *(La substantivo "ijo" (kaj aliaj) malaperas antaŭ multaj modifiloj. Kiam frazero kun implica substantivo fariĝas modifilo, la implica substantivo reaperas.)*
 
 * ***~~ijo~~*** ale *(ĉiu aĵo, ĉio)*
-* mama ***~~ale~~*** *(ĉiu gepatro)* → mama pi ***ijo ale*** *(gepatro de ĉio)*
+* ~~mama ***ale***~~ *(ĉiu gepatro)* → mama pi ***ijo ale*** *(gepatro de ĉio)*
 
 kulupu pi [nimi ilo](#nimi-ilo) "e" li nimi "ijo", la ona li ken kama weka. nimi "ijo" lon sinpin pi [nimi suli](#nimi-ilo) palisa li jo e kon sama pi kulupu pi [nimi ilo](#nimi-ilo) "e". taso ona li kama weka.
 *(Se la rekta objekto estas "ijo", ĝi povas malaperi. "ijo" antaŭ transitiva verbo havas la saman signifon kiel la rekta objekto, sed ĝi malaperas.)*
