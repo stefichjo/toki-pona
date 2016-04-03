@@ -176,11 +176,11 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa
 ### nimi monsi
 *(Modifiloj)*
 
-**nimi monsi** li nimi lon monsi pi [nimi lawa](#nimi-lawa) anu [nimi suli](#nimi-ilo). [nimi ijo](#nimi-ijo) mute li **nimi monsi**. taso **nimi monsi** li ken kama [nimi lawa](#nimi-lawa).
-*(Modifilo estas aŭ adjektivo aŭ adverbo. Multaj radikaj vortoj estas modifilo. Sed modifilo povas fariĝi substantivo.)*
+**nimi monsi** li nimi lon monsi pi [nimi lawa](#nimi-lawa) anu [nimi suli](#nimi-ilo).
+*(Modifilo estas aŭ adjektivo aŭ adverbo.)*
 
+* ma Apika jo e jan ***mute**. *(Afriko havas multajn homojn.)*
 * meli lili li kute ***ike*** e mama. *(La knabinoj misaŭdis la gepatron.)*
-* ~~ijo~~ ***kiwen*** → ***kiwen*** *(malmolaĵo, metalo, ŝtono)*
 
 **nimi monsi palisa** li lon sinpin pi [nimi lawa](#nimi-lawa). **nimi monsi palisa** li ken ala jo e **nimi monsi**. taso ona li ken kama **nimi monsi** taso.
 *(Prepozicio havas objekton. Prepozicio ne povas havi modifilon, sed ĝi povas fariĝi modifilo.)*
@@ -195,6 +195,12 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa
 *("mi", "sina", "ona" kaj "ijo" estas substantivoj. Aliaj radikaj vortoj estas modifiloj. Kiam substantivo fariĝas modifilo, ĝi kunhavas la signifon "posedo".)*
 
 * ***sina*** jo e lipu seme? *(Kiun libron vi havas?)* → lipu ***sina*** li seme? *(Kiu estas via libro?)*
+
+[nimi monsi](#nimi-monsi) mute li ken kama [nimi-lawa](#nimi-lawa) pi kon sin tan ni: ona li jo e [nimi-lawa](#nimi-lawa) weka.
+*(Multaj modifiloj povas fariĝi substantivoj kun aldona signifo, ĉar ili havas implican substantivon.)*
+
+* ***suno*** *(hela)*
+ * ~~ijo~~ ***suno*** → ***suno*** *(helaĵo, lumo, suno)*
 
 ## nimi ilo
 *(Partikuloj)*
