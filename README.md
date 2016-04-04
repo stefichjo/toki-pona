@@ -49,7 +49,7 @@ kulupu pi [nimi ilo](#nimi-ilo) "e" li nimi "ijo", la ona li ken kama weka. nimi
 
 * telo li ***~~ijo e ni:~~*** mi ***~~kama~~*** wawa. *(Akvo igas, ke mi fortiĝas.)* → telo li wawa ***e*** mi. *(Akvo fortigas min.)*
 
-[kulupu suli](#nimi-ilo) ("kulupu pi [nimi lawa](#nimi-lawa) pi kulupu pi [nimi suli](#nimi-suli)") tu li jo e [nimi lawa suli](#nimi-ilo) ("[nimi lawa](#nimi-lawa) pi kulupu pi [nimi suli](#nimi-ilo)") sama, la ona tu li ken kama wan lon ni: [nimi suli](#nimi-ilo) pi nanpa wan li [nimi suli](#nimi ilo) "sinpin". [nimi suli](#nimi-ilo) sinpin "ken" li kama weka lon monsi pi [nimi suli](#nimi-ilo) sinpin "sona".
+[kulupu suli](#nimi-ilo) ("kulupu pi [nimi lawa](#nimi-lawa) pi kulupu pi [nimi suli](#nimi-suli)") tu li jo e [nimi lawa suli](#nimi-ilo) ("[nimi lawa](#nimi-lawa) pi kulupu pi [nimi suli](#nimi-ilo)") sama, la ona tu li ken kama wan lon ni: [nimi suli](#nimi-ilo) nanpa wan li [nimi suli](#nimi ilo) "sinpin". [nimi suli](#nimi-ilo) sinpin "ken" li kama weka lon monsi pi [nimi suli](#nimi-ilo) sinpin "sona".
 *(Se du frazoj ("subjektaj frazeroj") havas la saman subjekton ("predikatan substantivon"), ili povas unuiĝi, se la una verbo estas "helpa" verbo. La helpa verbo "ken" malaperas malantaŭ la helpa verbo "sona". La helpa verbo "wile" malaperas antaŭ la helpa verbo "lukin".)*
 
 * mi ***wile ~~e ni: mi~~*** lon ma mama mi. → mi ***wile+***lon ma mama mi. *(Mi volas esti en mia patrujo.)*
@@ -237,7 +237,7 @@ kepeken **nimi ilo** "la" la kulupu pi [nimi monsi](#nimi-monsi) palisa li ken k
 ## sitelen lon insa nimi
 *(Interpunkcio)*
 
-sitelen insa li lon monsi pi [kulupu suli](#nimi-ilo).
+sitelen pini li lon monsi pi [kulupu suli](#nimi-ilo).
 *(Punkto estas malantaŭ frazo.)*
 
 * telo li pona***.*** *(Akvo estas bona.)*
@@ -247,12 +247,6 @@ sitelen insa li lon monsi pi [kulupu suli](#nimi-ilo).
 
 * ***seme*** li sin***?*** *(Kio estas nova?)*
 * ona li mama ***anu seme?*** → ona li ***mama ala mama?*** *(Ĉu ŝi estas gepatro?)*
-
-[kulupu suli](#nimi-ilo) li jo e nimi "a" anu "o", la sitelen "a anu o" li lon monsi ona.
-*(Se la frazo enhavas la vorton "a" aŭ "o", estas krisigno malantaŭ ĝi.)*
-
-* sina suli  ***a!*** *(Vi ja estas alta!)*
-* ***o*** pali***!*** *(Agu!)*
 
 [kulupu suli](#nimi-ilo) tu li kama wan, la sitelen kulupu li lon insa pi ona tu.
 *(Se du frazoj fariĝas unu, komo estas inter ili.)*
@@ -264,32 +258,30 @@ sona sin li insa sitelen poki anu sitelen kulupu. *(Aldonaj informoj estas inter
 * jan (mi pana e moku tawa ona) li kama lon tomo mi. *(Iu (mi donis manĝon al li) aperis en mia domo.)*
  * → jan, mi pana e moku tawa ona, li kama lon tomo mi.
 
-[kulupu suli](#nimi-ilo) pi nanpa tu li jo e kon sama ijo pi nimi "ni" tan [kulupu suli](#nimi-ilo) pi nanpa wan, la sitelen kulupu li kama sitelen palisa.
-*(Se la dua frazo havas la saman signifon kiel iu "ni" el la unua frazo, komo fariĝas dupunkto.)*
+[kulupu suli](#nimi-ilo) li jo e nimi "a" anu "o", la sitelen "a anu o" li lon monsi ona.
+*(Se la frazo enhavas la vorton "a" aŭ "o", estas krisigno malantaŭ ĝi.)*
+
+* sina suli  ***a!*** *(Vi ja estas alta!)*
+* ***o*** pali***!*** *(Agu!)*
+
+[kulupu suli](#nimi-ilo) nanpa tu li jo e kon sama ijo pi nimi "ni" tan [kulupu suli](#nimi-ilo) nanpa wan, la sitelen kulupu li kama sitelen palisa. kulupu pi nimi "la" la sitelen palisa li kama sitelen kulupu.
+*(Se la dua frazo havas la saman signifon kiel iu "ni" el la unua frazo, komo fariĝas dupunkto. En "la"-frazo, dupunkto fariĝas komo.)*
 
 * mi sona e ***ni:*** mi anpa. *(Mi scias, ke mi estas malsupera.)*
-
-kulupu pi nimi "la" la sitelen palisa li kama sitelen kulupu.
-*(En "la"-frazo, dupunkto fariĝas komo.)*
-
 * mi pilin pona tan ***ni:*** sina kama sona e toki pona. *(Mi ĝojas, ĉar vi lernas Tokiponon.)* `Ü`
-* tan ***ni,*** sina kama sona e toki pona***, la*** mi pilin pona. *(Ĉar vi lernas Tokiponon, mi ĝojas.)* `Ü`
+ * tan ***ni,*** sina kama sona e toki pona***, la*** mi pilin pona. *(Ĉar vi lernas Tokiponon, mi ĝojas.)* `Ü`
 
 nimi pi jan ante li lon insa pi sitelen nimi.
 *(Vortoj de iu alia estas inter citiloj.)*
 
-* jan Isa ... li toki e ni: "mama mi o! ..." *(Jesuo ... diris: "Patro mia ...!")*
+* jan Isa li toki e ni: "mama mi o!" *(Jesuo diris: "Patro mia!")*
 
-nimi "a" en nimi "mu" li nimi kalama. ona li sama [kulupu suli](#nimi-ilo) sin. taso pu la ona li [nimi ilo](#nimi-ilo). tan ni la sitelen kulupu li lon ala lon insa ona.
-*("a" kaj "mu" estas sonimitoj. Ili estas kiel propraj frazoj. Sed laŭ la oficiala libro de Tokipono, ili estas partikuloj. Tial, ne estas komo inter ili.)*
+nimi "a" en nimi "mu" li nimi kalama. monsi la nimi kalama "a" li wawa e [kulupu suli](#nimi-ilo). ona li sama [kulupu suli](#nimi-ilo) sin. taso lipu pi toki pona la ona li [nimi ilo](#nimi-ilo). tan ni la sitelen kulupu li lon ala lon poka ona.
+*("a" kaj "mu" estas sonimitoj. Malantaŭe, la sonimito "a" emfazas frazon. Ĝi estas kiel propra frazo. Sed laŭ la oficiala libro de Tokipono, ĝi estas partikuloj. Tial, ne estas komo apud ĝi.)*
 
+* sina pu***, a***! → sina pu ***a***! *(Vi ja estas interaganta kun la oficiala libro de Tokipono.)*
 * ***a, a, a!*** → ***a a a***! *(Ha, ha, ha!)*
 * ***mu***! *(Miaŭ!)*
-
-monsi la nimi kalama "a" li wawa e [kulupu suli](#nimi-ilo).
-*(Malantaŭe, la sonimito "a" emfazas frazon.)*
-
-* sina pu **a**! *(Vi estas ja interaganta kun la oficiala libro de Tokipono.)*
 
 ### sitelen sin lon insa nimi
 *(Aldona Interpunkcio)*
