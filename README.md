@@ -75,9 +75,8 @@ nimi "nimi" li kama weka lon sinpin pi nimi tan jan ante anu nimi pi ijo ante.
 * jan Isa li toki e ~~nimi~~ ni: "..." → jan Isa li toki e ni: "..." *(Jesuo diris: "...")*
 * toki ~~pi nimi~~ Epelanto → toki Epelanto *(Esperanto)*
 
-nimi "mute" li kama weka lon sinpin pi nimi "wan" en nimi "tu". kepeken nasin ni la ona li kama nimi mute. nimi "pi" li kama weka lon sinpin pi nimi "nanpa" en nimi nanpa. kepeken nasin ni la ona li kama nimi nanpa.
-
-*(La vorto "mute" malaperas antaŭ "wan" kaj "tu". Tiel ili fariĝas numeraloj. La vorto "pi" malaperas antaŭ "nanpa" kaj numeralo. Tiel ili fariĝas ordinaloj.)*
+nimi "mute" li kama weka lon sinpin pi nimi "wan" en nimi "tu". kepeken nasin ni la ona li kama nimi pi ijo mute. nimi "pi" li kama weka lon sinpin pi nimi "nanpa" en nimi pi ijo mute. kepeken nasin ni la nimi pi ijo mute li kama nimi nanpa.
+*("mute" malaperas antaŭ "wan" kaj "tu". Tiel ili fariĝas numeraloj. "pi" malaperas antaŭ "nanpa" kaj numeralo. Tiel numeraloj fariĝas ordinaloj.)*
 
 * tomo ~~pi mute~~ tu *(domoj de dividita multeco)* → tomo tu *(du domoj)*
 * toki ~~pi~~ nanpa "wan" *(lingvo de la numero "unu")* → toki nanpa wan *(la unua lingvo)*
