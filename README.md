@@ -195,8 +195,8 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa
 **nimi monsi palisa** li lon sinpin pi [nimi lawa](#nimi-lawa). **nimi monsi palisa** li ken ala jo e **nimi monsi**. taso ona li ken kama **nimi monsi** pi palisa ala.
 *(Prepozicio havas objekton. Prepozicio ne povas havi modifilon, sed ĝi povas fariĝi modifilo.)*
 
-* ona li **tawa** tomo. *(Ŝi iras hejmen.)*
-* tomo **tawa** *(aŭto)*
+* ona li ***tawa*** tomo. *(Ŝi iras hejmen.)*
+* tomo ***tawa*** *(aŭto)*
 
 ### nimi lawa
 *(Substantivoj)*
