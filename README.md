@@ -283,7 +283,7 @@ sona sin li insa sitelen poki anu sitelen kulupu. *(Aldonaj informoj estas inter
  * tan ***ni,*** sina kama sona e toki pona***, la*** mi pilin pona. *(Ĉar vi lernas Tokiponon, mi ĝojas.)* `Ü`
 
 [kulupu suli](#nimi-ilo) lon monsi pi nimi "ni" li sama kulupu pi [nimi monsi](#nimi-monsi). tan ni la nimi "ni" lon sinpin pi [kulupu suli](#nimi-ilo) li kama kulupu pi [nimi monsi](#nimi-monsi), la ona li wile jo e nimi "pi". kepeken nasin ni la ona li kama [kulupu suli](#nimi-ilo) lon monsi pi nimi "pi ni".
-*(Subfrazo estas kiel modifa frazo de "ni". Tial, kiam subfrazo fariĝas modifa frazero, ĝi bezonas havi "pi". Tiel ĝi fariĝas relativa frazo.)*
+*(Subfrazo estas kiel modifa frazero de "ni". Tial, kiam subfrazo fariĝas modifa frazero, ĝi bezonas havi "pi". Tiel ĝi fariĝas relativa frazo.)*
 
 * jan ***pi ni, mi pana e moku tawa ona,*** li kama lon tomo mi. *(La persono, al kiu mi donis manĝon, aperis en mia domo.)* `Ü`
 
