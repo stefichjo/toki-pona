@@ -72,7 +72,7 @@ sinpin pi [nimi ilo](#nimi-ilo) "o" la nimi "sina" li ken kama weka. monsi pi [n
 nimi "nimi" li kama weka lon sinpin pi nimi tan jan ante anu nimi pi ijo ante.
 *(La vorto "nimi" malaperas antaŭ citaĵo aŭ nomo.)*
 
-* jan Isa li toki e ~~nimi~~ ni: "..." → jan Isa li toki e ni: "..." *(Jesuo diris: "...")*
+* jan Isa li toki e nimi "..." → jan Isa li toki e ni: "..." *(Jesuo diris: "...")*
 * toki ~~pi nimi~~ "Epelanto" → toki Epelanto *(Esperanto)*
 
 nimi "mute" li kama weka lon sinpin pi nimi "wan" en nimi "tu". kepeken nasin ni la ona li kama nimi pi ijo mute. nimi "pi" li kama weka lon sinpin pi nimi "nanpa" en nimi pi ijo mute. kepeken nasin ni la nimi pi ijo mute li kama nimi nanpa.
@@ -113,7 +113,7 @@ nimi "pana e" li ken kama weka.
 nimi pi "ni" lon sinpin pi [kulupu suli](#nimi-ilo) li ken kama weka.
 *(Vortoj de subfrazo povas malaperi.)*
 
-* mi pana e moku tawa jan ***pi ni: ona li kama lon tomo mi***. *(Mi donis manĝon al la persono, kiu aperis en mia domo.)*
+* mi pana e moku tawa jan ***pi ni: ona li kama lon tomo mi***. *(Mi donis manĝon al la persono, kiu aperis en mia domo.)* `Ü`
  * → mi pana e moku tawa jan ***pi ona li kama lon tomo mi***.
  * → mi pana e moku tawa jan ***pi li kama lon tomo mi***.
  * → mi pana e moku tawa jan ***pi kama lon tomo mi***.
@@ -275,12 +275,17 @@ sona sin li insa sitelen poki anu sitelen kulupu. *(Aldonaj informoj estas inter
 * sina suli  ***a!*** *(Vi ja estas alta!)*
 * ***o*** pali***!*** *(Agu!)*
 
-[kulupu suli](#nimi-ilo) nanpa tu li jo e kon sama ijo pi nimi "ni" tan [kulupu suli](#nimi-ilo) nanpa wan, la sitelen kulupu li kama sitelen palisa. kulupu pi nimi "la" la sitelen palisa li kama sitelen kulupu.
-*(Se la dua frazo havas la saman signifon kiel iu "ni" el la unua frazo, komo fariĝas dupunkto. En "la"-frazo, dupunkto fariĝas komo.)*
+[kulupu suli](#nimi-ilo) nanpa tu li jo e kon sama ijo pi nimi "ni" tan [kulupu suli](#nimi-ilo) nanpa wan, la sitelen pini li kama sitelen palisa. kulupu pi nimi "la" la sitelen palisa li kama sitelen kulupu.
+*(Se la dua frazo havas la saman signifon kiel iu "ni" el la unua frazo, punkto fariĝas dupunkto. En "la"-frazo, dupunkto fariĝas komo.)*
 
 * mi sona e ***ni:*** mi anpa. *(Mi scias, ke mi estas malsupera.)*
 * mi pilin pona tan ***ni:*** sina kama sona e toki pona. *(Mi ĝojas, ĉar vi lernas Tokiponon.)* `Ü`
  * tan ***ni,*** sina kama sona e toki pona***, la*** mi pilin pona. *(Ĉar vi lernas Tokiponon, mi ĝojas.)* `Ü`
+
+[kulupu suli](#nimi-ilo) lon monsi pi nimi "ni" li sama kulupu pi [nimi monsi](#nimi-monsi). tan ni la nimi "ni" lon sinpin pi [kulupu suli](#nimi-ilo) li kama kulupu pi [nimi monsi](#nimi-monsi), la ona li wile jo e nimi "pi". kepeken nasin ni la ona li [kulupu suli](#nimi-ilo) lon monsi pi nimi "pi ni".
+*(Subfrazo estas kiel modifa frazo de "ni". Tial, kiam subfrazo fariĝas modifa frazero, ĝi bezonas havi "pi". Tiel ĝi fariĝas relativa frazo.)*
+
+* jan ***pi ni, mi pana e moku tawa ona,*** li kama lon tomo mi. *(La persono, al kiu mi donis manĝon, aperis en mia domo.)* `Ü`
 
 nimi pi jan ante li lon insa pi sitelen nimi.
 *(Vortoj de iu alia estas inter citiloj.)*
