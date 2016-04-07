@@ -10,11 +10,15 @@
 * **anpa** *(malsupra)*
  * ~~ma~~ … *(malsupro)* → lon **anpa** *(sub)*
 
+* **esun** *(interŝanĝi)* `Ü`
+ * ~~ma~~ … *(interŝanĝejo; merkato)* → lon **esun** *(por, kontraŭ)*
+
 * **ilo** *(utila)* `Ü`
  * ~~ijo~~ … *(utilaĵo; ilo, instrumento, organo)*
 
 * **insa** *(interna)*
- * ~~ijo~~ … *(internaĵo; centro, mezo)*
+ * ~~ijo~~ … *(internaĵo; centro, mezo)* → lon **insa** *(centre de, meze de, inter)*
+ * ~~ma~~ … *(interno)* → lon **insa** *(interne de, en)*
 
 * **kili** *(sukcesa)* `Ü`
  * ~~ijo~~ … *(sukcesaĵo; frukto)*
@@ -38,7 +42,7 @@
  * ~~ilo~~ … *(aŭdilo, aŭskultilo, obeilo; orelo)*
 
 * **lawa** *(gvidi, konduki)*
- * ~~ilo~~ … *(gvidilo, kondukilo; kapo, supro)*
+ * ~~ilo~~ … *(gvidilo, kondukilo; kapo, supro)* → lon **lawa** *(supre de)*
 
 * **len** *(penda)* `Ü`
  * ~~ijo~~ … *(pendaĵo; vesto)*
@@ -65,7 +69,7 @@
  * ~~ijo~~ … *(valoraĵo; mono, resurso, kapitalo)*
 
 * **monsi** *(malantaŭa)*
- * ~~ijo~~ … *(malantaŭaĵo; dorso)*
+ * ~~ijo~~ … *(malantaŭaĵo; dorso)* → lon **monsi** *(malantaŭ)*
 
 * **mun** *(orbita)* `Ü`
  * ~~ijo~~ … *(orbitaĵo; luno, planedo, satelito)*
@@ -77,13 +81,19 @@
  * ~~ijo~~ … *(tio)*
 
 * **noka** *(stari)*
- * ~~ilo~~ … *(starilo; gambo, piedo)*
+ * ~~ilo~~ … *(starilo; gambo, piedo)* → lon **noka** *(piede de, malsupre de)*
+
+* **open** *(trairebla, malfermita)* `Ü`
+ * ~~ma~~ open *(traireblo, malfermiteco)* → kepeken **open** *(tra)* `Ü`
+  * kepeken **open** poka *(preter)* `Ü`
 
 * **palisa** *(montri, indiki)*
  * ~~ilo~~ … *(montrilo, indikilo; fingro, bastono)*
 
 * **poka** *(apuda)*
  * ~~ijo~~ … *(apudaĵo; flanko, kokso)*
+  * lon **poka** *(ĉe la flanko; apud, kun)*
+  * lon **poka** ante *(ĉe la alia flanko; trans)*
 
 * **poki** *(enhavi)*
  * ~~ilo~~ … *(enhavilo; ingo, ujo)*
@@ -93,9 +103,14 @@
 
 * **selo** *(eksterna)* `Ü`
  * ~~ijo~~ … *(eksternaĵo; ŝelo, haŭto, formo)*
+  * lon **selo** *(ekster)* `Ü`
+  * lon **selo** sike *(ĉe ronda eksterno; ĉirkaŭ)* `Ü`
 
 * **seme** *(kiu)*
  * ~~ijo~~ … *(kio)*
+
+* **sewi** *(alta)*
+ * ~~ma~~ sewi *(alto; ĉielo)* → lon **sewi** *(super)*
 
 * **sijelo** *(viva, sana)* `Ü`
  * ~~ijo~~ … *(vivaĵo, sanaĵo; besto, korpo)*
@@ -104,22 +119,28 @@
  * ~~ijo~~ … *(rondaĵo; cirklo, sfero, kuglo)*
 
 * **sinpin** *(antaŭa)*
- * ~~ijo~~ … *(antaŭaĵo; fronto, muro, obstaklo)*
+ * ~~ijo~~ … *(antaŭaĵo; fronto, muro, obstaklo)* → lon **sinpin** *(antaŭ)*
 
 * **suno** *(hela, brila)*
  * ~~ijo~~ … *(helaĵo, brilaĵo; lumo, suno)*
 
-* **supa** *(horizontala)*
- * ~~ijo~~ … *(horizontalaĵo; seĝo, lito, tablo)*
+* **supa** *(horizontala)* `Ü`
+ * ~~ijo~~ … *(horizontalaĵo; seĝo, lito, tablo)* → lon **supa** *(sur)* `Ü`
 
 * **suwi** *(dolĉa)*
  * ~~ijo~~ … *(dolĉaĵo)*
+
+* **taso** *(libera, sendependa, nura)* `Ü`
+ * **taso** *(libereco, sendependeco, nureco)* → lon **taso** *(sen)* `Ü`
 
 * **telo** *(likva, malseka)*
  * ~~ijo~~ … *(likvaĵo, malsekaĵo; likvo, akvo)*
 
 * **tomo** *(sekura, fortika)* `Ü`
- * ~~ijo~~ … *(sekuraĵo, fortikaĵo; domo, ĉambro, hejmo)*
+ * ~~ijo~~ … *(sekuraĵo, fortikaĵo; domo, ĉambro, hejmo)* → lon **tomo** *(ĉe)*
 
 * **uta** *(kisi)*
  * ~~ilo~~ … *(kisilo; buŝo)*
+
+* **weka** *(fora, distanca, izola)*
+ * **weka** *(foreco, distanco, izoleco)* → lon **weka** *(fore de)*
