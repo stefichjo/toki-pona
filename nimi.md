@@ -1,8 +1,14 @@
+# nimi
+*(Vortaro)*
+
 * **ala** *(neniu)*
  * ~~ijo~~ … *(nenio)*
 
 * **ale** *(ĉiu)*
  * ~~ijo~~ … *(ĉio)*
+
+* **anpa** *(malsupra)*
+ * ~~ma~~ … *(malsupro)* → lon **anpa** *(sub)*
 
 * **ilo** *(utila)* `Ü`
  * ~~ijo~~ … *(utilaĵo; ilo, instrumento, organo)*
