@@ -63,4 +63,12 @@
 * **uta** *(kisi)* → ~~ilo~~ **…** *(kisilo; buŝo)*
 * **walo** *(hela, blanka)*
 * **waso** *(fluga)* `Ü` → ~~sijelo~~ **…** *(fluga besto; birdo)*
-* **weka** *(fora, distanca, izola)* → **…** *(foreco, distanco, izoleco)* `Ü` → lon **weka** *(fore de)*
+* **weka** *(fora, distanca, izola)* → **…** *(foreco, distanco, izoleco)* → lon **weka** *(fore de)*
+
+## nimi
+
+* **jan pona** *(bonulo; amiko)*
+* **tomo tawa** *(mova ĉambro; aŭto)*
+ * **tomo tawa kon** *(aera mova ĉambro; aviadilo)*
+ * **tomo tawa linja** *(linia mova ĉambro; vagono, trajno)*
+ * **tomo tawa telo** *(akva mova ĉambro; ŝipo, boato)*
