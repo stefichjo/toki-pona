@@ -86,9 +86,9 @@ nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin" li ken kama "ali", "namako"
 * ***lukin*** → ***oko*** *(vidi, okulo)*
 
 ...
-[nimi kalama](#nimi-ilo) "a" li ken kama [nimi ilo](#nimi-ilo) pi palisa ala. sin la nimi "sona" li ken kama ante en nimi "a" li jo ala e sitelen kulupu. ni li sama toki ike.
+[nimi kalama](#nimi-ilo) "a" li ken kama [nimi ilo](#nimi-ilo) pi palisa ala. sin la nimi "sona" li ken kama ante en nimi "a" li jo ala e sitelen kulupu.
 *(La sonimito "a" povas fariĝi netransitiva partikulo. Aldone, la vorto "sona" povas ŝanĝiĝi.
-Tiam "a" ne havas komon. Tio ŝajnas evitinda.)*
+Tiam "a" ne havas komon.)*
 
 * ona sama li kalama musi. *(Ŝi same muzikas. → Ŝi mem/efektive muzikas.)*
 * ona a li kalama musi. *(Eĉ/ankaŭ ŝi muzikas.)*
@@ -100,16 +100,22 @@ monsi pi nimi "taso" la [nimi ilo](#nimi-ilo) "la" li ken kama weka.
 
 * ***taso la*** mije en meli li pali li pilin pona. → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj.)*
 
-nimi "mute" li ken kama weka lon sinpin pi nimi "wan" en nimi "tu". kepeken nasin ni la ona li kama nimi pi ijo mute.
+nimi "mute" li ken kama weka lon sinpin pi nimi "wan" en nimi "tu". kepeken nasin ni la ona li kama ***nimi pi ijo mute***.
 *("mute" povas malaperi antaŭ "wan" kaj "tu". Tiel ili fariĝas numeraloj.)*
 
 * tomo ***pi mute tu*** *(domoj de dividita kvanto)* → tomo ***tu*** *(du domoj)*
 * tomo ***pi mute pi tu en wan*** *(domoj de dividita kaj kontinua kvantoj)* → tomo ***tu wan***
 
-nimi "pi" li ken kama weka lon sinpin pi nimi "nanpa" en nimi pi ijo mute. kepeken nasin ni la nimi pi ijo mute li kama nimi nanpa.
+nimi "pi" li ken kama weka lon sinpin pi nimi "nanpa" en nimi pi ijo mute. kepeken nasin ni la ***nimi pi ijo mute*** li kama nimi nanpa.
 *("pi" povas malaperi antaŭ "nanpa" kaj numeralo. Tiel numeraloj fariĝas ordinaloj.)*
 
 * toki ***pi nanpa "wan"*** *(lingvo de la numero "unu")* → toki ***nanpa wan*** *(la unua lingvo)*
+
+nimi "anu seme" li ken kama nimi "ala" en [nimi suli](#nimi-ilo) sama nanpa tu.
+*(Sed "anu seme" povas fariĝi "ala" kaj dua sama verbo.)*
+
+* ona li ***mama anu seme***? → ona li ***mama ala mama?*** *(Ĉu ŝi estas gepatro?)*
+
 
 ## toki apeja
 *(Slango)*
@@ -272,11 +278,11 @@ sitelen pini li lon monsi pi [kulupu suli](#nimi-ilo).
 
 * telo li pona***.*** *(Akvo estas bona.)*
 
-[kulupu suli](#nimi-ilo) li jo e nimi "seme", la sitelen "seme" li lon monsi ona. taso nimi "anu seme" li ken kama nimi "ala" en [nimi suli](#nimi-ilo) sin.
-*(Se frazo enhavas la vorton "seme", demandosigno estas malantaŭ ĝi. Sed "anu seme" povas fariĝi "ala" kaj denova verbo.)*
+[kulupu suli](#nimi-ilo) li jo e nimi "seme", la sitelen "seme" li lon monsi ona.
+*(Se frazo enhavas la vorton "seme", demandosigno estas malantaŭ ĝi.)*
 
 * ***seme*** li sin***?*** *(Kio estas nova?)*
-* ona li mama ***anu seme?*** → ona li ***mama ala mama?*** *(Ĉu ŝi estas gepatro?)*
+* ona li mama ***anu seme?***
 
 [kulupu suli](#nimi-ilo) tu li kama wan, la sitelen kulupu li lon insa pi ona tu.
 *(Se du frazoj fariĝas unu, komo estas inter ili.)*
