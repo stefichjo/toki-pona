@@ -36,12 +36,12 @@ sinpin pi [nimi lawa](#nimi-lawa) taso la [nimi ilo](#nimi-ilo) "pi" li kama wek
 *(La substantivo "ijo" (kaj aliaj) malaperas antaŭ multaj modifiloj. Kiam frazero kun implica substantivo fariĝas modifilo, la implica substantivo reaperas.)*
 
 * ***~~ijo~~*** ale *(ĉiu aĵo, ĉio)*
-* ~~mama ***ale***~~ *(ĉiu gepatro)* → mama pi ***ijo ale*** *(gepatro de ĉio)*
+* ~~mama ***ale***~~ *(ĉiu gepatro)* → mama pi ***ijo ale*** *(kreanto de ĉio)*
 
 kulupu pi [nimi ilo](#nimi-ilo) "e" li nimi "ijo", la ona li ken kama weka. nimi "ijo" lon sinpin pi [nimi suli](#nimi-ilo) palisa li jo e kon sama pi kulupu pi [nimi ilo](#nimi-ilo) "e". taso ona li kama weka.
 *(Se la rekta objekto estas "ijo", ĝi povas malaperi. "ijo" antaŭ transitiva verbo havas la saman signifon kiel la rekta objekto, sed ĝi malaperas.)*
 
-* mije li sona ***e ijo***. *(La viro scias aferojn.)* → mije li sona. *(La viro scias.)*
+* mije li ***sona e ijo***. *(La viro scias aferojn.)* → mije li ***sona***. *(La viro scias.)*
 * ***~~ijo~~*** toki *(parolaĵo)* → toki *(lingvo)*
 
 [nimi suli](#nimi-ilo) pi palisa ala li ken kama palisa. tenpo ni la [nimi suli](#nimi-ilo) lon sinpin ona li kama weka.
@@ -56,11 +56,10 @@ kulupu pi [nimi ilo](#nimi-ilo) "e" li nimi "ijo", la ona li ken kama weka. nimi
 * jan mute li ***sona ala ~~e nasin pi ijo ni: ona li ken+~~***tawa lon telo ~~kepeken ona~~. *(Multaj homoj ne scias kiel ili povas moviĝi en akvo.)* → jan mute li ***sona-ala+***tawa lon telo. *(Multaj ne scipovas naĝi.)*
 * mije wawa li ***~~wile~~ lukin ~~e ni: ona li~~*** jo e meli pona. → mije wawa li ***lukin+***jo e meli pona. *(La forta viro serĉas bonan virinon.)*
 
-kulupu pi [nimi ilo](nimi-ilo) "la" la [nimi monsi](#nimi-monsi) palisa "lon" (en nimi "ni") li kama weka. monsi pi nimi "taso" la [nimi ilo](#nimi-ilo) "la" li kama weka. " *(En helpa frazero, la prepozicio "lon" (kaj "ni") malaperas. Post "taso" malaperas "la".)*
+kulupu pi [nimi ilo](nimi-ilo) "la" la [nimi monsi](#nimi-monsi) palisa "lon" (en nimi "ni") li kama weka. " *(En helpa frazero, la prepozicio "lon" (kaj "ni") malaperas.)*
 
 * ***~~lon~~*** kulupu la mi wawa. *(En grupo ni estas fortaj.)*
 * ***~~lon ni,~~*** mi pona tawa jan, la jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi.)*
-* taso ***~~la~~*** mije en meli li pali li pilin pona. → taso mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj.)*
 
 sinpin pi [nimi ilo](#nimi-ilo) "o" la nimi "sina" li ken kama weka. monsi pi [nimi ilo](#nimi-ilo) "o" la nimi "kute" taso li ken kama weka.
 *("sina" povas malaperi antaŭ la partikulo "o". "kute" povas malaperi malantaŭ la partikulo "o".)*
@@ -91,6 +90,11 @@ nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin" li jo e nimi pi kon sama.
 * ***sin*** → ***namako*** *(aldona)*
 * ***a*** → ***kin*** *(ja)*
 * ***lukin*** → ***oko*** *(vidi, okulo)*
+
+monsi pi nimi "taso" la [nimi ilo](#nimi-ilo) "la" li kama weka.
+*(Post "taso" malaperas "la".)*
+
+* taso ***~~la~~*** mije en meli li pali li pilin pona. → taso mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj.)*
 
 ## toki apeja
 *(Slango)*
