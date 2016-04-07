@@ -71,30 +71,45 @@ sinpin pi [nimi ilo](#nimi-ilo) "o" la nimi "sina" li ken kama weka. monsi pi [n
 nimi "nimi" li kama weka lon sinpin pi nimi tan jan ante anu nimi pi ijo ante.
 *(La vorto "nimi" malaperas antaŭ citaĵo aŭ nomo.)*
 
-* jan Isa li toki e nimi "..." → jan Isa li toki e ni: "..." *(Jesuo diris: "...")*
-* toki ~~pi nimi~~ "Epelanto" → toki Epelanto *(Esperanto)*
-
-nimi "mute" li kama weka lon sinpin pi nimi "wan" en nimi "tu". kepeken nasin ni la ona li kama nimi pi ijo mute. nimi "pi" li kama weka lon sinpin pi nimi "nanpa" en nimi pi ijo mute. kepeken nasin ni la nimi pi ijo mute li kama nimi nanpa.
-*("mute" malaperas antaŭ "wan" kaj "tu". Tiel ili fariĝas numeraloj. "pi" malaperas antaŭ "nanpa" kaj numeralo. Tiel numeraloj fariĝas ordinaloj.)*
-
-* tomo ~~pi mute~~ tu *(domoj de dividita multeco)* → tomo tu *(du domoj)*
-* toki ~~pi~~ nanpa "wan" *(lingvo de la numero "unu")* → toki nanpa wan *(la unua lingvo)*
+* jan Isa li toki e ***nimi ni*** "..." → jan Isa li toki e ***ni***: "..." *(Jesuo diris: "...")*
+* toki ***pi nimi "Epelanto"*** → toki ***Epelanto*** *(Esperanto)*
 
 ## toki namako
 *(Kroma Lingvaĵo)*
 
-nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin" li jo e nimi pi kon sama.
-*("ale, "sin", "a" kaj "lukin" havas sinonimojn.)*
+nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin" li ken kama "ali", "namako", "kin" en "oko".
+*("ale, "sin", "a" kaj "lukin" povas fariĝi "ali", "namako", "kin" kaj "oko".)*
 
 * ***ale*** → ***ali*** *(ĉio)*
 * ***sin*** → ***namako*** *(aldona)*
 * ***a*** → ***kin*** *(ja)*
 * ***lukin*** → ***oko*** *(vidi, okulo)*
 
-monsi pi nimi "taso" la [nimi ilo](#nimi-ilo) "la" li kama weka.
-*(Post "taso" malaperas "la".)*
+...
+[nimi kalama](#nimi-ilo) "a" li ken kama [nimi ilo](#nimi-ilo) pi palisa ala. sin la nimi "sona" li ken kama ante en nimi "a" li jo ala e sitelen kulupu. ni li sama toki ike.
+*(La sonimito "a" povas fariĝi netransitiva partikulo. Aldone, la vorto "sona" povas ŝanĝiĝi.
+Tiam "a" ne havas komon. Tio ŝajnas evitinda.)*
 
-* taso ***~~la~~*** mije en meli li pali li pilin pona. → taso mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj.)*
+* ona sama li kalama musi. *(Ŝi same muzikas. → Ŝi mem/efektive muzikas.)*
+* ona a li kalama musi. *(Eĉ/ankaŭ ŝi muzikas.)*
+* sina pu***, a***! → sina pu ***a***! *(Vi ja estas interaganta kun la oficiala libro de Tokipono.)*
+* ***a, a, a!*** → ***a a a***! *(Ha, ha, ha!)*
+
+monsi pi nimi "taso" la [nimi ilo](#nimi-ilo) "la" li ken kama weka.
+*("la" post "taso" povas malaperi.)*
+
+* ***taso la*** mije en meli li pali li pilin pona. → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj.)*
+
+nimi "mute" li ken kama weka lon sinpin pi nimi "wan" en nimi "tu". kepeken nasin ni la ona li kama nimi pi ijo mute.
+*("mute" povas malaperi antaŭ "wan" kaj "tu". Tiel ili fariĝas numeraloj.)*
+
+* tomo ***pi mute tu*** *(domoj de dividita kvanto)* → tomo ***tu*** *(du domoj)*
+* tomo ***pi mute pi tu en wan*** *(domoj de dividita kaj kontinua kvantoj)* → tomo ***tu wan***
+
+nimi "pi" li ken kama weka lon sinpin pi nimi "nanpa" en nimi pi ijo mute. kepeken nasin ni la nimi pi ijo mute li kama nimi nanpa.
+*("pi" povas malaperi antaŭ "nanpa" kaj numeralo. Tiel numeraloj fariĝas ordinaloj.)*
+
+* toki ***pi nanpa "wan"*** *(lingvo de la numero "unu")* → toki ***nanpa wan*** *(la unua lingvo)*
 
 ## toki apeja
 *(Slango)*
@@ -214,7 +229,7 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa
 *(Multaj modifiloj povas fariĝi substantivoj kun aldona signifo, ĉar ili havas implican substantivon.)*
 
 * ***suno*** *(hela)*
- * ~~ijo~~ ***suno*** → ***suno*** *(helaĵo, lumo, suno)*
+ * ~~ijo~~ ***suno*** → ***suno*** *(brilaĵo; lumo, suno)*
 
 ## nimi ilo
 *(Partikuloj)*
@@ -296,11 +311,9 @@ nimi pi jan ante li lon insa pi sitelen nimi.
 
 * jan Isa li toki e ni: "mama mi o!" *(Jesuo diris: "Patro mia!")*
 
-nimi "a" en nimi "mu" li **nimi kalama**. monsi la **nimi kalama** "a" li wawa e [kulupu suli](#nimi-ilo). ona li sama [kulupu suli](#nimi-ilo) sin. taso lipu pi toki pona la ona li [nimi ilo](#nimi-ilo). tan ni la sitelen kulupu li lon ala lon poka ona.
-*("a" kaj "mu" estas sonimitoj. Malantaŭe, la sonimito "a" emfazas frazon. Ĝi estas kiel propra frazo. Sed laŭ la oficiala libro de Tokipono, ĝi estas partikuloj. Tial, ne estas komo apud ĝi.)*
+nimi "a" en nimi "mu" li **nimi kalama**. ona li sama [kulupu suli](#nimi-ilo) wan.
+*("a" kaj "mu" estas sonimitoj. Ili estas kiel aparta frazo.)*
 
-* sina pu***, a***! → sina pu ***a***! *(Vi ja estas interaganta kun la oficiala libro de Tokipono.)*
-* ***a, a, a!*** → ***a a a***! *(Ha, ha, ha!)*
 * ***mu***! *(Miaŭ!)*
 
 ### sitelen sin lon insa nimi
