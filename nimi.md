@@ -37,14 +37,10 @@
 * **open** *(trairebla, malfermita)* `Ü` → ~~ma~~ … *(traireblo, malfermiteco)* → kepeken **open** *(tra)* `Ü` → kepeken **open** poka *(preter)* `Ü`
 * **palisa** *(montri, indiki)* → ~~ilo~~ … *(montrilo, indikilo; fingro, bastono)*
 * **pipi** *(rampa)* `Ü` → ~~sijelo~~ … *(rampa besto; insekto)*
-* **poka** *(apuda)* → ~~ijo~~ … *(apudaĵo; flanko, kokso)*
- * lon **poka** *(ĉe la flanko; apud, kun)*
- * lon **poka** ante *(ĉe la alia flanko; trans)*
+* **poka** *(apuda)* → ~~ijo~~ … *(apudaĵo; flanko, kokso)* → lon **poka** *(ĉe la flanko; apud, kun)* → lon **poka** ante *(ĉe la alia flanko; trans)*
 * **poki** *(enhavi)* → ~~ilo~~ … *(enhavilo; ingo, ujo)*
 * **seli** *(varma, arda)* → ~~ijo~~ … *(varmaĵo, ardaĵo; fajro)*
-* **selo** *(eksterna)* `Ü` → ~~ijo~~ … *(eksternaĵo; ŝelo, haŭto, formo)*
- * lon **selo** *(ekster)* `Ü`
- * lon **selo** sike *(ĉe ronda eksterno; ĉirkaŭ)* `Ü`
+* **selo** *(eksterna)* `Ü` → ~~ijo~~ … *(eksternaĵo; ŝelo, haŭto, formo)* → lon **selo** *(ekster)* `Ü` → lon **selo** sike *(ĉe ronda eksterno; ĉirkaŭ)* `Ü`
 * **seme** *(kiu)* → ~~ijo~~ … *(kio)*
 * **sewi** *(alta)* → ~~ma~~ sewi *(alto; ĉielo)* → lon **sewi** *(super)*
 * **sijelo** *(viva, sana)* `Ü` → ~~ijo~~ … *(vivaĵo, sanaĵo; besto, korpo)*
