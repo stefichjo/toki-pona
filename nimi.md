@@ -142,9 +142,7 @@
 * **sona** *(koni, scii)* → **…** ~~e ni:~~ *(scipovas)*
 * **wile** *(bezonanta)* → **…** ~~e ni:~~ *(devas, volas)*
 
-# nimi ante
-*()*
-
+___
 * **jan pona** *(bonulo; amiko)*
 * **tomo tawa** *(mova ĉambro; aŭto)*
  * **tomo tawa kon** *(aera mova ĉambro; aviadilo)*
