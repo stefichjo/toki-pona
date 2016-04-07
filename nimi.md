@@ -1,5 +1,5 @@
 # nimi pi toki pona
-*(Vortoj de Tokipono)*
+*(Vortaro de Tokipono)*
 
 ## nimi ilo
 *(Partikuloj)*
