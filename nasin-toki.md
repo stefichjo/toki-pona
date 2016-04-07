@@ -90,8 +90,9 @@ nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin" li ken kama "ali", "namako"
 *(La sonimito "a" povas fariĝi netransitiva partikulo. Aldone, la vorto "sona" povas ŝanĝiĝi.
 Tiam "a" ne havas komon.)*
 
-* ona sama li kalama musi. *(Ŝi same muzikas. → Ŝi mem/efektive muzikas.)*
-* ona a li kalama musi. *(Eĉ/ankaŭ ŝi muzikas.)*
+* ***sama*** la ona li kalama musi. *(Same, ŝi muzikas.)*
+* ona ***sama*** li kalama musi. *(Ŝi mem muzikas.)*
+* ona a/kin li kalama musi. *(Eĉ/ankaŭ ŝi muzikas.)*
 * sina pu***, a***! → sina pu ***a***! *(Vi ja estas interaganta kun la oficiala libro de Tokipono.)*
 * ***a, a, a!*** → ***a a a***! *(Ha, ha, ha!)*
 
