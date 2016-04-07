@@ -1,7 +1,3 @@
-# nimi
-
-strange ~~~strange~~~. nu…
-
 * **ala** *(neniu)*
  * ~~ijo~~ … *(nenio)*
 
