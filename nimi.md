@@ -50,9 +50,9 @@
 * **suno** *(hela, brila)* → ~~ijo~~ … *(helaĵo, brilaĵo; lumo, suno)*
 * **supa** *(horizontala)* `Ü` → ~~ijo~~ … *(horizontalaĵo; seĝo, lito, tablo)* → lon **supa** *(sur)* `Ü`
 * **suwi** *(dolĉa)* → ~~ijo~~ … *(dolĉaĵo)*
-* **taso** *(libera, sendependa, nura)* `Ü` → **taso** *(libereco, sendependeco, nureco)* → lon **taso** *(sen)* `Ü`
+* **taso** *(libera, sendependa, nura)* `Ü` → **…** *(libereco, sendependeco, nureco)* → lon **taso** *(sen)* `Ü`
 * **telo** *(likva, malseka)* → ~~ijo~~ … *(likvaĵo, malsekaĵo; likvo, akvo)*
 * **tomo** *(sekura, fortika)* `Ü` → ~~ijo~~ … *(sekuraĵo, fortikaĵo; domo, ĉambro, hejmo)* → lon **tomo** *(ĉe)*
 * **uta** *(kisi)* → ~~ilo~~ … *(kisilo; buŝo)*
 * **waso** *(fluga)* `Ü` → ~~soweli~~ … *(fluga besto; birdo)*
-* **weka** *(fora, distanca, izola)* → **weka** *(foreco, distanco, izoleco)* → lon **weka** *(fore de)*
+* **weka** *(fora, distanca, izola)* → **…** *(foreco, distanco, izoleco)* → lon **weka** *(fore de)*
