@@ -92,8 +92,8 @@
 
 * **poka** *(apuda)*
  * ~~ijo~~ … *(apudaĵo; flanko, kokso)*
-   * lon **poka** *(ĉe la flanko; apud, kun)*
-   * lon **poka** ante *(ĉe la alia flanko; trans)*
+    * lon **poka** *(ĉe la flanko; apud, kun)*
+    * lon **poka** ante *(ĉe la alia flanko; trans)*
 
 * **poki** *(enhavi)*
  * ~~ilo~~ … *(enhavilo; ingo, ujo)*
