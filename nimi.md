@@ -1,6 +1,8 @@
 # nimi
 *(Vortaro)*
 
+* **akesi** *(malvarmsanga, malica)* `Ü`
+ * ~~sijelo~~ … *(malvarmsanga besto, malica besto; reptilo, amfibio)*
 * **ala** *(neniu)*
  * ~~ijo~~ … *(nenio)*
 * **ale** *(ĉiu)*
@@ -14,6 +16,12 @@
 * **insa** *(interna)*
  * ~~ijo~~ … *(internaĵo; centro, mezo)* → lon **insa** *(centre de, meze de, inter)*
  * ~~ma~~ … *(interno)* → lon **insa** *(interne de, en)*
+* **jan** *(anima)* `Ü`
+ * ~~sijelo~~ … *(anima besto; ulo, persono, homo)*
+* **kala** *(naĝa)* `Ü`
+ * ~~sijelo~~ … *(naĝa vesto; fiŝo)*
+* **kasi** *(kreska)* `Ü`
+ * ~~sijelo~~ … *(kreska besto; planto)*
 * **kili** *(sukcesa)* `Ü`
  * ~~ijo~~ … *(sukcesaĵo; frukto)*
 * **kiwen** *(malmola)*
@@ -61,6 +69,8 @@
     * kepeken **open** poka *(preter)* `Ü`
 * **palisa** *(montri, indiki)*
  * ~~ilo~~ … *(montrilo, indikilo; fingro, bastono)*
+* **pipi** *(rampa)* `Ü`
+ * ~~sijelo~~ … *(rampa besto; insekto)*
 * **poka** *(apuda)*
  * ~~ijo~~ … *(apudaĵo; flanko, kokso)*
     * lon **poka** *(ĉe la flanko; apud, kun)*
@@ -83,6 +93,8 @@
  * ~~ijo~~ … *(rondaĵo; cirklo, sfero, kuglo)*
 * **sinpin** *(antaŭa)*
  * ~~ijo~~ … *(antaŭaĵo; fronto, muro, obstaklo)* → lon **sinpin** *(antaŭ)*
+* **soweli** *(varmsanga, ĉarma)* `Ü`
+ * ~~sijelo~~ … *(varmsanga besto, ĉarma besto; mamulo)*
 * **suno** *(hela, brila)*
  * ~~ijo~~ … *(helaĵo, brilaĵo; lumo, suno)*
 * **supa** *(horizontala)* `Ü`
@@ -97,5 +109,7 @@
  * ~~ijo~~ … *(sekuraĵo, fortikaĵo; domo, ĉambro, hejmo)* → lon **tomo** *(ĉe)*
 * **uta** *(kisi)*
  * ~~ilo~~ … *(kisilo; buŝo)*
+* **waso** *(fluga)* `Ü`
+ * ~~soweli~~ … *(fluga besto; birdo)*
 * **weka** *(fora, distanca, izola)*
  * **weka** *(foreco, distanco, izoleco)* → lon **weka** *(fore de)*
