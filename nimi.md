@@ -85,7 +85,7 @@
 
 * **open** *(trairebla, malfermita)* `Ü`
  * ~~ma~~ open *(traireblo, malfermiteco)* → kepeken **open** *(tra)* `Ü`
-  * kepeken **open** poka *(preter)* `Ü`
+    * kepeken **open** poka *(preter)* `Ü`
 
 * **palisa** *(montri, indiki)*
  * ~~ilo~~ … *(montrilo, indikilo; fingro, bastono)*
@@ -103,8 +103,8 @@
 
 * **selo** *(eksterna)* `Ü`
  * ~~ijo~~ … *(eksternaĵo; ŝelo, haŭto, formo)*
-  * lon **selo** *(ekster)* `Ü`
-  * lon **selo** sike *(ĉe ronda eksterno; ĉirkaŭ)* `Ü`
+    * lon **selo** *(ekster)* `Ü`
+    * lon **selo** sike *(ĉe ronda eksterno; ĉirkaŭ)* `Ü`
 
 * **seme** *(kiu)*
  * ~~ijo~~ … *(kio)*
