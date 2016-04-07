@@ -3,15 +3,13 @@
 
 * **ala** *(neniu)*
  * ~~ijo~~ … *(nenio)*
-
 * **ale** *(ĉiu)*
  * ~~ijo~~ … *(ĉio)*
-
 * **anpa** *(malsupra)*
  * ~~ma~~ … *(malsupro)* → lon **anpa** *(sub)*
 
 * **esun** *(interŝanĝi)* `Ü`
- * ~~ma~~ … *(interŝanĝejo; merkato)* → lon **esun** *(por, kontraŭ)*
+ * ~~ma~~ … *(interŝanĝejo; merkato)* → lon **esun** *(por, kontraŭ)* `Ü`
 
 * **ilo** *(utila)* `Ü`
  * ~~ijo~~ … *(utilaĵo; ilo, instrumento, organo)*
@@ -26,10 +24,10 @@
 * **kiwen** *(malmola)*
  * ~~ijo~~ … *(malmolaĵo; ŝtono, metalo, osto)*
 
-* **ko** *(amorfa)*
+* **ko** *(amorfa)* `Ü`
  * ~~ijo~~ … *(amorfaĵo; amaso, pulvoro)*
 
-* **kon** *(ŝveba)*
+* **kon** *(ŝveba)* `Ü`
  * ~~ijo~~ … *(ŝvebaĵo; fumo, gaso, aero)*
 
 * **kule** *(aspekta)* `Ü`
