@@ -65,17 +65,18 @@
 * **meli** *(ina)* → ~~jan~~ **…** *(ino; virino)*
 * **mi** *(mi, ni)*
 * **mije** *(malina)* → ~~jan~~ **…** *(malino; viro)*
-* **moku** *(manĝi)* → ~~ijo~~ **…** *(manĝaĵo; manĝo)*
+* **moku** *(manĝi)*
 * **moli** *(mortinta)*
 * **monsi** *(malantaŭa)* → ~~ijo~~ **…** *(malantaŭaĵo; dorso)* → lon **monsi** *(malantaŭ)*
 * **mun** *(orbita)* `Ü` → ~~ijo~~ **…** *(orbitaĵo; luno, planedo, satelito)*
 * **musi** *(ludanta)*
+* **mute** *(multa)* → **…** *(multo; kvanto)*
 * **nanpa** *(kalkuli, nombri)* `Ü` → ~~ijo~~ **…** *(kalkulaĵo, nombraĵo; numero)*
 * **nasa** *(stranga)*
 * **nasin** *(direkti)* `Ü` → ~~ijo~~ **…** *(direktaĵo; vojo, strato, maniero)*
 * **nena** *(elstara)* `Ü` → ~~ijo~~ **…** *(elstaraĵo; nazo, monto, faldo)*
 * **ni** *(tiu)* → ~~ijo~~ **…** *(tio)*
-* **nimi** *(signifa)* `Ü` → ~~ijo~~ **…** *(signifaĵo; vorto)*
+* **nimi** *(signifa)* `Ü` → ~~ijo~~ **…** *(signifaĵo; vorto, nomo)*
 * **noka** *(staranta)* → ~~ilo~~ **…** *(starilo; gambo, piedo)* → lon **noka** *(piede de, malsupre de)*
 * **olin** *(ami)*
 * **ona** *(ŝi, li, ĝi, ili)*
@@ -87,7 +88,7 @@
 * **pipi** *(rampanta)* `Ü` → ~~sijelo~~ **…** *(rampanta besto; insekto)*
 * **poka** *(apuda)* → ~~ijo~~ **…** *(apudaĵo; flanko, kokso)* → lon **poka** *(ĉe la flanko; apud, kun)* → lon **poka** ante *(ĉe la alia flanko; trans)*
 * **poki** *(protekti, konservi, ŝirmi)* → ~~ilo~~ **…** *(protektilo, konservilo, ŝirmilo; ingo, ujo)*
-* **pona** *(bona)*
+* **pona** *(bona, malaĉa, pura)*
 * **pan** *(rakolti)* `Ü` → ~~ijo~~ **…** *(rakoltaĵo; rizo, greno)* → ~~ijo pi ijo~~ **…** *(grenaĵo; pano)*
 * **pana** *(doni)*
 * **pilin** *(senti)* → ~~ilo~~ **…** *(sentilo, sensoro, sentumo; koro)*
@@ -112,10 +113,12 @@
 * **tenpo** *(daŭra)* `Ü` → **…** *(daŭro; tempo)*
 * **toki** *(komuniki, esprimi, diri, paroli)*
 * **tomo** *(sekura, fortika)* `Ü` → ~~ijo~~ **…** *(sekuraĵo, fortikaĵo; domo, ĉambro, hejmo)* → lon **tomo** *(ĉe)*
+* **tu** *(dividita, disa)* → ~~pi mute~~ **…** *(du)* `Ü`
 * **unpa** *(koiti)*
 * **uta** *(kisi)* → ~~ilo~~ **…** *(kisilo; buŝo)*
 * **utala** *(batali)*
 * **walo** *(hela, blanka)*
+* **wan** *(unika, kontinua)* → ~~pi mute~~ **…** *(unu)* `Ü`
 * **waso** *(fluganta)* `Ü` → ~~sijelo~~ **…** *(fluganta besto; birdo)*
 * **wawa** *(forta)* → **…** *(forto; energio)*
 * **weka** *(fora, distanca, izola)* → **…** *(foreco, distanco, izoleco)* → lon **weka** *(fore de)*
@@ -134,7 +137,7 @@
 
 * **awen** *(restanta)* → **…** ~~e ni:~~ *(plu-)*
 * **kama** *(aperanta)* → **…** ~~e ni:~~ *(ek-, -iĝas)*
-* **ken** *(kapabla)* → **…** ~~e ni:~~ *(povas)*
+* **ken** *(ebla)* → **…** ~~e ni:~~ *(povas)*
 * **lukin** *(vidi, rigardi)*
  * ~~ilo~~ **…** *(vidilo, rigardilo; okulo)*
  * **…** ~~tawa ni:~~ *(provas)*
@@ -143,8 +146,9 @@
 * **wile** *(bezonanta)* → **…** ~~e ni:~~ *(devas, volas)*
 
 ___
-* **jan pona** *(bonulo; amiko)*
-* **tomo tawa** *(mova ĉambro; aŭto)*
+* **jan pona** *(bonulo; amiko)* `©`
+* **nimi tomo** *(sekura vorto; pasvorto)*
+* **tomo tawa** *(mova ĉambro; aŭto)* `©`
  * **tomo tawa kon** *(aera mova ĉambro; aviadilo)*
  * **tomo tawa linja** *(linia mova ĉambro; vagono, trajno)*
  * **tomo tawa telo** *(akva mova ĉambro; ŝipo, boato)*
