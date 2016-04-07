@@ -59,7 +59,7 @@
 * **loje** *(ruĝa)*
 * **luka** *(tuŝi, atingi)* → ~~ilo~~ **…** *(tuŝilo, atingilo; mano, brako)*
 * **lupa** *(malplena, kava)* `Ü` → ~~ijo~~ **…** *(malplenaĵo, kavaĵo; truo)*
-* **ma** *(vasta)* `Ü` → ~~ijo~~ **…** *(vastaĵo; ejo, lando, grundo, kampo, tero, loko, spaco)*
+* **ma** *(vasta)* `Ü` → **…** *(vasto; ejo, loko, spaco)* `Ü` → ~~ijo~~ **…** *(vastaĵo; lando, grundo, kampo, tero)*
 * **mama** *(krei)* `Ü` → ~~jan~~ **…** *(kreanto; gepatro)*
 * **mani** *(valora)* `Ü` → ~~ijo~~ **…** *(valoraĵo; mono, resurso, kapitalo)*
 * **meli** *(ina)* → ~~jan~~ **…** *(ino; virino)*
