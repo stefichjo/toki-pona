@@ -114,7 +114,7 @@
 * **tomo** *(sekura, fortika)* `Ü` → ~~ijo~~ **…** *(sekuraĵo, fortikaĵo; domo, ĉambro, hejmo)* → lon **tomo** *(ĉe)*
 * **unpa** *(koiti)*
 * **uta** *(kisi)* → ~~ilo~~ **…** *(kisilo; buŝo)*
-* **utala* *(batali)*
+* **utala** *(batali)*
 * **walo** *(hela, blanka)*
 * **waso** *(fluganta)* `Ü` → ~~sijelo~~ **…** *(fluganta besto; birdo)*
 * **wawa** *(forta)* → **…** *(forto; energio)*
