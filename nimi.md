@@ -49,7 +49,7 @@
 * **seli** *(varma, arda)* → ~~ijo~~ **…** *(varmaĵo, ardaĵo; fajro)*
 * **selo** *(eksterna)* `Ü` → ~~ijo~~ **…** *(eksternaĵo; ŝelo, haŭto, formo)* → lon **selo** *(ekster)* `Ü` → lon **selo** sike *(ĉe ronda eksterno; ĉirkaŭ)* `Ü`
 * **seme** *(kiu)* → ~~ijo~~ **…** *(kio)*
-* **sewi** *(alta)* → ~~ma~~ sewi *(alto; ĉielo)* → lon **sewi** *(super)*
+* **sewi** *(alta)* → ~~ma~~ **…** *(alto; ĉielo)* → lon **sewi** *(super)*
 * **sijelo** *(viva, sana)* `Ü` → ~~ijo~~ **…** *(vivaĵo, sanaĵo; besto, korpo)*
 * **sike** *(ronda)* → ~~ijo~~ **…** *(rondaĵo; cirklo, sfero, kuglo)*
 * **sinpin** *(antaŭa)* → ~~ijo~~ **…** *(antaŭaĵo; fronto, muro, obstaklo)* → lon **sinpin** *(antaŭ)*
@@ -57,10 +57,10 @@
 * **suno** *(brila)* → ~~ijo~~ **…** *(brilaĵo; lumo, suno)*
 * **supa** *(horizontala)* `Ü` → ~~ijo~~ **…** *(horizontalaĵo; seĝo, lito, tablo)* → lon **supa** *(sur)* `Ü`
 * **suwi** *(dolĉa)* → ~~ijo~~ **…** *(dolĉaĵo)*
-* **taso** *(libera, sendependa, nura)* `Ü` → **…** *(libereco, sendependeco, nureco)* → lon **taso** *(sen)* `Ü`
+* **taso** *(libera, sendependa, nura)* `Ü` → **…** *(libereco, sendependeco, nureco)* `Ü` → lon **taso** *(sen)* `Ü`
 * **telo** *(likva, malseka)* → ~~ijo~~ **…** *(likvaĵo, malsekaĵo; likvo, akvo)*
 * **tomo** *(sekura, fortika)* `Ü` → ~~ijo~~ **…** *(sekuraĵo, fortikaĵo; domo, ĉambro, hejmo)* → lon **tomo** *(ĉe)*
 * **uta** *(kisi)* → ~~ilo~~ **…** *(kisilo; buŝo)*
 * **walo** *(hela, blanka)*
 * **waso** *(fluga)* `Ü` → ~~sijelo~~ **…** *(fluga besto; birdo)*
-* **weka** *(fora, distanca, izola)* → **…** *(foreco, distanco, izoleco)* → lon **weka** *(fore de)*
+* **weka** *(fora, distanca, izola)* → **…** *(foreco, distanco, izoleco)* `Ü` → lon **weka** *(fore de)*
