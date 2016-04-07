@@ -53,7 +53,7 @@ kulupu pi [nimi ilo](#nimi-ilo) "e" li nimi "ijo", la ona li ken kama weka. nimi
 *(Se du frazoj ("subjektaj frazeroj") havas la saman subjekton ("predikatan substantivon"), ili povas unuiĝi, se la unua verbo estas "helpa" verbo. La helpa verbo "ken" malaperas malantaŭ la helpa verbo "sona". La helpa verbo "wile" malaperas antaŭ la helpa verbo "lukin".)*
 
 * mi ***wile ~~e ni: mi~~*** lon ma mama mi. → mi ***wile+***lon ma mama mi. *(Mi volas esti en mia patrujo.)*
-* jan mute li ***sona ala ~~e nasin pi ni: ona li ken+~~***tawa lon telo ~~kepeken ona~~. *(Multaj homoj ne scias kiel ili povas moviĝi en akvo.)* → jan mute li ***sona-ala+***tawa lon telo. *(Multaj ne scipovas naĝi.)*
+* jan mute li ***sona ala ~~e nasin pi ijo ni: ona li ken+~~***tawa lon telo ~~kepeken ona~~. *(Multaj homoj ne scias kiel ili povas moviĝi en akvo.)* → jan mute li ***sona-ala+***tawa lon telo. *(Multaj ne scipovas naĝi.)*
 * mije wawa li ***~~wile~~ lukin ~~e ni: ona li~~*** jo e meli pona. → mije wawa li ***lukin+***jo e meli pona. *(La forta viro serĉas bonan virinon.)*
 
 kulupu pi [nimi ilo](nimi-ilo) "la" la [nimi monsi](#nimi-monsi) palisa "lon" (en nimi "ni") li kama weka. monsi pi nimi "taso" la [nimi ilo](#nimi-ilo) "la" li kama weka. " *(En helpa frazero, la prepozicio "lon" (kaj "ni") malaperas. Post "taso" malaperas "la".)*
@@ -113,7 +113,7 @@ nimi "pana e" li ken kama weka.
 nimi pi "ni" lon sinpin pi [kulupu suli](#nimi-ilo) li ken kama weka.
 *(Vortoj de subfrazo povas malaperi.)*
 
-* mi pana e moku tawa jan ***pi ni: ona li kama lon tomo mi***. *(Mi donis manĝon al la persono, kiu aperis en mia domo.)* `Ü`
+* mi pana e moku tawa jan ***pi ijo ni: ona li kama lon tomo mi***. *(Mi donis manĝon al la persono, kiu aperis en mia domo.)* `Ü`
  * → mi pana e moku tawa jan ***pi ona li kama lon tomo mi***.
  * → mi pana e moku tawa jan ***pi li kama lon tomo mi***.
  * → mi pana e moku tawa jan ***pi kama lon tomo mi***.
@@ -282,10 +282,10 @@ sona sin li insa sitelen poki anu sitelen kulupu. *(Aldonaj informoj estas inter
 * mi pilin pona tan ***ni:*** sina kama sona e toki pona. *(Mi ĝojas, ĉar vi lernas Tokiponon.)* `Ü`
  * tan ***ni,*** sina kama sona e toki pona***, la*** mi pilin pona. *(Ĉar vi lernas Tokiponon, mi ĝojas.)* `Ü`
 
-[kulupu suli](#nimi-ilo) lon monsi pi nimi "ni" li sama kulupu pi [nimi monsi](#nimi-monsi). tan ni la nimi "ni" lon sinpin pi [kulupu suli](#nimi-ilo) li kama kulupu pi [nimi monsi](#nimi-monsi), la ona li wile jo e nimi "pi". kepeken nasin ni la ona li kama [kulupu suli](#nimi-ilo) lon monsi pi nimi "pi ni".
+[kulupu suli](#nimi-ilo) lon monsi pi nimi "ni" li sama kulupu pi [nimi monsi](#nimi-monsi). tan ni la nimi "ni" lon sinpin pi [kulupu suli](#nimi-ilo) li kama kulupu pi [nimi monsi](#nimi-monsi), la ona li wile jo e nimi "pi". kepeken nasin ni la ona li kama [kulupu suli](#nimi-ilo) lon monsi pi nimi "pi ijo ni".
 *(Subfrazo estas kiel modifa frazero de "ni". Tial, kiam subfrazo fariĝas modifa frazero, ĝi bezonas havi "pi". Tiel ĝi fariĝas relativa frazo.)*
 
-* jan ***pi ni, mi pana e moku tawa ona,*** li kama lon tomo mi. *(La persono, al kiu mi donis manĝon, aperis en mia domo.)* `Ü`
+* jan ***pi ijo ni, mi pana e moku tawa ona,*** li kama lon tomo mi. *(La persono, al kiu mi donis manĝon, aperis en mia domo.)* `Ü`
 
 nimi pi jan ante li lon insa pi sitelen nimi.
 *(Vortoj de iu alia estas inter citiloj.)*
