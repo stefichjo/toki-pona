@@ -202,6 +202,12 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa
  * → mi lukin ***tawa*** sina.
 * mi lukin+tawa sina. *(Mi provas iri al vi.)*
 
+[nimi monsi](#nimi-monsi) palisa "kepeken" li ken kama [nimi suli](#nimi-ilo) palisa.
+*(La prepozicio "kepeken" povas fariĝi transitiva verbo.)*
+
+* mi ***kepeken*** ilo. *(Mi uzas la instrumenton.)*
+ * → mi ***kepeken e*** ilo.
+
 ## nimi ijo
 *(Radikaj Vortoj)*
 
