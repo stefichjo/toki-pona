@@ -148,9 +148,11 @@
 * **wile** *(bezonanta)* → **…** ~~e ni:~~ *(devas, volas)*
 
 ___
+* **awen sona** *(memori)*
 * **jan pona** *(bonulo; amiko)* `©`
 * **nimi tomo** *(sekura vorto; pasvorto)*
 * **tomo tawa** *(mova ĉambro; aŭto)* `©`
  * **tomo tawa kon** *(aera mova ĉambro; aviadilo)*
  * **tomo tawa linja** *(linia mova ĉambro; vagono, trajno)*
  * **tomo tawa telo** *(akva mova ĉambro; ŝipo, boato)*
+* **toki insa** *(ene paroli; pensi)* `©`
