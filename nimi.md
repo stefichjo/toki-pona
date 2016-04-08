@@ -118,7 +118,9 @@
 * **uta** *(kisi)* → ~~ilo~~ **…** *(kisilo; buŝo)*
 * **utala** *(batali)*
 * **walo** *(hela, blanka)*
-* **wan** *(unika, kontinua)* → ~~pi mute~~ **…** *(unu)* `Ü`
+* **wan** *(unika, aparta, kontinua)*
+ * ~~ijo~~ **…** *(parto)* `Ü`
+ * ~~pi mute~~ **…** *(unu)* `Ü`
 * **waso** *(fluganta)* `Ü` → ~~sijelo~~ **…** *(fluganta besto; birdo)*
 * **wawa** *(forta)* → **…** *(forto; energio)*
 * **weka** *(fora, distanca, izola)* → **…** *(foreco, distanco, izoleco)* → lon **weka** *(fore de)*
