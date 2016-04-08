@@ -1,13 +1,13 @@
 # nasin toki pi toki pona
 *(Gramatiko de Tokipono)*
 
-jan pu li ken kama sona e nasin toki pi toki pona.
-*(Interagante kun la oficiala libro de Tokipono oni povas lerni la gramatikon de Tokipono.)*
+jan pu li ken kama sona e wan taso pi nasin toki pi toki pona. ni li nasin toki pi jan Sonja.
+*(Interagante kun la oficiala libro de Tokipono oni povas lerni nur parton de la gramatiko de Tokipono. Tio estas la lingvouzo de Sonja.)*
 
 * jan sona pi toki pona li pu lon tenpo mute. *(La instruisto de Tokipono ofte konsultas la oficialan libron de Tokipono.)*
 
-taso jan pi pu taso li ken ala kama sona e ale pi toki pona. lipu ni li lukin pana e sona sin ale. ijo pi kama tan ijo sin ni li jo e sitelen  `Ü`.
-*(Sed nura "pu"-anto ne povas lerni ĉion pri Tokipono. Ĉi tiu dokumento provas instrui la reston. Derivaĵoj de tiuj aldonaĵoj havas la signon `Ü`.)*
+kepeken lipu ni la mi lukin pana e sona (ken) pi ijo ale pi nasin toki pi toki pona. tawa mi la kepeken nasin ni pi toki insa la nimi li pona, la mi sitelen e `Ü`.
+*(Per ĉi tiu dokumento provas instrui la (eblan) tuton de la gramatiko de Tokipono. Se mi opinias, ke vortigo estas ĝusta en tiu ĉi senco, mi skribas `Ü`.)*
 
 * o ***luka*** ala e mi! *(Ne tuŝu min!)* `Ü`
 
@@ -38,8 +38,8 @@ sinpin pi [nimi lawa](#nimi-lawa) taso la [nimi ilo](#nimi-ilo) "pi" li kama wek
 * ***~~ijo~~*** ale *(ĉiu aĵo, ĉio)*
 * ~~mama ***ale***~~ *(ĉiu gepatro)* → mama pi ***ijo ale*** *(kreanto de ĉio)*
 
-kulupu pi [nimi ilo](#nimi-ilo) "e" li nimi "ijo", la ona li ken kama weka. nimi "ijo" lon sinpin pi [nimi suli](#nimi-ilo) palisa li jo e kon sama pi kulupu pi [nimi ilo](#nimi-ilo) "e". taso ona li kama weka.
-*(Se la rekta objekto estas "ijo", ĝi povas malaperi. "ijo" antaŭ transitiva verbo havas la saman signifon kiel la rekta objekto, sed ĝi malaperas.)*
+kulupu pi [nimi ilo](#nimi-ilo) "e" li nimi "ijo", la ona li ken kama weka.
+*(Se la rekta objekto estas "ijo", ĝi povas malaperi.)*
 
 * mije li ***sona e ijo***. *(La viro scias aferojn.)* → mije li ***sona***. *(La viro scias.)*
 * ***~~ijo~~*** toki *(parolaĵo)* → toki *(lingvo)*
@@ -213,8 +213,8 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa
 
 * meli ***lili*** li kute ***ike*** e mama. *(La knabinoj misaŭdis la gepatron.)*
 
-**nimi monsi palisa** li lon sinpin pi [nimi lawa](#nimi-lawa). **nimi monsi palisa** li ken ala jo e **nimi monsi**. taso ona li ken kama **nimi monsi** pi palisa ala.
-*(Prepozicio havas objekton. Prepozicio ne povas havi modifilon, sed ĝi povas fariĝi modifilo.)*
+**nimi monsi palisa** li lon sinpin pi [nimi lawa](#nimi-lawa). **nimi monsi palisa** li ken ala jo e **nimi monsi**. **nimi monsi palisa** li ken kama **nimi monsi** pi palisa ala.
+*(Prepozicio havas objekton. Prepozicio ne povas havi modifilon. Prepozicio povas fariĝi modifilo.)*
 
 * ona li ***tawa*** tomo. *(Ŝi iras hejmen.)*
 * tomo ***tawa*** *(aŭto)*
@@ -256,8 +256,8 @@ kepeken **nimi ilo** "la" la kulupu pi [nimi monsi](#nimi-monsi) palisa li ken k
 
 * ni li pona tawa mi. *(Mi ŝatas ĝin.)* → tawa mi la ni li pona. *(Al mi ĝi plaĉas.)*
 
-**nimi ilo** "o" li sama **nimi ilo** "li". taso kulupu pi **nimi suli** lon monsi pi **nimi ilo** "o" li toki e wile pi jan toki.
-*(La partikulo "o" similas al la partikulo "li". Sed la predikato malantaŭ la partikulo "o" esprimas deziron de la parolanto.)*
+**nimi ilo** "o" li sama **nimi ilo** "li". kulupu pi **nimi suli** lon monsi pi **nimi ilo** "o" li toki e wile pi jan toki.
+*(La partikulo "o" similas al la partikulo "li". La predikato malantaŭ la partikulo "o" esprimas deziron de la parolanto.)*
 
 * mi ***o*** moku e ijo pona. *(Mi manĝu ion bonan.)*
 
