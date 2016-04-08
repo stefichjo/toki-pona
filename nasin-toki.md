@@ -85,16 +85,11 @@ nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin" li ken kama "ali", "namako"
 * ***a*** → ***kin*** *(ja)*
 * ***lukin*** → ***oko*** *(vidi, okulo)*
 
-...
-[nimi kalama](#nimi-ilo) "a" li ken kama [nimi ilo](#nimi-ilo) pi palisa ala. sin la nimi "sona" li ken kama ante en nimi "a" li jo ala e sitelen kulupu.
-*(La sonimito "a" povas fariĝi netransitiva partikulo. Aldone, la vorto "sona" povas ŝanĝiĝi.
-Tiam "a" ne havas komon.)*
+[nimi kalama](#nimi-ilo) "a" li ken kama [nimi ilo](#nimi-ilo) pi palisa ala. ni la nimi "a" li jo ala e sitelen kulupu.
+*(La sonimito "a" povas fariĝi netransitiva partikulo. Tiam "a" ne havas komon.)*
 
 * ***sama*** la ona li kalama musi. *(Same, ŝi muzikas.)*
-* ona ***sama*** li kalama musi. *(Ŝi mem muzikas.)*
-* ona a/kin li kalama musi. *(Eĉ/ankaŭ ŝi muzikas.)*
-* sina pu***, a***! → sina pu ***a***! *(Vi ja estas interaganta kun la oficiala libro de Tokipono.)*
-* ***a, a, a!*** → ***a a a***! *(Ha, ha, ha!)*
+* ona ***a***/***kin*** li kalama musi. *(Eĉ/ankaŭ ŝi muzikas.)*
 
 monsi pi nimi "taso" la [nimi ilo](#nimi-ilo) "la" li ken kama weka.
 *("la" post "taso" povas malaperi.)*
