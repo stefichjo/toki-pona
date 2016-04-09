@@ -52,7 +52,7 @@ kulupu pi [nimi ilo](#nimi-ilo) "e" li nimi "ijo", la ona li ken kama weka.
 [kulupu suli](#nimi-ilo) ("kulupu pi [nimi lawa](#nimi-lawa) pi kulupu pi [nimi suli](#nimi-suli)") tu li jo e [nimi lawa suli](#nimi-ilo) ("[nimi lawa](#nimi-lawa) pi kulupu pi [nimi suli](#nimi-ilo)") sama, la ona tu li ken kama wan lon ni: [nimi suli](#nimi-ilo) pi nanpa wan li [nimi suli](#nimi ilo) "sinpin". [nimi suli](#nimi-ilo) sinpin "ken" li kama weka lon monsi pi [nimi suli](#nimi-ilo) sinpin "sona".
 *(Se du frazoj ("subjektaj frazeroj") havas la saman subjekton ("predikatan substantivon"), ili povas unuiĝi, se la unua verbo estas "helpa" verbo. La helpa verbo "ken" malaperas malantaŭ la helpa verbo "sona". La helpa verbo "wile" malaperas antaŭ la helpa verbo "lukin".)*
 
-* mi ***wile ~~e ni: mi~~*** lon ma mama mi. → mi ***wile***lon ma mama mi. *(Mi volas esti en mia patrujo.)*
+* mi ***wile ~~e ni: mi~~*** lon ma mama mi. → mi ***wile*** lon ma mama mi. *(Mi volas esti en mia patrujo.)*
 * jan mute li ***sona ala ~~e nasin pi ijo ni: ona li ken~~*** tawa lon telo ~~kepeken ona~~. *(Multaj homoj ne scias kiel ili povas moviĝi en akvo.)* → jan mute li ***sona ala*** tawa lon telo. *(Multaj ne scipovas naĝi.)*
 * mije wawa li ***~~wile~~ lukin ~~e ni: ona li~~*** jo e meli pona. → mije wawa li ***lukin*** jo e meli pona. *(La forta viro serĉas bonan virinon.)*
 
@@ -182,14 +182,14 @@ nimi lon monsi pi [nimi lawa](#nimi-lawa) "ma" weka li ken kama [nimi monsi](#ni
 *(Prepozicio povas fariĝi helpa verbo.)*
 
 * tenpo kama la mi moku. *(Mi manĝos.)*
- * → mi ***tawa***moku. *(Mi estas manĝonta.)*
+ * → mi ***tawa*** moku. *(Mi estas manĝonta.)*
 * tenpo pini la mi moku. *(Mi manĝis.)*
- * → mi ***tan***moku. *(Mi estas manĝinta.)*
+ * → mi ***tan*** moku. *(Mi estas manĝinta.)*
 
 monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa" li ken kama [nimi ilo](#nimi-ilo).
 *(Malantaŭ transitivaj verboj la prepozicio "tawa" povas fariĝi partikulo.)*
 
-* mi ***lukin***lukin ***e*** sina. *(Mi provas vidi vin.)*
+* mi ***lukin*** lukin ***e*** sina. *(Mi provas vidi vin.)*
  * → mi lukin ***tawa*** sina.
 * mi lukin tawa sina. *(Mi provas iri al vi.)*
 
