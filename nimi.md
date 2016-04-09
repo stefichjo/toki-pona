@@ -84,13 +84,13 @@
 * **pakala** *(aĉa)*
 * **pali** *(fari, labori, efektivigi)*
 * **palisa** *(montri, indiki)* `Ü` → ~~ilo~~ **…** *(montrilo, indikilo; fingro, bastono)*
+* **pan** *(rakolti)* `Ü` → ~~ijo~~ **…** *(rakoltaĵo; semo, greno, rizo)* → ~~moku pi ijo~~ **…** *(grenaĵo; pano)*
+* **pana** *(doni)*
 * **pimeja** *(malhela, nigra)*
 * **pipi** *(rampanta)* `Ü` → ~~sijelo~~ **…** *(rampanta besto; insekto)*
 * **poka** *(apuda)* → ~~ijo~~ **…** *(apudaĵo; flanko, kokso)* → lon **poka** *(ĉe la flanko; apud, kun)* → lon **poka** ante *(ĉe la alia flanko; trans)*
 * **poki** *(protekti, konservi, ŝirmi)* → ~~ilo~~ **…** *(protektilo, konservilo, ŝirmilo; ingo, ujo)*
 * **pona** *(bona, malaĉa, pura)*
-* **pan** *(rakolti)* `Ü` → ~~ijo~~ **…** *(rakoltaĵo; rizo, greno)* → ~~ijo pi ijo~~ **…** *(grenaĵo; pano)*
-* **pana** *(doni)*
 * **pilin** *(senti)* → ~~ilo~~ **…** *(sentilo, sensoro, sentumo; koro)*
 * **pu** *(interaganta kun la oficiala libro de Tokipono)*
 * **seli** *(varma, arda)* → ~~ijo~~ **…** *(varmaĵo, ardaĵo; fajro)*
