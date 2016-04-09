@@ -113,14 +113,12 @@
 * **tenpo** *(daŭra)* `Ü` → **…** *(daŭro; tempo)*
 * **toki** *(komuniki, esprimi, diri, paroli)*
 * **tomo** *(sekura, fortika)* `Ü` → ~~ijo~~ **…** *(sekuraĵo, fortikaĵo; domo, ĉambro, hejmo)* → lon **tomo** *(ĉe)*
-* **tu** *(dividita, disa)* → ~~pi mute~~ **…** *(du)* `Ü`
+* **tu** *(dividita, duopa; du)* `Ü` → ~~ijo~~ **…** *(dividitaĵo, duopaĵo; paro)*
 * **unpa** *(koiti)*
-* **uta** *(kisi)* → ~~ilo~~ **…** *(kisilo; buŝo)*
+* **uta** *(kisi)* → ~~ilo~~ **…** *(kisilo; buŝo, lipoj)*
 * **utala** *(batali)*
 * **walo** *(hela, blanka)*
-* **wan** *(unika, aparta, kontinua)*
- * ~~ijo~~ **…** *(parto)* `Ü`
- * ~~pi mute~~ **…** *(unu)* `Ü`
+* **wan** *(unika, aparta, unuopa; unu)* → ~~ijo~~ **…** *(unikaĵo, apartaĵo, unuopaĵo; ero, unuo, parto, peco)* `Ü`
 * **waso** *(fluganta)* `Ü` → ~~sijelo~~ **…** *(fluganta besto; birdo)*
 * **wawa** *(forta)* → **…** *(forto; energio)*
 * **weka** *(fora, distanca, izola)* → **…** *(foreco, distanco, izoleco)* → lon **weka** *(fore de)*
