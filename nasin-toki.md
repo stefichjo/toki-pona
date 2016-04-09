@@ -32,8 +32,8 @@ sinpin pi [nimi lawa](#nimi-lawa) taso la [nimi ilo](#nimi-ilo) "pi" li kama wek
 
 * toki ***~~pi~~*** pona *(lingvo de bono)* → toki pona *(bona lingvo)*
 
-[nimi lawa](#nimi-lawa) "ijo" lon sinpin pi nimi "ale" en nimi "ala" en nimi "ni" en nimi "seme" li awen lon ni taso: ona li kama nimi lawa pi kulupu pi [nimi monsi](#nimi-monsi).
-*(La substantivo "ijo" antaŭ "ale", "ala", "ni" kaj "seme" restas nur, se ĝi fariĝas la ĉefa vorto de modifa frazero.)*
+[nimi lawa](#nimi-lawa) "ijo" lon sinpin pi nimi "ale" anu nimi "ala" anu nimi "ni" anu nimi "seme" li li kama ala weka lon ni taso: ona li kama nimi lawa pi kulupu pi [nimi monsi](#nimi-monsi).
+*(La substantivo "ijo" antaŭ "ale", "ala", "ni" aŭ "seme" malaperas, krom se ĝi fariĝas la ĉefa vorto de modifa frazero.)*
 
 * ***~~ijo~~*** ale *(ĉiu aĵo, ĉio)*
 * ~~mama ***ale***~~ *(ĉiu gepatro)* → mama pi ***ijo ale*** *(kreanto de ĉio)*
@@ -314,4 +314,3 @@ nimi "a" en nimi "mu" li **nimi kalama**. ona li sama [kulupu suli](#nimi-ilo) w
 *("a" kaj "mu" estas sonimitoj. Ili estas kiel aparta frazo.)*
 
 * ***mu***! *(Bla!)*
-
