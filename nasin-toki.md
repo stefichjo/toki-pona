@@ -73,6 +73,7 @@ nimi "nimi" li kama weka lon sinpin pi nimi tan jan ante anu nimi pi ijo ante.
 
 * jan Isa li toki e ***nimi ni*** "..." → jan Isa li toki e ***ni***: "..." *(Jesuo diris: "...")*
 * toki ***pi nimi "Epelanto"*** → toki ***Epelanto*** *(Esperanto)*
+* sina nanpa ***pi nimi "wan"***. → sina nanpa ***wan***. *(Vi estas la unua.)*
 
 ## toki namako
 *(Kroma Lingvaĵo)*
@@ -96,16 +97,11 @@ monsi pi nimi "taso" la [nimi ilo](#nimi-ilo) "la" li ken kama weka.
 
 * ***taso la*** mije en meli li pali li pilin pona. → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj.)*
 
-nimi "mute" li ken kama weka lon sinpin pi nimi "wan" en nimi "tu". kepeken nasin ni la ona li kama ***nimi pi ijo mute***.
-*("mute" povas malaperi antaŭ "wan" kaj "tu". Tiel ili fariĝas numeraloj.)*
+nimi "nanpa" li ken kama wan pi kulupu lon monsi pi nimi "nimi" weka.
+*("nanpa" povas fariĝi parto de nomo.)*
 
-* tomo ***pi mute tu*** *(domoj de dividita kvanto)* → tomo ***tu*** *(du domoj)*
-* tomo ***pi mute pi tu en wan*** *(domoj de dividita kaj kontinua kvantoj)* → tomo ***tu wan***
-
-nimi "pi" li ken kama weka lon sinpin pi nimi "nanpa" en nimi pi ijo mute. kepeken nasin ni la ***nimi pi ijo mute*** li kama nimi nanpa.
-*("pi" povas malaperi antaŭ "nanpa" kaj numeralo. Tiel numeraloj fariĝas ordinaloj.)*
-
-* toki ***pi nanpa "wan"*** *(lingvo de la numero "unu")* → toki ***nanpa wan*** *(la unua lingvo)*
+* toki ***pi nanpa wan***
+ * → toki ***pi nimi "nanpa wan"*** → toki ***nanpa wan*** *(la unua lingvo)*
 
 nimi "anu seme" li ken kama nimi "ala" en [nimi suli](#nimi-ilo) sama nanpa tu.
 *(Sed "anu seme" povas fariĝi "ala" kaj dua sama verbo.)*
@@ -129,6 +125,12 @@ nimi "pana e" li ken kama weka.
 * mi telo e kasi. *(Mi malsekigas la planton.)*
 * mi ***pana e*** telo tawa kasi. *(Mi akvumas la planton.)*
  * → mi ***telo e*** kasi.
+
+kulupu pi [nimi ilo](#nimi-ilo) "e" li ken kama [nimi monsi](#nimi-monsi).
+*(Rekta objekto povas fariĝi modifilo.)*
+
+* mi lukin ***e anpa***. *(Mi rigardas malsupren.)*
+ * → mi lukin ***anpa***.
 
 nimi pi "ni" lon sinpin pi [kulupu suli](#nimi-ilo) li ken kama weka.
 *(Vortoj de subfrazo povas malaperi.)*
