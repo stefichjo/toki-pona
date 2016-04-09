@@ -12,3 +12,10 @@
 * **sona** → **lipu sin** *(nova paĝo)*
 * **toki** → **ijo sin** *(novaĵo)*
 * **walo** → **kule wawa** *(forta koloro)*
+
+* **akesi** → **sijelo lete** *(malvarma vivaĵo)*
+* **kala** → **sijelo tawa lon telo** *(vivaĵo moviĝanta en akvo)*
+* **kasi** → **sijelo ma** *(tera vivaĵo)*
+* **pipi** → **sijelo tawa lon ma** *(vivaĵo moviĝanta en tero)*
+* **soweli** → **sijelo seli** *(varma vivaĵo)*
+* **waso** → **sijelo tawa lon kon** *(vivaĵo moviĝanta en aero)*
