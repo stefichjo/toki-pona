@@ -53,8 +53,8 @@ kulupu pi [nimi ilo](#nimi-ilo) "e" li nimi "ijo", la ona li ken kama weka.
 *(Se du frazoj ("subjektaj frazeroj") havas la saman subjekton ("predikatan substantivon"), ili povas unuiĝi, se la unua verbo estas "helpa" verbo. La helpa verbo "ken" malaperas malantaŭ la helpa verbo "sona". La helpa verbo "wile" malaperas antaŭ la helpa verbo "lukin".)*
 
 * mi ***wile ~~e ni: mi~~*** lon ma mama mi. → mi ***wile***lon ma mama mi. *(Mi volas esti en mia patrujo.)*
-* jan mute li ***sona ala ~~e nasin pi ijo ni: ona li ken~~***tawa lon telo ~~kepeken ona~~. *(Multaj homoj ne scias kiel ili povas moviĝi en akvo.)* → jan mute li ***sona ala***tawa lon telo. *(Multaj ne scipovas naĝi.)*
-* mije wawa li ***~~wile~~ lukin ~~e ni: ona li~~*** jo e meli pona. → mije wawa li ***lukin***jo e meli pona. *(La forta viro serĉas bonan virinon.)*
+* jan mute li ***sona ala ~~e nasin pi ijo ni: ona li ken~~*** tawa lon telo ~~kepeken ona~~. *(Multaj homoj ne scias kiel ili povas moviĝi en akvo.)* → jan mute li ***sona ala*** tawa lon telo. *(Multaj ne scipovas naĝi.)*
+* mije wawa li ***~~wile~~ lukin ~~e ni: ona li~~*** jo e meli pona. → mije wawa li ***lukin*** jo e meli pona. *(La forta viro serĉas bonan virinon.)*
 
 kulupu pi [nimi ilo](nimi-ilo) "la" la [nimi monsi](#nimi-monsi) palisa "lon" (en nimi "ni") li kama weka. " *(En helpa frazero, la prepozicio "lon" (kaj "ni") malaperas.)*
 
@@ -314,3 +314,4 @@ nimi "a" en nimi "mu" li **nimi kalama**. ona li sama [kulupu suli](#nimi-ilo) w
 *("a" kaj "mu" estas sonimitoj. Ili estas kiel aparta frazo.)*
 
 * ***mu***! *(Bla!)*
+
