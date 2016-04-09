@@ -112,7 +112,6 @@ nimi "anu seme" li ken kama nimi "ala" en [nimi suli](#nimi-ilo) sama nanpa tu.
 
 * ona li ***mama anu seme***? → ona li ***mama ala mama?*** *(Ĉu ŝi estas gepatro?)*
 
-
 ## toki apeja
 *(Slango)*
 
@@ -176,16 +175,6 @@ nimi lon monsi pi [nimi lawa](#nimi-lawa) "ma" weka li ken kama [nimi monsi](#ni
 
 * waso li tawa lon kon ***lon sewi pi*** tomo sona. *(Birdo flugas super la lernejo.)*
  * → waso li tawa lon kon ***sewi*** tomo sona.
-
-[nimi kalama](#sitelen-lon-insa-nimi) li ken kama [nimi ijo](#nimi-ijo).
-*(Sonimito povas fariĝi radika vorto.)*
-
-* soweli li toki e ni: ***"mu"*** *(La kato miaŭas.)*
- * → soweli li ***mu***.
-* ona ***sama*** li kalama musi. *(Ŝi same muzikas.)*
- * → ona a li kalama musi. *(Eĉ ŝi muzikas.)*
- * → ona kin li kalama musi. *(Ankaŭ ŝi muzikas.)*
- * → ona ***sama*** li kalama musi. *(Ŝi mem muzikas.)*
 
 [nimi monsi](#nimi-monsi) palisa li ken kama [nimi suli](#nimi-ilo) sinpin.
 *(Prepozicio povas fariĝi helpa verbo.)*
@@ -322,7 +311,7 @@ nimi pi jan ante li lon insa pi sitelen nimi.
 nimi "a" en nimi "mu" li **nimi kalama**. ona li sama [kulupu suli](#nimi-ilo) wan.
 *("a" kaj "mu" estas sonimitoj. Ili estas kiel aparta frazo.)*
 
-* ***mu***! *(Miaŭ!)*
+* ***mu***! *(Bla!)*
 
 ### sitelen sin lon insa nimi
 *(Aldona Interpunkcio)*
