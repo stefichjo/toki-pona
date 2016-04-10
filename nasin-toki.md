@@ -6,18 +6,18 @@ lipu ni li lukin toki e nasin toki ale pi toki pona. jan Sonja li toki ala e nas
 
 * o ***luka*** ala e seli! *(Ne tuŝu la fajron!)* `Ü`
 
-wan lipu ["toki lili"](#toki-lili) li toki e nasin toki pi jan ale pi toki pona.
+wan lipu "[toki lili](#toki-lili)" li toki e nasin toki pi jan ale pi toki pona.
 *(La sekcio "Konciza Lingvaĵo" traktas la lingvouzon de ĉiuj tokiponistoj.)*
 
 * sina ~~***li***~~ sin. → sina sin. *(Vi estas nova.)*
 
-wan lipu ["toki namako"](#toki-namako) li toki e nasin toki sin pi jan Sonja lon lipu pi toki pona.
+wan lipu "[toki namako](#toki-namako)" li toki e nasin toki sin pi jan Sonja lon lipu pi toki pona.
 *(La sekcio "Aldona Lingvaĵo" traktas la aldonan lingvouzon de Sonja en la oficiala libro de Tokipono.)*
 
 * toki ***pi nanpa wan*** *(la unua lingvo)* `Ü`
  * → toki ***nanpa wan***
 
-wan lipu ["toki apeja"](#toki-apeja) li toki e nasin toki sin pi jan nasa ni: ona li wile ante e toki pona.
+wan lipu "[toki apeja](#toki-apeja)" li toki e nasin toki sin pi jan nasa ni: ona li wile ante e toki pona.
 *(La sekcio "Slanga Lingvaĵo" traktas la aldonan lingvouzon de tokiponidistoj.)*
 
 * mi tawa ***lon poka pi*** jan pona. *(Mi iras kun amiko.)*
