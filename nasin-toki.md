@@ -1,15 +1,25 @@
 # nasin toki pi toki pona
 *(Gramatiko de Tokipono)*
 
-jan pu li ken kama sona e wan taso pi nasin toki pi toki pona. ni li nasin toki pi jan Sonja.
-*(Interagante kun la oficiala libro de Tokipono oni povas lerni nur parton de la gramatiko de Tokipono. Tio estas la lingvouzo de Sonja.)*
+lipu ni li lukin toki e nasin toki ale pi toki pona. jan Sonja li toki ala e nasin toki, la sitelen "`Ü`" li lon.
+*(Tiu ĉi paĝo celas trakti la tutan gramatikon de Tokipono. Se Sonja ne traktas iun gramatikeron, la signo "`Ü`" uziĝas.)*
 
-* jan sona pi toki pona li pu lon tenpo mute. *(La instruisto de Tokipono ofte konsultas la oficialan libron de Tokipono.)*
+* o ***luka*** ala e seli! *(Ne tuŝu la fajron!)* `Ü`
 
-kepeken lipu ni la mi lukin pana e sona (ken) pi ijo ale pi nasin toki pi toki pona. tawa mi la kepeken nasin ni pi toki insa la nimi li pona, la mi sitelen e `Ü`.
-*(Per ĉi tiu dokumento provas instrui la (eblan) tuton de la gramatiko de Tokipono. Se mi opinias, ke vortigo estas ĝusta en tiu ĉi senco, mi skribas `Ü`.)*
+wan lipu ["toki lili"](#toki-lili) li toki e nasin toki pi jan ale pi toki pona.
+*(La sekcio "Konciza Lingvaĵo" traktas la lingvouzon de ĉiuj tokiponistoj.)*
 
-* o ***luka*** ala e mi! *(Ne tuŝu min!)* `Ü`
+* sina ~~***li***~~ sin. → sina sin. *(Vi estas nova.)*
+
+wan lipu ["toki namako"](#toki-namako) li toki e nasin toki sin pi jan Sonja lon lipu pi toki pona.
+*(La sekcio "Aldona Lingvaĵo" traktas la aldonan lingvouzon de Sonja en la oficiala libro de Tokipono.)*
+
+* toki ***pi nanpa wan*** `Ü` → toki ***nanpa wan*** *(la unua lingvo)*
+
+wan lipu ["toki apeja"](#toki-apeja) li toki e nasin toki sin pi jan nasa ni: ona li wile ante e toki pona.
+*(La sekcio "Slanga Lingvaĵo" traktas la aldonan lingvouzon de tokiponidistoj.)*
+
+* mi tawa ***lon poka pi*** jan pona. → mi tawa ***poka*** jan pona. *(Mi iras kun amiko.)*
 
 ## toki lili
 *(Konciza Lingvaĵo)*
@@ -48,6 +58,7 @@ kulupu pi [nimi ilo](#nimi-ilo) "e" li nimi "ijo", la ona li ken kama weka.
 *(Netransitiva verbo povas fariĝi transitiva. Tiam helpa verbo malaperas.)*
 
 * telo li ***~~ijo e ni:~~*** mi ***~~kama~~*** wawa. *(Akvo igas, ke mi fortiĝas.)* → telo li wawa ***e*** mi. *(Akvo fortigas min.)*
+* telo li kama wawa e mi. *(Akvo komencas fortigi min.)*
 
 [kulupu suli](#nimi-ilo) ("kulupu pi [nimi lawa](#nimi-lawa) pi kulupu pi [nimi suli](#nimi-suli)") tu li jo e [nimi lawa suli](#nimi-ilo) ("[nimi lawa](#nimi-lawa) pi kulupu pi [nimi suli](#nimi-ilo)") sama, la ona tu li ken kama wan lon ni: [nimi suli](#nimi-ilo) pi nanpa wan li [nimi suli](#nimi ilo) "sinpin". [nimi suli](#nimi-ilo) sinpin "ken" li kama weka lon monsi pi [nimi suli](#nimi-ilo) sinpin "sona".
 *(Se du frazoj ("subjektaj frazeroj") havas la saman subjekton ("predikatan substantivon"), ili povas unuiĝi, se la unua verbo estas "helpa" verbo. La helpa verbo "ken" malaperas malantaŭ la helpa verbo "sona". La helpa verbo "wile" malaperas antaŭ la helpa verbo "lukin".)*
@@ -74,9 +85,10 @@ nimi "nimi" li kama weka lon sinpin pi nimi tan jan ante anu nimi pi ijo ante.
 * jan Isa li toki e ***nimi ni*** "..." → jan Isa li toki e ***ni***: "..." *(Jesuo diris: "...")*
 * toki ***pi nimi "Epelanto"*** → toki ***Epelanto*** *(Esperanto)*
 * sina nanpa ***pi nimi "wan"***. → sina nanpa ***wan***. *(Vi estas la unua.)*
+* ona li kute e ***nimi "mu"*** wawa. → ona li kute e ***mu*** wawa. *(Li aŭdis laŭtan blekon.)*
 
 ## toki namako
-*(Kroma Lingvaĵo)*
+*(Aldona Lingvaĵo)*
 
 nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin" li ken kama "ali", "namako", "kin" en "oko".
 *("ale, "sin", "a" kaj "lukin" povas fariĝi "ali", "namako", "kin" kaj "oko".)*
@@ -89,32 +101,33 @@ nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin" li ken kama "ali", "namako"
 [nimi kalama](#nimi-ilo) "a" li ken kama [nimi ilo](#nimi-ilo) pi palisa ala. ni la nimi "a" li jo ala e sitelen kulupu.
 *(La sonimito "a" povas fariĝi netransitiva partikulo. Tiam "a" ne havas komon.)*
 
-* ***sama*** la ona li kalama musi. *(Same, ŝi muzikas.)*
-* ona ***a***/***kin*** li kalama musi. *(Eĉ/ankaŭ ŝi muzikas.)*
+* ona li kamala musi***, a!*** *(Ŝi ja muzikas.)*
+ * → ona li kalama musi ***a.*** *(Ŝi eĉ/ankaŭ muzikas.)*
+    * → ona ***a*** li kalama musi. *(Eĉ/ankaŭ ŝi muzikas.)*
 
 monsi pi nimi "taso" la [nimi ilo](#nimi-ilo) "la" li ken kama weka.
 *("la" post "taso" povas malaperi.)*
 
-* ***taso la*** mije en meli li pali li pilin pona. → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj.)*
+* ***taso la*** mije en meli li pali li pilin pona. `Ü` *(Sed viroj kaj virinoj laboras kaj estas gajaj.)*
+ * → ***taso*** mije en meli li pali li pilin pona.
 
 nimi "nanpa" li ken kama wan pi kulupu lon monsi pi nimi "nimi" weka.
 *("nanpa" povas fariĝi parto de nomo.)*
 
-* toki ***pi nanpa wan*** *(la unua lingvo)*
+* toki ***pi nanpa wan*** `Ü` *(la unua lingvo)*
  * → toki ***pi nimi "nanpa wan"*** → toki ***nanpa wan***
 
 nimi "anu seme" li ken kama nimi "ala" en [nimi suli](#nimi-ilo) sama pi nanpa tu.
-*(Sed "anu seme" povas fariĝi "ala" kaj dua sama verbo.)*
+*("anu seme" povas fariĝi "ala" kaj dua sama verbo.)*
 
-* ona li ***mama anu seme***? → ona li ***mama ala mama?*** *(Ĉu ŝi estas gepatro?)*
+* ona li ***mama anu seme***? *(Ĉu ŝi estas gepatro?)*
+ * → ona li ***mama ala mama?***
 
 ## toki apeja
-*(Slango)*
+*(Slanga Lingvaĵo)*
 
 jan li toki pakala la, ona li kepeken **toki ike**. jan nasa li wile ante e toki pona, la ona li kepeken **toki apeja**.
 *(Se oni misparolas Tokiponon, oni parolas evitinde. Tokiponidisto parolas slange.)*
-
-* ona li ***apeja***. *(Ŝi estas malmojosa.)*
 
 ### toki kipisi
 *(Kripla Lingvaĵo)*
@@ -129,7 +142,7 @@ nimi "pana e" li ken kama weka.
 kulupu pi [nimi ilo](#nimi-ilo) "e" li ken kama [nimi monsi](#nimi-monsi).
 *(Rekta objekto povas fariĝi modifilo.)*
 
-* mi lukin ***e anpa***. *(Mi rigardas malsupren.)*
+* mi lukin ***e anpa***. `Ü` *(Mi rigardas malsupren.)*
  * → mi lukin ***anpa***.
 
 nimi pi "ni" lon sinpin pi [kulupu suli](#nimi-ilo) li ken kama weka.
@@ -140,6 +153,12 @@ nimi pi "ni" lon sinpin pi [kulupu suli](#nimi-ilo) li ken kama weka.
  * → mi pana e moku tawa jan ***pi li kama lon tomo mi***.
  * → mi pana e moku tawa jan ***pi kama lon tomo mi***.
 * mi pana e moku tawa jan kama lon tomo mi. *(Mi donis manĝon al la aperinta persono en mia domo.)*
+
+nimi "la" lon monsi pi nimi pi wan taso li ken kama weka.
+*("la" malantaŭ nur unu vorto povas malaperi.)*
+
+* ***sama la*** ona li kalama musi. *(Ankaŭ ŝi muzikas.)*
+ * → ***sama*** ona li kalama musi.
 
 ### toki monsuta
 *(Monstra Lingvaĵo)*
@@ -209,8 +228,8 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa
 
 * meli ***lili*** li kute ***ike*** e mama. *(La knabinoj misaŭdis la gepatron.)*
 
-**nimi monsi** palisa li lon sinpin pi [nimi lawa](#nimi-lawa). **nimi monsi** palisa li ken ala jo e **nimi monsi**. **nimi monsi** palisa li ken kama **nimi monsi** pi palisa ala.
-*(Prepozicio havas objekton. Prepozicio ne povas havi modifilon. Prepozicio povas fariĝi modifilo.)*
+**nimi monsi** palisa li lon sinpin pi [nimi lawa](#nimi-lawa) li ken ala jo e **nimi monsi**. taso la ona li ken kama **nimi monsi** pi palisa ala.
+*(Prepozicio estas antaŭ substantivo kaj ne povas havi modifilon, sed ĝi povas fariĝi modifilo.)*
 
 * ona li ***tawa*** tomo. *(Ŝi iras hejmen.)*
 * tomo ***tawa*** *(aŭto)*
@@ -252,8 +271,8 @@ kepeken **nimi ilo** "la" la kulupu pi [nimi monsi](#nimi-monsi) palisa li ken k
 
 * ni li pona tawa mi. *(Mi ŝatas ĝin.)* → tawa mi la ni li pona. *(Al mi ĝi plaĉas.)*
 
-**nimi ilo** "o" li sama **nimi ilo** "li". kulupu pi **nimi suli** lon monsi pi **nimi ilo** "o" li toki e wile pi jan toki.
-*(La partikulo "o" similas al la partikulo "li". La predikato malantaŭ la partikulo "o" esprimas deziron de la parolanto.)*
+**nimi ilo** "o" li sama **nimi ilo** "li". taso la kulupu pi **nimi suli** lon monsi pi **nimi ilo** "o" li toki e wile pi jan toki.
+*(La partikulo "o" similas al la partikulo "li", sed la predikato malantaŭ la partikulo "o" esprimas deziron de la parolanto.)*
 
 * mi ***o*** moku e ijo pona. *(Mi manĝu ion bonan.)*
 
