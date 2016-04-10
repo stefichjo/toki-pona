@@ -14,12 +14,14 @@ wan lipu ["toki lili"](#toki-lili) li toki e nasin toki pi jan ale pi toki pona.
 wan lipu ["toki namako"](#toki-namako) li toki e nasin toki sin pi jan Sonja lon lipu pi toki pona.
 *(La sekcio "Aldona Lingvaĵo" traktas la aldonan lingvouzon de Sonja en la oficiala libro de Tokipono.)*
 
-* toki ***pi nanpa wan*** `Ü` → toki ***nanpa wan*** *(la unua lingvo)*
+* toki ***pi nanpa wan*** *(la unua lingvo)* `Ü`
+ * → toki ***nanpa wan***
 
 wan lipu ["toki apeja"](#toki-apeja) li toki e nasin toki sin pi jan nasa ni: ona li wile ante e toki pona.
 *(La sekcio "Slanga Lingvaĵo" traktas la aldonan lingvouzon de tokiponidistoj.)*
 
-* mi tawa ***lon poka pi*** jan pona. → mi tawa ***poka*** jan pona. *(Mi iras kun amiko.)*
+* mi tawa ***lon poka pi*** jan pona. *(Mi iras kun amiko.)*
+ * → mi tawa ***poka*** jan pona.
 
 ## toki lili
 *(Konciza Lingvaĵo)*
@@ -33,9 +35,9 @@ nimi lon sinpin pi [nimi ilo](#nimi-ilo) "li" li nimi "mi" taso anu nimi "sina" 
 nimi lon sinpin pi [nimi ilo](#nimi-ilo) "li" li ken kama weka. nasin ni la jan ken toki sin kepeken tenpo lili.
 *(La subjekto povas malaperi por respondi rapide.)*
 
-* ~~ni li~~ ***pona***. *(Tio estas bona.)* → ***pona***. *(Dankon.)*
-* ~~ona li~~ ***mama***. *(Ŝi estas gepatro.)* → ***mama***. *(Jes.)*
- * ~~ona li ***mama***~~ ala. *(Ŝi ne estas gepatro.)* → ***ala***. *(Ne.)*
+* ni li ***pona***. *(Tio estas bona.)* → ***pona***. *(Dankon.)*
+* ona li ***mama***. *(Ŝi estas gepatro.)* → ***mama***. *(Jes.)*
+ * ona li ***mama*** ala. *(Ŝi ne estas gepatro.)* → ***ala***. *(Ne.)*
 
 sinpin pi [nimi lawa](#nimi-lawa) taso la [nimi ilo](#nimi-ilo) "pi" li kama weka. nasin ni la [nimi lawa](#nimi-lawa) ni li kama [nimi monsi](#nimi-monsi).
 *(Antaŭ nura substantivo, la partikulo "pi" malaperas. Tiel tiu substantivo fariĝas modifilo.)*
