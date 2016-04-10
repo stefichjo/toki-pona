@@ -147,6 +147,9 @@
 
 ___
 * **awen sona** *(memori)*
+* **ilo tomo** *(sekurilo)*
+ * **ilo tomo lupa** *(kava sekurilo; seruro)*
+ * **ilo tomo palisa** *(montra sekurilo; ŝlosilo)*
 * **jan pona** *(bonulo; amiko)* `©`
 * **nimi tomo** *(sekura vorto; pasvorto)*
 * **tomo tawa** *(mova ĉambro; aŭto)* `©`
