@@ -1,6 +1,7 @@
 # ijo sin pona
 
 * **jelo** → **kule suno** *(suna koloro)*
+* **kalama** → **uta sin** *(aldona buŝo)*
 * **kepeken** → **luka e ilo** *(tuŝi la utilecon)*
 * **laso** → **kule kasi** *(planta koloro)*
 * **loje** → **kule uta** *(lipa koloro)*
@@ -13,6 +14,7 @@
 * **toki** → **ijo sin** *(novaĵo)*
 * **walo** → **kule wawa** *(forta koloro)*
 
+___
 * **akesi** → **sijelo lete** *(malvarma vivaĵo)*
 * **kala** → **sijelo tawa lon telo** *(vivaĵo moviĝanta en akvo)*
 * **kasi** → **sijelo ma** *(tera vivaĵo)*
