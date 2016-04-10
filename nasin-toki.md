@@ -99,25 +99,27 @@ nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin" li ken kama "ali", "namako"
 [nimi kalama](#nimi-ilo) "a" li ken kama [nimi ilo](#nimi-ilo) pi palisa ala. ni la nimi "a" li jo ala e sitelen kulupu.
 *(La sonimito "a" povas fariĝi netransitiva partikulo. Tiam "a" ne havas komon.)*
 
-* ***sama*** la ona li kalama musi. *(Same, ŝi muzikas.)*
-* ona ***a***/***kin*** li kalama musi. *(Eĉ/ankaŭ ŝi muzikas.)*
+* ona li kamala musi***, a!*** *(Ŝi ja muzikas.)*
+ * → ona li kalama musi ***a.***
+    * → ona ***a*** li kalama musi. *(Eĉ/ankaŭ ŝi muzikas.)*
 
 monsi pi nimi "taso" la [nimi ilo](#nimi-ilo) "la" li ken kama weka.
 *("la" post "taso" povas malaperi.)*
 
-* ***taso la*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj.)*
+* ***taso la*** mije en meli li pali li pilin pona. `Ü` *(Sed viroj kaj virinoj laboras kaj estas gajaj.)*
  * → ***taso*** mije en meli li pali li pilin pona.
 
 nimi "nanpa" li ken kama wan pi kulupu lon monsi pi nimi "nimi" weka.
 *("nanpa" povas fariĝi parto de nomo.)*
 
-* toki ***pi nanpa wan*** *(la unua lingvo)*
+* toki ***pi nanpa wan*** `Ü` *(la unua lingvo)*
  * → toki ***pi nimi "nanpa wan"*** → toki ***nanpa wan***
 
 nimi "anu seme" li ken kama nimi "ala" en [nimi suli](#nimi-ilo) sama pi nanpa tu.
 *(Sed "anu seme" povas fariĝi "ala" kaj dua sama verbo.)*
 
-* ona li ***mama anu seme***? → ona li ***mama ala mama?*** *(Ĉu ŝi estas gepatro?)*
+* ona li ***mama anu seme***? *(Ĉu ŝi estas gepatro?)*
+ * → ona li ***mama ala mama?***
 
 ## toki apeja
 *(Slanga Lingvaĵo)*
@@ -155,8 +157,8 @@ nimi pi "ni" lon sinpin pi [kulupu suli](#nimi-ilo) li ken kama weka.
 nimi "la" lon monsi pi nimi pi wan taso li ken kama weka.
 *("la" malantaŭ nur unu vorto povas malaperi.)*
 
-* ***ken la*** ona li sona. *(Eble ŝi scias.)*
- * → ***ken*** ona li sona.
+* ***sama la*** ona li kalama musi. *(Ankaŭ ŝi muzikas.)*
+ * → ***sama*** ona li kalama musi.
 
 ### toki monsuta
 *(Monstra Lingvaĵo)*
