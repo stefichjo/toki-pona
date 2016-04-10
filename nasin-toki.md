@@ -1,15 +1,25 @@
 # nasin toki pi toki pona
 *(Gramatiko de Tokipono)*
 
-jan pu li ken kama sona e wan taso pi nasin toki pi toki pona. ni li nasin toki pi jan Sonja.
-*(Interagante kun la oficiala libro de Tokipono oni povas lerni nur parton de la gramatiko de Tokipono. Tio estas la lingvouzo de Sonja.)*
+lipu ni li lukin toki e nasin toki ale pi toki pona. jan Sonja li toki ala e nasin toki, la sitelen "`Ü`" li lon.
+*(Tiu ĉi paĝo celas trakti la tutan gramatikon de Tokipono. Se Sonja ne traktas iun gramatikeron, la signo "`Ü`" uziĝas.
 
-* jan sona pi toki pona li pu lon tenpo mute. *(La instruisto de Tokipono ofte konsultas la oficialan libron de Tokipono.)*
+* o ***luka*** ala e seli! *(Ne tuŝu la fajron!)* `Ü`
 
-kepeken lipu ni la mi lukin pana e sona (ken) pi ijo ale pi nasin toki pi toki pona. tawa mi la kepeken nasin ni pi toki insa la nimi li pona, la mi sitelen e `Ü`.
-*(Per ĉi tiu dokumento provas instrui la (eblan) tuton de la gramatiko de Tokipono. Se mi opinias, ke vortigo estas ĝusta en tiu ĉi senco, mi skribas `Ü`.)*
+wan lipu ["toki lili"](#toki-lili) li toki e nasin toki pi jan ale pi toki pona.
+La sekcio "Konciza Lingvaĵo" traktas la lingvouzon de ĉiuj tokiponistoj.
 
-* o ***luka*** ala e mi! *(Ne tuŝu min!)* `Ü`
+* sina ~~***li***~~ sin. → sina sin. *(Vi estas nova.)*
+
+wan lipu ["toki namako"](#toki-namako) li toki e nasin toki sin pi jan Sonja lon lipu pi toki pona.
+La sekcio "Aldona Lingvaĵo" traktas la aldonan lingvouzon de Sonja en la oficiala libro de Tokipono.
+
+* toki ***pi nanpa wan*** `Ü` → toki ***nanpa wan*** *(la unua lingvo)*
+
+wan lipu ["toki apeja"](#toki-apeja) li toki e nasin toki sin pi jan nasa ni: ona li wile ante e toki pona.
+La sekcio "Slanga Lingvaĵo" traktas la aldonan lingvouzon de tokiponidistoj.
+
+* mi tawa ***lon poka pi*** jan pona. → mi tawa ***poka*** jan pona. *(Mi iras kun amiko.)*
 
 ## toki lili
 *(Konciza Lingvaĵo)*
@@ -76,7 +86,7 @@ nimi "nimi" li kama weka lon sinpin pi nimi tan jan ante anu nimi pi ijo ante.
 * sina nanpa ***pi nimi "wan"***. → sina nanpa ***wan***. *(Vi estas la unua.)*
 
 ## toki namako
-*(Kroma Lingvaĵo)*
+*(Aldona Lingvaĵo)*
 
 nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin" li ken kama "ali", "namako", "kin" en "oko".
 *("ale, "sin", "a" kaj "lukin" povas fariĝi "ali", "namako", "kin" kaj "oko".)*
@@ -109,7 +119,7 @@ nimi "anu seme" li ken kama nimi "ala" en [nimi suli](#nimi-ilo) sama pi nanpa t
 * ona li ***mama anu seme***? → ona li ***mama ala mama?*** *(Ĉu ŝi estas gepatro?)*
 
 ## toki apeja
-*(Slango)*
+*(Slanga Lingvaĵo)*
 
 jan li toki pakala la, ona li kepeken **toki ike**. jan nasa li wile ante e toki pona, la ona li kepeken **toki apeja**.
 *(Se oni misparolas Tokiponon, oni parolas evitinde. Tokiponidisto parolas slange.)*
@@ -129,7 +139,7 @@ nimi "pana e" li ken kama weka.
 kulupu pi [nimi ilo](#nimi-ilo) "e" li ken kama [nimi monsi](#nimi-monsi).
 *(Rekta objekto povas fariĝi modifilo.)*
 
-* mi lukin ***e anpa***. *(Mi rigardas malsupren.)*
+* mi lukin ***e anpa***. `Ü` *(Mi rigardas malsupren.)*
  * → mi lukin ***anpa***.
 
 nimi pi "ni" lon sinpin pi [kulupu suli](#nimi-ilo) li ken kama weka.
@@ -140,6 +150,12 @@ nimi pi "ni" lon sinpin pi [kulupu suli](#nimi-ilo) li ken kama weka.
  * → mi pana e moku tawa jan ***pi li kama lon tomo mi***.
  * → mi pana e moku tawa jan ***pi kama lon tomo mi***.
 * mi pana e moku tawa jan kama lon tomo mi. *(Mi donis manĝon al la aperinta persono en mia domo.)*
+
+nimi "la" lon monsi pi nimi pi wan taso li ken kama weka.
+*("la" malantaŭ nur unu vorto povas malaperi.)*
+
+* ***ken la*** ona li sona. *(Eble ŝi scias.)*
+ * → ***ken*** ona li sona.
 
 ### toki monsuta
 *(Monstra Lingvaĵo)*
