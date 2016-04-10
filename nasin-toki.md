@@ -105,7 +105,8 @@ nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin" li ken kama "ali", "namako"
 monsi pi nimi "taso" la [nimi ilo](#nimi-ilo) "la" li ken kama weka.
 *("la" post "taso" povas malaperi.)*
 
-* ***taso la*** mije en meli li pali li pilin pona. → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj.)*
+* ***taso la*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj.)*
+ * → ***taso*** mije en meli li pali li pilin pona.
 
 nimi "nanpa" li ken kama wan pi kulupu lon monsi pi nimi "nimi" weka.
 *("nanpa" povas fariĝi parto de nomo.)*
