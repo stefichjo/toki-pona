@@ -17,7 +17,7 @@ wan lipu ["toki namako"](#toki-namako) li toki e nasin toki sin pi jan Sonja lon
 * toki ***pi nanpa wan*** `Ü` → toki ***nanpa wan*** *(la unua lingvo)*
 
 wan lipu ["toki apeja"](#toki-apeja) li toki e nasin toki sin pi jan nasa ni: ona li wile ante e toki pona.
-La sekcio "Slanga Lingvaĵo" traktas la aldonan lingvouzon de tokiponidistoj.
+*(La sekcio "Slanga Lingvaĵo" traktas la aldonan lingvouzon de tokiponidistoj.)*
 
 * mi tawa ***lon poka pi*** jan pona. → mi tawa ***poka*** jan pona. *(Mi iras kun amiko.)*
 
