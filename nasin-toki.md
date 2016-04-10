@@ -84,6 +84,7 @@ nimi "nimi" li kama weka lon sinpin pi nimi tan jan ante anu nimi pi ijo ante.
 * jan Isa li toki e ***nimi ni*** "..." → jan Isa li toki e ***ni***: "..." *(Jesuo diris: "...")*
 * toki ***pi nimi "Epelanto"*** → toki ***Epelanto*** *(Esperanto)*
 * sina nanpa ***pi nimi "wan"***. → sina nanpa ***wan***. *(Vi estas la unua.)*
+* ona li kute e ***nimi "mu"*** wawa. → ona li kute e ***mu*** wawa. *(Li aŭdis laŭtan blekon.)*
 
 ## toki namako
 *(Aldona Lingvaĵo)*
