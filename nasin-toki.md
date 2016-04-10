@@ -100,10 +100,10 @@ monsi pi nimi "taso" la [nimi ilo](#nimi-ilo) "la" li ken kama weka.
 nimi "nanpa" li ken kama wan pi kulupu lon monsi pi nimi "nimi" weka.
 *("nanpa" povas fariĝi parto de nomo.)*
 
-* toki ***pi nanpa wan***
- * → toki ***pi nimi "nanpa wan"*** → toki ***nanpa wan*** *(la unua lingvo)*
+* toki ***pi nanpa wan*** *(la unua lingvo)*
+ * → toki ***pi nimi "nanpa wan"*** → toki ***nanpa wan***
 
-nimi "anu seme" li ken kama nimi "ala" en [nimi suli](#nimi-ilo) sama nanpa tu.
+nimi "anu seme" li ken kama nimi "ala" en [nimi suli](#nimi-ilo) sama pi nanpa tu.
 *(Sed "anu seme" povas fariĝi "ala" kaj dua sama verbo.)*
 
 * ona li ***mama anu seme***? → ona li ***mama ala mama?*** *(Ĉu ŝi estas gepatro?)*
@@ -160,7 +160,7 @@ kulupu pi [nimi monsi](#nimi-monsi) en kulupu pi [nimi ilo](#nimi-ilo) "e" li ke
 * mi lukin ***e sitelen*** kepeken tenpo lili. *(Mi legas rapide.)*
  * → mi lukin kepeken tenpo lili - ***e sitelen***.
 
-[nimi monsi](#nimi-monsi) en [nimi monsi](#nimi-monsi) palisa li jo ala e [nimi monsi](#nimi-monsi).
+[nimi monsi](#nimi-monsi) en [nimi monsi](#nimi-monsi) palisa li ken jo e [nimi monsi](#nimi-monsi).
 *(Modifiloj kaj prepozicioj povas havi modifilon.)*
 
 * telo pi nasa mute *(tre strangiga likvo → vodko)*
@@ -191,7 +191,6 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa
 
 * mi ***lukin*** lukin ***e*** sina. *(Mi provas vidi vin.)*
  * → mi lukin ***tawa*** sina.
-* mi lukin tawa sina. *(Mi provas iri al vi.)*
 
 [nimi monsi](#nimi-monsi) palisa "kepeken" li ken kama [nimi suli](#nimi-ilo) palisa.
 *(La prepozicio "kepeken" povas fariĝi transitiva verbo.)*
@@ -210,7 +209,7 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa
 
 * meli ***lili*** li kute ***ike*** e mama. *(La knabinoj misaŭdis la gepatron.)*
 
-**nimi monsi palisa** li lon sinpin pi [nimi lawa](#nimi-lawa). **nimi monsi palisa** li ken ala jo e **nimi monsi**. **nimi monsi palisa** li ken kama **nimi monsi** pi palisa ala.
+**nimi monsi** palisa li lon sinpin pi [nimi lawa](#nimi-lawa). **nimi monsi** palisa li ken ala jo e **nimi monsi**. **nimi monsi** palisa li ken kama **nimi monsi** pi palisa ala.
 *(Prepozicio havas objekton. Prepozicio ne povas havi modifilon. Prepozicio povas fariĝi modifilo.)*
 
 * ona li ***tawa*** tomo. *(Ŝi iras hejmen.)*
@@ -224,16 +223,16 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa
 
 * ***sina*** jo e lipu seme? *(Kiun libron vi havas?)* → lipu ***sina*** li seme? *(Kiu estas via libro?)*
 
-[nimi monsi](#nimi-monsi) mute li ken kama [nimi-lawa](#nimi-lawa) pi kon sin tan ni: ona li jo e [nimi lawa](#nimi-lawa) weka.
+[nimi monsi](#nimi-monsi) mute li ken kama [nimi lawa](#nimi-lawa) pi kon sin tan ni: ona li jo e [nimi lawa](#nimi-lawa) weka.
 *(Multaj modifiloj povas fariĝi substantivoj kun aldona signifo, ĉar ili havas implican substantivon.)*
 
-* ***suno*** *(hela)*
+* ***suno*** *(brilanta)*
  * ~~ijo~~ ***suno*** → ***suno*** *(brilaĵo; lumo, suno)*
 
 ## nimi ilo
 *(Partikuloj)*
 
-**nimi ilo** "anu" en nimi ilo "en" li lon insa pi [nimi ijo](#nimi-ijo) tu anu **kulupu suli** tu pi ijo ken tu.
+**nimi ilo** "anu" en nimi ilo "en" li lon insa pi [nimi ijo](#nimi-ijo) tu anu **kulupu suli** tu pi ijo ken/lon tu.
 *(La partikuloj "anu" kaj "en" estas inter du radikaj vortoj aŭ du frazoj pri du eblaĵoj aŭ efektivaĵoj.)*
 
 * mi kute e mije ***anu*** meli. *(Mi aŭdas viron aŭ virinon.)*
