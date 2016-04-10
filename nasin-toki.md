@@ -2,7 +2,7 @@
 *(Gramatiko de Tokipono)*
 
 lipu ni li lukin toki e nasin toki ale pi toki pona. jan Sonja li toki ala e nasin toki, la sitelen "`Ü`" li lon.
-*(Tiu ĉi paĝo celas trakti la tutan gramatikon de Tokipono. Se Sonja ne traktas iun gramatikeron, la signo "`Ü`" uziĝas.
+*(Tiu ĉi paĝo celas trakti la tutan gramatikon de Tokipono. Se Sonja ne traktas iun gramatikeron, la signo "`Ü`" uziĝas.)*
 
 * o ***luka*** ala e seli! *(Ne tuŝu la fajron!)* `Ü`
 
