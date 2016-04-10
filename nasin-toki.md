@@ -110,13 +110,13 @@ nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin" li ken kama "ali", "namako"
 monsi pi nimi "taso" la [nimi ilo](#nimi-ilo) "la" li ken kama weka.
 *("la" post "taso" povas malaperi.)*
 
-* ***taso la*** mije en meli li pali li pilin pona. `Ü` *(Sed viroj kaj virinoj laboras kaj estas gajaj.)*
+* ***taso la*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj.)* `Ü`
  * → ***taso*** mije en meli li pali li pilin pona.
 
 nimi "nanpa" li ken kama wan pi kulupu lon monsi pi nimi "nimi" weka.
 *("nanpa" povas fariĝi parto de nomo.)*
 
-* toki ***pi nanpa wan*** `Ü` *(la unua lingvo)*
+* toki ***pi nanpa wan*** *(la unua lingvo)* `Ü`
  * → toki ***pi nimi "nanpa wan"*** → toki ***nanpa wan***
 
 nimi "anu seme" li ken kama nimi "ala" en [nimi suli](#nimi-ilo) sama pi nanpa tu.
@@ -159,7 +159,7 @@ nimi "pana e" li ken kama weka.
 kulupu pi [nimi ilo](#nimi-ilo) "e" li ken kama [nimi monsi](#nimi-monsi).
 *(Rekta objekto povas fariĝi modifilo.)*
 
-* mi lukin ***e anpa***. `Ü` *(Mi rigardas malsupren.)*
+* mi lukin ***e anpa***. *(Mi rigardas malsupren.)* `Ü`
  * → mi lukin ***anpa***.
 
 nimi pi "ni" lon sinpin pi [kulupu suli](#nimi-ilo) li ken kama weka.
