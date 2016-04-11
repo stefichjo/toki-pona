@@ -288,14 +288,6 @@ nimi lon monsi pi [nimi lawa](#nimi-lawa) "ma" weka li ken kama [nimi monsi](#ni
 * waso li tawa lon kon ***lon sewi pi*** tomo sona. *(Birdo flugas super la lernejo.)*
  * → waso li tawa lon kon ***sewi*** tomo sona.
 
-[nimi monsi](#nimi-monsi) palisa li ken kama [nimi suli](#nimi-ilo) sinpin.
-*(Prepozicio povas fariĝi helpa verbo.)*
-
-* tenpo kama la mi moku. *(Mi manĝos.)*
- * → mi ***tawa*** moku. *(Mi estas manĝonta.)*
-* tenpo pini la mi moku. *(Mi manĝis.)*
- * → mi ***tan*** moku. *(Mi estas manĝinta.)*
-
 monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa" li ken kama [nimi ilo](#nimi-ilo).
 *(Malantaŭ transitivaj verboj la prepozicio "tawa" povas fariĝi partikulo.)*
 
