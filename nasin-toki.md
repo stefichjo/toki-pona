@@ -32,12 +32,14 @@ nimi lon sinpin pi [nimi ilo](#nimi-ilo) "li" li nimi "mi" taso anu nimi "sina" 
 * mi ***~~li~~*** mije. → mi mije. *(Mi estas viro.)*
 * sina ***~~li~~*** sin. → sina sin. *(Vi estas nova.)*
 
-nimi lon sinpin pi [nimi ilo](#nimi-ilo) "li" li ken kama weka. nasin ni la jan ken toki sin kepeken tenpo lili.
-*(La subjekto povas malaperi por respondi rapide.)*
+nimi lon sinpin pi [nimi ilo](#nimi-ilo) "li" li ken kama weka. nasin ni la jan ken toki sin kepeken tenpo lili. kulupu suli pi wile sona la nimi "ni li lon" li ken kama weka.
+*(La subjekto povas malaperi por respondi rapide. En demando, la vortoj "ni li lon" povas malaperi.)*
 
 * ni li ***pona***. *(Tio estas bona.)* → ***pona***. *(Dankon.)*
 * ona li ***mama***. *(Ŝi estas gepatro.)* → ***mama***. *(Jes.)*
- * ona li ***mama*** ala. *(Ŝi ne estas gepatro.)* → ***ala***. *(Ne.)*
+ * ona li ***mama ala***. *(Ŝi ne estas gepatro.)* → ***mama ala***. → ***ala***. *(Ne.)*
+* ~~ni li ***lon,***~~ ona li mama, anu seme? → ona li mama***,*** anu seme? *(Ĉu ŝi estas gepatro?)*
+ * ***lon***. *(Jes.)*
 
 sinpin pi [nimi lawa](#nimi-lawa) taso la [nimi ilo](#nimi-ilo) "pi" li kama weka. nasin ni la [nimi lawa](#nimi-lawa) ni li kama [nimi monsi](#nimi-monsi).
 *(Antaŭ nura substantivo, la partikulo "pi" malaperas. Tiel tiu substantivo fariĝas modifilo.)*
@@ -118,6 +120,7 @@ nimi "nanpa" li ken kama wan pi kulupu lon monsi pi nimi "nimi" weka.
 
 * toki ***pi nanpa wan*** *(la unua lingvo)* `Ü`
  * → toki ***pi nimi "nanpa wan"*** → toki ***nanpa wan***
+* ilo ***nanpa tu*** *(du kalkuliloj)*
 
 nimi "anu seme" li ken kama nimi "ala" en [nimi suli](#nimi-ilo) sama pi nanpa tu.
 *("anu seme" povas fariĝi "ala" kaj dua sama verbo.)*
@@ -204,6 +207,12 @@ kulupu pi [nimi monsi](#nimi-monsi) en kulupu pi [nimi ilo](#nimi-ilo) "e" li ke
 * ona li tawa ***ala*** tawa ma tomo Lantan. *(Ŝi ne iras al Londono.)*
  * → ona li tawa ***ala*** - ma tomo Lantan.
  * → ona li tawa ma tomo Lantan - ***ala***.
+
+nimi lon monsi pi nimi "li" anu nimi "e" li ken kama lon sinpin pi nimi "la". kepeken nasin ni la ona li kama wawa.
+*(La subjekto aŭ objekto povas metiĝi antaŭ "la" por emfazi ĝin.)*
+
+* jan pona sina ***la ona*** li pona tawa mi. *(Via amiko, mi ŝatas ŝin.)*
+* jan pona sina ***la*** mi pona tawa ona. *(Via amiko, ŝi ŝatas min.)*
 
 ### toki mu
 *(Bleka Lingvaĵo)*
@@ -310,7 +319,7 @@ sitelen pini li lon monsi pi [kulupu suli](#nimi-ilo).
 *(Se frazo enhavas la vorton "seme", demandosigno estas malantaŭ ĝi.)*
 
 * ***seme*** li sin***?*** *(Kio estas nova?)*
-* ona li mama ***anu seme?***
+* ona li mama ***anu seme?*** *(Ĉu ŝi estas gepatro?)*
 
 [kulupu suli](#nimi-ilo) tu li kama wan, la sitelen kulupu li lon insa pi ona tu.
 *(Se du frazoj fariĝas unu, komo estas inter ili.)*
