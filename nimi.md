@@ -1,8 +1,8 @@
 # nimi pi toki pona
-*(Vortaro de Tokipono)*
+*(Vortaro de Tokipono - Dictionary of Toki Pona)*
 
 ## nimi ilo
-*(Partikuloj)*
+*(Partikuloj - Particles)*
 
 * **anu** *(aŭ)*
 * **li** *(-s)*
@@ -13,13 +13,13 @@
 * **pi** *(-a, -e)*
 
 ### nimi kalama
-*(Sonimitoj)*
+*(Sonimitoj - Onomatopoeia)*
 
 * **a** *(ha)*
 * **mu** *(bla, miaŭ)*
 
 ## nimi ijo
-*(Radikaj Vortoj)*
+*(Radikaj Vortoj - Content Words)*
 
 * **akesi** *(malvarmsanga, malica)* `Ü` → ~~sijelo~~ **…** *(malvarmsanga besto, malica besto; reptilo, amfibio)*
 * **ala** *(neniu)* → ~~ijo~~ **…** *(nenio)*
@@ -127,7 +127,7 @@
 * **weka** *(fora, distanca, izola)* → **…** *(foreco, distanco, izoleco)* → lon **weka** *(fore de)*
 
 ### nimi monsi palisa
-*(Prepozicioj)*
+*(Prepozicioj - Prepositions)*
 
 * **lon** *(ĉe, en, sur)*
 * **tawa** *(al, ĝis)*
@@ -136,7 +136,7 @@
 * **kepeken** *(laŭ, per)*
 
 ### nimi suli sinpin
-*(Helpaj Verboj)*
+*(Helpaj Verboj - Auxilary Verbs)*
 
 * **awen** *(restanta)* → **…** ~~e ni:~~ *(plu-)*
 * **kama** *(aperanta)* → **…** ~~e ni:~~ *(ek-, -iĝas)*
