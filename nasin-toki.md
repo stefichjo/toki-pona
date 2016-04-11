@@ -194,6 +194,12 @@ nimi "la" lon monsi pi nimi pi wan taso li ken kama weka.
  * → mi pona. *(Mi riparas.)*
 * mi pona. *(Mi estas bona.)*
 
+nimi "ijo" lon sinpin pi [nimi monsi](#nimi-monsi) li ken kama nimi "pi".
+*("ijo" antaŭ modifilo povas fariĝi "pi".)*
+
+* ni li ***ijo mi***. *(Tio estas io mia.)*
+ * → ni li ***pi mi***.
+
 ### toki monsuta
 *(Monstra Lingvaĵo)*
 
