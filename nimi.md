@@ -80,7 +80,7 @@
 * **noka** *(staranta)* → ~~ilo~~ **…** *(starilo; gambo, piedo)* → lon **noka** *(piede de, malsupre de)*
 * **olin** *(ami)*
 * **ona** *(ŝi, li, ĝi, ili)*
-* **open** *(trairebla, malfermita)* `Ü` → ~~ma~~ **…** *(traireblo, malfermiteco)* → kepeken **open** *(tra)* `Ü` → kepeken **open** poka *(preter)* `Ü`
+* **open** *(trairebla, malfermita)* `Ü` → ~~ma~~ **…** *(traireblo, malfermiteco)* → kepeken nasin lon **open** *(laŭ vojo en la traireblo; tra)* `Ü`
 * **pakala** *(aĉa)*
 * **pali** *(fari, labori, efektivigi)*
 * **palisa** *(montri, indiki)* `Ü` → ~~ilo~~ **…** *(montrilo, indikilo; fingro, bastono)*
@@ -88,7 +88,10 @@
 * **pana** *(doni)*
 * **pimeja** *(malhela, nigra)*
 * **pipi** *(rampanta)* `Ü` → ~~sijelo~~ **…** *(rampanta besto; insekto)*
-* **poka** *(apuda)* → ~~ijo~~ **…** *(apudaĵo; flanko, kokso)* → lon **poka** *(ĉe la flanko; apud, kun)* → lon **poka** ante *(ĉe la alia flanko; trans)*
+* **poka** *(apuda)* → ~~ijo~~ **…** *(apudaĵo; flanko, kokso)* → lon **poka** *(ĉe la flanko; apud, kun)*
+ * → kepeken nasin lon **poka** *(laŭ vojo ĉe la flanko; preter)*
+ * → lon **poka** ante *(ĉe la alia flanko; trans)* → tawa **poka** ante *(al la alia flanko; trans -n)*
+ * → lon **poka** sike *(ĉe la ronda flanko; ĉirkaŭ)* → kepeken nasin lon **poka** sike *(ĉirkaŭ -n)*
 * **poki** *(protekti, konservi, ŝirmi)* → ~~ilo~~ **…** *(protektilo, konservilo, ŝirmilo; ingo, ujo)*
 * **pona** *(bona, malaĉa, pura)*
 * **pilin** *(senti)* → ~~ilo~~ **…** *(sentilo, sensoro, sentumo; koro)*
@@ -147,10 +150,13 @@
 
 ___
 * **awen sona** *(memori)*
+* **ilo nanpa** *(kalkulilo)*
+* **ilo sona** *(komputilo)*
 * **ilo tomo** *(sekurilo)*
  * **ilo tomo lupa** *(kava sekurilo; seruro)*
  * **ilo tomo palisa** *(montra sekurilo; ŝlosilo)*
 * **jan pona** *(bonulo; amiko)* `©`
+* **lipu sona** *(ttt-ejo, retpaĝo, retpaĝaro, retejo, interreto)*
 * **nimi tomo** *(sekura vorto; pasvorto)*
 * **tomo tawa** *(mova ĉambro; aŭto)* `©`
  * **tomo tawa kon** *(aera mova ĉambro; aviadilo)*
