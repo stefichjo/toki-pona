@@ -128,6 +128,13 @@ nimi "anu seme" li ken kama nimi "ala" en [nimi suli](#nimi-ilo) sama pi nanpa t
 * ona li ***mama anu seme***? *(Ĉu ŝi estas gepatro?)*
  * → ona li ***mama ala mama?***
 
+nimi "sike" li ken kama [nimi suli](#nimi-ilo) palisa.
+*("sike" povas fariĝi transitiva verbo.)*
+
+* lipu li ***sike***. *(La folio estas ronda.)*
+ * mi ***sike e*** lipu. *(Mi rondigas la folion.)*
+* → mi ***sike e*** suno. *(Mi rondiras la sunon.)*
+
 ## toki apeja
 *(Slanga Lingvaĵo)*
 
@@ -179,6 +186,13 @@ nimi "la" lon monsi pi nimi pi wan taso li ken kama weka.
 
 * ***sama la*** ona li kalama musi. *(Ankaŭ ŝi muzikas.)*
  * → ***sama*** ona li kalama musi.
+
+[nimi suli](#nimi-ilo) pi palisa ala li kama [nimi suli](#nimi-ilo) palisa, la nimi "e ijo" li ken kama weka.
+*(Se netransitiva verbo fariĝas transitiva, "e ijo" povas malaperi.)*
+
+* mi pona ***e ijo***. *(Mi riparas ion.)*
+ * → mi pona. *(Mi riparas.)*
+* mi pona. *(Mi estas bona.)*
 
 ### toki monsuta
 *(Monstra Lingvaĵo)*
@@ -245,11 +259,14 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa
 * mi ***lukin*** lukin ***e*** sina. *(Mi provas vidi vin.)*
  * → mi lukin ***tawa*** sina.
 
-[nimi monsi](#nimi-monsi) palisa "kepeken" li ken kama [nimi suli](#nimi-ilo) palisa.
-*(La prepozicio "kepeken" povas fariĝi transitiva verbo.)*
+[nimi monsi](#nimi-monsi) palisa li ken kama [nimi suli](#nimi-ilo) palisa.
+*(Prepozicio povas fariĝi transitiva verbo.)*
 
 * mi ***kepeken*** ilo. *(Mi uzas la instrumenton.)*
  * → mi ***kepeken e*** ilo.
+* mi ***lon poka pi*** jan pona. *(Mi estas apud amiko.)*
+ * → mi ***poka*** jan pona.
+    * → mi ***poka e*** jan pona.
 
 [nimi suli](#nimi-ilo) palisa li ken kama [nimi suli](#nimi-suli) sinpin.
 *(Transitiva verbo povas fariĝi helpa verbo.)*
