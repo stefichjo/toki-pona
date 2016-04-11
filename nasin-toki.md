@@ -1,5 +1,5 @@
 # nasin toki pi toki pona
-*(Gramatiko de Tokipono)*
+*(Gramatiko de Tokipono - Grammar of Toki Pona)*
 
 lipu ni li lukin toki e nasin toki ale pi toki pona. jan Sonja li toki ala e nasin toki, la sitelen "`Ü`" li lon.
 *(Tiu ĉi paĝo celas trakti la tutan gramatikon de Tokipono. Se Sonja ne traktas iun gramatikeron, la signo "`Ü`" uziĝas.)*
@@ -281,10 +281,10 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa
  * → mi ***olin*** kama sona e jan pona sina.
 
 ## nimi ijo
-*(Radikaj Vortoj)*
+*(Radikaj Vortoj - Content Words)*
 
 ### nimi monsi
-*(Modifiloj)*
+*(Modifiloj - Modifiers)*
 
 **nimi monsi** li nimi lon monsi pi [nimi lawa](#nimi-lawa) anu [nimi suli](#nimi-ilo).
 *(Modifilo estas aŭ adjektivo aŭ adverbo.)*
@@ -298,7 +298,7 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa
 * tomo ***tawa*** *(aŭto)*
 
 ### nimi lawa
-*(Substantivoj)*
+*(Substantivoj - Nouns)*
 
 **nimi lawa** li nimi "mi" en nimi "sina" en nimi "ona" en nimi "ijo". [nimi ijo](#nimi-ijo) ante li [nimi monsi](#nimi-monsi). **nimi lawa** li kama [nimi monsi](#nimi-monsi), la ona li jo e kon poka "jo".
 *("mi", "sina", "ona" kaj "ijo" estas substantivoj. Aliaj radikaj vortoj estas modifiloj. Kiam substantivo fariĝas modifilo, ĝi kunhavas la signifon "posedo".)*
@@ -312,7 +312,7 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa
  * ~~ijo~~ ***suno*** → ***suno*** *(brilaĵo; lumo, suno)*
 
 ## nimi ilo
-*(Partikuloj)*
+*(Partikuloj - Particles)*
 
 **nimi ilo** "anu" en nimi ilo "en" li lon insa pi [nimi ijo](#nimi-ijo) tu anu **kulupu suli** tu pi ijo ken/lon tu.
 *(La partikuloj "anu" kaj "en" estas inter du radikaj vortoj aŭ du frazoj pri du eblaĵoj aŭ efektivaĵoj.)*
@@ -345,7 +345,7 @@ kepeken **nimi ilo** "la" la kulupu pi [nimi monsi](#nimi-monsi) palisa li ken k
 * jan ***pi*** pona mute *(tre bona persono, amikego)*
 
 ## sitelen lon insa nimi
-*(Interpunkcio)*
+*(Interpunkcio - Interpunctuation)*
 
 sitelen pini li lon monsi pi [kulupu suli](#nimi-ilo).
 *(Punkto estas malantaŭ frazo.)*
