@@ -32,7 +32,7 @@ nimi lon sinpin pi [nimi ilo](#nimi-ilo) "li" li nimi "mi" taso anu nimi "sina" 
 * mi ***~~li~~*** mije. → mi mije. *(Mi estas viro.)*
 * sina ***~~li~~*** sin. → sina sin. *(Vi estas nova.)*
 
-nimi lon sinpin pi [nimi ilo](#nimi-ilo) "li" li ken kama weka. nasin ni la jan ken toki sin kepeken tenpo lili. kulupu suli pi wile sona la nimi "ni li lon" li ken kama weka.
+nimi lon sinpin pi [nimi ilo](#nimi-ilo) "li" li ken kama weka. nasin ni la jan ken toki sin kepeken tenpo lili. [kulupu suli](#nimi-ilo) pi wile sona la nimi "ni li lon" li ken kama weka.
 *(La subjekto povas malaperi por respondi rapide. En demando, la vortoj "ni li lon" povas malaperi.)*
 
 * ni li ***pona***. *(Tio estas bona.)* → ***pona***. *(Dankon.)*
@@ -214,6 +214,14 @@ nimi lon monsi pi nimi "li" anu nimi "e" li ken kama lon sinpin pi nimi "la". ke
 * jan pona sina ***la ona*** li pona tawa mi. *(Via amiko, mi ŝatas ŝin.)*
 * jan pona sina ***la*** mi pona tawa ona. *(Via amiko, ŝi ŝatas min.)*
 
+[nimi suli](#nimi-ilo) pi [kulupu suli](#nimi-ilo) lon monsi pi nimi "ni" li ken kama [nimi lawa](#nimi-lawa).
+*(La verbo de subfrazo povas fariĝi substantivo.)*
+
+* mi olin ***e ni: mi*** kama sona e jan pona sina. *(Mi amas konatiĝi kun via amiko.)*
+ * → mi olin e kama sona e jan pona sina.
+* ***ni, mi*** kama sona e jan pona sina***,*** li pona tawa mi. *(Mi ŝatas konatiĝi kun via amiko.)*
+ * → kama sona e jan pona sina li pona tawa mi.
+
 ### toki mu
 *(Bleka Lingvaĵo)*
 
@@ -242,6 +250,12 @@ monsi pi [nimi suli](#nimi-ilo) palisa la [nimi monsi](#nimi-monsi) palisa "tawa
 
 * mi ***kepeken*** ilo. *(Mi uzas la instrumenton.)*
  * → mi ***kepeken e*** ilo.
+
+[nimi suli](#nimi-ilo) palisa li ken kama [nimi suli](#nimi-suli) sinpin.
+*(Transitiva verbo povas fariĝi helpa verbo.)*
+
+* mi ***olin e ni: mi*** kama sona e jan pona sina. *(Mi amas konatiĝi kun via amiko.)*
+ * → mi ***olin*** kama sona e jan pona sina.
 
 ## nimi ijo
 *(Radikaj Vortoj)*
