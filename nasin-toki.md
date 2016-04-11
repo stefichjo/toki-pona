@@ -91,6 +91,10 @@ nimi "nimi" li kama weka lon sinpin pi nimi tan jan ante anu nimi pi ijo ante.
 * sina nanpa ***pi nimi "wan"***. → sina nanpa ***wan***. *(Vi estas la unua.)*
 * ona li kute e ***nimi "mu"*** wawa. → ona li kute e ***mu*** wawa. *(Li aŭdis laŭtan blekon.)*
 
+lon monsi pi [nimi suli](#nimi-ilo) palisa "pilin" la [nimi ilo](#nimi-ilo) "e" li kama [nimi ilo](#nimi-ilo) "pi".
+
+* mi ***pilin e*** pona mute. *(Mi sentas multan bonon.)* → mi ***pilin pi*** pona mute. *(Mi fartas tre bone.)*
+
 ## toki namako
 *(Aldona Lingvaĵo)*
 
