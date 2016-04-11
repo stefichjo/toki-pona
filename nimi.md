@@ -158,6 +158,7 @@ ___
 * **jan pona** *(bonulo; amiko)* `©`
 * **lipu sona** *(ttt-ejo, retpaĝo, retpaĝaro, retejo, interreto)*
 * **nimi tomo** *(sekura vorto; pasvorto)*
+* **sitelen insa** *(ene desegni; imagi)*
 * **tomo tawa** *(mova ĉambro; aŭto)* `©`
  * **tomo tawa kon** *(aera mova ĉambro; aviadilo)*
  * **tomo tawa linja** *(linia mova ĉambro; vagono, trajno)*
