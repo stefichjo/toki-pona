@@ -206,6 +206,7 @@ kepeken **nimi ilo** "la" la kulupu pi [nimi monsi](#nimi-monsi) palisa li ken k
 * **a** *(ha)*
 * **mu** *(bla, miaŭ)*
 ___
+
 * **awen sona** *(memori)*
 * **ilo nanpa** *(kalkulilo)*
 * **ilo sona** *(komputilo)*
