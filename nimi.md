@@ -162,6 +162,14 @@
 ## nimi ilo
 *(Partikuloj - Particles)*
 
+* **anu** *(aŭ)*
+* **li** *(-s)*
+* **e** *(-n)*
+* **en** *(kaj)*
+* **la** *(,)*
+* **o** *(-u)*
+* **pi** *(-a, -e)*
+
 **nimi ilo** "anu" en nimi ilo "en" li lon insa pi [nimi ijo](#nimi-ijo) tu anu **kulupu suli** tu pi ijo ken/lon tu.
 *(La partikuloj "anu" kaj "en" estas inter du radikaj vortoj aŭ du frazoj pri du eblaĵoj aŭ efektivaĵoj.)*
 
@@ -191,14 +199,6 @@ kepeken **nimi ilo** "la" la kulupu pi [nimi monsi](#nimi-monsi) palisa li ken k
 *(La partikulo "pi" estas antaŭ modifa frazero.)*
 
 * jan ***pi*** pona mute *(tre bona persono, amikego)*
-
-* **anu** *(aŭ)*
-* **li** *(-s)*
-* **e** *(-n)*
-* **en** *(kaj)*
-* **la** *(,)*
-* **o** *(-u)*
-* **pi** *(-a, -e)*
 
 ### nimi kalama
 *(Sonimitoj - Onomatopoeia)*
