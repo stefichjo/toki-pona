@@ -131,12 +131,6 @@
 
 * meli ***lili*** li kute ***ike*** e mama. *(La knabinoj misaŭdis la gepatron.)*
 
-**nimi monsi** palisa li lon sinpin pi [nimi lawa](#nimi-lawa) li ken ala jo e **nimi monsi**. taso la ona li ken kama **nimi monsi** pi palisa ala.
-*(Prepozicio estas antaŭ substantivo kaj ne povas havi modifilon, sed ĝi povas fariĝi modifilo.)*
-
-* ona li ***tawa*** tomo. *(Ŝi iras hejmen.)*
-* tomo ***tawa*** *(aŭto)*
-
 ### nimi monsi palisa
 *(Prepozicioj - Prepositions)*
 
@@ -145,6 +139,12 @@
 * **tan** *(de, el, pro)*
 * **sama** *(sama al, same al)*
 * **kepeken** *(laŭ, per)*
+
+**nimi monsi** palisa li lon sinpin pi [nimi lawa](#nimi-lawa) li ken ala jo e **nimi monsi**. taso la ona li ken kama **nimi monsi** pi palisa ala.
+*(Prepozicio estas antaŭ substantivo kaj ne povas havi modifilon, sed ĝi povas fariĝi modifilo.)*
+
+* ona li ***tawa*** tomo. *(Ŝi iras hejmen.)*
+* tomo ***tawa*** *(aŭto)*
 
 ### nimi suli sinpin
 *(Helpaj Verboj - Auxilary Verbs)*
