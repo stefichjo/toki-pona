@@ -1,23 +1,6 @@
 # nimi pi toki pona
 *(Vortaro de Tokipono - Dictionary of Toki Pona)*
 
-## nimi ilo
-*(Partikuloj - Particles)*
-
-* **anu** *(aŭ)*
-* **li** *(-s)*
-* **e** *(-n)*
-* **en** *(kaj)*
-* **la** *(,)*
-* **o** *(-u)*
-* **pi** *(-a, -e)*
-
-### nimi kalama
-*(Sonimitoj - Onomatopoeia)*
-
-* **a** *(ha)*
-* **mu** *(bla, miaŭ)*
-
 ## nimi ijo
 *(Radikaj Vortoj - Content Words)*
 
@@ -126,6 +109,28 @@
 * **wawa** *(forta)* → **…** *(forto; energio)*
 * **weka** *(fora, distanca, izola)* → **…** *(foreco, distanco, izoleco)* → lon **weka** *(fore de)*
 
+### nimi lawa
+*(Substantivoj - Nouns)*
+
+**nimi lawa** li nimi "mi" en nimi "sina" en nimi "ona" en nimi "ijo". [nimi ijo](#nimi-ijo) ante li [nimi monsi](#nimi-monsi). **nimi lawa** li kama [nimi monsi](#nimi-monsi), la ona li jo e kon poka "jo".
+*("mi", "sina", "ona" kaj "ijo" estas substantivoj. Aliaj radikaj vortoj estas modifiloj. Kiam substantivo fariĝas modifilo, ĝi kunhavas la signifon "posedo".)*
+
+* ***sina*** jo e lipu seme? *(Kiun libron vi havas?)* → lipu ***sina*** li seme? *(Kiu estas via libro?)*
+
+[nimi monsi](#nimi-monsi) mute li ken kama [nimi lawa](#nimi-lawa) pi kon sin tan ni: ona li jo e [nimi lawa](#nimi-lawa) weka.
+*(Multaj modifiloj povas fariĝi substantivoj kun aldona signifo, ĉar ili havas implican substantivon.)*
+
+* ***suno*** *(brilanta)*
+ * ~~ijo~~ ***suno*** → ***suno*** *(brilaĵo; lumo, suno)*
+
+### nimi monsi
+*(Modifiloj (Adjektivoj kaj Adverboj) - Modifiers (Adjectives and Adverbs))*
+
+**nimi monsi** li nimi lon monsi pi [nimi lawa](#nimi-lawa) anu [nimi suli](#nimi-ilo).
+*(Modifilo estas aŭ adjektivo aŭ adverbo.)*
+
+* meli ***lili*** li kute ***ike*** e mama. *(La knabinoj misaŭdis la gepatron.)*
+
 ### nimi monsi palisa
 *(Prepozicioj - Prepositions)*
 
@@ -134,6 +139,12 @@
 * **tan** *(de, el, pro)*
 * **sama** *(sama al, same al)*
 * **kepeken** *(laŭ, per)*
+
+**nimi monsi** palisa li lon sinpin pi [nimi lawa](#nimi-lawa) li ken ala jo e **nimi monsi**. taso la ona li ken kama **nimi monsi** pi palisa ala.
+*(Prepozicio estas antaŭ substantivo kaj ne povas havi modifilon, sed ĝi povas fariĝi modifilo.)*
+
+* ona li ***tawa*** tomo. *(Ŝi iras hejmen.)*
+* tomo ***tawa*** *(aŭto)*
 
 ### nimi suli sinpin
 *(Helpaj Verboj - Auxilary Verbs)*
@@ -148,7 +159,54 @@
 * **sona** *(koni, scii)* → **…** ~~e ni:~~ *(scipovas)*
 * **wile** *(bezonanta)* → **…** ~~e ni:~~ *(devas, volas)*
 
+## nimi ilo
+*(Partikuloj - Particles)*
+
+* **anu** *(aŭ)*
+* **li** *(-s)*
+* **e** *(-n)*
+* **en** *(kaj)*
+* **la** *(,)*
+* **o** *(-u)*
+* **pi** *(-a, -e)*
+
+**nimi ilo** "anu" en nimi ilo "en" li lon insa pi [nimi ijo](#nimi-ijo) tu anu **kulupu suli** tu pi ijo ken/lon tu.
+*(La partikuloj "anu" kaj "en" estas inter du radikaj vortoj aŭ du frazoj pri du eblaĵoj aŭ efektivaĵoj.)*
+
+* mi kute e mije ***anu*** meli. *(Mi aŭdas viron aŭ virinon.)*
+ * → mi kute e mije ***anu*** mi kute e meli. `Ü`
+* sina **en** mi li anpa tawa sewi. *(Vi kaj mi estas malsuperaj laŭ Dio.)*
+ * → sina anpa tawa sewi ***en*** mi anpa tawa sewi. `Ü`
+
+**nimi ilo** "e" li lon monsi pi **nimi suli** palisa. **nimi ilo** "li" li lon insa pi kulupu pi **nimi suli** en [nimi lawa](#nimi-lawa) ona. insa pi kulupu pi **nimi suli** anu kulupu pi **nimi ilo** "e" la **nimi ilo** "en" li ken ala lon.
+*(La partikulo "e" estas malantaŭ transitiva verbo. La partikulo "li" estas inter predikato kaj la subjekto. En predikato aŭ rekta objekto ne povas esti la partikulo "en".)*
+
+* mi moku ***e*** telo. *(Mi trinkas akvon.)*
+* jan sona ***li*** pu. *(La instruistoj konsultas la oficialan libron de Tokipono.)*
+* ona li moku e telo ***~~en~~*** pan ***~~en~~*** toki. → ona li moku e telo e pan li toki. *(Ŝi trinkas la akvon, manĝas la panon kaj parolas.)*
+
+kepeken **nimi ilo** "la" la kulupu pi [nimi monsi](#nimi-monsi) palisa li ken kama lon sinpin pi [nimi lawa](#nimi-lawa) pi kulupu pi **nimi suli**.
+*(Per la partikulo "la", prepozicia frazero povas aperi antaŭ la subjekto.)*
+
+* ni li pona tawa mi. *(Mi ŝatas ĝin.)* → tawa mi la ni li pona. *(Al mi ĝi plaĉas.)*
+
+**nimi ilo** "o" li sama **nimi ilo** "li". taso la kulupu pi **nimi suli** lon monsi pi **nimi ilo** "o" li toki e wile pi jan toki.
+*(La partikulo "o" similas al la partikulo "li", sed la predikato malantaŭ la partikulo "o" esprimas deziron de la parolanto.)*
+
+* mi ***o*** moku e ijo pona. *(Mi manĝu ion bonan.)*
+
+**nimi ilo** "pi" li lon sinpin pi kulupu pi [nimi monsi](#nimi-monsi).
+*(La partikulo "pi" estas antaŭ modifa frazero.)*
+
+* jan ***pi*** pona mute *(tre bona persono, amikego)*
+
+### nimi kalama
+*(Sonimitoj - Onomatopoeia)*
+
+* **a** *(ha)*
+* **mu** *(bla, miaŭ)*
 ___
+
 * **awen sona** *(memori)*
 * **ilo nanpa** *(kalkulilo)*
 * **ilo sona** *(komputilo)*
