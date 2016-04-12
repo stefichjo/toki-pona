@@ -119,7 +119,7 @@ nimi "jo e pilin" li kama nimi "pilin".
 
 * mi ***pilin*** e pona mute. *(Mi sentas multan bonon.)*
  * mi ***jo e pilin*** pi pona mute. *(Mi havas tre bonan senton.)*
-    * -> mi ***pilin*** pi pona mute. *(Mi fartas tre bone.)*
+    * → mi ***pilin*** pi pona mute. *(Mi fartas tre bone.)*
 
 ## toki namako
 *(Aldona Lingvaĵo)*
@@ -288,11 +288,10 @@ nimi lon monsi pi [nimi lawa](nimi.md#nimi-lawa) "ma" weka li ken kama [nimi mon
 * waso li tawa lon kon ***lon sewi pi*** tomo sona. *(Birdo flugas super la lernejo.)*
  * → waso li tawa lon kon ***sewi*** tomo sona.
 
-monsi pi [nimi suli](nimi.md#nimi-ilo-palisa) la [nimi monsi palisa](nimi.md#nimi-monsi-palisa) "tawa" li ken kama [nimi ilo](nimi.md#nimi-ilo).
-*(Malantaŭ transitivaj verboj la prepozicio "tawa" povas fariĝi partikulo.)*
+[nimi monsi palisa](nimi.md#nimi-monsi-palisa) "tawa" li ken toki e wile pi ijo lon sinpin pi [nimi ilo](nimi.md#nimi-ilo) "li".
 
-* mi ***lukin*** lukin ***e*** sina. *(Mi provas vidi vin.)*
- * → mi lukin ***tawa*** sina.
+* mi ***wile pana*** e kili ***tawa*** sina. *(Mi volas doni pomon al vi.)*
+ * → mi ***jo*** e kili ***tawa*** sina. *(Mi havas pomon por vi.)*
 
 [nimi monsi](nimi.md#nimi-monsi) palisa li ken kama [nimi suli](nimi.md#nimi-ilo) palisa.
 *(Prepozicio povas fariĝi transitiva verbo.)*
@@ -308,4 +307,3 @@ monsi pi [nimi suli](nimi.md#nimi-ilo-palisa) la [nimi monsi palisa](nimi.md#nim
 
 * mi ***olin e ni: mi*** kama sona e jan pona sina. *(Mi amas konatiĝi kun via amiko.)*
  * → mi ***olin*** kama sona e jan pona sina.
-
