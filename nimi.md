@@ -8,15 +8,11 @@
 * **ala** *(neniu)* → ~~ijo~~ **…** *(nenio)*
 * **alasa** *(ĉasi)*
 * **ale** *(ĉiu)* → ~~ijo~~ **…** *(ĉio)*
-* **anpa** *(malsupra)* → ~~ma~~ **…** *(malsupro)* → lon **anpa** *(sub)*
 * **ante** *(diversa)*
 * **esun** *(interŝanĝi)* `Ü` → ~~ma~~ **…** *(interŝanĝejo; merkato)* → lon **esun** *(por, kontraŭ)* `Ü`
 * **ijo** *(io)*
 * **ike** *(malbona)*
 * **ilo** *(utila)* `Ü` → ~~ijo~~ **…** *(utilaĵo; ilo, instrumento, organo)*
-* **insa** *(interna)*
- * ~~ijo~~ **…** *(internaĵo; centro, mezo)* → lon **insa** *(centre de, meze de, inter)*
- * ~~ma~~ **…** *(interno)* → lon **insa** *(interne de, en)*
 * **jaki** *(malpura)*
 * **jan** *(anima)* `Ü` → ~~sijelo~~ **…** *(anima besto; ulo, persono, homo)*
 * **jelo** *(flava)*
@@ -27,13 +23,13 @@
 * **kili** *(sukcesa)* `Ü` → ~~ijo~~ **…** *(sukcesaĵo; frukto)*
 * **kiwen** *(malmola)* → ~~ijo~~ **…** *(malmolaĵo; ŝtono, metalo, osto)*
 * **ko** *(amorfa)* `Ü` → ~~ijo~~ **…** *(amorfaĵo; amaso, pulvoro)*
-* **kon** *(ŝvebanta)* `Ü` → ~~ijo~~ **…** *(ŝvebaĵo; fumo, gaso, aero)*
+* **kon** *(ŝvebanta)* `Ü` → ~~ijo~~ **…** *(ŝvebaĵo; fumo, gaso, aero, spirito)*
 * **kule** *(aspektanta)* `Ü` → ~~ijo~~ **…** *(aspektaĵo; koloro)*
 * **kulupu** *(orda)* `Ü` → ~~ijo~~ **…** *(ordaĵo; aro, grupo)*
 * **kute** *(aŭdi, aŭskulti, obei)* → ~~ilo~~ **…** *(aŭdilo, aŭskultilo, obeilo; orelo)*
 * **lape** *(dormanta)*
 * **laso** *(verda, blua)*
-* **lawa** *(gvidi, konduki)* → ~~ilo~~ **…** *(gvidilo, kondukilo; kapo, supro)* → lon **lawa** *(supre de)*
+* **lawa** *(gvidi, konduki)* → ~~ilo~~ **…** *(gvidilo, kondukilo; kapo, menso)*
 * **len** *(pendanta)* `Ü` → ~~ijo~~ **…** *(pendaĵo; vesto)*
 * **lete** *(malvarma)*
 * **lili** *(malgranda, malmulta, eta)*
@@ -50,17 +46,15 @@
 * **mije** *(malina)* → ~~jan~~ **…** *(malino; viro)*
 * **moku** *(manĝi)*
 * **moli** *(mortinta)*
-* **monsi** *(malantaŭa)* → ~~ijo~~ **…** *(malantaŭaĵo; dorso)* → lon **monsi** *(malantaŭ)*
 * **mun** *(orbita)* `Ü` → ~~ijo~~ **…** *(orbitaĵo; luno, planedo, satelito)*
 * **musi** *(ludanta)*
 * **mute** *(multa)* → **…** *(multo; kvanto)*
 * **nanpa** *(kalkuli, nombri)* `Ü` → ~~ijo~~ **…** *(kalkulaĵo, nombraĵo; numero)*
-* **nasa** *(stranga)*
+* **nasa** *(malsimpla; stranga, freneza)*
 * **nasin** *(direkti)* `Ü` → ~~ijo~~ **…** *(direktaĵo; vojo, strato, maniero)*
 * **nena** *(elstara)* `Ü` → ~~ijo~~ **…** *(elstaraĵo; nazo, monto, faldo)*
 * **ni** *(tiu)* → ~~ijo~~ **…** *(tio)*
 * **nimi** *(signifa)* `Ü` → ~~ijo~~ **…** *(signifaĵo; vorto, nomo)*
-* **noka** *(staranta)* → ~~ilo~~ **…** *(starilo; gambo, piedo)* → lon **noka** *(piede de, malsupre de)*
 * **olin** *(ami)*
 * **ona** *(ŝi, li, ĝi, ili)*
 * **open** *(trairebla, malfermita)* `Ü` → ~~ma~~ **…** *(traireblo, malfermiteco)* → kepeken nasin lon **open** *(laŭ vojo en la traireblo; tra)* `Ü`
@@ -71,23 +65,17 @@
 * **pana** *(doni)*
 * **pimeja** *(malhela, nigra)*
 * **pipi** *(rampanta)* `Ü` → ~~sijelo~~ **…** *(rampanta besto; insekto)*
-* **poka** *(apuda)* → ~~ijo~~ **…** *(apudaĵo; flanko, kokso)* → lon **poka** *(ĉe la flanko; apud, kun)*
- * → kepeken nasin lon **poka** *(laŭ vojo ĉe la flanko; preter)*
- * → lon **poka** ante *(ĉe la alia flanko; trans)* → tawa **poka** ante *(al la alia flanko; trans -n)*
- * → lon **poka** sike *(ĉe la ronda flanko; ĉirkaŭ)* → kepeken nasin lon **poka** sike *(ĉirkaŭ -n)*
 * **poki** *(protekti, konservi, ŝirmi)* → ~~ilo~~ **…** *(protektilo, konservilo, ŝirmilo; ingo, ujo)*
-* **pona** *(bona, malaĉa, pura)*
+* **pona** *(bona, malaĉa, pura, simpla)*
 * **pilin** *(senti)* → ~~ilo~~ **…** *(sentilo, sensoro, sentumo; koro)*
 * **pu** *(interaganta kun la oficiala libro de Tokipono)*
 * **seli** *(varma, arda)* → ~~ijo~~ **…** *(varmaĵo, ardaĵo; fajro)*
 * **selo** *(eksterna)* `Ü` → ~~ijo~~ **…** *(eksternaĵo; ŝelo, haŭto, formo)* → lon **selo** *(ekster)* `Ü` → lon **selo** sike *(ĉe ronda eksterno; ĉirkaŭ)* `Ü`
 * **seme** *(kiu)* → ~~ijo~~ **…** *(kio)*
-* **sewi** *(alta)* → ~~ma~~ **…** *(alto; ĉielo)* → lon **sewi** *(super)*
 * **sijelo** *(vivanta, sana)* `Ü` → ~~ijo~~ **…** *(vivaĵo, sanaĵo; besto, korpo)*
 * **sike** *(ronda)* → ~~ijo~~ **…** *(rondaĵo; cirklo, sfero, kuglo)*
 * **sin** *(aldona)*
 * **sina** *(vi)*
-* **sinpin** *(antaŭa)* → ~~ijo~~ **…** *(antaŭaĵo; fronto, muro, obstaklo)* → lon **sinpin** *(antaŭ)*
 * **sitelen** *(signi, skribi, desegni, pentri, registri)*
 * **soweli** *(varmsanga, ĉarma)* `Ü` → ~~sijelo~~ **…** *(varmsanga besto, ĉarma besto; mamulo)*
 * **suli** *(granda)*
@@ -107,7 +95,6 @@
 * **wan** *(unika, aparta, unuopa; unu)* → ~~ijo~~ **…** *(unikaĵo, apartaĵo, unuopaĵo; ero, unuo, parto, peco)* `Ü`
 * **waso** *(fluganta)* `Ü` → ~~sijelo~~ **…** *(fluganta besto; birdo)*
 * **wawa** *(forta)* → **…** *(forto; energio)*
-* **weka** *(fora, distanca, izola)* → **…** *(foreco, distanco, izoleco)* → lon **weka** *(fore de)*
 
 ### nimi lawa
 *(Substantivoj - Nouns)*
@@ -131,7 +118,7 @@
 
 * meli ***lili*** li kute ***ike*** e mama. *(La knabinoj misaŭdis la gepatron.)*
 
-### nimi monsi palisa
+#### nimi monsi palisa
 *(Prepozicioj - Prepositions)*
 
 * **lon** *(ĉe, en, sur)*
@@ -145,6 +132,23 @@
 
 * ona li ***tawa*** tomo. *(Ŝi iras hejmen.)*
 * tomo ***tawa*** *(aŭto)*
+
+### nimi ma
+*(Spacaj Vortoj - Spatial Nouns)*
+
+* **anpa** *(malsupra)* → ~~ma~~ **…** *(malsupro)* → lon **anpa** *(sub)*
+* **insa** *(interna)*
+ * ~~ijo~~ **…** *(internaĵo; centro, mezo)* → lon **insa** *(centre de, meze de, inter)*
+ * ~~ma~~ **…** *(interno)* → lon **insa** *(interne de, en)*
+* **monsi** *(malantaŭa)* → ~~ijo~~ **…** *(malantaŭaĵo; dorso)* → lon **monsi** *(malantaŭ)*
+* **noka** *(staranta)* → ~~ilo~~ **…** *(starilo; gambo, piedo)* → lon **noka** *(piede de, malsupre de)*
+* **poka** *(apuda)* → ~~ijo~~ **…** *(apudaĵo; flanko, kokso)* → lon **poka** *(ĉe la flanko; apud, kun)*
+ * → kepeken nasin lon **poka** *(laŭ vojo ĉe la flanko; preter)*
+ * → lon **poka** ante *(ĉe la alia flanko; trans)* → tawa **poka** ante *(al la alia flanko; trans -n)*
+ * → lon **poka** sike *(ĉe la ronda flanko; ĉirkaŭ)* → kepeken nasin lon **poka** sike *(ĉirkaŭ -n)*
+* **sewi** *(alta)* → ~~ma~~ **…** *(alto; ĉielo)* → lon **sewi** *(super)*
+* **sinpin** *(antaŭa)* → ~~ijo~~ **…** *(antaŭaĵo; fronto, muro, obstaklo)* → lon **sinpin** *(antaŭ)*
+* **weka** *(fora, distanca, izola)* → **…** *(foreco, distanco, izoleco)* → lon **weka** *(fore de)*
 
 ### nimi suli sinpin
 *(Helpaj Verboj - Auxilary Verbs)*
