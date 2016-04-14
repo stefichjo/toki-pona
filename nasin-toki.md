@@ -121,6 +121,14 @@ nimi "jo e pilin" li kama nimi "pilin".
  * mi ***jo e pilin*** pi pona mute. *(Mi havas tre bonan senton.)*
     * → mi ***pilin*** pi pona mute. *(Mi fartas tre bone.)*
 
+[nimi ma](nimi.md#nimi-ma) li jo ala e [nimi monsi](nimi.md#nimi-monsi), la ona li ken kama [nimi monsi](nimi.md#nimi-monsi).
+*(Se spaca vorto ne havas modifilon, ĝi povas fariĝi modifilo.)*
+
+* toki lon insa mi *(parolado en mi)* `Ü`
+ * → toki insa *(ena parolado)*
+* soweli suli li tawa weka. *(La alko forkuris.)*
+ * → soweli suli li kama weka. *(La alko malaperis.)* `Ü`
+
 ## toki namako
 *(Aldona Lingvaĵo)*
 
@@ -282,8 +290,8 @@ nimi lon monsi pi nimi "li" anu nimi "e" li ken kama lon sinpin pi nimi "la". ke
 ### toki mu
 *(Bleka Lingvaĵo)*
 
-nimi lon monsi pi [nimi lawa](nimi.md#nimi-lawa) "ma" weka li ken kama [nimi monsi palisa](nimi.md#nimi-monsi-palisa).
-*(Loka substantivo povas fariĝi prepozicio.)*
+[nimi ma](nimi.md#nimi-ma) li ken kama [nimi monsi palisa](nimi.md#nimi-monsi-palisa).
+*(Loka vorto povas fariĝi prepozicio.)*
 
 * waso li tawa lon kon ***lon sewi pi*** tomo sona. *(Birdo flugas super la lernejo.)*
  * → waso li tawa lon kon ***sewi*** tomo sona.
