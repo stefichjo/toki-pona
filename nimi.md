@@ -222,9 +222,12 @@ ___
 * **nimi tomo** *(sekura vorto; pasvorto)*
 * **sitelen insa** *(ene desegni; imagi)*
 * **tawa sin** *(moviĝi aldone, sekvi)*
-* **tomo tawa** *(mova ĉambro; aŭto)* `©`
- * **tomo tawa kon** *(aera mova ĉambro; aviadilo)*
- * **tomo tawa linja** *(linia mova ĉambro; vagono, trajno)*
- * **tomo tawa telo** *(akva mova ĉambro; ŝipo, boato)*
+* **tomo**
+ * **tomo tawa** *(mova ĉambro; aŭto)* `©`
+    * **tomo tawa kon** *(aera mova ĉambro; aviadilo)*
+    * **tomo tawa linja** *(linia mova ĉambro; vagono, trajno)*
+    * **tomo tawa telo** *(akva mova ĉambro; ŝipo, boato)*
 * **toki insa** *(ene paroli; pensi)* `©`
 * **toki sin** *(paroli aldone; respondi)*
+* **tu ma** *(dividiteco de landoj)*
+ * **ilo pi tu ma** *(limo)* 
