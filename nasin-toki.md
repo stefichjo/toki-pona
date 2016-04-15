@@ -157,6 +157,12 @@ monsi pi nimi "taso" la [nimi ilo](nimi.md#nimi-ilo) "la" li ken kama weka.
 * ***taso la*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj.)* `Ü`
  * → ***taso*** mije en meli li pali li pilin pona.
 
+nimi "monsi" li kama weka lon sinpin pi nimi "la".
+*("monsi" malaperas antaŭ "la".)*
+
+* ona li kama lape ***lon monsi pi tenpo lili***. *(Ŝi baldaŭ endormiĝos.)*
+ * → ***tenpo lili la*** ona li kama lape.
+
 nimi "nanpa" li ken kama wan pi kulupu lon monsi pi nimi "nimi" weka.
 *("nanpa" povas fariĝi parto de nomo.)*
 
