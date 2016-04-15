@@ -85,7 +85,14 @@ kulupu pi [nimi ilo](nimi.md#nimi-ilo) "e" li nimi "ijo", la ona li ken kama wek
 * mije wawa li ***~~wile~~ lukin ~~e ni: ona li~~*** jo e meli pona. *(La forta viro serĉas bonan virinon.)*
  * → mije wawa li ***lukin*** jo e meli pona.
 
-kulupu pi [nimi ilo](nimi-ilo) "la" la [nimi monsi](nimi.md#nimi-monsi) palisa "lon" (en nimi "ni") li kama weka. " *(En helpa frazero, la prepozicio "lon" (kaj "ni") malaperas.)*
+[nimi suli sinpin](nimi.md#nimi-suli-sinpin) li ken kama [nimi lawa](nimi.md#nimi-lawa). tenpo ni la [nimi suli](nimi.md#nimi-ilo) lon monsi pi [nimi suli sinpin](nimi.md#nimi-suli-sinpin) li [nimi monsi](#nimi.md#nimi-monsi) pi [nimi lawa](nimi.md#nimi-lawa).
+*(Helpa verbo povas fariĝi substantivo. Tiam la verbo malantaŭ la helpa verbo estas adjektivo.)*
+
+* mi ***wile*** ala ***kama sona*** e toki pona. *(Mi ne volas lerni Tokiponon.)*
+ * → mi jan pi ***wile kama sona*** ala. *(Mi ne estas scivolemulo.)*
+
+kulupu pi [nimi ilo](nimi-ilo) "la" la [nimi monsi](nimi.md#nimi-monsi) palisa "lon" (en nimi "ni") li kama weka. "
+*(En helpa frazero, la prepozicio "lon" (kaj "ni") malaperas.)*
 
 * ***~~lon~~*** kulupu la mi wawa. *(En grupo ni estas fortaj.)*
  * → kulupu la mi wawa.
