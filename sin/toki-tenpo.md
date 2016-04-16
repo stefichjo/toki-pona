@@ -13,7 +13,14 @@
  * mi ***tan kama*** sitelen. *(Mi estas ekskribinta.)*
  * mi ***tawa kama*** sitelen. *(Mi estas ekskribonta.)*
 
+# kama ijo
+*(Pasivo)*
+
 * mi ***lon kama ijo*** sitelen. *(Mi estas desegnata.)*
  * mi ***tan kama ijo*** sitelen. *(Mi estas desegnita.)*
  * mi ***tawa kama ijo*** sitelen. *(Mi estas desegnota.)*
 
+# pana
+*(Kaŭzativo)*
+
+* mi ***ijo sitelen*** e nimi tawa jan lili. *(Mi diktas la vortojn al la infanoj.)*
