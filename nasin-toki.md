@@ -12,6 +12,11 @@ wan lipu "[toki lili](#toki-lili)" li toki e nasin toki pi jan ale pi toki pona.
 * sina ~~***li***~~ sin. *(Vi estas nova.)*
  * → sina sin.
 
+wan lipu "[toki suli](#toki-suli)" li toki e nasin toki pi ijo ni: tawa mi la ona li ken. taso jan ala li kepeken ona.
+*(La sekcio "Snoba Lingvaĵo" traktas la lingvouzon, kiun mi opinias ebla, kvankam neniu uzas ĝin.)*
+
+* jan lili li ***weka tomo sona***. *(La infanoj estas fore de la lernejo.)*
+
 wan lipu "[toki namako](#toki-namako)" li toki e nasin toki sin pi jan Sonja lon lipu pi toki pona.
 *(La sekcio "Aldona Lingvaĵo" traktas la aldonan lingvouzon de Sonja en la oficiala libro de Tokipono.)*
 
@@ -45,7 +50,7 @@ nimi lon sinpin pi [nimi ilo](nimi.md#nimi-ilo) "li" li ken kama weka. nasin ni 
  * → ona li mama***,*** anu seme?
     * ***lon***. *(Jes.)*
 
-sinpin pi [nimi lawa](nimi.md#nimi-lawa) taso la [nimi ilo](nimi.md#nimi-ilo) "pi" li kama weka. nasin ni la [nimi lawa](nimi.md#nimi-lawa) ni li kama [nimi monsi](nimi.md#nimi-monsi).
+sinpin pi [nimi lawa](nimi.md#nimi-lawa) taso [nimi ilo](nimi.md#nimi-ilo) "pi" li kama weka. nasin ni la [nimi lawa](nimi.md#nimi-lawa) ni li kama [nimi monsi](nimi.md#nimi-monsi).
 *(Antaŭ nura substantivo, la partikulo "pi" malaperas. Tiel tiu substantivo fariĝas modifilo.)*
 
 * toki ***~~pi~~*** pona *(lingvo de bono)*
@@ -135,6 +140,25 @@ nimi "jo e pilin" li kama nimi "pilin".
  * → toki insa *(ena parolado)*
 * soweli suli li tawa weka. *(La alko forkuris.)*
  * → soweli suli li kama weka. *(La alko malaperis.)* `Ü`
+
+## toki suli
+*(Snoba Lingvaĵo)*
+
+nimi "ante" li sama nimi "sama ala". nimi "weka" li sama nimi "lon ala". tan ni la nimi "ante" en nimi "weka" li ken sama kama [nimi monsi palisa](nimi.md#nimi-monsi-palisa).
+*("ante" kaj "sama", kaj "weka" kaj "lon" estas antonimoj. Tial ankaŭ "ante" kaj "weka" povas fariĝi prepozicioj.)*
+
+* ijo ***ante*** *(io alia)*
+ * ijo ***ante ona*** *(io alia ol ŝi)*
+* ijo ***weka*** *(io distanca)*
+ * ijo ***weka ona*** *(io distanca de ŝi)*
+
+nimi "sin" en nimi "taso" li ken kama [nimi monsi palisa](nimi.md#nimi-monsi-palisa).
+*("sin" kaj "taso" povas fariĝi prepozicioj.)*
+
+* ijo ***sin*** *(io aldona)*
+ * ijo ***sin ona*** *(io aldona al ŝi, io kun ŝi)*
+* ijo ***taso*** *(io izolita)*
+ * ijo ***taso ona*** *(io izolita de ŝi, io sen ŝi)*
 
 ## toki namako
 *(Aldona Lingvaĵo)*
