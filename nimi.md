@@ -95,6 +95,7 @@
 * **wan** *(unika, aparta, unuopa; unu)* → ~~ijo~~ **…** *(unikaĵo, apartaĵo, unuopaĵo; ero, unuo, parto, peco)* `Ü`
 * **waso** *(fluganta)* `Ü` → ~~sijelo~~ **…** *(fluganta besto; birdo)*
 * **wawa** *(forta)* → **…** *(forto; energio)*
+* **weka** *(fora, distanca, izola)*
 
 ### nimi lawa
 *(Substantivoj - Nouns)*
@@ -121,17 +122,27 @@
 #### nimi monsi palisa
 *(Prepozicioj - Prepositions)*
 
-* **lon** *(ĉe, en, sur)*
-* **tawa** *(al, ĝis)*
-* **tan** *(de, el, pro)*
+* **lon** *(ĉe, en, sur, laŭ)*
+* **tawa** *(al, ĝis; por)*
+* **tan** *(de, el; pro)*
 * **sama** *(sama al, same al)*
-* **kepeken** *(laŭ, per)*
+* **kepeken** *(per)*
 
-**nimi monsi** palisa li lon sinpin pi [nimi lawa](#nimi-lawa) li ken ala jo e **nimi monsi**. taso la ona li ken kama **nimi monsi** pi palisa ala.
+**nimi monsi palisa** li lon sinpin pi [nimi lawa](#nimi-lawa) li ken ala jo e **nimi monsi**. taso ona li ken kama **nimi monsi** pi palisa ala.
 *(Prepozicio estas antaŭ substantivo kaj ne povas havi modifilon, sed ĝi povas fariĝi modifilo.)*
 
-* ona li ***tawa*** tomo. *(Ŝi iras hejmen.)*
-* tomo ***tawa*** *(aŭto)*
+* ijo ***sama*** *(io sama)*
+ * ijo ***sama ona*** *(io sama kiel ŝi)*
+
+**nimi monsi palisa** ma li nimi "lon" en nimi "tawa" en nimi "tan". taso ona li ken toki e ijo pi ma ala. tenpo ni la nimi "lon" li kama nimi "kepeken".
+*(La spacaj prepozicioj estas "lon", "tawa" kaj "tan", sed ili povas esprimi ion ne-spacan. Tiam "lon" fariĝas "kepeken".)*
+
+* ijo ***lon ona*** *(io estanta ĉe ŝi)*
+ * → ona li sitelen ***kepeken*** ilo sona. *(Ŝi skribas per komputilo.)*
+* ijo ***tawa ona*** *(io moviĝanta al ŝi)*
+ * → ni li pona ***tawa*** ona. *(Tio estas bona por ŝi.)*
+* ijo ***tan ona*** *(io venanta de ŝi)*
+ * → ni li pona ***tan*** ona. *(Tio estas bona pro ŝi.)*
 
 ### nimi ma
 *(Spacaj Vortoj - Spatial Nouns)*
@@ -148,7 +159,6 @@
  * → lon **poka** sike *(ĉe la ronda flanko; ĉirkaŭ)* → kepeken nasin lon **poka** sike *(ĉirkaŭ -n)*
 * **sewi** *(alta)* → ~~ma~~ **…** *(alto; ĉielo)* → lon **sewi** *(super)*
 * **sinpin** *(antaŭa)* → ~~ijo~~ **…** *(antaŭaĵo; fronto, muro, obstaklo)* → lon **sinpin** *(antaŭ)*
-* **weka** *(fora, distanca, izola)* → **…** *(foreco, distanco, izoleco)* → lon **weka** *(fore de)*
 
 ### nimi suli sinpin
 *(Helpaj Verboj - Auxilary Verbs)*
@@ -194,7 +204,7 @@ kepeken **nimi ilo** "la" la kulupu pi [nimi monsi](#nimi-monsi) palisa li ken k
 
 * ni li pona tawa mi. *(Mi ŝatas ĝin.)* → tawa mi la ni li pona. *(Al mi ĝi plaĉas.)*
 
-**nimi ilo** "o" li sama **nimi ilo** "li". taso la kulupu pi **nimi suli** lon monsi pi **nimi ilo** "o" li toki e wile pi jan toki.
+**nimi ilo** "o" li sama **nimi ilo** "li". taso kulupu pi **nimi suli** lon monsi pi **nimi ilo** "o" li toki e wile pi jan toki.
 *(La partikulo "o" similas al la partikulo "li", sed la predikato malantaŭ la partikulo "o" esprimas deziron de la parolanto.)*
 
 * mi ***o*** moku e ijo pona. *(Mi manĝu ion bonan.)*
