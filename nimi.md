@@ -140,9 +140,9 @@
 * ijo ***lon ona*** *(io estanta ĉe ŝi)*
  * → ona li sitelen ***kepeken*** ilo sona. *(Ŝi skribas per komputilo.)*
 * ijo ***tawa ona*** *(io moviĝanta al ŝi)*
- * → ni li pona ***tawa*** ona. *(Tio estas bona laŭ ŝi.)*
+ * → ni li pona ***tawa*** ona. *(Tio estas bona por ŝi.)*
 * ijo ***tan ona*** *(io venanta de ŝi)*
- * → ni li pona ***tan*** ona. *(Tio estas bona dank' al ŝi.)*
+ * → ni li pona ***tan*** ona. *(Tio estas bona pro ŝi.)*
 
 ### nimi ma
 *(Spacaj Vortoj - Spatial Nouns)*
