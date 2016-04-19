@@ -301,12 +301,6 @@ nimi lon monsi pi nimi "li" anu nimi "e" li ken kama lon sinpin pi nimi "la". na
 * waso li tawa lon kon ***lon sewi pi*** tomo sona. *(Birdo flugas super la lernejo.)*
  * → waso li tawa lon kon ***sewi*** tomo sona.
 
-tenpo ale la [nimi ma](nimi.md#nimi-ma) li ken kama [nimi monsi](nimi.md#nimi-monsi). [nimi ilo](nimi.md#nimi-ilo) "pi" lon monsi ona li kama [nimi monsi palisa](nimi.md#nimi-monsi-palisa) "tan".
-*(Spaca vorto povas ĉiam fariĝi modifilo. Partikulo "pi" malantaŭ ĝi fariĝas la prepozicio "tan".)*
-
-* waso li ***lon weka pi tomo sona***. *(La birdo estas fore de la lernejo.)*
- * → waso li ***weka tan tomo sona***.
-
 [nimi monsi palisa](nimi.md#nimi-monsi-palisa) "tawa" li ken toki e wile pi ijo lon sinpin pi [nimi ilo](nimi.md#nimi-ilo) "li". *(La prepoizicio "tawa" povas esprimi volon de la subjekto.)*
 
 * mi ***wile pana*** e kili ***tawa*** sina. *(Mi volas doni pomon al vi.)*
