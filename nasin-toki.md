@@ -301,7 +301,7 @@ nimi lon monsi pi nimi "li" anu nimi "e" li ken kama lon sinpin pi nimi "la". na
 * waso li tawa lon kon ***lon sewi pi*** tomo sona. *(Birdo flugas super la lernejo.)*
  * → waso li tawa lon kon ***sewi*** tomo sona.
 
-[nimi monsi palisa](nimi.md#nimi-monsi-palisa) "tawa" li ken toki e wile pi ijo lon sinpin pi [nimi ilo](nimi.md#nimi-ilo) "li". *(La prepoizicio "tawa" povas esprimi volon de la subjekto.)*
+[nimi monsi palisa](nimi.md#nimi-monsi-palisa) "tawa" li ken toki e wile pana. *(La prepoizicio "tawa" povas esprimi la volon doni.)*
 
 * mi ***wile pana*** e kili ***tawa*** sina. *(Mi volas doni pomon al vi.)*
  * → mi ***jo*** e kili ***tawa*** sina. *(Mi havas pomon por vi.)*
