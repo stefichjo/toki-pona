@@ -125,7 +125,7 @@
 * **lon** *(ĉe, en, sur, laŭ)*
 * **tawa** *(al, ĝis; por)*
 * **tan** *(de, el; pro)*
-* **sama** *(sama al, same al)*
+* **sama** *(same kiel)*
 * **kepeken** *(per)*
 
 **nimi monsi palisa** li lon sinpin pi [nimi lawa](#nimi-lawa) li ken ala jo e **nimi monsi**. taso ona li ken kama **nimi monsi** pi palisa ala.
