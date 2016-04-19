@@ -315,6 +315,12 @@ nimi lon monsi pi nimi "li" anu nimi "e" li ken kama lon sinpin pi nimi "la". na
  * → mi ***poka*** jan pona.
     * → mi ***poka e*** jan pona.
 
+[nimi suli](nimi.md#nimi-ilo) palisa li ken kama [nimi suli](nimi.md#nimi-suli) sinpin.
+*(Transitiva verbo povas fariĝi helpa verbo.)*
+
+* mi ***olin e ni: mi*** kama sona e jan pona sina. *(Mi amas konatiĝi kun via amiko.)*
+ * → mi ***olin*** kama sona e jan pona sina.
+
 ## toki musi
 *(Luda Lingvaĵo)*
 
@@ -363,12 +369,3 @@ nimi "taso" li [nimi monsi palisa](nimi.md#nimi-monsi-palisa). nimi "sin" li sam
 * ~~ijo~~ ilo *(utilaĵo; ilo)*
  * ~~ilo~~ luka *(tuŝilo; mano, brako)*
     * → o ***luka*** ala e seli! *(Ne tuŝu la fajron!)*
-
-### nimi suli sinpin
-*(Helpaj Verboj)*
-
-[nimi suli](nimi.md#nimi-ilo) palisa li ken kama [nimi suli](nimi.md#nimi-suli) sinpin.
-*(Transitiva verbo povas fariĝi helpa verbo.)*
-
-* mi ***olin e ni: mi*** kama sona e jan pona sina. *(Mi amas konatiĝi kun via amiko.)*
- * → mi ***olin*** kama sona e jan pona sina.
