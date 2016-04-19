@@ -341,8 +341,8 @@ nimi "ante" li sama nimi "sama ala". nimi "weka" li sama nimi "lon ala". tan ni 
 * ijo ***weka*** *(io distanca)*
  * → ijo ***weka ona*** *(io distanca de ŝi)*
 
-nimi "taso" li [nimi monsi palisa](nimi.md#nimi-monsi-palisa). nimi "sin" li sama nimi "taso ala". tan ni la nimi "sin" li ken sama kama [nimi monsi palisa](nimi.md#nimi-monsi-palisa). nimi "ni la" lon monsi pi [nimi monsi palisa](nimi.md#nimi-monsi-palisa) "taso" li ken ala kama weka.
-*("taso" estas prepozicio. "sin" kaj "taso" estas antonimoj. Tial ankaŭ "sin" povas fariĝi prepozicio. "ni la" malantaŭ la prepozicio "taso" ne povas malaperi.)*
+nimi "taso" li [nimi monsi palisa](nimi.md#nimi-monsi-palisa). nimi "sin" li sama nimi "taso ala". tan ni la nimi "sin" li ken sama kama [nimi monsi palisa](nimi.md#nimi-monsi-palisa).
+*("taso" estas prepozicio. "sin" kaj "taso" estas antonimoj. Tial ankaŭ "sin" povas fariĝi prepozicio.)*
 
 * ijo ***sin*** *(io aldona)*
  * → ijo ***sin ona*** *(io aldona al ŝi, io kun ŝi)*
