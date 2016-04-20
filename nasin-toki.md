@@ -363,10 +363,9 @@ nimi "taso" li [nimi monsi palisa](nimi.md#nimi-monsi-palisa). nimi "sin" li sam
 ### nimi lawa weka
 *(Implicaj Substantivoj)*
 
-* nimi "mi" en nimi "sina" en nimi "ona" en nimi "ijo" taso li [nimi lawa](nimi.md#nimi-lawa). taso [nimi ijo](nimi.md#nimi-ijo) ante li ken jo e [nimi lawa](nimi.md#nimi-lawa) weka.
-*(Nur "mi", "sina", "ona" kaj "ijo" estas substantivoj. Sed aliaj radikaj vortoj povas havi implican substantivon.)*
+* nimi "mi" en nimi "sina" en nimi "ona" en nimi "ijo" taso li [nimi lawa](nimi.md#nimi-lawa). taso [nimi ijo](nimi.md#nimi-ijo) ante li ken jo e [nimi lawa](nimi.md#nimi-lawa) "ijo" weka.
+*(Nur "mi", "sina", "ona" kaj "ijo" estas substantivoj. Sed aliaj radikaj vortoj povas havi implican substantivon "ijo".)*
 
 * ~~ijo~~ ilo *(utilaĵo; ilo)*
  * ~~ilo~~ luka *(tuŝilo; mano, brako)*
     * → o ***luka*** ala e seli! *(Ne tuŝu la fajron!)*
-
