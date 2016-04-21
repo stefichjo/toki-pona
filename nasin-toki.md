@@ -72,12 +72,12 @@ nimi lon sinpin pi [nimi ilo](nimi.md#nimi-ilo) "li" li ken kama weka. nasin ni 
  * → ona li mama***,*** anu seme?
     * ***lon***. *(Jes.)*
 
-kulupu pi [nimi ilo](nimi.md#nimi-ilo) "e" li nimi "ijo", la ona li ken kama weka.
-*(Se la rekta objekto estas "ijo", ĝi povas malaperi.)*
+kulupu pi [nimi ilo](nimi.md#nimi-ilo) "e" li nimi "ijo", la ona li kama weka.
+*(Se la rekta objekto estas "ijo", ĝi malaperas.)*
 
 * mije li ***sona e ijo***. *(La viro scias aferojn.)*
  * → mije li ***sona***. *(La viro scias.)*
-* ***~~ijo~~*** toki *(parolaĵo)*
+* ***~~ijo~~*** toki *(parolaĵo; lingvo)*
  * → toki *(lingvo)*
 
 nimi "jo e pilin" li kama nimi "pilin".
@@ -368,3 +368,25 @@ nimi "mi" en nimi "sina" en nimi "ona" en nimi "ijo" taso li [nimi lawa](nimi.md
 * ~~ijo~~ ilo *(utilaĵo; ilo)*
  * ~~ilo~~ luka *(tuŝilo; mano, brako)*
     * → o ***luka*** ala e seli! *(Ne tuŝu la fajron!)*
+
+### nimi suli palisa monsi
+*("por")*
+
+[nimi suli palisa](#nimi.md#nimi-suli-palisa) lon monsi pi [nimi ijo](nimi.md#nimi-ijo) li sama nimi "por" lon toki Epelanto.
+*(Transitiva verbo malantaŭ radika vorto tradukeblas per "por" en Esperanto.)*
+
+* ilo ***moku*** *(ilo por manĝi, manĝilo)*
+
+[nimi lawa](nimi.md#nimi-lawa) "ijo" lon sinpin pi [nimi suli palisa](nimi.md#nimi-suli-palisa) li ken awen.
+*(La substantivo "ijo" antaŭ transitiva verbo povas resti.)*
+
+* ijo ***moku*** *(io por manĝi; io manĝenda, io manĝata)*
+ * ***moku*** *(manĝo)*
+* ijo ***sitelen*** *(io por desegni; io desegnenda, io desegnata)*
+ * ***sitelen*** *(desegno)*
+
+nimi "pona" en nimi "open" li ken lon sinpin pi [nimi suli palisa](nimi.md#nimi-suli-palisa).
+*("pona" kaj "open" povas esti antaŭ transitiva verbo.)*
+
+* ***pona lukin*** *(bona por vidi; vidinda, bela)*
+* ***open pali*** *(malferma por fari; farebla, facila)*
