@@ -125,7 +125,7 @@
 * **lon** *(ĉe, en, sur, laŭ)*
 * **tawa** *(al, ĝis; por)*
 * **tan** *(de, el; pro)*
-* **sama** *(same kiel)*
+* **sama** *(sama al, same al)*
 * **kepeken** *(per)*
 
 **nimi monsi palisa** li lon sinpin pi [nimi lawa](#nimi-lawa) li ken ala jo e **nimi monsi**. taso ona li ken kama **nimi monsi** pi palisa ala.
@@ -138,9 +138,9 @@
 *(La spacaj prepozicioj estas "lon", "tawa" kaj "tan", sed ili povas esprimi ion ne-spacan. Tiam "lon" fariĝas "kepeken".)*
 
 * ijo ***lon ona*** *(io estanta ĉe ŝi)*
- * → ona li sitelen ***kepeken*** ilo sona. *(Ŝi skribas per komputilo.)*
+ * → ona li sitelen ***kepeken*** ilo sona. *(Ŝi skribas per komputilo. Ŝi skribas uzante komputilon.)*
 * ijo ***tawa ona*** *(io moviĝanta al ŝi)*
- * → ni li pona ***tawa*** ona. *(Tio estas bona por ŝi.)*
+ * → ni li pona ***tawa*** ona. *(Tio estas bona por ŝi. Tio ŝajnas bona al ŝi.)*
 * ijo ***tan ona*** *(io venanta de ŝi)*
  * → ni li pona ***tan*** ona. *(Tio estas bona pro ŝi.)*
 
