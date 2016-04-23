@@ -186,9 +186,9 @@ nimi "mute ala" li ken kama nimi "lili".
 *("mute ala" povas fariĝi "lili".)*
 
 * jan ***mute*** *(multaj personoj)*
+ * jan pi ***mute lili*** *(kelkaj personoj)*
  * jan pi ***mute ala*** *(malmultaj personoj)*
     * → jan ***lili***
- * jan pi ***mute lili*** *(kelkaj personoj)*
 * jan lili *(malgranda persono; infano)*
 
 ## toki apeja
