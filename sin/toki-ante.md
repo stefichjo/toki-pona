@@ -4,11 +4,11 @@
 
 jan tawa pi toki Losupan li tawa jan esun. jan tawa li toki e sitelen tan lipu pi nimi ilo.
 
-***jan tawa:*** **mi wile ala e lipu sike pi kalama musi ni. ona li pakala.**
+***jan tawa:*** **mi wile ala e lipu sike ni pi kalama musi. ona li pakala.**
 
 ***jan esun:*** seme?
 
-***jan tawa:*** **mi wile ala e lipu sike pi kalama musi ni. ona li pakala.**
+***jan tawa:*** **mi wile ala e lipu sike ni pi kalama musi. ona li pakala.**
 
 ***jan esun:*** a, ala. ni li esun pi kasi pi kon seli wawa.
 
