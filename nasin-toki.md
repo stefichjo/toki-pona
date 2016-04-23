@@ -177,11 +177,13 @@ nimi "sike" li ken kama [nimi suli palisa](nimi.md#nimi-ilo-palisa).
 * → mi ***sike e*** suno. *(Mi rondiras la sunon.)*
 
 nimi "ala anu" lon insa pi nimi sama tu li ken kama nimi "ala".
+*("ala anu" inter du samaj vortoj povas fariĝi "ala".)*
 
 * ona li ***mama ala anu mama***? *(Ĉu ŝi estas gepatro?)*
  * → ona li ***mama ala mama?***
 
 nimi "mute ala" li ken kama nimi "lili".
+*("mute ala" povas fariĝi "lili".)*
 
 * jan ***mute*** *(multaj personoj)*
  * jan pi ***mute ala*** *(malmultaj personoj)*
