@@ -47,4 +47,7 @@ jan tawa pi toki Losupan li tawa jan esun. jan tawa li toki e sitelen tan lipu p
 
 ***jan esun:*** ona li utala e mi!
 
-***jan tawa:*** o weka e len noka, jan Wilian o, mi ken ala awen.
+***jan tawa:*** o weka e len noka, jan Wilijan o, mi ken ala awen. tenpo moku li weka pi mute ike. *(ona li pana e lukin pi jan esun.)*
+
+***jan utala pi nasin lawa:*** mi kama sona! *(ona li kama jo e luka pi jan tawa li weka e ona.)*
+
