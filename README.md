@@ -5,4 +5,4 @@
 
 ## musi
 
-* [lipu pi nimi ilo pi toki Losupan](musi/lipu-pi-nimi-ilo-pi-toki-losupan.md) *(La Loĵbana Konversacia Libro - The Dirty Hungarian Phrasebook)*
+* [lipu jaki pi nimi ilo pi toki Losupan](musi/lipu-jaki-pi-nimi-ilo-pi-toki-losupan.md) *(La Fia Loĵbana Konversacia Libro - The Dirty Hungarian Phrasebook)*
