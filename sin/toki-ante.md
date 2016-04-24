@@ -1,7 +1,6 @@
 *(lon: esun pi kasi pi kon seli wawa)*
 
-*(ma pi toki pona li pakala. jan pi toki sin ante li kama lon ona.
-...)*
+*(ma pi toki pona li pakala. jan pi toki sin ante li lon nasin ona. tenpo mute la ona li jo e toki Losupan. ("ona" li nasin ni ala. "ona" li jan ni pi toki sin ante). mu, jan mute pi toki Losupan li kama lon esun pi kasi pi kon seli wawa...)*
 
 jan tawa pi toki Losupan li tawa jan esun. jan tawa li toki e sitelen tan lipu pi nimi ilo.
 
@@ -107,7 +106,7 @@ jan tawa pi toki Losupan li tawa jan esun. jan tawa li toki e sitelen tan lipu p
 
 ***jan lawa pi tomo ni:*** tenpo insa? mi toki e ni: ala.
 
-*(jan pali pi nasin lawa li kama sin lon supa li pana e kon yaki pi kalama suli.)*
+*(jan pali pi nasin lawa li kama sin lon supa li pana e kon jaki pi tenpo suli en kalama suli.)*
 
 ***jan lawa pi tomo ni:*** tan seme la sina toki ala e tan pi wile sina?
 
@@ -116,3 +115,9 @@ jan tawa pi toki Losupan li tawa jan esun. jan tawa li toki e sitelen tan lipu p
 *(wan pi sitelen tawa pi meli pi insa lawa sama)*
 
 ***jan lawa pi tomo ni:*** sitelen tawa pi meli pi kalama la mi weka e ale lon insa pi tomo ni.
+
+___
+
+* esun *(vendejo)*
+* kon seli *(fumo)*
+ * kasi pi kon seli wawa *(tabako)*
