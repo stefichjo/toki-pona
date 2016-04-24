@@ -61,43 +61,58 @@ jan tawa pi toki Losupan li tawa jan esun. jan tawa li toki e sitelen tan lipu p
 
 ***jan lawa pi tomo pi toki pi nasin lawa:*** o pini e ni!
 
-***[pali]:*** sina jan Alesanta Jali anu seme?
+***jan pali pi tomo pi toki pi nasin lawa:*** sina jan Alesanta Jali anu seme?
 
-***[Jali]:*** a, mi ona.
+***jan Alesanta Jali:*** (ona li kepeken kalama musi.) a, mi ona.
 
-***[pali]:*** o pini sama jan musi. sina jan Alesanta Jali anu seme?
+***jan pali pi tomo pi toki pi nasin lawa:*** o pini sama jan musi. sina jan Alesanta Jali anu seme?
 
-***[Jali]:*** mi ona.
+***jan Alesanta Jali:*** mi ona.
 
-***[pali]:*** ni la jan li toki e ni: sina wile akesi utala e nasin lawa li pana e lipu pi nimi ilo pi toki pi pona en Losupan tan tomo lipu sina tan ni: sina wile pakala e pona ma. tawa sina la toki ni li pona anu ike?
+***jan pali pi tomo pi toki pi nasin lawa:*** ni la jan li toki e ni: sina wile akesi utala e nasin lawa li pana e lipu pi nimi ilo pi toki pi pona en Losupan tan tomo lipu sina tan ni: sina wile pakala e pona ma. tawa sina la toki ni li pona anu ike?
 
-***[Jali]:*** ike.
+***jan Alesanta Jali:*** ike.
 
-***[pali]:*** tomo sina li lon nasin Oton Tela anu seme?
+***jan pali pi tomo pi toki pi nasin lawa:*** tomo sina li lon nasin Oton Tela anu seme?
 
-***[Jali]:*** tomo mi lon nasin Oton Tela.
+***jan Alesanta Jali:*** tomo mi lon nasin Oton Tela.
 
-***[pali]:*** sina jan lawa pi tomo lipu anu seme?
+***jan pali pi tomo pi toki pi nasin lawa:*** sina jan lawa pi tomo lipu anu seme?
 
-***[Jali]:*** mi jan lawa pi tomo lipu.
+***jan Alesanta Jali:*** mi jan lawa pi tomo lipu.
 
-***[pali]:*** tomo sina li pana e lipu pi nimi ilo anu seme?
+***jan pali pi tomo pi toki pi nasin lawa:*** tomo sina li pana e lipu pi nimi ilo anu seme?
 
-***[Jali]:*** tomo mi li pana e lipu pi nimi ilo.
+***jan Alesanta Jali:*** tomo mi li pana e lipu pi nimi ilo.
 
-***[pali]:*** sina toki e ni anu seme: tomo sina li lon nasin Oton Tela?
+***jan pali pi tomo pi toki pi nasin lawa:*** sina toki e ni anu seme: tomo sina li lon nasin Oton Tela?
 
-***[Jali]:*** lon.
+***jan Alesanta Jali:*** lon.
 
-***[pali]:*** a! toki kipisi!
+***jan pali pi tomo pi toki pi nasin lawa:*** a! toki kipisi!
 
 *(...)*
 
-***[lawa]:*** o pini ala pali.
+***jan lawa pi tomo pi toki pi nasin lawa:*** o pini ala pali.
 
-***[pali]:*** mi wile, jan lawa o. tenpo mun pi nanpa luka la sina pana e lipu ni pi nimi ilo anu seme?
+***jan pali pi tomo pi toki pi nasin lawa:*** mi wile, jan lawa o. tenpo mun pi nanpa luka la sina pana e lipu ni pi nimi ilo anu seme?
 
-***[Jali]:*** mi pana.
+***jan Alesanta Jali:*** mi pana.
 
-***[pali]:*** mi toki e wan ona. nimi pi toki Losupan sama nimi "tomo pi tomo tawa linja li lon seme?" li jo e nimi pi toki pona "o luka e anpa sinpin mi."
+***jan pali pi tomo pi toki pi nasin lawa:*** mi toki e wan ona. nimi pi toki Losupan sama nimi "tomo pi tomo tawa linja li lon seme?" li jo e nimi pi toki pona "o luka e anpa monsi mi."
 
+***jan Alesanta Jali:*** mi sona ala pali.
+
+***jan pali pi nasin lawa:*** mi ken jo e tenpo insa, jan lawa o?
+
+***jan lawa pi tomo pi toki pi nasin lawa:*** tenpo insa? mi toki e ni: ala.
+
+*(jan pali pi nasin lawa li kama sin lon supa li pana e kon yaki pi kalama suli.)*
+
+***jan lawa pi tomo pi toki pi nasin lawa:*** tan seme la sina toki ala e tan pi wile sina?
+
+***jan pali pi nasin lawa:*** mi sona ala e nimi pona tawa nasin lawa, jan lawa o.
+
+*(wan pi sitelen tawa pi meli pi insa lawa sama)*
+
+***jan lawa pi tomo pi toki pi nasin lawa:*** sitelen tawa pi meli pi kalama la mi weka e ale lon insa pi tomo pi toki pi nasin lawa.
