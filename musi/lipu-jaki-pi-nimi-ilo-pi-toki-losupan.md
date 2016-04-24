@@ -1,4 +1,4 @@
-# lipu pi nimi ilo pi toki Losupan
+# lipu jaki pi nimi ilo pi toki Losupan
 
 *(lon: esun pi kasi pi kon seli wawa)*
 
