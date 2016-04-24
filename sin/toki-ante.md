@@ -25,7 +25,7 @@ jan tawa pi toki Losupan li tawa jan esun. jan tawa li toki e sitelen tan lipu p
 
 ***jan esun:*** a, palisa seli!
 
-***jan tawa:*** a! **sina wile ala anu wile tawa lon tomo mi tawa supa unpa?**
+***jan tawa:*** a! **sina wile ala... anu... wile tawa lon tomo mi tawa supa unpa?**
 
 ***jan esun:*** mi pilin e ni: sina kepeken ni lon nasin ike.
 
@@ -33,7 +33,7 @@ jan tawa pi toki Losupan li tawa jan esun. jan tawa li toki e sitelen tan lipu p
 
 ***jan esun:*** o pana e mani.
 
-***jan tawa:*** **mi ken toki e ni anu seme: sina jo e sijelo pi pona lukin. ike sijelo mi li kama weka.**
+***jan tawa:*** **mi ken toki e ni anu seme: sina jo e sijelo pi pona lukin. mi pini jo e ike sijelo.**
 
 ***jan esun:*** o pana e lipu. *(ona li kama jo e lipu li lukin e wan lipu pona)* o pana e mani. a, ni. "..." *(jan tawa li utala e jan esun)*
 
@@ -51,3 +51,4 @@ jan tawa pi toki Losupan li tawa jan esun. jan tawa li toki e sitelen tan lipu p
 
 ***jan utala pi nasin lawa:*** mi kama sona! *(ona li kama jo e luka pi jan tawa li weka e ona.)*
 
+***jan tawa:*** *(ona li toki e wile ala.)* pini pi nena sinpin mi li kama pakala tan wawa pi pilin pona.
