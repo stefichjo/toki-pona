@@ -1,8 +1,8 @@
 *(lon: esun pi kasi pi kon seli wawa)*
 
-*(ma pi toki pona li pakala. jan pi toki sin ante li lon nasin ona. tenpo mute la ona li jo e toki Losupan. ("ona" li nasin ni ala. "ona" li jan ni pi toki sin ante). mu, jan mute pi toki Losupan li kama lon esun pi kasi pi kon seli wawa...)*
+***sitelen lon sitelen tawa:*** ma pi toki pona li pakala. jan pi toki sin ante li lon nasin ona. tenpo mute la ona li jo e toki Losupan. ("ona" li nasin ni ala. "ona" li jan ni pi toki sin ante). mu, jan mute pi toki Losupan li kama lon esun pi kasi pi kon seli wawa...
 
-jan tawa pi toki Losupan li tawa jan esun. jan tawa li toki e sitelen tan lipu pi nimi ilo.
+*(jan tawa pi toki Losupan li tawa jan esun. jan tawa li toki e sitelen tan lipu pi nimi ilo.)*
 
 ***jan tawa:*** mi wile ala e lipu sike ni pi kalama musi. ona li pakala.
 
@@ -14,7 +14,7 @@ jan tawa pi toki Losupan li tawa jan esun. jan tawa li toki e sitelen tan lipu p
 
 ***jan tawa:*** a! mi wile ala e esun ni pi kasi pi kon seli wawa. ona li pakala.
 
-***jan esun:*** ala, ala. kasi pi kon seli wawa... ni... palisa *(ona li sewi e poki ~~pi palisa pi kasi pi kon seli wawa~~ tawa lukin)*.
+***jan esun:*** ala, ala. kasi pi kon seli wawa... ni... palisa *(ona li sewi e poki tawa lukin)*.
 
 ***jan tawa:*** a! kon se-li wa-wa! a! ni... ilo tawa mi pi ma en telo li jo e kala linja mute lon insa ale.
 
@@ -34,7 +34,7 @@ jan tawa pi toki Losupan li tawa jan esun. jan tawa li toki e sitelen tan lipu p
 
 ***jan tawa:*** mi ken toki e ni anu seme: sina jo e sijelo pi pona lukin. mi pini jo e ike sijelo.
 
-***jan esun:*** o pana e lipu. *(ona li kama jo e lipu li lukin e wan lipu pona)* o pana e mani. a, ni. "..." *(jan tawa li utala e jan esun)*
+***jan esun:*** o pana e lipu. *(ona li kama jo e lipu li lukin jo e wan ona pona)* "o pana e mani." a, ni. "Yandelvayasna grldenwi stravenka" *(jan tawa li utala e jan esun)*
 
 *(tenpo sama la jan pali pi nasin lawa li kepeken luka li kama kute e kalama. ona li tawa wawa lon poka pi tomo mute li kama lon esun pi kasi pi kon seli wawa.)*
 
@@ -56,7 +56,7 @@ jan tawa pi toki Losupan li tawa jan esun. jan tawa li toki e sitelen tan lipu p
 
 ***jan pali pi tomo ni:*** o lon e jan Alesanta Jali.
 
-*(...)*
+*(tenpo mute la nimi "o lon e jan Alesanta Jali" li kama kalama musi.)*
 
 ***jan lawa pi tomo ni:*** o pini e ni!
 
@@ -84,13 +84,13 @@ jan tawa pi toki Losupan li tawa jan esun. jan tawa li toki e sitelen tan lipu p
 
 ***jan Alesanta Jali:*** tomo mi li pana e lipu pi nimi ilo.
 
-***jan pali pi tomo ni:*** sina toki e ni anu seme: tomo sina li lon nasin Oton Tela?
+***jan pali pi tomo ni:*** tomo lon nasin Oton Tela li tomo sina?
 
-***jan Alesanta Jali:*** lon.
+***jan Alesanta Jali:*** ona li pi mi.
 
-***jan pali pi tomo ni:*** a! toki kipisi!
+***jan pali pi tomo ni:*** a! toki ike!
 
-*(...)*
+*(jan toki en jan pali pi nasin lawa li kalama e luka li pana e kon musi.)*
 
 ***jan lawa pi tomo ni:*** o pini ala pali.
 
@@ -104,7 +104,7 @@ jan tawa pi toki Losupan li tawa jan esun. jan tawa li toki e sitelen tan lipu p
 
 ***jan pali pi nasin lawa:*** mi ken jo e tenpo insa, jan lawa o?
 
-***jan lawa pi tomo ni:*** tenpo insa? mi toki e ni: ala.
+***jan lawa pi tomo ni:*** tenpo insa? ala, a.
 
 *(jan pali pi nasin lawa li kama sin lon supa li pana e kon jaki pi tenpo suli en kalama suli.)*
 
@@ -112,12 +112,32 @@ jan tawa pi toki Losupan li tawa jan esun. jan tawa li toki e sitelen tan lipu p
 
 ***jan pali pi nasin lawa:*** mi sona ala e nimi pona tawa nasin lawa, jan lawa o.
 
-*(wan pi sitelen tawa pi meli pi insa lawa sama)*
+*(wan pi sitelen tawa: meli mute li kalama e luka li pana e kon musi.)*
 
-***jan lawa pi tomo ni:*** sitelen tawa pi meli pi kalama la mi weka e ale lon insa pi tomo ni.
+***jan lawa pi tomo ni:*** meli li kalama e luka lon wan sin pi sitelen tawa, la mi weka e ale lon insa pi tomo ni.
 
 ___
 
-* esun *(vendejo)*
+* jan tawa *(turisto)*
+* jan esun *(komizo)*
 * kon seli *(fumo)*
  * kasi pi kon seli wawa *(tabako)*
+    * esun pi kasi pi kon seli wawa *(tabakejo)*
+ * palisa pi kon seli wawa *(cigaredo)*
+* toki sin *(planlingvo)*
+* lipu sike pi kalama musi *(sondisko)*
+* lipu pi nimi ilo *(konversacia libro)*
+* palisa seli *(alumeto)*
+* ilo tawa mi pi ma en telo *(aeroglita boato)*
+* kala linja *(angilo)*
+* nasin lawa *(leĝo)*
+ * jan pali pi nasin lawa *(policisto)*
+* pini pi nena sinpin *(mampinto)*
+* tomo pi toki pi nasin lawa *(juĝejo)*
+ * jan pali pi tomo pi toki pi nasin lawa *(ushero)*
+ * jan lawa pi tomo pi toki pi nasin lawa *(juĝisto)*
+* pona ma *(paco (de la lando))*
+* kalama e luka *(aplaŭdi)*
+* pana e kon musi *(ridi)*
+* tenpo insa *(paŭzo)*
+* pana e kon jaki *(furzi)*
