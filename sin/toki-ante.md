@@ -1,3 +1,5 @@
+# lipu pi nimi ilo pi toki Losupan
+
 *(lon: esun pi kasi pi kon seli wawa)*
 
 ***sitelen lon sitelen tawa:*** ma pi toki pona li pakala. jan pi toki sin ante li lon nasin ona. tenpo mute la ona li jo e toki Losupan. ("ona" li nasin ni ala. "ona" li jan ni pi toki sin ante). mu, tenpo mute la jan pi toki Losupan li kama lon esun pi kasi pi kon seli wawa...
