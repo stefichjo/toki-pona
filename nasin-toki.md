@@ -414,7 +414,7 @@ nimi "pona" en nimi "open" li ken lon sinpin pi [nimi suli palisa](nimi.md#nimi-
 * ***open pali*** *(malferma por fari; farebla, facila)*
 
 ### nimi nanpa
-*(numeraloj)*
+*(Numeraloj)*
 
 nimi nanpa "tu" li sama [nimi lawa](nimi.md#nimi-lawa) tu lon sinpin ona.
 *(La numeralo "tu" signifas paron da la substantivoj antaŭ si.)*
