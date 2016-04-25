@@ -260,7 +260,7 @@ nimi "ni la" lon monsi pi [nimi monsi palisa](nimi.md#nimi-monsi-palisa) li ken 
 
 nimi "ona sama" li ken kama nimi "sama".
 
-* ona li telo e ***ona sama***. *(Li lavas sin.)*
+* ona li telo e ***ona sama***. *(Ŝi lavas sin.)*
  * → ona li telo e ***sama***.
 
 ### toki monsuta
