@@ -416,13 +416,15 @@ nimi "pona" en nimi "open" li ken lon sinpin pi [nimi suli palisa](nimi.md#nimi-
 ### nimi nanpa
 *(numeraloj)*
 
-nimi nanpa "tu" li sama nimi lawa tu lon sinpin ona.
-*(La numeralo "tu" signifas du substantivojn antaŭ si.)*
+nimi nanpa "tu" li sama [nimi lawa](nimi.md#nimi-lawa) tu lon sinpin ona.
+*(La numeralo "tu" signifas paron da la substantivoj antaŭ si.)*
 
-* ***sike*** en ***sike*** → ***sike tu*** *(du radoj, paro da radoj; biciklo)*
+* ***sike wan*** en ***sike wan*** → ***sike wan tu*** → ***sike tu*** *(du radoj, paro da radoj; biciklo)*
 * mi sona e ***toki tu*** e ***toki tu***. → mi sona e ***toki tu tu***. *(Mi konas du parojn da lingvoj. Mi konas kvar lingvojn.)*
 
-... *(...)*
+[nimi ijo](nimi.md#nimi-ijo) li ken kama nimi nanpa.
+*(Radika vorto povas fariĝi numeralo.)*
 
 * tenpo esun li jo e tenpo suno ***esun***. *(La semajno havas sep tagojn.)*
+* tenpo mun pi nanpa tu li jo e tenpo suno ***esun tu tu***. *(Februaro havas 28 tagojn.)*
 
