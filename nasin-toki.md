@@ -227,8 +227,10 @@ nimi "pana e" li ken kama weka.
 
 * mi lukin ***e anpa***. *(Mi rigardas malsupren.)*
  * → mi lukin ***anpa***.
-* mi pana ***e lukin*** pi tomo sona. *(Mi montras la lernejon.)*
- * → mi pana ***lukin*** e tomo sona.
+* mi pana ***e lukin pi*** tomo sona. *(Mi montras la lernejon.)*
+ * → mi pana ***lukin e*** tomo sona.
+* mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon.)*
+ * → mi ante ***toki e*** sitelen tawa.
 
 nimi pi "ni" lon sinpin pi [kulupu suli](nimi.md#nimi-ilo) li ken kama weka.
 *(Vortoj de subfrazo povas malaperi.)*
