@@ -258,6 +258,11 @@ nimi "ni la" lon monsi pi [nimi monsi palisa](nimi.md#nimi-monsi-palisa) li ken 
 * ***sama ni la*** ona li kalama musi. *(Ankaŭ ŝi muzikas.)*
  * → ***sama*** ona li kalama musi.
 
+nimi "ona sama" li ken kama nimi "sama".
+
+* ona li telo e ***ona sama***. *(Li lavas sin.)*
+ * → ona li telo e ***sama***.
+
 ### toki monsuta
 *(Monstra Lingvaĵo)*
 
