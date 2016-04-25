@@ -149,6 +149,12 @@ nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin" li ken kama "ali", "namako"
  * → ona li kalama musi ***a.*** *(Ŝi eĉ/ankaŭ muzikas.)*
     * → ona ***a*** li kalama musi. *(Eĉ/ankaŭ ŝi muzikas.)*
 
+nimi nanpa tu li ken kama wan.
+*(Du numeraloj povas unuiĝi.)*
+
+* mi sona e toki ***tu*** e toki ***tu***. *(Mi konas du lingovjn kaj du lingvojn. Mi konas kvar lingvojn.)*
+ * → mi sona e toki tu tu.
+
 nimi "nanpa" li ken kama wan pi kulupu lon monsi pi nimi "nimi" weka.
 *("nanpa" povas fariĝi parto de nomo.)*
 
@@ -406,3 +412,15 @@ nimi "pona" en nimi "open" li ken lon sinpin pi [nimi suli palisa](nimi.md#nimi-
 
 * ***pona lukin*** *(bona por vidi; vidinda, bela)*
 * ***open pali*** *(malferma por fari; farebla, facila)*
+
+### nimi nanpa
+*(numeraloj)*
+
+... *(...)*
+
+* mi sona e toki ***tu tu***. *(Mi konas du parojn da lingvoj. Mi konas kvar lingvojn.)*
+
+... *(...)*
+
+* tenpo esun li jo e tenpo suno ***esun***. *(La semajno havas sep tagojn.)*
+
