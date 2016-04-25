@@ -417,7 +417,7 @@ nimi "pona" en nimi "open" li ken lon sinpin pi [nimi suli palisa](nimi.md#nimi-
 *(numeraloj)*
 
 nimi nanpa "tu" li sama [nimi lawa](nimi.md#nimi-lawa) tu lon sinpin ona.
-*(La numeralo "tu" signifas du substantivojn antaŭ si.)*
+*(La numeralo "tu" signifas paron da la substantivoj antaŭ si.)*
 
 * ***sike wan*** en ***sike wan*** → ***sike wan tu*** → ***sike tu*** *(du radoj, paro da radoj; biciklo)*
 * mi sona e ***toki tu*** e ***toki tu***. → mi sona e ***toki tu tu***. *(Mi konas du parojn da lingvoj. Mi konas kvar lingvojn.)*
