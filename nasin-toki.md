@@ -200,7 +200,7 @@ nimi "mute ala" li ken kama nimi "lili".
 ## toki apeja
 *(Skisma Lingvaĵo)*
 
-wan lipu "[toki kipisi](#toki-kipisi)" li toki e weka nasa nimi.
+wan lipu "[toki kipisi](#toki-kipisi)" li toki e weka nimi nasa.
 *(La sekcio "Kripla Lingvaĵo" traktas strangajn mankojn de vortoj.)*
 
 * mi ***pana e*** telo tawa kasi. *(Mi akvumas la planton.)*
