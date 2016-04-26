@@ -200,7 +200,7 @@ nimi "mute ala" li ken kama nimi "lili".
 ## toki apeja
 *(Skisma Lingvaĵo)*
 
-wan lipu "[toki kipisi](#toki-kipisi)" li toki e weka nasa nimi.
+wan lipu "[toki kipisi](#toki-kipisi)" li toki e weka nimi nasa.
 *(La sekcio "Kripla Lingvaĵo" traktas strangajn mankojn de vortoj.)*
 
 * mi ***pana e*** telo tawa kasi. *(Mi akvumas la planton.)*
@@ -363,6 +363,16 @@ nimi "taso" li [nimi monsi palisa](nimi.md#nimi-monsi-palisa). nimi "sin" li sam
  * → ijo ***sin ona*** *(io aldona al ŝi, io kun ŝi)*
 * ijo ***taso*** *(io izolita)*
  * → ijo ***taso ona*** *(io izolita de ŝi, io sen ŝi)*
+
+kepeken [nimi ilo](nimi.md#nimi-ilo) "sin" en [nimi ilo](nimi.md#nimi-ilo) "ante" la jan ken toki e ante ijo. *(Pere de "sin" kaj "ante" oni povas kompari aferojn.)*
+
+* toki pona li toki pona. *(Tokipono estas bona lingvo.)*
+* toki pona li toki pi pona ***sin***. *(Tokipono estas pli bona lingvo.)*
+* toki pona li toki pi pona ***sin ante*** toki Losupan. *(Tokipono estas pli bona lingvo ol Loĵbano.)*
+* toki pona li toki pi pona ***sin ante*** toki ale. *(Tokipono estas pli bona lingvo ol ĉiu lingvo. Tokipono estas la plej bona lingvo.)*
+* toki pona li toki pi pona ***sin ante*** toki ale pi ijo ni: mi kama sona e ona. *(Tokipono estas pli bona lingvo ol ĉiu lingvo, kiun mi (iam) lernis. Tokipono estas la plej bona lingvo, kiun mi (iam) lernis.)*
+* toki pona li pona pi ***sin*** ala ***ante*** toki Epelanto. *(Tokipona ne estas pli bona ol Esperanto.)*
+ * toki pona li pona ***taso ante*** toki Epelanto. *(Tokipono estas malpli bona ol Esperanto.)*
 
 ### kulupu suli monsi
 *(Subfrazoj kaj Relativoj Frazoj)*
