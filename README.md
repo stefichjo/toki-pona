@@ -7,4 +7,4 @@
 
 * [lipu jaki pi nimi ilo pi toki Losupan](musi/lipu-jaki-pi-nimi-ilo-pi-toki-losupan.md) *(La Fia Loĵbana Konversacia Libro - The Dirty Hungarian Phrasebook)*
 
-![o pilin pona o pu](musi/sitelen/o-pilin-pona-o-pu.jpg)
+![o pilin pona o pu](musi/sitelen/o-pilin-pona-o-pu.jpg | width=10)
