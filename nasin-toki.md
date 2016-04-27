@@ -88,7 +88,7 @@ nimi "jo e pilin" li kama nimi "pilin".
     * → mi ***pilin*** pi pona mute. *(Mi fartas tre bone.)*
 
 [nimi lawa](nimi.md#nimi-lawa) "ijo" lon sinpin pi nimi "ale" anu nimi "ala" anu nimi "ni" anu nimi "seme" li li kama ala weka lon ni taso: ona li kama nimi lawa pi kulupu pi [nimi monsi](nimi.md#nimi-monsi).
-*(La substantivo "ijo" antaŭ "ale", "ala", "ni" aŭ "seme" malaperas, krom se ĝi fariĝas la ĉefa vorto de modifa frazero.)*
+*(La substantivo "ijo" antaŭ la korelativoj "ale", "ala", "ni" aŭ "seme" malaperas, krom se ĝi fariĝas la ĉefa vorto de modifa frazero.)*
 
 * ale *(ĉiu)*
  * ***~~ijo~~*** ale *(ĉiu aĵo, ĉio)*
@@ -299,11 +299,13 @@ kulupu pi [nimi monsi](nimi.md#nimi-monsi) en kulupu pi [nimi ilo](nimi.md#nimi-
  * → ona li tawa ***ala*** - ma tomo Lantan.
  * → ona li tawa ma tomo Lantan - ***ala***.
 
-nimi lon monsi pi nimi "li" anu nimi "e" li ken kama lon sinpin pi nimi "la". nasin ni la ona li kama wawa.
-*(La subjekto aŭ objekto povas metiĝi antaŭ "la" por emfazi ĝin.)*
+nimi "jan li toki e ijo pi" li ken kama weka lon monsi pi nimi "la". tenpo ni la sitelen kulupu li kama weka.
+*("jan li toki e ijo pi" povas malaperi antaŭ "la". Tiam la komo malaperas.)*
 
-* jan pona sina ***la ona*** li pona tawa mi. *(Via amiko, mi ŝatas ŝin.)*
-* jan pona sina ***la*** mi pona tawa ona. *(Via amiko, ŝi ŝatas min.)*
+* ***jan li toki e ijo pi jan pona sina, la*** ona li pona tawa mi. *(Parolante pri via amiko, mi ŝatas ŝin.)*
+ * → ***jan pona sina la*** ona li pona tawa mi. *(Via amiko, mi ŝatas ŝin.)*
+* ***jan li toki e ijo pi jan pona sina, la*** mi pona tawa ona. *(Parolante pri via amiko, ŝi ŝatas min.)*
+ * → ***jan pona sina la*** mi pona tawa ona. *(Via amiko, ŝi ŝatas min.)*
 
 [nimi suli](nimi.md#nimi-ilo) pi [kulupu suli](nimi.md#nimi-ilo) lon monsi pi nimi "ni" li ken kama [nimi lawa](nimi.md#nimi-lawa).
 *(La verbo de subfrazo povas fariĝi substantivo.)*
@@ -425,6 +427,11 @@ nimi "pona" en nimi "open" li ken lon sinpin pi [nimi suli palisa](nimi.md#nimi-
 
 ### nimi nanpa
 *(Numeraloj)*
+
+nimi nanpa li nimi sama nimi "ale" en nimi "ala" en nimi "ni" en nimi "seme".
+*(Numeralo estas kiel unu el la korelativo "ale", "ala" "ni" kaj "seme".)*
+
+* sike tu pi ijo tu *(par-biciklo; tandemo)*
 
 nimi nanpa "tu" li sama [nimi lawa](nimi.md#nimi-lawa) tu lon sinpin ona.
 *(La numeralo "tu" signifas paron da la substantivoj antaŭ si.)*
