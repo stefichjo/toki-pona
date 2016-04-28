@@ -366,7 +366,7 @@ nimi "taso" li [nimi monsi palisa](nimi.md#nimi-monsi-palisa). nimi "sin" li sam
 * ijo ***taso*** *(io izolita)*
  * → ijo ***taso ona*** *(io izolita de ŝi, io sen ŝi)*
 
-kepeken [nimi ilo](nimi.md#nimi-ilo) "sin" en [nimi ilo](nimi.md#nimi-ilo) "ante" la jan ken toki e ante ijo. *(Pere de "sin" kaj "ante" oni povas kompari aferojn.)*
+kepeken nimi "sin" en [nimi monsi palisa](nimi.md#nimi-monsi-palisa) "ante" la jan ken toki e ante ijo. *(Pere de "sin" kaj "ante" oni povas kompari aferojn.)*
 
 * toki pona li toki pona. *(Tokipono estas bona lingvo.)*
 * toki pona li toki pi pona ***sin***. *(Tokipono estas pli bona lingvo.)*
@@ -404,7 +404,7 @@ nimi "mi" en nimi "sina" en nimi "ona" en nimi "ijo" taso li [nimi lawa](nimi.md
     * → o ***luka*** ala e seli! *(Ne tuŝu la fajron!)*
 
 ### nimi suli palisa monsi
-*("por")*
+*(Pasivo)*
 
 [nimi suli palisa](#nimi.md#nimi-suli-palisa) lon monsi pi [nimi ijo](nimi.md#nimi-ijo) li sama nimi "por" lon toki Epelanto.
 *(Transitiva verbo malantaŭ radika vorto tradukeblas per "por" en Esperanto.)*
