@@ -197,6 +197,12 @@ nimi "mute ala" li ken kama nimi "lili".
     * → jan ***lili***
 * jan lili *(malgranda persono; infano)*
 
+nimi "o, o" li ken kama nimi "o".
+*("o, o" povas fariĝi "o".)*
+
+* jan Ali ***o, o*** wawa. *(Ho Ali, estu forta.)*
+ * → jan Ali ***o*** wawa.
+
 ## toki apeja
 *(Skisma Lingvaĵo)*
 
