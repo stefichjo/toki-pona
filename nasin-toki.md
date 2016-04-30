@@ -395,10 +395,31 @@ nimi "jan li toki e ijo pi" li ken kama weka lon monsi pi nimi "la". tenpo ni la
 ## toki musi
 *(Luda Lingvaĵo)*
 
+### nimi suli sinpin
+*(Helpaj Verboj)*
+
+nimi "pini" li ken kama [nimi suli sinpin](nimi.md#nimi-suli-sinpin).
+*("pini" povas fariĝi helpa verbo.)*
+
+* mi pini jo e lipu. *(Mi ĉesis havi la libron. Mi perdis la libron.)*
+
 ### nimi monsi palisa
 *(Prepozicioj)*
 
-nimi "ante" li sama nimi "sama ala". nimi "weka" li sama nimi "lon ala". tan ni la nimi "ante" en nimi "weka" li ken sama kama [nimi monsi palisa](nimi.md#nimi-monsi-palisa).
+nimi "pini lon" li ken kama [nimi monsi palisa](nimi.md#nimi-monsi-palisa) "tan".
+*("pini lon" povas fariĝi la prepozicio "tan".)*
+
+* mi ***pini lon*** ma tomo. *(Mi ĉesis esti en la urbo.)*
+ * → mi ***tan*** ma tomo. *(Mi venis de la urbo.)*
+
+nimi "awen lon" li ken kama [nimi monsi palisa](nimi.md#nimi-monsi-palisa) "kepeken".
+*("awen lon" povas fariĝi la prepozicio "kepeken".)*
+
+* mi tawa ma tomo li ***awen lon*** tomo tawa. *(Mi iras al la urbo kaj restas en aŭto.)*
+ * → mi tawa ma tomo li ***kepeken*** tomo tawa. *(Mi iras al urbo kaj uzas aŭton.)*
+    * mi tawa ma tomo ***kepeken*** tomo tawa. *(Mi iras al urbo per aŭto.)*
+
+nimi "ante" li sama nimi "sama ala". nimi "weka" li sama nimi "lon ala". tan ni la nimi "ante" en nimi "weka" li ken sama kama [nimi monsi 	palisa](nimi.md#nimi-monsi-palisa).
 *("ante" kaj "sama", kaj "weka" kaj "lon" estas antonimoj. Tial ankaŭ "ante" kaj "weka" povas fariĝi prepozicioj.)*
 
 * ijo ***ante*** *(io alia)*
