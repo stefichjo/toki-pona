@@ -106,14 +106,14 @@ nimi "nimi" li kama weka lon sinpin pi nimi tan jan ante anu nimi pi ijo ante.
 [kulupu suli](nimi.md#nimi-ilo) tu li ken kama wan lon ni: [nimi lawa](nimi.md#nimi-lawa) lon sinpin pi [nimi ilo](nimi.md#nimi-ilo) "li" li sama.
 *(Du frazoj povas fariĝi unu, se iliaj subjektoj estas la sama.)*
 
-* ***mi*** pini. ***mi*** moku. *(Mi ĉesas kaj mi manĝas.)*
- * → ***mi*** pini li moku. *(Mi ĉesas kaj manĝas.)*
+* ***mi*** kama e ijo. ***mi*** moku. *(Mi komencas ion. Mi manĝas.)*
+ * → ***mi*** kama e ijo li moku. *(Mi komencas ion kaj manĝas.)*
 
 [kulupu suli](nimi.md#nimi-ilo) pi nanpa tu li lon monsi pi [nimi ilo](nimi.md#nimi-ilo) "e" pi [kulupu suli](nimi.md#nimi-ilo) pi nanpa wan, la [nimi suli](nimi.md#nimi-ilo) pi nanpa wan li ken kama [nimi suli sinpin](nimi.md#nimi-suli-sinpin) pi [nimi suli](nimi.md#nimi-ilo) pi nanpa tu.
 (*Se la dua frazo estas la rekta objekto de la unua frazo, la verbo de la unua frazo povas fariĝi la helpa verbo de la dua verbo.)*
 
-* ***mi*** pini ***e ni: mi*** moku. *(Mi ĉesigas, ke mi manĝas.)*
- * → ***mi*** pini moku. *(Mi ĉesas manĝi.)*
+* ***mi*** kama ***e ni: mi*** moku. *(Mi komencas, ke mi manĝas.)*
+ * → ***mi*** kama moku. *(Mi komencas manĝi.)*
 
 [nimi suli sinpin](nimi.md#nimi-suli-sinpin) "sona ken" li kama nimi "sona". [nimi suli sinpin](nimi.md#nimi-suli-sinpin) "wile lukin" li kama nimi "lukin".
 
@@ -401,7 +401,7 @@ nimi "jan li toki e ijo pi" li ken kama weka lon monsi pi nimi "la". tenpo ni la
 nimi "pini" li ken kama [nimi suli sinpin](nimi.md#nimi-suli-sinpin).
 *("pini" povas fariĝi helpa verbo.)*
 
-* mi pini jo e lipu. *(Mi ĉesis havi la libron. Mi perdis la libron.)*
+* mi ***pini jo*** e lipu. *(Mi ĉesis havi la libron. Mi perdis la libron.)*
 
 ### nimi monsi palisa
 *(Prepozicioj)*
