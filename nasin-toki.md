@@ -363,6 +363,13 @@ nimi "jan li toki e ijo pi" li ken kama weka lon monsi pi nimi "la". tenpo ni la
 * ***ni, mi*** kama sona e jan pona sina***,*** li pona tawa mi. *(Mi ŝatas konatiĝi kun via amiko.)*
  * → kama sona e jan pona sina li pona tawa mi.
 
+[nimi monsi palisa](nimi.md#nimi-monsi-palisa) "tan" li kama [nimi lawa](nimi.md#nimi-lawa), la ona li ken kama sama nimi pi ijo ni: ijo li tan ona.
+*(Kiam la prepozicio "tan" fariĝas la substantivo "deveno", ĝi povas komenci signifi tion, de kio io devenas, t.e. la originon.)*
+
+* ***tan*** *(de; venanta de)*
+ * ***tan*** *(deveno)*
+    * → ***tan*** *(origino)*
+
 ### toki mu
 *(Bleka Lingvaĵo)*
 
