@@ -129,12 +129,6 @@ nimi "nimi" li kama weka lon sinpin pi nimi tan jan ante anu nimi pi ijo ante.
  * → telo li wawa ***e*** mi. *(Akvo fortigas min.)*
 * telo li kama wawa e mi. *(Akvo komencas fortigi min.)*
 
-[nimi suli sinpin](nimi.md#nimi-suli-sinpin) li ken kama [nimi lawa](nimi.md#nimi-lawa). tenpo ni la [nimi suli](nimi.md#nimi-ilo) lon monsi pi [nimi suli sinpin](nimi.md#nimi-suli-sinpin) li kama [nimi monsi](#nimi.md#nimi-monsi) pi [nimi lawa](nimi.md#nimi-lawa).
-*(Helpa verbo povas fariĝi substantivo. Tiam la verbo malantaŭ la helpa verbo fariĝas adjektivo.)*
-
-* ona li ***wile*** ala ***kama sona*** e toki pona. *(Ŝi ne volas lerni Tokiponon.)*
- * → ona li jan pi ***wile kama sona*** ala. *(Ŝi ne estas scivolemulo.)*
-
 [nimi suli sinpin](nimi.md#nimi-suli-sinpin) "awen" li ken kama weka.
 *(La helpa verbo "awen" povas malaperi.)*
 
@@ -320,7 +314,7 @@ nimi "ona sama" li ken kama nimi "sama".
  * → ona li telo e ***sama***.
 
 ### toki monsuta
-*(Monstra Lingvaĵo)*
+*(Danĝera Lingvaĵo)*
 
 [nimi monsi](nimi.md#nimi-monsi) li ken lon monsi pi kulupu pi [nimi monsi](nimi.md#nimi-monsi) anu kulupu pi [nimi monsi palisa](nimi.md#nimi-monsi-palisa).
 *(Modifilo povas esti malantaŭ modifa frazero aŭ prepozicia frazero.)*
@@ -355,13 +349,15 @@ nimi "jan li toki e ijo pi" li ken kama weka lon monsi pi nimi "la". tenpo ni la
 * ***jan li toki e ijo pi jan pona sina, la*** mi pona tawa ona. *(Parolante pri via amiko, ŝi ŝatas min.)*
  * → ***jan pona sina la*** mi pona tawa ona. *(Via amiko, ŝi ŝatas min.)*
 
-[nimi suli](nimi.md#nimi-ilo) pi [kulupu suli](nimi.md#nimi-ilo) lon monsi pi nimi "ni" li ken kama [nimi lawa](nimi.md#nimi-lawa).
-*(La verbo de subfrazo povas fariĝi substantivo.)*
+[nimi suli sinpin](nimi.md#nimi-suli-sinpin) li ken kama nimi monsi sinpin.
+*(Helpa verbo povas fariĝi helpa modifilo.)*
 
-* mi olin ***e ni: mi*** kama sona e jan pona sina. *(Mi amas konatiĝi kun via amiko.)*
- * → mi olin e kama sona e jan pona sina.
-* ***ni, mi*** kama sona e jan pona sina***,*** li pona tawa mi. *(Mi ŝatas konatiĝi kun via amiko.)*
- * → kama sona e jan pona sina li pona tawa mi.
+* sona kama *(komenciĝanta sciado; eksciado)*
+ * jan pi sona kama *(eksciulo; lernanto)*
+ * sona kama li pona. *(Eksciado estas bona. Lernado estas bona.)*
+* ona li ***kama*** sona. *(Ŝi ekscias. Ŝi lernas.)*
+ * → jan pi ***kama*** sona. *(ekscianto; lernanto)*
+ * → ***kama*** sona li pona. *(Ekscii estas bone. Lerni estas bone.)*
 
 [nimi monsi palisa](nimi.md#nimi-monsi-palisa) "tan" li kama [nimi lawa](nimi.md#nimi-lawa), la ona li ken kama sama nimi pi ijo ni: ijo li tan ona.
 *(Kiam la prepozicio "tan" fariĝas la substantivo "deveno", ĝi povas komenci signifi tion, de kio io devenas, t.e. la originon.)*
