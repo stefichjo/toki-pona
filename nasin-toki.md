@@ -78,7 +78,7 @@ nimi "jo e pilin" li kama nimi "pilin".
  * mi ***jo e pilin*** pi pona mute. *(Mi havas tre bonan senton.)*
     * → mi ***pilin*** pi pona mute. *(Mi fartas tre bone.)*
 
-kulupu pi [nimi ilo](nimi-ilo) "la" la [nimi monsi](nimi.md#nimi-monsi) palisa "lon" (en nimi "ni") li kama weka. "
+nimi lon sinpin pi [nimi ilo](nimi-ilo) "la" la [nimi monsi](nimi.md#nimi-monsi) palisa "lon" (en nimi "ni") li kama weka. "
 *(En helpa frazero, la prepozicio "lon" (kaj "ni") malaperas.)*
 
 * ***~~lon~~*** kulupu la mi wawa. *(En grupo ni estas fortaj.)*
@@ -89,16 +89,16 @@ kulupu pi [nimi ilo](nimi-ilo) "la" la [nimi monsi](nimi.md#nimi-monsi) palisa "
 ### nimi lawa weka
 *(Implicaj Substantivoj)*
 
-kulupu pi [nimi ilo](nimi.md#nimi-ilo) "e" li [nimi lawa](nimi.md#nimi-lawa) "ijo", la ona li kama weka.
-*(Se la rekta objekto estas la substantivo "ijo", ĝi malaperas.)*
+nimi lon monsi pi [nimi ilo](nimi.md#nimi-ilo) "e" li [nimi lawa](nimi.md#nimi-lawa) "ijo", la ona li ken kama weka.
+*(Se la rekta objekto estas la substantivo "ijo", ĝi povas malaperi.)*
 
 * mije li ***sona e ijo***. *(La viro scias aferojn.)*
  * → mije li ***sona***. *(La viro scias.)*
 * ***~~ijo~~*** toki *(parolaĵo; lingvo)*
  * → toki *(lingvo)*
 
-[nimi lawa](nimi.md#nimi-lawa) "ijo" lon sinpin pi nimi "ale" anu nimi "ala" anu nimi "ni" anu nimi "seme" li li kama ala weka lon ni taso: ona li kama nimi lawa pi kulupu pi [nimi monsi](nimi.md#nimi-monsi).
-*(La substantivo "ijo" antaŭ la korelativoj "ale", "ala", "ni" aŭ "seme" malaperas, krom se ĝi fariĝas la ĉefa vorto de modifa frazero.)*
+[nimi lawa](nimi.md#nimi-lawa) "ijo" lon sinpin pi nimi "ale" anu nimi "ala" anu nimi "ni" anu nimi "seme" li li kama ala weka lon ni taso: ona li kama [nimi lawa](nimi.md#nimi-lawa) lon monsi pi [nimi ilo](nimi.md#nimi-ilo) "pi".
+*(La substantivo "ijo" antaŭ la korelativoj "ale", "ala", "ni" aŭ "seme" malaperas, krom se ĝi fariĝas modifilo.)*
 
 * ale *(ĉiu)*
  * ***~~ijo~~*** ale *(ĉiu aĵo, ĉio)*
@@ -209,7 +209,7 @@ nimi nanpa tu li ken kama wan.
 * mi sona e toki ***tu*** e toki ***tu***. *(Mi konas du lingovjn kaj du lingvojn. Mi konas kvar lingvojn.)*
  * → mi sona e toki tu tu.
 
-nimi "nanpa" li ken kama wan pi kulupu lon monsi pi nimi "nimi" weka.
+nimi "nanpa" li ken kama wan nimi.
 *("nanpa" povas fariĝi parto de nomo.)*
 
 * toki ***pi nanpa wan*** *(la unua lingvo)*
@@ -266,8 +266,8 @@ wan lipu "[toki kipisi](#toki-kipisi)" li toki e weka nimi nasa.
 * mi ***pana e*** telo tawa kasi. *(Mi akvumas la planton.)*
  * → mi ***telo e*** kasi.
 
-wan lipu "[toki monsuta](#toki-monsuta)" li toki e kulupu nimi nasa.
-*(La sekcio "Monstra Lingvaĵo" traktas strangajn frazerojon.)*
+wan lipu "[toki monsuta](#toki-monsuta)" li toki e lon nimi nasa.
+*(La sekcio "Monstra Lingvaĵo" traktas strangajn poziciojn de vortoj.)*
 
 * telo ***pi*** nasa ***mute*** *(tre stranga likvo; vodko)*
  * → telo nasa ***mute***
@@ -334,21 +334,12 @@ nimi "ona sama" li ken kama nimi "sama".
 ### toki monsuta
 *(Danĝera Lingvaĵo)*
 
-[nimi monsi](nimi.md#nimi-monsi) li ken lon monsi pi kulupu pi [nimi monsi](nimi.md#nimi-monsi) anu kulupu pi [nimi monsi palisa](nimi.md#nimi-monsi-palisa).
-*(Modifilo povas esti malantaŭ modifa frazero aŭ prepozicia frazero.)*
-
-* tomo ***pona*** pi telo nasa *(bona trinkejo)*
- * → tomo pi telo nasa - ***pona***
-* jan ***pona*** lon tomo sona *(amiko en lernejo)*
- * → jan lon tomo sona - ***pona***
-
-kulupu pi [nimi monsi](nimi.md#nimi-monsi) en kulupu pi [nimi ilo](nimi.md#nimi-ilo) "e" li ken monsi pi kulupu pi [nimi monsi palisa](nimi.md#nimi-monsi-palisa).
-*(Modifaj frazeroj kaj rektaj objektoj povas esti malantaŭ prepozicia frazero.)*
+[nimi monsi palisa](nimi.md#nimi-monsi-palisa) li ken lon monsi pi [nimi ilo](nimi.md#nimi-ilo).
 
 * tomo ***pi telo nasa*** lon ma tomo Lantan *(trinkejo en Londono)*
- * → tomo lon ma tomo Lantan - ***pi telo nasa***
+ * → tomo - lon ma tomo Lantan - ***pi telo nasa***
 * mi lukin ***e sitelen*** lon tenpo lili. *(Mi legas rapide.)*
- * → mi lukin lon tenpo lili - ***e sitelen***.
+ * → mi lukin - lon tenpo lili - ***e sitelen***.
 
 [nimi monsi](nimi.md#nimi-monsi) en [nimi monsi palisa](nimi.md#nimi-monsi-palisa) li ken jo e [nimi monsi](nimi.md#nimi-monsi).
 *(Modifiloj kaj prepozicioj povas havi modifilon.)*
