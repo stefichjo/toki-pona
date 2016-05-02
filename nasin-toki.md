@@ -38,6 +38,24 @@ nimi lon sinpin pi [nimi ilo](nimi.md#nimi-ilo) "li" li nimi "mi" taso anu nimi 
 * sina ***~~li~~*** sin. *(Vi estas nova.)*
  * → sina sin.
 
+[kulupu suli](nimi.md#nimi-ilo) tu pi nimi sama lon sinpin pi nimi "li" ken kama wan.
+*(Du frazoj kun sama subjekto povas unuiĝi.)*
+
+* ***ma mama li*** lili en ***ma mama li*** lete. *(La patrujo estas malgranda kaj la patrujo estas malvarma.)*
+ * → ***ma mama li*** lili ***li*** lete. *(La patrujo estas malgranda kaj malvarma.)*
+
+nimi tu ni lon sinpin pi nimi "li" li "mi" anu "sina", la [kulupu suli](nimi.md#nimi-ilo) tu li ken ala kama wan.
+*(Se tiuj subjektoj estas "mi" aŭ "sina", la frazoj ne povas unuiĝi.)*
+
+* mi lukin e kon mi. mi kama sona e toki mute. mi musi. mi pali e nasin toki lili. *(Mi ekzamenis mian animon, studis lingvistikon, ludis kaj verkis malgrandan komunikan sistemon.)*
+
+nimi suli tu pi nimi sama lon monsi pi nimi "e" li ken kama wan.
+*(Du verboj kun sama rekta objekto povas unuiĝi.)*
+
+* ona li ***seli*** e soweli en ona li ***seli*** e pan. *(Ŝi kuiras la viandon kaj ŝi kuiras la rizon.)*
+ * → ona li ***seli*** e soweli li ***seli*** e pan. *(Ŝi kuiras la viandon kaj kuirias la rizon.)*
+    * → ona li ***seli*** e soweli e pan. *(Ŝi kuiras la viandon kaj la rizon.)*
+
 sinpin pi [nimi ilo](nimi.md#nimi-ilo) "o" la nimi "sina" li ken kama weka. monsi pi [nimi ilo](nimi.md#nimi-ilo) "o" la nimi "kute" taso li ken kama weka.
 *("sina" povas malaperi antaŭ la partikulo "o". "kute" povas malaperi malantaŭ la partikulo "o".)*
 
