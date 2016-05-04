@@ -1,4 +1,4 @@
-# nimi pi toki pona
+# ale nimi pi toki pona
 *(Vortaro de Tokipono - Dictionary of Toki Pona)*
 
 ## nimi ijo
