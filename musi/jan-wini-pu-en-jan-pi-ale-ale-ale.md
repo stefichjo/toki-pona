@@ -56,7 +56,7 @@ tenpo ni la jan ante ale li toki e ni: "seme pi mi mute li lon?" tan ni la ken l
 
 wan lipu pi nanpa wan la mi kama sona e jan Wini Pu e pipi kon en toki li kama lon.
 
-ni la jan Etuwa Pe li tawa anpa kepeken mute pi nena nasin. monsi pi lawa ona li kalama "pun", "pun", "pun" lon monsi pi jan Kitopa Jopin. tawa ona la nasin ni taso la jan li ken tawa anpa kepeken mute pi nena nasin. taso tenpo pi mute ala la ona li pilin e ni: nasin ante li lon. taso ona li wile pini kalama "pun" li toki insa.
+ni la jan Etuwa Pe li tawa anpa kepeken mute pi nena nasin. monsi pi lawa ona li kalama "PUN", "PUN", "PUN" lon monsi pi jan Kitopa Jopin. tawa ona la nasin ni taso la jan li ken tawa anpa kepeken mute pi nena nasin. taso tenpo pi mute ala la ona li pilin e ni: nasin ante li lon. taso ona li wile pini kalama "PUN" li toki insa.
 
 tenpo ante la ona li pilin e ni: nasin ante li lon ala. taso tenpo ni la ona li kama lon anpa en jan li ken pana e sona pi nimi ona: Wini Pu.
 
@@ -106,11 +106,11 @@ tenpo wan, tenpo pini pi weka mute, tenpo esun pini la jan Wini Pu li lon ma pi 
 "sama ni la mi pali sin" li nimi mi.)
 
 
-tenpo suno wan la ona li lon ala lon tomo li tawa, la ona li kama lon open lon insa pi ma pi kasi suli. insa pi open ni la kasi suli li lon. tan lawa kasi la kalama "sss" wawa li lon.
+tenpo suno wan la ona li lon ala lon tomo li tawa, la ona li kama lon open lon insa pi ma pi kasi suli. insa pi open ni la kasi suli li lon. tan lawa kasi la kalama "SSS" wawa li lon.
 
 jan Wini Pu li kama anpa lon noka kasi li lon insa luka e lawa ona li kama toki insa.
 
-tenpo pi nanpa wan la ona li toki insa e ni: "kalama 'sss' ni li sama nimi ijo. kalama 'sss' sama ni li kalama 'sss' li kalama 'sss' tan ijo li sama nimi ijo. kalama 'sss' li lon, la jan li pana e kalama 'sss'. tawa mi la tan ni taso la jan li pana e kalama 'sss': jan li pipi kon pi ko suwi."
+tenpo pi nanpa wan la ona li toki insa e ni: "kalama 'SSS' ni li sama nimi ijo. kalama 'SSS' sama ni li kalama 'SSS' li kalama 'SSS' tan ijo li sama nimi ijo. kalama 'SSS' li lon, la jan li pana e kalama 'SSS'. tawa mi la tan ni taso la jan li pana e kalama 'SSS': jan li pipi kon pi ko suwi."
 
 tenpo suli la ona li toki insa. ona li toki e ni: "tawa mi la, tan ni taso la jan li pipi kon pi ko suwi: jan o pali e ko suwi."
 
@@ -118,7 +118,7 @@ ona li kama noka li toki e ni: "tan ni taso la jan li pali e ko suwi: mi o ken m
 
 nasa musi li ni, a:
 ko suwi li pona tawa soweli pi luka wawa
-sss! sss! sss!
+SSS! SSS! SSS!
 mi wile sona e ni: tan seme la ona li sama ni?
 
 
@@ -126,10 +126,10 @@ ona li tawa sin tawa sewi li tawa sin li tawa pi sin lili. tenpo sama ni la ona 
 
 sitelen insa ni li musi e jan: soweli pi luka wawa li pipi kon pi ko suwi, la
 ona li pali e tomo ona lon noka pi kasi suli.
-kepeken ni la - -
+kepeken ni la - pipi kon pi ko suwi li soweli pi luka wawa, la -
 mi mute li wile ala kepeken mute ni pi nena nasin tawa sewi.
 
 tenpo ni la ona li kama wile supa. tan ni la ona li toki e kalama pi pilin ike. tenpo sama kama la ona li kama lon ni. ona li noka lon palisa kasi ni, la ...
 
-ka!
+KA!
 
