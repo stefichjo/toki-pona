@@ -1,5 +1,5 @@
-# ale nimi pi toki pona
-*(Vortaro de Tokipono - Dictionary of Toki Pona)*
+# ale pi nimi mute pi toki pona
+*(Plena Vortaro de Tokipono - Dictionary of Toki Pona)*
 
 ## nimi ijo
 *(Radikaj Vortoj - Content Words)*
