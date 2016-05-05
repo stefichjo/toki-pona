@@ -18,11 +18,11 @@
 
 ***jan esun:*** ala, ala. kasi pi kon seli wawa... ni... palisa *(ona li sewi e poki tawa lukin)*.
 
-***jan tawa:*** a! pa-li-sa! a! ni... ilo tawa mi pi ma en telo li jo e kala linja mute lon insa ale.
+***jan tawa:*** a! pa-li-sa! a! ni... ilo tawa mi pi ma en telo li jo e kala linja mute lon ale insa.
 
 ***jan esun:*** seme?
 
-***jan tawa:*** ilo tawa mi pi ma en telo *(ona li sama jan kepeken palisa pi kon seli wawa)* li jo e kala linja mute lon insa ale. *(ona li sama jan kepeken palisa seli.)*
+***jan tawa:*** ilo tawa mi pi ma en telo *(ona li sama jan kepeken palisa pi kon seli wawa)* li jo e kala linja mute lon ale insa. *(ona li sama jan kepeken palisa seli.)*
 
 ***jan esun:*** a, palisa seli!
 
