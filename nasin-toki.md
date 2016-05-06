@@ -43,7 +43,7 @@ nimi lon sinpin pi [nimi ilo](nimi.md#nimi-ilo) "li" li nimi "mi" taso anu nimi 
 
 * ***ma mama li*** lili en ***ma mama li*** lete. *(La patrujo estas malgranda kaj la patrujo estas malvarma.)*
  * → ***ma mama li*** lili ***li*** lete. *(La patrujo estas malgranda kaj malvarma.)*
-* mi lukin e kon mi. mi kama sona e toki mute. mi musi. mi pali e nasin toki lili. *(Mi ekzamenis mian animon, studis lingvistikon, ludis kaj verkis malgrandan komunikan sistemon.)*
+* ***mi*** lukin e kon mi. ***mi*** kama sona e toki mute. ***mi*** musi. ***mi*** pali e nasin toki lili. *(Mi ekzamenis mian animon, studis lingvistikon, ludis kaj verkis malgrandan komunikan sistemon.)*
 
 nimi suli tu pi nimi sama lon monsi pi nimi "e" li ken kama wan.
 *(Du verboj kun sama rekta objekto povas unuiĝi.)*
@@ -403,6 +403,9 @@ nimi "jan li toki e ijo pi" li ken kama weka lon monsi pi nimi "la". tenpo ni la
 ## toki musi
 *(Luda Lingvaĵo)*
 
+### nimi ilo
+*(Partikuloj)*
+
 ### nimi suli sinpin
 *(Helpaj Verboj)*
 
@@ -480,6 +483,12 @@ nimi "mi" en nimi "sina" en nimi "ona" en nimi "ijo" taso li [nimi lawa](nimi.md
  * ~~ilo~~ luka *(tuŝilo; mano, brako)*
     * → o ***luka*** ala e seli! *(Ne tuŝu la fajron!)*
 
+ken pi toki pakala la jan li ken toki e **nimi lawa weka** li toki sin e [nimi suli](nimi.md#nimi-ilo).
+*(Tra bruo oni povas diri la implican substantivon kaj ripeti la verbon.)*
+
+* ona li ***ijo*** moku anu moku ***moku***?
+*(Ĉu ĝi estas manĝaĵo aŭ manĝe manĝanta? Ĉu ĝi estas manĝo aŭ ĉu ĝi manĝas?)*
+
 ### nimi suli palisa monsi
 *(Pasivo)*
 
@@ -526,7 +535,7 @@ nimi nanpa "tu" li sama [nimi lawa](nimi.md#nimi-lawa) tu lon sinpin ona.
 nimi nanpa li ken kama [nimi lawa](nimi.md#nimi-lawa).
 *(Numeraloj kaj korelativoj povas fariĝi substantivo.)*
 
-* wan nimi *(vortero; silabo)*
-* mute nimi *(multo da vortoj, "vortaro"; frazo)*
-* ale nimi *(ĉiom da vorto, tuto da vorto; tuta vorto)*
-* ale pi nimi mute *(ĉiom da vortoj, tuto da vortoj; vortaro)*
+* ***wan*** nimi *(vortero; silabo)*
+* ***mute*** nimi *(multo da vortoj, "vortaro"; frazo)*
+* ***ale*** nimi *(ĉiom da vorto, tuto da vorto; tuta vorto)*
+* ***ale*** pi nimi mute *(ĉiom da vortoj, tuto da vortoj; vortaro)*
