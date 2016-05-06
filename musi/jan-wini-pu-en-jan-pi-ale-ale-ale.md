@@ -139,3 +139,5 @@ ___
 tenpo ni la ona li kama wile supa. tan ni la ona li toki e kalama pi pilin ike. tenpo sama kama la ona li kama lon ni. ona li noka lon palisa kasi ni, la ...
 
 KA!
+
+"ike, a!" li nimi pi jan Pu lon tenpo ni: ona li tawa ike tawa anpa tawa palisa sin.
