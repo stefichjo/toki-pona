@@ -130,6 +130,7 @@ nimi "nimi" li kama weka lon sinpin pi nimi tan jan ante anu nimi pi ijo ante.
  * → ***mi*** kama moku. *(Mi komencas manĝi.)*
 
 [nimi suli sinpin](nimi.md#nimi-suli-sinpin) "sona ken" li kama nimi "sona". [nimi suli sinpin](nimi.md#nimi-suli-sinpin) "wile lukin" li kama nimi "lukin".
+*(La helpaj verboj "sona ken" fariĝas "sona". La helpaj verboj "wile lukin" fariĝas "lukin".)*
 
 * jan mute li ***sona ala ken*** tawa lon telo. *(Multaj personoj ne scipovas naĝi.)*
  * → jan mute li ***sona ala*** tawa lon telo.
