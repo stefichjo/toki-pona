@@ -322,11 +322,11 @@ nimi "ona sama" li ken kama nimi "sama".
 * ona li telo e ***ona sama***. *(Ŝi lavas sin.)*
  * → ona li telo e ***sama***.
 
-nimi "monsi" li kama weka lon sinpin pi nimi "tenpo".
-*("monsi" malaperas antaŭ "tenpo".)*
-
-* ona li kama lape ***lon monsi pi tenpo lili***. *(Ŝi endormiĝos post mallonga tempo. Ŝi baldaŭ endormiĝos.)*
- * → ona li kama lape ***lon tenpo lili***.
+[nimi suli sinpin](nimi.md#nimi-suli-sinpin) "kama" en nimi "monsi" li ken kama weka.
+* ona li kama lape lon tenpo lili. *(Ŝi endormiĝas dum mallonga tempo. Ŝi rapide endormiĝas.)*
+ * → ona li lape lon tenpo lili.
+* ona li lape lon monsi pi tenpo lili. *(Ŝi dormos post mallonga tempo. Ŝi baldaŭ dormos.)*
+ * → ona li lape lon tenpo lili.
 
 ### toki monsuta
 *(Danĝera Lingvaĵo)*
