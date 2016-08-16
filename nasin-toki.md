@@ -318,20 +318,24 @@ nimi "ni la" lon monsi pi [nimi monsi palisa](nimi.md#nimi-monsi-palisa) li ken 
  * → ***sama*** ona li kalama musi.
 
 nimi "ona sama" li ken kama nimi "sama".
+*("ona sama" povas fariĝi "sama".)*
 
 * ona li telo e ***ona sama***. *(Ŝi lavas sin.)*
  * → ona li telo e ***sama***.
 
-[nimi suli sinpin](nimi.md#nimi-suli-sinpin) "kama" en nimi "monsi" li ken kama weka.
-* ona li kama lape lon tenpo lili. *(Ŝi endormiĝas dum mallonga tempo. Ŝi rapide endormiĝas.)*
+nimi "kama" en nimi "monsi" li ken kama weka.
+*("kama" kaj "monsi" povas malaperi.)*
+
+* ona li ***kama*** lape lon tenpo lili. *(Ŝi endormiĝas dum mallonga tempo. Ŝi rapide endormiĝas.)*
  * → ona li lape lon tenpo lili.
-* ona li lape lon monsi pi tenpo lili. *(Ŝi dormos post mallonga tempo. Ŝi baldaŭ dormos.)*
+* ona li lape lon ***monsi*** pi tenpo lili. *(Ŝi dormos post mallonga tempo. Ŝi baldaŭ dormos.)*
  * → ona li lape lon tenpo lili.
 
 ### toki monsuta
 *(Danĝera Lingvaĵo)*
 
-[nimi monsi palisa](nimi.md#nimi-monsi-palisa) li ken lon monsi pi [nimi ilo](nimi.md#nimi-ilo).
+[nimi ilo](nimi.md#nimi-ilo) li ken lon monsi pi [nimi monsi palisa](nimi.md#nimi-monsi-palisa).
+*(Modifiloj povas esti malantaŭ prepozicio.)*
 
 * tomo ***pi telo nasa*** lon ma tomo Lantan *(trinkejo en Londono)*
  * → tomo - lon ma tomo Lantan - ***pi telo nasa***
