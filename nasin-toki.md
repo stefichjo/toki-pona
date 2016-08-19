@@ -1,31 +1,31 @@
 # nasin toki pi toki pona
-*(Gramatiko de Tokipono - Grammar of Toki Pona)*
+*(Gramatiko de Tokipono — Grammar of Toki Pona)*
 
 wan lipu "[toki lili](#toki-lili)" li toki e nasin toki pi jan ale pi toki pona.
-*(La sekcio "Konciza Lingvaĵo" traktas la lingvouzon de ĉiuj tokiponistoj.)*
+*(La sekcio "Konciza Lingvaĵo" traktas la lingvouzon de ĉiuj tokiponistoj. — The section "Concise Language" treats the way every Toki Pona speaker uses the language.)*
 
-* sina ~~***li***~~ sin. *(Vi estas nova.)*
+* sina ~~***li***~~ sin. *(Vi estas nova. — You are new.)*
  * → sina sin.
 
 wan lipu "[toki namako](#toki-namako)" li toki e nasin toki sin pi jan Sonja lon lipu pi toki pona.
-*(La sekcio "Aldona Lingvaĵo" traktas la aldonan lingvouzon de Sonja en la oficiala libro de Tokipono.)*
+*(La sekcio "Aldona Lingvaĵo" traktas la aldonan lingvouzon de Sonja en la oficiala libro de Tokipono. — The section "Additional Language" treats the Sonja Lang's additional way of using the language in the official Toki Pona book.)*
 
-* toki ***pi nanpa wan*** *(la unua lingvo)*
+* toki ***pi nanpa wan*** *(la unua lingvo — the first language)*
  * → toki ***nanpa wan***
 
 wan lipu "[toki apeja](#toki-apeja)" li toki e nasin toki sin pi jan nasa ni: ona li wile ante e toki pona.
-*(La sekcio "Skisma Lingvaĵo" traktas la aldonan lingvouzon de tokiponidistoj.)*
+*(La sekcio "Skisma Lingvaĵo" traktas la aldonan lingvouzon de tokiponidistoj. — The section "Schismatic Language" treats the additional way of how speakers of Toki Pona dialects use the language.)*
 
-* mi tawa ***lon poka pi*** jan pona. *(Mi iras kun amiko.)*
+* mi tawa ***lon poka pi*** jan pona. *(Mi iras kun amiko. — I am going with a friend.)*
  * → mi tawa ***poka*** jan pona.
 
 wan lipu "[toki musi](#toki-musi)" li toki e nasin toki pi jan ala. taso tawa lawa mi la ona li ken.
-*(La sekcio "Luda Lingvaĵo" traktas lingvouzon, kiun neniu havas, sed kiu ŝajnas teorie ebla al mi.)*
+*(La sekcio "Luda Lingvaĵo" traktas lingvouzon, kiun neniu havas, sed kiu ŝajnas teorie ebla al mi. — The section "Fun Language" treats a way of using the language, which seems possible to me in theory, but which nobody applies.)*
 
-* o ***luka*** ala e seli! *(Ne tuŝu la fajron!)*
+* o ***luka*** ala e seli! *(Ne tuŝu la fajron! — Don't touch the fire.)*
 
 ## toki lili
-*(Konciza Lingvaĵo)*
+*(Konciza Lingvaĵo — Concise Language)*
 
 ### nimi ilo
 *(Partikuloj)*
@@ -179,7 +179,7 @@ nimi lon sinpin pi [nimi ilo](nimi.md#nimi-ilo) "li" li ken kama weka. nasin ni 
     * ***lon***. *(Jes.)*
 
 ## toki namako
-*(Aldona Lingvaĵo)*
+*(Aldona Lingvaĵo — Additional Language)*
 
 nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin" li ken kama "ali", "namako", "kin" en "oko".
 *("ale, "sin", "a" kaj "lukin" povas fariĝi "ali", "namako", "kin" kaj "oko".)*
@@ -249,7 +249,7 @@ nimi "o, o" li ken kama nimi "o".
  * → jan Ali ***o*** wawa.
 
 ## toki apeja
-*(Skisma Lingvaĵo)*
+*(Skisma Lingvaĵo — Schismatic Language)*
 
 wan lipu "[toki kipisi](#toki-kipisi)" li toki e weka nimi nasa.
 *(La sekcio "Kripla Lingvaĵo" traktas strangajn mankojn de vortoj.)*
@@ -406,7 +406,7 @@ nimi "jan li toki e ijo pi" li ken kama weka lon monsi pi nimi "la". tenpo ni la
  * → mi ***olin*** kama sona e jan pona sina.
 
 ## toki musi
-*(Luda Lingvaĵo)*
+*(Luda Lingvaĵo — Fun Language)*
 
 ### nimi ilo
 *(Partikuloj)*
