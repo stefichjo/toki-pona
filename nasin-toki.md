@@ -28,10 +28,10 @@ wan lipu "[toki musi](#toki-musi)" li toki e nasin toki pi jan ala. taso tawa la
 *(Konciza Lingvaĵo — Concise Language)*
 
 ### nimi ilo
-*(Partikuloj)*
+*(Partikuloj — Particles)*
 
 nimi lon sinpin pi [nimi ilo](nimi.md#nimi-ilo) "li" li nimi "mi" taso anu nimi "sina" taso, la [nimi ilo](nimi.md#nimi-ilo) "li" li kama weka.
-*(Se la subjekto estas nura "mi" aŭ nura "sina", "li" malaperas.)*
+*(Se la subjekto estas nura "mi" aŭ nura "sina", "li" malaperas. — If the subject is just "mi" or "sina", "li" disappears.)*
 
 * mi ***~~li~~*** mije. *(Mi estas viro.)*
  * → mi mije.
@@ -39,11 +39,11 @@ nimi lon sinpin pi [nimi ilo](nimi.md#nimi-ilo) "li" li nimi "mi" taso anu nimi 
  * → sina sin.
 
 [mute nimi](nimi.md#nimi-ilo) tu pi nimi sama lon sinpin pi nimi "li" ken kama wan. nimi tu ni lon sinpin pi nimi "li" li "mi" anu "sina", la [mute nimi](nimi.md#nimi-ilo) tu li ken ala kama wan.
-*(Du frazoj kun sama subjekto povas unuiĝi. Se tiu subjekto estas "mi" aŭ "sina", la frazoj ne povas unuiĝi.)*
+*(Du frazoj kun sama subjekto povas unuiĝi. Se tiu subjekto estas "mi" aŭ "sina", la du frazoj ne povas unuiĝi. — Two sentences with the same subject can become one. If the subject is "mi" or "sina", the two sentences can't become one.)*
 
-* ***ma mama li*** lili en ***ma mama li*** lete. *(La patrujo estas malgranda kaj la patrujo estas malvarma.)*
- * → ***ma mama li*** lili ***li*** lete. *(La patrujo estas malgranda kaj malvarma.)*
-* ***mi*** lukin e kon mi. ***mi*** kama sona e toki mute. ***mi*** musi. ***mi*** pali e nasin toki lili. *(Mi ekzamenis mian animon, studis lingvistikon, ludis kaj verkis malgrandan komunikan sistemon.)*
+* ***ma mama li*** lili en ***ma mama li*** lete. *(La patrujo estas malgranda kaj la patrujo estas malvarma. — The motherland is small and the motherland is cold.)*
+ * → ***ma mama li*** lili ***li*** lete. *(La patrujo estas malgranda kaj malvarma. — The motherland is small and cold.)*
+* ***mi*** lukin e kon mi. ***mi*** kama sona e toki mute. ***mi*** musi. ***mi*** pali e nasin toki lili. *(Mi ekzamenis mian animon, studis lingvistikon, ludis kaj verkis malgrandan komunikan sistemon. — I studied my mind, played and created a small communication system.)*
 
 nimi suli tu pi nimi sama lon monsi pi nimi "e" li ken kama wan.
 *(Du verboj kun sama rekta objekto povas unuiĝi.)*
@@ -55,7 +55,7 @@ nimi suli tu pi nimi sama lon monsi pi nimi "e" li ken kama wan.
 sinpin pi [nimi ilo](nimi.md#nimi-ilo) "o" la nimi "sina" li ken kama weka. monsi pi [nimi ilo](nimi.md#nimi-ilo) "o" la nimi "kute" taso li ken kama weka.
 *("sina" povas malaperi antaŭ la partikulo "o". "kute" povas malaperi malantaŭ la partikulo "o".)*
 
-* sina ***o*** kute. aŭskultu.)*
+* sina ***o*** kute. *(Vi aŭskultu.)*
  * → ***o*** kute! *(Aŭskultu!)*
     * → ***o***! *(Ho!)*
 * tawa pona ***o*** lon. *(Estu bona vojaĝo.)*
