@@ -457,155 +457,155 @@ kepeken nimi "sin" en [nimi monsi palisa](nimi.md#nimi-monsi-palisa) "ante" la j
 [mute nimi](nimi.md#nimi-ilo) lon monsi pi nimi "pi ijo ni" li ken lon.
 *(Relativaj frazoj eblas. — Relative clauses are possible.)*
 
-* mi pana e moku tawa jan ***ni: ona li kama lon tomo mi***. *(Mi donis manĝon al tiu persono: li aperis en mia domo.)*
- * → mi pana e moku tawa jan ***pi ijo ni: ona li kama lon tomo mi***. *(Mi donis manĝon al la persono, kiu aperis en mia domo.)*
-* jan ***ni (mi pana e moku tawa ona)*** li kama lon tomo mi. *(Tiu persono (mi donis manĝon al li) aperis en mia domo.)*
- * → jan ***pi ijo ni, mi pana e moku tawa ona,*** li kama lon tomo mi. *(La persono, al kiu mi donis manĝon, aperis en mia domo.)*
+* mi pana e moku tawa jan ***ni: ona li kama lon tomo mi***. *(Mi donis manĝon al tiu persono: li aperis en mia domo. — I gave food to this person: he appeared in my house.)*
+ * → mi pana e moku tawa jan ***pi ijo ni: ona li kama lon tomo mi***. *(Mi donis manĝon al la persono, kiu aperis en mia domo. — I gave food to the person, which appeared in my house.)*
+* jan ***ni (mi pana e moku tawa ona)*** li kama lon tomo mi. *(Tiu persono (mi donis manĝon al li) aperis en mia domo. — This person (I gave him food) appeared in my house.)*
+ * → jan ***pi ijo ni, mi pana e moku tawa ona,*** li kama lon tomo mi. *(La persono, al kiu mi donis manĝon, aperis en mia domo. — The person, to whom I gave food, appeared in my house.)*
 
 #### nimi suli palisa monsi
-*(Pasivo kaj Kaŭzativo)*
+*(Pasivo kaj Kaŭzativo — Passive and Causative)*
 
 nimi "pona" en nimi "open" li ken lon sinpin pi [nimi suli palisa](nimi.md#nimi-suli-palisa).
-*("pona" kaj "open" povas esti antaŭ transitiva verbo.)*
+*("pona" kaj "open" povas esti antaŭ transitiva verbo. — "pona" and "open" can stand before transitive verbs.)*
 
-* ***pona lukin*** *(bona por vidi; vidinda, bela)*
-* ***open pali*** *(malferma por fari; farebla, facila)*
+* ***pona lukin*** *(bona por vidi; vidinda, bela — good to see; worth seeing, beautiful)*
+* ***open pali*** *(malferma por fari; farebla, facila — open to do; doable, easy)*
 
 [nimi suli palisa](#nimi.md#nimi-suli-palisa) lon monsi pi [nimi ijo](nimi.md#nimi-ijo) li sama nimi "por" lon toki Epelanto.
-*(Transitiva verbo malantaŭ radika vorto tradukeblas per "por" en Esperanto.)*
+*(Transitiva verbo malantaŭ radika vorto tradukeblas per "por" en Esperanto. — A transitive verb before a root word can be translated with "for" in English.)*
 
-* ilo ***moku*** *(ilo por manĝi, manĝilo)*
+* ilo ***moku*** *(ilo por manĝi, manĝilo — tool for eating, cutlery)*
 
 [nimi lawa](nimi.md#nimi-lawa) "ijo" lon sinpin pi [nimi suli palisa](nimi.md#nimi-suli-palisa) li ken awen.
-*(La substantivo "ijo" antaŭ transitiva verbo povas resti.)*
+*(La substantivo "ijo" antaŭ transitiva verbo povas resti. — The noun "ijo" before a transitive verb can stay.)*
 
-* ijo ***sitelen*** *(io por desegni; io desegnenda, io desegnata)*
- * ***sitelen*** *(desegno)*
-* nimi li ijo ***sitelen*** tan jan lili. *(La vortoj estas skribataj de la infanoj.)*
- * mi ijo ***sitelen*** e nimi tan jan lili. *(Mi diktas la vortojn al la infanoj.)*
+* ijo ***sitelen*** *(io por desegni; io desegnenda, io desegnata — something for painting; something worth painting, something being painted)*
+ * ***sitelen*** *(desegno — painting)*
+* nimi li ijo ***sitelen*** tan jan lili. *(La vortoj estas skribataj de la infanoj. — The words are being written by the children.)*
+ * mi ijo ***sitelen*** e nimi tan jan lili. *(Mi diktas la vortojn al la infanoj. — I'm dictating words to the children.)*
 
 #### nimi nanpa
-*(Numeraloj)*
+*(Numeraloj — Numerals)*
 
 nimi nanpa li nimi sama nimi "ale" en nimi "ala" en nimi "ni" en nimi "seme".
-*(Numeralo estas kiel unu el la korelativo "ale", "ala" "ni" kaj "seme".)*
+*(Numeralo estas kiel unu el la korelativo "ale", "ala" "ni" kaj "seme". — Numerals are like one of the correlatives "ale", "ala", "ni" and "seme".)*
 
-* sike tu pi ijo tu *(par-biciklo; tandemo)*
+* sike tu pi ijo tu *(par-biciklo; tandemo — bicycle built for two)*
 
 nimi nanpa "tu" li suli sama [nimi lawa](nimi.md#nimi-lawa) tu lon sinpin ona.
-*(La numeralo "tu" signifas paron da la substantivoj antaŭ si.)*
+*(La numeralo "tu" signifas paron da la substantivoj antaŭ si. — The numeral "tu" means a pair of nouns before it.)*
 
-* ***sike wan*** en ***sike wan*** → ***sike wan tu*** → ***sike tu*** *(du radoj, paro da radoj; biciklo)*
-* mi sona e ***toki tu*** e ***toki tu***. → mi sona e ***toki tu tu***. *(Mi konas du parojn da lingvoj. Mi konas kvar lingvojn.)*
+* ***sike wan*** en ***sike wan*** → ***sike wan tu*** → ***sike tu*** *(du radoj, paro da radoj; biciklo — two wheels, pair of wheels; bicycle)*
+* mi sona e ***toki tu*** e ***toki tu***. → mi sona e ***toki tu tu***. *(Mi konas du parojn da lingvoj. Mi konas kvar lingvojn. — I know two pairs of languages. I know four languages.)*
 
 [nimi ijo](nimi.md#nimi-ijo) li ken kama nimi nanpa.
-*(Radika vorto povas fariĝi numeralo.)*
+*(Radika vorto povas fariĝi numeralo. — A root word can become a numeral.)*
 
-* luka pi palisa mute *(kvino da fingroj; mano kun fingroj)*
-* tenpo esun li jo e tenpo suno ***esun***. *(La semajno havas sep tagojn.)*
-* tenpo mun pi nanpa tu li jo e tenpo suno ***esun tu tu***. *(Februaro havas 28 tagojn.)*
+* luka pi palisa mute *(kvino da fingroj; mano kun fingroj — five fingers; hand with fingers)*
+* tenpo esun li jo e tenpo suno ***esun***. *(La semajno havas sep tagojn. — The week has seven days.)*
+* tenpo mun pi nanpa tu li jo e tenpo suno ***esun tu tu***. *(Februaro havas 28 tagojn. — Februrary has 28 days.)*
 
 nimi nanpa li ken kama [nimi lawa](nimi.md#nimi-lawa).
-*(Numeraloj kaj korelativoj povas fariĝi substantivo.)*
+*(Numeraloj kaj korelativoj povas fariĝi substantivo. — Numerals and correlatives can become nouns.)*
 
-* ***wan*** nimi *(vortero; silabo)*
-* ***mute*** nimi *(multo da vortoj, "vortaro"; frazo)*
-* ***ale*** nimi *(ĉiom da vorto, tuto da vorto; tuta vorto)*
-* ***ale*** pi nimi mute *(ĉiom da vortoj, tuto da vortoj; vortaro)*
+* ***wan*** nimi *(vortero; silabo — sillable)*
+* ***mute*** nimi *(multo da vortoj, "vortaro"; frazo — set of words; sentence)*
+* ***ale*** nimi *(ĉiom da vorto, tuto da vorto; tuta vorto — all of the word; the whole word)*
+* ***ale*** pi nimi mute *(ĉiom da vortoj, tuto da vortoj; vortaro — all the words; dictionary)*
 
 ### toki pini
-*(Pasinta Lingvaĵo)*
+*(Pasinta Lingvaĵo — Language of the Past)*
 
 toki pini li jo e nimi luka luka tu tu taso.
-*(La pralingvo havas nur 100 vortojn.)*
+*(La pralingvo havas nur 100 vortojn. — The Language of the Past has only a hundred words.)*
 
 #### nimi lawa sin
-*(Novaj Substantivoj)*
+*(Novaj Substantivoj — New Nouns)*
 
 nimi "mi" en nimi "sina" en nimi "ona" en nimi "ijo" taso li [nimi lawa](nimi.md#nimi-lawa). [nimi lawa](nimi.md#nimi-lawa) ante li pini jo e nimi "ijo".
-*(Nur "mi", "sina", "ona" kaj "ijo" estas substantivoj. Aliaj radikaj vortoj perdis la vorton "ijo".)*
+*(Nur "mi", "sina", "ona" kaj "ijo" estas substantivoj. Aliaj substantivoj perdis la vorton "ijo". — Only "mi", "sina", "ona" and "ijo" are nouns. Other nouns lost the word "ijo".)*
 
-* ***ijo ilo*** *(utilaĵo)*
- * → ***~~ijo~~ ilo*** *(ilo)*
-* ***ilo luka*** *(tuŝilo)*
+* ***ijo ilo*** *(utilaĵo — something useful)*
+ * → ***~~ijo~~ ilo*** *(ilo — tool)*
+* ***ilo luka*** *(tuŝilo — tool for touching)*
  * → ***~~ilo~~ luka*** *(mano, brako)*
 
 tan ni la [nimi lawa](nimi.md#nimi-lawa) ante li ken sama [nimi monsi](nimi.md#nimi-monsi) anu [nimi suli](nimi.md#nimi-ilo).
-*(Tial aliaj substantivoj povas uziĝi kiel modifiloj aŭ verboj.)*
+*(Tial aliaj substantivoj povas uziĝi kiel modifiloj aŭ verboj. — Therefore other nouns can be used as modifiers or verbs.)*
 
-* o ***luka*** ala e seli! *(Ne tuŝu la fajron!)*
+* o ***luka*** ala e seli! *(Ne tuŝu la fajron! — Don't touch the fire!)*
 
 ken pi toki pakala la jan li ken toki e nimi "ijo" li toki sin e [nimi suli](nimi.md#nimi-ilo).
-*(Tra bruo oni povas diri "ijo" kaj ripeti la verbon.)*
+*(Tra bruo oni povas diri "ijo" kaj ripeti la verbon. — Through noise one can say "ijo" and repeat the verb.)*
 
 * ona li ***ijo moku*** anu ***moku moku***?
-*(Ĉu ĝi estas manĝaĵo aŭ manĝe manĝanta? Ĉu ĝi estas manĝo aŭ ĉu ĝi manĝas?)*
+*(Ĉu ĝi estas manĝaĵo aŭ manĝe manĝanta? Ĉu ĝi estas manĝo aŭ ĉu ĝi manĝas? — Is it food or is it eating?)*
 
 #### nimi suli sin
 *(Novaj Verboj)*
 
 [nimi suli](nimi.md#nimi-ilo) "moku", "pali", "pana", "pu" en "toki" li sin.
-*(La verboj "moku", "pali", "pana", "pu" kaj "toki" estas novaj.)*
+*(La verboj "moku", "pali", "pana", "pu" kaj "toki" estas novaj. — The verbs "moku", "pali", "pana", "pu" and "toki" are new.)*
 
-* ***pana e ijo tawa uta*** *(doni ion al la buŝo)*
- * → ***moku*** *(manĝi, trinki)*
-* ***luka e ijo*** *(tuŝi ion)*
- * → ***pali*** *(labori)*
-* ***luka sin*** *(retuŝi)*
- * → ***pana*** *(doni)*
-* ***kepeken lipu suli pi toki pona*** *(uzi la oficialan libron pri Tokipono)*
- * → ***pu*** *(puumi)*
-* ***pana e sona pi ijo sin*** *(informi pri novaĵo)*
- * → ***toki*** *(komuniki)*
+* ***pana e ijo tawa uta*** *(doni ion al la buŝo — to give to the mouth)*
+ * → ***moku*** *(manĝi, trinki — to eat, to drink)*
+* ***luka e ijo*** *(tuŝi ion — to touch something)*
+ * → ***pali*** *(labori — to work)*
+* ***luka sin*** *(retuŝi — to touch again)*
+ * → ***pana*** *(doni — to give)*
+* ***kepeken lipu suli pi toki pona*** *(uzi la oficialan libron pri Tokipono — to use the official Toki Pona book)*
+ * → ***pu*** *(puumi — to use the "Pu")*
+* ***pana e sona pi ijo sin*** *(informi pri novaĵo ­— to inform about news)*
+ * → ***toki*** *(komuniki — to communicate)*
 
 #### nimi monsi palisa sin
-*(Novaj Prepozicioj)*
+*(Novaj Prepozicioj — New Prepositions)*
 
 [nimi monsi palisa](nimi.md#nimi-monsi-palisa) "tawa", "tan" en "kepeken" li sin.
-*(La prepozicioj "tawa", "tan" kaj "kepeken" estas novaj.)*
+*(La prepozicioj "tawa", "tan" kaj "kepeken" estas novaj. — The prepositions "tawa", "tan" and "kepeken" are new.)*
 
-* mi ***kama lon*** sina. *(Mi komencas esti ĉe vi.)*
- * → mi ***tawa*** sina. *(Mi moviĝas al vi.)*
-* mi ***pini lon*** ma tomo. *(Mi ĉesis esti en la urbo.)*
- * → mi ***tan*** ma tomo. *(Mi venis de la urbo.)*
-* mi ***awen lon*** tomo tawa. *(Mi daŭre estas en la aŭto.)*
- * → mi ***kepeken*** tomo tawa. *(Mi uzas la aŭton.)*
+* mi ***kama lon*** sina. *(Mi komencas esti ĉe vi. — I start being with you.)*
+ * → mi ***tawa*** sina. *(Mi moviĝas al vi. — I move to you.)*
+* mi ***pini lon*** ma tomo. *(Mi ĉesis esti en la urbo. — I cease being in the town.)*
+ * → mi ***tan*** ma tomo. *(Mi venis de la urbo. — I came from the town.)*
+* mi ***awen lon*** tomo tawa. *(Mi daŭre estas en la aŭto. — I keep on being in the car.)*
+ * → mi ***kepeken*** tomo tawa. *(Mi uzas la aŭton. — I use the car.)*
 
 #### nimi kule sin
-*(Novaj Vortoj por Koloroj)*
+*(Novaj Vortoj por Koloroj — New Words for Colors)*
 
 nimi kule "jelo", "laso", "loje", "pimeja" en "walo" li sin.
-*(La vortoj por koloroj "jelo", "laso", "loje", "pimeja" kaj "walo" estas novaj.)*
+*(La vortoj por koloroj "jelo", "laso", "loje", "pimeja" kaj "walo" estas novaj. — The words for colors "jelo", "laso", "loje", "pimeja" and "walo" are new.)*
 
-* ***kule suno*** *(koloro de la suno)*
- * → ***jelo*** *(flavo)*
-* ***kule kasi*** *(koloro de plantoj)*
- * → ***laso*** *(verdo, bluo)*
-* ***kule uta*** *(koloro de la lipoj)*
- * → ***loje*** *(ruĝo)*
-* ***kule ala*** *(neniu koloro)*
- * → ***pimeja*** *(nigro)*
-* ***kule wawa*** *(forta koloro)*
- * → ***walo*** *(blanko)*
+* ***kule suno*** *(koloro de la suno — color of the sun)*
+ * → ***jelo*** *(flavo — yellow)*
+* ***kule kasi*** *(koloro de plantoj — color of the plants)*
+ * → ***laso*** *(verdo, bluo — green, blue)*
+* ***kule uta*** *(koloro de la lipoj — color of the lips)*
+ * → ***loje*** *(ruĝo — red)*
+* ***kule ala*** *(neniu koloro — no color)*
+ * → ***pimeja*** *(nigro — black)*
+* ***kule wawa*** *(forta koloro — strong color)*
+ * → ***walo*** *(blanko — white)*
 
 #### nimi sijelo sin
-*(Novaj Vortoj por Vivaĵoj)*
+*(Novaj Vortoj por Vivaĵoj — New Words for Living Beings)*
 
 nimi sijelo "akesi", "jan", "kala", "kasi", "pipi", "soweli" en "waso" li sin.
-*(La vortoj por vivaĵoj "akesi", "jan", "kala", "kasi", "pipi", "soweli" kaj "waso" estas novaj.)*
+*(La vortoj por vivaĵoj "akesi", "jan", "kala", "kasi", "pipi", "soweli" kaj "waso" estas novaj. — The words for living beings "akesi", "jan", "kala", "kasi", "pipi", "soweli" and "waso" are new.)*
 
-* ***sijelo lete*** *(malvarma vivaĵo)*
- * → ***akesi*** *(reptilo, amfibio)*
-* ***sijelo sona*** *(scia vivaĵo)*
- * → ***jan*** *(homo, persono)*
-* ***sijelo telo*** *(akva vivaĵo)*
- * → ***kala*** *(fiŝo)*
-* ***sijelo ma*** *(tera vivaĵo)*
- * → ***kasi*** *(planto)*
-* ***sijelo lili/kiwen/lupa*** *(malgranda/malmola/malplena vivaĵo)*
- * → ***pipi*** *(insekto)*
-* ***sijelo seli*** *(varma vivaĵo)*
- * → ***soweli*** *(mamulo)*
-* ***sijelo kon*** *(aera vivaĵo)*
- * → ***waso*** *(birdo)*
+* ***sijelo lete*** *(malvarma vivaĵo — cold living being)*
+ * → ***akesi*** *(reptilo, amfibio — reptile, amphibian)*
+* ***sijelo sona*** *(scia vivaĵo — knowing living being)*
+ * → ***jan*** *(homo, persono — human being, person)*
+* ***sijelo telo*** *(akva vivaĵo — living being of water)*
+ * → ***kala*** *(fiŝo — fish)*
+* ***sijelo ma*** *(tera vivaĵo — living being of earth)*
+ * → ***kasi*** *(planto — plant)*
+* ***sijelo lili/kiwen/lupa*** *(malgranda/malmola/malplena vivaĵo — small/soft/empty living being)*
+ * → ***pipi*** *(insekto — insect)*
+* ***sijelo seli*** *(varma vivaĵo — warm living being)*
+ * → ***soweli*** *(mamulo — mammal)*
+* ***sijelo kon*** *(aera vivaĵo — living being of air)*
+ * → ***waso*** *(birdo — bird)*
 
