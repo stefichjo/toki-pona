@@ -163,7 +163,7 @@ nimi lon sinpin pi [nimi ilo](nimi.md#nimi-ilo) "li" li ken kama weka. nasin ni 
 * ni li ***pona***. *(Tio estas bona. — That's good.)* → ***pona***. *(Dankon. — Thanks.)*
 * ona li ***mama***. *(Ŝi estas gepatro. — She's a parent.)* → ***mama***. *(Jes. — Yes.)*
  * ona li ***mama ala***. *(Ŝi ne estas gepatro. — She isn't a parent.)* → ***mama ala***. → ***ala***. *(Ne. — No.)*
-* ~~ni li ***lon,***~~ ona li mama, anu seme? *(Ĉu ŝi estas gepatro? — Is she a parent.)*
+* ~~ni li ***lon,***~~ ona li mama, anu seme? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
  * → ona li mama***,*** anu seme?
     * ***lon***. *(Jes. — Yes.)*
 
@@ -399,63 +399,63 @@ nimi "jan li toki e ijo pi" li ken kama weka lon monsi pi nimi "la". tenpo ni la
 *(Luda Lingvaĵo — Fun Language)*
 
 ### toki kama
-*(Estonta Lingvaĵo)*
+*(Estonta Lingvaĵo — Language of the Future)*
 
-#### nimi suli sinpin
-*(Helpaj Verboj)*
+#### nimi suli sinpin sin
+*(Novaj Helpaj Verboj — New Auxilary Verbs)*
 
 nimi "pini" li ken kama [nimi suli sinpin](nimi.md#nimi-suli-sinpin).
-*("pini" povas fariĝi helpa verbo.)*
+*("pini" povas fariĝi helpa verbo. — "pini" can become an auxilary verb.)*
 
-* mi ***pini jo*** e lipu. *(Mi ĉesis havi la libron. Mi perdis la libron.)*
+* mi ***pini jo*** e lipu. *(Mi ĉesis havi la libron. Mi perdis la libron. — I ceased to have the book. I lost the book.)*
 
 [nimi monsi palisa](nimi.md#nimi-monsi-palisa) li ken kama [nimi suli sinpin](nimi.md#nimi-suli-sinpin).
-*(Prepozicioj povas fariĝi helpa verbo.)*
+*(Prepozicioj povas fariĝi helpa verbo. — Prepositions can become auxilary verbs.)*
 
-* mi ***tan pini moku***. *(Mi estas finskribinta.)*
-* mi ***lon awen moku***. *(Mi estas skribadanta.)*
-* mi ***tawa kama moku***. *(Mi estas ekskribonta.)*
+* mi ***tan pini moku***. *(Mi estas finskribinta. — I have finished to write.)*
+* mi ***lon awen moku***. *(Mi estas skribadanta. — I am constantly writing.)*
+* mi ***tawa kama moku***. *(Mi estas ekskribonta. — I am about to start writing.)*
 
-#### nimi monsi palisa
-*(Prepozicioj)*
+#### nimi monsi palisa sin
+*(Novaj Prepozicioj — New Prepositions)*
 
 nimi "ante" li sama nimi "sama ala". nimi "weka" li sama nimi "lon ala". tan ni la nimi "ante" en nimi "weka" li ken sama kama [nimi monsi palisa](nimi.md#nimi-monsi-palisa).
-*("ante" kaj "sama", kaj "weka" kaj "lon" estas antonimoj. Tial ankaŭ "ante" kaj "weka" povas fariĝi prepozicioj.)*
+*("ante" kaj "sama", kaj "weka" kaj "lon" estas antonimoj. Tial ankaŭ "ante" kaj "weka" povas fariĝi prepozicioj. — "ante" and "sama", and "weka" and "lon" are antonyms. Therefore, also "ante" and "weka" can become prepositions.)*
 
-* ijo ***ante*** *(io alia)*
- * → ijo ***ante ona*** *(io alia ol ŝi)*
-* ijo ***weka*** *(io distanca)*
- * → ijo ***weka ona*** *(io distanca de ŝi)*
+* ijo ***ante*** *(io alia — something else)*
+ * → ijo ***ante ona*** *(io alia ol ŝi — something different from her)*
+* ijo ***weka*** *(io distanca — something missing)*
+ * → ijo ***weka ona*** *(io distanca de ŝi — something away from her)*
 
 nimi "taso" li [nimi monsi palisa](nimi.md#nimi-monsi-palisa). nimi "sin" li sama nimi "taso ala". tan ni la nimi "sin" li ken sama kama [nimi monsi palisa](nimi.md#nimi-monsi-palisa).
-*("taso" estas prepozicio. "sin" kaj "taso" estas antonimoj. Tial ankaŭ "sin" povas fariĝi prepozicio.)*
+*("taso" estas prepozicio. "sin" kaj "taso" estas antonimoj. Tial ankaŭ "sin" povas fariĝi prepozicio. — "taso" is a preposition. "sin" and "taso" are antonyms. Therefore, also "sin" can become a preposition.)*
 
-* ijo ***sin*** *(io aldona)*
- * → ijo ***sin ona*** *(io aldona al ŝi, io kun ŝi)*
-* ijo ***taso*** *(io izolita)*
- * → ijo ***taso ona*** *(io izolita de ŝi, io sen ŝi)*
+* ijo ***sin*** *(io aldona — something additional)*
+ * → ijo ***sin ona*** *(io aldona al ŝi, io kun ŝi — something in addition to her, something with her)*
+* ijo ***taso*** *(io izolita — something apart)*
+ * → ijo ***taso ona*** *(io izolita de ŝi, io sen ŝi — something apart from her, something without her)*
 
-kepeken nimi "sin" en [nimi monsi palisa](nimi.md#nimi-monsi-palisa) "ante" la jan ken toki e ante ijo. *(Pere de "sin" kaj "ante" oni povas kompari aferojn.)*
+kepeken nimi "sin" en [nimi monsi palisa](nimi.md#nimi-monsi-palisa) "ante" la jan ken toki e ante ijo. *(Pere de "sin" kaj "ante" oni povas kompari aferojn. — By means of "sin" and "ante" one can compare things.)*
 
-* toki pona li toki ***pona***. *(Tokipono estas bona lingvo.)*
-* toki pona li toki pi ***pona sin***. *(Tokipono estas pli bona lingvo.)*
-* toki pona li toki pi ***pona sin ante*** toki Losupan. *(Tokipono estas pli bona lingvo ol Loĵbano.)*
-* toki pona li toki pi ***pona sin ante ale***. *(Tokipono estas pli bona lingvo ol ĉiu. Tokipono estas la plej bona lingvo.)*
-* toki pona li toki pi ***pona sin ante*** ale pi ijo ni: mi kama sona e ona. *(Tokipono estas pli bona lingvo ol ĉiu, kiun mi (iam) lernis. Tokipono estas la plej bona lingvo, kiun mi (iam) lernis.)*
-* toki pona li pona pi ***sin*** ala ***ante*** toki Epelanto. *(Tokipona ne estas pli bona ol Esperanto.)*
- * toki pona li pona ***taso ante*** toki Epelanto. *(Tokipono estas malpli bona ol Esperanto.)*
+* toki pona li toki ***pona***. *(Tokipono estas bona lingvo. — Toki Pona is a good language.)*
+* toki pona li toki pi ***pona sin***. *(Tokipono estas pli bona lingvo. — Toki Pona is a better language.)*
+* toki pona li toki pi ***pona sin ante*** toki Losupan. *(Tokipono estas pli bona lingvo ol Loĵbano. — Toki Pona is a better language than Lojban.)*
+* toki pona li toki pi ***pona sin ante ale***. *(Tokipono estas pli bona lingvo ol ĉiu. Tokipono estas la plej bona lingvo. — Toki Pona is a better language than everyone. Toki Pona is the best language.)*
+* toki pona li toki pi ***pona sin ante*** ale pi ijo ni: mi kama sona e ona. *(Tokipono estas pli bona lingvo ol ĉiu, kiun mi (iam) lernis. Tokipono estas la plej bona lingvo, kiun mi (iam) lernis. — Toki Pona a better language than everyone, that I have (ever) learnt. Toki Pona is the best language, that I have (ever) learnt.)*
+* toki pona li pona pi ***sin*** ala ***ante*** toki Epelanto. *(Tokipona ne estas pli bona ol Esperanto. — Toki Pona isn't better than Esperanto.)*
+ * toki pona li pona ***taso ante*** toki Epelanto. *(Tokipono estas malpli bona ol Esperanto. — Toki Pona is less good than Esperanto.)*
 
 #### mute nimi monsi
-*(Subfrazoj kaj Relativoj Frazoj)*
+*(Subfrazoj kaj Relativoj Frazoj — Sub-Clauses and Relative Clauses)*
 
 [mute nimi](nimi.md#nimi-ilo) lon monsi pi nimi "ni" li ken lon.
-*(Subfrazoj eblas.)*
+*(Subfrazoj eblas. — Sub-clauses are possible.)*
 
-* mi pilin pona tan ***ni: sina kama sona e toki pona***. *(Mi ĝojas, ĉar vi lernas Tokiponon.)*
- * → tan ***ni, sina kama sona e toki pona,*** la mi pilin pona. *(Ĉar vi lernas Tokiponon, mi ĝojas.)*
+* mi pilin pona tan ***ni: sina kama sona e toki pona***. *(Mi ĝojas, ĉar vi lernas Tokiponon. — I'm happy, because you learn Toki Pona.)*
+ * → tan ***ni, sina kama sona e toki pona,*** la mi pilin pona. *(Ĉar vi lernas Tokiponon, mi ĝojas. — Because you learn Toki Pona, I'm happy.)*
 
 [mute nimi](nimi.md#nimi-ilo) lon monsi pi nimi "pi ijo ni" li ken lon.
-*(Relativaj frazoj eblas.)*
+*(Relativaj frazoj eblas. — Relative clauses are possible.)*
 
 * mi pana e moku tawa jan ***ni: ona li kama lon tomo mi***. *(Mi donis manĝon al tiu persono: li aperis en mia domo.)*
  * → mi pana e moku tawa jan ***pi ijo ni: ona li kama lon tomo mi***. *(Mi donis manĝon al la persono, kiu aperis en mia domo.)*
