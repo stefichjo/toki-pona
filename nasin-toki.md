@@ -206,37 +206,37 @@ nimi "nanpa" li ken kama wan nimi.
 nimi "taso ni la" li kama "taso".
 *("taso ni la" fariĝas "taso". — "taso ni la" becomes "taso".)*
 
-* ***taso ni la*** mije en meli li pali li pilin pona. *(Malgraŭ tio viroj kaj virinoj laboras kaj estas gajaj.)*
- * → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj.)*
+* ***taso ni la*** mije en meli li pali li pilin pona. *(Malgraŭ tio viroj kaj virinoj laboras kaj estas gajaj. — Nonetheless, men and women work and are happy.)*
+ * → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj. — But men and women work and are happy.)*
 
 nimi "sike" li ken kama [nimi suli palisa](nimi.md#nimi-ilo-palisa).
-*("sike" povas fariĝi transitiva verbo.)*
+*("sike" povas fariĝi transitiva verbo. — "sike" can become a transitive verb.)*
 
-* lipu li ***sike***. *(La folio estas ronda.)*
- * mi ***sike e*** lipu. *(Mi rondigas la folion.)*
-* → mi ***sike e*** suno. *(Mi rondiras la sunon.)*
+* lipu li ***sike***. *(La folio estas ronda. — The leaf is round.)*
+ * mi ***sike e*** lipu. *(Mi rondigas la folion. — I make the leaf round.)*
+* → mi ***sike e*** suno. *(Mi rondiras la sunon. — I orbit around the sun.)*
 
 nimi "ala anu" lon insa pi nimi sama tu li ken kama nimi "ala".
-*("ala anu" inter du samaj vortoj povas fariĝi "ala".)*
+*("ala anu" inter du samaj vortoj povas fariĝi "ala". — "ala anu" between two same words can become "ala".)*
 
-* ona li ***mama ala anu mama***? *(Ĉu ŝi estas gepatro?)*
+* ona li ***mama ala anu mama***? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
  * → ona li ***mama ala mama?***
 
 nimi "mute ala" li ken kama nimi "lili".
-*("mute ala" povas fariĝi "lili".)*
+*("mute ala" povas fariĝi "lili". — "mute ala" can become "lili".)*
 
-* jan ***mute*** *(multaj personoj)*
- * jan pi ***mute lili*** *(kelkaj personoj)*
- * jan pi ***mute ala*** *(malmultaj personoj)*
+* jan ***mute*** *(multaj personoj — many people)*
+ * jan pi ***mute lili*** *(kelkaj personoj — some people)*
+ * jan pi ***mute ala*** *(malmultaj personoj — few people)*
     * → jan ***lili***
-* jan lili *(malgranda persono; infano)*
+* jan lili *(malgranda persono; infano — small person; child)*
 
 nimi "o, o" li ken kama nimi "o".
-*("o, o" povas fariĝi "o".)*
+*("o, o" povas fariĝi "o". — "o, o" can become "o")*
 
-* jan Ali ***o, o*** wawa. *(Ho Ali, estu forta.)*
+* jan Ali ***o, o*** wawa. *(Ho Ali, estu forta. — Hey Ali, be strong.)*
  * → jan Ali ***o*** wawa.
-* jan Ali ***o*** wawa. *(Ali estu forta.)*
+* jan Ali ***o*** wawa. *(Ali estu forta. — Ali is supposed to be strong.)*
 
 ## toki apeja
 *(Skisma Lingvaĵo — Schismatic Language)*
