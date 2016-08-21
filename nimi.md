@@ -14,7 +14,7 @@
 * **ike** *(malbona)*
 * **ilo** *(utila)* `Ü` → ~~ijo~~ **…** *(utilaĵo; ilo, instrumento, organo)*
 * **jaki** *(malpura)*
-* **jan** *(anima)* `Ü` → ~~sijelo~~ **…** *(anima besto; ulo, persono, homo)*
+* **jan** *(konscia)* `Ü` → ~~sijelo~~ **…** *(konscia besto; ulo, persono, homo)*
 * **jelo** *(flava)*
 * **jo** *(havi)*
 * **kala** *(naĝanta)* `Ü` → ~~sijelo~~ **…** *(naĝanta vesto; fiŝo)*
@@ -36,7 +36,7 @@
 * **linja** *(linia)* → ~~ijo~~ **…** *(liniaĵo; haro)*
 * **lipu** *(ebena)* `Ü` → ~~ijo~~ **…** *(ebenaĵo; folio, paĝo, dokumento)*
 * **loje** *(ruĝa)*
-* **luka** *(tuŝi, atingi)* → ~~ilo~~ **…** *(tuŝilo, atingilo; mano, brako)*
+* **luka** *(tuŝi, atingi, manipuli)* → ~~ilo~~ **…** *(tuŝilo, atingilo, manipulilo; mano, brako)*
 * **lupa** *(malplena, kava)* `Ü` → ~~ijo~~ **…** *(malplenaĵo, kavaĵo; truo)*
 * **ma** *(vasta)* `Ü` → **…** *(vasto; ejo, loko, spaco)* `Ü` → ~~ijo~~ **…** *(vastaĵo; lando, grundo, kampo, tero)*
 * **mama** *(krei)* `Ü` → ~~jan~~ **…** *(kreanto; gepatro)*
@@ -54,12 +54,12 @@
 * **nasin** *(direkti)* `Ü` → ~~ijo~~ **…** *(direktaĵo; vojo, strato, maniero)*
 * **nena** *(elstara)* `Ü` → ~~ijo~~ **…** *(elstaraĵo; nazo, monto, faldo)*
 * **ni** *(tiu)* → ~~ijo~~ **…** *(tio)*
-* **nimi** *(signifa)* `Ü` → ~~ijo~~ **…** *(signifaĵo; vorto, nomo)*
+* **nimi** *(simbola)* `Ü` → ~~ijo~~ **…** *(simbolaĵo; vorto, nomo)*
 * **olin** *(ami)*
 * **ona** *(ŝi, li, ĝi, ili)*
 * **open** *(trairebla, malfermita)* `Ü` → ~~ma~~ **…** *(traireblo, malfermiteco)* → kepeken nasin lon **open** *(laŭ vojo en la traireblo; tra)* `Ü`
 * **pakala** *(aĉa)*
-* **pali** *(fari, labori, efektivigi)*
+* **pali** *(labori, fari, efektivigi)*
 * **palisa** *(montri, indiki)* `Ü` → ~~ilo~~ **…** *(montrilo, indikilo; fingro, bastono)*
 * **pan** *(rakolti)* `Ü` → ~~ijo~~ **…** *(rakoltaĵo; semo, greno, rizo)* → ~~moku pi ijo~~ **…** *(grenaĵo; pano)*
 * **pana** *(doni)*
@@ -78,7 +78,7 @@
 * **sina** *(vi)*
 * **sitelen** *(signi, skribi, desegni, pentri, registri)*
 * **soweli** *(varmsanga, ĉarma)* `Ü` → ~~sijelo~~ **…** *(varmsanga besto, ĉarma besto; mamulo)*
-* **suli** *(granda)*
+* **suli** *(granda, peza, grava, signifa)*
 * **suno** *(brilanta)* → ~~ijo~~ **…** *(brilaĵo; lumo, suno)*
 * **supa** *(horizontala)* `Ü` → ~~ijo~~ **…** *(horizontalaĵo; seĝo, lito, tablo)* → lon **supa** *(sur)* `Ü`
 * **suwi** *(dolĉa)* → ~~ijo~~ **…** *(dolĉaĵo)*
@@ -100,12 +100,12 @@
 ### nimi lawa
 *(Substantivoj - Nouns)*
 
-**nimi lawa** li nimi "mi" en nimi "sina" en nimi "ona" en nimi "ijo". [nimi ijo](#nimi-ijo) ante li [nimi monsi](#nimi-monsi). **nimi lawa** li kama [nimi monsi](#nimi-monsi), la ona li jo e kon poka "jo".
-*("mi", "sina", "ona" kaj "ijo" estas substantivoj. Aliaj radikaj vortoj estas modifiloj. Kiam substantivo fariĝas modifilo, ĝi kunhavas la signifon "posedo".)*
+**nimi lawa** li nimi "mi" en nimi "sina" en nimi "ona" en nimi "ijo". [nimi ijo](#nimi-ijo) ante li [nimi monsi](#nimi-monsi). **nimi lawa** li kama [nimi monsi](#nimi-monsi), la ona li jo e suli poka pi nimi "jo".
+*("mi", "sina", "ona" kaj "ijo" estas substantivoj. Aliaj radikaj vortoj estas modifiloj. Kiam substantivo fariĝas modifilo, ĝi havas la kromsignifon "posedo".)*
 
 * ***sina*** jo e lipu seme? *(Kiun libron vi havas?)* → lipu ***sina*** li seme? *(Kiu estas via libro?)*
 
-[nimi monsi](#nimi-monsi) mute li ken kama [nimi lawa](#nimi-lawa) pi kon sin tan ni: ona li jo e [nimi lawa](#nimi-lawa) weka.
+[nimi monsi](#nimi-monsi) mute li ken kama [nimi lawa](#nimi-lawa) pi suli sin tan ni: ona li jo e [nimi lawa](#nimi-lawa) weka.
 *(Multaj modifiloj povas fariĝi substantivoj kun aldona signifo, ĉar ili havas implican substantivon.)*
 
 * ***suno*** *(brilanta)*
