@@ -115,96 +115,96 @@ nimi "nimi" li kama weka lon sinpin pi nimi tan jan ante anu nimi pi ijo ante.
  * → ona li kute e ***mu*** wawa.
 
 ### nimi suli sinpin
-*(Helpaj Verboj)*
+*(Helpaj Verboj — Auxilary Verbs)*
 
 [mute nimi](nimi.md#nimi-ilo) pi nanpa tu li lon monsi pi [nimi ilo](nimi.md#nimi-ilo) "e" pi [mute nimi](nimi.md#nimi-ilo) pi nanpa wan, la [nimi suli](nimi.md#nimi-ilo) pi nanpa wan li ken kama [nimi suli sinpin](nimi.md#nimi-suli-sinpin) pi [nimi suli](nimi.md#nimi-ilo) pi nanpa tu.
-(*Se dua frazo estas la rekta objekto de la unua frazo, la verbo de la unua frazo povas fariĝi la helpa verbo de la dua verbo.)*
+*(Se dua frazo estas la rekta objekto de unua frazo, la verbo de la unua frazo povas fariĝi la helpa verbo de la dua verbo. — If a second sentence is the direct object of a first sentence, the verb of the first sentence can become the auxilary verb of the second sentence.)*
 
-* ***mi*** kama ***e ni: mi*** moku. *(Mi komencas, ke mi manĝas.)*
- * → ***mi*** kama moku. *(Mi komencas manĝi.)*
+* ***mi*** kama ***e ni: mi*** moku. *(Mi komencas, ke mi manĝas. — I start that I eat.)*
+ * → ***mi*** kama moku. *(Mi komencas manĝi. — I start eating.)*
 
 [nimi suli sinpin](nimi.md#nimi-suli-sinpin) "sona ken" li kama nimi "sona". [nimi suli sinpin](nimi.md#nimi-suli-sinpin) "wile lukin" li kama nimi "lukin".
-*(La helpaj verboj "sona ken" fariĝas "sona". La helpaj verboj "wile lukin" fariĝas "lukin".)*
+*(La helpaj verboj "sona ken" fariĝas "sona". La helpaj verboj "wile lukin" fariĝas "lukin". — The auxilary verbs "sona ken" become "sona". The auxilary verbs "wile lukin" become "lukin".)*
 
-* jan mute li ***sona ala ken*** tawa lon telo. *(Multaj personoj ne scipovas naĝi.)*
+* jan mute li ***sona ala ken*** tawa lon telo. *(Multaj personoj ne scipovas naĝi. — Many people don't know how to swim.)*
  * → jan mute li ***sona ala*** tawa lon telo.
-* mije wawa li ***wile lukin*** jo e meli pona. *(La forta viro serĉas bonan virinon.)*
+* mije wawa li ***wile lukin*** jo e meli pona. *(La forta viro serĉas bonan virinon. — The strong man is looking for a woman.)*
  * → mije wawa li ***lukin*** jo e meli pona.
 
 [nimi suli](nimi.md#nimi-ilo) pi palisa ala li kama palisa, la [nimi suli](nimi.md#nimi-ilo) lon sinpin ona li kama weka.
-*(Kiam netransitiva verbo fariĝas transitiva, helpa verbo malaperas.)*
+*(Kiam netransitiva verbo fariĝas transitiva, ĝia helpa verbo malaperas. — When an intransitive verb becomes transitive, its auxilary verb disappears.)*
 
-* telo li ijo e ni: mi ***kama wawa***. *(Akvo igas, ke mi fortiĝas.)*
- * → telo li ***wawa*** e mi. *(Akvo fortigas min.)*
-* telo li kama ***wawa*** e mi. *(Akvo komencas fortigi min.)*
+* telo li ijo e ni: mi ***kama wawa***. *(Akvo igas, ke mi fortiĝas. — Water makes, that I become strong.)*
+ * → telo li ***wawa*** e mi. *(Akvo fortigas min. — Water makes me strong.)*
+* telo li kama ***wawa*** e mi. *(Akvo komencas fortigi min. — Water starts to make me strong.)*
 
 [nimi suli sinpin](nimi.md#nimi-suli-sinpin) "awen" li ken kama weka.
-*(La helpa verbo "awen" povas malaperi.)*
+*(La helpa verbo "awen" povas malaperi. — The auxilary verb "awen" can disappear.)*
 
-* ona li ***awen moku***. *(Ŝi restas manĝanta. Ŝi plu manĝas. Ŝi manĝadas.)*
- * → ona li ***moku***. *(Ŝi manĝas.)*
+* ona li ***awen moku***. *(Ŝi restas manĝanta. Ŝi plu manĝas. Ŝi manĝadas. — She keeps on eating.)*
+ * → ona li ***moku***. *(Ŝi manĝas. — She eats.)*
 
 ### nimi monsi palisa
-*(Prepozicioj)*
+*(Prepozicioj — Prepositions)*
 
 [nimi suli sinpin](nimi.md#nimi-suli-sinpin) li sama [nimi suli](nimi.md#nimi-suli), la [nimi monsi palisa](nimi.md#nimi-monsi-palisa) lon monsi ona li ken sama [nimi suli](nimi.md#nimi-suli). [nimi monsi palisa](nimi.md#nimi-monsi-palisa) li ken ala jo e [nimi suli sinpin](nimi.md#nimi-suli-sinpin).
-*(Kiam helpa verbo uziĝas kiel verbo, prepozicio malantaŭ ĝi povas ŝajni verbo. Sed prepozicioj ne povas havi helpan verbon.)*
+*(Kiam helpa verbo uziĝas kiel verbo, prepozicio malantaŭ ĝi povas ŝajni verbo. Sed prepozicioj ne povas havi helpan verbon. — When an auxilary verb is used as a verb, a preposition behind it can seem to be a verb. But prepositions can't have an auxilary verb.)*
 
-* ona li ***awen***. *(Ŝi restas.)*
-* ona li ***awen*** lon tomo. *(Ŝi restas hejme.)*
- * → ona li ***awen lon*** tomo. *(Ŝi plu estas hejme. Ŝi estadas hejme.)*
+* ona li ***awen***. *(Ŝi restas. — She stays.)*
+* ona li ***awen*** lon tomo. *(Ŝi restas hejme. ­— She stays home.)*
+ * → ona li ***awen lon*** tomo. *(Ŝi plu estas hejme. Ŝi estadas hejme. — She keeps being home.)*
 
 ### mute nimi
-*(Frazoj)*
+*(Frazoj — Sentences)*
 
 nimi lon sinpin pi [nimi ilo](nimi.md#nimi-ilo) "li" li ken kama weka. nasin ni la jan ken toki sin lon tenpo lili. [mute nimi](nimi.md#nimi-ilo) pi wile sona la nimi "ni li lon" li ken kama weka.
-*(La subjekto povas malaperi por respondi rapide. En demando, la vortoj "ni li lon" povas malaperi.)*
+*(La subjekto povas malaperi por respondi rapide. En demando, la vortoj "ni li lon" povas malaperi. — The subject can disappear in order to answer quickly. In a question, the words "ni li lon" can disappear.)*
 
-* ni li ***pona***. *(Tio estas bona.)* → ***pona***. *(Dankon.)*
-* ona li ***mama***. *(Ŝi estas gepatro.)* → ***mama***. *(Jes.)*
- * ona li ***mama ala***. *(Ŝi ne estas gepatro.)* → ***mama ala***. → ***ala***. *(Ne.)*
-* ~~ni li ***lon,***~~ ona li mama, anu seme? *(Ĉu ŝi estas gepatro?)*
+* ni li ***pona***. *(Tio estas bona. — That's good.)* → ***pona***. *(Dankon. — Thanks.)*
+* ona li ***mama***. *(Ŝi estas gepatro. — She's a parent.)* → ***mama***. *(Jes. — Yes.)*
+ * ona li ***mama ala***. *(Ŝi ne estas gepatro. — She isn't a parent.)* → ***mama ala***. → ***ala***. *(Ne. — No.)*
+* ~~ni li ***lon,***~~ ona li mama, anu seme? *(Ĉu ŝi estas gepatro? — Is she a parent.)*
  * → ona li mama***,*** anu seme?
-    * ***lon***. *(Jes.)*
+    * ***lon***. *(Jes. — Yes.)*
 
 ## toki namako
 *(Aldona Lingvaĵo — Additional Language)*
 
 nimi "ale" en nimi "sin" en nimi "a" en nimi "lukin" li ken kama "ali", "namako", "kin" en "oko".
-*("ale, "sin", "a" kaj "lukin" povas fariĝi "ali", "namako", "kin" kaj "oko".)*
+*("ale, "sin", "a" kaj "lukin" povas fariĝi "ali", "namako", "kin" kaj "oko". — "ale, "sin", "a" and "lukin" can become "ali", "namako", "kin" kaj "oko".)*
 
-* ***ale*** *(ĉiu)*
+* ***ale*** *(ĉiu — every)*
  * → ***ali***
-* ***sin*** *(aldona)*
+* ***sin*** *(aldona — additional)*
  * → ***namako***
-* ***a*** *(ha, ja)*
+* ***a*** *(ha, ja — indeed)*
  * → ***kin***
-* ***lukin*** *(vidi, okulo)*
+* ***lukin*** *(vidi, okulo — to see, eye)*
  * → ***oko***
 
 [nimi kalama](nimi.md#nimi-kalama) "a" li ken kama [nimi ilo](nimi.md#nimi-ilo) pi palisa ala. ni la nimi "a" li jo ala e sitelen sin.
 *(La sonimito "a" povas fariĝi netransitiva partikulo. Tiam "a" ne havas komon.)*
 
-* ona li kalama musi***, a!*** *(Ŝi ja muzikas.)*
- * → ona li kalama musi ***a.*** *(Ŝi eĉ/ankaŭ muzikas.)*
-    * → ona ***a*** li kalama musi. *(Eĉ/ankaŭ ŝi muzikas.)*
+* ona li kalama musi***, a!*** *(Ŝi ja muzikas. — She plays music indeed.)*
+ * → ona li kalama musi ***a.*** *(Ŝi eĉ/ankaŭ muzikas. — She plays music, too.)*
+    * → ona ***a*** li kalama musi. *(Eĉ/ankaŭ ŝi muzikas. — Even she plays music.)*
 
 nimi nanpa tu li ken kama wan.
-*(Du numeraloj povas unuiĝi.)*
+*(Du numeraloj povas unuiĝi. — Two numerals can become one.)*
 
-* mi sona e toki ***tu*** e toki ***tu***. *(Mi konas du lingovjn kaj du lingvojn. Mi konas kvar lingvojn.)*
+* mi sona e toki ***tu*** e toki ***tu***. *(Mi konas du lingovjn kaj du lingvojn. Mi konas kvar lingvojn. — I know two languages and two languages. I know four languages.)*
  * → mi sona e toki tu tu.
 
 nimi "nanpa" li ken kama wan nimi.
-*("nanpa" povas fariĝi parto de nomo.)*
+*("nanpa" povas fariĝi parto de nomo. — "nanpa" can become a part of the name.)*
 
-* toki ***pi nanpa wan*** *(la unua lingvo)*
+* toki ***pi nanpa wan*** *(la unua lingvo — the first language)*
  * → toki ***pi nimi "nanpa wan"***
     * → toki ***nanpa wan***
-* ilo ***nanpa tu*** *(du kalkuliloj)*
+* ilo ***nanpa tu*** *(du kalkuliloj — two calculators)*
 
 nimi "taso ni la" li kama "taso".
-*("taso ni la" fariĝas "taso".)*
+*("taso ni la" fariĝas "taso". — "taso ni la" becomes "taso".)*
 
 * ***taso ni la*** mije en meli li pali li pilin pona. *(Malgraŭ tio viroj kaj virinoj laboras kaj estas gajaj.)*
  * → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj.)*
