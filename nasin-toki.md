@@ -391,3 +391,5 @@ nimi "jan li toki e ijo pi" li ken kama weka lon monsi pi nimi "la". tenpo ni la
 * mi ***olin e ni: mi*** kama sona e jan pona sina. *(Mi amas konatiĝi kun via amiko. — I love to get to know your friend.)*
  * → mi ***olin*** kama sona e jan pona sina.
 
+## [toki musi](toki-musi.md)
+*(Luda Lingvaĵo — Fun Language)*
