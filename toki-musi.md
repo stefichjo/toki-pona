@@ -212,3 +212,5 @@ nimi sijelo "akesi", "jan", "kala", "kasi", "pipi", "soweli" en "waso" li sin.
 * ***sijelo kon*** *(aera vivaĵo — living being of air)*
  * → ***waso*** *(birdo — bird)*
 
+# [nasin toki pi toki pona](nasin-toki.md)
+*(Gramatiko de Tokipono — Grammar of Toki Pona)*
