@@ -116,6 +116,20 @@ nimi nanpa li ken kama [nimi lawa](nimi.md#nimi-lawa).
 * ***ale*** nimi *(ĉiom da vorto, tuto da vorto; tuta vorto — all of the word; the whole word)*
 * ***ale*** pi nimi mute *(ĉiom da vortoj, tuto da vortoj; vortaro — all the words; dictionary)*
 
+#### sitelen sin lon insa nimi
+*(Nova Interpunkcio — New Interpunctuation)*
+
+[nimi monsi](nimi.md#nimi-monsi) li ken jo e sitelen "pi".
+*(Modifilo povas havi ligostrekon. — A modifier can have a hiphen.)*
+
+* mi pana e tomo tawa sina. *(I give the room to you.)*
+* mi pana e tomo***-tawa-sina***. *(I give your car.)*
+
+[nimi suli sinpin](nimi.md#nimi-suli-sinpin) li ken jo e sitelen "en".
+*(Helpa verbo povas havi plus-signon. — An auxilary verb can have a plus sign.)*
+
+* mi ***kama+***sona e toki pona. *(Mi lernas Tokiponon. — I learn Toki Pona.)*
+
 #### kalama nimi sin en sitelen nimi sin
 *(Novaj Prononco kaj Ortografio — New Pronunciation and Orthography)*
 
