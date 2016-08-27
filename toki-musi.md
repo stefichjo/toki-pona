@@ -116,6 +116,41 @@ nimi nanpa li ken kama [nimi lawa](nimi.md#nimi-lawa).
 * ***ale*** nimi *(ĉiom da vorto, tuto da vorto; tuta vorto — all of the word; the whole word)*
 * ***ale*** pi nimi mute *(ĉiom da vortoj, tuto da vortoj; vortaro — all the words; dictionary)*
 
+#### kalama nimi sin en sitelen nimi sin
+*(Novaj Prononco kaj Ortografio — New Pronunciation and Orthography)*
+
+kalama "j" li jo e sitelen "y".
+*(La sono "j" skribiĝas "y". — The sound "j" is written "y".)*
+
+* ~~***j***elo~~ → ***y***elo *(flava — yellow)*
+
+kalama "np" li kama ante li jo e sitelen "mp".
+*(La sono "np" ŝanĝiĝas kaj skribiĝas "mp". — The sound "np" changes and is written "mp".)*
+
+* ~~te***np***o~~ → te***mp***o *(tempo — time)*
+
+kalama nanpa wan pi nimi monsi en sitelen ona li ken kama ante.
+*(La unua sono de modifilo kaj ĝia letero povas ŝanĝiĝi. — The first sound of a modifier and its letter can change.)*
+
+* jan ~~***p***ona~~ → yan ***b***ona *(amiko — friend)*
+* tomo ~~***t***awa~~ → tomo ***d***awa *(aŭto — car)*
+* tempo ~~***s***uno~~ → tempo ***z***uno *(tago — day)*
+* jan ~~***k***ulupu~~ → yan ***g***ulupu *(membro — member)*
+
+kalama lon monsi pi kalama "i" li ken kama ante.
+*(La sono antaŭ "i" povas ŝanĝiĝi. — The sound before "i" can change.)*
+
+* ~~***pi***~~ → ***fi*** *(de — of, from)*
+* ~~ka***si***~~ → ka***ci*** *(planto — plant)*
+* ~~to***ki***~~ → to***xi*** *(komuniki — to communicate)* 
+
+tan ni la kalama nanpa wan pi nimi monsi lon monsi pi kalama "i" li kama ante mute.
+*(Tial, la komenca sono de modifilo tre variiĝas antaŭ "i". — Therefore, the first sound of a modifier can vary very much.)*
+
+* tempo ~~***p***ini~~ → tempo ***vi***ni *(pasinto — past)*
+* soweli ~~***s***ina~~ → soweli ***ji***na *(via kato — your cat)*
+* telo ~~***k***ili~~ → telo ***hi***li *(suko — juice)*
+
 ### toki pini
 *(Pasinta Lingvaĵo — Language of the Past)*
 
