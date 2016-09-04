@@ -269,6 +269,13 @@ nimi "pana e" li ken kama weka.
 * mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon. — I translate the movie.)*
  * → mi ante ***toki e*** sitelen tawa.
 
+[nimi monsi palisa](nimi.md#nimi-monsi-palisa) li ken kama [nimi ilo](nimi.md#nimi-ilo) "pi".
+
+* mi toki e ni ***lon toki pona***. *(Mi diras tion en Tokipono. Mi diras tion Tokipone. — I say it in Toki Pona.)*
+ * → mi toki ***pi toki pona*** e ni.
+* mi pana e lipu ***kepeken esun*** tawa jan pona. *(Mi donas la libron per interŝanĝo al amiko. Mi vendas la libron al amiko. — I sell the book to a friend.)*
+ * → mi pana ***esun*** e lipu tawa jan pona.
+
 nimi pi "ni" lon sinpin pi [mute nimi](nimi.md#nimi-ilo) li ken kama weka.
 *(Vortoj de subfrazo povas malaperi. — Words of a subordinate clause can disappear.)*
 
