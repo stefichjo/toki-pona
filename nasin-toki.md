@@ -259,23 +259,6 @@ nimi "pana e" li ken kama weka.
 * mi ***pana e*** telo tawa kasi. *(Mi akvumas la planton. — I water the plant.)*
  * → mi ***telo e*** kasi.
 
-[nimi ilo](nimi.md#nimi-ilo) "e" li ken kama [nimi ilo](nimi.md#nimi-ilo) "pi".
-*(La partikulo "e" povas fariĝi la partikulo "pi". — The particle "e" can become the particle "pi".)*
-
-* mi lukin ***e anpa***. *(Mi rigardas malsupren. — I look up.)*
- * → mi lukin ***anpa***.
-* mi pana ***e lukin pi*** tomo sona. *(Mi montras la lernejon. — I show the school.)*
- * → mi pana ***lukin e*** tomo sona.
-* mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon. — I translate the movie.)*
- * → mi ante ***toki e*** sitelen tawa.
-
-[nimi monsi palisa](nimi.md#nimi-monsi-palisa) li ken kama [nimi ilo](nimi.md#nimi-ilo) "pi".
-
-* mi toki e ni ***lon toki pona***. *(Mi diras tion en Tokipono. Mi diras tion Tokipone. — I say it in Toki Pona.)*
- * → mi toki ***pi toki pona*** e ni.
-* mi pana e lipu ***kepeken esun*** tawa jan pona. *(Mi donas la libron per interŝanĝo al amiko. Mi vendas la libron al amiko. — I sell the book to a friend.)*
- * → mi pana ***esun*** e lipu tawa jan pona.
-
 nimi pi "ni" lon sinpin pi [mute nimi](nimi.md#nimi-ilo) li ken kama weka.
 *(Vortoj de subfrazo povas malaperi. — Words of a subordinate clause can disappear.)*
 
@@ -371,6 +354,24 @@ nimi "jan li toki e ijo pi" li ken kama weka lon monsi pi nimi "la". tenpo ni la
 
 ### toki mu
 *(Bleka Lingvaĵo — Bleating Language)*
+
+[nimi ilo](nimi.md#nimi-ilo) "e" li ken kama [nimi ilo](nimi.md#nimi-ilo) "pi".
+*(La partikulo "e" povas fariĝi la partikulo "pi". — The particle "e" can become the particle "pi".)*
+
+* mi lukin ***e anpa***. *(Mi rigardas malsupren. — I look up.)*
+ * → mi lukin ***anpa***.
+* mi pana ***e lukin pi*** tomo sona. *(Mi montras la lernejon. — I show the school.)*
+ * → mi pana ***lukin e*** tomo sona.
+* mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon. — I translate the movie.)*
+ * → mi ante ***toki e*** sitelen tawa.
+
+[nimi monsi palisa](nimi.md#nimi-monsi-palisa) li ken kama [nimi ilo](nimi.md#nimi-ilo) "pi".
+*(Prepozicio povas fariĝi la partikulo "pi". — A preposition can become the particle "pi")*
+
+* mi toki e ni ***lon toki pona***. *(Mi diras tion en Tokipono. Mi diras tion Tokipone. — I say it in Toki Pona.)*
+ * → mi toki ***pi toki pona*** e ni.
+* mi pana e lipu ***kepeken esun*** tawa jan pona. *(Mi donas la libron per interŝanĝo al amiko. Mi vendas la libron al amiko. — I sell the book to a friend.)*
+ * → mi pana ***esun*** e lipu tawa jan pona.
 
 [nimi ma](nimi.md#nimi-ma) li ken kama [nimi monsi palisa](nimi.md#nimi-monsi-palisa).
 *(Spaca vorto povas fariĝi prepozicio. — A location word can become a preposition.)*
