@@ -7,13 +7,13 @@ ___
 ___
 
 **tawa ona la  
-luka kepeken luka la mi mute li kama lon,  
+luka kepeken luka la mi tu li kama lon,  
 jan Kitopa Jopin en mi,  
-tan ni: mi mute li wile pana e lipu ni tawa sina.  
+tan ni: mi tu li wile pana e lipu ni tawa sina.  
 sina pilin pi sin nasa anu seme?  
 sina wile e ni e ala ante anu seme?  
 ona li ijo sina  
-tan ni: mi mute li olin e sina.**
+tan ni: mi tu li olin e sina.**
 
 ___
 * waso walo *(cigno)*
