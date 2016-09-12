@@ -26,7 +26,7 @@ nimi "pini" li ken kama [nimi suli sinpin](nimi.md#nimi-suli-sinpin).
 *(Sonimitoj povas fariĝi verbo. — Onomatopoeia can become verbs.)*
 
 * soweli li ***toki e "mu"***. *(La kato diras "miaŭ".)*
- * soweli li ***mu***. *(La kato miaŭas.)*
+ * → soweli li ***mu***. *(La kato miaŭas.)*
 
 #### nimi monsi palisa sin
 *(Novaj Prepozicioj — New Prepositions)*
