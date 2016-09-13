@@ -19,15 +19,6 @@ nimi "pini" li ken kama [nimi suli sinpin](nimi.md#nimi-suli-sinpin).
 * mi ***lon awen moku***. *(Mi estas skribadanta. — I am constantly writing.)*
 * mi ***tawa kama moku***. *(Mi estas ekskribonta. — I am about to begin to write.)*
 
-#### nimi suli kalama sin
-*(Novaj Sonimitaj Verboj)*
-
-[nimi kalama](nimi.md#nimi-kalama) li ken kama [nimi suli](nimi.md#nimi-ilo).
-*(Sonimitoj povas fariĝi verbo. — Onomatopoeia can become verbs.)*
-
-* soweli li ***toki e "mu"***. *(La kato diras "miaŭ".)*
- * → soweli li ***mu***. *(La kato miaŭas.)*
-
 #### nimi monsi palisa sin
 *(Novaj Prepozicioj — New Prepositions)*
 
