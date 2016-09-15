@@ -74,6 +74,9 @@ nimi "jo e pilin" li kama nimi "pilin".
  * mi ***jo e pilin*** pi pona mute. *(Mi havas tre bonan senton. — I have a very good feeling.)*
     * → mi ***pilin*** pi pona mute. *(Mi fartas tre bone. — I feel very good.)*
 
+### nimi weka
+*(Mankantaj Vortoj)*
+
 nimi lon sinpin pi [nimi ilo](nimi-ilo) "la" la [nimi monsi](nimi.md#nimi-monsi) palisa "lon" (en nimi "ni") li kama weka. "
 *(En helpa frazero, la prepozicio "lon" (kaj "ni") malaperas.)*
 
@@ -81,9 +84,6 @@ nimi lon sinpin pi [nimi ilo](nimi-ilo) "la" la [nimi monsi](nimi.md#nimi-monsi)
  * → kulupu la mi wawa.
 * ***~~lon ni,~~*** mi pona tawa jan, la jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
  * → mi pona tawa jan, la jan li pona tawa mi.
-
-### nimi lawa weka
-*(Mankantaj Substantivoj)*
 
 nimi lon monsi pi [nimi ilo](nimi.md#nimi-ilo) "e" li [nimi lawa](nimi.md#nimi-lawa) "ijo", la ona li ken kama weka.
 *(Se la rekta objekto estas la substantivo "ijo", ĝi povas malaperi. — If the direct object is the noun "ijo", it can diappear.)*
@@ -102,6 +102,12 @@ nimi lon monsi pi [nimi ilo](nimi.md#nimi-ilo) "e" li [nimi lawa](nimi.md#nimi-l
     * mama pi ***ijo ale*** *(kreanto de ĉio — creator of everything)*
  * mama ***ale*** *(ĉiu gepatro — every parent)*
 
+nimi "pana e" li ken weka lon sinpin pi nimi "kalama".
+*("pana e" povas manki antaŭ "kalama". — "pana e" can disappear before "kalama".)*
+
+* ilo tawa li pana e ***kalama*** wawa. *(La veturilo sonas forte.)*
+ * → ilo tawa li ***kalama*** wawa.
+
 #### nimi kalama
 *(Sonimitoj — Onompatopeia)*
 
@@ -117,10 +123,11 @@ nimi "nimi" li kama weka lon sinpin pi nimi tan jan ante anu nimi pi ijo ante.
 * ona li kute e ***nimi "mu"*** wawa. *(Li aŭdis laŭtan blekon. — He heard a loud bleat.)*
  * → ona li kute e ***mu*** wawa.
 
-[nimi kalama](nimi.md#nimi-kalama) li ken kama [nimi suli](nimi.md#nimi-ilo).
-*(Sonimitoj povas fariĝi verbo. — Onomatopoeia can become verbs.)*
+tan ni la [nimi kalama](nimi.md#nimi-kalama) li ken kama [nimi suli](nimi.md#nimi-ilo).
+*(Tial, sonimitoj povas fariĝi verbo. — Therefore, onomatopoeia can become verbs.)*
 
-* → soweli li ***mu***. *(La kato miaŭas.)*
+* soweli li pana e kalama ***mu***. *(La kato miaŭas.)*
+ * → soweli li ***mu***.
 
 ### nimi suli sinpin
 *(Helpaj Verboj — Auxilary Verbs)*
