@@ -268,8 +268,9 @@ nimi kule "jelo", "laso", "loje", "pimeja" en "walo" li sin.
 kalama "i", "u" li sin. kalama "e", "o" li kama "i", "u" lon ni: wan nimi li lili.
 *(La sonoj "i" kaj "u" estas novaj. La sonoj "e" kaj "o" fariĝas "i" kaj "u" kiam la silabo ne estas akcentata. — The sounds "i" and "u" are new. The sounds "e" and "o" become "i" and "u" when the syllable is not stressed.)*
 
-* tok***e*** pona → tok***i*** pona *(Tokipono — Toki Pona)*
-* ak***e***t***e*** → aki***ti*** → aki***si*** *(reptilo, amfibio — reptile, amphibian)*
+* tok***e*** → tok***i*** *(lingvo — language)*
+* mok***o*** → mok***u*** *(gluti — to swallow)*
+* ake***te*** → aki***ti*** → aki***si*** *(reptilo, amfibio — reptile, amphibian)*
 * te***je***lo → te***ji***lo → te***wi***lo *(vivaĵo — living being)*
 
 # [nasin toki pi toki pona](nasin-toki.md)
