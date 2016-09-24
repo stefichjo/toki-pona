@@ -193,6 +193,27 @@ ken pi toki pakala la jan li ken toki e nimi "ijo" li toki sin e [nimi suli](nim
 * ona li ***ijo moku*** anu ***moku moku***?
 *(Ĉu ĝi estas manĝaĵo aŭ manĝe manĝanta? Ĉu ĝi estas manĝo aŭ ĉu ĝi manĝas? — Is it food or is it eating?)*
 
+##### nimi sijelo sin
+*(Novaj Vortoj por Vivaĵoj — New Words for Living Beings)*
+
+nimi sijelo "akesi", "jan", "kala", "kasi", "pipi", "soweli" en "waso" li sin.
+*(La vortoj por vivaĵoj "akesi", "jan", "kala", "kasi", "pipi", "soweli" kaj "waso" estas novaj. — The words for living beings "akesi", "jan", "kala", "kasi", "pipi", "soweli" and "waso" are new.)*
+
+* ***sijelo lete*** *(malvarma vivaĵo — cold living being)*
+ * → ***akesi*** *(reptilo, amfibio — reptile, amphibian)*
+* ***sijelo sona*** *(scia vivaĵo — knowing living being)*
+ * → ***jan*** *(homo, persono — human being, person)*
+* ***sijelo telo*** *(akva vivaĵo — living being of water)*
+ * → ***kala*** *(fiŝo — fish)*
+* ***sijelo ma*** *(tera vivaĵo — living being of earth)*
+ * → ***kasi*** *(planto — plant)*
+* ***sijelo lili/kiwen/lupa*** *(malgranda/malmola/malplena vivaĵo — small/soft/empty living being)*
+ * → ***pipi*** *(insekto — insect)*
+* ***sijelo seli*** *(varma vivaĵo — warm living being)*
+ * → ***soweli*** *(mamulo — mammal)*
+* ***sijelo kon*** *(aera vivaĵo — living being of air)*
+ * → ***waso*** *(birdo — bird)*
+
 #### nimi suli sin
 *(Novaj Verboj)*
 
@@ -240,26 +261,16 @@ nimi kule "jelo", "laso", "loje", "pimeja" en "walo" li sin.
 * ***kule wawa*** *(forta koloro — strong color)*
  * → ***walo*** *(blanko — white)*
 
-#### nimi sijelo sin
-*(Novaj Vortoj por Vivaĵoj — New Words for Living Beings)*
 
-nimi sijelo "akesi", "jan", "kala", "kasi", "pipi", "soweli" en "waso" li sin.
-*(La vortoj por vivaĵoj "akesi", "jan", "kala", "kasi", "pipi", "soweli" kaj "waso" estas novaj. — The words for living beings "akesi", "jan", "kala", "kasi", "pipi", "soweli" and "waso" are new.)*
+#### kalama sin
+*(Novaj Sonoj — New Sounds)*
 
-* ***sijelo lete*** *(malvarma vivaĵo — cold living being)*
- * → ***akesi*** *(reptilo, amfibio — reptile, amphibian)*
-* ***sijelo sona*** *(scia vivaĵo — knowing living being)*
- * → ***jan*** *(homo, persono — human being, person)*
-* ***sijelo telo*** *(akva vivaĵo — living being of water)*
- * → ***kala*** *(fiŝo — fish)*
-* ***sijelo ma*** *(tera vivaĵo — living being of earth)*
- * → ***kasi*** *(planto — plant)*
-* ***sijelo lili/kiwen/lupa*** *(malgranda/malmola/malplena vivaĵo — small/soft/empty living being)*
- * → ***pipi*** *(insekto — insect)*
-* ***sijelo seli*** *(varma vivaĵo — warm living being)*
- * → ***soweli*** *(mamulo — mammal)*
-* ***sijelo kon*** *(aera vivaĵo — living being of air)*
- * → ***waso*** *(birdo — bird)*
+kalama "i", "u" li sin. kalama "e", "o" li kama "i", "u" lon ni: wan nimi li lili.
+*(La sonoj "i" kaj "u" estas novaj. La sonoj "e" kaj "o" fariĝas "i" kaj "u" kiam la silabo ne estas akcentata. — The sounds "i" and "u" are new. The sounds "e" and "o" become "i" and "u" when the syllable is not stressed.)*
+
+* tok***e*** pona → tok***i*** pona *(Tokipono — Toki Pona)*
+* ak***e***t***e*** → aki***ti*** → aki***si*** *(reptilo, amfibio — reptile, amphibian)*
+* te***je***lo → te***ji***lo → te***wi***lo *(vivaĵo — living being)*
 
 # [nasin toki pi toki pona](nasin-toki.md)
 *(Gramatiko de Tokipono — Grammar of Toki Pona)*
