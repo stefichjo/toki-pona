@@ -81,7 +81,7 @@ ilo musi suli pi supa len!
 
 taso soweli pi palisa lawa li kute ala  
 li toki nasa sin:
-- ni la kama  
+- ni li kama  
 anu seme:  
 supa len ale  
 li kama pakala tan seli?
