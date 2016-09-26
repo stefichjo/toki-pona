@@ -74,8 +74,26 @@ nimi "jo e pilin" li kama nimi "pilin".
  * mi ***jo e pilin*** pi pona mute. *(Mi havas tre bonan senton. — I have a very good feeling.)*
     * → mi ***pilin*** pi pona mute. *(Mi fartas tre bone. — I feel very good.)*
 
+### nimi pi poka ante
+*(Antonimoj — Antonyms)*
+
+toki pona li pona li lili a!
+*(Tokipono estas ne nur pozitiva, paca, amika, simpla, utila (… pura), ĝi ankaŭ estas malgranda, malaŭtoritata, malmultopa (… malforta, malfortika). — …)*
+
+* pona *(bona — good)*
+ * ike ala *(malmava — unbad)* → pona *(pozitiva — positive)*
+ * utala ala *(malbatala — non-competing)* → pona *(paca — peaceful)*
+ * nasa ala *(malstranga, malfreneza — unstrange, uncrazy)* → pona *(amika, simpla — friendly, simple)*
+ * pakala ala *(malaĉa — unharmed)* → pona *(utila — useful)*
+ * … jaki ala *(malsordida — undirty)* → pona *(pura — clean)*
+
+* lili *(eta — small)*
+ * suli ala *(malgranda, malaŭtoritata — unlarge, unauthorative)* → lili *(pita — little)*
+ * mute ala *(malmultopa)* → lili *(poka — few)*
+ * … wawa ala *(malforta, malfortika)* → lili *(febla, fragila — weak, fragile)*
+
 ### nimi weka
-*(Mankantaj Vortoj)*
+*(Mankantaj Vortoj — Missing Words)*
 
 nimi lon sinpin pi [nimi ilo](nimi-ilo) "la" la [nimi monsi](nimi.md#nimi-monsi) palisa "lon" (en nimi "ni") li kama weka. "
 *(En helpa frazero, la prepozicio "lon" (kaj "ni") malaperas.)*
