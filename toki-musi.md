@@ -122,13 +122,34 @@ nimi nanpa li ken kama [nimi lawa](nimi.md#nimi-lawa).
 [nimi monsi](nimi.md#nimi-monsi) li ken jo e sitelen "pi".
 *(Modifilo povas havi ligostrekon. — A modifier can have a hiphen.)*
 
-* mi pana e tomo tawa sina. *(I give the room to you.)*
-* mi pana e tomo***-tawa-sina***. *(I give your car.)*
+* mi pana e tomo tawa sina. *(Mi donas la ĉambron al vi. — I give the room to you.)*
+* mi pana e tomo***-tawa-sina***. *(Mi donas vian aŭton. — I give your car.)*
 
 [nimi suli sinpin](nimi.md#nimi-suli-sinpin) li ken jo e sitelen "en".
 *(Helpa verbo povas havi plus-signon. — An auxilary verb can have a plus sign.)*
 
 * mi ***kama+***sona e toki pona. *(Mi lernas Tokiponon. — I learn Toki Pona.)*
+
+##### nimi pi tenpo suno
+*(…)*
+
+* sike pi tenpo esun *(semajno — week)*
+ * tenpo suno esun *(semajna tago — weekday)*
+    * tenpo suno esun nanpa wan
+       * tenpo suno mun *(lundo — Monday)*
+    * tenpo suno esun nanpa tu
+       * tenpo suno pi mun seli *(mardo — Tuesday)*
+    * tenpo suno esun nanpa mute
+       * tenpo suno pi mun telo *(merkredo — Wednesday)*
+    * tenpo suno esun nanpa tu tu
+       * tenpo suno pi mun kasi *(ĵaŭdo — Thursday)*
+    * tenpo suno esun nanpa luka
+       * tenpo suno pi mun kiwen *(vendredo — Friday)*
+ * tenpo suno pi esun ala *(semajnfina tago, ferio — weekend day, holiday)*
+    * tenpo suno nanpa wan pi esun ala
+       * tenpo suno pi mun ma *(sabato — Saturday)*
+    * tenpo suno nanpa tu pi esun ala
+       * tenpo suno suno *(dimanĉo — Sunday)*
 
 #### kalama nimi sin en sitelen nimi sin
 *(Novaj Prononco kaj Ortografio — New Pronunciation and Orthography)*
