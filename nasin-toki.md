@@ -74,6 +74,13 @@ nimi "jo e pilin" li kama nimi "pilin".
  * mi ***jo e pilin*** pi pona mute. *(Mi havas tre bonan senton. — I have a very good feeling.)*
     * → mi ***pilin*** pi pona mute. *(Mi fartas tre bone. — I feel very good.)*
 
+nimi "ale" li ken tawa ijo ante.
+*(La vorto "ale" povas moviĝi aliloken. — The word "ale" can move somewhere else.)*
+
+* o kepeken ***ala*** kepeken ilo ike *(Ne uzu la malĝustajn instrumentojn. — Don't use the wrong tools.)*
+* o kepeken ilo ike ***ala***. *(Uzu neniujn malĝustajn instrumentojn. — Don't use any wrong tools.)*
+ * → o kepeken ***ala*** ilo ike.
+
 ### nimi pi poka ante
 *(Antonimoj — Antonyms)*
 
@@ -356,9 +363,9 @@ nimi "kama" en nimi "monsi" li ken kama weka.
 
 * telo ***pi*** nasa ***mute*** *(tre stranga likvo; vodko — very strange liquid; vodka)*
  * → telo nasa ***mute***
-* ona li tawa ***ala*** tawa ma tomo Lantan. *(Ŝi ne iras al Londono. — She doesn't go to London.)*
- * → ona li tawa ***ala*** - ma tomo Lantan.
- * → ona li tawa ma tomo Lantan - ***ala***.
+* ona li tawa ***pona*** tawa ma tomo Lantan. *(Ŝi pace iras al Londono. — She goes to London in peace.)*
+ * → ona li tawa ***pona*** - ma tomo Lantan.
+ * → ona li tawa ma tomo Lantan - ***pona***.
 
 nimi "jan li toki e ijo pi" li ken kama weka lon monsi pi nimi "la". tenpo ni la sitelen sin li kama weka.
 *("jan li toki e ijo pi" povas malaperi antaŭ "la". Tiam la komo malaperas. — "jan li toki e ijo pi" can disappear before "la". In that case the comma disappears.)*
