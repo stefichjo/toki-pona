@@ -42,3 +42,4 @@ wan lipu "[toki musi](toki-musi.md)" li toki e nasin toki pi jan ala. taso tawa 
  * **nimi lon monsi pi nimi ilo "li"** *(predikato — predicate)*
  * **nimi lon monsi pi nimi ilo "e"** *(rekta objekto — direct object)*
  * **nimi lon sinpin pi nimi ilo "la"** *(helpa frazero — auxiliary clause)*
+ * **mute nimi lon insa pi mute nimi** *(subfrazo — subordinate clause)*
