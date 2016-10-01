@@ -207,3 +207,45 @@ nimi "ni" li ken jo e kon pi ***mute nimi***.
 *("ni" povas signifi frazon. — "ni" can mean a sentence.)*
 
 * mi wile e ni: jan Melani li kama tawa tomo mi. *(Mi volas, ke Melanio venu al mia hejmo. — I want Mélanie to visit me.)*
+
+## toki namako
+*(Aldona Lingvaĵo — Additional Language)*
+
+### nimi pi kon sama
+*(Sinonimoj — Synonyms)*
+
+kon pi nimi "ali", "namako", "kin", "oko" li sama nimi "ale", "sin", "a", "lukin".
+*("ali", "namako", "kin" kaj "oko" estas sinonimoj de "ale", "sin", "a", "lukin". — "ali", "namako", "kin" and "oko" synonyms of "ale", "sin", "a" and "lukin".)*
+
+* ***ale*** *(ĉiu — every)*
+ * → ***ali***
+* ***sin*** *(aldona — additional)*
+ * → ***namako***
+* ***a*** *(ha, ja — indeed)*
+ * → ***kin***
+* ***lukin*** *(vidi, okulo — to see, eye)*
+ * → ***oko***
+
+### nimi nanpa
+*(Numeraloj — Numerals)*
+
+**nimi lawa** li ken jo e **nimi nanpa** wan taso.
+*(Substantivo povas havi nur unu numeralon. — A noun can have one numeral only.)*
+
+* kasi ***luka*** → *(kvin plantoj — five plants)*
+* kasi ***luka ~~tu~~*** *(dek plantoj — ten plants)*
+
+insa pi **nimi nanpa** tu la **nimi ilo** "en" li kama weka.
+*(Inter du numeraloj, la partikulo "en" malaperas. — Between two numerals, the particle "en" disappears.)*
+
+* kasi ***luka*** ~~en~~ ***luka*** *(dek plantoj — ten plants)*
+ * → kasi ***luka luka***
+
+### ijo ante
+*(Diversaj — Miscellaneous)*
+
+nimi "sike" li ken kama **nimi suli palisa**.
+*("sike" povas fariĝi transitiva verbo. — "sike" can become a transitive verb.)*
+
+* mi ~~mun lon~~ suno. *(Mi orbitas la sunon. — I orbit around the sun.)*
+ * → mi ***sike e*** suno.
