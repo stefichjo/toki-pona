@@ -115,6 +115,8 @@ nimi "nimi" li kama weka lon sinpin pi nimi tan jan ante anu nimi pi ijo ante.
  * → ona li kute e ***mu*** wawa.
 * soweli li ***~~kalama~~ "mu"***. *(La besto blekas. — The animal bleats.)*
  * → soweli li ***mu***.
+* sina suli~~,~~ ***a***! *(Vi estas granda, ho! — You are tall, wow!)*
+ * → sina suli ***a***! *(Vi estas tiom granda! Vi estas ja granda! Vi eĉ estas granda! — You are so tall!)*
 
 ### nimi ijo "ale", "ala", "ni", "seme"
 *(Korelativoj — Correlatives)*
