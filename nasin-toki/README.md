@@ -33,6 +33,7 @@ wan lipu "[toki musi](toki-musi.md)" li toki e nasin toki pi jan ala. taso tawa 
     * **nimi monsi palisa** *(prepozicio — preposition)*
  * **nimi ma** *(spaca vorto — spatial noun)*
  * **nimi suli** *(verbo — verb)*
+    * **nimi suli pi palisa ala** *(netransitiva verbo - intransitive verb)*
     * **nimi suli palisa** *(transitiva verbo — transitive verb)*
     * **nimi suli sinpin** *(helpa verbo — auxiliary verb)*
 * **nimi ilo** *(partikulo — particle)*
