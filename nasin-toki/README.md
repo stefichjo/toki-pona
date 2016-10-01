@@ -4,7 +4,7 @@
 wan lipu "[toki lili](toki-lili.md)" li toki e nasin toki pi jan ale pi toki pona.
 *(La sekcio "Konciza Lingvaĵo" traktas la lingvouzon de ĉiuj tokiponistoj. — The section "Concise Language" treats the way every Toki Pona speaker uses the language.)*
 
-* ***sina ~~li***~~ sin. *(Vi estas nova. — You are new.)*
+* ***sina ~~li~~*** sin. *(Vi estas nova. — You are new.)*
  * → ***sina*** sin.
 
 wan lipu "[toki namako](toki-namako.md)" li toki e nasin toki sin pi jan Sonja lon lipu suli pi toki pona.
