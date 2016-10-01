@@ -48,7 +48,7 @@ monsi pi **nimi ilo** "e" la **nimi lawa** "ijo" li ken kama weka.
  * → ona li ***seli*** e soweli e pan. *(Ŝi kuiras la viandon kaj la rizon. — She cooks the meat and the rice.)*
 
 **mute nimi** pi nanpa tu li lon monsi pi **nimi ilo** "e" pi **mute nimi** pi nanpa wan, la **nimi suli** pi nanpa wan li ken kama **nimi suli sinpin** pi **nimi suli** pi nanpa tu.
-*(Se dua frazo estas la rekta objekto de unua frazo, la verbo de la unua frazo povas fariĝi la helpa verbo de la dua verbo. — If a second sentence is the direct object of a first sentence, the verb of the first sentence can become the auxilary verb of the second sentence.)*
+*(Se dua frazo estas la rekta objekto de unua frazo, la verbo de la unua frazo povas fariĝi la helpa verbo de la dua verbo. — If a second sentence is the direct object of a first sentence, the verb of the first sentence can become the auxiliary verb of the second sentence.)*
 
 * ***mi kama*** ~~e ni: ***mi***~~ ***moku***. *(Mi komencas manĝi. — I start to eat.)*
  * → ***mi kama moku***.
@@ -91,10 +91,10 @@ nimi "nanpa" lon poka pi **nimi nanpa** li ken kama nimi. tan ni la **nimi ijo**
  * → toki ***nanpa wan*** *(la lingvo numero unu — language number one)*
 
 #### nimi ilo "la"
-*(Helpaj Frazeroj — Auxilary Phrases)*
+*(Helpaj Frazeroj — Auxiliary Phrases)*
 
 nimi lon sinpin pi **nimi ilo** "la" la **nimi monsi** palisa "lon (ni)" li kama weka.
-*(En helpa frazero, la prepozicio "lon (ni)" malaperas. — In an auxilary phrase, the proposition "lon (ni)" disappears.)*
+*(En helpa frazero, la prepozicio "lon (ni)" malaperas. — In an auxiliary phrase, the proposition "lon (ni)" disappears.)*
 
 * ***~~lon~~*** kulupu ***la*** mi wawa. *(En grupo ni estas fortaj. — Together we are strong.)*
  * → kulupu ***la*** mi wawa.
