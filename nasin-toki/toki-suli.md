@@ -108,10 +108,10 @@ nimi "ala anu" lon insa pi nimi sama tu li ken kama nimi "ala".
  * → ona li ***mama ala mama***?
 
 #### nimi ilo "la"
-*(Helpaj Frazeroj — Auxiliary Phrases)*
+*(Helpaj Frazeroj — Auxiliary Clauses)*
 
 nimi lon sinpin pi **nimi ilo** "la" la **nimi monsi** palisa "lon (ni)" li kama weka.
-*(En helpa frazero, la prepozicio "lon (ni)" malaperas. — In an auxiliary phrase, the proposition "lon (ni)" disappears.)*
+*(En helpa frazero, la prepozicio "lon (ni)" malaperas. — In an auxiliary clause, the proposition "lon (ni)" disappears.)*
 
 * ***~~lon~~*** kulupu ***la*** mi wawa. *(En grupo ni estas fortaj. — Together we are strong.)*
  * → kulupu ***la*** mi wawa.
