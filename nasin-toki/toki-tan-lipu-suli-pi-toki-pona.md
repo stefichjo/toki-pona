@@ -1,4 +1,4 @@
-# toki tan lipu suli pi toki pona
+# toki suli
 *(Oficiala Lingvaĵo — Official Language)*
 
 ## toki lili
