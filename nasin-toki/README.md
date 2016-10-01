@@ -30,11 +30,11 @@ wan lipu "[toki musi](toki-musi.md)" li toki e nasin toki pi jan ala. taso tawa 
 * **nimi ijo** *(radika vorto — content word)*
  * **nimi lawa** *(substantivo — noun)*
  * **nimi monsi** *(modifilo, adjektivo, adverbo — modifier, adjective, adverb)*
-   * **nimi monsi palisa** *(prepozicio — preposition)*
+    * **nimi monsi palisa** *(prepozicio — preposition)*
  * **nimi ma** *(spaca vorto — spatial noun)*
  * **nimi suli** *(verbo — verb)*
-   * **nimi suli palisa** *(transitiva verbo — transitive verb)*
-   * **nimi suli sinpin** *(helpa verbo — auxiliary verb)*
+    * **nimi suli palisa** *(transitiva verbo — transitive verb)*
+    * **nimi suli sinpin** *(helpa verbo — auxiliary verb)*
 * **nimi ilo** *(partikulo — particle)*
  * **nimi kalama** *(interjekcio — interjection)*
 * **mute nimi** *(frazo — sentence)*
