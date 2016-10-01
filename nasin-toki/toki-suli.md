@@ -47,7 +47,7 @@ monsi pi **nimi ilo** "e" la **nimi lawa** "ijo" li ken kama weka.
 
 **mute nimi** tu pi nimi sama lon sinpin pi nimi "li" en nimi sama lon sinpin pi nimi "e" li ken kama wan. *(Du frazoj kun samaj subjekto kaj predikato sed malsama rekta objekto povas unuiĝi. — Two sentences with the same subject and predicate but with different direct objects can become one.)*
 
-* ona li ***seli*** e soweli en ona li ***seli*** e pan. *(Ŝi kuiras la viandon kaj ŝi kuiras la rizon. — She cooks the meat and she cooks the rice.)*
+* ***ona li seli*** e soweli en ***ona li seli*** e pan. *(Ŝi kuiras la viandon kaj ŝi kuiras la rizon. — She cooks the meat and she cooks the rice.)*
  * → ona li ***seli*** e soweli e pan. *(Ŝi kuiras la viandon kaj la rizon. — She cooks the meat and the rice.)*
 
 **mute nimi** pi nanpa tu li lon monsi pi **nimi ilo** "e" pi **mute nimi** pi nanpa wan, la **nimi suli** pi nanpa wan li ken kama **nimi suli sinpin** pi **nimi suli** pi nanpa tu.
