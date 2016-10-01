@@ -69,6 +69,13 @@ nimi ***o lon sina*** li ken kama weka.
 * tawa pona ***o lon sina***. *(Estu bona vojaĝo ĉe vi. — Shall there be a nice trip with you.)*
  * → tawa pona! *(Bonan vojaĝon! — Have a nice trip!)*
 
+nimi "o" tu li ken kama wan.
+*(Du "o"-oj povas fariĝi unu. — Two "o"s can become one)*
+
+* jan Ali ***o*** wawa. *(Ali estu forta. — Ali is supposed to be strong.)*
+* jan Ali ***o, o*** wawa. *(Ho Ali, estu forta. — Hey Ali, be strong.)*
+ * → jan Ali ***o*** wawa.
+
 #### nimi ilo "pi"
 *(Genitivo — Genitive)*
 
@@ -89,6 +96,13 @@ nimi "nanpa" lon poka pi **nimi nanpa** li ken kama nimi. tan ni la **nimi ijo**
 
 * toki ***~~pi~~ nanpa wan*** *(la unua lingvo — the first language)*
  * → toki ***nanpa wan*** *(la lingvo numero unu — language number one)*
+
+#### nimi ilo "anu"
+nimi "ala anu" lon insa pi nimi sama tu li ken kama nimi "ala".
+*("ala anu" inter du samaj vortoj povas fariĝi "ala". — "ala anu" between two same words can become "ala".)*
+
+* ona li ***mama ala ~~anu~~ mama***? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
+ * → ona li ***mama ala mama***?
 
 #### nimi ilo "la"
 *(Helpaj Frazeroj — Auxiliary Phrases)*
@@ -193,4 +207,3 @@ nimi "ni" li ken jo e kon pi ***mute nimi***.
 *("ni" povas signifi frazon. — "ni" can mean a sentence.)*
 
 * mi wile e ni: jan Melani li kama tawa tomo mi. *(Mi volas, ke Melanio venu al mia hejmo. — I want Mélanie to visit me.)*
-
