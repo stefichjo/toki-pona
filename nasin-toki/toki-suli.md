@@ -250,5 +250,5 @@ insa pi **nimi nanpa** tu la **nimi ilo** "en" li kama weka.
 nimi "sike" li ken kama **nimi suli palisa**.
 *("sike" povas fariĝi transitiva verbo. — "sike" can become a transitive verb.)*
 
-* mi ~~tawa lon~~ sike ~~lon~~ suno. *(Mi orbitas la sunon. — I orbit around the sun.)*
+* mi ~~tawa lon~~ ***sike*** ~~lon~~ suno. *(Mi orbitas la sunon. — I orbit around the sun.)*
  * → mi ***sike e*** suno.
