@@ -10,7 +10,7 @@ wan lipu "[toki lili](toki-suli.md#toki-lili)" li toki e nasin toki pi jan ale p
 wan lipu "[toki namako](toki-suli.md#toki-namako)" li toki e nasin toki sin pi jan Sonja lon lipu suli pi toki pona.
 *(La sekcio "Aldona Lingvaĵo" traktas la aldonan lingvouzon de Sonja en la oficiala libro de Tokipono. — The section "Additional Language" treats Sonja Lang's additional way of using the language in the official Toki Pona book.)*
 
-* mi ~~tawa lon~~ ***sike*** ~~lon~~ suno. *(Mi orbitas la sunon. — I orbit around the sun.)*
+* mi ~~tawa~~ ***sike*** ~~lon~~ suno. *(Mi orbitas la sunon. — I orbit around the sun.)*
  * → mi ***sike e*** suno.
 
 wan lipu "[toki apeja](toki-apeja.md)" li toki e nasin toki sin pi jan nasa ni: ona li wile ante e toki pona.
