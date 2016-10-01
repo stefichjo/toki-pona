@@ -1,7 +1,6 @@
 # toki pona
 
 * [nasin toki pi toki pona](nasin-toki/README.md) *(Gramatiko de Tokipono — Grammar of Toki Pona)*
-* [ale pi nimi mute pi toki pona](ale-pi-nimi-mute.md) *(Plena Vortaro de Tokipono — Dictionary of Toki Pona)*
 
 ## musi
 
