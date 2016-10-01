@@ -84,6 +84,12 @@ monsi pi **nimi suli** "pilin" la **nimi ilo** "e" li ken kama **nimi ilo** "pi"
 * mi ***pilin e*** pona mute. *(Mi sentas multan bonon. — I feel much good.)*
  * → mi ***pilin pi*** pona mute. *(Mi fartas tre bone. — I feel very good.)*
 
+nimi "nanpa" lon poka pi **nimi nanpa** li ken kama nimi. tan ni la **nimi ijo** "nanpa" li sama **nimi monsi palisa**.
+*("nanpa" kun numeralo povas fariĝi nomo. Tial, la radika vorto "nanpa" ŝajnas prepozicio. — "nanpa" together with a numeral can become a name. Therefore, the content word "nanpa" seems like a preposition.)*
+
+* toki ***~~pi~~ nanpa wan*** *(la unua lingvo — the first language)*
+ * → toki ***nanpa wan*** *(la lingvo numero unu — language number one)*
+
 #### nimi ilo "la"
 *(Helpaj Frazeroj — Auxilary Phrases)*
 
