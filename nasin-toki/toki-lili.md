@@ -26,15 +26,15 @@ nimi lon sinpin pi **nimi ilo** "li" li nimi "mi" taso anu nimi "sina" taso, la 
 jan li wile toki sin lon tenpo lili la, **nimi ilo** "li" lon poka pi nimi lon sinpin ona li ken kama weka.
 *(Por respondi rapide, la partikulo "li" kaj la subjekto povas malaperi. — In order to respond quickly, the particle "li" and the subject can disappear.)*
 
-* ~~ni li~~ ***pona***. *(Tio estas bona. — That's good.)*
- * → ***pona***. *(Dankon. — Thanks.)*
-* ~~ona li~~ ***mama***. *(Ŝi estas gepatro. — She is a parent.)*
+* ~~ni li~~ ***pona***. *(Dankon. — Thanks.)*
+ * → ***pona***.
+* ~~ona li~~ ***mama***. *(Jes. — Yes.)*
  * → ***mama***.
 
 #### nimi ilo "e"
 *(Rekta Objekto — Direct Object)*
 
-monsi pi **nimi ilo** "e", **nimi lawa** "ijo" li ken kama weka.
+monsi pi **nimi ilo** "e" la **nimi lawa** "ijo" li ken kama weka.
 *(Kiel rekta objekto, la substantivo "ijo" povas malaperi. — As the direct object, the noun "ijo" can disappear.)*
 
 * mije li ***sona e ijo***. *(La viro scias aferojn. — The man knows things.)*
@@ -81,8 +81,8 @@ sinpin pi **nimi lawa** wan taso la **nimi ilo** "pi" li kama weka. nasin ni la 
 monsi pi **nimi suli** "pilin" la **nimi ilo** "e" li ken kama **nimi ilo** "pi".
 *(Post la verbo "pilin", la partikulo "e" povas fariĝi "pi". — After the verb "pilin", the particle "e" can become "pi".)*
 
-* mi ***pilin*** e pona mute. *(Mi sentas multan bonon. — I feel much good.)*
- * → mi ***pilin*** pi pona mute. *(Mi fartas tre bone. — I feel very good.)*
+* mi ***pilin e*** pona mute. *(Mi sentas multan bonon. — I feel much good.)*
+ * → mi ***pilin pi*** pona mute. *(Mi fartas tre bone. — I feel very good.)*
 
 #### nimi ilo "la"
 *(Helpaj Frazeroj — Auxilary Phrases)*
@@ -132,7 +132,7 @@ nimi "nimi" li kama weka lon sinpin pi nimi tan jan ante anu nimi pi ijo ante.
 
 nimi "mute" lon sinpin pi nimi "ale" li ken kama weka.
 
-* jan ***~~~pi mute~~~ ale*** *(ĉiu — everyone)*
+* jan ***~~pi mute~~ ale*** *(ĉiu — everyone)*
  * → jan ***ale***
 
 #### nimi ijo "ala"
@@ -169,8 +169,8 @@ kon pi nimi mute lon sinpin pi nimi monsi "ala" li sama nimi "lili" anu "pona".
 jan li wile toki sin lon tenpo lili, la **mute nimi** li ken jo e nimi "ala" taso.
 *(Por respondi rapide, frazo povas konsisti nur el la vorto "ala". — In order to respond quickly, a sentence can consist only of "ala".)*
 
-* ~~ona li mama~~ ***ala***. *(Ŝi ne estas gepatro. — She is not a parent.)*
- * → ***ala***. *(Ne. — No.)*
+* ~~ona li mama~~ ***ala***. *(Ne. — No.)*
+ * → ***ala***.
 
 #### nimi ijo "ni"
 *(La Korelativo "ni" — The Correlative "ni")*
@@ -179,3 +179,4 @@ nimi "ni" li ken jo e kon pi ***mute nimi***.
 *("ni" povas signifi frazon. — "ni" can mean a sentence.)*
 
 * mi wile e ni: jan Melani li kama tawa tomo mi. *(Mi volas, ke Melanio venu al mia hejmo. — I want Mélanie to visit me.)*
+
