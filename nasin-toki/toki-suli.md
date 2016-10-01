@@ -104,7 +104,7 @@ nimi "nanpa" lon poka pi **nimi nanpa** li ken kama nimi. tan ni la **nimi ijo**
 nimi "ala anu" lon insa pi nimi sama tu li ken kama nimi "ala".
 *("ala anu" inter du samaj vortoj povas fariĝi "ala". — "ala anu" between two same words can become "ala".)*
 
-* ona li ***mama ala ~~anu~~ mama***? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
+* ona li ***mama ala anu mama***? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
  * → ona li ***mama ala mama***?
 
 #### nimi ilo "la"
