@@ -19,7 +19,7 @@ wan lipu "[toki apeja](toki-apeja.md)" li toki e nasin toki sin pi jan nasa ni: 
 * mi tawa ***lon poka pi*** jan pona. *(Mi iras kun amiko. — I am going with a friend.)*
  * → mi tawa ***poka*** jan pona.
 
-wan lipu "[toki musi](toki-musi.md)" li toki e nasin toki pi jan ala. taso tawa lawa mi la ona li ken.
+wan lipu "[toki musi](toki-musi.md)" li toki e nasin toki pi jan ala. taso tawa mi la ona li ken lon lawa.
 *(La sekcio "Luda Lingvaĵo" traktas lingvouzojn, kiujn neniu havas, sed kiuj ŝajnas teorie eblaj al mi. — The section "Fun Language" treats ways of using the language, which seem possible to me in theory, but which nobody applies.)*
 
 * o ***luka*** ala e seli! *(Ne tuŝu la fajron! — Don't touch the fire!)*
