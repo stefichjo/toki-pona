@@ -101,6 +101,12 @@ nimi lon sinpin pi **nimi ilo** "la" la **nimi monsi** palisa "lon (ni)" li kama
 * ***~~lon ni,~~*** mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
  * → mi pona tawa jan, ***la*** jan li pona tawa mi.
 
+nimi "taso ni la" li kama "taso".
+*("taso ni la" fariĝas "taso". — "taso ni la" becomes "taso".)*
+
+* ***taso ni la*** mije en meli li pali li pilin pona. *(Malgraŭ tio viroj kaj virinoj laboras kaj estas gajaj. — Nonetheless, men and women work and are happy.)*
+ * → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj. — But men and women work and are happy.)*
+
 #### nimi kalama
 *(Interjekcio — Interjection)*
 
