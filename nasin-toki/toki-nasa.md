@@ -43,10 +43,16 @@ nimi pi **mute nimi** lon insa pi **mute nimi** li ken kama weka.
 *(Vortoj de subfrazo povas malaperi. — Words of a subordinate clause can disappear.)*
 
 * mi pana e moku tawa jan ***ni: ona li kama lon tomo mi***. *(Mi donis manĝon al tiu persono: li aperis en mia domo. — I gave food to that person: he appeared in my house.)*
- * mi pana e moku tawa jan ***pi ijo ni: ona li kama lon tomo mi***. *(Mi donis manĝon al la persono, kiu aperis en mia domo. — I gave food to the person, who appeared in my house.)*
-    * → mi pana e moku tawa jan ***pi ona li kama lon tomo mi***.
-       * → mi pana e moku tawa jan ***pi li kama lon tomo mi***.
+ * mi pana e moku tawa jan ***pi ~~ijo ni:~~ ona li kama lon tomo mi***. *(Mi donis manĝon al la persono, kiu aperis en mia domo. — I gave food to the person, who appeared in my house.)*
+    * → mi pana e moku tawa jan ***pi ~~ona~~ li kama lon tomo mi***.
+       * → mi pana e moku tawa jan ***pi ~~li~~ kama lon tomo mi***.
           * → mi pana e moku tawa jan ***pi kama lon tomo mi***.
+
+ni la **nimi suli sinpin** li ken sama **nimi monsi sinpin** mu.
+*(Tiam helpa verbo povas ŝajni ia "helpa modifilo". — In this case, an auxiliary verb can seem to be some sort of an "auxiliary modifier".)*
+
+* ona li jan pi ~~ijo ni: ona li~~ **kama sona**.
+ * → ona li jan pi **kama sona**.
 
 #### nimi monsi palisa
 *(Prepozicioj — Prepositions)*
@@ -60,8 +66,8 @@ nimi "ona sama" li ken kama nimi "sama".
 * ona li telo e ***ona sama***. *(Ŝi lavas sin. — She washes herself.)*
  * → ona li telo e ***sama***.
 
-##### nimi monsi palisa "tawa"
-*(La Prepozicio "tawa" — The Preposition "tawa")*
+##### nimi monsi palisa "tawa", "tan"
+*(La Prepozicioj "tawa" kaj "tan" — The Prepositions "tawa" and "tan")*
 
 **nimi monsi palisa** "tawa", "tan" li ken kama weka lon ni: ona li nimi nanpa wan pi **nimi lon sinpin pi nimi ilo "la"**.
 *(La prepozicioj "tawa" kaj "tan" komence de "la"-frazoj povas malaperi. — "tawa" and "tan" at the beginning of a "la" sentence can disappear.)*
@@ -69,7 +75,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * ***~~tawa~~*** mi la sina jan pona. *(Laŭ mi, vi estas bona persono. — From my point of view, you are a good person.)*
  * → mi la sina jan pona.
 * ***~~tan~~*** jan pona sina la ona li pona tawa mi. *(Koncerne vian amikon, mi ŝatas lin. — Concerning your friend, I like him.)*
- * → jan pona sina la ona li pona tawa mi.
+ * → jan pona sina la ona li pona tawa mi.
 
 #### nimi suli sinpin "kama", "pini"
 *(La Helpaj Verboj "kama" kaj "pini" — The Auxiliary Verbs "kama" and "pini")*
@@ -77,13 +83,13 @@ nimi "ona sama" li ken kama nimi "sama".
 **nimi suli sinpin** "kama", "pini" li ken kama weka.
 *(La helpaj verboj "kama" kaj "pini" povas malaperi. — The auxiliary verbs "kama" and "pini" can disappear.)*
 
-* ona li ***kama*** lape lon tenpo lili. *(Ŝi endormiĝas dum mallonga tempo. Ŝi rapide endormiĝas. — She falls asleep during a short period of time. She falls asleep quickly.)*
+* ona li ***~~kama~~*** lape lon tenpo lili. *(Ŝi endormiĝas dum mallonga tempo. Ŝi rapide endormiĝas. — She falls asleep during a short period of time. She falls asleep quickly.)*
  * → ona li lape lon tenpo lili.
 
 nimi "pini" li ken kama weka.
 *("pini" povas malaperi. — "pini" can disappear.)*
 
-* ona li lape lon ***pini*** pi tenpo lili. *(Ŝi dormos post mallonga tempo. Ŝi baldaŭ dormos. — She will sleep after a short period of time. She will sleep soon.)*
+* ona li lape lon ~~***pini*** pi~~ tenpo lili. *(Ŝi dormos post mallonga tempo. Ŝi baldaŭ dormos. — She will sleep after a short period of time. She will sleep soon.)*
  * → ona li lape lon tenpo lili.
 
 ### toki monsuta
@@ -116,18 +122,10 @@ nimi "pini" li ken kama weka.
  * ona li tawa — ***pona*** — ma tomo Lantan.
     * → ona li tawa ***pona*** ma tomo Lantan.
 
-#### nimi monsi sinpin
-*(Helpaj Modifiloj — Auxiliary Modifier)*
 
-**nimi suli sinpin** li ken kama nimi monsi sinpin.
-*(Helpa verbo povas fariĝi helpa modifilo. — An auxiliary verb can become an auxiliary modifier.)*
 
-* sona kama *(komenciĝanta sciado; eksciado — beginning knowledge; begin of knowledge)*
- * jan pi sona kama *(eksciulo; lernanto — someone who begins to know; learner)*
- * sona kama li pona. *(Eksciado estas bona. Lernado estas bona. — Beginning to know is good. Learning is good.)*
-* ona li ***kama*** sona. *(Ŝi ekscias. Ŝi lernas. — She begins to know. She learns.)*
- * → jan pi ***kama*** sona. *(ekscianto; lernanto — someone who begins to know; learner)*
- * → ***kama*** sona li pona. *(Ekscii estas bone. Lerni estas bone. — Beginning to know is good. Learning is good.)*
+
+####################################3
 
 **nimi monsi palisa** "tan" li kama **nimi lawa**, la ona li ken kama suli sama nimi pi ijo ni: ijo li tan ona.
 *(Kiam la prepozicio "tan" fariĝas substantivo, ĝi povas komenci signifi tion, de kio io devenas, t.e. la originon. — When the preposition "tan" becomes a noun, it can acquire the meaning of that, from which something comes, i.e. the origin.)*
