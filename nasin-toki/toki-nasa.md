@@ -122,20 +122,8 @@ nimi "pini" li ken kama weka.
  * ona li tawa — ***pona*** — ma tomo Lantan.
     * → ona li tawa ***pona*** ma tomo Lantan.
 
-
-
-
-####################################3
-
-**nimi monsi palisa** "tan" li kama **nimi lawa**, la ona li ken kama suli sama nimi pi ijo ni: ijo li tan ona.
-*(Kiam la prepozicio "tan" fariĝas substantivo, ĝi povas komenci signifi tion, de kio io devenas, t.e. la originon. — When the preposition "tan" becomes a noun, it can acquire the meaning of that, from which something comes, i.e. the origin.)*
-
-* ***tan*** *(de; venanta de — from; coming from)*
- * ***tan*** *(deveno — departure)*
-    * → ***tan*** *(origino — origin)*
-
-### toki mu
-*(Bleka Lingvaĵo — Bleating Language)*
+### toki apeja
+*(Skisma Lingvaĵo — Schismatic Language)*
 
 **nimi ilo** "e" li ken kama **nimi ilo** "pi".
 *(La partikulo "e" povas fariĝi la partikulo "pi". — The particle "e" can become the particle "pi".)*
@@ -146,14 +134,6 @@ nimi "pini" li ken kama weka.
  * → mi pana ***lukin e*** tomo sona.
 * mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon. — I translate the movie.)*
  * → mi ante ***toki e*** sitelen tawa.
-
-**nimi monsi palisa** li ken kama **nimi ilo** "pi".
-*(Prepozicio povas fariĝi la partikulo "pi". — A preposition can become the particle "pi")*
-
-* mi toki e ni ***lon toki pona***. *(Mi diras tion en Tokipono. Mi diras tion Tokipone. — I say it in Toki Pona.)*
- * → mi toki ***pi toki pona*** e ni.
-* mi pana e lipu ***kepeken esun*** tawa jan pona. *(Mi donas la libron per interŝanĝo al amiko. Mi vendas la libron al amiko. — I sell the book to a friend.)*
- * → mi pana ***esun*** e lipu tawa jan pona.
 
 **nimi ma** li ken kama **nimi monsi palisa**.
 *(Spaca vorto povas fariĝi prepozicio. — A location word can become a preposition.)*
@@ -166,7 +146,7 @@ nimi "pini" li ken kama weka.
 * mi ***wile pana*** e kili ***tawa*** sina. *(Mi volas doni pomon al vi. — I want to give you an apple.)*
  * → mi ***jo*** e kili ***tawa*** sina. *(Mi havas pomon por vi. — I have an apple for you.)*
 
-**nimi monsi** palisa li ken kama **nimi suli** palisa.
+**nimi monsi palisa** li ken kama **nimi suli palisa**.
 *(Prepozicioj povas fariĝi transitiva verbo. — Preposition can become transitive verbs.)*
 
 * mi ***kepeken*** ilo. *(Mi uzas la instrumenton. — I use the instrument.)*
@@ -175,8 +155,8 @@ nimi "pini" li ken kama weka.
  * → mi ***poka*** jan pona.
     * → mi ***poka e*** jan pona.
 
-**nimi suli** palisa li ken kama **nimi suli** sinpin.
-*(Transitiva verbo povas fariĝi helpa verbo. — A transitive verb can become an auxiliary verb.)*
+**nimi suli** li ken kama **nimi suli sinpin**.
+*(Verbo povas fariĝi helpa verbo. — Verbs can become auxiliary verbs.)*
 
 * mi ***olin e ni: mi*** kama sona e jan pona sina. *(Mi amas konatiĝi kun via amiko. — I love to get to know your friend.)*
  * → mi ***olin*** kama sona e jan pona sina.
