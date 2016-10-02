@@ -1,13 +1,16 @@
-## toki nasa
+## toki kulupu
+*(Komunuma Lingvaĵo — Community Language)*
+
+### toki nasa
 *(Freneza Lingvaĵo — Crazy Language)*
 
-### toki kipisi
+#### toki kipisi
 *(Kripla Lingvaĵo — Crippled Language)*
 
-#### nimi suli palisa
+##### nimi suli palisa
 *(Transitivaj Verboj — Transitive Verbs)*
 
-##### nimi suli palisa tan nimi suli pi palisa ala
+###### nimi suli palisa tan nimi suli pi palisa ala
 *(Transitivaj Verboj el Netransitivaj Verboj — Transitive Verbs from Intransitive Verbs)*
 
 **nimi suli pi palisa ala** li kama **nimi suli palisa**, la nimi "e ijo" li ken kama weka.
@@ -16,7 +19,7 @@
 * mi pona ***e ijo***. *(Mi riparas ion. — I repair something.)*
  * → mi pona. *(Mi riparas. — I repair.)*
 
-##### nimi suli palisa tan nimi lawa
+###### nimi suli palisa tan nimi lawa
 *(Transitiva Verbo el Substantivo — Transitive Verbs from Nouns)*
 
 nimi "pana e" li ken kama weka.
@@ -26,7 +29,7 @@ nimi "pana e" li ken kama weka.
 * mi ***pana e telo tawa*** kasi. *(Mi akvumas la planton. — I water the plant.)*
  * → mi ***telo e*** kasi.
 
-#### nimi ilo "pi"
+##### nimi ilo "pi"
 *(Genitivo — Genitive)*
 
 **nimi ilo** "pi" li ken awen lon sinpin pi **nimi lawa** wan taso. ni la **nimi ilo** "pi" lon poka pi **nimi lawa** li sama **nimi suli**.
@@ -36,7 +39,7 @@ nimi "pana e" li ken kama weka.
  * → ni li ijo pi mi. *(Tio estas io de mi. — This is something of me.)*
     * → ni li pi mi. *(Tio estas mia. — This is mine.)*
 
-#### mute nimi lon insa pi mute nimi
+##### mute nimi lon insa pi mute nimi
 *(Subfrazoj — Subordinate Clauses)*
 
 nimi pi **mute nimi** lon insa pi **mute nimi** li ken kama weka.
@@ -54,10 +57,10 @@ ni la **nimi suli sinpin** li ken sama **nimi monsi sinpin** mu.
 * ona li jan pi ~~ijo ni: ona li~~ **kama sona**.
  * → ona li jan pi **kama sona**.
 
-#### nimi monsi palisa
+##### nimi monsi palisa
 *(Prepozicioj — Prepositions)*
 
-##### nimi monsi palisa "sama"
+###### nimi monsi palisa "sama"
 *(La Prepozicio "sama" — The Preposition "sama")*
 
 nimi "ona sama" li ken kama nimi "sama".
@@ -66,7 +69,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * ona li telo e ***ona sama***. *(Ŝi lavas sin. — She washes herself.)*
  * → ona li telo e ***sama***.
 
-##### nimi monsi palisa "tawa", "tan"
+###### nimi monsi palisa "tawa", "tan"
 *(La Prepozicioj "tawa" kaj "tan" — The Prepositions "tawa" and "tan")*
 
 **nimi monsi palisa** "tawa", "tan" li ken kama weka lon ni: ona li nimi nanpa wan pi **nimi lon sinpin pi nimi ilo "la"**.
@@ -77,7 +80,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * ***~~tan~~*** jan pona sina la ona li pona tawa mi. *(Koncerne vian amikon, mi ŝatas lin. — Concerning your friend, I like him.)*
  * → jan pona sina la ona li pona tawa mi.
 
-#### nimi suli sinpin "kama", "pini"
+##### nimi suli sinpin "kama", "pini"
 *(La Helpaj Verboj "kama" kaj "pini" — The Auxiliary Verbs "kama" and "pini")*
 
 **nimi suli sinpin** "kama", "pini" li ken kama weka.
@@ -92,10 +95,10 @@ nimi "pini" li ken kama weka.
 * ona li lape lon ~~***pini*** pi~~ tenpo lili. *(Ŝi dormos post mallonga tempo. Ŝi baldaŭ dormos. — She will sleep after a short period of time. She will sleep soon.)*
  * → ona li lape lon tenpo lili.
 
-### toki monsuta
+#### toki monsuta
 *(Danĝera Lingvaĵo — Dangerous Language)*
 
-#### nimi ilo lon monsi pi nimi monsi palisa
+##### nimi ilo lon monsi pi nimi monsi palisa
 *(Partikuloj malantaŭ Prepozicioj — Particles behind Prepositions)*
 
 **nimi ilo** li ken lon monsi pi **nimi monsi palisa**.
@@ -105,7 +108,7 @@ nimi "pini" li ken kama weka.
  * tomo — lon ma tomo Lantan — ***pi telo nasa***
     * → tomo lon ma tomo Lantan ***pi telo nasa***
 
-#### nimi monsi pi mute ike
+##### nimi monsi pi mute ike
 *(Tro da Modifiloj — Too Many Modifiers)*
 
 **nimi monsi** li ken jo e **nimi monsi**.
@@ -122,7 +125,7 @@ nimi "pini" li ken kama weka.
  * ona li tawa — ***pona*** — ma tomo Lantan.
     * → ona li tawa ***pona*** ma tomo Lantan.
 
-### toki apeja
+#### toki apeja
 *(Skisma Lingvaĵo — Schismatic Language)*
 
 **nimi ilo** "e" li ken kama **nimi ilo** "pi".
