@@ -173,7 +173,8 @@ nimi monsi "ala" li ken tawa.
 *(La modifilo "ala" povas moviĝi. — The modifier "ala" can move.)*
 
 * o kepeken ilo ike ***ala***. *(Uzu neniujn malĝustajn instrumentojn. — Don't use any wrong tools.)*
- * → o kepeken ***ala*** ilo ike. *(Ne uzu la malĝustajn instrumentojn. — Don't use the wrong tools.)*
+ * o kepeken — ***ala*** — ilo ike. *(Ne uzu la malĝustajn instrumentojn. — Don't use the wrong tools.)*
+    * → o kepeken ***ala*** ilo ike.
 
 kon pi nimi mute lon sinpin pi nimi monsi "ala" li sama nimi "lili" anu "pona".
 *(Multaj vortoj antaŭ la modifilo "ala" havas la saman signifon kiel "lili" aŭ "pona". — Many words before the modifier "ala" have the same meaning as "lili" or "pona".)*
