@@ -39,7 +39,7 @@ wan lipu "[toki musi](toki-kulupu.md#toki-musi)" li toki e nasin toki pi jan ala
 * **nimi ilo** *(partikulo — particle)*
  * **nimi kalama** *(interjekcio — interjection)*
 * **mute nimi** *(frazo — sentence)*
- * **sitelen lon poka nimi** *(interpunkcio — interpunctuation)*
+ * **sitelen lon poka nimi** *(interpunkcio — punctuation)*
  * **nimi lon sinpin pi nimi ilo "li"** *(subjekto — subject)*
  * **nimi lon monsi pi nimi ilo "li"** *(predikato — predicate)*
  * **nimi lon monsi pi nimi ilo "e"** *(rekta objekto — direct object)*
