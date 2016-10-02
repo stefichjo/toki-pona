@@ -13,8 +13,8 @@ wan lipu "[toki namako](toki-suli.md#toki-namako)" li toki e nasin toki sin pi j
 * mi ~~tawa~~ ***sike*** ~~lon~~ suno. *(Mi orbitas la sunon. — I orbit around the sun.)*
  * → mi ***sike e*** suno.
 
-wan lipu "[toki apeja](toki-apeja.md)" li toki e nasin toki sin pi jan nasa ni: ona li wile ante e toki pona.
-*(La sekcio "Skisma Lingvaĵo" traktas la aldonan lingvouzon de tokiponidistoj. — The section "Schismatic Language" treats the additional way of how speakers of Toki Pona dialects use the language.)*
+wan lipu "[toki nasa](toki-nasa.md)" li toki e nasin toki sin pi jan nasa ni: ona li wile ante e toki pona.
+*(La sekcio "Freneza Lingvaĵo" traktas la aldonan lingvouzon de tokiponidistoj. — The section "Crazy Language" treats the additional way of how speakers of Toki Pona dialects use the language.)*
 
 * mi tawa ***~~lon~~ poka ~~pi~~*** jan pona. *(Mi iras kun amiko. — I am going with a friend.)*
  * → mi tawa ***poka*** jan pona.
