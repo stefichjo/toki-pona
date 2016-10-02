@@ -423,4 +423,4 @@ kalama "i", "u" li sin. kalama "e", "o" li kama "i", "u" lon ni: wan nimi li lil
 * tok***e*** → tok***i*** *(lingvo — language)*
 * mok***o*** → mok***u*** *(gluti — to swallow)*
 * ake***te*** → aki***ti*** → aki***si*** *(reptilo, amfibio — reptile, amphibian)*
-* te***je***lo → te***ji***lo → te***wi***lo *(vivaĵo — living being)*
+* te***je***lo → te***ji***lu → te***wi***lu *(vivaĵo — living being)*
