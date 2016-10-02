@@ -20,7 +20,7 @@ wan lipu "[toki nasa](toki-kulupu.md#toki-nasa)" li toki e nasin toki sin pi jan
  * → mi tawa ***poka*** jan pona.
 
 wan lipu "[toki musi](toki-kulupu.md#toki-musi)" li toki e nasin toki pi jan ala. taso tawa mi la ona li ken lon lawa.
-*(La sekcio "Luda Lingvaĵo" traktas lingvouzojn, kiujn neniu havas, sed kiuj ŝajnas teorie eblaj al mi. — The section "Fun Language" treats ways of using the language, which seem possible to me in theory, but which nobody applies.)*
+*(La sekcio "Luda Lingvaĵo" traktas lingvouzojn, kiujn neniu havas, sed kiuj ŝajnas teorie eblaj al mi. — The section "Playful Language" treats ways of using the language, which seem possible to me in theory, but which nobody applies.)*
 
 * o ~~pana~~ ala e ***luka*** ~~tawa~~ seli! *(Ne tuŝu la fajron! — Don't touch the fire!)*
  * → o ***luka*** ala e seli!
