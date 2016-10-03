@@ -186,6 +186,15 @@ nimi "pini" li ken kama **nimi suli sinpin**.
 * mi ***lon awen moku***. *(Mi estas skribadanta. — I am constantly writing.)*
 * mi ***tawa kama moku***. *(Mi estas ekskribonta. — I am about to begin to write.)*
 
+##### nimi ma
+*(Spacaj Vortoj — Location Words)*
+
+**nimi lawa** li ken kama **nimi ma**.
+*(Substantivo povas fariĝi spaca vorto. — A noun can become a location word.)*
+
+* mi tawa ***lon sike pi*** tomo sona. *(Mi iras ĉirkaŭ la lernejo. — I go around the house.)*
+* tomo ona li **lon lawa pi** tomo suli. *(Ŝi loĝas en la supro de la turdomo. — She lives at the top of the tower block.)*
+
 ##### nimi monsi palisa
 *(Prepozicioj — Prepositions)*
 
