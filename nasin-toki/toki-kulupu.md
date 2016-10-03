@@ -171,7 +171,7 @@ nimi "pini" li ken kama weka.
 *(Estonta Lingvaĵo — Language of the Future)*
 
 ##### nimi suli sinpin
-*(Helpaj Verboj — Auxilary Verbs)*
+*(Helpaj Verboj — Auxiliary Verbs)*
 
 nimi "pini" li ken kama **nimi suli sinpin**.
 *("pini" povas fariĝi helpa verbo. — "pini" can become an auxilary verb.)*
@@ -244,6 +244,12 @@ nimi nanpa li ken kama **nimi lawa**.
 * ***mute*** nimi *(triopo/multo da vortoj, "vortaro"; frazo — set of words; sentence)*
 * ***ale*** nimi *(ĉiom da vorto, tuto da vorto; tuta vorto — all of the word; the whole word)*
 * ***ale*** pi nimi mute *(ĉiom da vortoj, tuto da vortoj; vortaro — all the words; dictionary)*
+
+##### nimi pi poka en nasin
+*(Vortoj por Flankoj kaj Direktoj — Words for Sides and Directions)*
+
+* tawa poka pilin *(al la flanko de la koro, al la maldekstra flanko, maldekstren — to the side of the heart, to the left)*
+* lon nasin sike pi ilo tenpo *(dekstrume — clockwise)*
 
 ##### nimi pi tenpo suno
 *(La Nomoj de la Tagoj — The Names of the Days)*
