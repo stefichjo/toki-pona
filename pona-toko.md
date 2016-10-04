@@ -51,7 +51,8 @@ Prepozicioj finiĝas per konsonanto.
 
 ## Ambiguoj
 
-* mi panas la panon taw sinia sina pona jano. *(Mi donas la panon al via nova amiko.)*
-* sinia selo selas. *(Via haŭto estas varma.)*
-* mia poko estas lon la poko de sinia poko. *(Mia taso estas apud via taso.)*
+* sela ŝelo *(varma haŭto)*
+* poka boko *(flanka kesto)*
+
+* panu la panon taw mi
 
