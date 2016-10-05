@@ -13,26 +13,41 @@ Nure la radiko "EST/" el **Esperanto** nepre uziĝas kiam la tokipona predikato 
 * la poka jano estas sona jano. *(La najbaro estas instruisto.)*
 * jano estas lon sona tomo. *(Iu estas en la lernejo.)*
 
+Por eviti kunfuzojn, uziĝas la radikoj "ŜEL/" kaj "BOK/" por **Tokiponaj** "selo" kaj "poki".
+
+* sela ŝelo *(varma haŭto)*
+* poka boko *(flanka kesto)*
+
+## Nomoj
+
+* la Epelanto-toko *(la lingvo Esperanto → Esperanto)*
+* la Sonja-jano *(la persono Sonja → Sonja)*
+* la toko nanpo wanu *(la lingvo numero unu)*
+
 ## Pronomoj
 
-* mi olinas sinin. *(Mi amas vin.)*
+La radiko de pronomoj finiĝas je "-i".
+
 * sini sinas. *(Vi estas nova.)*
+* oni estas mamo. *(Ŝi estas gepatro.)*
 
 ## Numeraloj
 
+La radiko de numeraloj finiĝas je "-u".
+
 * wana *(unika)*
  * wanu *(unu)*
-    * nanpo wanu *(unua)*
+    * wanua → nanpo wanu *(unua)*
 * ta *(disa)*
  * tu *(du)*
-    * nanpo tu *(dua)*
+    * tua → nanpo tu *(dua)*
 
 ## Tabelvortoj
 
-Por formi la tabelvortojn, la tuta formo de la **Tokiponaj** vortoj "seme", "ni", "ale", "ala" konserviĝas.
+La radiko de tabelvortoj konsistas el la plena formo de la **Tokiponaj** vortoj "seme", "ni", "ale", "ala" konserviĝas.
 
 * semeal oni estas nie? *(Kial ŝi estas tie?)*
-* aleo ponas. *(Ĉio estas bona.)*
+ * → tan semeo oni estas lon nio?
 
 ## Prepozicioj
 
@@ -42,17 +57,8 @@ Prepozicioj finiĝas per konsonanto.
  * sama tomo *(sama domo)*
 * mi estas taw tomo. *(Mi estas al la domo.)*
  * mi tawas! *(Mi iras! Ĝis!)*
- * tawa tomo *(aŭto)*
 
 ## Interjekcioj
 
 * la sowelo muas. *(La kato miaŭas.)*
-* mia pona jano muse aas. *(Mia amiko ridas.)*
-
-## Ambiguoj
-
-* sela ŝelo *(varma haŭto)*
-* poka boko *(flanka kesto)*
-
-* panu la panon taw mi
 
