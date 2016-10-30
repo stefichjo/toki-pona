@@ -44,7 +44,7 @@ La radiko de numeraloj finiĝas je "-u".
 
 ## Tabelvortoj
 
-La radiko de tabelvortoj konsistas el la plena formo de la **Tokiponaj** vortoj "seme", "ni", "ale", "ala" konserviĝas.
+La kompletaj **Tokiponaj** vortoj "seme", "ni", "ale", "ala" estas tabelvortaj radikoj.
 
 * semeal oni estas nie? *(Kial ŝi estas tie?)*
  * → tan semeo oni estas lon nio?
