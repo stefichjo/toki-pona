@@ -62,3 +62,32 @@ Prepozicioj finiĝas per konsonanto.
 
 * la sowelo muas. *(La kato miaŭas.)*
 
+## Tokiponaj Proverboj
+
+* aleo jas tenpon.
+* aleo ponas.
+* pona toko estas pona toko.
+* anto kamas.
+* iko kamas.
+* janoj mute sulas. mano lile sulas.
+* sona jano estas nasa jano.
+* mela lupo estas mamo pi aleu ijo.
+* (lon nio,) mi ponigas mian aleon, mi ponigas min.
+* ponaj nasinoj mutas.
+* olinu la pokan janon.
+* sonu sinin!
+* pano panas sonon.
+* pona pilino panas ponan sijelon.
+* (lon nio,) sini panas ikon, sini kamas ji ikon.
+* wawo estas lon inso.
+* lila weko ponas taw la lawo.
+* sona wilo mutigas la sonon.
+* lilaj janoj ale sonas ikon.
+* meloj nasigas mijojn.
+* (lon nio,) mi wekigas la janan ikon, mi wekigas mian ikon.
+* anta nasino ponas taw anta jano.
+* telo ponas.
+* lapo ponas.
+* toko ponas.
+* panu ponon taw ma.
+* utalo ikas.
