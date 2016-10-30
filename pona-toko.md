@@ -76,7 +76,7 @@ Prepozicioj finiĝas per konsonanto.
 * ponaj nasinoj mutas.
 * olinu la pokan janon.
 * sonu sinin!
-* pano panas sonon.
+* palo panas sonon.
 * pona pilino panas ponan sijelon.
 * (lon nio,) sini panas ikon, sini kamas ji ikon.
 * wawo estas lon inso.
