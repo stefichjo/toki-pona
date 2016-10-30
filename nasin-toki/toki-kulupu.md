@@ -30,7 +30,7 @@ nimi "pini" li ken kama **nimi suli sinpin**.
 *(Substantivo povas fariĝi spaca vorto. — A noun can become a location word.)*
 
 * mi tawa ***lon sike pi*** tomo sona. *(Mi iras ĉirkaŭ la lernejo. — I go around the house.)*
-* tomo ona li **lon lawa pi** tomo suli. *(Ŝi loĝas en la supro de la turdomo. — She lives at the top of the tower block.)*
+* tomo ona li ***lon lawa pi*** tomo suli. *(Ŝi loĝas en la supro de la turdomo. — She lives at the top of the tower block.)*
 
 ##### nimi monsi palisa
 *(Prepozicioj — Prepositions)*
@@ -121,6 +121,48 @@ nimi pi tenpo suno li tan nimi pi suno en mun en mun luka.
 * tenpo suno "Mun Kasi" *(ĵaŭdo — Thursday)*
 * tenpo suno "Mun Kiwen" *(vendredo — Friday)*
 * tenpo suno "Mun Ma" *(sabato — Saturday)*
+
+##### nanpa
+*(Numeroj — Numbers)*
+
+nasin nanpa li ken awen pona sama lon lipu suli pi toki pona.
+*(La nombra sistemo povas resti baza same kiel priskribita en la Oficiala Libro pri Tokipono. — The number system can remain basic as described in the Official Toki Pona Book.)*
+
+* ala *(nul — none)*
+* wan *(unu — unu)*
+* tu *(du — two)*
+* mute *(tri aŭ pli — three or more)*
+* ale *(ĉiom — all)*
+
+tan ni la jan wile ala sin e nanpa lon nasin pi pona ala.
+*(Tial oni ne bezonas adicii laŭ la kompleksa sistemo. — Therefore one doesn't have to add numbers according to the complex system.)*
+
+* sike tu en wan *(du radoj kaj unu → tri radoj — two wheels and one → three wheels)*
+
+tan ni la **nimi nanpa** tu lon poka ona sama li ken sama sin lon tenpo mute.
+*(Tial du sinsekvaj numeraloj povas esprimi multiplikadon. — Therefore two subsequent numerals can express multiplication.)*
+
+* sike tu wan *(unu paro da radoj → unu biciklo — one pair of wheels → one bicycle)*
+* sike tu tu *(du paroj da radoj → du bicikloj — two pairs of wheels → two bicycles)*
+
+nimi "luka" en nimi "esun" li ken kama **nimi nanpa**.
+*("luka" kaj "esun" povas fariĝi numeraloj. — "luka" and "esun" can become numerals.)*
+
+* wan *(unu)*
+* tu *(du)*
+* mute *(tri)*
+* tu tu *(kvar)*
+* luka *(kvin)*
+* mute tu *(ses)*
+* esun *(sep)*
+* tu tu tu *(ok)*
+* mute mute *(naŭ)*
+* luka tu *(dek)*
+* luka tu en wan *(dek unu)*
+* luka tu en tu *(dek du)*
+* luka tu tu *(dudek)*
+* luka tu luka tu *(cent)*
+* luka tu luka tu luka tu *(mil)*
 
 ##### sitelen lon poka nimi
 *(Interpunkcio — Punctuation)*
