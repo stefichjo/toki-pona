@@ -19,9 +19,9 @@ nimi "pini" li ken kama **nimi suli sinpin**.
 **nimi monsi palisa** li ken kama **nimi suli sinpin**.
 *(Prepozicioj povas fariĝi helpa verbo. — Prepositions can become auxilary verbs.)*
 
-* mi ***tan pini moku***. *(Mi estas finskribinta. — I have finished to write.)*
-* mi ***lon awen moku***. *(Mi estas skribadanta. — I am constantly writing.)*
-* mi ***tawa kama moku***. *(Mi estas ekskribonta. — I am about to begin to write.)*
+* mi ***tan pini moku***. *(Mi estas finmanĝinta. — I have finished to eat.)*
+* mi ***lon awen moku***. *(Mi estas manĝadanta. — I am constantly eating.)*
+* mi ***tawa kama moku***. *(Mi estas ekmanĝonta. — I am about to begin to eat.)*
 
 ##### nimi ma
 *(Spacaj Vortoj — Location Words)*
