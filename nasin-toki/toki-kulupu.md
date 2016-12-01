@@ -97,6 +97,14 @@ nimi nanpa li ken kama **nimi lawa**.
 * tawa poka pilin *(al la flanko de la koro, al la maldekstra flanko, maldekstren — to the side of the heart, to the left)*
 * lon nasin sike pi ilo tenpo *(dekstrume — clockwise)*
 
+##### nimi pi poka suno
+*(La Nomoj de la Kompasdirektoj — The Names of the Cardinal Directions)*
+
+* poka pi suno kama *(la flanko de la venonta suno → oriento — the side of the coming sun → east)*
+* poka pi suno weka *(la flanko de la malaperinta suno → okcidento — the side of the disappeared sun → west)*
+* poka pi suno tawa *(la flanko de la iranta suno → ekvatoro → sudo/nordo — the side of the coming sun → south/north)*
+* poka pi suno ala *(la flanko de nenia suno → norda/suda poluso → nordo/sudo — the side of no sun → north/south)*
+
 ##### nimi pi tenpo suno
 *(La Nomoj de la Tagoj — The Names of the Days)*
 
