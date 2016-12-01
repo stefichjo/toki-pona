@@ -156,21 +156,23 @@ tan ni la **nimi nanpa** tu lon poka ona sama li ken sama sin lon tenpo mute.
 nimi "luka" en nimi "esun" li ken kama **nimi nanpa**.
 *("luka" kaj "esun" povas fariĝi numeraloj. — "luka" and "esun" can become numerals.)*
 
-* wan *(unu)*
-* tu *(du)*
-* mute *(tri)*
-* tu tu *(kvar)*
-* luka *(kvin)*
-* mute tu *(ses)*
-* esun *(sep)*
-* tu tu tu *(ok)*
-* mute mute *(naŭ)*
-* luka tu *(dek)*
-* luka tu en wan *(dek unu)*
-* luka tu en tu *(dek du)*
-* luka tu tu *(dudek)*
-* luka tu luka tu *(cent)*
-* luka tu luka tu luka tu *(mil)*
+* wan *(unu — one)*
+* tu *(du — two)*
+* mute *(tri — three)*
+* tu tu *(kvar — four)*
+* luka *(kvin — five)*
+* mute tu *(ses — six)*
+* esun *(sep — seven)*
+* tu tu tu *(ok — eight)*
+* mute mute *(naŭ — nine)*
+* luka tu *(dek — ten)*
+* luka tu en wan *(dek unu — eleven)*
+* luka tu en tu *(dek du — twelve)*
+* luka tu tu *(dudek — twenty)*
+* luka tu luka tu *(cent — hundred)*
+* luka tu luka tu luka tu *(mil — thousand)*
+
+* luka tu nanpa mute *(dek je la tria potenco — ten to the power of three)*
 
 ##### sitelen lon poka nimi
 *(Interpunkcio — Punctuation)*
