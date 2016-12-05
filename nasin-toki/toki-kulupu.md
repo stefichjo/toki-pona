@@ -172,7 +172,7 @@ nimi "luka" en nimi "esun" li ken kama **nimi nanpa**.
 * luka tu luka tu *(cent — hundred)*
 * luka tu luka tu luka tu *(mil — thousand)*
 
-* luka tu nanpa mute *(dek je la tria potenco — ten to the power of three)*
+* luka tu nanpa mute *(tria deko → dek je la tria potenco — third ten → ten to the power of three)*
 
 ##### sitelen lon poka nimi
 *(Interpunkcio — Punctuation)*
@@ -318,8 +318,89 @@ nimi kule "jelo", "laso", "loje", "pimeja" en "walo" li sin.
 * ***kule wawa*** *(forta koloro — strong color)*
  * → ***walo*** *(blanko — white)*
 
-##### kalama
-*(Sonoj — Sounds)*
+##### kalama nimi en sitelen nimi
+*(Prononco kaj Ortografio — Pronunciation and Orthography)*
+
+sitelen nimi en sitelen nimi li kama ante lon toki pona, la jan ken sitelen e nimi ni sama lon toki tan.
+
+* akesi ← hagedis
+* ala ← ara
+* anpa ← an-bas
+* ante ← ander
+* anu ← an (≠ an)
+* awen ← hauden (≠ aten)
+* ilkea ← ike (≠ ikeja)
+* insa ← insajt
+* ijo ← io
+* kalama ← galama
+* kama ← kam-ap
+* kasi ← kasvi
+* kepeken ← xebrewken
+* kili ← xili
+* kiwen ← kiven
+* ko ← gow
+* kon ← kong
+* kule ← kuler
+* kute ← kute (≠ ekute)
+* lape ← slape
+* laso ← glas (≠ la)
+* lawa ← glava
+* len ← leng
+* lete  ← frete
+* lili ← liklik
+* loje ← roje
+* lon ← long
+* luka ← ruka
+* lukin ← luk-him
+* lupa ← klupa
+* meli ← meri
+* mije ← mies
+* moku ← mogu
+* moli ← murir (≠ muli)
+* monsi ← monĉi
+* mute ← multe
+* musi ← amuzi (≠ amusi)
+* nanpa ← namba
+* nasa ← nasaw
+* nasin ← naĉin
+* noka ← noga
+* olin ← volim
+* pakala ← bagar-ap
+* pali ← fari
+* palisa ← palica
+* pi ← bi
+* pilin ← fil-him
+* pini ← fini
+* pipi ← bibit
+* poka ← bok (≠ po)
+* poki ← bokis
+* pona ← bona
+* pu ← buk
+* seli ← cxeli
+* selo ← ŝelo
+* seme ← ŝenme
+* sewi ← sevit
+* sijelo ← tijelo
+* sike ← sirkel
+* sitelen ← ŝilderen
+* sona ← codna
+* soweli ← cxoveli
+* suli ← suri
+* supa ← surfac
+* suwi ← swit
+* taso ← dats-ol
+* tawa ← towards (≠ towa/tewa)
+* telo ← de-lo
+* tenpo ← tempo
+* toki ← tok (≠ to)
+* tomo ← domo
+* uta ← usta
+* utala ← udarati (≠ utalasi)
+* walo ← valko
+* waso ← wazo
+* wawa ← vahva
+* weka ← wex (≠ we)
+* wile ← wile
 
 kalama "i", "u" li sin. kalama "e", "o" li kama "i", "u" lon ni: wan nimi li lili.
 *(La sonoj "i" kaj "u" estas novaj. La sonoj "e" kaj "o" fariĝas "i" kaj "u" kiam la silabo ne estas akcentata. — The sounds "i" and "u" are new. The sounds "e" and "o" become "i" and "u" when the syllable is not stressed.)*
