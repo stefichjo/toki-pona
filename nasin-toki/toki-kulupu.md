@@ -328,7 +328,7 @@ sitelen nimi en sitelen nimi li kama ante lon toki pona, la jan ken sitelen e ni
 * anpa ← an-bas
 * ante ← ander
 * anu ← an (≠ an)
-* awen ← hauden (≠ aten)
+* awen ← hawen (≠ aten)
 * ilkea ← ike (≠ ikeja)
 * insa ← insajt
 * ijo ← io
@@ -400,7 +400,6 @@ sitelen nimi en sitelen nimi li kama ante lon toki pona, la jan ken sitelen e ni
 * waso ← wazo
 * wawa ← vahva
 * weka ← wex (≠ we)
-* wile ← wile
 
 kalama "i", "u" li sin. kalama "e", "o" li kama "i", "u" lon ni: wan nimi li lili.
 *(La sonoj "i" kaj "u" estas novaj. La sonoj "e" kaj "o" fariĝas "i" kaj "u" kiam la silabo ne estas akcentata. — The sounds "i" and "u" are new. The sounds "e" and "o" become "i" and "u" when the syllable is not stressed.)*
