@@ -1,22 +1,28 @@
 # Pona Toko
 
-Uziĝas la ortografio kaj la radikoj el **Tokipono** kun la akcentado kaj la finaĵoj de **Esperanto**.
+**Pona Toko** havas la radikajn vortojn kaj la ortografion de **Tokipono**, sed ĝi havas la akcentadon kaj la finaĵojn de **Esperanto**.
+*(toki Ponatoko li jo e nimi ijo pi toki pona e nasin sitelen pi toki pona, taso ona li jo e kalama pi toki Epelanto e pini nimi pi toki Epelanto.)*
 
 * niun sunan tenpon mi pone tokas. *(tenpo suno ni la mi toki pona. — Hodiaŭ mi tokiponumas.)*
 
-Laŭ tiu analizo, kelkaj vortoj konsistas nur el unu konsonanto.
-
-* mi jas mutan tenpon. *(mi jo e tenpo mute. — Mi havas multan tempon.)*
-
-Nure la radiko "EST/" el **Esperanto** nepre uziĝas kiam la tokipona predikato estas substantiva aŭ prepozicia.
-
-* la poka jano estas sona jano. *(jan poka li jan sona. — La najbaro estas instruisto.)*
-* jano estas lon sona tomo. *(jan li lon tomo sona. — Iu estas en la lernejo.)*
-
-Por eviti kunfuzojn, uziĝas la radikoj "ŜEL/" kaj "BOK/" por **Tokiponaj** "selo" kaj "poki".
+La tokiponaj vortoj "selo" kaj "poki" havas la radikojn "ŝel" kaj "bok" en **Pona Toko**.
+*(nimi "selo" en "poki" li jo e sijelo nimi "ŝel" en "bok" lon toki Ponatoko.)*
 
 * sela ŝelo *(selo seli — varma haŭto)*
 * poka boko *(poki poka — flanka kesto)*
+
+Nure la radiko "est" kaj la vorto "la" el **Esperanto** estas en Pona Toko.
+*(sijelo nimi "est" en nimi "la" taso tan toki Epelanto li lon toki Ponatoko.)*
+
+* la poka jano estas sona jano. *(jan poka li jan sona. — La najbaro estas instruisto.)*
+* jano estas lon sona tomo. *(jan li lon tomo sona. — Iu estas en la lernejo.)*
+* lon kulupu mi estas wawa. *(kulupu la mi wawa. — En grupo mi estas forta.)*
+* lon ni, mi estas pona taw janoj, janoj estas ponaj taw mi. *(mi pona tawa jan, la jan li pona tawa mi. — Se mi estas bona al homoj, homoj estas bonaj al mi.)*
+
+Ponatoka radiko povas konsisti nur el unu sono.
+*(nimi ijo pi toki Ponatoko li ken jo e kalama wan taso.)*
+
+* mi jas mutan tenpon. *(mi jo e tenpo mute. — Mi havas multan tempon.)*
 
 ## Nomoj
 
@@ -27,6 +33,7 @@ Por eviti kunfuzojn, uziĝas la radikoj "ŜEL/" kaj "BOK/" por **Tokiponaj** "se
 ## Pronomoj
 
 La radiko de pronomoj finiĝas je "-i".
+*(nimi "mi", "sina", "ona" li jo e pini nimi "-i".)*
 
 * sini sinas. *(sina sin. — Vi estas nova.)*
 * oni estas mamo. *(ona li mamo. — Ŝi estas gepatro.)*
@@ -34,6 +41,7 @@ La radiko de pronomoj finiĝas je "-i".
 ## Numeraloj
 
 La radiko de numeraloj finiĝas je "-u".
+*(sijelo nimi pi nimi "wan" en "tu" li jo e pini "-u".)*
 
 * wana *(wan — unika)*
  * wanu *(wan — unu)*
@@ -44,7 +52,8 @@ La radiko de numeraloj finiĝas je "-u".
 
 ## Tabelvortoj
 
-La kompletaj **Tokiponaj** vortoj "seme", "ni", "ale", "ala" estas tabelvortaj radikoj.
+La **Tokiponaj** vortoj "seme", "ni", "ale", "ala" estas tabelvortaj radikoj en **Pona Toko**.
+*(nimi pi toki pona "seme", "ni", "ale", "ala" li sijelo nimi lon toki Ponatoko.)*
 
 * semeal oni estas nie? *(tan seme la ona li lon ni? — Kial ŝi estas tie?)*
  * → tan semeo oni estas lon nio?
@@ -52,9 +61,10 @@ La kompletaj **Tokiponaj** vortoj "seme", "ni", "ale", "ala" estas tabelvortaj r
 ## Prepozicioj
 
 Prepozicioj finiĝas per konsonanto.
+*(nimi monsi palisa li pini kepeken kalama pi open ala.)*
 
 * sini estas sam mi. *(sina sama mi. — Vi estas kiel mi.)*
- * sama tomo *(sama tomo — sama domo)*
+ * sama tomo *(tomo sama — sama domo)*
 * mi estas taw tomo. *(mi tawa tomo. — Mi estas al la domo.)*
  * mi tawas! *(mi tawa! — Mi iras! Ĝis!)*
 
