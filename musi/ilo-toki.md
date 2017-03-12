@@ -6,7 +6,7 @@ ilo toki mi li kama kalama.
 - soweli suli pi nena suli.
 - lon seme?
 - lon tomo pi soweli suli pi nena sijelo.
-- sina li wile e seme?
+- sina wile e seme?
 - e suwi.
 - tawa jan seme?
 - tawa jan lili mi.
