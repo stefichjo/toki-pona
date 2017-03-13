@@ -308,151 +308,188 @@ o weka taso e ike.
 
 62
 00:10:51,954 --> 00:10:54,787
-The gathering that abandon why to worry about it..
+jan li tawa weka tan kulupu, la ona li wile ala pilin ike.
+==The gathering that abandon why to worry about it..
 
 63
 00:10:55,382 --> 00:10:58,200
-there are yet some new moments to cherish let get along with it
+ona li ken pilin pona tan tenpo mute ante sin.
+==there are yet some new moments to cherish let get along with it
 
 64
 00:10:59,192 --> 00:11:01,096
-little bit i can also write
+mi ken lili sitelen musi.
+==little bit i can also write
 
 65
 00:11:01,771 --> 00:11:04,112
-its very good. tell me the next line.
+pona mute. o awen toki.
+==its very good. tell me the next line.
 
 66
 00:11:04,549 --> 00:11:06,136
-no i would not.
+ala.
+==no i would not.
 
 67
 00:11:07,208 --> 00:11:11,176
-If i will narrate the further poem you will end up proposing me.
+mi awen toki e pini pi nimi musi, la sina wile kama lon unpa mi.
+==If i will narrate the further poem you will end up proposing me.
 
 68
 00:11:11,930 --> 00:11:13,041
-are you crazy?
+sina nasa anu seme?
+==are you crazy?
 
 69
 00:11:13,398 --> 00:11:13,954
-No really!
+mi toki pona!
+==No really!
 
 70
 00:11:14,827 --> 00:11:16,589
-your favorite poet is harivansh rai bacchan.
+sina olin e jan musi Aliwan Lawi Pasan.
+==your favorite poet is harivansh rai bacchan.
 
 71
 00:11:16,613 --> 00:11:18,875
-In morning he met a woman, narrate her his poem
+kama pi tenpo suno wan la ona li kama lon meli li toki e nimi musi ona tawa ona.
+==In morning he met a woman, narrate her his poem
 
 72
 00:11:19,367 --> 00:11:22,811
-and in the evening he end up marrying her.
+pini pi tenpo suno sama la ona tu li kama lon unpa.
+==and in the evening he end up marrying her.
 
 73
 00:11:23,525 --> 00:11:24,494
-and now see..
+o lukin e ni:
+==and now see..
 
 74
 00:11:24,921 --> 00:11:27,637
-..he gave birth to a legend..Amitabh bacchan
+ona li kama mama pi jan suli pona... jan Amita Pasan.
+==..he gave birth to a legend..Amitabh bacchan
 
 75
 00:11:30,335 --> 00:11:30,796
-jaggu
+jan Jaku.
+==jaggu
 
 76
 00:11:31,970 --> 00:11:32,494
-jaggu?
+Jaku?
+==jaggu?
 
 77
 00:11:33,526 --> 00:11:34,383
-yes that's my name
+a. ni li nimi mi.
+==yes that's my name
 
 78
 00:11:34,843 --> 00:11:36,685
-my dad gave me even more bizzare name
+sin la mama mi li pana e nimi ante pi nasa sin tawa mi.
+==my dad gave me even more bizzare name
 
 79
 00:11:36,970 --> 00:11:37,907
-jagat jannani
+Jaka Jannani.
+==jagat jannani
 
 80
 00:11:38,287 --> 00:11:39,463
-everybody used to mock me at school
+jan ale li musi ike kepeken mi lon tomo sona.
+==everybody used to mock me at school
 
 81
 00:11:39,780 --> 00:11:40,669
-therefore i made it short
+tan ni la mi lili e ona.
+==therefore i made it short
 
 82
 00:11:41,082 --> 00:11:41,383
-jaggu
+Jaku.
+==jaggu
 
 83
 00:11:43,007 --> 00:11:43,975
-you from mumbai?
+sina tan ma tomo Munpawi anu seme?
+==you from mumbai?
 
 84
 00:11:44,150 --> 00:11:44,658
-Nope..Delhi!
+ala. Teli!
+==Nope..Delhi!
 
 85
 00:11:44,832 --> 00:11:46,039
-i am doing course of TV production here.
+ma tomo ni la mi lon tomo sona pi sitelen tawa.
+==i am doing course of TV production here.
 
 86
 00:11:46,515 --> 00:11:46,880
-you?
+sina a?
+==you?
 
 87
 00:11:47,912 --> 00:11:48,912
-I am sarfaraz..
+mi jan Sapala...
+==I am sarfaraz..
 
 88
 00:11:49,293 --> 00:11:50,404
-..studying architecture here..
+...mi kama sona e nasin tomo lon ni.
+==..studying architecture here..
 
 89
 00:11:51,420 --> 00:11:52,833
-..and doing part-time job.
+poka ni la mi pali...
+==..and doing part-time job.
 
 90
 00:11:53,071 --> 00:11:54,039
-here itself in pakistan embassy.
+...lon tomo pi ma Pakitan.
+==here itself in pakistan embassy.
 
 91
 00:11:54,388 --> 00:11:56,277
-in pakistan embassy. why?
+lon tomo pi ma Pakitan? tan seme?
+==...in pakistan embassy. why?
 
 92
 00:11:56,779 --> 00:11:58,565
-because i am from pakistan.
+tan ni: mi tan ma Pakitan.
+==because i am from pakistan.
 
 93
 00:11:59,200 --> 00:12:02,315
-Indian embassy wouldn't hire me afterall.
+sin la tomo pi ma Palata li wile ale e pali tan mi.
+==Indian embassy wouldn't hire me afterall.
 
 94
 00:12:05,172 --> 00:12:06,283
-what happened?
+seme li kama?
+==what happened?
 
 95
 00:12:07,196 --> 00:12:08,069
-no, nothing.
+ala.
+==no, nothing.
 
 96
 00:12:12,235 --> 00:12:15,470
-your smile disappered after you heard i am from pakistan.
+sina kute e ni: mi tan ma Pakitan. sin ni la uta sina pini pana e lukin pi pilin pona.
+==your smile disappered after you heard i am from pakistan.
 
 97
 00:12:19,772 --> 00:12:20,347
-lets go?
+o tawa?
+==lets go?
 
 98
 00:12:21,676 --> 00:12:23,760
-khuda hafiz (good bye in urdu)
+mi tawa.
+==khuda hafiz (good bye in urdu)
 
 99
 00:12:39,733 --> 00:12:50,943
