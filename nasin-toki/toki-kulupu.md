@@ -111,24 +111,24 @@ nimi nanpa li ken kama **nimi lawa**.
 suno en mun en mun luka li lon.
 *(Estas la suno, la luno kaj kvin ĉielo objektoj. — There is the Sun, the Moon and five celestial objects.)*
 
-* mun "Suno" → suno *(la suno — the Sun)*
-* mun "Mun" → mun *(la luno — the Moon)*
-* mun "Mun Seli" → mun seli *(Marso — Mars)*
-* mun "Mun Telo" → mun telo *(Merkuro ­— Mercury)*
-* mun "Mun Kasi" → mun kasi *(Jupitero — Jupiter)*
-* mun "Mun Kiwen" → mun kiwen *(Venuso — Venus)*
-* mun "Mun Ma" → mun ma *(Saturno — Saturn)*
+* mun ***"Suno"*** → ***suno*** *(la suno — the Sun)*
+* mun ***"Mun"*** → ***mun*** *(la luno — the Moon)*
+* mun ***"Mun Seli"*** → ***mun seli*** *(Marso — Mars)*
+* mun ***"Mun Telo"*** → ***mun telo*** *(Merkuro — Mercury)*
+* mun ***"Mun Kasi"*** → ***mun kasi*** *(Jupitero — Jupiter)*
+* mun ***"Mun Kiwen"*** → ***mun kiwen*** *(Venuso — Venus)*
+* mun ***"Mun Ma"*** → ***mun ma*** *(Saturno — Saturn)*
 
 nimi pi tenpo suno li tan nimi pi suno en mun en mun luka.
 *(La nomoj de la tagoj venas de la nomoj de la suno, la luno kaj la kvin ĉielaj objektoj. — The names of the days are derived from the Sun, the Moon and the five celestial objects.)*
 
-* tenpo suno "Suno" *(dimanĉo — Sunday)*
-* tenpo suno "Mun" *(lundo — Monday)*
-* tenpo suno "Mun Seli" *(marto — Tuesday)*
-* tenpo suno "Mun Telo" *(merkredo — Wednesday)*
-* tenpo suno "Mun Kasi" *(ĵaŭdo — Thursday)*
-* tenpo suno "Mun Kiwen" *(vendredo — Friday)*
-* tenpo suno "Mun Ma" *(sabato — Saturday)*
+* tenpo suno ***"Suno"*** *(dimanĉo — Sunday)*
+* tenpo suno ***"Mun"*** *(lundo — Monday)*
+* tenpo suno ***"Mun Seli"*** *(marto — Tuesday)*
+* tenpo suno ***"Mun Telo"*** *(merkredo — Wednesday)*
+* tenpo suno ***"Mun Kasi"*** *(ĵaŭdo — Thursday)*
+* tenpo suno ***"Mun Kiwen"*** *(vendredo — Friday)*
+* tenpo suno ***"Mun Ma"*** *(sabato — Saturday)*
 
 ##### nanpa
 *(Numeroj — Numbers)*
@@ -181,12 +181,12 @@ nimi "luka" en nimi "esun" li ken kama **nimi nanpa**.
 *(Modifilo povas havi ligostrekon. — A modifier can have a hiphen.)*
 
 * mi pana e tomo tawa sina. *(Mi donas la ĉambron al vi. — I give the room to you.)*
-* mi pana e tomo***-tawa-sina***. *(Mi donas vian aŭton. — I give your car.)*
+* mi pana e tomo-***tawa-sina***. *(Mi donas vian aŭton. — I give your car.)*
 
 **nimi suli sinpin** li ken jo e sitelen "en".
 *(Helpa verbo povas havi plus-signon. — An auxilary verb can have a plus sign.)*
 
-* mi ***kama+***sona e toki pona. *(Mi lernas Tokiponon. — I learn Toki Pona.)*
+* mi ***kama***+sona e toki pona. *(Mi lernas Tokiponon. — I learn Toki Pona.)*
 
 ##### kalama nimi en sitelen nimi
 *(Prononco kaj Ortografio — Pronunciation and Orthography)*
@@ -194,7 +194,7 @@ nimi "luka" en nimi "esun" li ken kama **nimi nanpa**.
 kalama "j" li jo e sitelen "y".
 *(La sono "j" skribiĝas "y". — The sound "j" is written "y".)*
 
-* ~~***j***elo~~ → ***y***elo *(flava — yellow)*
+* ~~j~~elo → ***y***elo *(flava — yellow)*
 
 kalama "np" li kama ante li jo e sitelen "mp".
 *(La sono "np" ŝanĝiĝas kaj skribiĝas "mp". — The sound "np" changes and is written "mp".)*
