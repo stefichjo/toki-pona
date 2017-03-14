@@ -194,34 +194,34 @@ nimi "luka" en nimi "esun" li ken kama **nimi nanpa**.
 kalama "j" li jo e sitelen "y".
 *(La sono "j" skribiĝas "y". — The sound "j" is written "y".)*
 
-* ~~j~~elo → ***y***elo *(flava — yellow)*
+* jelo → ***yelo*** *(flava — yellow)*
 
 kalama "np" li kama ante li jo e sitelen "mp".
 *(La sono "np" ŝanĝiĝas kaj skribiĝas "mp". — The sound "np" changes and is written "mp".)*
 
-* ~~te***np***o~~ → te***mp***o *(tempo — time)*
+* tenpo → ***tempo*** *(tempo — time)*
 
 kalama nanpa wan pi nimi monsi en sitelen ona li ken kama ante.
 *(La unua sono de modifilo kaj ĝia letero povas ŝanĝiĝi. — The first sound of a modifier and its letter can change.)*
 
-* jan ~~***p***ona~~ → yan ***b***ona *(amiko — friend)*
-* tomo ~~***t***awa~~ → tomo ***d***awa *(aŭto — car)*
-* tempo ~~***s***uno~~ → tempo ***z***uno *(tago — day)*
-* jan ~~***k***ulupu~~ → yan ***g***ulupu *(membro — member)*
+* jan pona → yan ***bona*** *(amiko — friend)*
+* tomo tawa → tomo ***dawa*** *(aŭto — car)*
+* tempo suno → tempo ***zuno*** *(tago — day)*
+* jan kulupu → yan ***gulupu*** *(membro — member)*
 
 kalama lon monsi pi kalama "i" li ken kama ante.
 *(La sono antaŭ "i" povas ŝanĝiĝi. — The sound before "i" can change.)*
 
-* ~~***pi***~~ → ***fi*** *(de — of, from)*
-* ~~ka***si***~~ → ka***ci*** *(planto — plant)*
-* ~~to***ki***~~ → to***xi*** *(komuniki — to communicate)* 
+* pi → ***fi*** *(de — of, from)*
+* kasi → ***kaci*** *(planto — plant)*
+* toki → ***toxi*** *(komuniki — to communicate)* 
 
 tan ni la kalama nanpa wan pi nimi monsi lon monsi pi kalama "i" li kama ante mute.
 *(Tial, la komenca sono de modifilo tre variiĝas antaŭ "i". — Therefore, the first sound of a modifier can vary very much.)*
 
-* tempo ~~***p***ini~~ → tempo ***vi***ni *(pasinto — past)*
-* soweli ~~***s***ina~~ → soweli ***ji***na *(via kato — your cat)*
-* telo ~~***k***ili~~ → telo ***hi***li *(suko — juice)*
+* tenpo pini → tempo ***vini*** *(pasinto — past)*
+* soweli sina → soweli ***jina*** *(via kato — your cat)*
+* telo kili → telo ***hili*** *(suko — juice)*
 
 #### toki pini
 *(Pasinta Lingvaĵo — Language of the Past)*
@@ -404,10 +404,10 @@ sitelen nimi en sitelen nimi li kama ante lon toki pona, la jan ken sitelen e ni
 kalama "i", "u" li sin. kalama "e", "o" li kama "i", "u" lon ni: wan nimi li lili.
 *(La sonoj "i" kaj "u" estas novaj. La sonoj "e" kaj "o" fariĝas "i" kaj "u" kiam la silabo ne estas akcentata. — The sounds "i" and "u" are new. The sounds "e" and "o" become "i" and "u" when the syllable is not stressed.)*
 
-* tok***e*** → tok***i*** *(lingvo — language)*
-* mok***o*** → mok***u*** *(gluti — to swallow)*
-* ake***te*** → aki***ti*** → aki***si*** *(reptilo, amfibio — reptile, amphibian)*
-* te***je***lo → te***ji***lu → te***wi***lu *(vivaĵo — living being)*
+* toke → ***toki*** *(lingvo — language)*
+* moko → ***moku*** *(gluti — to swallow)*
+* akete → akiti → ***akisi*** *(reptilo, amfibio — reptile, amphibian)*
+* tejelo → tejilu → ***tewilu*** *(vivaĵo — living being)*
 
 
 ### toki nasa
