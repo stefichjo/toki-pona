@@ -1,3 +1,12 @@
+0
+00:00:00,000 --> 00:00:01,000
+galaxy - mute mun
+moon - mun
+planet - ma sike
+space ship - tomo tawa mun
+star - mun
+sun - suno
+
 1
 00:01:46,441 --> 00:01:48,084
 mun lon sewi li mute, a.
@@ -493,23 +502,28 @@ mi tawa.
 
 99
 00:12:39,733 --> 00:12:50,943
-Lets put our identity and tradition aside
+o weka e ma mama mi.
+==Lets put our identity and tradition aside
 
 100
 00:12:52,828 --> 00:13:04,348
-..and just walk together side by side.
+o tawa lon poka mi.
+==..and just walk together side by side.
 
 101
 00:13:14,249 --> 00:13:21,431
-Lets put our identity and tradition aside
+o weka e ma mama mi.
+==Lets put our identity and tradition aside
 
 102
 00:13:22,126 --> 00:13:29,356
-..and just walk together side by side.
+o tawa lon poka mi.
+==..and just walk together side by side.
 
 103
 00:14:22,314 --> 00:14:29,179
-i'll give you shadow in the harsh sun light
+mi weka e suno pi wawa ike tan sina. mi lon sinpin ona.
+==i'll give you shadow in the harsh sun light
 
 104
 00:14:30,469 --> 00:14:37,711
