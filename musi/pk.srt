@@ -1,11 +1,16 @@
 0
 00:00:00,000 --> 00:00:01,000
-galaxy - mute mun
-moon - mun
-planet - ma sike
-space ship - tomo tawa mun
-star - mun
-sun - suno
+galaxy ("multitude of stars") = mute mun
+laugh ("playful emotional utterance") = a musi
+moon = mun
+planet ("night sky object") = mun
+planet ("round world") = ma sike
+smile ("happy face") = sinpin lawa pi pilin pona
+space ship ("interstellar moving indoor space") = tomo tawa mun
+star ("night sky object") = mun
+star ("sun") = suno
+sun = suno
+ticket = lipu tawa
 
 1
 00:01:46,441 --> 00:01:48,084
@@ -487,7 +492,7 @@ ala.
 
 96
 00:12:12,235 --> 00:12:15,470
-sina kute e ni: mi tan ma Pakitan. sin ni la uta sina pini pana e lukin pi pilin pona.
+mi tan ma Pakitan. sina kute e ni, la sinpin lawa sina pi pilin pona li kama weka.
 ==your smile disappered after you heard i am from pakistan.
 
 97
@@ -527,17 +532,22 @@ mi weka e suno pi wawa ike tan sina. mi lon sinpin ona.
 
 104
 00:14:30,469 --> 00:14:37,711
-if the darkness will scare you in farther sky,
+pimeja li pana e pilin ike tawa sina, la
+mi kule musi e mun tawa sina.
+==if the darkness will scare you in farther sky,
 i will decorate a moon for you
 
 105
 00:14:38,366 --> 00:14:45,125
-if the sadness will surround you
+pilin ike li kama lon poka sina, la
+mi toki musi tawa sina. mi pana e a musi tawa sina.
+==if the sadness will surround you
 i would tell you jokes and make you laugh
 
 106
 00:14:46,401 --> 00:14:53,505
-we'll keep smiling and walking few steps
+mi tu li awen jo e sinpin lawa pi pilin pona li awen tawa lon poka pi mi tu kepeken luka pi mi tu.
+==we'll keep smiling and walking few steps
 hand in hand.
 
 107
