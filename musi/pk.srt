@@ -1,5 +1,7 @@
 0
 00:00:00,000 --> 00:00:01,000
+architecture ("way of houses") = nasin tomo
+fear ("bad feeling") = pilin ike
 galaxy ("multitude of stars") = mute mun
 laugh ("playful emotional utterance") = a musi
 moon = mun
@@ -104,7 +106,7 @@ ona li wan taso
 
 19
 00:06:28,257 --> 00:06:29,229
-li pilin akesi.
+li pilin ike.
 ==and frightened
 
 20
@@ -556,82 +558,103 @@ hand in hand.
 
 108
 00:15:12,954 --> 00:15:20,413
-the world doesn't scare me anymore after i met you.
+ale li pana ala e pilin ike tawa mi tan ni: mi kama lon sina.
+==the world doesn't scare me anymore after i met you.
 
 109
 00:15:20,930 --> 00:15:27,854
-Not just few steps i could walk with you my whole life.
+mi lon, la mi ken tawa lon poka sina taso.
+==Not just few steps i could walk with you my whole life.
 
 110
 00:16:25,664 --> 00:16:26,405
-Thank you
+pona!
+==Thank you
 
 111
 00:16:28,866 --> 00:16:29,527
-mummy
+mama meli o
+==mummy
 
 112
 00:16:30,030 --> 00:16:32,172
-papa..she's fallen in love
+mama mije o... ona li kama olin
+==papa..she's fallen in love
 
 113
 00:16:33,151 --> 00:16:35,109
-fallen in love?
+kama olin?
+==fallen in love?
 
 114
 00:16:35,717 --> 00:16:36,643
-he's so cute.
+ona li suwi a.
+==he's so cute.
 
 115
 00:16:37,171 --> 00:16:38,469
-show us more pictures.
+o pana e sitelen sin.
+==show us more pictures.
 
 116
 00:16:38,918 --> 00:16:41,167
-what does he do? i hope not from a joint family
+ona li pali e seme? ona o wile ala lon tomo pi kulupu mama.
+==what does he do? i hope not from a joint family
 
 117
 00:16:42,225 --> 00:16:43,998
-stay calm, i will tell everything.
+o toki ala. mi toki e ale.
+==stay calm, i will tell everything.
 
 118
 00:16:44,261 --> 00:16:45,453
-first tell us his name.
+nanpa wan la o toki e nimi ona.
+==first tell us his name.
 
 119
 00:16:46,564 --> 00:16:47,675
-sarfaraz.
+Sapala.
+==sarfaraz.
 
 120
 00:16:48,813 --> 00:16:49,897
-he is muslim?
+ona li jan Musuman anu seme?
+==he is muslim?
 
 121
 00:16:50,982 --> 00:16:54,951
-yes papa. he is studying architure here.
+a, mama mije o. ona li kama sona e nasin tomo lon ni.
+taso kulupu mama ona li lon ma Pakitan.
+==yes papa. he is studying architure here.
 but family is in pakistan.
 
 122
 00:16:55,082 --> 00:16:55,823
-pakistan?
+Pakitan?
+==pakistan?
 
 123
 00:16:58,980 --> 00:17:02,442
-what are you saying? you are going to wear burka? read namaz?
+sina toki e seme? sina wile jo e len lon sinpin lawa anu seme? lukin e sitelen pi nasin sewi Musuman? sina kama nasa!
+==what are you saying? you are going to wear burka? read namaz?
  you have gone insane
 
 124
 00:17:02,601 --> 00:17:06,702
-jaggu you stay right there, don't disconnect.
+jan Jaku o awen ni taso. o tawa ala weka.
+o pana e tomo tawa mi... lon tenpo ni.
+==jaggu you stay right there, don't disconnect.
 take out my car..quickly.
 
 125
 00:17:07,178 --> 00:17:09,956
-its been a disaster, please help us guruji.
+pakala li kama. o pana e pona, jan sona Si o.
+==its been a disaster, please help us guruji.
 
 126
 00:17:09,982 --> 00:17:12,363
-I knew where my father was going.
+mi sona e tawa pi mama mije mi.
+==I knew where my father was going.
 
 127
 00:17:12,628 --> 00:17:16,543
