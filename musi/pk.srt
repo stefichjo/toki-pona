@@ -2,7 +2,7 @@
 00:00:00,000 --> 00:00:01,000
 architecture ("way of houses") = nasin tomo
 fear ("bad feeling") = pilin ike
-galaxy ("multitude of stars") = mute mun
+galaxy ("multitude of stars") = mute suno
 laugh ("playful emotional utterance") = a musi
 moon = mun
 planet ("night sky object") = mun
@@ -16,7 +16,7 @@ ticket = lipu tawa
 
 1
 00:01:46,441 --> 00:01:48,084
-mun lon sewi li mute, a.
+suno lon sewi pimeja li mute, a.
 ==There are so may stars in the sky
 
 2
@@ -31,12 +31,12 @@ sina kama nanpa e ona, la sina wile awen lon sike suno pi mute ike.
 
 4
 00:01:54,807 --> 00:01:57,545
-ni li mun mute pi mute mun ni taso.
+ni li suno mute pi mute mun ni taso.
 ==finish counting stars in only our galaxy
 
 5
 00:02:00,262 --> 00:02:02,358
-sin la mute mun ante li mute suli.
+sin la mute suno ante li mute.
 ==and there a lot of such galaxies
 
 6
@@ -46,17 +46,17 @@ jan sona li toki e ni.
 
 7
 00:02:06,793 --> 00:02:09,994
-tan ni la ken la ni li lon anu seme: mute mun wan la sike ma wan la
+tan ni la ken la ni li lon anu seme: mute suno wan la sike ma wan la
 ==So isn't it possible that out of so many galaxies there is one planet out there
 
 8
 00:02:10,589 --> 00:02:15,049
-jan sama mi li lon?
+jan sama mi mute li lon?
 ==people like us exist.
 
 9
 00:02:16,330 --> 00:02:19,735
-mi mute li tawa mun.
+mi mute li tawa mun li tawa sike ma ante.
 ==Just like we are traveling to moon and mars in order to reach them
 
 10
@@ -658,16 +658,19 @@ mi sona e tawa pi mama mije mi.
 
 127
 00:17:12,628 --> 00:17:16,543
-Since childhood we saw face of tapasvi guru ji face
+tenpo pini la mi en jan sama mi li lili. ni la mi tu li lukin e sinpin lawa pi jan sona Si lon tenpo mute e sinpin lawa pi mama tu mi lon tenpo lili.
+==Since childhood we saw face of tapasvi guru ji face
  more than our parents.
 
 128
 00:17:20,033 --> 00:17:24,187
-from school bag to bather wall he was present everywhere.
+supa ale li jo e sinpin lawa ona.
+==from school bag to bather wall he was present everywhere.
 
 129
 00:17:26,806 --> 00:17:31,012
-he wouldn't even go to dentist without taking a auspicious advise from guruji.
+sin la ona li kama jo ala e toki pi pona kama tan jan sona Si, la ona li wile ala tawa jan pi pona pi kiwen uta.
+==he wouldn't even go to dentist without taking a auspicious advise from guruji.
 
 130
 00:17:32,732 --> 00:17:38,631
