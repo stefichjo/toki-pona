@@ -177,10 +177,14 @@ nimi "luka" en nimi "esun" li ken kama **nimi nanpa**.
 ##### sitelen lon poka nimi
 *(Interpunkcio — Punctuation)*
 
+**nimi monsi palisa** lon monsi pi mute nimi li ken jo e sitelen "anu".
+*(Prepozicio fine de frazo povas havi oblikvan strekon. — A preposition at the end of a sentence can have a slash.)*
+
+* mi pana e tomo/tawa sina. *(Mi donas la ĉambron al vi. — I give the room to you.)*
+
 **nimi monsi** li ken jo e sitelen "pi".
 *(Modifilo povas havi ligostrekon. — A modifier can have a hiphen.)*
 
-* mi pana e tomo tawa sina. *(Mi donas la ĉambron al vi. — I give the room to you.)*
 * mi pana e tomo-***tawa-sina***. *(Mi donas vian aŭton. — I give your car.)*
 
 **nimi suli sinpin** li ken jo e sitelen "en".
@@ -444,7 +448,7 @@ nimi "pana e" li ken kama weka.
 **nimi ilo** "pi" li ken awen lon sinpin pi **nimi lawa** wan taso. ni la **nimi ilo** "pi" lon poka pi **nimi lawa** li sama **nimi suli**.
 *(La partikulo "pi" povas resti antaŭ ununura substantivo. Tiam la partikulo "pi" kune kun la substantivo ŝajnas verbo. — The particle "pi" can stay before a single noun. Then the particle "pi" together with the noun seem to be a verb.)*
 
-* ni li ijo mi. *(Tio apartenas al mi. ­— This belongs to me.)*
+* ni li ijo mi. *(Tio apartenas al mi. — This belongs to me.)*
  * → ni li ijo pi mi. *(Tio estas io de mi. — This is something of me.)*
     * → ni li pi mi. *(Tio estas mia. — This is mine.)*
 
@@ -455,7 +459,7 @@ nimi pi **mute nimi** lon insa pi **mute nimi** li ken kama weka.
 *(Vortoj de subfrazo povas malaperi. — Words of a subordinate clause can disappear.)*
 
 * mi pana e moku tawa jan (ni). ona li kama lon tomo mi. *(Mi donis manĝon al (t)iu persono. Li aperis en mia domo. — I gave food to a/that person. He appeared in my house.)*
-* mi pana e moku tawa jan (ni) pi ijo ni: ona li kama lon tomo mi. *(Mi donis manĝon al (t)iu persono, kiu aperis en mia domo. — I gave food to the person, who appeared in my house.)*
+* → mi pana e moku tawa jan (ni) pi ijo ni: ona li kama lon tomo mi. *(Mi donis manĝon al (t)iu persono, kiu aperis en mia domo. — I gave food to the person, who appeared in my house.)*
  * → mi pana e moku tawa jan (ni) pi ona li kama lon tomo mi.
     * → mi pana e moku tawa jan (ni) pi li kama lon tomo mi.
        * → mi pana e moku tawa jan (ni) pi kama lon tomo mi.
@@ -572,4 +576,4 @@ nimi "pini" li ken kama weka.
 
 * mi ***olin e ni: mi*** kama sona e jan pona sina. *(Mi amas konatiĝi kun via amiko. — I love to get to know your friend.)*
  * → mi ***olin*** kama sona e jan pona sina.
-
+ 
