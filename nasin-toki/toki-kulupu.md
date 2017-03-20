@@ -180,7 +180,7 @@ nimi "luka" en nimi "esun" li ken kama **nimi nanpa**.
 **nimi monsi palisa** lon monsi pi mute nimi li ken jo e sitelen "anu".
 *(Prepozicio fine de frazo povas havi oblikvan strekon. — A preposition at the end of a sentence can have a slash.)*
 
-* mi pana e tomo/tawa sina. *(Mi donas la ĉambron al vi. — I give the room to you.)*
+* mi pana e tomo / tawa sina. *(Mi donas la ĉambron al vi. — I give the room to you.)*
 
 **nimi monsi** li ken jo e sitelen "pi".
 *(Modifilo povas havi ligostrekon. — A modifier can have a hiphen.)*
