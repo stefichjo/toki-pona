@@ -174,6 +174,11 @@ nimi "luka" en nimi "esun" li ken kama **nimi nanpa**.
 
 * luka tu nanpa mute *(tria deko → dek je la tria potenco — third ten → ten to the power of three)*
 
+**nimi ilo** "en" li ken lon insa pi nimi nanpa tu lon ni a: ona tu ni li lon monsi pi **nimi ilo** "li".
+*(La partikulo "en" povas esti inter du numeraloj eĉ en la predikato. — The particle "en" can be between numerals even in the predicate.)*
+
+* mi jo e pan luka tu ***en*** tu. *(Mi havas dek du panojn.)*
+
 ##### sitelen lon poka nimi
 *(Interpunkcio — Punctuation)*
 
