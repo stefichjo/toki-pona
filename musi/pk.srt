@@ -4,6 +4,7 @@ architecture ("way of houses") = nasin tomo
 fear ("bad feeling") = pilin ike
 galaxy ("multitude of stars") = mute suno
 laugh ("playful emotional utterance") = a musi
+marriage ("community of maritial relationship") = kulupu unpa
 moon = mun
 planet ("night sky object") = mun
 planet ("round world") = ma sike
@@ -349,7 +350,7 @@ ala.
 
 67
 00:11:07,208 --> 00:11:11,176
-mi awen toki e pini pi nimi musi, la sina wile kama lon unpa mi.
+mi awen toki e pini pi nimi musi, la sina wile lon kulupu unpa lon poka mi.
 ==If i will narrate the further poem you will end up proposing me.
 
 68
@@ -374,7 +375,7 @@ kama pi tenpo suno wan la ona li kama lon meli li toki e nimi musi ona tawa ona.
 
 72
 00:11:19,367 --> 00:11:22,811
-pini pi tenpo suno sama la ona tu li kama lon unpa.
+pini pi tenpo suno sama la ona tu li kama kulupu unpa.
 ==and in the evening he end up marrying her.
 
 73
@@ -745,78 +746,96 @@ sina lukin e tenpo pini, la tenpo ala la ona mute li toki pi lawa pona.
 
 143
 00:19:05,801 --> 00:19:11,912
-ona li kepeken sijelo sina, taso tenpo ala la ona li kama lon unpa sina. a, ona li tawa weka tan sina lon tenpo lili.
+ona li kepeken sijelo sina, taso tenpo ala la ona li kama lon kulupu unpa lon poka sina. a, tenpo lili la ona li kama tawa weka tan sina.
 ==he will use your body but never going to marry you.
 infact he will leave you soon.
 
 144
 00:19:12,785 --> 00:19:16,251
-jaggu, come back to India right away.
+jan Jaku o tawa sin tawa ma Palata lon tenpo ni.
+sina awen lon ni lon tenpo pimeja sin, la...
+==jaggu, come back to India right away.
 If you will stay one more night there..
 
 145
 00:19:16,436 --> 00:19:17,732
-you will no longer be my daughter.
+sina meli lili mi ala.
+==you will no longer be my daughter.
 
 146
 00:19:18,182 --> 00:19:20,748
-Mr. sahni, let me speak with her
+jan Sani o, mi o toki tawa ona.
+==Mr. sahni, let me speak with her
 
 147
 00:19:20,774 --> 00:19:24,822
-child, just press the delete button..
+jan lili o weka e ona tan lipu sona lon insa pi lawa sina...
+==child, just press the delete button..
 
 148
 00:19:25,012 --> 00:19:27,340
-and disconnect him out of your life.
+o weka e ona tan ilo sona lon insa pi ale sina.
+==and disconnect him out of your life.
 
 149
 00:19:35,779 --> 00:19:36,573
-what's going on?
+seme li lon?
+==what's going on?
 
 150
 00:19:38,822 --> 00:19:39,721
-do you love me?
+sina olin e mi anu seme?
+==do you love me?
 
 151
 00:19:40,938 --> 00:19:42,314
-ofcourse i do. why?
+olin, a. tan seme?
+==ofcourse i do. why?
 
 152
 00:19:43,610 --> 00:19:44,615
-Will you marry me?
+sina kama kulupu unpa lon poka mi anu seme?
+==Will you marry me?
 
 153
 00:19:45,382 --> 00:19:46,467
-but what happend?
+o, seme li lon?
+==but what happend?
 
 154
 00:19:46,546 --> 00:19:47,181
-just yes or no?
+o toki e nimi "a" anu nimi "ala".
+==just yes or no?
 
 155
 00:19:48,218 --> 00:19:49,117
-yes but..
+a, taso...
+===yes but..
 
 156
 00:19:49,356 --> 00:19:49,779
-tomorrow.
+tenpo suno kama la.
+==tomorrow.
 
 157
 00:19:50,043 --> 00:19:50,546
-tomorrow?
+tenpo suno kama?
+==tomorrow?
 
 158
 00:19:51,842 --> 00:19:54,038
-tomorrow we will get married.
+tenpo suno kama la mi tu li kama kulupu unpa.
+==tomorrow we will get married.
 
 159
 00:19:55,095 --> 00:19:56,922
-Tapasvi ji's prediction is false.
+jan Si li toki ike e tenpo kama.
+==Tapasvi ji's prediction is false.
 
 160
 00:19:57,874 --> 00:19:58,694
-I'll prove it.
+mi pana lukin e ni.
+==I'll prove it.
 
 161
 00:20:04,594 --> 00:20:06,075
