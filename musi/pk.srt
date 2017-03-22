@@ -175,7 +175,7 @@ sina lon esun pimeja e nimi musi??
 
 32
 00:08:11,427 --> 00:08:14,344
-mi awen lon kulupu palisa pi jan awen lon tenpo suli. tenpo li mani.
+mi awen lon kulupu pi jan awen lon tenpo suli. tenpo li mani.
 ==I stood 6 hours in the queue. Time is money.
 
 33
@@ -746,7 +746,7 @@ sina lukin e tenpo pini, la tenpo ala la ona mute li toki pi lawa pona.
 
 143
 00:19:05,801 --> 00:19:11,912
-ona li kepeken sijelo sina, taso tenpo ala la ona li kama lon kulupu unpa lon poka sina. a, tenpo lili la ona li kama tawa weka tan sina.
+ona li kepeken sijelo sina, taso tenpo ala la ona li kama lon kulupu unpa lon poka sina. a, pini pi tenpo lili la ona li tawa weka tan sina.
 ==he will use your body but never going to marry you.
 infact he will leave you soon.
 
@@ -895,7 +895,7 @@ weka ike. lukin la o toki tawa jan Pike.
 171
 00:22:05,314 --> 00:22:09,123
 mi kama lukin e toki pi sona sin. o tawa tomo pali.
-mi kama lon ni lon tenpo lili.
+mi lon ni lon pini pi tenpo lili.
 ==I found a story, you reach office
 I will be there soon.
 
@@ -972,25 +972,24 @@ tan ni la jan lawa sewi li ken kama lukin e mi lon kulupu suli a.
 
 186
 00:23:34,699 --> 00:23:37,027
-tawa jan la soweli li moli ala e sama.
+jan toki e ni: soweli li moli ala e ona sama.
 ==They say that animals don't suicide.
 
 187
 00:23:38,032 --> 00:23:42,080
 ni li soweli Niku. jan Suwisi Sin li jo e ona
-lon ma Lame Naka pi ma Teli.
+lon ma Lame Naka pi ma tomo Teli.
 ==Its a dog named nikku of sweeti singh
 who lives in ramesh nagar in delhi.
 
 188
 00:23:42,688 --> 00:23:45,889
-tenpo mun pini la tenpo 3 la ona li lukin moli. 
+tenpo mun pini la tenpo 3 la ona li lukin moli e ona sama.
 ==it did three suicide attempts in past one month.
 
 189
 00:23:46,260 --> 00:23:51,709
-ona li lukin anpa tan sewi tomo li lukin moku e kiwen lape
-li lukin awen lon ilo seli kon.
+ona li anpa e ona sama tan sewi li uta e ilo lape li lon ilo seli e ona sama.
 ==It tried jumping from the terrace, licking a sleeping pills
 and jumping on a gas burner.
 
@@ -1001,12 +1000,12 @@ soweli Niku li pali e ni tan seme?
 
 191
 00:23:54,461 --> 00:23:57,106
-ona li jo e ike lawa anu seme?
+ona li jo e lawa ike anu seme?
 ==Is nikku suffering from a mental disorder?
 
 192
 00:23:58,350 --> 00:23:59,863
-[mu lili]
+[mu lili pi pilin ike]
 ==[dog whining]
 
 193
@@ -1016,19 +1015,18 @@ jan Jaku o, seme li kama?
 
 194
 00:24:10,472 --> 00:24:14,890
-mi mute li awen toki tawa jan pi tomo pali Latan Ataliwa
-lon pini pi tenpo lili.
+jan mute li sona e jan Latan Ataliwa. ona li lawa e tomo pali. pini pi tenpo lili la mi mute li awen toki tawa ona.
 ==We'll continue talking to famous industrialist
  Mr ratan atarival after a short break..
 
 195
 00:24:18,567 --> 00:24:19,546
-sina wile ala wile e telo wawa?
+sina wile e telo wawa anu seme?
 ==you want coffee?
 
 196
 00:24:19,943 --> 00:24:21,318
-o pana e telo wawa tawa ona!
+jan o pana e telo wawa tawa mije ni!
 ==someone get gentleman a coffee.
 
 197
@@ -1038,9 +1036,7 @@ pakala...
 
 198
 00:24:22,938 --> 00:24:29,657
-ona li jo e seme? pilin ike anu ike pi wile suli
-anu ike pi lon lawa ante anu wile sona lili
-anu ike pi pali mute?
+tawa sina la ona li pilin ike tan seme? tan weka wawa? tan ala? tan kon nasa? tan weka olin?
 ==What do you think it has depression,
 anxiety disorder, schizophrenia or
 attention deficit hyperactivity disorder?
@@ -1057,8 +1053,8 @@ lon! jan ala li wile sona!
 
 201
 00:24:35,424 --> 00:24:38,573
-ni la mi mute li pana e sona ni tawa jan
-lon ilo pana pi mi mute tan seme?
+ni la tan seme la mi mute li pana e sona sin nasa ni
+kepeken tomo pi sitelen tawa, pi mi mute?
 ==then why are we showing such stupid news
 on our channel?
 
