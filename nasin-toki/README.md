@@ -29,20 +29,20 @@ wan lipu "[toki musi](toki-kulupu.md#toki-musi)" li toki e nasin toki pi jan ala
 
 * **nimi ijo** *(radika vorto — content word)*
  * **nimi lawa** *(substantivo — noun)*
- * **nimi monsi** *(modifilo, adjektivo, adverbo — modifier, adjective, adverb)*
-    * **nimi monsi palisa** *(prepozicio — preposition)*
+ * **nimi kama** *(modifilo, adjektivo, adverbo — modifier, adjective, adverb)*
+    * **nimi pini palisa** *(prepozicio — preposition)*
  * **nimi ma** *(spaca vorto — spatial noun)*
  * **nimi suli** *(verbo — verb)*
     * **nimi suli pi palisa ala** *(netransitiva verbo - intransitive verb)*
     * **nimi suli palisa** *(transitiva verbo — transitive verb)*
-    * **nimi suli sinpin** *(helpa verbo — auxiliary verb)*
+    * **nimi suli pini** *(helpa verbo — auxiliary verb)*
 * **nimi ilo** *(partikulo — particle)*
  * **nimi kalama** *(interjekcio — interjection)*
 * **mute nimi** *(frazo — sentence)*
  * **sitelen lon poka nimi** *(interpunkcio — punctuation)*
- * **nimi lon sinpin pi nimi ilo "li"** *(subjekto — subject)*
- * **nimi lon monsi pi nimi ilo "li"** *(predikato — predicate)*
- * **nimi lon monsi pi nimi ilo "e"** *(rekta objekto — direct object)*
- * **nimi lon sinpin pi nimi ilo "la"** *(helpa frazero — auxiliary clause)*
+ * **nimi lon kama pi nimi ilo "li"** *(subjekto — subject)*
+ * **nimi lon pini pi nimi ilo "li"** *(predikato — predicate)*
+ * **nimi lon pini pi nimi ilo "e"** *(rekta objekto — direct object)*
+ * **nimi lon kama pi nimi ilo "la"** *(helpa frazero — auxiliary clause)*
  * **mute nimi lon insa pi mute nimi** *(subfrazo — subordinate clause)*
  * **mute nimi pi nimi "seme"** *(demanda frazo — interrogative sentence)*
