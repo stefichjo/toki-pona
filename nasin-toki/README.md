@@ -30,7 +30,7 @@ wan lipu "[toki musi](toki-kulupu.md#toki-musi)" li toki e nasin toki pi jan ala
 * **nimi ijo** *(radika vorto — content word)*
  * **nimi lawa** *(substantivo — noun)*
  * **nimi kama** *(modifilo, adjektivo, adverbo — modifier, adjective, adverb)*
-    * **nimi pini palisa** *(prepozicio — preposition)*
+    * **nimi kama palisa** *(prepozicio — preposition)*
  * **nimi ma** *(spaca vorto — spatial noun)*
  * **nimi suli** *(verbo — verb)*
     * **nimi suli pi palisa ala** *(netransitiva verbo - intransitive verb)*
