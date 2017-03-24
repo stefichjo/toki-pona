@@ -10,7 +10,7 @@
 #### nimi ilo "li"
 *(Subjekto — Subject)*
 
-nimi lon sinpin pi **nimi ilo** "li" li nimi "mi" taso anu nimi "sina" taso, la **nimi ilo** "li" li kama weka.
+nimi lon kama pi **nimi ilo** "li" li nimi "mi" taso anu nimi "sina" taso, la **nimi ilo** "li" li kama weka.
 *(Se la subjekto estas nura "mi" aŭ nura "sina", "li" malaperas. — If the subject is just "mi" or "sina", "li" disappears.)*
 
 * mi ***~~li~~*** mije. *(Mi estas viro. — I am a man.)*
@@ -18,7 +18,7 @@ nimi lon sinpin pi **nimi ilo** "li" li nimi "mi" taso anu nimi "sina" taso, la 
 * sina ***~~li~~*** sin. *(Vi estas nova. — You are new.)*
  * → sina sin.
 
-**mute nimi** tu pi nimi sama lon sinpin pi nimi "li" li ken kama wan. nimi tu ni lon sinpin pi nimi "li" li "mi" anu "sina", la **mute nimi** tu li ken ala kama wan.
+**mute nimi** tu pi nimi sama lon kama pi nimi "li" li ken kama wan. nimi tu ni lon kama pi nimi "li" li "mi" anu "sina", la **mute nimi** tu li ken ala kama wan.
 *(Du frazoj kun sama subjekto povas unuiĝi. Se tiu subjekto estas "mi" aŭ "sina", la du frazoj ne povas unuiĝi. — Two sentences with the same subject can become one. If the subject is "mi" or "sina", the two sentences can't become one.)*
 
 * ***ma mama li*** lili en ***ma mama li*** lete. *(La patrujo estas malgranda kaj la patrujo estas malvarma. — The motherland is small and the motherland is cold.)*
@@ -26,7 +26,7 @@ nimi lon sinpin pi **nimi ilo** "li" li nimi "mi" taso anu nimi "sina" taso, la 
 * ***mi*** kama sona e toki mute en ***mi*** musi. *(Mi studis lingvistikon kaj mi ludis. — I was studying linguistics and I was being playful.)*
  * → ***mi*** kama sona e toki mute. ***mi*** musi. *(Mi studis lingvistikon kaj ludis. — I was studying linguistics and being playful.)*
 
-jan li wile toki sin lon tenpo lili la, **nimi ilo** "li" lon poka pi nimi lon sinpin ona li ken kama weka.
+jan li wile toki sin lon tenpo lili la, **nimi ilo** "li" lon poka pi nimi lon kama ona li ken kama weka.
 *(Por respondi rapide, la partikulo "li" kaj la subjekto povas malaperi. — In order to respond quickly, the particle "li" and the subject can disappear.)*
 
 * ~~ni li~~ ***pona***. *(Dankon. — Thanks.)*
@@ -37,7 +37,7 @@ jan li wile toki sin lon tenpo lili la, **nimi ilo** "li" lon poka pi nimi lon s
 #### nimi ilo "e"
 *(Rekta Objekto — Direct Object)*
 
-monsi pi **nimi ilo** "e" la **nimi lawa** "ijo" li ken kama weka.
+pini pi **nimi ilo** "e" la **nimi lawa** "ijo" li ken kama weka.
 *(Kiel rekta objekto, la substantivo "ijo" povas malaperi. — As the direct object, the noun "ijo" can disappear.)*
 
 * mije li ***sona e ijo***. *(La viro scias aferojn. — The man knows things.)*
@@ -45,12 +45,12 @@ monsi pi **nimi ilo** "e" la **nimi lawa** "ijo" li ken kama weka.
 * ***~~ijo~~*** toki *(parolaĵo; lingvo — talk, speech; language)*
  * → toki *(lingvo — language)*
 
-**mute nimi** tu pi nimi sama lon sinpin pi nimi "li" en nimi sama lon sinpin pi nimi "e" li ken kama wan. *(Du frazoj kun samaj subjekto kaj predikato sed malsama rekta objekto povas unuiĝi. — Two sentences with the same subject and predicate but with different direct objects can become one.)*
+**mute nimi** tu pi nimi sama lon kama pi nimi "li" en nimi sama lon kama pi nimi "e" li ken kama wan. *(Du frazoj kun samaj subjekto kaj predikato sed malsama rekta objekto povas unuiĝi. — Two sentences with the same subject and predicate but with different direct objects can become one.)*
 
 * ***ona li seli*** e soweli en ***ona li seli*** e pan. *(Ŝi kuiras la viandon kaj ŝi kuiras la rizon. — She cooks the meat and she cooks the rice.)*
  * → ona li ***seli*** e soweli e pan. *(Ŝi kuiras la viandon kaj la rizon. — She cooks the meat and the rice.)*
 
-**mute nimi** pi nanpa tu li lon monsi pi **nimi ilo** "e" pi **mute nimi** pi nanpa wan, la **nimi suli** pi nanpa wan li ken kama **nimi suli sinpin** pi **nimi suli** pi nanpa tu.
+**mute nimi** pi nanpa tu li lon pini pi **nimi ilo** "e" pi **mute nimi** pi nanpa wan, la **nimi suli** pi nanpa wan li ken kama **nimi suli pini** pi **nimi suli** pi nanpa tu.
 *(Se dua frazo estas la rekta objekto de unua frazo, la verbo de la unua frazo povas fariĝi la helpa verbo de la dua verbo. — If a second sentence is the direct object of a first sentence, the verb of the first sentence can become the auxiliary verb of the second sentence.)*
 
 * ***mi kama*** ~~e ni: ***mi***~~ ***moku***. *(Mi komencas manĝi. — I start to eat.)*
@@ -59,7 +59,7 @@ monsi pi **nimi ilo** "e" la **nimi lawa** "ijo" li ken kama weka.
 #### nimi ilo "o"
 *(Imperativo — Imperative)*
 
-sinpin pi **nimi ilo** "o" la nimi "sina" li ken kama weka. monsi pi **nimi ilo** "o" la nimi "kute" li ken kama weka.
+kama pi **nimi ilo** "o" la nimi "sina" li ken kama weka. pini pi **nimi ilo** "o" la nimi "kute" li ken kama weka.
 *("sina" povas malaperi antaŭ la partikulo "o". "kute" povas malaperi malantaŭ la partikulo "o". — "sina" can disappear before the particle "o". "kute" can disappear before the particle "o".)*
 
 * sina ***o*** kute. *(Vi aŭskultu. — You are supposed to listen.)*
@@ -82,19 +82,19 @@ nimi "o" tu li ken kama wan.
 #### nimi ilo "pi"
 *(Genitivo — Genitive)*
 
-sinpin pi **nimi lawa** wan taso la **nimi ilo** "pi" li kama weka. nasin ni la **nimi lawa** ni li kama **nimi monsi**.
+kama pi **nimi lawa** wan taso la **nimi ilo** "pi" li kama weka. nasin ni la **nimi lawa** ni li kama **nimi kama**.
 *(Antaŭ nuraj substantivoj, la partikulo "pi" malaperas. Tiel tiu substantivo fariĝas modifilo. — The particle "pi" disappears before simple nouns. Such a noun thereby becomes a modifier.)*
 
 * toki ***~~pi~~*** pona *(lingvo de bono — language of good)*
  * → toki pona *(bona lingvo — good language)*
 
-monsi pi **nimi suli** "pilin" la **nimi ilo** "e" li ken kama **nimi ilo** "pi".
+pini pi **nimi suli** "pilin" la **nimi ilo** "e" li ken kama **nimi ilo** "pi".
 *(Post la verbo "pilin", la partikulo "e" povas fariĝi "pi". — After the verb "pilin", the particle "e" can become "pi".)*
 
 * mi ***pilin e*** pona mute. *(Mi sentas multan bonon. — I feel much good.)*
  * → mi ***pilin pi*** pona mute. *(Mi fartas tre bone. — I feel very good.)*
 
-nimi "nanpa" lon poka pi **nimi nanpa** li ken kama nimi. tan ni la **nimi ijo** "nanpa" li sama **nimi monsi palisa**.
+nimi "nanpa" lon poka pi **nimi nanpa** li ken kama nimi. tan ni la **nimi ijo** "nanpa" li sama **nimi kama palisa**.
 *("nanpa" kun numeralo povas fariĝi nomo. Tial, la radika vorto "nanpa" ŝajnas prepozicio. — "nanpa" together with a numeral can become a name. Therefore, the content word "nanpa" seems like a preposition.)*
 
 * toki ***~~pi~~ nanpa wan*** *(la unua lingvo — the first language)*
@@ -110,7 +110,7 @@ nimi "ala anu" lon insa pi nimi sama tu li ken kama nimi "ala".
 #### nimi ilo "la"
 *(Helpaj Frazeroj — Auxiliary Clauses)*
 
-nimi lon sinpin pi **nimi ilo** "la" la **nimi monsi** palisa "lon (ni)" li kama weka.
+nimi lon kama pi **nimi ilo** "la" la **nimi kama palisa** "lon (ni)" li kama weka.
 *(En helpa frazero, la prepozicio "lon (ni)" malaperas. — In an auxiliary clause, the proposition "lon (ni)" disappears.)*
 
 * ***~~lon~~*** kulupu ***la*** mi wawa. *(En grupo ni estas fortaj. — Together we are strong.)*
@@ -127,7 +127,7 @@ nimi "taso ni la" li kama "taso".
 #### nimi kalama
 *(Interjekcio — Interjection)*
 
-nimi "nimi" li kama weka lon sinpin pi nimi tan jan ante anu nimi pi ijo ante.
+nimi "nimi" li kama weka lon kama pi nimi tan jan ante anu nimi pi ijo ante.
 *(La vorto "nimi" malaperas antaŭ citaĵo aŭ nomo. — The word "nimi" disappears before quotations or names.)*
 
 * jan Isa li toki e ***~~nimi~~ ni*** "..." *(Jesuo diris: "..." — Jesus said: "...")*
@@ -150,7 +150,7 @@ nimi "nimi" li kama weka lon sinpin pi nimi tan jan ante anu nimi pi ijo ante.
 ### nimi ijo "ale", "ala", "ni", "seme"
 *(Korelativoj — Correlatives)*
 
-**nimi lawa** "ijo" lon sinpin pi nimi "ale", "ala", "ni", "seme" li kama ala weka lon ni taso: ona li kama **nimi lawa** lon monsi pi **nimi ilo** "pi".
+**nimi lawa** "ijo" lon kama pi nimi "ale", "ala", "ni", "seme" li kama ala weka lon ni taso: ona li kama **nimi lawa** lon pini pi **nimi ilo** "pi".
 *(La substantivo "ijo" antaŭ la korelativoj "ale", "ala", "ni" aŭ "seme" malaperas, krom en genitiva frazero. — The noun "ijo" before the correlatives "ale", "ala", "ni" or "seme" disappears, except in a genitive phrase.)*
 
 * ale *(ĉiu — every)*
@@ -161,7 +161,7 @@ nimi "nimi" li kama weka lon sinpin pi nimi tan jan ante anu nimi pi ijo ante.
 #### nimi ijo "ale"
 *(La Korelativo "ale" — The Correlative "ale")*
 
-nimi "mute" lon sinpin pi nimi "ale" li ken kama weka.
+nimi "mute" lon kama pi nimi "ale" li ken kama weka.
 
 * jan ***~~pi mute~~ ale*** *(ĉiu — everyone)*
  * → jan ***ale***
@@ -169,14 +169,14 @@ nimi "mute" lon sinpin pi nimi "ale" li ken kama weka.
 #### nimi ijo "ala"
 *(La Korelativo "ala" — The Correlative "ala")*
 
-nimi monsi "ala" li ken tawa.
+**nimi kama** "ala" li ken tawa.
 *(La modifilo "ala" povas moviĝi. — The modifier "ala" can move.)*
 
 * o kepeken ilo ike ***ala***. *(Uzu neniujn malĝustajn instrumentojn. — Don't use any wrong tools.)*
  * o kepeken — ***ala*** — ilo ike. *(Ne uzu la malĝustajn instrumentojn. — Don't use the wrong tools.)*
     * → o kepeken ***ala*** ilo ike.
 
-kon pi nimi mute lon sinpin pi nimi monsi "ala" li sama nimi "lili" anu "pona".
+kon pi nimi mute lon kama pi **nimi kama** "ala" li sama nimi "lili" anu "pona".
 *(Multaj vortoj antaŭ la modifilo "ala" havas la saman signifon kiel "lili" aŭ "pona". — Many words before the modifier "ala" have the same meaning as "lili" or "pona".)*
 
 * ***lili*** *(eta — small)*
