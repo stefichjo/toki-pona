@@ -298,10 +298,10 @@ kon pi nimi "ali", "namako", "kin", "oko" li sama nimi "ale", "sin", "a", "lukin
 * kasi ***luka*** → *(kvin plantoj — five plants)*
 * kasi ***luka ~~tu~~*** *(dek plantoj — ten plants)*
 
-insa pi **nimi nanpa** tu la **nimi ilo** "en" li kama weka.
-*(Inter du numeraloj, la partikulo "en" malaperas. — Between two numerals, the particle "en" disappears.)*
+insa pi **nimi nanpa** tu la sitelen nanpa li kama weka.
+*(Inter du numeraloj, la komo malaperas. — Between two numerals, the comma disappears.)*
 
-* kasi ***luka*** ~~en~~ ***luka*** *(dek plantoj — ten plants)*
+* kasi ***luka***, ***luka*** *(kvin plantoj kaj kvin → dek plantoj — five plants and five → ten plants)*
   * → kasi ***luka luka***
 
 ### ijo ante
