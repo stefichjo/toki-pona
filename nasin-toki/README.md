@@ -455,7 +455,9 @@ jan li ken toki e ante mun.
 * ***mun*** → ***sike ma*** *(planet)*
   * ***mun*** → ***sike kon*** *(gas giant)*
   * ***mun*** → ***sike lete*** *(ice giant)*
-* ***mun*** → ***sike ma poka*** *(moon)*
+* ***mun*** → ***sike ma mun*** *(moon)*
+* ***mun*** → ***ilo mun*** *(satellite)*
+* ***mun*** → ***kiwen mun*** *(comet)*
 
 #### nanpa
 *(Numeroj — Numbers)*
