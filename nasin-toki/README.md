@@ -191,9 +191,9 @@ nimi "nimi" li kama weka lon kama pi nimi tan jan ante anu nimi pi ijo ante.
 **nimi kalama** li ken kama **nimi ijo**.
 *(Interjekcio povas fariĝi radika vorto. — An interjection can become a content word.)*
 
-* ona li kute e ***~~nimi~~ "mu"*** wawa. *(Li aŭdis laŭtan blekon. — He heard a loud bleat.)*
+* ona li kute e ~~nimi~~ ***"mu"*** wawa. *(Li aŭdis laŭtan blekon. — He heard a loud bleat.)*
   * → ona li kute e ***mu*** wawa.
-* soweli li ***~~kalama~~ "mu"***. *(La besto blekas. — The animal bleats.)*
+* soweli li ~~kalama~~ ***"mu"***. *(La besto blekas. — The animal bleats.)*
   * → soweli li ***mu***.
 * sina suli~~,~~ ***a***! *(Vi estas granda, ho! — You are tall, wow!)*
   * → sina suli ***a***! *(Vi estas tiom granda! Vi estas ja granda! Vi eĉ estas granda! — You are so tall!)*
@@ -813,10 +813,6 @@ nimi "ona sama" li ken kama nimi "sama".
 
 * ona li ***~~kama~~*** lape lon tenpo lili. *(Ŝi endormiĝas dum mallonga tempo. Ŝi rapide endormiĝas. — She falls asleep during a short period of time. She falls asleep quickly.)*
   * → ona li lape lon tenpo lili.
-
-nimi "pini" li ken kama weka.
-*("pini" povas malaperi. — "pini" can disappear.)*
-
 * ona li lape lon ~~***pini*** pi~~ tenpo lili. *(Ŝi dormos post mallonga tempo. Ŝi baldaŭ dormos. — She will sleep after a short period of time. She will sleep soon.)*
   * → ona li lape lon tenpo lili.
 
