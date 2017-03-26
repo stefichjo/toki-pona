@@ -49,7 +49,7 @@ o toki e ni: sina wile e seme?
 taso ona li mu li mu  
 tan seme?  
 mi sona ala.
-- o pana e palisa lupa!
+- o pana e palisa open!
 
 sin la kepeken ilo toki la waso li toki:
 - o pana e wan telo:  
