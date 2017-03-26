@@ -201,13 +201,19 @@ nimi "nimi" li kama weka lon kama pi nimi tan jan ante anu nimi pi ijo ante.
 ### nimi ijo "ale", "ala", "ni", "seme"
 *(Korelativoj — Correlatives)*
 
-**nimi lawa** "ijo" lon kama pi nimi "ale", "ala", "ni", "seme" li kama ala weka lon ni taso: ona li kama **nimi lawa** lon pini pi **nimi ilo** "pi".
+**nimi lawa** "ijo" lon kama pi **nimi ijo** "ale", "ala", "ni", "seme" li kama ala weka lon ni taso: ona li kama **nimi lawa** lon pini pi **nimi ilo** "pi".
 *(La substantivo "ijo" antaŭ la korelativoj "ale", "ala", "ni" aŭ "seme" malaperas, krom en genitiva frazero. — The noun "ijo" before the correlatives "ale", "ala", "ni" or "seme" disappears, except in a genitive phrase.)*
 
 * ale *(ĉiu — every)*
   * ***~~ijo~~*** ale *(ĉiu aĵo, ĉio — every thing, everything)*
     * → ale
     * mama pi ***ijo ale*** *(kreanto de ĉio — creator of everything)*
+
+kama pi **nimi ijo** "ale", "ala", "ni", "seme" la **nimi kama palisa** "sama" li kama weka. *(Antaŭ la korelativoj "ale", "ala", "ni" aŭ "seme" la prepozicio "sama" malaperas. — Before the correlatives "ale", "ala", "ni" or "seme" the preposition "sama" disappears.)*
+
+* tomo **sama** tomo ni *(domo kiel tiu domo — a house like this house)*
+  * → tomo **sama** ni *(domo kiel tiu — a house like this)*
+    * → tomo ni *(tiuj domoj → tia domo — those houses → such a house)*
 
 #### nimi ijo "ale"
 *(La Korelativo "ale" — The Correlative "ale")*
