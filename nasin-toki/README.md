@@ -47,6 +47,8 @@ wan lipu "[toki nasa](toki-nasa)" li toki e nasin toki sin pi jan nasa ni: ona l
  * **mute nimi lon insa pi mute nimi** *(subfrazo — subordinate clause)*
  * **mute nimi pi nimi "seme"** *(demanda frazo — interrogative sentence)*
 
+---
+
 # toki suli
 *(Oficiala Lingvaĵo — Official Language)*
 
@@ -303,16 +305,16 @@ nimi "sike" li ken kama **nimi suli palisa**.
 * mi ~~tawa~~ ***sike*** ~~lon~~ suno. *(Mi orbitas la sunon. — I orbit around the sun.)*
  * → mi ***sike e*** suno.
 
-## toki kulupu
+# toki kulupu
 *(Komunuma Lingvaĵo — Community Language)*
 
-### toki musi
+## toki musi
 *(Luda Lingvaĵo — Playful Language)*
 
-#### toki kama
+### toki kama
 *(Estonta Lingvaĵo — Language of the Future)*
 
-##### nimi suli pini
+#### nimi suli pini
 *(Helpaj Verboj — Auxiliary Verbs)*
 
 nimi "pini" li ken kama **nimi suli pini**.
@@ -328,7 +330,7 @@ nimi "pini" li ken kama **nimi suli pini**.
 * mi ***lon awen moku***. *(Mi estas manĝadanta. — I am constantly eating.)*
 * mi ***tawa kama moku***. *(Mi estas ekmanĝonta. — I am about to begin to eat.)*
 
-##### nimi ma
+#### nimi ma
 *(Spacaj Vortoj — Location Words)*
 
 **nimi lawa** li ken kama **nimi ma**.
@@ -337,7 +339,7 @@ nimi "pini" li ken kama **nimi suli pini**.
 * mi tawa ***lon sike pi*** tomo sona. *(Mi iras ĉirkaŭ la lernejo. — I go around the house.)*
 * tomo ona li ***lon lawa pi*** tomo suli. *(Ŝi loĝas en la supro de la turdomo. — She lives at the top of the tower block.)*
 
-##### nimi kama palisa
+#### nimi kama palisa
 *(Prepozicioj — Prepositions)*
 
 nimi "ante" li sama nimi "sama ala". nimi "weka" li sama nimi "lon ala". tan ni la sama ni la nimi "ante" en nimi "weka" li ken kama **nimi kama palisa**.
@@ -366,7 +368,7 @@ kepeken nimi "sin" en **nimi kama palisa** "ante" la jan ken toki e ante ijo. *(
 * toki pona li pona pi ***sin*** ala ***ante*** toki Epelanto. *(Tokipona ne estas pli bona ol Esperanto. — Toki Pona isn't better than Esperanto.)*
  * toki pona li pona ***taso ante*** toki Epelanto. *(Tokipono estas malpli bona ol Esperanto. — Toki Pona is less good than Esperanto.)*
 
-##### nimi suli palisa kama
+#### nimi suli palisa kama
 *(Pasivo kaj Kaŭzativo — Passive and Causative)*
 
 nimi "pona" en nimi "open" li ken lon kama pi **nimi suli palisa**.
@@ -380,7 +382,7 @@ nimi "pona" en nimi "open" li ken lon kama pi **nimi suli palisa**.
 
 * ijo ***sitelen*** *(io por desegni; io desegnenda, io desegnata — something for painting; something worth painting, something being painted)*
 
-##### nimi nanpa
+#### nimi nanpa
 *(Numeraloj — Numerals)*
 
 nimi nanpa li nimi sama nimi "ale", "ala", "ni", "seme".
@@ -396,13 +398,13 @@ nimi nanpa li ken kama **nimi lawa**.
 * ***ale*** nimi *(ĉiom da vorto, tuto da vorto; tuta vorto — all of the word; the whole word)*
 * ***ale*** pi nimi mute *(ĉiom da vortoj, tuto da vortoj; vortaro — all the words; dictionary)*
 
-##### nimi pi poka en nasin
+#### nimi pi poka en nasin
 *(Vortoj por Flankoj kaj Direktoj — Words for Sides and Directions)*
 
 * tawa poka pilin *(al la flanko de la koro, al la maldekstra flanko, maldekstren — to the side of the heart, to the left)*
 * lon nasin sike pi ilo tenpo *(dekstrume — clockwise)*
 
-##### nimi pi poka suno
+#### nimi pi poka suno
 *(La Nomoj de la Kompasdirektoj — The Names of the Cardinal Directions)*
 
 * poka pi suno kama *(la flanko de la venonta suno → oriento — the side of the coming sun → east)*
@@ -410,7 +412,7 @@ nimi nanpa li ken kama **nimi lawa**.
 * poka pi suno tawa *(la flanko de la iranta suno → ekvatoro → sudo/nordo — the side of the coming sun → south/north)*
 * poka pi suno ala *(la flanko de nenia suno → norda/suda poluso → nordo/sudo — the side of no sun → north/south)*
 
-##### nimi pi tenpo suno
+#### nimi pi tenpo suno
 *(La Nomoj de la Tagoj — The Names of the Days)*
 
 suno en mun en mun luka li lon.
@@ -435,7 +437,7 @@ nimi pi tenpo suno li tan nimi pi suno en mun en mun luka.
 * tenpo suno ***"Mun Kiwen"*** *(vendredo — Friday)*
 * tenpo suno ***"Mun Ma"*** *(sabato — Saturday)*
 
-##### nanpa
+#### nanpa
 *(Numeroj — Numbers)*
 
 nasin nanpa li ken awen pona sama lon lipu suli pi toki pona.
@@ -484,7 +486,7 @@ nimi "luka" en nimi "esun" li ken kama **nimi nanpa**.
 
 * mi jo e pan luka tu ***en*** tu. *(Mi havas dek du panojn.)*
 
-##### sitelen lon poka nimi
+#### sitelen lon poka nimi
 *(Interpunkcio — Punctuation)*
 
 **nimi kama palisa** lon pini pi mute nimi li ken jo e sitelen "anu".
@@ -502,7 +504,7 @@ nimi "luka" en nimi "esun" li ken kama **nimi nanpa**.
 
 * mi ***kama***+sona e toki pona. *(Mi lernas Tokiponon. — I learn Toki Pona.)*
 
-##### kalama nimi en sitelen nimi
+#### kalama nimi en sitelen nimi
 *(Prononco kaj Ortografio — Pronunciation and Orthography)*
 
 kalama "j" li jo e sitelen "y".
@@ -537,13 +539,13 @@ tan ni la kalama nanpa wan pi nimi kama lon kama pi kalama "i" li ken kama ante 
 * soweli sina → soweli ***jina*** *(via kato — your cat)*
 * telo kili → telo ***hili*** *(suko — juice)*
 
-#### toki pini
+### toki pini
 *(Pasinta Lingvaĵo — Language of the Past)*
 
 toki pini li jo e nimi luka luka tu tu taso.
 *(La pralingvo havas nur cent vortojn. — The Language of the Past has only a hundred words.)*
 
-##### nimi lawa
+#### nimi lawa
 *(Substantivoj — Nouns)*
 
 nimi "mi", "sina", "ona", "ijo" taso li **nimi lawa**. **nimi lawa** ante li pini jo e nimi "ijo".
@@ -564,7 +566,7 @@ ken pi toki pakala la jan li ken toki e nimi "ijo" li toki e **nimi suli** lon t
 
 * ona li ***ijo moku*** anu ***moku moku***? *(Ĉu ĝi estas manĝaĵo aŭ manĝe manĝanta? Ĉu ĝi estas manĝo aŭ ĉu ĝi manĝas? — Is it food or is it eating?)*
 
-###### nimi sijelo
+##### nimi sijelo
 *(Vortoj por Vivaĵoj — Words for Living Beings)*
 
 nimi sijelo "akesi", "jan", "kala", "kasi", "pipi", "soweli" en "waso" li sin.
@@ -585,7 +587,7 @@ nimi sijelo "akesi", "jan", "kala", "kasi", "pipi", "soweli" en "waso" li sin.
 * ***sijelo kon*** *(aera vivaĵo — living being of air)*
  * → ***waso*** *(birdo — bird)*
 
-##### nimi suli
+#### nimi suli
 *(Verboj — Verbs)*
 
 **nimi suli** "moku", "pali", "pana", "pu" en "toki" li sin.
@@ -602,7 +604,7 @@ nimi sijelo "akesi", "jan", "kala", "kasi", "pipi", "soweli" en "waso" li sin.
 * ***pana e sona pi ijo sin*** *(informi pri novaĵo ­— to inform about news)*
  * → ***toki*** *(komuniki — to communicate)*
 
-##### nimi monsi palisa
+#### nimi monsi palisa
 *(Prepozicioj — Prepositions)*
 
 **nimi monsi palisa** "tawa", "tan" en "kepeken" li sin.
@@ -615,7 +617,7 @@ nimi sijelo "akesi", "jan", "kala", "kasi", "pipi", "soweli" en "waso" li sin.
 * mi ***awen lon*** tomo tawa. *(Mi daŭre estas en la aŭto. — I keep on being in the car.)*
  * → mi ***kepeken*** tomo tawa. *(Mi uzas la aŭton. — I use the car.)*
 
-##### nimi kule
+#### nimi kule
 *(Vortoj por Koloroj — Words for Colors)*
 
 nimi kule "jelo", "laso", "loje", "pimeja" en "walo" li sin.
@@ -632,7 +634,7 @@ nimi kule "jelo", "laso", "loje", "pimeja" en "walo" li sin.
 * ***kule wawa*** *(forta koloro — strong color)*
  * → ***walo*** *(blanko — white)*
 
-##### kalama nimi en sitelen nimi
+#### kalama nimi en sitelen nimi
 *(Prononco kaj Ortografio — Pronunciation and Orthography)*
 
 sitelen nimi en sitelen nimi li kama ante lon toki pona, la jan ken sitelen e nimi ni sama lon toki tan.
@@ -724,16 +726,16 @@ kalama "i", "u" li sin. kalama "e", "o" li kama "i", "u" lon ni: wan nimi li lil
 * tejelo → tejilu → ***tewilu*** *(vivaĵo — living being)*
 
 
-### toki nasa
+## toki nasa
 *(Freneza Lingvaĵo — Crazy Language)*
 
-#### toki kipisi
+### toki kipisi
 *(Kripla Lingvaĵo — Crippled Language)*
 
-##### nimi suli palisa
+#### nimi suli palisa
 *(Transitivaj Verboj — Transitive Verbs)*
 
-###### nimi suli palisa tan nimi suli pi palisa ala
+##### nimi suli palisa tan nimi suli pi palisa ala
 *(Transitivaj Verboj el Netransitivaj Verboj — Transitive Verbs from Intransitive Verbs)*
 
 **nimi suli pi palisa ala** li kama **nimi suli palisa**, la nimi "e ijo" li ken kama weka.
@@ -742,7 +744,7 @@ kalama "i", "u" li sin. kalama "e", "o" li kama "i", "u" lon ni: wan nimi li lil
 * mi pona ***e ijo***. *(Mi riparas ion. — I repair something.)*
  * → mi pona. *(Mi riparas. — I repair.)*
 
-###### nimi suli palisa tan nimi lawa
+##### nimi suli palisa tan nimi lawa
 *(Transitiva Verbo el Substantivo — Transitive Verbs from Nouns)*
 
 nimi "pana e" li ken kama weka.
@@ -752,7 +754,7 @@ nimi "pana e" li ken kama weka.
 * mi ***pana e telo tawa*** kasi. *(Mi akvumas la planton. — I water the plant.)*
  * → mi ***telo e*** kasi.
 
-##### nimi ilo "pi"
+#### nimi ilo "pi"
 *(Genitivo — Genitive)*
 
 **nimi ilo** "pi" li ken awen lon kama pi **nimi lawa** wan taso. ni la **nimi ilo** "pi" lon poka pi **nimi lawa** li sama **nimi suli**.
@@ -762,7 +764,7 @@ nimi "pana e" li ken kama weka.
  * → ni li ijo pi mi. *(Tio estas io de mi. — This is something of me.)*
     * → ni li pi mi. *(Tio estas mia. — This is mine.)*
 
-##### mute nimi lon insa pi mute nimi
+#### mute nimi lon insa pi mute nimi
 *(Subfrazoj — Subordinate Clauses)*
 
 nimi pi **mute nimi** lon insa pi **mute nimi** li ken kama weka.
@@ -780,10 +782,10 @@ ni la **nimi suli pini** li ken sama **nimi monsi pini** mu.
 * ona li jan pi ~~ijo ni: ona li~~ **kama sona**.
  * → ona li jan pi **kama sona**.
 
-##### nimi monsi palisa
+#### nimi monsi palisa
 *(Prepozicioj — Prepositions)*
 
-###### nimi monsi palisa "sama"
+##### nimi monsi palisa "sama"
 *(La Prepozicio "sama" — The Preposition "sama")*
 
 nimi "ona sama" li ken kama nimi "sama".
@@ -792,7 +794,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * ona li telo e ***ona sama***. *(Ŝi lavas sin. — She washes herself.)*
  * → ona li telo e ***sama***.
 
-###### nimi monsi palisa "tawa", "tan"
+##### nimi monsi palisa "tawa", "tan"
 *(La Prepozicioj "tawa" kaj "tan" — The Prepositions "tawa" and "tan")*
 
 **nimi monsi palisa** "tawa", "tan" li ken kama weka lon ni: ona li nimi nanpa wan pi **nimi lon kama pi nimi ilo "la"**.
@@ -803,7 +805,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * ***~~tan~~*** jan pona sina la ona li pona tawa mi. *(Koncerne vian amikon, mi ŝatas lin. — Concerning your friend, I like him.)*
  * → jan pona sina la ona li pona tawa mi.
 
-##### nimi suli pini "kama", "pini"
+#### nimi suli pini "kama", "pini"
 *(La Helpaj Verboj "kama" kaj "pini" — The Auxiliary Verbs "kama" and "pini")*
 
 **nimi suli pini** "kama", "pini" li ken kama weka.
@@ -818,10 +820,10 @@ nimi "pini" li ken kama weka.
 * ona li lape lon ~~***pini*** pi~~ tenpo lili. *(Ŝi dormos post mallonga tempo. Ŝi baldaŭ dormos. — She will sleep after a short period of time. She will sleep soon.)*
  * → ona li lape lon tenpo lili.
 
-#### toki monsuta
+### toki monsuta
 *(Danĝera Lingvaĵo — Dangerous Language)*
 
-##### nimi ilo lon pini pi nimi monsi palisa
+#### nimi ilo lon pini pi nimi monsi palisa
 *(Partikuloj malantaŭ Prepozicioj — Particles behind Prepositions)*
 
 **nimi ilo** li ken lon pini pi **nimi monsi palisa**.
@@ -831,7 +833,7 @@ nimi "pini" li ken kama weka.
  * tomo — lon ma tomo Lantan — ***pi telo nasa***
     * → tomo lon ma tomo Lantan ***pi telo nasa***
 
-##### nimi monsi pi mute ike
+#### nimi monsi pi mute ike
 *(Tro da Modifiloj — Too Many Modifiers)*
 
 **nimi monsi** li ken jo e **nimi monsi**.
@@ -848,7 +850,7 @@ nimi "pini" li ken kama weka.
  * ona li tawa — ***pona*** — ma tomo Lantan.
     * → ona li tawa ***pona*** ma tomo Lantan.
 
-#### toki apeja
+### toki apeja
 *(Skisma Lingvaĵo — Schismatic Language)*
 
 **nimi ilo** "e" li ken kama **nimi ilo** "pi".
