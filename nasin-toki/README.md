@@ -565,8 +565,6 @@ nimi "mi", "sina", "ona", "ijo" taso li **nimi lawa**. **nimi lawa** ante li pin
 
 * ***ijo ilo*** *(utilaĵo — something useful)*
   * → ***~~ijo~~ ilo*** *(ilo — tool)*
-* ***ilo luka*** *(tuŝilo — tool for touching)*
-  * → ***~~ilo~~ luka*** *(mano, brako)*
 
 tan ni la **nimi lawa** ante li ken sama **nimi kama** anu **nimi suli**.
 *(Tial aliaj substantivoj povas uziĝi kiel modifiloj aŭ verboj. — Therefore other nouns can be used as modifiers or verbs.)*
@@ -577,6 +575,19 @@ ken pi toki pakala la jan li ken toki e nimi "ijo" li toki e **nimi suli** lon t
 *(Tra bruo oni povas diri "ijo" kaj ripeti la verbon. — Through noise one can say "ijo" and repeat the verb.)*
 
 * ona li ***ijo moku*** anu ***moku moku***? *(Ĉu ĝi estas manĝaĵo aŭ manĝe manĝanta? Ĉu ĝi estas manĝo aŭ ĉu ĝi manĝas? — Is it food or is it eating?)*
+
+#### nimi pi wan sijelo
+*(Vortoj por Korperoj — Words for Body Parts)*
+
+nimi pi **wan sijelo** li pini jo e nimi "ijo". *(Vortoj por korperoj perdis la vorton "ilo". — Words for body parts lost the word "ilo".)*
+
+* ***ilo kute*** → ***kute*** *(aŭdilo → orelo — "hearer" → head)*
+* ***ilo lawa*** → ***lawa*** *(gvidilo → kapo — "leader" → head)*
+* ***ilo luka*** → ***luka*** *(tuŝilo → mano, brako — "toucher" → hand, arm)*
+* ***ilo lukin*** → ***lukin*** *(vidilo → okulo — "looker" → head)*
+* ***ilo noka*** → ***noka*** *(tretilo → piedo — "kicker" → foot, leg)*
+* ***ilo palisa*** → ***palisa*** *(indikilo → fingro — "pointer" → finger)*
+* ***ilo pilin*** → ***pilin*** *(sentilo → koro — "feeler" → head)*
 
 ##### nimi sijelo
 *(Vortoj por Vivaĵoj — Words for Living Beings)*
