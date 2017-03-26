@@ -311,7 +311,7 @@ nimi "sike" li ken kama **nimi suli palisa**.
 ## toki musi
 *(Luda Lingvaĵo — Playful Language)*
 
-### toki kama
+### toki pi tenpo kama
 *(Estonta Lingvaĵo — Language of the Future)*
 
 #### nimi suli pini
@@ -539,10 +539,10 @@ tan ni la kalama nanpa wan pi nimi kama lon kama pi kalama "i" li ken kama ante 
 * soweli sina → soweli ***jina*** *(via kato — your cat)*
 * telo kili → telo ***hili*** *(suko — juice)*
 
-### toki pini
+### toki pi tenpo pini
 *(Pasinta Lingvaĵo — Language of the Past)*
 
-toki pini li jo e nimi luka luka tu tu taso.
+**toki pi tenpo pini** li jo e nimi luka luka tu tu taso.
 *(La pralingvo havas nur cent vortojn. — The Language of the Past has only a hundred words.)*
 
 #### nimi lawa
