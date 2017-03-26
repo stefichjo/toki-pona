@@ -805,7 +805,8 @@ nimi "pana e" li ken kama weka.
 nimi lon pini pi **nimi ilo** "pi" li wile ala e sitelen nanpa.
 *(Genitivoj ne bezonas komon. — Genitives don't need commas.)*
 
-* tomo pi telo nasa, pi jan pona *(trinkejo de amiko — a friend's bar)*
+* tomo pi telo nasa pi mi mute *(domo de nia biero — house of our beer)*
+* tomo pi telo nasa, pi jan pona *(nia trinkejo — our bar)*
   * → tomo pi telo nasa pi jan pona
 
 #### mute nimi lon insa pi mute nimi
