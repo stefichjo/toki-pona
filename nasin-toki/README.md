@@ -97,10 +97,11 @@ pini pi **nimi ilo** "e" la **nimi lawa** "ijo" li ken kama weka.
 * ***~~ijo~~*** toki *(parolaĵo; lingvo — talk, speech; language)*
   * → toki *(lingvo — language)*
 
-**mute nimi** tu pi nimi sama lon kama pi nimi "li" en nimi sama lon kama pi nimi "e" li ken kama wan. *(Du frazoj kun samaj subjekto kaj predikato sed malsama rekta objekto povas unuiĝi. — Two sentences with the same subject and predicate but with different direct objects can become one.)*
+**mute nimi** tu pi nimi sama lon kama pi nimi "li" li jo e nimi sama lon kama pi nimi "e" la, ona li ken kama wan. nimi lon pini pi **nimi ilo** e li wile ala e sitelen nanpa. *(Du frazoj kun samaj subjekto kaj samaj transitivaj verboj povas unuiĝi. Rektaj objektoj ne bezonas komon. — Two sentences with the same subject and the same transitive verb can become one. Direct objects don't need commas.)*
 
-* ***ona li seli*** e soweli en ***ona li seli*** e pan. *(Ŝi kuiras la viandon kaj ŝi kuiras la rizon. — She cooks the meat and she cooks the rice.)*
-  * → ona li ***seli*** e soweli e pan. *(Ŝi kuiras la viandon kaj la rizon. — She cooks the meat and the rice.)*
+* ***ona li seli*** e soweli, ***ona li seli*** e pan. *(Ŝi kuiras la viandon kaj ŝi kuiras la rizon. — She cooks the meat and she cooks the rice.)*
+  * → ona li ***seli*** e soweli, e pan. *(Ŝi kuiras la viandon kaj la rizon. — She cooks the meat and the rice.)*
+    * → ona li ***seli*** e soweli e pan.
 
 **mute nimi** pi nanpa tu li lon pini pi **nimi ilo** "e" pi **mute nimi** pi nanpa wan, la **nimi suli** pi nanpa wan li ken kama **nimi suli pini** pi **nimi suli** pi nanpa tu.
 *(Se dua frazo estas la rekta objekto de unua frazo, la verbo de la unua frazo povas fariĝi la helpa verbo de la dua verbo. — If a second sentence is the direct object of a first sentence, the verb of the first sentence can become the auxiliary verb of the second sentence.)*
