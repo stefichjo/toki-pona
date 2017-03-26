@@ -556,7 +556,7 @@ nimi "mi", "sina", "ona", "ijo" taso li **nimi lawa**. **nimi lawa** ante li pin
 * ***ilo luka*** *(tuŝilo — tool for touching)*
  * → ***~~ilo~~ luka*** *(mano, brako)*
 
-tan ni la **nimi lawa** ante li ken sama **nimi monsi** anu **nimi suli**.
+tan ni la **nimi lawa** ante li ken sama **nimi kama** anu **nimi suli**.
 *(Tial aliaj substantivoj povas uziĝi kiel modifiloj aŭ verboj. — Therefore other nouns can be used as modifiers or verbs.)*
 
 * o ***luka*** ala e seli! *(Ne tuŝu la fajron! — Don't touch the fire!)*
@@ -604,10 +604,10 @@ nimi sijelo "akesi", "jan", "kala", "kasi", "pipi", "soweli" en "waso" li sin.
 * ***pana e sona pi ijo sin*** *(informi pri novaĵo ­— to inform about news)*
  * → ***toki*** *(komuniki — to communicate)*
 
-#### nimi monsi palisa
+#### nimi kama palisa
 *(Prepozicioj — Prepositions)*
 
-**nimi monsi palisa** "tawa", "tan" en "kepeken" li sin.
+**nimi kama palisa** "tawa", "tan" en "kepeken" li sin.
 *(La prepozicioj "tawa", "tan" kaj "kepeken" estas novaj. — The prepositions "tawa", "tan" and "kepeken" are new.)*
 
 * mi ***kama lon*** sina. *(Mi komencas esti ĉe vi. — I begin to be with you.)*
@@ -776,16 +776,16 @@ nimi pi **mute nimi** lon insa pi **mute nimi** li ken kama weka.
     * → mi pana e moku tawa jan (ni) pi li kama lon tomo mi.
        * → mi pana e moku tawa jan (ni) pi kama lon tomo mi.
 
-ni la **nimi suli pini** li ken sama **nimi monsi pini** mu.
+ni la **nimi suli pini** li ken sama **nimi kama pini** mu.
 *(Tiam helpa verbo povas ŝajni ia "helpa modifilo". — In this case, an auxiliary verb can seem to be some sort of an "auxiliary modifier".)*
 
 * ona li jan pi ~~ijo ni: ona li~~ **kama sona**.
  * → ona li jan pi **kama sona**.
 
-#### nimi monsi palisa
+#### nimi kama palisa
 *(Prepozicioj — Prepositions)*
 
-##### nimi monsi palisa "sama"
+##### nimi kama palisa "sama"
 *(La Prepozicio "sama" — The Preposition "sama")*
 
 nimi "ona sama" li ken kama nimi "sama".
@@ -794,10 +794,10 @@ nimi "ona sama" li ken kama nimi "sama".
 * ona li telo e ***ona sama***. *(Ŝi lavas sin. — She washes herself.)*
  * → ona li telo e ***sama***.
 
-##### nimi monsi palisa "tawa", "tan"
+##### nimi kama palisa "tawa", "tan"
 *(La Prepozicioj "tawa" kaj "tan" — The Prepositions "tawa" and "tan")*
 
-**nimi monsi palisa** "tawa", "tan" li ken kama weka lon ni: ona li nimi nanpa wan pi **nimi lon kama pi nimi ilo "la"**.
+**nimi kama palisa** "tawa", "tan" li ken kama weka lon ni: ona li nimi nanpa wan pi **nimi lon kama pi nimi ilo "la"**.
 *(La prepozicioj "tawa" kaj "tan" komence de "la"-frazoj povas malaperi. — "tawa" and "tan" at the beginning of a "la" sentence can disappear.)*
 
 * ***~~tawa~~*** mi la sina jan pona. *(Laŭ mi, vi estas bona persono. — From my point of view, you are a good person.)*
@@ -823,27 +823,27 @@ nimi "pini" li ken kama weka.
 ### toki monsuta
 *(Danĝera Lingvaĵo — Dangerous Language)*
 
-#### nimi ilo lon pini pi nimi monsi palisa
+#### nimi ilo lon pini pi nimi kama palisa
 *(Partikuloj malantaŭ Prepozicioj — Particles behind Prepositions)*
 
-**nimi ilo** li ken lon pini pi **nimi monsi palisa**.
+**nimi ilo** li ken lon pini pi **nimi kama palisa**.
 *(Partikuloj povas esti malantaŭ prepozicioj. — A particle can stand behind a preposition.)*
 
 * tomo ***pi telo nasa*** lon ma tomo Lantan *(trinkejo en Londono — bar in London)*
  * tomo — lon ma tomo Lantan — ***pi telo nasa***
     * → tomo lon ma tomo Lantan ***pi telo nasa***
 
-#### nimi monsi pi mute ike
+#### nimi kama pi mute ike
 *(Tro da Modifiloj — Too Many Modifiers)*
 
-**nimi monsi** li ken jo e **nimi monsi**.
+**nimi kama** li ken jo e **nimi kama**.
 *(Modifilo povas havi modifilon. — A modifiers can have a modifier.)*
 
 * telo ***pi*** nasa ***mute*** *(tre stranga likvo; vodko — very strange liquid; vodka)*
  * telo — nasa ***mute***
     * → telo nasa ***mute***
 
-**nimi monsi palisa** li ken jo e **nimi monsi**.
+**nimi kama palisa** li ken jo e **nimi kama**.
 *(Prepozicio povas havi modifilon. — A preposition can have a modifier.)*
 
 * ona li tawa ***pona*** tawa ma tomo Lantan. *(Ŝi pace iras al Londono. — She goes to London in peace.)*
@@ -863,18 +863,18 @@ nimi "pini" li ken kama weka.
 * mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon. — I translate the movie.)*
  * → mi ante ***toki e*** sitelen tawa.
 
-**nimi ma** li ken kama **nimi monsi palisa**.
+**nimi ma** li ken kama **nimi kama palisa**.
 *(Spaca vorto povas fariĝi prepozicio. — A location word can become a preposition.)*
 
 * waso li tawa lon kon ***lon sewi pi*** tomo sona. *(Birdo flugas super la lernejo. — A bird flies over the school.)*
  * → waso li tawa lon kon ***sewi*** tomo sona.
 
-**nimi monsi palisa** "tawa" li ken toki e wile pana. *(La prepoizicio "tawa" povas esprimi la volon doni. — The preposition "tawa" can express the will to give.)*
+**nimi kama palisa** "tawa" li ken toki e wile pana. *(La prepoizicio "tawa" povas esprimi la volon doni. — The preposition "tawa" can express the will to give.)*
 
 * mi ***wile pana*** e kili ***tawa*** sina. *(Mi volas doni pomon al vi. — I want to give you an apple.)*
  * → mi ***jo*** e kili ***tawa*** sina. *(Mi havas pomon por vi. — I have an apple for you.)*
 
-**nimi monsi palisa** li ken kama **nimi suli palisa**.
+**nimi kama palisa** li ken kama **nimi suli palisa**.
 *(Prepozicioj povas fariĝi transitiva verbo. — Preposition can become transitive verbs.)*
 
 * mi ***kepeken*** ilo. *(Mi uzas la instrumenton. — I use the instrument.)*
