@@ -797,6 +797,12 @@ nimi "pana e" li ken kama weka.
   * → ni li ijo pi mi. *(Tio estas io de mi. — This is something of me.)*
     * → ni li pi mi. *(Tio estas mia. — This is mine.)*
 
+nimi lon pini pi **nimi ilo** "pi" li wile ala e sitelen nanpa.
+*(Genitivoj ne bezonas komon. — Genitives don't need commas.)*
+
+* tomo pi telo nasa, pi jan pona *(trinkejo de amiko — a friend's bar)*
+  * → tomo pi telo nasa pi jan pona
+
 #### mute nimi lon insa pi mute nimi
 *(Subfrazoj — Subordinate Clauses)*
 
