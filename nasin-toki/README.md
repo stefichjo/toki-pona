@@ -185,15 +185,12 @@ nimi "taso ni la" li kama "taso".
 #### nimi kalama
 *(Interjekcio — Interjection)*
 
-nimi "nimi" li kama weka lon kama pi nimi tan jan ante anu nimi pi ijo ante.
-*(La vorto "nimi" malaperas antaŭ citaĵo aŭ nomo. — The word "nimi" disappears before quotations or names.)*
+**nimi kalama** li sama mute nimi. **nimi kalama** "a" li ken kama **nimi kama** pi kon wawa.
+*(Interjekcio estas kiel frazo. La interjekcio "a" povas fariĝi modifilo por emfazo. — An interjection is like a sentence. The interjection "a" can become a modifier for emphasis.)*
 
-* jan Isa li toki e ***~~nimi~~ ni*** "..." *(Jesuo diris: "..." — Jesus said: "...")*
-  * → jan Isa li toki e ***ni***: "..."
-* toki ***~~pi nimi~~ "Epelanto"*** *(Esperanto — Esperanto)*
-  * → toki ***Epelanto***
-* sina nanpa ***~~pi nimi~~ "wan"***. *(Vi estas la unua. — You are the first.)*
-  * → sina nanpa ***wan***.
+* ***mu***. *(bla. — blah.)*
+* sina suli, ***a***! *(Vi estas granda, ho! — You are tall, wow!)*
+  * → sina suli ***a***! *(Vi estas tiom granda! Vi ja estas granda! Vi eĉ estas granda! — You are so tall!)*
 
 **nimi kalama** li ken kama **nimi ijo**.
 *(Interjekcio povas fariĝi radika vorto. — An interjection can become a content word.)*
@@ -202,8 +199,16 @@ nimi "nimi" li kama weka lon kama pi nimi tan jan ante anu nimi pi ijo ante.
   * → ona li kute e ***mu*** wawa.
 * soweli li ~~kalama~~ ***"mu"***. *(La besto blekas. — The animal bleats.)*
   * → soweli li ***mu***.
-* sina suli, ***a***! *(Vi estas granda, ho! — You are tall, wow!)*
-  * → sina suli ***a***! *(Vi estas tiom granda! Vi estas ja granda! Vi eĉ estas granda! — You are so tall!)*
+
+nimi "nimi" en nimi "kalama" li kama weka lon kama pi nimi tan jan ante anu nimi pi ijo ante.
+*(La vorto "nimi" malaperas antaŭ citaĵo aŭ nomo. — The word "nimi" disappears before quotations or names.)*
+
+* jan Isa li toki e ***~~nimi~~ ni*** "..." *(Jesuo diris: "..." — Jesus said: "...")*
+  * → jan Isa li toki e ***ni***: "..."
+* toki ***~~pi nimi~~ "Epelanto"*** *(Esperanto — Esperanto)*
+  * → toki ***Epelanto***
+* sina nanpa ***~~pi nimi~~ "wan"***. *(Vi estas la unua. — You are the first.)*
+  * → sina nanpa ***wan***.
 
 ### nimi ijo "ale", "ala", "ni", "seme"
 *(Korelativoj — Correlatives)*
@@ -326,6 +331,25 @@ nimi "sike" li ken kama **nimi suli palisa**.
 
 ### toki pi tenpo kama
 *(Estonta Lingvaĵo — Language of the Future)*
+
+#### nimi kalama
+*(Interjekcioj — Interjections)*
+
+**nimi kalama** "a" li ken kama jo e kon pi **nimi kama** "a".
+*(La interjekcio "a" povas ricevi la signifon de la modifilo "a". — The interjection "a" can recieve the meaning of the modifier "a".)*
+
+* a, sina suli. *(Jes, vi estas granda. — Yes, you are tall.)*
+
+**nimi kalama** "mu" li ken kama **nimi kama** "mu".
+
+* ijo mu *(zozaĵo → io ajn — thingy — whatever a thing)*
+* o pana e lipu mu. *(Donu iun ajn libron. — Give me any book.)*
+
+**nimi kalama** "mu" li ken jo e kon pi **nimi kama** "mu".
+*(La interjekcio "mu" povas ricevi la signifon de la modifilo "mu". — The interjection "mu" can recieve the meaning of the modifier "mu".)*
+
+* mu *(ĉiuokaze, nu — anyway, well)*
+* → mu, sina suli. *(Nu, vi estas granda. — Well, you are tall.)*
 
 #### nimi suli pini
 *(Helpaj Verboj — Auxiliary Verbs)*
@@ -505,7 +529,6 @@ nimi "luka" en nimi "esun" li ken kama **nimi nanpa**.
 * luka tu tu *(dudek — twenty)*
 * luka tu luka tu *(cent — hundred)*
 * luka tu luka tu luka tu *(mil — thousand)*
-
 * luka tu nanpa mute *(tria deko → dek je la tria potenco — third ten → ten to the power of three)*
 
 **nimi ilo** "en" li ken lon insa pi nimi nanpa tu lon ni a: ona tu ni li lon pini pi **nimi ilo** "li".
@@ -762,7 +785,6 @@ kalama "i", "u" li sin. kalama "e", "o" li kama "i", "u" lon ni: wan nimi li lil
 * moko → ***moku*** *(gluti — to swallow)*
 * akete → akiti → ***akisi*** *(reptilo, amfibio — reptile, amphibian)*
 * tejelo → tejilu → ***tewilu*** *(vivaĵo — living being)*
-
 
 ## toki nasa
 *(Freneza Lingvaĵo — Crazy Language)*
