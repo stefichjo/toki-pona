@@ -369,7 +369,7 @@ nimi "taso" li **nimi kama palisa**. nimi "sin" li sama nimi "taso ala". tan ni 
 * ijo ***taso*** *(io izolita — something apart)*
   * → ijo ***taso ona*** *(io izolita de ŝi, io sen ŝi — something apart from her, something without her)*
 
-kepeken nimi "sin" en **nimi kama palisa** "ante" la jan ken toki e ante ijo. *(Pere de "sin" kaj "ante" oni povas kompari aferojn. — By means of "sin" and "ante" one can compare things.)*
+kepeken nimi "sin" anu **nimi kama palisa** "ante" la jan ken toki e ante ijo. *(Pere de "sin" aŭ "ante" oni povas kompari aferojn. — By means of "sin" or "ante" one can compare things.)*
 
 * toki pona li toki ***pona***. *(Tokipono estas bona lingvo. — Toki Pona is a good language.)*
 * toki pona li toki pi ***pona sin***. *(Tokipono estas pli bona lingvo. — Toki Pona is a better language.)*
@@ -437,7 +437,7 @@ suno en mun en mun luka li lon.
 * mun ***"Mun Kiwen"*** → ***mun kiwen*** *(Venuso — Venus)*
 * mun ***"Mun Ma"*** → ***mun ma*** *(Saturno — Saturn)*
 
-nimi pi tenpo suno li tan nimi pi suno en mun en mun luka.
+nimi pi tenpo suno li tan nimi pi suno, mun, mun luka.
 *(La nomoj de la tagoj venas de la nomoj de la suno, la luno kaj la kvin ĉielaj objektoj. — The names of the days are derived from the Sun, the Moon and the five celestial objects.)*
 
 * tenpo suno ***"Suno"*** *(dimanĉo — Sunday)*
