@@ -440,6 +440,15 @@ nimi pi tenpo suno li tan nimi pi suno en mun en mun luka.
 * tenpo suno ***"Mun Kiwen"*** *(vendredo — Friday)*
 * tenpo suno ***"Mun Ma"*** *(sabato — Saturday)*
 
+jan li ken toki e ante mun.
+*(Oni povas distingi ĉielajn objektojn. — One can distinguish celestial objects.)*
+
+* ***mun*** → ***sike suno*** *(star)*
+* ***mun*** → ***sike ma*** *(planet)*
+  * ***mun*** → ***sike kon*** *(gas giant)*
+  * ***mun*** → ***sike lete*** *(ice giant)*
+* ***mun*** → ***sike ma poka*** *(moon)*
+
 #### nanpa
 *(Numeroj — Numbers)*
 
