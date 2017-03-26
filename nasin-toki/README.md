@@ -153,6 +153,11 @@ nimi "nanpa" lon poka pi **nimi nanpa** li ken kama nimi. tan ni la **nimi ijo**
 * toki ***~~pi~~ nanpa wan*** *(la unua lingvo — the first language)*
   * → toki ***nanpa wan*** *(la lingvo numero unu — language number one)*
 
+#### nimi ilo "en"
+**nimi ilo** "en" li ken lon insa pi nimi lon kama pi **nimi ilo** "li" taso. *(La partikulo "en" povas esti nur inter pluraj subjektoj. — The particle "en" can only be between multiple subjects.)*
+
+* toki sina ***en*** pali sina li sama, la sina pilin pona. *(Se via parolo kaj via ago estas samaj, vi bonfartas. — If what you say and what you do are the same, you are happy.)*
+
 #### nimi ilo "anu"
 nimi "ala anu" lon insa pi nimi sama tu li ken kama nimi "ala".
 *("ala anu" inter du samaj vortoj povas fariĝi "ala". — "ala anu" between two same words can become "ala".)*
