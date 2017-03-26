@@ -609,7 +609,7 @@ nimi sijelo "akesi", "jan", "kala", "kasi", "pipi", "soweli" en "waso" li sin.
   * → ***kala*** *(fiŝo — fish)*
 * ***sijelo ma*** *(tera vivaĵo — living being of earth)*
   * → ***kasi*** *(planto — plant)*
-* ***sijelo lili/kiwen/lupa*** *(malgranda/malmola/malplena vivaĵo — small/soft/empty living being)*
+* ***sijelo lili/kiwen/lupa*** *(malgranda/malmola/malplena vivaĵo — small/hard/empty living being)*
   * → ***pipi*** *(insekto — insect)*
 * ***sijelo seli*** *(varma vivaĵo — warm living being)*
   * → ***soweli*** *(mamulo — mammal)*
