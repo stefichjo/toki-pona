@@ -506,7 +506,7 @@ nimi "luka" en nimi "esun" li ken kama **nimi nanpa**.
 **nimi ilo** "en" li ken lon insa pi nimi nanpa tu lon ni a: ona tu ni li lon pini pi **nimi ilo** "li".
 *(La partikulo "en" povas esti inter du numeraloj eĉ en la predikato. — The particle "en" can be between numerals even in the predicate.)*
 
-* mi jo e pan luka tu ***en*** tu. *(Mi havas dek du panojn.)*
+* mi jo e pan luka tu ***en*** tu. *(Mi havas dek panojn kaj du. → Mi havas dek du panojn.)*
 
 #### sitelen lon poka nimi
 *(Interpunkcio — Punctuation)*
