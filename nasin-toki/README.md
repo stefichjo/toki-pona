@@ -344,6 +344,7 @@ nimi "sike" li ken kama **nimi suli palisa**.
 
 * ijo ***mu*** *(zozaĵo → io ajn — thingy — whatever a thing)*
 * o pana e lipu ***mu***. *(Donu iun ajn libron. — Give me any book.)*
+* mi pilin ***mu*** *(Mi indiferentas. — I don't care.)*
 
 **nimi kalama** "mu" li ken jo e kon pi **nimi kama** "mu".
 *(La interjekcio "mu" povas ricevi la signifon de la modifilo "mu". — The interjection "mu" can recieve the meaning of the modifier "mu".)*
