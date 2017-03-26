@@ -116,7 +116,7 @@ tenpo pi nanpa wan la ona li toki insa e ni: "kalama 'SSS' ni li sama nimi ijo. 
 
 tenpo suli la ona li toki insa. ona li toki e ni: "tawa mi la, tan ni taso la jan li pipi kon pi ko suwi: jan o pali e ko suwi."
 
-ona li kama noka li toki e ni: "tan ni taso la jan li pali e ko suwi: mi o ken moku e ona." sama ni la ona li kama lon sewi kepeken kasi suli. ona li tawa sewi li tawa sewi li tawa sewi li toki e kalama musi tawa ona sama. toki pi kalama musi li ni:
+ona li kama sinpin li toki e ni: "tan ni taso la jan li pali e ko suwi: mi o ken moku e ona." sama ni la ona li kama lon sewi kepeken kasi suli. ona li tawa sewi li tawa sewi li tawa sewi li toki e kalama musi tawa ona sama. toki pi kalama musi li ni:
 
 *nasa musi li ni, a:  
 ko suwi li pona tawa soweli pi luka wawa  
@@ -136,7 +136,7 @@ ___
 
 ___
 
-tenpo ni la ona li kama wile supa. tan ni la ona li toki e kalama pi pilin ike. tenpo sama kama la ona li kama lon ni. ona li noka lon palisa kasi ni, la ...
+tenpo ni la ona li kama wile supa. tan ni la ona li toki e kalama pi pilin ike. tenpo sama kama la ona li kama lon ni. ona li sinpin lon palisa kasi ni, la ...
 
 KA!
 
