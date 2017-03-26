@@ -69,12 +69,13 @@ nimi lon kama pi **nimi ilo** "li" li nimi "mi" taso anu nimi "sina" taso, la **
 * sina ***~~li~~*** sin. *(Vi estas nova. — You are new.)*
   * → sina sin.
 
-**mute nimi** tu pi nimi sama lon kama pi nimi "li" li ken kama wan. nimi tu ni lon kama pi nimi "li" li "mi" anu "sina", la **mute nimi** tu li ken ala kama wan.
-*(Du frazoj kun sama subjekto povas unuiĝi. Se tiu subjekto estas "mi" aŭ "sina", la du frazoj ne povas unuiĝi. — Two sentences with the same subject can become one. If the subject is "mi" or "sina", the two sentences can't become one.)*
+**mute nimi** tu pi nimi sama lon kama pi nimi "li" li ken kama wan. nimi lon pini pi **nimi ilo** "li" li wile ala e sitelen nanpa. nimi tu sama lon kama pi nimi "li" li "mi" anu "sina", la **mute nimi** tu li ken ala kama wan.
+*(Du frazoj kun sama subjekto povas unuiĝi. Predikatoj ne bezonas komon. Se la du samaj subjektoj estas "mi" aŭ "sina", la du frazoj ne povas unuiĝi. — Two sentences with the same subject can become one. Predicates don't need commas. If the two same subjects are "mi" or "sina", the two sentences can't become one.)*
 
-* ***ma mama li*** lili en ***ma mama li*** lete. *(La patrujo estas malgranda kaj la patrujo estas malvarma. — The motherland is small and the motherland is cold.)*
-  * → ***ma mama li*** lili ***li*** lete. *(La patrujo estas malgranda kaj malvarma. — The motherland is small and cold.)*
-* ***mi*** kama sona e toki mute en ***mi*** musi. *(Mi studis lingvistikon kaj mi ludis. — I was studying linguistics and I was being playful.)*
+* ***ma mama li*** lili, ***ma mama li*** lete. *(La patrujo estas malgranda kaj la patrujo estas malvarma. — The motherland is small and the motherland is cold.)*
+  * → ***ma mama li*** lili, ***li*** lete. *(La patrujo estas malgranda kaj malvarma. — The motherland is small and cold.)*
+    * → ***ma mama li*** lili ***li*** lete.
+* ***mi*** kama sona e toki mute, ***mi*** musi. *(Mi studis lingvistikon kaj mi ludis. — I was studying linguistics and I was being playful.)*
   * → ***mi*** kama sona e toki mute. ***mi*** musi. *(Mi studis lingvistikon kaj ludis. — I was studying linguistics and being playful.)*
 
 jan li wile toki sin lon tenpo lili la, **nimi ilo** "li" lon poka pi nimi lon kama ona li ken kama weka.
