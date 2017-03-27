@@ -13,6 +13,7 @@ galaxy ("multitude of stars") = mute suno
 god ("leading person of the heavens") = jan lawa sewi
 guru ("person of knowledge") = jan sona
 laugh ("playful emotional utterance") = a musi
+lie ("communicate bad words") = toki e nimi ike
 marriage ("community of maritial relationship") = kulupu unpa
 moon = mun
 news = sona sin
@@ -1764,7 +1765,7 @@ to me.
 
 329
 00:35:57,966 --> 00:36:01,697
-sina ken ala pini toki ike anu seme?
+sina ken ala pini toki e nimi ike anu seme?
 o pini.
 ==hey you just can't stop blabbering.
 put some limit to your lie.
@@ -3597,67 +3598,67 @@ meet a psychiatrist. call me.
 
 644
 01:18:15,370 --> 01:18:18,780
-tawa sina la toki mi li lon ala anu seme?
+tawa sina la toki mi li akesi anu seme?
 ==you think my story is fake?
 
 645
 01:18:21,323 --> 01:18:28,362
-tan ni la o tawa li pana e toki pi soweli Niku
-lon ilo pana. ijo pona li kama ala lon nasin sina.
+ni la o tawa o pana e sona sin pi soweli Niku
+lon tomo pi sitelen tawa. ijo pona li kama ala lon nasin sina.
 ==so go on telecast nikku dog story
 on tv. you aren't lucky enough.
 
 646
 01:18:36,164 --> 01:18:39,585
-jan Pante Si o, mi wile toki e ijo sin tawa ona.
+jan Pante Si o, tenpo sin la mi wile toki tawa ona.
 ==pandey ji. I want to meet him once
 more.
 
 647
 01:18:40,132 --> 01:18:49,030
 sina pana e mani sin, la
-mi pana a e ona tawa sina.
+mi pana e ale ona a tawa sina.
 ==Instead give me 500 rupee more
 and take the whole man.
 
 648
 01:18:49,259 --> 01:18:52,311
-tawa mi la mi toki ala e toki pi soweli
-pi lukin moli tawa sina.
+tawa mi la mi toki ala e ijo soweli,
+ona li lukin moli e sina.
 ==i don't remember telling you about
 suicidal dog.
 
 649
 01:18:52,354 --> 01:18:53,920
-sina toki ala a.
+tan ni: sina toki ala.
 ==because you didn't.
 
 650
 01:18:54,259 --> 01:18:56,209
-sina sona kepeken nasin seme?
+sina kama sona kepeken seme?
 ==how did you know?
 
 651
 01:18:57,310 --> 01:19:02,299
-sina jo e luka mi, la mi lukin e insa pi lawa sina.
+sina luka e luka mi, la mi lukin e insa pi lawa sina.
 ==I read your mind when you held my hand.
 
 652
 01:19:02,354 --> 01:19:06,481
-tawa sina la toki mi li lon ala. tan ni la
+tawa sina la nimi mi li ike. tan ni la
 sina wile toki e ijo pi soweli Niku.
 ==you thought my story is bogus,
 you have to manage with nikku dog now.
 
 653
 01:19:06,481 --> 01:19:09,418
-o toki e lon! mi toki a e ona tawa sina.
+o toki ale e nimi ike! mi toki a e ona tawa sina.
 ==don't lie. i must have told you.
 
 654
 01:19:09,577 --> 01:19:16,182
-jan pi ma mi li pilin e luka li lukin e lawa.
-ma ni la jan li toki e nimi pi lon ala.
+jan pi ma mi li luka e luka li lukin e insa lawa.
+ma ni la jan li kepeken nimi ike.
 ==people in my planet touch hands and read minds.
 here people use false words.
 
@@ -3673,7 +3674,7 @@ ala a!
 
 657
 01:19:19,529 --> 01:19:28,180
-mije sin o pana e pona. meli mi li ike lon tomo pi pona sijelo.
+mije lili o pana e pona tawa mi. meli mi li sijelo ike lon tomo pi pona sijelo.
 ona li wile e mani pi mute suli tawa pona ona.
 mi wile e mani lili taso.
 ==Help me son. My wife is sick in the hospital.
@@ -3691,7 +3692,7 @@ If you will give 500 rupees..
 01:19:34,133 --> 01:19:38,402
 pona!
 - o toki e tomo sina tawa mi.
-mi pana e mani sama tawa sina.
+mi pana sin e mani tawa sina.
 ==There you go.
 -Write me your address
 i will return.
@@ -3699,13 +3700,13 @@ i will return.
 660
 01:19:38,402 --> 01:19:41,672
 sina ken ala pana e mani tawa tomo mi.
-o awen poka ona.
+o awen jo e ona.
 ==its impossible to send money
 where i live. you keep it.
 
 661
 01:19:41,672 --> 01:19:43,981
-mije sin o pona mute.
+mije lili o pona mute.
 ==Thank you son.
 
 662
@@ -3717,13 +3718,13 @@ for the tip.
 
 663
 01:19:49,642 --> 01:19:53,167
-ale pona tawa sina!
+pona sijelo tawa sina!
 ==long live son.
 
 664
 01:19:53,498 --> 01:20:03,898
-sina toki e lon ala a. ona li nasa e sina.
-tomo pi pona sijelo li lon ala poka.
+sina pana e ni tawa lukin: sina toki e nimi ike a.
+ona li sama jan nasa e sina. poka ni la tomo pi pona sijelo li lon ala.
 ==its proved now that you were lying.
 he made you fool. there is no hospital
 nearby.
@@ -3731,46 +3732,46 @@ nearby.
 665
 01:20:03,898 --> 01:20:08,420
 mi sona. ona li tawa e meli ona tawa
-tomo pi mun luka.
+tomo pi jan tawa. ona li wile pana e mani.
 ==I know. he brought his wife for
 treat to a 5 star hotel.
 
 666
 01:20:08,420 --> 01:20:13,314
-tenpo suno ni la meli ona li sike suno sin.
-tenpo pini ala la ona li lon tomo pi mun luka.
+tenpo suno ni la meli ona li sike sin e suno.
+tenpo pini ala la ona li lon tomo pi jan tawa, pi mani mute ni.
 ==Today his wife's 75th birthday.
 She's never been to 5 star hotel.
 
 667
 01:20:13,314 --> 01:20:19,026
-tenpo suli la ona li awen e mani pi kama jo ona.
+tenpo suli la ona li alasa e mani tan mani ona.
 meli ona li wile e suwi lete sin.
 ==gradually he was collecting money from
 his pension. wife ordred an extra ice cream.
 
 668
 01:20:19,026 --> 01:20:22,783
-taso ona li jo ala a e mani. toki ona la
-ona li tawa tomo telo. taso ona li kama tawa mi.
+taso ona li jo ala a e mani. ona li toki esun e ni:
+ona li wile tawa tomo telo. taso ona li kama tawa ni.
 ==he went out of money. he gave bathroom as
 an excuse and came here.
 
 669
 01:20:22,783 --> 01:20:24,584
-pakala suli.
+nimi pi pakala suli a.
 ==what a crap.
 
 670
 01:20:24,926 --> 01:20:31,093
-sike mi la jan li toki e lon taso.
-pilin sina li ante ala e ni.
+sike ma mi la jan ala li toki e nimi ike.
+mi pilin mu e ni: ni li a tawa sina anu seme.
 ==in our ball nobody lies.
 believe it or not.
 
 671
 01:21:36,360 --> 01:21:41,030
-ni li sike suno sina a.
+ni li sike suno sin sina a.
 o musi!
 ==Its your birthday after all.
 Enjoy.
