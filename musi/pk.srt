@@ -1396,14 +1396,14 @@ tan seme? tomo sina li lon seme?
 00:29:32,313 --> 00:29:42,869
 mi awen lon tomo Akasen Ki Pajoli,
 taso tenpo suno mute ni la tenpo mute la telo li kama lon anpa tan sewi.
-tan ni la tenpo la mi kepeken tomo pi lupa ala.
+tan ni la tenpo la mi kepeken tomo pi open ala.
 ==Although i stay in Agrasen's Baoli,
 However as its raining often now-a-days so
  i check in sometimes in lock up.
 
 263
 00:29:43,265 --> 00:29:45,845
-tomo pi jan pali pi nasin lawa?
+lon tomo pi jan pali pi nasin lawa?
 ==Lock up as in police lock up?
 
 264
@@ -1483,7 +1483,7 @@ mi wile toki tawa jan ni.
 278
 00:31:35,999 --> 00:31:43,737
 tawa sina la ni li tomo moku anu seme?
-ni li tomo pi lupa ala.
+ni li tomo pi open ala.
 ==Its not a college canteen where you can
 go in and have a refreshment. its a lock up.
 
@@ -3273,7 +3273,7 @@ I'll do whatever you say.
 
 588
 01:10:09,323 --> 01:10:11,784
-o tawa e mi. o.
+o tawa tomo e mi. o.
 ==Just let me go home. please.
 
 589
@@ -3298,24 +3298,24 @@ o.
 
 593
 01:11:39,429 --> 01:11:41,208
-sina pini e lupa tan seme?
+sina weka e lupa tan seme?
 ==hey why you locking?
 
 594
 01:11:41,254 --> 01:11:42,445
-tenpo suno ni la sina tawa ala.
+tenpo suno ni la sina tawa weka ala.
 ==i won't let you go today.
 
 595
 01:11:42,842 --> 01:11:45,104
-o open e lupa. mi wile tawa.
+o open e lupa. mi wile pali musi.
 ==open the door, i have an entry.
 
 596
 01:11:45,540 --> 01:11:49,224
-sewi Siwa. ona li pakala e ike
+jan lawa sewi Siwa li pakala e ike
 li pilin ike tan ala.
-Shiv, who is the sin destroyer.
+==Shiv, who is the sin destroyer.
 not afraid of anything.
 
 597
@@ -3333,18 +3333,18 @@ I am PK.
 599
 01:11:57,246 --> 01:12:03,762
 jan lawa o! jan li lon ni anu seme?
-jan nasa li lon ni. mi wile pana e musi lon poki pi ko jaki anu seme?
+jan nasa li lon ni. mi wile pali musi lon tomo telo anu seme?
 ==Security. anybody there?
 -Drunk person is here. Shall i do skit in the toilet?
 
 600
 01:12:05,580 --> 01:12:07,877
-o open e lupa... o open!
+o open e lupa... o!
 ==Open the door..now
 
 601
 01:12:07,877 --> 01:12:09,468
-nanpa wan la o pana e ilo lawa mi.
+nanpa wan la o pana e ilo lawa mi tawa mi.
 ==first get me my remote.
 
 602
@@ -3364,23 +3364,23 @@ tomo tawa mun?
 
 605
 01:12:14,350 --> 01:12:18,190
-sina weka anu seme? tenpo mute la mi toki e ijo ona.
+sina pini sona anu seme? tenpo mute la mi toki e ijo ona.
 ==Forgotton? I told you so many times.
 
 606
 01:12:18,477 --> 01:12:22,290
-mi tan ma ni ala. mi tan ma pi poka ala.
+mi tan sike ma ni ala. mi tan weka suli.
 ==I am not from this planet,
 came from far away.
 
 607
 01:12:22,953 --> 01:12:26,564
-sina pana e ilo lawa tawa mi, la mi tawa tomo mi.
+sina pana e ilo lawa tawa mi, la mi tawa tomo.
 ==Just get me my remote and i'll go home.
 
 608
 01:12:27,080 --> 01:12:29,937
-o weka e mi tan tomo ni.
+jan sama o tan insa e mi.
 mi mama pi jan lili.
 ==brother let me go,
 I have small children.
@@ -3392,7 +3392,7 @@ mi sona pona e ni.
 
 610
 01:12:31,747 --> 01:12:34,477
-sewi Kane en sewi Kate. ona li lili ala li ken lon poka ala sina.
+jan lawa sewi Kane en jan lawa sewi Kate. ona li lili ala li kama moli ala lon poka pi jan ala.
 ==Ganesh and kartik. They aren't little and can survive alone.
 
 611
@@ -3404,17 +3404,17 @@ go to your family.
 
 612
 01:12:39,239 --> 01:12:40,906
-sewi o weka e mi tan ni.
+jan lawa sewi o tan ike ni e mi.
 ==Oh god save me.
 
 613
 01:12:40,985 --> 01:12:43,289
-sewi ante li sewi tawa sina anu seme?
+jan lawa sewi ante li lon sewi sina anu seme?
 ==there is a God above you?
 
 614
 01:12:43,289 --> 01:12:44,455
-[toki sewi Palata]
+[toki Palata tawa sewi]
 ==Om namah shivaya
 
 615
@@ -3424,7 +3424,7 @@ ona li lon seme?
 
 616
 01:12:51,699 --> 01:12:53,309
-o weka e mi tan ni!
+o tan ike ni e mi!
 ==Save me!
 
 617
@@ -3446,14 +3446,14 @@ from this small object on the ground.
 
 620
 01:14:11,493 --> 01:14:19,236
-mi pini e lukin mi li pilin e sewi.
-sewi li suno e mi.
+mi weka e lukin mi li pilin e sewi.
+sewi li pana e sona suno tawa mi.
 ==I closed my eyes thought about God,
 and i got enlighted.
 
 621
 01:14:19,509 --> 01:14:27,952
-ijo ni li seli mute. taso ona
+ijo ni li seli a. taso ona
 li lon lete mute.
 ==this object was so hot even in
 a very cold weather.
@@ -3467,8 +3467,8 @@ lord shiva's pellet drum. embrace it.
 
 623
 01:14:36,017 --> 01:14:48,306
-o pana e ona lon tomo sewi. lukin ona li kama
-e pona tawa jan li weka e ike tan jan.
+o pana e ona tawa tomo sewi. jan li lukin e ona
+e kon ona pi pona kama, la ona li weka e pilin ike.
 ==take it and put it in a temple. its auspicious
 sight will take people's trouble away.
 
@@ -3499,45 +3499,45 @@ o pini ala e ona. ona li pilin wawa.
 
 629
 01:15:28,711 --> 01:15:31,489
-jan lawa Siwa o, pona!
+jan lawa Siwa o, toki!
 ==Lord Shiva, Greetings
 
 630
 01:15:31,489 --> 01:15:33,711
-o tawa ni ala. o kama.
+o tawa ni ala. o kama lon ni.
 ==not there, here
 
 631
 01:15:33,949 --> 01:15:36,383
-o kama li toki e ijo pi wile sina.
+o kama o toki e ijo pi wile sina.
 ==Say what you want to say here.
 
 632
 01:15:36,383 --> 01:15:42,630
-sewi Siwa li suli.
-- sewi Siwa li suli.
+jan lawa sewi Siwa li suli.
+- jan lawa sewi Siwa li suli.
 ==Shiva is great.
 -Shiva is great.
 
 633
 01:15:42,759 --> 01:15:46,967
-jan lawa o, sina lon seme?
-o kama lon ni li kama suli tan toki mi.
+jan lawa o, sina weka lon seme?
+o kama lon ni o kute e toki mi pi kama pona.
 ==Lord where are you hiding?
 come upfront, accept my gratitude.
 
 634
 01:15:47,759 --> 01:15:54,342
 ona li lon ni!
-mi lukin e ona lon tomo pi ko jaki.
-mi wile kama jo e ijo mi la ona li tawa wawa.
+mi lukin e ona lon tomo telo.
+mi wile kama jo e ijo mi, la ona li tawa wawa.
 ==He's right here.
 found him in the toilet.
 when i asked for my property, he ran.
 
 635
 01:15:54,584 --> 01:16:03,182
-tawa mi la ona li weka. taso ona li pana e mi lon ni
+tawa mi la ona li kama weka. taso ona li tawa ni e mi
 tawa ijo mi.
 o sewi e jan lawa!
 ==I thought he escaped but he brought me here
@@ -3546,23 +3546,23 @@ praise the lord!
 
 636
 01:16:03,791 --> 01:16:09,861
-sewi Siwa li jo ala e ni. mi a li jo.
+jan lawa sewi Siwa li jo ala e ni. mi a li jo e ona.
 ken la pana pi ijo ni li pakala.
 ==Its not shiva's. its mine.
 Might have been a cross delivery.
 
 637
 01:16:10,219 --> 01:16:16,096
-ijo sina li lon ante. sewi li sona e lon ni.
-sewi li lon ni.
-sewi o kama tawa sinpin.
+ijo sina li weka.
+o wile sona tan jan lawa sewi. ona li lon ni.
+jan lawa sewi o kama tawa sinpin.
 ==yours must be lost.
 Ask the lord. he is here.
 come in front lord.
 
 638
 01:16:16,648 --> 01:16:20,525
-pona. mi kama jo sin e ijo mi.
+pona. mi kama jo e ijo mi.
 ==Its ok i will take my property.
 
 639
