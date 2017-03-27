@@ -412,11 +412,19 @@ kepeken nimi "sin" anu **nimi kama palisa** "ante" la jan ken toki e ante ijo. *
 #### nimi suli palisa kama
 *(Pasivo kaj Kaŭzativo — Passive and Causative)*
 
-nimi "pona" en nimi "open" li ken lon kama pi **nimi suli palisa**.
-*("pona" kaj "open" povas esti antaŭ transitiva verbo. — "pona" and "open" can stand before transitive verbs.)*
+nimi "pona" en nimi "ike" li ken lon kama pi **nimi suli palisa**.
+*("pona" kaj "ike" povas esti antaŭ transitiva verbo. — "pona" and "ike" can stand before transitive verbs.)*
 
-* ***pona lukin*** *(bona por vidi; vidinda, bela — good to see; worth seeing, beautiful)*
-* ***open pali*** *(malferma por fari; farebla, facila — open to do; doable, easy)*
+* ***pona*** lukin *(bone vidata, facile vidata, agrable vidata, vidinda, bela — good to see, easy to see, worth seeing, beautiful)*
+* ***ike*** lukin *(malbone vidata, malfacile vidata, malagrable vidata, malvidinda, malbela — bad to see, difficult to see, not worth seeing, ugly)*
+
+nimi "a", "nimi "open" en nimi "ala" li ken lon kama pi **nimi suli palisa**.
+*("a", "open" kaj "ala" povas esti antaŭ transitiva verbo. — "a", "open" and "ala" can stand before transitive verbs.)*
+
+* ***a*** lukin *(vidata — being seen)*
+  * ona li ***a*** lukin tawa mi. *(Ŝi estas vidata de mi. — She is being seen by me.)*
+* ***open*** lukin *(malferme vidata, videbla — openly seen, visible)*
+* ***ala*** lukin *(ne vidata, nevidebla — not being seen, invisible)*
 
 **nimi lawa** "ijo" lon kama pi **nimi suli palisa** li ken awen.
 *(La substantivo "ijo" antaŭ transitiva verbo povas resti. — The noun "ijo" before a transitive verb can stay.)*
