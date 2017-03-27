@@ -322,6 +322,19 @@ nimi "sike" li ken kama **nimi suli palisa**.
 
 * mi ~~tawa~~ ***sike*** ~~lon~~ suno. *(Mi orbitas la sunon. — I orbit around the sun.)*
   * → mi ***sike e*** suno.
+  
+**nimi suli pi palisa ala** li kama **nimi suli palisa**, la nimi "e ijo" li ken kama weka.
+*(Se netransitiva verbo fariĝas transitiva, "e ijo" povas malaperi. — If an intransitive verb becomes transitive, "e ijo" can disappear.)*
+
+* mi open. *(Mi estas malfermita. — I am open.)*
+* mi open ***e ijo***. *(Mi malfermas ion. — I open something.)*
+  * → mi open. *(Mi malfermas. — I open.)*
+
+nimi "open" li ken kama jo e kon pi nimi "kama".
+*("open" povas ricevi la signifon de "kama". — "open" can get the meaning of "kama".)*
+
+* mi **kama** lon nimi sewi. *(Mi komencas ĉe la nomo de la Ĉiela. — I begin with the name of the Devine.)*
+  * → mi **open** lon nimi sewi.
 
 # toki kulupu
 *(Komunuma Lingvaĵo — Community Language)*
@@ -805,15 +818,6 @@ kalama "i", "u" li sin. kalama "e", "o" li kama "i", "u" lon ni: wan nimi li lil
 
 #### nimi suli palisa
 *(Transitivaj Verboj — Transitive Verbs)*
-
-##### nimi suli palisa tan nimi suli pi palisa ala
-*(Transitivaj Verboj el Netransitivaj Verboj — Transitive Verbs from Intransitive Verbs)*
-
-**nimi suli pi palisa ala** li kama **nimi suli palisa**, la nimi "e ijo" li ken kama weka.
-*(Se netransitiva verbo fariĝas transitiva, "e ijo" povas malaperi. — If an intransitive verb becomes transitive, "e ijo" can disappear.)*
-
-* mi pona ***e ijo***. *(Mi riparas ion. — I repair something.)*
-  * → mi pona. *(Mi riparas. — I repair.)*
 
 ##### nimi suli palisa tan nimi lawa
 *(Transitiva Verbo el Substantivo — Transitive Verbs from Nouns)*
