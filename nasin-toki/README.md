@@ -626,7 +626,9 @@ nimi pi **wan sijelo** li pini jo e nimi "ijo". *(Vortoj por korperoj perdis la 
 * ***ilo lukin*** → ***lukin*** *(vidilo → okulo — "looker" → head)*
 * ***ilo noka*** → ***noka*** *(tretilo → piedo — "kicker" → foot, leg)*
 * ***ilo palisa*** → ***palisa*** *(indikilo → fingro — "pointer" → finger)*
-* ***ilo pilin*** → ***pilin*** *(sentilo → koro — "feeler" → head)*
+* ***ilo pilin*** → ***pilin*** *(sentilo → koro — "feeler" → heart)*
+* ***ilo selo*** → ***selo*** *(limigilo, fermilo → haŭto — "limiter", "shutter" — skin)*
+* ***ilo uta*** → ***uta*** *(kisilo → buŝo — "kisser" → mouth)*
 
 ##### nimi sijelo
 *(Vortoj por Vivaĵoj — Words for Living Beings)*
