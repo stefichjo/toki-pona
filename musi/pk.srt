@@ -1,18 +1,33 @@
 0
 00:00:00,000 --> 00:00:01,000
 architecture ("way of houses") = nasin tomo
+ask ("wanting to hear") = wile kute
+boss ("leading person") = jan lawa
+bridge ("connecting horizontal surface, thing to put or rest something on") = supa nasin
+bum ("lower back") = monsi anpa
+call ("try to talk to") = lukin toki
+doctor ("person of health") = jan sona pi pona sijelo
+exchange ("business transaction") = esun
 fear ("bad feeling") = pilin ike
 galaxy ("multitude of stars") = mute suno
+god ("leading person of the heavens") = jan lawa sewi
+guru ("person of knowledge") = jan sona
 laugh ("playful emotional utterance") = a musi
 marriage ("community of maritial relationship") = kulupu unpa
 moon = mun
+news = sona sin
 planet ("night sky object") = mun
-planet ("round world") = ma sike
+planet ("round world") = sike ma
+pray ("try to talk to") = lukin toki
+prevent ("remove the possibility") = weka e ken
+religion ("doctrine of the divine") = nasin sewi
+sculpture ("representation") = sitelen
 smile ("happy face") = sinpin lawa pi pilin pona
 space ship ("interstellar moving indoor space") = tomo tawa mun
 star ("night sky object") = mun
 star ("sun") = suno
 sun = suno
+temple ("house of religion") = tomo pi nasin sewi
 ticket = lipu tawa
 
 1
@@ -834,7 +849,7 @@ jan Si li toki ike e tenpo kama.
 
 160
 00:19:57,874 --> 00:19:58,694
-mi pana lukin e ni.
+mi pana e lukin.
 ==I'll prove it.
 
 161
@@ -889,12 +904,12 @@ tenpo ante la mi mute li pali e sona sin.
 
 170
 00:21:57,137 --> 00:22:00,948
-weka ike. lukin la o toki tawa jan Pike.
+weka ike. lukin la o toki tawa jan Na Sa.
 ==Missing. If found contact PK.
 
 171
 00:22:05,314 --> 00:22:09,123
-mi kama lukin e toki pi sona sin. o tawa tomo pali.
+mi kama lukin e sona sin. o tawa tomo pali.
 mi lon ni lon pini pi tenpo lili.
 ==I found a story, you reach office
 I will be there soon.
@@ -1054,7 +1069,7 @@ lon! jan ala li wile sona!
 201
 00:24:35,424 --> 00:24:38,573
 ni la tan seme la mi mute li pana e sona sin nasa ni
-kepeken tomo pi sitelen tawa, pi mi mute?
+lon tomo pi sitelen tawa, pi mi mute?
 ==then why are we showing such stupid news
 on our channel?
 
@@ -1071,13 +1086,13 @@ o jo e ona lon tenpo lili.
 204
 00:24:44,790 --> 00:24:50,827
 o lukin e ni. tenpo suno ni la mi kama sona
-e mije. ona li pana e lipu ni. ona li wile lukin e sewi.
+e mije. ona li pana e lipu ni. ona li wile kama lukin e sewi.
 ==Look at this I met a man today who is
  distributing pamphlets. seaching God.
 
 205
 00:24:51,171 --> 00:24:52,203
-ona li lukin anu seme?
+ona li kama lukin anu seme?
 ==Did he found?
 
 206
@@ -1087,12 +1102,12 @@ ala. taso...
 
 207
 00:24:55,377 --> 00:24:58,657
-wile lukin sewi li nasin sewi. lukin sewi li sona pana.
+jan li wile kama lukin e jan lawa sewi, la ni li nasin sewi. ona li kama lukin, la ni li sona sin.
 ==Seaching God is religion, Finding God is news.
 
 208
 00:24:59,293 --> 00:25:02,256
-ona li lukin e sewi la o kama e ona. mi pana e sitelen ona.
+ona li kama lukin e jan lawa sewi, la o kama e ona. mi pana e sitelen ona.
 ==When he found the God bring him here i will put him on air.
 
 209
@@ -1102,8 +1117,8 @@ taso
 
 210
 00:25:03,076 --> 00:25:06,938
-sina sona e nasin pi kulupu ni.
-pana ala pi nasin sewi en pana ala pi jan sewi. pini.
+sina sona e nasin lawa pi kulupu ni.
+o toki ala e sona sin pi nasin sewi, pi jan lawa sewi. pini.
 ==you know the company policy.
 No news on religion and no news on god.Finish.
 
@@ -1114,1675 +1129,2172 @@ seme li kama tawa sina? kon utala sina li tawa seme?
 
 212
 00:25:14,298 --> 00:25:17,049
-sina wile lukin e jan utala? ona li lon ni.
+sina wile lukin e jan utala anu seme? ona li lon ni.
 ==you want to see fighter? here it is.
 
 213
 00:25:17,129 --> 00:25:19,589
-sina wile lukin e pakala pi monsi mi anu seme?
+sina wile lukin e pakala pi monsi anpa mi anu seme?
 ==should I show you the marks on my bum?
 
 214
 00:25:19,722 --> 00:25:24,801
-mi kama ala poka pakala ni.
-sina sona e jan pona pi mama sina. ona li jan sewi Tapasi.
-mi toki e ijo ona lon pana sona,
+mi jo ala e ni tan kama tan lupa pi mama meli mi.
+sina sona e jan Si, jan pi pona mute, pi mama mije sina. jan tan toki ona li pali e ni kepeken ilo utala pi nasin sewi tan ni:
 ==Its not birth marks.
 The follower of your dad's dearest friend tapasvi guru
  did this with trishul weapon.
 
 215
 00:25:24,880 --> 00:25:28,716
-la jan pi kama sona ona li pakala e monsi mi kepeken ilo utala.
+mi pana e sona sin pi ijo ike pi jan Si.
 ==..when i broadcasted the news against him.
 
 216
 00:25:31,837 --> 00:25:36,706
 tan tenpo suno ni la mi wile awen lon ma ni,
-la mi wile toki ala e ijo pi nasin sewi a.
+la mi wile toki ala e ijo pi nasin sewi.
 ==That day i decided if i want to stay in this country
 i should avoid messing up with religion..
 
 217
 00:25:46,059 --> 00:25:48,464
-jan lawa li ken ala e ni: mi pini e toki ni.
+jan lawa mi li weka e ken ni: mi toki e sona sin ni.
 ==boss didn't let me follow up that story.
 
 218
 00:25:49,218 --> 00:25:52,797
-taso tenpo esun tu li pini la mi 
-lukin sin e toki lon nasin.
+taso pini pi tenpo esun tu la mi tawa, la mi kama lukin e sona sin ni lon tenpo sin.
 ==..but after 2 weeks i found that story
 once again on the way.
 
 219
 00:26:41,425 --> 00:26:42,608
-Robber!  Robber!
+jan akesi! jan akesi!
+==Robber!  Robber!
 
 220
 00:26:43,092 --> 00:26:48,746
-Somebody catch him, He is stealing money from
+jan o alasa e ona! ona li akesi li tan poki e mani tawa ona sama.
+==Somebody catch him, He is stealing money from
 the donation box.
 
 221
 00:26:58,287 --> 00:26:59,914
-hey where you going? wait!
+o, sina tawa seme? o awen!
+==hey where you going? wait!
 
 222
 00:27:05,422 --> 00:27:06,838
-catch him.
+o alasa e ona.
+==catch him.
 
 223
 00:27:09,989 --> 00:27:10,743
-Get away.
+o tawa weka.
+==Get away.
 
 224
 00:27:14,299 --> 00:27:17,052
-fool! you putting hands in God's pocket?
+jan nasa o! sina lon poki pi jan lawa sewi e luka?
+==fool! you putting hands in God's pocket?
 
 225
 00:27:18,411 --> 00:27:19,578
-pandit ji, he is not a thief.
+jan pi sona kama o, ona li jan akesi ala.
+==pandit ji, he is not a thief.
 
 226
 00:27:19,863 --> 00:27:22,753
-I was putting money in donation box but my purse fell in it.
+mi lon poki e mani, taso poki mani mi li kama anpa tawa insa ona.
+==I was putting money in donation box but my purse fell in it.
 
 227
 00:27:23,522 --> 00:27:25,126
-He was just helping me to take it out.
+ona li pana e pona taso tawa mi, kepeken ni mi ken tan insa e ona.
+==He was just helping me to take it out.
 
 228
 00:27:26,117 --> 00:27:26,927
-its true.
+ona li toki e lon.
+==its true.
 
 229
 00:27:27,697 --> 00:27:28,792
-you can check it.
+sina ken kama sona e ni.
+==you can check it.
 
 230
 00:27:29,362 --> 00:27:31,886
-purse has around 5000 rupees. you can check.
+poki mani li jo e Lupi 5000. sina ken kama sona.
+==purse has around 5000 rupees. you can check.
 
 231
 00:27:48,875 --> 00:27:50,019
-pundit ji. that's mine.
+jan pi sona kama o, ni li ijo mi.
+==pundit ji. that's mine.
 
 232
 00:27:50,693 --> 00:27:53,780
-It was. once donated can't be returned.
+lon tenpo pini a! sina pana e ona tawa poki. jan ken ala pana sin e ona.
+==It was. once donated can't be returned.
 
 233
 00:27:54,709 --> 00:27:55,606
-Let them go.
+ona o ken tawa.
+==Let them go.
 
 234
 00:27:57,352 --> 00:27:57,804
-hey
+o!
+==hey
 
 235
 00:27:58,438 --> 00:27:59,852
-but what was you doing exactly?
+taso sina pali e seme a?
+==but what was you doing exactly?
 
 236
 00:27:59,994 --> 00:28:01,376
-I was taking back my refund.
+mi wile e mani mi.
+==I was taking back my refund.
 
 237
 00:28:01,478 --> 00:28:03,311
-He took the payment but didn't do my job.
+tenpo pini la mi pana e mani tawa ona, taso ona li pali ala tawa mi.
+==He took the payment but didn't do my job.
 
 238
 00:28:03,438 --> 00:28:04,780
-hang on a sec.
+o awen lili.
+==hang on a sec.
 
 239
 00:28:05,628 --> 00:28:09,493
-I saw first you took out some money
+tenpo nanpa wan la mi lukin e ni: sina tan insa e mani. ni la sina pana sin e ona anu seme?
+==I saw first you took out some money
  and then put it back?
 
 240
 00:28:09,611 --> 00:28:13,635
-In this office department (temple) i only deposited 200 rupees.
+tomo pali ni la mi pana e Lupi 200.
+mi tan e mani ni taso.
+==In this office department (temple) i only deposited 200 rupees.
 Rest i put it back.
 
 241
 00:28:15,139 --> 00:28:17,282
-you had lots of holy amulets and talisman
+tenpo pini la sina jo e ijo mute pi nasin sewi.
+==you had lots of holy amulets and talisman
  in your neck?
 
 242
 00:28:17,421 --> 00:28:19,762
-I rejected. Won't wear no more.
+mi wile ala jo e ona.
+==I rejected. Won't wear no more.
 
 243
 00:28:20,218 --> 00:28:22,500
-then why you have god stickers on you?
+ni la tan seme la sina jo e sitelen pi jan lawa sewi?
+==then why you have god stickers on you?
 
 244
 00:28:23,313 --> 00:28:24,345
-Self-defense.
+mi weka e ike tan mi.
+==Self-defense.
 
 245
 00:28:25,476 --> 00:28:29,682
-Just like they put god picture on wall
+sama ni la jan li lon sinpin tomo e sitelen pi jan lawa sewi.
+kepeken ni la jan ala li pana e telo jaki tawa ona.
+==Just like they put god picture on wall
 so that nobody urinate on it.
 
 246
 00:28:29,841 --> 00:28:32,421
-I put it here so that nobody hit me.
+mi lon ni e ona. kepeken ni la jan ala li pakala e mi.
+==I put it here so that nobody hit me.
 
 247
 00:28:38,492 --> 00:28:40,198
-meetu. where are you?
+jan Mitu o, sina lon seme?
+==meetu. where are you?
 
 248
 00:28:40,357 --> 00:28:44,246
-Can you pick me up? i don't have money to go home.
+sina ken tawa e mi anu seme? mi jo ala e mani. mi ken ala tawa tomo.
+==Can you pick me up? i don't have money to go home.
 
 249
 00:28:44,603 --> 00:28:48,174
-i am in mudrika opposite the big temple.
+mi lon sinpin pi tomo suli pi nasin sewi.
+==i am in mudrika opposite the big temple.
 
 250
 00:28:48,373 --> 00:28:50,159
-come quickly thanks bye.
+o kama lon tenpo lili. mi awen.
+==come quickly thanks bye.
 
 251
 00:28:51,857 --> 00:28:53,484
-here, take this.
+o jo e ni.
+==here, take this.
 
 252
 00:28:53,761 --> 00:28:54,476
-why?
+tan seme?
+==why?
 
 253
 00:28:54,635 --> 00:28:56,103
-for taxi.
+kepeken ni la sina ken tawa tomo.
+==for taxi.
 
 254
 00:28:57,452 --> 00:29:01,857
-I don't feel good when somebody
+mi pilin ike lon ni:
+jan li ken ala tawa tomo.
+==I don't feel good when somebody
  unable to return home.
 
 255
 00:29:03,444 --> 00:29:04,198
-listen..
+o kute...
+==listen..
 
 256
 00:29:04,675 --> 00:29:07,929
-don't have more. that was it.
+mi jo ala e mute sin. ni li ale.
+==don't have more. that was it.
 
 257
 00:29:07,968 --> 00:29:09,714
-no no. i cant take this.
+ala. mi ken ala tan e ona.
+==no no. i cant take this.
 
 258
 00:29:09,794 --> 00:29:10,548
-why?
+tan seme?
+==why?
 
 259
 00:29:10,667 --> 00:29:13,960
-you must need this to get back home yourself.
+sina sama li wile e ni. kepeken ni la sina ken tawa tomo.
+==you must need this to get back home yourself.
 
 260
 00:29:18,365 --> 00:29:21,262
-Money can't help me.
+mani li ken ala pana e pona tawa mi.
+==Money can't help me.
 
 261
 00:29:21,976 --> 00:29:23,762
-Why? where do you live?
+tan seme? tomo sina li lon seme?
+==Why? where do you live?
 
 262
 00:29:32,313 --> 00:29:42,869
-Although i stay in Agrasen's Baoli,
+mi awen lon tomo Akasen Ki Pajoli,
+taso tenpo suno mute ni la tenpo mute la telo li kama lon anpa tan sewi.
+tan ni la tenpo la mi kepeken tomo pi lupa ala.
+==Although i stay in Agrasen's Baoli,
 However as its raining often now-a-days so
  i check in sometimes in lock up.
 
 263
 00:29:43,265 --> 00:29:45,845
-Lock up as in police lock up?
+tomo pi jan pali pi nasin lawa?
+==Lock up as in police lock up?
 
 264
 00:29:46,162 --> 00:29:49,813
-yeah in delhi they have 122. I keep going in rotation.
+a. ma tomo Teli la tomo 122 li lon. mi awen sin e nanpa.
+==yeah in delhi they have 122. I keep going in rotation.
 
 265
 00:29:49,972 --> 00:29:52,551
-..and they let you check in like a hotel?
+sina kama pona tawa ona anu seme?
+==..and they let you check in like a hotel?
 
 266
 00:29:53,781 --> 00:29:55,845
-come, i will explain.
+o kama. mi pana e sona.
+==come, i will explain.
 
 267
 00:29:59,891 --> 00:30:02,273
--Urinating here is prohibited-
+ni la jan li ken ala pana e telo jaki
+==-Urinating here is prohibited-
 
 268
 00:30:05,726 --> 00:30:06,996
-you stay here.
+sina o awen lon ni.
+==you stay here.
 
 269
 00:30:10,964 --> 00:30:13,027
-hey thulley(cop), Look!
+jan pali pi nasin lawa o lukin!
+==hey thulley(cop), Look!
 
 270
 00:30:28,858 --> 00:30:30,326
-wait, i'll show you.
+o awen lili. mi pana e lukin tawa sina.
+==wait, i'll show you.
 
 271
 00:30:41,318 --> 00:30:42,032
-jaggu.
+jan Jaku o!
+==jaggu.
 
 272
 00:30:45,882 --> 00:30:48,858
-sit back, we need to follow that car.
+o lon monsi. mi wile tawa lon monsi pi tomo tawa ni.
+==sit back, we need to follow that car.
 
 273
 00:30:48,937 --> 00:30:50,763
-but who is in the car?
+jan seme li lon tomo tawa ni?
+sona sin.
+==but who is in the car?
 Story!
 
 274
 00:31:04,730 --> 00:31:11,436
-quickly.. give me some money.
+tenpo ni la o pana e mani.
+pona. mi tawa.
+==quickly.. give me some money.
  thanks bye.
 
 275
 00:31:27,150 --> 00:31:29,174
-I need to go inside.
+mi wile tawa insa.
+==I need to go inside.
 
 276
 00:31:29,968 --> 00:31:30,761
-why?
+tan seme?
+==why?
 
 277
 00:31:31,912 --> 00:31:33,737
-I want to meet that man.
+mi wile toki tawa jan ni.
+==I want to meet that man.
 
 278
 00:31:35,999 --> 00:31:43,737
-Its not a college canteen where you can
+tawa sina la ni li tomo moku anu seme?
+ni li tomo pi lupa ala.
+==Its not a college canteen where you can
 go in and have a refreshment. its a lock up.
 
 279
 00:31:44,324 --> 00:31:47,221
-Only people who do crime can go in. understand?
+jan akesi taso li ken tawa insa. sina sona e ni anu seme?
+==Only people who do crime can go in. understand?
 
 280
 00:31:48,928 --> 00:31:52,301
-madam, bribery is a crime.
+jan o, jan li ken ala pana e mani tawa jan pali pi nasin lawa.
+==madam, bribery is a crime.
 
 281
 00:31:52,697 --> 00:31:55,713
-its a crime that's why i am.
+tan ni la mi jan akesi.
+==its a crime that's why i am.
 
 282
 00:31:55,990 --> 00:31:56,904
-i can put you in.
+mi ken lon insa e sina.
+==i can put you in.
 
 283
 00:31:57,062 --> 00:31:59,205
-please do.
+o pana e pona ni.
+==please do.
 
 284
 00:32:07,420 --> 00:32:08,729
-only one hour.
+lon awen pi tenpo lili taso.
+==only one hour.
 
 285
 00:32:09,404 --> 00:32:16,031
-hi, i want to know your story. will you tell me?
+toki! mi wile kama sona e pini sina. sina toki e ona anu seme?
+==hi, i want to know your story. will you tell me?
 
 286
 00:32:17,182 --> 00:32:18,174
-why?
+tan seme?
+==why?
 
 287
 00:32:18,444 --> 00:32:21,182
-i am a TV reporter. It's my job.
+mi pana e sona sin lon tomo pi sitelen tawa. ni li pali mi.
+==i am a TV reporter. It's my job.
 
 288
 00:32:33,920 --> 00:32:37,650
-Ask what you want to.
+sina wile sona e seme?
+==Ask what you want to.
 
 289
 00:32:43,960 --> 00:32:46,301
-So what is your name?
+nimi sina li seme?
+==So what is your name?
 
 290
 00:32:47,015 --> 00:32:51,222
-I don't have a name. but not sure why everyone call me PK.
+mi jo ale e nimi. taso mi sona ala e ni: tan seme la jan ale li kepeken nimi "Na Sa" tawa mi.
+==I don't have a name. but not sure why everyone call me PK.
 
 291
 00:32:51,698 --> 00:32:52,769
-what do you do?
+sina seme?
+==what do you do?
 
 292
 00:32:56,817 --> 00:32:58,007
-I am astronomer.
+mi jan mun.
+==I am astronomer.
 
 293
 00:33:00,658 --> 00:33:04,865
-astronaut? people who go to moon?
+jan mun? sina tawa mun anu seme?
+==astronaut? people who go to moon?
 
 294
 00:33:05,063 --> 00:33:08,396
-I have been there once. its absolutely dull place.
+tenpo wan la mi lon ni. ni la ala li kama.
+==I have been there once. its absolutely dull place.
 
 295
 00:33:09,944 --> 00:33:13,833
-ok, so what's your favorite planet?
+a, tawa sina la sike ma li pona nanpa wan?
+==ok, so what's your favorite planet?
 
 296
 00:33:14,071 --> 00:33:15,222
-Our own one.
+sike ma mi.
+==Our own one.
 
 297
 00:33:15,420 --> 00:33:17,484
-thats for sure but apart from earth?
+tawa mi la mi sona a. taso sike ma pi pona nanpa wan li sike Ma ala, la ona la seme?
+==thats for sure but apart from earth?
 
 298
 00:33:17,722 --> 00:33:21,134
-Earth is banged up. i said my own planet.
+sike ma ni li pakala. mi toki e ijo pi ma sike mi.
+==Earth is banged up. i said my own planet.
 
 299
 00:33:25,261 --> 00:33:29,349
-when its night its visible up there.
+tenpo pimeja la jan li ken lukin e ona lon sewi.
+==when its night its visible up there.
 
 300
 00:33:30,103 --> 00:33:38,158
-..we had a huge fuzz that day when
+sike ma ante li lon. ona li sama sike ma pi mi mute.
+jan sama mi mute li lon ona. mi mute li kama sona e ni, la
+jan ale li kama nasa.
+==..we had a huge fuzz that day when
 we found there is similar planet like ours exist.
 where people like us live.
 
 301
 00:33:38,389 --> 00:33:45,452
-they sent me here to do research, but
+ona mute li tawa ni e mi. kepeken ni mi ken kama sona.
+taso ike li kama. jan akesi li weka e ilo lawa pi tomo tawa mun mi.
+==they sent me here to do research, but
 shockingly somebody stole my spaceship's remote control.
 
 302
 00:33:45,769 --> 00:33:49,976
-Without it i can't send signal home.
+kepeken ona taso la mi ken toki tawa tomo.
+==Without it i can't send signal home.
 
 303
 00:33:50,134 --> 00:33:54,102
-and if i won't send signal nobody will come here to
+mi ken ala pana e toki, la jan ala li tawa ni li tawa tomo e mi.
+==and if i won't send signal nobody will come here to
 take me back.
 
 304
 00:33:54,341 --> 00:33:58,746
-They'll think its a dangerous planet and i died here.
+tawa ona la mi kama moli lon sike ma akesi ni.
+==They'll think its a dangerous planet and i died here.
 
 305
 00:34:03,349 --> 00:34:07,754
-listen, open the gate i want to go home.
+o kute, o open e lupa. mi wile tawa tomo.
+==listen, open the gate i want to go home.
 
 306
 00:34:07,991 --> 00:34:12,189
-leave that up to us.
+sina lawa ala e ni.
+==leave that up to us.
 
 307
 00:34:12,348 --> 00:34:13,618
-i am not a thief.
+mi jan akesi ala.
+==i am not a thief.
 
 308
 00:34:13,737 --> 00:34:15,562
-yes, all thief say the same thing.
+a, jan akesi ale li toki sama.
+==yes, all thief say the same thing.
 
 309
 00:34:15,760 --> 00:34:17,547
-where is pandey ji. call him.
+jan Pante Si li lon seme? o lukin toki tawa ona.
+==where is pandey ji. call him.
 
 310
 00:34:17,745 --> 00:34:18,856
-he's not here.
+ona li lon ala.
+==he's not here.
 
 311
 00:34:20,126 --> 00:34:21,237
-pandey ji.
+jan Pante Si o.
+==pandey ji.
 
 312
 00:34:22,785 --> 00:34:27,785
-pandey ji!
+jan Pante Si o!
+meli lili o kalama ala. ante la...
+==pandey ji!
 hey girl, keep quiet or else..
 
 313
 00:34:46,277 --> 00:34:48,420
-you think my story is nonsense?
+tawa sina la toki mi li nasa anu seme?
+==you think my story is nonsense?
 
 314
 00:34:49,523 --> 00:34:53,571
-yes, your planet language can't be bhojpuri.
+a, toki sina li ken ala toki Palata.
+==yes, your planet language can't be bhojpuri.
 
 315
 00:34:53,769 --> 00:34:55,475
-our ball doesn't even..
+sike ma mi li jo ala e ...
+==our ball doesn't even..
 
 316
 00:34:56,626 --> 00:35:02,301
-our ball doesn't even have any language.
+sike ma mi li jo ala e toki.
+mi mute li toki kepeken kon. toki ike li ken lon ala.
+==our ball doesn't even have any language.
 we talk with mind. no room for confusion.
 
 317
 00:35:02,420 --> 00:35:05,475
-here they say something and mean something else.
+ma sike ni la jan li toki e ijo wan li wile toki e kon pi ijo ante.
+==here they say something and mean something else.
 
 318
 00:35:05,554 --> 00:35:07,420
-one statement has four meanings.
+toki wan li ken jo e kon 4 ante.
+==one statement has four meanings.
 
 319
 00:35:08,015 --> 00:35:12,658
-shake your head like this and
+jan li tawa lili e lawa ona li toki "a", la
+ona li toki e ni: ale li pona.
+==shake your head like this and
  say its good..very good. means all is well.
 
 320
 00:35:14,087 --> 00:35:17,856
-make the eyes bigger and say "accha" it means
+jan li suli e lukin li toki "a", la
+ona li toki e ni: ona li pilin ike.
+==make the eyes bigger and say "accha" it means
 someone is in shock.
 
 321
 00:35:17,936 --> 00:35:20,991
-"your mother had an accident".
+"mama sina li kama pakala."
+"a?" - pilin ike.
+=="your mother had an accident".
 "accha"? - Shock
 
 322
 00:35:21,507 --> 00:35:27,380
-when one gets angry, voice becomes loud.
+jan li kama pilin utala, la kalama li kama suli.
+"a?" "sina wile pana e sona tawa mi anu seme?"
+==when one gets angry, voice becomes loud.
 "accha"? "you are teaching me"?
 
 323
 00:35:28,285 --> 00:35:31,539
-and once someone thinks. there is a long "accha."
+jan li kepeken lawa, la "a" li awen lon tenpo suli.
+==and once someone thinks. there is a long "accha."
 
 324
 00:35:31,856 --> 00:35:34,158
-"acchaaa"
+"aaa"
+=="acchaaa"
 
 325
 00:35:35,150 --> 00:35:44,872
-With words you need to learn the expressions as well.
+nasin toki li suli sama. ale li ike tawa lawa mi.
+mi wile awen lon tenpo pimeja wan. kepeken ni la mi kama sona e toki Palata.
+==With words you need to learn the expressions as well.
 it was so damn confusing. took me 6 hours to learn bhojpuri.
 
 326
 00:35:45,150 --> 00:35:48,721
-you mean in 6 hours you learned complete
+sina toki e ni anu seme: sina kama sona e ale pi toki Palata lon awen pi tenpo pimeja wan.
+==you mean in 6 hours you learned complete
  bhojpuri?
 
 327
 00:35:48,880 --> 00:35:54,934
-Nobody was letting me hold their hand.
+jan ale li wile e ni: mi ken luka e luka ona.
+taso tenpo ante la mi kama lukin e meli. ona li pali lon poka mi.
+==Nobody was letting me hold their hand.
 but then i found a lady who co-operated with me.
 
 328
 00:35:55,031 --> 00:35:57,848
-I hold her hand and transffered the whole language
+mi jo e luka ona. mi kama jo e ale toki.
+==I hold her hand and transffered the whole language
 to me.
 
 329
 00:35:57,966 --> 00:36:01,697
-hey you just can't stop blabbering.
+sina ken ala pini toki ike anu seme?
+o pini.
+==hey you just can't stop blabbering.
 put some limit to your lie.
 
 330
 00:36:02,403 --> 00:36:08,672
-Is your hand a USB cable that you can transfer
+luka sina li ilo linja, kepeken ona la sina ken pana e lipu sona tan ilo sona wan tawa ilo sona ante anu seme?
+==Is your hand a USB cable that you can transfer
 file like one computer to another? huh?
 
 331
 00:36:08,712 --> 00:36:12,720
-and what about your cloths? People in your planet
+seme li ijo pi len sina? sama la jan lon sike ma sina
+li jo e len noka tan tomo pali suli?
+==and what about your cloths? People in your planet
 also wear branded jeans?
 
 332
 00:36:12,958 --> 00:36:18,950
-No No..in our ball nobody wears cloths.
+ala. sike ma mi la jan ala li jo e len.
+==No No..in our ball nobody wears cloths.
 
 333
 00:36:20,577 --> 00:36:27,601
-At first when i came here i thought people here
+mi kama lon ni, la tenpo wan la tawa mi la
+jan li jo e selo ante.
+==At first when i came here i thought people here
 have different skin.
 
 334
 00:36:28,117 --> 00:36:32,918
-some have shining skin, some have black.
+selo pi jan wan li suno. selo pi jan ante li pimeja.
+==some have shining skin, some have black.
 
 335
 00:36:34,109 --> 00:36:36,830
-some colorful and some absolutely white.
+selo wan li kule. selo ante li walo.
+==some colorful and some absolutely white.
 
 336
 00:36:38,030 --> 00:36:41,879
-some skin were tacky, some loose.
+selo wan li lipu. selo ante li nena.
+==some skin were tacky, some loose.
 
 337
 00:36:44,101 --> 00:36:48,704
-then one day i found a car..dancing car.
+tenpo suno wan la mi kama lukin e tomo tawa... pi tawa musi.
+==then one day i found a car..dancing car.
 
 338
 00:36:54,776 --> 00:36:59,736
-That day i realized people here have similar skin like us.
+tenpo suno ni la mi kama sona e ni: jan li jo e selo sama mi.
+==That day i realized people here have similar skin like us.
 
 339
 00:37:00,649 --> 00:37:06,808
-They just put some objects known as fashion
+taso ona li lon sijelo e ijo pi nimi "nasin len".
+==They just put some objects known as fashion
  around their body.
 
 340
 00:37:13,546 --> 00:37:16,832
-Now i could also meet with people
+tenpo ni la sama la mi ken kama lon jan
+pi sike ma sina.
+==Now i could also meet with people
  from your planet ball.
 
 341
 00:37:17,189 --> 00:37:20,800
-but not sure why everyone was laughing at me.
+taso mi sona ala e ni: tan seme la jan ale li a musi tawa mi.
+==but not sure why everyone was laughing at me.
 
 342
 00:37:26,276 --> 00:37:31,475
-took a little time to understand that male and female
+mi wile e tenpo lili, kepeken ona mi kama sona e ni:
+meli en mije li jo e nasin len ante.
+==took a little time to understand that male and female
  had separate fashion.
 
 343
 00:37:31,712 --> 00:37:34,847
-Morning and night fashion was different.
+kama pi tenpo suno en tenpo pimeja li jo e nasin len ante.
+==Morning and night fashion was different.
 
 344
 00:37:35,205 --> 00:37:38,856
-Playing sports and having toast fashion was different.
+jan wan li tawa li pona e sijelo ona, la ona li jo e nasin len wan.
+jan ante li moku e telo nasa, la ona li jo e nasin len ante.
+==Playing sports and having toast fashion was different.
 
 345
 00:37:41,276 --> 00:37:45,562
-With cloths i also found a picture.
+poka len la mi kama lukin e sitelen.
+==With cloths i also found a picture.
 
 346
 00:37:57,608 --> 00:38:03,163
-I slowly realized that this photo is very important
+tenpo suli taso la mi kama sona e ni: sitelen ni li suli mute.
+kepeken ona la mi ken lon weka tan moli lon sike ma ni.
+==I slowly realized that this photo is very important
 in order to survive on this ball.
 
 347
 00:38:03,640 --> 00:38:11,546
-In exchange to this photo, food to eat can be earned.
+esun pi sitelen ni la jan li ken kama jo e moku.
+tan ni la mi alasa e sitelen pi jan suli ni.
+==In exchange to this photo, food to eat can be earned.
 hence i started collecting photos of this famous personality.
 
 348
 00:38:25,901 --> 00:38:27,013
-what?
+seme?
+==what?
 
 349
 00:38:32,013 --> 00:38:34,394
-why you giving me this?
+tan seme la sina pana e ni tawa mi?
+==why you giving me this?
 
 350
 00:38:36,179 --> 00:38:39,036
-why you giving junk in my shop?
+tan seme la sina pana e jaki lon esun mi?
+==why you giving junk in my shop?
 
 351
 00:38:42,322 --> 00:38:47,362
-aha, give me that. there you go, carrots.
+a, o pana e ni. ni li tawa sina. kili palisa.
+==aha, give me that. there you go, carrots.
 
 352
 00:38:47,600 --> 00:38:52,164
-then i got this feeling that the value of this photo
+mi kama jo e pilin ni: lipu pi nasin wan taso la
+sitelen ni li jo e suli.
+==then i got this feeling that the value of this photo
 is only on one kind of paper.
 
 353
 00:38:52,521 --> 00:38:56,569
-on other papers the value is zero.
+lipu ante la suli ona li ala.
+==on other papers the value is zero.
 
 354
 00:38:58,473 --> 00:39:06,677
-then gradually i managed to get cloths from dancing car.
+mi kama jo e len ante tan tomo tawa pi tawa musi.
+==then gradually i managed to get cloths from dancing car.
 
 355
 00:39:07,124 --> 00:39:13,655
-once i found such a wonderful attire that i
+tenpo wan la mi kama lukin e len pi pona ni:
+mi wile ala e mani, kepeken ona mi kama jo e moku.
+==once i found such a wonderful attire that i
 didn't even need the paper with photo to get food.
 
 356
 00:39:13,870 --> 00:39:17,124
-food came flying to me irresistibly.
+tan ona sama la moku li tawa mi.
+==food came flying to me irresistibly.
 
 357
 00:39:19,504 --> 00:39:23,830
-Now inorder to get my remote back i needed to learn
+mi wile kama jo e toki pi sike ma ni,
+kepeken ni la mi ken kama jo sin e ilo lawa mi.
+==Now inorder to get my remote back i needed to learn
  this ball's language.
 
 358
 00:39:23,980 --> 00:39:27,036
-without language nothing was possible here.
+ni la kepeken toki taso la ijo li ken kama.
+==without language nothing was possible here.
 
 359
 00:39:27,353 --> 00:39:32,988
-for example telling this gentleman that i think
+ijo pi kon sama la mi ken ala toki tawa mije ni e ni:
+tawa mi la nasin len ona li pakala.
+==for example telling this gentleman that i think
  his fashion may have some defect.
 
 360
 00:39:39,496 --> 00:39:42,512
-I felt i messed up his fashion.
+mi pilin e ni: mi pakala e nasin len ona.
+==I felt i messed up his fashion.
 
 361
 00:39:44,298 --> 00:39:46,401
-that's why i recorrected.
+tan ni la mi pona sin e ona.
+==that's why i recorrected.
 
 362
 00:40:17,684 --> 00:40:22,089
-I found him on road, some jerk hit and ran.
+mi kama lukin e ona lon nasin. jan jaki li pakala e ona li tawa weka.
+==I found him on road, some jerk hit and ran.
 
 363
 00:40:22,883 --> 00:40:28,517
-seems alright but he doesn't response.
+tawa mi la ona li pona, taso ona li toki sin ala.
+==seems alright but he doesn't response.
 
 364
 00:40:29,033 --> 00:40:31,890
-perhaps he's gone deaf?
+ken la kute ona li kama pakala?
+==perhaps he's gone deaf?
 
 365
 00:40:32,049 --> 00:40:36,573
-hey deaf!
+jan pi kute pakala o!
+ona li kute, taso ona li toki sin ala.
+==hey deaf!
 he does hear but not answering.
 
 366
 00:40:38,597 --> 00:40:44,500
-i think he had a shock, and now memory loss.
+tawa mi la ona li awen jo e pilin ike. sin la sona ona li kama weka.
+==i think he had a shock, and now memory loss.
 
 367
 00:40:55,431 --> 00:40:58,765
-do you remember who hit you?
+sina awen sona e jan, ona li pakala e sina?
+==do you remember who hit you?
 
 368
 00:40:59,677 --> 00:41:05,153
-do you remember the vehicle's number or
+sina awen sona e lipu nimi pi tomo tawa
+anu seme wan?
+==do you remember the vehicle's number or
 anything at all?
 
 369
 00:41:34,238 --> 00:41:39,667
-come with me.
+o tawa lon poka mi.
+==come with me.
 
 370
 00:41:39,833 --> 00:41:44,471
-you are my guest until your memory comes back.
+sina kama pona lon mi lon awen pi weka pi sona sina.
+==you are my guest until your memory comes back.
 
 371
 00:41:45,151 --> 00:41:54,342
-keep banging your head, if a hit can take memory away
+o awen pakala e lawa sina. pakala li ken weka e sona, la
+sama la pakala li ken lon sin e ona.
+==keep banging your head, if a hit can take memory away
  it can return the same way too.
 
 372
 00:41:54,515 --> 00:41:55,626
-I saw it in films.
+mi lukin e ni lon sitelen tawa.
+==I saw it in films.
 
 373
 00:41:55,786 --> 00:42:02,807
-In order to understand what he was saying i needed
+kepeken ni la mi ken kama sona e kon pi toki ona:
+mi wile luka e luka ona, mi wile kama jo e toki.
+==In order to understand what he was saying i needed
 to grab his hand and transfer the language.
 
 374
 00:42:04,269 --> 00:42:11,183
-woah! Memory lost and you forgot the difference between
+a! sona sina li kama weka. mije en meli li ante.
+sona ni sin li weka anu seme?
+==woah! Memory lost and you forgot the difference between
 male and female?
 
 375
 00:42:11,443 --> 00:42:21,720
-one second, have a look at my license.
+o awen lili. o lukin e lipu tawa mi.
+mije anu meli - mije, MIJE, MI-JE...
+==one second, have a look at my license.
 sex - male, man, mister, jerk, bastard..
 
 376
 00:42:22,396 --> 00:42:27,496
-inorder to go back home, holding someone's hand
+kepeken ni mi ken tawa tomo: mi wile luka
+e luka jan. ni li suli nanpa wan.
+==inorder to go back home, holding someone's hand
  was a priority now.
 
 377
 00:42:43,586 --> 00:42:47,090
-here comes our jaunty guest.
+jan mi pi kama pona, pi pilin pona li kama.
+==here comes our jaunty guest.
 
 378
 00:42:50,863 --> 00:42:54,070
-who doesn't differentiate male or female.
+ona li lukin ala e ante pi mije anu meli.
+==who doesn't differentiate male or female.
 
 379
 00:43:10,784 --> 00:43:27,966
+==tawa meli lili pi kama pona la unpa li pona.
 licentious boy visited us as a guest.
 
 380
 00:46:36,142 --> 00:46:41,063
-i can understand your pain, but don't hold anyone's
+mi ken pilin e pilin ike sina, taso o luka ala
+e luka pi jan ante lon lukin pi jan ale.
+==i can understand your pain, but don't hold anyone's
 hand here in public.
 
 381
 00:46:41,459 --> 00:46:47,357
-I know sometimes luck can favor,
+mi sona e ni: tenpo la pona li kama,
+taso sina ken kama pakala.
+==I know sometimes luck can favor,
 but your life could get in danger.
 
 382
 00:46:49,673 --> 00:46:54,792
-don't be sad, ok come with me.
+o pilin ike ala. pona. o tawa lon poka mi.
+==don't be sad, ok come with me.
 
 383
 00:47:05,269 --> 00:47:11,671
-here you can hold anybody's hand or leg,
+ni la sina ken luka e luka anu noka pi jan ante.
+jan ala li utala e sina.
+==here you can hold anybody's hand or leg,
 nobody is going to assault you.
 
 384
 00:47:12,601 --> 00:47:17,563
-This place was a paradise, everyone was very beautiful
+ni li tomo pi pona mute. jan ale li pona lukin li pona...
+==This place was a paradise, everyone was very beautiful
 and friendly..
 
 385
 00:47:17,761 --> 00:47:26,174
-everybody wanted to hold my hand and take me to their home.
+jan ale li wile luka e luka mi li tawa tomo ona e mi.
+tenpo ni la mi kama lon meli pona pi kiwen ala mute.
+nimi ona li Pusalija.
+==everybody wanted to hold my hand and take me to their home.
 then i met a very gentle and calm minded lady
  named phuljhariya.
 
 386
 00:47:26,610 --> 00:47:30,658
-phuljhariya, take him to the honeymoon suite.
+jan Pusalija o tawa tomo pi kulupu unpa e ona.
+==phuljhariya, take him to the honeymoon suite.
 
 387
 00:48:19,599 --> 00:48:26,426
-she showed tremendous patience, and I
+ona li wile pana e tenpo ona. awen pi
+tenpo pimeja la mi tan e sona toki.
+==she showed tremendous patience, and I
 till 6 hours kept transffering the language.
 
 388
 00:48:26,544 --> 00:48:32,511
-1, 2, 3, XYZ everything inside her i pulled everything.
+wan, tu, mute, a, e, o. mi tan insa ona e ale.
+==1, 2, 3, XYZ everything inside her i pulled everything.
 
 389
 00:48:42,065 --> 00:48:43,930
-first time?
+tenpo nanpa wan anu seme?
+==first time?
 
 390
 00:48:44,922 --> 00:48:48,850
-your bulb fused before even started. eh?
+ilo sina li kama pakala lon kama pali anu seme?
+==your bulb fused before even started. eh?
 
 391
 00:48:53,096 --> 00:48:54,287
-yea..
+a...
+==yea..
 
 392
 00:48:57,440 --> 00:48:59,168
-where do you live?
+tomo sina li lon seme?
+==where do you live?
 
 393
 00:49:01,271 --> 00:49:04,623
-I came from far away miss.
+mi tan weka, meli o.
+==I came from far away miss.
 
 394
 00:49:04,922 --> 00:49:08,136
-you might not have even heard about
+ken la sina sona ala e tomo mi.
+==you might not have even heard about
 my village.
 
 395
 00:49:08,295 --> 00:49:10,557
-your language is just like mine though.
+taso toki sina li sama toki mi.
+==your language is just like mine though.
 
 396
 00:49:11,111 --> 00:49:16,231
-i learned from you sister that's why.
+mi kama sona tan meli sama sina. tan ni.
+==i learned from you sister that's why.
 
 397
 00:49:16,778 --> 00:49:19,754
-hey.. sister? mind your language.
+o, meli sama? o toki pona!
+==hey.. sister? mind your language.
 
 398
 00:49:19,992 --> 00:49:20,786
-get lost!
+o kama weka!
+==get lost!
 
 399
 00:49:24,278 --> 00:49:30,079
+jan sama o! jan sama o pini lape!
 brother! wake up brother!
 
 400
 00:49:31,341 --> 00:49:33,439
-you started talking!
+sina kama toki a!
+==you started talking!
 
 401
 00:49:33,603 --> 00:49:35,905
-I need your help brother.
+o pana e pona tawa mi, jan sama o.
+==I need your help brother.
 
 402
 00:49:35,984 --> 00:49:38,167
-what magic phuljhariya did on you?
+jan Pusalija li pali e wawa sewi seme tawa sina?
+==what magic phuljhariya did on you?
 
 403
 00:49:38,405 --> 00:49:40,222
-come with me quickly
+o tawa wawa lon poka mi.
+==come with me quickly
 
 404
 00:49:40,348 --> 00:49:43,325
-Apparently there is a direct connection
+lukin la sona li lon poka unpa.
+==Apparently there is a direct connection
 between memory and sex.
 
 405
 00:49:43,444 --> 00:49:48,722
-We have to tell this to the doctor.
+mi wile toki e ni tawa jan sona pi pona sijelo.
+kepeken ilo ni pi pilin pona la jan li ken pona e sijelo.
+==We have to tell this to the doctor.
 The most delighted operation of pleasure.
 
 406
 00:49:48,841 --> 00:49:52,809
-There is a very important thing.. please
+ijo li suli mute. o pana e pona
+o tawa lon poka mi. tenpo li lili.
+==There is a very important thing.. please
 come with me. hurry up.
 
 407
 00:49:58,662 --> 00:50:00,646
-stop..stop!
+o awen... o awen!
+==stop..stop!
 
 408
 00:50:04,456 --> 00:50:09,683
-brother, that culprit snatched my necklace chain
+jan sama o, jan akesi ni li weka e len linja mi
+lon ni a.
+==brother, that culprit snatched my necklace chain
 right at this spot.
 
 409
 00:50:10,050 --> 00:50:12,948
-I need that chain brother.
+mi wile e len linja ni, jan sama o.
+==I need that chain brother.
 
 410
 00:50:13,027 --> 00:50:14,178
-Is it expensive?
+ona li ijo pi mani suli anu seme?
+==Is it expensive?
 
 411
 00:50:14,297 --> 00:50:15,869
-Very expensive.
+mani pi suli mute.
+==Very expensive.
 
 412
 00:50:16,003 --> 00:50:25,210
-its highly possible that thief is from our village.
+taso jan akesi li tan ma tomo mi, la
+ona li wile weka tan jan pali pi nasin lawa.
+li lukin lon esun e ilo lawa lon ma tomo Teli.
+==its highly possible that thief is from our village.
 but as anyone can get caught easily here he
 must have tried to sell it in delhi
 
 413
 00:50:25,527 --> 00:50:28,156
-So i have to go brother.
+tan ni la mi wile tawa.
+==So i have to go brother.
 
 414
 00:50:28,226 --> 00:50:28,900
-where?
+tawa seme?
+==where?
 
 415
 00:50:30,249 --> 00:50:31,480
-Delhi.
+ma tomo Teli.
+==Delhi.
 
 416
 00:50:56,242 --> 00:51:00,012
-Mister.
+mije o.
+a?
+jan akesi li weka e ilo lawa mi.
+==Mister.
 yes?
 My remote control has been stolen.
 
 417
 00:51:00,172 --> 00:51:04,497
-Are you PK (drunk)?
+sina jan nasa anu seme?
+ilo lawa pi ilo pi sitelen tawa li suli ala
+tawa jan pali pi nasin lawa.
+==Are you PK (drunk)?
 Police have no other work to do then
 finding people's tv remote?
 
 418
 00:51:04,616 --> 00:51:05,767
-It wasn't tv remote.
+ni li ilo lawa pi ilo pi sitelen tawa ala.
+==It wasn't tv remote.
 
 419
 00:51:05,926 --> 00:51:06,719
-then?
+taso?
+==then?
 
 420
 00:51:08,267 --> 00:51:13,027
-that i can't tell. but it was a very
+mi ken toki ala. taso ona li len linja
+pi mani mute.
+==that i can't tell. but it was a very
 expensive necklace.
 
 421
 00:51:13,386 --> 00:51:14,815
-Where it was stolen?
+jan akesi li weka e ona lon seme?
+==Where it was stolen?
 
 422
 00:51:15,093 --> 00:51:16,918
-in mandava. Rajasthan.
+ma tomo Mantawa. ma Rasatan.
+==in mandava. Rajasthan.
 
 423
 00:51:17,156 --> 00:51:21,045
-Idiot ! It was stolen in mandava and you are
+jan nasa o! ona li kama weka lon ma tomo Mantawa,
+taso sina wile kama lukin e ona lon ma tomo Teli?
+==Idiot ! It was stolen in mandava and you are
 finding it in delhi?
 
 424
 00:51:21,719 --> 00:51:23,934
-yes but that theif came to delhi.
+a, taso jan akesi li tawa ma tomo Teli.
+==yes but that theif came to delhi.
 
 425
 00:51:24,053 --> 00:51:24,450
-so?
+tan ni la seme?
+==so?
 
 426
 00:51:24,648 --> 00:51:25,719
-he'll be found here.
+jan li ken kama lukin e ona lon ni.
+==he'll be found here.
 
 427
 00:51:25,831 --> 00:51:31,466
-chucklehead! the population of this city is 1.5 crore.
+jan nasa o! mute jan pi ma tomo ni li 15.000.000.
+jan pali pi nasin lawa li jan taso li jan lawa sewi ala.
+==chucklehead! the population of this city is 1.5 crore.
 Police is also human not God.
 
 428
 00:51:35,275 --> 00:51:38,051
-Now only God can help you.
+jan lawa sewi taso li ken pana e pona tawa sina.
+==Now only God can help you.
 
 429
 00:51:39,877 --> 00:51:43,549
-Praise the God only he can show you
+o toki pona e ijo pi jan lawa sewi.
+ona taso li ken pana e lukin pi nasin pona.
+==Praise the God only he can show you
  the right way.
 
 430
 00:51:45,593 --> 00:51:48,735
-Only God knows where to find it.
+jan lawa sewi taso li sona e lon ona.
+==Only God knows where to find it.
 
 431
 00:51:50,196 --> 00:51:52,856
-Only God would know..Now get lost.
+jan lawa sewi li sona... o kama weka.
+==Only God would know..Now get lost.
 
 432
 00:51:54,878 --> 00:51:58,581
-Have faith in God son.
+o awen pilin e pona pi jan lawa sewi, jan lili o.
+==Have faith in God son.
 
 433
 00:51:58,966 --> 00:52:04,193
-Who is this God who can help me.
+jan lawa sewi ni li jan seme? ona li ken pana e pona tawa mi.
+jan ale li awen toki e nimi ona.
+==Who is this God who can help me.
 everyone is blabbering its name.
 
 434
 00:52:04,514 --> 00:52:12,252
-What is saw blew my mind.
+ni li sona sin wawa tawa mi.
+jan pi sike ma ni li sona e jan ni, ona li pali e sike ma ona.
+==What is saw blew my mind.
 The people of this ball knew who manufactured there planet.
 
 435
 00:52:12,409 --> 00:52:17,330
-Infact he(God) was living with them only.
+a, jan lawa sewi ni li lon tomo lon poka ona.
+nasin ale la ona li jo e tomo.
+==Infact he(God) was living with them only.
 In every street he had his house.
 
 436
 00:52:17,528 --> 00:52:23,878
-Million of people go to his house with small
+jan pi mute suli li tawa tomo ona li pana e mani lili.
+jan lawa sewi li weka e pilin ike ona ale.
+==Million of people go to his house with small
 fee and he takes away all their trouble.
 
 437
 00:52:23,998 --> 00:52:27,133
-Such magic and miracle is not in my planet.
+sike ma mi la wawa sewi ni li lon ala.
+==Such magic and miracle is not in my planet.
 
 438
 00:52:27,688 --> 00:52:32,172
-I couldn't believe. I thought of giving
+tawa mi la ni li nasa. mi pilin e ni:
+mi o lukin.
+==I couldn't believe. I thought of giving
 it a try.
 
 439
 00:52:34,672 --> 00:52:36,339
-Could you give me a god?
+sina ken pana e jan lawa sewi tawa mi anu seme?
+==Could you give me a god?
 
 440
 00:52:36,498 --> 00:52:40,506
-Which one? 20 one? 50 one? 100 one or 500 rupee one?
+jan lawa sewi seme? ni pi Lupi 20 anu Lupi 50 anu Lupi 100 anu Lupi 500?
+==Which one? 20 one? 50 one? 100 one or 500 rupee one?
 
 441
 00:52:40,538 --> 00:52:43,871
-what is the difference in 20 one and 500 rupee one?
+seme li ante pi Lupi 20 anu Lupi 500?
+==what is the difference in 20 one and 500 rupee one?
 
 442
 00:52:44,069 --> 00:52:46,600
-Only size difference. rest is same.
+suli taso li ante. ale ante li sama.
+==Only size difference. rest is same.
 
 443
 00:52:46,687 --> 00:52:50,134
-So the 20 rupee one works just fine as well. right?
+ni la ni pi Lupi 20 li pona sama anu seme?
+==So the 20 rupee one works just fine as well. right?
 
 444
 00:52:50,776 --> 00:52:54,268
-here, give 15 rupees. just take and go.
+o jo e ni. o pana e Lupi 15. o jo o tawa.
+==here, give 15 rupees. just take and go.
 
 445
 00:53:07,204 --> 00:53:11,559
-God i am starving.
+jan lawa sewi o, mi wile moku.
+o pana e moku tawa mi.
+==God i am starving.
 Let me get something to eat.
 
 446
 00:53:23,104 --> 00:53:27,975
-I went totally nut. this God seemed to be
+mi kama nasa. jan lawa sewi ni li ilo.
+==I went totally nut. this God seemed to be
 working.
 
 447
 00:53:28,103 --> 00:53:30,088
-Now i could go back my home.
+tenpo ni la mi ken tawa tomo.
+==Now i could go back my home.
 
 448
 00:53:30,285 --> 00:53:36,189
-God my remote control is stolen.
+jan lawa sewi o, ilo lawa mi li kama weka tan jan akesi.
+o pana e ona tawa mi. mi wile tawa tomo.
+==God my remote control is stolen.
 Could you get that to me. i want to go home.
 
 449
 00:53:49,293 --> 00:53:54,412
-This God's battery went down or what?
+poki wawa pi jan lawa sewi ni li kama lupa anu seme?
+ona li ilo lon awen tenpo, taso tenpo ni la ona li pona ala.
+==This God's battery went down or what?
 It worked for a while and then choked.
 
 450
 00:53:54,532 --> 00:53:55,286
-What do you mean?
+sina wile toki e seme?
+==What do you mean?
 
 451
 00:53:55,365 --> 00:53:57,270
-I mean put in a new battery.
+mi toki e ni: o sin e poki wawa.
+==I mean put in a new battery.
 
 452
 00:53:57,508 --> 00:53:59,532
-Hey it doesn't work with battery.
+o, ona li kepeken poki wawa ala.
+==Hey it doesn't work with battery.
 
 453
 00:53:59,651 --> 00:54:02,580
-Then why it doesn't work.
+ni la tan seme la ona li ilo ala?
+ona li pakala tan tomo pali anu seme?
+==Then why it doesn't work.
 it's a Manufacturing defect?
 
 454
 00:54:02,738 --> 00:54:04,564
-We don't make defecting  piece.
+mi pali ala e ijo pakala.
+==We don't make defecting  piece.
 
 455
 00:54:05,992 --> 00:54:07,421
-you made this god?
+sina pali e jan lawa sewi ni anu seme?
+==you made this god?
 
 456
 00:54:07,738 --> 00:54:10,397
-Yes. With my own hands.
+a. kepeken luka pi mi sama.
+==Yes. With my own hands.
 
 457
 00:54:11,349 --> 00:54:14,127
-you made God or God made you?
+sina pali e jan lawa sewi anu jan lawa sewi li pali e sina?
+==you made God or God made you?
 
 458
 00:54:14,524 --> 00:54:19,591
-God has made us all. We have just made
+jan lawa sewi li pali e mi mute ale.
+taso mi pali e sitelen ona.
+==God has made us all. We have just made
 their sculpture.
 
 459
 00:54:19,802 --> 00:54:21,746
-Why do you make their sculpture?
+tan seme la sina pali e sitelen ona?
+==Why do you make their sculpture?
 
 460
 00:54:21,865 --> 00:54:25,651
-So that we can pray and
+kepeken ni la mi ken lukin toki tawa ona
+e ijo pi pilin ike mi.
+==So that we can pray and
 could talk to them about troubles.
 
 461
 00:54:26,111 --> 00:54:30,685
-Does it have some sort of transmitter.
+sitelen ni li jo e ilo toki anu seme?
+kepeken seme la toki li tawa ona?
+==Does it have some sort of transmitter.
 How the messages reach to him?
 
 462
 00:54:30,992 --> 00:54:35,913
-God doesn't need a transmitter. He
+jan lawa sewi li wile ala e ilo toki.
+ona li kute e mi mute ale kepeken ala.
+==God doesn't need a transmitter. He
 hear us all directly.
 
 463
 00:54:36,191 --> 00:54:39,461
-If he hear directly then what is the need
+ona li kute kepeken ala, la tan seme la
+jan li wile e sitelen ni?
+==If he hear directly then what is the need
 of these sculptures?
 
 464
 00:54:39,603 --> 00:54:41,508
-Oh man what to do with him?
+o, nasin seme la jan li ken pana e pona tawa jan ni?
+==Oh man what to do with him?
 
 465
 00:54:42,611 --> 00:54:45,040
-you want to close my shop?
+sina wile weka e esun mi?
+==you want to close my shop?
 
 466
 00:54:45,665 --> 00:54:47,413
-What is your problem anyway?
+sina pilin ike tan seme a?
+==What is your problem anyway?
 
 467
 00:54:47,532 --> 00:54:53,047
-My remote control is stolen i am asking God
+jan akesi li weka e ilo lawa mi. mi wile kute tan jan lawa sewi,
+taso ona li toki sin ala tawa mi.
+==My remote control is stolen i am asking God
 but he is not telling me anything.
 
 468
 00:54:53,166 --> 00:54:54,595
-dude. you (PK) drunk?
+jan o, sina jan nasa anu seme?
+==dude. you (PK) drunk?
 
 469
 00:54:54,674 --> 00:54:56,103
-what you mean?
+sina wile toki e seme?
+==what you mean?
 
 470
 00:54:56,301 --> 00:55:02,413
-hey how much overload you'll give to this little god?
+o, sina pana e pali pi mute ike tawa jan lawa sewi lili ni.
+ona li ken ala tawa wawa lon monsi pi jan akesi
+kepeken noka lili ni.
+==hey how much overload you'll give to this little god?
 How he is going to run and chase the theif with
 such little feet?
 
 471
 00:55:02,611 --> 00:55:08,286
-Get inside the temple there is a bigger God.
+o kama lon insa pi tomo pi nasin sewi. ni la jan lawa sewi suli li lon.
+ona li tawa wawa li pali tawa sina lon tenpo lili.
+==Get inside the temple there is a bigger God.
 He'll run faster and do your job quickly.
 
 472
 00:55:08,405 --> 00:55:12,984
-Give this coconut and some money and he'll do the job.
+o pana e kili ni e mani. ona li pali.
+ni la o pana e Lupi 200 tawa mi.
+==Give this coconut and some money and he'll do the job.
 now give me 200 rupees.
 
 473
 00:55:18,603 --> 00:55:22,722
-Everyone was waiting with a coconut and money
+jan ale li awen li jo e kili e mani,
+kepeken ni la jan li pali tawa ona.
+==Everyone was waiting with a coconut and money
 inorder to get their work done.
 
 474
 00:55:22,841 --> 00:55:25,976
+==pini pi tenpo suli la mi kama nanpa wan.
 After 2 hours my turn came.
 
 475
 00:55:26,174 --> 00:55:31,889
-God..God please get me my remote.
+jan lawa sewi o pana e ilo lawa mi tawa mi.
+==God..God please get me my remote.
 
 476
 00:55:34,905 --> 00:55:36,095
-where is it?
+ona li lon seme?
+==where is it?
 
 477
 00:55:36,373 --> 00:55:37,603
-come on. Move.
+o tawa. o tawa.
+==come on. Move.
 
 478
 00:55:37,762 --> 00:55:40,024
-but i didn't get what i wanted.
+taso mi wile e ijo, mi kama ala jo e ona.
+==but i didn't get what i wanted.
 
 479
 00:55:40,182 --> 00:55:44,389
-Hey mister. He is not doing my work,
+mije o. ona li pali ala tawa mi,
+mi pana e mani a.
+==Hey mister. He is not doing my work,
 I even deposited the fee.
 
 480
 00:55:44,428 --> 00:55:45,222
-Will be done.
+pali li kama.
+==Will be done.
 
 481
 00:55:45,222 --> 00:55:45,778
-When?
+lon tenpo seme?
+==When?
 
 482
 00:55:45,936 --> 00:55:48,793
-How can i tell you that.
+kepeken seme la mi ken toki e ni tawa sina?
+pali li kama. o awen.
+==How can i tell you that.
 It will be done. have patience.
 
 483
 00:55:48,913 --> 00:55:50,024
-Give me the way. Move.
+o pana e nasin. o tawa.
+==Give me the way. Move.
 
 484
 00:55:50,102 --> 00:55:52,008
-But when will i get my thing?
+taso tenpo seme la mi kama jo e ijo mi?
+==But when will i get my thing?
 
 485
 00:55:52,047 --> 00:55:53,873
-Don't block the line. Move futher.
+o sinpin ala lon nasin. o awen tawa.
+==Don't block the line. Move futher.
 
 486
 00:55:54,032 --> 00:55:56,770
-But what if God will give my stuff
+taso jan lawa sewi li pana e ijo mi
+tawa jan ante, la seme?
+==But what if God will give my stuff
 to someone else?
 
 487
 00:55:56,492 --> 00:55:57,485
-you pk (drunk)?
+sina jan nasa anu seme?
+==you pk (drunk)?
 
 488
 00:55:57,523 --> 00:56:00,659
-madam, just hang on. what are you doing?
+meli o awen. sina pali e seme?
+taso seme la mi kama jo e ijo mi?
+==madam, just hang on. what are you doing?
 but where will i get my stuff?
 
 489
 00:56:00,611 --> 00:56:02,000
-In mental hospital.
+lon tomo pi pona lawa
+==In mental hospital.
 
 490
 00:56:02,119 --> 00:56:06,206
-How is that possible. I gave the cash here
+kepeken seme la ni li ken? mi pana e mani lon ni,
+jan li pana e ijo lon tomo pi pona lawa anu seme?
+==How is that possible. I gave the cash here
 and delivery in mental hospital?
 
 491
 00:56:06,285 --> 00:56:07,674
-Get him out of here.
+o tan insa e ona.
+==Get him out of here.
 
 492
 00:56:07,673 --> 00:56:09,301
-Atleast give me the receipt.
+ni la o pana e lipu taso tawa mi.
+==Atleast give me the receipt.
 
 493
 00:56:09,777 --> 00:56:13,822
-give me the receipt.
+o pana e lipu tawa mi.
+kepeken ona taso mi ken pana e lukin pi ijo ni:
+mi ken kama jo e ijo mi.
+==give me the receipt.
 If someone will ask at Mental hospital
 what will i show as a proof?
 
 494
 00:56:13,944 --> 00:56:17,343
-Get off.
+o tawa weka.
+taso ilo lawa mi?
+==Get off.
 -but my remote?
 
 495
 00:56:25,649 --> 00:56:28,705
-I can't find my chappal (mule)
+mi ken ala kama lukin e len noka mi.
+==I can't find my chappal (mule)
 
 496
 00:56:29,182 --> 00:56:35,095
-Someone might have taken it.
+ken la jan ante li weka e ona.
+o jo e len noka pi jan ante.
+tomo pi nasin sewi la tan en tawa ni li lon tenpo mute.
+==Someone might have taken it.
 you take someone else's.
 In temples such rotation is common.
 
 497
 00:56:48,883 --> 00:56:53,210
-They took the payment but
+ona li kama jo e mani, taso
+ona li pali ala tawa mi.
+==They took the payment but
 didn't do my job.
 
 498
 00:56:57,137 --> 00:56:58,169
-his name?
+nimi ona?
+==his name?
 
 499
 00:56:58,764 --> 00:56:59,518
-Bhagwan (God)
+Lawa Sewi.
+==Bhagwan (God)
 
 500
 00:56:59,637 --> 00:57:00,590
-Full name?
+ale nimi?
+==Full name?
 
 501
 00:57:01,145 --> 00:57:03,090
-i don't know the full name.
+mi sona ala e ale nimi.
+==i don't know the full name.
 
 502
 00:57:04,161 --> 00:57:05,550
-where does he live?
+tomo ona li lon seme?
+==where does he live?
 
 503
 00:57:06,344 --> 00:57:07,931
-In the near by temple.
+lon poka pi tomo pi nasin sewi.
+==In the near by temple.
 
 504
 00:57:08,407 --> 00:57:10,391
-you gave money in his hands?
+sina pana e mani tawa luka ona anu seme?
+==you gave money in his hands?
 
 505
 00:57:10,747 --> 00:57:12,098
-No. I put in his box.
+ala. mi pana tawa poki ona.
+==No. I put in his box.
 
 506
 00:57:12,336 --> 00:57:13,923
-Did he say he is going to do your job?
+ona li toki e ni: ona li pali tawa sina?
+==Did he say he is going to do your job?
 
 507
 00:57:14,001 --> 00:57:15,113
-That's the problem.
+ike li ni:
+ona li toki ala.
+==That's the problem.
 He doesn't talk.
 
 508
 00:57:15,192 --> 00:57:16,939
-why? is he dumb?
+tan seme? ona li ken ala toki anu seme?
+==why? is he dumb?
 
 509
 00:57:17,255 --> 00:57:19,921
-Maybe he is.
+ken la a.
+==Maybe he is.
 
 510
 00:57:21,978 --> 00:57:23,645
-Tell me his appearance.
+ona li seme lukin?
+==Tell me his appearance.
 
 511
 00:57:26,899 --> 00:57:28,645
-exactly like this.
+sama ni.
+==exactly like this.
 
 512
 00:57:30,913 --> 00:57:33,373
-Only bigger in size.
+taso ona li suli sin.
+==Only bigger in size.
 
 513
 00:57:34,723 --> 00:57:37,311
-come here.
+o tawa ni.
+==come here.
 
 514
 00:57:37,897 --> 00:57:39,723
-Are you PK (drunk)?
+sina jan nasa anu seme?
+==Are you PK (drunk)?
 
 515
 00:57:39,842 --> 00:57:42,778
-Yes. but how does everyone know?
+a. taso tan seme la jan ale li sona?
+==Yes. but how does everyone know?
 
 516
 00:57:42,858 --> 00:57:44,246
-Are we all stupid?
+mi mute ale li ken lukin ala anu seme?
+==Are we all stupid?
 
 517
 00:57:44,762 --> 00:57:50,239
-I am working 20 years as a police.
+sike suno 20 la mi jan pali pi nasin lawa.
+mi wile e tenpo lili taso, kepeken ona mi kama sona e ni: jan li nasa anu seme.
+==I am working 20 years as a police.
 takes me a second to know whoever is drunk.
 
 518
 00:57:50,556 --> 00:57:54,140
-Kripal singh.
+jan Kipa Sin o.
+o lukin lon ona.
+==Kripal singh.
 Search him.
 
 519
 00:57:54,921 --> 00:58:01,112
-See what's in it.
+o lukin e insa ona.
+"jan sona Temelo."
+==See what's in it.
 -Dr. Demello.
 
 520
 00:58:01,350 --> 00:58:06,063
+jan sona o, tan seme la sina moku e telo nasa pi mute ni:
+sina pini sona e nasin sewi sina?
+==
 Doctor, Why do you drink so much
 that you even forget your religion?
 
 521
 00:58:06,310 --> 00:58:10,731
-Instead of church you went inside
+sina tawa insa pi tomo pi nasin sewi ike.
+sina wile e ni, jan li utala, anu seme?
+==Instead of church you went inside
 temple? do you want a riot?
 
 522
 00:58:10,992 --> 00:58:15,270
-you should go to your church,
+sina o tawa tomo pi nasin sewi sina,
+tawa jan lawa sewi sina.
+==you should go to your church,
 to your own God.
 
 523
 00:58:17,413 --> 00:58:18,484
-church?
+nasin sewi mi?
+==church?
 
 524
 00:59:08,623 --> 00:59:10,250
-but my stuff?
+taso ijo mi?
+==but my stuff?
 
 525
 00:59:11,162 --> 00:59:16,043
-because of your sin, the god is being crucified, and you...
+tan ike sina la jan lawa sewi li kama moli lon tu palisa, taso sina...
+==because of your sin, the god is being crucified, and you...
 
 526
 00:59:16,202 --> 00:59:20,408
-crucified when?
+kama moli lon tu palisa? lon tenpo seme?
+==crucified when?
 
 527
 00:59:20,567 --> 00:59:24,252
-2000 years ago. for your sins.
+lon kama pi sike suno 2000. tan ike sina.
+==2000 years ago. for your sins.
 
 528
 00:59:24,416 --> 00:59:28,026
-but what did i do?
+taso mi pali e seme?
+mi kama lon ni lon tenpo ni taso.
+==but what did i do?
 I just came here.
 
 529
 00:59:28,980 --> 00:59:30,783
-you PK (drunk)?
+sina jan nasa anu seme?
+==you PK (drunk)?
 
 530
 00:59:30,782 --> 00:59:31,242
-yes.
+a.
+==yes.
 
 531
 00:59:31,242 --> 00:59:34,653
-God is watching your behavior.
+jan lawa sewi li lukin e nasin sina.
+==God is watching your behavior.
 
 532
 00:59:34,773 --> 00:59:37,829
-Where..where is the god?
+jan lawa sewi li lon seme?
+==Where..where is the god?
 
 533
 00:59:38,297 --> 00:59:40,202
-What is in that vessel?
+seme li lon poki ni?
+==What is in that vessel?
 
 534
 00:59:40,202 --> 00:59:41,233
-wine.
+telo nasa.
+==wine.
 
 535
 00:59:41,590 --> 00:59:52,860
-Wine.
+telo nasa.
+tenpo ni la mi kama sona e ni: jan lawa sewi li pilin e kama ala tan telo kili.
+tan ni la ona li kama pilin pona tan telo nasa, taso ni li ijo pi mani mute.
+==Wine.
 Now i understood God became bored with coconut water,
 now he started enjoying wine and it was expensive.
 
 536
 00:59:53,257 --> 00:59:55,995
- so i started gathering money.
+tan ni la mi kama alasa e mani.
+== so i started gathering money.
 
 537
 00:59:56,313 --> 00:59:59,878
-Some money i got from that dancing car.
+mi kama jo e mani wan tan tomo tawa pi tawa musi,
+==Some money i got from that dancing car.
 
 538
 01:00:00,083 --> 01:00:11,153
-..and some from that generous man standing
+e mani ante tan jan pona ni, ona li lon supa nasin,
+kepeken ni la jan li ken tan e mani lon wile.
+==..and some from that generous man standing
 on the bridge so that people can take as much as they want.
 
 539
 01:00:28,562 --> 01:00:30,752
-bhaaisaab, Is there around a
+jan Pawisa o, poka ni la
+tomo pi nasin sewi li lon anu seme?
+==bhaaisaab, Is there around a
 house of God somewhere?
 
 540
 01:00:30,776 --> 01:00:32,054
-yes its right in front.
+a. ona li lon lukin.
+==yes its right in front.
 
 541
 01:00:54,698 --> 01:00:55,975
-wait.
+o awen. seme li lon insa ona?
+==wait.
 what's in it?
 
 542
 01:00:56,110 --> 01:00:59,055
-Wine.
+telo nasa.
+tawa jan lawa sewi.
+ona li lon seme?
+==Wine.
 For god.
 Where is he?
 
 543
 01:01:39,944 --> 01:01:45,947
-One madam seemed very sad.
+meli wan li pilin ike tawa lukin.
+mi luka e luka ona, kepeken ni la mi ken kama sona e tan.
+==One madam seemed very sad.
 inorder to know the reason i held her hand.
 
 544
 01:01:46,293 --> 01:01:48,674
-Jerk! Trying on a widow?
+jan jaki o! sina lukin kama lon meli pi mije moli anu seme?
+==Jerk! Trying on a widow?
 
 545
 01:01:49,071 --> 01:01:51,372
-how do you know she is widow?
+kepeken seme la mi ken sona e ni: ona li meli pi mije moli?
+==how do you know she is widow?
 
 546
 01:01:51,372 --> 01:01:54,468
-you don't see white saree?
+sina ken ala lukin e len walo anu seme?
+==you don't see white saree?
 
 547
 01:02:12,166 --> 01:02:16,281
-So sad that your husband died.
+mi pilin ike tan ni: mije sina li moli.
+==So sad that your husband died.
 
 548
 01:02:16,610 --> 01:02:17,563
-what when?
+seme? lon tenpo seme?
+==what when?
 
 549
 01:02:17,563 --> 01:02:20,690
-how am i supposed to know.
+kepeken seme la mi ken sona?
+sina a li jo e len walo.
+==how am i supposed to know.
 you are the one wearing white.
 
 550
 01:02:20,769 --> 01:02:23,388
-In marriage everyone wears white.
+kama pi kulupu unpa la jan ale li jo e len walo.
+==In marriage everyone wears white.
 
 551
 01:02:23,388 --> 01:02:25,293
-no white is when someone dies.
+ala. walo li ilo tawa tenpo pi moli jan.
+==no white is when someone dies.
 
 552
 01:02:25,452 --> 01:02:29,732
-black dress is when someone dies.
+len pimeja li ilo tawa tenpo pi moli jan.
+jan nasa o. o kama weka.
+==black dress is when someone dies.
 Stupid. Get lost.
 
 553
 01:02:39,738 --> 01:02:43,547
-what a co-incidence. All your 3 husbands
+kama nasa a! mije 3 sina ale li kama moli
+lon tenpo sama anu seme?
+==what a co-incidence. All your 3 husbands
 died at the same time?
 
 554
 01:02:43,547 --> 01:02:45,103
-hey i am still alive.
+o, mi awen lon.
+==hey i am still alive.
 
 555
 01:02:46,223 --> 01:02:51,700
-After lots of punches and kicks i realized that
+jan li noka mute e mi. pini ni la mi kama sona e ni:
+jan lawa sewi li wan ala, taso ona li mute.
+==After lots of punches and kicks i realized that
 there isn't a single God in this planet but instead many.
 
 556
 01:02:52,044 --> 01:02:54,478
-Any every God has its own rules.
+jan lawa sewi ale li jo e nasin lawa pi ona sama.
+==Any every God has its own rules.
 
 557
 01:02:54,981 --> 01:02:59,637
-Every God has opened their own company.
+jan lawa sewi ale li open e kulupu pi ona sama.
+jan li pana e nimi "nasin sewi" tawa ni.
+==Every God has opened their own company.
 People were calling it religion.
 
 558
 01:02:59,953 --> 01:03:02,812
-There was a different manager for each religion.
+nasin sewi ale li jo e jan lawa pi ona sama.
+==There was a different manager for each religion.
 
 559
 01:03:03,605 --> 01:03:08,499
-Every man in this planet was attached to one religion/company.
+jan ale li wan pi kulupu pi nasin sewi.
+==Every man in this planet was attached to one religion/company.
 
 560
 01:03:08,981 --> 01:03:13,901
-and that person was strictly following that one manager of
+jan ni li tawa lon monsi pi jan lawa ni taso.
+==and that person was strictly following that one manager of
 the company only.
 
 561
 01:03:14,219 --> 01:03:18,399
-Now which company's member am i?
+ni la mi wan pi kulupu seme?
+tawa jan lawa sewi seme la mi o lukin toki?
+==Now which company's member am i?
 which God should i pray?
 
 562
 01:03:18,531 --> 01:03:22,504
-In order to get my remote knowing this was
+ni li suli mute, kepeken ni la
+mi ken kama jo e ilo lawa mi.
+==In order to get my remote knowing this was
 very important.
 
 563
 01:03:37,508 --> 01:03:38,917
-What are you doing?
+sina pali e seme?
+==What are you doing?
 
 564
 01:03:39,129 --> 01:03:40,504
-Where is the hallmark seal?
+sitelen tawa li lon seme?
+==Where is the hallmark seal?
 
 565
 01:03:41,139 --> 01:03:42,621
-Which hallmark seal?
+sitelen tawa seme?
+==Which hallmark seal?
 
 566
 01:03:43,362 --> 01:03:44,631
-The religious seal?
+sitelen pi nasin sewi anu seme?
+==The religious seal?
 
 567
 01:03:45,716 --> 01:03:48,740
-Which company this child belong to..
+jan lili li wan pi kulupu seme?
+kepeken seme la jan li ken kama lukin e ni?
+==Which company this child belong to..
 How would one find that?
 
 568
 01:03:49,048 --> 01:03:50,981
-Where does god put his stamp?
+jan lawa sewi li lon seme e sitelen ona?
+==Where does god put his stamp?
 
 569
 01:04:00,640 --> 01:04:04,080
-finding my religion
+mi wile kama lukin e nasin sewi mi.
+taso tawa mi la ni li kama ala pali.
+==finding my religion
 was turing out to be impossible.
 
 570
 01:04:04,529 --> 01:04:09,477
-Now there was only one way..
+kepeken wan ni taso la mi ken kama pali pona:
+mi kama lukin toki tawa jan lawa sewi pi nasin sewi ale.
+==Now there was only one way..
 to start praying Gods of all the religion.
 
 571
 01:04:09,529 --> 01:04:13,061
-One of them must be my God.
+wan ona li jan lawa sewi mi a,
+ona li kute e mi.
+==One of them must be my God.
 Who'd listen to me.
 
 572
 01:08:43,238 --> 01:08:45,196
-There is a big confusion god.
+nasa suli li lon, jan lawa sewi o.
+==There is a big confusion god.
 
 573
 01:08:48,227 --> 01:08:52,248
-I am making some mistake for sure
+mi sona e ni: ken la mi pakala e ijo,
+tan ni la sina ken ala kute e mi.
+==I am making some mistake for sure
 that you can't hear me.
 
 574
 01:08:54,568 --> 01:08:55,878
-ask my trouble
+o wile kute e pilin ike mi.
+==ask my trouble
 
 575
 01:08:57,505 --> 01:08:59,240
-Atleast guide me.
+ante la o lawa taso e mi.
+==Atleast guide me.
 
 576
 01:08:59,806 --> 01:09:00,719
+o.
 please
 
 577
 01:09:04,568 --> 01:09:11,421
-Should i hold my hands or
+mi o luka e luka mi anu
+mi o anpa e lawa mi anu seme?
+==Should i hold my hands or
 should i bow my head on your feet?
 
 578
 01:09:14,448 --> 01:09:19,522
-Should i ring a bell or
+mi o kalama e ilo kalama anu
+mi o kepeken ilo wawa, kepeken ni la mi ken pini e lape sina.
+==Should i ring a bell or
 use a loudspeaker to wake you up?
 
 579
 01:09:20,203 --> 01:09:24,540
+mi o tawa lon monsi pi jan toki sewi kepeken lipu pi nasin sewi?
 Should i follow geeta, kuran or bible?
 
 580
 01:09:25,917 --> 01:09:29,492
-Every one of your manager says
+jan lawa sina ale li toki
+e ijo ante.
+==Every one of your manager says
 something different
 
 581
 01:09:30,592 --> 01:09:35,124
-Some asks to fast on monday and some tuesday.
+jan wan li wile e pali ni: jan li moku ala lon tenpo suno "Mun".
+jan ante li wile e ni lon tenpo suno "Mun Seli".
+==Some asks to fast on monday and some tuesday.
 
 582
 01:09:35,750 --> 01:09:40,737
-some says to eat before sunrise, some after sunset.
+jan wan li toki e pona ni: jan li moku lon kama pi tenpo suno.
+jan ante li toke ni lon pini pi tenpo suno.
+==some says to eat before sunrise, some after sunset.
 
 583
 01:09:41,107 --> 01:09:45,427
-some says to pray cow, some says to sacrfice it.
+jan wan li toki e pona ni: jan li lukin toki tawa soweli.
+jan ante li toki e pona ni: jan li moli e ona li pana e ona tawa sewi.
+==some says to pray cow, some says to sacrfice it.
 
 584
 01:09:45,750 --> 01:09:50,323
-Some says to wear boots in your house,
+jan wan li toki e pona ni: tomo la jan li jo e len noka.
+jan ante li toki e ike pi ni sama.
+==Some says to wear boots in your house,
  some says don't.
 
 585
 01:09:51,901 --> 01:09:56,292
-I can't understand who to follow.
+mi ken ala kama sona e ni: mi o tawa lon monsi pi jan seme?
+==I can't understand who to follow.
 
 586
 01:09:58,972 --> 01:10:00,862
-it has become frustrating, God.
+mi kama pilin utala tan ike pali, jan lawa sewi o.
+==it has become frustrating, God.
 
 587
 01:10:04,091 --> 01:10:08,568
-I just want to go home.
+mi wile e ni taso: mi tawa tomo.
+sina wile kama lukin e ijo tan mi, la
+mi pali e ona tawa sina.
+==I just want to go home.
 I'll do whatever you say.
 
 588
 01:10:09,323 --> 01:10:11,784
-Just let me go home. please.
+o tawa e mi. o.
+==Just let me go home. please.
 
 589
 01:10:14,125 --> 01:10:16,355
-Say something
+o toki.
+==Say something
 
 590
 01:10:17,498 --> 01:10:24,006
-somebody amongst you, answer me please.
+wan pi sina mute o toki.
+==somebody amongst you, answer me please.
 
 591
 01:10:25,514 --> 01:10:26,863
-please.
+o.
+==please.
 
 592
 01:10:29,522 --> 01:10:30,514
-please.
+o.
+==please.
 
 593
 01:11:39,429 --> 01:11:41,208
@@ -2814,7 +3326,7 @@ jan lawa o! sina jan seme?
 598
 01:11:51,373 --> 01:11:55,967
 tenpo ni la sina sona ala anu seme?
-mi jan Pike.
+mi jan Na Sa.
 ==didn't recognise me?
 I am PK.
 
