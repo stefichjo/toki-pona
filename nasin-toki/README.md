@@ -197,7 +197,7 @@ nimi "taso ni la" li kama "taso".
 
 * ona li kute e ~~nimi~~ ***"mu"*** wawa. *(Li aŭdis laŭtan blekon. — He heard a loud bleat.)*
   * → ona li kute e ***mu*** wawa.
-* soweli li ~~kalama~~ ***"mu"***. *(La besto blekas. — The animal bleats.)*
+* soweli li ~~kalama~~ "***mu***". *(La besto blekas. — The animal bleats.)*
   * → soweli li ***mu***.
 
 nimi "nimi" en nimi "kalama" li kama weka lon kama pi nimi tan jan ante anu nimi pi ijo ante.
