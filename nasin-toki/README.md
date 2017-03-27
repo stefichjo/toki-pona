@@ -333,7 +333,7 @@ nimi "sike" li ken kama **nimi suli palisa**.
 nimi "open" li ken kama jo e kon pi nimi "kama".
 *("open" povas ricevi la signifon de "kama". — "open" can get the meaning of "kama".)*
 
-* mi **kama** lon nimi sewi. *(Mi komencas ĉe la nomo de la Ĉiela. — I begin with the name of the Devine.)*
+* mi **kama** lon nimi sewi. *(Mi komencas ĉe la nomo de la Ĉiela. — I begin with the name of the Divine.)*
   * → mi **open** lon nimi sewi.
 
 # toki kulupu
