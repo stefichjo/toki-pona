@@ -852,11 +852,12 @@ nimi lon pini pi **nimi ilo** "pi" li wile ala e sitelen nanpa.
 nimi pi **mute nimi** lon insa pi **mute nimi** li ken kama weka.
 *(Vortoj de subfrazo povas malaperi. — Words of a subordinate clause can disappear.)*
 
-* mi pana e moku tawa jan (ni). ona li kama lon tomo mi. *(Mi donis manĝon al (t)iu persono. Li aperis en mia domo. — I gave food to a/that person. He appeared in my house.)*
-  * → mi pana e moku tawa jan (ni) pi ijo ni: ona li kama lon tomo mi. *(Mi donis manĝon al (t)iu persono, kiu aperis en mia domo. — I gave food to the person, who appeared in my house.)*
-    * → mi pana e moku tawa jan (ni) pi ona li kama lon tomo mi.
-      * → mi pana e moku tawa jan (ni) pi li kama lon tomo mi.
-        * → mi pana e moku tawa jan (ni) pi kama lon tomo mi.
+* mi pana e moku tawa jan (ni), ona li kama lon tomo mi. *(Mi donis manĝon al (t)iu persono, kiu aperis en mia domo. — I gave food to a/this person, who appeared in my house.)*
+  * → mi pana e moku tawa jan (ni): ona li kama lon tomo mi.
+    * → mi pana e moku tawa jan (ni) pi ijo ni: ona li kama lon tomo mi.
+      * → mi pana e moku tawa jan (ni) pi ona li kama lon tomo mi.
+        * → mi pana e moku tawa jan (ni) pi li kama lon tomo mi.
+          * → mi pana e moku tawa jan (ni) pi kama lon tomo mi.
 
 ni la **nimi suli pini** li ken sama **nimi kama pini** mu.
 *(Tiam helpa verbo povas ŝajni ia "helpa modifilo". — In this case, an auxiliary verb can seem to be some sort of an "auxiliary modifier".)*
