@@ -3219,7 +3219,7 @@ use a loudspeaker to wake you up?
 579
 01:09:20,203 --> 01:09:24,540
 mi o tawa lon monsi pi jan toki sewi kepeken lipu pi nasin sewi?
-Should i follow geeta, kuran or bible?
+==Should i follow geeta, kuran or bible?
 
 580
 01:09:25,917 --> 01:09:29,492
@@ -3567,25 +3567,32 @@ pona. mi kama jo e ijo mi.
 
 639
 01:17:31,846 --> 01:17:36,593
-Since when you feel you don't
+tan tenpo seme la sina pilin e ni:
+sina wan pi ni ala?
+==Since when you feel you don't
 belong here?
 
 640
 01:17:39,386 --> 01:17:45,716
-you should meet a psychiatrist.
+sina o toki tawa jan sona pi pona lawa.
+==you should meet a psychiatrist.
 
 641
 01:17:45,973 --> 01:17:50,021
-Madam time to go. the punishment worth
+meli o, tenpo li kama pini. sina o tawa.
+==Madam time to go. the punishment worth
 500 rupees is over.
 
 642
 01:17:50,021 --> 01:17:51,205
-one moment.
+o awen lili.
+==one moment.
 
 643
 01:17:57,751 --> 01:18:07,022
-here's my card. I could get you
+ni li lipu nimi mi. mi ken pana e sona
+pi tomo pi jan sona pi pona lawa. o lukin toki tawa mi.
+==here's my card. I could get you
 meet a psychiatrist. call me.
 
 644
