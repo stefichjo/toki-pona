@@ -1009,20 +1009,29 @@ nimi "ona sama" li ken kama nimi "sama".
 * **ken** *(KAMA)* - ebla — possible
   * *(SULI PINI)* - povi, kapabli, rajti — can, to be able to, to be allowed to
 * **kepeken** *(KAMA PALISA)* - per — by means of
-* **kili** *(WAN SIJELO)* - @: frukto, legomo, fungo — @: fruit, vegetable, mushroom
+* **kili** *(WAN SIJELO)* - manĝebla organo: frukto, legomo, fungo — edible organ: fruit, vegetable, mushroom
 * **kiwen** - io malmola: ŝtono — something hard: stone
 * **ko** - io duon-malmola: pasto, pulvoro — something semi-solid: dough, powder
 * **kon** - io ŝvebanta: aero, spirito, kaŝita realo, esenco — something hovering: air, spirit, hidden reality, essence
 * **kule** *(KAMA)* - kolora, pentrita — colorful, painted
 * **kulupu** *(SIJELO)* - svarma vivaĵo: komunumo, kompanio, grupo, nacio, socio, tribo — swarm-like living being: community, company, group, nation, society, tribe
-
+* **kute** *(WAN SIJELO)* - aŭda organo: orelo — hearing organ: ear
+* **la** *(ILO)* - (kunteksto) — (context)
+* **lape** *(KAMA)* - dormanta, ripozanta — sleeping, resting
+* **laso** *(KAMA)* - blua, verda — blue, green
+* **lawa** *(WAN SIJELO)* - gvida organo: kapo — guiding organ: head
+* **len** - io pendanta: vesto, io kovranta: kovrilo, privateco
+* **lete** *(KAMA)* - malvarma, kruda — cold, raw
+* **li** *(ILO)* - (predikato) — (predikato)
+* **lili** *(KAMA)* - malgranda, malmulta — small, few
+* **linja** - io longa kaj fleksebla: kordo, haro, ŝnuro, fadeno — something long and flexible: cord, hair, rope, thread
+* **lipu** - io plata: karto, dokumento, papero, dosiero, libro — something flat: card, document, paper, file, book
+* **loje** *(KAMA)* - ruĝa — red
+* **lon** *(KAMA PALISA)* - ĉe, laŭ, en — at, along, in
 
 ...
 
 
-* **kute** *(WAN SIJELO)* - aŭda organo: orelo — hearing organ: ear
-* **lawa** *(WAN SIJELO)* - gvida organo: kapo — guiding organ: head
-* **lipu** - io ebena: dokumento — something flat: document
 * **luka** *(WAN SIJELO)* - tuŝa organo: mano, brako — touching organ: hand, arm
 * **lukin** *(WAN SIJELO)* - vida organo: okulo — seeing organ: eye
   * *(SULI PINI)* - provi — to try to
