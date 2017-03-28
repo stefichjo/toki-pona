@@ -975,54 +975,63 @@ nimi "ona sama" li ken kama nimi "sama".
 # ale pi nimi mute
 *(Vortaro — Dictionary)*
 
-* **a** *(MU)* - emocia sonimito — emotional onomatopeia@
-* **akesi** *(SIJELO)* - malvarmsanga vivaĵo: reptilo, amfibio — coldblooded@ living being: reptile, amphibian
-* **ala** - ne — no
+* **a** *(MU)* - emocia sonimito — emotional onomatopoeia
+* **akesi** *(SIJELO)* - malvarmsanga vivaĵo: reptilo, amfibio — cold-blooded living being: reptile, amphibian
+* **ala** *(KAMA)* - ne — no
   * *(NANPA)* - nul — zero
 * **alasa** *(SULI PALISA)* - ĉasi, kolekti — to hunt, to collect
-* **ale** (NIMI IJO) - ĉiu — every
+* **ale** *(KAMA)* - ĉiu — every
   * *(NANPA)* - senfine — countless
-* **anpa** - malalta — low
+* **anpa** *(KAMA)* - malalta — low
   * *(lon ... pi)* - sub — under
-* **ante** - diversa — different
+* **ante** *(KAMA)* - diversa — different
 * **anu** *(ILO)* - aŭ — or
 * **awen** *(SULI)* - daŭri — to endure
   * *(SULI PINI)* - plu- — to continue to
 * **e** *(ILO)* - -n — (accusative)
 * **en** *(ILO)* - kaj — and
-* **esun** - anstataŭa — ...@
+* **esun** *(KAMA)* - anstataŭa — substitute
   * *(NANPA)* sep - seven
-* **ijo** *(NIMI IJO)* - io — something
-* **ike** - malbona, superflua — bad, superfluous
-* **ilo** *(IJO)* - io utila — something useful
-* **insa** *(IJO)* - io interna — something internal
-* **jaki** - malpura, fia — dirty, disgusting
+  * *(lon ... pi)* - anstataŭ — instead of, in exchange for
+* **ijo** (IJO) - io — something
+* **ike** *(KAMA)* - malbona, superflua — bad, superfluous
+* **ilo** - io utila — something useful
+* **insa** - io interna — something internal
+* **jaki** *(KAMA)* - malpura, fia — dirty, disgusting
 * **jan** *(SIJELO)* - konscia vivaĵo — konscia vivaĵo
-* **jelo** - flava — yellow
+* **jelo** *(KAMA)* - flava — yellow
 * **jo** *(SULI PALISA)* - havi — to have
-* **kala** *(SIJELO)* - naĝanta vivaĵo — swimming living being
-* **kalama** - sona — sounding
-* **kama** - alvena — arriving
-  * *(SULI PINI)* - ek-, -iĝ- — to become, to succeed in
-
+* **kala** *(SIJELO)* - naĝanta vivaĵo: fiŝo, baleno — swimming living being: fish, baleno
+* **kalama** *(KAMA)* - sona — sounding
+* **kama** *(KAMA)* - alvena — arriving
+  * *(SULI PINI)* - -iĝ-, sukcesi — to become, to succeed in
+* **kasi** *(SIJELO)* - kreskanta vivaĵo: planto — growing living being: plant
+* **ken** *(KAMA)* - ebla — possible
+  * *(SULI PINI)* - povi, kapabli, rajti — can, to be able to, to be allowed to
+* **kepeken** *(KAMA PALISA)* - per — by means of
+* **kili** *(WAN SIJELO)* - @: frukto, legomo, fungo — @: fruit, vegetable, mushroom
+* **kiwen** - io malmola: ŝtono — something hard: stone
+* **ko** - io duon-malmola: pasto, pulvoro — something semi-solid: dough, powder
+* **kon** - io ŝvebanta: aero, spirito, kaŝita realo, esenco — something hovering: air, spirit, hidden reality, essence
+* **kule** *(KAMA)* - kolora, pentrita — colorful, painted
+* **kulupu** *(SIJELO)* - svarma vivaĵo: komunumo, kompanio, grupo, nacio, socio, tribo — swarm-like living being: community, company, group, nation, society, tribe
 
 
 ...
 
 
-* **kiwen** *(IJO)* - io malmola: ŝtono — something hard: stone
 * **kute** *(WAN SIJELO)* - aŭda organo: orelo — hearing organ: ear
 * **lawa** *(WAN SIJELO)* - gvida organo: kapo — guiding organ: head
-* **lipu** *(IJO)* - io ebena: dokumento — something flat: document
+* **lipu** - io ebena: dokumento — something flat: document
 * **luka** *(WAN SIJELO)* - tuŝa organo: mano, brako — touching organ: hand, arm
 * **lukin** *(WAN SIJELO)* - vida organo: okulo — seeing organ: eye
   * *(SULI PINI)* - provi — to try to
 * **noka** *(WAN SIJELO)* - paŝa organo: piedo, gambo — stepping organ: foot, leg
 * **pilin** *(WAN SIJELO)* - senta organo: koro — feeling organ: heart
 * **pimeja** *(-)* - nigra — black
-* **poka** *(IJO)* - io apuda: flanko — something lateral: side
-* **sinpin** *(IJO)* - io antaŭa: muro — something frontal: wall
-* **suno** *(IJO)* - io hela: suno — something bright: sun
+* **poka** - io apuda: flanko — something lateral: side
+* **sinpin** - io antaŭa: muro — something frontal: wall
+* **suno** - io hela: suno — something bright: sun
 * **uta** *(WAN SIJELO)* - kisa organo: buŝo — kissing organ: mouth
 
 
