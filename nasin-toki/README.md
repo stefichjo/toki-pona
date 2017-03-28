@@ -976,17 +976,36 @@ nimi "ona sama" li ken kama nimi "sama".
 *(Vortaro — Dictionary)*
 
 * **a** *(MU)* - emocia sonimito — emotional onomatopeia@
-* **akesi** *(SIJELO)* - malvarmsanga besto: reptilo, amfibio — coldblooded@ animal: reptile, amphibian
-* **ala** *(-)* - ne — no
+* **akesi** *(SIJELO)* - malvarmsanga vivaĵo: reptilo, amfibio — coldblooded@ living being: reptile, amphibian
+* **ala** - ne — no
   * *(NANPA)* - nul — zero
 * **alasa** *(SULI PALISA)* - ĉasi, kolekti — to hunt, to collect
-* **ale** *(-)* - ĉiu — every
+* **ale** (NIMI IJO) - ĉiu — every
   * *(NANPA)* - senfine — countless
-* **anpa** *(-)* - malalta — low
-* **ante** *(-)* - diversa — different
+* **anpa** - malalta — low
+  * *(lon ... pi)* - sub — under
+* **ante** - diversa — different
 * **anu** *(ILO)* - aŭ — or
 * **awen** *(SULI)* - daŭri — to endure
   * *(SULI PINI)* - plu- — to continue to
+* **e** *(ILO)* - -n — (accusative)
+* **en** *(ILO)* - kaj — and
+* **esun** - anstataŭa — ...@
+  * *(NANPA)* sep - seven
+* **ijo** *(NIMI IJO)* - io — something
+* **ike** - malbona, superflua — bad, superfluous
+* **ilo** *(IJO)* - io utila — something useful
+* **insa** *(IJO)* - io interna — something internal
+* **jaki** - malpura, fia — dirty, disgusting
+* **jan** *(SIJELO)* - konscia vivaĵo — konscia vivaĵo
+* **jelo** - flava — yellow
+* **jo** *(SULI PALISA)* - havi — to have
+* **kala** *(SIJELO)* - naĝanta vivaĵo — swimming living being
+* **kalama** - sona — sounding
+* **kama** - alvena — arriving
+  * *(SULI PINI)* - ek-, -iĝ- — to become, to succeed in
+
+
 
 ...
 
@@ -997,6 +1016,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **lipu** *(IJO)* - io ebena: dokumento — something flat: document
 * **luka** *(WAN SIJELO)* - tuŝa organo: mano, brako — touching organ: hand, arm
 * **lukin** *(WAN SIJELO)* - vida organo: okulo — seeing organ: eye
+  * *(SULI PINI)* - provi — to try to
 * **noka** *(WAN SIJELO)* - paŝa organo: piedo, gambo — stepping organ: foot, leg
 * **pilin** *(WAN SIJELO)* - senta organo: koro — feeling organ: heart
 * **pimeja** *(-)* - nigra — black
