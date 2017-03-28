@@ -25,6 +25,8 @@ wan lipu "[toki nasa](#toki-nasa)" li toki e nasin toki sin pi jan nasa ni: ona 
 * mi tawa ***~~lon~~ poka ~~pi~~*** jan pona. *(Mi iras kun amiko. — I am going with a friend.)*
   * → mi tawa ***poka*** jan pona.
 
+... [ale pi nimi mute](#ale-pi-nimi-mute) ...
+
 ---
 
 * **nimi ijo** *(radika vorto — content word)*
@@ -968,3 +970,39 @@ nimi "ona sama" li ken kama nimi "sama".
 * mi ***olin e ni: mi*** kama sona e jan pona sina. *(Mi amas konatiĝi kun via amiko. — I love to get to know your friend.)*
   * → mi ***olin*** kama sona e jan pona sina.
  
+---
+
+# ale pi nimi mute
+*(Vortaro — Dictionary)*
+
+* **a** *(MU)* - emocia sonimito — emotional onomatopeia@
+* **akesi** *(SIJELO)* - malvarmsanga besto: reptilo, amfibio — coldblooded@ animal: reptile, amphibian
+* **ala** *(-)* - ne — no
+  *(NANPA)* - nul — zero
+* **alasa** *(SULI PALISA)* - ĉasi, kolekti — to hunt, to collect
+* **ale** *(-)* - ĉiu — every
+  *(NANPA)* - senfine — countless
+* **anpa** *(-)* - malalta — low
+* **ante** *(-)* - diversa — different
+* **anu** *(ILO)* - aŭ — or
+* **awen** *(SULI)* - daŭri — to endure
+  * *(SULI PINI)* - plu- — to continue to
+
+...
+
+
+* **kiwen** *(IJO)* - io malmola: ŝtono — something hard: stone
+* **kute** *(WAN SIJELO)* - aŭda organo: orelo — hearing organ: ear
+* **lawa** *(WAN SIJELO)* - gvida organo: kapo — guiding organ: head
+* **lipu** *(IJO)* - io ebena: dokumento — something flat: document
+* **luka** *(WAN SIJELO)* - tuŝa organo: mano, brako — touching organ: hand, arm
+* **lukin** *(WAN SIJELO)* - vida organo: okulo — seeing organ: eye
+* **noka** *(WAN SIJELO)* - paŝa organo: piedo, gambo — stepping organ: foot, leg
+* **pilin** *(WAN SIJELO)* - senta organo: koro — feeling organ: heart
+* **pimeja** *(-)* - nigra — black
+* **poka** *(IJO)* - io apuda: flanko — something lateral: side
+* **sinpin** *(IJO)* - io antaŭa: muro — something frontal: wall
+* **suno** *(IJO)* - io hela: suno — something bright: sun
+* **uta** *(WAN SIJELO)* - kisa organo: buŝo — kissing organ: mouth
+
+
