@@ -978,10 +978,10 @@ nimi "ona sama" li ken kama nimi "sama".
 * **a** *(MU)* - emocia sonimito — emotional onomatopeia@
 * **akesi** *(SIJELO)* - malvarmsanga besto: reptilo, amfibio — coldblooded@ animal: reptile, amphibian
 * **ala** *(-)* - ne — no
-  *(NANPA)* - nul — zero
+  * *(NANPA)* - nul — zero
 * **alasa** *(SULI PALISA)* - ĉasi, kolekti — to hunt, to collect
 * **ale** *(-)* - ĉiu — every
-  *(NANPA)* - senfine — countless
+  * *(NANPA)* - senfine — countless
 * **anpa** *(-)* - malalta — low
 * **ante** *(-)* - diversa — different
 * **anu** *(ILO)* - aŭ — or
