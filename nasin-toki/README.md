@@ -1004,7 +1004,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **kala** *(SIJELO)* - naĝanta vivaĵo: fiŝo, baleno — swimming living being: fish, baleno
 * **kalama** *(KAMA)* - sona — sounding
 * **kama** *(KAMA)* - alvena — arriving
-  * *(SULI PINI)* - -iĝ-, sukcesi — to become, to succeed in
+  * *(SULI PINI)* - -iĝ-, sukcesi — to become, to succeed
 * **kasi** *(SIJELO)* - kreskanta vivaĵo: planto — growing living being: plant
 * **ken** *(KAMA)* - ebla — possible
   * *(SULI PINI)* - povi, kapabli, rajti — can, to be able to, to be allowed to
@@ -1027,14 +1027,31 @@ nimi "ona sama" li ken kama nimi "sama".
 * **linja** - io longa kaj fleksebla: kordo, haro, ŝnuro, fadeno — something long and flexible: cord, hair, rope, thread
 * **lipu** - io plata: karto, dokumento, papero, dosiero, libro — something flat: card, document, paper, file, book
 * **loje** *(KAMA)* - ruĝa — red
-* **lon** *(KAMA PALISA)* - ĉe, laŭ, en — at, along, in
+* **lon** *(KAMA PALISA)* - ĉe, laŭ, en — at, along, in@
+* **luka** *(WAN SIJELO)* - tuŝa organo: mano, brako — touching organ: hand, arm
+  * *(NANPA)* - kvin — five
+* **lukin** *(WAN SIJELO)* - vida organo: okulo — seeing organ: eye
+  * *(SULI PINI)* - provi — to try to
+* **lupa** - io kava: truo, pordo — something hollow: hole, door
+* **ma** - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero — something vast: earth, soil, land, field, world, territory, outdoors
+  * *(lon ... pi)* - ekster — outside
+* **mama** *(SIJELO)* - zorganta vivaĵo — care-taking living being
+* **mani** - io valora: mono, ŝparaĵo, riĉeco, granda malsovaĝigita besto — something valueable: money, savings, wealth, large domesticated animal
+* **meli** *(SIJELO)* - ina vivaĵo: virino, edzino — female living being: woman, wife
+* **mi** *(IJO)* - mi, ni — I, we
+* **mije** *(SIJELO)* - vira vivaĵo: viro, edzo — male living being: man, husband
+* **moku** *(KAMA PALISA)* - manĝi, trinki, gluti — to eat, to drink, to swallow
+* **moli** *(KAMA)* - mortinta, malviva — dead
+* **monsi** - malantaŭo — back
+  * *(lon ... pi)* - malantaŭ — behind
+* **mu** *(MU)* - indiferenta sonimito: bla, miaŭ — indifferent onomatopoeia: blah, meeow
+* **mun** - io ĉielpromenanta: luno, stelo — something sky-walking: moon, star
+* **musi** *(KAMA)* - ludanta — playing
+
 
 ...
 
 
-* **luka** *(WAN SIJELO)* - tuŝa organo: mano, brako — touching organ: hand, arm
-* **lukin** *(WAN SIJELO)* - vida organo: okulo — seeing organ: eye
-  * *(SULI PINI)* - provi — to try to
 * **noka** *(WAN SIJELO)* - paŝa organo: piedo, gambo — stepping organ: foot, leg
 * **pilin** *(WAN SIJELO)* - senta organo: koro — feeling organ: heart
 * **pimeja** *(-)* - nigra — black
