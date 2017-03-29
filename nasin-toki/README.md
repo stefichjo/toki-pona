@@ -977,10 +977,10 @@ nimi "ona sama" li ken kama nimi "sama".
 
 * **a** *(MU)* - emocia sonimito — emotional onomatopoeia
 * **akesi** *(SIJELO)* - malvarmsanga vivaĵo: reptilo, amfibio — cold-blooded living being: reptile, amphibian
-* **ala** *(KAMA)* - ne — no
+* **ala** - nenio — nothing
   * *(NANPA)* - nul — zero
 * **alasa** *(SULI PALISA)* - ĉasi, kolekti — to hunt, to collect
-* **ale** *(KAMA)* - ĉiu — every
+* **ale** - ĉio — everything
   * *(NANPA)* - senfine — countless
 * **anpa** *(KAMA)* - malalta — low
   * *(lon ... pi)* - sub — under
@@ -1047,17 +1047,60 @@ nimi "ona sama" li ken kama nimi "sama".
 * **mu** *(MU)* - indiferenta sonimito: bla, miaŭ — indifferent onomatopoeia: blah, meeow
 * **mun** - io ĉielpromenanta: luno, stelo — something sky-walking: moon, star
 * **musi** *(KAMA)* - ludanta — playing
+* **mute** *(KAMA)* - multa — many
+* **nanpa** - io nombrita, io kalkulita — something counted, something calculated
+* **nasa** *(KAMA)* - stranga, freneza, ebria — strange, crazy, intoxicated
+* **nasin** - io interkonekta: vojo, pado, strato, metodo, kutimo, doktrino — something interconnecting: way, path, street, method, custom, doctrine
+  * *(lon ... tan ... tawa ...)* - inter — between
+* **nena** - io elstara: ĝibo, butono, monto, nazo — something outstanding: bump, button, mountain, nose
+* **ni** - tio (ĉi) — that thing, this thing
+* **nimi** - @ nomo, vorto — name, word
+* **noka** *(WAN SIJELO)* - paŝa organo, treta organo: piedo, gambo — stepping organ, kicking organ: foot, leg
+  * *(lon ... pi)* - ĉe la malsupro de — at the bottom of
+* **o** *(ILO)* - -u — (vocativo), (imperativo)
+* **olin** *(SULI PALISA)* - ami — to love
+* **ona** *(IJO)* - ŝi, li, ĝi, ili — she, he, it, they
+* **open** *(KAMA)* - malfermita — open@
+* **pakala** *(KAMA)* - damaĝita, lezita — damaged, harmed
+* **pali** *(SULI PALISA)* - prilabori, krei, prepari — to work on, to create, to prepare
+* **palisa** - io longa kaj malmola: branĉo, bastono
+  * *(WAN SIJELO)* - celanta organo: fingro — aiming organ: finger
+* **pan** - panherbaĵo, pano, nudeloj, rizo — cereal, bread, pasta
+* **pana** *(SULI PALISA)* - doni, provizi, publikigi — to give, to provide, to publish@
+* **pi** *(ILO)* - (genitivo) — (genitive)
+* **pilin** *(WAN SIJELO)* - sentanta organo: koro — feeling organ: heart
+* **pimeja** - malhela — dark
+* **pini** *(KAMA)* - finita, pasinta — finished, past
+  * *(SULI PINI)* - fini, to stop@
+* **pipi** *(SIJELO)* - rampanta vivaĵo: insekto — crawling living being: insect
+* **poka** - io apuda: flanko — something lateral: side
+  * *(lon ... pi)* - apud — next to
+* **poki** - io @: ujo — something @: container
+* **pona** *(KAMA)* - bona, amika, simpla — good, friendly, simple@
+* **pu** *(KAMA)* - konsulti la Oficialan Libron de Tokipono — to interact with the Official Toki Pona Book
+* **sama** *(KAMA PALISA)* - kiel, parenca al — like, related to
+* **seli** *(KAMA)* - varma, arda — warm, hot
+* **selo** *(WAN SIJELO)* - formanta organo: haŭto, ŝelo — forming organ: skin, shell
+* **seme** - kio — what
+* **sewi** - io supera: ĉielo, Dio
+  * *(lon ... pi)* - super — over
+* **sijelo** - io vivanta: vivaĵo, korpo — something living: living being, body
+* **sike** - io ronda: cirklo, globo — something round: circle, sphere
+  * *(lon ... pi)* - ĉirkaŭ — around
+* **sin** *(KAMA)* - plia, aldona, nova, freŝa — another, additional, new, fresh
+* **sina** *(IJO)* - vi — you
+* **sinpin** - io antaŭa: muro — something frontal: wall
+  * *(lon ... pi)* - antaŭ — in front of
+* **sitelen** - io desegnita, io imagita, io skribita: bildo, ideo, simbolo — something drawn, something imagined,  something written: picture, idea, symbol
+* **sona** *(SULI PALISA)* - scii, esti lerta — to know, to be skilled in
+* **soweli** *(SIJELO)* - varmsanga vivaĵo: mamulo — warm-blooded living being: mammal
+* **suli** *(KAMA)* - granda, peza, grava, plenkreska — big, heavy, important, adult
+* **suno** - io hela: suno — something bright: sun
 
 
 ...
 
 
-* **noka** *(WAN SIJELO)* - paŝa organo: piedo, gambo — stepping organ: foot, leg
-* **pilin** *(WAN SIJELO)* - senta organo: koro — feeling organ: heart
-* **pimeja** *(-)* - nigra — black
-* **poka** - io apuda: flanko — something lateral: side
-* **sinpin** - io antaŭa: muro — something frontal: wall
-* **suno** - io hela: suno — something bright: sun
 * **uta** *(WAN SIJELO)* - kisa organo: buŝo — kissing organ: mouth
 
 
