@@ -924,7 +924,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **ijo** ***[io]*** (IJO) - io — something
   * *(e ... pi)* - pri — about
 * **ike** ~~ikeja~~ ***[ilkea]*** *(KAMA)* - malbona, superflua — bad, superfluous
-* **ilo** ***[ilo]*** - io utila — something useful
+* **ilo** ***[ILO](#nimi-ilo)*** - io utila — something useful
 * **insa** ***[insajt]*** - io interna — something internal
 * **jaki** ***[yucky]*** *(KAMA)* - malpura, fia — dirty, disgusting
 * **jan** ~~jen~~ ***[jen]*** *(SIJELO)* - konscia vivaĵo — konscia vivaĵo
