@@ -942,7 +942,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **ken** ***[ken]*** *(KAMA)* - ebla — possible
   * *([SULI PINI](#nimi-suli-pini))* - povi, kapabli, rajti — can, to be able to, to be allowed to
 * **kepeken** ***[xebrewken]*** *([KAMA PALISA](#nimi-kama-palisa))* - per — by means of
-* **kili** ***[xili]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))* - manĝebla organo: frukto, legomo, fungo — edible organ: fruit, vegetable, mushroom
+* **kili** ***[xili]*** *(KAMA IJO)*
+  * *(KAMA)* - manĝebla — edible
+  * *([IJO](#nimi-ijo))* - io manĝebla: frukto, legomo, fungo — something edible: fruit, vegetable, mushroom
 * **kiwen** ***[kiven]*** *(KAMA IJO)*
   * *(KAMA)* - malmola — hard
   * *([IJO](#nimi-ijo))* - io malmola: ŝtono — something hard: stone
@@ -1031,11 +1033,15 @@ nimi "ona sama" li ken kama nimi "sama".
 * **palisa** ***[palica]*** *(KAMA IJO)*
   * *(KAMA)* - longa kaj malmola — long and hard
   * *([IJO](#nimi-ijo))* - io longa kaj malmola: branĉo, bastono — something long and hard: branch, stick
-  * *([WAN SIJELO](#nimi-pi-wan-sijelo))* - celanta organo: fingro — aiming organ: finger
+  * *([WAN SIJELO](#nimi-pi-wan-sijelo))*
+    * *([SULI PALISA](#nimi-suli-palisa))* - celi — to aim
+    * *([IJO](#nimi-ijo))* - celanta organo: fingro — aiming organ: finger
 * **pan** ***[pan]*** - panherbaĵo, pano, nudeloj, rizo — cereal, bread, pasta@
 * **pana** ***[@]*** *([SULI PALISA](#nimi-suli-palisa))* - doni, provizi, publikigi — to give, to provide, to publish
 * **pi** ***[bi]*** *([ILO](#nimi-ilo))* - (genitivo) — (genitive)
-* **pilin** ***[fil-him]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))* - sentanta organo: koro — feeling organ: heart
+* **pilin** ***[fil-him]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))*
+  * *([SULI PALISA](#nimi-suli-palisa))* - senti — to feel
+  * *([IJO](#nimi-ijo))* - sentanta organo: koro — feeling organ: heart
 * **pimeja** ***[pimeja]*** - malhela — dark
 * **pini** ***[fini]*** *(KAMA)* - finita, pasinta — finished, past
   * *([SULI PINI](#nimi-suli-pini))* - fini, to stop
@@ -1044,7 +1050,9 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - apuda — lateral
   * *([IJO](#nimi-ijo))* - io apuda: flanko — something lateral: side
   * *(lon ... pi)* - apud — next to
-* **poki** ***[bokis]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))* - enhavanta organo: veziko, ujo, ingo — containing organ: bladder, container
+* **poki** ***[bokis]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))*
+  * *([SULI PALISA](#nimi-suli-palisa))* - enhavi — to contain
+  * *([IJO](#nimi-ijo))* - enhavanta organo: veziko, ujo, ingo — containing organ: bladder, container
 * **pona** ***[bona]*** *(KAMA)* - bona, amika, simpla — good, friendly, simple@
 * **pu** ***[buk]*** *(KAMA)* - konsulti la Oficialan Libron de Tokipono — to interact with the Official Toki Pona Book
 * **sama** ***[sama]*** *([KAMA PALISA](#nimi-kama-palisa))* - kiel, parenca al — like, related to
