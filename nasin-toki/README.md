@@ -25,7 +25,8 @@ wan lipu "[toki nasa](#toki-nasa)" li toki e nasin toki sin pi jan nasa ni: ona 
 * mi tawa ***~~lon~~ poka ~~pi~~*** jan pona. *(Mi iras kun amiko. — I am going with a friend.)*
   * → mi tawa ***poka*** jan pona.
 
-... [ale pi nimi mute](#ale-pi-nimi-mute) ...
+wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-lili) li kepeken [toki musi](#toki-musi). ona li [ale ala pi nimi mute, tan lipu suli pi toki pona](http://tokipona.net/tp/janpije/dictionary.php).
+*(La sekcio "Vortaro" uzas la Koncizan Lingvaĵon kaj la Ludan Lingvaĵon. Ĝi ne estas la Oficiala Vortaro. — The section "Dictionary" uses the Concise Language and the Playful Language. It is not the Official Dictionary.)*
 
 ---
 
@@ -337,6 +338,13 @@ nimi "open" li ken kama jo e kon pi nimi "kama".
 
 * mi **kama** lon nimi sewi. *(Mi komencas ĉe la nomo de la Ĉiela. — I begin with the name of the Divine.)*
   * → mi **open** lon nimi sewi.
+  
+nimi "mute" lon kama pi nimi "lipu" li ken weka.
+*("mute" antaŭ "lipu" povas malaperi. — "mute" before "lipu" can disappear.)*
+
+* ni li lipu. *(Tio estas folio. — This is a piece of paper.)*
+* ni li **mute lipu**. *(Tio estas libro. — This is a book.)*
+  * → ni li **lipu**.
 
 # toki kulupu
 *(Komunuma Lingvaĵo — Community Language)*
@@ -724,16 +732,13 @@ nimi kule "jelo", "laso", "loje", "pimeja" en "walo" li sin.
 #### kalama nimi en sitelen nimi
 *(Prononco kaj Ortografio — Pronunciation and Orthography)*
 
-sitelen nimi en sitelen nimi li kama ante lon toki pona, la jan ken sitelen e nimi ni sama lon toki tan.
-*(@)*
-
 kalama "i", "u" li sin. kalama "e", "o" li kama "i", "u" lon ni: wan nimi li lili.
 *(La sonoj "i" kaj "u" estas novaj. La sonoj "e" kaj "o" fariĝas "i" kaj "u" kiam la silabo ne estas akcentata. — The sounds "i" and "u" are new. The sounds "e" and "o" become "i" and "u" when the syllable is not stressed.)*
 
 * toke → ***toki*** *(lingvo — language)*
 * moko → ***moku*** *(gluti — to swallow)*
 * akete → akiti → ***akisi*** *(reptilo, amfibio — reptile, amphibian)*
-* tejelo → tejilu → ***tewilu*** *(vivaĵo — living being)*
+* tejelo → tejilu → ***tewilu*** *(korpo — body)*
 
 ## toki nasa
 *(Freneza Lingvaĵo — Crazy Language)*
@@ -907,7 +912,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(NANPA)* - senfine — countless
 * **anpa** ***[an-bas]*** *(KAMA)* - malalta — low
   * *(lon ... pi)* - sub — under
-* **ante** ***[ander]*** *(KAMA)* - diversa — different
+* **ante** ***[ander]*** *(KAMA)* - alia — different
 * **anu** ~~an~~ ***[an]*** *(ILO)* - aŭ — or
 * **awen** ***[hawen]*** *(KAMA)* - daŭranta, atendanta, restanta — enduring, waiting, remaining
   * *(SULI PINI)* - plu- — to continue to
@@ -957,6 +962,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(NANPA)* - kvin — five
 * **lukin** ***[luk-him]*** *(WAN SIJELO)* - vida organo: okulo — seeing organ: eye
   * *(SULI PINI)* - provi — to try to
+  * *(lon ... pi)* - antaŭ, ĉe, kontraŭ — before, against
 * **lupa** ***[klupa]*** - io kava: truo, pordo — something hollow: hole, door
 * **ma** ***[maa]*** - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero — something vast: earth, soil, land, field, world, territory, outdoors
   * *(lon ... pi)* - ekster — outside
