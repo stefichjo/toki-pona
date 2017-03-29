@@ -913,18 +913,18 @@ nimi "ona sama" li ken kama nimi "sama".
 * **anpa** ***[an-bas]*** *(KAMA)* - malalta — low
   * *(lon ... pi)* - sub — under
 * **ante** ***[ander]*** *(KAMA)* - alia — different
-* **anu** ~~an~~ ***[an]*** *(ILO)* - aŭ — or
+* **anu** ~~an~~ ***[an]*** *([ILO](#nimi-ilo))* - aŭ — or
 * **awen** ***[hawen]*** *(KAMA)* - daŭranta, atendanta, restanta — enduring, waiting, remaining
   * *(SULI PINI)* - plu- — to continue to
-* **e** ***[@]*** *(ILO)* - -n — (accusative)
-* **en** ***[en]*** *(ILO)* - kaj — and
+* **e** ***[@]*** *([ILO](#nimi-ilo))* - -n — (accusative)
+* **en** ***[en]*** *([ILO](#nimi-ilo))* - kaj — and
 * **esun** ***[@]*** *(KAMA)* - anstataŭa — substitute
   * *(NANPA)* sep - seven
   * *(lon ... pi)* - anstataŭ — instead of, in exchange for
 * **ijo** ***[io]*** (IJO) - io — something
   * *(e ... pi)* - pri — about
 * **ike** ~~ikeja~~ ***[ilkea]*** *(KAMA)* - malbona, superflua — bad, superfluous
-* **ilo** ***[ILO](#nimi-ilo)*** - io utila — something useful
+* **ilo** *([ILO](#nimi-ilo))* - io utila — something useful
 * **insa** ***[insajt]*** - io interna — something internal
 * **jaki** ***[yucky]*** *(KAMA)* - malpura, fia — dirty, disgusting
 * **jan** ~~jen~~ ***[jen]*** *(SIJELO)* - konscia vivaĵo — konscia vivaĵo
@@ -945,14 +945,14 @@ nimi "ona sama" li ken kama nimi "sama".
 * **kule** ***[kuler]*** *(KAMA)* - kolora, pentrita — colorful, painted
 * **kulupu** ***[grup]*** *(SIJELO)* - svarma vivaĵo: komunumo, kompanio, grupo, nacio, socio, tribo — swarm-like living being: community, company, group, nation, society, tribe
 * **kute** ~~ekute~~ ***[ekute]*** *(WAN SIJELO)* - aŭda organo: orelo — hearing organ: ear
-* **la** ***[la]*** *(ILO)* - (kunteksto) — (context)
+* **la** ***[la]*** *([ILO](#nimi-ilo))* - (kunteksto) — (context)
 * **lape** ***[slape]*** *(KAMA)* - dormanta, ripozanta — sleeping, resting
 * **laso** ~~la~~ ***[glas]*** *(KAMA)* - blua, verda — blue, green
 * **lawa** ***[glava]*** *(WAN SIJELO)* - gvida organo: kapo — guiding organ: head
   * *(lon ... pi)* - supre de — at the top of
 * **len** ***[leng]*** - io pendanta: vesto, io kovranta: kovrilo, privateco
 * **lete** ***[frete]*** *(KAMA)* - malvarma, kruda — cold, raw
-* **li** ***[li]*** *(ILO)* - (predikato) — (predikato)
+* **li** ***[li]*** *([ILO](#nimi-ilo))* - (predikato) — (predikato)
 * **lili** ***[lik-lik]*** *(KAMA)* - malgranda, malmulta — small, few
 * **linja** ***[linja]*** - io longa kaj fleksebla: kordo, haro, ŝnuro, fadeno — something long and flexible: cord, hair, rope, thread
 * **lipu** ***[lippu]*** - io plata: karto, dokumento, papero, dosiero, libro — something flat: card, document, paper, file, book
@@ -988,7 +988,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **nimi** ***[nimi]*** - io atribuita: nomo, vorto — something attributed: name, word
 * **noka** ***[noga]*** *(WAN SIJELO)* - paŝa organo, treta organo: piedo, gambo — stepping organ, kicking organ: foot, leg
   * *(lon ... pi)* - ĉe la malsupro de — at the bottom of
-* **o** ***[ho]*** *(ILO)* - -u — (vocativo), (imperativo)
+* **o** ***[ho]*** *([ILO](#nimi-ilo))* - -u — (vocativo), (imperativo)
 * **olin** ***[volim]*** *(SULI PALISA)* - ami — to love
 * **ona** ***[ona]*** *(IJO)* - ŝi, li, ĝi, ili — she, he, it, they
 * **open** ***[open]*** *(KAMA)* - malfermita — open
@@ -998,7 +998,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(WAN SIJELO)* - celanta organo: fingro — aiming organ: finger
 * **pan** ***[pan]*** - panherbaĵo, pano, nudeloj, rizo — cereal, bread, pasta
 * **pana** ***[@]*** *(SULI PALISA)* - doni, provizi, publikigi — to give, to provide, to publish
-* **pi** ***[bi]*** *(ILO)* - (genitivo) — (genitive)
+* **pi** ***[bi]*** *([ILO](#nimi-ilo))* - (genitivo) — (genitive)
 * **pilin** ***[fil-him]*** *(WAN SIJELO)* - sentanta organo: koro — feeling organ: heart
 * **pimeja** ***[pimeja]*** - malhela — dark
 * **pini** ***[fini]*** *(KAMA)* - finita, pasinta — finished, past
