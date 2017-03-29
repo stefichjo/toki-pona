@@ -908,7 +908,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **ala** ***[ara]*** - nenio — nothing
   * *([NANPA](#nimi-nanpa))* - nul — zero
 * **alasa** ***[@]*** *([SULI PALISA](#nimi-suli-palisa))* - ĉasi, kolekti — to hunt, to collect
-* **ale** ***[alle]*** - ĉio — everything
+* **ale** ***[alle]*** *(KAMA IJO)*
+  * *(KAMA)* - ĉiu — every
+  * *([IJO](#nimi-ijo))* - ĉio — everything
   * *([NANPA](#nimi-nanpa))* - senfine — countless
 * **anpa** ***[an-bas]*** *(KAMA)* - malalta — low
   * *(lon ... pi)* - sub — under
@@ -921,11 +923,13 @@ nimi "ona sama" li ken kama nimi "sama".
 * **esun** ***[@]*** *(KAMA)* - anstataŭa — substitute
   * *([NANPA](#nimi-nanpa))* sep - seven
   * *(lon ... pi)* - anstataŭ — instead of, in exchange for
-* **ijo** ***[io]*** ([IJO](#nimi-ijo)) - io — something
+* **ijo** ***[io]*** *([IJO](#nimi-ijo))* - io — something
   * *(e ... pi)* - pri — about
 * **ike** ~~ikeja~~ ***[ilkea]*** *(KAMA)* - malbona, superflua — bad, superfluous
 * **ilo** *([ILO](#nimi-ilo))* - io utila — something useful
-* **insa** ***[insajt]*** - io interna — something internal
+* **insa** ***[insajt]*** *(KAMA IJO)* - 
+  * *(KAMA)* - iternal — internal
+  * *([IJO](#nimi-ijo))* - io interna: centro — something internal: center
 * **jaki** ***[yucky]*** *(KAMA)* - malpura, fia — dirty, disgusting
 * **jan** ~~jen~~ ***[jen]*** *([SIJELO](#nimi-sijelo))* - konscia vivaĵo — konscia vivaĵo
 * **jelo** ***[yellow]*** *(KAMA)* - flava — yellow
@@ -950,7 +954,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **laso** ~~la~~ ***[glas]*** *(KAMA)* - blua, verda — blue, green
 * **lawa** ***[glava]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))* - gvida organo: kapo — guiding organ: head
   * *(lon ... pi)* - supre de — at the top of
-* **len** ***[leng]*** - io pendanta: vesto, io kovranta: kovrilo, privateco
+* **len** ***[leng]*** *(KAMA IJO)*
+  * *(KAMA)* - pendanta, kovranta — hanging, covering
+  * *([IJO](#nimi-ijo))* - io pendanta: vesto, io kovranta: kovrilo, privateco — something hanging: cloth, something covering: cover, privacy
 * **lete** ***[frete]*** *(KAMA)* - malvarma, kruda — cold, raw
 * **li** ***[li]*** *([ILO](#nimi-ilo))* - (predikato) — (predikato)
 * **lili** ***[lik-lik]*** *(KAMA)* - malgranda, malmulta — small, few
