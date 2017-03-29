@@ -937,7 +937,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **kasi** ***[kasvi]*** *(SIJELO)* - kreskanta vivaĵo: planto — growing living being: plant
 * **ken** ***[ken]*** *(KAMA)* - ebla — possible
   * *(SULI PINI)* - povi, kapabli, rajti — can, to be able to, to be allowed to
-* **kepeken** ***[xebrewken]*** *(KAMA PALISA)* - per — by means of
+* **kepeken** ***[xebrewken]*** *((KAMA PALISA)[#nimi-kama-palisa])* - per — by means of
 * **kili** ***[xili]*** *(WAN SIJELO)* - manĝebla organo: frukto, legomo, fungo — edible organ: fruit, vegetable, mushroom
 * **kiwen** ***[kiven]*** - io malmola: ŝtono — something hard: stone
 * **ko** ***[gow]*** - io duon-malmola: pasto, pulvoro — something semi-solid: dough, powder
@@ -957,7 +957,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **linja** ***[linja]*** - io longa kaj fleksebla: kordo, haro, ŝnuro, fadeno — something long and flexible: cord, hair, rope, thread
 * **lipu** ***[lippu]*** - io plata: karto, dokumento, papero, dosiero, libro — something flat: card, document, paper, file, book
 * **loje** ***[roje]*** *(KAMA)* - ruĝa — red
-* **lon** ~~alon~~ ***[along]*** *(KAMA PALISA)* - ĉe, laŭ, en — at, along, in
+* **lon** ~~alon~~ ***[along]*** *((KAMA PALISA)[#nimi-kama-palisa])* - ĉe, laŭ, en — at, along, in
 * **luka** ***[ruka]*** *(WAN SIJELO)* - tuŝa organo: mano, brako — touching organ: hand, arm
   * *(NANPA)* - kvin — five
 * **lukin** ***[luk-him]*** *(WAN SIJELO)* - vida organo: okulo — seeing organ: eye
@@ -971,7 +971,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **meli** ***[meri]*** *(SIJELO)* - ina vivaĵo: virino, edzino — female living being: woman, wife
 * **mi** ***[mi]*** *(IJO)* - mi, ni — I, we
 * **mije** ***[mies]*** *(SIJELO)* - vira vivaĵo: viro, edzo — male living being: man, husband
-* **moku** ***[mogu]*** *(KAMA PALISA)* - manĝi, trinki, gluti — to eat, to drink, to swallow
+* **moku** ***[mogu]*** *((KAMA PALISA)[#nimi-kama-palisa])* - manĝi, trinki, gluti — to eat, to drink, to swallow
 * **moli** ~~muli~~ ***[murir]*** *(KAMA)* - mortinta, malviva — dead
 * **monsi** ***[mon-ĉi]*** - malantaŭo — back
   * *(lon ... pi)* - malantaŭ — behind
@@ -1009,7 +1009,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **poki** ***[bokis]*** - io enhavanta: ujo — something containing: container
 * **pona** ***[bona]*** *(KAMA)* - bona, amika, simpla — good, friendly, simple@
 * **pu** ***[buk]*** *(KAMA)* - konsulti la Oficialan Libron de Tokipono — to interact with the Official Toki Pona Book
-* **sama** ***[sama]*** *(KAMA PALISA)* - kiel, parenca al — like, related to
+* **sama** ***[sama]*** *((KAMA PALISA)[#nimi-kama-palisa])* - kiel, parenca al — like, related to
 * **seli** ***[cxeli]*** *(KAMA)* - varma, arda — warm, hot
 * **selo** ***[ŝelo]*** *(WAN SIJELO)* - formanta organo: haŭto, ŝelo — forming organ: skin, shell
   * *(lon ... pi)* - sur, koncerne -n — on, affecting
@@ -1031,9 +1031,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **supa** ***[surfac]*** - io ebena kaj ponta: lito, seĝo, ponto — something even and bridging: bed, chair, bridge
   * *(lon ... pi)* - tra, trans — through, across
 * **suwi** ***[swit]*** - io dolĉa: dolĉaĵo — something sweet: sweets
-* **tan** ***[@]*** *(KAMA PALISA)* - de, pro — by, from, because of
+* **tan** ***[@]*** *((KAMA PALISA)[#nimi-kama-palisa])* - de, pro — by, from, because of
 * **taso** ***[dats-ol]*** *(KAMA)* - nura — only
-* **tawa** ~~towa~~ ***[towards]*** *(KAMA PALISA)* - al, por — to, toward, for
+* **tawa** ~~towa~~ ***[towards]*** *((KAMA PALISA)[#nimi-kama-palisa])* - al, por — to, toward, for
 * **telo** ***[de-l-o]*** - io likva, io malseka: akvo, trinkaĵo — something liquid, something wet: water, beverage
 * **tenpo** ***[tempo]*** - io @: tempo, daŭro, okazo, situacio — something @: time, duration, occasion, situation
 * **toki** ~~to~~ ***[tok]*** *(SULI PALISA)* - komuniki — to communicate
