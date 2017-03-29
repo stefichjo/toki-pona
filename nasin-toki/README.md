@@ -917,6 +917,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(NANPA)* sep - seven
   * *(lon ... pi)* - anstataŭ — instead of, in exchange for
 * **ijo** ***[io]*** (IJO) - io — something
+  * *(e ... pi)* - pri — about
 * **ike** ~~ikeja~~ ***[ilkea]*** *(KAMA)* - malbona, superflua — bad, superfluous
 * **ilo** ***[ilo]*** - io utila — something useful
 * **insa** ***[insajt]*** - io interna — something internal
@@ -1005,11 +1006,12 @@ nimi "ona sama" li ken kama nimi "sama".
 * **sama** ***[sama]*** *(KAMA PALISA)* - kiel, parenca al — like, related to
 * **seli** ***[cxeli]*** *(KAMA)* - varma, arda — warm, hot
 * **selo** ***[ŝelo]*** *(WAN SIJELO)* - formanta organo: haŭto, ŝelo — forming organ: skin, shell
+  * *(lon ... pi)* - sur, koncerne -n — on, affecting
 * **seme** ~~senme~~ ***[ŝenme]*** - kio — what
 * **sewi** ***[sevit]*** - io supera: ĉielo, Dio
   * *(lon ... pi)* - super — over
 * **sijelo** ***[tijelo]*** - io vivanta: vivaĵo, korpo — something living: living being, body
-* **sike** ***[sirkel]*** - io ronda: cirklo, globo — something round: circle, sphere
+* **sike** ***[sirkel]*** - io ronda: cirklo, globo, ĉirkaŭo — something round: circle, sphere, surroundings
   * *(lon ... pi)* - ĉirkaŭ — around
 * **sin** ***[ŝin]*** *(KAMA)* - plia, aldona, nova, freŝa — another, additional, new, fresh
 * **sina** ***[sina]*** *(IJO)* - vi — you
@@ -1021,6 +1023,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **suli** ***[suri]*** *(KAMA)* - granda, peza, grava, plenkreska — big, heavy, important, adult
 * **suno** ***[suno]*** - io hela: suno — something bright: sun
 * **supa** ***[surfac]*** - io ebena kaj ponta: lito, seĝo, ponto — something even and bridging: bed, chair, bridge
+  * *(lon ... pi)* - tra, trans — through, across
 * **suwi** ***[swit]*** - io dolĉa: dolĉaĵo — something sweet: sweets
 * **tan** ***[@]*** *(KAMA PALISA)* - de, pro — by, from, because of
 * **taso** ***[dats-ol]*** *(KAMA)* - nura — only
@@ -1041,4 +1044,4 @@ nimi "ona sama" li ken kama nimi "sama".
 * **wawa** ***[vahva]*** *(KAMA)* - forta — strong
 * **weka** ~~we~~ ***[wex]*** *(KAMA)* - fora — away, gone
   * *(lon ...)* - for — away
-* **wile** ***[wile]*** *(SULI PALISA)* - voli, bezoni, devi — want, to need, must
+* **wile** ***[wille]*** *(SULI PALISA)* - voli, bezoni, devi — want, to need, must
