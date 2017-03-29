@@ -903,7 +903,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **ala** ***[ara]*** - nenio — nothing
   * *(NANPA)* - nul — zero
 * **alasa** ***[@]*** *(SULI PALISA)* - ĉasi, kolekti — to hunt, to collect
-* **ale** ***[alle@]*** - ĉio — everything
+* **ale** ***[alle]*** - ĉio — everything
   * *(NANPA)* - senfine — countless
 * **anpa** ***[an-bas]*** *(KAMA)* - malalta — low
   * *(lon ... pi)* - sub — under
@@ -920,11 +920,11 @@ nimi "ona sama" li ken kama nimi "sama".
 * **ike** ~~ikeja~~ ***[ilkea]*** *(KAMA)* - malbona, superflua — bad, superfluous
 * **ilo** ***[ilo]*** - io utila — something useful
 * **insa** ***[insajt]*** - io interna — something internal
-* **jaki** ***[yucky@]*** *(KAMA)* - malpura, fia — dirty, disgusting
-* **jan** ***[@]*** *(SIJELO)* - konscia vivaĵo — konscia vivaĵo
+* **jaki** ***[yucky]*** *(KAMA)* - malpura, fia — dirty, disgusting
+* **jan** ~~jen~~ ***[jen]*** *(SIJELO)* - konscia vivaĵo — konscia vivaĵo
 * **jelo** ***[yellow]*** *(KAMA)* - flava — yellow
-* **jo** ***[@]*** *(SULI PALISA)* - havi — to have
-* **kala** ***[@]*** *(SIJELO)* - naĝanta vivaĵo: fiŝo, baleno — swimming living being: fish, baleno
+* **jo** ***[jow]*** *(SULI PALISA)* - havi — to have
+* **kala** ***[kala]*** *(SIJELO)* - naĝanta vivaĵo: fiŝo, baleno — swimming living being: fish, baleno
 * **kalama** ***[galama]*** *(KAMA)* - sona — sounding
 * **kama** ***[kam-ap]*** *(KAMA)* - alvena — arriving
   * *(SULI PINI)* - -iĝ-, sukcesi — to become, to succeed
@@ -943,21 +943,21 @@ nimi "ona sama" li ken kama nimi "sama".
 * **lape** ***[slape]*** *(KAMA)* - dormanta, ripozanta — sleeping, resting
 * **laso** ~~la~~ ***[glas]*** *(KAMA)* - blua, verda — blue, green
 * **lawa** ***[glava]*** *(WAN SIJELO)* - gvida organo: kapo — guiding organ: head
-  * *(lon ... pi)* - supre de — ...@
+  * *(lon ... pi)* - supre de — at the top of
 * **len** ***[leng]*** - io pendanta: vesto, io kovranta: kovrilo, privateco
 * **lete** ***[frete]*** *(KAMA)* - malvarma, kruda — cold, raw
 * **li** ***[li]*** *(ILO)* - (predikato) — (predikato)
 * **lili** ***[lik-lik]*** *(KAMA)* - malgranda, malmulta — small, few
-* **linja** ***[@]*** - io longa kaj fleksebla: kordo, haro, ŝnuro, fadeno — something long and flexible: cord, hair, rope, thread
-* **lipu** ***[@]*** - io plata: karto, dokumento, papero, dosiero, libro — something flat: card, document, paper, file, book
+* **linja** ***[linja]*** - io longa kaj fleksebla: kordo, haro, ŝnuro, fadeno — something long and flexible: cord, hair, rope, thread
+* **lipu** ***[lippu]*** - io plata: karto, dokumento, papero, dosiero, libro — something flat: card, document, paper, file, book
 * **loje** ***[roje]*** *(KAMA)* - ruĝa — red
-* **lon** ~~alon~~ ***[along]*** *(KAMA PALISA)* - ĉe, laŭ, en — at, along, in@
+* **lon** ~~alon~~ ***[along]*** *(KAMA PALISA)* - ĉe, laŭ, en — at, along, in
 * **luka** ***[ruka]*** *(WAN SIJELO)* - tuŝa organo: mano, brako — touching organ: hand, arm
   * *(NANPA)* - kvin — five
 * **lukin** ***[luk-him]*** *(WAN SIJELO)* - vida organo: okulo — seeing organ: eye
   * *(SULI PINI)* - provi — to try to
 * **lupa** ***[klupa]*** - io kava: truo, pordo — something hollow: hole, door
-* **ma** ***[@]*** - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero — something vast: earth, soil, land, field, world, territory, outdoors
+* **ma** ***[maa]*** - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero — something vast: earth, soil, land, field, world, territory, outdoors
   * *(lon ... pi)* - ekster — outside
 * **mama** ***[mama]*** *(SIJELO)* - zorganta vivaĵo — care-taking living being
 * **mani** ***[mani]*** - io valora: mono, ŝparaĵo, riĉeco, granda malsovaĝigita besto — something valueable: money, savings, wealth, large domesticated animal
@@ -976,9 +976,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **nasa** ***[nasaw]*** *(KAMA)* - stranga, freneza, ebria — strange, crazy, intoxicated
 * **nasin** ***[naĉin]*** - io interkonekta: vojo, pado, strato, metodo, kutimo, doktrino — something interconnecting: way, path, street, method, custom, doctrine
   * *(lon ... tan ... tawa ...)* - inter — between
-* **nena** ***[@]*** - io elstara: ĝibo, butono, monto, nazo — something outstanding: bump, button, mountain, nose
-* **ni** ***[@]*** - tio (ĉi) — that thing, this thing
-* **nimi** ***[@]*** - io atribuita: nomo, vorto — something attributed: name, word
+* **nena** ***[nena]*** - io elstara: ĝibo, butono, monto, nazo — something outstanding: bump, button, mountain, nose
+* **ni** ***[ni]*** - tio (ĉi) — that thing, this thing
+* **nimi** ***[nimi]*** - io atribuita: nomo, vorto — something attributed: name, word
 * **noka** ***[noga]*** *(WAN SIJELO)* - paŝa organo, treta organo: piedo, gambo — stepping organ, kicking organ: foot, leg
   * *(lon ... pi)* - ĉe la malsupro de — at the bottom of
 * **o** ***[ho]*** *(ILO)* - -u — (vocativo), (imperativo)
@@ -990,10 +990,10 @@ nimi "ona sama" li ken kama nimi "sama".
 * **palisa** ***[palica]*** - io longa kaj malmola: branĉo, bastono
   * *(WAN SIJELO)* - celanta organo: fingro — aiming organ: finger
 * **pan** ***[pan]*** - panherbaĵo, pano, nudeloj, rizo — cereal, bread, pasta
-* **pana** ***[@]*** *(SULI PALISA)* - doni, provizi, publikigi — to give, to provide, to publish@
+* **pana** ***[@]*** *(SULI PALISA)* - doni, provizi, publikigi — to give, to provide, to publish
 * **pi** ***[bi]*** *(ILO)* - (genitivo) — (genitive)
 * **pilin** ***[fil-him]*** *(WAN SIJELO)* - sentanta organo: koro — feeling organ: heart
-* **pimeja** ***[@]*** - malhela — dark
+* **pimeja** ***[pimeja]*** - malhela — dark
 * **pini** ***[fini]*** *(KAMA)* - finita, pasinta — finished, past
   * *(SULI PINI)* - fini, to stop
 * **pipi** ***[bibit]*** *(SIJELO)* - rampanta vivaĵo: insekto — crawling living being: insect
@@ -1012,7 +1012,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **sike** ***[sirkel]*** - io ronda: cirklo, globo — something round: circle, sphere
   * *(lon ... pi)* - ĉirkaŭ — around
 * **sin** ***[ŝin]*** *(KAMA)* - plia, aldona, nova, freŝa — another, additional, new, fresh
-* **sina** ***[@]*** *(IJO)* - vi — you
+* **sina** ***[sina]*** *(IJO)* - vi — you
 * **sinpin** ***[@]*** - io antaŭa: muro — something frontal: wall
   * *(lon ... pi)* - antaŭ — in front of
 * **sitelen** ***[ŝilderen]*** - io desegnita, io imagita, io skribita: bildo, ideo, simbolo — something drawn, something imagined,  something written: picture, idea, symbol
