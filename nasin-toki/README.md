@@ -943,7 +943,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *([SULI PINI](#nimi-suli-pini))* - povi, kapabli, rajti — can, to be able to, to be allowed to
 * **kepeken** ***[xebrewken]*** *([KAMA PALISA](#nimi-kama-palisa))* - per — by means of
 * **kili** ***[xili]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))* - manĝebla organo: frukto, legomo, fungo — edible organ: fruit, vegetable, mushroom
-* **kiwen** ***[kiven]***
+* **kiwen** ***[kiven]*** *(KAMA IJO)*
   * *(KAMA)* - malmola — hard
   * *([IJO](#nimi-ijo))* - io malmola: ŝtono — something hard: stone
 * **ko** ***[gow]*** *(KAMA IJO)*
