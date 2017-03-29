@@ -986,7 +986,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(lon ... pi)* - sub — under
 * **ante** *(KAMA)* - diversa — different
 * **anu** *(ILO)* - aŭ — or
-* **awen** *(SULI)* - daŭri — to endure
+* **awen** *(KAMA)* - daŭranta, atendanta, restanta — enduring, waiting, remaining
   * *(SULI PINI)* - plu- — to continue to
 * **e** *(ILO)* - -n — (accusative)
 * **en** *(ILO)* - kaj — and
@@ -1020,6 +1020,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **lape** *(KAMA)* - dormanta, ripozanta — sleeping, resting
 * **laso** *(KAMA)* - blua, verda — blue, green
 * **lawa** *(WAN SIJELO)* - gvida organo: kapo — guiding organ: head
+  * *(lon ... pi)* - supre de — ...@
 * **len** - io pendanta: vesto, io kovranta: kovrilo, privateco
 * **lete** *(KAMA)* - malvarma, kruda — cold, raw
 * **li** *(ILO)* - (predikato) — (predikato)
@@ -1054,13 +1055,13 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(lon ... tan ... tawa ...)* - inter — between
 * **nena** - io elstara: ĝibo, butono, monto, nazo — something outstanding: bump, button, mountain, nose
 * **ni** - tio (ĉi) — that thing, this thing
-* **nimi** - @ nomo, vorto — name, word
+* **nimi** - io atribuita: nomo, vorto — something attributed: name, word
 * **noka** *(WAN SIJELO)* - paŝa organo, treta organo: piedo, gambo — stepping organ, kicking organ: foot, leg
   * *(lon ... pi)* - ĉe la malsupro de — at the bottom of
 * **o** *(ILO)* - -u — (vocativo), (imperativo)
 * **olin** *(SULI PALISA)* - ami — to love
 * **ona** *(IJO)* - ŝi, li, ĝi, ili — she, he, it, they
-* **open** *(KAMA)* - malfermita — open@
+* **open** *(KAMA)* - malfermita — open
 * **pakala** *(KAMA)* - damaĝita, lezita — damaged, harmed
 * **pali** *(SULI PALISA)* - prilabori, krei, prepari — to work on, to create, to prepare
 * **palisa** - io longa kaj malmola: branĉo, bastono
@@ -1071,11 +1072,11 @@ nimi "ona sama" li ken kama nimi "sama".
 * **pilin** *(WAN SIJELO)* - sentanta organo: koro — feeling organ: heart
 * **pimeja** - malhela — dark
 * **pini** *(KAMA)* - finita, pasinta — finished, past
-  * *(SULI PINI)* - fini, to stop@
+  * *(SULI PINI)* - fini, to stop
 * **pipi** *(SIJELO)* - rampanta vivaĵo: insekto — crawling living being: insect
 * **poka** - io apuda: flanko — something lateral: side
   * *(lon ... pi)* - apud — next to
-* **poki** - io @: ujo — something @: container
+* **poki** - io enhavanta: ujo — something containing: container
 * **pona** *(KAMA)* - bona, amika, simpla — good, friendly, simple@
 * **pu** *(KAMA)* - konsulti la Oficialan Libron de Tokipono — to interact with the Official Toki Pona Book
 * **sama** *(KAMA PALISA)* - kiel, parenca al — like, related to
@@ -1096,11 +1097,25 @@ nimi "ona sama" li ken kama nimi "sama".
 * **soweli** *(SIJELO)* - varmsanga vivaĵo: mamulo — warm-blooded living being: mammal
 * **suli** *(KAMA)* - granda, peza, grava, plenkreska — big, heavy, important, adult
 * **suno** - io hela: suno — something bright: sun
-
-
-...
-
-
+* **supa** - io ebena kaj ponta: lito, seĝo, ponto — something even and bridging: bed, chair, bridge
+* **suwi** - io dolĉa: dolĉaĵo — something sweet: sweets
+* **tan** *(KAMA PALISA)* - de, pro — by, from, because of
+* **taso** *(KAMA)* - nura — only
+* **tawa** *(KAMA PALISA)* - al, por — to, toward, for
+* **telo** - io likva, io malseka: akvo, trinkaĵo — something liquid, something wet: water, beverage
+* **tenpo** - io @: tempo, daŭro, okazo, situacio — something @: time, duration, occasion, situation
+* **toki** *(SULI PALISA)* - komuniki — to communicate
+* **tomo** - io konstruita: domo, ĉambro — something built: house, room
+* **tu** - disa — apart
+  * *(NANPA)* - du — two
+* **unpa** *(SULI PALISA)* - seksumi kun, esti geedzo de — to have sexual relationships with, to be married to
 * **uta** *(WAN SIJELO)* - kisa organo: buŝo — kissing organ: mouth
-
-
+* **utala** *(SULI PALISA)* - batali, defii, kontraŭi — to battle, to challenge, to struggle against
+* **walo** *(KAMA)* - blanka — white
+* **wan** *(KAMA)* - unika, unueca — unique, united
+  * *(NANPA)* - unu — one
+* **waso** *(SIJELO)* - fluganta vivaĵo: birdo — flying living being: bird
+* **wawa** *(KAMA)* - forta — strong
+* **weka** *(KAMA)* - fora — away, gone
+  * *(lon ...)* - for — away
+* **wile** *(SULI PALISA)* - voli, bezoni, devi — want, to need, must
