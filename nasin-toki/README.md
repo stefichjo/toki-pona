@@ -904,7 +904,7 @@ nimi "ona sama" li ken kama nimi "sama".
 *(Vortaro — Dictionary)*
 
 * **a** ***[ha]*** *([KALAMA](#nimi-kalama))* - emocia interjekcio — emotional interjection
-* **akesi** ***[hagedis]*** *(SIJELO)* - malvarmsanga vivaĵo: reptilo, amfibio — cold-blooded living being: reptile, amphibian
+* **akesi** ***[hagedis]*** *([SIJELO](#nimi-sijelo))* - malvarmsanga vivaĵo: reptilo, amfibio — cold-blooded living being: reptile, amphibian
 * **ala** ***[ara]*** - nenio — nothing
   * *([NANPA](#nimi-nanpa))* - nul — zero
 * **alasa** ***[@]*** *([SULI PALISA](#nimi-suli-palisa))* - ĉasi, kolekti — to hunt, to collect
@@ -921,34 +921,34 @@ nimi "ona sama" li ken kama nimi "sama".
 * **esun** ***[@]*** *(KAMA)* - anstataŭa — substitute
   * *([NANPA](#nimi-nanpa))* sep - seven
   * *(lon ... pi)* - anstataŭ — instead of, in exchange for
-* **ijo** ***[io]*** (IJO) - io — something
+* **ijo** ***[io]*** ([IJO](#nimi-ijo)) - io — something
   * *(e ... pi)* - pri — about
 * **ike** ~~ikeja~~ ***[ilkea]*** *(KAMA)* - malbona, superflua — bad, superfluous
 * **ilo** *([ILO](#nimi-ilo))* - io utila — something useful
 * **insa** ***[insajt]*** - io interna — something internal
 * **jaki** ***[yucky]*** *(KAMA)* - malpura, fia — dirty, disgusting
-* **jan** ~~jen~~ ***[jen]*** *(SIJELO)* - konscia vivaĵo — konscia vivaĵo
+* **jan** ~~jen~~ ***[jen]*** *([SIJELO](#nimi-sijelo))* - konscia vivaĵo — konscia vivaĵo
 * **jelo** ***[yellow]*** *(KAMA)* - flava — yellow
 * **jo** ***[jow]*** *([SULI PALISA](#nimi-suli-palisa))* - havi — to have
-* **kala** ***[kala]*** *(SIJELO)* - naĝanta vivaĵo: fiŝo, baleno — swimming living being: fish, baleno
+* **kala** ***[kala]*** *([SIJELO](#nimi-sijelo))* - naĝanta vivaĵo: fiŝo, baleno — swimming living being: fish, baleno
 * **kalama** ***[galama]*** *(KAMA)* - sona — sounding
 * **kama** ***[kam-ap]*** *(KAMA)* - alvena — arriving
   * *(SULI PINI)* - -iĝ-, sukcesi — to become, to succeed
-* **kasi** ***[kasvi]*** *(SIJELO)* - kreskanta vivaĵo: planto — growing living being: plant
+* **kasi** ***[kasvi]*** *([SIJELO](#nimi-sijelo))* - kreskanta vivaĵo: planto — growing living being: plant
 * **ken** ***[ken]*** *(KAMA)* - ebla — possible
   * *(SULI PINI)* - povi, kapabli, rajti — can, to be able to, to be allowed to
 * **kepeken** ***[xebrewken]*** *([KAMA PALISA](#nimi-kama-palisa))* - per — by means of
-* **kili** ***[xili]*** *(WAN SIJELO)* - manĝebla organo: frukto, legomo, fungo — edible organ: fruit, vegetable, mushroom
+* **kili** ***[xili]*** *(WAN SIJELO](#nimi-pi-wan-sijelo))* - manĝebla organo: frukto, legomo, fungo — edible organ: fruit, vegetable, mushroom
 * **kiwen** ***[kiven]*** - io malmola: ŝtono — something hard: stone
 * **ko** ***[gow]*** - io duon-malmola: pasto, pulvoro — something semi-solid: dough, powder
 * **kon** ***[kong]*** - io ŝvebanta: aero, spirito, kaŝita realo, esenco — something hovering: air, spirit, hidden reality, essence
 * **kule** ***[kuler]*** *(KAMA)* - kolora, pentrita — colorful, painted
-* **kulupu** ***[grup]*** *(SIJELO)* - svarma vivaĵo: komunumo, kompanio, grupo, nacio, socio, tribo — swarm-like living being: community, company, group, nation, society, tribe
-* **kute** ~~ekute~~ ***[ekute]*** *(WAN SIJELO)* - aŭda organo: orelo — hearing organ: ear
+* **kulupu** ***[grup]*** *([SIJELO](#nimi-sijelo))* - svarma vivaĵo: komunumo, kompanio, grupo, nacio, socio, tribo — swarm-like living being: community, company, group, nation, society, tribe
+* **kute** ~~ekute~~ ***[ekute]*** *(WAN SIJELO](#nimi-pi-wan-sijelo))* - aŭda organo: orelo — hearing organ: ear
 * **la** ***[la]*** *([ILO](#nimi-ilo))* - (kunteksto) — (context)
 * **lape** ***[slape]*** *(KAMA)* - dormanta, ripozanta — sleeping, resting
 * **laso** ~~la~~ ***[glas]*** *(KAMA)* - blua, verda — blue, green
-* **lawa** ***[glava]*** *(WAN SIJELO)* - gvida organo: kapo — guiding organ: head
+* **lawa** ***[glava]*** *(WAN SIJELO](#nimi-pi-wan-sijelo))* - gvida organo: kapo — guiding organ: head
   * *(lon ... pi)* - supre de — at the top of
 * **len** ***[leng]*** - io pendanta: vesto, io kovranta: kovrilo, privateco
 * **lete** ***[frete]*** *(KAMA)* - malvarma, kruda — cold, raw
@@ -958,19 +958,19 @@ nimi "ona sama" li ken kama nimi "sama".
 * **lipu** ***[lippu]*** - io plata: karto, dokumento, papero, dosiero, libro — something flat: card, document, paper, file, book
 * **loje** ***[roje]*** *(KAMA)* - ruĝa — red
 * **lon** ~~alon~~ ***[along]*** *([KAMA PALISA](#nimi-kama-palisa))* - ĉe, laŭ, en — at, along, in
-* **luka** ***[ruka]*** *(WAN SIJELO)* - tuŝa organo: mano, brako — touching organ: hand, arm
+* **luka** ***[ruka]*** *(WAN SIJELO](#nimi-pi-wan-sijelo))* - tuŝa organo: mano, brako — touching organ: hand, arm
   * *([NANPA](#nimi-nanpa))* - kvin — five
-* **lukin** ***[luk-him]*** *(WAN SIJELO)* - vida organo: okulo — seeing organ: eye
+* **lukin** ***[luk-him]*** *(WAN SIJELO](#nimi-pi-wan-sijelo))* - vida organo: okulo — seeing organ: eye
   * *(SULI PINI)* - provi — to try to
   * *(lon ... pi)* - antaŭ, ĉe, kontraŭ — before, against
 * **lupa** ***[klupa]*** - io kava: truo, pordo — something hollow: hole, door
 * **ma** ***[maa]*** - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero — something vast: earth, soil, land, field, world, territory, outdoors
   * *(lon ... pi)* - ekster — outside
-* **mama** ***[mama]*** *(SIJELO)* - zorganta vivaĵo — care-taking living being
+* **mama** ***[mama]*** *([SIJELO](#nimi-sijelo))* - zorganta vivaĵo — care-taking living being
 * **mani** ***[mani]*** - io valora: mono, ŝparaĵo, riĉeco, granda malsovaĝigita besto — something valueable: money, savings, wealth, large domesticated animal
-* **meli** ***[meri]*** *(SIJELO)* - ina vivaĵo: virino, edzino — female living being: woman, wife
-* **mi** ***[mi]*** *(IJO)* - mi, ni — I, we
-* **mije** ***[mies]*** *(SIJELO)* - vira vivaĵo: viro, edzo — male living being: man, husband
+* **meli** ***[meri]*** *([SIJELO](#nimi-sijelo))* - ina vivaĵo: virino, edzino — female living being: woman, wife
+* **mi** ***[mi]*** *([IJO](#nimi-ijo))* - mi, ni — I, we
+* **mije** ***[mies]*** *([SIJELO](#nimi-sijelo))* - vira vivaĵo: viro, edzo — male living being: man, husband
 * **moku** ***[mogu]*** *([KAMA PALISA](#nimi-kama-palisa))* - manĝi, trinki, gluti — to eat, to drink, to swallow
 * **moli** ~~muli~~ ***[murir]*** *(KAMA)* - mortinta, malviva — dead
 * **monsi** ***[mon-ĉi]*** - malantaŭo — back
@@ -986,24 +986,24 @@ nimi "ona sama" li ken kama nimi "sama".
 * **nena** ***[nena]*** - io elstara: ĝibo, butono, monto, nazo — something outstanding: bump, button, mountain, nose
 * **ni** ***[ni]*** - tio (ĉi) — that thing, this thing
 * **nimi** ***[nimi]*** - io atribuita: nomo, vorto — something attributed: name, word
-* **noka** ***[noga]*** *(WAN SIJELO)* - paŝa organo, treta organo: piedo, gambo — stepping organ, kicking organ: foot, leg
+* **noka** ***[noga]*** *(WAN SIJELO](#nimi-pi-wan-sijelo))* - paŝa organo, treta organo: piedo, gambo — stepping organ, kicking organ: foot, leg
   * *(lon ... pi)* - ĉe la malsupro de — at the bottom of
 * **o** ***[ho]*** *([ILO](#nimi-ilo))* - -u — (vocativo), (imperativo)
 * **olin** ***[volim]*** *([SULI PALISA](#nimi-suli-palisa))* - ami — to love
-* **ona** ***[ona]*** *(IJO)* - ŝi, li, ĝi, ili — she, he, it, they
+* **ona** ***[ona]*** *([IJO](#nimi-ijo))* - ŝi, li, ĝi, ili — she, he, it, they
 * **open** ***[open]*** *(KAMA)* - malfermita — open
 * **pakala** ***[bagar-ap]*** *(KAMA)* - damaĝita, lezita — damaged, harmed
 * **pali** ***[fari]*** *([SULI PALISA](#nimi-suli-palisa))* - prilabori, krei, prepari — to work on, to create, to prepare
 * **palisa** ***[palica]*** - io longa kaj malmola: branĉo, bastono
-  * *(WAN SIJELO)* - celanta organo: fingro — aiming organ: finger
+  * *(WAN SIJELO](#nimi-pi-wan-sijelo))* - celanta organo: fingro — aiming organ: finger
 * **pan** ***[pan]*** - panherbaĵo, pano, nudeloj, rizo — cereal, bread, pasta
 * **pana** ***[@]*** *([SULI PALISA](#nimi-suli-palisa))* - doni, provizi, publikigi — to give, to provide, to publish
 * **pi** ***[bi]*** *([ILO](#nimi-ilo))* - (genitivo) — (genitive)
-* **pilin** ***[fil-him]*** *(WAN SIJELO)* - sentanta organo: koro — feeling organ: heart
+* **pilin** ***[fil-him]*** *(WAN SIJELO](#nimi-pi-wan-sijelo))* - sentanta organo: koro — feeling organ: heart
 * **pimeja** ***[pimeja]*** - malhela — dark
 * **pini** ***[fini]*** *(KAMA)* - finita, pasinta — finished, past
   * *(SULI PINI)* - fini, to stop
-* **pipi** ***[bibit]*** *(SIJELO)* - rampanta vivaĵo: insekto — crawling living being: insect
+* **pipi** ***[bibit]*** *([SIJELO](#nimi-sijelo))* - rampanta vivaĵo: insekto — crawling living being: insect
 * **poka** ~~po~~ ***[bok]*** - io apuda: flanko — something lateral: side
   * *(lon ... pi)* - apud — next to
 * **poki** ***[bokis]*** - io enhavanta: ujo — something containing: container
@@ -1011,7 +1011,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **pu** ***[buk]*** *(KAMA)* - konsulti la Oficialan Libron de Tokipono — to interact with the Official Toki Pona Book
 * **sama** ***[sama]*** *([KAMA PALISA](#nimi-kama-palisa))* - kiel, parenca al — like, related to
 * **seli** ***[cxeli]*** *(KAMA)* - varma, arda — warm, hot
-* **selo** ***[ŝelo]*** *(WAN SIJELO)* - formanta organo: haŭto, ŝelo — forming organ: skin, shell
+* **selo** ***[ŝelo]*** *(WAN SIJELO](#nimi-pi-wan-sijelo))* - formanta organo: haŭto, ŝelo — forming organ: skin, shell
   * *(lon ... pi)* - sur, koncerne -n — on, affecting
 * **seme** ~~senme~~ ***[ŝenme]*** - kio — what
 * **sewi** ***[sevit]*** - io supera: ĉielo, Dio
@@ -1020,12 +1020,12 @@ nimi "ona sama" li ken kama nimi "sama".
 * **sike** ***[sirkel]*** - io ronda: cirklo, globo, ĉirkaŭo — something round: circle, sphere, surroundings
   * *(lon ... pi)* - ĉirkaŭ — around
 * **sin** ***[ŝin]*** *(KAMA)* - plia, aldona, nova, freŝa — another, additional, new, fresh
-* **sina** ***[sina]*** *(IJO)* - vi — you
+* **sina** ***[sina]*** *([IJO](#nimi-ijo))* - vi — you
 * **sinpin** ***[@]*** - io antaŭa: muro — something frontal: wall
   * *(lon ... pi)* - antaŭ — in front of
 * **sitelen** ***[ŝilderen]*** - io desegnita, io imagita, io skribita: bildo, ideo, simbolo — something drawn, something imagined,  something written: picture, idea, symbol
 * **sona** ***[codna]*** *([SULI PALISA](#nimi-suli-palisa))* - scii, esti lerta — to know, to be skilled in
-* **soweli** ***[cxoveli]*** *(SIJELO)* - varmsanga vivaĵo: mamulo — warm-blooded living being: mammal
+* **soweli** ***[cxoveli]*** *([SIJELO](#nimi-sijelo))* - varmsanga vivaĵo: mamulo — warm-blooded living being: mammal
 * **suli** ***[suri]*** *(KAMA)* - granda, peza, grava, plenkreska — big, heavy, important, adult
 * **suno** ***[suno]*** - io hela: suno — something bright: sun
 * **supa** ***[surfac]*** - io ebena kaj ponta: lito, seĝo, ponto — something even and bridging: bed, chair, bridge
@@ -1041,12 +1041,12 @@ nimi "ona sama" li ken kama nimi "sama".
 * **tu** ***[tu]*** - disa — apart
   * *([NANPA](#nimi-nanpa))* - du — two
 * **unpa** ***[@]*** *([SULI PALISA](#nimi-suli-palisa))* - seksumi kun, esti geedzo de — to have sexual relationships with, to be married to
-* **uta** ***[usta]*** *(WAN SIJELO)* - kisa organo: buŝo — kissing organ: mouth
+* **uta** ***[usta]*** *(WAN SIJELO](#nimi-pi-wan-sijelo))* - kisa organo: buŝo — kissing organ: mouth
 * **utala** ~~utalasi~~ ***[udarati]*** *([SULI PALISA](#nimi-suli-palisa))* - batali, defii, kontraŭi — to battle, to challenge, to struggle against
 * **walo** ***[valko]*** *(KAMA)* - blanka — white
 * **wan** ***[wan]*** *(KAMA)* - unika, unueca — unique, united
   * *([NANPA](#nimi-nanpa))* - unu — one
-* **waso** ***[wazo]*** *(SIJELO)* - fluganta vivaĵo: birdo — flying living being: bird
+* **waso** ***[wazo]*** *([SIJELO](#nimi-sijelo))* - fluganta vivaĵo: birdo — flying living being: bird
 * **wawa** ***[vahva]*** *(KAMA)* - forta — strong
 * **weka** ~~we~~ ***[wex]*** *(KAMA)* - fora — away, gone
   * *(lon ...)* - for — away
