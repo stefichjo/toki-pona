@@ -903,13 +903,13 @@ nimi "ona sama" li ken kama nimi "sama".
 # ale pi nimi mute
 *(Vortaro — Dictionary)*
 
-* **a** ***[ha]*** *([KALAMA](#nimi-kalama))* - emocia sonimito — emotional onomatopoeia
+* **a** ***[ha]*** *([KALAMA](#nimi-kalama))* - emocia interjekcio — emotional interjection
 * **akesi** ***[hagedis]*** *(SIJELO)* - malvarmsanga vivaĵo: reptilo, amfibio — cold-blooded living being: reptile, amphibian
 * **ala** ***[ara]*** - nenio — nothing
-  * *(NANPA)* - nul — zero
-* **alasa** ***[@]*** *(SULI PALISA)* - ĉasi, kolekti — to hunt, to collect
+  * *([NANPA](#nimi-nanpa))* - nul — zero
+* **alasa** ***[@]*** *([SULI PALISA](#nimi-suli-palisa))* - ĉasi, kolekti — to hunt, to collect
 * **ale** ***[alle]*** - ĉio — everything
-  * *(NANPA)* - senfine — countless
+  * *([NANPA](#nimi-nanpa))* - senfine — countless
 * **anpa** ***[an-bas]*** *(KAMA)* - malalta — low
   * *(lon ... pi)* - sub — under
 * **ante** ***[ander]*** *(KAMA)* - alia — different
@@ -919,7 +919,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **e** ***[@]*** *([ILO](#nimi-ilo))* - -n — (accusative)
 * **en** ***[en]*** *([ILO](#nimi-ilo))* - kaj — and
 * **esun** ***[@]*** *(KAMA)* - anstataŭa — substitute
-  * *(NANPA)* sep - seven
+  * *([NANPA](#nimi-nanpa))* sep - seven
   * *(lon ... pi)* - anstataŭ — instead of, in exchange for
 * **ijo** ***[io]*** (IJO) - io — something
   * *(e ... pi)* - pri — about
@@ -929,7 +929,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **jaki** ***[yucky]*** *(KAMA)* - malpura, fia — dirty, disgusting
 * **jan** ~~jen~~ ***[jen]*** *(SIJELO)* - konscia vivaĵo — konscia vivaĵo
 * **jelo** ***[yellow]*** *(KAMA)* - flava — yellow
-* **jo** ***[jow]*** *(SULI PALISA)* - havi — to have
+* **jo** ***[jow]*** *([SULI PALISA](#nimi-suli-palisa))* - havi — to have
 * **kala** ***[kala]*** *(SIJELO)* - naĝanta vivaĵo: fiŝo, baleno — swimming living being: fish, baleno
 * **kalama** ***[galama]*** *(KAMA)* - sona — sounding
 * **kama** ***[kam-ap]*** *(KAMA)* - alvena — arriving
@@ -959,7 +959,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **loje** ***[roje]*** *(KAMA)* - ruĝa — red
 * **lon** ~~alon~~ ***[along]*** *([KAMA PALISA](#nimi-kama-palisa))* - ĉe, laŭ, en — at, along, in
 * **luka** ***[ruka]*** *(WAN SIJELO)* - tuŝa organo: mano, brako — touching organ: hand, arm
-  * *(NANPA)* - kvin — five
+  * *([NANPA](#nimi-nanpa))* - kvin — five
 * **lukin** ***[luk-him]*** *(WAN SIJELO)* - vida organo: okulo — seeing organ: eye
   * *(SULI PINI)* - provi — to try to
   * *(lon ... pi)* - antaŭ, ĉe, kontraŭ — before, against
@@ -975,7 +975,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **moli** ~~muli~~ ***[murir]*** *(KAMA)* - mortinta, malviva — dead
 * **monsi** ***[mon-ĉi]*** - malantaŭo — back
   * *(lon ... pi)* - malantaŭ — behind
-* **mu** ***[mu]*** *([KALAMA](#nimi-kalama))* - indiferenta sonimito: bla, miaŭ — indifferent onomatopoeia: blah, meeow
+* **mu** ***[mu]*** *([KALAMA](#nimi-kalama))* - indiferenta interjekcio: bla, miaŭ — indifferent interjection: blah, meeow
 * **mun** ***[mun]*** - io ĉielpromenanta: luno, stelo — something sky-walking: moon, star
 * **musi** ~~amusi~~ ***[amuzi]*** *(KAMA)* - ludanta — playing
 * **mute** ***[multe]*** *(KAMA)* - multa — many
@@ -989,15 +989,15 @@ nimi "ona sama" li ken kama nimi "sama".
 * **noka** ***[noga]*** *(WAN SIJELO)* - paŝa organo, treta organo: piedo, gambo — stepping organ, kicking organ: foot, leg
   * *(lon ... pi)* - ĉe la malsupro de — at the bottom of
 * **o** ***[ho]*** *([ILO](#nimi-ilo))* - -u — (vocativo), (imperativo)
-* **olin** ***[volim]*** *(SULI PALISA)* - ami — to love
+* **olin** ***[volim]*** *([SULI PALISA](#nimi-suli-palisa))* - ami — to love
 * **ona** ***[ona]*** *(IJO)* - ŝi, li, ĝi, ili — she, he, it, they
 * **open** ***[open]*** *(KAMA)* - malfermita — open
 * **pakala** ***[bagar-ap]*** *(KAMA)* - damaĝita, lezita — damaged, harmed
-* **pali** ***[fari]*** *(SULI PALISA)* - prilabori, krei, prepari — to work on, to create, to prepare
+* **pali** ***[fari]*** *([SULI PALISA](#nimi-suli-palisa))* - prilabori, krei, prepari — to work on, to create, to prepare
 * **palisa** ***[palica]*** - io longa kaj malmola: branĉo, bastono
   * *(WAN SIJELO)* - celanta organo: fingro — aiming organ: finger
 * **pan** ***[pan]*** - panherbaĵo, pano, nudeloj, rizo — cereal, bread, pasta
-* **pana** ***[@]*** *(SULI PALISA)* - doni, provizi, publikigi — to give, to provide, to publish
+* **pana** ***[@]*** *([SULI PALISA](#nimi-suli-palisa))* - doni, provizi, publikigi — to give, to provide, to publish
 * **pi** ***[bi]*** *([ILO](#nimi-ilo))* - (genitivo) — (genitive)
 * **pilin** ***[fil-him]*** *(WAN SIJELO)* - sentanta organo: koro — feeling organ: heart
 * **pimeja** ***[pimeja]*** - malhela — dark
@@ -1024,7 +1024,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **sinpin** ***[@]*** - io antaŭa: muro — something frontal: wall
   * *(lon ... pi)* - antaŭ — in front of
 * **sitelen** ***[ŝilderen]*** - io desegnita, io imagita, io skribita: bildo, ideo, simbolo — something drawn, something imagined,  something written: picture, idea, symbol
-* **sona** ***[codna]*** *(SULI PALISA)* - scii, esti lerta — to know, to be skilled in
+* **sona** ***[codna]*** *([SULI PALISA](#nimi-suli-palisa))* - scii, esti lerta — to know, to be skilled in
 * **soweli** ***[cxoveli]*** *(SIJELO)* - varmsanga vivaĵo: mamulo — warm-blooded living being: mammal
 * **suli** ***[suri]*** *(KAMA)* - granda, peza, grava, plenkreska — big, heavy, important, adult
 * **suno** ***[suno]*** - io hela: suno — something bright: sun
@@ -1036,18 +1036,18 @@ nimi "ona sama" li ken kama nimi "sama".
 * **tawa** ~~towa~~ ***[towards]*** *([KAMA PALISA](#nimi-kama-palisa))* - al, por — to, toward, for
 * **telo** ***[de-l-o]*** - io likva, io malseka: akvo, trinkaĵo — something liquid, something wet: water, beverage
 * **tenpo** ***[tempo]*** - io @: tempo, daŭro, okazo, situacio — something @: time, duration, occasion, situation
-* **toki** ~~to~~ ***[tok]*** *(SULI PALISA)* - komuniki — to communicate
+* **toki** ~~to~~ ***[tok]*** *([SULI PALISA](#nimi-suli-palisa))* - komuniki — to communicate
 * **tomo** ***[domo]*** - io konstruita: domo, ĉambro — something built: house, room
 * **tu** ***[tu]*** - disa — apart
-  * *(NANPA)* - du — two
-* **unpa** ***[@]*** *(SULI PALISA)* - seksumi kun, esti geedzo de — to have sexual relationships with, to be married to
+  * *([NANPA](#nimi-nanpa))* - du — two
+* **unpa** ***[@]*** *([SULI PALISA](#nimi-suli-palisa))* - seksumi kun, esti geedzo de — to have sexual relationships with, to be married to
 * **uta** ***[usta]*** *(WAN SIJELO)* - kisa organo: buŝo — kissing organ: mouth
-* **utala** ~~utalasi~~ ***[udarati]*** *(SULI PALISA)* - batali, defii, kontraŭi — to battle, to challenge, to struggle against
+* **utala** ~~utalasi~~ ***[udarati]*** *([SULI PALISA](#nimi-suli-palisa))* - batali, defii, kontraŭi — to battle, to challenge, to struggle against
 * **walo** ***[valko]*** *(KAMA)* - blanka — white
 * **wan** ***[wan]*** *(KAMA)* - unika, unueca — unique, united
-  * *(NANPA)* - unu — one
+  * *([NANPA](#nimi-nanpa))* - unu — one
 * **waso** ***[wazo]*** *(SIJELO)* - fluganta vivaĵo: birdo — flying living being: bird
 * **wawa** ***[vahva]*** *(KAMA)* - forta — strong
 * **weka** ~~we~~ ***[wex]*** *(KAMA)* - fora — away, gone
   * *(lon ...)* - for — away
-* **wile** ***[wille]*** *(SULI PALISA)* - voli, bezoni, devi — want, to need, must
+* **wile** ***[wille]*** *([SULI PALISA](#nimi-suli-palisa))* - voli, bezoni, devi — want, to need, must
