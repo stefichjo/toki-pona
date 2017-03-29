@@ -903,7 +903,7 @@ nimi "ona sama" li ken kama nimi "sama".
 # ale pi nimi mute
 *(Vortaro — Dictionary)*
 
-* **a** ***[ha]*** *(MU)* - emocia sonimito — emotional onomatopoeia
+* **a** ***[ha]*** *([KALAMA](#nimi-kalama))* - emocia sonimito — emotional onomatopoeia
 * **akesi** ***[hagedis]*** *(SIJELO)* - malvarmsanga vivaĵo: reptilo, amfibio — cold-blooded living being: reptile, amphibian
 * **ala** ***[ara]*** - nenio — nothing
   * *(NANPA)* - nul — zero
@@ -975,7 +975,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **moli** ~~muli~~ ***[murir]*** *(KAMA)* - mortinta, malviva — dead
 * **monsi** ***[mon-ĉi]*** - malantaŭo — back
   * *(lon ... pi)* - malantaŭ — behind
-* **mu** ***[mu]*** *(MU)* - indiferenta sonimito: bla, miaŭ — indifferent onomatopoeia: blah, meeow
+* **mu** ***[mu]*** *([KALAMA](#nimi-kalama))* - indiferenta sonimito: bla, miaŭ — indifferent onomatopoeia: blah, meeow
 * **mun** ***[mun]*** - io ĉielpromenanta: luno, stelo — something sky-walking: moon, star
 * **musi** ~~amusi~~ ***[amuzi]*** *(KAMA)* - ludanta — playing
 * **mute** ***[multe]*** *(KAMA)* - multa — many
