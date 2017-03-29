@@ -915,7 +915,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **ante** ***[ander]*** *(KAMA)* - alia — different
 * **anu** ~~an~~ ***[an]*** *([ILO](#nimi-ilo))* - aŭ — or
 * **awen** ***[hawen]*** *(KAMA)* - daŭranta, atendanta, restanta — enduring, waiting, remaining
-  * *(SULI PINI)* - plu- — to continue to
+  * *([SULI PINI](#nimi-suli-pini))* - plu- — to continue to
 * **e** ***[@]*** *([ILO](#nimi-ilo))* - -n — (accusative)
 * **en** ***[en]*** *([ILO](#nimi-ilo))* - kaj — and
 * **esun** ***[@]*** *(KAMA)* - anstataŭa — substitute
@@ -933,10 +933,10 @@ nimi "ona sama" li ken kama nimi "sama".
 * **kala** ***[kala]*** *([SIJELO](#nimi-sijelo))* - naĝanta vivaĵo: fiŝo, baleno — swimming living being: fish, baleno
 * **kalama** ***[galama]*** *(KAMA)* - sona — sounding
 * **kama** ***[kam-ap]*** *(KAMA)* - alvena — arriving
-  * *(SULI PINI)* - -iĝ-, sukcesi — to become, to succeed
+  * *([SULI PINI](#nimi-suli-pini))* - -iĝ-, sukcesi — to become, to succeed
 * **kasi** ***[kasvi]*** *([SIJELO](#nimi-sijelo))* - kreskanta vivaĵo: planto — growing living being: plant
 * **ken** ***[ken]*** *(KAMA)* - ebla — possible
-  * *(SULI PINI)* - povi, kapabli, rajti — can, to be able to, to be allowed to
+  * *([SULI PINI](#nimi-suli-pini))* - povi, kapabli, rajti — can, to be able to, to be allowed to
 * **kepeken** ***[xebrewken]*** *([KAMA PALISA](#nimi-kama-palisa))* - per — by means of
 * **kili** ***[xili]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))* - manĝebla organo: frukto, legomo, fungo — edible organ: fruit, vegetable, mushroom
 * **kiwen** ***[kiven]*** - io malmola: ŝtono — something hard: stone
@@ -961,7 +961,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **luka** ***[ruka]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))* - tuŝa organo: mano, brako — touching organ: hand, arm
   * *([NANPA](#nimi-nanpa))* - kvin — five
 * **lukin** ***[luk-him]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))* - vida organo: okulo — seeing organ: eye
-  * *(SULI PINI)* - provi — to try to
+  * *([SULI PINI](#nimi-suli-pini))* - provi — to try to
   * *(lon ... pi)* - antaŭ, ĉe, kontraŭ — before, against
 * **lupa** ***[klupa]*** - io kava: truo, pordo — something hollow: hole, door
 * **ma** ***[maa]*** - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero — something vast: earth, soil, land, field, world, territory, outdoors
@@ -1002,7 +1002,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **pilin** ***[fil-him]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))* - sentanta organo: koro — feeling organ: heart
 * **pimeja** ***[pimeja]*** - malhela — dark
 * **pini** ***[fini]*** *(KAMA)* - finita, pasinta — finished, past
-  * *(SULI PINI)* - fini, to stop
+  * *([SULI PINI](#nimi-suli-pini))* - fini, to stop
 * **pipi** ***[bibit]*** *([SIJELO](#nimi-sijelo))* - rampanta vivaĵo: insekto — crawling living being: insect
 * **poka** ~~po~~ ***[bok]*** - io apuda: flanko — something lateral: side
   * *(lon ... pi)* - apud — next to
