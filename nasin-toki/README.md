@@ -941,7 +941,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **jan** ~~jen~~ ***[jen]*** *([SIJELO](#nimi-sijelo))* - konscia vivaĵo — konscia vivaĵo
 * **jelo** ***[yellow]*** *(SULI)* - flava — yellow
 * **jo** ***[jow]*** *([WAWA PALISA](#nimi-wawa-palisa))* - havi — to have
-* **kala** ***[kala]*** *([SIJELO](#nimi-sijelo))* - naĝanta vivaĵo: fiŝo, baleno — swimming living being: fish, baleno
+* **kala** ***[kala]*** *([SIJELO](#nimi-sijelo))*
+  * *([KAMA PALISA](#nimi-kama-palisa))* - naĝi en — swimming in
+  * *(LAWA)* - naĝanta vivaĵo: fiŝo, baleno — swimming living being: fish, baleno
 * **kalama** ***[galama]*** *(SULI)* - sona — sounding
 * **kama** ***[kam-ap]*** *(SULI)* - alvena — arriving
   * *([WAWA PINI](#nimi-wawa-pini))* - -iĝ-, sukcesi — to become, to succeed
@@ -1066,7 +1068,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **pini** ***[fini]*** *(SULI)* - finita, pasinta — finished, past
   * *([WAWA PINI](#nimi-wawa-pini))* - fini, to stop
   * *(lon ... pi)* - malantaŭ — after
-* **pipi** ***[bibit]*** *([SIJELO](#nimi-sijelo))* - rampanta vivaĵo: insekto — crawling living being: insect
+* **pipi** ***[bibit]*** *([SIJELO](#nimi-sijelo))*
+  * *([KAMA PALISA](#nimi-kama-palisa))* - rampi sur — crawling on
+  * *(LAWA)* - rampanta vivaĵo: insekto — crawling living being: insect
 * **poka** ~~po~~ ***[bok]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - apuda — lateral
   * *(LAWA)* - io apuda: flanko — something lateral: side
