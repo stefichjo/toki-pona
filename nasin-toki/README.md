@@ -1194,6 +1194,7 @@ nimi "ona sama" li ken kama nimi "sama".
     * *(KAMA)* - fluganta — flying
   * *(LAWA)* - fluganta vivaĵo: birdo — flying living being: bird
 * **wawa** ***[vahva]*** *(SULI)* - forta — strong
-* **weka** ~~we~~ ***[wex]*** *(SULI)* - fora — away, gone
-  * *(lon ...)* - for — away
+* **weka** ~~we~~ ***[wex]*** *([KAMA PALISA](#nimi-kama-palisa))* - fore de — away from
+  * *(KAMA)* - fora, distanca — away, gone, distant
+  * *(lon ...)* - for — away@
 * **wile** ***[wille]*** *([WAWA PALISA](#nimi-wawa-palisa))* - voli, bezoni, devi — want, to need, must
