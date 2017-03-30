@@ -950,7 +950,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **kama** ***[kam-ap]*** *(SULI)* - alvena — arriving
   * *([WAWA PINI](#nimi-wawa-pini))* - -iĝ-, sukcesi — to become, to succeed
   * *(lon ... pi)* - antaŭ — before
-* **kasi** ***[kasvi]*** *([SIJELO](#nimi-sijelo))* - kreskanta vivaĵo: planto — growing living being: plant
+* **kasi** ***[kasvi]*** *([SIJELO](#nimi-sijelo))*
+  * *([KAMA PALISA](#nimi-kama-palisa))* - kreski sur — growing on
+  * *(LAWA)* - kreskanta vivaĵo: planto — growing living being: plant
 * **ken** ***[ken]*** *(SULI)* - ebla — possible
   * *([WAWA PINI](#nimi-wawa-pini))* - povi, kapabli, rajti — can, to be able to, to be allowed to
 * **kepeken** ***[xebrewken]*** *([KAMA PALISA](#nimi-kama-palisa))* - per — by means of
