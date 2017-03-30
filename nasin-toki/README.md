@@ -1046,6 +1046,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io ĉielpromenanta: luno, stelo — something sky-walking: moon, star
 * **musi** ~~amusi~~ ***[amuzi]*** *(SULI)* - ludanta — playing
 * **mute** ***[multe]*** *(SULI)* - multa — many
+  * *(~~suli~~ ...)* - tre — very
 * **namako** → **sin**
 * **nanpa** ***[namba]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - nombrita, kalkulita — counted, calculated
