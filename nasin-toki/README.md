@@ -653,10 +653,10 @@ ken pi toki pakala la jan li ken toki e nimi "ijo" li toki e **nimi wawa** lon t
 
 * ona li ***ijo moku*** anu ***moku moku***? *(Ĉu ĝi estas manĝaĵo aŭ manĝe manĝanta? Ĉu ĝi estas manĝo aŭ ĉu ĝi manĝas? — Is it food or is it eating?)*
 
-#### nimi pi wan sijelo
+#### nimi ilo
 *(Vortoj por Korperoj — Words for Body Parts)*
 
-nimi pi **wan sijelo** li pini jo e nimi "ijo". *(Vortoj por korperoj perdis la vorton "ilo". — Words for body parts lost the word "ilo".)*
+**nimi ilo** li nimi pi **wan sijelo** li pini jo e nimi "ijo". *(Vortoj por korperoj perdis la vorton "ilo". — Words for body parts lost the word "ilo".)*
 
 * ***ilo kute*** → ***kute*** *(aŭdilo → orelo — "hearer" → head)*
 * ***ilo lawa*** → ***lawa*** *(gvidilo → kapo — "leader" → head)*
@@ -963,11 +963,11 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io ŝvebanta: aero, spirito, kaŝita realo, esenco — something hovering: air, spirit, hidden reality, essence
 * **kule** ***[kuler]*** *(KAMA)* - kolora, pentrita — colorful, painted
 * **kulupu** ***[grup]*** *([SIJELO](#nimi-sijelo))* - svarma vivaĵo: komunumo, kompanio, grupo, nacio, socio, tribo — swarm-like living being: community, company, group, nation, society, tribe
-* **kute** ~~ekute~~ ***[ekute]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))* - aŭda organo: orelo — hearing organ: ear
+* **kute** ~~ekute~~ ***[ekute]*** *([ILO](#nimi-ilo))* - aŭda organo: orelo — hearing organ: ear
 * **la** ***[la]*** *([LILI](#nimi-lili))* - (kunteksto) — (context)
 * **lape** ***[slape]*** *(KAMA)* - dormanta, ripozanta — sleeping, resting
 * **laso** ~~la~~ ***[glas]*** *(KAMA)* - blua, verda — blue, green
-* **lawa** ***[glava]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))* - gvida organo: kapo — guiding organ: head
+* **lawa** ***[glava]*** *([ILO](#nimi-ilo))* - gvida organo: kapo — guiding organ: head
   * *(lon ... pi)* - supre de — at the top of
 * **len** ***[leng]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - pendanta, kovranta — hanging, covering
@@ -981,9 +981,9 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io plata: karto, dokumento, papero, dosiero, libro — something flat: card, document, paper, file, book
 * **loje** ***[roje]*** *(KAMA)* - ruĝa — red
 * **lon** ~~alon~~ ***[along]*** *([KAMA PALISA](#nimi-kama-palisa))* - ĉe, laŭ, en — at, along, in
-* **luka** ***[ruka]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))* - tuŝa organo: mano, brako — touching organ: hand, arm
+* **luka** ***[ruka]*** *([ILO](#nimi-ilo))* - tuŝa organo: mano, brako — touching organ: hand, arm
   * *([NANPA](#nimi-nanpa))* - kvin — five
-* **lukin** ***[luk-him]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))* - vida organo: okulo — seeing organ: eye
+* **lukin** ***[luk-him]*** *([ILO](#nimi-ilo))* - vida organo: okulo — seeing organ: eye
   * *([WAWA PINI](#nimi-wawa-pini))* - provi — to try to
   * *(lon ... pi)* - antaŭ, ĉe, kontraŭ — before, against
 * **lupa** ***[klupa]*** *([IJO](#nimi-ijo))*
@@ -1029,7 +1029,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **nimi** ***[nimi]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - atribuita — attributed
   * *(LAWA)* - io atribuita: nomo, vorto — something attributed: name, word
-* **noka** ***[noga]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))* - paŝa organo, treta organo: piedo, gambo — stepping organ, kicking organ: foot, leg
+* **noka** ***[noga]*** *([ILO](#nimi-ilo))* - paŝa organo, treta organo: piedo, gambo — stepping organ, kicking organ: foot, leg
   * *(lon ... pi)* - ĉe la malsupro de — at the bottom of
 * **o** ***[ho]*** *([LILI](#nimi-lili))* - -u — (vocativo), (imperativo)
 * **olin** ***[volim]*** *([WAWA PALISA](#nimi-wawa-palisa))* - ami — to love
@@ -1040,13 +1040,13 @@ nimi "ona sama" li ken kama nimi "sama".
 * **palisa** ***[palica]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - longa kaj malmola — long and hard
   * *(LAWA)* - io longa kaj malmola: branĉo, bastono — something long and hard: branch, stick
-  * *([WAN SIJELO](#nimi-pi-wan-sijelo))*
+  * *([ILO](#nimi-ilo))*
     * *([WAWA PALISA](#nimi-wawa-palisa))* - celi — to aim
     * *(LAWA)* - celanta organo: fingro — aiming organ: finger
 * **pan** ***[pan]*** - panherbaĵo, pano, nudeloj, rizo — cereal, bread, pasta@
 * **pana** ***[@]*** *([WAWA PALISA](#nimi-wawa-palisa))* - doni, provizi, publikigi — to give, to provide, to publish
 * **pi** ***[bi]*** *([LILI](#nimi-lili))* - (genitivo) — (genitive)
-* **pilin** ***[fil-him]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))*
+* **pilin** ***[fil-him]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - senti — to feel
   * *(LAWA)* - sentanta organo: koro — feeling organ: heart
 * **pimeja** ***[pimeja]*** - malhela — dark
@@ -1057,14 +1057,14 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - apuda — lateral
   * *(LAWA)* - io apuda: flanko — something lateral: side
   * *(lon ... pi)* - apud — next to
-* **poki** ***[bokis]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))*
+* **poki** ***[bokis]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - enhavi — to contain
   * *(LAWA)* - enhavanta organo: veziko, ujo, ingo — containing organ: bladder, container
 * **pona** ***[bona]*** *(KAMA)* - bona, amika, simpla — good, friendly, simple@
 * **pu** ***[buk]*** *(KAMA)* - konsulti la Oficialan Libron de Tokipono — to interact with the Official Toki Pona Book
 * **sama** ***[sama]*** *([KAMA PALISA](#nimi-kama-palisa))* - kiel, parenca al — like, related to
 * **seli** ***[cxeli]*** *(KAMA)* - varma, arda — warm, hot
-* **selo** ***[ŝelo]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))* - formanta organo: haŭto, ŝelo — forming organ: skin, shell
+* **selo** ***[ŝelo]*** *([ILO](#nimi-ilo))* - formanta organo: haŭto, ŝelo — forming organ: skin, shell
   * *(lon ... pi)* - sur, koncerne -n — on, affecting
 * **seme** ~~senme~~ ***[ŝenme]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - kiu — which
@@ -1118,7 +1118,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **tu** ***[tu]*** - disa — apart
   * *([NANPA](#nimi-nanpa))* - du — two
 * **unpa** ***[@]*** *([WAWA PALISA](#nimi-wawa-palisa))* - seksumi kun, esti geedzo de — to have sexual relationships with, to be married to
-* **uta** ***[usta]*** *([WAN SIJELO](#nimi-pi-wan-sijelo))* - kisa organo: buŝo — kissing organ: mouth
+* **uta** ***[usta]*** *([ILO](#nimi-ilo))* - kisa organo: buŝo — kissing organ: mouth
 * **utala** ~~utalasi~~ ***[udarati]*** *([WAWA PALISA](#nimi-wawa-palisa))* - batali, defii, kontraŭi — to battle, to challenge, to struggle against
 * **walo** ***[valko]*** *(KAMA)* - blanka — white
 * **wan** ***[wan]*** *(KAMA)* - unika, unueca — unique, united
