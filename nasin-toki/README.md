@@ -967,7 +967,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **la** ***[la]*** *([LILI](#nimi-lili))* - (kunteksto) — (context)
 * **lape** ***[slape]*** *(SULI)* - dormanta, ripozanta — sleeping, resting
 * **laso** ~~la~~ ***[glas]*** *(SULI)* - blua, verda — blue, green
-* **lawa** ***[glava]*** *([ILO](#nimi-ilo))* - gvida organo: kapo — guiding organ: head
+* **lawa** ***[glava]*** *([ILO](#nimi-ilo))*
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - gvidi — to guide
+  * *(LAWA)* - gvida organo: kapo — guiding organ: head
   * *(lon ... pi)* - supre de — at the top of
 * **len** ***[leng]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - pendanta, kovranta — hanging, covering
@@ -983,7 +985,9 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io plata: karto, dokumento, papero, dosiero, libro — something flat: card, document, paper, file, book
 * **loje** ***[roje]*** *(SULI)* - ruĝa — red
 * **lon** ~~alon~~ ***[along]*** *([KAMA PALISA](#nimi-kama-palisa))* - ĉe, laŭ, en — at, along, in
-* **luka** ***[ruka]*** *([ILO](#nimi-ilo))* - tuŝa organo: mano, brako — touching organ: hand, arm
+* **luka** ***[ruka]*** *([ILO](#nimi-ilo))*
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - tuŝi — to touch
+  * *(LAWA)* - tuŝa organo: mano, brako — touching organ: hand, arm
   * *([NANPA](#nimi-nanpa))* - kvin — five
 * **lukin** ***[luk-him]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - vidi — to see
