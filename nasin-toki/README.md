@@ -1010,14 +1010,14 @@ nimi "ona sama" li ken kama nimi "sama".
     * *(~~mute~~ ...)* - libro — book
 * **loje** ***[roje]*** *(SULI)* - ruĝa — red
 * **lon** ~~alon~~ ***[along]*** *([KAMA PALISA](#nimi-kama-palisa))* - ĉe, laŭ, en — at, along, in
-  * *(KAMA)* - ĉeestanta, ekzistanta — being present, existing
+  * *(KAMA)* - ĉeestanta, ekzistanta, reala — being present, existing, real
 * **luka** ***[ruka]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - tuŝi — to touch
   * *(LAWA)* - tuŝa organo: mano, brako — touching organ: hand, arm
   * *([NANPA](#nimi-nanpa))* - kvin — five
 * **lukin** ***[luk-him]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - vidi — to see
-  * *(LAWA)* - vida organo: okulo — seeing organ: eye
+  * *(LAWA)* - vidanta organo: okulo — seeing organ: eye
     * *(lon ... pi)* - antaŭ, ĉe, kontraŭ — before, against
   * *([WAWA PINI](#nimi-wawa-pini))* - provi — to try to
 * **lupa** ***[klupa]*** *([IJO](#nimi-ijo))*
@@ -1138,7 +1138,8 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - ronda — round
   * *(LAWA)* - io ronda: cirklo, globo, ĉirkaŭo — something round: circle, sphere, surroundings
     * *(lon ... pi)* - ĉirkaŭ — around
-* **sin** ***[ŝin]*** *(SULI)* - plia, aldona, nova, freŝa — another, additional, new, fresh
+* **sin** ***[ŝin]*** *([KAMA PALISA](#nimi-kama-palisa))* - aldona al, kun — additional to, with
+  * *(KAMA)* - plia, aldona, nova, freŝa — another, additional, new, fresh
 * **sina** ***[sina]*** *([PALISA](#nimi-palisa))* - vi — you
 * **sinpin** ***[?]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - antaŭa — frontal
@@ -1164,7 +1165,8 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io dolĉa: dolĉaĵo — something sweet: sweets
 * **tan** ***[?]*** *([KAMA PALISA](#nimi-kama-palisa))* - de, pro — by, from, because of
   * *(KAMA)* - devenanta — originating
-* **taso** ***[dats-ol]*** *(SULI)* - nura — only
+* **taso** ***[dats-ol]*** *([KAMA PALISA](#nimi-kama-palisa))* - izolita de, sen — isolated from, without
+  * *(KAMA)* - izolita, nura — isolated, only
 * **tawa** ~~towa~~ ***[towards]*** *([KAMA PALISA](#nimi-kama-palisa))* - al, por — to, toward, for
   * *(KAMA)* - moviĝanta — moving
 * **telo** ***[de-l-o]*** *([IJO](#nimi-ijo))*
