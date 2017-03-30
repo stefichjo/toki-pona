@@ -975,7 +975,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **lete** ***[frete]*** *(KAMA)* - malvarma, kruda — cold, raw
 * **li** ***[li]*** *([LILI](#nimi-lili))* - (predikato) — (predikato)
 * **lili** ***[lik-lik]*** *(KAMA)* - malgranda, malmulta — small, few
-* **linja** ***[linja]*** - io longa kaj fleksebla: kordo, haro, ŝnuro, fadeno — something long and flexible: cord, hair, rope, thread
+* **linja** ***[linja]*** *([IJO](#nimi-ijo))*
+  * *(KAMA)* - longa kaj fleksebla — long and flexible
+  * *(LAWA)* - io longa kaj fleksebla: kordo, haro, ŝnuro, fadeno — something long and flexible: cord, hair, rope, thread
 * **lipu** ***[lippu]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - plata — flat
   * *(LAWA)* - io plata: karto, dokumento, papero, dosiero, libro — something flat: card, document, paper, file, book
@@ -1043,13 +1045,13 @@ nimi "ona sama" li ken kama nimi "sama".
   * *([ILO](#nimi-ilo))*
     * *([WAWA PALISA](#nimi-wawa-palisa))* - celi — to aim
     * *(LAWA)* - celanta organo: fingro — aiming organ: finger
-* **pan** ***[pan]*** - panherbaĵo, pano, nudeloj, rizo — cereal, bread, pasta@
+* **pan** ***[pan]*** *(@)* - panherbaĵo, pano, nudeloj, rizo — cereal, bread, pasta@
 * **pana** ***[@]*** *([WAWA PALISA](#nimi-wawa-palisa))* - doni, provizi, publikigi — to give, to provide, to publish
 * **pi** ***[bi]*** *([LILI](#nimi-lili))* - (genitivo) — (genitive)
 * **pilin** ***[fil-him]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - senti — to feel
   * *(LAWA)* - sentanta organo: koro — feeling organ: heart
-* **pimeja** ***[pimeja]*** - malhela — dark
+* **pimeja** ***[pimeja]*** *(KAMA)* - malhela — dark
 * **pini** ***[fini]*** *(KAMA)* - finita, pasinta — finished, past
   * *([WAWA PINI](#nimi-wawa-pini))* - fini, to stop
 * **pipi** ***[bibit]*** *([SIJELO](#nimi-sijelo))* - rampanta vivaĵo: insekto — crawling living being: insect
@@ -1115,7 +1117,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **tomo** ***[domo]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - konstruita — built
   * *(LAWA)* - io konstruita: domo, ĉambro — something built: house, room
-* **tu** ***[tu]*** - disa — apart
+* **tu** ***[tu]*** *(KAMA)* - disa — apart
   * *([NANPA](#nimi-nanpa))* - du — two
 * **unpa** ***[@]*** *([WAWA PALISA](#nimi-wawa-palisa))* - seksumi kun, esti geedzo de — to have sexual relationships with, to be married to
 * **uta** ***[usta]*** *([ILO](#nimi-ilo))* - kisa organo: buŝo — kissing organ: mouth
