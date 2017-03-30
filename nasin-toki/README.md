@@ -927,7 +927,8 @@ nimi "ona sama" li ken kama nimi "sama".
 * **ali** → **ale**
 * **anpa** ***[an-bas]*** *(SULI)* - malalta — low
   * *(lon ... pi)* - sub — under
-* **ante** ***[ander]*** *(SULI)* - alia — different
+* **ante** ***[ander]*** *([KAMA PALISA](#nimi-kama-palisa))* - ol — than
+  * *(KAMA)* - alia — different
 * **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili))* - aŭ — or
 * **awen** ***[hawen]*** *(SULI)* - daŭranta, atendanta, restanta — enduring, waiting, remaining
   * *([WAWA PINI](#nimi-wawa-pini))* - plu- — to continue to
@@ -935,6 +936,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **en** ***[en]*** *([LILI](#nimi-lili))* - kaj — and
 * **esun** ***[?]*** *([SIJELO](#nimi-sijelo))*
   * *([KAMA PALISA](#nimi-kama-palisa))* - anstataŭ — in exchange for, instead of
+    * *(KAMA)* - anstataŭa — substitute
   * *(LAWA)* - anstataŭanta vivaĵo: metabolo, vendejo, merkato — substituting living being: metabolism, shop, market
     * *([NANPA](#nimi-nanpa))* sep - seven
 * **ijo** ***[io]*** *(PALISA)* - io — something
@@ -949,18 +951,21 @@ nimi "ona sama" li ken kama nimi "sama".
 * **jelo** ***[jellow]*** *(SULI)* - flava — yellow
 * **jo** ***[jow]*** *([WAWA PALISA](#nimi-wawa-palisa))* - havi — to have
 * **kala** ***[kala]*** *([SIJELO](#nimi-sijelo))*
-  * *([KAMA PALISA](#nimi-kama-palisa))* - naĝi en — swimming in
+  * *([KAMA PALISA](#nimi-kama-palisa))* - naĝanta en — swimming in
+    * *(KAMA)* - naĝanta — swimming
   * *(LAWA)* - naĝanta vivaĵo: fiŝo, baleno — swimming living being: fish, baleno
 * **kalama** ***[galama]*** *(SULI)* - sona — sounding
 * **kama** ***[kam-ap]*** *(SULI)* - alvena — arriving
   * *([WAWA PINI](#nimi-wawa-pini))* - -iĝ-, sukcesi — to become, to succeed
   * *(lon ... pi)* - antaŭ — before
 * **kasi** ***[kasvi]*** *([SIJELO](#nimi-sijelo))*
-  * *([KAMA PALISA](#nimi-kama-palisa))* - kreski sur — growing on
+  * *([KAMA PALISA](#nimi-kama-palisa))* - kreskanta sur — growing on
+    * *(KAMA)* - kreskanta — growing
   * *(LAWA)* - kreskanta vivaĵo: planto — growing living being: plant
 * **ken** ***[ken]*** *(SULI)* - ebla — possible
   * *([WAWA PINI](#nimi-wawa-pini))* - povi, kapabli, rajti — can, to be able to, to be allowed to
 * **kepeken** ***[xebrewken]*** *([KAMA PALISA](#nimi-kama-palisa))* - per — by means of
+  * *(KAMA)* - uzanta — using
 * **kili** ***[xili]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - rezultanta — resulting
   * *(LAWA)* - io rezultanta: rezulto, frukto, legomo, fungo — something resulting: result, fruit, vegetable, mushroom
@@ -1005,6 +1010,7 @@ nimi "ona sama" li ken kama nimi "sama".
     * *(~~mute~~ ...)* - libro — book
 * **loje** ***[roje]*** *(SULI)* - ruĝa — red
 * **lon** ~~alon~~ ***[along]*** *([KAMA PALISA](#nimi-kama-palisa))* - ĉe, laŭ, en — at, along, in
+  * *(KAMA)* - ĉeestanta, ekzistanta — being present, existing
 * **luka** ***[ruka]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - tuŝi — to touch
   * *(LAWA)* - tuŝa organo: mano, brako — touching organ: hand, arm
@@ -1034,7 +1040,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **mije** ***[mies]*** *(JAN)*
   * *(KAMA)* - vira — male
   * *(LAWA)* - vira animaĵo: viro, edzo — male animated being: man, husband
-* **moku** ***[mogu]*** *([KAMA PALISA](#nimi-kama-palisa))* - manĝi, trinki, gluti — to eat, to drink, to swallow
+* **moku** ***[mogu]*** *([SULI PALISA](#nimi-suli-palisa))* - manĝi, trinki, gluti — to eat, to drink, to swallow
 * **moli** ~~muli~~ ***[murir]*** *(SULI)* - mortinta, malviva — dead
 * **monsi** ***[mon-ĉi]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - malantaŭa — rear
@@ -1100,6 +1106,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(lon ... pi)* - malantaŭ — after
 * **pipi** ***[bibit]*** *([SIJELO](#nimi-sijelo))*
   * *([KAMA PALISA](#nimi-kama-palisa))* - rampi sur — crawling on
+    * *(KAMA)* - rampanta — crawling
   * *(LAWA)* - rampanta vivaĵo: insekto — crawling living being: insect
 * **poka** ~~po~~ ***[bok]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - apuda — lateral
@@ -1111,6 +1118,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **pona** ***[bona]*** *(SULI)* - bona, amika, simpla — good, friendly, simple
 * **pu** ***[buk]*** *(SULI)* - konsulti la Oficialan Libron de Tokipono — to interact with the Official Toki Pona Book
 * **sama** ***[sama]*** *([KAMA PALISA](#nimi-kama-palisa))* - kiel, parenca al — like, related to
+  * *(KAMA)* - egala, sama, mem — alike, same, self
 * **seli** ***[cxeli]*** *(SULI)* - varma, arda — warm, hot
 * **selo** ***[ŝelo]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - formi — to form
@@ -1155,8 +1163,10 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - dolĉa — sweet
   * *(LAWA)* - io dolĉa: dolĉaĵo — something sweet: sweets
 * **tan** ***[?]*** *([KAMA PALISA](#nimi-kama-palisa))* - de, pro — by, from, because of
+  * *(KAMA)* - devenanta — originating
 * **taso** ***[dats-ol]*** *(SULI)* - nura — only
 * **tawa** ~~towa~~ ***[towards]*** *([KAMA PALISA](#nimi-kama-palisa))* - al, por — to, toward, for
+  * *(KAMA)* - moviĝanta — moving
 * **telo** ***[de-l-o]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - likva, malseka — liquid, wet
   * *(LAWA)* - io likva, io malseka: akvo, trinkaĵo — something liquid, something wet: water, beverage
@@ -1178,7 +1188,8 @@ nimi "ona sama" li ken kama nimi "sama".
 * **wan** ***[wan]*** *(SULI)* - unika, unueca — unique, united
   * *([NANPA](#nimi-nanpa))* - unu — one
 * **waso** ***[wazo]*** *([SIJELO](#nimi-sijelo))*
-  * *([KAMA PALISA](#nimi-kama-palisa))* - flugi en — flying in
+  * *([KAMA PALISA](#nimi-kama-palisa))* - fluganta en — flying in
+    * *(KAMA)* - fluganta — flying
   * *(LAWA)* - fluganta vivaĵo: birdo — flying living being: bird
 * **wawa** ***[vahva]*** *(SULI)* - forta — strong
 * **weka** ~~we~~ ***[wex]*** *(SULI)* - fora — away, gone
