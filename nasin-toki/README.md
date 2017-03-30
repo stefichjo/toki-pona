@@ -969,9 +969,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **ko** ***[gow]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - duon-malmola — semi-solid
   * *(LAWA)* - io duon-malmola: pasto, pulvoro — something semi-solid: dough, powder
-* **kon** ***[kong]***
+* **kon** ***[kong]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - ŝvebanta — hovering
-  * *(LAWA)* - io ŝvebanta: aero, spirito, kaŝita realo, esenco — something hovering: air, spirit, hidden reality, essence
+  * *(LAWA)* - io ŝvebanta: aero, spirito, esenco, kaŝita realo — something hovering: air, spirit, essence, hidden reality
 * **kule** ***[kuler]*** *(SULI)* - kolora, pentrita — colorful, painted
 * **kulupu** ***[grup]*** *(JAN)*
   * *(KAMA)* - svarma — swarm-like
