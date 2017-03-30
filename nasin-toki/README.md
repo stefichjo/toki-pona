@@ -986,7 +986,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **luka** ***[ruka]*** *([ILO](#nimi-ilo))* - tuŝa organo: mano, brako — touching organ: hand, arm
   * *([NANPA](#nimi-nanpa))* - kvin — five
 * **lukin** ***[luk-him]*** *([ILO](#nimi-ilo))*
-  * *([WAWA PALISA](#nimi-wawa-palisa))* - senti — to feel
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - vidi — to see
   * *(LAWA)* - vida organo: okulo — seeing organ: eye
   * *([WAWA PINI](#nimi-wawa-pini))* - provi — to try to
   * *(lon ... pi)* - antaŭ, ĉe, kontraŭ — before, against
