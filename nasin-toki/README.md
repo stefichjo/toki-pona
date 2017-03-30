@@ -634,10 +634,10 @@ tan ni la kalama nanpa wan pi nimi kama lon kama pi kalama "i" li ken kama ante 
   * *(KAMA)* dolĉa — sweet
   * *(LAWA)* io dolĉa: dolĉaĵo — something sweet: sweets
 
-#### nimi jan
+#### nimi palisa
 *(Pronomoj — Pronouns)*
 
-nimi "mi", "sina", "ona", "ijo" li **nimi jan**. **nimi lawa** ante li pini jo e nimi "ijo".
+nimi "mi", "sina", "ona", "ijo" li **nimi palisa**. **nimi lawa** ante li pini jo e nimi "ijo".
 *("mi", "sina", "ona" kaj "ijo" estas pronomoj. Aliaj substantivoj perdis la vorton "ijo". — Only "mi", "sina", "ona" and "ijo" are nouns. Other nouns lost the word "ijo".)*
 
 * ***ijo ilo*** *(utilaĵo — something useful)*
@@ -932,7 +932,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **esun** ***[@]*** *(SULI)* - anstataŭa — substitute
   * *([NANPA](#nimi-nanpa))* sep - seven
   * *(lon ... pi)* - anstataŭ — instead of, in exchange for
-* **ijo** ***[io]*** *(LAWA)* - io — something
+* **ijo** ***[io]*** *(PALISA)* - io — something
   * *(e ... pi)* - pri — about
 * **ike** ~~ikeja~~ ***[ilkea]*** *(SULI)* - malbona, superflua — bad, superfluous
 * **ilo** *([LILI](#nimi-lili))* - io utila — something useful
@@ -1015,7 +1015,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - valora — valueable
   * *(LAWA)* - io valora: mono, ŝparaĵo, riĉeco, granda malsovaĝigita besto — something valueable: money, savings, wealth, large domesticated animal
 * **meli** ***[meri]*** *([SIJELO](#nimi-sijelo))* - ina vivaĵo: virino, edzino — female living being: woman, wife
-* **mi** ***[mi]*** *([JAN](#nimi-jan))* - mi, ni — I, we
+* **mi** ***[mi]*** *([PALISA](#nimi-palisa))* - mi, ni — I, we
 * **mije** ***[mies]*** *([SIJELO](#nimi-sijelo))* - vira vivaĵo: viro, edzo — male living being: man, husband
 * **moku** ***[mogu]*** *([KAMA PALISA](#nimi-kama-palisa))* - manĝi, trinki, gluti — to eat, to drink, to swallow
 * **moli** ~~muli~~ ***[murir]*** *(SULI)* - mortinta, malviva — dead
@@ -1052,7 +1052,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(lon ... pi)* - ĉe la malsupro de — at the bottom of
 * **o** ***[ho]*** *([LILI](#nimi-lili))* - -u — (vocativo), (imperativo)
 * **olin** ***[volim]*** *([WAWA PALISA](#nimi-wawa-palisa))* - ami — to love
-* **ona** ***[ona]*** *([JAN](#nimi-jan))* - ŝi, li, ĝi, ili — she, he, it, they
+* **ona** ***[ona]*** *([PALISA](#nimi-palisa))* - ŝi, li, ĝi, ili — she, he, it, they
 * **open** ***[open]*** *(SULI)* - malfermita — open
 * **pakala** ***[bagar-ap]*** *(SULI)* - damaĝita, lezita — damaged, harmed
 * **pali** ***[fari]*** *([WAWA PALISA](#nimi-wawa-palisa))* - prilabori, krei, prepari — to work on, to create, to prepare
@@ -1105,7 +1105,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io ronda: cirklo, globo, ĉirkaŭo — something round: circle, sphere, surroundings
   * *(lon ... pi)* - ĉirkaŭ — around
 * **sin** ***[ŝin]*** *(SULI)* - plia, aldona, nova, freŝa — another, additional, new, fresh
-* **sina** ***[sina]*** *([JAN](#nimi-jan))* - vi — you
+* **sina** ***[sina]*** *([PALISA](#nimi-palisa))* - vi — you
 * **sinpin** ***[@]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - antaŭa — frontal
   * *(LAWA)* - io antaŭa: muro — something frontal: wall
