@@ -914,7 +914,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - ja, eĉ, efektive, jes — so, even, indeed, yes
 * **akesi** ***[hagedis]*** *(JAN)*
   * *(KAMA)* - malvarmsanga — cold-blooded
-  * *(LAWA)* - malvarmsanga animaĵo: reptilo, amfibio, krimulo — cold-blooded animated being: reptile, amphibian, criminal
+  * *(LAWA)* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
 * **ala** ***[ara]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - neniu — no
   * *(LAWA)* - nenio — nothing
@@ -924,6 +924,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - ĉiu — every
   * *(LAWA)* - ĉio — everything
   * *([NANPA](#nimi-nanpa))* - senfine — countless
+* **ali** → **ale**
 * **anpa** ***[an-bas]*** *(SULI)* - malalta — low
   * *(lon ... pi)* - sub — under
 * **ante** ***[ander]*** *(SULI)* - alia — different
@@ -932,9 +933,10 @@ nimi "ona sama" li ken kama nimi "sama".
   * *([WAWA PINI](#nimi-wawa-pini))* - plu- — to continue to
 * **e** ***[?]*** *([LILI](#nimi-lili))* - -n — (accusative)
 * **en** ***[en]*** *([LILI](#nimi-lili))* - kaj — and
-* **esun** ***[?]*** *(SULI)* - anstataŭa — substitute
-  * *([NANPA](#nimi-nanpa))* sep - seven
-  * *(lon ... pi)* - anstataŭ — instead of, in exchange for
+* **esun** ***[?]*** *([SIJELO](#nimi-sijelo))*
+  * *([KAMA PALISA](#nimi-kama-palisa))* - anstataŭ — in exchange for, instead of
+  * *(LAWA)* - anstataŭanta vivaĵo: metabolo, vendejo, merkato — substituting living being: metabolism, shop, market
+    * *([NANPA](#nimi-nanpa))* sep - seven
 * **ijo** ***[io]*** *(PALISA)* - io — something
   * *(e ... pi)* - pri — about
 * **ike** ~~ikeja~~ ***[ilkea]*** *(SULI)* - malbona, superflua — bad, superfluous
@@ -962,6 +964,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **kili** ***[xili]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - @ — @
   * *(LAWA)* - io @: frukto, legomo, fungo — something @: fruit, vegetable, mushroom
+* **kin** → **a**
 * **kiwen** ***[kiven]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - malmola — hard
   * *(LAWA)* - io malmola: ŝtono — something hard: stone
@@ -1035,6 +1038,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - malantaŭa — rear
   * *(LAWA)* - malantaŭo — back
   * *(lon ... pi)* - malantaŭ — behind
+* **monsuta** → **akesi**
 * **mu** ***[mu]*** *([KALAMA](#nimi-kalama))* - indiferenta interjekcio: bla, miaŭ — indifferent interjection: blah, meeow
   * *(KAMA)* - ajna, arbitra — any, arbitrary
 * **mun** ***[mun]*** *([IJO](#nimi-ijo))*
@@ -1042,6 +1046,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io ĉielpromenanta: luno, stelo — something sky-walking: moon, star
 * **musi** ~~amusi~~ ***[amuzi]*** *(SULI)* - ludanta — playing
 * **mute** ***[multe]*** *(SULI)* - multa — many
+* **namako** → **sin**
 * **nanpa** ***[namba]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - nombrita, kalkulita — counted, calculated
   * *(LAWA)* - io nombrita, io kalkulita — something counted, something calculated
@@ -1064,6 +1069,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - paŝa organo, treta organo: piedo, gambo — stepping organ, kicking organ: foot, leg
   * *(lon ... pi)* - ĉe la malsupro de — at the bottom of
 * **o** ***[ho]*** *([LILI](#nimi-lili))* - -u — (vocativo), (imperativo)
+* **oko** → **lukin**
 * **olin** ***[volim]*** *([WAWA PALISA](#nimi-wawa-palisa))* - ami — to love
 * **ona** ***[ona]*** *([PALISA](#nimi-palisa))* - ŝi, li, ĝi, ili — she, he, it, they
 * **open** ***[open]*** *(SULI)* - malfermita — open
@@ -1160,8 +1166,8 @@ nimi "ona sama" li ken kama nimi "sama".
   * *([NANPA](#nimi-nanpa))* - du — two
 * **unpa** ***[?]*** *([WAWA PALISA](#nimi-wawa-palisa))* - seksumi kun, esti geedzo de — to have sexual relationships with, to be married to
 * **uta** ***[usta]*** *([ILO](#nimi-ilo))*
-  * *([WAWA PALISA](#nimi-wawa-palisa))* - kisi — to kiss
-  * *(LAWA)* - kisa organo: buŝo — kissing organ: mouth
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - kisi, suĉi — to kiss, to suck
+  * *(LAWA)* - kisa organo, suĉa organo: buŝo — kissing organ, sucking organ: mouth
 * **utala** ~~utalasi~~ ***[udarati]*** *([WAWA PALISA](#nimi-wawa-palisa))* - batali, defii, kontraŭi — to battle, to challenge, to struggle against
 * **walo** ***[valko]*** *(SULI)* - blanka — white
 * **wan** ***[wan]*** *(SULI)* - unika, unueca — unique, united
