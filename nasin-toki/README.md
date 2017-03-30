@@ -918,7 +918,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - neniu — no
   * *(LAWA)* - nenio — nothing
   * *([NANPA](#nimi-nanpa))* - nul — zero
-* **alasa** ***[@]*** *([WAWA PALISA](#nimi-wawa-palisa))* - ĉasi, kolekti — to hunt, to collect
+* **alasa** ***[?]*** *([WAWA PALISA](#nimi-wawa-palisa))* - ĉasi, kolekti — to hunt, to collect
 * **ale** ***[alle]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - ĉiu — every
   * *(LAWA)* - ĉio — everything
@@ -929,9 +929,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili))* - aŭ — or
 * **awen** ***[hawen]*** *(SULI)* - daŭranta, atendanta, restanta — enduring, waiting, remaining
   * *([WAWA PINI](#nimi-wawa-pini))* - plu- — to continue to
-* **e** ***[@]*** *([LILI](#nimi-lili))* - -n — (accusative)
+* **e** ***[?]*** *([LILI](#nimi-lili))* - -n — (accusative)
 * **en** ***[en]*** *([LILI](#nimi-lili))* - kaj — and
-* **esun** ***[@]*** *(SULI)* - anstataŭa — substitute
+* **esun** ***[?]*** *(SULI)* - anstataŭa — substitute
   * *([NANPA](#nimi-nanpa))* sep - seven
   * *(lon ... pi)* - anstataŭ — instead of, in exchange for
 * **ijo** ***[io]*** *(PALISA)* - io — something
@@ -1075,7 +1075,7 @@ nimi "ona sama" li ken kama nimi "sama".
     * *([WAWA PALISA](#nimi-wawa-palisa))* - celi — to aim
     * *(LAWA)* - celanta organo: fingro — aiming organ: finger
 * **pan** ***[pan]*** *(@)* - panherbaĵo, pano, nudeloj, rizo — cereal, bread, pasta@
-* **pana** ***[@]*** *([WAWA PALISA](#nimi-wawa-palisa))* - doni, provizi, publikigi — to give, to provide, to publish
+* **pana** ***[?]*** *([WAWA PALISA](#nimi-wawa-palisa))* - doni, provizi, publikigi — to give, to provide, to publish
 * **pi** ***[bi]*** *([LILI](#nimi-lili))* - (genitivo) — (genitive)
 * **pilin** ***[fil-him]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - senti — to feel
@@ -1118,7 +1118,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(lon ... pi)* - ĉirkaŭ — around
 * **sin** ***[ŝin]*** *(SULI)* - plia, aldona, nova, freŝa — another, additional, new, fresh
 * **sina** ***[sina]*** *([PALISA](#nimi-palisa))* - vi — you
-* **sinpin** ***[@]*** *([IJO](#nimi-ijo))*
+* **sinpin** ***[?]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - antaŭa — frontal
   * *(LAWA)* - io antaŭa: muro — something frontal: wall
   * *(lon ... pi)* - antaŭ — in front of
@@ -1140,7 +1140,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **suwi** ***[swit]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - dolĉa — sweet
   * *(LAWA)* - io dolĉa: dolĉaĵo — something sweet: sweets
-* **tan** ***[@]*** *([KAMA PALISA](#nimi-kama-palisa))* - de, pro — by, from, because of
+* **tan** ***[?]*** *([KAMA PALISA](#nimi-kama-palisa))* - de, pro — by, from, because of
 * **taso** ***[dats-ol]*** *(SULI)* - nura — only
 * **tawa** ~~towa~~ ***[towards]*** *([KAMA PALISA](#nimi-kama-palisa))* - al, por — to, toward, for
 * **telo** ***[de-l-o]*** *([IJO](#nimi-ijo))*
@@ -1155,7 +1155,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io konstruita: domo, ĉambro — something built: house, room
 * **tu** ***[tu]*** *(SULI)* - disa — apart
   * *([NANPA](#nimi-nanpa))* - du — two
-* **unpa** ***[@]*** *([WAWA PALISA](#nimi-wawa-palisa))* - seksumi kun, esti geedzo de — to have sexual relationships with, to be married to
+* **unpa** ***[?]*** *([WAWA PALISA](#nimi-wawa-palisa))* - seksumi kun, esti geedzo de — to have sexual relationships with, to be married to
 * **uta** ***[usta]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - kisi — to kiss
   * *(LAWA)* - kisa organo: buŝo — kissing organ: mouth
