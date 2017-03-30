@@ -1076,7 +1076,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **pu** ***[buk]*** *(SULI)* - konsulti la Oficialan Libron de Tokipono — to interact with the Official Toki Pona Book
 * **sama** ***[sama]*** *([KAMA PALISA](#nimi-kama-palisa))* - kiel, parenca al — like, related to
 * **seli** ***[cxeli]*** *(SULI)* - varma, arda — warm, hot
-* **selo** ***[ŝelo]*** *([ILO](#nimi-ilo))* - formanta organo: haŭto, ŝelo — forming organ: skin, shell
+* **selo** ***[ŝelo]*** *([ILO](#nimi-ilo))*
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - formi — to form
+  * *(LAWA)* - formanta organo: haŭto, ŝelo — forming organ: skin, shell
   * *(lon ... pi)* - sur, koncerne -n — on, affecting
 * **seme** ~~senme~~ ***[ŝenme]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - kiu — which
@@ -1130,7 +1132,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **tu** ***[tu]*** *(SULI)* - disa — apart
   * *([NANPA](#nimi-nanpa))* - du — two
 * **unpa** ***[@]*** *([WAWA PALISA](#nimi-wawa-palisa))* - seksumi kun, esti geedzo de — to have sexual relationships with, to be married to
-* **uta** ***[usta]*** *([ILO](#nimi-ilo))* - kisa organo: buŝo — kissing organ: mouth
+* **uta** ***[usta]*** *([ILO](#nimi-ilo))*
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - kisi — to kiss
+  * *(LAWA)* - kisa organo: buŝo — kissing organ: mouth
 * **utala** ~~utalasi~~ ***[udarati]*** *([WAWA PALISA](#nimi-wawa-palisa))* - batali, defii, kontraŭi — to battle, to challenge, to struggle against
 * **walo** ***[valko]*** *(SULI)* - blanka — white
 * **wan** ***[wan]*** *(SULI)* - unika, unueca — unique, united
