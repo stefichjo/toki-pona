@@ -1092,6 +1092,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **pi** ***[bi]*** *([LILI](#nimi-lili))* - (genitivo) — (genitive)
 * **pilin** ***[fil-him]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - senti — to feel
+    * *(... akesi)* - timi — to fear
   * *(LAWA)* - sentanta organo: koro — feeling organ: heart
 * **pimeja** ***[pimeja]*** *(SULI)* - malhela — dark
 * **pini** ***[fini]*** *(SULI)* - finita, pasinta — finished, past
@@ -1107,7 +1108,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **poki** ***[bokis]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - enhavi — to contain
   * *(LAWA)* - enhavanta organo: veziko, ujo, ingo — containing organ: bladder, container
-* **pona** ***[bona]*** *(SULI)* - bona, amika, simpla — good, friendly, simple@
+* **pona** ***[bona]*** *(SULI)* - bona, amika, simpla — good, friendly, simple
 * **pu** ***[buk]*** *(SULI)* - konsulti la Oficialan Libron de Tokipono — to interact with the Official Toki Pona Book
 * **sama** ***[sama]*** *([KAMA PALISA](#nimi-kama-palisa))* - kiel, parenca al — like, related to
 * **seli** ***[cxeli]*** *(SULI)* - varma, arda — warm, hot
