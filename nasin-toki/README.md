@@ -945,6 +945,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **kalama** ***[galama]*** *(SULI)* - sona — sounding
 * **kama** ***[kam-ap]*** *(SULI)* - alvena — arriving
   * *([WAWA PINI](#nimi-wawa-pini))* - -iĝ-, sukcesi — to become, to succeed
+  * *(lon ... pi)* - antaŭ — before
 * **kasi** ***[kasvi]*** *([SIJELO](#nimi-sijelo))* - kreskanta vivaĵo: planto — growing living being: plant
 * **ken** ***[ken]*** *(SULI)* - ebla — possible
   * *([WAWA PINI](#nimi-wawa-pini))* - povi, kapabli, rajti — can, to be able to, to be allowed to
@@ -1064,6 +1065,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **pimeja** ***[pimeja]*** *(SULI)* - malhela — dark
 * **pini** ***[fini]*** *(SULI)* - finita, pasinta — finished, past
   * *([WAWA PINI](#nimi-wawa-pini))* - fini, to stop
+  * *(lon ... pi)* - malantaŭ — after
 * **pipi** ***[bibit]*** *([SIJELO](#nimi-sijelo))* - rampanta vivaĵo: insekto — crawling living being: insect
 * **poka** ~~po~~ ***[bok]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - apuda — lateral
