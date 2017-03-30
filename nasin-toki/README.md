@@ -915,7 +915,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **ala** ***[ara]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - neniu — no
   * *(LAWA)* - nenio — nothing
-  * *([NANPA](#nimi-nanpa))* - nul — zero
+  * *([NANPA](#nimi-nanpa))* - nul — zero
 * **alasa** ***[@]*** *([WAWA PALISA](#nimi-wawa-palisa))* - ĉasi, kolekti — to hunt, to collect
 * **ale** ***[alle]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - ĉiu — every
