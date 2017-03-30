@@ -962,8 +962,9 @@ nimi "ona sama" li ken kama nimi "sama".
   * *([WAWA PINI](#nimi-wawa-pini))* - povi, kapabli, rajti — can, to be able to, to be allowed to
 * **kepeken** ***[xebrewken]*** *([KAMA PALISA](#nimi-kama-palisa))* - per — by means of
 * **kili** ***[xili]*** *([IJO](#nimi-ijo))*
-  * *(KAMA)* - @ — @
-  * *(LAWA)* - io @: frukto, legomo, fungo — something @: fruit, vegetable, mushroom
+  * *(KAMA)* - rezultanta — resulting
+  * *(LAWA)* - io rezultanta: rezulto, frukto, legomo, fungo — something resulting: result, fruit, vegetable, mushroom
+    * *(lon ... pi)* - depende de — depending on
 * **kin** → **a**
 * **kipisi** → **tu**
 * **kiwen** ***[kiven]*** *([IJO](#nimi-ijo))*
