@@ -912,7 +912,9 @@ nimi "ona sama" li ken kama nimi "sama".
 
 * **a** ***[ha]*** *([KALAMA](#nimi-kalama))* - emocia interjekcio — emotional interjection
 * **akesi** ***[hagedis]*** *([SIJELO](#nimi-sijelo))* - malvarmsanga vivaĵo: reptilo, amfibio — cold-blooded living being: reptile, amphibian
-* **ala** ***[ara]*** - nenio — nothing
+* **ala** ***[ara]*** *([IJO](#nimi-ijo))*
+  * *(KAMA)* - neniu — no
+  * *(LAWA)* - nenio — nothing
   * *([NANPA](#nimi-nanpa))* - nul — zero
 * **alasa** ***[@]*** *([WAWA PALISA](#nimi-wawa-palisa))* - ĉasi, kolekti — to hunt, to collect
 * **ale** ***[alle]*** *([IJO](#nimi-ijo))*
