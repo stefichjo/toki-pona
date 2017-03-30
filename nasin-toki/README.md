@@ -963,7 +963,9 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io ŝvebanta: aero, spirito, kaŝita realo, esenco — something hovering: air, spirit, hidden reality, essence
 * **kule** ***[kuler]*** *(SULI)* - kolora, pentrita — colorful, painted
 * **kulupu** ***[grup]*** *([SIJELO](#nimi-sijelo))* - svarma vivaĵo: komunumo, kompanio, grupo, nacio, socio, tribo — swarm-like living being: community, company, group, nation, society, tribe
-* **kute** ~~ekute~~ ***[ekute]*** *([ILO](#nimi-ilo))* - aŭda organo: orelo — hearing organ: ear
+* **kute** ~~ekute~~ ***[ekute]*** *([ILO](#nimi-ilo))*
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - aŭdi — to hear
+  * *(LAWA)* - aŭda organo: orelo — hearing organ: ear
 * **la** ***[la]*** *([LILI](#nimi-lili))* - (kunteksto) — (context)
 * **lape** ***[slape]*** *(SULI)* - dormanta, ripozanta — sleeping, resting
 * **laso** ~~la~~ ***[glas]*** *(SULI)* - blua, verda — blue, green
@@ -1037,7 +1039,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **nimi** ***[nimi]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - atribuita — attributed
   * *(LAWA)* - io atribuita: nomo, vorto — something attributed: name, word
-* **noka** ***[noga]*** *([ILO](#nimi-ilo))* - paŝa organo, treta organo: piedo, gambo — stepping organ, kicking organ: foot, leg
+* **noka** ***[noga]*** *([ILO](#nimi-ilo))*
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - paŝi, treti — to step, to kick
+  * *(LAWA)* - paŝa organo, treta organo: piedo, gambo — stepping organ, kicking organ: foot, leg
   * *(lon ... pi)* - ĉe la malsupro de — at the bottom of
 * **o** ***[ho]*** *([LILI](#nimi-lili))* - -u — (vocativo), (imperativo)
 * **olin** ***[volim]*** *([WAWA PALISA](#nimi-wawa-palisa))* - ami — to love
