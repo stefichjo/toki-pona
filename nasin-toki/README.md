@@ -1141,7 +1141,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **walo** ***[valko]*** *(SULI)* - blanka — white
 * **wan** ***[wan]*** *(SULI)* - unika, unueca — unique, united
   * *([NANPA](#nimi-nanpa))* - unu — one
-* **waso** ***[wazo]*** *([SIJELO](#nimi-sijelo))* - fluganta vivaĵo: birdo — flying living being: bird
+* **waso** ***[wazo]*** *([SIJELO](#nimi-sijelo))*
+  * *([KAMA PALISA](#nimi-kama-palisa))* - flugi en — flying in
+  * *(LAWA)* - fluganta vivaĵo: birdo — flying living being: bird
 * **wawa** ***[vahva]*** *(SULI)* - forta — strong
 * **weka** ~~we~~ ***[wex]*** *(SULI)* - fora — away, gone
   * *(lon ...)* - for — away
