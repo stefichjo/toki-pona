@@ -910,7 +910,8 @@ nimi "ona sama" li ken kama nimi "sama".
 # ale pi nimi mute
 *(Vortaro — Dictionary)*
 
-* **a** ***[ha]*** *([KALAMA](#nimi-kalama))* - emocia interjekcio — emotional interjection
+* **a** ***[ha]*** *([KALAMA](#nimi-kalama))* - emocia interjekcio: ha — emotional interjection: ha
+  * *(KAMA)* - ja, eĉ, efektive, jes — so, even, indeed, yes
 * **akesi** ***[hagedis]*** *(JAN)*
   * *(KAMA)* - malvarmsanga — cold-blooded
   * *(LAWA)* - malvarmsanga animaĵo: reptilo, amfibio, krimulo — cold-blooded animated being: reptile, amphibian, criminal
@@ -959,8 +960,8 @@ nimi "ona sama" li ken kama nimi "sama".
   * *([WAWA PINI](#nimi-wawa-pini))* - povi, kapabli, rajti — can, to be able to, to be allowed to
 * **kepeken** ***[xebrewken]*** *([KAMA PALISA](#nimi-kama-palisa))* - per — by means of
 * **kili** ***[xili]*** *([IJO](#nimi-ijo))*
-  * *(KAMA)* - manĝebla — edible
-  * *(LAWA)* - io manĝebla: frukto, legomo, fungo — something edible: fruit, vegetable, mushroom
+  * *(KAMA)* - @ — @
+  * *(LAWA)* - io @: frukto, legomo, fungo — something @: fruit, vegetable, mushroom
 * **kiwen** ***[kiven]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - malmola — hard
   * *(LAWA)* - io malmola: ŝtono — something hard: stone
@@ -995,7 +996,8 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io longa kaj fleksebla: kordo, haro, ŝnuro, fadeno — something long and flexible: cord, hair, rope, thread
 * **lipu** ***[lippu]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - plata — flat
-  * *(LAWA)* - io plata: karto, dokumento, papero, dosiero, libro — something flat: card, document, paper, file, book
+  * *(LAWA)* - io plata: karto, dokumento, papero, dosiero — something flat: card, document, paper, file
+  * *(~~mute~~ ...)* - libro — book
 * **loje** ***[roje]*** *(SULI)* - ruĝa — red
 * **lon** ~~alon~~ ***[along]*** *([KAMA PALISA](#nimi-kama-palisa))* - ĉe, laŭ, en — at, along, in
 * **luka** ***[ruka]*** *([ILO](#nimi-ilo))*
@@ -1034,6 +1036,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - malantaŭo — back
   * *(lon ... pi)* - malantaŭ — behind
 * **mu** ***[mu]*** *([KALAMA](#nimi-kalama))* - indiferenta interjekcio: bla, miaŭ — indifferent interjection: blah, meeow
+  * *(KAMA)* - ajna, arbitra — any, arbitrary
 * **mun** ***[mun]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - ĉielpromenanta — sky-walking
   * *(LAWA)* - io ĉielpromenanta: luno, stelo — something sky-walking: moon, star
@@ -1073,8 +1076,8 @@ nimi "ona sama" li ken kama nimi "sama".
     * *([WAWA PALISA](#nimi-wawa-palisa))* - celi — to aim
     * *(LAWA)* - celanta organo: fingro — aiming organ: finger
 * **pan** ***[pan]*** *([IJO](#nimi-ijo))*
-  * *(KAMA)* - @ — @
-  * *(LAWA)* - io @: panherbaĵo, pano, nudeloj, rizo — something @: cereal, bread, pasta
+  * *(KAMA)* - @ — @?fonto?origino?originalo?
+  * *(LAWA)* - io @: seed, panherbaĵo, pano, nudeloj, rizo — something @: seed, cereal, bread, pasta
 * **pana** ***[?]*** *([WAWA PALISA](#nimi-wawa-palisa))* - doni, provizi, publikigi — to give, to provide, to publish
 * **pi** ***[bi]*** *([LILI](#nimi-lili))* - (genitivo) — (genitive)
 * **pilin** ***[fil-him]*** *([ILO](#nimi-ilo))*
