@@ -965,6 +965,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - @ — @
   * *(LAWA)* - io @: frukto, legomo, fungo — something @: fruit, vegetable, mushroom
 * **kin** → **a**
+* **kipisi** → **tu**
 * **kiwen** ***[kiven]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - malmola — hard
   * *(LAWA)* - io malmola: ŝtono — something hard: stone
