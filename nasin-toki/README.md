@@ -1072,7 +1072,9 @@ nimi "ona sama" li ken kama nimi "sama".
   * *([ILO](#nimi-ilo))*
     * *([WAWA PALISA](#nimi-wawa-palisa))* - celi — to aim
     * *(LAWA)* - celanta organo: fingro — aiming organ: finger
-* **pan** ***[pan]*** *(@)* - panherbaĵo, pano, nudeloj, rizo — cereal, bread, pasta@
+* **pan** ***[pan]*** *([IJO](#nimi-ijo))*
+  * *(KAMA)* - @ — @
+  * *(LAWA)* - io @: panherbaĵo, pano, nudeloj, rizo — something @: cereal, bread, pasta
 * **pana** ***[?]*** *([WAWA PALISA](#nimi-wawa-palisa))* - doni, provizi, publikigi — to give, to provide, to publish
 * **pi** ***[bi]*** *([LILI](#nimi-lili))* - (genitivo) — (genitive)
 * **pilin** ***[fil-him]*** *([ILO](#nimi-ilo))*
