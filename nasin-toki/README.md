@@ -911,7 +911,9 @@ nimi "ona sama" li ken kama nimi "sama".
 *(Vortaro — Dictionary)*
 
 * **a** ***[ha]*** *([KALAMA](#nimi-kalama))* - emocia interjekcio — emotional interjection
-* **akesi** ***[hagedis]*** *([SIJELO](#nimi-sijelo))* - malvarmsanga vivaĵo: reptilo, amfibio — cold-blooded living being: reptile, amphibian
+* **akesi** ***[hagedis]*** *(JAN)*
+  * *(KAMA)* - malvarmsanga — cold-blooded
+  * *(LAWA)* - malvarmsanga animaĵo: reptilo, amfibio, krimulo — cold-blooded animated being: reptile, amphibian, criminal
 * **ala** ***[ara]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - neniu — no
   * *(LAWA)* - nenio — nothing
@@ -940,7 +942,9 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - iternal — internal
   * *(LAWA)* - io interna: centro — something internal: center
 * **jaki** ***[yucky]*** *(SULI)* - malpura, fia — dirty, disgusting
-* **jan** ~~jen~~ ***[jen]*** *([SIJELO](#nimi-sijelo))* - konscia vivaĵo — konscia vivaĵo
+* **jan** ~~jen~~ ***[jen]*** *(JAN)*
+  * *(KAMA)* - konscia — conscious
+  * *(LAWA)* - konscia animaĵo: persono — conscious animated being: person
 * **jelo** ***[yellow]*** *(SULI)* - flava — yellow
 * **jo** ***[jow]*** *([WAWA PALISA](#nimi-wawa-palisa))* - havi — to have
 * **kala** ***[kala]*** *([SIJELO](#nimi-sijelo))*
@@ -969,7 +973,9 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - ŝvebanta — hovering
   * *(LAWA)* - io ŝvebanta: aero, spirito, kaŝita realo, esenco — something hovering: air, spirit, hidden reality, essence
 * **kule** ***[kuler]*** *(SULI)* - kolora, pentrita — colorful, painted
-* **kulupu** ***[grup]*** *([SIJELO](#nimi-sijelo))* - svarma vivaĵo: komunumo, kompanio, grupo, nacio, socio, tribo — swarm-like living being: community, company, group, nation, society, tribe
+* **kulupu** ***[grup]*** *(JAN)*
+  * *(KAMA)* - svarma — swarm-like
+  * *(LAWA)* - svarma animaĵo: komunumo, kompanio, grupo, nacio, socio, tribo — swarm-like animated being: community, company, group, nation, society, tribe
 * **kute** ~~ekute~~ ***[ekute]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - aŭdi — to hear
   * *(LAWA)* - aŭda organo: orelo — hearing organ: ear
@@ -1010,13 +1016,19 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - vasta — vast
   * *(LAWA)* - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero — something vast: earth, soil, land, field, world, territory, outdoors
   * *(lon ... pi)* - ekster — outside
-* **mama** ***[mama]*** *([SIJELO](#nimi-sijelo))* - zorganta vivaĵo — care-taking living being
+* **mama** ***[mama]*** *(JAN)*
+  * *(KAMA)* - zorganta — care-taking
+  * *(LAWA)* - zorganta animaĵo: gepatro — care-taking animated being: parent
 * **mani** ***[mani]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - valora — valueable
   * *(LAWA)* - io valora: mono, ŝparaĵo, riĉeco, granda malsovaĝigita besto — something valueable: money, savings, wealth, large domesticated animal
-* **meli** ***[meri]*** *([SIJELO](#nimi-sijelo))* - ina vivaĵo: virino, edzino — female living being: woman, wife
+* **meli** ***[meri]*** *(JAN)*
+  * *(KAMA)* - ina — female
+  * *(LAWA)* - ina animaĵo: virino, edzino — female animated being: woman, wife
 * **mi** ***[mi]*** *([PALISA](#nimi-palisa))* - mi, ni — I, we
-* **mije** ***[mies]*** *([SIJELO](#nimi-sijelo))* - vira vivaĵo: viro, edzo — male living being: man, husband
+* **mije** ***[mies]*** *(JAN)*
+  * *(KAMA)* - vira — male
+  * *(LAWA)* - vira animaĵo: viro, edzo — male animated being: man, husband
 * **moku** ***[mogu]*** *([KAMA PALISA](#nimi-kama-palisa))* - manĝi, trinki, gluti — to eat, to drink, to swallow
 * **moli** ~~muli~~ ***[murir]*** *(SULI)* - mortinta, malviva — dead
 * **monsi** ***[mon-ĉi]*** *([IJO](#nimi-ijo))*
@@ -1114,7 +1126,9 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - desegnita, imagita, skribita — drawn, imagined, written
   * *(LAWA)* - io desegnita, io imagita, io skribita: bildo, ideo, simbolo — something drawn, something imagined,  something written: picture, idea, symbol
 * **sona** ***[codna]*** *([WAWA PALISA](#nimi-wawa-palisa))* - scii, esti lerta — to know, to be skilled in
-* **soweli** ***[cxoveli]*** *([SIJELO](#nimi-sijelo))* - varmsanga vivaĵo: mamulo — warm-blooded living being: mammal
+* **soweli** ***[cxoveli]*** *(JAN)*
+  * *(KAMA)* - malvarmsanga — cold-blooded
+  * *(LAWA)* - varmsanga animaĵo: mamulo — warm-blooded animated being: mammal
 * **suli** ***[suri]*** *(SULI)* - granda, peza, grava, plenkreska — big, heavy, important, adult
 * **suno** ***[suno]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - hela — bright
