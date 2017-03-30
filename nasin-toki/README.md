@@ -944,7 +944,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **insa** ***[insajt]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - iternal — internal
   * *(LAWA)* - io interna: centro — something internal: center
-* **jaki** ***[yucky]*** *(SULI)* - malpura, fia — dirty, disgusting
+* **jaki** ***[jakki]*** *(SULI)* - malpura, fia — dirty, disgusting
 * **jan** ~~jen~~ ***[jen]*** *(PALISA)* - iu — someone
 * **jelo** ***[jellow]*** *(SULI)* - flava — yellow
 * **jo** ***[jow]*** *([WAWA PALISA](#nimi-wawa-palisa))* - havi — to have
