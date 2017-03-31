@@ -117,7 +117,7 @@ kama pi **nimi lili** "o" la nimi "sina" li ken kama weka.
   * → ***o*** lukin! *(Rigardu! — Look!)*
 
 pini pi **nimi lili** "o" la nimi "kute" li ken kama weka.
-*("kute" povas malaperi malantaŭ la partikulo "o". — "kute" can disappear before the particle "o".)*
+*("kute" povas malaperi malantaŭ la partikulo "o". — "kute" can disappear after the particle "o".)*
 
 * jan pona ***o*** kute. *(Amiko aŭskultu. — A friend should listen.)*
   * → jan pona ***o***! *(Ho amiko! — Hey friend!)*
