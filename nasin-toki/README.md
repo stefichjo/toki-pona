@@ -996,7 +996,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *([WAWA PALISA](#nimi-wawa-palisa))* - gvidi — to guide
   * *(LAWA)* - gvida organo: kapo — guiding organ: head
   * *(lon ... pi)* - supre de — at the top of
-* **leko** → **sike ala**
+* **leko** → **sike ala**, **nena pi sike ala**, **mute nena**
 * **len** ***[leng]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - pendanta, kovranta — hanging, covering
   * *(LAWA)* - io pendanta: vesto, io kovranta: kovrilo, privateco — something hanging: cloth, something covering: cover, privacy
