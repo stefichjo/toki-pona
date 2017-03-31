@@ -82,9 +82,9 @@ jan li ken toki sin kepeken nimi lon pini taso pi **nimi lili** "li".
 *(Oni povas respondi per nura predikato. — One can reply by just a predicate.)*
 
 * ~~ni li~~ ***pona***. *(Dankon. — Thanks.)*
-  * → ***pona***.
+  * → ***pona***!
 * ~~ona li~~ ***mama***. *(Jes. (Ŝi estas gepatro.) — Yes. (She is a parent.))*
-  * → ***mama***.
+  * → ***mama***!
 
 #### nimi lili "e"
 *(Rekta Objekto — Direct Object)*
@@ -92,14 +92,14 @@ jan li ken toki sin kepeken nimi lon pini taso pi **nimi lili** "li".
 nimi "ijo" taso li lon pini pi **nimi lili** "e", la ona li ken kama weka.
 *(Nura "ijo" kiel rekta objekto povas malaperi. — Plain "ijo" as the direct object can disappear.)*
 
-* mije li ***sona e ijo***. *(La viro scias aferojn. — The man knows things.)*
-  * → mije li ***sona***. *(La viro scias. — The man knows.)*
+* mije li sona ***e ijo***. *(La viro scias aferojn. — The man knows things.)*
+  * → mije li sona. *(La viro scias. — The man knows.)*
 
 nimi lon pini pi **nimi lili** "li" li ken jo e **nimi lili** "e" mute. sitelen nanpa ona li ken kama weka.
 *(Predikato povas havi plurajn rektajn objektojn. Iliaj komoj povas malaperi. — A predicate can have multiple direct objects. Their commas can disappear.)*
 
-* ona li ***seli*** e soweli, e pan. *(Ŝi kuiras la viandon kaj la rizon. — She cooks the meat and the rice.)*
-  * → ona li ***seli*** e soweli e pan.
+* ona li seli ***e*** soweli, ***e*** pan. *(Ŝi kuiras la viandon kaj la rizon. — She cooks the meat and the rice.)*
+  * → ona li seli ***e*** soweli ***e*** pan.
 
 jan li ken toki e wile kepeken nimi lon pini taso pi **nimi lili** "e".
 *(Oni povas komuniki deziron per nura rekta objekto. — One can express a desire by just a direct object.)*
