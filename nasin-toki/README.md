@@ -142,8 +142,8 @@ kama pi mute nimi la **nimi kama palisa** "lon" li kama weka.
 *(Komence de frazo, "lon" malaperas. — At the beginning of a sentence, "lon" disappears.)*
 
 * ona li kama ***lon*** tenpo pimeja ni. *(Ŝi venas tiun ĉi nokton. — She is coming tonight.)*
-  * ~~lon~~ tenpo pimeja la ona li kama. *(Ĉi-nokte, ŝi venas. — Tonight, she is coming.)*
-    * tenpo pimeja la ona li kama.
+  * ~~lon~~ tenpo pimeja **la** ona li kama. *(Ĉi-nokte, ŝi venas. — Tonight, she is coming.)*
+    * tenpo pimeja **la** ona li kama.
 
 nimi "ni" lon kama pi mute nimi li lon poka pi **mute nimi kama**, la nimi "ni" li kama weka.
 *(Se "ni" komence de frazo akompanas relativan frazon, "ni" malaperas. — If "ni" at the beginning of a sentence accompanies a relative clause, "ni" disappears.)*
