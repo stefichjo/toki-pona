@@ -72,14 +72,14 @@ nimi lon kama pi **nimi lili** "li" li nimi "mi" taso anu nimi "sina" taso, la *
 * sina ***~~li~~*** sin. *(Vi estas nova. — You are new.)*
   * → sina sin.
 
-**mute nimi** li ken jo e wan mute pi mute nimi lon pini pi **nimi lili** "li". sitelen nanpa ona li ken kama weka.
-*(Frazo povas havi plurajn predikatojn. Ilia komo povas malaperi. — A sentence can have multiple predicates. Their commas can disappear.)*
+**mute nimi** li ken jo e **nimi lili** "li" mute. sitelen nanpa ona li ken kama weka.
+*(Frazo povas havi plurajn predikatojn. Iliaj komoj povas malaperi. — A sentence can have multiple predicates. Their commas can disappear.)*
 
 * ***ma mama li*** lili, ***li*** lete. *(La patrujo estas malgranda kaj malvarma. — The motherland is small and cold.)*
   * → ***ma mama li*** lili ***li*** lete.
 
 jan li ken toki sin kepeken nimi lon pini taso pi **nimi lili** "li".
-*(Oni povas respondi per nura predikato (sen "li"). — One can reply by just a predicate (without ("li").)*
+*(Oni povas respondi per nura predikato. — One can reply by just a predicate.)*
 
 * ~~ni li~~ ***pona***. *(Dankon. — Thanks.)*
   * → ***pona***.
@@ -89,19 +89,17 @@ jan li ken toki sin kepeken nimi lon pini taso pi **nimi lili** "li".
 #### nimi lili "e"
 *(Rekta Objekto — Direct Object)*
 
-pini pi **nimi lili** "e" la **nimi lawa** "ijo" li ken kama weka.
-*(Kiel rekta objekto, la substantivo "ijo" povas malaperi. — As the direct object, the noun "ijo" can disappear.)*
+nimi "ijo" taso li lon pini pi **nimi lili** "e", la ona li ken kama weka.
+*(Nura "ijo" kiel rekta objekto povas malaperi. Plain "ijo" as the direct object can disappear.)*
 
 * mije li ***sona e ijo***. *(La viro scias aferojn. — The man knows things.)*
   * → mije li ***sona***. *(La viro scias. — The man knows.)*
-* ***~~ijo~~*** toki *(parolaĵo; lingvo — talk, speech; language)*
-  * → toki *(lingvo — language)*
 
-**mute nimi** tu pi nimi sama lon kama pi nimi "li" li jo e nimi sama lon kama pi nimi "e" la, ona li ken kama wan. nimi lon pini pi **nimi lili** e li wile ala e sitelen nanpa. *(Du frazoj kun samaj subjekto kaj samaj transitivaj verboj povas unuiĝi. Rektaj objektoj ne bezonas komon. — Two sentences with the same subject and the same transitive verb can become one. Direct objects don't need commas.)*
+nimi lon pini pi **nimi lili** "li" li ken jo e **nimi lili** "e" mute. sitelen nanpa ona li ken kama weka.
+*(Predikato povas havi plurajn rektajn objektojn. Iliaj komoj povas malaperi. — A predicate can have multiple direct objects. Their commas can disappear.)*
 
-* ***ona li seli*** e soweli, ***ona li seli*** e pan. *(Ŝi kuiras la viandon kaj ŝi kuiras la rizon. — She cooks the meat and she cooks the rice.)*
-  * → ona li ***seli*** e soweli, e pan. *(Ŝi kuiras la viandon kaj la rizon. — She cooks the meat and the rice.)*
-    * → ona li ***seli*** e soweli e pan.
+* ona li ***seli*** e soweli, e pan. *(Ŝi kuiras la viandon kaj la rizon. — She cooks the meat and the rice.)*
+  * → ona li ***seli*** e soweli e pan.
 
 **mute nimi** nanpa tu li lon pini pi **nimi lili** "e" pi **mute nimi** nanpa wan, la **nimi wawa** nanpa wan li ken kama **nimi wawa pini** pi **nimi wawa** nanpa tu.
 *(Se dua frazo estas la rekta objekto de unua frazo, la verbo de la unua frazo povas fariĝi la helpa verbo de la dua verbo. — If a second sentence is the direct object of a first sentence, the verb of the first sentence can become the auxiliary verb of the second sentence.)*
@@ -930,7 +928,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **apeja** → **jaki**
 * **awen** ***[hawen]*** *(SULI)* - daŭranta, atendanta, restanta — enduring, waiting, remaining
   * *([WAWA PINI](#nimi-wawa-pini))* - plu- — to continue to
-* **e** ***[?]*** *([LILI](#nimi-lili))* - -n — (accusative)
+* **e** ***[?]*** *([LILI](#nimi-lili-e))* - -n — (accusative)
 * **en** ***[en]*** *([LILI](#nimi-lili))* - kaj — and
 * **esun** ***[?]*** *([SIJELO](#nimi-sijelo))*
   * *([KAMA PALISA](#nimi-kama-palisa))* - anstataŭ — in exchange for, instead of
@@ -998,7 +996,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - pendanta, kovranta — hanging, covering
   * *(LAWA)* - io pendanta: vesto, io kovranta: kovrilo, privateco — something hanging: cloth, something covering: cover, privacy
 * **lete** ***[frete]*** *(SULI)* - malvarma, kruda — cold, raw
-* **li** ***[li]*** *([LILI](#nimi-lili))* - (predikato) — (predikato)
+* **li** ***[li]*** *([LILI](#nimi-lili-li))* - (predikato) — (predikato)
 * **lili** ***[lik-lik]*** *(SULI)* - malgranda, malmulta — small, few
 * **linja** ***[linja]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - longa kaj fleksebla — long and flexible
