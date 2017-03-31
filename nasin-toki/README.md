@@ -62,7 +62,7 @@ wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-li
 *(Partikuloj — Particles)*
 
 #### nimi lili "li"
-*(Subjekto kaj Predikato — Subject and Predicate)*
+*(Indikativo, Subjekto kaj Predikato — Indicative, Subject and Predicate)*
 
 nimi lon kama pi **nimi lili** "li" li nimi "mi" taso anu nimi "sina" taso, la **nimi lili** "li" li kama weka.
 *(Se la subjekto estas nura "mi" aŭ nura "sina", "li" malaperas. — If the subject is just "mi" or "sina", "li" disappears.)*
@@ -132,11 +132,12 @@ mute nimi pi nimi "kute" weka lon pini pi **nimi lili** "o" en mute nimi pi nimi
 #### nimi lili "pi"
 *(Genitivo — Genitive)*
 
-kama pi **nimi lawa** wan taso la **nimi lili** "pi" li kama weka. nasin ni la **nimi lawa** ni li kama **nimi kama**.
-*(Antaŭ nuraj substantivoj, la partikulo "pi" malaperas. Tiel tiu substantivo fariĝas modifilo. — The particle "pi" disappears before simple nouns. Such a noun thereby becomes a modifier.)*
+nimi lon pini pi **nimi lili** "pi" li **nimi lawa** taso, la ona li kama **nimi kama**.
+*(Se genitiva frazero konsistas el nura substantivo, ĝi fariĝas modifilo. — If a genitive phrase consists of only a noun, it becomes a modifier.)*
 
-* toki ***~~pi~~*** pona *(lingvo de bono — language of good)*
-  * → toki pona *(bona lingvo — good language)*
+* toki ***~~pi~~*** pona *(lingvo de bono — a language of good)*
+  * → toki pona *(bona lingvo — a good language)*
+* toki **pi** pona mute *(tre bona lingvo — a very good language)*
 
 pini pi **nimi wawa** "pilin" la **nimi lili** "e" li ken kama **nimi lili** "pi".
 *(Post la verbo "pilin", la partikulo "e" povas fariĝi "pi". — After the verb "pilin", the particle "e" can become "pi".)*
@@ -144,11 +145,11 @@ pini pi **nimi wawa** "pilin" la **nimi lili** "e" li ken kama **nimi lili** "pi
 * mi ***pilin e*** pona mute. *(Mi sentas multan bonon. — I feel much good.)*
   * → mi ***pilin pi*** pona mute. *(Mi fartas tre bone. — I feel very good.)*
 
-nimi "nanpa" lon poka pi **nimi nanpa** li ken kama nimi. tan ni la **nimi suli** "nanpa" li sama **nimi kama palisa**.
-*("nanpa" kun numeralo povas fariĝi nomo. Tial, la radika vorto "nanpa" ŝajnas prepozicio. — "nanpa" together with a numeral can become a name. Therefore, the content word "nanpa" seems like a preposition.)*
+nimi "nanpa" lon poka pi **nimi nanpa** li ken kama nimi.
+*("nanpa" kun numeralo povas fariĝi nomo. — "nanpa" together with a numeral can become a name.)*
 
-* toki ***~~pi~~ nanpa wan*** *(la unua lingvo — the first language)*
-  * → toki ***nanpa wan*** *(la lingvo numero unu — language number one)*
+* lipu **pi nanpa tu** - *(la karto kun la numero du — the card with the number two)*
+  * → lipu **nanpa tu** - *(la karto numero du, la dua karto — the card number two, the second card)*
 
 #### nimi lili "en"
 **nimi lili** "en" li ken lon insa pi nimi lon kama pi **nimi lili** "li" taso. *(La partikulo "en" povas esti nur inter pluraj subjektoj. — The particle "en" can only be between multiple subjects.)*
@@ -1091,7 +1092,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io baza: fundamento, semo, panherbaĵo, pano, nudeloj, rizo — something basic: fundament, seed, cereal, bread, pasta, rice
     * *(lon ... pi)* - baze de — on the basis of
 * **pana** ***[?]*** *([WAWA PALISA](#nimi-wawa-palisa))* - doni, provizi, publikigi — to give, to provide, to publish
-* **pi** ***[bi]*** *([LILI](#nimi-lili))* - (genitivo) — (genitive)
+* **pi** ***[bi]*** *([LILI](#nimi-lili-pi))* - (genitivo) — (genitive)
 * **pilin** ***[fil-him]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - senti — to feel
     * *(... akesi)* - timi — to fear
