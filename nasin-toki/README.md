@@ -208,9 +208,9 @@ nimi "nimi" en nimi "kalama" li kama weka lon kama pi nimi tan jan ante anu nimi
 
 * jan Isa li toki e ***~~nimi~~ ni*** "..." *(Jesuo diris: "..." — Jesus said: "...")*
   * → jan Isa li toki e ***ni***: "..."
-* toki ***~~pi nimi~~ "Epelanto"*** *(Esperanto — Esperanto)*
+* toki ~~pi nimi~~ "***Epelanto***" *(Esperanto — Esperanto)*
   * → toki ***Epelanto***
-* sina nanpa ***~~pi nimi~~ "wan"***. *(Vi estas la unua. — You are the first.)*
+* sina nanpa ~~pi nimi~~ "***wan***". *(Vi estas la unua. — You are the first.)*
   * → sina nanpa ***wan***.
 
 ### nimi suli "ale", "ala", "ni", "seme"
@@ -930,7 +930,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **ante** ***[ander]*** *([KAMA PALISA](#nimi-kama-palisa))* - ol — than
   * *(KAMA)* - alia — different
 * **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili))* - aŭ — or
-* **apeja** → **jaki***
+* **apeja** → **jaki**
 * **awen** ***[hawen]*** *(SULI)* - daŭranta, atendanta, restanta — enduring, waiting, remaining
   * *([WAWA PINI](#nimi-wawa-pini))* - plu- — to continue to
 * **e** ***[?]*** *([LILI](#nimi-lili))* - -n — (accusative)
