@@ -152,8 +152,8 @@ nimi "ni" lon kama pi mute nimi li lon poka pi **mute nimi kama**, la nimi "ni" 
   * → ~~lon ni,~~ mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
     * → mi pona tawa jan, ***la*** jan li pona tawa mi.
 
-nimi "ni" taso li lon pini pi **nimi kama palisa** "taso" lon kama pi mute nimi, la nimi "ni" en nimi "la" li kama weka.
-*(Se nura "ni" estas malantaŭ la prepozicio "taso" komence de frazo, "ni" kaj "la" malaperas. — If plain "ni" comes after the preposition "taso" at the beginning of a sentence, "ni" and "la" disappear.)*
+nimi "ni" taso li lon pini pi **nimi kama palisa** "taso" lon kama pi mute nimi, la nimi "ni" en nimi "la" li ken kama weka.
+*(Se nura "ni" estas malantaŭ la prepozicio "taso" komence de frazo, "ni" kaj "la" povas malaperi. — If plain "ni" comes after the preposition "taso" at the beginning of a sentence, "ni" and "la" can disappear.)*
 
 * ***taso ni la*** mije en meli li pali li pilin pona. *(Sendepende de tio, viroj kaj virinoj laboras kaj estas gajaj. — Independent from that, men and women work and are happy.)*
   * → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj. — But men and women work and are happy.)*
