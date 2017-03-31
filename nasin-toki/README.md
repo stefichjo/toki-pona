@@ -930,6 +930,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **ante** ***[ander]*** *([KAMA PALISA](#nimi-kama-palisa))* - ol — than
   * *(KAMA)* - alia — different
 * **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili))* - aŭ — or
+* **apeja** → **jaki***
 * **awen** ***[hawen]*** *(SULI)* - daŭranta, atendanta, restanta — enduring, waiting, remaining
   * *([WAWA PINI](#nimi-wawa-pini))* - plu- — to continue to
 * **e** ***[?]*** *([LILI](#nimi-lili))* - -n — (accusative)
@@ -946,7 +947,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **insa** ***[insajt]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - iternal — internal
   * *(LAWA)* - io interna: centro — something internal: center
-* **jaki** ***[jakki]*** *(SULI)* - malpura, fia — dirty, disgusting
+* **jaki** ***[jakki]*** *(SULI)* - malpura, fia, senhonora — dirty, disgusting, dishonored
 * **jan** ~~jen~~ ***[jen]*** *(PALISA)* - iu — someone
 * **jelo** ***[jellow]*** *(SULI)* - flava — yellow
 * **jo** ***[jow]*** *([WAWA PALISA](#nimi-wawa-palisa))* - havi — to have
@@ -995,6 +996,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *([WAWA PALISA](#nimi-wawa-palisa))* - gvidi — to guide
   * *(LAWA)* - gvida organo: kapo — guiding organ: head
   * *(lon ... pi)* - supre de — at the top of
+* **leko** → **sike ala**
 * **len** ***[leng]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - pendanta, kovranta — hanging, covering
   * *(LAWA)* - io pendanta: vesto, io kovranta: kovrilo, privateco — something hanging: cloth, something covering: cover, privacy
@@ -1083,6 +1085,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **ona** ***[ona]*** *([PALISA](#nimi-palisa))* - ŝi, li, ĝi, ili — she, he, it, they
 * **open** ***[open]*** *(SULI)* - malfermita — open
 * **pakala** ***[bagar-ap]*** *(SULI)* - damaĝita, lezita — damaged, harmed
+* **pake e** → **len e lupa pi**
 * **pali** ***[fari]*** *([WAWA PALISA](#nimi-wawa-palisa))* - prilabori, krei, prepari — to work on, to create, to prepare
 * **palisa** ***[palica]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - longa kaj malmola — long and hard
