@@ -30,6 +30,28 @@ wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-li
 
 ---
 
+* **nimi lili** *(partikulo — particle)*
+  * **nimi kalama** *(interjekcio — interjection)*
+* **nimi suli** *(radika vorto — content word)*
+  * **nimi lawa** *(substantivo — noun)*
+  * **nimi kama** *(modifilo, adjektivo, adverbo — modifier, adjective, adverb)*
+    * **nimi kama palisa** *(prepozicio — preposition)*
+  * **nimi ma** *(spaca vorto — spatial noun)*
+  * **nimi wawa** *(verbo — verb)*
+    * **nimi wawa pi palisa ala** *(netransitiva verbo - intransitive verb)*
+    * **nimi wawa palisa** *(transitiva verbo — transitive verb)*
+    * **nimi wawa pini** *(helpa verbo — auxiliary verb)*
+* **mute nimi** *(frazo — sentence)*
+  * **sitelen lon poka nimi** *(interpunkcio — punctuation)*
+  * **nimi lon kama pi nimi lili "li"** *(subjekto — subject)*
+  * **nimi lon pini pi nimi lili "li"** *(predikato — predicate)*
+  * **nimi lon pini pi nimi lili "e"** *(rekta objekto — direct object)*
+  * **nimi lon kama pi nimi lili "la"** *(helpa frazero — auxiliary clause)*
+  * **mute nimi lon insa pi mute nimi** *(subfrazo — subordinate clause)*
+  * **mute nimi pi nimi "seme"** *(demanda frazo — interrogative sentence)*
+
+---
+
 # toki suli
 *(Oficiala Lingvaĵo — Official Language)*
 
@@ -59,9 +81,9 @@ nimi lon kama pi **nimi lili** "li" li nimi "mi" taso anu nimi "sina" taso, la *
 jan li ken toki sin kepeken nimi lon pini taso pi **nimi lili** "li".
 *(Oni povas respondi per nura predikato. — One can reply by just a predicate.)*
 
-* ~~ni li~~ ***pona***. *(Dankon. — Thanks.)*
+* ~~ni li~~ ***pona***. *(Dankon! — Thanks!)*
   * → ***pona***!
-* ~~ona li~~ ***mama***. *(Jes. (Ŝi estas gepatro.) — Yes. (She is a parent.))*
+* ~~ona li~~ ***mama***. *(Jes! (Ŝi estas gepatro.) — Yes! (She is a parent.))*
   * → ***mama***!
 
 #### nimi lili "e"
@@ -1174,25 +1196,3 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - fora, distanca — away, gone, distant
   * *(lon ...)* - for — away@
 * **wile** ***[wille]*** *([WAWA PALISA](#nimi-wawa-palisa))* - voli, bezoni, devi — want, to need, must
-
----
-
-* **nimi lili** *(partikulo — particle)*
-  * **nimi kalama** *(interjekcio — interjection)*
-* **nimi suli** *(radika vorto — content word)*
-  * **nimi lawa** *(substantivo — noun)*
-  * **nimi kama** *(modifilo, adjektivo, adverbo — modifier, adjective, adverb)*
-    * **nimi kama palisa** *(prepozicio — preposition)*
-  * **nimi ma** *(spaca vorto — spatial noun)*
-  * **nimi wawa** *(verbo — verb)*
-    * **nimi wawa pi palisa ala** *(netransitiva verbo - intransitive verb)*
-    * **nimi wawa palisa** *(transitiva verbo — transitive verb)*
-    * **nimi wawa pini** *(helpa verbo — auxiliary verb)*
-* **mute nimi** *(frazo — sentence)*
-  * **sitelen lon poka nimi** *(interpunkcio — punctuation)*
-  * **nimi lon kama pi nimi lili "li"** *(subjekto — subject)*
-  * **nimi lon pini pi nimi lili "li"** *(predikato — predicate)*
-  * **nimi lon pini pi nimi lili "e"** *(rekta objekto — direct object)*
-  * **nimi lon kama pi nimi lili "la"** *(helpa frazero — auxiliary clause)*
-  * **mute nimi lon insa pi mute nimi** *(subfrazo — subordinate clause)*
-  * **mute nimi pi nimi "seme"** *(demanda frazo — interrogative sentence)*
