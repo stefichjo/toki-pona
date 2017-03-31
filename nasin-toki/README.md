@@ -129,6 +129,34 @@ nimi "nanpa" lon poka pi **nimi nanpa** li ken kama nimi.
 * lipu **pi nanpa tu** *(la karto kun la numero du — the card with the number two)*
   * → lipu **nanpa tu** *(la karto numero du, la dua karto — the card number two, the second card)*
 
+#### nimi lili "la"
+*(Helpaj Frazeroj — Auxiliary Clauses)*
+
+kepeken **nimi lili** "la" la **nimi kama palisa** li ken kama lon kama pi mute nimi.
+*(Per la partikulo "la", prepozicio povas aperi ĉe la komenco de frazo. — By means of the particle "la", a preposition can appear at the beginning of a sentence.)*
+
+* sina pana e nimi "pona" tawa mi ***tan*** seme? *(Kial vi nomas min bona? — Why are you calling me good?)*
+  * → ***tan*** seme ***la*** sina pana e nimi "pona" tawa mi?
+
+kama pi mute nimi la **nimi kama palisa** "lon" li kama weka.
+*(Komence de frazo, "lon" malaperas. — At the beginning of a sentence, "lon" disappears.)*
+
+* ona li kama lon tenpo pimeja ni. *(Ŝi venas tiun ĉi nokton. — She is coming tonight.)*
+  * ~~lon~~ tenpo pimeja la ona li kama. *(Ĉi-nokte, ŝi venas. — Tonight, she is coming.)*
+    * tenpo pimeja la ona li kama.
+
+nimi "ni" lon kama pi mute nimi li lon poka pi **mute nimi kama**, la nimi "ni" li kama weka.
+*(Se "ni" komence de frazo akompanas relativan frazon, "ni" malaperas. — If "ni" at the beginning of a sentence accompanies a relative clause, "ni" disappears.)*
+
+* ~~lon ni,~~ mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
+  * → mi pona tawa jan, ***la*** jan li pona tawa mi.
+
+nimi "taso ni la" li kama "taso".
+*("taso ni la" fariĝas "taso". — "taso ni la" becomes "taso".)*
+
+* ***taso ni la*** mije en meli li pali li pilin pona. *(Malgraŭ tio viroj kaj virinoj laboras kaj estas gajaj. — Nonetheless, men and women work and are happy.)*
+  * → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj. — But men and women work and are happy.)*
+
 #### nimi lili "en"
 **nimi lili** "en" li ken lon insa pi nimi lon kama pi **nimi lili** "li" taso. *(La partikulo "en" povas esti nur inter pluraj subjektoj. — The particle "en" can only be between multiple subjects.)*
 
@@ -140,23 +168,6 @@ nimi "ala anu" lon insa pi nimi sama tu li ken kama nimi "ala".
 
 * ona li ***mama ala anu mama***? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
   * → ona li ***mama ala mama***?
-
-#### nimi lili "la"
-*(Helpaj Frazeroj — Auxiliary Clauses)*
-
-nimi lon kama pi **nimi lili** "la" la **nimi kama palisa** "lon (ni)" li kama weka.
-*(En helpa frazero, la prepozicio "lon (ni)" malaperas. — In an auxiliary clause, the proposition "lon (ni)" disappears.)*
-
-* ***~~lon~~*** kulupu ***la*** mi wawa. *(En grupo ni estas fortaj. — Together we are strong.)*
-  * → kulupu ***la*** mi wawa.
-* ***~~lon ni,~~*** mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
-  * → mi pona tawa jan, ***la*** jan li pona tawa mi.
-
-nimi "taso ni la" li kama "taso".
-*("taso ni la" fariĝas "taso". — "taso ni la" becomes "taso".)*
-
-* ***taso ni la*** mije en meli li pali li pilin pona. *(Malgraŭ tio viroj kaj virinoj laboras kaj estas gajaj. — Nonetheless, men and women work and are happy.)*
-  * → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj. — But men and women work and are happy.)*
 
 #### nimi kalama
 *(Interjekcio — Interjection)*
@@ -756,7 +767,7 @@ nimi lon pini pi **nimi lili** "pi" li wile ala e sitelen nanpa.
 * tomo pi telo nasa, pi jan pona *(nia trinkejo — our bar)*
   * → tomo pi telo nasa pi jan pona
 
-#### mute nimi lon insa pi mute nimi
+#### mute nimi kama
 *(Subfrazoj — Subordinate Clauses)*
 
 nimi pi **mute nimi** lon insa pi **mute nimi** li ken kama weka.
@@ -1194,5 +1205,5 @@ nimi "ona sama" li ken kama nimi "sama".
   * **nimi lon pini pi nimi lili "li"** *(predikato — predicate)*
   * **nimi lon pini pi nimi lili "e"** *(rekta objekto — direct object)*
   * **nimi lon kama pi nimi lili "la"** *(helpa frazero — auxiliary clause)*
-  * **mute nimi lon insa pi mute nimi** *(subfrazo — subordinate clause)*
+  * **mute nimi kama** *(subfrazo — subordinate clause)*
   * **mute nimi pi nimi "seme"** *(demanda frazo — interrogative sentence)*
