@@ -75,8 +75,8 @@ nimi lon kama pi **nimi lili** "li" li nimi "mi" taso anu nimi "sina" taso, la *
 **mute nimi** li ken jo e **nimi lili** "li" mute. sitelen nanpa ona li ken kama weka.
 *(Frazo povas havi plurajn predikatojn. Iliaj komoj povas malaperi. — A sentence can have multiple predicates. Their commas can disappear.)*
 
-* ***ma mama li*** lili, ***li*** lete. *(La patrujo estas malgranda kaj malvarma. — The motherland is small and cold.)*
-  * → ***ma mama li*** lili ***li*** lete.
+* ma mama ***li*** lili, ***li*** lete. *(La patrujo estas malgranda kaj malvarma. — The motherland is small and cold.)*
+  * → ma mama ***li*** lili ***li*** lete.
 
 jan li ken toki sin kepeken nimi lon pini taso pi **nimi lili** "li".
 *(Oni povas respondi per nura predikato. — One can reply by just a predicate.)*
@@ -135,8 +135,8 @@ mute nimi wan pi nimi "kute" weka lon pini pi **nimi lili** "o" en mute nimi wan
 nimi lon pini pi **nimi lili** "pi" li **nimi lawa** taso, la ona li kama **nimi kama**.
 *(Se genitiva frazero konsistas el nura substantivo, ĝi fariĝas modifilo. — If a genitive phrase consists of only a noun, it becomes a modifier.)*
 
-* toki ***~~pi~~*** pona *(lingvo de bono — a language of good)*
-  * → toki pona *(bona lingvo — a good language)*
+* toki ***~~pi~~*** pona *(lingvo de bono, bona lingvo — a language of good, a good language)*
+  * → toki pona
 * toki **pi** pona mute *(tre bona lingvo — a very good language)*
 
 pini pi **nimi wawa** "pilin" la **nimi lili** "e" li ken kama **nimi lili** "pi".
