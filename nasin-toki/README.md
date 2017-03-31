@@ -983,8 +983,8 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io ŝvebanta: aero, spirito, esenco, kaŝita realo — something hovering: air, spirit, essence, hidden reality
 * **kule** ***[kuler]*** *(SULI)* - kolora, pentrita — colorful, painted
 * **kulupu** ***[grup]*** *(JAN)*
-  * *(KAMA)* - svarma — swarm-like
-  * *(LAWA)* - svarma animaĵo: komunumo, kompanio, grupo, nacio, socio, tribo — swarm-like animated being: community, company, group, nation, society, tribe
+  * *(KAMA)* - reciproka — reciprocal
+  * *(LAWA)* - reciproka animaĵo: komunumo, kompanio, grupo, nacio, socio, tribo — reciprocal animated being: community, company, group, nation, society, tribe
 * **kute** ~~ekute~~ ***[ekute]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - aŭdi — to hear
   * *(LAWA)* - aŭda organo: orelo — hearing organ: ear
