@@ -130,7 +130,7 @@ nimi "nanpa" lon poka pi **nimi nanpa** li ken kama nimi.
   * → lipu **nanpa tu** *(la karto numero du, la dua karto — the card number two, the second card)*
 
 #### nimi lili "la"
-*(Helpaj Frazeroj — Auxiliary Clauses)*
+*(Kunteksto — Context)*
 
 kepeken **nimi lili** "la" la **nimi kama palisa** li ken kama lon kama pi mute nimi.
 *(Per la partikulo "la", prepozicio povas aperi ĉe la komenco de frazo. — By means of the particle "la", a preposition can appear at the beginning of a sentence.)*
@@ -364,13 +364,13 @@ nimi "mute" lon kama pi nimi "lipu" li ken weka.
 *(Helpaj Verboj — Auxiliary Verbs)*
 
 nimi "pini" li ken kama **nimi wawa pini**.
-*("pini" povas fariĝi helpa verbo. — "pini" can become an auxilary verb.)*
+*("pini" povas fariĝi helpa verbo. — "pini" can become an auxiliary verb.)*
 
 * mi ***pini*** e ni: mi ***jo*** e lipu. *(Mi ĉesis havi la libron. Mi perdis la libron. — I ceased to have the book. I lost the book.)*
   * → mi ***pini jo*** e lipu. 
 
 **nimi kama palisa** li ken kama **nimi wawa pini**.
-*(Prepozicioj povas fariĝi helpa verbo. — Prepositions can become auxilary verbs.)*
+*(Prepozicioj povas fariĝi helpa verbo. — Prepositions can become auxiliary verbs.)*
 
 * mi ***tan*** ni: mi ***pini moku***. *(Mi estas finmanĝinta. — I have finished to eat.)*
   * mi ***tan pini moku***.
@@ -567,7 +567,7 @@ nimi "luka" en nimi "esun" li ken kama **nimi nanpa**.
 * mi pana e tomo-***tawa-sina***. *(Mi donas vian aŭton. — I give your car.)*
 
 **nimi wawa pini** li ken jo e sitelen "en".
-*(Helpa verbo povas havi plus-signon. — An auxilary verb can have a plus sign.)*
+*(Helpa verbo povas havi plus-signon. — An auxiliary verb can have a plus sign.)*
 
 * mi ***kama***+sona e toki pona. *(Mi lernas Tokiponon. — I learn Toki Pona.)*
 
