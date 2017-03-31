@@ -4,7 +4,7 @@
 wan lipu "[toki lili](#toki-lili)" li toki e nasin toki pi jan ale pi toki pona.
 *(La sekcio "Kerna Lingvaĵo" traktas la lingvouzon de ĉiuj tokiponistoj. — The section "Core Language" treats the way every Toki Pona speaker uses the language.)*
 
-* ***sina ~~li~~*** sin. *(Vi estas nova. — You are new.)*
+* ***sina*** ~~li~~ sin. *(Vi estas nova. — You are new.)*
   * → ***sina*** sin.
 
 wan lipu "[toki namako](#toki-namako)" li toki e nasin toki sin pi jan Sonja lon lipu suli pi toki pona.
@@ -22,7 +22,7 @@ wan lipu "[toki musi](#toki-musi)" li toki e nasin toki pi jan ala. taso tawa mi
 wan lipu "[toki nasa](#toki-nasa)" li toki e nasin toki sin pi jan nasa ni: ona li wile ante e toki pona.
 *(La sekcio "Freneza Lingvaĵo" traktas la aldonan lingvouzon de tokiponidistoj. — The section "Crazy Language" treats the additional way of how speakers of Toki Pona dialects use the language.)*
 
-* mi tawa ***~~lon~~ poka ~~pi~~*** jan pona. *(Mi iras kun amiko. — I am going with a friend.)*
+* mi tawa ~~lon~~ ***poka*** ~~pi~~ jan pona. *(Mi iras kun amiko. — I am going with a friend.)*
   * → mi tawa ***poka*** jan pona.
 
 wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-lili) li kepeken [toki musi](#toki-musi). ona li [ale ala pi nimi mute, tan lipu suli pi toki pona](http://tokipona.net/tp/janpije/dictionary.php).
@@ -67,9 +67,9 @@ wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-li
 nimi lon kama pi **nimi lili** "li" li nimi "mi" taso anu nimi "sina" taso, la **nimi lili** "li" li kama weka.
 *(Se la subjekto estas nura "mi" aŭ nura "sina", "li" malaperas. — If the subject is just "mi" or "sina", "li" disappears.)*
 
-* ***mi*** ***~~li~~*** mije. *(Mi estas viro. — I am a man.)*
+* ***mi*** ~~li~~ mije. *(Mi estas viro. — I am a man.)*
   * → ***mi*** mije.
-* ***sina*** ***~~li~~*** sin. *(Vi estas nova. — You are new.)*
+* ***sina*** ~~li~~ sin. *(Vi estas nova. — You are new.)*
   * → ***sina*** sin.
 
 **mute nimi** li ken jo e **nimi lili** "li" mute. sitelen nanpa ona li ken kama weka.
