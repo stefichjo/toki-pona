@@ -152,10 +152,10 @@ nimi "ni" lon kama pi mute nimi li lon poka pi **mute nimi kama**, la nimi "ni" 
   * → ~~lon ni,~~ mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
     * → mi pona tawa jan, ***la*** jan li pona tawa mi.
 
-nimi "taso ni la" li kama "taso".
-*("taso ni la" fariĝas "taso". — "taso ni la" becomes "taso".)*
+nimi "ni" taso li lon pini pi **nimi kama palisa** "taso" lon kama pi mute nimi, la nimi "ni" en nimi "la" li kama weka.
+*(Se nura "ni" estas malantaŭ la prepozicio "taso" komence de frazo, "ni" kaj "la" malaperas. — If plain "ni" comes after the preposition "taso" at the beginning of a sentence, "ni" and "la" disappear.)*
 
-* ***taso ni la*** mije en meli li pali li pilin pona. *(Malgraŭ tio viroj kaj virinoj laboras kaj estas gajaj. — Nonetheless, men and women work and are happy.)*
+* ***taso ni la*** mije en meli li pali li pilin pona. *(Sendepende de tio, viroj kaj virinoj laboras kaj estas gajaj. — Independent from that, men and women work and are happy.)*
   * → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj. — But men and women work and are happy.)*
 
 #### nimi lili "en"
@@ -974,7 +974,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **kute** ~~ekute~~ ***[ekute]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - aŭdi — to hear
   * *(LAWA)* - aŭda organo: orelo — hearing organ: ear
-* **la** ***[la]*** *([LILI](#nimi-lili))* - (kunteksto) — (context)
+* **la** ***[la]*** *([LILI](#nimi-lili-la))* - (kunteksto) — (context)
 * **lape** ***[slape]*** *(SULI)* - dormanta, ripozanta — sleeping, resting
 * **laso** ~~la~~ ***[glas]*** *(SULI)* - blua, verda — blue, green
 * **lawa** ***[glava]*** *([ILO](#nimi-ilo))*
@@ -1152,8 +1152,9 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io dolĉa: dolĉaĵo — something sweet: sweets
 * **tan** ***[?]*** *([KAMA PALISA](#nimi-kama-palisa))* - de, pro — by, from, because of
   * *(KAMA)* - devenanta — originating
-* **taso** ***[dats-ol]*** *([KAMA PALISA](#nimi-kama-palisa))* - izolita de, sen — isolated from, without
-  * *(KAMA)* - izolita, nura — isolated, only
+* **taso** ***[dats-ol]*** *([KAMA PALISA](#nimi-kama-palisa))* - sendepende de, sen, malgraŭ, kvankam — independent from, without
+  * *(KAMA)* - sendependa, nura, libera — independent, only, free
+  * *(... ~~ni la~~)* - sed — but
 * **tawa** ~~towa~~ ***[towards]*** *([KAMA PALISA](#nimi-kama-palisa))* - al, por — to, toward, for
   * *(KAMA)* - moviĝanta — moving
 * **telo** ***[de-l-o]*** *([IJO](#nimi-ijo))*
