@@ -141,7 +141,7 @@ kepeken **nimi lili** "la" la **nimi kama palisa** li ken kama lon kama pi mute 
 kama pi mute nimi la **nimi kama palisa** "lon" li kama weka.
 *(Komence de frazo, "lon" malaperas. — At the beginning of a sentence, "lon" disappears.)*
 
-* ona li kama lon tenpo pimeja ni. *(Ŝi venas tiun ĉi nokton. — She is coming tonight.)*
+* ona li kama ***lon*** tenpo pimeja ni. *(Ŝi venas tiun ĉi nokton. — She is coming tonight.)*
   * ~~lon~~ tenpo pimeja la ona li kama. *(Ĉi-nokte, ŝi venas. — Tonight, she is coming.)*
     * tenpo pimeja la ona li kama.
 
