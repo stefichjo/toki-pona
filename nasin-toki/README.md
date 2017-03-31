@@ -142,14 +142,15 @@ kama pi mute nimi la **nimi kama palisa** "lon" li kama weka.
 *(Komence de frazo, "lon" malaperas. — At the beginning of a sentence, "lon" disappears.)*
 
 * ona li kama ***lon*** tenpo pimeja ni. *(Ŝi venas tiun ĉi nokton. — She is coming tonight.)*
-  * ~~lon~~ tenpo pimeja **la** ona li kama. *(Ĉi-nokte, ŝi venas. — Tonight, she is coming.)*
-    * tenpo pimeja **la** ona li kama.
+  * ~~lon~~ tenpo pimeja ***la*** ona li kama. *(Ĉi-nokte, ŝi venas. — Tonight, she is coming.)*
+    * tenpo pimeja ***la*** ona li kama.
 
 nimi "ni" lon kama pi mute nimi li lon poka pi **mute nimi kama**, la nimi "ni" li kama weka.
 *(Se "ni" komence de frazo akompanas relativan frazon, "ni" malaperas. — If "ni" at the beginning of a sentence accompanies a relative clause, "ni" disappears.)*
 
-* ~~lon ni,~~ mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
-  * → mi pona tawa jan, ***la*** jan li pona tawa mi.
+* jan li pona tawa mi ***lon ni***: mi pona tawa jan. *(Homoj estas bonaj al mi, se mi estas bona al homoj. — People are good to me, if I'm good to people.)*
+  * → ~~lon ni,~~ mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
+    * → mi pona tawa jan, ***la*** jan li pona tawa mi.
 
 nimi "taso ni la" li kama "taso".
 *("taso ni la" fariĝas "taso". — "taso ni la" becomes "taso".)*
