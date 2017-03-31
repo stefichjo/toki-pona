@@ -67,10 +67,10 @@ wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-li
 nimi lon kama pi **nimi lili** "li" li nimi "mi" taso anu nimi "sina" taso, la **nimi lili** "li" li kama weka.
 *(Se la subjekto estas nura "mi" aŭ nura "sina", "li" malaperas. — If the subject is just "mi" or "sina", "li" disappears.)*
 
-* mi ***~~li~~*** mije. *(Mi estas viro. — I am a man.)*
-  * → mi mije.
-* sina ***~~li~~*** sin. *(Vi estas nova. — You are new.)*
-  * → sina sin.
+* ***mi*** ***~~li~~*** mije. *(Mi estas viro. — I am a man.)*
+  * → ***mi*** mije.
+* ***sina*** ***~~li~~*** sin. *(Vi estas nova. — You are new.)*
+  * → ***sina*** sin.
 
 **mute nimi** li ken jo e **nimi lili** "li" mute. sitelen nanpa ona li ken kama weka.
 *(Frazo povas havi plurajn predikatojn. Iliaj komoj povas malaperi. — A sentence can have multiple predicates. Their commas can disappear.)*
