@@ -2,7 +2,7 @@
 *(Gramatiko de Tokipono — Grammar of Toki Pona)*
 
 wan lipu "[toki lili](#toki-lili)" li toki e nasin toki pi jan ale pi toki pona.
-*(La sekcio "Konciza Lingvaĵo" traktas la lingvouzon de ĉiuj tokiponistoj. — The section "Concise Language" treats the way every Toki Pona speaker uses the language.)*
+*(La sekcio "Kerna Lingvaĵo" traktas la lingvouzon de ĉiuj tokiponistoj. — The section "Core Language" treats the way every Toki Pona speaker uses the language.)*
 
 * ***sina ~~li~~*** sin. *(Vi estas nova. — You are new.)*
   * → ***sina*** sin.
@@ -13,8 +13,8 @@ wan lipu "[toki namako](#toki-namako)" li toki e nasin toki sin pi jan Sonja lon
 * mi ~~tawa~~ ***sike*** ~~lon~~ suno. *(Mi orbitas la sunon. — I orbit around the sun.)*
   * → mi ***sike e*** suno.
 
-wan lipu "[toki musi](#toki-musi)" li toki e nasin toki pi jan ala. taso tawa mi la ona li ken lon lawa.
-*(La sekcio "Luda Lingvaĵo" traktas lingvouzojn, kiujn neniu havas, sed kiuj ŝajnas teorie eblaj al mi. — The section "Playful Language" treats ways of using the language, which seem possible to me in theory, but which nobody applies.)*
+wan lipu "[toki musi](#toki-musi)" li toki e nasin toki pi jan ala. taso tawa mi la ona li pona lon poka pi [toki lili](#toki-lili).
+*(La sekcio "Luda Lingvaĵo" traktas lingvouzojn, kiuj ne estas aplikataj, sed kiuj laŭ mi harmonias kun la "Kerna Lingvaĵo". — The section "Playful Language" treats ways of using the language, which seem to me to be in harmony with the "Core Language", but which are not applied.)*
 
 * o ~~pana~~ ala e ***luka*** ~~tawa~~ seli! *(Ne tuŝu la fajron! — Don't touch the fire!)*
   * → o ***luka*** ala e seli!
@@ -26,10 +26,12 @@ wan lipu "[toki nasa](#toki-nasa)" li toki e nasin toki sin pi jan nasa ni: ona 
   * → mi tawa ***poka*** jan pona.
 
 wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-lili) li kepeken [toki musi](#toki-musi). ona li [ale ala pi nimi mute, tan lipu suli pi toki pona](http://tokipona.net/tp/janpije/dictionary.php).
-*(La sekcio "Vortaro" uzas la Koncizan Lingvaĵon kaj la Ludan Lingvaĵon. Ĝi ne estas la Oficiala Vortaro. — The section "Dictionary" uses the Concise Language and the Playful Language. It is not the Official Dictionary.)*
+*(La sekcio "Vortaro" uzas la Kernan Lingvaĵon kaj la Ludan Lingvaĵon. Ĝi ne estas la Oficiala Vortaro. — The section "Dictionary" uses the Core Language and the Playful Language. It is not the Official Dictionary.)*
 
 ---
 
+* **nimi lili** *(partikulo — particle)*
+  * **nimi kalama** *(interjekcio — interjection)*
 * **nimi suli** *(radika vorto — content word)*
   * **nimi lawa** *(substantivo — noun)*
   * **nimi kama** *(modifilo, adjektivo, adverbo — modifier, adjective, adverb)*
@@ -39,8 +41,6 @@ wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-li
     * **nimi wawa pi palisa ala** *(netransitiva verbo - intransitive verb)*
     * **nimi wawa palisa** *(transitiva verbo — transitive verb)*
     * **nimi wawa pini** *(helpa verbo — auxiliary verb)*
-* **nimi lili** *(partikulo — particle)*
-  * **nimi kalama** *(interjekcio — interjection)*
 * **mute nimi** *(frazo — sentence)*
   * **sitelen lon poka nimi** *(interpunkcio — punctuation)*
   * **nimi lon kama pi nimi lili "li"** *(subjekto — subject)*
@@ -56,13 +56,13 @@ wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-li
 *(Oficiala Lingvaĵo — Official Language)*
 
 ## toki lili
-*(Konciza Lingvaĵo — Concise Language)*
+*(Kerna Lingvaĵo — Core Language)*
 
 ### nimi lili
 *(Partikuloj — Particles)*
 
 #### nimi lili "li"
-*(Subjekto — Subject)*
+*(Subjekto kaj Predikato — Subject and Predicate)*
 
 nimi lon kama pi **nimi lili** "li" li nimi "mi" taso anu nimi "sina" taso, la **nimi lili** "li" li kama weka.
 *(Se la subjekto estas nura "mi" aŭ nura "sina", "li" malaperas. — If the subject is just "mi" or "sina", "li" disappears.)*
@@ -72,21 +72,18 @@ nimi lon kama pi **nimi lili** "li" li nimi "mi" taso anu nimi "sina" taso, la *
 * sina ***~~li~~*** sin. *(Vi estas nova. — You are new.)*
   * → sina sin.
 
-**mute nimi** tu pi nimi sama lon kama pi nimi "li" li ken kama wan. nimi lon pini pi **nimi lili** "li" li wile ala e sitelen nanpa. nimi tu sama lon kama pi nimi "li" li "mi" anu "sina", la **mute nimi** tu li ken ala kama wan.
-*(Du frazoj kun sama subjekto povas unuiĝi. Predikatoj ne bezonas komon. Se la du samaj subjektoj estas "mi" aŭ "sina", la du frazoj ne povas unuiĝi. — Two sentences with the same subject can become one. Predicates don't need commas. If the two same subjects are "mi" or "sina", the two sentences can't become one.)*
+**mute nimi** li ken jo e wan mute pi mute nimi lon pini pi **nimi lili** "li". sitelen nanpa ona li ken kama weka.
+*(Frazo povas havi plurajn predikatojn. Ilia komo povas malaperi. — A sentence can have multiple predicates. Their commas can disappear.)*
 
-* ***ma mama li*** lili, ***ma mama li*** lete. *(La patrujo estas malgranda kaj la patrujo estas malvarma. — The motherland is small and the motherland is cold.)*
-  * → ***ma mama li*** lili, ***li*** lete. *(La patrujo estas malgranda kaj malvarma. — The motherland is small and cold.)*
-    * → ***ma mama li*** lili ***li*** lete.
-* ***mi*** kama sona e toki mute, ***mi*** musi. *(Mi studis lingvistikon kaj mi ludis. — I was studying linguistics and I was being playful.)*
-  * → ***mi*** kama sona e toki mute. ***mi*** musi. *(Mi studis lingvistikon kaj ludis. — I was studying linguistics and being playful.)*
+* ***ma mama li*** lili, ***li*** lete. *(La patrujo estas malgranda kaj malvarma. — The motherland is small and cold.)*
+  * → ***ma mama li*** lili ***li*** lete.
 
-jan li wile toki sin lon tenpo lili la, **nimi lili** "li" lon poka pi nimi lon kama ona li ken kama weka.
-*(Por respondi rapide, la partikulo "li" kaj la subjekto povas malaperi. — In order to respond quickly, the particle "li" and the subject can disappear.)*
+jan li ken toki sin kepeken nimi lon pini taso pi **nimi lili** "li".
+*(Oni povas respondi per nura predikato (sen "li"). — One can reply by just a predicate (without ("li").)*
 
 * ~~ni li~~ ***pona***. *(Dankon. — Thanks.)*
   * → ***pona***.
-* ~~ona li~~ ***mama***. *(Jes. — Yes.)*
+* ~~ona li~~ ***mama***. *(Jes. (Ŝi estas gepatro. — Yes. (She is a parent.))*
   * → ***mama***.
 
 #### nimi lili "e"
@@ -943,7 +940,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **ijo** ***[io]*** *(PALISA)* - io — something
   * *(e ... pi)* - pri — about
 * **ike** ~~ikeja~~ ***[ilkea]*** *(SULI)* - malbona, superflua — bad, superfluous
-* **ilo** *([LILI](#nimi-lili))* - io utila — something useful
+* **ilo** *([IJO](#nimi-ijo))* - io utila — something useful
 * **insa** ***[insajt]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - iternal — internal
   * *(LAWA)* - io interna: centro — something internal: center
@@ -1055,8 +1052,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - ĉielpromenanta — sky-walking
   * *(LAWA)* - io ĉielpromenanta: luno, stelo — something sky-walking: moon, star
 * **musi** ~~amusi~~ ***[amuzi]*** *(SULI)* - ludanta — playing
-* **mute** ***[multe]*** *(SULI)* - multa — many
-  * *(~~suli~~ ...)* - tre — very
+* **mute** ***[multe]*** *(SULI)* - plura, multa, multe da (io ne-nombrebla), tre — multiple, many, much of (something non-countable), very
 * **namako** → **sin**
 * **nanpa** ***[namba]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - nombrita, kalkulita — counted, calculated
