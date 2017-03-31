@@ -83,14 +83,14 @@ jan li ken toki sin kepeken nimi lon pini taso pi **nimi lili** "li".
 
 * ~~ni li~~ ***pona***. *(Dankon. — Thanks.)*
   * → ***pona***.
-* ~~ona li~~ ***mama***. *(Jes. (Ŝi estas gepatro. — Yes. (She is a parent.))*
+* ~~ona li~~ ***mama***. *(Jes. (Ŝi estas gepatro.) — Yes. (She is a parent.))*
   * → ***mama***.
 
 #### nimi lili "e"
 *(Rekta Objekto — Direct Object)*
 
 nimi "ijo" taso li lon pini pi **nimi lili** "e", la ona li ken kama weka.
-*(Nura "ijo" kiel rekta objekto povas malaperi. Plain "ijo" as the direct object can disappear.)*
+*(Nura "ijo" kiel rekta objekto povas malaperi. — Plain "ijo" as the direct object can disappear.)*
 
 * mije li ***sona e ijo***. *(La viro scias aferojn. — The man knows things.)*
   * → mije li ***sona***. *(La viro scias. — The man knows.)*
@@ -101,32 +101,31 @@ nimi lon pini pi **nimi lili** "li" li ken jo e **nimi lili** "e" mute. sitelen 
 * ona li ***seli*** e soweli, e pan. *(Ŝi kuiras la viandon kaj la rizon. — She cooks the meat and the rice.)*
   * → ona li ***seli*** e soweli e pan.
 
-**mute nimi** nanpa tu li lon pini pi **nimi lili** "e" pi **mute nimi** nanpa wan, la **nimi wawa** nanpa wan li ken kama **nimi wawa pini** pi **nimi wawa** nanpa tu.
-*(Se dua frazo estas la rekta objekto de unua frazo, la verbo de la unua frazo povas fariĝi la helpa verbo de la dua verbo. — If a second sentence is the direct object of a first sentence, the verb of the first sentence can become the auxiliary verb of the second sentence.)*
+jan li ken toki e wile kepeken nimi lon pini taso pi **nimi lili** "e".
+*(Oni povas komuniki deziron per nura rekta objekto. — One can express a desire by just a direct object.)*
 
-* ***mi kama*** ~~e ni: ***mi***~~ ***moku***. *(Mi komencas manĝi. — I start to eat.)*
-  * → ***mi kama moku***.
+* ~~tawa pona sina la mi wile e~~ moku pona. *(Mi bondeziras al vi bonan apetiton. — I wish you a good appetite.)*
+  * → moku pona! *(Bonan apetiton! — Bon appétit!)*
 
 #### nimi lili "o"
-*(Imperativo — Imperative)*
+*(Volativo, Vokativo kaj Imperativo — Volative, Vocative and Imperative)*
 
-kama pi **nimi lili** "o" la nimi "sina" li ken kama weka. pini pi **nimi lili** "o" la nimi "kute" li ken kama weka.
-*("sina" povas malaperi antaŭ la partikulo "o". "kute" povas malaperi malantaŭ la partikulo "o". — "sina" can disappear before the particle "o". "kute" can disappear before the particle "o".)*
+kama pi **nimi lili** "o" la nimi "sina" li ken kama weka.
+*("sina" povas malaperi antaŭ la partikulo "o". — "sina" can disappear before the particle "o".)*
 
-* sina ***o*** kute. *(Vi aŭskultu. — You are supposed to listen.)*
-  * → ***o*** kute! *(Aŭskultu! — Listen!)*
-    * → ***o***! *(Ho! — Hey!)*
+* sina ***o*** lukin. *(Vi rigardu. — You should look.)*
+  * → ***o*** lukin! *(Rigardu! — Look!)*
 
-nimi ***o lon sina*** li ken kama weka.
-*("o lon sina" povas malaperi. — "o lon sina" can disappear.)*
+pini pi **nimi lili** "o" la nimi "kute" li ken kama weka.
+*("kute" povas malaperi malantaŭ la partikulo "o". — "kute" can disappear before the particle "o".)*
 
-* tawa pona ***o lon sina***. *(Estu bona vojaĝo ĉe vi. — Shall there be a nice trip with you.)*
-  * → tawa pona! *(Bonan vojaĝon! — Have a nice trip!)*
+* jan pona ***o*** kute. *(Amiko aŭskultu. — A friend should listen.)*
+  * → jan pona ***o***! *(Ho amiko! — Hey friend!)*
 
-nimi "o" tu li ken kama wan.
-*(Du "o"-oj povas fariĝi unu. — Two "o"s can become one)*
+mute nimi pi nimi "kute" weka lon pini pi **nimi lili** "o" en mute nimi pi nimi "sina" weka lon kama pi **nimi lili** "o" li ken kama mute nimi pi **nimi lili** "o" wan.
+*(Vokativa frazo kaj imperativa frazo povas fariĝi unu volativa frazo.)*
 
-* jan Ali ***o*** wawa. *(Ali estu forta. — Ali is supposed to be strong.)*
+* jan Ali ***o*** wawa. *(Ali estu forta. — Ali should be strong.)*
 * jan Ali ***o, o*** wawa. *(Ho Ali, estu forta. — Hey Ali, be strong.)*
   * → jan Ali ***o*** wawa.
 
@@ -1073,7 +1072,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *([WAWA PALISA](#nimi-wawa-palisa))* - paŝi, treti — to step, to kick
   * *(LAWA)* - paŝa organo, treta organo: piedo, gambo — stepping organ, kicking organ: foot, leg
     * *(lon ... pi)* - ĉe la malsupro de — at the bottom of
-* **o** ***[ho]*** *([LILI](#nimi-lili))* - -u — (vocativo), (imperativo)
+* **o** ***[ho]*** *([LILI](#nimi-lili-o))* - (volativo), (imperativo), (vocativo) — (volative), (imperative), (vocative)
 * **oko** → **lukin**
 * **olin** ***[volim]*** *([WAWA PALISA](#nimi-wawa-palisa))* - ami — to love
 * **ona** ***[ona]*** *([PALISA](#nimi-palisa))* - ŝi, li, ĝi, ili — she, he, it, they
