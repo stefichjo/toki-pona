@@ -82,7 +82,7 @@ nimi lon pini pi **nimi lili** "li" li ken jo e **nimi lili** "e" mute. sitelen 
 jan li ken toki e wile kepeken nimi lon pini taso pi **nimi lili** "e".
 *(Oni povas komuniki deziron per nura rekta objekto. — One can express a desire by just a direct object.)*
 
-* ~~tawa pona sina la mi wile e~~ moku pona. *(Mi bondeziras al vi bonan apetiton. — I wish you a good appetite.)*
+* ~~tawa pona sina la mi wile e~~ moku pona. *(Mi bondeziras al vi bonan manĝon. — I wish you a good meal.)*
   * → moku pona! *(Bonan apetiton! — Bon appétit!)*
 
 #### nimi lili "o"
@@ -113,12 +113,12 @@ mute nimi wan pi nimi "kute" weka lon pini pi **nimi lili** "o" en mute nimi wan
 nimi lon pini pi **nimi lili** "pi" li **nimi lawa** taso, la ona li kama **nimi kama**.
 *(Se genitiva frazero konsistas el nura substantivo, ĝi fariĝas modifilo. — If a genitive phrase consists of only a noun, it becomes a modifier.)*
 
-* toki ***~~pi~~*** pona *(lingvo de bono, bona lingvo — a language of good, a good language)*
+* toki ~~pi~~ pona *(lingvo de bono, bona lingvo — a language of good, a good language)*
   * → toki pona
 * toki **pi** pona mute *(tre bona lingvo — a very good language)*
 
 pini pi **nimi wawa** "pilin" la **nimi lili** "e" li ken kama **nimi lili** "pi".
-*(Post la verbo "pilin", la partikulo "e" povas fariĝi "pi". — After the verb "pilin", the particle "e" can become "pi".)*
+*(La rekta objekto de "pilin" povas fariĝi genitiva frazero. — The direct object of "pilin" can become a genitive phrase.)*
 
 * mi ***pilin e*** pona mute. *(Mi sentas multan bonon. — I feel much good.)*
   * → mi ***pilin pi*** pona mute. *(Mi fartas tre bone. — I feel very good.)*
@@ -126,8 +126,8 @@ pini pi **nimi wawa** "pilin" la **nimi lili** "e" li ken kama **nimi lili** "pi
 nimi "nanpa" lon poka pi **nimi nanpa** li ken kama nimi.
 *("nanpa" kun numeralo povas fariĝi nomo. — "nanpa" together with a numeral can become a name.)*
 
-* lipu **pi nanpa tu** - *(la karto kun la numero du — the card with the number two)*
-  * → lipu **nanpa tu** - *(la karto numero du, la dua karto — the card number two, the second card)*
+* lipu **pi nanpa tu** *(la karto kun la numero du — the card with the number two)*
+  * → lipu **nanpa tu** *(la karto numero du, la dua karto — the card number two, the second card)*
 
 #### nimi lili "en"
 **nimi lili** "en" li ken lon insa pi nimi lon kama pi **nimi lili** "li" taso. *(La partikulo "en" povas esti nur inter pluraj subjektoj. — The particle "en" can only be between multiple subjects.)*
