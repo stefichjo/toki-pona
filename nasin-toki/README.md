@@ -152,23 +152,23 @@ nimi "ni" lon kama pi mute nimi li lon poka pi **mute nimi kama**, la nimi "ni" 
   * → ~~lon ni,~~ mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
     * → mi pona tawa jan, ***la*** jan li pona tawa mi.
 
-nimi "ni" taso li lon pini pi **nimi kama palisa** "taso" lon kama pi mute nimi, la nimi "ni" en nimi "la" li ken kama weka.
-*(Se nura "ni" estas malantaŭ la prepozicio "taso" komence de frazo, "ni" kaj "la" povas malaperi. — If plain "ni" comes after the preposition "taso" at the beginning of a sentence, "ni" and "la" can disappear.)*
-
-* ***taso ni la*** mije en meli li pali li pilin pona. *(Sendepende de tio, viroj kaj virinoj laboras kaj estas gajaj. — Independent from that, men and women work and are happy.)*
-  * → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj. — But men and women work and are happy.)*
-
 #### nimi lili "en"
-**nimi lili** "en" li ken lon insa pi nimi lon kama pi **nimi lili** "li" taso. *(La partikulo "en" povas esti nur inter pluraj subjektoj. — The particle "en" can only be between multiple subjects.)*
+*(kaj — and)*
+
+**nimi lili** "en" li ken lon nimi lon kama taso pi **nimi lili** "li".
+*(La partikulo "en" povas esti nur en la subjekto. — The particle "en" can only come in the subject.)*
 
 * toki sina ***en*** pali sina li sama, la sina pilin pona. *(Se via parolo kaj via ago estas samaj, vi bonfartas. — If what you say and what you do are the same, you are happy.)*
 
 #### nimi lili "anu"
-nimi "ala anu" lon insa pi nimi sama tu li ken kama nimi "ala".
-*("ala anu" inter du samaj vortoj povas fariĝi "ala". — "ala anu" between two same words can become "ala".)*
+*(aŭ — or)*
 
-* ona li ***mama ala anu mama***? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
-  * → ona li ***mama ala mama***?
+kama nimi la pini nimi sama lon poka pi nimi "ala" la nimi "anu" li kama weka.
+*(Antaŭ vortoj kaj malantaŭ la samaj vortoj negitaj, "anu" malaperas. — Before words and after the same words negated, "anu" disappears.)*
+
+* ona li mama ***anu*** seme? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
+  * → ona li mama ***ala*** ~~anu~~ mama?
+    * → ona li ***mama ala mama***?
 
 #### nimi kalama
 *(Interjekcio — Interjection)*
@@ -608,6 +608,14 @@ tan ni la kalama nanpa wan pi nimi kama lon kama pi kalama "i" li ken kama ante 
 
 ### toki pi tenpo pini
 *(Pasinta Lingvaĵo — Language of the Past)*
+
+nimi "ni" taso li lon pini pi **nimi kama palisa** "taso" lon kama pi mute nimi, la nimi "ni" en nimi "la" li ken kama weka.
+*(Se nura "ni" estas malantaŭ la prepozicio "taso" komence de frazo, "ni" kaj "la" povas malaperi. — If plain "ni" comes after the preposition "taso" at the beginning of a sentence, "ni" and "la" can disappear.)*
+
+* ***taso ni la*** mije en meli li pali li pilin pona. *(Sendepende de tio, viroj kaj virinoj laboras kaj estas gajaj. — Independent from that, men and women work and are happy.)*
+  * → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj. — But men and women work and are happy.)*
+
+...
 
 **toki pi tenpo pini** li jo e nimi luka luka tu tu taso.
 *(La pralingvo havas nur cent vortojn. — The Language of the Past has only a hundred words.)*
@@ -1070,7 +1078,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **open** ***[open]*** *(SULI)* - malfermita — open
 * **pakala** ***[bagar-ap]*** *(SULI)* - damaĝita, lezita — damaged, harmed
 * **pake e** → **len e lupa pi**
-* **pali** ***[fari]*** *([WAWA PALISA](#nimi-wawa-palisa))* - prilabori, krei, prepari — to work on, to create, to prepare
+* **pali** ***[fari]*** *([WAWA PALISA](#nimi-wawa-palisa))* - trakti, krei, prepari — to work on, to create, to prepare
 * **palisa** ***[palica]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - longa kaj malmola — long and hard
   * *(LAWA)* - io longa kaj malmola: branĉo, bastono — something long and hard: branch, stick
