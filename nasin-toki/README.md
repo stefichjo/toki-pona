@@ -210,10 +210,13 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
 **nimi suli** li ken kama **nimi lawa**, **nimi kama**, **nimi wawa**. sin la **nimi palisa** li **nimi suli** a. ona li ken kama **nimi kama palisa**.
 *(Radika vorto povas fariĝi substantivo, modifilo, verbo. Aldone, prepozicioj ankaŭ estas radikaj vortoj. Ili povas fariĝi transitivaj modifiloj. — A content word can become a noun, a modifier, a verb. In addition, prepositions are content words, too. They can become transitive modifiers.)*
 
+PONA
+
+#### nimi pi jan anu ijo
+*(Pronomoj — Pronouns)*
+
 #### nimi palisa
 *(Prepozicioj — Prepositions)*
-
-
 
 #### nimi ijo
 *(Aĵaj Vortoj — Thing Words)*
@@ -221,11 +224,14 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
 #### nimi ilo
 *(Ilaj Vortoj — Tool Words)*
 
+#### nimi pali
+*(Agaj Vortoj — Doing Words)*
+
 #### nimi jan
 *(Ulaj Vortoj — Person Words)*
 
-#### nimi pali
-*(Agaj Vortoj — Doing Words)*
+#### nimi sijelo
+*(Vivaj Vortoj — Living Words)*
 
 ### nimi suli "ale", "ala", "ni", "seme"
 *(Korelativoj — Correlatives)*
