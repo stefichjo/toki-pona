@@ -1163,7 +1163,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **sona** ***[codna]*** *([PALI](#nimi-pali))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - scii — to know
   * *(LAWA)* - io por scii: fakto — something to know: fact
-  * *([WAWA PINI](#nimi-wawa-pini))* - kapabli — to know how to
+  * *([WAWA PINI](#nimi-wawa-pini))* - scipovi — to know how to
 * **soweli** ***[cxoveli]*** *(JAN)*
   * *(KAMA)* - varmsanga — warm-blooded
   * *(LAWA)* - varmsanga animaĵo: mamulo — warm-blooded animated being: mammal
