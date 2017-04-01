@@ -1161,8 +1161,9 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - desegnita, imagita, skribita — drawn, imagined, written
   * *(LAWA)* - io desegnita, io imagita, io skribita: bildo, ideo, simbolo — something drawn, something imagined,  something written: picture, idea, symbol
 * **sona** ***[codna]*** *([PALI](#nimi-pali))*
-  * *([WAWA PALISA](#nimi-wawa-palisa))* - scii, esti lerta — to know, to be skilled in
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - scii — to know
   * *(LAWA)* - io por scii: fakto — something to know: fact
+  * *([WAWA PINI](#nimi-wawa-pini))* - kapabli — to know how to
 * **soweli** ***[cxoveli]*** *(JAN)*
   * *(KAMA)* - varmsanga — warm-blooded
   * *(LAWA)* - varmsanga animaĵo: mamulo — warm-blooded animated being: mammal
