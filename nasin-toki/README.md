@@ -952,7 +952,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **jaki** ***[jakki]*** *(SULI)* - malpura, fia, senhonora — dirty, disgusting, dishonored
 * **jan** ~~jen~~ ***[jen]*** *(PALISA)* - iu — someone
 * **jelo** ***[jellow]*** *(SULI)* - flava — yellow
-* **jo** ***[jow]***
+* **jo** ***[jow]*** *([PALI](#nimi-pali))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - havi — to have
   * *(LAWA)* - io por havi: propraĵo — something to have: property
 * **kala** ***[kala]*** *([SIJELO](#nimi-sijelo))*
@@ -1084,12 +1084,16 @@ nimi "ona sama" li ken kama nimi "sama".
     * *(lon ... pi)* - ĉe la malsupro de — at the bottom of
 * **o** ***[ho]*** *([LILI](#nimi-lili-o))* - (volativo), (imperativo), (vocativo) — (volative), (imperative), (vocative)
 * **oko** → **lukin**
-* **olin** ***[volim]*** *([WAWA PALISA](#nimi-wawa-palisa))* - ami — to love
+* **olin** ***[volim]*** *([PALI](#nimi-pali))*
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - ami — to love
+  * *(LAWA)* - io por ami — something to love
 * **ona** ***[ona]*** *([PALISA](#nimi-palisa))* - ŝi, li, ĝi, ili — she, he, it, they
 * **open** ***[open]*** *(SULI)* - malfermita — open
 * **pakala** ***[bagar-ap]*** *(SULI)* - damaĝita, lezita — damaged, harmed
 * **pake e** → **len e lupa pi**
-* **pali** ***[fari]*** *([WAWA PALISA](#nimi-wawa-palisa))* - trakti, krei, prepari — to work on, to create, to prepare
+* **pali** ***[fari]*** *([PALI](#nimi-pali))*
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - prepari, krei — to prepare, to create
+  * *(LAWA)* - io por prepari, io por krei: laboro, tasko — something to prepare, something to create: work, task
 * **palisa** ***[palica]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - longa kaj malmola — long and hard
   * *(LAWA)* - io longa kaj malmola: branĉo, bastono — something long and hard: branch, stick
@@ -1100,7 +1104,9 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - baza — basic
   * *(LAWA)* - io baza: fundamento, semo, panherbaĵo, pano, nudeloj, rizo — something basic: fundament, seed, cereal, bread, pasta, rice
     * *(lon ... pi)* - baze de — on the basis of
-* **pana** ***[?]*** *([WAWA PALISA](#nimi-wawa-palisa))* - doni, provizi, publikigi — to give, to provide, to publish
+* **pana** ***[?]*** *([PALI](#nimi-pali))*
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - doni, provizi, publikigi — to give, to provide, to publish
+  * *(LAWA)* - io por doni, io por provizi, io por publiki: dateno — something to give, something to provide, something to publish: data
 * **pi** ***[bi]*** *([LILI](#nimi-lili-pi))* - (genitivo) — (genitive)
 * **pilin** ***[fil-him]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - senti — to feel
@@ -1154,7 +1160,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **sitelen** ***[ŝilderen]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - desegnita, imagita, skribita — drawn, imagined, written
   * *(LAWA)* - io desegnita, io imagita, io skribita: bildo, ideo, simbolo — something drawn, something imagined,  something written: picture, idea, symbol
-* **sona** ***[codna]*** *([WAWA PALISA](#nimi-wawa-palisa))* - scii, esti lerta — to know, to be skilled in
+* **sona** ***[codna]*** *([PALI](#nimi-pali))*
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - scii, esti lerta — to know, to be skilled in
+  * *(LAWA)* - io por scii: fakto — something to know: fact
 * **soweli** ***[cxoveli]*** *(JAN)*
   * *(KAMA)* - varmsanga — warm-blooded
   * *(LAWA)* - varmsanga animaĵo: mamulo — warm-blooded animated being: mammal
@@ -1182,17 +1190,23 @@ nimi "ona sama" li ken kama nimi "sama".
 * **tenpo** ***[tempo]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - @ — @
   * *(LAWA)* - io @: tempo, daŭro, okazo, situacio — something @: time, duration, occasion, situation
-* **toki** ~~to~~ ***[tok]*** *([WAWA PALISA](#nimi-wawa-palisa))* - komuniki — to communicate
+* **toki** ~~to~~ ***[tok]*** *([PALI](#nimi-pali))*
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - komuniki — to communicate
+  * *(LAWA)* - io por komuniki: mesaĝo — something to communicate: message
 * **tomo** ***[domo]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - konstruita — built
   * *(LAWA)* - io konstruita: domo, ĉambro — something built: house, room
 * **tu** ***[tu]*** *(SULI)* - disa — apart
   * *([NANPA](#nimi-nanpa))* - du — two
-* **unpa** ***[?]*** *([WAWA PALISA](#nimi-wawa-palisa))* - seksumi kun, esti geedzo de — to have sexual relationships with, to be married to
+* **unpa** ***[?]*** *([PALI](#nimi-pali))*
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - seksumi kun, esti geedzo de — to have sexual relationships with, to be married to
+  * *(LAWA)* - @ — @
 * **uta** ***[usta]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - kisi, suĉi — to kiss, to suck
   * *(LAWA)* - kisa organo, suĉa organo: buŝo — kissing organ, sucking organ: mouth
-* **utala** ~~utalasi~~ ***[udarati]*** *([WAWA PALISA](#nimi-wawa-palisa))* - batali, defii, kontraŭi — to battle, to challenge, to struggle against
+* **utala** ~~utalasi~~ ***[udarati]*** *([PALI](#nimi-pali))*
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - batali, defii, kontraŭi — to battle, to challenge, to struggle against
+  * *(LAWA)* - @ — @
   * *(... tawa)* - kontraŭ — against
 * **walo** ***[valko]*** *(SULI)* - blanka — white
 * **wan** ***[wan]*** *(SULI)* - unika, unueca — unique, united
@@ -1205,7 +1219,10 @@ nimi "ona sama" li ken kama nimi "sama".
 * **weka** ~~we~~ ***[wex]*** *([KAMA PALISA](#nimi-kama-palisa))* - fore de — away from
   * *(KAMA)* - fora, distanca — away, gone, distant
   * *(lon ...)* - for — away@
-* **wile** ***[wille]*** *([WAWA PALISA](#nimi-wawa-palisa))* - voli, bezoni, devi — want, to need, must
+* **wile** ***[wille]*** *([PALI](#nimi-pali))*
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - deziri, bezoni — to desire, to need
+  * *(LAWA)* - io por deziri, io por bezoni: neceso — something to desire, something to need: necessity
+  * *([WAWA PINI](#nimi-wawa-pini))* - voli, devi — want, must
 
 ---
 
@@ -1225,6 +1242,6 @@ nimi "ona sama" li ken kama nimi "sama".
   * **nimi lon kama pi nimi lili "li"** *(subjekto — subject)*
   * **nimi lon pini pi nimi lili "li"** *(predikato — predicate)*
   * **nimi lon pini pi nimi lili "e"** *(rekta objekto — direct object)*
-  * **nimi lon kama pi nimi lili "la"** *(helpa frazero — auxiliary clause)*
+  * **nimi lon kama pi nimi lili "la"** *(kunteksta — context)*
   * **mute nimi kama** *(subfrazo — subordinate clause)*
   * **mute nimi pi nimi "seme"** *(demanda frazo — interrogative sentence)*
