@@ -167,6 +167,20 @@ kama nimi la pini nimi sama lon poka pi nimi "ala" la nimi "anu" li kama weka.
   * → ona li mama ***ala*** ~~anu~~ mama?
     * → ona li ***mama ala mama***?
 
+#### nimi tan
+*(Citaĵoj — Quotes)*
+
+**nimi tan** li lon insa pi sitelen tan.
+*(Citaĵo estas inter citiloj. — Quotations are inside quotation marks.)*
+
+* nimi "***Epelanto***" *(la vorto "Esperanto" — the word "Esperanto")*
+
+**sitelen tan** lon poka pi nimi "nimi" anu nimi "kalama" li ken kama weka.
+*(Citiloj kun "nimi" aŭ "kalama" povas malaperi. — Quotation marks with "nimi" or "kalama" can disappear.)*
+
+* toki pi nimi "***Epelanto***" *(Esperanto — Esperanto)*
+  * → toki ***Epelanto***
+
 #### nimi kalama
 *(Interjekcio — Interjection)*
 
@@ -189,25 +203,6 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
 
 * sina suli, ***a***! *(Vi estas granda, ho! — You are tall, wow!)*
   * → sina suli ***a***! *(Vi estas ja granda! — You are so tall!)*
-
-#### nimi tan
-*(Citaĵoj — Quotes)*
-
-**nimi tan** li lon insa pi sitelen tan.
-*(Citaĵo estas inter citiloj. — Quotations are inside quotation marks.)*
-
-* nimi "***Epelanto***" *(la vorto "Esperanto" — the word "Esperanto")*
-
-sitelen tan lon poka pi nimi "nimi" anu nimi "kalama" li ken kama weka.
-*(Citiloj kun "nimi" aŭ "kalama" povas malaperi. — Quotation marks with "nimi" or "kalama" can disappear.)*
-
-* toki pi nimi "***Epelanto***" *(Esperanto — Esperanto)*
-  * → toki ***Epelanto***
-* soweli li kalama "***mu***". *(La kato sonas "miaŭ". — The cat goes "miaow".)*
-  * → soweli li ***mu***. *(La kato miaŭas. — The cat miaows.)*
-
-nimi "nimi" en nimi "kalama" li kama weka lon kama pi nimi tan jan ante anu nimi pi ijo ante.
-*(La vorto "nimi" malaperas antaŭ citaĵo aŭ nomo. — The word "nimi" disappears before quotations or names.)*
 
 ### nimi suli
 
