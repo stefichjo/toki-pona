@@ -1042,7 +1042,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **mije** ***[mies]*** *(JAN)*
   * *(KAMA)* - vira — male
   * *(LAWA)* - vira animaĵo: viro, edzo — male animated being: man, husband
-* **moku** ***[mogu]*** *([SULI PALISA](#nimi-suli-palisa))* - manĝi, trinki, gluti — to eat, to drink, to swallow
+* **moku** ***[mogu]*** *([WAWA PALISA](#nimi-wawa-palisa))* - manĝi, trinki, gluti — to eat, to drink, to swallow
 * **moli** ~~muli~~ ***[murir]*** *(SULI)* - mortinta, malviva — dead
 * **monsi** ***[mon-ĉi]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - malantaŭa — rear
