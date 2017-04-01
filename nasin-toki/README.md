@@ -176,17 +176,13 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
 * ***a***! *(Ha!, Ho! — Ha!, Wow!)*
 * ***mu***! *(Bla! — Blah!)*
 
-**nimi kalama** li ken kama [nimi wawa palisa](#nimi-wawa-palisa).
+**nimi kalama** li ken kama [nimi pali](#nimi-pali).
+*(Interjekcio povas fariĝi radika vorto por agoj. — An interjection can become a content word for actions.)*
 
-...
-
-**nimi kalama** li ken kama **nimi suli**.
-*(Interjekcio povas fariĝi radika vorto. — An interjection can become a content word.)*
-
-* ona li kute e ~~nimi~~ ***"mu"*** wawa. *(Li aŭdis laŭtan blekon. — He heard a loud bleat.)*
-  * → ona li kute e ***mu*** wawa.
 * soweli li ~~kalama~~ "***mu***". *(La besto blekas. — The animal bleats.)*
   * → soweli li ***mu***.
+* ona li kute e ~~nimi~~ ***"mu"*** wawa. *(Li aŭdis laŭtan blekon. — He heard a loud bleat.)*
+  * → ona li kute e ***mu*** wawa.
 
 **nimi kalama** li ken kama **nimi kama**.
 *(Interjekco povas fariĝi modifilo. — An interjection can become a modifier.)*
@@ -194,16 +190,28 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
 * sina suli, ***a***! *(Vi estas granda, ho! — You are tall, wow!)*
   * → sina suli ***a***! *(Vi estas ja granda! — You are so tall!)*
 
+#### nimi tan
+*(Citaĵoj — Quotes)*
+
+**nimi tan** li lon insa pi sitelen tan.
+*(Citaĵo estas inter citiloj. — Quotations are inside quotation marks.)*
+
+* nimi "***Epelanto***" *(la vorto "Esperanto" — the word "Esperanto")*
+
+sitelen tan lon poka pi nimi "nimi" anu nimi "kalama" li ken kama weka.
+*(Citiloj kun "nimi" aŭ "kalama" povas malaperi. — Quotation marks with "nimi" or "kalama" can disappear.)*
+
+* toki pi nimi "***Epelanto***" *(Esperanto — Esperanto)*
+  * → toki ***Epelanto***
+* soweli li kalama "***mu***". *(La kato sonas "miaŭ". — The cat goes "miaow".)*
+  * → soweli li ***mu***. *(La kato miaŭas. — The cat miaows.)*
 
 nimi "nimi" en nimi "kalama" li kama weka lon kama pi nimi tan jan ante anu nimi pi ijo ante.
 *(La vorto "nimi" malaperas antaŭ citaĵo aŭ nomo. — The word "nimi" disappears before quotations or names.)*
 
-* jan Isa li toki e ***~~nimi~~ ni*** "..." *(Jesuo diris: "..." — Jesus said: "...")*
-  * → jan Isa li toki e ***ni***: "..."
-* toki ~~pi nimi~~ "***Epelanto***" *(Esperanto — Esperanto)*
-  * → toki ***Epelanto***
-* sina nanpa ~~pi nimi~~ "***wan***". *(Vi estas la unua. — You are the first.)*
-  * → sina nanpa ***wan***.
+### nimi suli
+
+...
 
 ### nimi suli "ale", "ala", "ni", "seme"
 *(Korelativoj — Correlatives)*
