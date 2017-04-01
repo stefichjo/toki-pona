@@ -218,20 +218,39 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
 #### nimi pi jan anu ijo
 *(Pronomoj — Pronouns)*
 
-#### nimi palisa
-*(Prepozicioj — Prepositions)*
+* ***mi*** *(mi, ni — I, we)*
+* ***sina*** *(vi — you)*
+* ***ona*** *(ŝi, li, ĝi, ili — she, he, it, they)*
+* ***jan*** *(iu — somebody)*
+* ***ijo*** *(io — something)*
+
+#### nimi jan
+*(Ulaj Vortoj — Person Words)*
+
+* **meli** *(ina — female)*
+  * ~~jan~~ **meli** *(virino — woman)*
+    * → **meli**
 
 #### nimi ijo
 *(Aĵaj Vortoj — Thing Words)*
 
+* **suwi** *(dolĉa — sweet)*
+  * ~~ijo~~ **suwi** *(dolĉaĵo — sweets)*
+    * → **suwi**
+
 #### nimi ilo
 *(Ilaj Vortoj — Tool Words)*
+
+* **lukin** *(vidi — to see)*
+  * ~~ilo~~ **lukin** *(okulo — eye)*
+    * → **lukin**
 
 #### nimi pali
 *(Agaj Vortoj — Doing Words)*
 
-#### nimi jan
-*(Ulaj Vortoj — Person Words)*
+
+#### nimi palisa
+*(Prepozicioj — Prepositions)*
 
 #### nimi sijelo
 *(Vivaj Vortoj — Living Words)*
@@ -666,7 +685,7 @@ nimi "ni" taso li lon pini pi **nimi kama palisa** "taso" lon kama pi mute nimi,
   * *(LAWA)* io dolĉa: dolĉaĵo — something sweet: sweets
 
 #### nimi palisa@
-*(Pronomoj — Pronouns)*
+*(...)*
 
 nimi "mi", "sina", "ona", "ijo" li **nimi palisa**. **nimi lawa** ante li pini jo e nimi "ijo".
 *("mi", "sina", "ona" kaj "ijo" estas pronomoj. Aliaj substantivoj perdis la vorton "ijo". — Only "mi", "sina", "ona" and "ijo" are nouns. Other nouns lost the word "ijo".)*
