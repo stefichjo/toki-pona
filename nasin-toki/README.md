@@ -207,10 +207,13 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
 ### nimi suli
 *(Radikaj Vortoj — Content Words)*
 
-**nimi suli** li ken kama **nimi lawa**, **nimi kama**, **nimi wawa**. sin la **nimi palisa** li **nimi suli** a. ona li ken kama **nimi kama palisa**.
-*(Radika vorto povas fariĝi substantivo, modifilo, verbo. Aldone, prepozicioj ankaŭ estas radikaj vortoj. Ili povas fariĝi transitivaj modifiloj. — A content word can become a noun, a modifier, a verb. In addition, prepositions are content words, too. They can become transitive modifiers.)*
+**nimi suli** li ken kama **nimi lawa**, **nimi wawa**, **nimi kama**. sin la **nimi palisa** li **nimi suli** a. ona li ken kama **nimi kama palisa**.
+*(Radika vorto povas fariĝi substantivo, verbo, modifilo. Aldone, prepozicioj ankaŭ estas radikaj vortoj. Ili povas fariĝi transitivaj modifiloj. — A content word can become a noun, a verb, a modifier. In addition, prepositions are content words, too. They can become transitive modifiers.)*
 
-PONA
+* o pana e **pona**! *(Helpu! — Help!)*
+* ale li **pona** *(Ĉio estas bona. — All is good.)*
+* mi **pona** e mi. *(Mi bonigas min. — I improve myself.)*
+* toki **pona** li toki **pona**. *(Tokipono estas bona lingvo. — Toki Pona is a good language.)*
 
 #### nimi pi jan anu ijo
 *(Pronomoj — Pronouns)*
@@ -1062,7 +1065,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero — something vast: earth, soil, land, field, world, territory, outdoors
     * *(lon ... pi)* - ekster — outside
 * **mama** ***[mama]*** *(JAN)*
-  * *(KAMA)* - zorganta — care-taking
+  * *(KAMA)* - zorganta — care-taking@
   * *(LAWA)* - zorganta animaĵo: gepatro — care-taking animated being: parent
 * **mani** ***[mani]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - valora — valueable
