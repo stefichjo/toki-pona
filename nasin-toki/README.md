@@ -1046,7 +1046,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **mije** ***[mies]*** *(JAN)*
   * *(KAMA)* - vira — male
   * *(LAWA)* - vira animaĵo: viro, edzo — male animated being: man, husband
-* **moku** ***[mogu]*** *([WAWA PALISA](#nimi-wawa-palisa))* - manĝi, trinki, gluti — to eat, to drink, to swallow
+* **moku** ***[mogu]*** *([PALI](#nimi-pali))*
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - manĝi, trinki, gluti — to eat, to drink, to swallow
+  * *(LAWA)* - io por manĝi, io por trinki, io por gluti: manĝo — something to eat, something to drink, something to swallow: food
 * **moli** ~~muli~~ ***[murir]*** *(SULI)* - mortinta, malviva — dead
 * **monsi** ***[mon-ĉi]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - malantaŭa — rear
@@ -1110,7 +1112,6 @@ nimi "ona sama" li ken kama nimi "sama".
 * **pi** ***[bi]*** *([LILI](#nimi-lili-pi))* - (genitivo) — (genitive)
 * **pilin** ***[fil-him]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - senti — to feel
-    * *(... akesi)* - timi — to fear
   * *(LAWA)* - sentanta organo: koro — feeling organ: heart
 * **pimeja** ***[pimeja]*** *(SULI)* - malhela — dark
 * **pini** ***[fini]*** *(SULI)* - finita, pasinta — finished, past
