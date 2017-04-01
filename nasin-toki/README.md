@@ -152,16 +152,13 @@ nimi "ni" lon kama pi mute nimi li lon poka pi **mute nimi kama**, la nimi "ni" 
   * → ~~lon ni,~~ mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
     * → mi pona tawa jan, ***la*** jan li pona tawa mi.
 
-#### nimi lili "en"
-*(kaj — and)*
+#### nimi lili "en", "anu"
+*(Konjunkcioj — Conjunctions)*
 
 **nimi lili** "en" li ken lon nimi lon kama taso pi **nimi lili** "li".
 *(La partikulo "en" povas esti nur en la subjekto. — The particle "en" can only come in the subject.)*
 
 * toki sina ***en*** pali sina li sama, la sina pilin pona. *(Se via parolo kaj via ago estas samaj, vi bonfartas. — If what you say and what you do are the same, you are happy.)*
-
-#### nimi lili "anu"
-*(aŭ — or)*
 
 kama nimi la pini nimi sama lon poka pi nimi "ala" la nimi "anu" li kama weka.
 *(Antaŭ vortoj kaj malantaŭ la samaj vortoj negitaj, "anu" malaperas. — Before words and after the same words negated, "anu" disappears.)*
@@ -932,12 +929,12 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(lon ... pi)* - sub — under
 * **ante** ***[ander]*** *([KAMA PALISA](#nimi-kama-palisa))* - ol — than
   * *(KAMA)* - alia — different
-* **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili))* - aŭ — or
+* **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili-en-anu))* - aŭ — or
 * **apeja** → **jaki**
 * **awen** ***[hawen]*** *(SULI)* - daŭranta, atendanta, restanta — enduring, waiting, remaining
   * *([WAWA PINI](#nimi-wawa-pini))* - plu- — to continue to
 * **e** ***[?]*** *([LILI](#nimi-lili-e))* - -n — (accusative)
-* **en** ***[en]*** *([LILI](#nimi-lili))* - kaj — and
+* **en** ***[en]*** *([LILI](#nimi-lili-en-anu))* - kaj — and
 * **esun** ***[?]*** *([SIJELO](#nimi-sijelo))*
   * *([KAMA PALISA](#nimi-kama-palisa))* - anstataŭ — in exchange for, instead of
     * *(KAMA)* - anstataŭa — substitute
