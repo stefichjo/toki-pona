@@ -919,7 +919,9 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - neniu — no
   * *(LAWA)* - nenio — nothing
   * *([NANPA](#nimi-nanpa))* - nul — zero
-* **alasa** ***[?]*** *([WAWA PALISA](#nimi-wawa-palisa))* - ĉasi, kolekti — to hunt, to collect
+* **alasa** ***[?]*** *([PALI](#nimi-pali))*
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - ĉasi, kolekti — to hunt, to collect
+  * *(LAWA)* - io por ĉasi, io por kolekti: foraĝo — something to hunt, something to collect: forage
 * **ale** ***[alle]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - ĉiu — every
   * *(LAWA)* - ĉio — everything
@@ -950,7 +952,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **jaki** ***[jakki]*** *(SULI)* - malpura, fia, senhonora — dirty, disgusting, dishonored
 * **jan** ~~jen~~ ***[jen]*** *(PALISA)* - iu — someone
 * **jelo** ***[jellow]*** *(SULI)* - flava — yellow
-* **jo** ***[jow]*** *([WAWA PALISA](#nimi-wawa-palisa))* - havi — to have
+* **jo** ***[jow]***
+  * *([WAWA PALISA](#nimi-wawa-palisa))* - havi — to have
+  * *(LAWA)* - io por havi: propraĵo — something to have: property
 * **kala** ***[kala]*** *([SIJELO](#nimi-sijelo))*
   * *([KAMA PALISA](#nimi-kama-palisa))* - naĝanta en — swimming in
     * *(KAMA)* - naĝanta — swimming
