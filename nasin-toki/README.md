@@ -173,12 +173,15 @@ kama nimi la pini nimi sama lon poka pi nimi "ala" la nimi "anu" li kama weka.
 #### nimi kalama
 *(Interjekcio — Interjection)*
 
-**nimi kalama** li sama mute nimi. **nimi kalama** "a" li ken kama **nimi kama** pi kon wawa.
-*(Interjekcio estas kiel frazo. La interjekcio "a" povas fariĝi modifilo por emfazo. — An interjection is like a sentence. The interjection "a" can become a modifier for emphasis.)*
+jan li ken toki e pilin kepeken **nimi kalama** taso.
+*(Oni povas esprimi emocion per nura interjekcio. — One can express an emotion by means of a plain interjection.)*
 
-* ***mu***. *(bla. — blah.)*
-* sina suli, ***a***! *(Vi estas granda, ho! — You are tall, wow!)*
-  * → sina suli ***a***! *(Vi estas tiom granda! Vi ja estas granda! Vi eĉ estas granda! — You are so tall!)*
+* ***a***! *(Ha!, Ho! — Ha!, Wow!)*
+* ***mu***! *(Bla! — Blah!)*
+
+**nimi kalama** li ken kama [nimi wawa palisa](#nimi-wawa-palisa).
+
+...
 
 **nimi kalama** li ken kama **nimi suli**.
 *(Interjekcio povas fariĝi radika vorto. — An interjection can become a content word.)*
@@ -187,6 +190,13 @@ kama nimi la pini nimi sama lon poka pi nimi "ala" la nimi "anu" li kama weka.
   * → ona li kute e ***mu*** wawa.
 * soweli li ~~kalama~~ "***mu***". *(La besto blekas. — The animal bleats.)*
   * → soweli li ***mu***.
+
+**nimi kalama** li ken kama **nimi kama**.
+*(Interjekco povas fariĝi modifilo. — An interjection can become a modifier.)*
+
+* sina suli, ***a***! *(Vi estas granda, ho! — You are tall, wow!)*
+  * → sina suli ***a***! *(Vi estas ja granda! — You are so tall!)*
+
 
 nimi "nimi" en nimi "kalama" li kama weka lon kama pi nimi tan jan ante anu nimi pi ijo ante.
 *(La vorto "nimi" malaperas antaŭ citaĵo aŭ nomo. — The word "nimi" disappears before quotations or names.)*
