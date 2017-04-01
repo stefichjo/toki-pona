@@ -992,13 +992,13 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - reciproka animaĵo: komunumo, kompanio, grupo, nacio, socio, tribo — reciprocal animated being: community, company, group, nation, society, tribe
 * **kute** ~~ekute~~ ***[ekute]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - aŭdi — to hear
-  * *(LAWA)* - aŭda organo: orelo — hearing organ: ear
+  * *(LAWA)* - organo por aŭdi: orelo — organ for hearing: ear
 * **la** ***[la]*** *([LILI](#nimi-lili-la))* - (kunteksto) — (context)
 * **lape** ***[slape]*** *(SULI)* - dormanta, ripozanta — sleeping, resting
 * **laso** ~~la~~ ***[glas]*** *(SULI)* - blua, verda — blue, green
 * **lawa** ***[glava]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - gvidi — to guide
-  * *(LAWA)* - gvida organo: kapo — guiding organ: head
+  * *(LAWA)* - organo por gvidi: kapo — organ for guiding: head
   * *(lon ... pi)* - supre de — at the top of
 * **leko** → **sike ala**, **nena pi sike ala**, **mute nena**
 * **len** ***[leng]*** *([IJO](#nimi-ijo))*
@@ -1019,11 +1019,11 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - ĉeestanta, ekzistanta, reala — being present, existing, real
 * **luka** ***[ruka]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - tuŝi — to touch
-  * *(LAWA)* - tuŝa organo: mano, brako — touching organ: hand, arm
+  * *(LAWA)* - organo por tuŝi: mano, brako — organ for touching: hand, arm
   * *([NANPA](#nimi-nanpa))* - kvin — five
 * **lukin** ***[luk-him]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - vidi — to see
-  * *(LAWA)* - vidanta organo: okulo — seeing organ: eye
+  * *(LAWA)* - organo por vidi: okulo — organ for seeing: eye
     * *(lon ... pi)* - antaŭ, ĉe, kontraŭ — before, against
   * *([WAWA PINI](#nimi-wawa-pini))* - provi — to try to
 * **lupa** ***[klupa]*** *([IJO](#nimi-ijo))*
@@ -1082,7 +1082,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io atribuita: nomo, vorto — something attributed: name, word
 * **noka** ***[noga]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - paŝi, treti — to step, to kick
-  * *(LAWA)* - paŝa organo, treta organo: piedo, gambo — stepping organ, kicking organ: foot, leg
+  * *(LAWA)* - organo por paŝi, organo por treti: piedo, gambo — organ for stepping, organ for kicking: foot, leg
     * *(lon ... pi)* - ĉe la malsupro de — at the bottom of
 * **o** ***[ho]*** *([LILI](#nimi-lili-o))* - (volativo), (imperativo), (vocativo) — (volative), (imperative), (vocative)
 * **oko** → **lukin**
@@ -1101,7 +1101,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io longa kaj malmola: branĉo, bastono — something long and hard: branch, stick
   * *([ILO](#nimi-ilo))*
     * *([WAWA PALISA](#nimi-wawa-palisa))* - celi — to aim
-    * *(LAWA)* - celanta organo: fingro — aiming organ: finger
+    * *(LAWA)* - organo por celi: fingro — organ for aiming: finger
 * **pan** ***[pan]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - baza — basic
   * *(LAWA)* - io baza: fundamento, semo, panherbaĵo, pano, nudeloj, rizo — something basic: fundament, seed, cereal, bread, pasta, rice
@@ -1112,7 +1112,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **pi** ***[bi]*** *([LILI](#nimi-lili-pi))* - (genitivo) — (genitive)
 * **pilin** ***[fil-him]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - senti — to feel
-  * *(LAWA)* - sentanta organo: koro — feeling organ: heart
+  * *(LAWA)* - organo por senti: koro — organ for feeling: heart
 * **pimeja** ***[pimeja]*** *(SULI)* - malhela — dark
 * **pini** ***[fini]*** *(SULI)* - finita, pasinta — finished, past
   * *([WAWA PINI](#nimi-wawa-pini))* - fini, to stop
@@ -1127,7 +1127,7 @@ nimi "ona sama" li ken kama nimi "sama".
     * *(lon ... pi)* - apud — next to
 * **poki** ***[bokis]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - enhavi — to contain
-  * *(LAWA)* - enhavanta organo: veziko, ujo, ingo — containing organ: bladder, container
+  * *(LAWA)* - organo por enhavi: veziko, ujo, ingo — organ for containing: bladder, container
 * **pona** ***[bona]*** *(SULI)* - bona, amika, simpla — good, friendly, simple
 * **pu** ***[buk]*** *(SULI)* - konsulti la Oficialan Libron de Tokipono — to interact with the Official Toki Pona Book
 * **sama** ***[sama]*** *([KAMA PALISA](#nimi-kama-palisa))* - kiel, parenca al — like, related to
@@ -1135,7 +1135,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **seli** ***[cxeli]*** *(SULI)* - varma, arda — warm, hot
 * **selo** ***[ŝelo]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - formi — to form
-  * *(LAWA)* - formanta organo: haŭto, ŝelo — forming organ: skin, shell
+  * *(LAWA)* - organo por formi: haŭto, ŝelo — organ for forming: skin, shell
     * *(lon ... pi)* - sur, koncerne -n — on, affecting
 * **seme** ~~senme~~ ***[ŝenme]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - kiu — which
@@ -1205,7 +1205,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - @ — @
 * **uta** ***[usta]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - kisi, suĉi — to kiss, to suck
-  * *(LAWA)* - kisa organo, suĉa organo: buŝo — kissing organ, sucking organ: mouth
+  * *(LAWA)* - organo por kisi, organo por suĉi: buŝo — organ for kissing, organ for sucking: mouth
 * **utala** ~~utalasi~~ ***[udarati]*** *([PALI](#nimi-pali))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - batali, defii, kontraŭi — to battle, to challenge, to struggle against
   * *(LAWA)* - @ — @
