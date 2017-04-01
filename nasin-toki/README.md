@@ -191,7 +191,7 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
 * ***mu***! *(Bla! — Blah!)*
 
 **nimi kalama** li ken kama [nimi pali](#nimi-pali).
-*(Interjekcio povas fariĝi radika vorto por agoj. — An interjection can become a content word for actions.)*
+*(Interjekcio povas fariĝi aga vorto. — An interjection can become a doing word.)*
 
 * soweli li ~~kalama~~ "***mu***". *(La besto blekas. — The animal bleats.)*
   * → soweli li ***mu***.
@@ -205,8 +205,27 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
   * → sina suli ***a***! *(Vi estas ja granda! — You are so tall!)*
 
 ### nimi suli
+*(Radikaj Vortoj — Content Words)*
 
-...
+**nimi suli** li ken kama **nimi lawa**, **nimi kama**, **nimi wawa**. sin la **nimi palisa** li **nimi suli** a. ona li ken kama **nimi kama palisa**.
+*(Radika vorto povas fariĝi substantivo, modifilo, verbo. Aldone, prepozicioj ankaŭ estas radikaj vortoj. Ili povas fariĝi transitivaj modifiloj. — A content word can become a noun, a modifier, a verb. In addition, prepositions are content words, too. They can become transitive modifiers.)*
+
+#### nimi palisa
+*(Prepozicioj — Prepositions)*
+
+
+
+#### nimi ijo
+*(Aĵaj Vortoj — Thing Words)*
+
+#### nimi ilo
+*(Ilaj Vortoj — Tool Words)*
+
+#### nimi jan
+*(Ulaj Vortoj — Person Words)*
+
+#### nimi pali
+*(Agaj Vortoj — Doing Words)*
 
 ### nimi suli "ale", "ala", "ni", "seme"
 *(Korelativoj — Correlatives)*
@@ -637,7 +656,7 @@ nimi "ni" taso li lon pini pi **nimi kama palisa** "taso" lon kama pi mute nimi,
   * *(KAMA)* dolĉa — sweet
   * *(LAWA)* io dolĉa: dolĉaĵo — something sweet: sweets
 
-#### nimi palisa
+#### nimi palisa@
 *(Pronomoj — Pronouns)*
 
 nimi "mi", "sina", "ona", "ijo" li **nimi palisa**. **nimi lawa** ante li pini jo e nimi "ijo".
