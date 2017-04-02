@@ -123,12 +123,6 @@ pini pi **nimi wawa** "pilin" la **nimi lili** "e" li ken kama **nimi lili** "pi
 * mi ***pilin e*** pona mute. *(Mi sentas multan bonon. — I feel much good.)*
   * → mi ***pilin pi*** pona mute. *(Mi fartas tre bone. — I feel very good.)*
 
-nimi "nanpa" lon poka pi **nimi nanpa** li ken kama nimi.
-*("nanpa" kun numeralo povas fariĝi nomo. — "nanpa" together with a numeral can become a name.)*
-
-* lipu **pi nanpa tu** *(la karto kun la numero du — the card with the number two)*
-  * → lipu **nanpa tu** *(la karto numero du, la dua karto — the card number two, the second card)*
-
 #### nimi lili "la"
 *(Kunteksto — Context)*
 
@@ -180,6 +174,12 @@ kama nimi la pini nimi sama lon poka pi nimi "ala" la nimi "anu" li kama weka.
 
 * toki pi nimi "***Epelanto***" *(Esperanto — Esperanto)*
   * → toki ***Epelanto***
+
+nimi "nanpa" lon poka pi **nimi nanpa** li ken kama nimi.
+*("nanpa" kun numeralo povas fariĝi nomo. — "nanpa" together with a numeral can become a name.)*
+
+* lipu **pi nanpa tu** *(la karto kun la numero du — the card with the number two)*
+  * → lipu **nanpa tu** *(la karto numero du, la dua karto — the card number two, the second card)*
 
 #### nimi kalama
 *(Interjekcio — Interjection)*
