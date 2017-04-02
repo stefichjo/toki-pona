@@ -1236,8 +1236,9 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io supera: ĉielo, Dio — something superior: heaven, God
     * *(lon ... pi)* - super — over
 * **sijelo** ***[tijelo]*** *([IJO](#nimi-ijo))*
-  * *(KAMA)* - vivanta — living
-  * *(LAWA)* - io vivanta: vivaĵo, korpo — something living: living being, body
+  * *(KAMA)* - adaptita — adapted
+      *(LAWA)* - fizika stato — physical state
+  * *(LAWA)* - io adapita: vivaĵo, korpo — something adapted: living being, body
 * **sike** ***[sirkel]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - ronda — round
   * *(LAWA)* - io ronda: cirklo, globo, ĉirkaŭo — something round: circle, sphere, surroundings
