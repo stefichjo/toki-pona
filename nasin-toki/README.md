@@ -302,17 +302,6 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 
 * **kala** *(fiŝo — fish)*
 
-### nimi suli "ale", "ala", "ni", "seme"
-*(Korelativoj — Correlatives)*
-
-#### nimi suli "ni"
-*(La Korelativo "ni" — The Correlative "ni")*
-
-nimi "ni" li ken jo e kon pi ***mute nimi***.
-*("ni" povas signifi frazon. — "ni" can mean a sentence.)*
-
-* mi wile e ni: jan Melani li kama tawa tomo mi. *(Mi volas, ke Melanio venu al mia hejmo. — I want Mélanie to visit me.)*
-
 ## toki namako
 *(Aldona Lingvaĵo — Additional Language)*
 
