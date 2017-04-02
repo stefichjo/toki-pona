@@ -251,6 +251,11 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
   * ~~ijo~~ **seme** *(kio — what)*
     * → **seme**
 
+pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li kama weka ala.
+*(En genitiva frazero, "ijo" antaŭ korelativo ne malaperas. — In a genitive clause, "ijo" before a correlative doesn't disappear.)*
+
+* mama **pi ijo ale** *(gepatro de ĉio — parent of everything)*
+
 ##### nimi pali
 *(Agaj Vortoj — Doing Words)*
 
