@@ -231,6 +231,26 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
   * ~~ijo~~ **suwi** *(dolĉaĵo — sweets)*
     * → **suwi**
 
+##### nimi pi ijo poka
+*(Korelativoj — Correlatives)*
+
+* **ala** *(neniu — no)*
+  * jan **ala** *(neniu — no one)*
+  * ~~ijo~~ **ala** *(nenio — nothing)*
+    * → **ala**
+* **ale** *(ĉiu — every)*
+  * jan **ale** *(ĉiu — everyone)*
+  * ~~ijo~~ **ale** *(ĉio — everything)*
+    * → **ale**
+* **ni** *(tiu (ĉi) — that/this)*
+  * jan **ni** *(tiu (ĉi) — that/this one)*
+  * ~~ijo~~ **ni** *(tio (ĉi) — that/this thing)*
+    * → **ni**
+* **seme** *(kiu — which)*
+  * jan **seme** *(kiu — who)*
+  * ~~ijo~~ **seme** *(kio — what)*
+    * → **seme**
+
 ##### nimi pali
 *(Agaj Vortoj — Doing Words)*
 
@@ -1187,7 +1207,7 @@ nimi "ona sama" li ken kama nimi "sama".
     * *(KAMA)* - rampanta — crawling
   * *(LAWA)* - rampanta vivaĵo: insekto — crawling living being: insect
 * **poka** ~~po~~ ***[bok]*** *([IJO](#nimi-ijo))*
-  * *(KAMA)* - apuda — lateral
+  * *(KAMA)* - apuda, akompananta — lateral, accompanying
   * *(LAWA)* - io apuda: flanko — something lateral: side
     * *(lon ... pi)* - apud — next to
 * **poki** ***[bokis]*** *([ILO](#nimi-ilo))*
