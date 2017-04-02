@@ -293,6 +293,9 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 ## toki namako
 *(Aldona Lingvaĵo — Additional Language)*
 
+### nimi wawa palisa tan nimi lawa
+*(Transitivaj Verboj el Substantivoj — Transitive Verbs from Nouns)*
+
 ### nimi nanpa
 *(Numeraloj — Numerals)*
 
