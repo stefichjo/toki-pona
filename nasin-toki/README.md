@@ -276,6 +276,13 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
   * → tomo **sama** ni *(domo kiel tiu, tia domo — a house like this, such a house)*
     * → tomo ni *(tiuj domoj → tia domo — those houses → such a house)*
 
+**nimi kama** "ala" li ken tawa.
+*(La modifilo "ala" povas moviĝi. — The modifier "ala" can move.)*
+
+* o kepeken ilo ike ***ala***. *(Uzu neniujn malĝustajn instrumentojn. — Don't use any wrong tools.)*
+  * o kepeken — ***ala*** — ilo ike. *(Ne uzu la malĝustajn instrumentojn. — Don't use the wrong tools.)*
+    * → o kepeken ***ala*** ilo ike.
+
 ##### nimi pali
 *(Agaj Vortoj — Doing Words)*
 
@@ -297,52 +304,6 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 
 ### nimi suli "ale", "ala", "ni", "seme"
 *(Korelativoj — Correlatives)*
-
-#### nimi suli "ale"
-*(La Korelativo "ale" — The Correlative "ale")*
-
-nimi "mute" lon kama pi nimi "ale" li ken kama weka.
-
-* jan ***~~pi mute~~ ale*** *(ĉiu — everyone)*
-  * → jan ***ale***
-
-#### nimi suli "ala"
-*(La Korelativo "ala" — The Correlative "ala")*
-
-**nimi kama** "ala" li ken tawa.
-*(La modifilo "ala" povas moviĝi. — The modifier "ala" can move.)*
-
-* o kepeken ilo ike ***ala***. *(Uzu neniujn malĝustajn instrumentojn. — Don't use any wrong tools.)*
-  * o kepeken — ***ala*** — ilo ike. *(Ne uzu la malĝustajn instrumentojn. — Don't use the wrong tools.)*
-    * → o kepeken ***ala*** ilo ike.
-
-kon pi nimi mute lon kama pi **nimi kama** "ala" li sama nimi "lili" anu "pona".
-*(Multaj vortoj antaŭ la modifilo "ala" havas la saman signifon kiel "lili" aŭ "pona". — Many words before the modifier "ala" have the same meaning as "lili" or "pona".)*
-
-* ***lili*** *(eta — small)*
-  * ***suli ala*** *(malgranda, malaŭtoritata — unlarge, unauthorative)*
-    * → ***lili*** *(pita — little)*
-  * ***mute ala*** *(malmultopa)*
-    * → ***lili*** *(poka — few)*
-  * ***wawa ala*** *(malforta, malfortika)*
-    * → ***lili*** *(febla, fragila — weak, fragile)*
-* ***pona*** *(bona — good)*
-  * ***ike ala*** *(malmava — unbad)*
-    * → ***pona*** *(pozitiva — positive)*
-  * ***utala ala*** *(malbatala — non-competing)*
-    * → ***pona*** *(paca — peaceful)*
-  * ***nasa ala*** *(malstranga, malfreneza — unstrange, uncrazy)*
-    * → ***pona*** *(amika, simpla — friendly, simple)*
-  * ***pakala ala*** *(malaĉa — unharmed)*
-    * → ***pona*** *(utila — useful)*
-  * ***jaki ala*** *(malsordida — undirty)*
-    * → ***pona*** *(pura — clean)*
-
-jan li wile toki sin lon tenpo lili, la **mute nimi** li ken jo e nimi "ala" taso.
-*(Por respondi rapide, frazo povas konsisti nur el la vorto "ala". — In order to respond quickly, a sentence can consist only of "ala".)*
-
-* ~~ona li mama~~ ***ala***. *(Ne. — No.)*
-  * → ***ala***.
 
 #### nimi suli "ni"
 *(La Korelativo "ni" — The Correlative "ni")*
@@ -1022,12 +983,12 @@ nimi "ona sama" li ken kama nimi "sama".
     * *([NANPA](#nimi-nanpa))* sep - seven
 * **ijo** ***[io]*** *(PALISA)* - io — something
   * *(e ... pi)* - pri — about
-* **ike** ~~ikeja~~ ***[ilkea]*** *([SULI](#nimi-suli))* - malbona, superflua — bad, superfluous
+* **ike** ~~ikeja~~ ***[ilkea]*** *([SULI](#nimi-suli))* ***≠ pona*** - malbona, superflua — bad, superfluous
 * **ilo** *([IJO](#nimi-ijo))* - io utila — something useful
 * **insa** ***[insajt]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - iternal — internal
   * *(LAWA)* - io interna: centro — something internal: center
-* **jaki** ***[jakki]*** *([SULI](#nimi-suli))* - malpura, fia, senhonora — dirty, disgusting, dishonored
+* **jaki** ***[jakki]*** *([SULI](#nimi-suli))* ***≠ pona*** - malpura, fia, senhonora — dirty, disgusting, dishonored
 * **jan** ~~jen~~ ***[jen]*** *(PALISA)* - iu — someone
 * **jelo** ***[jellow]*** *([SULI](#nimi-suli))* - flava — yellow
 * **jo** ***[jow]*** *([PALI](#nimi-pali))*
@@ -1148,7 +1109,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **nanpa** ***[namba]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - nombrita, kalkulita — counted, calculated
   * *(LAWA)* - io nombrita, io kalkulita — something counted, something calculated
-* **nasa** ***[nasaw]*** *([SULI](#nimi-suli))* - stranga, freneza, ebria — strange, crazy, intoxicated
+* **nasa** ***[nasaw]*** *([SULI](#nimi-suli))* ***≠ pona*** - stranga, freneza, ebria — strange, crazy, intoxicated
 * **nasin** ***[naĉin]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - interkonektanta — interconnecting
   * *(LAWA)* - io interkonektanta: vojo, pado, strato, metodo, kutimo, doktrino — something interconnecting: way, path, street, method, custom, doctrine
@@ -1173,7 +1134,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io por ami — something to love
 * **ona** ***[ona]*** *([JAN ANU IJO](#nimi-pi-jan-anu-ijo))* - ŝi, li, ĝi, ili — she, he, it, they
 * **open** ***[open]*** *([SULI](#nimi-suli))* - malfermita — open
-* **pakala** ***[bagar-ap]*** *([SULI](#nimi-suli))* - damaĝita, lezita — damaged, harmed
+* **pakala** ***[bagar-ap]*** *([SULI](#nimi-suli))* ***≠ pona*** - damaĝita, lezita — damaged, harmed
 * **pake e** → **len e lupa pi**
 * **pali** ***[fari]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - prepari, krei — to prepare, to create
@@ -1296,7 +1257,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **uta** ***[usta]*** *([ILO](#nimi-ilo))*
   * *(WAWA PALISA)* - kisi, suĉi — to kiss, to suck
   * *(LAWA)* - organo por kisi, organo por suĉi: buŝo — organ for kissing, organ for sucking: mouth
-* **utala** ~~utalasi~~ ***[udarati]*** *([PALI](#nimi-pali))*
+* **utala** ~~utalasi~~ ***[udarati]*** *([PALI](#nimi-pali))* ***≠ pona***
   * *(WAWA PALISA)* - batali, defii, kontraŭi — to battle, to challenge, to struggle against
   * *(LAWA)* - @ — @
   * *(... tawa)* - kontraŭ — against
