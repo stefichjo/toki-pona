@@ -272,8 +272,8 @@ pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li kam
 kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(Antaŭ korelativo, la prepozicio "sama" povas malaperi. — In front of a correlative, the preposition "sama" can disappear.)*
 
 * tomo **sama** tomo ni *(domo kiel tiu domo — a house like this house)*
-  * → tomo **sama** ni *(domo kiel tiu, tia domo — a house like this, such a house)*
-    * → tomo ni *(tiuj domoj → tia domo — those houses → such a house)*
+  * tomo **sama** ni *(domo kiel tiu, tia domo — a house like this, such a house)*
+    * tomo ni *(tiuj domoj → tia domo — those houses → such a house)*
 
 **nimi kama** "ala" li ken tawa.
 *(La modifilo "ala" povas moviĝi. — The modifier "ala" can move.)*
