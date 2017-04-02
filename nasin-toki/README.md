@@ -248,22 +248,10 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
 ##### nimi pi ijo poka
 *(Korelativoj — Correlatives)*
 
-* **ala** *(neniu — no)*
-  * jan **ala** *(neniu — no one)*
-  * ~~ijo~~ **ala** *(nenio — nothing)*
-    * → **ala**
-* **ale** *(ĉiu — every)*
-  * jan **ale** *(ĉiu — everyone)*
-  * ~~ijo~~ **ale** *(ĉio — everything)*
-    * → **ale**
-* **ni** *(tiu (ĉi) — that/this)*
-  * jan **ni** *(tiu (ĉi) — that/this one)*
-  * ~~ijo~~ **ni** *(tio (ĉi) — that/this thing)*
-    * → **ni**
-* **seme** *(kiu — which)*
-  * jan **seme** *(kiu — who)*
-  * ~~ijo~~ **seme** *(kio — what)*
-    * → **seme**
+* **ala**, **ale**, **ni**, **seme** *(neniu, ĉiu, tiu (ĉi), kiu — no, every, that/this, which)*
+  * jan **ala**, jan **ale**, jan **ni**, jan **seme** *(neniu, ĉiu, tiu (ĉi), kiu — no one, everyone, that/this one, who)*
+  * ~~ijo~~ **ala**, ~~ijo~~ **ale**, ~~ijo~~ **ni**, ~~ijo~~ **seme** *(nenio, ĉio, tio (ĉi), kio — nothing, everything,  that/this thing, what)*
+    * → **ala**, **ale**, **ni**, **seme**
 
 pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li kama weka ala.
 *(En genitiva frazero, "ijo" antaŭ korelativo ne malaperas. — In a genitive clause, "ijo" before a correlative doesn't disappear.)*
