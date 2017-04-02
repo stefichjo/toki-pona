@@ -296,6 +296,13 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 ### nimi wawa palisa tan nimi lawa
 *(Transitivaj Verboj el Substantivoj — Transitive Verbs from Nouns)*
 
+**nimi lawa** li ken kama **nimi wawa palisa**.
+*(Substantivo povas fariĝi transitiva verbo. — A noun can become a transitive verb.)*
+
+* ona li **telo** e kasi. *(ŝi malsekigas la planton. — She gets the plant wet.)*
+* ona li pana e **telo** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
+  * → ona li **telo** e kasi. *(ŝi akvumas la planton. — She waters the plant.)*
+
 ### nimi nanpa
 *(Numeraloj — Numerals)*
 
