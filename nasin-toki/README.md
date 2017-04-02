@@ -207,8 +207,8 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
 ### nimi suli
 *(Radikaj Vortoj — Content Words)*
 
-**nimi suli** li ken kama **nimi lawa**, **nimi wawa (palisa)**, **nimi kama**. sin la **nimi palisa** li **nimi suli** a. ona li ken kama **nimi kama palisa**.
-*(Radika vorto povas fariĝi substantivo, (transitiva) verbo, modifilo. Aldone, prepozicioj ankaŭ estas radikaj vortoj. — A content word can become a noun, a (transitive) verb, a modifier. In addition, prepositions are content words, too.)*
+**nimi suli** li ken kama **nimi lawa**, **nimi wawa (palisa, pini)**, **nimi kama**. sin la **nimi palisa** li **nimi suli** a. ona li ken kama **nimi kama palisa**.
+*(Radika vorto povas fariĝi substantivo, (transitiva, helpa) verbo, modifilo. Aldone, prepozicioj ankaŭ estas radikaj vortoj. — A content word can become a noun, a (transitive, auxiliary) verb, a modifier. In addition, prepositions are content words, too.)*
 
 * o pana e **pona**! *(Helpu! — Help!)*
 * ale li **pona** *(Ĉio estas bona. — All is good.)*
@@ -993,7 +993,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili-en-anu))* - aŭ — or
 * **apeja** → **jaki**
 * **awen** ***[hawen]*** *([SULI](#nimi-suli))* - daŭranta, atendanta, restanta — enduring, waiting, remaining
-  * *([WAWA PINI](#nimi-wawa-pini))* - plu- — to continue to
+  * *(WAWA PINI)* - plu- — to continue to
 * **e** ***[?]*** *([LILI](#nimi-lili-e))* - -n — (accusative)
 * **en** ***[en]*** *([LILI](#nimi-lili-en-anu))* - kaj — and
 * **esun** ***[?]*** *([SIJELO](#nimi-sijelo))*
@@ -1022,7 +1022,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - naĝanta vivaĵo: fiŝo, baleno — swimming living being: fish, baleno
 * **kalama** ***[galama]*** *([SULI](#nimi-suli))* - sona — sounding
 * **kama** ***[kam-ap]*** *([SULI](#nimi-suli))* - alvena — arriving
-  * *([WAWA PINI](#nimi-wawa-pini))* - -iĝ-, sukcesi — to become, to succeed
+  * *(WAWA PINI)* - -iĝ-, sukcesi — to become, to succeed
   * *(lon ... pi)* - antaŭ — before
 * **kasi** ***[kasvi]*** *([SIJELO](#nimi-sijelo))*
   * *([PALISA](#nimi-palisa))*
@@ -1030,7 +1030,7 @@ nimi "ona sama" li ken kama nimi "sama".
     * *(KAMA)* - kreskanta — growing
   * *(LAWA)* - kreskanta vivaĵo: planto — growing living being: plant
 * **ken** ***[ken]*** *([SULI](#nimi-suli))* - ebla — possible
-  * *([WAWA PINI](#nimi-wawa-pini))* - povi, kapabli, rajti — can, to be able to, to be allowed to
+  * *(WAWA PINI)* - povi, kapabli, rajti — can, to be able to, to be allowed to
 * **kepeken** ***[xebrewken]*** *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - per — by means of
   * *(KAMA)* - uzanta — using
@@ -1089,7 +1089,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(WAWA PALISA)* - vidi — to see
   * *(LAWA)* - organo por vidi: okulo — organ for seeing: eye
     * *(lon ... pi)* - antaŭ, ĉe, kontraŭ — before, against
-  * *([WAWA PINI](#nimi-wawa-pini))* - provi — to try to
+  * *(WAWA PINI)* - provi — to try to
 * **lupa** ***[klupa]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - kava — hollow
   * *(LAWA)* - io kava: truo, pordo — something hollow: hole, door
@@ -1179,7 +1179,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - organo por senti: koro — organ for feeling: heart
 * **pimeja** ***[pimeja]*** *([SULI](#nimi-suli))* - malhela — dark
 * **pini** ***[fini]*** *([SULI](#nimi-suli))* - finita, pasinta — finished, past
-  * *([WAWA PINI](#nimi-wawa-pini))* - fini, to stop
+  * *(WAWA PINI)* - fini, to stop
   * *(lon ... pi)* - malantaŭ — after
 * **pipi** ***[bibit]*** *([SIJELO](#nimi-sijelo))*
   * *([PALISA](#nimi-palisa))*
@@ -1231,7 +1231,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **sona** ***[codna]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - scii — to know
   * *(LAWA)* - io por scii: fakto — something to know: fact
-  * *([WAWA PINI](#nimi-wawa-pini))* - scipovi — to know how to
+  * *(WAWA PINI)* - scipovi — to know how to
 * **soweli** ***[cxoveli]*** *([JAN](#nimi-jan))*
   * *(KAMA)* - varmsanga — warm-blooded
   * *(LAWA)* - varmsanga animaĵo: mamulo — warm-blooded animated being: mammal
@@ -1296,7 +1296,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **wile** ***[wille]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - deziri, bezoni — to desire, to need
   * *(LAWA)* - io por deziri, io por bezoni: neceso — something to desire, something to need: necessity
-  * *([WAWA PINI](#nimi-wawa-pini))* - voli, devi — want, must
+  * *(WAWA PINI)* - voli, devi — want, must
 
 ---
 
