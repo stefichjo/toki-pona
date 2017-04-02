@@ -323,35 +323,6 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 * palisa ***luka***, ***luka*** *(kvin fingroj kaj kvin → dek fingroj — five fingers and five → ten fingers)*
   * → palisa ***luka luka***
 
-### ijo ante
-*(Diversaj — Miscellaneous)*
-
-nimi "sike" li ken kama **nimi wawa palisa**.
-*("sike" povas fariĝi transitiva verbo. — "sike" can become a transitive verb.)*
-
-* mi ~~tawa~~ ***sike*** ~~lon~~ suno. *(Mi orbitas la sunon. — I orbit around the sun.)*
-  * → mi ***sike e*** suno.
-  
-**nimi wawa pi palisa ala** li kama **nimi wawa palisa**, la nimi "e ijo" li ken kama weka.
-*(Se netransitiva verbo fariĝas transitiva, "e ijo" povas malaperi. — If an intransitive verb becomes transitive, "e ijo" can disappear.)*
-
-* mi open. *(Mi estas malfermita. — I am open.)*
-* mi open ***e ijo***. *(Mi malfermas ion. — I open something.)*
-  * → mi open. *(Mi malfermas. — I open.)*
-
-nimi "open" li ken kama jo e kon pi nimi "kama".
-*("open" povas ricevi la signifon de "kama". — "open" can get the meaning of "kama".)*
-
-* mi **kama** lon nimi sewi. *(Mi komencas ĉe la nomo de la Ĉiela. — I begin with the name of the Divine.)*
-  * → mi **open** lon nimi sewi.
-  
-nimi "mute" lon kama pi nimi "lipu" li ken weka.
-*("mute" antaŭ "lipu" povas malaperi. — "mute" before "lipu" can disappear.)*
-
-* ni li lipu. *(Tio estas folio. — This is a piece of paper.)*
-* ni li **mute lipu**. *(Tio estas libro. — This is a book.)*
-  * → ni li **lipu**.
-
 # toki kulupu
 *(Komunuma Lingvaĵo — Community Language)*
 
@@ -1032,7 +1003,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **lipu** ***[lippu]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - plata — flat
   * *(LAWA)* - io plata: karto, dokumento, papero, dosiero — something flat: card, document, paper, file
-    * *(~~mute~~ ...)* - libro — book
+    * *(LAWA)* = **mute lipu**
 * **loje** ***[roje]*** *([SULI](#nimi-suli))* - ruĝa — red
 * **lon** ~~alon~~ ***[along]*** *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - ĉe, laŭ, en, kun — at, along, in, with
@@ -1111,6 +1082,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io por ami — something to love
 * **ona** ***[ona]*** *([JAN ANU IJO](#nimi-pi-jan-anu-ijo))* - ŝi, li, ĝi, ili — she, he, it, they
 * **open** ***[open]*** *([SULI](#nimi-suli))* - malfermita — open
+  * *(WAWA PALISA)* = **kama e**
 * **pakala** ***[bagar-ap]*** *([SULI](#nimi-suli))* ***≠ pona*** - damaĝita, lezita — damaged, harmed
 * **pake e** = **len e lupa pi**
 * **pali** ***[fari]*** *([PALI](#nimi-pali))*
@@ -1172,6 +1144,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io adapita: vivaĵo, korpo — something adapted: living being, body
 * **sike** ***[sirkel]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - ronda — round
+    * *(WAWA PALISA)* = **tawa sike lon**, **tawa lon sike pi**
   * *(LAWA)* - io ronda: cirklo, globo, ĉirkaŭo — something round: circle, sphere, surroundings
     * *(lon ... pi)* - ĉirkaŭ — around
 * **sin** ***[ŝin]*** *([PALISA](#nimi-palisa))*
