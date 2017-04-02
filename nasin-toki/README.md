@@ -207,13 +207,24 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
 ### nimi suli
 *(Radikaj Vortoj — Content Words)*
 
-**nimi suli** li ken kama **nimi lawa**, **nimi wawa (palisa, pini)**, **nimi kama**. sin la **nimi palisa** li **nimi suli** a. ona li ken kama **nimi kama palisa**.
-*(Radika vorto povas fariĝi substantivo, (transitiva, helpa) verbo, modifilo. Aldone, prepozicioj ankaŭ estas radikaj vortoj. — A content word can become a noun, a (transitive, auxiliary) verb, a modifier. In addition, prepositions are content words, too.)*
+**nimi suli** li ken kama **nimi lawa**, **nimi wawa (palisa)**, **nimi kama**.
+*(Radika vorto povas fariĝi substantivo, (transitiva) verbo, modifilo. — A content word can become a noun, a (transitive) verb, a modifier.)*
 
 * o pana e **pona**! *(Helpu! — Help!)*
 * ale li **pona**. *(Ĉio estas bona. — All is good.)*
 * mi **pona** e mi. *(Mi bonigas min. — I improve myself.)*
 * jan **pona** *(amiko — friend)*
+
+sin la **nimi palisa** li **nimi suli** a. ona li ken kama **nimi kama palisa**.
+*(Aldone, prepozicioj ankaŭ estas radikaj vortoj. — In addition, prepositions are content words, too.)*
+
+* mi pona **tawa** jan. *(Mi estas bona al homoj. — I'm good to people.)*
+
+**nimi suli** pi mute ala li ken kama **nimi wawa pini** anu **nimi nanpa**.
+*(Malmultaj radikaj vortoj povas fariĝi helpaj verboj aŭ numeraloj. — A few content words can become auxiliary verbs or numerals.)*
+
+* mi **wile** lape. *(Mi bezonas dormi. — I need to sleep.)*
+* luka **wan** li jo e palisa **luka**. *(Unu mano havas kvin fingrojn. — One hand has five fingers.)*
 
 #### nimi palisa
 *(Prepozicioj — Prepositions)*
@@ -303,14 +314,11 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 * ona li pana e **telo** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
   * → ona li **telo** e kasi. *(ŝi akvumas la planton. — She waters the plant.)*
 
-### nimi nanpa
-*(Numeraloj — Numerals)*
+### nimi nanpa mute
+*(Pluraj Numeraloj — Multiple Numerals)*
 
-**nimi lawa** li ken jo e **nimi nanpa** wan taso.
-*(Substantivo povas havi nur unu numeralon. — A noun can have one numeral only.)*
 
-* kasi ***luka*** → *(kvin plantoj — five plants)*
-* kasi ***luka ~~tu~~*** *(dek plantoj — ten plants)*
+
 
 insa pi **nimi nanpa** tu la sitelen nanpa li kama weka.
 *(Inter du numeraloj, la komo malaperas. — Between two numerals, the comma disappears.)*
