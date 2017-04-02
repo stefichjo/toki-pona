@@ -224,12 +224,12 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
 * ***jan*** *(iu — somebody)*
 * ***ijo*** *(io — something)*
 
-#### nimi jan
-*(Ulaj Vortoj — Person Words)*
+#### nimi pali
+*(Agaj Vortoj — Doing Words)*
 
-* **meli** *(ina — female)*
-  * ~~jan~~ **meli** *(virino — woman)*
-    * → **meli**
+* **moku** *(manĝi — to eat)*
+  * ~~ijo~~ **moku** *(manĝo — food)*
+    * → **moku**
 
 #### nimi ijo
 *(Aĵaj Vortoj — Thing Words)*
@@ -238,6 +238,13 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
   * ~~ijo~~ **suwi** *(dolĉaĵo — sweets)*
     * → **suwi**
 
+#### nimi jan
+*(Ulaj Vortoj — Person Words)*
+
+* **meli** *(ina — female)*
+  * ~~jan~~ **meli** *(virino — woman)*
+    * → **meli**
+
 #### nimi ilo
 *(Ilaj Vortoj — Tool Words)*
 
@@ -245,15 +252,16 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
   * ~~ilo~~ **lukin** *(okulo — eye)*
     * → **lukin**
 
-#### nimi pali
-*(Agaj Vortoj — Doing Words)*
-
-
 #### nimi palisa
 *(Prepozicioj — Prepositions)*
 
+* **tawa** *(al, por — to, for)*
+  * → **tawa** *(moviĝanta — moving)*
+
 #### nimi sijelo
-*(Vivaj Vortoj — Living Words)*
+*(Korpaj Vortoj — Body Words)*
+
+* **kala** *(fiŝo — fish)*
 
 ### nimi suli "ale", "ala", "ni", "seme"
 *(Korelativoj — Correlatives)*
