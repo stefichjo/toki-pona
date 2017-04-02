@@ -317,14 +317,11 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 ### nimi nanpa mute
 *(Pluraj Numeraloj — Multiple Numerals)*
 
+**nimi nanpa** tu la sitelen nanpa li ken kama weka.
+*(Ĉe du numeraloj, la komo povas malaperi. — With two numerals, the comma can disappear.)*
 
-
-
-insa pi **nimi nanpa** tu la sitelen nanpa li kama weka.
-*(Inter du numeraloj, la komo malaperas. — Between two numerals, the comma disappears.)*
-
-* kasi ***luka***, ***luka*** *(kvin plantoj kaj kvin → dek plantoj — five plants and five → ten plants)*
-  * → kasi ***luka luka***
+* palisa ***luka***, ***luka*** *(kvin fingroj kaj kvin → dek fingroj — five fingers and five → ten fingers)*
+  * → palisa ***luka luka***
 
 ### ijo ante
 *(Diversaj — Miscellaneous)*
