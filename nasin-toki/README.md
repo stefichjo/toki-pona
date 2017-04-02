@@ -341,12 +341,9 @@ nimi "pini" li ken kama **nimi wawa pini**.
 **nimi kama palisa** "tan", "lon", "tawa" li ken kama **nimi wawa pini**.
 *(La prepozicioj "tan", "lon" kaj "tawa" povas fariĝi helpaj verboj. — The prepositions "tan", "lon" and "tawa" can become auxiliary verbs.)*
 
-* mi ***tan*** ni: mi ***pini moku***. *(Mi estas finmanĝinta. — I have finished to eat.)*
-  * mi ***tan pini moku***.
-* mi ***lon*** ni: mi ***awen moku***. *(Mi estas manĝadanta. — I am constantly eating.)*
-  * mi ***lon awen moku***.
-* mi ***tawa*** ni: mi ***kama moku***. *(Mi estas ekmanĝonta. — I am about to begin to eat.)*
-  * mi ***tawa kama moku***.
+* mi ***tan*** pini sona. *(Mi estas forgesinta. — I have forgotten.)*
+* mi ***lon*** awen sona. *(Mi estas memoranta. — I am remembering.)*
+* mi ***tawa*** kama sona. *(Mi estas lernonta. — I am about to learn.)*
 
 ### toki pi tenpo kama
 *(Estonta Lingvaĵo — Language of the Future)*
