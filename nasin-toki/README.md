@@ -224,19 +224,19 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
 * ***jan*** *(iu — somebody)*
 * ***ijo*** *(io — something)*
 
-#### nimi pali
-*(Agaj Vortoj — Doing Words)*
-
-* **moku** *(manĝi — to eat)*
-  * ~~ijo~~ **moku** *(manĝo — food)*
-    * → **moku**
-
 #### nimi ijo
 *(Aĵaj Vortoj — Thing Words)*
 
 * **suwi** *(dolĉa — sweet)*
   * ~~ijo~~ **suwi** *(dolĉaĵo — sweets)*
     * → **suwi**
+
+##### nimi pali
+*(Agaj Vortoj — Doing Words)*
+
+* **moku** *(manĝi — to eat)*
+  * ~~ijo~~ **moku** *(manĝo — food)*
+    * → **moku**
 
 #### nimi jan
 *(Ulaj Vortoj — Person Words)*
