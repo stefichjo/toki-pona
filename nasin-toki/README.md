@@ -977,13 +977,13 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - ĉio — everything
   * *([NANPA](#nimi-nanpa))* - senfine — countless
 * **ali** → **ale**
-* **anpa** ***[an-bas]*** *(SULI)* - malalta — low
+* **anpa** ***[an-bas]*** *([SULI](#nimi-suli))* - malalta — low
   * *(lon ... pi)* - sub — under
 * **ante** ***[ander]*** *([PALISA](#nimi-kama-palisa))* - ol — than
   * *(KAMA)* - alia — different
 * **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili-en-anu))* - aŭ — or
 * **apeja** → **jaki**
-* **awen** ***[hawen]*** *(SULI)* - daŭranta, atendanta, restanta — enduring, waiting, remaining
+* **awen** ***[hawen]*** *([SULI](#nimi-suli))* - daŭranta, atendanta, restanta — enduring, waiting, remaining
   * *([WAWA PINI](#nimi-wawa-pini))* - plu- — to continue to
 * **e** ***[?]*** *([LILI](#nimi-lili-e))* - -n — (accusative)
 * **en** ***[en]*** *([LILI](#nimi-lili-en-anu))* - kaj — and
@@ -994,14 +994,14 @@ nimi "ona sama" li ken kama nimi "sama".
     * *([NANPA](#nimi-nanpa))* sep - seven
 * **ijo** ***[io]*** *(PALISA)* - io — something
   * *(e ... pi)* - pri — about
-* **ike** ~~ikeja~~ ***[ilkea]*** *(SULI)* - malbona, superflua — bad, superfluous
+* **ike** ~~ikeja~~ ***[ilkea]*** *([SULI](#nimi-suli))* - malbona, superflua — bad, superfluous
 * **ilo** *([IJO](#nimi-ijo))* - io utila — something useful
 * **insa** ***[insajt]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - iternal — internal
   * *(LAWA)* - io interna: centro — something internal: center
-* **jaki** ***[jakki]*** *(SULI)* - malpura, fia, senhonora — dirty, disgusting, dishonored
+* **jaki** ***[jakki]*** *([SULI](#nimi-suli))* - malpura, fia, senhonora — dirty, disgusting, dishonored
 * **jan** ~~jen~~ ***[jen]*** *(PALISA)* - iu — someone
-* **jelo** ***[jellow]*** *(SULI)* - flava — yellow
+* **jelo** ***[jellow]*** *([SULI](#nimi-suli))* - flava — yellow
 * **jo** ***[jow]*** *([PALI](#nimi-pali))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - havi — to have
   * *(LAWA)* - io por havi: propraĵo — something to have: property
@@ -1009,15 +1009,15 @@ nimi "ona sama" li ken kama nimi "sama".
   * *([PALISA](#nimi-kama-palisa))* - naĝanta en — swimming in
     * *(KAMA)* - naĝanta — swimming
   * *(LAWA)* - naĝanta vivaĵo: fiŝo, baleno — swimming living being: fish, baleno
-* **kalama** ***[galama]*** *(SULI)* - sona — sounding
-* **kama** ***[kam-ap]*** *(SULI)* - alvena — arriving
+* **kalama** ***[galama]*** *([SULI](#nimi-suli))* - sona — sounding
+* **kama** ***[kam-ap]*** *([SULI](#nimi-suli))* - alvena — arriving
   * *([WAWA PINI](#nimi-wawa-pini))* - -iĝ-, sukcesi — to become, to succeed
   * *(lon ... pi)* - antaŭ — before
 * **kasi** ***[kasvi]*** *([SIJELO](#nimi-sijelo))*
   * *([PALISA](#nimi-kama-palisa))* - kreskanta sur — growing on
     * *(KAMA)* - kreskanta — growing
   * *(LAWA)* - kreskanta vivaĵo: planto — growing living being: plant
-* **ken** ***[ken]*** *(SULI)* - ebla — possible
+* **ken** ***[ken]*** *([SULI](#nimi-suli))* - ebla — possible
   * *([WAWA PINI](#nimi-wawa-pini))* - povi, kapabli, rajti — can, to be able to, to be allowed to
 * **kepeken** ***[xebrewken]*** *([PALISA](#nimi-kama-palisa))* - per — by means of
   * *(KAMA)* - uzanta — using
@@ -1036,7 +1036,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **kon** ***[kong]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - ŝvebanta — hovering
   * *(LAWA)* - io ŝvebanta: aero, spirito, esenco, kaŝita realo — something hovering: air, spirit, essence, hidden reality
-* **kule** ***[kuler]*** *(SULI)* - kolora, pentrita — colorful, painted
+* **kule** ***[kuler]*** *([SULI](#nimi-suli))* - kolora, pentrita — colorful, painted
 * **kulupu** ***[grup]*** *(JAN)*
   * *(KAMA)* - reciproka — reciprocal
   * *(LAWA)* - reciproka animaĵo: komunumo, kompanio, grupo, nacio, socio, tribo — reciprocal animated being: community, company, group, nation, society, tribe
@@ -1044,8 +1044,8 @@ nimi "ona sama" li ken kama nimi "sama".
   * *([WAWA PALISA](#nimi-wawa-palisa))* - aŭdi — to hear
   * *(LAWA)* - organo por aŭdi: orelo — organ for hearing: ear
 * **la** ***[la]*** *([LILI](#nimi-lili-la))* - (kunteksto) — (context)
-* **lape** ***[slape]*** *(SULI)* - dormanta, ripozanta — sleeping, resting
-* **laso** ~~la~~ ***[glas]*** *(SULI)* - blua, verda — blue, green
+* **lape** ***[slape]*** *([SULI](#nimi-suli))* - dormanta, ripozanta — sleeping, resting
+* **laso** ~~la~~ ***[glas]*** *([SULI](#nimi-suli))* - blua, verda — blue, green
 * **lawa** ***[glava]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - gvidi — to guide
   * *(LAWA)* - organo por gvidi: kapo — organ for guiding: head
@@ -1054,9 +1054,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **len** ***[leng]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - pendanta, kovranta — hanging, covering
   * *(LAWA)* - io pendanta: vesto, io kovranta: kovrilo, privateco — something hanging: cloth, something covering: cover, privacy
-* **lete** ***[frete]*** *(SULI)* - malvarma, kruda — cold, raw
+* **lete** ***[frete]*** *([SULI](#nimi-suli))* - malvarma, kruda — cold, raw
 * **li** ***[li]*** *([LILI](#nimi-lili-li))* - (predikato) — (predikato)
-* **lili** ***[lik-lik]*** *(SULI)* - malgranda, malmulta — small, few
+* **lili** ***[lik-lik]*** *([SULI](#nimi-suli))* - malgranda, malmulta — small, few
 * **linja** ***[linja]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - longa kaj fleksebla — long and flexible
   * *(LAWA)* - io longa kaj fleksebla: kordo, haro, ŝnuro, fadeno — something long and flexible: cord, hair, rope, thread
@@ -1064,7 +1064,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - plata — flat
   * *(LAWA)* - io plata: karto, dokumento, papero, dosiero — something flat: card, document, paper, file
     * *(~~mute~~ ...)* - libro — book
-* **loje** ***[roje]*** *(SULI)* - ruĝa — red
+* **loje** ***[roje]*** *([SULI](#nimi-suli))* - ruĝa — red
 * **lon** ~~alon~~ ***[along]*** *([PALISA](#nimi-kama-palisa))* - ĉe, laŭ, en — at, along, in
   * *(KAMA)* - ĉeestanta, ekzistanta, reala — being present, existing, real
 * **luka** ***[ruka]*** *([ILO](#nimi-ilo))*
@@ -1099,7 +1099,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **moku** ***[mogu]*** *([PALI](#nimi-pali))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - manĝi, trinki, gluti — to eat, to drink, to swallow
   * *(LAWA)* - io por manĝi, io por trinki, io por gluti: manĝo — something to eat, something to drink, something to swallow: food
-* **moli** ~~muli~~ ***[murir]*** *(SULI)* - mortinta, malviva — dead
+* **moli** ~~muli~~ ***[murir]*** *([SULI](#nimi-suli))* - mortinta, malviva — dead
 * **monsi** ***[mon-ĉi]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - malantaŭa — rear
   * *(LAWA)* - malantaŭo — back
@@ -1110,13 +1110,13 @@ nimi "ona sama" li ken kama nimi "sama".
 * **mun** ***[mun]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - ĉielpromenanta — sky-walking
   * *(LAWA)* - io ĉielpromenanta: luno, stelo — something sky-walking: moon, star
-* **musi** ~~amusi~~ ***[amuzi]*** *(SULI)* - ludanta — playing
-* **mute** ***[multe]*** *(SULI)* - plura, multa, multe da (io ne-nombrebla), tre — multiple, many, much of (something non-countable), very
+* **musi** ~~amusi~~ ***[amuzi]*** *([SULI](#nimi-suli))* - ludanta — playing
+* **mute** ***[multe]*** *([SULI](#nimi-suli))* - plura, multa, multe da (io ne-nombrebla), tre — multiple, many, much of (something non-countable), very
 * **namako** → **sin**
 * **nanpa** ***[namba]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - nombrita, kalkulita — counted, calculated
   * *(LAWA)* - io nombrita, io kalkulita — something counted, something calculated
-* **nasa** ***[nasaw]*** *(SULI)* - stranga, freneza, ebria — strange, crazy, intoxicated
+* **nasa** ***[nasaw]*** *([SULI](#nimi-suli))* - stranga, freneza, ebria — strange, crazy, intoxicated
 * **nasin** ***[naĉin]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - interkonektanta — interconnecting
   * *(LAWA)* - io interkonektanta: vojo, pado, strato, metodo, kutimo, doktrino — something interconnecting: way, path, street, method, custom, doctrine
@@ -1140,8 +1140,8 @@ nimi "ona sama" li ken kama nimi "sama".
   * *([WAWA PALISA](#nimi-wawa-palisa))* - ami — to love
   * *(LAWA)* - io por ami — something to love
 * **ona** ***[ona]*** *([JAN ANU IJO](#nimi-pi-jan-anu-ijo))* - ŝi, li, ĝi, ili — she, he, it, they
-* **open** ***[open]*** *(SULI)* - malfermita — open
-* **pakala** ***[bagar-ap]*** *(SULI)* - damaĝita, lezita — damaged, harmed
+* **open** ***[open]*** *([SULI](#nimi-suli))* - malfermita — open
+* **pakala** ***[bagar-ap]*** *([SULI](#nimi-suli))* - damaĝita, lezita — damaged, harmed
 * **pake e** → **len e lupa pi**
 * **pali** ***[fari]*** *([PALI](#nimi-pali))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - prepari, krei — to prepare, to create
@@ -1163,8 +1163,8 @@ nimi "ona sama" li ken kama nimi "sama".
 * **pilin** ***[fil-him]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - senti — to feel
   * *(LAWA)* - organo por senti: koro — organ for feeling: heart
-* **pimeja** ***[pimeja]*** *(SULI)* - malhela — dark
-* **pini** ***[fini]*** *(SULI)* - finita, pasinta — finished, past
+* **pimeja** ***[pimeja]*** *([SULI](#nimi-suli))* - malhela — dark
+* **pini** ***[fini]*** *([SULI](#nimi-suli))* - finita, pasinta — finished, past
   * *([WAWA PINI](#nimi-wawa-pini))* - fini, to stop
   * *(lon ... pi)* - malantaŭ — after
 * **pipi** ***[bibit]*** *([SIJELO](#nimi-sijelo))*
@@ -1178,11 +1178,11 @@ nimi "ona sama" li ken kama nimi "sama".
 * **poki** ***[bokis]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - enhavi — to contain
   * *(LAWA)* - organo por enhavi: veziko, ujo, ingo — organ for containing: bladder, container
-* **pona** ***[bona]*** *(SULI)* - bona, amika, simpla — good, friendly, simple
-* **pu** ***[buk]*** *(SULI)* - konsulti la Oficialan Libron de Tokipono — to interact with the Official Toki Pona Book
+* **pona** ***[bona]*** *([SULI](#nimi-suli))* - bona, amika, simpla — good, friendly, simple
+* **pu** ***[buk]*** *([SULI](#nimi-suli))* - konsulti la Oficialan Libron de Tokipono — to interact with the Official Toki Pona Book
 * **sama** ***[sama]*** *([PALISA](#nimi-kama-palisa))* - kiel, parenca al — like, related to
   * *(KAMA)* - egala, sama, mem — alike, same, self
-* **seli** ***[cxeli]*** *(SULI)* - varma, arda — warm, hot
+* **seli** ***[cxeli]*** *([SULI](#nimi-suli))* - varma, arda — warm, hot
 * **selo** ***[ŝelo]*** *([ILO](#nimi-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - formi — to form
   * *(LAWA)* - organo por formi: haŭto, ŝelo — organ for forming: skin, shell
@@ -1218,7 +1218,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **soweli** ***[cxoveli]*** *(JAN)*
   * *(KAMA)* - varmsanga — warm-blooded
   * *(LAWA)* - varmsanga animaĵo: mamulo — warm-blooded animated being: mammal
-* **suli** ***[suri]*** *(SULI)* - granda, peza, grava, plenkreska — big, heavy, important, adult
+* **suli** ***[suri]*** *([SULI](#nimi-suli))* - granda, peza, grava, plenkreska — big, heavy, important, adult
 * **suno** ***[suno]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - hela — bright
   * *(LAWA)* - io hela: suno — something bright: sun
@@ -1248,7 +1248,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **tomo** ***[domo]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - konstruita — built
   * *(LAWA)* - io konstruita: domo, ĉambro — something built: house, room
-* **tu** ***[tu]*** *(SULI)* - disa — apart
+* **tu** ***[tu]*** *([SULI](#nimi-suli))* - disa — apart
   * *([NANPA](#nimi-nanpa))* - du — two
 * **unpa** ***[?]*** *([PALI](#nimi-pali))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - seksumi kun, esti geedzo de — to have sexual relationships with, to be married to
@@ -1260,14 +1260,14 @@ nimi "ona sama" li ken kama nimi "sama".
   * *([WAWA PALISA](#nimi-wawa-palisa))* - batali, defii, kontraŭi — to battle, to challenge, to struggle against
   * *(LAWA)* - @ — @
   * *(... tawa)* - kontraŭ — against
-* **walo** ***[valko]*** *(SULI)* - blanka — white
-* **wan** ***[wan]*** *(SULI)* - unika, unueca — unique, united
+* **walo** ***[valko]*** *([SULI](#nimi-suli))* - blanka — white
+* **wan** ***[wan]*** *([SULI](#nimi-suli))* - unika, unueca — unique, united
   * *([NANPA](#nimi-nanpa))* - unu — one
 * **waso** ***[wazo]*** *([SIJELO](#nimi-sijelo))*
   * *([PALISA](#nimi-kama-palisa))* - fluganta en — flying in
     * *(KAMA)* - fluganta — flying
   * *(LAWA)* - fluganta vivaĵo: birdo — flying living being: bird
-* **wawa** ***[vahva]*** *(SULI)* - forta — strong
+* **wawa** ***[vahva]*** *([SULI](#nimi-suli))* - forta — strong
 * **weka** ~~we~~ ***[wex]*** *([PALISA](#nimi-kama-palisa))* - fore de — away from
   * *(KAMA)* - fora, distanca — away, gone, distant
   * *(lon ...)* - for — away@
