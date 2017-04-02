@@ -329,6 +329,26 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 ## toki musi
 *(Luda Lingvaĵo — Playful Language)*
 
+### nimi wawa pini ale
+*(Ĉiuj Helpaj Verboj — All Auxiliary Verbs)*
+
+nimi "pini" li ken kama **nimi wawa pini**.
+*("pini" povas fariĝi helpa verbo. — "pini" can become an auxiliary verb.)*
+
+* mi ***pini*** e ni: mi ***jo*** e lipu. *(Mi ĉesis havi la libron. Mi perdis la libron. — I ceased to have the book. I lost the book.)*
+  * → mi ***pini jo*** e lipu. 
+
+**nimi kama palisa** "tan", "lon", "tawa" li ken kama **nimi wawa pini**.
+*(La prepozicioj "tan", "lon" kaj "tawa" povas fariĝi helpaj verboj. — The prepositions "tan", "lon" and "tawa" can become auxiliary verbs.)*
+
+* mi ***tan*** ni: mi ***pini moku***. *(Mi estas finmanĝinta. — I have finished to eat.)*
+  * mi ***tan pini moku***.
+* mi ***lon*** ni: mi ***awen moku***. *(Mi estas manĝadanta. — I am constantly eating.)*
+  * mi ***lon awen moku***.
+* mi ***tawa*** ni: mi ***kama moku***. *(Mi estas ekmanĝonta. — I am about to begin to eat.)*
+  * mi ***tawa kama moku***.
+
+
 ### toki pi tenpo kama
 *(Estonta Lingvaĵo — Language of the Future)*
 
@@ -351,25 +371,6 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 
 * ***mu*** *(ĉiuokaze, nu — anyway, well)*
 * → ***mu***, sina suli. *(Nu, vi estas granda. — Well, you are tall.)*
-
-#### nimi wawa pini
-*(Helpaj Verboj — Auxiliary Verbs)*
-
-nimi "pini" li ken kama **nimi wawa pini**.
-*("pini" povas fariĝi helpa verbo. — "pini" can become an auxiliary verb.)*
-
-* mi ***pini*** e ni: mi ***jo*** e lipu. *(Mi ĉesis havi la libron. Mi perdis la libron. — I ceased to have the book. I lost the book.)*
-  * → mi ***pini jo*** e lipu. 
-
-**nimi kama palisa** li ken kama **nimi wawa pini**.
-*(Prepozicioj povas fariĝi helpa verbo. — Prepositions can become auxiliary verbs.)*
-
-* mi ***tan*** ni: mi ***pini moku***. *(Mi estas finmanĝinta. — I have finished to eat.)*
-  * mi ***tan pini moku***.
-* mi ***lon*** ni: mi ***awen moku***. *(Mi estas manĝadanta. — I am constantly eating.)*
-  * mi ***lon awen moku***.
-* mi ***tawa*** ni: mi ***kama moku***. *(Mi estas ekmanĝonta. — I am about to begin to eat.)*
-  * mi ***tawa kama moku***.
 
 #### nimi ma
 *(Spacaj Vortoj — Location Words)*
@@ -418,7 +419,7 @@ nimi "pona" en nimi "ike" li ken lon kama pi **nimi wawa palisa**.
 * ***pona*** lukin *(bone vidata, facile vidata, agrable vidata, vidinda, bela — good to see, easy to see, worth seeing, beautiful)*
 * ***ike*** lukin *(malbone vidata, malfacile vidata, malagrable vidata, malvidinda, malbela — bad to see, difficult to see, not worth seeing, ugly)*
 
-nimi "a", "nimi "open" en nimi "ala" li ken lon kama pi **nimi wawa palisa**.
+nimi "a", nimi "open" en nimi "ala" li ken lon kama pi **nimi wawa palisa**.
 *("a", "open" kaj "ala" povas esti antaŭ transitiva verbo. — "a", "open" and "ala" can stand before transitive verbs.)*
 
 * ***a*** lukin *(vidata — being seen)*
@@ -611,13 +612,6 @@ nimi "ni" taso li lon pini pi **nimi kama palisa** "taso" lon kama pi mute nimi,
 
 **toki pi tenpo pini** li jo e nimi luka luka tu tu taso.
 *(La pralingvo havas nur cent vortojn. — The Language of the Past has only a hundred words.)*
-
-#### nimi ijo
-*()*
-
-* ***suwi*** *([IJO](#nimi-ijo))*
-  * *(KAMA)* dolĉa — sweet
-  * *(LAWA)* io dolĉa: dolĉaĵo — something sweet: sweets
 
 #### nimi palisa@
 *(...)*
