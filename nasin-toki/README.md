@@ -970,7 +970,7 @@ nimi "ona sama" li ken kama nimi "sama".
 
 * **a** ***[ha]*** *([KALAMA](#nimi-kalama))* - emocia interjekcio: ha — emotional interjection: ha
   * *(KAMA)* - ja, eĉ, efektive, jes — so, even, indeed, yes
-* **akesi** ***[hagedis]*** *(JAN)*
+* **akesi** ***[hagedis]*** *([JAN](#nimi-jan))*
   * *(KAMA)* - malvarmsanga — cold-blooded
   * *(LAWA)* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
 * **ala** ***[ara]*** *([IJO](#nimi-ijo))*
@@ -1050,7 +1050,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - ŝvebanta — hovering
   * *(LAWA)* - io ŝvebanta: aero, spirito, esenco, kaŝita realo — something hovering: air, spirit, essence, hidden reality
 * **kule** ***[kuler]*** *([SULI](#nimi-suli))* - kolora, pentrita — colorful, painted
-* **kulupu** ***[grup]*** *(JAN)*
+* **kulupu** ***[grup]*** *([JAN](#nimi-jan))*
   * *(KAMA)* - reciproka — reciprocal
   * *(LAWA)* - reciproka animaĵo: komunumo, kompanio, grupo, nacio, socio, tribo — reciprocal animated being: community, company, group, nation, society, tribe
 * **kute** ~~ekute~~ ***[ekute]*** *([ILO](#nimi-ilo))*
@@ -1097,17 +1097,17 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - vasta — vast
   * *(LAWA)* - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero — something vast: earth, soil, land, field, world, territory, outdoors
     * *(lon ... pi)* - ekster — outside
-* **mama** ***[mama]*** *(JAN)*
+* **mama** ***[mama]*** *([JAN](#nimi-jan))*
   * *(KAMA)* - zorganta — care-taking@
   * *(LAWA)* - zorganta animaĵo: gepatro — care-taking animated being: parent
 * **mani** ***[mani]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - valora — valueable
   * *(LAWA)* - io valora: mono, ŝparaĵo, riĉeco, granda malsovaĝigita besto — something valueable: money, savings, wealth, large domesticated animal
-* **meli** ***[meri]*** *(JAN)*
+* **meli** ***[meri]*** *([JAN](#nimi-jan))*
   * *(KAMA)* - ina — female
   * *(LAWA)* - ina animaĵo: virino, edzino — female animated being: woman, wife
 * **mi** ***[mi]*** *([JAN ANU IJO](#nimi-pi-jan-anu-ijo))* - mi, ni — I, we
-* **mije** ***[mies]*** *(JAN)*
+* **mije** ***[mies]*** *([JAN](#nimi-jan))*
   * *(KAMA)* - vira — male
   * *(LAWA)* - vira animaĵo: viro, edzo — male animated being: man, husband
 * **moku** ***[mogu]*** *([PALI](#nimi-pali))*
@@ -1232,7 +1232,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(WAWA PALISA)* - scii — to know
   * *(LAWA)* - io por scii: fakto — something to know: fact
   * *([WAWA PINI](#nimi-wawa-pini))* - scipovi — to know how to
-* **soweli** ***[cxoveli]*** *(JAN)*
+* **soweli** ***[cxoveli]*** *([JAN](#nimi-jan))*
   * *(KAMA)* - varmsanga — warm-blooded
   * *(LAWA)* - varmsanga animaĵo: mamulo — warm-blooded animated being: mammal
 * **suli** ***[suri]*** *([SULI](#nimi-suli))* - granda, peza, grava, plenkreska — big, heavy, important, adult
