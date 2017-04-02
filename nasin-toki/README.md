@@ -993,14 +993,14 @@ nimi "ona sama" li ken kama nimi "sama".
 * **akesi** ***[hagedis]*** *([JAN](#nimi-jan))*
   * *(KAMA)* - malvarmsanga — cold-blooded
   * *(LAWA)* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
-* **ala** ***[ara]*** *([IJO](#nimi-ijo))*
+* **ala** ***[ara]*** *([IJO POKA](#nimi-pi-ijo-poka))*
   * *(KAMA)* - neniu — no
   * *(LAWA)* - nenio — nothing
   * *([NANPA](#nimi-nanpa))* - nul — zero
 * **alasa** ***[?]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - ĉasi, kolekti — to hunt, to collect
   * *(LAWA)* - io por ĉasi, io por kolekti: foraĝo — something to hunt, something to collect: forage
-* **ale** ***[alle]*** *([IJO](#nimi-ijo))*
+* **ale** ***[alle]*** *([IJO POKA](#nimi-pi-ijo-poka))*
   * *(KAMA)* - ĉiu — every
   * *(LAWA)* - ĉio — everything
   * *([NANPA](#nimi-nanpa))* - senfine — countless
@@ -1158,7 +1158,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **nena** ***[nena]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - elstara — outstanding
   * *(LAWA)* - io elstara: ĝibo, butono, monto, nazo — something outstanding: bump, button, mountain, nose
-* **ni** ***[ni]*** *([IJO](#nimi-ijo))*
+* **ni** ***[ni]*** *([IJO POKA](#nimi-pi-ijo-poka))*
   * *(KAMA)* - tiu (ĉi) — that, this
   * *(LAWA)* - tio (ĉi) — that thing, this thing
 * **nimi** ***[nimi]*** *([IJO](#nimi-ijo))*
@@ -1223,7 +1223,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(WAWA PALISA)* - formi — to form
   * *(LAWA)* - organo por formi: haŭto, ŝelo — organ for forming: skin, shell
     * *(lon ... pi)* - sur, koncerne -n — on, affecting
-* **seme** ~~senme~~ ***[ŝenme]*** *([IJO](#nimi-ijo))*
+* **seme** ~~senme~~ ***[ŝenme]*** *([IJO POKA](#nimi-pi-ijo-poka))*
   * *(KAMA)* - kiu — which
   * *(LAWA)* - kio — what
 * **sewi** ***[sevit]*** *([IJO](#nimi-ijo))*
