@@ -211,9 +211,9 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
 *(Radika vorto povas fariĝi substantivo, (transitiva, helpa) verbo, modifilo. Aldone, prepozicioj ankaŭ estas radikaj vortoj. — A content word can become a noun, a (transitive, auxiliary) verb, a modifier. In addition, prepositions are content words, too.)*
 
 * o pana e **pona**! *(Helpu! — Help!)*
-* ale li **pona** *(Ĉio estas bona. — All is good.)*
+* ale li **pona**. *(Ĉio estas bona. — All is good.)*
 * mi **pona** e mi. *(Mi bonigas min. — I improve myself.)*
-* toki **pona** li toki **pona**. *(Tokipono estas bona lingvo. — Toki Pona is a good language.)*
+* jan **pona** *(amiko — friend)*
 
 #### nimi pi jan anu ijo
 *(Pronomoj — Pronouns)*
