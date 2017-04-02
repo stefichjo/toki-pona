@@ -215,6 +215,13 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
 * mi **pona** e mi. *(Mi bonigas min. — I improve myself.)*
 * jan **pona** *(amiko — friend)*
 
+#### nimi palisa
+*(Prepozicioj — Prepositions)*
+
+* **tawa** *(al, por — to, for)*
+  * **tawa** *(moviĝanta — moving)*
+    * **tawa** *(movo — move)*
+
 #### nimi pi jan anu ijo
 *(Pronomoj — Pronouns)*
 
@@ -223,6 +230,13 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
 * ***ona*** *(ŝi, li, ĝi, ili — she, he, it, they)*
 * ***jan*** *(iu — somebody)*
 * ***ijo*** *(io — something)*
+
+#### nimi jan
+*(Ulaj Vortoj — Person Words)*
+
+* **meli** *(ina — female)*
+  * ~~jan~~ **meli** *(virino — woman)*
+    * → **meli**
 
 #### nimi ijo
 *(Aĵaj Vortoj — Thing Words)*
@@ -256,19 +270,18 @@ pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li kam
 
 * mama **pi ijo ale** *(gepatro de ĉio — parent of everything)*
 
+kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(Antaŭ korelativo, la prepozicio "sama" povas malaperi. — In front of a correlative, the preposition "sama" can disappear.)*
+
+* tomo **sama** tomo ni *(domo kiel tiu domo — a house like this house)*
+  * → tomo **sama** ni *(domo kiel tiu, tia domo — a house like this, such a house)*
+    * → tomo ni *(tiuj domoj → tia domo — those houses → such a house)*
+
 ##### nimi pali
 *(Agaj Vortoj — Doing Words)*
 
 * **moku** *(manĝi — to eat)*
   * ~~ijo~~ **moku** *(manĝo — food)*
     * → **moku**
-
-#### nimi jan
-*(Ulaj Vortoj — Person Words)*
-
-* **meli** *(ina — female)*
-  * ~~jan~~ **meli** *(virino — woman)*
-    * → **meli**
 
 #### nimi ilo
 *(Ilaj Vortoj — Tool Words)*
@@ -277,12 +290,6 @@ pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li kam
   * ~~ilo~~ **lukin** *(okulo — eye)*
     * → **lukin**
 
-#### nimi palisa
-*(Prepozicioj — Prepositions)*
-
-* **tawa** *(al, por — to, for)*
-  * → **tawa** *(moviĝanta — moving)*
-
 #### nimi sijelo
 *(Korpaj Vortoj — Body Words)*
 
@@ -290,20 +297,6 @@ pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li kam
 
 ### nimi suli "ale", "ala", "ni", "seme"
 *(Korelativoj — Correlatives)*
-
-**nimi lawa** "ijo" lon kama pi **nimi suli** "ale", "ala", "ni", "seme" li kama ala weka lon ni taso: ona li kama **nimi lawa** lon pini pi **nimi lili** "pi".
-*(La substantivo "ijo" antaŭ la korelativoj "ale", "ala", "ni" aŭ "seme" malaperas, krom en genitiva frazero. — The noun "ijo" before the correlatives "ale", "ala", "ni" or "seme" disappears, except in a genitive phrase.)*
-
-* ale *(ĉiu — every)*
-  * ***~~ijo~~*** ale *(ĉiu aĵo, ĉio — every thing, everything)*
-    * → ale
-    * mama pi ***ijo ale*** *(kreanto de ĉio — creator of everything)*
-
-kama pi **nimi suli** "ale", "ala", "ni", "seme" la **nimi kama palisa** "sama" li kama weka. *(Antaŭ la korelativoj "ale", "ala", "ni" aŭ "seme" la prepozicio "sama" malaperas. — Before the correlatives "ale", "ala", "ni" or "seme" the preposition "sama" disappears.)*
-
-* tomo **sama** tomo ni *(domo kiel tiu domo — a house like this house)*
-  * → tomo **sama** ni *(domo kiel tiu — a house like this)*
-    * → tomo ni *(tiuj domoj → tia domo — those houses → such a house)*
 
 #### nimi suli "ale"
 *(La Korelativo "ale" — The Correlative "ale")*
