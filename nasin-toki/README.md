@@ -1207,10 +1207,8 @@ nimi "ona sama" li ken kama nimi "sama".
 * **uta** ***[usta]*** *([ILO](#nimi-ilo))*
   * *(WAWA PALISA)* - kisi, suĉi — to kiss, to suck
   * *(LAWA)* - organo por kisi, organo por suĉi: buŝo — organ for kissing, organ for sucking: mouth
-* **utala** ~~utalasi~~ ***[udarati]*** *([PALI](#nimi-pali))* ***≠ pona***
-  * *(WAWA PALISA)* - batali, defii, kontraŭi — to battle, to challenge, to struggle against
-  * *(LAWA)* - @ — @
-  * *(... tawa)* - kontraŭ — against
+* **utala** ~~utalasi~~ ***[udarati]*** *([SULI](#nimi-suli))* ***≠ pona*** - batalanta, defianta, kontraŭanta — battling, challenging, struggling against
+  * *(WAWA PALISA)* = **utala tawa**
 * **walo** ***[valko]*** *([SULI](#nimi-suli))* - blanka — white
 * **wan** ***[wan]*** *([SULI](#nimi-suli))* - unika, unueca — unique, united
   * *([NANPA](#nimi-nanpa))* - unu — one
