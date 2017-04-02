@@ -348,7 +348,6 @@ nimi "pini" li ken kama **nimi wawa pini**.
 * mi ***tawa*** ni: mi ***kama moku***. *(Mi estas ekmanĝonta. — I am about to begin to eat.)*
   * mi ***tawa kama moku***.
 
-
 ### toki pi tenpo kama
 *(Estonta Lingvaĵo — Language of the Future)*
 
@@ -1002,6 +1001,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **lon** ~~alon~~ ***[along]*** *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - ĉe, laŭ, en, kun — at, along, in, with
   * *(KAMA)* - ĉeestanta, ekzistanta, reala — being present, existing, real
+  * *(WAWA PINO)* - esti -anta — to be -ing
 * **luka** ***[ruka]*** *([ILO](#nimi-ilo))*
   * *(WAWA PALISA)* - tuŝi — to touch
   * *(LAWA)* - organo por tuŝi: mano, brako — organ for touching: hand, arm
@@ -1173,6 +1173,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **tan** ***[?]*** *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - de, pro — by, from, because of
   * *(KAMA)* - devenanta — originating
+  * *(WAWA PINI)* - esti -inta — to have -ed
 * **taso** ***[dats-ol]*** *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - sendepende de, sen, malgraŭ, kvankam — independent from, without
     * *(... ~~ni la~~)* - sed — but
@@ -1180,6 +1181,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **tawa** ~~towa~~ ***[towards]*** *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - al, por — to, toward, for
   * *(KAMA)* - moviĝanta — moving
+  * *(WAWA PINI)* - esti -onta — to be about to
 * **telo** ***[de-l-o]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - likva, malseka — liquid, wet
   * *(LAWA)* - io likva, io malseka: akvo, trinkaĵo — something liquid, something wet: water, beverage
