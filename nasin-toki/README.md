@@ -10,8 +10,8 @@ wan lipu "[toki lili](#toki-lili)" li toki e nasin toki pi jan ale pi toki pona.
 wan lipu "[toki namako](#toki-namako)" li toki e nasin toki sin pi jan Sonja lon lipu suli pi toki pona.
 *(La sekcio "Aldona Lingvaĵo" traktas la aldonan lingvouzon de Sonja en la oficiala libro de Tokipono. — The section "Additional Language" treats Sonja Lang's additional way of using the language in the official Toki Pona book.)*
 
-* mi ~~tawa~~ ***sike*** ~~lon~~ suno. *(Mi orbitas la sunon. — I orbit around the sun.)*
-  * → mi ***sike e*** suno.
+* ona li pana e **telo** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
+  * → ona li **telo** e kasi. *(ŝi akvumas la planton. — She waters the plant.)*
 
 wan lipu "[toki musi](#toki-musi)" li toki e nasin toki pi jan ala. taso tawa mi la ona li pona lon poka pi [toki lili](#toki-lili).
 *(La sekcio "Luda Lingvaĵo" traktas lingvouzojn, kiuj ne estas aplikataj, sed kiuj laŭ mi harmonias kun la "Kerna Lingvaĵo". — The section "Playful Language" treats ways of using the language, which seem to me to be in harmony with the "Core Language", but which are not applied.)*
@@ -143,7 +143,7 @@ nimi "ni" lon kama pi mute nimi li lon poka pi **mute nimi kama**, la nimi "ni" 
 *(Se "ni" komence de frazo akompanas relativan frazon, "ni" malaperas. — If "ni" at the beginning of a sentence accompanies a relative clause, "ni" disappears.)*
 
 * jan li pona tawa mi ***lon ni***: mi pona tawa jan. *(Homoj estas bonaj al mi, se mi estas bona al homoj. — People are good to me, if I'm good to people.)*
-  * → ~~lon ni,~~ mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
+  * ~~lon ni,~~ mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
     * → mi pona tawa jan, ***la*** jan li pona tawa mi.
 
 #### nimi lili "en", "anu"
