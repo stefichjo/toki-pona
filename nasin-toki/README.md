@@ -1285,8 +1285,9 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - likva, malseka — liquid, wet
   * *(LAWA)* - io likva, io malseka: akvo, trinkaĵo — something liquid, something wet: water, beverage
 * **tenpo** ***[tempo]*** *([IJO](#nimi-ijo))*
-  * *(KAMA)* - @ — @
-  * *(LAWA)* - io @: tempo, daŭro, okazo, situacio — something @: time, duration, occasion, situation
+  * *(KAMA)* - duma — during
+  * *(LAWA)* - io duma: intervalo, paŭzo, tempo, daŭro, okazo, situacio — something during: interval, break, time, duration, occasion, situation
+    * *(lon ... pi)* - dum — during
 * **toki** ~~to~~ ***[tok]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - komuniki — to communicate
   * *(LAWA)* - io por komuniki: mesaĝo — something to communicate: message
