@@ -1104,7 +1104,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - ĉielpromenanta — sky-walking
   * *(LAWA)* - io ĉielpromenanta: luno, stelo — something sky-walking: moon, star
 * **musi** ~~amusi~~ ***[amuzi]*** *([SULI](#nimi-suli))* - ludanta — playing
-* **mute** ***[multe]*** *([SULI](#nimi-suli))* - plura, multa, multe da (io ne-nombrebla), tre — multiple, many, much of (something non-countable), very
+* **mute** ***[multe]*** *([SULI](#nimi-suli))* ***≠ lili*** - plura, multa, multe da (io ne-nombrebla), tre — multiple, many, much of (something non-countable), very
 * **namako** → **sin**
 * **nanpa** ***[namba]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - nombrita, kalkulita — counted, calculated
@@ -1215,7 +1215,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **soweli** ***[cxoveli]*** *([JAN](#nimi-jan))*
   * *(KAMA)* - varmsanga — warm-blooded
   * *(LAWA)* - varmsanga animaĵo: mamulo — warm-blooded animated being: mammal
-* **suli** ***[suri]*** *([SULI](#nimi-suli))* - granda, peza, grava, plenkreska — big, heavy, important, adult
+* **suli** ***[suri]*** *([SULI](#nimi-suli))* ***≠ lili*** - granda, peza, grava, plenkreska — big, heavy, important, adult
 * **suno** ***[suno]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - hela — bright
   * *(LAWA)* - io hela: suno — something bright: sun
@@ -1269,7 +1269,7 @@ nimi "ona sama" li ken kama nimi "sama".
     * *(KAMA PALISA)* - fluganta en — flying in
     * *(KAMA)* - fluganta — flying
   * *(LAWA)* - fluganta vivaĵo: birdo — flying living being: bird
-* **wawa** ***[vahva]*** *([SULI](#nimi-suli))* - forta — strong
+* **wawa** ***[vahva]*** *([SULI](#nimi-suli))* ***≠ lili*** - forta — strong
 * **weka** ~~we~~ ***[wex]*** *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - fore de — away from
   * *(KAMA)* - fora, distanca — away, gone, distant
