@@ -889,7 +889,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **ali** = **ale**
 * **anpa** ***[an-bas]*** *([SULI](#nimi-suli))* - malalta — low
   * *(lon ... pi)* - sub — under
-* **ante** ***[ander]*** *([PALISA-ALE](#nimi-palisa-ale))*
+* **ante** ***[ander]*** *([PALISA*](#nimi-palisa-ale))*
   * *(KAMA PALISA)* - ol — than
   * *(KAMA)* - alia — different
 * **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili-en-anu))* - aŭ — or
@@ -1125,7 +1125,7 @@ nimi "ona sama" li ken kama nimi "sama".
     * *(WAWA PALISA)* = **tawa sike lon**, **tawa lon sike pi**
   * *(LAWA)* - io ronda: cirklo, globo, ĉirkaŭo — something round: circle, sphere, surroundings
     * *(lon ... pi)* - ĉirkaŭ — around
-* **sin** ***[ŝin]*** *([PALISA-ALE](#nimi-palisa-ale))*
+* **sin** ***[ŝin]*** *([PALISA*](#nimi-palisa-ale))*
   * *(KAMA PALISA)* - aldona al, kun — additional to, with
   * *(KAMA)* - plia, aldona, nova, freŝa — another, additional, new, fresh
 * **sina** ***[sina]*** *([JAN ANU IJO](#nimi-pi-jan-anu-ijo))* - vi — you
@@ -1158,7 +1158,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA PALISA)* - de, pro — by, from, because of
   * *(KAMA)* - devenanta — originating
   * *([WAWA PINI*](#nimi-wawa-pini-ale))* - esti -inta — to have -ed
-* **taso** ***[dats-ol]*** *([PALISA-ALE](#nimi-palisa-ale))*
+* **taso** ***[dats-ol]*** *([PALISA*](#nimi-palisa-ale))*
   * *(KAMA PALISA)* - sendepende de, sen, malgraŭ, kvankam — independent from, without
     * *(... ~~ni la~~)* - sed — but
   * *(KAMA)* - sendependa, nura, libera — independent, only, free
@@ -1198,7 +1198,7 @@ nimi "ona sama" li ken kama nimi "sama".
     * *(KAMA)* - fluganta — flying
   * *(LAWA)* - fluganta vivaĵo: birdo — flying living being: bird
 * **wawa** ***[vahva]*** *([SULI](#nimi-suli))* ***≠ lili*** - forta — strong
-* **weka** ~~we~~ ***[wex]*** *([PALISA-ALE](#nimi-palisa-ale))*
+* **weka** ~~we~~ ***[wex]*** *([PALISA*](#nimi-palisa-ale))*
   * *(KAMA PALISA)* - fore de — away from
   * *(KAMA)* - fora, distanca — away, gone, distant
   * *([IJO](#nimi-ijo))*
