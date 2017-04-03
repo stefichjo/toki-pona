@@ -542,26 +542,6 @@ tan ni la kalama nanpa wan pi nimi kama lon kama pi kalama "i" li ken kama ante 
 **toki pi tenpo pini** li jo e nimi luka luka tu tu taso.
 *(La pralingvo havas nur cent vortojn. — The Language of the Past has only a hundred words.)*
 
-##### nimi sijelo
-*(Vortoj por Vivaĵoj — Words for Living Beings)*
-
-nimi sijelo "akesi", "jan", "kala", "kasi", "pipi", "soweli" en "waso" li sin.
-*(La vortoj por vivaĵoj "akesi", "jan", "kala", "kasi", "pipi", "soweli" kaj "waso" estas novaj. — The words for living beings "akesi", "jan", "kala", "kasi", "pipi", "soweli" and "waso" are new.)*
-
-* ***sijelo lete*** *(malvarma vivaĵo — cold living being)*
-  * → ***akesi*** *(reptilo, amfibio — reptile, amphibian)*
-* ***sijelo sona*** *(scia vivaĵo — knowing living being)*
-  * → ***jan*** *(homo, persono — human being, person)*
-* ***sijelo telo*** *(akva vivaĵo — living being of water)*
-  * → ***kala*** *(fiŝo — fish)*
-* ***sijelo ma*** *(tera vivaĵo — living being of earth)*
-  * → ***kasi*** *(planto — plant)*
-* ***sijelo lili/kiwen/lupa*** *(malgranda/malmola/malplena vivaĵo — small/hard/empty living being)*
-  * → ***pipi*** *(insekto — insect)*
-* ***sijelo seli*** *(varma vivaĵo — warm living being)*
-  * → ***soweli*** *(mamulo — mammal)*
-* ***sijelo kon*** *(aera vivaĵo — living being of air)*
-  * → ***waso*** *(birdo — bird)*
 
 #### nimi wawa
 *(Verboj — Verbs)*
@@ -759,7 +739,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - ja, eĉ, efektive — so, even, indeed
     * *([KALAMA*](#nimi-kalama-musi))* - jes — yes
     * *(... [PALI](#nimi-pali)*)* - -ata — being -ed
-* **akesi** ***[hagedis]*** *([JAN*](#nimi-jan-musi))*
+* **akesi** ***[hagedis]*** *([JAN*](#nimi-jan-musi))* = "***sijelo lete***"
   * *(KAMA)* - malvarmsanga — cold-blooded
   * *(LAWA)* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
 * **ala** ***[ara]*** *([IJO POKA](#nimi-pi-ijo-poka))*
@@ -805,7 +785,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **jo** ***[jow]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - havi — to have
   * *(LAWA)* - io por havi: propraĵo — something to have: property
-* **kala** ***[kala]*** *([SIJELO](#nimi-sijelo))*
+* **kala** ***[kala]*** *([SIJELO](#nimi-sijelo))* = "***sijelo telo***"
   * *([PALISA](#nimi-palisa))*
     * *(KAMA PALISA)* - naĝanta en — swimming in
     * *(KAMA)* - naĝanta — swimming
@@ -814,7 +794,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **kama** ***[kam-ap]*** *([SULI](#nimi-suli))* - alvena — arriving
   * *(WAWA PINI)* - -iĝ-, sukcesi — to become, to succeed
   * *(lon ... pi)* - antaŭ — before
-* **kasi** ***[kasvi]*** *([SIJELO](#nimi-sijelo))*
+* **kasi** ***[kasvi]*** *([SIJELO](#nimi-sijelo))* = "***sijelo ma***"
   * *([PALISA](#nimi-palisa))*
     * *(KAMA PALISA)* - kreskanta sur — growing on
     * *(KAMA)* - kreskanta — growing
@@ -979,7 +959,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **pini** ***[fini]*** *([SULI](#nimi-suli))* - finita, pasinta — finished, past
   * *([WAWA PINI*](#nimi-wawa-pini-musi))* - fini, to stop
   * *(lon ... pi)* - malantaŭ — after
-* **pipi** ***[bibit]*** *([SIJELO](#nimi-sijelo))*
+* **pipi** ***[bibit]*** *([SIJELO](#nimi-sijelo))* = "***sijelo noka***"
   * *([PALISA](#nimi-palisa))*
     * *(KAMA PALISA)* - rampi sur — crawling on
     * *(KAMA)* - rampanta — crawling
@@ -1033,7 +1013,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(WAWA PALISA)* - scii — to know
   * *(LAWA)* - io por scii: fakto — something to know: fact
   * *(WAWA PINI)* - scipovi — to know how to
-* **soweli** ***[cxoveli]*** *([JAN*](#nimi-jan-musi))*
+* **soweli** ***[cxoveli]*** *([JAN*](#nimi-jan-musi))* = "***sijelo seli***"
   * *(KAMA)* - varmsanga — warm-blooded
   * *(LAWA)* - varmsanga animaĵo: mamulo — warm-blooded animated being: mammal
 * **suli** ***[suri]*** *([SULI](#nimi-suli))* ***≠ lili*** - granda, peza, grava, plenkreska — big, heavy, important, adult
@@ -1086,7 +1066,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **wan** ***[wan]*** *([SULI](#nimi-suli))* - unika, unueca — unique, united
   * *([NANPA](#nimi-nanpa))* - unu — one
     * *(... LAWA)* - -ero — one piece of
-* **waso** ***[wazo]*** *([SIJELO](#nimi-sijelo))*
+* **waso** ***[wazo]*** *([SIJELO](#nimi-sijelo))* = "***sijelo kon***"
   * *([PALISA](#nimi-palisa))*
     * *(KAMA PALISA)* - fluganta en — flying in
     * *(KAMA)* - fluganta — flying
