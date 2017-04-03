@@ -363,8 +363,8 @@ nimi "akesi", "kulupu", "mama", "soweli" li [nimi jan](#nimi-jan) musi.
 ### nimi ijo musi
 *(Eksperimentaj Aĵaj Vortoj — Experimental Thing Words)*
 
-nimi "ilo", "kili", "kon", "len", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo", "tomo" li [nimi ijo](#nimi-ijo) musi.
-*("ilo", "kili", "kon", "len", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" kaj "tomo" estas eksperimentaj aĵaj vortoj. — "ilo", "kili", "kon", "len", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" and "tomo" are experimental thing words.)*
+nimi "ilo", "kili", "kon", "len", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo", "tomo" li [nimi ijo](#nimi-ijo) musi.
+*("ilo", "kili", "kon", "len", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" kaj "tomo" estas eksperimentaj aĵaj vortoj. — "ilo", "kili", "kon", "len", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" and "tomo" are experimental thing words.)*
 
 * lipu ***ilo*** *(utila libro — a useful book)*
 
@@ -1053,7 +1053,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - nombrita, kalkulita — counted, calculated
   * *(LAWA)* - io nombrita, io kalkulita — something counted, something calculated
 * **nasa** ***[nasaw]*** *([SULI](#nimi-suli))* ***≠ pona*** - stranga, freneza, ebria — strange, crazy, intoxicated
-* **nasin** ***[naĉin]*** *([IJO](#nimi-ijo))*
+* **nasin** ***[naĉin]*** *([IJO*](#nimi-ijo-musi))*
   * *(KAMA)* - interkonektanta — interconnecting
   * *(LAWA)* - io interkonektanta: vojo, pado, strato, metodo, kutimo, doktrino — something interconnecting: way, path, street, method, custom, doctrine
     * *(lon ... tan ... tawa ...)* - inter — between
