@@ -328,6 +328,14 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 ## toki musi
 *(Eksperimenta Lingvaĵo — Experimental Language)*
 
+### nimi kalama musi
+*(Eksperimentaj Interjekcioj — Experimental Interjections)*
+
+**toki musi** la [nimi kalama](#nimi-kalama) li ken jo e kon pi **nimi kama** tan **nimi kalama** sama.
+*(En eksperimenta lingvaĵo, interjekcio povas havi la signifon de la modifilo derivita de ĉi interjekcio. — In experimental language, an interjection can have the meaning of the modifier derived from the very interjection.)*
+
+* ***a***, sina suli. *(Jes, vi estas granda. — Yes, you are tall.)*
+
 ### nimi palisa musi
 *(Eksperimentaj Prepozicioj — Experimental Prepositions)*
 
@@ -391,26 +399,6 @@ nimi **esun** li [nimi sijelo](#nimi-sijelo) musi.
 
 ### toki pi tenpo kama
 *(Estonta Lingvaĵo — Language of the Future)*
-
-#### nimi kalama
-*(Interjekcioj — Interjections)*
-
-**nimi kalama** "a" li ken kama jo e kon pi **nimi kama** "a".
-*(La interjekcio "a" povas ricevi la signifon de la modifilo "a". — The interjection "a" can recieve the meaning of the modifier "a".)*
-
-* ***a***, sina suli. *(Jes, vi estas granda. — Yes, you are tall.)*
-
-**nimi kalama** "mu" li ken kama **nimi kama** "mu".
-
-* ijo ***mu*** *(zozaĵo → io ajn — thingy — whatever a thing)*
-* o pana e lipu ***mu***. *(Donu iun ajn libron. — Give me any book.)*
-* mi pilin ***mu*** *(Mi indiferentas. — I don't care.)*
-
-**nimi kalama** "mu" li ken jo e kon pi **nimi kama** "mu".
-*(La interjekcio "mu" povas ricevi la signifon de la modifilo "mu". — The interjection "mu" can recieve the meaning of the modifier "mu".)*
-
-* ***mu*** *(ĉiuokaze, nu — anyway, well)*
-* → ***mu***, sina suli. *(Nu, vi estas granda. — Well, you are tall.)*
 
 #### nimi ma
 *(Spacaj Vortoj — Location Words)*
@@ -901,7 +889,8 @@ nimi "ona sama" li ken kama nimi "sama".
 *(Vortaro — Dictionary)*
 
 * **a** ***[ha]*** *([KALAMA](#nimi-kalama))* - emocia interjekcio: ha — emotional interjection: ha
-  * *(KAMA)* - ja, eĉ, efektive, jes — so, even, indeed, yes
+  * *(KAMA)* - ja, eĉ, efektive — so, even, indeed
+    * *([KALAMA*](#nimi-kalama-musi))* - jes — yes
 * **akesi** ***[hagedis]*** *([JAN*](#nimi-jan-musi))*
   * *(KAMA)* - malvarmsanga — cold-blooded
   * *(LAWA)* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
@@ -1053,7 +1042,8 @@ nimi "ona sama" li ken kama nimi "sama".
     * *(lon ... pi)* - malantaŭ — behind
 * **monsuta** = **akesi**
 * **mu** ***[mu]*** *([KALAMA](#nimi-kalama))* - indiferenta interjekcio: bla, miaŭ — indifferent interjection: blah, meeow
-  * *(KAMA)* - ajna, arbitra — any, arbitrary
+  * *(KAMA*)* - ajna, arbitra — any, arbitrary
+    * *([KALAMA*](#nimi-kalama-musi))* - ĉiuokaze, nu — whatever, well
 * **mun** ***[mun]*** *([IJO*](#nimi-ijo-musi))*
   * *(KAMA)* - ĉielpromenanta — sky-walking
   * *(LAWA)* - io ĉielpromenanta: luno, stelo — something sky-walking: moon, star
