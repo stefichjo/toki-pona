@@ -227,8 +227,8 @@ sin la **nimi palisa** li **nimi suli** a. ona li ken kama **nimi kama palisa**.
 #### nimi nanpa
 *(Numeraloj — Numerals)*
 
-nimi "wan", "tu", "luka" li ken kama **nimi nanpa**.
-*("wan", "tu" kaj "luka" povas fariĝi numeraloj. — "wan", "tu" and "luka" can become numerals.)*
+nimi "ala", "wan", "tu", "luka", "ale" li ken kama **nimi nanpa**.
+*("ala", "wan", "tu", "luka" kaj "ale" povas fariĝi numeraloj. — "ala", "wan", "tu", "luka" and "ale" can become numerals.)*
 
 * luka ***wan*** li jo e palisa **luka**. *(Unu mano havas kvin fingrojn. — One hand has five fingers.)*
 
@@ -349,7 +349,12 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 nimi "mute", "esun" li [nimi nanpa](#nimi-nanpa) musi.
 *("mute" kaj "esun" estas eksperimentaj numeraloj. — "mute" and "esun" are experimental numerals.)*
 
-* tenpo suno ***esun** *(sep tagoj — seven days)*
+* tenpo suno ***esun*** *(sep tagoj — seven days)*
+
+**toki musi** la [nimi lili "en"](#nimi-lili-en-anu) li ken lon [nimi nanpa](#nimi-nanpa) tu.
+*(En eksperimenta lingvaĵo, la konjunkcio "en" povas esti ĉe du numeraloj. — In experimental language, the conjunction "en" can be at two numerals.)*
+
+* tenpo suno ***luka tu en tu tu*** *(dek kvar tagoj — fourteen days)*
 
 ### nimi palisa musi
 *(Eksperimentaj Prepozicioj — Experimental Prepositions)*
@@ -448,11 +453,6 @@ nimi "a", nimi "open" en nimi "ala" li ken lon kama pi **nimi wawa palisa**.
 
 #### nimi nanpa
 *(Numeraloj — Numerals)*
-
-nimi nanpa li nimi sama nimi "ale", "ala", "ni", "seme".
-*(Numeralo estas kiel unu el la korelativo "ale", "ala" "ni" kaj "seme". — Numerals are like one of the correlatives "ale", "ala", "ni" and "seme".)*
-
-* sike tu pi jan tu *(par-biciklo; tandemo — bicycle built for two)*
 
 nimi nanpa li ken kama **nimi lawa**.
 *(Numeraloj kaj korelativoj povas fariĝi substantivo. — Numerals and correlatives can become nouns.)*
