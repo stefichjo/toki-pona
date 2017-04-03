@@ -376,6 +376,19 @@ nimi "luka", "noka", "palisa", "poki", "selo", "uta" li [nimi ilo](#nimi-ilo) mu
 
 * o ***luka*** ala e seli! *(Ne tuŝu la fajron! — Don't touch the fire!)*
 
+### nimi sijelo musi
+*(Eksperimentaj Korpaj Vortoj — Experimental Body Words)*
+
+nimi **esun** li [nimi sijelo](#nimi-sijelo) musi.
+*("esun" estas eksperimenta korpa vorto. — "esun" is an experimental body word.)*
+
+* jan lawa ***esun*** *(vicprezidanto — vice president)*
+
+**toki musi** la [nimi sijelo](#nimi-sijelo) li ken kama [nimi palisa](#nimi-palisa).
+*(En eksperimenta lingvaĵo, korpa vorto povas fariĝi prepozicio. — In experimental language, a body word can become a preposition.)*
+
+* mi ***kala*** telo. *(Mi naĝas en akvo. — I'm swimming in water.)*
+
 ### toki pi tenpo kama
 *(Estonta Lingvaĵo — Language of the Future)*
 
@@ -915,7 +928,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(WAWA PINI)* - plu- — to continue to
 * **e** ***[?]*** *([LILI](#nimi-lili-e))* - -n — (accusative)
 * **en** ***[en]*** *([LILI](#nimi-lili-en-anu))* - kaj — and
-* **esun** ***[?]*** *([SIJELO](#nimi-sijelo))*
+* **esun** ***[?]*** *([SIJELO*](#nimi-sijelo-musi))*
   * *([PALISA](#nimi-palisa))*
     * *(KAMA PALISA)* - anstataŭ — in exchange for, instead of
     * *(KAMA)* - anstataŭa — substitute
