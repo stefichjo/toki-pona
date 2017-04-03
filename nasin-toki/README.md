@@ -219,10 +219,17 @@ sin la **nimi palisa** li **nimi suli** a. ona li ken kama **nimi kama palisa**.
 
 * mi pona ***tawa*** jan. *(Mi estas bona al homoj. — I'm good to people.)*
 
-**nimi suli** pi mute ala li ken kama **nimi wawa pini** anu **nimi nanpa**.
-*(Malmultaj radikaj vortoj povas fariĝi helpaj verboj aŭ numeraloj. — A few content words can become auxiliary verbs or numerals.)*
+**nimi suli** pi mute ala li ken kama **nimi wawa pini**.
+*(Malmultaj radikaj vortoj povas fariĝi helpaj verboj. — A few content words can become auxiliary verbs.)*
 
 * mi ***wile*** lape. *(Mi bezonas dormi. — I need to sleep.)*
+
+#### nimi nanpa
+*(Numeraloj — Numerals)*
+
+nimi "wan", "tu", "luka" li ken kama **nimi nanpa**.
+*("wan", "tu" kaj "luka" povas fariĝi numeraloj. — "wan", "tu" and "luka" can become numerals.)*
+
 * luka ***wan*** li jo e palisa **luka**. *(Unu mano havas kvin fingrojn. — One hand has five fingers.)*
 
 #### nimi palisa
@@ -335,6 +342,14 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 *(En eksperimenta lingvaĵo, interjekcio povas havi la signifon de la modifilo derivita de ĉi interjekcio. — In experimental language, an interjection can have the meaning of the modifier derived from the very interjection.)*
 
 * ***a***, sina suli. *(Jes, vi estas granda. — Yes, you are tall.)*
+
+### nimi nanpa musi
+*(Eksperimentaj Numeraloj — Experimental Numerals)*
+
+nimi "mute", "esun" li [nimi nanpa](#nimi-nanpa) musi.
+*("mute" kaj "esun" estas eksperimentaj numeraloj. — "mute" and "esun" are experimental numerals.)*
+
+* tenpo suno ***esun** *(sep tagoj — seven days)*
 
 ### nimi palisa musi
 *(Eksperimentaj Prepozicioj — Experimental Prepositions)*
@@ -922,7 +937,7 @@ nimi "ona sama" li ken kama nimi "sama".
     * *(KAMA PALISA)* - anstataŭ — in exchange for, instead of
     * *(KAMA)* - anstataŭa — substitute
   * *(LAWA)* - anstataŭanta vivaĵo: metabolo, vendejo, merkato — substituting living being: metabolism, shop, market
-    * *([NANPA](#nimi-nanpa))* sep - seven
+    * *([NANPA*](#nimi-nanpa-musi))* sep - seven
 * **ijo** ***[io]*** *(PALISA)* - io — something
   * *(e ... pi)* - pri — about
 * **ike** ~~ikeja~~ ***[ilkea]*** *([SULI](#nimi-suli))* ***≠ pona*** - malbona, superflua — bad, superfluous
@@ -1051,6 +1066,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(WAWA PALISA)* - ludi — to play
   * *(LAWA)* - io por ludi: ludo — something to play: game
 * **mute** ***[multe]*** *([SULI](#nimi-suli))* ***≠ lili*** - plura, multa, multe da (io ne-nombrebla), tre — multiple, many, much of (something non-countable), very
+  * *([NANPA*](#nimi-nanpa-musi))* - tri — three
 * **namako** = **sin**
 * **nanpa** ***[namba]*** *([IJO*](#nimi-ijo-musi))*
   * *(KAMA)* - nombrita, kalkulita — counted, calculated
