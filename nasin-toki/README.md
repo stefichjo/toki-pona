@@ -189,6 +189,10 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
 * ***a***! *(Ha!, Ho! — Ha!, Wow!)*
 * ***mu***! *(Bla! — Blah!)*
 
+nimi "ala" li ken kama **nimi kalama**.
+
+* ***ala***! *(Ne! — No!)*
+
 **nimi kalama** li ken kama [nimi pali](#nimi-pali).
 *(Interjekcio povas fariĝi aga vorto. — An interjection can become a doing word.)*
 
@@ -428,17 +432,6 @@ nimi **esun** li [nimi sijelo](#nimi-sijelo) musi.
 
 ### toki pi tenpo kama
 *(Estonta Lingvaĵo — Language of the Future)*
-
-#### nimi nanpa
-*(Numeraloj — Numerals)*
-
-nimi nanpa li ken kama **nimi lawa**.
-*(Numeraloj kaj korelativoj povas fariĝi substantivo. — Numerals and correlatives can become nouns.)*
-
-* ***wan*** nimi *(vortero; silabo — sillable)*
-* ***mute*** nimi *(triopo/multo da vortoj, "vortaro"; frazo — set of words; sentence)*
-* ***ale*** nimi *(ĉiom da vorto, tuto da vorto; tuta vorto — all of the word; the whole word)*
-* ***ale*** pi nimi mute *(ĉiom da vortoj, tuto da vortoj; vortaro — all the words; dictionary)*
 
 #### nimi pi poka en nasin
 *(Vortoj por Flankoj kaj Direktoj — Words for Sides and Directions)*
@@ -809,6 +802,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - ĉiu — every
   * *(LAWA)* - ĉio — everything
   * *([NANPA](#nimi-nanpa))* - senfine — countless
+    * *(... LAWA)* - tuta, ĉiom da — whole, all of
 * **ali** = **ale**
 * **anpa** ***[an-bas]*** *([SULI](#nimi-suli))* - malalta — low
   * *(lon ... pi)* - sub — under
@@ -956,6 +950,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io por ludi: ludo — something to play: game
 * **mute** ***[multe]*** *([SULI](#nimi-suli))* ***≠ lili*** - plura, multa, multe da (io ne-nombrebla), tre — multiple, many, much of (something non-countable), very
   * *([NANPA*](#nimi-nanpa-musi))* - tri — three
+    * *(... LAWA)* - -aro — set of
 * **namako** = **sin**
 * **nanpa** ***[namba]*** *([IJO*](#nimi-ijo-musi))*
   * *(KAMA)* - nombrita, kalkulita — counted, calculated
@@ -1119,6 +1114,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **walo** ***[valko]*** *([SULI](#nimi-suli))* - blanka — white
 * **wan** ***[wan]*** *([SULI](#nimi-suli))* - unika, unueca — unique, united
   * *([NANPA](#nimi-nanpa))* - unu — one
+    * *(... LAWA)* - -ero — one piece of
 * **waso** ***[wazo]*** *([SIJELO](#nimi-sijelo))*
   * *([PALISA](#nimi-palisa))*
     * *(KAMA PALISA)* - fluganta en — flying in
