@@ -114,7 +114,7 @@ nimi lon pini pi **nimi lili** "pi" li **nimi lawa** taso, la ona li kama **nimi
 
 * toki ~~pi~~ pona *(lingvo de bono, bona lingvo — a language of good, a good language)*
   * → toki pona
-* toki **pi** pona mute *(tre bona lingvo — a very good language)*
+* toki ***pi*** pona mute *(tre bona lingvo — a very good language)*
 
 pini pi **nimi wawa** "pilin" la **nimi lili** "e" li ken kama **nimi lili** "pi".
 *(La rekta objekto de "pilin" povas fariĝi genitiva frazero. — The direct object of "pilin" can become a genitive phrase.)*
@@ -177,8 +177,8 @@ kama nimi la pini nimi sama lon poka pi nimi "ala" la nimi "anu" li kama weka.
 nimi "nanpa" lon poka pi **nimi nanpa** li ken kama nimi.
 *("nanpa" kun numeralo povas fariĝi nomo. — "nanpa" together with a numeral can become a name.)*
 
-* lipu **pi nanpa tu** *(la karto kun la numero du — the card with the number two)*
-  * → lipu **nanpa tu** *(la karto numero du, la dua karto — the card number two, the second card)*
+* lipu ***pi nanpa tu*** *(la karto kun la numero du — the card with the number two)*
+  * → lipu ***nanpa tu*** *(la karto numero du, la dua karto — the card number two, the second card)*
 
 #### nimi kalama
 *(Interjekcio — Interjection)*
@@ -209,28 +209,28 @@ jan li ken toki e pilin kepeken **nimi kalama** taso.
 **nimi suli** li ken kama **nimi lawa**, **nimi wawa (palisa)**, **nimi kama**.
 *(Radika vorto povas fariĝi substantivo, (transitiva) verbo, modifilo. — A content word can become a noun, a (transitive) verb, a modifier.)*
 
-* o pana e **pona**! *(Helpu! — Help!)*
-* ale li **pona**. *(Ĉio estas bona. — All is good.)*
-* mi **pona** e mi. *(Mi bonigas min. — I improve myself.)*
-* jan **pona** *(amiko — friend)*
+* o pana e ***pona***! *(Helpu! — Help!)*
+* ale li ***pona***. *(Ĉio estas bona. — All is good.)*
+* mi ***pona*** e mi. *(Mi bonigas min. — I improve myself.)*
+* jan ***pona*** *(amiko — friend)*
 
 sin la **nimi palisa** li **nimi suli** a. ona li ken kama **nimi kama palisa**.
 *(Aldone, prepozicioj ankaŭ estas radikaj vortoj. — In addition, prepositions are content words, too.)*
 
-* mi pona **tawa** jan. *(Mi estas bona al homoj. — I'm good to people.)*
+* mi pona ***tawa*** jan. *(Mi estas bona al homoj. — I'm good to people.)*
 
 **nimi suli** pi mute ala li ken kama **nimi wawa pini** anu **nimi nanpa**.
 *(Malmultaj radikaj vortoj povas fariĝi helpaj verboj aŭ numeraloj. — A few content words can become auxiliary verbs or numerals.)*
 
-* mi **wile** lape. *(Mi bezonas dormi. — I need to sleep.)*
-* luka **wan** li jo e palisa **luka**. *(Unu mano havas kvin fingrojn. — One hand has five fingers.)*
+* mi ***wile*** lape. *(Mi bezonas dormi. — I need to sleep.)*
+* luka ***wan*** li jo e palisa **luka**. *(Unu mano havas kvin fingrojn. — One hand has five fingers.)*
 
 #### nimi palisa
 *(Prepozicioj — Prepositions)*
 
-* **tawa** *(al, por — to, for)*
-  * **tawa** *(moviĝanta — moving)*
-    * **tawa** *(movo — move)*
+* ***tawa*** *(al, por — to, for)*
+  * ***tawa*** *(moviĝanta — moving)*
+    * ***tawa*** *(movo — move)*
 
 #### nimi pi jan anu ijo
 *(Pronomoj — Pronouns)*
@@ -244,34 +244,34 @@ sin la **nimi palisa** li **nimi suli** a. ona li ken kama **nimi kama palisa**.
 #### nimi jan
 *(Ulaj Vortoj — Person Words)*
 
-* **meli** *(ina — female)*
-  * ~~jan~~ **meli** *(virino — woman)*
-    * → **meli**
+* ***meli*** *(ina — female)*
+  * ~~jan~~ ***meli*** *(virino — woman)*
+    * → ***meli***
 
 #### nimi ijo
 *(Aĵaj Vortoj — Thing Words)*
 
-* **suwi** *(dolĉa — sweet)*
-  * ~~ijo~~ **suwi** *(dolĉaĵo — sweets)*
-    * → **suwi**
+* ***suwi*** *(dolĉa — sweet)*
+  * ~~ijo~~ ***suwi*** *(dolĉaĵo — sweets)*
+    * → ***suwi***
 
 ##### nimi pi ijo poka
 *(Korelativoj — Correlatives)*
 
-* **ala**, **ale**, **ni**, **seme** *(neniu, ĉiu, tiu (ĉi), kiu — no, every, that/this, which)*
-  * jan **ala**, jan **ale**, jan **ni**, jan **seme** *(neniu, ĉiu, tiu (ĉi), kiu — no one, everyone, that/this one, who)*
-  * ~~ijo~~ **ala**, ~~ijo~~ **ale**, ~~ijo~~ **ni**, ~~ijo~~ **seme** *(nenio, ĉio, tio (ĉi), kio — nothing, everything,  that/this thing, what)*
-    * → **ala**, **ale**, **ni**, **seme**
+* ***ala***, ***ale***, ***ni***, ***seme*** *(neniu, ĉiu, tiu (ĉi), kiu — no, every, that/this, which)*
+  * jan ***ala***, jan ***ale***, jan ***ni***, jan ***seme*** *(neniu, ĉiu, tiu (ĉi), kiu — no one, everyone, that/this one, who)*
+  * ~~ijo~~ ***ala***, ~~ijo~~ ***ale***, ~~ijo~~ ***ni***, ~~ijo~~ ***seme*** *(nenio, ĉio, tio (ĉi), kio — nothing, everything,  that/this thing, what)*
+    * → ***ala***, ***ale***, ***ni***, ***seme***
 
 pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li kama weka ala.
 *(En genitiva frazero, "ijo" antaŭ korelativo ne malaperas. — In a genitive clause, "ijo" before a correlative doesn't disappear.)*
 
-* mama **pi ijo ale** *(gepatro de ĉio — parent of everything)*
+* mama ***pi ijo ale*** *(gepatro de ĉio — parent of everything)*
 
 kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(Antaŭ korelativo, la prepozicio "sama" povas malaperi. — In front of a correlative, the preposition "sama" can disappear.)*
 
-* tomo **sama** tomo ni *(domo kiel tiu domo — a house like this house)*
-  * tomo **sama** ni *(domo kiel tiu, tia domo — a house like this, such a house)*
+* tomo ***sama*** tomo ni *(domo kiel tiu domo — a house like this house)*
+  * tomo ***sama*** ni *(domo kiel tiu, tia domo — a house like this, such a house)*
     * tomo ni *(tiuj domoj → tia domo — those houses → such a house)*
 
 **nimi kama** "ala" li ken tawa.
@@ -284,21 +284,21 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 ##### nimi pali
 *(Agaj Vortoj — Doing Words)*
 
-* **moku** *(manĝi — to eat)*
-  * ~~ijo~~ **moku** *(manĝo — food)*
-    * → **moku**
+* ***moku*** *(manĝi — to eat)*
+  * ~~ijo~~ ***moku*** *(manĝo — food)*
+    * → ***moku***
 
 #### nimi ilo
 *(Ilaj Vortoj — Tool Words)*
 
-* **lukin** *(vidi — to see)*
-  * ~~ilo~~ **lukin** *(okulo — eye)*
-    * → **lukin**
+* ***lukin*** *(vidi — to see)*
+  * ~~ilo~~ ***lukin*** *(okulo — eye)*
+    * → ***lukin***
 
 #### nimi sijelo
 *(Korpaj Vortoj — Body Words)*
 
-* **kala** *(fiŝo — fish)*
+* ***kala*** *(fiŝo — fish)*
 
 ## toki namako
 *(Aldona Lingvaĵo — Additional Language)*
@@ -309,9 +309,9 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 **nimi lawa** li ken kama **nimi wawa palisa**.
 *(Substantivo povas fariĝi transitiva verbo. — A noun can become a transitive verb.)*
 
-* ona li **telo** e kasi. *(ŝi malsekigas la planton. — She gets the plant wet.)*
-* ona li pana e **telo** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
-  * → ona li **telo** e kasi. *(ŝi akvumas la planton. — She waters the plant.)*
+* ona li ***telo*** e kasi. *(ŝi malsekigas la planton. — She gets the plant wet.)*
+* ona li pana e ***telo*** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
+  * → ona li ***telo*** e kasi. *(ŝi akvumas la planton. — She waters the plant.)*
 
 ### nimi nanpa mute
 *(Pluraj Numeraloj — Multiple Numerals)*
@@ -319,8 +319,8 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 **nimi nanpa** tu la sitelen nanpa li ken kama weka.
 *(Ĉe du numeraloj, la komo povas malaperi. — With two numerals, the comma can disappear.)*
 
-* palisa ***luka***, ***luka*** *(kvin fingroj kaj kvin → dek fingroj — five fingers and five → ten fingers)*
-  * → palisa ***luka luka***
+* palisa ***luka***, ***tu*** *(kvin fingroj kaj du → sep fingroj — five fingers and two → seven fingers)*
+  * → palisa ***luka tu***
 
 # toki kulupu
 *(Komunuma Lingvaĵo — Community Language)*
@@ -334,7 +334,7 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 nimi "ante", "sin", "taso", "weka" li [nimi palisa](#nimi-palisa) musi.
 *("ante", "sin", "taso" kaj "weka" estas eksperimentaj prepozicioj. — "ante", "sin", "taso" and "weka" are experimental prepositions.)*
 
-* ona li **ante** sina. *(Ŝi estas diversa ol vi. — She is different from you.)*
+* ona li ***ante*** sina. *(Ŝi estas diversa ol vi. — She is different from you.)*
 
 ### nimi wawa pini musi
 *(Eksperimentaj Helpaj Verboj — Experimental Auxiliary Verbs)*
@@ -358,7 +358,7 @@ nimi "pini" li ken kama **nimi wawa pini** musi.
 nimi "akesi", "kulupu", "mama", "soweli" li [nimi jan](#nimi-jan) musi.
 *("akesi", "kulupu", "mama" kaj "soweli" estas eksperimentaj ulaj vortoj. — "akesi", "kulupu", "mama" and "soweli" are experimental person words.)*
 
-* mi en sina li toki **kulupu**. *(Mi kaj vi parolas unu al la alia. — You and I talk to one another.)*
+* mi en sina li toki ***kulupu***. *(Mi kaj vi parolas unu al la alia. — You and I talk to one another.)*
 
 ### nimi ijo musi
 *(Eksperimentaj Aĵaj Vortoj — Experimental Thing Words)*
