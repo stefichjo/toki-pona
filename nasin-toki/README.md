@@ -364,6 +364,15 @@ nimi "ante", "sin", "taso", "weka" li [nimi palisa](#nimi-palisa) musi.
 
 * ona li ***ante*** sina. *(Ŝi estas diversa ol vi. — She is different from you.)*
 
+nimi "ni" taso li lon pini pi **nimi kama palisa** "taso" lon kama pi mute nimi, la nimi "ni" en nimi "la" li ken kama weka.
+*(Se nura "ni" estas malantaŭ la prepozicio "taso" komence de frazo, "ni" kaj "la" povas malaperi. — If plain "ni" comes after the preposition "taso" at the beginning of a sentence, "ni" and "la" can disappear.)*
+
+nimi "taso ni la" li ken kama "taso".
+*("taso ni la" povas fariĝi "taso". — "taso ni la" can become "taso".)*
+
+* ***taso ni la*** mije en meli li pali li pilin pona. *(Sendepende de tio, viroj kaj virinoj laboras kaj estas gajaj. — Independent from that, men and women work and are happy.)*
+  * → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj. — But men and women work and are happy.)*
+
 ### nimi wawa pini musi
 *(Eksperimentaj Helpaj Verboj — Experimental Auxiliary Verbs)*
 
@@ -419,15 +428,6 @@ nimi **esun** li [nimi sijelo](#nimi-sijelo) musi.
 
 ### toki pi tenpo kama
 *(Estonta Lingvaĵo — Language of the Future)*
-
-#### nimi ma
-*(Spacaj Vortoj — Location Words)*
-
-**nimi lawa** li ken kama **nimi ma**.
-*(Substantivo povas fariĝi spaca vorto. — A noun can become a location word.)*
-
-* mi tawa ***lon sike pi*** tomo sona. *(Mi iras ĉirkaŭ la lernejo. — I go around the house.)*
-* tomo ona li ***lon lawa pi*** tomo suli. *(Ŝi loĝas en la supro de la turdomo. — She lives at the top of the tower block.)*
 
 #### nimi wawa palisa kama
 *(Pasivo kaj Kaŭzativo — Passive and Causative)*
@@ -512,9 +512,6 @@ jan li ken toki e ante mun.
 * ***mun*** → ***ilo mun*** *(satellite)*
 * ***mun*** → ***kiwen mun*** *(comet)*
 
-#### nanpa
-*(Numeroj — Numbers)*
-
 #### sitelen lon poka nimi
 *(Interpunkcio — Punctuation)*
 
@@ -570,12 +567,6 @@ tan ni la kalama nanpa wan pi nimi kama lon kama pi kalama "i" li ken kama ante 
 
 ### toki pi tenpo pini
 *(Pasinta Lingvaĵo — Language of the Past)*
-
-nimi "ni" taso li lon pini pi **nimi kama palisa** "taso" lon kama pi mute nimi, la nimi "ni" en nimi "la" li ken kama weka.
-*(Se nura "ni" estas malantaŭ la prepozicio "taso" komence de frazo, "ni" kaj "la" povas malaperi. — If plain "ni" comes after the preposition "taso" at the beginning of a sentence, "ni" and "la" can disappear.)*
-
-* ***taso ni la*** mije en meli li pali li pilin pona. *(Sendepende de tio, viroj kaj virinoj laboras kaj estas gajaj. — Independent from that, men and women work and are happy.)*
-  * → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj. — But men and women work and are happy.)*
 
 ...
 
