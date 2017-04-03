@@ -332,22 +332,22 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 ### nimi palisa musi
 *(Eksperimentaj Prepozicioj — Experimental Prepositions)*
 
-nimi "ante", "sin", "taso", "weka" li **nimi palisa**.
-*("ante", "sin", "taso" kaj "weka" estas prepozicioj. — "ante", "sin", "taso" and "weka" are prepositions.)*
+nimi "ante", "sin", "taso", "weka" li [nimi palisa](#nimi-palisa) musi.
+*("ante", "sin", "taso" kaj "weka" estas eksperimentaj prepozicioj. — "ante", "sin", "taso" and "weka" are experimental prepositions.)*
 
 * ona li **ante** sina. *(Ŝi estas diversa ol vi. — She is different from you.)*
 
 ### nimi wawa pini musi
 *(Eksperimentaj Helpaj Verboj — Experimental Auxiliary Verbs)*
 
-nimi "pini" li ken kama **nimi wawa pini**.
-*("pini" povas fariĝi helpa verbo. — "pini" can become an auxiliary verb.)*
+nimi "pini" li ken kama **nimi wawa pini** musi.
+*("pini" povas fariĝi eksperimenta helpa verbo. — "pini" can become an experimental auxiliary verb.)*
 
 * mi ***pini*** e ni: mi ***jo*** e lipu. *(Mi ĉesis havi la libron. Mi perdis la libron. — I ceased to have the book. I lost the book.)*
   * → mi ***pini jo*** e lipu.
 
-**nimi kama palisa** "tan", "lon", "tawa" li ken kama **nimi wawa pini**.
-*(La prepozicioj "tan", "lon" kaj "tawa" povas fariĝi helpaj verboj. — The prepositions "tan", "lon" and "tawa" can become auxiliary verbs.)*
+**nimi kama palisa** "tan", "lon", "tawa" li ken kama **nimi wawa pini** musi.
+*(La prepozicioj "tan", "lon" kaj "tawa" povas fariĝi eksperimentaj helpaj verboj. — The prepositions "tan", "lon" and "tawa" can become experimental auxiliary verbs.)*
 
 * mi ***tan*** pini sona. *(Mi estas forgesinta. — I have forgotten.)*
 * mi ***lon*** awen sona. *(Mi estas memoranta. — I am remembering.)*
@@ -356,8 +356,10 @@ nimi "pini" li ken kama **nimi wawa pini**.
 ### nimi jan musi
 *(Eksperimentaj Ulaj Vortoj — Experimental Person Words)*
 
-* mi en sina li toki **kulupu**. *(reciproka — reciprocal)*
-* **kulupu** *(grupo — group)*
+nimi "akesi", "kulupu", "mama", "soweli" li [nimi jan](#nimi-jan) musi.
+*("akesi", "kulupu", "mama" kaj "soweli" estas eksperimentaj ulaj vortoj. — "akesi", "kulupu", "mama" and "soweli" are experimental person words.)*
+
+* mi en sina li toki **kulupu**. *(Mi kaj vi parolas unu al la alia. — You and I talk to one another.)*
 
 ### toki pi tenpo kama
 *(Estonta Lingvaĵo — Language of the Future)*
@@ -872,7 +874,7 @@ nimi "ona sama" li ken kama nimi "sama".
 
 * **a** ***[ha]*** *([KALAMA](#nimi-kalama))* - emocia interjekcio: ha — emotional interjection: ha
   * *(KAMA)* - ja, eĉ, efektive, jes — so, even, indeed, yes
-* **akesi** ***[hagedis]*** *([JAN](#nimi-jan))*
+* **akesi** ***[hagedis]*** *([JAN*](#nimi-jan-musi))*
   * *(KAMA)* - malvarmsanga — cold-blooded
   * *(LAWA)* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
 * **ala** ***[ara]*** *([IJO POKA](#nimi-pi-ijo-poka))*
@@ -952,7 +954,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - ŝvebanta — hovering
   * *(LAWA)* - io ŝvebanta: aero, spirito, esenco, kaŝita realo — something hovering: air, spirit, essence, hidden reality
 * **kule** ***[kuler]*** *([SULI](#nimi-suli))* - kolora, pentrita — colorful, painted
-* **kulupu** ***[grup]*** *([JAN](#nimi-jan))*
+* **kulupu** ***[grup]*** *([JAN*](#nimi-jan-musi))*
   * *(KAMA)* - reciproka — reciprocal
   * *(LAWA)* - reciproka animaĵo: komunumo, kompanio, grupo, nacio, socio, tribo — reciprocal animated being: community, company, group, nation, society, tribe
 * **kute** ~~ekute~~ ***[ekute]*** *([ILO](#nimi-ilo))*
@@ -1000,7 +1002,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - vasta — vast
   * *(LAWA)* - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero — something vast: earth, soil, land, field, world, territory, outdoors
     * *(lon ... pi)* - ekster — outside
-* **mama** ***[mama]*** *([JAN](#nimi-jan))*
+* **mama** ***[mama]*** *([JAN*](#nimi-jan-musi))*
   * *(KAMA)* - zorganta — care-taking@
   * *(LAWA)* - zorganta animaĵo: gepatro — care-taking animated being: parent
 * **mani** ***[mani]*** *([IJO](#nimi-ijo))*
@@ -1140,7 +1142,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(WAWA PALISA)* - scii — to know
   * *(LAWA)* - io por scii: fakto — something to know: fact
   * *(WAWA PINI)* - scipovi — to know how to
-* **soweli** ***[cxoveli]*** *([JAN](#nimi-jan))*
+* **soweli** ***[cxoveli]*** *([JAN*](#nimi-jan-musi))*
   * *(KAMA)* - varmsanga — warm-blooded
   * *(LAWA)* - varmsanga animaĵo: mamulo — warm-blooded animated being: mammal
 * **suli** ***[suri]*** *([SULI](#nimi-suli))* ***≠ lili*** - granda, peza, grava, plenkreska — big, heavy, important, adult
