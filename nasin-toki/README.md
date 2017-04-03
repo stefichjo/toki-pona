@@ -329,6 +329,14 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 ## toki musi
 *(Luda Lingvaĵo — Playful Language)*
 
+### nimi palisa ale
+*(Ĉiuj Prepozicioj — All Prepositions)*
+
+nimi "ante", "sin", "taso", "weka" li **nimi palisa**.
+*("ante", "sin", "taso" kaj "weka" estas prepozicioj. — "ante", "sin", "taso" and "weka" are prepositions.)*
+
+* ona li **ante** sina. *(Ŝi estas diversa ol vi. — She is different from you.)*
+
 ### nimi wawa pini ale
 *(Ĉiuj Helpaj Verboj — All Auxiliary Verbs)*
 
@@ -336,7 +344,7 @@ nimi "pini" li ken kama **nimi wawa pini**.
 *("pini" povas fariĝi helpa verbo. — "pini" can become an auxiliary verb.)*
 
 * mi ***pini*** e ni: mi ***jo*** e lipu. *(Mi ĉesis havi la libron. Mi perdis la libron. — I ceased to have the book. I lost the book.)*
-  * → mi ***pini jo*** e lipu. 
+  * → mi ***pini jo*** e lipu.
 
 **nimi kama palisa** "tan", "lon", "tawa" li ken kama **nimi wawa pini**.
 *(La prepozicioj "tan", "lon" kaj "tawa" povas fariĝi helpaj verboj. — The prepositions "tan", "lon" and "tawa" can become auxiliary verbs.)*
@@ -344,6 +352,12 @@ nimi "pini" li ken kama **nimi wawa pini**.
 * mi ***tan*** pini sona. *(Mi estas forgesinta. — I have forgotten.)*
 * mi ***lon*** awen sona. *(Mi estas memoranta. — I am remembering.)*
 * mi ***tawa*** kama sona. *(Mi estas lernonta. — I am about to learn.)*
+
+### nimi jan ale
+*(Ĉiuj Ulaj Vortoj — All Person Words)*
+
+* mi en sina li toki **kulupu**. *(reciproka — reciprocal)*
+* **kulupu** *(grupo — group)*
 
 ### toki pi tenpo kama
 *(Estonta Lingvaĵo — Language of the Future)*
@@ -376,35 +390,6 @@ nimi "pini" li ken kama **nimi wawa pini**.
 
 * mi tawa ***lon sike pi*** tomo sona. *(Mi iras ĉirkaŭ la lernejo. — I go around the house.)*
 * tomo ona li ***lon lawa pi*** tomo suli. *(Ŝi loĝas en la supro de la turdomo. — She lives at the top of the tower block.)*
-
-#### nimi kama palisa
-*(Prepozicioj — Prepositions)*
-
-nimi "ante" li sama nimi "sama ala". nimi "weka" li sama nimi "lon ala". tan ni la sama ni la nimi "ante" en nimi "weka" li ken kama **nimi kama palisa**.
-*("ante" kaj "sama", kaj "weka" kaj "lon" estas antonimoj. Tial ankaŭ "ante" kaj "weka" povas fariĝi prepozicioj. — "ante" and "sama", and "weka" and "lon" are antonyms. Therefore, also "ante" and "weka" can become prepositions.)*
-
-* ijo ***ante*** *(io alia — something else)*
-  * → ijo ***ante ona*** *(io alia ol ŝi — something different from her)*
-* ijo ***weka*** *(io distanca — something missing)*
-  * → ijo ***weka ona*** *(io distanca de ŝi — something away from her)*
-
-nimi "taso" li **nimi kama palisa**. nimi "sin" li sama nimi "taso ala". tan ni la nimi "sin" li ken sama kama **nimi kama palisa**.
-*("taso" estas prepozicio. "sin" kaj "taso" estas antonimoj. Tial ankaŭ "sin" povas fariĝi prepozicio. — "taso" is a preposition. "sin" and "taso" are antonyms. Therefore, also "sin" can become a preposition.)*
-
-* ijo ***sin*** *(io aldona — something additional)*
-  * → ijo ***sin ona*** *(io aldona al ŝi, io kun ŝi — something in addition to her, something with her)*
-* ijo ***taso*** *(io izolita — something apart)*
-  * → ijo ***taso ona*** *(io izolita de ŝi, io sen ŝi — something apart from her, something without her)*
-
-kepeken nimi "sin" anu **nimi kama palisa** "ante" la jan ken toki e ante ijo. *(Pere de "sin" aŭ "ante" oni povas kompari aferojn. — By means of "sin" or "ante" one can compare things.)*
-
-* toki pona li toki ***pona***. *(Tokipono estas bona lingvo. — Toki Pona is a good language.)*
-* toki pona li toki pi ***pona sin***. *(Tokipono estas pli bona lingvo. — Toki Pona is a better language.)*
-* toki pona li toki pi ***pona sin ante*** toki Losupan. *(Tokipono estas pli bona lingvo ol Loĵbano. — Toki Pona is a better language than Lojban.)*
-* toki pona li toki pi ***pona sin ante ale***. *(Tokipono estas pli bona lingvo ol ĉiu. Tokipono estas la plej bona lingvo. — Toki Pona is a better language than everyone. Toki Pona is the best language.)*
-* toki pona li toki pi ***pona sin ante*** ale pi ijo ni: mi kama sona e ona. *(Tokipono estas pli bona lingvo ol ĉiu, kiun mi (iam) lernis. Tokipono estas la plej bona lingvo, kiun mi (iam) lernis. — Toki Pona a better language than everyone, that I have (ever) learnt. Toki Pona is the best language, that I have (ever) learnt.)*
-* toki pona li pona pi ***sin*** ala ***ante*** toki Epelanto. *(Tokipona ne estas pli bona ol Esperanto. — Toki Pona isn't better than Esperanto.)*
-  * toki pona li pona ***taso ante*** toki Epelanto. *(Tokipono estas malpli bona ol Esperanto. — Toki Pona is less good than Esperanto.)*
 
 #### nimi wawa palisa kama
 *(Pasivo kaj Kaŭzativo — Passive and Causative)*
@@ -904,7 +889,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **ali** = **ale**
 * **anpa** ***[an-bas]*** *([SULI](#nimi-suli))* - malalta — low
   * *(lon ... pi)* - sub — under
-* **ante** ***[ander]*** *([PALISA](#nimi-palisa))*
+* **ante** ***[ander]*** *([PALISA-ALE](#nimi-palisa-ale))*
   * *(KAMA PALISA)* - ol — than
   * *(KAMA)* - alia — different
 * **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili-en-anu))* - aŭ — or
@@ -998,7 +983,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **lon** ~~alon~~ ***[along]*** *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - ĉe, laŭ, en, kun — at, along, in, with
   * *(KAMA)* - ĉeestanta, ekzistanta, reala — being present, existing, real
-  * *(WAWA PINO)* - esti -anta — to be -ing
+  * *([WAWA PINI*](#nimi-wawa-pini-ale))* - esti -anta — to be -ing
 * **luka** ***[ruka]*** *([ILO](#nimi-ilo))*
   * *(WAWA PALISA)* - tuŝi — to touch
   * *(LAWA)* - organo por tuŝi: mano, brako — organ for touching: hand, arm
@@ -1042,7 +1027,9 @@ nimi "ona sama" li ken kama nimi "sama".
 * **mun** ***[mun]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - ĉielpromenanta — sky-walking
   * *(LAWA)* - io ĉielpromenanta: luno, stelo — something sky-walking: moon, star
-* **musi** ~~amusi~~ ***[amuzi]*** *([SULI](#nimi-suli))* - ludanta — playing
+* **musi** ~~amusi~~ ***[amuzi]*** *([PALI](#nimi-pali))*
+  * *(WAWA PALISA)* - ludi — to play
+  * *(LAWA)* - io por ludi: ludo — something to play: game
 * **mute** ***[multe]*** *([SULI](#nimi-suli))* ***≠ lili*** - plura, multa, multe da (io ne-nombrebla), tre — multiple, many, much of (something non-countable), very
 * **namako** = **sin**
 * **nanpa** ***[namba]*** *([IJO](#nimi-ijo))*
@@ -1098,7 +1085,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - organo por senti: koro — organ for feeling: heart
 * **pimeja** ***[pimeja]*** *([SULI](#nimi-suli))* - malhela — dark
 * **pini** ***[fini]*** *([SULI](#nimi-suli))* - finita, pasinta — finished, past
-  * *(WAWA PINI)* - fini, to stop
+  * *([WAWA PINI*](#nimi-wawa-pini-ale))* - fini, to stop
   * *(lon ... pi)* - malantaŭ — after
 * **pipi** ***[bibit]*** *([SIJELO](#nimi-sijelo))*
   * *([PALISA](#nimi-palisa))*
@@ -1138,7 +1125,7 @@ nimi "ona sama" li ken kama nimi "sama".
     * *(WAWA PALISA)* = **tawa sike lon**, **tawa lon sike pi**
   * *(LAWA)* - io ronda: cirklo, globo, ĉirkaŭo — something round: circle, sphere, surroundings
     * *(lon ... pi)* - ĉirkaŭ — around
-* **sin** ***[ŝin]*** *([PALISA](#nimi-palisa))*
+* **sin** ***[ŝin]*** *([PALISA-ALE](#nimi-palisa-ale))*
   * *(KAMA PALISA)* - aldona al, kun — additional to, with
   * *(KAMA)* - plia, aldona, nova, freŝa — another, additional, new, fresh
 * **sina** ***[sina]*** *([JAN ANU IJO](#nimi-pi-jan-anu-ijo))* - vi — you
@@ -1170,15 +1157,15 @@ nimi "ona sama" li ken kama nimi "sama".
 * **tan** ***[?]*** *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - de, pro — by, from, because of
   * *(KAMA)* - devenanta — originating
-  * *(WAWA PINI)* - esti -inta — to have -ed
-* **taso** ***[dats-ol]*** *([PALISA](#nimi-palisa))*
+  * *([WAWA PINI*](#nimi-wawa-pini-ale))* - esti -inta — to have -ed
+* **taso** ***[dats-ol]*** *([PALISA-ALE](#nimi-palisa-ale))*
   * *(KAMA PALISA)* - sendepende de, sen, malgraŭ, kvankam — independent from, without
     * *(... ~~ni la~~)* - sed — but
   * *(KAMA)* - sendependa, nura, libera — independent, only, free
 * **tawa** ~~towa~~ ***[towards]*** *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - al, por — to, toward, for
   * *(KAMA)* - moviĝanta — moving
-  * *(WAWA PINI)* - esti -onta — to be about to
+  * *([WAWA PINI*](#nimi-wawa-pini-ale))* - esti -onta — to be about to
 * **telo** ***[de-l-o]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - likva, malseka — liquid, wet
   * *(LAWA)* - io likva, io malseka: akvo, trinkaĵo — something liquid, something wet: water, beverage
@@ -1211,10 +1198,12 @@ nimi "ona sama" li ken kama nimi "sama".
     * *(KAMA)* - fluganta — flying
   * *(LAWA)* - fluganta vivaĵo: birdo — flying living being: bird
 * **wawa** ***[vahva]*** *([SULI](#nimi-suli))* ***≠ lili*** - forta — strong
-* **weka** ~~we~~ ***[wex]*** *([PALISA](#nimi-palisa))*
+* **weka** ~~we~~ ***[wex]*** *([PALISA-ALE](#nimi-palisa-ale))*
   * *(KAMA PALISA)* - fore de — away from
   * *(KAMA)* - fora, distanca — away, gone, distant
-  * *(lon ...)* - for — away@
+  * *([IJO](#nimi-ijo))*
+    * *(LAWA)* - ie for — somewhere far away
+    * *(lon ...)* - for — away
 * **wile** ***[wille]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - deziri, bezoni — to desire, to need
   * *(LAWA)* - io por deziri, io por bezoni: neceso — something to desire, something to need: necessity
