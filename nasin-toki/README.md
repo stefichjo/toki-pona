@@ -580,35 +580,6 @@ nimi sijelo "akesi", "jan", "kala", "kasi", "pipi", "soweli" en "waso" li sin.
 * ***pana e sona pi ijo sin*** *(informi pri novaĵo — to inform about news)*
   * → ***toki*** *(komuniki — to communicate)*
 
-#### nimi kama palisa
-*(Prepozicioj — Prepositions)*
-
-**nimi kama palisa** "tawa", "tan" en "kepeken" li sin.
-*(La prepozicioj "tawa", "tan" kaj "kepeken" estas novaj. — The prepositions "tawa", "tan" and "kepeken" are new.)*
-
-* mi ***kama lon*** sina. *(Mi komencas esti ĉe vi. — I begin to be with you.)*
-  * → mi ***tawa*** sina. *(Mi moviĝas al vi. — I move to you.)*
-* mi ***pini lon*** ma tomo. *(Mi ĉesis esti en la urbo. — I cease being in the town.)*
-  * → mi ***tan*** ma tomo. *(Mi venis de la urbo. — I came from the town.)*
-* mi ***awen lon*** tomo tawa. *(Mi daŭre estas en la aŭto. — I keep on being in the car.)*
-  * → mi ***kepeken*** tomo tawa. *(Mi uzas la aŭton. — I use the car.)*
-
-#### nimi kule
-*(Vortoj por Koloroj — Words for Colors)*
-
-nimi kule "jelo", "laso", "loje", "pimeja" en "walo" li sin.
-*(La vortoj por koloroj "jelo", "laso", "loje", "pimeja" kaj "walo" estas novaj. — The words for colors "jelo", "laso", "loje", "pimeja" and "walo" are new.)*
-
-* ***kule suno*** *(koloro de la suno — color of the sun)*
-  * → ***jelo*** *(flavo — yellow)*
-* ***kule kasi*** *(koloro de plantoj — color of the plants)*
-  * → ***laso*** *(verdo, bluo — green, blue)*
-* ***kule uta*** *(koloro de la lipoj — color of the lips)*
-  * → ***loje*** *(ruĝo — red)*
-* ***kule ala*** *(neniu koloro — no color)*
-  * → ***pimeja*** *(nigro — black)*
-* ***kule wawa*** *(forta koloro — strong color)*
-  * → ***walo*** *(blanko — white)*
 
 #### kalama nimi en sitelen nimi
 *(Prononco kaj Ortografio — Pronunciation and Orthography)*
@@ -830,7 +801,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io interna: centro — something internal: center
 * **jaki** ***[jakki]*** *([SULI](#nimi-suli))* ***≠ pona*** - malpura, fia, senhonora — dirty, disgusting, dishonored
 * **jan** ~~jen~~ ***[jen]*** *(PALISA)* - iu — someone
-* **jelo** ***[jellow]*** *([SULI](#nimi-suli))* - flava — yellow
+* **jelo** ***[jellow]*** *([SULI](#nimi-suli))* = "***kule suno***" - flava — yellow
 * **jo** ***[jow]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - havi — to have
   * *(LAWA)* - io por havi: propraĵo — something to have: property
@@ -850,7 +821,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - kreskanta vivaĵo: planto — growing living being: plant
 * **ken** ***[ken]*** *([SULI](#nimi-suli))* - ebla — possible
   * *(WAWA PINI)* - povi, kapabli, rajti — can, to be able to, to be allowed to
-* **kepeken** ***[xebrewken]*** *([PALISA](#nimi-palisa))*
+* **kepeken** ***[xebrewken]*** *([PALISA](#nimi-palisa))* = "***awen lon***"
   * *(KAMA PALISA)* - per — by means of
   * *(KAMA)* - uzanta — using
 * **kili** ***[xili]*** *([IJO*](#nimi-ijo-musi))*
@@ -877,7 +848,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - organo por aŭdi: orelo — organ for hearing: ear
 * **la** ***[la]*** *([LILI](#nimi-lili-la))* - (kunteksto) — (context)
 * **lape** ***[slape]*** *([SULI](#nimi-suli))* - dormanta, ripozanta — sleeping, resting
-* **laso** ~~la~~ ***[glas]*** *([SULI](#nimi-suli))* - blua, verda — blue, green
+* **laso** ~~la~~ ***[glas]*** *([SULI](#nimi-suli))* = "***kule kasi***", "***kule sewi***" - blua, verda — blue, green
 * **lawa** ***[glava]*** *([ILO](#nimi-ilo))*
   * *(WAWA PALISA)* - gvidi — to guide
   * *(LAWA)* - organo por gvidi: kapo — organ for guiding: head
@@ -896,7 +867,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - plata — flat
   * *(LAWA)* - io plata: karto, dokumento, papero, dosiero — something flat: card, document, paper, file
     * *(LAWA)* = **mute lipu**
-* **loje** ***[roje]*** *([SULI](#nimi-suli))* - ruĝa — red
+* **loje** ***[roje]*** *([SULI](#nimi-suli))* = "***kule uta***" - ruĝa — red
 * **lon** ~~alon~~ ***[along]*** *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - ĉe, laŭ, en, kun — at, along, in, with
   * *(KAMA)* - ĉeestanta, ekzistanta, reala — being present, existing, real
@@ -1004,7 +975,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **pilin** ***[fil-him]*** *([ILO](#nimi-ilo))*
   * *(WAWA PALISA)* - senti — to feel
   * *(LAWA)* - organo por senti: koro — organ for feeling: heart
-* **pimeja** ***[pimeja]*** *([SULI](#nimi-suli))* - malhela — dark
+* **pimeja** ***[pimeja]*** *([SULI](#nimi-suli))* = "***kule ala***" - malhela, nigra — dark, black
 * **pini** ***[fini]*** *([SULI](#nimi-suli))* - finita, pasinta — finished, past
   * *([WAWA PINI*](#nimi-wawa-pini-musi))* - fini, to stop
   * *(lon ... pi)* - malantaŭ — after
@@ -1076,7 +1047,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **suwi** ***[swit]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - dolĉa — sweet
   * *(LAWA)* - io dolĉa: dolĉaĵo — something sweet: sweets
-* **tan** ***[?]*** *([PALISA](#nimi-palisa))*
+* **tan** ***[?]*** *([PALISA](#nimi-palisa))* = "***pini lon***"
   * *(KAMA PALISA)* - de, pro — by, from, because of
   * *(KAMA)* - devenanta — originating
   * *([WAWA PINI*](#nimi-wawa-pini-musi))* - esti -inta — to have -ed
@@ -1084,7 +1055,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA PALISA)* - sendepende de, sen, malgraŭ, kvankam — independent from, without
     * *(... ~~ni la~~)* - sed — but
   * *(KAMA)* - sendependa, nura, libera — independent, only, free
-* **tawa** ~~towa~~ ***[towards]*** *([PALISA](#nimi-palisa))*
+* **tawa** ~~towa~~ ***[towards]*** = "***kama lon***" *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - al, por — to, toward, for
   * *(KAMA)* - moviĝanta — moving
   * *([WAWA PINI*](#nimi-wawa-pini-musi))* - esti -onta — to be about to
@@ -1111,7 +1082,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - organo por kisi, organo por suĉi: buŝo — organ for kissing, organ for sucking: mouth
 * **utala** ~~utalasi~~ ***[udarati]*** *([SULI](#nimi-suli))* ***≠ pona*** - batalanta, defianta, kontraŭanta — battling, challenging, struggling against
   * *(WAWA PALISA)* = **utala tawa**
-* **walo** ***[valko]*** *([SULI](#nimi-suli))* - blanka — white
+* **walo** ***[valko]*** *([SULI](#nimi-suli))* = "***kule wawa***" - blanka — white
 * **wan** ***[wan]*** *([SULI](#nimi-suli))* - unika, unueca — unique, united
   * *([NANPA](#nimi-nanpa))* - unu — one
     * *(... LAWA)* - -ero — one piece of
