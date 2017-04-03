@@ -429,28 +429,6 @@ nimi **esun** li [nimi sijelo](#nimi-sijelo) musi.
 ### toki pi tenpo kama
 *(Estonta Lingvaĵo — Language of the Future)*
 
-#### nimi wawa palisa kama
-*(Pasivo kaj Kaŭzativo — Passive and Causative)*
-
-nimi "pona" en nimi "ike" li ken lon kama pi **nimi wawa palisa**.
-*("pona" kaj "ike" povas esti antaŭ transitiva verbo. — "pona" and "ike" can stand before transitive verbs.)*
-
-* ***pona*** lukin *(bone vidata, facile vidata, agrable vidata, vidinda, bela — good to see, easy to see, worth seeing, beautiful)*
-* ***ike*** lukin *(malbone vidata, malfacile vidata, malagrable vidata, malvidinda, malbela — bad to see, difficult to see, not worth seeing, ugly)*
-
-nimi "a", nimi "open" en nimi "ala" li ken lon kama pi **nimi wawa palisa**.
-*("a", "open" kaj "ala" povas esti antaŭ transitiva verbo. — "a", "open" and "ala" can stand before transitive verbs.)*
-
-* ***a*** lukin *(vidata — being seen)*
-  * ona li ***a*** lukin tawa mi. *(Ŝi estas vidata de mi. — She is being seen by me.)*
-* ***open*** lukin *(malferme vidata, videbla — openly seen, visible)*
-* ***ala*** lukin *(ne vidata, nevidebla — not being seen, invisible)*
-
-**nimi lawa** "ijo" lon kama pi **nimi wawa palisa** li ken awen.
-*(La substantivo "ijo" antaŭ transitiva verbo povas resti. — The noun "ijo" before a transitive verb can stay.)*
-
-* ijo ***sitelen*** *(io por desegni; io desegnenda, io desegnata — something for painting; something worth painting, something being painted)*
-
 #### nimi nanpa
 *(Numeraloj — Numerals)*
 
@@ -568,44 +546,8 @@ tan ni la kalama nanpa wan pi nimi kama lon kama pi kalama "i" li ken kama ante 
 ### toki pi tenpo pini
 *(Pasinta Lingvaĵo — Language of the Past)*
 
-...
-
 **toki pi tenpo pini** li jo e nimi luka luka tu tu taso.
 *(La pralingvo havas nur cent vortojn. — The Language of the Past has only a hundred words.)*
-
-#### nimi palisa@
-*(...)*
-
-nimi "mi", "sina", "ona", "ijo" li **nimi palisa**. **nimi lawa** ante li pini jo e nimi "ijo".
-*("mi", "sina", "ona" kaj "ijo" estas pronomoj. Aliaj substantivoj perdis la vorton "ijo". — Only "mi", "sina", "ona" and "ijo" are nouns. Other nouns lost the word "ijo".)*
-
-* ***ijo ilo*** *(utilaĵo — something useful)*
-  * → ***~~ijo~~ ilo*** *(ilo — tool)*
-
-tan ni la **nimi lawa** ante li ken sama **nimi kama** anu **nimi wawa**.
-*(Tial aliaj substantivoj povas uziĝi kiel modifiloj aŭ verboj. — Therefore other nouns can be used as modifiers or verbs.)*
-
-* o ***luka*** ala e seli! *(Ne tuŝu la fajron! — Don't touch the fire!)*
-
-ken pi toki pakala la jan li ken toki e nimi "ijo" li toki e **nimi wawa** lon tenpo sin.
-*(Tra bruo oni povas diri "ijo" kaj ripeti la verbon. — Through noise one can say "ijo" and repeat the verb.)*
-
-* ona li ***ijo moku*** anu ***moku moku***? *(Ĉu ĝi estas manĝaĵo aŭ manĝe manĝanta? Ĉu ĝi estas manĝo aŭ ĉu ĝi manĝas? — Is it food or is it eating?)*
-
-#### nimi ilo
-*(Vortoj por Korperoj — Words for Body Parts)*
-
-**nimi ilo** li nimi pi **wan sijelo** li pini jo e nimi "ijo". *(Vortoj por korperoj perdis la vorton "ilo". — Words for body parts lost the word "ilo".)*
-
-* ***ilo kute*** → ***kute*** *(aŭdilo → orelo — "hearer" → head)*
-* ***ilo lawa*** → ***lawa*** *(gvidilo → kapo — "leader" → head)*
-* ***ilo luka*** → ***luka*** *(tuŝilo → mano, brako — "toucher" → hand, arm)*
-* ***ilo lukin*** → ***lukin*** *(vidilo → okulo — "looker" → head)*
-* ***ilo noka*** → ***noka*** *(tretilo → piedo — "kicker" → foot, leg)*
-* ***ilo palisa*** → ***palisa*** *(indikilo → fingro — "pointer" → finger)*
-* ***ilo pilin*** → ***pilin*** *(sentilo → koro — "feeler" → heart)*
-* ***ilo selo*** → ***selo*** *(limigilo, fermilo → haŭto — "limiter", "shutter" — skin)*
-* ***ilo uta*** → ***uta*** *(kisilo → buŝo — "kisser" → mouth)*
 
 ##### nimi sijelo
 *(Vortoj por Vivaĵoj — Words for Living Beings)*
@@ -642,7 +584,7 @@ nimi sijelo "akesi", "jan", "kala", "kasi", "pipi", "soweli" en "waso" li sin.
   * → ***pana*** *(doni — to give)*
 * ***kepeken lipu suli pi toki pona*** *(uzi la oficialan libron pri Tokipono — to use the official Toki Pona book)*
   * → ***pu*** *(puumi — to use the "Pu")*
-* ***pana e sona pi ijo sin*** *(informi pri novaĵo ­— to inform about news)*
+* ***pana e sona pi ijo sin*** *(informi pri novaĵo — to inform about news)*
   * → ***toki*** *(komuniki — to communicate)*
 
 #### nimi kama palisa
@@ -852,6 +794,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **a** ***[ha]*** *([KALAMA](#nimi-kalama))* - emocia interjekcio: ha — emotional interjection: ha
   * *(KAMA)* - ja, eĉ, efektive — so, even, indeed
     * *([KALAMA*](#nimi-kalama-musi))* - jes — yes
+    * *(... [PALI](#nimi-pali)*)* - -ata — being -ed
 * **akesi** ***[hagedis]*** *([JAN*](#nimi-jan-musi))*
   * *(KAMA)* - malvarmsanga — cold-blooded
   * *(LAWA)* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
@@ -1043,6 +986,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **ona** ***[ona]*** *([JAN ANU IJO](#nimi-pi-jan-anu-ijo))* - ŝi, li, ĝi, ili — she, he, it, they
 * **open** ***[open]*** *([SULI](#nimi-suli))* - malfermita — open
   * *(WAWA PALISA)* = **kama e**
+  * *(... [PALI](#nimi-pali)*)* - -ebla — -able
 * **pakala** ***[bagar-ap]*** *([SULI](#nimi-suli))* ***≠ pona*** - damaĝita, lezita — damaged, harmed
 * **pake e** = **len e lupa pi**
 * **pali** ***[fari]*** *([PALI](#nimi-pali))*
@@ -1082,6 +1026,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(WAWA PALISA)* - enhavi — to contain
   * *(LAWA)* - organo por enhavi: veziko, ujo, ingo — organ for containing: bladder, container
 * **pona** ***[bona]*** *([SULI](#nimi-suli))* - bona, amika, simpla — good, friendly, simple
+  * *(... [PALI](#nimi-pali))* - -inda — worth -ing
 * **pu** ***[buk]*** *([SULI](#nimi-suli))* - konsulti la Oficialan Libron de Tokipono — to interact with the Official Toki Pona Book
 * **sama** ***[sama]*** *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - kiel, parenca al — like, related to
