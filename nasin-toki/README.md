@@ -329,16 +329,16 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 ## toki musi
 *(Luda Lingvaĵo — Playful Language)*
 
-### nimi palisa ale
-*(Ĉiuj Prepozicioj — All Prepositions)*
+### nimi palisa musi
+*(Eksperimentaj Prepozicioj — Experimental Prepositions)*
 
 nimi "ante", "sin", "taso", "weka" li **nimi palisa**.
 *("ante", "sin", "taso" kaj "weka" estas prepozicioj. — "ante", "sin", "taso" and "weka" are prepositions.)*
 
 * ona li **ante** sina. *(Ŝi estas diversa ol vi. — She is different from you.)*
 
-### nimi wawa pini ale
-*(Ĉiuj Helpaj Verboj — All Auxiliary Verbs)*
+### nimi wawa pini musi
+*(Eksperimentaj Helpaj Verboj — Experimental Auxiliary Verbs)*
 
 nimi "pini" li ken kama **nimi wawa pini**.
 *("pini" povas fariĝi helpa verbo. — "pini" can become an auxiliary verb.)*
@@ -353,8 +353,8 @@ nimi "pini" li ken kama **nimi wawa pini**.
 * mi ***lon*** awen sona. *(Mi estas memoranta. — I am remembering.)*
 * mi ***tawa*** kama sona. *(Mi estas lernonta. — I am about to learn.)*
 
-### nimi jan ale
-*(Ĉiuj Ulaj Vortoj — All Person Words)*
+### nimi jan musi
+*(Eksperimentaj Ulaj Vortoj — Experimental Person Words)*
 
 * mi en sina li toki **kulupu**. *(reciproka — reciprocal)*
 * **kulupu** *(grupo — group)*
@@ -889,7 +889,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **ali** = **ale**
 * **anpa** ***[an-bas]*** *([SULI](#nimi-suli))* - malalta — low
   * *(lon ... pi)* - sub — under
-* **ante** ***[ander]*** *([PALISA*](#nimi-palisa-ale))*
+* **ante** ***[ander]*** *([PALISA*](#nimi-palisa-musi))*
   * *(KAMA PALISA)* - ol — than
   * *(KAMA)* - alia — different
 * **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili-en-anu))* - aŭ — or
@@ -983,7 +983,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **lon** ~~alon~~ ***[along]*** *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - ĉe, laŭ, en, kun — at, along, in, with
   * *(KAMA)* - ĉeestanta, ekzistanta, reala — being present, existing, real
-  * *([WAWA PINI*](#nimi-wawa-pini-ale))* - esti -anta — to be -ing
+  * *([WAWA PINI*](#nimi-wawa-pini-musi))* - esti -anta — to be -ing
 * **luka** ***[ruka]*** *([ILO](#nimi-ilo))*
   * *(WAWA PALISA)* - tuŝi — to touch
   * *(LAWA)* - organo por tuŝi: mano, brako — organ for touching: hand, arm
@@ -1085,7 +1085,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - organo por senti: koro — organ for feeling: heart
 * **pimeja** ***[pimeja]*** *([SULI](#nimi-suli))* - malhela — dark
 * **pini** ***[fini]*** *([SULI](#nimi-suli))* - finita, pasinta — finished, past
-  * *([WAWA PINI*](#nimi-wawa-pini-ale))* - fini, to stop
+  * *([WAWA PINI*](#nimi-wawa-pini-musi))* - fini, to stop
   * *(lon ... pi)* - malantaŭ — after
 * **pipi** ***[bibit]*** *([SIJELO](#nimi-sijelo))*
   * *([PALISA](#nimi-palisa))*
@@ -1125,7 +1125,7 @@ nimi "ona sama" li ken kama nimi "sama".
     * *(WAWA PALISA)* = **tawa sike lon**, **tawa lon sike pi**
   * *(LAWA)* - io ronda: cirklo, globo, ĉirkaŭo — something round: circle, sphere, surroundings
     * *(lon ... pi)* - ĉirkaŭ — around
-* **sin** ***[ŝin]*** *([PALISA*](#nimi-palisa-ale))*
+* **sin** ***[ŝin]*** *([PALISA*](#nimi-palisa-musi))*
   * *(KAMA PALISA)* - aldona al, kun — additional to, with
   * *(KAMA)* - plia, aldona, nova, freŝa — another, additional, new, fresh
 * **sina** ***[sina]*** *([JAN ANU IJO](#nimi-pi-jan-anu-ijo))* - vi — you
@@ -1157,15 +1157,15 @@ nimi "ona sama" li ken kama nimi "sama".
 * **tan** ***[?]*** *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - de, pro — by, from, because of
   * *(KAMA)* - devenanta — originating
-  * *([WAWA PINI*](#nimi-wawa-pini-ale))* - esti -inta — to have -ed
-* **taso** ***[dats-ol]*** *([PALISA*](#nimi-palisa-ale))*
+  * *([WAWA PINI*](#nimi-wawa-pini-musi))* - esti -inta — to have -ed
+* **taso** ***[dats-ol]*** *([PALISA*](#nimi-palisa-musi))*
   * *(KAMA PALISA)* - sendepende de, sen, malgraŭ, kvankam — independent from, without
     * *(... ~~ni la~~)* - sed — but
   * *(KAMA)* - sendependa, nura, libera — independent, only, free
 * **tawa** ~~towa~~ ***[towards]*** *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - al, por — to, toward, for
   * *(KAMA)* - moviĝanta — moving
-  * *([WAWA PINI*](#nimi-wawa-pini-ale))* - esti -onta — to be about to
+  * *([WAWA PINI*](#nimi-wawa-pini-musi))* - esti -onta — to be about to
 * **telo** ***[de-l-o]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - likva, malseka — liquid, wet
   * *(LAWA)* - io likva, io malseka: akvo, trinkaĵo — something liquid, something wet: water, beverage
@@ -1198,7 +1198,7 @@ nimi "ona sama" li ken kama nimi "sama".
     * *(KAMA)* - fluganta — flying
   * *(LAWA)* - fluganta vivaĵo: birdo — flying living being: bird
 * **wawa** ***[vahva]*** *([SULI](#nimi-suli))* ***≠ lili*** - forta — strong
-* **weka** ~~we~~ ***[wex]*** *([PALISA*](#nimi-palisa-ale))*
+* **weka** ~~we~~ ***[wex]*** *([PALISA*](#nimi-palisa-musi))*
   * *(KAMA PALISA)* - fore de — away from
   * *(KAMA)* - fora, distanca — away, gone, distant
   * *([IJO](#nimi-ijo))*
