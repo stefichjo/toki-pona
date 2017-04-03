@@ -352,7 +352,7 @@ nimi "mute", "esun" li [nimi nanpa](#nimi-nanpa) musi.
 * tenpo suno ***esun*** *(sep tagoj — seven days)*
 
 **toki musi** la [nimi lili "en"](#nimi-lili-en-anu) li ken lon [nimi nanpa](#nimi-nanpa) tu.
-*(En eksperimenta lingvaĵo, la konjunkcio "en" povas esti ĉe du numeraloj. — In experimental language, the conjunction "en" can be at two numerals.)*
+*(En eksperimenta lingvaĵo, la konjunkcio "en" povas esti ĉe du numeraloj. — In experimental language, the conjunction "en" can be with two numerals.)*
 
 * tenpo suno ***luka tu en tu tu*** *(dek kvar tagoj — fourteen days)*
 
@@ -514,51 +514,6 @@ jan li ken toki e ante mun.
 
 #### nanpa
 *(Numeroj — Numbers)*
-
-nasin nanpa li ken awen pona sama lon lipu suli pi toki pona.
-*(La nombra sistemo povas resti baza same kiel priskribita en la Oficiala Libro pri Tokipono. — The number system can remain basic as described in the Official Toki Pona Book.)*
-
-* ala *(nul — none)*
-* wan *(unu — unu)*
-* tu *(du — two)*
-* mute *(tri aŭ pli — three or more)*
-* ale *(ĉiom — all)*
-
-tan ni la jan wile ala sin e nanpa lon nasin pi pona ala.
-*(Tial oni ne bezonas adicii laŭ la kompleksa sistemo. — Therefore one doesn't have to add numbers according to the complex system.)*
-
-* sike tu en wan *(du radoj kaj unu → tri radoj — two wheels and one → three wheels)*
-
-tan ni la **nimi nanpa** tu lon poka ona sama li ken sama sin lon tenpo mute.
-*(Tial du sinsekvaj numeraloj povas esprimi multiplikadon. — Therefore two subsequent numerals can express multiplication.)*
-
-* sike tu wan *(unu paro da radoj → unu biciklo — one pair of wheels → one bicycle)*
-* sike tu tu *(du paroj da radoj → du bicikloj — two pairs of wheels → two bicycles)*
-
-nimi "luka" en nimi "esun" li ken kama **nimi nanpa**.
-*("luka" kaj "esun" povas fariĝi numeraloj. — "luka" and "esun" can become numerals.)*
-
-* wan *(unu — one)*
-* tu *(du — two)*
-* mute *(tri — three)*
-* tu tu *(kvar — four)*
-* luka *(kvin — five)*
-* mute tu *(ses — six)*
-* esun *(sep — seven)*
-* tu tu tu *(ok — eight)*
-* mute mute *(naŭ — nine)*
-* luka tu *(dek — ten)*
-* luka tu en wan *(dek unu — eleven)*
-* luka tu en tu *(dek du — twelve)*
-* luka tu tu *(dudek — twenty)*
-* luka tu luka tu *(cent — hundred)*
-* luka tu luka tu luka tu *(mil — thousand)*
-* luka tu nanpa mute *(tria deko → dek je la tria potenco — third ten → ten to the power of three)*
-
-**nimi lili** "en" li ken lon insa pi nimi nanpa tu lon ni a: ona tu ni li lon pini pi **nimi lili** "li".
-*(La partikulo "en" povas esti inter du numeraloj eĉ en la predikato. — The particle "en" can be between numerals even in the predicate.)*
-
-* mi jo e pan luka tu ***en*** tu. *(Mi havas dek panojn kaj du. → Mi havas dek du panojn.)*
 
 #### sitelen lon poka nimi
 *(Interpunkcio — Punctuation)*
