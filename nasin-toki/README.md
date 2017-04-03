@@ -14,7 +14,7 @@ wan lipu "[toki namako](#toki-namako)" li toki e nasin toki sin pi jan Sonja lon
   * → ona li **telo** e kasi. *(ŝi akvumas la planton. — She waters the plant.)*
 
 wan lipu "[toki musi](#toki-musi)" li toki e nasin toki pi jan ala. taso tawa mi la ona li pona lon poka pi [toki lili](#toki-lili).
-*(La sekcio "Luda Lingvaĵo" traktas lingvouzojn, kiuj ne estas aplikataj, sed kiuj laŭ mi harmonias kun la "Kerna Lingvaĵo". — The section "Playful Language" treats ways of using the language, which seem to me to be in harmony with the "Core Language", but which are not applied.)*
+*(La sekcio "Eksperimenta Lingvaĵo" traktas lingvouzojn, kiuj ne estas aplikataj, sed kiuj laŭ mi harmonias kun la "Kerna Lingvaĵo". — The section "Experimental Language" treats ways of using the language, which seem to me to be in harmony with the "Core Language", but which are not applied.)*
 
 * o ~~pana~~ ala e ***luka*** ~~tawa~~ seli! *(Ne tuŝu la fajron! — Don't touch the fire!)*
   * → o ***luka*** ala e seli!
@@ -26,7 +26,7 @@ wan lipu "[toki nasa](#toki-nasa)" li toki e nasin toki sin pi jan nasa ni: ona 
   * → mi tawa ***poka*** jan pona.
 
 wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-lili) li kepeken [toki musi](#toki-musi). ona li [ale ala pi nimi mute, tan lipu suli pi toki pona](http://tokipona.net/tp/janpije/dictionary.php).
-*(La sekcio "Vortaro" uzas la Kernan Lingvaĵon kaj la Ludan Lingvaĵon. Ĝi ne estas la Oficiala Vortaro. — The section "Dictionary" uses the Core Language and the Playful Language. It is not the Official Dictionary.)*
+*(La sekcio "Vortaro" uzas la Kernan Lingvaĵon kaj la Eksperimentan Lingvaĵon. Ĝi ne estas la Oficiala Vortaro. — The section "Dictionary" uses the Core Language and the Experimental Language. It is not the Official Dictionary.)*
 
 ---
 
@@ -327,7 +327,7 @@ kama pi **nimi pi ijo poka** la **nimi kama palisa** "sama" li ken kama weka. *(
 *(Komunuma Lingvaĵo — Community Language)*
 
 ## toki musi
-*(Luda Lingvaĵo — Playful Language)*
+*(Eksperimenta Lingvaĵo — Experimental Language)*
 
 ### nimi palisa musi
 *(Eksperimentaj Prepozicioj — Experimental Prepositions)*
