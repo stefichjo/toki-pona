@@ -990,22 +990,22 @@ nimi "ona sama" li ken kama nimi "sama".
 
 ---
 
-### iyo jin bona
+### ijo zen bona
 *(Tokiponido — A Tokipona Dialect)*
 
-**toki Ijo Sin Pona** la nimi li ken ante.
-*(In Ijoĝinbona, vortoj povas esti diversaj. — In Iyo Jin Bona, words can differ.)*
+nimi li ken ante.
+*(Vortoj povas esti diversaj. — Words can differ.)*
 
 * ~~anu~~ → **an** *(aŭ — or)*
 
-**toki Ijo Sin Pona** la wan nimi nanpa wan li ken ala jo e kalama "i" anu kalama "u". wan nimi ante li ken ala jo e kalama "e" anu kalama "o".
-*(En Ijoĝinbona, la unua silabo ne povas havi la vokalon "i" aŭ "u". La aliaj silaboj ne povas havi la vokalon "e" aŭ "o". — In Iyojinbona, the first syllable can not have the vowel "i" or "u". The other syllables can not have the vowel "e" or "o".)*
+wan nimi nanpa wan li ken ala jo e kalama "i" anu kalama "u". wan nimi ante li ken ala jo e kalama "e" anu kalama "o".
+*(La unua silabo ne povas havi la vokalon "i" aŭ "u". La aliaj silaboj ne povas havi la vokalon "e" aŭ "o". — The first syllable can not have the vowel "i" or "u". The other syllables can not have the vowel "e" or "o".)*
 
 * ~~nimi~~ → **nemi** *(vorto — word)*
 * ~~kulupu~~ → **kolupu** *(grupo — group)*
 
-**toki Ijo Sin Pona** la nimi "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo", "waso" li weka.
-*(En Ijoĝinbona, "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" kaj "waso" estas for. — In Iyo Jin Bona, "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" and "waso" are gone.)*
+nimi "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo", "waso" li weka.
+*("akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" kaj "waso" estas for. — "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" and "waso" are gone.)*
 
 * ona li ~~moku~~ e pan. → ona li ***lon ota*** e pan. *(Ŝi manĝas la rizon. — She eats the rice.)*
 
@@ -1027,7 +1027,3 @@ kalama nanpa wan pi **nimi kama** li ken kama weka.
 * ~~jan pona~~ → **jen bona** [jen bona] *(amiko — friend)*
 * ~~tomo sina~~ → **tomu zena** [tomu zena] *(via domo — your house)*
 * ~~telo kili~~ → **telu geli** [telu geli] *(via domo — your house)*
-
-...
-
-* jan, anu → yen, an
