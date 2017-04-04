@@ -430,8 +430,8 @@ nimi **esun** li [nimi sijelo](#nimi-sijelo) musi.
 
 * mi ***kala*** telo. *(Mi naĝas en akvo. — I'm swimming in water.)*
 
-### nimi mun
-*(Vortoj pri Ĉielirantaj Objektoj — Words of Skywalking Objects)*
+### nimi mun musi
+*(Eksperimentaj Vortoj pri Ĉielirantaj Objektoj — Experimental Words of Skywalking Objects)*
 
 **nimi mun** li ken **nimi kama** taso. *(Vortoj pri ĉielirantaj objektoj povas esti nur modifiloj. — Words of skywalking objects can only be modifiers.)*
 
@@ -719,7 +719,7 @@ nimi "ona sama" li ken kama nimi "sama".
     * *(KAMA PALISA)* - kreskanta sur — growing on
     * *(KAMA)* - kreskanta — growing
   * *(LAWA)* - kreskanta vivaĵo: planto — growing living being: plant
-  * *([MUN°](#nimi-mun))* jupitera, ĵaŭda — jupiter's, thursday's
+  * *([MUN°](#nimi-mun-musi))* jupitera, ĵaŭda — jupiter's, thursday's
 * **ken** ***[ken]*** *([SULI](#nimi-suli))* - ebla — possible
   * *(WAWA PINI)* - povi, kapabli, rajti — can, to be able to, to be allowed to
 * **kepeken** ***[xebrewken]*** *([PALISA](#nimi-palisa))* = "***awen lon***"
@@ -734,7 +734,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **kiwen** ***[kiven]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - malmola — hard
   * *(LAWA)* - io malmola: ŝtono — something hard: stone
-  * *([MUN°](#nimi-mun))* venusa, vendreda — venus's, friday's
+  * *([MUN°](#nimi-mun-musi))* venusa, vendreda — venus's, friday's
 * **ko** ***[gow]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - duon-malmola — semi-solid
   * *(LAWA)* - io duon-malmola: pasto, pulvoro — something semi-solid: dough, powder
@@ -790,7 +790,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - vasta — vast
   * *(LAWA)* - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero — something vast: earth, soil, land, field, world, territory, outdoors
     * *(lon ... pi)* - ekster — outside
-  * *([MUN°](#nimi-mun))* saturna, sabata — saturn's, saturday's
+  * *([MUN°](#nimi-mun-musi))* saturna, sabata — saturn's, saturday's
 * **mama** ***[mama]*** *([JAN°](#nimi-jan-musi))*
   * *(KAMA)* - zorganta — care-taking@
   * *(LAWA)* - zorganta animaĵo: gepatro — care-taking animated being: parent
@@ -819,7 +819,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **mun** ***[mun]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - ĉielpromenanta — sky-walking
   * *(LAWA)* - io ĉielpromenanta: luno, stelo — something sky-walking: moon, star
-  * *([MUN°](#nimi-mun))* luna, lunda — moon's, monday's
+  * *([MUN°](#nimi-mun-musi))* luna, lunda — moon's, monday's
 * **musi** ~~amusi~~ ***[amuzi]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - ludi — to play
   * *(LAWA)* - io por ludi: ludo — something to play: game
@@ -903,7 +903,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA PALISA)* - kiel, parenca al — like, related to
   * *(KAMA)* - egala, sama, mem — alike, same, self
 * **seli** ***[cxeli]*** *([SULI](#nimi-suli))* - varma, arda — warm, hot
-  * *([MUN°](#nimi-mun))* marsa, marda — mars's, tuesday's
+  * *([MUN°](#nimi-mun-musi))* marsa, marda — mars's, tuesday's
 * **selo** ***[ŝelo]*** *([ILO°](#nimi-ilo-musi))*
   * *(WAWA PALISA)* - formi — to form
   * *(LAWA)* - organo por formi: haŭto, ŝelo — organ for forming: skin, shell
@@ -946,7 +946,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **suno** ***[suno]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - hela — bright
   * *(LAWA)* - io hela: suno — something bright: sun
-  * *([MUN°](#nimi-mun))* suna, dimanĉa — sun's, sunday's
+  * *([MUN°](#nimi-mun-musi))* suna, dimanĉa — sun's, sunday's
 * **supa** ***[surfac]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - ebena kaj ponta — even and bridging
   * *(LAWA)* - io ebena kaj ponta: lito, seĝo, ponto — something even and bridging: bed, chair, bridge
@@ -970,7 +970,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **telo** ***[de-l-o]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - likva, malseka — liquid, wet
   * *(LAWA)* - io likva, io malseka: akvo, trinkaĵo — something liquid, something wet: water, beverage
-  * *([MUN°](#nimi-mun))* merkura, merkreda — mercury's, wednesday's
+  * *([MUN°](#nimi-mun-musi))* merkura, merkreda — mercury's, wednesday's
 * **tenpo** ***[tempo]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - duma — during
   * *(LAWA)* - io duma: intervalo, paŭzo, tempo, daŭro, okazo, situacio — something during: interval, break, time, duration, occasion, situation
