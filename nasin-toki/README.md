@@ -599,7 +599,45 @@ nimi "ona sama" li ken kama nimi "sama".
 
 * mi ***olin e ni: mi*** kama sona e jan pona sina. *(Mi amas konatiĝi kun via amiko. — I love to get to know your friend.)*
   * → mi ***olin*** kama sona e jan pona sina.
- 
+
+### ijo zen bona
+*(Tokiponido — A Tokipona Dialect)*
+
+nimi li ken ante.
+*(Vortoj povas esti diversaj. — Words can differ.)*
+
+* ~~anu~~ → **an** *(aŭ — or)*
+
+wan nimi nanpa wan li ken ala jo e kalama "i" anu kalama "u". wan nimi ante li ken ala jo e kalama "e" anu kalama "o".
+*(La unua silabo ne povas havi la vokalon "i" aŭ "u". La aliaj silaboj ne povas havi la vokalon "e" aŭ "o". — The first syllable can not have the vowel "i" or "u". The other syllables can not have the vowel "e" or "o".)*
+
+* ~~nimi~~ → **nemi** *(vorto — word)*
+* ~~kulupu~~ → **kolupu** *(grupo — group)*
+
+nimi "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo", "waso" li weka.
+*("akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" kaj "waso" estas for. — "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" and "waso" are gone.)*
+
+* ona li ~~moku~~ e pan. → ona li ***alon ota*** e pan. *(Ŝi manĝas la rizon. — She eats the rice.)*
+
+kalama **[np]** li kama **[mp]** li jo e sitelen "**mp**".
+*(La sono [np] fariĝas [mp] kaj havas la literojn "mp". — The sound [np] becomes [mp] and has the letters [mp].)*
+
+* ~~tenpo~~ → ***tempu*** *(tempo — time)*
+
+kalama lon kama pi kalama **[i]** li kama ante.
+*(La sono antaŭ [i] povas varii. — The sound before [i] can vary.)*
+
+* ~~pipi~~ → ***pefi*** [pefi] *(insekto — insect)*
+* ~~kasi~~ → ***kaci*** [katŝi] *(planto — plant)*
+* ~~poki~~ → ***poxi*** [poĥi] *(flanko — side)*
+
+kalama nanpa wan pi **nimi kama** li ken kama weka.
+*(La unua sono de modifilo povas varii. — The sound of a modifier can vary.)*
+
+* ~~jan pona~~ → **jen bona** [jen bona] *(amiko — friend)*
+* ~~tomo sina~~ → **tomu zena** [tomu zena] *(via domo — your house)*
+* ~~telo kili~~ → **telu geli** [telu geli] *(via domo — your house)*
+
 ---
 
 # ale pi nimi mute
@@ -987,43 +1025,3 @@ nimi "ona sama" li ken kama nimi "sama".
   * **nimi lon kama pi nimi lili "la"** *(kunteksta — context)*
   * **mute nimi kama** *(subfrazo — subordinate clause)*
   * **mute nimi pi nimi "seme"** *(demanda frazo — interrogative sentence)*
-
----
-
-### ijo zen bona
-*(Tokiponido — A Tokipona Dialect)*
-
-nimi li ken ante.
-*(Vortoj povas esti diversaj. — Words can differ.)*
-
-* ~~anu~~ → **an** *(aŭ — or)*
-
-wan nimi nanpa wan li ken ala jo e kalama "i" anu kalama "u". wan nimi ante li ken ala jo e kalama "e" anu kalama "o".
-*(La unua silabo ne povas havi la vokalon "i" aŭ "u". La aliaj silaboj ne povas havi la vokalon "e" aŭ "o". — The first syllable can not have the vowel "i" or "u". The other syllables can not have the vowel "e" or "o".)*
-
-* ~~nimi~~ → **nemi** *(vorto — word)*
-* ~~kulupu~~ → **kolupu** *(grupo — group)*
-
-nimi "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo", "waso" li weka.
-*("akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" kaj "waso" estas for. — "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" and "waso" are gone.)*
-
-* ona li ~~moku~~ e pan. → ona li ***lon ota*** e pan. *(Ŝi manĝas la rizon. — She eats the rice.)*
-
-kalama **[np]** li kama **[mp]** li jo e sitelen "**mp**".
-*(La sono [np] fariĝas [mp] kaj havas la literojn "mp". — The sound [np] becomes [mp] and has the letters [mp].)*
-
-* ~~tenpo~~ → ***tempu*** *(tempo — time)*
-
-kalama lon kama pi kalama **[i]** li kama ante.
-*(La sono antaŭ [i] povas varii. — The sound before [i] can vary.)*
-
-* ~~pipi~~ → ***pefi*** [pefi] *(insekto — insect)*
-* ~~kasi~~ → ***kaci*** [katŝi] *(planto — plant)*
-* ~~poki~~ → ***poxi*** [poĥi] *(flanko — side)*
-
-kalama nanpa wan pi **nimi kama** li ken kama weka.
-*(La unua sono de modifilo povas varii. — The sound of a modifier can vary.)*
-
-* ~~jan pona~~ → **jen bona** [jen bona] *(amiko — friend)*
-* ~~tomo sina~~ → **tomu zena** [tomu zena] *(via domo — your house)*
-* ~~telo kili~~ → **telu geli** [telu geli] *(via domo — your house)*
