@@ -1037,3 +1037,7 @@ kalama "i", "u" li sin. kalama "e", "o" li kama "i", "u" lon ni: wan nimi li lil
 * moko → ***moku*** *(gluti — to swallow)*
 * akete → akiti → ***akisi*** *(reptilo, amfibio — reptile, amphibian)*
 * tejelo → tejilu → ***tewilu*** *(korpo — body)*
+
+...
+
+* jan, anu → yen, an
