@@ -442,54 +442,6 @@ nimi **esun** li [nimi sijelo](#nimi-sijelo) musi.
 
 * mi wile+pana e tomo-tawa-sina / tawa sina. *(Mi volas doni vian aŭton al vi. — I want to give your car to you.)*
 
-### ...
-
-#### kalama nimi en sitelen nimi
-*(Prononco kaj Ortografio — Pronunciation and Orthography)*
-
-kalama "j" li jo e sitelen "y".
-*(La sono "j" skribiĝas "y". — The sound "j" is written "y".)*
-
-* jelo → ***yelo*** *(flava — yellow)*
-
-kalama "np" li kama ante li jo e sitelen "mp".
-*(La sono "np" ŝanĝiĝas kaj skribiĝas "mp". — The sound "np" changes and is written "mp".)*
-
-* tenpo → ***tempo*** *(tempo — time)*
-
-kalama nanpa wan pi nimi kama en sitelen ona li ken kama ante.
-*(La unua sono de modifilo kaj ĝia letero povas ŝanĝiĝi. — The first sound of a modifier and its letter can change.)*
-
-* jan pona → yan ***bona*** *(amiko — friend)*
-* tomo tawa → tomo ***dawa*** *(aŭto — car)*
-* tempo suno → tempo ***zuno*** *(tago — day)*
-* jan kulupu → yan ***gulupu*** *(membro — member)*
-
-kalama lon kama pi kalama "i" li ken kama ante.
-*(La sono antaŭ "i" povas ŝanĝiĝi. — The sound before "i" can change.)*
-
-* pi → ***fi*** *(de — of, from)*
-* kasi → ***kaci*** *(planto — plant)*
-* toki → ***toxi*** *(komuniki — to communicate)* 
-
-tan ni la kalama nanpa wan pi nimi kama lon kama pi kalama "i" li ken kama ante mute.
-*(Tial, la komenca sono de modifilo povas tre variiĝi antaŭ "i". — Therefore, the first sound of a modifier can vary very much.)*
-
-* tenpo pini → tempo ***vini*** *(pasinto — past)*
-* soweli sina → soweli ***jina*** *(via kato — your cat)*
-* telo kili → telo ***hili*** *(suko — juice)*
-
-#### kalama nimi en sitelen nimi
-*(Prononco kaj Ortografio — Pronunciation and Orthography)*
-
-kalama "i", "u" li sin. kalama "e", "o" li kama "i", "u" lon ni: wan nimi li lili.
-*(La sonoj "i" kaj "u" estas novaj. La sonoj "e" kaj "o" fariĝas "i" kaj "u" kiam la silabo ne estas akcentata. — The sounds "i" and "u" are new. The sounds "e" and "o" become "i" and "u" when the syllable is not stressed.)*
-
-* toke → ***toki*** *(lingvo — language)*
-* moko → ***moku*** *(gluti — to swallow)*
-* akete → akiti → ***akisi*** *(reptilo, amfibio — reptile, amphibian)*
-* tejelo → tejilu → ***tewilu*** *(korpo — body)*
-
 ## toki nasa
 *(Freneza Lingvaĵo — Crazy Language)*
 
@@ -1035,3 +987,53 @@ nimi "ona sama" li ken kama nimi "sama".
   * **nimi lon kama pi nimi lili "la"** *(kunteksta — context)*
   * **mute nimi kama** *(subfrazo — subordinate clause)*
   * **mute nimi pi nimi "seme"** *(demanda frazo — interrogative sentence)*
+
+---
+
+### ...
+
+#### kalama nimi en sitelen nimi
+*(Prononco kaj Ortografio — Pronunciation and Orthography)*
+
+kalama "j" li jo e sitelen "y".
+*(La sono "j" skribiĝas "y". — The sound "j" is written "y".)*
+
+* jelo → ***yelo*** *(flava — yellow)*
+
+kalama "np" li kama ante li jo e sitelen "mp".
+*(La sono "np" ŝanĝiĝas kaj skribiĝas "mp". — The sound "np" changes and is written "mp".)*
+
+* tenpo → ***tempo*** *(tempo — time)*
+
+kalama nanpa wan pi nimi kama en sitelen ona li ken kama ante.
+*(La unua sono de modifilo kaj ĝia letero povas ŝanĝiĝi. — The first sound of a modifier and its letter can change.)*
+
+* jan pona → yan ***bona*** *(amiko — friend)*
+* tomo tawa → tomo ***dawa*** *(aŭto — car)*
+* tempo suno → tempo ***zuno*** *(tago — day)*
+* jan kulupu → yan ***gulupu*** *(membro — member)*
+
+kalama lon kama pi kalama "i" li ken kama ante.
+*(La sono antaŭ "i" povas ŝanĝiĝi. — The sound before "i" can change.)*
+
+* pi → ***fi*** *(de — of, from)*
+* kasi → ***kaci*** *(planto — plant)*
+* toki → ***toxi*** *(komuniki — to communicate)* 
+
+tan ni la kalama nanpa wan pi nimi kama lon kama pi kalama "i" li ken kama ante mute.
+*(Tial, la komenca sono de modifilo povas tre variiĝi antaŭ "i". — Therefore, the first sound of a modifier can vary very much.)*
+
+* tenpo pini → tempo ***vini*** *(pasinto — past)*
+* soweli sina → soweli ***jina*** *(via kato — your cat)*
+* telo kili → telo ***hili*** *(suko — juice)*
+
+#### kalama nimi en sitelen nimi
+*(Prononco kaj Ortografio — Pronunciation and Orthography)*
+
+kalama "i", "u" li sin. kalama "e", "o" li kama "i", "u" lon ni: wan nimi li lili.
+*(La sonoj "i" kaj "u" estas novaj. La sonoj "e" kaj "o" fariĝas "i" kaj "u" kiam la silabo ne estas akcentata. — The sounds "i" and "u" are new. The sounds "e" and "o" become "i" and "u" when the syllable is not stressed.)*
+
+* toke → ***toki*** *(lingvo — language)*
+* moko → ***moku*** *(gluti — to swallow)*
+* akete → akiti → ***akisi*** *(reptilo, amfibio — reptile, amphibian)*
+* tejelo → tejilu → ***tewilu*** *(korpo — body)*
