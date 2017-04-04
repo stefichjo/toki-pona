@@ -928,7 +928,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io duma: intervalo, paŭzo, tempo, daŭro, okazo, situacio — something during: interval, break, time, duration, occasion, situation
     * *(lon ... pi)* - dum — during
   * *(lon nasin sike pi ilo ...)* dekstrume — clockwise
-* **toki** ~~to~~ ***[tok]*** *([PALI](#nimi-pali))* = "***pana e sona pi ijo sin***"
+* **toki** ~~to~~ ***[tok]*** *([PALI](#nimi-pali))* = "***pana e ijo sin***"
   * *(WAWA PALISA)* - komuniki — to communicate
   * *(LAWA)* - io por komuniki: mesaĝo — something to communicate: message
 * **tomo** ***[domo]*** *([IJO°](#nimi-ijo-musi))*
@@ -990,7 +990,7 @@ nimi "ona sama" li ken kama nimi "sama".
 
 ---
 
-### ...
+### pana bona fi iyo zin
 
 #### kalama nimi en sitelen nimi
 *(Prononco kaj Ortografio — Pronunciation and Orthography)*
