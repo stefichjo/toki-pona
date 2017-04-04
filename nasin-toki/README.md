@@ -448,19 +448,6 @@ nimi **esun** li [nimi sijelo](#nimi-sijelo) musi.
 ### toki kipisi
 *(Kripla Lingvaĵo — Crippled Language)*
 
-#### nimi wawa palisa
-*(Transitivaj Verboj — Transitive Verbs)*
-
-##### nimi wawa palisa tan nimi lawa
-*(Transitiva Verbo el Substantivo — Transitive Verbs from Nouns)*
-
-nimi "pana e" li ken kama weka.
-*("pana e" povas malaperi. — "pana e" can disappear.)*
-
-* mi telo e kasi. *(Mi malsekigas la planton. — I wet the plant.)*
-* mi ***pana e telo tawa*** kasi. *(Mi akvumas la planton. — I water the plant.)*
-  * → mi ***telo e*** kasi.
-
 #### nimi lili "pi"
 *(Genitivo — Genitive)*
 
@@ -599,6 +586,8 @@ nimi "ona sama" li ken kama nimi "sama".
 
 * mi ***olin e ni: mi*** kama sona e jan pona sina. *(Mi amas konatiĝi kun via amiko. — I love to get to know your friend.)*
   * → mi ***olin*** kama sona e jan pona sina.
+
+## toki sin
 
 ### ijo zen bona
 *(Tokiponido — A Tokipona Dialect)*
