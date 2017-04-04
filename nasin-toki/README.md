@@ -996,6 +996,12 @@ nimi "ona sama" li ken kama nimi "sama".
 **toki Ijo Sin Pona** la nimi "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo", "waso" li lon ala.
 *(En Ijoĝinbona, "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" kaj "waso" ne estas. — In Iyo Jin Bona, "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" and "waso" are not there.)*
 
+**toki Ijo Sin Pona** la wan nimi nanpa wan li ken ala jo e kalama "i" anu kalama "u". wan nimi ante li ken ala jo e kalama "e" anu kalama "o".
+*(En Ijoĝinbona, la unua silabo ne povas havi la vokalon "i" aŭ "u". La aliaj silaboj ne povas havi la vokalon "e" aŭ "o". — In Iyojinbona, the first syllable can not have the vowel "i" or "u". The other syllables can not have the vowel "e" or "o".)*
+
+* ~~nimi~~ → **nemi** *(vorto — word)*
+* ~~kulupu~~ → **kolupu** *(grupo — group)*
+
 #### kalama nimi en sitelen nimi
 *(Prononco kaj Ortografio — Pronunciation and Orthography)*
 
@@ -1031,16 +1037,6 @@ tan ni la kalama nanpa wan pi nimi kama lon kama pi kalama "i" li ken kama ante 
 * soweli sina → soweli ***jina*** *(via kato — your cat)*
 * telo kili → telo ***hili*** *(suko — juice)*
 
-#### kalama nimi en sitelen nimi
-*(Prononco kaj Ortografio — Pronunciation and Orthography)*
-
-kalama "i", "u" li sin. kalama "e", "o" li kama "i", "u" lon ni: wan nimi li lili.
-*(La sonoj "i" kaj "u" estas novaj. La sonoj "e" kaj "o" fariĝas "i" kaj "u" kiam la silabo ne estas akcentata. — The sounds "i" and "u" are new. The sounds "e" and "o" become "i" and "u" when the syllable is not stressed.)*
-
-* toke → ***toki*** *(lingvo — language)*
-* moko → ***moku*** *(gluti — to swallow)*
-* akete → akiti → ***akisi*** *(reptilo, amfibio — reptile, amphibian)*
-* tejelo → tejilu → ***tewilu*** *(korpo — body)*
 
 ...
 
