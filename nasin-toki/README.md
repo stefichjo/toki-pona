@@ -990,7 +990,7 @@ nimi "ona sama" li ken kama nimi "sama".
 
 ---
 
-### pana bona fi iyo zin
+### pana bona fi iyo jin
 
 #### kalama nimi en sitelen nimi
 *(Prononco kaj Ortografio — Pronunciation and Orthography)*
