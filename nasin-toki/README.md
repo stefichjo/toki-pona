@@ -712,14 +712,7 @@ nimi "ona sama" li ken kama nimi "sama".
 * **kama** ***[kam-ap]*** *([SULI](#nimi-suli))* - alvena — arriving
   * *(WAWA PINI)* - -iĝ-, sukcesi — to become, to succeed
   * *(lon ... pi)* - antaŭ — before
-  * *()*
-
-* lon nasin sike pi ilo tenpo *(dekstrume — clockwise)*
-* poka pi suno kama *(la flanko de la venonta suno → oriento — the side of the coming sun → east)*
-* poka pi suno weka *(la flanko de la malaperinta suno → okcidento — the side of the disappeared sun → west)*
-* poka pi suno tawa *(la flanko de la iranta suno → ekvatoro → sudo/nordo — the side of the coming sun → south/north)*
-* poka pi suno ala *(la flanko de nenia suno → norda/suda poluso → nordo/sudo — the side of no sun → north/south)*
-
+  * *(lon poka pi suno ...)* - oriente — in the east
 * **kasi** ***[kasvi]*** *([SIJELO](#nimi-sijelo))* = "***sijelo ma***"
   * *([PALISA](#nimi-palisa))*
     * *(KAMA PALISA)* - kreskanta sur — growing on
@@ -1012,6 +1005,14 @@ nimi "ona sama" li ken kama nimi "sama".
   * *([IJO](#nimi-ijo))*
     * *(LAWA)* - ie for — somewhere far away
     * *(lon ...)* - for — away
+  * *(lon poka pi suno ...)* - okcidente — in the west
+
+* lon nasin sike pi ilo tenpo *(dekstrume — clockwise)*
+  * *(lon poka pi suno ...)* - oriente — in the east
+* poka pi suno weka *(la flanko de la malaperinta suno → okcidento — the side of the disappeared sun → west)*
+* poka pi suno tawa *(la flanko de la iranta suno → ekvatoro → sudo/nordo — the side of the coming sun → south/north)*
+* poka pi suno ala *(la flanko de nenia suno → norda/suda poluso → nordo/sudo — the side of no sun → north/south)*
+
 * **wile** ***[wille]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - deziri, bezoni — to desire, to need
   * *(LAWA)* - io por deziri, io por bezoni: neceso — something to desire, something to need: necessity
