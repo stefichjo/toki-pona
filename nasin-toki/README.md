@@ -993,8 +993,10 @@ nimi "ona sama" li ken kama nimi "sama".
 ### iyo jin bona
 *(Tokiponido — A Tokipona Dialect)*
 
-**toki Ijo Sin Pona** la nimi "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo", "waso" li lon ala.
-*(En Ijoĝinbona, "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" kaj "waso" ne estas. — In Iyo Jin Bona, "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" and "waso" are not there.)*
+**toki Ijo Sin Pona** la nimi li ken ante.
+*(In Ijoĝinbona, vortoj povas esti diversaj. — In Iyo Jin Bona, words can differ.)*
+
+* ~~anu~~ → **an** *(aŭ — or)*
 
 **toki Ijo Sin Pona** la wan nimi nanpa wan li ken ala jo e kalama "i" anu kalama "u". wan nimi ante li ken ala jo e kalama "e" anu kalama "o".
 *(En Ijoĝinbona, la unua silabo ne povas havi la vokalon "i" aŭ "u". La aliaj silaboj ne povas havi la vokalon "e" aŭ "o". — In Iyojinbona, the first syllable can not have the vowel "i" or "u". The other syllables can not have the vowel "e" or "o".)*
@@ -1002,41 +1004,29 @@ nimi "ona sama" li ken kama nimi "sama".
 * ~~nimi~~ → **nemi** *(vorto — word)*
 * ~~kulupu~~ → **kolupu** *(grupo — group)*
 
-#### kalama nimi en sitelen nimi
-*(Prononco kaj Ortografio — Pronunciation and Orthography)*
+**toki Ijo Sin Pona** la nimi "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo", "waso" li weka.
+*(En Ijoĝinbona, "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" kaj "waso" estas for. — In Iyo Jin Bona, "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" and "waso" are gone.)*
 
-kalama "j" li jo e sitelen "y".
-*(La sono "j" skribiĝas "y". — The sound "j" is written "y".)*
+* ona li ~~moku~~ e pan. → ona li ***lon ota*** e pan. *(Ŝi manĝas la rizon. — She eats the rice.)*
 
-* jelo → ***yelo*** *(flava — yellow)*
+kalama **[np]** li kama **[mp]** li jo e sitelen "**mp**".
+*(La sono [np] fariĝas [mp] kaj havas la literojn "mp". — The sound [np] becomes [mp] and has the letters [mp].)*
 
-kalama "np" li kama ante li jo e sitelen "mp".
-*(La sono "np" ŝanĝiĝas kaj skribiĝas "mp". — The sound "np" changes and is written "mp".)*
+* ~~tenpo~~ → ***tempu*** *(tempo — time)*
 
-* tenpo → ***tempo*** *(tempo — time)*
+kalama lon kama pi kalama **[i]** li kama ante.
+*(La sono antaŭ [i] povas varii. — The sound before [i] can vary.)*
 
-kalama nanpa wan pi nimi kama en sitelen ona li ken kama ante.
-*(La unua sono de modifilo kaj ĝia letero povas ŝanĝiĝi. — The first sound of a modifier and its letter can change.)*
+* ~~pipi~~ → ***pefi*** [pefi] *(insekto — insect)*
+* ~~kasi~~ → ***kaci*** [katŝi] *(planto — plant)*
+* ~~poki~~ → ***poxi*** [poĥi] *(flanko — side)*
 
-* jan pona → yan ***bona*** *(amiko — friend)*
-* tomo tawa → tomo ***dawa*** *(aŭto — car)*
-* tempo suno → tempo ***zuno*** *(tago — day)*
-* jan kulupu → yan ***gulupu*** *(membro — member)*
+kalama nanpa wan pi **nimi kama** li ken kama weka.
+*(La unua sono de modifilo povas varii. — The sound of a modifier can vary.)*
 
-kalama lon kama pi kalama "i" li ken kama ante.
-*(La sono antaŭ "i" povas ŝanĝiĝi. — The sound before "i" can change.)*
-
-* pi → ***fi*** *(de — of, from)*
-* kasi → ***kaci*** *(planto — plant)*
-* toki → ***toxi*** *(komuniki — to communicate)* 
-
-tan ni la kalama nanpa wan pi nimi kama lon kama pi kalama "i" li ken kama ante mute.
-*(Tial, la komenca sono de modifilo povas tre variiĝi antaŭ "i". — Therefore, the first sound of a modifier can vary very much.)*
-
-* tenpo pini → tempo ***vini*** *(pasinto — past)*
-* soweli sina → soweli ***jina*** *(via kato — your cat)*
-* telo kili → telo ***hili*** *(suko — juice)*
-
+* ~~jan pona~~ → **jen bona** [jen bona] *(amiko — friend)*
+* ~~tomo sina~~ → **tomu zena** [tomu zena] *(via domo — your house)*
+* ~~telo kili~~ → **telu geli** [telu geli] *(via domo — your house)*
 
 ...
 
