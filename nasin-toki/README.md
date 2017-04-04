@@ -664,6 +664,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - neniu — no
   * *(LAWA)* - nenio — nothing
   * *([NANPA](#nimi-nanpa))* - nul — zero
+  * *(lon poka pi suno ...)* - nordpoluse/sudpoluse, norde/sude — at the northpole/southpole, in the north/south
 * **alasa** ***[?]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - ĉasi, kolekti — to hunt, to collect
   * *(LAWA)* - io por ĉasi, io por kolekti: foraĝo — something to hunt, something to collect: forage
@@ -965,6 +966,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA PALISA)* - al, por — to, toward, for
   * *(KAMA)* - moviĝanta — moving
   * *([WAWA PINI°](#nimi-wawa-pini-musi))* - esti -onta — to be about to
+  * *(lon poka pi suno ...)* - ekvatore, sude/norde — at the equator, in the south/north
 * **telo** ***[de-l-o]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - likva, malseka — liquid, wet
   * *(LAWA)* - io likva, io malseka: akvo, trinkaĵo — something liquid, something wet: water, beverage
@@ -973,6 +975,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(KAMA)* - duma — during
   * *(LAWA)* - io duma: intervalo, paŭzo, tempo, daŭro, okazo, situacio — something during: interval, break, time, duration, occasion, situation
     * *(lon ... pi)* - dum — during
+  * *(lon nasin sike pi ilo ...)* dekstrume — clockwise
 * **toki** ~~to~~ ***[tok]*** *([PALI](#nimi-pali))* = "***pana e sona pi ijo sin***"
   * *(WAWA PALISA)* - komuniki — to communicate
   * *(LAWA)* - io por komuniki: mesaĝo — something to communicate: message
@@ -1006,13 +1009,6 @@ nimi "ona sama" li ken kama nimi "sama".
     * *(LAWA)* - ie for — somewhere far away
     * *(lon ...)* - for — away
   * *(lon poka pi suno ...)* - okcidente — in the west
-
-* lon nasin sike pi ilo tenpo *(dekstrume — clockwise)*
-  * *(lon poka pi suno ...)* - oriente — in the east
-* poka pi suno weka *(la flanko de la malaperinta suno → okcidento — the side of the disappeared sun → west)*
-* poka pi suno tawa *(la flanko de la iranta suno → ekvatoro → sudo/nordo — the side of the coming sun → south/north)*
-* poka pi suno ala *(la flanko de nenia suno → norda/suda poluso → nordo/sudo — the side of no sun → north/south)*
-
 * **wile** ***[wille]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - deziri, bezoni — to desire, to need
   * *(LAWA)* - io por deziri, io por bezoni: neceso — something to desire, something to need: necessity
