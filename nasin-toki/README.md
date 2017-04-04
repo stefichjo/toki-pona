@@ -928,7 +928,7 @@ nimi "ona sama" li ken kama nimi "sama".
   * *(LAWA)* - io duma: intervalo, paŭzo, tempo, daŭro, okazo, situacio — something during: interval, break, time, duration, occasion, situation
     * *(lon ... pi)* - dum — during
   * *(lon nasin sike pi ilo ...)* dekstrume — clockwise
-* **toki** ~~to~~ ***[tok]*** *([PALI](#nimi-pali))* = "***pana e ijo sin***"
+* **toki** ~~to~~ ***[tok]*** *([PALI](#nimi-pali))* = "***ijo sin***"
   * *(WAWA PALISA)* - komuniki — to communicate
   * *(LAWA)* - io por komuniki: mesaĝo — something to communicate: message
 * **tomo** ***[domo]*** *([IJO°](#nimi-ijo-musi))*
@@ -990,7 +990,11 @@ nimi "ona sama" li ken kama nimi "sama".
 
 ---
 
-### pana bona fi iyo jin
+### iyo jin bona
+*(Tokiponido — A Tokipona Dialect)*
+
+**toki Ijo Sin Pona** la nimi "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo", "waso" li lon ala.
+*(En Ijoĝinbona, "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" kaj "waso" ne estas. — In Iyo Jin Bona, "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" and "waso" are not there.)*
 
 #### kalama nimi en sitelen nimi
 *(Prononco kaj Ortografio — Pronunciation and Orthography)*
