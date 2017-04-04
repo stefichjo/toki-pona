@@ -437,12 +437,12 @@ nimi **esun** li [nimi sijelo](#nimi-sijelo) musi.
 
 * tan tenpo suno ***Mun*** tawa tenpo suno ***Kiwen*** la jan li ken lukin e loje pi mun ***Seli***. *(De lundo ĝis vendredo, oni povas vidi la ruĝon de marso. — From Monday to Friday one can see the red of Mars.)*
 
-### ...
-
-#### sitelen lon poka nimi
-*(Interpunkcio — Punctuation)*
+### sitelen musi lon poka nimi
+*(Eksperimenta Interpunkcio — Experimental Punctuation)*
 
 * mi wile+pana e tomo-tawa-sina / tawa sina. *(Mi volas doni vian aŭton al vi. — I want to give your car to you.)*
+
+### ...
 
 #### kalama nimi en sitelen nimi
 *(Prononco kaj Ortografio — Pronunciation and Orthography)*
