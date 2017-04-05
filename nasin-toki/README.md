@@ -19,7 +19,7 @@ wan lipu "[toki musi](#toki-musi)" li toki e nasin toki pi jan ala. taso tawa mi
 * o ***luka*** ala e seli! *(Ne tuŝu la fajron! — Don't touch the fire!)*
  
 wan lipu "[toki nasa](#toki-nasa)" li toki e nasin toki sin pi jan nasa ni: ona li wile ante e toki pona.
-*(La sekcio "Freneza Lingvaĵo" traktas la aldonan lingvouzon de tokiponidistoj. — The section "Crazy Language" treats the additional way of how speakers of Toki Pona dialects use the language.)*
+*(La sekcio "Stranga Lingvaĵo" traktas la aldonan lingvouzon de tokiponidistoj. — The section "Strange Language" treats the additional way of how speakers of Toki Pona dialects use the language.)*
 
 * mi tawa ~~lon~~ ***poka*** ~~pi~~ jan pona. *(Mi iras kun amiko. — I am going with a friend.)*
   * → mi tawa ***poka*** jan pona.
@@ -447,7 +447,7 @@ nimi **esun** li [nimi sijelo](#nimi-sijelo) musi.
 * mi wile+pana e tomo-tawa-sina / tawa sina. *(Mi volas doni vian aŭton al vi. — I want to give your car to you.)*
 
 ## toki nasa
-*(Freneza Lingvaĵo — Crazy Language)*
+*(Stranga Lingvaĵo — Strange Language)*
 
 ### nimi lili "pi" nasa
 *(Stranga Genitivo — Strange Genitive)*
@@ -466,17 +466,31 @@ kama pi [nimi pi jan anu ijo](#nimi-pi-jan-anu-ijo) la [nimi lili "pi"](#nimi-li
 * tomo pi telo nasa, pi jan pona *(trinkejo de amiko — a friend's bar)*
   * → tomo pi telo nasa pi jan pona
 
+### nimi wawa pini nasa
+*(Strangaj Helpaj Verboj — Strange Auxiliary Verbs)*
+
+nimi "pana" li ken kama [nimi wawa pini](#nimi-wawa-pini).
+
+* mi **pana** e sona pi toki pona tawa sina. *(Mi instruas Tokiponon al vi.)*
+  * mi **pana** sona e toki pona tawa sina.
+
+**nimi wawa palisa** ale li ken kama **nimi wawa pini**.
+*(Ĉiu transitiva verbo povas fariĝi helpa verbo. — Every transitive verb can become an auxiliary verb.)*
+
+* mi ***olin e ni: mi*** kama sona e jan pona sina. *(Mi amas konatiĝi kun via amiko. — I love to get to know your friend.)*
+  * → mi ***olin*** kama sona e jan pona sina.
+
 ### mute nimi kama nasa
 *(Strangaj Subfrazoj — Strange Subordinate Clauses)*
 
 kama pi **mute nimi kama** li ken kama weka.
 *(La komenco de subfrazo povas malaperi. — The beginning of a subordinate clause can disappear.)*
 
-* mi sona e jan e ni: ona li kama sona. *(Mi konas iun kaj mi scias, ke li lernas. — I know someone and that he is learning.)*
-  * mi sona e jan pi ~~ijo ni:~~ ona li kama sona. *(Mi konas iun, kiu studas. — I know someone, who is studying.)*
-    * → mi sona e jan pi ~~ona~~ li kama sona. *(Mi konas iun studantan. — I know someone studying.)*
-      * → mi sona e jan pi ~~li~~ kama sona. *(Mi konas studanton. — I know a student.)*
-        * → mi sona e jan pi kama sona.
+* mi sona e jan e ni: ona li kama sona e toki pona. *(Mi konas iun kaj mi scias, ke li studas Tokiponon. — I know someone and that he is studying Toki Pona.)*
+  * mi sona e jan pi ~~ijo ni:~~ ona li kama sona e toki pona. *(Mi konas iun, kiu studas Tokiponon. — I know someone, who is studying Toki Pona.)*
+    * → mi sona e jan pi ~~ona~~ li kama sona e toki pona. *(Mi konas iun studantan Tokiponon. — I know someone studying Toki Pona.)*
+      * → mi sona e jan pi ~~li~~ kama sona e toki pona. *(Mi konas studanton de Tokipono. — I know a student of Toki Pona.)*
+        * → mi sona e jan pi kama sona e toki pona.
 
 ### ...
 
@@ -576,12 +590,6 @@ nimi "ona sama" li ken kama nimi "sama".
 * mi ***lon poka pi*** jan pona. *(Mi estas apud amiko. — I'm next to a friend.)*
   * → mi ***poka*** jan pona.
     * → mi ***poka e*** jan pona.
-
-**nimi wawa** li ken kama **nimi wawa pini**.
-*(Verbo povas fariĝi helpa verbo. — Verbs can become auxiliary verbs.)*
-
-* mi ***olin e ni: mi*** kama sona e jan pona sina. *(Mi amas konatiĝi kun via amiko. — I love to get to know your friend.)*
-  * → mi ***olin*** kama sona e jan pona sina.
 
 ## toki sin
 
