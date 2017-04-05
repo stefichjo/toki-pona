@@ -459,8 +459,8 @@ kama pi [nimi pi jan anu ijo](#nimi-pi-jan-anu-ijo) la [nimi lili "pi"](#nimi-li
 *(Antaŭ pronomo, la partikulo "pi" povas resti. "ijo" antaŭ genitiva frazero povas malaperi. — In front of a pronoun, the particle "pi" can remain. "ijo" in front of a genitive phrase can disappear.)*
 
 * ni li ijo mi. *(Tio apartenas al mi. — This belongs to me.)*
-  * ni li ~~ijo~~ ***pi*** mi.
-    * → ni li ***pi mi***. *(Tio estas mia. — This is mine.)*
+  * ni li ~~ijo~~ ***pi mi***. *(Tio estas mia. — This is mine.)*
+    * → ni li ***pi mi***.
 
 #### nimi lili "pi" lon pini pi nimi lon pini pi nimi lili "pi"
 *(Rekursiva Genitiva Frazero — Recursive Genitive Phrase)*
