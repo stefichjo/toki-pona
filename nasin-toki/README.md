@@ -449,11 +449,8 @@ nimi **esun** li [nimi sijelo](#nimi-sijelo) musi.
 ## toki nasa
 *(Freneza Lingvaĵo — Crazy Language)*
 
-### toki kipisi
-*(Kripla Lingvaĵo — Crippled Language)*
-
-#### nimi lili "pi" lon kama pi nimi pi jan anu ijo
-*(Posedaj Pronomoj — Possessive Pronouns)*
+### nimi lili "pi" nasa
+*(Stranga Genitivo — Strange Genitive)*
 
 kama pi [nimi pi jan anu ijo](#nimi-pi-jan-anu-ijo) la [nimi lili "pi"](#nimi-lili-pi) li ken awen. nimi "ijo" lon kama pi [nimi lili "pi"](#nimi-lili-pi) li ken kama weka.
 *(Antaŭ pronomo, la partikulo "pi" povas resti. "ijo" antaŭ genitiva frazero povas malaperi. — In front of a pronoun, the particle "pi" can remain. "ijo" in front of a genitive phrase can disappear.)*
@@ -462,9 +459,6 @@ kama pi [nimi pi jan anu ijo](#nimi-pi-jan-anu-ijo) la [nimi lili "pi"](#nimi-li
   * ni li ~~ijo~~ ***pi mi***. *(Tio estas mia. — This is mine.)*
     * → ni li ***pi mi***.
 
-#### nimi lili "pi" lon pini pi nimi lon pini pi nimi lili "pi"
-*(Rekursiva Genitiva Frazero — Recursive Genitive Phrase)*
-
 [nimi lili "pi"](#nimi-lili-pi) li ken ala lon pini pi nimi pi [nimi lili "pi"](nimi-lili-pi). tan ni la **sitelen nanpa** li lon ala lon [nimi lili "pi"](#nimi-lili-pi) tu.
 *(Ne ekzistas rekursivaj genitivaj frazeroj. Tial ne estas komo ĉe du genitivaj frazeroj. — There are no recursive genitive phrases. Therefore there is no comma with two genitive phrases.)*
 
@@ -472,8 +466,8 @@ kama pi [nimi pi jan anu ijo](#nimi-pi-jan-anu-ijo) la [nimi lili "pi"](#nimi-li
 * tomo pi telo nasa, pi jan pona *(trinkejo de amiko — a friend's bar)*
   * → tomo pi telo nasa pi jan pona
 
-#### mute nimi kama
-*(Subfrazoj — Subordinate Clauses)*
+### mute nimi kama nasa
+*(Strangaj Subfrazoj — Strange Subordinate Clauses)*
 
 kama pi **mute nimi kama** li ken kama weka.
 *(La komenco de subfrazo povas malaperi. — The beginning of a subordinate clause can disappear.)*
@@ -483,6 +477,8 @@ kama pi **mute nimi kama** li ken kama weka.
     * → mi sona e jan pi ~~ona~~ li kama sona. *(Mi konas iun studantan. — I know someone studying.)*
       * → mi sona e jan pi ~~li~~ kama sona. *(Mi konas studanton. — I know a student.)*
         * → mi sona e jan pi kama sona.
+
+### ...
 
 #### nimi kama palisa
 *(Prepozicioj — Prepositions)*
