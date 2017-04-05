@@ -452,21 +452,24 @@ nimi **esun** li [nimi sijelo](#nimi-sijelo) musi.
 ### toki kipisi
 *(Kripla Lingvaĵo — Crippled Language)*
 
-#### nimi lili "pi"
-*(Genitivo — Genitive)*
+#### nimi lili "pi" lon kama pi nimi pi jan anu ijo
+*(Posedaj Pronomoj — Possessive Pronouns)*
 
-**nimi lili** "pi" li ken awen lon kama pi **nimi lawa** wan taso. ni la **nimi lili** "pi" lon poka pi **nimi lawa** li sama **nimi wawa**.
-*(La partikulo "pi" povas resti antaŭ ununura substantivo. Tiam la partikulo "pi" kune kun la substantivo ŝajnas verbo. — The particle "pi" can stay before a single noun. Then the particle "pi" together with the noun seem to be a verb.)*
+kama pi [nimi pi jan anu ijo](#nimi-pi-jan-anu-ijo) la [nimi lili "pi"](#nimi-lili-pi) li ken awen. nimi "ijo" lon kama pi [nimi lili "pi"](#nimi-lili-pi) li ken kama weka.
+*(Antaŭ pronomo, la partikulo "pi" povas resti. "ijo" antaŭ genitiva frazero povas malaperi. — In front of a pronoun, the particle "pi" can remain. "ijo" in front of a genitive phrase can disappear.)*
 
 * ni li ijo mi. *(Tio apartenas al mi. — This belongs to me.)*
-  * → ni li ijo pi mi. *(Tio estas io de mi. — This is something of me.)*
-    * → ni li pi mi. *(Tio estas mia. — This is mine.)*
+  * ni li ~~ijo~~ ***pi*** mi.
+    * → ni li ***pi mi***. *(Tio estas mia. — This is mine.)*
 
-nimi lon pini pi **nimi lili** "pi" li wile ala e sitelen nanpa.
-*(Genitivoj ne bezonas komon. — Genitives don't need commas.)*
+#### nimi lili "pi" lon pini pi nimi lon pini pi nimi lili "pi"
+*(Rekursiva Genitiva Frazero — Recursive Genitive Phrase)*
 
-* tomo pi telo nasa pi mi mute *(domo de nia biero — house of our beer)*
-* tomo pi telo nasa, pi jan pona *(nia trinkejo — our bar)*
+[nimi lili "pi"](#nimi-lili-pi) li ken ala lon pini pi nimi pi [nimi lili "pi"](nimi-lili-pi). tan ni la **sitelen nanpa** li lon ala lon [nimi lili "pi"](#nimi-lili-pi) tu.
+*(Ne ekzistas rekursivaj genitivaj frazeroj. Tial ne estas komo ĉe du genitivaj frazeroj. — There are no recursive genitive phrases. Therefore there is no comma with two genitive phrases.)*
+
+* ~~tomo pi telo nasa pi jan pona~~ *(domo de biero de amiko — house of a friend's beer)*
+* tomo pi telo nasa, pi jan pona *(trinkejo de amiko — a friend's bar)*
   * → tomo pi telo nasa pi jan pona
 
 #### mute nimi kama
@@ -593,7 +596,7 @@ nimi "ona sama" li ken kama nimi "sama".
 
 ## toki sin
 
-### ijo zen bona
+### eju zen bona
 *(Tokiponido — A Tokipona Dialect)*
 
 nimi li ken ante.
@@ -617,19 +620,19 @@ kalama **[np]** li kama **[mp]** li jo e sitelen "**mp**".
 
 * ~~tenpo~~ → ***tempu*** *(tempo — time)*
 
-kalama lon kama pi kalama **[i]** li kama ante.
+kalama lon kama pi kalama **[i]** li kama ante tan kalama **[p]**, **[t]**, **[k]** tawa kalama **[f]**, **[ĉ]**, **[ĥ]**.
 *(La sono antaŭ [i] povas varii. — The sound before [i] can vary.)*
 
-* ~~pipi~~ → ***pefi*** [pefi] *(insekto — insect)*
-* ~~kasi~~ → ***kaci*** [katŝi] *(planto — plant)*
-* ~~poki~~ → ***poxi*** [poĥi] *(flanko — side)*
+* ~~pipi~~ → ***pefi*** *(insekto — insect)*
+* ~~kasi~~ → ***kaci*** *(planto — plant)*
+* ~~poki~~ → ***poxi*** *(flanko — side)*
 
 kalama nanpa wan pi **nimi kama** li ken kama weka.
 *(La unua sono de modifilo povas varii. — The sound of a modifier can vary.)*
 
-* ~~jan pona~~ → **jen bona** [jen bona] *(amiko — friend)*
-* ~~tomo sina~~ → **tomu zena** [tomu zena] *(via domo — your house)*
-* ~~telo kili~~ → **telu geli** [telu geli] *(via domo — your house)*
+* ~~jan pona~~ → **jen bona** *(amiko — friend)*
+* ~~tomo sina~~ → **tomu zena** *(via domo — your house)*
+* ~~telo kili~~ → **telu geli** *(suko — juice)*
 
 ---
 
