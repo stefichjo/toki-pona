@@ -671,7 +671,7 @@ kalama nanpa wan pi **nimi kama** li ken kama weka.
   * *(WAWA PINI)* - plu- — to continue to
 * **e** ***[?]*** *([LILI](#nimi-lili-e))* - -n — (accusative)
 * **en** ***[en]*** *([LILI](#nimi-lili-en-anu))* - kaj — and
-* **esun** ***[?]*** *([SIJELO°](#nimi-sijelo-musi))*
+* **esun** ***[edẑum]*** *([SIJELO°](#nimi-sijelo-musi))*
   * *([PALISA](#nimi-palisa))*
     * *(KAMA PALISA)* - anstataŭ — in exchange for, instead of
     * *(KAMA)* - anstataŭa — substitute
