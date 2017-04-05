@@ -475,21 +475,14 @@ kama pi [nimi pi jan anu ijo](#nimi-pi-jan-anu-ijo) la [nimi lili "pi"](#nimi-li
 #### mute nimi kama
 *(Subfrazoj — Subordinate Clauses)*
 
-nimi pi **mute nimi** lon insa pi **mute nimi** li ken kama weka.
-*(Vortoj de subfrazo povas malaperi. — Words of a subordinate clause can disappear.)*
+kama pi **mute nimi kama** li ken kama weka.
+*(La komenco de subfrazo povas malaperi. — The beginning of a subordinate clause can disappear.)*
 
-* mi pana e moku tawa jan (ni), ona li kama lon tomo mi. *(Mi donis manĝon al (t)iu persono, kiu aperis en mia domo. — I gave food to a/this person, who appeared in my house.)*
-  * → mi pana e moku tawa jan (ni): ona li kama lon tomo mi.
-    * → mi pana e moku tawa jan (ni) pi ijo ni: ona li kama lon tomo mi.
-      * → mi pana e moku tawa jan (ni) pi ona li kama lon tomo mi.
-        * → mi pana e moku tawa jan (ni) pi li kama lon tomo mi.
-          * → mi pana e moku tawa jan (ni) pi kama lon tomo mi.
-
-ni la **nimi wawa pini** li ken sama **nimi kama pini** mu.
-*(Tiam helpa verbo povas ŝajni ia "helpa modifilo". — In this case, an auxiliary verb can seem to be some sort of an "auxiliary modifier".)*
-
-* ona li jan pi ~~ijo ni: ona li~~ **kama sona**.
-  * → ona li jan pi **kama sona**.
+* mi sona e jan e ni: ona li kama sona. *(Mi konas iun kaj mi scias, ke li lernas. — I know someone and that he is learning.)*
+  * mi sona e jan pi ~~ijo ni:~~ ona li kama sona. *(Mi konas iun, kiu studas. — I know someone, who is studying.)*
+    * → mi sona e jan pi ~~ona~~ li kama sona. *(Mi konas iun studantan. — I know someone studying.)*
+      * → mi sona e jan pi ~~li~~ kama sona. *(Mi konas studanton. — I know a student.)*
+        * → mi sona e jan pi kama sona.
 
 #### nimi kama palisa
 *(Prepozicioj — Prepositions)*
