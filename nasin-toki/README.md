@@ -474,8 +474,6 @@ kama pi [nimi pi jan anu ijo](#nimi-pi-jan-anu-ijo) la [nimi lili "pi"](#nimi-li
 
 * mi lukin ***e anpa***. *(Mi rigardas malsupren. — I look down.)*
   * → mi lukin ***anpa***.
-* mi pana ***e sona pi*** toki pona. *(Mi instruas Tokiponon. — I show the school.)*
-  * → mi pana ***lukin e*** tomo sona.
 * mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon. — I translate the movie.)*
   * → mi ante ***toki e*** sitelen tawa.
 
@@ -547,31 +545,6 @@ kama pi **mute nimi kama** li ken kama weka.
     * → mi sona e jan pi ~~ona~~ li kama sona e toki pona. *(Mi konas iun studantan Tokiponon. — I know someone studying Toki Pona.)*
       * → mi sona e jan pi ~~li~~ kama sona e toki pona. *(Mi konas studanton de Tokipono. — I know a student of Toki Pona.)*
         * → mi sona e jan pi kama sona e toki pona.
-
-### ...
-
-### toki monsuta
-*(Danĝera Lingvaĵo — Dangerous Language)*
-
-#### nimi lili lon pini pi nimi palisa
-*(Partikuloj malantaŭ Prepozicioj — Particles behind Prepositions)*
-
-**nimi lili** li ken lon pini pi **nimi palisa**.
-*(Partikuloj povas esti malantaŭ prepozicioj. — A particle can stand behind a preposition.)*
-
-* tomo ***pi telo nasa*** lon ma tomo Lantan *(trinkejo en Londono — bar in London)*
-  * tomo — lon ma tomo Lantan — ***pi telo nasa***
-    * → tomo lon ma tomo Lantan ***pi telo nasa***
-
-#### nimi kama pi mute ike
-*(Tro da Modifiloj — Too Many Modifiers)*
-
-**nimi palisa** li ken jo e **nimi kama**.
-*(Prepozicio povas havi modifilon. — A preposition can have a modifier.)*
-
-* ona li tawa ***pona*** tawa ma tomo Lantan. *(Ŝi pace iras al Londono. — She goes to London in peace.)*
-  * ona li tawa — ***pona*** — ma tomo Lantan.
-    * → ona li tawa ***pona*** ma tomo Lantan.
 
 ## toki sin
 
