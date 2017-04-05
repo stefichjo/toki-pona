@@ -424,13 +424,13 @@ nimi "luka", "noka", "palisa", "poki", "selo", "uta" li [nimi ilo](#nimi-ilo) mu
 ### nimi sijelo musi
 *(Eksperimentaj Korpaj Vortoj — Experimental Body Words)*
 
-nimi **esun** li [nimi sijelo](#nimi-sijelo) musi.
+nimi "esun" li [nimi sijelo](#nimi-sijelo) musi.
 *("esun" estas eksperimenta korpa vorto. — "esun" is an experimental body word.)*
 
 * jan lawa ***esun*** *(vicprezidanto — vice president)*
 
-**toki musi** la [nimi sijelo](#nimi-sijelo) li ken kama [nimi palisa](#nimi-palisa).
-*(En eksperimenta lingvaĵo, korpa vorto povas fariĝi prepozicio. — In experimental language, a body word can become a preposition.)*
+[nimi sijelo](#nimi-sijelo) li ken kama [nimi palisa](#nimi-palisa) musi.
+*(Korpa vorto povas fariĝi eksperimenta prepozicio. — A body word can become an experimental preposition.)*
 
 * mi ***kala*** telo. *(Mi naĝas en akvo. — I'm swimming in water.)*
 
