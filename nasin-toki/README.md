@@ -466,6 +466,19 @@ kama pi [nimi pi jan anu ijo](#nimi-pi-jan-anu-ijo) la [nimi lili "pi"](#nimi-li
 * tomo pi telo nasa, pi jan pona *(trinkejo de amiko — a friend's bar)*
   * → tomo pi telo nasa pi jan pona
 
+### nimi lili "e" nasa
+*(Stranga Akuzativo — Strange Accusative)*
+
+**nimi lili** "e" li ken kama **nimi lili** "pi".
+*(Akuzativo povas fariĝi genitivo. — An accusative can become a genitive.)*
+
+* mi lukin ***e anpa***. *(Mi rigardas malsupren. — I look down.)*
+  * → mi lukin ***anpa***.
+* mi pana ***e sona pi*** toki pona. *(Mi instruas Tokiponon. — I show the school.)*
+  * → mi pana ***lukin e*** tomo sona.
+* mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon. — I translate the movie.)*
+  * → mi ante ***toki e*** sitelen tawa.
+
 ### nimi wawa pini nasa
 *(Strangaj Helpaj Verboj — Strange Auxiliary Verbs)*
 
@@ -483,7 +496,7 @@ nimi "pana" li ken kama [nimi wawa pini](#nimi-wawa-pini).
 [nimi wawa pini](#nimi-wawa-pini) "kama" en [nimi suli](#nimi-suli) "pini" li ken kama weka.
 *(La helpa verbo "kama" kaj la radika vorto "pini" povas malaperi. — The auxiliary verb "kama" and the content word "pini" can disappear.)*
 
-* ona li kama ***lape*** lon ~~pini pi~~ tenpo lili. *(Ŝi endormiĝos post mallonga tempo. Ŝi baldaŭ dormos. Ŝi rapide endormiĝas. — She will sleep after a short period of time. She will sleep soon. She falls asleep quickly.)*
+* ona li ~~kama~~ ***lape*** lon ~~pini pi~~ tenpo lili. *(Ŝi endormiĝos post mallonga tempo. Ŝi baldaŭ dormos. Ŝi rapide endormiĝas. — She will sleep after a short period of time. She will sleep soon. She falls asleep quickly.)*
   * → ona li ***lape*** lon tenpo lili.
 
 ### nimi palisa nasa
@@ -502,7 +515,19 @@ nimi "lon ... (pi)" li ken kama [nimi palisa](#nimi-palisa).
 * mi tawa ~~lon~~ ***poka*** sina. *(Mi iras kun vi. — I'm going with you.)*
   * → mi tawa ***poka*** sina.
 
-### nimi nasa pi jan anu ino
+[nimi palisa](#nimi-palisa) li ken kama [nimi wawa palisa](#nimi-wawa-palisa).
+*(Prepozicio povas fariĝi transitiva verbo. — Prepositions can become transitive verbs.)*
+
+* mi ***kepeken*** ilo. *(Mi uzas la instrumenton. — I use the instrument.)*
+  * → mi ***kepeken e*** ilo.
+* mi ***lon poka pi*** jan pona. *(Mi estas apud amiko. — I'm next to a friend.)*
+  * → mi ***poka*** jan pona.
+    * → mi ***poka e*** jan pona.
+* mi tawa ***lon sike pi*** tomo sona. *(Mi iras ĉirkaŭ la lernejo. — I walk around the school.)*
+  * → mi tawa ***sike*** tomo sona.
+    * → mi ***sike e*** tomo sona.
+
+### nimi nasa pi jan anu ijo
 *(Strangaj Pronomoj — Strange Pronouns)*
 
 [nimi pi jan anu ijo](#nimi-pi-jan-anu-seme) li kama weka lon kama pi [nimi palisa](#nimi-palisa) "sama".
@@ -541,46 +566,12 @@ kama pi **mute nimi kama** li ken kama weka.
 #### nimi kama pi mute ike
 *(Tro da Modifiloj — Too Many Modifiers)*
 
-**nimi kama** li ken jo e **nimi kama**.
-*(Modifilo povas havi modifilon. — A modifiers can have a modifier.)*
-
-* telo ***pi*** nasa ***mute*** *(tre stranga likvo; vodko — very strange liquid; vodka)*
-  * telo — nasa ***mute***
-    * → telo nasa ***mute***
-
 **nimi palisa** li ken jo e **nimi kama**.
 *(Prepozicio povas havi modifilon. — A preposition can have a modifier.)*
 
 * ona li tawa ***pona*** tawa ma tomo Lantan. *(Ŝi pace iras al Londono. — She goes to London in peace.)*
   * ona li tawa — ***pona*** — ma tomo Lantan.
     * → ona li tawa ***pona*** ma tomo Lantan.
-
-### toki apeja
-*(Skisma Lingvaĵo — Schismatic Language)*
-
-**nimi lili** "e" li ken kama **nimi lili** "pi".
-*(La partikulo "e" povas fariĝi la partikulo "pi". — The particle "e" can become the particle "pi".)*
-
-* mi lukin ***e anpa***. *(Mi rigardas malsupren. — I look up.)*
-  * → mi lukin ***anpa***.
-* mi pana ***e lukin pi*** tomo sona. *(Mi montras la lernejon. — I show the school.)*
-  * → mi pana ***lukin e*** tomo sona.
-* mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon. — I translate the movie.)*
-  * → mi ante ***toki e*** sitelen tawa.
-
-**nimi palisa** "tawa" li ken toki e wile pana. *(La prepoizicio "tawa" povas esprimi la volon doni. — The preposition "tawa" can express the will to give.)*
-
-* mi ***wile pana*** e kili ***tawa*** sina. *(Mi volas doni pomon al vi. — I want to give you an apple.)*
-  * → mi ***jo*** e kili ***tawa*** sina. *(Mi havas pomon por vi. — I have an apple for you.)*
-
-**nimi palisa** li ken kama **nimi wawa palisa**.
-*(Prepozicioj povas fariĝi transitiva verbo. — Preposition can become transitive verbs.)*
-
-* mi ***kepeken*** ilo. *(Mi uzas la instrumenton. — I use the instrument.)*
-  * → mi ***kepeken e*** ilo.
-* mi ***lon poka pi*** jan pona. *(Mi estas apud amiko. — I'm next to a friend.)*
-  * → mi ***poka*** jan pona.
-    * → mi ***poka e*** jan pona.
 
 ## toki sin
 
