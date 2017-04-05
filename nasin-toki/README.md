@@ -509,7 +509,7 @@ kama pi mute nimi la **nimi palisa** ale li ken kama weka.
 nimi "lon ... (pi)" li ken kama [nimi palisa](#nimi-palisa).
 *("lon ... (pi)" povas fariĝi prepozicio. — "lon ... (pi)" can become a preposition.)*
 
-* mi tawa poka sina. *(Mi iras proksimen al vi. — I'm going close to you.)*
+* mi tawa poka sina. *(Mi iras proksimen al vi. — I'm getting closer to you.)*
 * mi tawa ~~lon~~ ***poka*** sina. *(Mi iras kun vi. — I'm going with you.)*
   * → mi tawa ***poka*** sina.
 
@@ -518,9 +518,6 @@ nimi "lon ... (pi)" li ken kama [nimi palisa](#nimi-palisa).
 
 * mi ***kepeken*** ilo. *(Mi uzas la instrumenton. — I use the instrument.)*
   * → mi ***kepeken e*** ilo.
-* mi ***lon poka pi*** jan pona. *(Mi estas apud amiko. — I'm next to a friend.)*
-  * → mi ***poka*** jan pona.
-    * → mi ***poka e*** jan pona.
 * mi tawa ***lon sike pi*** tomo sona. *(Mi iras ĉirkaŭ la lernejo. — I walk around the school.)*
   * → mi tawa ***sike*** tomo sona.
     * → mi ***sike e*** tomo sona.
