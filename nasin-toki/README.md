@@ -21,12 +21,12 @@ wan lipu "[toki musi](#toki-musi)" li toki e nasin toki pi jan ala. taso tawa mi
 wan lipu "[toki nasa](#toki-nasa)" li toki e nasin toki sin pi jan nasa ni: ona li wile ante e toki pona.
 *(La sekcio "Stranga Lingvaĵo" traktas la aldonan lingvouzon de tokiponidistoj. — The section "Strange Language" treats the additional way of how speakers of Toki Pona dialects use the language.)*
 
-* mi tawa ~~lon~~ ***poka*** ~~pi~~ jan pona. *(Mi iras kun amiko. — I am going with a friend.)*
-  * → mi tawa ***poka*** jan pona.
+* mi tawa ~~lon~~ ***poka*** sina. *(Mi iras kun vi. — I'm going with you.)*
+  * → mi tawa ***poka*** sina.
 
 wan lipu "[toki sin](#toki-sin)" ...
 
-* ***ijo zen!*** *(Saluton! — Hello!)*
+* ***eju zen!*** *(Saluton! — Hello!)*
 
 wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-lili) li kepeken [toki musi](#toki-musi). ona li [ale ala pi nimi mute, tan lipu suli pi toki pona](http://tokipona.net/tp/janpije/dictionary.php).
 *(La sekcio "Vortaro" uzas la Kernan Lingvaĵon kaj la Eksperimentan Lingvaĵon. Ĝi ne estas la Oficiala Vortaro. — The section "Dictionary" uses the Core Language and the Experimental Language. It is not the Official Dictionary.)*
@@ -462,7 +462,7 @@ kama pi [nimi pi jan anu ijo](#nimi-pi-jan-anu-ijo) la [nimi lili "pi"](#nimi-li
 [nimi lili "pi"](#nimi-lili-pi) li ken ala lon pini pi nimi pi [nimi lili "pi"](nimi-lili-pi). tan ni la **sitelen nanpa** li lon ala lon [nimi lili "pi"](#nimi-lili-pi) tu.
 *(Ne ekzistas rekursivaj genitivaj frazeroj. Tial ne estas komo ĉe du genitivaj frazeroj. — There are no recursive genitive phrases. Therefore there is no comma with two genitive phrases.)*
 
-* ~~tomo pi telo nasa pi jan pona~~ *(domo de biero de amiko — house of a friend's beer)*
+* tomo pi telo nasa pi jan pona *(domo de biero de amiko — house of a friend's beer)*
 * tomo pi telo nasa, pi jan pona *(trinkejo de amiko — a friend's bar)*
   * → tomo pi telo nasa pi jan pona
 
@@ -480,6 +480,25 @@ nimi "pana" li ken kama [nimi wawa pini](#nimi-wawa-pini).
 * mi ***olin e ni: mi*** kama sona e jan pona sina. *(Mi amas konatiĝi kun via amiko. — I love to get to know your friend.)*
   * → mi ***olin*** kama sona e jan pona sina.
 
+### nimi palisa nasa
+*(Strangaj Prepozicioj — Strange Prepositions)*
+
+nimi "lon ... (pi)" li ken kama [nimi palisa](#nimi-palisa).
+*("lon ... (pi)" povas fariĝi prepozicio. — "lon ... (pi)" can become a preposition.)*
+
+* mi tawa poka sina. *(Mi iras proksimen al vi. — I'm going close to you.)*
+* mi tawa ~~lon~~ ***poka*** sina. *(Mi iras kun vi. — I'm going with you.)*
+  * → mi tawa ***poka*** sina.
+
+### nimi nasa pi jan anu ino
+*(Strangaj Pronomoj — Strange Pronouns)*
+
+[nimi pi jan anu ijo](#nimi-pi-jan-anu-seme) li kama weka lon kama pi [nimi palisa](#nimi-palisa) "sama".
+*(Pronomo malaperas antaŭ la prepozicio "sama". — A pronoun disappears before the preposition "sama".)*
+
+* ona li telo e ~~ona~~ ***sama***. *(Ŝi lavas sin. — She washes herself.)*
+  * → ona li telo e ***sama***.
+
 ### mute nimi kama nasa
 *(Strangaj Subfrazoj — Strange Subordinate Clauses)*
 
@@ -493,18 +512,6 @@ kama pi **mute nimi kama** li ken kama weka.
         * → mi sona e jan pi kama sona e toki pona.
 
 ### ...
-
-#### nimi kama palisa
-*(Prepozicioj — Prepositions)*
-
-##### nimi kama palisa "sama"
-*(La Prepozicio "sama" — The Preposition "sama")*
-
-nimi "ona sama" li ken kama nimi "sama".
-*("ona sama" povas fariĝi "sama". — "ona sama" can become "sama".)*
-
-* ona li telo e ***ona sama***. *(Ŝi lavas sin. — She washes herself.)*
-  * → ona li telo e ***sama***.
 
 ##### nimi kama palisa "tawa", "tan"
 *(La Prepozicioj "tawa" kaj "tan" — The Prepositions "tawa" and "tan")*
@@ -570,12 +577,6 @@ nimi "ona sama" li ken kama nimi "sama".
   * → mi pana ***lukin e*** tomo sona.
 * mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon. — I translate the movie.)*
   * → mi ante ***toki e*** sitelen tawa.
-
-**nimi ma** li ken kama **nimi kama palisa**.
-*(Spaca vorto povas fariĝi prepozicio. — A location word can become a preposition.)*
-
-* waso li tawa lon kon ***lon sewi pi*** tomo sona. *(Birdo flugas super la lernejo. — A bird flies over the school.)*
-  * → waso li tawa lon kon ***sewi*** tomo sona.
 
 **nimi kama palisa** "tawa" li ken toki e wile pana. *(La prepoizicio "tawa" povas esprimi la volon doni. — The preposition "tawa" can express the will to give.)*
 
