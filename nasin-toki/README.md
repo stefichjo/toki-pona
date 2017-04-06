@@ -589,7 +589,7 @@ kalama nanpa wan pi **nimi kama** li ken kama weka.
 toki **Ponatoko** li jo e nimi pi **toki pona** e nasin sitelen pi **toki pona**, taso ona li jo e kalama pi toki **Epelanto** e pini nimi pi toki **Epelanto**.
 *(Pona Toko havas la vortojn kaj la ortografion de Tokipono, sed ĝi havas la akcentadon kaj la finaĵojn de Esperanto. — Pona Toko has the words and the orthography of Toki Pona, but it has the syllable stress and the endings of Esperanto.)*
 
-* niun sunan tenpon mi pone tokas. *(tenpo suno ni la mi toki pona.)*
+* ni***un*** sun***an*** tenp***on*** mi pon***e*** tok***as***. *(tenpo suno ni la mi toki pona.)*
 
 nimi "selo" en "poki" li jo e sijelo nimi "ŝel" en "bok" lon toki Ponatoko.
 *(La tokiponaj vortoj "selo" kaj "poki" havas la radikojn "ŝel" kaj "bok" en Pona Toko. — The Toki Pona words "selo" and "poki" have the stems "ŝel" and "bok" in Pona Toko.)*
@@ -636,12 +636,6 @@ nimi ijo pi toki Ponatoko li ken jo e kalama wan taso.
 
 * sini estas ***sam*** mi. *(sina sama mi.)*
 * mi estas ***taw*** tomo. *(mi tawa tomo.)*
-
-
-
-...
-
-* la sowelo ***muas***. *(soweli li mu. — La kato miaŭas.)*
 
 ---
 
