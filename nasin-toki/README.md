@@ -538,10 +538,10 @@ kama pi **mute nimi kama** li ken kama weka.
 *(La komenco de subfrazo povas malaperi. — The beginning of a subordinate clause can disappear.)*
 
 * mi sona e jan e ni: ona li kama sona e toki pona. *(Mi konas iun kaj mi scias, ke li studas Tokiponon. — I know someone and that he is studying Toki Pona.)*
-  * mi sona e jan pi ~~ijo ni:~~ ona li kama sona e toki pona. *(Mi konas iun, kiu studas Tokiponon. — I know someone, who is studying Toki Pona.)*
-    * → mi sona e jan pi ~~ona~~ li kama sona e toki pona. *(Mi konas iun studantan Tokiponon. — I know someone studying Toki Pona.)*
-      * → mi sona e jan pi ~~li~~ kama sona e toki pona. *(Mi konas studanton de Tokipono. — I know a student of Toki Pona.)*
-        * → mi sona e jan pi kama sona e toki pona.
+  * mi sona e jan ***pi*** ~~ijo ni:~~ ona li kama sona e toki pona. *(Mi konas iun, kiu studas Tokiponon. — I know someone, who is studying Toki Pona.)*
+    * → mi sona e jan ***pi*** ~~ona~~ li kama sona e toki pona. *(Mi konas iun studantan Tokiponon. — I know someone studying Toki Pona.)*
+      * → mi sona e jan ***pi*** ~~li~~ kama sona e toki pona. *(Mi konas studanton de Tokipono. — I know a student of Toki Pona.)*
+        * → mi sona e jan ***pi*** kama sona e toki pona.
 
 ## toki sin
 *(Novaj Lingvoj — New Languages)*
@@ -590,7 +590,7 @@ kalama nanpa wan pi **nimi kama** li ken kama weka.
 toki **Ponatoko** li jo e nimi pi **toki pona** e nasin sitelen pi **toki pona**, taso ona li jo e kalama pi toki **Epelanto** e pini nimi pi toki **Epelanto**.
 *(Pona Toko havas la vortojn kaj la ortografion de Tokipono, sed ĝi havas la akcentadon kaj la finaĵojn de Esperanto. — Pona Toko has the words and the orthography of Toki Pona, but it has the syllable stress and the endings of Esperanto.)*
 
-* ni***un*** sun***an*** tenp***on*** mi pon***e*** tok***as***. *(tenpo suno ni la mi toki pona.)*
+* niun sunan tenpon mi pone tokas. *(tenpo suno ni la mi toki pona.)*
 
 nimi "selo" en "poki" li jo e sijelo nimi "ŝel" en "bok" lon toki Ponatoko.
 *(La tokiponaj vortoj "selo" kaj "poki" havas la radikojn "ŝel" kaj "bok" en Pona Toko. — The Toki Pona words "selo" and "poki" have the stems "ŝel" and "bok" in Pona Toko.)*
@@ -607,7 +607,7 @@ sijelo nimi "est" en nimi "la" taso tan toki Epelanto li tawa toki Ponatoko.
 nimi ijo pi toki Ponatoko li ken jo e kalama wan taso.
 *(Ponatoka radiko povas konsisti nur el unu sono. — A Pona Toko stem can consist of only one sound.)*
 
-* mi ***j***as mutan tenpon. *(mi jo e tenpo mute.)*
+* mi ***jas*** mutan tenpon. *(mi jo e tenpo mute.)*
 
 [nimi pi jan anu ijo](#nimi-pi-jan-anu-ijo) "mi", "sina", "ona" li jo e pini nimi "-i".
 *(La pronomoj "mi", "sina" kaj "ona" havas la finaĵon "-i". — The pronouns "mi", "sina" and "ona" have the ending "-i".)*
@@ -641,7 +641,7 @@ nimi ijo pi toki Ponatoko li ken jo e kalama wan taso.
 ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
 *(Interjekcioj estas tutaj en Pona Toko. — Interjections are in Pona Toko as a whole.)*
 
-* sowelo ***mu***as. *(soweli li mu.)*
+* sowelo ***muas***. *(soweli li mu.)*
 
 ---
 
