@@ -579,13 +579,13 @@ kalama **[np]** li kama **[mp]** li jo e sitelen "**mp**".
 * ~~tenpo~~ → ***tempu*** *(tempo — time)*
 
 kalama lon kama pi kalama **[i]** li kama ante tan kalama **[p]**, **[t]**, **[k]** tawa kalama **[f]**, **[ĉ]**, **[ĥ]**.
-*(La sono antaŭ [i] povas varii. — The sound in front of [i] can vary.)*
+*(La sono antaŭ [i] povas varii de [p], [t], [k] al [f], [ĉ], [ĥ]. — The sound in front of [i] can vary from [p], [t], [k] to [f], [ĉ], [ĥ].)*
 
 * ~~pipi~~ → ***pefi*** *(insekto — insect)*
 * ~~kasi~~ → ***kaci*** *(planto — plant)*
 * ~~poki~~ → ***poxi*** *(flanko — side)*
 
-kalama nanpa wan pi **nimi kama** li ken kama weka.
+kalama nanpa wan pi **nimi kama** li ken kama ante.
 *(La unua sono de modifilo povas varii. — The sound of a modifier can vary.)*
 
 * ~~jan pona~~ → **jen bona** *(amiko — friend)*
@@ -612,7 +612,7 @@ sijelo nimi "est" en nimi "la" taso tan toki Epelanto li tawa toki Ponatoko.
 * ***la*** poka jano estas sona jano. *(jan poka li jan sona.)*
 * jano ***estas*** lon sona tomo. *(jan li lon tomo sona.)*
 
-nimi ijo pi toki Ponatoko li ken jo e kalama wan taso.
+[nimi suli](#nimi-suli) pi toki Ponatoko li ken jo e kalama wan taso.
 *(Ponatoka radiko povas konsisti nur el unu sono. — A Pona Toko stem can consist of only one sound.)*
 
 * mi ***jas*** mutan tenpon. *(mi jo e tenpo mute.)*
