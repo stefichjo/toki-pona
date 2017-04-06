@@ -346,10 +346,18 @@ kama pi **nimi pi ijo poka** la **nimi palisa** "sama" li ken kama weka. *(Anta�
 ### nimi kalama musi
 *(Eksperimentaj Interjekcioj — Experimental Interjections)*
 
-**toki musi** la [nimi kalama](#nimi-kalama) li ken jo e kon pi **nimi kama** tan **nimi kalama** sama.
-*(En eksperimenta lingvaĵo, interjekcio povas havi la signifon de la modifilo derivita de ĉi interjekcio. — In experimental language, an interjection can have the meaning of the modifier derived from the very interjection.)*
+[nimi kalama](#nimi-kalama) li ken jo e kon pi **nimi kama** tan **nimi kalama** sama.
+*(Interjekcio povas havi la signifon de la modifilo derivita de ĉi interjekcio. — An interjection can have the meaning of the modifier derived from the very interjection.)*
 
 * ***a***, sina suli. *(Jes, vi estas granda. — Yes, you are tall.)*
+
+### nimi suli musi
+*(Eksperimentaj Radikaj Vortoj — Experimental Content Words)*
+
+nimi tu sama li jo e kon pi **nimi kama** "a".
+*(Du samaj vortoj havas la signifon de la modifilo "a". — Two same words have the meaning of the modifier "a".)*
+
+* sina ***suli suli***! *(Vi estas vere alta! — You are really tall!)*
 
 ### nimi nanpa musi
 *(Eksperimentaj Numeraloj — Experimental Numerals)*
