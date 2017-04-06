@@ -485,6 +485,15 @@ kama pi [nimi pi jan anu ijo](#nimi-pi-jan-anu-ijo) la [nimi lili "pi"](#nimi-li
 * mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon. — I translate the movie.)*
   * → mi ante ***toki e*** sitelen tawa.
 
+### nimi lili nasa "en", "anu"
+*(Strangaj Konjunkcioj — Strange Conjunctions)*
+
+sitelen nanpa li ken kama [nimi lili](#nimi-lili-en-anu) nasa ["en"](#nimi-lili-en-anu).
+*(Komo povas fariĝi stranga konjunkcio "en". — A comma can become a strange conjunction "en".)*
+
+* tomo pi telo nasa, pi jan pona. *(trinkejo de amiko — a friend's bar)*
+  * → tomo pi telo nasa ***en*** pi jan pona.
+
 ### nimi wawa pini nasa
 *(Strangaj Helpaj Verboj — Strange Auxiliary Verbs)*
 
