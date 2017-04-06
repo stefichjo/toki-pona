@@ -23,6 +23,7 @@ pray ("try to talk to") = lukin toki
 prevent ("remove the possibility") = weka e ken
 religion ("doctrine of the divine") = nasin sewi
 sculpture ("representation") = sitelen
+some ("(of) a certain multitude") = (pi) mute wan
 smile ("happy face") = sinpin lawa pi pilin pona
 space ship ("interstellar moving indoor space") = tomo tawa mun
 star ("night sky object") = mun
@@ -3778,41 +3779,55 @@ Enjoy.
 
 672
 01:22:37,216 --> 01:22:39,857
-Told you nobody lies in my
+mi toki a e ni tawa sina: jan ala li toki ike
+lon sike ma mi.
+==Told you nobody lies in my
 planet.
 
 673
 01:22:42,295 --> 01:22:44,041
-did you tell anybody?
+sina toki tawa jan wan anu seme?
+==did you tell anybody?
 
 674
 01:22:51,580 --> 01:22:53,803
-you didn't tell anyone that you
+sina toki tawa jan ala e ni,
+sina tan sike ma ante, anu seme?
+==you didn't tell anyone that you
 are alien. right?
 
 675
 01:22:53,803 --> 01:23:01,263
-No No. if i had they would caged me
+ala, ala. ni la jan li lon tomo pi open ala e mi.
+kepeken ni la jan li lukin e insa mi.
+==No No. if i had they would caged me
 in a laboratory for experiment.
 
 676
 01:23:01,739 --> 01:23:04,791
-then why trusted me?
+ni la tan seme la sina toki tawa mi?
+==then why trusted me?
 
 677
 01:23:06,263 --> 01:23:15,466
-Since the day i came here,
+mi kama lon ni lon tenpo suno wan. tan ona la
+jan ale li weka e mani tan mi.
+taso sina nanpa wan. sina pana e mani tawa mi tawa poki mani.
+==Since the day i came here,
 everybody took money from me.
 you were the first one put money for me in the donation box.
 
 678
 01:23:15,549 --> 01:23:19,651
-I got a feeling that you are gentleman.
+tawa mi la sina jan pi nasin pona.
+jan li ken toki tawa sina.
+==I got a feeling that you are gentleman.
 can be trusted.
 
 679
 01:23:22,327 --> 01:23:24,311
-I'll get you your remote.
+mi F
+==I'll get you your remote.
 
 680
 01:23:25,819 --> 01:23:27,009
