@@ -1,6 +1,6 @@
 # toki pona
 
-* [nasin toki pi toki pona](nasin-toki/README.md) *(Gramatiko de Tokipono — Grammar of Toki Pona)*
+* [nasin toki pi toki pona](nasin-toki.md) *(Gramatiko de Tokipono — Grammar of Toki Pona)*
 
 ## musi
 
