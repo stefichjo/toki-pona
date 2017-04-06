@@ -754,7 +754,7 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
 * **len** ***[leng]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - pendanta, kovranta — hanging, covering
   * *(LAWA)* - io pendanta: vesto, io kovranta: kovrilo, privateco — something hanging: cloth, something covering: cover, privacy
-* **lete** ***[frete]*** *([SULI](#nimi-suli))* - malvarma, kruda — cold, raw
+* **lete** ***[frette]*** *([SULI](#nimi-suli))* - malvarma, kruda — cold, raw
 * **li** ***[li]*** *([LILI](#nimi-lili-li))* - (predikato) — (predikato)
 * **lili** ***[lik-lik]*** *([SULI](#nimi-suli))* - malgranda, malmulta — small, few
 * **linja** ***[linja]*** *([IJO](#nimi-ijo))*
@@ -765,7 +765,7 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
   * *(LAWA)* - io plata: karto, dokumento, papero, dosiero — something flat: card, document, paper, file
     * *(LAWA)* = **mute lipu**
 * **loje** ***[roje]*** *([SULI](#nimi-suli))* = "***kule uta***" - ruĝa — red
-* **lon** ~~alon~~ ***[along]*** *([PALISA](#nimi-palisa))*
+* **lon** ***[long]*** *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - ĉe, laŭ, en, kun — at, along, in, with
   * *(KAMA)* - ĉeestanta, ekzistanta, reala — being present, existing, real
   * *([WAWA PINI°](#nimi-wawa-pini-musi))* - esti -anta — to be -ing
@@ -870,7 +870,7 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
 * **pana** ***[?]*** *([PALI](#nimi-pali))*= "***luka sin***"
   * *(WAWA PALISA)* - doni, provizi, publikigi — to give, to provide, to publish
   * *(LAWA)* - io por doni, io por provizi, io por publiki: dateno — something to give, something to provide, something to publish: data
-* **pi** ***[bi]*** *([LILI](#nimi-lili-pi))* - (genitivo) — (genitive)
+* **pi** ***[bilong]*** *([LILI](#nimi-lili-pi))* - (genitivo) — (genitive)
 * **pilin** ***[fil-him]*** *([ILO](#nimi-ilo))*
   * *(WAWA PALISA)* - senti — to feel
   * *(LAWA)* - organo por senti: koro — organ for feeling: heart
@@ -879,12 +879,12 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
 * **pini** ***[fini]*** *([SULI](#nimi-suli))* - finita, pasinta — finished, past
   * *([WAWA PINI°](#nimi-wawa-pini-musi))* - fini, to stop
   * *(lon ... pi)* - malantaŭ — after
-* **pipi** ***[bibit]*** *([SIJELO](#nimi-sijelo))* = "***sijelo noka***"
+* **pipi** ~~pipite~~ ***[bibitte]*** *([SIJELO](#nimi-sijelo))* = "***sijelo noka***"
   * *([PALISA](#nimi-palisa))*
     * *(KAMA PALISA)* - rampi sur — crawling on
     * *(KAMA)* - rampanta — crawling
   * *(LAWA)* - rampanta vivaĵo: insekto — crawling living being: insect
-* **poka** ~~po~~ ***[bok]*** *([IJO](#nimi-ijo))*
+* **poka** ***[boka]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - apuda, akompananta — lateral, accompanying
   * *(LAWA)* - io apuda: flanko — something lateral: side
     * *(lon ... pi)* - apud — next to
@@ -923,7 +923,7 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
   * *(KAMA PALISA)* - aldona al, kun — additional to, with
   * *(KAMA)* - plia, aldona, nova, freŝa — another, additional, new, fresh
 * **sina** ***[sina]*** *([JAN ANU IJO](#nimi-pi-jan-anu-ijo))* - vi — you
-* **sinpin** ***[?]*** *([IJO](#nimi-ijo))*
+* **sinpin** ~~sanpan~~ ***[ŝjanbjan]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - antaŭa — frontal
   * *(LAWA)* - io antaŭa: muro — something frontal: wall
     * *(lon ... pi)* - antaŭ — in front of
@@ -937,7 +937,7 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
 * **soweli** ***[cxoveli]*** *([JAN°](#nimi-jan-musi))* = "***sijelo seli***"
   * *(KAMA)* - varmsanga — warm-blooded
   * *(LAWA)* - varmsanga animaĵo: mamulo — warm-blooded animated being: mammal
-* **suli** ***[suri]*** *([SULI](#nimi-suli))* ***≠ lili*** - granda, peza, grava, plenkreska — big, heavy, important, adult
+* **suli** ***[suuri]*** *([SULI](#nimi-suli))* ***≠ lili*** - granda, peza, grava, plenkreska — big, heavy, important, adult
 * **suno** ***[suno]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - hela — bright
   * *(LAWA)* - io hela: suno — something bright: sun
