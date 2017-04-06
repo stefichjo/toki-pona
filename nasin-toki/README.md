@@ -92,7 +92,7 @@ jan li ken toki e wile kepeken nimi lon pini taso pi **nimi lili** "e".
 *(Volativo, Vokativo kaj Imperativo — Volative, Vocative and Imperative)*
 
 kama pi **nimi lili** "o" la nimi "sina" li ken kama weka.
-*("sina" povas malaperi antaŭ la partikulo "o". — "sina" can disappear before the particle "o".)*
+*("sina" povas malaperi antaŭ la partikulo "o". — "sina" can disappear in front of the particle "o".)*
 
 * sina ***o*** lukin. *(Vi rigardu. — You should look.)*
   * → ***o*** lukin! *(Rigardu! — Look!)*
@@ -158,7 +158,7 @@ nimi "ni" lon kama pi mute nimi li lon poka pi **mute nimi kama**, la nimi "ni" 
 * toki sina ***en*** pali sina li sama, la sina pilin pona. *(Se via parolo kaj via ago estas samaj, vi bonfartas. — If what you say and what you do are the same, you are happy.)*
 
 kama nimi la pini nimi sama lon poka pi nimi "ala" la nimi "anu" li kama weka.
-*(Antaŭ vortoj kaj malantaŭ la samaj vortoj negitaj, "anu" malaperas. — Before words and after the same words negated, "anu" disappears.)*
+*(Antaŭ vortoj kaj malantaŭ la samaj vortoj negitaj, "anu" malaperas. — In front of words and after the same words negated, "anu" disappears.)*
 
 * ona li mama ***anu*** seme? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
   * → ona li mama ***ala*** ~~anu~~ mama?
@@ -279,7 +279,7 @@ nimi "ala", "wan", "tu", "luka", "ale" li ken kama **nimi nanpa**.
     * → ***ala***, ***ale***, ***ni***, ***seme***
 
 pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li kama weka ala.
-*(En genitiva frazero, "ijo" antaŭ korelativo ne malaperas. — In a genitive clause, "ijo" before a correlative doesn't disappear.)*
+*(En genitiva frazero, "ijo" antaŭ korelativo ne malaperas. — In a genitive clause, "ijo" in front of a correlative doesn't disappear.)*
 
 * mama ***pi ijo ale*** *(gepatro de ĉio — parent of everything)*
 
@@ -318,18 +318,18 @@ kama pi **nimi pi ijo poka** la **nimi palisa** "sama" li ken kama weka. *(Anta�
 ## toki namako
 *(Aldona Lingvaĵo — Additional Language)*
 
-### nimi wawa palisa tan nimi lawa
-*(Transitivaj Verboj el Substantivoj — Transitive Verbs from Nouns)*
+### nimi wawa palisa namako
+*(Aldonaj Transitivaj Verboj — Additional Transitive Verbs)*
 
 **nimi lawa** li ken kama **nimi wawa palisa**.
 *(Substantivo povas fariĝi transitiva verbo. — A noun can become a transitive verb.)*
 
 * ona li ***telo*** e kasi. *(ŝi malsekigas la planton. — She gets the plant wet.)*
 * ona li pana e ***telo*** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
-  * → ona li ***telo*** e kasi. *(ŝi akvumas la planton. — She waters the plant.)*
+  * → ona li ***telo*** e kasi. *(Ŝi akvumas la planton. — She waters the plant.)*
 
-### nimi nanpa mute
-*(Pluraj Numeraloj — Multiple Numerals)*
+### nimi nanpa namako
+*(Aldonaj Numeraloj — Strange Numerals)*
 
 **nimi nanpa** tu la sitelen nanpa li ken kama weka.
 *(Ĉe du numeraloj, la komo povas malaperi. — With two numerals, the comma can disappear.)*
@@ -526,7 +526,7 @@ nimi "lon ... (pi)" li ken kama [nimi palisa](#nimi-palisa).
 *(Strangaj Pronomoj — Strange Pronouns)*
 
 [nimi pi jan anu ijo](#nimi-pi-jan-anu-seme) li kama weka lon kama pi [nimi palisa](#nimi-palisa) "sama".
-*(Pronomo malaperas antaŭ la prepozicio "sama". — A pronoun disappears before the preposition "sama".)*
+*(Pronomo malaperas antaŭ la prepozicio "sama". — A pronoun disappears in front of the preposition "sama".)*
 
 * ona li telo e ~~ona~~ ***sama***. *(Ŝi lavas sin. — She washes herself.)*
   * → ona li telo e ***sama***.
@@ -570,7 +570,7 @@ kalama **[np]** li kama **[mp]** li jo e sitelen "**mp**".
 * ~~tenpo~~ → ***tempu*** *(tempo — time)*
 
 kalama lon kama pi kalama **[i]** li kama ante tan kalama **[p]**, **[t]**, **[k]** tawa kalama **[f]**, **[ĉ]**, **[ĥ]**.
-*(La sono antaŭ [i] povas varii. — The sound before [i] can vary.)*
+*(La sono antaŭ [i] povas varii. — The sound in front of [i] can vary.)*
 
 * ~~pipi~~ → ***pefi*** *(insekto — insect)*
 * ~~kasi~~ → ***kaci*** *(planto — plant)*
@@ -582,6 +582,66 @@ kalama nanpa wan pi **nimi kama** li ken kama weka.
 * ~~jan pona~~ → **jen bona** *(amiko — friend)*
 * ~~tomo sina~~ → **tomu zena** *(via domo — your house)*
 * ~~telo kili~~ → **telu geli** *(suko — juice)*
+
+### Pona Toko
+*(Ponatoko — Pona Toko)*
+
+toki **Ponatoko** li jo e nimi pi **toki pona** e nasin sitelen pi **toki pona**, taso ona li jo e kalama pi toki **Epelanto** e pini nimi pi toki **Epelanto**.
+*(Pona Toko havas la vortojn kaj la ortografion de Tokipono, sed ĝi havas la akcentadon kaj la finaĵojn de Esperanto. — Pona Toko has the words and the orthography of Toki Pona, but it has the syllable stress and the endings of Esperanto.)*
+
+* niun sunan tenpon mi pone tokas. *(tenpo suno ni la mi toki pona.)*
+
+nimi "selo" en "poki" li jo e sijelo nimi "ŝel" en "bok" lon toki Ponatoko.
+*(La tokiponaj vortoj "selo" kaj "poki" havas la radikojn "ŝel" kaj "bok" en Pona Toko. — The Toki Pona words "selo" and "poki" have the stems "ŝel" and "bok" in Pona Toko.)*
+
+* ***sela ŝelo*** *(selo seli)*
+* ***poka boko*** *(poki poka)*
+
+sijelo nimi "est" en nimi "la" taso tan toki Epelanto li tawa toki Ponatoko.
+*(Nure la radiko "est" kaj la vorto "la" el Esperanto move to Pona Toko. — Only the stem "est" and the word "la" from Esperanto move to Pona Toko.)*
+
+* ***la*** poka jano estas sona jano. *(jan poka li jan sona.)*
+* jano ***estas*** lon sona tomo. *(jan li lon tomo sona.)*
+
+nimi ijo pi toki Ponatoko li ken jo e kalama wan taso.
+*(Ponatoka radiko povas konsisti nur el unu sono. — A Pona Toko stem can consist of only one sound.)*
+
+* mi ***j***as mutan tenpon. *(mi jo e tenpo mute.)*
+
+[nimi pi jan anu ijo](#nimi-pi-jan-anu-ijo) "mi", "sina", "ona" li jo e pini nimi "-i".
+*(La pronomoj "mi", "sina" kaj "ona" havas la finaĵon "-i". — The pronouns "mi", "sina" and "ona" have the ending "-i".)*
+
+* ***sini*** sinas. *(sina sin.)*
+
+**nimi lawa** lon kama pi [nimi tan](#nimi-tan) li ken kama weka.
+*(Substantivo antaŭ citaĵo povas malaperi. — A noun in front of a quotation can disappear.)*
+
+* la Sonja-jano → Sonjo *(jan Sonja)*
+
+[nimi nanpa](#nimi-nanpa) li jo e pini nimi "-u".
+*(Numeraloj havas la finaĵon "-u". — Numerals have the ending "-u".)*
+
+* wana *(wan — unika)*
+ * wanu *(wan — unu)*
+    * wanua → nanpo wanu *(nanpa wan — unua)*
+
+[nimi poka](#nimi-poka) "ala", "ale", "ni", "seme" tan toki pona li nimi Tapejoto lon **Pona Toko**.
+*(La tokiponaj korelativoj "ala", "ale", "ni" kaj "seme" estas tabelvortoj en Pona Toko. — The Toki Pona correlatives "ala", "ale", "ni" and "seme" are table words in Pona Toko.)*
+
+* ***semeal*** oni estas nie? *(tan seme la ona li lon ni?)*
+  * → tan semeo oni estas lon nio?
+
+***nimi wawa palisa*** li pini kepeken kalama pi open ala.
+*(Prepozicio finiĝas per konsonanto. — A preposition ends in a consonant.)*
+
+* sini estas ***sam*** mi. *(sina sama mi.)*
+* mi estas ***taw*** tomo. *(mi tawa tomo.)*
+
+
+
+...
+
+* la sowelo ***muas***. *(soweli li mu. — La kato miaŭas.)*
 
 ---
 
