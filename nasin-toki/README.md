@@ -544,9 +544,10 @@ kama pi **mute nimi kama** li ken kama weka.
         * → mi sona e jan pi kama sona e toki pona.
 
 ## toki sin
+*(Novaj Lingvoj — New Languages)*
 
 ### eju zen bona
-*(Tokiponido — A Tokipona Dialect)*
+*(Ejuzenbona — Eyu Zen Bona)*
 
 nimi li ken ante.
 *(Vortoj povas esti diversaj. — Words can differ.)*
@@ -636,6 +637,11 @@ nimi ijo pi toki Ponatoko li ken jo e kalama wan taso.
 
 * sini estas ***sam*** mi. *(sina sama mi.)*
 * mi estas ***taw*** tomo. *(mi tawa tomo.)*
+
+ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
+*(Interjekcioj estas tutaj en Pona Toko. — Interjections are in Pona Toko as a whole.)*
+
+* sowelo ***mu***as. *(soweli li mu.)*
 
 ---
 
