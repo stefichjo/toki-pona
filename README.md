@@ -9,7 +9,4 @@
 * [jan Wini Pu en jan pi ale ale ale](musi/jan-wini-pu-en-jan-pi-ale-ale-ale.md) *(Winnie-la-Pu — Winnie-the-Pooh)*
 * [sitelen musi](musi/sitelen) *(Mimoj — Memes)*
 
-## pona toko
-* [pona toko](pona-toko.md) *(Pona Toko)*
-
 <img src="https://github.com/stefichjo/toki-pona/blob/master/musi/sitelen/o-pilin-pona-o-pu.jpg?raw=true" height="400">
