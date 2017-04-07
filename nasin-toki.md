@@ -370,10 +370,10 @@ nimi "mute", "esun" li [nimi nanpa](#nimi-nanpa) musi.
 [nimi nanpa](#nimi-nanpa) li ken kama **nimi lawa**.
 *(Numeralo povas fariĝi substantivo. — A numeral can become a noun.)*
 
-* mi jo e kili tu. wan pi ona li loje. wan ante li jelo. *(Mi havas du pomojn. Unu el ili estas ruĝa. La alia estas flava. — I have two apples. One of them is red. The other one is yellow.)*
+* mi jo e kili tu. ***wan*** ona li loje. ***wan*** ante li jelo. *(Mi havas du pomojn. Unu el ili estas ruĝa. La alia estas flava. — I have two apples. One of them is red. The other one is yellow.)*
 
-**toki musi** la [nimi lili "en"](#nimi-lili-en-anu) li ken lon [nimi nanpa](#nimi-nanpa) tu.
-*(En eksperimenta lingvaĵo, la konjunkcio "en" povas esti ĉe du numeraloj. — In experimental language, the conjunction "en" can be with two numerals.)*
+[nimi lili "en"](#nimi-lili-en-anu) li ken lon [nimi nanpa](#nimi-nanpa) tu.
+*(La konjunkcio "en" povas esti ĉe du numeraloj. — The conjunction "en" can be with two numerals.)*
 
 * tenpo suno ***luka tu en tu tu*** *(dek kvar tagoj — fourteen days)*
 
