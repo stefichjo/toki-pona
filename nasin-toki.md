@@ -940,7 +940,7 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
   * *(KAMA)* - ronda — round
     * *(WAWA PALISA)* = **tawa sike lon**, **tawa lon sike pi**
   * *(LAWA)* - io ronda: cirklo, globo, ĉirkaŭo — something round: circle, sphere, surroundings
-    * *(lon ... pi)* - ĉirkaŭ — around
+    * *(lon (poka) ... pi)* - ĉirkaŭ — around
 * **sin** ***[ŝin]*** *([PALISA°](#nimi-palisa-musi))*
   * *(KAMA PALISA)* - aldona al, kun — additional to, with
   * *(KAMA)* - plia, aldona, nova, freŝa — another, additional, new, fresh
