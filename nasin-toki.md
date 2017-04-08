@@ -1015,6 +1015,7 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
 * **unpa** ***[?]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - seksumi kun, esti geedzo de — to have sexual relationships with, to be married to
   * *(LAWA)* - @ — @
+* **unpa** ***[?]*** *([SULI](#nimi-suli))* - (ge-)gravediĝanta — becoming pregnant (or her partner)
 * **uta** ***[usta]*** *([ILO°](#nimi-ilo-musi))*
   * *(WAWA PALISA)* - kisi, suĉi — to kiss, to suck
   * *(LAWA)* - organo por kisi, organo por suĉi: buŝo — organ for kissing, organ for sucking: mouth
