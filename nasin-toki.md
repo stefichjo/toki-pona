@@ -754,8 +754,8 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
   * *(KAMA PALISA)* - per — by means of
   * *(KAMA)* - uzanta — using
 * **kili** ***[xili]*** *([IJO°](#nimi-ijo-musi))*
-  * *(KAMA)* - rezultanta — resulting
-  * *(LAWA)* - io rezultanta: rezulto, frukto, legomo, fungo — something resulting: result, fruit, vegetable, mushroom
+  * *(KAMA)* - pendanta — hanging
+  * *(LAWA)* - io pendanta: frukto, legomo, fungo — something hanging: fruit, vegetable, mushroom
     * *(lon ... pi)* - depende de — depending on
 * **kin** = **a**
 * **kipisi** = **tu**
