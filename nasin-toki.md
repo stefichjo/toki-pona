@@ -1012,9 +1012,6 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
   * *(LAWA)* - io konstruita: domo, ĉambro — something built: house, room
 * **tu** ***[tu]*** *([SULI](#nimi-suli))* - disa — apart
   * *([NANPA](#nimi-nanpa))* - du — two
-* **unpa** ***[?]*** *([PALI](#nimi-pali))*
-  * *(WAWA PALISA)* -  — 
-  * *(LAWA)* - @ — @
 * **unpa** ***[?]*** *([SULI](#nimi-suli))* - (ge-)gravediĝanta, seksumanta, esti geedzo — becoming pregnant (or her partner), to have sexual relationships, to be married
 * **uta** ***[usta]*** *([ILO°](#nimi-ilo-musi))*
   * *(WAWA PALISA)* - kisi, suĉi — to kiss, to suck
