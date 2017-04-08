@@ -820,8 +820,8 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
     * *(lon ... pi)* - ekster — outside
   * *([MUN°](#nimi-mun-musi))* saturna, sabata — saturn's, saturday's
 * **mama** ***[mama]*** *([JAN°](#nimi-jan-musi))*
-  * *(KAMA)* - zorganta — care-taking@
-  * *(LAWA)* - zorganta animaĵo: gepatro — care-taking animated being: parent
+  * *(KAMA)* - protektanta — protecting
+  * *(LAWA)* - protektanta animaĵo: gepatro — protecting animated being: parent
 * **mani** ***[mani]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - valora — valueable
   * *(LAWA)* - io valora: mono, ŝparaĵo, riĉeco, granda malsovaĝigita besto — something valueable: money, savings, wealth, large domesticated animal
