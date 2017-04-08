@@ -585,7 +585,7 @@ wan nimi nanpa wan li ken ala jo e kalama "i" anu kalama "u". wan nimi ante li k
 nimi "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo", "waso" li weka.
 *("akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" kaj "waso" estas for. — "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" and "waso" are gone.)*
 
-* ona li ~~moku~~ e pan. → ona li ***alon ota*** e pan. *(Ŝi manĝas la rizon. — She eats the rice.)*
+* ona li ~~moku~~ e pan. → ona le ***alun ota*** e pan. *(Ŝi manĝas la rizon. — She eats the rice.)*
 
 kalama **[np]** li kama **[mp]** li jo e sitelen "**mp**".
 *(La sono [np] fariĝas [mp] kaj havas la literojn "mp". — The sound [np] becomes [mp] and has the letters [mp].)*
