@@ -143,7 +143,7 @@ kama pi mute nimi la **nimi palisa** "lon" li kama weka.
     * tenpo pimeja ***la*** ona li kama.
 
 nimi "ni" lon kama pi mute nimi li lon poka pi [mute nimi kama](#mute-nimi-kama), la nimi "ni" li kama weka.
-*(Se "ni" komence de frazo akompanas subfrazon, "ni" malaperas. — If "ni" at the beginning of a sentence accompanies a subclause, "ni" disappears.)*
+*(Se "ni" komence de frazo akompanas subfrazon, "ni" malaperas. — If "ni" at the beginning of a sentence accompanies a subordinate clause, "ni" disappears.)*
 
 * jan li pona tawa mi ***lon ni***: mi pona tawa jan. *(Homoj estas bonaj al mi, se mi estas bona al homoj. — People are good to me, if I'm good to people.)*
   * ~~lon ni,~~ mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
@@ -319,10 +319,10 @@ kama pi **nimi pi ijo poka** la **nimi palisa** "sama" li ken kama weka. *(Anta�
 *(Frazoj — Sentences)*
 
 #### mute nimi kama
-*(Subfrazoj — Subclauses)*
+*(Subfrazoj — Subordinate Clauses)*
 
 pini pi **mute nimi** la **sitelen nanpa** li kama **sitelen palisa** lon kama pi **mute nimi kama**.
-*(Fine de frazo, komo fariĝas dupunkto antaŭ subfrazo. — At the end of a sentence, a comma becomes a colon in front of a subclause.)*
+*(Fine de frazo, komo fariĝas dupunkto antaŭ subfrazo. — At the end of a sentence, a comma becomes a colon in front of a subordinate clause.)*
 
 * mi sona e ni: ***mi anpa***. *(Mi scias, ke mi estas malalta. — I know that I am low.)*
 
