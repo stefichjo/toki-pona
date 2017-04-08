@@ -321,7 +321,7 @@ kama pi **nimi pi ijo poka** la **nimi palisa** "sama" li ken kama weka. *(Anta�
 #### mute nimi kama
 *(Subfrazoj — Subclauses)*
 
-pini pi **mute nimi** la **sitelen nanpa** li kama **sitelen palisa** lon kama pi **mute nim kama**.
+pini pi **mute nimi** la **sitelen nanpa** li kama **sitelen palisa** lon kama pi **mute nimi kama**.
 *(Fine de frazo, komo fariĝas dupunkto antaŭ subfrazo. — At the end of a sentence, a comma becomes a colon in front of a subclause.)*
 
 * mi sona e ni: ***mi anpa***. *(Mi scias, ke mi estas malalta. — I know that I am low.)*
