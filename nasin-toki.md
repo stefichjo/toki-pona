@@ -161,7 +161,7 @@ kama nimi la pini nimi sama lon poka pi nimi "ala" la nimi "anu" li kama weka.
 *(Antaŭ vortoj kaj malantaŭ la samaj vortoj negitaj, "anu" malaperas. — In front of words and after the same words negated, "anu" disappears.)*
 
 * ona li mama ***anu*** seme? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
-  * → ona li mama ***ala*** ~~anu~~ mama?
+  * → ona li ***mama ala*** ~~anu~~ ***mama***?
     * → ona li ***mama ala mama***?
 
 #### nimi tan
