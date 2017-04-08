@@ -570,7 +570,7 @@ nimi "lon ... (pi)" li ken kama [nimi palisa](#nimi-palisa).
 kama pi [mute nimi kama](#mute-nimi-kama) li ken kama weka.
 *(La komenco de subfrazo povas malaperi. — The beginning of a subordinate clause can disappear.)*
 
-* mi sonan e jan ni: ona li kama sona e toki pona. *(Mi konas tiun/tian personon, kiu lernas Tokiponon. — I know that/such person, who is studying Toki Pona.)*
+* mi sona e jan ni: ona li kama sona e toki pona. *(Mi konas tiun/tian personon, kiu lernas Tokiponon. — I know that/such person, who is studying Toki Pona.)*
 * mi sona e jan ***pi*** ~~ijo ni:~~ ona li kama sona e toki pona. *(Mi konas iun, kiu studas Tokiponon. — I know someone, who is studying Toki Pona.)*
   * → mi sona e jan ***pi*** ~~ona~~ li kama sona e toki pona. *(Mi konas iun studantan Tokiponon. — I know someone studying Toki Pona.)*
     * → mi sona e jan ***pi*** ~~li~~ kama sona e toki pona. *(Mi konas studanton de Tokipono. — I know a student of Toki Pona.)*
