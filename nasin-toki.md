@@ -655,9 +655,9 @@ sijelo nimi "est" en nimi "la" taso tan toki Epelanto li tawa toki Ponatoko.
 [nimi nanpa](#nimi-nanpa) li jo e pini nimi "-u".
 *(Numeraloj havas la finaĵon "-u". — Numerals have the ending "-u".)*
 
-* wana *(wan — unika)*
- * wanu *(wan — unu)*
-    * wanua → nanpo wanu *(nanpa wan — unua)*
+* la kulupo estas wana. *(kulupu li wan)*
+  * jan wanu *(jan wan)*
+    * toko wanua → toko nanpo wanu *(toki nanpa wan)*
 
 [nimi poka](#nimi-poka) "ala", "ale", "ni", "seme" tan toki pona li nimi Tapejoto lon **Pona Toko**.
 *(La tokiponaj korelativoj "ala", "ale", "ni" kaj "seme" estas tabelvortoj en Pona Toko. — The Toki Pona correlatives "ala", "ale", "ni" and "seme" are table words in Pona Toko.)*
