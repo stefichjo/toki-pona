@@ -432,16 +432,16 @@ nimi "akesi", "kulupu", "mama", "soweli" li [nimi jan](#nimi-jan) musi.
 ### nimi ijo musi
 *(Eksperimentaj Aĵaj Vortoj — Experimental Thing Words)*
 
-nimi "ilo", "kili", "kon", "len", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo", "tomo" li [nimi ijo](#nimi-ijo) musi.
-*("ilo", "kili", "kon", "len", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" kaj "tomo" estas eksperimentaj aĵaj vortoj. — "ilo", "kili", "kon", "len", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" and "tomo" are experimental thing words.)*
+nimi "ilo", "kili", "kon", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo", "tomo" li [nimi ijo](#nimi-ijo) musi.
+*("ilo", "kili", "kon", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" kaj "tomo" estas eksperimentaj aĵaj vortoj. — "ilo", "kili", "kon", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" and "tomo" are experimental thing words.)*
 
 * lipu ***ilo*** *(utila libro — a useful book)*
 
 ### nimi ilo musi
 *(Eksperimentaj Ilaj Vortoj — Experimental Tool Words)*
 
-nimi "luka", "noka", "palisa", "poki", "selo", "uta" li [nimi ilo](#nimi-ilo) musi.
-*("luka", "noka", "palisa", "poki", "selo" kaj "uta" estas eksperimentaj ilaj vortoj. — "luka", "noka", "palisa", "poki", "selo" and "uta" are experimental tool words.)*
+nimi "len", "luka", "noka", "palisa", "poki", "selo", "uta" li [nimi ilo](#nimi-ilo) musi.
+*("len", "luka", "noka", "palisa", "poki", "selo" kaj "uta" estas eksperimentaj ilaj vortoj. — "len", "luka", "noka", "palisa", "poki", "selo" and "uta" are experimental tool words.)*
 
 * o ***luka*** ala e seli! *(Ne tuŝu la fajron! — Don't touch the fire!)*
 
@@ -784,9 +784,9 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
   * *(LAWA)* - organo por gvidi: kapo — organ for guiding: head
   * *(lon ... pi)* - supre de — at the top of
 * **leko** = **((mute) nena pi) sike ala**
-* **len** ***[leng]*** *([IJO°](#nimi-ijo-musi))*
-  * *(KAMA)* - pendanta, kovranta — hanging, covering
-  * *(LAWA)* - io pendanta: vesto, io kovranta: kovrilo, privateco — something hanging: cloth, something covering: cover, privacy
+* **len** ***[leng]*** *([ILO°](#nimi-ilo-musi))*
+  * *(KAMA PALISA)* - kovri, kaŝi — to cover, to hide
+  * *(LAWA)* - instrumento por kovri: vesto, kovrilo, privateco — instrument for covering: cloth, cover, privacy
 * **lete** ***[frette]*** *([SULI](#nimi-suli))* - malvarma, kruda — cold, raw
 * **li** ***[li]*** *([LILI](#nimi-lili-li))* - (predikato) — (predikato)
 * **lili** ***[lik-lik]*** *([SULI](#nimi-suli))* - malgranda, malmulta — small, few
