@@ -142,8 +142,8 @@ kama pi mute nimi la **nimi palisa** "lon" li kama weka.
   * ~~lon~~ tenpo pimeja ***la*** ona li kama. *(Ĉi-nokte, ŝi venas. — Tonight, she is coming.)*
     * tenpo pimeja ***la*** ona li kama.
 
-nimi "ni" lon kama pi mute nimi li lon poka pi **mute nimi kama**, la nimi "ni" li kama weka.
-*(Se "ni" komence de frazo akompanas relativan frazon, "ni" malaperas. — If "ni" at the beginning of a sentence accompanies a relative clause, "ni" disappears.)*
+nimi "ni" lon kama pi mute nimi li lon poka pi [mute nimi kama](#mute-nimi-kama), la nimi "ni" li kama weka.
+*(Se "ni" komence de frazo akompanas subfrazon, "ni" malaperas. — If "ni" at the beginning of a sentence accompanies a subclause, "ni" disappears.)*
 
 * jan li pona tawa mi ***lon ni***: mi pona tawa jan. *(Homoj estas bonaj al mi, se mi estas bona al homoj. — People are good to me, if I'm good to people.)*
   * ~~lon ni,~~ mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
@@ -314,6 +314,17 @@ kama pi **nimi pi ijo poka** la **nimi palisa** "sama" li ken kama weka. *(Anta�
 *(Korpaj Vortoj — Body Words)*
 
 * ***kala*** *(fiŝo — fish)*
+
+### mute nimi
+*(Frazoj — Sentences)*
+
+#### mute nimi kama
+*(Subfrazoj — Subclauses)*
+
+pini pi **mute nimi** la **sitelen nanpa** li kama **sitelen palisa** lon kama pi **mute nim kama**.
+*(Fine de frazo, komo fariĝas dupunkto antaŭ subfrazo. — At the end of a sentence, a comma becomes a colon in front of a subclause.)*
+
+* mi sona e ni: ***mi anpa***. *(Mi scias, ke mi estas malalta. — I know that I am low.)*
 
 ## toki namako
 *(Aldona Lingvaĵo — Additional Language)*
@@ -556,7 +567,7 @@ nimi "lon ... (pi)" li ken kama [nimi palisa](#nimi-palisa).
 ### mute nimi kama nasa
 *(Strangaj Subfrazoj — Strange Subordinate Clauses)*
 
-kama pi **mute nimi kama** li ken kama weka.
+kama pi [mute nimi kama](#mute-nimi-kama) li ken kama weka.
 *(La komenco de subfrazo povas malaperi. — The beginning of a subordinate clause can disappear.)*
 
 * mi sona e jan e ni: ona li kama sona e toki pona. *(Mi konas iun kaj mi scias, ke li studas Tokiponon. — I know someone and that he is studying Toki Pona.)*
