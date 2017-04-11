@@ -243,9 +243,17 @@ nimi "ala", "wan", "tu", "luka", "ale" li ken kama **nimi nanpa**.
 #### nimi palisa
 *(Prepozicioj — Prepositions)*
 
+**nimi palisa** li ken **nimi kama palisa** li ken **nimi kama (pi palisa ala)** li ken **nimi wawa**.
+*(Prepozicio povas esti uzata kiel transitiva modifilo, kiel ne-transitiva modifilo kaj kiel verbo.)*
+
 * ***tawa*** *(al, por — to, for)*
   * ***tawa*** *(moviĝanta — moving)*
     * ***tawa*** *(movo — move)*
+
+**nimi suli** li jo e [nimi lili](#nimi-lili) anu **nimi kama** e **nimi kama palisa**, la **nimi kama palisa** li lon pini.
+*(Kiam radika vorto havas partikulon aŭ modifilon kaj prepozicion, la prepozicio estas ĉe la fino. — When a content word has a particle or a modifier and a preposition, the preposition is at the end.)*
+
+* mi pana ***e*** kili ***tawa*** sina. *(Mi donas la pomon al vi. — I'm giving you the apple.)*
 
 #### nimi pi jan anu ijo
 *(Pronomoj — Pronouns)*
