@@ -103,8 +103,8 @@ pini pi **nimi lili** "o" la nimi "kute" li ken kama weka.
 * jan pona ***o*** kute. *(Amiko aŭskultu. — A friend should listen.)*
   * → jan pona ***o***! *(Ho amiko! — Hey friend!)*
 
-mute nimi wan pi nimi "kute" weka lon pini pi **nimi lili** "o" en mute nimi wan pi nimi "sina" weka lon kama pi **nimi lili** "o" li ken kama mute nimi wan pi **nimi lili** "o".
-*(Unu vokativa frazo kaj unu imperativa frazo povas fariĝi unu volativa frazo. — One vocative sentence and one imperative sentence can become one volative sentence.)*
+**jan Sonja** li kepeken ala **nimi lili "o"** lon poka pi **nimi lili "o"** ante.
+*(Sonja ne kombinas vokativon kun imperativo. Anstataŭe, ŝi uzas volativon. — Sonja doesn't combine a vocative sentence with an imperative one. Instead, she uses a volative sentence.)*
 
 * jan Ali ***o*** wawa. *(Ali estu forta. — Ali should be strong.)*
 * jan Ali ***o***, ***o*** wawa. *(Ho Ali, estu forta. — Hey Ali, be strong.)*
