@@ -126,6 +126,14 @@ pini pi **nimi wawa** "pilin" la **nimi lili** "e" li ken kama **nimi lili** "pi
 * mi ***pilin e*** pona mute. *(Mi sentas multan bonon. — I feel much good.)*
   * → mi ***pilin pi*** pona mute. *(Mi fartas tre bone. — I feel very good.)*
 
+**jan Sonja** li kepeken ala **nimi lili "pi"** lon poka pi **nimi lili "pi"** ante.
+*(Sonja ne uzas genitivon apud alia genitivo. — Sonja doesn't use genitives beside other genitives.)*
+
+* ni li tomo pi telo nasa pi jan pona. *(Tio estas la domo de biero de amiko. — This is the house of a friend's beer.)*
+  * → ni li tomo pi telo nasa. jan pona li jo e telo nasa ni.
+* ni li tomo pi telo nasa, pi jan pona. *(Tio estas trinkejo de amiko. — This is a friend's bar.)*
+  * → ni li tomo pi telo nasa. jan pona li jo e tomo ni.
+
 #### nimi lili "la"
 *(Kunteksto — Context)*
 
@@ -255,6 +263,13 @@ nimi "ala", "wan", "tu", "luka", "ale" li ken kama **nimi nanpa**.
 
 * mi pana ***e*** kili ***tawa*** sina. *(Mi donas la pomon al vi. — I'm giving you the apple.)*
 
+**jan Sonja** li kepeken **nimi palisa** lon pini taso pi **mute nimi**. ni la **sitelen nanpa** lon **nimi palisa** li ken kama weka.
+*(Sonja uzas prepoziciojn nur frazofine. Tiam, komo ĉe prepozicio povas malaperi.  — Sonja uses prepositions only at the end of a sentence. In this case, a comma next to a preposition can disappear.)*
+
+* jan pona ***sama sina*** li lon ma tomo mi. *(Amiko kiel vi estas en mia urbo.)*
+  * → jan pona li lon ma tomo mi. ona li ***sama sina***.
+* mi tawa **kepeken** tomo tawa **tan** tomo sona **tawa** tomo sina. *(Mi iras per biciklo de la lernejo al via hejmo. — I'm going by bike from school to your house.)*
+
 #### nimi pi jan anu ijo
 *(Pronomoj — Pronouns)*
 
@@ -291,18 +306,18 @@ pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li kam
 
 * mama ***pi ijo ale*** *(gepatro de ĉio — parent of everything)*
 
-kama pi **nimi pi ijo poka** la **nimi palisa** "sama" li ken kama weka. *(Antaŭ korelativo, la prepozicio "sama" povas malaperi. — In front of a correlative, the preposition "sama" can disappear.)*
-
-* tomo ***sama*** tomo ni *(domo kiel tiu domo — a house like this house)*
-  * tomo ***sama*** ni *(domo kiel tiu, tia domo — a house like this, such a house)*
-    * tomo ni *(tiuj domoj → tia domo — those houses → such a house)*
-
 **nimi kama** "ala" li ken tawa.
 *(La modifilo "ala" povas moviĝi. — The modifier "ala" can move.)*
 
 * o kepeken ilo ike ***ala***. *(Uzu neniujn malĝustajn instrumentojn. — Don't use any wrong tools.)*
   * o kepeken — ***ala*** — ilo ike. *(Ne uzu la malĝustajn instrumentojn. — Don't use the wrong tools.)*
     * → o kepeken ***ala*** ilo ike.
+
+**jan Sonja** li kepeken nimi "sama ni" ala. ona li kepeken nimi "ni".
+*(Sonja uzas "ni" anstataŭ "sama ni". — Sonja uses "ni" instead of "sama ni".)*
+
+* tomo ***sama*** ni *(domo kiel tiu, tia domo — a house like this, such a house)*
+  * → tomo ni *(tiuj domoj → tia domo — those houses → such a house)*
 
 ##### nimi pali
 *(Agaj Vortoj — Doing Words)*
@@ -329,8 +344,8 @@ kama pi **nimi pi ijo poka** la **nimi palisa** "sama" li ken kama weka. *(Anta�
 #### mute nimi kama
 *(Subfrazoj — Subordinate Clauses)*
 
-pini pi **mute nimi** la **sitelen nanpa** li kama **sitelen palisa** lon kama pi **mute nimi kama**.
-*(Fine de frazo, komo fariĝas dupunkto antaŭ subfrazo. — At the end of a sentence, a comma becomes a colon in front of a subordinate clause.)*
+**jan Sonja** li kepeken **mute nimi kama** lon pini taso pi **mute nimi**. ni la **sitelen nanpa** li kama **sitelen palisa**.
+*(Sonja uzas subfrazojn nur frazofine. Tiam, komo fariĝas dupunkto. — Sonja uses subordinate clauses only at the end of a sentence. In this case, the comma becomes a colon.)*
 
 * mi sona e ni: ***mi anpa***. *(Mi scias, ke mi estas malalta. — I know that I am low.)*
 
@@ -490,13 +505,6 @@ kama pi [nimi pi jan anu ijo](#nimi-pi-jan-anu-ijo) la [nimi lili "pi"](#nimi-li
 * ni li ijo mi. *(Tio apartenas al mi. — This belongs to me.)*
   * ni li ~~ijo~~ ***pi mi***. *(Tio estas mia. — This is mine.)*
     * → ni li ***pi mi***.
-
-[nimi lili "pi"](#nimi-lili-pi) li ken ala lon pini pi nimi pi [nimi lili "pi"](nimi-lili-pi). tan ni la **sitelen nanpa** li lon ala lon [nimi lili "pi"](#nimi-lili-pi) tu.
-*(Ne ekzistas rekursivaj genitivaj frazeroj. Tial ne estas komo ĉe du genitivaj frazeroj. — There are no recursive genitive phrases. Therefore there is no comma with two genitive phrases.)*
-
-* tomo pi telo nasa pi jan pona *(domo de biero de amiko — house of a friend's beer)*
-* tomo pi telo nasa, pi jan pona *(trinkejo de amiko — a friend's bar)*
-  * → tomo pi telo nasa pi jan pona
 
 ### nimi lili "e" nasa
 *(Stranga Akuzativo — Strange Accusative)*
