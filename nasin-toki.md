@@ -268,7 +268,8 @@ nimi "ala", "wan", "tu", "luka", "ale" li ken kama **nimi nanpa**.
 
 * jan pona ***sama sina*** li lon ma tomo mi. *(Amiko kiel vi estas en mia urbo.)*
   * → jan pona li lon ma tomo mi. ona li ***sama sina***.
-* mi tawa **kepeken** tomo tawa **tan** tomo sona **tawa** tomo sina. *(Mi iras per biciklo de la lernejo al via hejmo. — I'm going by bike from school to your house.)*
+* mi tawa ***kepeken*** tomo tawa, ***tan*** tomo sona, ***tawa*** tomo sina. *(Mi iras per biciklo de la lernejo al via hejmo. — I'm going by bike from school to your house.)*
+  * → mi tawa ***kepeken*** tomo tawa ***tan*** tomo sona ***tawa*** tomo sina.
 
 #### nimi pi jan anu ijo
 *(Pronomoj — Pronouns)*
@@ -316,8 +317,8 @@ pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li kam
 **jan Sonja** li kepeken nimi "sama ni" ala. ona li kepeken nimi "ni".
 *(Sonja uzas "ni" anstataŭ "sama ni". — Sonja uses "ni" instead of "sama ni".)*
 
-* tomo ***sama*** ni *(domo kiel tiu, tia domo — a house like this, such a house)*
-  * → tomo ni *(tiuj domoj → tia domo — those houses → such a house)*
+* tomo ***sama ni*** *(domo kiel tiu, tia domo — a house like this, such a house)*
+  * → tomo ***ni*** *(tiuj domoj → tia domo — those houses → such a house)*
 
 ##### nimi pali
 *(Agaj Vortoj — Doing Words)*
