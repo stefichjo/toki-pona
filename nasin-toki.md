@@ -10,8 +10,8 @@ wan lipu "[toki lili](#toki-lili)" li toki e nasin toki pi jan ale pi toki pona.
 wan lipu "[toki namako](#toki-namako)" li toki e nasin toki sin pi jan Sonja lon lipu suli pi toki pona.
 *(La sekcio "Aldona Lingvaĵo" traktas la aldonan lingvouzon de Sonja en la Oficiala Libro de Tokipono. — The section "Additional Language" treats Sonja Lang's additional way of using the language in the Official Toki Pona Book.)*
 
-* ona li pana e **telo** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
-  * → ona li **telo** e kasi. *(ŝi akvumas la planton. — She waters the plant.)*
+* ona li pana e ***telo*** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
+  * → ona li ***telo*** e kasi. *(ŝi akvumas la planton. — She waters the plant.)*
 
 wan lipu "[toki musi](#toki-musi)" li toki e nasin toki pi jan ala. taso tawa mi la ona li pona lon poka pi [toki lili](#toki-lili).
 *(La sekcio "Eksperimenta Lingvaĵo" traktas lingvouzojn, kiuj ne estas aplikataj, sed kiuj laŭ mi harmonias kun la "Kerna Lingvaĵo". — The section "Experimental Language" treats ways of using the language, which seem to me to be in harmony with the "Core Language", but which are not applied.)*
@@ -85,8 +85,8 @@ nimi lon pini pi **nimi lili** "li" li ken jo e **nimi lili** "e" mute. sitelen 
 jan li ken toki e wile kepeken nimi lon pini taso pi **nimi lili** "e".
 *(Oni povas komuniki deziron per nura rekta objekto. — One can express a desire by just a direct object.)*
 
-* ~~tawa pona sina la mi wile e~~ moku pona. *(Mi bondeziras al vi bonan manĝon. — I wish you a good meal.)*
-  * → moku pona! *(Bonan apetiton! — Bon appétit!)*
+* ~~tawa pona sina la mi wile e~~ ***moku pona***. *(Mi bondeziras al vi bonan manĝon. — I wish you a good meal.)*
+  * → ***moku pona***! *(Bonan apetiton! — Bon appétit!)*
 
 #### nimi lili "o"
 *(Volativo, Vokativo kaj Imperativo — Volative, Vocative and Imperative)*
@@ -129,10 +129,10 @@ pini pi **nimi wawa** "pilin" la **nimi lili** "e" li ken kama **nimi lili** "pi
 **jan Sonja** li kepeken ala **nimi lili "pi"** lon poka pi **nimi lili "pi"** ante.
 *(Sonja ne uzas genitivon apud alia genitivo. — Sonja doesn't use genitives beside other genitives.)*
 
-* ni li tomo pi telo nasa pi jan pona. *(Tio estas la domo de biero de amiko. — This is the house of a friend's beer.)*
-  * → ni li tomo pi telo nasa. jan pona li jo e telo nasa ni.
-* ni li tomo pi telo nasa, pi jan pona. *(Tio estas trinkejo de amiko. — This is a friend's bar.)*
-  * → ni li tomo pi telo nasa. jan pona li jo e tomo ni.
+* ni li tomo ***pi*** telo nasa ***pi*** jan pona. *(Tio estas la domo de biero de amiko. — This is the house of a friend's beer.)*
+  * → ni li tomo ***pi*** telo nasa. jan pona li ***jo*** e telo nasa ni.
+* ni li tomo ***pi*** telo nasa, ***pi*** jan pona. *(Tio estas trinkejo de amiko. — This is a friend's bar.)*
+  * → ni li tomo ***pi*** telo nasa. jan pona li ***jo*** e tomo ni.
 
 #### nimi lili "la"
 *(Kunteksto — Context)*
@@ -246,7 +246,7 @@ sin la **nimi palisa** li **nimi suli** a. ona li ken kama **nimi kama palisa**.
 nimi "ala", "wan", "tu", "luka", "ale" li ken kama **nimi nanpa**.
 *("ala", "wan", "tu", "luka" kaj "ale" povas fariĝi numeraloj. — "ala", "wan", "tu", "luka" and "ale" can become numerals.)*
 
-* luka ***wan*** li jo e palisa **luka**. *(Unu mano havas kvin fingrojn. — One hand has five fingers.)*
+* luka ***wan*** li jo e palisa ***luka***. *(Unu mano havas kvin fingrojn. — One hand has five fingers.)*
 
 #### nimi palisa
 *(Prepozicioj — Prepositions)*
@@ -532,8 +532,8 @@ sitelen nanpa li ken kama [nimi lili](#nimi-lili-en-anu) nasa ["en"](#nimi-lili-
 
 nimi "pana" li ken kama [nimi wawa pini](#nimi-wawa-pini).
 
-* mi **pana** e sona pi toki pona tawa sina. *(Mi instruas Tokiponon al vi.)*
-  * mi **pana** sona e toki pona tawa sina.
+* mi ***pana*** e sona pi toki pona tawa sina. *(Mi instruas Tokiponon al vi.)*
+  * mi ***pana*** sona e toki pona tawa sina.
 
 **nimi wawa palisa** ale li ken kama **nimi wawa pini**.
 *(Ĉiu transitiva verbo povas fariĝi helpa verbo. — Every transitive verb can become an auxiliary verb.)*
@@ -602,13 +602,13 @@ kama pi [mute nimi kama](#mute-nimi-kama) li ken kama weka.
 nimi li ken ante.
 *(Vortoj povas esti diversaj. — Words can differ.)*
 
-* ~~anu~~ → **an** *(aŭ — or)*
+* ~~anu~~ → ***an*** *(aŭ — or)*
 
 wan nimi nanpa wan li ken ala jo e kalama "i" anu kalama "u". wan nimi ante li ken ala jo e kalama "e" anu kalama "o".
 *(La unua silabo ne povas havi la vokalon "i" aŭ "u". La aliaj silaboj ne povas havi la vokalon "e" aŭ "o". — The first syllable can not have the vowel "i" or "u". The other syllables can not have the vowel "e" or "o".)*
 
-* ~~nimi~~ → **nemi** *(vorto — word)*
-* ~~kulupu~~ → **kolupu** *(grupo — group)*
+* ~~nimi~~ → ***nemi*** *(vorto — word)*
+* ~~kulupu~~ → ***kolupu*** *(grupo — group)*
 
 nimi "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo", "waso" li weka.
 *("akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" kaj "waso" estas for. — "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" and "waso" are gone.)*
@@ -630,9 +630,9 @@ kalama lon kama pi kalama **[i]** li kama ante tan kalama **[p]**, **[t]**, **[k
 kalama nanpa wan pi **nimi kama** li ken kama ante.
 *(La unua sono de modifilo povas varii. — The sound of a modifier can vary.)*
 
-* ~~jan pona~~ → **jen bona** *(amiko — friend)*
-* ~~tomo sina~~ → **tomu zena** *(via domo — your house)*
-* ~~telo kili~~ → **telu geli** *(suko — juice)*
+* ~~jan pona~~ → ***jen bona*** *(amiko — friend)*
+* ~~tomo sina~~ → ***tomu zena*** *(via domo — your house)*
+* ~~telo kili~~ → ***telu geli*** *(suko — juice)*
 
 ### Pona Toko
 *(Ponatoko — Pona Toko)*
@@ -640,7 +640,7 @@ kalama nanpa wan pi **nimi kama** li ken kama ante.
 toki **Ponatoko** li jo e nimi pi **toki pona** e nasin sitelen pi **toki pona**, taso ona li jo e kalama pi toki **Epelanto** e pini nimi pi toki **Epelanto**.
 *(Pona Toko havas la vortojn kaj la ortografion de Tokipono, sed ĝi havas la akcentadon kaj la finaĵojn de Esperanto. — Pona Toko has the words and the orthography of Toki Pona, but it has the syllable stress and the endings of Esperanto.)*
 
-* niun sunan tenpon mi pone tokas. *(tenpo suno ni la mi toki pona.)*
+* ***niun sunan tenpon mi pone tokas.*** *(tenpo suno ni la mi toki pona.)*
 
 nimi "selo" en "poki" li jo e sijelo nimi "ŝel" en "bok" lon toki Ponatoko.
 *(La tokiponaj vortoj "selo" kaj "poki" havas la radikojn "ŝel" kaj "bok" en Pona Toko. — The Toki Pona words "selo" and "poki" have the stems "ŝel" and "bok" in Pona Toko.)*
