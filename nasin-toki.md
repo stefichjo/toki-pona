@@ -1,14 +1,14 @@
 # nasin toki pi toki pona
 *(Gramatiko de Tokipono — Grammar of Toki Pona)*
 
-wan lipu "[toki lili](#toki-lili)" li toki e nasin toki pi jan ale pi toki pona.
-*(La sekcio "Kerna Lingvaĵo" traktas la lingvouzon de ĉiuj tokiponistoj. — The section "Core Language" treats the way every Toki Pona speaker uses the language.)*
+wan lipu "[toki lili](#toki-lili)" li toki e nasin toki pi jan ale pi toki pona e nasin pona pi jan Sonja.
+*(La sekcio "Kerna Lingvaĵo" traktas la lingvouzon de ĉiuj tokiponistoj kaj la "ponan" stilon de Sonja. — The section "Core Language" treats the way every Toki Pona speaker uses the language and Sonja's "pona" style.)*
 
 * ***sina*** ~~li~~ sin. *(Vi estas nova. — You are new.)*
   * → ***sina*** sin.
 
 wan lipu "[toki namako](#toki-namako)" li toki e nasin toki sin pi jan Sonja lon lipu suli pi toki pona.
-*(La sekcio "Aldona Lingvaĵo" traktas la aldonan lingvouzon de Sonja en la Oficiala Libro de Tokipono. — The section "Additional Language" treats Sonja Lang's additional way of using the language in the Official Toki Pona Book.)*
+*(La sekcio "Aldona Lingvaĵo" traktas la aldonan lingvouzon de Sonja en la Oficiala Libro de Tokipono. — The section "Additional Language" treats Sonja's additional way of using the language in the Official Toki Pona Book.)*
 
 * ona li pana e ***telo*** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
   * → ona li ***telo*** e kasi. *(ŝi akvumas la planton. — She waters the plant.)*
@@ -680,7 +680,7 @@ sijelo nimi "est" en nimi "la" taso tan toki Epelanto li tawa toki Ponatoko.
 *(La tokiponaj korelativoj "ala", "ale", "ni" kaj "seme" estas tabelvortoj en Pona Toko. — The Toki Pona correlatives "ala", "ale", "ni" and "seme" are table words in Pona Toko.)*
 
 * ***semeal*** oni estas nie? *(tan seme la ona li lon ni?)*
-  * → tan semeo oni estas lon nio?
+  * → ***tan semeo*** oni estas lon nio?
 
 ***nimi wawa palisa*** li pini kepeken kalama pi open ala.
 *(Prepozicio finiĝas per konsonanto. — A preposition ends in a consonant.)*
