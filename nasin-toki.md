@@ -710,7 +710,7 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
   * *(LAWA)* - nenio — nothing
   * *([NANPA](#nimi-nanpa))* - nul — zero
   * *(lon poka pi suno ...)* - nordpoluse/sudpoluse, norde/sude — at the northpole/southpole, in the north/south
-* **alasa** ***[?]*** *([PALI](#nimi-pali))*
+* **alasa** ***[a-la-ŝas]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - ĉasi, kolekti — to hunt, to collect
   * *(LAWA)* - io por ĉasi, io por kolekti: foraĝo — something to hunt, something to collect: forage
 * **ale** ***[alle]*** *([IJO POKA](#nimi-pi-ijo-poka))*
