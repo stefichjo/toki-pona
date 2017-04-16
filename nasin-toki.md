@@ -358,6 +358,13 @@ pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li kam
 ### nimi lili "e" namako
 *(Aldona Akuzativo — Additional Accusative)*
 
+**nimi lawa** li ken kama **nimi wawa palisa**.
+*(Substantivo povas fariĝi transitiva verbo. — A noun can become a transitive verb.)*
+
+* ona li ***telo*** e kasi. *(ŝi malsekigas la planton. — She gets the plant wet.)*
+* ona li pana e ***telo*** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
+  * → ona li ***telo*** e kasi. *(Ŝi akvumas la planton. — She waters the plant.)*
+
 nimi "utala tawa" li ken kama nimi "utala e".
 *("utala tawa" povas fariĝi "utala e". — "utala tawa" can become "utala e".)*
 
@@ -370,16 +377,6 @@ nimi "tawa lon poka sike pi" li ken kama "sike e".
 * mi ***tawa lon poka sike pi*** tomo sona. *(Mi iras ĉirkaŭ la lernejo. — I walk around the school.)*
   * → mi ***tawa sike lon*** tomo sona.
     * → mi ***sike e*** tomo sona.
-
-### nimi wawa palisa namako
-*(Aldonaj Transitivaj Verboj — Additional Transitive Verbs)*
-
-**nimi lawa** li ken kama **nimi wawa palisa**.
-*(Substantivo povas fariĝi transitiva verbo. — A noun can become a transitive verb.)*
-
-* ona li ***telo*** e kasi. *(ŝi malsekigas la planton. — She gets the plant wet.)*
-* ona li pana e ***telo*** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
-  * → ona li ***telo*** e kasi. *(Ŝi akvumas la planton. — She waters the plant.)*
 
 ### nimi nanpa namako
 *(Aldonaj Numeraloj — Strange Numerals)*
