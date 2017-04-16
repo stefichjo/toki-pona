@@ -358,25 +358,29 @@ pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li kam
 ### nimi lili "e" namako
 *(Aldona Akuzativo — Additional Accusative)*
 
-**nimi lawa** li ken kama **nimi wawa palisa**.
-*(Substantivo povas fariĝi transitiva verbo. — A noun can become a transitive verb.)*
+nimi "pana e ... tawa" li ken kama [nimi lili "e"](#nimi-lili-e) namako.
 
 * ona li ***telo*** e kasi. *(ŝi malsekigas la planton. — She gets the plant wet.)*
 * ona li pana e ***telo*** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
   * → ona li ***telo*** e kasi. *(Ŝi akvumas la planton. — She waters the plant.)*
 
-nimi "utala tawa" li ken kama nimi "utala e".
-*("utala tawa" povas fariĝi "utala e". — "utala tawa" can become "utala e".)*
+nimi "lon sinpin pi" li ken kama [nimi lili "e"](#nimi-lili-e) namako.
 
-* jan Sulu li ***utala tawa*** jan ike. *(Sulu batalas la malamikon. — Sulu fights the enemy.)*
-  * → jan Sulu li ***utala e*** jan ike.
+* ona li ***utala e*** jan ike. *(Ŝi provokas/atakas la malamikon. — She is provoking/attacking the enemy.)*
+* ona li ***utala lon sinpin pi*** jan ike. *(Ŝi batalas la malamikon. — She fights the enemy.)*
+  * → ona li ***utala e*** jan ike.
 
-nimi "tawa lon poka sike pi" li ken kama "sike e".
-*("tawa lon poka sike pi" povas fariĝi "sike e". — "tawa lon poka sike pi" can become "sike e".)*
+nimi "lon poka pi" li ken kama [nimi lili "e"](#nimi-lili-e) namako.
 
-* mi ***tawa lon poka sike pi*** tomo sona. *(Mi iras ĉirkaŭ la lernejo. — I walk around the school.)*
-  * → mi ***tawa sike lon*** tomo sona.
-    * → mi ***sike e*** tomo sona.
+* ona li ***unpa e*** jan ni. *(Ŝi seksumigas tiun personon.)*
+* ona li ***unpa lon poka pi*** jan ni. *(Ŝi seksumas kun tiu persono.)*
+  * → ona li ***unpa e*** jan ni.
+
+nimi "lon poka sike pi" li ken kama nimi "sike" en [nimi lili "e"](#nimi-lili-e) namako.
+
+* ona li ***sike e*** kiwen. *(Ŝi rondigas la ŝtonon. — She makes the stone round.)*
+* ona li ***tawa lon poka sike pi*** tomo sona. *(Ŝi iras ĉirkaŭ la lernejon. — She is walking around the school.)*
+  * → ona li tawa li ***sike e*** tomo sona.
 
 ### nimi nanpa namako
 *(Aldonaj Numeraloj — Strange Numerals)*
@@ -891,7 +895,8 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
 * **nasin** ***[naĉin]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - interkonektanta — interconnecting
   * *(LAWA)* - io interkonektanta: vojo, pado, strato, metodo, kutimo, doktrino — something interconnecting: way, path, street, method, custom, doctrine
-    * *(lon ... tan ... tawa ...)* - inter — between
+    * *(lon ... tan, tawa)* - inter — between
+    * *(lon poka ... pi)* - preter — past
 * **nena** ***[nena]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - elstara — outstanding
   * *(LAWA)* - io elstara: ĝibo, butono, monto, nazo — something outstanding: bump, button, mountain, nose
@@ -980,7 +985,7 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
   * *(KAMA)* - ronda — round
     * *(WAWA PALISA)* = **tawa sike lon**, **tawa lon poka sike pi**
   * *(LAWA)* - io ronda: cirklo, globo, ĉirkaŭo — something round: circle, sphere, surroundings
-    * *(lon (poka) ... pi)* - ĉirkaŭ — around
+    * *(lon poka ... pi)* - ĉirkaŭ — around
 * **sin** ***[ŝin]*** *([PALISA°](#nimi-palisa-musi))*
   * *(KAMA PALISA)* - aldona al, kun — additional to, with
   * *(KAMA)* - plia, aldona, nova, freŝa — another, additional, new, fresh
