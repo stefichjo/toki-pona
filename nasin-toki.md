@@ -379,8 +379,9 @@ nimi "lon poka pi" li ken kama [nimi lili "e"](#nimi-lili-e) namako.
 nimi "lon poka sike pi" li ken kama nimi "sike" en [nimi lili "e"](#nimi-lili-e) namako.
 
 * ona li ***sike e*** kiwen. *(Ŝi rondigas la ŝtonon. — She makes the stone round.)*
-* ona li ***tawa lon poka sike pi*** tomo sona. *(Ŝi iras ĉirkaŭ la lernejon. — She is walking around the school.)*
-  * → ona li tawa li ***sike e*** tomo sona.
+* ona li tawa ***lon poka sike pi*** tomo sona. *(Ŝi iras ĉirkaŭ la lernejon. — She is walking around the school.)*
+  * → ona ~~li tawa~~ li ***sike e*** tomo sona.
+    * → ona li ***sike e*** tomo sona.
 
 ### nimi nanpa namako
 *(Aldonaj Numeraloj — Strange Numerals)*
@@ -983,7 +984,7 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
   * *(LAWA)* - io adapita: vivaĵo, korpo — something adapted: living being, body
 * **sike** ***[sirkel]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - ronda — round
-    * *(WAWA PALISA)* = **tawa sike lon**, **tawa lon poka sike pi**
+    * *(WAWA PALISA)* = **lon poka sike pi**
   * *(LAWA)* - io ronda: cirklo, globo, ĉirkaŭo — something round: circle, sphere, surroundings
     * *(lon poka ... pi)* - ĉirkaŭ — around
 * **sin** ***[ŝin]*** *([PALISA°](#nimi-palisa-musi))*
