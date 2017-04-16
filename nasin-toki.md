@@ -263,13 +263,15 @@ nimi "ala", "wan", "tu", "luka", "ale" li ken kama **nimi nanpa**.
 
 * mi pana ***e*** kili ***tawa*** sina. *(Mi donas la pomon al vi. — I'm giving you the apple.)*
 
-**jan Sonja** li kepeken **nimi palisa** lon pini taso pi **mute nimi**. ni la **sitelen nanpa** lon **nimi palisa** li ken kama weka.
-*(Sonja uzas prepoziciojn nur frazofine. Tiam, komo ĉe prepozicio povas malaperi.  — Sonja uses prepositions only at the end of a sentence. In this case, a comma next to a preposition can disappear.)*
+**jan Sonja** li kepeken **nimi palisa** lon pini taso pi **mute nimi**. ni la **sitelen nanpa** lon **nimi palisa** li ken kama weka. pini pi **nimi suli** la **nimi palisa** "lon" li kama weka.
+*(Sonja uzas prepoziciojn nur frazofine. Tiam, komo ĉe prepozicio povas malaperi. Post radika vorto, la prepozicio "lon" malaperas.  — Sonja uses prepositions only at the end of a sentence. In this case, a comma next to a preposition can disappear. After a content word, the preposition "lon" disappears.)*
 
 * jan pona ***sama sina*** li lon ma tomo mi. *(Amiko kiel vi estas en mia urbo.)*
   * → jan pona li lon ma tomo mi. ona li ***sama sina***.
 * mi tawa ***kepeken*** tomo tawa, ***tan*** tomo sona, ***tawa*** tomo sina. *(Mi iras per biciklo de la lernejo al via hejmo. — I'm going by bike from school to your house.)*
   * → mi tawa ***kepeken*** tomo tawa ***tan*** tomo sona ***tawa*** tomo sina.
+* jan ~~lon~~ ***poka*** *(najbaro — neighbor)*
+  * → jan ***poka***
 
 #### nimi pi jan anu ijo
 *(Pronomoj — Pronouns)*
@@ -1056,3 +1058,4 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
   * *(WAWA PALISA)* - deziri, bezoni — to desire, to need
   * *(LAWA)* - io por deziri, io por bezoni: neceso — something to desire, something to need: necessity
   * *(WAWA PINI)* - voli, devi — want, must
+
