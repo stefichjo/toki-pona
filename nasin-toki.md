@@ -355,6 +355,22 @@ pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li kam
 ## toki namako
 *(Aldona Lingvaĵo — Additional Language)*
 
+### nimi lili "e" namako
+*(Aldona Akuzativo — Additional Accusative)*
+
+nimi "utala tawa" li ken kama nimi "utala e".
+*("utala tawa" povas fariĝi "utala e". — "utala tawa" can become "utala e".)*
+
+* jan Sulu li ***utala tawa*** jan ike. *(Sulu batalas la malamikon. — Sulu fights the enemy.)*
+  * → jan Sulu li ***utala e*** jan ike.
+
+nimi "tawa lon poka sike pi" li ken kama "sike e".
+*("tawa lon poka sike pi" povas fariĝi "sike e". — "tawa lon poka sike pi" can become "sike e".)*
+
+* mi ***tawa lon poka sike pi*** tomo sona. *(Mi iras ĉirkaŭ la lernejo. — I walk around the school.)*
+  * → mi ***tawa sike lon*** tomo sona.
+    * → mi ***sike e*** tomo sona.
+
 ### nimi wawa palisa namako
 *(Aldonaj Transitivaj Verboj — Additional Transitive Verbs)*
 
@@ -570,9 +586,6 @@ nimi "lon ... (pi)" li ken kama [nimi palisa](#nimi-palisa).
 
 * mi ***kepeken*** ilo. *(Mi uzas la instrumenton. — I use the instrument.)*
   * → mi ***kepeken e*** ilo.
-* mi tawa ***lon sike pi*** tomo sona. *(Mi iras ĉirkaŭ la lernejo. — I walk around the school.)*
-  * → mi tawa ***sike*** tomo sona.
-    * → mi ***sike e*** tomo sona.
 
 ### nimi nasa pi jan anu ijo
 *(Strangaj Pronomoj — Strange Pronouns)*
@@ -968,7 +981,7 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
   * *(LAWA)* - io adapita: vivaĵo, korpo — something adapted: living being, body
 * **sike** ***[sirkel]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - ronda — round
-    * *(WAWA PALISA)* = **tawa sike lon**, **tawa lon sike pi**
+    * *(WAWA PALISA)* = **tawa sike lon**, **tawa lon poka sike pi**
   * *(LAWA)* - io ronda: cirklo, globo, ĉirkaŭo — something round: circle, sphere, surroundings
     * *(lon (poka) ... pi)* - ĉirkaŭ — around
 * **sin** ***[ŝin]*** *([PALISA°](#nimi-palisa-musi))*
