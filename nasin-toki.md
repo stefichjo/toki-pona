@@ -432,6 +432,27 @@ nimi "mute", "esun" li [nimi nanpa](#nimi-nanpa) musi.
 
 * tenpo suno ***luka tu en tu tu*** *(dek kvar tagoj — fourteen days)*
 
+#### nimi musi pi nanpa esun
+*(Eksperimentaj Vortoj por Sinsekvoj — Experimental Words for Sequences)*
+
+ala pi nimi **nanpa wan** li nimi **nanpa ale**.
+*(La malo de "nanpa wan" estas "nanpa ale". — The opposite of "nanpa wan" is "nanpa ale".)*
+
+* sina ***nanpa wan*** *(Vi estas la unua. — You're the first.)*
+* sina ***nanpa ale*** *(Vi estas la lasta. — You're the last.)*
+
+linja pi nanpa esun la wan linja kama li "nanpa kama", wan linja awen li "nanpa awen", wan linja pini li "nanpa pini".
+*(En atendovico la venonta vicero estas "nanpa kama", la estanta vicero estas "nanpa awen" kaj la pasinta vicero estas "nanpa pini". — In a row, the one whose turn it's going to be is "nanpa kama", the one whose turn it is is "nanpa awen" and the one whose turn it has been is "nanpa pini".)*
+
+* mi ***nanpa kama*** *(Estos mia vico. — It's going to be my turn.)*
+* mi ***nanpa awen*** *(Estas mia vico. — It's my turn.)*
+* mi ***nanpa pini*** *(Estis mia vico. — It's been my turn.)*
+
+ilo sona li pali lon tenpo mute, la ona li "nanpa sin" e ona.
+*(Kiam komputilo plurfoje plenumas algoritmon, ĝi iteracias ("nanpa sin") e ona. — When a computer fulfills an algorithm multiple times, it iterates ("nanpa sin") it.)*
+
+* ilo sona li ***nanpa sin*** e pali. *(La komputilo ripetas la taskon. La komputilo iteracias la algoritmon. — The computer repeats the task. The computer iterates the algorithm.)*
+
 ### nimi palisa musi
 *(Eksperimentaj Prepozicioj — Experimental Prepositions)*
 
