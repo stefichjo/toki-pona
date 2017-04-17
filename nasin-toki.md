@@ -430,7 +430,13 @@ nimi "mute", "esun" li [nimi nanpa](#nimi-nanpa) musi.
 [nimi lili "en"](#nimi-lili-en-anu) li ken lon [nimi nanpa](#nimi-nanpa) tu.
 *(La konjunkcio "en" povas esti ĉe du numeraloj. — The conjunction "en" can be with two numerals.)*
 
+* tenpo suno esun tu *(du semajnoj — two weeks)*
 * tenpo suno ***luka tu en tu tu*** *(dek kvar tagoj — fourteen days)*
+
+kepeken nimi pi nanpa lili en nimi pi nanpa suli la jan li ken toki e nanpa lon nasin tan ala tawa wan.
+*(Pere de numeralo de malgranda kvanto kaj numeralo de granda kvanto oni povas esprimi kvanton inter nulo kaj unu. — By means of a numeral of a small quantity and a numerl of a big quantity one can express a quantity between zero and one.)*
+
+* mi pana e ***wan pi tu tu*** tawa sina. *(Mi donas al vi kvaronon. — I give you a quarter.)*
 
 #### nimi musi pi nanpa esun
 *(Eksperimentaj Vortoj por Sinsekvoj — Experimental Words for Sequences)*
