@@ -5,7 +5,7 @@
 
 ___
 * jan Kitopa Jopin *(Christopher Robin)*
-* pilin pi sin nasa *(surpriziĝo)*
+* pilin pi sin nasa *(surpriziĝas)*
 
 ___
 
@@ -38,7 +38,8 @@ ___
 
 sina lukin e sitelen pi lipu ante pi ijo pi jan Kitopa Jopin, la ken la sina sona e ni: tenpo pini la ona li jo e waso walo (anu waso walo li jo e jan Kitopa Jopin, mi sona ala) en ona li pana e nimi "Pu" tawa waso walo ni.
 tenpo suli li kama lon pini pi ijo ni: mi tu li toki kulupu e "tawa pona" li awen e nimi tan ni: tawa mi tu la waso walo ni li awen ala wile e ona.
-tan ni la soweli Etuwa Pe toki e ni: ona li wile jo e nimi pi ona sama taso, la jan Kitopa Jopin li wile ala awen toki insa li toki e ni lon tenpo sama: ona li soweli Wini Pu. tan ni la ona li ona. mi kama pana e sona pi ijo pi soweli Pu. tan ni la mi awen pana e sona pi ale ante.
+ni la soweli Etuwa Pe toki e ni: ona li wile jo e nimi pi sin nasa, pi ona sama taso. tenpo sama la jan Kitopa Jopin li toki e ni: ona li soweli Wini Pu. a: ona li ona.
+pona. mi pana e sona pi soweli Pu. kama la mi pana e sona pi ale ante.
 
 <img src="sitelen/jan-wini-pu/img00001.gif">
 
