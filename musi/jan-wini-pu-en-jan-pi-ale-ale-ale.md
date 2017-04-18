@@ -4,17 +4,18 @@
 <img src="sitelen/jan-wini-pu/welcome.jpg">
 
 ___
-* pilin pi sin nasa *(surpriziĝanta)*
+* jan Kitopa Jopin *(Christopher Robin)*
+* pilin pi sin nasa *(surpriziĝo)*
 
 ___
 
 **tawa ona la  
-luka lon luka la mi tu li kama lon,  
+luka lon luka la mi tu li kama  
 jan Kitopa Jopin en mi,  
 tan ni: mi tu li wile pana e lipu ni tawa sina.  
 sina pilin pi sin nasa anu seme?  
 sina wile e ni taso anu seme?  
-ona li ijo sina, a  
+ona li ijo sina a  
 tan ni: mi tu li olin e sina.**
 
 ___
