@@ -434,7 +434,7 @@ nimi "mute", "esun" li [nimi nanpa](#nimi-nanpa) musi.
 * tenpo suno ***luka tu en tu tu*** *(dek kvar tagoj — fourteen days)*
 
 kepeken nimi pi nanpa lili en nimi pi nanpa suli la jan li ken toki e nanpa lon nasin tan ala tawa wan.
-*(Pere de numeralo de malgranda kvanto kaj numeralo de granda kvanto oni povas esprimi kvanton inter nulo kaj unu. — By means of a numeral of a small quantity and a numerl of a big quantity one can express a quantity between zero and one.)*
+*(Pere de numeralo de malgranda kvanto kaj numeralo de granda kvanto oni povas esprimi kvanton inter nulo kaj unu. — By means of a numeral of a small quantity and a numeral of a big quantity one can express a quantity between zero and one.)*
 
 * mi pana e ***wan pi tu tu*** tawa sina. *(Mi donas al vi kvaronon. — I give you a quarter.)*
 
