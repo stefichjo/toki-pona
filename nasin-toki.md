@@ -24,9 +24,11 @@ wan lipu "[toki nasa](#toki-nasa)" li toki e nasin toki sin pi jan nasa ni: ona 
 * mi tawa ~~lon~~ ***poka*** sina. *(Mi iras kun vi. — I'm going with you.)*
   * → mi tawa ***poka*** sina.
 
-wan lipu "[toki sin](#toki-sin)" ...
+wan lipu "[toki sin](#toki-sin)" li toki e toki ante tan toki pona.
+*(La sekcio "Novaj Lingvoj" traktas aliajn lingvojn derivitajn de Tokipono. — The section "New Languages" treats other languages derived from Toki Pona.)*
 
 * ***eju zen!*** *(Saluton! — Hello!)*
+* ***tokon!*** *(Saluton! — Hello!)*
 
 wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-lili) li kepeken [toki musi](#toki-musi). ona li [ale ala pi nimi mute, tan lipu suli pi toki pona](http://tokipona.net/tp/janpije/dictionary.php).
 *(La sekcio "Vortaro" uzas la Kernan Lingvaĵon kaj la Eksperimentan Lingvaĵon. Ĝi ne estas la Oficiala Vortaro. — The section "Dictionary" uses the Core Language and the Experimental Language. It is not the Official Dictionary.)*
