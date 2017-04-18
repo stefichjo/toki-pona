@@ -10,31 +10,30 @@ ___
 ___
 
 **tawa ona la  
-luka lon luka la mi tu li kama  
-jan Kitopa Jopin en mi,  
+luka lon luka la mi tu li kama —  
+jan Kitopa Jopin en mi —  
 tan ni: mi tu li wile pana e lipu ni tawa sina.  
-sina pilin pi sin nasa anu seme?  
-sina wile e ni taso anu seme?  
+o toki e ni: sina pilin pi sin nasa anu seme?  
+o toki e ni: sina wile e ni taso anu seme?  
 ona li ijo sina a  
 tan ni: mi tu li olin e sina.**
 
 ___
 * waso walo *(cigno)*
-* ma sijelo *(zoo = tereno de bestoj)*
+* ma sijelo *(zoo)*
 * mute wan *(kelko)*
 * soweli walo pi luka wawa *(blanka urso)*
 * mute supa *(ŝtuparo)*
 * soweli pi palisa monsi sike *(porko)*
 * kalama pi uta lili *(kriĉanta)*
 * pilin sona *(certa (pri))*
-* esun *(sep)*
 * poki pi telo sitelen *(inkujo)*
 
 ___
 
 ## kama
 
-tenpo pini la sina lukin e sitelen pi lipu ante pi ijo pi jan Kitopa Jopin, la ken la sina awen sona e ni: tenpo pini la ona li jo e waso walo (anu waso walo li jo e jan Kitopa Jopin, mi sona ala e ni) en ona li pana e nimi "Pu" tawa waso walo ni.
+sina lukin e sitelen pi lipu ante pi ijo pi jan Kitopa Jopin, la ken la sina sona e ni: tenpo pini la ona li jo e waso walo (anu waso walo li jo e jan Kitopa Jopin, mi sona ala) en ona li pana e nimi "Pu" tawa waso walo ni.
 
 tenpo pini weka ni la mi toki e "tawa pona" li awen jo e nimi tan ni: tawa mi la waso walo li wile ala awen jo e ona. tan ni la jan Etuwa Pe toki e ni, ona li wile jo e nimi pi ona sama taso, la jan Kitopa Jopin li wile ala awen toki insa li toki e ni lon tenpo sama: ona li jan Wini Pu. tan ni la ona li ona. mi kama pana e sona pi ijo pi jan Pu. tan ni la mi awen pana e sona pi ale ante.
 
