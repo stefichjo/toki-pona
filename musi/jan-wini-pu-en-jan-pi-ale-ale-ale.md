@@ -23,15 +23,6 @@ ___
 * toki kulupu *(diras unu al la alia)*
 * soweli Etuwa Pe *(Edward Bear)*
 
-* ma sijelo *(zoo)*
-* mute wan *(kelko)*
-* soweli walo pi luka wawa *(blanka urso)*
-* mute supa *(ŝtuparo)*
-* soweli pi palisa monsi sike *(porko)*
-* kalama pi uta lili *(kriĉas)*
-* pilin sona *(certas)*
-* poki pi telo sitelen *(inkujo)*
-
 ___
 
 ## kama
@@ -43,7 +34,30 @@ pona. mi pana e sona pi soweli Pu. kama la mi pana e sona pi ale ante.
 
 <img src="sitelen/jan-wini-pu/img00001.gif">
 
-jan li lon ma tomo Lantan, la tenpo lili la ona li kama wile tawa ma sijelo. jan mute wan li kama insa ona kepeken lupa "TAWA-INSA" li lukin tawa lon tenpo lili lon poka pi poki sijelo ale tawa lupa "TAN-INSA". taso jan suwi li olin e soweli, la ona li tawa pona tawa sijelo ni li awen lon ona. sama ni la jan Kitopa Jopin li tawa ma sijelo, la ona li tawa soweli walo pi luka wawa li toki e nimi pi kalama lili tawa kute pi jan sinpin wan. jan sinpin ni li open e lupa. jan li tawa lon nasin pimeja li tawa sewi lon mute supa tawa tomo sijelo. tomo ni li kama open. tan insa ona la ijo pimeja pi linja mute li kama lon. jan Kitopa Jopin li toki wawa e "soweli pi luka wawa o!" li tawa lon tenpo sama tawa luka ona. tenpo ni la nimi pi soweli ni pi luka wawa li Wini. ni li pana e lukin pi ijo ni tawa jan: ona li nimi pona tawa soweli pi luka wawa. taso ni li pana e musi: jan li awen ala sona e ni: soweli Wini li jo e nimi ona tan soweli Pu anu soweli Pu li jo e nimi ona tan soweli Wini. tenpo pini wan la jan li sona. taso jan li pini sona. ...
+___
+* ma sijelo *(zoo)*
+* mute wan *(kelko)*
+* soweli walo pi luka wawa *(blanka urso)*
+* nanpa mute *(tria)*
+* mute supa *(ŝtuparo)*
+
+___
+
+jan li lon ma tomo Lantan, la tenpo lili la ona li kama wile tawa ma sijelo.
+jan pi mute wan li kama insa ona kepeken lupa "TAWAWINSA" li lukin tawa lon tenpo pi lili mute, lon poka pi tomo sijelo ale, tawa lupa pi tomo sijelo "TAWAWEKA".
+taso jan pi suwi sin li tawa pona tawa sijelo li awen lon ona li olin mute e ona.
+sama ni la jan Kitopa Jopin li tawa ma sijelo, la ona li tawa soweli walo pi luka wawa li toki pi kalama lili tawa jan sinpin nanpa mute. jan sinpin ni li open e lupa.
+mi mute li tawa lon nasin pimeja li tawa sewi lon mute supa, tawa tomo sijelo. tomo ni li kama open. tan insa ona la ijo pimeja pi linja mute li kama.
+jan Kitopa Jopin li toki wawa e "soweli pi luka wawa o!" li tawa lon tenpo sama tawa luka ona.
+tenpo ni la nimi pi soweli ni pi luka wawa li Wini. ni li pana e sona ni: ona li nimi pona tawa soweli pi luka wawa. taso ni li musi: mi tu li ken ala awen sona e ni: soweli Wini li kama jo e nimi ona tan waso Pu anu waso Pu li kama jo e nimi ona tan soweli Wini. tenpo pini wan la mi tu li sona. taso mi tu li pini sona. ...
+
+___
+* soweli pi palisa monsi sike *(porko)*
+* kalama pi uta lili *(kriĉas)*
+* pilin sona *(certas)*
+* poki pi telo sitelen *(inkujo)*
+
+___
 
 
 mi sitelen e pini pi nimi ni en soweli pi palisa monsi sike li lukin e sewi li toki e ni kepeken kalama pi uta lili: "seme mi li lon?" mi toki e ni: "soweli pona mi pi palisa monsi sike o, ale lipu li toki e ijo sina." ona li toki e ni kepeken kalama pi uta lili: "sama ni la ona li toki e ijo pi soweli Pu." ona li pilin pi lili ike tan ni: tawa ona la jan li pana e lukin pi soweli Pu taso sama ijo suli. sona li ni: soweli Pu li jan pi pona mute tawa jan Kitopa Jopin. jan li ken ala toki e ijo ante. taso jan pi palisa monsi sike li jo e ijo pona mute pi ijo ni, soweli Pu li jo ala e ona, tan ni: jan li tawa tomo sona e soweli Pu, la jan ale li kama sona e ni. taso soweli pi palisa monsi sike li lili ni: ona li ken kama lon poki. ni la jan li ken pilin e ona lon ni: jan li pilin sona ala e ni: esun tu li mute tu tu anu luka tu tu. tenpo la ona li kama weka li lukin wawa e poki pi telo sitelen. kepeken ni la ona li kama sona e mute. soweli Pu li kama sona e lili. jan wan li jo e lawa, jan ante li jo ala e ona, li nimi ona. ni li ni.
@@ -59,6 +73,8 @@ tenpo ni la jan ante ale li toki e ni: "seme pi mi mute li lon?" tan ni la ken l
 ni la soweli Etuwa Pe li tawa anpa kepeken mute supa. monsi pi lawa ona li kalama "PUN", "PUN", "PUN" lon monsi pi jan Kitopa Jopin. tawa ona la nasin ni taso la jan li ken tawa anpa kepeken mute supa. taso tenpo pi mute ala la ona li pilin e ni: nasin ante li lon. taso ona li wile pini kalama "PUN" li toki insa.
 
 tenpo ante la ona li pilin e ni: nasin ante li lon ala. taso tenpo ni la ona li kama lon anpa en jan li ken pana e sona pi nimi ona: Wini Pu.
+
+<img src="sitelen/jan-wini-pu/img00002.gif">
 
 mi kute e nimi ona lon tenpo pi nanpa wan, la mi sama sina li toki e ni: taso tawa mi la ona li mije.
 
