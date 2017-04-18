@@ -36,6 +36,8 @@ tenpo pini la sina lukin e sitelen pi lipu ante pi ijo pi jan Kitopa Jopin, la k
 
 tenpo pini weka ni la mi toki e "tawa pona" li awen jo e nimi tan ni: tawa mi la waso walo li wile ala awen jo e ona. tan ni la jan Etuwa Pe toki e ni, ona li wile jo e nimi pi ona sama taso, la jan Kitopa Jopin li wile ala awen toki insa li toki e ni lon tenpo sama: ona li jan Wini Pu. tan ni la ona li ona. mi kama pana e sona pi ijo pi jan Pu. tan ni la mi awen pana e sona pi ale ante.
 
+<img src="https://github.com/stefichjo/toki-pona/blob/master/musi/sitelen/jan-wini-pu/img00001.gif?raw=true">
+
 jan li lon ma tomo Lantan, la tenpo lili la ona li kama wile tawa ma sijelo. jan mute wan li kama insa ona kepeken lupa "TAWA-INSA" li lukin tawa lon tenpo lili lon poka pi poki sijelo ale tawa lupa "TAN-INSA". taso jan suwi li olin e soweli, la ona li tawa pona tawa sijelo ni li awen lon ona. sama ni la jan Kitopa Jopin li tawa ma sijelo, la ona li tawa soweli walo pi luka wawa li toki e nimi pi kalama lili tawa kute pi jan sinpin wan. jan sinpin ni li open e lupa. jan li tawa lon nasin pimeja li tawa sewi lon mute pi nena sin tawa tomo sijelo. tomo ni li kama open. tan insa ona la ijo pimeja pi linja mute li kama lon. jan Kitopa Jopin li toki wawa e "jan soweli pi luka wawa o!" li tawa lon tenpo sama tawa luka ona. tenpo ni la nimi pi soweli ni pi luka wawa li Wini. ni li pana e lukin pi ijo ni tawa jan: ona li nimi pona tawa soweli pi luka wawa. taso ni li pana e musi: jan li awen ala sona e ni: jan Wini li jo e nimi ona tan jan Pu anu jan Pu li jo e nimi ona tan jan Wini. tenpo pini wan la jan li sona. taso jan li pini sona. ...
 
 
