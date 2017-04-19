@@ -32,7 +32,7 @@ tenpo suli li kama lon pini pi ijo ni: mi tu li toki kulupu e "tawa pona" li awe
 ni la soweli Etuwa Pe toki e ni: ona li wile jo e nimi pi sin nasa, pi ona sama taso. tenpo sama la jan Kitopa Jopin li toki e ni: ona li soweli Wini Pu. a: ona li ona.
 pona. mi pana e sona pi soweli Pu. kama la mi pana e sona pi ale ante.
 
-<img src="sitelen/jan-wini-pu/img00001.gif">
+<img src="sitelen/soweli-wini-pu/img00001.gif">
 
 ___
 * ma sijelo *(zoo)*
@@ -86,7 +86,7 @@ taso ona li ken ala toki insa e ni tan ni: ona li ken ala pini kalama "PUN".
 tenpo ante la ona li pilin e ni: nasin ante li lon ala.
 taso tenpo ni la ona li anpa en en jan li ken kama sona e nimi ona: Wini Pu.
 
-<img src="sitelen/jan-wini-pu/img00002.gif">
+<img src="sitelen/soweli-wini-pu/img00002.gif">
 
 mi kute e nimi ona lon tenpo nanpa wan, la mi sama sina. mi toki e ni: taso tawa mi la ona li mije.
 
