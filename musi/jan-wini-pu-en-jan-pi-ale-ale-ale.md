@@ -1,7 +1,7 @@
 # soweli Wini Pu en jan pi ale ale ale
 *jan Alan Alesanta Milen*
 
-<img src="sitelen/jan-wini-pu/welcome.jpg">
+<img src="sitelen/soweli-wini-pu/welcome.jpg">
 
 ___
 * jan Kitopa Jopin *(Christopher Robin)*
