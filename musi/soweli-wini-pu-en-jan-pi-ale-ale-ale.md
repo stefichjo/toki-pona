@@ -23,13 +23,13 @@ tan ni: mi tu li olin e sina.**
 ___
 * waso walo *(cigno)*
 * toki kulupu *(diras unu al la alia)*
-* soweli Etuwa Pe *(Edward Bear)*
+* soweli Etuwa Pewa *(Edward Bear)*
 
 ___
 
 sina lukin e sitelen pi lipu ante pi ijo pi jan Kitopa Jopin, la ken la sina sona e ni: tenpo pini la ona li jo e waso walo (anu waso walo li jo e jan Kitopa Jopin, mi sona ala) en ona li pana e nimi "Pu" tawa waso walo ni.
 tenpo suli li kama lon pini pi ijo ni: mi tu li toki kulupu e "tawa pona" li awen e nimi tan ni: tawa mi tu la waso walo ni li awen ala wile e ona.
-ni la soweli Etuwa Pe toki e ni: ona li wile jo e nimi pi sin nasa, pi ona sama taso. tenpo sama la jan Kitopa Jopin li toki e ni: ona li soweli Wini Pu. a: ona li ona.
+ni la soweli Etuwa Pewa toki e ni: ona li wile jo e nimi pi sin nasa, pi ona sama taso. tenpo sama la jan Kitopa Jopin li toki e ni: ona li soweli Wini Pu. a: ona li ona.
 pona. mi pana e sona pi soweli Pu. kama la mi pana e sona pi ale ante.
 
 <img src="sitelen/soweli-wini-pu/img00001.gif">
@@ -79,7 +79,7 @@ ___
 
 ___
 
-ni la soweli Etuwa Pe li tawa anpa kepeken mute supa.
+ni la soweli Etuwa Pewa li tawa anpa kepeken mute supa.
 monsi lawa ona li kalama "PUN", "PUN", "PUN" lon monsi pi jan Kitopa Jopin. tawa ona la nasin ni taso la jan li ken tawa anpa kepeken mute supa. taso tenpo pi mute wan la ona li pilin e ni: nasin ante li lon.
 taso ona li ken ala toki insa e ni tan ni: ona li ken ala pini kalama "PUN".
 
@@ -147,23 +147,27 @@ soweli Wini Pu li kama anpa lon noka pi kasi suli li lon luka tu ona e lawa ona 
 tenpo nanpa wan la ona li toki insa e ni: "kon pi kalama 'SSS' ni li lon.
 kalama 'SSS' li kama ala tan ala li awen kalama 'SSS' taso ala li jo ala e kon ala.
 kalama 'SSS' li lon, la jan a li kalama 'SSS'.
-mi sona e ni: jan li ken kalama 'SSS' tan ni taso: jan ni li pipi kon pi ko suwi."
+mi sona e ni: jan li kalama 'SSS' tan ni taso: jan ni li pipi kon pi ko suwi."
 
 tenpo suli sin la ona li toki insa li toki e ni: "mi sona e ni: jan li pipi kon pi ko suwi tan ni taso: jan ni li pali e ko suwi."
 
-ona li kama sinpin li toki e ni: "tan ni taso la jan li pali e ko suwi: mi o ken moku e ona." sama ni la ona li kama lon sewi kepeken kasi suli. ona li tawa sewi li tawa sewi li tawa sewi li toki e kalama musi tawa ona sama. toki pi kalama musi li ni:
+ni la ona li kama sinpin li toki e ni: "mi sona e ni: jan li pali e ko suwi tan ni taso: mi ken moku e ona."
+ni la ona li kama tawa lawa pi kasi suli kepeken noka en luka.
 
-*nasa musi li ni, a:  
+ona li tawa sewi li tawa sewi li tawa sewi li kalama musi lili e ni tawa ona sama:
+
+*ni li nasa anu seme?:  
 ko suwi li pona tawa soweli pi luka wawa  
 SSS! SSS! SSS!  
-mi wile sona e ni: tan seme la ona li sama ni?*
+mi wile sona e ni: tan seme la ona li ni?*
 
-ona li tawa sin tawa sewi li tawa sin li tawa pi sin lili. tenpo sama ni la ona li mama e toki ante pi kalama musi.
+ona li tawa lili li tawa lili li tawa lili.
+ni la ona li lon e kalama musi sin.
 
-*sitelen insa ni li musi e jan: soweli pi luka   wawa li pipi kon pi ko suwi, la  
-ona li pali e tomo ona lon noka pi kasi suli.  
-kepeken ni la - pipi kon pi ko suwi li soweli pi luka wawa, la -  
-mi mute li wile ala kepeken mute supa ni tawa sewi.*
+*ni li sitelen insa musi: soweli pi luka wawa li pipi kon pi ko suwi, la  
+ona li lon noka pi kasi suli e tomo ona.  
+ni — pipi kon pi ko suwi li soweli pi luka wawa — la  
+mi ale li wile ala tawa sewi kepeken mute supa suli ni.*
 
 ___
 * supa *(kuŝanta)*
