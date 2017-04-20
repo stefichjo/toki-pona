@@ -208,3 +208,33 @@ ___
 
 "tawa mi la ale ni li tan ni:" li toki sona ona lon tenpo ni: ona li toki e "tawa pona" tawa palisa kasi pi nanpa pini li tawa sike lon tenpo mute li tawa lon kon tawa kasi pi palisa utala. "ale li tan ni: tawa jan la ko suwi li pona ni. o pana e pona!"
 
+ona li tawa weka tan kasi pi palisa utala li weka e wan pi palisa utala tan nena pi sinpin lawa ona li kama toki insa lon tenpo sin. jan nanpa wan pi toki insa ona li jan Kitopa Jopin.
+
+("mi?" li nimi pi jan Kitopa Jopin tan pilin pi sin nasa. tawa ona la ni li ike sona.)
+
+"sina."
+
+jan Kitopa Jopin li toki ala.
+taso lukin ona li kama suli li kama suli sin.
+sinpin lawa ona li kama loje li kama loje sin.)
+
+ni la soweli Wini Pu li tawa jan pona ona Kitopa Jopin.
+tomo ona li lon wan ante pi ma pi kasi suli li jo e lupa tomo laso.
+
+"tenpo suno pona, jan Kitopa Jopin o" li nimi ona.
+
+"tenpo suno pona, soweli Wini Pu o" li nimi sina.
+
+___
+* sike kon *(balono)*
+* lon poka sike pi *(ĉirkaŭ)*
+
+___
+
+"mi wile sona e ni: sina jo e sike kon kule lon poka sike sina anu seme?"
+
+"sike kon kule?"
+
+"sike kon kule. mi tawa ni. mi toki e ni tawa mi sama: 'jan Kitopa Jopin li jo e sike kon kule anu seme?' mi toki e ni tawa mi sama. mi toki insa e ijo pi sike kon. mi kama wile sona."
+
+
