@@ -276,7 +276,7 @@ jan li jo e sike kon pi laso sewi, la tawa ona mute la jan li wan sewi.
 kepeken ni la ona mute li kama ala lukin e jan.
 mi wile sona e ni: seme li ken suli?"
 
-"seme anu ona li kama lukin e sina lon anpa pi sike kon?" li nimi sina.
+"seme anu ona li kama lukin e sina lon anpa pi sike kon?" li toki sina.
 
 ___
 * kon telo lon sewi *(cloud)*
