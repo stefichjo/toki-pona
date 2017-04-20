@@ -265,10 +265,11 @@ ___
 "sina wile e ona seme?" li toki sina tawa soweli Pu. ona li lon luka ona e lawa ona li toki insa li pilin lon tenpo suli.
 
 ___
-* ken suli *(granda probablo)*
+* ken *(probablo)*
 ___
 
-"ni li lon:" li toki ona. "jan li alasa e ko suwi kepeken sike kon, la ni li suli: tawa pipi kon pi ko suwi la jan li pana ala e sona ni: ona li kama.
+"ni li lon:" li toki ona.
+"jan li alasa e ko suwi kepeken sike kon, la ni li suli: tawa pipi kon pi ko suwi la jan li pana ala e sona ni: ona li kama.
 tan ni la jan li jo e sike kon pi laso kasi, la tawa ona mute la jan li wan kasi.
 kepeken ni la ona mute li kama ala lukin e jan.
 jan li jo e sike kon pi laso sewi, la tawa ona mute la jan li wan sewi.
