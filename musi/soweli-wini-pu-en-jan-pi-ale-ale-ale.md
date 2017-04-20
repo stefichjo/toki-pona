@@ -237,4 +237,10 @@ ___
 
 "sike kon kule. mi tawa ni. mi toki e ni tawa mi sama: 'jan Kitopa Jopin li jo e sike kon kule anu seme?' mi toki e ni tawa mi sama. mi toki insa e ijo pi sike kon. mi kama wile sona."
 
+"tan seme la sina wile e sike kon?" li nimi sina.
 
+soweli Wini Pu li lukin tawa poka sike ona li lukin e ni: jan ala li kute. ona li lon uta ona e luka ona li toki kepeken uta suli e ni: "ko suwi!"
+
+"taso jan li ken ala kama jo e ko suwi kepeken sike kon!"
+
+"mi ken" li nimi pi soweli Pu.
