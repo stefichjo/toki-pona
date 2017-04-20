@@ -47,9 +47,9 @@ jan li lon ma tomo Lantan, la tenpo lili la ona li kama wile tawa ma sijelo.
 jan pi mute wan li kama insa ona kepeken lupa "TAWAWINSA" li lukin tawa lon tenpo pi lili mute, lon poka pi tomo sijelo ale, tawa lupa pi tomo sijelo "TAWAWEKA".
 taso jan pi suwi sin li tawa pona tawa sijelo li awen lon ona li olin mute e ona.
 sama ni la jan Kitopa Jopin li tawa ma sijelo, la ona li tawa soweli walo pi luka wawa li toki pi kalama lili tawa jan sinpin nanpa mute. jan sinpin ni li open e lupa.
-mi mute li tawa lon nasin pimeja li tawa sewi lon mute supa, tawa tomo sijelo. tomo ni li kama open. tan insa ona la ijo pimeja pi linja mute li kama.
+mi tu li tawa lon nasin pimeja li tawa sewi lon mute supa, tawa tomo sijelo. tomo ni li kama open. tan insa ona la ijo pimeja pi linja mute li kama.
 jan Kitopa Jopin li toki wawa e "soweli pi luka wawa o!" li tawa lon tenpo sama tawa luka ona.
-tenpo ni la nimi pi soweli ni pi luka wawa li Wini. ni li pana e sona ni: ona li toki pona tawa soweli pi luka wawa. taso ni li musi: mi tu li ken ala awen sona e ni: soweli Wini li kama jo e nimi ona tan soweli Pu anu soweli Pu li kama jo e nimi ona tan soweli Wini. tenpo pini wan la mi tu li sona. taso mi tu li pini sona. ...
+tenpo ni la nimi pi soweli ni pi luka wawa li Wini. ni li pana e sona ni: ona li toki pona tawa soweli pi luka wawa. taso ni li musi: mi tu li ken ala awen sona e ni: soweli Wini li kama jo e nimi ona tan soweli Pu anu soweli Pu li kama jo e nimi ona tan soweli Wini. tenpo pini wan la mi tu li sona. taso mi tu li pini sona...
 
 ___
 * soweli pi palisa monsi sike *(porko)*
@@ -275,3 +275,15 @@ kepeken ni la ona mute li kama ala lukin e jan.
 jan li jo e sike kon pi laso sewi, la tawa ona mute la jan li wan sewi.
 kepeken ni la ona mute li kama ala lukin e jan.
 mi wile sona e ni: seme li ken suli?"
+
+"seme anu ona li kama lukin e sina lon anpa pi sike kon?" li nimi sina.
+
+___
+* kon telo lon sewi *(cloud)*
+
+___
+
+"ken anu ken ala" li toki pi soweli Wini Pu.
+"tenpo ala la jan li ken kama sona e ijo pi pipi kon pi ko suwi."
+tenpo lili la ona li toki insa li toki e ni: "mi o lukin sama kon telo pimeja lili lon sewi. kepeken ni la ona mute li ken ala kama sona."
+
