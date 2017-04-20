@@ -208,22 +208,33 @@ ___
 
 "tawa mi la ale ni li tan ni:" li toki sona ona lon tenpo ni: ona li toki e "tawa pona" tawa palisa kasi pi nanpa pini li tawa sike lon tenpo mute li tawa lon kon tawa kasi pi palisa utala. "ale li tan ni: tawa jan la ko suwi li pona ni. o pana e pona!"
 
-ona li tawa tan kasi li weka e wan kasi tan nena pi sinpin lawa ona li kama toki insa sin. jan nanpa wan pi toki sina ona li jan Kitopa Jopin.
+ona li tawa weka tan kasi pi palisa utala li weka e wan pi palisa utala tan nena pi sinpin lawa ona li kama toki insa lon tenpo sin. jan nanpa wan pi toki insa ona li jan Kitopa Jopin.
 
-("mi anu seme?" li nimi pi jan Kitopa Jopin kepeken kalama uta pi pilin lili. ona li ken ala kama jo e sona ni.
+("mi?" li nimi pi jan Kitopa Jopin tan pilin pi sin nasa. tawa ona la ni li ike sona.)
 
 "sina."
 
-jan Kitopa Jopin li toki ala. taso lukin ona li kama suli li kama suli sin. sinpin ona li kama loje li kama loje sin.)
+jan Kitopa Jopin li toki ala.
+taso lukin ona li kama suli li kama suli sin.
+sinpin lawa ona li kama loje li kama loje sin.)
 
-tan ni li soweli Wini Pu li tawa jan pona ona Kitopa Jopin. ona li lon monsi pi lupa laso lon wan ante pi ma pi kasi suli.
+ni la soweli Wini Pu li tawa jan pona ona Kitopa Jopin.
+tomo ona li lon wan ante pi ma pi kasi suli li jo e lupa tomo laso.
 
-"tenpo suno pona, jan Kitopa Jopin o," li nimi ona.
+"tenpo suno pona, jan Kitopa Jopin o" li nimi ona.
 
-"tenpo suno pona, soweli Wini Pu o," li nimi sina.
+"tenpo suno pona, soweli Wini Pu o" li nimi sina.
 
-"mi wile sona e ni: sina jo e sike kule kon anu seme?"
+___
+* sike kon *(balono)*
+* lon poka sike pi *(ĉirkaŭ)*
 
-"sike kule kon?"
+___
 
-"sike kule kon. mi li tawa ni li toki e ni tawa mi sama: 'jan Kitopa Jopin li jo e sike kule kon?' mi toki e ni tawa mi sama.
+"mi wile sona e ni: sina jo e sike kon kule lon poka sike sina anu seme?"
+
+"sike kon kule?"
+
+"sike kon kule. mi tawa ni. mi toki e ni tawa mi sama: 'jan Kitopa Jopin li jo e sike kon kule anu seme?' mi toki e ni tawa mi sama. mi toki insa e ijo pi sike kon. mi kama wile sona."
+
+
