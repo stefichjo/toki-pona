@@ -371,3 +371,12 @@ ___
 weka kalama lili sin li lon. pini ona la ona li toki wawa tawa sina lon tenpo sin.
 
 "jan Kitopa Jopin o!"
+
+"a?"
+
+___
+* len utala tawa telo tan sewi *(pluvombrelo)*
+
+___
+
+"sina jo e len utala tawa telo tan sewi anu seme?"
