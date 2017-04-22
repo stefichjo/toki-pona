@@ -290,10 +290,10 @@ tenpo lili la ona li toki insa li toki e ni: "mi o lukin+sama kon-telo-pimeja-li
 kepeken ni la ona mute li ken ala kama sona."
 
 ___
-* kama lon *(decidiĝas)*
+* kama *(decidiĝas)*
 ___
 
-ni la sina o jo e sike kon pi laso sewi" li toki sina. ni li kama lon.
+ni la sina o jo e sike kon pi laso sewi" li toki sina. ni li kama.
 
 ___
 * ken pi ike kama *(danĝero, ebleco de venonta malbono)*
