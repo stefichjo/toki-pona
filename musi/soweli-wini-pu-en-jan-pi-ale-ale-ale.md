@@ -411,3 +411,33 @@ li kon lon laso sewi!"
 ona li pilin suli tan ni:  
 ona li kon telo lili lon sewi.*
 
+sama tenpo pini ale la pipi kon pi ko suwi li kalama "SSS" ni: ona li kama lukin e ken pi ike kama.
+a, wan ona li tawa weka tan tomo ona li tawa lon poka sike pi kon telo lon sewi lon tenpo ni: ona li pana e pini pi kalama musi ni. pipi kon wan pi ko suwi li kama anpa lon nena sinpin pi kon telo lon sewi lon tenpo lili li tawa weka.
+
+"jan Kitopa — a! — Jopin o" li toki kalama pi kon telo lon sewi.
+
+"a?"
+
+"mi pini toki insa. mi kama sona e ijo pi suli mute. ni li pipi kon ike pi ko suwi."
+
+"ni?"
+
+"ike, a. tan ni la ni li kama tawa mi: ona li pali e ko suwi ike."
+
+"ni?"
+
+"a. tan ni la mi wile kama sin lon anpa."
+
+"kepeken seme?" li toki sina.
+
+soweli Wini Pu li kama ala sona e ni. ona li weka e luka tan linja, la ona li kiwen utala tawa anpa — PUN. tawa ona la ni li pona ala. tan ni la ona li toki insa lon tenpo suli li toki e ni:
+
+"jan Kitopa Jopin o, sina o pakala e sike kon kepeken ilo alasa sina. ona li lon sina anu seme?"
+
+  "Of course I have," you said. "But if I do that, it will spoil the balloon," you said. But if you don't" said Pooh, "I shall have to let go, and that would spoil me."
+
+"a, lon" li toki sina. "taso mi pali ni, la ni li pakala e kon sike" li toki sina. "taso sina pali ni ala, la" — li toki pi soweli Pu — "mi wile weka e luka. ni li pakala e mi a."
+
+kepeken nimi ona ni la sina kama sona li lawa e ilo alasa tawa sike kon, kepeken pilin mute li tan e kiwen utala.
+
+"a!" li toki pi soweli Pu.
