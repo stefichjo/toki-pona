@@ -38,9 +38,10 @@ ___
 * ma sijelo *(zoo)*
 * mute wan *(kelko)*
 * tawa weka *(for, eksteren)*
-* soweli walo pi luka wawa *(blanka urso)*
+* soweli pi luka wawa *(urso)*
 * nanpa mute *(tria)*
 * mute supa *(ŝtuparo)*
+* toki wawa *(krias, vokas)*
 
 ___
 
@@ -266,6 +267,7 @@ ___
 "sina wile e ona seme?" li toki sina tawa soweli Pu. ona li lon luka ona e lawa ona li toki insa li pilin lon tenpo suli.
 
 ___
+* kama lukin *(trovas, rimarkas)*
 * ken *(probablo)*
 ___
 
@@ -311,16 +313,16 @@ sina en soweli Pu li awen e linja.
 tenpo lili la sina pini awen e ona.
 soweli pi luka wawa Pu li pona lukin li lon kon li tawa sewi li awen lon ni — li lon sewi sama lawa pi kasi suli li lon weka ona.
 
-___
-* toki wawa *(krias)*
-
-___
-
-"Pona a!" li toki wawa sina.
+"pona a!" li toki wawa sina.
 
 "seme anu ni li pona?" li toki wawa pi soweli Wini Pu tawa sina lon anpa.
 
 "sina sama soweli pi luka wawa, ona li awen e sike kon" li toki sina.
+
+___
+* pilin akesi *(timas)*
+
+___
 
 soweli Pu li pilin akesi li toki e ni: "seme anu mi sama ala kon telo pimeja lili lon sewi laso?"
 
@@ -336,33 +338,27 @@ ___
 
 kon ala li tawa poka pi kasi suli e ona. tan ni la ona li awen lon ni. ona li ken lukin e ko suwi li ken pilin e kon ona, taso ona li ken ala luka e ko suwi.
 
-___
-* toki tawa *(vokas -n)*
-
-___
-
-pini pi tenpo lili la ona li toki tawa sina tawa anpa.
+pini pi tenpo lili la ona li toki wawa tawa sina lon anpa.
 
 ___
 * toki kon *(flustras)*
-* kalama *(laŭta)*
 
 ___
 
-"jan Kitopa Jopin o!" li toki kon kalama ona.
+"jan Kitopa Jopin o!" li toki kon wawa ona.
 
 "toki!"
 
 ___
-* kama lukin e ken pi ike kama *(suspektas)*
+* kama sona e ken pi ike kama *(suspektas)*
 
 ___
 
-"tawa mi la pipi kon pi ko suwi li kama lukin e ken pi ike kama pi ijo."
+"tawa mi la pipi kon pi ko suwi li kama sona e ken pi ike kama."
 
-"seme?"
+"ike seme?"
 
-"mi sona ala. taso tan ijo la tawa mi la ona mute li kama lukin e ken pi ike kama."
+"mi sona ala. taso tan ijo la tawa mi la ona mute li kama sona e ken pi ike kama."
 
 "ken la tawa ona mute la sina wile alasa e ko suwi ona?"
 
@@ -384,16 +380,27 @@ ___
 "tawa mi la jo."
 
 "mi wile e ni: sina lon ni e ona. sina tawa mute lon nasin sama. sina toki e ni: "mu-mu, tawa mi la telo li kama lon tan sewi."
-tawa mi la sina ni, la ni li pana e pona ni: mi tu li ken lawa ike e pipi kon pi ko suwi."
+tawa mi la sina pali ni, la ni li pana e pona ni: mi tu li ken lawa ike e pipi kon pi ko suwi."
+
+___
+* a musi *(ridas)*
+* toki kalama *(laŭte parolas)*
+
+___
 
 a, sina a musi tawa sina sama e ni: "soweli nasa pi luka wawa o!" taso sina toki kalama ala tan ni: tawa sina la ona li pona suli. tan ni la sina tawa tomo. sina wile e len utala tawa telo tan sewi.
 
-"a, sina kama lon a!" li toki kalama pi soweli Wini Pu tawa anpa lon tenpo ni: sina kama sin lon kasi suli.
-"mi kama pilin akesi. mi kama sona e ni: pipi kon pi ko suwi li lukin e ken pi kama ike."
+"a, sina kama lon a!" li toki wawa pi soweli Wini Pu tawa anpa lon tenpo ni: sina kama sin lon kasi suli.
+"mi kama pilin akesi. mi kama sona e ni: pipi kon pi ko suwi li kama sona e ken pi kama ike."
 
-"mi o tomo e len utala tawa telo tan sewi anu seme?" li toki sina.
+___
+* sinpin *(staras)*
 
-"tomo, taso o awen lon tenpo lili. mi o kama lukin e pona pali. pipi kon wan suli pi ko suwi li pipi lawa. mi tu o toki ike e ona. sina lon anpa li ken lukin e pipi lawa anu seme?"
+___
+
+"mi o sinpin e len utala tawa telo tan sewi anu seme?" li toki sina.
+
+"sinpin, taso o awen lon tenpo lili. mi o kama lukin e pona pali. pipi kon suli pi ko suwi li pipi lawa taso. mi tu o toki ike e ona. sina lon anpa li ken lukin e pipi lawa anu seme?"
 
 "ala."
 
@@ -401,6 +408,11 @@ a, sina a musi tawa sina sama e ni: "soweli nasa pi luka wawa o!" taso sina toki
 
 ni la sina tawa mute lon nasin sama. sina toki e ni: sina wile sona e ni: telo tan sewi li kama anu seme.
 tenpo sama la soweli Wini Pu li kalama musi e ni:
+
+___
+* pilin suli *(fieras)*
+
+___
 
 *ni li suwi: ijo li kon telo lon sewi  
 li kon lon laso sewi  
@@ -411,18 +423,21 @@ li kon lon laso sewi!"
 ona li pilin suli tan ni:  
 ona li kon telo lili lon sewi.*
 
-sama tenpo pini ale la pipi kon pi ko suwi li kalama "SSS" ni: ona li kama lukin e ken pi ike kama.
-a, wan ona li tawa weka tan tomo ona li tawa lon poka sike pi kon telo lon sewi lon tenpo ni: ona li pana e pini pi kalama musi ni. pipi kon wan pi ko suwi li kama anpa lon nena sinpin pi kon telo lon sewi lon tenpo lili li tawa weka.
+sama tenpo pini ale la pipi kon pi ko suwi li kalama "SSS" ni: ona li kama sona e ken pi ike kama.
+a, wan ona li tawa weka tan tomo ona li tawa lon poka sike pi kon telo lon sewi lon tenpo ni: ona li pana e pini pi kalama musi ni.
+pipi kon wan pi ko suwi li kama anpa lon nena sinpin pi kon telo lon sewi lon tenpo lili li tawa weka.
 
-"jan Kitopa — a! — Jopin o" li toki kalama pi kon telo lon sewi.
+"jan Kitopa — a! — Jopin o" li toki wawa pi kon telo lon sewi.
 
 "a?"
 
-"mi pini toki insa. mi kama sona e ijo pi suli mute. ni li pipi kon ike pi ko suwi."
+"mi pini toki insa.
+mi kama sona e ijo pi suli mute.
+pipi kon ni pi ko suwi li ike."
 
 "ni?"
 
-"ike, a. tan ni la ni li kama tawa mi: ona li pali e ko suwi ike."
+"ike, a. tan ni la ni li kama tawa mi: ko suwi ona li ike."
 
 "ni?"
 
@@ -430,11 +445,11 @@ a, wan ona li tawa weka tan tomo ona li tawa lon poka sike pi kon telo lon sewi 
 
 "kepeken seme?" li toki sina.
 
-soweli Wini Pu li kama ala sona e ni. ona li weka e luka tan linja, la ona li kiwen utala tawa anpa — PUN. tawa ona la ni li pona ala. tan ni la ona li toki insa lon tenpo suli li toki e ni:
+soweli Wini Pu li kama ala sona e ni. ona li weka e luka tan linja, la ona li kiwen utala tawa anpa — PUN.
+tawa ona la ni li pona ala.
+tan ni la ona li toki insa lon tenpo suli li toki e ni:
 
-"jan Kitopa Jopin o, sina o pakala e sike kon kepeken ilo alasa sina. ona li lon sina anu seme?"
-
-  "Of course I have," you said. "But if I do that, it will spoil the balloon," you said. But if you don't" said Pooh, "I shall have to let go, and that would spoil me."
+"jan Kitopa Jopin o, sina o tan e kiwen utala tawa sike kon, kepeken ilo alasa sina. ona li lon sina anu seme?"
 
 "a, lon" li toki sina. "taso mi pali ni, la ni li pakala e kon sike" li toki sina. "taso sina pali ni ala, la" — li toki pi soweli Pu — "mi wile weka e luka. ni li pakala e mi a."
 
