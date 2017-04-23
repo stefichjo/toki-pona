@@ -533,7 +533,7 @@ lupa tomo la ona li tawa sike li toki e ni: "sina kama anu seme? mi telo e mi."
 "mi tan e kiwen utala tawa ona, la mi pana ala e pilin ike tawa ona anu seme?"
 "ala."
 ona li a kepeken lawa li tawa weka.
-pini pi tenpo lili la mi kute e ni: monsi ona la soweli Wini Pu li kalama "PUN", "PUN", "PUN" li tawa sewi lon mute supa.
+pini pi tenpo lili la mi kute e ni: monsi ona la soweli Wini Pu li kalama "PUN", "PUN", "PUN" li tawa sewi kepeken mute supa.
 
 ## wan lipu nanpa tu: ni la soweli Pu li tawa tomo pi jan ante li kama lon insa pi ijo lili
 
