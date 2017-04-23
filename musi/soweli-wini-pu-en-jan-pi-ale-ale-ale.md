@@ -23,13 +23,13 @@ tan ni: mi tu li olin e sina.**
 ___
 * waso walo *(cigno)*
 * toki kulupu *(diras unu al la alia)*
-* soweli Etuwa Pewa *(Edward Bear)*
+* soweli pi luka lawa Etuwa *(Edward Bear)*
 
 ___
 
 sina lukin e sitelen pi lipu ante pi ijo pi jan Kitopa Jopin, la ken la sina sona e ni: tenpo pini la ona li jo e waso walo (anu waso walo li jo e jan Kitopa Jopin, mi sona ala) en ona li pana e nimi "Pu" tawa waso walo ni.
 tenpo suli li kama lon pini pi ijo ni: mi tu li toki kulupu e "tawa pona" li awen e nimi tan ni: tawa mi tu la waso walo ni li awen ala wile e ona.
-ni la soweli Etuwa Pewa toki e ni: ona li wile jo e nimi pi sin nasa, pi ona sama taso. tenpo sama la jan Kitopa Jopin li toki e ni: ona li soweli Wini Pu. a: ona li ona.
+ni la soweli pi luka wawa Etuwa li toki e ni: ona li wile jo e nimi pi sin nasa, pi ona sama taso. tenpo sama la jan Kitopa Jopin li toki e ni: ona li soweli Wini Pu. a: ona li ona.
 pona. mi pana e sona pi soweli Pu. kama la mi pana e sona pi ale ante.
 
 <img src="sitelen/soweli-wini-pu/img00001.gif">
@@ -80,7 +80,7 @@ ___
 
 ___
 
-ni la soweli Etuwa Pewa li tawa anpa kepeken mute supa.
+ni la soweli pi luka wawa Etuwa li tawa anpa kepeken mute supa.
 monsi lawa ona li kalama "PUN", "PUN", "PUN" lon monsi pi jan Kitopa Jopin. tawa ona la nasin ni taso la jan li ken tawa anpa kepeken mute supa. taso tenpo pi mute wan la ona li pilin e ni: nasin ante li lon.
 taso ona li ken ala toki insa e ni tan ni: ona li ken ala pini kalama "PUN".
 
@@ -507,7 +507,7 @@ ___
 
 ___
 
-"soweli Pu li ken ala tan ni: ona li jo ala e lawa."
+"soweli Pu li ken ala tan ni: ona li jo ala e lawa. mi kama alasa e ona anu seme?"
 
 "ni li wan toki."
 
@@ -542,4 +542,20 @@ ona li a kepeken lawa li tawa weka.
 pini pi tenpo lili la mi kute e ni: monsi ona la soweli Wini Pu li kalama "PUN", "PUN", "PUN" li tawa sewi kepeken mute supa.
 
 ## wan lipu nanpa tu: ni la soweli Pu li tawa tomo pi jan ante li kama lon insa pi ijo lili
+
+___
+* kalama musi kepeken uta pi open ala *(zumas)*
+* sitelen insa *(inventas, imagas)*
+* sinpin lukin *(spegulo)*
+
+___
+
+soweli pi luka wawa Etuwa — jan pona ona li sona e nimi ona "Wini Pu" anu "Pu" taso — li tawa lon ma kasi lon tenpo suno wan li pilin suli li kalama musi kepeken uta pi open ala, tawa ona sama. ona li sitelen insa e kalama musi lon kama pi tenpo suno sama lon tenpo ni: ona li pona e sijelo ona kepeken tawa lon sinpin lukin: "TA-LA-LA, TA-LA-LA." ona li sinpin e ona sama li suli pi mute ale e ona sama. pini ni la: "TA-LA-LA, TA-LA — o pana e pona! — LA." ona li lukin luka e palisa noka ona. kama pi tenpo suno la ona li moku. pini ni la ona li toki e ni tawa ona sama, lon tenpo mute mute li kama lon insa pi lawa ona e kalama musi. tenpo ni la ona li kalama musi pi pakala ala e ona tawa pini. ona li sama ni:
+
+*TA-LA-LA, TA-LA-LA,  
+TA-LA-LA, TA-LA-LA,  
+LUN-TUN-SITELUN-TUN.  
+SITELITE, SITELITE,  
+SITELITE, SITELITE,  
+LUN-TUN-TUN-SITELUN.*
 
