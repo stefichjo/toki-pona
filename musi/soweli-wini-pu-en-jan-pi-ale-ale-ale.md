@@ -494,6 +494,8 @@ tawa mi la — taso mi sona ala — tan ni la nimi ona li Pu.
 ___
 * soweli pi nena suli *(elefanto, hefalumpo)*
 
+___
+
 "tenpo suno ni: soweli Pu en soweli pi palisa monsi sike li wile alasa e soweli pi nena suli."
 
 "ona tu li kama ala alasa e ona anu seme?"
@@ -511,11 +513,15 @@ ___
 
 ___
 * a kepeken lawa *(kapjesas)*
-* sona awen *(memoro)*
 
 ___
 
 jan Kitopa Jopin li a kepeken lawa.
+
+___
+* sona awen *(memoro)*
+
+___
 
 "mi awen sona a" — li toki ona — "taso soweli Pu li awen sona ala. tan ni la ona li wile e ni: jan li toki e ona tawa ona, lon tenpo sin, tan ni: kepeken ni la ni li toki lon li sona awen taso ala."
 
@@ -528,7 +534,7 @@ ___
 
 ___
 
-jan Kitopa li a pi pilin ike li tan anpa e soweli ona pi luka wawa kepeken luka li tawa weka tawa lupa tomo li tawa e soweli Pu lon supa anpa, lon monsi ona.
+jan Kitopa li a pi pilin ike li tan anpa e soweli ona pi luka wawa kepeken luka li tawa weka tawa lupa tomo li tawa e soweli Pu lon anpa, lon monsi ona.
 lupa tomo la ona li tawa sike li toki e ni: "sina kama anu seme? mi telo e mi."
 "mi tan e kiwen utala tawa ona, la mi pana ala e pilin ike tawa ona anu seme?"
 "ala."
