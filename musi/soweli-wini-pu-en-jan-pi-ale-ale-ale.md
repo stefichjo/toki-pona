@@ -38,7 +38,6 @@ ___
 * ma sijelo *(zoo)*
 * mute wan *(kelko)*
 * tawa weka *(for, eksteren)*
-* soweli pi luka wawa *(urso)*
 * nanpa mute *(tria)*
 * mute supa *(ŝtuparo)*
 * toki wawa *(krias, vokas)*
@@ -546,11 +545,12 @@ pini pi tenpo lili la mi kute e ni: monsi ona la soweli Wini Pu li kalama "PUN",
 ___
 * kalama musi kepeken uta pi open ala *(zumas)*
 * sitelen insa *(inventas, imagas)*
+* pona e sijelo kepeken tawa *(sportas)*
 * sinpin lukin *(spegulo)*
 
 ___
 
-soweli pi luka wawa Etuwa — jan pona ona li sona e nimi ona "Wini Pu" anu "Pu" taso — li tawa lon ma kasi lon tenpo suno wan li pilin suli li kalama musi kepeken uta pi open ala, tawa ona sama. ona li sitelen insa e kalama musi lon kama pi tenpo suno sama lon tenpo ni: ona li pona e sijelo ona kepeken tawa lon sinpin lukin: "TA-LA-LA, TA-LA-LA." ona li sinpin e ona sama li suli pi mute ale e ona sama. pini ni la: "TA-LA-LA, TA-LA — o pana e pona! — LA." ona li lukin luka e palisa noka ona. kama pi tenpo suno la ona li moku. pini ni la ona li toki e ni tawa ona sama, lon tenpo mute mute li kama lon insa pi lawa ona e kalama musi. tenpo ni la ona li kalama musi pi pakala ala e ona tawa pini. ona li sama ni:
+soweli pi luka wawa Etuwa — jan pona ona li sona e nimi ona "Wini Pu" anu "Pu" taso — li tawa lon ma kasi lon tenpo suno wan li pilin suli li kalama musi kepeken uta pi open ala, tawa ona sama. ona li sitelen insa e kalama musi lon kama pi tenpo suno sama, lon tenpo ni: ona li pona e sijelo pi ona sama kepeken tawa, lon sinpin lukin: "TA-LA-LA, TA-LA-LA." ona li sinpin e ona sama li suli pi mute ale e ona sama. pini ni la: "TA-LA-LA, TA-LA — o pana e pona! — LA." ona li lukin luka e palisa noka pi ona sama. kama pi tenpo suno la ona li moku. pini ni la ona li toki e ni tawa ona sama, lon tenpo mute mute li kama lon insa pi lawa ona e kalama musi. tenpo ni la ona li kalama musi pi pakala ala e ale ona. ona li sama ni:
 
 *TA-LA-LA, TA-LA-LA,  
 TA-LA-LA, TA-LA-LA,  
@@ -559,3 +559,13 @@ SITELITE, SITELITE,
 SITELITE, SITELITE,  
 LUN-TUN-TUN-SITELUN.*
 
+___
+* ko kiwen *(sablo)*
+
+___
+
+ona li kalama musi tawa ona sama li pilin pona li tawa lon nasin li wile sona e ni: jan ale li pali seme? jan li jan ante, la ni li seme tawa pilin? tenpo ni la ona li kama lon sinpin pi ko kiwen. nena ni la lupa li lon.
+
+"a, a!" li nimi pi soweli Pu. ("LUN-TUN-SITELUN-TUN.") "mi sona e ijo ijo, la kon pi lupa ni li soweli pi kute suli" li toki ona. "kon pi soweli pi kute suli li jan poka" li toki ona. "kon pi jan poka li moku li kute tawa kalama musi mi li ni. LUN-TUN-SITELELUN-TUN."
+
+ni la ona li kama anpa li lon insa lupa e lawa li toki wawa:
