@@ -601,3 +601,21 @@ soweli Wini Pu li tan lupa e lawa li toki insa lon tenpo wan li toki tawa ona sa
 "a" li toki pi soweli Pu.
 
 <img src="sitelen/soweli-wini-pu/img00003.gif">
+
+ona li tan lupa e lawa li toki insa lon tenpo sin li lon sin e ona li toki e ni:
+
+"sina ken toki e ni tawa mi anu seme?: soweli pi kute suli li lon seme?"
+
+"ona li tawa tomo pi soweli pi luka wawa Pu, ona li jan pi pona mute tawa ona."
+
+"taso ona li mi!" li toki pi soweli pi luka wawa. ona li pilin pi sin nasa.
+
+"'mi' seme?"
+
+"soweli pi luka wawa Pu."
+
+"sina sona anu seme?" li toki pi soweli pi kute suli. ona li pilin pi sin pi nasa mute.
+
+"mi sona a, a" li toki pi soweli Pu.
+
+"a, ni la o kama lon insa."
