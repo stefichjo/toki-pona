@@ -926,4 +926,4 @@ ___
 
 jan Kitopa Jopin en soweli pi kute suli en jan pona ale ona en jan sama ale ona li tawa sike tawa monsi... supa ona la soweli Wini Pu li kama — weka tan open!
 
-ni la ona li a kepeken lawa tawa jan pona mute li awen sin tawa lon ma pi kasi suli li kalama musi kepeken uta pi open ala, tawa ona sama. taso jan Kitopa Jopin li lukin tawa monsi ona kepeken pilin li toki tawa ona sama e ni: "soweli nasa pi luka wawa o!"
+ni la ona li a kepeken lawa tawa jan pona mute li awen sin tawa lon ma pi kasi suli li kalama musi kepeken uta pi open ala, tawa ona sama. taso jan Kitopa Jopin li lukin tawa monsi ona kepeken pilin olin li toki tawa ona sama e ni: "soweli nasa pi luka wawa o!"
