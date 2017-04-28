@@ -915,7 +915,7 @@ tenpo suli la soweli Pu li toki e ni taso: "ike!" ...
 
 e ni: "o!" ...
 
-ni la, lon tenpo lili, ona li toki e ni: "PO!" ni li sama ilo len li kama tan poki.
+ni la, lon tenpo lili, ona li toki e ni: "PO!" ni li sama ilo len, ona li kama tan poki.
 
 ___
 * open *(libera (eno), malfermita (ekstero))*
@@ -927,3 +927,12 @@ ___
 jan Kitopa Jopin en soweli pi kute suli en jan pona ale ona en jan sama ale ona li tawa sike tawa monsi... supa ona la soweli Wini Pu li kama — weka tan open!
 
 ni la ona li a kepeken lawa tawa jan pona mute li awen sin tawa lon ma pi kasi suli li kalama musi kepeken uta pi open ala, tawa ona sama. taso jan Kitopa Jopin li lukin tawa monsi ona kepeken pilin olin li toki tawa ona sama e ni: "soweli nasa pi luka wawa o!"
+
+## wan lipu nanpa mute: ni la soweli Pu en soweli pi palisa monsi sike li alasa li kama ala alasa e soweli pi kiwen uta wawa
+
+___
+* kama ala *(ne sukcesas, preskaŭ)*
+
+___
+
+
