@@ -24,6 +24,7 @@ ___
 * waso walo *(cigno)*
 * toki kulupu *(diras unu al la alia)*
 * soweli pi luka lawa Etuwa *(Edward Bear)*
+* awen jo e ijo → awen e ijo *(plu havi ion, teni ion → restigi ion)*
 
 ___
 
@@ -305,7 +306,9 @@ ni la sina o jo e sike kon pi laso sewi" li toki sina. ni li kama.
 ___
 * ken pi ike kama *(danĝero, ebleco de venonta malbono)*
 * li pini kama e *(ĝis)*
+* lon supa pi *(ĉe la supraĵo de, sur)*
 * lon pini pi ijo ni → lon pini ni *(ĉe la fino de tio, post kiam → ĉe tiu fino, post kiam)*
+* li pini luka e ijo, li pini awen luka e ijo → li pini awen e ijo *(ne plu tuŝas ion, ne plu tuŝadas ion → ne plu restigas ion)*
 * lon weka pi *(disde)*
 
 ___
@@ -866,4 +869,61 @@ ___
 
 "sina ken a awen lon ni, soweli nasa pi luka wawa o. ni taso li ike pali: sina li kama tan."
 
-"mi mute li ken lukin e sitelen" li toki pi soweli pi kute suli kepeken pilin pona.
+___
+* ? *(esperas)*
+* ilo kili *(pendigilo)*
+* kili e ijo *(pendigi ion)*
+* pana e pona pali *(faciligas, konvenas)*
+
+___
+
+"mi mute li ken lukin e sitelen tawa sina" li toki pi soweli pi kute suli kepeken pilin pona.
+"mi ? e ni: telo ko kiwen li kama anpa ala" li toki sin ona.
+"mi toki e ni, jan pona o: sina lon insa mute pi tomo mi. ni li pona tawa sina anu seme?: mi kepeken e noka sina sama ilo kili tan ni: tawa mi la ona li pali ala.
+jan li ken kili e len lon supa ona, la ni li pana e pona pali."
+
+"tenpo suno esun a!" li toki pi soweli Pu, pi pilin ike.
+"ijo moku li seme?"
+
+"mi pilin ike tan ni: moku li lon ala." li toki pi jan Kitopa Jopin.
+"ni pona pali e ni: sina ken kama sin suli ala. taso mi mute li ken lukin e sitelen tawa sina."
+
+___
+* wan telo tan lukin *(akvero disde okulo, okula guto, larmo)*
+
+___
+
+soweli pi luka wawa li kama a pi pilin ike li kama lukin e ni: ona li ken ala tan ni: ona li lon insa pi lili ike ni. wan telo li kama anpa tan lukin ona. ona li toki e ni:
+
+___
+* lon poka pi suno ala *(ĉe la flanko de neniu suno, ĉe la sensuna flanko, norde)*
+* lon poka suno *(ĉe la flanko de la suno, ĉe la suna flanko, sude)*
+___
+
+
+"ni la sina ken lukin e sitelen pi lipu, ona li pana e wawa anu seme?, li pana e pona e pilin pona tawa soweli pi luka wawa lon insa ike?" ni la ale pi tenpo suno esun la jan Kitopa Jopin li lukin e sitelen pi lipu ni lon poka pi suno ala, soweli pi kute suli li kili e len telo lon poka suno.
+pini pi tenpo suno esun la jan Kitopa Jopin li toki e ni: "o!"
+
+___
+* sin ni *(aldone al tio, aldone)*
+
+___
+
+ni la ona li kama awen e luka pi soweli Pu. sin ni la soweli pi kute suli li kama awen e jan Kitopa Jopin. sin la jan pona ale pi soweli pi kute suli en jan sama li kama awen e soweli pi kute suli. jan ale li lukin tan e soweli Pu...
+
+ And for a long time Pooh only said "Ow!" . . . 
+
+tenpo suli la soweli Pu li toki e ni taso: "ike!" ...
+
+e ni: "o!" ...
+
+ni la, lon tenpo lili, ona li toki e ni: "PO!" ni li sama ilo len li kama tan poki.
+
+___
+* open *(libera (eno), malfermita)*
+* li open e insa ijo → li open e ijo *(liberigas ies enon → malfermas ion)*
+* lon open *(ĉe malfermiteco, en libereco, libera)*
+
+___
+
+jan Kitopa Jopin en soweli pi kute suli en jan pona ale ona en jan sama ale ona li tawa sike tawa monsi... supa ona la soweli Wini Pu li kama — li lon open!
