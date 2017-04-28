@@ -870,7 +870,7 @@ ___
 "sina ken a awen lon ni, soweli nasa pi luka wawa o. ni taso li ike pali: sina li kama tan."
 
 ___
-* ? *(esperas)*
+* kama pi ken ni li pona tawa jan: *(iu esperas, ke)*
 * ilo kili *(pendigilo)*
 * kili e ijo *(pendigi ion)*
 * pana e pona pali *(faciligas, konvenas)*
@@ -878,7 +878,7 @@ ___
 ___
 
 "mi mute li ken lukin e sitelen tawa sina" li toki pi soweli pi kute suli kepeken pilin pona.
-"mi ? e ni: telo ko kiwen li kama anpa ala" li toki sin ona.
+"kama pi ken ni taso li pona tawa mi: telo ko kiwen li kama anpa ala" li toki sin ona.
 "mi toki e ni, jan pona o: sina lon insa mute pi tomo mi. ni li pona tawa sina anu seme?: mi kepeken e noka sina sama ilo kili tan ni: tawa mi la ona li pali ala.
 jan li ken kili e len lon supa ona, la ni li pana e pona pali."
 
@@ -918,10 +918,11 @@ e ni: "o!" ...
 ni la, lon tenpo lili, ona li toki e ni: "PO!" ni li sama ilo len li kama tan poki.
 
 ___
-* open *(libera (eno), malfermita)*
+* open *(libera (eno), malfermita (ekstero))*
 * li open e insa ijo → li open e ijo *(liberigas ies enon → malfermas ion)*
-* lon open *(ĉe malfermiteco, en libereco, libera)*
+* weka tan open *(fore de malfermiteco, libera)*
 
 ___
 
-jan Kitopa Jopin en soweli pi kute suli en jan pona ale ona en jan sama ale ona li tawa sike tawa monsi... supa ona la soweli Wini Pu li kama — li lon open!
+jan Kitopa Jopin en soweli pi kute suli en jan pona ale ona en jan sama ale ona li tawa sike tawa monsi... supa ona la soweli Wini Pu li kama — weka tan open!
+
