@@ -920,7 +920,7 @@ ni la, lon tenpo lili, ona li toki e ni: "PO!" ni li sama ilo len li kama tan po
 ___
 * open *(libera (eno), malfermita (ekstero))*
 * li open e insa ijo → li open e ijo *(liberigas ies enon → malfermas ion)*
-* weka tan open *(fore de malfermiteco, libera)*
+* weka tan open *(fore de libera eno, fore de malfermita ekstero, libera)*
 
 ___
 
