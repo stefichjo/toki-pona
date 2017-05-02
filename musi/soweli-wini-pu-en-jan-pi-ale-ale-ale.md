@@ -1026,8 +1026,6 @@ ___
 
 "tawa sina la, sina toki sin e seme?"
 
-     "I shall have to wait until I catch up with it," said Winnie-the-Pooh. "Now, look there." He pointed to the ground in front of him. "What do you see there?" 
-
 ___
 * li palisa tawa *(indikas)*
 
@@ -1070,5 +1068,4 @@ tawa sina la ni li pona anu seme?: sina tawa lon poka mi — soweli pi palisa mo
 
 soweli pi palisa monsi sike li luka kiwen e kute li suwi lukin li toki e ni: ona li pali ala lon tenpo suno esun ni li wile kama tan ken ni: ni li lon li soweli pi kiwen uta wawa.
 
-      "You mean, in case it really is two Woozles," said Winnie-the-Pooh, and Piglet said that anyhow he had nothing to do until Friday. So off they went together. 
 
