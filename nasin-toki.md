@@ -564,7 +564,7 @@ pini pi [nimi wawa pini](#nimi-wawa-pini) la sitelen "+" ("pi ijo sin") li ken k
 * tomo-tawa-sina *(via aŭto — your car)*
 
 pini pi mute nimi la [nimi palisa](#nimi-palisa) li ken jo e sitelen "/" ("pi wan mute").
-*(Fine de frazo, prepozicio povas havi ono-strekon.)*
+*(Fine de frazo, prepozicio povas havi ono-signon.)*
 
 * mi pana e lipu / tawa sina. *(Mi donas la libron al vi. — I am giving the book to you.)*
 
