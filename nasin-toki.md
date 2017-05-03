@@ -306,10 +306,11 @@ nimi "ala", "wan", "tu", "luka", "ale" li ken kama **nimi nanpa**.
   * ~~ijo~~ ***ala***, ~~ijo~~ ***ale***, ~~ijo~~ ***ni***, ~~ijo~~ ***seme*** *(nenio, ĉio, tio (ĉi), kio — nothing, everything,  that/this thing, what)*
     * → ***ala***, ***ale***, ***ni***, ***seme***
 
-pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li kama weka ala.
-*(En genitiva frazero, "ijo" antaŭ korelativo ne malaperas. — In a genitive clause, "ijo" in front of a correlative doesn't disappear.)*
+pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li ken kama sin.
+*(En genitiva frazero, "ijo" antaŭ korelativo povas reaperi. — In a genitive clause, "ijo" in front of a correlative can reappear.)*
 
-* mama ***pi ijo ale*** *(gepatro de ĉio — parent of everything)*
+* mama ***ale*** *(ĉiu gepatro, ĉîes gepatro — every parent, everything's parent)*
+  * → mama ***pi ijo ale*** *(gepatro de ĉio — parent of everything)*
 
 **nimi kama** "ala" li ken tawa.
 *(La modifilo "ala" povas moviĝi. — The modifier "ala" can move.)*
@@ -541,7 +542,31 @@ nimi "esun" li [nimi sijelo](#nimi-sijelo) musi.
 ### sitelen musi lon poka nimi
 *(Eksperimenta Interpunkcio — Experimental Punctuation)*
 
-* mi wile+pana e tomo-tawa-sina / tawa sina. *(Mi volas doni vian aŭton al vi. — I want to give your car to you.)*
+pini pi mute nimi la nimi pi kon sin li lon pini pi sitelen pi ijo kama.
+*(Fine de frazo, signif-aldonaj vortoj estas post dupunkto.)*
+
+* jan li pona tawa mi lon ni: mi pona tawa jan. *(Homoj estas bonaj por mi, se mi estas bona por homoj. — People are good to me, if I am good to people.)*
+
+sama ni la insa pi mute nimi la sitelen tu pi ijo kama anu sitelen "," ("pi ijo awen") li ken kama.
+*(Ankaŭ ene de frazo, dupunktoj aŭ komoj povas aperi.)*
+
+* tan ni: mi pona tawa jan :la jan li pona tawa mi. *(Ĉar mi estas bona por homoj, homoj estas bonaj por mi. — Because I am good to people, people are good to me.)*
+  * → tan ni, mi pona tawa jan, la jan li pona tawa mi.
+
+pini pi [nimi wawa pini](#nimi-wawa-pini) la sitelen "+" ("pi ijo sin") li ken kama.
+*(Post helpa verbo povas aperi plus-signo.)*
+
+* mi wile+lape. *(Mi bezonas dormi. — I need to sleep.)*
+
+[nimi lili](#nimi-lili-pi) "pi" weka li ken jo e sitelen "-" ("pi ijo weka").
+*(Modifilo povas havi minus-signon.)*
+
+* tomo-tawa-sina *(via aŭto — your car)*
+
+pini pi mute nimi la [nimi palisa](#nimi-palisa) li ken jo e sitelen "/" ("pi wan mute").
+*(Fine de frazo, prepozicio povas havi ono-strekon.)*
+
+* mi pana e lipu / tawa sina. *(Mi donas la libron al vi. — I am giving the book to you.)*
 
 ## toki nasa
 *(Stranga Lingvaĵo — Strange Language)*
