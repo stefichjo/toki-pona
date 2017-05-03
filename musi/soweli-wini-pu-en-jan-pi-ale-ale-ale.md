@@ -953,10 +953,10 @@ soweli pi palisa monsi sike li jo e tomo lon insa pi tomo ni.
 poka pi tomo ona la lipu suli li lon.
 ona li jo e sitelen "JAN PI TAWA AKESI W".
 jan Kitopa Jopin li wile sona tan soweli pi palisa monsi sike e kon ona, la ona li toki e ni: ni li nimi pi mama mama li ijo pi kulupu mama tan kama pi tenpo suli.
-jan Kitopa Jopin li toki e ni: jan li ken ala jo e nimi "JAN PI TAWA AKESI W".
+jan Kitopa Jopin li toki e ni: jan li ken ala jo e nimi "jan pi tawa akesi W".
 soweli pi palisa monsi sike li toki e ni: jan li ken jo tan ni: mama mama ona li jo.
-ale pi nimi ni li "JAN PI TAWA AKESI WI".
-ale pi nimi ni li ni: "JAN PI TAWA AKESI WILIJEN".
+ale pi nimi ni li "jan pi tawa akesi Wi".
+ale pi nimi ni li ni: "jan pi tawa akesi WILIJEN".
 mama mama ona li jo e nimi tu tan ken pi ike kama ni: ona li pini jo e wan ona: "JAN PI TAWA IKE" lon pini pi "mama sama", "WILIJEN" lon pini pi "JAN PI TAWA IKE".
 
 "mi jo e nimi tu" li toki pi jan Kitopa Jopin kepeken pilin ala.
@@ -1056,7 +1056,7 @@ soweli Wini Pu li pini tawa lon tenpo lili li kama anpa lon sewi pi sitelen noka
 "seme li lon?" li toki pi soweli pi palisa monsi sike.
 
 ___
-* lon poka kulupu *(ĉe reciproka flanko, unu apud la alia)*
+* lon poka kulupu *(ĉe reciproka flanko, unu apud la alia, kune)*
 
 ___
 
@@ -1068,4 +1068,11 @@ tawa sina la ni li pona anu seme?: sina tawa lon poka mi — soweli pi palisa mo
 
 soweli pi palisa monsi sike li luka kiwen e kute li suwi lukin li toki e ni: ona li pali ala lon tenpo suno esun ni li wile kama tan ken ni: ni li lon li soweli pi kiwen uta wawa.
 
+"sina wile toki e ni: ni li soweli tu pi kiwen uta wawa" li toki pi soweli Wini Pu.
+soweli pi palisa monsi sike li toki e ni: taso ona li pali ala lon tenpo suno esun ni.
+ni la ona tu li tawa lon poka kulupu.
+
+mute lili pi kasi suli anpa li lon ni. tawa lukin la soweli tu pi kiwen uta wawa — ona tu li ni la — li tawa lon poka sike pi mute ni pi kasi suli moli.
+sama ni la soweli Pu en soweli pi palisa monsi sike li tawa lon poka sike pi mute ni pi kasi suli moli, lon monsi pi ona tu.
+soweli pi palisa monsi sike li musi li toki tawa soweli Pu e ni: mama mama pi tawa akesi W li pali ni li weka e kiwen tan  
 
