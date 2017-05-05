@@ -1,6 +1,8 @@
 # soweli Wini Pu en jan pi ale ale ale
 *jan Alan Alesanta Milen*
 
+[tan toki Inli](#http://lib.ru/MILN/pooh.txt_with-big-pictures.html)
+
 <img src="sitelen/soweli-wini-pu/welcome.jpg">
 
 ___
@@ -1260,6 +1262,6 @@ ___
 
 "mu" li toki ona.
 "tenpo moku li kama."
-ni la ona li tawa tomo.
+ni la ona li tawa tomo tawa moku.
 
 
