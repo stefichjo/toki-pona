@@ -3,10 +3,10 @@
 
 <img src="sitelen/soweli-wini-pu/welcome.jpg">
 
-[kama lipu](#kama-lipu)
-[wan lipu nanpa wan](#wan-lipu-nanpa-wan)
-[wan lipu nanpa tu](#wan-lipu-nanpa-tu)
-[wan lipu nanpa mute](#wan-lipu-nanpa-mute)
+[kama lipu](#kama-lipu)  
+[wan lipu nanpa wan](#wan-lipu-nanpa-wan)  
+[wan lipu nanpa tu](#wan-lipu-nanpa-tu)  
+[wan lipu nanpa mute](#wan-lipu-nanpa-mute)  
 
 ___
 * jan Kitopa Jopin *(Christopher Robin)*
