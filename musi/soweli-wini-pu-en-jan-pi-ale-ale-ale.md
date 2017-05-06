@@ -1,9 +1,12 @@
 # soweli Wini Pu en jan pi ale ale ale
-*jan Alan Alesanta Milen*
-
-[tan toki Inli](http://lib.ru/MILN/pooh.txt_with-big-pictures.html)
+*jan Alan Alesanta Milen* [tan toki Inli](http://lib.ru/MILN/pooh.txt_with-big-pictures.html)
 
 <img src="sitelen/soweli-wini-pu/welcome.jpg">
+
+[kama lipu](#kama-lipu)
+[wan lipu nanpa wan](#wan-lipu-nanpa-wan)
+[wan lipu nanpa tu](#wan-lipu-nanpa-tu)
+[wan lipu nanpa mute](#wan-lipu-nanpa-mute)
 
 ___
 * jan Kitopa Jopin *(Christopher Robin)*
@@ -75,7 +78,8 @@ tenpo ni la jan ante ale li toki e ni: "seme pi mi mute li lon?" tan ni la ken l
 
 *jan A. A. M.*
 
-## wan lipu nanpa wan: ni la mi mute li kama sona e soweli Wini Pu e pipi kon pi ko suwi en toki li kama
+## wan lipu nanpa wan
+**ona la mi mute li kama sona e soweli Wini Pu e pipi kon pi ko suwi en toki li kama**
 
 ___
 * pipi kon pi ko suwi *(abelo, miela aer-insekto)*
@@ -558,7 +562,8 @@ lupa tomo la ona li tawa sike li toki e ni: "sina kama anu seme? mi telo e mi."
 ona li a kepeken lawa li tawa weka.
 pini pi tenpo lili la mi kute e ni: monsi ona la soweli Wini Pu li kalama "PUN", "PUN", "PUN" li tawa sewi kepeken mute supa.
 
-## wan lipu nanpa tu: ni la soweli Pu li tawa tomo pi jan ante li kama lon insa pi ijo lili
+## wan lipu nanpa tu
+**ona la soweli Pu li tawa tomo pi jan ante li kama lon insa pi ijo lili**
 
 ___
 * kalama musi kepeken uta pi open ala *(zumas)*
@@ -940,7 +945,8 @@ jan Kitopa Jopin en soweli pi kute suli en jan pona ale ona en jan sama ale ona 
 ni la ona li a kepeken lawa tawa jan pona mute li awen sin tawa lon ma pi kasi suli li kalama musi kepeken uta pi open ala, tawa ona sama.
 taso jan Kitopa Jopin li lukin e monsi tawa ona kepeken pilin olin li toki tawa ona sama e ni: "soweli nasa pi luka wawa o!"
 
-## wan lipu nanpa mute: ni la soweli Pu en soweli lili li alasa li alasa pi lili ike e soweli pi kiwen uta wawa
+## wan lipu nanpa mute
+**ona la soweli Pu en soweli lili li alasa li alasa pi lili ike e soweli pi kiwen uta wawa**
 
 ___
 * pi lili ike *(tro malmulte, malsufiĉe, preskaŭ)*
