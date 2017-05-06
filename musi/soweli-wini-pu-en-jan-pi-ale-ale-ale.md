@@ -1213,8 +1213,6 @@ jan li ken, la ona o pali e ona lon — tawa sina la wan seme pi tenpo suno li l
 
 "poka pi insa pi tenpo suno li lon" li toki pi soweli Wini Pu, ona li lukin e suno.
 
-     "Between, as I was saying, the hours of twelve and twelve five. So, really, dear old Pooh, if you'll excuse me -- What's that." 
-
 "lon — ni li toki mi — insa pi tenpo suno. tan ni la ni la jan pona Pu o, sina wile weka e ike mi, la — seme li lon?"
 
 ___
