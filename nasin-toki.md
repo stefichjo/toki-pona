@@ -332,6 +332,12 @@ pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li ken
   * ~~ijo~~ ***moku*** *(manĝo — food)*
     * → ***moku***
 
+...
+
+* pona ***lukin*** *(bona vidi, bona kiam vidata → bela — good to look at, good when looked at → beautiful)*
+* weka ***lukin*** *(fora kiam vidata → malvidebla — away when looked at → invisible)*
+* open ***lukin*** *(malfermita kiam vidata → transparenta — open when looked at → transparent)*
+
 #### nimi ilo
 *(Ilaj Vortoj — Tool Words)*
 
@@ -440,6 +446,7 @@ kepeken nimi pi nanpa lili en nimi pi nanpa suli la jan li ken toki e nanpa lon 
 *(Pere de numeralo de malgranda kvanto kaj numeralo de granda kvanto oni povas esprimi kvanton inter nulo kaj unu. — By means of a numeral of a small quantity and a numeral of a big quantity one can express a quantity between zero and one.)*
 
 * mi pana e ***wan pi tu tu*** tawa sina. *(Mi donas al vi kvaronon. — I give you a quarter.)*
+* mi pana e ***mute wan pi tu tu*** tawa sina. *(Mi donas al vi tri kvaronojn. — I give you three quarters.)*
 
 #### nimi musi pi nanpa esun
 *(Eksperimentaj Vortoj por Sinsekvoj — Experimental Words for Sequences)*
@@ -558,7 +565,7 @@ pini pi [nimi wawa pini](#nimi-wawa-pini) la sitelen "+" ("pi ijo sin") li ken k
 
 * mi wile+lape. *(Mi bezonas dormi. — I need to sleep.)*
 
-[nimi lili](#nimi-lili-pi) "pi" weka li ken jo e sitelen "-" ("pi ijo weka").
+[nimi lili "pi"](#nimi-lili-pi) weka li ken jo e sitelen "-" ("pi ijo weka").
 *(Modifilo povas havi minus-signon.)*
 
 * tomo-tawa-sina *(via aŭto — your car)*
@@ -580,6 +587,13 @@ kama pi [nimi pi jan anu ijo](#nimi-pi-jan-anu-ijo) la [nimi lili "pi"](#nimi-li
 * ni li ijo mi. *(Tio apartenas al mi. — This belongs to me.)*
   * ni li ~~ijo~~ ***pi mi***. *(Tio estas mia. — This is mine.)*
     * → ni li ***pi mi***.
+
+kama pi [nimi lili "li"](#nimi-lili-li) la [nimi lili "pi"](#nimi-lili-pi) li ken kama weka.
+*(En subjekto, la partikulo "pi" povas malaperi. — In the subject, the particle "pi" can disappear.)*
+
+* mi lukin mute. mi sona lili. *(Mi vidas multe kaj scias malmulte. — I am seeing much and knowing little.)*
+* mi ~~pi~~ lukin mute li sona lili. *(Mi, vidante multe, scias malmulte. — I, seeing much, am knowing little.)*
+  * → mi lukin mute li sona lili.
 
 ### nimi lili "e" nasa
 *(Stranga Akuzativo — Strange Accusative)*
@@ -629,6 +643,12 @@ kama pi mute nimi la **nimi palisa** ale li ken kama weka.
 
 * ***~~tawa~~*** mi ***la*** sina jan pona. *(Laŭ mi, vi estas bona persono. — From my point of view, you are a good person.)*
   * → mi ***la*** sina jan pona.
+
+[nimi palisa](#nimi-palisa) "tawa" li ken kama **nimi lili** "pi".
+*(La prepozicio "tawa" povas fariĝi la partikulo "pi". — The preposition "tawa" can become the particle "pi".)*
+
+* ni li ***lete tawa pilin***.
+  * → ni li ***lete pilin***.
 
 nimi "lon ... (pi)" li ken kama [nimi palisa](#nimi-palisa).
 *("lon ... (pi)" povas fariĝi prepozicio. — "lon ... (pi)" can become a preposition.)*
@@ -973,7 +993,7 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
 * **ona** ***[ona]*** *([JAN ANU IJO](#nimi-pi-jan-anu-ijo))* - ŝi, li, ĝi, ili — she, he, it, they
 * **open** ***[open]*** *([SULI](#nimi-suli))* - malfermita — open
   * *(WAWA PALISA)* = **kama e**
-  * *(... [PALI°](#nimi-pali))* - -ebla — -able
+  * *(... [PALI°](#nimi-pali))* - -... — -...
 * **pakala** ***[bagar-ap]*** *([SULI](#nimi-suli))* ***≠ pona*** - damaĝita, lezita — damaged, harmed
 * **pake e** = **len e lupa pi**
 * **pali** ***[fari]*** *([PALI](#nimi-pali))* = "***luka e ijo***"
@@ -1124,6 +1144,7 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
     * *(LAWA)* - ie for — somewhere far away
     * *(lon ...)* - for — away
   * *(lon poka pi suno ...)* - okcidente — in the west
+  * *(... [PALI°](#nimi-pali))* - mal-...-ebla — un-...-able
 * **wile** ***[wille]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - deziri, bezoni — to desire, to need
   * *(LAWA)* - io por deziri, io por bezoni: neceso — something to desire, something to need: necessity
