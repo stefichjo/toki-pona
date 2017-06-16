@@ -1037,7 +1037,8 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
   * *(... [PALI](#nimi-pali))* - -inda — worth -ing
 * **pu** ***[buk]*** *([SULI](#nimi-suli))* = "***kepeken lipu suli pi toki pona***" - konsulti la Oficialan Libron de Tokipono — to interact with the Official Toki Pona Book
 * **sama** ***[sama]*** *([PALISA](#nimi-palisa))*
-  * *(KAMA PALISA)* - kiel, parenca al — like, related to
+  * *(KAMA PALISA)* - kiel — like
+    * *(~~pi kulupu mama~~ sama)* parenca — related
   * *(KAMA)* - egala, sama, mem — alike, same, self
 * **seli** ***[cxeli]*** *([SULI](#nimi-suli))* - varma, arda — warm, hot
   * *([MUN°](#nimi-mun-musi))* marsa, marda — mars's, tuesday's
