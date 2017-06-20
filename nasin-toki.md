@@ -21,7 +21,7 @@ wan lipu "[toki musi](#toki-musi)" li toki e nasin toki pi jan ala. taso tawa mi
 wan lipu "[toki nasa](#toki-nasa)" li toki e nasin toki sin pi jan nasa ni: ona li wile ante e toki pona.
 *(La sekcio "Stranga Lingvaĵo" traktas la aldonan lingvouzon de tokiponidistoj. — The section "Strange Language" treats the additional way of how speakers of Toki Pona dialects use the language.)*
 
-* mi tawa ~~lon~~ ***poka*** sina. *(Mi iras kun vi. — I'm going with you.)*
+* mi tawa ~~lon~~ ***poka*** sina. *(Mi iras kun vi. — I am going with you.)*
   * → mi tawa ***poka*** sina.
 
 wan lipu "[toki sin](#toki-sin)" li toki e toki ante tan toki pona.
