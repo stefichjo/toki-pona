@@ -1099,7 +1099,7 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
 * **taso** ***[dats-ol]*** *([PALISA°](#nimi-palisa-musi))*
   * *(KAMA PALISA)* - sendepende de, sen, malgraŭ, kvankam — independent from, without
     * *(... ~~ni la~~)* - sed — but
-  * *(KAMA)* - sendependa, nura, libera — independent, only, free
+  * *(KAMA)* - sendependa, nura, libera, vicanta — independent, only, free, being the one whose turn it is
 * **tawa** ~~towa~~ ***[towards]*** = "***kama lon***" *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - al, por — to, toward, for
   * *(KAMA)* - moviĝanta — moving
