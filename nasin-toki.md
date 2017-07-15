@@ -84,6 +84,12 @@ nimi lon pini pi **nimi lili** "li" li ken jo e **nimi lili** "e" mute. sitelen 
 * ona li seli ***e*** soweli, ***e*** pan. *(Ŝi kuiras la viandon kaj la rizon. — She cooks the meat and the rice.)*
   * → ona li seli ***e*** soweli ***e*** pan.
 
+**nimi kama** li ken kama **nimi wawa palisa**.
+*(Modifilo povas fariĝi transitiva verbo. — Modifiers can become transitive verbs.)*
+
+* mi wawa. *(Mi estas forta. — I am strong.)*
+  * telo li wawa e mi. *(Akvo fortigas min. — Water strengthens me.)*
+
 jan li ken toki e wile kepeken nimi lon pini taso pi **nimi lili** "e".
 *(Oni povas komuniki deziron per nura rekta objekto. — One can express a desire by just a direct object.)*
 
@@ -423,6 +429,16 @@ nimi tu sama li jo e kon pi **nimi kama** "a".
 
 * sina ***suli suli***! *(Vi estas vere alta! — You are really tall!)*
 
+### nimi lili "e" musi
+*(Eksperimenta Akuzativo — Experimental Accusative)*
+
+mute nimi pi nimi suli "pana" li ken jo e kon pi mute nimi pi **nimi suli palisa** tan **nimi kama**.
+*(Frazo kun la verbo "pana" povas havi la signifon de frazo kun kaŭzativo. — A sentence with the verb "pana" can have the meaning of a sentence with a causative.)*
+
+* mi pona e tomo. *(Mi riparas la domon. — I repair the house.)*
+  * → mi pana e pona tawa tomo.
+    * → mi pana e ni: tomo li pona.
+
 ### nimi nanpa musi
 *(Eksperimentaj Numeraloj — Experimental Numerals)*
 
@@ -606,6 +622,14 @@ kama pi [nimi lili "li"](#nimi-lili-li) la [nimi lili "pi"](#nimi-lili-pi) li ke
 * mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon. — I translate the movie.)*
   * → mi ante ***toki e*** sitelen tawa.
 
+**nimi kama** en **nimi kama** lon poka ona li ken kama **nimi suli palisa**.
+*(Modifilo kune kun ĝia modifilo povas fariĝi transitiva verbo. — Modifiers together with their modifiers can become transitive verbs.)*
+
+* mi pana ala e ni: pan li suwi. *(Mi ne igas la panon dolĉa. — I do not make the bread sweet.)*
+  * → mi suwi ala e pan. 
+* mi pana e ni: pan li suwi ala. *(Mi igas la panon ne-dolĉa. — I make the bread non-sweet.)*
+  * → mi suwi ala e pan. 
+
 ### nimi lili nasa "en", "anu"
 *(Strangaj Konjunkcioj — Strange Conjunctions)*
 
@@ -618,7 +642,8 @@ sitelen nanpa li ken kama [nimi lili](#nimi-lili-en-anu) nasa ["en"](#nimi-lili-
 ### nimi wawa pini nasa
 *(Strangaj Helpaj Verboj — Strange Auxiliary Verbs)*
 
-nimi "pana" li ken kama [nimi wawa pini](#nimi-wawa-pini).
+nimi "pana" li ken kama **nimi wawa pini**.
+*("pana" povas fariĝi helpa verbo. — "pana" can become an auxiliary verb.)*
 
 * mi ***pana*** e sona pi toki pona tawa sina. *(Mi instruas Tokiponon al vi.)*
   * mi ***pana*** sona e toki pona tawa sina.
@@ -675,8 +700,8 @@ nimi "lon ... (pi)" li ken kama [nimi palisa](#nimi-palisa).
 ### mute nimi kama nasa
 *(Strangaj Subfrazoj — Strange Subordinate Clauses)*
 
-kama pi [mute nimi kama](#mute-nimi-kama) li ken kama weka.
-*(La komenco de subfrazo povas malaperi. — The beginning of a subordinate clause can disappear.)*
+kama pi [mute nimi kama](#mute-nimi-kama) li ken kama weka. tan ni la **nimi wawa pini** li ken kama **nimi kama**.
+*(La komenco de subfrazo povas malaperi. Tial, helpaj verboj povas fariĝi modifiloj. — The beginning of a subordinate clause can disappear. Therefore, auxiliary verbs can become modifiers.)*
 
 * mi sona e jan ni: ona li kama sona e toki pona. *(Mi konas tiun/tian personon, kiu lernas Tokiponon. — I know that/such person, who is studying Toki Pona.)*
 * mi sona e jan ***pi*** ~~ijo ni:~~ ona li kama sona e toki pona. *(Mi konas iun, kiu studas Tokiponon. — I know someone, who is studying Toki Pona.)*
@@ -1118,8 +1143,8 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
   * *(WAWA PALISA)* - komuniki — to communicate
   * *(LAWA)* - io por komuniki: mesaĝo — something to communicate: message
 * **tomo** ***[domo]*** *([IJO°](#nimi-ijo-musi))*
-  * *(KAMA)* - konstruita — built
-  * *(LAWA)* - io konstruita: domo, ĉambro — something built: house, room
+  * *(KAMA)* - konstruita/protektanta — built/protecting
+  * *(LAWA)* - io konstruita/io protektanta: domo, ĉambro:  — something built/something protecting: house, room
 * **tu** ***[tu]*** *([SULI](#nimi-suli))* - disa — apart
   * *([NANPA](#nimi-nanpa))* - du — two
 * **unpa** ***[?]*** *([SULI](#nimi-suli))* - (ge-)gravediĝanta, seksumanta, esti geedzo — becoming pregnant (or her partner), to have sexual relationships, to be married
@@ -1150,4 +1175,3 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
   * *(WAWA PALISA)* - deziri, bezoni — to desire, to need
   * *(LAWA)* - io por deziri, io por bezoni: neceso — something to desire, something to need: necessity
   * *(WAWA PINI)* - voli, devi — want, must
-
