@@ -835,7 +835,7 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
   * *([NANPA](#nimi-nanpa))* - senfine — countless
     * *(... LAWA)* - tuta, ĉiom da — whole, all of
 * **ali** = **ale**
-* **anpa** ***[an-bas]*** *([SULI](#nimi-suli))* - malalta — low
+* **anpa** ***[an-bas]*** *([SULI](#nimi-suli))* - malalta, kliniĝi, klinsaluti — low, bending, bowing
   * *(lon ... pi)* - sub — under
 * **ante** ***[ander]*** *([PALISA°](#nimi-palisa-musi))*
   * *(KAMA PALISA)* - ol — than
