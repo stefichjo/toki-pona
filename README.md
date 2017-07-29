@@ -13,7 +13,7 @@
 
 ### musi (o pana e pona)
 
-* [jan Nasa](musi/pk.md)
+* [jan Nasa](musi/pk.srt)
   * *(P.K. — P.K.)*
 * [soweli Wini Pu en jan pi ale ale ale](musi/soweli-wini-pu-en-jan-pi-ale-ale-ale.md)
   * *(Winnie la Pu — Winnie-The-Pooh and All, All, All)*
