@@ -11,4 +11,11 @@
 * [sitelen musi](musi/sitelen)
   * *(Mimoj — Memes)*
 
+### musi (o pana e pona)
+
+* [jan Nasa](musi/pk.md)
+  * *(P.K. — P.K.)*
+* [soweli Wini Pu en jan pi ale ale ale](musi/soweli-wini-pu-en-jan-pi-ale-ale-ale.md)
+  * *(Winnie la Pu — Winnie-The-Pooh and All, All, All)*
+
 <img src="https://github.com/stefichjo/toki-pona/blob/master/musi/sitelen/o-pilin-pona-o-pu.jpg?raw=true" height="400">
