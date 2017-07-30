@@ -206,11 +206,11 @@ ___
 "o sona e ni: taso mi wile e ni:" li toki ona lon tenpo ni: lawa li kama lon anpa noka. ona li kiwen utala tawa palisa kasi ante lon anpa sin sin. "taso mi wile e ni: — "
 
 ___
-* lon poka nasin pi *(preter)*
+* lon ale poka pi *(preter)*
 
 ___
 
-"taso ni li sona: — " li toki ona lon tenpo ni: tenpo pi lili mute la ona li tawa lon poka nasin pi palisa kasi mute tu.
+"taso ni li sona: — " li toki ona lon tenpo ni: tenpo pi lili mute la ona li tawa lon ale poka pi palisa kasi mute tu.
 
 ___
 * tawa sike *(turniĝas)*
@@ -219,7 +219,7 @@ ___
 
 ___
 
-"tawa mi la ale ni li tan ni:" li toki sona ona lon tenpo ni: ona li toki e "tawa pona" tawa palisa kasi pi nanpa pini li tawa sike lon tenpo mute li tawa lon kon tawa kasi pi palisa utala. "ale li tan ni: tawa jan la ko suwi li pona ni. o pana e pona!"
+"tawa mi la ale ni li tan ni:" li toki sona ona lon tenpo ni: ona li toki e "tawa pona" tawa palisa kasi pi nanpa pini li tawa sike lon tenpo mute li tawa lon kon, tawa kasi pi palisa utala. "ale li tan ni: tawa jan la ko suwi li pona ni. o pana e pona!"
 
 ona li tawa weka tan kasi pi palisa utala li weka e wan pi palisa utala tan nena pi sinpin lawa ona li kama toki insa lon tenpo sin. jan nanpa wan pi toki insa ona li jan Kitopa Jopin.
 

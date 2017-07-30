@@ -611,7 +611,7 @@ kama pi [nimi lili "li"](#nimi-lili-li) la [nimi lili "pi"](#nimi-lili-pi) li ke
 * mi lukin mute. mi sona lili. *(Mi vidas multe kaj scias malmulte. — I am seeing much and knowing little.)*
 * mi ~~pi~~ lukin mute li sona lili. *(Mi, vidante multe, scias malmulte. — I, seeing much, am knowing little.)*
   * → mi lukin mute li sona lili.
-
+  
 ### nimi lili "e" nasa
 *(Stranga Akuzativo — Strange Accusative)*
 
@@ -682,6 +682,12 @@ nimi "lon ... (pi)" li ken kama [nimi palisa](#nimi-palisa).
 * mi tawa poka sina. *(Mi iras proksimen al vi. — I'm getting closer to you.)*
 * mi tawa ~~lon~~ ***poka*** sina. *(Mi iras kun vi. — I'm going with you.)*
   * → mi tawa ***poka*** sina.
+
+nimi "sama ... (pi)" li ken kama [nimi palisa](#nimi-palisa).
+*("sama ... (pi)" povas fariĝi prepozicio. — "sama ... (pi)" can become a preposition.)*
+
+* waso li tawa lon kon, ~~sama~~ ***mun*** ~~pi~~ mi mute. *(Birdo flugas kvazaŭ luno de ni. — A bird is flying like a moon of ours.)*
+  * → waso li tawa lon kon, **mun** mi mute. *(Birdo flugas ĉirkaŭ ni. — A bird is flying around us.)*
 
 [nimi palisa](#nimi-palisa) li ken kama [nimi wawa palisa](#nimi-wawa-palisa).
 *(Prepozicio povas fariĝi transitiva verbo. — Prepositions can become transitive verbs.)*
@@ -860,6 +866,8 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
 * **insa** ***[insajt]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - iternal — internal
   * *(LAWA)* - io interna: centro — something internal: center
+    * *(lon ale ... pi)* - ĉie en — throghout
+    * *(tan ale ... pi)* - de ĉie en, tra — throghout
 * **jaki** ***[jakki]*** *([SULI](#nimi-suli))* ***≠ pona*** - malpura, fia, senhonora — dirty, disgusting, dishonored
 * **jan** ~~jen~~ ***[jen]*** *(PALISA)* - iu — someone
 * **jelo** ***[jellow]*** *([SULI](#nimi-suli))* = "***kule suno***" - flava — yellow
@@ -979,8 +987,9 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
   * *(KAMA*)* - ajna, arbitra — any, arbitrary
     * *([KALAMA°](#nimi-kalama-musi))* - ĉiuokaze, nu — whatever, well
 * **mun** ***[mun]*** *([IJO°](#nimi-ijo-musi))*
-  * *(KAMA)* - ĉielpromenanta — sky-walking
-  * *(LAWA)* - io ĉielpromenanta: luno, stelo — something sky-walking: moon, star
+  * *(KAMA)* - ĉielpromenanta, orbitanta — sky-walking, orbiting
+  * *(LAWA)* - io ĉielpromenanta, io orbitanta: luno, stelo — something sky-walking, something orbiting: moon, star
+    * *(sama ... pi)* - ĉirkaŭ — around
   * *([MUN°](#nimi-mun-musi))* luna, lunda — moon's, monday's
 * **musi** ~~amusi~~ ***[amuzi]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - ludi — to play
@@ -996,8 +1005,6 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
 * **nasin** ***[naĉin]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - interkonektanta — interconnecting
   * *(LAWA)* - io interkonektanta: vojo, pado, strato, metodo, kutimo, doktrino — something interconnecting: way, path, street, method, custom, doctrine
-    * *(lon ... tan, tawa)* - inter — between
-    * *(lon poka ... pi)* - preter — past
 * **nena** ***[nena]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - elstara — outstanding
   * *(LAWA)* - io elstara: ĝibo, butono, monto, nazo — something outstanding: bump, button, mountain, nose
@@ -1056,6 +1063,9 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
   * *(KAMA)* - apuda, akompananta — lateral, accompanying
   * *(LAWA)* - io apuda: flanko — something lateral: side
     * *(lon ... pi)* - apud — next to
+    * *(lon ... tu pi)* - inter (du) — between (two)
+    * *(lon ... mute pi)* - inter (multaj) — between (many)
+    * *(lon ale ... pi)* - preter — past
 * **poki** ***[bokis]*** *([ILO°](#nimi-ilo-musi))*
   * *(WAWA PALISA)* - enhavi — to contain
   * *(LAWA)* - organo por enhavi: veziko, ujo, ingo — organ for containing: bladder, container
@@ -1114,7 +1124,6 @@ ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.
 * **supa** ***[surfac]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - ebena kaj ponta — even and bridging
   * *(LAWA)* - io ebena kaj ponta: lito, seĝo, ponto — something even and bridging: bed, chair, bridge
-    * *(lon ... pi)* - tra, trans — through, across
 * **suwi** ***[swit]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - dolĉa — sweet
   * *(LAWA)* - io dolĉa: dolĉaĵo — something sweet: sweets
