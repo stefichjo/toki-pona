@@ -159,9 +159,9 @@ kama pi mute nimi la **nimi palisa** "lon" li kama weka.
   * ~~lon~~ tenpo pimeja ***la*** ona li kama. *(Ĉi-nokte, ŝi venas. — Tonight, she is coming.)*
     * tenpo pimeja ***la*** ona li kama.
 
-**[TP]** nimi "ni" lon kama pi mute nimi li lon poka pi [mute nimi kama](#mute-nimi-kama), la nimi "ni" li kama weka.
-**[EO]** Se "ni" komence de frazo akompanas subfrazon, "ni" malaperas.
-**[EN]** If "ni" at the beginning of a sentence accompanies a subordinate clause, "ni" disappears.
+**[TP]** nimi "ni" lon kama pi mute nimi li lon poka pi [mute nimi kama](#mute-nimi-kama), la nimi "ni" li kama weka.  
+**[EO]** Se "ni" komence de frazo akompanas subfrazon, "ni" malaperas.  
+**[EN]** If "ni" at the beginning of a sentence accompanies a subordinate clause, "ni" disappears.  
 
 * jan li pona tawa mi ***lon ni***: mi pona tawa jan. *(Homoj estas bonaj al mi, se mi estas bona al homoj. — People are good to me, if I'm good to people.)*
   * ~~lon ni,~~ mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
@@ -364,9 +364,9 @@ pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li ken
 #### mute nimi kama
 *(Subfrazoj — Subordinate Clauses)*
 
-**[TP]** **jan Sonja** li kepeken **mute nimi kama** lon pini taso pi **mute nimi**. ni la **sitelen nanpa** li kama **sitelen palisa**.
-**[EO]** Sonja uzas subfrazojn nur frazofine. Tiam, komo fariĝas dupunkto.
-**[EN]** Sonja uses subordinate clauses only at the end of a sentence. In this case, the comma becomes a colon.
+**[TP]** **jan Sonja** li kepeken **mute nimi kama** lon pini taso pi **mute nimi**. ni la **sitelen nanpa** li kama **sitelen palisa**.  
+**[EO]** Sonja uzas subfrazojn nur frazofine. Tiam, komo fariĝas dupunkto.  
+**[EN]** Sonja uses subordinate clauses only at the end of a sentence. In this case, the comma becomes a colon.  
 
 * mi sona e ni: ***mi anpa***. *(Mi scias, ke mi estas malalta. — I know that I am low.)*
 
@@ -709,9 +709,9 @@ nimi "sama ... (pi)" li ken kama [nimi palisa](#nimi-palisa).
 ### mute nimi kama nasa
 *(Strangaj Subfrazoj — Strange Subordinate Clauses)*
 
-**[TP]** kama pi [mute nimi kama](#mute-nimi-kama) li ken kama weka. tan ni la **nimi wawa pini** li ken kama **nimi kama**.
-**[EO]** La komenco de subfrazo povas malaperi. Tial, helpaj verboj povas fariĝi modifiloj.
-**[EN]** The beginning of a subordinate clause can disappear. Therefore, auxiliary verbs can become modifiers.
+**[TP]** kama pi [mute nimi kama](#mute-nimi-kama) li ken kama weka. tan ni la **nimi wawa pini** li ken kama **nimi kama**.  
+**[EO]** La komenco de subfrazo povas malaperi. Tial, helpaj verboj povas fariĝi modifiloj.  
+**[EN]** The beginning of a subordinate clause can disappear. Therefore, auxiliary verbs can become modifiers.  
 
 * mi sona e jan ni: ona li kama sona e toki pona. *(Mi konas tiun/tian personon, kiu lernas Tokiponon. — I know that/such person, who is studying Toki Pona.)*
 * mi sona e jan ***pi*** ~~ijo ni:~~ ona li kama sona e toki pona. *(Mi konas iun, kiu studas Tokiponon. — I know someone, who is studying Toki Pona.)*
