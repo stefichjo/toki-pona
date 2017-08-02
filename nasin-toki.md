@@ -709,8 +709,9 @@ nimi "sama ... (pi)" li ken kama [nimi palisa](#nimi-palisa).
 ### mute nimi kama nasa
 *(Strangaj Subfrazoj — Strange Subordinate Clauses)*
 
-kama pi [mute nimi kama](#mute-nimi-kama) li ken kama weka. tan ni la **nimi wawa pini** li ken kama **nimi kama**.
-*(La komenco de subfrazo povas malaperi. Tial, helpaj verboj povas fariĝi modifiloj. — The beginning of a subordinate clause can disappear. Therefore, auxiliary verbs can become modifiers.)*
+**[TP]** kama pi [mute nimi kama](#mute-nimi-kama) li ken kama weka. tan ni la **nimi wawa pini** li ken kama **nimi kama**.
+**[EO]** La komenco de subfrazo povas malaperi. Tial, helpaj verboj povas fariĝi modifiloj.
+**[EN]** The beginning of a subordinate clause can disappear. Therefore, auxiliary verbs can become modifiers.
 
 * mi sona e jan ni: ona li kama sona e toki pona. *(Mi konas tiun/tian personon, kiu lernas Tokiponon. — I know that/such person, who is studying Toki Pona.)*
 * mi sona e jan ***pi*** ~~ijo ni:~~ ona li kama sona e toki pona. *(Mi konas iun, kiu studas Tokiponon. — I know someone, who is studying Toki Pona.)*
