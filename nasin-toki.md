@@ -81,7 +81,7 @@
 #### nimi lili "e"
 *(Rekta Objekto — Direct Object)*
 
-**[TP]** nimi "ijo" taso li lon pini pi **nimi lili** "e", la ona li ken kama weka.
+**[TP]** nimi "ijo" taso li lon pini pi **nimi lili** "e", la ona li ken kama weka.  
 **[EO]** Nura "ijo" kiel rekta objekto (t.e. la vortoj malantaŭ la **partikulo** "e") povas malaperi.  
 **[EN]** Plain "ijo" as the direct object (i.e. the words after the **particle** "e") can disappear.
 
@@ -100,7 +100,7 @@
 **[EN]** **Modifiers** can become **transitive verbs**.
 
 * mi wawa. *(Mi estas forta. — I am strong.)*
-  * telo li wawa e mi. *(Akvo fortigas min. — Water strengthens me.)*
+* telo li wawa e mi. *(Akvo fortigas min. — Water strengthens me.)*
 
 **[TP]** jan li ken toki e wile kepeken nimi lon pini taso pi **nimi lili** "e".  
 **[EO]** Oni povas komuniki deziron per nura rekta objekto (t.e. la vortoj malantaŭ la **partikulo** "e").  
@@ -112,20 +112,23 @@
 #### nimi lili "o"
 *(Volativo, Vokativo kaj Imperativo — Volative, Vocative and Imperative)*
 
-kama pi **nimi lili** "o" la nimi "sina" li ken kama weka.
-*("sina" povas malaperi antaŭ la partikulo "o". — "sina" can disappear in front of the particle "o".)*
+**[TP]** kama pi **nimi lili** "o" la nimi "sina" li ken kama weka.  
+**[EO]** "sina" povas malaperi antaŭ la **partikulo** "o".  
+**[EN]** "sina" can disappear before the **particle** "o".
 
 * sina ***o*** lukin. *(Vi rigardu. — You should look.)*
   * → ***o*** lukin! *(Rigardu! — Look!)*
 
-pini pi **nimi lili** "o" la nimi "kute" li ken kama weka.
-*("kute" povas malaperi malantaŭ la partikulo "o". — "kute" can disappear after the particle "o".)*
+**[TP]** pini pi **nimi lili** "o" la nimi "kute" li ken kama weka.  
+**[EO]** "kute" povas malaperi malantaŭ la **partikulo** "o".  
+**[EN]** "kute" can disappear after the **particle** "o".
 
 * jan pona ***o*** kute. *(Amiko aŭskultu. — A friend should listen.)*
   * → jan pona ***o***! *(Ho amiko! — Hey friend!)*
 
-**jan Sonja** li kepeken ala **nimi lili "o"** lon poka pi **nimi lili "o"** ante.
-*(Sonja ne kombinas vokativon kun imperativo. Anstataŭe, ŝi uzas volativon. — Sonja doesn't combine a vocative sentence with an imperative one. Instead, she uses a volative sentence.)*
+**[TP]** **jan Sonja** li kepeken ala **nimi lili** "o" tu.  
+**[EO]** **Sonja** ne kombinas du **partikulojn** "o".  
+**[EN]** **Sonja** doesn't combine two "o"-**particles**.
 
 * jan Ali ***o*** wawa. *(Ali estu forta. — Ali should be strong.)*
 * jan Ali ***o***, ***o*** wawa. *(Ho Ali, estu forta. — Hey Ali, be strong.)*
