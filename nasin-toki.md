@@ -243,7 +243,7 @@
 
 * ***ala***! *(Ne! — No!)*
 
-**[TP]** **nimi kalama** li ken kama [nimi pali](#nimi-pali).
+**[TP]** **nimi kalama** li ken kama [nimi pali](#nimi-pali).  
 **[EO]** **Interjekcio** povas fariĝi [aga vorto](#nimi-pali).  
 **[EN]** An **interjection** can become a [doing word](#nimi-pali).
 
@@ -286,8 +286,9 @@
 #### nimi nanpa
 *(Numeraloj — Numerals)*
 
-nimi "ala", "wan", "tu", "luka", "ale" li ken kama **nimi nanpa**.
-*("ala", "wan", "tu", "luka" kaj "ale" povas fariĝi numeraloj. — "ala", "wan", "tu", "luka" and "ale" can become numerals.)*
+**[TP]** nimi "ala", "wan", "tu", "luka", "ale" li ken kama **nimi nanpa**.  
+**[EO]** "ala", "wan", "tu", "luka" kaj "ale" povas fariĝi **numeraloj**.  
+**[EN]** "ala", "wan", "tu", "luka" and "ale" can become **numerals**.
 
 * luka ***wan*** li jo e palisa ***luka***. *(Unu mano havas kvin fingrojn. — One hand has five fingers.)*
 
