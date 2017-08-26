@@ -13,27 +13,31 @@
 **[EN]** The section "[Additional Language](#toki-namako)" treats **Sonja**'s additional way of using the language in the Official Toki Pona Book.
 
 * ona li pana e ***telo*** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
-  * → ona li ***telo*** e kasi. *(ŝi akvumas la planton. — She waters the plant.)*
+  * → ona li ***telo*** e kasi. *(Ŝi akvumas la planton. — She waters the plant.)*
 
-wan lipu "[toki musi](#toki-musi)" li toki e nasin toki pi jan ala. taso tawa mi la ona li pona lon poka pi [toki lili](#toki-lili).
-*(La sekcio "Eksperimenta Lingvaĵo" traktas lingvouzojn, kiuj ne estas aplikataj, sed kiuj laŭ mi harmonias kun la "Kerna Lingvaĵo". — The section "Experimental Language" treats ways of using the language, which seem to me to be in harmony with the "Core Language", but which are not applied.)*
+**[TP]** wan lipu "[toki musi](#toki-musi)" li toki e nasin toki pi jan ala. taso tawa mi la ona li pona lon poka pi [toki lili](#toki-lili).  
+**[EO]** La sekcio "[Eksperimenta Lingvaĵo](#toki-musi)" traktas lingvouzojn, kiuj ne estas aplikataj, sed kiuj laŭ mi harmonias kun la "[Kerna Lingvaĵo](#toki-lili)".  
+**[EN]** The section "[Experimental Language](#toki-musi)" treats ways of using the language, which seem to me to be in harmony with the "[Core Language](#toki-lili)", but which are not applied.
 
 * o ***luka*** ala e seli! *(Ne tuŝu la fajron! — Don't touch the fire!)*
- 
-wan lipu "[toki nasa](#toki-nasa)" li toki e nasin toki sin pi jan nasa ni: ona li wile ante e toki pona.
-*(La sekcio "Stranga Lingvaĵo" traktas la aldonan lingvouzon de tokiponidistoj. — The section "Strange Language" treats the additional way of how speakers of Toki Pona dialects use the language.)*
 
+**[TP]** wan lipu "[toki nasa](#toki-nasa)" li toki e nasin toki sin pi jan nasa ni: ona li wile ante e toki pona.  
+**[EO]** La sekcio "[Stranga Lingvaĵo](#toki-nasa)" traktas la aldonan lingvouzon de tokiponidistoj.  
+**[EN]** The section "[Strange Language](#toki-nasa)" treats the additional way of how speakers of Toki Pona dialects use the language.
+ 
 * mi tawa ~~lon~~ ***poka*** sina. *(Mi iras kun vi. — I am going with you.)*
   * → mi tawa ***poka*** sina.
 
-wan lipu "[toki sin](#toki-sin)" li toki e toki ante tan toki pona.
-*(La sekcio "Novaj Lingvoj" traktas aliajn lingvojn derivitajn de Tokipono. — The section "New Languages" treats other languages derived from Toki Pona.)*
+**[TP]** wan lipu "[toki sin](#toki-sin)" li toki e toki ante tan toki pona.  
+**[EO]** La sekcio "[Novaj Lingvoj](#toki-sin)" traktas aliajn lingvojn derivitajn de Tokipono.  
+**[EN]** The section "[New Languages](#toki-sin)" treats other languages derived from Toki Pona.
 
 * ***eju zen!*** *(Saluton! — Hello!)*
 * ***tokon!*** *(Saluton! — Hello!)*
 
-wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-lili) li kepeken [toki musi](#toki-musi). ona li [ale ala pi nimi mute, tan lipu suli pi toki pona](http://tokipona.net/tp/janpije/dictionary.php).
-*(La sekcio "Vortaro" uzas la Kernan Lingvaĵon kaj la Eksperimentan Lingvaĵon. Ĝi ne estas la Oficiala Vortaro. — The section "Dictionary" uses the Core Language and the Experimental Language. It is not the Official Dictionary.)*
+**[TP]** wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-lili) li kepeken [toki musi](#toki-musi). ona li [ale ala pi nimi mute, tan lipu suli pi toki pona](http://tokipona.net/tp/janpije/dictionary.php).  
+**[EO]** La sekcio "[Vortaro](#ale-pi-nimi-mute)" uzas la [Kernan Lingvaĵon](#toki-lili) kaj la [Eksperimentan Lingvaĵon](#toki-musi). Ĝi ne estas la [Oficiala Vortaro](http://tokipona.net/tp/janpije/dictionary.php).  
+**[EN]** The section "[Dictionary](#ale-pi-nimi-mute)" uses the [Core Language](#toki-lili) and the [Experimental Language](#toki-musi). It is not the [Official Dictionary](http://tokipona.net/tp/janpije/dictionary.php).
 
 ---
 
