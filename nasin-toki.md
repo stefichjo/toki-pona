@@ -272,7 +272,7 @@
 * jan ***pona*** *(amiko — friend)*
 
 **[TP]** sin la **nimi palisa** li **nimi suli** a. ona li ken kama **nimi kama palisa**.  
-**[EO]** Aldone, **prepozicioj** ankaŭ estas **radikaj vortoj**.  Ili povas fariĝi **transitiva modifilo**.
+**[EO]** Aldone, **prepozicioj** ankaŭ estas **radikaj vortoj**.  Ili povas fariĝi **transitiva modifilo**.  
 **[EN]** In addition, prepositions are content words, too. They can become **transitive modifiers**.
 
 * mi pona ***tawa*** jan. *(Mi estas bona al homoj. — I'm good to people.)*
