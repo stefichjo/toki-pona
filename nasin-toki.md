@@ -7,9 +7,10 @@
 
 * ***sina*** ~~li~~ sin. *(Vi estas nova. — You are new.)*
   * → ***sina*** sin.
-
-wan lipu "[toki namako](#toki-namako)" li toki e nasin toki sin pi **jan Sonja** lon lipu suli pi toki pona.
-*(La sekcio "Aldona Lingvaĵo" traktas la aldonan lingvouzon de Sonja en la Oficiala Libro de Tokipono. — The section "Additional Language" treats Sonja's additional way of using the language in the Official Toki Pona Book.)*
+  
+**[TP]** wan lipu "[toki namako](#toki-namako)" li toki e nasin toki sin pi **jan Sonja** lon lipu suli pi toki pona.  
+**[EO]** La sekcio "[Aldona Lingvaĵo](#toki-namako)" traktas la aldonan lingvouzon de **Sonja** en la Oficiala Libro de Tokipono.  
+**[EN]** The section "[Additional Language](#toki-namako)" treats **Sonja**'s additional way of using the language in the Official Toki Pona Book.
 
 * ona li pana e ***telo*** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
   * → ona li ***telo*** e kasi. *(ŝi akvumas la planton. — She waters the plant.)*
