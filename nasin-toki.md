@@ -165,7 +165,7 @@
 *(Kunteksto — Context)*
 
 **[TP]** kepeken **nimi lili** "la" la **nimi palisa** li ken kama lon kama pi **mute nimi**.  
-**[EO]** Per la **partikulo** "la", **prepozicio** povas aperi ĉe la komenco de **frazo**.
+**[EO]** Per la **partikulo** "la", **prepozicio** povas aperi ĉe la komenco de **frazo**.  
 **[EN]** By means of the **particle** "la", a **preposition** can appear at the beginning of a **sentence**.
 
 * sina pana e nimi "pona" tawa mi ***tan*** seme? *(Kial vi nomas min bona? — Why are you calling me good?)*
@@ -190,13 +190,15 @@
 #### nimi lili "en", "anu"
 *(Konjunkcioj — Conjunctions)*
 
-**nimi lili** "en" li ken lon nimi lon kama taso pi **nimi lili** "li".
-*(La partikulo "en" povas esti nur en la subjekto. — The particle "en" can only come in the subject.)*
+**[TP]** **nimi lili** "en" li ken lon nimi lon kama taso pi **nimi lili** "li".  
+**[EO]** La **partikulo** "en" povas esti nur en la subjekto (t.e. la vortoj antaŭ la **partikulo** "li").  
+**[EN]** The **particle** "en" can only come in the subject (i.e. the words before the **particle** "li").
 
 * toki sina ***en*** pali sina li sama, la sina pilin pona. *(Se via parolo kaj via ago estas samaj, vi bonfartas. — If what you say and what you do are the same, you are happy.)*
 
-kama nimi la pini nimi sama lon poka pi nimi "ala" la nimi "anu" li kama weka.
-*(Antaŭ vortoj kaj malantaŭ la samaj vortoj negitaj, "anu" malaperas. — In front of words and after the same words negated, "anu" disappears.)*
+**[TP]** kama nimi la pini nimi sama lon poka pi nimi "ala" la **nimi lili** "anu" li kama weka.  
+**[EO]** Antaŭ vortoj kaj malantaŭ la samaj vortoj negitaj, la **partikulo** "anu" malaperas.  
+**[EN]** In front of words and after the same words negated, the **particle** "anu" disappears.
 
 * ona li mama ***anu*** seme? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
   * → ona li ***mama ala*** ~~anu~~ ***mama***?
