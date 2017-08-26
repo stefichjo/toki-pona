@@ -2,8 +2,8 @@
 *(Gramatiko de Tokipono — Grammar of Toki Pona)*
 
 **[TP]** wan lipu "[toki lili](#toki-lili)" li toki e nasin toki pi jan ale pi toki pona e nasin pona pi **jan Sonja**.  
-**[EO]** La sekcio "Kerna Lingvaĵo" traktas la lingvouzon de ĉiuj tokiponistoj kaj la "ponan" stilon de Sonja.  
-**[EN]** The section "Core Language" treats the way every Toki Pona speaker uses the language and Sonja's "pona" style.  
+**[EO]** La sekcio "[Kerna Lingvaĵo](#toki-lili)" traktas la lingvouzon de ĉiuj tokiponistoj kaj la "ponan" stilon de **Sonja**.  
+**[EN]** The section "[Core Language](#toki-lili)" treats the way every Toki Pona speaker uses the language and **Sonja**'s "pona" style.
 
 * ***sina*** ~~li~~ sin. *(Vi estas nova. — You are new.)*
   * → ***sina*** sin.
