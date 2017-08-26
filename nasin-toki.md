@@ -262,21 +262,24 @@
 ### nimi suli
 *(Radikaj Vortoj — Content Words)*
 
-**nimi suli** li ken kama **nimi lawa**, **nimi wawa (palisa)**, **nimi kama**.
-*(Radika vorto povas fariĝi substantivo, (transitiva) verbo, modifilo. — A content word can become a noun, a (transitive) verb, a modifier.)*
+**[TP]** **nimi suli** li ken kama **nimi lawa**, **nimi wawa (palisa)**, **nimi kama**.  
+**[EO]** **Radika vorto** povas fariĝi **substantivo**, **(transitiva) verbo** aŭ **modifilo**.  
+**[EN]** A **content word** can become a **noun**, a **(transitive) verb** or a **modifier**.
 
 * o pana e ***pona***! *(Helpu! — Help!)*
 * ale li ***pona***. *(Ĉio estas bona. — All is good.)*
 * mi ***pona*** e mi. *(Mi bonigas min. — I improve myself.)*
 * jan ***pona*** *(amiko — friend)*
 
-sin la **nimi palisa** li **nimi suli** a. ona li ken kama **nimi kama palisa**.
-*(Aldone, prepozicioj ankaŭ estas radikaj vortoj. — In addition, prepositions are content words, too.)*
+**[TP]** sin la **nimi palisa** li **nimi suli** a. ona li ken kama **nimi kama palisa**.  
+**[EO]** Aldone, **prepozicioj** ankaŭ estas **radikaj vortoj**.  Ili povas fariĝi **transitiva modifilo**.
+**[EN]** In addition, prepositions are content words, too. They can become **transitive modifiers**.
 
 * mi pona ***tawa*** jan. *(Mi estas bona al homoj. — I'm good to people.)*
 
-**nimi suli** pi mute ala li ken kama **nimi wawa pini**.
-*(Malmultaj radikaj vortoj povas fariĝi helpaj verboj. — A few content words can become auxiliary verbs.)*
+**[TP]** **nimi suli** pi mute ala li ken kama **nimi wawa pini**.  
+**[EO]** Malmultaj **radikaj vortoj** povas fariĝi **helpaj verboj**.  
+**[EN]** A few **content words** can become **auxiliary verbs**.
 
 * mi ***wile*** lape. *(Mi bezonas dormi. — I need to sleep.)*
 
