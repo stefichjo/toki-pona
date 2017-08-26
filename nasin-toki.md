@@ -153,8 +153,8 @@
   * → mi ***pilin pi*** pona mute. *(Mi fartas tre bone. — I feel very good.)*
 
 **[TP]** **jan Sonja** li kepeken ala **nimi lili "pi"** lon poka pi **nimi lili "pi"** ante.  
-**[EO]** **Sonja** ne uzas genitivan frazeron (t.e. vortoj malantaŭ **partikulo** "pi") ene de alia genitiva frazero.  
-**[EN]** **Sonja** doesn't use genitive phrases (i.e. words after a **particle** "pi") inside other genitive phrases.
+**[EO]** **Sonja** ne uzas genitivan frazeron (t.e. vortoj malantaŭ **partikulo** "pi") kombine kun alia genitiva frazero.  
+**[EN]** **Sonja** doesn't use genitive phrases (i.e. words after a **particle** "pi") combined with other genitive phrases.
 
 * ni li tomo ***pi*** telo nasa ***pi*** jan pona. *(Tio estas la domo de biero de amiko. — This is the house of a friend's beer.)*
   * → ni li tomo ***pi*** telo nasa. jan pona li ***jo*** e telo nasa ni.
@@ -164,22 +164,24 @@
 #### nimi lili "la"
 *(Kunteksto — Context)*
 
-kepeken **nimi lili** "la" la **nimi palisa** li ken kama lon kama pi mute nimi.
-*(Per la partikulo "la", prepozicio povas aperi ĉe la komenco de frazo. — By means of the particle "la", a preposition can appear at the beginning of a sentence.)*
+**[TP]** kepeken **nimi lili** "la" la **nimi palisa** li ken kama lon kama pi **mute nimi**.  
+**[EO]** Per la **partikulo** "la", **prepozicio** povas aperi ĉe la komenco de **frazo**.
+**[EN]** By means of the **particle** "la", a **preposition** can appear at the beginning of a **sentence**.
 
 * sina pana e nimi "pona" tawa mi ***tan*** seme? *(Kial vi nomas min bona? — Why are you calling me good?)*
   * → ***tan*** seme ***la*** sina pana e nimi "pona" tawa mi?
 
-kama pi mute nimi la **nimi palisa** "lon" li kama weka.
-*(Komence de frazo, "lon" malaperas. — At the beginning of a sentence, "lon" disappears.)*
+**[TP]** kama pi **mute nimi** la **nimi palisa** "lon" li kama weka.  
+**[EO]** Komence de **frazo**, la **preposicio** "lon" malaperas.  
+**[EN]** At the beginning of a **sentence**, the **preposition** "lon" disappears.
 
 * ona li kama ***lon*** tenpo pimeja ni. *(Ŝi venas tiun ĉi nokton. — She is coming tonight.)*
   * ~~lon~~ tenpo pimeja ***la*** ona li kama. *(Ĉi-nokte, ŝi venas. — Tonight, she is coming.)*
     * tenpo pimeja ***la*** ona li kama.
 
-**[TP]** nimi "ni" lon kama pi mute nimi li lon poka pi [mute nimi kama](#mute-nimi-kama), la nimi "ni" li kama weka.  
-**[EO]** Se "ni" komence de frazo akompanas subfrazon, "ni" malaperas.  
-**[EN]** If "ni" at the beginning of a sentence accompanies a subordinate clause, "ni" disappears.  
+**[TP]** nimi "ni" lon kama pi **mute nimi** li lon poka pi [mute nimi kama](#mute-nimi-kama), la nimi "ni" li kama weka.  
+**[EO]** Se "ni" komence de **frazo** akompanas [subfrazon](#mute-nimi-kama), "ni" malaperas.  
+**[EN]** If "ni" at the beginning of a **sentence** accompanies a [subordinate clause](#mute-nimi-kama), "ni" disappears.
 
 * jan li pona tawa mi ***lon ni***: mi pona tawa jan. *(Homoj estas bonaj al mi, se mi estas bona al homoj. — People are good to me, if I'm good to people.)*
   * ~~ni,~~ mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
