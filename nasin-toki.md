@@ -230,26 +230,31 @@
 #### nimi kalama
 *(Interjekcio — Interjection)*
 
-jan li ken toki e pilin kepeken **nimi kalama** taso.
-*(Oni povas esprimi emocion per nura interjekcio. — One can express an emotion by means of a plain interjection.)*
+**[TP]** jan li ken toki e pilin kepeken **nimi kalama** taso.  
+**[EO]** Oni povas esprimi emocion per nura **interjekcio**.  
+**[EN]** One can express an emotion by means of a plain **interjection**.
 
 * ***a***! *(Ha!, Ho! — Ha!, Wow!)*
 * ***mu***! *(Bla! — Blah!)*
 
-nimi "ala" li ken kama **nimi kalama**.
+**[TP]** nimi "ala" li ken kama **nimi kalama**.  
+**[EO]** "ala" povas fariĝi **interjekcio**.  
+**[EN]** "ala" can become an **interjection**.
 
 * ***ala***! *(Ne! — No!)*
 
-**nimi kalama** li ken kama [nimi pali](#nimi-pali).
-*(Interjekcio povas fariĝi aga vorto. — An interjection can become a doing word.)*
+**[TP]** **nimi kalama** li ken kama [nimi pali](#nimi-pali).
+**[EO]** **Interjekcio** povas fariĝi [aga vorto](#nimi-pali).  
+**[EN]** An **interjection** can become a [doing word](#nimi-pali).
 
 * soweli li ~~kalama~~ "***mu***". *(La besto blekas. — The animal bleats.)*
   * → soweli li ***mu***.
 * ona li kute e ~~nimi~~ ***"mu"*** wawa. *(Li aŭdis laŭtan blekon. — He heard a loud bleat.)*
   * → ona li kute e ***mu*** wawa.
 
-**nimi kalama** li ken kama **nimi kama**.
-*(Interjekco povas fariĝi modifilo. — An interjection can become a modifier.)*
+**[TP]** **nimi kalama** li ken kama **nimi kama**.  
+**[EO]** **Interjekcio** povas fariĝi **modifilo**.  
+**[EN]** An **interjection** can become a **modifier**.
 
 * sina suli, ***a***! *(Vi estas granda, ho! — You are tall, wow!)*
   * → sina suli ***a***! *(Vi estas ja granda! — You are so tall!)*
