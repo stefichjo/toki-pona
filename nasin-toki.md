@@ -295,20 +295,23 @@
 #### nimi palisa
 *(Prepozicioj — Prepositions)*
 
-**nimi palisa** li ken **nimi kama palisa** li ken **nimi kama (pi palisa ala)** li ken **nimi wawa**.
-*(Prepozicio povas esti uzata kiel transitiva modifilo, kiel ne-transitiva modifilo kaj kiel verbo.)*
+**[TP]** **nimi palisa** li ken **nimi kama palisa** li ken **nimi kama (pi palisa ala)** li ken **nimi wawa**.  
+**[EO]** **Prepozicio** povas esti uzata kiel **transitiva modifilo**, kiel **ne-transitiva modifilo** kaj kiel **verbo**.  
+**[EN]** A **preposition** can be used as a **transitive modifier**, as an **intransitive modifier** and as a **verb**.
 
 * ***tawa*** *(al, por — to, for)*
   * ***tawa*** *(moviĝanta — moving)*
     * ***tawa*** *(movo — move)*
 
-**nimi suli** li jo e [nimi lili](#nimi-lili) anu **nimi kama** e **nimi kama palisa**, la **nimi kama palisa** li lon pini.
-*(Kiam radika vorto havas partikulon aŭ modifilon kaj prepozicion, la prepozicio estas ĉe la fino. — When a content word has a particle or a modifier and a preposition, the preposition is at the end.)*
+**[TP]** **nimi suli** li jo e [nimi lili](#nimi-lili) anu **nimi kama** e **nimi kama palisa**, la **nimi kama palisa** li lon pini.  
+**[EO]** Kiam **radika vorto** havas [partikulon](#nimi-lili) aŭ **modifilon** kaj **prepozicion**, la **prepozicio** estas ĉe la fino.  
+**[EN]** When a **content word** has a **particle** or a **modifier** and a **preposition**, the **preposition** is at the end.
 
 * mi pana ***e*** kili ***tawa*** sina. *(Mi donas la pomon al vi. — I'm giving you the apple.)*
 
-**jan Sonja** li kepeken **nimi palisa** lon pini taso pi **mute nimi**. ni la **sitelen nanpa** lon **nimi palisa** li ken kama weka. pini pi **nimi suli** la **nimi palisa** "lon" li kama weka.
-*(Sonja uzas prepoziciojn nur frazofine. Tiam, komo ĉe prepozicio povas malaperi. Post radika vorto, la prepozicio "lon" malaperas.  — Sonja uses prepositions only at the end of a sentence. In this case, a comma next to a preposition can disappear. After a content word, the preposition "lon" disappears.)*
+**[TP]** **jan Sonja** li kepeken **nimi palisa** lon pini taso pi **mute nimi**. ni la **sitelen nanpa** lon **nimi palisa** li ken kama weka. pini pi **nimi suli** la **nimi palisa** "lon" li kama weka.  
+**[EO]** **Sonja** uzas **prepoziciojn** nur fine de **frazo**. Tiam, komo ĉe **prepozicio** povas malaperi. Post **radika vorto**, la **prepozicio** "lon" malaperas.  
+**[EN]** **Sonja** uses **prepositions** only at the end of a **sentence**. In this case, a comma next to a **preposition** can disappear. After a **content word**, the **preposition** "lon" disappears.
 
 * jan pona ***sama sina*** li lon ma tomo mi. *(Amiko kiel vi estas en mia urbo.)*
   * → jan pona li lon ma tomo mi. ona li ***sama sina***.
