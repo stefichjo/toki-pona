@@ -137,21 +137,24 @@
 #### nimi lili "pi"
 *(Genitivo — Genitive)*
 
-nimi lon pini pi **nimi lili** "pi" li **nimi lawa** taso, la ona li kama **nimi kama**.
-*(Se genitiva frazero konsistas el nura substantivo, ĝi fariĝas modifilo. — If a genitive phrase consists of only a noun, it becomes a modifier.)*
+**[TP]** nimi lon pini pi **nimi lili** "pi" li **nimi lawa** wan taso, la **nimi lili** "pi" li kama weka. kepeken ni la **nimi lawa** ni li kama **nimi kama**.  
+**[EO]** Se genitiva frazero (t.e. la vortoj malantaŭ la **partikulo** "pi") konsistas el nur unu **substantivo**, la **partikulo** "pi" malaperas. Tiele, tiu **substantivo** fariĝas **modifilo**.  
+**[EN]** If a genitive phrase (i.e. the words after the **particle** "pi") consists of only one **noun**, the **particle** "pi" disappears. So, that **noun** becomes a **modifier**.
 
 * toki ~~pi~~ pona *(lingvo de bono, bona lingvo — a language of good, a good language)*
   * → toki pona
 * toki ***pi*** pona mute *(tre bona lingvo — a very good language)*
 
-pini pi **nimi wawa** "pilin" la **nimi lili** "e" li ken kama **nimi lili** "pi".
-*(La rekta objekto de "pilin" povas fariĝi genitiva frazero. — The direct object of "pilin" can become a genitive phrase.)*
+**[TP]** pini pi **nimi wawa palisa** "pilin" la **nimi lili** "e" li ken kama **nimi lili** "pi".  
+**[EO]** Malantaŭ la **transitiva verbo** "pilin", la **partikulo** "e" povas fariĝi la **partikulo** "pi".  
+**[EN]** After the **transitive verb** "pilin", the **particle** "e" can become the **particle** "pi".
 
 * mi ***pilin e*** pona mute. *(Mi sentas multan bonon. — I feel much good.)*
   * → mi ***pilin pi*** pona mute. *(Mi fartas tre bone. — I feel very good.)*
 
-**jan Sonja** li kepeken ala **nimi lili "pi"** lon poka pi **nimi lili "pi"** ante.
-*(Sonja ne uzas genitivon apud alia genitivo. — Sonja doesn't use genitives beside other genitives.)*
+**[TP]** **jan Sonja** li kepeken ala **nimi lili "pi"** lon poka pi **nimi lili "pi"** ante.  
+**[EO]** **Sonja** ne uzas genitivan frazeron (t.e. vortoj malantaŭ **partikulo** "pi") ene de alia genitiva frazero.  
+**[EN]** **Sonja** doesn't use genitive phrases (i.e. words after a **particle** "pi") inside other genitive phrases.
 
 * ni li tomo ***pi*** telo nasa ***pi*** jan pona. *(Tio estas la domo de biero de amiko. — This is the house of a friend's beer.)*
   * → ni li tomo ***pi*** telo nasa. jan pona li ***jo*** e telo nasa ni.
