@@ -35,9 +35,9 @@
 * ***eju zen!*** *(Saluton! — Hello!)*
 * ***tokon!*** *(Saluton! — Hello!)*
 
-**[TP]** wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-lili) li kepeken [toki musi](#toki-musi). ona li [ale ala pi nimi mute, tan lipu suli pi toki pona](http://tokipona.net/tp/janpije/dictionary.php).  
-**[EO]** La sekcio "[Vortaro](#ale-pi-nimi-mute)" uzas la [Kernan Lingvaĵon](#toki-lili) kaj la [Eksperimentan Lingvaĵon](#toki-musi). Ĝi ne estas la [Oficiala Vortaro](http://tokipona.net/tp/janpije/dictionary.php).  
-**[EN]** The section "[Dictionary](#ale-pi-nimi-mute)" uses the [Core Language](#toki-lili) and the [Experimental Language](#toki-musi). It is not the [Official Dictionary](http://tokipona.net/tp/janpije/dictionary.php).
+**[TP]** wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-lili) li kepeken [toki musi](#toki-musi). ona li [ale *ala* pi nimi mute, tan lipu suli pi toki pona](http://tokipona.net/tp/janpije/dictionary.php).  
+**[EO]** La sekcio "[Vortaro](#ale-pi-nimi-mute)" uzas la [Kernan Lingvaĵon](#toki-lili) kaj la [Eksperimentan Lingvaĵon](#toki-musi). Ĝi *ne* estas la [Oficiala Vortaro](http://tokipona.net/tp/janpije/dictionary.php).  
+**[EN]** The section "[Dictionary](#ale-pi-nimi-mute)" uses the [Core Language](#toki-lili) and the [Experimental Language](#toki-musi). It is *not* the [Official Dictionary](http://tokipona.net/tp/janpije/dictionary.php).
 
 ---
 
@@ -51,24 +51,27 @@
 *(Partikuloj — Particles)*
 
 #### nimi lili "li"
-*(Indikativo, Subjekto kaj Predikato — Indicative, Subject and Predicate)*
+*(Subjekto kaj Predikato — Subject and Predicate)*
 
-nimi lon kama pi **nimi lili** "li" li nimi "mi" taso anu nimi "sina" taso, la **nimi lili** "li" li kama weka.
-*(Se la subjekto estas nura "mi" aŭ nura "sina", "li" malaperas. — If the subject is just "mi" or "sina", "li" disappears.)*
+**[TP]** nimi lon kama pi **nimi lili** "li" li nimi "mi" taso anu nimi "sina" taso, la **nimi lili** "li" li kama weka.  
+**[EO]** Se la subjekto (t.e. la vortoj antaŭ la **partikulo** "li") estas nura "mi" aŭ nura "sina", la **partikulo** "li" malaperas.  
+**[EN]** If the subject (i.e. the words before the **particle** "li") is just "mi" or "sina", the **particle** "li" disappears.
 
 * ***mi*** ~~li~~ mije. *(Mi estas viro. — I am a man.)*
   * → ***mi*** mije.
 * ***sina*** ~~li~~ sin. *(Vi estas nova. — You are new.)*
   * → ***sina*** sin.
 
-**mute nimi** li ken jo e **nimi lili** "li" mute. sitelen nanpa ona li ken kama weka.
-*(Frazo povas havi plurajn predikatojn. Iliaj komoj povas malaperi. — A sentence can have multiple predicates. Their commas can disappear.)*
+**[TP]** **mute nimi** li ken jo e **nimi lili** "li" mute. sitelen nanpa ona li ken kama weka.  
+**[EO]** **Frazo** povas havi plurajn predikatojn (t.e. la vortoj malantaŭ la **partikulo** "li"). Iliaj komoj povas malaperi.  
+**[EN]** A **sentence** can have multiple predicates (i.e. the words after the **particle** "li"). Their commas can disappear.
 
 * ma mama ***li*** lili, ***li*** lete. *(La patrujo estas malgranda kaj malvarma. — The motherland is small and cold.)*
   * → ma mama ***li*** lili ***li*** lete.
 
-jan li ken toki sin kepeken nimi lon pini taso pi **nimi lili** "li".
-*(Oni povas respondi per nura predikato. — One can reply by just a predicate.)*
+**[TP]** jan li ken toki sin kepeken nimi lon pini taso pi **nimi lili** "li".
+**[EO]** Oni povas respondi per nura predikato (t.e. la vortoj malantaŭ la **partikulo** "li").  
+**[EN]** One can reply by just a predicate (i.e. the words after the **particle** "li").
 
 * ~~ni li~~ ***pona***. *(Dankon! — Thanks!)*
   * → ***pona***!
