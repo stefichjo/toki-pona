@@ -196,7 +196,7 @@
 
 * toki sina ***en*** pali sina li sama, la sina pilin pona. *(Se via parolo kaj via ago estas samaj, vi bonfartas. — If what you say and what you do are the same, you are happy.)*
 
-**[TP]** kama nimi la pini nimi sama lon poka pi nimi "ala" la **nimi lili** "anu" li kama weka.  
+**[TP]** kama nimi la pini pi nimi sama lon poka pi nimi "ala" la **nimi lili** "anu" li kama weka.  
 **[EO]** Antaŭ vortoj kaj malantaŭ la samaj vortoj negitaj, la **partikulo** "anu" malaperas.  
 **[EN]** In front of words and after the same words negated, the **particle** "anu" disappears.
 
@@ -207,19 +207,22 @@
 #### nimi tan
 *(Citaĵoj — Quotes)*
 
-**nimi tan** li lon insa pi sitelen tan.
-*(Citaĵo estas inter citiloj. — Quotations are inside quotation marks.)*
+**[TP]** **nimi tan** li lon insa pi sitelen tan.  
+**[EO]** **Citaĵo** estas inter citiloj.  
+**[EN]** **Quotations** are inside quotation marks.
 
 * nimi "***Epelanto***" *(la vorto "Esperanto" — the word "Esperanto")*
 
-**sitelen tan** lon poka pi nimi "nimi" anu nimi "kalama" li ken kama weka.
-*(Citiloj kun "nimi" aŭ "kalama" povas malaperi. — Quotation marks with "nimi" or "kalama" can disappear.)*
+**[TP]** **sitelen tan** lon poka pi nimi "nimi" anu nimi "kalama" li ken kama weka.  
+**[EO]** **Citiloj** kun "nimi" aŭ "kalama" povas malaperi.  
+**[EN]** **Quotation marks** with "nimi" or "kalama" can disappear.
 
 * toki pi nimi "***Epelanto***" *(Esperanto — Esperanto)*
   * → toki ***Epelanto***
 
-nimi "nanpa" lon poka pi **nimi nanpa** li ken kama nimi.
-*("nanpa" kun numeralo povas fariĝi nomo. — "nanpa" together with a numeral can become a name.)*
+**[TP]** nimi "nanpa" lon poka pi **nimi nanpa** li ken kama nimi.  
+**[EO]** "nanpa" kun **numeralo** povas fariĝi nomo.  
+**[EN]** "nanpa" together with a **numeral** can become a name.
 
 * lipu ***pi nanpa tu*** *(la karto kun la numero du — the card with the number two)*
   * → lipu ***nanpa tu*** *(la karto numero du, la dua karto — the card number two, the second card)*
