@@ -69,38 +69,42 @@
 * ma mama ***li*** lili, ***li*** lete. *(La patrujo estas malgranda kaj malvarma. — The motherland is small and cold.)*
   * → ma mama ***li*** lili ***li*** lete.
 
-**[TP]** jan li ken toki sin kepeken nimi lon pini taso pi **nimi lili** "li".
+**[TP]** jan li ken toki sin kepeken nimi lon pini taso pi **nimi lili** "li".  
 **[EO]** Oni povas respondi per nura predikato (t.e. la vortoj malantaŭ la **partikulo** "li").  
 **[EN]** One can reply by just a predicate (i.e. the words after the **particle** "li").
 
-* ~~ni li~~ ***pona***. *(Dankon! — Thanks!)*
+* ~~ni li~~ ***pona***! *(Dankon! — Thanks!)*
   * → ***pona***!
-* ~~ona li~~ ***mama***. *(Jes! (Ŝi estas gepatro.) — Yes! (She is a parent.))*
-  * → ***mama***!
+* ~~ona li~~ ***mama***. *(Jes. (Ŝi estas gepatro.) — Yes. (She is a parent.))*
+  * → ***mama***.
 
 #### nimi lili "e"
 *(Rekta Objekto — Direct Object)*
 
-nimi "ijo" taso li lon pini pi **nimi lili** "e", la ona li ken kama weka.
-*(Nura "ijo" kiel rekta objekto povas malaperi. — Plain "ijo" as the direct object can disappear.)*
+**[TP]** nimi "ijo" taso li lon pini pi **nimi lili** "e", la ona li ken kama weka.
+**[EO]** Nura "ijo" kiel rekta objekto (t.e. la vortoj malantaŭ la **partikulo** "e") povas malaperi.  
+**[EN]** Plain "ijo" as the direct object (i.e. the words after the **particle** "e") can disappear.
 
 * mije li sona ***e ijo***. *(La viro scias aferojn. — The man knows things.)*
   * → mije li sona. *(La viro scias. — The man knows.)*
 
-nimi lon pini pi **nimi lili** "li" li ken jo e **nimi lili** "e" mute. sitelen nanpa ona li ken kama weka.
-*(Predikato povas havi plurajn rektajn objektojn. Iliaj komoj povas malaperi. — A predicate can have multiple direct objects. Their commas can disappear.)*
+**[TP]** nimi lon pini pi **nimi lili** "li" li ken jo e **nimi lili** "e" mute. sitelen nanpa ona li ken kama weka.  
+**[EO]** Predikato (t.e. la vortoj malantaŭ la **partikulo** "li") povas havi plurajn rektajn objektojn (t.e. la vortoij malantaŭ la **partikulo** "e"). Iliaj komoj povas malaperi.  
+**[EN]** A predicate (i.e. the words after the **particle** "li") can have multiple direct objects (i.e. the words after the **particle** "e"). Their commas can disappear.
 
 * ona li seli ***e*** soweli, ***e*** pan. *(Ŝi kuiras la viandon kaj la rizon. — She cooks the meat and the rice.)*
   * → ona li seli ***e*** soweli ***e*** pan.
 
-**nimi kama** li ken kama **nimi wawa palisa**.
-*(Modifilo povas fariĝi transitiva verbo. — Modifiers can become transitive verbs.)*
+**[TP]** **nimi kama** li ken kama **nimi wawa palisa**.  
+**[EO]** **Modifilo** povas fariĝi **transitiva verbo**.  
+**[EN]** **Modifiers** can become **transitive verbs**.
 
 * mi wawa. *(Mi estas forta. — I am strong.)*
   * telo li wawa e mi. *(Akvo fortigas min. — Water strengthens me.)*
 
-jan li ken toki e wile kepeken nimi lon pini taso pi **nimi lili** "e".
-*(Oni povas komuniki deziron per nura rekta objekto. — One can express a desire by just a direct object.)*
+**[TP]** jan li ken toki e wile kepeken nimi lon pini taso pi **nimi lili** "e".  
+**[EO]** Oni povas komuniki deziron per nura rekta objekto (t.e. la vortoj malantaŭ la **partikulo** "e").  
+**[EN]** One can express a desire by just a direct object (i.e. the words after the **particle** "e").
 
 * ~~tawa pona sina la mi wile e~~ ***moku pona***. *(Mi bondeziras al vi bonan manĝon. — I wish you a good meal.)*
   * → ***moku pona***! *(Bonan apetiton! — Bon appétit!)*
