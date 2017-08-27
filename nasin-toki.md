@@ -351,21 +351,24 @@
   * ~~ijo~~ ***ala***, ~~ijo~~ ***ale***, ~~ijo~~ ***ni***, ~~ijo~~ ***seme*** *(nenio, ĉio, tio (ĉi), kio — nothing, everything,  that/this thing, what)*
     * → ***ala***, ***ale***, ***ni***, ***seme***
 
-pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li ken kama sin.
-*(En genitiva frazero, "ijo" antaŭ korelativo povas reaperi. — In a genitive clause, "ijo" in front of a correlative can reappear.)*
+**[TP]** pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li ken kama sin.  
+**[EO]** En genitiva frazero, "ijo" antaŭ korelativo povas reaperi.  
+**[EN]** In a genitive clause, "ijo" in front of a correlative can reappear.
 
 * mama ***ale*** *(ĉiu gepatro, ĉîes gepatro — every parent, everything's parent)*
   * → mama ***pi ijo ale*** *(gepatro de ĉio — parent of everything)*
 
-**nimi kama** "ala" li ken tawa.
-*(La modifilo "ala" povas moviĝi. — The modifier "ala" can move.)*
+**[TP]** **nimi kama** "ala" li ken tawa.  
+**[EO]** La modifilo "ala" povas moviĝi.  
+**[EN]** The modifier "ala" can move.
 
 * o kepeken ilo ike ***ala***. *(Uzu neniujn malĝustajn instrumentojn. — Don't use any wrong tools.)*
   * o kepeken — ***ala*** — ilo ike. *(Ne uzu la malĝustajn instrumentojn. — Don't use the wrong tools.)*
     * → o kepeken ***ala*** ilo ike.
 
-**jan Sonja** li kepeken nimi "sama ni" ala. ona li kepeken nimi "ni".
-*(Sonja uzas "ni" anstataŭ "sama ni". — Sonja uses "ni" instead of "sama ni".)*
+**[TP]** **jan Sonja** li kepeken nimi "sama ni" ala. ona li kepeken nimi "ni".
+**[EO]** Sonja uzas "ni" anstataŭ "sama ni".  
+**[EN]** Sonja uses "ni" instead of "sama ni".
 
 * tomo ***sama ni*** *(domo kiel tiu, tia domo — a house like this, such a house)*
   * → tomo ***ni*** *(tiuj domoj → tia domo — those houses → such a house)*
