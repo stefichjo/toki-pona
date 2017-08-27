@@ -416,25 +416,33 @@
 ### nimi lili "e" namako
 *(Aldona Akuzativo — Additional Accusative)*
 
-nimi "pana e ... tawa" li ken kama [nimi lili "e"](#nimi-lili-e) namako.
+**[TP]** nimi lon pini pi nimi "pana e" li ken kama [nimi wawa palisa](#nimi-wawa-palisa).  
+**[EO]** La rekta objekto de "pana" povas fariĝi [transitiva verbo](#nimi-wawa-palisa).  
+**[EN]** The direct object of "pana" can become a [transitive verb](#nimi-wawa-palisa).
 
 * ona li ***telo*** e kasi. *(ŝi malsekigas la planton. — She gets the plant wet.)*
 * ona li pana e ***telo*** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
   * → ona li ***telo*** e kasi. *(Ŝi akvumas la planton. — She waters the plant.)*
 
-nimi "lon sinpin pi" li ken kama [nimi lili "e"](#nimi-lili-e) namako.
+**[TP]** nimi "lon sinpin pi" li ken kama [nimi lili "e"](#nimi-lili-e).  
+**[EO]** "lon sinpin pi" povas fariĝi la [partikulo "e"](#nimi-lili-e).  
+**[EN]** "lon sinpin pi" can become the [particle "e"](#nimi-lili-e).
 
 * ona li ***utala e*** jan ike. *(Ŝi provokas/atakas la malamikon. — She is provoking/attacking the enemy.)*
 * ona li ***utala lon sinpin pi*** jan ike. *(Ŝi batalas la malamikon. — She fights the enemy.)*
   * → ona li ***utala e*** jan ike.
 
-nimi "lon poka pi" li ken kama [nimi lili "e"](#nimi-lili-e) namako.
+**[TP]** nimi "lon poka pi" li ken kama [nimi lili "e"](#nimi-lili-e).
+**[EO]** "lon poka pi" povas fariĝi la [partikulo "e"](#nimi-lili-e).
+**[EN]** "lon poka pi" can become the [particle "e"](#nimi-lili-e).
 
 * ona li ***unpa e*** jan ni. *(Ŝi seksumigas tiun personon.)*
 * ona li ***unpa lon poka pi*** jan ni. *(Ŝi seksumas kun tiu persono.)*
   * → ona li ***unpa e*** jan ni.
 
-nimi "lon poka sike pi" li ken kama nimi "sike" en [nimi lili "e"](#nimi-lili-e) namako.
+**[TP]** nimi "lon poka sike pi" li ken kama [nimi wawa palisa](#nimi-wawa-palisa) "sike".  
+**[EO]** "lon poka sike pi" povas fariĝi la [transitiva verbo](#nimi-wawa-palisa) "sike".
+**[EN]** "lon poka sike pi" can become the [transitive verb](#nimi-wawa-palisa) "sike".
 
 * ona li ***sike e*** kiwen. *(Ŝi rondigas la ŝtonon. — She makes the stone round.)*
 * ona li tawa ***lon poka sike pi*** tomo sona. *(Ŝi iras ĉirkaŭ la lernejon. — She is walking around the school.)*
@@ -444,8 +452,9 @@ nimi "lon poka sike pi" li ken kama nimi "sike" en [nimi lili "e"](#nimi-lili-e)
 ### nimi nanpa namako
 *(Aldonaj Numeraloj — Strange Numerals)*
 
-**nimi nanpa** tu la sitelen nanpa li ken kama weka.
-*(Ĉe du numeraloj, la komo povas malaperi. — With two numerals, the comma can disappear.)*
+**[TP]** **nimi nanpa** tu la **sitelen nanpa** li ken kama weka.  
+**[EO]** Ĉe du **numeraloj**, la **komo** povas malaperi.  
+**[EN]** With two **numerals**, the **comma** can disappear.
 
 * palisa ***luka***, ***tu*** *(kvin fingroj kaj du → sep fingroj — five fingers and two → seven fingers)*
   * → palisa ***luka tu***
