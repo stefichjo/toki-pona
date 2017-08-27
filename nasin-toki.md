@@ -468,24 +468,27 @@
 ### nimi kalama musi
 *(Eksperimentaj Interjekcioj — Experimental Interjections)*
 
-[nimi kalama](#nimi-kalama) li ken jo e kon pi **nimi kama** tan **nimi kalama** sama.
-*(Interjekcio povas havi la signifon de la modifilo derivita de ĉi interjekcio. — An interjection can have the meaning of the modifier derived from the very interjection.)*
+**[TP]** [nimi kalama](#nimi-kalama) li ken jo e kon pi **nimi kama** tan **nimi kalama** sama.  
+**[EO]** [Interjekcio](#nimi-kalama) povas havi la signifon de la **modifilo** derivita de ĉi **interjekcio**.  
+**[EN]** An [interjection](#nimi-kalama) can have the meaning of the modifier derived from that very **interjection**.
 
 * ***a***, sina suli. *(Jes, vi estas granda. — Yes, you are tall.)*
 
 ### nimi suli musi
 *(Eksperimentaj Radikaj Vortoj — Experimental Content Words)*
 
-nimi tu sama li jo e kon pi **nimi kama** "a".
-*(Du samaj vortoj havas la signifon de la modifilo "a". — Two same words have the meaning of the modifier "a".)*
+**[TP]** nimi tu sama li jo e kon pi **nimi kama** "a".  
+**[EO]** Du samaj vortoj havas la signifon de la **modifilo** "a".  
+**[EN]** Two same words have the meaning of the **modifier** "a".
 
 * sina ***suli suli***! *(Vi estas vere alta! — You are really tall!)*
 
 ### nimi lili "e" musi
 *(Eksperimenta Akuzativo — Experimental Accusative)*
 
-mute nimi pi nimi suli "pana" li ken jo e kon pi mute nimi pi **nimi suli palisa** tan **nimi kama**.
-*(Frazo kun la verbo "pana" povas havi la signifon de frazo kun kaŭzativo. — A sentence with the verb "pana" can have the meaning of a sentence with a causative.)*
+**[TP]** **mute nimi** pi **nimi suli** "pana" li ken jo e kon pi **mute nimi** pi **nimi suli palisa** tan **nimi kama**.  
+**[EO]** **Frazo** kun la **verbo** "pana" povas havi la signifon de **frazo** kun kaŭzativo (t.e. **transitiva verbo** el **modifilo**).  
+**[EN]** A **sentence** with the **verb** "pana" can have the meaning of a **sentence** with a causative (i.e. a **transitive verb** from a **modifier**).
 
 * mi pona e tomo. *(Mi riparas la domon. — I repair the house.)*
   * → mi pana e pona tawa tomo.
@@ -494,24 +497,28 @@ mute nimi pi nimi suli "pana" li ken jo e kon pi mute nimi pi **nimi suli palisa
 ### nimi nanpa musi
 *(Eksperimentaj Numeraloj — Experimental Numerals)*
 
-nimi "mute", "esun" li [nimi nanpa](#nimi-nanpa) musi.
-*("mute" kaj "esun" estas eksperimentaj numeraloj. — "mute" and "esun" are experimental numerals.)*
+**[TP]** nimi "mute", "esun" li [nimi nanpa](#nimi-nanpa) musi.  
+**[EO]** "mute" kaj "esun" estas eksperimentaj [numeraloj](#nimi-nanpa).  
+**[EN]** "mute" and "esun" are experimental [numerals](#nimi-nanpa).
 
 * tenpo suno ***esun*** *(sep tagoj — seven days)*
 
-[nimi nanpa](#nimi-nanpa) li ken kama **nimi lawa**.
-*(Numeralo povas fariĝi substantivo. — A numeral can become a noun.)*
+**[TP]** [nimi nanpa](#nimi-nanpa) li ken kama **nimi lawa**.  
+**[EO]** [Numeralo](#nimi-nanpa) povas fariĝi **substantivo**.  
+**[EN]** A [numeral](#nimi-nanpa) can become a **noun**.
 
 * mi jo e kili tu. ***wan*** ona li loje. ***wan*** ante li jelo. *(Mi havas du pomojn. Unu el ili estas ruĝa. La alia estas flava. — I have two apples. One of them is red. The other one is yellow.)*
 
-[nimi lili "en"](#nimi-lili-en-anu) li ken lon [nimi nanpa](#nimi-nanpa) tu.
-*(La konjunkcio "en" povas esti ĉe du numeraloj. — The conjunction "en" can be with two numerals.)*
+**[TP]** [nimi lili "en"](#nimi-lili-en-anu) li ken lon [nimi nanpa](#nimi-nanpa) tu.  
+**[EO]** La [konjunkcio "en"](#nimi-lili-en-anu) povas esti ĉe du [numeraloj](#nimi-nanpa).  
+**[EN]** The [conjunction "en"](#nimi-lili-en-anu) can be with two [numerals](#nimi-nanpa).
 
 * tenpo suno esun tu *(du semajnoj — two weeks)*
 * tenpo suno ***luka tu en tu tu*** *(dek kvar tagoj — fourteen days)*
 
-kepeken nimi pi nanpa lili en nimi pi nanpa suli la jan li ken toki e nanpa lon nasin tan ala tawa wan.
-*(Pere de numeralo de malgranda kvanto kaj numeralo de granda kvanto oni povas esprimi kvanton inter nulo kaj unu. — By means of a numeral of a small quantity and a numeral of a big quantity one can express a quantity between zero and one.)*
+**[TP]** kepeken nimi pi nanpa lili en nimi pi nanpa suli la jan li ken toki e nanpa lon nasin tan ala tawa wan.  
+**[EO]** Pere de numeralo de malgranda kvanto kaj numeralo de granda kvanto oni povas esprimi kvanton inter nulo kaj unu.  
+**[EN]** By means of a numeral of a small quantity and a numeral of a big quantity one can express a quantity between zero and one.
 
 * mi pana e ***wan pi tu tu*** tawa sina. *(Mi donas al vi kvaronon. — I give you a quarter.)*
 * mi pana e ***mute wan pi tu tu*** tawa sina. *(Mi donas al vi tri kvaronojn. — I give you three quarters.)*
@@ -519,37 +526,39 @@ kepeken nimi pi nanpa lili en nimi pi nanpa suli la jan li ken toki e nanpa lon 
 #### nimi musi pi nanpa esun
 *(Eksperimentaj Vortoj por Sinsekvoj — Experimental Words for Sequences)*
 
-ala pi nimi **nanpa wan** li nimi **nanpa ale**.
-*(La malo de "nanpa wan" estas "nanpa ale". — The opposite of "nanpa wan" is "nanpa ale".)*
+**[TP]** kon pi poka ante, pi nimi "nanpa wan" li nimi "nanpa ale".  
+**[EO]** La malo de "nanpa wan" estas "nanpa ale".  
+**[EN]** The opposite of "nanpa wan" is "nanpa ale".
 
 * sina ***nanpa wan*** *(Vi estas la unua. — You're the first.)*
 * sina ***nanpa ale*** *(Vi estas la lasta. — You're the last.)*
 
-linja pi nanpa esun la wan linja kama li "nanpa kama", wan linja awen li "nanpa awen", wan linja pini li "nanpa pini".
-*(En atendovico la venonta vicero estas "nanpa kama", la estanta vicero estas "nanpa awen" kaj la pasinta vicero estas "nanpa pini". — In a row, the one whose turn it's going to be is "nanpa kama", the one whose turn it is is "nanpa awen" and the one whose turn it has been is "nanpa pini".)*
+**[TP]** linja pi nanpa esun la wan linja kama li "nanpa kama", wan linja awen li "nanpa awen", wan linja pini li "nanpa pini".  
+**[EO]** En atendovico la venonta vicero estas "nanpa kama", la estanta vicero estas "nanpa awen" kaj la pasinta vicero estas "nanpa pini".  
+**[EN]** In a row, the one whose turn it's going to be is "nanpa kama", the one whose turn it is is "nanpa awen" and the one whose turn it has been is "nanpa pini".
 
 * mi ***nanpa kama*** *(Estos mia vico. — It's going to be my turn.)*
 * mi ***nanpa awen*** *(Estas mia vico. — It's my turn.)*
 * mi ***nanpa pini*** *(Estis mia vico. — It's been my turn.)*
 
-ilo sona li pali lon tenpo mute, la ona li "nanpa sin" e ona.
-*(Kiam komputilo plurfoje plenumas algoritmon, ĝi iteracias ("nanpa sin") e ona. — When a computer fulfills an algorithm multiple times, it iterates ("nanpa sin") it.)*
+**[TP]** ilo sona li pali lon tenpo mute, la ona li "nanpa sin" e ona.  
+**[EO]** Kiam komputilo plurfoje plenumas algoritmon, ĝi iteracias ("nanpa sin") e ona.  
+**[EN]** When a computer fulfills an algorithm multiple times, it iterates ("nanpa sin") it.
 
 * ilo sona li ***nanpa sin*** e pali. *(La komputilo ripetas la taskon. La komputilo iteracias la algoritmon. — The computer repeats the task. The computer iterates the algorithm.)*
 
 ### nimi palisa musi
 *(Eksperimentaj Prepozicioj — Experimental Prepositions)*
 
-nimi "ante", "sin", "taso", "weka" li [nimi palisa](#nimi-palisa) musi.
-*("ante", "sin", "taso" kaj "weka" estas eksperimentaj prepozicioj. — "ante", "sin", "taso" and "weka" are experimental prepositions.)*
+**[TP]** nimi "ante", "sin", "taso", "weka" li [nimi palisa](#nimi-palisa) musi.  
+**[EO]** "ante", "sin", "taso" kaj "weka" estas eksperimentaj [prepozicioj](#nimi-palisa).  
+**[EN]** "ante", "sin", "taso" and "weka" are experimental [prepositions](#nimi-palisa).
 
 * ona li ***ante*** sina. *(Ŝi estas diversa ol vi. — She is different from you.)*
 
-nimi "ni" taso li lon pini pi **nimi palisa** "taso" lon kama pi mute nimi, la nimi "ni" en nimi "la" li ken kama weka.
-*(Se nura "ni" estas malantaŭ la prepozicio "taso" komence de frazo, "ni" kaj "la" povas malaperi. — If plain "ni" comes after the preposition "taso" at the beginning of a sentence, "ni" and "la" can disappear.)*
-
-nimi "taso ni la" li ken kama "taso".
-*("taso ni la" povas fariĝi "taso". — "taso ni la" can become "taso".)*
+**[TP]** nimi "taso" li [nimi palisa](#nimi-palisa). nimi "taso ni la" li ken kama "taso".  
+**[EO]** "taso" estas [prepozicio](#nimi-palisa). "taso ni la" povas fariĝi "taso".  
+**[EN]** "taso" is a [preposition](#nimi-palisa). "taso ni la" can become "taso".
 
 * ***taso ni la*** mije en meli li pali li pilin pona. *(Sendepende de tio, viroj kaj virinoj laboras kaj estas gajaj. — Independent from that, men and women work and are happy.)*
   * → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj. — But men and women work and are happy.)*
@@ -557,14 +566,16 @@ nimi "taso ni la" li ken kama "taso".
 ### nimi wawa pini musi
 *(Eksperimentaj Helpaj Verboj — Experimental Auxiliary Verbs)*
 
-nimi "pini" li ken kama **nimi wawa pini** musi.
-*("pini" povas fariĝi eksperimenta helpa verbo. — "pini" can become an experimental auxiliary verb.)*
+**[TP]** nimi "pini" li ken kama **nimi wawa pini** musi.  
+**[EO]** "pini" povas fariĝi eksperimenta **helpa verbo**.  
+**[EN]** "pini" can become an experimental **auxiliary verb**.
 
 * mi ***pini*** e ni: mi ***jo*** e lipu. *(Mi ĉesis havi la libron. Mi perdis la libron. — I ceased to have the book. I lost the book.)*
   * → mi ***pini jo*** e lipu.
 
-**nimi palisa** "tan", "lon", "tawa" li ken kama **nimi wawa pini** musi.
-*(La prepozicioj "tan", "lon" kaj "tawa" povas fariĝi eksperimentaj helpaj verboj. — The prepositions "tan", "lon" and "tawa" can become experimental auxiliary verbs.)*
+**[TP]** **nimi palisa** "tan", "lon", "tawa" li ken kama **nimi wawa pini** musi.  
+**[EO]** La **prepozicioj** "tan", "lon" kaj "tawa" povas fariĝi eksperimentaj **helpaj verboj**.  
+**[EN]** The **prepositions** "tan", "lon" and "tawa" can become experimental **auxiliary verbs**.
 
 * mi ***tan*** pini sona. *(Mi estas forgesinta. — I have forgotten.)*
 * mi ***lon*** awen sona. *(Mi estas memoranta. — I am remembering.)*
@@ -573,73 +584,85 @@ nimi "pini" li ken kama **nimi wawa pini** musi.
 ### nimi jan musi
 *(Eksperimentaj Ulaj Vortoj — Experimental Person Words)*
 
-nimi "akesi", "kulupu", "mama", "soweli" li [nimi jan](#nimi-jan) musi.
-*("akesi", "kulupu", "mama" kaj "soweli" estas eksperimentaj ulaj vortoj. — "akesi", "kulupu", "mama" and "soweli" are experimental person words.)*
+**[TP]** nimi "akesi", "kulupu", "mama", "soweli" li [nimi jan](#nimi-jan) musi.  
+**[EO]** "akesi", "kulupu", "mama" kaj "soweli" estas eksperimentaj [ulaj vortoj](#nimi-jan).  
+**[EN]** "akesi", "kulupu", "mama" and "soweli" are experimental [person words](#nimi-jan).
 
 * mi en sina li toki ***kulupu***. *(Mi kaj vi parolas unu al la alia. — You and I talk to one another.)*
 
 ### nimi ijo musi
 *(Eksperimentaj Aĵaj Vortoj — Experimental Thing Words)*
 
-nimi "ilo", "kili", "kon", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo", "tomo" li [nimi ijo](#nimi-ijo) musi.
-*("ilo", "kili", "kon", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" kaj "tomo" estas eksperimentaj aĵaj vortoj. — "ilo", "kili", "kon", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" and "tomo" are experimental thing words.)*
+**[TP]** nimi "ilo", "kili", "kon", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo", "tomo" li [nimi ijo](#nimi-ijo) musi.  
+**[EO]** "ilo", "kili", "kon", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" kaj "tomo" estas eksperimentaj [aĵaj vortoj](#nimi-ijo).  
+**[EN]** "ilo", "kili", "kon", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" and "tomo" are experimental [thing words](#nimi-ijo).
 
 * lipu ***ilo*** *(utila libro — a useful book)*
 
 ### nimi ilo musi
 *(Eksperimentaj Ilaj Vortoj — Experimental Tool Words)*
 
-nimi "len", "luka", "noka", "palisa", "poki", "selo", "uta" li [nimi ilo](#nimi-ilo) musi.
-*("len", "luka", "noka", "palisa", "poki", "selo" kaj "uta" estas eksperimentaj ilaj vortoj. — "len", "luka", "noka", "palisa", "poki", "selo" and "uta" are experimental tool words.)*
+**[TP]** nimi "len", "luka", "noka", "palisa", "poki", "selo", "uta" li [nimi ilo](#nimi-ilo) musi.  
+**[EO]** "len", "luka", "noka", "palisa", "poki", "selo" kaj "uta" estas eksperimentaj [ilaj vortoj](#nimi-ilo).  
+**[EN]** "len", "luka", "noka", "palisa", "poki", "selo" and "uta" are experimental [tool words](#nimi-ilo).
 
 * o ***luka*** ala e seli! *(Ne tuŝu la fajron! — Don't touch the fire!)*
 
 ### nimi sijelo musi
 *(Eksperimentaj Korpaj Vortoj — Experimental Body Words)*
 
-nimi "esun" li [nimi sijelo](#nimi-sijelo) musi.
-*("esun" estas eksperimenta korpa vorto. — "esun" is an experimental body word.)*
+**[TP]** nimi "esun" li [nimi sijelo](#nimi-sijelo) musi.  
+**[EO]** "esun" estas eksperimenta [korpa vorto](#nimi-sijelo).  
+**[EN]** "esun" is an experimental [body word](#nimi-sijelo).
 
 * jan lawa ***esun*** *(vicprezidanto — vice president)*
 
-[nimi sijelo](#nimi-sijelo) li ken kama [nimi palisa](#nimi-palisa) musi.
-*(Korpa vorto povas fariĝi eksperimenta prepozicio. — A body word can become an experimental preposition.)*
+**[TP]** [nimi sijelo](#nimi-sijelo) li ken kama [nimi palisa](#nimi-palisa) musi.  
+**[EO]** [Korpa vorto](#nimi-sijelo) povas fariĝi eksperimenta [prepozicio](#nimi-palisa).  
+**[EN]** A [body word](#nimi-sijelo) can become an experimental [preposition](#nimi-palisa).
 
 * mi ***kala*** telo. *(Mi naĝas en akvo. — I'm swimming in water.)*
 
 ### nimi mun musi
 *(Eksperimentaj Vortoj pri Ĉielirantaj Objektoj — Experimental Words of Skywalking Objects)*
 
-**nimi mun** li ken **nimi kama** taso. *(Vortoj pri ĉielirantaj objektoj povas esti nur modifiloj. — Words of skywalking objects can only be modifiers.)*
+**[TP]** **nimi mun** li ken **nimi kama** taso.  
+**[EO]** **Vortoj pri ĉielirantaj objektoj** povas esti nur **modifiloj**.  
+**[EN]** **Words of skywalking objects** can only be **modifiers**.
 
 * tan tenpo suno ***Mun*** tawa tenpo suno ***Kiwen*** la jan li ken lukin e loje pi mun ***Seli***. *(De lundo ĝis vendredo, oni povas vidi la ruĝon de marso. — From Monday to Friday one can see the red of Mars.)*
 
 ### sitelen musi lon poka nimi
 *(Eksperimenta Interpunkcio — Experimental Punctuation)*
 
-pini pi mute nimi la nimi pi kon sin li lon pini pi sitelen pi ijo kama.
-*(Fine de frazo, signif-aldonaj vortoj estas post dupunkto.)*
+**[TP]** pini pi mute nimi la nimi pi kon sin li lon pini pi sitelen pi ijo kama.  
+**[EO]** Fine de frazo, signif-aldonaj vortoj estas post dupunkto.  
+**[EN]** At the end of a sentence, words that add meaning are after a colon.
 
 * jan li pona tawa mi lon ni: mi pona tawa jan. *(Homoj estas bonaj por mi, se mi estas bona por homoj. — People are good to me, if I am good to people.)*
 
-sama ni la insa pi mute nimi la sitelen tu pi ijo kama anu sitelen "," ("pi ijo awen") li ken kama.
-*(Ankaŭ ene de frazo, dupunktoj aŭ komoj povas aperi.)*
+**[TP]** sama ni la insa pi mute nimi la sitelen tu pi ijo kama anu sitelen "," ("pi ijo awen") li ken kama.
+**[EO]** Ankaŭ ene de frazo, dupunktoj aŭ komoj povas aperi.  
+**[EN]** Also inside a sentence, colons or commas can appear.
 
 * tan ni: mi pona tawa jan :la jan li pona tawa mi. *(Ĉar mi estas bona por homoj, homoj estas bonaj por mi. — Because I am good to people, people are good to me.)*
   * → tan ni, mi pona tawa jan, la jan li pona tawa mi.
 
-pini pi [nimi wawa pini](#nimi-wawa-pini) la sitelen "+" ("pi ijo sin") li ken kama.
-*(Post helpa verbo povas aperi plus-signo.)*
+**[TP]** pini pi [nimi wawa pini](#nimi-wawa-pini) la sitelen "+" ("pi ijo sin") li ken kama.  
+**[EO]** Post [helpa verbo](#nimi-wawa-pini) povas aperi plus-signo.  
+**[EN]** After an [auxiliary verb](#nimi-wawa-pini) a plus-sign can appear.
 
 * mi wile+lape. *(Mi bezonas dormi. — I need to sleep.)*
 
-[nimi lili "pi"](#nimi-lili-pi) weka li ken jo e sitelen "-" ("pi ijo weka").
-*(Modifilo povas havi minus-signon.)*
+**[TP]** [nimi lili "pi"](#nimi-lili-pi) weka li ken jo e sitelen "-" ("pi ijo weka").  
+**[EO]** Modifilo (t.e. la vortoj malantaŭ la [partikulo "pi"](#nimi-lili-pi)) povas havi minus-signon.  
+**[EN]** A modifier (i.e. the words after the [particle "pi"](#nimi-lili-pi)) can have a minus sign.
 
 * tomo-tawa-sina *(via aŭto — your car)*
 
-pini pi mute nimi la [nimi palisa](#nimi-palisa) li ken jo e sitelen "/" ("pi wan mute").
-*(Fine de frazo, prepozicio povas havi ono-signon.)*
+**[TP]** pini pi mute nimi la [nimi palisa](#nimi-palisa) li ken jo e sitelen "/" ("pi wan mute").  
+**[EO]** Fine de frazo, [prepozicio](#nimi-palisa) povas havi ono-signon.  
+**[EN]** At the end of a sentence, a [preposition](#nimi-palisa) can have a division sign.
 
 * mi pana e lipu / tawa sina. *(Mi donas la libron al vi. — I am giving the book to you.)*
 
