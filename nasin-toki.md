@@ -237,11 +237,17 @@
 * ***a***! *(Ha!, Ho! — Ha!, Wow!)*
 * ***mu***! *(Bla! — Blah!)*
 
-**[TP]** nimi "ala" li ken kama **nimi kalama**.  
-**[EO]** "ala" povas fariĝi **interjekcio**.  
-**[EN]** "ala" can become an **interjection**.
+**[TP]** nimi "ala" li ken kama **nimi kalama**. **nimi kalama** li ken tawa.  
+**[EO]** "ala" povas fariĝi **interjekcio**. **Interjekcioj** povas moviĝi.  
+**[EN]** "ala" can become an **interjection**. **Interjections** can move.
 
 * ***ala***! *(Ne! — No!)*
+* o kepeken ilo ike ***ala***. *(Uzu neniujn malĝustajn instrumentojn. — Don't use any wrong tools.)*
+  * o kepeken — ***ala*** — ilo ike. *(Ne uzu la malĝustajn instrumentojn. — Don't use the wrong tools.)*
+    * → o kepeken ***ala*** ilo ike.
+* sina suli, ***a***! *(Vi estas granda, ho! — You are tall, wow!)*
+  * sina suli — ***a***! *(Vi estas ja granda! — You are so tall!)*
+    * → sina suli ***a***!
 
 **[TP]** **nimi kalama** li ken kama [nimi pali](#nimi-pali).  
 **[EO]** **Interjekcio** povas fariĝi [aga vorto](#nimi-pali).  
@@ -251,13 +257,6 @@
   * → soweli li ***mu***.
 * ona li kute e ~~nimi~~ ***"mu"*** wawa. *(Li aŭdis laŭtan blekon. — He heard a loud bleat.)*
   * → ona li kute e ***mu*** wawa.
-
-**[TP]** **nimi kalama** li ken kama **nimi kama**.  
-**[EO]** **Interjekcio** povas fariĝi **modifilo**.  
-**[EN]** An **interjection** can become a **modifier**.
-
-* sina suli, ***a***! *(Vi estas granda, ho! — You are tall, wow!)*
-  * → sina suli ***a***! *(Vi estas ja granda! — You are so tall!)*
 
 ### nimi suli
 *(Radikaj Vortoj — Content Words)*
@@ -358,16 +357,8 @@
 * mama ***ale*** *(ĉiu gepatro, ĉîes gepatro — every parent, everything's parent)*
   * → mama ***pi ijo ale*** *(gepatro de ĉio — parent of everything)*
 
-**[TP]** **nimi kama** "ala" li ken tawa.  
-**[EO]** La **modifilo** "ala" povas moviĝi.  
-**[EN]** The **modifier** "ala" can move.
-
-* o kepeken ilo ike ***ala***. *(Uzu neniujn malĝustajn instrumentojn. — Don't use any wrong tools.)*
-  * o kepeken — ***ala*** — ilo ike. *(Ne uzu la malĝustajn instrumentojn. — Don't use the wrong tools.)*
-    * → o kepeken ***ala*** ilo ike.
-
-**[TP]** pini pi [nimi lawa](#nimi-lawa) la **jan Sonja** li weka e [nimi palisa](#nimi-palisa) "sama" a.
-**[EO]** Malantaŭ [substantivo](#nimi-lawa), **Sonja** malaperigas ankaŭ la [prepozicion](#nimi-palisa) "sama".
+**[TP]** pini pi [nimi lawa](#nimi-lawa) la **jan Sonja** li weka e [nimi palisa](#nimi-palisa) "sama" a.  
+**[EO]** Malantaŭ [substantivo](#nimi-lawa), **Sonja** malaperigas ankaŭ la [prepozicion](#nimi-palisa) "sama".  
 **[EN]** After a [noun](#nimi-lawa), **Sonja** makes also the [preposition](#nimi-palisa) "sama" disappear.
 
 * tomo ni li suli ***sama*** ni. *(Tiu domo estas granda kiel tiu. Tiu domo estas granda kiel tio. Tiu domo estas tiel granda. — This house is big like this one. This house is big like that. This house is so big.)*
