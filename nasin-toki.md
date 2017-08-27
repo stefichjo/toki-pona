@@ -357,6 +357,14 @@
 * mama ***ale*** *(ĉiu gepatro, ĉîes gepatro — every parent, everything's parent)*
   * → mama ***pi ijo ale*** *(gepatro de ĉio — parent of everything)*
 
+**[TP]** nimi "ijo" li jo e kon pi nimi "tenpo" anu "ma"/"tomo", la ona li kama weka lon pini pi **nimi lili** "pi".  
+**[EO]** Kiam "ijo" havas la signifon de "tempo" aŭ "loko", ĝi malaperas en genitiva frazero (t.e. la vortoj malantaŭ la **partikulo** "pi").  
+**[EN]** When "ijo" has the meaning of "time" or "place", it disappears in a genitive clause (i.e. the words after the **particle** "pi").
+
+* toki pi **ma** ni *(la lingvo de tiu lando — that country's language)*
+* toki pi ~~ijo~~ ni *(la tiea lingvo — the local language)*
+  * → toki ni *(tiu lingvo — that language)*
+
 **[TP]** pini pi [nimi lawa](#nimi-lawa) la **jan Sonja** li weka e [nimi palisa](#nimi-palisa) "sama" a.  
 **[EO]** Malantaŭ [substantivo](#nimi-lawa), **Sonja** malaperigas ankaŭ la [prepozicion](#nimi-palisa) "sama".  
 **[EN]** After a [noun](#nimi-lawa), **Sonja** makes also the [preposition](#nimi-palisa) "sama" disappear.
