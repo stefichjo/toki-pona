@@ -432,8 +432,8 @@
 * ona li ***utala lon sinpin pi*** jan ike. *(Ŝi batalas la malamikon. — She fights the enemy.)*
   * → ona li ***utala e*** jan ike.
 
-**[TP]** nimi "lon poka pi" li ken kama [nimi lili "e"](#nimi-lili-e).
-**[EO]** "lon poka pi" povas fariĝi la [partikulo "e"](#nimi-lili-e).
+**[TP]** nimi "lon poka pi" li ken kama [nimi lili "e"](#nimi-lili-e).  
+**[EO]** "lon poka pi" povas fariĝi la [partikulo "e"](#nimi-lili-e).  
 **[EN]** "lon poka pi" can become the [particle "e"](#nimi-lili-e).
 
 * ona li ***unpa e*** jan ni. *(Ŝi seksumigas tiun personon.)*
@@ -441,7 +441,7 @@
   * → ona li ***unpa e*** jan ni.
 
 **[TP]** nimi "lon poka sike pi" li ken kama [nimi wawa palisa](#nimi-wawa-palisa) "sike".  
-**[EO]** "lon poka sike pi" povas fariĝi la [transitiva verbo](#nimi-wawa-palisa) "sike".
+**[EO]** "lon poka sike pi" povas fariĝi la [transitiva verbo](#nimi-wawa-palisa) "sike".  
 **[EN]** "lon poka sike pi" can become the [transitive verb](#nimi-wawa-palisa) "sike".
 
 * ona li ***sike e*** kiwen. *(Ŝi rondigas la ŝtonon. — She makes the stone round.)*
