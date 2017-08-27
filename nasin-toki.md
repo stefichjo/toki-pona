@@ -352,26 +352,27 @@
     * → ***ala***, ***ale***, ***ni***, ***seme***
 
 **[TP]** pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li ken kama sin.  
-**[EO]** En genitiva frazero, "ijo" antaŭ korelativo povas reaperi.  
-**[EN]** In a genitive clause, "ijo" in front of a correlative can reappear.
+**[EO]** En genitiva frazero (t.e. la vortoj malantaŭ la **partikulo** "pi"), "ijo" antaŭ **korelativo** povas reaperi.  
+**[EN]** In a genitive clause (i.e. the words behind the **particle** "pi"), "ijo" before a **correlative** can reappear.
 
 * mama ***ale*** *(ĉiu gepatro, ĉîes gepatro — every parent, everything's parent)*
   * → mama ***pi ijo ale*** *(gepatro de ĉio — parent of everything)*
 
 **[TP]** **nimi kama** "ala" li ken tawa.  
-**[EO]** La modifilo "ala" povas moviĝi.  
-**[EN]** The modifier "ala" can move.
+**[EO]** La **modifilo** "ala" povas moviĝi.  
+**[EN]** The **modifier** "ala" can move.
 
 * o kepeken ilo ike ***ala***. *(Uzu neniujn malĝustajn instrumentojn. — Don't use any wrong tools.)*
   * o kepeken — ***ala*** — ilo ike. *(Ne uzu la malĝustajn instrumentojn. — Don't use the wrong tools.)*
     * → o kepeken ***ala*** ilo ike.
 
-**[TP]** **jan Sonja** li kepeken nimi "sama ni" ala. ona li kepeken nimi "ni".
-**[EO]** Sonja uzas "ni" anstataŭ "sama ni".  
-**[EN]** Sonja uses "ni" instead of "sama ni".
+**[TP]** pini pi [nimi lawa](#nimi-lawa) la **jan Sonja** li weka e [nimi palisa](#nimi-palisa) "sama" a.
+**[EO]** Malantaŭ [substantivo](#nimi-lawa), **Sonja** malaperigas ankaŭ la [prepozicion](#nimi-palisa) "sama".
+**[EN]** After a [noun](#nimi-lawa), **Sonja** makes also the [preposition](#nimi-palisa) "sama" disappear.
 
-* tomo ***sama ni*** *(domo kiel tiu, tia domo — a house like this, such a house)*
-  * → tomo ***ni*** *(tiuj domoj → tia domo — those houses → such a house)*
+* tomo ni li suli ***sama*** ni. *(Tiu domo estas granda kiel tiu. Tiu domo estas granda kiel tio. Tiu domo estas tiel granda. — This house is big like this one. This house is big like that. This house is so big.)*
+* tomo pi suli ***sama*** ni *(tiom granda domo — a house that big)*
+  * → tomo pi suli ni *(tiel granda domo — such a big house)*
 
 ##### nimi pali
 *(Agaj Vortoj — Doing Words)*
