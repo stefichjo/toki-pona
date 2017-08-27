@@ -270,7 +270,7 @@
 * mi ***pona*** e mi. *(Mi bonigas min. — I improve myself.)*
 * jan ***pona*** *(amiko — friend)*
 
-**[TP]** sin la **nimi palisa** li **nimi suli** a. ona li **nimi kama palisa** pi **nimi lawa** anu **mute nimi**. **jan Sonja** li kepeken **nimi palisa** lon pini pi **mute nimi** taso.
+**[TP]** sin la **nimi palisa** li **nimi suli** a. ona li **nimi kama palisa** pi **nimi lawa** anu **mute nimi**. **jan Sonja** li kepeken **nimi palisa** lon pini pi **mute nimi** taso.  
 **[EO]** Aldone, **prepozicioj** ankaŭ estas **radikaj vortoj**.  Ili estas **transitiva modifilo** de **substantivo** aŭ de **frazo**. **Sonja** uzas **prepoziciojn** nur fine de **frazoj**.  
 **[EN]** In addition, prepositions are content words, too. They are **transitive modifiers** of **nouns** or of **sentences**. **Sonja** uses **prepositions** only at the end of **sentences**.
 
