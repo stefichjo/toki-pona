@@ -555,6 +555,7 @@
 **[EN]** "ante", "sin", "taso" and "weka" are experimental [prepositions](#nimi-palisa).
 
 * ona li ***ante*** sina. *(Ŝi estas diversa ol vi. — She is different from you.)*
+* ***ante*** sina la ona li suli. *(Ŝi estas pli alta ol vi. — She is taller than you.)*
 
 **[TP]** nimi "taso" li [nimi palisa](#nimi-palisa). nimi "taso ni la" li ken kama "taso".  
 **[EO]** "taso" estas [prepozicio](#nimi-palisa). "taso ni la" povas fariĝi "taso".  
