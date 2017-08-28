@@ -553,10 +553,11 @@
 ### nimi palisa musi
 *(Eksperimentaj Prepozicioj — Experimental Prepositions)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ante", "sin", "taso", "weka" li [nimi palisa](#nimi-palisa) musi.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "ante", "sin", "taso" kaj "weka" estas eksperimentaj [prepozicioj](#nimi-palisa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ante", "sin", "taso" and "weka" are experimental [prepositions](#nimi-palisa).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ante", "pu", "sin", "taso", "weka" li [nimi palisa](#nimi-palisa) musi.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "ante", "pu", "sin", "taso" kaj "weka" estas eksperimentaj [prepozicioj](#nimi-palisa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ante", "pu", "sin", "taso" and "weka" are experimental [prepositions](#nimi-palisa).
 
+* ***pu*** wile sina *(en harmonio kun via bezono, laŭ via bezono — in harmony with your needs, according to your needs)*
 * ona li ***sama*** ala sina. *(Ŝi estas diversa ol vi. — She is different from you.)*
   * → ona li ***ante*** sina.
     * ona li suli ***ante*** sina. *(Ŝi estas pli alta ol vi. — She is taller than you.)*
@@ -656,7 +657,7 @@
 
 * jan li pona tawa mi lon ni: mi pona tawa jan. *(Homoj estas bonaj por mi, se mi estas bona por homoj. — People are good to me, if I am good to people.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> sama ni la insa pi mute nimi la sitelen tu pi ijo kama anu sitelen "," ("pi ijo awen") li ken kama.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> sama ni la insa pi mute nimi la sitelen tu pi ijo kama anu sitelen "," ("pi ijo awen") li ken kama.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Ankaŭ ene de frazo, dupunktoj aŭ komoj povas aperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> Also inside a sentence, colons or commas can appear.
 
@@ -1201,7 +1202,9 @@
   * *(LAWA)* - organo por enhavi: veziko, ujo, ingo — organ for containing: bladder, container
 * **pona** ***[bona]*** *([SULI](#nimi-suli))* - bona, amika, simpla — good, friendly, simple
   * *(... [PALI](#nimi-pali))* - -inda — worth -ing
-* **pu** ***[buk]*** *([SULI](#nimi-suli))* = "***kepeken lipu suli pi toki pona***" - konsulti la Oficialan Libron de Tokipono — to interact with the Official Toki Pona Book
+* **pu** ***[buk]*** *([PALISA](#nimi-palisa))*
+  * *(KAMA PALISA)* - en harmonio kun — in harmony with
+  * *(KAMA)* - harmonia, konsultanta la Oficialan Libron de Tokipono — harmonious, interacting with the Official Toki Pona Book
 * **sama** ***[sama]*** *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - kiel — like
   * *(KAMA)* - egala, sama, mem — alike, same, self
