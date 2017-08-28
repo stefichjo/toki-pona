@@ -875,7 +875,7 @@
 
 * ***niun sunan tenpon mi pone tokas.*** *(tenpo suno ni la mi toki pona.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "selo" en "poki" li jo e sijelo nimi "ŝel" en "bok" lon toki Ponatoko.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "selo" en "poki" li jo e sijelo nimi "ŝel" en "bok" lon toki Ponatoko.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La tokiponaj vortoj "selo" kaj "poki" havas la radikojn "ŝel" kaj "bok" en Pona Toko.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The Toki Pona words "selo" and "poki" have the stems "ŝel" and "bok" in Pona Toko.
 
