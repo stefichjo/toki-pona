@@ -557,7 +557,8 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> "ante", "pu", "sin", "taso" kaj "weka" estas eksperimentaj [prepozicioj](#nimi-palisa).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ante", "pu", "sin", "taso" and "weka" are experimental [prepositions](#nimi-palisa).
 
-* ***pu*** wile sina *(en harmonio kun via bezono, laŭ via bezono — in harmony with your needs, according to your needs)*
+* mi utala ala tawa wile sina. *(Mi malbatalas vian volon. — I am at peace with your will.)*
+  * → mi ***pu*** wile sina *(Mi estas en harmonio kun via bezono, laŭ via bezono. — I am in harmony with your needs, according to your needs.)*
 * ona li ***sama*** ala sina. *(Ŝi estas diversa ol vi. — She is different from you.)*
   * → ona li ***ante*** sina.
     * ona li suli ***ante*** sina. *(Ŝi estas pli alta ol vi. — She is taller than you.)*
