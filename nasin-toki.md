@@ -559,7 +559,7 @@
 
 * mi utala ala tawa wile sina. *(Mi malbatalas vian volon. — I am at peace with your will.)*
   * → mi ***pu*** wile sina *(Mi estas en harmonio kun via bezono, laŭ via bezono. — I am in harmony with your needs, according to your needs.)*
-* ona li ***sama*** ala sina. *(Ŝi estas diversa ol vi. — She is different from you.)*
+* ona li sama ala sina. *(Ŝi estas diversa ol vi. — She is different from you.)*
   * → ona li ***ante*** sina.
     * ona li suli ***ante*** sina. *(Ŝi estas pli alta ol vi. — She is taller than you.)*
 * sina jo ala e mi. *(Vi ne havas min. — You don't have me.)*
