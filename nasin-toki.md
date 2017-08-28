@@ -558,7 +558,14 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ante", "sin", "taso" and "weka" are experimental [prepositions](#nimi-palisa).
 
 * ona li ***ante*** sina. *(Ŝi estas diversa ol vi. — She is different from you.)*
-* ***ante*** sina la ona li suli. *(Ŝi estas pli alta ol vi. — She is taller than you.)*
+* ona li suli ***ante*** sina. *(Ŝi estas pli alta ol vi. — She is taller than you.)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi palisa](#nimi-palisa) "lon" li ken jo e kon pi [nimi palisa](#nimi-palisa) "ante".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [prepozicio](#nimi-palisa) "lon" povas havi la signifon de la [prepozicio](#nimi-palisa) "ante".
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [preposition](#nimi-palisa) "lon" can have the meaning of the [preposition](#nimi-palisa) "ante".
+
+* ona li suli ***lon*** sina. *(Ŝi estas pli alta ol vi. — She is taller than you.)*
+  * → sina la ona li suli.
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "taso" li [nimi palisa](#nimi-palisa). nimi "taso ni la" li ken kama "taso".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> "taso" estas [prepozicio](#nimi-palisa). "taso ni la" povas fariĝi "taso".  
