@@ -561,7 +561,7 @@
 * ona li suli ***ante*** sina. *(Ŝi estas pli alta ol vi. — She is taller than you.)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi palisa](#nimi-palisa) "lon" li ken jo e kon pi [nimi palisa](#nimi-palisa) "ante".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [prepozicio](#nimi-palisa) "lon" povas havi la signifon de la [prepozicio](#nimi-palisa) "ante".
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [prepozicio](#nimi-palisa) "lon" povas havi la signifon de la [prepozicio](#nimi-palisa) "ante".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [preposition](#nimi-palisa) "lon" can have the meaning of the [preposition](#nimi-palisa) "ante".
 
 * ona li suli ***lon*** sina. *(Ŝi estas pli alta ol vi. — She is taller than you.)*
