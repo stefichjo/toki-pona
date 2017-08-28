@@ -678,7 +678,7 @@
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi [nimi pi jan anu ijo](#nimi-pi-jan-anu-ijo) la [nimi lili "pi"](#nimi-lili-pi) li ken awen. nimi "ijo" lon kama pi [nimi lili "pi"](#nimi-lili-pi) li ken kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Antaŭ [pronomo](#nimi-pi-jan-anu-ijo), la [partikulo "pi"](#nimi-lili-pi) povas resti. "ijo" antaŭ genitiva frazero (t.e. antaŭ la [partikulo "pi"](#nimi-lili-pi)) povas malaperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Before a [pronoun](#nimi-pi-jan-anu-ijo), the [particle "pi"](#nimi-lili-pi) can remain. "ijo" in front of a genitive phrase (i.e. before the [particle](#nimi-lili-pi)) can disappear.
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Before a [pronoun](#nimi-pi-jan-anu-ijo), the [particle "pi"](#nimi-lili-pi) can remain. "ijo" in front of a genitive phrase (i.e. before the [particle "pi"](#nimi-lili-pi)) can disappear.
 
 * ni li ijo mi. *(Tio apartenas al mi. — This belongs to me.)*
   * ni li ~~ijo~~ ***pi mi***. *(Tio estas mia. — This is mine.)*
@@ -838,7 +838,7 @@
 * ~~nimi~~ → ***nemi*** *(vorto — word)*
 * ~~kulupu~~ → ***kolupu*** *(grupo — group)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo", "waso" li weka.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo", "waso" li weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" kaj "waso" estas for.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" and "waso" are gone.
 
