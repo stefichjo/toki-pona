@@ -557,8 +557,19 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> "ante", "sin", "taso" kaj "weka" estas eksperimentaj [prepozicioj](#nimi-palisa).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ante", "sin", "taso" and "weka" are experimental [prepositions](#nimi-palisa).
 
-* ona li ***ante*** sina. *(Ŝi estas diversa ol vi. — She is different from you.)*
-* ona li suli ***ante*** sina. *(Ŝi estas pli alta ol vi. — She is taller than you.)*
+* ona li ***sama*** ala sina. *(Ŝi estas diversa ol vi. — She is different from you.)*
+  * → ona li ***ante*** sina.
+    * ona li suli ***ante*** sina. *(Ŝi estas pli alta ol vi. — She is taller than you.)*
+* sina jo ala e mi. *(Vi ne havas min. — You don't have me.)*
+  * → mi ***taso*** sina. *(Mi estas libera de vi. — I am free from you.)*
+    * mi pali lili. taso ni la mi wile lape. *(Mi apenaŭ laboris. Sendepende de tio, mi bezonas dormi. — I hardly worked. Independent from that I need to sleep.)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "taso ni la" li ken kama "taso".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "taso ni la" povas fariĝi "taso".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "taso ni la" can become "taso".
+
+* ***taso ni la*** mije en meli li pali li pilin pona. *(Sendepende de tio, viroj kaj virinoj laboras kaj estas gajaj. — Independent from that, men and women work and are happy.)*
+  * → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj. — But men and women work and are happy.)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi palisa](#nimi-palisa) "lon" li ken jo e kon pi [nimi palisa](#nimi-palisa) "ante".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La [prepozicio](#nimi-palisa) "lon" povas havi la signifon de la [prepozicio](#nimi-palisa) "ante".  
@@ -566,13 +577,6 @@
 
 * ona li suli ***lon*** sina. *(Ŝi estas pli alta ol vi. — She is taller than you.)*
   * → sina la ona li suli.
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "taso" li [nimi palisa](#nimi-palisa). nimi "taso ni la" li ken kama "taso".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "taso" estas [prepozicio](#nimi-palisa). "taso ni la" povas fariĝi "taso".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "taso" is a [preposition](#nimi-palisa). "taso ni la" can become "taso".
-
-* ***taso ni la*** mije en meli li pali li pilin pona. *(Sendepende de tio, viroj kaj virinoj laboras kaj estas gajaj. — Independent from that, men and women work and are happy.)*
-  * → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj. — But men and women work and are happy.)*
 
 ### nimi wawa pini musi
 *(Eksperimentaj Helpaj Verboj — Experimental Auxiliary Verbs)*
