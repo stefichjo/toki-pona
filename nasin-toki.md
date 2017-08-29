@@ -800,9 +800,9 @@
 * waso li tawa lon kon, ~~sama~~ ***mun*** ~~pi~~ mi mute. *(Birdo flugas kvazaŭ luno de ni. — A bird is flying like a moon of ours.)*
   * → waso li tawa lon kon, ***mun*** mi mute. *(Birdo flugas ĉirkaŭ ni. — A bird is flying around us.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi palisa](#nimi-palisa) li ken kama [nimi wawa palisa](#nimi-wawa-palisa).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Prepozicio](#nimi-palisa) povas fariĝi [transitiva verbo](#nimi-wawa-palisa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Prepositions](#nimi-palisa) can become [transitive verbs](#nimi-wawa-palisa).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi palisa](#nimi-palisa) "kepeken" li kama [nimi wawa](#nimi-wawa), la **jan Pije** li kepeken ona lon poka pi [nimi lili "e"](#nimi-lili-e).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam la [prepozicio](#nimi-palisa) "kepeken" fariĝas [verbo](#nimi-wawa), **Pije** uzas ĝin kun la [partikulo "e"](#nimi-lili-e).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When the [preposition](#nimi-palisa) "kepeken" becomes a [verb](#nimi-wawa), **Pije** uses it with the [particle "e"](#nimi-lili-e).
 
 * mi ***kepeken*** ilo. *(Mi uzas la instrumenton. — I use the instrument.)*
   * → mi ***kepeken e*** ilo.
@@ -821,14 +821,24 @@
 *(Strangaj Subfrazoj — Strange Subordinate Clauses)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi [mute nimi kama](#mute-nimi-kama) li ken kama weka. tan ni la **nimi wawa pini** li ken kama **nimi kama**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La komenco de subfrazo povas malaperi. Tial, helpaj verboj povas fariĝi modifiloj.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The beginning of a subordinate clause can disappear. Therefore, auxiliary verbs can become modifiers.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La komenco de [subfrazo](#mute-nimi-kama) povas malaperi. Tial, **helpaj verboj** povas fariĝi **modifiloj**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The beginning of a [subordinate clause](#mute-nimi-kama) can disappear. Therefore, **auxiliary verbs** can become **modifiers**.  
 
 * mi sona e jan ni: ona li kama sona e toki pona. *(Mi konas tiun personon, kiu lernas Tokiponon. — I know that person, who is studying Toki Pona.)*
 * mi sona e jan ***pi*** ~~ijo ni:~~ ona li kama sona e toki pona. *(Mi konas iun, kiu studas Tokiponon. — I know someone, who is studying Toki Pona.)*
   * → mi sona e jan ***pi*** ~~ona~~ li kama sona e toki pona. *(Mi konas iun studantan Tokiponon. — I know someone studying Toki Pona.)*
     * → mi sona e jan ***pi*** ~~li~~ kama sona e toki pona. *(Mi konas studanton de Tokipono. — I know a student of Toki Pona.)*
       * → mi sona e jan ***pi*** kama sona e toki pona.
+
+### sitelen nasa lon poka nimi
+*(Stranga Interpunkcio — Strange Punctuation)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **jan Pije** li weka e **sitelen nanpa** lon kama pi [nimi lili "la"](#nimi-lili-la).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** ellasas Antaŭ la [partikulo "la"](#nimi-lili-la) mankas **komo**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The **comma** is missing before the [particle "la"](#nimi-lili-la).
+
+* mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
+  * → mi pona tawa jan ***la*** jan li pona tawa mi.
 
 ### pini nimi nasa pi ijo mute
 *(Strangaj Multenombroj — Strange Plurals)*
@@ -1005,8 +1015,8 @@
 * **ike** ~~ikeja~~ ***[ilkea]*** *([SULI](#nimi-suli))* ***≠ pona*** - malbona, superflua — bad, superfluous
 * **ilo** *([IJO°](#nimi-ijo-musi))* - io utila — something useful
 * **insa** ***[insajt]*** *([IJO](#nimi-ijo))*
-  * *(KAMA)* - iternal — internal
-  * *(LAWA)* - io interna: centro — something internal: center
+  * *(KAMA)* - interna, centra — internal, central
+  * *(LAWA)* - io interna, io centra: mezo — something internal, something central: middle
     * *(lon ale ... pi)* - ĉie en — throghout
     * *(tan ale ... pi)* - de ĉie en, tra — throghout
 * **jaki** ***[jakki]*** *([SULI](#nimi-suli))* ***≠ pona*** - malpura, fia, senhonora — dirty, disgusting, dishonored
@@ -1317,10 +1327,10 @@
   * *(LAWA)* - fluganta vivaĵo: birdo — flying living being: bird
 * **wawa** ***[vahva]*** *([SULI](#nimi-suli))* ***≠ lili*** - forta — strong
 * **weka** ~~we~~ ***[wex]*** *([PALISA°](#nimi-palisa-musi))*
-  * *(KAMA PALISA)* - fore de — away from
-  * *(KAMA)* - fora, distanca — away, gone, distant
+  * *(KAMA PALISA)* - fore de, ekster — away from, outside
+  * *(KAMA)* - fora, distanca, ekstera — away, gone, distant, outside
   * *([IJO](#nimi-ijo))*
-    * *(LAWA)* - ie for — somewhere far away
+    * *(LAWA)* - ie for, ie ekstere — somewhere far away, somewhere outside
     * *(lon ...)* - for — away
   * *(lon poka pi suno ...)* - okcidente — in the west
   * *(... [PALI°](#nimi-pali))* - mal-...-ebla — un-...-able
