@@ -834,8 +834,8 @@
 *(Stranga Interpunkcio — Strange Punctuation)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **jan Pije** li weka e **sitelen nanpa** lon kama pi [nimi lili "la"](#nimi-lili-la).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** ellasas Antaŭ la [partikulo "la"](#nimi-lili-la) mankas **komo**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The **comma** is missing before the [particle "la"](#nimi-lili-la).
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** ellasas la komon antaŭ la [partikulo "la"](#nimi-lili-la).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** leaves out the **comma** before the [particle "la"](#nimi-lili-la).
 
 * mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
   * → mi pona tawa jan ***la*** jan li pona tawa mi.
