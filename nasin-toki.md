@@ -319,7 +319,7 @@
 * jan ~~lon~~ ***poka*** *(najbaro — neighbor)*
   * → jan ***poka***
 
-#### nimi pi jan anu ijo
+#### nimi pi ijo anu jan
 *(Pronomoj — Pronouns)*
 
 * ***mi*** *(mi, ni — I, we)*
@@ -689,9 +689,11 @@
 ### nimi lili "pi" nasa
 *(Stranga Genitivo — Strange Genitive)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi [nimi pi jan anu ijo](#nimi-pi-jan-anu-ijo) la [nimi lili "pi"](#nimi-lili-pi) li ken awen. nimi "ijo" lon kama pi [nimi lili "pi"](#nimi-lili-pi) li ken kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Antaŭ [pronomo](#nimi-pi-jan-anu-ijo), la [partikulo "pi"](#nimi-lili-pi) povas resti. "ijo" antaŭ genitiva frazero (t.e. antaŭ la [partikulo "pi"](#nimi-lili-pi)) povas malaperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Before a [pronoun](#nimi-pi-jan-anu-ijo), the [particle "pi"](#nimi-lili-pi) can remain. "ijo" in front of a genitive phrase (i.e. before the [particle "pi"](#nimi-lili-pi)) can disappear.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **jan Pije** li [nimi wawa](#nimi-wawa) e [nimi lili "pi"](#nimi-lili-pi) lon poka pi [nimi pi ijo anu jan](#nimi-pi-ijo-anu-jan).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** [verbigas](#nimi-wawa) la [partikulon "pi"](#nimi-lili-pi) kun [pronomo](#nimi-pi-ijo-anu-jan).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** turns the [particle "pi"](#nimi-lili-pi) with a [pronoun](#nimi-pi-ijo-anu-jan).
+
+Before a [pronoun](#nimi-pi-ijo-anu-jan), the [particle "pi"](#nimi-lili-pi) can remain. "ijo" in front of a genitive phrase (i.e. before the [particle "pi"](#nimi-lili-pi)) can disappear.
 
 * ni li ijo mi. *(Tio apartenas al mi. — This belongs to me.)*
   * ni li ~~ijo~~ ***pi mi***. *(Tio estas mia. — This is mine.)*
@@ -810,7 +812,7 @@
 ### nimi nasa pi jan anu ijo
 *(Strangaj Pronomoj — Strange Pronouns)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi pi jan anu ijo](#nimi-pi-jan-anu-seme) li kama weka lon kama pi [nimi palisa](#nimi-palisa) "sama".  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi pi ijo anu jan](#nimi-pi-jan-anu-seme) li kama weka lon kama pi [nimi palisa](#nimi-palisa) "sama".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Pronomo](#nimi-pi-jan-anu-seme) malaperas antaŭ la [prepozicio](#nimi-palisa) "sama".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [pronoun](#nimi-pi-jan-anu-seme) disappears in front of the [preposition](#nimi-palisa) "sama".
 
@@ -926,9 +928,9 @@
 
 * mi ***jas*** mutan tenpon. *(mi jo e tenpo mute.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi pi jan anu ijo](#nimi-pi-jan-anu-ijo) "mi", "sina", "ona" li jo e pini nimi "-i".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [pronomoj](#nimi-pi-jan-anu-ijo) "mi", "sina" kaj "ona" havas la finaĵon "-i".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [pronouns](#nimi-pi-jan-anu-ijo) "mi", "sina" and "ona" have the ending "-i".
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi pi ijo anu jan](#nimi-pi-ijo-anu-jan) "mi", "sina", "ona" li jo e pini nimi "-i".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [pronomoj](#nimi-pi-ijo-anu-jan) "mi", "sina" kaj "ona" havas la finaĵon "-i".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [pronouns](#nimi-pi-ijo-anu-jan) "mi", "sina" and "ona" have the ending "-i".
 
 * ***sini*** sinas. *(sina sin.)*
 
@@ -1121,7 +1123,7 @@
 * **meli** ***[meri]*** *([JAN](#nimi-jan))*
   * *(KAMA)* - ina — female
   * *(LAWA)* - ina animaĵo: virino, edzino — female animated being: woman, wife
-* **mi** ***[mi]*** *([JAN ANU IJO](#nimi-pi-jan-anu-ijo))* - mi, ni — I, we
+* **mi** ***[mi]*** *([JAN ANU IJO](#nimi-pi-ijo-anu-jan))* - mi, ni — I, we
 * **mije** ***[mies]*** *([JAN](#nimi-jan))*
   * *(KAMA)* - vira — male
   * *(LAWA)* - vira animaĵo: viro, edzo — male animated being: man, husband
@@ -1174,7 +1176,7 @@
 * **olin** ***[volim]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - ami — to love
   * *(LAWA)* - io por ami — something to love
-* **ona** ***[ona]*** *([JAN ANU IJO](#nimi-pi-jan-anu-ijo))* - ŝi, li, ĝi, ili — she, he, it, they
+* **ona** ***[ona]*** *([JAN ANU IJO](#nimi-pi-ijo-anu-jan))* - ŝi, li, ĝi, ili — she, he, it, they
 * **open** ***[open]*** *([SULI](#nimi-suli))* - malfermita — open
   * *(WAWA PALISA)* = **kama e**
   * *(... [PALI°](#nimi-pali))* - -... — -...
@@ -1254,7 +1256,7 @@
 * **sin** ***[ŝin]*** *([PALISA°](#nimi-palisa-musi))*
   * *(KAMA PALISA)* - aldona al, kun — additional to, with
   * *(KAMA)* - plia, aldona, nova, freŝa — another, additional, new, fresh
-* **sina** ***[sina]*** *([JAN ANU IJO](#nimi-pi-jan-anu-ijo))* - vi — you
+* **sina** ***[sina]*** *([JAN ANU IJO](#nimi-pi-ijo-anu-jan))* - vi — you
 * **sinpin** ~~sanpan~~ ***[ŝjanbjan]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - antaŭa — frontal
   * *(LAWA)* - io antaŭa: muro — something frontal: wall
