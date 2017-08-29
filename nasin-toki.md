@@ -423,7 +423,7 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La rekta objekto de "pana" povas fariĝi [transitiva verbo](#nimi-wawa-palisa).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The direct object of "pana" can become a [transitive verb](#nimi-wawa-palisa).
 
-* ona li ***telo*** e kasi. *(ŝi malsekigas la planton. — She gets the plant wet.)*
+* ona li ***telo*** e kasi. *(ŝi malsekigas la planton. — She makes the plant wet.)*
 * ona li pana e ***telo*** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
   * → ona li ***telo*** e kasi. *(Ŝi akvumas la planton. — She waters the plant.)*
 
@@ -453,7 +453,7 @@
     * → ona li ***sike e*** tomo sona.
 
 ### nimi nanpa namako
-*(Aldonaj Numeraloj — Strange Numerals)*
+*(Aldonaj Numeraloj — Additional Numerals)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi nanpa** tu la **sitelen nanpa** li ken kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Ĉe du **numeraloj**, la **komo** povas malaperi.  
@@ -1212,7 +1212,7 @@
   * *(LAWA)* - organo por enhavi: veziko, ujo, ingo — organ for containing: bladder, container
 * **pona** ***[bona]*** *([SULI](#nimi-suli))* - bona, amika, simpla — good, friendly, simple
   * *(... [PALI](#nimi-pali))* - -inda — worth -ing
-* **pu** ***[buk]*** *([PALISA](#nimi-palisa))*
+* **pu** ***[buk]*** *([PALISA°](#nimi-palisa-musi))*
   * *(KAMA PALISA)* - en harmonio kun — in harmony with
   * *(KAMA)* - harmonia, konsultanta la Oficialan Libron de Tokipono — harmonious, interacting with the Official Toki Pona Book
 * **sama** ***[sama]*** *([PALISA](#nimi-palisa))*
