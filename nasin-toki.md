@@ -728,7 +728,7 @@
 #### nimi lili "la"
 *(Stranga Kunteksta Frazero — Strange Contextual Fragment)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ala la **jan Pije** li nimi nanpa wan e [nimi palisa](#nimi-palisa) lon kama pi [nimi lili "la"](#nimi-lili-la).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ala la **jan Pije** li nimi nanpa wan e [nimi palisa](#nimi-palisa) lon kama pi [nimi lili "la"](#nimi-lili-la).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** neniam uzas [prepozicion](#nimi-palisa) kiel la unuan vorton en **kunteksta frazero** (t.e. la vortoj antaŭ la [partikulo "la"](#nimi-lili-la)).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** never uses [prepositions](#nimi-palisa) as the first word in a **contextual fragment** (i.e. the words before the [particle "la"](#nimi-lili)).
 
