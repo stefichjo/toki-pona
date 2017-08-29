@@ -691,7 +691,7 @@
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **jan Pije** li [nimi wawa](#nimi-wawa) e [nimi lili "pi"](#nimi-lili-pi) lon poka pi [nimi pi ijo anu jan](#nimi-pi-ijo-anu-jan).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** [verbigas](#nimi-wawa) la [partikulon "pi"](#nimi-lili-pi) kun [pronomo](#nimi-pi-ijo-anu-jan).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** turns the [particle "pi"](#nimi-lili-pi) with a [pronoun](#nimi-pi-ijo-anu-jan).
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** turns the [particle "pi"](#nimi-lili-pi) with a [pronoun](#nimi-pi-ijo-anu-jan) into a [verb](#nimi-wawa).
 
 Before a [pronoun](#nimi-pi-ijo-anu-jan), the [particle "pi"](#nimi-lili-pi) can remain. "ijo" in front of a genitive phrase (i.e. before the [particle "pi"](#nimi-lili-pi)) can disappear.
 
