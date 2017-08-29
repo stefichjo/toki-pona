@@ -770,8 +770,8 @@
 * ***~~tawa~~*** mi ***la*** sina jan pona. *(Laŭ mi, vi estas bona persono. — From my point of view, you are a good person.)*
   * → mi ***la*** sina jan pona.
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi nanpa wan pi nimi lon kama pi [nimi lili "la"](#nimi-lili-la) li ken ala [nimi palisa](#nimi-palisa).
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La unua vorto de kunteksta frazero (t.e. la vortoj antaŭ la [partikulo "la"](#nimi-lili-la) ne povas esti [prepozicio](#nimi-palisa).)
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi nanpa wan pi nimi lon kama pi [nimi lili "la"](#nimi-lili-la) li ken ala [nimi palisa](#nimi-palisa).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La unua vorto de kunteksta frazero (t.e. la vortoj antaŭ la [partikulo "la"](#nimi-lili-la) ne povas esti [prepozicio](#nimi-palisa).)  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The first word of a context phrase (i.e. the words before the [particle "la"](#nimi-lili-la) can't be a [preposition](#nimi-palisa).)
 
 * sina pu ***tan*** jan pona. *(Vi legas la Libron pro amiko. — You read the Book because of a friend.)*
