@@ -162,7 +162,7 @@
   * → ni li tomo ***pi*** telo nasa. jan pona li ***jo*** e tomo ni.
 
 #### nimi lili "la"
-*(Kunteksto — Context)*
+*(Kunteksta Frazero — Contextual Fragment)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kepeken **nimi lili** "la" la **nimi palisa** li ken kama lon kama pi **mute nimi**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Per la **partikulo** "la", **prepozicio** povas aperi ĉe la komenco de **frazo**.  
@@ -727,12 +727,23 @@ Before a [pronoun](#nimi-pi-ijo-anu-jan), the [particle "pi"](#nimi-lili-pi) can
 * mi pana e ni: pan li suwi ala. *(Mi igas la panon ne-dolĉa. — I make the bread non-sweet.)*
   * → mi suwi ala e pan. 
 
+#### nimi lili "la"
+*(Stranga Kunteksta Frazero — Strange Contextual Fragment)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ala la **jan Pije** li nimi nanpa wan e [nimi palisa](#nimi-palisa) lon kama pi [nimi lili "la"](#nimi-lili-la).
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** neniam uzas [prepozicion](#nimi-palisa) kiel la unuan vorton en **kunteksta frazero** (t.e. la vortoj antaŭ la [partikulo "la"](#nimi-lili-la)).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** never uses [prepositions](#nimi-palisa) as the first word in a **contextual fragment** (i.e. the words before the [particle "la"](#nimi-lili)).
+
+* sina pu ***tan*** jan pona. *(Vi legas la Libron pro amiko. — You read the Book because of a friend.)*
+  * → sina pu ***lon tan pi*** jan pona.
+    * → ***tan pi*** jan pona la sina pu.
+
 ### nimi lili nasa "en", "anu"
 *(Strangaj Konjunkcioj — Strange Conjunctions)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> ***sitelen nanpa*** li ken kama [nimi lili](#nimi-lili-en-anu) nasa ["en"](#nimi-lili-en-anu).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> ***Komo*** povas fariĝi stranga [konjunkcio "en"](#nimi-lili-en-anu).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A ***comma*** can become a strange [conjunction "en"](#nimi-lili-en-anu).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **sitelen nanpa** li ken kama [nimi lili](#nimi-lili-en-anu) nasa ["en"](#nimi-lili-en-anu).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Komo** povas fariĝi stranga [konjunkcio "en"](#nimi-lili-en-anu).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A **comma** can become a strange [conjunction "en"](#nimi-lili-en-anu).
 
 * tomo pi telo nasa, pi jan pona. *(trinkejo de amiko — a friend's bar)*
   * → tomo pi telo nasa ***en*** pi jan pona.
@@ -770,14 +781,6 @@ Before a [pronoun](#nimi-pi-ijo-anu-jan), the [particle "pi"](#nimi-lili-pi) can
 
 * ***~~tawa~~*** mi ***la*** sina jan pona. *(Laŭ mi, vi estas bona persono. — From my point of view, you are a good person.)*
   * → mi ***la*** sina jan pona.
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi nanpa wan pi nimi lon kama pi [nimi lili "la"](#nimi-lili-la) li ken ala [nimi palisa](#nimi-palisa).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La unua vorto de kunteksta frazero (t.e. la vortoj antaŭ la [partikulo "la"](#nimi-lili-la) ne povas esti [prepozicio](#nimi-palisa).)  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The first word of a context phrase (i.e. the words before the [particle "la"](#nimi-lili-la) can't be a [preposition](#nimi-palisa).)
-
-* sina pu ***tan*** jan pona. *(Vi legas la Libron pro amiko. — You read the Book because of a friend.)*
-  * → sina pu ***lon tan pi*** jan pona.
-    * → ***tan pi*** jan pona la sina pu.
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi palisa](#nimi-palisa) "tawa" li ken kama **nimi lili** "pi".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La [prepozicio](#nimi-palisa) "tawa" povas fariĝi la **partikulo** "pi".  
