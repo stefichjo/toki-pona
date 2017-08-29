@@ -62,9 +62,9 @@
 * ***sina*** ~~li~~ sin. *(Vi estas nova. — You are new.)*
   * → ***sina*** sin.
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **mute nimi** li ken jo e **nimi lili** "li" mute. sitelen nanpa ona li ken kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Frazo** povas havi plurajn predikatojn (t.e. la vortoj malantaŭ la **partikulo** "li"). Iliaj komoj povas malaperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A **sentence** can have multiple predicates (i.e. the words after the **particle** "li"). Their commas can disappear.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **mute nimi** li ken jo e **nimi lili** "li" mute. ***sitelen nanpa*** ona li ken kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Frazo** povas havi plurajn predikatojn (t.e. la vortoj malantaŭ la **partikulo** "li"). Iliaj ***komoj*** povas malaperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A **sentence** can have multiple predicates (i.e. the words after the **particle** "li"). Their ***commas*** can disappear.
 
 * ma mama ***li*** lili, ***li*** lete. *(La patrujo estas malgranda kaj malvarma. — The motherland is small and cold.)*
   * → ma mama ***li*** lili ***li*** lete.
@@ -88,9 +88,9 @@
 * mije li sona ***e ijo***. *(La viro scias aferojn. — The man knows things.)*
   * → mije li sona. *(La viro scias. — The man knows.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi **nimi lili** "li" li ken jo e **nimi lili** "e" mute. sitelen nanpa ona li ken kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Predikato (t.e. la vortoj malantaŭ la **partikulo** "li") povas havi plurajn rektajn objektojn (t.e. la vortoij malantaŭ la **partikulo** "e"). Iliaj komoj povas malaperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A predicate (i.e. the words after the **particle** "li") can have multiple direct objects (i.e. the words after the **particle** "e"). Their commas can disappear.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi **nimi lili** "li" li ken jo e **nimi lili** "e" mute. ***sitelen nanpa*** ona li ken kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Predikato (t.e. la vortoj malantaŭ la **partikulo** "li") povas havi plurajn rektajn objektojn (t.e. la vortoij malantaŭ la **partikulo** "e"). Iliaj ***komoj*** povas malaperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A predicate (i.e. the words after the **particle** "li") can have multiple direct objects (i.e. the words after the **particle** "e"). Their ***commas*** can disappear.
 
 * ona li seli ***e*** soweli, ***e*** pan. *(Ŝi kuiras la viandon kaj la rizon. — She cooks the meat and the rice.)*
   * → ona li seli ***e*** soweli ***e*** pan.
@@ -309,8 +309,8 @@
 * mi pana ***e*** kili ***tawa*** sina. *(Mi donas la pomon al vi. — I'm giving you the apple.)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **jan Sonja** li kepeken **nimi palisa** lon pini taso pi **mute nimi**. ni la **sitelen nanpa** lon **nimi palisa** li ken kama weka. pini pi **nimi suli** la **nimi palisa** "lon" li kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** uzas **prepoziciojn** nur fine de **frazo**. Tiam, komo ĉe **prepozicio** povas malaperi. Post **radika vorto**, la **prepozicio** "lon" malaperas.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** uses **prepositions** only at the end of a **sentence**. In this case, a comma next to a **preposition** can disappear. After a **content word**, the **preposition** "lon" disappears.
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** uzas **prepoziciojn** nur fine de **frazo**. Tiam, ***komo*** ĉe **prepozicio** povas malaperi. Post **radika vorto**, la **prepozicio** "lon" malaperas.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** uses **prepositions** only at the end of a **sentence**. In this case, a ***comma*** next to a **preposition** can disappear. After a **content word**, the **preposition** "lon" disappears.
 
 * jan pona ***sama sina*** li lon ma tomo mi. *(Amiko kiel vi estas en mia urbo.)*
   * → jan pona li lon ma tomo mi. ona li ***sama sina***.
@@ -408,8 +408,8 @@
 *(Subfrazoj — Subordinate Clauses)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **jan Sonja** li kepeken **mute nimi kama** lon pini taso pi **mute nimi**. ni la **sitelen nanpa** li kama **sitelen palisa**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Sonja uzas subfrazojn nur frazofine. Tiam, komo fariĝas dupunkto.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Sonja uses subordinate clauses only at the end of a sentence. In this case, the comma becomes a colon.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> ***Sonja*** uzas ***subfrazojn*** nur fine de ***frazo***. Tiam, ***komo*** fariĝas ***dupunkto***.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> ***Sonja*** uses ***subordinate clauses*** only at the end of a ***sentence***. In this case, the ***comma*** becomes a ***colon***.  
 
 * mi sona e ni: ***mi anpa***. *(Mi scias, ke mi estas malalta. — I know that I am low.)*
 
@@ -658,28 +658,28 @@
 
 * jan li pona tawa mi lon ni: mi pona tawa jan. *(Homoj estas bonaj por mi, se mi estas bona por homoj. — People are good to me, if I am good to people.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> sama ni la insa pi mute nimi la sitelen tu pi ijo kama anu sitelen "," ("pi ijo awen") li ken kama.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Ankaŭ ene de frazo, dupunktoj aŭ komoj povas aperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Also inside a sentence, colons or commas can appear.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> sama ni la insa pi ***mute nimi*** la ***sitelen palisa*** anu ***sitelen nanpa*** li ken kama.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Ankaŭ ene de ***frazo***, ***dupunktoj*** aŭ ***komoj*** povas aperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Also inside a ***sentence***, ***colons*** or ***commas*** can appear.
 
 * tan ni: mi pona tawa jan :la jan li pona tawa mi. *(Ĉar mi estas bona por homoj, homoj estas bonaj por mi. — Because I am good to people, people are good to me.)*
   * → tan ni, mi pona tawa jan, la jan li pona tawa mi.
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi [nimi wawa pini](#nimi-wawa-pini) la sitelen "+" ("pi ijo sin") li ken kama.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Post [helpa verbo](#nimi-wawa-pini) povas aperi plus-signo.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After an [auxiliary verb](#nimi-wawa-pini) a plus-sign can appear.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi [nimi wawa pini](#nimi-wawa-pini) la ***sitelen pi ijo sin*** li ken kama.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Post [helpa verbo](#nimi-wawa-pini) povas aperi ***plus-signo***.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After an [auxiliary verb](#nimi-wawa-pini) a ***plus sign*** can appear.
 
 * mi wile+lape. *(Mi bezonas dormi. — I need to sleep.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "pi"](#nimi-lili-pi) weka li ken jo e sitelen "-" ("pi ijo weka").  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Modifilo (t.e. la vortoj malantaŭ la [partikulo "pi"](#nimi-lili-pi)) povas havi minus-signon.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A modifier (i.e. the words after the [particle "pi"](#nimi-lili-pi)) can have a minus sign.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "pi"](#nimi-lili-pi) weka li ken jo e ***sitelen pi ijo weka***.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Modifilo (t.e. la vortoj malantaŭ la [partikulo "pi"](#nimi-lili-pi)) povas havi ***minus-signon***.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A modifier (i.e. the words after the [particle "pi"](#nimi-lili-pi)) can have a ***minus sign***.
 
 * tomo-tawa-sina *(via aŭto — your car)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi mute nimi la [nimi palisa](#nimi-palisa) li ken jo e sitelen "/" ("pi wan mute").  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Fine de frazo, [prepozicio](#nimi-palisa) povas havi ono-signon.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the end of a sentence, a [preposition](#nimi-palisa) can have a division sign.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi mute nimi la [nimi palisa](#nimi-palisa) li ken jo e ***sitelen pi wan mute***.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Fine de frazo, [prepozicio](#nimi-palisa) povas havi ***ono-signon***.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the end of a sentence, a [preposition](#nimi-palisa) can have a ***division sign***.
 
 * mi pana e lipu / tawa sina. *(Mi donas la libron al vi. — I am giving the book to you.)*
 
@@ -729,9 +729,9 @@
 ### nimi lili nasa "en", "anu"
 *(Strangaj Konjunkcioj — Strange Conjunctions)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> sitelen nanpa li ken kama [nimi lili](#nimi-lili-en-anu) nasa ["en"](#nimi-lili-en-anu).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Komo povas fariĝi stranga [konjunkcio "en"](#nimi-lili-en-anu).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A comma can become a strange [conjunction "en"](#nimi-lili-en-anu).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> ***sitelen nanpa*** li ken kama [nimi lili](#nimi-lili-en-anu) nasa ["en"](#nimi-lili-en-anu).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> ***Komo*** povas fariĝi stranga [konjunkcio "en"](#nimi-lili-en-anu).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A ***comma*** can become a strange [conjunction "en"](#nimi-lili-en-anu).
 
 * tomo pi telo nasa, pi jan pona. *(trinkejo de amiko — a friend's bar)*
   * → tomo pi telo nasa ***en*** pi jan pona.
@@ -770,6 +770,14 @@
 * ***~~tawa~~*** mi ***la*** sina jan pona. *(Laŭ mi, vi estas bona persono. — From my point of view, you are a good person.)*
   * → mi ***la*** sina jan pona.
 
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi nanpa wan pi nimi lon kama pi [nimi lili "la"](#nimi-lili-la) li ken ala [nimi palisa](#nimi-palisa).
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La unua vorto de kunteksta frazero (t.e. la vortoj antaŭ la [partikulo "la"](#nimi-lili-la) ne povas esti [prepozicio](#nimi-palisa).)
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The first word of a context phrase (i.e. the words before the [particle "la"](#nimi-lili-la) can't be a [preposition](#nimi-palisa).)
+
+* sina pu ***tan*** jan pona. *(Vi legas la Libron pro amiko. — You read the Book because of a friend.)*
+  * → sina pu ***lon tan pi*** jan pona.
+    * → ***tan pi*** jan pona la sina pu.
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi palisa](#nimi-palisa) "tawa" li ken kama **nimi lili** "pi".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La [prepozicio](#nimi-palisa) "tawa" povas fariĝi la **partikulo** "pi".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [preposition](#nimi-palisa) "tawa" can become the **particle** "pi".
@@ -790,7 +798,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> "sama ... (pi)" can become a preposition.
 
 * waso li tawa lon kon, ~~sama~~ ***mun*** ~~pi~~ mi mute. *(Birdo flugas kvazaŭ luno de ni. — A bird is flying like a moon of ours.)*
-  * → waso li tawa lon kon, **mun** mi mute. *(Birdo flugas ĉirkaŭ ni. — A bird is flying around us.)*
+  * → waso li tawa lon kon, ***mun*** mi mute. *(Birdo flugas ĉirkaŭ ni. — A bird is flying around us.)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi palisa](#nimi-palisa) li ken kama [nimi wawa palisa](#nimi-wawa-palisa).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Prepozicio](#nimi-palisa) povas fariĝi [transitiva verbo](#nimi-wawa-palisa).  
@@ -918,7 +926,8 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Substantivo** malantaŭ [citaĵo](#nimi-tan) povas malaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A **noun** after a [quotation](#nimi-tan) can disappear.
 
-* la Sonja-jano → Sonjo *(jan Sonja)*
+* la ***Sonja***-jano *(jan Sonja)*
+  * → ***Sonja***
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi nanpa](#nimi-nanpa) li jo e pini nimi "-u".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Numeraloj](#nimi-nanpa) havas la finaĵon "-u".  
