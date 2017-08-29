@@ -696,8 +696,7 @@
 Before a [pronoun](#nimi-pi-ijo-anu-jan), the [particle "pi"](#nimi-lili-pi) can remain. "ijo" in front of a genitive phrase (i.e. before the [particle "pi"](#nimi-lili-pi)) can disappear.
 
 * ni li ijo mi. *(Tio apartenas al mi. — This belongs to me.)*
-  * ni li ~~ijo~~ ***pi mi***. *(Tio estas mia. — This is mine.)*
-    * → ni li ***pi mi***.
+  * → ni li ***pi mi***. *(Tio estas mia. — This is mine.)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi [nimi lili "li"](#nimi-lili-li) la [nimi lili "pi"](#nimi-lili-pi) li ken kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> En subjekto (t.e. antaŭ la [partikulo "li"](#nimi-lili-li)), la [partikulo "pi"](#nimi-lili-pi) povas malaperi.  
