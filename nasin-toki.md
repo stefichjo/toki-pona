@@ -809,7 +809,7 @@
 * mi ***kepeken*** ilo. *(Mi uzas la instrumenton. — I use the instrument.)*
   * → mi ***kepeken e*** ilo.
 
-### nimi nasa pi jan anu ijo
+### nimi nasa pi ijo anu jan
 *(Strangaj Pronomoj — Strange Pronouns)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi pi ijo anu jan](#nimi-pi-jan-anu-seme) li kama weka lon kama pi [nimi palisa](#nimi-palisa) "sama".  
@@ -1019,7 +1019,7 @@
     * *(KAMA)* - anstataŭa — substitute
   * *(LAWA)* - anstataŭanta vivaĵo: metabolo, vendejo, merkato — substituting living being: metabolism, shop, market
     * *([NANPA°](#nimi-nanpa-musi))* sep - seven
-* **ijo** ***[io]*** *(PALISA)* - io — something
+* **ijo** ***[io]*** *(LAWA)* - io — something
   * *(e ... pi)* - pri — about
 * **ike** ~~ikeja~~ ***[ilkea]*** *([SULI](#nimi-suli))* ***≠ pona*** - malbona, superflua — bad, superfluous
 * **ilo** *([IJO°](#nimi-ijo-musi))* - io utila — something useful
@@ -1029,7 +1029,7 @@
     * *(lon ale ... pi)* - ĉie en — throghout
     * *(tan ale ... pi)* - de ĉie en, tra — throghout
 * **jaki** ***[jakki]*** *([SULI](#nimi-suli))* ***≠ pona*** - malpura, fia, senhonora — dirty, disgusting, dishonored
-* **jan** ~~jen~~ ***[jen]*** *(PALISA)* - iu — someone
+* **jan** ~~jen~~ ***[jen]*** *(LAWA)* - iu — someone
 * **jelo** ***[jellow]*** *([SULI](#nimi-suli))* = "***kule suno***" - flava — yellow
 * **jo** ***[jow]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - havi — to have
@@ -1130,7 +1130,7 @@
 * **meli** ***[meri]*** *([JAN](#nimi-jan))*
   * *(KAMA)* - ina — female
   * *(LAWA)* - ina animaĵo: virino, edzino — female animated being: woman, wife
-* **mi** ***[mi]*** *([JAN ANU IJO](#nimi-pi-ijo-anu-jan))* - mi, ni — I, we
+* **mi** ***[mi]*** *([IJO ANU JAN](#nimi-pi-ijo-anu-jan))* - mi, ni — I, we
 * **mije** ***[mies]*** *([JAN](#nimi-jan))*
   * *(KAMA)* - vira — male
   * *(LAWA)* - vira animaĵo: viro, edzo — male animated being: man, husband
@@ -1183,7 +1183,7 @@
 * **olin** ***[volim]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - ami — to love
   * *(LAWA)* - io por ami — something to love
-* **ona** ***[ona]*** *([JAN ANU IJO](#nimi-pi-ijo-anu-jan))* - ŝi, li, ĝi, ili — she, he, it, they
+* **ona** ***[ona]*** *([IJO ANU JAN](#nimi-pi-ijo-anu-jan))* - ŝi, li, ĝi, ili — she, he, it, they
 * **open** ***[open]*** *([SULI](#nimi-suli))* - malfermita — open
   * *(WAWA PALISA)* = **kama e**
   * *(... [PALI°](#nimi-pali))* - -... — -...
@@ -1263,7 +1263,7 @@
 * **sin** ***[ŝin]*** *([PALISA°](#nimi-palisa-musi))*
   * *(KAMA PALISA)* - aldona al, kun — additional to, with
   * *(KAMA)* - plia, aldona, nova, freŝa — another, additional, new, fresh
-* **sina** ***[sina]*** *([JAN ANU IJO](#nimi-pi-ijo-anu-jan))* - vi — you
+* **sina** ***[sina]*** *([IJO ANU JAN](#nimi-pi-ijo-anu-jan))* - vi — you
 * **sinpin** ~~sanpan~~ ***[ŝjanbjan]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - antaŭa — frontal
   * *(LAWA)* - io antaŭa: muro — something frontal: wall
