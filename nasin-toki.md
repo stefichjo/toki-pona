@@ -841,6 +841,13 @@ Before a [pronoun](#nimi-pi-ijo-anu-jan), the [particle "pi"](#nimi-lili-pi) can
 * mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
   * → mi pona tawa jan ***la*** jan li pona tawa mi.
 
+<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ale la **jan Pije** li kepeken **sitelen nanpa** lon kama pi nimi "taso".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** neniam uzas **komon** antaŭ "taso".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** never uses a **comma** before "taso".
+
+* mi wile lukin e tomo mi, ***taso*** mi jo ala e tenpo. *(Mi volas vidi mian domon, sed mi ne havas tempon. — I want to see my house, but I don't have time.)*
+  * → mi wile lukin e tomo mi. ***taso*** mi jo ala e tenpo. *(Mi volas vidi mian domon. Sed mi ne havas tempon. — I want to see my house. But I don't have time.)*
+
 ### pini nimi nasa pi ijo mute
 *(Strangaj Multenombroj — Strange Plurals)*
 
