@@ -826,7 +826,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 
 * sina ~~tawa~~ **lukin** sama waso. *(Vi aspektas kiel birdo. — You look like a bird.)*
   * → sina **lukin** sama waso.
-* sina unpa ~~tawa~~ **lukin**. *(Vi aspektas seksuma. → Vi estas seksalloga. — You look sexy. → You're sexy.)*
+* sina unpa ~~tawa~~ **lukin**. *(Vi aspektas seksuma. → Vi estas seksalloga. — You look sexy. → You are sexy.)*
 
 ### nimi nasa pi ijo anu jan
 *(Strangaj Pronomoj — Strange Pronouns)*
