@@ -1,14 +1,14 @@
 # nasin toki pi toki pona
 *(Gramatiko de Tokipono — Grammar of Toki Pona)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> wan lipu "[toki lili](#toki-lili)" li toki e nasin toki pi jan ale pi toki pona e nasin pona pi **jan Sonja**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> wan lipu "[toki lili](#toki-lili)" li toki e nasin toki pi jan ale pi toki pona e nasin pona pi jan **Sonja**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La sekcio "[Kerna Lingvaĵo](#toki-lili)" traktas la lingvouzon de ĉiuj tokiponistoj kaj la "ponan" stilon de **Sonja**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The section "[Core Language](#toki-lili)" treats the way every Toki Pona speaker uses the language and **Sonja**'s "pona" style.
 
 * ***sina*** ~~li~~ sin. *(Vi estas nova. — You are new.)*
   * → ***sina*** sin.
   
-<img src="musi/sitelen/len-ma/tp.png" height="18"> wan lipu "[toki namako](#toki-namako)" li toki e nasin toki sin pi **jan Sonja** lon lipu suli pi toki pona.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> wan lipu "[toki namako](#toki-namako)" li toki e nasin toki sin pi jan **Sonja** lon lipu suli pi toki pona.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La sekcio "[Aldona Lingvaĵo](#toki-namako)" traktas la aldonan lingvouzon de **Sonja** en la Oficiala Libro de Tokipono.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The section "[Additional Language](#toki-namako)" treats **Sonja**'s additional way of using the language in the Official Toki Pona Book.
 
@@ -126,7 +126,7 @@
 * jan pona ***o*** kute. *(Amiko aŭskultu. — A friend should listen.)*
   * → jan pona ***o***! *(Ho amiko! — Hey friend!)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **jan Sonja** li kepeken ala **nimi lili** "o" tu.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken ala **nimi lili** "o" tu.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** ne kombinas du **partikulojn** "o".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** doesn't combine two "o"-**particles**.
 
@@ -152,7 +152,7 @@
 * mi ***pilin e*** pona mute. *(Mi sentas multan bonon. — I feel much good.)*
   * → mi ***pilin pi*** pona mute. *(Mi fartas tre bone. — I feel very good.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **jan Sonja** li kepeken ala **nimi lili "pi"** lon poka pi **nimi lili "pi"** ante.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken ala **nimi lili "pi"** lon poka pi **nimi lili "pi"** ante.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** ne uzas genitivan frazeron (t.e. vortoj malantaŭ **partikulo** "pi") kombine kun alia genitiva frazero.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** doesn't use genitive phrases (i.e. words after a **particle** "pi") combined with other genitive phrases.
 
@@ -220,11 +220,11 @@
 * toki pi nimi "***Epelanto***" *(Esperanto — Esperanto)*
   * → toki ***Epelanto***
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "nanpa" lon poka pi **nimi nanpa** li ken kama nimi.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "nanpa" kun **numeralo** povas fariĝi nomo.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "nanpa" together with a **numeral** can become a name.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li weka e [nimi lili "pi"](#nimi-lili-pi) lon kama pi nimi "nanpa" lon poka pi **nimi nanpa**. jan **Pije** li weka ala e [nimi lili "pi"](#nimi-lili-pi) ni.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** forigas la [partikulon "pi"](#nimi-lili-pi) antaŭ "nanpa" kun **numeralo**. **Pije** ne forigas tian [partikulon "pi"](#nimi-lili-pi).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** removes the [particle "pi"](#nimi-lili-pi) before "nanpa" with a **numeral**. **Pije** doesn't remove such a [particle "pi"](#nimi-lili-pi).
 
-* lipu ***pi nanpa tu*** *(la karto kun la numero du — the card with the number two)*
+* lipu ***pi nanpa tu*** *(la karto kun la numero du, la dua karto — the card with the number two, the second card)*
   * → lipu ***nanpa tu*** *(la karto numero du, la dua karto — the card number two, the second card)*
 
 #### nimi kalama
@@ -270,7 +270,7 @@
 * mi ***pona*** e mi. *(Mi bonigas min. — I improve myself.)*
 * jan ***pona*** *(amiko — friend)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> sin la **nimi palisa** li **nimi suli** a. ona li **nimi kama palisa** pi **nimi lawa** anu **mute nimi**. **jan Sonja** li kepeken **nimi palisa** lon pini pi **mute nimi** taso.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> sin la **nimi palisa** li **nimi suli** a. ona li **nimi kama palisa** pi **nimi lawa** anu **mute nimi**. jan **Sonja** li kepeken **nimi palisa** lon pini pi **mute nimi** taso.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Aldone, **prepozicioj** ankaŭ estas **radikaj vortoj**.  Ili estas **transitiva modifilo** de **substantivo** aŭ de **frazo**. **Sonja** uzas **prepoziciojn** nur fine de **frazoj**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> In addition, prepositions are content words, too. They are **transitive modifiers** of **nouns** or of **sentences**. **Sonja** uses **prepositions** only at the end of **sentences**.
 
@@ -308,9 +308,9 @@
 
 * mi pana ***e*** kili ***tawa*** sina. *(Mi donas la pomon al vi. — I'm giving you the apple.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **jan Sonja** li kepeken **nimi palisa** lon pini taso pi **mute nimi**. ni la **sitelen nanpa** lon **nimi palisa** li ken kama weka. pini pi **nimi suli** la **nimi palisa** "lon" li kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** uzas **prepoziciojn** nur fine de **frazo**. Tiam, ***komo*** ĉe **prepozicio** povas malaperi. Post **radika vorto**, la **prepozicio** "lon" malaperas.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** uses **prepositions** only at the end of a **sentence**. In this case, a ***comma*** next to a **preposition** can disappear. After a **content word**, the **preposition** "lon" disappears.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **nimi palisa** lon pini taso pi **mute nimi**. tan ni la jan **Sonja** li weka e **sitelen nanpa** lon **nimi palisa** tu.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** uzas **prepoziciojn** nur fine de **frazo**. Tial **Sonja** ellasas la **komon** ĉe du **prepozicioj**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** uses **prepositions** only at the end of a **sentence**. Because of that, **Sonja** removes the **comma** between two **prepositions**.
 
 * jan pona ***sama sina*** li lon ma tomo mi. *(Amiko kiel vi estas en mia urbo.)*
   * → jan pona li lon ma tomo mi. ona li ***sama sina***.
@@ -318,6 +318,17 @@
   * → mi tawa ***kepeken*** tomo tawa ***tan*** tomo sona ***tawa*** tomo sina.
 * jan ~~lon~~ ***poka*** *(najbaro — neighbor)*
   * → jan ***poka***
+* pona ~~tawa~~ **moku** *(bona por manĝado → bongusta — good for eating → delicious)*
+  * → pona **moku**
+
+...
+
+* pona ~~tawa~~ **lukin** *(bona laŭ la okulo → bela — good according to the eye → beautiful)*
+  * → pona **lukin**
+* weka ~~tawa~~ ***lukin*** *(for laŭ la okuloj → malvidebla — away according to the eye → invisible)*
+  * → weka ***lukin***
+* open ~~tawa~~ ***lukin*** *(malfermita laŭ la okuloj → transparenta — open according to the eye → transparent)*
+  * → open ***lukin***
 
 #### nimi pi ijo anu jan
 *(Pronomoj — Pronouns)*
@@ -368,7 +379,7 @@
 * toki pi ~~ijo~~ ni *(la loka lingvo, la lingvo de tiu loko, la tiea lingvo — the local language, the language of that place, the language there)*
   * → toki ni
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi [nimi lawa](#nimi-lawa) la **jan Sonja** li weka e [nimi palisa](#nimi-palisa) "sama" a.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi [nimi lawa](#nimi-lawa) la jan **Sonja** li weka e [nimi palisa](#nimi-palisa) "sama" a.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ [substantivo](#nimi-lawa), **Sonja** malaperigas ankaŭ la [prepozicion](#nimi-palisa) "sama".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> After a [noun](#nimi-lawa), **Sonja** makes also the [preposition](#nimi-palisa) "sama" disappear.
 
@@ -382,12 +393,6 @@
 * ***moku*** *(manĝi — to eat)*
   * ~~ijo~~ ***moku*** *(manĝo — food)*
     * → ***moku***
-
-...
-
-* pona ***lukin*** *(bona vidi, bona kiam vidata → bela — good to look at, good when looked at → beautiful)*
-* weka ***lukin*** *(fora kiam vidata → malvidebla — away when looked at → invisible)*
-* open ***lukin*** *(malfermita kiam vidata → transparenta — open when looked at → transparent)*
 
 #### nimi ilo
 *(Ilaj Vortoj — Tool Words)*
@@ -407,7 +412,7 @@
 #### mute nimi kama
 *(Subfrazoj — Subordinate Clauses)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **jan Sonja** li kepeken **mute nimi kama** lon pini taso pi **mute nimi**. ni la **sitelen nanpa** li kama **sitelen palisa**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **mute nimi kama** lon pini taso pi **mute nimi**. ni la **sitelen nanpa** li kama **sitelen palisa**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> ***Sonja*** uzas ***subfrazojn*** nur fine de ***frazo***. Tiam, ***komo*** fariĝas ***dupunkto***.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> ***Sonja*** uses ***subordinate clauses*** only at the end of a ***sentence***. In this case, the ***comma*** becomes a ***colon***.  
 
@@ -467,6 +472,16 @@
 
 ## toki musi
 *(Eksperimenta Lingvaĵo — Experimental Language)*
+
+### nimi lili "li" musi
+*(Eksperimentaj Subjekto kaj Predikato — Experimental Subject and Predicate)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> lon pini pi nimi "mi" anu nimi "sina" la [nimi lili "li"](#nimi-lili-li) li kama weka ala lon ni: [nimi lili "li"](#nimi-lili-li) nanpa tu li lon.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ "mi" aŭ "sina" la [partikulo "li"](#nimi-lili-li) ne malaperas, se estas dua [partikulo "li"](#nimi-lili-li).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After "mi" or "sina" the [particle "li"](#nimi-lili-li) doesn't disappear, if there is a second [particle "li"](#nimi-lili-li).
+
+* mi lukin mute. mi sona lili. *(Mi vidas multe kaj scias malmulte. — I am seeing much and knowing little.)*
+  * → mi ***li*** lukin mute ***li*** sona lili.
 
 ### nimi kalama musi
 *(Eksperimentaj Interjekcioj — Experimental Interjections)*
@@ -686,49 +701,45 @@
 ## toki nasa
 *(Stranga Lingvaĵo — Strange Language)*
 
+### nimi lili "li" nasa
+*(Strangaj Subjekto kaj Predikato — Strange Subject and Predicate)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li weka e [nimi lili "li"](#nimi-lili-li) nanpa wan taso lon pini pi nimi "mi" anu nimi "sina".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** forigas nur la unuan [partikulon "li"](#nimi-lili-li) post "mi" aŭ "sina".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** removes only the first [particle "li"](#nimi-lili-li) after "mi" or "sina".
+
+* mi lukin mute. mi sona lili. *(Mi vidas multe kaj scias malmulte. — I am seeing much and knowing little.)*
+* mi ~~li~~ lukin mute li sona lili.
+  * → mi lukin mute li sona lili.
+
 ### nimi lili "pi" nasa
 *(Stranga Genitivo — Strange Genitive)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **jan Pije** li [nimi wawa](#nimi-wawa) e [nimi lili "pi"](#nimi-lili-pi) lon poka pi [nimi pi ijo anu jan](#nimi-pi-ijo-anu-jan).  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li [nimi wawa](#nimi-wawa) e [nimi lili "pi"](#nimi-lili-pi) lon poka pi [nimi pi ijo anu jan](#nimi-pi-ijo-anu-jan).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** [verbigas](#nimi-wawa) la [partikulon "pi"](#nimi-lili-pi) kun [pronomo](#nimi-pi-ijo-anu-jan).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** turns the [particle "pi"](#nimi-lili-pi) with a [pronoun](#nimi-pi-ijo-anu-jan) into a [verb](#nimi-wawa).
 
 * ni li ijo mi. *(Tio apartenas al mi. — This belongs to me.)*
   * → ni li ***pi mi***. *(Tio estas mia. — This is mine.)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi [nimi lili "li"](#nimi-lili-li) la [nimi lili "pi"](#nimi-lili-pi) li ken kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> En subjekto (t.e. antaŭ la [partikulo "li"](#nimi-lili-li)), la [partikulo "pi"](#nimi-lili-pi) povas malaperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> In the subject (i.e. before the [particle "li"](#nimi-lili-li)), the [particle "pi"](#nimi-lili-pi) can disappear.
-
-* mi lukin mute. mi sona lili. *(Mi vidas multe kaj scias malmulte. — I am seeing much and knowing little.)*
-* mi ~~pi~~ lukin mute li sona lili. *(Mi, vidante multe, scias malmulte. — I, seeing much, am knowing little.)*
-  * → mi lukin mute li sona lili.
-  
-### nimi lili "e" nasa
-*(Stranga Akuzativo — Strange Accusative)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili** "e" li ken kama **nimi lili** "pi".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La akuzativa **partikulo** "e" povas fariĝi la genitiva **partikulo** "pi".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The accusative **particle** "e" can become the genitive **particle** pi.
+ 
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li [nimi lili "pi"](#nimi-lili-pi) e [nimi lili "e"](#nimi-lili-e) lon kama pi [nimi lawa](#nimi-lawa) ni: kon ona li nasin.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** igas la [partikulon "e"](#nimi-lili-e) la [partikulo "pi"](#nimi-lili-pi) antaŭ substantivo, kiu signifas direkton.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** turns the [particle "e"](#nimi-lili-e) into the [particle "pi"](#nimi-lili-pi) before a noun, which means a direction.
 
 * mi lukin ***e anpa***. *(Mi rigardas malsupren. — I look down.)*
   * → mi lukin ***anpa***.
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "e"](#nimi-lili-e) li ken kama [nimi lili "pi"](#nimi-lili-pi).
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [partikulo "e"](#nimi-lili-e) povas fariĝi la [partikulo "pi"](#nimi-lili-pi).
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [particle "e"](#nimi-lili-e) can become the [particle "pi"](#nimi-lili-pi).
+
 * mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon. — I translate the movie.)*
   * → mi ante ***toki e*** sitelen tawa.
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi kama** en **nimi kama** lon poka ona li ken kama **nimi suli palisa**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Modifilo** kune kun ĝia **modifilo** povas fariĝi **transitiva verbo**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Modifiers** together with their **modifiers** can become **transitive verbs**.
-
-* mi pana ala e ni: pan li suwi. *(Mi ne igas la panon dolĉa. — I do not make the bread sweet.)*
-  * → mi suwi ala e pan. 
-* mi pana e ni: pan li suwi ala. *(Mi igas la panon ne-dolĉa. — I make the bread non-sweet.)*
-  * → mi suwi ala e pan. 
 
 #### nimi lili "la"
 *(Stranga Kunteksta Frazero — Strange Contextual Fragment)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ala la **jan Pije** li nimi nanpa wan e [nimi palisa](#nimi-palisa) lon kama pi [nimi lili "la"](#nimi-lili-la).  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ala la jan **Pije** li nimi nanpa wan e [nimi palisa](#nimi-palisa) lon kama pi [nimi lili "la"](#nimi-lili-la).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** neniam uzas [prepozicion](#nimi-palisa) kiel la unuan vorton en **kunteksta frazero** (t.e. la vortoj antaŭ la [partikulo "la"](#nimi-lili-la)).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** never uses [prepositions](#nimi-palisa) as the first word in a **contextual fragment** (i.e. the words before the [particle "la"](#nimi-lili)).
 
@@ -802,7 +813,7 @@
 * waso li tawa lon kon, ~~sama~~ ***mun*** ~~pi~~ mi mute. *(Birdo flugas kvazaŭ luno de ni. — A bird is flying like a moon of ours.)*
   * → waso li tawa lon kon, ***mun*** mi mute. *(Birdo flugas ĉirkaŭ ni. — A bird is flying around us.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi palisa](#nimi-palisa) "kepeken" li kama [nimi wawa](#nimi-wawa), la **jan Pije** li kepeken ona lon poka pi [nimi lili "e"](#nimi-lili-e).  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi palisa](#nimi-palisa) "kepeken" li kama [nimi wawa](#nimi-wawa), la jan **Pije** li kepeken ona lon poka pi [nimi lili "e"](#nimi-lili-e).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam la [prepozicio](#nimi-palisa) "kepeken" fariĝas [verbo](#nimi-wawa), **Pije** uzas ĝin kun la [partikulo "e"](#nimi-lili-e).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> When the [preposition](#nimi-palisa) "kepeken" becomes a [verb](#nimi-wawa), **Pije** uses it with the [particle "e"](#nimi-lili-e).
 
@@ -835,14 +846,14 @@
 ### sitelen nasa lon poka nimi
 *(Stranga Interpunkcio — Strange Punctuation)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **jan Pije** li weka e **sitelen nanpa** lon kama pi [nimi lili "la"](#nimi-lili-la).  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li weka e **sitelen nanpa** lon kama pi [nimi lili "la"](#nimi-lili-la).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** ellasas la komon antaŭ la [partikulo "la"](#nimi-lili-la).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** leaves out the **comma** before the [particle "la"](#nimi-lili-la).
 
 * mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
   * → mi pona tawa jan ***la*** jan li pona tawa mi.
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ale la **jan Pije** li kepeken **sitelen nanpa** lon kama pi nimi "taso".  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ale la jan **Pije** li kepeken **sitelen nanpa** lon kama pi nimi "taso".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** neniam uzas **komon** antaŭ "taso".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** never uses a **comma** before "taso".
 
@@ -1119,7 +1130,6 @@
 * **ma** ***[maa]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - vasta — vast
   * *(LAWA)* - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero — something vast: earth, soil, land, field, world, territory, outdoors
-    * *(lon ... pi)* - ekster — outside
   * *([MUN°](#nimi-mun-musi))* saturna, sabata — saturn's, saturday's
 * **mama** ***[mama]*** *([JAN°](#nimi-jan-musi))*
   * *(KAMA)* - protektanta — protecting
