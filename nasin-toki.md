@@ -820,6 +820,14 @@
 * mi ***kepeken*** ilo. *(Mi uzas la instrumenton. — I use the instrument.)*
   * → mi ***kepeken e*** ilo.
 
+jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "tawa lukin".
+**Pije** uzas la [verbon](#nimi-wawa) "lukin" kun la aldona signifo "aspekti".
+**Pije** uses the [verb](#nimi-wawa) "lukin" with the additional meaning "to seem".
+
+* sina ~~tawa~~ **lukin** sama waso. *(Vi aspektas kiel birdo. — You look like a bird.)*
+  * → sina **lukin** sama waso.
+* sina unpa ~~tawa~~ **lukin**. *(Vi aspektas seksuma. → Vi estas seksalloga. — You look sexy. → You're sexy.)*
+
 ### nimi nasa pi ijo anu jan
 *(Strangaj Pronomoj — Strange Pronouns)*
 
