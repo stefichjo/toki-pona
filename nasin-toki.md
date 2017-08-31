@@ -729,8 +729,8 @@
 * mi lukin ***e anpa***. *(Mi rigardas malsupren. — I look down.)*
   * → mi lukin ***anpa***.
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "e"](#nimi-lili-e) li ken kama [nimi lili "pi"](#nimi-lili-pi).
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [partikulo "e"](#nimi-lili-e) povas fariĝi la [partikulo "pi"](#nimi-lili-pi).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "e"](#nimi-lili-e) li ken kama [nimi lili "pi"](#nimi-lili-pi).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [partikulo "e"](#nimi-lili-e) povas fariĝi la [partikulo "pi"](#nimi-lili-pi).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [particle "e"](#nimi-lili-e) can become the [particle "pi"](#nimi-lili-pi).
 
 * mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon. — I translate the movie.)*
