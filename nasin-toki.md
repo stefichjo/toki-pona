@@ -35,9 +35,9 @@
 * ***eju zen!*** *(Saluton! — Hello!)*
 * ***tokon!*** *(Saluton! — Hello!)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-lili) li kepeken [toki musi](#toki-musi). ona li [ale *ala* pi nimi mute, tan lipu suli pi toki pona](http://tokipona.net/tp/janpije/dictionary.php).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La sekcio "[Vortaro](#ale-pi-nimi-mute)" uzas la [Kernan Lingvaĵon](#toki-lili) kaj la [Eksperimentan Lingvaĵon](#toki-musi). Ĝi *ne* estas la [Oficiala Vortaro](http://tokipona.net/tp/janpije/dictionary.php).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The section "[Dictionary](#ale-pi-nimi-mute)" uses the [Core Language](#toki-lili) and the [Experimental Language](#toki-musi). It is *not* the [Official Dictionary](http://tokipona.net/tp/janpije/dictionary.php).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-lili) li kepeken [toki musi](#toki-musi). ona li [ale *ala* pi nimi mute, tan lipu suli pi toki pona](http://tokipona.net/tp/janpije/dictionary.php). ona li pana e [sona pi tan nimi](http://ucteam.ru/toki-pona/) e sona pi [nimi moli](http://tokipona.net/tp/janpije/extinctwords.php).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La sekcio "[Vortaro](#ale-pi-nimi-mute)" uzas la [Kernan Lingvaĵon](#toki-lili) kaj la [Eksperimentan Lingvaĵon](#toki-musi). Ĝi *ne* estas la [Oficiala Vortaro](http://tokipona.net/tp/janpije/dictionary.php). Ĝi montras la [etimologion de la vortoj](http://ucteam.ru/toki-pona/) kaj [mortintajn vortojn](http://tokipona.net/tp/janpije/extinctwords.php).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The section "[Dictionary](#ale-pi-nimi-mute)" uses the [Core Language](#toki-lili) and the [Experimental Language](#toki-musi). It is *not* the [Official Dictionary](http://tokipona.net/tp/janpije/dictionary.php). It indicates the [etymology of words](http://ucteam.ru/toki-pona/) and  [extinct words](http://tokipona.net/tp/janpije/extinctwords.php).
 
 ---
 
@@ -827,6 +827,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * sina ~~tawa~~ **lukin** sama waso. *(Vi aspektas kiel birdo. — You look like a bird.)*
   * → sina **lukin** sama waso.
 * sina unpa ~~tawa~~ **lukin**. *(Vi aspektas seksuma. → Vi estas seksalloga. — You look sexy. → You are sexy.)*
+  * → sina unpa **lukin**.
 
 ### nimi nasa pi ijo anu jan
 *(Strangaj Pronomoj — Strange Pronouns)*
@@ -1020,14 +1021,14 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(LAWA)* - ĉio — everything
   * *([NANPA](#nimi-nanpa))* - senfine — countless
     * *(... LAWA)* - tuta, ĉiom da — whole, all of
-* **ali** = **ale**
+* **ali** ⇒ **ale**
 * **anpa** ***[an-bas]*** *([SULI](#nimi-suli))* - malalta, kliniĝi, klinsaluti — low, bending, bowing
   * *(lon ... pi)* - sub — under
 * **ante** ***[ander]*** *([PALISA°](#nimi-palisa-musi))*
   * *(KAMA PALISA)* - ol — than
   * *(KAMA)* - alia — different
 * **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili-en-anu))* - aŭ — or
-* **apeja** = **jaki**
+* **apeja** ⇒ **jaki**
 * **awen** ***[hawen]*** *([SULI](#nimi-suli))* - daŭranta, atendanta, restanta — enduring, waiting, remaining
   * *(WAWA PINI)* - plu- — to continue to
 * **e** ***[he?]*** *([LILI](#nimi-lili-e))* - -n — (accusative)
@@ -1040,7 +1041,8 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
     * *([NANPA°](#nimi-nanpa-musi))* sep - seven
 * **ijo** ***[io]*** *(LAWA)* - io — something
   * *(e ... pi)* - pri — about
-* **ike** ~~ikeja~~ ***[ilkea]*** *([SULI](#nimi-suli))* ***≠ pona*** - malbona, superflua — bad, superfluous
+* **ike** ~~ikeja~~ ***[ilkeä]*** *([SULI](#nimi-suli))* ***≠ pona*** - malbona, superflua — bad, superfluous
+* **iki** ⇒ **ona**
 * **ilo** *([IJO°](#nimi-ijo-musi))* - io utila — something useful
 * **insa** ***[insajt]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - interna, centra — internal, central
@@ -1063,23 +1065,28 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(WAWA PINI)* - -iĝ-, sukcesi — to become, to succeed
   * *(lon ... pi)* - antaŭ — before
   * *(lon poka pi suno ...)* - oriente — in the east
+* **kapa** ⇒ **nena**
+* **kapesi** ⇒ **pimeja**, **pimeja walo**, **loje laso**
 * **kasi** ***[kasvi]*** *([SIJELO](#nimi-sijelo))* = "***sijelo ma***"
   * *([PALISA](#nimi-palisa))*
     * *(KAMA PALISA)* - kreskanta sur — growing on
     * *(KAMA)* - kreskanta — growing
   * *(LAWA)* - kreskanta vivaĵo: planto — growing living being: plant
   * *([MUN°](#nimi-mun-musi))* jupitera, ĵaŭda — jupiter's, thursday's
+* **kan** ⇒ **lon poka pi**
 * **ken** ***[ken]*** *([SULI](#nimi-suli))* - ebla — possible
   * *(WAWA PINI)* - povi, kapabli, rajti — can, to be able to, to be allowed to
 * **kepeken** ***[xebrewken]*** *([PALISA](#nimi-palisa))* = "***awen lon***"
   * *(KAMA PALISA)* - per — by means of
   * *(KAMA)* - uzanta — using
+* **kijetesantakalu** ***[kierteishäntäkarhu]*** ⇒ ***soweli***
 * **kili** ***[xili]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - pendanta — hanging
   * *(LAWA)* - io pendanta: frukto, legomo, fungo — something hanging: fruit, vegetable, mushroom
     * *(lon ... pi)* - depende de — depending on
-* **kin** = **a**
-* **kipisi** = **tu**
+* **kin** ⇒ **a**
+* **kinkaju** ⇒ **kijetesantakalu**
+* **kipisi e** ⇒ **tu e**
 * **kiwen** ***[kiven]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - malmola — hard
   * *(LAWA)* - io malmola: ŝtono — something hard: stone
@@ -1097,14 +1104,14 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **kute** ~~ekute~~ ***[ekute]*** *([ILO](#nimi-ilo))*
   * *(WAWA PALISA)* - aŭdi — to hear
   * *(LAWA)* - organo por aŭdi: orelo — organ for hearing: ear
-* **la** ***[la]*** *([LILI](#nimi-lili-la))* = "***lon***" - (kunteksto) — (context)
+* **la** ***[la]*** *([LILI](#nimi-lili-la))* = "***lon***" - (kunteksta frazero) — (contextual phrase)
 * **lape** ***[slape]*** *([SULI](#nimi-suli))* - dormanta, ripozanta — sleeping, resting
 * **laso** ~~la~~ ***[glas]*** *([SULI](#nimi-suli))* = "***kule kasi***", "***kule sewi***" - blua, verda — blue, green
 * **lawa** ***[glava]*** *([ILO](#nimi-ilo))*
   * *(WAWA PALISA)* - gvidi — to guide
   * *(LAWA)* - organo por gvidi: kapo — organ for guiding: head
   * *(lon ... pi)* - supre de — at the top of
-* **leko** = **((mute) nena pi) sike ala**
+* **leko** ***[lego?]*** ⇒ **((mute) nena pi) sike ala**
 * **len** ***[leng]*** *([ILO°](#nimi-ilo-musi))*
   * *(KAMA PALISA)* - kovri, kaŝi — to cover, to hide
   * *(LAWA)* - instrumento por kovri: vesto, kovrilo, privateco — instrument for covering: cloth, cover, privacy
@@ -1139,6 +1146,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(KAMA)* - vasta — vast
   * *(LAWA)* - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero — something vast: earth, soil, land, field, world, territory, outdoors
   * *([MUN°](#nimi-mun-musi))* saturna, sabata — saturn's, saturday's
+* **majuna** ***[maljuna]*** ⇒ **suli**, **pi tenpo suli**
 * **mama** ***[mama]*** *([JAN°](#nimi-jan-musi))*
   * *(KAMA)* - protektanta — protecting
   * *(LAWA)* - protektanta animaĵo: gepatro — protecting animated being: parent
@@ -1160,7 +1168,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(KAMA)* - malantaŭa — rear
   * *(LAWA)* - malantaŭo — back
     * *(lon ... pi)* - malantaŭ — behind
-* **monsuta** = **akesi**
+* **monsuta** ***[monsta]*** ⇒ **akesi**
 * **mu** ***[mu]*** *([KALAMA](#nimi-kalama))* - indiferenta interjekcio: bla, miaŭ — indifferent interjection: blah, meeow
   * *(KAMA*)* - ajna, arbitra — any, arbitrary
     * *([KALAMA°](#nimi-kalama-musi))* - ĉiuokaze, nu — whatever, well
@@ -1175,7 +1183,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **mute** ***[multe]*** *([SULI](#nimi-suli))* ***≠ lili*** - plura, multa, multe da (io ne-nombrebla), tre — multiple, many, much of (something non-countable), very
   * *([NANPA°](#nimi-nanpa-musi))* - tri — three
     * *(... LAWA)* - -aro — set of
-* **namako** = **sin**
+* **namako** ⇒ **sin**
 * **nanpa** ***[namba]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - nombrita, kalkulita — counted, calculated
   * *(LAWA)* - io nombrita, io kalkulita — something counted, something calculated
@@ -1183,7 +1191,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **nasin** ***[naĉin]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - interkonektanta — interconnecting
   * *(LAWA)* - io interkonektanta: vojo, pado, strato, metodo, kutimo, doktrino — something interconnecting: way, path, street, method, custom, doctrine
-* **nena** ***[nena]*** *([IJO°](#nimi-ijo-musi))*
+* **nena** ***[nenä]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - elstara — outstanding
   * *(LAWA)* - io elstara: ĝibo, butono, monto, nazo — something outstanding: bump, button, mountain, nose
 * **ni** ***[ni]*** *([IJO POKA](#nimi-pi-ijo-poka))*
@@ -1197,7 +1205,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(LAWA)* - organo por paŝi, organo por treti: piedo, gambo — organ for stepping, organ for kicking: foot, leg
     * *(lon ... pi)* - ĉe la malsupro de — at the bottom of
 * **o** ***[ho]*** *([LILI](#nimi-lili-o))* - (volativo), (imperativo), (vocativo) — (volative), (imperative), (vocative)
-* **oko** = **lukin**
+* **oko** ⇒ **lukin**
 * **olin** ***[volim]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - ami — to love
   * *(LAWA)* - io por ami — something to love
@@ -1206,7 +1214,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(WAWA PALISA)* = **kama e**
   * *(... [PALI°](#nimi-pali))* - -... — -...
 * **pakala** ***[bagar-ap]*** *([SULI](#nimi-suli))* ***≠ pona*** - damaĝita, lezita — damaged, harmed
-* **pake e** = **len e lupa pi**
+* **pake e** ⇒ **len e lupa pi**
 * **pali** ***[fari]*** *([PALI](#nimi-pali))* = "***luka e ijo***"
   * *(WAWA PALISA)* - prepari, krei — to prepare, to create
   * *(LAWA)* - io por prepari, io por krei: laboro, tasko — something to prepare, something to create: work, task
@@ -1223,12 +1231,14 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **pana** ***[?]*** *([PALI](#nimi-pali))*= "***luka sin***"
   * *(WAWA PALISA)* - doni, provizi, publikigi — to give, to provide, to publish
   * *(LAWA)* - io por doni, io por provizi, io por publiki: dateno — something to give, something to provide, something to publish: data
+* **pasila** ***[facila]*** ⇒ **pona**
+* **pata** ⇒ **jan sama**
 * **pi** ***[bilong]*** *([LILI](#nimi-lili-pi))* - (genitivo) — (genitive)
 * **pilin** ***[fil-him]*** *([ILO](#nimi-ilo))*
   * *(WAWA PALISA)* - senti — to feel
   * *(LAWA)* - organo por senti: koro — organ for feeling: heart
   * *(lon poka ...)* - maldekstra — left
-* **pimeja** ***[pimeja]*** *([SULI](#nimi-suli))* = "***kule ala***" - malhela, nigra — dark, black
+* **pimeja** ***[pimeä]*** *([SULI](#nimi-suli))* = "***kule ala***" - malhela, nigra — dark, black
 * **pini** ***[fini]*** *([SULI](#nimi-suli))* - finita, pasinta — finished, past
   * *([WAWA PINI°](#nimi-wawa-pini-musi))* - fini, to stop
   * *(lon ... pi)* - malantaŭ — after
@@ -1237,6 +1247,8 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
     * *(KAMA PALISA)* - rampi sur — crawling on
     * *(KAMA)* - rampanta — crawling
   * *(LAWA)* - rampanta vivaĵo: insekto — crawling living being: insect
+* **po** ⇒ **tu tu**
+* **powe** ⇒ **toki ike**, **toki akesi**
 * **poka** ***[boka]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - apuda, akompananta — lateral, accompanying
   * *(LAWA)* - io apuda: flanko — something lateral: side
@@ -1250,8 +1262,8 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **pona** ***[bona]*** *([SULI](#nimi-suli))* - bona, amika, simpla — good, friendly, simple
   * *(... [PALI](#nimi-pali))* - -inda — worth -ing
 * **pu** ***[buk]*** *([PALISA°](#nimi-palisa-musi))*
-  * *(KAMA PALISA)* - en harmonio kun — in harmony with
-  * *(KAMA)* - harmonia, konsultanta la Oficialan Libron de Tokipono — harmonious, interacting with the Official Toki Pona Book
+  * *(KAMA PALISA)* - en harmonio kun, laŭ — in harmony with, according to
+  * *(KAMA)* - harmonia, aganta laŭa, konsultanta la Oficialan Libron de Tokipono — harmonious, according, interacting with the Official Toki Pona Book
 * **sama** ***[sama]*** *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - kiel — like
   * *(KAMA)* - egala, sama, mem — alike, same, self
@@ -1281,7 +1293,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **sin** ***[ŝin]*** *([PALISA°](#nimi-palisa-musi))*
   * *(KAMA PALISA)* - aldona al, kun — additional to, with
   * *(KAMA)* - plia, aldona, nova, freŝa — another, additional, new, fresh
-* **sina** ***[sina]*** *([IJO ANU JAN](#nimi-pi-ijo-anu-jan))* - vi — you
+* **sina** ***[sinä]*** *([IJO ANU JAN](#nimi-pi-ijo-anu-jan))* - vi — you
 * **sinpin** ~~sanpan~~ ***[ŝjanbjan]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - antaŭa — frontal
   * *(LAWA)* - io antaŭa: muro — something frontal: wall
@@ -1337,6 +1349,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(LAWA)* - io konstruita/io protektanta: domo, ĉambro:  — something built/something protecting: house, room
 * **tu** ***[tu]*** *([SULI](#nimi-suli))* - disa — apart
   * *([NANPA](#nimi-nanpa))* - du — two
+* **tuli** ⇒ **mute**, **tu en wan**
 * **unpa** ***[?]*** *([SULI](#nimi-suli))* - (ge-)gravediĝanta, seksumanta, esti geedzo — becoming pregnant (or her partner), to have sexual relationships, to be married
 * **uta** ***[usta]*** *([ILO°](#nimi-ilo-musi))*
   * *(WAWA PALISA)* - kisi, suĉi — to kiss, to suck
