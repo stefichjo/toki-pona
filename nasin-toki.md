@@ -50,6 +50,10 @@
 ### nimi lili
 *(Partikuloj — Particles)*
 
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kama en pini pi **nimi lili** ["li"](#nimi-lili-li), ["e"](#nimi-lili-e), ["o"](#nimi-lili-o), ["pi"](#nimi-lili-pi), ["en", "anu"](#nimi-lili-en-anu) la [nimi suli](#nimi-suli) li lon. pini pi [nimi lili "la"](#nimi-lili-la) la [mute nimi](#mute-nimi) li lon. pini ona li lon kama pi [nimi lili "la"](#nimi-lili-la). [nimi lili toki](#nimi-lili-toki) li lon pini pi [nimi suli](#nimi-suli). [nimi lili kalama](#nimi-lili-kalama) li ken kama [nimi kama](#nimi-kama) pi [nimi palisa](#nimi-palisa) a.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Antaŭ kaj malantaŭ la **partikuloj** ["li"](#nimi-lili-li), ["e"](#nimi-lili-e), ["o"](#nimi-lili-o), ["pi"](#nimi-lili-pi), ["en", "anu"](#nimi-lili-en-anu) estas [radikaj vortoj](#nimi-suli). Malantaŭ la [partikulo "la"](#nimi-lili-la) estas [frazo](#mute-nimi). Ĝia fino estas antaŭ la [partikulo "la"](#nimi-lili-la). [Citaĵo](#nimi-lili-toki) estas malantaŭ [substantivo](#nimi-suli). [Interjekcio](#nimi-lili-kalama) povas fariĝi [modifilo](#nimi-kama) eĉ de [prepozicio](#nimi-palisa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Before and after the **particles** ["li"](#nimi-lili-li), ["e"](#nimi-lili-e), ["o"](#nimi-lili-o), ["pi"](#nimi-lili-pi), ["en", "anu"](#nimi-lili-en-anu) are [content words](#nimi-suli). After the [particle "la"](#nimi-lili-la) is a [sentence](#mute-nimi). Its end is before the [particle "la"](#nimi-lili-la). [Interjections](#nimi-lili-kalama) can become [modifiers](#nimi-kama) even of [prepositions](#nimi-palisa).
+
 #### nimi lili "li"
 *(Subjekto kaj Predikato — Subject and Predicate)*
 
@@ -161,6 +165,23 @@
 * ni li tomo ***pi*** telo nasa, ***pi*** jan pona. *(Tio estas trinkejo de amiko. — This is a friend's bar.)*
   * → ni li tomo ***pi*** telo nasa. jan pona li ***jo*** e tomo ni.
 
+#### nimi lili "en", "anu"
+*(Konjunkcioj — Conjunctions)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili** "en" li ken lon nimi lon kama taso pi **nimi lili** "li".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La **partikulo** "en" povas esti nur en la subjekto (t.e. la vortoj antaŭ la **partikulo** "li").  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The **particle** "en" can only come in the subject (i.e. the words before the **particle** "li").
+
+* toki sina ***en*** pali sina li sama. *(Via parolo kaj via ago estas samaj. — What you say and what you do are the same.)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kama nimi la pini pi nimi sama lon poka pi nimi "ala" la **nimi lili** "anu" li kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Antaŭ vortoj kaj malantaŭ la samaj vortoj negitaj, la **partikulo** "anu" malaperas.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> In front of words and after the same words negated, the **particle** "anu" disappears.
+
+* ona li mama ***anu*** seme? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
+  * → ona li ***mama ala*** ~~anu~~ ***mama***?
+    * → ona li ***mama ala mama***?
+
 #### nimi lili "la"
 *(Kunteksta Frazero — Contextual Fragment)*
 
@@ -187,33 +208,16 @@
   * ~~ni,~~ mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
     * → mi pona tawa jan, ***la*** jan li pona tawa mi.
 
-#### nimi lili "en", "anu"
-*(Konjunkcioj — Conjunctions)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili** "en" li ken lon nimi lon kama taso pi **nimi lili** "li".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La **partikulo** "en" povas esti nur en la subjekto (t.e. la vortoj antaŭ la **partikulo** "li").  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The **particle** "en" can only come in the subject (i.e. the words before the **particle** "li").
-
-* toki sina ***en*** pali sina li sama, la sina pilin pona. *(Se via parolo kaj via ago estas samaj, vi bonfartas. — If what you say and what you do are the same, you are happy.)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kama nimi la pini pi nimi sama lon poka pi nimi "ala" la **nimi lili** "anu" li kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Antaŭ vortoj kaj malantaŭ la samaj vortoj negitaj, la **partikulo** "anu" malaperas.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> In front of words and after the same words negated, the **particle** "anu" disappears.
-
-* ona li mama ***anu*** seme? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
-  * → ona li ***mama ala*** ~~anu~~ ***mama***?
-    * → ona li ***mama ala mama***?
-
-#### nimi tan
+#### nimi lili toki
 *(Citaĵoj — Quotes)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi tan** li lon insa pi sitelen tan.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili toki** li lon insa pi sitelen toki.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Citaĵo** estas inter citiloj.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Quotations** are inside quotation marks.
 
 * nimi "***Epelanto***" *(la vorto "Esperanto" — the word "Esperanto")*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **sitelen tan** lon poka pi nimi "nimi" anu nimi "kalama" li ken kama weka.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **sitelen toki** lon poka pi nimi "nimi" anu nimi "kalama" li ken kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Citiloj** kun "nimi" aŭ "kalama" povas malaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Quotation marks** with "nimi" or "kalama" can disappear.
 
@@ -227,17 +231,17 @@
 * lipu ***pi nanpa tu*** *(la karto kun la numero du, la dua karto — the card with the number two, the second card)*
   * → lipu ***nanpa tu*** *(la karto numero du, la dua karto — the card number two, the second card)*
 
-#### nimi kalama
+#### nimi lili kalama
 *(Interjekcio — Interjection)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan li ken toki e pilin kepeken **nimi kalama** taso.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan li ken toki e pilin kepeken **nimi lili kalama** taso.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Oni povas esprimi emocion per nura **interjekcio**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> One can express an emotion by means of a plain **interjection**.
 
 * ***a***! *(Ha!, Ho! — Ha!, Wow!)*
 * ***mu***! *(Bla! — Blah!)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ala" li ken kama **nimi kalama**. **nimi kalama** li ken tawa.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ala" li ken kama **nimi lili kalama**. **nimi lili kalama** li ken tawa.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> "ala" povas fariĝi **interjekcio**. **Interjekcioj** povas moviĝi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ala" can become an **interjection**. **Interjections** can move.
 
@@ -249,7 +253,7 @@
   * sina suli — ***a***! *(Vi estas ja granda! — You are so tall!)*
     * → sina suli ***a***!
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi kalama** li ken kama [nimi pali](#nimi-pali).  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili kalama** li ken kama [nimi pali](#nimi-pali).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Interjekcio** povas fariĝi [aga vorto](#nimi-pali).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> An **interjection** can become a [doing word](#nimi-pali).
 
@@ -318,7 +322,10 @@
   * → mi tawa ***kepeken*** tomo tawa ***tan*** tomo sona ***tawa*** tomo sina.
 * jan ~~lon~~ ***poka*** *(najbaro — neighbor)*
   * → jan ***poka***
-* pona ~~tawa~~ **moku** *(bona por manĝado → bongusta — good for eating → delicious)*
+
+...
+
+* pona ~~tawa~~ **moku** *(bona por manĝi → bongusta — good for eating → delicious)*
   * → pona **moku**
 
 ...
@@ -483,12 +490,12 @@
 * mi lukin mute. mi sona lili. *(Mi vidas multe kaj scias malmulte. — I am seeing much and knowing little.)*
   * → mi ***li*** lukin mute ***li*** sona lili.
 
-### nimi kalama musi
+### nimi lili kalama musi
 *(Eksperimentaj Interjekcioj — Experimental Interjections)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi kalama](#nimi-kalama) li ken jo e kon pi **nimi kama** tan **nimi kalama** sama.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Interjekcio](#nimi-kalama) povas havi la signifon de la **modifilo** derivita de ĉi **interjekcio**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> An [interjection](#nimi-kalama) can have the meaning of the modifier derived from that very **interjection**.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili kalama](#nimi-lili-kalama) li ken jo e kon pi **nimi kama** tan **nimi lili kalama** sama.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Interjekcio](#nimi-lili-kalama) povas havi la signifon de la **modifilo** derivita de ĉi **interjekcio**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> An [interjection](#nimi-lili-kalama) can have the meaning of the modifier derived from that very **interjection**.
 
 * ***a***, sina suli. *(Jes, vi estas granda. — Yes, you are tall.)*
 
@@ -961,9 +968,9 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 
 * ***sini*** sinas. *(sina sin.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** lon pini pi [nimi tan](#nimi-tan) li ken kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Substantivo** malantaŭ [citaĵo](#nimi-tan) povas malaperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A **noun** after a [quotation](#nimi-tan) can disappear.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** lon pini pi [nimi lili toki](#nimi-lili-toki) li ken kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Substantivo** malantaŭ [citaĵo](#nimi-lili-toki) povas malaperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A **noun** after a [quotation](#nimi-lili-toki) can disappear.
 
 * la ***Sonja***-jano *(jan Sonja)*
   * → ***Sonja***
@@ -990,9 +997,9 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * sini estas ***sam*** mi. *(sina sama mi.)*
 * mi estas ***taw*** tomo. *(mi tawa tomo.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> ale pi [nimi kalama](#nimi-kalama) li lon **Pona Toko**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Interjekcioj](#nimi-kalama) estas tutaj en **Pona Toko**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Interjections](#nimi-kalama) are in **Pona Toko** as a whole.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> ale pi [nimi lili kalama](#nimi-lili-kalama) li lon **Pona Toko**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Interjekcioj](#nimi-lili-kalama) estas tutaj en **Pona Toko**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Interjections](#nimi-lili-kalama) are in **Pona Toko** as a whole.
 
 * sowelo ***muas***. *(soweli li mu.)*
 
@@ -1001,9 +1008,9 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 # ale pi nimi mute
 *(Vortaro — Dictionary)*
 
-* **a** ***[ha]*** *([KALAMA](#nimi-kalama))* - emocia interjekcio: ha — emotional interjection: ha
+* **a** ***[ha]*** *([KALAMA](#nimi-lili-kalama))* - emocia interjekcio: ha — emotional interjection: ha
   * *(KAMA)* - ja, eĉ, efektive — so, even, indeed
-    * *([KALAMA°](#nimi-kalama-musi))* - jes — yes
+    * *([KALAMA°](#nimi-lili-kalama-musi))* - jes — yes
     * *(... [PALI°](#nimi-pali))* - -ata — being -ed
 * **akesi** ***[hagedis]*** *([JAN°](#nimi-jan-musi))* = "***sijelo lete***"
   * *(KAMA)* - malvarmsanga — cold-blooded
@@ -1173,9 +1180,9 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(LAWA)* - malantaŭo — back
     * *(lon ... pi)* - malantaŭ — behind
 * **monsuta** ***[monsta]*** ⇒ **akesi**
-* **mu** ***[mu]*** *([KALAMA](#nimi-kalama))* - indiferenta interjekcio: bla, miaŭ — indifferent interjection: blah, meeow
+* **mu** ***[mu]*** *([KALAMA](#nimi-lili-kalama))* - indiferenta interjekcio: bla, miaŭ — indifferent interjection: blah, meeow
   * *(KAMA*)* - ajna, arbitra — any, arbitrary
-    * *([KALAMA°](#nimi-kalama-musi))* - ĉiuokaze, nu — whatever, well
+    * *([KALAMA°](#nimi-lili-kalama-musi))* - ĉiuokaze, nu — whatever, well
 * **mun** ***[mun]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - ĉielpromenanta, orbitanta — sky-walking, orbiting
   * *(LAWA)* - io ĉielpromenanta, io orbitanta: luno, stelo — something sky-walking, something orbiting: moon, star
