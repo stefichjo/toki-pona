@@ -448,12 +448,12 @@
 * ona li ***unpa lon poka pi*** jan ni. *(Ŝi seksumas kun tiu persono.)*
   * → ona li ***unpa e*** jan ni.
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "lon poka sike pi" li ken kama [nimi wawa palisa](#nimi-wawa-palisa) "sike".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "lon poka sike pi" povas fariĝi la [transitiva verbo](#nimi-wawa-palisa) "sike".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "lon poka sike pi" can become the [transitive verb](#nimi-wawa-palisa) "sike".
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "lon nasin sike pi" li ken kama [nimi wawa palisa](#nimi-wawa-palisa) "sike".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "lon nasin sike pi" povas fariĝi la [transitiva verbo](#nimi-wawa-palisa) "sike".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "lon nasin sike pi" can become the [transitive verb](#nimi-wawa-palisa) "sike".
 
 * ona li ***sike e*** kiwen. *(Ŝi rondigas la ŝtonon. — She makes the stone round.)*
-* ona li tawa ***lon poka sike pi*** tomo sona. *(Ŝi iras ĉirkaŭ la lernejon. — She is walking around the school.)*
+* ona li tawa ***lon nasin sike pi*** tomo sona. *(Ŝi iras ĉirkaŭ la lernejon. — She is walking around the school.)*
   * → ona ~~li tawa~~ li ***sike e*** tomo sona.
     * → ona li ***sike e*** tomo sona.
 
@@ -1292,7 +1292,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(LAWA)* - io adapita: vivaĵo, korpo — something adapted: living being, body
 * **sike** ***[sirkel]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - ronda — round
-    * *(WAWA PALISA)* = **lon poka sike pi**
+    * *(WAWA PALISA)* = **lon nasin sike pi**
   * *(LAWA)* - io ronda: cirklo, globo, ĉirkaŭo — something round: circle, sphere, surroundings
     * *(lon poka ... pi)* - ĉirkaŭ — around
 * **sin** ***[ŝin]*** *([PALISA°](#nimi-palisa-musi))*
