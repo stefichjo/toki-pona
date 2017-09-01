@@ -1027,6 +1027,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **ante** ***[ander]*** *([PALISA°](#nimi-palisa-musi))*
   * *(KAMA PALISA)* - ol — than
   * *(KAMA)* - alia — different
+  * *(lon poka ... pi)* - ĉe la alia flanko de, trans — at the other side of, beyond
 * **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili-en-anu))* - aŭ — or
 * **apeja** ⇒ **jaki**
 * **awen** ***[hawen]*** *([SULI](#nimi-suli))* - daŭranta, atendanta, restanta — enduring, waiting, remaining
@@ -1047,6 +1048,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **insa** ***[insajt]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - interna, centra — internal, central
   * *(LAWA)* - io interna, io centra: mezo — something internal, something central: middle
+    * *(lon nasin ... pi)* - tra — throgh
     * *(lon ale ... pi)* - ĉie en — throghout
     * *(tan ale ... pi)* - de ĉie en, tra — throghout
 * **jaki** ***[jakki]*** *([SULI](#nimi-suli))* ***≠ pona*** - malpura, fia, senhonora — dirty, disgusting, dishonored
@@ -1093,7 +1095,9 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *([MUN°](#nimi-mun-musi))* venusa, vendreda — venus's, friday's
 * **ko** ***[gow]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - duon-malmola — semi-solid
-  * *(LAWA)* - io duon-malmola: pasto, pulvoro — something semi-solid: dough, powder
+  * *(LAWA)* - io duon-malmola: pasto, pulvoro, polvo — something semi-solid: dough, powder, dust
+  * *(... pi selo ala)* ne-formita duon-malmolaĵo, pulvoro, polvo — un-formed semi-solid something, powder, dust
+  * *(... selo)* formita duon-malmolaĵo, pasto — formed semi-solid something, dough
 * **kon** ***[kong]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - ŝvebanta — hovering
   * *(LAWA)* - io ŝvebanta: aero, spirito, esenco, kaŝita realo — something hovering: air, spirit, essence, hidden reality
@@ -1255,12 +1259,13 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
     * *(lon ... pi)* - apud — next to
     * *(lon ... tu pi)* - inter (du) — between (two)
     * *(lon ... mute pi)* - inter (multaj) — between (many)
-    * *(lon ale ... pi)* - preter — past
+    * *(lon nasin ... pi)* - preter — past
 * **poki** ***[bokis]*** *([ILO°](#nimi-ilo-musi))*
   * *(WAWA PALISA)* - enhavi — to contain
   * *(LAWA)* - organo por enhavi: veziko, ujo, ingo — organ for containing: bladder, container
 * **pona** ***[bona]*** *([SULI](#nimi-suli))* - bona, amika, simpla — good, friendly, simple
   * *(... [PALI](#nimi-pali))* - -inda — worth -ing
+  * *(lon nasin ...)* - rekta — direct
 * **pu** ***[buk]*** *([PALISA°](#nimi-palisa-musi))*
   * *(KAMA PALISA)* - en harmonio kun, laŭ — in harmony with, according to
   * *(KAMA)* - harmonia, aganta laŭa, konsultanta la Oficialan Libron de Tokipono — harmonious, according, interacting with the Official Toki Pona Book
@@ -1301,6 +1306,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **sitelen** ***[ŝilderen]*** *([IJO°](#nimi-ijo-musi))*
   * *(KAMA)* - desegnita, imagita, skribita — drawn, imagined, written
   * *(LAWA)* - io desegnita, io imagita, io skribita: bildo, ideo, simbolo — something drawn, something imagined,  something written: picture, idea, symbol
+  * *(... ko)* - punkto — point
 * **sona** ***[codna]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - scii — to know
   * *(LAWA)* - io por scii: fakto — something to know: fact
@@ -1340,7 +1346,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(KAMA)* - duma — during
   * *(LAWA)* - io duma: intervalo, paŭzo, tempo, daŭro, okazo, situacio — something during: interval, break, time, duration, occasion, situation
     * *(lon ... pi)* - dum — during
-  * *(lon nasin sike pi ilo ...)* dekstrume — clockwise
+  * *(lon nasin sike pi ilo ...)* ĉirkaŭ la horloĝo, dekstrume — around the clock, clockwise
 * **toki** ~~to~~ ***[tok]*** *([PALI](#nimi-pali))* = "***ijo sin***"
   * *(WAWA PALISA)* - komuniki — to communicate
   * *(LAWA)* - io por komuniki: mesaĝo — something to communicate: message
