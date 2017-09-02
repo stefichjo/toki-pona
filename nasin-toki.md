@@ -1337,9 +1337,9 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(KAMA)* - devenanta — originating
   * *([WAWA PINI°](#nimi-wawa-pini-musi))* - esti -inta — to have -ed
 * **taso** ***[dats-ol]*** *([PALISA°](#nimi-palisa-musi))*
-  * *(KAMA PALISA)* - sendepende de, sen, malgraŭ, kvankam — independent from, without
+  * *(KAMA PALISA)* - sendepende de, kiel escepto de, sen, malgraŭ, spite al, kvankam — independent from, as an exception from, without, despite
     * *(... ~~ni la~~)* - sed — but
-  * *(KAMA)* - sendependa, nura, libera, vicanta — independent, only, free, being the one whose turn it is
+  * *(KAMA)* - sendependa, escepta, nura, libera, vicanta — independent, exceptional, only, free, being the one whose turn it is
 * **tawa** ~~towa~~ ***[towards]*** = "***kama lon***" *([PALISA](#nimi-palisa))*
   * *(KAMA PALISA)* - al, por — to, toward, for
   * *(KAMA)* - moviĝanta — moving
