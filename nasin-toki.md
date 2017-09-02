@@ -50,9 +50,36 @@
 ### nimi lili
 *(Partikuloj — Particles)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kama en pini pi **nimi lili** ["li"](#nimi-lili-li), ["e"](#nimi-lili-e), ["o"](#nimi-lili-o), ["pi"](#nimi-lili-pi), ["en", "anu"](#nimi-lili-en-anu) la [nimi suli](#nimi-suli) li lon. pini pi [nimi lili "la"](#nimi-lili-la) la [mute nimi](#mute-nimi) li lon. pini ona li lon kama pi [nimi lili "la"](#nimi-lili-la). [nimi lili toki](#nimi-lili-toki) li lon pini pi [nimi suli](#nimi-suli). [nimi lili kalama](#nimi-lili-kalama) li ken kama [nimi kama](#nimi-kama) pi [nimi palisa](#nimi-palisa) a.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Antaŭ kaj malantaŭ la **partikuloj** ["li"](#nimi-lili-li), ["e"](#nimi-lili-e), ["o"](#nimi-lili-o), ["pi"](#nimi-lili-pi), ["en", "anu"](#nimi-lili-en-anu) estas [radikaj vortoj](#nimi-suli). Malantaŭ la [partikulo "la"](#nimi-lili-la) estas [frazo](#mute-nimi). Ĝia fino estas antaŭ la [partikulo "la"](#nimi-lili-la). [Citaĵo](#nimi-lili-toki) estas malantaŭ [substantivo](#nimi-suli). [Interjekcio](#nimi-lili-kalama) povas fariĝi [modifilo](#nimi-kama) eĉ de [prepozicio](#nimi-palisa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Before and after the **particles** ["li"](#nimi-lili-li), ["e"](#nimi-lili-e), ["o"](#nimi-lili-o), ["pi"](#nimi-lili-pi), ["en", "anu"](#nimi-lili-en-anu) are [content words](#nimi-suli). After the [particle "la"](#nimi-lili-la) is a [sentence](#mute-nimi). Its end is before the [particle "la"](#nimi-lili-la). [Interjections](#nimi-lili-kalama) can become [modifiers](#nimi-kama) even of [prepositions](#nimi-palisa).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kama en pini pi **nimi lili** ["li"](#nimi-lili-li), ["e"](#nimi-lili-e), ["o"](#nimi-lili-o), ["pi"](#nimi-lili-pi), ["en", "anu"](#nimi-lili-en-anu) la [nimi suli](#nimi-suli) li lon.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Antaŭ kaj malantaŭ la **partikuloj** ["li"](#nimi-lili-li), ["e"](#nimi-lili-e), ["o"](#nimi-lili-o), ["pi"](#nimi-lili-pi), ["en", "anu"](#nimi-lili-en-anu) estas [radikaj vortoj](#nimi-suli).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Before and after the **particles** ["li"](#nimi-lili-li), ["e"](#nimi-lili-e), ["o"](#nimi-lili-o), ["pi"](#nimi-lili-pi), ["en", "anu"](#nimi-lili-en-anu) are [content words](#nimi-suli).
+
+* jan ***pi*** toki pona ***o*** toki ***e*** ni: sina ***en*** mi ***li*** sona ***e*** toki sama ***anu*** seme? *(Diru, tokiponisto, ĉu vi kaj mi konas la saman lingvon? — Tell me, Tokiponan, do you and I know the same language?)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi [nimi lili "la"](#nimi-lili-la) la [mute nimi](#mute-nimi) li lon. pini ona li lon kama pi [nimi lili "la"](#nimi-lili-la).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ la [partikulo "la"](#nimi-lili-la) estas [frazo](#mute-nimi). Ĝia fino estas antaŭ la [partikulo "la"](#nimi-lili-la).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After the [particle "la"](#nimi-lili-la) is a [sentence](#mute-nimi). Its end is before the [particle "la"](#nimi-lili-la).
+
+* tan seme ***la*** sina pu? *(Kial vi konsultas la Oficialan Libron de Tokipono? — Why do you interact with the Official Toki Pona Book?)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> sin la [nimi lili toki](#nimi-lili-toki) en [nimi lili kalama](#nimi-lili-kalama) li [nimi lili](#nimi-lili). [nimi lili toki](#nimi-lili-toki) li lon pini pi [nimi lawa](#nimi-lawa). [nimi lili kalama](#nimi-lili-kalama) li ken kama [nimi kama](#nimi-kama) pi [nimi palisa](#nimi-palisa) a.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Aldone, [citaĵoj](#nimi-lili-toki) kaj [interjekcioj](#nimi-lili-kalama) estas [partikuloj](#nimi-lili). [Citaĵo](#nimi-lili-toki) estas malantaŭ [substantivo](#nimi-lawa). [Interjekcio](#nimi-lili-kalama) povas fariĝi [modifilo](#nimi-kama) eĉ de [prepozicio](#nimi-palisa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> In addition, [quotes](#nimi-lili-toki) en [interjections](#nimi-lili-kalama) are [particles](#nimi-lili). [Quotes](#nimi-lili-toki) are after [nouns](#nimi-lawa). [Interjections](#nimi-lili-kalama) can become [modifiers](#nimi-kama) even of [prepositions](#nimi-palisa).
+
+* ona li jo e nimi ***Sonja***. *(Ŝi havas la nomon "Sonja". — She has the name "Sonja".)*
+* sina suli ***a***! *(Vi estas ja granda! — You're so tall!)*
+* sina kepeken ***ala*** toki pona. *(Vi ne uzas Tokiponon. — You don't use Toki Pona.)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "nanpa" li ken kama wan pi [nimi lili toki](#nimi-lili-toki). ken la tan ni la jan **Sonja** li pana e nimi sama tawa nimi "nanpa".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "nanpa" povas fariĝi parto de [citaĵo](#nimi-lili-toki). Eble tial **Sonja** donas al "nanpa" la saman nomon.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "nanpa" can become a part of a [qutation](#nimi-lili-toki). Maybe this is why **Sonja** calls "nanpa" in the same way.
+
+* sina nanpa ***wan***. *(Vi estas la numero unu. — You're number one.)*
+* toki ***nanpa wan***. *(la lingvo numero unu — the language number one)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li pana e nimi sama tawa nimi "seme", "taso".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** nomas same la vortojn "seme", "taso".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** calls the words "seme", "taso" in the same way.
 
 #### nimi lili "li"
 *(Subjekto kaj Predikato — Subject and Predicate)*
