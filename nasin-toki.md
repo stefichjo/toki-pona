@@ -77,9 +77,9 @@
 * sina nanpa ***wan***. *(Vi estas la numero unu. — You're number one.)*
 * toki ***nanpa wan***. *(la lingvo numero unu — the language number one)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li pana e nimi sama tawa nimi "seme", "taso".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** nomas same la vortojn "seme", "taso".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** calls the words "seme", "taso" in the same way.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li pana e nimi sama tawa nimi "seme", "taso". taso lipu ni la nimi "seme" li [nimi pi ijo poka](#nimi-pi-ijo-poka), nimi "taso" li [nimi palisa](#nimi-palisa).   
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** nomas same la vortojn "seme", "taso". Sed en tiu ĉi libro, "seme" estas [korelativo](#nimi-pi-ijo-poka) kaj "taso" estas [prepozicio](#nimi-palisa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** calls the words "seme", "taso" in the same way. But in this book, "seme" is a [correlative](#nimi-pi-ijo-poka) and "taso" is a [preposition](#nimi-palisa).
 
 #### nimi lili "li"
 *(Subjekto kaj Predikato — Subject and Predicate)*
