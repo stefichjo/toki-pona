@@ -66,7 +66,7 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Aldone, [citaĵoj](#nimi-lili-toki) kaj [interjekcioj](#nimi-lili-kalama) estas [partikuloj](#nimi-lili). [Citaĵo](#nimi-lili-toki) estas malantaŭ [substantivo](#nimi-lawa). [Interjekcio](#nimi-lili-kalama) povas fariĝi [modifilo](#nimi-kama) eĉ de [prepozicio](#nimi-palisa).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> In addition, [quotes](#nimi-lili-toki) en [interjections](#nimi-lili-kalama) are [particles](#nimi-lili). [Quotes](#nimi-lili-toki) are after [nouns](#nimi-lawa). [Interjections](#nimi-lili-kalama) can become [modifiers](#nimi-kama) even of [prepositions](#nimi-palisa).
 
-* ona li jo e nimi ***"Sonja"***. *(Ŝi havas la nomon "Sonja". — She has the name "Sonja".)*
+* ona li jo e nimi "***Sonja***". *(Ŝi havas la nomon "Sonja". — She has the name "Sonja".)*
 * sina suli ***a***! *(Vi estas ja granda! — You're so tall!)*
 * sina kepeken ***ala*** toki pona. *(Vi ne uzas Tokiponon. — You don't use Toki Pona.)*
 
