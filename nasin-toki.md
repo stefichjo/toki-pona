@@ -307,12 +307,12 @@
 |:-:|
 | [nimi nanpa](#nimi-nanpa) |
 | [nimi palisa](#nimi-palisa) |
-| [nimi pi ijo anu jan](#nimi-pi-ijo-anu-jan) |
 | [nimi jan](#nimi-jan) |
 | [nimi ijo](#nimi-ijo) |
 | [nimi pali](#nimi-pali) |
 | [nimi ilo](#nimi-ilo) |
 | [nimi sijelo](#nimi-sijelo) |
+| [nimi pi ijo anu jan](#nimi-pi-ijo-anu-jan) |
 | [nimi pi ijo poka](#nimi-pi-ijo-poka) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli** li ken kama **nimi lawa**, **nimi wawa (palisa)**, **nimi kama**.  
@@ -387,15 +387,6 @@
 * open ~~tawa~~ ***lukin*** *(malfermita laŭ la okuloj → transparenta — open according to the eye → transparent)*
   * → open ***lukin***
 
-#### nimi pi ijo anu jan
-*(Pronomoj — Pronouns)*
-
-* ***mi*** *(mi, ni — I, we)*
-* ***sina*** *(vi — you)*
-* ***ona*** *(ŝi, li, ĝi, ili — she, he, it, they)*
-* ***jan*** *(iu — somebody)*
-* ***ijo*** *(io — something)*
-
 #### nimi jan
 *(Ulaj Vortoj — Person Words)*
 
@@ -428,6 +419,15 @@
 *(Korpaj Vortoj — Body Words)*
 
 * ***kala*** *(fiŝo — fish)*
+
+#### nimi pi ijo anu jan
+*(Pronomoj — Pronouns)*
+
+* ***mi*** *(mi, ni — I, we)*
+* ***sina*** *(vi — you)*
+* ***ona*** *(ŝi, li, ĝi, ili — she, he, it, they)*
+* ***jan*** *(iu — somebody)*
+* ***ijo*** *(io — something)*
 
 #### nimi pi ijo poka
 *(Korelativoj — Correlatives)*
