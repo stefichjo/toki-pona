@@ -1326,7 +1326,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **meli** ***[meri]*** *([LAWA JAN](#nimi-lawa-jan))*
   * *(POKA)* - ina — female
   * *(LAWA)* - ina animaĵo: virino, edzino — female animated being: woman, wife
-* **mi** ***[mi]*** *([LAWA IJO ANU JAN](#nimi-lawa-esun))* - mi, ni — I, we
+* **mi** ***[mi]*** *([LAWA ESUN](#nimi-lawa-esun))* - mi, ni — I, we
 * **mije** ***[mies]*** *([LAWA JAN](#nimi-lawa-jan))*
   * *(POKA)* - vira — male
   * *(LAWA)* - vira animaĵo: viro, edzo — male animated being: man, husband
@@ -1359,27 +1359,27 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(POKA°)* - nombrita, kalkulita — counted, calculated
 * **nasa** ***[nasaw]*** *([PONA](#nimi-pona))* ***≠ pona*** - stranga, freneza, ebria — strange, crazy, intoxicated
 * **nasin** ***[naĉin]*** *([LAWA IJO°](#nimi-lawa-ijo-musi))*
-  * *(POKA)* - interkonektanta — interconnecting
   * *(LAWA)* - io interkonektanta: vojo, pado, strato, metodo, kutimo, doktrino — something interconnecting: way, path, street, method, custom, doctrine
+  * *(POKA°)* - interkonektanta — interconnecting
 * **nena** ***[nenä]*** *([LAWA IJO°](#nimi-lawa-ijo-musi))*
-  * *(POKA)* - elstara — outstanding
   * *(LAWA)* - io elstara: ĝibo, butono, monto, nazo — something outstanding: bump, button, mountain, nose
+  * *(POKA°)* - elstara — outstanding
 * **ni** ***[ni]*** *([LAWA IJO POKA](#nimi-palisa))*
   * *(POKA)* - tiu (ĉi) — that, this
   * *(LAWA)* - tio (ĉi) — that thing, this thing
 * **nimi** ***[nimi]*** *([LAWA IJO°](#nimi-lawa-ijo-musi))*
-  * *(POKA)* - atribuita — attributed
   * *(LAWA)* - io atribuita: nomo, vorto — something attributed: name, word
+  * *(POKA°)* - atribuita — attributed
 * **noka** ***[noga]*** *([LAWA ILO°](#nimi-lawa-ilo-musi))*
-  * *(WAWA PALISA)* - paŝi, treti — to step, to kick
   * *(LAWA)* - organo por paŝi, organo por treti: piedo, gambo — organ for stepping, organ for kicking: foot, leg
     * *(lon ... pi)* - ĉe la malsupro de — at the bottom of
+  * *(WAWA PALISA°)* - paŝi, treti — to step, to kick
 * **o** ***[ho]*** *([LILI](#nimi-lili-o))* - (volativo), (imperativo), (vocativo) — (volative), (imperative), (vocative)
 * **oko** ⇒ **lukin**
 * **olin** ***[volim]*** *([LAWA PALI](#nimi-lawa-pali))*
   * *(WAWA PALISA)* - ami — to love
   * *(LAWA)* - io por ami — something to love
-* **ona** ***[ona]*** *([LAWA IJO ANU JAN](#nimi-lawa-esun))* - ŝi, li, ĝi, ili — she, he, it, they
+* **ona** ***[ona]*** *([LAWA ESUN](#nimi-lawa-esun))* - ŝi, li, ĝi, ili — she, he, it, they
 * **open** ***[open]*** *([PONA](#nimi-pona))* - malfermita — open
   * *(WAWA PALISA)* = **kama e**
   * *(... [LAWA PALI°](#nimi-lawa-pali))* - -... — -...
@@ -1464,7 +1464,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **sin** ***[ŝin]*** *([POKA PALISA°](#nimi-poka-palisa-musi))*
   * *(POKA PALISA)* - aldona al, kun — additional to, with
   * *(POKA)* - plia, aldona, nova, freŝa — another, additional, new, fresh
-* **sina** ***[sinä]*** *([LAWA IJO ANU JAN](#nimi-lawa-esun))* - vi — you
+* **sina** ***[sinä]*** *([LAWA ESUN](#nimi-lawa-esun))* - vi — you
 * **sinpin** ~~sanpan~~ ***[ŝjanbjan]*** *([LAWA IJO](#nimi-lawa-ijo))*
   * *(POKA)* - antaŭa — frontal
   * *(LAWA)* - io antaŭa: muro — something frontal: wall
