@@ -410,7 +410,7 @@
   * ~~ijo~~ ***suwi*** *(dolĉaĵo — sweets)*
     * → ***suwi***
 
-##### nimi pi ijo poka
+#### nimi pi ijo poka
 *(Korelativoj — Correlatives)*
 
 * ***ala***, ***ale***, ***ni***, ***seme*** *(neniu, ĉiu, tiu (ĉi), kiu — no, every, that/this, which)*
@@ -444,7 +444,7 @@
 * tomo pi suli ***sama*** ni *(tiom granda domo — a house that big)*
   * → tomo pi suli ni *(domo de tiu grando, tiel granda domo — house of that size, such a big house)*
 
-##### nimi pali
+#### nimi pali
 *(Agaj Vortoj — Doing Words)*
 
 * ***moku*** *(manĝi — to eat)*
