@@ -1174,7 +1174,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **akesi** ***[hagedis]*** *([LAWA JAN°](#nimi-lawa-jan-musi))* = "***sijelo lete***"
   * *(LAWA)* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
   * *(POKA°)* - malvarmsanga — cold-blooded
-* **ala** ***[ara]*** *([LAWA IJO POKA](#nimi-palisa))*
+* **ala** ***[ara]*** *([PALISA](#nimi-palisa))*
   * *(POKA)* - neniu — no
   * *(LAWA)* - nenio — nothing
   * *([POKA NANPA](#nimi-poka-nanpa))* - nul — zero
@@ -1182,7 +1182,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **alasa** ***[a-la-ŝas]*** *([LAWA PALI](#nimi-lawa-pali))*
   * *(WAWA PALISA)* - ĉasi, kolekti — to hunt, to collect
   * *(LAWA)* - io por ĉasi, io por kolekti: foraĝo — something to hunt, something to collect: forage
-* **ale** ***[alle]*** *([LAWA IJO POKA](#nimi-palisa))*
+* **ale** ***[alle]*** *([PALISA](#nimi-palisa))*
   * *(POKA)* - ĉiu — every
   * *(LAWA)* - ĉio — everything
   * *([POKA NANPA](#nimi-poka-nanpa))* - senfine — countless
@@ -1364,7 +1364,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **nena** ***[nenä]*** *([LAWA IJO°](#nimi-lawa-ijo-musi))*
   * *(LAWA)* - io elstara: ĝibo, butono, monto, nazo — something outstanding: bump, button, mountain, nose
   * *(POKA°)* - elstara — outstanding
-* **ni** ***[ni]*** *([LAWA IJO POKA](#nimi-palisa))*
+* **ni** ***[ni]*** *([PALISA](#nimi-palisa))*
   * *(POKA)* - tiu (ĉi) — that, this
   * *(LAWA)* - tio (ĉi) — that thing, this thing
 * **nimi** ***[nimi]*** *([LAWA IJO°](#nimi-lawa-ijo-musi))*
@@ -1427,14 +1427,14 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
     * *(lon ... mute pi)* - inter (multaj) — between (many)
     * *(lon nasin ... pi)* - preter — past
 * **poki** ***[bokis]*** *([LAWA ILO°](#nimi-lawa-ilo-musi))*
-  * *(WAWA PALISA)* - enhavi — to contain
   * *(LAWA)* - organo por enhavi: veziko, ujo, ingo — organ for containing: bladder, container
+  * *(WAWA PALISA°)* - enhavi — to contain
 * **pona** ***[bona]*** *([PONA](#nimi-pona))* - bona, amika, simpla — good, friendly, simple
   * *(... [LAWA PALI](#nimi-lawa-pali))* - -inda — worth -ing
   * *(lon nasin ...)* - rekta — direct
 * **pu** ***[buk]*** *([POKA PALISA°](#nimi-poka-palisa-musi))*
-  * *(POKA PALISA)* - en harmonio kun, laŭ — in harmony with, according to
   * *(POKA)* - harmonia, aganta laŭa, konsultanta la Oficialan Libron de Tokipono — harmonious, according, interacting with the Official Toki Pona Book
+  * *(POKA PALISA°)* - en harmonio kun, laŭ — in harmony with, according to
 * **sama** ***[sama]*** *([POKA PALISA](#nimi-poka-palisa))*
   * *(POKA PALISA)* - kiel — like
   * *(POKA)* - egala, sama, mem — alike, same, self
@@ -1442,10 +1442,10 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **seli** ***[cxeli]*** *([PONA](#nimi-pona))* - varma, arda — warm, hot
   * *([MUN°](#nimi-mun-musi))* marsa, marda — mars's, tuesday's
 * **selo** ***[ŝelo]*** *([LAWA ILO°](#nimi-lawa-ilo-musi))*
-  * *(WAWA PALISA)* - formi — to form
   * *(LAWA)* - organo por formi: haŭto, ŝelo — organ for forming: skin, shell
     * *(lon ... pi)* - sur, koncerne -n — on, affecting
-* **seme** ~~senme~~ ***[ŝenme]*** *([LAWA IJO POKA](#nimi-palisa))*
+  * *(WAWA PALISA°)* - formi — to form
+* **seme** ~~senme~~ ***[ŝenme]*** *([PALISA](#nimi-palisa))*
   * *(POKA)* - kiu — which
   * *(LAWA)* - kio — what
 * **sewi** ***[sevit]*** *([LAWA IJO](#nimi-lawa-ijo))*
