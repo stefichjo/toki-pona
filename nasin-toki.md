@@ -330,6 +330,13 @@
 
 * jan pona ***mi*** *(mia amiko — my friend)*
 
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) li jo e kon sin, la ona li lon [ale pi nimi mute](#ale-pi-nimi-mute) lon poka pi sitelen *(LAWA)*.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [substantivo](#nimi-lawa) havas aldonan signifon, ĝi estas en la [vortaro](#ale-pi-nimi-mute) apud la marko *(LAWA)*.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [noun](#nimi-lawa) has an additional meaning, it is in the [dictionary](#ale-pi-nimi-mute) next to the mark-up *(LAWA)*.
+
+* suwi *(dolĉeco)*
+  * → ***suwi*** *(dolĉaĵo)*
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "[pi](#nimi-lili-pi)" la [nimi lawa](#nimi-lawa) li sama [nimi poka](#nimi-poka).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ **partikulo** "[pi](#nimi-lili-pi)", [substantivo](#nimi-lawa) estas kiel [modifilo](#nimi-poka).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> After a **particle** "[pi](#nimi-lili-pi)", a [noun](#nimi-lawa) is like a [modifier](#nimi-poka).
@@ -360,8 +367,16 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se [radika vorto](#nimi-suli) fariĝas **transitiva** [verbo](#nimi-wawa) kaj havas aldonan signifon, tiu aldona signifo estas en la [vortaro](#ale-pi-nimi-mute) apud la marko *(WAWA PALISA)*.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [content word](#nimi-suli) becomes a **transitive** [verb](#nimi-wawa) and has an additional meaning, this additional meaning is in the [dictionary](#ale-pi-nimi-mute) next to the mark-up *(WAWA PALISA)*.
 
+* sona mi *(mia scio — my knowledge)*
+* mi ***sona e toki pona***. *(Mi konas Tokiponon. — I know Toki Pona.)*
 
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa](#nimi-wawa) li ken lon kama pi [nimi wawa](#nimi-wawa) ante, la ona li [nimi wawa poka](#nimi-wawa-poka) li lon [ale pi mute nimi](#ale-pi-mute-nimi) lon poka pi sitelen *(WAWA POKA)*.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [verbo](#nimi-wawa) povas esti antaŭ alia [verbo](#nimi-wawa), ĝi estas [helpa verbo](#nimi-wawa-poka) kaj ĝi estas en la [vortaro](#ale-pi-mute-nimi) apud la marko *(WAWA POKA)*.
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [verb](#nimi-wawa) can be before another [verb](#nimi-wawa), it is an [auxilary verb](#nimi-wawa-poka) and is in the [dictionary](#ale-pi-mute-nimi) next to the mark-up *(WAWA POKA)*.
 
+* mi toki pona. *(Mi parolas Tokiponon. — I speak Toki Pona.)*
+* mi ***sona*** toki pona. *(Mi scipovas paroli Tokiponon. — I know how to speak Toki Pona.)*
+* mi ***kama*** sona toki pona. *(Mi lernas paroli Tokiponon. — I learn how to speak Toki Pona.)*
 
 
 
