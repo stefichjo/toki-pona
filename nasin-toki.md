@@ -50,14 +50,16 @@
 ### nimi lili
 *(Partikuloj — Particles)*
 
-* [li](#nimi-lili-li)
-* [e](#nimi-lili-e)
-* [o](#nimi-lili-o)
-* [pi](#nimi-lili-pi)
-* [en](#nimi-lili-en-anu)
-* [anu](#nimi-lili-en-anu)
-* [nimi lili toki](#nimi-lili-toki)
-* [nimi lili kalama](#nimi-lili-kalama)
+| nimi lili |
+|:-:|
+| [li](#nimi-lili-li) |
+| [e](#nimi-lili-e) |
+| [o](#nimi-lili-o) |
+| [pi](#nimi-lili-pi) |
+| [en](#nimi-lili-en-anu) |
+| [anu](#nimi-lili-en-anu) |
+| [nimi lili toki](#nimi-lili-toki) |
+| [nimi lili kalama](#nimi-lili-kalama) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kama en pini pi **nimi lili** "[li](#nimi-lili-li)", "[e](#nimi-lili-e)", "[o](#nimi-lili-o)", "[pi](#nimi-lili-pi)", "[en](#nimi-lili-en-anu)", "[anu](#nimi-lili-en-anu)" la [nimi suli](#nimi-suli) li lon.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Antaŭ kaj malantaŭ la **partikuloj** "[li](#nimi-lili-li)", "[e](#nimi-lili-e)", "[o](#nimi-lili-o)", "[pi](#nimi-lili-pi)", "[en](#nimi-lili-en-anu)", "[anu](#nimi-lili-en-anu)" estas [radikaj vortoj](#nimi-suli).  
