@@ -311,7 +311,28 @@
 | [nimi pi ijo anu jan](#nimi-pi-ijo-anu-jan) |
 | [nimi pi ijo poka](#nimi-pi-ijo-poka) |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> mute pi **nimi suli** la nimi nanpa wan li [nimi lawa](#nimi-lawa). **nimi suli** nanpa tu li **nimi poka**.
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli** wan taso li [nimi lawa](#nimi-lawa).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Sola **radika vorto** estas [substantivo](#nimi-lawa).
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A sole **content word** is a [noun](#nimi-lawa).
+
+* ***jan*** *(iu, persono — someone, person)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi [nimi lawa](#nimi-lawa) la **nimi suli** wan taso li [nimi poka](#nimi-poka).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ [substantivo](#nimi-lawa), sola **radika vorto** estas [modifilo](#nimi-poka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After a [noun](#nimi-lawa), a sole **content word** is a [modifier](#nimi-poka).
+
+* jan ***pona*** *(iu bona, bona persono, amiko — someone good, good person, friend)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) en [nimi poka](#nimi-poka) ona li sama [nimi lawa](#nimi-lawa) wan li ken jo e [nimi poka](#nimi-poka) sin.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [substantivo](#nimi-lawa) kaj ĝia [modifilo](#nimi-poka) estas kiel unu [substantivo](#nimi-lawa) kaj povas havi aldonan [modifilon](#nimi-poka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [noun](#nimi-lawa) and its [modifier](#nimi-poka) are like one [noun](#nimi-lawa) and can have an additional [modifier](#nimi-poka).
+
+* jan pona ***mi*** *(mia amiko — my friend)*
+
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> mute pi **nimi suli** la nimi nanpa wan li [nimi lawa](#nimi-lawa). **nimi suli** nanpa tu li **nimi poka**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> En frazero da **radikaj vortoj**, la unua vorto estas [substantivo](#nimi-lawa). La dua **radika vorto** estas **modifilo**. (Oni nomas **modifilon** de **substantivo** — **adjektivo**.)  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> In a content word phrase, the first word is a [noun](#nimi-lawa). The second content word is a **modifier**. (A **noun**'s **modifier** is called an **adjective**.)
 
