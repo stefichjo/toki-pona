@@ -335,6 +335,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> After a **particle** "[pi](#nimi-lili-pi)", a [noun](#nimi-lawa) is like a [modifier](#nimi-poka).
 
 * tomo ***pi jan pona mi*** *(la domo de mia amiko — my friend's house)*
+* toki ***pi pona mute*** *(lingvo de multa bono, tre bona lingvo — a language of much good, a very good language)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "[li](#nimi-lili-li)" la [nimi lawa](#nimi-lawa) li [nimi wawa](#nimi-wawa).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ **partikulo** "[li](#nimi-lili-li)", [substantivo](#nimi-lawa) estas [verbo](#nimi-wawa).  
@@ -346,8 +347,25 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se la [verbo](#nimi-wawa) ne estas [pronomo](#nimi-pi-ijo-anu-jan), ĝi povas esti kiel [modifilo](#nimi-poka) de la subjekto (t.e. la vortoj antaŭ la **partikulo** "[li](#nimi-lili-li)").  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If the [verb](#nimi-wawa) is not a [pronoun](#nimi-pi-ijo-anu-jan), it can be like a [modifier](#nimi-poka) of the subject (i.e. the words before the **particle** "[li](#nimi-lili-li)").
 
-* ona ***li pona mute***. *(Ĝi estas multe da bono. — It is much goodness.)*
-  * → ona ***li pona mute***. *(Ĝi estas tre bona. — It is very good.)*
+* toki ***li pona mute***. *(Lingvoj estas multe da bono. — Languages are much goodness.)*
+  * → toki ***li pona mute***. *(Lingvoj estas tre bonaj. — Languages are very good.)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa](#nimi-wawa) li jo e **nimi lili** "[e](#nimi-lili-e)", la ona li [nimi wawa](#nimi-wawa) **palisa**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [verbo](#nimi-wawa) havas **rektan objekton** (t.e. vortoj malantaŭ **partikulo** "[e](#nimi-lili-e)"), ĝi estas **transitiva** [verbo](#nimi-wawa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [verb](#nimi-lili) has a **direct object** (i.e. words after a **particle** "[e](#nimi-lili-e)"), it is a **transitive** [verb](#nimi-wawa).
+
+* mi ***pona e mi***. *(Mi plibonigas min. — I improve myself.)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli](#nimi-suli) li kama [nimi wawa](#nimi-wawa) **palisa** li jo e kon sin, la kon sin ni li lon [ale pi nimi mute](#ale-pi-nimi-mute) lon poka pi sitelen *(WAWA PALISA)*.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [radika vorto](#nimi-suli) fariĝas **transitiva** [verbo](#nimi-wawa) kaj havas aldonan signifon, tiu aldona signifo estas en la [vortaro](#ale-pi-nimi-mute) apud la marko *(WAWA PALISA)*.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [content word](#nimi-suli) becomes a **transitive** [verb](#nimi-wawa) and has an additional meaning, this additional meaning is in the [dictionary](#ale-pi-nimi-mute) next to the mark-up *(WAWA PALISA)*.
+
+
+
+
+
+
+
 
 --- 
 
