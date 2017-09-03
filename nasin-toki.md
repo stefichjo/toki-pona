@@ -303,6 +303,18 @@
 ### nimi suli
 *(Radikaj Vortoj — Content Words)*
 
+| nimi suli |
+|:-:|
+| [nimi nanpa](#nimi-nanpa) |
+| [nimi palisa](#nimi-palisa) |
+| [nimi pi ijo anu jan](#nimi-pi-ijo-anu-jan) |
+| [nimi jan](#nimi-jan) |
+| [nimi ijo](#nimi-ijo) |
+| [nimi pi ijo poka](#nimi-pi-ijo-poka) |
+| [nimi pali](#nimi-pali) |
+| [nimi ilo](#nimi-ilo) |
+| [nimi sijelo](#nimi-sijelo) |
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli** li ken kama **nimi lawa**, **nimi wawa (palisa)**, **nimi kama**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Radika vorto** povas fariĝi **substantivo**, **(transitiva) verbo** aŭ **modifilo**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A **content word** can become a **noun**, a **(transitive) verb** or a **modifier**.
