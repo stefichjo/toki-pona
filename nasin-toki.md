@@ -330,18 +330,24 @@
 
 * jan pona ***mi*** *(mia amiko — my friend)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> poka pi **nimi lili** "[pi](#nimi-lili-pi)" la [nimi lawa](#nimi-lawa) li sama [nimi poka](#nimi-poka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Apud **partikulo** "[pi](#nimi-lili-pi)", [substantiva frazero](#nimi-lawa) estas kiel [modifilo](#nimi-poka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Next to a **particle** "[pi](#nimi-lili-pi)", a [noun phrase](#nimi-lawa) is like a [modifier](#nimi-poka).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "[pi](#nimi-lili-pi)" la [nimi lawa](#nimi-lawa) li sama [nimi poka](#nimi-poka).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ **partikulo** "[pi](#nimi-lili-pi)", [substantivo](#nimi-lawa) estas kiel [modifilo](#nimi-poka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After a **particle** "[pi](#nimi-lili-pi)", a [noun](#nimi-lawa) is like a [modifier](#nimi-poka).
 
 * tomo ***pi jan pona mi*** *(la domo de mia amiko — my friend's house)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> poka pi **nimi lili** "[li](#nimi-lili-li)" la [nimi lawa](#nimi-lawa) li [nimi wawa](#nimi-wawa).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Apud **partikulo** "[li](#nimi-lili-li)", [substantiva frazero](#nimi-lawa) estas [modifilo](#nimi-wawa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Next to a **particle** "[li](#nimi-lili-li)", a [noun phrase](#nimi-lawa) is a [modifier](#nimi-wawa).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "[li](#nimi-lili-li)" la [nimi lawa](#nimi-lawa) li [nimi wawa](#nimi-wawa).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ **partikulo** "[li](#nimi-lili-li)", [substantivo](#nimi-lawa) estas [verbo](#nimi-wawa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After a **particle** "[li](#nimi-lili-li)", a [noun](#nimi-lawa) is a [verb](#nimi-wawa).
 
-* ona ***li jan pona*** *(Ŝi estas amiko. — She is a friend.)*
+* ona ***li jan pona mi***. *(Ŝi estas mia amiko. — She is a friend of mine.)*
 
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa](#nimi-wawa) li [nimi pi ijo anu jan](#nimi-pi-ijo-anu-jan) ala, la ona li ken sama [nimi poka](#nimi-poka) pi nimi lon kama pi **nimi lili** "[li](#nimi-lili-li)".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se la [verbo](#nimi-wawa) ne estas [pronomo](#nimi-pi-ijo-anu-jan), ĝi povas esti kiel [modifilo](#nimi-poka) de la subjekto (t.e. la vortoj antaŭ la **partikulo** "[li](#nimi-lili-li)").  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If the [verb](#nimi-wawa) is not a [pronoun](#nimi-pi-ijo-anu-jan), it can be like a [modifier](#nimi-poka) of the subject (i.e. the words before the **particle** "[li](#nimi-lili-li)").
+
+* ona ***li pona mute***. *(Ĝi estas multe da bono. — It is much goodness.)*
+  * → ona ***li pona mute***. *(Ĝi estas tre bona. — It is very good.)*
 
 --- 
 
