@@ -385,43 +385,12 @@
 * toki wan *(unika lingvo — a unique language)*
   * → toki ***wan*** *(unu lingvo — one languge)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) li ken lon kama pi [nimi lawa](#nimi-lawa), la ona li [nimi poka palisa](#nimi-poka-palisa) li lon [ale pi mute nimi](#ale-pi-mute-nimi) lon poka pi sitelen *(POKA PALISA)*.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [modifilo](#nimi-poka) povas esti antaŭ [substantivo](#nimi-lawa), ĝi estas [prepozicio](#nimi-poka-palisa) kaj estas en la [vortaro](#ale-pi-mute-nimi) apud la marko *(POKA PALISA)*.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [modifier](#nimi-poka) can be before a [noun](#nimi-lawa), it is a [preposition](#nimi-poka-palisa) and is in the [dictionary](#ale-pi-mute-nimi) next to the mark-up *(POKA PALISA)*.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) li ken lon kama pi [nimi lawa](#nimi-lawa), la ona li [nimi poka palisa](#nimi-poka-palisa) li lon [ale pi mute nimi](#ale-pi-mute-nimi) lon poka pi sitelen *(POKA PALISA)*. jan **Sonja** li kepeken [nimi poka palisa](#nimi-poka-palisa) lon pini pi [mute nimi](#mute-nimi) taso.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [modifilo](#nimi-poka) povas esti antaŭ [substantivo](#nimi-lawa), ĝi estas [prepozicio](#nimi-poka-palisa) kaj estas en la [vortaro](#ale-pi-mute-nimi) apud la marko *(POKA PALISA)*. **Sonja** uzas [prepoziciojn](#nimi-poka-palisa) nur fine de [frazoj](#mute-nimi).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [modifier](#nimi-poka) can be before a [noun](#nimi-lawa), it is a [preposition](#nimi-poka-palisa) and is in the [dictionary](#ale-pi-mute-nimi) next to the mark-up *(POKA PALISA)*. **Sonja** uses [prepositions](#nimi-poka-palisa) only at the end of [sentences](#mute-nimi).
 
 * tomo tawa *(moviĝanta ĉambro, aŭto — moving room, car)*
 * toki pona li pona mute ***tawa*** jan pona mi. *(Mia amiko tre ŝatas Tokiponon. — My friend likes Tokipona very much.)*
-
---- 
-
-
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> mute pi **nimi suli** la nimi poka nanpa wan li [nimi lawa](#nimi-lawa). **nimi suli** nanpa tu li **nimi poka**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> En frazero da **radikaj vortoj**, la unua vorto estas [substantivo](#nimi-lawa). La dua **radika vorto** estas **modifilo**. (Oni nomas **modifilon** de **substantivo** — **adjektivo**.)  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> In a content word phrase, the first word is a [noun](#nimi-lawa). The second content word is a **modifier**. (A **noun**'s **modifier** is called an **adjective**.)
-
-* **toki** **pona** *(simpla lingvo — simple language)*
-
- **nimi suli** li ken kama **nimi lawa**, **nimi wawa (palisa)**, **nimi poka**.  
-**Radika vorto** povas fariĝi **substantivo**, **(transitiva) verbo** aŭ **modifilo**.  
- A **content word** can become a **noun**, a **(transitive) verb** or a **modifier**.
-
-* o pana e ***pona***! *(Helpu! — Help!)*
-* ale li ***pona***. *(Ĉio estas bona. — All is good.)*
-* mi ***pona*** e mi. *(Mi bonigas min. — I improve myself.)*
-* jan ***pona*** *(amiko — friend)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> sin la **nimi poka palisa** li **nimi suli** a. ona li **nimi poka palisa** pi **nimi lawa** anu **mute nimi**. jan **Sonja** li kepeken **nimi poka palisa** lon pini pi **mute nimi** taso.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Aldone, **prepozicioj** ankaŭ estas **radikaj vortoj**.  Ili estas **transitiva modifilo** de **substantivo** aŭ de **frazo**. **Sonja** uzas **prepoziciojn** nur fine de **frazoj**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> In addition, prepositions are content words, too. They are **transitive modifiers** of **nouns** or of **sentences**. **Sonja** uses **prepositions** only at the end of **sentences**.
-
-* mi pona ***tawa*** jan. *(Mi estas bona al homoj. — I'm good to people.)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli** pi mute ala li ken kama **nimi wawa poka**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Malmultaj **radikaj vortoj** povas fariĝi **helpaj verboj**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A few **content words** can become **auxiliary verbs**.
-
-* mi ***wile*** lape. *(Mi bezonas dormi. — I need to sleep.)*
 
 #### nimi poka nanpa
 *(Numeraloj — Numerals)*
