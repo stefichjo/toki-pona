@@ -313,7 +313,7 @@
 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli** wan taso li [nimi lawa](#nimi-lawa).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Sola **radika vorto** estas [substantivo](#nimi-lawa).
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Sola **radika vorto** estas [substantivo](#nimi-lawa).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A sole **content word** is a [noun](#nimi-lawa).
 
 * ***jan*** *(iu, persono — someone, person)*
@@ -325,10 +325,25 @@
 * jan ***pona*** *(iu bona, bona persono, amiko — someone good, good person, friend)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) en [nimi poka](#nimi-poka) ona li sama [nimi lawa](#nimi-lawa) wan li ken jo e [nimi poka](#nimi-poka) sin.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [substantivo](#nimi-lawa) kaj ĝia [modifilo](#nimi-poka) estas kiel unu [substantivo](#nimi-lawa) kaj povas havi aldonan [modifilon](#nimi-poka).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Substantivo](#nimi-lawa) kaj ĝia [modifilo](#nimi-poka) estas kiel unu [substantivo](#nimi-lawa) kaj povas havi aldonan [modifilon](#nimi-poka).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [noun](#nimi-lawa) and its [modifier](#nimi-poka) are like one [noun](#nimi-lawa) and can have an additional [modifier](#nimi-poka).
 
 * jan pona ***mi*** *(mia amiko — my friend)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> poka pi **nimi lili** "[pi](#nimi-lili-pi)" la [nimi lawa](#nimi-lawa) li sama [nimi poka](#nimi-poka).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Apud **partikulo** "[pi](#nimi-lili-pi)", [substantiva frazero](#nimi-lawa) estas kiel [modifilo](#nimi-poka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Next to a **particle** "[pi](#nimi-lili-pi)", a [noun phrase](#nimi-lawa) is like a [modifier](#nimi-poka).
+
+* tomo ***pi jan pona mi*** *(la domo de mia amiko — my friend's house)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> poka pi **nimi lili** "[li](#nimi-lili-li)" la [nimi lawa](#nimi-lawa) li [nimi wawa](#nimi-wawa).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Apud **partikulo** "[li](#nimi-lili-li)", [substantiva frazero](#nimi-lawa) estas [modifilo](#nimi-wawa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Next to a **particle** "[li](#nimi-lili-li)", a [noun phrase](#nimi-lawa) is a [modifier](#nimi-wawa).
+
+* ona ***li jan pona*** *(Ŝi estas amiko. — She is a friend.)*
+
+
+--- 
 
 
 
