@@ -1200,7 +1200,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(WAWA POKA)* - plu- — to continue to
 * **e** ***[he?]*** *([LILI](#nimi-lili-e))* - -n — (accusative)
 * **en** ***[en]*** *([LILI](#nimi-lili-en-anu))* - kaj — and
-* **esun** ***[edẑum]*** *([SIJELO°](#nimi-lawa-sijelo-musi))*
+* **esun** ***[edẑum]*** *([LAWA SIJELO°](#nimi-lawa-sijelo-musi))*
   * *(LAWA)* - interanstataŭanta organizo: metabolo, vendejo, merkato, ekonomio — substituting living being: metabolism, shop, market, economy
     * *([NANPA°](#nimi-poka-nanpa-musi))* sep - seven
   * *([POKA PALISA°](#nimi-poka-palisa))*
@@ -1223,7 +1223,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **jo** ***[jow]*** *([LAWA PALI](#nimi-lawa-pali))*
   * *(WAWA PALISA)* - havi — to have
   * *(LAWA)* - io por havi: propraĵo — something to have: property
-* **kala** ***[kala]*** *([SIJELO](#nimi-lawa-sijelo))* = "***sijelo telo***"
+* **kala** ***[kala]*** *([LAWA SIJELO](#nimi-lawa-sijelo))* = "***sijelo telo***"
   * *([POKA PALISA](#nimi-poka-palisa))*
     * *(POKA PALISA)* - naĝanta en — swimming in
     * *(POKA)* - naĝanta — swimming
@@ -1235,7 +1235,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(lon poka pi suno ...)* - oriente — in the east
 * **kapa** ⇒ **nena**
 * **kapesi** ⇒ **pimeja**, **pimeja walo**, **loje laso**
-* **kasi** ***[kasvi]*** *([SIJELO](#nimi-lawa-sijelo))* = "***sijelo ma***"
+* **kasi** ***[kasvi]*** *([LAWA SIJELO](#nimi-lawa-sijelo))* = "***sijelo ma***"
   * *([POKA PALISA](#nimi-poka-palisa))*
     * *(POKA PALISA)* - kreskanta sur — growing on
     * *(POKA)* - kreskanta — growing
@@ -1388,16 +1388,16 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **pali** ***[fari]*** *([LAWA PALI](#nimi-lawa-pali))* = "***luka e ijo***"
   * *(WAWA PALISA)* - prepari, krei — to prepare, to create
   * *(LAWA)* - io por prepari, io por krei: laboro, tasko — something to prepare, something to create: work, task
-* **palisa** ***[LAWA PALIca]*** *([LAWA IJO°](#nimi-lawa-ijo-musi))*
+* **palisa** ***[palica]*** *([LAWA IJO°](#nimi-lawa-ijo-musi))*
   * *(POKA)* - longa kaj malmola — long and hard
   * *(LAWA)* - io longa kaj malmola: branĉo, bastono — something long and hard: branch, stick
   * *([LAWA ILO°](#nimi-lawa-ilo-musi))*
-    * *(WAWA PALISA)* - celi — to aim
     * *(LAWA)* - organo por celi: fingro — organ for aiming: finger
+    * *(WAWA PALISA°)* - celi — to aim
 * **pan** ***[pan]*** *([LAWA IJO°](#nimi-lawa-ijo-musi))*
-  * *(POKA)* - baza — basic
   * *(LAWA)* - io baza: fundamento, semo, panherbaĵo, pano, nudeloj, rizo — something basic: fundament, seed, cereal, bread, pasta, rice
-    * *(lon ... pi)* - baze de — on the basis of
+    * *(lon ... pi°)* - baze de — on the basis of
+  * *(POKA°)* - baza — basic
 * **pana** ***[?]*** *([LAWA PALI](#nimi-lawa-pali))*= "***luka sin***"
   * *(WAWA PALISA)* - doni, provizi, publikigi — to give, to provide, to publish
   * *(LAWA)* - io por doni, io por provizi, io por publiki: dateno — something to give, something to provide, something to publish: data
@@ -1410,9 +1410,9 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(lon poka ...)* - maldekstra — left
 * **pimeja** ***[pimeä]*** *([PONA](#nimi-pona))* = "***kule ala***" - malhela, nigra — dark, black
 * **pini** ***[fini]*** *([PONA](#nimi-pona))* - finita, pasinta — finished, past
-  * *([WAWA POKA°](#nimi-wawa-poka-musi))* - fini, to stop
   * *(lon ... pi)* - malantaŭ — after
-* **pipi** ~~pipite~~ ***[bibitte]*** *([SIJELO](#nimi-lawa-sijelo))* = "***sijelo noka***"
+  * *([WAWA POKA°](#nimi-wawa-poka-musi))* - fini, to stop
+* **pipi** ~~pipite~~ ***[bibitte]*** *([LAWA SIJELO](#nimi-lawa-sijelo))* = "***sijelo noka***"
   * *([POKA PALISA](#nimi-poka-palisa))*
     * *(POKA PALISA)* - rampi sur — crawling on
     * *(POKA)* - rampanta — crawling
@@ -1532,7 +1532,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **wan** ***[wan]*** *([PONA](#nimi-pona))* - unika, unueca — unique, united
   * *([POKA NANPA](#nimi-poka-nanpa))* - unu — one
     * *(... LAWA)* - -ero — one piece of
-* **waso** ***[wazo]*** *([SIJELO](#nimi-lawa-sijelo))* = "***sijelo kon***"
+* **waso** ***[wazo]*** *([LAWA SIJELO](#nimi-lawa-sijelo))* = "***sijelo kon***"
   * *([POKA PALISA](#nimi-poka-palisa))*
     * *(POKA)* - fluganta — flying
     * *(POKA PALISA)* - fluganta en — flying in
