@@ -1167,7 +1167,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(POKA)* - ja, eĉ, efektive — so, even, indeed
     * *([KALAMA°](#nimi-lili-kalama-musi))* - jes — yes
     * *(... [PALI°](#nimi-lawa-pali))* - -ata — being -ed
-* **akesi** ***[hagedis]*** *([JAN°](#nimi-lawa-jan-musi))* = "***sijelo lete***"
+* **akesi** ***[hagedis]*** *([LAWA JAN°](#nimi-lawa-jan-musi))* = "***sijelo lete***"
   * *(POKA)* - malvarmsanga — cold-blooded
   * *(LAWA)* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
 * **ala** ***[ara]*** *([IJO POKA](#nimi-palisa))*
@@ -1264,7 +1264,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(POKA)* - ŝvebanta — hovering
   * *(LAWA)* - io ŝvebanta: aero, spirito, esenco, kaŝita realo — something hovering: air, spirit, essence, hidden reality
 * **kule** ***[kuler]*** *([SULI](#nimi-suli))* - kolora, pentrita — colorful, painted
-* **kulupu** ***[grup]*** *([JAN°](#nimi-lawa-jan-musi))*
+* **kulupu** ***[grup]*** *([LAWA JAN°](#nimi-lawa-jan-musi))*
   * *(POKA)* - reciproka — reciprocal
   * *(LAWA)* - reciproka animaĵo: komunumo, kompanio, grupo, nacio, socio, tribo — reciprocal animated being: community, company, group, nation, society, tribe
 * **kute** ~~ekute~~ ***[ekute]*** *([ILO](#nimi-lawa-ilo))*
@@ -1313,17 +1313,17 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(LAWA)* - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero — something vast: earth, soil, land, field, world, territory, outdoors
   * *([MUN°](#nimi-mun-musi))* saturna, sabata — saturn's, saturday's
 * **majuna** ***[maljuna]*** ⇒ **suli**, **pi tenpo suli**
-* **mama** ***[mama]*** *([JAN°](#nimi-lawa-jan-musi))*
+* **mama** ***[mama]*** *([LAWA JAN°](#nimi-lawa-jan-musi))*
   * *(POKA)* - protektanta — protecting
   * *(LAWA)* - protektanta animaĵo: gepatro — protecting animated being: parent
 * **mani** ***[mani]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *(POKA)* - valora — valueable
   * *(LAWA)* - io valora: mono, ŝparaĵo, riĉeco, granda malsovaĝigita besto — something valueable: money, savings, wealth, large domesticated animal
-* **meli** ***[meri]*** *([JAN](#nimi-lawa-jan))*
+* **meli** ***[meri]*** *([LAWA JAN](#nimi-lawa-jan))*
   * *(POKA)* - ina — female
   * *(LAWA)* - ina animaĵo: virino, edzino — female animated being: woman, wife
 * **mi** ***[mi]*** *([IJO ANU JAN](#nimi-lawa-esun))* - mi, ni — I, we
-* **mije** ***[mies]*** *([JAN](#nimi-lawa-jan))*
+* **mije** ***[mies]*** *([LAWA JAN](#nimi-lawa-jan))*
   * *(POKA)* - vira — male
   * *(LAWA)* - vira animaĵo: viro, edzo — male animated being: man, husband
 * **moku** ***[mogu]*** *([PALI](#nimi-lawa-pali))* = "***pana e ijo tawa uta***"
@@ -1473,7 +1473,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(WAWA PALISA)* - scii — to know
   * *(LAWA)* - io por scii: fakto — something to know: fact
   * *(WAWA POKA)* - scipovi — to know how to
-* **soweli** ***[cxoveli]*** *([JAN°](#nimi-lawa-jan-musi))* = "***sijelo seli***"
+* **soweli** ***[cxoveli]*** *([LAWA JAN°](#nimi-lawa-jan-musi))* = "***sijelo seli***"
   * *(POKA)* - varmsanga — warm-blooded
   * *(LAWA)* - varmsanga animaĵo: mamulo — warm-blooded animated being: mammal
 * **suli** ***[suuri]*** *([SULI](#nimi-suli))* ***≠ lili*** - granda, peza, grava, plenkreska — big, heavy, important, adult
@@ -1530,8 +1530,8 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
     * *(... LAWA)* - -ero — one piece of
 * **waso** ***[wazo]*** *([SIJELO](#nimi-lawa-sijelo))* = "***sijelo kon***"
   * *([POKA PALISA](#nimi-poka-palisa))*
-    * *(POKA PALISA)* - fluganta en — flying in
     * *(POKA)* - fluganta — flying
+    * *(POKA PALISA)* - fluganta en — flying in
   * *(LAWA)* - fluganta vivaĵo: birdo — flying living being: bird
 * **wawa** ***[vahva]*** *([SULI](#nimi-suli))* ***≠ lili*** - forta — strong
 * **weka** ~~we~~ ***[wex]*** *([POKA PALISA°](#nimi-poka-palisa-musi))*
