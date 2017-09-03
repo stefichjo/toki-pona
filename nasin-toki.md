@@ -1,6 +1,14 @@
 # nasin toki pi toki pona
 *(Gramatiko de Tokipono — Grammar of Toki Pona)*
 
+| toki |
+|:-:|
+| [toki lili](#toki-lili) |
+| [toki namako](#toki-namako) |
+| [toki musi](#toki-musi) |
+| [toki nasa](#toki-nasa) |
+| [toki sin](#toki-sin) |
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> wan lipu "[toki lili](#toki-lili)" li toki e nasin toki pi jan ale pi toki pona e nasin pona pi jan **Sonja**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La sekcio "[Kerna Lingvaĵo](#toki-lili)" traktas la lingvouzon de ĉiuj tokiponistoj kaj la "ponan" stilon de **Sonja**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The section "[Core Language](#toki-lili)" treats the way every Toki Pona speaker uses the language and **Sonja**'s "pona" style.
@@ -602,6 +610,12 @@
 
 # toki kulupu
 *(Komunuma Lingvaĵo — Community Language)*
+
+| toki kulupu |
+|:-:|
+| [toki musi](#toki-musi) |
+| [toki nasa](#toki-nasa) |
+| [toki sin](#toki-sin) |
 
 ## toki musi
 *(Eksperimenta Lingvaĵo — Experimental Language)*
