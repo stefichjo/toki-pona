@@ -64,6 +64,7 @@
 |:-:|
 | [nimi lili](#nimi-lili) |
 | [nimi suli](#nimi-suli) |
+| [mute nimi](#mute-nimi) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili](#nimi-lili) en [nimi suli](#nimi-suli) li lon.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Estas [partikuloj](#nimi-lili) kaj [radikaj vortoj](#nimi-suli).  
@@ -110,9 +111,9 @@
 * sina nanpa ***wan***. *(Vi estas la numero unu. — You're number one.)*
 * toki ***nanpa wan***. *(la lingvo numero unu — the language number one)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li pana e nimi sama tawa nimi "seme", "taso". taso lipu ni la nimi tu ni li [nimi suli](#nimi-suli): nimi "seme" li [nimi pi ijo poka](#nimi-pi-ijo-poka), nimi "taso" li [nimi poka palisa musi](#nimi-poka-palisa-musi).   
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** nomas same la vortojn "seme", "taso". Sed en tiu ĉi libro, tiuj du vortoj estas [radikaj vortoj](#nimi-suli): "seme" estas [korelativo](#nimi-pi-ijo-poka) kaj "taso" estas [eksperimenta prepozicio](#nimi-poka-palisa-musi).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** calls the words "seme", "taso" in the same way. But in this book, these two words are [content words](#nimi-suli): "seme" is a [correlative](#nimi-pi-ijo-poka) and "taso" is an [experimental preposition](#nimi-poka-palisa-musi).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li pana e nimi sama tawa nimi "seme", "taso". taso lipu ni la nimi tu ni li [nimi suli](#nimi-suli): nimi "seme" li [nimi palisa](#nimi-palisa), nimi "taso" li [nimi poka palisa musi](#nimi-poka-palisa-musi).   
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** nomas same la vortojn "seme", "taso". Sed en tiu ĉi libro, tiuj du vortoj estas [radikaj vortoj](#nimi-suli): "seme" estas [korelativo](#nimi-palisa) kaj "taso" estas [eksperimenta prepozicio](#nimi-poka-palisa-musi).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** calls the words "seme", "taso" in the same way. But in this book, these two words are [content words](#nimi-suli): "seme" is a [correlative](#nimi-palisa) and "taso" is an [experimental preposition](#nimi-poka-palisa-musi).
 
 #### nimi lili "li"
 *(Subjekto kaj Predikato — Subject and Predicate)*
@@ -328,14 +329,9 @@
 | nimi suli |
 |:-:|
 | [nimi lawa](#nimi-lawa) |
-| [nimi wawa palisa](#nimi-wawa-palisa) |
-| [nimi wawa poka](#nimi-wawa-poka) |
-| [nimi poka nanpa](#nimi-poka-nanpa) |
-| [nimi poka palisa](#nimi-poka-palisa) |
-
-| [nimi lawa esun](#nimi-lawa-esun) |
-| [nimi pi ijo poka](#nimi-pi-ijo-poka) |
-
+| [nimi wawa](#nimi-wawa) |
+| [nimi poka](#nimi-poka) |
+| [nimi palisa](#nimi-palisa) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli** wan taso li [nimi lawa](#nimi-lawa).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Sola **radika vorto** estas [substantivo](#nimi-lawa).  
@@ -417,7 +413,71 @@
 * tomo tawa *(moviĝanta ĉambro, aŭto — moving room, car)*
 * toki pona li pona mute ***tawa*** jan pona mi. *(Mia amiko tre ŝatas Tokiponon. — My friend likes Toki Pona very much.)*
 
-#### nimi poka nanpa
+#### nimi lawa
+*(Substantivoj — Nouns)*
+
+| nimi lawa |
+|:-:|
+| [nimi lawa esun](#nimi-lawa-esun) |
+| [nimi lawa jan](#nimi-lawa-jan) |
+| [nimi lawa ijo](#nimi-lawa-ijo) |
+| [nimi lawa pali](#nimi-lawa-pali) |
+| [nimi lawa ilo](#nimi-lawa-ilo) |
+| [nimi lawa sijelo](#nimi-lawa-sijelo) |
+
+* ***ijo*** *(io — something)*
+* ***jan*** *(iu — somebody)*
+
+##### nimi lawa esun
+*(Pronomoj — Pronouns)*
+
+* ***mi*** *(mi, ni — I, we)*
+* ***sina*** *(vi — you)*
+* ***ona*** *(ŝi, li, ĝi, ili — she, he, it, they)*
+
+##### nimi lawa jan
+*(Ulaj Substantivoj — Person Nouns)*
+
+* ***meli*** *(ina — female)*
+  * ~~jan~~ ***meli*** *(virino — woman)*
+    * → ***meli***
+
+##### nimi lawa ijo
+*(Aĵaj Substantivoj — Thing Nouns)*
+
+* ***suwi*** *(dolĉa — sweet)*
+  * ~~ijo~~ ***suwi*** *(dolĉaĵo — sweets)*
+    * → ***suwi***
+
+##### nimi lawa pali
+*(Agaj Substantivoj — Doing Nouns)*
+
+* ***moku*** *(manĝi — to eat)*
+  * ~~ijo~~ ***moku*** *(manĝo — food)*
+    * → ***moku***
+
+##### nimi lawa ilo
+*(Ilaj Substantivoj — Tool Nouns)*
+
+* ***lukin*** *(vidi — to see)*
+  * ~~ilo~~ ***lukin*** *(okulo — eye)*
+    * → ***lukin***
+
+##### nimi lawa sijelo
+*(Korpaj Substantivoj — Body Nouns)*
+
+* ***kala*** *(fiŝo — fish)*
+
+#### nimi wawa
+
+#### nimi poka
+
+| nimi poka |
+|:-:|
+| [nimi poka nanpa](#nimi-poka-nanpa) |
+| [nimi poka palisa](#nimi-poka-palisa) |
+
+##### nimi poka nanpa
 *(Numeraloj — Numerals)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ala", "wan", "tu", "luka", "ale" li ken kama **nimi poka nanpa**.  
@@ -426,7 +486,7 @@
 
 * luka ***wan*** li jo e palisa ***luka***. *(Unu mano havas kvin fingrojn. — One hand has five fingers.)*
 
-#### nimi poka palisa
+##### nimi poka palisa
 *(Prepozicioj — Prepositions)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi poka palisa** li ken **nimi poka palisa** li ken **nimi poka (pi palisa ala)** li ken **nimi wawa**.  
@@ -468,60 +528,7 @@
 * open ~~tawa~~ ***lukin*** *(malfermita laŭ la okuloj → transparenta — open according to the eye → transparent)*
   * → open ***lukin***
 
-#### nimi lawa
-*(Substantivoj — Nouns)*
-
-| nimi lawa |
-|:-:|
-| [nimi lawa jan](#nimi-lawa-jan) |
-| [nimi lawa ijo](#nimi-lawa-ijo) |
-| [nimi lawa pali](#nimi-lawa-pali) |
-| [nimi lawa ilo](#nimi-lawa-ilo) |
-| [nimi lawa sijelo](#nimi-lawa-sijelo) |
-
-##### nimi lawa jan
-*(Ulaj Substantivoj — Person Nouns)*
-
-* ***meli*** *(ina — female)*
-  * ~~jan~~ ***meli*** *(virino — woman)*
-    * → ***meli***
-
-##### nimi lawa ijo
-*(Aĵaj Substantivoj — Thing Nouns)*
-
-* ***suwi*** *(dolĉa — sweet)*
-  * ~~ijo~~ ***suwi*** *(dolĉaĵo — sweets)*
-    * → ***suwi***
-
-##### nimi lawa pali
-*(Agaj Substantivoj — Doing Nouns)*
-
-* ***moku*** *(manĝi — to eat)*
-  * ~~ijo~~ ***moku*** *(manĝo — food)*
-    * → ***moku***
-
-##### nimi lawa ilo
-*(Ilaj Substantivoj — Tool Nouns)*
-
-* ***lukin*** *(vidi — to see)*
-  * ~~ilo~~ ***lukin*** *(okulo — eye)*
-    * → ***lukin***
-
-##### nimi lawa sijelo
-*(Korpaj Substantivoj — Body Nouns)*
-
-* ***kala*** *(fiŝo — fish)*
-
-#### nimi lawa esun
-*(Pronomoj — Pronouns)*
-
-* ***mi*** *(mi, ni — I, we)*
-* ***sina*** *(vi — you)*
-* ***ona*** *(ŝi, li, ĝi, ili — she, he, it, they)*
-* ***jan*** *(iu — somebody)*
-* ***ijo*** *(io — something)*
-
-#### nimi pi ijo poka
+#### nimi palisa
 *(Korelativoj — Correlatives)*
 
 * ***ala***, ***ale***, ***ni***, ***seme*** *(neniu, ĉiu, tiu (ĉi), kiu — no, every, that/this, which)*
@@ -529,7 +536,7 @@
   * ~~ijo~~ ***ala***, ~~ijo~~ ***ale***, ~~ijo~~ ***ni***, ~~ijo~~ ***seme*** *(nenio, ĉio, tio (ĉi), kio — nothing, everything,  that/this thing, what)*
     * → ***ala***, ***ale***, ***ni***, ***seme***
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi pi ijo poka** li ken kama sin.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi palisa** li ken kama sin.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> En genitiva frazero (t.e. la vortoj malantaŭ la **partikulo** "pi"), "ijo" antaŭ **korelativo** povas reaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> In a genitive clause (i.e. the words behind the **particle** "pi"), "ijo" before a **correlative** can reappear.
 
@@ -1131,9 +1138,9 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * jan wanu *(jan wan)*
     * toko wanua → toko nanpo wanu *(toki nanpa wan)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi pi ijo poka](#nimi-pi-ijo-poka) "ala", "ale", "ni", "seme" tan toki pona li nimi Tapejoto lon **Pona Toko**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La tokiponaj [korelativoj](#nimi-pi-ijo-poka) "ala", "ale", "ni" kaj "seme" estas tabelvortoj en **Pona Toko**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The Toki Pona [correlatives](#nimi-pi-ijo-poka) "ala", "ale", "ni" and "seme" are table words in **Pona Toko**.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi palisa](#nimi-palisa) "ala", "ale", "ni", "seme" tan toki pona li nimi Tapejoto lon **Pona Toko**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La tokiponaj [korelativoj](#nimi-palisa) "ala", "ale", "ni" kaj "seme" estas tabelvortoj en **Pona Toko**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The Toki Pona [correlatives](#nimi-palisa) "ala", "ale", "ni" and "seme" are table words in **Pona Toko**.
 
 * ***semeal*** oni estas nie? *(tan seme la ona li lon ni?)*
   * → ***tan semeo*** oni estas lon nio?
@@ -1163,7 +1170,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **akesi** ***[hagedis]*** *([JAN°](#nimi-lawa-jan-musi))* = "***sijelo lete***"
   * *(KAMA)* - malvarmsanga — cold-blooded
   * *(LAWA)* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
-* **ala** ***[ara]*** *([IJO POKA](#nimi-pi-ijo-poka))*
+* **ala** ***[ara]*** *([IJO POKA](#nimi-palisa))*
   * *(KAMA)* - neniu — no
   * *(LAWA)* - nenio — nothing
   * *([POKA NANPA](#nimi-poka-nanpa))* - nul — zero
@@ -1171,7 +1178,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **alasa** ***[a-la-ŝas]*** *([PALI](#nimi-lawa-pali))*
   * *(WAWA PALISA)* - ĉasi, kolekti — to hunt, to collect
   * *(LAWA)* - io por ĉasi, io por kolekti: foraĝo — something to hunt, something to collect: forage
-* **ale** ***[alle]*** *([IJO POKA](#nimi-pi-ijo-poka))*
+* **ale** ***[alle]*** *([IJO POKA](#nimi-palisa))*
   * *(KAMA)* - ĉiu — every
   * *(LAWA)* - ĉio — everything
   * *([POKA NANPA](#nimi-poka-nanpa))* - senfine — countless
@@ -1353,7 +1360,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **nena** ***[nenä]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *(KAMA)* - elstara — outstanding
   * *(LAWA)* - io elstara: ĝibo, butono, monto, nazo — something outstanding: bump, button, mountain, nose
-* **ni** ***[ni]*** *([IJO POKA](#nimi-pi-ijo-poka))*
+* **ni** ***[ni]*** *([IJO POKA](#nimi-palisa))*
   * *(KAMA)* - tiu (ĉi) — that, this
   * *(LAWA)* - tio (ĉi) — that thing, this thing
 * **nimi** ***[nimi]*** *([IJO°](#nimi-lawa-ijo-musi))*
@@ -1434,7 +1441,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(WAWA PALISA)* - formi — to form
   * *(LAWA)* - organo por formi: haŭto, ŝelo — organ for forming: skin, shell
     * *(lon ... pi)* - sur, koncerne -n — on, affecting
-* **seme** ~~senme~~ ***[ŝenme]*** *([IJO POKA](#nimi-pi-ijo-poka))*
+* **seme** ~~senme~~ ***[ŝenme]*** *([IJO POKA](#nimi-palisa))*
   * *(KAMA)* - kiu — which
   * *(LAWA)* - kio — what
 * **sewi** ***[sevit]*** *([IJO](#nimi-lawa-ijo))*
