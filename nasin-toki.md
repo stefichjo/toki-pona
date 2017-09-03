@@ -262,7 +262,7 @@
 * toki pi nimi "***Epelanto***" *(Esperanto — Esperanto)*
   * → toki ***Epelanto***
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li weka e [nimi lili "pi"](#nimi-lili-pi) lon kama pi nimi "nanpa" lon poka pi **nimi nanpa**. jan **Pije** li weka ala e [nimi lili "pi"](#nimi-lili-pi) ni.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li weka e [nimi lili "pi"](#nimi-lili-pi) lon kama pi nimi "nanpa" lon poka pi **nimi poka nanpa**. jan **Pije** li weka ala e [nimi lili "pi"](#nimi-lili-pi) ni.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** forigas la [partikulon "pi"](#nimi-lili-pi) antaŭ "nanpa" kun **numeralo**. **Pije** ne forigas tian [partikulon "pi"](#nimi-lili-pi).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** removes the [particle "pi"](#nimi-lili-pi) before "nanpa" with a **numeral**. **Pije** doesn't remove such a [particle "pi"](#nimi-lili-pi).
 
@@ -305,7 +305,7 @@
 
 | nimi suli |
 |:-:|
-| [nimi nanpa](#nimi-nanpa) |
+| [nimi poka nanpa](#nimi-poka-nanpa) |
 | [nimi palisa](#nimi-palisa) |
 | [nimi lawa](#nimi-lawa) |
 | [nimi pi ijo anu jan](#nimi-pi-ijo-anu-jan) |
@@ -370,23 +370,26 @@
 * sona mi *(mia scio — my knowledge)*
 * mi ***sona e toki pona***. *(Mi konas Tokiponon. — I know Toki Pona.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa](#nimi-wawa) li ken lon kama pi [nimi wawa](#nimi-wawa) ante, la ona li [nimi wawa poka](#nimi-wawa-poka) li lon [ale pi mute nimi](#ale-pi-mute-nimi) lon poka pi sitelen *(WAWA POKA)*.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [verbo](#nimi-wawa) povas esti antaŭ alia [verbo](#nimi-wawa), ĝi estas [helpa verbo](#nimi-wawa-poka) kaj ĝi estas en la [vortaro](#ale-pi-mute-nimi) apud la marko *(WAWA POKA)*.
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [verb](#nimi-wawa) can be before another [verb](#nimi-wawa), it is an [auxilary verb](#nimi-wawa-poka) and is in the [dictionary](#ale-pi-mute-nimi) next to the mark-up *(WAWA POKA)*.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa](#nimi-wawa) li ken lon kama pi [nimi wawa](#nimi-wawa) ante, la ona li [nimi wawa poka](#nimi-wawa-poka) li lon [ale pi nimi mute](#ale-pi-nimi-mute) lon poka pi sitelen *(WAWA POKA)*.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [verbo](#nimi-wawa) povas esti antaŭ alia [verbo](#nimi-wawa), ĝi estas [helpa verbo](#nimi-wawa-poka) kaj ĝi estas en la [vortaro](#ale-pi-nimi-mute) apud la marko *(WAWA POKA)*.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [verb](#nimi-wawa) can be before another [verb](#nimi-wawa), it is an [auxilary verb](#nimi-wawa-poka) and is in the [dictionary](#ale-pi-nimi-mute) next to the mark-up *(WAWA POKA)*.
 
 * mi toki pona. *(Mi parolas Tokiponon. — I speak Toki Pona.)*
 * mi ***sona*** toki pona. *(Mi scipovas paroli Tokiponon. — I know how to speak Toki Pona.)*
 * mi ***kama*** sona toki pona. *(Mi lernas paroli Tokiponon. — I learn how to speak Toki Pona.)*
 
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) li ken jo e kon nanpa, la ona li [nimi poka nanpa](#nimi-poka-nanpa) li lon [ale pi nimi mute](#ale-pi-nimi-mute) lon poka pi sitelen *(POKA NANPA)*.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [modifilo](#nimi-poka) povas havi la signifon de numero, ĝi estas [numeralo](#nimi-poka-nanpa) kaj estas en la [vortaro](#ale-pi-nimi-mute) apud la marko *(POKA NANPA)*.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [modifier](#nimi-poka) can have the meaning of a number, it is a [numeral](#nimi-poka-nanpa) and is in the [dictionary](#ale-pi-nimi-mute) next to the mark-up *(POKA NANPA)*.
 
-
-
+* toki wan *(unika lingvo — a unique language)*
+  * → toki ***wan*** *(unu lingvo — one languge)*
 
 --- 
 
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> mute pi **nimi suli** la nimi nanpa wan li [nimi lawa](#nimi-lawa). **nimi suli** nanpa tu li **nimi poka**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> mute pi **nimi suli** la nimi poka nanpa wan li [nimi lawa](#nimi-lawa). **nimi suli** nanpa tu li **nimi poka**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> En frazero da **radikaj vortoj**, la unua vorto estas [substantivo](#nimi-lawa). La dua **radika vorto** estas **modifilo**. (Oni nomas **modifilon** de **substantivo** — **adjektivo**.)  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> In a content word phrase, the first word is a [noun](#nimi-lawa). The second content word is a **modifier**. (A **noun**'s **modifier** is called an **adjective**.)
 
@@ -413,10 +416,10 @@
 
 * mi ***wile*** lape. *(Mi bezonas dormi. — I need to sleep.)*
 
-#### nimi nanpa
+#### nimi poka nanpa
 *(Numeraloj — Numerals)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ala", "wan", "tu", "luka", "ale" li ken kama **nimi nanpa**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ala", "wan", "tu", "luka", "ale" li ken kama **nimi poka nanpa**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> "ala", "wan", "tu", "luka" kaj "ale" povas fariĝi **numeraloj**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ala", "wan", "tu", "luka" and "ale" can become **numerals**.
 
@@ -594,10 +597,10 @@
   * → ona ~~li tawa~~ li ***sike e*** tomo sona.
     * → ona li ***sike e*** tomo sona.
 
-### nimi nanpa namako
+### nimi poka nanpa namako
 *(Aldonaj Numeraloj — Additional Numerals)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi nanpa** tu la **sitelen nanpa** li ken kama weka.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi poka nanpa** tu la **sitelen nanpa** li ken kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Ĉe du **numeraloj**, la **komo** povas malaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> With two **numerals**, the **comma** can disappear.
 
@@ -649,24 +652,24 @@
   * → mi pana e pona tawa tomo.
     * → mi pana e ni: tomo li pona.
 
-### nimi nanpa musi
+### nimi poka nanpa musi
 *(Eksperimentaj Numeraloj — Experimental Numerals)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "mute", "esun" li [nimi nanpa](#nimi-nanpa) musi.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "mute" kaj "esun" estas eksperimentaj [numeraloj](#nimi-nanpa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "mute" and "esun" are experimental [numerals](#nimi-nanpa).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "mute", "esun" li [nimi poka nanpa](#nimi-poka-nanpa) musi.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "mute" kaj "esun" estas eksperimentaj [numeraloj](#nimi-poka-nanpa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "mute" and "esun" are experimental [numerals](#nimi-poka-nanpa).
 
 * tenpo suno ***esun*** *(sep tagoj — seven days)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi nanpa](#nimi-nanpa) li ken kama **nimi lawa**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Numeralo](#nimi-nanpa) povas fariĝi **substantivo**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [numeral](#nimi-nanpa) can become a **noun**.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka nanpa](#nimi-poka-nanpa) li ken kama **nimi lawa**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Numeralo](#nimi-poka-nanpa) povas fariĝi **substantivo**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [numeral](#nimi-poka-nanpa) can become a **noun**.
 
 * mi jo e kili tu. ***wan*** ona li loje. ***wan*** ante li jelo. *(Mi havas du pomojn. Unu el ili estas ruĝa. La alia estas flava. — I have two apples. One of them is red. The other one is yellow.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "en"](#nimi-lili-en-anu) li ken lon [nimi nanpa](#nimi-nanpa) tu.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [konjunkcio "en"](#nimi-lili-en-anu) povas esti ĉe du [numeraloj](#nimi-nanpa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [conjunction "en"](#nimi-lili-en-anu) can be with two [numerals](#nimi-nanpa).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "en"](#nimi-lili-en-anu) li ken lon [nimi poka nanpa](#nimi-poka-nanpa) tu.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [konjunkcio "en"](#nimi-lili-en-anu) povas esti ĉe du [numeraloj](#nimi-poka-nanpa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [conjunction "en"](#nimi-lili-en-anu) can be with two [numerals](#nimi-poka-nanpa).
 
 * tenpo suno esun tu *(du semajnoj — two weeks)*
 * tenpo suno ***luka tu en tu tu*** *(dek kvar tagoj — fourteen days)*
@@ -876,7 +879,7 @@
 #### nimi lili "la"
 *(Stranga Kunteksta Frazero — Strange Contextual Fragment)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ala la jan **Pije** li nimi nanpa wan e [nimi palisa](#nimi-palisa) lon kama pi **nimi lili** "[la](#nimi-lili-la)".  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ala la jan **Pije** li nimi poka nanpa wan e [nimi palisa](#nimi-palisa) lon kama pi **nimi lili** "[la](#nimi-lili-la)".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** neniam uzas [prepozicion](#nimi-palisa) kiel la unuan vorton en **kunteksta frazero** (t.e. la vortoj antaŭ la **partikulo** "[la](#nimi-lili-la)").  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** never uses [prepositions](#nimi-palisa) as the first word in a **contextual fragment** (i.e. the words before the [particle "la"](#nimi-lili)).
 
@@ -1009,9 +1012,9 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 ### pini nimi nasa pi ijo mute
 *(Strangaj Multenombroj — Strange Plurals)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **pini nimi** "-s" li jo e kon pi [nimi nanpa](#nimi-nanpa) "mute".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La **finaĵo** "-s" havas la signifon de la [numeralo](#nimi-nanpa) "mute".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The **ending** "-s" has the meaning of the [numeral](#nimi-nanpa) "mute".
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **pini nimi** "-s" li jo e kon pi [nimi poka nanpa](#nimi-poka-nanpa) "mute".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La **finaĵo** "-s" havas la signifon de la [numeralo](#nimi-poka-nanpa) "mute".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The **ending** "-s" has the meaning of the [numeral](#nimi-poka-nanpa) "mute".
 
 * jan pona mute li lon. *(Estas multaj amikoj. — There are many friends.)*
   * → jan**s** pona**s** li lon**s**.
@@ -1028,7 +1031,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 
 * ~~anu~~ → ***an*** *(aŭ — or)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> wan nimi nanpa wan li ken ala jo e kalama "i" anu kalama "u". wan nimi ante li ken ala jo e kalama "e" anu kalama "o".  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> wan nimi poka nanpa wan li ken ala jo e kalama "i" anu kalama "u". wan nimi ante li ken ala jo e kalama "e" anu kalama "o".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La unua silabo ne povas havi la vokalon "i" aŭ "u". La aliaj silaboj ne povas havi la vokalon "e" aŭ "o".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The first syllable can not have the vowel "i" or "u". The other syllables can not have the vowel "e" or "o".
 
@@ -1105,9 +1108,9 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * la ***Sonja***-jano *(jan Sonja)*
   * → ***Sonja***
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi nanpa](#nimi-nanpa) li jo e pini nimi "-u".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Numeraloj](#nimi-nanpa) havas la finaĵon "-u".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Numerals](#nimi-nanpa) have the ending "-u".
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka nanpa](#nimi-poka-nanpa) li jo e pini nimi "-u".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Numeraloj](#nimi-poka-nanpa) havas la finaĵon "-u".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Numerals](#nimi-poka-nanpa) have the ending "-u".
 
 * la kulupo estas wana. *(kulupu li wan)*
   * jan wanu *(jan wan)*
@@ -1148,7 +1151,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **ala** ***[ara]*** *([IJO POKA](#nimi-pi-ijo-poka))*
   * *(KAMA)* - neniu — no
   * *(LAWA)* - nenio — nothing
-  * *([NANPA](#nimi-nanpa))* - nul — zero
+  * *([POKA NANPA](#nimi-poka-nanpa))* - nul — zero
   * *(lon poka pi suno ...)* - nordpoluse/sudpoluse, norde/sude — at the northpole/southpole, in the north/south
 * **alasa** ***[a-la-ŝas]*** *([PALI](#nimi-pali))*
   * *(WAWA PALISA)* - ĉasi, kolekti — to hunt, to collect
@@ -1156,7 +1159,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **ale** ***[alle]*** *([IJO POKA](#nimi-pi-ijo-poka))*
   * *(KAMA)* - ĉiu — every
   * *(LAWA)* - ĉio — everything
-  * *([NANPA](#nimi-nanpa))* - senfine — countless
+  * *([POKA NANPA](#nimi-poka-nanpa))* - senfine — countless
     * *(... LAWA)* - tuta, ĉiom da — whole, all of
 * **ali** ⇒ **ale**
 * **anpa** ***[an-bas]*** *([SULI](#nimi-suli))* - malalta, kliniĝi, klinsaluti — low, bending, bowing
@@ -1176,7 +1179,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
     * *(POKA PALISA)* - anstataŭ — in exchange for, instead of
     * *(KAMA)* - anstataŭa — substitute
   * *(LAWA)* - anstataŭanta vivaĵo: metabolo, vendejo, merkato — substituting living being: metabolism, shop, market
-    * *([NANPA°](#nimi-nanpa-musi))* sep - seven
+    * *([NANPA°](#nimi-poka-nanpa-musi))* sep - seven
 * **ijo** ***[io]*** *(LAWA)* - io — something
   * *(e ... pi)* - pri — about
 * **ike** ~~ikeja~~ ***[ilkeä]*** *([SULI](#nimi-suli))* ***≠ pona*** - malbona, superflua — bad, superfluous
@@ -1274,7 +1277,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **luka** ***[ruka]*** *([ILO°](#nimi-ilo-musi))*
   * *(WAWA PALISA)* - tuŝi — to touch
   * *(LAWA)* - organo por tuŝi: mano, brako — organ for touching: hand, arm
-  * *([NANPA](#nimi-nanpa))* - kvin — five
+  * *([POKA NANPA](#nimi-poka-nanpa))* - kvin — five
 * **lukin** ***[luk-him]*** *([ILO](#nimi-ilo))*
   * *(WAWA PALISA)* - vidi — to see
   * *(LAWA)* - organo por vidi: okulo — organ for seeing: eye
@@ -1322,7 +1325,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(WAWA PALISA)* - ludi — to play
   * *(LAWA)* - io por ludi: ludo — something to play: game
 * **mute** ***[multe]*** *([SULI](#nimi-suli))* ***≠ lili*** - plura, multa, multe da (io ne-nombrebla), tre — multiple, many, much of (something non-countable), very
-  * *([NANPA°](#nimi-nanpa-musi))* - tri — three
+  * *([NANPA°](#nimi-poka-nanpa-musi))* - tri — three
     * *(... LAWA)* - -aro — set of
 * **namako** ⇒ **sin**
 * **nanpa** ***[namba]*** *([IJO°](#nimi-ijo-musi))*
@@ -1491,7 +1494,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(KAMA)* - konstruita/protektanta — built/protecting
   * *(LAWA)* - io konstruita/io protektanta: domo, ĉambro:  — something built/something protecting: house, room
 * **tu** ***[tu]*** *([SULI](#nimi-suli))* - disa — apart
-  * *([NANPA](#nimi-nanpa))* - du — two
+  * *([POKA NANPA](#nimi-poka-nanpa))* - du — two
 * **tuli** ⇒ **mute**, **tu en wan**
 * **unpa** ***[?]*** *([SULI](#nimi-suli))* - (ge-)gravediĝanta, seksumanta, esti geedzo — becoming pregnant (or her partner), to have sexual relationships, to be married
 * **uta** ***[usta]*** *([ILO°](#nimi-ilo-musi))*
@@ -1501,7 +1504,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(WAWA PALISA)* = **utala tawa**
 * **walo** ***[valko]*** *([SULI](#nimi-suli))* = "***kule wawa***" - blanka — white
 * **wan** ***[wan]*** *([SULI](#nimi-suli))* - unika, unueca — unique, united
-  * *([NANPA](#nimi-nanpa))* - unu — one
+  * *([POKA NANPA](#nimi-poka-nanpa))* - unu — one
     * *(... LAWA)* - -ero — one piece of
 * **waso** ***[wazo]*** *([SIJELO](#nimi-sijelo))* = "***sijelo kon***"
   * *([PALISA](#nimi-palisa))*
