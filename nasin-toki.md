@@ -44,8 +44,22 @@
 # toki suli
 *(Oficiala Lingvaĵo — Official Language)*
 
+| toki suli |
+|:-:|
+| [toki lili](#toki-lili) |
+| [toki namako](#toki-namako) |
+
 ## toki lili
 *(Kerna Lingvaĵo — Core Language)*
+
+| nimi |
+|:-:|
+| [nimi lili](#nimi-lili) |
+| [nimi suli](#nimi-suli) |
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili](#nimi-lili) en [nimi suli](#nimi-suli) li lon.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Estas [partikuloj](#nimi-lili) kaj [radikaj vortoj](#nimi-suli).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> There are [particles](#nimi-lili) and [content words](#nimi-suli).
 
 ### nimi lili
 *(Partikuloj — Particles)*
@@ -305,9 +319,12 @@
 
 | nimi suli |
 |:-:|
+| [nimi lawa](#nimi-lawa) |
+| [nimi wawa palisa](#nimi-wawa-palisa) |
+| [nimi wawa poka](#nimi-wawa-poka) |
 | [nimi poka nanpa](#nimi-poka-nanpa) |
 | [nimi poka palisa](#nimi-poka-palisa) |
-| [nimi lawa](#nimi-lawa) |
+
 | [nimi pi ijo anu jan](#nimi-pi-ijo-anu-jan) |
 | [nimi pi ijo poka](#nimi-pi-ijo-poka) |
 
@@ -363,9 +380,9 @@
 
 * mi ***pona e mi***. *(Mi plibonigas min. — I improve myself.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli](#nimi-suli) li kama [nimi wawa](#nimi-wawa) **palisa** li jo e kon sin, la kon sin ni li lon [ale pi nimi mute](#ale-pi-nimi-mute) lon poka pi sitelen *(WAWA PALISA)*.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [radika vorto](#nimi-suli) fariĝas **transitiva** [verbo](#nimi-wawa) kaj havas aldonan signifon, tiu aldona signifo estas en la [vortaro](#ale-pi-nimi-mute) apud la marko *(WAWA PALISA)*.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [content word](#nimi-suli) becomes a **transitive** [verb](#nimi-wawa) and has an additional meaning, this additional meaning is in the [dictionary](#ale-pi-nimi-mute) next to the mark-up *(WAWA PALISA)*.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa](#nimi-wawa) **palisa** li jo e kon sin, la kon sin ni li lon [ale pi nimi mute](#ale-pi-nimi-mute) lon poka pi sitelen *(WAWA PALISA)*.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **transitiva** [verbo](#nimi-wawa) havas aldonan signifon, tiu aldona signifo estas en la [vortaro](#ale-pi-nimi-mute) apud la marko *(WAWA PALISA)*.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **transitive** [verb](#nimi-wawa) and has an additional meaning, this additional meaning is in the [dictionary](#ale-pi-nimi-mute) next to the mark-up *(WAWA PALISA)*.
 
 * sona mi *(mia scio — my knowledge)*
 * mi ***sona e toki pona***. *(Mi konas Tokiponon. — I know Toki Pona.)*
@@ -386,11 +403,11 @@
   * → toki ***wan*** *(unu lingvo — one languge)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) li ken lon kama pi [nimi lawa](#nimi-lawa), la ona li [nimi poka palisa](#nimi-poka-palisa) li lon [ale pi mute nimi](#ale-pi-mute-nimi) lon poka pi sitelen *(POKA PALISA)*. jan **Sonja** li kepeken [nimi poka palisa](#nimi-poka-palisa) lon pini pi [mute nimi](#mute-nimi) taso.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [modifilo](#nimi-poka) povas esti antaŭ [substantivo](#nimi-lawa), ĝi estas [prepozicio](#nimi-poka-palisa) kaj estas en la [vortaro](#ale-pi-mute-nimi) apud la marko *(POKA PALISA)*. **Sonja** uzas [prepoziciojn](#nimi-poka-palisa) nur fine de [frazoj](#mute-nimi).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [modifilo](#nimi-poka) povas esti antaŭ [substantivo](#nimi-lawa), ĝi estas [prepozicio](#nimi-poka-palisa) kaj estas en la [vortaro](#ale-pi-mute-nimi) apud la marko *(POKA PALISA)*. **Sonja** uzas [prepoziciojn](#nimi-poka-palisa) nur fine de [frazo](#mute-nimi).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [modifier](#nimi-poka) can be before a [noun](#nimi-lawa), it is a [preposition](#nimi-poka-palisa) and is in the [dictionary](#ale-pi-mute-nimi) next to the mark-up *(POKA PALISA)*. **Sonja** uses [prepositions](#nimi-poka-palisa) only at the end of [sentences](#mute-nimi).
 
 * tomo tawa *(moviĝanta ĉambro, aŭto — moving room, car)*
-* toki pona li pona mute ***tawa*** jan pona mi. *(Mia amiko tre ŝatas Tokiponon. — My friend likes Tokipona very much.)*
+* toki pona li pona mute ***tawa*** jan pona mi. *(Mia amiko tre ŝatas Tokiponon. — My friend likes Toki Pona very much.)*
 
 #### nimi poka nanpa
 *(Numeraloj — Numerals)*
