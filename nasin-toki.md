@@ -73,9 +73,9 @@
 
 * tan seme ***la*** sina pu? *(Kial vi konsultas la Oficialan Libron de Tokipono? — Why do you interact with the Official Toki Pona Book?)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> sin la [nimi lili toki](#nimi-lili-toki) en [nimi lili kalama](#nimi-lili-kalama) li [nimi lili](#nimi-lili). [nimi lili toki](#nimi-lili-toki) li lon pini pi [nimi lawa](#nimi-lawa). [nimi lili kalama](#nimi-lili-kalama) li ken kama [nimi poka](#nimi-poka) pi [nimi palisa](#nimi-palisa) a.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Aldone, [citaĵoj](#nimi-lili-toki) kaj [interjekcioj](#nimi-lili-kalama) estas [partikuloj](#nimi-lili). [Citaĵo](#nimi-lili-toki) estas malantaŭ [substantivo](#nimi-lawa). [Interjekcio](#nimi-lili-kalama) povas fariĝi [modifilo](#nimi-poka) eĉ de [prepozicio](#nimi-palisa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> In addition, [quotes](#nimi-lili-toki) en [interjections](#nimi-lili-kalama) are [particles](#nimi-lili). [Quotes](#nimi-lili-toki) are after [nouns](#nimi-lawa). [Interjections](#nimi-lili-kalama) can become [modifiers](#nimi-poka) even of [prepositions](#nimi-palisa).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> sin la [nimi lili toki](#nimi-lili-toki) en [nimi lili kalama](#nimi-lili-kalama) li [nimi lili](#nimi-lili). [nimi lili toki](#nimi-lili-toki) li lon pini pi [nimi lawa](#nimi-lawa). [nimi lili kalama](#nimi-lili-kalama) li ken kama [nimi poka](#nimi-poka) pi [nimi poka palisa](#nimi-poka-palisa) a.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Aldone, [citaĵoj](#nimi-lili-toki) kaj [interjekcioj](#nimi-lili-kalama) estas [partikuloj](#nimi-lili). [Citaĵo](#nimi-lili-toki) estas malantaŭ [substantivo](#nimi-lawa). [Interjekcio](#nimi-lili-kalama) povas fariĝi [modifilo](#nimi-poka) eĉ de [prepozicio](#nimi-poka-palisa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> In addition, [quotes](#nimi-lili-toki) en [interjections](#nimi-lili-kalama) are [particles](#nimi-lili). [Quotes](#nimi-lili-toki) are after [nouns](#nimi-lawa). [Interjections](#nimi-lili-kalama) can become [modifiers](#nimi-poka) even of [prepositions](#nimi-poka-palisa).
 
 * ona li jo e nimi "***Sonja***". *(Ŝi havas la nomon "Sonja". — She has the name "Sonja".)*
 * sina suli ***a***! *(Vi estas ja granda! — You're so tall!)*
@@ -88,9 +88,9 @@
 * sina nanpa ***wan***. *(Vi estas la numero unu. — You're number one.)*
 * toki ***nanpa wan***. *(la lingvo numero unu — the language number one)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li pana e nimi sama tawa nimi "seme", "taso". taso lipu ni la nimi tu ni li [nimi suli](#nimi-suli): nimi "seme" li [nimi pi ijo poka](#nimi-pi-ijo-poka), nimi "taso" li [nimi palisa musi](#nimi-palisa-musi).   
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** nomas same la vortojn "seme", "taso". Sed en tiu ĉi libro, tiuj du vortoj estas [radikaj vortoj](#nimi-suli): "seme" estas [korelativo](#nimi-pi-ijo-poka) kaj "taso" estas [eksperimenta prepozicio](#nimi-palisa-musi).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** calls the words "seme", "taso" in the same way. But in this book, these two words are [content words](#nimi-suli): "seme" is a [correlative](#nimi-pi-ijo-poka) and "taso" is an [experimental preposition](#nimi-palisa-musi).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li pana e nimi sama tawa nimi "seme", "taso". taso lipu ni la nimi tu ni li [nimi suli](#nimi-suli): nimi "seme" li [nimi pi ijo poka](#nimi-pi-ijo-poka), nimi "taso" li [nimi poka palisa musi](#nimi-poka-palisa-musi).   
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** nomas same la vortojn "seme", "taso". Sed en tiu ĉi libro, tiuj du vortoj estas [radikaj vortoj](#nimi-suli): "seme" estas [korelativo](#nimi-pi-ijo-poka) kaj "taso" estas [eksperimenta prepozicio](#nimi-poka-palisa-musi).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** calls the words "seme", "taso" in the same way. But in this book, these two words are [content words](#nimi-suli): "seme" is a [correlative](#nimi-pi-ijo-poka) and "taso" is an [experimental preposition](#nimi-poka-palisa-musi).
 
 #### nimi lili "li"
 *(Subjekto kaj Predikato — Subject and Predicate)*
@@ -223,14 +223,14 @@
 #### nimi lili "la"
 *(Kunteksta Frazero — Contextual Fragment)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kepeken **nimi lili** "la" la **nimi palisa** li ken kama lon kama pi **mute nimi**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kepeken **nimi lili** "la" la **nimi poka palisa** li ken kama lon kama pi **mute nimi**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Per la **partikulo** "la", **prepozicio** povas aperi ĉe la komenco de **frazo**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> By means of the **particle** "la", a **preposition** can appear at the beginning of a **sentence**.
 
 * sina pana e nimi "pona" tawa mi ***tan*** seme? *(Kial vi nomas min bona? — Why are you calling me good?)*
   * → ***tan*** seme ***la*** sina pana e nimi "pona" tawa mi?
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi **mute nimi** la **nimi palisa** "lon" li kama weka.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi **mute nimi** la **nimi poka palisa** "lon" li kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Komence de **frazo**, la **preposicio** "lon" malaperas.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the beginning of a **sentence**, the **preposition** "lon" disappears.
 
@@ -306,7 +306,7 @@
 | nimi suli |
 |:-:|
 | [nimi poka nanpa](#nimi-poka-nanpa) |
-| [nimi palisa](#nimi-palisa) |
+| [nimi poka palisa](#nimi-poka-palisa) |
 | [nimi lawa](#nimi-lawa) |
 | [nimi pi ijo anu jan](#nimi-pi-ijo-anu-jan) |
 | [nimi pi ijo poka](#nimi-pi-ijo-poka) |
@@ -378,12 +378,19 @@
 * mi ***sona*** toki pona. *(Mi scipovas paroli Tokiponon. — I know how to speak Toki Pona.)*
 * mi ***kama*** sona toki pona. *(Mi lernas paroli Tokiponon. — I learn how to speak Toki Pona.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) li ken jo e kon nanpa, la ona li [nimi poka nanpa](#nimi-poka-nanpa) li lon [ale pi nimi mute](#ale-pi-nimi-mute) lon poka pi sitelen *(POKA NANPA)*.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [modifilo](#nimi-poka) povas havi la signifon de numero, ĝi estas [numeralo](#nimi-poka-nanpa) kaj estas en la [vortaro](#ale-pi-nimi-mute) apud la marko *(POKA NANPA)*.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [modifier](#nimi-poka) can have the meaning of a number, it is a [numeral](#nimi-poka-nanpa) and is in the [dictionary](#ale-pi-nimi-mute) next to the mark-up *(POKA NANPA)*.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) li ken jo e kon sin nanpa, la ona li [nimi poka nanpa](#nimi-poka-nanpa) li lon [ale pi nimi mute](#ale-pi-nimi-mute) lon poka pi sitelen *(POKA NANPA)*.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [modifilo](#nimi-poka) povas havi la aldonan signifon de numero, ĝi estas [numeralo](#nimi-poka-nanpa) kaj estas en la [vortaro](#ale-pi-nimi-mute) apud la marko *(POKA NANPA)*.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [modifier](#nimi-poka) can have the additional meaning of a number, it is a [numeral](#nimi-poka-nanpa) and is in the [dictionary](#ale-pi-nimi-mute) next to the mark-up *(POKA NANPA)*.
 
 * toki wan *(unika lingvo — a unique language)*
   * → toki ***wan*** *(unu lingvo — one languge)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) li ken lon kama pi [nimi lawa](#nimi-lawa), la ona li [nimi poka palisa](#nimi-poka-palisa) li lon [ale pi mute nimi](#ale-pi-mute-nimi) lon poka pi sitelen *(POKA PALISA)*.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [modifilo](#nimi-poka) povas esti antaŭ [substantivo](#nimi-lawa), ĝi estas [prepozicio](#nimi-poka-palisa) kaj estas en la [vortaro](#ale-pi-mute-nimi) apud la marko *(POKA PALISA)*.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [modifier](#nimi-poka) can be before a [noun](#nimi-lawa), it is a [preposition](#nimi-poka-palisa) and is in the [dictionary](#ale-pi-mute-nimi) next to the mark-up *(POKA PALISA)*.
+
+* tomo tawa *(moviĝanta ĉambro, aŭto — moving room, car)*
+* toki pona li pona mute ***tawa*** jan pona mi. *(Mia amiko tre ŝatas Tokiponon. — My friend likes Tokipona very much.)*
 
 --- 
 
@@ -404,7 +411,7 @@
 * mi ***pona*** e mi. *(Mi bonigas min. — I improve myself.)*
 * jan ***pona*** *(amiko — friend)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> sin la **nimi palisa** li **nimi suli** a. ona li **nimi poka palisa** pi **nimi lawa** anu **mute nimi**. jan **Sonja** li kepeken **nimi palisa** lon pini pi **mute nimi** taso.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> sin la **nimi poka palisa** li **nimi suli** a. ona li **nimi poka palisa** pi **nimi lawa** anu **mute nimi**. jan **Sonja** li kepeken **nimi poka palisa** lon pini pi **mute nimi** taso.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Aldone, **prepozicioj** ankaŭ estas **radikaj vortoj**.  Ili estas **transitiva modifilo** de **substantivo** aŭ de **frazo**. **Sonja** uzas **prepoziciojn** nur fine de **frazoj**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> In addition, prepositions are content words, too. They are **transitive modifiers** of **nouns** or of **sentences**. **Sonja** uses **prepositions** only at the end of **sentences**.
 
@@ -425,10 +432,10 @@
 
 * luka ***wan*** li jo e palisa ***luka***. *(Unu mano havas kvin fingrojn. — One hand has five fingers.)*
 
-#### nimi palisa
+#### nimi poka palisa
 *(Prepozicioj — Prepositions)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi palisa** li ken **nimi poka palisa** li ken **nimi poka (pi palisa ala)** li ken **nimi wawa**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi poka palisa** li ken **nimi poka palisa** li ken **nimi poka (pi palisa ala)** li ken **nimi wawa**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Prepozicio** povas esti uzata kiel **transitiva modifilo**, kiel **ne-transitiva modifilo** kaj kiel **verbo**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A **preposition** can be used as a **transitive modifier**, as an **intransitive modifier** and as a **verb**.
 
@@ -442,7 +449,7 @@
 
 * mi pana ***e*** kili ***tawa*** sina. *(Mi donas la pomon al vi. — I'm giving you the apple.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **nimi palisa** lon pini taso pi **mute nimi**. tan ni la jan **Sonja** li weka e **sitelen nanpa** lon **nimi palisa** tu.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **nimi poka palisa** lon pini taso pi **mute nimi**. tan ni la jan **Sonja** li weka e **sitelen nanpa** lon **nimi poka palisa** tu.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** uzas **prepoziciojn** nur fine de **frazo**. Tial **Sonja** ellasas la **komon** ĉe du **prepozicioj**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** uses **prepositions** only at the end of a **sentence**. Because of that, **Sonja** removes the **comma** between two **prepositions**.
 
@@ -538,9 +545,9 @@
 * toki pi ~~ijo~~ ni *(la loka lingvo, la lingvo de tiu loko, la tiea lingvo — the local language, the language of that place, the language there)*
   * → toki ni
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi [nimi lawa](#nimi-lawa) la jan **Sonja** li weka e [nimi palisa](#nimi-palisa) "sama" a.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ [substantivo](#nimi-lawa), **Sonja** malaperigas ankaŭ la [prepozicion](#nimi-palisa) "sama".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After a [noun](#nimi-lawa), **Sonja** makes also the [preposition](#nimi-palisa) "sama" disappear.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi [nimi lawa](#nimi-lawa) la jan **Sonja** li weka e [nimi poka palisa](#nimi-poka-palisa) "sama" a.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ [substantivo](#nimi-lawa), **Sonja** malaperigas ankaŭ la [prepozicion](#nimi-poka-palisa) "sama".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After a [noun](#nimi-lawa), **Sonja** makes also the [preposition](#nimi-poka-palisa) "sama" disappear.
 
 * tomo ni li suli ***sama*** ni. *(Tiu domo estas granda kiel tiu. Tiu domo estas granda kiel tio. Tiu domo estas tiel granda. — This house is big like this one. This house is big like that. This house is so big.)*
 * tomo pi suli ***sama*** ni *(tiom granda domo — a house that big)*
@@ -705,12 +712,12 @@
 
 * ilo sona li ***nanpa sin*** e pali. *(La komputilo ripetas la taskon. La komputilo iteracias la algoritmon. — The computer repeats the task. The computer iterates the algorithm.)*
 
-### nimi palisa musi
+### nimi poka palisa musi
 *(Eksperimentaj Prepozicioj — Experimental Prepositions)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ante", "pu", "sin", "taso", "weka" li [nimi palisa](#nimi-palisa) musi.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "ante", "pu", "sin", "taso" kaj "weka" estas eksperimentaj [prepozicioj](#nimi-palisa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ante", "pu", "sin", "taso" and "weka" are experimental [prepositions](#nimi-palisa).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ante", "pu", "sin", "taso", "weka" li [nimi poka palisa](#nimi-poka-palisa) musi.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "ante", "pu", "sin", "taso" kaj "weka" estas eksperimentaj [prepozicioj](#nimi-poka-palisa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ante", "pu", "sin", "taso" and "weka" are experimental [prepositions](#nimi-poka-palisa).
 
 * mi utala ala tawa wile sina. *(Mi estas en harmonio kun vi. — I am in harmony with you.)*
   * → mi ***pu*** sina.
@@ -728,9 +735,9 @@
 * ***taso ni la*** mije en meli li pali li pilin pona. *(Sendepende de tio, viroj kaj virinoj laboras kaj estas gajaj. — Independent from that, men and women work and are happy.)*
   * → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj. — But men and women work and are happy.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi palisa](#nimi-palisa) "lon" li ken jo e kon pi [nimi palisa](#nimi-palisa) "ante".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [prepozicio](#nimi-palisa) "lon" povas havi la signifon de la [prepozicio](#nimi-palisa) "ante".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [preposition](#nimi-palisa) "lon" can have the meaning of the [preposition](#nimi-palisa) "ante".
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka palisa](#nimi-poka-palisa) "lon" li ken jo e kon pi [nimi poka palisa](#nimi-poka-palisa) "ante".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [prepozicio](#nimi-poka-palisa) "lon" povas havi la signifon de la [prepozicio](#nimi-poka-palisa) "ante".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [preposition](#nimi-poka-palisa) "lon" can have the meaning of the [preposition](#nimi-poka-palisa) "ante".
 
 * ona li suli ***lon*** sina. *(Ŝi estas pli alta ol vi. — She is taller than you.)*
   * → sina la ona li suli.
@@ -745,7 +752,7 @@
 * mi ***pini*** e ni: mi ***jo*** e lipu. *(Mi ĉesis havi la libron. Mi perdis la libron. — I ceased to have the book. I lost the book.)*
   * → mi ***pini jo*** e lipu.
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi palisa** "tan", "lon", "tawa" li ken kama **nimi wawa poka** musi.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi poka palisa** "tan", "lon", "tawa" li ken kama **nimi wawa poka** musi.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La **prepozicioj** "tan", "lon" kaj "tawa" povas fariĝi eksperimentaj **helpaj verboj**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The **prepositions** "tan", "lon" and "tawa" can become experimental **auxiliary verbs**.
 
@@ -789,9 +796,9 @@
 
 * jan lawa ***esun*** *(vicprezidanto — vice president)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi sijelo](#nimi-sijelo) li ken kama [nimi palisa](#nimi-palisa) musi.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Korpa vorto](#nimi-sijelo) povas fariĝi eksperimenta [prepozicio](#nimi-palisa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [body word](#nimi-sijelo) can become an experimental [preposition](#nimi-palisa).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi sijelo](#nimi-sijelo) li ken kama [nimi poka palisa](#nimi-poka-palisa) musi.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Korpa vorto](#nimi-sijelo) povas fariĝi eksperimenta [prepozicio](#nimi-poka-palisa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [body word](#nimi-sijelo) can become an experimental [preposition](#nimi-poka-palisa).
 
 * mi ***kala*** telo. *(Mi naĝas en akvo. — I'm swimming in water.)*
 
@@ -832,9 +839,9 @@
 
 * tomo-tawa-sina *(via aŭto — your car)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi mute nimi la [nimi palisa](#nimi-palisa) li ken jo e ***sitelen pi wan mute***.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Fine de frazo, [prepozicio](#nimi-palisa) povas havi ***ono-signon***.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the end of a sentence, a [preposition](#nimi-palisa) can have a ***division sign***.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi mute nimi la [nimi poka palisa](#nimi-poka-palisa) li ken jo e ***sitelen pi wan mute***.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Fine de frazo, [prepozicio](#nimi-poka-palisa) povas havi ***ono-signon***.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the end of a sentence, a [preposition](#nimi-poka-palisa) can have a ***division sign***.
 
 * mi pana e lipu / tawa sina. *(Mi donas la libron al vi. — I am giving the book to you.)*
 
@@ -879,9 +886,9 @@
 #### nimi lili "la"
 *(Stranga Kunteksta Frazero — Strange Contextual Fragment)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ala la jan **Pije** li nimi poka nanpa wan e [nimi palisa](#nimi-palisa) lon kama pi **nimi lili** "[la](#nimi-lili-la)".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** neniam uzas [prepozicion](#nimi-palisa) kiel la unuan vorton en **kunteksta frazero** (t.e. la vortoj antaŭ la **partikulo** "[la](#nimi-lili-la)").  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** never uses [prepositions](#nimi-palisa) as the first word in a **contextual fragment** (i.e. the words before the [particle "la"](#nimi-lili)).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ala la jan **Pije** li nimi poka nanpa wan e [nimi poka palisa](#nimi-poka-palisa) lon kama pi **nimi lili** "[la](#nimi-lili-la)".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** neniam uzas [prepozicion](#nimi-poka-palisa) kiel la unuan vorton en **kunteksta frazero** (t.e. la vortoj antaŭ la **partikulo** "[la](#nimi-lili-la)").  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** never uses [prepositions](#nimi-poka-palisa) as the first word in a **contextual fragment** (i.e. the words before the [particle "la"](#nimi-lili)).
 
 * sina pu ***tan*** jan pona. *(Vi legas la Libron pro amiko. — You read the Book because of a friend.)*
   * → sina pu ***lon tan pi*** jan pona.
@@ -921,41 +928,41 @@
 * ona li ~~kama~~ ***lape*** lon ~~pini pi~~ tenpo lili. *(Ŝi endormiĝos post mallonga tempo. Ŝi baldaŭ dormos. Ŝi rapide endormiĝas. — She will sleep after a short period of time. She will sleep soon. She falls asleep quickly.)*
   * → ona li ***lape*** lon tenpo lili.
 
-### nimi palisa nasa
+### nimi poka palisa nasa
 *(Strangaj Prepozicioj — Strange Prepositions)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi **mute nimi** la **nimi palisa** ale li ken kama weka.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi **mute nimi** la **nimi poka palisa** ale li ken kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Komence de **frazo**, ĉiu **prepozicio** povas malaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the beginning of a **sentence**, all **prepositions** can disappear.
 
 * ***~~tawa~~*** mi ***la*** sina jan pona. *(Laŭ mi, vi estas bona persono. — From my point of view, you are a good person.)*
   * → mi ***la*** sina jan pona.
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi palisa](#nimi-palisa) "tawa" li ken kama **nimi lili** "pi".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [prepozicio](#nimi-palisa) "tawa" povas fariĝi la **partikulo** "pi".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [preposition](#nimi-palisa) "tawa" can become the **particle** "pi".
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka palisa](#nimi-poka-palisa) "tawa" li ken kama **nimi lili** "pi".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [prepozicio](#nimi-poka-palisa) "tawa" povas fariĝi la **partikulo** "pi".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [preposition](#nimi-poka-palisa) "tawa" can become the **particle** "pi".
 
 * ni li ***lete tawa pilin***.
   * → ni li ***lete pilin***.
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "lon ... (pi)" li ken kama [nimi palisa](#nimi-palisa).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "lon ... (pi)" povas fariĝi [prepozicio](#nimi-palisa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "lon ... (pi)" can become a [preposition](#nimi-palisa).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "lon ... (pi)" li ken kama [nimi poka palisa](#nimi-poka-palisa).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "lon ... (pi)" povas fariĝi [prepozicio](#nimi-poka-palisa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "lon ... (pi)" can become a [preposition](#nimi-poka-palisa).
 
 * mi tawa poka sina. *(Mi iras proksimen al vi. — I'm getting closer to you.)*
 * mi tawa ~~lon~~ ***poka*** sina. *(Mi iras kun vi. — I'm going with you.)*
   * → mi tawa ***poka*** sina.
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "sama ... (pi)" li ken kama [nimi palisa](#nimi-palisa).  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "sama ... (pi)" li ken kama [nimi poka palisa](#nimi-poka-palisa).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> "sama ... (pi)" povas fariĝi prepozicio.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> "sama ... (pi)" can become a preposition.
 
 * waso li tawa lon kon, ~~sama~~ ***mun*** ~~pi~~ mi mute. *(Birdo flugas kvazaŭ luno de ni. — A bird is flying like a moon of ours.)*
   * → waso li tawa lon kon, ***mun*** mi mute. *(Birdo flugas ĉirkaŭ ni. — A bird is flying around us.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi palisa](#nimi-palisa) "kepeken" li kama [nimi wawa](#nimi-wawa), la jan **Pije** li kepeken ona lon poka pi [nimi lili "e"](#nimi-lili-e).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam la [prepozicio](#nimi-palisa) "kepeken" fariĝas [verbo](#nimi-wawa), **Pije** uzas ĝin kun la [partikulo "e"](#nimi-lili-e).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When the [preposition](#nimi-palisa) "kepeken" becomes a [verb](#nimi-wawa), **Pije** uses it with the [particle "e"](#nimi-lili-e).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka palisa](#nimi-poka-palisa) "kepeken" li kama [nimi wawa](#nimi-wawa), la jan **Pije** li kepeken ona lon poka pi [nimi lili "e"](#nimi-lili-e).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam la [prepozicio](#nimi-poka-palisa) "kepeken" fariĝas [verbo](#nimi-wawa), **Pije** uzas ĝin kun la [partikulo "e"](#nimi-lili-e).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When the [preposition](#nimi-poka-palisa) "kepeken" becomes a [verb](#nimi-wawa), **Pije** uses it with the [particle "e"](#nimi-lili-e).
 
 * mi ***kepeken*** ilo. *(Mi uzas la instrumenton. — I use the instrument.)*
   * → mi ***kepeken e*** ilo.
@@ -972,9 +979,9 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 ### nimi nasa pi ijo anu jan
 *(Strangaj Pronomoj — Strange Pronouns)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi pi ijo anu jan](#nimi-pi-jan-anu-seme) li kama weka lon kama pi [nimi palisa](#nimi-palisa) "sama".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Pronomo](#nimi-pi-jan-anu-seme) malaperas antaŭ la [prepozicio](#nimi-palisa) "sama".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [pronoun](#nimi-pi-jan-anu-seme) disappears in front of the [preposition](#nimi-palisa) "sama".
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi pi ijo anu jan](#nimi-pi-jan-anu-seme) li kama weka lon kama pi [nimi poka palisa](#nimi-poka-palisa) "sama".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Pronomo](#nimi-pi-jan-anu-seme) malaperas antaŭ la [prepozicio](#nimi-poka-palisa) "sama".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [pronoun](#nimi-pi-jan-anu-seme) disappears in front of the [preposition](#nimi-poka-palisa) "sama".
 
 * ona li telo e ~~ona~~ ***sama***. *(Ŝi lavas sin. — She washes herself.)*
   * → ona li telo e ***sama***.
@@ -1123,7 +1130,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * ***semeal*** oni estas nie? *(tan seme la ona li lon ni?)*
   * → ***tan semeo*** oni estas lon nio?
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi palisa** li pini kepeken kalama pi open ala.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi poka palisa** li pini kepeken kalama pi open ala.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Prepozicio** finiĝas per konsonanto.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A **preposition** ends in a consonant.
 
@@ -1164,7 +1171,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **ali** ⇒ **ale**
 * **anpa** ***[an-bas]*** *([SULI](#nimi-suli))* - malalta, kliniĝi, klinsaluti — low, bending, bowing
   * *(lon ... pi)* - sub — under
-* **ante** ***[ander]*** *([PALISA°](#nimi-palisa-musi))*
+* **ante** ***[ander]*** *([PALISA°](#nimi-poka-palisa-musi))*
   * *(POKA PALISA)* - ol — than
   * *(KAMA)* - alia — different
   * *(lon poka ... pi)* - ĉe la alia flanko de, trans — at the other side of, beyond
@@ -1175,7 +1182,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **e** ***[he?]*** *([LILI](#nimi-lili-e))* - -n — (accusative)
 * **en** ***[en]*** *([LILI](#nimi-lili-en-anu))* - kaj — and
 * **esun** ***[edẑum]*** *([SIJELO°](#nimi-sijelo-musi))*
-  * *([PALISA](#nimi-palisa))*
+  * *([PALISA](#nimi-poka-palisa))*
     * *(POKA PALISA)* - anstataŭ — in exchange for, instead of
     * *(KAMA)* - anstataŭa — substitute
   * *(LAWA)* - anstataŭanta vivaĵo: metabolo, vendejo, merkato — substituting living being: metabolism, shop, market
@@ -1198,7 +1205,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(WAWA PALISA)* - havi — to have
   * *(LAWA)* - io por havi: propraĵo — something to have: property
 * **kala** ***[kala]*** *([SIJELO](#nimi-sijelo))* = "***sijelo telo***"
-  * *([PALISA](#nimi-palisa))*
+  * *([PALISA](#nimi-poka-palisa))*
     * *(POKA PALISA)* - naĝanta en — swimming in
     * *(KAMA)* - naĝanta — swimming
   * *(LAWA)* - naĝanta vivaĵo: fiŝo, baleno — swimming living being: fish, baleno
@@ -1210,7 +1217,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **kapa** ⇒ **nena**
 * **kapesi** ⇒ **pimeja**, **pimeja walo**, **loje laso**
 * **kasi** ***[kasvi]*** *([SIJELO](#nimi-sijelo))* = "***sijelo ma***"
-  * *([PALISA](#nimi-palisa))*
+  * *([PALISA](#nimi-poka-palisa))*
     * *(POKA PALISA)* - kreskanta sur — growing on
     * *(KAMA)* - kreskanta — growing
   * *(LAWA)* - kreskanta vivaĵo: planto — growing living being: plant
@@ -1218,7 +1225,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **kan** ⇒ **lon poka pi**
 * **ken** ***[ken]*** *([SULI](#nimi-suli))* - ebla — possible
   * *(WAWA POKA)* - povi, kapabli, rajti — can, to be able to, to be allowed to
-* **kepeken** ***[xebrewken]*** *([PALISA](#nimi-palisa))* = "***awen lon***"
+* **kepeken** ***[xebrewken]*** *([PALISA](#nimi-poka-palisa))* = "***awen lon***"
   * *(POKA PALISA)* - per — by means of
   * *(KAMA)* - uzanta — using
 * **kijetesantakalu** ***[kierteishäntäkarhu]*** ⇒ ***soweli***
@@ -1270,7 +1277,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *(LAWA)* - io plata: karto, dokumento, papero, dosiero — something flat: card, document, paper, file
     * *(LAWA)* = **mute lipu**
 * **loje** ***[roje]*** *([SULI](#nimi-suli))* = "***kule uta***" - ruĝa — red
-* **lon** ***[long]*** *([PALISA](#nimi-palisa))*
+* **lon** ***[long]*** *([PALISA](#nimi-poka-palisa))*
   * *(POKA PALISA)* - ĉe, laŭ, en, kun — at, along, in, with
   * *(KAMA)* - ĉeestanta, ekzistanta, reala — being present, existing, real
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - esti -anta — to be -ing
@@ -1387,7 +1394,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - fini, to stop
   * *(lon ... pi)* - malantaŭ — after
 * **pipi** ~~pipite~~ ***[bibitte]*** *([SIJELO](#nimi-sijelo))* = "***sijelo noka***"
-  * *([PALISA](#nimi-palisa))*
+  * *([PALISA](#nimi-poka-palisa))*
     * *(POKA PALISA)* - rampi sur — crawling on
     * *(KAMA)* - rampanta — crawling
   * *(LAWA)* - rampanta vivaĵo: insekto — crawling living being: insect
@@ -1406,10 +1413,10 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **pona** ***[bona]*** *([SULI](#nimi-suli))* - bona, amika, simpla — good, friendly, simple
   * *(... [PALI](#nimi-pali))* - -inda — worth -ing
   * *(lon nasin ...)* - rekta — direct
-* **pu** ***[buk]*** *([PALISA°](#nimi-palisa-musi))*
+* **pu** ***[buk]*** *([PALISA°](#nimi-poka-palisa-musi))*
   * *(POKA PALISA)* - en harmonio kun, laŭ — in harmony with, according to
   * *(KAMA)* - harmonia, aganta laŭa, konsultanta la Oficialan Libron de Tokipono — harmonious, according, interacting with the Official Toki Pona Book
-* **sama** ***[sama]*** *([PALISA](#nimi-palisa))*
+* **sama** ***[sama]*** *([PALISA](#nimi-poka-palisa))*
   * *(POKA PALISA)* - kiel — like
   * *(KAMA)* - egala, sama, mem — alike, same, self
     * *(~~pi kulupu mama~~ ...)* parenca — related
@@ -1435,7 +1442,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
     * *(WAWA PALISA)* = **lon nasin sike pi**
   * *(LAWA)* - io ronda: cirklo, globo, ĉirkaŭo — something round: circle, sphere, surroundings
     * *(lon poka ... pi)* - ĉirkaŭ — around
-* **sin** ***[ŝin]*** *([PALISA°](#nimi-palisa-musi))*
+* **sin** ***[ŝin]*** *([PALISA°](#nimi-poka-palisa-musi))*
   * *(POKA PALISA)* - aldona al, kun — additional to, with
   * *(KAMA)* - plia, aldona, nova, freŝa — another, additional, new, fresh
 * **sina** ***[sinä]*** *([IJO ANU JAN](#nimi-pi-ijo-anu-jan))* - vi — you
@@ -1465,15 +1472,15 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **suwi** ***[swit]*** *([IJO](#nimi-ijo))*
   * *(KAMA)* - dolĉa — sweet
   * *(LAWA)* - io dolĉa: dolĉaĵo — something sweet: sweets
-* **tan** ***[?]*** *([PALISA](#nimi-palisa))* = "***pini lon***"
+* **tan** ***[?]*** *([PALISA](#nimi-poka-palisa))* = "***pini lon***"
   * *(POKA PALISA)* - de, pro — by, from, because of
   * *(KAMA)* - devenanta — originating
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - esti -inta — to have -ed
-* **taso** ***[dats-ol]*** *([PALISA°](#nimi-palisa-musi))*
+* **taso** ***[dats-ol]*** *([PALISA°](#nimi-poka-palisa-musi))*
   * *(POKA PALISA)* - sendepende de, kiel escepto de, sen, malgraŭ, spite al, kvankam — independent from, as an exception from, without, despite
     * *(... ~~ni la~~)* - sed — but
   * *(KAMA)* - sendependa, escepta, nura, libera, vicanta — independent, exceptional, only, free, being the one whose turn it is
-* **tawa** ~~towa~~ ***[towards]*** = "***kama lon***" *([PALISA](#nimi-palisa))*
+* **tawa** ~~towa~~ ***[towards]*** = "***kama lon***" *([PALISA](#nimi-poka-palisa))*
   * *(POKA PALISA)* - al, por — to, toward, for
   * *(KAMA)* - moviĝanta — moving
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - esti -onta — to be about to
@@ -1507,12 +1514,12 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *([POKA NANPA](#nimi-poka-nanpa))* - unu — one
     * *(... LAWA)* - -ero — one piece of
 * **waso** ***[wazo]*** *([SIJELO](#nimi-sijelo))* = "***sijelo kon***"
-  * *([PALISA](#nimi-palisa))*
+  * *([PALISA](#nimi-poka-palisa))*
     * *(POKA PALISA)* - fluganta en — flying in
     * *(KAMA)* - fluganta — flying
   * *(LAWA)* - fluganta vivaĵo: birdo — flying living being: bird
 * **wawa** ***[vahva]*** *([SULI](#nimi-suli))* ***≠ lili*** - forta — strong
-* **weka** ~~we~~ ***[wex]*** *([PALISA°](#nimi-palisa-musi))*
+* **weka** ~~we~~ ***[wex]*** *([PALISA°](#nimi-poka-palisa-musi))*
   * *(POKA PALISA)* - fore de, ekster — away from, outside
   * *(KAMA)* - fora, distanca, ekstera — away, gone, distant, outside
   * *([IJO](#nimi-ijo))*
