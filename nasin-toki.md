@@ -50,15 +50,24 @@
 ### nimi lili
 *(Partikuloj — Particles)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kama en pini pi **nimi lili** ["li"](#nimi-lili-li), ["e"](#nimi-lili-e), ["o"](#nimi-lili-o), ["pi"](#nimi-lili-pi), ["en", "anu"](#nimi-lili-en-anu) la [nimi suli](#nimi-suli) li lon.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Antaŭ kaj malantaŭ la **partikuloj** ["li"](#nimi-lili-li), ["e"](#nimi-lili-e), ["o"](#nimi-lili-o), ["pi"](#nimi-lili-pi), ["en", "anu"](#nimi-lili-en-anu) estas [radikaj vortoj](#nimi-suli).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Before and after the **particles** ["li"](#nimi-lili-li), ["e"](#nimi-lili-e), ["o"](#nimi-lili-o), ["pi"](#nimi-lili-pi), ["en", "anu"](#nimi-lili-en-anu) are [content words](#nimi-suli).
+* [li](#nimi-lili-li)
+* [e](#nimi-lili-e)
+* [o](#nimi-lili-o)
+* [pi](#nimi-lili-pi)
+* [en](#nimi-lili-en-anu)
+* [anu](#nimi-lili-en-anu)
+* [nimi lili toki](#nimi-lili-toki)
+* [nimi lili kalama](#nimi-lili-kalama)
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kama en pini pi **nimi lili** "[li](#nimi-lili-li)", "[e](#nimi-lili-e)", "[o](#nimi-lili-o)", "[pi](#nimi-lili-pi)", "[en](#nimi-lili-en-anu)", "[anu](#nimi-lili-en-anu)" la [nimi suli](#nimi-suli) li lon.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Antaŭ kaj malantaŭ la **partikuloj** "[li](#nimi-lili-li)", "[e](#nimi-lili-e)", "[o](#nimi-lili-o)", "[pi](#nimi-lili-pi)", "[en](#nimi-lili-en-anu)", "[anu](#nimi-lili-en-anu)" estas [radikaj vortoj](#nimi-suli).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Before and after the **particles** "[li](#nimi-lili-li)", "[e](#nimi-lili-e)", "[o](#nimi-lili-o)", "[pi](#nimi-lili-pi)", "[en](#nimi-lili-en-anu)", "[anu](#nimi-lili-en-anu)" are [content words](#nimi-suli).
 
 * jan ***pi*** toki pona ***o*** toki ***e*** ni: sina ***en*** mi ***li*** sona ***e*** toki sama ***anu*** seme? *(Diru, tokiponisto, ĉu vi kaj mi konas la saman lingvon? — Tell me, Tokiponan, do you and I know the same language?)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi [nimi lili "la"](#nimi-lili-la) la [mute nimi](#mute-nimi) li lon. pini ona li lon kama pi [nimi lili "la"](#nimi-lili-la).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ la [partikulo "la"](#nimi-lili-la) estas [frazo](#mute-nimi). Ĝia fino estas antaŭ la [partikulo "la"](#nimi-lili-la).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After the [particle "la"](#nimi-lili-la) is a [sentence](#mute-nimi). Its end is before the [particle "la"](#nimi-lili-la).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "[la](#nimi-lili-la)" la [mute nimi](#mute-nimi) li lon. pini ona li lon kama pi **nimi lili** "[la](#nimi-lili-la)".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ la **partikulo** "[la](#nimi-lili-la)" estas [frazo](#mute-nimi). Ĝia fino estas antaŭ la **partikulo** "[la](#nimi-lili-la)".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After the **particle** "[la](#nimi-lili-la)" is a [sentence](#mute-nimi). Its end is before the **particle** "[la](#nimi-lili-la)".
 
 * tan seme ***la*** sina pu? *(Kial vi konsultas la Oficialan Libron de Tokipono? — Why do you interact with the Official Toki Pona Book?)*
 
@@ -773,8 +782,8 @@
 #### nimi lili "la"
 *(Stranga Kunteksta Frazero — Strange Contextual Fragment)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ala la jan **Pije** li nimi nanpa wan e [nimi palisa](#nimi-palisa) lon kama pi [nimi lili "la"](#nimi-lili-la).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** neniam uzas [prepozicion](#nimi-palisa) kiel la unuan vorton en **kunteksta frazero** (t.e. la vortoj antaŭ la [partikulo "la"](#nimi-lili-la)).  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ala la jan **Pije** li nimi nanpa wan e [nimi palisa](#nimi-palisa) lon kama pi **nimi lili** "[la](#nimi-lili-la)".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** neniam uzas [prepozicion](#nimi-palisa) kiel la unuan vorton en **kunteksta frazero** (t.e. la vortoj antaŭ la **partikulo** "[la](#nimi-lili-la)").  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** never uses [prepositions](#nimi-palisa) as the first word in a **contextual fragment** (i.e. the words before the [particle "la"](#nimi-lili)).
 
 * sina pu ***tan*** jan pona. *(Vi legas la Libron pro amiko. — You read the Book because of a friend.)*
@@ -889,9 +898,9 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 ### sitelen nasa lon poka nimi
 *(Stranga Interpunkcio — Strange Punctuation)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li weka e **sitelen nanpa** lon kama pi [nimi lili "la"](#nimi-lili-la).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** ellasas la komon antaŭ la [partikulo "la"](#nimi-lili-la).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** leaves out the **comma** before the [particle "la"](#nimi-lili-la).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li weka e **sitelen nanpa** lon kama pi **nimi lili** "[la](#nimi-lili-la)".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** ellasas la komon antaŭ la **partikulo** "[la](#nimi-lili-la)".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** leaves out the **comma** before the **particle** "[la](#nimi-lili-la)".
 
 * mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
   * → mi pona tawa jan ***la*** jan li pona tawa mi.
