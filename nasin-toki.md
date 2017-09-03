@@ -310,10 +310,10 @@
 | [nimi pi ijo anu jan](#nimi-pi-ijo-anu-jan) |
 | [nimi jan](#nimi-jan) |
 | [nimi ijo](#nimi-ijo) |
-| [nimi pi ijo poka](#nimi-pi-ijo-poka) |
 | [nimi pali](#nimi-pali) |
 | [nimi ilo](#nimi-ilo) |
 | [nimi sijelo](#nimi-sijelo) |
+| [nimi pi ijo poka](#nimi-pi-ijo-poka) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli** li ken kama **nimi lawa**, **nimi wawa (palisa)**, **nimi kama**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Radika vorto** povas fariĝi **substantivo**, **(transitiva) verbo** aŭ **modifilo**.  
@@ -410,6 +410,25 @@
   * ~~ijo~~ ***suwi*** *(dolĉaĵo — sweets)*
     * → ***suwi***
 
+#### nimi pali
+*(Agaj Vortoj — Doing Words)*
+
+* ***moku*** *(manĝi — to eat)*
+  * ~~ijo~~ ***moku*** *(manĝo — food)*
+    * → ***moku***
+
+#### nimi ilo
+*(Ilaj Vortoj — Tool Words)*
+
+* ***lukin*** *(vidi — to see)*
+  * ~~ilo~~ ***lukin*** *(okulo — eye)*
+    * → ***lukin***
+
+#### nimi sijelo
+*(Korpaj Vortoj — Body Words)*
+
+* ***kala*** *(fiŝo — fish)*
+
 #### nimi pi ijo poka
 *(Korelativoj — Correlatives)*
 
@@ -443,25 +462,6 @@
 * tomo ni li suli ***sama*** ni. *(Tiu domo estas granda kiel tiu. Tiu domo estas granda kiel tio. Tiu domo estas tiel granda. — This house is big like this one. This house is big like that. This house is so big.)*
 * tomo pi suli ***sama*** ni *(tiom granda domo — a house that big)*
   * → tomo pi suli ni *(domo de tiu grando, tiel granda domo — house of that size, such a big house)*
-
-#### nimi pali
-*(Agaj Vortoj — Doing Words)*
-
-* ***moku*** *(manĝi — to eat)*
-  * ~~ijo~~ ***moku*** *(manĝo — food)*
-    * → ***moku***
-
-#### nimi ilo
-*(Ilaj Vortoj — Tool Words)*
-
-* ***lukin*** *(vidi — to see)*
-  * ~~ilo~~ ***lukin*** *(okulo — eye)*
-    * → ***lukin***
-
-#### nimi sijelo
-*(Korpaj Vortoj — Body Words)*
-
-* ***kala*** *(fiŝo — fish)*
 
 ### mute nimi
 *(Frazoj — Sentences)*
