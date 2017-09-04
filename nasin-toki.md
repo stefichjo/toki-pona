@@ -444,9 +444,9 @@
 #### nimi wawa palisa
 *(Transitivaj Verboj — Transitive Verbs)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa](#nimi-wawa) li jo e **nimi lili** "[e](#nimi-lili-e)", la ona li [nimi wawa](#nimi-wawa) **palisa**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [verbo](#nimi-wawa) havas **rektan objekton** (t.e. vortoj malantaŭ **partikulo** "[e](#nimi-lili-e)"), ĝi estas **transitiva** [verbo](#nimi-wawa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [verb](#nimi-lili) has a **direct object** (i.e. words after a **particle** "[e](#nimi-lili-e)"), it is a **transitive** [verb](#nimi-wawa).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa](#nimi-wawa) li jo e **nimi lili** "[e](#nimi-lili-e)", la ona li **nimi wawa palisa**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [verbo](#nimi-wawa) havas **rektan objekton** (t.e. vortoj malantaŭ **partikulo** "[e](#nimi-lili-e)"), ĝi estas **transitiva verbo**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [verb](#nimi-lili) has a **direct object** (i.e. words after a **particle** "[e](#nimi-lili-e)"), it is a **transitive verb**.
 
 * mi ***pona e mi***. *(Mi plibonigas min. — I improve myself.)*
 
@@ -484,9 +484,9 @@
 
 * luka ***wan*** li jo e palisa ***luka***. *(Unu mano havas kvin fingrojn. — One hand has five fingers.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) li ken jo e kon sin nanpa, la ona li [nimi poka nanpa](#nimi-poka-nanpa) li lon [ale pi nimi mute](#ale-pi-nimi-mute) lon poka pi sitelen *(POKA NANPA)*.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [modifilo](#nimi-poka) povas havi la aldonan signifon de numero, ĝi estas [numeralo](#nimi-poka-nanpa) kaj estas en la [vortaro](#ale-pi-nimi-mute) apud la marko *(POKA NANPA)*.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [modifier](#nimi-poka) can have the additional meaning of a number, it is a [numeral](#nimi-poka-nanpa) and is in the [dictionary](#ale-pi-nimi-mute) next to the mark-up *(POKA NANPA)*.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) li ken jo e kon sin nanpa, la ona li [nimi poka nanpa](#nimi-poka-nanpa) li lon [ale pi nimi mute](#ale-pi-nimi-mute) lon poka pi sitelen *([POKA NANPA](#nimi-poka-nanpa))*.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [modifilo](#nimi-poka) povas havi la aldonan signifon de numero, ĝi estas [numeralo](#nimi-poka-nanpa) kaj estas en la [vortaro](#ale-pi-nimi-mute) apud la marko *([POKA NANPA](#nimi-poka-nanpa))*.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [modifier](#nimi-poka) can have the additional meaning of a number, it is a [numeral](#nimi-poka-nanpa) and is in the [dictionary](#ale-pi-nimi-mute) next to the mark-up *([POKA NANPA](#nimi-poka-nanpa))*.
 
 * toki wan *(unika lingvo — a unique language)*
   * → toki ***wan*** *(unu lingvo — one languge)*
@@ -584,8 +584,8 @@
 *(Subfrazoj — Subordinate Clauses)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **mute nimi poka** lon pini taso pi **mute nimi**. ni la **sitelen nanpa** li kama **sitelen palisa**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> ***Sonja*** uzas ***subfrazojn*** nur fine de ***frazo***. Tiam, ***komo*** fariĝas ***dupunkto***.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> ***Sonja*** uses ***subordinate clauses*** only at the end of a ***sentence***. In this case, the ***comma*** becomes a ***colon***.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** uzas **subfrazojn** nur fine de **frazo**. Tiam, **komo** fariĝas **dupunkto**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** uses **subordinate clauses** only at the end of a **sentence**. In this case, the **comma** becomes a **colon**.  
 
 * mi sona e ni: ***mi anpa***. *(Mi scias, ke mi estas malalta. — I know that I am low.)*
 
