@@ -592,7 +592,10 @@
 ## toki namako
 *(Aldona Lingvaĵo — Additional Language)*
 
-### nimi lili "e" namako
+### nimi lili namako
+*(Aldonaj Partikuloj — Additional Particles)*
+
+#### nimi lili "e" namako
 *(Aldona Akuzativo — Additional Accusative)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi nimi "pana e" li ken kama [nimi wawa palisa](#nimi-wawa-palisa).  
@@ -628,7 +631,10 @@
   * → ona ~~li tawa~~ li ***sike e*** tomo sona.
     * → ona li ***sike e*** tomo sona.
 
-### nimi poka nanpa namako
+### nimi suli namako
+*(Aldonaj Radikaj Vortoj — Additional Content Words)*
+
+#### nimi poka nanpa namako
 *(Aldonaj Numeraloj — Additional Numerals)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka nanpa](#nimi-poka-nanpa) tu la **sitelen nanpa** li ken kama weka.  
@@ -1214,7 +1220,6 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
 * **a** ***[ha]*** *([KALAMA](#nimi-lili-kalama))* - emocia interjekcio: ha — emotional interjection: ha
   * *([POKA](#nimi-poka))* - ja, eĉ, efektive — so, even, indeed
     * *([KALAMA°](#nimi-lili-kalama-musi))* - jes — yes
-    * *(... [LAWA PALI°](#nimi-lawa-pali))* - -ata — being -ed
 * **akesi** ***[hagedis]*** *([LAWA JAN°](#nimi-lawa-jan-musi))* = "***sijelo lete***"
   * *([LAWA](#nimi-lawa))* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
   * *([POKA°](#nimi-poka-musi))* - malvarmsanga — cold-blooded
@@ -1252,6 +1257,7 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
     * *([POKA°](#nimi-poka-musi))* - anstataŭa — substitute
 * **ijo** ***[io]*** *(LAWA PONA)* - io — something
   * *(e ... pi)* - pri — about
+  * *(... [LAWA PALI°](#nimi-lawa-pali))* - -ata, -enda — being -ed, to be -ed
 * **ike** ~~ikeja~~ ***[ilkeä]*** *([PONA](#nimi-pona))* ***≠ pona*** - malbona, superflua — bad, superfluous
 * **iki** ⇒ **ona**
 * **ilo** *([LAWA IJO°](#nimi-lawa-ijo-musi))* - io utila — something useful
