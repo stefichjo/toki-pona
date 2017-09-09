@@ -832,18 +832,18 @@
 ### nimi lawa jan musi
 *(Eksperimentaj Ulaj Vortoj — Experimental Person Words)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "akesi", "kulupu", "mama", "soweli" li [nimi lawa jan](#nimi-lawa-jan) **musi**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "akesi", "kulupu", "mama" kaj "soweli" estas **eksperimentaj** [ulaj vortoj](#nimi-lawa-jan).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "akesi", "kulupu", "mama" and "soweli" are **experimental** [person words](#nimi-lawa-jan).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "akesi", "mama", "soweli" li [nimi lawa jan](#nimi-lawa-jan) **musi**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "akesi", "mama" kaj "soweli" estas **eksperimentaj** [ulaj vortoj](#nimi-lawa-jan).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "akesi", "mama" and "soweli" are **experimental** [person words](#nimi-lawa-jan).
 
 * mi en sina li toki ***kulupu***. *(Mi kaj vi parolas unu al la alia. — You and I talk to one another.)*
 
 ### nimi lawa ijo musi
 *(Eksperimentaj Aĵaj Vortoj — Experimental Thing Words)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ilo", "kili", "kon", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo", "tomo" li [nimi lawa ijo](#nimi-lawa-ijo) **musi**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "ilo", "kili", "kon", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" kaj "tomo" estas **eksperimentaj** [aĵaj vortoj](#nimi-lawa-ijo).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ilo", "kili", "kon", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" and "tomo" are **experimental** [thing words](#nimi-lawa-ijo).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo", "tomo" li [nimi lawa ijo](#nimi-lawa-ijo) **musi**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" kaj "tomo" estas **eksperimentaj** [aĵaj vortoj](#nimi-lawa-ijo).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" and "tomo" are **experimental** [thing words](#nimi-lawa-ijo).
 
 * lipu ***ilo*** *(utila libro — a useful book)*
 
@@ -1036,12 +1036,10 @@
 * mi ***kepeken*** ilo. *(Mi uzas la instrumenton. — I use the instrument.)*
   * → mi ***kepeken e*** ilo.
 
-jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "tawa lukin".
-**Pije** uzas la [verbon](#nimi-wawa) "lukin" kun la aldona signifo "aspekti".
-**Pije** uses the [verb](#nimi-wawa) "lukin" with the additional meaning "to seem".
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "tawa lukin".
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** uzas la [verbon](#nimi-wawa) "lukin" kun la aldona signifo "aspekti".
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** uses the [verb](#nimi-wawa) "lukin" with the additional meaning "to seem".
 
-* sina ~~tawa~~ **lukin** sama waso. *(Vi aspektas kiel birdo. — You look like a bird.)*
-  * → sina **lukin** sama waso.
 * sina unpa ~~tawa~~ **lukin**. *(Vi aspektas seksuma. → Vi estas seksalloga. — You look sexy. → You are sexy.)*
   * → sina unpa **lukin**.
 
@@ -1299,9 +1297,9 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *([POKA](#nimi-poka))* - uzanta — using
 * **kijetesantakalu** ***[kierteishäntäkarhu]*** ⇒ ***soweli***
 * **kili** ***[xili]*** *([LAWA IJO°](#nimi-lawa-ijo-musi))*
-  * *([POKA](#nimi-poka))* - pendanta — hanging
   * *([LAWA](#nimi-lawa))* - io pendanta: frukto, legomo, fungo — something hanging: fruit, vegetable, mushroom
-    * *(lon ... pi)* - depende de — depending on
+    * *(lon ... pi°)* - depende de — depending on
+  * *([POKA°](#nimi-poka-musi))* - pendanta — hanging
 * **kin** ⇒ **a**
 * **kinkaju** ⇒ **kijetesantakalu**
 * **kipisi e** ⇒ **tu e**
@@ -1318,9 +1316,11 @@ jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "taw
   * *([LAWA](#nimi-lawa))* - io ŝvebanta: aero, spirito, esenco, kaŝita realo — something hovering: air, spirit, essence, hidden reality
   * *([POKA°](#nimi-poka-musi))* - ŝvebanta — hovering
 * **kule** ***[kuler]*** *([PONA](#nimi-pona))* - kolora — colorful
-* **kulupu** ***[grup]*** *([LAWA JAN°](#nimi-lawa-jan-musi))*
-  * *([LAWA](#nimi-lawa))* - reciproka animaĵo: komunumo, kompanio, grupo, nacio, socio, tribo — reciprocal animated being: community, company, group, nation, society, tribe
+* **kulupu** ***[grup]*** *([LAWA IJO°](#nimi-lawa-ijo-musi))*
+  * *([LAWA](#nimi-lawa))* - reciproka aĵo: interrilato, komunumo, kompanio, grupo, nacio, socio, tribo — something reciprocal: relation, community, company, group, nation, society, tribe
+    * *(lon ...°)* - kune — together
   * *([POKA°](#nimi-poka-musi))* - reciproka — reciprocal
+  * *([LAWA!](#nimi-lawa-nasa))* = mute - aro — set
 * **kute** ~~ekute~~ ***[ekute]*** *([LAWA ILO](#nimi-lawa-ilo))*
   * *([WAWA PALISA](#nimi-wawa-palisa))* - aŭdi — to hear
   * *([LAWA](#nimi-lawa))* - organo por aŭdi: orelo — organ for hearing: ear
