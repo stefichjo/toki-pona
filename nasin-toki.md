@@ -948,7 +948,7 @@
 * mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon. — I translate the movie.)*
   * → mi ante ***toki e*** sitelen tawa.
 
-#### nimi lili "la" nasa
+### nimi lili "la" nasa
 *(Stranga Kunteksta Frazero — Strange Contextual Fragment)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ala la jan **Pije** li nimi poka nanpa wan e [nimi poka palisa](#nimi-poka-palisa) lon kama pi **nimi lili** "[la](#nimi-lili-la)".  
@@ -1004,6 +1004,9 @@
   * → mi ***la*** sina jan pona.
 * sina ***~~tawa~~** lukin sama waso. *(Vi aspektas kiel birdo. — You look like a bird.)*
   * → sina lukin sama waso.
+* sina pilin ~~ike~~ tan utala. *(Vi malbone empatias pro batalo. → Vi fartas malbone. Vi estas malgaja. — You are empathizing badly because of struggle. → You feel bad. You are sad.)*
+  * → sina pilin ~~tan~~ utala.
+    * → sina pilin utala.
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "lon ... (pi)" li ken kama [nimi poka palisa](#nimi-poka-palisa).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> "lon ... (pi)" povas fariĝi [prepozicio](#nimi-poka-palisa).  
@@ -1026,13 +1029,6 @@
 
 * mi ***kepeken*** ilo. *(Mi uzas la instrumenton. — I use the instrument.)*
   * → mi ***kepeken e*** ilo.
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li kepeken [nimi wawa](#nimi-wawa) "lukin" lon kon sin pi nimi "tawa lukin".
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** uzas la [verbon](#nimi-wawa) "lukin" kun la aldona signifo "aspekti".
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** uses the [verb](#nimi-wawa) "lukin" with the additional meaning "to seem".
-
-* sina unpa ~~tawa~~ **lukin**. *(Vi aspektas seksuma. → Vi estas seksalloga. — You look sexy. → You are sexy.)*
-  * → sina unpa **lukin**.
 
 ### nimi nasa pi ijo anu jan
 *(Strangaj Pronomoj — Strange Pronouns)*
