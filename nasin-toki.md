@@ -203,13 +203,6 @@
   * → toki pona
 * toki ***pi*** pona mute *(tre bona lingvo — a very good language)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi wawa palisa** "pilin" la **nimi lili** "e" li ken kama **nimi lili** "pi".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ la **transitiva verbo** "pilin", la **partikulo** "e" povas fariĝi la **partikulo** "pi".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After the **transitive verb** "pilin", the **particle** "e" can become the **particle** "pi".
-
-* mi ***pilin e*** pona mute. *(Mi sentas multan bonon. — I feel much good.)*
-  * → mi ***pilin pi*** pona mute. *(Mi fartas tre bone. — I feel very good.)*
-
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken ala **nimi lili** "pi" lon poka pi **nimi lili** "pi" ante.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** ne uzas genitivan frazeron (t.e. vortoj malantaŭ **partikulo** "pi") kombine kun alia genitiva frazero.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** doesn't use genitive phrases (i.e. words after a **particle** "pi") combined with other genitive phrases.
