@@ -1048,7 +1048,7 @@
 *(Strangaj Subfrazoj — Strange Subordinate Clauses)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi [mute nimi poka](#mute-nimi-poka) li ken kama weka. tan ni la [nimi wawa poka](#nimi-wawa-poka) en [nimi poka palisa](#nimi-poka-palisa) li ken kama [nimi lawa](#nimi-lawa).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La komenco de [subfrazo](#mute-nimi-poka) povas malaperi. Tial, [helpaj verboj](#nimi-wawa-poka) kaj [prepozicioj](#nimi-poka-palisa) povas fariĝi [substantivoij](#nimi-lawa).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La komenco de [subfrazo](#mute-nimi-poka) povas malaperi. Tial, [helpaj verboj](#nimi-wawa-poka) kaj [prepozicioj](#nimi-poka-palisa) povas fariĝi [substantivoj](#nimi-lawa).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The beginning of a [subordinate clause](#mute-nimi-poka) can disappear. Therefore, [auxiliary verbs](#nimi-wawa-poka) and [prepositions](#nimi-poka-palisa) can become [nouns](#nimi-lawa).  
 
 * jan ni: ona li tawa tomo *(tiu persono, kiu venas hejmen — that person, who comes home)*
