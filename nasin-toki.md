@@ -1015,7 +1015,7 @@
   * → mi ***la*** sina jan pona.
 * sina ***~~tawa~~** lukin sama waso. *(Vi aspektas kiel birdo. — You look like a bird.)*
   * → sina lukin sama waso.
-* sina pilin ~~ike~~ tan utala. *(Vi malbone empatias pro batalo. → Vi fartas malbone. Vi estas malgaja. — You are empathizing badly because of struggle. → You feel bad. You are sad.)*
+* sina pilin ~~ike~~ tan utala. *(Vi malbone empatias pro batalo. → Vi estas kolera. — You are empathizing badly because of struggle. → You are angry.)*
   * → sina pilin ~~tan~~ utala.
     * → sina pilin utala.
 
