@@ -918,6 +918,12 @@
 * mi ~~li~~ lukin mute li sona lili.
   * → mi lukin mute li sona lili.
 
+### nimi lili "o" nasa
+*(Strangaj Volativo, Vokativo kaj Imperativo — Strange Volative, Vocative and Imperative)*
+
+* ~~ni~~ o ~~kama:~~ sina lape pona. *(Ke vi dormu bone. — May you sleep well.)*
+  * → o sina lape pona.
+
 ### nimi lili "pi" nasa
 *(Stranga Genitivo — Strange Genitive)*
 
