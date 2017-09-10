@@ -990,12 +990,14 @@
 ### nimi poka palisa nasa
 *(Strangaj Prepozicioj — Strange Prepositions)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi [mute nimi](#mute-nimi) la [nimi poka palisa](#nimi-poka-palisa) ale li ken kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Komence de [frazo](#mute-nimi), ĉiu [prepozicio](#nimi-poka-palisa) povas malaperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the beginning of a [sentence](#mute-nimi), all [prepositions](#nimi-poka-palisa) can disappear.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka palisa](#nimi-poka-palisa) li ken kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Prepozicio](#nimi-poka-palisa) povas malaperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Prepositions](#nimi-poka-palisa) can disappear.
 
 * ***~~tawa~~*** mi ***la*** sina jan pona. *(Laŭ mi, vi estas bona persono. — From my point of view, you are a good person.)*
   * → mi ***la*** sina jan pona.
+* sina ***~~tawa~~** lukin sama waso. *(Vi aspektas kiel birdo. — You look like a bird.)*
+  * → sina lukin sama waso.
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "lon ... (pi)" li ken kama [nimi poka palisa](#nimi-poka-palisa).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> "lon ... (pi)" povas fariĝi [prepozicio](#nimi-poka-palisa).  
