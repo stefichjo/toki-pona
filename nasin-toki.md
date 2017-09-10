@@ -1047,15 +1047,20 @@
 ### mute nimi poka nasa
 *(Strangaj Subfrazoj — Strange Subordinate Clauses)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi [mute nimi poka](#mute-nimi-poka) li ken kama weka. tan ni la [nimi wawa poka](#nimi-wawa-poka) li ken kama [nimi poka](#nimi-poka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La komenco de [subfrazo](#mute-nimi-poka) povas malaperi. Tial, [helpaj verboj](#nimi-wawa-poka) povas fariĝi [modifiloj](#nimi-poka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The beginning of a [subordinate clause](#mute-nimi-poka) can disappear. Therefore, [auxiliary verbs](#nimi-wawa-poka) can become [modifiers](#nimi-poka).  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi [mute nimi poka](#mute-nimi-poka) li ken kama weka. tan ni la [nimi wawa poka](#nimi-wawa-poka) en [nimi-poka-palisa](#nimi-poka-palisa) li ken kama [nimi lawa](#nimi-lawa).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La komenco de [subfrazo](#mute-nimi-poka) povas malaperi. Tial, [helpaj verboj](#nimi-wawa-poka) kaj [prepozicioj](#nimi-poka-palisa) povas fariĝi [substantivoij](#nimi-lawa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The beginning of a [subordinate clause](#mute-nimi-poka) can disappear. Therefore, [auxiliary verbs](#nimi-wawa-poka) and [prepositions](#nimi-poka-palisa) can become [nouns](#nimi-lawa).  
 
-* mi sona e jan ni: ona li kama sona e toki pona. *(Mi konas tiun personon, kiu lernas Tokiponon. — I know that person, who is studying Toki Pona.)*
-* mi sona e jan ***pi*** ~~ijo ni:~~ ona li kama sona e toki pona. *(Mi konas iun, kiu studas Tokiponon. — I know someone, who is studying Toki Pona.)*
-  * → mi sona e jan ***pi*** ~~ona~~ li kama sona e toki pona. *(Mi konas iun studantan Tokiponon. — I know someone studying Toki Pona.)*
-    * → mi sona e jan ***pi*** ~~li~~ kama sona e toki pona. *(Mi konas studanton de Tokipono. — I know a student of Toki Pona.)*
-      * → mi sona e jan ***pi*** kama sona e toki pona.
+* jan ni: ona li tawa tomo *(tiu persono, kiu venas hejmen — that person, who comes home)*
+* jan ***pi*** ~~ijo ni:~~ ona li tawa tomo *(iu, kiu venas hejmen — someone, who comes home)*
+  * → jan ***pi*** ~~ona~~ li tawa tomo *(iu venanta hejmen — someone coming home)*
+    * → jan ***pi*** ~~li~~ tawa tomo *(hejmen-venanto — home-comer)*
+	  * → jan ***pi*** tawa tomo
+* jan ni: ona li kama sona e toki pona *(tiu persono, kiu lernas Tokiponon — that person, who is studying Toki Pona)*
+* jan ***pi*** ~~ijo ni:~~ ona li kama sona (e toki pona) *(iu, kiu studas (Tokiponon) — someone, who is studying (Toki Pona))*
+  * → jan ***pi*** ~~ona~~ li kama sona (e toki pona) *(iu studanta (Tokiponon) — someone studying (Toki Pona))*
+    * → jan ***pi*** ~~li~~ kama sona (e toki pona) *(studanto de (Tokipono) — a student (of Toki Pona))*
+      * → jan ***pi*** kama sona (e toki pona)
 
 ### sitelen nasa lon poka nimi
 *(Stranga Interpunkcio — Strange Punctuation)*
