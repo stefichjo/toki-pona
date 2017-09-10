@@ -1006,7 +1006,7 @@
 
 * ***~~tawa~~*** mi ***la*** sina jan pona. *(Laŭ mi, vi estas bona persono. — From my point of view, you are a good person.)*
   * → mi ***la*** sina jan pona.
-* sina ***~~tawa~~** lukin sama waso. *(Vi aspektas kiel birdo. — You look like a bird.)*
+* sina ***~~tawa~~*** lukin sama waso. *(Vi aspektas kiel birdo. — You look like a bird.)*
   * → sina lukin sama waso.
 * sina pilin ~~ike~~ tan utala. *(Vi malbone empatias pro batalo. → Vi estas kolera. — You are empathizing badly because of struggle. → You are angry.)*
   * → sina pilin ~~tan~~ utala.
