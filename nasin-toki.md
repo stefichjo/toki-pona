@@ -646,6 +646,17 @@
 ## toki musi
 *(Eksperimenta Lingvaĵo — Experimental Language)*
 
+* ***ijo*** lukin *(vidaĵo, videnda, vidata — something to see, must-see, seen)*
+
+...
+
+* ***pona*** lukin *(vidinda, bela — beautiful)*
+* ***ike*** lukin *(malvidinda, malbela — ugly)*
+* ***insa*** lukin *(videbla — visible)*
+* ***weka*** lukin *(malvidebla — invisible)*
+* ***open*** lukin *(travidebla, transparenta — transparent)*
+* ***selo*** lukin *(maltravidebla, maltransparenta — opaque)*
+
 ### nimi lili "li" musi
 *(Eksperimentaj Subjekto kaj Predikato — Experimental Subject and Predicate)*
 
@@ -1481,9 +1492,9 @@
 * **seli** ***[cxeli]*** *([PONA](#nimi-pona))* - varma, arda — warm, hot
   * *([MUN°](#nimi-mun-musi))* marsa, marda — mars's, tuesday's
 * **selo** ***[ŝelo]*** *([LAWA ILO°](#nimi-lawa-ilo-musi))*
-  * *([LAWA](#nimi-lawa))* - organo por formi: haŭto, ŝelo — organ for forming: skin, shell
+  * *([LAWA](#nimi-lawa))* - organo por formi, fermi: haŭto, ŝelo — organ for forming, closing: skin, shell
     * *(lon ... pi)* - sur, koncerne -n — on, affecting
-  * *(WAWA PALISA°)* - formi — to form
+  * *(WAWA PALISA°)* - formi, fermi — to form, to close
 * **seme** ~~senme~~ ***[ŝenme]*** *([PALISA](#nimi-palisa))*
   * *([POKA](#nimi-poka))* - kiu — which
   * *([LAWA](#nimi-lawa))* - kio — what
