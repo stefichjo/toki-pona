@@ -1056,7 +1056,7 @@
   * → jan ***pi*** ~~ona~~ li tawa tomo *(iu venanta hejmen — someone coming home)*
     * → jan ***pi*** ~~li~~ tawa tomo *(hejmen-venanto — home-comer)*
 	  * → jan ***pi*** tawa tomo
-* jan ni: ona li kama sona e toki pona *(tiu persono, kiu lernas Tokiponon — that person, who is studying Toki Pona)*
+* jan ni: ona li kama sona (e toki pona) *(tiu persono, kiu lernas (Tokiponon) — that person, who is studying (Toki Pona))*
 * jan ***pi*** ~~ijo ni:~~ ona li kama sona (e toki pona) *(iu, kiu studas (Tokiponon) — someone, who is studying (Toki Pona))*
   * → jan ***pi*** ~~ona~~ li kama sona (e toki pona) *(iu studanta (Tokiponon) — someone studying (Toki Pona))*
     * → jan ***pi*** ~~li~~ kama sona (e toki pona) *(studanto de (Tokipono) — a student (of Toki Pona))*
