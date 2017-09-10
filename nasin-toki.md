@@ -1052,15 +1052,15 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The beginning of a [subordinate clause](#mute-nimi-poka) can disappear. Therefore, [auxiliary verbs](#nimi-wawa-poka) and [prepositions](#nimi-poka-palisa) can become [nouns](#nimi-lawa).  
 
 * jan ni: ona li tawa tomo *(tiu persono, kiu venas hejmen — that person, who comes home)*
-* jan ***pi*** ~~ijo ni:~~ ona li tawa tomo *(iu, kiu venas hejmen — someone, who comes home)*
-  * → jan ***pi*** ~~ona~~ li tawa tomo *(iu venanta hejmen — someone coming home)*
-    * → jan ***pi*** ~~li~~ tawa tomo *(hejmen-venanto — home-comer)*
-	  * → jan ***pi*** tawa tomo
+* jan pi ~~ijo ni:~~ ona li tawa tomo *(iu, kiu venas hejmen — someone, who comes home)*
+  * → jan pi ~~ona~~ li tawa tomo *(iu venanta hejmen — someone coming home)*
+    * → jan pi ~~li~~ tawa tomo *(hejmen-venanto — home-comer)*
+	  * → jan pi tawa tomo
 * jan ni: ona li kama sona (e toki pona) *(tiu persono, kiu lernas (Tokiponon) — that person, who is studying (Toki Pona))*
-* jan ***pi*** ~~ijo ni:~~ ona li kama sona (e toki pona) *(iu, kiu studas (Tokiponon) — someone, who is studying (Toki Pona))*
-  * → jan ***pi*** ~~ona~~ li kama sona (e toki pona) *(iu studanta (Tokiponon) — someone studying (Toki Pona))*
-    * → jan ***pi*** ~~li~~ kama sona (e toki pona) *(studanto de (Tokipono) — a student (of Toki Pona))*
-      * → jan ***pi*** kama sona (e toki pona)
+* jan pi ~~ijo ni:~~ ona li kama sona (e toki pona) *(iu, kiu studas (Tokiponon) — someone, who is studying (Toki Pona))*
+  * → jan pi ~~ona~~ li kama sona (e toki pona) *(iu studanta (Tokiponon) — someone studying (Toki Pona))*
+    * → jan pi ~~li~~ kama sona (e toki pona) *(studanto de (Tokipono) — a student (of Toki Pona))*
+      * → jan pi kama sona (e toki pona)
 
 ### sitelen nasa lon poka nimi
 *(Stranga Interpunkcio — Strange Punctuation)*
