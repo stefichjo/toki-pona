@@ -946,7 +946,10 @@
 ## toki nasa
 *(Stranga Lingvaĵo — Strange Language)*
 
-### nimi lili "li" nasa
+### nimi lili nasa
+*(Strangaj Partikuloj — Strange Particles)*
+
+#### nimi lili "li" nasa
 *(Strangaj Subjekto kaj Predikato — Strange Subject and Predicate)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li weka e [nimi lili "li"](#nimi-lili-li) nanpa wan taso lon pini pi nimi "mi" anu nimi "sina".  
@@ -957,13 +960,13 @@
 * mi ~~li~~ lukin mute li sona lili.
   * → mi lukin mute li sona lili.
 
-### nimi lili "o" nasa
+#### nimi lili "o" nasa
 *(Strangaj Volativo, Vokativo kaj Imperativo — Strange Volative, Vocative and Imperative)*
 
 * ~~ni~~ o ~~kama:~~ sina lape pona. *(Ke vi dormu bone. — May you sleep well.)*
   * → o sina lape pona.
 
-### nimi lili "pi" nasa
+#### nimi lili "pi" nasa
 *(Stranga Genitivo — Strange Genitive)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li [nimi wawa](#nimi-wawa) e [nimi lili "pi"](#nimi-lili-pi) lon poka pi [nimi lawa esun](#nimi-lawa-esun).  
@@ -987,7 +990,15 @@
 * mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon. — I translate the movie.)*
   * → mi ante ***toki e*** sitelen tawa.
 
-### nimi lili "la" nasa
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "pi"](#nimi-lili-pi) li ken kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [partikulo "pi"](#nimi-lili-pi) povas malaperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [particle "pi"](#nimi-lili-pi) can disappear.
+
+* tomo telo nasa *(stranga necesejo — strange bathroom)*
+* tomo ~~pi~~ telo nasa *(trinkejo — pub)*
+  * tomo telo nasa
+
+#### nimi lili "la" nasa
 *(Stranga Kunteksta Frazero — Strange Contextual Fragment)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ala la jan **Pije** li nimi poka nanpa wan e [nimi poka palisa](#nimi-poka-palisa) lon kama pi **nimi lili** "[la](#nimi-lili-la)".  
@@ -998,7 +1009,7 @@
   * → sina pu ***lon tan pi*** jan pona.
     * → ***tan pi*** jan pona la sina pu.
 
-### nimi lili "en", "anu" nasa
+#### nimi lili "en", "anu" nasa
 *(Strangaj Konjunkcioj — Strange Conjunctions)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **sitelen nanpa** li ken kama [nimi lili](#nimi-lili-en-anu) nasa ["en"](#nimi-lili-en-anu).  
@@ -1008,7 +1019,13 @@
 * tomo pi telo nasa, pi jan pona. *(trinkejo de amiko — a friend's bar)*
   * → tomo pi telo nasa ***en*** pi jan pona.
 
-### nimi wawa poka nasa
+### nimi suli nasa
+*(Strangaj Radikaj Vortoj — Strange Content Words)*
+
+#### nimi wawa nasa
+*(Strangaj Verboj — Strange Verbs)*
+
+##### nimi wawa poka nasa
 *(Strangaj Helpaj Verboj — Strange Auxiliary Verbs)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "pana" li ken kama [nimi wawa poka](#nimi-wawa-poka).  
@@ -1032,7 +1049,10 @@
 * ona li ~~kama~~ ***lape*** lon ~~pini pi~~ tenpo lili. *(Ŝi endormiĝos post mallonga tempo. Ŝi baldaŭ dormos. Ŝi rapide endormiĝas. — She will sleep after a short period of time. She will sleep soon. She falls asleep quickly.)*
   * → ona li ***lape*** lon tenpo lili.
 
-### nimi poka palisa nasa
+#### nimi poka nasa
+*(Strangaj Modifiloj — Strange Modifiers)*
+
+##### nimi poka palisa nasa
 *(Strangaj Prepozicioj — Strange Prepositions)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka palisa](#nimi-poka-palisa) li ken kama weka.  
@@ -1069,7 +1089,10 @@
 * mi ***kepeken*** ilo. *(Mi uzas la instrumenton. — I use the instrument.)*
   * → mi ***kepeken e*** ilo.
 
-### nimi nasa pi ijo anu jan
+#### nimi lawa nasa
+*(Strangaj Substantivoj — Strange Nouns)*
+
+##### nimi lawa esun nasa
 *(Strangaj Pronomoj — Strange Pronouns)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa esun](#nimi-lawa-esun) li kama weka lon kama pi [nimi poka palisa](#nimi-poka-palisa) "sama".  
@@ -1079,7 +1102,10 @@
 * ona li telo e ~~ona~~ ***sama***. *(Ŝi lavas sin. — She washes herself.)*
   * → ona li telo e ***sama***.
 
-### mute nimi poka nasa
+#### mute nimi nasa
+*(Strangaj Frazoj — Strange Sentences)*
+
+##### mute nimi poka nasa
 *(Strangaj Subfrazoj — Strange Subordinate Clauses)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi [mute nimi poka](#mute-nimi-poka) li ken kama weka. tan ni la [nimi wawa poka](#nimi-wawa-poka) en [nimi poka palisa](#nimi-poka-palisa) li ken kama [nimi lawa](#nimi-lawa).  
@@ -1097,7 +1123,7 @@
     * → jan pi ~~li~~ kama sona (e toki pona) *(studanto de (Tokipono) — a student (of Toki Pona))*
       * → jan pi kama sona (e toki pona)
 
-### sitelen nasa lon poka nimi
+#### sitelen nasa lon poka nimi
 *(Stranga Interpunkcio — Strange Punctuation)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li weka e **sitelen nanpa** lon kama pi **nimi lili** "[la](#nimi-lili-la)".  
@@ -1114,7 +1140,7 @@
 * mi wile lukin e tomo mi, ***taso*** mi jo ala e tenpo. *(Mi volas vidi mian domon, sed mi ne havas tempon. — I want to see my house, but I don't have time.)*
   * → mi wile lukin e tomo mi. ***taso*** mi jo ala e tenpo. *(Mi volas vidi mian domon. Sed mi ne havas tempon. — I want to see my house. But I don't have time.)*
 
-### pini nimi nasa pi ijo mute
+#### pini nimi nasa pi ijo mute
 *(Strangaj Multenombroj — Strange Plurals)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **pini nimi** "-s" li jo e kon pi [nimi poka nanpa](#nimi-poka-nanpa) "mute".  
