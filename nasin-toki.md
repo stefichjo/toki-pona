@@ -653,7 +653,7 @@
 
 ### nimi lili musi
 
-| toki lili musi |
+| nimi lili musi |
 |:-:|
 | [nimi lili "li" musi](#nimi-lili-li-musi) |
 | [nimi lili kalama musi](#nimi-lili-kalama-musi) |
@@ -684,8 +684,7 @@
 |:-:|
 | [nimi poka musi](#nimi-poka-musi) |
 | [nimi wawa musi](#nimi-wawa-musi) |
-
-...
+| [nimi lawa musi](#nimi-lawa-musi) |
 
 #### nimi poka musi
 *(Eksperimentaj Modifiloj — Experimental Modifiers)*
