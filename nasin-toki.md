@@ -462,6 +462,7 @@
 * mi ***kama*** sona toki pona. *(Mi lernas paroli Tokiponon. — I learn how to speak Toki Pona.)*
 
 #### nimi poka
+*(Modifiloj — Modifiers)*
 
 | nimi poka |
 |:-:|
@@ -575,6 +576,11 @@
 ## toki namako
 *(Aldona Lingvaĵo — Additional Language)*
 
+| nimi poka |
+|:-:|
+| [nimi lili namako](#nimi-lili-namako) |
+| [nimi suli namako](#nimi-suli-namako) |
+
 ### nimi lili namako
 *(Aldonaj Partikuloj — Additional Particles)*
 
@@ -639,18 +645,20 @@
 ## toki musi
 *(Eksperimenta Lingvaĵo — Experimental Language)*
 
-* ***ijo*** lukin *(vidaĵo, videnda, vidata — something to see, must-see, seen)*
+| toki musi |
+|:-:|
+| [nimi lili musi](#nimi-lili-musi) |
+| [nimi suli musi](#nimi-suli-musi) |
+| [sitelen musi lon poka nimi](#sitelen-musi-lon-poka-nimi) |
 
-...
+### nimi lili musi
 
-* ***pona*** lukin *(vidinda, bela — beautiful)*
-* ***ike*** lukin *(malvidinda, malbela — ugly)*
-* ***insa*** lukin *(videbla — visible)*
-* ***weka*** lukin *(malvidebla — invisible)*
-* ***open*** lukin *(travidebla, transparenta — transparent)*
-* ***selo*** lukin *(maltravidebla, maltransparenta — opaque)*
+| toki lili musi |
+|:-:|
+| [nimi lili "li" musi](#nimi-lili-li-musi) |
+| [nimi lili kalama musi](#nimi-lili-kalama-musi) |
 
-### nimi lili "li" musi
+#### nimi lili "li" musi
 *(Eksperimentaj Subjekto kaj Predikato — Experimental Subject and Predicate)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> lon pini pi nimi "mi" anu nimi "sina" la [nimi lili "li"](#nimi-lili-li) li kama weka ala lon ni: [nimi lili "li"](#nimi-lili-li) nanpa tu li lon.  
@@ -660,7 +668,7 @@
 * mi lukin mute. mi sona lili. *(Mi vidas multe kaj scias malmulte. — I am seeing much and knowing little.)*
   * → mi ***li*** lukin mute ***li*** sona lili.
 
-### nimi lili kalama musi
+#### nimi lili kalama musi
 *(Eksperimentaj Interjekcioj — Experimental Interjections)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili kalama](#nimi-lili-kalama) li ken jo e kon pi [nimi poka](#nimi-poka) tan [nimi lili kalama](#nimi-lili-kalama) sama.  
@@ -672,24 +680,41 @@
 ### nimi suli musi
 *(Eksperimentaj Radikaj Vortoj — Experimental Content Words)*
 
+| nimi suli musi |
+|:-:|
+| [nimi poka musi](#nimi-poka-musi) |
+| [nimi wawa musi](#nimi-wawa-musi) |
+
+...
+
+#### nimi poka musi
+*(Eksperimentaj Modifiloj — Experimental Modifiers)*
+
+| nimi poka musi |
+|:-:|
+| [nimi poka nanpa musi](#nimi-poka-nanpa-musi) |
+| [nimi poka palisa musi](#nimi-poka-palisa-musi) |
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi tu sama li jo e kon pi [nimi poka](#nimi-poka) "a".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Du samaj vortoj havas la signifon de la [modifilo](#nimi-poka) "a".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> Two same words have the meaning of the [modifier](#nimi-poka) "a".
 
 * sina ***suli suli***! *(Vi estas vere alta! — You are really tall!)*
 
-### nimi lili "e" musi
-*(Eksperimenta Akuzativo — Experimental Accusative)*
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) "ijo" en [nimi poka palisa](#nimi-poka-palisa) "tawa" en [nimi wawa palisa](#nimi-wawa-palisa).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Pasivo.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Passive.
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [mute nimi](#mute-nimi) pi [nimi wawa](#nimi-wawa) "pana" li ken jo e kon pi [mute nimi](#mute-nimi) pi **nimi suli palisa** tan [nimi poka](#nimi-poka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Frazo](#mute-nimi) kun la [verbo](#nimi-wawa) "pana" povas havi la signifon de [frazo](#mute-nimi) kun kaŭzativo (t.e. **transitiva verbo** el [modifilo](#nimi-poka)).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [sentence](#mute-nimi) with the [verb](#nimi-wawa) "pana" can have the meaning of a [sentence](#mute-nimi) with a causative (i.e. a **transitive verb** from a [modifier](#nimi-poka)).
+* ***ijo*** ~~tawa~~ lukin *(io por la okulo, io por vidado, vidaĵo, videnda, vidata — something for the eye, something to see, must-see, being seen)*
+  * ***ijo*** lukin
+* ***pona*** lukin *(vidinda, bela — beautiful)*
+  * ***ike*** lukin *(malvidinda, malbela — ugly)*
+* ***insa*** lukin *(videbla — visible)*
+  * ***weka*** lukin *(malvidebla — invisible)*
+* ***open*** lukin *(travidebla, transparenta — transparent)*
+  * ***selo*** lukin *(maltravidebla, maltransparenta — opaque)*
 
-* mi pona e tomo. *(Mi riparas la domon. — I repair the house.)*
-  * → mi pana e pona tawa tomo.
-    * → mi pana e ni: tomo li pona.
-
-### nimi poka nanpa musi
+##### nimi poka nanpa musi
 *(Eksperimentaj Numeraloj — Experimental Numerals)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "mute", "esun" li [nimi poka nanpa](#nimi-poka-nanpa) musi.  
@@ -751,9 +776,6 @@
 | ... | ... | ... | ... | ... |
 | 2001 | 5×2×5×2×5×2×2 + 1 | luka tu luka tu luka tu tu en wan | 5×5×5×5×3 + 5×5×5 + 1 | luka luka luka luka mute en luka luka luka en wan
 
-#### nimi musi pi nanpa esun
-*(Eksperimentaj Vortoj por Sinsekvoj — Experimental Words for Sequences)*
-
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kon pi poka ante, pi nimi "nanpa wan" li nimi "nanpa ale".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La malo de "nanpa wan" estas "nanpa ale".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The opposite of "nanpa wan" is "nanpa ale".
@@ -775,7 +797,7 @@
 
 * ilo sona li ***nanpa sin*** e pali. *(La komputilo ripetas la taskon. La komputilo iteracias la algoritmon. — The computer repeats the task. The computer iterates the algorithm.)*
 
-### nimi poka palisa musi
+##### nimi poka palisa musi
 *(Eksperimentaj Prepozicioj — Experimental Prepositions)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ante", "pu", "sin", "taso", "weka" li [nimi poka palisa](#nimi-poka-palisa) musi.  
@@ -805,7 +827,10 @@
 * ona li suli ***lon*** sina. *(Ŝi estas pli alta ol vi. — She is taller than you.)*
   * → sina la ona li suli.
 
-### nimi wawa poka musi
+#### nimi wawa musi
+*(Eksperimentaj Verboj — Experimental Verbs)*
+
+##### nimi wawa poka musi
 *(Eksperimentaj Helpaj Verboj — Experimental Auxiliary Verbs)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "pini" li ken kama [nimi wawa poka](#nimi-wawa-poka) **musi**.  
@@ -823,16 +848,18 @@
 * mi ***lon*** awen sona. *(Mi estas memoranta. — I am remembering.)*
 * mi ***tawa*** kama sona. *(Mi estas lernonta. — I am about to learn.)*
 
-### nimi lawa jan musi
-*(Eksperimentaj Ulaj Vortoj — Experimental Person Words)*
+#### nimi lawa musi
+*(Eksperimentaj Substantivoj — Experimental Nouns)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "akesi", "mama", "soweli" li [nimi lawa jan](#nimi-lawa-jan) **musi**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "akesi", "mama" kaj "soweli" estas **eksperimentaj** [ulaj vortoj](#nimi-lawa-jan).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "akesi", "mama" and "soweli" are **experimental** [person words](#nimi-lawa-jan).
+| nimi lawa musi |
+|:-:|
+| [nimi lawa ijo musi](#nimi-lawa-ijo-musi) |
+| [nimi lawa jan musi](#nimi-lawa-jan-musi) |
+| [nimi lawa ilo musi](#nimi-lawa-ilo-musi) |
+| [nimi lawa sijelo musi](#nimi-lawa-sijelo-musi) |
+| [nimi lawa mun musi](#nimi-lawa-mun-musi) |
 
-* mi en sina li toki ***kulupu***. *(Mi kaj vi parolas unu al la alia. — You and I talk to one another.)*
-
-### nimi lawa ijo musi
+##### nimi lawa ijo musi
 *(Eksperimentaj Aĵaj Vortoj — Experimental Thing Words)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo", "tomo" li [nimi lawa ijo](#nimi-lawa-ijo) **musi**.  
@@ -841,7 +868,16 @@
 
 * lipu ***ilo*** *(utila libro — a useful book)*
 
-### nimi lawa ilo musi
+##### nimi lawa jan musi
+*(Eksperimentaj Ulaj Vortoj — Experimental Person Words)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "akesi", "mama", "soweli" li [nimi lawa jan](#nimi-lawa-jan) **musi**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "akesi", "mama" kaj "soweli" estas **eksperimentaj** [ulaj vortoj](#nimi-lawa-jan).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "akesi", "mama" and "soweli" are **experimental** [person words](#nimi-lawa-jan).
+
+* mi en sina li toki ***kulupu***. *(Mi kaj vi parolas unu al la alia. — You and I talk to one another.)*
+
+##### nimi lawa ilo musi
 *(Eksperimentaj Ilaj Vortoj — Experimental Tool Words)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "len", "luka", "noka", "palisa", "poki", "selo", "uta" li [nimi lawa ilo](#nimi-lawa-ilo) **musi**.  
@@ -850,7 +886,7 @@
 
 * o ***luka*** ala e seli! *(Ne tuŝu la fajron! — Don't touch the fire!)*
 
-### nimi lawa sijelo musi
+##### nimi lawa sijelo musi
 *(Eksperimentaj Korpaj Vortoj — Experimental Body Words)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "esun" li [nimi lawa sijelo](#nimi-lawa-sijelo) **musi**.  
@@ -865,7 +901,7 @@
 
 * mi ***kala*** telo. *(Mi naĝas en akvo. — I'm swimming in water.)*
 
-### nimi mun musi
+##### nimi lawa mun musi
 *(Eksperimentaj Vortoj pri Ĉielirantaj Objektoj — Experimental Words of Skywalking Objects)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi mun** li ken [nimi poka](#nimi-poka) taso.  
@@ -874,7 +910,7 @@
 
 * tan tenpo suno ***Mun*** tawa tenpo suno ***Kiwen*** la jan li ken lukin e loje pi mun ***Seli***. *(De lundo ĝis vendredo, oni povas vidi la ruĝon de marso. — From Monday to Friday one can see the red of Mars.)*
 
-### sitelen musi lon poka nimi
+#### sitelen musi lon poka nimi
 *(Eksperimenta Interpunkcio — Experimental Punctuation)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi mute nimi la nimi pi kon sin li lon pini pi sitelen pi ijo kama.  
