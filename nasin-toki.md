@@ -64,7 +64,6 @@
 |:-:|
 | [nimi lili](#nimi-lili) |
 | [nimi suli](#nimi-suli) |
-| [mute nimi](#mute-nimi) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili](#nimi-lili) en [nimi suli](#nimi-suli) li lon.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Estas [partikuloj](#nimi-lili) kaj [radikaj vortoj](#nimi-suli).  
@@ -319,6 +318,7 @@
 | [nimi poka](#nimi-poka) |
 | [nimi palisa](#nimi-palisa) |
 | [nimi pona](#nimi-pona) |
+| [mute nimi](#mute-nimi) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli** wan taso li [nimi lawa](#nimi-lawa).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Sola **radika vorto** estas [substantivo](#nimi-lawa).  
@@ -561,10 +561,10 @@
 * telo li ***wawa*** e mi. *(Akvo fortigas min. — Water strengthens me.)*
 * ***wawa*** li lon insa. *(Forto estas ene. — Strength lies within.)*
 
-### mute nimi
+#### mute nimi
 *(Frazoj — Sentences)*
 
-#### mute nimi poka
+##### mute nimi poka
 *(Subfrazoj — Subordinate Clauses)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **mute nimi poka** lon pini taso pi **mute nimi**. ni la **sitelen nanpa** li kama **sitelen palisa**.  
@@ -649,7 +649,7 @@
 |:-:|
 | [nimi lili musi](#nimi-lili-musi) |
 | [nimi suli musi](#nimi-suli-musi) |
-| [sitelen musi lon poka nimi](#sitelen-musi-lon-poka-nimi) |
+| [sitelen musi pi poka nimi](#sitelen-musi-pi-poka-nimi) |
 
 ### nimi lili musi
 
@@ -909,7 +909,7 @@
 
 * tan tenpo suno ***Mun*** tawa tenpo suno ***Kiwen*** la jan li ken lukin e loje pi mun ***Seli***. *(De lundo ĝis vendredo, oni povas vidi la ruĝon de marso. — From Monday to Friday one can see the red of Mars.)*
 
-#### sitelen musi lon poka nimi
+#### sitelen musi pi poka nimi
 *(Eksperimenta Interpunkcio — Experimental Punctuation)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi mute nimi la nimi pi kon sin li lon pini pi sitelen pi ijo kama.  
@@ -946,8 +946,22 @@
 ## toki nasa
 *(Stranga Lingvaĵo — Strange Language)*
 
+| toki nasa |
+|:-:|
+| [nimi lili nasa](#nimi-lili-nasa) |
+| [nimi suli nasa](#nimi-suli-nasa) |
+| [sitelen nasa pi poka nimi](#sitelen-nasa-pi-poka-nimi) |
+
 ### nimi lili nasa
 *(Strangaj Partikuloj — Strange Particles)*
+
+| nimi lili nasa |
+|:-:|
+| [nimi lili "li" nasa](#nimi-lili-li-nasa) |
+| [nimi lili "o" nasa](#nimi-lili-o-nasa) |
+| [nimi lili "pi" nasa](#nimi-lili-pi-nasa) |
+| [nimi lili "la" nasa](#nimi-lili-la-nasa) |
+| [nimi lili "en", "anu" nasa](#nimi-lili-en-anu-nasa) |
 
 #### nimi lili "li" nasa
 *(Strangaj Subjekto kaj Predikato — Strange Subject and Predicate)*
@@ -1021,6 +1035,13 @@
 
 ### nimi suli nasa
 *(Strangaj Radikaj Vortoj — Strange Content Words)*
+
+| nimi suli nasa |
+|:-:|
+| [nimi wawa nasa](#nimi-wawa-nasa) |
+| [nimi poka nasa](#nimi-poka-nasa) |
+| [nimi lawa nasa](#nimi-lawa-nasa) |
+| [mute nimi nasa](#mute-nimi-nasa) |
 
 #### nimi wawa nasa
 *(Strangaj Verboj — Strange Verbs)*
@@ -1123,7 +1144,7 @@
     * → jan pi ~~li~~ kama sona (e toki pona) *(studanto de (Tokipono) — a student (of Toki Pona))*
       * → jan pi kama sona (e toki pona)
 
-#### sitelen nasa lon poka nimi
+### sitelen nasa pi poka nimi
 *(Stranga Interpunkcio — Strange Punctuation)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li weka e **sitelen nanpa** lon kama pi **nimi lili** "[la](#nimi-lili-la)".  
@@ -1139,16 +1160,6 @@
 
 * mi wile lukin e tomo mi, ***taso*** mi jo ala e tenpo. *(Mi volas vidi mian domon, sed mi ne havas tempon. — I want to see my house, but I don't have time.)*
   * → mi wile lukin e tomo mi. ***taso*** mi jo ala e tenpo. *(Mi volas vidi mian domon. Sed mi ne havas tempon. — I want to see my house. But I don't have time.)*
-
-#### pini nimi nasa pi ijo mute
-*(Strangaj Multenombroj — Strange Plurals)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **pini nimi** "-s" li jo e kon pi [nimi poka nanpa](#nimi-poka-nanpa) "mute".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La **finaĵo** "-s" havas la signifon de la [numeralo](#nimi-poka-nanpa) "mute".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The **ending** "-s" has the meaning of the [numeral](#nimi-poka-nanpa) "mute".
-
-* jan pona mute li lon. *(Estas multaj amikoj. — There are many friends.)*
-  * → jan**s** pona**s** li lon**s**.
 
 ## toki sin
 *(Novaj Lingvoj — New Languages)*
@@ -1367,8 +1378,8 @@
 * **ko** ***[gow]*** *([LAWA IJO](#nimi-lawa-ijo))*
   * *([POKA](#nimi-poka))* - duon-malmola — semi-solid
   * *([LAWA](#nimi-lawa))* - io duon-malmola: pasto, pulvoro, polvo — something semi-solid: dough, powder, dust
-  * *(... pi selo ala)* ne-formita duon-malmolaĵo, pulvoro, polvo — un-formed semi-solid something, powder, dust
-  * *(... selo)* formita duon-malmolaĵo, pasto — formed semi-solid something, dough
+  * *(... pi selo ala°)* ne-formita duon-malmolaĵo, pulvoro, polvo — un-formed semi-solid something, powder, dust
+  * *(... selo°)* formita duon-malmolaĵo, pasto — formed semi-solid something, dough
 * **kon** ***[kong]*** *([LAWA IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io ŝvebanta: aero, spirito, esenco, kaŝita realo — something hovering: air, spirit, essence, hidden reality
   * *([POKA°](#nimi-poka-musi))* - ŝvebanta — hovering
@@ -1491,7 +1502,7 @@
   * *([WAWA PALISA](#nimi-wawa-palisa))* = **kama e**
   * *(... [LAWA PALI°](#nimi-lawa-pali))* - -... — -...
 * **pakala** ***[bagar-ap]*** *([PONA](#nimi-pona))* ***≠ pona*** - damaĝita, lezita — damaged, harmed
-* **pake e** ⇒ **len e lupa pi**
+* **pake e** ⇒ **len e lupa pi**, **selo e**
 * **pali** ***[fari]*** *([LAWA PALI](#nimi-lawa-pali))* = "***luka e ijo***"
   * *([WAWA PALISA](#nimi-wawa-palisa))* - prepari, krei — to prepare, to create
   * *([LAWA](#nimi-lawa))* - io por prepari, io por krei: laboro, tasko — something to prepare, something to create: work, task
@@ -1552,7 +1563,7 @@
   * *([MUN°](#nimi-mun-musi))* marsa, marda — mars's, tuesday's
 * **selo** ***[ŝelo]*** *([LAWA ILO°](#nimi-lawa-ilo-musi))*
   * *([LAWA](#nimi-lawa))* - organo por formi, fermi: haŭto, ŝelo — organ for forming, closing: skin, shell
-    * *(lon ... pi)* - sur, koncerne -n — on, affecting
+    * *(lon ... pi°)* - sur, koncerne -n — on, affecting
   * *(WAWA PALISA°)* - formi, fermi — to form, to close
 * **seme** ~~senme~~ ***[ŝenme]*** *([PALISA](#nimi-palisa))*
   * *([POKA](#nimi-poka))* - kiu — which
@@ -1562,8 +1573,8 @@
   * *([LAWA](#nimi-lawa))* - io supera: ĉielo, Dio — something superior: heaven, God
     * *(lon ... pi)* - super — over
 * **sijelo** ***[tijelo]*** *([LAWA IJO°](#nimi-lawa-ijo-musi))*
-  * *([LAWA](#nimi-lawa))* - io adapita: vivaĵo, korpo — something adapted: living being, body
-  * *([POKA°](#nimi-poka-musi))* - adaptita — adapted
+  * *([LAWA](#nimi-lawa))* - io organizita: vivaĵo, korpo — something organized: living being, body
+  * *([POKA°](#nimi-poka-musi))* - organizita — organized
       *([LAWA°](#nimi-lawa-musi))* - fizika stato — physical state
 * **sike** ***[sirkel]*** *([LAWA IJO](#nimi-lawa-ijo))*
   * *([POKA](#nimi-poka))* - ronda — round
