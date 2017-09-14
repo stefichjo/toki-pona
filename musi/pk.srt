@@ -3,7 +3,7 @@
 architecture ("way of houses") = nasin tomo
 ask ("wanting to hear") = wile kute
 boss ("leading person") = jan lawa
-bridge ("bridging way") = nasin sinpin
+bridge ("bridging way") = nasin supa
 bum ("lower back") = noka monsi
 call ("try to talk to") = lukin toki
 doctor ("person of health") = jan sona pi pona sijelo
@@ -5204,12 +5204,13 @@ mani esun li lon.
 
 912
 01:41:54,275 --> 01:41:58,615
-
+mi open e esun.
 ==here's the inauguration.
 
 913
 01:42:07,075 --> 01:42:08,091
-now watch.
+o lukin.
+==now watch.
 
 914
 01:42:08,615 --> 01:42:11,619
