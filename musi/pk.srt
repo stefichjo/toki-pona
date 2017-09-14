@@ -3,8 +3,8 @@
 architecture ("way of houses") = nasin tomo
 ask ("wanting to hear") = wile kute
 boss ("leading person") = jan lawa
-bridge ("connecting horizontal surface, thing to put or rest something on") = supa nasin
-bum ("lower back") = monsi anpa
+bridge ("bridging way") = nasin sinpin
+bum ("lower back") = noka monsi
 call ("try to talk to") = lukin toki
 doctor ("person of health") = jan sona pi pona sijelo
 exchange ("business transaction") = esun
@@ -332,7 +332,7 @@ kepeken seme la mi ken weka e ike? ni li ike pali.
 
 60
 00:10:47,554 --> 00:10:50,252
-sona la ona li lon supa lon insa pi tomo ni li pilin pona tan nimi musi... taso mi lon ni...
+tawa sona la ona li lon insa li pilin pona tan nimi musi... taso mi lon selo...
 ==he must be sitting there and enjoying the poems..and i am here..
 
 61
@@ -682,7 +682,7 @@ tenpo pini la mi en jan sama mi li lili. ni la mi tu li lukin e sinpin lawa pi j
 
 128
 00:17:20,033 --> 00:17:24,187
-supa ale li jo e sinpin lawa ona.
+ale, poki pi tomo sona en len sinpin pi tomo telo, li jo e sinpin lawa ona.
 ==from school bag to bather wall he was present everywhere.
 
 129
@@ -1136,7 +1136,7 @@ sina wile lukin e jan utala anu seme? ona li lon ni.
 
 213
 00:25:17,129 --> 00:25:19,589
-sina wile lukin e pakala pi monsi anpa mi anu seme?
+sina wile lukin e pakala pi noka monsi mi anu seme?
 ==should I show you the marks on my bum?
 
 214
@@ -2975,7 +2975,7 @@ mi kama jo e mani wan tan tomo tawa pi tawa musi,
 
 538
 01:00:00,083 --> 01:00:11,153
-e mani ante tan jan pona ni, ona li lon supa nasin,
+e mani ante tan jan pona ni, ona li lon nasin supa,
 kepeken ni la jan li ken tan e mani lon wile.
 ==..and some from that generous man standing
 on the bridge so that people can take as much as they want.
@@ -4063,7 +4063,7 @@ solutions to my problems.
 
 716
 01:26:52,543 --> 01:26:57,189
-tenpo wan la ona li toki e ni: o supa o tawa sama sike tawa tomo mi.
+tenpo wan la ona li toki e ni: o anpa o tawa sama sike tawa tomo mi.
 kepeken ni la mi pali tawa sina.
 ==Sometimes he say come to my house rolling
 on the road then i will do your work.
@@ -4083,7 +4083,7 @@ kids to do such horrible things.
 719
 01:27:04,948 --> 01:27:10,349
 tenpo pini la mama mije sina li toki e ni tawa sina anu seme:
-sina wile e len sin la, o supa o tawa sama sike.
+sina wile e len sin la, o anpa o tawa sama sike.
 ==your father ever told you if you
 need a new dress you should roll on
 the floor?
@@ -4195,13 +4195,13 @@ jan tu taso li toki.
 738
 01:28:20,530 --> 01:28:23,975
 jan Jaku o..
-tenpo ni a la monsi anpa mi lon poka pi pilin ala li pakala.
+tenpo ni a la noka monsi mi lon poka pi pilin ala li pakala.
 ==jaggu..
 i already have marks on my right butt.
 
 739
 01:28:25,229 --> 01:28:27,784
-sina wile sama e poki tu? monsi anpa mi
+sina wile sama e poki tu? noka monsi mi
 lon poka pilin a o pakala anu seme?
 ==do you want it to be balanced out
 on the left butt too?
@@ -4434,7 +4434,7 @@ mi tu o tawa weka lon kama ni: ona li ante e wile ona.
 
 778
 01:31:04,978 --> 01:31:09,264
-sina o weka e monsi anpa sina, jan Si o,
+sina o weka e noka monsi sina, jan Si o,
 tan ni: mi pona e ilo utala mi.
 ==you better hide your butt now tapasvi,
 because my trishul (weapon) has launched.
