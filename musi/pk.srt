@@ -883,7 +883,7 @@ don't try to contact me. sorry.
 166
 00:21:20,698 --> 00:21:24,375
 mi lon ma tomo mi,
-taso @ mi wile ala e ni: mi lon tomo.
+taso mi ken ala lon tomo.
 ==I was in my city,
 but my didn't let me stay in the house.
 
@@ -5199,12 +5199,13 @@ esun li kama lon.
 
 911
 01:41:47,656 --> 01:41:50,008
-
+mani esun li lon.
 ==some investment.
 
 912
 01:41:54,275 --> 01:41:58,615
-here's the inauguration.
+
+==here's the inauguration.
 
 913
 01:42:07,075 --> 01:42:08,091

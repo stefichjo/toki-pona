@@ -842,13 +842,9 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 * mi ***pini jo*** e lipu. *(Mi ĉesis havi la libron. Mi perdis la libron. — I ceased to have the book. I lost the book.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka palisa](#nimi-poka-palisa) "tan", "lon", "tawa" li ken kama [nimi wawa poka](#nimi-wawa-poka) **musi**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [prepozicioj](#nimi-poka-palisa) "tan", "lon" kaj "tawa" povas fariĝi **eksperimentaj** [helpaj verboj](#nimi-wawa-poka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [prepositions](#nimi-poka-palisa) "tan", "lon" and "tawa" can become **experimental** [auxiliary verbs](#nimi-wawa-poka).
-
-[nimi poka palisa](#nimi-poka-palisa) en nimi "ni: ..." li ken kama [nimi wawa poka](#nimi-wawa-poka).
-[prepozicio](#nimi-poka-palisa) kaj la vortoj "ni: ..." povas fariĝi [helpa verbo](#nimii-wawa-poka).
-A [preposition](#nimi-poka-palisa) and the words "ni: ..." can become an [auxiliary verb](#nimi-wawa-poka).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka palisa](#nimi-poka-palisa) en nimi "ni: ..." li ken kama [nimi wawa poka](#nimi-wawa-poka).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [prepozicio](#nimi-poka-palisa) kaj la vortoj "ni: ..." povas fariĝi [helpa verbo](#nimii-wawa-poka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [preposition](#nimi-poka-palisa) and the words "ni: ..." can become an [auxiliary verb](#nimi-wawa-poka).
 
 * mi ***tan*** pini sona. *(Mi estas forgesinta. — I have forgotten.)*
 * mi ***lon*** awen sona. *(Mi estas memoranta. — I am remembering.)*
@@ -1514,8 +1510,7 @@ A [preposition](#nimi-poka-palisa) and the words "ni: ..." can become an [auxili
   * *([WAWA PALISA](#nimi-wawa-palisa))* - ami — to love
   * *([LAWA](#nimi-lawa))* - io por ami — something to love
 * **ona** ***[ona]*** *([LAWA ESUN](#nimi-lawa-esun))* - ŝi, li, ĝi, ili — she, he, it, they
-* **open** ***[open]*** *([PONA](#nimi-pona))* - malfermita — open
-  * *([WAWA PALISA](#nimi-wawa-palisa))* = **kama e**
+* **open** ***[open]*** *([PONA](#nimi-pona))* - malfermita, inaŭgurita, preta, ŝaltita — open, inaugurated, ready, turned on
   * *(... [LAWA PALI°](#nimi-lawa-pali))* - -... — -...
 * **pakala** ***[bagar-ap]*** *([PONA](#nimi-pona))* ***≠ pona*** - damaĝita, lezita — damaged, harmed
 * **pake e** ⇒ **len e lupa pi**, **selo e**
