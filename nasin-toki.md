@@ -1014,7 +1014,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Prepozicio](#nimi-poka-luka) estas supre.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Prepositions](#nimi-poka-luka) are above.  
 
-<img src="musi/sitelen/pona/mi-lon-tomo.png" height="75">
+<img src="musi/sitelen/pona/mi-lon-tomo.png" height="50">
 
 **mi lon tomo.**
 
