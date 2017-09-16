@@ -965,7 +965,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 **sina suli a!**
 
-<img src="musi/sitelen/pona/jan-ala-li-ike.png" height="25">
+<img src="musi/sitelen/pona/jan-ala-li-ike.png" height="50">
 
 **jan ala li ike.**
 
