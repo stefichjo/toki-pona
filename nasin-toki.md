@@ -1000,7 +1000,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili luka](#nimi-lili-luka) li lon anpa.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Transitiva partikulo](#nimi-lili-luka) estas sube.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Transitive particles](#nimi-lili-luka) are below.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Transitive particles](#nimi-lili-luka) are below.
 
 <img src="musi/sitelen/pona/ale-li-pona.png" height="50">
 
@@ -1012,7 +1012,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) li lon sewi.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Prepozicio](#nimi-poka-luka) estas supre.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Prepositions](#nimi-poka-luka) are above.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Prepositions](#nimi-poka-luka) are above.
 
 <img src="musi/sitelen/pona/mi-lon-tomo.png" height="50">
 
@@ -1020,7 +1020,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [mute nimi poka](#mute-nimi-poka) li lon anpa pi nimi "ni".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Subfrazo](#mute-nimi-poka) estas sub "ni".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Subordinate clauses](#mute-nimi-poka) are below "ni".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Subordinate clauses](#mute-nimi-poka) are below "ni".
 
 <img src="musi/sitelen/pona/mi-sona-e-ni-mi-anpa.png" height="50">
 
@@ -1028,15 +1028,15 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ni" li weka, la [mute nimi poka](#mute-nimi-poka) li lon ala anpa.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se "ni" mankas, la [subfrazo](#mute-nimi-poka) ne estas sube.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If "ni" is missing, the [subordinate clause](#mute-nimi-poka) is not below.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If "ni" is missing, the [subordinate clause](#mute-nimi-poka) is not below.
 
 <img src="musi/sitelen/pona/mi-pona-tawa-jan-la-jan-li-pona-tawa-mi.png" height="75">
 
 ~~lon ni,~~ **mi pona tawa jan, la jan li pona tawa mi.**
 
-<img src="musi/sitelen/len-ma/tp.png" height="18">   
-<img src="musi/sitelen/len-ma/eo.png" height="18">   
-<img src="musi/sitelen/len-ma/en.jpeg" height="18">   
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "taso" li lon sewi li lon poka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "taso" estas supre kaj apude.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "taso" is above and adjacent.
 
 <img src="musi/sitelen/pona/taso-mije-en-meli-li-pali-li-pilin-pona.png" height="75">
 
