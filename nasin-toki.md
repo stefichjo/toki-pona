@@ -659,6 +659,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 | [nimi lili musi](#nimi-lili-musi) |
 | [nimi suli musi](#nimi-suli-musi) |
 | [sitelen musi pi poka nimi](#sitelen-musi-pi-poka-nimi) |
+| [sitelen pona musi](#sitelen-pona-musi) |
 
 ### nimi lili musi
 
@@ -952,6 +953,13 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the end of a sentence, a [preposition](#nimi-poka-palisa) can have a ***division sign***.
 
 * mi pana e lipu / tawa sina. *(Mi donas la libron al vi. — I am giving the book to you.)*
+
+#### sitelen pona musi
+*(Eksperimentaj Hieroglifoj — Experimental Hieroglyphs)*
+
+<img src="musi/sitelen/pona/mi-pona-tawa-jan-la-jan-li-pona-tawa-mi.png" height="100">
+***mi pona tawa jan, la jan li pona tawa mi.***
+
 
 ## toki nasa
 *(Stranga Lingvaĵo — Strange Language)*
