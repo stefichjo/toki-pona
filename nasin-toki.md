@@ -1014,6 +1014,14 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 |:--:|:--:| 
 | *mi lon tomo.* | *mi pana e kala tawa ona lon tomo.* |
 
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa poka](#nimi-wawa-poka) li lon sewi.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Helpa verbo](#nimi-wawa-poka) estas supre.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Auxiliary Verbs](#nimi-wawa-poka) are above.
+
+| <img src="musi/sitelen/pona/mi-kama-sona-e-toki-pona.png" height="75"> |
+|:--:| 
+| *mi kama sona e toki pona.* |
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [mute nimi poka](#mute-nimi-poka) li lon anpa pi nimi "ni".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Subfrazo](#mute-nimi-poka) estas sub "ni".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Subordinate clauses](#mute-nimi-poka) are below "ni".
