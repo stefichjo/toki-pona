@@ -1014,17 +1014,13 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 |:--:|:--:| 
 | *mi lon tomo.* | *mi pana e kala tawa ona lon tomo.* |
 
-<img src="musi/sitelen/pona/mi-lon-tomo.png" height="50">
-
-
-
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [mute nimi poka](#mute-nimi-poka) li lon anpa pi nimi "ni".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Subfrazo](#mute-nimi-poka) estas sub "ni".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Subordinate clauses](#mute-nimi-poka) are below "ni".
 
-<img src="musi/sitelen/pona/mi-sona-e-ni-mi-anpa.png" height="50">
-
-**mi sona e ni: mi anpa.**
+| <img src="musi/sitelen/pona/mi-sona-e-ni-mi-anpa.png" height="50"> |
+|:--:| 
+| *mi sona e ni: mi anpa.* |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ni" li weka, la [mute nimi poka](#mute-nimi-poka) li lon ala anpa.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se "ni" mankas, la [subfrazo](#mute-nimi-poka) ne estas sube.  
