@@ -961,6 +961,10 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 **toki pona**
 
+<img src="musi/sitelen/pona/sina-suli-a.png" height="25">
+
+**sina suli a!**
+
 <img src="musi/sitelen/pona/toki-nanpa-wan.png" height="25">
 
 **toki nanpa wan**
