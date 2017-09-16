@@ -61,7 +61,7 @@
 |:-:|
 | [nimi lili](#nimi-lili) |
 | [nimi suli](#nimi-suli) |
-| [sitelen pona](#sitelen pona) |
+| [sitelen pona](#sitelen-pona) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili](#nimi-lili) en [nimi suli](#nimi-suli) li lon.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Estas [partikuloj](#nimi-lili) kaj [radikaj vortoj](#nimi-suli).  
