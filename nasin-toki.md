@@ -61,6 +61,7 @@
 |:-:|
 | [nimi lili](#nimi-lili) |
 | [nimi suli](#nimi-suli) |
+| [sitelen pona](#sitelen pona) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili](#nimi-lili) en [nimi suli](#nimi-suli) li lon.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Estas [partikuloj](#nimi-lili) kaj [radikaj vortoj](#nimi-suli).  
@@ -575,6 +576,41 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 * mi sona e ni: ***mi anpa***. *(Mi scias, ke mi estas malalta. — I know that I am low.)*
 
+### sitelen pona
+*(Hieroglifoj — Hieroglyphs)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) en [nimi poka](#nimi-poka) li kama wan.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Substantivo](#nimi-lawa) kaj [adjektivo](#nimi-poka) fariĝas unu.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [nouns](#nimi-lawa) and [adjectives](#nimi-poka) become one.
+
+<img src="musi/sitelen/pona/toki-pona.png" height="25">
+
+**toki pona**
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili kalama](#nimi-lili-kalama) li lon poka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Interjekcio](#nimi-lili-kalama) estas apude.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Interjections](#nimi-lili-kalama) are adjacent.  
+
+<img src="musi/sitelen/pona/sina-suli-a.png" height="25">
+
+**sina suli a!**
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) en [nimi palisa](#nimi-palisa) li kama wan.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Substantivo](#nimi-lawa) kaj [korelativo](#nimi-palisa) fariĝas unu.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Nouns](#nimi-lawa) and [correlatives](#nimi-palisa) become one.  
+
+<img src="musi/sitelen/pona/jan-ala-li-ike.png" height="50">
+
+**jan ala li ike.**
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili toki](#nimi-lili-toki) li lon poka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Citaĵo](#nimi-lili-toki) estas apude.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Quotations](#nimi-lili-toki) are adjacent.  
+
+<img src="musi/sitelen/pona/toki-nanpa-wan.png" height="25">
+
+**toki nanpa wan**
+
 ## toki namako
 *(Aldona Lingvaĵo — Additional Language)*
 
@@ -954,35 +990,12 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 * mi pana e lipu / tawa sina. *(Mi donas la libron al vi. — I am giving the book to you.)*
 
-#### sitelen pona
-*(Hieroglifoj — Hieroglyphs)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) en [nimi poka](#nimi-poka) li kama wan.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Substantivo](#nimi-lawa) kaj [adjektivo](#nimi-poka) fariĝas unu.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [nouns](#nimi-lawa) and [adjectives](#nimi-poka) become one.
-
-<img src="musi/sitelen/pona/toki-pona.png" height="25">
-
-**toki pona**
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> 
-<img src="musi/sitelen/len-ma/eo.png" height="18"> 
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> 
-
-<img src="musi/sitelen/pona/sina-suli-a.png" height="25">
-
-**sina suli a!**
-
-<img src="musi/sitelen/pona/jan-ala-li-ike.png" height="50">
-
-**jan ala li ike.**
-
-<img src="musi/sitelen/pona/toki-nanpa-wan.png" height="25">
-
-**toki nanpa wan**
-
 #### sitelen pona musi
 *(Eksperimentaj Hieroglifoj — Experimental Hieroglyphs)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18">  
+<img src="musi/sitelen/len-ma/eo.png" height="18">  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18">  
 
 <img src="musi/sitelen/pona/ale-li-pona.png" height="50">
 
