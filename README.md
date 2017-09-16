@@ -22,6 +22,6 @@
 
 | <img src="musi/sitelen/pona/o-pilin-pona-o-pu.png" height="50"> | 
 |:--:| 
-| **o pilin pona o pu.** |
+| *o pilin pona o pu!* |
 
 
