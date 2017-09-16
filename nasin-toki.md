@@ -1030,9 +1030,9 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 |:--:| 
 | ~~lon ni,~~ *mi pona tawa jan, la jan li pona tawa mi.* |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "taso" li lon sewi li lon poka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "taso" estas supre kaj apude.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "taso" is above and adjacent.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "taso" li lon sewi.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "taso" estas supre.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "taso" is above.
 
 | <img src="musi/sitelen/pona/taso-mije-en-meli-li-pali-li-pilin-pona.png" height="75"> |
 |:--:| 
