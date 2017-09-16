@@ -117,6 +117,7 @@
 | [pi](#nimi-lili-pi) |
 | [en](#nimi-lili-en-anu) |
 | [anu](#nimi-lili-en-anu) |
+| [la](#nimi-lili-la) |
 
 ##### nimi lili "li"
 *(Subjekto kaj Predikato — Subject and Predicate)*
