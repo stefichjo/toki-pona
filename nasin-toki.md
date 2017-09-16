@@ -1026,18 +1026,17 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se "ni" mankas, la [subfrazo](#mute-nimi-poka) ne estas sube.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If "ni" is missing, the [subordinate clause](#mute-nimi-poka) is not below.
 
-<img src="musi/sitelen/pona/mi-pona-tawa-jan-la-jan-li-pona-tawa-mi.png" height="75">
-
-~~lon ni,~~ **mi pona tawa jan, la jan li pona tawa mi.**
+| <img src="musi/sitelen/pona/mi-pona-tawa-jan-la-jan-li-pona-tawa-mi.png" height="75"> |
+|:--:| 
+| ~~lon ni,~~ *mi pona tawa jan, la jan li pona tawa mi.* |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "taso" li lon sewi li lon poka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> "taso" estas supre kaj apude.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> "taso" is above and adjacent.
 
-<img src="musi/sitelen/pona/taso-mije-en-meli-li-pali-li-pilin-pona.png" height="75">
-
-**taso mije en meli li pali li pilin pona.**
-
+| <img src="musi/sitelen/pona/taso-mije-en-meli-li-pali-li-pilin-pona.png" height="75"> |
+|:--:| 
+| *taso mije en meli li pali li pilin pona.* |
 
 ## toki nasa
 *(Stranga Lingvaĵo — Strange Language)*
