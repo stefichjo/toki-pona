@@ -957,6 +957,10 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 #### sitelen pona musi
 *(Eksperimentaj Hieroglifoj — Experimental Hieroglyphs)*
 
+<img src="musi/sitelen/pona/kulupu-la-mi-wawa.png" height="50">
+
+**kulupu la mi wawa.**
+
 <img src="musi/sitelen/pona/mi-pona-tawa-jan-la-jan-li-pona-tawa-mi.png" height="75">
 
 **mi pona tawa jan, la jan li pona tawa mi.**
