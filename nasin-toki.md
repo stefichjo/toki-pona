@@ -957,6 +957,10 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 #### sitelen pona musi
 *(Eksperimentaj Hieroglifoj — Experimental Hieroglyphs)*
 
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) en [nimi poka](#nimi-poka) li kama wan.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Substantivo](#nimi-lawa) kaj [adjektivo](#nimi-poka) fariĝas unu.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [nouns](#nimi-lawa) and [adjectives](#nimi-poka) become one.
+
 <img src="musi/sitelen/pona/toki-pona.png" height="25">
 
 **toki pona**
