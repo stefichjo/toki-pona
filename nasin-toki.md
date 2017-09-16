@@ -954,8 +954,8 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 * mi pana e lipu / tawa sina. *(Mi donas la libron al vi. — I am giving the book to you.)*
 
-#### sitelen pona musi
-*(Eksperimentaj Hieroglifoj — Experimental Hieroglyphs)*
+#### sitelen pona
+*(Hieroglifoj — Hieroglyphs)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) en [nimi poka](#nimi-poka) li kama wan.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Substantivo](#nimi-lawa) kaj [adjektivo](#nimi-poka) fariĝas unu.  
@@ -964,6 +964,10 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 <img src="musi/sitelen/pona/toki-pona.png" height="25">
 
 **toki pona**
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> 
+<img src="musi/sitelen/len-ma/eo.png" height="18"> 
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> 
 
 <img src="musi/sitelen/pona/sina-suli-a.png" height="25">
 
@@ -977,7 +981,8 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 **toki nanpa wan**
 
----
+#### sitelen pona musi
+*(Eksperimentaj Hieroglifoj — Experimental Hieroglyphs)*
 
 <img src="musi/sitelen/pona/ale-li-pona.png" height="50">
 
