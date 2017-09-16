@@ -596,25 +596,25 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Substantivo](#nimi-lawa) kaj [adjektivo](#nimi-poka) fariĝas unu.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [nouns](#nimi-lawa) and [adjectives](#nimi-poka) become one.
 
-<img src="musi/sitelen/pona/toki-pona.png" height="25">
-
-**toki pona**
+| <img src="musi/sitelen/pona/toki-pona.png" height="25"> | 
+|:--:| 
+| *toki pona* |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili kalama](#nimi-lili-kalama) li lon poka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Interjekcio](#nimi-lili-kalama) estas apude.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Interjections](#nimi-lili-kalama) are adjacent.  
 
-<img src="musi/sitelen/pona/sina-suli-a.png" height="25">
-
-**sina suli a!**
+| <img src="musi/sitelen/pona/sina-suli-a.png" height="25"> | 
+|:--:| 
+| *sina suli a!* |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili toki](#nimi-lili-toki) li lon poka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Citaĵo](#nimi-lili-toki) estas apude.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Quotations](#nimi-lili-toki) are adjacent.  
 
-<img src="musi/sitelen/pona/toki-nanpa-wan.png" height="25">
-
-**toki nanpa wan**
+| <img src="musi/sitelen/pona/toki-nanpa-wan.png" height="25"> | 
+|:--:| 
+| *toki nanpa wan* |
 
 ## toki namako
 *(Aldona Lingvaĵo — Additional Language)*
