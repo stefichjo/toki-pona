@@ -959,11 +959,11 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 <img src="musi/sitelen/pona/toki-pona.png" height="25">
 
-**toki-pona**
+**toki pona**
 
 <img src="musi/sitelen/pona/toki-nanpa-wan.png" height="25">
 
-**toki-nanpa-wan**
+**toki nanpa wan**
 
 ---
 
@@ -978,6 +978,14 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 <img src="musi/sitelen/pona/o-wawa.png" height="50">
 
 **o wawa!**
+
+<img src="musi/sitelen/pona/o-kute-e-mama-sina.png" height="50">
+
+**o kute e mama sina.**
+
+<img src="musi/sitelen/pona/mi-o-moku-e-ijo-pona.png" height="50">
+
+**mi o moku e ijo pona.**
 
 <img src="musi/sitelen/pona/mi-sona-e-ni-mi-anpa.png" height="50">
 
