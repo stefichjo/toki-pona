@@ -975,17 +975,13 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 **wawa li lon insa.**
 
-<img src="musi/sitelen/pona/o-wawa.png" height="50">
+<img src="musi/sitelen/pona/mi-o-moku-e-ijo-pona.png" height="50">
 
-**o wawa!**
+**mi o moku e ijo pona.**
 
 <img src="musi/sitelen/pona/o-kute-e-mama-sina.png" height="50">
 
 **o kute e mama sina.**
-
-<img src="musi/sitelen/pona/mi-o-moku-e-ijo-pona.png" height="50">
-
-**mi o moku e ijo pona.**
 
 <img src="musi/sitelen/pona/mi-sona-e-ni-mi-anpa.png" height="50">
 
