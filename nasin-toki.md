@@ -72,14 +72,8 @@
 
 | [↑](#toki-lili) |
 |:-:|
-| [li](#nimi-lili-li) |
-| [e](#nimi-lili-e) |
-| [o](#nimi-lili-o) |
-| [pi](#nimi-lili-pi) |
-| [en](#nimi-lili-en-anu) |
-| [anu](#nimi-lili-en-anu) |
-| [nimi lili toki](#nimi-lili-toki) |
-| [nimi lili kalama](#nimi-lili-kalama) |
+| [nimi lili luka](#nimi-lili-luka) |
+| [nimi lili pi luka ala](#nimi-lili-pi-luka-ala) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kama en pini pi **nimi lili** "[li](#nimi-lili-li)", "[e](#nimi-lili-e)", "[o](#nimi-lili-o)", "[pi](#nimi-lili-pi)", "[en](#nimi-lili-en-anu)", "[anu](#nimi-lili-en-anu)" la [nimi suli](#nimi-suli) li lon.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Antaŭ kaj malantaŭ la **partikuloj** "[li](#nimi-lili-li)", "[e](#nimi-lili-e)", "[o](#nimi-lili-o)", "[pi](#nimi-lili-pi)", "[en](#nimi-lili-en-anu)", "[anu](#nimi-lili-en-anu)" estas [radikaj vortoj](#nimi-suli).  
@@ -112,7 +106,19 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** nomas same la vortojn "seme", "taso". Sed en tiu ĉi libro, tiuj du vortoj estas [radikaj vortoj](#nimi-suli): "seme" estas [korelativo](#nimi-poka-palisa) kaj "taso" estas [eksperimenta prepozicio](#nimi-poka-luka-musi).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** calls the words "seme", "taso" in the same way. But in this book, these two words are [content words](#nimi-suli): "seme" is a [correlative](#nimi-poka-palisa) and "taso" is an [experimental preposition](#nimi-poka-luka-musi).
 
-#### nimi lili "li"
+#### nimi lili luka
+*(Transitivaj Partikuloj — Transitive Particles)*
+
+| [↑](#nimi-lili) |
+|:-:|
+| [li](#nimi-lili-li) |
+| [e](#nimi-lili-e) |
+| [o](#nimi-lili-o) |
+| [pi](#nimi-lili-pi) |
+| [en](#nimi-lili-en-anu) |
+| [anu](#nimi-lili-en-anu) |
+
+##### nimi lili "li"
 *(Subjekto kaj Predikato — Subject and Predicate)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon kama pi **nimi lili** "li" li nimi "mi" taso anu nimi "sina" taso, la **nimi lili** "li" li kama weka.  
@@ -140,7 +146,7 @@
 * ~~ona li~~ ***mama***. *(Jes. (Ŝi estas gepatro.) — Yes. (She is a parent.))*
   * → ***mama***.
 
-#### nimi lili "e"
+##### nimi lili "e"
 *(Rekta Objekto — Direct Object)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ijo" taso li lon pini pi **nimi lili** "e", la ona li ken kama weka.  
@@ -164,7 +170,7 @@
 * ~~tawa pona sina la mi wile e~~ ***moku pona***. *(Mi bondeziras al vi bonan manĝon. — I wish you a good meal.)*
   * → ***moku pona***! *(Bonan apetiton! — Bon appétit!)*
 
-#### nimi lili "o"
+##### nimi lili "o"
 *(Volativo, Vokativo kaj Imperativo — Volative, Vocative and Imperative)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi **nimi lili** "o" la nimi "sina" li ken kama weka.  
@@ -189,7 +195,7 @@
 * jan Ali ***o***, ***o*** wawa. *(Ho Ali, estu forta. — Hey Ali, be strong.)*
   * → jan Ali ***o*** wawa.
 
-#### nimi lili "pi"
+##### nimi lili "pi"
 *(Genitivo — Genitive)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi **nimi lili** "pi" li [nimi lawa](#nimi-lawa) wan taso, la **nimi lili** "pi" li kama weka. kepeken ni la [nimi lawa](#nimi-lawa) ni li kama [nimi poka](#nimi-poka).  
@@ -209,7 +215,7 @@
 * ni li tomo ***pi*** telo nasa, ***pi*** jan pona. *(Tio estas trinkejo de amiko. — This is a friend's bar.)*
   * → ni li tomo ***pi*** telo nasa. jan pona li ***jo*** e tomo ni.
 
-#### nimi lili "en", "anu"
+##### nimi lili "en", "anu"
 *(Konjunkcioj — Conjunctions)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili** "en" li ken lon nimi lon kama taso pi **nimi lili** "li".  
@@ -226,7 +232,7 @@
   * → ona li ***mama ala*** ~~anu~~ ***mama***?
     * → ona li ***mama ala mama***?
 
-#### nimi lili "la"
+##### nimi lili "la"
 *(Kunteksta Frazero — Contextual Fragment)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kepeken **nimi lili** "la" la [nimi poka luka](#nimi-poka-luka) li ken kama lon kama pi [mute nimi](#mute-nimi).  
@@ -252,7 +258,15 @@
   * ~~ni,~~ mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
     * → mi pona tawa jan, ***la*** jan li pona tawa mi.
 
-#### nimi lili toki
+#### nimi lili pi luka ala
+*(Netransitivaj Partikuloj — Intransitive Particles)*
+
+| [↑](#nimi-lili) |
+|:-:|
+| [nimi lili toki](#nimi-lili-toki) |
+| [nimi lili kalama](#nimi-lili-kalama) |
+
+##### nimi lili toki
 *(Citaĵoj — Quotes)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili toki** li lon insa pi sitelen toki.  
@@ -275,7 +289,7 @@
 * lipu ***pi nanpa tu*** *(la karto kun la numero du, la dua karto — the card with the number two, the second card)*
   * → lipu ***nanpa tu*** *(la karto numero du, la dua karto — the card number two, the second card)*
 
-#### nimi lili kalama
+##### nimi lili kalama
 *(Interjekcio — Interjection)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan li ken toki e pilin kepeken **nimi lili kalama** taso.  
@@ -984,25 +998,29 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 #### sitelen pona musi
 *(Eksperimentaj Hieroglifoj — Experimental Hieroglyphs)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18">  
-<img src="musi/sitelen/len-ma/eo.png" height="18">  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18">  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili luka](#nimi-lili-luka) li lon anpa.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Transitiva partikulo](#nimi-lili-luka) estas sube.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Transitive particles](#nimi-lili-luka) are below.  
 
 <img src="musi/sitelen/pona/ale-li-pona.png" height="50">
 
 **ale li pona.**
 
+<img src="musi/sitelen/pona/o-kute-e-mama-sina.png" height="50">
+
+**o kute e mama sina.**
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) li lon sewi.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Prepozicio](#nimi-poka-luka) estas supre.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Prepositions](#nimi-poka-luka) are above.  
+
 <img src="musi/sitelen/pona/wawa-li-lon-insa.png" height="75">
 
 **wawa li lon insa.**
 
-<img src="musi/sitelen/pona/mi-o-moku-e-ijo-pona.png" height="50">
-
-**mi o moku e ijo pona.**
-
-<img src="musi/sitelen/pona/o-kute-e-mama-sina.png" height="50">
-
-**o kute e mama sina.**
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [mute nimi poka](#mute-nimi-poka) li lon anpa.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Subfrazo](#mute-nimi-poka) estas sube.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Subordinate clauses](#mute-nimi-poka) are below.  
 
 <img src="musi/sitelen/pona/mi-sona-e-ni-mi-anpa.png" height="50">
 
