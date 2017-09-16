@@ -355,8 +355,8 @@
 |:-:|
 | [nimi lawa esun](#nimi-lawa-esun) |
 | [nimi lawa pona](#nimi-lawa-pona) |
-| [nimi lawa jan](#nimi-lawa-jan) |
 | [nimi lawa ijo](#nimi-lawa-ijo) |
+| [nimi lawa jan](#nimi-lawa-jan) |
 | [nimi lawa pali](#nimi-lawa-pali) |
 | [nimi lawa ilo](#nimi-lawa-ilo) |
 | [nimi lawa sijelo](#nimi-lawa-sijelo) |
@@ -378,17 +378,8 @@
 ##### nimi lawa pona
 *(Simplaj Substantivoj — Simple Nouns)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> 
-
 * ***ijo*** *(io — something)*
 * ***jan*** *(iu — somebody)*
-
-##### nimi lawa jan
-*(Ulaj Substantivoj — Person Nouns)*
-
-* ***meli*** *(ina — female)*
-  * ~~jan~~ ***meli*** *(iu ina, virino — someone female, woman)*
-    * → ***meli***
 
 ##### nimi lawa ijo
 *(Aĵaj Substantivoj — Thing Nouns)*
@@ -396,6 +387,13 @@
 * ***suwi*** *(dolĉa — sweet)*
   * ~~ijo~~ ***suwi*** *(io dolĉa, dolĉaĵo — something sweet, sweets)*
     * → ***suwi***
+
+##### nimi lawa jan
+*(Ulaj Substantivoj — Person Nouns)*
+
+* ***meli*** *(ina — female)*
+  * ~~jan~~ ***meli*** *(iu ina, virino — someone female, woman)*
+    * → ***meli***
 
 ##### nimi lawa pali
 *(Agaj Substantivoj — Action Nouns)*
