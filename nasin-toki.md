@@ -595,14 +595,6 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 **sina suli a!**
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) en [nimi palisa](#nimi-palisa) li kama wan.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Substantivo](#nimi-lawa) kaj [korelativo](#nimi-palisa) fariĝas unu.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Nouns](#nimi-lawa) and [correlatives](#nimi-palisa) become one.  
-
-<img src="musi/sitelen/pona/jan-ala-li-ike.png" height="50">
-
-**jan ala li ike.**
-
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili toki](#nimi-lili-toki) li lon poka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Citaĵo](#nimi-lili-toki) estas apude.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Quotations](#nimi-lili-toki) are adjacent.  
