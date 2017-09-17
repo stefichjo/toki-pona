@@ -1400,17 +1400,18 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 # ale pi nimi mute
 *(Vortaro — Dictionary)*
 
-* **a** ***[ha]*** *([KALAMA](#nimi-lili-kalama))* - emocia interjekcio: ha — emotional interjection: ha
-  * *([POKA](#nimi-poka))* - ja, eĉ, efektive — so, even, indeed
-    * *([POKA°](#nimi-poka-musi))* - konfirmita, vera — confirmed, true
-      * *([KALAMA°](#nimi-lili-kalama-musi))* - jes — yes
+* **a** ***[ha]*** *([KALAMA](#nimi-lili-kalama))* - emfaza, emocia, konfirma interjekcio: ha → ja, eĉ, efektive — emotional interjection: ha → so, even, indeed
+  * *([KALAMA°](#nimi-lili-kalama-musi))* - jes — yes
+  * *([POKA°](#nimi-poka-musi))* - konfirmita, vera — confirmed, true
+    * *([POKA PALISA°](#nimi-poka-palisa-musi))* - certa — a certain
 * **akesi** ***[hagedis]*** *([LAWA JAN°](#nimi-lawa-jan-musi))* = "***sijelo lete***"
   * *([LAWA](#nimi-lawa))* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
   * *([POKA°](#nimi-poka-musi))* - malvarmsanga — cold-blooded
-* **ala** ***[ara]*** *([POKA PALISA](#nimi-poka-palisa))*
-  * *([POKA](#nimi-poka))* - neniu — no
-  * *([LAWA](#nimi-lawa))* - nenio — nothing
-  * *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))* - nul — zero
+* **ala** ***[ara]*** *([KALAMA°](#nimi-lili-kalama-musi))* - malkonfirma interjekcio: ne — unconfirming interjection: no
+  * *([POKA PALISA](#nimi-poka-palisa))*
+    * *([POKA](#nimi-poka))* - neniu — no
+      * *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))* - nul — zero
+    * *([LAWA](#nimi-lawa))* - nenio — nothing
   * *(lon poka pi suno ...°)* - nordpoluse/sudpoluse, norde/sude — at the northpole/southpole, in the north/south
 * **alasa** ***[a-la-ŝas]*** *([LAWA PALI°](#nimi-lawa-pali))*
   * *([LAWA°](#nimi-lawa-musi))* - io por ĉasi, io por kolekti: foraĝo — something to hunt, something to collect: forage
@@ -1589,8 +1590,10 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([POKA](#nimi-poka))* - malantaŭa — rear
 * **monsuta** ***[monsta]*** ⇒ **akesi**
 * **mu** ***[mu]*** *([KALAMA](#nimi-lili-kalama))* - indiferenta interjekcio: bla, miaŭ — indifferent interjection: blah, meeow
-  * *([POKA°](#nimi-poka-musi))* - ajna, arbitra — any, arbitrary
-    * *([KALAMA°](#nimi-lili-kalama-musi))* - ĉiuokaze, nu — whatever, well
+  * *([KALAMA°](#nimi-lili-kalama-musi))* - ĉiuokaze, nu — whatever, well
+  * *([POKA PALISA](#nimi-poka-palisa))*
+    * *([POKA°](#nimi-poka-musi))* - ajna, arbitra — any, arbitrary
+    * *([LAWA°](#nimi-lawa-musi))* - ajnaĵo, zozo — anything, thingy
 * **mun** ***[mun]*** *([LAWA IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io ĉielpromenanta, io orbitanta: luno, stelo — something sky-walking, something orbiting: moon, star
     * *(sama ... pi°)* - ĉirkaŭ — around
@@ -1802,9 +1805,12 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **utala** ~~utalasi~~ ***[udarati]*** *([PONA](#nimi-pona))* ≠ **pona** - batalanta, defianta, kontraŭanta — battling, challenging, struggling against
   * *([WAWA LUKA](#nimi-wawa-luka))* = **utala tawa**
 * **walo** ***[valko]*** *([PONA](#nimi-pona))* = "***kule wawa***" - blanka — white
-* **wan** ***[wan]*** *([PONA](#nimi-pona))* - unika, unueca — unique, united
-  * *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))* - unu — one
-    * *(... LAWA°)* - -ero — one piece of
+* **wan** ***[wan]*** *([POKA PALISA°](#nimi-poka-palisa-musi))*
+  * *([POKA PALISA°](#nimi-poka-palisa-musi))*
+    * *([POKA](#nimi-poka))* - unika, unueca — unique, united
+    * *([LAWA°](#nimi-lawa-musi))* - unikaĵo — unique
+    * *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))* - unu — one
+      * *(... LAWA°)* - -ero — one piece of
 * **waso** ***[wazo]*** *([LAWA SIJELO](#nimi-lawa-sijelo))* = "***sijelo kon***"
   * *([LAWA](#nimi-lawa))* - fluganta vivaĵo: birdo — flying living being: bird
   * *([POKA LUKA°](#nimi-poka-luka-musi))*
