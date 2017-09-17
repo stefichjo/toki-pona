@@ -539,9 +539,9 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 ##### nimi poka luka
 *(Prepozicioj — Prepositions)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) li ken lon kama pi [nimi lawa](#nimi-lawa), la ona li [nimi poka luka](#nimi-poka-luka) li lon [ale pi mute nimi](#ale-pi-mute-nimi) lon poka pi sitelen *([POKA LUKA](#nimi-poka-luka))*.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [modifilo](#nimi-poka) povas esti antaŭ [substantivo](#nimi-lawa), ĝi estas [prepozicio](#nimi-poka-luka) kaj estas en la [vortaro](#ale-pi-mute-nimi) apud la marko *([POKA LUKA](#nimi-poka-luka))*.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [modifier](#nimi-poka) can be before a [noun](#nimi-lawa), it is a [preposition](#nimi-poka-luka) and is in the [dictionary](#ale-pi-mute-nimi) next to the mark-up *([POKA LUKA](#nimi-poka-luka))*.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) li ken lon kama pi [nimi lawa](#nimi-lawa), la ona li [nimi poka luka](#nimi-poka-luka) li lon [ale pi mute nimi](#ale-pi-mute-nimi) lon poka pi sitelen *([LUKA](#nimi-poka-luka))*.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [modifilo](#nimi-poka) povas esti antaŭ [substantivo](#nimi-lawa), ĝi estas [prepozicio](#nimi-poka-luka) kaj estas en la [vortaro](#ale-pi-mute-nimi) apud la marko *([LUKA](#nimi-poka-luka))*.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [modifier](#nimi-poka) can be before a [noun](#nimi-lawa), it is a [preposition](#nimi-poka-luka) and is in the [dictionary](#ale-pi-mute-nimi) next to the mark-up *([LUKA](#nimi-poka-luka))*.
 
 * tomo tawa *(moviĝanta ĉambro, aŭto — moving room, car)*
 * toki pona li pona mute ***tawa*** jan pona mi. *(Mia amiko tre ŝatas Tokiponon. — My friend likes Toki Pona very much.)*
@@ -1429,8 +1429,8 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **ali** ⇒ **ale**
 * **anpa** ***[an-bas]*** *([PONA](#nimi-pona))* - malalta, kliniĝi, klinsaluti — low, bending, bowing
   * *(lon ... pi)* ≠ **lon sewi pi** - sub — under
-* **ante** ***[ander]*** *([POKA LUKA°](#nimi-poka-luka-musi))*
-  * *(POKA LUKA°)* - ol — than
+* **ante** ***[ander]*** *([LUKA°](#nimi-poka-luka-musi))*
+  * *(LUKA°)* - ol — than
   * *([POKA](#nimi-poka))* - alia — different
   * *(lon poka ... pi°)* - ĉe la alia flanko de, trans — at the other side of, beyond
 * **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili-en-anu))* - aŭ — or
@@ -1442,8 +1442,8 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **esun** ***[edẑum]*** *([SIJELO°](#nimi-lawa-sijelo-musi))*
   * *([LAWA](#nimi-lawa))* - interanstataŭanta organizo: metabolo, vendejo, merkato, ekonomio — substituting living being: metabolism, shop, market, economy
     * *([NANPA°](#nimi-poka-palisa-nanpa-musi))* sep - seven
-  * *([POKA LUKA°](#nimi-poka-luka))*
-    * *(POKA LUKA°)* - anstataŭ — in exchange for, instead of
+  * *([LUKA°](#nimi-poka-luka))*
+    * *(LUKA°)* - anstataŭ — in exchange for, instead of
     * *([POKA°](#nimi-poka-musi))* - anstataŭa — substitute
 * **ijo** ***[io]*** *([LAWA PONA](#nimi-lawa-pona))*
   * *([LAWA](#nimi-lawa))* - io — something
@@ -1471,8 +1471,8 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([E](#nimi-wawa-luka))* - havi — to have
 * **kala** ***[kala]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo telo**
   * *([LAWA](#nimi-lawa))* - naĝanta vivaĵo: fiŝo, baleno — swimming living being: fish, baleno
-  * *([POKA LUKA°](#nimi-poka-luka-musi))*
-    * *(POKA LUKA°)* - naĝanta en — swimming in
+  * *([LUKA°](#nimi-poka-luka-musi))*
+    * *(LUKA°)* - naĝanta en — swimming in
     * *([POKA°](#nimi-poka-musi))* - naĝanta — swimming
 * **kalama** ***[galama]*** *([PONA](#nimi-pona))* - sona — sounding
 * **kama** ***[kam-ap]*** *([PONA](#nimi-pona))* - alvena, okaza — arriving, happening
@@ -1484,15 +1484,15 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **kapesi** ⇒ **pimeja**, **pimeja walo**, **loje laso**
 * **kasi** ***[kasvi]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo ma**
   * *([LAWA](#nimi-lawa))* - kreskanta vivaĵo: planto — growing living being: plant
-  * *([POKA LUKA°](#nimi-poka-luka-musi))*
-    * *(POKA LUKA°)* - kreskanta sur — growing on
+  * *([LUKA°](#nimi-poka-luka-musi))*
+    * *(LUKA°)* - kreskanta sur — growing on
     * *([POKA°](#nimi-poka-musi))* - kreskanta — growing
   * *([MUN°](#nimi-lawa-mun-musi))*
     * *(LILI TOKI°)* - jupitera, ĵaŭda — jupiter's, thursday's
 * **ken** ***[ken]*** *([PONA](#nimi-pona))* - ebla — possible
   * *([WAWA POKA](#nimi-wawa-poka))* - ebligi ke → povi, kapabli, rajti — to make possible that → can, to be able to, to be allowed to
-* **kepeken** ***[xebrewken]*** *([POKA LUKA](#nimi-poka-luka))* = "***awen lon***"
-  * *(POKA LUKA)* - per — by means of
+* **kepeken** ***[xebrewken]*** *([LUKA](#nimi-poka-luka))* = "***awen lon***"
+  * *(LUKA)* - per — by means of
   * *([POKA](#nimi-poka))* - uzanta — using
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - kutimi — to be used to
 * **kijetesantakalu** ***[kierteishäntäkarhu]*** ⇒ **soweli**
@@ -1547,8 +1547,8 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
     * *([LAWA](#nimi-lawa))* = **mute lipu**
   * *([POKA](#nimi-poka))* - plata — flat
 * **loje** ***[roje]*** *([PONA](#nimi-pona))* = "***kule uta***" - ruĝa — red
-* **lon** ***[long]*** *([POKA LUKA](#nimi-poka-luka))*
-  * *(POKA LUKA)* - ĉe, laŭ, en, kun — at, along, in, with
+* **lon** ***[long]*** *([LUKA](#nimi-poka-luka))*
+  * *(LUKA)* - ĉe, laŭ, en, kun — at, along, in, with
   * *([POKA](#nimi-poka))* - ĉeestanta, ekzistanta — being present, existing
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - esti -anta — to be -ing
   * *([POKA+](#nimi-poka-namako))* ⇒ **a** - reala, vera — real, true
@@ -1676,8 +1676,8 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *(lon ... pi°)* - malantaŭ — after
 * **pipi** ~~pipite~~ ***[bibitte]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo noka**
   * *([LAWA](#nimi-lawa))* - rampanta vivaĵo: insekto — crawling living being: insect
-  * *([POKA LUKA°](#nimi-poka-luka-musi))*
-    * *(POKA LUKA°)* - rampi sur — crawling on
+  * *([LUKA°](#nimi-poka-luka-musi))*
+    * *(LUKA°)* - rampi sur — crawling on
     * *([POKA°](#nimi-poka-musi))* - rampanta — crawling
 * **po** ⇒ **tu tu**
 * **poka** ***[boka]*** *([IJO](#nimi-lawa-ijo))*
@@ -1689,7 +1689,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
     * *(lon ... mute pi°)* - inter (multaj) — between (many)
     * *(lon nasin ... pi°)* - preter — past
   * *([POKA](#nimi-poka))* - apuda, akompananta — lateral, accompanying
-  * *([POKA LUKA!](#nimi-poka-luka-nasa))* ⇒ **kan**
+  * *([LUKA!](#nimi-poka-luka-nasa))* ⇒ **kan**
 * **poki** ***[bokis]*** *([ILO°](#nimi-lawa-ilo-musi))*
   * *([LAWA](#nimi-lawa))* - organo por kapti: veziko, ujo, ingo — organ for capturing: bladder, container
   * *(WAWA LUKA°)* - kapti — to capture
@@ -1697,11 +1697,11 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *(... [PALI](#nimi-lawa-pali))* - -inda — worth -ing
   * *(lon nasin ...°)* - rekta — direct
 * **powe** ⇒ **toki ike**, **toki akesi**
-* **pu** ***[buk]*** *([POKA LUKA°](#nimi-poka-luka-musi))*
-  * *(POKA LUKA°)* - en harmonio kun, laŭ — in harmony with, according to
+* **pu** ***[buk]*** *([LUKA°](#nimi-poka-luka-musi))*
+  * *(LUKA°)* - en harmonio kun, laŭ — in harmony with, according to
   * *([POKA](#nimi-poka))* - harmonia, aganta laŭa, konsultanta la Oficialan Libron de Tokipono — harmonious, according, interacting with the Official Toki Pona Book
-* **sama** ***[sama]*** *([POKA LUKA](#nimi-poka-luka))*
-  * *(POKA LUKA)* - kiel — like
+* **sama** ***[sama]*** *([LUKA](#nimi-poka-luka))*
+  * *(LUKA)* - kiel — like
   * *([POKA](#nimi-poka))* - egala, sama, mem — alike, same, self
     * *(~~pi kulupu mama~~ ...)* parenca — related
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - simuli, ŝajnigi — to simulate, to pretend
@@ -1737,8 +1737,8 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([POKA](#nimi-poka))* - ronda, plenumita — round, fulfilled
     * *([WAWA POKA°](#nimi-wawa-poka-musi))* - plenumi ke → tute — to fulfill that → completely
   * *([E+](#nimi-wawa-luka-namako))* = **lon nasin sike pi**
-* **sin** ***[ŝin]*** *([POKA LUKA°](#nimi-poka-luka-musi))*
-  * *(POKA LUKA°)* - aldona al, kun — additional to, with
+* **sin** ***[ŝin]*** *([LUKA°](#nimi-poka-luka-musi))*
+  * *(LUKA°)* - aldona al, kun — additional to, with
   * *([POKA](#nimi-poka))* - plia, aldona, nova, freŝa — another, additional, new, fresh
 * **sina** ***[sinä]*** *([ESUN](#nimi-lawa-esun))*
   * *([LAWA](#nimi-lawa))* - vi — you
@@ -1771,16 +1771,16 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **suwi** ***[swit]*** *([IJO](#nimi-lawa-ijo))*
   * *([LAWA](#nimi-lawa))* - io dolĉa: dolĉaĵo — something sweet: sweets
   * *([POKA](#nimi-poka))* - dolĉa — sweet
-* **tan** ***[?]*** *([POKA LUKA](#nimi-poka-luka))* = "***pini lon***"
-  * *(POKA LUKA)* - de, pro — by, from, because of
+* **tan** ***[?]*** *([LUKA](#nimi-poka-luka))* = "***pini lon***"
+  * *(LUKA)* - de, pro — by, from, because of
   * *([POKA](#nimi-poka))* - devenanta — originating
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - esti -inta — to have -ed
-* **taso** ***[dats-ol]*** *([POKA LUKA°](#nimi-poka-luka-musi))*
-  * *(POKA LUKA°)* - sendepende de, kiel escepto de, sen, malgraŭ, spite al, kvankam — independent from, as    * *(... ~~ni la~~)* - sed — but
+* **taso** ***[dats-ol]*** *([LUKA°](#nimi-poka-luka-musi))*
+  * *(LUKA°)* - sendepende de, kiel escepto de, sen, malgraŭ, spite al, kvankam — independent from, as    * *(... ~~ni la~~)* - sed — but
   * *([POKA](#nimi-poka))* - sendependa, escepta, nura, libera — independent, exceptional, only, free
  an exception from, without, despite
-* **tawa** ~~towa~~ ***[towards]*** = "***kama lon***" *([POKA LUKA](#nimi-poka-luka))*
-  * *(POKA LUKA)* - al, por — to, toward, for
+* **tawa** ~~towa~~ ***[towards]*** = "***kama lon***" *([LUKA](#nimi-poka-luka))*
+  * *(LUKA)* - al, por — to, toward, for
   * *([POKA](#nimi-poka))* - moviĝanta, celanta — moving, heading
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - esti -onta — to be about to
   * *(lon poka pi suno ...°)* - ekvatore, sude/norde — at the equator, in the south/north
@@ -1819,12 +1819,12 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
       * *(... LAWA°)* - -ero — one piece of
 * **waso** ***[wazo]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo kon**
   * *([LAWA](#nimi-lawa))* - fluganta vivaĵo: birdo — flying living being: bird
-  * *([POKA LUKA°](#nimi-poka-luka-musi))*
-    * *(POKA LUKA°)* - fluganta en — flying in
+  * *([LUKA°](#nimi-poka-luka-musi))*
+    * *(LUKA°)* - fluganta en — flying in
     * *([POKA°](#nimi-poka-musi))* - fluganta — flying
 * **wawa** ***[vahva]*** *([PONA](#nimi-pona))* ≠ **lili** - forta — strong
-* **weka** ~~we~~ ***[wex]*** *([POKA LUKA°](#nimi-poka-luka-musi))*
-  * *(POKA LUKA°)* - fore de, ekster — away from, outside
+* **weka** ~~we~~ ***[wex]*** *([LUKA°](#nimi-poka-luka-musi))*
+  * *(LUKA°)* - fore de, ekster — away from, outside
   * *([POKA](#nimi-poka))* - fora, distanca, ekstera — away, gone, distant, outside
     * *(lon poka pi suno ...°)* - okcidente — in the west
     * *(... [PALI°](#nimi-lawa-pali)°)* - mal-...-ebla — un-...-able
