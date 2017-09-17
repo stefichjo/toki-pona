@@ -1402,9 +1402,9 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 * **a** ***[ha]*** *([KALAMA](#nimi-lili-kalama))* - emfaza, emocia, konfirma interjekcio: ha → ja, eĉ, efektive — emotional interjection: ha → so, even, indeed
   * *([KALAMA°](#nimi-lili-kalama-musi))* - jes — yes
-  * *([POKA°](#nimi-poka-musi))*
-    * - konfirmita, vera — confirmed, true
-    * *([POKA PALISA°](#nimi-poka-palisa-musi))* - certa — a certain
+  * *([POKA°](#nimi-poka-musi))* - konfirmita, efektiva, vera — confirmed, actual, true
+  * *([POKA PALISA°](#nimi-poka-palisa-musi))*
+    * *([POKA°](#nimi-poka-musi))* - certa — a certain
 * **akesi** ***[hagedis]*** *([LAWA JAN°](#nimi-lawa-jan-musi))* = "***sijelo lete***"
   * *([LAWA](#nimi-lawa))* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
   * *([POKA°](#nimi-poka-musi))* - malvarmsanga — cold-blooded
