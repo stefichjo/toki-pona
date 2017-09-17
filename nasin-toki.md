@@ -1403,7 +1403,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **a** ***[ha]*** *([KALAMA](#nimi-lili-kalama))* - emfaza, emocia, konfirma interjekcio: ha → ja, eĉ, efektive — emotional interjection: ha → so, even, indeed
   * *([KALAMA°](#nimi-lili-kalama-musi))* - jes — yes
   * *([POKA°](#nimi-poka-musi))* - konfirmita, efektiva, vera — confirmed, actual, true
-  * *([POKA PALISA°](#nimi-poka-palisa-musi))*
+  * *([PALISA°](#nimi-poka-palisa-musi))*
     * *([POKA°](#nimi-poka-musi))* - certa, specifa — a certain, a specific
     * *([LAWA°](#nimi-lawa-musi))* - certaĵo, specifaĵo — something certain, something specific
 * **akesi** ***[hagedis]*** *([LAWA JAN°](#nimi-lawa-jan-musi))* = **sijelo lete**
@@ -1411,7 +1411,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([POKA°](#nimi-poka-musi))* - malvarmsanga — cold-blooded
 * **ala** ***[ara]*** *([KALAMA°](#nimi-lili-kalama-musi))* - malkonfirma interjekcio: ne — unconfirming interjection: no
   * *([POKA](#nimi-poka))* - malvera — false
-  * *([POKA PALISA](#nimi-poka-palisa))*
+  * *([PALISA](#nimi-poka-palisa))*
     * *([POKA](#nimi-poka))* - neniu — no
       * *(lon poka pi suno ...°)* - nordpoluse/sudpoluse, norde/sude — at the northpole/southpole, in the north/south
       * *([NANPA](#nimi-poka-palisa-nanpa))* - nul — zero
@@ -1421,7 +1421,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([WAWA LUKA](#nimi-wawa-luka))* - ĉasi, kolekti — to hunt, to collect
 * **ale** ***[alle]*** *([PONA](#nimi-pona))*
   * *([POKA](#nimi-poka))* - tuta — entire, whole
-  * *([POKA PALISA](#nimi-poka-palisa))*
+  * *([PALISA](#nimi-poka-palisa))*
     * *([POKA](#nimi-poka))* - ĉiu — every
       * *([NANPA](#nimi-poka-palisa-nanpa))* - senfine — countless
     * *([LAWA](#nimi-lawa))* - ĉio, ĉiom — everything, the whole
@@ -1596,7 +1596,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **monsuta** ***[monsta]*** ⇒ **akesi**
 * **mu** ***[mu]*** *([KALAMA](#nimi-lili-kalama))* - indiferenta interjekcio: bla, miaŭ — indifferent interjection: blah, meeow
   * *([KALAMA°](#nimi-lili-kalama-musi))* - ĉiuokaze, nu — whatever, well
-  * *([POKA PALISA](#nimi-poka-palisa))*
+  * *([PALISA](#nimi-poka-palisa))*
     * *([POKA°](#nimi-poka-musi))* - ajna, arbitra — any, arbitrary
     * *([LAWA°](#nimi-lawa-musi))* - ajnaĵo, zozo — anything, thingy
 * **mun** ***[mun]*** *([LAWA IJO°](#nimi-lawa-ijo-musi))*
@@ -1622,7 +1622,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **nena** ***[nenä]*** *([LAWA IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io elstara, io eksterordinara: ĝibo, butono, monto, nazo — something outstanding, something extraordinary: bump, button, mountain, nose
   * *([POKA°](#nimi-poka-musi))* - elstara, eksterordinara — outstanding, extraordinary
-* **ni** ***[ni]*** *([POKA PALISA](#nimi-poka-palisa))*
+* **ni** ***[ni]*** *([PALISA](#nimi-poka-palisa))*
   * *([LAWA](#nimi-lawa))* - tio (ĉi) — that thing, this thing
   * *([POKA](#nimi-poka))* - tiu (ĉi) — that, this
 * **nimi** ***[nimi]*** *([LAWA IJO°](#nimi-lawa-ijo-musi))*
@@ -1715,7 +1715,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([LAWA IJO°](#nimi-lawa-ijo-musi))*
     * *([POKA°](#nimi-lawa-musi))* - lima — limiting, bounding
     * *([LAWA°](#nimi-lawa-musi))* - limo — limit, boundary
-* **seme** ~~senme~~ ***[ŝenme]*** *([POKA PALISA](#nimi-poka-palisa))*
+* **seme** ~~senme~~ ***[ŝenme]*** *([PALISA](#nimi-poka-palisa))*
   * *([POKA](#nimi-poka))* - kiu — which
   * *([LAWA](#nimi-lawa))* - kio — what
 * **sewi** ***[sevit]*** *([LAWA IJO](#nimi-lawa-ijo))*
@@ -1812,7 +1812,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **walo** ***[valko]*** *([PONA](#nimi-pona))* = "***kule wawa***" - blanka — white
 * **wan** ***[wan]*** *([PONA](#nimi-pona))*
   * *([POKA](#nimi-poka))* - unika — unique
-  * *([POKA PALISA°](#nimi-poka-palisa-musi))*
+  * *([PALISA°](#nimi-poka-palisa-musi))*
     * *([POKA+](#nimi-poka-namako))* - unu, unueca — one, united
     * *([LAWA°](#nimi-lawa-musi))* - unio — union
     * *([NANPA](#nimi-poka-palisa-nanpa))* - unu — one
