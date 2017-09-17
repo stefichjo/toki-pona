@@ -1449,7 +1449,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([LAWA](#nimi-lawa))* - io — something
   * *([POKA](#nimi-poka))* - de io: ies — of something: something's
   * *(e ... pi)* - pri — about
-  * *(... [PALI°](#nimi-lawa-pali)°)* - -ata, -enda — being -ed, to be -ed
+  * *(... [PALI°](#nimi-lawa-pali))* - -ata, -enda — being -ed, to be -ed
 * **ike** ~~ikeja~~ ***[ilkeä]*** *([PONA](#nimi-pona))* ≠ **pona** - malbona, superflua — bad, superfluous
 * **iki** ⇒ **ona**
 * **ilo** *([IJO°](#nimi-lawa-ijo-musi))*
@@ -1827,7 +1827,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *(LUKA°)* - fore de, ekster — away from, outside
   * *([POKA](#nimi-poka))* - fora, distanca, ekstera — away, gone, distant, outside
     * *(lon poka pi suno ...°)* - okcidente — in the west
-    * *(... [PALI°](#nimi-lawa-pali)°)* - mal-...-ebla — un-...-able
+    * *(... [PALI°](#nimi-lawa-pali))* - mal-...-ebla — un-...-able
   * *([IJO](#nimi-lawa-ijo))*
     * *([LAWA](#nimi-lawa))* - ie for, ie ekstere — somewhere far away, somewhere outside
       * *(lon ...°)* - for — away
