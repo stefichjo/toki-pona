@@ -1404,7 +1404,8 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([KALAMA°](#nimi-lili-kalama-musi))* - jes — yes
   * *([POKA°](#nimi-poka-musi))* - konfirmita, efektiva, vera — confirmed, actual, true
   * *([POKA PALISA°](#nimi-poka-palisa-musi))*
-    * *([POKA°](#nimi-poka-musi))* - certa — a certain
+    * *([POKA°](#nimi-poka-musi))* - certa, specifa — a certain, a specific
+    * *([LAWA°](#nimi-lawa-musi))* - certaĵo, specifaĵo — something certain, something specific
 * **akesi** ***[hagedis]*** *([LAWA JAN°](#nimi-lawa-jan-musi))* = "***sijelo lete***"
   * *([LAWA](#nimi-lawa))* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
   * *([POKA°](#nimi-poka-musi))* - malvarmsanga — cold-blooded
