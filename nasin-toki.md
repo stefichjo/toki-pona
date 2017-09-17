@@ -1488,7 +1488,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
     * *(LUKA°)* - kreskanta sur — growing on
     * *([POKA°](#nimi-poka-musi))* - kreskanta — growing
   * *([MUN°](#nimi-lawa-mun-musi))*
-    * *(LILI TOKI°)* - jupitera, ĵaŭda — jupiter's, thursday's
+    * *(TOKI°)* - jupitera, ĵaŭda — jupiter's, thursday's
 * **ken** ***[ken]*** *([PONA](#nimi-pona))* - ebla — possible
   * *([WAWA POKA](#nimi-wawa-poka))* - ebligi ke → povi, kapabli, rajti — to make possible that → can, to be able to, to be allowed to
 * **kepeken** ***[xebrewken]*** *([LUKA](#nimi-poka-luka))* = **awen lon**
@@ -1507,7 +1507,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([LAWA](#nimi-lawa))* - io malmola: ŝtono — something hard: stone
   * *([POKA](#nimi-poka))* - malmola — hard
   * *([MUN°](#nimi-mun-musi))*
-    * *(LILI TOKI°)* - venusa, vendreda — venus's, friday's
+    * *(TOKI°)* - venusa, vendreda — venus's, friday's
 * **ko** ***[gow]*** *([IJO](#nimi-lawa-ijo))*
   * *([LAWA](#nimi-lawa))* - io duon-malmola: pasto, pulvoro, polvo — something semi-solid: dough, powder, dust
     * *(... pi selo ala°)* ne-formita duon-malmolaĵo, pulvoro, polvo — un-formed semi-solid something, powder, dust
@@ -1568,7 +1568,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([LAWA](#nimi-lawa))* - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero — something vast: earth, soil, land, field, world, territory, outdoors
   * *([POKA](#nimi-poka))* - vasta — vast
   * *([MUN°](#nimi-mun-musi))*
-    * *(LILI TOKI°)* - saturna, sabata — saturn's, saturday's
+    * *(TOKI°)* - saturna, sabata — saturn's, saturday's
 * **majuna** ***[maljuna]*** ⇒ **suli**, **pi tenpo suli**
 * **mama** ***[mama]*** *([JAN°](#nimi-lawa-jan-musi))*
   * *([LAWA](#nimi-lawa))* - protektanta animaĵo: gepatro — protecting animated being: parent
@@ -1604,7 +1604,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
     * *(sama ... pi°)* - ĉirkaŭ — around
   * *([POKA°](#nimi-poka-musi))* - ĉielpromenanta, orbitanta — sky-walking, orbiting
   * *([MUN°](#nimi-mun-musi))*
-    * *(LILI TOKI°)* - luna, lunda — moon's, monday's
+    * *(TOKI°)* - luna, lunda — moon's, monday's
 * **musi** ~~amusi~~ ***[amuzi]*** *([PALI](#nimi-lawa-pali))*
   * *([LAWA](#nimi-lawa))* - io por ludi: ludo — something to play: game
   * *([E](#nimi-wawa-luka))* - ludi — to play
@@ -1707,7 +1707,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - simuli, ŝajnigi — to simulate, to pretend
 * **seli** ***[cxeli]*** *([PONA](#nimi-pona))* - varma, arda — warm, hot
   * *([MUN°](#nimi-mun-musi))*
-    * *(LILI TOKI°)* - marsa, marda — mars's, tuesday's
+    * *(TOKI°)* - marsa, marda — mars's, tuesday's
 * **selo** ***[ŝelo]*** *([ILO°](#nimi-lawa-ilo-musi))*
   * *([LAWA](#nimi-lawa))* - organo por formi, fermi: haŭto, ŝelo — organ for forming, closing: skin, shell
     * *(lon ... pi°)* - sur, koncerne -n — on, affecting
@@ -1763,7 +1763,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([LAWA](#nimi-lawa))* - io hela: suno — something bright: sun
   * *([POKA](#nimi-poka))* - hela — bright
   * *([MUN°](#nimi-mun-musi))*
-    * *(LILI TOKI°)* - suna, dimanĉa — sun's, sunday's
+    * *(TOKI°)* - suna, dimanĉa — sun's, sunday's
 * **supa** ***[surfac]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io ebeniga, io transponta: ponto, lito, seĝo — something leveling, something bridging: bridge, bed, chair
     * *(lon nasin ... pi°)* - trans — via
@@ -1788,7 +1788,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([LAWA](#nimi-lawa))* - io likva, io malseka: akvo, trinkaĵo — something liquid, something wet: water, beverage
   * *([POKA°](#nimi-poka-musi))* - likva, malseka — liquid, wet
   * *([MUN°](#nimi-mun-musi))*
-    * *(LILI TOKI°)* - merkura, merkreda — mercury's, wednesday's
+    * *(TOKI°)* - merkura, merkreda — mercury's, wednesday's
 * **tenpo** ***[tempo]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io duma, io provizora: intervalo, paŭzo, tempo, daŭro, okazo, situacio — something during, something provisional: interval, break, time, duration, occasion, situation
     * *(lon ... pi°)* - dum — during
