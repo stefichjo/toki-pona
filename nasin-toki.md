@@ -529,9 +529,9 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 * luka ***wan*** li jo e palisa ***luka***. *(Unu mano havas kvin fingrojn. — One hand has five fingers.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) li ken jo e kon sin nanpa, la ona li [nimi poka palisa nanpa](#nimi-poka-palisa-nanpa) li lon [ale pi nimi mute](#ale-pi-nimi-mute) lon poka pi sitelen *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))*.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [modifilo](#nimi-poka) povas havi la aldonan signifon de numero, ĝi estas [numeralo](#nimi-poka-palisa-nanpa) kaj estas en la [vortaro](#ale-pi-nimi-mute) apud la marko *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))*.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [modifier](#nimi-poka) can have the additional meaning of a number, it is a [numeral](#nimi-poka-palisa-nanpa) and is in the [dictionary](#ale-pi-nimi-mute) next to the mark-up *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))*.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) li ken jo e kon sin nanpa, la ona li [nimi poka palisa nanpa](#nimi-poka-palisa-nanpa) li lon [ale pi nimi mute](#ale-pi-nimi-mute) lon poka pi sitelen *([NANPA](#nimi-poka-palisa-nanpa))*.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [modifilo](#nimi-poka) povas havi la aldonan signifon de numero, ĝi estas [numeralo](#nimi-poka-palisa-nanpa) kaj estas en la [vortaro](#ale-pi-nimi-mute) apud la marko *([NANPA](#nimi-poka-palisa-nanpa))*.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [modifier](#nimi-poka) can have the additional meaning of a number, it is a [numeral](#nimi-poka-palisa-nanpa) and is in the [dictionary](#ale-pi-nimi-mute) next to the mark-up *([NANPA](#nimi-poka-palisa-nanpa))*.
 
 * toki wan *(unika lingvo — a unique language)*
   * → toki ***wan*** *(unu lingvo — one languge)*
@@ -1414,7 +1414,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([POKA PALISA](#nimi-poka-palisa))*
     * *([POKA](#nimi-poka))* - neniu — no
       * *(lon poka pi suno ...°)* - nordpoluse/sudpoluse, norde/sude — at the northpole/southpole, in the north/south
-      * *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))* - nul — zero
+      * *([NANPA](#nimi-poka-palisa-nanpa))* - nul — zero
     * *([LAWA](#nimi-lawa))* - nenio — nothing
 * **alasa** ***[a-la-ŝas]*** *([LAWA PALI°](#nimi-lawa-pali))*
   * *([LAWA°](#nimi-lawa-musi))* - io por ĉasi, io por kolekti: foraĝo — something to hunt, something to collect: forage
@@ -1423,9 +1423,9 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([POKA](#nimi-poka))* - tuta — entire, whole
   * *([POKA PALISA](#nimi-poka-palisa))*
     * *([POKA](#nimi-poka))* - ĉiu — every
-      * *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))* - senfine — countless
+      * *([NANPA](#nimi-poka-palisa-nanpa))* - senfine — countless
     * *([LAWA](#nimi-lawa))* - ĉio, ĉiom — everything, the whole
-      * *(... LAWA)* - tuta, ĉiom da — whole, all of
+      * *(... LAWA°)* - tuta, ĉiom da — whole, all of
 * **ali** ⇒ **ale**
 * **anpa** ***[an-bas]*** *([PONA](#nimi-pona))* - malalta, kliniĝi, klinsaluti — low, bending, bowing
   * *(lon ... pi)* ≠ **lon sewi pi** - sub — under
@@ -1554,7 +1554,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([POKA+](#nimi-poka-namako))* ⇒ **a** - reala, vera — real, true
 * **luka** ***[ruka]*** *([LAWA ILO°](#nimi-lawa-ilo-musi))*
   * *([LAWA](#nimi-lawa))* - organo por tuŝi: mano, brako — organ for touching: hand, arm
-    * *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))* - kvin — five
+    * *([NANPA](#nimi-poka-palisa-nanpa))* - kvin — five
   * *(WAWA LUKA°)* - tuŝi — to touch
 * **lukin** ***[luk-him]*** *([LAWA ILO](#nimi-lawa-ilo))*
   * *([LAWA](#nimi-lawa))* - organo por vidi, organo por ekzameni: okulo — organ for seeing, organ for examining: eye
@@ -1801,7 +1801,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([LAWA](#nimi-lawa))* - io konstruita/io protektanta: domo, ĉambro:  — something built/something protecting: house, room
   * *([POKA°](#nimi-poka-musi))* - konstruita/protektanta — built/protecting
 * **tu** ***[tu]*** *([PONA](#nimi-pona))* - disa — apart
-  * *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))* - du — two
+  * *([NANPA](#nimi-poka-palisa-nanpa))* - du — two
 * **tuli** ⇒ **mute**, **tu en wan**
 * **unpa** ***[?]*** *([PONA](#nimi-pona))* - (ge-)gravediĝanta, seksumanta, esti geedzo — becoming pregnant (or her partner), to have sexual relationships, to be married
 * **uta** ***[usta]*** *([LAWA ILO](#nimi-lawa-ilo))*
@@ -1810,11 +1810,13 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **utala** ~~utalasi~~ ***[udarati]*** *([PONA](#nimi-pona))* ≠ **pona** - batalanta, defianta, kontraŭanta — battling, challenging, struggling against
   * *([WAWA LUKA](#nimi-wawa-luka))* = **utala tawa**
 * **walo** ***[valko]*** *([PONA](#nimi-pona))* = "***kule wawa***" - blanka — white
-* **wan** ***[wan]*** *([POKA PALISA°](#nimi-poka-palisa-musi))*
-  * *([POKA](#nimi-poka))* - unika, unueca — unique, united
-  * *([LAWA°](#nimi-lawa-musi))* - unikaĵo — unique
-  * *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))* - unu — one
-    * *(... LAWA°)* - -ero — one piece of
+* **wan** ***[wan]*** *([PONA](#nimi-pona))*
+  * *([POKA](#nimi-poka))* - unika — unique
+  * *([POKA PALISA°](#nimi-poka-palisa-musi))*
+    * *([POKA+](#nimi-poka-namako))* - unu, unueca — one, united
+    * *([LAWA°](#nimi-lawa-musi))* - unio — union
+    * *([NANPA](#nimi-poka-palisa-nanpa))* - unu — one
+      * *(... LAWA°)* - -ero — one piece of
 * **waso** ***[wazo]*** *([LAWA SIJELO](#nimi-lawa-sijelo))* = **sijelo kon**
   * *([LAWA](#nimi-lawa))* - fluganta vivaĵo: birdo — flying living being: bird
   * *([POKA LUKA°](#nimi-poka-luka-musi))*
