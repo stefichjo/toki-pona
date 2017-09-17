@@ -1806,11 +1806,10 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([WAWA LUKA](#nimi-wawa-luka))* = **utala tawa**
 * **walo** ***[valko]*** *([PONA](#nimi-pona))* = "***kule wawa***" - blanka — white
 * **wan** ***[wan]*** *([POKA PALISA°](#nimi-poka-palisa-musi))*
-  * *([POKA PALISA°](#nimi-poka-palisa-musi))*
-    * *([POKA](#nimi-poka))* - unika, unueca — unique, united
-    * *([LAWA°](#nimi-lawa-musi))* - unikaĵo — unique
-    * *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))* - unu — one
-      * *(... LAWA°)* - -ero — one piece of
+  * *([POKA](#nimi-poka))* - unika, unueca — unique, united
+  * *([LAWA°](#nimi-lawa-musi))* - unikaĵo — unique
+  * *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))* - unu — one
+    * *(... LAWA°)* - -ero — one piece of
 * **waso** ***[wazo]*** *([LAWA SIJELO](#nimi-lawa-sijelo))* = "***sijelo kon***"
   * *([LAWA](#nimi-lawa))* - fluganta vivaĵo: birdo — flying living being: bird
   * *([POKA LUKA°](#nimi-poka-luka-musi))*
