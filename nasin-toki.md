@@ -1465,7 +1465,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **jan** ~~jen~~ ***[jen]*** *([LAWA PONA](#nimi-lawa-pona))*
   * *([LAWA](#nimi-lawa))* - iu — someone
   * *([POKA](#nimi-poka))* - de iu: ies — of someone: someone's
-* **jelo** ***[jello]*** *([PONA](#nimi-pona))* = "***kule suno***" - flava — yellow
+* **jelo** ***[jello]*** *([PONA](#nimi-pona))* = **kule suno** - flava — yellow
 * **jo** ***[jow]*** *([PALI](#nimi-lawa-pali))*
   * *([LAWA](#nimi-lawa))* - io por havi: propraĵo — something to have: property
   * *([E](#nimi-wawa-luka))* - havi — to have
@@ -1491,7 +1491,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
     * *(LILI TOKI°)* - jupitera, ĵaŭda — jupiter's, thursday's
 * **ken** ***[ken]*** *([PONA](#nimi-pona))* - ebla — possible
   * *([WAWA POKA](#nimi-wawa-poka))* - ebligi ke → povi, kapabli, rajti — to make possible that → can, to be able to, to be allowed to
-* **kepeken** ***[xebrewken]*** *([LUKA](#nimi-poka-luka))* = "***awen lon***"
+* **kepeken** ***[xebrewken]*** *([LUKA](#nimi-poka-luka))* = **awen lon**
   * *(LUKA)* - per — by means of
   * *([POKA](#nimi-poka))* - uzanta — using
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - kutimi — to be used to
@@ -1525,9 +1525,9 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **kute** ~~ekute~~ ***[ekute]*** *([ILO](#nimi-lawa-ilo))*
   * *([LAWA](#nimi-lawa))* - organo por aŭdi: orelo — organ for hearing: ear
   * *([E](#nimi-wawa-luka))* - aŭdi, obei — to hear, to obey
-* **la** ***[la]*** *([LILI](#nimi-lili-la))* = "***lon***" - (kunteksta frazero) — (contextual phrase)
+* **la** ***[la]*** *([LILI](#nimi-lili-la))* = **lon** - (kunteksta frazero) — (contextual phrase)
 * **lape** ***[slape]*** *([PONA](#nimi-pona))* - dormanta, ripozanta — sleeping, resting
-* **laso** ~~la~~ ***[glas]*** *([PONA](#nimi-pona))* = "***kule kasi***", "***kule sewi***" - blua, verda — blue, green
+* **laso** ~~la~~ ***[glas]*** *([PONA](#nimi-pona))* = **kule kasi**, **kule sewi** - blua, verda — blue, green
 * **lawa** ***[glava]*** *([ILO](#nimi-lawa-ilo))*
   * *([LAWA](#nimi-lawa))* - organo por gvidi: kapo — organ for guiding: head
     * *(lon ... pi°)* ≠ **lon noka pi** - supre de — at the top of
@@ -1546,7 +1546,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([LAWA](#nimi-lawa))* - io plata: karto, dokumento, papero, dosiero — something flat: card, document, paper, file
     * *([LAWA](#nimi-lawa))* = **mute lipu**
   * *([POKA](#nimi-poka))* - plata — flat
-* **loje** ***[roje]*** *([PONA](#nimi-pona))* = "***kule uta***" - ruĝa — red
+* **loje** ***[roje]*** *([PONA](#nimi-pona))* = **kule uta** - ruĝa — red
 * **lon** ***[long]*** *([LUKA](#nimi-poka-luka))*
   * *(LUKA)* - ĉe, laŭ, en, kun — at, along, in, with
   * *([POKA](#nimi-poka))* - ĉeestanta, ekzistanta — being present, existing
@@ -1585,7 +1585,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **mije** ***[mies]*** *([JAN](#nimi-lawa-jan))*
   * *([LAWA](#nimi-lawa))* - vira animaĵo: viro, edzo — male animated being: man, husband
   * *([POKA](#nimi-poka))* - vira — male
-* **moku** ***[mogu]*** *([PALI](#nimi-lawa-pali))* = "***pana e ijo tawa uta***"
+* **moku** ***[mogu]*** *([PALI](#nimi-lawa-pali))* = **pana e ijo tawa uta**
   * *([LAWA](#nimi-lawa))* - io por manĝi, io por trinki, io por gluti: manĝo — something to eat, something to drink, something to swallow: food
   * *([E](#nimi-wawa-luka))* - manĝi, trinki, gluti — to eat, to drink, to swallow
 * **moli** ~~muli~~ ***[murir]*** *([PONA](#nimi-pona))* - mortinta, malviva — dead
@@ -1641,10 +1641,10 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([LAWA](#nimi-lawa))* - ŝi, li, ĝi, ili — she, he, it, they
   * *([POKA](#nimi-poka))* - de ŝi, de li, de ĝi, de ili: ŝia, lia, ĝia, ilia — of her, of him, of it, of them: her, his, its, their
 * **open** ***[open]*** *([PONA](#nimi-pona))* - malfermita, inaŭgurita, preta, ŝaltita — open, inaugurated, ready, turned on
-  * *(... [PALI°](#nimi-lawa-pali)°)* - tra-ebla — through-able
+  * *(... [PALI°](#nimi-lawa-pali))* - tra-ebla — through-able
 * **pakala** ***[bagar-ap]*** *([PONA](#nimi-pona))* ≠ **pona** - damaĝita, lezita — damaged, harmed
 * **pake e** ⇒ **len e lupa pi**, **selo e**
-* **pali** ***[fari]*** *([PALI](#nimi-lawa-pali))* = "***luka e ijo***"
+* **pali** ***[fari]*** *([PALI](#nimi-lawa-pali))* = **luka e ijo**
   * *([LAWA](#nimi-lawa))* - io por priagi, io por prilabori: laboro, tasko — something to take action on, something to work on: work, task
     * *([PALI+](#nimi-lawa-pali-namako))* ⇒ **kama** - aperigi, okazigi → krei — to make
     * *([PALI+](#nimi-lawa-pali-namako))* ⇒ **open** - pretigi → prepari — to prepare
@@ -1660,7 +1660,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([LAWA°](#nimi-lawa-musi))* - io esenca, io kerna: principo, semo, rizo — principle, seed, rice
     * *(~~moku~~ ...)* - sema manĝaĵo, panherbaĵo: pano, nudeloj — cerials: bread, pasta
   * *([POKA°](#nimi-poka-musi))* - esenca, kerna
-* **pana** ***[?]*** *([PALI](#nimi-lawa-pali))*= "***luka sin***"
+* **pana** ***[?]*** *([PALI](#nimi-lawa-pali))*= **luka sin**
   * *([LAWA](#nimi-lawa))* - io por doni, io por provizi, io por publiki: dateno — something to give, something to provide, something to publish: data
   * *([E](#nimi-wawa-luka))* - doni, provizi, publikigi — to give, to provide, to publish
 * **pasila** ***[facila]*** ⇒ **pona pali**
@@ -1670,7 +1670,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([LAWA](#nimi-lawa))* - organo por senti, empatii: koro — organ for feeling, empathizing: heart
     * *(lon poka ...°)* - ĉe la flanko de la koro: maldekstra — at the heart's side: left
   * *([E](#nimi-wawa-luka))* - senti, empatii — to feel, to empathize
-* **pimeja** ***[pimeä]*** *([PONA](#nimi-pona))* = "***kule ala***" - malhela, nigra — dark, black
+* **pimeja** ***[pimeä]*** *([PONA](#nimi-pona))* = **kule ala** - malhela, nigra — dark, black
 * **pini** ***[fini]*** *([PONA](#nimi-pona))* - finita, pasinta — finished, past
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - fini ke → ĉesi — to stop that → to cease
   * *(lon ... pi°)* - malantaŭ — after
@@ -1771,7 +1771,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **suwi** ***[swit]*** *([IJO](#nimi-lawa-ijo))*
   * *([LAWA](#nimi-lawa))* - io dolĉa: dolĉaĵo — something sweet: sweets
   * *([POKA](#nimi-poka))* - dolĉa — sweet
-* **tan** ***[?]*** *([LUKA](#nimi-poka-luka))* = "***pini lon***"
+* **tan** ***[?]*** *([LUKA](#nimi-poka-luka))* = **pini lon**
   * *(LUKA)* - de, pro — by, from, because of
   * *([POKA](#nimi-poka))* - devenanta — originating
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - esti -inta — to have -ed
@@ -1779,7 +1779,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *(LUKA°)* - sendepende de, kiel escepto de, sen, malgraŭ, spite al, kvankam — independent from, as    * *(... ~~ni la~~)* - sed — but
   * *([POKA](#nimi-poka))* - sendependa, escepta, nura, libera — independent, exceptional, only, free
  an exception from, without, despite
-* **tawa** ~~towa~~ ***[towards]*** = "***kama lon***" *([LUKA](#nimi-poka-luka))*
+* **tawa** ~~towa~~ ***[towards]*** = **kama lon** *([LUKA](#nimi-poka-luka))*
   * *(LUKA)* - al, por — to, toward, for
   * *([POKA](#nimi-poka))* - moviĝanta, celanta — moving, heading
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - esti -onta — to be about to
@@ -1794,7 +1794,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
     * *(lon ... pi°)* - dum — during
     * *(lon nasin poka sike pi ilo ...°)* ĉirkaŭ la horloĝo, dekstrume — around the clock, clockwise
   * *([POKA°](#nimi-poka-musi))* - duma, provizora — during, provisional
-* **toki** ~~to~~ ***[tok]*** *([PALI](#nimi-lawa-pali))* = "***ijo sin***"
+* **toki** ~~to~~ ***[tok]*** *([PALI](#nimi-lawa-pali))* = **ijo sin**
   * *([LAWA](#nimi-lawa))* - io por komuniki: mesaĝo — something to communicate: message
   * *([E](#nimi-wawa-luka))* - komuniki — to communicate
 * **tomo** ***[domo]*** *([IJO°](#nimi-lawa-ijo-musi))*
@@ -1809,7 +1809,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([E](#nimi-wawa-luka))* - kisi, suĉi, spiri — to kiss, to suck, to breathe
 * **utala** ~~utalasi~~ ***[udarati]*** *([PONA](#nimi-pona))* ≠ **pona** - batalanta, defianta, kontraŭanta — battling, challenging, struggling against
   * *([E](#nimi-wawa-luka))* = **utala tawa**
-* **walo** ***[valko]*** *([PONA](#nimi-pona))* = "***kule wawa***" - blanka — white
+* **walo** ***[valko]*** *([PONA](#nimi-pona))* = **kule wawa** - blanka — white
 * **wan** ***[wan]*** *([PONA](#nimi-pona))*
   * *([POKA](#nimi-poka))* - unika — unique
   * *([PALISA°](#nimi-poka-palisa-musi))*
