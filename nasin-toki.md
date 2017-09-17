@@ -595,7 +595,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) en [nimi poka](#nimi-poka) ona nanpa wan li kama wan.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Substantivo](#nimi-lawa) kaj ĝia unua [adjektivo](#nimi-poka) fariĝas unu.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [nouns](#nimi-lawa) and its first [adjective](#nimi-poka) become one.
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [nouns](#nimi-lawa) and their first [adjective](#nimi-poka) become one.
 
 | <img src="musi/sitelen/pona/toki-pona.png" height="25"> |  <img src="musi/sitelen/pona/sitelen-pona-musi.png" height="25"> | 
 |:--:|:--:| 
@@ -1019,9 +1019,9 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Prepozicio](#nimi-poka-luka) estas supre.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Prepositions](#nimi-poka-luka) are above.
 
-| <img src="musi/sitelen/pona/mi-lon-tomo.png" height="50"> | <img src="musi/sitelen/pona/mi-pana-e-kala-tawa-ona-lon-tomo.png" height="75"> |
-|:--:|:--:| 
-| *mi lon tomo.* | *mi pana e kala tawa ona lon tomo.* |
+| <img src="musi/sitelen/pona/mi-lon-tomo.png" height="50"> | <img src="musi/sitelen/pona/wawa-li-lon-insa.png" height="75"> | <img src="musi/sitelen/pona/mi-pana-e-kala-tawa-ona-lon-tomo.png" height="75"> |
+|:--:|:--:|:--:| 
+| *mi lon tomo.* | *wawa li lon insa.* | *mi pana e kala tawa ona lon tomo.* |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa poka](#nimi-wawa-poka) li lon sewi.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Helpa verbo](#nimi-wawa-poka) estas supre.  
