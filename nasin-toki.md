@@ -1011,9 +1011,9 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Transitiva partikulo](#nimi-lili-luka) estas sube.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Transitive particles](#nimi-lili-luka) are below.
 
-| <img src="musi/sitelen/pona/ale-li-pona.png" height="50"> | <img src="musi/sitelen/pona/jan-ala-li-ike.png" height="50"> | <img src="musi/sitelen/pona/o-kute-e-mama-sina.png" height="50"> |
+| <img src="musi/sitelen/pona/ale-li-pona.png" height="50"> | <img src="musi/sitelen/pona/jan-ala-li-ike.png" height="50"> | <img src="musi/sitelen/pona/mi-o-moku-e-ijo-pona.png" height="50"> | <img src="musi/sitelen/pona/o-kute-e-mama-sina.png" height="50"> |
 |:--:|:--:|:--:| 
-| *ale li pona.* | *jan ala li ike.* | *o kute e mama sina.* |
+| *ale li pona.* | *jan ala li ike.* | *mi o moku e ijo pona.* | *o kute e mama sina.* |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) li lon sewi.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Prepozicio](#nimi-poka-luka) estas supre.  
