@@ -1406,7 +1406,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([POKA PALISA°](#nimi-poka-palisa-musi))*
     * *([POKA°](#nimi-poka-musi))* - certa, specifa — a certain, a specific
     * *([LAWA°](#nimi-lawa-musi))* - certaĵo, specifaĵo — something certain, something specific
-* **akesi** ***[hagedis]*** *([LAWA JAN°](#nimi-lawa-jan-musi))* = "***sijelo lete***"
+* **akesi** ***[hagedis]*** *([LAWA JAN°](#nimi-lawa-jan-musi))* = **sijelo lete**
   * *([LAWA](#nimi-lawa))* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
   * *([POKA°](#nimi-poka-musi))* - malvarmsanga — cold-blooded
 * **ala** ***[ara]*** *([KALAMA°](#nimi-lili-kalama-musi))* - malkonfirma interjekcio: ne — unconfirming interjection: no
@@ -1467,7 +1467,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **jo** ***[jow]*** *([LAWA PALI](#nimi-lawa-pali))*
   * *([LAWA](#nimi-lawa))* - io por havi: propraĵo — something to have: property
   * *([WAWA LUKA](#nimi-wawa-luka))* - havi — to have
-* **kala** ***[kala]*** *([LAWA SIJELO](#nimi-lawa-sijelo))* = "***sijelo telo***"
+* **kala** ***[kala]*** *([LAWA SIJELO](#nimi-lawa-sijelo))* = **sijelo telo**
   * *([LAWA](#nimi-lawa))* - naĝanta vivaĵo: fiŝo, baleno — swimming living being: fish, baleno
   * *([POKA LUKA°](#nimi-poka-luka-musi))*
     * *(POKA LUKA°)* - naĝanta en — swimming in
@@ -1672,7 +1672,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **pini** ***[fini]*** *([PONA](#nimi-pona))* - finita, pasinta — finished, past
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - fini ke → ĉesi — to stop that → to cease
   * *(lon ... pi°)* - malantaŭ — after
-* **pipi** ~~pipite~~ ***[bibitte]*** *([LAWA SIJELO](#nimi-lawa-sijelo))* = "***sijelo noka***"
+* **pipi** ~~pipite~~ ***[bibitte]*** *([LAWA SIJELO](#nimi-lawa-sijelo))* = **sijelo noka**
   * *([LAWA](#nimi-lawa))* - rampanta vivaĵo: insekto — crawling living being: insect
   * *([POKA LUKA°](#nimi-poka-luka-musi))*
     * *(POKA LUKA°)* - rampi sur — crawling on
@@ -1753,7 +1753,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([LAWA](#nimi-lawa))* - io por scii: fakto — something to know: fact
   * *([WAWA LUKA](#nimi-wawa-luka))* - scii — to know
     * *([WAWA POKA](#nimi-wawa-poka))* - scii kiel povi sukcesi → scipovi — to know how to be able to succeed → to know how to
-* **soweli** ***[cxoveli]*** *([LAWA JAN°](#nimi-lawa-jan-musi))* = "***sijelo seli***"
+* **soweli** ***[cxoveli]*** *([LAWA JAN°](#nimi-lawa-jan-musi))* = **sijelo seli**
   * *([LAWA](#nimi-lawa))* - varmsanga animaĵo: mamulo — warm-blooded animated being: mammal
   * *([POKA°](#nimi-poka-musi))* - varmsanga — warm-blooded
 * **suli** ***[suuri]*** *([PONA](#nimi-pona))* ≠ **lili** - granda, peza, grava, plenkreska — big, heavy, important, adult
@@ -1813,7 +1813,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([LAWA°](#nimi-lawa-musi))* - unikaĵo — unique
   * *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))* - unu — one
     * *(... LAWA°)* - -ero — one piece of
-* **waso** ***[wazo]*** *([LAWA SIJELO](#nimi-lawa-sijelo))* = "***sijelo kon***"
+* **waso** ***[wazo]*** *([LAWA SIJELO](#nimi-lawa-sijelo))* = **sijelo kon**
   * *([LAWA](#nimi-lawa))* - fluganta vivaĵo: birdo — flying living being: bird
   * *([POKA LUKA°](#nimi-poka-luka-musi))*
     * *(POKA LUKA°)* - fluganta en — flying in
