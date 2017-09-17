@@ -1419,11 +1419,13 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **alasa** ***[a-la-ŝas]*** *([LAWA PALI°](#nimi-lawa-pali))*
   * *([LAWA°](#nimi-lawa-musi))* - io por ĉasi, io por kolekti: foraĝo — something to hunt, something to collect: forage
   * *([WAWA LUKA](#nimi-wawa-luka))* - ĉasi, kolekti — to hunt, to collect
-* **ale** ***[alle]*** *([POKA PALISA](#nimi-poka-palisa))*
-  * *([POKA](#nimi-poka))* - ĉiu — every
-  * *([LAWA](#nimi-lawa))* - ĉio — everything
-  * *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))* - senfine — countless
-    * *(... LAWA)* - tuta, ĉiom da — whole, all of
+* **ale** ***[alle]*** *([PONA](#nimi-pona))*
+  * *([POKA](#nimi-poka))* - tuta — entire, whole
+  * *([POKA PALISA](#nimi-poka-palisa))*
+    * *([POKA](#nimi-poka))* - ĉiu — every
+      * *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))* - senfine — countless
+    * *([LAWA](#nimi-lawa))* - ĉio, ĉiom — everything, the whole
+      * *(... LAWA)* - tuta, ĉiom da — whole, all of
 * **ali** ⇒ **ale**
 * **anpa** ***[an-bas]*** *([PONA](#nimi-pona))* - malalta, kliniĝi, klinsaluti — low, bending, bowing
   * *(lon ... pi)* ≠ **lon sewi pi** - sub — under
