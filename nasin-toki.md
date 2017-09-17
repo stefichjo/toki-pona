@@ -1402,17 +1402,19 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 * **a** ***[ha]*** *([KALAMA](#nimi-lili-kalama))* - emfaza, emocia, konfirma interjekcio: ha → ja, eĉ, efektive — emotional interjection: ha → so, even, indeed
   * *([KALAMA°](#nimi-lili-kalama-musi))* - jes — yes
-  * *([POKA°](#nimi-poka-musi))* - konfirmita, vera — confirmed, true
+  * *([POKA°](#nimi-poka-musi))*
+    * - konfirmita, vera — confirmed, true
     * *([POKA PALISA°](#nimi-poka-palisa-musi))* - certa — a certain
 * **akesi** ***[hagedis]*** *([LAWA JAN°](#nimi-lawa-jan-musi))* = "***sijelo lete***"
   * *([LAWA](#nimi-lawa))* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
   * *([POKA°](#nimi-poka-musi))* - malvarmsanga — cold-blooded
 * **ala** ***[ara]*** *([KALAMA°](#nimi-lili-kalama-musi))* - malkonfirma interjekcio: ne — unconfirming interjection: no
+  * *([POKA](#nimi-poka))* - malvera — false
   * *([POKA PALISA](#nimi-poka-palisa))*
     * *([POKA](#nimi-poka))* - neniu — no
+      * *(lon poka pi suno ...°)* - nordpoluse/sudpoluse, norde/sude — at the northpole/southpole, in the north/south
       * *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))* - nul — zero
     * *([LAWA](#nimi-lawa))* - nenio — nothing
-  * *(lon poka pi suno ...°)* - nordpoluse/sudpoluse, norde/sude — at the northpole/southpole, in the north/south
 * **alasa** ***[a-la-ŝas]*** *([LAWA PALI°](#nimi-lawa-pali))*
   * *([LAWA°](#nimi-lawa-musi))* - io por ĉasi, io por kolekti: foraĝo — something to hunt, something to collect: forage
   * *([WAWA LUKA](#nimi-wawa-luka))* - ĉasi, kolekti — to hunt, to collect
