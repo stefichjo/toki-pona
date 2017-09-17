@@ -1555,7 +1555,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **luka** ***[ruka]*** *([ILO°](#nimi-lawa-ilo-musi))*
   * *([LAWA](#nimi-lawa))* - organo por tuŝi: mano, brako — organ for touching: hand, arm
     * *([NANPA](#nimi-poka-palisa-nanpa))* - kvin — five
-  * *(WAWA LUKA°)* - tuŝi — to touch
+  * *(E°)* - tuŝi — to touch
 * **lukin** ***[luk-him]*** *([ILO](#nimi-lawa-ilo))*
   * *([LAWA](#nimi-lawa))* - organo por vidi, organo por ekzameni: okulo — organ for seeing, organ for examining: eye
     * *(kepeken ... tawa°)* - antaŭ, ĉe, kontraŭ — before, against, facing
@@ -1631,7 +1631,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **noka** ***[noga]*** *([ILO°](#nimi-lawa-ilo-musi))*
   * *([LAWA](#nimi-lawa))* - organo por paŝi, organo por treti: piedo, gambo — organ for stepping, organ for kicking: foot, leg
     * *(lon ... pi)* - ĉe la malsupro de — at the bottom of
-  * *(WAWA LUKA°)* - paŝi, treti — to step, to kick
+  * *(E°)* - paŝi, treti — to step, to kick
 * **o** ***[ho]*** *([LILI](#nimi-lili-o))* - (volativo), (imperativo), (vocativo) — (volative), (imperative), (vocative)
 * **oko** ⇒ **lukin**
 * **olin** ***[volim]*** *([PALI](#nimi-lawa-pali))*
@@ -1655,7 +1655,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([POKA](#nimi-poka))* - longa kaj malmola — long and hard
   * *([ILO°](#nimi-lawa-ilo-musi))*
     * *([LAWA](#nimi-lawa))* - organo por celi: fingro — organ for aiming: finger
-    * *(WAWA LUKA°)* - celi — to aim
+    * *(E°)* - celi — to aim
 * **pan** ***[pan]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA°](#nimi-lawa-musi))* - io esenca, io kerna: principo, semo, rizo — principle, seed, rice
     * *(~~moku~~ ...)* - sema manĝaĵo, panherbaĵo: pano, nudeloj — cerials: bread, pasta
@@ -1692,7 +1692,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([LUKA!](#nimi-poka-luka-nasa))* ⇒ **kan**
 * **poki** ***[bokis]*** *([ILO°](#nimi-lawa-ilo-musi))*
   * *([LAWA](#nimi-lawa))* - organo por kapti: veziko, ujo, ingo — organ for capturing: bladder, container
-  * *(WAWA LUKA°)* - kapti — to capture
+  * *(E°)* - kapti — to capture
 * **pona** ***[bona]*** *([PONA](#nimi-pona))* ≠ **ike, jaki, nasa, pakala, utala** - bona, amika, simpla — good, friendly, simple
   * *(... [PALI](#nimi-lawa-pali))* - -inda — worth -ing
   * *(lon nasin ...°)* - rekta — direct
