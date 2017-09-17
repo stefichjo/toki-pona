@@ -978,23 +978,31 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * tan ni: mi pona tawa jan :la jan li pona tawa mi. *(Ĉar mi estas bona por homoj, homoj estas bonaj por mi. — Because I am good to people, people are good to me.)*
   * → tan ni, mi pona tawa jan, la jan li pona tawa mi.
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi [nimi wawa poka](#nimi-wawa-poka) la ***sitelen pi ijo sin*** li ken kama.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Post [helpa verbo](#nimi-wawa-poka) povas aperi ***plus-signo***.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After an [auxiliary verb](#nimi-wawa-poka) a ***plus sign*** can appear.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi [nimi wawa poka](#nimi-wawa-poka) la **sitelen pi ijo sin** li ken kama.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Post [helpa verbo](#nimi-wawa-poka) povas aperi **plus-signo**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After an [auxiliary verb](#nimi-wawa-poka) a **plus sign** can appear.
 
 * mi wile+lape. *(Mi bezonas dormi. — I need to sleep.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "pi"](#nimi-lili-pi) weka li ken jo e ***sitelen pi ijo weka***.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Modifilo (t.e. la vortoj malantaŭ la [partikulo "pi"](#nimi-lili-pi)) povas havi ***minus-signon***.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A modifier (i.e. the words after the [particle "pi"](#nimi-lili-pi)) can have a ***minus sign***.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "pi"](#nimi-lili-pi) weka li ken jo e **sitelen pi ijo weka**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Modifilo (t.e. la vortoj malantaŭ la [partikulo "pi"](#nimi-lili-pi)) povas havi **minus-signon**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A modifier (i.e. the words after the [particle "pi"](#nimi-lili-pi)) can have a **minus sign**.
 
 * tomo-tawa-sina *(via aŭto — your car)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi mute nimi la [nimi poka luka](#nimi-poka-luka) li ken jo e ***sitelen pi wan mute***.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Fine de frazo, [prepozicio](#nimi-poka-luka) povas havi ***ono-signon***.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the end of a sentence, a [preposition](#nimi-poka-luka) can have a ***division sign***.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi mute nimi la [nimi poka luka](#nimi-poka-luka) li ken jo e **sitelen pi wan mute**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Fine de frazo, [prepozicio](#nimi-poka-luka) povas havi **ono-signon**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the end of a sentence, a [preposition](#nimi-poka-luka) can have a **division sign**.
 
 * mi pana e lipu / tawa sina. *(Mi donas la libron al vi. — I am giving the book to you.)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili toki](#nimi-lili-toki) li ken jo e **sitelen palisa**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Citaĵo](#nimi-lili-toki) povas havi **dupunkton**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Quotations](#nimi-lili-toki) can have a **colon**.
+
+* jan:Sonja *(Sonja — Sonja)*
+* sina nanpa:wan. *(Vi estas numero unu. — You are number one.)*
+* toki:nanpa:wan *(la unua lingvo — the first language)*
 
 #### sitelen pona musi
 *(Eksperimentaj Hieroglifoj — Experimental Hieroglyphs)*
@@ -1394,7 +1402,8 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 * **a** ***[ha]*** *([KALAMA](#nimi-lili-kalama))* - emocia interjekcio: ha — emotional interjection: ha
   * *([POKA](#nimi-poka))* - ja, eĉ, efektive — so, even, indeed
-    * *([KALAMA°](#nimi-lili-kalama-musi))* - jes — yes
+    * *([POKA°](#nimi-poka-musi))* - konfirmita, vera — confirmed, true
+      * *([KALAMA°](#nimi-lili-kalama-musi))* - jes — yes
 * **akesi** ***[hagedis]*** *([LAWA JAN°](#nimi-lawa-jan-musi))* = "***sijelo lete***"
   * *([LAWA](#nimi-lawa))* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
   * *([POKA°](#nimi-poka-musi))* - malvarmsanga — cold-blooded
@@ -1534,8 +1543,9 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **loje** ***[roje]*** *([PONA](#nimi-pona))* = "***kule uta***" - ruĝa — red
 * **lon** ***[long]*** *([POKA LUKA](#nimi-poka-luka))*
   * *(POKA LUKA)* - ĉe, laŭ, en, kun — at, along, in, with
-  * *([POKA](#nimi-poka))* - ĉeestanta, ekzistanta, reala — being present, existing, real
+  * *([POKA](#nimi-poka))* - ĉeestanta, ekzistanta — being present, existing
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - esti -anta — to be -ing
+  * *([POKA+](#nimi-poka-namako))* ⇒ **a** - reala, vera — real, true
 * **luka** ***[ruka]*** *([LAWA ILO°](#nimi-lawa-ilo-musi))*
   * *([LAWA](#nimi-lawa))* - organo por tuŝi: mano, brako — organ for touching: hand, arm
     * *([POKA PALISA NANPA](#nimi-poka-palisa-nanpa))* - kvin — five
