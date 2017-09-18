@@ -8,3 +8,7 @@
 |:--:| 
 | *ale li pona* | 
 
+| <img src="toki-pona-li-toki-pona.png" height="50"> | 
+|:--:| 
+| *toki pona li toki pona* | 
+
