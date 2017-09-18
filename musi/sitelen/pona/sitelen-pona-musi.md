@@ -36,3 +36,7 @@
 |:--| 
 | *mi pona e ale mi, la mi pona e mi.* | 
 
+| <img src="nasin-pona-li-mute.png" height="50"> | 
+|:--| 
+| *nasin pona li mute.* | 
+
