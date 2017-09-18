@@ -12,3 +12,7 @@
 |:--| 
 | *toki pona li toki pona* | 
 
+| <img src="ante-li-kama.png" height="50"> | 
+|:--| 
+| *ante li kama* | 
+
