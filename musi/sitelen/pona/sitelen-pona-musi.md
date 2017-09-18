@@ -2,21 +2,25 @@
 
 | <img src="ale-li-jo-e-tenpo.png" height="50"> | 
 |:--| 
-| *ale li jo e tenpo* | 
+| *ale li jo e tenpo.* | 
 
 | <img src="ale-li-pona.png" height="50"> | 
 |:--| 
-| *ale li pona* | 
+| *ale li pona.* | 
 
 | <img src="toki-pona-li-toki-pona.png" height="50"> | 
 |:--| 
-| *toki pona li toki pona* | 
+| *toki pona li toki pona.* | 
 
 | <img src="ante-li-kama.png" height="50"> | 
 |:--| 
-| *ante li kama* | 
+| *ante li kama.* | 
 
 | <img src="ike-li-kama.png" height="50"> | 
 |:--| 
-| *ike li kama* | 
+| *ike li kama.* | 
+
+| <img src="jan-li-suli-mute-mani-li-suli-lili.png" height="50"> | 
+|:--| 
+| *jan li suli mute. mani li suli lili.* | 
 
