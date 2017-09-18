@@ -40,3 +40,16 @@
 |:--| 
 | *nasin pona li mute.* | 
 
+| <img src="o-olin-e-jan-poka.png" height="50"> | 
+|:--| 
+| *o olin e jan poka.* | 
+
+| <img src="o-sona-e-sina.png" height="50"> | 
+|:--| 
+| *o sona e sina.* | 
+
+| <img src="pali-li-pana-e-sona.png" height="50"> | 
+|:--| 
+| *pali li pana e sona.* | 
+
+
