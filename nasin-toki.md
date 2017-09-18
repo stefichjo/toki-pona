@@ -613,9 +613,9 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Citaĵo](#nimi-lili-toki) estas apude.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Quotations](#nimi-lili-toki) are adjacent.  
 
-| <img src="musi/sitelen/pona/toki-nanpa-wan.png" height="25"> | 
-|:--:| 
-| *toki nanpa wan* |
+| <img src="musi/sitelen/pona/ma-kanata.png" height="25"> | <img src="musi/sitelen/pona/toki-nanpa-wan.png" height="25"> | 
+|:--:|:--:| 
+| *ma Kanata* | *toki nanpa wan* |
 
 ## toki namako
 *(Aldona Lingvaĵo — Additional Language)*
@@ -1400,7 +1400,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 # ale pi nimi mute
 *(Vortaro — Dictionary)*
 
-* **a** ***[ha]*** *([KALAMA](#nimi-lili-kalama))* - emfaza, emocia, konfirma interjekcio: ha → ja, eĉ, efektive — emotional interjection: ha → so, even, indeed
+* **a** ***[ha]*** *([KALAMA](#nimi-lili-kalama))* ≠ **ala** - emfaza, emocia, konfirma interjekcio: ha → ja, eĉ, efektive — emotional interjection: ha → so, even, indeed
   * *([KALAMA°](#nimi-lili-kalama-musi))* - jes — yes
   * *([POKA°](#nimi-poka-musi))* - konfirmita, efektiva, vera — confirmed, actual, true
   * *([PALISA°](#nimi-poka-palisa-musi))*
@@ -1409,12 +1409,13 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **akesi** ***[hagedis]*** *([JAN°](#nimi-lawa-jan-musi))* = **sijelo lete**
   * *([LAWA](#nimi-lawa))* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
   * *([POKA°](#nimi-poka-musi))* - malvarmsanga — cold-blooded
-* **ala** ***[ara]*** *([KALAMA°](#nimi-lili-kalama-musi))* - malkonfirma interjekcio: ne — unconfirming interjection: no
+* **ala** ***[ara]*** *([KALAMA°](#nimi-lili-kalama-musi))* ≠ **a** - malkonfirma interjekcio: ne — unconfirming interjection: no
   * *([POKA](#nimi-poka))* - malvera — false
   * *([PALISA](#nimi-poka-palisa))*
     * *([POKA](#nimi-poka))* - neniu — no
       * *(lon poka pi suno ...°)* - nordpoluse/sudpoluse, norde/sude — at the northpole/southpole, in the north/south
-      * *([NANPA](#nimi-poka-palisa-nanpa))* - nul — zero
+      * *([NANPA](#nimi-poka-palisa-nanpa))*
+	    * *([POKA](#nimi-poka))* - nul — zero
     * *([LAWA](#nimi-lawa))* - nenio — nothing
 * **alasa** ***[a-la-ŝas]*** *([PALI°](#nimi-lawa-pali))*
   * *([LAWA°](#nimi-lawa-musi))* - io por ĉasi, io por kolekti: foraĝo — something to hunt, something to collect: forage
@@ -1441,7 +1442,8 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **en** ***[en]*** *([LILI](#nimi-lili-en-anu))* - kaj — and
 * **esun** ***[edẑum]*** *([SIJELO°](#nimi-lawa-sijelo-musi))*
   * *([LAWA](#nimi-lawa))* - interŝanĝanta organizo: metabolo, vendejo, merkato, ekonomio — exchanging organism: metabolism, shop, market, economy
-    * *([NANPA°](#nimi-poka-palisa-nanpa-musi))* sep - seven
+    * *([NANPA°](#nimi-poka-palisa-nanpa-musi))*
+	  * *([POKA°](#nimi-poka-musi))* - sep — seven
   * *([E°](#nimi-wawa-luka-musi))* - interŝanĝi — exchange
     * *([E°](#nimi-wawa-luka-musi) ~~kepeken toki~~)* - interŝanĝi per parolo: promesi — exchange with talking: promise
   * *([LUKA°](#nimi-poka-luka))*
@@ -1549,14 +1551,15 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
     * *([LAWA](#nimi-lawa))* = **mute lipu**
   * *([POKA](#nimi-poka))* - plata — flat
 * **loje** ***[roje]*** *([PONA](#nimi-pona))* = **kule uta** - ruĝa — red
-* **lon** ***[long]*** *([LUKA](#nimi-poka-luka))*
+* **lon** ~~alon~~ ***[along]*** *([LUKA](#nimi-poka-luka))*
   * *(LUKA)* - ĉe, laŭ, en, kun — at, along, in, with
   * *([POKA](#nimi-poka))* - ĉeestanta, ekzistanta — being present, existing
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - esti -anta — to be -ing
   * *([POKA+](#nimi-poka-namako))* ⇒ **a** - reala, vera — real, true
 * **luka** ***[ruka]*** *([ILO°](#nimi-lawa-ilo-musi))*
   * *([LAWA](#nimi-lawa))* - organo por tuŝi: mano, brako — organ for touching: hand, arm
-    * *([NANPA](#nimi-poka-palisa-nanpa))* - kvin — five
+    * *([NANPA](#nimi-poka-palisa-nanpa))*
+	  * *([POKA](#nimi-poka))* - kvin — five
   * *(E°)* - tuŝi — to touch
 * **lukin** ***[luk-him]*** *([ILO](#nimi-lawa-ilo))*
   * *([LAWA](#nimi-lawa))* - organo por vidi, organo por ekzameni: okulo — organ for seeing, organ for examining: eye
@@ -1802,7 +1805,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **tomo** ***[domo]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io konstruita/io protektanta: domo, ĉambro:  — something built/something protecting: house, room
   * *([POKA°](#nimi-poka-musi))* - konstruita/protektanta — built/protecting
-* **tu** ***[tu]*** *([PONA](#nimi-pona))* - disa — apart
+* **tu** ***[tu]*** *([PONA](#nimi-pona))* - aparta, disa — apart
   * *([NANPA](#nimi-poka-palisa-nanpa))* - du — two
 * **tuli** ⇒ **mute**, **tu en wan**
 * **unpa** ***[?]*** *([PONA](#nimi-pona))* - (ge-)gravediĝanta, seksumanta, esti geedzo — becoming pregnant (or her partner), to have sexual relationships, to be married
@@ -1815,10 +1818,11 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **wan** ***[wan]*** *([PONA](#nimi-pona))*
   * *([POKA](#nimi-poka))* - unika — unique
   * *([PALISA°](#nimi-poka-palisa-musi))*
-    * *([POKA+](#nimi-poka-namako))* - unu, unueca — one, united
+    * *([POKA+](#nimi-poka-namako))* - unueca, unu, izolita — united, one, isolated
+      * *([NANPA](#nimi-poka-palisa-nanpa))*
+        * *([POKA](#nimi-poka))* - unu — one
+          * *(... LAWA°)* - unuo, -ero — unit, one piece of
     * *([LAWA°](#nimi-lawa-musi))* - unio — union
-    * *([NANPA](#nimi-poka-palisa-nanpa))* - unu — one
-      * *(... LAWA°)* - -ero — one piece of
 * **waso** ***[wazo]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo kon**
   * *([LAWA](#nimi-lawa))* - fluganta vivaĵo: birdo — flying organism: bird
   * *([LUKA°](#nimi-poka-luka-musi))*
