@@ -32,3 +32,7 @@
 |:--| 
 | *lupa meli li mama pi ijo ale.* | 
 
+| <img src="mi-pona-e-ale-mi-la-mi-pona-e-mi.png" height="50"> | 
+|:--| 
+| *mi pona e ale mi, la mi pona e mi.* | 
+
