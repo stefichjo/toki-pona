@@ -28,3 +28,7 @@
 |:--| 
 | *jan sona li jan nasa.* | 
 
+| <img src="lupa-meli-li-mama-pi-ijo-ale.png" height="50"> | 
+|:--| 
+| *lupa meli li mama pi ijo ale.* | 
+
