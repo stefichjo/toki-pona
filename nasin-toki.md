@@ -5,6 +5,7 @@
 |:-:|
 | [toki suli](#toki-suli) |
 | [toki kulupu](#toki-kulupu) |
+| [toki sin](#toki-sin) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> wan lipu "[toki lili](#toki-lili)" li toki e nasin toki pi jan ale pi toki pona e nasin pona pi jan **Sonja**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La sekcio "[Kerna Lingvaĵo](#toki-lili)" traktas la lingvouzon de ĉiuj tokiponistoj kaj la "ponan" stilon de **Sonja**.  
@@ -691,7 +692,6 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 |:-:|
 | [toki musi](#toki-musi) |
 | [toki nasa](#toki-nasa) |
-| [toki sin](#toki-sin) |
 
 ## toki musi
 *(Eksperimenta Lingvaĵo — Experimental Language)*
@@ -1273,15 +1273,15 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * mi wile lukin e tomo mi, ***taso*** mi jo ala e tenpo. *(Mi volas vidi mian domon, sed mi ne havas tempon. — I want to see my house, but I don't have time.)*
   * → mi wile lukin e tomo mi. ***taso*** mi jo ala e tenpo. *(Mi volas vidi mian domon. Sed mi ne havas tempon. — I want to see my house. But I don't have time.)*
 
-## toki sin
+# toki sin
 *(Novaj Lingvoj — New Languages)*
 
-| [↑](#toki-kulupu) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [eju zen bona](#eju-zen-bona) |
 | [pona toko](#pona-toko) |
 
-### eju zen bona
+## eju zen bona
 *(Ejuzenbona — Eyu Zen Bona)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi li ken ante.  
@@ -1325,7 +1325,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * ~~tomo sina~~ → ***tomu zena*** *(via domo — your house)*
 * ~~telo kili~~ → ***telu geli*** *(suko — juice)*
 
-### Pona Toko
+## Pona Toko
 *(Ponatoko — Pona Toko)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> toki **Ponatoko** li jo e nimi pi **toki pona** e nasin sitelen pi **toki pona**, taso ona li jo e kalama pi toki **Epelanto** e pini nimi pi toki **Epelanto**.  
