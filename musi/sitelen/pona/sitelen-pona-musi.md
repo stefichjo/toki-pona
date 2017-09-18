@@ -4,3 +4,7 @@
 |:--:| 
 | *ale li jo e tenpo* | 
 
+| <img src="ale-li-pona.png" height="50"> | 
+|:--:| 
+| *ale li pona* | 
+
