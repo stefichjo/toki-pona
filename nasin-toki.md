@@ -600,7 +600,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 
 | <img src="musi/sitelen/pona/toki-pona.png" height="25"> |  <img src="musi/sitelen/pona/sitelen-pona-musi.png" height="25"> | 
 |:--:|:--:| 
-| *toki pona* | *sitelen pona musi* |
+| *toki pona* | [*sitelen pona musi*](musi/sitelen/pona/sitelen-pona-musi.md) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili kalama](#nimi-lili-kalama) li lon poka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Interjekcio](#nimi-lili-kalama) estas apude.  
