@@ -24,3 +24,7 @@
 |:--| 
 | *jan li suli mute. mani li suli lili.* | 
 
+| <img src="jan-sona-li-jan-nasa.png" height="50"> | 
+|:--| 
+| *jan sona li jan nasa.* | 
+
