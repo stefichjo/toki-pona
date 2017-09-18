@@ -1,7 +1,7 @@
 0
 00:00:00,000 --> 00:00:01,000
 architecture ("way of houses") = nasin tomo
-ask ("wanting to hear") = wile kute
+ask ("to need to hear") = wile kute
 boss ("leading person") = jan lawa
 bridge ("bridging way") = nasin supa
 bum ("lower back") = noka monsi
@@ -12,9 +12,11 @@ fear ("bad feeling") = pilin ike
 galaxy ("multitude of stars") = mute suno
 god ("leading person of the heavens") = jan lawa sewi
 guru ("person of knowledge") = jan sona
+hour ("piece of the planet/earth cycle") = wan pi sike ma
 laugh ("playful emotional utterance") = a musi
 lie ("communicate bad words") = toki e nimi ike
 marriage ("community of maritial relationship") = kulupu unpa
+minute ("piece of a piece of the planet/earth cycle") = wan wan pi sike ma
 moon = mun
 news = sona sin
 planet ("night sky object") = mun
@@ -30,7 +32,7 @@ star ("night sky object") = mun
 star ("sun") = suno
 sun = suno
 temple ("house of religion") = tomo pi nasin sewi
-ticket = lipu tawa
+ticket = lipu esun
 
 1
 00:01:46,441 --> 00:01:48,084
@@ -182,7 +184,7 @@ Elo 100.
 
 30
 00:08:07,649 --> 00:08:09,332
-Elo 100 lon esun pi lipu tawa pi Elo 40?
+Elo 100 lon esun pi lipu esun pi Elo 40?
 ==100 euro for a 40 euro ticket?
 
 31
@@ -207,7 +209,7 @@ ala. sina ken kama jo e ona. meli o nanpa wan.
 
 35
 00:08:28,375 --> 00:08:31,041
-o awen lili. ken la mi tu o tu e mani pi lipu tawa anu seme?
+o awen lili. ken la mi tu o tu e mani pi lipu esun anu seme?
 ==1 sec. why don't we share the price of tickets?
 
 36
@@ -242,17 +244,17 @@ sina ken awen jo e ilo tenpo ni. tenpo suno kama la mi kama jo sin e ona lon esu
 
 42
 00:09:12,007 --> 00:09:14,388
-jan suli o, lipu tawa ni li nanpa ale.
+jan suli o, lipu esun ni li nanpa ale.
 ==please uncle, its the last ticket.
 
 43
 00:09:14,547 --> 00:09:16,547
-insa tomo ale li jo e jan. lipu tawa ante li lon ala.
+insa tomo ale li jo e jan. lipu esun ante li lon ala.
 ==its house full no ticket is available.
 
 44
 00:09:16,927 --> 00:09:20,264
-ala, jan suli o. lipu tawa wan li lon. jan wan li pana e ona lon esun pimeja.
+ala, jan suli o. lipu esun wan li lon. jan wan li pana e ona lon esun pimeja.
 ==No uncle one ticket is available. one guy is selling it in black
 
 45
@@ -272,7 +274,7 @@ a.
 
 48
 00:09:27,058 --> 00:09:30,058
-sina o awen taso lon ni. mi o kama jo e lipu tawa sina.
+sina o awen taso lon ni. mi o kama jo e lipu esun sina.
 ==you just wait there i will just get you your ticket.
 
 49
@@ -282,17 +284,17 @@ jan seme?
 
 50
 00:09:56,577 --> 00:09:57,799
-sina toki seme kepeken nimi "jan seme"? lipu tawa mi?
+sina toki seme kepeken nimi "jan seme"? lipu esun mi?
 ==what do you mean who? my ticket?
 
 51
 00:09:58,767 --> 00:09:59,101
-lipu tawa.
+lipu esun.
 ==ticket.
 
 52
 00:09:59,893 --> 00:10:01,354
-a, lipu tawa... o pana e Elo 100 tawa mi.
+a, lipu esun... o pana e Elo 100 tawa mi.
 ==oh ticket..give me 100 euro
 
 53
@@ -2031,7 +2033,7 @@ male and female?
 
 375
 00:42:11,443 --> 00:42:21,720
-o awen lili. o lukin e lipu tawa mi.
+o awen lili. o lukin e lipu esun mi.
 mije anu meli - mije, MIJE, MI-JE...
 ==one second, have a look at my license.
 sex - male, man, mister, jerk, bastard..
@@ -2712,12 +2714,12 @@ o tan insa e ona.
 
 492
 00:56:07,673 --> 00:56:09,301
-ni la o pana e lipu taso tawa mi.
+ni la o pana taso e lipu esun tawa mi.
 ==Atleast give me the receipt.
 
 493
 00:56:09,777 --> 00:56:13,822
-o pana e lipu tawa mi.
+o pana e lipu esun mi.
 kepeken ona taso mi ken pana e ni tawa lukin:
 mi ken kama jo e ijo mi.
 ==give me the receipt.
@@ -5214,48 +5216,61 @@ o lukin.
 
 914
 01:42:08,615 --> 01:42:11,619
-in 15 minutes investment is double.
+pini pi wan lili pi sike ma la
+mani esun li kama mute pi nanpa tu.
+==in 15 minutes investment is double.
 
 915
 01:42:18,438 --> 01:42:19,899
-there you go.
+o kama pona.
+==there you go.
 
 916
 01:42:21,406 --> 01:42:23,073
-this is how it begins.
+ni la ale li kama open.
+==this is how it begins.
 
 917
 01:42:23,645 --> 01:42:25,978
-tea.. hot tea.
+telo.. telo seli.
+==tea.. hot tea.
 
 918
 01:42:26,041 --> 01:42:30,485
-look in tea business there is
+o lukin e esun pi telo seli.
+ona li jo e mani esun mute.
+==look in tea business there is
 more investment.
 
 919
 01:42:30,501 --> 01:42:34,009
-bicycle, cup, sugar, tea-pot, gas etc.
+sike tu, poki, ko suwi, poki suli, kon wawa en mu
+==bicycle, cup, sugar, tea-pot, gas etc.
 
 920
 01:42:34,009 --> 01:42:37,866
-and here..a stone and red color.
+taso ni la... kiwen en kule loje.
+==and here..a stone and red color.
 
 921
 01:42:38,024 --> 01:42:39,216
-tea..tea..hot tea.
+telo..telo..telo seli.
+==tea..tea..hot tea.
 
 922
 01:42:39,484 --> 01:42:41,854
-there you need to call customers.
+ona la jan li wile lukin toki tawa jan esun.
+==there you need to call customers.
 
 923
 01:42:41,977 --> 01:42:45,180
-and here you have to blow them away.
+taso ni la jan li wile lawa e jan esun tawa weka.
+==and here you have to blow them away.
 
 924
 01:42:46,196 --> 01:42:49,790
-move, give others chance too.
+o tawa. jan ante a o ken.
+==move, give others chance too.
 
 925
 01:42:51,755 --> 01:42:54,540

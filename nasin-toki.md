@@ -1440,8 +1440,10 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **e** ***[he?]*** *([LILI](#nimi-lili-e))* - -n — (accusative)
 * **en** ***[en]*** *([LILI](#nimi-lili-en-anu))* - kaj — and
 * **esun** ***[edẑum]*** *([SIJELO°](#nimi-lawa-sijelo-musi))*
-  * *([LAWA](#nimi-lawa))* - interanstataŭanta organizo: metabolo, vendejo, merkato, ekonomio — substituting living being: metabolism, shop, market, economy
+  * *([LAWA](#nimi-lawa))* - interŝanĝanta organizo: metabolo, vendejo, merkato, ekonomio — exchanging organism: metabolism, shop, market, economy
     * *([NANPA°](#nimi-poka-palisa-nanpa-musi))* sep - seven
+  * *([E°](#nimi-wawa-luka-musi))* - interŝanĝi — exchange
+    * *([E°](#nimi-wawa-luka-musi) ~~kepeken toki~~)* - interŝanĝi per parolo: promesi — exchange with talking: promise
   * *([LUKA°](#nimi-poka-luka))*
     * *(LUKA°)* - anstataŭ — in exchange for, instead of
     * *([POKA°](#nimi-poka-musi))* - anstataŭa — substitute
@@ -1470,7 +1472,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([LAWA](#nimi-lawa))* - io por havi: propraĵo — something to have: property
   * *([E](#nimi-wawa-luka))* - havi — to have
 * **kala** ***[kala]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo telo**
-  * *([LAWA](#nimi-lawa))* - naĝanta vivaĵo: fiŝo, baleno — swimming living being: fish, baleno
+  * *([LAWA](#nimi-lawa))* - naĝanta vivaĵo: fiŝo, baleno — swimming organism: fish, baleno
   * *([LUKA°](#nimi-poka-luka-musi))*
     * *(LUKA°)* - naĝanta en — swimming in
     * *([POKA°](#nimi-poka-musi))* - naĝanta — swimming
@@ -1483,7 +1485,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
 * **kapa** ⇒ **nena**
 * **kapesi** ⇒ **pimeja**, **pimeja walo**, **loje laso**
 * **kasi** ***[kasvi]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo ma**
-  * *([LAWA](#nimi-lawa))* - kreskanta vivaĵo: planto — growing living being: plant
+  * *([LAWA](#nimi-lawa))* - kreskanta vivaĵo: planto — growing organism: plant
   * *([LUKA°](#nimi-poka-luka-musi))*
     * *(LUKA°)* - kreskanta sur — growing on
     * *([POKA°](#nimi-poka-musi))* - kreskanta — growing
@@ -1675,7 +1677,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - fini ke → ĉesi — to stop that → to cease
   * *(lon ... pi°)* - malantaŭ — after
 * **pipi** ~~pipite~~ ***[bibitte]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo noka**
-  * *([LAWA](#nimi-lawa))* - rampanta vivaĵo: insekto — crawling living being: insect
+  * *([LAWA](#nimi-lawa))* - rampanta vivaĵo: insekto — crawling organism: insect
   * *([LUKA°](#nimi-poka-luka-musi))*
     * *(LUKA°)* - rampi sur — crawling on
     * *([POKA°](#nimi-poka-musi))* - rampanta — crawling
@@ -1727,7 +1729,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
     * *([LAWA+](#nimi-lawa-namako))* - supro — top, highest part
 	  * *(lon ... pi+)* ≠ **lon noka pi** ⇒ **lon lawa pi** - supre de — at the highest part
 * **sijelo** ***[tijelo]*** *([IJO°](#nimi-lawa-ijo-musi))*
-  * *([LAWA](#nimi-lawa))* - io organizita: vivaĵo, korpo — something organized: living being, body
+  * *([LAWA](#nimi-lawa))* - io organizita: vivaĵo, korpo — something organized: organism, body
   * *([POKA°](#nimi-poka-musi))* - organizita — organized
     * *([LAWA°](#nimi-lawa-musi))* - fizika stato — physical state
 * **sike** ***[sirkel]*** *([IJO](#nimi-lawa-ijo))*
@@ -1818,7 +1820,7 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
     * *([NANPA](#nimi-poka-palisa-nanpa))* - unu — one
       * *(... LAWA°)* - -ero — one piece of
 * **waso** ***[wazo]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo kon**
-  * *([LAWA](#nimi-lawa))* - fluganta vivaĵo: birdo — flying living being: bird
+  * *([LAWA](#nimi-lawa))* - fluganta vivaĵo: birdo — flying organism: bird
   * *([LUKA°](#nimi-poka-luka-musi))*
     * *(LUKA°)* - fluganta en — flying in
     * *([POKA°](#nimi-poka-musi))* - fluganta — flying
