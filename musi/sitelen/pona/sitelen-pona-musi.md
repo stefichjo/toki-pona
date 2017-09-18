@@ -16,3 +16,7 @@
 |:--| 
 | *ante li kama* | 
 
+| <img src="ike-li-kama.png" height="50"> | 
+|:--| 
+| *ike li kama* | 
+
