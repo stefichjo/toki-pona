@@ -6,6 +6,7 @@
 | [toki suli](#toki-suli) |
 | [toki kulupu](#toki-kulupu) |
 | [toki sin](#toki-sin) |
+| [ale pi nimi mute](#ale-pi-nimi-mute) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> wan lipu "[toki lili](#toki-lili)" li toki e nasin toki pi jan ale pi toki pona e nasin pona pi jan **Sonja**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La sekcio "[Kerna Lingvaĵo](#toki-lili)" traktas la lingvouzon de ĉiuj tokiponistoj kaj la "ponan" stilon de **Sonja**.  
