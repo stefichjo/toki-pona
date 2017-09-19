@@ -4,7 +4,7 @@
 |:--| 
 | *ale li jo e tenpo.* |
 
-| <img src="ale-jo-tenpo.svg" height="50"> | 
+| <img src="ale-jo-tenpo-period.svg" height="50"> | 
 |:--| 
 | *ale li jo e tenpo.* | 
 
