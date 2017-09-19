@@ -100,10 +100,6 @@
 |:--| 
 | *toki li pona.* | 
 
-| <img src="toki-li-pona.png" height="50"> | 
-|:--| 
-| *toki li pona.* | 
-
 | <img src="o-pana-e-pona-tawa-ma.png" height="75"> | 
 |:--| 
 | *o pana e pona tawa ma.* | 
