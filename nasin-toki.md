@@ -1611,9 +1611,9 @@ A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary 
   * *([POKA°](#nimi-poka-musi))* - ĉielpromenanta, orbitanta — sky-walking, orbiting
   * *([MUN°](#nimi-mun-musi))*
     * *(TOKI°)* - luna, lunda — moon's, monday's
-* **musi** ~~amusi~~ ***[amuzi]*** *([PALI](#nimi-lawa-pali))*
-  * *([LAWA](#nimi-lawa))* - io por ludi: ludo — something to play: game
-  * *([E](#nimi-wawa-luka))* - ludi — to play
+* **musi** ~~amusi~~ ***[amuzi]*** *([PALI°](#nimi-lawa-pali-musi))*
+  * *([LAWA°](#nimi-lawa-musi))* - io por ludi: ludo — something to play: game
+  * *([E°](#nimi-wawa-luka-musi))* - ludi — to play
 * **mute** ***[multe]*** *([PONA](#nimi-pona))* ≠ **lili** - plura, multa, multe da (io ne-nombrebla), tre — multiple, many, much of (something non-countable), very
   * *([NANPA°](#nimi-poka-palisa-nanpa-musi))* - tri — three
     * *(... LAWA°)* - -aro — set of
