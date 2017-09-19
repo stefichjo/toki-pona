@@ -52,4 +52,63 @@
 |:--| 
 | *pali li pana e sona.* | 
 
+| <img src="pilin-pona-li-pana-e-sijelo-pona.png" height="50"> | 
+|:--| 
+| *pilin pona li pana e sijelo pona.* | 
+
+| <img src="sina-pana-e-ike-la-sina-kama-jo-e-ike.png" height="75"> | 
+|:--| 
+| *sina pana e ike, la sina kama jo e ike.* | 
+
+| <img src="wawa-li-lon-insa.png" height="75"> | 
+|:--| 
+| *wawa li lon insa.* | 
+
+| <img src="weka-lili-li-pona-tawa-lawa.png" height="75"> | 
+|:--| 
+| *weka lili li pona tawa lawa.* | 
+
+| <img src="wile-sona-li-mute-e-sona.png" height="50"> | 
+|:--| 
+| *wile sona li mute e sona.* | 
+
+| <img src="jan-lili-li-sona-ala-e-ike.png" height="50"> | 
+|:--| 
+| *jan lili li sona ala e ike.* | 
+
+| <img src="meli-li-nasa-e-mije.png" height="50"> | 
+|:--| 
+| *meli li nasa e mije.* | 
+
+| <img src="mi-weka-e-ike-jan-la-mi-weka-e-ike-mi.png" height="50"> | 
+|:--| 
+| *mi weka e ike jan, la mi weka e ike mi.* | 
+
+| <img src="nasin-ante-li-pona-tawa-jan-ante.png" height="75"> | 
+|:--| 
+| *nasin ante li pona tawa jan ante.* | 
+
+| <img src="telo-li-pona.png" height="50"> | 
+|:--| 
+| *telo li pona.* | 
+
+| <img src="lape-li-pona.png" height="50"> | 
+|:--| 
+| *lape li pona.* | 
+
+| <img src="toki-li-pona.png" height="50"> | 
+|:--| 
+| *toki li pona.* | 
+
+| <img src="toki-li-pona.png" height="50"> | 
+|:--| 
+| *toki li pona.* | 
+
+| <img src="o-pana-e-pona-tawa-ma.png" height="75"> | 
+|:--| 
+| *o pana e pona tawa ma.* | 
+
+| <img src="utala-li-ike.png" height="50"> | 
+|:--| 
+| *utala li ike.* | 
 
