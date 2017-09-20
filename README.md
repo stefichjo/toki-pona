@@ -1,6 +1,11 @@
 # toki pona
 
 * [nasin toki pi toki pona](nasin-toki.md) *(Gramatiko de Tokipono — Grammar of Toki Pona)*
+  * [sitelen pona musi](sitelen-pona-musi.md) *(Eksperimentaj Hieroglifoj — Experimental Hieroglyphs)*
+
+| <img src="musi/sitelen/pona/o-pilin-pona-o-pu.png" height="50"> | 
+|:--:| 
+| *o pilin pona o pu!* |
 
 ## musi
 
@@ -19,9 +24,5 @@
   * *(Winnie la Pu — Winnie-The-Pooh and All, All, All)*
 
 <img src="https://github.com/stefichjo/toki-pona/blob/master/musi/sitelen/o-pilin-pona-o-pu.jpg?raw=true" height="400">
-
-| <img src="musi/sitelen/pona/o-pilin-pona-o-pu.png" height="50"> | 
-|:--:| 
-| *o pilin pona o pu!* |
 
 
