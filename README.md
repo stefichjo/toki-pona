@@ -1,7 +1,7 @@
 # toki pona
 
 * [nasin toki pi toki pona](nasin-toki.md) *(Gramatiko de Tokipono — Grammar of Toki Pona)*
-  * [sitelen pona musi](sitelen-pona-musi.md) *(Eksperimentaj Hieroglifoj — Experimental Hieroglyphs)*
+  * [sitelen pona musi](musi/sitelen/pona/sitelen-pona-musi.md) *(Eksperimentaj Hieroglifoj — Experimental Hieroglyphs)*
 
 | <img src="musi/sitelen/pona/o-pilin-pona-o-pu.png" height="50"> | 
 |:--:| 
