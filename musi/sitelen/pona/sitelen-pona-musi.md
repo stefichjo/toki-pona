@@ -1,5 +1,3 @@
-<img src="./ale-jo-tenpo-period.svg" height="50">
-
 # sitelen pona musi
 
 | <img src="ale-li-jo-e-tenpo.png" height="50"> | 
@@ -109,4 +107,10 @@
 | <img src="utala-li-ike.png" height="50"> | 
 |:--| 
 | *utala li ike.* | 
+
+---
+
+| <img src="o-weka-e-nimi-ike.png" height="50"> | 
+|:--| 
+| *o weka e nimi ike.* | 
 
