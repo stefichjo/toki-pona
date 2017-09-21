@@ -1,3 +1,5 @@
+<img src="./ale-jo-tenpo-period.svg" height="50">
+
 # sitelen pona musi
 
 | <img src="ale-li-jo-e-tenpo.png" height="50"> | 
