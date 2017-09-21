@@ -1055,7 +1055,7 @@
 |:--:| 
 | *taso mije en meli li pali li pilin pona.* |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi-lawa-esun](#nimi-lawa-esun) en [nimi-lawa-pona](#nimi-lawa-pona) li kama ala wan pi [nimi-lawa](#nimi-lawa) ante.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa esun](#nimi-lawa-esun) en [nimi lawa pona](#nimi-lawa-pona) li kama ala wan pi [nimi lawa](#nimi-lawa) ante.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Pronomoj](#nimi-lawa-esun) kaj [simplaj substantivoj](#nimi-lawa-pona) ne fariĝas parto de alia [substantivo](#nimi-lawa).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Pronouns](#nimi-lawa-esun) and [simple nouns](#nimi-lawa-pona) don't become part of another [noun](#nimi-lawa).
 
