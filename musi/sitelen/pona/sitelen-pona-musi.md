@@ -114,3 +114,7 @@
 |:--| 
 | *o weka e nimi ike.* | 
 
+| <img src="sina-sona-e-toki-wan-taso-la-sina-sona-ala-e-toki-ni.png" height="50"> | 
+|:--| 
+| *sina sona e toki wan taso, la sina sona ala e toki ni.* | 
+
