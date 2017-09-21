@@ -463,17 +463,16 @@
 * mi ***sona e toki pona***. *(Mi konas Tokiponon. — I know Toki Pona.)*
 
 #### nimi wawa poka
-*(Helpa Verboj — Auxiliary Verbs)*
+*(Helpaj Verboj — Auxiliary Verbs)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi pona](#nimi-pona) en nimi "e ni: ..." li ken kama **nimi wawa poka**.  
-[Simpla vorto](#nimi-pona) kaj la vortoj "e ni: ..." povas fariĝi **helpa verbo**.
-A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary verb**.
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Simpla vorto](#nimi-pona) kaj la vortoj "e ni: ..." povas fariĝi **helpa verbo**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary verb**.
 
 * mi ken ~~e ni: mi~~ lape. *(Mi ebligas, ke mi dormas. → Mi povas dormi. — I enable that I sleep. → I can sleep.)*
   * mi ken lape.
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa luka](#nimi-wawa-luka) en nimi "e nasin ni: kepeken ona la ... ken kama" li ken kama **nimi wawa poka**.  
-
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Transitiva verbo](#nimi-wawa-luka) kaj la vortoj "e nasin ni: kepeken ona la ... ken kama" povas fariĝi **helpa verbo**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [transitive verb](#nimi-wawa-luka) and the words "e nasin ni: kepeken ona la ... ken kama" can become an **auxiliary verb**.
 
