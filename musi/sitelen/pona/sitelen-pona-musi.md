@@ -1,5 +1,8 @@
 # sitelen pona musi
 
+## mute nimi pi sona pona
+*(Tokiponaj Proverboj — Toki Pona Proverbs)*
+
 | <img src="ale-li-jo-e-tenpo.png" height="50"> | 
 |:--| 
 | *ale li jo e tenpo.* |
@@ -108,7 +111,8 @@
 |:--| 
 | *utala li ike.* | 
 
----
+## toki pi jan suli
+*(Famaj Citaĵoj — Famous Quotations)*
 
 | <img src="o-weka-e-nimi-ike.png" height="50"> | 
 |:--| 
