@@ -1578,7 +1578,7 @@
   * *([LAWA](#nimi-lawa))* - io kava: truo, pordo — something hollow: hole, door
   * *([POKA](#nimi-poka))* - kava — hollow
 * **ma** ***[maa]*** *([IJO°](#nimi-lawa-ijo-musi))*
-  * *([LAWA](#nimi-lawa))* - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero — something vast: earth, soil, land, field, world, territory, outdoors
+  * *([LAWA](#nimi-lawa))* - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero, spaco — something vast: earth, soil, land, field, world, territory, outdoors, space
   * *([POKA](#nimi-poka))* - vasta — vast
   * *([MUN°](#nimi-mun-musi))*
     * *(TOKI°)* - saturna, sabata — saturn's, saturday's
@@ -1846,5 +1846,5 @@
   * *([IJO](#nimi-lawa-ijo))*
     * *([LAWA](#nimi-lawa))* - ie for, ie ekstere — somewhere far away, somewhere outside
       * *(lon ...°)* - for — away
-* **wile** ***[wille]*** *([PONA](#nimi-pona))* - necesa — necessary
+* <img src="musi/sitelen/pona/wile.png" height="25"> **wile** ***[wille]*** *([PONA](#nimi-pona))* - necesa — necessary
   * *([WAWA POKA](#nimi-wawa-poka))* - necesigi ke → voli, devi — to make necessary → to need, want, must

@@ -118,3 +118,30 @@
 |:--| 
 | *sina sona e toki wan taso, la sina sona ala e toki ni.* | 
 
+| <img src="toki-sina-en-pali-sina-li-sama-la-sina-pilin-pona.png" height="50"> | 
+|:--| 
+| *toki sina en pali sina li sama, la sina pilin pona.* | 
+
+| <img src="sewi-li-lon-ala-li-lon-ale.png" height="75"> | 
+|:--| 
+| *sewi li lon ala, li lon ale.* | 
+
+| <img src="sina-wile-ante-e-ale-la-o-ante-e-sina.png" height="50"> | 
+|:--| 
+| *sina wile ante e ale, la o ante e sina.* | 
+
+| <img src="wile-sona-nanpa-wan-li-ni-ale-li-pona-anu-ike.png" height="75"> | 
+|:--| 
+| *wile sona nanpa wan li ni: ale li pona anu ike?* | 
+
+| <img src="sona-pona-li-ni-o-weka-e-ike.png" height="75"> | 
+|:--| 
+| *sona pona li ni: o weka e ike.* | 
+
+| <img src="nasin-pona-li-pona-nanpa-wan.png" height="50"> | 
+|:--| 
+| *nasin pona li pona nanpa wan.* | 
+
+| <img src="sina-ken-ala-toki-e-ijo-lon-toki-pona-la-sina-sona-pona-ala-e-ona.png" height="75"> | 
+|:--| 
+| *sina ken ala toki e ijo lon toki pona, la sina sona pona ala e ona.* | 
