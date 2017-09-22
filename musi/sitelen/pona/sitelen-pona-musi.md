@@ -126,7 +126,7 @@
 |:--| 
 | *sewi li lon ala, li lon ale.* | 
 
-| <img src="sina-wile-ante-e-ale-la-o-ante-e-sina.png" height="50"> | 
+| <img src="sina-wile-ante-e-ale-la-o-ante-e-sina.png" height="75"> | 
 |:--| 
 | *sina wile ante e ale, la o ante e sina.* | 
 
