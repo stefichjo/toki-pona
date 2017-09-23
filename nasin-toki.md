@@ -1587,8 +1587,11 @@
   * *([LAWA](#nimi-lawa))* - protektanta animaĵo: gepatro — protecting animated being: parent
   * *([POKA](#nimi-poka))* - protektanta — protecting
 * **mani** ***[mani]*** *([IJO°](#nimi-lawa-ijo-musi))*
-  * *([LAWA](#nimi-lawa))* - io valora: mono, ŝparaĵo, riĉeco, granda malsovaĝigita besto — something valueable: money, savings, wealth, large domesticated animal
-  * *([POKA](#nimi-poka))* - valora — valueable
+  * *([LAWA+](#nimi-lawa-namako))* - io malsovaĝigita: granda malsovaĝigita besto — something domesticated: large domesticated animal
+  * *([POKA°](#nimi-poka-musi))* - malsovaĝigita — domesticated
+    * *([IJO°](#nimi-lawa-ijo-musi))*
+      * *([LAWA](#nimi-lawa))* - io valora: mono, ŝparaĵo, riĉo — something valueable: money, savings, wealth
+      * *([POKA°](#nimi-poka-musi))* - valora — valueable
 * **meli** ***[meri]*** *([JAN](#nimi-lawa-jan))*
   * *([LAWA](#nimi-lawa))* - ina animaĵo: virino, edzino — female animated being: woman, wife
   * *([POKA](#nimi-poka))* - ina — female
@@ -1736,12 +1739,16 @@
   * *([POKA](#nimi-poka))* - supera — superior
   * *([LAWA](#nimi-lawa))* - io supera: ĉielo, Dio — something superior: heaven, God
     * *(lon ... pi)* ≠ **lon anpa pi** - super, sur — over, on
+	* *([IJO°](#nimi-lawa-ijo-musi))*
+	  * *([POKA°](#nimi-poka-musi))* - neatingebla, sankta — unreachable, holy
+	  * *([LAWA](#nimi-lawa))* - io sankta: Ĉielo, Dio — something holy: Heaven, God
   * *([IJO+](#nimi-lawa-ijo-namako))*
     * *([POKA+](#nimi-poka-namako))* - supra — top, highest
     * *([LAWA+](#nimi-lawa-namako))* - supro — top, highest part
 	  * *(lon ... pi+)* ≠ **lon noka pi** ⇒ **lon lawa pi** - supre de — at the highest part
 * **sijelo** ***[tijelo]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io organizita: vivaĵo, korpo — something organized: organism, body
+    * *([LAWA°](#nimi-lawa-musi))* - besto — animal
   * *([POKA°](#nimi-poka-musi))* - organizita — organized
     * *([LAWA°](#nimi-lawa-musi))* - fizika stato — physical state
 * **sike** ***[sirkel]*** *([IJO](#nimi-lawa-ijo))*

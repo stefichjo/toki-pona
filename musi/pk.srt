@@ -10,7 +10,7 @@ doctor ("person of health") = jan sona pi pona sijelo
 exchange ("business transaction") = esun
 fear ("bad feeling") = pilin ike
 galaxy ("multitude of stars") = mute suno
-god ("leading person of the heavens") = jan lawa sewi
+god ("leading person of the heavens") = jan lawa sewi @jan sewi? jan sewi lawa?
 guru ("person of knowledge") = jan sona
 hour ("piece of the planet/earth cycle") = wan pi sike ma
 laugh ("playful emotional utterance") = a musi
@@ -5378,75 +5378,101 @@ ni li nanpa pakala.
 
 942
 01:44:32,016 --> 01:44:39,662
-- jaggu come with me.
+- jan Jaku o tawa lon poka mi.
+- o awen.
+- taso tawa lon poka mi, lon tenpo ni.
+==- jaggu come with me.
 - wait
 - just come with me right now.
 
 943
 01:44:39,778 --> 01:44:45,583
-you guys are on fire. whole world is sending
+sina wawa a. jan ale li pana
+e sitelen tawa pi nanpa pakala.
+==you guys are on fire. whole world is sending
 wrong number videos.
 
 944
 01:44:49,837 --> 01:45:01,625
-they said feed cow and you'll get job.
+ona li toki e ni: "o pana e moku tawa soweli mani ni, la sina kama jo e pali mani."
+seme anu mi ken toki tawa jan lawa sin kepeken soweli mani ni?
+ni li nanpa pakala.
+==they said feed cow and you'll get job.
 is this cow will upload my resume on job websites?
 its a wrong number.
 
 945
 01:45:01,955 --> 01:45:02,399
-more
+sin a
+==more
 
 946
 01:45:02,399 --> 01:45:09,018
-he said become christan otherwise god will send you to hell.
+ona li toki e ni: "o kama jan Kolisu. ante la jan lawa sewi li tawa ma anpa e sina."
+jan lawa sewi li wile, la ona li tan lupa meli e mi lon kulupu mama pi nasin Kolisu.
+==he said become christan otherwise god will send you to hell.
 if god wanted he would have made me born in christain family.
 
 947
 01:45:09,034 --> 01:45:12,848
-now why making me change religion.
+tan seme la ona li wile e ni?: mi ante e nasin sewi mi.
+nanpa pakala.
+==now why making me change religion.
 wrong number.
 
 948
 01:45:13,256 --> 01:45:15,129
-they all want to go to school.
+ona ale li wile tawa tomo sona.
+==they all want to go to school.
 
 949
 01:45:15,288 --> 01:45:18,855
-now there is a fatwa, if girls go to school,
+nasin lawa sin ni li lon: "meli li tawa tomo sona, la
+o moli e ona."
+==now there is a fatwa, if girls go to school,
 kill them.
 
 950
 01:45:18,923 --> 01:45:23,609
-god can't be so mean that he has problem
+jan lawa sewi li ken ala akesi ni: tawa ona la
+tenpo kama pi meli ni li ike.
+==god can't be so mean that he has problem
 with their future.
 
 951
 01:45:23,875 --> 01:45:25,050
-its wrong number.
+ni li nanpa pakala.
+==its wrong number.
 
 952
 01:45:26,272 --> 01:45:29,240
-whatever is in our destiny,
+ijo li wile kama lon, la ona li kama lon.
+==whatever is in our destiny,
 will happen.
 
 953
 01:45:30,288 --> 01:45:34,494
-god has made only one masterplan for
+jan lawa sewi li pali e nasin lawa nanpa wan wan taso
+tawa ale.
+==god has made only one masterplan for
 whole universe.
 
 954
 01:45:34,494 --> 01:45:37,082
-you must accept that.
+sina wile utala ala tawa ni.
+==you must accept that.
 
 955
 01:45:37,113 --> 01:45:41,542
-outside temple your followers are selling your
+selo pi tomo pi nasin sewi la jan sama sina li esun
+e lipu sewi sina kepeken mani lili.
+==outside temple your followers are selling your
 holy books in very cheap price.
 
 956
 01:45:41,542 --> 01:45:46,233
-here if you read this 4 lines, you will have
+
+==here if you read this 4 lines, you will have
 a new born son.
 
 957
