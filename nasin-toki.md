@@ -1448,7 +1448,7 @@
   * *([WAWA POKA](#nimi-wawa-poka))* - daŭrigi ke, atendigi ke, restigi ke → plu- — to continue to
 * **awen** ***[hawen]*** *([PONA](#nimi-pona))* - daŭra, daŭrigita — enduring, kept
   * *(... ~~lon~~)* - daŭre ĉeestanta → atendi, resti — continuously being present → waiting, staying
-    * *(~~ken~~ ...)* - rajtanta resti → protektita, savita — allowed to stay → protected, safe
+    * *(~~ken~~ ...+)* - rajtanta resti → protektita, savita — allowed to stay → protected, safe
   * *([WAWA POKA](#nimi-wawa-poka))* - daŭrigi ke  → plu- — to continue to
 * **e** ***[he?]*** *([LILI](#nimi-lili-e))* - -n — (accusative)
 * **en** ***[en]*** *([LILI](#nimi-lili-en-anu))* - kaj — and
