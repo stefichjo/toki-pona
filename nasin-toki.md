@@ -1819,22 +1819,22 @@
     * *(lon ... pi°)* - dum — during
     * *(lon nasin poka sike pi ilo ...°)* ĉirkaŭ la horloĝo, dekstrume — around the clock, clockwise
   * *([POKA°](#nimi-poka-musi))* - duma, provizora — during, provisional
-* **toki** ~~to~~ ***[tok]*** *([PALI](#nimi-lawa-pali))* = **ijo sin**
+* <img src="musi/sitelen/pona/toki.png" height="12"> **toki** ~~to~~ ***[tok]*** *([PALI](#nimi-lawa-pali))* = **ijo sin**
   * *([LAWA](#nimi-lawa))* - io por komuniki: mesaĝo — something to communicate: message
   * *([E](#nimi-wawa-luka))* - komuniki — to communicate
-* **tomo** ***[domo]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/tomo.png" height="12"> **tomo** ***[domo]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io konstruita/io protektanta: domo, ĉambro:  — something built/something protecting: house, room
   * *([POKA°](#nimi-poka-musi))* - konstruita/protektanta — built/protecting
-* **tu** ***[tu]*** *([PONA](#nimi-pona))* - aparta, disa — apart
+* <img src="musi/sitelen/pona/tu.png" height="12"> **tu** ***[tu]*** *([PONA](#nimi-pona))* - aparta, disa — apart
   * *([NANPA](#nimi-poka-palisa-nanpa))* - du — two
 * **tuli** ⇒ **mute**, **tu en wan**
-* **unpa** ***[?]*** *([PONA](#nimi-pona))* - (ge-)gravediĝanta, seksumanta, esti geedzo — becoming pregnant (or her partner), to have sexual relationships, to be married
-* **uta** ***[usta]*** *([ILO](#nimi-lawa-ilo))*
+* <img src="musi/sitelen/pona/unpa.png" height="12"> **unpa** ***[?]*** *([PONA](#nimi-pona))* - (ge-)gravediĝanta, seksumanta, esti geedzo — becoming pregnant (or her partner), to have sexual relationships, to be married
+* <img src="musi/sitelen/pona/uta.png" height="12"> **uta** ***[usta]*** *([ILO](#nimi-lawa-ilo))*
   * *([LAWA](#nimi-lawa))* - organo por kisi, suĉi, spiri: buŝo — organ for kissing, sucking, breathing: mouth
   * *([E](#nimi-wawa-luka))* - kisi, suĉi, spiri — to kiss, to suck, to breathe
-* **utala** ~~utalasi~~ ***[udarati]*** *([PONA](#nimi-pona))* ≠ **pona** - batalanta, defianta, kontraŭanta — battling, challenging, struggling against
+* <img src="musi/sitelen/pona/utala.png" height="12"> **utala** ~~utalasi~~ ***[udarati]*** *([PONA](#nimi-pona))* ≠ **pona** - batalanta, defianta, kontraŭanta — battling, challenging, struggling against
   * *([E](#nimi-wawa-luka))* = **utala tawa**
-* **walo** ***[valko]*** *([PONA](#nimi-pona))* = **kule wawa** - blanka — white
+* <img src="musi/sitelen/pona/walo.png" height="12"> **walo** ***[valko]*** *([PONA](#nimi-pona))* = **kule wawa** - blanka — white
 * <img src="musi/sitelen/pona/wan.png" height="12"> **wan** ***[wan]*** *([PONA](#nimi-pona))*
   * *([POKA](#nimi-poka))* - unika — unique
   * *([PALISA°](#nimi-poka-palisa-musi))*
