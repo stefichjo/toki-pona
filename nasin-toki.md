@@ -1849,7 +1849,7 @@
     * *(LUKA°)* - fluganta en — flying in
     * *([POKA°](#nimi-poka-musi))* - fluganta — flying
 * **wawa** ***[vahva]*** *([PONA](#nimi-pona))* ≠ **lili** - forta — strong
-* **weka** ~~we~~ ***[wex]*** *([LUKA°](#nimi-poka-luka-musi))*
+* <img src="musi/sitelen/pona/weka.png" height="15"> **weka** ~~we~~ ***[wex]*** *([LUKA°](#nimi-poka-luka-musi))*
   * *(LUKA°)* - fore de, ekster — away from, outside
   * *([POKA](#nimi-poka))* - fora, distanca, ekstera — away, gone, distant, outside
     * *(lon poka pi suno ...°)* - okcidente — in the west
