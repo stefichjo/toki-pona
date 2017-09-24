@@ -1843,13 +1843,13 @@
         * *([POKA](#nimi-poka))* - unu — one
           * *(... LAWA°)* - unuo, -ero — unit, one piece of
     * *([LAWA°](#nimi-lawa-musi))* - unio — union
-* **waso** ***[wazo]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo kon**
+* <img src="musi/sitelen/pona/waso.png" height="12"> **waso** ***[wazo]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo kon**
   * *([LAWA](#nimi-lawa))* - fluganta vivaĵo: birdo — flying organism: bird
   * *([LUKA°](#nimi-poka-luka-musi))*
     * *(LUKA°)* - fluganta en — flying in
     * *([POKA°](#nimi-poka-musi))* - fluganta — flying
-* <img src="musi/sitelen/pona/wawa.png" height="10"> **wawa** ***[vahva]*** *([PONA](#nimi-pona))* ≠ **lili** - forta — strong
-* <img src="musi/sitelen/pona/weka.png" height="10"> **weka** ~~we~~ ***[wex]*** *([LUKA°](#nimi-poka-luka-musi))*
+* <img src="musi/sitelen/pona/wawa.png" height="12"> **wawa** ***[vahva]*** *([PONA](#nimi-pona))* ≠ **lili** - forta — strong
+* <img src="musi/sitelen/pona/weka.png" height="12"> **weka** ~~we~~ ***[wex]*** *([LUKA°](#nimi-poka-luka-musi))*
   * *(LUKA°)* - fore de, ekster — away from, outside
   * *([POKA](#nimi-poka))* - fora, distanca, ekstera — away, gone, distant, outside
     * *(lon poka pi suno ...°)* - okcidente — in the west
@@ -1857,5 +1857,5 @@
   * *([IJO](#nimi-lawa-ijo))*
     * *([LAWA](#nimi-lawa))* - ie for, ie ekstere — somewhere far away, somewhere outside
       * *(lon ...°)* - for — away
-* <img src="musi/sitelen/pona/wile.png" height="10"> **wile** ***[wille]*** *([PONA](#nimi-pona))* - necesa — necessary
+* <img src="musi/sitelen/pona/wile.png" height="12"> **wile** ***[wille]*** *([PONA](#nimi-pona))* - necesa — necessary
   * *([WAWA POKA](#nimi-wawa-poka))* - necesigi ke → voli, devi — to make necessary → to need, want, must
