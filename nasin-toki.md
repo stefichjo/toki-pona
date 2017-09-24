@@ -1662,46 +1662,46 @@
   * *([POKA](#nimi-poka))* - de ŝi, de li, de ĝi, de ili: ŝia, lia, ĝia, ilia — of her, of him, of it, of them: her, his, its, their
 * **open** ***[open]*** *([PONA](#nimi-pona))* - malfermita, inaŭgurita, preta, ŝaltita — open, inaugurated, ready, turned on
   * *(... [PALI°](#nimi-lawa-pali))* - tra-ebla — through-able
-* **pakala** ***[bagar-ap]*** *([PONA](#nimi-pona))* ≠ **pona** - damaĝita, lezita — damaged, harmed
-* **pake e** ⇒ **len e lupa pi**, **selo e**
-* **pali** ***[fari]*** *([PALI](#nimi-lawa-pali))* = **luka e ijo**
+* <img src="musi/sitelen/pona/pakala.png" height="12"> **pakala** ***[bagar-ap]*** *([PONA](#nimi-pona))* ≠ **pona** - damaĝita, lezita — damaged, harmed
+* <img src="musi/sitelen/pona/-.png" height="12"> **pake e** ⇒ **len e lupa pi**, **selo e**
+* <img src="musi/sitelen/pona/pali.png" height="12"> **pali** ***[fari]*** *([PALI](#nimi-lawa-pali))* = **luka e ijo**
   * *([LAWA](#nimi-lawa))* - io por priagi, io por prilabori: laboro, tasko — something to take action on, something to work on: work, task
     * *([PALI+](#nimi-lawa-pali-namako))* ⇒ **kama** - aperigi, okazigi → krei — to make
     * *([PALI+](#nimi-lawa-pali-namako))* ⇒ **open** - pretigi → prepari — to prepare
     * *([PALI+](#nimi-lawa-pali-namako))* ⇒ **tomo** - konstrui — to build
   * *([E](#nimi-wawa-luka))* - priagi, prilabori — to take action on, to work on
-* **palisa** ***[palica]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/palisa.png" height="12"> **palisa** ***[palica]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io longa kaj malmola: branĉo, bastono — something long and hard: branch, stick
   * *([POKA](#nimi-poka))* - longa kaj malmola — long and hard
   * *([ILO°](#nimi-lawa-ilo-musi))*
     * *([LAWA](#nimi-lawa))* - organo por celi: fingro — organ for aiming: finger
     * *([E°](#nimi-wawa-luka))* - celi — to aim
-* **pan** ***[pan]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/pan.png" height="12"> **pan** ***[pan]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io esenca, io kerna: semo, rizo — seed, rice
     * *([LAWA°](#nimi-lawa-musi))* - principo — principle
     * *(~~moku~~ ...)* - sema manĝaĵo, panherbaĵo: pano, nudeloj — cerials: bread, pasta
   * *([POKA°](#nimi-poka-musi))* - esenca, kerna
-* **pana** ***[?]*** *([PALI](#nimi-lawa-pali))*= **luka sin**
+* <img src="musi/sitelen/pona/pana.png" height="12"> **pana** ***[?]*** *([PALI](#nimi-lawa-pali))*= **luka sin**
   * *([LAWA](#nimi-lawa))* - io por doni, io por provizi, io por publiki: dateno — something to give, something to provide, something to publish: data
   * *([E](#nimi-wawa-luka))* - doni, provizi, publikigi — to give, to provide, to publish
-* **pasila** ***[facila]*** ⇒ **pona pali**
-* **pata** ⇒ **jan sama**
-* **pi** ***[bilong]*** *([LILI](#nimi-lili-pi))* - (genitivo) — (genitive)
-* **pilin** ***[fil-him]*** *([ILO](#nimi-lawa-ilo))*
+* <img src="musi/sitelen/pona/-.png" height="12"> **pasila** ***[facila]*** ⇒ **pona pali**
+* <img src="musi/sitelen/pona/-.png" height="12"> **pata** ⇒ **jan sama**
+* <img src="musi/sitelen/pona/pi.png" height="12"> **pi** ***[bilong]*** *([LILI](#nimi-lili-pi))* - (genitivo) — (genitive)
+* <img src="musi/sitelen/pona/pilin.png" height="12"> **pilin** ***[fil-him]*** *([ILO](#nimi-lawa-ilo))*
   * *([LAWA](#nimi-lawa))* - organo por senti, empatii: koro — organ for feeling, empathizing: heart
     * *(lon poka ...°)* - ĉe la flanko de la koro: maldekstra — at the heart's side: left
   * *([E](#nimi-wawa-luka))* - senti, empatii — to feel, to empathize
-* **pimeja** ***[pimeä]*** *([PONA](#nimi-pona))* = **kule ala** - malhela, nigra — dark, black
-* **pini** ***[fini]*** *([PONA](#nimi-pona))* - finita, pasinta — finished, past
+* <img src="musi/sitelen/pona/pimeja.png" height="12"> **pimeja** ***[pimeä]*** *([PONA](#nimi-pona))* = **kule ala** - malhela, nigra — dark, black
+* <img src="musi/sitelen/pona/pini.png" height="12"> **pini** ***[fini]*** *([PONA](#nimi-pona))* - finita, pasinta — finished, past
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - fini ke → ĉesi — to stop that → to cease
   * *(lon ... pi°)* - malantaŭ — after
-* **pipi** ~~pipite~~ ***[bibitte]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo noka**
+* <img src="musi/sitelen/pona/pipi.png" height="12"> **pipi** ~~pipite~~ ***[bibitte]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo noka**
   * *([LAWA](#nimi-lawa))* - rampanta vivaĵo: insekto — crawling organism: insect
   * *([LUKA°](#nimi-poka-luka-musi))*
     * *(LUKA°)* - rampi sur — crawling on
     * *([POKA°](#nimi-poka-musi))* - rampanta — crawling
-* **po** ⇒ **tu tu**
-* **poka** ***[boka]*** *([IJO](#nimi-lawa-ijo))*
+* <img src="musi/sitelen/pona/-.png" height="12"> **po** ⇒ **tu tu**
+* <img src="musi/sitelen/pona/poka.png" height="12"> **poka** ***[boka]*** *([IJO](#nimi-lawa-ijo))*
   * *([LAWA](#nimi-lawa))* - io apuda: flanko — something lateral: side
     * *(lon ... pi)* - apud, kune kun — next to, together with
 	  * *(kepeken ... pi°)* - kune kun — together with
@@ -1711,13 +1711,13 @@
     * *(lon nasin ... pi°)* - preter — past
   * *([POKA](#nimi-poka))* - apuda, akompananta — lateral, accompanying
   * *([LUKA!](#nimi-poka-luka-nasa))* ⇒ **kan**
-* **poki** ***[bokis]*** *([ILO°](#nimi-lawa-ilo-musi))*
+* <img src="musi/sitelen/pona/poki.png" height="12"> **poki** ***[bokis]*** *([ILO°](#nimi-lawa-ilo-musi))*
   * *([LAWA](#nimi-lawa))* - organo por kapti: veziko, ujo, ingo — organ for capturing: bladder, container
   * *([E°](#nimi-wawa-luka-musi))* - kapti — to capture
 * <img src="musi/sitelen/pona/pona.png" height="12"> **pona** ***[bona]*** *([PONA](#nimi-pona))* ≠ **ike, jaki, nasa, pakala, utala** - bona, amika, simpla — good, friendly, simple
   * *(... [PALI](#nimi-lawa-pali))* - -inda — worth -ing
   * *(lon nasin ...°)* - rekta — direct
-* **powe** ⇒ **toki ike**, **toki akesi**
+* <img src="musi/sitelen/pona/-.png" height="12"> **powe** ⇒ **toki ike**, **toki akesi**
 * <img src="musi/sitelen/pona/pu.png" height="12"> **pu** ***[buk]*** *([LUKA°](#nimi-poka-luka-musi))*
   * *(LUKA°)* - en harmonio kun, laŭ — in harmony with, according to
   * *([POKA](#nimi-poka))* - harmonia, aganta laŭa, konsultanta la Oficialan Libron de Tokipono — harmonious, according, interacting with the Official Toki Pona Book
