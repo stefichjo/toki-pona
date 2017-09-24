@@ -1857,5 +1857,5 @@
   * *([IJO](#nimi-lawa-ijo))*
     * *([LAWA](#nimi-lawa))* - ie for, ie ekstere — somewhere far away, somewhere outside
       * *(lon ...°)* - for — away
-* <img src="musi/sitelen/pona/wile.png" height="25"> **wile** ***[wille]*** *([PONA](#nimi-pona))* - necesa — necessary
+* <img src="musi/sitelen/pona/wile.png" height="15"> **wile** ***[wille]*** *([PONA](#nimi-pona))* - necesa — necessary
   * *([WAWA POKA](#nimi-wawa-poka))* - necesigi ke → voli, devi — to make necessary → to need, want, must
