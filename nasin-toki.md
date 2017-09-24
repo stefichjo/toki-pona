@@ -1771,6 +1771,7 @@
 * **sinpin** ~~sanpan~~ ***[ŝjanbjan]*** *([IJO](#nimi-lawa-ijo))*
   * *([LAWA](#nimi-lawa))* - io antaŭa: muro — something frontal: wall
     * *(lon ... pi)* ≠ **lon monsi pi** - antaŭ — in front of
+    * *(... ~~lawa~~+)* - vizaĝo — face
   * *([POKA](#nimi-poka))* - antaŭa — frontal
 * **sitelen** ***[ŝilderen]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io desegnita, io imagita, io skribita: bildo, ideo, simbolo — something drawn, something imagined,  something written: picture, idea, symbol
