@@ -1714,32 +1714,32 @@
 * **poki** ***[bokis]*** *([ILO°](#nimi-lawa-ilo-musi))*
   * *([LAWA](#nimi-lawa))* - organo por kapti: veziko, ujo, ingo — organ for capturing: bladder, container
   * *([E°](#nimi-wawa-luka-musi))* - kapti — to capture
-* **pona** ***[bona]*** *([PONA](#nimi-pona))* ≠ **ike, jaki, nasa, pakala, utala** - bona, amika, simpla — good, friendly, simple
+* <img src="musi/sitelen/pona/pona.png" height="12"> **pona** ***[bona]*** *([PONA](#nimi-pona))* ≠ **ike, jaki, nasa, pakala, utala** - bona, amika, simpla — good, friendly, simple
   * *(... [PALI](#nimi-lawa-pali))* - -inda — worth -ing
   * *(lon nasin ...°)* - rekta — direct
 * **powe** ⇒ **toki ike**, **toki akesi**
-* **pu** ***[buk]*** *([LUKA°](#nimi-poka-luka-musi))*
+* <img src="musi/sitelen/pona/pu.png" height="12"> **pu** ***[buk]*** *([LUKA°](#nimi-poka-luka-musi))*
   * *(LUKA°)* - en harmonio kun, laŭ — in harmony with, according to
   * *([POKA](#nimi-poka))* - harmonia, aganta laŭa, konsultanta la Oficialan Libron de Tokipono — harmonious, according, interacting with the Official Toki Pona Book
-* **sama** ***[sama]*** *([LUKA](#nimi-poka-luka))*
+* <img src="musi/sitelen/pona/sama.png" height="12"> **sama** ***[sama]*** *([LUKA](#nimi-poka-luka))*
   * *(LUKA)* - kiel — like
   * *([POKA](#nimi-poka))* - egala, sama, mem — alike, same, self
     * *(~~pi kulupu mama~~ ...)* parenca — related
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - simuli, ŝajnigi — to simulate, to pretend
-* **seli** ***[cxeli]*** *([PONA](#nimi-pona))* - varma, arda — warm, hot
+* <img src="musi/sitelen/pona/seli.png" height="12"> **seli** ***[cxeli]*** *([PONA](#nimi-pona))* - varma, arda — warm, hot
   * *([MUN°](#nimi-mun-musi))*
     * *(TOKI°)* - marsa, marda — mars's, tuesday's
-* **selo** ***[ŝelo]*** *([ILO°](#nimi-lawa-ilo-musi))*
+* <img src="musi/sitelen/pona/selo.png" height="12"> **selo** ***[ŝelo]*** *([ILO°](#nimi-lawa-ilo-musi))*
   * *([LAWA](#nimi-lawa))* - organo por formi, fermi: haŭto, ŝelo — organ for forming, closing: skin, shell
     * *(lon ... pi°)* - sur, koncerne -n — on, affecting
   * *([E°](#nimi-wawa-luka-musi))* - formi, fermi — to form, to close
   * *([IJO°](#nimi-lawa-ijo-musi))*
     * *([POKA°](#nimi-lawa-musi))* - lima — limiting, bounding
     * *([LAWA°](#nimi-lawa-musi))* - limo — limit, boundary
-* **seme** ~~senme~~ ***[ŝenme]*** *([PALISA](#nimi-poka-palisa))*
+* <img src="musi/sitelen/pona/seme.png" height="12"> **seme** ~~senme~~ ***[ŝenme]*** *([PALISA](#nimi-poka-palisa))*
   * *([POKA](#nimi-poka))* - kiu — which
   * *([LAWA](#nimi-lawa))* - kio — what
-* **sewi** ***[sevit]*** *([IJO](#nimi-lawa-ijo))*
+* <img src="musi/sitelen/pona/sewi.png" height="12"> **sewi** ***[sevit]*** *([IJO](#nimi-lawa-ijo))*
   * *([POKA](#nimi-poka))* - supera — superior
   * *([LAWA](#nimi-lawa))* - io supera: ĉielo, Dio — something superior: heaven, God
     * *(lon ... pi)* ≠ **lon anpa pi** - super, sur — over, on
@@ -1750,25 +1750,25 @@
     * *([POKA+](#nimi-poka-namako))* - supra — top, highest
     * *([LAWA+](#nimi-lawa-namako))* - supro — top, highest part
 	  * *(lon ... pi+)* ≠ **lon noka pi** ⇒ **lon lawa pi** - supre de — at the highest part
-* **sijelo** ***[tijelo]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/sijelo.png" height="12"> **sijelo** ***[tijelo]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io organizita: vivaĵo, korpo — something organized: organism, body
     * *([LAWA°](#nimi-lawa-musi))* - besto — animal
   * *([POKA°](#nimi-poka-musi))* - organizita — organized
     * *([LAWA°](#nimi-lawa-musi))* - fizika stato — physical state
-* **sike** ***[sirkel]*** *([IJO](#nimi-lawa-ijo))*
+* <img src="musi/sitelen/pona/sike.png" height="12"> **sike** ***[sirkel]*** *([IJO](#nimi-lawa-ijo))*
   * *([LAWA](#nimi-lawa))* - io ronda: cirklo, globo, ĉirkaŭo — something round: circle, sphere, surroundings
     * *(lon poka ... pi°)* - ĉirkaŭ — around
     * *(lon nasin poka ... pi°)* - ĉirkaŭ -n — around
   * *([POKA](#nimi-poka))* - ronda, plenumita — round, fulfilled
     * *([WAWA POKA°](#nimi-wawa-poka-musi))* - plenumi ke → tute — to fulfill that → completely
   * *([E+](#nimi-wawa-luka-namako))* = **lon nasin sike pi**
-* **sin** ***[ŝin]*** *([LUKA°](#nimi-poka-luka-musi))*
+* <img src="musi/sitelen/pona/sin.png" height="12"> **sin** ***[ŝin]*** *([LUKA°](#nimi-poka-luka-musi))*
   * *(LUKA°)* - aldona al, kun — additional to, with
   * *([POKA](#nimi-poka))* - plia, aldona, nova, freŝa — another, additional, new, fresh
-* **sina** ***[sinä]*** *([ESUN](#nimi-lawa-esun))*
+* <img src="musi/sitelen/pona/sina.png" height="12"> **sina** ***[sinä]*** *([ESUN](#nimi-lawa-esun))*
   * *([LAWA](#nimi-lawa))* - vi — you
   * *([POKA](#nimi-poka))* - de vi: via — of you: your
-* **sinpin** ~~sanpan~~ ***[ŝjanbjan]*** *([IJO](#nimi-lawa-ijo))*
+* <img src="musi/sitelen/pona/sinpin.png" height="12"> **sinpin** ~~sanpan~~ ***[ŝjanbjan]*** *([IJO](#nimi-lawa-ijo))*
   * *([LAWA](#nimi-lawa))* - io antaŭa: muro — something frontal: wall
     * *(lon ... pi)* ≠ **lon monsi pi** - antaŭ — in front of
     * *(... ~~lawa~~+)* - vizaĝo — face
