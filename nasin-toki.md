@@ -1835,7 +1835,7 @@
 * **utala** ~~utalasi~~ ***[udarati]*** *([PONA](#nimi-pona))* ≠ **pona** - batalanta, defianta, kontraŭanta — battling, challenging, struggling against
   * *([E](#nimi-wawa-luka))* = **utala tawa**
 * **walo** ***[valko]*** *([PONA](#nimi-pona))* = **kule wawa** - blanka — white
-* **wan** ***[wan]*** *([PONA](#nimi-pona))*
+* <img src="musi/sitelen/pona/wan.png" height="12"> **wan** ***[wan]*** *([PONA](#nimi-pona))*
   * *([POKA](#nimi-poka))* - unika — unique
   * *([PALISA°](#nimi-poka-palisa-musi))*
     * *([POKA+](#nimi-poka-namako))* - unueca, unu, izolita — united, one, isolated
