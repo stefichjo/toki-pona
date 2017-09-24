@@ -1773,49 +1773,49 @@
     * *(lon ... pi)* ≠ **lon monsi pi** - antaŭ — in front of
     * *(... ~~lawa~~+)* - vizaĝo — face
   * *([POKA](#nimi-poka))* - antaŭa — frontal
-* **sitelen** ***[ŝilderen]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/sitelen.png" height="12"> **sitelen** ***[ŝilderen]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io desegnita, io imagita, io skribita: bildo, ideo, simbolo — something drawn, something imagined,  something written: picture, idea, symbol
   * *([POKA°](#nimi-poka-musi))* - desegnita, imagita, skribita — drawn, imagined, written
   * *(... ko°)* - punkto — point
-* **sona** ***[codna]*** *([PALI](#nimi-lawa-pali))*
+* <img src="musi/sitelen/pona/sona.png" height="12"> **sona** ***[codna]*** *([PALI](#nimi-lawa-pali))*
   * *([LAWA](#nimi-lawa))* - io por scii: fakto — something to know: fact
   * *([E](#nimi-wawa-luka))* - scii — to know
     * *([WAWA POKA](#nimi-wawa-poka))* - scii kiel povi sukcesi → scipovi — to know how to be able to succeed → to know how to
-* **soweli** ***[cxoveli]*** *([JAN°](#nimi-lawa-jan-musi))* = **sijelo seli**
+* <img src="musi/sitelen/pona/soweli.png" height="12"> **soweli** ***[cxoveli]*** *([JAN°](#nimi-lawa-jan-musi))* = **sijelo seli**
   * *([LAWA](#nimi-lawa))* - varmsanga animaĵo: mamulo — warm-blooded animated being: mammal
   * *([POKA°](#nimi-poka-musi))* - varmsanga — warm-blooded
-* **suli** ***[suuri]*** *([PONA](#nimi-pona))* ≠ **lili** - granda, peza, grava, plenkreska — big, heavy, important, adult
-* **suno** ***[suno]*** *([IJO](#nimi-lawa-ijo))*
+* <img src="musi/sitelen/pona/suli.png" height="12"> **suli** ***[suuri]*** *([PONA](#nimi-pona))* ≠ **lili** - granda, peza, grava, plenkreska — big, heavy, important, adult
+* <img src="musi/sitelen/pona/suno.png" height="12"> **suno** ***[suno]*** *([IJO](#nimi-lawa-ijo))*
   * *([LAWA](#nimi-lawa))* - io hela: suno — something bright: sun
   * *([POKA](#nimi-poka))* - hela — bright
   * *([MUN°](#nimi-mun-musi))*
     * *(TOKI°)* - suna, dimanĉa — sun's, sunday's
-* **supa** ***[surfac]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/supa.png" height="12"> **supa** ***[surfac]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io ebeniga, io transponta: ponto, lito, seĝo — something leveling, something bridging: bridge, bed, chair
     * *(lon nasin ... pi°)* - trans — via
   * *([POKA°](#nimi-poka-musi))* - ebeniga, transponta — leveling, bridging
-* **suwi** ***[swit]*** *([IJO](#nimi-lawa-ijo))*
+* <img src="musi/sitelen/pona/suwi.png" height="12"> **suwi** ***[swit]*** *([IJO](#nimi-lawa-ijo))*
   * *([LAWA](#nimi-lawa))* - io dolĉa: dolĉaĵo — something sweet: sweets
   * *([POKA](#nimi-poka))* - dolĉa — sweet
-* **tan** ***[?]*** *([LUKA](#nimi-poka-luka))* = **pini lon**
+* <img src="musi/sitelen/pona/tan.png" height="12"> **tan** ***[?]*** *([LUKA](#nimi-poka-luka))* = **pini lon**
   * *(LUKA)* - de, pro — by, from, because of
   * *([POKA](#nimi-poka))* - devenanta — originating
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - esti -inta — to have -ed
-* **taso** ***[dats-ol]*** *([LUKA°](#nimi-poka-luka-musi))*
+* <img src="musi/sitelen/pona/taso.png" height="12"> **taso** ***[dats-ol]*** *([LUKA°](#nimi-poka-luka-musi))*
   * *(LUKA°)* - sendepende de, kiel escepto de, sen, malgraŭ, spite al, kvankam — independent from, as    * *(... ~~ni la~~)* - sed — but
   * *([POKA](#nimi-poka))* - sendependa, escepta, nura, libera — independent, exceptional, only, free
  an exception from, without, despite
-* **tawa** ~~towa~~ ***[towards]*** = **kama lon** *([LUKA](#nimi-poka-luka))*
+* <img src="musi/sitelen/pona/tawa.png" height="12"> **tawa** ~~towa~~ ***[towards]*** = **kama lon** *([LUKA](#nimi-poka-luka))*
   * *(LUKA)* - al, por — to, toward, for
   * *([POKA](#nimi-poka))* - moviĝanta, celanta — moving, heading
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - esti -onta — to be about to
   * *(lon poka pi suno ...°)* - ekvatore, sude/norde — at the equator, in the south/north
-* **telo** ***[de-l-o]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/telo.png" height="12"> **telo** ***[de-l-o]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io likva, io malseka: akvo, trinkaĵo — something liquid, something wet: water, beverage
   * *([POKA°](#nimi-poka-musi))* - likva, malseka — liquid, wet
   * *([MUN°](#nimi-mun-musi))*
     * *(TOKI°)* - merkura, merkreda — mercury's, wednesday's
-* **tenpo** ***[tempo]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/tenpo.png" height="12"> **tenpo** ***[tempo]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io duma, io provizora: intervalo, paŭzo, tempo, daŭro, okazo, situacio — something during, something provisional: interval, break, time, duration, occasion, situation
     * *(lon ... pi°)* - dum — during
     * *(lon nasin poka sike pi ilo ...°)* ĉirkaŭ la horloĝo, dekstrume — around the clock, clockwise
