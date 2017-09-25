@@ -1408,16 +1408,16 @@
 # ale pi nimi mute
 *(Vortaro — Dictionary)*
 
-* **a** ***[ha]*** *([KALAMA](#nimi-lili-kalama))* ≠ **ala** - emfaza, emocia, konfirma interjekcio: ha → ja, eĉ, efektive — emotional interjection: ha → so, even, indeed
+* <img src="musi/sitelen/pona/a.png" height="12"> **a** ***[ha]*** *([KALAMA](#nimi-lili-kalama))* ≠ **ala** - emfaza, emocia, konfirma interjekcio: ha → ja, eĉ, efektive — emotional interjection: ha → so, even, indeed
   * *([KALAMA°](#nimi-lili-kalama-musi))* - jes — yes
   * *([POKA°](#nimi-poka-musi))* - konfirmita, efektiva, vera — confirmed, actual, true
   * *([PALISA°](#nimi-poka-palisa-musi))*
     * *([POKA°](#nimi-poka-musi))* - certa, specifa — a certain, a specific
     * *([LAWA°](#nimi-lawa-musi))* - certaĵo, specifaĵo — something certain, something specific
-* **akesi** ***[hagedis]*** *([JAN°](#nimi-lawa-jan-musi))* = **sijelo lete**
+* <img src="musi/sitelen/pona/akesi.png" height="12"> **akesi** ***[hagedis]*** *([JAN°](#nimi-lawa-jan-musi))* = **sijelo lete**
   * *([LAWA](#nimi-lawa))* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
   * *([POKA°](#nimi-poka-musi))* - malvarmsanga — cold-blooded
-* **ala** ***[ara]*** *([KALAMA°](#nimi-lili-kalama-musi))* ≠ **a** - malkonfirma interjekcio: ne — unconfirming interjection: no
+* <img src="musi/sitelen/pona/ala.png" height="12"> **ala** ***[ara]*** *([KALAMA°](#nimi-lili-kalama-musi))* ≠ **a** - malkonfirma interjekcio: ne — unconfirming interjection: no
   * *([POKA](#nimi-poka))* - malvera — false
   * *([PALISA](#nimi-poka-palisa))*
     * *([POKA](#nimi-poka))* - neniu — no
@@ -1425,34 +1425,32 @@
       * *([NANPA](#nimi-poka-palisa-nanpa))*
 	    * *([POKA](#nimi-poka))* - nul — zero
     * *([LAWA](#nimi-lawa))* - nenio — nothing
-* **alasa** ***[a-la-ŝas]*** *([PALI°](#nimi-lawa-pali))*
+* <img src="musi/sitelen/pona/alasa.png" height="12"> **alasa** ***[a-la-ŝas]*** *([PALI°](#nimi-lawa-pali))*
   * *([LAWA°](#nimi-lawa-musi))* - io por ĉasi, io por kolekti: foraĝo — something to hunt, something to collect: forage
   * *([E](#nimi-wawa-luka))* - ĉasi, kolekti — to hunt, to collect
-* **ale** ***[alle]*** *([PONA](#nimi-pona))*
+* <img src="musi/sitelen/pona/ale.png" height="12"> **ale** ***[alle]*** *([PONA](#nimi-pona))*
   * *([POKA](#nimi-poka))* - tuta — entire, whole
   * *([PALISA](#nimi-poka-palisa))*
     * *([POKA](#nimi-poka))* - ĉiu — every
       * *([NANPA](#nimi-poka-palisa-nanpa))* - senfine — countless
     * *([LAWA](#nimi-lawa))* - ĉio, ĉiom — everything, the whole
       * *(... LAWA°)* - tuta, ĉiom da — whole, all of
-* **ali** ⇒ **ale**
-* **anpa** ***[an-bas]*** *([PONA](#nimi-pona))* - malalta, kliniĝi, klinsaluti — low, bending, bowing
+* <img src="musi/sitelen/pona/-.png" height="12"> **ali** ⇒ **ale**
+* <img src="musi/sitelen/pona/anpa.png" height="12"> **anpa** ***[an-bas]*** *([PONA](#nimi-pona))* - malalta, kliniĝi, klinsaluti — low, bending, bowing
   * *(lon ... pi)* ≠ **lon sewi pi** - sub — under
-* **ante** ***[ander]*** *([LUKA°](#nimi-poka-luka-musi))*
+* <img src="musi/sitelen/pona/ante.png" height="12"> **ante** ***[ander]*** *([LUKA°](#nimi-poka-luka-musi))*
   * *(LUKA°)* - ol — than
   * *([POKA](#nimi-poka))* - alia — different
   * *(lon poka ... pi°)* - ĉe la alia flanko de, trans — at the other side of, beyond
-* **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili-en-anu))* - aŭ — or
-* **apeja** ⇒ **jaki**
-* **awen** ***[hawen]*** *([PONA](#nimi-pona))* - daŭra, atenda, resta — enduring, waiting, remaining
-  * *([WAWA POKA](#nimi-wawa-poka))* - daŭrigi ke, atendigi ke, restigi ke → plu- — to continue to
-* **awen** ***[hawen]*** *([PONA](#nimi-pona))* - daŭra, daŭrigita — enduring, kept
+* <img src="musi/sitelen/pona/anu.png" height="12"> **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili-en-anu))* - aŭ — or
+* <img src="musi/sitelen/pona/-.png" height="12"> **apeja** ⇒ **jaki**
+* <img src="musi/sitelen/pona/awen.png" height="12"> **awen** ***[hawen]*** *([PONA](#nimi-pona))* - daŭra, daŭrigita — enduring, kept
   * *(... ~~lon~~)* - daŭre ĉeestanta → atendi, resti — continuously being present → waiting, staying
     * *(~~ken~~ ...+)* - rajtanta resti → protektita, savita — allowed to stay → protected, safe
   * *([WAWA POKA](#nimi-wawa-poka))* - daŭrigi ke  → plu- — to continue to
-* **e** ***[he?]*** *([LILI](#nimi-lili-e))* - -n — (accusative)
-* **en** ***[en]*** *([LILI](#nimi-lili-en-anu))* - kaj — and
-* **esun** ***[edẑum]*** *([SIJELO°](#nimi-lawa-sijelo-musi))*
+* <img src="musi/sitelen/pona/e.png" height="12"> **e** ***[he?]*** *([LILI](#nimi-lili-e))* - -n — (accusative)
+* <img src="musi/sitelen/pona/en.png" height="12"> **en** ***[en]*** *([LILI](#nimi-lili-en-anu))* - kaj — and
+* <img src="musi/sitelen/pona/esun.png" height="12"> **esun** ***[edẑum]*** *([SIJELO°](#nimi-lawa-sijelo-musi))*
   * *([LAWA](#nimi-lawa))* - interŝanĝanta organizo: metabolo, vendejo, merkato, ekonomio — exchanging organism: metabolism, shop, market, economy
     * *([NANPA°](#nimi-poka-palisa-nanpa-musi))*
 	  * *([POKA°](#nimi-poka-musi))* - sep — seven
