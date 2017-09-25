@@ -1505,45 +1505,45 @@
     * *([POKA°](#nimi-poka-musi))* - kreskanta — growing
   * *([MUN°](#nimi-lawa-mun-musi))*
     * *(TOKI°)* - jupitera, ĵaŭda — jupiter's, thursday's
-* **ken** ***[ken]*** *([PONA](#nimi-pona))* - ebla — possible
+* <img src="musi/sitelen/pona/ken.png" height="12"> **ken** ***[ken]*** *([PONA](#nimi-pona))* - ebla — possible
   * *([WAWA POKA](#nimi-wawa-poka))* - ebligi ke → povi, kapabli, rajti — to make possible that → can, to be able to, to be allowed to
-* **kepeken** ***[xebrewken]*** *([LUKA](#nimi-poka-luka))* = **awen lon**
+* <img src="musi/sitelen/pona/kepeken.png" height="12"> **kepeken** ***[xebrewken]*** *([LUKA](#nimi-poka-luka))* = **awen lon**
   * *(LUKA)* - per — by means of
   * *([POKA](#nimi-poka))* - uzanta — using
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - kutimi — to be used to
-* **kijetesantakalu** ***[kierteishäntäkarhu]*** ⇒ **soweli**
-* **kili** ***[xili]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/-.png" height="12"> **kijetesantakalu** ***[kierteishäntäkarhu]*** ⇒ **soweli**
+* <img src="musi/sitelen/pona/kili.png" height="12"> **kili** ***[xili]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io pendanta: frukto, legomo, fungo — something hanging: fruit, vegetable, mushroom
     * *(lon ... pi°)* - depende de — depending on
   * *([POKA°](#nimi-poka-musi))* - pendanta — hanging
-* **kin** ⇒ **a**
-* **kinkaju** ⇒ **kijetesantakalu**
-* **kipisi e** ⇒ **tu e**
-* **kiwen** ***[kiven]*** *([IJO](#nimi-lawa-ijo))*
+* <img src="musi/sitelen/pona/-.png" height="12"> **kin** ⇒ **a**
+* <img src="musi/sitelen/pona/-.png" height="12"> **kinkaju** ⇒ **kijetesantakalu**
+* <img src="musi/sitelen/pona/-.png" height="12"> **kipisi e** ⇒ **tu e**
+* <img src="musi/sitelen/pona/kiwen.png" height="12"> **kiwen** ***[kiven]*** *([IJO](#nimi-lawa-ijo))*
   * *([LAWA](#nimi-lawa))* - io malmola: ŝtono — something hard: stone
   * *([POKA](#nimi-poka))* - malmola — hard
   * *([MUN°](#nimi-mun-musi))*
     * *(TOKI°)* - venusa, vendreda — venus's, friday's
-* **ko** ***[gow]*** *([IJO](#nimi-lawa-ijo))*
+* <img src="musi/sitelen/pona/ko.png" height="12"> **ko** ***[gow]*** *([IJO](#nimi-lawa-ijo))*
   * *([LAWA](#nimi-lawa))* - io duon-malmola: pasto, pulvoro, polvo — something semi-solid: dough, powder, dust
     * *(... pi selo ala°)* ne-formita duon-malmolaĵo, pulvoro, polvo — un-formed semi-solid something, powder, dust
     * *(... selo°)* formita duon-malmolaĵo, pasto — formed semi-solid something, dough
   * *([POKA](#nimi-poka))* - duon-malmola — semi-solid
-* **kon** ***[kong]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/kon.png" height="12"> **kon** ***[kong]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io ŝvebanta: aero, spirito, esenco, kaŝita realo — something hovering: air, spirit, essence, hidden reality
   * *([POKA°](#nimi-poka-musi))* - ŝvebanta — hovering
-* **kule** ***[kuler]*** *([PONA](#nimi-pona))* - kolora — colorful
-* **kulupu** ***[grup]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/kule.png" height="12"> **kule** ***[kuler]*** *([PONA](#nimi-pona))* - kolora — colorful
+* <img src="musi/sitelen/pona/kulupu.png" height="12"> **kulupu** ***[grup]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - reciproka aĵo: interrilato, komunumo, kompanio, grupo, nacio, socio, tribo — something reciprocal: relation, community, company, group, nation, society, tribe
     * *(lon ...)* - kune — together
   * *([POKA°](#nimi-poka-musi))* - reciproka — reciprocal
   * *([LAWA!](#nimi-lawa-nasa))* = mute - aro — set
-* **kute** ~~ekute~~ ***[ekute]*** *([ILO](#nimi-lawa-ilo))*
+* <img src="musi/sitelen/pona/kute.png" height="12"> **kute** ~~ekute~~ ***[ekute]*** *([ILO](#nimi-lawa-ilo))*
   * *([LAWA](#nimi-lawa))* - organo por aŭdi: orelo — organ for hearing: ear
   * *([E](#nimi-wawa-luka))* - aŭdi, obei — to hear, to obey
-* **la** ***[la]*** *([LILI](#nimi-lili-la))* = **lon** - (kunteksta frazero) — (contextual phrase)
-* **lape** ***[slape]*** *([PONA](#nimi-pona))* - dormanta, ripozanta — sleeping, resting
-* **laso** ~~la~~ ***[glas]*** *([PONA](#nimi-pona))* = **kule kasi**, **kule sewi** - blua, verda — blue, green
+* <img src="musi/sitelen/pona/la.png" height="12"> **la** ***[la]*** *([LILI](#nimi-lili-la))* = **lon** - (kunteksta frazero) — (contextual phrase)
+* <img src="musi/sitelen/pona/lape.png" height="12"> **lape** ***[slape]*** *([PONA](#nimi-pona))* - dormanta, ripozanta — sleeping, resting
+* <img src="musi/sitelen/pona/laso.png" height="12"> **laso** ~~la~~ ***[glas]*** *([PONA](#nimi-pona))* = **kule kasi**, **kule sewi** - blua, verda — blue, green
 * <img src="musi/sitelen/pona/lawa.png" height="12"> **lawa** ***[glava]*** *([ILO](#nimi-lawa-ilo))*
   * *([LAWA](#nimi-lawa))* - organo por gvidi: kapo — organ for guiding: head
     * *(lon ... pi°)* ≠ **lon noka pi** - supre de — at the top of
