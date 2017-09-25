@@ -787,7 +787,7 @@
 * tenpo suno esun tu *(du semajnoj — two weeks)*
 * tenpo suno ***luka tu en tu tu*** *(dek kvar tagoj — fourteen days)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kepeken nimi pi nanpa lili en nimi pi nanpa suli la jan li ken toki e nanpa lon nasin tan ala tawa wan.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kepeken nimi pi nanpa lili en nimi pi nanpa suli la jan li ken toki e nanpa lon ala, e nanpa lon wan.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Pere de numeralo de malgranda kvanto kaj numeralo de granda kvanto oni povas esprimi kvanton inter nulo kaj unu.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> By means of a numeral of a small quantity and a numeral of a big quantity one can express a quantity between zero and one.
 
@@ -1544,123 +1544,124 @@
 * **la** ***[la]*** *([LILI](#nimi-lili-la))* = **lon** - (kunteksta frazero) — (contextual phrase)
 * **lape** ***[slape]*** *([PONA](#nimi-pona))* - dormanta, ripozanta — sleeping, resting
 * **laso** ~~la~~ ***[glas]*** *([PONA](#nimi-pona))* = **kule kasi**, **kule sewi** - blua, verda — blue, green
-* **lawa** ***[glava]*** *([ILO](#nimi-lawa-ilo))*
+* <img src="musi/sitelen/pona/lawa.png" height="12"> **lawa** ***[glava]*** *([ILO](#nimi-lawa-ilo))*
   * *([LAWA](#nimi-lawa))* - organo por gvidi: kapo — organ for guiding: head
     * *(lon ... pi°)* ≠ **lon noka pi** - supre de — at the top of
   * *([E](#nimi-wawa-luka))* - gvidi — to guide
-* **leko** ***[lego?]*** ⇒ **((mute) nena pi) sike ala**
-* **len** ***[leng]*** *([ILO°](#nimi-lawa-ilo-musi))*
+* <img src="musi/sitelen/pona/-.png" height="12"> **leko** ***[lego?]*** ⇒ **((mute) nena pi) sike ala**
+* <img src="musi/sitelen/pona/len.png" height="12"> **len** ***[leng]*** *([ILO°](#nimi-lawa-ilo-musi))*
   * *([LAWA](#nimi-lawa))* - instrumento por kovri: vesto, kovrilo, privateco — instrument for covering: cloth, cover, privacy
   * *([E°](#nimi-wawa-luka-musi))* - kovri, kaŝi — to cover, to hide
-* **lete** ***[frette]*** *([PONA](#nimi-pona))* - malvarma, kruda — cold, raw
-* **li** ***[li]*** *([LILI](#nimi-lili-li))* - (predikato) — (predikato)
-* **lili** ***[lik-lik]*** *([PONA](#nimi-pona))* ≠ **mute, suli, wawa** - malgranda, malmulta — small, few
-* **linja** ***[linja]*** *([IJO](#nimi-lawa-ijo))*
+* <img src="musi/sitelen/pona/lete.png" height="12"> **lete** ***[frette]*** *([PONA](#nimi-pona))* - malvarma, kruda — cold, raw
+* <img src="musi/sitelen/pona/li.png" height="12"> **li** ***[li]*** *([LILI](#nimi-lili-li))* - (predikato) — (predikato)
+* <img src="musi/sitelen/pona/lili.png" height="12"> **lili** ***[lik-lik]*** *([PONA](#nimi-pona))* ≠ **mute, suli, wawa** - malgranda, malmulta — small, few
+* <img src="musi/sitelen/pona/linja.png" height="12"> **linja** ***[linja]*** *([IJO](#nimi-lawa-ijo))*
   * *([LAWA](#nimi-lawa))* - io longa kaj fleksebla: kordo, haro, ŝnuro, fadeno — something long and flexible: cord, hair, rope, thread
   * *([POKA](#nimi-poka))* - longa kaj fleksebla — long and flexible
-* **lipu** ***[lippu]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/lipu.png" height="12"> **lipu** ***[lippu]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io plata: karto, dokumento, papero, dosiero — something flat: card, document, paper, file
     * *([LAWA](#nimi-lawa))* = **mute lipu**
   * *([POKA](#nimi-poka))* - plata — flat
-* **loje** ***[roje]*** *([PONA](#nimi-pona))* = **kule uta** - ruĝa — red
-* **lon** ~~alon~~ ***[along]*** *([LUKA](#nimi-poka-luka))*
+* <img src="musi/sitelen/pona/loje.png" height="12"> **loje** ***[roje]*** *([PONA](#nimi-pona))* = **kule uta** - ruĝa — red
+* <img src="musi/sitelen/pona/lon.png" height="12"> **lon** ~~alon~~ ***[along]*** *([LUKA](#nimi-poka-luka))*
   * *(LUKA)* - ĉe, laŭ, en, kun — at, along, in, with
   * *([POKA](#nimi-poka))* - ĉeestanta, ekzistanta — being present, existing
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - esti -anta — to be -ing
   * *([POKA+](#nimi-poka-namako))* ⇒ **a** - reala, vera — real, true
-* **luka** ***[ruka]*** *([ILO°](#nimi-lawa-ilo-musi))*
+* <img src="musi/sitelen/pona/luka.png" height="12"> **luka** ***[ruka]*** *([ILO°](#nimi-lawa-ilo-musi))*
   * *([LAWA](#nimi-lawa))* - organo por tuŝi: mano, brako — organ for touching: hand, arm
     * *([NANPA](#nimi-poka-palisa-nanpa))*
 	  * *([POKA](#nimi-poka))* - kvin — five
   * *([E°](#nimi-wawa-luka-musi))* - tuŝi — to touch
-* **lukin** ***[luk-him]*** *([ILO](#nimi-lawa-ilo))*
+* <img src="musi/sitelen/pona/lukin.png" height="12"> **lukin** ***[luk-him]*** *([ILO](#nimi-lawa-ilo))*
   * *([LAWA](#nimi-lawa))* - organo por vidi, organo por ekzameni: okulo — organ for seeing, organ for examining: eye
     * *(kepeken ... tawa°)* - antaŭ, ĉe, kontraŭ — before, against, facing
   * *([E](#nimi-wawa-luka))* - vidi, ekzameni — to see, to examine
     * *([WAWA POKA](#nimi-wawa-poka))* - ekzameni kiel povi sukcesi → provi — to examine how to be able to succeed → to try to
-* **lupa** ***[klupa]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/lupa.png" height="12"> **lupa** ***[klupa]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io kava: truo, pordo — something hollow: hole, door
   * *([POKA](#nimi-poka))* - kava — hollow
-* **ma** ***[maa]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/ma.png" height="12"> **ma** ***[maa]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero, spaco — something vast: earth, soil, land, field, world, territory, outdoors, space
   * *([POKA](#nimi-poka))* - vasta — vast
   * *([MUN°](#nimi-mun-musi))*
     * *(TOKI°)* - saturna, sabata — saturn's, saturday's
-* **majuna** ***[maljuna]*** ⇒ **suli**, **pi tenpo suli**
-* **mama** ***[mama]*** *([JAN°](#nimi-lawa-jan-musi))*
+* <img src="musi/sitelen/pona/-.png" height="12"> **majuna** ***[maljuna]*** ⇒ **suli**, **pi tenpo suli**
+* <img src="musi/sitelen/pona/mama.png" height="12"> **mama** ***[mama]*** *([JAN°](#nimi-lawa-jan-musi))*
   * *([LAWA](#nimi-lawa))* - protektanta animaĵo: gepatro — protecting animated being: parent
   * *([POKA](#nimi-poka))* - protektanta — protecting
-* **mani** ***[mani]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/mani.png" height="12"> **mani** ***[mani]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA+](#nimi-lawa-namako))* - io malsovaĝigita: granda malsovaĝigita besto — something domesticated: large domesticated animal
   * *([POKA°](#nimi-poka-musi))* - malsovaĝigita — domesticated
     * *([IJO°](#nimi-lawa-ijo-musi))*
       * *([LAWA](#nimi-lawa))* - io valora: mono, ŝparaĵo, riĉo — something valueable: money, savings, wealth
       * *([POKA°](#nimi-poka-musi))* - valora — valueable
-* **meli** ***[meri]*** *([JAN](#nimi-lawa-jan))*
+* <img src="musi/sitelen/pona/meli.png" height="12"> **meli** ***[meri]*** *([JAN](#nimi-lawa-jan))*
   * *([LAWA](#nimi-lawa))* - ina animaĵo: virino, edzino — female animated being: woman, wife
   * *([POKA](#nimi-poka))* - ina — female
-* **mi** ***[mi]*** *([ESUN](#nimi-lawa-esun))*
+* <img src="musi/sitelen/pona/mi.png" height="12"> **mi** ***[mi]*** *([ESUN](#nimi-lawa-esun))*
   * *([LAWA](#nimi-lawa))* - mi, ni — I, we
   * *([POKA](#nimi-poka))* - de mi, de ni: mia, nia — of me, of us: my, our
-* **mije** ***[mies]*** *([JAN](#nimi-lawa-jan))*
+* <img src="musi/sitelen/pona/mije.png" height="12"> **mije** ***[mies]*** *([JAN](#nimi-lawa-jan))*
   * *([LAWA](#nimi-lawa))* - vira animaĵo: viro, edzo — male animated being: man, husband
   * *([POKA](#nimi-poka))* - vira — male
-* **moku** ***[mogu]*** *([PALI](#nimi-lawa-pali))* = **pana e ijo tawa uta**
+* <img src="musi/sitelen/pona/moku.png" height="12"> **moku** ***[mogu]*** *([PALI](#nimi-lawa-pali))* = **pana e ijo tawa uta**
   * *([LAWA](#nimi-lawa))* - io por manĝi, io por trinki, io por gluti: manĝo — something to eat, something to drink, something to swallow: food
   * *([E](#nimi-wawa-luka))* - manĝi, trinki, gluti — to eat, to drink, to swallow
-* **moli** ~~muli~~ ***[murir]*** *([PONA](#nimi-pona))* - mortinta, malviva — dead
-* **monsi** ***[mon-ĉi]*** *([IJO](#nimi-lawa-ijo))*
+* <img src="musi/sitelen/pona/moli.png" height="12"> **moli** ~~muli~~ ***[murir]*** *([PONA](#nimi-pona))* - mortinta, malviva — dead
+* <img src="musi/sitelen/pona/monsi.png" height="12"> **monsi** ***[mon-ĉi]*** *([IJO](#nimi-lawa-ijo))*
   * *([LAWA](#nimi-lawa))* - malantaŭo — back
     * *(lon ... pi)* ≠ **lon sinpin pi** - malantaŭ — behind
   * *([POKA](#nimi-poka))* - malantaŭa — rear
-* **monsuta** ***[monsta]*** ⇒ **akesi**
-* **mu** ***[mu]*** *([KALAMA](#nimi-lili-kalama))* - indiferenta interjekcio: bla, miaŭ — indifferent interjection: blah, meeow
+* <img src="musi/sitelen/pona/-.png" height="12"> **monsuta** ***[monsta]*** ⇒ **akesi**
+* <img src="musi/sitelen/pona/mu.png" height="12"> **mu** ***[mu]*** *([KALAMA](#nimi-lili-kalama))* - indiferenta interjekcio: bla, miaŭ — indifferent interjection: blah, meeow
   * *([KALAMA°](#nimi-lili-kalama-musi))* - ĉiuokaze, nu — whatever, well
   * *([PALISA](#nimi-poka-palisa))*
     * *([POKA°](#nimi-poka-musi))* - ajna, arbitra — any, arbitrary
     * *([LAWA°](#nimi-lawa-musi))* - ajnaĵo, zozo — anything, thingy
-* **mun** ***[mun]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/mun.png" height="12"> **mun** ***[mun]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io ĉielpromenanta, io orbitanta: luno, stelo — something sky-walking, something orbiting: moon, star
     * *(sama ... pi°)* - ĉirkaŭ — around
   * *([POKA°](#nimi-poka-musi))* - ĉielpromenanta, orbitanta — sky-walking, orbiting
   * *([MUN°](#nimi-mun-musi))*
     * *(TOKI°)* - luna, lunda — moon's, monday's
-* **musi** ~~amusi~~ ***[amuzi]*** *([PALI°](#nimi-lawa-pali-musi))*
+* <img src="musi/sitelen/pona/musi.png" height="12"> **musi** ~~amusi~~ ***[amuzi]*** *([PALI°](#nimi-lawa-pali-musi))*
   * *([LAWA°](#nimi-lawa-musi))* - io por ludi: ludo — something to play: game
   * *([E°](#nimi-wawa-luka-musi))* - ludi — to play
-* **mute** ***[multe]*** *([PONA](#nimi-pona))* ≠ **lili** - plura, multa, multe da (io ne-nombrebla), tre — multiple, many, much of (something non-countable), very
+* <img src="musi/sitelen/pona/mute.png" height="12"> **mute** ***[multe]*** *([PONA](#nimi-pona))* ≠ **lili** - plura, multa, multe da (io ne-nombrebla), tre — multiple, many, much of (something non-countable), very
   * *([NANPA°](#nimi-poka-palisa-nanpa-musi))* - tri — three
     * *(... LAWA°)* - -aro — set of
-* **namako** ⇒ **sin**
-* **nanpa** ***[namba]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/-.png" height="12"> **namako** ⇒ **sin**
+* <img src="musi/sitelen/pona/nanpa.png" height="12"> **nanpa** ***[namba]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io nombrita, io kalkulita — something counted, something calculated
   * *([POKA°](#nimi-poka-musi))* - nombrita, kalkulita — counted, calculated
-* **nasa** ***[nasaw]*** *([PONA](#nimi-pona))* ≠ **pona** - stranga, freneza, ebria — strange, crazy, intoxicated
-* **nasin** ***[naĉin]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/nasa.png" height="12"> **nasa** ***[nasaw]*** *([PONA](#nimi-pona))* ≠ **pona** - stranga, freneza, ebria — strange, crazy, intoxicated
+* <img src="musi/sitelen/pona/nasin.png" height="12"> **nasin** ***[naĉin]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io interkonektanta: vojo, pado, strato, metodo, kutimo, doktrino — something interconnecting: way, path, street, method, custom, doctrine
   * *([POKA°](#nimi-poka-musi))* - interkonektanta — interconnecting
-* **nena** ***[nenä]*** *([IJO°](#nimi-lawa-ijo-musi))*
-  * *([LAWA](#nimi-lawa))* - io elstara, io eksterordinara: ĝibo, butono, monto, nazo — something outstanding, something extraordinary: bump, button, mountain, nose
+* <img src="musi/sitelen/pona/nena.png" height="12"> **nena** ***[nenä]*** *([IJO°](#nimi-lawa-ijo-musi))*
+  * *([LAWA](#nimi-lawa))* - io elstara, io eksterordinara: ĝibo, butono, monto — something outstanding, something extraordinary: bump, button, mountain
+    * *(... ~~pi sinpin lawa~~+)* - nazo — nose
   * *([POKA°](#nimi-poka-musi))* - elstara, eksterordinara — outstanding, extraordinary
-* **ni** ***[ni]*** *([PALISA](#nimi-poka-palisa))*
+* <img src="musi/sitelen/pona/ni.png" height="12"> **ni** ***[ni]*** *([PALISA](#nimi-poka-palisa))*
   * *([LAWA](#nimi-lawa))* - tio (ĉi) — that thing, this thing
   * *([POKA](#nimi-poka))* - tiu (ĉi) — that, this
-* **nimi** ***[nimi]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/nimi.png" height="12"> **nimi** ***[nimi]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io atribuita: nomo, vorto — something attributed: name, word
   * *([POKA°](#nimi-poka-musi))* - atribuita — attributed
-* **noka** ***[noga]*** *([ILO°](#nimi-lawa-ilo-musi))*
+* <img src="musi/sitelen/pona/noka.png" height="12"> **noka** ***[noga]*** *([ILO°](#nimi-lawa-ilo-musi))*
   * *([LAWA](#nimi-lawa))* - organo por paŝi, organo por treti: piedo, gambo — organ for stepping, organ for kicking: foot, leg
     * *(lon ... pi)* - ĉe la malsupro de — at the bottom of
   * *([E°](#nimi-wawa-luka-palisa))* - paŝi, treti — to step, to kick
-* **o** ***[ho]*** *([LILI](#nimi-lili-o))* - (volativo), (imperativo), (vocativo) — (volative), (imperative), (vocative)
-* **oko** ⇒ **lukin**
-* **olin** ***[volim]*** *([PALI](#nimi-lawa-pali))*
+* <img src="musi/sitelen/pona/o.png" height="12"> **o** ***[ho]*** *([LILI](#nimi-lili-o))* - (volativo), (imperativo), (vocativo) — (volative), (imperative), (vocative)
+* <img src="musi/sitelen/pona/-.png" height="12"> **oko** ⇒ **lukin**
+* <img src="musi/sitelen/pona/olin.png" height="12"> **olin** ***[volim]*** *([PALI](#nimi-lawa-pali))*
   * *([LAWA](#nimi-lawa))* - io por ami — something to love
   * *([E](#nimi-wawa-luka))* - ami — to love
-* **ona** ***[ona]*** *([ESUN](#nimi-lawa-esun))*
+* <img src="musi/sitelen/pona/ona.png" height="12"> **ona** ***[ona]*** *([ESUN](#nimi-lawa-esun))*
   * *([LAWA](#nimi-lawa))* - ŝi, li, ĝi, ili — she, he, it, they
   * *([POKA](#nimi-poka))* - de ŝi, de li, de ĝi, de ili: ŝia, lia, ĝia, ilia — of her, of him, of it, of them: her, his, its, their
-* **open** ***[open]*** *([PONA](#nimi-pona))* - malfermita, inaŭgurita, preta, ŝaltita — open, inaugurated, ready, turned on
+* <img src="musi/sitelen/pona/open.png" height="12"> **open** ***[open]*** *([PONA](#nimi-pona))* - malfermita, inaŭgurita, preta, ŝaltita — open, inaugurated, ready, turned on
   * *(... [PALI°](#nimi-lawa-pali))* - tra-ebla — through-able
 * <img src="musi/sitelen/pona/pakala.png" height="12"> **pakala** ***[bagar-ap]*** *([PONA](#nimi-pona))* ≠ **pona** - damaĝita, lezita — damaged, harmed
 * <img src="musi/sitelen/pona/-.png" height="12"> **pake e** ⇒ **len e lupa pi**, **selo e**
@@ -1828,7 +1829,7 @@
   * *([POKA°](#nimi-poka-musi))* - konstruita/protektanta — built/protecting
 * <img src="musi/sitelen/pona/tu.png" height="12"> **tu** ***[tu]*** *([PONA](#nimi-pona))* - aparta, disa — apart
   * *([NANPA](#nimi-poka-palisa-nanpa))* - du — two
-* **tuli** ⇒ **mute**, **tu en wan**
+* <img src="musi/sitelen/pona/-.png" height="12"> **tuli** ⇒ **mute**, **tu en wan**
 * <img src="musi/sitelen/pona/unpa.png" height="12"> **unpa** ***[?]*** *([PONA](#nimi-pona))* - (ge-)gravediĝanta, seksumanta, esti geedzo — becoming pregnant (or her partner), to have sexual relationships, to be married
 * <img src="musi/sitelen/pona/uta.png" height="12"> **uta** ***[usta]*** *([ILO](#nimi-lawa-ilo))*
   * *([LAWA](#nimi-lawa))* - organo por kisi, suĉi, spiri: buŝo — organ for kissing, sucking, breathing: mouth
