@@ -1461,44 +1461,44 @@
   * *([LUKA°](#nimi-poka-luka))*
     * *(LUKA°)* - anstataŭ — in exchange for, instead of
     * *([POKA°](#nimi-poka-musi))* - anstataŭa — substitute
-* **ijo** ***[io]*** *([LAWA PONA](#nimi-lawa-pona))*
+* <img src="musi/sitelen/pona/ijo.png" height="12"> **ijo** ***[io]*** *([LAWA PONA](#nimi-lawa-pona))*
   * *([LAWA](#nimi-lawa))* - io — something
   * *([POKA](#nimi-poka))* - de io: ies — of something: something's
   * *(e ... pi)* - pri — about
   * *(... [PALI°](#nimi-lawa-pali))* - -ata, -enda — being -ed, to be -ed
-* **ike** ~~ikeja~~ ***[ilkeä]*** *([PONA](#nimi-pona))* ≠ **pona** - malbona, superflua — bad, superfluous
-* **iki** ⇒ **ona**
-* **ilo** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/ike.png" height="12"> **ike** ~~ikeja~~ ***[ilkeä]*** *([PONA](#nimi-pona))* ≠ **pona** - malbona, superflua — bad, superfluous
+* <img src="musi/sitelen/pona/-.png" height="12"> **iki** ⇒ **ona**
+* <img src="musi/sitelen/pona/ilo.png" height="12"> **ilo** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io utila: ilo — something useful: tool
   * *([POKA°](#nimi-poka-musi))* - utila — useful
-* **insa** ***[insajt]*** *([IJO](#nimi-lawa-ijo))*
+* <img src="musi/sitelen/pona/insa.png" height="12"> **insa** ***[insajt]*** *([IJO](#nimi-lawa-ijo))*
   * *([LAWA](#nimi-lawa))* - io interna, io centra: mezo — something internal, something central: middle
     * *(lon nasin ... pi°)* - tra — throgh
     * *(lon ale ... pi°)* - ĉie en — throghout
     * *(tan ale ... pi°)* - de ĉie en, tra — throghout
   * *([POKA](#nimi-poka))* - interna, centra — internal, central
-* **jaki** ***[jakki]*** *([PONA](#nimi-pona))* ≠ **pona** - malpura, fia, senhonora — dirty, disgusting, dishonored
-* **jan** ~~jen~~ ***[jen]*** *([LAWA PONA](#nimi-lawa-pona))*
+* <img src="musi/sitelen/pona/jaki.png" height="12"> **jaki** ***[jakki]*** *([PONA](#nimi-pona))* ≠ **pona** - malpura, fia, senhonora — dirty, disgusting, dishonored
+* <img src="musi/sitelen/pona/jan.png" height="12"> **jan** ~~jen~~ ***[jen]*** *([LAWA PONA](#nimi-lawa-pona))*
   * *([LAWA](#nimi-lawa))* - iu — someone
   * *([POKA](#nimi-poka))* - de iu: ies — of someone: someone's
-* **jelo** ***[jello]*** *([PONA](#nimi-pona))* = **kule suno** - flava — yellow
-* **jo** ***[jow]*** *([PALI](#nimi-lawa-pali))*
+* <img src="musi/sitelen/pona/jelo.png" height="12"> **jelo** ***[jello]*** *([PONA](#nimi-pona))* = **kule suno** - flava — yellow
+* <img src="musi/sitelen/pona/jo.png" height="12"> **jo** ***[jow]*** *([PALI](#nimi-lawa-pali))*
   * *([LAWA](#nimi-lawa))* - io por havi: propraĵo — something to have: property
   * *([E](#nimi-wawa-luka))* - havi — to have
-* **kala** ***[kala]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo telo**
+* <img src="musi/sitelen/pona/kala.png" height="12"> **kala** ***[kala]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo telo**
   * *([LAWA](#nimi-lawa))* - naĝanta vivaĵo: fiŝo, baleno — swimming organism: fish, baleno
   * *([LUKA°](#nimi-poka-luka-musi))*
     * *(LUKA°)* - naĝanta en — swimming in
     * *([POKA°](#nimi-poka-musi))* - naĝanta — swimming
-* **kalama** ***[galama]*** *([PONA](#nimi-pona))* - sona — sounding
-* **kama** ***[kam-ap]*** *([PONA](#nimi-pona))* - alvena, okaza — arriving, happening
+* <img src="musi/sitelen/pona/kalama.png" height="12"> **kalama** ***[galama]*** *([PONA](#nimi-pona))* - sona — sounding
+* <img src="musi/sitelen/pona/kama.png" height="12"> **kama** ***[kam-ap]*** *([PONA](#nimi-pona))* - alvena, okaza — arriving, happening
   * *([WAWA POKA](#nimi-wawa-poka))* - alvenigi ke, okazigi ke → -iĝ-, sukcesi — to make arrive that, to make happen that → to become, to succeed
   * *(lon ... pi°)* - antaŭ — before
   * *(lon poka pi suno ...°)* - oriente — in the east
-* **kan** ⇒ **lon poka pi**, **kepeken poka pi**, **lon poka kulupu pi**
-* **kapa** ⇒ **nena**
-* **kapesi** ⇒ **pimeja**, **pimeja walo**, **loje laso**
-* **kasi** ***[kasvi]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo ma**
+* <img src="musi/sitelen/pona/-.png" height="12"> **kan** ⇒ **lon poka pi**, **kepeken poka pi**, **lon poka kulupu pi**
+* <img src="musi/sitelen/pona/-.png" height="12">* **kapa** ⇒ **nena**
+* <img src="musi/sitelen/pona/-.png" height="12"> **kapesi** ⇒ **pimeja**, **pimeja walo**, **loje laso**
+* <img src="musi/sitelen/pona/kasi.png" height="12"> **kasi** ***[kasvi]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo ma**
   * *([LAWA](#nimi-lawa))* - kreskanta vivaĵo: planto — growing organism: plant
   * *([LUKA°](#nimi-poka-luka-musi))*
     * *(LUKA°)* - kreskanta sur — growing on
