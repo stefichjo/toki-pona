@@ -1494,7 +1494,7 @@
   * *(lon ... pi°)* - antaŭ — before
   * *(lon poka pi suno ...°)* - oriente — in the east
 * <img src="musi/sitelen/pona/-.png" height="12"> **kan** ⇒ **lon poka pi**, **kepeken poka pi**, **lon poka kulupu pi**
-* <img src="musi/sitelen/pona/-.png" height="12">* **kapa** ⇒ **nena**
+* <img src="musi/sitelen/pona/-.png" height="12"> **kapa** ⇒ **nena**
 * <img src="musi/sitelen/pona/-.png" height="12"> **kapesi** ⇒ **pimeja**, **pimeja walo**, **loje laso**
 * <img src="musi/sitelen/pona/kasi.png" height="12"> **kasi** ***[kasvi]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo ma**
   * *([LAWA](#nimi-lawa))* - kreskanta vivaĵo: planto — growing organism: plant
