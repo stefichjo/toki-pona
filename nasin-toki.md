@@ -960,7 +960,7 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Vortoj pri ĉielirantaj objektoj** povas esti nur [modifiloj](#nimi-poka).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Words of skywalking objects** can only be [modifiers](#nimi-poka).
 
-* tan tenpo suno ***Mun*** tawa tenpo suno ***Kiwen*** la jan li ken lukin e loje pi mun ***Seli***. *(De lundo ĝis vendredo, oni povas vidi la ruĝon de marso. — From Monday to Friday one can see the red of Mars.)*
+* tenpo suno ***Mun*** la, tenpo suno ***Kiwen*** la jan li ken lukin e loje pi mun ***Seli***. *(De lundo ĝis vendredo, oni povas vidi la ruĝon de marso. — From Monday to Friday one can see the red of Mars.)*
 
 #### sitelen musi pi poka nimi
 *(Eksperimenta Interpunkcio — Experimental Punctuation)*
