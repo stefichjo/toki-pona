@@ -1222,11 +1222,11 @@ jan li ken, la ona o pali e ona lon — tawa sina la wan seme pi tenpo suno li l
 "lon — ni li toki mi — insa pi tenpo suno. tan ni la ni la jan pona Pu o, sina wile weka e ike mi, la — seme li lon?"
 
 ___
-* kalama musi kepeken uta lili *(fajfas)*
+* kalama kon uta *(fajfas)*
 
 ___
 
-soweli Pu li lukin e sewi li kute e kalama musi kepeken uta lili lon tenpo sin, la ona li lukin e sewi e palisa pi kasi suli li kama lukin e jan pona ona.
+soweli Pu li lukin e sewi li kute e kalama kon uta lon tenpo sin, la ona li lukin e sewi e palisa pi kasi suli li kama lukin e jan pona ona.
 
 "ni li jan Kitopa Jopin" li toki ona.
 

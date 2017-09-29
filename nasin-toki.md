@@ -947,12 +947,6 @@
 
 * jan lawa ***esun*** *(vicprezidanto — vice president)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa sijelo](#nimi-lawa-sijelo) li ken kama [nimi poka luka](#nimi-poka-luka) **musi**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Korpa vorto](#nimi-lawa-sijelo) povas fariĝi **eksperimenta** [prepozicio](#nimi-poka-luka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [body word](#nimi-lawa-sijelo) can become an **experimental** [preposition](#nimi-poka-luka).
-
-* mi ***kala*** telo. *(Mi naĝas en akvo. — I'm swimming in water.)*
-
 ##### nimi lawa mun musi
 *(Eksperimentaj Vortoj pri Ĉielirantaj Objektoj — Experimental Words of Skywalking Objects)*
 
@@ -1135,13 +1129,14 @@
 #### nimi lili "la" nasa
 *(Stranga Kunteksta Frazero — Strange Contextual Fragment)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ala la jan **Pije** li nimi poka palisa nanpa wan e [nimi poka luka](#nimi-poka-luka) lon kama pi **nimi lili** "[la](#nimi-lili-la)".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** neniam uzas [prepozicion](#nimi-poka-luka) kiel la unuan vorton en **kunteksta frazero** (t.e. la vortoj antaŭ la **partikulo** "[la](#nimi-lili-la)").  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** never uses [prepositions](#nimi-poka-luka) as the first word in a **contextual fragment** (i.e. the words before the [particle "la"](#nimi-lili)).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ala la jan **Pije** li nimi poka palisa nanpa wan e [nimi poka luka](#nimi-poka-luka) lon kama pi **nimi lili** "[la](#nimi-lili-la)". tan ni la, [nimi poka luka](#nimi-poka-luka) li ken sama [nimi lawa](#nimi-lawa) tawa lukin, taso ona li jo e kon pi nimi "ijo" lon pini pi [nimi poka luka](#nimi-poka-luka) ni.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** neniam uzas [prepozicion](#nimi-poka-luka) kiel la unuan vorton en **kunteksta frazero** (t.e. la vortoj antaŭ la **partikulo** "[la](#nimi-lili-la)"). Tial, [prepozicio](#nimi-poka-luka) povas ŝajni [substantivo](#nimi-lawa), sed kun la signifo de "ijo" kiel argumento de tiu [prepozicio](#nimi-poka-luka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** never uses [prepositions](#nimi-poka-luka) as the first word in a **contextual fragment** (i.e. the words before the [particle "la"](#nimi-lili)). Therefore, a [preposition](#nimi-poka-luka) may seem like a [noun](#nimi-lawa), but with the meaning of "ijo" as an argument of that [preposition](#nimi-poka-luka)
 
 * sina pu ***tan*** jan pona. *(Vi legas la Libron pro amiko. — You read the Book because of a friend.)*
-  * → sina pu ***lon tan pi*** jan pona.
+  * ***tan*** jan pona la sina pu.
     * → ***tan pi*** jan pona la sina pu.
+      * → sina pu ***lon tan pi*** jan pona.
 
 #### nimi lili "en", "anu" nasa
 *(Strangaj Konjunkcioj — Strange Conjunctions)*
@@ -1215,13 +1210,6 @@
 * mi tawa poka sina. *(Mi iras proksimen al vi. — I'm getting closer to you.)*
 * mi tawa ~~lon~~ ***poka*** sina. *(Mi iras kun vi. — I'm going with you.)*
   * → mi tawa ***poka*** sina.
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "sama ... (pi)" li ken kama [nimi poka luka](#nimi-poka-luka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "sama ... (pi)" povas fariĝi prepozicio.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "sama ... (pi)" can become a preposition.
-
-* waso li tawa lon kon, ~~sama~~ ***mun*** ~~pi~~ mi mute. *(Birdo flugas kvazaŭ luno de ni. — A bird is flying like a moon of ours.)*
-  * → waso li tawa lon kon, ***mun*** mi mute. *(Birdo flugas ĉirkaŭ ni. — A bird is flying around us.)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) "kepeken" li kama [nimi wawa](#nimi-wawa), la jan **Pije** li kepeken ona lon poka pi [nimi lili "e"](#nimi-lili-e).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam la [prepozicio](#nimi-poka-luka) "kepeken" fariĝas [verbo](#nimi-wawa), **Pije** uzas ĝin kun la [partikulo "e"](#nimi-lili-e).  
@@ -1440,6 +1428,7 @@
   * *(lon ... pi)* ≠ **lon sewi pi** - sub — under
 * <img src="musi/sitelen/pona/ante.png" height="12"> **ante** ***[ander]*** *([LUKA°](#nimi-poka-luka-musi))*
   * *(LUKA°)* - ol — than
+    * *([LAWA!](#nimi-lili-la-nasa))* - io alia — something different
   * *([POKA](#nimi-poka))* - alia — different
   * *(lon poka ... pi°)* - ĉe la alia flanko de, trans — at the other side of, beyond
 * <img src="musi/sitelen/pona/anu.png" height="12"> **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili-en-anu))* - aŭ — or
@@ -1458,6 +1447,7 @@
     * *([E°](#nimi-wawa-luka-musi) ~~kepeken toki~~)* - interŝanĝi per parolo: promesi — exchange with talking: promise
   * *([LUKA°](#nimi-poka-luka))*
     * *(LUKA°)* - anstataŭ — in exchange for, instead of
+      * *([LAWA!](#nimi-lili-la-nasa))* - anstataŭaĵo — substitute
     * *([POKA°](#nimi-poka-musi))* - anstataŭa — substitute
 * <img src="musi/sitelen/pona/ijo.png" height="12"> **ijo** ***[io]*** *([LAWA PONA](#nimi-lawa-pona))*
   * *([LAWA](#nimi-lawa))* - io — something
@@ -1485,9 +1475,7 @@
   * *([E](#nimi-wawa-luka))* - havi — to have
 * <img src="musi/sitelen/pona/kala.png" height="12"> **kala** ***[kala]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo telo**
   * *([LAWA](#nimi-lawa))* - naĝanta vivaĵo: fiŝo, baleno — swimming organism: fish, baleno
-  * *([LUKA°](#nimi-poka-luka-musi))*
-    * *(LUKA°)* - naĝanta en — swimming in
-    * *([POKA°](#nimi-poka-musi))* - naĝanta — swimming
+  * *([POKA°](#nimi-poka-musi))* - naĝanta — swimming
 * <img src="musi/sitelen/pona/kalama.png" height="12"> **kalama** ***[galama]*** *([PONA](#nimi-pona))* - sona — sounding
 * <img src="musi/sitelen/pona/kama.png" height="12"> **kama** ***[kam-ap]*** *([PONA](#nimi-pona))* - alvena, okaza — arriving, happening
   * *([WAWA POKA](#nimi-wawa-poka))* - alvenigi ke, okazigi ke → -iĝ-, sukcesi — to make arrive that, to make happen that → to become, to succeed
@@ -1498,15 +1486,14 @@
 * <img src="musi/sitelen/pona/-.png" height="12"> **kapesi** ⇒ **pimeja**, **pimeja walo**, **loje laso**
 * <img src="musi/sitelen/pona/kasi.png" height="12"> **kasi** ***[kasvi]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo ma**
   * *([LAWA](#nimi-lawa))* - kreskanta vivaĵo: planto — growing organism: plant
-  * *([LUKA°](#nimi-poka-luka-musi))*
-    * *(LUKA°)* - kreskanta sur — growing on
-    * *([POKA°](#nimi-poka-musi))* - kreskanta — growing
+  * *([POKA°](#nimi-poka-musi))* - kreskanta — growing
   * *([MUN°](#nimi-lawa-mun-musi))*
     * *(TOKI°)* - jupitera, ĵaŭda — jupiter's, thursday's
 * <img src="musi/sitelen/pona/ken.png" height="12"> **ken** ***[ken]*** *([PONA](#nimi-pona))* - ebla — possible
   * *([WAWA POKA](#nimi-wawa-poka))* - ebligi ke → povi, kapabli, rajti — to make possible that → can, to be able to, to be allowed to
 * <img src="musi/sitelen/pona/kepeken.png" height="12"> **kepeken** ***[xebrewken]*** *([LUKA](#nimi-poka-luka))* = **awen lon**
   * *(LUKA)* - per — by means of
+    * *([LAWA!](#nimi-lili-la-nasa))* - rimedo — means
   * *([POKA](#nimi-poka))* - uzanta — using
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - kutimi — to be used to
 * <img src="musi/sitelen/pona/-.png" height="12"> **kijetesantakalu** ***[kierteishäntäkarhu]*** ⇒ **soweli**
@@ -1563,6 +1550,7 @@
 * <img src="musi/sitelen/pona/loje.png" height="12"> **loje** ***[roje]*** *([PONA](#nimi-pona))* = **kule uta** - ruĝa — red
 * <img src="musi/sitelen/pona/lon.png" height="12"> **lon** ~~alon~~ ***[along]*** *([LUKA](#nimi-poka-luka))*
   * *(LUKA)* - ĉe, laŭ, en, kun — at, along, in, with
+    * *([LAWA!](#nimi-lili-la-nasa))* - ĉirkaŭaĵo — environment
   * *([POKA](#nimi-poka))* - ĉeestanta, ekzistanta — being present, existing
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - esti -anta — to be -ing
   * *([POKA+](#nimi-poka-namako))* ⇒ **a** - reala, vera — real, true
@@ -1696,9 +1684,7 @@
   * *(lon ... pi°)* - malantaŭ — after
 * <img src="musi/sitelen/pona/pipi.png" height="12"> **pipi** ~~pipite~~ ***[bibitte]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo noka**
   * *([LAWA](#nimi-lawa))* - rampanta vivaĵo: insekto — crawling organism: insect
-  * *([LUKA°](#nimi-poka-luka-musi))*
-    * *(LUKA°)* - rampi sur — crawling on
-    * *([POKA°](#nimi-poka-musi))* - rampanta — crawling
+  * *([POKA°](#nimi-poka-musi))* - rampanta — crawling
 * <img src="musi/sitelen/pona/-.png" height="12"> **po** ⇒ **tu tu**
 * <img src="musi/sitelen/pona/poka.png" height="12"> **poka** ***[boka]*** *([IJO](#nimi-lawa-ijo))*
   * *([LAWA](#nimi-lawa))* - io apuda: flanko — something lateral: side
@@ -1719,9 +1705,11 @@
 * <img src="musi/sitelen/pona/-.png" height="12"> **powe** ⇒ **toki ike**, **toki akesi**
 * <img src="musi/sitelen/pona/pu.png" height="12"> **pu** ***[buk]*** *([LUKA°](#nimi-poka-luka-musi))*
   * *(LUKA°)* - en harmonio kun, laŭ — in harmony with, according to
-  * *([POKA](#nimi-poka))* - harmonia, aganta laŭa, konsultanta la Oficialan Libron de Tokipono — harmonious, according, interacting with the Official Toki Pona Book
+    * *([LAWA!](#nimi-lili-la-nasa))* - interagaĵo, la Oficiala Libro de Tokipono — object of interaction, the Official Toki Pona Book
+  * *([POKA](#nimi-poka))* - harmonia, aganta laŭa, interaganta kun la Oficialan Libron de Tokipono — harmonious, according, interacting with the Official Toki Pona Book
 * <img src="musi/sitelen/pona/sama.png" height="12"> **sama** ***[sama]*** *([LUKA](#nimi-poka-luka))*
   * *(LUKA)* - kiel — like
+    * *([LAWA!](#nimi-lili-la-nasa))* - la sama — the same
   * *([POKA](#nimi-poka))* - egala, sama, mem — alike, same, self
     * *(~~pi kulupu mama~~ ...)* parenca — related
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - simuli, ŝajnigi — to simulate, to pretend
@@ -1798,6 +1786,7 @@
   * *([POKA](#nimi-poka))* - dolĉa — sweet
 * <img src="musi/sitelen/pona/tan.png" height="12"> **tan** ***[?]*** *([LUKA](#nimi-poka-luka))* = **pini lon**
   * *(LUKA)* - de, pro — by, from, because of
+    * *([LAWA!](#nimi-lili-la-nasa))* - origino — origin
   * *([POKA](#nimi-poka))* - devenanta — originating
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - esti -inta — to have -ed
 * <img src="musi/sitelen/pona/taso.png" height="12"> **taso** ***[dats-ol]*** *([LUKA°](#nimi-poka-luka-musi))*
@@ -1806,6 +1795,7 @@
  an exception from, without, despite
 * <img src="musi/sitelen/pona/tawa.png" height="12"> **tawa** ~~towa~~ ***[towards]*** = **kama lon** *([LUKA](#nimi-poka-luka))*
   * *(LUKA)* - al, por — to, toward, for
+    * *([LAWA!](#nimi-lili-la-nasa))* - celo — target
   * *([POKA](#nimi-poka))* - moviĝanta, celanta — moving, heading
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - esti -onta — to be about to
   * *(lon poka pi suno ...°)* - ekvatore, sude/norde — at the equator, in the south/north
@@ -1845,9 +1835,7 @@
     * *([LAWA°](#nimi-lawa-musi))* - unio — union
 * <img src="musi/sitelen/pona/waso.png" height="12"> **waso** ***[wazo]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo kon**
   * *([LAWA](#nimi-lawa))* - fluganta vivaĵo: birdo — flying organism: bird
-  * *([LUKA°](#nimi-poka-luka-musi))*
-    * *(LUKA°)* - fluganta en — flying in
-    * *([POKA°](#nimi-poka-musi))* - fluganta — flying
+  * *([POKA°](#nimi-poka-musi))* - fluganta — flying
 * <img src="musi/sitelen/pona/wawa.png" height="12"> **wawa** ***[vahva]*** *([PONA](#nimi-pona))* ≠ **lili** - forta — strong
 * <img src="musi/sitelen/pona/weka.png" height="12"> **weka** ~~we~~ ***[wex]*** *([LUKA°](#nimi-poka-luka-musi))*
   * *(LUKA°)* - fore de, ekster — away from, outside
