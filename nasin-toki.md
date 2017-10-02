@@ -585,12 +585,13 @@
 ##### mute nimi poka
 *(Subfrazoj — Subordinate Clauses)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **mute nimi poka** lon pini taso pi **mute nimi**. ni la **sitelen nanpa** li kama **sitelen palisa**. **mute nimi pi wile sona** li ken **mute nimi poka**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** uzas **subfrazojn** nur fine de **frazo**. Tiam, **komo** fariĝas **dupunkto**. **Demanda frazo** povas esti **subfrazo**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** uses **subordinate clauses** only at the end of a **sentence**. In this case, the **comma** becomes a **colon**. A question can be a subordinate clause.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **mute nimi poka** lon pini taso pi **mute nimi**. ni la **sitelen nanpa** li kama **sitelen palisa**. **mute nimi pi wile sona** li ken **mute nimi poka**. sitelen toki ona li ken kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** uzas **subfrazojn** nur fine de **frazo**. Tiam, **komo** fariĝas **dupunkto**. **Demanda frazo** povas esti **subfrazo**. Ĝiaj citiloj povas malaperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** uses **subordinate clauses** only at the end of a **sentence**. In this case, the **comma** becomes a **colon**. A question can be a subordinate clause. Its quotation marks can disappear.  
 
 * mi sona e ni: ***mi anpa***. *(Mi scias, ke mi estas malalta. — I know that I am low.)*
-* wile sona nanpa wan li ni: ***ale li pona anu ike***? *(La demando numero unu estas, ĉu la universo estas bona aŭ malica. — The question number one is whether the universe is good or evil.)*
+* wile sona nanpa wan li ni: "***ale li pona anu ike***?" *(La demando numero unu estas, ĉu la universo estas bona aŭ malica. — The question number one is whether the universe is good or evil.)*
+  * → wile sona nanpa wan li ni: ***ale li pona anu ike***?
 
 ### sitelen pona
 *(Hieroglifoj — Hieroglyphs)*
