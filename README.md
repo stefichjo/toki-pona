@@ -14,7 +14,7 @@
 * [lipu jaki pi nimi ilo pi toki Losupan](musi/lipu-jaki-pi-nimi-ilo-pi-toki-losupan.md)
   * *(La Fia Loĵbana Konversacia Libro — The Dirty Hungarian Phrasebook)*
 * [sitelen musi](musi/sitelen)
-  * *(Mimoj — Memes)*
+  * *(Memeoj — Memes)*
 
 ### musi (o pana e pona)
 

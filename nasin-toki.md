@@ -1571,8 +1571,8 @@
   * *([E](#nimi-wawa-luka))* - vidi, ekzameni — to see, to examine
     * *([WAWA POKA](#nimi-wawa-poka))* - ekzameni kiel povi sukcesi → provi — to examine how to be able to succeed → to try to
 * <img src="musi/sitelen/pona/lupa.png" height="12"> **lupa** ***[klupa]*** *([IJO°](#nimi-lawa-ijo-musi))*
-  * *([LAWA](#nimi-lawa))* - io kava: truo, pordo — something hollow: hole, door
-  * *([POKA](#nimi-poka))* - kava — hollow
+  * *([LAWA](#nimi-lawa))* - io kava, io malplena: truo, pordo — something hollow, something empty: hole, door
+  * *([POKA](#nimi-poka))* - kava, malplena — hollow, empty
 * <img src="musi/sitelen/pona/ma.png" height="12"> **ma** ***[maa]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io vasta: tero, grundo, lando, kampo, mondo, teritorio, ekstero, spaco — something vast: earth, soil, land, field, world, territory, outdoors, space
   * *([POKA](#nimi-poka))* - vasta — vast
