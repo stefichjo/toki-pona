@@ -42,7 +42,7 @@
 * ***eju zen!*** *(Saluton! — Hello!)*
 * ***tokon!*** *(Saluton! — Hello!)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-lili) li kepeken [toki musi](#toki-musi). ona li [ale *ala* pi nimi mute, tan lipu suli pi toki pona](http://tokipona.net/tp/janpije/dictionary.php). ona li pana e [sona pi tan nimi](http://ucteam.ru/toki-pona/) e sona pi [nimi moli](http://tokipona.net/tp/janpije/extinctwords.php).  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> wan lipu "[ale pi nimi mute](#ale-pi-nimi-mute)" li kepeken [toki lili](#toki-lili) li kepeken [toki musi](#toki-musi). ona li [ale *ala* pi nimi mute, tan lipu suli pi toki pona](http://tokipona.net/tp/janpije/dictionary.php). ona li pana e [sona ni: nimi li tan seme](http://ucteam.ru/toki-pona/) :e sona pi [nimi moli](http://tokipona.net/tp/janpije/extinctwords.php).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La sekcio "[Vortaro](#ale-pi-nimi-mute)" uzas la [Kernan Lingvaĵon](#toki-lili) kaj la [Eksperimentan Lingvaĵon](#toki-musi). Ĝi *ne* estas la [Oficiala Vortaro](http://tokipona.net/tp/janpije/dictionary.php). Ĝi montras la [etimologion de la vortoj](http://ucteam.ru/toki-pona/) kaj [mortintajn vortojn](http://tokipona.net/tp/janpije/extinctwords.php).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The section "[Dictionary](#ale-pi-nimi-mute)" uses the [Core Language](#toki-lili) and the [Experimental Language](#toki-musi). It is *not* the [Official Dictionary](http://tokipona.net/tp/janpije/dictionary.php). It indicates the [etymology of words](http://ucteam.ru/toki-pona/) and  [extinct words](http://tokipona.net/tp/janpije/extinctwords.php).
 
@@ -766,6 +766,11 @@
   * ***weka*** lukin *(malvidebla — invisible)*
 * ***open*** lukin *(travidebla, transparenta — transparent)*
   * ***selo*** lukin *(maltravidebla, maltransparenta — opaque)*
+
+##### nimi poka palisa musi
+*(Eksperimentaj Korelativoj — Experimental Correlatives)*
+
+* mi sona e ni: sina toki pona tan seme. *(Mi scias, kial vi tokiponumas. — I know why you speak Toki Pona.)*
 
 ##### nimi poka palisa nanpa musi
 *(Eksperimentaj Numeraloj — Experimental Numerals)*
@@ -1774,6 +1779,7 @@
   * *([LAWA](#nimi-lawa))* - io por scii: fakto — something to know: fact
   * *([E](#nimi-wawa-luka))* - scii — to know
     * *([WAWA POKA](#nimi-wawa-poka))* - scii kiel povi sukcesi → scipovi — to know how to be able to succeed → to know how to
+  * *(... e kon pi toki pi!)* - kompreni — to understand
 * <img src="musi/sitelen/pona/soweli.png" height="12"> **soweli** ***[cxoveli]*** *([JAN°](#nimi-lawa-jan-musi))* = **sijelo seli**
   * *([LAWA](#nimi-lawa))* - varmsanga animaĵo: mamulo — warm-blooded animated being: mammal
   * *([POKA°](#nimi-poka-musi))* - varmsanga — warm-blooded
