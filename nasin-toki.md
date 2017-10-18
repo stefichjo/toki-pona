@@ -1527,6 +1527,7 @@
   * *([POKA](#nimi-poka))* - duon-malmola — semi-solid
 * <img src="musi/sitelen/pona/kon.png" height="12"> **kon** ***[kong]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io ŝvebanta: aero, spirito, esenco, kaŝita realo — something hovering: air, spirit, essence, hidden reality
+    * *(pi ~~kon~~ suli)* - grava — important
   * *([POKA°](#nimi-poka-musi))* - ŝvebanta — hovering
 * <img src="musi/sitelen/pona/kule.png" height="12"> **kule** ***[kuler]*** *([PONA](#nimi-pona))* - kolora — colorful
 * <img src="musi/sitelen/pona/kulupu.png" height="12"> **kulupu** ***[grup]*** *([IJO°](#nimi-lawa-ijo-musi))*
