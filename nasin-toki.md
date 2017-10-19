@@ -1533,7 +1533,7 @@
 * <img src="musi/sitelen/pona/kulupu.png" height="12"> **kulupu** ***[grup]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - reciproka aĵo: interrilato, komunumo, kompanio, grupo, nacio, socio, tribo — something reciprocal: relation, community, company, group, nation, society, tribe
     * *(lon ...)* - kune — together
-  * *([POKA°](#nimi-poka-musi))* - reciproka — reciprocal
+  * *([POKA°](#nimi-poka-musi))* - reciproka, de unu al la alia — reciprocal, of one another
   * *([LAWA!](#nimi-lawa-nasa))* = mute - aro — set
 * <img src="musi/sitelen/pona/kute.png" height="12"> **kute** ~~ekute~~ ***[ekute]*** *([ILO](#nimi-lawa-ilo))*
   * *([LAWA](#nimi-lawa))* - organo por aŭdi: orelo — organ for hearing: ear

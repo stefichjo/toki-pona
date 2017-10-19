@@ -5503,7 +5503,7 @@ seme li kama?
 961
 01:46:15,068 --> 01:46:19,161
 mama mije li pana e toki
-ona li pilin ike tan jaki mi.
+ona li pilin ike tan pali mi.
 ==dad sent message,
 he is ashamed of me.
 
@@ -5545,29 +5545,35 @@ nonstop.
 
 968
 01:46:52,972 --> 01:46:57,130
-kalama luka li pini, taso kalama kon uta li pini ala.
+kalama luka li pini, taso kalama kon uta li awen.
 ==clapping stopped, but whistling didn't.
 
 969
 01:46:58,305 --> 01:47:01,401
-he was so proud of me.
+ona li pilin pona a tan pali mi.
+==he was so proud of me.
 
 970
 01:47:03,782 --> 01:47:07,893
-and today he wrote he is ashamed of me.
+taso tenpo suno ni la ona li sitelen e ni: ona li pilin ike tan pali mi.
+==and today he wrote he is ashamed of me.
 
 971
 01:47:08,687 --> 01:47:14,542
-he has some kind of illusion.
+ona li lukin pakala.
+==he has some kind of illusion.
 
 972
 01:47:14,576 --> 01:47:21,048
-the day he'll have clean mindset, he'll whistle
+ona li jo e lawa pona lon tenpo suno kama wan ni:
+ona li kalama kon uta lon tenpo sin.
+==the day he'll have clean mindset, he'll whistle
 non stop yet again.
 
 973
 01:47:21,195 --> 01:47:22,608
-that day will never come.
+tenpo suno wan ni li kama ala.
+==that day will never come.
 
 974
 01:47:22,989 --> 01:47:29,893
@@ -5594,7 +5600,7 @@ close your eyes.
 
 979
 01:47:54,678 --> 01:47:56,075
-point. let it open then.
+@point. let it open then.
 
 980
 01:49:30,533 --> 01:49:43,577
