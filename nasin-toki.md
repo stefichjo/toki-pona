@@ -1415,35 +1415,28 @@
 ### kama ante pi nimi lawa
 *(Deklinacio — Declension)*
 
-||toki|
-|-|-|
-||tok|
-|e|toke|
-|pi|toki|
+||toki|sin|sina|tomo|tawa|ijo|
+|-|-|-|-|-|-|-|
+||tok|siŋ|sin|tom|taw|ij|
+|e|toke|siŋe|sine|tome|tawe|ije|
+|pi|toki|siŋi|sini|tomi|tawi|iwi|
+
+* lipu mute → lipute *(libroj — books)*
+* jan mute → jante *(personoj — people)*
 
 ### kama ante pi nimi wawa
 *(Konjugacio — Conjugation)*
 
-* **toki**
-  * **toki mi**
-    * → **tokim** *(mi parolas — I talk)*
-    * → **tokims** *(ni parolas — we talk)*
-  * **toki sina**
-    * → **tokis** *(vi parolas — you speak)*
-    * → **tokiste** *(vi parolas — you speak)*
-  * **toki ona**
-    * → **tokin** *(ŝi parolas — she speaks)*
-    * → **tokinte** *(ili parolas — they speak)*
-* **olinu**
-  * **olinu mi**
-    * → **olinum** *(mi amas — I love)*
-	* → **olinums** *(ni amas — we love)*
-  * **olinu sina**
-    * → **olinus** *(vi amas — you love)*
-    * → **olinuste** *(vi amas — you love)*
-  * **olinu ona**
-    * → **olinun** *(ŝi amas — she loves)*
-	* → **olinunte** *(ili amas — they love)*
+||toki|oliŋ|
+|-|-|-|
+|mi wan|tokim|olim|
+|mi mute|tokims|olims|
+|sina wan|tokis|olis|
+|sina mute|tokiste|oliste|
+|ona wan|tokin|olin|
+|ona mute|tokinte|olinte|
+
+* Jom tome taw poni mut. *(Mi havas tre bonan aŭton. — I have a very good car.)*
 
 ---
 
