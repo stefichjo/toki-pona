@@ -1406,20 +1406,20 @@
 ## tok siŋ
 *(Toksingo — Tok Sing)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kalama "n" li kama "ŋ" lon pini nimi.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La sono "n" fariĝas "ŋ" ĉe la fino de vorto.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The sound "n" becomes "ŋ" at the end of a word.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kalama "n" li kama "ŋ" lon pini nimi. kalama "ji" en kalama "ti" li lon.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La sono "n" fariĝas "ŋ" ĉe la fino de vorto. La sonoj "ji" kaj "ti" ekzistas.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The sound "n" becomes "ŋ" at the end of a word. There are the sounds "ji" and "ti".
 
 * pilin → **piliŋ** *(koro — heart)*
 
 ### kama ante pi nimi lawa
 *(Deklinacio — Declension)*
 
-||toki|sin|sina|kon|ko|tomo|tawa|ijo|
-|-|-|-|-|-|-|-|-|-|
-||tok|siŋ|sin|koŋ|k|tom|taw|ij|
-|e|toke|siŋe|sine|koŋe|ke|tome|tawe|ije|
-|pi|toki|siŋi|sini|koŋi|ki|tomi|tawi|iwi|
+||toki|sin|sina|kon|ko|tomo|tawa|ijo|lete|
+|-|-|-|-|-|-|-|-|-|-|
+||tok|siŋ|sin|koŋ|k|tom|taw|ij|let|
+|e|toke|siŋe|sine|koŋe|ke|tome|tawe|ije|lete|
+|pi|toki|siŋi|sini|koŋi|ki|tomi|tawi|iji|leti|
 
 * lipu mute → liput → lipus *(libroj — books)*
 * jan mute → jant → jans *(personoj — people)*
@@ -1427,20 +1427,20 @@
 ||lipu mute|jan mute|
 |-|-|-|
 ||lipus|jans|
-|e|lipuse|janse|
-|pi|lipusi|jansi|
+|**e**|lipuse|janse|
+|**pi**|lipusi|jansi|
 
 ### kama ante pi nimi wawa
 *(Konjugacio — Conjugation)*
 
 ||toki|oliŋ|
 |-|-|-|
-|mi wan|tokim|olim|
-|mi mute|tokims|olims|
-|sina wan|tokis|olis|
-|sina mute|tokiste|oliste|
-|ona wan|tokin|olin|
-|ona mute|tokinte|olinte|
+|**mi wan**|tokim|olim|
+|**mi mute**|tokims|olims|
+|**sina wan**|tokis|olis|
+|**sina mute**|tokiste|oliste|
+|**ona wan**|tokin|olin|
+|**ona mute**|tokinte|olinte|
 
 * ***Jom*** tome taw poni mut. *(Mi havas tre bonan aŭton. — I have a very good car.)*
 
