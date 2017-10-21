@@ -1415,11 +1415,11 @@
 ### kama ante pi nimi lawa
 *(Deklinacio — Declension)*
 
-||toki|sin|sina|tomo|tawa|ijo|
-|-|-|-|-|-|-|-|
-||tok|siŋ|sin|tom|taw|ij|
-|e|toke|siŋe|sine|tome|tawe|ije|
-|pi|toki|siŋi|sini|tomi|tawi|iwi|
+||toki|sin|sina|kon|ko|tomo|tawa|ijo|
+|-|-|-|-|-|-|-|-|-|
+||tok|siŋ|sin|koŋ|k|tom|taw|ij|
+|e|toke|siŋe|sine|koŋe|ke|tome|tawe|ije|
+|pi|toki|siŋi|sini|koŋi|ki|tomi|tawi|iwi|
 
 * lipu mute → lipute *(libroj — books)*
 * jan mute → jante *(personoj — people)*
