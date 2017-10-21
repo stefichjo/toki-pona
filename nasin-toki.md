@@ -1406,11 +1406,20 @@
 ## toki sinu
 *(Tokisino — Toki Sinu)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kalama "n" li kama "nu" lon pini nimi.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La sono "n" fariĝas "nu" ĉe la fino de vorto.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The sound "n" becomes "nu" at the end of a word.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kalama "n" li kama "ŋ" lon pini nimi.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La sono "n" fariĝas "ŋ" ĉe la fino de vorto.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The sound "n" becomes "ŋ" at the end of a word.
 
-* pilin → **pilinu** *(koro — heart)*
+* pilin → **piliŋ** *(koro — heart)*
+
+### kama ante pi nimi lawa
+*(Deklinacio — Declension)*
+
+||toki|
+|-|-|
+||tok|
+|e|toke|
+|pi|toki|
 
 ### kama ante pi nimi wawa
 *(Konjugacio — Conjugation)*
@@ -1424,7 +1433,7 @@
     * → **tokiste** *(vi parolas — you speak)*
   * **toki ona**
     * → **tokin** *(ŝi parolas — she speaks)*
-    * → **tokint** *(ili parolas — they speak)*
+    * → **tokinte** *(ili parolas — they speak)*
 * **olinu**
   * **olinu mi**
     * → **olinum** *(mi amas — I love)*
@@ -1434,7 +1443,7 @@
     * → **olinuste** *(vi amas — you love)*
   * **olinu ona**
     * → **olinun** *(ŝi amas — she loves)*
-	* → **olinunt** *(ili amas — they love)*
+	* → **olinunte** *(ili amas — they love)*
 
 ---
 
