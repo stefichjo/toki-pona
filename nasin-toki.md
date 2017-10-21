@@ -1287,6 +1287,7 @@
 |:-:|
 | [eju zen bona](#eju-zen-bona) |
 | [pona toko](#pona-toko) |
+| [toki sinu](#toki-sinu) |
 
 ## eju zen bona
 *(Ejuzenbona — Eyu Zen Bona)*
@@ -1401,6 +1402,39 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Interjections](#nimi-lili-kalama) are in **Pona Toko** as a whole.
 
 * sowelo ***muas***. *(soweli li mu.)*
+
+## toki sinu
+*(Tokisino — Toki Sinu)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kalama "n" li kama "nu" lon pini nimi.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La sono "n" fariĝas "nu" ĉe la fino de vorto.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The sound "n" becomes "nu" at the end of a word.
+
+* pilin → **pilinu** *(koro — heart)*
+
+### kama ante pi nimi wawa
+*(Konjugacio — Conjugation)*
+
+* **toki**
+  * **toki mi**
+    * → **tokim** *(mi parolas — I talk)*
+    * → **tokims** *(ni parolas — we talk)*
+  * **toki sina**
+    * → **tokis** *(vi parolas — you speak)*
+    * → **tokiste** *(vi parolas — you speak)*
+  * **toki ona**
+    * → **tokin** *(ŝi parolas — she speaks)*
+    * → **tokint** *(ili parolas — they speak)*
+* **olinu**
+  * **olinu mi**
+    * → **olinum** *(mi amas — I love)*
+	* → **olinums** *(ni amas — we love)*
+  * **olinu sina**
+    * → **olinus** *(vi amas — you love)*
+    * → **olinuste** *(vi amas — you love)*
+  * **olinu ona**
+    * → **olinun** *(ŝi amas — she loves)*
+	* → **olinunt** *(ili amas — they love)*
 
 ---
 
