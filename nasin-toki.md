@@ -1287,7 +1287,7 @@
 |:-:|
 | [eju zen bona](#eju-zen-bona) |
 | [pona toko](#pona-toko) |
-| [toki sinu](#toki-sinu) |
+| [tok siŋ](#tok-siŋ) |
 
 ## eju zen bona
 *(Ejuzenbona — Eyu Zen Bona)*
@@ -1403,8 +1403,8 @@
 
 * sowelo ***muas***. *(soweli li mu.)*
 
-## toki sinu
-*(Tokisino — Toki Sinu)*
+## tok siŋ
+*(Toksingo — Toki Sing)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kalama "n" li kama "ŋ" lon pini nimi.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La sono "n" fariĝas "ŋ" ĉe la fino de vorto.  
