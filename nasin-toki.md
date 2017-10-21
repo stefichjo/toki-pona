@@ -1421,8 +1421,14 @@
 |e|toke|siŋe|sine|koŋe|ke|tome|tawe|ije|
 |pi|toki|siŋi|sini|koŋi|ki|tomi|tawi|iwi|
 
-* lipu mute → lipute *(libroj — books)*
-* jan mute → jante *(personoj — people)*
+* lipu mute → liput → lipus *(libroj — books)*
+* jan mute → jant → jans *(personoj — people)*
+
+||lipu mute|jan mute|
+|-|-|-|
+||lipus|jans|
+|e|lipuse|janse|
+|pi|lipusi|jansi|
 
 ### kama ante pi nimi wawa
 *(Konjugacio — Conjugation)*
