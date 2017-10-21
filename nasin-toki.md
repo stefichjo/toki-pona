@@ -1436,7 +1436,7 @@
 |ona wan|tokin|olin|
 |ona mute|tokinte|olinte|
 
-* Jom tome taw poni mut. *(Mi havas tre bonan aŭton. — I have a very good car.)*
+* ***Jom*** tome taw poni mut. *(Mi havas tre bonan aŭton. — I have a very good car.)*
 
 ---
 
