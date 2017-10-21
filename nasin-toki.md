@@ -1404,7 +1404,7 @@
 * sowelo ***muas***. *(soweli li mu.)*
 
 ## tok siŋ
-*(Toksingo — Toki Sing)*
+*(Toksingo — Tok Sing)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kalama "n" li kama "ŋ" lon pini nimi.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La sono "n" fariĝas "ŋ" ĉe la fino de vorto.  
