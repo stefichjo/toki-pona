@@ -1462,7 +1462,6 @@
   * *([POKA](#nimi-poka))* - malvera — false
   * *([PALISA](#nimi-poka-palisa))*
     * *([POKA](#nimi-poka))* - neniu — no
-      * *(lon poka pi suno ...°)* - nordpoluse/sudpoluse, norde/sude — at the northpole/southpole, in the north/south
       * *([NANPA](#nimi-poka-palisa-nanpa))*
 	    * *([POKA](#nimi-poka))* - nul — zero
     * *([LAWA](#nimi-lawa))* - nenio — nothing
@@ -1533,7 +1532,6 @@
 * <img src="musi/sitelen/pona/kama.png" height="12"> **kama** ***[kam-ap]*** *([PONA](#nimi-pona))* - alvena, okaza — arriving, happening
   * *([WAWA POKA](#nimi-wawa-poka))* - alvenigi ke, okazigi ke → -iĝ-, sukcesi — to make arrive that, to make happen that → to become, to succeed
   * *(lon ... pi°)* - antaŭ — before
-  * *(lon poka pi suno ...°)* - oriente — in the east
 * <img src="musi/sitelen/pona/-.png" height="12"> **kan** ⇒ **lon poka pi**, **kepeken poka pi**, **lon poka kulupu pi**
 * <img src="musi/sitelen/pona/-.png" height="12"> **kapa** ⇒ **nena**
 * <img src="musi/sitelen/pona/-.png" height="12"> **kapesi** ⇒ **pimeja**, **pimeja walo**, **loje laso**
@@ -1853,7 +1851,6 @@
     * *([LAWA!](#nimi-poka-luka-nasa))* - celo — target
   * *([POKA](#nimi-poka))* - moviĝanta, celanta — moving, heading
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - esti -onta — to be about to
-  * *(lon poka pi suno ...°)* - ekvatore, sude/norde — at the equator, in the south/north
 * <img src="musi/sitelen/pona/telo.png" height="12"> **telo** ***[de-l-o]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io likva, io malseka: akvo, trinkaĵo — something liquid, something wet: water, beverage
   * *([POKA°](#nimi-poka-musi))* - likva, malseka — liquid, wet
@@ -1895,7 +1892,6 @@
 * <img src="musi/sitelen/pona/weka.png" height="12"> **weka** ~~we~~ ***[wex]*** *([LUKA°](#nimi-poka-luka-musi))*
   * *(LUKA°)* - fore de, ekster — away from, outside
   * *([POKA](#nimi-poka))* - fora, distanca, ekstera — away, gone, distant, outside
-    * *(lon poka pi suno ...°)* - okcidente — in the west
     * *(... [PALI°](#nimi-lawa-pali))* - mal-...-ebla — un-...-able
   * *([IJO](#nimi-lawa-ijo))*
     * *([LAWA](#nimi-lawa))* - ie for, ie ekstere — somewhere far away, somewhere outside
