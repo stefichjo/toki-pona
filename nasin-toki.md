@@ -991,11 +991,11 @@
 
 * tomo-tawa-sina *(via aŭto — your car)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi mute nimi la [nimi poka luka](#nimi-poka-luka) li ken jo e **sitelen pi wan mute**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Fine de frazo, [prepozicio](#nimi-poka-luka) povas havi **ono-signon**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the end of a sentence, a [preposition](#nimi-poka-luka) can have a **division sign**.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi mute nimi la [nimi poka luka](#nimi-poka-luka) li ken jo e **sitelen pi ijo weka**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Fine de frazo, [prepozicio](#nimi-poka-luka) povas havi **minus-signon**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the end of a sentence, a [preposition](#nimi-poka-luka) can have a **minus sign**.
 
-* mi pana e lipu / tawa sina. *(Mi donas la libron al vi. — I am giving the book to you.)*
+* mi pana e lipu - tawa sina. *(Mi donas la libron al vi. — I am giving the book to you.)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili toki](#nimi-lili-toki) li ken jo e **sitelen palisa**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Citaĵo](#nimi-lili-toki) povas havi **dupunkton**.  
