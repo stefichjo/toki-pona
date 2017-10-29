@@ -642,12 +642,12 @@
 * ona li pana e ***telo*** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
   * → ona li ***telo*** e kasi. *(Ŝi akvumas la planton. — She waters the plant.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "lon sinpin pi" li ken kama [nimi lili "e"](#nimi-lili-e).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "lon sinpin pi" povas fariĝi la [partikulo "e"](#nimi-lili-e).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "lon sinpin pi" can become the [particle "e"](#nimi-lili-e).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> lon poka pi nimi "utala" la nimi "tawa" li ken kama [nimi lili "e"](#nimi-lili-e).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Kun "utala", "tawa" povas fariĝi la [partikulo "e"](#nimi-lili-e).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> With "utala", "tawa" can become the [particle "e"](#nimi-lili-e).
 
 * ona li ***utala e*** jan ike. *(Ŝi provokas/atakas la malamikon. — She is provoking/attacking the enemy.)*
-* ona li ***utala lon sinpin pi*** jan ike. *(Ŝi batalas la malamikon. — She fights the enemy.)*
+* ona li ***utala tawa*** jan ike. *(Ŝi batalas la malamikon. — She fights the enemy.)*
   * → ona li ***utala e*** jan ike.
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "lon poka pi" li ken kama [nimi lili "e"](#nimi-lili-e).  
