@@ -1701,6 +1701,7 @@
   * *([POKA](#nimi-poka))* - de ŝi, de li, de ĝi, de ili: ŝia, lia, ĝia, ilia — of her, of him, of it, of them: her, his, its, their
 * <img src="musi/sitelen/pona/open.png" height="12"> **open** ***[open]*** *([PONA](#nimi-pona))* - malfermita, inaŭgurita, preta, ŝaltita — open, inaugurated, ready, turned on
   * *(... [PALI°](#nimi-lawa-pali))* - tra-ebla — through-able
+  * *([WAWA POKA°](#nimi-wawa-poka-musi))* - pretigi ke → preti — to make ready that → to be ready
 * <img src="musi/sitelen/pona/pakala.png" height="12"> **pakala** ***[bagar-ap]*** *([PONA](#nimi-pona))* ≠ **pona** - damaĝita, lezita — damaged, harmed
 * <img src="musi/sitelen/pona/-.png" height="12"> **pake e** ⇒ **len e lupa pi**, **selo e**
 * <img src="musi/sitelen/pona/pali.png" height="12"> **pali** ***[fari]*** *([PALI](#nimi-lawa-pali))* = **luka e ijo**
