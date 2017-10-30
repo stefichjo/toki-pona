@@ -1706,9 +1706,8 @@
 * <img src="musi/sitelen/pona/-.png" height="12"> **pake e** ⇒ **len e lupa pi**, **selo e**
 * <img src="musi/sitelen/pona/pali.png" height="12"> **pali** ***[fari]*** *([PALI](#nimi-lawa-pali))* = **luka e ijo**
   * *([LAWA](#nimi-lawa))* - io por priagi, io por prilabori: laboro, tasko — something to take action on, something to work on: work, task
-    * *([PALI+](#nimi-lawa-pali-namako))* ⇒ **kama** - aperigi, okazigi → krei — to make
+    * *([PALI+](#nimi-lawa-pali-namako))* ⇒ **kama** - aperigi, okazigi → krei, konstrui — to make, to build
     * *([PALI+](#nimi-lawa-pali-namako))* ⇒ **open** - pretigi → prepari — to prepare
-    * *([PALI+](#nimi-lawa-pali-namako))* ⇒ **tomo** - konstrui — to build
   * *([E](#nimi-wawa-luka))* - priagi, prilabori — to take action on, to work on
 * <img src="musi/sitelen/pona/palisa.png" height="12"> **palisa** ***[palica]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io longa kaj malmola: branĉo, bastono — something long and hard: branch, stick
