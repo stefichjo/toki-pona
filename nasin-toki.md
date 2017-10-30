@@ -921,9 +921,9 @@
 ##### nimi lawa ijo musi
 *(Eksperimentaj Aĵaj Vortoj — Experimental Thing Words)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo", "tomo" li [nimi lawa ijo](#nimi-lawa-ijo) **musi**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" kaj "tomo" estas **eksperimentaj** [aĵaj vortoj](#nimi-lawa-ijo).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" and "tomo" are **experimental** [thing words](#nimi-lawa-ijo).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" li [nimi lawa ijo](#nimi-lawa-ijo) **musi**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo" kaj "tenpo" estas **eksperimentaj** [aĵaj vortoj](#nimi-lawa-ijo).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo" and "tenpo" are **experimental** [thing words](#nimi-lawa-ijo).
 
 * lipu ***ilo*** *(utila libro — a useful book)*
 
@@ -939,9 +939,9 @@
 ##### nimi lawa ilo musi
 *(Eksperimentaj Ilaj Vortoj — Experimental Tool Words)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "len", "luka", "noka", "palisa", "poki", "selo", "uta" li [nimi lawa ilo](#nimi-lawa-ilo) **musi**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "len", "luka", "noka", "palisa", "poki", "selo" kaj "uta" estas **eksperimentaj** [ilaj vortoj](#nimi-lawa-ilo).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "len", "luka", "noka", "palisa", "poki", "selo" and "uta" are **experimental** [tool words](#nimi-lawa-ilo).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "len", "luka", "noka", "palisa", "poki", "selo", "tomo", "uta" li [nimi lawa ilo](#nimi-lawa-ilo) **musi**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "len", "luka", "noka", "palisa", "poki", "selo", "tomo" kaj "uta" estas **eksperimentaj** [ilaj vortoj](#nimi-lawa-ilo).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "len", "luka", "noka", "palisa", "poki", "selo", "tomo" and "uta" are **experimental** [tool words](#nimi-lawa-ilo).
 
 * o ***luka*** ala e seli! *(Ne tuŝu la fajron! — Don't touch the fire!)*
 
@@ -1504,7 +1504,7 @@
 * <img src="musi/sitelen/pona/ijo.png" height="12"> **ijo** ***[io]*** *([LAWA PONA](#nimi-lawa-pona))*
   * *([LAWA](#nimi-lawa))* - io — something
   * *([POKA](#nimi-poka))* - de io: ies — of something: something's
-  * *(e ... pi)* - pri — about
+  * *(... pi)* - pri — about
   * *(... [PALI°](#nimi-lawa-pali))* - -ata, -enda — being -ed, to be -ed
 * <img src="musi/sitelen/pona/ike.png" height="12"> **ike** ~~ikeja~~ ***[ilkeä]*** *([PONA](#nimi-pona))* ≠ **pona** - malbona, superflua — bad, superfluous
 * <img src="musi/sitelen/pona/-.png" height="12"> **iki** ⇒ **ona**
@@ -1865,9 +1865,9 @@
 * <img src="musi/sitelen/pona/toki.png" height="12"> **toki** ~~to~~ ***[tok]*** *([PALI](#nimi-lawa-pali))* = **ijo sin**
   * *([LAWA](#nimi-lawa))* - io por komuniki: mesaĝo — something to communicate: message
   * *([E](#nimi-wawa-luka))* - komuniki — to communicate
-* <img src="musi/sitelen/pona/tomo.png" height="12"> **tomo** ***[domo]*** *([IJO°](#nimi-lawa-ijo-musi))*
-  * *([LAWA](#nimi-lawa))* - io konstruita/io protektanta: domo, ĉambro:  — something built/something protecting: house, room
-  * *([POKA°](#nimi-poka-musi))* - konstruita/protektanta — built/protecting
+* <img src="musi/sitelen/pona/tomo.png" height="12"> **tomo** ***[domo]*** *([ILO°](#nimi-lawa-ilo-musi))*
+  * *([LAWA](#nimi-lawa))* - instrumento por protekti: domo, ĉambro:  — instrument for protecting: house, room
+  * *([E°](#nimi-wawa-luka-musi))* - protekti, ŝirmi — to protect, to give shelter
 * <img src="musi/sitelen/pona/tu.png" height="12"> **tu** ***[tu]*** *([PONA](#nimi-pona))* - aparta, disa — apart
   * *([NANPA](#nimi-poka-palisa-nanpa))* - du — two
 * <img src="musi/sitelen/pona/-.png" height="12"> **tuli** ⇒ **mute**, **tu en wan**
