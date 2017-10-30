@@ -1749,8 +1749,8 @@
   * *([POKA](#nimi-poka))* - apuda, akompananta — lateral, accompanying
   * *([LUKA!](#nimi-poka-luka-nasa))* ⇒ **kan**
 * <img src="musi/sitelen/pona/poki.png" height="12"> **poki** ***[bokis]*** *([ILO°](#nimi-lawa-ilo-musi))*
-  * *([LAWA](#nimi-lawa))* - organo por kapti: veziko, ujo, ingo — organ for capturing: bladder, container
-  * *([E°](#nimi-wawa-luka-musi))* - kapti — to capture
+  * *([LAWA](#nimi-lawa))* - organo por enhavi, esti plena: veziko, ujo, ingo — organ for containing, being full: bladder, container
+  * *([E°](#nimi-wawa-luka-musi))* - esti plena je — to be full of
 * <img src="musi/sitelen/pona/pona.png" height="12"> **pona** ***[bona]*** *([PONA](#nimi-pona))* ≠ **ike, jaki, nasa, pakala, utala** - bona, amika, simpla — good, friendly, simple
   * *(... [PALI](#nimi-lawa-pali))* - -inda — worth -ing
   * *(lon nasin ...°)* - rekta — direct
