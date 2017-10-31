@@ -21,7 +21,7 @@ moon = mun
 news = sona sin
 planet ("night sky object") = mun
 planet ("round world") = sike ma
-pray ("try to talk to") = lukin toki
+pray = toki tawa sewi
 prevent ("remove the possibility") = weka e ken
 religion ("doctrine of the divine") = nasin sewi
 sculpture ("representation") = sitelen
@@ -2524,7 +2524,7 @@ tan seme la sina pali e sitelen ona?
 
 460
 00:54:21,865 --> 00:54:25,651
-kepeken ni la mi ken lukin toki tawa ona
+kepeken ni la mi ken toki tawa sewi
 e ijo pi pilin ike mi.
 ==So that we can pray and
 could talk to them about troubles.
@@ -3115,7 +3115,7 @@ the company only.
 561
 01:03:14,219 --> 01:03:18,399
 ni la mi wan pi kulupu seme?
-tawa jan lawa sewi seme la mi o lukin toki?
+tawa jan lawa sewi seme la mi o toki?
 ==Now which company's member am i?
 which God should i pray?
 
@@ -3168,7 +3168,7 @@ was turing out to be impossible.
 570
 01:04:04,529 --> 01:04:09,477
 kepeken wan ni taso la mi ken kama pali pona:
-mi kama lukin toki tawa jan lawa sewi pi nasin sewi ale.
+mi kama toki tawa jan lawa sewi pi nasin sewi ale.
 ==Now there was only one way..
 to start praying Gods of all the religion.
 
@@ -3246,7 +3246,7 @@ jan ante li toke ni lon pini pi tenpo suno.
 
 583
 01:09:41,107 --> 01:09:45,427
-jan wan li toki e pona ni: jan li lukin toki tawa soweli.
+jan wan li toki e pona ni: jan li toki tawa soweli.
 jan ante li toki e pona ni: jan li moli e ona li pana e ona tawa sewi.
 ==some says to pray cow, some says to sacrfice it.
 
@@ -5592,7 +5592,7 @@ o tawa sama mi.
 
 976
 01:47:33,517 --> 01:47:37,597
-kepeken ni la wawa li kama sin lon poki sina.
+kepeken ni la sina ken sin e wawa sina.
 ==just copy me to get your battery recharged.
 
 977
@@ -5661,40 +5661,54 @@ feel like flying and shouting.
 
 987
 01:53:40,777 --> 01:53:43,314
-donation box has more questions than
+poki pi pana mani li jo e wile sona mute
+li jo e mani lili, jan sona o.
+==donation box has more questions than
 money guru.
 
 988
 01:53:43,472 --> 01:53:49,869
-all your products have stopped selling.
+jan ala li awen esun e ijo sina.
+==all your products have stopped selling.
 
 989
 01:53:49,996 --> 01:53:53,551
-facebook and twitter is full
+lipu sona li jo e
+toki ike taso.
+==facebook and twitter is full
 of negative comments.
 
 990
 01:53:54,821 --> 01:53:56,974
-only five?
+toki luka taso?
+==only five?
 
 991
 01:53:56,974 --> 01:54:02,418
-these are positive.
+ni li pona.
+ale ante li ike.
+==these are positive.
 rest bulk is with profanity.
 
 992
 01:54:02,456 --> 01:54:07,562
-do something,
+o pali e ijo.
+mi mute li ken ala lon insa len lon tenpo suli.
+==do something,
 we can't stay hidden long time.
 
 993
 01:54:15,004 --> 01:54:21,414
-call him.
+o lukin toki tawa ona.
+tenpo ni li kama: mi mute li wile sona tan ona.
+==call him.
 now its our turn to ask questions.
 
 994
 01:54:25,094 --> 01:54:27,983
-tapasvi wants to come to our show.
+jan Si li wile kama lon tomo pali ni.
+-seme?
+==tapasvi wants to come to our show.
 -what?
 
 995
