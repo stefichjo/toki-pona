@@ -238,7 +238,7 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Antaŭ vortoj kaj malantaŭ la samaj vortoj negitaj, la **partikulo** "anu" malaperas.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> In front of words and after the same words negated, the **particle** "anu" disappears.
 
-* → ona li ***mama ala*** ~~anu~~ ***mama***? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
+* ona li ***mama ala*** ~~anu~~ ***mama***? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
   * → ona li ***mama ala mama***?
 
 ##### nimi lili "la"
