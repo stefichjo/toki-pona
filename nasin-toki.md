@@ -231,7 +231,7 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Apud la **partikulo** "anu", "ni" antaŭ [frazo](#mute-nimi) kaj la **komoj** malaperas.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> Next to the **particle** "anu", "ni" before a [sentence](#mute-nimi) and the **commas** disappear.
 
-* ~~ni,~~ ona li mama~~,~~ ***anu*** seme? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
+* ~~ni,~~ ona li mama ~~,~~ ***anu*** seme? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
   * → ona li mama ***anu*** seme?
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kama nimi la pini pi nimi sama lon poka pi nimi "ala" la **nimi lili** "anu" li kama weka.  
