@@ -227,13 +227,19 @@
 
 * toki sina ***en*** pali sina li sama. *(Via parolo kaj via ago estas samaj. — What you say and what you do are the same.)*
 
+<img src="musi/sitelen/len-ma/tp.png" height="18"> poka pi **nimi lili** "anu" la nimi "ni" lon kama pi [mute nimi](#mute-nimi) en **sitelen nanpa** li kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Apud la **partikulo** "anu", "ni" antaŭ [frazo](#mute-nimi) kaj la **komoj** malaperas.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Next to the **particle** "anu", "ni" before a [sentence](#mute-nimi) and the **commas** disappear.
+
+* ~~ni,~~ ona li mama~~,~~ ***anu*** seme? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
+  * → ona li mama ***anu*** seme?
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kama nimi la pini pi nimi sama lon poka pi nimi "ala" la **nimi lili** "anu" li kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Antaŭ vortoj kaj malantaŭ la samaj vortoj negitaj, la **partikulo** "anu" malaperas.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> In front of words and after the same words negated, the **particle** "anu" disappears.
 
-* ona li mama ***anu*** seme? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
-  * → ona li ***mama ala*** ~~anu~~ ***mama***?
-    * → ona li ***mama ala mama***?
+* → ona li ***mama ala*** ~~anu~~ ***mama***? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
+  * → ona li ***mama ala mama***?
 
 ##### nimi lili "la"
 *(Kunteksta Frazero — Contextual Fragment)*
@@ -798,8 +804,8 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Pere de numeralo de malgranda kvanto kaj numeralo de granda kvanto oni povas esprimi kvanton inter nulo kaj unu.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> By means of a numeral of a small quantity and a numeral of a big quantity one can express a quantity between zero and one.
 
-* mi pana e ***wan pi tu tu*** tawa sina. *(Mi donas al vi kvaronon. — I give you a quarter.)*
-* mi pana e ***mute wan pi tu tu*** tawa sina. *(Mi donas al vi tri kvaronojn. — I give you three quarters.)*
+* mi pana e ***wan wan pi tu tu*** tawa sina. *(Mi donas al vi unu kvaronon. — I give you one quarter.)*
+* mi pana e ***wan mute pi tu tu*** tawa sina. *(Mi donas al vi tri kvaronojn. — I give you three quarters.)*
 
 | # | 5^ | | 10^ | |
 |:-:|:-:|:-:|:-:|:-:|
@@ -1572,9 +1578,10 @@
 * <img src="musi/sitelen/pona/kule.png" height="12"> **kule** ***[kuler]*** *([PONA](#nimi-pona))* - kolora — colorful
 * <img src="musi/sitelen/pona/kulupu.png" height="12"> **kulupu** ***[grup]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - reciproka aĵo: interrilato, komunumo, kompanio, grupo, nacio, socio, tribo — something reciprocal: relation, community, company, group, nation, society, tribe
+    * *([LAWA°](#nimi-lawa-musi))* - svarmo — swarm
     * *(lon ...)* - kune — together
   * *([POKA°](#nimi-poka-musi))* - reciproka, de unu al la alia — reciprocal, of one another
-  * *([LAWA!](#nimi-lawa-nasa))* = mute - aro — set
+  * *([LAWA!](#nimi-lawa-nasa))* = **mute** - aro — set
 * <img src="musi/sitelen/pona/kute.png" height="12"> **kute** ~~ekute~~ ***[ekute]*** *([ILO](#nimi-lawa-ilo))*
   * *([LAWA](#nimi-lawa))* - organo por aŭdi: orelo — organ for hearing: ear
   * *([E](#nimi-wawa-luka))* - aŭdi, obei — to hear, to obey
@@ -1883,7 +1890,7 @@
     * *([POKA+](#nimi-poka-namako))* - unueca, unu, izolita — united, one, isolated
       * *([NANPA](#nimi-poka-palisa-nanpa))*
         * *([POKA](#nimi-poka))* - unu — one
-          * *(... LAWA°)* - unuo, -ero — unit, one piece of
+          * *(... LAWA°)* - unuo, -ero, -ono — unit, one piece of
     * *([LAWA°](#nimi-lawa-musi))* - unio — union
 * <img src="musi/sitelen/pona/waso.png" height="12"> **waso** ***[wazo]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo kon**
   * *([LAWA](#nimi-lawa))* - fluganta vivaĵo: birdo — flying organism: bird
