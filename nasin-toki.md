@@ -1675,7 +1675,7 @@
   * *([E°](#nimi-wawa-luka-musi))* - ludi — to play
 * <img src="musi/sitelen/pona/mute.png" height="12"> **mute** ***[multe]*** *([PONA](#nimi-pona))* ≠ **lili** - plura, multa, multe da (io ne-nombrebla), tre — multiple, many, much of (something non-countable), very
   * *([NANPA°](#nimi-poka-palisa-nanpa-musi))* - tri — three
-    * *(... LAWA°)* - -aro — set of
+    * *((LAWA°)[#nimi-lawa-musi])* - triopo, aro — set
 * <img src="musi/sitelen/pona/-.png" height="12"> **namako** ⇒ **sin**
 * <img src="musi/sitelen/pona/nanpa.png" height="12"> **nanpa** ***[namba]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io nombrita, io kalkulita — something counted, something calculated
@@ -1876,6 +1876,7 @@
   * *([E°](#nimi-wawa-luka-musi))* - protekti, ŝirmi — to protect, to give shelter
 * <img src="musi/sitelen/pona/tu.png" height="12"> **tu** ***[tu]*** *([PONA](#nimi-pona))* - aparta, disa — apart
   * *([NANPA](#nimi-poka-palisa-nanpa))* - du — two
+    * *([LAWA°](#nimi-lawa-musi))* - duopo, paro — pair
 * <img src="musi/sitelen/pona/-.png" height="12"> **tuli** ⇒ **mute**, **tu en wan**
 * <img src="musi/sitelen/pona/unpa.png" height="12"> **unpa** ***[?]*** *([PONA](#nimi-pona))* - (ge-)gravediĝanta, seksumanta, esti geedzo — becoming pregnant (or her partner), to have sexual relationships, to be married
 * <img src="musi/sitelen/pona/uta.png" height="12"> **uta** ***[usta]*** *([ILO](#nimi-lawa-ilo))*
@@ -1890,7 +1891,7 @@
     * *([POKA+](#nimi-poka-namako))* - unueca, unu, izolita — united, one, isolated
       * *([NANPA](#nimi-poka-palisa-nanpa))*
         * *([POKA](#nimi-poka))* - unu — one
-          * *(... LAWA°)* - unuo, -ero, -ono — unit, one piece of
+          * *([LAWA°](#nimi-lawa-musi))* - unuopo, unuo, -ero, -ono — single, unit, one piece of
     * *([LAWA°](#nimi-lawa-musi))* - unio — union
 * <img src="musi/sitelen/pona/waso.png" height="12"> **waso** ***[wazo]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo kon**
   * *([LAWA](#nimi-lawa))* - fluganta vivaĵo: birdo — flying organism: bird
