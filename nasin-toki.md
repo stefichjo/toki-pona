@@ -1889,6 +1889,7 @@
   * *([POKA](#nimi-poka))* - unika — unique
   * *([PALISA°](#nimi-poka-palisa-musi))*
     * *([POKA+](#nimi-poka-namako))* - unueca, unu, izolita — united, one, isolated
+	  * *([POKA°](#nimi-poka-musi))* - speciala, certa — special, certain
       * *([NANPA](#nimi-poka-palisa-nanpa))*
         * *([POKA](#nimi-poka))* - unu — one
           * *([LAWA°](#nimi-lawa-musi))* - unuopo, unuo, -ero, -ono — single, unit, one piece of
