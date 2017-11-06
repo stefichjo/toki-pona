@@ -1161,6 +1161,13 @@
 * tomo pi telo nasa, pi jan pona. *(trinkejo de amiko — a friend's bar)*
   * → tomo pi telo nasa ***en*** pi jan pona.
 
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon kama pi [nimi lili "li"](#nimi-lili-li) li jo e [nimi lili](#nimi-lili-en-anu) nasa ["en"](#nimi-lili-en-anu). [nimi lili](#nimi-lili-en-anu) nasa ["en"](#nimi-lili-en-anu) nanpa wan li weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Subjekto (t.e. la vortoj antaŭ la [partikulo "li"](#nimi-lili-li) havas la strangan [partikulon "en"](#nimi-lili-en-anu). La unua [partikulo "en"](#nimi-lili-en-anu) mankas.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The Subject (i.e. the words before the [particle "li"](#nimi-lili-li) has the strange [particle "en"](#nimi-lili-en-anu). The first [particle "en"](#nimi-lili-en-anu) is missing.
+
+* ~~en~~ sina ***en*** mi li jan pona. *(Vi kaj mi estas amikoj. — You and I are friends.)*
+  * → sina ***en*** mi li jan pona.
+
 ### nimi suli nasa
 *(Strangaj Radikaj Vortoj — Strange Content Words)*
 
@@ -1874,7 +1881,7 @@
 * <img src="musi/sitelen/pona/tomo.png" height="12"> **tomo** ***[domo]*** *([ILO°](#nimi-lawa-ilo-musi))*
   * *([LAWA](#nimi-lawa))* - instrumento por protekti: domo, ĉambro:  — instrument for protecting: house, room
   * *([E°](#nimi-wawa-luka-musi))* - protekti, ŝirmi — to protect, to give shelter
-* <img src="musi/sitelen/pona/tu.png" height="12"> **tu** ***[tu]*** *([PONA](#nimi-pona))* - aparta, disa — apart
+* <img src="musi/sitelen/pona/tu.png" height="12"> **tu** ***[tu]*** *([PONA](#nimi-pona))* - aparta, disa — apart, separate
   * *([NANPA](#nimi-poka-palisa-nanpa))* - du — two
     * *([LAWA°](#nimi-lawa-musi))* - duopo, paro — pair
 * <img src="musi/sitelen/pona/-.png" height="12"> **tuli** ⇒ **mute**, **tu en wan**
@@ -1887,9 +1894,9 @@
 * <img src="musi/sitelen/pona/walo.png" height="12"> **walo** ***[valko]*** *([PONA](#nimi-pona))* = **kule wawa** - blanka — white
 * <img src="musi/sitelen/pona/wan.png" height="12"> **wan** ***[wan]*** *([PONA](#nimi-pona))*
   * *([POKA](#nimi-poka))* - unika — unique
+    * *([POKA°](#nimi-poka-musi))* - speciala, certa — special, certain
   * *([PALISA°](#nimi-poka-palisa-musi))*
     * *([POKA+](#nimi-poka-namako))* - unueca, unu, izolita — united, one, isolated
-	  * *([POKA°](#nimi-poka-musi))* - speciala, certa — special, certain
       * *([NANPA](#nimi-poka-palisa-nanpa))*
         * *([POKA](#nimi-poka))* - unu — one
           * *([LAWA°](#nimi-lawa-musi))* - unuopo, unuo, -ero, -ono — single, unit, one piece of
