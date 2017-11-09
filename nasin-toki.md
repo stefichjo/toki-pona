@@ -1501,6 +1501,7 @@
 * <img src="musi/sitelen/pona/awen.png" height="12"> **awen** ***[hawen]*** *([PONA](#nimi-pona))* - daŭra, daŭrigita — enduring, kept
   * *(... ~~lon~~)* - daŭre ĉeestanta → atendi, resti — continuously being present → waiting, staying
     * *(~~ken~~ ...+)* - rajtanta resti → protektita, savita — allowed to stay → protected, safe
+	  * *([E+](#nimi-wawa-luka-namako))* ⇒ **tomo** - protekti — to protect
   * *([WAWA POKA](#nimi-wawa-poka))* - daŭrigi ke  → plu- — to continue to
 * <img src="musi/sitelen/pona/e.png" height="12"> **e** ***[he?]*** *([LILI](#nimi-lili-e))* - -n — (accusative)
 * <img src="musi/sitelen/pona/en.png" height="12"> **en** ***[en]*** *([LILI](#nimi-lili-en-anu))* - kaj — and
@@ -1770,14 +1771,15 @@
   * *(lon nasin ...°)* - rekta — direct
 * <img src="musi/sitelen/pona/-.png" height="12"> **powe** ⇒ **toki ike**, **toki akesi**
 * <img src="musi/sitelen/pona/pu.png" height="12"> **pu** ***[buk]*** *([LUKA°](#nimi-poka-luka-musi))*
-  * *(LUKA°)* - en harmonio kun, laŭ — in harmony with, according to
+  * *(LUKA°)* - sekvante -n, kongrue kun, harmonie kun, laŭ, depende de — following, in agreement with, in harmony with, according to, depending on
     * *([LAWA!](#nimi-poka-luka-nasa))* - interagaĵo, la Oficiala Libro de Tokipono — object of interaction, the Official Toki Pona Book
-  * *([POKA](#nimi-poka))* - harmonia, aganta laŭa, interaganta kun la Oficialan Libron de Tokipono — harmonious, according, interacting with the Official Toki Pona Book
+  * *([POKA](#nimi-poka))* - sekvanta, kongrua, harmonia, laŭa, dependanta — following, being in agreement, being in harmony, being in accordance, depending
+    * *(... ~~lipu suli pi toki pona~~+)* - interaganta kun la Oficiala Libro de Tokipono — interacting with the Official Toki Pona Book
 * <img src="musi/sitelen/pona/sama.png" height="12"> **sama** ***[sama]*** *([LUKA](#nimi-poka-luka))*
   * *(LUKA)* - kiel — like
     * *([LAWA!](#nimi-poka-luka-nasa))* - la sama — the same
   * *([POKA](#nimi-poka))* - egala, sama, mem — alike, same, self
-    * *(~~pi kulupu mama~~ ...)* parenca — related
+    * *(~~pi kulupu mama~~ ...)* - parenca — related
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - simuli, ŝajnigi — to simulate, to pretend
 * <img src="musi/sitelen/pona/seli.png" height="12"> **seli** ***[cxeli]*** *([PONA](#nimi-pona))* - varma, arda — warm, hot
   * *([MUN°](#nimi-mun-musi))*
@@ -1809,11 +1811,17 @@
   * *([POKA°](#nimi-poka-musi))* - organizita — organized
     * *([LAWA°](#nimi-lawa-musi))* - fizika stato — physical state
 * <img src="musi/sitelen/pona/sike.png" height="12"> **sike** ***[sirkel]*** *([IJO](#nimi-lawa-ijo))*
-  * *([LAWA](#nimi-lawa))* - io ronda: cirklo, globo, ĉirkaŭo — something round: circle, sphere, surroundings
-    * *(lon poka ... pi°)* - ĉirkaŭ — around
-    * *(lon nasin poka ... pi°)* - ĉirkaŭ -n — around
-  * *([POKA](#nimi-poka))* - ronda, plenumita — round, fulfilled
+  * *([LAWA](#nimi-lawa))* - io ronda: globo, cirklo, ciklo, sfero, rado — something round: ball, circle, cycle, sphere, wheel
+    * *(... ~~suno~~+)* - jaro — year
+  * *([POKA](#nimi-poka))* - ronda — round
+    * *([POKA°](#nimi-poka-musi))* - kompletigita, plenumita — completed, accomplished
+      * *(lon poka ... pi°)* - ĉirkaŭ — around
+      * *(lon nasin poka ... pi°)* - ĉirkaŭ -n — around
+	  * *(tenpo ...°)* - ciklo, fojo — cycle, time
+	    * *(~~tenpo~~ ...+)*
+	    * *(tenpo ~~...~~+)*
     * *([WAWA POKA°](#nimi-wawa-poka-musi))* - plenumi ke → tute — to fulfill that → completely
+	  * *(... e ~~sike~~ suno+)* - kompletigi jaron, havi sian naskiĝtagon — to complete a year, to have one's birthday
   * *([E+](#nimi-wawa-luka-namako))* = **lon nasin sike pi**
 * <img src="musi/sitelen/pona/sin.png" height="12"> **sin** ***[ŝin]*** *([LUKA°](#nimi-poka-luka-musi))*
   * *(LUKA°)* - aldona al, kun — additional to, with
