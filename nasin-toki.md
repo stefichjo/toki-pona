@@ -664,15 +664,6 @@
 * ona li ***unpa lon poka pi*** jan ni. *(Ŝi seksumas kun tiu persono.)*
   * → ona li ***unpa e*** jan ni.
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "lon nasin poka sike pi" li ken kama [nimi wawa luka](#nimi-wawa-luka) "sike".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "lon nasin poka sike pi" povas fariĝi la [transitiva verbo](#nimi-wawa-luka) "sike".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "lon nasin poka sike pi" can become the [transitive verb](#nimi-wawa-luka) "sike".
-
-* ona li ***sike e*** kiwen. *(Ŝi rondigas la ŝtonon. — She makes the stone round.)*
-* ona li tawa ***lon nasin poka sike pi*** tomo sona. *(Ŝi iras ĉirkaŭ la lernejon. — She is walking around the school.)*
-  * → ona ~~li tawa~~ li ***sike e*** tomo sona.
-    * → ona li ***sike e*** tomo sona.
-
 ### nimi suli namako
 *(Aldonaj Radikaj Vortoj — Additional Content Words)*
 
@@ -1822,7 +1813,6 @@
 	    * *(tenpo ~~...~~+)*
     * *([WAWA POKA°](#nimi-wawa-poka-musi))* - plenumi ke → tute — to fulfill that → completely
 	  * *(... e ~~sike~~ suno+)* - kompletigi jaron, havi sian naskiĝtagon — to complete a year, to have one's birthday
-  * *([E+](#nimi-wawa-luka-namako))* = **lon nasin sike pi**
 * <img src="musi/sitelen/pona/sin.png" height="12"> **sin** ***[ŝin]*** *([LUKA°](#nimi-poka-luka-musi))*
   * *(LUKA°)* - aldona al, kun — additional to, with
   * *([POKA](#nimi-poka))* - plia, aldona, nova, freŝa — another, additional, new, fresh
