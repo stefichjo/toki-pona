@@ -1855,9 +1855,9 @@
   * *([POKA](#nimi-poka))* - devenanta — originating
   * *([WAWA POKA°](#nimi-wawa-poka-musi))* - esti -inta — to have -ed
 * <img src="musi/sitelen/pona/taso.png" height="12"> **taso** ***[dats-ol]*** *([LUKA°](#nimi-poka-luka-musi))*
-  * *(LUKA°)* - sendepende de, kiel escepto de, sen, malgraŭ, spite al, kvankam — independent from, as    * *(... ~~ni la~~)* - sed — but
-  * *([POKA](#nimi-poka))* - sendependa, escepta, nura, libera — independent, exceptional, only, free
- an exception from, without, despite
+  * *(LUKA°)* - sendepende de, malgraŭ, spite al, kvankam — independent from, despite
+    * *(... ~~ni la~~)* - sed — but
+  * *([POKA](#nimi-poka))* - escepta, nura, libera, sendependa — exceptional, only, free, independent
 * <img src="musi/sitelen/pona/tawa.png" height="12"> **tawa** ~~towa~~ ***[towards]*** = **kama lon** *([LUKA](#nimi-poka-luka))*
   * *(LUKA)* - al, por — to, toward, for
     * *([LAWA!](#nimi-poka-luka-nasa))* - celo — target
