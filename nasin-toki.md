@@ -1813,8 +1813,10 @@
 	    * *(tenpo ~~...~~+)*
     * *([WAWA POKA°](#nimi-wawa-poka-musi))* - plenumi ke → tute — to fulfill that → completely
 	  * *(... e ~~sike~~ suno+)* - kompletigi jaron, havi sian naskiĝtagon — to complete a year, to have one's birthday
-* <img src="musi/sitelen/pona/sin.png" height="12"> **sin** ***[ŝin]*** *([LUKA°](#nimi-poka-luka-musi))*
-  * *(LUKA°)* - aldona al, kun — additional to, with
+* <img src="musi/sitelen/pona/sin.png" height="12"> **sin** ***[ŝin]*** *([IJO°](#nimi-lawa-ijo-musi))*
+  * *([LAWA°](#nimi-lawa-musi))* - kroma situacio, iteracio — additional situation, iteration
+    * *(lon ...°)* - denove — again
+    * *(tawa ...°)* - re- — back
   * *([POKA](#nimi-poka))* - plia, aldona, nova, freŝa — another, additional, new, fresh
 * <img src="musi/sitelen/pona/sina.png" height="12"> **sina** ***[sinä]*** *([ESUN](#nimi-lawa-esun))*
   * *([LAWA](#nimi-lawa))* - vi — you
@@ -1903,12 +1905,10 @@
   * *([LAWA](#nimi-lawa))* - fluganta vivaĵo: birdo — flying organism: bird
   * *([POKA°](#nimi-poka-musi))* - fluganta — flying
 * <img src="musi/sitelen/pona/wawa.png" height="12"> **wawa** ***[vahva]*** *([PONA](#nimi-pona))* ≠ **lili** - forta — strong
-* <img src="musi/sitelen/pona/weka.png" height="12"> **weka** ~~we~~ ***[wex]*** *([LUKA°](#nimi-poka-luka-musi))*
-  * *(LUKA°)* - fore de, ekster — away from, outside
-  * *([POKA](#nimi-poka))* - fora, distanca, ekstera — away, gone, distant, outside
+* <img src="musi/sitelen/pona/weka.png" height="12"> **weka** ~~we~~ ***[wex]*** *([IJO°](#nimi-lawa-ijo-musi))*
+  * *([LAWA°](#nimi-lawa-musi))* - distanco, ie for, ekstero — distance, somewhere far away, outside
+    * *(lon ...°)* - distance, for, ekstere — distant, away, outside
+  * *([POKA](#nimi-poka))* - malĉeesta, fora, ignorita — absent, away, ignored
     * *(... [PALI°](#nimi-lawa-pali))* - mal-...-ebla — un-...-able
-  * *([IJO](#nimi-lawa-ijo))*
-    * *([LAWA](#nimi-lawa))* - ie for, ie ekstere — somewhere far away, somewhere outside
-      * *(lon ...°)* - for — away
 * <img src="musi/sitelen/pona/wile.png" height="12"> **wile** ***[wille]*** *([PONA](#nimi-pona))* - necesa — necessary
   * *([WAWA POKA](#nimi-wawa-poka))* - necesigi ke → voli, devi — to make necessary → to need, want, must
