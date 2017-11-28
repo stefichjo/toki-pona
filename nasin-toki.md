@@ -410,6 +410,9 @@
 * ***suwi*** *(dolĉa — sweet)*
   * ~~ijo~~ ***suwi*** *(io dolĉa, dolĉaĵo — something sweet, sweets)*
     * → ***suwi***
+* ***insa*** *(ena — inner)*
+  * ~~ijo~~ ***insa*** *(io ena, centro — something on the inside, center)*
+    * → ***insa***
 
 ##### nimi lawa jan
 *(Ulaj Substantivoj — Person Nouns)*
@@ -756,11 +759,11 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> Passive.
 
 * ***ijo*** ~~tawa~~ lukin *(io por la okulo, io por vidado — something for the eye, something to see)*
-  * ***ijo*** lukin *(vidaĵo, videnda, vidata — must-see, being seen)*
+  * ***ijo*** lukin *(vidaĵo, videnda — must-see)*
 * ***pona*** lukin *(vidinda, bela — beautiful)*
   * ***ike*** lukin *(malvidinda, malbela — ugly)*
-* ***insa*** lukin *(videbla — visible)*
-  * ***weka*** lukin *(malvidebla — invisible)*
+* ***insa*** lukin *(videbla, vidata — visible, being seen)*
+  * ***weka*** lukin *(malvidebla, ne vidata — invisible, not being seen)*
 * ***open*** lukin *(travidebla, transparenta — transparent)*
   * ***selo*** lukin *(maltravidebla, maltransparenta — opaque)*
 
@@ -855,9 +858,9 @@
 ##### nimi poka luka musi
 *(Eksperimentaj Prepozicioj — Experimental Prepositions)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ante", "pu", "sin", "taso", "weka" li [nimi poka luka](#nimi-poka-luka) musi.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "ante", "pu", "sin", "taso" kaj "weka" estas eksperimentaj [prepozicioj](#nimi-poka-luka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ante", "pu", "sin", "taso" and "weka" are experimental [prepositions](#nimi-poka-luka).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ante", "pu", "taso" li [nimi poka luka](#nimi-poka-luka) musi.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "ante", "pu" kaj "taso" estas eksperimentaj [prepozicioj](#nimi-poka-luka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ante", "pu" and "taso" are experimental [prepositions](#nimi-poka-luka).
 
 * mi utala ala tawa wile sina. *(Mi estas en harmonio kun vi. — I am in harmony with you.)*
   * → mi ***pu*** sina.
@@ -918,9 +921,9 @@
 ##### nimi lawa ijo musi
 *(Eksperimentaj Aĵaj Vortoj — Experimental Thing Words)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo", "tenpo" li [nimi lawa ijo](#nimi-lawa-ijo) **musi**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo" kaj "tenpo" estas **eksperimentaj** [aĵaj vortoj](#nimi-lawa-ijo).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sitelen", "telo" and "tenpo" are **experimental** [thing words](#nimi-lawa-ijo).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sin", "sitelen", "telo", "tenpo", "weka" li [nimi lawa ijo](#nimi-lawa-ijo) **musi**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sin", "sitelen", "telo", "tenpo" kaj "weka" estas **eksperimentaj** [aĵaj vortoj](#nimi-lawa-ijo).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sin", "sitelen", "telo", "tenpo" kaj "weka" are **experimental** [thing words](#nimi-lawa-ijo).
 
 * lipu ***ilo*** *(utila libro — a useful book)*
 
@@ -1516,11 +1519,13 @@
 * <img src="musi/sitelen/pona/ilo.png" height="12"> **ilo** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io utila: ilo — something useful: tool
   * *([POKA°](#nimi-poka-musi))* - utila — useful
-* <img src="musi/sitelen/pona/insa.png" height="12"> **insa** ***[insajt]*** *([IJO](#nimi-lawa-ijo))*
+* <img src="musi/sitelen/pona/insa.png" height="12"> **insa** ***[insajt]*** *([IJO](#nimi-lawa-ijo))* ≠ **weka**
   * *([LAWA](#nimi-lawa))* - io interna, io centra: mezo — something internal, something central: middle
-    * *(lon nasin ... pi°)* - tra — throgh
-    * *(lon ale ... pi°)* - ĉie en — throghout
-    * *(tan ale ... pi°)* - de ĉie en, tra — throghout
+    * *(lon nasin ... pi°)* - tra — through
+    * *(lon ale ... pi°)* - ĉie en — throughout
+    * *(tan ale ... pi°)* - de ĉie en, tra — throughout
+	* *(lon ...)* - ene — inside
+      * *(lon ... [PALI°](#nimi-lawa-pali))* - ...-ata — being ...-ed
   * *([POKA](#nimi-poka))* - interna, centra — internal, central
 * <img src="musi/sitelen/pona/jaki.png" height="12"> **jaki** ***[jakki]*** *([PONA](#nimi-pona))* ≠ **pona** - malpura, fia, senhonora — dirty, disgusting, dishonored
 * <img src="musi/sitelen/pona/jan.png" height="12"> **jan** ~~jen~~ ***[jen]*** *([LAWA PONA](#nimi-lawa-pona))*
@@ -1905,10 +1910,11 @@
   * *([LAWA](#nimi-lawa))* - fluganta vivaĵo: birdo — flying organism: bird
   * *([POKA°](#nimi-poka-musi))* - fluganta — flying
 * <img src="musi/sitelen/pona/wawa.png" height="12"> **wawa** ***[vahva]*** *([PONA](#nimi-pona))* ≠ **lili** - forta — strong
-* <img src="musi/sitelen/pona/weka.png" height="12"> **weka** ~~we~~ ***[wex]*** *([IJO°](#nimi-lawa-ijo-musi))*
+* <img src="musi/sitelen/pona/weka.png" height="12"> **weka** ~~we~~ ***[wex]*** *([IJO°](#nimi-lawa-ijo-musi))* ≠ **insa**
   * *([LAWA°](#nimi-lawa-musi))* - distanco, ie for, ekstero — distance, somewhere far away, outside
     * *(lon ...°)* - distance, for, ekstere — distant, away, outside
+      * *(lon ... [PALI°](#nimi-lawa-pali))* - ne ...-ata — not being ...-ed
+    * *(tawa ...°)* - distancen, for, eksteren — off, away, out
   * *([POKA](#nimi-poka))* - malĉeesta, fora, ignorita — absent, away, ignored
-    * *(... [PALI°](#nimi-lawa-pali))* - mal-...-ebla — un-...-able
 * <img src="musi/sitelen/pona/wile.png" height="12"> **wile** ***[wille]*** *([PONA](#nimi-pona))* - necesa — necessary
   * *([WAWA POKA](#nimi-wawa-poka))* - necesigi ke → voli, devi — to make necessary → to need, want, must
