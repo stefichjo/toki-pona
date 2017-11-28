@@ -1679,7 +1679,7 @@
   * *([E°](#nimi-wawa-luka-musi))* - ludi — to play
 * <img src="musi/sitelen/pona/mute.png" height="12"> **mute** ***[multe]*** *([PONA](#nimi-pona))* ≠ **lili** - plura, multa, multe da (io ne-nombrebla), tre — multiple, many, much of (something non-countable), very
   * *([NANPA°](#nimi-poka-palisa-nanpa-musi))* - tri — three
-    * *((LAWA°)[#nimi-lawa-musi])* - triopo, aro — set
+    * *([LAWA°](#nimi-lawa-musi))* - triopo, aro — set
 * <img src="musi/sitelen/pona/-.png" height="12"> **namako** ⇒ **sin**
 * <img src="musi/sitelen/pona/nanpa.png" height="12"> **nanpa** ***[namba]*** *([IJO°](#nimi-lawa-ijo-musi))*
   * *([LAWA](#nimi-lawa))* - io nombrita, io kalkulita — something counted, something calculated
@@ -1914,7 +1914,7 @@
   * *([LAWA°](#nimi-lawa-musi))* - distanco, ie for, ekstero — distance, somewhere far away, outside
     * *(lon ...°)* - distance, for, ekstere — distant, away, outside
       * *(lon ... [PALI°](#nimi-lawa-pali))* - ne ...-ata — not being ...-ed
-    * *(tawa ...°)* - distancen, for, eksteren — off, away, out
+    * *(tawa ...)* - distancen, for, eksteren — off, away, out
   * *([POKA](#nimi-poka))* - malĉeesta, fora, ignorita — absent, away, ignored
 * <img src="musi/sitelen/pona/wile.png" height="12"> **wile** ***[wille]*** *([PONA](#nimi-pona))* - necesa — necessary
   * *([WAWA POKA](#nimi-wawa-poka))* - necesigi ke → voli, devi — to make necessary → to need, want, must
