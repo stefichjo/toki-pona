@@ -566,7 +566,8 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se [verbo](#nimi-wawa) kaj **prepozicio** estas la samaj, la [verbo](#nimi-wawa) malaperas.  
 <img src="musi/sitelen/len-ma/en.png" height="18"> If a [verb](#nimi-wawa) and a **preposition** estas the same, the [verb](#nimi-wawa) disappears.
 
-* mi ~~tawa~~ tawa tomo seli. *(Mi iras al la kuirejo. — I'm going to the kitchen.)*
+* mi ~~tawa~~ ***tawa*** tomo seli. *(Mi iras al la kuirejo. — I'm going to the kitchen.)*
+  * → mi ***tawa*** tomo seli.
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **nimi poka luka** lon pini taso pi [mute nimi](#mute-nimi). tan ni la jan **Sonja** li weka e **sitelen nanpa** lon **nimi poka luka** tu. sin la ona li kepeken **nimi poka** (anu **nimi lili** "[e](#nimi-lili-e)") li kepeken ala **nimi poka luka**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** uzas **prepoziciojn** nur fine de [frazo](#mute-nimi). Tial **Sonja** ellasas la **komon** ĉe du **prepozicioj**. Aldone, ŝi uzas **modifilon** (aŭ la **partikulon** "[pi](#nimi-lili-pi)" anstataŭ **prepozicio**.  
@@ -578,10 +579,10 @@
   * → mi tawa ***kepeken*** tomo tawa ***tan*** tomo sona ***tawa*** tomo sina.
 * jan ~~lon~~ ***poka*** *(najbaro — neighbor)*
   * → jan ***poka***
-* pona ~~tawa~~ **lukin** *(bona laŭ la okulo, bona por vidado, vidinda → bela — good according to the eye, good for seeing, worth seeing → beautiful)*
-  * → pona **lukin**
-* pona ~~tawa~~ **moku** *(bona por manĝado, manĝinda → bongusta — good for eating, worth eating → delicious)*
-  * → pona **moku**
+* pona ~~tawa~~ ***lukin*** *(bona laŭ la okulo, bona por vidado, vidinda → bela — good according to the eye, good for seeing, worth seeing → beautiful)*
+  * → pona ***lukin***
+* pona ~~tawa~~ ***moku*** *(bona por manĝado, manĝinda → bongusta — good for eating, worth eating → delicious)*
+  * → pona ***moku***
 
 #### nimi pona
 *(Simplaj Vortoj — Simple Words)*
