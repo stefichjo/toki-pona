@@ -1930,33 +1930,32 @@
 
 ---
 
-| toki pona | toki Epelanto | toki Inli |
-|:-:|:-:|:-:|
+| pona | Epelanto | Inli |
+|:-|:-|:-|
 | <img src="musi/sitelen/pona/a.png" height="12"> **a** | jes | yes |
-
-* <img src="musi/sitelen/pona/akesi.png" height="12"> **akesi** - malvarm-sanga — cold-blooded
-* <img src="musi/sitelen/pona/ala.png" height="12"> **ala** - ne — no
-* <img src="musi/sitelen/pona/alasa.png" height="12"> **alasa** - ĉasi - to hunt
-* <img src="musi/sitelen/pona/ale.png" height="12"> **ale** - tuta — whole
-* <img src="musi/sitelen/pona/anpa.png" height="12"> **anpa** - malalta — low
-* <img src="musi/sitelen/pona/ante.png" height="12"> **ante** - alia — different
-* <img src="musi/sitelen/pona/anu.png" height="12"> **anu** - aŭ — or
-* <img src="musi/sitelen/pona/awen.png" height="12"> **awen** - daŭras — endures
-* <img src="musi/sitelen/pona/e.png" height="12"> **e** - (akuzativo) — (accusative)
-* <img src="musi/sitelen/pona/en.png" height="12"> **en** - kaj — and
-* <img src="musi/sitelen/pona/esun.png" height="12"> **esun** - interŝanĝi — exchange
-* <img src="musi/sitelen/pona/ijo.png" height="12"> **ijo** - io — something
-* <img src="musi/sitelen/pona/ike.png" height="12"> **ike** - malbona — bad
-* <img src="musi/sitelen/pona/ilo.png" height="12"> **ilo** - utila — useful
-* <img src="musi/sitelen/pona/insa.png" height="12"> **insa** - ena — inner
-* <img src="musi/sitelen/pona/jaki.png" height="12"> **jaki** - malpura — dirty
-* <img src="musi/sitelen/pona/jan.png" height="12"> **jan** - iu — somebody
-* <img src="musi/sitelen/pona/jelo.png" height="12"> **jelo** - flava — yellow
-* <img src="musi/sitelen/pona/jo.png" height="12"> **jo** - havi — to have
-* <img src="musi/sitelen/pona/kala.png" height="12"> **kala** - naĝanta — swimming
-* <img src="musi/sitelen/pona/kalama.png" height="12"> **kalama** - sonanta — sounding
-* <img src="musi/sitelen/pona/kama.png" height="12"> **kama** - venas — comes
-* <img src="musi/sitelen/pona/kasi.png" height="12"> **kasi** - kreskanta — growing
-* <img src="musi/sitelen/pona/ken.png" height="12"> **ken** - povas — can
-* <img src="musi/sitelen/pona/kepeken.png" height="12"> **kepeken** - per — with
-* <img src="musi/sitelen/pona/kili.png" height="12"> **kili** - pendanta — hanging
+| <img src="musi/sitelen/pona/akesi.png" height="12"> **akesi** | malvarm-sanga | cold-blooded |
+| <img src="musi/sitelen/pona/ala.png" height="12"> **ala** | ne | no |
+| <img src="musi/sitelen/pona/alasa.png" height="12"> **alasa** | ĉasi | to hunt |
+| <img src="musi/sitelen/pona/ale.png" height="12"> **ale** | tuta | whole |
+| <img src="musi/sitelen/pona/anpa.png" height="12"> **anpa** | malalta | low |
+| <img src="musi/sitelen/pona/ante.png" height="12"> **ante** | alia | different |
+| <img src="musi/sitelen/pona/anu.png" height="12"> **anu** | aŭ | or |
+| <img src="musi/sitelen/pona/awen.png" height="12"> **awen** | daŭras | endures |
+| <img src="musi/sitelen/pona/e.png" height="12"> **e** | (akuzativo) | (accusative) |
+| <img src="musi/sitelen/pona/en.png" height="12"> **en** | kaj | and |
+| <img src="musi/sitelen/pona/esun.png" height="12"> **esun** | interŝanĝi | exchange |
+| <img src="musi/sitelen/pona/ijo.png" height="12"> **ijo** | io | something |
+| <img src="musi/sitelen/pona/ike.png" height="12"> **ike** | malbona | bad |
+| <img src="musi/sitelen/pona/ilo.png" height="12"> **ilo** | utila | useful |
+| <img src="musi/sitelen/pona/insa.png" height="12"> **insa** | ena | inner |
+| <img src="musi/sitelen/pona/jaki.png" height="12"> **jaki** | malpura | dirty |
+| <img src="musi/sitelen/pona/jan.png" height="12"> **jan** | iu | somebody |
+| <img src="musi/sitelen/pona/jelo.png" height="12"> **jelo** | flava | yellow |
+| <img src="musi/sitelen/pona/jo.png" height="12"> **jo** | havi | to have |
+| <img src="musi/sitelen/pona/kala.png" height="12"> **kala** | naĝanta | swimming |
+| <img src="musi/sitelen/pona/kalama.png" height="12"> **kalama** | sonanta | sounding |
+| <img src="musi/sitelen/pona/kama.png" height="12"> **kama** | venas | comes |
+| <img src="musi/sitelen/pona/kasi.png" height="12"> **kasi** | kreskanta | growing |
+| <img src="musi/sitelen/pona/ken.png" height="12"> **ken** | povas | can |
+| <img src="musi/sitelen/pona/kepeken.png" height="12"> **kepeken** | per | with |
+| <img src="musi/sitelen/pona/kili.png" height="12"> **kili** | pendanta | hanging |
