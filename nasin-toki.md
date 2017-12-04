@@ -1930,8 +1930,8 @@
 
 ---
 
-| pona | Epelanto | Inli | ≈ |
-|:-|:-|:-|
+| pona | … | Epelanto | Inli | ≈ |
+|:-|:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/a.png" height="12"> **a** | ~~kalama~~ | jes | yes | **a**, ala, mu |
 | <img src="musi/sitelen/pona/akesi.png" height="12"> **akesi** | ~~sijelo~~ | malvarm-sanga | cold-blooded | **akesi**, kala, kasi, pipi, soweli, waso |
 | <img src="musi/sitelen/pona/ala.png" height="12"> **ala** | ~~kalama~~, ~~palisa~~ | ne | no | a, **ala**, mu; **ala**, ale, ni, seme |
