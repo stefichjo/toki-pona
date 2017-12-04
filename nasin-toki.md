@@ -1930,7 +1930,7 @@
 
 ---
 
-| pona | … | … | Epelanto | Inli | kulupu nimi |
+| | | | Epelanto | Inli | |
 |:-|:-|:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/a.png" height="12"> | **a** | ~~kalama~~ | jes | yes | **a**, ala, mu |
 | <img src="musi/sitelen/pona/akesi.png" height="12"> | **akesi** | ~~sijelo~~ | malvarm-sanga | cold-blooded | **akesi**, kala, kasi, pipi, soweli, waso |
