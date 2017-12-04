@@ -1957,9 +1957,9 @@
 | <img src="musi/sitelen/pona/kala.png" height="12">     | **kala**     | *sijelo*      | naĝanta | akesi, **kala**, kasi, pipi, soweli, waso |
 | <img src="musi/sitelen/pona/kalama.png" height="12">   | **kalama**   |               | sonanta | |
 | <img src="musi/sitelen/pona/kama.png" height="12">     | **kama**     |               | venas | awen, **kama**, pini |
-|                                                        |              |               | sukcesas | **kama**, lukin |
+|                                                        |              |               | sukcesas | **kama**, ken, lukin, wile |
 | <img src="musi/sitelen/pona/kasi.png" height="12">     | **kasi**     | *sijelo*      | kreskanta | akesi, kala, **kasi**, pipi, soweli, waso |
-| <img src="musi/sitelen/pona/ken.png" height="12">      | **ken**      |               | povas | **ken**, wile |
+| <img src="musi/sitelen/pona/ken.png" height="12">      | **ken**      |               | povas | kama, **ken**, lukin, wile |
 | <img src="musi/sitelen/pona/kepeken.png" height="12">  | **kepeken**  |               | per | ilo, **kepeken** |
 | <img src="musi/sitelen/pona/kili.png" height="12">     | **kili**     | *ijo*         | pendanta | |
 | <img src="musi/sitelen/pona/kiwen.png" height="12">    | **kiwen**    | *ijo*         | malmola | **kiwen**, ko, kon, telo |
@@ -1983,7 +1983,7 @@
 | <img src="musi/sitelen/pona/lon.png" height="12">      | **lon**      |               | ĉe | **lon**, tan, tawa | kepeken |
 | <img src="musi/sitelen/pona/luka.png" height="12">     | **luka**     | *wan sijelo*  | tuŝi | kute, lawa, **luka**, lukin, noka, palisa, pilin, selo, uta |
 | <img src="musi/sitelen/pona/lukin.png" height="12">    | **lukin**    | *wan sijelo*  | vidi | kute, lawa, luka, **lukin**, noka, palisa, pilin, selo, uta |
-|                                                        |              |               | klopodas | kama, **lukin** |
+|                                                        |              |               | klopodas | kama, ken, **lukin**, wile |
 | <img src="musi/sitelen/pona/lupa.png" height="12">     | **lupa**     | *ijo*         | malplena | **lupa**, poki |
 | <img src="musi/sitelen/pona/ma.png" height="12">       | **ma**       | *ijo*         | vasta | lili — **ma**, mute, suli, wawa |
 | <img src="musi/sitelen/pona/mama.png" height="12">     | **mama**     | *jan*         | nutri | **mama**, olin, unpa |
@@ -2014,52 +2014,52 @@
 | <img src="musi/sitelen/pona/pali.png" height="12">     | **pali**     |               | ? | |
 | <img src="musi/sitelen/pona/palisa.png" height="12">   | **palisa**   | *ijo*         | longa kaj malmola | linja, **palisa** |
 |                                                        |              | *wan sijelo*  | indiki | kute, lawa, luka, lukin, noka, **palisa**, pilin, selo, uta |
-| <img src="musi/sitelen/pona/pan.png" height="12">      | **pan**      |               | ? | ? | |
-| <img src="musi/sitelen/pona/pana.png" height="12">     | **pana**     |               | ? | ? | |
-| <img src="musi/sitelen/pona/pi.png" height="12">       | **pi**       |               | (genitivo, partitivo) | (genitive, partitive) | e, li, o, **pi** |
-| <img src="musi/sitelen/pona/pilin.png" height="12">    | **pilin**    | *wan sijelo*  | senti | to feel | kute, lawa, luka, lukin, noka, palisa, **pilin**, selo, uta |
-| <img src="musi/sitelen/pona/pimeja.png" height="12">   | **pimeja**   |               | nigra | black | **pimeja** — kule, suno, walo |
-| <img src="musi/sitelen/pona/pini.png" height="12">     | **pini**     |               | ĉesas | ? | awen, kama, **pini** |
-| <img src="musi/sitelen/pona/pipi.png" height="12">     | **pipi**     | *sijelo*      | rampanta | ? | akesi, kala, kasi, **pipi**, soweli, waso |
-| <img src="musi/sitelen/pona/poka.png" height="12">     | **poka**     | *ijo*         | flanka | ? | |
-| <img src="musi/sitelen/pona/poka.png" height="12">     | **poka**     | *pini nasin*  | apuda | ? | weka — insa, **poka**, sin |
-| <img src="musi/sitelen/pona/poki.png" height="12">     | **poki**     | *ilo*         | plena je | full of | lupa, **poki** |
-| <img src="musi/sitelen/pona/pona.png" height="12">     | **pona**     |               | bona | good | **pona** – ike, jaki, nasa, pakala, utala |
-| <img src="musi/sitelen/pona/pu.png" height="12">       | **pu**       |               | laŭ | according to | **pu**, taso |
-| <img src="musi/sitelen/pona/sama.png" height="12">     | **sama**     |               | simila al | similar to | ante, **sama** |
-| <img src="musi/sitelen/pona/seli.png" height="12">     | **seli**     | *ijo*         | varma | warm | lete, **seli** |
-| <img src="musi/sitelen/pona/selo.png" height="12">     | **selo**     | *wan sijelo*  | formi | to form | kute, lawa, luka, lukin, noka, palisa, pilin, **selo**, uta |
-| <img src="musi/sitelen/pona/seme.png" height="12">     | **seme**     |               | kiu | which | ala, ale, ni, **seme** |
-| <img src="musi/sitelen/pona/sewi.png" height="12">     | **sewi**     | *pini nasin*  | alta | high | anpa, **sewi** |
-| <img src="musi/sitelen/pona/sijelo.png" height="12">   | **sijelo**   | *ijo*         | vivanta | living | moli, **sijelo** |
-| <img src="musi/sitelen/pona/sike.png" height="12">     | **sike**     | *ijo*         | ronda | round | |
-| <img src="musi/sitelen/pona/sin.png" height="12">      | **sin**      | *pini nasin*  | ? | ? | weka — insa, poka, **sin** |
-| <img src="musi/sitelen/pona/sina.png" height="12">     | **sina**     |               | vi | you | mi, ona, **sina** |
-| <img src="musi/sitelen/pona/sinpin.png" height="12">   | **sinpin**   | *pini nasin*  | antaŭa | fore | monsi, **sinpin** |
-| <img src="musi/sitelen/pona/sitelen.png" height="12">  | **sitelen**  |               | ? | ? | **sitelen**, sona, toki |
-| <img src="musi/sitelen/pona/sona.png" height="12">     | **sona**     | *ijo*         | scii | to know | sitelen, **sona**, toki |
-| <img src="musi/sitelen/pona/soweli.png" height="12">   | **soweli**   | *sijelo*      | varm-sanga | warm-blooded | akesi, kala, kasi, pipi, **soweli**, waso |
-| <img src="musi/sitelen/pona/suli.png" height="12">     | **suli**     |               | granda | big | lili — ma, mute, **suli**, wawa |
-| <img src="musi/sitelen/pona/suno.png" height="12">     | **suno**     | *ijo*         | hela | bright | pimeja — kule, **suno**, walo |
-| <img src="musi/sitelen/pona/supa.png" height="12">     | **supa**     | *ijo*         | pontanta | bridging | len, **supa** |
-| <img src="musi/sitelen/pona/suwi.png" height="12">     | **suwi**     | *ijo*         | dolĉa | sweet | |
-| <img src="musi/sitelen/pona/tan.png" height="12">      | **tan**      |               | de | from | lon, **tan**, tawa |
-| <img src="musi/sitelen/pona/taso.png" height="12">     | **taso**     |               | sendepende de | independent from | pu, **taso** |
-| <img src="musi/sitelen/pona/tawa.png" height="12">     | **tawa**     |               | al | to | lon, tan, **tawa** |
-| <img src="musi/sitelen/pona/telo.png" height="12">     | **telo**     | *ijo*         | likva, malseka | liquid, wet | kiwen, ko, kon, **telo** |
-| <img src="musi/sitelen/pona/tenpo.png" height="12">    | **tenpo**    |               | ? | ? | **tenpo**, tomo |
-| <img src="musi/sitelen/pona/toki.png" height="12">     | **toki**     | *ijo*         | komuniki | ? | sitelen, sona, **toki** |
-| <img src="musi/sitelen/pona/tomo.png" height="12">     | **tomo**     | *ilo*         | protekti | ? | tenpo, **tomo** |
-| <img src="musi/sitelen/pona/tu.png" height="12">       | **tu**       |               | aparta | apart | kulupu, **tu**, wan |
-| <img src="musi/sitelen/pona/unpa.png" height="12">     | **unpa**     |               | ? | ? | mama, olin, **unpa** |
-| <img src="musi/sitelen/pona/uta.png" height="12">      | **uta**      | *wan sijelo*  | suĉi | to suck | kute, lawa, luka, lukin, noka, palisa, pilin, selo, **uta** |
-| <img src="musi/sitelen/pona/utala.png" height="12">    | **utala**    |               | batalanta | ? | pona — ike, jaki, nasa, pakala, **utala** |
-| <img src="musi/sitelen/pona/walo.png" height="12">     | **walo**     | *kule*        | blanka | white | suno — kule, pimeja, **walo** |
-| <img src="musi/sitelen/pona/wan.png" height="12">      | **wan**      |               | unika | unique | kulupu, tu, **wan** |
-|                                                        |              |               | unuo | unit | ale, **wan** |
-| <img src="musi/sitelen/pona/waso.png" height="12">     | **waso**     | *sijelo*      | fluganta | ? | akesi, kala, kasi, pipi, soweli, **waso** |
-| <img src="musi/sitelen/pona/wawa.png" height="12">     | **wawa**     |               | forta | strong | lili — ma, mute, suli, **wawa** |
-| <img src="musi/sitelen/pona/weka.png" height="12">     | **weka**     | *pini nasin*  | fora | away | **weka** — insa, poka, sin |
-| <img src="musi/sitelen/pona/wile.png" height="12">     | **wile**     |               | bezonas | needs | ken, **wile** |
+| <img src="musi/sitelen/pona/pan.png" height="12">      | **pan**      |               | ? | |
+| <img src="musi/sitelen/pona/pana.png" height="12">     | **pana**     |               | ? | |
+| <img src="musi/sitelen/pona/pi.png" height="12">       | **pi**       |               | (genitivo, partitivo) | e, li, o, **pi** |
+| <img src="musi/sitelen/pona/pilin.png" height="12">    | **pilin**    | *wan sijelo*  | senti | kute, lawa, luka, lukin, noka, palisa, **pilin**, selo, uta |
+| <img src="musi/sitelen/pona/pimeja.png" height="12">   | **pimeja**   |               | nigra | **pimeja** — kule, suno, walo |
+| <img src="musi/sitelen/pona/pini.png" height="12">     | **pini**     |               | ĉesas | awen, kama, **pini** |
+| <img src="musi/sitelen/pona/pipi.png" height="12">     | **pipi**     | *sijelo*      | rampanta | akesi, kala, kasi, **pipi**, soweli, waso |
+| <img src="musi/sitelen/pona/poka.png" height="12">     | **poka**     | *ijo*         | flanka | |
+| <img src="musi/sitelen/pona/poka.png" height="12">     | **poka**     | *pini nasin*  | apuda | weka — insa, **poka**, sin |
+| <img src="musi/sitelen/pona/poki.png" height="12">     | **poki**     | *ilo*         | plena je | lupa, **poki** |
+| <img src="musi/sitelen/pona/pona.png" height="12">     | **pona**     |               | bona | **pona** – ike, jaki, nasa, pakala, utala |
+| <img src="musi/sitelen/pona/pu.png" height="12">       | **pu**       |               | laŭ | **pu**, taso |
+| <img src="musi/sitelen/pona/sama.png" height="12">     | **sama**     |               | simila al | ante, **sama** |
+| <img src="musi/sitelen/pona/seli.png" height="12">     | **seli**     | *ijo*         | varma | lete, **seli** |
+| <img src="musi/sitelen/pona/selo.png" height="12">     | **selo**     | *wan sijelo*  | formi | kute, lawa, luka, lukin, noka, palisa, pilin, **selo**, uta |
+| <img src="musi/sitelen/pona/seme.png" height="12">     | **seme**     |               | kiu | ala, ale, ni, **seme** |
+| <img src="musi/sitelen/pona/sewi.png" height="12">     | **sewi**     | *pini nasin*  | alta | anpa, **sewi** |
+| <img src="musi/sitelen/pona/sijelo.png" height="12">   | **sijelo**   | *ijo*         | vivanta | moli, **sijelo** |
+| <img src="musi/sitelen/pona/sike.png" height="12">     | **sike**     | *ijo*         | ronda | |
+| <img src="musi/sitelen/pona/sin.png" height="12">      | **sin**      | *pini nasin*  | ? | weka — insa, poka, **sin** |
+| <img src="musi/sitelen/pona/sina.png" height="12">     | **sina**     |               | vi | mi, ona, **sina** |
+| <img src="musi/sitelen/pona/sinpin.png" height="12">   | **sinpin**   | *pini nasin*  | antaŭa | monsi, **sinpin** |
+| <img src="musi/sitelen/pona/sitelen.png" height="12">  | **sitelen**  |               | ? | **sitelen**, sona, toki |
+| <img src="musi/sitelen/pona/sona.png" height="12">     | **sona**     | *ijo*         | scii | sitelen, **sona**, toki |
+| <img src="musi/sitelen/pona/soweli.png" height="12">   | **soweli**   | *sijelo*      | varm-sanga | akesi, kala, kasi, pipi, **soweli**, waso |
+| <img src="musi/sitelen/pona/suli.png" height="12">     | **suli**     |               | granda | lili — ma, mute, **suli**, wawa |
+| <img src="musi/sitelen/pona/suno.png" height="12">     | **suno**     | *ijo*         | hela | pimeja — kule, **suno**, walo |
+| <img src="musi/sitelen/pona/supa.png" height="12">     | **supa**     | *ijo*         | pontanta | len, **supa** |
+| <img src="musi/sitelen/pona/suwi.png" height="12">     | **suwi**     | *ijo*         | dolĉa | |
+| <img src="musi/sitelen/pona/tan.png" height="12">      | **tan**      |               | de | lon, **tan**, tawa |
+| <img src="musi/sitelen/pona/taso.png" height="12">     | **taso**     |               | sendepende de | pu, **taso** |
+| <img src="musi/sitelen/pona/tawa.png" height="12">     | **tawa**     |               | al | lon, tan, **tawa** |
+| <img src="musi/sitelen/pona/telo.png" height="12">     | **telo**     | *ijo*         | likva, malseka | kiwen, ko, kon, **telo** |
+| <img src="musi/sitelen/pona/tenpo.png" height="12">    | **tenpo**    |               | ? | **tenpo**, tomo |
+| <img src="musi/sitelen/pona/toki.png" height="12">     | **toki**     | *ijo*         | komuniki | sitelen, sona, **toki** |
+| <img src="musi/sitelen/pona/tomo.png" height="12">     | **tomo**     | *ilo*         | protekti | tenpo, **tomo** |
+| <img src="musi/sitelen/pona/tu.png" height="12">       | **tu**       |               | aparta | kulupu, **tu**, wan |
+| <img src="musi/sitelen/pona/unpa.png" height="12">     | **unpa**     |               | ? | mama, olin, **unpa** |
+| <img src="musi/sitelen/pona/uta.png" height="12">      | **uta**      | *wan sijelo*  | suĉi | kute, lawa, luka, lukin, noka, palisa, pilin, selo, **uta** |
+| <img src="musi/sitelen/pona/utala.png" height="12">    | **utala**    |               | batalanta | pona — ike, jaki, nasa, pakala, **utala** |
+| <img src="musi/sitelen/pona/walo.png" height="12">     | **walo**     | *kule*        | blanka | suno — kule, pimeja, **walo** |
+| <img src="musi/sitelen/pona/wan.png" height="12">      | **wan**      |               | unika | kulupu, tu, **wan** |
+|                                                        |              |               | unuo | ale, **wan** |
+| <img src="musi/sitelen/pona/waso.png" height="12">     | **waso**     | *sijelo*      | fluganta | akesi, kala, kasi, pipi, soweli, **waso** |
+| <img src="musi/sitelen/pona/wawa.png" height="12">     | **wawa**     |               | forta | lili — ma, mute, suli, **wawa** |
+| <img src="musi/sitelen/pona/weka.png" height="12">     | **weka**     | *pini nasin*  | fora | **weka** — insa, poka, sin |
+| <img src="musi/sitelen/pona/wile.png" height="12">     | **wile**     |               | bezonas | kama, ken, lukin, **wile** |
 
 
