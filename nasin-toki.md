@@ -1975,7 +1975,7 @@
 |                                                        |              | *pini nasin*  | supra | **lawa**, noka |
 | <img src="musi/sitelen/pona/len.png" height="12">      | **len**      | *ilo*         | kovri | **len**, supa |
 | <img src="musi/sitelen/pona/lete.png" height="12">     | **lete**     |               | malvarma | **lete**, seli |
-| <img src="musi/sitelen/pona/li.png" height="12">       | **li**       |               | (predikato) | e, **li**, o, pi |
+| <img src="musi/sitelen/pona/li.png" height="12">       | **li**       |               | (indikativo) | e, **li**, o, pi |
 | <img src="musi/sitelen/pona/lili.png" height="12">     | **lili**     |               | malgranda | **lili** — ma, mute, suli, wawa |
 | <img src="musi/sitelen/pona/linja.png" height="12">    | **linja**    | *ijo*         | longa kaj fleksebla | **linja**, palisa |
 | <img src="musi/sitelen/pona/lipu.png" height="12">     | **lipu**     | *ijo*         | plata | **lipu**, nena |
@@ -2006,7 +2006,7 @@
 | <img src="musi/sitelen/pona/nimi.png" height="12">     | **nimi**     |               | ? | |
 | <img src="musi/sitelen/pona/noka.png" height="12">     | **noka**     | *wan sijelo*  | stari | kute, lawa, luka, lukin, **noka**, palisa, pilin, selo, uta |
 |                                                        |              | *pini nasin*  | baza | lawa, **noka** |
-| <img src="musi/sitelen/pona/o.png" height="12">        | **o**        |               | (volitivo, imperativo) | e, li, **o**, pi |
+| <img src="musi/sitelen/pona/o.png" height="12">        | **o**        |               | (volitivo) | e, li, **o**, pi |
 | <img src="musi/sitelen/pona/olin.png" height="12">     | **olin**     |               | ami | mama, **olin**, unpa |
 | <img src="musi/sitelen/pona/ona.png" height="12">      | **ona**      |               | ŝi | mi, **ona**, sina |
 | <img src="musi/sitelen/pona/open.png" height="12">     | **open**     |               | ? | |
@@ -2016,7 +2016,7 @@
 |                                                        |              | *wan sijelo*  | indiki | kute, lawa, luka, lukin, noka, **palisa**, pilin, selo, uta |
 | <img src="musi/sitelen/pona/pan.png" height="12">      | **pan**      |               | ? | |
 | <img src="musi/sitelen/pona/pana.png" height="12">     | **pana**     |               | ? | |
-| <img src="musi/sitelen/pona/pi.png" height="12">       | **pi**       |               | (genitivo, partitivo) | e, li, o, **pi** |
+| <img src="musi/sitelen/pona/pi.png" height="12">       | **pi**       |               | (genitivo) | e, li, o, **pi** |
 | <img src="musi/sitelen/pona/pilin.png" height="12">    | **pilin**    | *wan sijelo*  | senti | kute, lawa, luka, lukin, noka, palisa, **pilin**, selo, uta |
 | <img src="musi/sitelen/pona/pimeja.png" height="12">   | **pimeja**   |               | nigra | **pimeja** — kule, suno, walo |
 | <img src="musi/sitelen/pona/pini.png" height="12">     | **pini**     |               | ĉesas | awen, kama, **pini** |
