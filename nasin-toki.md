@@ -1934,9 +1934,11 @@
 |:-|:-|:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/a.png" height="12"> | **a** | ~~kalama~~ | jes | yes | **a**, ala, mu |
 | <img src="musi/sitelen/pona/akesi.png" height="12"> | **akesi** | ~~sijelo~~ | malvarm-sanga | cold-blooded | **akesi**, kala, kasi, pipi, soweli, waso |
-| <img src="musi/sitelen/pona/ala.png" height="12"> | **ala** | ~~kalama~~, ~~palisa~~ | ne | no | a, **ala**, mu; **ala**, ale, ni, seme |
+| <img src="musi/sitelen/pona/ala.png" height="12"> | **ala** | ~~kalama~~, ~~palisa~~ | ne | no | a, **ala**, mu |
+|  |  | ~~palisa~~ | neniu | no | **ala**, ale, ni, seme |
 | <img src="musi/sitelen/pona/alasa.png" height="12"> | **alasa** | ~~ijo~~ | ĉasi | to hunt | **alasa**, esun |
-| <img src="musi/sitelen/pona/ale.png" height="12"> | **ale** | ., ~~palisa~~ | tuta | whole | ala, **ale**, ni, seme |
+| <img src="musi/sitelen/pona/ale.png" height="12"> | **ale** | . | tuta | whole | **ale**, wan |
+| <img src="musi/sitelen/pona/ale.png" height="12"> | **ale** | ~~palisa~~ | ĉiu | every | ala, **ale**, ni, seme |
 | <img src="musi/sitelen/pona/anpa.png" height="12"> | **anpa** | ~~pini nasin~~ | malalta | low | **anpa**, sewi |
 | <img src="musi/sitelen/pona/ante.png" height="12"> | **ante** | . | alia ol | different from | **ante**, sama |
 | <img src="musi/sitelen/pona/anu.png" height="12"> | **anu** | . | aŭ | or | **anu**, en |
@@ -1997,7 +1999,7 @@
 | <img src="musi/sitelen/pona/nasa.png" height="12"> | **nasa** | . | stranga | strange | pona — ike, jaki, **nasa**, pakala, utala |
 | <img src="musi/sitelen/pona/nasin.png" height="12"> | **nasin** | | ? | ? | |
 | <img src="musi/sitelen/pona/nena.png" height="12"> | **nena** | ~~ijo~~ | elstara | ? | lipu, **nena** |
-| <img src="musi/sitelen/pona/ni.png" height="12"> | **ni** | ~~palisa~~ | ? | ? | ala, ale, **ni**, seme |
+| <img src="musi/sitelen/pona/ni.png" height="12"> | **ni** | ~~palisa~~ | tiu | this, that | ala, ale, **ni**, seme |
 | <img src="musi/sitelen/pona/nimi.png" height="12"> | **nimi** | | ? | ? | |
 | <img src="musi/sitelen/pona/noka.png" height="12"> | **noka** | ~~wan sijelo~~, ~~pini nasin~~ | stari | ? | kute, lawa, luka, lukin, **noka**, pilin, selo, uta |
 | <img src="musi/sitelen/pona/o.png" height="12"> | **o** | () | (volitivo, imperativo) | (volitive, imperative) | e, li, **o**, pi |
@@ -2021,7 +2023,7 @@
 | <img src="musi/sitelen/pona/sama.png" height="12"> | **sama** | . | simila al | similar to | ante, **sama** |
 | <img src="musi/sitelen/pona/seli.png" height="12"> | **seli** | ~~ijo~~ | varma | warm | lete, **seli** |
 | <img src="musi/sitelen/pona/selo.png" height="12"> | **selo** | ~~wan sijelo~~ | formi | to form | kute, lawa, luka, lukin, noka, pilin, **selo**, uta |
-| <img src="musi/sitelen/pona/seme.png" height="12"> | **seme** | ~~palisa~~ | ? | ? | ala, ale, ni, **seme** |
+| <img src="musi/sitelen/pona/seme.png" height="12"> | **seme** | ~~palisa~~ | kiu | which | ala, ale, ni, **seme** |
 | <img src="musi/sitelen/pona/sewi.png" height="12"> | **sewi** | ~~pini nasin~~ | alta | ? | anpa, **sewi** |
 | <img src="musi/sitelen/pona/sijelo.png" height="12"> | **sijelo** | ~~ijo~~ | vivanta | ? | moli, **sijelo** |
 | <img src="musi/sitelen/pona/sike.png" height="12"> | **sike** | ~~ijo~~ | ronda | ? | |
@@ -2048,6 +2050,7 @@
 | <img src="musi/sitelen/pona/utala.png" height="12"> | **utala** | . | batalanta | ? | pona — ike, jaki, nasa, pakala, **utala** |
 | <img src="musi/sitelen/pona/walo.png" height="12"> | **walo** | ~~kule~~ | blanka | white | suno — kule, pimeja, **walo** |
 | <img src="musi/sitelen/pona/wan.png" height="12"> | **wan** | . | unika | unique | kulupu, tu, **wan** |
+| | | . | unuo | unit | ale, **wan** |
 | <img src="musi/sitelen/pona/waso.png" height="12"> | **waso** | ~~sijelo~~ | fluganta | ? | akesi, kala, kasi, pipi, soweli, **waso** |
 | <img src="musi/sitelen/pona/wawa.png" height="12"> | **wawa** | . | forta | strong | lili — ma, mute, suli, **wawa** |
 | <img src="musi/sitelen/pona/weka.png" height="12"> | **weka** | ~~pini nasin~~ | fora | away | **weka** — insa, poka, sin |
