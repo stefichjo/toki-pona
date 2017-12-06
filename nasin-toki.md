@@ -2010,7 +2010,7 @@
 | <img src="musi/sitelen/pona/noka.png" height="12">     | **noka**     | *[WAN SIJELO](#wan-sijelo)* | kute, lawa, luka, lukin, **noka**, palisa, pilin, selo, uta |
 |                                                        |              | *[NASIN](#nimi-nasin)* | lawa, **noka** |
 | <img src="musi/sitelen/pona/o.png" height="12">        | **o**        | *[LILI](#nimi-lili-o)* | e, li, **o**, pi |
-| <img src="musi/sitelen/pona/olin.png" height="12">     | **olin**     | *e ijo* ami | **olin**, unpa |
+| <img src="musi/sitelen/pona/olin.png" height="12">     | **olin**     | *([PALI](#nimi-lawa-pali))* | **olin**, unpa |
 | <img src="musi/sitelen/pona/ona.png" height="12">      | **ona**      | *[ESUN](#nimi-lawa-esun)* | mi, **ona**, sina |
 | <img src="musi/sitelen/pona/open.png" height="12">     | **open**     | *[PONA](#nimi-pona)* | **open**, selo |
 |                                                        |              | *[WAWA POKA](#nimi-wawa-poka)* | kama, ken, lukin, **open**, wile |
@@ -2058,7 +2058,7 @@
 | <img src="musi/sitelen/pona/tomo.png" height="12">     | **tomo**     | *ilo*         | protekti | tenpo, **tomo** |
 | <img src="musi/sitelen/pona/tu.png" height="12">       | **tu**       | aparta | kulupu, **tu**, wan |
 |                                                        |              | *[NANPA](#nimi-poka-palisa-nanpa)* | esun, luka, mute, **tu**, wan |
-| <img src="musi/sitelen/pona/unpa.png" height="12">     | **unpa**     | | olin, **unpa** |
+| <img src="musi/sitelen/pona/unpa.png" height="12">     | **unpa**     | *([PALI](#nimi-lawa-pali))* | olin, **unpa** |
 | <img src="musi/sitelen/pona/uta.png" height="12">      | **uta**      | *[WAN SIJELO](#wan-sijelo)* | kute, lawa, luka, lukin, noka, palisa, pilin, selo, **uta** |
 | <img src="musi/sitelen/pona/utala.png" height="12">    | **utala**    | *[PONA](#nimi-pona)* | pona — ike, nasa, **utala** |
 | <img src="musi/sitelen/pona/walo.png" height="12">     | **walo**     | *[KULE](#nimi-poka-kule)* | **pimeja** — walo |
