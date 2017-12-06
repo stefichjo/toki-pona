@@ -1962,7 +1962,7 @@
 | <img src="musi/sitelen/pona/kasi.png" height="12">     | **kasi**     | | *[SIJELO](#nimi-lawa-sijelo)* | kala, **kasi**, pipi, waso |
 | <img src="musi/sitelen/pona/ken.png" height="12">      | **ken**      | | *[WAWA POKA](#nimi-wawa-poka)* | kama, **ken**, lukin, open, wile |
 | <img src="musi/sitelen/pona/kepeken.png" height="12">  | **kepeken**  | | *[LUKA](#nimi-poka-luka)* | **kepeken** — lon, tan, tawa |
-| <img src="musi/sitelen/pona/kili.png" height="12">     | **kili**     | *ijo*         | pendanta | |
+| <img src="musi/sitelen/pona/kili.png" height="12">     | **kili**     | | *[IJO](#nimi-lawa-ijo)* | **kili**, pan |
 | <img src="musi/sitelen/pona/kiwen.png" height="12">    | **kiwen**    | | *[IJO](#nimi-lawa-ijo)* | **kiwen**, ko, kon, telo |
 | <img src="musi/sitelen/pona/ko.png" height="12">       | **ko**       | | *[IJO](#nimi-lawa-ijo)* | kiwen, **ko**, kon, telo |
 | <img src="musi/sitelen/pona/kon.png" height="12">      | **kon**      | | *[IJO](#nimi-lawa-ijo)* | kiwen, ko, **kon**, telo |
@@ -2018,7 +2018,7 @@
 | <img src="musi/sitelen/pona/pali.png" height="12">     | **pali**     | *e ijo*       | prilabori | **pali** — lape, musi |
 | <img src="musi/sitelen/pona/palisa.png" height="12">   | **palisa**   | | *[IJO](#nimi-lawa-ijo)* | linja, **palisa** |
 |                                                        |              | | *[WAN SIJELO](#wan-sijelo)* | kute, lawa, luka, lukin, noka, **palisa**, pilin, selo, uta |
-| <img src="musi/sitelen/pona/pan.png" height="12">      | **pan**      |               | ? | |
+| <img src="musi/sitelen/pona/pan.png" height="12">      | **pan**      | | *[IJO](#nimi-lawa-ijo)* | kili, **pan** |
 | <img src="musi/sitelen/pona/pana.png" height="12">     | **pana**     | | *[PALI](#nimi-lawa-pali)* | jo, **pana** |
 | <img src="musi/sitelen/pona/pi.png" height="12">       | **pi**       | | *[LILI](#nimi-lili-pi)* | e, li, o, **pi** |
 | <img src="musi/sitelen/pona/pilin.png" height="12">    | **pilin**    | | *[WAN SIJELO](#wan-sijelo)* | kute, lawa, luka, lukin, noka, palisa, **pilin**, selo, uta |
@@ -2069,5 +2069,3 @@
 | <img src="musi/sitelen/pona/wawa.png" height="12">     | **wawa**     | | *[PONA](#nimi-pona)* | lili — mute, suli, **wawa** |
 | <img src="musi/sitelen/pona/weka.png" height="12">     | **weka**     | | *[NASIN](#nimi-nasin)* | **weka** — insa, poka, sin |
 | <img src="musi/sitelen/pona/wile.png" height="12">     | **wile**     | | *[WAWA POKA](#nimi-wawa-poka)* | kama, ken, lukin, open, **wile** |
-
-
