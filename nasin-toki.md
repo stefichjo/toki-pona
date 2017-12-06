@@ -1994,7 +1994,7 @@
 | <img src="musi/sitelen/pona/mi.png" height="12">       | **mi**       | *[ESUN](#nimi-lawa-esun)* | **mi**, ona, sina |
 | <img src="musi/sitelen/pona/mije.png" height="12">     | **mije**     | *[JAN](#nimi-lawa-jan)* | mama, meli, **mije** |
 | <img src="musi/sitelen/pona/moku.png" height="12">     | **moku**     | *e ijo* gluti |
-| <img src="musi/sitelen/pona/moli.png" height="12">     | **moli**     | *-* mortinta | **moli**, sijelo |
+| <img src="musi/sitelen/pona/moli.png" height="12">     | **moli**     | *[IJO](#nimi-lawa-ijo)* | **moli**, sijelo |
 | <img src="musi/sitelen/pona/monsi.png" height="12">    | **monsi**    | *[NASIN](#nimi-nasin)* | **monsi**, sinpin |
 | <img src="musi/sitelen/pona/mu.png" height="12">       | **mu**       | *[KALAMA](#nimi-lili-kalama)* | **mu** — a, ala |
 | <img src="musi/sitelen/pona/mun.png" height="12">      | **mun**      | *[IJO](#nimi-lawa-ijo)* | ma, **mun** |
@@ -2037,7 +2037,7 @@
 |                                                        |              | *[PONA](#nimi-pona)* | open, **selo** |
 | <img src="musi/sitelen/pona/seme.png" height="12">     | **seme**     | *[PALISA](#nimi-poka-palisa)* | ala, ale, ni, **seme** |
 | <img src="musi/sitelen/pona/sewi.png" height="12">     | **sewi**     | *[NASIN](#nimi-nasin)* | anpa, **sewi** |
-| <img src="musi/sitelen/pona/sijelo.png" height="12">   | **sijelo**   | *ijo* vivanta | moli, **sijelo** |
+| <img src="musi/sitelen/pona/sijelo.png" height="12">   | **sijelo**   | *[IJO](#nimi-lawa-ijo)* | moli, **sijelo** |
 | <img src="musi/sitelen/pona/sike.png" height="12">     | **sike**     | *[IJO](#nimi-lawa-ijo)* | lipu, nena, **sike** |
 | <img src="musi/sitelen/pona/sin.png" height="12">      | **sin**      | *[NASIN](#nimi-nasin)* | weka — insa, poka, **sin** |
 | <img src="musi/sitelen/pona/sina.png" height="12">     | **sina**     | *[ESUN](#nimi-lawa-esun)* | mi, ona, **sina** |
