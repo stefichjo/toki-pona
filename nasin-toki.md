@@ -1970,7 +1970,7 @@
 | <img src="musi/sitelen/pona/kulupu.png" height="12">   | **kulupu**   | *[IJO](#nimi-lawa-ijo)* | **kulupu** — sijelo |
 | <img src="musi/sitelen/pona/kute.png" height="12">     | **kute**     | *[WAN SIJELO](#wan-sijelo)* | **kute**, lawa, luka, lukin, noka, palisa, pilin, selo, uta |
 | <img src="musi/sitelen/pona/la.png" height="12">       | **la**       | *[LILI](#nimi-lili-la)* |
-| <img src="musi/sitelen/pona/lape.png" height="12">     | **lape**     | *-* ripozanta | **lape**, musi |
+| <img src="musi/sitelen/pona/lape.png" height="12">     | **lape**     | *[PONA](#nimi-pona)* | **lape**, moli, musi |
 | <img src="musi/sitelen/pona/laso.png" height="12">     | **laso**     | *[KULE](#nimi-poka-kule)* | jelo, kule, **laso**, loje |
 | <img src="musi/sitelen/pona/lawa.png" height="12">     | **lawa**     | *[WAN SIJELO](#wan-sijelo)* | kute, **lawa**, luka, lukin, noka, palisa, pilin, selo, uta |
 |                                                        |              | *[NASIN](#nimi-nasin)* | **lawa**, noka |
@@ -1994,11 +1994,11 @@
 | <img src="musi/sitelen/pona/mi.png" height="12">       | **mi**       | *[ESUN](#nimi-lawa-esun)* | **mi**, ona, sina |
 | <img src="musi/sitelen/pona/mije.png" height="12">     | **mije**     | *[JAN](#nimi-lawa-jan)* | mama, meli, **mije** |
 | <img src="musi/sitelen/pona/moku.png" height="12">     | **moku**     | *e ijo* gluti |
-| <img src="musi/sitelen/pona/moli.png" height="12">     | **moli**     | | |
+| <img src="musi/sitelen/pona/moli.png" height="12">     | **moli**     | *[PONA](#nimi-pona)* | lape, **moli**, musi |
 | <img src="musi/sitelen/pona/monsi.png" height="12">    | **monsi**    | *[NASIN](#nimi-nasin)* | **monsi**, sinpin |
 | <img src="musi/sitelen/pona/mu.png" height="12">       | **mu**       | *[KALAMA](#nimi-lili-kalama)* | **mu** — a, ala |
 | <img src="musi/sitelen/pona/mun.png" height="12">      | **mun**      | *[IJO](#nimi-lawa-ijo)* | ma, **mun** |
-| <img src="musi/sitelen/pona/musi.png" height="12">     | **musi**     | *-* ludanta | lape, **musi** |
+| <img src="musi/sitelen/pona/musi.png" height="12">     | **musi**     | *[PONA](#nimi-pona)* | lape, moli, **musi** |
 | <img src="musi/sitelen/pona/mute.png" height="12">     | **mute**     | *[PONA](#nimi-pona)* | lili — **mute**, suli, wawa |
 |                                                        |              | *[NANPA](#nimi-poka-palisa-nanpa)* | esun, luka, **mute**, tu, wan |
 | <img src="musi/sitelen/pona/nanpa.png" height="12">    | **nanpa**    | *[PALI](#nimi-lawa-pali)* | kalama, **nanpa**, nimi, sitelen, sona, toki |
