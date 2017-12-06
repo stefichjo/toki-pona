@@ -2027,7 +2027,7 @@
 | <img src="musi/sitelen/pona/pini.png" height="12">     | **pini**     | *[WAWA POKA](#nimi-wawa-poka)* | awen, kama, **pini** |
 | <img src="musi/sitelen/pona/pipi.png" height="12">     | **pipi**     | *[SIJELO](#nimi-lawa-sijelo)* | kala, kasi, **pipi**, waso |
 | <img src="musi/sitelen/pona/poka.png" height="12">     | **poka**     | *ijo* flanka | |
-| <img src="musi/sitelen/pona/poka.png" height="12">     | **poka**     | *[NASIN](#nimi-nasin)* | weka — insa, **poka**, sin |
+|                                                        |              | *[NASIN](#nimi-nasin)* | weka — insa, **poka**, sin |
 | <img src="musi/sitelen/pona/poki.png" height="12">     | **poki**     | *ilo* plena je | lupa, **poki** |
 | <img src="musi/sitelen/pona/pona.png" height="12">     | **pona**     | *[PONA](#nimi-pona)* | **pona** – ike, nasa, pakala, utala |
 | <img src="musi/sitelen/pona/pu.png" height="12">       | **pu**       | *[LUKA](#nimi-poka-luka)* | **pu**, taso |
