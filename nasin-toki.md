@@ -1989,11 +1989,11 @@
 |                                                        | *[WAWA POKA](#nimi-wawa-poka)*      | kama, ken, **lukin**, open, wile |
 | <img src="musi/sitelen/pona/lupa.png" height="12">     | *[IJO](#nimi-lawa-ijo)*             | **lupa**, nasin |
 | <img src="musi/sitelen/pona/ma.png" height="12">       | *[IJO](#nimi-lawa-ijo)*             | **ma**, mun |
-| <img src="musi/sitelen/pona/mama.png" height="12">     | *[JAN](#nimi-lawa-jan)*             | **mama** — meli, mije |
+| <img src="musi/sitelen/pona/mama.png" height="12">     | *[JAN](#nimi-lawa-jan)*             | **mama** |
 | <img src="musi/sitelen/pona/mani.png" height="12">     | *[IJO](#nimi-lawa-ijo)*             | alasa, esun, **mani**, pali |
-| <img src="musi/sitelen/pona/meli.png" height="12">     | *[JAN](#nimi-lawa-jan)*             | mama — **meli**, mije |
+| <img src="musi/sitelen/pona/meli.png" height="12">     | *[JAN](#nimi-lawa-jan)*             | **meli**, mije |
 | <img src="musi/sitelen/pona/mi.png" height="12">       | *[ESUN](#nimi-lawa-esun)*           | **mi**, ona, sina |
-| <img src="musi/sitelen/pona/mije.png" height="12">     | *[JAN](#nimi-lawa-jan)*             | mama — meli, **mije** |
+| <img src="musi/sitelen/pona/mije.png" height="12">     | *[JAN](#nimi-lawa-jan)*             | meli, **mije** |
 | <img src="musi/sitelen/pona/moku.png" height="12">     | *[IJO](#nimi-lawa-ijo)*             | **moku** |
 | <img src="musi/sitelen/pona/moli.png" height="12">     | *[PONA](#nimi-pona)*                | lape, **moli**, musi |
 | <img src="musi/sitelen/pona/monsi.png" height="12">    | *[NASIN](#nimi-nasin)*              | **monsi** — sinpin |
