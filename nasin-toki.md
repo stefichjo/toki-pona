@@ -308,10 +308,10 @@
 * ***a***! *(Ha!, Ho! — Ha!, Wow!)*
 * ***mu***! *(Bla! — Blah!)*
 
-| | a |
-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | Ha!, Ho! |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | Ha!, Wow! |
+| | a! | mu! |
+|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | Ha!, Ho! | Bla! |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | Ha!, Wow! | Blah! |
 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ala" li ken kama **nimi lili kalama**. **nimi lili kalama** li ken tawa.  
