@@ -301,20 +301,28 @@
 ##### nimi lili kalama
 *(Interjekcio — Interjection)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan li ken toki e pilin kepeken **nimi lili kalama** pi wan taso.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Oni povas esprimi emocion per nura **interjekcio**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> One can express an emotion by means of a plain **interjection**.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan li ken toki e pilin kepeken **nimi lili kalama** pi wan taso sama ni: ona li [mute nimi](#mute-nimi). nimi "ala" li ken kama **nimi lili kalama**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Oni povas esprimi emocion per nura **interjekcio** kvazaŭ ĝi estus [frazo](#mute-nimi). "ala" povas fariĝi **interjekcio**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> One can express an emotion by means of a plain **interjection** as if it were a [sentence](#mute-nimi). "ala" can become an **interjection**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | a! | mu! |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | a! | ala! | mu! |
+|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ha!, Ho!* | *Ne!* | *Bla!, Miaŭ!* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Ha!, Wow!* | *No!* | *Blah!, Meeow!* |
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili kalama** li ken kama [nimi lawa pali](#nimi-lawa-pali).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Interjekcio** povas fariĝi [aga substantivo](#nimi-lawa-pali).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> An **interjection** can become a [action noun](#nimi-lawa-pali).
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | soweli li kalama "mu". → soweli li mu. | ona li kute e nimi "mu" wawa. → ona li kute e mu wawa. |
 |:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ha!, Ho!* | *Bla!, Miaŭ!* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Ha!, Wow!* | *Blah!, Meeow!* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *La besto blekas.* | *Ŝi aŭdis laŭtan blekon.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The animal bleats.* | *She heard a loud bleat.* |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ala" li ken kama **nimi lili kalama**. **nimi lili kalama** li ken tawa.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "ala" povas fariĝi **interjekcio**. **Interjekcioj** povas moviĝi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ala" can become an **interjection**. **Interjections** can move.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili kalama** li ken tawa.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Interjekcioj** povas moviĝi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Interjections** can move.
 
-* ***ala***! *(Ne! — No!)*
 * o kepeken ilo ike ***ala***. *(Uzu neniujn malĝustajn instrumentojn. — Don't use any wrong tools.)*
   * o kepeken — ***ala*** — ilo ike. *(Ne uzu la malĝustajn instrumentojn. — Don't use the wrong tools.)*
     * → o kepeken ***ala*** ilo ike.
@@ -322,14 +330,15 @@
   * sina suli — ***a***! *(Vi estas ja granda! — You are so tall!)*
     * → sina suli ***a***!
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili kalama** li ken kama [nimi lawa pali](#nimi-lawa-pali).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Interjekcio** povas fariĝi [aga substantivo](#nimi-lawa-pali).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> An **interjection** can become a [action noun](#nimi-lawa-pali).
 
-* soweli li ~~kalama~~ "***mu***". *(La besto blekas. — The animal bleats.)*
-  * → soweli li ***mu***.
-* ona li kute e ~~nimi~~ ***"mu"*** wawa. *(Li aŭdis laŭtan blekon. — He heard a loud bleat.)*
-  * → ona li kute e ***mu*** wawa.
+###### nimi lili kalama musi
+*(Eksperimentaj Interjekcioj — Experimental Interjections)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili kalama](#nimi-lili-kalama) li ken jo e kon pi [nimi poka](#nimi-poka) tan [nimi lili kalama](#nimi-lili-kalama) sama.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Interjekcio](#nimi-lili-kalama) povas havi la signifon de la [modifilo](#nimi-poka) derivita de ĉi [interjekcio](#nimi-lili-kalama).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> An [interjection](#nimi-lili-kalama) can have the meaning of the [modifier](#nimi-poka) derived from that very [interjection](#nimi-lili-kalama).
+
+* ***a***, sina suli. *(Jes, vi estas granda. — Yes, you are tall.)*
 
 ### nimi suli
 *(Radikaj Vortoj — Content Words)*
@@ -730,15 +739,6 @@
 
 * mi lukin mute. mi sona lili. *(Mi vidas multe kaj scias malmulte. — I am seeing much and knowing little.)*
   * → mi ***li*** lukin mute ***li*** sona lili.
-
-#### nimi lili kalama musi
-*(Eksperimentaj Interjekcioj — Experimental Interjections)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili kalama](#nimi-lili-kalama) li ken jo e kon pi [nimi poka](#nimi-poka) tan [nimi lili kalama](#nimi-lili-kalama) sama.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Interjekcio](#nimi-lili-kalama) povas havi la signifon de la [modifilo](#nimi-poka) derivita de ĉi [interjekcio](#nimi-lili-kalama).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> An [interjection](#nimi-lili-kalama) can have the meaning of the [modifier](#nimi-poka) derived from that very [interjection](#nimi-lili-kalama).
-
-* ***a***, sina suli. *(Jes, vi estas granda. — Yes, you are tall.)*
 
 ### nimi suli musi
 *(Eksperimentaj Radikaj Vortoj — Experimental Content Words)*
