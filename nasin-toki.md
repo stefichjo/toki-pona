@@ -301,14 +301,23 @@
 ##### nimi lili kalama
 *(Interjekcio — Interjection)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan li ken toki e pilin kepeken **nimi lili kalama** pi wan taso sama ni: ona li [mute nimi](#mute-nimi). nimi "ala" li ken kama **nimi lili kalama**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Oni povas esprimi emocion per nura **interjekcio** kvazaŭ ĝi estus [frazo](#mute-nimi). "ala" povas fariĝi **interjekcio**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> One can express an emotion by means of a plain **interjection** as if it were a [sentence](#mute-nimi). "ala" can become an **interjection**.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan li ken toki e pilin kepeken **nimi lili kalama** pi wan taso sama ni: ona li [mute nimi](#mute-nimi).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Oni povas esprimi emocion per nura **interjekcio** kvazaŭ ĝi estus [frazo](#mute-nimi).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> One can express an emotion by means of a plain **interjection** as if it were a [sentence](#mute-nimi).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | a! | ala! | mu! |
-|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ha!, Ho!* | *Ne!* | *Bla!, Miaŭ!* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Ha!, Wow!* | *No!* | *Blah!, Meeow!* |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | a! | mu! |
+|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ha!, Ho!* | *Bla!, Miaŭ!* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Ha!, Wow!* | *Blah!, Meeow!* |
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) "ala" li ken kama **nimi lili kalama**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [modifilo](#nimi-poka) "ala" povas fariĝi **interjekcio**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [modifier](#nimi-poka) "ala" can become an **interjection**.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala! |
+|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ne!* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *No!* |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili kalama** li ken kama [nimi lawa pali](#nimi-lawa-pali).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Interjekcio** povas fariĝi [aga substantivo](#nimi-lawa-pali).  
@@ -318,6 +327,8 @@
 |:-|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *La besto blekas.* | *Ŝi aŭdis laŭtan blekon.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The animal bleats.* | *She heard a loud bleat.* |
+
+---
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili kalama** li ken tawa.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Interjekcioj** povas moviĝi.  
@@ -329,7 +340,6 @@
 * sina suli, ***a***! *(Vi estas granda, ho! — You are tall, wow!)*
   * sina suli — ***a***! *(Vi estas ja granda! — You are so tall!)*
     * → sina suli ***a***!
-
 
 ###### nimi lili kalama musi
 *(Eksperimentaj Interjekcioj — Experimental Interjections)*
@@ -573,11 +583,11 @@
 
 * mi pana ***e*** kili ***tawa*** sina. *(Mi donas la pomon al vi. — I'm giving you the apple.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa](#nimi-wawa) en **nimi poka luka** li sama, la [nimi wawa](#nimi-wawa) li kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [verbo](#nimi-wawa) kaj **prepozicio** estas la samaj, la [verbo](#nimi-wawa) malaperas.  
-<img src="musi/sitelen/len-ma/en.png" height="18"> If a [verb](#nimi-wawa) and a **preposition** estas the same, the [verb](#nimi-wawa) disappears.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa](#nimi-wawa) en **nimi poka luka** li sama, la **nimi poka luka** li kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [verbo](#nimi-wawa) kaj **prepozicio** estas la samaj, la **prepozicio** malaperas.  
+<img src="musi/sitelen/len-ma/en.png" height="18"> If a [verb](#nimi-wawa) and a **preposition** estas the same, the **preposition** disappears.
 
-* mi ~~tawa~~ ***tawa*** tomo seli. *(Mi iras al la kuirejo. — I'm going to the kitchen.)*
+* mi ***tawa*** ~~tawa~~ tomo seli. *(Mi iras al la kuirejo. — I'm going to the kitchen.)*
   * → mi ***tawa*** tomo seli.
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **nimi poka luka** lon pini taso pi [mute nimi](#mute-nimi). tan ni la jan **Sonja** li weka e **sitelen nanpa** lon **nimi poka luka** tu. sin la ona li kepeken **nimi poka** (anu **nimi lili** "[e](#nimi-lili-e)") li kepeken ala **nimi poka luka**.  
