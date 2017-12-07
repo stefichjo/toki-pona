@@ -308,11 +308,10 @@
 * ***a***! *(Ha!, Ho! — Ha!, Wow!)*
 * ***mu***! *(Bla!, Miaŭ! — Blah!, Meeow!)*
 
-| | a! | mu! |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | a! | mu! |
 |:-|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | Ha!, Ho! | Bla!, Miaŭ! |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | Ha!, Wow! | Blah!, Meeow! |
-
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ala" li ken kama **nimi lili kalama**. **nimi lili kalama** li ken tawa.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> "ala" povas fariĝi **interjekcio**. **Interjekcioj** povas moviĝi.  
