@@ -560,19 +560,14 @@
 | [nimi lawa ilo](#nimi-lawa-ilo) |
 | [nimi lawa sijelo](#nimi-lawa-sijelo) |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) li jo e kon sin, la ona li lon [ale pi nimi mute](#ale-pi-nimi-mute) lon poka pi sitelen *([LAWA](#nimi-lawa))*.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [substantivo](#nimi-lawa) havas aldonan signifon, ĝi estas en la [vortaro](#ale-pi-nimi-mute) apud la marko *([LAWA](#nimi-lawa))*.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [noun](#nimi-lawa) has an additional meaning, it is in the [dictionary](#ale-pi-nimi-mute) next to the mark-up *([LAWA](#nimi-lawa))*.
-
-* suwi *(dolĉeco — sweetness)*
-  * → ***suwi*** *(dolĉaĵo — sweets)*
-
 ##### nimi lawa esun
 *(Pronomoj — Pronouns)*
 
-* ***mi*** *(mi, ni — I, we)*
-* ***sina*** *(vi — you)*
-* ***ona*** *(ŝi, li, ĝi, ili — she, he, it, they)*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi | sina | ona |
+|:-:|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *mi, ni* | *vi* | *ŝi, li, ĝi, ili* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I, we* | *you* | *she, he, it, they* |
+
 
 ##### nimi lawa pona
 *(Simplaj Substantivoj — Simple Nouns)*
