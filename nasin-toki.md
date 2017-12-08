@@ -310,15 +310,6 @@
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ha!, Ho!* | *Bla!, Miaŭ!* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Ha!, Wow!* | *Blah!, Meeow!* |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) "ala" li ken kama **nimi lili kalama**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [modifilo](#nimi-poka) "ala" povas fariĝi **interjekcio**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [modifier](#nimi-poka) "ala" can become an **interjection**.
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala! |
-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ne!* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *No!* |
-
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili kalama** li ken kama [nimi lawa pali](#nimi-lawa-pali).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Interjekcio** povas fariĝi [aga substantivo](#nimi-lawa-pali).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> An **interjection** can become a [action noun](#nimi-lawa-pali).
@@ -328,17 +319,26 @@
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *La besto blekas.* | *Ŝi aŭdis laŭtan blekon.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The animal bleats.* | *She heard a loud bleat.* |
 
----
-
-
 ###### nimi lili kalama musi
 *(Eksperimentaj Interjekcioj — Experimental Interjections)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili kalama](#nimi-lili-kalama) li ken jo e kon pi [nimi poka](#nimi-poka) tan [nimi lili kalama](#nimi-lili-kalama) sama.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Interjekcio](#nimi-lili-kalama) povas havi la signifon de la [modifilo](#nimi-poka) derivita de ĉi [interjekcio](#nimi-lili-kalama).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> An [interjection](#nimi-lili-kalama) can have the meaning of the [modifier](#nimi-poka) derived from that very [interjection](#nimi-lili-kalama).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) "ala" li ken kama **nimi lili kalama**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [modifilo](#nimi-poka) "ala" povas fariĝi **interjekcio**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [modifier](#nimi-poka) "ala" can become an **interjection**.
 
-* ***a***, sina suli. *(Jes, vi estas granda. — Yes, you are tall.)*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala! |
+|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ve!* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Outch!* |
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili kalama** li ken kama [nimi poka](#nimi-poka).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Interjekcio** povas fariĝi [modifilo](#nimi-poka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> An **interjection** can become a [modifier](#nimi-poka).
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | a |
+|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *efektive, jes* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *indeed, yes* |
 
 ### nimi suli
 *(Radikaj Vortoj — Content Words)*
@@ -584,14 +584,6 @@
 * o ***kepeken*** ***ala*** ~~kepeken~~ ilo ike. *(Ne uzu la malĝustajn instrumentojn. — Don't use the wrong tools.)*
   * o ***kepeken ala*** ilo ike.
   
----
-
-* sina suli, ***a***! *(Vi estas granda, ho! — You are tall, wow!)*
-  * sina suli — ***a***! *(Vi estas ja granda! — You are so tall!)*
-    * → sina suli ***a***!
-
----
-
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **nimi poka luka** lon pini taso pi [mute nimi](#mute-nimi). tan ni la jan **Sonja** li weka e **sitelen nanpa** lon **nimi poka luka** tu. sin la ona li kepeken **nimi poka** (anu **nimi lili** "[e](#nimi-lili-e)") li kepeken ala **nimi poka luka**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** uzas **prepoziciojn** nur fine de [frazo](#mute-nimi). Tial **Sonja** ellasas la **komon** ĉe du **prepozicioj**. Aldone, ŝi uzas **modifilon** (aŭ la **partikulon** "[pi](#nimi-lili-pi)" anstataŭ **prepozicio**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** uses **prepositions** only at the end of a [sentence](#mute-nimi). Because of that, **Sonja** removes the **comma** between two **prepositions**. In addition, she uses **modifiers** (or the **particle** "[pi](#nimi-lili-pi)") instead of **prepositions**.
