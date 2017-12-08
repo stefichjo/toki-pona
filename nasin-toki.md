@@ -77,37 +77,6 @@
 | [nimi lili luka](#nimi-lili-luka) |
 | [nimi lili pi luka ala](#nimi-lili-pi-luka-ala) |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kama en pini pi **nimi lili** "[li](#nimi-lili-li)", "[e](#nimi-lili-e)", "[o](#nimi-lili-o)", "[pi](#nimi-lili-pi)", "[en](#nimi-lili-en-anu)", "[anu](#nimi-lili-en-anu)" la [nimi suli](#nimi-suli) li lon.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Antaŭ kaj malantaŭ la **partikuloj** "[li](#nimi-lili-li)", "[e](#nimi-lili-e)", "[o](#nimi-lili-o)", "[pi](#nimi-lili-pi)", "[en](#nimi-lili-en-anu)", "[anu](#nimi-lili-en-anu)" estas [radikaj vortoj](#nimi-suli).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Before and after the **particles** "[li](#nimi-lili-li)", "[e](#nimi-lili-e)", "[o](#nimi-lili-o)", "[pi](#nimi-lili-pi)", "[en](#nimi-lili-en-anu)", "[anu](#nimi-lili-en-anu)" are [content words](#nimi-suli).
-
-* jan ***pi*** toki pona ***o*** toki ***e*** ni: sina ***en*** mi ***li*** sona ***e*** toki sama ***anu*** seme? *(Diru, tokiponisto, ĉu vi kaj mi konas la saman lingvon? — Tell me, Tokiponan, do you and I know the same language?)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "[la](#nimi-lili-la)" la [mute nimi](#mute-nimi) li lon. pini ona li lon kama pi **nimi lili** "[la](#nimi-lili-la)".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ la **partikulo** "[la](#nimi-lili-la)" estas [frazo](#mute-nimi). Ĝia fino estas antaŭ la **partikulo** "[la](#nimi-lili-la)".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After the **particle** "[la](#nimi-lili-la)" is a [sentence](#mute-nimi). Its end is before the **particle** "[la](#nimi-lili-la)".
-
-* tan seme ***la*** sina pu? *(Kial vi konsultas la Oficialan Libron de Tokipono? — Why do you interact with the Official Toki Pona Book?)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> sin la [nimi lili toki](#nimi-lili-toki) en [nimi lili kalama](#nimi-lili-kalama) li [nimi lili](#nimi-lili). [nimi lili toki](#nimi-lili-toki) li lon pini pi [nimi lawa](#nimi-lawa). [nimi lili kalama](#nimi-lili-kalama) li ken kama [nimi poka](#nimi-poka) pi [nimi poka luka](#nimi-poka-luka) a.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Aldone, [citaĵoj](#nimi-lili-toki) kaj [interjekcioj](#nimi-lili-kalama) estas [partikuloj](#nimi-lili). [Citaĵo](#nimi-lili-toki) estas malantaŭ [substantivo](#nimi-lawa). [Interjekcio](#nimi-lili-kalama) povas fariĝi [modifilo](#nimi-poka) eĉ de [prepozicio](#nimi-poka-luka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> In addition, [quotes](#nimi-lili-toki) en [interjections](#nimi-lili-kalama) are [particles](#nimi-lili). [Quotes](#nimi-lili-toki) are after [nouns](#nimi-lawa). [Interjections](#nimi-lili-kalama) can become [modifiers](#nimi-poka) even of [prepositions](#nimi-poka-luka).
-
-* ona li jo e nimi "***Sonja***". *(Ŝi havas la nomon "Sonja". — She has the name "Sonja".)*
-* sina suli ***a***! *(Vi estas ja granda! — You're so tall!)*
-* sina kepeken ***ala*** toki pona. *(Vi ne uzas Tokiponon. — You don't use Toki Pona.)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "nanpa" li ken kama wan pi [nimi lili toki](#nimi-lili-toki). ken la tan ni la jan **Sonja** li pana e nimi sama tawa nimi "nanpa".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "nanpa" povas fariĝi parto de [citaĵo](#nimi-lili-toki). Eble tial **Sonja** donas al "nanpa" la saman nomon.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "nanpa" can become a part of a [qutation](#nimi-lili-toki). Maybe this is why **Sonja** calls "nanpa" in the same way.
-
-* sina nanpa ***wan***. *(Vi estas la numero unu. — You're number one.)*
-* toki ***nanpa wan***. *(la lingvo numero unu — the language number one)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li pana e nimi sama tawa nimi "seme", "taso". taso lipu ni la nimi tu ni li [nimi suli](#nimi-suli): nimi "seme" li [nimi poka palisa](#nimi-poka-palisa), nimi "taso" li [nimi poka luka musi](#nimi-poka-luka-musi).   
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** nomas same la vortojn "seme", "taso". Sed en tiu ĉi libro, tiuj du vortoj estas [radikaj vortoj](#nimi-suli): "seme" estas [korelativo](#nimi-poka-palisa) kaj "taso" estas [eksperimenta prepozicio](#nimi-poka-luka-musi).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** calls the words "seme", "taso" in the same way. But in this book, these two words are [content words](#nimi-suli): "seme" is a [correlative](#nimi-poka-palisa) and "taso" is an [experimental preposition](#nimi-poka-luka-musi).
-
 #### nimi lili luka
 *(Transitivaj Partikuloj — Transitive Particles)*
 
@@ -124,54 +93,126 @@
 ##### nimi lili "li"
 *(Subjekto kaj Predikato — Subject and Predicate)*
 
+| [↑](#nimi-lili-luka) |
+|:-:|
+| [li°](#nimi-lili-li-musi) |
+| [li!](#nimi-lili-li-nasa) |
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon kama pi **nimi lili** "li" li nimi "mi" taso anu nimi "sina" taso, la **nimi lili** "li" li kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se la subjekto (t.e. la vortoj antaŭ la **partikulo** "li") estas nura "mi" aŭ nura "sina", la **partikulo** "li" malaperas.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If the subject (i.e. the words before the **particle** "li") is just "mi" or "sina", the **particle** "li" disappears.
 
-* ***mi*** ~~li~~ mije. *(Mi estas viro. — I am a man.)*
-  * → ***mi*** mije.
-* ***sina*** ~~li~~ sin. *(Vi estas nova. — You are new.)*
-  * → ***sina*** sin.
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi li mije. → mi mije. | sina li sin. → sina sin. |
+|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi estas viro.* | *Vi estas nova.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am a man.* | *You are new.* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [mute nimi](#mute-nimi) li ken jo e **nimi lili** "li" mute. **sitelen nanpa** ona li ken kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Frazo](#mute-nimi) povas havi plurajn predikatojn (t.e. la vortoj malantaŭ la **partikulo** "li"). Iliaj **komoj** povas malaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [sentence](#mute-nimi) can have multiple predicates (i.e. the words after the **particle** "li"). Their **commas** can disappear.
 
-* ma mama ***li*** lili, ***li*** lete. *(La patrujo estas malgranda kaj malvarma. — The motherland is small and cold.)*
-  * → ma mama ***li*** lili ***li*** lete.
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ma mama li lili, li lete. → ma mama li lili li lete. |
+|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *La patrujo estas malgranda kaj malvarma.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The motherland is small and cold.* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan li ken toki sin kepeken nimi lon pini taso pi **nimi lili** "li".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Oni povas respondi per nura predikato (t.e. la vortoj malantaŭ la **partikulo** "li").  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> One can reply by just a predicate (i.e. the words after the **particle** "li").
 
-* ~~ni li~~ ***pona***! *(Dankon! — Thanks!)*
-  * → ***pona***!
-* ~~ona li~~ ***mama***. *(Jes. (Ŝi estas gepatro.) — Yes. (She is a parent.))*
-  * → ***mama***.
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ni li pona. → pona. | ona li mama. → mama. |
+|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Tio estas bona.* → *Bone., Dankon.* | *Ŝi estas gepatro.* → *She estas., Jes.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *This is good.* → *Good., Thanks.* | *She is a parent.* → *She is., Yes.* |
+
+
+###### nimi lili "li" musi
+*(Eksperimentaj Subjekto kaj Predikato — Experimental Subject and Predicate)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> lon pini pi nimi "mi" anu nimi "sina" la [nimi lili "li"](#nimi-lili-li) li kama weka ala lon ni: [nimi lili "li"](#nimi-lili-li) nanpa tu li lon.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ "mi" aŭ "sina" la [partikulo "li"](#nimi-lili-li) ne malaperas, se estas dua [partikulo "li"](#nimi-lili-li).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After "mi" or "sina" the [particle "li"](#nimi-lili-li) doesn't disappear, if there is a second [particle "li"](#nimi-lili-li).
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi lukin mute. mi sona lili. → mi li lukin mute li sona lili. |
+|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi vidas multe kaj scias malmulte.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am seeing much and knowing little.* |
+
+
+###### nimi lili "li" nasa
+*(Strangaj Subjekto kaj Predikato — Strange Subject and Predicate)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li weka e [nimi lili "li"](#nimi-lili-li) nanpa wan taso lon pini pi nimi "mi" anu nimi "sina".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** forigas nur la unuan [partikulon "li"](#nimi-lili-li) post "mi" aŭ "sina".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** removes only the first [particle "li"](#nimi-lili-li) after "mi" or "sina".
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi lukin mute. mi sona lili. → mi lukin mute li sona lili. |
+|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi vidas multe kaj scias malmulte.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am seeing much and knowing little.* |
+
 
 ##### nimi lili "e"
 *(Rekta Objekto — Direct Object)*
+
+| [↑](#nimi-lili-luka) |
+|:-:|
+| [e+](#nimi-lili-e-namako) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ijo" taso li lon pini pi **nimi lili** "e", la ona li ken kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Nura "ijo" kiel rekta objekto (t.e. la vortoj malantaŭ la **partikulo** "e") povas malaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> Plain "ijo" as the direct object (i.e. the words after the **particle** "e") can disappear.
 
-* mije li sona ***e ijo***. *(La viro scias aferojn. — The man knows things.)*
-  * → mije li sona. *(La viro scias. — The man knows.)*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mije li sona e ijo. → mije li sona. |
+|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *La viro scias aferojn.* → *La viro scias.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The man knows things.* → *The man knows.* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi **nimi lili** "li" li ken jo e **nimi lili** "e" mute. ***sitelen nanpa*** ona li ken kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Predikato (t.e. la vortoj malantaŭ la **partikulo** "li") povas havi plurajn rektajn objektojn (t.e. la vortoij malantaŭ la **partikulo** "e"). Iliaj ***komoj*** povas malaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A predicate (i.e. the words after the **particle** "li") can have multiple direct objects (i.e. the words after the **particle** "e"). Their ***commas*** can disappear.
 
-* ona li seli ***e*** soweli, ***e*** pan. *(Ŝi kuiras la viandon kaj la rizon. — She cooks the meat and the rice.)*
-  * → ona li seli ***e*** soweli ***e*** pan.
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
+|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi kuiras la viandon kaj la rizon.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She cooks the meat and the rice.* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan li ken toki e wile kepeken nimi lon pini taso pi **nimi lili** "e".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Oni povas komuniki deziron per nura rekta objekto (t.e. la vortoj malantaŭ la **partikulo** "e").  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> One can express a desire by just a direct object (i.e. the words after the **particle** "e").
 
-* ~~tawa pona sina la mi wile e~~ ***moku pona***. *(Mi bondeziras al vi bonan manĝon. — I wish you a good meal.)*
-  * → ***moku pona***! *(Bonan apetiton! — Bon appétit!)*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tawa pona sina la mi wile e moku pona. → moku pona! |
+|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi bondeziras al vi bonan manĝon.* → *Bonan apetiton!* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I wish you a good meal.* → *Bon appétit!* |
+
+
+###### nimi lili "e" namako
+*(Aldona Rekta Objekto — Additional Rekta Objekto)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi nimi "pana e" li ken kama [nimi wawa luka](#nimi-wawa-luka).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La rekta objekto de "pana" povas fariĝi [transitiva verbo](#nimi-wawa-luka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The direct object of "pana" can become a [transitive verb](#nimi-wawa-luka).
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li pana e telo tawa kasi. → ona li telo e kasi. | ona li telo e kasi. |
+|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi donas akvon al la planto.* → *Ŝi akvumas la planton.* | *Ŝi malsekigas la planton.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She gives water to the plant.* → *She waters the plant.* | *She makes the plant wet.* |
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> poka pi nimi "utala" la [nimi poka luka](#nimi-poka-luka) "tawa" li ken kama [nimi lili "e"](#nimi-lili-e).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Kun "utala", la [prepozicio](#nimi-poka-luka) "tawa" povas fariĝi la [partikulo "e"](#nimi-lili-e).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> With "utala", the [preposition](#nimi-poka-luka) "tawa" can become the [particle "e"](#nimi-lili-e).
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li utala tawa jan ike. → ona li utala e jan ike. | ona li utala e jan ike. |
+|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi batalas la malamikon.* | *Ŝi provokas/atakas la malamikon.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She fights the enemy.* | *She is provoking/attacking the enemy.* |
+
 
 ##### nimi lili "o"
 *(Volativo, Vokativo kaj Imperativo — Volative, Vocative and Imperative)*
@@ -180,23 +221,30 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> "sina" povas malaperi antaŭ la **partikulo** "o".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> "sina" can disappear before the **particle** "o".
 
-* sina ***o*** lukin. *(Vi rigardu. — You should look.)*
-  * → ***o*** lukin! *(Rigardu! — Look!)*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina o lukin. → o lukin! | jan Ali o wawa. → jan Ali o wawa! |
+|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Vi rigardu.* → *Rigardu!* | *Ali estu forta.* → *Ali, estu forta!* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You should look.* → *Look!* | *Ali should be strong.* → *Ali, be strong!* |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "o" la nimi "kute" li ken kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "kute" povas malaperi malantaŭ la **partikulo** "o".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "kute" can disappear after the **particle** "o".
 
-* jan pona ***o*** kute. *(Amiko aŭskultu. — A friend should listen.)*
-  * → jan pona ***o***! *(Ho amiko! — Hey friend!)*
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "o" la nimi "kute" li ken kama weka. jan **Sonja** li kepeken ala **nimi lili** "o" tu.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "kute" povas malaperi malantaŭ la **partikulo** "o". **Sonja** ne kombinas du **partikulojn** "o".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "kute" can disappear after the **particle** "o". **Sonja** doesn't combine two "o"-**particles**.
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken ala **nimi lili** "o" tu.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** ne kombinas du **partikulojn** "o".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** doesn't combine two "o"-**particles**.
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | o kute! → o! | jan Ali o, o wawa! → jan Ali o wawa! |
+|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Aŭskultu!* → *Ho!* | *Ho Ali, estu forta!* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Listen!* → *Hey!* | *Hey Ali, be strong!* |
 
-* jan Ali ***o*** wawa. *(Ali estu forta. — Ali should be strong.)*
-* jan Ali ***o***, ***o*** wawa. *(Ho Ali, estu forta. — Hey Ali, be strong.)*
-  * → jan Ali ***o*** wawa.
+
+###### nimi lili "o" nasa
+*(Strangaj Volativo, Vokativo kaj Imperativo — Strange Volative, Vocative and Imperative)*
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ni o kama: sina lape pona. → o sina lape pona. |
+|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ke vi dormu bone.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *May you sleep well.* |
+
 
 ##### nimi lili "pi"
 *(Genitivo — Genitive)*
@@ -244,28 +292,52 @@
 ##### nimi lili "la"
 *(Kunteksta Frazero — Contextual Fragment)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kepeken **nimi lili** "la" la [nimi poka luka](#nimi-poka-luka) li ken kama lon kama pi [mute nimi](#mute-nimi).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Per la **partikulo** "la", [prepozicio](#nimi-poka-luka) povas aperi ĉe la komenco de [frazo](#mute-nimi).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> By means of the **particle** "la", a [preposition](#nimi-poka-luka) can appear at the beginning of a [sentence](#mute-nimi).
+| [↑](#nimi-lili-luka) |
+|:-:|
+| [la!](#nimi-lili-la-nasa) |
 
-* sina pana e nimi "pona" tawa mi ***tan*** seme? *(Kial vi nomas min bona? — Why are you calling me good?)*
-  * → ***tan*** seme ***la*** sina pana e nimi "pona" tawa mi?
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kepeken **nimi lili "la"** la [nimi poka luka](#nimi-poka-luka) li ken lon kama pi [mute nimi](#mute-nimi).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Pere de la **partikulo "la"**, [prepozicio](#nimi-poka-luka) povas esti komence de [frazo](#mute-nimi).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> By means of the **particle "la"**, a [preposition](#nimi-poka-luka) can be at the beginning of a [sentence](#mute-nimi).
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina pana e nimi "pona" tawa mi tan seme? → tan seme la sina pana e nimi "pona" tawa mi? |
+|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Kial vi nomas min bona?* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Why are you calling me good?* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi [mute nimi](#mute-nimi) la [nimi poka luka](#nimi-poka-luka) "lon" li kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Komence de [frazo](#mute-nimi), la [prepozicio](#nimi-poka-luka) "lon" malaperas.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the beginning of a [sentence](#mute-nimi), the [preposition](#nimi-poka-luka) "lon" disappears.
 
-* ona li kama ***lon*** tenpo pimeja ni. *(Ŝi venas tiun ĉi nokton. — She is coming tonight.)*
-  * ~~lon~~ tenpo pimeja ***la*** ona li kama. *(Ĉi-nokte, ŝi venas. — Tonight, she is coming.)*
-    * tenpo pimeja ***la*** ona li kama.
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li kama lon tenpo pimeja ni. → tenpo pimeja ni la ona li kama. |
+|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi venas tiun ĉi nokton.* → *Ĉi-nokte, ŝi venas.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She is coming tonight.* → *Tonight, she is coming.* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ni" lon kama pi [mute nimi](#mute-nimi) li lon poka pi [mute nimi poka](#mute-nimi-poka), la nimi "ni" li kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se "ni" komence de [frazo](#mute-nimi) akompanas [subfrazon](#mute-nimi-poka), "ni" malaperas.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If "ni" at the beginning of a [sentence](#mute-nimi) accompanies a [subordinate clause](#mute-nimi-poka), "ni" disappears.
 
-* jan li pona tawa mi ***lon ni***: mi pona tawa jan. *(Homoj estas bonaj al mi, se mi estas bona al homoj. — People are good to me, if I'm good to people.)*
-  * ~~ni,~~ mi pona tawa jan, ***la*** jan li pona tawa mi. *(Se mi estas bona al homoj, homoj estas bonaj al mi. — If I'm good to people, people are good to me.)*
-    * → mi pona tawa jan, ***la*** jan li pona tawa mi.
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan li pona tawa mi lon ni: mi pona tawa jan. → mi pona tawa jan, la jan li pona tawa mi. |
+|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Homoj estas bonaj al mi, se mi estas bona al homoj.* → *Se mi estas bona al homoj, homoj estas bonaj al mi.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
+
+
+###### nimi lili "la" nasa
+*(Stranga Kunteksta Frazero — Strange Contextual Fragment)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li kepeken ala [nimi poka luka](#nimi-poka-luka) lon kama pi [mute nimi](#mute-nimi). taso ona li kepeken a [nimi poka luka nasa](#nimi-poka-luka-nasa).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** ne uzas [prepoziciojn](#nimi-poka-luka) komence de [frazo](#mute-nimi). Sed li anstataŭe uzas [strangajn prepoziciojn](#nimi-poka-luka-nasa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** doesn't use [prepositions](#nimi-poka-luka) at the beginning of a [sentence](#mute-nimi). But he uses [strange prepositions](#nimi-poka-luka-nasa) instead.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina pu tan jan seme? → tan pi jan seme la sina pu? |
+|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Pro kiu vi konsultas la tokiponan libron?* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Because of whom do you interact with the Toki Pona book?* |
+
 
 #### nimi lili pi luka ala
 *(Netransitivaj Partikuloj — Intransitive Particles)*
@@ -278,25 +350,36 @@
 ##### nimi lili toki
 *(Citaĵoj — Quotes)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili toki** li lon insa pi sitelen toki.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Citaĵo** estas inter citiloj.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Quotations** are inside quotation marks.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili toki](#nimi-lili-toki) li lon pini pi [nimi lawa](#nimi-lawa). **nimi lili toki** li lon insa pi sitelen toki.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Citaĵo](#nimi-lili-toki) estas malantaŭ [substantivo](#nimi-lawa). **Citaĵo** estas inter citiloj.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Quotes](#nimi-lili-toki) are after [nouns](#nimi-lawa). **Quotations** are inside quotation marks.
 
-* nimi "***Epelanto***" *(la vorto "Esperanto" — the word "Esperanto")*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li jo e nimi "Sonja". |
+|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi havas la nomon "Sonja".* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She has the name "Sonja".* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **sitelen toki** lon poka pi nimi "nimi" anu nimi "kalama" li ken kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Citiloj** kun "nimi" aŭ "kalama" povas malaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Quotation marks** with "nimi" or "kalama" can disappear.
 
-* toki pi nimi "***Epelanto***" *(Esperanto — Esperanto)*
-  * → toki ***Epelanto***
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | toki pi nimi "Epelanto" → toki Epelanto |
+|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *la lingvo "Esperanto"* → *Esperanto* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *the language "Esperanto"* → *Esperanto* |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li weka e [nimi lili "pi"](#nimi-lili-pi) lon kama pi nimi "nanpa" lon poka pi [nimi poka palisa nanpa](#nimi-poka-palisa-nanpa). jan **Pije** li weka ala e [nimi lili "pi"](#nimi-lili-pi) ni.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** forigas la [partikulon "pi"](#nimi-lili-pi) antaŭ "nanpa" kun [numeralo](#nimi-poka-palisa-nanpa). **Pije** ne forigas tian [partikulon "pi"](#nimi-lili-pi).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** removes the [particle "pi"](#nimi-lili-pi) before "nanpa" with a [numeral](#nimi-poka-palisa-nanpa). **Pije** doesn't remove such a [particle "pi"](#nimi-lili-pi).
 
-* lipu ***pi nanpa tu*** *(la karto kun la numero du, la dua karto — the card with the number two, the second card)*
-  * → lipu ***nanpa tu*** *(la karto numero du, la dua karto — the card number two, the second card)*
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li weka e [nimi lili "pi"](#nimi-lili-pi) lon kama pi nimi "nanpa" lon poka pi [nimi poka palisa nanpa](#nimi-poka-palisa-nanpa). ni la nimi "nanpa" li wan pi **nimi lili toki**. taso jan **Pije** li weka ala e [nimi lili "pi"](#nimi-lili-pi) ni.  
+
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** forigas la [partikulon "pi"](#nimi-lili-pi) antaŭ "nanpa" kun [numeralo](#nimi-poka-palisa-nanpa). En tiu kazo "nanpa" estas parto de citaĵo. Sed **Pije** ne forigas tian [partikulon "pi"](#nimi-lili-pi).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** removes the [particle "pi"](#nimi-lili-pi) before "nanpa" with a [numeral](#nimi-poka-palisa-nanpa). In this case, "nanpa" is part of a quote. But **Pije** doesn't remove such a [particle "pi"](#nimi-lili-pi).
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina nanpa wan | toki pi nanpa wan → toki nanpa wan |
+|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Vi estas la numero unu.* | *la lingvo kun la numero unu* → *la lingvo numero unu* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You're number one.* | *the language with the number one* → *the language number one* |
+
 
 ##### nimi lili kalama
 *(Interjekcio — Interjection)*
@@ -310,14 +393,16 @@
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ha!, Ho!* | *Bla!, Miaŭ!* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Ha!, Wow!* | *Blah!, Meeow!* |
 
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili kalama** li ken kama [nimi lawa pali](#nimi-lawa-pali).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Interjekcio** povas fariĝi [aga substantivo](#nimi-lawa-pali).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> An **interjection** can become a [action noun](#nimi-lawa-pali).
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> An **interjection** can become an [action noun](#nimi-lawa-pali).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | soweli li kalama "mu". → soweli li mu. | ona li kute e nimi "mu" wawa. → ona li kute e mu wawa. |
 |:-|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *La besto blekas.* | *Ŝi aŭdis laŭtan blekon.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The animal bleats.* | *She heard a loud bleat.* |
+
 
 ###### nimi lili kalama musi
 *(Eksperimentaj Interjekcioj — Experimental Interjections)*
@@ -331,14 +416,16 @@
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ve!* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Outch!* |
 
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili kalama** li ken kama [nimi poka](#nimi-poka).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Interjekcio** povas fariĝi [modifilo](#nimi-poka).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> An **interjection** can become a [modifier](#nimi-poka).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | a |
-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *efektive, jes* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *indeed, yes* |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | a | mu |
+|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *efektive, jes* | *ajne, nu* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *indeed, yes* | *any, well* |
+
 
 ### nimi suli
 *(Radikaj Vortoj — Content Words)*
@@ -541,6 +628,13 @@
 * tomo pi suli ***sama*** ni *(tiom granda domo — a house that big)*
   * → tomo pi suli ni *(domo de tiu grando, tiel granda domo — house of that size, such a big house)*
 
+###### nimi poka palisa namako
+*(Aldonaj Korelativoj — Additional Correlatives)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> tawa jan **Sonja** la nimi "seme" li [nimi lili](#nimi-lili).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Laŭ **Sonja** "seme" estas [partikulo](#nimi-lili).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
+
 ###### nimi poka palisa nanpa
 *(Numeraloj — Numerals)*
 
@@ -656,38 +750,7 @@
 
 | [↑](#toki-suli) |
 |:-:|
-| [nimi lili namako](#nimi-lili-namako) |
 | [nimi suli namako](#nimi-suli-namako) |
-
-### nimi lili namako
-*(Aldonaj Partikuloj — Additional Particles)*
-
-#### nimi lili "e" namako
-*(Aldona Akuzativo — Additional Accusative)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi nimi "pana e" li ken kama [nimi wawa luka](#nimi-wawa-luka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La rekta objekto de "pana" povas fariĝi [transitiva verbo](#nimi-wawa-luka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The direct object of "pana" can become a [transitive verb](#nimi-wawa-luka).
-
-* ona li ***telo*** e kasi. *(ŝi malsekigas la planton. — She makes the plant wet.)*
-* ona li pana e ***telo*** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
-  * → ona li ***telo*** e kasi. *(Ŝi akvumas la planton. — She waters the plant.)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> lon poka pi nimi "utala" la nimi "tawa" li ken kama [nimi lili "e"](#nimi-lili-e).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Kun "utala", "tawa" povas fariĝi la [partikulo "e"](#nimi-lili-e).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> With "utala", "tawa" can become the [particle "e"](#nimi-lili-e).
-
-* ona li ***utala e*** jan ike. *(Ŝi provokas/atakas la malamikon. — She is provoking/attacking the enemy.)*
-* ona li ***utala tawa*** jan ike. *(Ŝi batalas la malamikon. — She fights the enemy.)*
-  * → ona li ***utala e*** jan ike.
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "lon poka pi" li ken kama [nimi lili "e"](#nimi-lili-e).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "lon poka pi" povas fariĝi la [partikulo "e"](#nimi-lili-e).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "lon poka pi" can become the [particle "e"](#nimi-lili-e).
-
-* ona li ***unpa e*** jan ni. *(Ŝi seksumigas tiun personon.)*
-* ona li ***unpa lon poka pi*** jan ni. *(Ŝi seksumas kun tiu persono.)*
-  * → ona li ***unpa e*** jan ni.
 
 ### nimi suli namako
 *(Aldonaj Radikaj Vortoj — Additional Content Words)*
@@ -722,27 +785,9 @@
 
 | [↑](#toki-kulupu) |
 |:-:|
-| [nimi lili musi](#nimi-lili-musi) |
 | [nimi suli musi](#nimi-suli-musi) |
 | [sitelen musi pi poka nimi](#sitelen-musi-pi-poka-nimi) |
 | [sitelen pona musi](#sitelen-pona-musi) |
-
-### nimi lili musi
-
-| [↑](#toki-musi) |
-|:-:|
-| [nimi lili "li" musi](#nimi-lili-li-musi) |
-| [nimi lili kalama musi](#nimi-lili-kalama-musi) |
-
-#### nimi lili "li" musi
-*(Eksperimentaj Subjekto kaj Predikato — Experimental Subject and Predicate)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> lon pini pi nimi "mi" anu nimi "sina" la [nimi lili "li"](#nimi-lili-li) li kama weka ala lon ni: [nimi lili "li"](#nimi-lili-li) nanpa tu li lon.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ "mi" aŭ "sina" la [partikulo "li"](#nimi-lili-li) ne malaperas, se estas dua [partikulo "li"](#nimi-lili-li).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After "mi" or "sina" the [particle "li"](#nimi-lili-li) doesn't disappear, if there is a second [particle "li"](#nimi-lili-li).
-
-* mi lukin mute. mi sona lili. *(Mi vidas multe kaj scias malmulte. — I am seeing much and knowing little.)*
-  * → mi ***li*** lukin mute ***li*** sona lili.
 
 ### nimi suli musi
 *(Eksperimentaj Radikaj Vortoj — Experimental Content Words)*
@@ -897,6 +942,14 @@
 
 * ona li suli ***lon*** sina. *(Ŝi estas pli alta ol vi. — She is taller than you.)*
   * → sina la ona li suli.
+
+---
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li pana e nimi sama tawa nimi "seme", "taso". taso lipu ni la nimi tu ni li [nimi suli](#nimi-suli): nimi "seme" li [nimi poka palisa](#nimi-poka-palisa), nimi "taso" li [nimi poka luka musi](#nimi-poka-luka-musi).   
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** nomas same la vortojn "seme", "taso". Sed en tiu ĉi libro, tiuj du vortoj estas [radikaj vortoj](#nimi-suli): "seme" estas [korelativo](#nimi-poka-palisa) kaj "taso" estas [eksperimenta prepozicio](#nimi-poka-luka-musi).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** calls the words "seme", "taso" in the same way. But in this book, these two words are [content words](#nimi-suli): "seme" is a [correlative](#nimi-poka-palisa) and "taso" is an [experimental preposition](#nimi-poka-luka-musi).
+
+---
 
 #### nimi wawa musi
 *(Eksperimentaj Verboj — Experimental Verbs)*
@@ -1091,28 +1144,9 @@
 
 | [↑](#toki-nasa) |
 |:-:|
-| [nimi lili "li" nasa](#nimi-lili-li-nasa) |
-| [nimi lili "o" nasa](#nimi-lili-o-nasa) |
 | [nimi lili "pi" nasa](#nimi-lili-pi-nasa) |
 | [nimi lili "la" nasa](#nimi-lili-la-nasa) |
 | [nimi lili "en", "anu" nasa](#nimi-lili-en-anu-nasa) |
-
-#### nimi lili "li" nasa
-*(Strangaj Subjekto kaj Predikato — Strange Subject and Predicate)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li weka e [nimi lili "li"](#nimi-lili-li) nanpa wan taso lon pini pi nimi "mi" anu nimi "sina".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** forigas nur la unuan [partikulon "li"](#nimi-lili-li) post "mi" aŭ "sina".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** removes only the first [particle "li"](#nimi-lili-li) after "mi" or "sina".
-
-* mi lukin mute. mi sona lili. *(Mi vidas multe kaj scias malmulte. — I am seeing much and knowing little.)*
-* mi ~~li~~ lukin mute li sona lili.
-  * → mi lukin mute li sona lili.
-
-#### nimi lili "o" nasa
-*(Strangaj Volativo, Vokativo kaj Imperativo — Strange Volative, Vocative and Imperative)*
-
-* ~~ni~~ o ~~kama:~~ sina lape pona. *(Ke vi dormu bone. — May you sleep well.)*
-  * → o sina lape pona.
 
 #### nimi lili "pi" nasa
 *(Stranga Genitivo — Strange Genitive)*
@@ -1145,18 +1179,6 @@
 * tomo telo nasa *(stranga necesejo — strange bathroom)*
 * tomo ~~pi~~ telo nasa *(trinkejo — pub)*
   * tomo telo nasa
-
-#### nimi lili "la" nasa
-*(Stranga Kunteksta Frazero — Strange Contextual Fragment)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ala la jan **Pije** li nimi poka palisa nanpa wan e [nimi poka luka](#nimi-poka-luka) lon kama pi **nimi lili** "[la](#nimi-lili-la)". tan ni la, [nimi poka luka](#nimi-poka-luka) li ken sama [nimi lawa](#nimi-lawa) tawa lukin, taso ona li jo e kon pi nimi "ijo" lon pini pi [nimi poka luka](#nimi-poka-luka) ni.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** neniam uzas [prepozicion](#nimi-poka-luka) kiel la unuan vorton en **kunteksta frazero** (t.e. la vortoj antaŭ la **partikulo** "[la](#nimi-lili-la)"). Tial, [prepozicio](#nimi-poka-luka) povas ŝajni [substantivo](#nimi-lawa), sed kun la signifo de "ijo" kiel argumento de tiu [prepozicio](#nimi-poka-luka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** never uses [prepositions](#nimi-poka-luka) as the first word in a **contextual fragment** (i.e. the words before the [particle "la"](#nimi-lili)). Therefore, a [preposition](#nimi-poka-luka) may seem like a [noun](#nimi-lawa), but with the meaning of "ijo" as an argument of that [preposition](#nimi-poka-luka).
-
-* sina pu ***tan*** jan pona. *(Vi legas la Libron pro amiko. — You read the Book because of a friend.)*
-  * ***tan*** jan pona la sina pu.
-    * → ***tan pi*** jan pona la sina pu.
-      * → sina pu ***lon tan pi*** jan pona.
 
 #### nimi lili "en", "anu" nasa
 *(Strangaj Konjunkcioj — Strange Conjunctions)*
@@ -1261,6 +1283,15 @@
   * → mi sona ala e ***tan*** pi ijo ni: sina pu ala.
 * ona li tawa e ~~ona~~ ***sama***. *(Ĝi movas sin mem. — It moves itself.)*
   * → ona li tawa e ***sama***.
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) li ken sama [nimi lawa](#nimi-lawa) tawa lukin, taso ona li jo e kon pi nimi "ijo" lon pini pi [nimi poka luka](#nimi-poka-luka) ni.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Prepozicio](#nimi-poka-luka) povas ŝajni [substantivo](#nimi-lawa), sed kun la signifo de "ijo" kiel argumento de tiu [prepozicio](#nimi-poka-luka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [preposition](#nimi-poka-luka) may seem like a [noun](#nimi-lawa), but with the meaning of "ijo" as an argument of that [preposition](#nimi-poka-luka).
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi sona ala e ni: ni li tan seme. → mi sona ala e tan. |
+|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi ne konas la motivon.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I don't know the reason.* |
 
 #### mute nimi nasa
 *(Strangaj Frazoj — Strange Sentences)*
@@ -1939,19 +1970,19 @@
 
 | | | |
 |:-|:-|:-|
-| <img src="musi/sitelen/pona/a.png" height="12">        | *[KALAMA](#nimi-lili-kalama)*       | mu — **a**, ala |
+| <img src="musi/sitelen/pona/a.png" height="12">        | *[LILI KALAMA](#nimi-lili-kalama)*  | mu — **a**, ala |
 | <img src="musi/sitelen/pona/akesi.png" height="12">    | *[SIJELO](#nimi-lawa-sijelo)*       | **akesi** — soweli |
-| <img src="musi/sitelen/pona/ala.png" height="12">      | *[KALAMA](#nimi-lili-kalama)*       | mu — a, **ala** |
+| <img src="musi/sitelen/pona/ala.png" height="12">      | *[LILI KALAMA](#nimi-lili-kalama)*  | mu — a, **ala** |
 |                                                        | *[PALISA](#nimi-poka-palisa)*       | **ala**, ale, ni, seme |
 | <img src="musi/sitelen/pona/alasa.png" height="12">    | *[IJO](#nimi-lawa-ijo)*             | **alasa**, esun, mani, pali |
 | <img src="musi/sitelen/pona/ale.png" height="12">      | *[IJO](#nimi-lawa-ijo)*             | **ale** — wan |
 |                                                        | *[PALISA](#nimi-poka-palisa)*       | ala, **ale**, ni, seme |
 | <img src="musi/sitelen/pona/anpa.png" height="12">     | *[NASIN](#nimi-nasin)*              | **anpa** — sewi |
 | <img src="musi/sitelen/pona/ante.png" height="12">     | *[LUKA](#nimi-poka-luka)*           | **ante** — sama |
-| <img src="musi/sitelen/pona/anu.png" height="12">      | *[LILI](#nimi-lili-en-anu)*         | **anu**, en |
+| <img src="musi/sitelen/pona/anu.png" height="12">      | *[LILI LUKA](#nimi-lili-luka)*      | **anu**, en |
 | <img src="musi/sitelen/pona/awen.png" height="12">     | *[WAWA POKA](#nimi-wawa-poka)*      | **awen**, kama, pini |
-| <img src="musi/sitelen/pona/e.png" height="12">        | *[LILI](#nimi-lili-e)*              | **e**, li, o, pi |
-| <img src="musi/sitelen/pona/en.png" height="12">       | *[LILI](#nimi-lili-en-anu)*         | anu, **en** |
+| <img src="musi/sitelen/pona/e.png" height="12">        | *[LILI LUKA](#nimi-lili-luka)*      | **e**, li, o, pi |
+| <img src="musi/sitelen/pona/en.png" height="12">       | *[LILI LUKA](#nimi-lili-luka)*      | anu, **en** |
 | <img src="musi/sitelen/pona/esun.png" height="12">     | *[IJO](#nimi-lawa-ijo)*             | alasa, **esun**, mani, pali |
 |                                                        | *[NANPA](#nimi-poka-palisa-nanpa)*  | **esun**, luka, mute, tu, wan |
 | <img src="musi/sitelen/pona/ijo.png" height="12">      | *[LAWA PONA](#nimi-lawa-pona)*      | **ijo** — jan |
@@ -1976,14 +2007,14 @@
 | <img src="musi/sitelen/pona/kule.png" height="12">     | *[KULE](#nimi-poka-kule)*           | jelo, **kule**, laso, loje |
 | <img src="musi/sitelen/pona/kulupu.png" height="12">   | *[IJO](#nimi-lawa-ijo)*             | **kulupu** — sijelo |
 | <img src="musi/sitelen/pona/kute.png" height="12">     | *[WAN SIJELO](#wan-sijelo)*         | **kute**, lawa, luka, lukin, noka, palisa, pilin, selo, uta |
-| <img src="musi/sitelen/pona/la.png" height="12">       | *[LILI](#nimi-lili-la)*             | **la** |
+| <img src="musi/sitelen/pona/la.png" height="12">       | *[LILI LUKA](#nimi-lili-luka)*      | **la** |
 | <img src="musi/sitelen/pona/lape.png" height="12">     | *[PONA](#nimi-pona)*                | **lape**, moli, musi |
 | <img src="musi/sitelen/pona/laso.png" height="12">     | *[KULE](#nimi-poka-kule)*           | jelo, kule, **laso**, loje |
 | <img src="musi/sitelen/pona/lawa.png" height="12">     | *[WAN SIJELO](#wan-sijelo)*         | kute, **lawa**, luka, lukin, noka, palisa, pilin, selo, uta |
 |                                                        | *[NASIN](#nimi-nasin)*              | **lawa** — noka |
 | <img src="musi/sitelen/pona/len.png" height="12">      | *[ILO](#nimi-lawa-ilo)*             | **len**, supa |
 | <img src="musi/sitelen/pona/lete.png" height="12">     | *[IJO](#nimi-lawa-ijo)*             | **lete** — seli |
-| <img src="musi/sitelen/pona/li.png" height="12">       | *[LILI](#nimi-lili-li)*             | e, **li**, o, pi |
+| <img src="musi/sitelen/pona/li.png" height="12">       | *[LILI LUKA](#nimi-lili-luka)*      | e, **li**, o, pi |
 | <img src="musi/sitelen/pona/lili.png" height="12">     | *[PONA](#nimi-pona)*                | **lili** — mute, suli, wawa |
 | <img src="musi/sitelen/pona/linja.png" height="12">    | *[IJO](#nimi-lawa-ijo)*             | **linja** — palisa |
 | <img src="musi/sitelen/pona/lipu.png" height="12">     | *[IJO](#nimi-lawa-ijo)*             | **lipu**, nena, sike |
@@ -2003,7 +2034,7 @@
 | <img src="musi/sitelen/pona/moku.png" height="12">     | *[IJO](#nimi-lawa-ijo)*             | **moku** |
 | <img src="musi/sitelen/pona/moli.png" height="12">     | *[PONA](#nimi-pona)*                | lape, **moli**, musi |
 | <img src="musi/sitelen/pona/monsi.png" height="12">    | *[NASIN](#nimi-nasin)*              | **monsi** — sinpin |
-| <img src="musi/sitelen/pona/mu.png" height="12">       | *[KALAMA](#nimi-lili-kalama)*       | **mu** — a, ala |
+| <img src="musi/sitelen/pona/mu.png" height="12">       | *[LILI KALAMA](#nimi-lili-kalama)*  | **mu** — a, ala |
 | <img src="musi/sitelen/pona/mun.png" height="12">      | *[IJO](#nimi-lawa-ijo)*             | ma, **mun** |
 | <img src="musi/sitelen/pona/musi.png" height="12">     | *[PONA](#nimi-pona)*                | lape, moli, **musi** |
 | <img src="musi/sitelen/pona/mute.png" height="12">     | *[PONA](#nimi-pona)*                | lili — **mute**, suli, wawa |
@@ -2016,7 +2047,7 @@
 | <img src="musi/sitelen/pona/nimi.png" height="12">     | *[PALI](#nimi-lawa-pali)*           | kalama, nanpa, **nimi**, sitelen, sona, toki |
 | <img src="musi/sitelen/pona/noka.png" height="12">     | *[WAN SIJELO](#wan-sijelo)*         | kute, lawa, luka, lukin, **noka**, palisa, pilin, selo, uta |
 |                                                        | *[NASIN](#nimi-nasin)*              | lawa — **noka** |
-| <img src="musi/sitelen/pona/o.png" height="12">        | *[LILI](#nimi-lili-o)*              | e, li, **o**, pi |
+| <img src="musi/sitelen/pona/o.png" height="12">        | *[LILI LUKA](#nimi-lili-luka)*      | e, li, **o**, pi |
 | <img src="musi/sitelen/pona/olin.png" height="12">     | *[PALI](#nimi-lawa-pali)*           | **olin**, unpa |
 | <img src="musi/sitelen/pona/ona.png" height="12">      | *[ESUN](#nimi-lawa-esun)*           | mi, **ona**, sina |
 | <img src="musi/sitelen/pona/open.png" height="12">     | *[PONA](#nimi-pona)*                | **open** — selo |
@@ -2027,7 +2058,7 @@
 |                                                        | *[WAN SIJELO](#wan-sijelo)*         | kute, lawa, luka, lukin, noka, **palisa**, pilin, selo, uta |
 | <img src="musi/sitelen/pona/pan.png" height="12">      | *[IJO](#nimi-lawa-ijo)*             | kili, **pan** |
 | <img src="musi/sitelen/pona/pana.png" height="12">     | *[PALI](#nimi-lawa-pali)*           | jo, **pana** |
-| <img src="musi/sitelen/pona/pi.png" height="12">       | *[LILI](#nimi-lili-pi)*             | e, li, o, **pi** |
+| <img src="musi/sitelen/pona/pi.png" height="12">       | *[LILI LUKA](#nimi-lili-luka)*      | e, li, o, **pi** |
 | <img src="musi/sitelen/pona/pilin.png" height="12">    | *[WAN SIJELO](#wan-sijelo)*         | kute, lawa, luka, lukin, noka, palisa, **pilin**, selo, uta |
 | <img src="musi/sitelen/pona/pimeja.png" height="12">   | *[KULE](#nimi-poka-kule)*           | **pimeja** — walo |
 |                                                        | *[IJO](#nimi-lawa-ijo)*             | **pimeja** — suno |
