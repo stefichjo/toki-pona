@@ -103,7 +103,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If the subject (i.e. the words before the **particle** "li") is just "mi" or "sina", the **particle** "li" disappears.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi li mije. → mi mije. | sina li sin. → sina sin. |
-|:-|:-|:-|:-|
+|:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi estas viro.* | *Vi estas nova.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am a man.* | *You are new.* |
 
@@ -113,7 +113,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [sentence](#mute-nimi) can have multiple predicates (i.e. the words after the **particle** "li"). Their **commas** can disappear.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ma mama li lili, li lete. → ma mama li lili li lete. |
-|:-|:-|:-|
+|:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *La patrujo estas malgranda kaj malvarma.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The motherland is small and cold.* |
 
@@ -123,7 +123,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> One can reply by just a predicate (i.e. the words after the **particle** "li").
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ni li pona. → pona. | ona li mama. → mama. |
-|:-|:-|:-|:-|
+|:-|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Tio estas bona.* → *Bone., Dankon.* | *Ŝi estas gepatro.* → *She estas., Jes.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *This is good.* → *Good., Thanks.* | *She is a parent.* → *She is., Yes.* |
 
@@ -136,7 +136,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> After "mi" or "sina" the [particle "li"](#nimi-lili-li) doesn't disappear, if there is a second [particle "li"](#nimi-lili-li).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi lukin mute. mi sona lili. → mi li lukin mute li sona lili. |
-|:-|:-|:-|
+|:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi vidas multe kaj scias malmulte.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am seeing much and knowing little.* |
 
@@ -149,7 +149,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** removes only the first [particle "li"](#nimi-lili-li) after "mi" or "sina".
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi lukin mute. mi sona lili. → mi lukin mute li sona lili. |
-|:-|:-|:-|
+|:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi vidas multe kaj scias malmulte.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am seeing much and knowing little.* |
 
@@ -166,7 +166,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> Plain "ijo" as the direct object (i.e. the words after the **particle** "e") can disappear.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | mije li sona e ijo. → mije li sona. |
-|:-|:-|:-|
+|:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *La viro scias aferojn.* → *La viro scias.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The man knows things.* → *The man knows.* |
 
@@ -176,7 +176,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A predicate (i.e. the words after the **particle** "li") can have multiple direct objects (i.e. the words after the **particle** "e"). Their ***commas*** can disappear.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
-|:-|:-|:-|
+|:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi kuiras la viandon kaj la rizon.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She cooks the meat and the rice.* |
 
@@ -186,7 +186,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> One can express a desire by just a direct object (i.e. the words after the **particle** "e").
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | tawa pona sina la mi wile e moku pona. → moku pona! |
-|:-|:-|:-|
+|:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi bondeziras al vi bonan manĝon.* → *Bonan apetiton!* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I wish you a good meal.* → *Bon appétit!* |
 
@@ -199,7 +199,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The direct object of "pana" can become a [transitive verb](#nimi-wawa-luka).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li pana e telo tawa kasi. → ona li telo e kasi. | ona li telo e kasi. |
-|:-|:-|:-|:-|
+|:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi donas akvon al la planto.* → *Ŝi akvumas la planton.* | *Ŝi malsekigas la planton.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She gives water to the plant.* → *She waters the plant.* | *She makes the plant wet.* |
 
@@ -209,7 +209,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> With "utala", the [preposition](#nimi-poka-luka) "tawa" can become the [particle "e"](#nimi-lili-e).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li utala tawa jan ike. → ona li utala e jan ike. | ona li utala e jan ike. |
-|:-|:-|:-|:-|
+|:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi batalas la malamikon.* | *Ŝi provokas/atakas la malamikon.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She fights the enemy.* | *She is provoking/attacking the enemy.* |
 
@@ -222,7 +222,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> "sina" can disappear before the **particle** "o".
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina o lukin. → o lukin! | jan Ali o wawa. → jan Ali o wawa! |
-|:-|:-|:-|:-|
+|:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Vi rigardu.* → *Rigardu!* | *Ali estu forta.* → *Ali, estu forta!* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You should look.* → *Look!* | *Ali should be strong.* → *Ali, be strong!* |
 
@@ -232,7 +232,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> "kute" can disappear after the **particle** "o". **Sonja** doesn't combine two "o"-**particles**.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | o kute! → o! | jan Ali o, o wawa! → jan Ali o wawa! |
-|:-|:-|:-|:-|
+|:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Aŭskultu!* → *Ho!* | *Ho Ali, estu forta!* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Listen!* → *Hey!* | *Hey Ali, be strong!* |
 
@@ -241,7 +241,7 @@
 *(Strangaj Volativo, Vokativo kaj Imperativo — Strange Volative, Vocative and Imperative)*
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ni o kama: sina lape pona. → o sina lape pona. |
-|:-|:-|:-|
+|:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ke vi dormu bone.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *May you sleep well.* |
 
@@ -301,7 +301,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> By means of the **particle "la"**, a [preposition](#nimi-poka-luka) can be at the beginning of a [sentence](#mute-nimi).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina pana e nimi "pona" tawa mi tan seme? → tan seme la sina pana e nimi "pona" tawa mi? |
-|:-|:-|:-|
+|:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Kial vi nomas min bona?* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Why are you calling me good?* |
 
@@ -311,7 +311,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the beginning of a [sentence](#mute-nimi), the [preposition](#nimi-poka-luka) "lon" disappears.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li kama lon tenpo pimeja ni. → tenpo pimeja ni la ona li kama. |
-|:-|:-|:-|
+|:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi venas tiun ĉi nokton.* → *Ĉi-nokte, ŝi venas.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She is coming tonight.* → *Tonight, she is coming.* |
 
@@ -321,7 +321,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If "ni" at the beginning of a [sentence](#mute-nimi) accompanies a [subordinate clause](#mute-nimi-poka), "ni" disappears.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan li pona tawa mi lon ni: mi pona tawa jan. → mi pona tawa jan, la jan li pona tawa mi. |
-|:-|:-|:-|
+|:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Homoj estas bonaj al mi, se mi estas bona al homoj.* → *Se mi estas bona al homoj, homoj estas bonaj al mi.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
@@ -334,7 +334,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** doesn't use [prepositions](#nimi-poka-luka) at the beginning of a [sentence](#mute-nimi). But he uses [strange prepositions](#nimi-poka-luka-nasa) instead.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina pu tan jan seme? → tan pi jan seme la sina pu? |
-|:-|:-|:-|
+|:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Pro kiu vi konsultas la tokiponan libron?* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Because of whom do you interact with the Toki Pona book?* |
 
@@ -355,7 +355,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Quotes](#nimi-lili-toki) are after [nouns](#nimi-lawa). **Quotations** are inside quotation marks.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li jo e nimi "Sonja". |
-|:-|:-|:-|
+|:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi havas la nomon "Sonja".* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She has the name "Sonja".* |
 
@@ -365,7 +365,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Quotation marks** with "nimi" or "kalama" can disappear.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | toki pi nimi "Epelanto" → toki Epelanto |
-|:-|:-|:-|
+|:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *la lingvo "Esperanto"* → *Esperanto* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *the language "Esperanto"* → *Esperanto* |
 
@@ -376,7 +376,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** removes the [particle "pi"](#nimi-lili-pi) before "nanpa" with a [numeral](#nimi-poka-palisa-nanpa). In this case, "nanpa" is part of a quote. But **Pije** doesn't remove such a [particle "pi"](#nimi-lili-pi).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina nanpa wan | toki pi nanpa wan → toki nanpa wan |
-|:-|:-|:-|:-|
+|:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Vi estas la numero unu.* | *la lingvo kun la numero unu* → *la lingvo numero unu* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You're number one.* | *the language with the number one* → *the language number one* |
 
@@ -389,7 +389,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> One can express an emotion by means of a plain **interjection** as if it were a [sentence](#mute-nimi).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | a! | mu! |
-|:-|:-|:-|
+|:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ha!, Ho!* | *Bla!, Miaŭ!* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Ha!, Wow!* | *Blah!, Meeow!* |
 
@@ -399,7 +399,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> An **interjection** can become an [action noun](#nimi-lawa-pali).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | soweli li kalama "mu". → soweli li mu. | ona li kute e nimi "mu" wawa. → ona li kute e mu wawa. |
-|:-|:-|:-|
+|:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *La besto blekas.* | *Ŝi aŭdis laŭtan blekon.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The animal bleats.* | *She heard a loud bleat.* |
 
@@ -412,7 +412,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [modifier](#nimi-poka) "ala" can become an **interjection**.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala! |
-|:-|:-|
+|:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ve!* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Outch!* |
 
@@ -422,7 +422,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> An **interjection** can become a [modifier](#nimi-poka).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | a | mu |
-|:-|:-|:-|
+|:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *efektive, jes* | *ajne, nu* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *indeed, yes* | *any, well* |
 
