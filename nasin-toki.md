@@ -325,7 +325,11 @@
 
 | [↑](#nimi-lili-luka) |
 |:-:|
+| [en+](#nimi-lili-en-namako) |
 | [en!](#nimi-lili-en-nasa) |
+
+#### nimi lili "en" namako
+*(Aldona Konjunkcio "kaj" — Additonal Conjunction "and")*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili** "en" li ken lon nimi lon kama taso pi **nimi lili** "li".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La **partikulo** "en" povas esti nur en la subjekto (t.e. la vortoj antaŭ la **partikulo** "li").  
