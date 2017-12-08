@@ -294,23 +294,31 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** igas la [partikulon "e"](#nimi-lili-e) la [partikulo "pi"](#nimi-lili-pi) antaŭ substantivo, kiu signifas direkton.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** turns the [particle "e"](#nimi-lili-e) into the [particle "pi"](#nimi-lili-pi) before a noun, which means a direction.
 
-* sina lukin ***e sewi***. *(Vi rigardas supren. — You look up.)*
-  * → sina lukin ***sewi***.
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina lukin e sewi. → sina lukin sewi. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Vi rigardas supren.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You look up.* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "e"](#nimi-lili-e) li ken kama [nimi lili "pi"](#nimi-lili-pi).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La [partikulo "e"](#nimi-lili-e) povas fariĝi la [partikulo "pi"](#nimi-lili-pi).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [particle "e"](#nimi-lili-e) can become the [particle "pi"](#nimi-lili-pi).
 
-* mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon. — I translate the movie.)*
-  * → mi ante ***toki e*** sitelen tawa.
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi ante e toki pi sitelen tawa. → mi ante toki e sitelen tawa. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi tradukas la filmon.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I translate the movie.* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "pi"](#nimi-lili-pi) li ken kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La [partikulo "pi"](#nimi-lili-pi) povas malaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [particle "pi"](#nimi-lili-pi) can disappear.
 
-* tomo telo nasa *(stranga necesejo — strange bathroom)*
-* tomo ~~pi~~ telo nasa *(trinkejo — pub)*
-  * tomo telo nasa
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tomo pi telo nasa → tomo telo nasa | tomo telo nasa |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *trinkejo* | *stranga necesejo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *bar* | *strange bathroom* |
+
 
 ##### nimi lili "en", "anu"
 *(Konjunkcioj — Conjunctions)*
