@@ -251,7 +251,7 @@
 
 | [↑](#nimi-lili-luka) |
 |:-:|
-| [pi+](#nimi-lili-pi-namako) |
+| [pi°](#nimi-lili-pi-musi) |
 | [pi!](#nimi-lili-pi-nasa) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi **nimi lili** "pi" li [nimi lawa](#nimi-lawa) wan taso, la **nimi lili** "pi" li kama weka. kepeken ni la [nimi lawa](#nimi-lawa) ni li kama [nimi poka](#nimi-poka).  
@@ -264,14 +264,14 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *a language of good* → *a good language* |
 
 
-###### nimi lili "pi" namako
-*(Aldona Genitivo — Additional Genitive)*
+###### nimi lili "pi" musi
+*(Eksperimenta Genitivo — Experimental Genitive)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken ala **nimi lili** "pi" lon poka pi **nimi lili** "pi" ante.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** ne uzas genitivan frazeron (t.e. vortoj malantaŭ **partikulo** "pi") kombine kun alia genitiva frazero.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** doesn't use genitive phrases (i.e. words after a **particle** "pi") combined with other genitive phrases.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi **nimi lili** "pi" li ken jo e **nimi lili** "pi" sin.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Genitiva frazero (t.e. vortoj malantaŭ **partikulo** "pi") povas havi aldonan genitivan frazeron.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A genitive phrase (i.e. words after a **particle** "pi") can have another genitive phrase.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | *tomo pi telo nasa pi ma ante | *tomo pi telo nasa, pi ma ante |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tomo pi telo nasa pi ma ante | tomo pi telo nasa, pi ma ante |
 |:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *domo de eksterlanda biero* | *eksterlanda trinkejo* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *house of foreign beer* | *foreign bar* |
