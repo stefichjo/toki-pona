@@ -69,7 +69,9 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Estas [partikuloj](#nimi-lili) kaj [radikaj vortoj](#nimi-suli).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> There are [particles](#nimi-lili) and [content words](#nimi-suli).
 
-### nimi lili
+---
+
+# nimi lili
 *(Partikuloj — Particles)*
 
 | [↑](#toki-lili) |
@@ -77,7 +79,7 @@
 | [nimi lili luka](#nimi-lili-luka) |
 | [nimi lili pi luka ala](#nimi-lili-pi-luka-ala) |
 
-#### nimi lili luka
+## nimi lili luka
 *(Transitivaj Partikuloj — Transitive Particles)*
 
 | [↑](#nimi-lili) |
@@ -90,7 +92,7 @@
 | [anu](#nimi-lili-anu) |
 | [la](#nimi-lili-la) |
 
-##### nimi lili "li"
+### nimi lili "li"
 *(Subjekto kaj Predikato — Subject and Predicate)*
 
 | [↑](#nimi-lili-luka) |
@@ -128,7 +130,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *This is good.* → *Good., Thanks.* | *She is a parent.* → *She is., Yes.* |
 
 
-###### nimi lili "li" musi
+#### nimi lili "li" musi
 *(Eksperimentaj Subjekto kaj Predikato — Experimental Subject and Predicate)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> lon pini pi nimi "mi" anu nimi "sina" la [nimi lili "li"](#nimi-lili-li) li kama weka ala lon ni: [nimi lili "li"](#nimi-lili-li) nanpa tu li lon.  
@@ -141,7 +143,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am seeing much and knowing little.* |
 
 
-###### nimi lili "li" nasa
+#### nimi lili "li" nasa
 *(Strangaj Subjekto kaj Predikato — Strange Subject and Predicate)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li weka e [nimi lili "li"](#nimi-lili-li) nanpa wan taso lon pini pi nimi "mi" anu nimi "sina".  
@@ -154,7 +156,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am seeing much and knowing little.* |
 
 
-##### nimi lili "e"
+### nimi lili "e"
 *(Rekta Objekto — Direct Object)*
 
 | [↑](#nimi-lili-luka) |
@@ -191,7 +193,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I wish you a good meal.* → *Bon appétit!* |
 
 
-###### nimi lili "e" namako
+#### nimi lili "e" namako
 *(Aldona Rekta Objekto — Additional Rekta Objekto)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi nimi "pana e" li ken kama [nimi wawa luka](#nimi-wawa-luka).  
@@ -214,7 +216,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She fights the enemy.* | *She is provoking/attacking the enemy.* |
 
 
-##### nimi lili "o"
+### nimi lili "o"
 *(Volativo, Vokativo kaj Imperativo — Volative, Vocative and Imperative)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi **nimi lili** "o" la nimi "sina" li ken kama weka.  
@@ -237,7 +239,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Listen!* → *Hey!* | *Hey Ali, be strong!* |
 
 
-###### nimi lili "o" nasa
+#### nimi lili "o" nasa
 *(Strangaj Volativo, Vokativo kaj Imperativo — Strange Volative, Vocative and Imperative)*
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ni o kama: sina lape pona. → o sina lape pona. |
@@ -246,7 +248,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *May you sleep well.* |
 
 
-##### nimi lili "pi"
+### nimi lili "pi"
 *(Genitivo — Genitive)*
 
 | [↑](#nimi-lili-luka) |
@@ -264,7 +266,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *a language of good* → *a good language* |
 
 
-###### nimi lili "pi" musi
+#### nimi lili "pi" musi
 *(Eksperimenta Genitivo — Experimental Genitive)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi **nimi lili** "pi" li ken jo e **nimi lili** "pi" sin.  
@@ -277,7 +279,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *house of foreign beer* | *foreign bar* |
 
 
-###### nimi lili "pi" nasa
+#### nimi lili "pi" nasa
 *(Stranga Genitivo — Strange Genitive)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li [nimi wawa](#nimi-wawa) e [nimi lili "pi"](#nimi-lili-pi) lon poka pi [nimi lawa esun](#nimi-lawa-esun).  
@@ -320,7 +322,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *bar* | *strange bathroom* |
 
 
-##### nimi lili "en"
+### nimi lili "en"
 *(Konjunkcio "kaj" — Conjunction "and")*
 
 | [↑](#nimi-lili-luka) |
@@ -328,7 +330,7 @@
 | [en+](#nimi-lili-en-namako) |
 | [en!](#nimi-lili-en-nasa) |
 
-###### nimi lili "en" namako
+#### nimi lili "en" namako
 *(Aldona Konjunkcio "kaj" — Additonal Conjunction "and")*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili** "en" li ken lon nimi lon kama taso pi **nimi lili** "li".  
@@ -341,7 +343,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *What you say and what you do are the same.* |
 
 
-###### nimi lili "en" nasa
+#### nimi lili "en" nasa
 *(Stranga Konjunkcio "kaj" — Strange Conjunction "and")*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **sitelen nanpa** li ken kama **nimi lili** "en" nasa.  
@@ -364,7 +366,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Both you and I are children.* |
 
 
-##### nimi lili "anu"
+### nimi lili "anu"
 *(Konjunkcio "aŭ" — Conjunction "or")*
 
 | [↑](#nimi-lili-luka) |
@@ -381,7 +383,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Is she a parent?* |
 
 
-##### nimi lili "anu" namako
+#### nimi lili "anu" namako
 *(Aldona Konjunkcio "aŭ" — Additional Conjunction "or")*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kama nimi la pini pi nimi sama lon poka pi nimi "ala" la **nimi lili** "anu" li kama weka.  
@@ -394,7 +396,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Is she a parent?* |
 
 
-##### nimi lili "la"
+### nimi lili "la"
 *(Kunteksta Frazero — Contextual Fragment)*
 
 | [↑](#nimi-lili-luka) |
@@ -431,7 +433,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
 
-###### nimi lili "la" nasa
+#### nimi lili "la" nasa
 *(Stranga Kunteksta Frazero — Strange Contextual Fragment)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li kepeken ala [nimi poka luka](#nimi-poka-luka) lon kama pi [mute nimi](#mute-nimi). taso ona li kepeken a [nimi poka luka nasa](#nimi-poka-luka-nasa).  
@@ -444,7 +446,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Because of whom do you interact with the Toki Pona book?* |
 
 
-#### nimi lili pi luka ala
+## nimi lili pi luka ala
 *(Netransitivaj Partikuloj — Intransitive Particles)*
 
 | [↑](#nimi-lili) |
@@ -452,7 +454,7 @@
 | [nimi lili toki](#nimi-lili-toki) |
 | [nimi lili kalama](#nimi-lili-kalama) |
 
-##### nimi lili toki
+### nimi lili toki
 *(Citaĵoj — Quotes)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili toki](#nimi-lili-toki) li lon pini pi [nimi lawa](#nimi-lawa). **nimi lili toki** li lon insa pi sitelen toki.  
@@ -486,7 +488,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You're number one.* | *the language with the number one* → *the language number one* |
 
 
-##### nimi lili kalama
+### nimi lili kalama
 *(Interjekcio — Interjection)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan li ken toki e pilin kepeken **nimi lili kalama** pi wan taso sama ni: ona li [mute nimi](#mute-nimi).  
@@ -509,7 +511,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The animal bleats.* | *She heard a loud bleat.* |
 
 
-###### nimi lili kalama musi
+#### nimi lili kalama musi
 *(Eksperimentaj Interjekcioj — Experimental Interjections)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) "ala" li ken kama **nimi lili kalama**.  
@@ -531,6 +533,8 @@
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *efektive, jes* | *ajne, nu* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *indeed, yes* | *any, well* |
 
+
+---
 
 ### nimi suli
 *(Radikaj Vortoj — Content Words)*
