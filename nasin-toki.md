@@ -86,8 +86,8 @@
 | [e](#nimi-lili-e) |
 | [o](#nimi-lili-o) |
 | [pi](#nimi-lili-pi) |
-| [en](#nimi-lili-en-anu) |
-| [anu](#nimi-lili-en-anu) |
+| [en](#nimi-lili-en) |
+| [anu](#nimi-lili-anu) |
 | [la](#nimi-lili-la) |
 
 ##### nimi lili "li"
@@ -320,14 +320,48 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *bar* | *strange bathroom* |
 
 
-##### nimi lili "en", "anu"
-*(Konjunkcioj — Conjunctions)*
+##### nimi lili "en"
+*(Konjunkcio "kaj" — Conjunction "and")*
+
+| [↑](#nimi-lili-luka) |
+|:-:|
+| [en!](#nimi-lili-en-nasa) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili** "en" li ken lon nimi lon kama taso pi **nimi lili** "li".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La **partikulo** "en" povas esti nur en la subjekto (t.e. la vortoj antaŭ la **partikulo** "li").  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The **particle** "en" can only come in the subject (i.e. the words before the **particle** "li").
 
-* toki sina ***en*** pali sina li sama. *(Via parolo kaj via ago estas samaj. — What you say and what you do are the same.)*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | toki sina en pali sina li sama. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Kion vi diras kaj kion vi faras estas samaj.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *What you say and what you do are the same.* |
+
+
+#### nimi lili "en" nasa
+*(Stranga Konjunkcio "kaj" — Strange Conjunction "and")*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **sitelen nanpa** li ken kama **nimi lili** "en" nasa.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Komo** povas fariĝi stranga **konjunkcio** "en".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A **comma** can become a strange **conjunction** "en".
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tomo pi telo nasa, pi ma ante → tomo pi telo nasa en pi ma ante |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *eksterlanda trinkejo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *foreign bar* |
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon kama pi [nimi lili "li"](#nimi-lili-li) li ken jo e **nimi lili** "en" nasa.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Subjekto (t.e. la vortoj antaŭ la [partikulo "li"](#nimi-lili-li)) povas havi strangan **konjunkcion** "en".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The Subject (i.e. the words before the [particle "li"](#nimi-lili-li) can have a strange **particle** "en".
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | en sina en mi li jan lili. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Kaj vi kaj mi estas infanoj.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Both you and I are children.* |
+
+
+##### nimi lili "anu"
+*(Konjunkcio "aŭ" — Conjunction "or")*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> poka pi **nimi lili** "anu" la nimi "ni" lon kama pi [mute nimi](#mute-nimi) en **sitelen nanpa** li kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Apud la **partikulo** "anu", "ni" antaŭ [frazo](#mute-nimi) kaj la **komoj** malaperas.  
@@ -899,9 +933,9 @@
 
 * mi jo e kili tu. ***wan*** ona li loje. ***wan*** ante li jelo. *(Mi havas du pomojn. Unu el ili estas ruĝa. La alia estas flava. — I have two apples. One of them is red. The other one is yellow.)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "en"](#nimi-lili-en-anu) li ken lon [nimi poka palisa nanpa](#nimi-poka-palisa-nanpa) tu.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [konjunkcio "en"](#nimi-lili-en-anu) povas esti ĉe du [numeraloj](#nimi-poka-palisa-nanpa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [conjunction "en"](#nimi-lili-en-anu) can be with two [numerals](#nimi-poka-palisa-nanpa).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "en"](#nimi-lili-en) li ken lon [nimi poka palisa nanpa](#nimi-poka-palisa-nanpa) tu.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [konjunkcio "en"](#nimi-lili-en) povas esti ĉe du [numeraloj](#nimi-poka-palisa-nanpa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [conjunction "en"](#nimi-lili-en) can be with two [numerals](#nimi-poka-palisa-nanpa).
 
 * tenpo suno esun tu *(du semajnoj — two weeks)*
 * tenpo suno ***luka tu en tu tu*** *(dek kvar tagoj — fourteen days)*
@@ -1189,34 +1223,8 @@
 
 | [↑](#toki-kulupu) |
 |:-:|
-| [nimi lili nasa](#nimi-lili-nasa) |
 | [nimi suli nasa](#nimi-suli-nasa) |
 | [sitelen nasa pi poka nimi](#sitelen-nasa-pi-poka-nimi) |
-
-### nimi lili nasa
-*(Strangaj Partikuloj — Strange Particles)*
-
-| [↑](#toki-nasa) |
-|:-:|
-| [nimi lili "la" nasa](#nimi-lili-la-nasa) |
-| [nimi lili "en", "anu" nasa](#nimi-lili-en-anu-nasa) |
-
-#### nimi lili "en", "anu" nasa
-*(Strangaj Konjunkcioj — Strange Conjunctions)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **sitelen nanpa** li ken kama [nimi lili](#nimi-lili-en-anu) nasa ["en"](#nimi-lili-en-anu).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Komo** povas fariĝi stranga [konjunkcio "en"](#nimi-lili-en-anu).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A **comma** can become a strange [conjunction "en"](#nimi-lili-en-anu).
-
-* tomo pi telo nasa, pi jan pona. *(trinkejo de amiko — a friend's bar)*
-  * → tomo pi telo nasa ***en*** pi jan pona.
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon kama pi [nimi lili "li"](#nimi-lili-li) li jo e [nimi lili](#nimi-lili-en-anu) nasa ["en"](#nimi-lili-en-anu). [nimi lili](#nimi-lili-en-anu) nasa ["en"](#nimi-lili-en-anu) nanpa wan li weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Subjekto (t.e. la vortoj antaŭ la [partikulo "li"](#nimi-lili-li) havas la strangan [partikulon "en"](#nimi-lili-en-anu). La unua [partikulo "en"](#nimi-lili-en-anu) mankas.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The Subject (i.e. the words before the [particle "li"](#nimi-lili-li) has the strange [particle "en"](#nimi-lili-en-anu). The first [particle "en"](#nimi-lili-en-anu) is missing.
-
-* ~~en~~ sina ***en*** mi li jan pona. *(Vi kaj mi estas amikoj. — You and I are friends.)*
-  * → sina ***en*** mi li jan pona.
 
 ### nimi suli nasa
 *(Strangaj Radikaj Vortoj — Strange Content Words)*
@@ -1555,7 +1563,7 @@
     * *([LAWA!](#nimi-poka-luka-nasa))* - io alia — something different
   * *([POKA](#nimi-poka))* - alia — different
   * *(lon poka ... pi°)* - ĉe la alia flanko de, trans — at the other side of, beyond
-* <img src="musi/sitelen/pona/anu.png" height="12"> **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili-en-anu))* - aŭ — or
+* <img src="musi/sitelen/pona/anu.png" height="12"> **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili-anu))* - aŭ — or
 * <img src="musi/sitelen/pona/-.png" height="12"> **apeja** ⇒ **jaki**
 * <img src="musi/sitelen/pona/awen.png" height="12"> **awen** ***[hawen]*** *([PONA](#nimi-pona))* - daŭra, daŭrigita — enduring, kept
   * *(... ~~lon~~)* - daŭre ĉeestanta → atendi, resti — continuously being present → waiting, staying
@@ -1563,7 +1571,7 @@
 	  * *([E+](#nimi-wawa-luka-namako))* ⇒ **tomo** - protekti — to protect
   * *([WAWA POKA](#nimi-wawa-poka))* - daŭrigi ke  → plu- — to continue to
 * <img src="musi/sitelen/pona/e.png" height="12"> **e** ***[he?]*** *([LILI](#nimi-lili-e))* - -n — (accusative)
-* <img src="musi/sitelen/pona/en.png" height="12"> **en** ***[en]*** *([LILI](#nimi-lili-en-anu))* - kaj — and
+* <img src="musi/sitelen/pona/en.png" height="12"> **en** ***[en]*** *([LILI](#nimi-lili-en))* - kaj — and
 * <img src="musi/sitelen/pona/esun.png" height="12"> **esun** ***[edẑum]*** *([SIJELO°](#nimi-lawa-sijelo-musi))*
   * *([LAWA](#nimi-lawa))* - interŝanĝanta organizo: metabolo, vendejo, merkato, ekonomio — exchanging organism: metabolism, shop, market, economy
     * *([NANPA°](#nimi-poka-palisa-nanpa-musi))*
