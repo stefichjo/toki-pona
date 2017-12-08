@@ -249,22 +249,65 @@
 ##### nimi lili "pi"
 *(Genitivo — Genitive)*
 
+| [↑](#nimi-lili-luka) |
+|:-:|
+| [pi+](#nimi-lili-pi-namako) |
+| [pi!](#nimi-lili-pi-nasa) |
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi **nimi lili** "pi" li [nimi lawa](#nimi-lawa) wan taso, la **nimi lili** "pi" li kama weka. kepeken ni la [nimi lawa](#nimi-lawa) ni li kama [nimi poka](#nimi-poka).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se genitiva frazero (t.e. la vortoj malantaŭ la **partikulo** "pi") konsistas el nur unu [substantivo](#nimi-lawa), la **partikulo** "pi" malaperas. Tiele, tiu [substantivo](#nimi-lawa) fariĝas [modifilo](#nimi-poka).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a genitive phrase (i.e. the words after the **particle** "pi") consists of only one [noun](#nimi-lawa), the **particle** "pi" disappears. So, that [noun](#nimi-lawa) becomes a [modifier](#nimi-poka).
 
-* toki ~~pi~~ pona *(lingvo de bono, bona lingvo — a language of good, a good language)*
-  * → toki pona
-* toki ***pi*** pona mute *(tre bona lingvo — a very good language)*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | toki pi pona → toki pona |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *lingvo de bono* → *bona lingvo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *a language of good* → *a good language* |
+
+
+###### nimi lili "pi" namako
+*(Aldona Genitivo — Additional Genitive)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken ala **nimi lili** "pi" lon poka pi **nimi lili** "pi" ante.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** ne uzas genitivan frazeron (t.e. vortoj malantaŭ **partikulo** "pi") kombine kun alia genitiva frazero.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** doesn't use genitive phrases (i.e. words after a **particle** "pi") combined with other genitive phrases.
 
-* ni li tomo ***pi*** telo nasa ***pi*** jan pona. *(Tio estas la domo de biero de amiko. — This is the house of a friend's beer.)*
-  * → ni li tomo ***pi*** telo nasa. jan pona li ***jo*** e telo nasa ni.
-* ni li tomo ***pi*** telo nasa, ***pi*** jan pona. *(Tio estas trinkejo de amiko. — This is a friend's bar.)*
-  * → ni li tomo ***pi*** telo nasa. jan pona li ***jo*** e tomo ni.
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ni li tomo pi telo nasa pi jan pona. → jan pona li moku e telo nasa lon tomo ni. | ni li tomo pi telo nasa, pi jan pona. → jan pona li jo e tomo ni pi telo nasa. |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Tio estas la domo de biero de amiko.* → *Amiko trinkas bieron en tiu domo.* | *Tio estas trinkejo de amiko.* → *Amiko havas tiun trinkejon.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *This is the house of a friend's beer.* → *A friend drinks beer in this house.* | *This is a friend's bar.* → *A friend has this bar.* |
+
+
+###### nimi lili "pi" nasa
+*(Stranga Genitivo — Strange Genitive)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li [nimi wawa](#nimi-wawa) e [nimi lili "pi"](#nimi-lili-pi) lon poka pi [nimi lawa esun](#nimi-lawa-esun).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** [verbigas](#nimi-wawa) la [partikulon "pi"](#nimi-lili-pi) kun [pronomo](#nimi-lawa-esun).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** turns the [particle "pi"](#nimi-lili-pi) with a [pronoun](#nimi-lawa-esun) into a [verb](#nimi-wawa).
+
+* ni li ijo mi. *(Tio apartenas al mi. — This belongs to me.)*
+  * → ni li ***pi mi***. *(Tio estas mia. — This is mine.)*
+ 
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li [nimi lili "pi"](#nimi-lili-pi) e [nimi lili "e"](#nimi-lili-e) lon kama pi [nimi lawa](#nimi-lawa) ni: kon ona li nasin.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** igas la [partikulon "e"](#nimi-lili-e) la [partikulo "pi"](#nimi-lili-pi) antaŭ substantivo, kiu signifas direkton.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** turns the [particle "e"](#nimi-lili-e) into the [particle "pi"](#nimi-lili-pi) before a noun, which means a direction.
+
+* sina lukin ***e sewi***. *(Vi rigardas supren. — You look up.)*
+  * → sina lukin ***sewi***.
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "e"](#nimi-lili-e) li ken kama [nimi lili "pi"](#nimi-lili-pi).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [partikulo "e"](#nimi-lili-e) povas fariĝi la [partikulo "pi"](#nimi-lili-pi).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [particle "e"](#nimi-lili-e) can become the [particle "pi"](#nimi-lili-pi).
+
+* mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon. — I translate the movie.)*
+  * → mi ante ***toki e*** sitelen tawa.
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "pi"](#nimi-lili-pi) li ken kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [partikulo "pi"](#nimi-lili-pi) povas malaperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [particle "pi"](#nimi-lili-pi) can disappear.
+
+* tomo telo nasa *(stranga necesejo — strange bathroom)*
+* tomo ~~pi~~ telo nasa *(trinkejo — pub)*
+  * tomo telo nasa
 
 ##### nimi lili "en", "anu"
 *(Konjunkcioj — Conjunctions)*
@@ -1144,41 +1187,8 @@
 
 | [↑](#toki-nasa) |
 |:-:|
-| [nimi lili "pi" nasa](#nimi-lili-pi-nasa) |
 | [nimi lili "la" nasa](#nimi-lili-la-nasa) |
 | [nimi lili "en", "anu" nasa](#nimi-lili-en-anu-nasa) |
-
-#### nimi lili "pi" nasa
-*(Stranga Genitivo — Strange Genitive)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li [nimi wawa](#nimi-wawa) e [nimi lili "pi"](#nimi-lili-pi) lon poka pi [nimi lawa esun](#nimi-lawa-esun).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** [verbigas](#nimi-wawa) la [partikulon "pi"](#nimi-lili-pi) kun [pronomo](#nimi-lawa-esun).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** turns the [particle "pi"](#nimi-lili-pi) with a [pronoun](#nimi-lawa-esun) into a [verb](#nimi-wawa).
-
-* ni li ijo mi. *(Tio apartenas al mi. — This belongs to me.)*
-  * → ni li ***pi mi***. *(Tio estas mia. — This is mine.)*
- 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li [nimi lili "pi"](#nimi-lili-pi) e [nimi lili "e"](#nimi-lili-e) lon kama pi [nimi lawa](#nimi-lawa) ni: kon ona li nasin.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** igas la [partikulon "e"](#nimi-lili-e) la [partikulo "pi"](#nimi-lili-pi) antaŭ substantivo, kiu signifas direkton.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** turns the [particle "e"](#nimi-lili-e) into the [particle "pi"](#nimi-lili-pi) before a noun, which means a direction.
-
-* sina lukin ***e sewi***. *(Vi rigardas supren. — You look up.)*
-  * → sina lukin ***sewi***.
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "e"](#nimi-lili-e) li ken kama [nimi lili "pi"](#nimi-lili-pi).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [partikulo "e"](#nimi-lili-e) povas fariĝi la [partikulo "pi"](#nimi-lili-pi).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [particle "e"](#nimi-lili-e) can become the [particle "pi"](#nimi-lili-pi).
-
-* mi ante ***e toki pi*** sitelen tawa. *(Mi tradukas la filmon. — I translate the movie.)*
-  * → mi ante ***toki e*** sitelen tawa.
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "pi"](#nimi-lili-pi) li ken kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [partikulo "pi"](#nimi-lili-pi) povas malaperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [particle "pi"](#nimi-lili-pi) can disappear.
-
-* tomo telo nasa *(stranga necesejo — strange bathroom)*
-* tomo ~~pi~~ telo nasa *(trinkejo — pub)*
-  * tomo telo nasa
 
 #### nimi lili "en", "anu" nasa
 *(Strangaj Konjunkcioj — Strange Conjunctions)*
