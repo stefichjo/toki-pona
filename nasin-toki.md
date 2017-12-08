@@ -284,9 +284,12 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** [verbigas](#nimi-wawa) la [partikulon "pi"](#nimi-lili-pi) kun [pronomo](#nimi-lawa-esun).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** turns the [particle "pi"](#nimi-lili-pi) with a [pronoun](#nimi-lawa-esun) into a [verb](#nimi-wawa).
 
-* ni li ijo mi. *(Tio apartenas al mi. — This belongs to me.)*
-  * → ni li ***pi mi***. *(Tio estas mia. — This is mine.)*
- 
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ni li ijo mi. → ni li pi mi. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Tio apartenas al mi.* → *Tio estas mia.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *This belongs to me.* → *This is mine.* |
+
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li [nimi lili "pi"](#nimi-lili-pi) e [nimi lili "e"](#nimi-lili-e) lon kama pi [nimi lawa](#nimi-lawa) ni: kon ona li nasin.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** igas la [partikulon "e"](#nimi-lili-e) la [partikulo "pi"](#nimi-lili-pi) antaŭ substantivo, kiu signifas direkton.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** turns the [particle "e"](#nimi-lili-e) into the [particle "pi"](#nimi-lili-pi) before a noun, which means a direction.
