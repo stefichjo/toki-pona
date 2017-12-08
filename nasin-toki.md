@@ -547,37 +547,6 @@
 | [nimi pona](#nimi-pona) |
 | [mute nimi](#mute-nimi) |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli** wan taso li [nimi lawa](#nimi-lawa).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Sola **radika vorto** estas [substantivo](#nimi-lawa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A sole **content word** is a [noun](#nimi-lawa).
-
-* ***jan*** *(iu, persono — someone, person)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi [nimi lawa](#nimi-lawa) la **nimi suli** wan taso li [nimi poka](#nimi-poka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ [substantivo](#nimi-lawa), sola **radika vorto** estas [modifilo](#nimi-poka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After a [noun](#nimi-lawa), a sole **content word** is a [modifier](#nimi-poka).
-
-* jan ***pona*** *(iu bona, bona persono, amiko — someone good, good person, friend)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) en [nimi poka](#nimi-poka) ona li sama [nimi lawa](#nimi-lawa) wan li ken jo e [nimi poka](#nimi-poka) sin.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Substantivo](#nimi-lawa) kaj ĝia [modifilo](#nimi-poka) estas kiel unu [substantivo](#nimi-lawa) kaj povas havi aldonan [modifilon](#nimi-poka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [noun](#nimi-lawa) and its [modifier](#nimi-poka) are like one [noun](#nimi-lawa) and can have an additional [modifier](#nimi-poka).
-
-* jan pona ***mi*** *(mia amiko — my friend)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "[pi](#nimi-lili-pi)" la [nimi lawa](#nimi-lawa) li sama [nimi poka](#nimi-poka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ **partikulo** "[pi](#nimi-lili-pi)", [substantivo](#nimi-lawa) estas kiel [modifilo](#nimi-poka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After a **particle** "[pi](#nimi-lili-pi)", a [noun](#nimi-lawa) is like a [modifier](#nimi-poka).
-
-* tomo ***pi jan pona mi*** *(la domo de mia amiko — my friend's house)*
-* toki ***pi pona mute*** *(lingvo de multa bono, tre bona lingvo — a language of much good, a very good language)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "[li](#nimi-lili-li)" la [nimi lawa](#nimi-lawa) li [nimi wawa](#nimi-wawa).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ **partikulo** "[li](#nimi-lili-li)", [substantivo](#nimi-lawa) estas [verbo](#nimi-wawa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After a **particle** "[li](#nimi-lili-li)", a [noun](#nimi-lawa) is a [verb](#nimi-wawa).
-
-* ona ***li jan pona mi***. *(Ŝi estas mia amiko. — She is a friend of mine.)*
-
 #### nimi lawa
 *(Substantivoj — Nouns)*
 
@@ -702,6 +671,31 @@
 |:-:|
 | [nimi poka palisa](#nimi-poka-palisa) |
 | [nimi poka luka](#nimi-poka-luka) |
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi [nimi lawa](#nimi-lawa) la **nimi suli** wan taso li [nimi poka](#nimi-poka). Tan ni la ona li jo ala e [nimi lili "pi"](#nimi-lili-pi).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ [substantivo](#nimi-lawa), sola **radika vorto** estas [modifilo](#nimi-poka). Tial ĝi ne havas la [partikulon "pi"](#nimi-lili-pi).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After a [noun](#nimi-lawa), a sole **content word** is a [modifier](#nimi-poka). Because of that, it doesn't have the [particle "pi"](#nimi-lili-pi).
+
+* jan ***pona*** *(iu bona, bona persono, amiko — someone good, good person, friend)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) en [nimi poka](#nimi-poka) ona li sama [nimi lawa](#nimi-lawa) wan li ken jo e [nimi poka](#nimi-poka) sin.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Substantivo](#nimi-lawa) kaj ĝia [modifilo](#nimi-poka) estas kiel unu [substantivo](#nimi-lawa) kaj povas havi aldonan [modifilon](#nimi-poka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [noun](#nimi-lawa) and its [modifier](#nimi-poka) are like one [noun](#nimi-lawa) and can have an additional [modifier](#nimi-poka).
+
+* jan pona ***mi*** *(mia amiko — my friend)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "[pi](#nimi-lili-pi)" la [nimi lawa](#nimi-lawa) li sama [nimi poka](#nimi-poka).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ **partikulo** "[pi](#nimi-lili-pi)", [substantivo](#nimi-lawa) estas kiel [modifilo](#nimi-poka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After a **particle** "[pi](#nimi-lili-pi)", a [noun](#nimi-lawa) is like a [modifier](#nimi-poka).
+
+* tomo ***pi jan pona mi*** *(la domo de mia amiko — my friend's house)*
+* toki ***pi pona mute*** *(lingvo de multa bono, tre bona lingvo — a language of much good, a very good language)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "[li](#nimi-lili-li)" la [nimi lawa](#nimi-lawa) li [nimi wawa](#nimi-wawa).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ **partikulo** "[li](#nimi-lili-li)", [substantivo](#nimi-lawa) estas [verbo](#nimi-wawa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After a **particle** "[li](#nimi-lili-li)", a [noun](#nimi-lawa) is a [verb](#nimi-wawa).
+
+* ona ***li jan pona mi***. *(Ŝi estas mia amiko. — She is a friend of mine.)*
 
 ##### nimi poka palisa
 *(Korelativoj — Correlatives)*
