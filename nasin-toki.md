@@ -328,7 +328,7 @@
 | [en+](#nimi-lili-en-namako) |
 | [en!](#nimi-lili-en-nasa) |
 
-#### nimi lili "en" namako
+###### nimi lili "en" namako
 *(Aldona Konjunkcio "kaj" — Additonal Conjunction "and")*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili** "en" li ken lon nimi lon kama taso pi **nimi lili** "li".  
@@ -341,7 +341,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *What you say and what you do are the same.* |
 
 
-#### nimi lili "en" nasa
+###### nimi lili "en" nasa
 *(Stranga Konjunkcio "kaj" — Strange Conjunction "and")*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **sitelen nanpa** li ken kama **nimi lili** "en" nasa.  
@@ -367,19 +367,32 @@
 ##### nimi lili "anu"
 *(Konjunkcio "aŭ" — Conjunction "or")*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> poka pi **nimi lili** "anu" la nimi "ni" lon kama pi [mute nimi](#mute-nimi) en **sitelen nanpa** li kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Apud la **partikulo** "anu", "ni" antaŭ [frazo](#mute-nimi) kaj la **komoj** malaperas.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Next to the **particle** "anu", "ni" before a [sentence](#mute-nimi) and the **commas** disappear.
+| [↑](#nimi-lili-luka) |
+|:-:|
+| [anu+](#nimi-lili-anu-namako) |
 
-* ~~ni,~~ ona li mama ~~,~~ ***anu*** seme? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
-  * → ona li mama ***anu*** seme?
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kepeken nimi "anu seme" jan li ken toki e wile sona pi nimi "a" anu nimi "ala". ni la nimi "seme" li [nimi wawa](#nimi-wawa).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Pere de "anu seme" oni povas esprimi ĉu-demandon. Tiam "seme" estas [verbo](#nimi-wawa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> By means of "anu seme" one can express a yes-no-question. In this case "seme" is a [verb](#nimi-wawa).
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li mama anu seme? |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ĉu ŝi estas gepatro?* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Is she a parent?* |
+
+
+##### nimi lili "anu" namako
+*(Aldona Konjunkcio "aŭ" — Additional Conjunction "or")*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kama nimi la pini pi nimi sama lon poka pi nimi "ala" la **nimi lili** "anu" li kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Antaŭ vortoj kaj malantaŭ la samaj vortoj negitaj, la **partikulo** "anu" malaperas.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> In front of words and after the same words negated, the **particle** "anu" disappears.
 
-* ona li ***mama ala*** ~~anu~~ ***mama***? *(Ĉu ŝi estas gepatro? — Is she a parent?)*
-  * → ona li ***mama ala mama***?
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li mama ala anu mama? → ona li mama ala mama? |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ĉu ŝi estas gepatro?* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Is she a parent?* |
+
 
 ##### nimi lili "la"
 *(Kunteksta Frazero — Contextual Fragment)*
