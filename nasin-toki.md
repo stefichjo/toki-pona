@@ -271,10 +271,10 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** ne uzas genitivan frazeron (t.e. vortoj malantaŭ **partikulo** "pi") kombine kun alia genitiva frazero.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** doesn't use genitive phrases (i.e. words after a **particle** "pi") combined with other genitive phrases.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ni li tomo pi telo nasa pi jan pona. → jan pona li moku e telo nasa lon tomo ni. | ni li tomo pi telo nasa, pi jan pona. → jan pona li jo e tomo ni pi telo nasa. |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | *tomo pi telo nasa pi ma ante | *tomo pi telo nasa, pi ma ante |
 |:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Tio estas la domo de biero de amiko.* → *Amiko trinkas bieron en tiu domo.* | *Tio estas trinkejo de amiko.* → *Amiko havas tiun trinkejon.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *This is the house of a friend's beer.* → *A friend drinks beer in this house.* | *This is a friend's bar.* → *A friend has this bar.* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *domo de eksterlanda biero* | *eksterlanda trinkejo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *house of foreign beer* | *foreign bar* |
 
 
 ###### nimi lili "pi" nasa
