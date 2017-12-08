@@ -552,38 +552,30 @@
 
 | [↑](#nimi-suli) |
 |:-:|
-| [nimi lawa esun](#nimi-lawa-esun) |
 | [nimi lawa pona](#nimi-lawa-pona) |
 | [nimi lawa ijo](#nimi-lawa-ijo) |
 | [nimi lawa jan](#nimi-lawa-jan) |
 | [nimi lawa pali](#nimi-lawa-pali) |
 | [nimi lawa ilo](#nimi-lawa-ilo) |
 | [nimi lawa sijelo](#nimi-lawa-sijelo) |
-
-##### nimi lawa esun
-*(Pronomoj — Pronouns)*
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi | sina | ona |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *mi, ni* | *vi* | *ŝi, li, ĝi, ili* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I, we* | *you* | *she, he, it, they* |
-
+| [nimi lawa esun](#nimi-lawa-esun) |
 
 ##### nimi lawa pona
 *(Simplaj Substantivoj — Simple Nouns)*
 
-* ***ijo*** *(io — something)*
-* ***jan*** *(iu — somebody)*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ijo | jan |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *io, afero* | *iu, persono* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *something, a thing* | *somebody, a person* |
 
 ##### nimi lawa ijo
 *(Aĵaj Substantivoj — Thing Nouns)*
 
-* ***suwi*** *(dolĉa — sweet)*
-  * ~~ijo~~ ***suwi*** *(io dolĉa, dolĉaĵo — something sweet, sweets)*
-    * → ***suwi***
-* ***insa*** *(ena — inner)*
-  * ~~ijo~~ ***insa*** *(io ena, centro — something on the inside, center)*
-    * → ***insa***
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | suwi | insa |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *io dolĉa, dolĉaĵo* | *io ena, centro* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *something sweet, sweets* | *something on the inside, center* |
+
 
 ##### nimi lawa jan
 *(Ulaj Substantivoj — Person Nouns)*
@@ -610,6 +602,15 @@
 *(Korpaj Substantivoj — Body Nouns)*
 
 * ***kala*** *(fiŝo — fish)*
+
+##### nimi lawa esun
+*(Pronomoj — Pronouns)*
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi | sina | ona |
+|:-:|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *mi, ni* | *vi* | *ŝi, li, ĝi, ili* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I, we* | *you* | *she, he, it, they* |
+
 
 #### nimi wawa
 *(Verboj — Verbs)*
