@@ -571,6 +571,10 @@
 ##### nimi lawa ijo
 *(Aĵaj Substantivoj — Thing Nouns)*
 
+| [↑](#nimi-lawa) |
+|:-:|
+| [nimi lawa ijo musi](#nimi-lawa-ijo-musi) |
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** li **nimi lawa ijo**, la kon ona li jo e nimi "ijo".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **aĵa substantivo**, ĝi implicas la vorton "ijo".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is a **thing noun**, it implies the word "ijo".
@@ -659,9 +663,13 @@
 ##### nimi lawa jan
 *(Ulaj Substantivoj — Person Nouns)*
 
+| [↑](#nimi-lawa) |
+|:-:|
+| [nimi lawa jan musi](#nimi-lawa-jan-musi) |
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** li **nimi lawa jan**, la kon ona li jo e nimi "jan".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **ula substantivo**, ĝi implicas la vorton "jan".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is a **person noun**, it implies the word "jan".
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **ula substantivo**, ĝi implicas "jan".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is a **person noun**, it implies "jan".
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | meli | mije |
 |:-:|:-|:-|
@@ -678,17 +686,19 @@
 
 - kulupu
 - mama
-- akesi
-- soweli
 
 ---
 
 ##### nimi lawa ilo
 *(Ilaj Substantivoj — Tool Nouns)*
 
+| [↑](#nimi-lawa) |
+|:-:|
+| [nimi lawa ilo musi](#nimi-lawa-ilo-musi) |
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** li **nimi lawa ilo**, la kon ona li jo e nimi "ilo". tawa nasin toki la wan sijelo li ilo.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **ila substantivo**, ĝi implicas la vorton "ilo". De gramatika vidpunkto, organo estas ilo.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is a **tool noun**, it implies the word "ilo". From a grammatical point of view, organs are tools.
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **ila substantivo**, ĝi implicas "ilo". De gramatika vidpunkto, organo estas ilo.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is a **tool noun**, it implies "ilo". From a grammatical point of view, organs are tools.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | kute | lawa | lukin | pilin | uta |
 |:-:|:-|:-|:-|:-|:-|
@@ -720,9 +730,24 @@
 ##### nimi lawa pali
 *(Agaj Substantivoj — Action Nouns)*
 
-* ***moku*** *(manĝi — to eat)*
-  * ~~ijo~~ ***moku*** *(manĝaĵo, manĝo — something to eat, food)*
-    * → ***moku***
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** li **nimi lawa pali**, la ona li kon pi nimi "e ijo" lon tenpo ni: ona li kama [nimi wawa luka](#nimi-wawa-luka).
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **aga substantivo**, ĝi estas implicata de "e ijo", kiam ĝi fariĝas [transitiva verbo](#nimi-wawa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is an **action noun**, it implies "e ijo" when it becomes a [transitive verb](#nimi-wawa).
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | moku | pali | sitelen | sona | toki |
+|:-:|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *gluti, io por gluti, manĝaĵo* | *fari, io por fari, ago* | *desegni, io por desegni, bildo* | *scii, io por scii, scio* | *diri, io por diri, parolo/lingvo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to swallow, something to swallow, food* | *to do, something to do, action* | *to draw, something to draw, picture* | *to know, something to know, knowledge* | *to say, something to say, speech/language* |
+
+---
+
+- alasa, esun, mani
+- kalama, nanpa, nimi
+- jo, pana
+- olin, unpa |
+- nasin
+
+---
 
 ##### nimi lawa esun
 *(Pronomoj — Pronouns)*
