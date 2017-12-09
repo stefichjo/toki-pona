@@ -578,8 +578,8 @@
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ale | sewi | sike |
 |:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *tuta, io tuta, universo* | *supera, io supera, ĉielo* | *ronda, io ronda, cirklo* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *whole, something whole, universe* | *above, something above, sky* | *round, something round, cirklo* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *tuta, io tuta, universo* | *supera, io supera, ĉielo* | *ronda, io ronda, cirklo/globo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *whole, something whole, universe* | *above, something above, sky* | *round, something round, circle/globe* |
 
 
 ###### nimi lawa ijo musi
@@ -602,8 +602,8 @@
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | lipu | nena | sike |
 |:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *plata, folio* | *elstara, monto* | *ronda, cirklo* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *flat, leaf* | *outstanding, mountain* | *round, circle* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *plata, folio* | *elstara, monto* | *ronda, cirklo/globo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *flat, leaf* | *outstanding, mountain* | *round, circle/globe* |
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | kili | pan |
 |:-:|:-|:-|
