@@ -602,6 +602,11 @@
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *longa kaj fleksebla, haro* | *longa kaj malmola, fingro* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *long and flexible, hair* | *long and hard, finger* |
 
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | lipu° | nena°| sike |
+|:-:|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *plata, paĝo* | *elstara, nazo* | *ronda, cirklo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *flat, page* | *outstanding, nose* | *round, circle* |
+
 ---
 
 -- alasa, esun, mani, pali ??
@@ -614,7 +619,6 @@ MUSI
 -- lete — seli
 
 MUSI ALA?
--- lipu, nena, sike
 -- lupa, nasin
 -- ma, mun
 -- pimeja — suno
