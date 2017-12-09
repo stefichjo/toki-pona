@@ -571,10 +571,10 @@
 ##### nimi lawa ijo
 *(Aĵaj Substantivoj — Thing Nouns)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sewi | sike |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *supera, io supera, ĉielo* | *ronda, io ronda, cirklo* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *above, something above, sky* | *round, something round, cirklo* |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ale | sewi | sike |
+|:-:|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *tuta, io tuta, universo* | *supera, io supera, ĉielo* | *ronda, io ronda, cirklo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *whole, something whole, universe* | *above, something above, sky* | *round, something round, cirklo* |
 
 
 ###### nimi lawa ijo musi
@@ -582,22 +582,22 @@
 
 ---
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ale | wan° |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ale | wan |
 |:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *tuta, universo* | *unika, peco* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *whole, universe* | *unique, part* |
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ilo° | pakala°|
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ilo | pakala |
 |:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *utila, ilo* | *damaĝita, damaĝo* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *useful, tool* | *damaged, damage* |
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | linja° | palisa°|
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | linja | palisa |
 |:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *longa kaj fleksebla, haro* | *longa kaj malmola, fingro* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *long and flexible, hair* | *long and hard, finger* |
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | lipu° | nena°| sike |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | lipu | nena | sike |
 |:-:|:-|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *plata, paĝo* | *elstara, nazo* | *ronda, cirklo* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *flat, page* | *outstanding, nose* | *round, circle* |
