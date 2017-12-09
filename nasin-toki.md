@@ -686,9 +686,9 @@
 ##### nimi lawa ilo
 *(Ilaj Substantivoj — Tool Nouns)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** li **nimi lawa ilo**, la kon ona li jo e nimi "ilo". (wan sijelo li ilo.)  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **ila substantivo**, ĝi implicas la vorton "ilo". (Organo estas ilo.)  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is a **tool noun**, it implies the word "ilo". (Organs are tools.)
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** li **nimi lawa ilo**, la kon ona li jo e nimi "ilo". tawa nasin toki la wan sijelo li ilo.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **ila substantivo**, ĝi implicas la vorton "ilo". De gramatika vidpunkto, organo estas ilo.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is a **tool noun**, it implies the word "ilo". From a grammatical point of view, organs are tools.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | kute | lawa | lukin | pilin | uta |
 |:-:|:-|:-|:-|:-|:-|
