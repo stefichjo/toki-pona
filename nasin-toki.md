@@ -604,13 +604,19 @@
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | kili | pan |
 |:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *io pendanta, frukto* | *io falanta, semo* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *something hanging, fruit* | *something falling, seed* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *pendanta, frukto* | *falanta, semo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *hanging, fruit* | *falling, seed* |
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | kiwen | ko | kon | telo |
 |:-:|:-|:-|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *malmola, ŝtono* | *duon-malmola, pasto/pulvoro* | *ŝvebanta, aero* | *likva/malseka, akvo* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *hard, stone* | *semi-solid, dough/powder* | *hovering, air* | *liquid/wet, water* |
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | lete | seli |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *malvarma, frosto* | *varma, fajro* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *cold, frost* | *warm, fire* |
+
 
 ---
 
@@ -619,7 +625,6 @@
 
 MUSI
 -- kulupu — sijelo
--- lete — seli
 
 MUSI ALA?
 -- lupa, nasin
