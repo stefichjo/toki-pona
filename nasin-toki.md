@@ -609,8 +609,8 @@
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | kiwen | ko | kon | telo |
 |:-:|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *io malmola, ŝtono* | *io duon-malmola, pasto/pulvoro* | *io ŝvebanta, aero* | *io likva/malseka, akvo* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *something hard, stone* | *something semi-solid, dough/powder* | *something hovering, air* | *something liquid/wet, water* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *malmola, ŝtono* | *duon-malmola, pasto/pulvoro* | *ŝvebanta, aero* | *likva/malseka, akvo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *hard, stone* | *semi-solid, dough/powder* | *hovering, air* | *liquid/wet, water* |
 
 ---
 
