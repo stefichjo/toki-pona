@@ -602,13 +602,17 @@
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *plata, paĝo* | *elstara, nazo* | *ronda, cirklo* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *flat, page* | *outstanding, nose* | *round, circle* |
 
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | kili | pan |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *io pendanta, frukto* | *io falanta, semo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *something hanging, fruit* | *something falling, seed* |
+
 ---
 
 -- alasa, esun, mani, pali ??
 -- moku ??
 
 MUSI
--- kili, pan
 -- kiwen, ko, kon, telo
 -- kulupu — sijelo
 -- lete — seli
