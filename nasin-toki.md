@@ -599,8 +599,8 @@
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | lipu | nena | sike |
 |:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *plata, paĝo* | *elstara, nazo* | *ronda, cirklo* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *flat, page* | *outstanding, nose* | *round, circle* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *plata, folio* | *elstara, monto* | *ronda, cirklo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *flat, leaf* | *outstanding, mountain* | *round, circle* |
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | kili | pan |
 |:-:|:-|:-|
