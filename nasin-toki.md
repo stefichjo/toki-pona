@@ -592,11 +592,6 @@
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *utila, ilo* | *damaĝita, damaĝo* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *useful, tool* | *damaged, damage* |
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ilo° | pakala°|
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *utila, ilo* | *damaĝita, damaĝo* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *useful, tool* | *damaged, damage* |
-
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | linja° | palisa°|
 |:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *longa kaj fleksebla, haro* | *longa kaj malmola, fingro* |
