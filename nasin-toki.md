@@ -698,8 +698,8 @@
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | poki | tomo |
 |:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *esti plena je, ujo/ingo* | *protekti, ĉambro/domo* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to be full of, container* | *to protect, room/house* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *reteni, ujo/ingo* | *protekti, ĉambro/domo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to keep, container* | *to protect, room/house* |
 
 
 ##### nimi lawa pali
