@@ -607,13 +607,17 @@
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *io pendanta, frukto* | *io falanta, semo* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *something hanging, fruit* | *something falling, seed* |
 
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | kiwen | ko | kon | telo |
+|:-:|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *io malmola, ŝtono* | *io duon-malmola, pasto/pulvoro* | *io ŝvebanta, aero* | *io likva/malseka, akvo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *something hard, stone* | *something semi-solid, dough/powder* | *something hovering, air* | *something liquid/wet, water* |
+
 ---
 
 -- alasa, esun, mani, pali ??
 -- moku ??
 
 MUSI
--- kiwen, ko, kon, telo
 -- kulupu — sijelo
 -- lete — seli
 
