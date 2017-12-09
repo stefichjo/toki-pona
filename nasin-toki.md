@@ -629,8 +629,8 @@
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | pimeja | suno |
 |:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *malhela, mallumo* | *hela, lumo* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *dark, dark* | *bright, light* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *malhela, ombro* | *hela, lumo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *dark, shadow* | *bright, light* |
 
 
 ---
