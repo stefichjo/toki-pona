@@ -637,9 +637,19 @@
 ##### nimi lawa jan
 *(Ulaj Substantivoj — Person Nouns)*
 
-* ***meli*** *(ina — female)*
-  * ~~jan~~ ***meli*** *(iu ina, virino — someone female, woman)*
-    * → ***meli***
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** li **nimi lawa jan**, la kon ona li jo e nimi "jan".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **ula substantivo**, ĝi implicas la vorton "jan".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is a **person noun**, it implies the word "jan".
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mama | meli | mije |
+|:-:|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *gepatro* | *ina, iu ina, virino* | *vira, viro* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *parent* | *female, somebody female, woman* | *male, sobody male, man* |
+
+---
+- mama
+
+---
 
 ##### nimi lawa pali
 *(Agaj Substantivoj — Action Nouns)*
@@ -2113,11 +2123,11 @@
 |                                                        | *[WAWA POKA](#nimi-wawa-poka)*      | kama, ken, **lukin**, open, wile |
 | <img src="musi/sitelen/pona/lupa.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | **lupa**, nasin |
 | <img src="musi/sitelen/pona/ma.png" height="12">       | *[LAWA IJO](#nimi-lawa-ijo)*        | **ma**, mun |
-| <img src="musi/sitelen/pona/mama.png" height="12">     | *[JAN](#nimi-lawa-jan)*             | **mama** |
+| <img src="musi/sitelen/pona/mama.png" height="12">     | *[LAWA JAN](#nimi-lawa-jan)*        | **mama** |
 | <img src="musi/sitelen/pona/mani.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | alasa, esun, **mani**, pali |
-| <img src="musi/sitelen/pona/meli.png" height="12">     | *[JAN](#nimi-lawa-jan)*             | **meli** — mije |
+| <img src="musi/sitelen/pona/meli.png" height="12">     | *[LAWA JAN](#nimi-lawa-jan)*        | **meli** — mije |
 | <img src="musi/sitelen/pona/mi.png" height="12">       | *[ESUN](#nimi-lawa-esun)*           | **mi**, ona, sina |
-| <img src="musi/sitelen/pona/mije.png" height="12">     | *[JAN](#nimi-lawa-jan)*             | meli — **mije** |
+| <img src="musi/sitelen/pona/mije.png" height="12">     | *[LAWA JAN](#nimi-lawa-jan)*        | meli — **mije** |
 | <img src="musi/sitelen/pona/moku.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | **moku** |
 | <img src="musi/sitelen/pona/moli.png" height="12">     | *[PONA](#nimi-pona)*                | lape, **moli**, musi |
 | <img src="musi/sitelen/pona/monsi.png" height="12">    | *[NASIN](#nimi-nasin)*              | **monsi** — sinpin |
