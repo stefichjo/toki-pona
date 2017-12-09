@@ -571,11 +571,54 @@
 ##### nimi lawa ijo
 *(Aĵaj Substantivoj — Thing Nouns)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | suwi | insa |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sewi | sike |
 |:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *io dolĉa, dolĉaĵo* | *io ena, centro* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *something sweet, sweets* | *something on the inside, center* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *supera, io supera, ĉielo* | *ronda, io ronda, cirklo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *above, something above, sky* | *round, something round, cirklo* |
 
+
+###### nimi lawa ijo musi
+*(Eksperimentaj Aĵaj Substantivoj — Experimental Thing Nouns)*
+
+---
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ale | wan° |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *tuta, universo* | *unika, peco* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *whole, universe* | *unique, part* |
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ilo° | pakala°|
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *utila, ilo* | *damaĝita, damaĝo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *useful, tool* | *damaged, damage* |
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ilo° | pakala°|
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *utila, ilo* | *damaĝita, damaĝo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *useful, tool* | *damaged, damage* |
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | linja° | palisa°|
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *longa kaj fleksebla, haro* | *longa kaj malmola, fingro* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *long and flexible, hair* | *long and hard, finger* |
+
+---
+
+-- alasa, esun, mani, pali ??
+-- moku ??
+
+MUSI
+-- kili, pan
+-- kiwen, ko, kon, telo
+-- kulupu — sijelo
+-- lete — seli
+
+MUSI ALA?
+-- lipu, nena, sike
+-- lupa, nasin
+-- ma, mun
+-- pimeja — suno
+-- poka, tenpo
 
 ##### nimi lawa jan
 *(Ulaj Substantivoj — Person Nouns)*
@@ -1077,20 +1120,10 @@
 
 | [↑](#nimi-suli-musi) |
 |:-:|
-| [nimi lawa ijo musi](#nimi-lawa-ijo-musi) |
 | [nimi lawa jan musi](#nimi-lawa-jan-musi) |
 | [nimi lawa ilo musi](#nimi-lawa-ilo-musi) |
 | [nimi lawa sijelo musi](#nimi-lawa-sijelo-musi) |
 | [nimi lawa mun musi](#nimi-lawa-mun-musi) |
-
-##### nimi lawa ijo musi
-*(Eksperimentaj Aĵaj Vortoj — Experimental Thing Words)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sin", "sitelen", "telo", "tenpo", "weka" li [nimi lawa ijo](#nimi-lawa-ijo) **musi**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sin", "sitelen", "telo", "tenpo" kaj "weka" estas **eksperimentaj** [aĵaj vortoj](#nimi-lawa-ijo).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ilo", "kili", "kon", "kulupu", "lipu", "lupa", "ma", "mani", "mun", "nanpa", "nasin", "nena", "nimi", "palisa", "sijelo", "sin", "sitelen", "telo", "tenpo" kaj "weka" are **experimental** [thing words](#nimi-lawa-ijo).
-
-* lipu ***ilo*** *(utila libro — a useful book)*
 
 ##### nimi lawa jan musi
 *(Eksperimentaj Ulaj Vortoj — Experimental Person Words)*
