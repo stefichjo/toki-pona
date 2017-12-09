@@ -730,22 +730,35 @@
 ##### nimi lawa pali
 *(Agaj Substantivoj — Action Nouns)*
 
+| [↑](#nimi-lawa) |
+|:-:|
+| [nimi lawa pali musi](#nimi-lawa-pali-musi) |
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** li **nimi lawa pali**, la ona li kon pi nimi "e ijo" lon tenpo ni: ona li kama [nimi wawa luka](#nimi-wawa-luka).
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **aga substantivo**, ĝi estas implicata de "e ijo", kiam ĝi fariĝas [transitiva verbo](#nimi-wawa).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is an **action noun**, it implies "e ijo" when it becomes a [transitive verb](#nimi-wawa).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | moku | pali | sitelen | sona | toki |
 |:-:|:-|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *gluti, io por gluti, manĝaĵo* | *fari, io por fari, ago* | *desegni, io por desegni, bildo* | *scii, io por scii, scio* | *diri, io por diri, parolo/lingvo* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *gluti, io por gluti, manĝo* | *fari, io por fari, ago* | *desegni, io por desegni, bildo* | *koni, io por koni, scio* | *diri, io por diri, parolo/lingvo* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to swallow, something to swallow, food* | *to do, something to do, action* | *to draw, something to draw, picture* | *to know, something to know, knowledge* | *to say, something to say, speech/language* |
 
----
+##### nimi lawa pali musi
+*(Eksperimentaj Agaj Substantivoj — Experimental Action Nouns)*
 
-- alasa, esun, mani
-- kalama, nanpa, nimi
-- jo, pana
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | jo | pana |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *havi, eco* | *doni, donaco* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to have, property* | *to give, gift* |
+
+
+- , esun, mani
+- , nanpa, nimi
 - olin, unpa |
 - nasin
+
+alasa
+kalama
 
 ---
 
