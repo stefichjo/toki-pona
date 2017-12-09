@@ -617,10 +617,14 @@
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *malvarma, frosto* | *varma, fajro* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *cold, frost* | *warm, fire* |
 
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | pimeja | suno |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *malhela, mallumo* | *hela, lumo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *dark, dark* | *bright, light* |
+
 
 ---
 
--- alasa, esun, mani, pali ??
 -- moku ??
 
 MUSI
@@ -629,7 +633,6 @@ MUSI
 MUSI ALA?
 -- lupa, nasin
 -- ma, mun
--- pimeja — suno
 -- poka, tenpo
 
 ##### nimi lawa jan
@@ -2059,7 +2062,7 @@ MUSI ALA?
 | <img src="musi/sitelen/pona/akesi.png" height="12">    | *[SIJELO](#nimi-lawa-sijelo)*       | **akesi** — soweli |
 | <img src="musi/sitelen/pona/ala.png" height="12">      | *[LILI KALAMA](#nimi-lili-kalama)*  | mu — a, **ala** |
 |                                                        | *[PALISA](#nimi-poka-palisa)*       | **ala**, ale, ni, seme |
-| <img src="musi/sitelen/pona/alasa.png" height="12">    | *[IJO](#nimi-lawa-ijo)*             | **alasa**, esun, mani, pali |
+| <img src="musi/sitelen/pona/alasa.png" height="12">    | *[LAWA PALI](#nimi-lawa-pali)*      | **alasa**, esun, mani, pali |
 | <img src="musi/sitelen/pona/ale.png" height="12">      | *[IJO](#nimi-lawa-ijo)*             | **ale** — wan |
 |                                                        | *[PALISA](#nimi-poka-palisa)*       | ala, **ale**, ni, seme |
 | <img src="musi/sitelen/pona/anpa.png" height="12">     | *[NASIN](#nimi-nasin)*              | **anpa** — sewi |
@@ -2068,7 +2071,7 @@ MUSI ALA?
 | <img src="musi/sitelen/pona/awen.png" height="12">     | *[WAWA POKA](#nimi-wawa-poka)*      | **awen**, kama, pini |
 | <img src="musi/sitelen/pona/e.png" height="12">        | *[LILI LUKA](#nimi-lili-luka)*      | **e**, li, o, pi |
 | <img src="musi/sitelen/pona/en.png" height="12">       | *[LILI LUKA](#nimi-lili-luka)*      | anu, **en** |
-| <img src="musi/sitelen/pona/esun.png" height="12">     | *[IJO](#nimi-lawa-ijo)*             | alasa, **esun**, mani, pali |
+| <img src="musi/sitelen/pona/esun.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | alasa, **esun**, mani, pali |
 |                                                        | *[NANPA](#nimi-poka-palisa-nanpa)*  | **esun**, luka, mute, tu, wan |
 | <img src="musi/sitelen/pona/ijo.png" height="12">      | *[LAWA PONA](#nimi-lawa-pona)*      | **ijo** — jan |
 | <img src="musi/sitelen/pona/ike.png" height="12">      | *[PONA](#nimi-pona)*                | pona — **ike**, nasa, utala |
@@ -2077,9 +2080,9 @@ MUSI ALA?
 | <img src="musi/sitelen/pona/jaki.png" height="12">     | *[IJO](#nimi-lawa-ijo)*             | **jaki** — suwi |
 | <img src="musi/sitelen/pona/jan.png" height="12">      | *[LAWA PONA](#nimi-lawa-pona)*      | ijo — **jan** |
 | <img src="musi/sitelen/pona/jelo.png" height="12">     | *[KULE](#nimi-poka-kule)*           | **jelo**, kule, laso, loje |
-| <img src="musi/sitelen/pona/jo.png" height="12">       | *[PALI](#nimi-lawa-pali)*           | **jo**, pana |
+| <img src="musi/sitelen/pona/jo.png" height="12">       | *[LAWA PALI](#nimi-lawa-pali)*      | **jo**, pana |
 | <img src="musi/sitelen/pona/kala.png" height="12">     | *[SIJELO](#nimi-lawa-sijelo)*       | **kala**, kasi, pipi, waso |
-| <img src="musi/sitelen/pona/kalama.png" height="12">   | *[PALI](#nimi-lawa-pali)*           | **kalama**, nanpa, nimi, sitelen, sona, toki |
+| <img src="musi/sitelen/pona/kalama.png" height="12">   | *[LAWA PALI](#nimi-lawa-pali)*      | **kalama**, nanpa, nimi, sitelen, sona, toki |
 | <img src="musi/sitelen/pona/kama.png" height="12">     | *[WAWA POKA](#nimi-wawa-poka)*      | awen, **kama**, pini |
 |                                                        | *[WAWA POKA](#nimi-wawa-poka)*      | **kama**, ken, lukin, open, wile |
 | <img src="musi/sitelen/pona/kasi.png" height="12">     | *[SIJELO](#nimi-lawa-sijelo)*       | kala, **kasi**, pipi, waso |
@@ -2112,7 +2115,7 @@ MUSI ALA?
 | <img src="musi/sitelen/pona/lupa.png" height="12">     | *[IJO](#nimi-lawa-ijo)*             | **lupa**, nasin |
 | <img src="musi/sitelen/pona/ma.png" height="12">       | *[IJO](#nimi-lawa-ijo)*             | **ma**, mun |
 | <img src="musi/sitelen/pona/mama.png" height="12">     | *[JAN](#nimi-lawa-jan)*             | **mama** |
-| <img src="musi/sitelen/pona/mani.png" height="12">     | *[IJO](#nimi-lawa-ijo)*             | alasa, esun, **mani**, pali |
+| <img src="musi/sitelen/pona/mani.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | alasa, esun, **mani**, pali |
 | <img src="musi/sitelen/pona/meli.png" height="12">     | *[JAN](#nimi-lawa-jan)*             | **meli** — mije |
 | <img src="musi/sitelen/pona/mi.png" height="12">       | *[ESUN](#nimi-lawa-esun)*           | **mi**, ona, sina |
 | <img src="musi/sitelen/pona/mije.png" height="12">     | *[JAN](#nimi-lawa-jan)*             | meli — **mije** |
@@ -2124,25 +2127,25 @@ MUSI ALA?
 | <img src="musi/sitelen/pona/musi.png" height="12">     | *[PONA](#nimi-pona)*                | lape, moli, **musi** |
 | <img src="musi/sitelen/pona/mute.png" height="12">     | *[PONA](#nimi-pona)*                | lili — **mute**, suli, wawa |
 |                                                        | *[NANPA](#nimi-poka-palisa-nanpa)*  | esun, luka, **mute**, tu, wan |
-| <img src="musi/sitelen/pona/nanpa.png" height="12">    | *[PALI](#nimi-lawa-pali)*           | kalama, **nanpa**, nimi, sitelen, sona, toki |
+| <img src="musi/sitelen/pona/nanpa.png" height="12">    | *[LAWA PALI](#nimi-lawa-pali)*      | kalama, **nanpa**, nimi, sitelen, sona, toki |
 | <img src="musi/sitelen/pona/nasa.png" height="12">     | *[PONA](#nimi-pona)*                | pona — ike, **nasa**, utala |
-| <img src="musi/sitelen/pona/nasin.png" height="12">    | *[PALI](#nimi-lawa-pali)*           | lupa, **nasin** |
+| <img src="musi/sitelen/pona/nasin.png" height="12">    | *[LAWA PALI](#nimi-lawa-pali)*      | lupa, **nasin** |
 | <img src="musi/sitelen/pona/nena.png" height="12">     | *[IJO](#nimi-lawa-ijo)*             | lipu, **nena**, sike |
 | <img src="musi/sitelen/pona/ni.png" height="12">       | *[PALISA](#nimi-poka-palisa)*       | ala, ale, **ni**, seme |
-| <img src="musi/sitelen/pona/nimi.png" height="12">     | *[PALI](#nimi-lawa-pali)*           | kalama, nanpa, **nimi**, sitelen, sona, toki |
+| <img src="musi/sitelen/pona/nimi.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | kalama, nanpa, **nimi**, sitelen, sona, toki |
 | <img src="musi/sitelen/pona/noka.png" height="12">     | *[WAN SIJELO](#wan-sijelo)*         | kute, lawa, luka, lukin, **noka**, palisa, pilin, selo, uta |
 |                                                        | *[NASIN](#nimi-nasin)*              | lawa — **noka** |
 | <img src="musi/sitelen/pona/o.png" height="12">        | *[LILI LUKA](#nimi-lili-luka)*      | e, li, **o**, pi |
-| <img src="musi/sitelen/pona/olin.png" height="12">     | *[PALI](#nimi-lawa-pali)*           | **olin**, unpa |
+| <img src="musi/sitelen/pona/olin.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | **olin**, unpa |
 | <img src="musi/sitelen/pona/ona.png" height="12">      | *[ESUN](#nimi-lawa-esun)*           | mi, **ona**, sina |
 | <img src="musi/sitelen/pona/open.png" height="12">     | *[PONA](#nimi-pona)*                | **open** — selo |
 |                                                        | *[WAWA POKA](#nimi-wawa-poka)*      | kama, ken, lukin, **open**, wile |
 | <img src="musi/sitelen/pona/pakala.png" height="12">   | *[IJO](#nimi-lawa-ijo)*             | ilo — **pakala** |
-| <img src="musi/sitelen/pona/pali.png" height="12">     | *[IJO](#nimi-lawa-ijo)*             | alasa, esun, mani, **pali** |
+| <img src="musi/sitelen/pona/pali.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | alasa, esun, mani, **pali** |
 | <img src="musi/sitelen/pona/palisa.png" height="12">   | *[IJO](#nimi-lawa-ijo)*             | linja — **palisa** |
 |                                                        | *[WAN SIJELO](#wan-sijelo)*         | kute, lawa, luka, lukin, noka, **palisa**, pilin, selo, uta |
 | <img src="musi/sitelen/pona/pan.png" height="12">      | *[IJO](#nimi-lawa-ijo)*             | kili, **pan** |
-| <img src="musi/sitelen/pona/pana.png" height="12">     | *[PALI](#nimi-lawa-pali)*           | jo, **pana** |
+| <img src="musi/sitelen/pona/pana.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | jo, **pana** |
 | <img src="musi/sitelen/pona/pi.png" height="12">       | *[LILI LUKA](#nimi-lili-luka)*      | e, li, o, **pi** |
 | <img src="musi/sitelen/pona/pilin.png" height="12">    | *[WAN SIJELO](#wan-sijelo)*         | kute, lawa, luka, lukin, noka, palisa, **pilin**, selo, uta |
 | <img src="musi/sitelen/pona/pimeja.png" height="12">   | *[KULE](#nimi-poka-kule)*           | **pimeja** — walo |
@@ -2165,8 +2168,8 @@ MUSI ALA?
 | <img src="musi/sitelen/pona/sin.png" height="12">      | *[NASIN](#nimi-nasin)*              | weka — insa, poka, **sin** |
 | <img src="musi/sitelen/pona/sina.png" height="12">     | *[ESUN](#nimi-lawa-esun)*           | mi, ona, **sina** |
 | <img src="musi/sitelen/pona/sinpin.png" height="12">   | *[NASIN](#nimi-nasin)*              | monsi — **sinpin** |
-| <img src="musi/sitelen/pona/sitelen.png" height="12">  | *[PALI](#nimi-lawa-pali)*           | kalama, nanpa, nimi, **sitelen**, sona, toki |
-| <img src="musi/sitelen/pona/sona.png" height="12">     | *[PALI](#nimi-lawa-pali)*           | kalama, nanpa, nimi, sitelen, **sona**, toki |
+| <img src="musi/sitelen/pona/sitelen.png" height="12">  | *[LAWA PALI](#nimi-lawa-pali)*      | kalama, nanpa, nimi, **sitelen**, sona, toki |
+| <img src="musi/sitelen/pona/sona.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | kalama, nanpa, nimi, sitelen, **sona**, toki |
 | <img src="musi/sitelen/pona/soweli.png" height="12">   | *[SIJELO](#nimi-lawa-sijelo)*       | akesi — **soweli** |
 | <img src="musi/sitelen/pona/suli.png" height="12">     | *[PONA](#nimi-pona)*                | lili — mute, **suli**, wawa |
 | <img src="musi/sitelen/pona/suno.png" height="12">     | *[IJO](#nimi-lawa-ijo)*             | pimeja — **suno** |
@@ -2177,11 +2180,11 @@ MUSI ALA?
 | <img src="musi/sitelen/pona/tawa.png" height="12">     | *[LUKA](#nimi-poka-luka)*           | kepeken — lon, tan, **tawa** |
 | <img src="musi/sitelen/pona/telo.png" height="12">     | *[IJO](#nimi-lawa-ijo)*             | kiwen, ko, kon, **telo** |
 | <img src="musi/sitelen/pona/tenpo.png" height="12">    | *[IJO](#nimi-lawa-ijo)*             | poka, **tenpo** |
-| <img src="musi/sitelen/pona/toki.png" height="12">     | *[PALI](#nimi-lawa-pali)*           | kalama, nanpa, nimi, sitelen, sona, **toki** |
+| <img src="musi/sitelen/pona/toki.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | kalama, nanpa, nimi, sitelen, sona, **toki** |
 | <img src="musi/sitelen/pona/tomo.png" height="12">     | *[ILO](#nimi-lawa-ilo)*             | poki, **tomo** |
 | <img src="musi/sitelen/pona/tu.png" height="12">       | *[PONA](#nimi-pona)*                | **tu** — wan |
 |                                                        | *[NANPA](#nimi-poka-palisa-nanpa)*  | esun, luka, mute, **tu**, wan |
-| <img src="musi/sitelen/pona/unpa.png" height="12">     | *[PALI](#nimi-lawa-pali)*           | olin, **unpa** |
+| <img src="musi/sitelen/pona/unpa.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | olin, **unpa** |
 | <img src="musi/sitelen/pona/uta.png" height="12">      | *[WAN SIJELO](#wan-sijelo)*         | kute, lawa, luka, lukin, noka, palisa, pilin, selo, **uta** |
 | <img src="musi/sitelen/pona/utala.png" height="12">    | *[PONA](#nimi-pona)*                | pona — ike, nasa, **utala** |
 | <img src="musi/sitelen/pona/walo.png" height="12">     | *[KULE](#nimi-poka-kule)*           | pimeja — **walo** |
