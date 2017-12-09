@@ -641,15 +641,31 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **ula substantivo**, ĝi implicas la vorton "jan".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is a **person noun**, it implies the word "jan".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mama | meli | mije |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *gepatro* | *ina, iu ina, virino* | *vira, viro* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *parent* | *female, somebody female, woman* | *male, sobody male, man* |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | meli | mije |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *ina, iu ina, virino* | *vira, viro* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *female, somebody female, woman* | *male, sobody male, man* |
+
+
+###### nimi lawa jan musi
+*(Eksperimentaj Ulaj Vortoj — Experimental Person Words)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "akesi", "mama", "soweli" li [nimi lawa jan](#nimi-lawa-jan) **musi**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "akesi", "mama" kaj "soweli" estas **eksperimentaj** [ulaj vortoj](#nimi-lawa-jan).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "akesi", "mama" and "soweli" are **experimental** [person words](#nimi-lawa-jan).
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** li **nimi lawa jan**, la kon ona li jo e nimi "jan".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **ula substantivo**, ĝi implicas la vorton "jan".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is a **person noun**, it implies the word "jan".
 
 ---
+* mi en sina li toki ***kulupu***. *(Mi kaj vi parolas unu al la alia. — You and I talk to one another.)*
+
+- kulupu
 - mama
 
 ---
+
 
 ##### nimi lawa pali
 *(Agaj Substantivoj — Action Nouns)*
@@ -1144,19 +1160,9 @@
 
 | [↑](#nimi-suli-musi) |
 |:-:|
-| [nimi lawa jan musi](#nimi-lawa-jan-musi) |
 | [nimi lawa ilo musi](#nimi-lawa-ilo-musi) |
 | [nimi lawa sijelo musi](#nimi-lawa-sijelo-musi) |
 | [nimi lawa mun musi](#nimi-lawa-mun-musi) |
-
-##### nimi lawa jan musi
-*(Eksperimentaj Ulaj Vortoj — Experimental Person Words)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "akesi", "mama", "soweli" li [nimi lawa jan](#nimi-lawa-jan) **musi**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "akesi", "mama" kaj "soweli" estas **eksperimentaj** [ulaj vortoj](#nimi-lawa-jan).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "akesi", "mama" and "soweli" are **experimental** [person words](#nimi-lawa-jan).
-
-* mi en sina li toki ***kulupu***. *(Mi kaj vi parolas unu al la alia. — You and I talk to one another.)*
 
 ##### nimi lawa ilo musi
 *(Eksperimentaj Ilaj Vortoj — Experimental Tool Words)*
