@@ -735,7 +735,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is an **action noun**, it implies "e ijo" when it becomes a [transitive verb](#nimi-wawa).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | moku | pali | sitelen | sona | toki |
-|:-:|:-|:-|:-|:-|
+|:-:|:-|:-|:-|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *gluti, io por gluti, manĝaĵo* | *fari, io por fari, ago* | *desegni, io por desegni, bildo* | *scii, io por scii, scio* | *diri, io por diri, parolo/lingvo* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to swallow, something to swallow, food* | *to do, something to do, action* | *to draw, something to draw, picture* | *to know, something to know, knowledge* | *to say, something to say, speech/language* |
 
