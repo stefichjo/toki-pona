@@ -758,9 +758,14 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to count, number* | *to name, word* |
 
 
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | nasin |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *solvi, solvo/vojo/maniero* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to solve, solution/way/method* |
+
+
 - esun, mani
-- olin, unpa |
-- nasin
+- olin, unpa
 
 - alasa
 - kalama
