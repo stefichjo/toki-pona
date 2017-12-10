@@ -15,9 +15,9 @@
 * ***sina*** ~~li~~ sin. *(Vi estas nova. — You are new.)*
   * → ***sina*** sin.
   
-<img src="musi/sitelen/len-ma/tp.png" height="18"> wan lipu "[toki namako](#toki-namako)" li toki e nasin toki sin pi jan **Sonja** lon lipu suli pi toki pona.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La sekcio "[Aldona Lingvaĵo](#toki-namako)" traktas la aldonan lingvouzon de **Sonja** en la Oficiala Libro de Tokipono.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The section "[Additional Language](#toki-namako)" treats **Sonja**'s additional way of using the language in the Official Toki Pona Book.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> wan lipu **"toki namako"** li toki e nasin toki sin pi jan **Sonja** lon lipu suli pi toki pona.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La sekcio **"Aldona Lingvaĵo"** traktas la aldonan lingvouzon de **Sonja** en la Oficiala Libro de Tokipono.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The section **"Additional Language"** treats **Sonja**'s additional way of using the language in the Official Toki Pona Book.
 
 * ona li pana e ***telo*** tawa kasi. *(Ŝi donas akvon al la planto. — She gives water to the plant.)*
   * → ona li ***telo*** e kasi. *(Ŝi akvumas la planton. — She waters the plant.)*
@@ -50,11 +50,6 @@
 
 # toki suli
 *(Oficiala Lingvaĵo — Official Language)*
-
-| [↑](#nasin-toki-pi-toki-pona) |
-|:-:|
-| [toki lili](#toki-lili) |
-| [toki namako](#toki-namako) |
 
 ## toki lili
 *(Kerna Lingvaĵo — Core Language)*
@@ -890,6 +885,7 @@
 | [↑](#nimi-suli) |
 |:-:|
 | [nimi poka palisa](#nimi-poka-palisa) |
+| [nimi poka nanpa](#nimi-poka-nanpa) |
 | [nimi poka luka](#nimi-poka-luka) |
 
 ##### nimi poka palisa
@@ -918,7 +914,7 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Laŭ **Sonja** "seme" estas [partikulo](#nimi-lili).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 
-###### nimi poka nanpa
+##### nimi poka nanpa
 *(Numeraloj — Numerals)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ala", "wan", "tu", "luka", "ale" li ken kama **nimi poka nanpa**.  
@@ -933,6 +929,16 @@
 
 * toki wan *(unika lingvo — a unique language)*
   * → toki ***wan*** *(unu lingvo — one languge)*
+
+###### nimi poka nanpa namako
+*(Aldonaj Numeraloj — Additional Numerals)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka nanpa](#nimi-poka-nanpa) tu la **sitelen nanpa** li ken kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Ĉe du [numeraloj](#nimi-poka-nanpa), la **komo** povas malaperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> With two [numerals](#nimi-poka-nanpa), the **comma** can disappear.
+
+* palisa ***luka***, ***tu*** *(kvin fingroj kaj du → sep fingroj — five fingers and two → seven fingers)*
+  * → palisa ***luka tu***
 
 ##### nimi poka luka
 *(Prepozicioj — Prepositions)*
@@ -1027,33 +1033,6 @@
 | <img src="musi/sitelen/pona/ma-kanata.png" height="25"> | <img src="musi/sitelen/pona/toki-nanpa-wan.png" height="25"> | 
 |:--:|:--:| 
 | *ma Kanata* | *toki nanpa wan* |
-
-## toki namako
-*(Aldona Lingvaĵo — Additional Language)*
-
-| [↑](#toki-suli) |
-|:-:|
-| [nimi suli namako](#nimi-suli-namako) |
-
-### nimi suli namako
-*(Aldonaj Radikaj Vortoj — Additional Content Words)*
-
-| [↑](#toki-namako) |
-|:-:|
-| [nimi poka nanpa namako](#nimi-poka-nanpa-namako) |
-
-#### nimi poka nanpa namako
-*(Aldonaj Numeraloj — Additional Numerals)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka nanpa](#nimi-poka-nanpa) tu la **sitelen nanpa** li ken kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Ĉe du [numeraloj](#nimi-poka-nanpa), la **komo** povas malaperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> With two [numerals](#nimi-poka-nanpa), the **comma** can disappear.
-
-* palisa ***luka***, ***tu*** *(kvin fingroj kaj du → sep fingroj — five fingers and two → seven fingers)*
-  * → palisa ***luka tu***
-
-#### nimi poka namako
-*(Aldonaj Modifiloj — Additional Numerals)*
 
 # toki kulupu
 *(Komunuma Lingvaĵo — Community Language)*
