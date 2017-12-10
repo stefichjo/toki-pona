@@ -1630,7 +1630,7 @@
 | <img src="musi/sitelen/pona/wile.png" height="12">     | *[WAWA POKA](#nimi-wawa-poka)*      | kama, ken, lukin, open, sona, **wile** |
 
 ## lipu mun
-*(Kalendaro — Calender)*
+*(Kalendaro — Calendar)*
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ma/ma Ma | suno/suno Suno | mun/mun Mun |
 |:-:|:-|:-|:-|
