@@ -797,8 +797,8 @@
 
 | [↑](#nimi-wawa) |
 |:-:|
-| [nimi wawa luka](#nimi-wawa-poka-musi) |
-| [nimi wawa poka](#nimi-wawa-poka-nasa) |
+| [nimi wawa poka musi](#nimi-wawa-poka-musi) |
+| [nimi wawa poka nasa](#nimi-wawa-poka-nasa) |
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | awen | kama |
 |:-:|:-|:-|
