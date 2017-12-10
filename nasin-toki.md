@@ -891,6 +891,10 @@
 ##### nimi poka palisa
 *(Korelativoj — Correlatives)*
 
+| [↑](#nimi-poka) |
+|:-:|
+| [nimi poka palisa namako](#nimi-poka-palisa-namako) |
+
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala | ale | ni | seme |
 |:-:|:-|:-|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *neniu, neniu aĵo, nenio* | *ĉiu, ĉiu aĵo, ĉio* | *tiu, tiu aĵo, tio* | *kiu, kiu aĵo, kio* |
@@ -914,31 +918,140 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Laŭ **Sonja** "seme" estas [partikulo](#nimi-lili).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 
+
+###### nimi poka palisa musi
+*(Eksperimentaj Korelativoj — Experimental Correlatives)*
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi sona e ni: sina toki pona tan seme. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi scias, kial vi tokiponumas.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I know why you speak Toki Pona.* |
+
+
 ##### nimi poka nanpa
 *(Numeraloj — Numerals)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ala", "wan", "tu", "luka", "ale" li ken kama **nimi poka nanpa**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "ala", "wan", "tu", "luka" kaj "ale" povas fariĝi **numeraloj**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ala", "wan", "tu", "luka" and "ale" can become **numerals**.
+| [↑](#nimi-poka) |
+|:-:|
+| [nimi poka nanpa namako](#nimi-poka-nanpa-namako) |
+| [nimi poka nanpa musi](#nimi-poka-nanpa-musi) |
 
-* luka ***wan*** li jo e palisa ***luka***. *(Unu mano havas kvin fingrojn. — One hand has five fingers.)*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | luka | mute | tu | wan |
+|:-:|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *kvin* | *tri* | *du* | *wan* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *five* | *three* | *two* | *one* |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) li ken jo e kon sin nanpa, la ona li [nimi poka nanpa](#nimi-poka-nanpa) li lon [ale pi nimi mute](#ale-pi-nimi-mute) lon poka pi sitelen *([NANPA](#nimi-poka-nanpa))*.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [modifilo](#nimi-poka) povas havi la aldonan signifon de numero, ĝi estas [numeralo](#nimi-poka-nanpa) kaj estas en la [vortaro](#ale-pi-nimi-mute) apud la marko *([NANPA](#nimi-poka-nanpa))*.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [modifier](#nimi-poka) can have the additional meaning of a number, it is a [numeral](#nimi-poka-nanpa) and is in the [dictionary](#ale-pi-nimi-mute) next to the mark-up *([NANPA](#nimi-poka-nanpa))*.
-
-* toki wan *(unika lingvo — a unique language)*
-  * → toki ***wan*** *(unu lingvo — one languge)*
 
 ###### nimi poka nanpa namako
 *(Aldonaj Numeraloj — Additional Numerals)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kon pi **nimi poka nanpa** "mute" en kon pi [nimi pona](#nimi-pona) "mute" li ken wan.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La signifoj de la **numeralo** "mute" kaj de la [simpla vorto](#nimi-pona) "mute" povas esti unu.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The meanings of the **numeral** "mute" and of the [simple word](#nimi-pona) "mute" can be one.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mute | mute |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *tri (aŭ pli)* | *multaj* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *three (or more)* | *many* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka nanpa](#nimi-poka-nanpa) tu la **sitelen nanpa** li ken kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Ĉe du [numeraloj](#nimi-poka-nanpa), la **komo** povas malaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> With two [numerals](#nimi-poka-nanpa), the **comma** can disappear.
 
-* palisa ***luka***, ***tu*** *(kvin fingroj kaj du → sep fingroj — five fingers and two → seven fingers)*
-  * → palisa ***luka tu***
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | palisa luka, tu → palisa luka tu |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *sep fingroj* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *seven fingers* |
+
+
+###### nimi poka nanpa musi
+*(Eksperimentaj Numeraloj — Experimental Numerals)*
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | esun | mute |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *sep* | *tri* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *seven* | *three* |
+
+---
+
+
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka nanpa](#nimi-poka-nanpa) li ken kama [nimi lawa](#nimi-lawa).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Numeralo](#nimi-poka-nanpa) povas fariĝi [substantivo](#nimi-lawa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [numeral](#nimi-poka-nanpa) can become a [noun](#nimi-lawa).
+
+* mi jo e kili tu. ***wan*** ona li loje. ***wan*** ante li jelo. *(Mi havas du pomojn. Unu el ili estas ruĝa. La alia estas flava. — I have two apples. One of them is red. The other one is yellow.)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "en"](#nimi-lili-en) li ken lon [nimi poka nanpa](#nimi-poka-nanpa) tu.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [konjunkcio "en"](#nimi-lili-en) povas esti ĉe du [numeraloj](#nimi-poka-nanpa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [conjunction "en"](#nimi-lili-en) can be with two [numerals](#nimi-poka-nanpa).
+
+* tenpo suno esun tu *(du semajnoj — two weeks)*
+* tenpo suno ***luka tu en tu tu*** *(dek kvar tagoj — fourteen days)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kepeken nimi pi nanpa lili en nimi pi nanpa suli la jan li ken toki e nanpa lon ala, e nanpa lon wan.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Pere de numeralo de malgranda kvanto kaj numeralo de granda kvanto oni povas esprimi kvanton inter nulo kaj unu.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> By means of a numeral of a small quantity and a numeral of a big quantity one can express a quantity between zero and one.
+
+* mi pana e ***wan wan pi tu tu*** tawa sina. *(Mi donas al vi unu kvaronon. — I give you one quarter.)*
+* mi pana e ***wan mute pi tu tu*** tawa sina. *(Mi donas al vi tri kvaronojn. — I give you three quarters.)*
+
+| # | 5^ | | 10^ | |
+|:-:|:-:|:-:|:-:|:-:|
+| 1 | 1 | wan | 1 | wan |
+| 2 | 2 | tu | 2 | tu |
+| 3 | 3 | mute | 3 | mute |
+| 4 | 2×2 | tu tu | 2×2 | tu tu |
+| 5 | 5 | luka | 5 | luka |
+| 6 | 3×2 | mute tu | 5 + 1 | luka en wan |
+| 7 | 7 | esun | 5 + 2 | luka en tu |
+| 8 | 2×2×2 | tu tu tu | 5 + 3 | luka en mute |
+| 9 | 3×3 | mute mute | 5 + 2×2 | luka en tu tu |
+| 10 | 5×2 | luka tu | 5×2 | luka tu |
+| ... | ... | ... | ... | ... |
+| 15 | 5×2 + 5 | luka tu en luka | 5×3 | luka mute |
+| 20 | 5×2×2 | luka tu tu | 5×2×2 | luka tu tu |
+| 25 | 5×2×2 + 5 | luka tu tu en luka | 5×5 | luka luka |
+| 30 | 5×2×3 | luka tu mute | 5×5 + 5 | luka luka en luka |
+| 35 | 5×2×3 + 5 | luka tu mute en luka | 5×5 + 5×2 | luka luka en luka tu |
+| 40 | 5×2×2×2 | luka tu tu tu | 5×5 + 5×3 | luka luka en luka mute |
+| 45 | 5×2×2×2 + 5 | luka tu tu tu en luka | 5×5 + 5×2×2 | luka luka en luka tu tu |
+| 50 | 5×2×5 | luka tu luka | 5×5×2 | luka luka tu |
+| ... | ... | ... | ... | ... |
+| 75 | 5×2×7 + 5 | luka tu esun en luka | 5×5×3 | luka luka mute |
+| 100 | 5×2×5×2 | luka tu luka tu | 5×5×2×2 | luka luka tu tu |
+| 125 | 5×2×5×2 + 5×2 + 5 | luka tu luka tu en luka tu tu en luka | 5×5×5 | luka luka luka |
+| ... | ... | ... | ... | ... |
+| 250 | 5×2×5×2×2 + 5×2×5 | luka tu luka tu tu en luka tu luka | 5×5×5×2 | luka luka luka tu |
+| 375 | 5×2×5×2×3 + 5×2×7 + 5 | luka tu luka tu mute en luka tu esun en luka | 5×5×5×3 | luka luka luka mute |
+| 500 | 5×2×5×2×5 | luka tu luka tu luka | 5×5×5×2×2 | luka luka luka tu tu |
+| 625 | 5×2×5×2×3×2 + 5×2×2 + 5 | luka tu luka tu mute tu en luka tu tu en luka | 5×5×5×5 | luka luka luka luka |
+| ... | ... | ... | ... | ... |
+| 2001 | 5×2×5×2×5×2×2 + 1 | luka tu luka tu luka tu tu en wan | 5×5×5×5×3 + 5×5×5 + 1 | luka luka luka luka mute en luka luka luka en wan
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kon pi poka ante, pi nimi "nanpa wan" li nimi "nanpa ale".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La malo de "nanpa wan" estas "nanpa ale".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The opposite of "nanpa wan" is "nanpa ale".
+
+* sina ***nanpa wan*** *(Vi estas la unua. — You're the first.)*
+* sina ***nanpa ale*** *(Vi estas la lasta. — You're the last.)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> linja pi nanpa esun la wan linja kama li "nanpa kama", wan linja awen li "nanpa awen", wan linja pini li "nanpa pini".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> En atendovico la venonta vicero estas "nanpa kama", la estanta vicero estas "nanpa awen" kaj la pasinta vicero estas "nanpa pini".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> In a row, the one whose turn it's going to be is "nanpa kama", the one whose turn it is is "nanpa awen" and the one whose turn it has been is "nanpa pini".
+
+* mi ***nanpa kama*** *(Estos mia vico. — It's going to be my turn.)*
+* mi ***nanpa awen*** *(Estas mia vico. — It's my turn.)*
+* mi ***nanpa pini*** *(Estis mia vico. — It's been my turn.)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> ilo sona li pali lon tenpo mute, la ona li "nanpa sin" e ona.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam komputilo plurfoje plenumas algoritmon, ĝi iteracias ("nanpa sin") e ona.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a computer fulfills an algorithm multiple times, it iterates ("nanpa sin") it.
+
+* ilo sona li ***nanpa sin*** e pali. *(La komputilo ripetas la taskon. La komputilo iteracias la algoritmon. — The computer repeats the task. The computer iterates the algorithm.)*
+
 
 ##### nimi poka luka
 *(Prepozicioj — Prepositions)*
@@ -1064,7 +1177,6 @@
 
 | [↑](#nimi-suli-musi) |
 |:-:|
-| [nimi poka nanpa musi](#nimi-poka-nanpa-musi) |
 | [nimi poka luka musi](#nimi-poka-luka-musi) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi tu sama li jo e kon pi [nimi poka](#nimi-poka) "a".  
@@ -1086,93 +1198,6 @@
 * ***open*** lukin *(travidebla, transparenta — transparent)*
   * ***selo*** lukin *(maltravidebla, maltransparenta — opaque)*
 
-##### nimi poka palisa musi
-*(Eksperimentaj Korelativoj — Experimental Correlatives)*
-
-* mi sona e ni: sina toki pona tan seme. *(Mi scias, kial vi tokiponumas. — I know why you speak Toki Pona.)*
-
-##### nimi poka nanpa musi
-*(Eksperimentaj Numeraloj — Experimental Numerals)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "mute", "esun" li [nimi poka nanpa](#nimi-poka-nanpa) musi.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "mute" kaj "esun" estas eksperimentaj [numeraloj](#nimi-poka-nanpa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "mute" and "esun" are experimental [numerals](#nimi-poka-nanpa).
-
-* tenpo suno ***esun*** *(sep tagoj — seven days)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka nanpa](#nimi-poka-nanpa) li ken kama [nimi lawa](#nimi-lawa).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Numeralo](#nimi-poka-nanpa) povas fariĝi [substantivo](#nimi-lawa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [numeral](#nimi-poka-nanpa) can become a [noun](#nimi-lawa).
-
-* mi jo e kili tu. ***wan*** ona li loje. ***wan*** ante li jelo. *(Mi havas du pomojn. Unu el ili estas ruĝa. La alia estas flava. — I have two apples. One of them is red. The other one is yellow.)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "en"](#nimi-lili-en) li ken lon [nimi poka nanpa](#nimi-poka-nanpa) tu.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [konjunkcio "en"](#nimi-lili-en) povas esti ĉe du [numeraloj](#nimi-poka-nanpa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [conjunction "en"](#nimi-lili-en) can be with two [numerals](#nimi-poka-nanpa).
-
-* tenpo suno esun tu *(du semajnoj — two weeks)*
-* tenpo suno ***luka tu en tu tu*** *(dek kvar tagoj — fourteen days)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kepeken nimi pi nanpa lili en nimi pi nanpa suli la jan li ken toki e nanpa lon ala, e nanpa lon wan.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Pere de numeralo de malgranda kvanto kaj numeralo de granda kvanto oni povas esprimi kvanton inter nulo kaj unu.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> By means of a numeral of a small quantity and a numeral of a big quantity one can express a quantity between zero and one.
-
-* mi pana e ***wan wan pi tu tu*** tawa sina. *(Mi donas al vi unu kvaronon. — I give you one quarter.)*
-* mi pana e ***wan mute pi tu tu*** tawa sina. *(Mi donas al vi tri kvaronojn. — I give you three quarters.)*
-
-| # | 5^ | | 10^ | |
-|:-:|:-:|:-:|:-:|:-:|
-| 1 | 1 | wan | 1 | wan |
-| 2 | 2 | tu | 2 | tu |
-| 3 | 3 | mute | 3 | mute |
-| 4 | 2×2 | tu tu | 2×2 | tu tu |
-| 5 | 5 | luka | 5 | luka |
-| 6 | 3×2 | mute tu | 5 + 1 | luka en wan |
-| 7 | 7 | esun | 5 + 2 | luka en tu |
-| 8 | 2×2×2 | tu tu tu | 5 + 3 | luka en mute |
-| 9 | 3×3 | mute mute | 5 + 2×2 | luka en tu tu |
-| 10 | 5×2 | luka tu | 5×2 | luka tu |
-| ... | ... | ... | ... | ... |
-| 15 | 5×2 + 5 | luka tu en luka | 5×3 | luka mute |
-| 20 | 5×2×2 | luka tu tu | 5×2×2 | luka tu tu |
-| 25 | 5×2×2 + 5 | luka tu tu en luka | 5×5 | luka luka |
-| 30 | 5×2×3 | luka tu mute | 5×5 + 5 | luka luka en luka |
-| 35 | 5×2×3 + 5 | luka tu mute en luka | 5×5 + 5×2 | luka luka en luka tu |
-| 40 | 5×2×2×2 | luka tu tu tu | 5×5 + 5×3 | luka luka en luka mute |
-| 45 | 5×2×2×2 + 5 | luka tu tu tu en luka | 5×5 + 5×2×2 | luka luka en luka tu tu |
-| 50 | 5×2×5 | luka tu luka | 5×5×2 | luka luka tu |
-| ... | ... | ... | ... | ... |
-| 75 | 5×2×7 + 5 | luka tu esun en luka | 5×5×3 | luka luka mute |
-| 100 | 5×2×5×2 | luka tu luka tu | 5×5×2×2 | luka luka tu tu |
-| 125 | 5×2×5×2 + 5×2 + 5 | luka tu luka tu en luka tu tu en luka | 5×5×5 | luka luka luka |
-| ... | ... | ... | ... | ... |
-| 250 | 5×2×5×2×2 + 5×2×5 | luka tu luka tu tu en luka tu luka | 5×5×5×2 | luka luka luka tu |
-| 375 | 5×2×5×2×3 + 5×2×7 + 5 | luka tu luka tu mute en luka tu esun en luka | 5×5×5×3 | luka luka luka mute |
-| 500 | 5×2×5×2×5 | luka tu luka tu luka | 5×5×5×2×2 | luka luka luka tu tu |
-| 625 | 5×2×5×2×3×2 + 5×2×2 + 5 | luka tu luka tu mute tu en luka tu tu en luka | 5×5×5×5 | luka luka luka luka |
-| ... | ... | ... | ... | ... |
-| 2001 | 5×2×5×2×5×2×2 + 1 | luka tu luka tu luka tu tu en wan | 5×5×5×5×3 + 5×5×5 + 1 | luka luka luka luka mute en luka luka luka en wan
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kon pi poka ante, pi nimi "nanpa wan" li nimi "nanpa ale".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La malo de "nanpa wan" estas "nanpa ale".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The opposite of "nanpa wan" is "nanpa ale".
-
-* sina ***nanpa wan*** *(Vi estas la unua. — You're the first.)*
-* sina ***nanpa ale*** *(Vi estas la lasta. — You're the last.)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> linja pi nanpa esun la wan linja kama li "nanpa kama", wan linja awen li "nanpa awen", wan linja pini li "nanpa pini".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> En atendovico la venonta vicero estas "nanpa kama", la estanta vicero estas "nanpa awen" kaj la pasinta vicero estas "nanpa pini".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> In a row, the one whose turn it's going to be is "nanpa kama", the one whose turn it is is "nanpa awen" and the one whose turn it has been is "nanpa pini".
-
-* mi ***nanpa kama*** *(Estos mia vico. — It's going to be my turn.)*
-* mi ***nanpa awen*** *(Estas mia vico. — It's my turn.)*
-* mi ***nanpa pini*** *(Estis mia vico. — It's been my turn.)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> ilo sona li pali lon tenpo mute, la ona li "nanpa sin" e ona.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam komputilo plurfoje plenumas algoritmon, ĝi iteracias ("nanpa sin") e ona.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a computer fulfills an algorithm multiple times, it iterates ("nanpa sin") it.
-
-* ilo sona li ***nanpa sin*** e pali. *(La komputilo ripetas la taskon. La komputilo iteracias la algoritmon. — The computer repeats the task. The computer iterates the algorithm.)*
 
 ##### nimi poka luka musi
 *(Eksperimentaj Prepozicioj — Experimental Prepositions)*
