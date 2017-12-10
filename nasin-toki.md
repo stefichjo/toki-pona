@@ -538,33 +538,6 @@
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *efektive, jes* | *ajne, nu* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *indeed, yes* | *any, well* |
 
-### lipu mun
-*(Kalendaro — Calender)*
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ma/ma Ma | suno/suno Suno | mun/mun Mun |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *la tero* | *la suno* | *la luno* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Earth* | *the Sun* | *the Moon* |
-
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mun Seli | mun Telo | mun Kasi | mun Kiwen | mun Ma |
-|:-:|:-|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Marso* | *Merkuro* | *Jupitero* | *Venuso* | *Saturno* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Mars* | *Merkury* | *Jupiter* | *Venus* | *Saturn* |
-
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mun Sewi | mun Anpa |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Urano* | *Neptuno* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Uranus* | *Neptune* |
-
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tenpo Suno Suno → tenpo Suno | tenpo Mun Mun → tenpo Mun | tenpo Mun Seli → tenpo Seli | tenpo Mun Telo → tenpo Telo | tenpo Mun Kasi → tenpo Kasi | tenpo Mun Kiwen → tenpo Kiwen | tenpo Mun Ma → tenpo Ma |
-|:-:|:-|:-|:-|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Dimanĉo* | *Lundo* | *Marto* | *Merkredo* | *Ĵaŭdo* | *Vendredo* | *Sabato* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Sunday* | *Monday* | *Tuesday* | *Wednesday* | *Thursday* | *Friday* | *Saturday* |
-
-
 
 ### nimi suli
 *(Radikaj Vortoj — Content Words)*
@@ -1506,6 +1479,12 @@
 # ale pi nimi mute
 *(Vortaro — Dictionary)*
 
+
+| [↑](#toki-nasa) |
+|:-:|
+| [ale lili pi nimi mute](#ale-lili-pi-nimi-mute) |
+| [lipu mun](#lipu-mun) |
+
 ## ale lili pi nimi mute
 *(Konciza Vortaro — Concise Dictionary)*
 
@@ -1649,3 +1628,31 @@
 | <img src="musi/sitelen/pona/wawa.png" height="12">     | *[PONA](#nimi-pona)*                | lili — mute, suli, **wawa** |
 | <img src="musi/sitelen/pona/weka.png" height="12">     | *[NASIN](#nimi-nasin)*              | **weka** — insa, poka, sin |
 | <img src="musi/sitelen/pona/wile.png" height="12">     | *[WAWA POKA](#nimi-wawa-poka)*      | kama, ken, lukin, open, sona, **wile** |
+
+## lipu mun
+*(Kalendaro — Calender)*
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ma/ma Ma | suno/suno Suno | mun/mun Mun |
+|:-:|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *la tero* | *la suno* | *la luno* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Earth* | *the Sun* | *the Moon* |
+
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mun Seli | mun Telo | mun Kasi | mun Kiwen | mun Ma |
+|:-:|:-|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Marso* | *Merkuro* | *Jupitero* | *Venuso* | *Saturno* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Mars* | *Mercury* | *Jupiter* | *Venus* | *Saturn* |
+
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mun Sewi | mun Anpa |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Urano* | *Neptuno* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Uranus* | *Neptune* |
+
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tenpo Suno Suno → tenpo Suno | tenpo Mun Mun → tenpo Mun | tenpo Mun Seli → tenpo Seli | tenpo Mun Telo → tenpo Telo | tenpo Mun Kasi → tenpo Kasi | tenpo Mun Kiwen → tenpo Kiwen | tenpo Mun Ma → tenpo Ma |
+|:-:|:-|:-|:-|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Dimanĉo* | *Lundo* | *Marto* | *Merkredo* | *Ĵaŭdo* | *Vendredo* | *Sabato* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Sunday* | *Monday* | *Tuesday* | *Wednesday* | *Thursday* | *Friday* | *Saturday* |
+
+
