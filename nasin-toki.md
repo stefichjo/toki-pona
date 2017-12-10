@@ -801,8 +801,8 @@
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li kama e ni: ona li lon tomo. → ona li kama lon tomo. |
 |:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi kaŭzas, ke ŝi estas ĉe la domo.* → *Ŝi aperas ĉe la domo.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She causes, that she is there at the house.* → *She appears at the house.* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi igas/kaŭzas, ke ŝi estas ĉe la domo.* → *Ŝi estiĝas/aperas ĉe la domo.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She makes/causes, that she is there at the house.* → *She starts being there/appears at the house.* |
 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "kama lon" la nimi "lon" li ken kama weka.  
