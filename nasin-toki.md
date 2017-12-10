@@ -938,7 +938,7 @@
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | luka | mute | tu | wan |
 |:-:|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *kvin* | *tri* | *du* | *wan* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *kvin* | *tri* | *du* | *unu* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *five* | *three* | *two* | *one* |
 
 
@@ -987,7 +987,7 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La [konjunkcio "en"](#nimi-lili-en) povas esti ĉe du [numeraloj](#nimi-poka-nanpa).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [conjunction "en"](#nimi-lili-en) can be with two [numerals](#nimi-poka-nanpa).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tenpo suno esun tu | tenpo suno luka tu en tu tu |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sike esun tu | tenpo suno luka tu en tu tu |
 |:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *du semajnoj* | *dek kvar tagoj* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *two weeks* | *fourteen days* |
@@ -1055,22 +1055,16 @@
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi iras al la kuirejo.* | *Mi ne iras al la kuirejo.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm going to the kitchen.* | *I'm not going to the kitchen.* |
 
----
-  
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **nimi poka luka** lon pini taso pi [mute nimi](#mute-nimi). tan ni la jan **Sonja** li weka e **sitelen nanpa** lon **nimi poka luka** tu. sin la ona li kepeken **nimi poka** (anu **nimi lili** "[e](#nimi-lili-e)") li kepeken ala **nimi poka luka**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** uzas **prepoziciojn** nur fine de [frazo](#mute-nimi). Tial **Sonja** ellasas la **komon** ĉe du **prepozicioj**. Aldone, ŝi uzas **modifilon** (aŭ la **partikulon** "[pi](#nimi-lili-pi)" anstataŭ **prepozicio**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** uses **prepositions** only at the end of a [sentence](#mute-nimi). Because of that, **Sonja** removes the **comma** between two **prepositions**. In addition, she uses **modifiers** (or the **particle** "[pi](#nimi-lili-pi)") instead of **prepositions**.
 
-* jan pona ***sama sina*** li lon ma tomo mi. *(Amiko kiel vi estas en mia urbo.)*
-  * → jan pona li lon ma tomo mi. ona li ***sama sina***.
-* mi tawa ***kepeken*** tomo tawa, ***tan*** tomo sona, ***tawa*** tomo sina. *(Mi iras per biciklo de la lernejo al via hejmo. — I'm going by bike from school to your house.)*
-  * → mi tawa ***kepeken*** tomo tawa ***tan*** tomo sona ***tawa*** tomo sina.
-* jan ~~lon~~ ***poka*** *(najbaro — neighbor)*
-  * → jan ***poka***
-* pona ~~tawa~~ ***lukin*** *(bona laŭ la okulo, bona por vidado, vidinda → bela — good according to the eye, good for seeing, worth seeing → beautiful)*
-  * → pona ***lukin***
-* pona ~~tawa~~ ***moku*** *(bona por manĝado, manĝinda → bongusta — good for eating, worth eating → delicious)*
-  * → pona ***moku***
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **nimi poka luka** lon [nimi wawa](#nimi-wawa) taso. ni la jan li ken weka e **sitelen nanpa** lon **nimi poka luka** tu. sin la jan **Sonja** li kepeken **nimi poka** (anu **nimi lili** "[e](#nimi-lili-e)") li kepeken ala **nimi poka luka**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** uzas **prepoziciojn** nur ĉe [verboj](#nimi-wawa). Tiam oni povas ellasi la **komon** ĉe du **prepozicioj**. Aldone, **Sonja** uzas **modifilon** (aŭ la **partikulon** "[pi](#nimi-lili-pi)") anstataŭ **prepozicio**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** uses **prepositions** only with [verbs](#nimi-wawa). In this case, one can remove the **comma** between two **prepositions**. In addition, **Sonja** uses **modifiers** (or the **particle** "[pi](#nimi-lili-pi)") instead of **prepositions**.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan lon poka → jan poka | pona tawa lukin → pona lukin |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *najbaro* | *bela* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *neighbor* | *beautiful* |
+
 
 #### nimi pona
 *(Simplaj Vortoj — Simple Words)*
