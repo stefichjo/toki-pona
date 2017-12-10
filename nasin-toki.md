@@ -795,10 +795,33 @@
 ##### nimi wawa poka
 *(Helpaj Verboj — Auxiliary Verbs)*
 
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi wawa** li **nimi wawa poka**, la ona li jo e kon pi **nimi wawa luka** lon kama pi [mute nimi poka](#mute-nimi-poka) ni: ona li kama jo e **nimi wawa** lawa tan [mute nimi](#mute-nimi) lawa. [mute nimi](#mute-nimi) tu ale la kama pi [nimi lili "li"](#nimi-lili-li) la nimi li sama.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **verbo** estas **helpa verbo**, ĝi implicas **transitivan verbon** antaŭ [subfrazo](#mute-nimi-poka), kiu ricevas la ĉefan **verbon** el la ĉefa [frazo](#mute-nimi). En ambaŭ [frazoj](#mute-nimi), la subjeko (t.e. la vortoj antaŭ la [partikulo "li"](#nimi-lili-li)) estas la sama.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **verb** is an **auxiliary verb**, it implies a **transitive verb** before a [subordinate clause](#mute-nimi-poka), which receives the main **verb** from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [particle "li"](#nimi-lili-li)) is the same.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li kama e ni: ona li lon tomo. → ona li kama lon tomo. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi kaŭzas, ke ŝi estas ĉe la domo.* → *Ŝi aperas ĉe la domo.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She causes, that she is there at the house.* → *She appears at the house.* |
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "kama lon" la nimi "lon" li ken kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> En "kama lon", "lon" povas malaperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> In "kama lon", "lon" can disappear.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li kama lon. → ona li kama. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi aperas/venas.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She appears/comes.* |
+
+
+
+---
+
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | awen | kama |
 |:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *resti, plu-i* | *-iĝi* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to stay* | *to become*  |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *restanta, plu-a* | *-iĝanta* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *staying* | *becoming*  |
 
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | kama | ken | lukin | wile |
@@ -807,27 +830,13 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to succeed, to start -ing* | | | |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa luka](#nimi-wawa-luka) li jo e kon pi nimi "e ni: ...", la ona li ken kama **nimi wawa poka**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [transitiva verbo](#nimi-wawa-luka) implicas "e ni: ...", ĝi povas fariĝi **helpa verbo**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [transitive verb](#nimi-wawa-luka) implies "e ni: ...", it can become an **auxiliary verb**.
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi wile lukin kama sona e toki pona. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi daŭrigas, ke mi bezonas, ke mi atentas, ke mi sukcesigas, ke mi scias Tokiponon./Mi pluvolas provi lerni Tokiponon.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I continue that I need that I take care of that I make succeed that I know Toki Pona./I still want to try to learn Toki Pona.* |
-
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "kama lon" la nimi "lon" li ken kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> El "kama lon", "lon" povas malaperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Out of "kama lon", "lon" can disappear.
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li kama lon tomo. | ona li kama lon. → ona li kama. |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi sukcesas esti ĉe la domo./Ŝi venas al la domo.* | *Ŝi aperas./Ŝi venas.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She succeeds to be there at the house./She comes to the house.* | *She succeeds to be there./She comes.* |
 
 
 
+kama awen pini
+kama ken lukin open wile
+
+enduring, kept, protected, safe, waiting, staying
 
 ---
 open
