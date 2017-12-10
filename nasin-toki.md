@@ -1036,29 +1036,26 @@
 ##### nimi poka luka
 *(Prepozicioj — Prepositions)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) li lon kama pi [nimi lawa](#nimi-lawa), la ona li [nimi poka luka](#nimi-poka-luka) li lon [ale pi mute nimi](#ale-pi-mute-nimi) lon poka pi sitelen *([LUKA](#nimi-poka-luka))*.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [modifilo](#nimi-poka) estas antaŭ [substantivo](#nimi-lawa), ĝi estas [prepozicio](#nimi-poka-luka) kaj estas en la [vortaro](#ale-pi-mute-nimi) apud la marko *([LUKA](#nimi-poka-luka))*.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [modifier](#nimi-poka) is before a [noun](#nimi-lawa), it is a [preposition](#nimi-poka-luka) and is in the [dictionary](#ale-pi-mute-nimi) next to the mark-up *([LUKA](#nimi-poka-luka))*.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli** li jo e [nimi lili](#nimi-lili) (anu **nimi poka**), la **nimi poka luka** li ken lon pini ona taso.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam **radika vorto** havas [partikulon](#nimi-lili) (aŭ **modifilon**), **prepozicio** povas esti nur malantaŭ ĝi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a **content word** has a **particle** (or a **modifier**), **prepositions** can be only after them.
 
-* tomo tawa *(moviĝanta ĉambro, aŭto — moving room, car)*
-* toki pona li pona mute ***tawa*** jan pona mi. *(Mia amiko tre ŝatas Tokiponon. — My friend likes Toki Pona very much.)*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi pana e kili tawa sina. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi donas la pomon al vi.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm giving you the apple.* |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli** li jo e [nimi lili](#nimi-lili) (anu **nimi poka**), la **nimi poka luka** li lon pini.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam **radika vorto** havas [partikulon](#nimi-lili) (aŭ **modifilon**), la **prepozicio** estas ĉe la fino.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a **content word** has a **particle** (or a **modifier**), the **preposition** is at the end.
-
-* mi pana ***e*** kili ***tawa*** sina. *(Mi donas la pomon al vi. — I'm giving you the apple.)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa](#nimi-wawa) en **nimi poka luka** li sama, la **nimi poka luka** li kama weka. [nimi lili kalama](#nimi-lili-kalama) li ken lon [nimi wawa](#nimi-wawa) lon [nimi poka luka](#nimi-poka-luka).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se [verbo](#nimi-wawa) kaj **prepozicio** estas la samaj, la **prepozicio** malaperas. Povas esti [interjekcio](#nimi-lili-kalama) inter la [verbo](#nimi-wawa) kaj la [prepozicio](#nimi-poka-luka).  
 <img src="musi/sitelen/len-ma/en.png" height="18"> If a [verb](#nimi-wawa) and a **preposition** estas the same, the **preposition** disappears. There can be an [interjection](#nimi-lili-kalama) between the [verb](#nimi-wawa) and the [preposition](#nimi-poka-luka).
 
-* mi ***tawa*** ~~tawa~~ tomo seli. *(Mi iras al la kuirejo. — I'm going to the kitchen.)*
-  * → mi ***tawa*** tomo seli.
-* mi ***tawa ala*** ~~tawa~~ tomo seli. *(Mi ne iras al la kuirejo. — I'm not going to the kitchen.)*
-  * → mi ***tawa ala*** tomo seli.
-* o ***kepeken*** ***ala*** ~~kepeken~~ ilo ike. *(Ne uzu la malĝustajn instrumentojn. — Don't use the wrong tools.)*
-  * o ***kepeken ala*** ilo ike.
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi tawa tawa tomo seli. → mi tawa tomo seli. | mi tawa ala tawa tomo seli. → mi tawa ala tomo seli. |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi iras al la kuirejo.* | *Mi ne iras al la kuirejo.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm going to the kitchen.* | *I'm not going to the kitchen.* |
+
+---
   
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **nimi poka luka** lon pini taso pi [mute nimi](#mute-nimi). tan ni la jan **Sonja** li weka e **sitelen nanpa** lon **nimi poka luka** tu. sin la ona li kepeken **nimi poka** (anu **nimi lili** "[e](#nimi-lili-e)") li kepeken ala **nimi poka luka**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** uzas **prepoziciojn** nur fine de [frazo](#mute-nimi). Tial **Sonja** ellasas la **komon** ĉe du **prepozicioj**. Aldone, ŝi uzas **modifilon** (aŭ la **partikulon** "[pi](#nimi-lili-pi)" anstataŭ **prepozicio**.  
