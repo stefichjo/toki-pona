@@ -826,15 +826,20 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *open/turned on, to be ready to* | *finished, to stop -ing* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) en nimi "ni: ..." li ken kama [nimi wawa poka](#nimi-wawa-poka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [prepozicio](#nimi-poka-luka) kaj la vortoj "ni: ..." povas fariĝi [helpa verbo](#nimii-wawa-poka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [preposition](#nimi-poka-luka) and the words "ni: ..." can become an [auxiliary verb](#nimi-wawa-poka).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) li ken kama **nimi wawa poka**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [prepozicio](#nimi-poka-luka) povas fariĝi **helpa verbo**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [preposition](#nimi-poka-luka) can become an **auxiliary verb**.
 
-* mi ***tan*** pini sona. *(Mi estas forgesinta. — I have forgotten.)*
-* mi ***lon*** awen sona. *(Mi estas memoranta. — I am remembering.)*
-* mi ***tawa*** kama sona. *(Mi estas lernonta. — I am about to learn.)*
-* mi ***kepeken*** kama sona. *(Mi kutimas lerni. — I am used to learn.)*
-* mi ***sama*** kama sona. *(Mi simulas lerni. — I simulate to learn.)*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi kepeken lape. | sina sama lape. |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi kutimas ripozi.* | *Vi ŝajnas ripozi.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I usually rest.* | *You seem to rest.* |
+
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi lon lape. | sina tan lape. | ona li tawa lape. |
+|:-:|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi estas ripozanta.* | *Vi estas ripozinta.* | *Ŝi estas ripozonta.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am resting.* | *You have been resting.* | *She is going to rest.* |
 
 
 #### nimi poka
