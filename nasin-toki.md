@@ -903,6 +903,7 @@
 
 | [↑](#nimi-poka) |
 |:-:|
+| [nimi poka palisa musi](#nimi-poka-palisa-musi) |
 | [nimi poka palisa namako](#nimi-poka-palisa-namako) |
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala | ale | ni | seme |
@@ -921,14 +922,6 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *parent of everything* | *every parent* |
 
 
-###### nimi poka palisa namako
-*(Aldonaj Korelativoj — Additional Correlatives)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> tawa jan **Sonja** la nimi "seme" li [nimi lili](#nimi-lili).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Laŭ **Sonja** "seme" estas [partikulo](#nimi-lili).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
-
-
 ###### nimi poka palisa musi
 *(Eksperimentaj Korelativoj — Experimental Correlatives)*
 
@@ -938,41 +931,26 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I know why you speak Toki Pona.* |
 
 
+###### nimi poka palisa namako
+*(Aldonaj Korelativoj — Additional Correlatives)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> tawa jan **Sonja** la nimi "seme" li [nimi lili](#nimi-lili).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Laŭ **Sonja** "seme" estas [partikulo](#nimi-lili).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
+
+
 ##### nimi poka nanpa
 *(Numeraloj — Numerals)*
 
 | [↑](#nimi-poka) |
 |:-:|
-| [nimi poka nanpa namako](#nimi-poka-nanpa-namako) |
 | [nimi poka nanpa musi](#nimi-poka-nanpa-musi) |
+| [nimi poka nanpa namako](#nimi-poka-nanpa-namako) |
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | luka | mute | tu | wan |
 |:-:|:-|:-|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *kvin* | *tri* | *du* | *unu* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *five* | *three* | *two* | *one* |
-
-
-###### nimi poka nanpa namako
-*(Aldonaj Numeraloj — Additional Numerals)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kon pi **nimi poka nanpa** "mute" en kon pi [nimi pona](#nimi-pona) "mute" li ken wan.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La signifoj de la **numeralo** "mute" kaj de la [simpla vorto](#nimi-pona) "mute" povas esti unu.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The meanings of the **numeral** "mute" and of the [simple word](#nimi-pona) "mute" can be one.
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mute |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *tri, multaj* → *tri (aŭ pli)* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *three, many* → *three (or more)* |
-
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka nanpa](#nimi-poka-nanpa) tu la **sitelen nanpa** li ken kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Ĉe du [numeraloj](#nimi-poka-nanpa), la **komo** povas malaperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> With two [numerals](#nimi-poka-nanpa), the **comma** can disappear.
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | palisa luka, tu → palisa luka tu |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *sep fingroj* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *seven fingers* |
 
 
 ###### nimi poka nanpa musi
@@ -1043,6 +1021,29 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The computer repeats the task. The computer iterates the algorithm.* |
 
 
+###### nimi poka nanpa namako
+*(Aldonaj Numeraloj — Additional Numerals)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kon pi **nimi poka nanpa** "mute" en kon pi [nimi pona](#nimi-pona) "mute" li ken wan.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La signifoj de la **numeralo** "mute" kaj de la [simpla vorto](#nimi-pona) "mute" povas esti unu.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The meanings of the **numeral** "mute" and of the [simple word](#nimi-pona) "mute" can be one.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mute |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *tri, multaj* → *tri (aŭ pli)* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *three, many* → *three (or more)* |
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka nanpa](#nimi-poka-nanpa) tu la **sitelen nanpa** li ken kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Ĉe du [numeraloj](#nimi-poka-nanpa), la **komo** povas malaperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> With two [numerals](#nimi-poka-nanpa), the **comma** can disappear.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | palisa luka, tu → palisa luka tu |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *sep fingroj* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *seven fingers* |
+
+
 ##### nimi poka luka
 *(Prepozicioj — Prepositions)*
 
@@ -1080,59 +1081,64 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *neighbor* | *beautiful* |
 
 
----
 ###### nimi poka luka musi
 *(Eksperimentaj Prepozicioj — Experimental Prepositions)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ante", "pu", "taso" li [nimi poka luka](#nimi-poka-luka) musi.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "ante", "pu" kaj "taso" estas eksperimentaj [prepozicioj](#nimi-poka-luka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ante", "pu" and "taso" are experimental [prepositions](#nimi-poka-luka).
-
-* mi utala ala tawa wile sina. *(Mi estas en harmonio kun vi. — I am in harmony with you.)*
-  * → mi ***pu*** sina.
-* ona li sama ala sina. *(Ŝi estas diversa ol vi. — She is different from you.)*
-  * → ona li ***ante*** sina.
-    * ona li suli ***ante*** sina. *(Ŝi estas pli alta ol vi. — She is taller than you.)*
-* sina jo ala e mi. *(Vi ne havas min. — You don't have me.)*
-  * → mi ***taso*** sina. *(Mi estas libera de vi. — I am free from you.)*
-    * mi pali lili. taso ni la mi wile lape. *(Mi apenaŭ laboris. Sendepende de tio, mi bezonas dormi. — I hardly worked. Independent from that I need to sleep.)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "taso ni la" li ken kama "taso".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "taso ni la" povas fariĝi "taso".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "taso ni la" can become "taso".
-
-* ***taso ni la*** mije en meli li pali li pilin pona. *(Sendepende de tio, viroj kaj virinoj laboras kaj estas gajaj. — Independent from that, men and women work and are happy.)*
-  * → ***taso*** mije en meli li pali li pilin pona. *(Sed viroj kaj virinoj laboras kaj estas gajaj. — But men and women work and are happy.)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) "lon" li ken jo e kon pi [nimi poka luka](#nimi-poka-luka) "ante".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [prepozicio](#nimi-poka-luka) "lon" povas havi la signifon de la [prepozicio](#nimi-poka-luka) "ante".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [preposition](#nimi-poka-luka) "lon" can have the meaning of the [preposition](#nimi-poka-luka) "ante".
-
-* ona li suli ***lon*** sina. *(Ŝi estas pli alta ol vi. — She is taller than you.)*
-  * → sina la ona li suli.
-
----
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li pana e nimi sama tawa nimi "seme", "taso". taso lipu ni la nimi tu ni li [nimi suli](#nimi-suli): nimi "seme" li [nimi poka palisa](#nimi-poka-palisa), nimi "taso" li [nimi poka luka musi](#nimi-poka-luka-musi).   
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** nomas same la vortojn "seme", "taso". Sed en tiu ĉi libro, tiuj du vortoj estas [radikaj vortoj](#nimi-suli): "seme" estas [korelativo](#nimi-poka-palisa) kaj "taso" estas [eksperimenta prepozicio](#nimi-poka-luka-musi).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** calls the words "seme", "taso" in the same way. But in this book, these two words are [content words](#nimi-suli): "seme" is a [correlative](#nimi-poka-palisa) and "taso" is an [experimental preposition](#nimi-poka-luka-musi).
-
----
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) "ijo" en [nimi poka luka](#nimi-poka-luka) "tawa" en [nimi wawa luka](#nimi-wawa-luka).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Pasivo.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> Passive.
 
-* ***ijo*** ~~tawa~~ lukin *(io por la okulo, io por vidado — something for the eye, something to see)*
-  * ***ijo*** lukin *(vidaĵo, videnda — must-see)*
-* ***pona*** lukin *(vidinda, bela — beautiful)*
-  * ***ike*** lukin *(malvidinda, malbela — ugly)*
-* ***insa*** lukin *(videbla, vidata — visible, being seen)*
-  * ***weka*** lukin *(malvidebla, ne vidata — invisible, not being seen)*
-* ***open*** lukin *(travidebla, transparenta — transparent)*
-  * ***selo*** lukin *(maltravidebla, maltransparenta — opaque)*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ijo tawa lukin → ijo lukin | 
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *io por la okulo, io por vidado, io videnda, io vidata* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *something for the eye, something to see, something to be seen, something seen* |
 
----
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | pona lukin | ike lukin |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *vidinda, bela* | *malvidinda, malbela* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *worth seeing, beautiful* | *not worth seeing, ugly* |
+
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | insa lukin | weka lukin |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *videbla, vidata* | *malvidebla, ne vidata* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *visible, being seen* | *invisible, not being seen* |
+
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ante | pu | taso |
+|:-:|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *diversa ol* | *laŭ* | *sendepende de* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *different from* | *according to* | *independent from* |
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) "lon" li ken jo e kon pi [nimi poka luka](#nimi-poka-luka) "ante".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [prepozicio](#nimi-poka-luka) "lon" povas havi la signifon de la [prepozicio](#nimi-poka-luka) "ante".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [preposition](#nimi-poka-luka) "lon" can have the meaning of the [preposition](#nimi-poka-luka) "ante".
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li suli ante sina. → ona li suli lon sina. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi estas pli alta ol vi.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She is taller than you.* |
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "taso ni la" li ken kama "taso".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "taso ni la" povas fariĝi "taso".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "taso ni la" can become "taso".
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | taso ni la mije en meli li pali li pilin pona. → taso mije en meli li pali li pilin pona. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Sendepende de tio, viroj kaj virinoj laboras kaj estas gajaj.* → *Sed viroj kaj virinoj laboras kaj estas gajaj.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Independent from that, men and women work and are happy.* → *But men and women work and are happy.* |
+
+
+###### nimi poka luka namako
+*(Aldonaj Prepozicioj — Additional Prepositions)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> tawa jan **Sonja** la nimi "taso" li [nimi lili](#nimi-lili).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Laŭ **Sonja**, "taso" estas [partikulo](#nimi-lili).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> According to **Sonja**, "taso" is a [particle](#nimi-lili).
+
 
 ###### nimi poka luka nasa
 *(Strangaj Prepozicioj — Strange Prepositions)*
