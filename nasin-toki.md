@@ -763,7 +763,7 @@
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *solvi, solvo/vojo/maniero* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to solve, solution/way/method* |
 
-
+---
 - esun, mani
 - olin, unpa
 
@@ -789,45 +789,69 @@
 | [nimi wawa luka](#nimi-wawa-luka) |
 | [nimi wawa poka](#nimi-wawa-poka) |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa](#nimi-wawa) li [nimi lawa esun](#nimi-lawa-esun) ala, la ona li ken sama [nimi poka](#nimi-poka) pi nimi lon kama pi **nimi lili** "[li](#nimi-lili-li)".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se la [verbo](#nimi-wawa) ne estas [pronomo](#nimi-lawa-esun), ĝi povas esti kiel [modifilo](#nimi-poka) de la subjekto (t.e. la vortoj antaŭ la **partikulo** "[li](#nimi-lili-li)").  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If the [verb](#nimi-wawa) is not a [pronoun](#nimi-lawa-esun), it can be like a [modifier](#nimi-poka) of the subject (i.e. the words before the **particle** "[li](#nimi-lili-li)").
-
-* toki ***li pona mute***. *(Lingvoj estas multe da bono. — Languages are much goodness.)*
-  * → toki ***li pona mute***. *(Lingvoj estas tre bonaj. — Languages are very good.)*
-
-#### nimi wawa luka
+##### nimi wawa luka
 *(Transitivaj Verboj — Transitive Verbs)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa](#nimi-wawa) li jo e **nimi lili** "[e](#nimi-lili-e)", la ona li **nimi wawa luka**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [verbo](#nimi-wawa) havas **rektan objekton** (t.e. vortoj malantaŭ **partikulo** "[e](#nimi-lili-e)"), ĝi estas **transitiva verbo**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [verb](#nimi-lili) has a **direct object** (i.e. words after a **particle** "[e](#nimi-lili-e)"), it is a **transitive verb**.
-
-* mi ***pona e mi***. *(Mi plibonigas min. — I improve myself.)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa](#nimi-wawa) **luka** li jo e kon sin, la kon sin ni li lon [ale pi nimi mute](#ale-pi-nimi-mute) lon poka pi sitelen *([E](#nimi-wawa-luka))*.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **transitiva** [verbo](#nimi-wawa) havas aldonan signifon, tiu aldona signifo estas en la [vortaro](#ale-pi-nimi-mute) apud la marko *([E](#nimi-wawa-luka))*.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **transitive** [verb](#nimi-wawa) and has an additional meaning, this additional meaning is in the [dictionary](#ale-pi-nimi-mute) next to the mark-up *([E](#nimi-wawa-luka))*.
-
-* sona mi *(mia scio — my knowledge)*
-* mi ***sona e toki pona***. *(Mi konas Tokiponon. — I know Toki Pona.)*
-
-#### nimi wawa poka
+##### nimi wawa poka
 *(Helpaj Verboj — Auxiliary Verbs)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi pona](#nimi-pona) en nimi "e ni: ..." li ken kama **nimi wawa poka**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Simpla vorto](#nimi-pona) kaj la vortoj "e ni: ..." povas fariĝi **helpa verbo**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [simple word](#nimi-pona) and the words "e ni: ..." can become an **auxiliary verb**.
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | awen | kama |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *resti, plu-i* | *-iĝi* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to stay* | *to become*  |
 
-* mi ken ~~e ni: mi~~ lape. *(Mi ebligas, ke mi dormas. → Mi povas dormi. — I enable that I sleep. → I can sleep.)*
-  * mi ken lape.
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa luka](#nimi-wawa-luka) en nimi "e nasin ni: kepeken ona la ... ken kama" li ken kama **nimi wawa poka**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Transitiva verbo](#nimi-wawa-luka) kaj la vortoj "e nasin ni: kepeken ona la ... ken kama" povas fariĝi **helpa verbo**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [transitive verb](#nimi-wawa-luka) and the words "e nasin ni: kepeken ona la ... ken kama" can become an **auxiliary verb**.
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | kama | ken | lukin | wile |
+|:-:|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *ek-i* | *ebli, povi* | *atenti, provi* | *bezoni, voli/devi* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to succeed, to start -ing* | | | |
 
-* mi lukin ~~e nasin ni: kepeken ona la mi ken kama~~ lape. *(Mi ekzamenas kiel mi povas sukcesi dormi. → Mi provas dormi. — I examine how I can manage to sleep.)*
-  * mi lukin lape.
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa luka](#nimi-wawa-luka) li jo e kon pi nimi "e ni: ...", la ona li ken kama **nimi wawa poka**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [transitiva verbo](#nimi-wawa-luka) implicas "e ni: ...", ĝi povas fariĝi **helpa verbo**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [transitive verb](#nimi-wawa-luka) implies "e ni: ...", it can become an **auxiliary verb**.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi wile lukin kama sona e toki pona. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi daŭrigas, ke mi bezonas, ke mi atentas, ke mi sukcesigas, ke mi scias Tokiponon./Mi pluvolas provi lerni Tokiponon.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I continue that I need that I take care of that I make succeed that I know Toki Pona./I still want to try to learn Toki Pona.* |
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "kama lon" la nimi "lon" li ken kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> El "kama lon", "lon" povas malaperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Out of "kama lon", "lon" can disappear.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li kama lon tomo. | ona li kama lon. → ona li kama. |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi sukcesas esti ĉe la domo./Ŝi venas al la domo.* | *Ŝi aperas./Ŝi venas.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She succeeds to be there at the house./She comes to the house.* | *She succeeds to be there./She comes.* |
+
+
+
+
+---
+open
+
+
+###### nimi wawa poka musi
+*(Eksperimentaj Helpaj Verboj — Experimental Auxiliary Verbs)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi pona](#nimi-pona) "pini" li ken kama [nimi wawa poka](#nimi-wawa-poka) **musi**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [simpla vorto](#nimi-pona) "pini" povas fariĝi **eksperimenta** [helpa verbo](#nimi-wawa-poka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [simple word](#nimi-pona) "pini" can become an **experimental** [auxiliary verb](#nimi-wawa-poka).
+
+* mi ***pini jo*** e lipu. *(Mi ĉesis havi la libron. Mi perdis la libron. — I ceased to have the book. I lost the book.)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) en nimi "ni: ..." li ken kama [nimi wawa poka](#nimi-wawa-poka).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [prepozicio](#nimi-poka-luka) kaj la vortoj "ni: ..." povas fariĝi [helpa verbo](#nimii-wawa-poka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [preposition](#nimi-poka-luka) and the words "ni: ..." can become an [auxiliary verb](#nimi-wawa-poka).
+
+* mi ***tan*** pini sona. *(Mi estas forgesinta. — I have forgotten.)*
+* mi ***lon*** awen sona. *(Mi estas memoranta. — I am remembering.)*
+* mi ***tawa*** kama sona. *(Mi estas lernonta. — I am about to learn.)*
+* mi ***kepeken*** kama sona. *(Mi kutimas lerni. — I am used to learn.)*
+* mi ***sama*** kama sona. *(Mi simulas lerni. — I simulate to learn.)*
+
 
 #### nimi poka
 *(Modifiloj — Modifiers)*
@@ -1063,7 +1087,6 @@
 | [↑](#toki-musi) |
 |:-:|
 | [nimi poka musi](#nimi-poka-musi) |
-| [nimi wawa musi](#nimi-wawa-musi) |
 | [nimi lawa musi](#nimi-lawa-musi) |
 
 #### nimi poka musi
@@ -1218,28 +1241,6 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** calls the words "seme", "taso" in the same way. But in this book, these two words are [content words](#nimi-suli): "seme" is a [correlative](#nimi-poka-palisa) and "taso" is an [experimental preposition](#nimi-poka-luka-musi).
 
 ---
-
-#### nimi wawa musi
-*(Eksperimentaj Verboj — Experimental Verbs)*
-
-##### nimi wawa poka musi
-*(Eksperimentaj Helpaj Verboj — Experimental Auxiliary Verbs)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi pona](#nimi-pona) "pini" li ken kama [nimi wawa poka](#nimi-wawa-poka) **musi**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [simpla vorto](#nimi-pona) "pini" povas fariĝi **eksperimenta** [helpa verbo](#nimi-wawa-poka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [simple word](#nimi-pona) "pini" can become an **experimental** [auxiliary verb](#nimi-wawa-poka).
-
-* mi ***pini jo*** e lipu. *(Mi ĉesis havi la libron. Mi perdis la libron. — I ceased to have the book. I lost the book.)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) en nimi "ni: ..." li ken kama [nimi wawa poka](#nimi-wawa-poka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [prepozicio](#nimi-poka-luka) kaj la vortoj "ni: ..." povas fariĝi [helpa verbo](#nimii-wawa-poka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [preposition](#nimi-poka-luka) and the words "ni: ..." can become an [auxiliary verb](#nimi-wawa-poka).
-
-* mi ***tan*** pini sona. *(Mi estas forgesinta. — I have forgotten.)*
-* mi ***lon*** awen sona. *(Mi estas memoranta. — I am remembering.)*
-* mi ***tawa*** kama sona. *(Mi estas lernonta. — I am about to learn.)*
-* mi ***kepeken*** kama sona. *(Mi kutimas lerni. — I am used to learn.)*
-* mi ***sama*** kama sona. *(Mi simulas lerni. — I simulate to learn.)*
 
 #### nimi lawa musi
 *(Eksperimentaj Substantivoj — Experimental Nouns)*
