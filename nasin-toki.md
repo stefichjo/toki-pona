@@ -1143,55 +1143,61 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> En kunteksta frazero (t.e. antaŭ la partikulo "[la](#nimi-lili-la)") [prepozicio](#nimi-poka-luka) povas malaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> In a contextual phrase (i.e. before the particle "[la](#nimi-lili-la)"), [prepositions](#nimi-poka-luka) can disappear.
 
-* ***~~tawa~~*** mi ***la*** sina jan pona. *(Laŭ mi, vi estas bona persono. — From my point of view, you are a good person.)*
-  * → mi ***la*** sina jan pona.
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tawa mi la sina jan pona. → mi la sina jan pona. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Laŭ mi, vi estas bona persono.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *From my point of view, you are a good person.* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li weka e [nimi poka luka](#nimi-poka-luka) "tawa" lon kama pi nimi "lukin".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** forigas la [prepozicion](#nimi-poka-luka) "tawa" antaŭ "lukin".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** removes the [preposition](#nimi-poka-luka) "tawa" before "lukin".
 
-* sina ***~~tawa~~*** lukin sama waso. *(Vi aspektas kiel birdo. — You look like a bird.)*
-  * → sina lukin sama waso.
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina tawa lukin sama waso. → sina lukin sama waso. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Vi aspektas kiel birdo.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You look like a bird.* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi nimi "pilin" la nimi "ike tan" li ken kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Antaŭ "pilin", "ike tan" povas malaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> Before "pilin", "ike tan" can disappear.
   
-* sina pilin ~~ike tan~~ utala. *(Vi malbone empatias pro batalo. → Vi estas kolera. — You are empathizing badly because of struggle. → You are angry.)*
-  * → sina pilin utala.
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina pilin ike tan utala. → sina pilin utala. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Vi malbone empatias pro batalo.* → *Vi estas kolera.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You are empathizing badly because of struggle.* → *You are angry.* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "lon ... (pi)" li ken kama [nimi poka luka](#nimi-poka-luka).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> "lon ... (pi)" povas fariĝi [prepozicio](#nimi-poka-luka).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> "lon ... (pi)" can become a [preposition](#nimi-poka-luka).
 
-* mi tawa poka sina. *(Mi iras proksimen al vi. — I'm getting closer to you.)*
-* mi tawa ~~lon~~ ***poka*** sina. *(Mi iras kun vi. — I'm going with you.)*
-  * → mi tawa ***poka*** sina.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi tawa lon poka sina. → mi tawa poka sina. | mi tawa poka sina. |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi iras kun vi.* | *Mi iras proksimen al vi.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm going with you.* | *I'm getting closer to you.* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) "kepeken" li kama [nimi wawa](#nimi-wawa), la jan **Pije** li kepeken ona lon poka pi [nimi lili "e"](#nimi-lili-e).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam la [prepozicio](#nimi-poka-luka) "kepeken" fariĝas [verbo](#nimi-wawa), **Pije** uzas ĝin kun la [partikulo "e"](#nimi-lili-e).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> When the [preposition](#nimi-poka-luka) "kepeken" becomes a [verb](#nimi-wawa), **Pije** uses it with the [particle "e"](#nimi-lili-e).
 
-* mi ***kepeken*** ilo. *(Mi uzas la instrumenton. — I use the instrument.)*
-  * → mi ***kepeken e*** ilo.
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi kepeken ilo. → mi kepeken e ilo. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi uzas la instrumenton* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I use the instrument.* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) li kama [nimi lawa](#nimi-lawa), la kon ona li kama sama ni pi nimi "ijo" lon pini pi [nimi poka luka](#nimi-poka-luka) ni. jan **Pije** li kepeken [nimi poka luka](#nimi-poka-luka) "tan" lon nasin ni.   
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam [prepozicio](#nimi-poka-luka) fariĝas [substantivo](#nimi-lawa), ĝia signifo povas fariĝi sama al tiu de "ijo" malantaŭ tiu [prepozicio](#nimi-poka-luka). **Pije** uzas la [prepozicion](#nimi-poka-luka) "tan" en tiu maniero.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a [preposition](#nimi-poka-luka) becomes a [noun](#nimi-lawa), its meaning can become that of the word "ijo" after that [preposition](#nimi-poka-luka). **Pije** uses the [preposition](#nimi-poka-luka) "tan" in this way.
 
-* mi sona ala e ni: ***tan*** seme la sina pu ala. *(Mi ne scias kial vi ne studas la Libron. — I don't know why you're not interacting with the Book.)*
-  * → mi sona ala e ***tan*** pi ijo ni: sina pu ala.
-* ona li tawa e ~~ona~~ ***sama***. *(Ĝi movas sin mem. — It moves itself.)*
-  * → ona li tawa e ***sama***.
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) li ken sama [nimi lawa](#nimi-lawa) tawa lukin, taso ona li jo e kon pi nimi "ijo" lon pini pi [nimi poka luka](#nimi-poka-luka) ni.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Prepozicio](#nimi-poka-luka) povas ŝajni [substantivo](#nimi-lawa), sed kun la signifo de "ijo" kiel argumento de tiu [prepozicio](#nimi-poka-luka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [preposition](#nimi-poka-luka) may seem like a [noun](#nimi-lawa), but with the meaning of "ijo" as an argument of that [preposition](#nimi-poka-luka).
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi sona ala e ni: ni li tan seme. → mi sona ala e tan. |
-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi ne konas la motivon.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I don't know the reason.* |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi sona ala e ni: ni li tan seme. → mi sona ala e tan. | ona li tawa e ona sama. → ona li tawa e sama. |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi ne konas la motivon.* | *Ĝi movas sin mem.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I don't know the reason.* | *It moves itself.* |
 
 
 #### nimi pona
