@@ -1002,27 +1002,35 @@
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi donas al vi unu kvaronon.* | *Mi donas al vi tri kvaronojn.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I give you one quarter.* | *I give you three quarters.* |
 
----
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kon pi poka ante, pi nimi "nanpa wan" li nimi "nanpa ale".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La malo de "nanpa wan" estas "nanpa ale".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The opposite of "nanpa wan" is "nanpa ale".
 
-* sina ***nanpa wan*** *(Vi estas la unua. — You're the first.)*
-* sina ***nanpa ale*** *(Vi estas la lasta. — You're the last.)*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina nanpa wan. | sina nanpa ale. |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Vi estas la unua.* | *Vi estas la lasta.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You're the first.* | *You're the last.* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> linja pi nanpa esun la wan linja kama li "nanpa kama", wan linja awen li "nanpa awen", wan linja pini li "nanpa pini".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> En atendovico la venonta vicero estas "nanpa kama", la estanta vicero estas "nanpa awen" kaj la pasinta vicero estas "nanpa pini".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> In a row, the one whose turn it's going to be is "nanpa kama", the one whose turn it is is "nanpa awen" and the one whose turn it has been is "nanpa pini".
 
-* mi ***nanpa kama*** *(Estos mia vico. — It's going to be my turn.)*
-* mi ***nanpa awen*** *(Estas mia vico. — It's my turn.)*
-* mi ***nanpa pini*** *(Estis mia vico. — It's been my turn.)*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina nanpa kama. | sina nanpa awen. | sina nanpa pini. |
+|:-:|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Estos via vico.* | *Estas via vico.* | *Estis via vico.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *It's going to be your turn.* | *It's your turn.* | *It's been your turn.* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> ilo sona li pali lon tenpo mute, la ona li "nanpa sin" e ona.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam komputilo plurfoje plenumas algoritmon, ĝi iteracias ("nanpa sin") e ona.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a computer fulfills an algorithm multiple times, it iterates ("nanpa sin") it.
 
-* ilo sona li ***nanpa sin*** e pali. *(La komputilo ripetas la taskon. La komputilo iteracias la algoritmon. — The computer repeats the task. The computer iterates the algorithm.)*
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ilo sona li nanpa sin e pali. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *La komputilo ripetas la taskon. La komputilo iteracias la algoritmon.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The computer repeats the task. The computer iterates the algorithm.* |
 
 
 ##### nimi poka luka
