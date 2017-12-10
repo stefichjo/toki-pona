@@ -892,64 +892,24 @@
 | [nimi poka palisa](#nimi-poka-palisa) |
 | [nimi poka luka](#nimi-poka-luka) |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi [nimi lawa](#nimi-lawa) la **nimi suli** wan taso li [nimi poka](#nimi-poka). Tan ni la ona li jo ala e [nimi lili "pi"](#nimi-lili-pi).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ [substantivo](#nimi-lawa), sola **radika vorto** estas [modifilo](#nimi-poka). Tial ĝi ne havas la [partikulon "pi"](#nimi-lili-pi).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After a [noun](#nimi-lawa), a sole **content word** is a [modifier](#nimi-poka). Because of that, it doesn't have the [particle "pi"](#nimi-lili-pi).
-
-* jan ***pona*** *(iu bona, bona persono, amiko — someone good, good person, friend)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) en [nimi poka](#nimi-poka) ona li sama [nimi lawa](#nimi-lawa) wan li ken jo e [nimi poka](#nimi-poka) sin.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Substantivo](#nimi-lawa) kaj ĝia [modifilo](#nimi-poka) estas kiel unu [substantivo](#nimi-lawa) kaj povas havi aldonan [modifilon](#nimi-poka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [noun](#nimi-lawa) and its [modifier](#nimi-poka) are like one [noun](#nimi-lawa) and can have an additional [modifier](#nimi-poka).
-
-* jan pona ***mi*** *(mia amiko — my friend)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "[pi](#nimi-lili-pi)" la [nimi lawa](#nimi-lawa) li sama [nimi poka](#nimi-poka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ **partikulo** "[pi](#nimi-lili-pi)", [substantivo](#nimi-lawa) estas kiel [modifilo](#nimi-poka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After a **particle** "[pi](#nimi-lili-pi)", a [noun](#nimi-lawa) is like a [modifier](#nimi-poka).
-
-* tomo ***pi jan pona mi*** *(la domo de mia amiko — my friend's house)*
-* toki ***pi pona mute*** *(lingvo de multa bono, tre bona lingvo — a language of much good, a very good language)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "[li](#nimi-lili-li)" la [nimi lawa](#nimi-lawa) li [nimi wawa](#nimi-wawa).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ **partikulo** "[li](#nimi-lili-li)", [substantivo](#nimi-lawa) estas [verbo](#nimi-wawa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After a **particle** "[li](#nimi-lili-li)", a [noun](#nimi-lawa) is a [verb](#nimi-wawa).
-
-* ona ***li jan pona mi***. *(Ŝi estas mia amiko. — She is a friend of mine.)*
-
 ##### nimi poka palisa
 *(Korelativoj — Correlatives)*
 
-* ***ala***, ***ale***, ***ni***, ***seme*** *(neniu, ĉiu, tiu (ĉi), kiu — no, every, that/this, which)*
-  * jan ***ala***, jan ***ale***, jan ***ni***, jan ***seme*** *(neniu, ĉiu, tiu (ĉi), kiu — no one, everyone, that/this one, who)*
-  * ~~ijo~~ ***ala***, ~~ijo~~ ***ale***, ~~ijo~~ ***ni***, ~~ijo~~ ***seme*** *(nenio, ĉio, tio (ĉi), kio — nothing, everything,  that/this thing, what)*
-    * → ***ala***, ***ale***, ***ni***, ***seme***
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala | ale | ni | seme |
+|:-:|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *neniu, neniu aĵo, nenio* | *ĉiu, ĉiu aĵo, ĉio* | *tiu, tiu aĵo, tio* | *kiu, kiu aĵo, kio* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *no, no thing, nothing* | *every, every thing, everything* | *this/that, this/that thing* | *which, which thing, what* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi poka palisa** li ken kama sin.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> En genitiva frazero (t.e. la vortoj malantaŭ la **partikulo** "pi"), "ijo" antaŭ **korelativo** povas reaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> In a genitive clause (i.e. the words behind the **particle** "pi"), "ijo" before a **correlative** can reappear.
 
-* mama ***ale*** *(ĉiu gepatro, ĉîes gepatro — every parent, everything's parent)*
-  * → mama ***pi ijo ale*** *(gepatro de ĉio — parent of everything)*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mama pi ijo ale | mama ale |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *gepatro de ĉio* | *ĉiu gepatro* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *parent of everything* | *every parent* |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ijo" li jo e kon pi nimi "tenpo" anu "ma"/"tomo", la ona li ken kama weka lon pini pi **nimi lili** "pi".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam "ijo" havas la signifon de "tempo" aŭ "loko", ĝi povas malaperi en genitiva frazero (t.e. la vortoj malantaŭ la **partikulo** "pi").  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When "ijo" has the meaning of "time" or "place", it can disappear in a genitive clause (i.e. the words after the **particle** "pi").
-
-* toki ni *(tiu lingvo — that language)*
-* toki pi **ma** ni *(la lingvo de tiu lando — that country's language)*
-* toki pi **ma** ni: jan pona mi lon ona *(la lingvo de tiu lando, kie estas miaj amikoj — the language of the country where my friends are)*
-* toki pi **ijo** ni: jan pona mi li lon ona *(la lingvo de kie estas miaj amikoj — the language of where my friends are)*
-* toki pi ~~ijo~~ ni *(la loka lingvo, la lingvo de tiu loko, la tiea lingvo — the local language, the language of that place, the language there)*
-  * → toki ni
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi [nimi lawa](#nimi-lawa) la jan **Sonja** li weka e [nimi poka luka](#nimi-poka-luka) "sama" a.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ [substantivo](#nimi-lawa), **Sonja** malaperigas ankaŭ la [prepozicion](#nimi-poka-luka) "sama".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After a [noun](#nimi-lawa), **Sonja** makes also the [preposition](#nimi-poka-luka) "sama" disappear.
-
-* tomo ni li suli ***sama*** ni. *(Tiu domo estas granda kiel tiu. Tiu domo estas granda kiel tio. Tiu domo estas tiel granda. — This house is big like this one. This house is big like that. This house is so big.)*
-* tomo pi suli ***sama*** ni *(tiom granda domo — a house that big)*
-  * → tomo pi suli ni *(domo de tiu grando, tiel granda domo — house of that size, such a big house)*
 
 ###### nimi poka palisa namako
 *(Aldonaj Korelativoj — Additional Correlatives)*
