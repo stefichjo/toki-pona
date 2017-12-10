@@ -998,8 +998,12 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Pere de numeralo de malgranda kvanto kaj numeralo de granda kvanto oni povas esprimi kvanton inter nulo kaj unu.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> By means of a numeral of a small quantity and a numeral of a big quantity one can express a quantity between zero and one.
 
-* mi pana e ***wan wan pi tu tu*** tawa sina. *(Mi donas al vi unu kvaronon. — I give you one quarter.)*
-* mi pana e ***wan mute pi tu tu*** tawa sina. *(Mi donas al vi tri kvaronojn. — I give you three quarters.)*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi pana e wan wan pi tu tu tawa sina. | mi pana e wan mute pi tu tu tawa sina. |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi donas al vi unu kvaronon.* | *Mi donas al vi tri kvaronojn.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I give you one quarter.* | *I give you three quarters.* |
+
+---
 
 | # | 5^ | | 10^ | |
 |:-:|:-:|:-:|:-:|:-:|
