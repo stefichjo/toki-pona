@@ -993,7 +993,6 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *two weeks* | *fourteen days* |
 
 
----
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kepeken nimi pi nanpa lili en nimi pi nanpa suli la jan li ken toki e nanpa lon ala, e nanpa lon wan.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Pere de numeralo de malgranda kvanto kaj numeralo de granda kvanto oni povas esprimi kvanton inter nulo kaj unu.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> By means of a numeral of a small quantity and a numeral of a big quantity one can express a quantity between zero and one.
@@ -1004,40 +1003,6 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I give you one quarter.* | *I give you three quarters.* |
 
 ---
-
-| # | 5^ | | 10^ | |
-|:-:|:-:|:-:|:-:|:-:|
-| 1 | 1 | wan | 1 | wan |
-| 2 | 2 | tu | 2 | tu |
-| 3 | 3 | mute | 3 | mute |
-| 4 | 2×2 | tu tu | 2×2 | tu tu |
-| 5 | 5 | luka | 5 | luka |
-| 6 | 3×2 | mute tu | 5 + 1 | luka en wan |
-| 7 | 7 | esun | 5 + 2 | luka en tu |
-| 8 | 2×2×2 | tu tu tu | 5 + 3 | luka en mute |
-| 9 | 3×3 | mute mute | 5 + 2×2 | luka en tu tu |
-| 10 | 5×2 | luka tu | 5×2 | luka tu |
-| ... | ... | ... | ... | ... |
-| 15 | 5×2 + 5 | luka tu en luka | 5×3 | luka mute |
-| 20 | 5×2×2 | luka tu tu | 5×2×2 | luka tu tu |
-| 25 | 5×2×2 + 5 | luka tu tu en luka | 5×5 | luka luka |
-| 30 | 5×2×3 | luka tu mute | 5×5 + 5 | luka luka en luka |
-| 35 | 5×2×3 + 5 | luka tu mute en luka | 5×5 + 5×2 | luka luka en luka tu |
-| 40 | 5×2×2×2 | luka tu tu tu | 5×5 + 5×3 | luka luka en luka mute |
-| 45 | 5×2×2×2 + 5 | luka tu tu tu en luka | 5×5 + 5×2×2 | luka luka en luka tu tu |
-| 50 | 5×2×5 | luka tu luka | 5×5×2 | luka luka tu |
-| ... | ... | ... | ... | ... |
-| 75 | 5×2×7 + 5 | luka tu esun en luka | 5×5×3 | luka luka mute |
-| 100 | 5×2×5×2 | luka tu luka tu | 5×5×2×2 | luka luka tu tu |
-| 125 | 5×2×5×2 + 5×2 + 5 | luka tu luka tu en luka tu tu en luka | 5×5×5 | luka luka luka |
-| ... | ... | ... | ... | ... |
-| 250 | 5×2×5×2×2 + 5×2×5 | luka tu luka tu tu en luka tu luka | 5×5×5×2 | luka luka luka tu |
-| 375 | 5×2×5×2×3 + 5×2×7 + 5 | luka tu luka tu mute en luka tu esun en luka | 5×5×5×3 | luka luka luka mute |
-| 500 | 5×2×5×2×5 | luka tu luka tu luka | 5×5×5×2×2 | luka luka luka tu tu |
-| 625 | 5×2×5×2×3×2 + 5×2×2 + 5 | luka tu luka tu mute tu en luka tu tu en luka | 5×5×5×5 | luka luka luka luka |
-| ... | ... | ... | ... | ... |
-| 2001 | 5×2×5×2×5×2×2 + 1 | luka tu luka tu luka tu tu en wan | 5×5×5×5×3 + 5×5×5 + 1 | luka luka luka luka mute en luka luka luka en wan
-
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kon pi poka ante, pi nimi "nanpa wan" li nimi "nanpa ale".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La malo de "nanpa wan" estas "nanpa ale".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The opposite of "nanpa wan" is "nanpa ale".
