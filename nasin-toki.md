@@ -795,61 +795,36 @@
 ##### nimi wawa poka
 *(Helpaj Verboj — Auxiliary Verbs)*
 
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | awen | kama |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *restanta, plu-i* | *estiĝanta, ek-i* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *staying, to keep on -ing* | *becoming, to start -ing* |
+
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | kama | ken | lukin | wile |
+|:-:|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *venanta, sukcesi* | *ebla, povi* | *vartanta, provi* | *bezonanta, devi/voli* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *coming, to succeed in -ing* | *possible, can* | *minding, to try to* | *needing, must/want* |
+
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi wawa** li **nimi wawa poka**, la ona li jo e kon pi **nimi wawa luka** lon kama pi [mute nimi poka](#mute-nimi-poka) ni: ona li kama jo e **nimi wawa** lawa tan [mute nimi](#mute-nimi) lawa. [mute nimi](#mute-nimi) tu ale la kama pi [nimi lili "li"](#nimi-lili-li) la nimi li sama.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se **verbo** estas **helpa verbo**, ĝi implicas **transitivan verbon** antaŭ [subfrazo](#mute-nimi-poka), kiu ricevas la ĉefan **verbon** el la ĉefa [frazo](#mute-nimi). En ambaŭ [frazoj](#mute-nimi), la subjeko (t.e. la vortoj antaŭ la [partikulo "li"](#nimi-lili-li)) estas la sama.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **verb** is an **auxiliary verb**, it implies a **transitive verb** before a [subordinate clause](#mute-nimi-poka), which receives the main **verb** from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [particle "li"](#nimi-lili-li)) is the same.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li kama e ni: ona li lon tomo. → ona li kama lon tomo. |
 |:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi igas/kaŭzas, ke ŝi estas ĉe la domo.* → *Ŝi estiĝas/aperas ĉe la domo.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She makes/causes, that she is there at the house.* → *She starts being there/appears at the house.* |
-
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "kama lon" la nimi "lon" li ken kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> En "kama lon", "lon" povas malaperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> In "kama lon", "lon" can disappear.
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li kama lon. → ona li kama. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi aperas/venas.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She appears/comes.* |
-
-
-
----
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | awen | kama |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *restanta, plu-a* | *-iĝanta* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *staying* | *becoming*  |
-
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | kama | ken | lukin | wile |
-|:-:|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *ek-i* | *ebli, povi* | *atenti, provi* | *bezoni, voli/devi* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to succeed, to start -ing* | | | |
-
-
-
-
-
-kama awen pini
-kama ken lukin open wile
-
-enduring, kept, protected, safe, waiting, staying
-
----
-open
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi venigas, ke ŝi estas ĉe la domo.* → *Ŝi sukcesas esti ĉe la domo.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She evokes, that she is there at the house.* → *She succeeds in being there at the house.* |
 
 
 ###### nimi wawa poka musi
 *(Eksperimentaj Helpaj Verboj — Experimental Auxiliary Verbs)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi pona](#nimi-pona) "pini" li ken kama [nimi wawa poka](#nimi-wawa-poka) **musi**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [simpla vorto](#nimi-pona) "pini" povas fariĝi **eksperimenta** [helpa verbo](#nimi-wawa-poka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [simple word](#nimi-pona) "pini" can become an **experimental** [auxiliary verb](#nimi-wawa-poka).
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | open | pini |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *malfermita/funkcianta, preti* | *plenumita, ĉesi* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *open/turned on, to be ready to* | *finished, to stop -ing* |
 
-* mi ***pini jo*** e lipu. *(Mi ĉesis havi la libron. Mi perdis la libron. — I ceased to have the book. I lost the book.)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) en nimi "ni: ..." li ken kama [nimi wawa poka](#nimi-wawa-poka).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [prepozicio](#nimi-poka-luka) kaj la vortoj "ni: ..." povas fariĝi [helpa verbo](#nimii-wawa-poka).  
