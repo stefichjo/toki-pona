@@ -949,10 +949,10 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La signifoj de la **numeralo** "mute" kaj de la [simpla vorto](#nimi-pona) "mute" povas esti unu.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The meanings of the **numeral** "mute" and of the [simple word](#nimi-pona) "mute" can be one.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mute | mute |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *tri (aŭ pli)* | *multaj* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *three (or more)* | *many* |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mute |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *tri, multaj* → *tri (aŭ pli)* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *three, many* → *three (or more)* |
 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka nanpa](#nimi-poka-nanpa) tu la **sitelen nanpa** li ken kama weka.  
@@ -968,10 +968,10 @@
 ###### nimi poka nanpa musi
 *(Eksperimentaj Numeraloj — Experimental Numerals)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | esun | mute |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *sep* | *tri* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *seven* | *three* |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | esun |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *sep* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *seven* |
 
 ---
 
