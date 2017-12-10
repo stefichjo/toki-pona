@@ -449,7 +449,7 @@
       * *([NANPA](#nimi-poka-nanpa))*
         * *([POKA](#nimi-poka))* - unu — one
           * *([LAWA°](#nimi-lawa-musi))* - unuopo, unuo, -ero, -ono — single, unit, one piece of
-    * *([LAWA°](#nimi-lawa-musi))* - unio — union
+    * *([LAWA°](#nimi-lawa-musi))* - unueco, unio — union
 * <img src="musi/sitelen/pona/waso.png" height="12"> **waso** ***[wazo]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo kon**
   * *([LAWA](#nimi-lawa))* - fluganta vivaĵo: birdo — flying organism: bird
   * *([POKA°](#nimi-poka-musi))* - fluganta — flying
