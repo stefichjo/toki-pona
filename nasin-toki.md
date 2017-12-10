@@ -735,8 +735,8 @@
 | [nimi lawa pali musi](#nimi-lawa-pali-musi) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** li **nimi lawa pali**, la ona li kon pi nimi "e ijo" lon tenpo ni: ona li kama [nimi wawa luka](#nimi-wawa-luka).
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **aga substantivo**, ĝi estas implicata de "e ijo", kiam ĝi fariĝas [transitiva verbo](#nimi-wawa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is an **action noun**, it implies "e ijo" when it becomes a [transitive verb](#nimi-wawa).
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **aga substantivo**, ĝi estas implicata de "e ijo", kiam ĝi fariĝas [transitiva verbo](#nimi-wawa-luka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is an **action noun**, it implies "e ijo" when it becomes a [transitive verb](#nimi-wawa-luka).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | moku | pali | sitelen | sona | toki |
 |:-:|:-|:-|:-|:-|:-|
@@ -795,6 +795,11 @@
 ##### nimi wawa poka
 *(Helpaj Verboj — Auxiliary Verbs)*
 
+| [↑](#nimi-wawa) |
+|:-:|
+| [nimi wawa luka](#nimi-wawa-poka-musi) |
+| [nimi wawa poka](#nimi-wawa-poka-nasa) |
+
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | awen | kama |
 |:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *restanta, plu-i* | *estiĝanta, ek-i* |
@@ -840,6 +845,39 @@
 |:-:|:-|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi estas ripozanta.* | *Vi estas ripozinta.* | *Ŝi estas ripozonta.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am resting.* | *You have been resting.* | *She is going to rest.* |
+
+
+###### nimi wawa poka nasa
+*(Strangaj Helpaj Verboj — Strange Auxiliary Verbs)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "pana" li ken kama **nimi wawa poka**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "pana" povas fariĝi **helpa verbo**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "pana" can become an **auxiliary verb**.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi pana e sona pi toki pona. → mi pana sona e toki pona. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi instruas Tokiponon.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I teach Toki Pona.* |
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi wawa luka** ale li ken kama **nimi wawa poka**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Ĉiu **transitiva verbo** povas fariĝi **helpa verbo**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Every **transitive verb** can become an **auxiliary verb**.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi olin e ni: mi kama sona e jan pona sina. → mi olin kama sona e jan pona sina. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi amas konatiĝi kun via amiko.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I love to get to know your friend.* |
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi wawa poka** "kama" en [nimi suli](#nimi-suli) "pini" li ken kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La **helpa verbo** "kama" kaj la [radika vorto](#nimi-suli) "pini" povas malaperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The **auxiliary verb** "kama" and the [content word](#nimi-suli) "pini" can disappear.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li kama lape lon pini pi tenpo lili. → ona li lape lon tenpo lili. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi endormiĝos post mallonga tempo. Ŝi baldaŭ dormos. Ŝi rapide endormiĝas.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She will sleep after a short period of time. She will sleep soon. She falls asleep quickly.* |
 
 
 #### nimi poka
@@ -1361,36 +1399,8 @@
 
 | [↑](#toki-nasa) |
 |:-:|
-| [nimi wawa nasa](#nimi-wawa-nasa) |
 | [nimi poka nasa](#nimi-poka-nasa) |
 | [mute nimi nasa](#mute-nimi-nasa) |
-
-#### nimi wawa nasa
-*(Strangaj Verboj — Strange Verbs)*
-
-##### nimi wawa poka nasa
-*(Strangaj Helpaj Verboj — Strange Auxiliary Verbs)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "pana" li ken kama [nimi wawa poka](#nimi-wawa-poka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "pana" povas fariĝi [helpa verbo](#nimi-wawa-poka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "pana" can become an [auxiliary verb](#nimi-wawa-poka).
-
-* mi ***pana*** e sona pi toki pona tawa sina. *(Mi instruas Tokiponon al vi.)*
-  * mi ***pana*** sona e toki pona tawa sina.
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi wawa luka** ale li ken kama [nimi wawa poka](#nimi-wawa-poka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Ĉiu transitiva verbo povas fariĝi [helpa verbo](#nimi-wawa-poka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Every transitive verb can become an [auxiliary verb](#nimi-wawa-poka).
-
-* mi ***olin e ni: mi*** kama sona e jan pona sina. *(Mi amas konatiĝi kun via amiko. — I love to get to know your friend.)*
-  * → mi ***olin*** kama sona e jan pona sina.
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa poka](#nimi-wawa-poka) "kama" en [nimi suli](#nimi-suli) "pini" li ken kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [helpa verbo](#nimi-wawa-poka) "kama" kaj la [radika vorto](#nimi-suli) "pini" povas malaperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [auxiliary verb](#nimi-wawa-poka) "kama" and the [content word](#nimi-suli) "pini" can disappear.
-
-* ona li ~~kama~~ ***lape*** lon ~~pini pi~~ tenpo lili. *(Ŝi endormiĝos post mallonga tempo. Ŝi baldaŭ dormos. Ŝi rapide endormiĝas. — She will sleep after a short period of time. She will sleep soon. She falls asleep quickly.)*
-  * → ona li ***lape*** lon tenpo lili.
 
 #### nimi poka nasa
 *(Strangaj Modifiloj — Strange Modifiers)*
