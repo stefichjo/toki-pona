@@ -973,24 +973,27 @@
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *sep* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *seven* |
 
----
-
-
-
-
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka nanpa](#nimi-poka-nanpa) li ken kama [nimi lawa](#nimi-lawa).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Numeralo](#nimi-poka-nanpa) povas fariĝi [substantivo](#nimi-lawa).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [numeral](#nimi-poka-nanpa) can become a [noun](#nimi-lawa).
 
-* mi jo e kili tu. ***wan*** ona li loje. ***wan*** ante li jelo. *(Mi havas du pomojn. Unu el ili estas ruĝa. La alia estas flava. — I have two apples. One of them is red. The other one is yellow.)*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi jo e kili tu. wan ona li loje. wan ante li jelo. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi havas du pomojn. Unu el ili estas ruĝa. La alia estas flava.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I have two apples. One of them is red. The other one is yellow.* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "en"](#nimi-lili-en) li ken lon [nimi poka nanpa](#nimi-poka-nanpa) tu.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La [konjunkcio "en"](#nimi-lili-en) povas esti ĉe du [numeraloj](#nimi-poka-nanpa).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [conjunction "en"](#nimi-lili-en) can be with two [numerals](#nimi-poka-nanpa).
 
-* tenpo suno esun tu *(du semajnoj — two weeks)*
-* tenpo suno ***luka tu en tu tu*** *(dek kvar tagoj — fourteen days)*
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tenpo suno esun tu | tenpo suno luka tu en tu tu |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *du semajnoj* | *dek kvar tagoj* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *two weeks* | *fourteen days* |
 
+
+---
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kepeken nimi pi nanpa lili en nimi pi nanpa suli la jan li ken toki e nanpa lon ala, e nanpa lon wan.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Pere de numeralo de malgranda kvanto kaj numeralo de granda kvanto oni povas esprimi kvanton inter nulo kaj unu.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> By means of a numeral of a small quantity and a numeral of a big quantity one can express a quantity between zero and one.
