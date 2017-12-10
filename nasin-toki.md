@@ -792,6 +792,10 @@
 ##### nimi wawa luka
 *(Transitivaj Verboj — Transitive Verbs)*
 
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi wawa** li jo e [nimi lili "e"](#nimi-lili-e), la ona li **nimi wawa luka**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **verbo** havas rektan objekton (t.e. vortoj malantaŭ [partikulo "e"](#nimi-lili-e)), ĝi estas **transitiva verbo**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **verb** has a direct object (i.e. words after a [particle "e"](#nimi-lili-e)), it's a **transitive verb**.
+
 ##### nimi wawa poka
 *(Helpaj Verboj — Auxiliary Verbs)*
 
