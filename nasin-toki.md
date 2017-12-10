@@ -1084,14 +1084,10 @@
 ###### nimi poka luka musi
 *(Eksperimentaj Prepozicioj — Experimental Prepositions)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) "ijo" en [nimi poka luka](#nimi-poka-luka) "tawa" en [nimi wawa luka](#nimi-wawa-luka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Pasivo.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Passive.
-
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ijo tawa lukin → ijo lukin | 
 |:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *io por la okulo, io por vidado, io videnda, io vidata* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *something for the eye, something to see, something to be seen, something seen* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *io por vidado, io videnda* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *something to see, something to be seen* |
 
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | pona lukin | ike lukin |
@@ -1196,7 +1192,6 @@
 |:-|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi ne konas la motivon.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I don't know the reason.* |
-
 
 
 #### nimi pona
