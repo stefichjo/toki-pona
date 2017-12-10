@@ -189,7 +189,7 @@
 
 
 #### nimi lili "e" namako
-*(Aldona Rekta Objekto — Additional Rekta Objekto)*
+*(Aldona Rekta Objekto — Additional Direct Object)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi nimi "pana e" li ken kama [nimi wawa luka](#nimi-wawa-luka).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La rekta objekto de "pana" povas fariĝi [transitiva verbo](#nimi-wawa-luka).  
@@ -209,6 +209,16 @@
 |:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi batalas la malamikon.* | *Ŝi provokas/atakas la malamikon.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She fights the enemy.* | *She is provoking/attacking the enemy.* |
+
+
+##### nimi lili "e" nasa
+*(Stranga Rekta Objekto — Strange Direct Object)*
+
+---
+- kepeken -> e
+- mi musi kepeken sike -> mi musi e sike
+
+---
 
 
 ### nimi lili "o"
@@ -528,8 +538,33 @@
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *efektive, jes* | *ajne, nu* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *indeed, yes* | *any, well* |
 
+### lipu mun
+*(Kalendaro — Calender)*
 
----
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ma/ma Ma | suno/suno Suno | mun/mun Mun |
+|:-:|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *la tero* | *la suno* | *la luno* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Earth* | *the Sun* | *the Moon* |
+
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mun Seli | mun Telo | mun Kasi | mun Kiwen | mun Ma |
+|:-:|:-|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Marso* | *Merkuro* | *Jupitero* | *Venuso* | *Saturno* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Mars* | *Merkury* | *Jupiter* | *Venus* | *Saturn* |
+
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mun Sewi | mun Anpa |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Urano* | *Neptuno* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Uranus* | *Neptune* |
+
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tenpo Suno Suno → tenpo Suno | tenpo Mun Mun → tenpo Mun | tenpo Mun Seli → tenpo Seli | tenpo Mun Telo → tenpo Telo | tenpo Mun Kasi → tenpo Kasi | tenpo Mun Kiwen → tenpo Kiwen | tenpo Mun Ma → tenpo Ma |
+|:-:|:-|:-|:-|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Dimanĉo* | *Lundo* | *Marto* | *Merkredo* | *Ĵaŭdo* | *Vendredo* | *Sabato* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Sunday* | *Monday* | *Tuesday* | *Wednesday* | *Thursday* | *Friday* | *Saturday* |
+
+
 
 ### nimi suli
 *(Radikaj Vortoj — Content Words)*
@@ -1203,10 +1238,29 @@
 #### nimi pona
 *(Simplaj Vortoj — Simple Words)*
 
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | lili | mute | suli | wawa |
+|:-:|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *malmulta, malgranda, malforta* | *multa* | *granda* | *forta* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *few, small, weak* | *many* | *big* | *strong* |
+
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | lape| moli | musi |
+|:-:|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *ripozanta* | *mortina* | *distriĝanta@* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *resting* | *dead* | *playful* |
+
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | pona | ike | nasa | utala |
+|:-:|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *bona, simpla, amika* | *malbona* | *stranga* | *batalanta* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *good, simple, friendly* | *bad* | *strange* | *struggling* |
+
+
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | wan | tu |
 |:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *unika* | *redunda* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *unique* | *redundant* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli](#nimi-suli) li kama nimi ante li kama ala jo e kon sin, la ona li **nimi pona**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se [radika vorto](#nimi-suli) fariĝas alia vorto kaj ne ricevas aldonan signifon, ĝi estas **simpla vorto**.  
@@ -1217,17 +1271,6 @@
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi estas forta.* | *Akvo fortigas min.* | *Forto estas ene.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am strong.* | *Water strengthens me.* | *Strength lies within.* |
 
----
-**tu** — wan |
-**open** — selo |
-**lili** — mute, suli, wawa |
-**lape**, moli, musi |
-pona — **ike**, nasa, utala
-
----
-open/selo
-
----
 
 ##### nimi pona musi
 *(Eksperimentaj Simplaj Vortoj — Experimental Simple Words)*
@@ -1303,15 +1346,6 @@ open/selo
 | [↑](#nimi-suli-musi) |
 |:-:|
 | [nimi lawa mun musi](#nimi-lawa-mun-musi) |
-
-##### nimi lawa mun musi
-*(Eksperimentaj Vortoj pri Ĉielirantaj Objektoj — Experimental Words of Skywalking Objects)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi mun** li ken [nimi poka](#nimi-poka) taso.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Vortoj pri ĉielirantaj objektoj** povas esti nur [modifiloj](#nimi-poka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Words of skywalking objects** can only be [modifiers](#nimi-poka).
-
-* tenpo suno ***Mun*** la, tenpo suno ***Kiwen*** la jan li ken lukin e loje pi mun ***Seli***. *(De lundo ĝis vendredo, oni povas vidi la ruĝon de marso. — From Monday to Friday one can see the red of Mars.)*
 
 #### sitelen musi pi poka nimi
 *(Eksperimenta Interpunkcio — Experimental Punctuation)*
@@ -1557,7 +1591,7 @@ open/selo
 | <img src="musi/sitelen/pona/o.png" height="12">        | *[LILI LUKA](#nimi-lili-luka)*      | e, li, **o**, pi |
 | <img src="musi/sitelen/pona/olin.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | **olin**, unpa |
 | <img src="musi/sitelen/pona/ona.png" height="12">      | *[ESUN](#nimi-lawa-esun)*           | mi, **ona**, sina |
-| <img src="musi/sitelen/pona/open.png" height="12">     | *[PONA](#nimi-pona)*                | **open** — selo |
+| <img src="musi/sitelen/pona/open.png" height="12">     | *[PONA](#nimi-pona)*                | **open** — selo@ |
 |                                                        | *[WAWA POKA](#nimi-wawa-poka)*      | kama, ken, lukin, **open**, sona, wile |
 | <img src="musi/sitelen/pona/pakala.png" height="12">   | *[LAWA IJO](#nimi-lawa-ijo)*        | ilo — **pakala** |
 | <img src="musi/sitelen/pona/pali.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | alasa, esun, mani, **pali** |
