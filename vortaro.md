@@ -1,9 +1,3 @@
-* <img src="musi/sitelen/pona/a.png" height="12"> **a** ***[ha]*** *([KALAMA](#nimi-lili-kalama))* ≠ **ala** - emfaza, emocia, konfirma interjekcio: ha → ja, eĉ, efektive — emotional interjection: ha → so, even, indeed
-  * *([KALAMA°](#nimi-lili-kalama-musi))* - jes — yes
-  * *([POKA°](#nimi-poka-musi))* - konfirmita, efektiva, vera — confirmed, actual, true
-  * *([PALISA°](#nimi-poka-palisa-musi))*
-    * *([POKA°](#nimi-poka-musi))* - certa, specifa — a certain, a specific
-    * *([LAWA°](#nimi-lawa-musi))* - certaĵo, specifaĵo — something certain, something specific
 * <img src="musi/sitelen/pona/akesi.png" height="12"> **akesi** ***[hagedis]*** *([JAN°](#nimi-lawa-jan-musi))* = **sijelo lete**
   * *([LAWA](#nimi-lawa))* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
   * *([POKA°](#nimi-poka-musi))* - malvarmsanga — cold-blooded
@@ -204,7 +198,6 @@
   * *([LAWA](#nimi-lawa))* - malantaŭo — back
     * *(lon ... pi)* ≠ **lon sinpin pi** - malantaŭ — behind
   * *([POKA](#nimi-poka))* - malantaŭa — rear
-* <img src="musi/sitelen/pona/-.png" height="12"> **monsuta** ***[monsta]*** ⇒ **akesi**
 * <img src="musi/sitelen/pona/mu.png" height="12"> **mu** ***[mu]*** *([KALAMA](#nimi-lili-kalama))* - indiferenta interjekcio: bla, miaŭ — indifferent interjection: blah, meeow
   * *([KALAMA°](#nimi-lili-kalama-musi))* - ĉiuokaze, nu — whatever, well
   * *([PALISA](#nimi-poka-palisa))*
@@ -442,7 +435,7 @@
   * *([E](#nimi-wawa-luka))* = **utala tawa**
 * <img src="musi/sitelen/pona/walo.png" height="12"> **walo** ***[valko]*** *([PONA](#nimi-pona))* = **kule wawa** - blanka — white
 * <img src="musi/sitelen/pona/wan.png" height="12"> **wan** ***[wan]*** *([PONA](#nimi-pona))*
-  * *([POKA](#nimi-poka))* - unika — unique
+  * *([POKA](#nimi-poka))* - unika — uniqeu
     * *([POKA°](#nimi-poka-musi))* - speciala, certa — special, certain
   * *([PALISA°](#nimi-poka-palisa-musi))*
     * *([POKA+](#nimi-poka-namako))* - unueca, unu, izolita — united, one, isolated
