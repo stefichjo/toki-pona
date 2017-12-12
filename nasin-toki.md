@@ -1543,7 +1543,7 @@
 | <img src="musi/sitelen/pona/ko.png" height="12">       | *[LAWA IJO](#nimi-lawa-ijo)*        | kiwen, **ko**, kon, telo |
 | <img src="musi/sitelen/pona/kon.png" height="12">      | *[LAWA IJO](#nimi-lawa-ijo)*        | kiwen, ko, **kon**, telo |
 | <img src="musi/sitelen/pona/kule.png" height="12">     | *[PONA](#nimi-pona)*                | kalama, **kule** |
-| <img src="musi/sitelen/pona/laso.png" height="12">     | *[PONA](#nimi-pona)*                | jelo, **kule**, laso, loje |
+|                                                        | *[PONA](#nimi-pona)*                | jelo, **kule**, laso, loje |
 | <img src="musi/sitelen/pona/kulupu.png" height="12">   | *[LAWA IJO](#nimi-lawa-ijo)*        | **kulupu** — sijelo |
 | <img src="musi/sitelen/pona/kute.png" height="12">     | *[LAWA ILO](#nimi-lawa-ilo)*        | **kute**, lawa, luka, lukin, noka, palisa, pilin, selo, uta |
 | <img src="musi/sitelen/pona/la.png" height="12">       | *[LILI LUKA](#nimi-lili-luka)*      | **la** |
