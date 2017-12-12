@@ -1708,9 +1708,13 @@
 | jaki | *jaki* | |
 | jan ≠ jen | *jen* | |
 | jelo | *jelo* | "kule suno" |
+| jo | *jow* | |
+| kala | *kala* | "tawa lon telo" |
+| kalama | *galama* | |
 | | ** | |
 | monsuta | *monsta* | → akesi, → pilin ike tan ken pi ike kama |
 | powe | *?* | → toki akesi, → toki e ala, → toki ike |
+
 
 
 ## lipu mun

@@ -1,10 +1,3 @@
-* <img src="musi/sitelen/pona/jo.png" height="12"> **jo** ***[jow]*** *([PALI](#nimi-lawa-pali))*
-  * *([LAWA](#nimi-lawa))* - io por havi: propraĵo — something to have: property
-  * *([E](#nimi-wawa-luka))* - havi — to have
-* <img src="musi/sitelen/pona/kala.png" height="12"> **kala** ***[kala]*** *([SIJELO](#nimi-lawa-sijelo))* = **sijelo telo**
-  * *([LAWA](#nimi-lawa))* - naĝanta vivaĵo: fiŝo, baleno — swimming organism: fish, baleno
-  * *([POKA°](#nimi-poka-musi))* - naĝanta — swimming
-* <img src="musi/sitelen/pona/kalama.png" height="12"> **kalama** ***[galama]*** *([PONA](#nimi-pona))* - sonanta — sounding
 * <img src="musi/sitelen/pona/kama.png" height="12"> **kama** ***[kam-ap]*** *([PONA](#nimi-pona))* - alvena, okaza — arriving, happening
   * *([WAWA POKA](#nimi-wawa-poka))* - alvenigi ke, okazigi ke → -iĝ-, sukcesi — to make arrive that, to make happen that → to become, to succeed
   * *(lon ... pi°)* - antaŭ — before
