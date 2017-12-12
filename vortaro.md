@@ -1,20 +1,3 @@
-* <img src="musi/sitelen/pona/e.png" height="12"> **e** ***[he?]*** *([LILI](#nimi-lili-e))* - -n — (accusative)
-* <img src="musi/sitelen/pona/en.png" height="12"> **en** ***[en]*** *([LILI](#nimi-lili-en))* - kaj — and
-* <img src="musi/sitelen/pona/esun.png" height="12"> **esun** ***[edẑum]*** *([SIJELO°](#nimi-lawa-sijelo-musi))*
-  * *([LAWA](#nimi-lawa))* - interŝanĝanta organizo: metabolo, vendejo, merkato, ekonomio — exchanging organism: metabolism, shop, market, economy
-    * *([NANPA°](#nimi-poka-nanpa-musi))*
-	  * *([POKA°](#nimi-poka-musi))* - sep — seven
-  * *([E°](#nimi-wawa-luka-musi))* - interŝanĝi — exchange
-    * *([E°](#nimi-wawa-luka-musi) ~~kepeken toki~~)* - interŝanĝi per parolo: promesi — exchange with talking: promise
-  * *([LUKA°](#nimi-poka-luka))*
-    * *(LUKA°)* - anstataŭ — in exchange for, instead of
-      * *([LAWA!](#nimi-poka-luka-nasa))* - anstataŭaĵo — substitute
-    * *([POKA°](#nimi-poka-musi))* - anstataŭa — substitute
-* <img src="musi/sitelen/pona/ijo.png" height="12"> **ijo** ***[io]*** *([LAWA PONA](#nimi-lawa-pona))*
-  * *([LAWA](#nimi-lawa))* - io — something
-  * *([POKA](#nimi-poka))* - de io: ies — of something: something's
-  * *(... pi)* - pri — about
-  * *(... [PALI°](#nimi-lawa-pali))* - -ata, -enda — being -ed, to be -ed
 * <img src="musi/sitelen/pona/ike.png" height="12"> **ike** ~~ikeja~~ ***[ilkeä]*** *([PONA](#nimi-pona))* ≠ **pona** - malbona, superflua — bad, superfluous
 * <img src="musi/sitelen/pona/-.png" height="12"> **iki** ⇒ **ona**
 * <img src="musi/sitelen/pona/ilo.png" height="12"> **ilo** *([IJO°](#nimi-lawa-ijo-musi))*

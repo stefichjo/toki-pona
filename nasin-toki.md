@@ -1700,12 +1700,12 @@
 | e | *he?* | |
 | en | *en* | |
 | esun | *edẑum* | |
+| ijo | *io* | |
 | | ** | |
 | monsuta | *monsta* | "" → akesi, → pilin ike tan ken pi ike kama |
 | powe | *?* | toki akesi, toki e ala, toki ike |
 
 
- 
 ## lipu mun
 *(Kalendaro — Calendar)*
 
