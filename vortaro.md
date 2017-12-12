@@ -1,6 +1,3 @@
-* <img src="musi/sitelen/pona/kama.png" height="12"> **kama** ***[kam-ap]*** *([PONA](#nimi-pona))* - alvena, okaza — arriving, happening
-  * *([WAWA POKA](#nimi-wawa-poka))* - alvenigi ke, okazigi ke → -iĝ-, sukcesi — to make arrive that, to make happen that → to become, to succeed
-  * *(lon ... pi°)* - antaŭ — before
 * <img src="musi/sitelen/pona/-.png" height="12"> **kan** ⇒ **lon poka pi**, **kepeken poka pi**, **lon poka kulupu pi**
 * <img src="musi/sitelen/pona/-.png" height="12"> **kapa** ⇒ **nena**
 * <img src="musi/sitelen/pona/-.png" height="12"> **kapesi** ⇒ **pimeja**, **pimeja walo**, **loje laso**

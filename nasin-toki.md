@@ -689,6 +689,12 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am resting.* | *You have been resting.* | *She is going to rest.* |
 
 
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | lon awen pi | lon kama pi | lon pini pi |
+|:-:|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *dum* | *antaŭ* | *post* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *during* | *before* | *after* |
+
+
 ---
 - kulupu — sijelo  
 - lupa, nasin  
@@ -1711,10 +1717,10 @@
 | jo | *jow* | |
 | kala | *kala* | "tawa lon telo" |
 | kalama | *galama* | |
+| kama | *kam-ap* | |
 | | ** | |
 | monsuta | *monsta* | → akesi, → pilin ike tan ken pi ike kama |
 | powe | *?* | → toki akesi, → toki e ala, → toki ike |
-
 
 
 ## lipu mun
