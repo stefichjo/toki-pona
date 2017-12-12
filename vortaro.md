@@ -1,38 +1,3 @@
-* <img src="musi/sitelen/pona/akesi.png" height="12"> **akesi** ***[hagedis]*** *([JAN°](#nimi-lawa-jan-musi))* = **sijelo lete**
-  * *([LAWA](#nimi-lawa))* - malvarmsanga animaĵo: reptilo, amfibio, monstro, krimulo — cold-blooded animated being: reptile, amphibian, monster, criminal
-  * *([POKA°](#nimi-poka-musi))* - malvarmsanga — cold-blooded
-* <img src="musi/sitelen/pona/ala.png" height="12"> **ala** ***[ara]*** *([KALAMA°](#nimi-lili-kalama-musi))* ≠ **a** - malkonfirma interjekcio: ne — unconfirming interjection: no
-  * *([POKA](#nimi-poka))* - malvera — false
-  * *([PALISA](#nimi-poka-palisa))*
-    * *([POKA](#nimi-poka))* - neniu — no
-      * *([NANPA](#nimi-poka-nanpa))*
-	    * *([POKA](#nimi-poka))* - nul — zero
-    * *([LAWA](#nimi-lawa))* - nenio — nothing
-* <img src="musi/sitelen/pona/alasa.png" height="12"> **alasa** ***[a-la-ŝas]*** *([PALI°](#nimi-lawa-pali))*
-  * *([LAWA°](#nimi-lawa-musi))* - io por ĉasi, io por kolekti: foraĝo — something to hunt, something to collect: forage
-  * *([E](#nimi-wawa-luka))* - ĉasi, kolekti — to hunt, to collect
-* <img src="musi/sitelen/pona/ale.png" height="12"> **ale** ***[alle]*** *([PONA](#nimi-pona))*
-  * *([POKA](#nimi-poka))* - tuta — entire, whole
-  * *([PALISA](#nimi-poka-palisa))*
-    * *([POKA](#nimi-poka))* - ĉiu — every
-      * *([NANPA](#nimi-poka-nanpa))* - senfine — countless
-    * *([LAWA](#nimi-lawa))* - ĉio, ĉiom — everything, the whole
-      * *(... LAWA°)* - tuta, ĉiom da — whole, all of
-* <img src="musi/sitelen/pona/-.png" height="12"> **ali** ⇒ **ale**
-* <img src="musi/sitelen/pona/anpa.png" height="12"> **anpa** ***[an-bas]*** *([PONA](#nimi-pona))* - malalta, kliniĝi, klinsaluti — low, bending, bowing
-  * *(lon ... pi)* ≠ **lon sewi pi** - sub — under
-* <img src="musi/sitelen/pona/ante.png" height="12"> **ante** ***[ander]*** *([LUKA°](#nimi-poka-luka-musi))*
-  * *(LUKA°)* - ol — than
-    * *([LAWA!](#nimi-poka-luka-nasa))* - io alia — something different
-  * *([POKA](#nimi-poka))* - alia — different
-  * *(lon poka ... pi°)* - ĉe la alia flanko de, trans — at the other side of, beyond
-* <img src="musi/sitelen/pona/anu.png" height="12"> **anu** ~~an~~ ***[an]*** *([LILI](#nimi-lili-anu))* - aŭ — or
-* <img src="musi/sitelen/pona/-.png" height="12"> **apeja** ⇒ **jaki**
-* <img src="musi/sitelen/pona/awen.png" height="12"> **awen** ***[hawen]*** *([PONA](#nimi-pona))* - daŭra, daŭrigita — enduring, kept
-  * *(... ~~lon~~)* - daŭre ĉeestanta → atendi, resti — continuously being present → waiting, staying
-    * *(~~ken~~ ...+)* - rajtanta resti → protektita, savita — allowed to stay → protected, safe
-	  * *([E+](#nimi-wawa-luka-namako))* ⇒ **tomo** - protekti — to protect
-  * *([WAWA POKA](#nimi-wawa-poka))* - daŭrigi ke  → plu- — to continue to
 * <img src="musi/sitelen/pona/e.png" height="12"> **e** ***[he?]*** *([LILI](#nimi-lili-e))* - -n — (accusative)
 * <img src="musi/sitelen/pona/en.png" height="12"> **en** ***[en]*** *([LILI](#nimi-lili-en))* - kaj — and
 * <img src="musi/sitelen/pona/esun.png" height="12"> **esun** ***[edẑum]*** *([SIJELO°](#nimi-lawa-sijelo-musi))*
@@ -302,7 +267,6 @@
 * <img src="musi/sitelen/pona/pona.png" height="12"> **pona** ***[bona]*** *([PONA](#nimi-pona))* ≠ **ike, jaki, nasa, pakala, utala** - bona, amika, simpla — good, friendly, simple
   * *(... [PALI](#nimi-lawa-pali))* - -inda — worth -ing
   * *(lon nasin ...°)* - rekta — direct
-* <img src="musi/sitelen/pona/-.png" height="12"> **powe** ⇒ **toki ike**, **toki akesi**
 * <img src="musi/sitelen/pona/pu.png" height="12"> **pu** ***[buk]*** *([LUKA°](#nimi-poka-luka-musi))*
   * *(LUKA°)* - sekvante -n, kongrue kun, harmonie kun, laŭ, depende de — following, in agreement with, in harmony with, according to, depending on
     * *([LAWA!](#nimi-poka-luka-nasa))* - interagaĵo, la Oficiala Libro de Tokipono — object of interaction, the Official Toki Pona Book
