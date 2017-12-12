@@ -1695,15 +1695,22 @@
 | anpa | *an-ba* | |
 | ante | *ander* | |
 | anu ≠ an | *an* | |
-| apeja | *?* | → jaki |
+| apeja | *?* | → pi nimi jaki |
 | awen | *hawen* | |
 | e | *he?* | |
 | en | *en* | |
 | esun | *edẑum* | |
 | ijo | *io* | |
+| ike ≠ ikeja | *ilkeä* | |
+| iki | *?* | → ona |
+| ilo | *ilo* | |
+| insa | *insajt* | |
+| jaki | *jaki* | |
+| jan ≠ jen | *jen* | |
+| jelo | *jelo* | "kule suno" |
 | | ** | |
-| monsuta | *monsta* | "" → akesi, → pilin ike tan ken pi ike kama |
-| powe | *?* | toki akesi, toki e ala, toki ike |
+| monsuta | *monsta* | → akesi, → pilin ike tan ken pi ike kama |
+| powe | *?* | → toki akesi, → toki e ala, → toki ike |
 
 
 ## lipu mun

@@ -1,21 +1,3 @@
-* <img src="musi/sitelen/pona/ike.png" height="12"> **ike** ~~ikeja~~ ***[ilkeä]*** *([PONA](#nimi-pona))* ≠ **pona** - malbona, superflua — bad, superfluous
-* <img src="musi/sitelen/pona/-.png" height="12"> **iki** ⇒ **ona**
-* <img src="musi/sitelen/pona/ilo.png" height="12"> **ilo** *([IJO°](#nimi-lawa-ijo-musi))*
-  * *([LAWA](#nimi-lawa))* - io utila: ilo — something useful: tool
-  * *([POKA°](#nimi-poka-musi))* - utila — useful
-* <img src="musi/sitelen/pona/insa.png" height="12"> **insa** ***[insajt]*** *([IJO](#nimi-lawa-ijo))* ≠ **weka**
-  * *([LAWA](#nimi-lawa))* - io interna, io centra: mezo — something internal, something central: middle
-    * *(lon nasin ... pi°)* - tra — through
-    * *(lon ale ... pi°)* - ĉie en — throughout
-    * *(tan ale ... pi°)* - de ĉie en, tra — throughout
-	* *(lon ...)* - ene — inside
-      * *(lon ... [PALI°](#nimi-lawa-pali))* - ...-ata — being ...-ed
-  * *([POKA](#nimi-poka))* - interna, centra — internal, central
-* <img src="musi/sitelen/pona/jaki.png" height="12"> **jaki** ***[jakki]*** *([PONA](#nimi-pona))* ≠ **pona** - malpura, fia, senhonora — dirty, disgusting, dishonored
-* <img src="musi/sitelen/pona/jan.png" height="12"> **jan** ~~jen~~ ***[jen]*** *([LAWA PONA](#nimi-lawa-pona))*
-  * *([LAWA](#nimi-lawa))* - iu — someone
-  * *([POKA](#nimi-poka))* - de iu: ies — of someone: someone's
-* <img src="musi/sitelen/pona/jelo.png" height="12"> **jelo** ***[jello]*** *([PONA](#nimi-pona))* = **kule suno** - flava — yellow
 * <img src="musi/sitelen/pona/jo.png" height="12"> **jo** ***[jow]*** *([PALI](#nimi-lawa-pali))*
   * *([LAWA](#nimi-lawa))* - io por havi: propraĵo — something to have: property
   * *([E](#nimi-wawa-luka))* - havi — to have
