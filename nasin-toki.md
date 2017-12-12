@@ -1210,6 +1210,12 @@
 #### nimi poka luka namako
 *(Aldonaj Prepozicioj — Additional Prepositions)*
 
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | a → lon |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *vera* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *true* |
+
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> tawa jan **Sonja** la nimi "taso" li [nimi lili](#nimi-lili).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Laŭ **Sonja**, "taso" estas [partikulo](#nimi-lili).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> According to **Sonja**, "taso" is a [particle](#nimi-lili).
@@ -1331,16 +1337,10 @@
 ### nimi pona musi
 *(Eksperimentaj Simplaj Vortoj — Experimental Simple Words)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | kule | tu |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *bruna* | *redunda* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *brown* | *redundant* |
-
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala | lon |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *malvera* | *vera* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *false* | *true* |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala | kule | tu |
+|:-:|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *malvera* | *bruna* | *redunda* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *false* | *brown* | *redundant* |
 
 
 # sitelen pi poka nimi
@@ -1718,6 +1718,36 @@
 | kala | *kala* | "tawa lon telo" |
 | kalama | *galama* | |
 | kama | *kam-ap* | |
+| kan | *?* | → "lon poka pi" |
+| kapa | *?* | → nena |
+| kapesi | *?* | → "pimeja", → "pimeja walo", → "loje laso" |
+| kasi | *kasvi* | |
+| ken | *ken* | |
+| kepeken | *xebrewken* | |
+| kijetesantakalu | *kierteishäntäkarhu* | → "soweli nasa" |
+| kili | *xili* | |
+| kin | *?* | → a |
+| kinkaju | *?* | → kijetesantakalu |
+| kipisi | ** | → "nasin e", → "tu e" |
+| kiwen | *kiven* | |
+| ko | *gow* | |
+| kon | *kong* | |
+| kule | *kuler* | |
+| kulupu | *grup* | |
+| kute | *ekute* | |
+| la | *la* | |
+| lape | *slape* | |
+| laso ≠ la | *glas* | "kule kasi", "kule sewi" |
+| lawa | *glava* | |
+| leko | *lego?* | → supa, → pini poka |
+| len | *leng* | |
+| lete | *frette* | |
+| li | *li* | |
+| lili | *lik-lik* | |
+| linja | *linja* | |
+| lipu | *lipu* | |
+| loje | *roje* | "kule uta" |
+| lon ≠ alon | *along* | |
 | | ** | |
 | monsuta | *monsta* | → akesi, → pilin ike tan ken pi ike kama |
 | powe | *?* | → toki akesi, → toki e ala, → toki ike |
