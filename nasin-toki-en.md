@@ -1368,7 +1368,7 @@ If "ni" is missing, the [subordinate clause](#mute-nimi-poka) is not below.
 | <img src="musi/sitelen/pona/ni.png" height="12">       | *[POKA PALISA](#nimi-poka-palisa)*  | ala, ale, **ni**, seme, wan |
 | <img src="musi/sitelen/pona/nimi.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | nanpa, **nimi**, sitelen, sona, toki |
 | <img src="musi/sitelen/pona/noka.png" height="12">     | *[LAWA ILO](#nimi-lawa-ilo)*        | kute, lawa, luka, lukin, **noka**, palisa, pilin, selo, uta |
-|                                                        | *[LAWA IJO](#nimi-lawa-ijo)*        | anpa — sewi, lawa — noka |
+|                                                        | *[LAWA IJO](#nimi-lawa-ijo)*        | anpa — sewi, lawa — **noka** |
 | <img src="musi/sitelen/pona/o.png" height="12">        | *[LILI LUKA](#nimi-lili-luka)*      | e, li, **o**, pi |
 | <img src="musi/sitelen/pona/olin.png" height="12">     | *[WAWA PONA](#nimi-wawa-pona)*      | alasa, **olin**, pali, unpa |
 | <img src="musi/sitelen/pona/ona.png" height="12">      | *[ESUN](#nimi-lawa-esun)*           | mi, **ona**, sina |
