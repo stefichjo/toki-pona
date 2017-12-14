@@ -679,10 +679,10 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *It's a hard stone.* → *It's really hard!* | *You are really tall!* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | lawa | sin |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *supra, supra loko, pinto* | *?* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *upper, upper area, top* | *?* |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | lawa |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *supra, supra loko, pinto* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *upper, upper area, top* |
 
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ma | mun |
