@@ -812,7 +812,7 @@
 |:-:|
 | [nimi lawa pali musi](#nimi-lawa-pali-musi) |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** li **nimi lawa pali**, la ona li jo e kon pi nimi "e ijo" lon tenpo ni: ona li kama [nimi wawa luka](#nimi-wawa-luka).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** li **nimi lawa pali**, la ona li jo e kon pi nimi "e ijo" lon tenpo ni: ona li kama [nimi wawa luka](#nimi-wawa-luka).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **aga substantivo**, ĝi estas implicata de "e ijo", kiam ĝi fariĝas [transitiva verbo](#nimi-wawa-luka).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is an **action noun**, it implies "e ijo" when it becomes a [transitive verb](#nimi-wawa-luka).
 
