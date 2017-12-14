@@ -76,7 +76,7 @@ A [sentence](#mute-nimi) can have multiple predicates (i.e. the words after the 
 One can reply by just a predicate (i.e. the words after the **particle** "li").
 
 | ni li pona. → pona. | ona li mama. → mama. |
-|:-|:-|:-|
+|:-|:-|
 | *This is good.* → *Good., Thanks.* | *She is a parent.* → *She is., Yes.* |
 
 
@@ -621,7 +621,7 @@ If a **noun** is a **tool noun**, it implies "ilo". From a grammatical point of 
 
 | kute | lawa | lukin | pilin | uta |
 |:-|:-|:-|:-|:-|
-| *to hear, organ for hearing, ear* | *to guide, organ for guiding, head* | *to see, organ for seeing, eye* | *to feel, organ for feeling, heart* | *to suck, organ for sucking/inhale, mouth* |
+| *to hear, organ for hearing, ear* | *to guide, organ for guiding, head* | *to see, organ for seeing, eye* | *to feel, organ for feeling, heart* | *to suck, organ for sucking/inhaling, mouth* |
 
 
 #### nimi lawa ilo musi

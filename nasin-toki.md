@@ -93,7 +93,7 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> One can reply by just a predicate (i.e. the words after the **particle** "li").
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ni li pona. → pona. | ona li mama. → mama. |
-|:-|:-|:-|
+|:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Tio estas bona.* → *Bone., Dankon.* | *Ŝi estas gepatro.* → *She estas., Jes.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *This is good.* → *Good., Thanks.* | *She is a parent.* → *She is., Yes.* |
 
@@ -781,7 +781,7 @@
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | kute | lawa | lukin | pilin | uta |
 |:-:|:-|:-|:-|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *aŭdi, organo por aŭdi, orelo* | *gvidi, organo por gvidi, kapo* | *vidi, organo por vidi, okulo* | *senti, organo por senti, koro* | *suĉi, organo por suĉi/inhali, buŝo* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to hear, organ for hearing, ear* | *to guide, organ for guiding, head* | *to see, organ for seeing, eye* | *to feel, organ for feeling, heart* | *to suck, organ for sucking/inhale, mouth* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to hear, organ for hearing, ear* | *to guide, organ for guiding, head* | *to see, organ for seeing, eye* | *to feel, organ for feeling, heart* | *to suck, organ for sucking/inhaling, mouth* |
 
 
 #### nimi lawa ilo musi
