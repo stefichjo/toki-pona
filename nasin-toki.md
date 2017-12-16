@@ -1,3 +1,7 @@
+| [toki pona](nasin-toki-tp.md) | [Esperanto](nasin-toki-eo.md) | [English](nasin-toki-en.md) |
+|:-:|:-:|:-:|
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | <img src="musi/sitelen/len-ma/eo.png" height="18"> | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> |
+
 # nasin toki
 *(Gramatiko — Grammar)*
 
