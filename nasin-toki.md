@@ -1080,16 +1080,16 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 #### nimi poka palisa musi
 *(Eksperimentaj Korelativoj — Experimental Correlatives)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi sona e ni: sina toki pona tan seme. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi scias, kial vi tokiponumas.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I know why you speak Toki Pona.* |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi wile sona e ni: sina tawa seme? | mi wile sona e ni: sina tawa seme. |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi volas scii tion: kien vi iras?* | *Mi volas scii, kien vi iras.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I want to know this: where do you go?* | *I want to know where you are going.* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan wan |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | wan |
 |:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *unu/iu certa* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *one/someone certain* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *unu/certa, io certa* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *a certain, something certain* |
 
 
 #### nimi poka palisa namako
@@ -1149,10 +1149,10 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Numeralo](#nimi-poka-nanpa) povas fariĝi [substantivo](#nimi-lawa).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [numeral](#nimi-poka-nanpa) can become a [noun](#nimi-lawa).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi jo e kili tu. wan ona li loje. wan ante li jelo. | tu sike | sike tu | mute nimi | nimi mute |
-|:-:|:-|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi havas du pomojn. Unu el ili estas ruĝa. La alia estas flava.* | *paro da radoj, biciklo* | *du radoj* | *aro da vortoj, frazo* | *multaj vortoj* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I have two apples. One of them is red. The other one is yellow.* | *pair of wheels, bicycle* | *two wheels* | *set of words* | *many words* |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | wan ona li loje. wan ante li jelo. | tu sike | sike tu | mute nimi | nimi mute | ale pi nimi mute |
+|:-:|:-|:-|:-|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Unu (el ili) estas ruĝa. La alia estas flava.* | *paro da radoj, biciklo* | *du radoj* | *aro da vortoj, frazo* | *multaj vortoj* | *vortaro* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I have two apples. One of them is red. The other one is yellow.* | *pair of wheels, bicycle* | *two wheels* | *set of words* | *many words* | *dictionary* |
 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "en"](#nimi-lili-en) li ken lon [nimi poka nanpa](#nimi-poka-nanpa) tu.  
@@ -1263,12 +1263,6 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *something to see, something to be seen* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | pona lukin | ike lukin |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *vidinda/bela* | *malvidinda/malbela* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *worth seeing/beautiful* | *not worth seeing/ugly* |
-
-
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | insa lukin | weka lukin |
 |:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *videbla/vidata* | *malvidebla/ne vidata* |
@@ -1281,6 +1275,12 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *transparent* | *opaque* |
 
 
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | pona lukin | ike lukin |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *vidinda/bela* | *malvidinda/malbela* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *worth seeing/beautiful* | *not worth seeing/ugly* |
+
+
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ante | esun | pu | taso |
 |:-:|:-|:-|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *diversa ol* | *anstataŭ* | *laŭ, sekvante -n, depende de* | *sendepende de* |
@@ -1291,10 +1291,10 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La [prepozicio](#nimi-poka-luka) "lon" povas havi la signifon de la [prepozicio](#nimi-poka-luka) "ante".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [preposition](#nimi-poka-luka) "lon" can have the meaning of the [preposition](#nimi-poka-luka) "ante".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li suli ante sina. → ona li suli lon sina. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi estas pli alta ol vi.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She is taller than you.* |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li suli ante sina. | ona li suli sin ante sina. → ona li suli sin lon sina. | ona li suli ale. |
+|:-:|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi estas alta, malkiel vi.* | *Ŝi estas pli alta ol vi.* | *Ŝi estas la plej alta.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She is tall, unlike you.* | *She is taller than you.* | *She is the tallest.* |
 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "taso ni la" li ken kama "taso".  
@@ -1518,7 +1518,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se [substantivo](#nimi-lawa) implicas alian [substantivon](#nimi-lawa), la unua litero povas ricevi substrekon aŭ povas fariĝi majuskla. Tiam ĉiuj literoj de nomo fariĝas majusklaj.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [noun](#nimi-lawa) implies another [noun](#nimi-lawa), the first letter can recieve an underline or can become uppercase. In this case every letter of a name becomes uppercase.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | Suno li suno. | jan:Sonja → jan:SONJA |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | Suno li suno. | jan:SONJA |
 |:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *La suno estas hela.* | *Sonja* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The sun is bright.* | *Sonja* |
