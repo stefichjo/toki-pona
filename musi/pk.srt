@@ -1,6 +1,6 @@
 0
 00:00:00,000 --> 00:00:01,000
-architecture ("way of houses") = nasin tomo
+architecture ("way of houses") = nasin tomo, sona tomo@
 ask ("to need to hear") = wile kute
 boss ("leading person") = jan lawa
 bridge ("bridging way") = nasin supa
@@ -14,7 +14,7 @@ god ("leading person of the heavens") = jan lawa sewi @jan sewi? jan sewi lawa?
 guru ("person of knowledge") = jan sona
 hour ("piece of the planet/earth cycle") = wan pi sike ma
 laugh ("playful emotional utterance") = a musi
-lie ("communicate bad words") = toki e nimi ike
+lie ("communicate bad words") = toki e nimi ike, toki akesi@
 marriage ("community of maritial relationship") = kulupu unpa
 minute ("piece of a piece of the planet/earth cycle") = wan wan pi sike ma
 moon = mun
@@ -24,15 +24,15 @@ planet ("round world") = sike ma
 pray = toki tawa sewi
 prevent ("remove the possibility") = weka e ken
 religion ("doctrine of the divine") = nasin sewi
-sculpture ("representation") = sitelen
-some ("(of) a certain multitude") = (pi) mute wan
+sculpture ("representation") = sitelen, sitelen kiwen@
+some ("(of) a certain multitude") = (pi) mute wan, wan@
 smile ("happy face") = sinpin lawa pi pilin pona
 space ship ("interstellar moving indoor space") = tomo tawa mun
 star ("night sky object") = mun
 star ("sun") = suno
 sun = suno
 temple ("house of religion") = tomo pi nasin sewi
-ticket = lipu esun
+ticket = lipu esun, lipu mani@
 
 1
 00:01:46,441 --> 00:01:48,084
@@ -5713,23 +5713,33 @@ jan Si li wile kama lon tomo pali ni.
 
 995
 01:54:31,379 --> 01:54:32,665
-make pk ready.
+o open e jan Nasa.
+==make pk ready.
 
 996
 01:54:41,601 --> 01:54:44,696
+o weka ala e ni: o lukin.
+wile sona pi wan sin li lon kama pi tenpo pimeja.
+==
 don't forget to watch,
 one more question at 6 pm.
 
 997
 01:54:44,776 --> 01:54:50,068
+jan pona mi li kama jan suli.
+==
 my friend has become star.
 
 998
 01:54:50,242 --> 01:54:53,242
+ona li awen jo ala e len lon kulupu.
+==
 he stays naked in public.
 
 999
 01:54:54,433 --> 01:54:56,528
+mi jan suli e ona.
+==
 i made him star.
 
 1000
