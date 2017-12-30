@@ -2,8 +2,8 @@
 |:-:|:-:|:-:|
 | <img src="musi/sitelen/len-ma/tp.png" height="72"> | <img src="musi/sitelen/len-ma/eo.png" height="72"> | <img src="musi/sitelen/len-ma/en.jpeg" height="72"> |
 
-# nasin toki
-*(Gramatiko — Grammar)*
+# nasin toki pi toki pona
+*(Tokipona Gramatiko — Toki Pona Grammar)*
 
 | nasin toki |
 |:-:|
@@ -46,7 +46,7 @@
 # nimi lili
 *(Partikuloj — Particles)*
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [nimi lili luka](#nimi-lili-luka) |
 | [nimi lili pi luka ala](#nimi-lili-pi-luka-ala) |
@@ -522,7 +522,7 @@
 # nimi suli
 *(Radikaj Vortoj — Content Words)*
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [nimi lawa](#nimi-lawa) |
 | [nimi wawa](#nimi-wawa) |
@@ -1450,7 +1450,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 # sitelen pi poka nimi
 *(Interpunkcio — Punctuation)*
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [sitelen musi pi poka nimi](#sitelen-musi-pi-poka-nimi) |
 | [sitelen nasa pi poka nimi](#sitelen-nasa-pi-poka-nimi) |
@@ -1554,7 +1554,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 # sitelen pona
 *(Hieroglifoj — Hieroglyphs)*
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [sitelen pona musi](#sitelen-pona-musi) |
 
@@ -1646,7 +1646,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 # ale pi nimi mute
 *(Vortaroj — Dictionaries)*
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [lipu mun](#lipu-mun) |
 | [ale lili pi nimi mute](#ale-lili-pi-nimi-mute) |

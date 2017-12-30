@@ -1,5 +1,5 @@
-# nasin toki
-*(Grammar)*
+# nasin toki pi toki pona
+*(Toki Pona Grammar)*
 
 | nasin toki |
 |:-:|
@@ -33,7 +33,7 @@ The section **"Strange Language"** treats the additional way of how speakers of 
 # nimi lili
 *(Particles)*
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [nimi lili luka](#nimi-lili-luka) |
 | [nimi lili pi luka ala](#nimi-lili-pi-luka-ala) |
@@ -403,7 +403,7 @@ An **interjection** can become a [modifier](#nimi-poka).
 # nimi suli
 *(Content Words)*
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [nimi lawa](#nimi-lawa) |
 | [nimi wawa](#nimi-wawa) |
@@ -1155,7 +1155,7 @@ If a [content word](#nimi-suli) becomes another word and doesn't recieve an addi
 # sitelen pi poka nimi
 *(Punctuation)*
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [sitelen musi pi poka nimi](#sitelen-musi-pi-poka-nimi) |
 | [sitelen nasa pi poka nimi](#sitelen-nasa-pi-poka-nimi) |
@@ -1232,7 +1232,7 @@ If a [noun](#nimi-lawa) implies another [noun](#nimi-lawa), the first letter can
 # sitelen pona
 *(Hieroglyphs)*
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [sitelen pona musi](#sitelen-pona-musi) |
 
@@ -1304,7 +1304,7 @@ If "ni" is missing, the [subordinate clause](#mute-nimi-poka) is not below.
 # ale pi nimi mute
 *(Dictionaries)*
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [lipu mun](#lipu-mun) |
 | [ale lili pi nimi mute](#ale-lili-pi-nimi-mute) |

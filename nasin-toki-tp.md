@@ -1,4 +1,4 @@
-# nasin toki
+# nasin toki pi toki pona
 
 | nasin toki |
 |:-:|
@@ -28,7 +28,7 @@ wan lipu pi **"toki nasa"** li toki e nasin toki sin pi jan nasa ni: ona li wile
 
 # nimi lili
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [nimi lili luka](#nimi-lili-luka) |
 | [nimi lili pi luka ala](#nimi-lili-pi-luka-ala) |
@@ -338,7 +338,7 @@ jan li ken toki e pilin kepeken **nimi lili kalama** pi wan taso sama ni: ona li
 
 # nimi suli
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [nimi lawa](#nimi-lawa) |
 | [nimi wawa](#nimi-wawa) |
@@ -961,7 +961,7 @@ nimi "tenpo lili/suli" li ken kama "lili/suli".
 
 # sitelen pi poka nimi
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [sitelen musi pi poka nimi](#sitelen-musi-pi-poka-nimi) |
 | [sitelen nasa pi poka nimi](#sitelen-nasa-pi-poka-nimi) |
@@ -1026,7 +1026,7 @@ tenpo ale la jan **Pije** li kepeken **sitelen nanpa** lon kama pi nimi "taso".
 
 # sitelen pona
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [sitelen pona musi](#sitelen-pona-musi) |
 
@@ -1096,7 +1096,7 @@ nimi "taso" li lon sewi.
 
 # ale pi nimi mute
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [lipu mun](#lipu-mun) |
 | [ale lili pi nimi mute](#ale-lili-pi-nimi-mute) |

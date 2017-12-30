@@ -1,6 +1,6 @@
 # toki pona
 
-* [nasin toki](nasin-toki.md) *(Gramatiko — Grammar)*
+* [nasin toki pi toki pona](nasin-toki.md) *(Tokipona Gramatiko — Toki Pona Grammar)*
 * [toki sin](toki-sin.md) *(Tokiponidoj — Toki Pona Spin-Offs)*
 
 | <img src="musi/sitelen/pona/o-pilin-pona-o-pu.png" height="50"> | 

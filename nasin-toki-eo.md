@@ -1,5 +1,5 @@
-# nasin toki
-*(Gramatiko)*
+# nasin toki pi toki pona
+*(Tokipona Gramatiko)*
 
 | nasin toki |
 |:-:|
@@ -33,7 +33,7 @@ La sekcio **"Stranga Lingvaĵo"** traktas la aldonan lingvouzon de tokiponidisto
 # nimi lili
 *(Partikuloj)*
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [nimi lili luka](#nimi-lili-luka) |
 | [nimi lili pi luka ala](#nimi-lili-pi-luka-ala) |
@@ -403,7 +403,7 @@ La [modifilo](#nimi-poka) "ala" povas fariĝi **interjekcio**.
 # nimi suli
 *(Radikaj Vortoj)*
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [nimi lawa](#nimi-lawa) |
 | [nimi wawa](#nimi-wawa) |
@@ -1156,7 +1156,7 @@ Se [radika vorto](#nimi-suli) fariĝas alia vorto kaj ne ricevas aldonan signifo
 # sitelen pi poka nimi
 *(Interpunkcio)*
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [sitelen musi pi poka nimi](#sitelen-musi-pi-poka-nimi) |
 | [sitelen nasa pi poka nimi](#sitelen-nasa-pi-poka-nimi) |
@@ -1233,7 +1233,7 @@ Se [substantivo](#nimi-lawa) implicas alian [substantivon](#nimi-lawa), la unua 
 # sitelen pona
 *(Hieroglifoj)*
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [sitelen pona musi](#sitelen-pona-musi) |
 
@@ -1305,7 +1305,7 @@ Se "ni" mankas, la [subfrazo](#mute-nimi-poka) ne estas sube.
 # ale pi nimi mute
 *(Vortaroj)*
 
-| [↑](#nasin-toki) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [lipu mun](#lipu-mun) |
 | [ale lili pi nimi mute](#ale-lili-pi-nimi-mute) |
