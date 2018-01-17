@@ -16,4 +16,10 @@ tawa lukin la telo suli li kama awen lon anpa.
 kepeken wawa lawa ale la ona li selo e lukin li awen e poki kon li kama... tawa... lon wan nasin sin. ni la linja ona li kama sinpin. ona li pini noka lon kon li tawa anpa.
 
 tenpo ala la waso o pini noka lon kon o tawa anpa. ni li ike tawa waso ale.
+
 taso waso Sonatan li pilin pona li lipu e luka li lukin tawa lon sike ni pi ike pali lon tenpo sin li kama tawa pi wawa ala. ona li waso nasa.
+
+tawa waso pi ale lili la ni li mute pona: ona li ken tawa lon kon, tan poka ma, tawa moku, tawa sin.
+tawa ona la sona pi tawa kon li suli ala; moku li suli a.
+taso tawa waso Sonatan la moku li suli ala; tawa kon li suli a. ona li olin mute e tawa kon; ona li olin lili e ale ante.
+

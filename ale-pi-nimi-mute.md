@@ -1,5 +1,6 @@
 | | |
 |:-|:-|
+| ale lili | *preskaŭo* |
 | ike | → mute ike |
 | ilo sona | *komputilo* |
 | ilo toki | *telefono* |
