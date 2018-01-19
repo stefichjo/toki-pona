@@ -23,3 +23,8 @@ tawa waso pi ale lili la ni li mute pona: ona li ken tawa lon kon, tan poka ma, 
 tawa ona la sona pi tawa kon li suli ala; moku li suli a.
 taso tawa waso Sonatan la moku li suli ala; tawa kon li suli a. ona li olin mute e tawa kon; ona li olin lili e ale ante.
 
+olin ona ni li ike tawa waso ante. tenpo lili la ona li kama sona e ni.
+sama ni la tawa mama tu ona la ni li ike: waso Sonatan li weka e tenpo suno ale mute tan ni: ona li lukin tawa lon kon anpa, kepeken luka lipu.
+
+wan la ona li kama sona e ni: ona li tawa lon kon pi anpa mute, lon sewi lili telo, la tawa kon li tenpo suli li ike pali ala.
+ni la pini pi tawa kon la waso Sonatan li wile ala lon sinpin e noka li kalama kiwen tawa telo, taso ...
