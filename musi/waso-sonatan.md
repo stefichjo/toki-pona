@@ -27,4 +27,5 @@ olin ona ni li ike tawa waso ante. tenpo lili la ona li kama sona e ni.
 sama ni la tawa mama tu ona la ni li ike: waso Sonatan li weka e tenpo suno ale mute tan ni: ona li lukin tawa lon kon anpa, kepeken luka lipu.
 
 wan la ona li kama sona e ni: ona li tawa lon kon pi anpa mute, lon sewi lili telo, la tawa kon li tenpo suli li ike pali ala.
-ni la pini pi tawa kon la waso Sonatan li wile ala lon sinpin e noka li kalama kiwen tawa telo, taso ...
+ni la pini pi tawa kon la waso Sonatan li wile ala lon sinpin e noka li kalama wawa e telo,
+taso ona li tawa lon kon, lon tenpo suli, kepeken luka lipu li kama noka e telo kepeken noka lipu lon poka sijelo.
