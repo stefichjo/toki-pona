@@ -34,3 +34,12 @@ taso ona li tawa lon kon, lon tenpo suli, kepeken luka lipu li kama noka e telo 
 "sina lukin sama waso ante ale, la ni li ike pali ni anu seme?
 waso ante pi suli sina taso ala li tawa lon kon anpa, la ni li lili ike tan seme?
 tan seme la sina moku ala sama waso ante?
+sina moku pi lili ike.
+tawa lukin la sijelo sina li jo e linja palisa taso!"
+
+"ni li lili tawa mi, mama meli o.
+mi wile kama sona e ni: mi ken seme lon kon.
+ni li ale.
+mi wile sona e ni taso."
+
+"waso Sonatan o" li toki pi mama mije ona
