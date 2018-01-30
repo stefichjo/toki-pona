@@ -42,4 +42,15 @@ mi wile kama sona e ni: mi ken seme lon kon.
 ni li ale.
 mi wile sona e ni taso."
 
-"waso Sonatan o" li toki pi mama mije ona
+"waso Sonatan o" li toki pona pi mama mije ona.
+"tenpo lili la tenpo lete li kama.
+ona la tomo tawa telo li mute ala, kala li lon ala anpa lili pi lawa telo li lon anpa suli taso.
+sina wile kama sona e ijo, la o kama sona alasa e moku.
+tawa kon li pona mu, taso waso li ken ala moku e wan pi tawa kon pi luka lipu.
+sina sona e ni anu seme?
+waso li tawa lon kon tan ni: ona li wile moku.
+o weka ala e ni."
+
+waso Sonatan li pona li toki "a" kepeken lawa.
+tenpo suno pi mute lili la ona li lukin sama waso ante ale kepeken wile wawa:
+ona li tawa wawa e luka li kalama waso lon kulupu, lon poka pi tomo tawa telo li tawa wawa tawa anpa li alasa e wan kala e wan pan kepeken uta. taso ni la ona li pilin pona ala.
