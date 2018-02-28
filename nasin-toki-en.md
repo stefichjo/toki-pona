@@ -1484,147 +1484,147 @@ If "ni" is missing, the [subordinate clause](#mute-nimi-poka) is not below.
 ## mama nimi
 *(Etymology)*
 
-| | | |
-|:-|:-|:-|
-| a | *ha* | |
-| ala | *ara* | |
-| ale | *ale* | |
-| ali | *ale* | → ale |
-| akesi | *hagedis* | "pi pilin lete" |
-| alasa | *a-la-ŝas* | |
-| anpa | *an-ba* | |
-| ante | *ander* | |
-| anu ≠ an | *an* | |
-| apeja | *?* | → pi nimi jaki |
-| awen | *hawen* | |
-| e | *he?* | |
-| en | *en* | |
-| esun | *edẑum* | |
-| ijo | *io* | |
-| ike ≠ ikeja | *ilkeä* | |
-| iki | *?* | → ona |
-| ilo | *ilo* | |
-| insa | *insajt* | |
-| jaki | *jaki* | |
-| jan ≠ jen | *jen* | |
-| jelo | *jelo* | "kule suno" |
-| jo | *jow* | |
-| kala | *kala* | "tawa lon telo" |
-| kalama | *galama* | |
-| kama | *kam-ap* | |
-| kan | *?* | → "lon poka pi", → "lon kulupu pi" |
-| kapa | *?* | → nena |
-| kapesi | *?* | → "pimeja", → "pimeja walo", → "loje laso" |
-| kasi | *kasvi* | |
-| ken | *ken* | |
-| kepeken | *xebrewken* | |
-| kijetesantakalu | *kierteishäntäkarhu* | → "soweli nasa", → "pi musi nasa" |
-| kili | *xili* | |
-| kin | *?* | → a |
-| kinkaju | *?* | → kijetesantakalu |
-| kipisi | ** | → "nasin e", → "tu e" |
-| kiwen | *kiven* | |
-| ko | *gow* | |
-| kon | *kong* | |
-| kule | *kuler* | |
-| kulupu | *grup* | |
-| kute | *ekute* | |
-| la | *la* | |
-| lape | *slape* | |
-| laso ≠ la | *glas* | "kule kasi", "kule sewi" |
-| lawa | *glava* | |
-| leko | *lego?* | → supa, → pini poka |
-| len | *leng* | |
-| lete | *frette* | |
-| li | *li* | |
-| lili | *lik-lik* | |
-| linja | *linja* | |
-| lipu | *lipu* | |
-| loje | *roje* | "kule uta" |
-| lon ≠ alon | *along* | |
-| luka | *ruka* | |
-| lukin | *luk-him* | |
-| lupa | *klupa* | |
-| ma | *maa* | |
-| mama | *mama* |
-| majuna | *maljuna* | → suli, → pi tenpo suli |
-| mani | *mani* | |
-| meli | *meri* | |
-| mi | *mi* | |
-| mije | *mies* | |
-| moku | *mogu* | "pana e ijo tawa uta" |
-| moli ≠ muli | *murir* | |
-| monsi | *mon-ĉi* | |
-| monsuta | *monsta* | → akesi, → pilin ike tan ken pi ike kama |
-| mu | *mu* | |
-| mun | *mun* | |
-| musi ≠ amusi | *amuzi* | |
-| mute | *multe* | |
-| namako | *?* | → sin |
-| nanpa | *namba* | |
-| nasa | *nasaw* | |
-| nasin | *naĉin* | |
-| nena | *nenä* | |
-| ni | *ni* | |
-| nimi | *nimi* | |
-| noka | *noga* | |
-| o | *ho* | |
-| oko | *?* | → lukin |
-| olin | *volim* | |
-| ona | *ona* | |
-| open | *open* | |
-| pakala | *bagar-ap* | |
-| pake | *?* | → selo |
-| pali | *fari* | "luka e ijo" |
-| palisa | *palica* | |
-| pan | *pan* | |
-| pana | *?* | |
-| pasila | *facila* | → pona pali |
-| pata | *?* | → jan sama |
-| pi | *bilong* | |
-| pilin | *fil-him* | |
-| pimeja | *pimeä* | "kule ala" |
-| pini | *fini* | |
-| pipi ≠ pipite | *bibite* | |
-| po | *for* | → tu tu |
-| poka | *boka* | |
-| poki | *bokis* | |
-| pona | *bona* | |
-| powe | *?* | → toki akesi, → toki e ala, → toki ike |
-| pu | *buk* | |
-| sama | *sama* | |
-| seli | *cxeli* | |
-| selo | *ŝelo* | |
-| seme | *ŝenme* | |
-| sewi | *sevit* | |
-| sijelo | *tijelo* | |
-| sike | *sirkel* | |
-| sin | *ŝin* | |
+| | | | |
+|:-|:-|:-|:-|
+| | a | *ha* | |
+| 不 | ala | *ara* | |
+| 毎 | ale | *ale* | |
+| | ali | *ale* | → ale |
+| | akesi | *hagedis* | "pi pilin lete" |
+| | alasa | *a-la-ŝas* | |
+| 下 | anpa | *an-ba* | |
+| | ante | *ander* | |
+| | anu ≠ an | *an* | |
+| | apeja | *?* | → pi nimi jaki |
+| 待 | awen | *hawen* | |
+| を | e | *he?* | |
+| と | en | *en* | |
+| | esun | *edẑum* | |
+| 事 | ijo | *io* | |
+| | ike ≠ ikeja | *ilkeä* | |
+| | iki | *?* | → ona |
+| | ilo | *ilo* | |
+| 中 | insa | *insajt* | |
+| | jaki | *jaki* | |
+| 人 | jan ≠ jen | *jen* | |
+| | jelo | *jelo* | "kule suno" |
+| 有 | jo | *jow* | |
+| 魚 | kala | *kala* | "tawa lon telo" |
+| 音 | kalama | *galama* | |
+| 来 | kama | *kam-ap* | |
+| | kan | *?* | → "lon poka pi", → "lon kulupu pi" |
+| | kapa | *?* | → nena |
+| | kapesi | *?* | → "pimeja", → "pimeja walo", → "loje laso" |
+| 木 | kasi | *kasvi* | |
+| | ken | *ken* | |
+| | kepeken | *xebrewken* | |
+| | kijetesantakalu | *kierteishäntäkarhu* | → "soweli nasa", → "pi musi nasa" |
+| | kili | *xili* | |
+| | kin | *?* | → a |
+| | kinkaju | *?* | → kijetesantakalu |
+| | kipisi | ** | → "nasin e", → "tu e" |
+| 石 | kiwen | *kiven* | |
+| | ko | *gow* | |
+| | kon | *kong* | |
+| 色 | kule | *kuler* | |
+| | kulupu | *grup* | |
+| 耳 | kute | *ekute* | |
+| は | la | *la* | |
+| 休 | lape | *slape* | |
+| 青 | laso ≠ la | *glas* | "kule kasi", "kule sewi" |
+| 頭 | lawa | *glava* | |
+| | leko | *lego?* | → supa, → pini poka |
+| | len | *leng* | |
+| | lete | *frette* | |
+| が | li | *li* | |
+| | lili | *lik-lik* | |
+| | linja | *linja* | |
+| | lipu | *lipu* | |
+| 赤 | loje | *roje* | "kule uta" |
+| に | lon ≠ alon | *along* | |
+| 手 | luka | *ruka* | |
+| 目 | lukin | *luk-him* | |
+| | lupa | *klupa* | |
+| 田 | ma | *maa* | |
+| | mama | *mama* |
+| | majuna | *maljuna* | → suli, → pi tenpo suli |
+| 金 | mani | *mani* | |
+| 女 | meli | *meri* | |
+| 私 | mi | *mi* | |
+| 男 | mije | *mies* | |
+| 食 | moku | *mogu* | "pana e ijo tawa uta" |
+| 死 | moli ≠ muli | *murir* | |
+| 後 | monsi | *mon-ĉi* | |
+| | monsuta | *monsta* | → akesi, → pilin ike tan ken pi ike kama |
+| | mu | *mu* | |
+| 月 | mun | *mun* | |
+| 遊 | musi ≠ amusi | *amuzi* | |
+| 多 | mute | *multe* | |
+| | namako | *?* | → sin |
+| | nanpa | *namba* | |
+| | nasa | *nasaw* | |
+| 道 | nasin | *naĉin* | |
+| 山 | nena | *nenä* | |
+| | ni | *ni* | |
+| 名 | nimi | *nimi* | |
+| 足 | noka | *noga* | |
+| | o | *ho* | |
+| | oko | *?* | → lukin |
+| | olin | *volim* | |
+| 彼 | ona | *ona* | |
+| 開 | open | *open* | |
+| | pakala | *bagar-ap* | |
+| | pake | *?* | → selo |
+| 働 | pali | *fari* | "luka e ijo" |
+| 指 | palisa | *palica* | |
+| 飯 | pan | *pan* | |
+| | pana | *?* | |
+| | pasila | *facila* | → pona pali |
+| | pata | *?* | → jan sama |
+| の | pi | *bilong* | |
+| 心 | pilin | *fil-him* | |
+| | pimeja | *pimeä* | "kule ala" |
+| 終 | pini | *fini* | |
+| | pipi ≠ pipite | *bibite* | |
+| | po | *for* | → tu tu |
+| 方 | poka | *boka* | |
+| 箱 | poki | *bokis* | |
+| | pona | *bona* | |
+| | powe | *?* | → toki akesi, → toki e ala, → toki ike |
+| | pu | *buk* | |
+| 同 | sama | *sama* | |
+| 火 | seli | *cxeli* | |
+| | selo | *ŝelo* | |
+| 何 | seme | *ŝenme* | |
+| 上 | sewi | *sevit* | |
+| 体 | sijelo | *tijelo* | |
+| 円 | sike | *sirkel* | |
+| 新 | sin | *ŝin* | |
 | sina | *sinä* | |
-| sinpin ≠ sanpan | *ŝjanbjan* | |
-| sitelen | *sxilderen* | |
-| sona | *codna* | |
-| soweli | *cxoveli* | "pi pilin seli" |
-| suli | *suuri* | |
-| suno | *suno* | |
-| supa | *surfac* | |
-| suwi | *swit* | |
-| tan | *?* | |
-| taso | *dats-ol* | |
-| tawa ≠ towa | *towards* | |
-| telo | *de-l-o* | |
-| tenpo | *tempo* | |
-| toki ≠ to | *tok* | "ijo sin" |
-| tomo | *domo* | |
-| tu | *du* | |
-| tuli | *tri* | → mute, tu en wan |
-| unpa | *?* | |
-| uta | *usta* | |
-| utala ≠ utalasi | *udarati* | |
-| walo | *valko* | "kule wawa" |
-| wan | *wan* | |
-| waso | *wazo* | |
-| wawa | *vahva* | |
-| weka ≠ we | *wex* | |
-| wile | *wile* | |
+| 前 | sinpin ≠ sanpan | *ŝjanbjan* | |
+| 字 | sitelen | *sxilderen* | |
+| 知 | sona | *codna* | |
+| 犬 | soweli | *cxoveli* | "pi pilin seli" |
+| 大 | suli | *suuri* | |
+| 日 | suno | *suno* | |
+| | supa | *surfac* | |
+| 甘 | suwi | *swit* | |
+| から | tan | *?* | |
+| | taso | *dats-ol* | |
+| まで | tawa ≠ towa | *towards* | |
+| 水 | telo | *de-l-o* | |
+| 時 | tenpo | *tempo* | |
+| 言 | toki ≠ to | *tok* | "ijo sin" |
+| 家 | tomo | *domo* | |
+| 二 | tu | *du* | |
+| | tuli | *tri* | → mute, tu en wan |
+| | unpa | *?* | |
+| | uta | *usta* | |
+| | utala ≠ utalasi | *udarati* | |
+| 白 | walo | *valko* | "kule wawa" |
+| 一 | wan | *wan* | |
+| 鳥 | waso | *wazo* | |
+| 力 | wawa | *vahva* | |
+| 遠 | weka ≠ we | *wex* | |
+| | wile | *wile* | |
 
