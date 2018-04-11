@@ -295,6 +295,16 @@ Antaŭ vortoj kaj malantaŭ la samaj vortoj negitaj, la **partikulo** "anu" mala
 | *Ĉu ŝi estas gepatro?* |
 
 
+#### nimi lili "anu" nasa
+*(Stranga Konjunkcio "aŭ")*
+
+Laŭ **Pije**, frazoj kun "anu seme" havas la konotacion de la angla "or what".  
+
+| ona li mama anu seme? |
+|:-|
+| *Ĉu ŝi estas gepatro aŭ kio?* |
+
+
 ### nimi lili "la"
 *(Kunteksta Frazero)*
 

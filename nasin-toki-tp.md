@@ -248,6 +248,14 @@ kama nimi la pini pi nimi sama lon poka pi nimi "ala" la **nimi lili** "anu" li 
 |:-|
 
 
+#### nimi lili "anu" nasa
+
+tawa jan **Pije** la mute nimi pi nimi "anu seme" li jo e kon poka pi nimi Inli "or what".   
+
+| ona li mama anu seme? |
+|:-|
+
+
 ### nimi lili "la"
 
 | [↑](#nimi-lili-luka) |

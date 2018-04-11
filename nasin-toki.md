@@ -381,6 +381,19 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Is she a parent?* |
 
 
+#### nimi lili "anu" nasa
+*(Stranga Konjunkcio "aŭ" — Strange Conjunction "or")*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> tawa jan **Pije** la mute nimi pi nimi "anu seme" li jo e kon poka pi nimi Inli "or what".   
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Laŭ **Pije**, frazoj kun "anu seme" havas la konotacion de la angla "or what".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> According to **Pije**, sentences with "anu seme" have to conotation of "or what".
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li mama anu seme? |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ĉu ŝi estas gepatro aŭ kio?* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Is she a parent or what?* |
+
+
 ### nimi lili "la"
 *(Kunteksta Frazero — Contextual Fragment)*
 

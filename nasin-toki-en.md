@@ -295,6 +295,16 @@ In front of words and after the same words negated, the **particle** "anu" disap
 | *Is she a parent?* |
 
 
+#### nimi lili "anu" nasa
+*(Strange Conjunction "or")*
+
+According to **Pije**, sentences with "anu seme" have to conotation of "or what".
+
+| ona li mama anu seme? |
+|:-|
+| *Is she a parent or what?* |
+
+
 ### nimi lili "la"
 *(Contextual Fragment)*
 
