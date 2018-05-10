@@ -856,8 +856,8 @@
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | kute | lawa | lukin | pilin | uta |
 |:-:|:-|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *aŭdi, organo por aŭdi, orelo* | *gvidi, organo por gvidi, kapo* | *vidi, organo por vidi, okulo* | *senti, organo por senti, koro* | *suĉi, organo por suĉi/inhali, buŝo* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to hear, organ for hearing, ear* | *to guide, organ for guiding, head* | *to see, organ for seeing, eye* | *to feel, organ for feeling, heart* | *to suck, organ for sucking/inhaling, mouth* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *aŭdi, orelo* | *kontroli, kapo* | *vidi, okulo* | *senti, koro* | *suĉi, buŝo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to hear, ear* | *to control, head* | *to see, eye* | *to feel, heart* | *to suck, mouth* |
 
 
 #### nimi lawa ilo musi
