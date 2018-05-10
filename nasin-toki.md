@@ -1169,7 +1169,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | wan ona li loje. wan ante li jelo. | mute nimi | nimi mute | ale pi nimi mute |
 |:-:|:-|:-|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Unu estas ruĝa. La alia estas flava.* | *aro da vortoj, frazo* | *multaj vortoj* | *vortaro* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *One is red. The other one is yellow.* | *set of words* | *many words* | *dictionary* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *One is red. The other one is yellow.* | *set of words, sentence* | *many words* | *dictionary* |
 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "en"](#nimi-lili-en) li ken lon [nimi poka nanpa](#nimi-poka-nanpa) tu.  
