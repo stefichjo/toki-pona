@@ -1481,70 +1481,59 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 ## sitelen musi pi poka nimi
 *(Eksperimenta Interpunkcio — Experimental Punctuation)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> insa pi [mute nimi](#mute-nimi) la **sitelen palisa** anu **sitelen nanpa** li ken kama.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Ene de [frazo](#mute-nimi), **dupunktoj** aŭ **komoj** povas aperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Inside a [sentence](#mute-nimi), **colons** or **commas** can appear.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **sitelen ,** li awen.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Komoj** restas.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Commas** remain.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tan ni, mi pona tawa jan, la jan li pona tawa mi. → tan ni: mi pona tawa jan :la jan li pona tawa mi. |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li lili, li lete. |
 |:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ĉar mi estas bona por homoj, homoj estas bonaj por mi.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Because I am good to people, people are good to me.* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ĝi estas malgranda kaj malvarma.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *It is small and cold.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi [nimi wawa poka](#nimi-wawa-poka) la **sitelen pi ijo sin** li ken kama.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Post [helpa verbo](#nimi-wawa-poka) povas aperi **plus-signo**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> After an [auxiliary verb](#nimi-wawa-poka) a **plus sign** can appear.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "pi"](#nimi-lili-pi) li kama weka, la ona li kama **sitelen -**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam la [partikulo "pi"](#nimi-lili-pi) malaperas, ĝi fariĝas **ligostreko**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When the [particle "pi"](#nimi-lili-pi) disappears, it becomes an **hiphen**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi wile+lape. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi bezonas dormi.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I need to sleep.* |
-
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "pi"](#nimi-lili-pi) weka li ken jo e **sitelen pi ijo weka**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Modifilo (t.e. la vortoj malantaŭ la [partikulo "pi"](#nimi-lili-pi)) povas havi **minus-signon**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A modifier (i.e. the words after the [particle "pi"](#nimi-lili-pi)) can have a **minus sign**.
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tomo-tawa-sina |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tomo pi tawa, pi sina → tomo-tawa-sina |
 |:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *via aŭto* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *your car* |
 
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi ante li kama weka, la ona li kama **sitelen '**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam alia vorto malaperas, ĝi fariĝas **apostrofo**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a different word disappears, it becomes an **apostrophe**.
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi mute nimi la [nimi poka luka](#nimi-poka-luka) li ken jo e **sitelen pi ijo weka**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Fine de frazo, [prepozicio](#nimi-poka-luka) povas havi **minus-signon**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the end of a sentence, a [preposition](#nimi-poka-luka) can have a **minus sign**.
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi pana e lipu - tawa sina. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi donas la libron al vi.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am giving the book to you.* |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina li suli. → sina ' suli. | ijo-ale li pona. → '-ale li pona. |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Vi estas alta.* | *Ĉio estas bona.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You're tall.* | *Everything is good.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili toki](#nimi-lili-toki) li ken jo e **sitelen palisa**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) en [nimi wawa poka](#nimi-wawa-poka) li jo e **sitelen +**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Prepozicio](#nimi-poka-luka) kaj [helpa verbo](#nimi-wawa-poka) havas **plus-signon**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Prepositions](#nimi-poka-luka) and [auxiliary verbs](#nimi-wawa-poka) have a **plus sign**.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li pana e lipu tawa+sina. | ona li wile e ni: ona li lape. → ona li wile+lape. |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi donas la libron al vi.* | *Ŝi bezonas dormi.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She gives the book to you.* | *She needs to sleep.* |
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili toki](#nimi-lili-toki) li ken jo e **sitelen :**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Citaĵo](#nimi-lili-toki) povas havi **dupunkton**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Quotations](#nimi-lili-toki) can have a **colon**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan:Sonja | sina nanpa:wan | toki:nanpa:wan |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan:Sonja | sina ' nanpa:wan | toki:nanpa:wan |
 |:-:|:-|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Sonja* | *Vi estas numero unu.* | *la unua lingvo* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Sonja* | *You are number one.* | *the first language* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lawa li jo e kon pi nimi lawa ante, la sitelen nanpa wan li ken kama jo e linja anpa li ken kama suli. ni la sitelen ale pi [nimi lili toki](#nimi-lili-toki) nimi li kama suli.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [substantivo](#nimi-lawa) implicas alian [substantivon](#nimi-lawa), la unua litero povas ricevi substrekon aŭ povas fariĝi majuskla. Tiam ĉiuj literoj de nomo fariĝas majusklaj.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [noun](#nimi-lawa) implies another [noun](#nimi-lawa), the first letter can recieve an underline or can become uppercase. In this case every letter of a name becomes uppercase.
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | Suno li suno. | jan:SONJA |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *La suno estas hela.* | *Sonja* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The sun is bright.* | *Sonja* |
-
-
 ## sitelen nasa pi poka nimi
 *(Stranga Interpunkcio — Strange Punctuation)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li weka e **sitelen nanpa** lon kama pi **nimi lili** "[la](#nimi-lili-la)".  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li weka e **sitelen ,** lon kama pi **nimi lili** "[la](#nimi-lili-la)".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** ellasas la komon antaŭ la **partikulo** "[la](#nimi-lili-la)".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** leaves out the **comma** before the **particle** "[la](#nimi-lili-la)".
 
@@ -1554,7 +1543,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *If I'm good to people, people are good to me.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ale la jan **Pije** li kepeken **sitelen nanpa** lon kama pi nimi "taso".  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ale la jan **Pije** li kepeken **sitelen ,** lon kama pi nimi "taso".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** neniam uzas **komon** antaŭ "taso".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** never uses a **comma** before "taso".
 
@@ -1562,6 +1551,26 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi volas vidi mian domon, sed mi ne havas tempon.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I want to see my house, but I don't have time.* |
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) li kama weka, la [nimi poka](#nimi-poka) ona li jo e **sitelen nanpa wan suli**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam [substantivo](#nimi-lawa) malaperas, ĝia [modifilo](#nimi-poka) havas **majusklon**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a [noun](#nimi-lawa) disappears, its [modifier](#nimi-poka) has an **upper-case letter**.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ijo ale li pona. → Ale li pona. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ĉio estas bona.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Everything is good.* |
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi mute nimi la [nimi poka luka](#nimi-poka-luka) li ken jo e **sitelen ,**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Fine de frazo, [prepozicio](#nimi-poka-luka) povas havi **komon**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the end of a sentence, a [preposition](#nimi-poka-luka) can have a **comma**.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi pana e lipu, tawa sina. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi donas la libron al vi.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am giving the book to you.* |
 
 
 # sitelen pona
