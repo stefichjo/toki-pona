@@ -1253,7 +1253,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa](#nimi-wawa) en **nimi poka luka** li sama, la **nimi poka luka** li kama weka. [nimi lili kalama](#nimi-lili-kalama) li ken lon [nimi wawa](#nimi-wawa) lon [nimi poka luka](#nimi-poka-luka).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se [verbo](#nimi-wawa) kaj **prepozicio** estas la samaj, la **prepozicio** malaperas. Povas esti [interjekcio](#nimi-lili-kalama) inter la [verbo](#nimi-wawa) kaj la [prepozicio](#nimi-poka-luka).  
-<img src="musi/sitelen/len-ma/en.png" height="18"> If a [verb](#nimi-wawa) and a **preposition** estas the same, the **preposition** disappears. There can be an [interjection](#nimi-lili-kalama) between the [verb](#nimi-wawa) and the [preposition](#nimi-poka-luka).
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [verb](#nimi-wawa) and a **preposition** estas the same, the **preposition** disappears. There can be an [interjection](#nimi-lili-kalama) between the [verb](#nimi-wawa) and the [preposition](#nimi-poka-luka).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi tawa tawa tomo seli. → mi tawa tomo seli. | mi tawa ala tawa tomo seli. → mi tawa ala tomo seli. |
 |:-:|:-|:-|
@@ -1759,6 +1759,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/lipu.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | **lipu**, nena, sike |
 | <img src="musi/sitelen/pona/loje.png" height="12">     | *[PONA](#nimi-pona)*                | jelo, laso, **loje** |
 | <img src="musi/sitelen/pona/lon.png" height="12">      | *[POKA LUKA](#nimi-poka-luka)*      | **lon**, tan, tawa |
+|                                                        | *[PONA](#nimi-pona)*                | ala, **lon** |
 | <img src="musi/sitelen/pona/luka.png" height="12">     | *[LAWA ILO](#nimi-lawa-ilo)*        | kute, lawa, **luka**, lukin, noka, palisa, pilin, selo, uta |
 |                                                        | *[POKA NANPA](#nimi-poka-nanpa)*    | ala, ale, esun, **luka**, mute, tu, wan |
 | <img src="musi/sitelen/pona/lukin.png" height="12">    | *[LAWA ILO](#nimi-lawa-ilo)*        | kute, lawa, luka, **lukin**, noka, palisa, pilin, selo, uta |
