@@ -894,8 +894,8 @@
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | moku | sitelen | sona | toki |
 |:-:|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *gluti, io por gluti, buŝpleno* | *desegni, io por desegni, bildo* | *koni, io por koni, scio* | *diri, io por diri, diro/lingvo* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to swallow, something to swallow, mouthful* | *to do, something to do, action* | *to draw, something to draw, picture* | *to know, something to know, knowledge* | *to say/communicate, something to say/communicate, speech/language/message* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *gluti, buŝpleno* | *desegni, bildo* | *koni, scio* | *diri, lingvo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to swallow, mouthful* | *to do, action* | *to draw, picture* | *to know, knowledge* | *to say, language* |
 
 
 #### nimi lawa pali musi
