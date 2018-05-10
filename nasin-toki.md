@@ -1112,11 +1112,11 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Subfrazo** povas esti kiel **korelativo**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A **subordinate clause** can be like a **correlative**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi wile sona e ni: sina tawa seme? | mi wile sona e ni: sina tawa ona ni. | tomo ni: jan ala li uta e kon wawa |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi volas scii tion: kien vi iras?* | *Mi volas scii, kien vi iras.* | *kupeo por ne-fumantoj* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I want to know this: where do you go?* | *I want to know where you are going.* | *non smoking compartment* |
+---
 
+
+mi wile lape tan ni: tenpo li suli. 
+mi wile lape tan suli tenpo.
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi mute poka** li jo e nimi pi nimi mute lawa, la ona li ken kama lili.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Relativa subfrazo** (t.e. **subfrazo**, kiu ripetas elementon de la ĉefa frazo) povas mallongiĝi.  
@@ -1126,6 +1126,13 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi vidas la monton, kiu estas malgranda.* | *La monto, kiun mi vidas, estas granda.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm seeing the mountain, that is big.* | *The mountain, that I'm seeing, is big.* |
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi wile sona e ni: sina tawa ona ni. | tomo ni: jan ala li uta e kon wawa |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi volas scii, kien vi iras.* | *kupeo por ne-fumantoj* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I want to know where you are going.* | *non smoking compartment* |
+
+
 
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | wan |
