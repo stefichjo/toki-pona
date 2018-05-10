@@ -1108,10 +1108,24 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 #### nimi poka palisa musi
 *(Eksperimentaj Korelativoj — Experimental Correlatives)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi wile sona e ni: sina tawa seme? | mi wile sona e ni: sina tawa seme. |
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi mute poka** li ken sama **nimi poka palisa**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Subfrazo** povas esti kiel **korelativo**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A **subordinate clause** can be like a **correlative**.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi wile sona e ni: sina tawa seme? | mi wile sona e ni: sina tawa ona ni. | tomo ni: jan ala li uta e kon wawa |
+|:-:|:-|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi volas scii tion: kien vi iras?* | *Mi volas scii, kien vi iras.* | *kupeo por ne-fumantoj* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I want to know this: where do you go?* | *I want to know where you are going.* | *non smoking compartment* |
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi mute poka** li jo e nimi pi nimi mute lawa, la ona li ken kama lili.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Relativa subfrazo** (t.e. **subfrazo**, kiu ripetas elementon de la ĉefa frazo) povas mallongiĝi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A **relative clause** (i.e. a **subordinate clause** that repeats an element of the main clause) can be shortened.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi lukin e nena ni: (ona ni li) suli mute. | nena ni: mi lukin (e ona ni), li suli. |
 |:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi volas scii tion: kien vi iras?* | *Mi volas scii, kien vi iras.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I want to know this: where do you go?* | *I want to know where you are going.* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi vidas la monton, kiu estas malgranda.* | *La monto, kiun mi vidas, estas granda.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm seeing the mountain, that is big.* | *The mountain, that I'm seeing, is big.* |
 
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | wan |
@@ -1130,16 +1144,6 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 
 #### nimi poka palisa nasa
 *(Strangaj Korelativoj — Strange Correlatives)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi [mute nimi poka](#mute-nimi-poka) la, nimi "ni" li ken kama "pi ijo ni".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Antaŭ [subfrazo](#mute-nimi-poka), "ni" povas fariĝi "pi ijo ni".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Before a [subordinate clause](#mute-nimi-poka), "ni" can become "pi ijo ni".
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan ni: ona li tawa tomo → jan pi ijo ni: ona li tawa tomo |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *iu, kiu iras hejmen* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *somebody, who is coming home* |
-
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi [mute nimi poka](#mute-nimi-poka) li ken kama weka. tan ni la [nimi wawa poka](#nimi-wawa-poka) en [nimi poka luka](#nimi-poka-luka) li ken kama [nimi lawa](#nimi-lawa).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La komenco de [subfrazo](#mute-nimi-poka) povas malaperi. Tial, [helpaj verboj](#nimi-wawa-poka) kaj [prepozicioj](#nimi-poka-luka) povas fariĝi [substantivoj](#nimi-lawa).  
