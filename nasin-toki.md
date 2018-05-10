@@ -1275,6 +1275,15 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 #### nimi poka luka musi
 *(Eksperimentaj Prepozicioj — Experimental Prepositions)*
 
+---
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi tawa ona tawa tomo seli. → mi tawa tomo seli e ona. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi portas ĝin al la kuirejo.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm moving it to the kitchen.* |
+
+---
+
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ijo tawa lukin → ijo lukin | 
 |:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *io por vidado, io videnda* |
@@ -1309,10 +1318,10 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La [prepozicio](#nimi-poka-luka) "lon" povas havi la signifon de la [prepozicio](#nimi-poka-luka) "ante".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [preposition](#nimi-poka-luka) "lon" can have the meaning of the [preposition](#nimi-poka-luka) "ante".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li suli ante sina. | ona li suli sin ante sina. → ona li suli sin lon sina. | ona li suli ale. |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li suli tawa poka sina. | ona li suli ante sina. → ona li suli lon sina. | ona li suli ale. |
 |:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi estas alta, malkiel vi.* | *Ŝi estas pli alta ol vi.* | *Ŝi estas la plej alta.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She is tall, unlike you.* | *She is taller than you.* | *She is the tallest.* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi estas alta laŭ vidpunkto apud vi.* | *Ŝi estas alta, malkiel vi.* | *Ŝi estas la plej alta.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She is tall seen from beside you.* | *She is tall, in contrast to you.* | *She is the tallest.* |
 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "taso ni la" li ken kama "taso".  
