@@ -129,6 +129,16 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am seeing much and knowing little.* |
 
 
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi [nimi lili "li"](#nimi-lili-li) la nimi wan taso li lon, la nimi "li" li kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam la subjekto (t.e. la vortoj antaŭ la [partikulo "li"](#nimi-lili-li)) estas ununura vorto, "li" malaperas.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When the subject (t.e. the words before the [particle "li"](#nimi-lili-li)) is one word alone, "li" disappears.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li mama. → ona mama. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi estas gepatro.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She is a parent.* |
+
+
 ### nimi lili "e"
 *(Rekta Objekto — Direct Object)*
 
