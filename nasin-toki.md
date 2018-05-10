@@ -51,6 +51,17 @@
 | [nimi lili luka](#nimi-lili-luka) |
 | [nimi lili pi luka ala](#nimi-lili-pi-luka-ala) |
 
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan li ken toki sin kepeken wan taso pi mute nimi, taso kama ona la **nimi lili** li ken ala lon.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Oni povas respondi per nura frazero, sed komence de ĝi ne povas esti **partikulo**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> One can reply by a phrase only, but it can't start with a **particle**.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li mama. → mama. | o jo e moku pona! → moku pona! |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi estas gepatro.* → *She estas., Jes.* | *Havu bonan manĝon!* → *Bonan apetiton!* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She is a parent.* → *She is., Yes.* | *Have a good meal!* → *Bon appétit!* |
+
+
 ## nimi lili luka
 *(Transitivaj Partikuloj — Transitive Particles)*
 
@@ -90,16 +101,6 @@
 |:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *La patrujo estas malgranda kaj malvarma.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The motherland is small and cold.* |
-
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan li ken toki sin kepeken nimi lon pini taso pi **nimi lili** "li".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Oni povas respondi per nura predikato (t.e. la vortoj malantaŭ la **partikulo** "li").  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> One can reply by just a predicate (i.e. the words after the **particle** "li").
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ni li pona. → pona. | ona li mama. → mama. |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Tio estas bona.* → *Bone., Dankon.* | *Ŝi estas gepatro.* → *She estas., Jes.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *This is good.* → *Good., Thanks.* | *She is a parent.* → *She is., Yes.* |
 
 
 #### nimi lili "li" musi
