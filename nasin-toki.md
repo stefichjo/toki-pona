@@ -341,14 +341,14 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *foreign bar* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon kama pi [nimi lili "li"](#nimi-lili-li) li ken jo e **nimi lili** "en" nasa.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Subjekto (t.e. la vortoj antaŭ la [partikulo "li"](#nimi-lili-li)) povas havi strangan **konjunkcion** "en".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The Subject (i.e. the words before the [particle "li"](#nimi-lili-li) can have a strange **particle** "en".
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi ale lon kama pi [nimi lili "li"](#nimi-lili-li) li jo e **nimi lili** "en" nasa.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Ĉiu subjekto (t.e. la vortoj antaŭ la [partikulo "li"](#nimi-lili-li)) havas strangan **konjunkcion** "en".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Every subject (i.e. the words before the [particle "li"](#nimi-lili-li) has a strange **particle** "en".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | en sina en mi li jan lili. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Kaj vi kaj mi estas infanoj.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Both you and I are children.* |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | en sina en mi li jan lili. | en ona li jan lili. |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Kaj vi kaj mi estas infanoj.* | *Ŝi estas infano.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Both you and I are children.* | *She is a child.* |
 
 
 ### nimi lili "anu"
