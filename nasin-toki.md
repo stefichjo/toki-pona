@@ -1108,37 +1108,35 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 #### nimi poka palisa musi
 *(Eksperimentaj Korelativoj — Experimental Correlatives)*
 
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | wan |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *unu/certa, io certa* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *a certain, something certain* |
+
+
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi mute poka** li ken sama **nimi poka palisa**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Subfrazo** povas esti kiel **korelativo**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A **subordinate clause** can be like a **correlative**.
 
----
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tomo ni: jan ala li uta e kon wawa |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *tiu kupeo por ne-fumantoj* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *this non smoking compartment* |
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | suno pi mute ni: mi ken ala lape |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *tiom da lumo, ke mi ne povas dormi* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *so much light, that I can't sleep* |
 
 
-mi wile lape tan ni: tenpo li suli. 
-mi wile lape tan suli tenpo.
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi mute poka** li jo e nimi pi nimi mute lawa, la ona li ken kama lili.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Relativa subfrazo** (t.e. **subfrazo**, kiu ripetas elementon de la ĉefa frazo) povas mallongiĝi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A **relative clause** (i.e. a **subordinate clause** that repeats an element of the main clause) can be shortened.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi mute poka** li jo e nimi "ona ni", la nimi "ona ni li" en nimi "e ona ni" li ken kama lili.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> En **relativa subfrazo** (t.e. **subfrazo** kun "ona ni"), "ona ni li" kaj "e ona ni" povas malaperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> In a **relative clause** (i.e. a **subordinate clause** with "ona ni"), "ona ni li" and "e ona ni" can disappear.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi lukin e nena ni: (ona ni li) suli mute. | nena ni: mi lukin (e ona ni), li suli. |
 |:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi vidas la monton, kiu estas malgranda.* | *La monto, kiun mi vidas, estas granda.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm seeing the mountain, that is big.* | *The mountain, that I'm seeing, is big.* |
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi wile sona e ni: sina tawa ona ni. | tomo ni: jan ala li uta e kon wawa |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi volas scii, kien vi iras.* | *kupeo por ne-fumantoj* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I want to know where you are going.* | *non smoking compartment* |
-
-
-
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | wan |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *unu/certa, io certa* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *a certain, something certain* |
 
 
 #### nimi poka palisa namako
