@@ -1538,6 +1538,11 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Vi estas alta.* | *Ĉio estas bona.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You're tall.* | *Everything is good.* |
 
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li moku e ijo. → ona li moku ''. | ona li ijo-moku. → ona li '-moku. |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ĝi manĝas.* | *Ĝi estas manĝo.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *It is eating.* | *It is food.* |
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) en [nimi wawa poka](#nimi-wawa-poka) li jo e **sitelen pi kama sin**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Prepozicio](#nimi-poka-luka) kaj [helpa verbo](#nimi-wawa-poka) havas **plus-signon**.  
