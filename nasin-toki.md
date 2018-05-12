@@ -93,7 +93,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am a man.* | *You are new.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [mute nimi](#mute-nimi) li ken jo e **nimi lili** "li" mute. **sitelen ,** ona li ken kama weka.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [mute nimi](#mute-nimi) li ken jo e **nimi lili** "li" mute. **sitelen** ona **pi ijo tu** li ken kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Frazo](#mute-nimi) povas havi plurajn predikatojn (t.e. la vortoj malantaŭ la **partikulo** "li"). Iliaj **komoj** povas malaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [sentence](#mute-nimi) can have multiple predicates (i.e. the words after the **particle** "li"). Their **commas** can disappear.
 
@@ -156,9 +156,9 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The man knows things.* → *The man knows.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi **nimi lili** "li" li ken jo e **nimi lili** "e" mute. ***sitelen ,*** ona li ken kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Predikato (t.e. la vortoj malantaŭ la **partikulo** "li") povas havi plurajn rektajn objektojn (t.e. la vortoij malantaŭ la **partikulo** "e"). Iliaj ***komoj*** povas malaperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A predicate (i.e. the words after the **particle** "li") can have multiple direct objects (i.e. the words after the **particle** "e"). Their ***commas*** can disappear.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi **nimi lili** "li" li ken jo e **nimi lili** "e" mute. **sitelen** ona **pi ijo tu** li ken kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Predikato (t.e. la vortoj malantaŭ la **partikulo** "li") povas havi plurajn rektajn objektojn (t.e. la vortoij malantaŭ la **partikulo** "e"). Iliaj **komoj** povas malaperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A predicate (i.e. the words after the **particle** "li") can have multiple direct objects (i.e. the words after the **particle** "e"). Their **commas** can disappear.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
 |:-:|:-|
@@ -342,7 +342,7 @@
 #### nimi lili "en" nasa
 *(Stranga Konjunkcio "kaj" — Strange Conjunction "and")*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **sitelen ,** li ken kama **nimi lili** "en" nasa.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **sitelen pi ijo tu** li ken kama **nimi lili** "en" nasa.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Komo** povas fariĝi stranga **konjunkcio** "en".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A **comma** can become a strange **conjunction** "en".
 
@@ -1244,7 +1244,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *three, many* → *three (or more)* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka nanpa](#nimi-poka-nanpa) tu la **sitelen ,** li ken kama weka.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka nanpa](#nimi-poka-nanpa) tu la **sitelen pi ijo tu** li ken kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Ĉe du [numeraloj](#nimi-poka-nanpa), la **komo** povas malaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> With two [numerals](#nimi-poka-nanpa), the **comma** can disappear.
 
@@ -1281,7 +1281,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm going to the kitchen.* | *I'm not going to the kitchen.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **nimi poka luka** lon [nimi wawa](#nimi-wawa) taso. ni la jan li ken weka e **sitelen ,** lon **nimi poka luka** tu. sin la jan **Sonja** li kepeken **nimi poka** (anu **nimi lili** "[e](#nimi-lili-e)") li kepeken ala **nimi poka luka**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **nimi poka luka** lon [nimi wawa](#nimi-wawa) taso. ni la jan li ken weka e **sitelen pi ijo tu** lon **nimi poka luka** tu. sin la jan **Sonja** li kepeken **nimi poka** (anu **nimi lili** "[e](#nimi-lili-e)") li kepeken ala **nimi poka luka**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** uzas **prepoziciojn** nur ĉe [verboj](#nimi-wawa). Tiam oni povas ellasi la **komon** ĉe du **prepozicioj**. Aldone, **Sonja** uzas **modifilon** (aŭ la **partikulon** "[pi](#nimi-lili-pi)") anstataŭ **prepozicio**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** uses **prepositions** only with [verbs](#nimi-wawa). In this case, one can remove the **comma** between two **prepositions**. In addition, **Sonja** uses **modifiers** (or the **particle** "[pi](#nimi-lili-pi)") instead of **prepositions**.
 
@@ -1497,7 +1497,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | [sitelen musi pi poka nimi](#sitelen-musi-pi-poka-nimi) |
 | [sitelen nasa pi poka nimi](#sitelen-nasa-pi-poka-nimi) |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **mute nimi poka** lon pini taso pi **mute nimi**. ni la **sitelen ,** li kama **sitelen :**. **mute nimi pi wile sona** li ken **mute nimi poka**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **mute nimi poka** lon pini taso pi **mute nimi**. ni la **sitelen pi ijo tu** li kama **sitelen pi ijo kama**. **mute nimi pi wile sona** li ken **mute nimi poka**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** uzas **subfrazojn** nur fine de **frazo**. Tiam, **komo** fariĝas **dupunkto**. **Demanda frazo** povas esti **subfrazo**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** uses **subordinate clauses** only at the end of a **sentence**. In this case, the **comma** becomes a **colon**. A question can be a subordinate clause.
 
@@ -1510,7 +1510,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 ## sitelen musi pi poka nimi
 *(Eksperimenta Interpunkcio — Experimental Punctuation)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **sitelen ,** li awen.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **sitelen pi ijo tu** li awen.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Komoj** restas.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Commas** remain.
 
@@ -1520,7 +1520,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *It is small and cold.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "pi"](#nimi-lili-pi) li kama weka, la ona li kama **sitelen -**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "pi"](#nimi-lili-pi) li kama weka, la ona li kama **sitelen pi kama weka**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam la [partikulo "pi"](#nimi-lili-pi) malaperas, ĝi fariĝas **ligostreko**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> When the [particle "pi"](#nimi-lili-pi) disappears, it becomes an **hiphen**.
 
@@ -1529,7 +1529,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *via aŭto* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *your car* |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi ante li kama weka, la ona li kama **sitelen '**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi ante li kama weka, la ona li kama **sitelen pi ijo weka**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam alia vorto malaperas, ĝi fariĝas **apostrofo**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a different word disappears, it becomes an **apostrophe**.
 
@@ -1539,17 +1539,17 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You're tall.* | *Everything is good.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) en [nimi wawa poka](#nimi-wawa-poka) li jo e **sitelen +**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) en [nimi wawa poka](#nimi-wawa-poka) li jo e **sitelen pi kama sin**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Prepozicio](#nimi-poka-luka) kaj [helpa verbo](#nimi-wawa-poka) havas **plus-signon**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Prepositions](#nimi-poka-luka) and [auxiliary verbs](#nimi-wawa-poka) have a **plus sign**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li pana e lipu tawa+sina. | ona li wile e ni: ona li lape. → ona li wile+lape. |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li pana e lipu tawa+sina. | ona li wile+lape. |
 |:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi donas la libron al vi.* | *Ŝi bezonas dormi.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She gives the book to you.* | *She needs to sleep.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili toki](#nimi-lili-toki) li ken jo e **sitelen :**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili toki](#nimi-lili-toki) li ken jo e **sitelen pi ijo kama**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Citaĵo](#nimi-lili-toki) povas havi **dupunkton**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Quotations](#nimi-lili-toki) can have a **colon**.
 
@@ -1562,7 +1562,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 ## sitelen nasa pi poka nimi
 *(Stranga Interpunkcio — Strange Punctuation)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li weka e **sitelen ,** lon kama pi **nimi lili** "[la](#nimi-lili-la)".  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li weka e **sitelen pi ijo tu** lon kama pi **nimi lili** "[la](#nimi-lili-la)".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** ellasas la komon antaŭ la **partikulo** "[la](#nimi-lili-la)".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** leaves out the **comma** before the **particle** "[la](#nimi-lili-la)".
 
@@ -1572,9 +1572,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *If I'm good to people, people are good to me.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ale la jan **Pije** li kepeken **sitelen ,** lon kama pi nimi "taso".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** neniam uzas **komon** antaŭ "taso".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** never uses a **comma** before "taso".
+<img src="musi/sitelen/len-ma/tp.png" height="18"> tenpo ale la jan **Pije** li kepeken **sitelen pi ijo tu** lon kama pi nimi "taso". taso ona li kepeken **sitelen pi ijo wan**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** neniam uzas **komon** antaŭ "taso". Anstataŭe, li uzas **punkton**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** never uses a **comma** before "taso". Instead, he uses a **period**.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi wile lukin e tomo mi, taso mi jo ala e tenpo. → mi wile lukin e tomo mi. taso mi jo ala e tenpo. |
 |:-:|:-|
@@ -1582,7 +1582,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I want to see my house, but I don't have time.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) li kama weka, la [nimi poka](#nimi-poka) ona li jo e **sitelen nanpa wan suli**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) li kama weka, la **sitelen nanpa wan** pi [nimi poka](#nimi-poka) ona li **suli**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam [substantivo](#nimi-lawa) malaperas, ĝia [modifilo](#nimi-poka) havas **majusklon**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a [noun](#nimi-lawa) disappears, its [modifier](#nimi-poka) has an **upper-case letter**.
 
@@ -1592,7 +1592,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Everything is good.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi mute nimi la [nimi poka luka](#nimi-poka-luka) li ken jo e **sitelen ,**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi mute nimi la [nimi poka luka](#nimi-poka-luka) li ken jo e **sitelen pi ijo tu**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Fine de frazo, [prepozicio](#nimi-poka-luka) povas havi **komon**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the end of a sentence, a [preposition](#nimi-poka-luka) can have a **comma**.
 
