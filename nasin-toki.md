@@ -759,10 +759,10 @@
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam [verbo](#nimi-wawa) fariĝas **substantivo**, ĝi povas signifi la lokon de ĝia plenumiĝo.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a [verb](#nimi-wawa) becomes a **noun**, it can mean the place of its accomplishment.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi tawa ijo ni: jan li esun. → mi tawa esun. |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi tawa ijo: jan li esun. → mi tawa esun. |
 |:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi iras al (la) interŝanĝado. Mi iras al la merkato.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm going to (the) exchange. I'm going to the market.* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi iras al interŝanĝado. Mi iras al la merkato.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm going to an exchange. I'm going to the market.* |
 
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi lon lape. | sina tan lape. | ona li tawa lape. |
@@ -898,6 +898,9 @@
 | [↑](#nimi-lawa) |
 |:-:|
 | [nimi lawa pali musi](#nimi-lawa-pali-musi) |
+
+nimi lawa pali li kama nimi wawa luka, la ona li jo e kon pi nimi "pali e 'kon pi nimi lawa pali'".
+
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** li **nimi lawa pali**, la ona li jo e kon pi nimi "e ijo" lon tenpo ni: ona li kama [nimi wawa luka](#nimi-wawa-luka).  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **aga substantivo**, ĝi estas implicata de "e ijo", kiam ĝi fariĝas [transitiva verbo](#nimi-wawa-luka).  
@@ -1564,6 +1567,16 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Sonja* | *You are number one.* | *the first language* |
 
 
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) li kama weka, la **sitelen nanpa wan** pi [nimi poka](#nimi-poka) ona li ken **suli**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam [substantivo](#nimi-lawa) malaperas, ĝia [modifilo](#nimi-poka) povas havi **majusklon**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a [noun](#nimi-lawa) disappears, its [modifier](#nimi-poka) can have an **upper-case letter**.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ijo ale li pona. → '-ale li pona. → Ale li pona. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ĉio estas bona.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Everything is good.* |
+
+
 ## sitelen nasa pi poka nimi
 *(Stranga Interpunkcio — Strange Punctuation)*
 
@@ -1585,16 +1598,6 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi volas vidi mian domon, sed mi ne havas tempon.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I want to see my house, but I don't have time.* |
-
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) li kama weka, la **sitelen nanpa wan** pi [nimi poka](#nimi-poka) ona li **suli**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam [substantivo](#nimi-lawa) malaperas, ĝia [modifilo](#nimi-poka) havas **majusklon**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a [noun](#nimi-lawa) disappears, its [modifier](#nimi-poka) has an **upper-case letter**.
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ijo ale li pona. → Ale li pona. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ĉio estas bona.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Everything is good.* |
 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi mute nimi la [nimi poka luka](#nimi-poka-luka) li ken jo e **sitelen pi ijo tu**.  
