@@ -1615,7 +1615,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 
 | [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
-| [sitelen pona musi](#sitelen-pona-musi) |
+| [sitelen pona musi](musi/sitelen/pona/sitelen-pona-musi.md) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) en [nimi poka](#nimi-poka) ona nanpa wan li kama wan.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Substantivo](#nimi-lawa) kaj ĝia unua [adjektivo](#nimi-poka) fariĝas unu.  
