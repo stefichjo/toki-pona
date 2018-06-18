@@ -1336,14 +1336,14 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *different from* | *instead of* | *according to, following, depending on* | *independent from* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) "lon" li ken jo e kon pi [nimi poka luka](#nimi-poka-luka) "ante".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [prepozicio](#nimi-poka-luka) "lon" povas havi la signifon de la [prepozicio](#nimi-poka-luka) "ante".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [preposition](#nimi-poka-luka) "lon" can have the meaning of the [preposition](#nimi-poka-luka) "ante".
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "tawa poka (pi)" en nimi "lon poka (pi)" li ken jo e kon pi [nimi poka luka musi](#nimi-poka-luka-musi) "ante".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "tawa poka (pi)" kaj "lon poka (pi)" povas havi la signifon de la [eksperimenta prepozicio](#nimi-poka-luka-musi) "ante".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "tawa poka (pi)" and "lon poka (pi)" can have the meaning of the [experimental preposition](#nimi-poka-luka-musi) "ante".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li suli tawa poka sina. | ona li suli ante sina. → ona li suli lon sina. | ona li suli ale. |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi estas alta laŭ vidpunkto apud vi.* | *Ŝi estas alta, malkiel vi.* | *Ŝi estas la plej alta.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She is tall seen from beside you.* | *She is tall, in contrast to you.* | *She is the tallest.* |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan li suli mute, mani li suli lili. → jan li suli mute tawa poka mani. → jan li suli mute lon poka mani. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Homoj estas pli gravaj ol mono.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *People are more important than money.* |
 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "taso ni la" li ken kama "taso".  
@@ -1412,6 +1412,16 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi iras kun vi.* | *Mi iras proksimen al vi.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm going with you.* | *I'm getting closer to you.* |
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "lon poka (pi)" li ken kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "lon poka (pi)" povas malaperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "lon poka (pi)" can disappear.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan li suli mute lon poka mani. → jan li suli mute mani. |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Homoj estas pli gravaj ol mono.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *People are more important than money.* |
 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) li kama [nimi lawa](#nimi-lawa), la kon ona li kama sama ni pi nimi "ijo" lon pini pi [nimi poka luka](#nimi-poka-luka) ni. jan **Pije** li kepeken [nimi poka luka](#nimi-poka-luka) "tan" lon nasin ni.   
