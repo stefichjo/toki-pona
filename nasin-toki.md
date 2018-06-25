@@ -1299,7 +1299,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 
 ---
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi tawa ona tawa tomo seli. → mi tawa tomo seli e ona. |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi tawa e ona tawa tomo seli. → mi tawa tomo seli e ona. |
 |:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Mi portas ĝin al la kuirejo.* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm moving it to the kitchen.* |
