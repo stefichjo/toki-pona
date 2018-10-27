@@ -146,14 +146,14 @@
 |:-:|
 | [e (namako)](#nimi-lili-e-namako) |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ijo" taso li lon pini pi **nimi lili** "e", la ona li ken kama weka.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ijo" taso li lon pini pi **nimi lili** "e", la ona li ken kama weka. 
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Nura "ijo" kiel rekta objekto (t.e. la vortoj malantaŭ la **partikulo** "e") povas malaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> Plain "ijo" as the direct object (i.e. the words after the **particle** "e") can disappear.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mije li sona e ijo. → mije li sona. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *La viro scias aferojn.* → *La viro scias.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The man knows things.* → *The man knows.* |
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mije li sona e ijo. → mije li sona. | mi pona e ijo. → mi pona./mi pana e pona. |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *La viro scias aferojn.* → *La viro scias.* | *Mi riparas ion.* → *Mi riparas./Mi helpas.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The man knows things.* → *The man knows.* | *I repair something.* → *I repair./I help.* |
 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi **nimi lili** "li" li ken jo e **nimi lili** "e" mute. **sitelen** ona **pi ijo tu** li ken kama weka.  
