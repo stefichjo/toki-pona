@@ -2,6 +2,7 @@
 
 * [nasin toki pi toki pona](nasin-toki.md) *(Tokipona Gramatiko — Toki Pona Grammar)*
 * [toki sin](toki-sin.md) *(Tokiponidoj — Toki Pona Spin-Offs)*
+* [toki insa pakala](toki-insa-pakala.md) *(Paralogismoj — Fallacies)*
 * [mute nimi](https://tatoeba.org/deu/sentences/of_user/Tepan) *(mute nimi pi lipu sona Tatowepa — Tatoeba sentences)*
 
 | <img src="musi/sitelen/pona/o-pilin-pona-o-pu.png" height="50"> | 
