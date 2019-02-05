@@ -1,22 +1,46 @@
-# toki ike pi toki insa pakala
-*(Paralogismoj — Fallacies)*
+# toki ike pi toki insa nasa
+*(Fallacies)*
 
-jan wan li wile ante e insa lawa pi jan ante li toki insa pakala, la ni li kama: ona li toki ike tan toki insa pakala.
+toki utala li nasa e toki insa. tan ni la jan li toki utala, la tenpo mute la ona li toki ike tan toki insa nasa.
 
-## toki ike "utala tawa jan"
-*(... — Ad Hominem Fallacy)*
+## toki utala tawa jan
+*(Ad Hominem Fallacy)*
 
-jan wan li toki insa pakala e ni: jan ante li ike, la sama la toki ona li ike. ni la ona li toki ike utala tawa jan ante.
+tenpo mute la jan wan li toki utala tawa jan ante li toki utala ala tawa toki pi jan ante ni tan ni: jan wan li toki insa pakala e ni: jan ante li ike, la sama la toki pi jan ante ni li ike a.
 
-### toki ike utala
-*(abusive form — toki pi nimi utala)*
+tan ni la jan wan li wile toki e ike pi jan ante, la tenpo mute la ona li pana e nimi ike tawa ...
 
----
+### toki utala tawa nimi jan
+*(abusive form)*
 
+... jan ante ni.
 
-* circumstantial form
-* "tu quoque"
-* guilt by association
+* jan ante: toki pona li toki pona.
+* jan wan: taso sina jaki a! :(
+
+### toki utala tawa poka jan
+*(circumstantial form)*
+
+... poka pi jan ante ni.
+
+* jan ante: toki pona li toki pona.
+* jan wan: sina pana e lipu pi toki pona tawa esun. tan ni taso la sina pana e nimi pona tawa toki pona. :(
+
+### toki utala tawa pali jan
+*("tu quoque")*
+
+... pali pi jan ante ni.
+
+* jan ante: toki pona li toki pona.
+* jan wan: taso sina jan pi toki Epelanto a!
+
+### toki utala tawa sama jan
+*(guilt by association)*
+
+... sama pi jan ante ni.
+
+* jan ante: toki pona li toki pona.
+* jan wan: sama la jan nasa ... a li toki e ni!
 
 * [lipu mama](https://thebestschools.org/magazine/15-logical-fallacies-know/)
 
