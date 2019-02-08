@@ -1,3 +1,5 @@
+* [lipu mama](https://thebestschools.org/magazine/15-logical-fallacies-know/)
+
 # toki ike pi toki insa nasa
 *(Fallacies)*
 
@@ -42,6 +44,5 @@ tan ni la jan wan li wile toki e ike pi jan ante, la tenpo mute la ona li pana e
 * jan ante: toki pona li toki pona.
 * jan wan: sama la jan nasa ... a li toki e ni!
 
-* [lipu mama](https://thebestschools.org/magazine/15-logical-fallacies-know/)
-
-
+## toki ike tawa jan ante
+*(Strawman Fallacy)*
