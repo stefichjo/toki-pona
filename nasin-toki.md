@@ -1777,19 +1777,19 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |                                                        | *[WAWA POKA](#nimi-wawa-poka)*      | ken, **lukin**, open, sona, wile | |
 | <img src="musi/sitelen/pona/lupa.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | **lupa**, nasin | hollow — *[IJO](#nimi-lawa-ijo)* (- tomo) **door**, **hole**, **orifice**, (- suno) **window** |
 | <img src="musi/sitelen/pona/ma.png" height="12">       | *[LAWA IJO](#nimi-lawa-ijo)*        | **ma**, mun | |
-| <img src="musi/sitelen/pona/mama.png" height="12">     | *[LAWA JAN](#nimi-lawa-jan)*        | **mama** | |
+| <img src="musi/sitelen/pona/mama.png" height="12">     | | **mama** | original — *[LAWA JAN](#nimi-lawa-jan)* **parent**, **ancestor**; **creator**, **originator**; **caretaker**, **sustainer** |
 | <img src="musi/sitelen/pona/mani.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | **mani** | |
-| <img src="musi/sitelen/pona/meli.png" height="12">     | *[LAWA JAN](#nimi-lawa-jan)*        | **meli** — mije | female — *[JAN](#nimi-lawa-jan)* **woman**, **female**, **feminine person**; **wife** |
+| <img src="musi/sitelen/pona/meli.png" height="12">     | | **meli** — mije | female — *[JAN](#nimi-lawa-jan)* **woman**, **female**, **feminine person**; **wife** |
 | <img src="musi/sitelen/pona/mi.png" height="12">       | *[ESUN](#nimi-lawa-esun)*           | **mi**, ona, sina | |
-| <img src="musi/sitelen/pona/mije.png" height="12">     | *[LAWA JAN](#nimi-lawa-jan)*        | meli — **mije** | male — *[JAN](#nimi-lawa-jan)* **man**, **male**, **masculine person**; **husband** |
+| <img src="musi/sitelen/pona/mije.png" height="12">     | | meli — **mije** | male — *[JAN](#nimi-lawa-jan)* **man**, **male**, **masculine person**; **husband** |
 | <img src="musi/sitelen/pona/moku.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | **moku** | |
 | <img src="musi/sitelen/pona/moli.png" height="12">     | *[PONA](#nimi-pona)*                | lape, **moli**, musi | |
 | <img src="musi/sitelen/pona/monsi.png" height="12">    | *[LAWA NASIN](#nimi-lawa-nasin)*    | poka — **monsi**, sinpin | |
 | <img src="musi/sitelen/pona/mu.png" height="12">       | *[LILI KALAMA](#nimi-lili-kalama)*  | **mu** — a, ala | |
 | <img src="musi/sitelen/pona/mun.png" height="12">      | *[LAWA IJO](#nimi-lawa-ijo)*        | ma, **mun** | |
 | <img src="musi/sitelen/pona/musi.png" height="12">     | *[PONA](#nimi-pona)*                | lape, moli, **musi** | |
-| <img src="musi/sitelen/pona/mute.png" height="12">     | *[PONA](#nimi-pona)*                | lili — **mute**, suli, wawa | |
-|                                                        | | ala, ale, esun, luka, **mute**, tu, wan | *[NANPA](#nimi-poka-nanpa)* three; **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
+| <img src="musi/sitelen/pona/mute.png" height="12">     | *[PONA](#nimi-pona)*                | lili — **mute**, suli, wawa | **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
+|                                                        | | ala, ale, esun, luka, **mute**, tu, wan | *[NANPA](#nimi-poka-nanpa)* three |
 | <img src="musi/sitelen/pona/nanpa.png" height="12">    | *[LAWA PALI](#nimi-lawa-pali)*      | **nanpa**, nimi, sitelen, sona, toki | |
 | <img src="musi/sitelen/pona/nasa.png" height="12">     | *[PONA](#nimi-pona)*                | pona — ike, **nasa**, utala | |
 | <img src="musi/sitelen/pona/nasin.png" height="12">    | *[LAWA IJO](#nimi-lawa-ijo)*        | lupa, **nasin** | |
