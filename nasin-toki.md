@@ -1763,7 +1763,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/lawa.png" height="12">     | *[LAWA ILO](#nimi-lawa-ilo)*        | kute, **lawa**, luka, lukin, noka, palisa, pilin, selo, uta | |
 |                                                        | *[LAWA NASIN](#nimi-lawa-nasin)*    | anpa — sewi, **lawa** — noka | |
 | <img src="musi/sitelen/pona/len.png" height="12">      | *[LAWA ILO](#nimi-lawa-ilo)*        | **len**, supa | |
-| <img src="musi/sitelen/pona/lete.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | **lete** — seli | |
+| <img src="musi/sitelen/pona/lete.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | **lete** — seli | **cold**, **cool**; **uncooked**, **raw** — *[IJO](#nimi-lawa-ijo)* ice, frost |
 | <img src="musi/sitelen/pona/li.png" height="12">       | *[LILI LUKA](#nimi-lili-luka)*      | e, **li**, o, pi | |
 | <img src="musi/sitelen/pona/lili.png" height="12">     | *[PONA](#nimi-pona)*                | **lili** — mute, suli, wawa | |
 | <img src="musi/sitelen/pona/linja.png" height="12">    | *[LAWA IJO](#nimi-lawa-ijo)*        | **linja** — palisa | |
@@ -1821,7 +1821,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/pona.png" height="12">     | *[PONA](#nimi-pona)*                | **pona** – ike, nasa, pakala, utala | |
 | <img src="musi/sitelen/pona/pu.png" height="12">       | *[POKA LUKA](#nimi-poka-luka)*      | **pu** — taso | |
 | <img src="musi/sitelen/pona/sama.png" height="12">     | *[POKA LUKA](#nimi-poka-luka)*      | ante — **sama** | |
-| <img src="musi/sitelen/pona/seli.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | lete — **seli** | |
+| <img src="musi/sitelen/pona/seli.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | lete — **seli** | warm; cooked — *[IJO](#nimi-lawa-ijo)* **fire**; **cooking element**, **chemical reaction**, **heat source** |
 | <img src="musi/sitelen/pona/selo.png" height="12">     | *[LAWA ILO](#nimi-lawa-ilo)*        | kute, lawa, luka, lukin, noka, palisa, pilin, **selo**, uta | |
 |                                                        | *[PONA](#nimi-pona)*                | open — **selo** | |
 | <img src="musi/sitelen/pona/seme.png" height="12">     | *[POKA PALISA](#nimi-poka-palisa)*  | ala, ale, ni, **seme**, wan | |
