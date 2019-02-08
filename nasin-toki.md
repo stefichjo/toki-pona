@@ -1772,7 +1772,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/lon.png" height="12">      | *[POKA LUKA](#nimi-poka-luka)*      | **lon**, tan, tawa | |
 |                                                        | *[PONA](#nimi-pona)*                | ala, **lon** | |
 | <img src="musi/sitelen/pona/luka.png" height="12">     | *[LAWA ILO](#nimi-lawa-ilo)*        | kute, lawa, **luka**, lukin, noka, palisa, pilin, selo, uta | to touch — *[ILO](#nimi-lawa-ilo)* **arm**, **hand**, **tactile organ** |
-|                                                        | *[POKA NANPA](#nimi-poka-nanpa)*    | ala, ale, esun, **luka**, mute, tu, wan | **five** |
+|                                                        | *[POKA NANPA](#nimi-poka-nanpa)*    | ala, ale, esun, **luka**, mute, tu, wan | *[NANPA](#nimi-poka-nanpa)* **five** |
 | <img src="musi/sitelen/pona/lukin.png" height="12">    | *[LAWA ILO](#nimi-lawa-ilo)*        | kute, lawa, luka, **lukin**, noka, palisa, pilin, selo, uta | |
 |                                                        | *[WAWA POKA](#nimi-wawa-poka)*      | ken, **lukin**, open, sona, wile | |
 | <img src="musi/sitelen/pona/lupa.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | **lupa**, nasin | hollow — *[IJO](#nimi-lawa-ijo)* (- tomo) **door**, **hole**, **orifice**, (- suno) **window** |
