@@ -1746,7 +1746,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/kala.png" height="12">     | | **kala**, kasi, pipi, waso | swimming — *[SIJELO](#nimi-lawa-sijelo)* **fish**, **marine animal**, **sea creature** |
 | <img src="musi/sitelen/pona/kalama.png" height="12">   | *[PONA](#nimi-pona)*                | **kalama**, kule | |
 | <img src="musi/sitelen/pona/kama.png" height="12">     | *[WAWA POKA](#nimi-wawa-poka)*      | awen, **kama**, pini | |
-| <img src="musi/sitelen/pona/kasi.png" height="12">     | | kala, **kasi**, pipi, waso | growing *[SIJELO](#nimi-lawa-sijelo)* **plant**, **vegetation**; **herb**, (wan -) **leaf** |
+| <img src="musi/sitelen/pona/kasi.png" height="12">     | | kala, **kasi**, pipi, waso | growing — *[SIJELO](#nimi-lawa-sijelo)* **plant**, **vegetation**; **herb**, **leaf** |
 | <img src="musi/sitelen/pona/ken.png" height="12">      | *[WAWA POKA](#nimi-wawa-poka)*      | **ken**, lukin, open, sona, wile | |
 | <img src="musi/sitelen/pona/kepeken.png" height="12">  | *[POKA LUKA](#nimi-poka-luka)*      | esun, **kepeken** | |
 | <img src="musi/sitelen/pona/kili.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | **kili**, pan | |
@@ -1760,7 +1760,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/la.png" height="12">       | *[LILI LUKA](#nimi-lili-luka)*      | **la** | |
 | <img src="musi/sitelen/pona/lape.png" height="12">     | *[PONA](#nimi-pona)*                | **lape**, moli, musi | |
 | <img src="musi/sitelen/pona/laso.png" height="12">     | *[PONA](#nimi-pona)*                | jelo, **laso**, loje | |
-| <img src="musi/sitelen/pona/lawa.png" height="12">     | | kute, **lawa**, luka, lukin, noka, palisa, pilin, selo, uta | **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule** — *[ILO SIJELO](#nimi-lawa-ilo)* **head**, (insa -) **mind** |
+| <img src="musi/sitelen/pona/lawa.png" height="12">     | | kute, **lawa**, luka, lukin, noka, palisa, pilin, selo, uta | **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule** — *[ILO SIJELO](#nimi-lawa-ilo)* **head**, **mind** |
 |                                                        | *[LAWA NASIN](#nimi-lawa-nasin)*    | anpa — sewi, **lawa** — noka | |
 | <img src="musi/sitelen/pona/len.png" height="12">      | *[LAWA ILO](#nimi-lawa-ilo)*        | **len**, supa | |
 | <img src="musi/sitelen/pona/lete.png" height="12">     | | **lete** — seli | **cold**, **cool**; **uncooked**, **raw** — *[IJO](#nimi-lawa-ijo)* ice, frost |
@@ -1773,7 +1773,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |                                                        | *[PONA](#nimi-pona)*                | ala, **lon** | |
 | <img src="musi/sitelen/pona/luka.png" height="12">     | | kute, lawa, **luka**, lukin, noka, palisa, pilin, selo, uta | to touch — *[ILO SIJELO](#nimi-lawa-ilo)* **arm**, **hand**, **tactile organ** |
 |                                                        | | ala, ale, esun, **luka**, mute, tu, wan | *[NANPA](#nimi-poka-nanpa)* **five** |
-| <img src="musi/sitelen/pona/lukin.png" height="12">    | | kute, lawa, luka, **lukin**, noka, palisa, pilin, selo, uta | **to look at**, **see**, **examine**, **observe**, **read**, **watch**, care — *[ILO SIJELO](#nimi-lawa-ilo)* **eye** |
+| <img src="musi/sitelen/pona/lukin.png" height="12">    | | kute, lawa, luka, **lukin**, noka, palisa, pilin, selo, uta | **to look at**, **see**, **examine**, **observe**, **read**, **watch**; care — *[ILO SIJELO](#nimi-lawa-ilo)* **eye** |
 |                                                        | *[WAWA POKA](#nimi-wawa-poka)*      | ken, **lukin**, open, sona, wile | |
 | <img src="musi/sitelen/pona/lupa.png" height="12">     | | **lupa**, nasin | thick, extended, hollow — *[IJO](#nimi-lawa-ijo)* (- tomo) **door**, **hole**, **orifice**, (- suno) **window** |
 | <img src="musi/sitelen/pona/ma.png" height="12">       | *[LAWA IJO](#nimi-lawa-ijo)*        | **ma**, mun | |
