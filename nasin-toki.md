@@ -1766,7 +1766,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/lete.png" height="12">     | | **lete** — seli | **cold**, **cool**; **uncooked**, **raw** — *[IJO](#nimi-lawa-ijo)* ice, frost |
 | <img src="musi/sitelen/pona/li.png" height="12">       | *[LILI LUKA](#nimi-lili-luka)*      | e, **li**, o, pi | |
 | <img src="musi/sitelen/pona/lili.png" height="12">     | *[PONA](#nimi-pona)*                | **lili** — mute, suli, wawa | |
-| <img src="musi/sitelen/pona/linja.png" height="12">    | *[LAWA IJO](#nimi-lawa-ijo)*        | **linja** — palisa | |
+| <img src="musi/sitelen/pona/linja.png" height="12">    | | **linja** — palisa | long and flexible — *[IJO](#nimi-lawa-ijo)* **long and flexible thing**; **cord**, **hair**, **rope**, **thread**, **yarn** |
 | <img src="musi/sitelen/pona/lipu.png" height="12">     | | **lipu**, nena, sike | flat — *[IJO](#nimi-lawa-ijo)* **flat object**; **book**, **document**, **card**, **paper**, **record**, **website** |
 | <img src="musi/sitelen/pona/loje.png" height="12">     | *[PONA](#nimi-pona)*                | jelo, laso, **loje** | |
 | <img src="musi/sitelen/pona/lon.png" height="12">      | *[POKA LUKA](#nimi-poka-luka)*      | **lon**, tan, tawa | |
@@ -1805,7 +1805,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |                                                        | *[WAWA POKA](#nimi-wawa-poka)*      | ken, lukin, **open**, sona, wile | |
 | <img src="musi/sitelen/pona/pakala.png" height="12">   | | ilo — **pakala** | useless; **botched**, **broken**, **damaged**, **harmed**, **messed up** — *[IJO](#nimi-lawa-ijo)* damage, wound |
 | <img src="musi/sitelen/pona/pali.png" height="12">     | *[WAWA PONA](#nimi-wawa-pona)*      | alasa, **pali** | |
-| <img src="musi/sitelen/pona/palisa.png" height="12">   | *[LAWA IJO](#nimi-lawa-ijo)*        | linja — **palisa** | |
+| <img src="musi/sitelen/pona/palisa.png" height="12">   | | linja — **palisa** | long and hard — *[IJO](#nimi-lawa-ijo)* **long hard thing**; **branch**, **rod**, **stick** |
 |                                                        | | kute, lawa, luka, lukin, noka, **palisa**, pilin, selo, uta | to point to — *[ILO SIJELO](#nimi-lawa-ilo)* finger |
 | <img src="musi/sitelen/pona/pan.png" height="12">      | | kili, **pan** | falling — *[IJO](#nimi-lawa-ijo)* **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** |
 | <img src="musi/sitelen/pona/pana.png" height="12">     | *[WAWA PONA](#nimi-wawa-pona)*      | jo, **pana** | |
