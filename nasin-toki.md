@@ -1739,7 +1739,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/ike.png" height="12">      | *[PONA](#nimi-pona)*                | pona — **ike**, nasa, utala | |
 | <img src="musi/sitelen/pona/ilo.png" height="12">      | *[LAWA IJO](#nimi-lawa-ijo)*        | **ilo** — pakala | |
 | <img src="musi/sitelen/pona/insa.png" height="12">     | *[LAWA NASIN](#nimi-lawa-nasin)*    | weka — **insa**, poka, sin | |
-| <img src="musi/sitelen/pona/jaki.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | **jaki** — suwi | |
+| <img src="musi/sitelen/pona/jaki.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | **jaki** — suwi | **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** — *[LAWA IJO](#nimi-lawa-ijo)* dirt, poison, waste |
 | <img src="musi/sitelen/pona/jan.png" height="12">      | *[LAWA PONA](#nimi-lawa-pona)*      | ijo — **jan** | |
 | <img src="musi/sitelen/pona/jelo.png" height="12">     | *[PONA](#nimi-pona)*                | **jelo**, laso, loje | |
 | <img src="musi/sitelen/pona/jo.png" height="12">       | *[WAWA PONA](#nimi-wawa-pona)*      | **jo**, pana | |
@@ -1834,11 +1834,11 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/sitelen.png" height="12">  | *[LAWA PALI](#nimi-lawa-pali)*      | nanpa, nimi, **sitelen**, sona, toki | |
 | <img src="musi/sitelen/pona/sona.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | nanpa, nimi, sitelen, **sona**, toki | |
 |                                                        | *[WAWA POKA](#nimi-wawa-poka)*      | ken, lukin, open, **sona**, wile | |
-| <img src="musi/sitelen/pona/soweli.png" height="12">   | | akesi — **soweli** | warm-blooded — *[SIJELO](#nimi-lawa-sijelo)* |
+| <img src="musi/sitelen/pona/soweli.png" height="12">   | | akesi — **soweli** | warm-blooded — *[SIJELO](#nimi-lawa-sijelo)* **animal**, **beast**, **land mammal** |
 | <img src="musi/sitelen/pona/suli.png" height="12">     | *[PONA](#nimi-pona)*                | lili — mute, **suli**, wawa | |
 | <img src="musi/sitelen/pona/suno.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | pimeja — **suno** | |
 | <img src="musi/sitelen/pona/supa.png" height="12">     | *[LAWA ILO](#nimi-lawa-ilo)*        | len, **supa** | |
-| <img src="musi/sitelen/pona/suwi.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | jaki — **suwi** | |
+| <img src="musi/sitelen/pona/suwi.png" height="12">     | | jaki — **suwi** | **sweet**, **fragrant**; **cute**, **innocent**, **adorable** — *[IJO](#nimi-lawa-ijo)* sugar; sweets |
 | <img src="musi/sitelen/pona/tan.png" height="12">      | *[POKA LUKA](#nimi-poka-luka)*      | lon, **tan**, tawa | |
 | <img src="musi/sitelen/pona/taso.png" height="12">     | *[POKA LUKA](#nimi-poka-luka)*      | pu — **taso** | |
 | <img src="musi/sitelen/pona/tawa.png" height="12">     | *[POKA LUKA](#nimi-poka-luka)*      | lon, tan, **tawa** | |
