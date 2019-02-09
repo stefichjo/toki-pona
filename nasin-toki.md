@@ -824,8 +824,8 @@
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | kala | kasi | pipi | waso |
 |:-:|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *naĝanta, fiŝo* | *kreskanta, planto* | *rampanta, insekto* | *fluganta, birdo* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *swimming, fish* | *growing, plant* | *crawling, insect* | *flying, bird* |
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *naĝanta, fiŝo* | *vegetanta, planto* | *rampanta, insekto* | *fluganta, birdo* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *swimming, fish* | *vegetating, plant* | *crawling, insect* | *flying, bird* |
 
 
 ### nimi lawa jan
@@ -1718,7 +1718,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | | | | |
 |:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/a.png" height="12">        | *[LILI KALAMA](#nimi-lili-kalama)*  | mu — **a**, ala | |
-| <img src="musi/sitelen/pona/akesi.png" height="12">    | *[LAWA SIJELO](#nimi-lawa-sijelo)*  | **akesi** — soweli | |
+| <img src="musi/sitelen/pona/akesi.png" height="12">    | | **akesi** — soweli | cold-blooded — *[SIJELO](#nimi-lawa-sijelo)* **non-cute animal**; **reptile**, **amphibian**; monster |
 | <img src="musi/sitelen/pona/ala.png" height="12">      | *[LILI KALAMA](#nimi-lili-kalama)*  | mu — a, **ala** | |
 |                                                        | *[POKA PALISA](#nimi-poka-palisa)*  | **ala**, ale, ni, seme, wan | |
 |                                                        | | **ala**, ale, esun, luka, mute, tu, wan | *[NANPA](#nimi-poka-nanpa)* **zero** |
@@ -1834,7 +1834,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/sitelen.png" height="12">  | *[LAWA PALI](#nimi-lawa-pali)*      | nanpa, nimi, **sitelen**, sona, toki | |
 | <img src="musi/sitelen/pona/sona.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | nanpa, nimi, sitelen, **sona**, toki | |
 |                                                        | *[WAWA POKA](#nimi-wawa-poka)*      | ken, lukin, open, **sona**, wile | |
-| <img src="musi/sitelen/pona/soweli.png" height="12">   | *[LAWA SIJELO](#nimi-lawa-sijelo)*  | akesi — **soweli** | |
+| <img src="musi/sitelen/pona/soweli.png" height="12">   | | akesi — **soweli** | warm-blooded — *[SIJELO](#nimi-lawa-sijelo)* |
 | <img src="musi/sitelen/pona/suli.png" height="12">     | *[PONA](#nimi-pona)*                | lili — mute, **suli**, wawa | |
 | <img src="musi/sitelen/pona/suno.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | pimeja — **suno** | |
 | <img src="musi/sitelen/pona/supa.png" height="12">     | *[LAWA ILO](#nimi-lawa-ilo)*        | len, **supa** | |
