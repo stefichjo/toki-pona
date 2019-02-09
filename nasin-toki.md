@@ -1803,7 +1803,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/ona.png" height="12">      | *[ESUN](#nimi-lawa-esun)*           | mi, **ona**, sina | |
 | <img src="musi/sitelen/pona/open.png" height="12">     | *[PONA](#nimi-pona)*                | **open** — selo | |
 |                                                        | *[WAWA POKA](#nimi-wawa-poka)*      | ken, lukin, **open**, sona, wile | |
-| <img src="musi/sitelen/pona/pakala.png" height="12">   | | ilo — **pakala** | useless — *[IJO](#nimi-lawa-ijo)* **botched**, **broken**, **damaged**, **harmed**, **messed up** |
+| <img src="musi/sitelen/pona/pakala.png" height="12">   | | ilo — **pakala** | useless; **botched**, **broken**, **damaged**, **harmed**, **messed up** — *[IJO](#nimi-lawa-ijo)* damage, wound |
 | <img src="musi/sitelen/pona/pali.png" height="12">     | *[WAWA PONA](#nimi-wawa-pona)*      | alasa, **pali** | |
 | <img src="musi/sitelen/pona/palisa.png" height="12">   | *[LAWA IJO](#nimi-lawa-ijo)*        | linja — **palisa** | |
 |                                                        | | kute, lawa, luka, lukin, noka, **palisa**, pilin, selo, uta | to point to — *[ILO SIJELO](#nimi-lawa-ilo)* finger |
