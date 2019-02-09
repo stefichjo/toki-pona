@@ -1737,7 +1737,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |                                                        | *[POKA NANPA](#nimi-poka-nanpa)*    | ala, ale, **esun**, luka, mute, tu, wan | seven |
 | <img src="musi/sitelen/pona/ijo.png" height="12">      | *[LAWA PONA](#nimi-lawa-pona)*      | **ijo** — jan | |
 | <img src="musi/sitelen/pona/ike.png" height="12">      | *[PONA](#nimi-pona)*                | pona — **ike**, nasa, utala | |
-| <img src="musi/sitelen/pona/ilo.png" height="12">      | | **ilo** — pakala | useful — *[IJO](#nimi-lawa-ijo)* **tool**, **implement**, **machine**, **device** |
+| <img src="musi/sitelen/pona/ilo.png" height="12">      | | **ilo** — pakala | useful — *[IJO](#nimi-lawa-ijo)* organ; **tool**, **implement**, **machine**, **device** |
 | <img src="musi/sitelen/pona/insa.png" height="12">     | *[LAWA NASIN](#nimi-lawa-nasin)*    | weka — **insa**, poka, sin | |
 | <img src="musi/sitelen/pona/jaki.png" height="12">     | | **jaki** — suwi | **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** — *[IJO](#nimi-lawa-ijo)* dirt, poison, waste |
 | <img src="musi/sitelen/pona/jan.png" height="12">      | *[LAWA PONA](#nimi-lawa-pona)*      | ijo — **jan** | |
@@ -1803,7 +1803,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/ona.png" height="12">      | *[ESUN](#nimi-lawa-esun)*           | mi, **ona**, sina | |
 | <img src="musi/sitelen/pona/open.png" height="12">     | *[PONA](#nimi-pona)*                | **open** — selo | |
 |                                                        | *[WAWA POKA](#nimi-wawa-poka)*      | ken, lukin, **open**, sona, wile | |
-| <img src="musi/sitelen/pona/pakala.png" height="12">   | | ilo — **pakala** | useless; **botched**, **broken**, **damaged**, **harmed**, **messed up** — *[IJO](#nimi-lawa-ijo)* damage, wound |
+| <img src="musi/sitelen/pona/pakala.png" height="12">   | | ilo — **pakala** | useless; **botched**, **broken**, **damaged**, **harmed**, **messed up** — *[IJO](#nimi-lawa-ijo)* tumor, wound; damage |
 | <img src="musi/sitelen/pona/pali.png" height="12">     | *[WAWA PONA](#nimi-wawa-pona)*      | alasa, **pali** | |
 | <img src="musi/sitelen/pona/palisa.png" height="12">   | | linja — **palisa** | long and hard — *[IJO](#nimi-lawa-ijo)* **long hard thing**; **branch**, **rod**, **stick** |
 |                                                        | | kute, lawa, luka, lukin, noka, **palisa**, pilin, selo, uta | to point to — *[ILO](#nimi-lawa-ilo)* finger |
