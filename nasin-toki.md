@@ -1717,9 +1717,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 
 | | | | |
 |:-|:-|:-|:-|
-| <img src="musi/sitelen/pona/a.png" height="12">        | *[LILI KALAMA](#nimi-lili-kalama)* | mu — **a**, ala | **(emphasis, emotion or confirmation)**; yes |
+| <img src="musi/sitelen/pona/a.png" height="12">        | | mu — **a**, ala | **(emphasis, emotion or confirmation)** — yes! |
 | <img src="musi/sitelen/pona/akesi.png" height="12">    | | **akesi** — soweli | cold-blooded — *[SIJELO](#nimi-lawa-sijelo)* **non-cute animal**; **reptile**, **amphibian**; monster |
-| <img src="musi/sitelen/pona/ala.png" height="12">      | *[LILI KALAMA](#nimi-lili-kalama)*  | mu — a, **ala** | (negation); **no** |
+| <img src="musi/sitelen/pona/ala.png" height="12">      | | mu — a, **ala** | (negation) — **no**! |
 |                                                        | *[POKA PALISA](#nimi-poka-palisa)*  | **ala**, ale, ni, seme, wan | **not** — none, nothing |
 |                                                        | *[POKA NANPA](#nimi-poka-nanpa)*    | **ala**, ale, esun, luka, mute, tu, wan | **zero** |
 |                                                        | *[PONA](#nimi-pona)*                | **ala**, lon | non-, false |
@@ -1785,7 +1785,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/moku.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | **moku** | |
 | <img src="musi/sitelen/pona/moli.png" height="12">     | *[PONA](#nimi-pona)*                | lape, **moli**, musi | |
 | <img src="musi/sitelen/pona/monsi.png" height="12">    | *[LAWA NASIN](#nimi-lawa-nasin)*    | poka — **monsi**, sinpin | |
-| <img src="musi/sitelen/pona/mu.png" height="12">       | *[LILI KALAMA](#nimi-lili-kalama)*  | **mu** — a, ala | **(animal noise or communication)**, (indifference); sort-of |
+| <img src="musi/sitelen/pona/mu.png" height="12">       | | **mu** — a, ala | **(animal noise or communication)**, (indifference) — blah! |
 | <img src="musi/sitelen/pona/mun.png" height="12">      | *[LAWA IJO](#nimi-lawa-ijo)*        | ma, **mun** | |
 | <img src="musi/sitelen/pona/musi.png" height="12">     | *[PONA](#nimi-pona)*                | lape, moli, **musi** | |
 | <img src="musi/sitelen/pona/mute.png" height="12">     | *[PONA](#nimi-pona)*                | lili — **mute**, suli, wawa | **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
