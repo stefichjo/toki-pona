@@ -1843,7 +1843,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/taso.png" height="12">     | *[POKA LUKA](#nimi-poka-luka)*      | pu — **taso** | |
 | <img src="musi/sitelen/pona/tawa.png" height="12">     | *[POKA LUKA](#nimi-poka-luka)*      | lon, tan, **tawa** | |
 | <img src="musi/sitelen/pona/telo.png" height="12">     | | kiwen, ko, kon, **telo** | liquid, fluid, wet — *[IJO](#nimi-lawa-ijo)* **water**, **liquid**, **fluid**, **wet substance**; **beverage** |
-| <img src="musi/sitelen/pona/tenpo.png" height="12">    | *[LAWA IJO](#nimi-lawa-ijo)*        | **tenpo** | |
+| <img src="musi/sitelen/pona/tenpo.png" height="12">    | | **tenpo** | … — *[IJO](#nimi-lawa-ijo)* **time**, **duration**, **moment**, **occasion**, **period**, **situation** |
 | <img src="musi/sitelen/pona/toki.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | nanpa, nimi, sitelen, sona, **toki** | |
 | <img src="musi/sitelen/pona/tomo.png" height="12">     | | poki, **tomo** | to protect — *[ILO](#nimi-lawa-ilo)* skeleton, thorax; **indoor space**; **building**, **home**, **house**, **room** |
 | <img src="musi/sitelen/pona/tu.png" height="12">       | *[PONA](#nimi-pona)*                | **tu** — wan | |
