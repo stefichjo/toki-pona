@@ -1722,7 +1722,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/ala.png" height="12">      | | mu — a, **ala** | (negation) — **no**! |
 |                                                        | | **ala**, ale, ni, seme, wan | **not** — none, nothing |
 |                                                        | | **ala**, ale, esun, luka, mute, tu, wan | 0, **zero** |
-|                                                        | *[PONA](#nimi-pona)*                | **ala**, lon | non-, false |
+|                                                        | | **ala**, lon | non-, false |
 | <img src="musi/sitelen/pona/alasa.png" height="12">    | *[WAWA PONA](#nimi-wawa-pona)*      | **alasa**, pali | |
 | <img src="musi/sitelen/pona/ale.png" height="12">      | | **ale** — wan | whole; **abundant**, **countless**, **bountiful**, **plentiful** — *[IJO](#nimi-lawa-ijo)* ensemble; **abundance**, **life**, **universe** |
 |                                                        | | ala, **ale**, ni, seme, wan | **all**; **every** — **everything** |
@@ -1770,7 +1770,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/lipu.png" height="12">     | | **lipu**, nena, sike | flat — *[IJO](#nimi-lawa-ijo)* **flat object**; **book**, **document**, **card**, **paper**, **record**, **website** |
 | <img src="musi/sitelen/pona/loje.png" height="12">     | *[PONA](#nimi-pona)*                | jelo, laso, **loje** | |
 | <img src="musi/sitelen/pona/lon.png" height="12">      | *[POKA LUKA](#nimi-poka-luka)*      | **lon**, tan, tawa | |
-|                                                        | *[PONA](#nimi-pona)*                | ala, **lon** | |
+|                                                        | | ala, **lon** | **real**, **true**, **existing** |
 | <img src="musi/sitelen/pona/luka.png" height="12">     | | kute, lawa, len, **luka**, lukin, noka, palisa, pilin, selo, uta | to touch — *[ILO](#nimi-lawa-ilo)* **arm**, **hand**, **tactile organ** |
 |                                                        | | ala, ale, esun, **luka**, mute, tu, wan | 5, **five** |
 | <img src="musi/sitelen/pona/lukin.png" height="12">    | | kute, lawa, len, luka, **lukin**, noka, palisa, pilin, selo, uta | **to look at**, **see**, **examine**, **observe**, **read**, **watch**; care — *[ILO](#nimi-lawa-ilo)* **eye** |
