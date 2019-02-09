@@ -1755,7 +1755,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/kon.png" height="12">      | | kiwen, ko, **kon**, telo | hovering — *[IJO](#nimi-lawa-ijo)* **air**, **breath**; **essence**, **spirit**; **hidden reality**, **unseen agent** |
 | <img src="musi/sitelen/pona/kule.png" height="12">     | *[PONA](#nimi-pona)*                | kalama, **kule** | |
 |                                                        | *[PONA](#nimi-pona)*                | **kule**, walo | |
-| <img src="musi/sitelen/pona/kulupu.png" height="12">   | *[LAWA IJO](#nimi-lawa-ijo)*        | **kulupu** — sijelo | |
+| <img src="musi/sitelen/pona/kulupu.png" height="12">   | | **kulupu** — sijelo | interactive, reciprocal — *[IJO](#nimi-lawa-ijo)* **community**, **company**, **group**, **nation**, relation, **society**, **tribe**  |
 | <img src="musi/sitelen/pona/kute.png" height="12">     | | **kute**, lawa, luka, lukin, noka, palisa, pilin, selo, uta | **to hear**, **listen**; **pay attention to**, **obey** — *[ILO SIJELO](#nimi-lawa-ilo)* **ear** |
 | <img src="musi/sitelen/pona/la.png" height="12">       | *[LILI LUKA](#nimi-lili-luka)*      | **la** | |
 | <img src="musi/sitelen/pona/lape.png" height="12">     | *[PONA](#nimi-pona)*                | **lape**, moli, musi | |
@@ -1826,7 +1826,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |                                                        | *[PONA](#nimi-pona)*                | open — **selo** | |
 | <img src="musi/sitelen/pona/seme.png" height="12">     | *[POKA PALISA](#nimi-poka-palisa)*  | ala, ale, ni, **seme**, wan | |
 | <img src="musi/sitelen/pona/sewi.png" height="12">     | *[LAWA NASIN](#nimi-lawa-nasin)*    | anpa — **sewi**, lawa — noka | |
-| <img src="musi/sitelen/pona/sijelo.png" height="12">   | *[LAWA IJO](#nimi-lawa-ijo)*        | kulupu — **sijelo** | |
+| <img src="musi/sitelen/pona/sijelo.png" height="12">   | | kulupu — **sijelo** | healthy, living, sustainable — *[IJO](#nimi-lawa-ijo)* **body (of person or animal)**, health, **physical state**, **torso** |
 | <img src="musi/sitelen/pona/sike.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | lipu, nena, **sike** | |
 | <img src="musi/sitelen/pona/sin.png" height="12">      | *[LAWA NASIN](#nimi-lawa-nasin)*    | weka — insa, poka, **sin** | |
 | <img src="musi/sitelen/pona/sina.png" height="12">     | *[ESUN](#nimi-lawa-esun)*           | mi, ona, **sina** | |
