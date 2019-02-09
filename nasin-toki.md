@@ -1731,7 +1731,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/ante.png" height="12">     | *[POKA LUKA](#nimi-poka-luka)*      | **ante** — sama | |
 | <img src="musi/sitelen/pona/anu.png" height="12">      | | **anu**, en | (…), **or** |
 | <img src="musi/sitelen/pona/awen.png" height="12">     | *[WAWA POKA](#nimi-wawa-poka)*      | **awen**, kama, pini | |
-| <img src="musi/sitelen/pona/e.png" height="12">        | *[LILI LUKA](#nimi-lili-luka)*      | **e**, li, o, pi | |
+| <img src="musi/sitelen/pona/e.png" height="12">        | | **e**, li, o, pi | **(before the direct object)** |
 | <img src="musi/sitelen/pona/en.png" height="12">       | | anu, **en** | **(between multiple subjects)** |
 | <img src="musi/sitelen/pona/esun.png" height="12">     | *[POKA LUKA](#nimi-poka-luka)*      | **esun**, kepeken | |
 |                                                        | | ala, ale, **esun**, luka, mute, tu, wan | 7, seven |
@@ -1764,7 +1764,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |                                                        | *[LAWA NASIN](#nimi-lawa-nasin)*    | anpa — sewi, **lawa** — noka | |
 | <img src="musi/sitelen/pona/len.png" height="12">      | | kute, lawa, **len**, luka, lukin, noka, palisa, pilin, selo, uta | to cover, hide — *[ILO](#nimi-lawa-ilo)* **cloth**, **clothing**, **fabric**, **textile**; **cover**, **layer of privacy** |
 | <img src="musi/sitelen/pona/lete.png" height="12">     | | **lete** — seli | **cold**, **cool**; **uncooked**, **raw** — *[IJO](#nimi-lawa-ijo)* ice, frost |
-| <img src="musi/sitelen/pona/li.png" height="12">       | *[LILI LUKA](#nimi-lili-luka)*      | e, **li**, o, pi | |
+| <img src="musi/sitelen/pona/li.png" height="12">       | | e, **li**, o, pi | **(between any subject except mi alone or sina alone and its VERB; also to introduce a new VERB for the same subject)** |
 | <img src="musi/sitelen/pona/lili.png" height="12">     | *[PONA](#nimi-pona)*                | **lili** — mute, suli, wawa | |
 | <img src="musi/sitelen/pona/linja.png" height="12">    | | **linja** — palisa | long and flexible — *[IJO](#nimi-lawa-ijo)* **long and flexible thing**; **cord**, **hair**, **rope**, **thread**, **yarn** |
 | <img src="musi/sitelen/pona/lipu.png" height="12">     | | **lipu**, nena, sike | flat — *[IJO](#nimi-lawa-ijo)* **flat object**; **book**, **document**, **card**, **paper**, **record**, **website** |
@@ -1798,7 +1798,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/nimi.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | nanpa, **nimi**, sitelen, sona, toki | |
 | <img src="musi/sitelen/pona/noka.png" height="12">     | | kute, lawa, len, luka, lukin, **noka**, palisa, pilin, selo, uta | to step on, kick — *[ILO](#nimi-lawa-ilo)* **foot**, **leg**, **organ of locomotion** |
 |                                                        | *[LAWA NASIN](#nimi-lawa-nasin)*    | anpa — sewi, lawa — **noka** | |
-| <img src="musi/sitelen/pona/o.png" height="12">        | *[LILI LUKA](#nimi-lili-luka)*      | e, li, **o**, pi | |
+| <img src="musi/sitelen/pona/o.png" height="12">        | | e, li, **o**, pi | **(vocative or imperative)**, **hey!**, **O!** |
 | <img src="musi/sitelen/pona/olin.png" height="12">     | *[WAWA PONA](#nimi-wawa-pona)*      | **olin**, unpa | |
 | <img src="musi/sitelen/pona/ona.png" height="12">      | *[ESUN](#nimi-lawa-esun)*           | mi, **ona**, sina | |
 | <img src="musi/sitelen/pona/open.png" height="12">     | *[PONA](#nimi-pona)*                | **open** — selo | |
@@ -1809,7 +1809,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |                                                        | | kute, lawa, len, luka, lukin, noka, **palisa**, pilin, selo, uta | to point to — *[ILO](#nimi-lawa-ilo)* finger |
 | <img src="musi/sitelen/pona/pan.png" height="12">      | | kili, **pan** | falling — *[IJO](#nimi-lawa-ijo)* **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** |
 | <img src="musi/sitelen/pona/pana.png" height="12">     | *[WAWA PONA](#nimi-wawa-pona)*      | jo, **pana** | |
-| <img src="musi/sitelen/pona/pi.png" height="12">       | *[LILI LUKA](#nimi-lili-luka)*      | e, li, o, **pi** | |
+| <img src="musi/sitelen/pona/pi.png" height="12">       | | e, li, o, **pi** | (…), **of** |
 | <img src="musi/sitelen/pona/pilin.png" height="12">    | | kute, lawa, len, luka, lukin, noka, palisa, **pilin**, selo, uta | **feeling (an emotion, a direct experience)** ­— *[ILO](#nimi-lawa-ilo)* **heart (physical or emotional)** |
 | <img src="musi/sitelen/pona/pimeja.png" height="12">   | *[PONA](#nimi-pona)*                | **pimeja** — walo | |
 |                                                        | | **pimeja** — suno | **black**, **dark**, **unlit** — *[IJO](#nimi-lawa-ijo)* shadow |
