@@ -1717,9 +1717,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 
 | | | | |
 |:-|:-|:-|:-|
-| <img src="musi/sitelen/pona/a.png" height="12">        | *[LILI KALAMA](#nimi-lili-kalama)*  | mu — **a**, ala | |
+| <img src="musi/sitelen/pona/a.png" height="12">        | | mu — **a**, ala | *[KALAMA](#nimi-lili-kalama)* **(emphasis, emotion or confirmation)**; yes |
 | <img src="musi/sitelen/pona/akesi.png" height="12">    | | **akesi** — soweli | cold-blooded — *[SIJELO](#nimi-lawa-sijelo)* **non-cute animal**; **reptile**, **amphibian**; monster |
-| <img src="musi/sitelen/pona/ala.png" height="12">      | *[LILI KALAMA](#nimi-lili-kalama)*  | mu — a, **ala** | |
+| <img src="musi/sitelen/pona/ala.png" height="12">      | | mu — a, **ala** | *[KALAMA](#nimi-lili-kalama)* (negation); **no** |
 |                                                        | *[POKA PALISA](#nimi-poka-palisa)*  | **ala**, ale, ni, seme, wan | |
 |                                                        | | **ala**, ale, esun, luka, mute, tu, wan | *[NANPA](#nimi-poka-nanpa)* **zero** |
 |                                                        | *[PONA](#nimi-pona)*                | **ala**, lon | |
@@ -1739,7 +1739,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/ike.png" height="12">      | *[PONA](#nimi-pona)*                | pona — **ike**, nasa, utala | |
 | <img src="musi/sitelen/pona/ilo.png" height="12">      | *[LAWA IJO](#nimi-lawa-ijo)*        | **ilo** — pakala | |
 | <img src="musi/sitelen/pona/insa.png" height="12">     | *[LAWA NASIN](#nimi-lawa-nasin)*    | weka — **insa**, poka, sin | |
-| <img src="musi/sitelen/pona/jaki.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | **jaki** — suwi | **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** — *[LAWA IJO](#nimi-lawa-ijo)* dirt, poison, waste |
+| <img src="musi/sitelen/pona/jaki.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | **jaki** — suwi | **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** — *[IJO](#nimi-lawa-ijo)* dirt, poison, waste |
 | <img src="musi/sitelen/pona/jan.png" height="12">      | *[LAWA PONA](#nimi-lawa-pona)*      | ijo — **jan** | |
 | <img src="musi/sitelen/pona/jelo.png" height="12">     | *[PONA](#nimi-pona)*                | **jelo**, laso, loje | |
 | <img src="musi/sitelen/pona/jo.png" height="12">       | *[WAWA PONA](#nimi-wawa-pona)*      | **jo**, pana | |
@@ -1785,7 +1785,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/moku.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | **moku** | |
 | <img src="musi/sitelen/pona/moli.png" height="12">     | *[PONA](#nimi-pona)*                | lape, **moli**, musi | |
 | <img src="musi/sitelen/pona/monsi.png" height="12">    | *[LAWA NASIN](#nimi-lawa-nasin)*    | poka — **monsi**, sinpin | |
-| <img src="musi/sitelen/pona/mu.png" height="12">       | *[LILI KALAMA](#nimi-lili-kalama)*  | **mu** — a, ala | |
+| <img src="musi/sitelen/pona/mu.png" height="12">       | | **mu** — a, ala | *[KALAMA](#nimi-lili-kalama)* **(animal noise or communication)**, (indifference); sort-of |
 | <img src="musi/sitelen/pona/mun.png" height="12">      | *[LAWA IJO](#nimi-lawa-ijo)*        | ma, **mun** | |
 | <img src="musi/sitelen/pona/musi.png" height="12">     | *[PONA](#nimi-pona)*                | lape, moli, **musi** | |
 | <img src="musi/sitelen/pona/mute.png" height="12">     | *[PONA](#nimi-pona)*                | lili — **mute**, suli, wawa | **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
