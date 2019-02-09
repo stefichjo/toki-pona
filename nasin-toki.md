@@ -1750,9 +1750,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/ken.png" height="12">      | *[WAWA POKA](#nimi-wawa-poka)*      | **ken**, lukin, open, sona, wile | |
 | <img src="musi/sitelen/pona/kepeken.png" height="12">  | *[POKA LUKA](#nimi-poka-luka)*      | esun, **kepeken** | |
 | <img src="musi/sitelen/pona/kili.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | **kili**, pan | |
-| <img src="musi/sitelen/pona/kiwen.png" height="12">    | *[LAWA IJO](#nimi-lawa-ijo)*        | **kiwen**, ko, kon, telo | |
-| <img src="musi/sitelen/pona/ko.png" height="12">       | *[LAWA IJO](#nimi-lawa-ijo)*        | kiwen, **ko**, kon, telo | |
-| <img src="musi/sitelen/pona/kon.png" height="12">      | *[LAWA IJO](#nimi-lawa-ijo)*        | kiwen, ko, **kon**, telo | |
+| <img src="musi/sitelen/pona/kiwen.png" height="12">    | | **kiwen**, ko, kon, telo | hard — *[IJO](#nimi-lawa-ijo)* **hard object**, **metal**, **rock**, **stone** |
+| <img src="musi/sitelen/pona/ko.png" height="12">       | | kiwen, **ko**, kon, telo | semi-solid — *[IJO](#nimi-lawa-ijo)* **clay**, **clinging form**, **dough**, **semi-solid**, **paste**, **powder** |
+| <img src="musi/sitelen/pona/kon.png" height="12">      | | kiwen, ko, **kon**, telo | hovering — *[IJO](#nimi-lawa-ijo)* **air**, **breath**; **essence**, **spirit**; **hidden reality**, **unseen agent** |
 | <img src="musi/sitelen/pona/kule.png" height="12">     | *[PONA](#nimi-pona)*                | kalama, **kule** | |
 |                                                        | *[PONA](#nimi-pona)*                | **kule**, walo | |
 | <img src="musi/sitelen/pona/kulupu.png" height="12">   | *[LAWA IJO](#nimi-lawa-ijo)*        | **kulupu** — sijelo | |
@@ -1838,11 +1838,11 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/suli.png" height="12">     | *[PONA](#nimi-pona)*                | lili — mute, **suli**, wawa | |
 | <img src="musi/sitelen/pona/suno.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | pimeja — **suno** | |
 | <img src="musi/sitelen/pona/supa.png" height="12">     | *[LAWA ILO](#nimi-lawa-ilo)*        | len, **supa** | |
-| <img src="musi/sitelen/pona/suwi.png" height="12">     | | jaki — **suwi** | **sweet**, **fragrant**; **cute**, **innocent**, **adorable** — *[IJO](#nimi-lawa-ijo)* sugar; sweets |
+| <img src="musi/sitelen/pona/suwi.png" height="12">     | | jaki — **suwi** | **sweet**, **fragrant**; **cute**, **innocent**, **adorable** — *[IJO](#nimi-lawa-ijo)* sweets |
 | <img src="musi/sitelen/pona/tan.png" height="12">      | *[POKA LUKA](#nimi-poka-luka)*      | lon, **tan**, tawa | |
 | <img src="musi/sitelen/pona/taso.png" height="12">     | *[POKA LUKA](#nimi-poka-luka)*      | pu — **taso** | |
 | <img src="musi/sitelen/pona/tawa.png" height="12">     | *[POKA LUKA](#nimi-poka-luka)*      | lon, tan, **tawa** | |
-| <img src="musi/sitelen/pona/telo.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | kiwen, ko, kon, **telo** | |
+| <img src="musi/sitelen/pona/telo.png" height="12">     | | kiwen, ko, kon, **telo** | liquid, fluid, wet — *[IJO](#nimi-lawa-ijo)* **water**, **liquid**, **fluid**, **wet substance**; **beverage** |
 | <img src="musi/sitelen/pona/tenpo.png" height="12">    | *[LAWA IJO](#nimi-lawa-ijo)*        | **tenpo** | |
 | <img src="musi/sitelen/pona/toki.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | nanpa, nimi, sitelen, sona, **toki** | |
 | <img src="musi/sitelen/pona/tomo.png" height="12">     | *[LAWA ILO](#nimi-lawa-ilo)*        | poki, **tomo** | |
