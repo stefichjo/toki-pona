@@ -1746,10 +1746,10 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/kala.png" height="12">     | | **kala**, kasi, pipi, waso | swimming — *[SIJELO](#nimi-lawa-sijelo)* **fish**, **marine animal**, **sea creature** |
 | <img src="musi/sitelen/pona/kalama.png" height="12">   | *[PONA](#nimi-pona)*                | **kalama**, kule | |
 | <img src="musi/sitelen/pona/kama.png" height="12">     | *[WAWA POKA](#nimi-wawa-poka)*      | awen, **kama**, pini | |
-| <img src="musi/sitelen/pona/kasi.png" height="12">     | | kala, **kasi**, pipi, waso | growing — *[SIJELO](#nimi-lawa-sijelo)* **plant**, **vegetation**; **herb**, **leaf** |
+| <img src="musi/sitelen/pona/kasi.png" height="12">     | | kala, **kasi**, pipi, waso | vegetating — *[SIJELO](#nimi-lawa-sijelo)* **plant**, **vegetation**; **herb**, **leaf** |
 | <img src="musi/sitelen/pona/ken.png" height="12">      | *[WAWA POKA](#nimi-wawa-poka)*      | **ken**, lukin, open, sona, wile | |
 | <img src="musi/sitelen/pona/kepeken.png" height="12">  | *[POKA LUKA](#nimi-poka-luka)*      | esun, **kepeken** | |
-| <img src="musi/sitelen/pona/kili.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | **kili**, pan | |
+| <img src="musi/sitelen/pona/kili.png" height="12">     | | **kili**, pan | hanging — *[IJO](#nimi-lawa-ijo)* **fruit**, **vegetable**, **mushroom** |
 | <img src="musi/sitelen/pona/kiwen.png" height="12">    | | **kiwen**, ko, kon, telo | hard — *[IJO](#nimi-lawa-ijo)* **hard object**, **metal**, **rock**, **stone** |
 | <img src="musi/sitelen/pona/ko.png" height="12">       | | kiwen, **ko**, kon, telo | semi-solid — *[IJO](#nimi-lawa-ijo)* **clay**, **clinging form**, **dough**, **semi-solid**, **paste**, **powder** |
 | <img src="musi/sitelen/pona/kon.png" height="12">      | | kiwen, ko, **kon**, telo | hovering — *[IJO](#nimi-lawa-ijo)* **air**, **breath**; **essence**, **spirit**; **hidden reality**, **unseen agent** |
@@ -1807,7 +1807,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/pali.png" height="12">     | *[WAWA PONA](#nimi-wawa-pona)*      | alasa, **pali** | |
 | <img src="musi/sitelen/pona/palisa.png" height="12">   | *[LAWA IJO](#nimi-lawa-ijo)*        | linja — **palisa** | |
 |                                                        | | kute, lawa, luka, lukin, noka, **palisa**, pilin, selo, uta | to point to — *[ILO SIJELO](#nimi-lawa-ilo)* finger |
-| <img src="musi/sitelen/pona/pan.png" height="12">      | *[LAWA IJO](#nimi-lawa-ijo)*        | kili, **pan** | |
+| <img src="musi/sitelen/pona/pan.png" height="12">      | | kili, **pan** | falling — *[IJO](#nimi-lawa-ijo)* **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** |
 | <img src="musi/sitelen/pona/pana.png" height="12">     | *[WAWA PONA](#nimi-wawa-pona)*      | jo, **pana** | |
 | <img src="musi/sitelen/pona/pi.png" height="12">       | *[LILI LUKA](#nimi-lili-luka)*      | e, li, o, **pi** | |
 | <img src="musi/sitelen/pona/pilin.png" height="12">    | | kute, lawa, luka, lukin, noka, palisa, **pilin**, selo, uta | **feeling (an emotion, a direct experience)** ­— *[ILO SIJELO](#nimi-lawa-ilo)* **heart (physical or emotional)** |
