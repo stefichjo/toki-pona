@@ -1837,7 +1837,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/soweli.png" height="12">   | | akesi — **soweli** | warm-blooded — *[SIJELO](#nimi-lawa-sijelo)* **animal**, **beast**, **land mammal** |
 | <img src="musi/sitelen/pona/suli.png" height="12">     | *[PONA](#nimi-pona)*                | lili — mute, **suli**, wawa | |
 | <img src="musi/sitelen/pona/suno.png" height="12">     | | pimeja — **suno** | bright, lit — *[IJO](#nimi-lawa-ijo)* **sun**; **light**, **brightness**, **glow**, **radiance**, **shine**; **light source** |
-| <img src="musi/sitelen/pona/supa.png" height="12">     | | len, **supa** | — *[ILO](#nimi-lawa-ilo)* **horizontal surface**, **thing to put or rest something on** |
+| <img src="musi/sitelen/pona/supa.png" height="12">     | | **supa** | … — **horizontal surface**, **thing to put or rest something on** |
 | <img src="musi/sitelen/pona/suwi.png" height="12">     | | jaki — **suwi** | **sweet**, **fragrant**; **cute**, **innocent**, **adorable** — *[IJO](#nimi-lawa-ijo)* sweets |
 | <img src="musi/sitelen/pona/tan.png" height="12">      | *[POKA LUKA](#nimi-poka-luka)*      | lon, **tan**, tawa | |
 | <img src="musi/sitelen/pona/taso.png" height="12">     | *[POKA LUKA](#nimi-poka-luka)*      | pu — **taso** | |
