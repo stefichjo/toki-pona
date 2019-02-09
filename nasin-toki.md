@@ -1853,7 +1853,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/utala.png" height="12">    | *[PONA](#nimi-pona)*                | pona — ike, nasa, **utala** | |
 | <img src="musi/sitelen/pona/walo.png" height="12">     | *[PONA](#nimi-pona)*                | pimeja — **walo** | |
 | <img src="musi/sitelen/pona/wan.png" height="12">      | *[PONA](#nimi-pona)*                | tu — **wan** | |
-|                                                        | *[LAWA IJO](#nimi-lawa-ijo)*        | ale — **wan** | |
+|                                                        | | ale — **wan** | (- lili) partial, (- nasa) **unique**, (- wawa) **united** — *[IJO](#nimi-lawa-ijo)* part, piece, union |
 |                                                        | *[POKA NANPA](#nimi-poka-nanpa)*    | ala, ale, esun, luka, mute, tu, **wan** | **one** |
 |                                                        | *[POKA PALISA](#nimi-poka-palisa)*  | ala, ale, ni, seme, **wan** | |
 | <img src="musi/sitelen/pona/waso.png" height="12">     | | kala, kasi, pipi, **waso** | flying — *[SIJELO](#nimi-lawa-sijelo)* **bird**, **flying creature**, **winged animal** |
