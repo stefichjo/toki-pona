@@ -1744,7 +1744,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/jelo.png" height="12">     | | **jelo**, laso, loje | **yellow**, **yellowish** |
 | <img src="musi/sitelen/pona/jo.png" height="12">       | *[WAWA PONA](#nimi-wawa-pona)*      | **jo**, pana | |
 | <img src="musi/sitelen/pona/kala.png" height="12">     | | **kala**, kasi, pipi, waso | swimming — *[SIJELO](#nimi-lawa-sijelo)* **fish**, **marine animal**, **sea creature** |
-| <img src="musi/sitelen/pona/kalama.png" height="12">   | *[PONA](#nimi-pona)*                | **kalama**, kule | |
+| <img src="musi/sitelen/pona/kalama.png" height="12">   | | **kalama**, kule | sounding; **to produce a sound**; **recite**, **utter aloud** |
 | <img src="musi/sitelen/pona/kama.png" height="12">     | *[WAWA POKA](#nimi-wawa-poka)*      | awen, **kama**, pini | |
 | <img src="musi/sitelen/pona/kasi.png" height="12">     | | kala, **kasi**, pipi, waso | vegetating — *[SIJELO](#nimi-lawa-sijelo)* **plant**, **vegetation**; **herb**, **leaf** |
 | <img src="musi/sitelen/pona/ken.png" height="12">      | *[WAWA POKA](#nimi-wawa-poka)*      | **ken**, lukin, open, sona, wile | |
@@ -1753,8 +1753,8 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/kiwen.png" height="12">    | | **kiwen**, ko, kon, telo | hard — *[IJO](#nimi-lawa-ijo)* **hard object**, **metal**, **rock**, **stone** |
 | <img src="musi/sitelen/pona/ko.png" height="12">       | | kiwen, **ko**, kon, telo | semi-solid — *[IJO](#nimi-lawa-ijo)* **clay**, **clinging form**, **dough**, **semi-solid**, **paste**, **powder** |
 | <img src="musi/sitelen/pona/kon.png" height="12">      | | kiwen, ko, **kon**, telo | hovering — *[IJO](#nimi-lawa-ijo)* **air**, **breath**; **essence**, **spirit**; **hidden reality**, **unseen agent** |
-| <img src="musi/sitelen/pona/kule.png" height="12">     | *[PONA](#nimi-pona)*                | kalama, **kule** | |
-|                                                        | *[PONA](#nimi-pona)*                | **kule**, walo | |
+| <img src="musi/sitelen/pona/kule.png" height="12">     | | kalama, **kule** | **colourful**, **painted** |
+|                                                        | | **kule** — walo | brown, **pigmented** |
 | <img src="musi/sitelen/pona/kulupu.png" height="12">   | | **kulupu** — sijelo | interactive, reciprocal — *[IJO](#nimi-lawa-ijo)* **community**, **company**, **group**, **nation**, relation, **society**, **tribe**  |
 | <img src="musi/sitelen/pona/kute.png" height="12">     | | **kute**, lawa, len, luka, lukin, noka, palisa, pilin, selo, uta | **to hear**, **listen**; **pay attention to**, **obey** — *[ILO](#nimi-lawa-ilo)* **ear** |
 | <img src="musi/sitelen/pona/la.png" height="12">       | | **la** | **(between the context phrase and the main sentence)** |
@@ -1852,7 +1852,8 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/unpa.png" height="12">     | *[WAWA PONA](#nimi-wawa-pona)*      | olin, **unpa** | |
 | <img src="musi/sitelen/pona/uta.png" height="12">      | | kute, lawa, len, luka, lukin, noka, palisa, pilin, selo, **uta** | to suck, kiss — *[ILO](#nimi-lawa-ilo)* **mouth**, **lips**, **oral cavity**, **jaw** |
 | <img src="musi/sitelen/pona/utala.png" height="12">    | | pona — ike, nasa, **utala** | aggressive; **to battle**, **challenge**, **compete against**, **struggle against** |
-| <img src="musi/sitelen/pona/walo.png" height="12">     | *[PONA](#nimi-pona)*                | pimeja — **walo** | |
+| <img src="musi/sitelen/pona/walo.png" height="12">     | | pimeja — **walo** | **white**, **whitish** |
+|                                                        | | kule — **walo** | **light-coloured**, **pale**, unpigmented |
 | <img src="musi/sitelen/pona/wan.png" height="12">      | *[PONA](#nimi-pona)*                | tu — **wan** | |
 |                                                        | | ale — **wan** | (- lili) partial, (- nasa) **unique**, (- wawa) **united** — *[IJO](#nimi-lawa-ijo)* (- lili) part, (- lili) piece, (- wawa) union |
 |                                                        | | ala, ale, esun, luka, mute, tu, **wan** | 1, **one** |
