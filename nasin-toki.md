@@ -1820,8 +1820,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |                                                        | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **pimeja** — suno | **dark**, **unlit** — shadow |
 | <img src="musi/sitelen/pona/pini.png" height="12">     | *WAWA* | *[POKA](#nimi-wawa-poka)*      | awen, kama, **pini** | |
 | <img src="musi/sitelen/pona/pipi.png" height="12">     | *[LAWA](#nimi-lawa)* | *[SIJELO](#nimi-lawa-sijelo)* | kala, kasi, **pipi**, waso | crawling — **bug**, **insect**, **ant**, **spider** |
-| <img src="musi/sitelen/pona/poka.png" height="12">     | *[LAWA](#nimi-lawa)* | *[NASIN](#nimi-lawa-nasin)* | **poka** — monsi, sinpin | |
-adjacent — **hip**, **side** |                                                        | *[LAWA](#nimi-lawa)* | *[NASIN](#nimi-lawa-nasin)* | weka — insa, **poka**, sin | near, **nearby**, neighbouring — **next to**, **vicinity** |
+| <img src="musi/sitelen/pona/poka.png" height="12">     | *[LAWA](#nimi-lawa)* | *[NASIN](#nimi-lawa-nasin)* | **poka** — monsi, sinpin |
+adjacent — **hip**, **side** |
+|                                                        | *[LAWA](#nimi-lawa)* | *[NASIN](#nimi-lawa-nasin)* | weka — insa, **poka**, sin | near, **nearby**, neighbouring — **next to**, **vicinity** |
 | <img src="musi/sitelen/pona/poki.png" height="12">     | *[LAWA](#nimi-lawa)* | *[ILO](#nimi-lawa-ilo)* | kute, lawa, len, luka, lukin, noka, palisa, pilin, **poki**, selo, tomo, uta | to contain, keep, be full of — bladder; **container**, **bag**, **bowl**, **box**, **cup**, **cupboard**, **drawer**, **vessel** |
 | <img src="musi/sitelen/pona/pona.png" height="12">     | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | **pona** – ike, nasa, pakala, utala | |
 | <img src="musi/sitelen/pona/pu.png" height="12">       | | | **pu** — taso | accordingly — according to, following, depending on; **interacting with the Toki Pona book** |
