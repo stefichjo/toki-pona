@@ -1757,7 +1757,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |                                                        | *[PONA](#nimi-pona)*                | **kule**, walo | |
 | <img src="musi/sitelen/pona/kulupu.png" height="12">   | | **kulupu** — sijelo | interactive, reciprocal — *[IJO](#nimi-lawa-ijo)* **community**, **company**, **group**, **nation**, relation, **society**, **tribe**  |
 | <img src="musi/sitelen/pona/kute.png" height="12">     | | **kute**, lawa, len, luka, lukin, noka, palisa, pilin, selo, uta | **to hear**, **listen**; **pay attention to**, **obey** — *[ILO](#nimi-lawa-ilo)* **ear** |
-| <img src="musi/sitelen/pona/la.png" height="12">       | *[LILI LUKA](#nimi-lili-luka)*      | **la** | |
+| <img src="musi/sitelen/pona/la.png" height="12">       | | **la** | **(between the context phrase and the main sentence)** |
 | <img src="musi/sitelen/pona/lape.png" height="12">     | *[PONA](#nimi-pona)*                | **lape**, moli, musi | |
 | <img src="musi/sitelen/pona/laso.png" height="12">     | *[PONA](#nimi-pona)*                | jelo, **laso**, loje | |
 | <img src="musi/sitelen/pona/lawa.png" height="12">     | | kute, **lawa**, len, luka, lukin, noka, palisa, pilin, selo, uta | **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule** — *[ILO](#nimi-lawa-ilo)* **head**, **mind** |
