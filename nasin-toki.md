@@ -1832,7 +1832,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/seme.png" height="12">     | *[POKA](#nimi-poka)* | *[PALISA](#nimi-poka-palisa)* | ala, ale, ni, **seme**, wan | **which?** — **what?**, which one? |
 | <img src="musi/sitelen/pona/sewi.png" height="12">     | *LAWA* | *[NASIN](#nimi-lawa-nasin)*    | anpa — **sewi**, lawa — noka | |
 | <img src="musi/sitelen/pona/sijelo.png" height="12">   | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | kulupu — **sijelo** | healthy, living, sustainable — **body (of person or animal)**, health, **physical state**, **torso** |
-| <img src="musi/sitelen/pona/sike.png" height="12">     | | | lipu, nena, **sike** | round or circular, (- suno) **of one year** — **round or circular thing**; **ball**, **circle**, **cycle**, **sphere**, **wheel** |
+| <img src="musi/sitelen/pona/sike.png" height="12">     | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | lipu, nena, **sike** | round or circular; complete, (- suno) **of one year** — **round or circular thing**; **ball**, **circle**, **cycle**, **sphere**, **wheel** |
 | <img src="musi/sitelen/pona/sin.png" height="12">      | *LAWA* | *[NASIN](#nimi-lawa-nasin)*    | weka — insa, poka, **sin** | |
 | <img src="musi/sitelen/pona/sina.png" height="12">     | *[LAWA](#nimi-lawa)* | *[ESUN](#nimi-lawa-esun)* | mi, ona, **sina** | **you** |
 | <img src="musi/sitelen/pona/sinpin.png" height="12">   | *LAWA* | *[NASIN](#nimi-lawa-nasin)*    | poka — monsi, **sinpin** | |
