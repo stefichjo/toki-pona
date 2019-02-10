@@ -1715,7 +1715,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 # ale pi nimi mute
 *(Vortaro — Dictionary)*
 
-| | | | | |
+| | | | kulupu | kon |
 |:-|:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/a.png" height="12">        | | | mu — **a**, ala | **(emphasis, emotion or confirmation)** — yes! |
 | <img src="musi/sitelen/pona/akesi.png" height="12">    | | | **akesi** — soweli | cold-blooded — *[SIJELO](#nimi-lawa-sijelo)* **non-cute animal**; **reptile**, **amphibian**; monster |
