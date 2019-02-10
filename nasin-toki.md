@@ -1778,7 +1778,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/lupa.png" height="12">     | | **lupa**, nasin | thick, extended, hollow — *[IJO](#nimi-lawa-ijo)* (- tomo) **door**, **hole**, **orifice**, (- suno) **window** |
 | <img src="musi/sitelen/pona/ma.png" height="12">       | *[LAWA IJO](#nimi-lawa-ijo)*        | **ma**, mun | |
 | <img src="musi/sitelen/pona/mama.png" height="12">     | | **mama** | original — *[JAN](#nimi-lawa-jan)* **parent**, **ancestor**; **creator**, **originator**; **caretaker**, **sustainer** |
-| <img src="musi/sitelen/pona/mani.png" height="12">     | *[LAWA IJO](#nimi-lawa-ijo)*        | **mani** | |
+| <img src="musi/sitelen/pona/mani.png" height="12">     | | **mani** | domesticated, mined; valueable — *[IJO](#nimi-lawa-ijo)* **large domesticated animal**, resource; **money**, **cash**, **savings**, **wealth** |
 | <img src="musi/sitelen/pona/meli.png" height="12">     | | **meli** — mije | female — *[JAN](#nimi-lawa-jan)* **woman**, **female**, **feminine person**; **wife** |
 | <img src="musi/sitelen/pona/mi.png" height="12">       | *[ESUN](#nimi-lawa-esun)*           | **mi**, ona, sina | |
 | <img src="musi/sitelen/pona/mije.png" height="12">     | | meli — **mije** | male — *[JAN](#nimi-lawa-jan)* **man**, **male**, **masculine person**; **husband** |
