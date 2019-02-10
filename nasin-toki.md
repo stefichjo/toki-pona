@@ -1715,7 +1715,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 # ale pi nimi mute
 *(Vortaro — Dictionary)*
 
-| | | | kulupu | kon |
+| | | | | |
 |:-|:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/a.png" height="12">        | | | mu — **a**, ala | **(emphasis, emotion or confirmation)** — yes! |
 | <img src="musi/sitelen/pona/akesi.png" height="12">    | *[LAWA](#nimi-lawa)* | *[SIJELO](#nimi-lawa-sijelo)* | **akesi** — soweli | cold-blooded — **non-cute animal**; **reptile**, **amphibian**; monster |
@@ -1780,7 +1780,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/mama.png" height="12">     | *[LAWA](#nimi-lawa)* | *[JAN](#nimi-lawa-jan)* | **mama** | original — **parent**, **ancestor**; **creator**, **originator**; **caretaker**, **sustainer** |
 | <img src="musi/sitelen/pona/mani.png" height="12">     | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **mani** | domesticated, mined; valueable — **large domesticated animal**, resource; **money**, **cash**, **savings**, **wealth** |
 | <img src="musi/sitelen/pona/meli.png" height="12">     | *[LAWA](#nimi-lawa)* | *[JAN](#nimi-lawa-jan)* | **meli** — mije | female — **woman**, **female**, **feminine person**; **wife** |
-| <img src="musi/sitelen/pona/mi.png" height="12">       | | | **mi**, ona, sina | **I**, **me**, **we**, **us** |
+| <img src="musi/sitelen/pona/mi.png" height="12">       | *[LAWA](#nimi-lawa)* | *[ESUN](#nimi-lawa-esun)* | **mi**, ona, sina | **I**, **me**, **we**, **us** |
 | <img src="musi/sitelen/pona/mije.png" height="12">     | *[LAWA](#nimi-lawa)* | *[JAN](#nimi-lawa-jan)* | meli — **mije** | male — **man**, **male**, **masculine person**; **husband** |
 | <img src="musi/sitelen/pona/moku.png" height="12">     | *LAWA* | *[PALI](#nimi-lawa-pali)*      | **moku** | |
 | <img src="musi/sitelen/pona/moli.png" height="12">     | | | lape, **moli**, musi | **dead**, (kama -) **dying** |
@@ -1800,7 +1800,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |                                                        | *LAWA* | *[NASIN](#nimi-lawa-nasin)*    | anpa — sewi, lawa — **noka** | |
 | <img src="musi/sitelen/pona/o.png" height="12">        | | | e, li, **o**, pi | **(vocative or imperative)**, **hey!**, **O!** |
 | <img src="musi/sitelen/pona/olin.png" height="12">     | *WAWA* | *[PONA](#nimi-wawa-pona)*      | **olin**, unpa | |
-| <img src="musi/sitelen/pona/ona.png" height="12">      | | | mi, **ona**, sina | **he**, him, **she**, her, **it**, **they**, them |
+| <img src="musi/sitelen/pona/ona.png" height="12">      | *[LAWA](#nimi-lawa)* | *[ESUN](#nimi-lawa-esun)* | mi, **ona**, sina | **he**, him, **she**, her, **it**, **they**, them |
 | <img src="musi/sitelen/pona/open.png" height="12">     | | | **open** — selo | **open**, ready; **to begin**, **start**; **turn on** |
 |                                                        | *WAWA* | *[POKA](#nimi-wawa-poka)*      | ken, lukin, **open**, sona, wile | |
 | <img src="musi/sitelen/pona/pakala.png" height="12">   | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | ilo — **pakala** | useless; **botched**, **broken**, **damaged**, **harmed**, **messed up** — tumor, wound; damage |
@@ -1830,7 +1830,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/sijelo.png" height="12">   | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | kulupu — **sijelo** | healthy, living, sustainable — **body (of person or animal)**, health, **physical state**, **torso** |
 | <img src="musi/sitelen/pona/sike.png" height="12">     | | | lipu, nena, **sike** | round or circular, (- suno) **of one year** — **round or circular thing**; **ball**, **circle**, **cycle**, **sphere**, **wheel** |
 | <img src="musi/sitelen/pona/sin.png" height="12">      | *LAWA* | *[NASIN](#nimi-lawa-nasin)*    | weka — insa, poka, **sin** | |
-| <img src="musi/sitelen/pona/sina.png" height="12">     | | | mi, ona, **sina** | **you** |
+| <img src="musi/sitelen/pona/sina.png" height="12">     | *[LAWA](#nimi-lawa)* | *[ESUN](#nimi-lawa-esun)* | mi, ona, **sina** | **you** |
 | <img src="musi/sitelen/pona/sinpin.png" height="12">   | *LAWA* | *[NASIN](#nimi-lawa-nasin)*    | poka — monsi, **sinpin** | |
 | <img src="musi/sitelen/pona/sitelen.png" height="12">  | *LAWA* | *[PALI](#nimi-lawa-pali)*      | nanpa, nimi, **sitelen**, sona, toki | |
 | <img src="musi/sitelen/pona/sona.png" height="12">     | *LAWA* | *[PALI](#nimi-lawa-pali)*      | nanpa, nimi, sitelen, **sona**, toki | |
