@@ -1812,8 +1812,8 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/pana.png" height="12">     | *[WAWA PONA](#nimi-wawa-pona)*      | jo, **pana** | |
 | <img src="musi/sitelen/pona/pi.png" height="12">       | | e, li, o, **pi** | (…), **of** |
 | <img src="musi/sitelen/pona/pilin.png" height="12">    | | kute, lawa, len, luka, lukin, noka, palisa, **pilin**, selo, uta | **feeling (an emotion, a direct experience)** ­— *[ILO](#nimi-lawa-ilo)* **heart (physical or emotional)** |
-| <img src="musi/sitelen/pona/pimeja.png" height="12">   | *[PONA](#nimi-pona)*                | **pimeja** — walo | |
-|                                                        | | **pimeja** — suno | **black**, **dark**, **unlit** — *[IJO](#nimi-lawa-ijo)* shadow |
+| <img src="musi/sitelen/pona/pimeja.png" height="12">   | | **pimeja** — walo | **black** |
+|                                                        | | **pimeja** — suno | **dark**, **unlit** — *[IJO](#nimi-lawa-ijo)* shadow |
 | <img src="musi/sitelen/pona/pini.png" height="12">     | *[WAWA POKA](#nimi-wawa-poka)*      | awen, kama, **pini** | |
 | <img src="musi/sitelen/pona/pipi.png" height="12">     | | kala, kasi, **pipi**, waso | crawling — *[SIJELO](#nimi-lawa-sijelo)* **bug**, **insect**, **ant**, **spider** |
 | <img src="musi/sitelen/pona/poka.png" height="12">     | *[LAWA NASIN](#nimi-lawa-nasin)*    | **poka** — monsi, sinpin | |
