@@ -1769,7 +1769,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/linja.png" height="12">    | | **linja** — palisa | long and flexible — *[IJO](#nimi-lawa-ijo)* **long and flexible thing**; **cord**, **hair**, **rope**, **thread**, **yarn** |
 | <img src="musi/sitelen/pona/lipu.png" height="12">     | | **lipu**, nena, sike | flat — *[IJO](#nimi-lawa-ijo)* **flat object**; **book**, **document**, **card**, **paper**, **record**, **website** |
 | <img src="musi/sitelen/pona/loje.png" height="12">     | *[PONA](#nimi-pona)*                | jelo, laso, **loje** | |
-| <img src="musi/sitelen/pona/lon.png" height="12">      | *[POKA LUKA](#nimi-poka-luka)*      | **lon**, tan, tawa | |
+| <img src="musi/sitelen/pona/lon.png" height="12">      | | **lon**, tan, tawa | being present — **located at**, **present at** |
 |                                                        | | ala, **lon** | **real**, **true**, **existing** |
 | <img src="musi/sitelen/pona/luka.png" height="12">     | | kute, lawa, len, **luka**, lukin, noka, palisa, pilin, selo, uta | to touch — *[ILO](#nimi-lawa-ilo)* **arm**, **hand**, **tactile organ** |
 |                                                        | | ala, ale, esun, **luka**, mute, tu, wan | 5, **five** |
@@ -1839,9 +1839,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/suno.png" height="12">     | | pimeja — **suno** | bright, lit — *[IJO](#nimi-lawa-ijo)* **sun**; **light**, **brightness**, **glow**, **radiance**, **shine**; **light source** |
 | <img src="musi/sitelen/pona/supa.png" height="12">     | | **supa** | … — **horizontal surface**, **thing to put or rest something on** |
 | <img src="musi/sitelen/pona/suwi.png" height="12">     | | jaki — **suwi** | **sweet**, **fragrant**; **cute**, **innocent**, **adorable** — *[IJO](#nimi-lawa-ijo)* sweets |
-| <img src="musi/sitelen/pona/tan.png" height="12">      | *[POKA LUKA](#nimi-poka-luka)*      | lon, **tan**, tawa | |
+| <img src="musi/sitelen/pona/tan.png" height="12">      | | lon, **tan**, tawa | departing — **by**, **from**, **because of** |
 | <img src="musi/sitelen/pona/taso.png" height="12">     | *[POKA LUKA](#nimi-poka-luka)*      | pu — **taso** | |
-| <img src="musi/sitelen/pona/tawa.png" height="12">     | *[POKA LUKA](#nimi-poka-luka)*      | lon, tan, **tawa** | |
+| <img src="musi/sitelen/pona/tawa.png" height="12">     | | lon, tan, **tawa** | going, moving — **going to**, **toward**; **for**; **from the perspective of** |
 | <img src="musi/sitelen/pona/telo.png" height="12">     | | kiwen, ko, kon, **telo** | liquid, fluid, wet — *[IJO](#nimi-lawa-ijo)* **water**, **liquid**, **fluid**, **wet substance**; **beverage** |
 | <img src="musi/sitelen/pona/tenpo.png" height="12">    | | **tenpo** | … — *[IJO](#nimi-lawa-ijo)* **time**, **duration**, **moment**, **occasion**, **period**, **situation** |
 | <img src="musi/sitelen/pona/toki.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | nanpa, nimi, sitelen, sona, **toki** | |
