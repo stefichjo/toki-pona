@@ -1723,7 +1723,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |                                                        | | **ala**, ale, ni, seme, wan | **not** — none, nothing |
 |                                                        | | **ala**, ale, esun, luka, mute, tu, wan | 0, **zero** |
 |                                                        | | **ala**, lon | non-, false |
-| <img src="musi/sitelen/pona/alasa.png" height="12">    | *[WAWA PONA](#nimi-wawa-pona)*      | **alasa**, pali | |
+| <img src="musi/sitelen/pona/alasa.png" height="12">    | | **alasa**, pali | **to hunt**, **forage** |
 | <img src="musi/sitelen/pona/ale.png" height="12">      | | **ale** — wan | whole; **abundant**, **countless**, **bountiful**, **plentiful** — *[IJO](#nimi-lawa-ijo)* ensemble; **abundance**, **life**, **universe** |
 |                                                        | | ala, **ale**, ni, seme, wan | **all**; **every** — **everything** |
 |                                                        | | ala, **ale**, esun, luka, mute, tu, wan | **100**, a hundred, infinite |
@@ -1804,7 +1804,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/open.png" height="12">     | *[PONA](#nimi-pona)*                | **open** — selo | |
 |                                                        | *[WAWA POKA](#nimi-wawa-poka)*      | ken, lukin, **open**, sona, wile | |
 | <img src="musi/sitelen/pona/pakala.png" height="12">   | | ilo — **pakala** | useless; **botched**, **broken**, **damaged**, **harmed**, **messed up** — *[IJO](#nimi-lawa-ijo)* tumor, wound; damage |
-| <img src="musi/sitelen/pona/pali.png" height="12">     | *[WAWA PONA](#nimi-wawa-pona)*      | alasa, **pali** | |
+| <img src="musi/sitelen/pona/pali.png" height="12">     | | alasa, **pali** | **to do**, **take action on**, **work on**; (- ale) **build**, **make**, **prepare** |
 | <img src="musi/sitelen/pona/palisa.png" height="12">   | | linja — **palisa** | long and hard — *[IJO](#nimi-lawa-ijo)* **long hard thing**; **branch**, **rod**, **stick** |
 |                                                        | | kute, lawa, len, luka, lukin, noka, **palisa**, pilin, selo, uta | to point to — *[ILO](#nimi-lawa-ilo)* finger |
 | <img src="musi/sitelen/pona/pan.png" height="12">      | | kili, **pan** | falling — *[IJO](#nimi-lawa-ijo)* **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** |
