@@ -1736,12 +1736,12 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/esun.png" height="12">     | | **esun**, kepeken | interim, provisional; **business transaction**; **market**, **shop**, **fair**, **bazaar** — instead of |
 |                                                        | | ala, ale, **esun**, luka, mute, tu, wan | 7, seven |
 | <img src="musi/sitelen/pona/ijo.png" height="12">      | | **ijo** — jan | inconscious being; **thing**, **phenomenon**, **object**, **matter** |
-| <img src="musi/sitelen/pona/ike.png" height="12">      | *[PONA](#nimi-pona)*                | pona — **ike**, nasa, utala | |
+| <img src="musi/sitelen/pona/ike.png" height="12">      | | pona — **ike**, nasa, pakala, utala | **bad**, **negative**; (sin -) **non-essential**, (sin -) **irrelevant** |
 | <img src="musi/sitelen/pona/ilo.png" height="12">      | | **ilo** — pakala | useful — *[IJO](#nimi-lawa-ijo)* organ; **tool**, **implement**, **machine**, **device** |
 | <img src="musi/sitelen/pona/insa.png" height="12">     | *[LAWA NASIN](#nimi-lawa-nasin)*    | weka — **insa**, poka, sin | |
 | <img src="musi/sitelen/pona/jaki.png" height="12">     | | **jaki** — suwi | **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** — *[IJO](#nimi-lawa-ijo)* dirt, poison, waste |
 | <img src="musi/sitelen/pona/jan.png" height="12">      | | ijo — **jan** | conscious being; **human being**, **person**, **somebody** |
-| <img src="musi/sitelen/pona/jelo.png" height="12">     | *[PONA](#nimi-pona)*                | **jelo**, laso, loje | |
+| <img src="musi/sitelen/pona/jelo.png" height="12">     | | **jelo**, laso, loje | **yellow**, **yellowish** |
 | <img src="musi/sitelen/pona/jo.png" height="12">       | *[WAWA PONA](#nimi-wawa-pona)*      | **jo**, pana | |
 | <img src="musi/sitelen/pona/kala.png" height="12">     | | **kala**, kasi, pipi, waso | swimming — *[SIJELO](#nimi-lawa-sijelo)* **fish**, **marine animal**, **sea creature** |
 | <img src="musi/sitelen/pona/kalama.png" height="12">   | *[PONA](#nimi-pona)*                | **kalama**, kule | |
@@ -1759,7 +1759,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/kute.png" height="12">     | | **kute**, lawa, len, luka, lukin, noka, palisa, pilin, selo, uta | **to hear**, **listen**; **pay attention to**, **obey** — *[ILO](#nimi-lawa-ilo)* **ear** |
 | <img src="musi/sitelen/pona/la.png" height="12">       | | **la** | **(between the context phrase and the main sentence)** |
 | <img src="musi/sitelen/pona/lape.png" height="12">     | *[PONA](#nimi-pona)*                | **lape**, moli, musi | |
-| <img src="musi/sitelen/pona/laso.png" height="12">     | *[PONA](#nimi-pona)*                | jelo, **laso**, loje | |
+| <img src="musi/sitelen/pona/laso.png" height="12">     | | jelo, **laso**, loje | **blue**, **green**; pale |
 | <img src="musi/sitelen/pona/lawa.png" height="12">     | | kute, **lawa**, len, luka, lukin, noka, palisa, pilin, selo, uta | **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule** — *[ILO](#nimi-lawa-ilo)* **head**, **mind** |
 |                                                        | *[LAWA NASIN](#nimi-lawa-nasin)*    | anpa — sewi, **lawa** — noka | |
 | <img src="musi/sitelen/pona/len.png" height="12">      | | kute, lawa, **len**, luka, lukin, noka, palisa, pilin, selo, uta | to cover, hide — *[ILO](#nimi-lawa-ilo)* **cloth**, **clothing**, **fabric**, **textile**; **cover**, **layer of privacy** |
@@ -1768,7 +1768,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/lili.png" height="12">     | *[PONA](#nimi-pona)*                | **lili** — mute, suli, wawa | |
 | <img src="musi/sitelen/pona/linja.png" height="12">    | | **linja** — palisa | long and flexible — *[IJO](#nimi-lawa-ijo)* **long and flexible thing**; **cord**, **hair**, **rope**, **thread**, **yarn** |
 | <img src="musi/sitelen/pona/lipu.png" height="12">     | | **lipu**, nena, sike | flat — *[IJO](#nimi-lawa-ijo)* **flat object**; **book**, **document**, **card**, **paper**, **record**, **website** |
-| <img src="musi/sitelen/pona/loje.png" height="12">     | *[PONA](#nimi-pona)*                | jelo, laso, **loje** | |
+| <img src="musi/sitelen/pona/loje.png" height="12">     | | jelo, laso, **loje** | **red**, **reddish** |
 | <img src="musi/sitelen/pona/lon.png" height="12">      | | **lon**, tan, tawa | being present — **located at**, **present at** |
 |                                                        | | ala, **lon** | **real**, **true**, **existing** |
 | <img src="musi/sitelen/pona/luka.png" height="12">     | | kute, lawa, len, **luka**, lukin, noka, palisa, pilin, selo, uta | to touch — *[ILO](#nimi-lawa-ilo)* **arm**, **hand**, **tactile organ** |
@@ -1791,7 +1791,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/mute.png" height="12">     | *[PONA](#nimi-pona)*                | lili — **mute**, suli, wawa | **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
 |                                                        | | ala, ale, esun, luka, **mute**, tu, wan | 3, three, 3+ |
 | <img src="musi/sitelen/pona/nanpa.png" height="12">    | *[LAWA PALI](#nimi-lawa-pali)*      | **nanpa**, nimi, sitelen, sona, toki | |
-| <img src="musi/sitelen/pona/nasa.png" height="12">     | *[PONA](#nimi-pona)*                | pona — ike, **nasa**, utala | |
+| <img src="musi/sitelen/pona/nasa.png" height="12">     | | pona — ike, **nasa**, utala | **unusual**, **strange**; **foolish**, **crazy**; **drunk**, **intoxicated** |
 | <img src="musi/sitelen/pona/nasin.png" height="12">    | | lupa, **nasin** | thin, elongated, cracked — *[IJO](#nimi-lawa-ijo)* line, solution; **way**, **custom**, **doctrine**, **method**, **path**, **road** |
 | <img src="musi/sitelen/pona/nena.png" height="12">     | | lipu, **nena**, sike | outstanding — *[IJO](#nimi-lawa-ijo)* bump, button, hill, mountain, nose, protuberance |
 | <img src="musi/sitelen/pona/ni.png" height="12">       | | ala, ale, **ni**, seme, wan | **that**, **this** — that one, this one |
@@ -1804,6 +1804,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/open.png" height="12">     | *[PONA](#nimi-pona)*                | **open** — selo | |
 |                                                        | *[WAWA POKA](#nimi-wawa-poka)*      | ken, lukin, **open**, sona, wile | |
 | <img src="musi/sitelen/pona/pakala.png" height="12">   | | ilo — **pakala** | useless; **botched**, **broken**, **damaged**, **harmed**, **messed up** — *[IJO](#nimi-lawa-ijo)* tumor, wound; damage |
+|                                                        | | pona — ike, nasa, **pakala**, utala | useless; **botched**, **broken**, **damaged**, **harmed**, **messed up** — *[IJO](#nimi-lawa-ijo)* tumor, wound; damage |
 | <img src="musi/sitelen/pona/pali.png" height="12">     | | alasa, **pali** | **to do**, **take action on**, **work on**; (- ale) **build**, **make**, **prepare** |
 | <img src="musi/sitelen/pona/palisa.png" height="12">   | | linja — **palisa** | long and hard — *[IJO](#nimi-lawa-ijo)* **long hard thing**; **branch**, **rod**, **stick** |
 |                                                        | | kute, lawa, len, luka, lukin, noka, **palisa**, pilin, selo, uta | to point to — *[ILO](#nimi-lawa-ilo)* finger |
@@ -1818,7 +1819,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/poka.png" height="12">     | *[LAWA NASIN](#nimi-lawa-nasin)*    | **poka** — monsi, sinpin | |
 |                                                        | *[LAWA NASIN](#nimi-lawa-nasin)*    | weka — insa, **poka**, sin | |
 | <img src="musi/sitelen/pona/poki.png" height="12">     | | **poki**, tomo | to contain, keep, be full of — *[ILO](#nimi-lawa-ilo)* bladder; **container**, **bag**, **bowl**, **box**, **cup**, **cupboard**, **drawer**, **vessel** |
-| <img src="musi/sitelen/pona/pona.png" height="12">     | *[PONA](#nimi-pona)*                | **pona** – ike, nasa, pakala, utala | |
+| <img src="musi/sitelen/pona/pona.png" height="12">     | | **pona** – ike, nasa, pakala, utala | |
 | <img src="musi/sitelen/pona/pu.png" height="12">       | *[POKA LUKA](#nimi-poka-luka)*      | **pu** — taso | |
 | <img src="musi/sitelen/pona/sama.png" height="12">     | | ante — **sama** | **same**, **similar**; **each other**; **sibling**, **peer**, **fellow** — **as**, **like** |
 | <img src="musi/sitelen/pona/seli.png" height="12">     | | lete — **seli** | warm; cooked — *[IJO](#nimi-lawa-ijo)* **fire**; **cooking element**, **chemical reaction**, **heat source** |
@@ -1850,7 +1851,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |                                                        | | ala, ale, esun, luka, mute, **tu**, wan | 2, **two** |
 | <img src="musi/sitelen/pona/unpa.png" height="12">     | *[WAWA PONA](#nimi-wawa-pona)*      | olin, **unpa** | |
 | <img src="musi/sitelen/pona/uta.png" height="12">      | | kute, lawa, len, luka, lukin, noka, palisa, pilin, selo, **uta** | to suck, kiss — *[ILO](#nimi-lawa-ilo)* **mouth**, **lips**, **oral cavity**, **jaw** |
-| <img src="musi/sitelen/pona/utala.png" height="12">    | *[PONA](#nimi-pona)*                | pona — ike, nasa, **utala** | |
+| <img src="musi/sitelen/pona/utala.png" height="12">    | | pona — ike, nasa, **utala** | aggressive; **to battle**, **challenge**, **compete against**, **struggle against** |
 | <img src="musi/sitelen/pona/walo.png" height="12">     | *[PONA](#nimi-pona)*                | pimeja — **walo** | |
 | <img src="musi/sitelen/pona/wan.png" height="12">      | *[PONA](#nimi-pona)*                | tu — **wan** | |
 |                                                        | | ale — **wan** | (- lili) partial, (- nasa) **unique**, (- wawa) **united** — *[IJO](#nimi-lawa-ijo)* (- lili) part, (- lili) piece, (- wawa) union |
