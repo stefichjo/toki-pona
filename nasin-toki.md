@@ -1733,7 +1733,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/awen.png" height="12">     | *[WAWA POKA](#nimi-wawa-poka)*      | **awen**, kama, pini | |
 | <img src="musi/sitelen/pona/e.png" height="12">        | | **e**, li, o, pi | **(before the direct object)** |
 | <img src="musi/sitelen/pona/en.png" height="12">       | | anu, **en** | **(between multiple subjects)** |
-| <img src="musi/sitelen/pona/esun.png" height="12">     | *[POKA LUKA](#nimi-poka-luka)*      | **esun**, kepeken | |
+| <img src="musi/sitelen/pona/esun.png" height="12">     | | **esun**, kepeken | interim, provisional; **business transaction**; **market**, **shop**, **fair**, **bazaar** — instead of |
 |                                                        | | ala, ale, **esun**, luka, mute, tu, wan | 7, seven |
 | <img src="musi/sitelen/pona/ijo.png" height="12">      | | **ijo** — jan | inconscious being; **thing**, **phenomenon**, **object**, **matter** |
 | <img src="musi/sitelen/pona/ike.png" height="12">      | *[PONA](#nimi-pona)*                | pona — **ike**, nasa, utala | |
@@ -1748,7 +1748,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/kama.png" height="12">     | *[WAWA POKA](#nimi-wawa-poka)*      | awen, **kama**, pini | |
 | <img src="musi/sitelen/pona/kasi.png" height="12">     | | kala, **kasi**, pipi, waso | vegetating — *[SIJELO](#nimi-lawa-sijelo)* **plant**, **vegetation**; **herb**, **leaf** |
 | <img src="musi/sitelen/pona/ken.png" height="12">      | *[WAWA POKA](#nimi-wawa-poka)*      | **ken**, lukin, open, sona, wile | |
-| <img src="musi/sitelen/pona/kepeken.png" height="12">  | *[POKA LUKA](#nimi-poka-luka)*      | esun, **kepeken** | |
+| <img src="musi/sitelen/pona/kepeken.png" height="12">  | | esun, **kepeken** | **to use** — **with**, **by means of** |
 | <img src="musi/sitelen/pona/kili.png" height="12">     | | **kili**, pan | hanging — *[IJO](#nimi-lawa-ijo)* **fruit**, **vegetable**, **mushroom** |
 | <img src="musi/sitelen/pona/kiwen.png" height="12">    | | **kiwen**, ko, kon, telo | hard — *[IJO](#nimi-lawa-ijo)* **hard object**, **metal**, **rock**, **stone** |
 | <img src="musi/sitelen/pona/ko.png" height="12">       | | kiwen, **ko**, kon, telo | semi-solid — *[IJO](#nimi-lawa-ijo)* **clay**, **clinging form**, **dough**, **semi-solid**, **paste**, **powder** |
