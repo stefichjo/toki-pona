@@ -1801,7 +1801,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/o.png" height="12">        | | e, li, **o**, pi | **(vocative or imperative)**, **hey!**, **O!** |
 | <img src="musi/sitelen/pona/olin.png" height="12">     | *[WAWA PONA](#nimi-wawa-pona)*      | **olin**, unpa | |
 | <img src="musi/sitelen/pona/ona.png" height="12">      | *[ESUN](#nimi-lawa-esun)*           | mi, **ona**, sina | |
-| <img src="musi/sitelen/pona/open.png" height="12">     | *[PONA](#nimi-pona)*                | **open** — selo | |
+| <img src="musi/sitelen/pona/open.png" height="12">     | | **open** — selo | **open**, ready; **to begin**, **start**; **turn on** |
 |                                                        | *[WAWA POKA](#nimi-wawa-poka)*      | ken, lukin, **open**, sona, wile | |
 | <img src="musi/sitelen/pona/pakala.png" height="12">   | | ilo — **pakala** | useless; **botched**, **broken**, **damaged**, **harmed**, **messed up** — *[IJO](#nimi-lawa-ijo)* tumor, wound; damage |
 |                                                        | | pona — ike, nasa, **pakala**, utala | useless; **botched**, **broken**, **damaged**, **harmed**, **messed up** — *[IJO](#nimi-lawa-ijo)* tumor, wound; damage |
@@ -1824,7 +1824,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/sama.png" height="12">     | | ante — **sama** | **same**, **similar**; **each other**; **sibling**, **peer**, **fellow** — **as**, **like** |
 | <img src="musi/sitelen/pona/seli.png" height="12">     | | lete — **seli** | warm; cooked — *[IJO](#nimi-lawa-ijo)* **fire**; **cooking element**, **chemical reaction**, **heat source** |
 | <img src="musi/sitelen/pona/selo.png" height="12">     | | kute, lawa, len, luka, lukin, noka, palisa, pilin, **selo**, uta | to form — *[ILO](#nimi-lawa-ilo)* **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary** |
-|                                                        | *[PONA](#nimi-pona)*                | open — **selo** | |
+|                                                        | | open — **selo** | closed, confined |
 | <img src="musi/sitelen/pona/seme.png" height="12">     | | ala, ale, ni, **seme**, wan | **which?** — **what?**, which one? |
 | <img src="musi/sitelen/pona/sewi.png" height="12">     | *[LAWA NASIN](#nimi-lawa-nasin)*    | anpa — **sewi**, lawa — noka | |
 | <img src="musi/sitelen/pona/sijelo.png" height="12">   | | kulupu — **sijelo** | healthy, living, sustainable — *[IJO](#nimi-lawa-ijo)* **body (of person or animal)**, health, **physical state**, **torso** |
