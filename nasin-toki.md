@@ -1776,7 +1776,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/lukin.png" height="12">    | | kute, lawa, len, luka, **lukin**, noka, palisa, pilin, selo, uta | **to look at**, **see**, **examine**, **observe**, **read**, **watch**; care — *[ILO](#nimi-lawa-ilo)* **eye** |
 |                                                        | *[WAWA POKA](#nimi-wawa-poka)*      | ken, **lukin**, open, sona, wile | |
 | <img src="musi/sitelen/pona/lupa.png" height="12">     | | **lupa**, nasin | thick, extended, hollow — *[IJO](#nimi-lawa-ijo)* (- tomo) **door**, **hole**, **orifice**, (- suno) **window** |
-| <img src="musi/sitelen/pona/ma.png" height="12">       | *[LAWA IJO](#nimi-lawa-ijo)*        | **ma**, mun | |
+| <img src="musi/sitelen/pona/ma.png" height="12">       | | **ma**, mun | vast — *[IJO](#nimi-lawa-ijo)* expanse; **earth**, **land**; **outdoors**, **world**; **country**, **territory**; **soil** |
 | <img src="musi/sitelen/pona/mama.png" height="12">     | | **mama** | original — *[JAN](#nimi-lawa-jan)* **parent**, **ancestor**; **creator**, **originator**; **caretaker**, **sustainer** |
 | <img src="musi/sitelen/pona/mani.png" height="12">     | | **mani** | domesticated, mined; valueable — *[IJO](#nimi-lawa-ijo)* **large domesticated animal**, resource; **money**, **cash**, **savings**, **wealth** |
 | <img src="musi/sitelen/pona/meli.png" height="12">     | | **meli** — mije | female — *[JAN](#nimi-lawa-jan)* **woman**, **female**, **feminine person**; **wife** |
@@ -1786,7 +1786,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/moli.png" height="12">     | *[PONA](#nimi-pona)*                | lape, **moli**, musi | |
 | <img src="musi/sitelen/pona/monsi.png" height="12">    | *[LAWA NASIN](#nimi-lawa-nasin)*    | poka — **monsi**, sinpin | |
 | <img src="musi/sitelen/pona/mu.png" height="12">       | | **mu** — a, ala | **(animal noise or communication)**, (indifference) — blah! |
-| <img src="musi/sitelen/pona/mun.png" height="12">      | *[LAWA IJO](#nimi-lawa-ijo)*        | ma, **mun** | |
+| <img src="musi/sitelen/pona/mun.png" height="12">      | | ma, **mun** | sky-walking at night — *[IJO](#nimi-lawa-ijo)* moon, night sky object, star |
 | <img src="musi/sitelen/pona/musi.png" height="12">     | *[PONA](#nimi-pona)*                | lape, moli, **musi** | |
 | <img src="musi/sitelen/pona/mute.png" height="12">     | *[PONA](#nimi-pona)*                | lili — **mute**, suli, wawa | **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
 |                                                        | | ala, ale, esun, luka, **mute**, tu, wan | 3, three, 3+ |
