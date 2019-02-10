@@ -1728,7 +1728,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |                                                        | | ala, **ale**, ni, seme, wan | **all**; **every** — **everything** |
 |                                                        | | ala, **ale**, esun, luka, mute, tu, wan | **100**, a hundred, infinite |
 | <img src="musi/sitelen/pona/anpa.png" height="12">     | *[LAWA NASIN](#nimi-lawa-nasin)*    | **anpa** — sewi, lawa — noka | |
-| <img src="musi/sitelen/pona/ante.png" height="12">     | *[POKA LUKA](#nimi-poka-luka)*      | **ante** — sama | |
+| <img src="musi/sitelen/pona/ante.png" height="12">     | | **ante** — sama | **different**, **altered**, **changed**, **other** — than |
 | <img src="musi/sitelen/pona/anu.png" height="12">      | | **anu**, en | (…), **or** |
 | <img src="musi/sitelen/pona/awen.png" height="12">     | *[WAWA POKA](#nimi-wawa-poka)*      | **awen**, kama, pini | |
 | <img src="musi/sitelen/pona/e.png" height="12">        | | **e**, li, o, pi | **(before the direct object)** |
@@ -1820,7 +1820,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/poki.png" height="12">     | | **poki**, tomo | to contain, keep, be full of — *[ILO](#nimi-lawa-ilo)* bladder; **container**, **bag**, **bowl**, **box**, **cup**, **cupboard**, **drawer**, **vessel** |
 | <img src="musi/sitelen/pona/pona.png" height="12">     | *[PONA](#nimi-pona)*                | **pona** – ike, nasa, pakala, utala | |
 | <img src="musi/sitelen/pona/pu.png" height="12">       | *[POKA LUKA](#nimi-poka-luka)*      | **pu** — taso | |
-| <img src="musi/sitelen/pona/sama.png" height="12">     | *[POKA LUKA](#nimi-poka-luka)*      | ante — **sama** | |
+| <img src="musi/sitelen/pona/sama.png" height="12">     | | ante — **sama** | **same**, **similar**; **each other**; **sibling**, **peer**, **fellow** — **as**, **like** |
 | <img src="musi/sitelen/pona/seli.png" height="12">     | | lete — **seli** | warm; cooked — *[IJO](#nimi-lawa-ijo)* **fire**; **cooking element**, **chemical reaction**, **heat source** |
 | <img src="musi/sitelen/pona/selo.png" height="12">     | | kute, lawa, len, luka, lukin, noka, palisa, pilin, **selo**, uta | to form — *[ILO](#nimi-lawa-ilo)* **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary** |
 |                                                        | *[PONA](#nimi-pona)*                | open — **selo** | |
