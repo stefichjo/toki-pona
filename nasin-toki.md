@@ -1724,7 +1724,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |                                                        | | | **ala**, ale, esun, luka, mute, tu, wan | 0, **zero** |
 |                                                        | | | **ala**, lon | non-, false |
 | <img src="musi/sitelen/pona/alasa.png" height="12">    | | | **alasa**, pali | **to hunt**, **forage** |
-| <img src="musi/sitelen/pona/ale.png" height="12">      | | | **ale** — wan | whole; **abundant**, **countless**, **bountiful**, **plentiful** — *[IJO](#nimi-lawa-ijo)* ensemble; **abundance**, **life**, **universe** |
+| <img src="musi/sitelen/pona/ale.png" height="12">      | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **ale** — wan | whole; **abundant**, **countless**, **bountiful**, **plentiful** — entirety; **abundance**, **life**, **universe** |
 |                                                        | | | ala, **ale**, ni, seme, wan | **all**; **every** — **everything** |
 |                                                        | | | ala, **ale**, esun, luka, mute, tu, wan | **100**, a hundred, infinite |
 | <img src="musi/sitelen/pona/anpa.png" height="12">     | *LAWA* | *[NASIN](#nimi-lawa-nasin)*    | **anpa** — sewi, lawa — noka | |
@@ -1737,9 +1737,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |                                                        | | | ala, ale, **esun**, luka, mute, tu, wan | 7, seven |
 | <img src="musi/sitelen/pona/ijo.png" height="12">      | | | **ijo** — jan | inconscious being; **thing**, **phenomenon**, **object**, **matter** |
 | <img src="musi/sitelen/pona/ike.png" height="12">      | | | pona — **ike**, nasa, pakala, utala | **bad**, **negative**; (sin -) **non-essential**, (sin -) **irrelevant** |
-| <img src="musi/sitelen/pona/ilo.png" height="12">      | | | **ilo** — pakala | useful — *[IJO](#nimi-lawa-ijo)* organ; **tool**, **implement**, **machine**, **device** |
+| <img src="musi/sitelen/pona/ilo.png" height="12">      | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **ilo** — pakala | useful — organ; **tool**, **implement**, **machine**, **device** |
 | <img src="musi/sitelen/pona/insa.png" height="12">     | *LAWA* | *[NASIN](#nimi-lawa-nasin)*    | weka — **insa**, poka, sin | |
-| <img src="musi/sitelen/pona/jaki.png" height="12">     | | | **jaki** — suwi | **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** — *[IJO](#nimi-lawa-ijo)* dirt, poison, waste |
+| <img src="musi/sitelen/pona/jaki.png" height="12">     | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **jaki** — suwi | **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** — dirt, poison, waste |
 | <img src="musi/sitelen/pona/jan.png" height="12">      | | | ijo — **jan** | conscious being; **human being**, **person**, **somebody** |
 | <img src="musi/sitelen/pona/jelo.png" height="12">     | | | **jelo**, laso, loje | **yellow**, **yellowish** |
 | <img src="musi/sitelen/pona/jo.png" height="12">       | *WAWA* | *[PONA](#nimi-wawa-pona)*      | **jo**, pana | |
@@ -1749,7 +1749,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/kasi.png" height="12">     | *[LAWA](#nimi-lawa)* | *[SIJELO](#nimi-lawa-sijelo)* | kala, **kasi**, pipi, waso | vegetating — **plant**, **vegetation**; **herb**, **leaf** |
 | <img src="musi/sitelen/pona/ken.png" height="12">      | *WAWA* | *[POKA](#nimi-wawa-poka)*      | **ken**, lukin, open, sona, wile | |
 | <img src="musi/sitelen/pona/kepeken.png" height="12">  | | | esun, **kepeken** | **to use** — **with**, **by means of** |
-| <img src="musi/sitelen/pona/kili.png" height="12">     | | | **kili**, pan | hanging — *[IJO](#nimi-lawa-ijo)* **fruit**, **vegetable**, **mushroom** |
+| <img src="musi/sitelen/pona/kili.png" height="12">     | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **kili**, pan | hanging — **fruit**, **vegetable**, **mushroom** |
 | <img src="musi/sitelen/pona/kiwen.png" height="12">    | | | **kiwen**, ko, kon, telo | hard — *[IJO](#nimi-lawa-ijo)* **hard object**, **metal**, **rock**, **stone** |
 | <img src="musi/sitelen/pona/ko.png" height="12">       | | | kiwen, **ko**, kon, telo | semi-solid — *[IJO](#nimi-lawa-ijo)* **clay**, **clinging form**, **dough**, **semi-solid**, **paste**, **powder** |
 | <img src="musi/sitelen/pona/kon.png" height="12">      | | | kiwen, ko, **kon**, telo | hovering — *[IJO](#nimi-lawa-ijo)* **air**, **breath**; **essence**, **spirit**; meaning, **hidden reality**, **unseen agent** |
@@ -1777,11 +1777,11 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |                                                        | *WAWA* | *[POKA](#nimi-wawa-poka)*      | ken, **lukin**, open, sona, wile | |
 | <img src="musi/sitelen/pona/lupa.png" height="12">     | | | **lupa**, nasin | thick, extended, hollow — *[IJO](#nimi-lawa-ijo)* (- tomo) **door**, **hole**, **orifice**, (- suno) **window** |
 | <img src="musi/sitelen/pona/ma.png" height="12">       | | | **ma**, mun | vast — *[IJO](#nimi-lawa-ijo)* expanse; **earth**, **land**; **outdoors**, **world**; **country**, **territory**; **soil** |
-| <img src="musi/sitelen/pona/mama.png" height="12">     | | | **mama** | original — *[JAN](#nimi-lawa-jan)* **parent**, **ancestor**; **creator**, **originator**; **caretaker**, **sustainer** |
+| <img src="musi/sitelen/pona/mama.png" height="12">     | *[LAWA](#nimi-lawa)* | *[JAN](#nimi-lawa-jan)* | **mama** | original — **parent**, **ancestor**; **creator**, **originator**; **caretaker**, **sustainer** |
 | <img src="musi/sitelen/pona/mani.png" height="12">     | | | **mani** | domesticated, mined; valueable — *[IJO](#nimi-lawa-ijo)* **large domesticated animal**, resource; **money**, **cash**, **savings**, **wealth** |
-| <img src="musi/sitelen/pona/meli.png" height="12">     | | | **meli** — mije | female — *[JAN](#nimi-lawa-jan)* **woman**, **female**, **feminine person**; **wife** |
+| <img src="musi/sitelen/pona/meli.png" height="12">     | *[LAWA](#nimi-lawa)* | *[JAN](#nimi-lawa-jan)* | **meli** — mije | female — **woman**, **female**, **feminine person**; **wife** |
 | <img src="musi/sitelen/pona/mi.png" height="12">       | | | **mi**, ona, sina | **I**, **me**, **we**, **us** |
-| <img src="musi/sitelen/pona/mije.png" height="12">     | | | meli — **mije** | male — *[JAN](#nimi-lawa-jan)* **man**, **male**, **masculine person**; **husband** |
+| <img src="musi/sitelen/pona/mije.png" height="12">     | *[LAWA](#nimi-lawa)* | *[JAN](#nimi-lawa-jan)* | meli — **mije** | male — **man**, **male**, **masculine person**; **husband** |
 | <img src="musi/sitelen/pona/moku.png" height="12">     | *LAWA* | *[PALI](#nimi-lawa-pali)*      | **moku** | |
 | <img src="musi/sitelen/pona/moli.png" height="12">     | | | lape, **moli**, musi | **dead**, (kama -) **dying** |
 | <img src="musi/sitelen/pona/monsi.png" height="12">    | *LAWA* | *[NASIN](#nimi-lawa-nasin)*    | poka — **monsi**, sinpin | |
