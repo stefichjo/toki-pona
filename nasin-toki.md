@@ -1752,7 +1752,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/kili.png" height="12">     | | | **kili**, pan | hanging — *[IJO](#nimi-lawa-ijo)* **fruit**, **vegetable**, **mushroom** |
 | <img src="musi/sitelen/pona/kiwen.png" height="12">    | | | **kiwen**, ko, kon, telo | hard — *[IJO](#nimi-lawa-ijo)* **hard object**, **metal**, **rock**, **stone** |
 | <img src="musi/sitelen/pona/ko.png" height="12">       | | | kiwen, **ko**, kon, telo | semi-solid — *[IJO](#nimi-lawa-ijo)* **clay**, **clinging form**, **dough**, **semi-solid**, **paste**, **powder** |
-| <img src="musi/sitelen/pona/kon.png" height="12">      | | | kiwen, ko, **kon**, telo | hovering — *[IJO](#nimi-lawa-ijo)* **air**, **breath**; **essence**, **spirit**; **hidden reality**, **unseen agent** |
+| <img src="musi/sitelen/pona/kon.png" height="12">      | | | kiwen, ko, **kon**, telo | hovering — *[IJO](#nimi-lawa-ijo)* **air**, **breath**; **essence**, **spirit**; meaning, **hidden reality**, **unseen agent** |
 | <img src="musi/sitelen/pona/kule.png" height="12">     | | | kalama, **kule** | **colourful**, **painted** |
 |                                                        | | | **kule** — walo | brown, **pigmented** |
 | <img src="musi/sitelen/pona/kulupu.png" height="12">   | | | **kulupu** — sijelo | interactive, reciprocal — *[IJO](#nimi-lawa-ijo)* **community**, **company**, **group**, **nation**, relation, **society**, **tribe**  |
