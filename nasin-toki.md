@@ -1758,7 +1758,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/kulupu.png" height="12">   | | **kulupu** — sijelo | interactive, reciprocal — *[IJO](#nimi-lawa-ijo)* **community**, **company**, **group**, **nation**, relation, **society**, **tribe**  |
 | <img src="musi/sitelen/pona/kute.png" height="12">     | | **kute**, lawa, len, luka, lukin, noka, palisa, pilin, selo, uta | **to hear**, **listen**; **pay attention to**, **obey** — *[ILO](#nimi-lawa-ilo)* **ear** |
 | <img src="musi/sitelen/pona/la.png" height="12">       | | **la** | **(between the context phrase and the main sentence)** |
-| <img src="musi/sitelen/pona/lape.png" height="12">     | *[PONA](#nimi-pona)*                | **lape**, moli, musi | |
+| <img src="musi/sitelen/pona/lape.png" height="12">     | | **lape**, moli, musi | **sleeping**, **resting** |
 | <img src="musi/sitelen/pona/laso.png" height="12">     | | jelo, **laso**, loje | **blue**, **green**; pale |
 | <img src="musi/sitelen/pona/lawa.png" height="12">     | | kute, **lawa**, len, luka, lukin, noka, palisa, pilin, selo, uta | **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule** — *[ILO](#nimi-lawa-ilo)* **head**, **mind** |
 |                                                        | *[LAWA NASIN](#nimi-lawa-nasin)*    | anpa — sewi, **lawa** — noka | |
@@ -1783,11 +1783,11 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/mi.png" height="12">       | *[ESUN](#nimi-lawa-esun)*           | **mi**, ona, sina | |
 | <img src="musi/sitelen/pona/mije.png" height="12">     | | meli — **mije** | male — *[JAN](#nimi-lawa-jan)* **man**, **male**, **masculine person**; **husband** |
 | <img src="musi/sitelen/pona/moku.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | **moku** | |
-| <img src="musi/sitelen/pona/moli.png" height="12">     | *[PONA](#nimi-pona)*                | lape, **moli**, musi | |
+| <img src="musi/sitelen/pona/moli.png" height="12">     | | lape, **moli**, musi | **dead**, (kama -) **dying** |
 | <img src="musi/sitelen/pona/monsi.png" height="12">    | *[LAWA NASIN](#nimi-lawa-nasin)*    | poka — **monsi**, sinpin | |
 | <img src="musi/sitelen/pona/mu.png" height="12">       | | **mu** — a, ala | **(animal noise or communication)**, (indifference) — blah! |
 | <img src="musi/sitelen/pona/mun.png" height="12">      | | ma, **mun** | sky-walking at night — *[IJO](#nimi-lawa-ijo)* moon, night sky object, star |
-| <img src="musi/sitelen/pona/musi.png" height="12">     | *[PONA](#nimi-pona)*                | lape, moli, **musi** | |
+| <img src="musi/sitelen/pona/musi.png" height="12">     | | lape, moli, **musi** | **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** |
 | <img src="musi/sitelen/pona/mute.png" height="12">     | *[PONA](#nimi-pona)*                | lili — **mute**, suli, wawa | **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
 |                                                        | | ala, ale, esun, luka, **mute**, tu, wan | 3, three, 3+ |
 | <img src="musi/sitelen/pona/nanpa.png" height="12">    | *[LAWA PALI](#nimi-lawa-pali)*      | **nanpa**, nimi, sitelen, sona, toki | |
