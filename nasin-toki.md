@@ -1847,15 +1847,15 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/tenpo.png" height="12">    | | **tenpo** | … — *[IJO](#nimi-lawa-ijo)* **time**, **duration**, **moment**, **occasion**, **period**, **situation** |
 | <img src="musi/sitelen/pona/toki.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | nanpa, nimi, sitelen, sona, **toki** | |
 | <img src="musi/sitelen/pona/tomo.png" height="12">     | | poki, **tomo** | to protect — *[ILO](#nimi-lawa-ilo)* skeleton, thorax; **indoor space**; **building**, **home**, **house**, **room** |
-| <img src="musi/sitelen/pona/tu.png" height="12">       | *[PONA](#nimi-pona)*                | **tu** — wan | |
+| <img src="musi/sitelen/pona/tu.png" height="12">       | | **tu** — wan | parallel, separate |
 |                                                        | | ala, ale, esun, luka, mute, **tu**, wan | 2, **two** |
 | <img src="musi/sitelen/pona/unpa.png" height="12">     | *[WAWA PONA](#nimi-wawa-pona)*      | olin, **unpa** | |
 | <img src="musi/sitelen/pona/uta.png" height="12">      | | kute, lawa, len, luka, lukin, noka, palisa, pilin, selo, **uta** | to suck, kiss — *[ILO](#nimi-lawa-ilo)* **mouth**, **lips**, **oral cavity**, **jaw** |
 | <img src="musi/sitelen/pona/utala.png" height="12">    | | pona — ike, nasa, **utala** | aggressive; **to battle**, **challenge**, **compete against**, **struggle against** |
 | <img src="musi/sitelen/pona/walo.png" height="12">     | | pimeja — **walo** | **white**, **whitish** |
 |                                                        | | kule — **walo** | **light-coloured**, **pale**, unpigmented |
-| <img src="musi/sitelen/pona/wan.png" height="12">      | *[PONA](#nimi-pona)*                | tu — **wan** | |
-|                                                        | | ale — **wan** | (- lili) partial, (- nasa) **unique**, (- wawa) **united** — *[IJO](#nimi-lawa-ijo)* (- lili) part, (- lili) piece, (- wawa) union |
+| <img src="musi/sitelen/pona/wan.png" height="12">      | | tu — **wan** | **united** |
+|                                                        | | ale — **wan** | (- lili) partial, (- nasa) **unique** — *[IJO](#nimi-lawa-ijo)* (- lili) part |
 |                                                        | | ala, ale, esun, luka, mute, tu, **wan** | 1, **one** |
 |                                                        | | ala, ale, ni, seme, **wan** | some — something specific |
 | <img src="musi/sitelen/pona/waso.png" height="12">     | | kala, kasi, pipi, **waso** | flying — *[SIJELO](#nimi-lawa-sijelo)* **bird**, **flying creature**, **winged animal** |
