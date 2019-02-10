@@ -1820,7 +1820,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |                                                        | *[LAWA NASIN](#nimi-lawa-nasin)*    | weka — insa, **poka**, sin | |
 | <img src="musi/sitelen/pona/poki.png" height="12">     | | **poki**, tomo | to contain, keep, be full of — *[ILO](#nimi-lawa-ilo)* bladder; **container**, **bag**, **bowl**, **box**, **cup**, **cupboard**, **drawer**, **vessel** |
 | <img src="musi/sitelen/pona/pona.png" height="12">     | | **pona** – ike, nasa, pakala, utala | |
-| <img src="musi/sitelen/pona/pu.png" height="12">       | *[POKA LUKA](#nimi-poka-luka)*      | **pu** — taso | |
+| <img src="musi/sitelen/pona/pu.png" height="12">       | | **pu** — taso | accordingly — according to, following, depending on; **interacting with the Toki Pona book** |
 | <img src="musi/sitelen/pona/sama.png" height="12">     | | ante — **sama** | **same**, **similar**; **each other**; **sibling**, **peer**, **fellow** — **as**, **like** |
 | <img src="musi/sitelen/pona/seli.png" height="12">     | | lete — **seli** | warm; cooked — *[IJO](#nimi-lawa-ijo)* **fire**; **cooking element**, **chemical reaction**, **heat source** |
 | <img src="musi/sitelen/pona/selo.png" height="12">     | | kute, lawa, len, luka, lukin, noka, palisa, pilin, **selo**, uta | to form — *[ILO](#nimi-lawa-ilo)* **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary** |
@@ -1841,7 +1841,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/supa.png" height="12">     | | **supa** | … — **horizontal surface**, **thing to put or rest something on** |
 | <img src="musi/sitelen/pona/suwi.png" height="12">     | | jaki — **suwi** | **sweet**, **fragrant**; **cute**, **innocent**, **adorable** — *[IJO](#nimi-lawa-ijo)* sweets |
 | <img src="musi/sitelen/pona/tan.png" height="12">      | | lon, **tan**, tawa | departing — **by**, **from**, **because of** |
-| <img src="musi/sitelen/pona/taso.png" height="12">     | *[POKA LUKA](#nimi-poka-luka)*      | pu — **taso** | |
+| <img src="musi/sitelen/pona/taso.png" height="12">     | | pu — **taso** | independent; **only** — independent from; **but**, **however** |
 | <img src="musi/sitelen/pona/tawa.png" height="12">     | | lon, tan, **tawa** | going, moving — **going to**, **toward**; **for**; **from the perspective of** |
 | <img src="musi/sitelen/pona/telo.png" height="12">     | | kiwen, ko, kon, **telo** | liquid, fluid, wet — *[IJO](#nimi-lawa-ijo)* **water**, **liquid**, **fluid**, **wet substance**; **beverage** |
 | <img src="musi/sitelen/pona/tenpo.png" height="12">    | | **tenpo** | … — *[IJO](#nimi-lawa-ijo)* **time**, **duration**, **moment**, **occasion**, **period**, **situation** |
@@ -1851,7 +1851,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |                                                        | | ala, ale, esun, luka, mute, **tu**, wan | 2, **two** |
 | <img src="musi/sitelen/pona/unpa.png" height="12">     | *[WAWA PONA](#nimi-wawa-pona)*      | olin, **unpa** | |
 | <img src="musi/sitelen/pona/uta.png" height="12">      | | kute, lawa, len, luka, lukin, noka, palisa, pilin, selo, **uta** | to suck, kiss — *[ILO](#nimi-lawa-ilo)* **mouth**, **lips**, **oral cavity**, **jaw** |
-| <img src="musi/sitelen/pona/utala.png" height="12">    | | pona — ike, nasa, **utala** | aggressive; **to battle**, **challenge**, **compete against**, **struggle against** |
+| <img src="musi/sitelen/pona/utala.png" height="12">    | | pona — ike, nasa, pakala, **utala** | aggressive; **to battle**, **challenge**, **compete against**, **struggle against** |
 | <img src="musi/sitelen/pona/walo.png" height="12">     | | pimeja — **walo** | **white**, **whitish** |
 |                                                        | | kule — **walo** | **light-coloured**, **pale**, unpigmented |
 | <img src="musi/sitelen/pona/wan.png" height="12">      | | tu — **wan** | **united** |
