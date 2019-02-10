@@ -1830,7 +1830,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/sijelo.png" height="12">   | | kulupu — **sijelo** | healthy, living, sustainable — *[IJO](#nimi-lawa-ijo)* **body (of person or animal)**, health, **physical state**, **torso** |
 | <img src="musi/sitelen/pona/sike.png" height="12">     | | lipu, nena, **sike** | round or circular, (- suno) **of one year** — *[IJO](#nimi-lawa-ijo)* **round or circular thing**; **ball**, **circle**, **cycle**, **sphere**, **wheel** |
 | <img src="musi/sitelen/pona/sin.png" height="12">      | *[LAWA NASIN](#nimi-lawa-nasin)*    | weka — insa, poka, **sin** | |
-| <img src="musi/sitelen/pona/sina.png" height="12">     | *[ESUN](#nimi-lawa-esun)*           | mi, ona, **sina** | |
+| <img src="musi/sitelen/pona/sina.png" height="12">     | | mi, ona, **sina** | **you** |
 | <img src="musi/sitelen/pona/sinpin.png" height="12">   | *[LAWA NASIN](#nimi-lawa-nasin)*    | poka — monsi, **sinpin** | |
 | <img src="musi/sitelen/pona/sitelen.png" height="12">  | *[LAWA PALI](#nimi-lawa-pali)*      | nanpa, nimi, **sitelen**, sona, toki | |
 | <img src="musi/sitelen/pona/sona.png" height="12">     | *[LAWA PALI](#nimi-lawa-pali)*      | nanpa, nimi, sitelen, **sona**, toki | |
