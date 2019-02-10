@@ -1851,14 +1851,14 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/tenpo.png" height="12">    | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **tenpo** | ephemeral, interim, provisional — **time**, **duration**, **moment**, **occasion**, **period**, **situation** |
 | <img src="musi/sitelen/pona/toki.png" height="12">     | *LAWA* | *[PALI](#nimi-lawa-pali)*      | nanpa, nimi, sitelen, sona, **toki** | |
 | <img src="musi/sitelen/pona/tomo.png" height="12">     | *[LAWA](#nimi-lawa)* | *[ILO](#nimi-lawa-ilo)* | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, **tomo**, uta | to protect — skeleton, thorax; **indoor space**; **building**, **home**, **house**, **room** |
-| <img src="musi/sitelen/pona/tu.png" height="12">       | | | **tu** — wan | parallel, separate |
+| <img src="musi/sitelen/pona/tu.png" height="12">       | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | **tu** — wan | parallel, redundant |
 |                                                        | *[POKA](#nimi-poka)* | *[NANPA](#nimi-poka-nanpa)* | ala, ale, esun, luka, mute, **tu**, wan | 2, **two** |
 | <img src="musi/sitelen/pona/unpa.png" height="12">     | *WAWA* | *[PONA](#nimi-wawa-pona)*      | olin, **unpa** | |
 | <img src="musi/sitelen/pona/uta.png" height="12">      | *[LAWA](#nimi-lawa)* | *[ILO](#nimi-lawa-ilo)* | kute, lawa, len, luka, lukin, noka, palisa, pilin, selo, **uta** | to suck, kiss — **mouth**, **lips**, **oral cavity**, **jaw** |
 | <img src="musi/sitelen/pona/utala.png" height="12">    | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | pona — ike, nasa, pakala, **utala** | aggressive; **to battle**, **challenge**, **compete against**, **struggle against** |
 | <img src="musi/sitelen/pona/walo.png" height="12">     | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | pimeja — **walo** | **white**, **whitish** |
 |                                                        | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | kule — **walo** | **light-coloured**, **pale**, unpigmented |
-| <img src="musi/sitelen/pona/wan.png" height="12">      | | | tu — **wan** | **united** |
+| <img src="musi/sitelen/pona/wan.png" height="12">      | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | tu — **wan** | **united** |
 |                                                        | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | ale — **wan** | (- lili) partial, (- nasa) **unique** — (- lili) part |
 |                                                        | *[POKA](#nimi-poka)* | *[NANPA](#nimi-poka-nanpa)* | ala, ale, esun, luka, mute, tu, **wan** | 1, **one** |
 |                                                        | *[POKA](#nimi-poka)* | *[PALISA](#nimi-poka-palisa)* | ala, ale, ni, seme, **wan** | some — something specific |
