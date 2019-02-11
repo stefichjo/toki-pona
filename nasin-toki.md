@@ -46,11 +46,102 @@
 # nimi lili
 *(Partikuloj — Particles)*
 
+| [↑](#nimi-lili) |
+|:-:|
+| [nimi lili toki](#nimi-lili-toki) |
+| [nimi lili kalama](#nimi-lili-kalama) |
+
+### nimi lili toki
+*(Citaĵoj — Quotes)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili toki](#nimi-lili-toki) li lon pini pi [nimi suli lawa](#nimi-suli-lawa). **nimi lili toki** li lon insa pi sitelen toki.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Citaĵo](#nimi-lili-toki) estas malantaŭ [substantivo](#nimi-suli-lawa). **Citaĵo** estas inter citiloj.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Quotes](#nimi-lili-toki) are after [nouns](#nimi-suli-lawa). **Quotations** are inside quotation marks.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li jo e nimi "Sonja". |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi havas la nomon "Sonja".* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She has the name "Sonja".* |
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **sitelen toki** lon poka pi nimi "nimi" anu nimi "kalama" li ken kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Citiloj** kun "nimi" aŭ "kalama" povas malaperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Quotation marks** with "nimi" or "kalama" can disappear.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | toki pi nimi "Epelanto" → toki Epelanto |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *la lingvo "Esperanto"* → *Esperanto* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *the language "Esperanto"* → *Esperanto* |
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li weka e [nimi lili "pi"](#nimi-lili-pi) lon kama pi nimi "nanpa" lon poka pi [nimi suli poka nanpa](#nimi-suli-poka-nanpa). ni la nimi "nanpa" li wan pi **nimi lili toki**. taso jan **Pije** li weka ala e [nimi lili "pi"](#nimi-lili-pi) ni.  
+
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** forigas la [partikulon "pi"](#nimi-lili-pi) antaŭ "nanpa" kun [numeralo](#nimi-suli-poka-nanpa). En tiu kazo "nanpa" estas parto de citaĵo. Sed **Pije** ne forigas tian [partikulon "pi"](#nimi-lili-pi).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** removes the [particle "pi"](#nimi-lili-pi) before "nanpa" with a [numeral](#nimi-suli-poka-nanpa). In this case, "nanpa" is part of a quote. But **Pije** doesn't remove such a [particle "pi"](#nimi-lili-pi).
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina nanpa wan | toki pi nanpa wan → toki nanpa wan |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Vi estas la numero unu.* | *la lingvo kun la numero unu* → *la lingvo numero unu* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You're number one.* | *the language with the number one* → *the language number one* |
+
+
+### nimi lili kalama
+*(Interjekcio — Interjection)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan li ken toki e pilin kepeken **nimi lili kalama** pi wan taso sama ni: ona li [mute nimi](#mute-nimi).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Oni povas esprimi emocion per nura **interjekcio** kvazaŭ ĝi estus [frazo](#mute-nimi).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> One can express an emotion by means of a plain **interjection** as if it were a [sentence](#mute-nimi).
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | a! | mu! |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ha!, Ho!* | *Bla!, Miaŭ!* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Ha!, Wow!* | *Blah!, Meeow!* |
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili kalama** li ken kama [nimi suli lawa pali](#nimi-suli-lawa-pali).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Interjekcio** povas fariĝi [aga substantivo](#nimi-suli-lawa-pali).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> An **interjection** can become an [action noun](#nimi-suli-lawa-pali).
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | soweli li kalama "mu". → soweli li mu. | ona li kute e nimi "mu" wawa. → ona li kute e mu wawa. |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *La besto blekas.* | *Ŝi aŭdis laŭtan blekon.* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The animal bleats.* | *She heard a loud bleat.* |
+
+
+#### nimi lili kalama musi
+*(Eksperimentaj Interjekcioj — Experimental Interjections)*
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli poka](#nimi-suli-poka) "ala" li ken kama **nimi lili kalama**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [modifilo](#nimi-suli-poka) "ala" povas fariĝi **interjekcio**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [modifier](#nimi-suli-poka) "ala" can become an **interjection**.
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala! |
+|:-:|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ve!* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Outch!* |
+
+
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili kalama** li ken kama [nimi suli poka](#nimi-suli-poka).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Interjekcio** povas fariĝi [modifilo](#nimi-suli-poka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> An **interjection** can become a [modifier](#nimi-suli-poka).
+
+| <img src="musi/sitelen/len-ma/tp.png" height="18"> | a | mu |
+|:-:|:-|:-|
+| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *efektive, jes* | *ajne, nu* |
+| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *indeed, yes* | *any, well* |
+
+
+
+
+
+
+
+
+
+
 | [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [nimi lili luka](#nimi-lili-luka) |
-| [nimi lili pi luka ala](#nimi-lili-pi-luka-ala) |
-
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan li ken toki sin kepeken wan taso pi mute nimi, taso kama ona la **nimi lili** li ken ala lon.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Oni povas respondi per nura frazero, sed komence de ĝi ne povas esti **partikulo**.  
@@ -453,94 +544,6 @@
 |:-:|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Pro kiu vi konsultas la tokiponan libron?* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Because of whom do you interact with the Toki Pona book?* |
-
-
-## nimi lili pi luka ala
-*(Netransitivaj Partikuloj — Intransitive Particles)*
-
-| [↑](#nimi-lili) |
-|:-:|
-| [nimi lili toki](#nimi-lili-toki) |
-| [nimi lili kalama](#nimi-lili-kalama) |
-
-### nimi lili toki
-*(Citaĵoj — Quotes)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili toki](#nimi-lili-toki) li lon pini pi [nimi suli lawa](#nimi-suli-lawa). **nimi lili toki** li lon insa pi sitelen toki.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Citaĵo](#nimi-lili-toki) estas malantaŭ [substantivo](#nimi-suli-lawa). **Citaĵo** estas inter citiloj.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Quotes](#nimi-lili-toki) are after [nouns](#nimi-suli-lawa). **Quotations** are inside quotation marks.
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li jo e nimi "Sonja". |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ŝi havas la nomon "Sonja".* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She has the name "Sonja".* |
-
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **sitelen toki** lon poka pi nimi "nimi" anu nimi "kalama" li ken kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Citiloj** kun "nimi" aŭ "kalama" povas malaperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Quotation marks** with "nimi" or "kalama" can disappear.
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | toki pi nimi "Epelanto" → toki Epelanto |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *la lingvo "Esperanto"* → *Esperanto* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *the language "Esperanto"* → *Esperanto* |
-
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li weka e [nimi lili "pi"](#nimi-lili-pi) lon kama pi nimi "nanpa" lon poka pi [nimi suli poka nanpa](#nimi-suli-poka-nanpa). ni la nimi "nanpa" li wan pi **nimi lili toki**. taso jan **Pije** li weka ala e [nimi lili "pi"](#nimi-lili-pi) ni.  
-
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** forigas la [partikulon "pi"](#nimi-lili-pi) antaŭ "nanpa" kun [numeralo](#nimi-suli-poka-nanpa). En tiu kazo "nanpa" estas parto de citaĵo. Sed **Pije** ne forigas tian [partikulon "pi"](#nimi-lili-pi).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** removes the [particle "pi"](#nimi-lili-pi) before "nanpa" with a [numeral](#nimi-suli-poka-nanpa). In this case, "nanpa" is part of a quote. But **Pije** doesn't remove such a [particle "pi"](#nimi-lili-pi).
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina nanpa wan | toki pi nanpa wan → toki nanpa wan |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Vi estas la numero unu.* | *la lingvo kun la numero unu* → *la lingvo numero unu* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You're number one.* | *the language with the number one* → *the language number one* |
-
-
-### nimi lili kalama
-*(Interjekcio — Interjection)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan li ken toki e pilin kepeken **nimi lili kalama** pi wan taso sama ni: ona li [mute nimi](#mute-nimi).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Oni povas esprimi emocion per nura **interjekcio** kvazaŭ ĝi estus [frazo](#mute-nimi).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> One can express an emotion by means of a plain **interjection** as if it were a [sentence](#mute-nimi).
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | a! | mu! |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ha!, Ho!* | *Bla!, Miaŭ!* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Ha!, Wow!* | *Blah!, Meeow!* |
-
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili kalama** li ken kama [nimi suli lawa pali](#nimi-suli-lawa-pali).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Interjekcio** povas fariĝi [aga substantivo](#nimi-suli-lawa-pali).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> An **interjection** can become an [action noun](#nimi-suli-lawa-pali).
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | soweli li kalama "mu". → soweli li mu. | ona li kute e nimi "mu" wawa. → ona li kute e mu wawa. |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *La besto blekas.* | *Ŝi aŭdis laŭtan blekon.* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The animal bleats.* | *She heard a loud bleat.* |
-
-
-#### nimi lili kalama musi
-*(Eksperimentaj Interjekcioj — Experimental Interjections)*
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli poka](#nimi-suli-poka) "ala" li ken kama **nimi lili kalama**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [modifilo](#nimi-suli-poka) "ala" povas fariĝi **interjekcio**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [modifier](#nimi-suli-poka) "ala" can become an **interjection**.
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala! |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *Ve!* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Outch!* |
-
-
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili kalama** li ken kama [nimi suli poka](#nimi-suli-poka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Interjekcio** povas fariĝi [modifilo](#nimi-suli-poka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> An **interjection** can become a [modifier](#nimi-suli-poka).
-
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | a | mu |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/eo.png" height="18"> | *efektive, jes* | *ajne, nu* |
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *indeed, yes* | *any, well* |
 
 
 # nimi suli
