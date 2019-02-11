@@ -1739,12 +1739,12 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/pona/en.png" height="12">       | | | anu, **en** | **(between multiple subjects)** |
 | <img src="musi/sitelen/pona/esun.png" height="12">     | | | **esun**, kepeken | …; **business transaction**; **market**, **shop**, **fair**, **bazaar** → instead of |
 |                                                        | *[POKA](#nimi-poka)* | *[NANPA](#nimi-poka-nanpa)* | ala, ale, **esun**, luka, mute, tu, wan | 7, seven |
-| <img src="musi/sitelen/pona/ijo.png" height="12">      | | | **ijo** — jan | inconscious being; **thing**, **phenomenon**, **object**, **matter** |
+| <img src="musi/sitelen/pona/ijo.png" height="12">      | *[LAWA](#nimi-lawa)* | *[PONA](#nimi-lawa-pona)* | **ijo** — jan | inconscious being; **thing**, **phenomenon**, **object**, **matter** |
 | <img src="musi/sitelen/pona/ike.png" height="12">      | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | pona — **ike**, nasa, pakala, utala | **bad**, **negative**; (sin -) **non-essential**, (sin -) **irrelevant** |
 | <img src="musi/sitelen/pona/ilo.png" height="12">      | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **ilo** — pakala | useful → organ; **tool**, **implement**, **machine**, **device** |
 | <img src="musi/sitelen/pona/insa.png" height="12">     | *[LAWA](#nimi-lawa)* | *[NASIN](#nimi-lawa-nasin)* | weka — **insa**, poka, sin | inner → **centre**, **content**, **inside**, **between**; **internal organ**, **stomach** |
 | <img src="musi/sitelen/pona/jaki.png" height="12">     | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **jaki** — suwi | **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** → dirt, poison, waste |
-| <img src="musi/sitelen/pona/jan.png" height="12">      | | | ijo — **jan** | conscious being; **human being**, **person**, **somebody** |
+| <img src="musi/sitelen/pona/jan.png" height="12">      | *[LAWA](#nimi-lawa)* | *[PONA](#nimi-lawa-pona)* | ijo — **jan** | conscious being; **human being**, **person**, **somebody** |
 | <img src="musi/sitelen/pona/jelo.png" height="12">     | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | **jelo**, laso, loje | **yellow**, **yellowish** |
 | <img src="musi/sitelen/pona/jo.png" height="12">       | *WAWA* | *[PONA](#nimi-wawa-pona)*      | **jo**, pana | |
 | <img src="musi/sitelen/pona/kala.png" height="12">     | *[LAWA](#nimi-lawa)* | *[SIJELO](#nimi-lawa-sijelo)* | **kala**, kasi, pipi, waso | swimming → **fish**, **marine animal**, **sea creature** |
