@@ -1721,9 +1721,9 @@ The [prepositions](#nimi-suli-poka-luka) "lon", "tan", "tawa" can become **auxil
 
 | | | | | |
 |:-|:-|:-|:-|:-|
-| <img src="musi/sitelen/pona/a.png" height="12">        | | | mu — **a**, ala | **(emphasis, emotion or confirmation)** → yes! |
+| <img src="musi/sitelen/pona/a.png" height="12">        | | *[KALAMA](#nimi-lili-kalama)* | mu — **a**, ala | **(emphasis, emotion or confirmation)** → yes! |
 | <img src="musi/sitelen/pona/akesi.png" height="12">    | *[LAWA](#nimi-suli-lawa)* | *[SIJELO](#nimi-suli-lawa-sijelo)* | **akesi** — soweli | cold-blooded → **non-cute animal**; **reptile**, **amphibian**; monster |
-| <img src="musi/sitelen/pona/ala.png" height="12">      | | | mu — a, **ala** | (negation) → **no**! |
+| <img src="musi/sitelen/pona/ala.png" height="12">      | | *[KALAMA](#nimi-lili-kalama)* | mu — a, **ala** | (negation) → **no**! |
 |                                                        | *[POKA](#nimi-suli-poka)* | *[PALISA](#nimi-suli-poka-palisa)* | **ala**, ale, ni, seme, wan | **not** → none, nothing |
 |                                                        | *[POKA](#nimi-suli-poka)* | *[NANPA](#nimi-suli-poka-nanpa)* | **ala**, ale, esun, luka, mute, tu, wan | 0, **zero** |
 |                                                        | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | **ala** — lon | non-, false |
@@ -1789,7 +1789,7 @@ The [prepositions](#nimi-suli-poka-luka) "lon", "tan", "tawa" can become **auxil
 | <img src="musi/sitelen/pona/moku.png" height="12">     | *LAWA* | *[PALI](#nimi-suli-lawa-pali)*      | **moku** | |
 | <img src="musi/sitelen/pona/moli.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | lape, **moli**, musi | **dead**, (kama -) **dying** |
 | <img src="musi/sitelen/pona/monsi.png" height="12">    | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | poka — **monsi**, sinpin | rear → **back**, **behind**, **rear** |
-| <img src="musi/sitelen/pona/mu.png" height="12">       | | | **mu** — a, ala | **(animal noise or communication)**, (indifference) → blah! |
+| <img src="musi/sitelen/pona/mu.png" height="12">       | | *[KALAMA](#nimi-lili-kalama)* | **mu** — a, ala | **(animal noise or communication)**, (indifference) → blah! |
 | <img src="musi/sitelen/pona/mun.png" height="12">      | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | ma, **mun** | sky-walking at night → moon, night sky object, star |
 | <img src="musi/sitelen/pona/musi.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | lape, moli, **musi** | **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** |
 | <img src="musi/sitelen/pona/mute.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | lili — **mute**, suli, wawa | **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
