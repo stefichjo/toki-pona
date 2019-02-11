@@ -48,13 +48,14 @@
 
 | [↑](#nimi-lili) |
 |:-:|
-| [nimi lili toki](#nimi-lili-toki) |
+| [nimi lili pona](#nimi-lili-toki) |
 | [nimi lili kalama](#nimi-lili-kalama) |
+| [nimi lili luka](#nimi-lili-luka) |
 
-### nimi lili toki
+### nimi lili pona
 *(Citaĵoj — Quotes)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili toki](#nimi-lili-toki) li lon pini pi [nimi suli lawa](#nimi-suli-lawa). **nimi lili toki** li lon insa pi sitelen toki.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili pona](#nimi-lili-toki) li lon pini pi [nimi suli lawa](#nimi-suli-lawa). **nimi lili pona** li lon insa pi sitelen toki.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Citaĵo](#nimi-lili-toki) estas malantaŭ [substantivo](#nimi-suli-lawa). **Citaĵo** estas inter citiloj.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Quotes](#nimi-lili-toki) are after [nouns](#nimi-suli-lawa). **Quotations** are inside quotation marks.
 
@@ -74,7 +75,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *the language "Esperanto"* → *Esperanto* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li weka e [nimi lili "pi"](#nimi-lili-pi) lon kama pi nimi "nanpa" lon poka pi [nimi suli poka nanpa](#nimi-suli-poka-nanpa). ni la nimi "nanpa" li wan pi **nimi lili toki**. taso jan **Pije** li weka ala e [nimi lili "pi"](#nimi-lili-pi) ni.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li weka e [nimi lili "pi"](#nimi-lili-pi) lon kama pi nimi "nanpa" lon poka pi [nimi suli poka nanpa](#nimi-suli-poka-nanpa). ni la nimi "nanpa" li wan pi **nimi lili pona**. taso jan **Pije** li weka ala e [nimi lili "pi"](#nimi-lili-pi) ni.  
 
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** forigas la [partikulon "pi"](#nimi-lili-pi) antaŭ "nanpa" kun [numeralo](#nimi-suli-poka-nanpa). En tiu kazo "nanpa" estas parto de citaĵo. Sed **Pije** ne forigas tian [partikulon "pi"](#nimi-lili-pi).  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** removes the [particle "pi"](#nimi-lili-pi) before "nanpa" with a [numeral](#nimi-suli-poka-nanpa). In this case, "nanpa" is part of a quote. But **Pije** doesn't remove such a [particle "pi"](#nimi-lili-pi).
@@ -129,19 +130,6 @@
 |:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *efektive, jes* | *ajne, nu* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *indeed, yes* | *any, well* |
-
-
-
-
-
-
-
-
-
-
-| [↑](#nasin-toki-pi-toki-pona) |
-|:-:|
-| [nimi lili luka](#nimi-lili-luka) |
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> jan li ken toki sin kepeken wan taso pi mute nimi, taso kama ona la **nimi lili** li ken ala lon.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Oni povas respondi per nura frazero, sed komence de ĝi ne povas esti **partikulo**.  
@@ -1574,7 +1562,7 @@ The [prepositions](#nimi-suli-poka-luka) "lon", "tan", "tawa" can become **auxil
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She gives the book to you.* | *She needs to sleep.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili toki](#nimi-lili-toki) li ken jo e **sitelen pi ijo kama**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili pona](#nimi-lili-toki) li ken jo e **sitelen pi ijo kama**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Citaĵo](#nimi-lili-toki) povas havi **dupunkton**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Quotations](#nimi-lili-toki) can have a **colon**.
 
@@ -1650,7 +1638,7 @@ The [prepositions](#nimi-suli-poka-luka) "lon", "tan", "tawa" can become **auxil
 |:--:| 
 | *sina suli a!* |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili toki](#nimi-lili-toki) li lon poka.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili pona](#nimi-lili-toki) li lon poka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> [Citaĵo](#nimi-lili-toki) estas apude.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Quotations](#nimi-lili-toki) are adjacent.  
 
