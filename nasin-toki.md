@@ -1712,7 +1712,7 @@ The [prepositions](#nimi-suli-poka-luka) "lon", "tan", "tawa" can become **auxil
 
 | | | | | |
 |:-|:-|:-|:-|:-|
-| <img src="musi/sitelen/pona/a.png" height="24" width="24">        | | *[KALAMA](#nimi-lili-kalama)* | mu — **a**, ala | **(emphasis, emotion or confirmation)** → yes! |
+| ![](musi/sitelen/pona/akesi.png | width=100) | | *[KALAMA](#nimi-lili-kalama)* | mu — **a**, ala | **(emphasis, emotion or confirmation)** → yes! |
 | <img src="musi/sitelen/pona/akesi.png" height="24">    | *[LAWA](#nimi-suli-lawa)* | *[SIJELO](#nimi-suli-lawa-sijelo)* | **akesi** — soweli | cold-blooded → **non-cute animal**; **reptile**, **amphibian**; monster |
 | <img src="musi/sitelen/pona/ala.png" height="24">      | | *[KALAMA](#nimi-lili-kalama)* | mu — a, **ala** | (negation) → outch!, **no**! |
 |                                                        | *[POKA](#nimi-suli-poka)* | *[PALISA](#nimi-suli-poka-palisa)* | **ala**, ale, ni, seme, wan | **not** → none, nothing |
