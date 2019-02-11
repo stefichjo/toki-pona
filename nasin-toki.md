@@ -179,9 +179,9 @@
 #### nimi lili "e" namako
 *(Aldona Rekta Objekto — Additional Direct Object)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi nimi "pana e" li ken kama [nimi wawa luka](#nimi-wawa-luka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La rekta objekto de "pana" povas fariĝi [transitiva verbo](#nimi-wawa-luka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The direct object of "pana" can become a [transitive verb](#nimi-wawa-luka).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi nimi "pana e" li ken kama [nimi suli wawa luka](#nimi-suli-wawa-luka).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La rekta objekto de "pana" povas fariĝi [transitiva verbo](#nimi-suli-wawa-luka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The direct object of "pana" can become a [transitive verb](#nimi-suli-wawa-luka).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li pana e telo tawa kasi. → ona li telo e kasi. | ona li telo e kasi. |
 |:-:|:-|:-|
@@ -189,9 +189,9 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She gives water to the plant.* → *She waters the plant.* | *She makes the plant wet.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> poka pi nimi "utala" la [nimi poka luka](#nimi-poka-luka) "tawa" li ken kama [nimi lili "e"](#nimi-lili-e).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Kun "utala", la [prepozicio](#nimi-poka-luka) "tawa" povas fariĝi la [partikulo "e"](#nimi-lili-e).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> With "utala", the [preposition](#nimi-poka-luka) "tawa" can become the [particle "e"](#nimi-lili-e).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> poka pi nimi "utala" la [nimi suli poka luka](#nimi-suli-poka-luka) "tawa" li ken kama [nimi lili "e"](#nimi-lili-e).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Kun "utala", la [prepozicio](#nimi-suli-poka-luka) "tawa" povas fariĝi la [partikulo "e"](#nimi-lili-e).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> With "utala", the [preposition](#nimi-suli-poka-luka) "tawa" can become the [particle "e"](#nimi-lili-e).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li utala tawa jan ike. → ona li utala e jan ike. | ona li utala e jan ike. |
 |:-:|:-|:-|
@@ -202,9 +202,9 @@
 ##### nimi lili "e" nasa
 *(Stranga Rekta Objekto — Strange Direct Object)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) "kepeken" li kama [nimi wawa](#nimi-wawa), la jan **Pije** li kepeken ona lon poka pi **nimi lili "e"**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam la [prepozicio](#nimi-poka-luka) "kepeken" fariĝas [verbo](#nimi-wawa), **Pije** uzas ĝin kun la **partikulo "e"**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When the [preposition](#nimi-poka-luka) "kepeken" becomes a [verb](#nimi-wawa), **Pije** uses it with the **particle "e"**.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli poka luka](#nimi-suli-poka-luka) "kepeken" li kama [nimi suli wawa](#nimi-suli-wawa), la jan **Pije** li kepeken ona lon poka pi **nimi lili "e"**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam la [prepozicio](#nimi-suli-poka-luka) "kepeken" fariĝas [verbo](#nimi-suli-wawa), **Pije** uzas ĝin kun la **partikulo "e"**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When the [preposition](#nimi-suli-poka-luka) "kepeken" becomes a [verb](#nimi-suli-wawa), **Pije** uses it with the **particle "e"**.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi kepeken ilo. → mi kepeken e ilo. |
 |:-:|:-|
@@ -252,9 +252,9 @@
 | [pi (musi)](#nimi-lili-pi-musi) |
 | [pi (nasa)](#nimi-lili-pi-nasa) |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi **nimi lili** "pi" li [nimi lawa](#nimi-lawa) wan taso, la **nimi lili** "pi" li kama weka. kepeken ni la [nimi lawa](#nimi-lawa) ni li kama [nimi poka](#nimi-poka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se genitiva frazero (t.e. la vortoj malantaŭ la **partikulo** "pi") konsistas el nur unu [substantivo](#nimi-lawa), la **partikulo** "pi" malaperas. Tiele, tiu [substantivo](#nimi-lawa) fariĝas [modifilo](#nimi-poka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a genitive phrase (i.e. the words after the **particle** "pi") consists of only one [noun](#nimi-lawa), the **particle** "pi" disappears. So, that [noun](#nimi-lawa) becomes a [modifier](#nimi-poka).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi lon pini pi **nimi lili** "pi" li [nimi suli lawa](#nimi-suli-lawa) wan taso, la **nimi lili** "pi" li kama weka. kepeken ni la [nimi suli lawa](#nimi-suli-lawa) ni li kama [nimi suli poka](#nimi-suli-poka).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se genitiva frazero (t.e. la vortoj malantaŭ la **partikulo** "pi") konsistas el nur unu [substantivo](#nimi-suli-lawa), la **partikulo** "pi" malaperas. Tiele, tiu [substantivo](#nimi-suli-lawa) fariĝas [modifilo](#nimi-suli-poka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a genitive phrase (i.e. the words after the **particle** "pi") consists of only one [noun](#nimi-suli-lawa), the **particle** "pi" disappears. So, that [noun](#nimi-suli-lawa) becomes a [modifier](#nimi-suli-poka).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | toki pi pona → toki pona |
 |:-:|:-|
@@ -278,9 +278,9 @@
 #### nimi lili "pi" nasa
 *(Stranga Genitivo — Strange Genitive)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li [nimi wawa](#nimi-wawa) e [nimi lili "pi"](#nimi-lili-pi) lon poka pi [nimi lawa esun](#nimi-lawa-esun).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** [verbigas](#nimi-wawa) la [partikulon "pi"](#nimi-lili-pi) kun [pronomo](#nimi-lawa-esun).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** turns the [particle "pi"](#nimi-lili-pi) with a [pronoun](#nimi-lawa-esun) into a [verb](#nimi-wawa).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li [nimi suli wawa](#nimi-suli-wawa) e [nimi lili "pi"](#nimi-lili-pi) lon poka pi [nimi suli lawa esun](#nimi-suli-lawa-esun).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** [verbigas](#nimi-suli-wawa) la [partikulon "pi"](#nimi-lili-pi) kun [pronomo](#nimi-suli-lawa-esun).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** turns the [particle "pi"](#nimi-lili-pi) with a [pronoun](#nimi-suli-lawa-esun) into a [verb](#nimi-suli-wawa).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ni li ijo mi. → ni li pi mi. |
 |:-:|:-|
@@ -288,7 +288,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *This belongs to me.* → *This is mine.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li [nimi lili "pi"](#nimi-lili-pi) e [nimi lili "e"](#nimi-lili-e) lon kama pi [nimi lawa](#nimi-lawa) ni: kon ona li nasin.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li [nimi lili "pi"](#nimi-lili-pi) e [nimi lili "e"](#nimi-lili-e) lon kama pi [nimi suli lawa](#nimi-suli-lawa) ni: kon ona li nasin.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** igas la [partikulon "e"](#nimi-lili-e) la [partikulo "pi"](#nimi-lili-pi) antaŭ substantivo, kiu signifas direkton.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** turns the [particle "e"](#nimi-lili-e) into the [particle "pi"](#nimi-lili-pi) before a noun, which means a direction.
 
@@ -369,9 +369,9 @@
 |:-:|
 | [anu (namako)](#nimi-lili-anu-namako) |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kepeken nimi "anu seme" jan li ken toki e wile sona pi nimi "a" anu nimi "ala". ni la nimi "seme" li [nimi wawa](#nimi-wawa).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Pere de "anu seme" oni povas esprimi ĉu-demandon. Tiam "seme" estas [verbo](#nimi-wawa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> By means of "anu seme" one can express a yes-no-question. In this case "seme" is a [verb](#nimi-wawa).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kepeken nimi "anu seme" jan li ken toki e wile sona pi nimi "a" anu nimi "ala". ni la nimi "seme" li [nimi suli wawa](#nimi-suli-wawa).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Pere de "anu seme" oni povas esprimi ĉu-demandon. Tiam "seme" estas [verbo](#nimi-suli-wawa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> By means of "anu seme" one can express a yes-no-question. In this case "seme" is a [verb](#nimi-suli-wawa).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li mama anu seme? |
 |:-:|:-|
@@ -412,9 +412,9 @@
 |:-:|
 | [la (nasa)](#nimi-lili-la-nasa) |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kepeken **nimi lili "la"** la [nimi poka luka](#nimi-poka-luka) li ken lon kama pi [mute nimi](#mute-nimi).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Pere de la **partikulo "la"**, [prepozicio](#nimi-poka-luka) povas esti komence de [frazo](#mute-nimi).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> By means of the **particle "la"**, a [preposition](#nimi-poka-luka) can be at the beginning of a [sentence](#mute-nimi).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kepeken **nimi lili "la"** la [nimi suli poka luka](#nimi-suli-poka-luka) li ken lon kama pi [mute nimi](#mute-nimi).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Pere de la **partikulo "la"**, [prepozicio](#nimi-suli-poka-luka) povas esti komence de [frazo](#mute-nimi).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> By means of the **particle "la"**, a [preposition](#nimi-suli-poka-luka) can be at the beginning of a [sentence](#mute-nimi).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina pana e nimi "pona" tawa mi tan seme? → tan seme la sina pana e nimi "pona" tawa mi? |
 |:-:|:-|
@@ -422,9 +422,9 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Why are you calling me good?* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi [mute nimi](#mute-nimi) la [nimi poka luka](#nimi-poka-luka) "lon" li kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Komence de [frazo](#mute-nimi), la [prepozicio](#nimi-poka-luka) "lon" malaperas.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the beginning of a [sentence](#mute-nimi), the [preposition](#nimi-poka-luka) "lon" disappears.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi [mute nimi](#mute-nimi) la [nimi suli poka luka](#nimi-suli-poka-luka) "lon" li kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Komence de [frazo](#mute-nimi), la [prepozicio](#nimi-suli-poka-luka) "lon" malaperas.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the beginning of a [sentence](#mute-nimi), the [preposition](#nimi-suli-poka-luka) "lon" disappears.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li kama lon tenpo pimeja ni. → tenpo pimeja ni la ona li kama. |
 |:-:|:-|
@@ -432,9 +432,9 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She is coming tonight.* → *Tonight, she is coming.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ni" lon kama pi [mute nimi](#mute-nimi) li lon poka pi [mute nimi poka](#mute-nimi-poka), la nimi "ni" li kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se "ni" komence de [frazo](#mute-nimi) akompanas [subfrazon](#mute-nimi-poka), "ni" malaperas.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If "ni" at the beginning of a [sentence](#mute-nimi) accompanies a [subordinate clause](#mute-nimi-poka), "ni" disappears.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ni" lon kama pi [mute nimi](#mute-nimi) li lon poka pi [mute nimi suli poka](#mute-nimi-suli-poka), la nimi "ni" li kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se "ni" komence de [frazo](#mute-nimi) akompanas [subfrazon](#mute-nimi-suli-poka), "ni" malaperas.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If "ni" at the beginning of a [sentence](#mute-nimi) accompanies a [subordinate clause](#mute-nimi-suli-poka), "ni" disappears.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan li pona tawa mi lon ni: mi pona tawa jan. → mi pona tawa jan, la jan li pona tawa mi. |
 |:-:|:-|
@@ -445,9 +445,9 @@
 #### nimi lili "la" nasa
 *(Stranga Kunteksta Frazero — Strange Contextual Fragment)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li kepeken ala [nimi poka luka](#nimi-poka-luka) lon kama pi [mute nimi](#mute-nimi). taso ona li kepeken a [nimi poka luka nasa](#nimi-poka-luka-nasa).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** ne uzas [prepoziciojn](#nimi-poka-luka) komence de [frazo](#mute-nimi). Sed li anstataŭe uzas [strangajn prepoziciojn](#nimi-poka-luka-nasa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** doesn't use [prepositions](#nimi-poka-luka) at the beginning of a [sentence](#mute-nimi). But he uses [strange prepositions](#nimi-poka-luka-nasa) instead.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li kepeken ala [nimi suli poka luka](#nimi-suli-poka-luka) lon kama pi [mute nimi](#mute-nimi). taso ona li kepeken a [nimi suli poka luka nasa](#nimi-suli-poka-luka-nasa).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** ne uzas [prepoziciojn](#nimi-suli-poka-luka) komence de [frazo](#mute-nimi). Sed li anstataŭe uzas [strangajn prepoziciojn](#nimi-suli-poka-luka-nasa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** doesn't use [prepositions](#nimi-suli-poka-luka) at the beginning of a [sentence](#mute-nimi). But he uses [strange prepositions](#nimi-suli-poka-luka-nasa) instead.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina pu tan jan seme? → tan pi jan seme la sina pu? |
 |:-:|:-|
@@ -466,9 +466,9 @@
 ### nimi lili toki
 *(Citaĵoj — Quotes)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili toki](#nimi-lili-toki) li lon pini pi [nimi lawa](#nimi-lawa). **nimi lili toki** li lon insa pi sitelen toki.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Citaĵo](#nimi-lili-toki) estas malantaŭ [substantivo](#nimi-lawa). **Citaĵo** estas inter citiloj.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Quotes](#nimi-lili-toki) are after [nouns](#nimi-lawa). **Quotations** are inside quotation marks.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili toki](#nimi-lili-toki) li lon pini pi [nimi suli lawa](#nimi-suli-lawa). **nimi lili toki** li lon insa pi sitelen toki.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Citaĵo](#nimi-lili-toki) estas malantaŭ [substantivo](#nimi-suli-lawa). **Citaĵo** estas inter citiloj.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Quotes](#nimi-lili-toki) are after [nouns](#nimi-suli-lawa). **Quotations** are inside quotation marks.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li jo e nimi "Sonja". |
 |:-:|:-|
@@ -486,10 +486,10 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *the language "Esperanto"* → *Esperanto* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li weka e [nimi lili "pi"](#nimi-lili-pi) lon kama pi nimi "nanpa" lon poka pi [nimi poka nanpa](#nimi-poka-nanpa). ni la nimi "nanpa" li wan pi **nimi lili toki**. taso jan **Pije** li weka ala e [nimi lili "pi"](#nimi-lili-pi) ni.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li weka e [nimi lili "pi"](#nimi-lili-pi) lon kama pi nimi "nanpa" lon poka pi [nimi suli poka nanpa](#nimi-suli-poka-nanpa). ni la nimi "nanpa" li wan pi **nimi lili toki**. taso jan **Pije** li weka ala e [nimi lili "pi"](#nimi-lili-pi) ni.  
 
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** forigas la [partikulon "pi"](#nimi-lili-pi) antaŭ "nanpa" kun [numeralo](#nimi-poka-nanpa). En tiu kazo "nanpa" estas parto de citaĵo. Sed **Pije** ne forigas tian [partikulon "pi"](#nimi-lili-pi).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** removes the [particle "pi"](#nimi-lili-pi) before "nanpa" with a [numeral](#nimi-poka-nanpa). In this case, "nanpa" is part of a quote. But **Pije** doesn't remove such a [particle "pi"](#nimi-lili-pi).
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** forigas la [partikulon "pi"](#nimi-lili-pi) antaŭ "nanpa" kun [numeralo](#nimi-suli-poka-nanpa). En tiu kazo "nanpa" estas parto de citaĵo. Sed **Pije** ne forigas tian [partikulon "pi"](#nimi-lili-pi).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** removes the [particle "pi"](#nimi-lili-pi) before "nanpa" with a [numeral](#nimi-suli-poka-nanpa). In this case, "nanpa" is part of a quote. But **Pije** doesn't remove such a [particle "pi"](#nimi-lili-pi).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina nanpa wan | toki pi nanpa wan → toki nanpa wan |
 |:-:|:-|:-|
@@ -510,9 +510,9 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Ha!, Wow!* | *Blah!, Meeow!* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili kalama** li ken kama [nimi lawa pali](#nimi-lawa-pali).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Interjekcio** povas fariĝi [aga substantivo](#nimi-lawa-pali).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> An **interjection** can become an [action noun](#nimi-lawa-pali).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili kalama** li ken kama [nimi suli lawa pali](#nimi-suli-lawa-pali).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Interjekcio** povas fariĝi [aga substantivo](#nimi-suli-lawa-pali).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> An **interjection** can become an [action noun](#nimi-suli-lawa-pali).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | soweli li kalama "mu". → soweli li mu. | ona li kute e nimi "mu" wawa. → ona li kute e mu wawa. |
 |:-:|:-|:-|
@@ -523,9 +523,9 @@
 #### nimi lili kalama musi
 *(Eksperimentaj Interjekcioj — Experimental Interjections)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) "ala" li ken kama **nimi lili kalama**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [modifilo](#nimi-poka) "ala" povas fariĝi **interjekcio**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [modifier](#nimi-poka) "ala" can become an **interjection**.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli poka](#nimi-suli-poka) "ala" li ken kama **nimi lili kalama**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [modifilo](#nimi-suli-poka) "ala" povas fariĝi **interjekcio**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [modifier](#nimi-suli-poka) "ala" can become an **interjection**.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala! |
 |:-:|:-|
@@ -533,9 +533,9 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Outch!* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili kalama** li ken kama [nimi poka](#nimi-poka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Interjekcio** povas fariĝi [modifilo](#nimi-poka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> An **interjection** can become a [modifier](#nimi-poka).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lili kalama** li ken kama [nimi suli poka](#nimi-suli-poka).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Interjekcio** povas fariĝi [modifilo](#nimi-suli-poka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> An **interjection** can become a [modifier](#nimi-suli-poka).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | a | mu |
 |:-:|:-|:-|
@@ -548,26 +548,26 @@
 
 | [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
-| [nimi lawa](#nimi-lawa) |
-| [nimi wawa](#nimi-wawa) |
-| [nimi poka](#nimi-poka) |
+| [nimi suli lawa](#nimi-suli-lawa) |
+| [nimi suli wawa](#nimi-suli-wawa) |
+| [nimi suli poka](#nimi-suli-poka) |
 
-## nimi lawa
+## nimi suli lawa
 *(Substantivoj — Nouns)*
 
 | [↑](#nimi-suli) |
 |:-:|
-| [nimi lawa pona](#nimi-lawa-pona) |
-| [nimi lawa ijo](#nimi-lawa-ijo) |
-| [nimi lawa nasin](#nimi-lawa-nasin) |
-| [nimi lawa sijelo](#nimi-lawa-sijelo) |
-| [nimi lawa jan](#nimi-lawa-jan) |
-| [nimi lawa ilo](#nimi-lawa-ilo) |
-| [nimi lawa pali](#nimi-lawa-pali) |
-| [nimi lawa esun](#nimi-lawa-esun) |
+| [nimi suli lawa pona](#nimi-suli-lawa-pona) |
+| [nimi suli lawa ijo](#nimi-suli-lawa-ijo) |
+| [nimi suli lawa nasin](#nimi-suli-lawa-nasin) |
+| [nimi suli lawa sijelo](#nimi-suli-lawa-sijelo) |
+| [nimi suli lawa jan](#nimi-suli-lawa-jan) |
+| [nimi suli lawa ilo](#nimi-suli-lawa-ilo) |
+| [nimi suli lawa pali](#nimi-suli-lawa-pali) |
+| [nimi suli lawa esun](#nimi-suli-lawa-esun) |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** li ken jo e kon moku.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli lawa** li ken jo e kon moku.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Substantivo** povas implici manĝaĵon.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Nouns** can imply food.
 
@@ -577,12 +577,12 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *mouthful, food* | *seed, bread* | *mammal, meat* |
 
 
-### nimi lawa pona
+### nimi suli lawa pona
 *(Simplaj Substantivoj — Simple Nouns)*
 
-| [↑](#nimi-lawa) |
+| [↑](#nimi-suli-lawa) |
 |:-:|
-| [nimi lawa pona musi](#nimi-lawa-pona-musi) |
+| [nimi suli lawa pona musi](#nimi-suli-lawa-pona-musi) |
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ijo | jan |
 |:-:|:-|:-|
@@ -590,7 +590,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *something, a thing* | *somebody, a person* |
 
 
-### nimi lawa pona musi
+### nimi suli lawa pona musi
 *(Eksperimentaj Simplaj Substantivoj — Experimental Simple Nouns)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> kon pi nimi "ijo" li ken sama kon pi nimi "ma"/"tomo" li ken sama kon pi nimi "tenpo ken".  
@@ -598,15 +598,15 @@
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ijo" povas signifi "place" and "case".
 
 
-### nimi lawa ijo
+### nimi suli lawa ijo
 *(Aĵaj Substantivoj — Thing Nouns)*
 
-| [↑](#nimi-lawa) |
+| [↑](#nimi-suli-lawa) |
 |:-:|
-| [nimi lawa ijo musi](#nimi-lawa-ijo-musi) |
-| [nimi lawa ijo nasa](#nimi-lawa-ijo-nasa) |
+| [nimi suli lawa ijo musi](#nimi-suli-lawa-ijo-musi) |
+| [nimi suli lawa ijo nasa](#nimi-suli-lawa-ijo-nasa) |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** li **nimi lawa ijo**, la kon ona li jo e nimi "ijo".  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli lawa** li **nimi suli lawa ijo**, la kon ona li jo e nimi "ijo".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **aĵa substantivo**, ĝi implicas la vorton "ijo".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is a **thing noun**, it implies the word "ijo".
 
@@ -616,7 +616,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *whole, something whole, universe* | *round, something round, circle/globe* |
 
 
-#### nimi lawa ijo musi
+#### nimi suli lawa ijo musi
 *(Eksperimentaj Aĵaj Substantivoj — Experimental Thing Nouns)*
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | sike | wan |
@@ -679,9 +679,9 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *retro* → *additional/another/extra* → *new/fresh* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi tu sama li jo e kon pi [nimi poka](#nimi-poka) "a".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Du samaj vortoj havas la signifon de la [modifilo](#nimi-poka) "a".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Two same words have the meaning of the [modifier](#nimi-poka) "a".
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi tu sama li jo e kon pi [nimi suli poka](#nimi-suli-poka) "a".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Du samaj vortoj havas la signifon de la [modifilo](#nimi-suli-poka) "a".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> Two same words have the meaning of the [modifier](#nimi-suli-poka) "a".
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li kiwen kiwen. → ona li kiwen kiwen! | sina suli suli! |
 |:-:|:-|:-|
@@ -701,29 +701,29 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *thick/extended/hollow, hole* | *thin/elongated/cracked, way/line/solution* |
 
 
-#### nimi lawa ijo nasa
+#### nimi suli lawa ijo nasa
 *(Strangaj Aĵaj Substantivoj — Strange Thing Nouns)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka](#nimi-poka) ([luka](#nimi-poka-luka)) "ante", "sama" li ken kama **nimi lawa ijo**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [modifiloj](#nimi-poka) (aŭ [prepozicioj](#nimi-poka-luka)) "ante" kaj "sama" povas fariĝi **aĵaj substantivoj**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [modifiers](#nimi-poka) (or [prepositions](#nimi-poka-luka)) "ante" and "sama" can become **thing nouns**.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli poka](#nimi-suli-poka) ([luka](#nimi-suli-poka-luka)) "ante", "sama" li ken kama **nimi suli lawa ijo**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [modifiloj](#nimi-suli-poka) (aŭ [prepozicioj](#nimi-suli-poka-luka)) "ante" kaj "sama" povas fariĝi **aĵaj substantivoj**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [modifiers](#nimi-suli-poka) (or [prepositions](#nimi-suli-poka-luka)) "ante" and "sama" can become **thing nouns**.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ijo ante → ante | ijo sama → sama |
 |:-:|:-|:-|
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *io diversa* | *io sama* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *something different* | *something similar* |
 
-### nimi lawa nasin
+### nimi suli lawa nasin
 *(Direktaj Substantivoj — Direction Nouns)*
 
-| [↑](#nimi-lawa) |
+| [↑](#nimi-suli-lawa) |
 |:-:|
-| [nimi lawa nasin musi](#nimi-lawa-nasin-musi) |
-| [nimi lawa nasin namako](#nimi-lawa-nasin-namako) |
-| [nimi lawa nasin nasa](#nimi-lawa-nasin-nasa) |
+| [nimi suli lawa nasin musi](#nimi-suli-lawa-nasin-musi) |
+| [nimi suli lawa nasin namako](#nimi-suli-lawa-nasin-namako) |
+| [nimi suli lawa nasin nasa](#nimi-suli-lawa-nasin-nasa) |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ijo" li ken jo e kon pi pini nasin. tan ni la **nimi lawa ijo** li ken jo e kon pi pini nasin.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ijo" li ken jo e kon pi pini nasin. tan ni la **nimi suli lawa ijo** li ken jo e kon pi pini nasin.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> "ijo" povas signifi lokon. Tial, **aĵa substantivo** povas implici lokon.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> "ijo" can mean a place. Therefore, **thing nouns** can imply a place.
 
@@ -745,7 +745,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *remote, remote area/distance* | *inner, inner area/center* | *neighboring, neighboring area/vicinity* |
 
 
-#### nimi lawa nasin musi
+#### nimi suli lawa nasin musi
 *(Eksperimentaj Direktaj Substantivoj — Experimental Direction Nouns)*
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | lawa |
@@ -754,9 +754,9 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *upper, upper area, top* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa](#nimi-wawa) li kama **nimi lawa**, la ona li ken jo e kon pi ijo ni: jan li pali lon ona.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam [verbo](#nimi-wawa) fariĝas **substantivo**, ĝi povas signifi la lokon de ĝia plenumiĝo.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a [verb](#nimi-wawa) becomes a **noun**, it can mean the place of its accomplishment.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli wawa](#nimi-suli-wawa) li kama **nimi suli lawa**, la ona li ken jo e kon pi ijo ni: jan li pali lon ona.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam [verbo](#nimi-suli-wawa) fariĝas **substantivo**, ĝi povas signifi la lokon de ĝia plenumiĝo.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a [verb](#nimi-suli-wawa) becomes a **noun**, it can mean the place of its accomplishment.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi tawa ijo: jan li esun. → mi tawa esun. |
 |:-:|:-|
@@ -770,9 +770,9 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am resting.* | *You have been resting.* | *She is going to rest.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa poka](#nimi-wawa-poka) "awen", "kama", "pini" li ken kama **nimi lawa nasin**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [helpaj verboj](#nimi-wawa-poka) "awen", "kama", "pini" povas fariĝi **direktaj substantivoj**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [auxiliary verbs](#nimi-wawa-poka) "awen", "kama", "pini" can become **direction nouns**.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli wawa poka](#nimi-suli-wawa-poka) "awen", "kama", "pini" li ken kama **nimi suli lawa nasin**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [helpaj verboj](#nimi-suli-wawa-poka) "awen", "kama", "pini" povas fariĝi **direktaj substantivoj**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **direction nouns**.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | lon awen pi | lon kama pi | lon pini pi |
 |:-:|:-|:-|:-|
@@ -780,7 +780,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *during* | *before* | *after* |
 
 
-#### nimi lawa nasin namako
+#### nimi suli lawa nasin namako
 *(Aldonaj Direktaj Substantivoj — Additional Direction Nouns)*
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | lawa → sewi |
@@ -799,15 +799,15 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *shortly/quickly* | *provisionally* | *soon* |
 
 
-### nimi lawa sijelo
+### nimi suli lawa sijelo
 *(Vivaĵaj Substantivoj — Life-form Nouns)*
 
-| [↑](#nimi-lawa) |
+| [↑](#nimi-suli-lawa) |
 |:-:|
-| [nimi lawa sijelo musi](#nimi-lawa-sijelo-musi) |
+| [nimi suli lawa sijelo musi](#nimi-suli-lawa-sijelo-musi) |
 
 
-#### nimi lawa sijelo musi
+#### nimi suli lawa sijelo musi
 *(Eksperimentaj Vivaĵaj Substantivoj — Experimental Life-form Nouns)*
 
 
@@ -827,14 +827,14 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *swimming, fish* | *vegetating, plant* | *crawling, insect* | *flying, bird* |
 
 
-### nimi lawa jan
+### nimi suli lawa jan
 *(Ulaj Substantivoj — Person Nouns)*
 
-| [↑](#nimi-lawa) |
+| [↑](#nimi-suli-lawa) |
 |:-:|
-| [nimi lawa jan musi](#nimi-lawa-jan-musi) |
+| [nimi suli lawa jan musi](#nimi-suli-lawa-jan-musi) |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** li **nimi lawa jan**, la kon ona li jo e nimi "jan".  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli lawa** li **nimi suli lawa jan**, la kon ona li jo e nimi "jan".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **ula substantivo**, ĝi implicas "jan".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is a **person noun**, it implies "jan".
 
@@ -844,7 +844,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *female, somebody female, woman* | *male, somebody male, man* |
 
 
-#### nimi lawa jan musi
+#### nimi suli lawa jan musi
 *(Eksperimentaj Ulaj Vortoj — Experimental Person Words)*
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | mama |
@@ -853,14 +853,14 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *source/original/ancient, parent* |
 
 
-### nimi lawa ilo
+### nimi suli lawa ilo
 *(Ilaj Substantivoj — Tool Nouns)*
 
-| [↑](#nimi-lawa) |
+| [↑](#nimi-suli-lawa) |
 |:-:|
-| [nimi lawa ilo musi](#nimi-lawa-ilo-musi) |
+| [nimi suli lawa ilo musi](#nimi-suli-lawa-ilo-musi) |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** li **nimi lawa ilo**, la kon ona li jo e nimi "ilo". tawa nasin toki la wan sijelo li ilo.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli lawa** li **nimi suli lawa ilo**, la kon ona li jo e nimi "ilo". tawa nasin toki la wan sijelo li ilo.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **ila substantivo**, ĝi implicas "ilo". De gramatika vidpunkto, organo estas ilo.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is a **tool noun**, it implies "ilo". From a grammatical point of view, organs are tools.
 
@@ -870,7 +870,7 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to hear, ear* | *to control, head* | *to see, eye* | *to feel, heart* | *to suck, mouth* |
 
 
-#### nimi lawa ilo musi
+#### nimi suli lawa ilo musi
 *(Eksperimentaj Ilaj Substantivoj — Experimental Tool Nouns)*
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | luka | noka | palisa | selo |
@@ -891,19 +891,19 @@
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to keep/to be full of, container/bladder* | *to shield, room/house* |
 
 
-### nimi lawa pali
+### nimi suli lawa pali
 *(Agaj Substantivoj — Action Nouns)*
 
-| [↑](#nimi-lawa) |
+| [↑](#nimi-suli-lawa) |
 |:-:|
-| [nimi lawa pali musi](#nimi-lawa-pali-musi) |
+| [nimi suli lawa pali musi](#nimi-suli-lawa-pali-musi) |
 
-nimi lawa pali li kama nimi wawa luka, la ona li jo e kon pi nimi "pali e 'kon pi nimi lawa pali'".
+nimi suli lawa pali li kama nimi suli wawa luka, la ona li jo e kon pi nimi "pali e 'kon pi nimi suli lawa pali'".
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi lawa** li **nimi lawa pali**, la ona li jo e kon pi nimi "e ijo" lon tenpo ni: ona li kama [nimi wawa luka](#nimi-wawa-luka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **aga substantivo**, ĝi estas implicata de "e ijo", kiam ĝi fariĝas [transitiva verbo](#nimi-wawa-luka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is an **action noun**, it implies "e ijo" when it becomes a [transitive verb](#nimi-wawa-luka).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli lawa** li **nimi suli lawa pali**, la ona li jo e kon pi nimi "e ijo" lon tenpo ni: ona li kama [nimi suli wawa luka](#nimi-suli-wawa-luka).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **substantivo** estas **aga substantivo**, ĝi estas implicata de "e ijo", kiam ĝi fariĝas [transitiva verbo](#nimi-suli-wawa-luka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **noun** is an **action noun**, it implies "e ijo" when it becomes a [transitive verb](#nimi-suli-wawa-luka).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | moku | sitelen | sona | toki |
 |:-:|:-|:-|:-|:-|
@@ -911,7 +911,7 @@ nimi lawa pali li kama nimi wawa luka, la ona li jo e kon pi nimi "pali e 'kon p
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to swallow, mouthful* | *to draw, picture* | *to know, knowledge* | *to say, language* |
 
 
-#### nimi lawa pali musi
+#### nimi suli lawa pali musi
 *(Eksperimentaj Agaj Substantivoj — Experimental Action Nouns)*
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | nanpa | nimi |
@@ -920,7 +920,7 @@ nimi lawa pali li kama nimi wawa luka, la ona li jo e kon pi nimi "pali e 'kon p
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to count, number* | *to name, word* |
 
 
-### nimi lawa esun
+### nimi suli lawa esun
 *(Pronomoj — Pronouns)*
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi | sina | ona |
@@ -929,29 +929,29 @@ nimi lawa pali li kama nimi wawa luka, la ona li jo e kon pi nimi "pali e 'kon p
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I, we* | *you* | *she, he, it, they* |
 
 
-## nimi wawa
+## nimi suli wawa
 *(Verboj — Verbs)*
 
 | [↑](#nimi-suli) |
 |:-:|
-| [nimi wawa luka](#nimi-wawa-luka) |
-| [nimi wawa pona](#nimi-wawa-pona) |
-| [nimi wawa poka](#nimi-wawa-poka) |
+| [nimi suli wawa luka](#nimi-suli-wawa-luka) |
+| [nimi suli wawa pona](#nimi-suli-wawa-pona) |
+| [nimi suli wawa poka](#nimi-suli-wawa-poka) |
 
-### nimi wawa luka
+### nimi suli wawa luka
 *(Transitivaj Verboj — Transitive Verbs)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi wawa** li jo e [nimi lili "e"](#nimi-lili-e), la ona li **nimi wawa luka**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli wawa** li jo e [nimi lili "e"](#nimi-lili-e), la ona li **nimi suli wawa luka**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se **verbo** havas rektan objekton (t.e. vortoj malantaŭ [partikulo "e"](#nimi-lili-e)), ĝi estas **transitiva verbo**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **verb** has a direct object (i.e. words after a [particle "e"](#nimi-lili-e)), it's a **transitive verb**.
 
 
-### nimi wawa pona
+### nimi suli wawa pona
 *(Simplaj Verboj — Simple Verbs)*
 
-| [↑](#nimi-wawa) |
+| [↑](#nimi-suli-wawa) |
 |:-:|
-| [nimi wawa pona namako](#nimi-wawa-pona-namako) |
+| [nimi suli wawa pona namako](#nimi-suli-wawa-pona-namako) |
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | alasa | pali |
 |:-:|:-|:-|
@@ -972,7 +972,7 @@ nimi lawa pali li kama nimi wawa luka, la ona li jo e kon pi nimi "pali e 'kon p
 
 
 
-#### nimi wawa pona namako
+#### nimi suli wawa pona namako
 *(Aldonaj Simplaj Verboj — Additional Simple Verbs)*
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | kama e → pali e | open e → pali e |
@@ -981,13 +981,13 @@ nimi lawa pali li kama nimi wawa luka, la ona li jo e kon pi nimi "pali e 'kon p
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to build/make* | *to prepare* |
 
 
-### nimi wawa poka
+### nimi suli wawa poka
 *(Helpaj Verboj — Auxiliary Verbs)*
 
-| [↑](#nimi-wawa) |
+| [↑](#nimi-suli-wawa) |
 |:-:|
-| [nimi wawa poka musi](#nimi-wawa-poka-musi) |
-| [nimi wawa poka nasa](#nimi-wawa-poka-nasa) |
+| [nimi suli wawa poka musi](#nimi-suli-wawa-poka-musi) |
+| [nimi suli wawa poka nasa](#nimi-suli-wawa-poka-nasa) |
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | awen | kama |
 |:-:|:-|:-|
@@ -1001,7 +1001,7 @@ nimi lawa pali li kama nimi wawa luka, la ona li jo e kon pi nimi "pali e 'kon p
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *possible, can* | *minding, to try to* | *knowing, to know how to* | *needing, must/want* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi wawa poka** "awen", "kama" la nimi "lon" li ken kama weka.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi suli wawa poka** "awen", "kama" la nimi "lon" li ken kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Malantaŭ la **helpaj verboj** "awen" kaj "kama", "lon" povas malaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> After the **auxiliary verbs** "awen" and "kama", "lon" can disappear.
 
@@ -1011,9 +1011,9 @@ nimi lawa pali li kama nimi wawa luka, la ona li jo e kon pi nimi "pali e 'kon p
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *staying, to keep on -ing* | *appearing/coming, to succeed in -ing* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi wawa** li **nimi wawa poka**, la ona li jo e kon pi **nimi wawa luka** lon kama pi [mute nimi poka](#mute-nimi-poka) ni: ona li kama jo e **nimi wawa** lawa tan [mute nimi](#mute-nimi) lawa. [mute nimi](#mute-nimi) tu ale la kama pi [nimi lili "li"](#nimi-lili-li) la nimi li sama.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **verbo** estas **helpa verbo**, ĝi implicas **transitivan verbon** antaŭ [subfrazo](#mute-nimi-poka), kiu ricevas la ĉefan **verbon** el la ĉefa [frazo](#mute-nimi). En ambaŭ [frazoj](#mute-nimi), la subjeko (t.e. la vortoj antaŭ la [partikulo "li"](#nimi-lili-li)) estas la sama.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **verb** is an **auxiliary verb**, it implies a **transitive verb** before a [subordinate clause](#mute-nimi-poka), which receives the main **verb** from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [particle "li"](#nimi-lili-li)) is the same.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli wawa** li **nimi suli wawa poka**, la ona li jo e kon pi **nimi suli wawa luka** lon kama pi [mute nimi suli poka](#mute-nimi-suli-poka) ni: ona li kama jo e **nimi suli wawa** lawa tan [mute nimi](#mute-nimi) lawa. [mute nimi](#mute-nimi) tu ale la kama pi [nimi lili "li"](#nimi-lili-li) la nimi li sama.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se **verbo** estas **helpa verbo**, ĝi implicas **transitivan verbon** antaŭ [subfrazo](#mute-nimi-suli-poka), kiu ricevas la ĉefan **verbon** el la ĉefa [frazo](#mute-nimi). En ambaŭ [frazoj](#mute-nimi), la subjeko (t.e. la vortoj antaŭ la [partikulo "li"](#nimi-lili-li)) estas la sama.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a **verb** is an **auxiliary verb**, it implies a **transitive verb** before a [subordinate clause](#mute-nimi-suli-poka), which receives the main **verb** from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [particle "li"](#nimi-lili-li)) is the same.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
 |:-:|:-|
@@ -1021,7 +1021,7 @@ nimi lawa pali li kama nimi wawa luka, la ona li jo e kon pi nimi "pali e 'kon p
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She needs, that she is home.* → *She has to be home.* |
 
 
-#### nimi wawa poka musi
+#### nimi suli wawa poka musi
 *(Eksperimentaj Helpaj Verboj — Experimental Auxiliary Verbs)*
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | open | pini | pini lon → pini |
@@ -1030,10 +1030,10 @@ nimi lawa pali li kama nimi wawa luka, la ona li jo e kon pi nimi "pali e 'kon p
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *open/turned on/ready, to be ready to* | *past, to stop -ing* | *finished, to finish -ing* |
 
 
-#### nimi wawa poka nasa
+#### nimi suli wawa poka nasa
 *(Strangaj Helpaj Verboj — Strange Auxiliary Verbs)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "pana" li ken kama **nimi wawa poka**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "pana" li ken kama **nimi suli wawa poka**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> "pana" povas fariĝi **helpa verbo**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> "pana" can become an **auxiliary verb**.
 
@@ -1043,7 +1043,7 @@ nimi lawa pali li kama nimi wawa luka, la ona li jo e kon pi nimi "pali e 'kon p
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I teach Toki Pona.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi wawa luka** ale li ken kama **nimi wawa poka**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli wawa luka** ale li ken kama **nimi suli wawa poka**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Ĉiu **transitiva verbo** povas fariĝi **helpa verbo**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> Every **transitive verb** can become an **auxiliary verb**.
 
@@ -1053,7 +1053,7 @@ nimi lawa pali li kama nimi wawa luka, la ona li jo e kon pi nimi "pali e 'kon p
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I love to get to know your friend.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi wawa poka** "kama" en [nimi suli](#nimi-suli) "pini" li ken kama weka.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli wawa poka** "kama" en [nimi suli](#nimi-suli) "pini" li ken kama weka.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> La **helpa verbo** "kama" kaj la [radika vorto](#nimi-suli) "pini" povas malaperi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> The **auxiliary verb** "kama" and the [content word](#nimi-suli) "pini" can disappear.
 
@@ -1063,9 +1063,9 @@ nimi lawa pali li kama nimi wawa luka, la ona li jo e kon pi nimi "pali e 'kon p
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She will sleep after a short period of time. She will sleep soon. She falls asleep quickly.* |
 
 
-[nimi poka luka](#nimi-poka-luka) "lon", "tan", "tawa" li ken kama **nimi wawa poka**.  
-La [prepozicioj](#nimi-poka-luka) "lon", "tan", "tawa" povas fariĝi **helpaj verboj**.  
-The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary verbs**.
+[nimi suli poka luka](#nimi-suli-poka-luka) "lon", "tan", "tawa" li ken kama **nimi suli wawa poka**.  
+La [prepozicioj](#nimi-suli-poka-luka) "lon", "tan", "tawa" povas fariĝi **helpaj verboj**.  
+The [prepositions](#nimi-suli-poka-luka) "lon", "tan", "tawa" can become **auxiliary verbs**.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi lon moku e kili. | sina tan moku e kili. | ona li tawa moku e kili. |
 |:-:|:-|:-|:-|
@@ -1073,22 +1073,22 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am eating an apple.* | *You have been eating an apple.* | *She is going to eat an apple.* |
 
 
-## nimi poka
+## nimi suli poka
 *(Modifiloj — Modifiers)*
 
 | [↑](#nimi-suli) |
 |:-:|
-| [nimi poka pona](#nimi-poka-pona) |
-| [nimi poka palisa](#nimi-poka-palisa) |
-| [nimi poka nanpa](#nimi-poka-nanpa) |
-| [nimi poka luka](#nimi-poka-luka) |
+| [nimi suli poka pona](#nimi-suli-poka-pona) |
+| [nimi suli poka palisa](#nimi-suli-poka-palisa) |
+| [nimi suli poka nanpa](#nimi-suli-poka-nanpa) |
+| [nimi suli poka luka](#nimi-suli-poka-luka) |
 
-### nimi poka pona
+### nimi suli poka pona
 *(Simplaj Modifiloj — Simple Modifiers)*
 
-| [↑](#nimi-poka) |
+| [↑](#nimi-suli-poka) |
 |:-:|
-| [nimi poka pona musi](#nimi-poka-pona-musi) |
+| [nimi suli poka pona musi](#nimi-suli-poka-pona-musi) |
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | jelo | kule | laso | loje | pimeja | walo |
 |:-:|:-|:-|:-|:-|:-|:-|
@@ -1126,7 +1126,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *unique* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli](#nimi-suli) li kama nimi ante li kama ala jo e kon sin, la ona li **nimi poka pona**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli](#nimi-suli) li kama nimi ante li kama ala jo e kon sin, la ona li **nimi suli poka pona**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Se [radika vorto](#nimi-suli) fariĝas alia vorto kaj ne ricevas aldonan signifon, ĝi estas **simpla modifilo**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [content word](#nimi-suli) becomes another word and doesn't recieve an additional meaning, it is a **simple modifier**.
 
@@ -1136,7 +1136,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am strong.* | *Water strengthens me.* | *Strength lies within.* |
 
 
-#### nimi poka pona musi
+#### nimi suli poka pona musi
 *(Eksperimentaj Simplaj Modifiloj — Experimental Simple Modifier)*
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala | kule | selo | tu |
@@ -1155,14 +1155,14 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *youngling* | *adult* |
 
 
-### nimi poka palisa
+### nimi suli poka palisa
 *(Korelativoj — Correlatives)*
 
-| [↑](#nimi-poka) |
+| [↑](#nimi-suli-poka) |
 |:-:|
-| [nimi poka palisa musi](#nimi-poka-palisa-musi) |
-| [nimi poka palisa namako](#nimi-poka-palisa-namako) |
-| [nimi poka palisa nasa](#nimi-poka-palisa-nasa) |
+| [nimi suli poka palisa musi](#nimi-suli-poka-palisa-musi) |
+| [nimi suli poka palisa namako](#nimi-suli-poka-palisa-namako) |
+| [nimi suli poka palisa nasa](#nimi-suli-poka-palisa-nasa) |
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala | ale | ni | seme |
 |:-:|:-|:-|:-|:-|
@@ -1170,7 +1170,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *no, no thing, nothing* | *every, every thing, everything* | *this/that, this/that thing* | *which, which thing, what* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi poka palisa** li ken kama sin, taso nimi "pi ijo ni" li kama "ni".  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi **nimi lili** "pi" la nimi "ijo" lon kama pi **nimi suli poka palisa** li ken kama sin, taso nimi "pi ijo ni" li kama "ni".  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> En genitiva frazero (t.e. la vortoj malantaŭ la **partikulo** "pi"), "ijo" antaŭ **korelativo** povas reaperi, sed "pi ijo ni" fariĝas "ni".  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> In a genitive clause (i.e. the words behind the **particle** "pi"), "ijo" before a **correlative** can reappear, but "pi ijo ni" becomes "ni".
 
@@ -1180,7 +1180,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *parent of everything* | *every parent* | *the person there* → *that person* |
 
 
-#### nimi poka palisa musi
+#### nimi suli poka palisa musi
 *(Eksperimentaj Korelativoj — Experimental Correlatives)*
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | wan |
@@ -1189,7 +1189,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *a certain, something certain* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi mute poka** li ken sama **nimi poka palisa**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi mute poka** li ken sama **nimi suli poka palisa**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Subfrazo** povas esti kiel **korelativo**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> A **subordinate clause** can be like a **correlative**.
 
@@ -1214,7 +1214,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm seeing the mountain, that is big.* | *The mountain, that I'm seeing, is big.* |
 
 
-#### nimi poka palisa namako
+#### nimi suli poka palisa namako
 *(Aldonaj Korelativoj — Additional Correlatives)*
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> tawa jan **Sonja** la nimi "seme" li [nimi lili](#nimi-lili).  
@@ -1222,12 +1222,12 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 
 
-#### nimi poka palisa nasa
+#### nimi suli poka palisa nasa
 *(Strangaj Korelativoj — Strange Correlatives)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi [mute nimi poka](#mute-nimi-poka) li ken kama weka. tan ni la [nimi wawa poka](#nimi-wawa-poka) en [nimi poka luka](#nimi-poka-luka) li ken kama [nimi lawa](#nimi-lawa).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La komenco de [subfrazo](#mute-nimi-poka) povas malaperi. Tial, [helpaj verboj](#nimi-wawa-poka) kaj [prepozicioj](#nimi-poka-luka) povas fariĝi [substantivoj](#nimi-lawa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The beginning of a [subordinate clause](#mute-nimi-poka) can disappear. Therefore, [auxiliary verbs](#nimi-wawa-poka) and [prepositions](#nimi-poka-luka) can become [nouns](#nimi-lawa).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi [mute nimi suli poka](#mute-nimi-suli-poka) li ken kama weka. tan ni la [nimi suli wawa poka](#nimi-suli-wawa-poka) en [nimi suli poka luka](#nimi-suli-poka-luka) li ken kama [nimi suli lawa](#nimi-suli-lawa).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La komenco de [subfrazo](#mute-nimi-suli-poka) povas malaperi. Tial, [helpaj verboj](#nimi-suli-wawa-poka) kaj [prepozicioj](#nimi-suli-poka-luka) povas fariĝi [substantivoj](#nimi-suli-lawa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The beginning of a [subordinate clause](#mute-nimi-suli-poka) can disappear. Therefore, [auxiliary verbs](#nimi-suli-wawa-poka) and [prepositions](#nimi-suli-poka-luka) can become [nouns](#nimi-suli-lawa).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan pi ona li tawa tomo | jan pi li tawa tomo | jan pi tawa tomo |
 |:-:|:-|:-|:-|
@@ -1235,13 +1235,13 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *somebody, who is going home* | *home-coming person* | *home-comer* |
 
 
-### nimi poka nanpa
+### nimi suli poka nanpa
 *(Numeraloj — Numerals)*
 
-| [↑](#nimi-poka) |
+| [↑](#nimi-suli-poka) |
 |:-:|
-| [nimi poka nanpa musi](#nimi-poka-nanpa-musi) |
-| [nimi poka nanpa namako](#nimi-poka-nanpa-namako) |
+| [nimi suli poka nanpa musi](#nimi-suli-poka-nanpa-musi) |
+| [nimi suli poka nanpa namako](#nimi-suli-poka-nanpa-namako) |
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala | ale | luka | mute | tu | wan |
 |:-:|:-|:-|:-|:-|:-|:-|
@@ -1249,7 +1249,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *zero* | *senfine* | *five* | *three* | *two* | *one* |
 
 
-#### nimi poka nanpa musi
+#### nimi suli poka nanpa musi
 *(Eksperimentaj Numeraloj — Experimental Numerals)*
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | esun |
@@ -1257,9 +1257,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/eo.png" height="18"> | *sep* |
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *seven* |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka nanpa](#nimi-poka-nanpa) li ken kama [nimi lawa](#nimi-lawa).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Numeralo](#nimi-poka-nanpa) povas fariĝi [substantivo](#nimi-lawa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [numeral](#nimi-poka-nanpa) can become a [noun](#nimi-lawa).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli poka nanpa](#nimi-suli-poka-nanpa) li ken kama [nimi suli lawa](#nimi-suli-lawa).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Numeralo](#nimi-suli-poka-nanpa) povas fariĝi [substantivo](#nimi-suli-lawa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> A [numeral](#nimi-suli-poka-nanpa) can become a [noun](#nimi-suli-lawa).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | wan ona li loje. wan ante li jelo. | mute nimi | nimi mute | ale pi nimi mute |
 |:-:|:-|:-|:-|:-|
@@ -1267,9 +1267,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *One is red. The other one is yellow.* | *set of words, sentence* | *many words* | *dictionary* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "en"](#nimi-lili-en) li ken lon [nimi poka nanpa](#nimi-poka-nanpa) tu.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La [konjunkcio "en"](#nimi-lili-en) povas esti ĉe du [numeraloj](#nimi-poka-nanpa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [conjunction "en"](#nimi-lili-en) can be with two [numerals](#nimi-poka-nanpa).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lili "en"](#nimi-lili-en) li ken lon [nimi suli poka nanpa](#nimi-suli-poka-nanpa) tu.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La [konjunkcio "en"](#nimi-lili-en) povas esti ĉe du [numeraloj](#nimi-suli-poka-nanpa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The [conjunction "en"](#nimi-lili-en) can be with two [numerals](#nimi-suli-poka-nanpa).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | sike esun tu | tenpo suno luka tu en tu tu |
 |:-:|:-|:-|
@@ -1306,12 +1306,12 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *It's going to be your turn.* | *It's your turn.* | *It's been your turn.* |
 
 
-#### nimi poka nanpa namako
+#### nimi suli poka nanpa namako
 *(Aldonaj Numeraloj — Additional Numerals)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kon pi **nimi poka nanpa** "mute" en kon pi [nimi poka pona](#nimi-poka-pona) "mute" li ken wan.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> La signifoj de la **numeralo** "mute" kaj de la [simpla modifilo](#nimi-poka-pona) "mute" povas esti unu.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The meanings of the **numeral** "mute" and of the [simple modifier](#nimi-poka-pona) "mute" can be one.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kon pi **nimi suli poka nanpa** "mute" en kon pi [nimi suli poka pona](#nimi-suli-poka-pona) "mute" li ken wan.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> La signifoj de la **numeralo** "mute" kaj de la [simpla modifilo](#nimi-suli-poka-pona) "mute" povas esti unu.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> The meanings of the **numeral** "mute" and of the [simple modifier](#nimi-suli-poka-pona) "mute" can be one.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | mute |
 |:-:|:-|
@@ -1319,9 +1319,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *three, many* → *three (or more)* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka nanpa](#nimi-poka-nanpa) tu la **sitelen pi ijo tu** li ken kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Ĉe du [numeraloj](#nimi-poka-nanpa), la **komo** povas malaperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> With two [numerals](#nimi-poka-nanpa), the **comma** can disappear.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli poka nanpa](#nimi-suli-poka-nanpa) tu la **sitelen pi ijo tu** li ken kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Ĉe du [numeraloj](#nimi-suli-poka-nanpa), la **komo** povas malaperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> With two [numerals](#nimi-suli-poka-nanpa), the **comma** can disappear.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | palisa luka, tu → palisa luka tu |
 |:-:|:-|
@@ -1329,14 +1329,14 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *seven fingers* |
 
 
-### nimi poka luka
+### nimi suli poka luka
 *(Prepozicioj — Prepositions)*
 
-| [↑](#nimi-poka) |
+| [↑](#nimi-suli-poka) |
 |:-:|
-| [nimi poka luka musi](#nimi-poka-luka-musi) |
+| [nimi suli poka luka musi](#nimi-suli-poka-luka-musi) |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli** li jo e [nimi lili](#nimi-lili) (anu **nimi poka**), la **nimi poka luka** li ken lon pini ona taso.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> **nimi suli** li jo e [nimi lili](#nimi-lili) (anu **nimi suli poka**), la **nimi suli poka luka** li ken lon pini ona taso.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam **radika vorto** havas [partikulon](#nimi-lili) (aŭ **modifilon**), **prepozicio** povas esti nur malantaŭ ĝi.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a **content word** has a **particle** (or a **modifier**), **prepositions** can be only after them.
 
@@ -1346,9 +1346,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm giving you the apple.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa](#nimi-wawa) en **nimi poka luka** li sama, la **nimi poka luka** li kama weka. [nimi lili kalama](#nimi-lili-kalama) li ken lon [nimi wawa](#nimi-wawa) lon [nimi poka luka](#nimi-poka-luka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [verbo](#nimi-wawa) kaj **prepozicio** estas la samaj, la **prepozicio** malaperas. Povas esti [interjekcio](#nimi-lili-kalama) inter la [verbo](#nimi-wawa) kaj la [prepozicio](#nimi-poka-luka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [verb](#nimi-wawa) and a **preposition** estas the same, the **preposition** disappears. There can be an [interjection](#nimi-lili-kalama) between the [verb](#nimi-wawa) and the [preposition](#nimi-poka-luka).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli wawa](#nimi-suli-wawa) en **nimi suli poka luka** li sama, la **nimi suli poka luka** li kama weka. [nimi lili kalama](#nimi-lili-kalama) li ken lon [nimi suli wawa](#nimi-suli-wawa) lon [nimi suli poka luka](#nimi-suli-poka-luka).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se [verbo](#nimi-suli-wawa) kaj **prepozicio** estas la samaj, la **prepozicio** malaperas. Povas esti [interjekcio](#nimi-lili-kalama) inter la [verbo](#nimi-suli-wawa) kaj la [prepozicio](#nimi-suli-poka-luka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If a [verb](#nimi-suli-wawa) and a **preposition** estas the same, the **preposition** disappears. There can be an [interjection](#nimi-lili-kalama) between the [verb](#nimi-suli-wawa) and the [preposition](#nimi-suli-poka-luka).
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi tawa tawa tomo seli. → mi tawa tomo seli. | mi tawa ala tawa tomo seli. → mi tawa ala tomo seli. |
 |:-:|:-|:-|
@@ -1356,9 +1356,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm going to the kitchen.* | *I'm not going to the kitchen.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **nimi poka luka** lon [nimi wawa](#nimi-wawa) taso. ni la jan li ken weka e **sitelen pi ijo tu** lon **nimi poka luka** tu. sin la jan **Sonja** li kepeken **nimi poka** (anu **nimi lili** "[e](#nimi-lili-e)") li kepeken ala **nimi poka luka**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** uzas **prepoziciojn** nur ĉe [verboj](#nimi-wawa). Tiam oni povas ellasi la **komon** ĉe du **prepozicioj**. Aldone, **Sonja** uzas **modifilon** (aŭ la **partikulon** "[pi](#nimi-lili-pi)") anstataŭ **prepozicio**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** uses **prepositions** only with [verbs](#nimi-wawa). In this case, one can remove the **comma** between two **prepositions**. In addition, **Sonja** uses **modifiers** (or the **particle** "[pi](#nimi-lili-pi)") instead of **prepositions**.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **nimi suli poka luka** lon [nimi suli wawa](#nimi-suli-wawa) taso. ni la jan li ken weka e **sitelen pi ijo tu** lon **nimi suli poka luka** tu. sin la jan **Sonja** li kepeken **nimi suli poka** (anu **nimi lili** "[e](#nimi-lili-e)") li kepeken ala **nimi suli poka luka**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** uzas **prepoziciojn** nur ĉe [verboj](#nimi-suli-wawa). Tiam oni povas ellasi la **komon** ĉe du **prepozicioj**. Aldone, **Sonja** uzas **modifilon** (aŭ la **partikulon** "[pi](#nimi-lili-pi)") anstataŭ **prepozicio**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** uses **prepositions** only with [verbs](#nimi-suli-wawa). In this case, one can remove the **comma** between two **prepositions**. In addition, **Sonja** uses **modifiers** (or the **particle** "[pi](#nimi-lili-pi)") instead of **prepositions**.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan lon poka → jan poka | pona tawa lukin → pona lukin |
 |:-:|:-|:-|
@@ -1366,7 +1366,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *neighbor* | *beautiful* |
 
 
-#### nimi poka luka musi
+#### nimi suli poka luka musi
 *(Eksperimentaj Prepozicioj — Experimental Prepositions)*
 
 ---
@@ -1408,9 +1408,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *different from* | *instead of* | *according to, following, depending on* | *independent from* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "tawa poka (pi)" en nimi "lon poka (pi)" li ken jo e kon pi [nimi poka luka musi](#nimi-poka-luka-musi) "ante".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "tawa poka (pi)" kaj "lon poka (pi)" povas havi la signifon de la [eksperimenta prepozicio](#nimi-poka-luka-musi) "ante".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "tawa poka (pi)" and "lon poka (pi)" can have the meaning of the [experimental preposition](#nimi-poka-luka-musi) "ante".
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "tawa poka (pi)" en nimi "lon poka (pi)" li ken jo e kon pi [nimi suli poka luka musi](#nimi-suli-poka-luka-musi) "ante".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "tawa poka (pi)" kaj "lon poka (pi)" povas havi la signifon de la [eksperimenta prepozicio](#nimi-suli-poka-luka-musi) "ante".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "tawa poka (pi)" and "lon poka (pi)" can have the meaning of the [experimental preposition](#nimi-suli-poka-luka-musi) "ante".
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan li suli mute, mani li suli lili. → jan li suli mute tawa poka mani. → jan li suli mute lon poka mani. |
 |:-:|:-|
@@ -1428,7 +1428,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Independent from that, men and women work and are happy.* → *But men and women work and are happy.* |
 
 
-#### nimi poka luka namako
+#### nimi suli poka luka namako
 *(Aldonaj Prepozicioj — Additional Prepositions)*
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | a → lon |
@@ -1442,12 +1442,12 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> According to **Sonja**, "taso" is a [particle](#nimi-lili).
 
 
-#### nimi poka luka nasa
+#### nimi suli poka luka nasa
 *(Strangaj Prepozicioj — Strange Prepositions)*
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi nimi lili "[la](#nimi-lili-la)" la [nimi poka luka](#nimi-poka-luka) li ken kama weka.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> En kunteksta frazero (t.e. antaŭ la partikulo "[la](#nimi-lili-la)") [prepozicio](#nimi-poka-luka) povas malaperi.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> In a contextual phrase (i.e. before the particle "[la](#nimi-lili-la)"), [prepositions](#nimi-poka-luka) can disappear.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> kama pi nimi lili "[la](#nimi-lili-la)" la [nimi suli poka luka](#nimi-suli-poka-luka) li ken kama weka.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> En kunteksta frazero (t.e. antaŭ la partikulo "[la](#nimi-lili-la)") [prepozicio](#nimi-suli-poka-luka) povas malaperi.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> In a contextual phrase (i.e. before the particle "[la](#nimi-lili-la)"), [prepositions](#nimi-suli-poka-luka) can disappear.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | tawa mi la sina jan pona. → mi la sina jan pona. |
 |:-:|:-|
@@ -1455,9 +1455,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *From my point of view, you are a good person.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li weka e [nimi poka luka](#nimi-poka-luka) "tawa" lon kama pi nimi "lukin".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** forigas la [prepozicion](#nimi-poka-luka) "tawa" antaŭ "lukin".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** removes the [preposition](#nimi-poka-luka) "tawa" before "lukin".
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Pije** li weka e [nimi suli poka luka](#nimi-suli-poka-luka) "tawa" lon kama pi nimi "lukin".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> **Pije** forigas la [prepozicion](#nimi-suli-poka-luka) "tawa" antaŭ "lukin".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Pije** removes the [preposition](#nimi-suli-poka-luka) "tawa" before "lukin".
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina tawa lukin sama waso. → sina lukin sama waso. |
 |:-:|:-|
@@ -1475,9 +1475,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You are empathizing badly because of struggle.* → *You are angry.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "lon ... (pi)" li ken kama [nimi poka luka](#nimi-poka-luka).  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> "lon ... (pi)" povas fariĝi [prepozicio](#nimi-poka-luka).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "lon ... (pi)" can become a [preposition](#nimi-poka-luka).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "lon ... (pi)" li ken kama [nimi suli poka luka](#nimi-suli-poka-luka).  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> "lon ... (pi)" povas fariĝi [prepozicio](#nimi-suli-poka-luka).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> "lon ... (pi)" can become a [preposition](#nimi-suli-poka-luka).
 
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi tawa lon poka sina. → mi tawa poka sina. | mi tawa poka sina. |
@@ -1496,9 +1496,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *People are more important than money.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) li kama [nimi lawa](#nimi-lawa), la kon ona li kama sama ni pi nimi "ijo" lon pini pi [nimi poka luka](#nimi-poka-luka) ni. jan **Pije** li kepeken [nimi poka luka](#nimi-poka-luka) "tan" lon nasin ni.   
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam [prepozicio](#nimi-poka-luka) fariĝas [substantivo](#nimi-lawa), ĝia signifo povas fariĝi sama al tiu de "ijo" malantaŭ tiu [prepozicio](#nimi-poka-luka). **Pije** uzas la [prepozicion](#nimi-poka-luka) "tan" en tiu maniero.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a [preposition](#nimi-poka-luka) becomes a [noun](#nimi-lawa), its meaning can become that of the word "ijo" after that [preposition](#nimi-poka-luka). **Pije** uses the [preposition](#nimi-poka-luka) "tan" in this way.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli poka luka](#nimi-suli-poka-luka) li kama [nimi suli lawa](#nimi-suli-lawa), la kon ona li kama sama ni pi nimi "ijo" lon pini pi [nimi suli poka luka](#nimi-suli-poka-luka) ni. jan **Pije** li kepeken [nimi suli poka luka](#nimi-suli-poka-luka) "tan" lon nasin ni.   
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam [prepozicio](#nimi-suli-poka-luka) fariĝas [substantivo](#nimi-suli-lawa), ĝia signifo povas fariĝi sama al tiu de "ijo" malantaŭ tiu [prepozicio](#nimi-suli-poka-luka). **Pije** uzas la [prepozicion](#nimi-suli-poka-luka) "tan" en tiu maniero.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a [preposition](#nimi-suli-poka-luka) becomes a [noun](#nimi-suli-lawa), its meaning can become that of the word "ijo" after that [preposition](#nimi-suli-poka-luka). **Pije** uses the [preposition](#nimi-suli-poka-luka) "tan" in this way.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi sona ala e ni: ni li tan seme. → mi sona ala e tan. | ona li tawa e ona sama. → ona li tawa e sama. |
 |:-:|:-|:-|
@@ -1514,7 +1514,7 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | [sitelen musi pi poka nimi](#sitelen-musi-pi-poka-nimi) |
 | [sitelen nasa pi poka nimi](#sitelen-nasa-pi-poka-nimi) |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **mute nimi poka** lon pini taso pi **mute nimi**. ni la **sitelen pi ijo tu** li kama **sitelen pi ijo kama**. **mute nimi pi wile sona** li ken **mute nimi poka**.  
+<img src="musi/sitelen/len-ma/tp.png" height="18"> jan **Sonja** li kepeken **mute nimi suli poka** lon pini taso pi **mute nimi**. ni la **sitelen pi ijo tu** li kama **sitelen pi ijo kama**. **mute nimi pi wile sona** li ken **mute nimi suli poka**.  
 <img src="musi/sitelen/len-ma/eo.png" height="18"> **Sonja** uzas **subfrazojn** nur fine de **frazo**. Tiam, **komo** fariĝas **dupunkto**. **Demanda frazo** povas esti **subfrazo**.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> **Sonja** uses **subordinate clauses** only at the end of a **sentence**. In this case, the **comma** becomes a **colon**. A question can be a subordinate clause.
 
@@ -1561,9 +1561,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *It is eating.* | *It is food.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) en [nimi wawa poka](#nimi-wawa-poka) li jo e **sitelen pi kama sin**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Prepozicio](#nimi-poka-luka) kaj [helpa verbo](#nimi-wawa-poka) havas **plus-signon**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Prepositions](#nimi-poka-luka) and [auxiliary verbs](#nimi-wawa-poka) have a **plus sign**.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli poka luka](#nimi-suli-poka-luka) en [nimi suli wawa poka](#nimi-suli-wawa-poka) li jo e **sitelen pi kama sin**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Prepozicio](#nimi-suli-poka-luka) kaj [helpa verbo](#nimi-suli-wawa-poka) havas **plus-signon**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Prepositions](#nimi-suli-poka-luka) and [auxiliary verbs](#nimi-suli-wawa-poka) have a **plus sign**.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li pana e lipu tawa+sina. | ona li wile+lape. |
 |:-:|:-|:-|
@@ -1581,9 +1581,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Sonja* | *You are number one.* | *the first language* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) li kama weka, la **sitelen nanpa wan** pi [nimi poka](#nimi-poka) ona li ken **suli**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam [substantivo](#nimi-lawa) malaperas, ĝia [modifilo](#nimi-poka) povas havi **majusklon**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a [noun](#nimi-lawa) disappears, its [modifier](#nimi-poka) can have an **upper-case letter**.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli lawa](#nimi-suli-lawa) li kama weka, la **sitelen nanpa wan** pi [nimi suli poka](#nimi-suli-poka) ona li ken **suli**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Kiam [substantivo](#nimi-suli-lawa) malaperas, ĝia [modifilo](#nimi-suli-poka) povas havi **majusklon**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> When a [noun](#nimi-suli-lawa) disappears, its [modifier](#nimi-suli-poka) can have an **upper-case letter**.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | ijo ale li pona. → '-ale li pona. → Ale li pona. |
 |:-:|:-|
@@ -1614,9 +1614,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I want to see my house, but I don't have time.* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi mute nimi la [nimi poka luka](#nimi-poka-luka) li ken jo e **sitelen pi ijo tu**.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Fine de frazo, [prepozicio](#nimi-poka-luka) povas havi **komon**.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the end of a sentence, a [preposition](#nimi-poka-luka) can have a **comma**.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> pini pi mute nimi la [nimi suli poka luka](#nimi-suli-poka-luka) li ken jo e **sitelen pi ijo tu**.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Fine de frazo, [prepozicio](#nimi-suli-poka-luka) povas havi **komon**.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> At the end of a sentence, a [preposition](#nimi-suli-poka-luka) can have a **comma**.
 
 | <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi pana e lipu, tawa sina. |
 |:-:|:-|
@@ -1631,9 +1631,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |:-:|
 | [sitelen pona musi](musi/sitelen/pona/sitelen-pona-musi.md) |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa](#nimi-lawa) en [nimi poka](#nimi-poka) ona nanpa wan li kama wan.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Substantivo](#nimi-lawa) kaj ĝia unua [adjektivo](#nimi-poka) fariĝas unu.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [nouns](#nimi-lawa) and their first [adjective](#nimi-poka) become one.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli lawa](#nimi-suli-lawa) en [nimi suli poka](#nimi-suli-poka) ona nanpa wan li kama wan.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Substantivo](#nimi-suli-lawa) kaj ĝia unua [adjektivo](#nimi-suli-poka) fariĝas unu.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [nouns](#nimi-suli-lawa) and their first [adjective](#nimi-suli-poka) become one.
 
 | <img src="musi/sitelen/pona/toki-pona.png" height="25"> |  <img src="musi/sitelen/pona/sitelen-pona-musi.png" height="25"> | 
 |:--:|:--:| 
@@ -1667,33 +1667,33 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |:--:|:--:|:--:|:--:|
 | *ale li pona.* | *jan ala li ike.* | *mi o moku e ijo pona.* | *o kute e mama sina.* |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi poka luka](#nimi-poka-luka) li lon sewi.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Prepozicio](#nimi-poka-luka) estas supre.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Prepositions](#nimi-poka-luka) are above.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli poka luka](#nimi-suli-poka-luka) li lon sewi.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Prepozicio](#nimi-suli-poka-luka) estas supre.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Prepositions](#nimi-suli-poka-luka) are above.
 
 | <img src="musi/sitelen/pona/mi-lon-tomo.png" height="50"> | <img src="musi/sitelen/pona/wawa-li-lon-insa.png" height="75"> | <img src="musi/sitelen/pona/mi-pana-e-kala-tawa-ona-lon-tomo.png" height="75"> | <img src="musi/sitelen/pona/tan-seme-la-soweli-wawa-pimeja-li-moku-e-ona.png" height="75"> |
 |:--:|:--:|:--:|:--:| 
 | *mi lon tomo.* | *wawa li lon insa.* | *mi pana e kala tawa ona lon tomo.* | *tan seme la soweli wawa pimeja li moku e ona?* |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi wawa poka](#nimi-wawa-poka) li lon sewi.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Helpa verbo](#nimi-wawa-poka) estas supre.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Auxiliary Verbs](#nimi-wawa-poka) are above.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli wawa poka](#nimi-suli-wawa-poka) li lon sewi.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Helpa verbo](#nimi-suli-wawa-poka) estas supre.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Auxiliary Verbs](#nimi-suli-wawa-poka) are above.
 
 | <img src="musi/sitelen/pona/mi-kama-sona-e-toki-pona.png" height="75"> |
 |:--:| 
 | *mi kama sona e toki pona.* |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [mute nimi poka](#mute-nimi-poka) li lon anpa pi nimi "ni".  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Subfrazo](#mute-nimi-poka) estas sub "ni".  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Subordinate clauses](#mute-nimi-poka) are below "ni".
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [mute nimi suli poka](#mute-nimi-suli-poka) li lon anpa pi nimi "ni".  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Subfrazo](#mute-nimi-suli-poka) estas sub "ni".  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Subordinate clauses](#mute-nimi-suli-poka) are below "ni".
 
 | <img src="musi/sitelen/pona/mi-sona-e-ni-mi-anpa.png" height="50"> |
 |:--:| 
 | *mi sona e ni: mi anpa.* |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ni" li weka, la [mute nimi poka](#mute-nimi-poka) li lon ala anpa.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> Se "ni" mankas, la [subfrazo](#mute-nimi-poka) ne estas sube.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If "ni" is missing, the [subordinate clause](#mute-nimi-poka) is not below.
+<img src="musi/sitelen/len-ma/tp.png" height="18"> nimi "ni" li weka, la [mute nimi suli poka](#mute-nimi-suli-poka) li lon ala anpa.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> Se "ni" mankas, la [subfrazo](#mute-nimi-suli-poka) ne estas sube.  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> If "ni" is missing, the [subordinate clause](#mute-nimi-suli-poka) is not below.
 
 | <img src="musi/sitelen/pona/mi-pona-tawa-jan-la-jan-li-pona-tawa-mi.png" height="75"> |
 |:--:| 
@@ -1707,9 +1707,9 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 |:--:| 
 | *taso mije en meli li pali li pilin pona.* |
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi lawa esun](#nimi-lawa-esun) en [nimi lawa pona](#nimi-lawa-pona) li kama ala wan pi [nimi lawa](#nimi-lawa) ante.  
-<img src="musi/sitelen/len-ma/eo.png" height="18"> [Pronomoj](#nimi-lawa-esun) kaj [simplaj substantivoj](#nimi-lawa-pona) ne fariĝas parto de alia [substantivo](#nimi-lawa).  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Pronouns](#nimi-lawa-esun) and [simple nouns](#nimi-lawa-pona) don't become part of another [noun](#nimi-lawa).
+<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli lawa esun](#nimi-suli-lawa-esun) en [nimi suli lawa pona](#nimi-suli-lawa-pona) li kama ala wan pi [nimi suli lawa](#nimi-suli-lawa) ante.  
+<img src="musi/sitelen/len-ma/eo.png" height="18"> [Pronomoj](#nimi-suli-lawa-esun) kaj [simplaj substantivoj](#nimi-suli-lawa-pona) ne fariĝas parto de alia [substantivo](#nimi-suli-lawa).  
+<img src="musi/sitelen/len-ma/en.jpeg" height="18"> [Pronouns](#nimi-suli-lawa-esun) and [simple nouns](#nimi-suli-lawa-pona) don't become part of another [noun](#nimi-suli-lawa).
 
 | <img src="musi/sitelen/pona/mi-weka-e-ike-jan-la-mi-weka-e-ike-mi.png" height="50"> |
 |:--:| 
@@ -1722,147 +1722,147 @@ The [prepositions](#nimi-poka-luka) "lon", "tan", "tawa" can become **auxiliary 
 | | | | | |
 |:-|:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/a.png" height="12">        | | | mu — **a**, ala | **(emphasis, emotion or confirmation)** → yes! |
-| <img src="musi/sitelen/pona/akesi.png" height="12">    | *[LAWA](#nimi-lawa)* | *[SIJELO](#nimi-lawa-sijelo)* | **akesi** — soweli | cold-blooded → **non-cute animal**; **reptile**, **amphibian**; monster |
+| <img src="musi/sitelen/pona/akesi.png" height="12">    | *[LAWA](#nimi-suli-lawa)* | *[SIJELO](#nimi-suli-lawa-sijelo)* | **akesi** — soweli | cold-blooded → **non-cute animal**; **reptile**, **amphibian**; monster |
 | <img src="musi/sitelen/pona/ala.png" height="12">      | | | mu — a, **ala** | (negation) → **no**! |
-|                                                        | *[POKA](#nimi-poka)* | *[PALISA](#nimi-poka-palisa)* | **ala**, ale, ni, seme, wan | **not** → none, nothing |
-|                                                        | *[POKA](#nimi-poka)* | *[NANPA](#nimi-poka-nanpa)* | **ala**, ale, esun, luka, mute, tu, wan | 0, **zero** |
-|                                                        | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | **ala** — lon | non-, false |
+|                                                        | *[POKA](#nimi-suli-poka)* | *[PALISA](#nimi-suli-poka-palisa)* | **ala**, ale, ni, seme, wan | **not** → none, nothing |
+|                                                        | *[POKA](#nimi-suli-poka)* | *[NANPA](#nimi-suli-poka-nanpa)* | **ala**, ale, esun, luka, mute, tu, wan | 0, **zero** |
+|                                                        | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | **ala** — lon | non-, false |
 | <img src="musi/sitelen/pona/alasa.png" height="12">    | | | **alasa**, pali | **to hunt**, **forage** |
-| <img src="musi/sitelen/pona/ale.png" height="12">      | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **ale** — wan | whole; **abundant**, **countless**, **bountiful**, **plentiful** → entirety; **abundance**, **life**, **universe** |
-|                                                        | *[POKA](#nimi-poka)* | *[PALISA](#nimi-poka-palisa)* | ala, **ale**, ni, seme, wan | **all**; **every** → **everything** |
-|                                                        | *[POKA](#nimi-poka)* | *[NANPA](#nimi-poka-nanpa)* | ala, **ale**, esun, luka, mute, tu, wan | **100**, a hundred, infinite |
-| <img src="musi/sitelen/pona/anpa.png" height="12">     | *[LAWA](#nimi-lawa)* | *[NASIN](#nimi-lawa-nasin)* | **anpa** — sewi, lawa — noka | **bowing down**, **downward**, **humble**, **lowly**, **dependent** |
-| <img src="musi/sitelen/pona/ante.png" height="12">     | *[POKA](#nimi-poka)* | *[LUKA](#nimi-poka-luka)* | **ante** — sama | **different**, **altered**, **changed**, **other** → than |
+| <img src="musi/sitelen/pona/ale.png" height="12">      | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | **ale** — wan | whole; **abundant**, **countless**, **bountiful**, **plentiful** → entirety; **abundance**, **life**, **universe** |
+|                                                        | *[POKA](#nimi-suli-poka)* | *[PALISA](#nimi-suli-poka-palisa)* | ala, **ale**, ni, seme, wan | **all**; **every** → **everything** |
+|                                                        | *[POKA](#nimi-suli-poka)* | *[NANPA](#nimi-suli-poka-nanpa)* | ala, **ale**, esun, luka, mute, tu, wan | **100**, a hundred, infinite |
+| <img src="musi/sitelen/pona/anpa.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | **anpa** — sewi, lawa — noka | **bowing down**, **downward**, **humble**, **lowly**, **dependent** |
+| <img src="musi/sitelen/pona/ante.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[LUKA](#nimi-suli-poka-luka)* | **ante** — sama | **different**, **altered**, **changed**, **other** → than |
 | <img src="musi/sitelen/pona/anu.png" height="12">      | | | **anu**, en | (…), **or** |
-| <img src="musi/sitelen/pona/awen.png" height="12">     | *WAWA* | *[POKA](#nimi-wawa-poka)*      | **awen**, kama, pini | |
+| <img src="musi/sitelen/pona/awen.png" height="12">     | *WAWA* | *[POKA](#nimi-suli-wawa-poka)*      | **awen**, kama, pini | |
 | <img src="musi/sitelen/pona/e.png" height="12">        | | | **e**, li, o, pi | **(before the direct object)** |
 | <img src="musi/sitelen/pona/en.png" height="12">       | | | anu, **en** | **(between multiple subjects)** |
-| <img src="musi/sitelen/pona/esun.png" height="12">     | *[POKA](#nimi-poka)* | *[LUKA](#nimi-poka-luka)* | **esun**, kepeken | …; **business transaction**; **market**, **shop**, **fair**, **bazaar** → instead of |
-|                                                        | *[POKA](#nimi-poka)* | *[NANPA](#nimi-poka-nanpa)* | ala, ale, **esun**, luka, mute, tu, wan | 7, seven |
-| <img src="musi/sitelen/pona/ijo.png" height="12">      | *[LAWA](#nimi-lawa)* | *[PONA](#nimi-lawa-pona)* | **ijo** — jan | inconscious being; **thing**, **phenomenon**, **object**, **matter** |
-| <img src="musi/sitelen/pona/ike.png" height="12">      | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | pona — **ike**, nasa, pakala, utala | **bad**, **negative**; (sin -) **non-essential**, (sin -) **irrelevant** |
-| <img src="musi/sitelen/pona/ilo.png" height="12">      | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **ilo** — pakala | useful → organ; **tool**, **implement**, **machine**, **device** |
-| <img src="musi/sitelen/pona/insa.png" height="12">     | *[LAWA](#nimi-lawa)* | *[NASIN](#nimi-lawa-nasin)* | weka — **insa**, poka, sin | inner → **centre**, **content**, **inside**, **between**; **internal organ**, **stomach** |
-| <img src="musi/sitelen/pona/jaki.png" height="12">     | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **jaki** — suwi | **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** → dirt, poison, waste |
-| <img src="musi/sitelen/pona/jan.png" height="12">      | *[LAWA](#nimi-lawa)* | *[PONA](#nimi-lawa-pona)* | ijo — **jan** | conscious being; **human being**, **person**, **somebody** |
-| <img src="musi/sitelen/pona/jelo.png" height="12">     | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | **jelo**, laso, loje | **yellow**, **yellowish** |
-| <img src="musi/sitelen/pona/jo.png" height="12">       | *WAWA* | *[PONA](#nimi-wawa-pona)*      | **jo**, pana | |
-| <img src="musi/sitelen/pona/kala.png" height="12">     | *[LAWA](#nimi-lawa)* | *[SIJELO](#nimi-lawa-sijelo)* | **kala**, kasi, pipi, waso | swimming → **fish**, **marine animal**, **sea creature** |
-| <img src="musi/sitelen/pona/kalama.png" height="12">   | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | **kalama**, kule | sounding; **to produce a sound**; **recite**, **utter aloud** |
-| <img src="musi/sitelen/pona/kama.png" height="12">     | *WAWA* | *[POKA](#nimi-wawa-poka)*      | awen, **kama**, pini | |
-| <img src="musi/sitelen/pona/kasi.png" height="12">     | *[LAWA](#nimi-lawa)* | *[SIJELO](#nimi-lawa-sijelo)* | kala, **kasi**, pipi, waso | vegetating → **plant**, **vegetation**; **herb**, **leaf** |
-| <img src="musi/sitelen/pona/ken.png" height="12">      | *WAWA* | *[POKA](#nimi-wawa-poka)*      | **ken**, lukin, open, sona, wile | |
-| <img src="musi/sitelen/pona/kepeken.png" height="12">  | *[POKA](#nimi-poka)* | *[LUKA](#nimi-poka-luka)* | esun, **kepeken** | **to use** → **with**, **by means of** |
-| <img src="musi/sitelen/pona/kili.png" height="12">     | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **kili**, pan | hanging → **fruit**, **vegetable**, **mushroom** |
-| <img src="musi/sitelen/pona/kiwen.png" height="12">    | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **kiwen**, ko, kon, telo | hard → **hard object**, **metal**, **rock**, **stone** |
-| <img src="musi/sitelen/pona/ko.png" height="12">       | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | kiwen, **ko**, kon, telo | semi-solid → **clay**, **clinging form**, **dough**, **semi-solid**, **paste**, **powder** |
-| <img src="musi/sitelen/pona/kon.png" height="12">      | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | kiwen, ko, **kon**, telo | floating, hovering → **air**, **breath**; **essence**, **spirit**; meaning, **hidden reality**, **unseen agent** |
-| <img src="musi/sitelen/pona/kule.png" height="12">     | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | kalama, **kule** | **colourful**, **painted** |
-|                                                        | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | **kule** — walo | brown, **pigmented** |
-| <img src="musi/sitelen/pona/kulupu.png" height="12">   | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **kulupu** — sijelo | interactive, reciprocal → **community**, **company**, **group**, **nation**, relation, **society**, **tribe**  |
-| <img src="musi/sitelen/pona/kute.png" height="12">     | *[LAWA](#nimi-lawa)* | *[ILO](#nimi-lawa-ilo)* | **kute**, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | **to hear**, **listen**; **pay attention to**, **obey** → **ear** |
+| <img src="musi/sitelen/pona/esun.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[LUKA](#nimi-suli-poka-luka)* | **esun**, kepeken | …; **business transaction**; **market**, **shop**, **fair**, **bazaar** → instead of |
+|                                                        | *[POKA](#nimi-suli-poka)* | *[NANPA](#nimi-suli-poka-nanpa)* | ala, ale, **esun**, luka, mute, tu, wan | 7, seven |
+| <img src="musi/sitelen/pona/ijo.png" height="12">      | *[LAWA](#nimi-suli-lawa)* | *[PONA](#nimi-suli-lawa-pona)* | **ijo** — jan | inconscious being; **thing**, **phenomenon**, **object**, **matter** |
+| <img src="musi/sitelen/pona/ike.png" height="12">      | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | pona — **ike**, nasa, pakala, utala | **bad**, **negative**; (sin -) **non-essential**, (sin -) **irrelevant** |
+| <img src="musi/sitelen/pona/ilo.png" height="12">      | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | **ilo** — pakala | useful → organ; **tool**, **implement**, **machine**, **device** |
+| <img src="musi/sitelen/pona/insa.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | weka — **insa**, poka, sin | inner → **centre**, **content**, **inside**, **between**; **internal organ**, **stomach** |
+| <img src="musi/sitelen/pona/jaki.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | **jaki** — suwi | **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** → dirt, poison, waste |
+| <img src="musi/sitelen/pona/jan.png" height="12">      | *[LAWA](#nimi-suli-lawa)* | *[PONA](#nimi-suli-lawa-pona)* | ijo — **jan** | conscious being; **human being**, **person**, **somebody** |
+| <img src="musi/sitelen/pona/jelo.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | **jelo**, laso, loje | **yellow**, **yellowish** |
+| <img src="musi/sitelen/pona/jo.png" height="12">       | *WAWA* | *[PONA](#nimi-suli-wawa-pona)*      | **jo**, pana | |
+| <img src="musi/sitelen/pona/kala.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[SIJELO](#nimi-suli-lawa-sijelo)* | **kala**, kasi, pipi, waso | swimming → **fish**, **marine animal**, **sea creature** |
+| <img src="musi/sitelen/pona/kalama.png" height="12">   | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | **kalama**, kule | sounding; **to produce a sound**; **recite**, **utter aloud** |
+| <img src="musi/sitelen/pona/kama.png" height="12">     | *WAWA* | *[POKA](#nimi-suli-wawa-poka)*      | awen, **kama**, pini | |
+| <img src="musi/sitelen/pona/kasi.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[SIJELO](#nimi-suli-lawa-sijelo)* | kala, **kasi**, pipi, waso | vegetating → **plant**, **vegetation**; **herb**, **leaf** |
+| <img src="musi/sitelen/pona/ken.png" height="12">      | *WAWA* | *[POKA](#nimi-suli-wawa-poka)*      | **ken**, lukin, open, sona, wile | |
+| <img src="musi/sitelen/pona/kepeken.png" height="12">  | *[POKA](#nimi-suli-poka)* | *[LUKA](#nimi-suli-poka-luka)* | esun, **kepeken** | **to use** → **with**, **by means of** |
+| <img src="musi/sitelen/pona/kili.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | **kili**, pan | hanging → **fruit**, **vegetable**, **mushroom** |
+| <img src="musi/sitelen/pona/kiwen.png" height="12">    | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | **kiwen**, ko, kon, telo | hard → **hard object**, **metal**, **rock**, **stone** |
+| <img src="musi/sitelen/pona/ko.png" height="12">       | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | kiwen, **ko**, kon, telo | semi-solid → **clay**, **clinging form**, **dough**, **semi-solid**, **paste**, **powder** |
+| <img src="musi/sitelen/pona/kon.png" height="12">      | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | kiwen, ko, **kon**, telo | floating, hovering → **air**, **breath**; **essence**, **spirit**; meaning, **hidden reality**, **unseen agent** |
+| <img src="musi/sitelen/pona/kule.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | kalama, **kule** | **colourful**, **painted** |
+|                                                        | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | **kule** — walo | brown, **pigmented** |
+| <img src="musi/sitelen/pona/kulupu.png" height="12">   | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | **kulupu** — sijelo | interactive, reciprocal → **community**, **company**, **group**, **nation**, relation, **society**, **tribe**  |
+| <img src="musi/sitelen/pona/kute.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[ILO](#nimi-suli-lawa-ilo)* | **kute**, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | **to hear**, **listen**; **pay attention to**, **obey** → **ear** |
 | <img src="musi/sitelen/pona/la.png" height="12">       | | | **la** | **(between the context phrase and the main sentence)** |
-| <img src="musi/sitelen/pona/lape.png" height="12">     | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | **lape**, moli, musi | **sleeping**, **resting** |
-| <img src="musi/sitelen/pona/laso.png" height="12">     | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | jelo, **laso**, loje | **blue**, **green**; immature |
-| <img src="musi/sitelen/pona/lawa.png" height="12">     | *[LAWA](#nimi-lawa)* | *[ILO](#nimi-lawa-ilo)* | kute, **lawa**, len, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule** → **head**, **mind** |
-|                                                        | *[LAWA](#nimi-lawa)* | *[NASIN](#nimi-lawa-nasin)* | anpa — sewi, **lawa** — noka | supreme, top → highest part |
-| <img src="musi/sitelen/pona/len.png" height="12">      | *[LAWA](#nimi-lawa)* | *[ILO](#nimi-lawa-ilo)* | kute, lawa, **len**, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | to cover, hide → **cloth**, **clothing**, **fabric**, **textile**; **cover**, **layer of privacy** |
-| <img src="musi/sitelen/pona/lete.png" height="12">     | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **lete** — seli | **cold**, **cool**; **uncooked**, **raw** → ice, frost |
+| <img src="musi/sitelen/pona/lape.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | **lape**, moli, musi | **sleeping**, **resting** |
+| <img src="musi/sitelen/pona/laso.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | jelo, **laso**, loje | **blue**, **green**; immature |
+| <img src="musi/sitelen/pona/lawa.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[ILO](#nimi-suli-lawa-ilo)* | kute, **lawa**, len, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule** → **head**, **mind** |
+|                                                        | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | anpa — sewi, **lawa** — noka | supreme, top → highest part |
+| <img src="musi/sitelen/pona/len.png" height="12">      | *[LAWA](#nimi-suli-lawa)* | *[ILO](#nimi-suli-lawa-ilo)* | kute, lawa, **len**, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | to cover, hide → **cloth**, **clothing**, **fabric**, **textile**; **cover**, **layer of privacy** |
+| <img src="musi/sitelen/pona/lete.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | **lete** — seli | **cold**, **cool**; **uncooked**, **raw** → ice, frost |
 | <img src="musi/sitelen/pona/li.png" height="12">       | | | e, **li**, o, pi | **(between any subject except mi alone or sina alone and its VERB; also to introduce a new VERB for the same subject)** |
-| <img src="musi/sitelen/pona/lili.png" height="12">     | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | **lili** — mute, suli, wawa | **little**, **small**, **short**; **few**; **a bit**; **young** |
-| <img src="musi/sitelen/pona/linja.png" height="12">    | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **linja** — palisa | long and flexible → **long and flexible thing**; **cord**, **hair**, **rope**, **thread**, **yarn** |
-| <img src="musi/sitelen/pona/lipu.png" height="12">     | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **lipu**, nena, sike | flat → **flat object**; **book**, **document**, **card**, **paper**, **record**, **website** |
-| <img src="musi/sitelen/pona/loje.png" height="12">     | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | jelo, laso, **loje** | **red**, **reddish** |
-| <img src="musi/sitelen/pona/lon.png" height="12">      | *[POKA](#nimi-poka)* | *[LUKA](#nimi-poka-luka)* | **lon**, tan, tawa | being present → **located at**, **present at** |
-|                                                        | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | ala — **lon** | **real**, **true**, **existing** |
-| <img src="musi/sitelen/pona/luka.png" height="12">     | *[LAWA](#nimi-lawa)* | *[ILO](#nimi-lawa-ilo)* | kute, lawa, len, **luka**, lukin, noka, palisa, pilin, poki, selo, tomo, uta | to touch → **arm**, **hand**, **tactile organ** |
-|                                                        | *[POKA](#nimi-poka)* | *[NANPA](#nimi-poka-nanpa)* | ala, ale, esun, **luka**, mute, tu, wan | 5, **five** |
-| <img src="musi/sitelen/pona/lukin.png" height="12">    | *[LAWA](#nimi-lawa)* | *[ILO](#nimi-lawa-ilo)* | kute, lawa, len, luka, **lukin**, noka, palisa, pilin, poki, selo, tomi, uta | **to look at**, **see**, **examine**, **observe**, **read**, **watch**; care → **eye** |
-|                                                        | *WAWA* | *[POKA](#nimi-wawa-poka)*      | ken, **lukin**, open, sona, wile | |
-| <img src="musi/sitelen/pona/lupa.png" height="12">     | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **lupa**, nasin | thick, extended, hollow → (- tomo) **door**, **hole**, **orifice**, (- suno) **window** |
-| <img src="musi/sitelen/pona/ma.png" height="12">       | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **ma**, mun | vast → expanse; **earth**, **land**; **outdoors**, **world**; **country**, **territory**; **soil** |
-| <img src="musi/sitelen/pona/mama.png" height="12">     | *[LAWA](#nimi-lawa)* | *[JAN](#nimi-lawa-jan)* | **mama** | original → **parent**, **ancestor**; **creator**, **originator**; **caretaker**, **sustainer** |
-| <img src="musi/sitelen/pona/mani.png" height="12">     | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **mani** | domesticated, mined; valueable → **large domesticated animal**, resource; **money**, **cash**, **savings**, **wealth** |
-| <img src="musi/sitelen/pona/meli.png" height="12">     | *[LAWA](#nimi-lawa)* | *[JAN](#nimi-lawa-jan)* | **meli** — mije | female → **woman**, **female**, **feminine person**; **wife** |
-| <img src="musi/sitelen/pona/mi.png" height="12">       | *[LAWA](#nimi-lawa)* | *[ESUN](#nimi-lawa-esun)* | **mi**, ona, sina | **I**, **me**, **we**, **us** |
-| <img src="musi/sitelen/pona/mije.png" height="12">     | *[LAWA](#nimi-lawa)* | *[JAN](#nimi-lawa-jan)* | meli — **mije** | male → **man**, **male**, **masculine person**; **husband** |
-| <img src="musi/sitelen/pona/moku.png" height="12">     | *LAWA* | *[PALI](#nimi-lawa-pali)*      | **moku** | |
-| <img src="musi/sitelen/pona/moli.png" height="12">     | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | lape, **moli**, musi | **dead**, (kama -) **dying** |
-| <img src="musi/sitelen/pona/monsi.png" height="12">    | *[LAWA](#nimi-lawa)* | *[NASIN](#nimi-lawa-nasin)* | poka — **monsi**, sinpin | rear → **back**, **behind**, **rear** |
+| <img src="musi/sitelen/pona/lili.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | **lili** — mute, suli, wawa | **little**, **small**, **short**; **few**; **a bit**; **young** |
+| <img src="musi/sitelen/pona/linja.png" height="12">    | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | **linja** — palisa | long and flexible → **long and flexible thing**; **cord**, **hair**, **rope**, **thread**, **yarn** |
+| <img src="musi/sitelen/pona/lipu.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | **lipu**, nena, sike | flat → **flat object**; **book**, **document**, **card**, **paper**, **record**, **website** |
+| <img src="musi/sitelen/pona/loje.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | jelo, laso, **loje** | **red**, **reddish** |
+| <img src="musi/sitelen/pona/lon.png" height="12">      | *[POKA](#nimi-suli-poka)* | *[LUKA](#nimi-suli-poka-luka)* | **lon**, tan, tawa | being present → **located at**, **present at** |
+|                                                        | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | ala — **lon** | **real**, **true**, **existing** |
+| <img src="musi/sitelen/pona/luka.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[ILO](#nimi-suli-lawa-ilo)* | kute, lawa, len, **luka**, lukin, noka, palisa, pilin, poki, selo, tomo, uta | to touch → **arm**, **hand**, **tactile organ** |
+|                                                        | *[POKA](#nimi-suli-poka)* | *[NANPA](#nimi-suli-poka-nanpa)* | ala, ale, esun, **luka**, mute, tu, wan | 5, **five** |
+| <img src="musi/sitelen/pona/lukin.png" height="12">    | *[LAWA](#nimi-suli-lawa)* | *[ILO](#nimi-suli-lawa-ilo)* | kute, lawa, len, luka, **lukin**, noka, palisa, pilin, poki, selo, tomi, uta | **to look at**, **see**, **examine**, **observe**, **read**, **watch**; care → **eye** |
+|                                                        | *WAWA* | *[POKA](#nimi-suli-wawa-poka)*      | ken, **lukin**, open, sona, wile | |
+| <img src="musi/sitelen/pona/lupa.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | **lupa**, nasin | thick, extended, hollow → (- tomo) **door**, **hole**, **orifice**, (- suno) **window** |
+| <img src="musi/sitelen/pona/ma.png" height="12">       | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | **ma**, mun | vast → expanse; **earth**, **land**; **outdoors**, **world**; **country**, **territory**; **soil** |
+| <img src="musi/sitelen/pona/mama.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[JAN](#nimi-suli-lawa-jan)* | **mama** | original → **parent**, **ancestor**; **creator**, **originator**; **caretaker**, **sustainer** |
+| <img src="musi/sitelen/pona/mani.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | **mani** | domesticated, mined; valueable → **large domesticated animal**, resource; **money**, **cash**, **savings**, **wealth** |
+| <img src="musi/sitelen/pona/meli.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[JAN](#nimi-suli-lawa-jan)* | **meli** — mije | female → **woman**, **female**, **feminine person**; **wife** |
+| <img src="musi/sitelen/pona/mi.png" height="12">       | *[LAWA](#nimi-suli-lawa)* | *[ESUN](#nimi-suli-lawa-esun)* | **mi**, ona, sina | **I**, **me**, **we**, **us** |
+| <img src="musi/sitelen/pona/mije.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[JAN](#nimi-suli-lawa-jan)* | meli — **mije** | male → **man**, **male**, **masculine person**; **husband** |
+| <img src="musi/sitelen/pona/moku.png" height="12">     | *LAWA* | *[PALI](#nimi-suli-lawa-pali)*      | **moku** | |
+| <img src="musi/sitelen/pona/moli.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | lape, **moli**, musi | **dead**, (kama -) **dying** |
+| <img src="musi/sitelen/pona/monsi.png" height="12">    | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | poka — **monsi**, sinpin | rear → **back**, **behind**, **rear** |
 | <img src="musi/sitelen/pona/mu.png" height="12">       | | | **mu** — a, ala | **(animal noise or communication)**, (indifference) → blah! |
-| <img src="musi/sitelen/pona/mun.png" height="12">      | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | ma, **mun** | sky-walking at night → moon, night sky object, star |
-| <img src="musi/sitelen/pona/musi.png" height="12">     | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | lape, moli, **musi** | **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** |
-| <img src="musi/sitelen/pona/mute.png" height="12">     | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | lili — **mute**, suli, wawa | **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
-|                                                        | *[POKA](#nimi-poka)* | *[NANPA](#nimi-poka-nanpa)* | ala, ale, esun, luka, **mute**, tu, wan | 3, three, 3+ |
-| <img src="musi/sitelen/pona/nanpa.png" height="12">    | *LAWA* | *[PALI](#nimi-lawa-pali)*      | **nanpa**, nimi, sitelen, sona, toki | |
-| <img src="musi/sitelen/pona/nasa.png" height="12">     | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | pona — ike, **nasa**, pakala, utala | **unusual**, **strange**; **foolish**, **crazy**; **drunk**, **intoxicated** |
-| <img src="musi/sitelen/pona/nasin.png" height="12">    | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | lupa, **nasin** | thin, elongated, cracked → line, solution; **way**, **custom**, **doctrine**, **method**, **path**, **road** |
-| <img src="musi/sitelen/pona/nena.png" height="12">     | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | lipu, **nena**, sike | outstanding → bump, button, hill, mountain, nose, protuberance |
-| <img src="musi/sitelen/pona/ni.png" height="12">       | *[POKA](#nimi-poka)* | *[PALISA](#nimi-poka-palisa)* | ala, ale, **ni**, seme, wan | **that**, **this** → that one, this one |
-| <img src="musi/sitelen/pona/nimi.png" height="12">     | *LAWA* | *[PALI](#nimi-lawa-pali)*      | nanpa, **nimi**, sitelen, sona, toki | |
-| <img src="musi/sitelen/pona/noka.png" height="12">     | *[LAWA](#nimi-lawa)* | *[ILO](#nimi-lawa-ilo)* | kute, lawa, len, luka, lukin, **noka**, palisa, pilin, poki, selo, tomo, uta | to step on, kick → **foot**, **leg**, **organ of locomotion** |
-|                                                        | *[LAWA](#nimi-lawa)* | *[NASIN](#nimi-lawa-nasin)* | anpa — sewi, lawa — **noka** | basic → base, **bottom**, **lower part** |
+| <img src="musi/sitelen/pona/mun.png" height="12">      | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | ma, **mun** | sky-walking at night → moon, night sky object, star |
+| <img src="musi/sitelen/pona/musi.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | lape, moli, **musi** | **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** |
+| <img src="musi/sitelen/pona/mute.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | lili — **mute**, suli, wawa | **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
+|                                                        | *[POKA](#nimi-suli-poka)* | *[NANPA](#nimi-suli-poka-nanpa)* | ala, ale, esun, luka, **mute**, tu, wan | 3, three, 3+ |
+| <img src="musi/sitelen/pona/nanpa.png" height="12">    | *LAWA* | *[PALI](#nimi-suli-lawa-pali)*      | **nanpa**, nimi, sitelen, sona, toki | |
+| <img src="musi/sitelen/pona/nasa.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | pona — ike, **nasa**, pakala, utala | **unusual**, **strange**; **foolish**, **crazy**; **drunk**, **intoxicated** |
+| <img src="musi/sitelen/pona/nasin.png" height="12">    | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | lupa, **nasin** | thin, elongated, cracked → line, solution; **way**, **custom**, **doctrine**, **method**, **path**, **road** |
+| <img src="musi/sitelen/pona/nena.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | lipu, **nena**, sike | outstanding → bump, button, hill, mountain, nose, protuberance |
+| <img src="musi/sitelen/pona/ni.png" height="12">       | *[POKA](#nimi-suli-poka)* | *[PALISA](#nimi-suli-poka-palisa)* | ala, ale, **ni**, seme, wan | **that**, **this** → that one, this one |
+| <img src="musi/sitelen/pona/nimi.png" height="12">     | *LAWA* | *[PALI](#nimi-suli-lawa-pali)*      | nanpa, **nimi**, sitelen, sona, toki | |
+| <img src="musi/sitelen/pona/noka.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[ILO](#nimi-suli-lawa-ilo)* | kute, lawa, len, luka, lukin, **noka**, palisa, pilin, poki, selo, tomo, uta | to step on, kick → **foot**, **leg**, **organ of locomotion** |
+|                                                        | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | anpa — sewi, lawa — **noka** | basic → base, **bottom**, **lower part** |
 | <img src="musi/sitelen/pona/o.png" height="12">        | | | e, li, **o**, pi | **(vocative or imperative)**, **hey!**, **O!** |
-| <img src="musi/sitelen/pona/olin.png" height="12">     | *WAWA* | *[PONA](#nimi-wawa-pona)*      | **olin**, unpa | |
-| <img src="musi/sitelen/pona/ona.png" height="12">      | *[LAWA](#nimi-lawa)* | *[ESUN](#nimi-lawa-esun)* | mi, **ona**, sina | **he**, him, **she**, her, **it**, **they**, them |
-| <img src="musi/sitelen/pona/open.png" height="12">     | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | **open** — selo | **open**, ready; **to begin**, **start**; **turn on** |
-|                                                        | *WAWA* | *[POKA](#nimi-wawa-poka)*      | ken, lukin, **open**, sona, wile | |
-| <img src="musi/sitelen/pona/pakala.png" height="12">   | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | ilo — **pakala** | useless → tumor, wound; damage |
-|                                                        | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | pona — ike, nasa, **pakala**, utala | **botched**, **broken**, **damaged**, **harmed**, **messed up** |
+| <img src="musi/sitelen/pona/olin.png" height="12">     | *WAWA* | *[PONA](#nimi-suli-wawa-pona)*      | **olin**, unpa | |
+| <img src="musi/sitelen/pona/ona.png" height="12">      | *[LAWA](#nimi-suli-lawa)* | *[ESUN](#nimi-suli-lawa-esun)* | mi, **ona**, sina | **he**, him, **she**, her, **it**, **they**, them |
+| <img src="musi/sitelen/pona/open.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | **open** — selo | **open**, ready; **to begin**, **start**; **turn on** |
+|                                                        | *WAWA* | *[POKA](#nimi-suli-wawa-poka)*      | ken, lukin, **open**, sona, wile | |
+| <img src="musi/sitelen/pona/pakala.png" height="12">   | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | ilo — **pakala** | useless → tumor, wound; damage |
+|                                                        | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | pona — ike, nasa, **pakala**, utala | **botched**, **broken**, **damaged**, **harmed**, **messed up** |
 | <img src="musi/sitelen/pona/pali.png" height="12">     | | | alasa, **pali** | **to do**, **take action on**, **work on**; (- ale) **build**, **make**, **prepare** |
-| <img src="musi/sitelen/pona/palisa.png" height="12">   | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | linja — **palisa** | long and hard → **long hard thing**; **branch**, **rod**, **stick** |
-|                                                        | *[LAWA](#nimi-lawa)* | *[ILO](#nimi-lawa-ilo)* | kute, lawa, len, luka, lukin, noka, **palisa**, pilin, poki, selo, tomo, uta | to point to → finger |
-| <img src="musi/sitelen/pona/pan.png" height="12">      | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | kili, **pan** | falling → **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** |
-| <img src="musi/sitelen/pona/pana.png" height="12">     | *WAWA* | *[PONA](#nimi-wawa-pona)*      | jo, **pana** | |
+| <img src="musi/sitelen/pona/palisa.png" height="12">   | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | linja — **palisa** | long and hard → **long hard thing**; **branch**, **rod**, **stick** |
+|                                                        | *[LAWA](#nimi-suli-lawa)* | *[ILO](#nimi-suli-lawa-ilo)* | kute, lawa, len, luka, lukin, noka, **palisa**, pilin, poki, selo, tomo, uta | to point to → finger |
+| <img src="musi/sitelen/pona/pan.png" height="12">      | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | kili, **pan** | falling → **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** |
+| <img src="musi/sitelen/pona/pana.png" height="12">     | *WAWA* | *[PONA](#nimi-suli-wawa-pona)*      | jo, **pana** | |
 | <img src="musi/sitelen/pona/pi.png" height="12">       | | | e, li, o, **pi** | (…), **of** |
-| <img src="musi/sitelen/pona/pilin.png" height="12">    | *[LAWA](#nimi-lawa)* | *[ILO](#nimi-lawa-ilo)* | kute, lawa, len, luka, lukin, noka, palisa, **pilin**, poki, selo, tomo, uta | **feeling (an emotion, a direct experience)** ­— **heart (physical or emotional)** |
-| <img src="musi/sitelen/pona/pimeja.png" height="12">   | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | **pimeja** — walo | **black** |
-|                                                        | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **pimeja** — suno | **dark**, **unlit** → shadow |
-| <img src="musi/sitelen/pona/pini.png" height="12">     | *WAWA* | *[POKA](#nimi-wawa-poka)*      | awen, kama, **pini** | |
-| <img src="musi/sitelen/pona/pipi.png" height="12">     | *[LAWA](#nimi-lawa)* | *[SIJELO](#nimi-lawa-sijelo)* | kala, kasi, **pipi**, waso | crawling → **bug**, **insect**, **ant**, **spider** |
-| <img src="musi/sitelen/pona/poka.png" height="12">     | *[LAWA](#nimi-lawa)* | *[NASIN](#nimi-lawa-nasin)* | **poka** — monsi, sinpin | adjacent → **hip**, **next to**, **side** |
-|                                                        | *[LAWA](#nimi-lawa)* | *[NASIN](#nimi-lawa-nasin)* | weka — insa, **poka**, sin | near, **nearby**, neighbouring → **vicinity** |
-| <img src="musi/sitelen/pona/poki.png" height="12">     | *[LAWA](#nimi-lawa)* | *[ILO](#nimi-lawa-ilo)* | kute, lawa, len, luka, lukin, noka, palisa, pilin, **poki**, selo, tomo, uta | to contain, keep, be full of → bladder; **container**, **bag**, **bowl**, **box**, **cup**, **cupboard**, **drawer**, **vessel** |
-| <img src="musi/sitelen/pona/pona.png" height="12">     | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | **pona** – ike, nasa, pakala, utala | |
+| <img src="musi/sitelen/pona/pilin.png" height="12">    | *[LAWA](#nimi-suli-lawa)* | *[ILO](#nimi-suli-lawa-ilo)* | kute, lawa, len, luka, lukin, noka, palisa, **pilin**, poki, selo, tomo, uta | **feeling (an emotion, a direct experience)** ­— **heart (physical or emotional)** |
+| <img src="musi/sitelen/pona/pimeja.png" height="12">   | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | **pimeja** — walo | **black** |
+|                                                        | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | **pimeja** — suno | **dark**, **unlit** → shadow |
+| <img src="musi/sitelen/pona/pini.png" height="12">     | *WAWA* | *[POKA](#nimi-suli-wawa-poka)*      | awen, kama, **pini** | |
+| <img src="musi/sitelen/pona/pipi.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[SIJELO](#nimi-suli-lawa-sijelo)* | kala, kasi, **pipi**, waso | crawling → **bug**, **insect**, **ant**, **spider** |
+| <img src="musi/sitelen/pona/poka.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | **poka** — monsi, sinpin | adjacent → **hip**, **next to**, **side** |
+|                                                        | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | weka — insa, **poka**, sin | near, **nearby**, neighbouring → **vicinity** |
+| <img src="musi/sitelen/pona/poki.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[ILO](#nimi-suli-lawa-ilo)* | kute, lawa, len, luka, lukin, noka, palisa, pilin, **poki**, selo, tomo, uta | to contain, keep, be full of → bladder; **container**, **bag**, **bowl**, **box**, **cup**, **cupboard**, **drawer**, **vessel** |
+| <img src="musi/sitelen/pona/pona.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | **pona** – ike, nasa, pakala, utala | |
 | <img src="musi/sitelen/pona/pu.png" height="12">       | | | **pu** — taso | accordingly → according to, following, depending on; **interacting with the Toki Pona book** |
-| <img src="musi/sitelen/pona/sama.png" height="12">     | *[POKA](#nimi-poka)* | *[LUKA](#nimi-poka-luka)* | ante — **sama** | **same**, **similar**; **each other**; **sibling**, **peer**, **fellow** → **as**, **like** |
-| <img src="musi/sitelen/pona/seli.png" height="12">     | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | lete — **seli** | warm; cooked — **fire**; **cooking element**, **chemical reaction**, **heat source** |
-| <img src="musi/sitelen/pona/selo.png" height="12">     | *[LAWA](#nimi-lawa)* | *[ILO](#nimi-lawa-ilo)* | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, **selo**, tomo, uta | to form → **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary** |
-|                                                        | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | open — **selo** | closed, confined |
-| <img src="musi/sitelen/pona/seme.png" height="12">     | *[POKA](#nimi-poka)* | *[PALISA](#nimi-poka-palisa)* | ala, ale, ni, **seme**, wan | **which?** → **what?**, which one? |
-| <img src="musi/sitelen/pona/sewi.png" height="12">     | *[LAWA](#nimi-lawa)* | *[NASIN](#nimi-lawa-nasin)* | anpa — **sewi**, lawa — noka | high; **awe-inspiring**, **divine**, **sacred**, **supernatural** → **area above**, **highest part**, **something elevated**; the divine |
-| <img src="musi/sitelen/pona/sijelo.png" height="12">   | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | kulupu — **sijelo** | healthy, living, sustainable → **body (of person or animal)**, health, **physical state**, **torso** |
-| <img src="musi/sitelen/pona/sike.png" height="12">     | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | lipu, nena, **sike** | round or circular; complete, (- suno) **of one year** → **round or circular thing**; **ball**, **circle**, **cycle**, **sphere**, **wheel** |
-| <img src="musi/sitelen/pona/sin.png" height="12">      | *[LAWA](#nimi-lawa)* | *[NASIN](#nimi-lawa-nasin)* | weka — insa, poka, **sin** | **new**, **fresh**; **additional**, **another**, **extra** → in addition to |
-| <img src="musi/sitelen/pona/sina.png" height="12">     | *[LAWA](#nimi-lawa)* | *[ESUN](#nimi-lawa-esun)* | mi, ona, **sina** | **you** |
-| <img src="musi/sitelen/pona/sinpin.png" height="12">   | *[LAWA](#nimi-lawa)* | *[NASIN](#nimi-lawa-nasin)* | poka — monsi, **sinpin** | **foremost**, frontal → (- lawa) **face**, **front**, **wall** |
-| <img src="musi/sitelen/pona/sitelen.png" height="12">  | *LAWA* | *[PALI](#nimi-lawa-pali)*      | nanpa, nimi, **sitelen**, sona, toki | |
-| <img src="musi/sitelen/pona/sona.png" height="12">     | *LAWA* | *[PALI](#nimi-lawa-pali)*      | nanpa, nimi, sitelen, **sona**, toki | |
-|                                                        | *WAWA* | *[POKA](#nimi-wawa-poka)*      | ken, lukin, open, **sona**, wile | |
-| <img src="musi/sitelen/pona/soweli.png" height="12">   | *[LAWA](#nimi-lawa)* | *[SIJELO](#nimi-lawa-sijelo)* | akesi — **soweli** | warm-blooded → **animal**, **beast**, **land mammal** |
-| <img src="musi/sitelen/pona/suli.png" height="12">     | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | lili — mute, **suli**, wawa | **big**, **heavy**, **large**, **long**, **tall**; **important**; **adult** |
-| <img src="musi/sitelen/pona/suno.png" height="12">     | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | pimeja — **suno** | bright, lit → **sun**; **light**, **brightness**, **glow**, **radiance**, **shine**; **light source** |
+| <img src="musi/sitelen/pona/sama.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[LUKA](#nimi-suli-poka-luka)* | ante — **sama** | **same**, **similar**; **each other**; **sibling**, **peer**, **fellow** → **as**, **like** |
+| <img src="musi/sitelen/pona/seli.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | lete — **seli** | warm; cooked — **fire**; **cooking element**, **chemical reaction**, **heat source** |
+| <img src="musi/sitelen/pona/selo.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[ILO](#nimi-suli-lawa-ilo)* | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, **selo**, tomo, uta | to form → **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary** |
+|                                                        | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | open — **selo** | closed, confined |
+| <img src="musi/sitelen/pona/seme.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PALISA](#nimi-suli-poka-palisa)* | ala, ale, ni, **seme**, wan | **which?** → **what?**, which one? |
+| <img src="musi/sitelen/pona/sewi.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | anpa — **sewi**, lawa — noka | high; **awe-inspiring**, **divine**, **sacred**, **supernatural** → **area above**, **highest part**, **something elevated**; the divine |
+| <img src="musi/sitelen/pona/sijelo.png" height="12">   | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | kulupu — **sijelo** | healthy, living, sustainable → **body (of person or animal)**, health, **physical state**, **torso** |
+| <img src="musi/sitelen/pona/sike.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | lipu, nena, **sike** | round or circular; complete, (- suno) **of one year** → **round or circular thing**; **ball**, **circle**, **cycle**, **sphere**, **wheel** |
+| <img src="musi/sitelen/pona/sin.png" height="12">      | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | weka — insa, poka, **sin** | **new**, **fresh**; **additional**, **another**, **extra** → in addition to |
+| <img src="musi/sitelen/pona/sina.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[ESUN](#nimi-suli-lawa-esun)* | mi, ona, **sina** | **you** |
+| <img src="musi/sitelen/pona/sinpin.png" height="12">   | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | poka — monsi, **sinpin** | **foremost**, frontal → (- lawa) **face**, **front**, **wall** |
+| <img src="musi/sitelen/pona/sitelen.png" height="12">  | *LAWA* | *[PALI](#nimi-suli-lawa-pali)*      | nanpa, nimi, **sitelen**, sona, toki | |
+| <img src="musi/sitelen/pona/sona.png" height="12">     | *LAWA* | *[PALI](#nimi-suli-lawa-pali)*      | nanpa, nimi, sitelen, **sona**, toki | |
+|                                                        | *WAWA* | *[POKA](#nimi-suli-wawa-poka)*      | ken, lukin, open, **sona**, wile | |
+| <img src="musi/sitelen/pona/soweli.png" height="12">   | *[LAWA](#nimi-suli-lawa)* | *[SIJELO](#nimi-suli-lawa-sijelo)* | akesi — **soweli** | warm-blooded → **animal**, **beast**, **land mammal** |
+| <img src="musi/sitelen/pona/suli.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | lili — mute, **suli**, wawa | **big**, **heavy**, **large**, **long**, **tall**; **important**; **adult** |
+| <img src="musi/sitelen/pona/suno.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | pimeja — **suno** | bright, lit → **sun**; **light**, **brightness**, **glow**, **radiance**, **shine**; **light source** |
 | <img src="musi/sitelen/pona/supa.png" height="12">     | | | **supa** | … → **horizontal surface**, **thing to put or rest something on** |
-| <img src="musi/sitelen/pona/suwi.png" height="12">     | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | jaki — **suwi** | **sweet**, **fragrant**; **cute**, **innocent**, **adorable** → sweets |
-| <img src="musi/sitelen/pona/tan.png" height="12">      | *[POKA](#nimi-poka)* | *[LUKA](#nimi-poka-luka)* | lon, **tan**, tawa | departing → **by**, **from**, **because of** |
+| <img src="musi/sitelen/pona/suwi.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | jaki — **suwi** | **sweet**, **fragrant**; **cute**, **innocent**, **adorable** → sweets |
+| <img src="musi/sitelen/pona/tan.png" height="12">      | *[POKA](#nimi-suli-poka)* | *[LUKA](#nimi-suli-poka-luka)* | lon, **tan**, tawa | departing → **by**, **from**, **because of** |
 | <img src="musi/sitelen/pona/taso.png" height="12">     | | | pu — **taso** | independent; **only** → independent from; **but**, **however** |
-| <img src="musi/sitelen/pona/tawa.png" height="12">     | *[POKA](#nimi-poka)* | *[LUKA](#nimi-poka-luka)* | lon, tan, **tawa** | going, moving → **going to**, **toward**; **for**; **from the perspective of** |
-| <img src="musi/sitelen/pona/telo.png" height="12">     | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | kiwen, ko, kon, **telo** | liquid, fluid, wet → **water**, **liquid**, **fluid**, **wet substance**; **beverage** |
-| <img src="musi/sitelen/pona/tenpo.png" height="12">    | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | **tenpo** | ephemeral, interim, provisional → **time**, **duration**, **moment**, **occasion**, **period**, **situation** |
-| <img src="musi/sitelen/pona/toki.png" height="12">     | *LAWA* | *[PALI](#nimi-lawa-pali)*      | nanpa, nimi, sitelen, sona, **toki** | |
-| <img src="musi/sitelen/pona/tomo.png" height="12">     | *[LAWA](#nimi-lawa)* | *[ILO](#nimi-lawa-ilo)* | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, **tomo**, uta | to protect → skeleton, thorax; **indoor space**; **building**, **home**, **house**, **room** |
-| <img src="musi/sitelen/pona/tu.png" height="12">       | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | **tu** — wan | parallel, redundant |
-|                                                        | *[POKA](#nimi-poka)* | *[NANPA](#nimi-poka-nanpa)* | ala, ale, esun, luka, mute, **tu**, wan | 2, **two** |
-| <img src="musi/sitelen/pona/unpa.png" height="12">     | *WAWA* | *[PONA](#nimi-wawa-pona)*      | olin, **unpa** | |
-| <img src="musi/sitelen/pona/uta.png" height="12">      | *[LAWA](#nimi-lawa)* | *[ILO](#nimi-lawa-ilo)* | kute, lawa, len, luka, lukin, noka, palisa, pilin, selo, **uta** | to suck, kiss → **mouth**, **lips**, **oral cavity**, **jaw** |
-| <img src="musi/sitelen/pona/utala.png" height="12">    | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | pona — ike, nasa, pakala, **utala** | aggressive; **to battle**, **challenge**, **compete against**, **struggle against** |
-| <img src="musi/sitelen/pona/walo.png" height="12">     | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | pimeja — **walo** | **white**, **whitish** |
-|                                                        | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | kule — **walo** | **light-coloured**, **pale**, unpigmented |
-| <img src="musi/sitelen/pona/wan.png" height="12">      | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | tu — **wan** | **united** |
-|                                                        | *[LAWA](#nimi-lawa)* | *[IJO](#nimi-lawa-ijo)* | ale — **wan** | (- lili) partial, (- nasa) **unique** → (- lili) part |
-|                                                        | *[POKA](#nimi-poka)* | *[NANPA](#nimi-poka-nanpa)* | ala, ale, esun, luka, mute, tu, **wan** | 1, **one** |
-|                                                        | *[POKA](#nimi-poka)* | *[PALISA](#nimi-poka-palisa)* | ala, ale, ni, seme, **wan** | some → something specific |
-| <img src="musi/sitelen/pona/waso.png" height="12">     | *[LAWA](#nimi-lawa)* | *[SIJELO](#nimi-lawa-sijelo)* | kala, kasi, pipi, **waso** | flying → **bird**, **flying creature**, **winged animal** |
-| <img src="musi/sitelen/pona/wawa.png" height="12">     | *[POKA](#nimi-poka)* | *[PONA](#nimi-poka-pona)* | lili — mute, suli, **wawa** | **strong**, **powerful**; **confident**, **sure**; **energetic**, **intense** |
-| <img src="musi/sitelen/pona/weka.png" height="12">     | *[LAWA](#nimi-lawa)* | *[NASIN](#nimi-lawa-nasin)* | **weka** — insa, poka, sin | **absent**, **away**; **ignored** → absence, distance |
-| <img src="musi/sitelen/pona/wile.png" height="12">     | *WAWA* | *[POKA](#nimi-wawa-poka)* | ken, lukin, open, sona, **wile** | |
+| <img src="musi/sitelen/pona/tawa.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[LUKA](#nimi-suli-poka-luka)* | lon, tan, **tawa** | going, moving → **going to**, **toward**; **for**; **from the perspective of** |
+| <img src="musi/sitelen/pona/telo.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | kiwen, ko, kon, **telo** | liquid, fluid, wet → **water**, **liquid**, **fluid**, **wet substance**; **beverage** |
+| <img src="musi/sitelen/pona/tenpo.png" height="12">    | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | **tenpo** | ephemeral, interim, provisional → **time**, **duration**, **moment**, **occasion**, **period**, **situation** |
+| <img src="musi/sitelen/pona/toki.png" height="12">     | *LAWA* | *[PALI](#nimi-suli-lawa-pali)*      | nanpa, nimi, sitelen, sona, **toki** | |
+| <img src="musi/sitelen/pona/tomo.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[ILO](#nimi-suli-lawa-ilo)* | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, **tomo**, uta | to protect → skeleton, thorax; **indoor space**; **building**, **home**, **house**, **room** |
+| <img src="musi/sitelen/pona/tu.png" height="12">       | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | **tu** — wan | parallel, redundant |
+|                                                        | *[POKA](#nimi-suli-poka)* | *[NANPA](#nimi-suli-poka-nanpa)* | ala, ale, esun, luka, mute, **tu**, wan | 2, **two** |
+| <img src="musi/sitelen/pona/unpa.png" height="12">     | *WAWA* | *[PONA](#nimi-suli-wawa-pona)*      | olin, **unpa** | |
+| <img src="musi/sitelen/pona/uta.png" height="12">      | *[LAWA](#nimi-suli-lawa)* | *[ILO](#nimi-suli-lawa-ilo)* | kute, lawa, len, luka, lukin, noka, palisa, pilin, selo, **uta** | to suck, kiss → **mouth**, **lips**, **oral cavity**, **jaw** |
+| <img src="musi/sitelen/pona/utala.png" height="12">    | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | pona — ike, nasa, pakala, **utala** | aggressive; **to battle**, **challenge**, **compete against**, **struggle against** |
+| <img src="musi/sitelen/pona/walo.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | pimeja — **walo** | **white**, **whitish** |
+|                                                        | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | kule — **walo** | **light-coloured**, **pale**, unpigmented |
+| <img src="musi/sitelen/pona/wan.png" height="12">      | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | tu — **wan** | **united** |
+|                                                        | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | ale — **wan** | (- lili) partial, (- nasa) **unique** → (- lili) part |
+|                                                        | *[POKA](#nimi-suli-poka)* | *[NANPA](#nimi-suli-poka-nanpa)* | ala, ale, esun, luka, mute, tu, **wan** | 1, **one** |
+|                                                        | *[POKA](#nimi-suli-poka)* | *[PALISA](#nimi-suli-poka-palisa)* | ala, ale, ni, seme, **wan** | some → something specific |
+| <img src="musi/sitelen/pona/waso.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[SIJELO](#nimi-suli-lawa-sijelo)* | kala, kasi, pipi, **waso** | flying → **bird**, **flying creature**, **winged animal** |
+| <img src="musi/sitelen/pona/wawa.png" height="12">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | lili — mute, suli, **wawa** | **strong**, **powerful**; **confident**, **sure**; **energetic**, **intense** |
+| <img src="musi/sitelen/pona/weka.png" height="12">     | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | **weka** — insa, poka, sin | **absent**, **away**; **ignored** → absence, distance |
+| <img src="musi/sitelen/pona/wile.png" height="12">     | *WAWA* | *[POKA](#nimi-suli-wawa-poka)* | ken, lukin, open, sona, **wile** | |
