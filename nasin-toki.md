@@ -46,27 +46,33 @@ The sections about **"Additional Language"** treat **Sonja**'s additional way of
 | [↑](#nimi-suli) |
 |:-:|
 | [nimi suli lawa pona](#nimi-suli-lawa-pona) |
+| [nimi suli lawa esun](#nimi-suli-lawa-esun) |
 | [nimi suli lawa ijo](#nimi-suli-lawa-ijo) |
 | [nimi suli lawa nasin](#nimi-suli-lawa-nasin) |
 | [nimi suli lawa sijelo](#nimi-suli-lawa-sijelo) |
 | [nimi suli lawa jan](#nimi-suli-lawa-jan) |
 | [nimi suli lawa ilo](#nimi-suli-lawa-ilo) |
 | [nimi suli lawa pali](#nimi-suli-lawa-pali) |
-| [nimi suli lawa esun](#nimi-suli-lawa-esun) |
 
 
 ### nimi suli lawa pona
-*(Simplaj Substantivoj — Simple Nouns)*
+*(Simple Nouns)*
 
 **Simple nouns** don't have an additional meaning as **modifiers** or **verbs**.
-
-| [↑](#nimi-suli-lawa) |
-|:-:|
-| [nimi suli lawa pona musi](#nimi-suli-lawa-pona-musi) |
 
 | ijo | jan |
 |:-|:-|
 | *something, a thing* | *somebody, a person* |
+
+
+### nimi suli lawa esun
+*(Pronouns)*
+
+**Pronouns** are **simple nouns** that refer to the speaker, the listener or a third person/object.
+
+| mi | sina | ona |
+|:-|:-|:-|
+| *I, we* | *you* | *she, he, it, they* |
 
 
 ### nimi suli lawa ijo
@@ -79,9 +85,9 @@ The sections about **"Additional Language"** treat **Sonja**'s additional way of
 
 **Thing nouns** imply the word "ijo".
 
-| ale | sike |
-|:-|:-|
-| *whole* → *something whole, universe* | *round* → *something round, circle/globe* |
+| sike |
+|:-|
+| *round* → *something round, circle, globe* |
 
 
 **Nouns** that describe food seem to imply "ijo".
@@ -252,14 +258,6 @@ If a **noun** is an **action noun**, it implies "e ijo" when it becomes a [trans
 | nanpa | nimi |
 |:-|:-|
 | *to count, number* | *to name, word* |
-
-
-### nimi suli lawa esun
-*(Pronomoj — Pronouns)*
-
-| mi | sina | ona |
-|:-|:-|:-|
-| *I, we* | *you* | *she, he, it, they* |
 
 
 ## nimi suli wawa
