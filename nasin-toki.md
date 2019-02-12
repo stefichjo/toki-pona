@@ -135,7 +135,7 @@ The [modifiers](#nimi-suli-poka) (or [prepositions](#nimi-suli-poka-luka)) "ante
 In a genitive clause (i.e. the words behind the **particle** "[pi](#nimi-lili-pi)"), "ijo" before a **correlative** reappears.
 
 | mama pi ijo ale | mama ale |
-|:-|:-|:-|
+|:-|:-|
 | *parent of everything* | *every parent* |
 
 
@@ -280,14 +280,8 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 
 | [↑](#nimi-suli) |
 |:-:|
-| [nimi suli wawa luka](#nimi-suli-wawa-luka) |
 | [nimi suli wawa pona](#nimi-suli-wawa-pona) |
 | [nimi suli wawa poka](#nimi-suli-wawa-poka) |
-
-### nimi suli wawa luka
-*(Transitivaj Verboj — Transitive Verbs)*
-
-If a **verb** has a direct object (i.e. words after a [particle "e"](#nimi-lili-e)), it's a **transitive verb**.
 
 
 ### nimi suli wawa pona
@@ -300,17 +294,6 @@ If a **verb** has a direct object (i.e. words after a [particle "e"](#nimi-lili-
 | alasa | pali |
 |:-|:-|
 | *to hunt* | *to do/work on* |
-
-
-| jo | pana |
-|:-|:-|
-| *to have* | *to give* |
-
-
-| olin | unpa |
-|:-|:-|
-| *to love* | *to have sexual or marital relations with* |
-
 
 
 #### nimi suli wawa pona namako
