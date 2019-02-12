@@ -379,7 +379,7 @@ The [prepositions](#nimi-suli-poka-luka) "lon", "tan", "tawa" can become **auxil
 
 
 ## nimi suli poka
-*(Modifiloj — Modifiers)*
+*(Modifiers)*
 
 | [↑](#nimi-suli) |
 |:-:|
@@ -388,70 +388,20 @@ The [prepositions](#nimi-suli-poka-luka) "lon", "tan", "tawa" can become **auxil
 | [nimi suli poka luka](#nimi-suli-poka-luka) |
 
 ### nimi suli poka pona
-*(Simplaj Modifiloj — Simple Modifiers)*
+*(Simple Modifiers)*
 
-| [↑](#nimi-suli-poka) |
-|:-:|
-| [nimi suli poka pona musi](#nimi-suli-poka-pona-musi) |
-
-| jelo | kule | laso | loje | pimeja | walo |
-|:-|:-|:-|:-|:-|:-|
-| *yellow* | *pigmented* | *blue/green* | *red* | *black* | *white/pale* |
-
-
-| kalama | kule |
-|:-|:-|
-| *sounding* | *colorful* |
-
-
-| lape| moli | musi |
-|:-|:-|:-|
-| *resting* | *dead* | *playing* |
-
-
-| lili | mute | suli | wawa |
-|:-|:-|:-|:-|
-| *few, small, weak* | *many* | *big* | *strong* |
-
-
-| pona | ike | nasa | utala |
-|:-|:-|:-|:-|
-| *good, simple, peaceful* | *bad* | *strange/crazy/intoxicated* | *fighting* |
-
-
-| wan |
-|:-|
-| *unique* |
-
-
-If a [content word](#nimi-suli) becomes another word and doesn't recieve an additional meaning, it is a **simple modifier**.
+**Simple modifiers** don't receive an additional meaning when they change their part-of-speech.
 
 | mi wawa. | telo li wawa e mi. | wawa li lon insa. |
 |:-|:-|:-|
 | *I am strong.* | *Water strengthens me.* | *Strength lies within.* |
 
 
-#### nimi suli poka pona musi
-*(Eksperimentaj Simplaj Modifiloj — Experimental Simple Modifier)*
-
-| ala | kule | selo | tu |
-|:-|:-|:-|:-|
-| *false* | *brown* | *closed* | *redundant* |
-
-
-"tenpo lili/suli" can become "lili/suli".
-
-| jan pi tenpo lili → jan lili | jan pi tenpo suli → jan suli |
-|:-|:-|
-| *youngling* | *adult* |
-
-
 ### nimi suli poka nanpa
-*(Numeraloj — Numerals)*
+*(Numerals)*
 
 | [↑](#nimi-suli-poka) |
 |:-:|
-| [nimi suli poka nanpa musi](#nimi-suli-poka-nanpa-musi) |
 | [nimi suli poka nanpa namako](#nimi-suli-poka-nanpa-namako) |
 
 | ala | ale | luka | mute | tu | wan |
@@ -460,60 +410,49 @@ If a [content word](#nimi-suli) becomes another word and doesn't recieve an addi
 
 
 #### nimi suli poka nanpa musi
-*(Eksperimentaj Numeraloj — Experimental Numerals)*
+*(Experimental Numerals)*
 
-| esun |
-|:-|
-| *seven* |
+The [conjunction "en"](#nimi-lili-en) can be with two **numerals**.
 
-
-A [numeral](#nimi-suli-poka-nanpa) can become a [noun](#nimi-suli-lawa).
-
-| wan ona li loje. wan ante li jelo. | mute nimi | nimi mute | ale pi nimi mute |
-|:-|:-|:-|:-|
-| *One is red. The other one is yellow.* | *set of words, sentence* | *many words* | *dictionary* |
-
-
-The [conjunction "en"](#nimi-lili-en) can be with two [numerals](#nimi-suli-poka-nanpa).
-
-| sike esun tu | tenpo suno luka tu en tu tu |
+| sike esun tu 👍 | tenpo suno luka tu en tu tu 👍 |
 |:-|:-|
 | *two weeks* | *fourteen days* |
 
 
-By means of a numeral of a small quantity and a numeral of a big quantity one can express a quantity between zero and one.
+By means of a **numeral** of a small quantity and a **numeral** of a big quantity one can express a quantity between zero and one.
 
-| mi pana e wan wan pi tu tu tawa sina. | mi pana e wan mute pi tu tu tawa sina. |
+| mi pana e wan wan pi tu tu tawa sina. 👍 | mi pana e wan mute pi tu tu tawa sina. 👍 |
 |:-|:-|
 | *I give you one quarter.* | *I give you three quarters.* |
 
+
 The opposite of "nanpa wan" is "nanpa ale".
 
-| sina nanpa wan. | sina nanpa ale. |
-|:-|:-|
-| *You're the first.* | *You're the last.* |
+| sina nanpa ale. 👍 |
+|:-|
+| *You're the last.* |
 
 
 In a row, the one whose turn it's going to be is "nanpa kama", the one whose turn it is is "nanpa awen" and the one whose turn it has been is "nanpa pini".
 
 | sina nanpa kama. | sina nanpa awen. | sina nanpa pini. |
 |:-|:-|:-|
-| *It's going to be your turn.* | *It's your turn.* | *It's been your turn.* |
+| *It's going to be your turn.* 👍 | *It's your turn.* 👍 | *It's been your turn.* 👍 |
 
 
 #### nimi suli poka nanpa namako
-*(Aldonaj Numeraloj — Additional Numerals)*
+*(Additional Numerals)*
 
 The meanings of the **numeral** "mute" and of the [simple modifier](#nimi-suli-poka-pona) "mute" can be one.
 
-| mute |
+| mute 🤔 |
 |:-|
 | *three, many* → *three (or more)* |
 
 
 With two [numerals](#nimi-suli-poka-nanpa), the **comma** can disappear.
 
-| palisa luka, tu → palisa luka tu |
+| palisa luka, tu → palisa luka tu 🤔 |
 |:-|
 | *seven fingers* |
 
