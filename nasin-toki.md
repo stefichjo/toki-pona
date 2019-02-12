@@ -1,5 +1,5 @@
 # nasin toki pi toki pona
-*(Tokipona Gramatiko — Toki Pona Grammar)*
+*(Toki Pona Grammar)*
 
 | nasin toki |
 |:-:|
@@ -31,7 +31,7 @@ The sections about **"Strange Language"** treat the additional way of how speake
 
 
 # nimi suli
-*(Radikaj Vortoj — Content Words)*
+*(Content Words)*
 
 | [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
@@ -41,7 +41,7 @@ The sections about **"Strange Language"** treat the additional way of how speake
 
 
 ## nimi suli lawa
-*(Substantivoj — Nouns)*
+*(Nouns)*
 
 | [↑](#nimi-suli) |
 |:-:|
@@ -56,7 +56,7 @@ The sections about **"Strange Language"** treat the additional way of how speake
 
 
 ### nimi suli lawa ijo
-*(Aĵaj Substantivoj — Thing Nouns)*
+*(Thing Nouns)*
 
 | [↑](#nimi-suli-lawa) |
 |:-:|
@@ -78,7 +78,7 @@ The sections about **"Strange Language"** treat the additional way of how speake
 
 
 #### nimi suli lawa ijo musi
-*(Eksperimentaj Aĵaj Substantivoj — Experimental Thing Nouns)*
+*(Experimental Thing Nouns)*
 
 | sijelo |
 |:-|
@@ -86,7 +86,7 @@ The sections about **"Strange Language"** treat the additional way of how speake
 
 
 #### nimi suli lawa ijo nasa
-*(Strangaj Aĵaj Substantivoj — Strange Thing Nouns)*
+*(Strange Thing Nouns)*
 
 The [modifiers](#nimi-suli-poka) (or [prepositions](#nimi-suli-poka-luka)) "ante" and "sama" can become **thing nouns**.
 
@@ -96,7 +96,7 @@ The [modifiers](#nimi-suli-poka) (or [prepositions](#nimi-suli-poka-luka)) "ante
 
 
 ### nimi suli lawa nasin
-*(Direktaj Substantivoj — Direction Nouns)*
+*(Direction Nouns)*
 
 | [↑](#nimi-suli-lawa) |
 |:-:|
@@ -113,7 +113,7 @@ The [modifiers](#nimi-suli-poka) (or [prepositions](#nimi-suli-poka-luka)) "ante
 
 
 #### nimi suli lawa nasin musi
-*(Eksperimentaj Direktaj Substantivoj — Experimental Direction Nouns)*
+*(Experimental Direction Nouns)*
 
 When a [verb](#nimi-suli-wawa) becomes a **noun**, it can mean the place of its accomplishment.
 
@@ -130,7 +130,7 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 
 
 #### nimi suli lawa nasin namako
-*(Aldonaj Direktaj Substantivoj — Additional Direction Nouns)*
+*(Additional Direction Nouns)*
 
 | lawa → sewi |
 |:-|
@@ -145,7 +145,7 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 
 
 ### nimi suli lawa sijelo
-*(Vivaĵaj Substantivoj — Life-form Nouns)*
+*(Life-form Nouns)*
 
 | [↑](#nimi-suli-lawa) |
 |:-:|
@@ -153,7 +153,7 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 
 
 #### nimi suli lawa sijelo musi
-*(Eksperimentaj Vivaĵaj Substantivoj — Experimental Life-form Nouns)*
+*(Experimental Life-form Nouns)*
 
 **Life-form nouns** imply the word "sijelo".
 
@@ -163,25 +163,25 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 
 
 ### nimi suli lawa jan
-*(Ulaj Substantivoj — Person Nouns)*
+*(Person Nouns)*
 
 | [↑](#nimi-suli-lawa) |
 |:-:|
 | [nimi suli lawa jan musi](#nimi-suli-lawa-jan-musi) |
 
-If a **noun** is a **person noun**, it implies "jan".
+**Person nouns** imply "jan".
 
-| meli | mije |
-|:-|:-|
-| *female, somebody female, woman* | *male, somebody male, man* |
+| meli |
+|:-|
+| *female* → *somebody female*, *woman* |
 
 
 #### nimi suli lawa jan musi
-*(Eksperimentaj Ulaj Vortoj — Experimental Person Words)*
+*(Experimental Person Words)*
 
 | mama |
 |:-|
-| *source/original/ancient, parent* |
+| *original* → *original person*, *parent* 🙂 |
 
 
 ### nimi suli lawa ilo
