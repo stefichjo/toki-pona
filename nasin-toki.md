@@ -13,7 +13,7 @@ The sections about **"Experimental Language"** treat ways of using the language,
 
 | o luka ala e seli! |
 |:-|
-| *Don't touch the fire!* 🙂 |
+| *Don't touch the fire!* 👍 |
 
 
 The sections about **"Additional Language"** treat **Sonja**'s additional way of using the language in the **Toki Pona Book**.
@@ -27,7 +27,7 @@ The sections about **"Strange Language"** treat the additional way of how speake
 
 | mi tawa lon poka sina. → mi tawa poka sina. |
 |:-|
-| *I am going with you.* 🙁 |
+| *I am going with you.* 👎 |
 
 
 # nimi suli
@@ -82,7 +82,7 @@ The sections about **"Strange Language"** treat the additional way of how speake
 
 | sijelo |
 |:-|
-| *living* → *life-form* 🙂 |
+| *living* → *life-form* 👍 |
 
 
 #### nimi suli lawa ijo nasa
@@ -92,7 +92,7 @@ The [modifiers](#nimi-suli-poka) (or [prepositions](#nimi-suli-poka-luka)) "ante
 
 | ijo ante → ante | ijo sama → sama |
 |:-|:-|
-| *something different* 🙁 | *something similar* 🙁 |
+| *something different* 👎 | *something similar* 👎 |
 
 
 ### nimi suli lawa nasin
@@ -119,14 +119,14 @@ When a [verb](#nimi-suli-wawa) becomes a **noun**, it can mean the place of its 
 
 | mi lon lape. | sina tan lape. | ona li tawa lape. |
 |:-|:-|:-|
-| *I am resting.* 🙂 | *You have been resting.* 🙂 | *She is going to rest.* 🙂 |
+| *I am resting.* 👍 | *You have been resting.* 👍 | *She is going to rest.* 👍 |
 
 
 The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **direction nouns**.
 
 | lon awen pi | lon kama pi | lon pini pi |
 |:-|:-|:-|
-| *during* 🙂 | *before* 🙂 | *after* 🙂 |
+| *during* 👍 | *before* 👍 | *after* 👍 |
 
 
 #### nimi suli lawa nasin namako
@@ -159,7 +159,7 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 
 | akesi|
 |:-|
-| *cold-blooded* → *reptile*, *amphibian* 🙂 |
+| *cold-blooded* → *reptile*, *amphibian* 👍 |
 
 
 ### nimi suli lawa jan
@@ -181,7 +181,7 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 
 | mama |
 |:-|
-| *original* → *original person*, *parent* 🙂 |
+| *original* → *original person*, *parent* 👍 |
 
 
 ### nimi suli lawa ilo
