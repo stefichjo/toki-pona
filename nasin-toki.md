@@ -84,7 +84,7 @@ The sections about **"Additional Language"** treat **Sonja**'s additional way of
 | [nimi suli lawa ijo musi](#nimi-suli-lawa-ijo-musi) |
 | [nimi suli lawa ijo nasa](#nimi-suli-lawa-ijo-nasa) |
 
-**Thing nouns** imply the word "ijo".
+**Thing nouns** can imply the word "ijo".
 
 | sike |
 |:-|
@@ -103,7 +103,7 @@ The sections about **"Additional Language"** treat **Sonja**'s additional way of
 
 | sijelo 👍 |
 |:-|
-| *living* → *life-form* |
+| *living* → *living thing*, *life-form* |
 
 
 #### nimi suli lawa ijo nasa
@@ -117,56 +117,48 @@ The [modifiers](#nimi-suli-poka) (or [prepositions](#nimi-suli-poka-luka)) "ante
 
 
 ### nimi suli lawa palisa
-*(Korelativoj — Correlatives)*
+*(Correlatives)*
 
-| [↑](#nimi-suli-poka) |
+**Correlatives** are **thing nouns**, i.e. they can imply the word "ijo".
+
+| [↑](#nimi-suli-lawa) |
 |:-:|
 | [nimi suli lawa palisa musi](#nimi-suli-lawa-palisa-musi) |
-| [nimi suli lawa palisa namako](#nimi-suli-lawa-palisa-namako) |
 | [nimi suli lawa palisa nasa](#nimi-suli-lawa-palisa-nasa) |
+| [nimi suli lawa palisa namako](#nimi-suli-lawa-palisa-namako) |
 
-| ala | ale | ni | seme |
-|:-|:-|:-|:-|
-| *no, no thing, nothing* | *every, every thing, everything* | *this/that, this/that thing* | *which, which thing, what* |
+| ale |
+|:-|
+| *every* → *everything* |
 
 
-In a genitive clause (i.e. the words behind the **particle** "pi"), "ijo" before a **correlative** can reappear, but "pi ijo ni" becomes "ni".
+In a genitive clause (i.e. the words behind the **particle** "[pi](#nimi-lili-pi)"), "ijo" before a **correlative** reappears.
 
-| mama pi ijo ale | mama ale | jan pi ijo ni → jan ni |
+| mama pi ijo ale | mama ale |
 |:-|:-|:-|
-| *parent of everything* | *every parent* | *the person there* → *that person* |
+| *parent of everything* | *every parent* |
 
 
 #### nimi suli lawa palisa musi
 *(Eksperimentaj Korelativoj — Experimental Correlatives)*
 
-| wan |
+| wan 👍 |
 |:-|
 | *a certain, something certain* |
 
 
-A **subordinate clause** can be like a **correlative**.
+A [subordinate clause](#mute-nimi-suli-poka) can be thought of as an extension of the **correlative** "ni".
 
-| tomo ni: jan ala li uta e kon wawa |
-|:-|
-| *this non smoking compartment* |
-
-| suno pi mute ni: mi ken ala lape |
+| suno pi mute ni: mi ken ala lape 👍 |
 |:-|
 | *so much light, that I can't sleep* |
 
 
-In a **relative clause** (i.e. a **subordinate clause** with "ona ni"), "ona ni li" and "e ona ni" can disappear.
+In a **relative clause** (i.e. a [subordinate clause](#mute-nimi-suli-poka) with "ona ni"), "ona ni li" and "e ona ni" can disappear.
 
-| mi lukin e nena ni: (ona ni li) suli mute. | nena ni: mi lukin (e ona ni), li suli. |
+| mi lukin e nena ni: (ona ni li) suli mute. 👍 | nena ni: mi lukin (e ona ni), li suli. 👍 |
 |:-|:-|
 | *I'm seeing the mountain, that is big.* | *The mountain, that I'm seeing, is big.* |
-
-
-#### nimi suli lawa palisa namako
-*(Aldonaj Korelativoj — Additional Correlatives)*
-
-Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 
 
 #### nimi suli lawa palisa nasa
@@ -174,9 +166,15 @@ Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 
 The beginning of a [subordinate clause](#mute-nimi-suli-poka) can disappear. Therefore, [auxiliary verbs](#nimi-suli-wawa-poka) and [prepositions](#nimi-suli-poka-luka) can become [nouns](#nimi-suli-lawa).
 
-| jan pi ona li tawa tomo | jan pi li tawa tomo | jan pi tawa tomo |
+| jan pi ona li tawa tomo 👎 | jan pi li tawa tomo 👎 | jan pi tawa tomo 👎 |
 |:-|:-|:-|
 | *somebody, who is going home* | *home-coming person* | *home-comer* |
+
+
+#### nimi suli lawa palisa namako
+*(Aldonaj Korelativoj — Additional Correlatives)*
+
+Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 
 
 ### nimi suli lawa nasin
@@ -957,6 +955,13 @@ If a genitive phrase (i.e. the words after the **particle** "pi") consists of on
 | toki pi pona → toki pona |
 |:-|
 | *a language of good* → *a good language* |
+
+
+As a rule of thumb, if the **particle** "pi" doesn't add useful information, it shouldn't be used.
+
+| jan pi ijo ni → jan ni |
+|:-|
+| *the person over there* → *that person* |
 
 
 #### nimi lili "pi" musi
