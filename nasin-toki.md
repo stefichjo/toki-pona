@@ -29,7 +29,6 @@ The sections about **"Strange Language"** treat the additional way of how speake
 |:-|
 | *I am going with you.*  |
 
----
 
 # nimi suli
 *(Radikaj Vortoj — Content Words)*
@@ -40,12 +39,12 @@ The sections about **"Strange Language"** treat the additional way of how speake
 | [nimi suli wawa](#nimi-suli-wawa) |
 | [nimi suli poka](#nimi-suli-poka) |
 
+
 ## nimi suli lawa
 *(Substantivoj — Nouns)*
 
 | [↑](#nimi-suli) |
 |:-:|
-| [nimi suli lawa pona](#nimi-suli-lawa-pona) |
 | [nimi suli lawa ijo](#nimi-suli-lawa-ijo) |
 | [nimi suli lawa nasin](#nimi-suli-lawa-nasin) |
 | [nimi suli lawa sijelo](#nimi-suli-lawa-sijelo) |
@@ -53,31 +52,7 @@ The sections about **"Strange Language"** treat the additional way of how speake
 | [nimi suli lawa ilo](#nimi-suli-lawa-ilo) |
 | [nimi suli lawa pali](#nimi-suli-lawa-pali) |
 | [nimi suli lawa esun](#nimi-suli-lawa-esun) |
-
-
-**Nouns** can imply food.
-
-| moku | pan | soweli |
-|:-|:-|:-|
-| *mouthful, food* | *seed, bread* | *mammal, meat* |
-
-
-### nimi suli lawa pona
-*(Simplaj Substantivoj — Simple Nouns)*
-
-| [↑](#nimi-suli-lawa) |
-|:-:|
-| [nimi suli lawa pona musi](#nimi-suli-lawa-pona-musi) |
-
-| ijo | jan |
-|:-|:-|
-| *something, a thing* | *somebody, a person* |
-
-
-### nimi suli lawa pona musi
-*(Eksperimentaj Simplaj Substantivoj — Experimental Simple Nouns)*
-
-"ijo" povas signifi "place" and "case".
+| [nimi suli lawa pona](#nimi-suli-lawa-pona) |
 
 
 ### nimi suli lawa ijo
@@ -92,77 +67,24 @@ If a **noun** is a **thing noun**, it implies the word "ijo".
 
 | ale | sike |
 |:-|:-|
-| *whole, something whole, universe* | *round, something round, circle/globe* |
+| *whole* → *something whole, universe* | *round* → *something round, circle/globe* |
+
+
+**Nouns** can imply food.
+
+| moku | pan | soweli |
+|:-|:-|:-|
+| *mouthful* → *food* | *seed* → *bread* | *mammal* → *meat* |
 
 
 #### nimi suli lawa ijo musi
 *(Eksperimentaj Aĵaj Substantivoj — Experimental Thing Nouns)*
 
-| sike | wan |
-|:-|:-|
-| *complete, fulfilment* | *unique, part* |
-
-
-| mani | ilo | pakala |
-|:-|:-|:-|
-| *domesticated/mined/valuable, resource/money* | *useful/functioning, tool* | *damaged/wounded, damage/wound* |
-
-
-| kili | pan |
-|:-|:-|
-| *hanging, fruit* | *falling, seed* |
-
-
-| kiwen | ko | kon | telo |
-|:-|:-|:-|:-|
-| *hard, stone* | *semi-solid, dough/powder* | *hovering, air* | *liquid/wet, water* |
-
-
-| kulupu | sijelo |
-|:-|:-|
-| *interactive/reciprocal/common, company/group/community/society/tribe* | *living/healthy, body/health* |
-
-
-| lete | seli |
-|:-|:-|
-| *cold, frost* | *warm, fire* |
-
-
-| linja | palisa |
-|:-|:-|
-| *long and flexible, hair* | *long and hard, finger* |
-
-
-| lipu | nena | sike |
-|:-|:-|:-|
-| *flat, leaf/document* | *outstanding, bump/mountain* | *round, circle/globe* |
-
-
-| pimeja | suno |
-|:-|:-|
-| *dark, shadow* | *bright, light* |
-
-
-| sin |
-|:-|
-| *retro* → *additional/another/extra* → *new/fresh* |
-
-
 Two same words have the meaning of the [modifier](#nimi-suli-poka) "a".
 
-| ona li kiwen kiwen. → ona li kiwen kiwen! | sina suli suli! |
-|:-|:-|
-| *It's a hard stone.* → *It's really hard!* | *You are really tall!* |
-
-
-| ma | mun |
-|:-|:-|
-| *vast, something vast, space/earth* | *skywalking, something skywalking, star/moon* |
-
-
-| lupa | nasin |
-|:-|:-|
-| *thick/extended/hollow, hole* | *thin/elongated/cracked, way/line/solution* |
+| sina suli a! → sina suli suli! |
+|:-|
+| *You are really tall!* |
 
 
 #### nimi suli lawa ijo nasa
@@ -172,7 +94,9 @@ The [modifiers](#nimi-suli-poka) (or [prepositions](#nimi-suli-poka-luka)) "ante
 
 | ijo ante → ante | ijo sama → sama |
 |:-|:-|
-| *something different* | *something similar* |
+| *something different* ☹ | *something similar* ☹ |
+
+---
 
 ### nimi suli lawa nasin
 *(Direktaj Substantivoj — Direction Nouns)*
@@ -351,6 +275,20 @@ If a **noun** is an **action noun**, it implies "e ijo" when it becomes a [trans
 | mi | sina | ona |
 |:-|:-|:-|
 | *I, we* | *you* | *she, he, it, they* |
+
+
+### nimi suli lawa pona
+*(Simplaj Substantivoj — Simple Nouns)*
+
+**Simple nouns** don't have an additional meaning as **modifiers** or **verbs**.
+
+| [↑](#nimi-suli-lawa) |
+|:-:|
+| [nimi suli lawa pona musi](#nimi-suli-lawa-pona-musi) |
+
+| ijo | jan |
+|:-|:-|
+| *something, a thing* | *somebody, a person* |
 
 
 ## nimi suli wawa
@@ -1384,7 +1322,7 @@ If "ni" is missing, the [subordinate clause](#mute-nimi-suli-poka) is not below.
 | <img src="musi/sitelen/pona/en.png" height="30">       | | *[LUKA](#nimi-lili-luka)* | anu, **en** | **(between multiple subjects)** |
 | <img src="musi/sitelen/pona/esun.png" height="30">     | *[POKA](#nimi-suli-poka)* | *[LUKA](#nimi-suli-poka-luka)* | **esun**, kepeken | …; **business transaction**; **market**, **shop**, **fair**, **bazaar** → instead of |
 |                                                        | *[POKA](#nimi-suli-poka)* | *[NANPA](#nimi-suli-poka-nanpa)* | ala, ale, **esun**, luka, mute, tu, wan | 7, seven |
-| <img src="musi/sitelen/pona/ijo.png" height="30">      | *[LAWA](#nimi-suli-lawa)* | *[PONA](#nimi-suli-lawa-pona)* | **ijo** — jan | inconscious being; **thing**, **phenomenon**, **object**, **matter** |
+| <img src="musi/sitelen/pona/ijo.png" height="30">      | *[LAWA](#nimi-suli-lawa)* | *[PONA](#nimi-suli-lawa-pona)* | **ijo** — jan | inconscious being; **thing**, **phenomenon**, **object**, **matter**; location, place; case |
 | <img src="musi/sitelen/pona/ike.png" height="30">      | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | pona — **ike**, nasa, pakala, utala | **bad**, **negative**; (sin -) **non-essential**, (sin -) **irrelevant** |
 | <img src="musi/sitelen/pona/ilo.png" height="30">      | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | **ilo** — pakala | functioning → organ; **tool**, **implement**, **machine**, **device** |
 | <img src="musi/sitelen/pona/insa.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | weka — **insa**, poka, sin | inner → **centre**, **content**, **inside**, **between**; **internal organ**, **stomach** |
@@ -1478,7 +1416,7 @@ If "ni" is missing, the [subordinate clause](#mute-nimi-suli-poka) is not below.
 | <img src="musi/sitelen/pona/seme.png" height="30">     | *[POKA](#nimi-suli-poka)* | *[PALISA](#nimi-suli-poka-palisa)* | ala, ale, ni, **seme**, wan | **which?** → **what?**, which one? |
 | <img src="musi/sitelen/pona/sewi.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | anpa — **sewi**, lawa — noka | high; **awe-inspiring**, **divine**, **sacred**, **supernatural** → **area above**, **highest part**, **something elevated**; the divine |
 | <img src="musi/sitelen/pona/sijelo.png" height="30">   | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | kulupu — **sijelo** | healthy, living, sustainable → **body (of person or animal)**, health, **physical state**, **torso** |
-| <img src="musi/sitelen/pona/sike.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | lipu, nena, **sike** | round or circular; complete, (- suno) **of one year** → **round or circular thing**; **ball**, **circle**, **cycle**, **sphere**, **wheel** |
+| <img src="musi/sitelen/pona/sike.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | lipu, nena, **sike** | round or circular; complete, (- suno) **of one year** → **round or circular thing**; **ball**, **circle**, **cycle**, **sphere**, **wheel**; fulfilment |
 | <img src="musi/sitelen/pona/sin.png" height="30">      | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | weka — insa, poka, **sin** | **new**, **fresh**; **additional**, **another**, **extra** → in addition to |
 | <img src="musi/sitelen/pona/sina.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[ESUN](#nimi-suli-lawa-esun)* | mi, ona, **sina** | **you** |
 | <img src="musi/sitelen/pona/sinpin.png" height="30">   | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | poka — monsi, **sinpin** | **foremost**, frontal → (- lawa) **face**, **front**, **wall** |
