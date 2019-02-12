@@ -18,7 +18,7 @@ The sections about **"Experimental Language"** treat ways of using the language,
 
 The sections about **"Additional Language"** treat **Sonja**'s additional way of using the language in the **Toki Pona Book**.
 
-| ona li pana e telo tawa kasi. → ona li telo e kasi. 😐 |
+| ona li pana e telo tawa kasi. → ona li telo e kasi. 🤔 |
 |:-|
 | *She gives water to the plant.* → *She waters the plant.* |
 
@@ -131,14 +131,14 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 #### nimi suli lawa nasin namako
 *(Additional Direction Nouns)*
 
-| lawa → sewi 😐 |
+| lawa → sewi 🤔 |
 |:-|
 | *upper* → *upper area, top* |
 
 
 "lon awen pi", "lon kama pi", "lon pini pi" can become "lon".
 
-| lon awen pi tenpo lili → lon tenpo lili 😐 | lon kama pi tenpo lili → lon tenpo lili 😐 | lon pini pi tenpo lili → lon tenpo lili 😐 |
+| lon awen pi tenpo lili → lon tenpo lili 🤔 | lon kama pi tenpo lili → lon tenpo lili 🤔 | lon pini pi tenpo lili → lon tenpo lili 🤔 |
 |:-|:-|:-|
 | *shortly/quickly* | *provisionally* | *soon* |
 
