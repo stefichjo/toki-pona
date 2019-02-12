@@ -48,6 +48,7 @@ The sections about **"Additional Language"** treat **Sonja**'s additional way of
 | [nimi suli lawa pona](#nimi-suli-lawa-pona) |
 | [nimi suli lawa esun](#nimi-suli-lawa-esun) |
 | [nimi suli lawa ijo](#nimi-suli-lawa-ijo) |
+| [nimi suli lawa palisa](#nimi-suli-lawa-palisa) |
 | [nimi suli lawa nasin](#nimi-suli-lawa-nasin) |
 | [nimi suli lawa sijelo](#nimi-suli-lawa-sijelo) |
 | [nimi suli lawa jan](#nimi-suli-lawa-jan) |
@@ -113,6 +114,69 @@ The [modifiers](#nimi-suli-poka) (or [prepositions](#nimi-suli-poka-luka)) "ante
 | ijo ante → ante 👎 | ijo sama → sama 👎 |
 |:-|:-|
 | *something different* | *something similar* |
+
+
+### nimi suli lawa palisa
+*(Korelativoj — Correlatives)*
+
+| [↑](#nimi-suli-poka) |
+|:-:|
+| [nimi suli lawa palisa musi](#nimi-suli-lawa-palisa-musi) |
+| [nimi suli lawa palisa namako](#nimi-suli-lawa-palisa-namako) |
+| [nimi suli lawa palisa nasa](#nimi-suli-lawa-palisa-nasa) |
+
+| ala | ale | ni | seme |
+|:-|:-|:-|:-|
+| *no, no thing, nothing* | *every, every thing, everything* | *this/that, this/that thing* | *which, which thing, what* |
+
+
+In a genitive clause (i.e. the words behind the **particle** "pi"), "ijo" before a **correlative** can reappear, but "pi ijo ni" becomes "ni".
+
+| mama pi ijo ale | mama ale | jan pi ijo ni → jan ni |
+|:-|:-|:-|
+| *parent of everything* | *every parent* | *the person there* → *that person* |
+
+
+#### nimi suli lawa palisa musi
+*(Eksperimentaj Korelativoj — Experimental Correlatives)*
+
+| wan |
+|:-|
+| *a certain, something certain* |
+
+
+A **subordinate clause** can be like a **correlative**.
+
+| tomo ni: jan ala li uta e kon wawa |
+|:-|
+| *this non smoking compartment* |
+
+| suno pi mute ni: mi ken ala lape |
+|:-|
+| *so much light, that I can't sleep* |
+
+
+In a **relative clause** (i.e. a **subordinate clause** with "ona ni"), "ona ni li" and "e ona ni" can disappear.
+
+| mi lukin e nena ni: (ona ni li) suli mute. | nena ni: mi lukin (e ona ni), li suli. |
+|:-|:-|
+| *I'm seeing the mountain, that is big.* | *The mountain, that I'm seeing, is big.* |
+
+
+#### nimi suli lawa palisa namako
+*(Aldonaj Korelativoj — Additional Correlatives)*
+
+Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
+
+
+#### nimi suli lawa palisa nasa
+*(Strangaj Korelativoj — Strange Correlatives)*
+
+The beginning of a [subordinate clause](#mute-nimi-suli-poka) can disappear. Therefore, [auxiliary verbs](#nimi-suli-wawa-poka) and [prepositions](#nimi-suli-poka-luka) can become [nouns](#nimi-suli-lawa).
+
+| jan pi ona li tawa tomo | jan pi li tawa tomo | jan pi tawa tomo |
+|:-|:-|:-|
+| *somebody, who is going home* | *home-coming person* | *home-comer* |
 
 
 ### nimi suli lawa nasin
@@ -383,7 +447,6 @@ The [prepositions](#nimi-suli-poka-luka) "lon", "tan", "tawa" can become **auxil
 | [↑](#nimi-suli) |
 |:-:|
 | [nimi suli poka pona](#nimi-suli-poka-pona) |
-| [nimi suli poka palisa](#nimi-suli-poka-palisa) |
 | [nimi suli poka nanpa](#nimi-suli-poka-nanpa) |
 | [nimi suli poka luka](#nimi-suli-poka-luka) |
 
@@ -444,69 +507,6 @@ If a [content word](#nimi-suli) becomes another word and doesn't recieve an addi
 | jan pi tenpo lili → jan lili | jan pi tenpo suli → jan suli |
 |:-|:-|
 | *youngling* | *adult* |
-
-
-### nimi suli poka palisa
-*(Korelativoj — Correlatives)*
-
-| [↑](#nimi-suli-poka) |
-|:-:|
-| [nimi suli poka palisa musi](#nimi-suli-poka-palisa-musi) |
-| [nimi suli poka palisa namako](#nimi-suli-poka-palisa-namako) |
-| [nimi suli poka palisa nasa](#nimi-suli-poka-palisa-nasa) |
-
-| ala | ale | ni | seme |
-|:-|:-|:-|:-|
-| *no, no thing, nothing* | *every, every thing, everything* | *this/that, this/that thing* | *which, which thing, what* |
-
-
-In a genitive clause (i.e. the words behind the **particle** "pi"), "ijo" before a **correlative** can reappear, but "pi ijo ni" becomes "ni".
-
-| mama pi ijo ale | mama ale | jan pi ijo ni → jan ni |
-|:-|:-|:-|
-| *parent of everything* | *every parent* | *the person there* → *that person* |
-
-
-#### nimi suli poka palisa musi
-*(Eksperimentaj Korelativoj — Experimental Correlatives)*
-
-| wan |
-|:-|
-| *a certain, something certain* |
-
-
-A **subordinate clause** can be like a **correlative**.
-
-| tomo ni: jan ala li uta e kon wawa |
-|:-|
-| *this non smoking compartment* |
-
-| suno pi mute ni: mi ken ala lape |
-|:-|
-| *so much light, that I can't sleep* |
-
-
-In a **relative clause** (i.e. a **subordinate clause** with "ona ni"), "ona ni li" and "e ona ni" can disappear.
-
-| mi lukin e nena ni: (ona ni li) suli mute. | nena ni: mi lukin (e ona ni), li suli. |
-|:-|:-|
-| *I'm seeing the mountain, that is big.* | *The mountain, that I'm seeing, is big.* |
-
-
-#### nimi suli poka palisa namako
-*(Aldonaj Korelativoj — Additional Correlatives)*
-
-Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
-
-
-#### nimi suli poka palisa nasa
-*(Strangaj Korelativoj — Strange Correlatives)*
-
-The beginning of a [subordinate clause](#mute-nimi-suli-poka) can disappear. Therefore, [auxiliary verbs](#nimi-suli-wawa-poka) and [prepositions](#nimi-suli-poka-luka) can become [nouns](#nimi-suli-lawa).
-
-| jan pi ona li tawa tomo | jan pi li tawa tomo | jan pi tawa tomo |
-|:-|:-|:-|
-| *somebody, who is going home* | *home-coming person* | *home-comer* |
 
 
 ### nimi suli poka nanpa
@@ -1283,12 +1283,12 @@ If "ni" is missing, the [subordinate clause](#mute-nimi-suli-poka) is not below.
 | <img src="musi/sitelen/pona/a.png" height="30">        | | *[KALAMA](#nimi-lili-kalama)* | mu — **a**, ala | **(emphasis, emotion or confirmation)** → yes! |
 | <img src="musi/sitelen/pona/akesi.png" height="30">    | *[LAWA](#nimi-suli-lawa)* | *[SIJELO](#nimi-suli-lawa-sijelo)* | **akesi** — soweli | cold-blooded → **non-cute animal**; **reptile**, **amphibian**; monster |
 | <img src="musi/sitelen/pona/ala.png" height="30">      | | *[KALAMA](#nimi-lili-kalama)* | mu — a, **ala** | (negation) → outch!, **no**! |
-|                                                        | *[POKA](#nimi-suli-poka)* | *[PALISA](#nimi-suli-poka-palisa)* | **ala**, ale, ni, seme, wan | **not** → none, nothing |
+|                                                        | *[LAWA](#nimi-suli-lawa)* | *[PALISA](#nimi-suli-lawa-palisa)* | **ala**, ale, ni, seme, wan | **not** → none, nothing |
 |                                                        | *[POKA](#nimi-suli-poka)* | *[NANPA](#nimi-suli-poka-nanpa)* | **ala**, ale, esun, luka, mute, tu, wan | 0, **zero** |
 |                                                        | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | **ala** — lon | non-, false |
 | <img src="musi/sitelen/pona/alasa.png" height="30">    | *[WAWA](#nimi-suli-wawa)* | *[PONA](#nimi-suli-wawa-pona)* | **alasa**, pali | **to hunt**, **forage** |
 | <img src="musi/sitelen/pona/ale.png" height="30">      | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | **ale** — wan | whole; **abundant**, **countless**, **bountiful**, **plentiful** → entirety; **abundance**, **life**, **universe** |
-|                                                        | *[POKA](#nimi-suli-poka)* | *[PALISA](#nimi-suli-poka-palisa)* | ala, **ale**, ni, seme, wan | **all**; **every** → **everything** |
+|                                                        | *[LAWA](#nimi-suli-lawa)* | *[PALISA](#nimi-suli-lawa-palisa)* | ala, **ale**, ni, seme, wan | **all**; **every** → **everything** |
 |                                                        | *[POKA](#nimi-suli-poka)* | *[NANPA](#nimi-suli-poka-nanpa)* | ala, **ale**, esun, luka, mute, tu, wan | **100**, a hundred, infinite |
 | <img src="musi/sitelen/pona/anpa.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | **anpa** — sewi, lawa — noka | **bowing down**, **downward**, **humble**, **lowly**, **dependent** |
 | <img src="musi/sitelen/pona/ante.png" height="30">     | *[POKA](#nimi-suli-poka)* | *[LUKA](#nimi-suli-poka-luka)* | **ante** — sama | **different**, **altered**, **changed**, **other** → than |
@@ -1358,7 +1358,7 @@ If "ni" is missing, the [subordinate clause](#mute-nimi-suli-poka) is not below.
 | <img src="musi/sitelen/pona/nasa.png" height="30">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | pona — ike, **nasa**, pakala, utala | **unusual**, **strange**; **foolish**, **crazy**; **drunk**, **intoxicated** |
 | <img src="musi/sitelen/pona/nasin.png" height="30">    | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | lupa, **nasin** | thin, elongated, cracked → line, solution; **way**, **custom**, **doctrine**, **method**, **path**, **road** |
 | <img src="musi/sitelen/pona/nena.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | lipu, **nena**, sike | outstanding → bump, button, hill, mountain, nose, protuberance |
-| <img src="musi/sitelen/pona/ni.png" height="30">       | *[POKA](#nimi-suli-poka)* | *[PALISA](#nimi-suli-poka-palisa)* | ala, ale, **ni**, seme, wan | **that**, **this** → that one, this one |
+| <img src="musi/sitelen/pona/ni.png" height="30">       | *[LAWA](#nimi-suli-lawa)* | *[PALISA](#nimi-suli-lawa-palisa)* | ala, ale, **ni**, seme, wan | **that**, **this** → that one, this one |
 | <img src="musi/sitelen/pona/nimi.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[PALI](#nimi-suli-lawa-pali)* | nanpa, **nimi**, sitelen, sona, toki | to name — **name**, **word** |
 | <img src="musi/sitelen/pona/noka.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[ILO](#nimi-suli-lawa-ilo)* | kute, lawa, len, luka, lukin, **noka**, palisa, pilin, poki, selo, tomo, uta | to step on, kick → **foot**, **leg**, **organ of locomotion** |
 |                                                        | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | anpa — sewi, lawa — **noka** | basic → base, **bottom**, **lower part** |
@@ -1389,7 +1389,7 @@ If "ni" is missing, the [subordinate clause](#mute-nimi-suli-poka) is not below.
 | <img src="musi/sitelen/pona/seli.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | lete — **seli** | warm; cooked — **fire**; **cooking element**, **chemical reaction**, **heat source** |
 | <img src="musi/sitelen/pona/selo.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[ILO](#nimi-suli-lawa-ilo)* | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, **selo**, tomo, uta | to form → **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary** |
 |                                                        | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | open — **selo** | closed, confined |
-| <img src="musi/sitelen/pona/seme.png" height="30">     | *[POKA](#nimi-suli-poka)* | *[PALISA](#nimi-suli-poka-palisa)* | ala, ale, ni, **seme**, wan | **which?** → **what?**, which one? |
+| <img src="musi/sitelen/pona/seme.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[PALISA](#nimi-suli-lawa-palisa)* | ala, ale, ni, **seme**, wan | **which?** → **what?**, which one? |
 | <img src="musi/sitelen/pona/sewi.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | anpa — **sewi**, lawa — noka | high; **awe-inspiring**, **divine**, **sacred**, **supernatural** → **area above**, **highest part**, **something elevated**; the divine |
 | <img src="musi/sitelen/pona/sijelo.png" height="30">   | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | kulupu — **sijelo** | healthy, living, sustainable → **body (of person or animal)**, health, life-form, **physical state**, **torso** |
 | <img src="musi/sitelen/pona/sike.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | lipu, nena, **sike** | round or circular; complete, (- suno) **of one year** → **round or circular thing**; **ball**, **circle**, **cycle**, **sphere**, **wheel**; fulfilment |
@@ -1421,7 +1421,7 @@ If "ni" is missing, the [subordinate clause](#mute-nimi-suli-poka) is not below.
 | <img src="musi/sitelen/pona/wan.png" height="30">      | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | tu — **wan** | **united** |
 |                                                        | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | ale — **wan** | (- lili) partial, (- nasa) **unique** → (- lili) part |
 |                                                        | *[POKA](#nimi-suli-poka)* | *[NANPA](#nimi-suli-poka-nanpa)* | ala, ale, esun, luka, mute, tu, **wan** | 1, **one** |
-|                                                        | *[POKA](#nimi-suli-poka)* | *[PALISA](#nimi-suli-poka-palisa)* | ala, ale, ni, seme, **wan** | some → something specific |
+|                                                        | *[LAWA](#nimi-suli-lawa)* | *[PALISA](#nimi-suli-lawa-palisa)* | ala, ale, ni, seme, **wan** | some → something specific |
 | <img src="musi/sitelen/pona/waso.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[SIJELO](#nimi-suli-lawa-sijelo)* | kala, kasi, pipi, **waso** | flying → **bird**, **flying creature**, **winged animal** |
 | <img src="musi/sitelen/pona/wawa.png" height="30">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | lili — mute, suli, **wawa** | **strong**, **powerful**; **confident**, **sure**; **energetic**, **intense** |
 | <img src="musi/sitelen/pona/weka.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | **weka** — insa, poka, sin | **absent**, **away**; **ignored** → absence, distance |
