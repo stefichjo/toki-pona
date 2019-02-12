@@ -333,68 +333,47 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 
 | [↑](#nimi-suli-wawa) |
 |:-:|
-| [nimi suli wawa poka musi](#nimi-suli-wawa-poka-musi) |
 | [nimi suli wawa poka nasa](#nimi-suli-wawa-poka-nasa) |
 
-| awen | kama |
-|:-|:-|
-| *enduring, to keep -ing* | *becoming, to start -ing* |
-
-
-| ken | lukin | sona | wile |
-|:-|:-|:-|:-|
-| *possible, can* | *minding, to try to* | *knowing, to know how to* | *needing, must/want* |
+| awen |
+|:-|
+| *enduring* → *to keep -ing* |
 
 
 After the **auxiliary verbs** "awen" and "kama", "lon" can disappear.
 
-| awen lon → awen | kama lon → kama |
-|:-|:-|
-| *staying, to keep on -ing* | *appearing/coming, to succeed in -ing* |
+| awen lon → awen |
+|:-|
+| *to stay* |
 
 
 If a **verb** is an **auxiliary verb**, it implies a **transitive verb** before a [subordinate clause](#mute-nimi-suli-poka), which receives the main **verb** from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [particle "li"](#nimi-lili-li)) is the same.
 
 | ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
 |:-|
-| *She needs, that she is home.* → *She has to be home.* |
-
-
-#### nimi suli wawa poka musi
-*(Eksperimentaj Helpaj Verboj — Experimental Auxiliary Verbs)*
-
-| open | pini | pini lon → pini |
-|:-|:-|:-|
-| *open/turned on/ready, to be ready to* | *past, to stop -ing* | *finished, to finish -ing* |
+| *She needs, that she is at home.* → *She has to be at home.* |
 
 
 #### nimi suli wawa poka nasa
-*(Strangaj Helpaj Verboj — Strange Auxiliary Verbs)*
+*(Strange Auxiliary Verbs)*
 
-"pana" can become an **auxiliary verb**.
+Every **transitive verb** can become an **auxiliary verb**.
 
-| mi pana e sona pi toki pona. → mi pana sona e toki pona. |
+| mi pana e sona pi toki pona. → mi pana sona e toki pona. 👎 |
 |:-|
 | *I teach Toki Pona.* |
 
 
-Every **transitive verb** can become an **auxiliary verb**.
-
-| mi olin e ni: mi kama sona e jan pona sina. → mi olin kama sona e jan pona sina. |
-|:-|
-| *I love to get to know your friend.* |
-
-
 The **auxiliary verb** "kama" and the [content word](#nimi-suli) "pini" can disappear.
 
-| ona li kama lape lon pini pi tenpo lili. → ona li lape lon tenpo lili. |
+| ona li kama lape lon pini pi tenpo lili. → ona li lape lon tenpo lili. 👎 |
 |:-|
 | *She will sleep after a short period of time. She will sleep soon. She falls asleep quickly.* |
 
 
 The [prepositions](#nimi-suli-poka-luka) "lon", "tan", "tawa" can become **auxiliary verbs**.
 
-| mi lon moku e kili. | sina tan moku e kili. | ona li tawa moku e kili. |
+| mi lon moku e kili. 👎 | sina tan moku e kili. 👎 | ona li tawa moku e kili. 👎 |
 |:-|:-|:-|
 | *I am eating an apple.* | *You have been eating an apple.* | *She is going to eat an apple.* |
 
