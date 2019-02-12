@@ -11,23 +11,23 @@
  
 The sections about **"Experimental Language"** treat ways of using the language, which seem to me to be in harmony with the **Toki Pona Book**, but which only a few people use.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | o luka ala e seli! |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Don't touch the fire!* |
+| o luka ala e seli! |
+|:-|
+| *Don't touch the fire!* |
 
 
 The sections about **"Additional Language"** treat **Sonja**'s additional way of using the language in the **Toki Pona Book**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li pana e telo tawa kasi. → ona li telo e kasi. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She gives water to the plant.* → *She waters the plant.* |
+| ona li pana e telo tawa kasi. → ona li telo e kasi. |
+|:-|
+| *She gives water to the plant.* → *She waters the plant.* |
 
 
 The sections about **"Strange Language"** treat the additional way of how speakers of Toki Pona dialects use the language.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi tawa lon poka sina. → mi tawa poka sina. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am going with you.*  |
+| mi tawa lon poka sina. → mi tawa poka sina. |
+|:-|
+| *I am going with you.*  |
 
 
 # nimi lili
@@ -44,23 +44,23 @@ The sections about **"Strange Language"** treat the additional way of how speake
 
 [Quotes](#nimi-lili-pona) are after [nouns](#nimi-suli-lawa). **Quotations** are inside quotation marks.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li jo e nimi "Sonja". |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She has the name "Sonja".* |
+| ona li jo e nimi "Sonja". |
+|:-|
+| *She has the name "Sonja".* |
 
 
 **Quotation marks** with "nimi" or "kalama" can disappear.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | toki pi nimi "Epelanto" → toki Epelanto |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *the language "Esperanto"* → *Esperanto* |
+| toki pi nimi "Epelanto" → toki Epelanto |
+|:-|
+| *the language "Esperanto"* → *Esperanto* |
 
 
 **Sonja** removes the [particle "pi"](#nimi-lili-pi) before "nanpa" with a [numeral](#nimi-suli-poka-nanpa). In this case, "nanpa" is part of a quote. But **Pije** doesn't remove such a [particle "pi"](#nimi-lili-pi).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina nanpa wan | toki pi nanpa wan → toki nanpa wan |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You're number one.* | *the language with the number one* → *the language number one* |
+| sina nanpa wan | toki pi nanpa wan → toki nanpa wan |
+|:-|:-|
+| *You're number one.* | *the language with the number one* → *the language number one* |
 
 
 ### nimi lili kalama
@@ -68,16 +68,16 @@ The sections about **"Strange Language"** treat the additional way of how speake
 
 One can express an emotion by means of a plain **interjection** as if it were a [sentence](#mute-nimi).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | a! | mu! |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Ha!, Wow!* | *Blah!, Meeow!* |
+| a! | mu! |
+|:-|:-|
+| *Ha!, Wow!* | *Blah!, Meeow!* |
 
 
 An **interjection** can become an [action noun](#nimi-suli-lawa-pali).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | soweli li kalama "mu". → soweli li mu. | ona li kute e nimi "mu" wawa. → ona li kute e mu wawa. |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The animal bleats.* | *She heard a loud bleat.* |
+| soweli li kalama "mu". → soweli li mu. | ona li kute e nimi "mu" wawa. → ona li kute e mu wawa. |
+|:-|:-|
+| *The animal bleats.* | *She heard a loud bleat.* |
 
 
 #### nimi lili kalama musi
@@ -85,23 +85,23 @@ An **interjection** can become an [action noun](#nimi-suli-lawa-pali).
 
 The [modifier](#nimi-suli-poka) "ala" can become an **interjection**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala! |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Outch!* |
+| ala! |
+|:-|
+| *Outch!* |
 
 
 An **interjection** can become a [modifier](#nimi-suli-poka).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | a | mu |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *indeed, yes* | *any, well* |
+| a | mu |
+|:-|:-|
+| *indeed, yes* | *any, well* |
 
 
 One can reply by a phrase only, but it can't start with a **particle**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li mama. → mama. | o jo e moku pona! → moku pona! |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She is a parent.* → *She is., Yes.* | *Have a good meal!* → *Bon appétit!* |
+| ona li mama. → mama. | o jo e moku pona! → moku pona! |
+|:-|:-|
+| *She is a parent.* → *She is., Yes.* | *Have a good meal!* → *Bon appétit!* |
 
 
 ## nimi lili luka
@@ -127,16 +127,16 @@ One can reply by a phrase only, but it can't start with a **particle**.
 
 If the subject (i.e. the words before the **particle** "li") is just "mi" or "sina", the **particle** "li" disappears.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi li mije. → mi mije. | sina li sin. → sina sin. |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am a man.* | *You are new.* |
+| mi li mije. → mi mije. | sina li sin. → sina sin. |
+|:-|:-|
+| *I am a man.* | *You are new.* |
 
 
 A [sentence](#mute-nimi) can have multiple predicates (i.e. the words after the **particle** "li"). Their **commas** can disappear.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ma mama li lili, li lete. → ma mama li lili li lete. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The motherland is small and cold.* |
+| ma mama li lili, li lete. → ma mama li lili li lete. |
+|:-|
+| *The motherland is small and cold.* |
 
 
 #### nimi lili "li" musi
@@ -144,9 +144,9 @@ A [sentence](#mute-nimi) can have multiple predicates (i.e. the words after the 
 
 After "mi" or "sina" the [particle "li"](#nimi-lili-li) doesn't disappear, if there is a second [particle "li"](#nimi-lili-li).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi lukin mute. mi sona lili. → mi li lukin mute li sona lili. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am seeing much and knowing little.* |
+| mi lukin mute. mi sona lili. → mi li lukin mute li sona lili. |
+|:-|
+| *I am seeing much and knowing little.* |
 
 
 #### nimi lili "li" nasa
@@ -154,16 +154,16 @@ After "mi" or "sina" the [particle "li"](#nimi-lili-li) doesn't disappear, if th
 
 **Pije** removes only the first [particle "li"](#nimi-lili-li) after "mi" or "sina".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi lukin mute. mi sona lili. → mi lukin mute li sona lili. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am seeing much and knowing little.* |
+| mi lukin mute. mi sona lili. → mi lukin mute li sona lili. |
+|:-|
+| *I am seeing much and knowing little.* |
 
 
 When the subject (t.e. the words before the [particle "li"](#nimi-lili-li)) is one word alone, "li" disappears.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li mama. → ona mama. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She is a parent.* |
+| ona li mama. → ona mama. |
+|:-|
+| *She is a parent.* |
 
 
 ### nimi lili "e"
@@ -175,23 +175,23 @@ When the subject (t.e. the words before the [particle "li"](#nimi-lili-li)) is o
 
 Plain "ijo" as the direct object (i.e. the words after the **particle** "e") can disappear.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mije li sona e ijo. → mije li sona. | mi pona e ijo. → mi pona./mi pana e pona. |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *The man knows things.* → *The man knows.* | *I repair something.* → *I repair./I help.* |
+| mije li sona e ijo. → mije li sona. | mi pona e ijo. → mi pona./mi pana e pona. |
+|:-|:-|
+| *The man knows things.* → *The man knows.* | *I repair something.* → *I repair./I help.* |
 
 
 A predicate (i.e. the words after the **particle** "li") can have multiple direct objects (i.e. the words after the **particle** "e"). Their **commas** can disappear.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She cooks the meat and the rice.* |
+| ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
+|:-|
+| *She cooks the meat and the rice.* |
 
 
 One can express a desire by just a direct object (i.e. the words after the **particle** "e").
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tawa pona sina la mi wile e moku pona. → moku pona! |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I wish you a good meal.* → *Bon appétit!* |
+| tawa pona sina la mi wile e moku pona. → moku pona! |
+|:-|
+| *I wish you a good meal.* → *Bon appétit!* |
 
 
 #### nimi lili "e" namako
@@ -199,16 +199,16 @@ One can express a desire by just a direct object (i.e. the words after the **par
 
 The direct object of "pana" can become a [transitive verb](#nimi-suli-wawa-luka).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li pana e telo tawa kasi. → ona li telo e kasi. | ona li telo e kasi. |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She gives water to the plant.* → *She waters the plant.* | *She makes the plant wet.* |
+| ona li pana e telo tawa kasi. → ona li telo e kasi. | ona li telo e kasi. |
+|:-|:-|
+| *She gives water to the plant.* → *She waters the plant.* | *She makes the plant wet.* |
 
 
 With "utala", the [preposition](#nimi-suli-poka-luka) "tawa" can become the [particle "e"](#nimi-lili-e).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li utala tawa jan ike. → ona li utala e jan ike. | ona li utala e jan ike. |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She fights the enemy.* | *She is provoking/attacking the enemy.* |
+| ona li utala tawa jan ike. → ona li utala e jan ike. | ona li utala e jan ike. |
+|:-|:-|
+| *She fights the enemy.* | *She is provoking/attacking the enemy.* |
 
 
 ##### nimi lili "e" nasa
@@ -216,9 +216,9 @@ With "utala", the [preposition](#nimi-suli-poka-luka) "tawa" can become the [par
 
 When the [preposition](#nimi-suli-poka-luka) "kepeken" becomes a [verb](#nimi-suli-wawa), **Pije** uses it with the **particle "e"**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi kepeken ilo. → mi kepeken e ilo. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I use the instrument.* |
+| mi kepeken ilo. → mi kepeken e ilo. |
+|:-|
+| *I use the instrument.* |
 
 
 ### nimi lili "o"
@@ -226,24 +226,24 @@ When the [preposition](#nimi-suli-poka-luka) "kepeken" becomes a [verb](#nimi-su
 
 "sina" can disappear before the **particle** "o".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina o lukin. → o lukin! | jan Ali o wawa. → jan Ali o wawa! |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You should look.* → *Look!* | *Ali should be strong.* → *Ali, be strong!* |
+| sina o lukin. → o lukin! | jan Ali o wawa. → jan Ali o wawa! |
+|:-|:-|
+| *You should look.* → *Look!* | *Ali should be strong.* → *Ali, be strong!* |
 
 
 "kute" can disappear after the **particle** "o". **Sonja** doesn't combine two "o"-**particles**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | o kute! → o! | jan Ali o, o wawa! → jan Ali o wawa! |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Listen!* → *Hey!* | *Hey Ali, be strong!* |
+| o kute! → o! | jan Ali o, o wawa! → jan Ali o wawa! |
+|:-|:-|
+| *Listen!* → *Hey!* | *Hey Ali, be strong!* |
 
 
 #### nimi lili "o" nasa
 *(Strangaj Volativo, Vokativo kaj Imperativo — Strange Volative, Vocative and Imperative)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ni o kama: sina lape pona. → o sina lape pona. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *May you sleep well.* |
+| ni o kama: sina lape pona. → o sina lape pona. |
+|:-|
+| *May you sleep well.* |
 
 
 ### nimi lili "pi"
@@ -257,9 +257,9 @@ When the [preposition](#nimi-suli-poka-luka) "kepeken" becomes a [verb](#nimi-su
 
 If a genitive phrase (i.e. the words after the **particle** "pi") consists of only one [noun](#nimi-suli-lawa), the **particle** "pi" disappears. So, that [noun](#nimi-suli-lawa) becomes a [modifier](#nimi-suli-poka).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | toki pi pona → toki pona |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *a language of good* → *a good language* |
+| toki pi pona → toki pona |
+|:-|
+| *a language of good* → *a good language* |
 
 
 #### nimi lili "pi" musi
@@ -267,9 +267,9 @@ If a genitive phrase (i.e. the words after the **particle** "pi") consists of on
 
 A genitive phrase (i.e. words after a **particle** "pi") can have another genitive phrase.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tomo pi telo nasa pi ma ante | tomo pi telo nasa, pi ma ante |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *house of foreign beer* | *foreign bar* |
+| tomo pi telo nasa pi ma ante | tomo pi telo nasa, pi ma ante |
+|:-|:-|
+| *house of foreign beer* | *foreign bar* |
 
 
 #### nimi lili "pi" nasa
@@ -277,30 +277,30 @@ A genitive phrase (i.e. words after a **particle** "pi") can have another geniti
 
 **Pije** turns the [particle "pi"](#nimi-lili-pi) with a [pronoun](#nimi-suli-lawa-esun) into a [verb](#nimi-suli-wawa).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ni li ijo mi. → ni li pi mi. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *This belongs to me.* → *This is mine.* |
+| ni li ijo mi. → ni li pi mi. |
+|:-|
+| *This belongs to me.* → *This is mine.* |
 
 
 **Pije** turns the [particle "e"](#nimi-lili-e) into the [particle "pi"](#nimi-lili-pi) before a noun, which means a direction.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina lukin e sewi. → sina lukin sewi. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You look up.* |
+| sina lukin e sewi. → sina lukin sewi. |
+|:-|
+| *You look up.* |
 
 
 The [particle "e"](#nimi-lili-e) can become the [particle "pi"](#nimi-lili-pi).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi ante e toki pi sitelen tawa. → mi ante toki e sitelen tawa. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I translate the movie.* |
+| mi ante e toki pi sitelen tawa. → mi ante toki e sitelen tawa. |
+|:-|
+| *I translate the movie.* |
 
 
 The [particle "pi"](#nimi-lili-pi) can disappear.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tomo pi telo nasa → tomo telo nasa | tomo telo nasa |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *bar* | *strange bathroom* |
+| tomo pi telo nasa → tomo telo nasa | tomo telo nasa |
+|:-|:-|
+| *bar* | *strange bathroom* |
 
 
 ### nimi lili "en"
@@ -316,9 +316,9 @@ The [particle "pi"](#nimi-lili-pi) can disappear.
 
 The **particle** "en" can only come in the subject (i.e. the words before the **particle** "li").
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | toki sina en pali sina li sama. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *What you say and what you do are the same.* |
+| toki sina en pali sina li sama. |
+|:-|
+| *What you say and what you do are the same.* |
 
 
 #### nimi lili "en" nasa
@@ -326,16 +326,16 @@ The **particle** "en" can only come in the subject (i.e. the words before the **
 
 A **comma** can become a strange **conjunction** "en".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tomo pi telo nasa, pi ma ante → tomo pi telo nasa en pi ma ante |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *foreign bar* |
+| tomo pi telo nasa, pi ma ante → tomo pi telo nasa en pi ma ante |
+|:-|
+| *foreign bar* |
 
 
 Every subject (i.e. the words before the [particle "li"](#nimi-lili-li) has a strange **particle** "en".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | en sina en mi li jan lili. | en ona li jan lili. |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Both you and I are children.* | *She is a child.* |
+| en sina en mi li jan lili. | en ona li jan lili. |
+|:-|:-|
+| *Both you and I are children.* | *She is a child.* |
 
 
 ### nimi lili "anu"
@@ -348,9 +348,9 @@ Every subject (i.e. the words before the [particle "li"](#nimi-lili-li) has a st
 
 By means of "anu seme" one can express a yes-no-question. In this case "seme" is a [verb](#nimi-suli-wawa).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li mama anu seme? |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Is she a parent?* |
+| ona li mama anu seme? |
+|:-|
+| *Is she a parent?* |
 
 
 #### nimi lili "anu" namako
@@ -358,9 +358,9 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 
 In front of words and after the same words negated, the **particle** "anu" disappears.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li mama ala anu mama? → ona li mama ala mama? |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Is she a parent?* |
+| ona li mama ala anu mama? → ona li mama ala mama? |
+|:-|
+| *Is she a parent?* |
 
 
 #### nimi lili "anu" nasa
@@ -368,9 +368,9 @@ In front of words and after the same words negated, the **particle** "anu" disap
 
 According to **Pije**, sentences with "anu seme" have to conotation of "or what".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li mama anu seme? |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Is she a parent or what?* |
+| ona li mama anu seme? |
+|:-|
+| *Is she a parent or what?* |
 
 
 ### nimi lili "la"
@@ -382,23 +382,23 @@ According to **Pije**, sentences with "anu seme" have to conotation of "or what"
 
 By means of the **particle "la"**, a [preposition](#nimi-suli-poka-luka) can be at the beginning of a [sentence](#mute-nimi).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina pana e nimi "pona" tawa mi tan seme? → tan seme la sina pana e nimi "pona" tawa mi? |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Why are you calling me good?* |
+| sina pana e nimi "pona" tawa mi tan seme? → tan seme la sina pana e nimi "pona" tawa mi? |
+|:-|
+| *Why are you calling me good?* |
 
 
 At the beginning of a [sentence](#mute-nimi), the [preposition](#nimi-suli-poka-luka) "lon" disappears.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li kama lon tenpo pimeja ni. → tenpo pimeja ni la ona li kama. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She is coming tonight.* → *Tonight, she is coming.* |
+| ona li kama lon tenpo pimeja ni. → tenpo pimeja ni la ona li kama. |
+|:-|
+| *She is coming tonight.* → *Tonight, she is coming.* |
 
 
 If "ni" at the beginning of a [sentence](#mute-nimi) accompanies a [subordinate clause](#mute-nimi-suli-poka), "ni" disappears.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan li pona tawa mi lon ni: mi pona tawa jan. → mi pona tawa jan, la jan li pona tawa mi. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
+| jan li pona tawa mi lon ni: mi pona tawa jan. → mi pona tawa jan, la jan li pona tawa mi. |
+|:-|
+| *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
 
 #### nimi lili "la" nasa
@@ -406,9 +406,9 @@ If "ni" at the beginning of a [sentence](#mute-nimi) accompanies a [subordinate 
 
 **Pije** doesn't use [prepositions](#nimi-suli-poka-luka) at the beginning of a [sentence](#mute-nimi). But he uses [strange prepositions](#nimi-suli-poka-luka-nasa) instead.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina pu tan jan seme? → tan pi jan seme la sina pu? |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Because of whom do you interact with the Toki Pona book?* |
+| sina pu tan jan seme? → tan pi jan seme la sina pu? |
+|:-|
+| *Because of whom do you interact with the Toki Pona book?* |
 
 
 # nimi suli
@@ -437,9 +437,9 @@ If "ni" at the beginning of a [sentence](#mute-nimi) accompanies a [subordinate 
 
 **Nouns** can imply food.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | moku | pan | soweli |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *mouthful, food* | *seed, bread* | *mammal, meat* |
+| moku | pan | soweli |
+|:-|:-|:-|
+| *mouthful, food* | *seed, bread* | *mammal, meat* |
 
 
 ### nimi suli lawa pona
@@ -449,9 +449,9 @@ If "ni" at the beginning of a [sentence](#mute-nimi) accompanies a [subordinate 
 |:-:|
 | [nimi suli lawa pona musi](#nimi-suli-lawa-pona-musi) |
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ijo | jan |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *something, a thing* | *somebody, a person* |
+| ijo | jan |
+|:-|:-|
+| *something, a thing* | *somebody, a person* |
 
 
 ### nimi suli lawa pona musi
@@ -470,79 +470,79 @@ If "ni" at the beginning of a [sentence](#mute-nimi) accompanies a [subordinate 
 
 If a **noun** is a **thing noun**, it implies the word "ijo".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ale | sike |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *whole, something whole, universe* | *round, something round, circle/globe* |
+| ale | sike |
+|:-|:-|
+| *whole, something whole, universe* | *round, something round, circle/globe* |
 
 
 #### nimi suli lawa ijo musi
 *(Eksperimentaj Aĵaj Substantivoj — Experimental Thing Nouns)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sike | wan |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *complete, fulfilment* | *unique, part* |
+| sike | wan |
+|:-|:-|
+| *complete, fulfilment* | *unique, part* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mani | ilo | pakala |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *domesticated/mined/valuable, resource/money* | *useful/functioning, tool* | *damaged/wounded, damage/wound* |
+| mani | ilo | pakala |
+|:-|:-|:-|
+| *domesticated/mined/valuable, resource/money* | *useful/functioning, tool* | *damaged/wounded, damage/wound* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | kili | pan |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *hanging, fruit* | *falling, seed* |
+| kili | pan |
+|:-|:-|
+| *hanging, fruit* | *falling, seed* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | kiwen | ko | kon | telo |
-|:-:|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *hard, stone* | *semi-solid, dough/powder* | *hovering, air* | *liquid/wet, water* |
+| kiwen | ko | kon | telo |
+|:-|:-|:-|:-|
+| *hard, stone* | *semi-solid, dough/powder* | *hovering, air* | *liquid/wet, water* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | kulupu | sijelo |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *interactive/reciprocal/common, company/group/community/society/tribe* | *living/healthy, body/health* |
+| kulupu | sijelo |
+|:-|:-|
+| *interactive/reciprocal/common, company/group/community/society/tribe* | *living/healthy, body/health* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | lete | seli |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *cold, frost* | *warm, fire* |
+| lete | seli |
+|:-|:-|
+| *cold, frost* | *warm, fire* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | linja | palisa |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *long and flexible, hair* | *long and hard, finger* |
+| linja | palisa |
+|:-|:-|
+| *long and flexible, hair* | *long and hard, finger* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | lipu | nena | sike |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *flat, leaf/document* | *outstanding, bump/mountain* | *round, circle/globe* |
+| lipu | nena | sike |
+|:-|:-|:-|
+| *flat, leaf/document* | *outstanding, bump/mountain* | *round, circle/globe* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | pimeja | suno |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *dark, shadow* | *bright, light* |
+| pimeja | suno |
+|:-|:-|
+| *dark, shadow* | *bright, light* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sin |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *retro* → *additional/another/extra* → *new/fresh* |
+| sin |
+|:-|
+| *retro* → *additional/another/extra* → *new/fresh* |
 
 
 Two same words have the meaning of the [modifier](#nimi-suli-poka) "a".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li kiwen kiwen. → ona li kiwen kiwen! | sina suli suli! |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *It's a hard stone.* → *It's really hard!* | *You are really tall!* |
+| ona li kiwen kiwen. → ona li kiwen kiwen! | sina suli suli! |
+|:-|:-|
+| *It's a hard stone.* → *It's really hard!* | *You are really tall!* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ma | mun |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *vast, something vast, space/earth* | *skywalking, something skywalking, star/moon* |
+| ma | mun |
+|:-|:-|
+| *vast, something vast, space/earth* | *skywalking, something skywalking, star/moon* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | lupa | nasin |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *thick/extended/hollow, hole* | *thin/elongated/cracked, way/line/solution* |
+| lupa | nasin |
+|:-|:-|
+| *thick/extended/hollow, hole* | *thin/elongated/cracked, way/line/solution* |
 
 
 #### nimi suli lawa ijo nasa
@@ -550,9 +550,9 @@ Two same words have the meaning of the [modifier](#nimi-suli-poka) "a".
 
 The [modifiers](#nimi-suli-poka) (or [prepositions](#nimi-suli-poka-luka)) "ante" and "sama" can become **thing nouns**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ijo ante → ante | ijo sama → sama |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *something different* | *something similar* |
+| ijo ante → ante | ijo sama → sama |
+|:-|:-|
+| *something different* | *something similar* |
 
 ### nimi suli lawa nasin
 *(Direktaj Substantivoj — Direction Nouns)*
@@ -566,61 +566,61 @@ The [modifiers](#nimi-suli-poka) (or [prepositions](#nimi-suli-poka-luka)) "ante
 
 "ijo" can mean a place. Therefore, **thing nouns** can imply a place.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | anpa | sewi | noka |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *inferior, inferior area/depth* | *superior, superior area/height/sky* | *lower, lower area/base* |
+| anpa | sewi | noka |
+|:-|:-|:-|
+| *inferior, inferior area/depth* | *superior, superior area/height/sky* | *lower, lower area/base* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | poka | monsi | sinpin |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *adjacent, adjacent area/side/hip* | *rear, rear area/back* | *frontal, area in front/front* |
+| poka | monsi | sinpin |
+|:-|:-|:-|
+| *adjacent, adjacent area/side/hip* | *rear, rear area/back* | *frontal, area in front/front* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | weka | insa | poka |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *remote, remote area/distance* | *inner, inner area/center* | *neighboring, neighboring area/vicinity* |
+| weka | insa | poka |
+|:-|:-|:-|
+| *remote, remote area/distance* | *inner, inner area/center* | *neighboring, neighboring area/vicinity* |
 
 
 #### nimi suli lawa nasin musi
 *(Eksperimentaj Direktaj Substantivoj — Experimental Direction Nouns)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | lawa |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *upper, upper area, top* |
+| lawa |
+|:-|
+| *upper, upper area, top* |
 
 
 When a [verb](#nimi-suli-wawa) becomes a **noun**, it can mean the place of its accomplishment.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi tawa ijo: jan li esun. → mi tawa esun. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm going to an exchange. I'm going to the market.* |
+| mi tawa ijo: jan li esun. → mi tawa esun. |
+|:-|
+| *I'm going to an exchange. I'm going to the market.* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi lon lape. | sina tan lape. | ona li tawa lape. |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am resting.* | *You have been resting.* | *She is going to rest.* |
+| mi lon lape. | sina tan lape. | ona li tawa lape. |
+|:-|:-|:-|
+| *I am resting.* | *You have been resting.* | *She is going to rest.* |
 
 
 The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **direction nouns**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | lon awen pi | lon kama pi | lon pini pi |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *during* | *before* | *after* |
+| lon awen pi | lon kama pi | lon pini pi |
+|:-|:-|:-|
+| *during* | *before* | *after* |
 
 
 #### nimi suli lawa nasin namako
 *(Aldonaj Direktaj Substantivoj — Additional Direction Nouns)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | lawa → sewi |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *upper, upper area, top* |
+| lawa → sewi |
+|:-|
+| *upper, upper area, top* |
 
 
 "lon awen pi", "lon kama pi", "lon pini pi" can become "lon".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | lon awen pi tenpo lili → lon tenpo lili | lon kama pi tenpo lili → lon tenpo lili | lon pini pi tenpo lili → lon tenpo lili |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *shortly/quickly* | *provisionally* | *soon* |
+| lon awen pi tenpo lili → lon tenpo lili | lon kama pi tenpo lili → lon tenpo lili | lon pini pi tenpo lili → lon tenpo lili |
+|:-|:-|:-|
+| *shortly/quickly* | *provisionally* | *soon* |
 
 
 ### nimi suli lawa sijelo
@@ -636,14 +636,14 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 
 From a grammatical point of view, life-forms are things.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | akesi | soweli |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *cold-blooded, reptile/amphibian* | *warm-blooded, mammal* |
+| akesi | soweli |
+|:-|:-|
+| *cold-blooded, reptile/amphibian* | *warm-blooded, mammal* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | kala | kasi | pipi | waso |
-|:-:|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *swimming, fish* | *vegetating, plant* | *crawling, insect* | *flying, bird* |
+| kala | kasi | pipi | waso |
+|:-|:-|:-|:-|
+| *swimming, fish* | *vegetating, plant* | *crawling, insect* | *flying, bird* |
 
 
 ### nimi suli lawa jan
@@ -655,17 +655,17 @@ From a grammatical point of view, life-forms are things.
 
 If a **noun** is a **person noun**, it implies "jan".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | meli | mije |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *female, somebody female, woman* | *male, somebody male, man* |
+| meli | mije |
+|:-|:-|
+| *female, somebody female, woman* | *male, somebody male, man* |
 
 
 #### nimi suli lawa jan musi
 *(Eksperimentaj Ulaj Vortoj — Experimental Person Words)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mama |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *source/original/ancient, parent* |
+| mama |
+|:-|
+| *source/original/ancient, parent* |
 
 
 ### nimi suli lawa ilo
@@ -677,27 +677,27 @@ If a **noun** is a **person noun**, it implies "jan".
 
 If a **noun** is a **tool noun**, it implies "ilo". From a grammatical point of view, organs are tools.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | kute | lawa | lukin | pilin | uta |
-|:-:|:-|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to hear, ear* | *to control, head* | *to see, eye* | *to feel, heart* | *to suck, mouth* |
+| kute | lawa | lukin | pilin | uta |
+|:-|:-|:-|:-|:-|
+| *to hear, ear* | *to control, head* | *to see, eye* | *to feel, heart* | *to suck, mouth* |
 
 
 #### nimi suli lawa ilo musi
 *(Eksperimentaj Ilaj Substantivoj — Experimental Tool Nouns)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | luka | noka | palisa | selo |
-|:-:|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to touch, hand/arm* | *to step/to kick, foot/leg* | *to aim/point, finger* | *to form, form/skin/shell/boundary* |
+| luka | noka | palisa | selo |
+|:-|:-|:-|:-|
+| *to touch, hand/arm* | *to step/to kick, foot/leg* | *to aim/point, finger* | *to form, form/skin/shell/boundary* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | len | supa |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to cover, cloth* | *to compensate/bridge/connect, bridge* |
+| len | supa |
+|:-|:-|
+| *to cover, cloth* | *to compensate/bridge/connect, bridge* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | poki | tomo |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to keep/to be full of, container/bladder* | *to shield, room/house* |
+| poki | tomo |
+|:-|:-|
+| *to keep/to be full of, container/bladder* | *to shield, room/house* |
 
 
 ### nimi suli lawa pali
@@ -712,25 +712,25 @@ nimi suli lawa pali li kama nimi suli wawa luka, la ona li jo e kon pi nimi "pal
 
 If a **noun** is an **action noun**, it implies "e ijo" when it becomes a [transitive verb](#nimi-suli-wawa-luka).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | moku | sitelen | sona | toki |
-|:-:|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to swallow, mouthful* | *to draw, picture* | *to know, knowledge* | *to say, language* |
+| moku | sitelen | sona | toki |
+|:-|:-|:-|:-|
+| *to swallow, mouthful* | *to draw, picture* | *to know, knowledge* | *to say, language* |
 
 
 #### nimi suli lawa pali musi
 *(Eksperimentaj Agaj Substantivoj — Experimental Action Nouns)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | nanpa | nimi |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to count, number* | *to name, word* |
+| nanpa | nimi |
+|:-|:-|
+| *to count, number* | *to name, word* |
 
 
 ### nimi suli lawa esun
 *(Pronomoj — Pronouns)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi | sina | ona |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I, we* | *you* | *she, he, it, they* |
+| mi | sina | ona |
+|:-|:-|:-|
+| *I, we* | *you* | *she, he, it, they* |
 
 
 ## nimi suli wawa
@@ -755,28 +755,28 @@ If a **verb** has a direct object (i.e. words after a [particle "e"](#nimi-lili-
 |:-:|
 | [nimi suli wawa pona namako](#nimi-suli-wawa-pona-namako) |
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | alasa | pali |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to hunt* | *to do/work on* |
+| alasa | pali |
+|:-|:-|
+| *to hunt* | *to do/work on* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | jo | pana |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to have* | *to give* |
+| jo | pana |
+|:-|:-|
+| *to have* | *to give* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | olin | unpa |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to love* | *to have sexual or marital relations with* |
+| olin | unpa |
+|:-|:-|
+| *to love* | *to have sexual or marital relations with* |
 
 
 
 #### nimi suli wawa pona namako
 *(Aldonaj Simplaj Verboj — Additional Simple Verbs)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | kama e → pali e | open e → pali e |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *to build/make* | *to prepare* |
+| kama e → pali e | open e → pali e |
+|:-|:-|
+| *to build/make* | *to prepare* |
 
 
 ### nimi suli wawa poka
@@ -787,36 +787,36 @@ If a **verb** has a direct object (i.e. words after a [particle "e"](#nimi-lili-
 | [nimi suli wawa poka musi](#nimi-suli-wawa-poka-musi) |
 | [nimi suli wawa poka nasa](#nimi-suli-wawa-poka-nasa) |
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | awen | kama |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *enduring, to keep -ing* | *becoming, to start -ing* |
+| awen | kama |
+|:-|:-|
+| *enduring, to keep -ing* | *becoming, to start -ing* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ken | lukin | sona | wile |
-|:-:|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *possible, can* | *minding, to try to* | *knowing, to know how to* | *needing, must/want* |
+| ken | lukin | sona | wile |
+|:-|:-|:-|:-|
+| *possible, can* | *minding, to try to* | *knowing, to know how to* | *needing, must/want* |
 
 
 After the **auxiliary verbs** "awen" and "kama", "lon" can disappear.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | awen lon → awen | kama lon → kama |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *staying, to keep on -ing* | *appearing/coming, to succeed in -ing* |
+| awen lon → awen | kama lon → kama |
+|:-|:-|
+| *staying, to keep on -ing* | *appearing/coming, to succeed in -ing* |
 
 
 If a **verb** is an **auxiliary verb**, it implies a **transitive verb** before a [subordinate clause](#mute-nimi-suli-poka), which receives the main **verb** from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [particle "li"](#nimi-lili-li)) is the same.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She needs, that she is home.* → *She has to be home.* |
+| ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
+|:-|
+| *She needs, that she is home.* → *She has to be home.* |
 
 
 #### nimi suli wawa poka musi
 *(Eksperimentaj Helpaj Verboj — Experimental Auxiliary Verbs)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | open | pini | pini lon → pini |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *open/turned on/ready, to be ready to* | *past, to stop -ing* | *finished, to finish -ing* |
+| open | pini | pini lon → pini |
+|:-|:-|:-|
+| *open/turned on/ready, to be ready to* | *past, to stop -ing* | *finished, to finish -ing* |
 
 
 #### nimi suli wawa poka nasa
@@ -824,30 +824,30 @@ If a **verb** is an **auxiliary verb**, it implies a **transitive verb** before 
 
 "pana" can become an **auxiliary verb**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi pana e sona pi toki pona. → mi pana sona e toki pona. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I teach Toki Pona.* |
+| mi pana e sona pi toki pona. → mi pana sona e toki pona. |
+|:-|
+| *I teach Toki Pona.* |
 
 
 Every **transitive verb** can become an **auxiliary verb**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi olin e ni: mi kama sona e jan pona sina. → mi olin kama sona e jan pona sina. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I love to get to know your friend.* |
+| mi olin e ni: mi kama sona e jan pona sina. → mi olin kama sona e jan pona sina. |
+|:-|
+| *I love to get to know your friend.* |
 
 
 The **auxiliary verb** "kama" and the [content word](#nimi-suli) "pini" can disappear.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li kama lape lon pini pi tenpo lili. → ona li lape lon tenpo lili. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She will sleep after a short period of time. She will sleep soon. She falls asleep quickly.* |
+| ona li kama lape lon pini pi tenpo lili. → ona li lape lon tenpo lili. |
+|:-|
+| *She will sleep after a short period of time. She will sleep soon. She falls asleep quickly.* |
 
 
 The [prepositions](#nimi-suli-poka-luka) "lon", "tan", "tawa" can become **auxiliary verbs**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi lon moku e kili. | sina tan moku e kili. | ona li tawa moku e kili. |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am eating an apple.* | *You have been eating an apple.* | *She is going to eat an apple.* |
+| mi lon moku e kili. | sina tan moku e kili. | ona li tawa moku e kili. |
+|:-|:-|:-|
+| *I am eating an apple.* | *You have been eating an apple.* | *She is going to eat an apple.* |
 
 
 ## nimi suli poka
@@ -867,56 +867,56 @@ The [prepositions](#nimi-suli-poka-luka) "lon", "tan", "tawa" can become **auxil
 |:-:|
 | [nimi suli poka pona musi](#nimi-suli-poka-pona-musi) |
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | jelo | kule | laso | loje | pimeja | walo |
-|:-:|:-|:-|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *yellow* | *pigmented* | *blue/green* | *red* | *black* | *white/pale* |
+| jelo | kule | laso | loje | pimeja | walo |
+|:-|:-|:-|:-|:-|:-|
+| *yellow* | *pigmented* | *blue/green* | *red* | *black* | *white/pale* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | kalama | kule |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *sounding* | *colorful* |
+| kalama | kule |
+|:-|:-|
+| *sounding* | *colorful* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | lape| moli | musi |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *resting* | *dead* | *playing* |
+| lape| moli | musi |
+|:-|:-|:-|
+| *resting* | *dead* | *playing* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | lili | mute | suli | wawa |
-|:-:|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *few, small, weak* | *many* | *big* | *strong* |
+| lili | mute | suli | wawa |
+|:-|:-|:-|:-|
+| *few, small, weak* | *many* | *big* | *strong* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | pona | ike | nasa | utala |
-|:-:|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *good, simple, peaceful* | *bad* | *strange/crazy/intoxicated* | *fighting* |
+| pona | ike | nasa | utala |
+|:-|:-|:-|:-|
+| *good, simple, peaceful* | *bad* | *strange/crazy/intoxicated* | *fighting* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | wan |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *unique* |
+| wan |
+|:-|
+| *unique* |
 
 
 If a [content word](#nimi-suli) becomes another word and doesn't recieve an additional meaning, it is a **simple modifier**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi wawa. | telo li wawa e mi. | wawa li lon insa. |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am strong.* | *Water strengthens me.* | *Strength lies within.* |
+| mi wawa. | telo li wawa e mi. | wawa li lon insa. |
+|:-|:-|:-|
+| *I am strong.* | *Water strengthens me.* | *Strength lies within.* |
 
 
 #### nimi suli poka pona musi
 *(Eksperimentaj Simplaj Modifiloj — Experimental Simple Modifier)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala | kule | selo | tu |
-|:-:|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *false* | *brown* | *closed* | *redundant* |
+| ala | kule | selo | tu |
+|:-|:-|:-|:-|
+| *false* | *brown* | *closed* | *redundant* |
 
 
 "tenpo lili/suli" can become "lili/suli".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan pi tenpo lili → jan lili | jan pi tenpo suli → jan suli |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *youngling* | *adult* |
+| jan pi tenpo lili → jan lili | jan pi tenpo suli → jan suli |
+|:-|:-|
+| *youngling* | *adult* |
 
 
 ### nimi suli poka palisa
@@ -928,42 +928,42 @@ If a [content word](#nimi-suli) becomes another word and doesn't recieve an addi
 | [nimi suli poka palisa namako](#nimi-suli-poka-palisa-namako) |
 | [nimi suli poka palisa nasa](#nimi-suli-poka-palisa-nasa) |
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala | ale | ni | seme |
-|:-:|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *no, no thing, nothing* | *every, every thing, everything* | *this/that, this/that thing* | *which, which thing, what* |
+| ala | ale | ni | seme |
+|:-|:-|:-|:-|
+| *no, no thing, nothing* | *every, every thing, everything* | *this/that, this/that thing* | *which, which thing, what* |
 
 
 In a genitive clause (i.e. the words behind the **particle** "pi"), "ijo" before a **correlative** can reappear, but "pi ijo ni" becomes "ni".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mama pi ijo ale | mama ale | jan pi ijo ni → jan ni |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *parent of everything* | *every parent* | *the person there* → *that person* |
+| mama pi ijo ale | mama ale | jan pi ijo ni → jan ni |
+|:-|:-|:-|
+| *parent of everything* | *every parent* | *the person there* → *that person* |
 
 
 #### nimi suli poka palisa musi
 *(Eksperimentaj Korelativoj — Experimental Correlatives)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | wan |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *a certain, something certain* |
+| wan |
+|:-|
+| *a certain, something certain* |
 
 
 A **subordinate clause** can be like a **correlative**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tomo ni: jan ala li uta e kon wawa |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *this non smoking compartment* |
+| tomo ni: jan ala li uta e kon wawa |
+|:-|
+| *this non smoking compartment* |
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | suno pi mute ni: mi ken ala lape |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *so much light, that I can't sleep* |
+| suno pi mute ni: mi ken ala lape |
+|:-|
+| *so much light, that I can't sleep* |
 
 
 In a **relative clause** (i.e. a **subordinate clause** with "ona ni"), "ona ni li" and "e ona ni" can disappear.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi lukin e nena ni: (ona ni li) suli mute. | nena ni: mi lukin (e ona ni), li suli. |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm seeing the mountain, that is big.* | *The mountain, that I'm seeing, is big.* |
+| mi lukin e nena ni: (ona ni li) suli mute. | nena ni: mi lukin (e ona ni), li suli. |
+|:-|:-|
+| *I'm seeing the mountain, that is big.* | *The mountain, that I'm seeing, is big.* |
 
 
 #### nimi suli poka palisa namako
@@ -977,9 +977,9 @@ Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 
 The beginning of a [subordinate clause](#mute-nimi-suli-poka) can disappear. Therefore, [auxiliary verbs](#nimi-suli-wawa-poka) and [prepositions](#nimi-suli-poka-luka) can become [nouns](#nimi-suli-lawa).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan pi ona li tawa tomo | jan pi li tawa tomo | jan pi tawa tomo |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *somebody, who is going home* | *home-coming person* | *home-comer* |
+| jan pi ona li tawa tomo | jan pi li tawa tomo | jan pi tawa tomo |
+|:-|:-|:-|
+| *somebody, who is going home* | *home-coming person* | *home-comer* |
 
 
 ### nimi suli poka nanpa
@@ -990,51 +990,51 @@ The beginning of a [subordinate clause](#mute-nimi-suli-poka) can disappear. The
 | [nimi suli poka nanpa musi](#nimi-suli-poka-nanpa-musi) |
 | [nimi suli poka nanpa namako](#nimi-suli-poka-nanpa-namako) |
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ala | ale | luka | mute | tu | wan |
-|:-:|:-|:-|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *zero* | *senfine* | *five* | *three* | *two* | *one* |
+| ala | ale | luka | mute | tu | wan |
+|:-|:-|:-|:-|:-|:-|
+| *zero* | *senfine* | *five* | *three* | *two* | *one* |
 
 
 #### nimi suli poka nanpa musi
 *(Eksperimentaj Numeraloj — Experimental Numerals)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | esun |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *seven* |
+| esun |
+|:-|
+| *seven* |
 
 
 A [numeral](#nimi-suli-poka-nanpa) can become a [noun](#nimi-suli-lawa).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | wan ona li loje. wan ante li jelo. | mute nimi | nimi mute | ale pi nimi mute |
-|:-:|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *One is red. The other one is yellow.* | *set of words, sentence* | *many words* | *dictionary* |
+| wan ona li loje. wan ante li jelo. | mute nimi | nimi mute | ale pi nimi mute |
+|:-|:-|:-|:-|
+| *One is red. The other one is yellow.* | *set of words, sentence* | *many words* | *dictionary* |
 
 
 The [conjunction "en"](#nimi-lili-en) can be with two [numerals](#nimi-suli-poka-nanpa).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sike esun tu | tenpo suno luka tu en tu tu |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *two weeks* | *fourteen days* |
+| sike esun tu | tenpo suno luka tu en tu tu |
+|:-|:-|
+| *two weeks* | *fourteen days* |
 
 
 By means of a numeral of a small quantity and a numeral of a big quantity one can express a quantity between zero and one.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi pana e wan wan pi tu tu tawa sina. | mi pana e wan mute pi tu tu tawa sina. |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I give you one quarter.* | *I give you three quarters.* |
+| mi pana e wan wan pi tu tu tawa sina. | mi pana e wan mute pi tu tu tawa sina. |
+|:-|:-|
+| *I give you one quarter.* | *I give you three quarters.* |
 
 The opposite of "nanpa wan" is "nanpa ale".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina nanpa wan. | sina nanpa ale. |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You're the first.* | *You're the last.* |
+| sina nanpa wan. | sina nanpa ale. |
+|:-|:-|
+| *You're the first.* | *You're the last.* |
 
 
 In a row, the one whose turn it's going to be is "nanpa kama", the one whose turn it is is "nanpa awen" and the one whose turn it has been is "nanpa pini".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina nanpa kama. | sina nanpa awen. | sina nanpa pini. |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *It's going to be your turn.* | *It's your turn.* | *It's been your turn.* |
+| sina nanpa kama. | sina nanpa awen. | sina nanpa pini. |
+|:-|:-|:-|
+| *It's going to be your turn.* | *It's your turn.* | *It's been your turn.* |
 
 
 #### nimi suli poka nanpa namako
@@ -1042,17 +1042,17 @@ In a row, the one whose turn it's going to be is "nanpa kama", the one whose tur
 
 The meanings of the **numeral** "mute" and of the [simple modifier](#nimi-suli-poka-pona) "mute" can be one.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mute |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *three, many* → *three (or more)* |
+| mute |
+|:-|
+| *three, many* → *three (or more)* |
 
 
 <img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli poka nanpa](#nimi-suli-poka-nanpa) tu la **sitelen pi ijo tu** li ken kama weka.  
 <img src="musi/sitelen/len-ma/en.jpeg" height="18"> With two [numerals](#nimi-suli-poka-nanpa), the **comma** can disappear.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | palisa luka, tu → palisa luka tu |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *seven fingers* |
+| palisa luka, tu → palisa luka tu |
+|:-|
+| *seven fingers* |
 
 
 ### nimi suli poka luka
@@ -1064,23 +1064,23 @@ The meanings of the **numeral** "mute" and of the [simple modifier](#nimi-suli-p
 
 When a **content word** has a **particle** (or a **modifier**), **prepositions** can be only after them.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi pana e kili tawa sina. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm giving you the apple.* |
+| mi pana e kili tawa sina. |
+|:-|
+| *I'm giving you the apple.* |
 
 
 If a [verb](#nimi-suli-wawa) and a **preposition** estas the same, the **preposition** disappears. There can be an [interjection](#nimi-lili-kalama) between the [verb](#nimi-suli-wawa) and the [preposition](#nimi-suli-poka-luka).
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi tawa tawa tomo seli. → mi tawa tomo seli. | mi tawa ala tawa tomo seli. → mi tawa ala tomo seli. |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm going to the kitchen.* | *I'm not going to the kitchen.* |
+| mi tawa tawa tomo seli. → mi tawa tomo seli. | mi tawa ala tawa tomo seli. → mi tawa ala tomo seli. |
+|:-|:-|
+| *I'm going to the kitchen.* | *I'm not going to the kitchen.* |
 
 
 **Sonja** uses **prepositions** only with [verbs](#nimi-suli-wawa). In this case, one can remove the **comma** between two **prepositions**. In addition, **Sonja** uses **modifiers** (or the **particle** "[pi](#nimi-lili-pi)") instead of **prepositions**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan lon poka → jan poka | pona tawa lukin → pona lukin |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *neighbor* | *beautiful* |
+| jan lon poka → jan poka | pona tawa lukin → pona lukin |
+|:-|:-|
+| *neighbor* | *beautiful* |
 
 
 #### nimi suli poka luka musi
@@ -1088,57 +1088,57 @@ If a [verb](#nimi-suli-wawa) and a **preposition** estas the same, the **preposi
 
 ---
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi tawa e ona tawa tomo seli. → mi tawa tomo seli e ona. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm moving it to the kitchen.* |
+| mi tawa e ona tawa tomo seli. → mi tawa tomo seli e ona. |
+|:-|
+| *I'm moving it to the kitchen.* |
 
 ---
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ijo tawa lukin → ijo lukin | 
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *something to see, something to be seen* |
+| ijo tawa lukin → ijo lukin | 
+|:-|
+| *something to see, something to be seen* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | insa lukin | weka lukin |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *visible/being seen* | *invisible/not being seen* |
+| insa lukin | weka lukin |
+|:-|:-|
+| *visible/being seen* | *invisible/not being seen* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | open lukin | selo lukin |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *transparent* | *opaque* |
+| open lukin | selo lukin |
+|:-|:-|
+| *transparent* | *opaque* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | pona lukin | ike lukin |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *worth seeing/beautiful* | *not worth seeing/ugly* |
+| pona lukin | ike lukin |
+|:-|:-|
+| *worth seeing/beautiful* | *not worth seeing/ugly* |
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ante | esun | pu | taso |
-|:-:|:-|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *different from* | *instead of* | *according to, following, depending on* | *independent from* |
+| ante | esun | pu | taso |
+|:-|:-|:-|:-|
+| *different from* | *instead of* | *according to, following, depending on* | *independent from* |
 
 
 "tawa poka (pi)" and "lon poka (pi)" can have the meaning of the [experimental preposition](#nimi-suli-poka-luka-musi) "ante".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan li suli mute, mani li suli lili. → jan li suli mute tawa poka mani. → jan li suli mute lon poka mani. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *People are more important than money.* |
+| jan li suli mute, mani li suli lili. → jan li suli mute tawa poka mani. → jan li suli mute lon poka mani. |
+|:-|
+| *People are more important than money.* |
 
 
 "taso ni la" can become "taso".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | taso ni la mije en meli li pali li pilin pona. → taso mije en meli li pali li pilin pona. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Independent from that, men and women work and are happy.* → *But men and women work and are happy.* |
+| taso ni la mije en meli li pali li pilin pona. → taso mije en meli li pali li pilin pona. |
+|:-|
+| *Independent from that, men and women work and are happy.* → *But men and women work and are happy.* |
 
 
 #### nimi suli poka luka namako
 *(Aldonaj Prepozicioj — Additional Prepositions)*
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | a → lon |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *true* |
+| a → lon |
+|:-|
+| *true* |
 
 
 According to **Sonja**, "taso" is a [particle](#nimi-lili).
@@ -1149,45 +1149,45 @@ According to **Sonja**, "taso" is a [particle](#nimi-lili).
 
 In a contextual phrase (i.e. before the particle "[la](#nimi-lili-la)"), [prepositions](#nimi-suli-poka-luka) can disappear.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tawa mi la sina jan pona. → mi la sina jan pona. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *From my point of view, you are a good person.* |
+| tawa mi la sina jan pona. → mi la sina jan pona. |
+|:-|
+| *From my point of view, you are a good person.* |
 
 
 **Pije** removes the [preposition](#nimi-suli-poka-luka) "tawa" before "lukin".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina tawa lukin sama waso. → sina lukin sama waso. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You look like a bird.* |
+| sina tawa lukin sama waso. → sina lukin sama waso. |
+|:-|
+| *You look like a bird.* |
 
 
 Before "pilin", "ike tan" can disappear.
   
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina pilin ike tan utala. → sina pilin utala. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You are empathizing badly because of struggle.* → *You are angry.* |
+| sina pilin ike tan utala. → sina pilin utala. |
+|:-|
+| *You are empathizing badly because of struggle.* → *You are angry.* |
 
 
 "lon ... (pi)" can become a [preposition](#nimi-suli-poka-luka).
 
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi tawa lon poka sina. → mi tawa poka sina. | mi tawa poka sina. |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I'm going with you.* | *I'm getting closer to you.* |
+| mi tawa lon poka sina. → mi tawa poka sina. | mi tawa poka sina. |
+|:-|:-|
+| *I'm going with you.* | *I'm getting closer to you.* |
 
 
 "lon poka (pi)" can disappear.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan li suli mute lon poka mani. → jan li suli mute mani. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *People are more important than money.* |
+| jan li suli mute lon poka mani. → jan li suli mute mani. |
+|:-|
+| *People are more important than money.* |
 
 
 When a [preposition](#nimi-suli-poka-luka) becomes a [noun](#nimi-suli-lawa), its meaning can become that of the word "ijo" after that [preposition](#nimi-suli-poka-luka). **Pije** uses the [preposition](#nimi-suli-poka-luka) "tan" in this way.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi sona ala e ni: ni li tan seme. → mi sona ala e tan. | ona li tawa e ona sama. → ona li tawa e sama. |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I don't know the reason.* | *It moves itself.* |
+| mi sona ala e ni: ni li tan seme. → mi sona ala e tan. | ona li tawa e ona sama. → ona li tawa e sama. |
+|:-|:-|
+| *I don't know the reason.* | *It moves itself.* |
 
 
 # sitelen pi poka nimi
@@ -1200,9 +1200,9 @@ When a [preposition](#nimi-suli-poka-luka) becomes a [noun](#nimi-suli-lawa), it
 
 **Sonja** uses **subordinate clauses** only at the end of a **sentence**. In this case, the **comma** becomes a **colon**. A question can be a subordinate clause.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi sona e ni: mi anpa. | wile sona nanpa wan li ni: ale li pona anu ike? |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I know that I am low.* | *The question number one is whether the universe is good or evil.* |
+| mi sona e ni: mi anpa. | wile sona nanpa wan li ni: ale li pona anu ike? |
+|:-|:-|
+| *I know that I am low.* | *The question number one is whether the universe is good or evil.* |
 
 
 ## sitelen musi pi poka nimi
@@ -1210,47 +1210,47 @@ When a [preposition](#nimi-suli-poka-luka) becomes a [noun](#nimi-suli-lawa), it
 
 **Commas** remain.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li lili, li lete. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *It is small and cold.* |
+| ona li lili, li lete. |
+|:-|
+| *It is small and cold.* |
 
 
 When the [particle "pi"](#nimi-lili-pi) disappears, it becomes an **hiphen**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | tomo pi tawa, pi sina → tomo-tawa-sina |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *your car* |
+| tomo pi tawa, pi sina → tomo-tawa-sina |
+|:-|
+| *your car* |
 
 When a different word disappears, it becomes an **apostrophe**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | sina li suli. → sina ' suli. | ijo-ale li pona. → '-ale li pona. |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *You're tall.* | *Everything is good.* |
+| sina li suli. → sina ' suli. | ijo-ale li pona. → '-ale li pona. |
+|:-|:-|
+| *You're tall.* | *Everything is good.* |
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li moku e ijo. → ona li moku ''. | ona li ijo-moku. → ona li '-moku. |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *It is eating.* | *It is food.* |
+| ona li moku e ijo. → ona li moku ''. | ona li ijo-moku. → ona li '-moku. |
+|:-|:-|
+| *It is eating.* | *It is food.* |
 
 
 [Prepositions](#nimi-suli-poka-luka) and [auxiliary verbs](#nimi-suli-wawa-poka) have a **plus sign**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ona li pana e lipu tawa+sina. | ona li wile+lape. |
-|:-:|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *She gives the book to you.* | *She needs to sleep.* |
+| ona li pana e lipu tawa+sina. | ona li wile+lape. |
+|:-|:-|
+| *She gives the book to you.* | *She needs to sleep.* |
 
 
 [Quotations](#nimi-lili-pona) can have a **colon**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | jan:Sonja | sina ' nanpa:wan | toki:nanpa:wan |
-|:-:|:-|:-|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Sonja* | *You are number one.* | *the first language* |
+| jan:Sonja | sina ' nanpa:wan | toki:nanpa:wan |
+|:-|:-|:-|
+| *Sonja* | *You are number one.* | *the first language* |
 
 
 When a [noun](#nimi-suli-lawa) disappears, its [modifier](#nimi-suli-poka) can have an **upper-case letter**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | ijo ale li pona. → '-ale li pona. → Ale li pona. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *Everything is good.* |
+| ijo ale li pona. → '-ale li pona. → Ale li pona. |
+|:-|
+| *Everything is good.* |
 
 
 ## sitelen nasa pi poka nimi
@@ -1258,23 +1258,23 @@ When a [noun](#nimi-suli-lawa) disappears, its [modifier](#nimi-suli-poka) can h
 
 **Pije** leaves out the **comma** before the **particle** "[la](#nimi-lili-la)".
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi pona tawa jan, la jan li pona tawa mi. → mi pona tawa jan la jan li pona tawa mi. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *If I'm good to people, people are good to me.* |
+| mi pona tawa jan, la jan li pona tawa mi. → mi pona tawa jan la jan li pona tawa mi. |
+|:-|
+| *If I'm good to people, people are good to me.* |
 
 
 **Pije** never uses a **comma** before "taso". Instead, he uses a **period**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi wile lukin e tomo mi, taso mi jo ala e tenpo. → mi wile lukin e tomo mi. taso mi jo ala e tenpo. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I want to see my house, but I don't have time.* |
+| mi wile lukin e tomo mi, taso mi jo ala e tenpo. → mi wile lukin e tomo mi. taso mi jo ala e tenpo. |
+|:-|
+| *I want to see my house, but I don't have time.* |
 
 
 At the end of a sentence, a [preposition](#nimi-suli-poka-luka) can have a **comma**.
 
-| <img src="musi/sitelen/len-ma/tp.png" height="18"> | mi pana e lipu, tawa sina. |
-|:-:|:-|
-| <img src="musi/sitelen/len-ma/en.jpeg" height="18"> | *I am giving the book to you.* |
+| mi pana e lipu, tawa sina. |
+|:-|
+| *I am giving the book to you.* |
 
 
 # sitelen pona
