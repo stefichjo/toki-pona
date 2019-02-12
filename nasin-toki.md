@@ -1047,8 +1047,7 @@ The meanings of the **numeral** "mute" and of the [simple modifier](#nimi-suli-p
 | *three, many* → *three (or more)* |
 
 
-<img src="musi/sitelen/len-ma/tp.png" height="18"> [nimi suli poka nanpa](#nimi-suli-poka-nanpa) tu la **sitelen pi ijo tu** li ken kama weka.  
-<img src="musi/sitelen/len-ma/en.jpeg" height="18"> With two [numerals](#nimi-suli-poka-nanpa), the **comma** can disappear.
+With two [numerals](#nimi-suli-poka-nanpa), the **comma** can disappear.
 
 | palisa luka, tu → palisa luka tu |
 |:-|
