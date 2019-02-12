@@ -13,21 +13,21 @@ The sections about **"Experimental Language"** treat ways of using the language,
 
 | o luka ala e seli! |
 |:-|
-| *Don't touch the fire!* |
+| *Don't touch the fire!* 🙂 |
 
 
 The sections about **"Additional Language"** treat **Sonja**'s additional way of using the language in the **Toki Pona Book**.
 
 | ona li pana e telo tawa kasi. → ona li telo e kasi. |
 |:-|
-| *She gives water to the plant.* → *She waters the plant.* |
+| *She gives water to the plant.* → *She waters the plant.* 😐 |
 
 
 The sections about **"Strange Language"** treat the additional way of how speakers of Toki Pona dialects use the language.
 
 | mi tawa lon poka sina. → mi tawa poka sina. |
 |:-|
-| *I am going with you.*  |
+| *I am going with you.* 🙁 |
 
 
 # nimi suli
@@ -63,14 +63,14 @@ The sections about **"Strange Language"** treat the additional way of how speake
 | [nimi suli lawa ijo musi](#nimi-suli-lawa-ijo-musi) |
 | [nimi suli lawa ijo nasa](#nimi-suli-lawa-ijo-nasa) |
 
-If a **noun** is a **thing noun**, it implies the word "ijo".
+**Thing nouns** imply the word "ijo".
 
 | ale | sike |
 |:-|:-|
 | *whole* → *something whole, universe* | *round* → *something round, circle/globe* |
 
 
-**Nouns** can imply food.
+**Nouns** that describe food seem to imply "ijo".
 
 | moku | pan | soweli |
 |:-|:-|:-|
@@ -80,11 +80,9 @@ If a **noun** is a **thing noun**, it implies the word "ijo".
 #### nimi suli lawa ijo musi
 *(Eksperimentaj Aĵaj Substantivoj — Experimental Thing Nouns)*
 
-Two same words have the meaning of the [modifier](#nimi-suli-poka) "a".
-
-| sina suli a! → sina suli suli! |
+| sijelo |
 |:-|
-| *You are really tall!* |
+| *living* → *life-form* 🙂 |
 
 
 #### nimi suli lawa ijo nasa
@@ -119,21 +117,16 @@ The [modifiers](#nimi-suli-poka) (or [prepositions](#nimi-suli-poka-luka)) "ante
 
 When a [verb](#nimi-suli-wawa) becomes a **noun**, it can mean the place of its accomplishment.
 
-| mi tawa esun. |
-|:-|
-| *I'm going to a business transaction.* → *I'm going to the market.* |
-
-
 | mi lon lape. | sina tan lape. | ona li tawa lape. |
 |:-|:-|:-|
-| *I am resting.* | *You have been resting.* | *She is going to rest.* |
+| *I am resting.* 🙂 | *You have been resting.* 🙂 | *She is going to rest.* 🙂 |
 
 
 The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **direction nouns**.
 
 | lon awen pi | lon kama pi | lon pini pi |
 |:-|:-|:-|
-| *during* | *before* | *after* |
+| *during* 🙂 | *before* 🙂 | *after* 🙂 |
 
 
 #### nimi suli lawa nasin namako
@@ -151,8 +144,6 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 | *shortly/quickly* 😐 | *provisionally* 😐 | *soon* 😐 |
 
 
----
-
 ### nimi suli lawa sijelo
 *(Vivaĵaj Substantivoj — Life-form Nouns)*
 
@@ -164,16 +155,11 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 #### nimi suli lawa sijelo musi
 *(Eksperimentaj Vivaĵaj Substantivoj — Experimental Life-form Nouns)*
 
-From a grammatical point of view, life-forms are things.
+**Life-form nouns** imply the word "sijelo".
 
-| akesi | soweli |
-|:-|:-|
-| *cold-blooded, reptile/amphibian* | *warm-blooded, mammal* |
-
-
-| kala | kasi | pipi | waso |
-|:-|:-|:-|:-|
-| *swimming, fish* | *vegetating, plant* | *crawling, insect* | *flying, bird* |
+| akesi|
+|:-|
+| *cold-blooded* → *reptile*, *amphibian* 🙂 |
 
 
 ### nimi suli lawa jan
@@ -811,6 +797,13 @@ One can reply by a phrase only, but it can't start with a **particle**.
 | *She is a parent.* → *She is., Yes.* | *Have a good meal!* → *Bon appétit!* |
 
 
+Two same words have the meaning of the [modifier](#nimi-suli-poka) "a".
+
+| sina suli a! → sina suli suli! |
+|:-|
+| *You are really tall!* |
+
+
 ## nimi lili luka
 *(Transitivaj Partikuloj — Transitive Particles)*
 
@@ -1401,7 +1394,7 @@ If "ni" is missing, the [subordinate clause](#mute-nimi-suli-poka) is not below.
 |                                                        | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | open — **selo** | closed, confined |
 | <img src="musi/sitelen/pona/seme.png" height="30">     | *[POKA](#nimi-suli-poka)* | *[PALISA](#nimi-suli-poka-palisa)* | ala, ale, ni, **seme**, wan | **which?** → **what?**, which one? |
 | <img src="musi/sitelen/pona/sewi.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | anpa — **sewi**, lawa — noka | high; **awe-inspiring**, **divine**, **sacred**, **supernatural** → **area above**, **highest part**, **something elevated**; the divine |
-| <img src="musi/sitelen/pona/sijelo.png" height="30">   | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | kulupu — **sijelo** | healthy, living, sustainable → **body (of person or animal)**, health, **physical state**, **torso** |
+| <img src="musi/sitelen/pona/sijelo.png" height="30">   | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | kulupu — **sijelo** | healthy, living, sustainable → **body (of person or animal)**, health, life-form, **physical state**, **torso** |
 | <img src="musi/sitelen/pona/sike.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | lipu, nena, **sike** | round or circular; complete, (- suno) **of one year** → **round or circular thing**; **ball**, **circle**, **cycle**, **sphere**, **wheel**; fulfilment |
 | <img src="musi/sitelen/pona/sin.png" height="30">      | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | weka — insa, poka, **sin** | **new**, **fresh**; **additional**, **another**, **extra** → in addition to |
 | <img src="musi/sitelen/pona/sina.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[ESUN](#nimi-suli-lawa-esun)* | mi, ona, **sina** | **you** |
