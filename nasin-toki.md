@@ -16,18 +16,18 @@ The sections about **"Experimental Language"** treat ways of using the language,
 | *Don't touch the fire!* |
 
 
-The sections about **"Additional Language"** treat **Sonja**'s additional way of using the language in the **Toki Pona Book**.
-
-| ona li pana e telo tawa kasi. → ona li telo e kasi. 🤔 |
-|:-|
-| *She gives water to the plant.* → *She waters the plant.* |
-
-
 The sections about **"Strange Language"** treat the additional way of how speakers of Toki Pona dialects use the language.
 
 | mi tawa lon poka sina. → mi tawa poka sina. 👎 |
 |:-|
 | *I am going with you.* |
+
+
+The sections about **"Additional Language"** treat **Sonja**'s additional way of using the language in the **Toki Pona Book**.
+
+| ona li pana e telo tawa kasi. → ona li telo e kasi. 🤔 |
+|:-|
+| *She gives water to the plant.* → *She waters the plant.* |
 
 
 # nimi suli
@@ -45,6 +45,7 @@ The sections about **"Strange Language"** treat the additional way of how speake
 
 | [↑](#nimi-suli) |
 |:-:|
+| [nimi suli lawa pona](#nimi-suli-lawa-pona) |
 | [nimi suli lawa ijo](#nimi-suli-lawa-ijo) |
 | [nimi suli lawa nasin](#nimi-suli-lawa-nasin) |
 | [nimi suli lawa sijelo](#nimi-suli-lawa-sijelo) |
@@ -52,7 +53,20 @@ The sections about **"Strange Language"** treat the additional way of how speake
 | [nimi suli lawa ilo](#nimi-suli-lawa-ilo) |
 | [nimi suli lawa pali](#nimi-suli-lawa-pali) |
 | [nimi suli lawa esun](#nimi-suli-lawa-esun) |
-| [nimi suli lawa pona](#nimi-suli-lawa-pona) |
+
+
+### nimi suli lawa pona
+*(Simplaj Substantivoj — Simple Nouns)*
+
+**Simple nouns** don't have an additional meaning as **modifiers** or **verbs**.
+
+| [↑](#nimi-suli-lawa) |
+|:-:|
+| [nimi suli lawa pona musi](#nimi-suli-lawa-pona-musi) |
+
+| ijo | jan |
+|:-|:-|
+| *something, a thing* | *somebody, a person* |
 
 
 ### nimi suli lawa ijo
@@ -246,20 +260,6 @@ If a **noun** is an **action noun**, it implies "e ijo" when it becomes a [trans
 | mi | sina | ona |
 |:-|:-|:-|
 | *I, we* | *you* | *she, he, it, they* |
-
-
-### nimi suli lawa pona
-*(Simplaj Substantivoj — Simple Nouns)*
-
-**Simple nouns** don't have an additional meaning as **modifiers** or **verbs**.
-
-| [↑](#nimi-suli-lawa) |
-|:-:|
-| [nimi suli lawa pona musi](#nimi-suli-lawa-pona-musi) |
-
-| ijo | jan |
-|:-|:-|
-| *something, a thing* | *somebody, a person* |
 
 
 ## nimi suli wawa
