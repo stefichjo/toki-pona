@@ -140,7 +140,7 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#nimi-lili-pi
 
 
 #### nimi suli lawa palisa musi
-*(Eksperimentaj Korelativoj — Experimental Correlatives)*
+*(Experimental Correlatives)*
 
 | wan 👍 |
 |:-|
@@ -162,7 +162,7 @@ In a **relative clause** (i.e. a [subordinate clause](#mute-nimi-suli-poka) with
 
 
 #### nimi suli lawa palisa nasa
-*(Strangaj Korelativoj — Strange Correlatives)*
+*(Strange Correlatives)*
 
 The beginning of a [subordinate clause](#mute-nimi-suli-poka) can disappear. Therefore, [auxiliary verbs](#nimi-suli-wawa-poka) and [prepositions](#nimi-suli-poka-luka) can become [nouns](#nimi-suli-lawa).
 
@@ -172,7 +172,7 @@ The beginning of a [subordinate clause](#mute-nimi-suli-poka) can disappear. The
 
 
 #### nimi suli lawa palisa namako
-*(Aldonaj Korelativoj — Additional Correlatives)*
+*(Additional Correlatives)*
 
 Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 
@@ -232,6 +232,8 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 |:-:|
 | [nimi suli lawa sijelo musi](#nimi-suli-lawa-sijelo-musi) |
 
+**Life-form nouns** are **thing nouns**, with an implied "ijo" meaning "life-form".
+
 
 #### nimi suli lawa sijelo musi
 *(Experimental Life-form Nouns)*
@@ -266,35 +268,13 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 
 
 ### nimi suli lawa ilo
-*(Ilaj Substantivoj — Tool Nouns)*
+*(Tool Nouns)*
 
-| [↑](#nimi-suli-lawa) |
-|:-:|
-| [nimi suli lawa ilo musi](#nimi-suli-lawa-ilo-musi) |
+**Tool nouns** imply "ilo".
 
-If a **noun** is a **tool noun**, it implies "ilo". From a grammatical point of view, organs are tools.
-
-| kute | lawa | lukin | pilin | uta |
-|:-|:-|:-|:-|:-|
-| *to hear, ear* | *to control, head* | *to see, eye* | *to feel, heart* | *to suck, mouth* |
-
-
-#### nimi suli lawa ilo musi
-*(Eksperimentaj Ilaj Substantivoj — Experimental Tool Nouns)*
-
-| luka | noka | palisa | selo |
-|:-|:-|:-|:-|
-| *to touch, hand/arm* | *to step/to kick, foot/leg* | *to aim/point, finger* | *to form, form/skin/shell/boundary* |
-
-
-| len | supa |
-|:-|:-|
-| *to cover, cloth* | *to compensate/bridge/connect, bridge* |
-
-
-| poki | tomo |
-|:-|:-|
-| *to keep/to be full of, container/bladder* | *to shield, room/house* |
+| lukin |
+|:-|
+| *to see* → *eye* |
 
 
 ### nimi suli lawa pali
@@ -303,9 +283,6 @@ If a **noun** is a **tool noun**, it implies "ilo". From a grammatical point of 
 | [↑](#nimi-suli-lawa) |
 |:-:|
 | [nimi suli lawa pali musi](#nimi-suli-lawa-pali-musi) |
-
-nimi suli lawa pali li kama nimi suli wawa luka, la ona li jo e kon pi nimi "pali e 'kon pi nimi suli lawa pali'".
-
 
 If a **noun** is an **action noun**, it implies "e ijo" when it becomes a [transitive verb](#nimi-suli-wawa-luka).
 
