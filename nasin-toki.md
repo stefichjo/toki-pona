@@ -458,11 +458,12 @@ With two [numerals](#nimi-suli-poka-nanpa), the **comma** can disappear.
 
 
 ### nimi suli poka luka
-*(Prepozicioj — Prepositions)*
+*(Prepositions)*
 
 | [↑](#nimi-suli-poka) |
 |:-:|
 | [nimi suli poka luka musi](#nimi-suli-poka-luka-musi) |
+
 
 When a **content word** has a **particle** (or a **modifier**), **prepositions** can be only after them.
 
@@ -486,59 +487,51 @@ If a [verb](#nimi-suli-wawa) and a **preposition** estas the same, the **preposi
 
 
 #### nimi suli poka luka musi
-*(Eksperimentaj Prepozicioj — Experimental Prepositions)*
+*(Experimental Prepositions)*
 
----
-
-| mi tawa e ona tawa tomo seli. → mi tawa tomo seli e ona. |
+| mi tawa e ona tawa tomo seli. → mi tawa tomo seli e ona. 👍 |
 |:-|
 | *I'm moving it to the kitchen.* |
 
----
 
-| ijo tawa lukin → ijo lukin | 
+| ijo tawa lukin → ijo lukin 👍 | 
 |:-|
 | *something to see, something to be seen* |
 
 
-| insa lukin | weka lukin |
+| insa lukin 👍 | weka lukin 👍 |
 |:-|:-|
 | *visible/being seen* | *invisible/not being seen* |
 
 
-| open lukin | selo lukin |
+| open lukin 👍 | selo lukin 👍 |
 |:-|:-|
 | *transparent* | *opaque* |
 
 
-| pona lukin | ike lukin |
+| pona lukin 👍 | ike lukin 👍 |
 |:-|:-|
 | *worth seeing/beautiful* | *not worth seeing/ugly* |
 
 
-| ante | esun | pu | taso |
-|:-|:-|:-|:-|
-| *different from* | *instead of* | *according to, following, depending on* | *independent from* |
+"tawa poka" and "lon poka" can have the meaning of the [experimental preposition](#nimi-suli-poka-luka-musi) "ante".
 
-
-"tawa poka (pi)" and "lon poka (pi)" can have the meaning of the [experimental preposition](#nimi-suli-poka-luka-musi) "ante".
-
-| jan li suli mute, mani li suli lili. → jan li suli mute tawa poka mani. → jan li suli mute lon poka mani. |
+| jan li suli mute, mani li suli lili. → jan li suli mute tawa poka mani. → jan li suli mute lon poka mani. 👍 |
 |:-|
 | *People are more important than money.* |
 
 
 "taso ni la" can become "taso".
 
-| taso ni la mije en meli li pali li pilin pona. → taso mije en meli li pali li pilin pona. |
+| taso ni la mije en meli li pali li pilin pona. → taso mije en meli li pali li pilin pona. 👍 |
 |:-|
 | *Independent from that, men and women work and are happy.* → *But men and women work and are happy.* |
 
 
 #### nimi suli poka luka namako
-*(Aldonaj Prepozicioj — Additional Prepositions)*
+*(Additional Prepositions)*
 
-| a → lon |
+| a → lon 🤔 |
 |:-|
 | *true* |
 
@@ -547,40 +540,40 @@ According to **Sonja**, "taso" is a [particle](#nimi-lili).
 
 
 #### nimi suli poka luka nasa
-*(Strangaj Prepozicioj — Strange Prepositions)*
+*(Strange Prepositions)*
 
 In a contextual phrase (i.e. before the particle "[la](#nimi-lili-la)"), [prepositions](#nimi-suli-poka-luka) can disappear.
 
-| tawa mi la sina jan pona. → mi la sina jan pona. |
+| tawa mi la sina jan pona. → mi la sina jan pona. 👎 |
 |:-|
 | *From my point of view, you are a good person.* |
 
 
 **Pije** removes the [preposition](#nimi-suli-poka-luka) "tawa" before "lukin".
 
-| sina tawa lukin sama waso. → sina lukin sama waso. |
+| sina tawa lukin sama waso. → sina lukin sama waso. 👎 |
 |:-|
 | *You look like a bird.* |
 
 
 Before "pilin", "ike tan" can disappear.
   
-| sina pilin ike tan utala. → sina pilin utala. |
+| sina pilin ike tan utala. → sina pilin utala. 👎 |
 |:-|
 | *You are empathizing badly because of struggle.* → *You are angry.* |
 
 
-"lon ... (pi)" can become a [preposition](#nimi-suli-poka-luka).
+"lon ..." can become a [preposition](#nimi-suli-poka-luka).
 
 
-| mi tawa lon poka sina. → mi tawa poka sina. | mi tawa poka sina. |
-|:-|:-|
-| *I'm going with you.* | *I'm getting closer to you.* |
+| mi tawa lon poka sina. → mi tawa poka sina. 👎 |
+|:-|
+| *I'm going with you.* |
 
 
-"lon poka (pi)" can disappear.
+"lon poka" can disappear.
 
-| jan li suli mute lon poka mani. → jan li suli mute mani. |
+| jan li suli mute lon poka mani. → jan li suli mute mani. 👎 |
 |:-|
 | *People are more important than money.* |
 
@@ -589,7 +582,7 @@ When a [preposition](#nimi-suli-poka-luka) becomes a [noun](#nimi-suli-lawa), it
 
 | mi sona ala e ni: ni li tan seme. → mi sona ala e tan. | ona li tawa e ona sama. → ona li tawa e sama. |
 |:-|:-|
-| *I don't know the reason.* | *It moves itself.* |
+| *I don't know the reason.* 👎 | *It moves itself.* 👎 |
 
 
 # nimi lili
