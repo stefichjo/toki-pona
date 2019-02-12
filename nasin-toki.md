@@ -238,7 +238,7 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 #### nimi suli lawa sijelo musi
 *(Experimental Life-form Nouns)*
 
-**Life-form nouns** imply the word "sijelo".
+**Life-form nouns** imply the word "sijelo", meaning "life-form".
 
 | akesi 👍 |
 |:-|
@@ -248,23 +248,11 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 ### nimi suli lawa jan
 *(Person Nouns)*
 
-| [↑](#nimi-suli-lawa) |
-|:-:|
-| [nimi suli lawa jan musi](#nimi-suli-lawa-jan-musi) |
-
 **Person nouns** imply "jan".
 
 | meli |
 |:-|
 | *female* → *somebody female*, *woman* |
-
-
-#### nimi suli lawa jan musi
-*(Experimental Person Words)*
-
-| mama 👍 |
-|:-|
-| *original* → *original person*, *parent* |
 
 
 ### nimi suli lawa ilo
@@ -280,23 +268,11 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 ### nimi suli lawa pali
 *(Agaj Substantivoj — Action Nouns)*
 
-| [↑](#nimi-suli-lawa) |
-|:-:|
-| [nimi suli lawa pali musi](#nimi-suli-lawa-pali-musi) |
+**Action nouns** imply "e ijo" when they are used as [verbs](#nimi-suli-wawa).
 
-If a **noun** is an **action noun**, it implies "e ijo" when it becomes a [transitive verb](#nimi-suli-wawa-luka).
-
-| moku | sitelen | sona | toki |
-|:-|:-|:-|:-|
-| *to swallow, mouthful* | *to draw, picture* | *to know, knowledge* | *to say, language* |
-
-
-#### nimi suli lawa pali musi
-*(Eksperimentaj Agaj Substantivoj — Experimental Action Nouns)*
-
-| nanpa | nimi |
-|:-|:-|
-| *to count, number* | *to name, word* |
+| sitelen |
+|:-|
+| *picture* → *to draw* |
 
 
 ## nimi suli wawa
@@ -689,10 +665,6 @@ When a [preposition](#nimi-suli-poka-luka) becomes a [noun](#nimi-suli-lawa), it
 | mi sona ala e ni: ni li tan seme. → mi sona ala e tan. | ona li tawa e ona sama. → ona li tawa e sama. |
 |:-|:-|
 | *I don't know the reason.* | *It moves itself.* |
-
-
-
----
 
 
 # nimi lili
@@ -1327,7 +1299,7 @@ If "ni" is missing, the [subordinate clause](#mute-nimi-suli-poka) is not below.
 | <img src="musi/sitelen/pona/meli.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[JAN](#nimi-suli-lawa-jan)* | **meli** — mije | female → **woman**, **female**, **feminine person**; **wife** |
 | <img src="musi/sitelen/pona/mi.png" height="30">       | *[LAWA](#nimi-suli-lawa)* | *[ESUN](#nimi-suli-lawa-esun)* | **mi**, ona, sina | **I**, **me**, **we**, **us** |
 | <img src="musi/sitelen/pona/mije.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[JAN](#nimi-suli-lawa-jan)* | meli — **mije** | male → **man**, **male**, **masculine person**; **husband** |
-| <img src="musi/sitelen/pona/moku.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[PALI](#nimi-suli-lawa-pali)* | **moku** | **to eat**, **drink**, **consume**, **swallow**, **ingest** — mouthful, food |
+| <img src="musi/sitelen/pona/moku.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[PALI](#nimi-suli-lawa-pali)* | **moku** | mouthful, food — **to eat**, **drink**, **consume**, **swallow**, **ingest** |
 | <img src="musi/sitelen/pona/moli.png" height="30">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | lape, **moli**, musi | **dead**, (kama -) **dying** |
 | <img src="musi/sitelen/pona/monsi.png" height="30">    | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | poka — **monsi**, sinpin | rear → **back**, **behind**, **rear** |
 | <img src="musi/sitelen/pona/mu.png" height="30">       | | *[KALAMA](#nimi-lili-kalama)* | **mu** — a, ala | **(animal noise or communication)**, (indifference) → blah! |
@@ -1335,13 +1307,13 @@ If "ni" is missing, the [subordinate clause](#mute-nimi-suli-poka) is not below.
 | <img src="musi/sitelen/pona/musi.png" height="30">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | lape, moli, **musi** | **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** |
 | <img src="musi/sitelen/pona/mute.png" height="30">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | lili — **mute**, suli, wawa | **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
 |                                                        | *[POKA](#nimi-suli-poka)* | *[NANPA](#nimi-suli-poka-nanpa)* | ala, ale, esun, luka, **mute**, tu, wan | 3, three, 3+ |
-| <img src="musi/sitelen/pona/nanpa.png" height="30">    | *[LAWA](#nimi-suli-lawa)* | *[PALI](#nimi-suli-lawa-pali)* | **nanpa**, nimi, sitelen, sona, toki | to count — number, **numbers** |
+| <img src="musi/sitelen/pona/nanpa.png" height="30">    | *[LAWA](#nimi-suli-lawa)* | *[PALI](#nimi-suli-lawa-pali)* | **nanpa**, nimi, sitelen, sona, toki | number, **numbers** — to count |
 |                                                        | | | **nanpa** | **(ordinal number)**, **-th** |
 | <img src="musi/sitelen/pona/nasa.png" height="30">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | pona — ike, **nasa**, pakala, utala | **unusual**, **strange**; **foolish**, **crazy**; **drunk**, **intoxicated** |
 | <img src="musi/sitelen/pona/nasin.png" height="30">    | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | lupa, **nasin** | thin, elongated, cracked → line, solution; **way**, **custom**, **doctrine**, **method**, **path**, **road** |
 | <img src="musi/sitelen/pona/nena.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | lipu, **nena**, sike | outstanding → bump, button, hill, mountain, nose, protuberance |
 | <img src="musi/sitelen/pona/ni.png" height="30">       | *[LAWA](#nimi-suli-lawa)* | *[PALISA](#nimi-suli-lawa-palisa)* | ala, ale, **ni**, seme, wan | **that**, **this** → that one, this one |
-| <img src="musi/sitelen/pona/nimi.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[PALI](#nimi-suli-lawa-pali)* | nanpa, **nimi**, sitelen, sona, toki | to name — **name**, **word** |
+| <img src="musi/sitelen/pona/nimi.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[PALI](#nimi-suli-lawa-pali)* | nanpa, **nimi**, sitelen, sona, toki | **name**, **word** — to name |
 | <img src="musi/sitelen/pona/noka.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[ILO](#nimi-suli-lawa-ilo)* | kute, lawa, len, luka, lukin, **noka**, palisa, pilin, poki, selo, tomo, uta | to step on, kick → **foot**, **leg**, **organ of locomotion** |
 |                                                        | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | anpa — sewi, lawa — **noka** | basic → base, **bottom**, **lower part** |
 | <img src="musi/sitelen/pona/o.png" height="30">        | | *[LUKA](#nimi-lili-luka)* | e, li, **o**, pi | **(vocative or imperative)**, **hey!**, **O!** |
@@ -1378,8 +1350,8 @@ If "ni" is missing, the [subordinate clause](#mute-nimi-suli-poka) is not below.
 | <img src="musi/sitelen/pona/sin.png" height="30">      | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | weka — insa, poka, **sin** | **new**, **fresh**; **additional**, **another**, **extra** → in addition to |
 | <img src="musi/sitelen/pona/sina.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[ESUN](#nimi-suli-lawa-esun)* | mi, ona, **sina** | **you** |
 | <img src="musi/sitelen/pona/sinpin.png" height="30">   | *[LAWA](#nimi-suli-lawa)* | *[NASIN](#nimi-suli-lawa-nasin)* | poka — monsi, **sinpin** | **foremost**, frontal → (- lawa) **face**, **front**, **wall** |
-| <img src="musi/sitelen/pona/sitelen.png" height="30">  | *[LAWA](#nimi-suli-lawa)* | *[PALI](#nimi-suli-lawa-pali)* | nanpa, nimi, **sitelen**, sona, toki | to draw, project, represent — **image**, **picture**, **representation**, **symbol**, **mark**, **writing** |
-| <img src="musi/sitelen/pona/sona.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[PALI](#nimi-suli-lawa-pali)* | nanpa, nimi, sitelen, **sona**, toki | **to know**, **be skilled in**, **be wise about**, **have information on** — knowledge |
+| <img src="musi/sitelen/pona/sitelen.png" height="30">  | *[LAWA](#nimi-suli-lawa)* | *[PALI](#nimi-suli-lawa-pali)* | nanpa, nimi, **sitelen**, sona, toki | **image**, **picture**, **representation**, **symbol**, **mark**, **writing** — to draw, project, represent |
+| <img src="musi/sitelen/pona/sona.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[PALI](#nimi-suli-lawa-pali)* | nanpa, nimi, sitelen, **sona**, toki | knowledge — **to know**, **be skilled in**, **be wise about**, **have information on** |
 |                                                        | *[WAWA](#nimi-suli-wawa)* | *[POKA](#nimi-suli-wawa-poka)* | ken, lukin, open, **sona**, wile | **to know how to** |
 | <img src="musi/sitelen/pona/soweli.png" height="30">   | *[LAWA](#nimi-suli-lawa)* | *[SIJELO](#nimi-suli-lawa-sijelo)* | akesi — **soweli** | warm-blooded → **animal**, **beast**, **land mammal** |
 | <img src="musi/sitelen/pona/suli.png" height="30">     | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | lili — mute, **suli**, wawa | **big**, **heavy**, **large**, **long**, **tall**; **important**; **adult** |
@@ -1391,7 +1363,7 @@ If "ni" is missing, the [subordinate clause](#mute-nimi-suli-poka) is not below.
 | <img src="musi/sitelen/pona/tawa.png" height="30">     | *[POKA](#nimi-suli-poka)* | *[LUKA](#nimi-suli-poka-luka)* | lon, tan, **tawa** | going, moving → **going to**, **toward**; **for**; **from the perspective of** |
 | <img src="musi/sitelen/pona/telo.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | kiwen, ko, kon, **telo** | liquid, fluid, wet → **water**, **liquid**, **fluid**, **wet substance**; **beverage** |
 | <img src="musi/sitelen/pona/tenpo.png" height="30">    | *[LAWA](#nimi-suli-lawa)* | *[IJO](#nimi-suli-lawa-ijo)* | **tenpo** | ephemeral, interim, provisional → **time**, **duration**, **moment**, **occasion**, **period**, **situation** |
-| <img src="musi/sitelen/pona/toki.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[PALI](#nimi-suli-lawa-pali)* | nanpa, nimi, sitelen, sona, **toki** | **to communicate**, **say**, **speak**, **say**, **talk**, **use language**, **think** — language |
+| <img src="musi/sitelen/pona/toki.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[PALI](#nimi-suli-lawa-pali)* | nanpa, nimi, sitelen, sona, **toki** | language — **to communicate**, **say**, **speak**, **say**, **talk**, **use language**, **think** |
 | <img src="musi/sitelen/pona/tomo.png" height="30">     | *[LAWA](#nimi-suli-lawa)* | *[ILO](#nimi-suli-lawa-ilo)* | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, **tomo**, uta | to protect → skeleton, thorax; **indoor space**; **building**, **home**, **house**, **room** |
 | <img src="musi/sitelen/pona/tu.png" height="30">       | *[POKA](#nimi-suli-poka)* | *[PONA](#nimi-suli-poka-pona)* | **tu** — wan | parallel, redundant |
 |                                                        | *[POKA](#nimi-suli-poka)* | *[NANPA](#nimi-suli-poka-nanpa)* | ala, ale, esun, luka, mute, **tu**, wan | 2, **two** |
