@@ -94,9 +94,8 @@ The [modifiers](#nimi-suli-poka) (or [prepositions](#nimi-suli-poka-luka)) "ante
 
 | ijo ante → ante | ijo sama → sama |
 |:-|:-|
-| *something different* ☹ | *something similar* ☹ |
+| *something different* 🙁 | *something similar* 🙁 |
 
----
 
 ### nimi suli lawa nasin
 *(Direktaj Substantivoj — Direction Nouns)*
@@ -108,36 +107,21 @@ The [modifiers](#nimi-suli-poka) (or [prepositions](#nimi-suli-poka-luka)) "ante
 | [nimi suli lawa nasin nasa](#nimi-suli-lawa-nasin-nasa) |
 
 
-"ijo" can mean a place. Therefore, **thing nouns** can imply a place.
+**Direction nouns** are **thing nouns**, with an implied "ijo" meaning "location", "place".
 
-| anpa | sewi | noka |
-|:-|:-|:-|
-| *inferior, inferior area/depth* | *superior, superior area/height/sky* | *lower, lower area/base* |
-
-
-| poka | monsi | sinpin |
-|:-|:-|:-|
-| *adjacent, adjacent area/side/hip* | *rear, rear area/back* | *frontal, area in front/front* |
-
-
-| weka | insa | poka |
-|:-|:-|:-|
-| *remote, remote area/distance* | *inner, inner area/center* | *neighboring, neighboring area/vicinity* |
+| insa |
+|:-|
+| *inner* → *inner area, center* |
 
 
 #### nimi suli lawa nasin musi
 *(Eksperimentaj Direktaj Substantivoj — Experimental Direction Nouns)*
 
-| lawa |
-|:-|
-| *upper, upper area, top* |
-
-
 When a [verb](#nimi-suli-wawa) becomes a **noun**, it can mean the place of its accomplishment.
 
-| mi tawa ijo: jan li esun. → mi tawa esun. |
+| mi tawa esun. |
 |:-|
-| *I'm going to an exchange. I'm going to the market.* |
+| *I'm going to a business transaction.* → *I'm going to the market.* |
 
 
 | mi lon lape. | sina tan lape. | ona li tawa lape. |
@@ -157,15 +141,17 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 
 | lawa → sewi |
 |:-|
-| *upper, upper area, top* |
+| *upper* → *upper area, top* 😐 |
 
 
 "lon awen pi", "lon kama pi", "lon pini pi" can become "lon".
 
 | lon awen pi tenpo lili → lon tenpo lili | lon kama pi tenpo lili → lon tenpo lili | lon pini pi tenpo lili → lon tenpo lili |
 |:-|:-|:-|
-| *shortly/quickly* | *provisionally* | *soon* |
+| *shortly/quickly* 😐 | *provisionally* 😐 | *soon* 😐 |
 
+
+---
 
 ### nimi suli lawa sijelo
 *(Vivaĵaj Substantivoj — Life-form Nouns)*
