@@ -1,4 +1,75 @@
-# sitelen pona musi
+# sitelen pona
+*(Hieroglyphs)*
+
+[nouns](#nimi-suli-lawa) and their first [adjective](#nimi-suli-poka) become one.
+
+| <img src="musi/sitelen/pona/toki-pona.png" height="25"> |  <img src="musi/sitelen/pona/sitelen-pona-musi.png" height="25"> | 
+|:--:|:--:| 
+| *toki pona* | *sitelen pona musi* |
+
+
+[Interjections](#nimi-lili-kalama) are adjacent.  
+
+| <img src="musi/sitelen/pona/sina-suli-a.png" height="25"> | 
+|:--:| 
+| *sina suli a!* |
+
+
+[Quotations](#nimi-lili-pona) are adjacent.  
+
+| <img src="musi/sitelen/pona/ma-kanata.png" height="25"> | <img src="musi/sitelen/pona/toki-nanpa-wan.png" height="25"> | 
+|:--:|:--:| 
+| *ma Kanata* | *toki nanpa wan* |
+
+
+👍 [Transitive particles](#nimi-lili-luka) are below.
+
+| <img src="musi/sitelen/pona/ale-li-pona.png" height="50"> | <img src="musi/sitelen/pona/jan-ala-li-ike.png" height="50"> | <img src="musi/sitelen/pona/mi-o-moku-e-ijo-pona.png" height="50"> | <img src="musi/sitelen/pona/o-kute-e-mama-sina.png" height="50"> |
+|:--:|:--:|:--:|:--:|
+| *ale li pona.* | *jan ala li ike.* | *mi o moku e ijo pona.* | *o kute e mama sina.* |
+
+
+👍 [Prepositions](#nimi-suli-poka-luka) are above.
+
+| <img src="musi/sitelen/pona/mi-lon-tomo.png" height="50"> | <img src="musi/sitelen/pona/wawa-li-lon-insa.png" height="75"> | <img src="musi/sitelen/pona/mi-pana-e-kala-tawa-ona-lon-tomo.png" height="75"> | <img src="musi/sitelen/pona/tan-seme-la-soweli-wawa-pimeja-li-moku-e-ona.png" height="75"> |
+|:--:|:--:|:--:|:--:| 
+| *mi lon tomo.* | *wawa li lon insa.* | *mi pana e kala tawa ona lon tomo.* | *tan seme la soweli wawa pimeja li moku e ona?* |
+
+
+👍 [Auxiliary Verbs](#nimi-suli-wawa-poka) are above.
+
+| <img src="musi/sitelen/pona/mi-kama-sona-e-toki-pona.png" height="75"> |
+|:--:| 
+| *mi kama sona e toki pona.* |
+
+
+👍 [Subordinate clauses](#mute-nimi-suli-poka) are below "ni".
+
+| <img src="musi/sitelen/pona/mi-sona-e-ni-mi-anpa.png" height="50"> |
+|:--:| 
+| *mi sona e ni: mi anpa.* |
+
+
+👍 If "ni" is missing, the [subordinate clause](#mute-nimi-suli-poka) is not below.
+
+| <img src="musi/sitelen/pona/mi-pona-tawa-jan-la-jan-li-pona-tawa-mi.png" height="75"> |
+|:--:| 
+| ~~lon ni,~~ *mi pona tawa jan, la jan li pona tawa mi.* |
+
+
+👍 "taso" is written above.
+
+| <img src="musi/sitelen/pona/taso-mije-en-meli-li-pali-li-pilin-pona.png" height="75"> |
+|:--:| 
+| *taso mije en meli li pali li pilin pona.* |
+
+
+👍 [Simple nouns](#nimi-suli-lawa-pona) don't become part of another [noun](#nimi-suli-lawa).
+
+| <img src="musi/sitelen/pona/mi-weka-e-ike-jan-la-mi-weka-e-ike-mi.png" height="50"> |
+|:--:| 
+| *mi weka e ike jan, la mi weka e ike mi.* |
+
 
 ## mute nimi pi sona pona
 *(Tokiponaj Proverboj — Toki Pona Proverbs)*
