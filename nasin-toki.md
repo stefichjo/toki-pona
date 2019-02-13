@@ -259,11 +259,32 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 ### nimi suli lawa ilo
 *(Tool Nouns)*
 
+| [↑](#nimi-suli-lawa) |
+|:-:|
+| [nimi suli lawa ilo musi](#nimi-suli-lawa-ilo-musi) |
+
 **Tool nouns** imply "ilo".
 
 | lukin |
 |:-|
 | *to see* → *eye* |
+
+
+"pona (tawa)" + **tool noun** expresses that something is worth being done.
+
+| pona tawa lukin → pona lukin |
+|:-|
+| *good for the eye* → *worth seeing*, *beautiful* |
+
+
+#### nimi suli lawa ilo musi
+*(Experimental Tool Nouns)*
+
+"insa (tawa)" + **tool noun** expresses that something is do-able, whereas "open (tawa)" + **tool noun** expresses that something is not obstructing to the tool implied.
+
+| insa lukin 👍 | open lukin 👍 |
+|:-|:-|
+| *visible* | *transparent* |
 
 
 ## nimi suli wawa
@@ -406,10 +427,6 @@ The [prepositions](#nimi-suli-poka-luka) "lon", "tan", "tawa" can become **auxil
 |:-:|
 | [nimi suli poka nanpa namako](#nimi-suli-poka-nanpa-namako) |
 
-| ala | ale | luka | mute | tu | wan |
-|:-|:-|:-|:-|:-|:-|
-| *zero* | *senfine* | *five* | *three* | *two* | *one* |
-
 
 #### nimi suli poka nanpa musi
 *(Experimental Numerals)*
@@ -467,21 +484,28 @@ With two [numerals](#nimi-suli-poka-nanpa), the **comma** can disappear.
 | [nimi suli poka luka musi](#nimi-suli-poka-luka-musi) |
 
 
-When a **content word** has a **particle** (or a **modifier**), **prepositions** can be only after them.
+**Prepositional phrases** follow **particle phrases**.
 
 | mi pana e kili tawa sina. |
 |:-|
 | *I'm giving you the apple.* |
 
 
-If a [verb](#nimi-suli-wawa) and a **preposition** estas the same, the **preposition** disappears. There can be an [interjection](#nimi-lili-kalama) between the [verb](#nimi-suli-wawa) and the [preposition](#nimi-suli-poka-luka).
+When a [modifier](#nimi-suli-poka) and a **preposition** are the same, the **preposition** disappears. There can be an [interjection](#nimi-lili-kalama) between the [verb](#nimi-suli-wawa) and the [preposition](#nimi-suli-poka-luka).
 
 | mi tawa tawa tomo seli. → mi tawa tomo seli. | mi tawa ala tawa tomo seli. → mi tawa ala tomo seli. |
 |:-|:-|
 | *I'm going to the kitchen.* | *I'm not going to the kitchen.* |
 
 
-**Sonja** uses **prepositions** only with [verbs](#nimi-suli-wawa). In this case, one can remove the **comma** between two **prepositions**. In addition, **Sonja** uses **modifiers** (or the **particle** "[pi](#nimi-lili-pi)") instead of **prepositions**.
+**Sonja** uses **prepositions** only with [verbs](#nimi-suli-wawa). In this case, one can remove the **comma** between two **prepositions**.
+
+| mi toki tawa sina, lon tomo seli. → mi toki tawa sina lon tomo seli. |
+|:-|
+| *I'm talking to you in the kitchen.* |
+
+
+In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#nimi-lili-pi)") instead of **prepositions**.
 
 | jan lon poka → jan poka | pona tawa lukin → pona lukin |
 |:-|:-|
@@ -491,30 +515,22 @@ If a [verb](#nimi-suli-wawa) and a **preposition** estas the same, the **preposi
 #### nimi suli poka luka musi
 *(Experimental Prepositions)*
 
-| mi tawa e ona tawa tomo seli. → mi tawa tomo seli e ona. 👍 |
-|:-|
-| *I'm moving it to the kitchen.* |
 
+When a [verb](#nimi-suli-wawa) and a **preposition** are the same, the **preposition** disappears and the direct object moves to the end of the sentence.
 
-| ijo tawa lukin → ijo lukin 👍 | 
-|:-|
-| *something to see, something to be seen* |
-
-
-| insa lukin 👍 | weka lukin 👍 |
+| mi tawa e ona tawa tomo seli. → mi tawa tomo seli e ona. 👍 | mi tawa ala e ona tawa tomo seli. → mi tawa ala tomo seli e ona. 👍 |
 |:-|:-|
-| *visible/being seen* | *invisible/not being seen* |
+| *I'm moving it to the kitchen.* | *I'm not moving it to the kitchen.* |
 
 
-| open lukin 👍 | selo lukin 👍 |
+"ijo" + [modifier](#nimi-suli-poka) can express posession or topic.
+
+| lipu ni li ijo mi. 👍 | lipu ni li toki e ijo mi. 👍 |
 |:-|:-|
-| *transparent* | *opaque* |
+| *This book is mine.* | *This book is about me.* |
 
 
-| pona lukin 👍 | ike lukin 👍 |
-|:-|:-|
-| *worth seeing/beautiful* | *not worth seeing/ugly* |
-
+---
 
 "tawa poka" and "lon poka" can have the meaning of the [experimental preposition](#nimi-suli-poka-luka-musi) "ante".
 
