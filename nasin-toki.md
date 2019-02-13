@@ -1141,9 +1141,9 @@ If "ni" is missing, the [subordinate clause](#mute-nimi-suli-poka) is not below.
 | *taso mije en meli li pali li pilin pona.* |
 
 
-[Pronouns](#nimi-suli-lawa-esun) and [simple nouns](#nimi-suli-lawa-pona) don't become part of another [noun](#nimi-suli-lawa).
+👍 [Pronouns](#nimi-suli-lawa-esun) and [simple nouns](#nimi-suli-lawa-pona) don't become part of another [noun](#nimi-suli-lawa).
 
-| <img src="musi/sitelen/pona/mi-weka-e-ike-jan-la-mi-weka-e-ike-mi.png" height="50"> 👍 |
+| <img src="musi/sitelen/pona/mi-weka-e-ike-jan-la-mi-weka-e-ike-mi.png" height="50"> |
 |:--:| 
 | *mi weka e ike jan, la mi weka e ike mi.* |
 
