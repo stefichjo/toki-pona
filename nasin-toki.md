@@ -66,7 +66,7 @@
 | *something, a thing* | *somebody, a person* |
 
 
-### nimi suli lawa esun
+#### nimi suli lawa esun
 *(Pronouns)*
 
 **Pronouns** are **simple nouns** that refer to the speaker, the listener or a third person/object.
@@ -106,7 +106,7 @@
 | *something different* | *something similar* |
 
 
-### nimi suli lawa palisa
+#### nimi suli lawa palisa
 *(Correlatives)*
 
 **Correlatives** are **thing nouns**, i.e. they can imply the word "ijo".
@@ -147,7 +147,7 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#nimi-lili-pi
 🤔 Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 
 
-### nimi suli lawa nasin
+#### nimi suli lawa nasin
 *(Direction Nouns)*
 
 **Direction nouns** are **thing nouns**, with an implied "ijo" meaning "location", "place".
@@ -185,7 +185,7 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#nimi-lili-pi
 | *shortly/quickly* | *provisionally* | *soon* |
 
 
-### nimi suli lawa sijelo
+#### nimi suli lawa sijelo
 *(Life-form Nouns)*
 
 **Life-form nouns** are **thing nouns**, with an implied "ijo" meaning "life-form".
@@ -244,6 +244,11 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#nimi-lili-pi
 ### nimi suli wawa pona
 *(Simple Verbs)*
 
+| [↑](#nimi-suli-wawa) |
+|:-:|
+| [nimi suli wawa ijo](#nimi-suli-wawa-ijo) |
+
+
 **Simple verbs** imply "e ijo".
 
 | alasa |
@@ -272,7 +277,7 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#nimi-lili-pi
 | *to build*, *make* | *to prepare* |
 
 
-### nimi suli wawa ijo
+#### nimi suli wawa ijo
 *(Thing Verbs)*
 
 **Thing verbs** are **simple verbs**. As a [noun](#nimi-suli-lawa), they mean the verb's object.
@@ -406,9 +411,6 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#nimi-li
 | *neighbour* | *beautiful* |
 
 
-#### nimi suli poka luka musi
-*(Experimental Prepositions)*
-
 👍 When a [verb](#nimi-suli-wawa) and a **preposition** are the same, the **preposition** disappears and the direct object moves to the end of the sentence.
 
 | mi tawa e ona tawa tomo seli. → mi tawa tomo seli e ona. | mi tawa ala e ona tawa tomo seli. → mi tawa ala tomo seli e ona. |
@@ -423,7 +425,7 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#nimi-li
 | *This book is mine.* | *This book is about me.* |
 
 
-👍 "tawa poka" and "lon poka" can have the meaning of the experimental [preposition](#nimi-suli-poka-luka) "ante".
+👍 "tawa poka" and "lon poka" can have the meaning of the experimental **preposition** "ante".
 
 | jan li suli mute, mani li suli lili. → jan li suli mute tawa/lon poka mani. → jan li suli mute ante mani. |
 |:-|
@@ -437,21 +439,14 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#nimi-li
 | *Independent from that, men and women work and are happy.* → *But men and women work and are happy.* |
 
 
-🤔 …
-
-| a → lon |
-|:-|
-| *true* |
-
-
-👎 In a contextual phrase (i.e. before the particle "[la](#nimi-lili-la)"), [prepositions](#nimi-suli-poka-luka) can disappear.
+👎 In a contextual phrase (i.e. before the particle "[la](#nimi-lili-la)"), **prepositions** can disappear.
 
 | tawa mi la sina jan pona. → mi la sina jan pona. |
 |:-|
 | *From my point of view, you are a good person.* |
 
 
-👎 **Pije** removes the [preposition](#nimi-suli-poka-luka) "tawa" before "lukin".
+👎 **Pije** removes the **preposition** "tawa" before "lukin".
 
 | sina tawa lukin sama waso. → sina lukin sama waso. |
 |:-|
@@ -465,7 +460,7 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#nimi-li
 | *You are empathizing badly because of struggle.* → *You are angry.* |
 
 
-👎 "lon" + [direction noun](#nimi-suli-lawa-nasin) can become a [preposition](#nimi-suli-poka-luka).
+👎 "lon" + [direction noun](#nimi-suli-lawa-nasin) can become a **preposition**.
 
 | mi tawa lon poka sina. → mi tawa poka sina. |
 |:-|
@@ -479,11 +474,18 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#nimi-li
 | *People are more important than money.* |
 
 
-👎 When a [preposition](#nimi-suli-poka-luka) becomes a [noun](#nimi-suli-lawa), its meaning can become that of the word "ijo" after that [preposition](#nimi-suli-poka-luka). **Pije** uses the [preposition](#nimi-suli-poka-luka) "tan" in this way.
+👎 When a [preposition](#nimi-suli-poka-luka) becomes a [noun](#nimi-suli-lawa), its meaning can become that of the word "ijo" after that **preposition**. **Pije** uses the **preposition** "tan" in this way.
 
 | mi sona ala e ni: ni li tan seme. → mi sona ala e tan. | ona li tawa e ona sama. → ona li tawa e sama. |
 |:-|:-|
 | *I don't know the reason.* | *It moves itself.* |
+
+
+🤔 …
+
+| a → lon |
+|:-|
+| *true* |
 
 
 # nimi lili
@@ -536,9 +538,6 @@ An **interjection** can become a [thing verb](#nimi-suli-wawa-ijo).
 | *The animal bleats.* | *She heard a loud bleat.* |
 
 
-#### nimi lili kalama musi
-*(Experimental Interjections)*
-
 👍 An **interjection** can become a [modifier](#nimi-suli-poka).
 
 | a |
@@ -546,7 +545,7 @@ An **interjection** can become a [thing verb](#nimi-suli-wawa-ijo).
 | *indeed, yes* |
 
 
-One can reply by a phrase only, but it can't start with a **particle**.
+👍 One can reply by a phrase only, but it can't start with a **particle**.
 
 | ona li mama. → mama. | o jo e moku pona! → moku pona! |
 |:-|:-|
