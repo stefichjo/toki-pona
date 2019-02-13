@@ -23,9 +23,9 @@
 | *I am going with you.* |
 
 
-The sections about **"Additional Language"** treat **Sonja**'s additional way of using the language in the **Toki Pona Book**.
+🤔 — Sections about **"Additional Language"** describe some of **Sonja**'s way of using the language in the **Toki Pona Book** that seems unnecessary.
 
-| ona li pana e telo tawa kasi. → ona li telo e kasi. 🤔 |
+| ona li pana e telo tawa kasi. → ona li telo e kasi. |
 |:-|
 | *She gives water to the plant.* → *She waters the plant.* |
 
@@ -201,14 +201,16 @@ Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 #### nimi suli lawa nasin namako
 *(Additional Direction Nouns)*
 
-| lawa → sewi 🤔 |
+🤔 …
+
+| lawa → sewi |
 |:-|
 | *upper* → *upper area, top* |
 
 
-"lon awen pi", "lon kama pi", "lon pini pi" can become "lon".
+🤔 "lon awen pi", "lon kama pi", "lon pini pi" can become "lon".
 
-| lon awen pi tenpo lili → lon tenpo lili 🤔 | lon kama pi tenpo lili → lon tenpo lili 🤔 | lon pini pi tenpo lili → lon tenpo lili 🤔 |
+| lon awen pi tenpo lili → lon tenpo lili | lon kama pi tenpo lili → lon tenpo lili | lon pini pi tenpo lili → lon tenpo lili |
 |:-|:-|:-|
 | *shortly/quickly* | *provisionally* | *soon* |
 
@@ -310,14 +312,16 @@ Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 #### nimi suli wawa pona namako
 *(Additional Simple Verbs)*
 
-**Sonja** allows all **verbs** to imply "e ijo".
+🤔 **Sonja** allows all **verbs** to imply "e ijo".
 
-| mi open e ni lon sewi. → mi open lon sewi. 🤔 |
+| mi open e ni lon sewi. → mi open lon sewi. |
 |:-|
 | *I begin with the divine.* |
 
 
-| kama e → pali e 🤔 | open e → pali e 🤔 |
+🤔 …
+
+| kama e → pali e | open e → pali e |
 |:-|:-|
 | *to build*, *make* | *to prepare* |
 
@@ -435,16 +439,16 @@ If a **verb** is an **auxiliary verb**, it implies a **transitive verb** before 
 #### nimi suli poka nanpa namako
 *(Additional Numerals)*
 
-The meanings of the **numeral** "mute" and of the [simple modifier](#nimi-suli-poka-pona) "mute" can be one.
+🤔 The meanings of the **numeral** "mute" and of the [simple modifier](#nimi-suli-poka-pona) "mute" can be one.
 
-| mute 🤔 |
+| mute |
 |:-|
 | *three, many* → *three (or more)* |
 
 
-With two [numerals](#nimi-suli-poka-nanpa), the **comma** can disappear.
+🤔 With two [numerals](#nimi-suli-poka-nanpa), the **comma** can disappear.
 
-| palisa luka, tu → palisa luka tu 🤔 |
+| palisa luka, tu → palisa luka tu |
 |:-|
 | *seven fingers* |
 
@@ -519,7 +523,9 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#nimi-li
 #### nimi suli poka luka namako
 *(Additional Prepositions)*
 
-| a → lon 🤔 |
+🤔 …
+
+| a → lon |
 |:-|
 | *true* |
 
@@ -741,16 +747,16 @@ One can express a desire by just a direct object (i.e. the words after the **par
 #### nimi lili "e" namako
 *(Additional Direct Object)*
 
-The direct object of "pana" can become a [transitive verb](#nimi-suli-wawa-luka).
+🤔 The direct object of "pana" can become a [transitive verb](#nimi-suli-wawa-luka).
 
-| ona li pana e telo tawa kasi. → ona li telo e kasi. 🤔 |
+| ona li pana e telo tawa kasi. → ona li telo e kasi. |
 |:-|
 | *She gives water to the plant.* → *She waters the plant.* |
 
 
-With "utala", the [preposition](#nimi-suli-poka-luka) "tawa" can become the [particle "e"](#nimi-lili-e).
+🤔 With "utala", the [preposition](#nimi-suli-poka-luka) "tawa" can become the [particle "e"](#nimi-lili-e).
 
-| ona li utala tawa jan ike. → ona li utala e jan ike. 🤔 |
+| ona li utala tawa jan ike. → ona li utala e jan ike. |
 |:-|
 | *She fights the enemy.* |
 
@@ -900,9 +906,9 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 #### nimi lili "anu" namako
 *(Additional Conjunction "or")*
 
-In front of words and after the same words negated, the **particle** "anu" disappears.
+🤔 In front of words and after the same words negated, the **particle** "anu" disappears.
 
-| ona li mama ala anu mama? → ona li mama ala mama? 🤔 |
+| ona li mama ala anu mama? → ona li mama ala mama? |
 |:-|
 | *Is she a parent?* |
 
