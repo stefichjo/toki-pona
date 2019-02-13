@@ -8,7 +8,8 @@
 | [sitelen pi poka nimi](#sitelen-pi-poka-nimi) |
 | [sitelen pona](#sitelen-pona) |
 | [ale pi nimi mute](#ale-pi-nimi-mute) |
- 
+
+
 👍 — Sections about **"Experimental Language"** describe "pu-compliant" ways of using the language, even though they are not mentioned explicitly in the **Toki Pona Book**.
 
 | o luka ala e seli! |
@@ -80,7 +81,6 @@
 
 | [↑](#nimi-suli-lawa) |
 |:-:|
-| [nimi suli lawa ijo nasa](#nimi-suli-lawa-ijo-nasa) |
 | [nimi suli lawa palisa](#nimi-suli-lawa-palisa) |
 | [nimi suli lawa nasin](#nimi-suli-lawa-nasin) |
 | [nimi suli lawa sijelo](#nimi-suli-lawa-sijelo) |
@@ -99,9 +99,6 @@
 | *mouthful* → *food* | *seed* → *bread* | *mammal* → *meat* |
 
 
-#### nimi suli lawa ijo nasa
-*(Strange Thing Nouns)*
-
 👎 The [modifiers](#nimi-suli-poka) (or [prepositions](#nimi-suli-poka-luka)) "ante" and "sama" can become **thing nouns**.
 
 | ijo ante → ante | ijo sama → sama |
@@ -114,12 +111,6 @@
 
 **Correlatives** are **thing nouns**, i.e. they can imply the word "ijo".
 
-| [↑](#nimi-suli-lawa-ijo) |
-|:-:|
-| [nimi suli lawa palisa musi](#nimi-suli-lawa-palisa-musi) |
-| [nimi suli lawa palisa nasa](#nimi-suli-lawa-palisa-nasa) |
-| [nimi suli lawa palisa namako](#nimi-suli-lawa-palisa-namako) |
-
 | ale |
 |:-|
 | *every* → *everything* |
@@ -131,9 +122,6 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#nimi-lili-pi
 |:-|:-|
 | *parent of everything* | *every parent* |
 
-
-#### nimi suli lawa palisa musi
-*(Experimental Correlatives)*
 
 👍 A [subordinate clause](#mute-nimi-suli-poka) can be thought of as an extension of the **correlative** "ni".
 
@@ -149,9 +137,6 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#nimi-lili-pi
 | *I'm seeing the mountain, that is big.* | *The mountain, that I'm seeing, is big.* |
 
 
-#### nimi suli lawa palisa nasa
-*(Strange Correlatives)*
-
 👎 The beginning of a [subordinate clause](#mute-nimi-suli-poka) can disappear. Therefore, [auxiliary verbs](#nimi-suli-wawa-poka) and [prepositions](#nimi-suli-poka-luka) can become [nouns](#nimi-suli-lawa).
 
 | jan pi ona li tawa tomo | jan pi li tawa tomo | jan pi tawa tomo |
@@ -159,20 +144,11 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#nimi-lili-pi
 | *somebody, who is going home* | *home-coming person* | *home-comer* |
 
 
-#### nimi suli lawa palisa namako
-*(Additional Correlatives)*
-
-Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
+🤔 Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 
 
 ### nimi suli lawa nasin
 *(Direction Nouns)*
-
-| [↑](#nimi-suli-lawa-ijo) |
-|:-:|
-| [nimi suli lawa nasin musi](#nimi-suli-lawa-nasin-musi) |
-| [nimi suli lawa nasin namako](#nimi-suli-lawa-nasin-namako) |
-
 
 **Direction nouns** are **thing nouns**, with an implied "ijo" meaning "location", "place".
 
@@ -180,9 +156,6 @@ Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 |:-|
 | *inner* → *inner area, center* |
 
-
-#### nimi suli lawa nasin musi
-*(Experimental Direction Nouns)*
 
 👍 When a [verb](#nimi-suli-wawa) becomes a **noun**, it can mean the place of its accomplishment.
 
@@ -197,9 +170,6 @@ Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 |:-|:-|:-|
 | *during* | *before* | *after* |
 
-
-#### nimi suli lawa nasin namako
-*(Additional Direction Nouns)*
 
 🤔 …
 
@@ -218,15 +188,8 @@ Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 ### nimi suli lawa sijelo
 *(Life-form Nouns)*
 
-| [↑](#nimi-suli-lawa-ijo) |
-|:-:|
-| [nimi suli lawa sijelo musi](#nimi-suli-lawa-sijelo-musi) |
-
 **Life-form nouns** are **thing nouns**, with an implied "ijo" meaning "life-form".
 
-
-#### nimi suli lawa sijelo musi
-*(Experimental Life-form Nouns)*
 
 👍 **Life-form nouns** imply the word "sijelo", meaning "life-form".
 
@@ -248,10 +211,6 @@ Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 ### nimi suli lawa ilo
 *(Tool Nouns)*
 
-| [↑](#nimi-suli-lawa) |
-|:-:|
-| [nimi suli lawa ilo musi](#nimi-suli-lawa-ilo-musi) |
-
 **Tool nouns** imply "ilo".
 
 | lukin |
@@ -265,9 +224,6 @@ Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 |:-|
 | *good for the eye* → *worth seeing*, *beautiful* |
 
-
-#### nimi suli lawa ilo musi
-*(Experimental Tool Nouns)*
 
 👍 "insa (tawa)" + **tool noun** expresses that something is do-able, whereas "open (tawa)" + **tool noun** expresses that something is not obstructing to the tool implied.
 
@@ -288,10 +244,6 @@ Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 ### nimi suli wawa pona
 *(Simple Verbs)*
 
-| [↑](#nimi-suli-wawa) |
-|:-:|
-| [nimi suli wawa pona namako](#nimi-suli-wawa-pona-namako) |
-
 **Simple verbs** imply "e ijo".
 
 | alasa |
@@ -299,18 +251,12 @@ Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 | *to hunt* |
 
 
-#### nimi suli wawa pona nasa
-*(Strange Simple Verbs)*
-
 👎 **Simple verbs** can be used as a [modifier](#nimi-suli-poka) implying **passive**.
 
 | nimi li sona |
 |:-|
 | *the word is known* |
 
-
-#### nimi suli wawa pona namako
-*(Additional Simple Verbs)*
 
 🤔 **Sonja** allows all **verbs** to imply "e ijo".
 
@@ -329,12 +275,6 @@ Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 ### nimi suli wawa ijo
 *(Thing Verbs)*
 
-| [↑](#nimi-suli-wawa-pona) |
-|:-:|
-| [nimi suli wawa ijo nasa](#nimi-suli-wawa-ijo-nasa) |
-| [nimi suli wawa ijo namako](#nimi-suli-wawa-ijo-namako) |
-| [nimi suli wawa ijo](#nimi-suli-wawa-ijo) |
-
 **Thing verbs** are **simple verbs**. As a [noun](#nimi-suli-lawa), they mean the verb's object.
 
 | sitelen |
@@ -344,10 +284,6 @@ Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 
 ### nimi suli wawa poka
 *(Auxiliary Verbs)*
-
-| [↑](#nimi-suli-wawa) |
-|:-:|
-| [nimi suli wawa poka nasa](#nimi-suli-wawa-poka-nasa) |
 
 | awen |
 |:-|
@@ -367,9 +303,6 @@ If a **verb** is an **auxiliary verb**, it implies a **transitive verb** before 
 |:-|
 | *She needs, that she is at home.* → *She has to be at home.* |
 
-
-#### nimi suli wawa poka nasa
-*(Strange Auxiliary Verbs)*
 
 👎 The **auxiliary verb** "kama" and the [content word](#nimi-suli) "pini" can disappear.
 
@@ -407,14 +340,6 @@ If a **verb** is an **auxiliary verb**, it implies a **transitive verb** before 
 ### nimi suli poka nanpa
 *(Numerals)*
 
-| [↑](#nimi-suli-poka) |
-|:-:|
-| [nimi suli poka nanpa namako](#nimi-suli-poka-nanpa-namako) |
-
-
-#### nimi suli poka nanpa musi
-*(Experimental Numerals)*
-
 👍 The [conjunction "en"](#nimi-lili-en) can be with two **numerals**.
 
 | sike esun tu | tenpo suno luka tu en tu tu |
@@ -436,9 +361,6 @@ If a **verb** is an **auxiliary verb**, it implies a **transitive verb** before 
 | *It's going to be your turn.* | *It's your turn.* | *It's been your turn.* |
 
 
-#### nimi suli poka nanpa namako
-*(Additional Numerals)*
-
 🤔 The meanings of the **numeral** "mute" and of the [simple modifier](#nimi-suli-poka-pona) "mute" can be one.
 
 | mute |
@@ -455,11 +377,6 @@ If a **verb** is an **auxiliary verb**, it implies a **transitive verb** before 
 
 ### nimi suli poka luka
 *(Prepositions)*
-
-| [↑](#nimi-suli-poka) |
-|:-:|
-| [nimi suli poka luka musi](#nimi-suli-poka-luka-musi) |
-
 
 **Prepositional phrases** follow **particle phrases**.
 
@@ -506,7 +423,7 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#nimi-li
 | *This book is mine.* | *This book is about me.* |
 
 
-👍 "tawa poka" and "lon poka" can have the meaning of the [experimental preposition](#nimi-suli-poka-luka-musi) "ante".
+👍 "tawa poka" and "lon poka" can have the meaning of the experimental [preposition](#nimi-suli-poka-luka) "ante".
 
 | jan li suli mute, mani li suli lili. → jan li suli mute tawa/lon poka mani. → jan li suli mute ante mani. |
 |:-|
@@ -520,18 +437,12 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#nimi-li
 | *Independent from that, men and women work and are happy.* → *But men and women work and are happy.* |
 
 
-#### nimi suli poka luka namako
-*(Additional Prepositions)*
-
 🤔 …
 
 | a → lon |
 |:-|
 | *true* |
 
-
-#### nimi suli poka luka nasa
-*(Strange Prepositions)*
 
 👎 In a contextual phrase (i.e. before the particle "[la](#nimi-lili-la)"), [prepositions](#nimi-suli-poka-luka) can disappear.
 
@@ -666,11 +577,6 @@ One can reply by a phrase only, but it can't start with a **particle**.
 ### nimi lili "li"
 *(Subjekto kaj Predikato — Subject and Predicate)*
 
-| [↑](#nimi-lili-luka) |
-|:-:|
-| [li (musi)](#nimi-lili-li-musi) |
-| [li (nasa)](#nimi-lili-li-nasa) |
-
 If the subject (i.e. the words before the **particle** "li") is just "mi" or "sina", the **particle** "li" disappears.
 
 | mi li mije. → mi mije. | sina li sin. → sina sin. |
@@ -685,18 +591,12 @@ A [sentence](#mute-nimi) can have multiple predicates (i.e. the words after the 
 | *The motherland is small and cold.* |
 
 
-#### nimi lili "li" musi
-*Experimental Subject and Predicate)*
-
 👍 After "mi" or "sina" the [particle "li"](#nimi-lili-li) doesn't disappear, if there is a second [particle "li"](#nimi-lili-li).
 
 | mi lukin mute. mi sona lili. → mi li lukin mute li sona lili. |
 |:-|
 | *I am seeing much and knowing little.* |
 
-
-#### nimi lili "li" nasa
-*(Strange Subject and Predicate)*
 
 👎 **Pije** removes only the first [particle "li"](#nimi-lili-li) after "mi" or "sina".
 
@@ -715,11 +615,6 @@ A [sentence](#mute-nimi) can have multiple predicates (i.e. the words after the 
 ### nimi lili "e"
 *(Direct Object)*
 
-| [↑](#nimi-lili-luka) |
-|:-:|
-| [e (nasa)](#nimi-lili-e-nasa) |
-| [e (namako)](#nimi-lili-e-namako) |
-
 A predicate (i.e. the words after the **particle** "li") can have multiple direct objects (i.e. the words after the **particle** "e"). Their **commas** can disappear.
 
 | ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
@@ -734,18 +629,12 @@ One can express a desire by just a direct object (i.e. the words after the **par
 | *I wish you a good meal.* → *Bon appétit!* |
 
 
-##### nimi lili "e" nasa
-*(Strange Direct Object)*
-
 👎 When the [preposition](#nimi-suli-poka-luka) "kepeken" becomes a [verb](#nimi-suli-wawa), **Pije** uses it with the **particle "e"**.
 
 | mi kepeken ilo. → mi kepeken e ilo. |
 |:-|
 | *I use the instrument.* |
 
-
-#### nimi lili "e" namako
-*(Additional Direct Object)*
 
 🤔 The direct object of "pana" can become a [transitive verb](#nimi-suli-wawa-luka).
 
@@ -778,9 +667,6 @@ One can express a desire by just a direct object (i.e. the words after the **par
 | *Listen!* → *Hey!* | *Hey Ali, be strong!* |
 
 
-#### nimi lili "o" nasa
-*(Strangaj Volativo, Vokativo kaj Imperativo — Strange Volative, Vocative and Imperative)*
-
 👎 A **volative** is expressed by starting the sentence with an "o".
 
 | ni o kama: ona li lape pona. → o ona li lape pona. |
@@ -790,12 +676,6 @@ One can express a desire by just a direct object (i.e. the words after the **par
 
 ### nimi lili "pi"
 *(Genitive)*
-
-| [↑](#nimi-lili-luka) |
-|:-:|
-| [pi (musi)](#nimi-lili-pi-musi) |
-| [pi (nasa)](#nimi-lili-pi-nasa) |
-
 
 If a genitive phrase (i.e. the words after the **particle** "pi") consists of only one [noun](#nimi-suli-lawa), the **particle** "pi" disappears. So, that [noun](#nimi-suli-lawa) becomes a [modifier](#nimi-suli-poka).
 
@@ -811,18 +691,12 @@ As a rule of thumb, if the **particle** "pi" doesn't add useful information, it 
 | *the person over there* → *that person* |
 
 
-#### nimi lili "pi" musi
-*(Experimental Genitive)*
-
 👍 A genitive phrase (i.e. words after a **particle** "pi") can have another genitive phrase.
 
 | tomo pi telo nasa pi ma ante |
 |:-|
 | *house of foreign beer* |
 
-
-#### nimi lili "pi" nasa
-*(Strange Genitive)*
 
 👎 **Pije** turns the [particle "pi"](#nimi-lili-pi) with a [pronoun](#nimi-suli-lawa-esun) into a [verb](#nimi-suli-wawa).
 
@@ -855,15 +729,6 @@ As a rule of thumb, if the **particle** "pi" doesn't add useful information, it 
 ### nimi lili "en"
 *(Conjunction "and")*
 
-| [↑](#nimi-lili-luka) |
-|:-:|
-| [en (nasa)](#nimi-lili-en-nasa) |
-| [en (namako)](#nimi-lili-en-namako) |
-
-
-#### nimi lili "en" nasa
-*(Strange Conjunction "and")*
-
 👎 A **comma** can become a strange **conjunction** "en".
 
 | tomo pi telo nasa, pi ma ante → tomo pi telo nasa en pi ma ante |
@@ -878,10 +743,7 @@ As a rule of thumb, if the **particle** "pi" doesn't add useful information, it 
 | *Both you and I are children.* | *She is a child.* |
 
 
-#### nimi lili "en" namako
-*(Additonal Conjunction "and")*
-
-**Sonja** uses the **particle** "en" only in order to combine multiple subjects (i.e. the words before the **particle** "li").
+🤔 **Sonja** uses the **particle** "en" only in order to combine multiple subjects (i.e. the words before the **particle** "li").
 
 | toki sina en pali sina li sama. |
 |:-|
@@ -891,11 +753,6 @@ As a rule of thumb, if the **particle** "pi" doesn't add useful information, it 
 ### nimi lili "anu"
 *(Conjunction "or")*
 
-| [↑](#nimi-lili-luka) |
-|:-:|
-| [anu (namako)](#nimi-lili-anu-namako) |
-
-
 By means of "anu seme" one can express a yes-no-question. In this case "seme" is a [verb](#nimi-suli-wawa).
 
 | ona li mama anu seme? |
@@ -903,18 +760,12 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 | *Is she a parent?* |
 
 
-#### nimi lili "anu" namako
-*(Additional Conjunction "or")*
-
 🤔 In front of words and after the same words negated, the **particle** "anu" disappears.
 
 | ona li mama ala anu mama? → ona li mama ala mama? |
 |:-|
 | *Is she a parent?* |
 
-
-#### nimi lili "anu" nasa
-*(Stranga Konjunkcio "aŭ" — Strange Conjunction "or")*
 
 👎 According to **Pije**, sentences with "anu seme" have the rude conotation of "or what".
 
@@ -925,10 +776,6 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 
 ### nimi lili "la"
 *(Contextual Fragment)*
-
-| [↑](#nimi-lili-luka) |
-|:-:|
-| [la (nasa)](#nimi-lili-la-nasa) |
 
 By means of the **particle "la"**, a [preposition](#nimi-suli-poka-luka) can be at the beginning of a [sentence](#mute-nimi).
 
@@ -951,10 +798,7 @@ If "ni" at the beginning of a [sentence](#mute-nimi) accompanies a [subordinate 
 | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
 
-#### nimi lili "la" nasa
-*(Strange Contextual Fragment)*
-
-👎 **Pije** doesn't use [prepositions](#nimi-suli-poka-luka) at the beginning of a [sentence](#mute-nimi). But he uses [strange prepositions](#nimi-suli-poka-luka-nasa) instead.
+👎 **Pije** doesn't use [prepositions](#nimi-suli-poka-luka) at the beginning of a [sentence](#mute-nimi). But he uses strange [prepositions](#nimi-suli-poka-luka) instead.
 
 | sina pu tan jan seme? → tan pi jan seme la sina pu? |
 |:-|
@@ -964,20 +808,12 @@ If "ni" at the beginning of a [sentence](#mute-nimi) accompanies a [subordinate 
 # sitelen pi poka nimi
 *(Punctuation)*
 
-| [↑](#nasin-toki-pi-toki-pona) |
-|:-:|
-| [sitelen musi pi poka nimi](#sitelen-musi-pi-poka-nimi) |
-| [sitelen nasa pi poka nimi](#sitelen-nasa-pi-poka-nimi) |
-
 **Sonja** uses **subordinate clauses** only at the end of a **sentence**. In this case, the **comma** becomes a **colon**. A question can be a subordinate clause.
 
 | mi sona e ni: mi anpa. | wile sona nanpa wan li ni: ale li pona anu ike? |
 |:-|:-|
 | *I know that I am low.* | *The question number one is whether the universe is good or evil.* |
 
-
-## sitelen musi pi poka nimi
-*(Experimental Punctuation)*
 
 👍 **Commas** remain.
 
@@ -1025,9 +861,6 @@ If "ni" at the beginning of a [sentence](#mute-nimi) accompanies a [subordinate 
 | *Everything is good.* |
 
 
-## sitelen nasa pi poka nimi
-*(Strange Punctuation)*
-
 👎 **Pije** leaves out the **comma** before the **particle** "[la](#nimi-lili-la)".
 
 | mi pona tawa jan, la jan li pona tawa mi. → mi pona tawa jan la jan li pona tawa mi. |
@@ -1052,11 +885,6 @@ If "ni" at the beginning of a [sentence](#mute-nimi) accompanies a [subordinate 
 # sitelen pona
 *(Hieroglyphs)*
 
-| [↑](#nasin-toki-pi-toki-pona) |
-|:-:|
-| [sitelen pona musi](musi/sitelen/pona/sitelen-pona-musi.md) |
-
-
 [nouns](#nimi-suli-lawa) and their first [adjective](#nimi-suli-poka) become one.
 
 | <img src="musi/sitelen/pona/toki-pona.png" height="25"> |  <img src="musi/sitelen/pona/sitelen-pona-musi.png" height="25"> | 
@@ -1077,9 +905,6 @@ If "ni" at the beginning of a [sentence](#mute-nimi) accompanies a [subordinate 
 |:--:|:--:| 
 | *ma Kanata* | *toki nanpa wan* |
 
-
-## sitelen pona musi
-*(Experimental Hieroglyphs)*
 
 👍 [Transitive particles](#nimi-lili-luka) are below.
 
