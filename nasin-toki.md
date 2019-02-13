@@ -530,11 +530,9 @@ When a [verb](#nimi-suli-wawa) and a **preposition** are the same, the **preposi
 | *This book is mine.* | *This book is about me.* |
 
 
----
-
 "tawa poka" and "lon poka" can have the meaning of the [experimental preposition](#nimi-suli-poka-luka-musi) "ante".
 
-| jan li suli mute, mani li suli lili. → jan li suli mute tawa poka mani. → jan li suli mute lon poka mani. 👍 |
+| jan li suli mute, mani li suli lili. → jan li suli mute tawa/lon poka mani. → jan li suli mute ante mani. 👍 |
 |:-|
 | *People are more important than money.* |
 
