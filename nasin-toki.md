@@ -9,9 +9,9 @@
 | [sitelen pona](#sitelen-pona) |
 | [ale pi nimi mute](#ale-pi-nimi-mute) |
  
-The sections about **"Experimental Language"** treat ways of using the language, which seem to me to be in harmony with the **Toki Pona Book**, but which only a few people use.
+👍 The sections about **"Experimental Language"** treat ways of using the language, which seem to me to be in harmony with the **Toki Pona Book**, but which only a few people use.
 
-| o luka ala e seli! 👍 |
+| o luka ala e seli! |
 |:-|
 | *Don't touch the fire!* |
 
@@ -80,7 +80,6 @@ The sections about **"Additional Language"** treat **Sonja**'s additional way of
 
 | [↑](#nimi-suli-lawa) |
 |:-:|
-| [nimi suli lawa ijo musi](#nimi-suli-lawa-ijo-musi) |
 | [nimi suli lawa ijo nasa](#nimi-suli-lawa-ijo-nasa) |
 | [nimi suli lawa palisa](#nimi-suli-lawa-palisa) |
 | [nimi suli lawa nasin](#nimi-suli-lawa-nasin) |
@@ -98,14 +97,6 @@ The sections about **"Additional Language"** treat **Sonja**'s additional way of
 | moku | pan | soweli |
 |:-|:-|:-|
 | *mouthful* → *food* | *seed* → *bread* | *mammal* → *meat* |
-
-
-#### nimi suli lawa ijo musi
-*(Experimental Thing Nouns)*
-
-| sijelo 👍 |
-|:-|
-| *living* → *living thing*, *life-form* |
 
 
 #### nimi suli lawa ijo nasa
@@ -144,21 +135,16 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#nimi-lili-pi
 #### nimi suli lawa palisa musi
 *(Experimental Correlatives)*
 
-| wan 👍 |
-|:-|
-| *a certain, something certain* |
+👍 A [subordinate clause](#mute-nimi-suli-poka) can be thought of as an extension of the **correlative** "ni".
 
-
-A [subordinate clause](#mute-nimi-suli-poka) can be thought of as an extension of the **correlative** "ni".
-
-| suno pi mute ni: mi ken ala lape 👍 |
+| suno pi mute ni: mi ken ala lape |
 |:-|
 | *so much light, that I can't sleep* |
 
 
-In a **relative clause** (i.e. a [subordinate clause](#mute-nimi-suli-poka) with "ona ni"), "ona ni li" and "e ona ni" can disappear.
+👍 In a **relative clause** (i.e. a [subordinate clause](#mute-nimi-suli-poka) with "ona ni"), "ona ni li" and "e ona ni" can disappear.
 
-| mi lukin e nena ni: (ona ni li) suli mute. 👍 | nena ni: mi lukin (e ona ni), li suli. 👍 |
+| mi lukin e nena ni: (ona ni li) suli mute. | nena ni: mi lukin (e ona ni), li suli. |
 |:-|:-|
 | *I'm seeing the mountain, that is big.* | *The mountain, that I'm seeing, is big.* |
 
@@ -198,16 +184,16 @@ Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 #### nimi suli lawa nasin musi
 *(Experimental Direction Nouns)*
 
-When a [verb](#nimi-suli-wawa) becomes a **noun**, it can mean the place of its accomplishment.
+👍 When a [verb](#nimi-suli-wawa) becomes a **noun**, it can mean the place of its accomplishment.
 
-| mi lon lape. 👍 | sina tan lape. 👍 | ona li tawa lape. 👍 |
+| mi lon lape. | sina tan lape. | ona li tawa lape. |
 |:-|:-|:-|
 | *I am resting.* | *You have been resting.* | *She is going to rest.* |
 
 
-The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **direction nouns**.
+👍 The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **direction nouns**.
 
-| lon awen 👍 | lon kama 👍 | lon pini 👍 |
+| lon awen | lon kama | lon pini |
 |:-|:-|:-|
 | *during* | *before* | *after* |
 
@@ -240,9 +226,9 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 #### nimi suli lawa sijelo musi
 *(Experimental Life-form Nouns)*
 
-**Life-form nouns** imply the word "sijelo", meaning "life-form".
+👍 **Life-form nouns** imply the word "sijelo", meaning "life-form".
 
-| akesi 👍 |
+| akesi |
 |:-|
 | *cold-blooded* → *reptile*, *amphibian* |
 
@@ -281,9 +267,9 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 #### nimi suli lawa ilo musi
 *(Experimental Tool Nouns)*
 
-"insa (tawa)" + **tool noun** expresses that something is do-able, whereas "open (tawa)" + **tool noun** expresses that something is not obstructing to the tool implied.
+👍 "insa (tawa)" + **tool noun** expresses that something is do-able, whereas "open (tawa)" + **tool noun** expresses that something is not obstructing to the tool implied.
 
-| insa lukin 👍 | open lukin 👍 |
+| insa lukin | open lukin |
 |:-|:-|
 | *visible* | *transparent* |
 
@@ -425,32 +411,25 @@ The [prepositions](#nimi-suli-poka-luka) "lon", "tan", "tawa" can become **auxil
 #### nimi suli poka nanpa musi
 *(Experimental Numerals)*
 
-The [conjunction "en"](#nimi-lili-en) can be with two **numerals**.
+👍 The [conjunction "en"](#nimi-lili-en) can be with two **numerals**.
 
-| sike esun tu 👍 | tenpo suno luka tu en tu tu 👍 |
+| sike esun tu | tenpo suno luka tu en tu tu |
 |:-|:-|
 | *two weeks* | *fourteen days* |
 
 
-By means of a **numeral** of a small quantity and a **numeral** of a big quantity one can express a quantity between zero and one.
+👍 By means of a **numeral** of a small quantity and a **numeral** of a big quantity one can express a quantity between zero and one.
 
-| mi pana e wan wan pi tu tu tawa sina. 👍 | mi pana e wan mute pi tu tu tawa sina. 👍 |
+| mi pana e wan wan pi tu tu tawa sina. | mi pana e wan mute pi tu tu tawa sina. |
 |:-|:-|
 | *I give you one quarter.* | *I give you three quarters.* |
 
 
-The opposite of "nanpa wan" is "nanpa ale".
-
-| sina nanpa ale. 👍 |
-|:-|
-| *You're the last.* |
-
-
-In a row, the one whose turn it's going to be is "nanpa kama", the one whose turn it is is "nanpa awen" and the one whose turn it has been is "nanpa pini".
+👍 In a row, the one whose turn it's going to be is "nanpa kama", the one whose turn it is is "nanpa awen" and the one whose turn it has been is "nanpa pini".
 
 | sina nanpa kama. | sina nanpa awen. | sina nanpa pini. |
 |:-|:-|:-|
-| *It's going to be your turn.* 👍 | *It's your turn.* 👍 | *It's been your turn.* 👍 |
+| *It's going to be your turn.* | *It's your turn.* | *It's been your turn.* |
 
 
 #### nimi suli poka nanpa namako
@@ -509,31 +488,30 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#nimi-li
 #### nimi suli poka luka musi
 *(Experimental Prepositions)*
 
+👍 When a [verb](#nimi-suli-wawa) and a **preposition** are the same, the **preposition** disappears and the direct object moves to the end of the sentence.
 
-When a [verb](#nimi-suli-wawa) and a **preposition** are the same, the **preposition** disappears and the direct object moves to the end of the sentence.
-
-| mi tawa e ona tawa tomo seli. → mi tawa tomo seli e ona. 👍 | mi tawa ala e ona tawa tomo seli. → mi tawa ala tomo seli e ona. 👍 |
+| mi tawa e ona tawa tomo seli. → mi tawa tomo seli e ona. | mi tawa ala e ona tawa tomo seli. → mi tawa ala tomo seli e ona. |
 |:-|:-|
 | *I'm moving it to the kitchen.* | *I'm not moving it to the kitchen.* |
 
 
-"ijo" + [modifier](#nimi-suli-poka) can express posession or topic.
+👍 "ijo" + [modifier](#nimi-suli-poka) can express posession or topic.
 
-| lipu ni li ijo mi. 👍 | lipu ni li toki e ijo mi. 👍 |
+| lipu ni li ijo mi. | lipu ni li toki e ijo mi. |
 |:-|:-|
 | *This book is mine.* | *This book is about me.* |
 
 
-"tawa poka" and "lon poka" can have the meaning of the [experimental preposition](#nimi-suli-poka-luka-musi) "ante".
+👍 "tawa poka" and "lon poka" can have the meaning of the [experimental preposition](#nimi-suli-poka-luka-musi) "ante".
 
-| jan li suli mute, mani li suli lili. → jan li suli mute tawa/lon poka mani. → jan li suli mute ante mani. 👍 |
+| jan li suli mute, mani li suli lili. → jan li suli mute tawa/lon poka mani. → jan li suli mute ante mani. |
 |:-|
 | *People are more important than money.* |
 
 
-"taso ni la" can become "taso".
+👍 "taso" as a [particle](#nimi-lili) is an abbreviation of "taso ni la".
 
-| taso ni la mije en meli li pali li pilin pona. → taso mije en meli li pali li pilin pona. 👍 |
+| taso ni la mije en meli li pali li pilin pona. → taso mije en meli li pali li pilin pona. |
 |:-|
 | *Independent from that, men and women work and are happy.* → *But men and women work and are happy.* |
 
@@ -544,9 +522,6 @@ When a [verb](#nimi-suli-wawa) and a **preposition** are the same, the **preposi
 | a → lon 🤔 |
 |:-|
 | *true* |
-
-
-According to **Sonja**, "taso" is a [particle](#nimi-lili).
 
 
 #### nimi suli poka luka nasa
@@ -647,23 +622,23 @@ An **interjection** can become a [thing verb](#nimi-suli-wawa-ijo).
 #### nimi lili kalama musi
 *(Experimental Interjections)*
 
-An **interjection** can become a [modifier](#nimi-suli-poka).
+👍 An **interjection** can become a [modifier](#nimi-suli-poka).
 
-| a 👍 |
+| a |
 |:-|
 | *indeed, yes* |
 
 
 One can reply by a phrase only, but it can't start with a **particle**.
 
-| ona li mama. → mama. 👍 | o jo e moku pona! → moku pona! 👍 |
+| ona li mama. → mama. | o jo e moku pona! → moku pona! |
 |:-|:-|
 | *She is a parent.* → *She is., Yes.* | *Have a good meal!* → *Bon appétit!* |
 
 
-Two same words have the meaning of the [modifier](#nimi-suli-poka) "a".
+👍 Two same words have the meaning of the [modifier](#nimi-suli-poka) "a".
 
-| sina suli a! → sina suli suli! 👍 |
+| sina suli a! → sina suli suli! |
 |:-|
 | *You are really tall!* |
 
@@ -707,9 +682,9 @@ A [sentence](#mute-nimi) can have multiple predicates (i.e. the words after the 
 #### nimi lili "li" musi
 *Experimental Subject and Predicate)*
 
-After "mi" or "sina" the [particle "li"](#nimi-lili-li) doesn't disappear, if there is a second [particle "li"](#nimi-lili-li).
+👍 After "mi" or "sina" the [particle "li"](#nimi-lili-li) doesn't disappear, if there is a second [particle "li"](#nimi-lili-li).
 
-| mi lukin mute. mi sona lili. → mi li lukin mute li sona lili. 👍 |
+| mi lukin mute. mi sona lili. → mi li lukin mute li sona lili. |
 |:-|
 | *I am seeing much and knowing little.* |
 
@@ -833,9 +808,9 @@ As a rule of thumb, if the **particle** "pi" doesn't add useful information, it 
 #### nimi lili "pi" musi
 *(Experimental Genitive)*
 
-A genitive phrase (i.e. words after a **particle** "pi") can have another genitive phrase.
+👍 A genitive phrase (i.e. words after a **particle** "pi") can have another genitive phrase.
 
-| tomo pi telo nasa pi ma ante 👍 |
+| tomo pi telo nasa pi ma ante |
 |:-|
 | *house of foreign beer* |
 
@@ -998,48 +973,48 @@ If "ni" at the beginning of a [sentence](#mute-nimi) accompanies a [subordinate 
 ## sitelen musi pi poka nimi
 *(Experimental Punctuation)*
 
-**Commas** remain.
+👍 **Commas** remain.
 
-| ona li lili, li lete. 👍 |
+| ona li lili, li lete. |
 |:-|
 | *It is small and cold.* |
 
 
-When the [particle "pi"](#nimi-lili-pi) disappears, it becomes a **hiphen**.
+👍 When the [particle "pi"](#nimi-lili-pi) disappears, it becomes a **hiphen**.
 
-| tomo (pi) tawa, (pi) sina → tomo-tawa-sina 👍 |
+| tomo (pi) tawa, (pi) sina → tomo-tawa-sina |
 |:-|
 | *your car* |
 
 
-When a different word disappears, it becomes an **apostrophe**.
+👍 When a different word disappears, it becomes an **apostrophe**.
 
-| sina li suli. → sina ' suli. 👍 | ijo-ale li pona. → '-ale li pona. 👍 |
+| sina li suli. → sina ' suli. | ijo-ale li pona. → '-ale li pona. |
 |:-|:-|
 | *You're tall.* | *Everything is good.* |
 
-| ona li moku e ijo. → ona li moku ''. 👍 | ona li ijo-moku. → ona li '-moku. 👍 |
+| ona li moku e ijo. → ona li moku ''. | ona li ijo-moku. → ona li '-moku. |
 |:-|:-|
 | *It is eating.* | *It is food.* |
 
 
-[Prepositions](#nimi-suli-poka-luka) and [auxiliary verbs](#nimi-suli-wawa-poka) have a **plus sign**.
+👍 [Prepositions](#nimi-suli-poka-luka) and [auxiliary verbs](#nimi-suli-wawa-poka) have a **plus sign**.
 
-| ona li pana e lipu tawa+sina. 👍 | ona li wile+lape. 👍 |
+| ona li pana e lipu tawa+sina. | ona li wile+lape. |
 |:-|:-|
 | *She gives the book to you.* | *She needs to sleep.* |
 
 
-[Quotations](#nimi-lili-pona) can have a **colon**.
+👍 [Quotations](#nimi-lili-pona) can have a **colon**.
 
-| jan:Sonja 👍 | sina ' nanpa:wan 👍 | toki:nanpa:wan 👍 |
+| jan:Sonja | sina ' nanpa:wan | toki:nanpa:wan |
 |:-|:-|:-|
 | *Sonja* | *You are number one.* | *the first language* |
 
 
-When a [noun](#nimi-suli-lawa) disappears, its [modifier](#nimi-suli-poka) can have an **upper-case letter**.
+👍 When a [noun](#nimi-suli-lawa) disappears, its [modifier](#nimi-suli-poka) can have an **upper-case letter**.
 
-| ijo ale li pona. → '-ale li pona. → Ale li pona. 👍 |
+| ijo ale li pona. → '-ale li pona. → Ale li pona. |
 |:-|
 | *Everything is good.* |
 
@@ -1100,48 +1075,49 @@ At the end of a sentence, a [preposition](#nimi-suli-poka-luka) can have a **com
 ## sitelen pona musi
 *(Experimental Hieroglyphs)*
 
-[Transitive particles](#nimi-lili-luka) are below.
+👍 [Transitive particles](#nimi-lili-luka) are below.
 
-| <img src="musi/sitelen/pona/ale-li-pona.png" height="50"> 👍 | <img src="musi/sitelen/pona/jan-ala-li-ike.png" height="50"> 👍 | <img src="musi/sitelen/pona/mi-o-moku-e-ijo-pona.png" height="50"> 👍 | <img src="musi/sitelen/pona/o-kute-e-mama-sina.png" height="50"> 👍 |
+| <img src="musi/sitelen/pona/ale-li-pona.png" height="50"> | <img src="musi/sitelen/pona/jan-ala-li-ike.png" height="50"> | <img src="musi/sitelen/pona/mi-o-moku-e-ijo-pona.png" height="50"> | <img src="musi/sitelen/pona/o-kute-e-mama-sina.png" height="50"> |
 |:--:|:--:|:--:|:--:|
 | *ale li pona.* | *jan ala li ike.* | *mi o moku e ijo pona.* | *o kute e mama sina.* |
 
 
-[Prepositions](#nimi-suli-poka-luka) are above.
+👍 [Prepositions](#nimi-suli-poka-luka) are above.
 
-| <img src="musi/sitelen/pona/mi-lon-tomo.png" height="50"> 👍 | <img src="musi/sitelen/pona/wawa-li-lon-insa.png" height="75"> 👍 | <img src="musi/sitelen/pona/mi-pana-e-kala-tawa-ona-lon-tomo.png" height="75"> 👍 | <img src="musi/sitelen/pona/tan-seme-la-soweli-wawa-pimeja-li-moku-e-ona.png" height="75"> 👍 |
+| <img src="musi/sitelen/pona/mi-lon-tomo.png" height="50"> | <img src="musi/sitelen/pona/wawa-li-lon-insa.png" height="75"> | <img src="musi/sitelen/pona/mi-pana-e-kala-tawa-ona-lon-tomo.png" height="75"> | <img src="musi/sitelen/pona/tan-seme-la-soweli-wawa-pimeja-li-moku-e-ona.png" height="75"> |
 |:--:|:--:|:--:|:--:| 
 | *mi lon tomo.* | *wawa li lon insa.* | *mi pana e kala tawa ona lon tomo.* | *tan seme la soweli wawa pimeja li moku e ona?* |
 
-[Auxiliary Verbs](#nimi-suli-wawa-poka) are above.
 
-| <img src="musi/sitelen/pona/mi-kama-sona-e-toki-pona.png" height="75"> 👍 |
+👍 [Auxiliary Verbs](#nimi-suli-wawa-poka) are above.
+
+| <img src="musi/sitelen/pona/mi-kama-sona-e-toki-pona.png" height="75"> |
 |:--:| 
 | *mi kama sona e toki pona.* |
 
 
-[Subordinate clauses](#mute-nimi-suli-poka) are below "ni".
+👍 [Subordinate clauses](#mute-nimi-suli-poka) are below "ni".
 
-| <img src="musi/sitelen/pona/mi-sona-e-ni-mi-anpa.png" height="50"> 👍 |
+| <img src="musi/sitelen/pona/mi-sona-e-ni-mi-anpa.png" height="50"> |
 |:--:| 
 | *mi sona e ni: mi anpa.* |
 
 
-If "ni" is missing, the [subordinate clause](#mute-nimi-suli-poka) is not below.
+👍 If "ni" is missing, the [subordinate clause](#mute-nimi-suli-poka) is not below.
 
-| <img src="musi/sitelen/pona/mi-pona-tawa-jan-la-jan-li-pona-tawa-mi.png" height="75"> 👍 |
+| <img src="musi/sitelen/pona/mi-pona-tawa-jan-la-jan-li-pona-tawa-mi.png" height="75"> |
 |:--:| 
 | ~~lon ni,~~ *mi pona tawa jan, la jan li pona tawa mi.* |
 
 
-"taso" is above.
+👍 "taso" is written above.
 
-| <img src="musi/sitelen/pona/taso-mije-en-meli-li-pali-li-pilin-pona.png" height="75"> 👍 |
+| <img src="musi/sitelen/pona/taso-mije-en-meli-li-pali-li-pilin-pona.png" height="75"> |
 |:--:| 
 | *taso mije en meli li pali li pilin pona.* |
 
 
-👍 [Pronouns](#nimi-suli-lawa-esun) and [simple nouns](#nimi-suli-lawa-pona) don't become part of another [noun](#nimi-suli-lawa).
+👍 [Simple nouns](#nimi-suli-lawa-pona) don't become part of another [noun](#nimi-suli-lawa).
 
 | <img src="musi/sitelen/pona/mi-weka-e-ike-jan-la-mi-weka-e-ike-mi.png" height="50"> |
 |:--:| 
