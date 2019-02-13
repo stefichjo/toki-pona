@@ -6,8 +6,8 @@
 | [nimi suli](#nimi-suli) |
 | [nimi lili](#nimi-lili) |
 | [sitelen pi poka nimi](#sitelen-pi-poka-nimi) |
-| [sitelen pona](sitelen-pona.md) |
 | [ale pi nimi mute](#ale-pi-nimi-mute) |
+| [sitelen pona](sitelen-pona.md) |
 
 
 👍 — Sections about **"Experimental Language"** describe "pu-compliant" ways of using the language, even though they are not mentioned explicitly in the **Toki Pona Book**.
