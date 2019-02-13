@@ -9,16 +9,16 @@
 | [sitelen pona](#sitelen-pona) |
 | [ale pi nimi mute](#ale-pi-nimi-mute) |
  
-👍 The sections about **"Experimental Language"** treat ways of using the language, which seem to me to be in harmony with the **Toki Pona Book**, but which only a few people use.
+👍 — Sections about **"Experimental Language"** describe "pu-compliant" ways of using the language, even though they are not mentioned explicitly in the **Toki Pona Book**.
 
 | o luka ala e seli! |
 |:-|
 | *Don't touch the fire!* |
 
 
-The sections about **"Strange Language"** treat the additional way of how speakers of Toki Pona dialects use the language.
+👎 — Sections about **"Strange Language"** describe common mistakes and/or pseudo-grammar that don't comply with the **Toki Pona Book**.
 
-| mi tawa lon poka sina. → mi tawa poka sina. 👎 |
+| mi tawa lon poka sina. → mi tawa poka sina. |
 |:-|
 | *I am going with you.* |
 
@@ -102,9 +102,9 @@ The sections about **"Additional Language"** treat **Sonja**'s additional way of
 #### nimi suli lawa ijo nasa
 *(Strange Thing Nouns)*
 
-The [modifiers](#nimi-suli-poka) (or [prepositions](#nimi-suli-poka-luka)) "ante" and "sama" can become **thing nouns**.
+👎 The [modifiers](#nimi-suli-poka) (or [prepositions](#nimi-suli-poka-luka)) "ante" and "sama" can become **thing nouns**.
 
-| ijo ante → ante 👎 | ijo sama → sama 👎 |
+| ijo ante → ante | ijo sama → sama |
 |:-|:-|
 | *something different* | *something similar* |
 
@@ -152,9 +152,9 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#nimi-lili-pi
 #### nimi suli lawa palisa nasa
 *(Strange Correlatives)*
 
-The beginning of a [subordinate clause](#mute-nimi-suli-poka) can disappear. Therefore, [auxiliary verbs](#nimi-suli-wawa-poka) and [prepositions](#nimi-suli-poka-luka) can become [nouns](#nimi-suli-lawa).
+👎 The beginning of a [subordinate clause](#mute-nimi-suli-poka) can disappear. Therefore, [auxiliary verbs](#nimi-suli-wawa-poka) and [prepositions](#nimi-suli-poka-luka) can become [nouns](#nimi-suli-lawa).
 
-| jan pi ona li tawa tomo 👎 | jan pi li tawa tomo 👎 | jan pi tawa tomo 👎 |
+| jan pi ona li tawa tomo | jan pi li tawa tomo | jan pi tawa tomo |
 |:-|:-|:-|
 | *somebody, who is going home* | *home-coming person* | *home-comer* |
 
@@ -300,9 +300,9 @@ Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 #### nimi suli wawa pona nasa
 *(Strange Simple Verbs)*
 
-**Simple verbs** can be used as a [modifier](#nimi-suli-poka) implying **passive**.
+👎 **Simple verbs** can be used as a [modifier](#nimi-suli-poka) implying **passive**.
 
-| nimi li sona 👎 |
+| nimi li sona |
 |:-|
 | *the word is known* |
 
@@ -367,16 +367,16 @@ If a **verb** is an **auxiliary verb**, it implies a **transitive verb** before 
 #### nimi suli wawa poka nasa
 *(Strange Auxiliary Verbs)*
 
-The **auxiliary verb** "kama" and the [content word](#nimi-suli) "pini" can disappear.
+👎 The **auxiliary verb** "kama" and the [content word](#nimi-suli) "pini" can disappear.
 
-| ona li kama lape lon pini pi tenpo lili. → ona li lape lon tenpo lili. 👎 |
+| ona li kama lape lon pini pi tenpo lili. → ona li lape lon tenpo lili. |
 |:-|
 | *She will sleep after a short period of time. She will sleep soon. She falls asleep quickly.* |
 
 
-The [prepositions](#nimi-suli-poka-luka) "lon", "tan", "tawa" can become **auxiliary verbs**.
+👎 The [prepositions](#nimi-suli-poka-luka) "lon", "tan", "tawa" can become **auxiliary verbs**.
 
-| mi lon moku e kili. 👎 | sina tan moku e kili. 👎 | ona li tawa moku e kili. 👎 |
+| mi lon moku e kili. | sina tan moku e kili. | ona li tawa moku e kili. |
 |:-|:-|:-|
 | *I am eating an apple.* | *You have been eating an apple.* | *She is going to eat an apple.* |
 
@@ -527,44 +527,44 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#nimi-li
 #### nimi suli poka luka nasa
 *(Strange Prepositions)*
 
-In a contextual phrase (i.e. before the particle "[la](#nimi-lili-la)"), [prepositions](#nimi-suli-poka-luka) can disappear.
+👎 In a contextual phrase (i.e. before the particle "[la](#nimi-lili-la)"), [prepositions](#nimi-suli-poka-luka) can disappear.
 
-| tawa mi la sina jan pona. → mi la sina jan pona. 👎 |
+| tawa mi la sina jan pona. → mi la sina jan pona. |
 |:-|
 | *From my point of view, you are a good person.* |
 
 
-**Pije** removes the [preposition](#nimi-suli-poka-luka) "tawa" before "lukin".
+👎 **Pije** removes the [preposition](#nimi-suli-poka-luka) "tawa" before "lukin".
 
-| sina tawa lukin sama waso. → sina lukin sama waso. 👎 |
+| sina tawa lukin sama waso. → sina lukin sama waso. |
 |:-|
 | *You look like a bird.* |
 
 
-Before "pilin", "ike tan" can disappear.
+👎 Before "pilin", "ike tan" can disappear.
   
-| sina pilin ike tan utala. → sina pilin utala. 👎 |
+| sina pilin ike tan utala. → sina pilin utala. |
 |:-|
 | *You are empathizing badly because of struggle.* → *You are angry.* |
 
 
-"lon" + [direction noun](#nimi-suli-lawa-nasin) can become a [preposition](#nimi-suli-poka-luka).
+👎 "lon" + [direction noun](#nimi-suli-lawa-nasin) can become a [preposition](#nimi-suli-poka-luka).
 
-| mi tawa lon poka sina. → mi tawa poka sina. 👎 |
+| mi tawa lon poka sina. → mi tawa poka sina. |
 |:-|
 | *I'm going with you.* |
 
 
-"lon poka" can disappear.
+👎 "lon poka" can disappear.
 
-| jan li suli mute lon poka mani. → jan li suli mute mani. 👎 |
+| jan li suli mute lon poka mani. → jan li suli mute mani. |
 |:-|
 | *People are more important than money.* |
 
 
-When a [preposition](#nimi-suli-poka-luka) becomes a [noun](#nimi-suli-lawa), its meaning can become that of the word "ijo" after that [preposition](#nimi-suli-poka-luka). **Pije** uses the [preposition](#nimi-suli-poka-luka) "tan" in this way.
+👎 When a [preposition](#nimi-suli-poka-luka) becomes a [noun](#nimi-suli-lawa), its meaning can become that of the word "ijo" after that [preposition](#nimi-suli-poka-luka). **Pije** uses the [preposition](#nimi-suli-poka-luka) "tan" in this way.
 
-| mi sona ala e ni: ni li tan seme. → mi sona ala e tan. 👎 | ona li tawa e ona sama. → ona li tawa e sama. 👎 |
+| mi sona ala e ni: ni li tan seme. → mi sona ala e tan. | ona li tawa e ona sama. → ona li tawa e sama. |
 |:-|:-|
 | *I don't know the reason.* | *It moves itself.* |
 
@@ -692,16 +692,16 @@ A [sentence](#mute-nimi) can have multiple predicates (i.e. the words after the 
 #### nimi lili "li" nasa
 *(Strange Subject and Predicate)*
 
-**Pije** removes only the first [particle "li"](#nimi-lili-li) after "mi" or "sina".
+👎 **Pije** removes only the first [particle "li"](#nimi-lili-li) after "mi" or "sina".
 
-| mi lukin mute. mi sona lili. → mi lukin mute li sona lili. 👎 |
+| mi lukin mute. mi sona lili. → mi lukin mute li sona lili. |
 |:-|
 | *I am seeing much and knowing little.* |
 
 
-When the subject (t.e. the words before the [particle "li"](#nimi-lili-li)) is one word alone, "li" disappears.
+👎 When the subject (t.e. the words before the [particle "li"](#nimi-lili-li)) is one word alone, "li" disappears.
 
-| ona li mama. → ona mama. 👎 |
+| ona li mama. → ona mama. |
 |:-|
 | *She is a parent.* |
 
@@ -731,9 +731,9 @@ One can express a desire by just a direct object (i.e. the words after the **par
 ##### nimi lili "e" nasa
 *(Strange Direct Object)*
 
-When the [preposition](#nimi-suli-poka-luka) "kepeken" becomes a [verb](#nimi-suli-wawa), **Pije** uses it with the **particle "e"**.
+👎 When the [preposition](#nimi-suli-poka-luka) "kepeken" becomes a [verb](#nimi-suli-wawa), **Pije** uses it with the **particle "e"**.
 
-| mi kepeken ilo. → mi kepeken e ilo. 👎 |
+| mi kepeken ilo. → mi kepeken e ilo. |
 |:-|
 | *I use the instrument.* |
 
@@ -775,9 +775,9 @@ With "utala", the [preposition](#nimi-suli-poka-luka) "tawa" can become the [par
 #### nimi lili "o" nasa
 *(Strangaj Volativo, Vokativo kaj Imperativo — Strange Volative, Vocative and Imperative)*
 
-A **volative** is expressed by starting the sentence with an "o".
+👎 A **volative** is expressed by starting the sentence with an "o".
 
-| ni o kama: ona li lape pona. → o ona li lape pona. 👎 |
+| ni o kama: ona li lape pona. → o ona li lape pona. |
 |:-|
 | *May she sleep well.* |
 
@@ -818,30 +818,30 @@ As a rule of thumb, if the **particle** "pi" doesn't add useful information, it 
 #### nimi lili "pi" nasa
 *(Strange Genitive)*
 
-**Pije** turns the [particle "pi"](#nimi-lili-pi) with a [pronoun](#nimi-suli-lawa-esun) into a [verb](#nimi-suli-wawa).
+👎 **Pije** turns the [particle "pi"](#nimi-lili-pi) with a [pronoun](#nimi-suli-lawa-esun) into a [verb](#nimi-suli-wawa).
 
-| ni li ijo mi. → ni li pi mi. 👎 |
+| ni li ijo mi. → ni li pi mi. |
 |:-|
 | *This belongs to me.* → *This is mine.* |
 
 
-**Pije** turns the [particle "e"](#nimi-lili-e) into the [particle "pi"](#nimi-lili-pi) before a noun, which means a direction.
+👎 **Pije** turns the [particle "e"](#nimi-lili-e) into the [particle "pi"](#nimi-lili-pi) before a noun, which means a direction.
 
-| sina lukin e sewi. → sina lukin sewi. 👎 |
+| sina lukin e sewi. → sina lukin sewi. |
 |:-|
 | *You look up.* |
 
 
-The [particle "e"](#nimi-lili-e) can become the [particle "pi"](#nimi-lili-pi).
+👎 The [particle "e"](#nimi-lili-e) can become the [particle "pi"](#nimi-lili-pi).
 
-| mi ante e toki pi sitelen tawa. → mi ante toki e sitelen tawa. 👎 |
+| mi ante e toki pi sitelen tawa. → mi ante toki e sitelen tawa. |
 |:-|
 | *I translate the movie.* |
 
 
-The [particle "pi"](#nimi-lili-pi) can disappear.
+👎 The [particle "pi"](#nimi-lili-pi) can disappear.
 
-| tomo pi telo nasa → tomo telo nasa 👎 |
+| tomo pi telo nasa → tomo telo nasa |
 |:-|
 | *bar* |
 
@@ -858,16 +858,16 @@ The [particle "pi"](#nimi-lili-pi) can disappear.
 #### nimi lili "en" nasa
 *(Strange Conjunction "and")*
 
-A **comma** can become a strange **conjunction** "en".
+👎 A **comma** can become a strange **conjunction** "en".
 
-| tomo pi telo nasa, pi ma ante → tomo pi telo nasa en pi ma ante 👎 |
+| tomo pi telo nasa, pi ma ante → tomo pi telo nasa en pi ma ante |
 |:-|
 | *foreign bar* |
 
 
-Every subject (i.e. the words before the [particle "li"](#nimi-lili-li) can have a strange **particle** "en".
+👎 Every subject (i.e. the words before the [particle "li"](#nimi-lili-li) can have a strange **particle** "en".
 
-| en sina en mi li jan lili. 👎 | en ona li jan lili. 👎 |
+| en sina en mi li jan lili. | en ona li jan lili. |
 |:-|:-|
 | *Both you and I are children.* | *She is a child.* |
 
@@ -910,9 +910,9 @@ In front of words and after the same words negated, the **particle** "anu" disap
 #### nimi lili "anu" nasa
 *(Stranga Konjunkcio "aŭ" — Strange Conjunction "or")*
 
-According to **Pije**, sentences with "anu seme" have the rude conotation of "or what".
+👎 According to **Pije**, sentences with "anu seme" have the rude conotation of "or what".
 
-| ona li mama anu seme? 👎 |
+| ona li mama anu seme? |
 |:-|
 | *Is she a parent or what?* |
 
@@ -948,9 +948,9 @@ If "ni" at the beginning of a [sentence](#mute-nimi) accompanies a [subordinate 
 #### nimi lili "la" nasa
 *(Strange Contextual Fragment)*
 
-**Pije** doesn't use [prepositions](#nimi-suli-poka-luka) at the beginning of a [sentence](#mute-nimi). But he uses [strange prepositions](#nimi-suli-poka-luka-nasa) instead.
+👎 **Pije** doesn't use [prepositions](#nimi-suli-poka-luka) at the beginning of a [sentence](#mute-nimi). But he uses [strange prepositions](#nimi-suli-poka-luka-nasa) instead.
 
-| sina pu tan jan seme? → tan pi jan seme la sina pu? 👎 |
+| sina pu tan jan seme? → tan pi jan seme la sina pu? |
 |:-|
 | *Because of whom do you interact with the Toki Pona book?* |
 
@@ -1022,23 +1022,23 @@ If "ni" at the beginning of a [sentence](#mute-nimi) accompanies a [subordinate 
 ## sitelen nasa pi poka nimi
 *(Strange Punctuation)*
 
-**Pije** leaves out the **comma** before the **particle** "[la](#nimi-lili-la)".
+👎 **Pije** leaves out the **comma** before the **particle** "[la](#nimi-lili-la)".
 
-| mi pona tawa jan, la jan li pona tawa mi. → mi pona tawa jan la jan li pona tawa mi. 👎 |
+| mi pona tawa jan, la jan li pona tawa mi. → mi pona tawa jan la jan li pona tawa mi. |
 |:-|
 | *If I'm good to people, people are good to me.* |
 
 
-**Pije** never uses a **comma** before "taso". Instead, he uses a **period**.
+👎 **Pije** never uses a **comma** before "taso". Instead, he uses a **period**.
 
-| mi wile lukin e tomo mi, taso mi jo ala e tenpo. → mi wile lukin e tomo mi. taso mi jo ala e tenpo. 👎 |
+| mi wile lukin e tomo mi, taso mi jo ala e tenpo. → mi wile lukin e tomo mi. taso mi jo ala e tenpo. |
 |:-|
 | *I want to see my house, but I don't have time.* |
 
 
-At the end of a sentence, a [preposition](#nimi-suli-poka-luka) can have a **comma**.
+👎 At the end of a sentence, a [preposition](#nimi-suli-poka-luka) can have a **comma**.
 
-| mi pana e lipu, tawa sina. 👎 |
+| mi pana e lipu, tawa sina. |
 |:-|
 | *I am giving the book to you.* |
 
