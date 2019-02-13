@@ -6,6 +6,7 @@
 | [nimi suli](#nimi-suli) |
 | [nimi lili](#nimi-lili) |
 | [sitelen pi poka nimi](#sitelen-pi-poka-nimi) |
+| [sitelen pona](#sitelen-pona.md) |
 | [ale pi nimi mute](#ale-pi-nimi-mute) |
 
 

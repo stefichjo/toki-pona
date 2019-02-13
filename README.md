@@ -1,7 +1,6 @@
 # toki pona
 
 * [nasin toki pi toki pona](nasin-toki.md) *(Toki Pona Grammar)*
-* [sitelen pona](sitelen-pona.md) *(Hieroglyphs)*
 * [toki sin](toki-sin.md) *(Tokiponidoj — Toki Pona Spin-Offs)*
 * [toki insa pakala](toki-insa-pakala.md) *(Paralogismoj — Fallacies)*
 * [mute nimi](https://tatoeba.org/deu/sentences/of_user/Tepan) *(mute nimi pi lipu sona Tatowepa — Tatoeba sentences)*
