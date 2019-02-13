@@ -563,8 +563,7 @@ Before "pilin", "ike tan" can disappear.
 | *You are empathizing badly because of struggle.* → *You are angry.* |
 
 
-"lon ..." can become a [preposition](#nimi-suli-poka-luka).
-
+"lon" + [direction noun](#nimi-suli-lawa-nasin) can become a [preposition](#nimi-suli-poka-luka).
 
 | mi tawa lon poka sina. → mi tawa poka sina. 👎 |
 |:-|
