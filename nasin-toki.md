@@ -1,3 +1,4 @@
+# nasin toki pi toki pona
 *(Toki Pona Grammar)*
 
 | nasin toki |
@@ -596,7 +597,7 @@ When a [preposition](#nimi-suli-poka-luka) becomes a [noun](#nimi-suli-lawa), it
 # nimi lili
 *(Particles)*
 
-| [↑](#nimi-lili) |
+| [↑](#nasin-toki-pi-toki-pona) |
 |:-:|
 | [nimi lili pona](#nimi-lili-pona) |
 | [nimi lili kalama](#nimi-lili-kalama) |
