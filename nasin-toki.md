@@ -1,4 +1,3 @@
-# nasin toki pi toki pona
 *(Toki Pona Grammar)*
 
 | nasin toki |
@@ -46,17 +45,17 @@ The sections about **"Additional Language"** treat **Sonja**'s additional way of
 | [↑](#nimi-suli) |
 |:-:|
 | [nimi suli lawa pona](#nimi-suli-lawa-pona) |
-| [nimi suli lawa esun](#nimi-suli-lawa-esun) |
 | [nimi suli lawa ijo](#nimi-suli-lawa-ijo) |
-| [nimi suli lawa palisa](#nimi-suli-lawa-palisa) |
-| [nimi suli lawa nasin](#nimi-suli-lawa-nasin) |
-| [nimi suli lawa sijelo](#nimi-suli-lawa-sijelo) |
 | [nimi suli lawa jan](#nimi-suli-lawa-jan) |
 | [nimi suli lawa ilo](#nimi-suli-lawa-ilo) |
 
 
 ### nimi suli lawa pona
 *(Simple Nouns)*
+
+| [↑](#nimi-suli-lawa) |
+|:-:|
+| [nimi suli lawa esun](#nimi-suli-lawa-esun) |
 
 **Simple nouns** don't have an additional meaning as **modifiers** or **verbs**.
 
@@ -82,6 +81,9 @@ The sections about **"Additional Language"** treat **Sonja**'s additional way of
 |:-:|
 | [nimi suli lawa ijo musi](#nimi-suli-lawa-ijo-musi) |
 | [nimi suli lawa ijo nasa](#nimi-suli-lawa-ijo-nasa) |
+| [nimi suli lawa palisa](#nimi-suli-lawa-palisa) |
+| [nimi suli lawa nasin](#nimi-suli-lawa-nasin) |
+| [nimi suli lawa sijelo](#nimi-suli-lawa-sijelo) |
 
 **Thing nouns** can imply the word "ijo".
 
@@ -120,7 +122,7 @@ The [modifiers](#nimi-suli-poka) (or [prepositions](#nimi-suli-poka-luka)) "ante
 
 **Correlatives** are **thing nouns**, i.e. they can imply the word "ijo".
 
-| [↑](#nimi-suli-lawa) |
+| [↑](#nimi-suli-lawa-ijo) |
 |:-:|
 | [nimi suli lawa palisa musi](#nimi-suli-lawa-palisa-musi) |
 | [nimi suli lawa palisa nasa](#nimi-suli-lawa-palisa-nasa) |
@@ -179,7 +181,7 @@ Acording to **Sonja**, "seme" is a [particle](#nimi-lili).
 ### nimi suli lawa nasin
 *(Direction Nouns)*
 
-| [↑](#nimi-suli-lawa) |
+| [↑](#nimi-suli-lawa-ijo) |
 |:-:|
 | [nimi suli lawa nasin musi](#nimi-suli-lawa-nasin-musi) |
 | [nimi suli lawa nasin namako](#nimi-suli-lawa-nasin-namako) |
@@ -227,7 +229,7 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 ### nimi suli lawa sijelo
 *(Life-form Nouns)*
 
-| [↑](#nimi-suli-lawa) |
+| [↑](#nimi-suli-lawa-ijo) |
 |:-:|
 | [nimi suli lawa sijelo musi](#nimi-suli-lawa-sijelo-musi) |
 
@@ -270,7 +272,6 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 | [↑](#nimi-suli) |
 |:-:|
 | [nimi suli wawa pona](#nimi-suli-wawa-pona) |
-| [nimi suli wawa ijo](#nimi-suli-wawa-ijo) |
 | [nimi suli wawa poka](#nimi-suli-wawa-poka) |
 
 
@@ -305,7 +306,7 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 
 | mi open e ni lon sewi. → mi open lon sewi. 🤔 |
 |:-|
-| *I begin with the divine." |
+| *I begin with the divine.* |
 
 
 | kama e → pali e 🤔 | open e → pali e 🤔 |
@@ -316,10 +317,11 @@ The [auxiliary verbs](#nimi-suli-wawa-poka) "awen", "kama", "pini" can become **
 ### nimi suli wawa ijo
 *(Thing Verbs)*
 
-| [↑](#nimi-suli-wawa) |
+| [↑](#nimi-suli-wawa-pona) |
 |:-:|
 | [nimi suli wawa ijo nasa](#nimi-suli-wawa-ijo-nasa) |
 | [nimi suli wawa ijo namako](#nimi-suli-wawa-ijo-namako) |
+| [nimi suli wawa ijo](#nimi-suli-wawa-ijo) |
 
 **Thing verbs** are **simple verbs**. As a [noun](#nimi-suli-lawa), they mean the verb's object.
 
@@ -483,7 +485,7 @@ If a [verb](#nimi-suli-wawa) and a **preposition** estas the same, the **preposi
 
 | jan lon poka → jan poka | pona tawa lukin → pona lukin |
 |:-|:-|
-| *neighbor* | *beautiful* |
+| *neighbour* | *beautiful* |
 
 
 #### nimi suli poka luka musi
