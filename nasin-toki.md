@@ -779,9 +779,9 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 |                                                        | [*NUMBER*](#numbers) | **ala**, ale, esun, luka, mute, tu, wan | *NUMBER* 0, **zero** |
 |                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | **ala** — lon | *ADJECTIVE* false |
 | <img src="musi/sitelen/pona/alasa.png" height="42">    | [*SIMPLE VERB*](#simple-verbs) | **alasa**, pali | *VERB* **to hunt**, **forage** |
-| <img src="musi/sitelen/pona/ale.png" height="42">      | [*THING NOUN*](#thing-nouns) | **ale** — wan | whole; **abundant**, **countless**, **bountiful**, **plentiful** → entirety; **abundance**, **life**, **universe** |
-|                                                        | [*CORRELATIVE*](#correlatives) | ala, **ale**, ni, seme, wan | **all**; **every** → **everything** |
-|                                                        | [*NUMBER*](#numbers) | ala, **ale**, esun, luka, mute, tu, wan | **100**, a hundred, infinite |
+| <img src="musi/sitelen/pona/ale.png" height="42">      | [*THING NOUN*](#thing-nouns) | **ale** — wan | *ADJECTIVE* **all**, whole → *NOUN* entirety; **life**, **universe** |
+|                                                        | [*CORRELATIVE*](#correlatives) | ala, **ale**, ni, seme, wan | *ADJECTIVE* **every**; **abundant**, **countless**, **bountiful**, **plentiful** → *NOUN* **everything**; **abundance** |
+|                                                        | [*NUMBER*](#numbers) | ala, **ale**, esun, luka, mute, tu, wan | *NUMBER* 🤔 **100**, 🤔 a hundred, infinite |
 | <img src="musi/sitelen/pona/anpa.png" height="42">     | [*SPATIAL NOUN*](#spatial-nouns) | **anpa** — sewi, lawa — noka | **bowing down**, **downward**, **humble**, **lowly**, **dependent** |
 | <img src="musi/sitelen/pona/ante.png" height="42">     | [*PREPOSITION*](#prepositions) | **ante** — sama | **different**, **altered**, **changed**, **other** → than |
 | <img src="musi/sitelen/pona/anu.png" height="42">      | [*CONJUNCTION*](#conjunctions) | **anu**, en | (…), **or** |
