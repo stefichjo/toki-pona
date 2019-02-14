@@ -569,7 +569,7 @@ An **interjection** can become a [thing verb](#thing-verbs).
 
 
 ### Phrase Particles
-*(…)*
+*(nimi lili luka pi wan pi mute nimi)*
 
 | [↑](#transitive-particles) |
 |:-:|
@@ -809,6 +809,9 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 
 # Dictionary
 *(ale pi nimi mute)*
+
+| [↑](#toki-pona-grammar) |
+|:-:|
 
 | sitelen | | | |
 |:-|:-|:-|:-|
