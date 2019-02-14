@@ -787,8 +787,8 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/ante.png" height="42">     | [*PREPOSITION*](#prepositions) | **ante** — sama | *ADJECTIVE* **different**, **altered**, **changed**, **other** → *PREPOSITION* than |
 | <img src="musi/sitelen/pona/anu.png" height="42">      | [*CONJUNCTION*](#conjunctions) | **anu** — en | *PARTICLE* (alternative), **or** |
 | <img src="musi/sitelen/pona/awen.png" height="42">     | [*PRE-VERB*](#pre-verbs) | **awen**, kama, pini | *ADJECTIVE* **enduring**, **kept**, **protected**, **safe**, **staying**, **waiting** → *PRE-VERB* **to continue to** |
-| <img src="musi/sitelen/pona/e.png" height="42">        | [*PHRASE PARTICLE*](#phrase-particles) | **e**, li, o, pi | **(before the direct object)** |
-| <img src="musi/sitelen/pona/en.png" height="42">       | [*CONJUNCTION*](#conjunctions) | anu — **en** | **(between multiple subjects)** |
+| <img src="musi/sitelen/pona/e.png" height="42">        | [*PHRASE PARTICLE*](#phrase-particles) | **e**, li, o, pi | *PARTICLE* **(before the direct object)** |
+| <img src="musi/sitelen/pona/en.png" height="42">       | [*CONJUNCTION*](#conjunctions) | anu — **en** | *PARTICLE* **(between multiple subjects)**, (between multiple noun-phrases belonging to the same phrase particle) |
 | <img src="musi/sitelen/pona/esun.png" height="42">     | [*PREPOSITION*](#prepositions) | **esun**, kepeken | …; **business transaction**; **market**, **shop**, **fair**, **bazaar** → instead of |
 |                                                        | [*NUMBER*](#numbers) | ala, ale, **esun**, luka, mute, tu, wan | 7, seven |
 | <img src="musi/sitelen/pona/ijo.png" height="42">      | [*SIMPLE NOUN*](#simple-nouns) | **ijo** — jan | inconscious being; **thing**, **phenomenon**, **object**, **matter**; location, place; case |
