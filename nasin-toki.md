@@ -332,6 +332,7 @@ If a **verb** is an **pre-verb**, it implies a **transitive verb** before a **su
 | [Numerals](#numerals) |
 | [Prepositions](#prepositions) |
 
+
 ### Simple Modifiers
 *(nimi suli poka pona)*
 
