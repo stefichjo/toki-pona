@@ -565,16 +565,23 @@ An **interjection** can become a [thing verb](#thing-verbs).
 
 | [↑](#particles) |
 |:-:|
+| [Phrase Particles](#phrase-particles) |
+| [Conjunctions](#conjunctions) |
+| [Contextual Fragment](#contextual-fragment) |
+
+
+### Phrase Particles
+*(…)*
+
+| [↑](#transitive-particles) |
+|:-:|
 | [li](#subject-and-predicate) |
 | [e](#direct-object) |
 | [o](#volative-vocative-and-imperative) |
 | [pi](#genitive) |
-| [en](#conjunction-and) |
-| [anu](#conjunction-or) |
-| [la](#contextual-fragment) |
 
 
-### Subject and Predicate
+#### Subject and Predicate
 *(nimi lili luka "li")*
 
 If the subject (i.e. the words before the **particle** "li") is just "mi" or "sina", the **particle** "li" disappears.
@@ -612,7 +619,7 @@ A **sentence** can have multiple predicates (i.e. the words after the **particle
 | *She is a parent.* |
 
 
-### Direct Object
+#### Direct Object
 *(nimi lili luka "e")*
 
 A predicate (i.e. the words after the **particle** "li") can have multiple direct objects (i.e. the words after the **particle** "e"). Their **commas** can disappear.
@@ -650,7 +657,7 @@ One can express a desire by just a direct object (i.e. the words after the **par
 | *She fights the enemy.* |
 
 
-### Volative, Vocative and Imperative
+#### Volative, Vocative and Imperative
 *(nimi lili luka "o")*
 
 "sina" can disappear before the **particle** "o".
@@ -674,7 +681,7 @@ One can express a desire by just a direct object (i.e. the words after the **par
 | *May she sleep well.* |
 
 
-### Genitive
+#### Genitive
 *(nimi lili luka "pi")*
 
 If a genitive phrase (i.e. the words after the **particle** "pi") consists of only one [noun](#nouns), the **particle** "pi" disappears. So, that [noun](#nouns) becomes a [modifier](#modifiers).
@@ -726,8 +733,15 @@ As a rule of thumb, if the **particle** "pi" doesn't add useful information, it 
 | *bar* |
 
 
-### Conjunction "and"
-*(nimi lili luka "en")*
+### Conjunctions
+*(nimi lili luka "en", nimi lili luka "anu")*
+
+By means of "anu seme" one can express a yes-no-question. In this case "seme" is a [verb](#verbs).
+
+| ona li mama anu seme? |
+|:-|
+| *Is she a parent?* |
+
 
 👎 A **comma** can become a strange **conjunction** "en".
 
@@ -743,6 +757,13 @@ As a rule of thumb, if the **particle** "pi" doesn't add useful information, it 
 | *Both you and I are children.* | *She is a child.* |
 
 
+👎 According to **Pije**, sentences with "anu seme" have the rude conotation of "or what".
+
+| ona li mama anu seme? |
+|:-|
+| *Is she a parent or what?* |
+
+
 🤔 **Sonja** uses the **particle** "en" only in order to combine multiple subjects (i.e. the words before the **particle** "li").
 
 | toki sina en pali sina li sama. |
@@ -750,28 +771,11 @@ As a rule of thumb, if the **particle** "pi" doesn't add useful information, it 
 | *What you say and what you do are the same.* |
 
 
-### Conjunction "or"
-*(nimi lili luka "anu")*
-
-By means of "anu seme" one can express a yes-no-question. In this case "seme" is a [verb](#verbs).
-
-| ona li mama anu seme? |
-|:-|
-| *Is she a parent?* |
-
-
 🤔 In front of words and after the same words negated, the **particle** "anu" disappears.
 
 | ona li mama ala anu mama? → ona li mama ala mama? |
 |:-|
 | *Is she a parent?* |
-
-
-👎 According to **Pije**, sentences with "anu seme" have the rude conotation of "or what".
-
-| ona li mama anu seme? |
-|:-|
-| *Is she a parent or what?* |
 
 
 ### Contextual Fragment
@@ -899,10 +903,10 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 |                                                        | [*NUMERAL*](#numerals) | ala, **ale**, esun, luka, mute, tu, wan | **100**, a hundred, infinite |
 | <img src="musi/sitelen/pona/anpa.png" height="30">     | [*SPATIAL NOUN*](#spatial-nouns) | **anpa** — sewi, lawa — noka | **bowing down**, **downward**, **humble**, **lowly**, **dependent** |
 | <img src="musi/sitelen/pona/ante.png" height="30">     | [*PREPOSITION*](#prepositions) | **ante** — sama | **different**, **altered**, **changed**, **other** → than |
-| <img src="musi/sitelen/pona/anu.png" height="30">      | [*TRANSITIVE PARTICLE*](#transitive-particles) | **anu**, en | (…), **or** |
+| <img src="musi/sitelen/pona/anu.png" height="30">      | [*CONJUNCTION*](#conjunctions) | **anu**, en | (…), **or** |
 | <img src="musi/sitelen/pona/awen.png" height="30">     | [*PRE-VERB*](#pre-verbs) | **awen**, kama, pini | **enduring**, **kept**, **protected**, **safe**, **waiting**, **staying** → **to continue to** |
-| <img src="musi/sitelen/pona/e.png" height="30">        | [*TRANSITIVE PARTICLE*](#transitive-particles) | **e**, li, o, pi | **(before the direct object)** |
-| <img src="musi/sitelen/pona/en.png" height="30">       | [*TRANSITIVE PARTICLE*](#transitive-particles) | anu, **en** | **(between multiple subjects)** |
+| <img src="musi/sitelen/pona/e.png" height="30">        | [*PHRASE PARTICLE*](#phrase-particles) | **e**, li, o, pi | **(before the direct object)** |
+| <img src="musi/sitelen/pona/en.png" height="30">       | [*CONJUNCTION*](#conjunctions) | anu, **en** | **(between multiple subjects)** |
 | <img src="musi/sitelen/pona/esun.png" height="30">     | [*PREPOSITION*](#prepositions) | **esun**, kepeken | …; **business transaction**; **market**, **shop**, **fair**, **bazaar** → instead of |
 |                                                        | [*NUMERAL*](#numerals) | ala, ale, **esun**, luka, mute, tu, wan | 7, seven |
 | <img src="musi/sitelen/pona/ijo.png" height="30">      | [*SIMPLE NOUN*](#simple-nouns) | **ijo** — jan | inconscious being; **thing**, **phenomenon**, **object**, **matter**; location, place; case |
@@ -927,14 +931,14 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 |                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | **kule** — walo | brown, **pigmented** |
 | <img src="musi/sitelen/pona/kulupu.png" height="30">   | [*THING NOUN*](#thing-nouns) | **kulupu** — sijelo | interactive, reciprocal → **community**, **company**, **group**, **nation**, relation, **society**, **tribe**  |
 | <img src="musi/sitelen/pona/kute.png" height="30">     | [*TOOL NOUN*](#tool-nouns) | **kute**, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | **to hear**, **listen**; **pay attention to**, **obey** → **ear** |
-| <img src="musi/sitelen/pona/la.png" height="30">       | [*TRANSITIVE PARTICLE*](#transitive-particles) | **la** | **(between the context phrase and the main sentence)** |
+| <img src="musi/sitelen/pona/la.png" height="30">       | [*CONTEXTUAL FRAGMENT*](#contextual-fragment) | **la** | **(between the context phrase and the main sentence)** |
 | <img src="musi/sitelen/pona/lape.png" height="30">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **lape**, moli, musi | **sleeping**, **resting** |
 | <img src="musi/sitelen/pona/laso.png" height="30">     | [*SIMPLE MODIFIER*](#simple-modifiers) | jelo, **laso**, loje | **blue**, **green**; immature |
 | <img src="musi/sitelen/pona/lawa.png" height="30">     | [*TOOL NOUN*](#tool-nouns) | kute, **lawa**, len, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule** → **head**, **mind** |
 |                                                        | [*SPATIAL NOUN*](#spatial-nouns) | anpa — sewi, **lawa** — noka | supreme, top → highest part |
 | <img src="musi/sitelen/pona/len.png" height="30">      | [*TOOL NOUN*](#tool-nouns) | kute, lawa, **len**, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | to cover, hide → **cloth**, **clothing**, **fabric**, **textile**; **cover**, **layer of privacy** |
 | <img src="musi/sitelen/pona/lete.png" height="30">     | [*THING NOUN*](#thing-nouns) | **lete** — seli | **cold**, **cool**; **uncooked**, **raw** → ice, frost |
-| <img src="musi/sitelen/pona/li.png" height="30">       | [*TRANSITIVE PARTICLE*](#transitive-particles) | e, **li**, o, pi | **(between any subject except mi alone or sina alone and its VERB; also to introduce a new VERB for the same subject)** |
+| <img src="musi/sitelen/pona/li.png" height="30">       | [*PHRASE PARTICLE*](#phrase-particles) | e, **li**, o, pi | **(between any subject except mi alone or sina alone and its VERB; also to introduce a new VERB for the same subject)** |
 | <img src="musi/sitelen/pona/lili.png" height="30">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **lili** — mute, suli, wawa | **little**, **small**, **short**; **few**; **a bit**; **young** |
 | <img src="musi/sitelen/pona/linja.png" height="30">    | [*THING NOUN*](#thing-nouns) | **linja** — palisa | long and flexible → **long and flexible thing**; **cord**, **hair**, **rope**, **thread**, **yarn** |
 | <img src="musi/sitelen/pona/lipu.png" height="30">     | [*THING NOUN*](#thing-nouns) | **lipu**, nena, sike | flat → **flat object**; **book**, **document**, **card**, **paper**, **record**, **website** |
@@ -969,7 +973,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/nimi.png" height="30">     | [*THING VERB*](#thing-verbs) | nanpa, **nimi**, sitelen, sona, toki | to name — **name**, **word** |
 | <img src="musi/sitelen/pona/noka.png" height="30">     | [*TOOL NOUN*](#tool-nouns) | kute, lawa, len, luka, lukin, **noka**, palisa, pilin, poki, selo, tomo, uta | to step on, kick → **foot**, **leg**, **organ of locomotion** |
 |                                                        | [*SPATIAL NOUN*](#spatial-nouns) | anpa — sewi, lawa, **noka** | basic → base, **bottom**, **lower part** |
-| <img src="musi/sitelen/pona/o.png" height="30">        | [*TRANSITIVE PARTICLE*](#transitive-particles) | e, li, **o**, pi | **(vocative or imperative)**, **hey!**, **O!** |
+| <img src="musi/sitelen/pona/o.png" height="30">        | [*PHRASE PARTICLE*](#phrase-particles) | e, li, **o**, pi | **(vocative or imperative)**, **hey!**, **O!** |
 | <img src="musi/sitelen/pona/olin.png" height="30">     | [*SIMPLE VERB*](#simple-verbs) | **olin**, unpa | **to love**, **have compassion for**, **respect**, **show affection to** |
 | <img src="musi/sitelen/pona/ona.png" height="30">      | [*PRONOUN*](#pronouns) | mi, **ona**, sina | **he**, him, **she**, her, **it**, **they**, them |
 | <img src="musi/sitelen/pona/open.png" height="30">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **open** — selo | **open**; **to begin**, **start**; **turn on** |
@@ -981,7 +985,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 |                                                        | [*TOOL NOUN*](#tool-nouns) | kute, lawa, len, luka, lukin, noka, **palisa**, pilin, poki, selo, tomo, uta | to point to → finger |
 | <img src="musi/sitelen/pona/pan.png" height="30">      | [*THING NOUN*](#thing-nouns) | kili, **pan** | falling → **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** |
 | <img src="musi/sitelen/pona/pana.png" height="30">     | [*SIMPLE VERB*](#simple-verbs) | jo, **pana** | **to give**, **send**, **emit**, **provide**, **put**, **release** |
-| <img src="musi/sitelen/pona/pi.png" height="30">       | [*TRANSITIVE PARTICLE*](#transitive-particles) | e, li, o, **pi** | (between two noun-phrases), **of** |
+| <img src="musi/sitelen/pona/pi.png" height="30">       | [*PHRASE PARTICLE*](#phrase-particles) | e, li, o, **pi** | (between two noun-phrases), **of** |
 | <img src="musi/sitelen/pona/pilin.png" height="30">    | [*TOOL NOUN*](#tool-nouns) | kute, lawa, len, luka, lukin, noka, palisa, **pilin**, poki, selo, tomo, uta | **feeling (an emotion, a direct experience)** ­→ **heart (physical or emotional)** |
 | <img src="musi/sitelen/pona/pimeja.png" height="30">   | [*SIMPLE MODIFIER*](#simple-modifiers) | **pimeja** — walo | **black** |
 |                                                        | [*THING NOUN*](#thing-nouns) | **pimeja** — suno | **dark**, **unlit** → shadow |
