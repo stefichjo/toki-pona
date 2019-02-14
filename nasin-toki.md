@@ -772,13 +772,13 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 
 | sitelen | | | |
 |:-|:-|:-|:-|
-| <img src="musi/sitelen/pona/a.png" height="42">        | [*INTERJECTION*](#interjections) | mu — **a**, ala | **(emphasis, emotion or confirmation)** → yes! |
-| <img src="musi/sitelen/pona/akesi.png" height="42">    | [*LIFE-FORM NOUN*](#life-form-nouns) | **akesi** — soweli | cold-blooded → **non-cute animal**; **reptile**, **amphibian**; monster |
-| <img src="musi/sitelen/pona/ala.png" height="42">      | [*INTERJECTION*](#interjections) | mu — a, **ala** | (negation) → outch!, **no**! |
-|                                                        | [*CORRELATIVE*](#correlatives) | **ala**, ale, ni, seme, wan | **not** → none, nothing |
-|                                                        | [*NUMBER*](#numbers) | **ala**, ale, esun, luka, mute, tu, wan | 0, **zero** |
-|                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | **ala** — lon | non-, false |
-| <img src="musi/sitelen/pona/alasa.png" height="42">    | [*SIMPLE VERB*](#simple-verbs) | **alasa**, pali | **to hunt**, **forage** |
+| <img src="musi/sitelen/pona/a.png" height="42">        | [*INTERJECTION*](#interjections) | mu — **a**, ala | *PARTICLE* **(emphasis, emotion or confirmation)** → *SENTENCE* yes! |
+| <img src="musi/sitelen/pona/akesi.png" height="42">    | [*LIFE-FORM NOUN*](#life-form-nouns) | **akesi** — soweli | *ADJECTIVE* cold-blooded → *NOUN* **non-cute animal**; **reptile**, **amphibian**; monster |
+| <img src="musi/sitelen/pona/ala.png" height="42">      | [*INTERJECTION*](#interjections) | mu — a, **ala** | *PARTICLE* (negation) → *SENTENCE* outch!, **no**! |
+|                                                        | [*CORRELATIVE*](#correlatives) | **ala**, ale, ni, seme, wan | *ADJECTIVE* non-, *ADVERB* **not** → *NOUN* none, nothing |
+|                                                        | [*NUMBER*](#numbers) | **ala**, ale, esun, luka, mute, tu, wan | *NUMBER* 0, **zero** |
+|                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | **ala** — lon | *ADJECTIVE* false |
+| <img src="musi/sitelen/pona/alasa.png" height="42">    | [*SIMPLE VERB*](#simple-verbs) | **alasa**, pali | *VERB* **to hunt**, **forage** |
 | <img src="musi/sitelen/pona/ale.png" height="42">      | [*THING NOUN*](#thing-nouns) | **ale** — wan | whole; **abundant**, **countless**, **bountiful**, **plentiful** → entirety; **abundance**, **life**, **universe** |
 |                                                        | [*CORRELATIVE*](#correlatives) | ala, **ale**, ni, seme, wan | **all**; **every** → **everything** |
 |                                                        | [*NUMBER*](#numbers) | ala, **ale**, esun, luka, mute, tu, wan | **100**, a hundred, infinite |
@@ -918,3 +918,9 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/wawa.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | lili — mute, suli, **wawa** | **strong**, **powerful**; **confident**, **sure**; **energetic**, **intense** |
 | <img src="musi/sitelen/pona/weka.png" height="42">     | [*SPATIAL NOUN*](#spatial-nouns) | **weka** — insa, poka, sin | **absent**, **away**; **ignored** → absence, distance |
 | <img src="musi/sitelen/pona/wile.png" height="42">     | [*PRE-VERB*](#pre-verbs) | ken, lukin, open, sona, **wile** | necessary → **must**, **need**, **require**, **should**, **want**, **wish** |
+
+🤔 *ADVERB* → *ADJECTIVE* **not**
+
+🤔 *NUMBER* → *ADJECTIVE* **zero**
+
+
