@@ -789,8 +789,8 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/awen.png" height="42">     | [*PRE-VERB*](#pre-verbs) | **awen**, kama, pini | *ADJECTIVE* **enduring**, **kept**, **protected**, **safe**, **staying**, **waiting** → *PRE-VERB* **to continue to** |
 | <img src="musi/sitelen/pona/e.png" height="42">        | [*PHRASE PARTICLE*](#phrase-particles) | **e**, li, o, pi | *PARTICLE* **(before the direct object)** |
 | <img src="musi/sitelen/pona/en.png" height="42">       | [*CONJUNCTION*](#conjunctions) | anu — **en** | *PARTICLE* **(between multiple subjects)**, (between multiple noun-phrases belonging to the same phrase particle) |
-| <img src="musi/sitelen/pona/esun.png" height="42">     | [*PREPOSITION*](#prepositions) | **esun**, kepeken | …; **business transaction**; **market**, **shop**, **fair**, **bazaar** → instead of |
-|                                                        | [*NUMBER*](#numbers) | ala, ale, **esun**, luka, mute, tu, wan | 7, seven |
+| <img src="musi/sitelen/pona/esun.png" height="42">     | [*PREPOSITION*](#prepositions) | **esun**, kepeken | *ADJECTIVE* replacing, *NOUN* replacement; **business transaction**; **market**, **shop**, **fair**, **bazaar** → *PREPOSITION* instead of |
+|                                                        | [*NUMBER*](#numbers) | ala, ale, **esun**, luka, mute, tu, wan | *NUMBER* 7, seven |
 | <img src="musi/sitelen/pona/ijo.png" height="42">      | [*SIMPLE NOUN*](#simple-nouns) | **ijo** — jan | inconscious being; **thing**, **phenomenon**, **object**, **matter**; location, place; case |
 | <img src="musi/sitelen/pona/ike.png" height="42">      | [*SIMPLE MODIFIER*](#simple-modifiers) | pona — **ike**, nasa, pakala, utala | **bad**, **negative**; (sin -) **non-essential**, (sin -) **irrelevant** |
 | <img src="musi/sitelen/pona/ilo.png" height="42">      | [*THING NOUN*](#thing-nouns) | **ilo** — pakala | functioning → organ; **tool**, **implement**, **machine**, **device** |
