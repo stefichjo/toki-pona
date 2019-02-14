@@ -24,7 +24,7 @@
 | *I am going with you.* |
 
 
-🤔 — Sections about **"Additional Language"** describe some of **Sonja**'s way of using the language in the **Toki Pona Book** that seems unnecessary.
+🤔 — Sections about **"Superfluous Language"** describe some of **Sonja**'s way of using the language in the **Toki Pona Book** that seems unnecessary.
 
 | ona li pana e telo tawa kasi. → ona li telo e kasi. |
 |:-|
@@ -804,8 +804,8 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | *Because of whom do you interact with the Toki Pona book?* |
 
 
-# sitelen pi poka nimi
-*(Punctuation)*
+# Punctuation
+*(sitelen pi poka nimi)*
 
 **Sonja** uses **subordinate clauses** only at the end of a **sentence**. In this case, the **comma** becomes a **colon**. A question can be a subordinate clause.
 
@@ -881,8 +881,8 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | *I am giving the book to you.* |
 
 
-# ale pi nimi mute
-*(Dictionary)*
+# Dictionary
+*(ale pi nimi mute)*
 
 | sitelen | | | |
 |:-|:-|:-|:-|
