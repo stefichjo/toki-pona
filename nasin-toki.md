@@ -126,13 +126,19 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 |:-|:-|
 | *I'm seeing the mountain, that is big.* | *The mountain, that I'm seeing, is big.* |
 
+👍 Questions with the **correlative** "seme" can be thought of **subordinate clauses** with an omitted **main clause** "o toki e ni".
+
+| o toki e ni: mani li lon seme. → mani li lon seme? |
+|:-|
+| *Tell me where the money is.* → *Where is the money?" |
+
 👎 The beginning of a **subordinate clause** can disappear. Therefore, [pre-verbs](#pre-verbs) and [prepositions](#prepositions) can become [nouns](#nouns).
 
 | jan pi ona li tawa tomo | jan pi li tawa tomo | jan pi tawa tomo |
 |:-|:-|:-|
 | *somebody, who is going home* | *home-coming person* | *home-comer* |
 
-🤔 Acording to **Sonja**, "seme" is a [particle](#particles).
+🤔 Acording to **Sonja**, "seme" is a [particle](#particles), even though it behaves just like the other **correlatives**.
 
 #### Spatial Nouns
 *(nimi suli lawa nasin)*
@@ -332,7 +338,7 @@ If a **verb** is an **pre-verb**, it implies a **transitive verb** before a **su
 | [↑](#modifiers) |
 |:-|
 
-👍 The [conjunction "en"](#conjunction-and) can be with two **numerals**.
+👍 The [conjunction](#conjunctions) "en" can be with two **numerals**.
 
 | sike esun tu | tenpo suno luka tu en tu tu |
 |:-|:-|
@@ -463,33 +469,29 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 
 | [↑](#toki-pona-grammar) |
 |:-|
-| [Quotes](#quotes) |
+| [Simple Particles](#simple-particles) |
 | [Interjections](#interjections) |
 | [Transitive Particles](#transitive-particles) |
 
-### Quotes
+### Simple Particles
 *(nimi lili pona)*
 
 | [↑](#particles) |
 |:-|
 
-[Quotes](#quotes) are after [nouns](#nouns). **Quotations** are inside quotation marks.
+**Simple Particles** are tokiponized names. They always follow a [noun](#nouns). "pi nimi" can disappear before **simple particle**. In this case, the **quotation marks** disappear.
 
-| ona li jo e nimi "Sonja". |
-|:-|
-| *She has the name "Sonja".* |
+| ona li jo e nimi "Sonja". | jan pi nimi "Sonja" → jan Sonja 
+|:-|:-|
+| *She has the name "Sonja".* | *the person called "Sonja"* → *Sonja* |
 
-**Quotation marks** with "nimi" or "kalama" can disappear.
-
-| toki pi nimi "Epelanto" → toki Epelanto |
-|:-|
-| *the language "Esperanto"* → *Esperanto* |
-
-**Sonja** removes the [particle "pi"](#genitive) before "nanpa" with a [numeral](#numerals). In this case, "nanpa" is part of a quote. But **Pije** doesn't remove such a [particle "pi"](#genitive).
+**Sonja** removes the [particle "pi"](#genitive) before "nanpa" with a [numeral](#numerals). In this case, "nanpa" itself becomes part of a **simple particle phrase**.
 
 | sina nanpa wan | toki pi nanpa wan → toki nanpa wan |
 |:-|:-|
 | *You're number one.* | *the language with the number one* → *the language number one* |
+
+👎 **Pije** doesn't remove the [particle "pi"](#genitive) before **simple particle phrases** with "nanpa".
 
 ### Interjections
 *(nimi lili kalama)*
@@ -844,7 +846,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/mute.png" height="30">     | [*SIMPLE MODIFIER*](#simple-modifiers) | lili — **mute**, suli, wawa | **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
 |                                                        | [*NUMERAL*](#numerals) | ala, ale, esun, luka, **mute**, tu, wan | 3, three, 3+ |
 | <img src="musi/sitelen/pona/nanpa.png" height="30">    | [*THING VERB*](#thing-verbs) | **nanpa**, nimi, sitelen, sona, toki | to count → number, **numbers** |
-|                                                        | [*QUOTE*](#quotes) | **nanpa** | **(ordinal number)**, **-th** |
+|                                                        | [*SIMPLE PARTICLE*](#simple-particles) | **nanpa** | **(ordinal number)**, **-th** |
 | <img src="musi/sitelen/pona/nasa.png" height="30">     | [*SIMPLE MODIFIER*](#simple-modifiers) | pona — ike, **nasa**, pakala, utala | **unusual**, **strange**; **foolish**, **crazy**; **drunk**, **intoxicated** |
 | <img src="musi/sitelen/pona/nasin.png" height="30">    | [*THING NOUN*](#thing-nouns) | lupa, **nasin** | thin, elongated, cracked → line, solution; **way**, **custom**, **doctrine**, **method**, **path**, **road** |
 | <img src="musi/sitelen/pona/nena.png" height="30">     | [*THING NOUN*](#thing-nouns) | lipu, **nena**, sike | outstanding → bump, button, hill, mountain, nose, protuberance |
