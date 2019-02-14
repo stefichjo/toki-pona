@@ -781,12 +781,12 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/alasa.png" height="42">    | [*SIMPLE VERB*](#simple-verbs) | **alasa**, pali | *VERB* **to hunt**, **forage** |
 | <img src="musi/sitelen/pona/ale.png" height="42">      | [*THING NOUN*](#thing-nouns) | **ale** — wan | *ADJECTIVE* **all**, whole → *NOUN*  **life**, **universe** |
 |                                                        | [*CORRELATIVE*](#correlatives) | ala, **ale**, ni, seme, wan | *ADJECTIVE* **every** → *NOUN* **everything** |
-|                                                        | [*NUMBER*](#numbers) | ala, **ale**, esun, luka, mute, tu, wan | *NUMBER* 🤔 **100**, 🤔 a hundred, infinite |
+|                                                        | [*NUMBER*](#numbers) | ala, **ale**, esun, luka, mute, tu, wan | *NUMBER* 🤔 **100**, infinite |
 |                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | lili — **ale**, mute, suli, wawa | *ADJECTIVE* **abundant**, **countless**, **bountiful**, **plentiful**, *NOUN* **abundance** |
 | <img src="musi/sitelen/pona/anpa.png" height="42">     | [*SPATIAL NOUN*](#spatial-nouns) | **anpa** — sewi, lawa — noka | *ADJECTIVE* **bowing down**, **downward**, **humble**, **lowly**, **dependent** → *NOUN* area below |
 | <img src="musi/sitelen/pona/ante.png" height="42">     | [*PREPOSITION*](#prepositions) | **ante** — sama | *ADJECTIVE* **different**, **altered**, **changed**, **other** → *PREPOSITION* than |
-| <img src="musi/sitelen/pona/anu.png" height="42">      | [*CONJUNCTION*](#conjunctions) | **anu** — en | (…), **or** |
-| <img src="musi/sitelen/pona/awen.png" height="42">     | [*PRE-VERB*](#pre-verbs) | **awen**, kama, pini | **enduring**, **kept**, **protected**, **safe**, **waiting**, **staying** → **to continue to** |
+| <img src="musi/sitelen/pona/anu.png" height="42">      | [*CONJUNCTION*](#conjunctions) | **anu** — en | *PARTICLE* (alternative), **or** |
+| <img src="musi/sitelen/pona/awen.png" height="42">     | [*PRE-VERB*](#pre-verbs) | **awen**, kama, pini | *ADJECTIVE* **enduring**, **kept**, **protected**, **safe**, **staying**, **waiting** → *PRE-VERB* **to continue to** |
 | <img src="musi/sitelen/pona/e.png" height="42">        | [*PHRASE PARTICLE*](#phrase-particles) | **e**, li, o, pi | **(before the direct object)** |
 | <img src="musi/sitelen/pona/en.png" height="42">       | [*CONJUNCTION*](#conjunctions) | anu — **en** | **(between multiple subjects)** |
 | <img src="musi/sitelen/pona/esun.png" height="42">     | [*PREPOSITION*](#prepositions) | **esun**, kepeken | …; **business transaction**; **market**, **shop**, **fair**, **bazaar** → instead of |
@@ -923,5 +923,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 🤔 *ADVERB* → *ADJECTIVE* **not**
 
 🤔 *NUMBER* → *ADJECTIVE* **zero**
+
+🤔 **staying**, **waiting** → **waiting**, **staying**
 
 
