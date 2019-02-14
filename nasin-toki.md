@@ -2,7 +2,7 @@
 *(nasin toki pi toki pona)*
 
 | |
-|:-:|
+|:-|
 | [Content Words](#content-words) |
 | [Particles](#particles) |
 | [Dictionary](#dictionary) |
@@ -29,7 +29,7 @@
 *(nimi suli)*
 
 | [↑](#toki-pona-grammar) |
-|:-:|
+|:-|
 | [Nouns](#nouns) |
 | [Verbs](#verbs) |
 | [Modifiers](#modifiers) |
@@ -38,7 +38,7 @@
 *(nimi suli lawa)*
 
 | [↑](#content-words) |
-|:-:|
+|:-|
 | [Simple Nouns](#simple-nouns) |
 | [Thing Nouns](#thing-nouns) |
 | [Person Nouns](#person-nouns) |
@@ -48,7 +48,7 @@
 *(nimi suli lawa pona)*
 
 | [↑](#nouns) |
-|:-:|
+|:-|
 | [Pronouns](#pronouns) |
 
 **Simple nouns** don't have an additional meaning as **modifiers** or **verbs**.
@@ -61,7 +61,7 @@
 *(nimi suli lawa esun)*
 
 | [↑](#simple-nouns) |
-|:-:|
+|:-|
 
 **Pronouns** are **simple nouns** that refer to the speaker, the listener or a third person/object.
 
@@ -73,7 +73,7 @@
 *(nimi suli lawa ijo)*
 
 | [↑](#nouns) |
-|:-:|
+|:-|
 | [Correlatives](#correlatives) |
 | [Spatial Nouns](#spatial-nouns) |
 | [Life-Form Nouns](#life-form-nouns) |
@@ -100,7 +100,7 @@
 *(nimi suli lawa palisa)*
 
 | [↑](#thing-nouns) |
-|:-:|
+|:-|
 
 **Correlatives** are **thing nouns**, i.e. they can imply the word "ijo".
 
@@ -138,7 +138,7 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 *(nimi suli lawa nasin)*
 
 | [↑](#thing-nouns) |
-|:-:|
+|:-|
 
 **Spatial nouns** are **thing nouns**, with an implied "ijo" meaning "location", "place".
 
@@ -174,7 +174,7 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 *(nimi suli lawa sijelo)*
 
 | [↑](#thing-nouns) |
-|:-:|
+|:-|
 
 **Life-form nouns** are **thing nouns**, with an implied "ijo" meaning "life-form".
 
@@ -188,7 +188,7 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 *(nimi suli lawa jan)*
 
 | [↑](#nouns) |
-|:-:|
+|:-|
 
 **Person nouns** imply "jan".
 
@@ -200,7 +200,7 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 *(nimi suli lawa ilo)*
 
 | [↑](#tool-nouns) |
-|:-:|
+|:-|
 
 **Tool nouns** imply "ilo".
 
@@ -224,7 +224,7 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 *(nimi suli wawa)*
 
 | [↑](#content-words) |
-|:-:|
+|:-|
 | [Simple Verbs](#simple-verbs) |
 | [pre-verbs](#pre-verbs) |
 
@@ -232,7 +232,7 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 *(nimi suli wawa pona)*
 
 | [↑](#verbs) |
-|:-:|
+|:-|
 | [Thing Verbs](#thing-verbs) |
 
 **Simple verbs** imply "e ijo".
@@ -263,7 +263,7 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 *(nimi suli wawa ijo)*
 
 | [↑](#simple-verbs) |
-|:-:|
+|:-|
 
 **Thing verbs** are **simple verbs**. As a [noun](#nouns), they mean the verb's object.
 
@@ -275,7 +275,7 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 *(nimi suli wawa poka)*
 
 | [↑](#verbs) |
-|:-:|
+|:-|
 
 | awen |
 |:-|
@@ -309,7 +309,7 @@ If a **verb** is an **pre-verb**, it implies a **transitive verb** before a **su
 *(nimi suli poka)*
 
 | [↑](#content-words) |
-|:-:|
+|:-|
 | [Simple Modifiers](#simple-modifiers) |
 | [Numerals](#numerals) |
 | [Prepositions](#prepositions) |
@@ -318,7 +318,7 @@ If a **verb** is an **pre-verb**, it implies a **transitive verb** before a **su
 *(nimi suli poka pona)*
 
 | [↑](#modifiers) |
-|:-:|
+|:-|
 
 **Simple modifiers** don't receive an additional meaning when they change their part-of-speech.
 
@@ -330,7 +330,7 @@ If a **verb** is an **pre-verb**, it implies a **transitive verb** before a **su
 *(nimi suli poka nanpa)*
 
 | [↑](#modifiers) |
-|:-:|
+|:-|
 
 👍 The [conjunction "en"](#conjunction-and) can be with two **numerals**.
 
@@ -366,7 +366,7 @@ If a **verb** is an **pre-verb**, it implies a **transitive verb** before a **su
 *(nimi suli poka luka)*
 
 | [↑](#modifiers) |
-|:-:|
+|:-|
 
 **Prepositional phrases** follow **particle phrases**.
 
@@ -462,7 +462,7 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 *(nimi lili)*
 
 | [↑](#toki-pona-grammar) |
-|:-:|
+|:-|
 | [Quotes](#quotes) |
 | [Interjections](#interjections) |
 | [Transitive Particles](#transitive-particles) |
@@ -471,7 +471,7 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 *(nimi lili pona)*
 
 | [↑](#particles) |
-|:-:|
+|:-|
 
 [Quotes](#quotes) are after [nouns](#nouns). **Quotations** are inside quotation marks.
 
@@ -495,7 +495,7 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 *(nimi lili kalama)*
 
 | [↑](#particles) |
-|:-:|
+|:-|
 
 One can express an emotion by means of a plain **interjection** as if it were a **sentence**.
 
@@ -531,7 +531,7 @@ An **interjection** can become a [thing verb](#thing-verbs).
 *(nimi lili luka)*
 
 | [↑](#particles) |
-|:-:|
+|:-|
 | [Phrase Particles](#phrase-particles) |
 | [Conjunctions](#conjunctions) |
 | [Contextual Fragment](#contextual-fragment) |
@@ -540,7 +540,7 @@ An **interjection** can become a [thing verb](#thing-verbs).
 *(nimi lili luka pi wan pi mute nimi)*
 
 | [↑](#transitive-particles) |
-|:-:|
+|:-|
 | [li](#subject-and-predicate) |
 | [e](#direct-object) |
 | [o](#volative-vocative-and-imperative) |
@@ -550,7 +550,7 @@ An **interjection** can become a [thing verb](#thing-verbs).
 *(nimi lili luka "li")*
 
 | [↑](#phrase-particles) |
-|:-:|
+|:-|
 
 If the subject (i.e. the words before the **particle** "li") is just "mi" or "sina", the **particle** "li" disappears.
 
@@ -586,7 +586,7 @@ A **sentence** can have multiple predicates (i.e. the words after the **particle
 *(nimi lili luka "e")*
 
 | [↑](#phrase-particles) |
-|:-:|
+|:-|
 
 A predicate (i.e. the words after the **particle** "li") can have multiple direct objects (i.e. the words after the **particle** "e"). Their **commas** can disappear.
 
@@ -622,7 +622,7 @@ One can express a desire by just a direct object (i.e. the words after the **par
 *(nimi lili luka "o")*
 
 | [↑](#phrase-particles) |
-|:-:|
+|:-|
 
 "sina" can disappear before the **particle** "o".
 
@@ -646,7 +646,7 @@ One can express a desire by just a direct object (i.e. the words after the **par
 *(nimi lili luka "pi")*
 
 | [↑](#phrase-particles) |
-|:-:|
+|:-|
 
 If a genitive phrase (i.e. the words after the **particle** "pi") consists of only one [noun](#nouns), the **particle** "pi" disappears. So, that [noun](#nouns) becomes a [modifier](#modifiers).
 
@@ -694,7 +694,7 @@ As a rule of thumb, if the **particle** "pi" doesn't add useful information, it 
 *(nimi lili luka "en", nimi lili luka "anu")*
 
 | [↑](#transitive-particles) |
-|:-:|
+|:-|
 
 By means of "anu seme" one can express a yes-no-question. In this case "seme" is a [verb](#verbs).
 
@@ -736,7 +736,7 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 *(nimi lili luka "la")*
 
 | [↑](#transitive-particles) |
-|:-:|
+|:-|
 
 By means of the **particle "la"**, a [preposition](#prepositions) can be at the beginning of a **sentence**.
 
@@ -766,7 +766,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 *(ale pi nimi mute)*
 
 | [↑](#toki-pona-grammar) |
-|:-:|
+|:-|
 
 | sitelen | | | |
 |:-|:-|:-|:-|
