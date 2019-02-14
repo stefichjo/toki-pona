@@ -782,7 +782,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/ale.png" height="42">      | [*THING NOUN*](#thing-nouns) | **ale** — wan | *ADJECTIVE* **all**, whole → *NOUN* entirety; **life**, **universe** |
 |                                                        | [*CORRELATIVE*](#correlatives) | ala, **ale**, ni, seme, wan | *ADJECTIVE* **every**; **abundant**, **countless**, **bountiful**, **plentiful** → *NOUN* **everything**; **abundance** |
 |                                                        | [*NUMBER*](#numbers) | ala, **ale**, esun, luka, mute, tu, wan | *NUMBER* 🤔 **100**, 🤔 a hundred, infinite |
-| <img src="musi/sitelen/pona/anpa.png" height="42">     | [*SPATIAL NOUN*](#spatial-nouns) | **anpa** — sewi, lawa — noka | **bowing down**, **downward**, **humble**, **lowly**, **dependent** |
+| <img src="musi/sitelen/pona/anpa.png" height="42">     | [*SPATIAL NOUN*](#spatial-nouns) | **anpa** — sewi, lawa — noka | *ADJECTIVE* **bowing down**, **downward**, **humble**, **lowly**, **dependent** → *NOUN* lower area |
 | <img src="musi/sitelen/pona/ante.png" height="42">     | [*PREPOSITION*](#prepositions) | **ante** — sama | **different**, **altered**, **changed**, **other** → than |
 | <img src="musi/sitelen/pona/anu.png" height="42">      | [*CONJUNCTION*](#conjunctions) | **anu**, en | (…), **or** |
 | <img src="musi/sitelen/pona/awen.png" height="42">     | [*PRE-VERB*](#pre-verbs) | **awen**, kama, pini | **enduring**, **kept**, **protected**, **safe**, **waiting**, **staying** → **to continue to** |
