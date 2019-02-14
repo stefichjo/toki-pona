@@ -779,7 +779,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 |                                                        | [*NUMBER*](#numbers) | **ala**, ale, esun, luka, mute, tu, wan | *NUMBER* 0, **zero** |
 |                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | **ala** — lon | *ADJECTIVE* false, non- |
 | <img src="musi/sitelen/pona/alasa.png" height="42">    | [*SIMPLE VERB*](#simple-verbs) | **alasa**, pali | *VERB* **to hunt**, **forage** |
-| <img src="musi/sitelen/pona/ale.png" height="42">      | [*THING NOUN*](#thing-nouns) | **ale** — wan | *ADJECTIVE* **all**, whole → *NOUN* entirety; **life**, **universe** |
+| <img src="musi/sitelen/pona/ale.png" height="42">      | [*THING NOUN*](#thing-nouns) | **ale** — wan | *ADJECTIVE* **all**, whole → *NOUN*  **life**, **universe** |
 |                                                        | [*CORRELATIVE*](#correlatives) | ala, **ale**, ni, seme, wan | *ADJECTIVE* **every** → *NOUN* **everything** |
 |                                                        | [*NUMBER*](#numbers) | ala, **ale**, esun, luka, mute, tu, wan | *NUMBER* 🤔 **100**, 🤔 a hundred, infinite |
 |                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | lili — **ale**, mute, suli, wawa | *ADJECTIVE* **abundant**, **countless**, **bountiful**, **plentiful**, *NOUN* **abundance** |
