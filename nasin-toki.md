@@ -7,13 +7,11 @@
 | [Particles](#particles) |
 | [Dictionary](#dictionary) |
 
-
 👍 — Sections about **"Experimental Language"** describe "pu-compliant" ways of using the language, even though they are not mentioned explicitly in the **Toki Pona Book**.
 
 | o luka ala e seli! |
 |:-|
 | *Don't touch the fire!* |
-
 
 👎 — Sections about **"Strange Language"** describe common mistakes and/or pseudo-grammar that don't comply with the **Toki Pona Book**.
 
@@ -21,13 +19,11 @@
 |:-|
 | *I am going with you.* |
 
-
 🤔 — Sections about **"Superfluous Language"** describe some of **Sonja**'s way of using the language in the **Toki Pona Book** that seems unnecessary.
 
 | ona li pana e telo tawa kasi. → ona li telo e kasi. |
 |:-|
 | *She gives water to the plant.* → *She waters the plant.* |
-
 
 # Content Words
 *(nimi suli)*
@@ -38,7 +34,6 @@
 | [Verbs](#verbs) |
 | [Modifiers](#modifiers) |
 
-
 ## Nouns
 *(nimi suli lawa)*
 
@@ -48,7 +43,6 @@
 | [Thing Nouns](#thing-nouns) |
 | [Person Nouns](#person-nouns) |
 | [Tool Nouns](#tool-nouns) |
-
 
 ### Simple Nouns
 *(nimi suli lawa pona)*
@@ -63,7 +57,6 @@
 |:-|:-|
 | *something, a thing* | *somebody, a person* |
 
-
 #### Pronouns
 *(nimi suli lawa esun)*
 
@@ -75,7 +68,6 @@
 | mi | sina | ona |
 |:-|:-|:-|
 | *I, we* | *you* | *she, he, it, they* |
-
 
 ### Thing Nouns
 *(nimi suli lawa ijo)*
@@ -92,20 +84,17 @@
 |:-|
 | *round* → *something round, circle, globe* |
 
-
 **Nouns** that describe food seem to imply "ijo".
 
 | moku | pan | soweli |
 |:-|:-|:-|
 | *mouthful* → *food* | *seed* → *bread* | *mammal* → *meat* |
 
-
 👎 The [modifiers](#modifiers) (or [prepositions](#prepositions)) "ante" and "sama" can become **thing nouns**.
 
 | ijo ante → ante | ijo sama → sama |
 |:-|:-|
 | *something different* | *something similar* |
-
 
 #### Correlatives
 *(nimi suli lawa palisa)*
@@ -119,13 +108,11 @@
 |:-|
 | *every* → *everything* |
 
-
 In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"), "ijo" before a **correlative** reappears.
 
 | mama pi ijo ale | mama ale |
 |:-|:-|
 | *parent of everything* | *every parent* |
-
 
 👍 A **subordinate clause** can be thought of as an extension of the **correlative** "ni".
 
@@ -133,13 +120,11 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 |:-|
 | *so much light, that I can't sleep* |
 
-
 👍 In a **relative clause** (i.e. a **subordinate clause** with "ona ni"), "ona ni li" and "e ona ni" can disappear.
 
 | mi lukin e nena ni: (ona ni li) suli mute. | nena ni: mi lukin (e ona ni), li suli. |
 |:-|:-|
 | *I'm seeing the mountain, that is big.* | *The mountain, that I'm seeing, is big.* |
-
 
 👎 The beginning of a **subordinate clause** can disappear. Therefore, [pre-verbs](#pre-verbs) and [prepositions](#prepositions) can become [nouns](#nouns).
 
@@ -147,9 +132,7 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 |:-|:-|:-|
 | *somebody, who is going home* | *home-coming person* | *home-comer* |
 
-
 🤔 Acording to **Sonja**, "seme" is a [particle](#particles).
-
 
 #### Spatial Nouns
 *(nimi suli lawa nasin)*
@@ -163,13 +146,11 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 |:-|
 | *inner* → *inner area, center* |
 
-
 👍 When a [verb](#verbs) becomes a **noun**, it can mean the place of its accomplishment.
 
 | mi lon lape. | sina tan lape. | ona li tawa lape. |
 |:-|:-|:-|
 | *I am resting.* | *You have been resting.* | *She is going to rest.* |
-
 
 👍 The [pre-verbs](#pre-verbs) "awen", "kama", "pini" can become **spatial nouns**.
 
@@ -177,20 +158,17 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 |:-|:-|:-|
 | *during* | *before* | *after* |
 
-
 🤔 …
 
 | lawa → sewi |
 |:-|
 | *upper* → *upper area, top* |
 
-
 🤔 "lon awen pi", "lon kama pi", "lon pini pi" can become "lon".
 
 | lon awen pi tenpo lili → lon tenpo lili | lon kama pi tenpo lili → lon tenpo lili | lon pini pi tenpo lili → lon tenpo lili |
 |:-|:-|:-|
 | *shortly/quickly* | *provisionally* | *soon* |
-
 
 #### Life-Form Nouns
 *(nimi suli lawa sijelo)*
@@ -200,13 +178,11 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 
 **Life-form nouns** are **thing nouns**, with an implied "ijo" meaning "life-form".
 
-
 👍 **Life-form nouns** imply the word "sijelo", meaning "life-form".
 
 | akesi |
 |:-|
 | *cold-blooded* → *reptile*, *amphibian* |
-
 
 ### Person Nouns
 *(nimi suli lawa jan)*
@@ -220,7 +196,6 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 |:-|
 | *female* → *somebody female*, *woman* |
 
-
 ### Tool Nouns
 *(nimi suli lawa ilo)*
 
@@ -233,20 +208,17 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 |:-|
 | *to see* → *eye* |
 
-
 "pona (tawa)" + **tool noun** expresses that something is worth being done.
 
 | pona tawa lukin → pona lukin |
 |:-|
 | *good for the eye* → *worth seeing*, *beautiful* |
 
-
 👍 "insa (tawa)" + **tool noun** expresses that something is do-able, whereas "open (tawa)" + **tool noun** expresses that something is not obstructing to the tool implied.
 
 | insa lukin | open lukin |
 |:-|:-|
 | *visible* | *transparent* |
-
 
 ## Verbs
 *(nimi suli wawa)*
@@ -255,7 +227,6 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 |:-:|
 | [Simple Verbs](#simple-verbs) |
 | [pre-verbs](#pre-verbs) |
-
 
 ### Simple Verbs
 *(nimi suli wawa pona)*
@@ -270,13 +241,11 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 |:-|
 | *to hunt* |
 
-
 👎 **Simple verbs** can be used as a [modifier](#modifiers) implying **passive**.
 
 | nimi li sona |
 |:-|
 | *the word is known* |
-
 
 🤔 **Sonja** allows all **verbs** to imply "e ijo".
 
@@ -284,13 +253,11 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 |:-|
 | *I begin with the divine.* |
 
-
 🤔 …
 
 | kama e → pali e | open e → pali e |
 |:-|:-|
 | *to build*, *make* | *to prepare* |
-
 
 #### Thing Verbs
 *(nimi suli wawa ijo)*
@@ -304,7 +271,6 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 |:-|
 | *to draw* → *picture* |
 
-
 ### Pre-Verbs
 *(nimi suli wawa poka)*
 
@@ -315,13 +281,11 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 |:-|
 | *enduring* → *to keep -ing* |
 
-
 After the **pre-verbs** "awen" and "kama", "lon" can disappear.
 
 | awen lon → awen |
 |:-|
 | *to stay* |
-
 
 If a **verb** is an **pre-verb**, it implies a **transitive verb** before a **subordinate clause**, which receives the main **verb** from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [particle "li"](#subject-and-predicate)) is the same.
 
@@ -329,20 +293,17 @@ If a **verb** is an **pre-verb**, it implies a **transitive verb** before a **su
 |:-|
 | *She needs, that she is at home.* → *She has to be at home.* |
 
-
 👎 The **pre-verb** "kama" and the [content word](#content-words) "pini" can disappear.
 
 | ona li kama lape lon pini pi tenpo lili. → ona li lape lon tenpo lili. |
 |:-|
 | *She will sleep after a short period of time. She will sleep soon. She falls asleep quickly.* |
 
-
 👎 The [prepositions](#prepositions) "lon", "tan", "tawa" can become **pre-verbs**.
 
 | mi lon moku e kili. | sina tan moku e kili. | ona li tawa moku e kili. |
 |:-|:-|:-|
 | *I am eating an apple.* | *You have been eating an apple.* | *She is going to eat an apple.* |
-
 
 ## Modifiers
 *(nimi suli poka)*
@@ -352,7 +313,6 @@ If a **verb** is an **pre-verb**, it implies a **transitive verb** before a **su
 | [Simple Modifiers](#simple-modifiers) |
 | [Numerals](#numerals) |
 | [Prepositions](#prepositions) |
-
 
 ### Simple Modifiers
 *(nimi suli poka pona)*
@@ -366,7 +326,6 @@ If a **verb** is an **pre-verb**, it implies a **transitive verb** before a **su
 |:-|:-|:-|
 | *I am strong.* | *Water strengthens me.* | *Strength lies within.* |
 
-
 ### Numerals
 *(nimi suli poka nanpa)*
 
@@ -379,13 +338,11 @@ If a **verb** is an **pre-verb**, it implies a **transitive verb** before a **su
 |:-|:-|
 | *two weeks* | *fourteen days* |
 
-
 👍 By means of a **numeral** of a small quantity and a **numeral** of a big quantity one can express a quantity between zero and one.
 
 | mi pana e wan wan pi tu tu tawa sina. | mi pana e wan mute pi tu tu tawa sina. |
 |:-|:-|
 | *I give you one quarter.* | *I give you three quarters.* |
-
 
 👍 In a row, the one whose turn it's going to be is "nanpa kama", the one whose turn it is is "nanpa awen" and the one whose turn it has been is "nanpa pini".
 
@@ -393,20 +350,17 @@ If a **verb** is an **pre-verb**, it implies a **transitive verb** before a **su
 |:-|:-|:-|
 | *It's going to be your turn.* | *It's your turn.* | *It's been your turn.* |
 
-
 🤔 The meanings of the **numeral** "mute" and of the [simple modifier](#simple-modifiers) "mute" can be one.
 
 | mute |
 |:-|
 | *three, many* → *three (or more)* |
 
-
 🤔 With two [numerals](#numerals), the **comma** can disappear.
 
 | palisa luka, tu → palisa luka tu |
 |:-|
 | *seven fingers* |
-
 
 ### Prepositions
 *(nimi suli poka luka)*
@@ -420,13 +374,11 @@ If a **verb** is an **pre-verb**, it implies a **transitive verb** before a **su
 |:-|
 | *I'm giving you the apple.* |
 
-
 When a [modifier](#modifiers) and a **preposition** are the same, the **preposition** disappears. There can be an [interjection](#interjections) between the [verb](#verbs) and the [preposition](#prepositions).
 
 | mi tawa tawa tomo seli. → mi tawa tomo seli. | mi tawa ala tawa tomo seli. → mi tawa ala tomo seli. |
 |:-|:-|
 | *I'm going to the kitchen.* | *I'm not going to the kitchen.* |
-
 
 **Sonja** uses **prepositions** only with [verbs](#verbs). In this case, one can remove the **comma** between two **prepositions**.
 
@@ -434,13 +386,11 @@ When a [modifier](#modifiers) and a **preposition** are the same, the **preposit
 |:-|
 | *I'm talking to you in the kitchen.* |
 
-
 In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitive)") instead of **prepositions**.
 
 | jan lon poka → jan poka | pona tawa lukin → pona lukin |
 |:-|:-|
 | *neighbour* | *beautiful* |
-
 
 👍 When a [verb](#verbs) and a **preposition** are the same, the **preposition** disappears and the direct object moves to the end of the sentence.
 
@@ -448,13 +398,11 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 |:-|:-|
 | *I'm moving it to the kitchen.* | *I'm not moving it to the kitchen.* |
 
-
 👍 "ijo" + [modifier](#modifiers) can express posession or topic.
 
 | lipu ni li ijo mi. | lipu ni li toki e ijo mi. |
 |:-|:-|
 | *This book is mine.* | *This book is about me.* |
-
 
 👍 "tawa poka" and "lon poka" can have the meaning of the experimental **preposition** "ante".
 
@@ -462,13 +410,11 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 |:-|
 | *People are more important than money.* |
 
-
 👍 "taso" as a [particle](#particles) is an abbreviation of "taso ni la".
 
 | taso ni la mije en meli li pali li pilin pona. → taso mije en meli li pali li pilin pona. |
 |:-|
 | *Independent from that, men and women work and are happy.* → *But men and women work and are happy.* |
-
 
 👎 In a contextual phrase (i.e. before the particle "[la](#contextual-fragment)"), **prepositions** can disappear.
 
@@ -476,13 +422,11 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 |:-|
 | *From my point of view, you are a good person.* |
 
-
 👎 **Pije** removes the **preposition** "tawa" before "lukin".
 
 | sina tawa lukin sama waso. → sina lukin sama waso. |
 |:-|
 | *You look like a bird.* |
-
 
 👎 Before "pilin", "ike tan" can disappear.
   
@@ -490,13 +434,11 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 |:-|
 | *You are empathizing badly because of struggle.* → *You are angry.* |
 
-
 👎 "lon" + [spatial noun](#spatial-nouns) can become a **preposition**.
 
 | mi tawa lon poka sina. → mi tawa poka sina. |
 |:-|
 | *I'm going with you.* |
-
 
 👎 "lon poka" can disappear.
 
@@ -504,20 +446,17 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 |:-|
 | *People are more important than money.* |
 
-
 👎 When a [preposition](#prepositions) becomes a [noun](#nouns), its meaning can become that of the word "ijo" after that **preposition**. **Pije** uses the **preposition** "tan" in this way.
 
 | mi sona ala e ni: ni li tan seme. → mi sona ala e tan. | ona li tawa e ona sama. → ona li tawa e sama. |
 |:-|:-|
 | *I don't know the reason.* | *It moves itself.* |
 
-
 🤔 …
 
 | a → lon |
 |:-|
 | *true* |
-
 
 # Particles
 *(nimi lili)*
@@ -527,7 +466,6 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 | [Quotes](#quotes) |
 | [Interjections](#interjections) |
 | [Transitive Particles](#transitive-particles) |
-
 
 ### Quotes
 *(nimi lili pona)*
@@ -541,20 +479,17 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 |:-|
 | *She has the name "Sonja".* |
 
-
 **Quotation marks** with "nimi" or "kalama" can disappear.
 
 | toki pi nimi "Epelanto" → toki Epelanto |
 |:-|
 | *the language "Esperanto"* → *Esperanto* |
 
-
 **Sonja** removes the [particle "pi"](#genitive) before "nanpa" with a [numeral](#numerals). In this case, "nanpa" is part of a quote. But **Pije** doesn't remove such a [particle "pi"](#genitive).
 
 | sina nanpa wan | toki pi nanpa wan → toki nanpa wan |
 |:-|:-|
 | *You're number one.* | *the language with the number one* → *the language number one* |
-
 
 ### Interjections
 *(nimi lili kalama)*
@@ -568,13 +503,11 @@ One can express an emotion by means of a plain **interjection** as if it were a 
 |:-|:-|
 | *Ha!, Wow!* | *Blah!, Meeow!* |
 
-
 An **interjection** can become a [thing verb](#thing-verbs).
 
 | soweli li kalama "mu". → soweli li mu. | ona li kute e nimi "mu" wawa. → ona li kute e mu wawa. |
 |:-|:-|
 | *The animal bleats.* | *She heard a loud bleat.* |
-
 
 👍 An **interjection** can become a [modifier](#modifiers).
 
@@ -582,20 +515,17 @@ An **interjection** can become a [thing verb](#thing-verbs).
 |:-|
 | *indeed, yes* |
 
-
 👍 One can reply by a phrase only, but it can't start with a **particle**.
 
 | ona li mama. → mama. | o jo e moku pona! → moku pona! |
 |:-|:-|
 | *She is a parent.* → *She is., Yes.* | *Have a good meal!* → *Bon appétit!* |
 
-
 👍 Two same words have the meaning of the [modifier](#modifiers) "a".
 
 | sina suli a! → sina suli suli! |
 |:-|
 | *You are really tall!* |
-
 
 ## Transitive Particles
 *(nimi lili luka)*
@@ -606,7 +536,6 @@ An **interjection** can become a [thing verb](#thing-verbs).
 | [Conjunctions](#conjunctions) |
 | [Contextual Fragment](#contextual-fragment) |
 
-
 ### Phrase Particles
 *(nimi lili luka pi wan pi mute nimi)*
 
@@ -616,7 +545,6 @@ An **interjection** can become a [thing verb](#thing-verbs).
 | [e](#direct-object) |
 | [o](#volative-vocative-and-imperative) |
 | [pi](#genitive) |
-
 
 #### Subject and Predicate
 *(nimi lili luka "li")*
@@ -630,13 +558,11 @@ If the subject (i.e. the words before the **particle** "li") is just "mi" or "si
 |:-|:-|
 | *I am a man.* | *You are new.* |
 
-
 A **sentence** can have multiple predicates (i.e. the words after the **particle** "li"). Their **commas** can disappear.
 
 | ma mama li lili, li lete. → ma mama li lili li lete. |
 |:-|
 | *The motherland is small and cold.* |
-
 
 👍 After "mi" or "sina" the [particle "li"](#subject-and-predicate) doesn't disappear, if there is a second [particle "li"](#subject-and-predicate).
 
@@ -644,20 +570,17 @@ A **sentence** can have multiple predicates (i.e. the words after the **particle
 |:-|
 | *I am seeing much and knowing little.* |
 
-
 👎 **Pije** removes only the first [particle "li"](#subject-and-predicate) after "mi" or "sina".
 
 | mi lukin mute. mi sona lili. → mi lukin mute li sona lili. |
 |:-|
 | *I am seeing much and knowing little.* |
 
-
 👎 When the subject (t.e. the words before the [particle "li"](#subject-and-predicate)) is one word alone, "li" disappears.
 
 | ona li mama. → ona mama. |
 |:-|
 | *She is a parent.* |
-
 
 #### Direct Object
 *(nimi lili luka "e")*
@@ -671,13 +594,11 @@ A predicate (i.e. the words after the **particle** "li") can have multiple direc
 |:-|
 | *She cooks the meat and the rice.* |
 
-
 One can express a desire by just a direct object (i.e. the words after the **particle** "e").
 
 | tawa pona sina la mi wile e moku pona. → moku pona! |
 |:-|
 | *I wish you a good meal.* → *Bon appétit!* |
-
 
 👎 When the [preposition](#prepositions) "kepeken" becomes a [verb](#verbs), **Pije** uses it with the **particle "e"**.
 
@@ -685,20 +606,17 @@ One can express a desire by just a direct object (i.e. the words after the **par
 |:-|
 | *I use the instrument.* |
 
-
 🤔 The direct object of "pana" can become a [verb](#verbs).
 
 | ona li pana e telo tawa kasi. → ona li telo e kasi. |
 |:-|
 | *She gives water to the plant.* → *She waters the plant.* |
 
-
 🤔 With "utala", the [preposition](#prepositions) "tawa" can become the [particle "e"](#direct-object).
 
 | ona li utala tawa jan ike. → ona li utala e jan ike. |
 |:-|
 | *She fights the enemy.* |
-
 
 #### Volative, Vocative and Imperative
 *(nimi lili luka "o")*
@@ -712,20 +630,17 @@ One can express a desire by just a direct object (i.e. the words after the **par
 |:-|:-|
 | *You should look.* → *Look!* | *Ali should be strong.* → *Ali, be strong!* |
 
-
 "kute" can disappear after the **particle** "o". **Sonja** doesn't combine two "o"-**particles**.
 
 | o kute! → o! | jan Ali o, o wawa! → jan Ali o wawa! |
 |:-|:-|
 | *Listen!* → *Hey!* | *Hey Ali, be strong!* |
 
-
 👎 A **volative** is expressed by starting the sentence with an "o".
 
 | ni o kama: ona li lape pona. → o ona li lape pona. |
 |:-|
 | *May she sleep well.* |
-
 
 #### Genitive
 *(nimi lili luka "pi")*
@@ -739,13 +654,11 @@ If a genitive phrase (i.e. the words after the **particle** "pi") consists of on
 |:-|
 | *a language of good* → *a good language* |
 
-
 As a rule of thumb, if the **particle** "pi" doesn't add useful information, it shouldn't be used.
 
 | jan pi ijo ni → jan ni |
 |:-|
 | *the person over there* → *that person* |
-
 
 👍 A genitive phrase (i.e. words after a **particle** "pi") can have another genitive phrase.
 
@@ -753,13 +666,11 @@ As a rule of thumb, if the **particle** "pi" doesn't add useful information, it 
 |:-|
 | *house of foreign beer* |
 
-
 👎 **Pije** turns the [particle "pi"](#genitive) with a [pronoun](#pronouns) into a [verb](#verbs).
 
 | ni li ijo mi. → ni li pi mi. |
 |:-|
 | *This belongs to me.* → *This is mine.* |
-
 
 👎 **Pije** turns the [particle "e"](#direct-object) into the [particle "pi"](#genitive) before a noun, which means a direction.
 
@@ -767,20 +678,17 @@ As a rule of thumb, if the **particle** "pi" doesn't add useful information, it 
 |:-|
 | *You look up.* |
 
-
 👎 The [particle "e"](#direct-object) can become the [particle "pi"](#genitive).
 
 | mi ante e toki pi sitelen tawa. → mi ante toki e sitelen tawa. |
 |:-|
 | *I translate the movie.* |
 
-
 👎 The [particle "pi"](#genitive) can disappear.
 
 | tomo pi telo nasa → tomo telo nasa |
 |:-|
 | *bar* |
-
 
 ### Conjunctions
 *(nimi lili luka "en", nimi lili luka "anu")*
@@ -794,13 +702,11 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 |:-|
 | *Is she a parent?* |
 
-
 👎 A **comma** can become a strange **conjunction** "en".
 
 | tomo pi telo nasa, pi ma ante → tomo pi telo nasa en pi ma ante |
 |:-|
 | *foreign bar* |
-
 
 👎 Every subject (i.e. the words before the [particle "li"](#subject-and-predicate) can have a strange **particle** "en".
 
@@ -808,13 +714,11 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 |:-|:-|
 | *Both you and I are children.* | *She is a child.* |
 
-
 👎 According to **Pije**, sentences with "anu seme" have the rude conotation of "or what".
 
 | ona li mama anu seme? |
 |:-|
 | *Is she a parent or what?* |
-
 
 🤔 **Sonja** uses the **particle** "en" only in order to combine multiple subjects (i.e. the words before the **particle** "li").
 
@@ -822,13 +726,11 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 |:-|
 | *What you say and what you do are the same.* |
 
-
 🤔 In front of words and after the same words negated, the **particle** "anu" disappears.
 
 | ona li mama ala anu mama? → ona li mama ala mama? |
 |:-|
 | *Is she a parent?* |
-
 
 ### Contextual Fragment
 *(nimi lili luka "la")*
@@ -842,13 +744,11 @@ By means of the **particle "la"**, a [preposition](#prepositions) can be at the 
 |:-|
 | *Why are you calling me good?* |
 
-
 At the beginning of a **sentence**, the [preposition](#prepositions) "lon" disappears.
 
 | ona li kama lon tenpo pimeja ni. → tenpo pimeja ni la ona li kama. |
 |:-|
 | *She is coming tonight.* → *Tonight, she is coming.* |
-
 
 If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**, "ni" disappears.
 
@@ -856,13 +756,11 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 |:-|
 | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
-
 👎 **Pije** doesn't use [prepositions](#prepositions) at the beginning of a **sentence**. But he uses strange [prepositions](#prepositions) instead.
 
 | sina pu tan jan seme? → tan pi jan seme la sina pu? |
 |:-|
 | *Because of whom do you interact with the Toki Pona book?* |
-
 
 # Dictionary
 *(ale pi nimi mute)*
