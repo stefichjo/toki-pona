@@ -792,7 +792,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/esun.png" height="42">     | [*PREPOSITION*](#prepositions) | **esun**, kepeken | *ADJECTIVE* replacing, *NOUN* replacement; **business transaction**; **bazaar**, **fair**, **market**, **shop** → *PREPOSITION* instead of |
 |                                                        | [*NUMBER*](#numbers) | ala, ale, **esun**, luka, mute, tu, wan | *NUMBER* 7, seven |
 | <img src="musi/sitelen/pona/ijo.png" height="42">      | [*SIMPLE NOUN*](#simple-nouns) | **ijo** — jan | *NOUN* **matter**, **object**, **phenomenon**, **thing**; location, place; case |
-| <img src="musi/sitelen/pona/ike.png" height="42">      | [*SIMPLE MODIFIER*](#simple-modifiers) | pona — **ike**, nasa, pakala, utala | *ADJECTIVE* **bad**, **negative**; (sin -) **non-essential**, (sin -) **irrelevant** |
+| <img src="musi/sitelen/pona/ike.png" height="42">      | [*SIMPLE MODIFIER*](#simple-modifiers) | pona — **ike**, nasa, pakala, utala | *ADJECTIVE* **bad**, **negative**; **irrelevant**, **non-essential** |
 | <img src="musi/sitelen/pona/ilo.png" height="42">      | [*THING NOUN*](#thing-nouns) | **ilo** — pakala | functioning → organ; **tool**, **implement**, **machine**, **device** |
 | <img src="musi/sitelen/pona/insa.png" height="42">     | [*SPATIAL NOUN*](#spatial-nouns) | weka — **insa**, poka, sin | inner → **centre**, **content**, **inside**, **between**; **internal organ**, **stomach** |
 | <img src="musi/sitelen/pona/jaki.png" height="42">     | [*THING NOUN*](#thing-nouns) | **jaki** — suwi | **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** → dirt, poison, waste |
@@ -929,3 +929,5 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 🤔 **business transaction**; **bazaar**, **fair**, **market**, **shop** →  **market**, **shop**, **fair**, **bazaar**, **business transaction**
 
 🤔 **matter**, **object**, **phenomenon**, **thing** → **thing**, **phenomenon**, **object**, **matter**
+
+🤔 **irrelevant**, **non-essential** → **non-essential**, **irrelevant**
