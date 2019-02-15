@@ -784,8 +784,8 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/jaki.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | **jaki** — suwi | *ADJECTIVE* **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** → *NOUN* dirt, poison, waste |
 | <img src="musi/sitelen/pona/jan.png" height="42">      | [*SIMPLE NOUN*](#nouns) | ijo — **jan** | *NOUN* **human being**, **person**, **somebody** |
 | <img src="musi/sitelen/pona/jelo.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **jelo**, laso, loje | *ADJECTIVE* **yellow**, **yellowish** |
-| <img src="musi/sitelen/pona/jo.png" height="42">       | [*SIMPLE VERB*](#simple-verbs) | **jo**, pana | **to have**, **carry**, **contain**, **hold** |
-| <img src="musi/sitelen/pona/kala.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | **kala**, kasi, pipi, waso | swimming → **fish**, **marine animal**, **sea creature** |
+| <img src="musi/sitelen/pona/jo.png" height="42">       | [*SIMPLE VERB*](#simple-verbs) | **jo**, pana | *VERB* **to have**, **carry**, **contain**, **hold** |
+| <img src="musi/sitelen/pona/kala.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | **kala**, kasi, pipi, waso | *ADJECTIVE* swimming → *NOUN* **fish**, **marine animal**, **sea creature** |
 | <img src="musi/sitelen/pona/kalama.png" height="42">   | [*SIMPLE MODIFIER*](#simple-modifiers) | **kalama**, kule | sounding; **to produce a sound**; **recite**, **utter aloud** |
 | <img src="musi/sitelen/pona/kama.png" height="42">     | [*PRE-VERB*](#pre-verbs) | awen, **kama**, pini | **arriving**, **coming**, **future**, **summoned** → **to become**, **manage to**, **succeed in** |
 | <img src="musi/sitelen/pona/kasi.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | kala, **kasi**, pipi, waso | vegetating → **plant**, **vegetation**; **herb**, **leaf** |
