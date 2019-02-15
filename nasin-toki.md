@@ -229,7 +229,7 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 |:-|:-|:-|
 | *It's going to be your turn.* | *It's your turn.* | *It's been your turn.* |
 
-🤔 The meanings of the ɴᴜᴍʙᴇʀ "mute" and of the [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) "mute" can be one.
+🤔 The meanings of the ɴᴜᴍʙᴇʀ "mute" and of the [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) "mute" can merge.
 
 | mute |
 |:-|
@@ -265,7 +265,7 @@ When a [ᴍᴏᴅɪꜰɪᴇʀ](#modifier) and a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ ar
 |:-|
 | *I'm talking to you in the kitchen.* |
 
-In other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive)) instead of ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.
+In all other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive)) instead of ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.
 
 | jan lon poka → jan poka | pona tawa lukin → pona lukin |
 |:-|:-|
@@ -277,7 +277,7 @@ In other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪᴄ�
 |:-|:-|
 | *I'm moving it to the kitchen.* | *I'm not moving it to the kitchen.* |
 
-👍 "ijo" + [ᴍᴏᴅɪꜰɪᴇʀ](#modifier) can express posession or topic.
+👍 "ijo" + [ᴍᴏᴅɪꜰɪᴇʀ](#modifier) can express possession or topic.
 
 | lipu ni li ijo mi. | lipu ni li toki e ijo mi. |
 |:-|:-|
@@ -289,13 +289,13 @@ In other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪᴄ�
 |:-|
 | *People are more important than money.* |
 
-👍 "taso" as a [ᴘᴀʀᴛɪᴄʟᴇ](#particle) is an abbreviation of "taso ni la".
+👍 "taso" as a [ᴘᴀʀᴛɪᴄʟᴇ](#particle) can be thought of as an abbreviation of "taso ni la".
 
 | taso ni la mije en meli li pali li pilin pona. → taso mije en meli li pali li pilin pona. |
 |:-|
 | *Independent from that, men and women work and are happy.* → *But men and women work and are happy.* |
 
-👎 In a contextual pre-phrase (i.e. before the [ᴘᴀʀᴛɪᴄʟᴇ "la"](#pre-phrase-particle)), ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can disappear.
+👎 Before the [ᴘᴀʀᴛɪᴄʟᴇ "la"](#pre-phrase-particle), ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can disappear.
 
 | tawa mi la sina jan pona. → mi la sina jan pona. |
 |:-|
@@ -313,7 +313,7 @@ In other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪᴄ�
 |:-|
 | *You are empathizing badly because of struggle.* → *You are angry.* |
 
-👎 "lon" + [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](#spatial-modifier) can become a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ.
+👎 [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](#spatial-modifier)s can become a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs implying "lon".
 
 | mi tawa lon poka sina. → mi tawa poka sina. |
 |:-|
@@ -347,7 +347,7 @@ In other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪᴄ�
 | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) |
 | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
 
-ᴠᴇʀʙs imply "e ijo/ni", i.e. they are transitive by default.
+ᴠᴇʀʙs imply "e ijo/ni", i.e. they are ᴛʀᴀɴꜱɪᴛɪᴠᴇ by default.
 
 | mije li sona e ijo/ni. → mije li sona. |
 |:-|
@@ -371,7 +371,7 @@ In other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪᴄ�
 |:-|
 | *The word is known by the newcomer.* |
 
-🤔 **Sonja** allows all [ᴍᴏᴅɪꜰɪᴇʀ](#modifier)s to imply "e ijo/ni".
+🤔 **Sonja** allows all [ᴍᴏᴅɪꜰɪᴇʀ](#modifier)s to be used as ᴠᴇʀʙs, i.e. they can imply "e ijo/ni".
 
 | mi open e ni lon sewi. → mi open lon sewi. |
 |:-|
@@ -426,7 +426,7 @@ As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean the tool ("kepeken ilo") 
 | [↑](#verb) |
 |:-|
 
-If a ᴠᴇʀʙ is a ᴘʀᴇ-ᴠᴇʀʙ, it implies a **transitive** ᴠᴇʀʙ before a **subordinate clause**, which receives the main ᴠᴇʀʙ from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [ᴘᴀʀᴛɪᴄʟᴇ "li"](#subject-and-predicate)) is the same. Only a closed set of ᴠᴇʀʙ and [ᴍᴏᴅɪꜰɪᴇʀ](#modifier)s can be used as ᴘʀᴇ-ᴠᴇʀʙs.
+If a ᴠᴇʀʙ is a ᴘʀᴇ-ᴠᴇʀʙ, it implies a ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙ before a **subordinate clause**, which receives the main ᴠᴇʀʙ from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [ᴘᴀʀᴛɪᴄʟᴇ "li"](#subject-and-predicate)) is the same. Only a closed set of ᴠᴇʀʙs and [ᴍᴏᴅɪꜰɪᴇʀ](#modifier)s can be used as ᴘʀᴇ-ᴠᴇʀʙs.
 
 | ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
 |:-|
@@ -883,7 +883,7 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 | <img src="musi/sitelen/pona/supa.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | **supa** | … → **horizontal surface**, **thing to put or rest something on** |
 | <img src="musi/sitelen/pona/suwi.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | jaki — **suwi** | **sweet**, **fragrant**; **cute**, **innocent**, **adorable** → sweets |
 | <img src="musi/sitelen/pona/tan.png" height="42">      | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | lon, **tan**, tawa | departing → **by**, **from**, **because of** |
-| <img src="musi/sitelen/pona/taso.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | pu — **taso** | independent; **only** → independent from; **but**, **however** |
+| <img src="musi/sitelen/pona/taso.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | pu — **taso** | independent; **only** → independent from; (- ni la) **but**, (- ni la) **however** |
 | <img src="musi/sitelen/pona/tawa.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | lon, tan, **tawa** | going, moving → **going to**, **toward**; **for**; **from the perspective of** |
 | <img src="musi/sitelen/pona/telo.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | kiwen, ko, kon, **telo** | liquid, fluid, wet → **water**, **liquid**, **fluid**, **wet substance**; **beverage** |
 | <img src="musi/sitelen/pona/tenpo.png" height="42">    | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **tenpo** | ephemeral, interim, provisional → **time**, **duration**, **moment**, **occasion**, **period**, **situation** |
@@ -933,4 +933,3 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 
 🤔 **number** → **numbers**
 
-ᴀʙᴄᴅᴇꜰɢʜɪᴊᴋʟᴍɴᴏᴘʀꜱᴛᴜᴠᴡʏᴢ
