@@ -95,7 +95,7 @@
 | [↑](#modifiers) |
 |:-|
 | [Correlatives](#correlatives) |
-| [Spatial Nouns](#spatial-nouns) |
+| [Spatial Modifiers](#spatial-modifiers) |
 | [Life-Form Nouns](#life-form-nouns) |
 
 **Thing modifiers** can imply the [noun](#nouns) "ijo".
@@ -160,25 +160,25 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 
 🤔 According to **Sonja**, "seme" is a [particle](#particles), even though it behaves just like the other **correlatives**.
 
-#### Spatial Nouns
-*(nimi suli lawa nasin)*
+#### Spatial Modifiers
+*(nimi suli poka nasin)*
 
 | [↑](#thing-modifiers) |
 |:-|
 
-**Spatial nouns** are **thing modifiers**, that can imply "ijo" meaning "location", "place".
+**Spatial modifiers** are **thing modifiers**, that can imply "ijo" meaning "location", "place".
 
 | insa |
 |:-|
 | *inner* → *inner area, center* |
 
-👍 When a [verb](#verbs) becomes a **noun**, it can mean the place of its accomplishment.
+👍 When a **modifier** becomes a [noun](#nouns), it can mean the place of its accomplishment.
 
 | mi lon lape. | sina tan lape. | ona li tawa lape. |
 |:-|:-|:-|
 | *I am resting.* | *You have been resting.* | *She is going to rest.* |
 
-👍 The [pre-verbs](#pre-verbs) "awen", "kama", "pini" can become **spatial nouns**.
+👍 The [pre-verbs](#pre-verbs) "awen", "kama", "pini" can become **spatial modifiers**.
 
 | lon awen | lon kama | lon pini |
 |:-|:-|:-|
