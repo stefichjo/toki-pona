@@ -58,7 +58,7 @@
 | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) |
 | [ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀ](#person-modifier) |
 | [ɴᴜᴍʙᴇʀ](#number) |
-| [Prepositions](#prepositions) |
+| [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
 
 ### SIMPLE MODIFIER
 *(nimi suli poka pona)*
@@ -93,7 +93,7 @@ As a [ɴᴏᴜɴ](#noun), ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs imply "ijo".
 |:-|:-|:-|
 | *mouthful* → *food* | *seed* → *bread* | *mammal* → *meat* |
 
-👎 As [ɴᴏᴜɴ](#noun)s, the [ᴍᴏᴅɪꜰɪᴇʀ](#modifiers)s (or [prepositions](#prepositions)) "ante" and "sama" can imply "ijo".
+👎 As [ɴᴏᴜɴ](#noun)s, the [ᴍᴏᴅɪꜰɪᴇʀ](#modifiers)s (or [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s) "ante" and "sama" can imply "ijo".
 
 | ijo ante → ante | ijo sama → sama |
 |:-|:-|
@@ -135,7 +135,7 @@ In a genitive clause (i.e. the words behind the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#ge
 |:-|
 | *Tell me where the money is.* → *Where is the money?* |
 
-👎 The beginning of a **subordinate clause** can disappear. Therefore, [pre-verbs](#pre-verbs) and [prepositions](#prepositions) can become [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴs](#noun).
+👎 The beginning of a **subordinate clause** can disappear. Therefore, [pre-verbs](#pre-verbs) and [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s can become [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴs](#noun).
 
 | jan pi ona li tawa tomo | jan pi li tawa tomo | jan pi tawa tomo |
 |:-|:-|:-|
@@ -241,31 +241,31 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 |:-|
 | *seven fingers* |
 
-### Prepositions
+### PREPOSITION
 *(nimi suli poka luka)*
 
 | [↑](#modifier) |
 |:-|
 
-**Prepositional phrases** follow ᴘᴀʀᴛɪᴄʟᴇ ᴘʜʀᴀꜱᴇs.
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs follow ᴘᴀʀᴛɪᴄʟᴇ ᴘʜʀᴀꜱᴇs.
 
 | mi pana e kili tawa sina. |
 |:-|
 | *I'm giving you the apple.* |
 
-When a [ᴍᴏᴅɪꜰɪᴇʀ](#modifier) and a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ are the same, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ disappears. There can be an [interjection](#interjections) between the [ᴠᴇʀʙ](#verb) and the [preposition](#prepositions).
+When a [ᴍᴏᴅɪꜰɪᴇʀ](#modifier) and a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ are the same, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ disappears. There can be an [interjection](#interjections) between the [ᴠᴇʀʙ](#verb) and the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition).
 
 | mi tawa tawa tomo seli. → mi tawa tomo seli. | mi tawa ala tawa tomo seli. → mi tawa ala tomo seli. |
 |:-|:-|
 | *I'm going to the kitchen.* | *I'm not going to the kitchen.* |
 
-**Sonja** uses **prepositions** only with **predicates**. In this case, one can remove the **comma** between two **prepositions**.
+**Sonja** uses ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs only with **predicates**. In this case, one can remove the **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.
 
 | mi toki tawa sina, lon tomo seli. → mi toki tawa sina lon tomo seli. |
 |:-|
 | *I'm talking to you in the kitchen.* |
 
-In other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive)) instead of **prepositions**.
+In other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive)) instead of ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.
 
 | jan lon poka → jan poka | pona tawa lukin → pona lukin |
 |:-|:-|
@@ -295,7 +295,7 @@ In other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪᴄ�
 |:-|
 | *Independent from that, men and women work and are happy.* → *But men and women work and are happy.* |
 
-👎 In a contextual pre-phrase (i.e. before the [ᴘᴀʀᴛɪᴄʟᴇ "la"](#pre-phrase-particle)), **prepositions** can disappear.
+👎 In a contextual pre-phrase (i.e. before the [ᴘᴀʀᴛɪᴄʟᴇ "la"](#pre-phrase-particle)), ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can disappear.
 
 | tawa mi la sina jan pona. → mi la sina jan pona. |
 |:-|
@@ -325,7 +325,7 @@ In other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪᴄ�
 |:-|
 | *People are more important than money.* |
 
-👎 When a [preposition](#prepositions) becomes a [ɴᴏᴜɴ](#noun), its meaning can become that of the word "ijo" after that ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ. **Pije** uses the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "tan" in this way.
+👎 When a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) becomes a [ɴᴏᴜɴ](#noun), its meaning can become that of the word "ijo" after that ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ. **Pije** uses the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "tan" in this way.
 
 | mi sona ala e ni: ni li tan seme. → mi sona ala e tan. | ona li tawa e ona sama. → ona li tawa e sama. |
 |:-|:-|
@@ -444,7 +444,7 @@ After the **pre-verbs** "awen" and "kama", "lon" can disappear.
 |:-|
 | *She will sleep after a short period of time. She will sleep soon. She falls asleep quickly.* |
 
-👎 The [prepositions](#prepositions) "lon", "tan", "tawa" can become **pre-verbs**.
+👎 The [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s "lon", "tan", "tawa" can become **pre-verbs**.
 
 | mi lon moku e kili. | sina tan moku e kili. | ona li tawa moku e kili. |
 |:-|:-|:-|
@@ -588,7 +588,7 @@ One can express a desire by just a direct object (i.e. the words after the ᴘ�
 |:-|
 | *I wish you a good meal.* → *Bon appétit!* |
 
-👎 When the [preposition](#prepositions) "kepeken" becomes a [ᴠᴇʀʙ](#verb), **Pije** uses it with the ᴘᴀʀᴛɪᴄʟᴇ "e".
+👎 When the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "kepeken" becomes a [ᴠᴇʀʙ](#verb), **Pije** uses it with the ᴘᴀʀᴛɪᴄʟᴇ "e".
 
 | mi kepeken ilo. → mi kepeken e ilo. |
 |:-|
@@ -600,7 +600,7 @@ One can express a desire by just a direct object (i.e. the words after the ᴘ�
 |:-|
 | *She gives water to the plant.* → *She waters the plant.* |
 
-🤔 With "utala", the [preposition](#prepositions) "tawa" can become the ᴘᴀʀᴛɪᴄʟᴇ "e".
+🤔 With "utala", the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "tawa" can become the ᴘᴀʀᴛɪᴄʟᴇ "e".
 
 | ona li utala tawa jan ike. → ona li utala e jan ike. |
 |:-|
@@ -726,13 +726,13 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 | [↑](#transitive-particle) |
 |:-|
 
-By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", a [preposition](#prepositions) can be at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ.
+By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) can be at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | sina pana e nimi "pona" tawa mi tan seme? → tan seme la sina pana e nimi "pona" tawa mi? |
 |:-|
 | *Why are you calling me good?* |
 
-At the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ, the [preposition](#prepositions) "lon" disappears.
+At the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ, the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "lon" disappears.
 
 | ona li kama lon tenpo pimeja ni. → tenpo pimeja ni la ona li kama. |
 |:-|
@@ -744,7 +744,7 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 |:-|
 | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
-👎 **Pije** doesn't use [prepositions](#prepositions) at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ. But he uses [prepositions](#prepositions) instead.
+👎 **Pije** doesn't use [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ. But he uses [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s instead.
 
 | sina pu tan jan seme? → tan pi jan seme la sina pu? |
 |:-|
@@ -770,12 +770,12 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 |                                                        | [ɴᴜᴍʙᴇʀ](#number) | ala, **ale**, esun, luka, mute, tu, wan | ɴᴜᴍʙᴇʀ 🤔 **100**, infinite |
 |                                                        | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | lili — **ale**, mute, suli, wawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **countless**, **bountiful**, **plentiful**, ɴᴏᴜɴ **abundance** |
 | <img src="musi/sitelen/pona/anpa.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](#spatial-modifier) | **anpa** — sewi, lawa — noka | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bowing down**, **downward**, **humble**, **lowly**, **dependent** → ɴᴏᴜɴ area below |
-| <img src="musi/sitelen/pona/ante.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | **ante** — sama | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **different**, **altered**, **changed**, **other** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ than |
+| <img src="musi/sitelen/pona/ante.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | **ante** — sama | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **different**, **altered**, **changed**, **other** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ than |
 | <img src="musi/sitelen/pona/anu.png" height="42">      | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunctions) | **anu** — en | ᴘᴀʀᴛɪᴄʟᴇ (alternative), **or** |
 | <img src="musi/sitelen/pona/awen.png" height="42">     | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verbs) | **awen**, kama, pini | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**, **protected**, **safe**, **staying**, **waiting** → ᴘʀᴇ-ᴠᴇʀʙ **to continue to** |
 | <img src="musi/sitelen/pona/e.png" height="42">        | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#phrase-particle) | **e**, li, o, pi | ᴘᴀʀᴛɪᴄʟᴇ **(before the direct object)** |
 | <img src="musi/sitelen/pona/en.png" height="42">       | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunctions) | anu — **en** | ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, (between multiple ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs belonging to the same ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ) |
-| <img src="musi/sitelen/pona/esun.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | **esun**, kepeken | ᴀᴅᴊᴇᴄᴛɪᴠᴇ replacing, ɴᴏᴜɴ replacement; **business transaction**; **bazaar**, **fair**, **market**, **shop** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ instead of |
+| <img src="musi/sitelen/pona/esun.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | **esun**, kepeken | ᴀᴅᴊᴇᴄᴛɪᴠᴇ replacing, ɴᴏᴜɴ replacement; **business transaction**; **bazaar**, **fair**, **market**, **shop** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ instead of |
 |                                                        | [ɴᴜᴍʙᴇʀ](#number) | ala, ale, **esun**, luka, mute, tu, wan | ɴᴜᴍʙᴇʀ 7, seven |
 | <img src="musi/sitelen/pona/ijo.png" height="42">      | [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](#noun) | **ijo** — jan | ɴᴏᴜɴ **matter**, **object**, **phenomenon**, **thing**; location, place; case |
 | <img src="musi/sitelen/pona/ike.png" height="42">      | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | pona — **ike**, nasa, pakala, utala | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bad**, **negative**; **irrelevant**, **non-essential** |
@@ -790,7 +790,7 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 | <img src="musi/sitelen/pona/kama.png" height="42">     | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verbs) | awen, **kama**, pini | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **arriving**, **coming**, **future**, **summoned** → ᴘʀᴇ-ᴠᴇʀʙ **to become**; **manage to**, **succeed in** |
 | <img src="musi/sitelen/pona/kasi.png" height="42">     | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](#life-form-modifier) | kala, **kasi**, pipi, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ vegetating → ɴᴏᴜɴ **plant**, **vegetation**; **herb**, **leaf** |
 | <img src="musi/sitelen/pona/ken.png" height="42">      | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verbs) | **ken**, lukin, open, sona, wile | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **possible** → ᴘʀᴇ-ᴠᴇʀʙ **to be able to**, **be allowed to**, **can**, **may** |
-| <img src="musi/sitelen/pona/kepeken.png" height="42">  | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | esun, **kepeken** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ … → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **by means of**, **using**, **with** |
+| <img src="musi/sitelen/pona/kepeken.png" height="42">  | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | esun, **kepeken** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ … → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **by means of**, **using**, **with** |
 | <img src="musi/sitelen/pona/kili.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **kili**, pan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ hanging → ɴᴏᴜɴ **fruit**, **vegetable**; **mushroom** |
 | <img src="musi/sitelen/pona/kiwen.png" height="42">    | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **kiwen**, ko, kon, telo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ hard → ɴᴏᴜɴ **hard object**, **metal**, **rock**, **stone** |
 | <img src="musi/sitelen/pona/ko.png" height="42">       | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | kiwen, **ko**, kon, telo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ semi-solid → ɴᴏᴜɴ **clay**, **clinging form**, **dough**, **semi-solid**, **paste**, **powder** |
@@ -810,7 +810,7 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 | <img src="musi/sitelen/pona/linja.png" height="42">    | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **linja** — palisa | long and flexible → **long and flexible thing**; **cord**, **hair**, **rope**, **thread**, **yarn** |
 | <img src="musi/sitelen/pona/lipu.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **lipu**, nena, sike | flat → **flat object**; **book**, **document**, **card**, **paper**, **record**, **website** |
 | <img src="musi/sitelen/pona/loje.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | jelo, laso, **loje** | **red**, **reddish** |
-| <img src="musi/sitelen/pona/lon.png" height="42">      | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | **lon**, tan, tawa | being present → **located at**, **present at** |
+| <img src="musi/sitelen/pona/lon.png" height="42">      | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | **lon**, tan, tawa | being present → **located at**, **present at** |
 |                                                        | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | ala — **lon** | **real**, **true**, **existing** |
 | <img src="musi/sitelen/pona/luka.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verbs) | kute, lawa, len, **luka**, lukin, noka, palisa, pilin, poki, selo, tomo, uta | to touch → **arm**, **hand**, **tactile organ** |
 |                                                        | [ɴᴜᴍʙᴇʀ](#number) | ala, ale, esun, **luka**, mute, tu, wan | 5, **five** |
@@ -862,8 +862,8 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 |                                                        | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](#spatial-modifier) | weka — insa, **poka**, sin | near, **nearby**, neighbouring → **vicinity** |
 | <img src="musi/sitelen/pona/poki.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verbs) | kute, lawa, len, luka, lukin, noka, palisa, pilin, **poki**, selo, tomo, uta | to contain, keep, be full of → bladder; **container**, **bag**, **bowl**, **box**, **cup**, **cupboard**, **drawer**, **vessel** |
 | <img src="musi/sitelen/pona/pona.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | **pona** – ike, nasa, pakala, utala | **good**, **positive**, **useful**; **friendly**, **peaceful**; **simple** |
-| <img src="musi/sitelen/pona/pu.png" height="42">       | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | **pu** — taso | accordingly → according to, following, depending on; **interacting with the Toki Pona book** |
-| <img src="musi/sitelen/pona/sama.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | ante — **sama** | **same**, **similar**; **each other**; **sibling**, **peer**, **fellow** → **as**, **like** |
+| <img src="musi/sitelen/pona/pu.png" height="42">       | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | **pu** — taso | accordingly → according to, following, depending on; **interacting with the Toki Pona book** |
+| <img src="musi/sitelen/pona/sama.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | ante — **sama** | **same**, **similar**; **each other**; **sibling**, **peer**, **fellow** → **as**, **like** |
 | <img src="musi/sitelen/pona/seli.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | lete — **seli** | warm; cooked → **fire**; **cooking element**, **chemical reaction**, **heat source** |
 | <img src="musi/sitelen/pona/selo.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verbs) | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, **selo**, tomo, uta | to form → **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary** |
 |                                                        | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | open — **selo** | closed, confined |
@@ -880,11 +880,11 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 | <img src="musi/sitelen/pona/soweli.png" height="42">   | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](#life-form-modifier) | akesi — **soweli** | warm-blooded → **animal**, **beast**, **land mammal** |
 | <img src="musi/sitelen/pona/suli.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | lili — ale, mute, **suli**, wawa | **big**, **heavy**, **large**, **long**, **tall**; **important**; **adult** |
 | <img src="musi/sitelen/pona/suno.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | pimeja — **suno** | bright, lit → **sun**; **light**, **brightness**, **glow**, **radiance**, **shine**; **light source** |
-| <img src="musi/sitelen/pona/supa.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | **supa** | … → **horizontal surface**, **thing to put or rest something on** |
+| <img src="musi/sitelen/pona/supa.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | **supa** | … → **horizontal surface**, **thing to put or rest something on** |
 | <img src="musi/sitelen/pona/suwi.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | jaki — **suwi** | **sweet**, **fragrant**; **cute**, **innocent**, **adorable** → sweets |
-| <img src="musi/sitelen/pona/tan.png" height="42">      | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | lon, **tan**, tawa | departing → **by**, **from**, **because of** |
-| <img src="musi/sitelen/pona/taso.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | pu — **taso** | independent; **only** → independent from; **but**, **however** |
-| <img src="musi/sitelen/pona/tawa.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | lon, tan, **tawa** | going, moving → **going to**, **toward**; **for**; **from the perspective of** |
+| <img src="musi/sitelen/pona/tan.png" height="42">      | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | lon, **tan**, tawa | departing → **by**, **from**, **because of** |
+| <img src="musi/sitelen/pona/taso.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | pu — **taso** | independent; **only** → independent from; **but**, **however** |
+| <img src="musi/sitelen/pona/tawa.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | lon, tan, **tawa** | going, moving → **going to**, **toward**; **for**; **from the perspective of** |
 | <img src="musi/sitelen/pona/telo.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | kiwen, ko, kon, **telo** | liquid, fluid, wet → **water**, **liquid**, **fluid**, **wet substance**; **beverage** |
 | <img src="musi/sitelen/pona/tenpo.png" height="42">    | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **tenpo** | ephemeral, interim, provisional → **time**, **duration**, **moment**, **occasion**, **period**, **situation** |
 | <img src="musi/sitelen/pona/toki.png" height="42">     | [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-verbs) | nanpa, nimi, sitelen, sona, **toki** | **to communicate**, **say**, **speak**, **say**, **talk**, **use language**, **think** → language |
@@ -934,4 +934,3 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 🤔 **number** → **numbers**
 
 ᴀʙᴄᴅᴇꜰɢʜɪᴊᴋʟᴍɴᴏᴘʀꜱᴛᴜᴠᴡʏᴢ
-
