@@ -807,7 +807,7 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 | <img src="musi/sitelen/pona/lete.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **lete** — seli | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **cold**, **cool**; **uncooked**, **raw** → ɴᴏᴜɴ ice, frost |
 | <img src="musi/sitelen/pona/li.png" height="42">       | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#phrase-particle) | e, **li**, o, pi | ᴘᴀʀᴛɪᴄʟᴇ **(between any subject except mi alone or sina alone and its predicate; also to introduce a new predicate for the same subject)** |
 | <img src="musi/sitelen/pona/lili.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | **lili** — ale, mute, suli, wawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **little**, **small**, **short**; **few**; **a bit**; **young** |
-| <img src="musi/sitelen/pona/linja.png" height="42">    | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **linja** — palisa | long and flexible → **long and flexible thing**; **cord**, **hair**, **rope**, **thread**, **yarn** |
+| <img src="musi/sitelen/pona/linja.png" height="42">    | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **linja** — palisa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ long and flexible → ɴᴏᴜɴ **long and flexible thing**; **cord**, **hair**, **rope**, **thread**, **yarn** |
 | <img src="musi/sitelen/pona/lipu.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **lipu**, nena, sike | flat → **flat object**; **book**, **document**, **card**, **paper**, **record**, **website** |
 | <img src="musi/sitelen/pona/loje.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | jelo, laso, **loje** | **red**, **reddish** |
 | <img src="musi/sitelen/pona/lon.png" height="42">      | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | **lon**, tan, tawa | being present → **located at**, **present at** |
