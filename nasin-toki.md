@@ -812,8 +812,8 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 | <img src="musi/sitelen/pona/loje.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | jelo, laso, **loje** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **red**, **reddish** |
 | <img src="musi/sitelen/pona/lon.png" height="42">      | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | **lon**, tan, tawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ being present → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **located at**, **present at** |
 |                                                        | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | ala — **lon** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **existing**, **real**, **true** |
-| <img src="musi/sitelen/pona/luka.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) | kute, lawa, len, **luka**, lukin, noka, palisa, pilin, poki, selo, tomo, uta | to touch → **arm**, **hand**, **tactile organ** |
-|                                                        | [ɴᴜᴍʙᴇʀ](#number) | ala, ale, esun, **luka**, mute, tu, wan | 5, **five** |
+| <img src="musi/sitelen/pona/luka.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) | kute, lawa, len, **luka**, lukin, noka, palisa, pilin, poki, selo, tomo, uta | ᴠᴇʀʙ to manipulate, touch → ɴᴏᴜɴ **arm**, **hand**, **tactile organ** |
+|                                                        | [ɴᴜᴍʙᴇʀ](#number) | ala, ale, esun, **luka**, mute, tu, wan | ɴᴜᴍʙᴇʀ 5, **five** |
 | <img src="musi/sitelen/pona/lukin.png" height="42">    | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) | kute, lawa, len, luka, **lukin**, noka, palisa, pilin, poki, selo, tomi, uta | **to look at**, **see**, **examine**, **observe**, **read**, **watch**; care → **eye** |
 |                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) | ken, **lukin**, open, sona, wile | … → **to seek**, **look for**, **try to** |
 | <img src="musi/sitelen/pona/lupa.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **lupa**, nasin | thick, extended, hollow → (- tomo) **door**, **hole**, **orifice**, (- suno) **window** |
