@@ -161,7 +161,7 @@ In a genitive clause (i.e. the words behind the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#ge
 |:-|:-|:-|
 | *I am resting.* | *You have been resting.* | *She is going to rest.* |
 
-👍 The [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) "awen", "kama", "pini" can become ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀs.
+👍 The [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb)s "awen", "kama", "pini" can become ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀs.
 
 | lon awen | lon kama | lon pini |
 |:-|:-|:-|
