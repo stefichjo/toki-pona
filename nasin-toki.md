@@ -789,7 +789,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/kalama.png" height="42">   | [*SIMPLE MODIFIER*](#simple-modifiers) | **kalama**, kule | *ADJECTIVE* sounding; **to produce a sound**; **recite**, **utter aloud** |
 | <img src="musi/sitelen/pona/kama.png" height="42">     | [*PRE-VERB*](#pre-verbs) | awen, **kama**, pini | *ADJECTIVE* **arriving**, **coming**, **future**, **summoned** → *PRE-VERB* **to become**; **manage to**, **succeed in** |
 | <img src="musi/sitelen/pona/kasi.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | kala, **kasi**, pipi, waso | *ADJECTIVE* vegetating → *NOUN* **plant**, **vegetation**; **herb**, **leaf** |
-| <img src="musi/sitelen/pona/ken.png" height="42">      | [*PRE-VERB*](#pre-verbs) | **ken**, lukin, open, sona, wile | **possible** → **to be able to**, **be allowed to**, **can**, **may** |
+| <img src="musi/sitelen/pona/ken.png" height="42">      | [*PRE-VERB*](#pre-verbs) | **ken**, lukin, open, sona, wile | *ADJECTIVE* **possible** → *PRE-VERB* **to be able to**, **be allowed to**, **can**, **may** |
 | <img src="musi/sitelen/pona/kepeken.png" height="42">  | [*PREPOSITION*](#prepositions) | esun, **kepeken** | **to use** → **with**, **by means of** |
 | <img src="musi/sitelen/pona/kili.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | **kili**, pan | hanging → **fruit**, **vegetable**, **mushroom** |
 | <img src="musi/sitelen/pona/kiwen.png" height="42">    | [*THING MODIFIER*](#thing-modifiers) | **kiwen**, ko, kon, telo | hard → **hard object**, **metal**, **rock**, **stone** |
