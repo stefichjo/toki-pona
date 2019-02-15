@@ -31,8 +31,8 @@
 | [↑](#toki-pona-grammar) |
 |:-|
 | [Nouns](#nouns) |
-| [Verbs](#verbs) |
 | [Modifiers](#modifiers) |
+| [Verbs](#verbs) |
 
 ## Nouns
 *(nimi suli lawa)*
