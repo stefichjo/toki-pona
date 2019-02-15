@@ -3,7 +3,7 @@
 
 | |
 |:-|
-| [Content Words](#content-words) |
+| [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) |
 | [Particles](#particles) |
 | [Dictionary](#dictionary) |
 
@@ -25,7 +25,7 @@
 |:-|
 | *She gives water to the plant.* → *She waters the plant.* |
 
-# Content Words
+# CONTENT WORD
 *(nimi suli)*
 
 | [↑](#toki-pona-grammar) |
@@ -52,7 +52,7 @@
 ## Modifiers
 *(nimi suli poka)*
 
-| [↑](#content-words) |
+| [↑](#content-word) |
 |:-|
 | [Simple Modifiers](#simple-modifiers) |
 | [Thing Modifiers](#thing-modifiers) |
@@ -340,7 +340,7 @@ In other cases, **Sonja** uses **modifiers** (or the [ᴘᴀʀᴛɪᴄʟᴇ "pi"
 ## Verbs
 *(nimi suli wawa)*
 
-| [↑](#content-words) |
+| [↑](#content-word) |
 |:-|
 | [Simple Verbs](#simple-verbs) |
 | [Thing Verbs](#thing-verbs) |
@@ -438,7 +438,7 @@ After the **pre-verbs** "awen" and "kama", "lon" can disappear.
 |:-|
 | *to stay* |
 
-👎 The ᴘʀᴇ-ᴠᴇʀʙ "kama" and the [content word](#content-words) "pini" can disappear.
+👎 The ᴘʀᴇ-ᴠᴇʀʙ "kama" and the [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) "pini" can disappear.
 
 | ona li kama lape lon pini pi tenpo lili. → ona li lape lon tenpo lili. |
 |:-|
@@ -932,4 +932,6 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 🤔 **painted**; **pigmented** → **pigmented**, **painted**
 
 🤔 **number** → **numbers**
+
+ᴀʙᴄᴅᴇꜰɢʜɪᴊᴋʟᴍɴᴏᴘʀꜱᴛᴜᴠᴡʏᴢ
 
