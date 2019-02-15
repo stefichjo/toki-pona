@@ -690,13 +690,13 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 |:-|
 | *Is she a parent?* |
 
-👎 A **comma** can become a strange *ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ* "en".
+👎 A **comma** can become a ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ "en".
 
 | tomo pi telo nasa, pi ma ante → tomo pi telo nasa en pi ma ante |
 |:-|
 | *foreign bar* |
 
-👎 Every subject (i.e. the words before the [particle "li"](#subject-and-predicate) can have a strange *ᴘᴀʀᴛɪᴄʟᴇ* "en".
+👎 Every subject (i.e. the words before the [particle "li"](#subject-and-predicate) can have a ᴘᴀʀᴛɪᴄʟᴇ "en".
 
 | en sina en mi li jan lili. | en ona li jan lili. |
 |:-|:-|
@@ -744,7 +744,7 @@ If "ni" at the beginning of a *ꜱᴇɴᴛᴇɴᴄᴇ* accompanies a **subordina
 |:-|
 | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
-👎 **Pije** doesn't use [prepositions](#prepositions) at the beginning of a *ꜱᴇɴᴛᴇɴᴄᴇ*. But he uses strange [prepositions](#prepositions) instead.
+👎 **Pije** doesn't use [prepositions](#prepositions) at the beginning of a *ꜱᴇɴᴛᴇɴᴄᴇ*. But he uses [prepositions](#prepositions) instead.
 
 | sina pu tan jan seme? → tan pi jan seme la sina pu? |
 |:-|
