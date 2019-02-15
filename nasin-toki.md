@@ -793,7 +793,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/kepeken.png" height="42">  | [*PREPOSITION*](#prepositions) | esun, **kepeken** | *ADJECTIVE* … → *PREPOSITION* **by means of**, **using**, **with** |
 | <img src="musi/sitelen/pona/kili.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | **kili**, pan | *ADJECTIVE* hanging → *NOUN* **fruit**, **vegetable**; **mushroom** |
 | <img src="musi/sitelen/pona/kiwen.png" height="42">    | [*THING MODIFIER*](#thing-modifiers) | **kiwen**, ko, kon, telo | *ADJECTIVE* hard → *NOUN* **hard object**, **metal**, **rock**, **stone** |
-| <img src="musi/sitelen/pona/ko.png" height="42">       | [*THING MODIFIER*](#thing-modifiers) | kiwen, **ko**, kon, telo | semi-solid → **clay**, **clinging form**, **dough**, **semi-solid**, **paste**, **powder** |
+| <img src="musi/sitelen/pona/ko.png" height="42">       | [*THING MODIFIER*](#thing-modifiers) | kiwen, **ko**, kon, telo | *ADJECTIVE* semi-solid → *NOUN* **clay**, **clinging form**, **dough**, **semi-solid**, **paste**, **powder** |
 | <img src="musi/sitelen/pona/kon.png" height="42">      | [*THING MODIFIER*](#thing-modifiers) | kiwen, ko, **kon**, telo | floating, hovering → **air**, **breath**; **essence**, **spirit**; meaning, **hidden reality**, **unseen agent** |
 | <img src="musi/sitelen/pona/kule.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | kalama, **kule** | **colourful**, **painted** |
 |                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | **kule** — walo | brown, **pigmented** |
