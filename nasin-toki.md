@@ -930,3 +930,5 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 🤔 **vegetable**; **mushroom** → **vegetable**, **mushroom**
 
 🤔 **painted**; **pigmented** → **pigmented**, **painted**
+
+ɴᴏᴜɴ
