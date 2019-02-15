@@ -779,8 +779,8 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 |                                                        | [*NUMBER*](#numbers) | ala, ale, **esun**, luka, mute, tu, wan | *NUMBER* 7, seven |
 | <img src="musi/sitelen/pona/ijo.png" height="42">      | [*SIMPLE NOUN*](#nouns) | **ijo** — jan | *NOUN* **matter**, **object**, **phenomenon**, **thing**; location, place; case |
 | <img src="musi/sitelen/pona/ike.png" height="42">      | [*SIMPLE MODIFIER*](#simple-modifiers) | pona — **ike**, nasa, pakala, utala | *ADJECTIVE* **bad**, **negative**; **irrelevant**, **non-essential** |
-| <img src="musi/sitelen/pona/ilo.png" height="42">      | [*THING MODIFIER*](#thing-modifiers) | **ilo** — pakala | functioning → **device**, **implement**, **machine**, **tool**; body part |
-| <img src="musi/sitelen/pona/insa.png" height="42">     | [*SPATIAL MODIFIER*](#spatial-modifiers) | weka — **insa**, poka, sin | inner → **centre**, **content**, **inside**, **between**; **internal organ**, **stomach** |
+| <img src="musi/sitelen/pona/ilo.png" height="42">      | [*THING MODIFIER*](#thing-modifiers) | **ilo** — pakala | *ADJECTIVE* functioning → *NOUN* **device**, **implement**, **machine**, **tool**; body part |
+| <img src="musi/sitelen/pona/insa.png" height="42">     | [*SPATIAL MODIFIER*](#spatial-modifiers) | weka — **insa**, poka, sin | *ADJECTIVE* inner → *NOUN* **centre**, **content**, **inside**; (lon -) **between**; **internal organ**, **stomach** |
 | <img src="musi/sitelen/pona/jaki.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | **jaki** — suwi | **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** → dirt, poison, waste |
 | <img src="musi/sitelen/pona/jan.png" height="42">      | [*SIMPLE NOUN*](#nouns) | ijo — **jan** | **human being**, **person**, **somebody** |
 | <img src="musi/sitelen/pona/jelo.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **jelo**, laso, loje | **yellow**, **yellowish** |
@@ -831,7 +831,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/mun.png" height="42">      | [*THING MODIFIER*](#thing-modifiers) | ma, **mun** | sky-walking at night → moon, night sky object, star |
 | <img src="musi/sitelen/pona/musi.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | lape, moli, **musi** | **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** |
 | <img src="musi/sitelen/pona/mute.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | lili — ale, **mute**, suli, wawa | **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
-|                                                        | [*NUMBER*](#numbers) | ala, ale, esun, luka, **mute**, tu, wan | 3, three, 3+ |
+|                                                        | [*NUMBER*](#numbers) | ala, ale, esun, luka, **mute**, tu, wan | 3, three, 🤔 **three (or more)** |
 | <img src="musi/sitelen/pona/nanpa.png" height="42">    | [*THING VERB*](#thing-verbs) | **nanpa**, nimi, sitelen, sona, toki | to count → number, **numbers** |
 |                                                        | [*SIMPLE PARTICLE*](#simple-particles) | **nanpa** | **(ordinal number)**, **-th** |
 | <img src="musi/sitelen/pona/nasa.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | pona — ike, **nasa**, pakala, utala | **unusual**, **strange**; **foolish**, **crazy**; **drunk**, **intoxicated** |
@@ -919,3 +919,5 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 🤔 **irrelevant**, **non-essential** → **non-essential**, **irrelevant**
 
 🤔 **device**, **implement**, **machine**, **tool** → **tool**, **implement**, **machine**, **device**
+
+🤔 **inside**; **between** → **inside**, **between**
