@@ -295,7 +295,7 @@ In other cases, **Sonja** uses **modifiers** (or the *ᴘᴀʀᴛɪᴄʟᴇ* "[p
 |:-|
 | *Independent from that, men and women work and are happy.* → *But men and women work and are happy.* |
 
-👎 In a contextual phrase (i.e. before the particle "[la](#contextual-fragment)"), **prepositions** can disappear.
+👎 In a contextual pre-phrase (i.e. before the [particle "la"](#pre-phrase-particle)), **prepositions** can disappear.
 
 | tawa mi la sina jan pona. → mi la sina jan pona. |
 |:-|
@@ -522,7 +522,7 @@ An *ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ* can become a [thing verb](#thing-verbs).
 |:-|
 | [Phrase Particles](#phrase-particles) |
 | [Conjunctions](#conjunctions) |
-| [Contextual Fragment](#contextual-fragment) |
+| [Pre-Phrase Fragment](#pre-phrase-particle) |
 
 ### Phrase Particles
 *(nimi lili luka pi wan pi mute nimi)*
@@ -720,7 +720,7 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 |:-|
 | *Is she a parent?* |
 
-### Contextual Fragment
+### Pre-Phrase Fragment
 *(nimi lili luka "la")*
 
 | [↑](#transitive-particles) |
@@ -798,7 +798,7 @@ If "ni" at the beginning of a *ꜱᴇɴᴛᴇɴᴄᴇ* accompanies a **subordina
 | <img src="musi/sitelen/pona/kule.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifiers) | **kule** — walo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **colourful**, **painted**; **pigmented**; brown |
 | <img src="musi/sitelen/pona/kulupu.png" height="42">   | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifiers) | **kulupu** — sijelo | interactive, reciprocal → **community**, **company**, **group**, **nation**, relation, **society**, **tribe**  |
 | <img src="musi/sitelen/pona/kute.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verbs) | **kute**, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | **to hear**, **listen**; **pay attention to**, **obey** → **ear** |
-| <img src="musi/sitelen/pona/la.png" height="42">       | [ᴄᴏɴᴛᴇXᴛᴜᴀʟ ꜰʀᴀɢᴍᴇɴᴛ](#contextual-fragment) | **la** | **(between the context phrase and the main sentence)** |
+| <img src="musi/sitelen/pona/la.png" height="42">       | [ᴘʀᴇ-ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#pre-phrase-particle) | **la** | **(between the context phrase and the main sentence)** |
 | <img src="musi/sitelen/pona/lape.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifiers) | **lape**, moli, musi | **sleeping**, **resting** |
 | <img src="musi/sitelen/pona/laso.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifiers) | jelo, **laso**, loje | **blue**, **green**; immature |
 | <img src="musi/sitelen/pona/lawa.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verbs) | kute, **lawa**, len, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule** → **head**, **mind** |
@@ -831,7 +831,7 @@ If "ni" at the beginning of a *ꜱᴇɴᴛᴇɴᴄᴇ* accompanies a **subordina
 | <img src="musi/sitelen/pona/musi.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifiers) | lape, moli, **musi** | **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** |
 | <img src="musi/sitelen/pona/mute.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifiers) | lili — ale, **mute**, suli, wawa | **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
 |                                                        | [ɴᴜᴍʙᴇʀ](#numbers) | ala, ale, esun, luka, **mute**, tu, wan | 3, three, 🤔 **three (or more)** |
-| <img src="musi/sitelen/pona/nanpa.png" height="42">    | [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-verbs) | **nanpa**, nimi, sitelen, sona, toki | to count → number, **numbers** |
+| <img src="musi/sitelen/pona/nanpa.png" height="42">    | [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-verbs) | **nanpa**, nimi, sitelen, sona, toki | to count → **number** |
 |                                                        | [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particles) | **nanpa** | **(ordinal number)**, **-th** |
 | <img src="musi/sitelen/pona/nasa.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifiers) | pona — ike, **nasa**, pakala, utala | **unusual**, **strange**; **foolish**, **crazy**; **drunk**, **intoxicated** |
 | <img src="musi/sitelen/pona/nasin.png" height="42">    | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifiers) | lupa, **nasin** | thin, elongated, cracked → line, solution; **way**, **custom**, **doctrine**, **method**, **path**, **road** |
@@ -930,4 +930,6 @@ If "ni" at the beginning of a *ꜱᴇɴᴛᴇɴᴄᴇ* accompanies a **subordina
 🤔 **vegetable**; **mushroom** → **vegetable**, **mushroom**
 
 🤔 **painted**; **pigmented** → **pigmented**, **painted**
+
+🤔 **number** → **numbers**
 
