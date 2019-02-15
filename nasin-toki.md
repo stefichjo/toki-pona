@@ -465,7 +465,7 @@ After the **pre-verbs** "awen" and "kama", "lon" can disappear.
 | [↑](#particles) |
 |:-|
 
-**Simple Particles** are tokiponized names. They always follow a [noun](#nouns). "pi nimi" can disappear before **simple particle**. In this case, the **quotation marks** disappear.
+**Simple Particles** are tokiponized names. They always follow a [noun](#nouns). "pi nimi" can disappear before *ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ*. In this case, the **quotation marks** disappear.
 
 | ona li jo e nimi "Sonja". | jan pi nimi "Sonja" → jan Sonja 
 |:-|:-|
@@ -832,7 +832,7 @@ If "ni" at the beginning of a *ꜱᴇɴᴛᴇɴᴄᴇ* accompanies a **subordina
 | <img src="musi/sitelen/pona/mute.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifiers) | lili — ale, **mute**, suli, wawa | **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
 |                                                        | [ɴᴜᴍʙᴇʀ](#numbers) | ala, ale, esun, luka, **mute**, tu, wan | 3, three, 🤔 **three (or more)** |
 | <img src="musi/sitelen/pona/nanpa.png" height="42">    | [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-verbs) | **nanpa**, nimi, sitelen, sona, toki | to count → number, **numbers** |
-|                                                        | [*SIMPLE PARTICLE*](#simple-particles) | **nanpa** | **(ordinal number)**, **-th** |
+|                                                        | [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particles) | **nanpa** | **(ordinal number)**, **-th** |
 | <img src="musi/sitelen/pona/nasa.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifiers) | pona — ike, **nasa**, pakala, utala | **unusual**, **strange**; **foolish**, **crazy**; **drunk**, **intoxicated** |
 | <img src="musi/sitelen/pona/nasin.png" height="42">    | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifiers) | lupa, **nasin** | thin, elongated, cracked → line, solution; **way**, **custom**, **doctrine**, **method**, **path**, **road** |
 | <img src="musi/sitelen/pona/nena.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifiers) | lipu, **nena**, sike | outstanding → bump, button, hill, mountain, nose, protuberance |
@@ -930,7 +930,4 @@ If "ni" at the beginning of a *ꜱᴇɴᴛᴇɴᴄᴇ* accompanies a **subordina
 🤔 **vegetable**; **mushroom** → **vegetable**, **mushroom**
 
 🤔 **painted**; **pigmented** → **pigmented**, **painted**
-
-
-ᴀʙᴄ ᴅᴇꜰ ɢʜɪ ᴊᴋʟ ᴍɴᴏ ᴘʀꜱ ᴛᴜᴠ ᴡʏᴢ
 
