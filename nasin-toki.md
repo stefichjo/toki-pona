@@ -207,41 +207,35 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 | [↑](#content-words) |
 |:-|
 | [Simple Verbs](#simple-verbs) |
-| [Pre-Verbs](#pre-verbs) |
-
-### Simple Verbs
-*(nimi suli wawa pona)*
-
-| [↑](#verbs) |
-|:-|
 | [Thing Verbs](#thing-verbs) |
 | [Tool Verbs](#tool-verbs) |
+| [Pre-Verbs](#pre-verbs) |
 
-**Simple verbs** imply "e ijo".
+**Verbs** imply "e ijo" (or "e ni"), i.e. they are transitive by default.
 
-| alasa |
+| mije li sona e ijo/ni. → mije li sona. |
 |:-|
-| *to hunt* |
+| *The men know something/that.* → *The men know.* |
 
-"pona (tawa)" + **simple verb** expresses that something is worth being done.
+"pona (tawa)" + **verb** expresses that something is worth being done.
 
 | pona tawa lukin → pona lukin |
 |:-|
 | *good for the eye* → *worth seeing*, *beautiful* |
 
-👍 "insa (tawa)" + **simple verb** expresses that something is do-able, whereas "open (tawa)" + **tool noun** expresses that something is not obstructing to the tool implied.
+👍 "insa (tawa)" + **verb** expresses that something is do-able, whereas "open (tawa)" + **verb** expresses that something is not obstructing the performance of the action described by the **verb**.
 
 | insa lukin | open lukin |
 |:-|:-|
 | *visible* | *transparent* |
 
-👎 **Simple verbs** can be used as a [modifier](#modifiers) implying **passive**.
+👎 **Verbs** can be used as a [modifier](#modifiers) implying **passive**.
 
-| nimi li sona |
+| nimi li ijo sona tawa jan sin. |
 |:-|
-| *the word is known* |
+| *The word is known by the newcomer.* |
 
-🤔 **Sonja** allows all **verbs** to imply "e ijo".
+🤔 **Sonja** allows all [modifiers](#modifiers) to imply "e ijo/ni".
 
 | mi open e ni lon sewi. → mi open lon sewi. |
 |:-|
@@ -253,25 +247,38 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 |:-|:-|
 | *to build*, *make* | *to prepare* |
 
-#### Thing Verbs
-*(nimi suli wawa ijo)*
 
-| [↑](#simple-verbs) |
+### Simple Verbs
+*(nimi suli wawa pona)*
+
+| [↑](#verbs) |
 |:-|
 
-**Thing verbs** are **simple verbs**. As a [noun](#nouns), they mean the verb's object.
+As a [noun](#nouns), **simple verbs** mean the action described by the **verb**.
+
+| alasa |
+|:-|
+| *to hunt* → *the hunt* |
+
+### Thing Verbs
+*(nimi suli wawa ijo)*
+
+| [↑](#verbs) |
+|:-|
+
+As a [noun](#nouns), **simple verbs** mean the direct object ("e ijo/ni") implied by the **verb**.
 
 | sitelen |
 |:-|
 | *to draw* → *picture* |
 
-#### Tool Verbs
+### Tool Verbs
 *(nimi suli wawa ilo)*
 
-| [↑](#simple-verbs) |
+| [↑](#verbs) |
 |:-|
 
-**Tool verbs** are **simple verbs**, with instead of "ijo", they imply "ilo".
+As a [noun](#nouns), **simple verbs** mean the tool ("kepeken ilo") implied by the **verb**.
 
 | lukin |
 |:-|
@@ -283,21 +290,17 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 | [↑](#verbs) |
 |:-|
 
-| awen |
+If a **verb** is a **pre-verb**, it implies a **transitive verb** before a **subordinate clause**, which receives the main **verb** from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [particle "li"](#subject-and-predicate)) is the same. Only a closed set of [verbs](#verbs) and [modifiers](#modifiers) can be used as **pre-verbs**.
+
+| ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
 |:-|
-| *enduring* → *to keep -ing* |
+| *She needs, that she is at home.* → *She has to be at home.* |
 
 After the **pre-verbs** "awen" and "kama", "lon" can disappear.
 
 | awen lon → awen |
 |:-|
 | *to stay* |
-
-If a **verb** is an **pre-verb**, it implies a **transitive verb** before a **subordinate clause**, which receives the main **verb** from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [particle "li"](#subject-and-predicate)) is the same.
-
-| ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
-|:-|
-| *She needs, that she is at home.* → *She has to be at home.* |
 
 👎 The **pre-verb** "kama" and the [content word](#content-words) "pini" can disappear.
 
