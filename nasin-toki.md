@@ -786,7 +786,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/jelo.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **jelo**, laso, loje | *ADJECTIVE* **yellow**, **yellowish** |
 | <img src="musi/sitelen/pona/jo.png" height="42">       | [*SIMPLE VERB*](#simple-verbs) | **jo**, pana | *VERB* **to have**, **carry**, **contain**, **hold** |
 | <img src="musi/sitelen/pona/kala.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | **kala**, kasi, pipi, waso | *ADJECTIVE* swimming → *NOUN* **fish**, **marine animal**, **sea creature** |
-| <img src="musi/sitelen/pona/kalama.png" height="42">   | [*SIMPLE MODIFIER*](#simple-modifiers) | **kalama**, kule | *ADJECTIVE* sounding; **to produce a sound**; **recite**, **utter aloud** |
+| <img src="musi/sitelen/pona/kalama.png" height="42">   | [*SIMPLE MODIFIER*](#simple-modifiers) | **kalama** | *ADJECTIVE* **producing a sound**, *VERB* **to recite**, **utter aloud** |
 | <img src="musi/sitelen/pona/kama.png" height="42">     | [*PRE-VERB*](#pre-verbs) | awen, **kama**, pini | *ADJECTIVE* **arriving**, **coming**, **future**, **summoned** → *PRE-VERB* **to become**; **manage to**, **succeed in** |
 | <img src="musi/sitelen/pona/kasi.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | kala, **kasi**, pipi, waso | *ADJECTIVE* vegetating → *NOUN* **plant**, **vegetation**; **herb**, **leaf** |
 | <img src="musi/sitelen/pona/ken.png" height="42">      | [*PRE-VERB*](#pre-verbs) | **ken**, lukin, open, sona, wile | *ADJECTIVE* **possible** → *PRE-VERB* **to be able to**, **be allowed to**, **can**, **may** |
@@ -795,8 +795,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/kiwen.png" height="42">    | [*THING MODIFIER*](#thing-modifiers) | **kiwen**, ko, kon, telo | *ADJECTIVE* hard → *NOUN* **hard object**, **metal**, **rock**, **stone** |
 | <img src="musi/sitelen/pona/ko.png" height="42">       | [*THING MODIFIER*](#thing-modifiers) | kiwen, **ko**, kon, telo | *ADJECTIVE* semi-solid → *NOUN* **clay**, **clinging form**, **dough**, **semi-solid**, **paste**, **powder** |
 | <img src="musi/sitelen/pona/kon.png" height="42">      | [*THING MODIFIER*](#thing-modifiers) | kiwen, ko, **kon**, telo | *ADJECTIVE* floating, hovering → *NOUN* **air**, **breath**; **essence**, **spirit**; **hidden reality**, meaning, **unseen agent** |
-| <img src="musi/sitelen/pona/kule.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | kalama, **kule** | **colourful**, **painted** |
-|                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | **kule** — walo | brown, **pigmented** |
+| <img src="musi/sitelen/pona/kule.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **kule** — walo | **colourful**, **painted**; **pigmented**; brown |
 | <img src="musi/sitelen/pona/kulupu.png" height="42">   | [*THING MODIFIER*](#thing-modifiers) | **kulupu** — sijelo | interactive, reciprocal → **community**, **company**, **group**, **nation**, relation, **society**, **tribe**  |
 | <img src="musi/sitelen/pona/kute.png" height="42">     | [*TOOL VERBS*](#tool-verbs) | **kute**, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | **to hear**, **listen**; **pay attention to**, **obey** → **ear** |
 | <img src="musi/sitelen/pona/la.png" height="42">       | [*CONTEXTUAL FRAGMENT*](#contextual-fragment) | **la** | **(between the context phrase and the main sentence)** |
@@ -896,7 +895,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/uta.png" height="42">      | [*TOOL VERBS*](#tool-verbs) | kute, lawa, len, luka, lukin, noka, palisa, pilin, selo, **uta** | to suck, kiss → **mouth**, **lips**, **oral cavity**, **jaw** |
 | <img src="musi/sitelen/pona/utala.png" height="42">    | [*SIMPLE MODIFIER*](#simple-modifiers) | pona — ike, nasa, pakala, **utala** | aggressive; **to battle**, **challenge**, **compete against**, **struggle against** |
 | <img src="musi/sitelen/pona/walo.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | pimeja — **walo** | **white**, **whitish** |
-|                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | kule — **walo** | **light-coloured**, **pale**, unpigmented |
+|                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | kule — **walo** | **light-coloured**, **pale** |
 | <img src="musi/sitelen/pona/wan.png" height="42">      | [*SIMPLE MODIFIER*](#simple-modifiers) | tu — **wan** | **united** |
 |                                                        | [*THING MODIFIER*](#thing-modifiers) | ale — **wan** | (- lili) partial, (- nasa) **unique** → (- lili) part |
 |                                                        | [*NUMBER*](#numbers) | ala, ale, esun, luka, mute, tu, **wan** | 1, **one** |
@@ -922,8 +921,12 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 
 🤔 **inside**; **between** → **inside**, **between**
 
+🤔 *ADJECTIVE* **producing a sound**, *VERB* **to recite** → *VERB* **to produce a sound**; **recite**
+
 🤔 **to become**; **manage to** → **to become**, **manage to**
 
 🤔 **by means of**, **using**, **with** → **to use**, **with**, **by means of**
 
 🤔 **vegetable**; **mushroom** → **vegetable**, **mushroom**
+
+🤔 **painted**; **pigmented** → **pigmented**, **painted**
