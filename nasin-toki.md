@@ -253,7 +253,7 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 |:-|
 | *I'm giving you the apple.* |
 
-When a [ᴍᴏᴅɪꜰɪᴇʀ](#modifier) and a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ are the same, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ disappears. There can be an [interjection](#interjections) between the [ᴠᴇʀʙ](#verb) and the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition).
+When a [ᴍᴏᴅɪꜰɪᴇʀ](#modifier) and a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ are the same, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ disappears. There can be an [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) between the [ᴠᴇʀʙ](#verb) and the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition).
 
 | mi tawa tawa tomo seli. → mi tawa tomo seli. | mi tawa ala tawa tomo seli. → mi tawa ala tomo seli. |
 |:-|:-|
@@ -456,7 +456,7 @@ After the ᴘʀᴇ-ᴠᴇʀʙs "awen" and "kama", "lon" can disappear.
 | [↑](#toki-pona-grammar) |
 |:-|
 | [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle) |
-| [Interjections](#interjections) |
+| [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) |
 | [ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇ](#transitive-particle) |
 
 ### SIMPLE PARTICLE
@@ -479,7 +479,7 @@ After the ᴘʀᴇ-ᴠᴇʀʙs "awen" and "kama", "lon" can disappear.
 
 👎 **Pije** doesn't remove the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ ᴘʜʀᴀꜱᴇ with "nanpa".
 
-### Interjections
+### INTERJECTION
 *(nimi lili kalama)*
 
 | [↑](#particle) |
@@ -758,9 +758,9 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 
 | sitelen | | | |
 |:-|:-|:-|:-|
-| <img src="musi/sitelen/pona/a.png" height="42">        | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjections) | mu — **a**, ala | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)** → ꜱᴇɴᴛᴇɴᴄᴇ yes! |
+| <img src="musi/sitelen/pona/a.png" height="42">        | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) | mu — **a**, ala | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)** → ꜱᴇɴᴛᴇɴᴄᴇ yes! |
 | <img src="musi/sitelen/pona/akesi.png" height="42">    | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](#life-form-modifier) | **akesi** — soweli | ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded → ɴᴏᴜɴ **non-cute animal**; **reptile**, **amphibian**; monster |
-| <img src="musi/sitelen/pona/ala.png" height="42">      | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjections) | mu — a, **ala** | ᴘᴀʀᴛɪᴄʟᴇ (negation) → ꜱᴇɴᴛᴇɴᴄᴇ outch!, no! |
+| <img src="musi/sitelen/pona/ala.png" height="42">      | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) | mu — a, **ala** | ᴘᴀʀᴛɪᴄʟᴇ (negation) → ꜱᴇɴᴛᴇɴᴄᴇ outch!, no! |
 |                                                        | [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) | **ala**, ale, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **no**, ᴀᴅᴠᴇʀʙ **not** → ɴᴏᴜɴ none, nothing |
 |                                                        | [ɴᴜᴍʙᴇʀ](#number) | **ala**, ale, esun, luka, mute, tu, wan | ɴᴜᴍʙᴇʀ 0, **zero** |
 |                                                        | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | **ala** — lon | ᴀᴅᴊᴇᴄᴛɪᴠᴇ false, non- |
@@ -826,7 +826,7 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 | <img src="musi/sitelen/pona/moku.png" height="42">     | [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-verb) | **moku** | **to eat**, **drink**, **consume**, **swallow**, **ingest** → mouthful; food |
 | <img src="musi/sitelen/pona/moli.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | lape, **moli**, musi | **dead**, (kama -) **dying** |
 | <img src="musi/sitelen/pona/monsi.png" height="42">    | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](#spatial-modifier) | poka — **monsi**, sinpin | rear → **back**, **behind**, **rear** |
-| <img src="musi/sitelen/pona/mu.png" height="42">       | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjections) | **mu** — a, ala | **(animal noise or communication)**, (indifference) → blah! |
+| <img src="musi/sitelen/pona/mu.png" height="42">       | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) | **mu** — a, ala | **(animal noise or communication)**, (indifference) → blah! |
 | <img src="musi/sitelen/pona/mun.png" height="42">      | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | ma, **mun** | sky-walking at night → moon, night sky object, star |
 | <img src="musi/sitelen/pona/musi.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | lape, moli, **musi** | **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** |
 | <img src="musi/sitelen/pona/mute.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | lili — ale, **mute**, suli, wawa | **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
