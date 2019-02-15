@@ -784,20 +784,20 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 | <img src="musi/sitelen/pona/jaki.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **jaki** — suwi | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** → ɴᴏᴜɴ dirt, poison, waste |
 | <img src="musi/sitelen/pona/jan.png" height="42">      | [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](#noun) | ijo — **jan** | ɴᴏᴜɴ **human being**, **person**, **somebody** |
 | <img src="musi/sitelen/pona/jelo.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | **jelo**, laso, loje | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **yellow**, **yellowish** |
-| <img src="musi/sitelen/pona/jo.png" height="42">       | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](#simple-verb) | **jo**, pana | ᴠᴇʀʙ **to have**, **carry**, **contain**, **hold** |
+| <img src="musi/sitelen/pona/jo.png" height="42">       | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](#simple-verb) | **jo**, pana | ᴠᴇʀʙ **to carry**, **contain**, **have**, **hold** |
 | <img src="musi/sitelen/pona/kala.png" height="42">     | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](#life-form-modifier) | **kala**, kasi, pipi, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ swimming → ɴᴏᴜɴ **fish**, **marine animal**, **sea creature** |
 | <img src="musi/sitelen/pona/kalama.png" height="42">   | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | **kalama** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound**, ᴠᴇʀʙ **to recite**, **utter aloud** |
 | <img src="musi/sitelen/pona/kama.png" height="42">     | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) | awen, **kama**, pini | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **arriving**, **coming**, **future**, **summoned** → ᴘʀᴇ-ᴠᴇʀʙ **to become**; **manage to**, **succeed in** |
 | <img src="musi/sitelen/pona/kasi.png" height="42">     | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](#life-form-modifier) | kala, **kasi**, pipi, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ vegetating → ɴᴏᴜɴ **plant**, **vegetation**; **herb**, **leaf** |
 | <img src="musi/sitelen/pona/ken.png" height="42">      | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) | **ken**, lukin, open, sona, wile | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **possible** → ᴘʀᴇ-ᴠᴇʀʙ **to be able to**, **be allowed to**, **can**, **may** |
 | <img src="musi/sitelen/pona/kepeken.png" height="42">  | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | esun, **kepeken** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ … → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **by means of**, **using**, **with** |
-| <img src="musi/sitelen/pona/kili.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **kili**, pan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ hanging → ɴᴏᴜɴ **fruit**, **vegetable**; **mushroom** |
+| <img src="musi/sitelen/pona/kili.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **kili**, pan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ hanging → ɴᴏᴜɴ **fruit**; **mushroom**, **vegetable** |
 | <img src="musi/sitelen/pona/kiwen.png" height="42">    | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **kiwen**, ko, kon, telo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ hard → ɴᴏᴜɴ **hard object**, **metal**, **rock**, **stone** |
 | <img src="musi/sitelen/pona/ko.png" height="42">       | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | kiwen, **ko**, kon, telo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ semi-solid → ɴᴏᴜɴ **clay**, **clinging form**, **dough**, **semi-solid**, **paste**, **powder** |
-| <img src="musi/sitelen/pona/kon.png" height="42">      | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | kiwen, ko, **kon**, telo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ floating, hovering → ɴᴏᴜɴ **air**, **breath**; **essence**, **spirit**; **hidden reality**, meaning, **unseen agent** |
+| <img src="musi/sitelen/pona/kon.png" height="42">      | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | kiwen, ko, **kon**, telo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ floating, hovering → ɴᴏᴜɴ **air**, **breath**; **essence**, meaning, **spirit**; **hidden reality**, **unseen agent** |
 | <img src="musi/sitelen/pona/kule.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | **kule** — walo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **colourful**, **painted**; **pigmented**; brown |
-| <img src="musi/sitelen/pona/kulupu.png" height="42">   | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **kulupu** — sijelo | interactive, reciprocal → **community**, **company**, **group**, **nation**, relation, **society**, **tribe**  |
-| <img src="musi/sitelen/pona/kute.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) | **kute**, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | **to hear**, **listen**; **pay attention to**, **obey** → **ear** |
+| <img src="musi/sitelen/pona/kulupu.png" height="42">   | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **kulupu** — sijelo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ common, reciprocal → ɴᴏᴜɴ **community**, **company**, **group**, **nation**, relationship, **society**, **tribe**  |
+| <img src="musi/sitelen/pona/kute.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) | **kute**, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | ᴠᴇʀʙ **to hear**, **listen**; **pay attention to**, **obey** → ɴᴏᴜɴ **ear** |
 | <img src="musi/sitelen/pona/la.png" height="42">       | [ᴘʀᴇ-ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#pre-phrase-particle) | **la** | **(between the context phrase and the main sentence)** |
 | <img src="musi/sitelen/pona/lape.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | **lape**, moli, musi | **sleeping**, **resting** |
 | <img src="musi/sitelen/pona/laso.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | jelo, **laso**, loje | **blue**, **green**; immature |
@@ -921,13 +921,15 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 
 🤔 **inside**; **between** → **inside**, **between**
 
+🤔 **to carry**, **contain**, **have** → **to have**, **carry**, **contain**
+
 🤔 ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound**, ᴠᴇʀʙ **to recite** → ᴠᴇʀʙ **to produce a sound**; **recite**
 
 🤔 **to become**; **manage to** → **to become**, **manage to**
 
 🤔 **by means of**, **using**, **with** → **to use**, **with**, **by means of**
 
-🤔 **vegetable**; **mushroom** → **vegetable**, **mushroom**
+🤔 **fruit**; **mushroom**, **vegetable** → **fruit**, **vegetable**, **mushroom**
 
 🤔 **painted**; **pigmented** → **pigmented**, **painted**
 
