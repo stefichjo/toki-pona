@@ -793,7 +793,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 |                                                        | [*NUMBER*](#numbers) | ala, ale, **esun**, luka, mute, tu, wan | *NUMBER* 7, seven |
 | <img src="musi/sitelen/pona/ijo.png" height="42">      | [*SIMPLE NOUN*](#simple-nouns) | **ijo** — jan | *NOUN* **matter**, **object**, **phenomenon**, **thing**; location, place; case |
 | <img src="musi/sitelen/pona/ike.png" height="42">      | [*SIMPLE MODIFIER*](#simple-modifiers) | pona — **ike**, nasa, pakala, utala | *ADJECTIVE* **bad**, **negative**; **irrelevant**, **non-essential** |
-| <img src="musi/sitelen/pona/ilo.png" height="42">      | [*THING NOUN*](#thing-nouns) | **ilo** — pakala | functioning → organ; **tool**, **implement**, **machine**, **device** |
+| <img src="musi/sitelen/pona/ilo.png" height="42">      | [*THING NOUN*](#thing-nouns) | **ilo** — pakala | functioning → **device**, **implement**, **machine**, **tool**; organ |
 | <img src="musi/sitelen/pona/insa.png" height="42">     | [*SPATIAL NOUN*](#spatial-nouns) | weka — **insa**, poka, sin | inner → **centre**, **content**, **inside**, **between**; **internal organ**, **stomach** |
 | <img src="musi/sitelen/pona/jaki.png" height="42">     | [*THING NOUN*](#thing-nouns) | **jaki** — suwi | **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** → dirt, poison, waste |
 | <img src="musi/sitelen/pona/jan.png" height="42">      | [*SIMPLE NOUN*](#simple-nouns) | ijo — **jan** | **human being**, **person**, **somebody** |
@@ -931,3 +931,5 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 🤔 **matter**, **object**, **phenomenon**, **thing** → **thing**, **phenomenon**, **object**, **matter**
 
 🤔 **irrelevant**, **non-essential** → **non-essential**, **irrelevant**
+
+🤔 **device**, **implement**, **machine**, **tool** → **tool**, **implement**, **machine**, **device**
