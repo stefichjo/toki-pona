@@ -66,11 +66,11 @@
 | [↑](#modifier) |
 |:-|
 
-ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀs don't receive an additional meaning when they change their part-of-speech.
+ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀs don't imply additional meaning when used as [ɴᴏᴜɴ](#noun)s or [ᴠᴇʀʙ](#verb)s.
 
-| mi wawa. | telo li wawa e mi. | wawa li lon insa. |
+| mi wawa. | wawa li lon insa. | telo li wawa e mi. |
 |:-|:-|:-|
-| *I am strong.* | *Water strengthens me.* | *Strength lies within.* |
+| *I am strong.* | *Strength lies within.* | *Water strengthens me.* |
 
 ### THING MODIFIER
 *(nimi suli poka ijo)*
@@ -93,11 +93,11 @@ As a [ɴᴏᴜɴ](#noun), ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs imply "ijo".
 |:-|:-|:-|
 | *mouthful* → *food* | *seed* → *bread* | *mammal* → *meat* |
 
-👎 As [ɴᴏᴜɴ](#noun)s, the [ᴍᴏᴅɪꜰɪᴇʀ](#modifiers)s (or [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s) "ante" and "sama" can imply "ijo".
+👎 As [ɴᴏᴜɴ](#noun)s, the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s "ante" and "sama" can imply "ijo".
 
-| ijo ante → ante | ijo sama → sama |
+| ante | sama |
 |:-|:-|
-| *something different* | *something similar* |
+| *different* → *something different* | *similar* → *something similar* |
 
 #### CORRELATIVE
 *(nimi suli poka palisa)*
@@ -141,7 +141,7 @@ In a genitive clause (i.e. the words behind the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#ge
 |:-|:-|:-|
 | *somebody, who is going home* | *home-coming person* | *home-comer* |
 
-🤔 According to **Sonja**, "seme" is a [ᴘᴀʀᴛɪᴄʟᴇ](#particle), even though it behaves just like the other ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs.
+🤔 According to **Sonja**, "seme" is a [ᴘᴀʀᴛɪᴄʟᴇ](#particle), even though it behaves just like all the other ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs.
 
 #### SPATIAL MODIFIER
 *(nimi suli poka nasin)*
@@ -211,7 +211,7 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 | [↑](#modifier) |
 |:-|
 
-👍 The [conjunction](#conjunctions) "en" can be with two ɴᴜᴍʙᴇʀs.
+👍 The [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction) "en" can combine two ɴᴜᴍʙᴇʀs.
 
 | sike esun tu | tenpo suno luka tu en tu tu |
 |:-|:-|
@@ -521,7 +521,7 @@ An ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ can become a [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-
 | [↑](#particle) |
 |:-|
 | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#phrase-particle) |
-| [Conjunctions](#conjunctions) |
+| [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction) |
 | [ᴘʀᴇ-ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#pre-phrase-particle) |
 
 ### PHRASE PARTICLE
@@ -678,7 +678,7 @@ As a rule of thumb, if the ᴘᴀʀᴛɪᴄʟᴇ "pi" doesn't add useful informa
 |:-|
 | *bar* |
 
-### Conjunctions
+### CONJUNCTION
 *(nimi lili luka "en", nimi lili luka "anu")*
 
 | [↑](#transitive-particle) |
@@ -771,10 +771,10 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 |                                                        | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | lili — **ale**, mute, suli, wawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **countless**, **bountiful**, **plentiful**, ɴᴏᴜɴ **abundance** |
 | <img src="musi/sitelen/pona/anpa.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](#spatial-modifier) | **anpa** — sewi, lawa — noka | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bowing down**, **downward**, **humble**, **lowly**, **dependent** → ɴᴏᴜɴ area below |
 | <img src="musi/sitelen/pona/ante.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | **ante** — sama | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **different**, **altered**, **changed**, **other** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ than |
-| <img src="musi/sitelen/pona/anu.png" height="42">      | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunctions) | **anu** — en | ᴘᴀʀᴛɪᴄʟᴇ (alternative), **or** |
+| <img src="musi/sitelen/pona/anu.png" height="42">      | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction) | **anu** — en | ᴘᴀʀᴛɪᴄʟᴇ (alternative), **or** |
 | <img src="musi/sitelen/pona/awen.png" height="42">     | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) | **awen**, kama, pini | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**, **protected**, **safe**, **staying**, **waiting** → ᴘʀᴇ-ᴠᴇʀʙ **to continue to** |
 | <img src="musi/sitelen/pona/e.png" height="42">        | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#phrase-particle) | **e**, li, o, pi | ᴘᴀʀᴛɪᴄʟᴇ **(before the direct object)** |
-| <img src="musi/sitelen/pona/en.png" height="42">       | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunctions) | anu — **en** | ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, (between multiple ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs belonging to the same ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ) |
+| <img src="musi/sitelen/pona/en.png" height="42">       | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction) | anu — **en** | ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, (between multiple ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs belonging to the same ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ) |
 | <img src="musi/sitelen/pona/esun.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | **esun**, kepeken | ᴀᴅᴊᴇᴄᴛɪᴠᴇ replacing, ɴᴏᴜɴ replacement; **business transaction**; **bazaar**, **fair**, **market**, **shop** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ instead of |
 |                                                        | [ɴᴜᴍʙᴇʀ](#number) | ala, ale, **esun**, luka, mute, tu, wan | ɴᴜᴍʙᴇʀ 7, seven |
 | <img src="musi/sitelen/pona/ijo.png" height="42">      | [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](#noun) | **ijo** — jan | ɴᴏᴜɴ **matter**, **object**, **phenomenon**, **thing**; location, place; case |
