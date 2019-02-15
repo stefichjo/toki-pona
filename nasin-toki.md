@@ -201,119 +201,6 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 |:-|
 | *female* → *somebody female*, *woman* |
 
-## Verbs
-*(nimi suli wawa)*
-
-| [↑](#content-words) |
-|:-|
-| [Simple Verbs](#simple-verbs) |
-| [Thing Verbs](#thing-verbs) |
-| [Tool Verbs](#tool-verbs) |
-| [Pre-Verbs](#pre-verbs) |
-
-**Verbs** imply "e ijo" (or "e ni"), i.e. they are transitive by default.
-
-| mije li sona e ijo/ni. → mije li sona. |
-|:-|
-| *The men know something/that.* → *The men know.* |
-
-"pona (tawa)" + **verb** expresses that something is worth being done.
-
-| pona tawa lukin → pona lukin |
-|:-|
-| *good for the eye* → *worth seeing*, *beautiful* |
-
-👍 "insa (tawa)" + **verb** expresses that something is do-able, whereas "open (tawa)" + **verb** expresses that something is not obstructing the performance of the action described by the **verb**.
-
-| insa lukin | open lukin |
-|:-|:-|
-| *visible* | *transparent* |
-
-👎 **Verbs** can be used as a [modifier](#modifiers) implying **passive**.
-
-| nimi li ijo sona tawa jan sin. |
-|:-|
-| *The word is known by the newcomer.* |
-
-🤔 **Sonja** allows all [modifiers](#modifiers) to imply "e ijo/ni".
-
-| mi open e ni lon sewi. → mi open lon sewi. |
-|:-|
-| *I begin with the divine.* |
-
-🤔 …
-
-| kama e → pali e | open e → pali e |
-|:-|:-|
-| *to build*, *make* | *to prepare* |
-
-
-### Simple Verbs
-*(nimi suli wawa pona)*
-
-| [↑](#verbs) |
-|:-|
-
-As a [noun](#nouns), **simple verbs** mean the action described by the **verb**.
-
-| alasa |
-|:-|
-| *to hunt* → *the hunt* |
-
-### Thing Verbs
-*(nimi suli wawa ijo)*
-
-| [↑](#verbs) |
-|:-|
-
-As a [noun](#nouns), **simple verbs** mean the direct object ("e ijo/ni") implied by the **verb**.
-
-| sitelen |
-|:-|
-| *to draw* → *picture* |
-
-### Tool Verbs
-*(nimi suli wawa ilo)*
-
-| [↑](#verbs) |
-|:-|
-
-As a [noun](#nouns), **simple verbs** mean the tool ("kepeken ilo") implied by the **verb**.
-
-| lukin |
-|:-|
-| *to see* → *eye* |
-
-### Pre-Verbs
-*(nimi suli wawa poka)*
-
-| [↑](#verbs) |
-|:-|
-
-If a **verb** is a **pre-verb**, it implies a **transitive verb** before a **subordinate clause**, which receives the main **verb** from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [particle "li"](#subject-and-predicate)) is the same. Only a closed set of [verbs](#verbs) and [modifiers](#modifiers) can be used as **pre-verbs**.
-
-| ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
-|:-|
-| *She needs, that she is at home.* → *She has to be at home.* |
-
-After the **pre-verbs** "awen" and "kama", "lon" can disappear.
-
-| awen lon → awen |
-|:-|
-| *to stay* |
-
-👎 The **pre-verb** "kama" and the [content word](#content-words) "pini" can disappear.
-
-| ona li kama lape lon pini pi tenpo lili. → ona li lape lon tenpo lili. |
-|:-|
-| *She will sleep after a short period of time. She will sleep soon. She falls asleep quickly.* |
-
-👎 The [prepositions](#prepositions) "lon", "tan", "tawa" can become **pre-verbs**.
-
-| mi lon moku e kili. | sina tan moku e kili. | ona li tawa moku e kili. |
-|:-|:-|:-|
-| *I am eating an apple.* | *You have been eating an apple.* | *She is going to eat an apple.* |
-
 ## Modifiers
 *(nimi suli poka)*
 
@@ -466,6 +353,119 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 | a → lon |
 |:-|
 | *true* |
+
+## Verbs
+*(nimi suli wawa)*
+
+| [↑](#content-words) |
+|:-|
+| [Simple Verbs](#simple-verbs) |
+| [Thing Verbs](#thing-verbs) |
+| [Tool Verbs](#tool-verbs) |
+| [Pre-Verbs](#pre-verbs) |
+
+**Verbs** imply "e ijo" (or "e ni"), i.e. they are transitive by default.
+
+| mije li sona e ijo/ni. → mije li sona. |
+|:-|
+| *The men know something/that.* → *The men know.* |
+
+"pona (tawa)" + **verb** expresses that something is worth being done.
+
+| pona tawa lukin → pona lukin |
+|:-|
+| *good for the eye* → *worth seeing*, *beautiful* |
+
+👍 "insa (tawa)" + **verb** expresses that something is do-able, whereas "open (tawa)" + **verb** expresses that something is not obstructing the performance of the action described by the **verb**.
+
+| insa lukin | open lukin |
+|:-|:-|
+| *visible* | *transparent* |
+
+👎 **Verbs** can be used as a [modifier](#modifiers) implying **passive**.
+
+| nimi li ijo sona tawa jan sin. |
+|:-|
+| *The word is known by the newcomer.* |
+
+🤔 **Sonja** allows all [modifiers](#modifiers) to imply "e ijo/ni".
+
+| mi open e ni lon sewi. → mi open lon sewi. |
+|:-|
+| *I begin with the divine.* |
+
+🤔 …
+
+| kama e → pali e | open e → pali e |
+|:-|:-|
+| *to build*, *make* | *to prepare* |
+
+
+### Simple Verbs
+*(nimi suli wawa pona)*
+
+| [↑](#verbs) |
+|:-|
+
+As a [noun](#nouns), **simple verbs** mean the action described by the **verb**.
+
+| alasa |
+|:-|
+| *to hunt* → *the hunt* |
+
+### Thing Verbs
+*(nimi suli wawa ijo)*
+
+| [↑](#verbs) |
+|:-|
+
+As a [noun](#nouns), **simple verbs** mean the direct object ("e ijo/ni") implied by the **verb**.
+
+| sitelen |
+|:-|
+| *to draw* → *picture* |
+
+### Tool Verbs
+*(nimi suli wawa ilo)*
+
+| [↑](#verbs) |
+|:-|
+
+As a [noun](#nouns), **simple verbs** mean the tool ("kepeken ilo") implied by the **verb**.
+
+| lukin |
+|:-|
+| *to see* → *eye* |
+
+### Pre-Verbs
+*(nimi suli wawa poka)*
+
+| [↑](#verbs) |
+|:-|
+
+If a **verb** is a **pre-verb**, it implies a **transitive verb** before a **subordinate clause**, which receives the main **verb** from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [particle "li"](#subject-and-predicate)) is the same. Only a closed set of [verbs](#verbs) and [modifiers](#modifiers) can be used as **pre-verbs**.
+
+| ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
+|:-|
+| *She needs, that she is at home.* → *She has to be at home.* |
+
+After the **pre-verbs** "awen" and "kama", "lon" can disappear.
+
+| awen lon → awen |
+|:-|
+| *to stay* |
+
+👎 The **pre-verb** "kama" and the [content word](#content-words) "pini" can disappear.
+
+| ona li kama lape lon pini pi tenpo lili. → ona li lape lon tenpo lili. |
+|:-|
+| *She will sleep after a short period of time. She will sleep soon. She falls asleep quickly.* |
+
+👎 The [prepositions](#prepositions) "lon", "tan", "tawa" can become **pre-verbs**.
+
+| mi lon moku e kili. | sina tan moku e kili. | ona li tawa moku e kili. |
+|:-|:-|:-|
+| *I am eating an apple.* | *You have been eating an apple.* | *She is going to eat an apple.* |
 
 # Particles
 *(nimi lili)*
