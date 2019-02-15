@@ -786,7 +786,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/jelo.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **jelo**, laso, loje | *ADJECTIVE* **yellow**, **yellowish** |
 | <img src="musi/sitelen/pona/jo.png" height="42">       | [*SIMPLE VERB*](#simple-verbs) | **jo**, pana | *VERB* **to have**, **carry**, **contain**, **hold** |
 | <img src="musi/sitelen/pona/kala.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | **kala**, kasi, pipi, waso | *ADJECTIVE* swimming → *NOUN* **fish**, **marine animal**, **sea creature** |
-| <img src="musi/sitelen/pona/kalama.png" height="42">   | [*SIMPLE MODIFIER*](#simple-modifiers) | **kalama**, kule | sounding; **to produce a sound**; **recite**, **utter aloud** |
+| <img src="musi/sitelen/pona/kalama.png" height="42">   | [*SIMPLE MODIFIER*](#simple-modifiers) | **kalama**, kule | *ADJECTIVE* sounding; **to produce a sound**; **recite**, **utter aloud** |
 | <img src="musi/sitelen/pona/kama.png" height="42">     | [*PRE-VERB*](#pre-verbs) | awen, **kama**, pini | **arriving**, **coming**, **future**, **summoned** → **to become**, **manage to**, **succeed in** |
 | <img src="musi/sitelen/pona/kasi.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | kala, **kasi**, pipi, waso | vegetating → **plant**, **vegetation**; **herb**, **leaf** |
 | <img src="musi/sitelen/pona/ken.png" height="42">      | [*PRE-VERB*](#pre-verbs) | **ken**, lukin, open, sona, wile | **possible** → **to be able to**, **be allowed to**, **can**, **may** |
