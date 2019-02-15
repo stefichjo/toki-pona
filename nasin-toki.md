@@ -782,7 +782,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/ilo.png" height="42">      | [*THING MODIFIER*](#thing-modifiers) | **ilo** — pakala | *ADJECTIVE* functioning → *NOUN* **device**, **implement**, **machine**, **tool**; body part |
 | <img src="musi/sitelen/pona/insa.png" height="42">     | [*SPATIAL MODIFIER*](#spatial-modifiers) | weka — **insa**, poka, sin | *ADJECTIVE* inner → *NOUN* **centre**, **content**, **inside**; (lon -) **between**; **internal organ**, **stomach** |
 | <img src="musi/sitelen/pona/jaki.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | **jaki** — suwi | *ADJECTIVE* **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** → *NOUN* dirt, poison, waste |
-| <img src="musi/sitelen/pona/jan.png" height="42">      | [*SIMPLE NOUN*](#nouns) | ijo — **jan** | **human being**, **person**, **somebody** |
+| <img src="musi/sitelen/pona/jan.png" height="42">      | [*SIMPLE NOUN*](#nouns) | ijo — **jan** | *NOUN* **human being**, **person**, **somebody** |
 | <img src="musi/sitelen/pona/jelo.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **jelo**, laso, loje | **yellow**, **yellowish** |
 | <img src="musi/sitelen/pona/jo.png" height="42">       | [*SIMPLE VERB*](#simple-verbs) | **jo**, pana | **to have**, **carry**, **contain**, **hold** |
 | <img src="musi/sitelen/pona/kala.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | **kala**, kasi, pipi, waso | swimming → **fish**, **marine animal**, **sea creature** |
