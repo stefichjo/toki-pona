@@ -111,13 +111,13 @@
 |:-|
 | *every* → *everything* |
 
-In a genitive clause (i.e. the words behind the *ᴘᴀʀᴛɪᴄʟᴇ* "[pi](#genitive)"), "ijo" before a *ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ* reappears.
+In a genitive clause (i.e. the words behind the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive)), "ijo" before a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ reappears.
 
 | mama pi ijo ale | mama ale |
 |:-|:-|
 | *parent of everything* | *every parent* |
 
-👍 A **subordinate clause** can be thought of as an extension of the *ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ* "ni".
+👍 A **subordinate clause** can be thought of as an extension of the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "ni".
 
 | suno pi mute ni: mi ken ala lape |
 |:-|
@@ -129,7 +129,7 @@ In a genitive clause (i.e. the words behind the *ᴘᴀʀᴛɪᴄʟᴇ* "[pi](#g
 |:-|:-|
 | *I'm seeing the mountain, that is big.* | *The mountain, that I'm seeing, is big.* |
 
-👍 Questions with the *ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ* "seme" can be thought of **subordinate clauses** with an omitted **main clause** "o toki e ni".
+👍 Questions with the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "seme" can be thought of **subordinate clauses** with an omitted **main clause** "o toki e ni".
 
 | o toki e ni: mani li lon seme. → mani li lon seme? |
 |:-|
@@ -253,7 +253,7 @@ In a genitive clause (i.e. the words behind the *ᴘᴀʀᴛɪᴄʟᴇ* "[pi](#g
 |:-|
 | *I'm giving you the apple.* |
 
-When a [modifier](#modifiers) and a *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ* are the same, the *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ* disappears. There can be an [interjection](#interjections) between the [verb](#verbs) and the [preposition](#prepositions).
+When a [modifier](#modifiers) and a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ are the same, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ disappears. There can be an [interjection](#interjections) between the [verb](#verbs) and the [preposition](#prepositions).
 
 | mi tawa tawa tomo seli. → mi tawa tomo seli. | mi tawa ala tawa tomo seli. → mi tawa ala tomo seli. |
 |:-|:-|
@@ -265,13 +265,13 @@ When a [modifier](#modifiers) and a *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ* are the same
 |:-|
 | *I'm talking to you in the kitchen.* |
 
-In other cases, **Sonja** uses **modifiers** (or the *ᴘᴀʀᴛɪᴄʟᴇ* "[pi](#genitive)") instead of **prepositions**.
+In other cases, **Sonja** uses **modifiers** (or the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive)) instead of **prepositions**.
 
 | jan lon poka → jan poka | pona tawa lukin → pona lukin |
 |:-|:-|
 | *neighbour* | *beautiful* |
 
-👍 When a [verb](#verbs) and a *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ* are the same, the *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ* disappears and the direct object moves to the end of the sentence.
+👍 When a [verb](#verbs) and a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ are the same, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ disappears and the direct object moves to the end of the sentence.
 
 | mi tawa e ona tawa tomo seli. → mi tawa tomo seli e ona. | mi tawa ala e ona tawa tomo seli. → mi tawa ala tomo seli e ona. |
 |:-|:-|
@@ -283,7 +283,7 @@ In other cases, **Sonja** uses **modifiers** (or the *ᴘᴀʀᴛɪᴄʟᴇ* "[p
 |:-|:-|
 | *This book is mine.* | *This book is about me.* |
 
-👍 "tawa poka" and "lon poka" can have the meaning of the experimental *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ* "ante".
+👍 "tawa poka" and "lon poka" can have the meaning of the experimental ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "ante".
 
 | jan li suli mute, mani li suli lili. → jan li suli mute tawa/lon poka mani. → jan li suli mute ante mani. |
 |:-|
@@ -301,7 +301,7 @@ In other cases, **Sonja** uses **modifiers** (or the *ᴘᴀʀᴛɪᴄʟᴇ* "[p
 |:-|
 | *From my point of view, you are a good person.* |
 
-👎 **Pije** removes the *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ* "tawa" before "lukin".
+👎 **Pije** removes the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "tawa" before "lukin".
 
 | sina tawa lukin sama waso. → sina lukin sama waso. |
 |:-|
@@ -313,7 +313,7 @@ In other cases, **Sonja** uses **modifiers** (or the *ᴘᴀʀᴛɪᴄʟᴇ* "[p
 |:-|
 | *You are empathizing badly because of struggle.* → *You are angry.* |
 
-👎 "lon" + [spatial modifier](#spatial-modifiers) can become a *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ*.
+👎 "lon" + [spatial modifier](#spatial-modifiers) can become a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ.
 
 | mi tawa lon poka sina. → mi tawa poka sina. |
 |:-|
@@ -325,7 +325,7 @@ In other cases, **Sonja** uses **modifiers** (or the *ᴘᴀʀᴛɪᴄʟᴇ* "[p
 |:-|
 | *People are more important than money.* |
 
-👎 When a [preposition](#prepositions) becomes a [noun](#nouns), its meaning can become that of the word "ijo" after that *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ*. **Pije** uses the *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ* "tan" in this way.
+👎 When a [preposition](#prepositions) becomes a [noun](#nouns), its meaning can become that of the word "ijo" after that ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ. **Pije** uses the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "tan" in this way.
 
 | mi sona ala e ni: ni li tan seme. → mi sona ala e tan. | ona li tawa e ona sama. → ona li tawa e sama. |
 |:-|:-|
@@ -353,13 +353,13 @@ In other cases, **Sonja** uses **modifiers** (or the *ᴘᴀʀᴛɪᴄʟᴇ* "[p
 |:-|
 | *The men know something/that.* → *The men know.* |
 
-"pona (tawa)" + *ᴠᴇʀʙ* expresses that something is worth being done.
+"pona (tawa)" + ᴠᴇʀʙ expresses that something is worth being done.
 
 | pona tawa lukin → pona lukin |
 |:-|
 | *good for the eye* → *worth seeing*, *beautiful* |
 
-👍 "insa (tawa)" + *ᴠᴇʀʙ* expresses that something is do-able, whereas "open (tawa)" + *ᴠᴇʀʙ* expresses that something is not obstructing the performance of the action described by the *ᴠᴇʀʙ*.
+👍 "insa (tawa)" + ᴠᴇʀʙ expresses that something is do-able, whereas "open (tawa)" + ᴠᴇʀʙ expresses that something is not obstructing the performance of the action described by the ᴠᴇʀʙ.
 
 | insa lukin | open lukin |
 |:-|:-|
@@ -390,7 +390,7 @@ In other cases, **Sonja** uses **modifiers** (or the *ᴘᴀʀᴛɪᴄʟᴇ* "[p
 | [↑](#verbs) |
 |:-|
 
-As a [noun](#nouns), **simple verbs** mean the action described by the *ᴠᴇʀʙ*.
+As a [noun](#nouns), **simple verbs** mean the action described by the ᴠᴇʀʙ.
 
 | alasa |
 |:-|
@@ -402,7 +402,7 @@ As a [noun](#nouns), **simple verbs** mean the action described by the *ᴠᴇʀ
 | [↑](#verbs) |
 |:-|
 
-As a [noun](#nouns), **simple verbs** mean the direct object ("e ijo/ni") implied by the *ᴠᴇʀʙ*.
+As a [noun](#nouns), **simple verbs** mean the direct object ("e ijo/ni") implied by the ᴠᴇʀʙ.
 
 | sitelen |
 |:-|
@@ -414,7 +414,7 @@ As a [noun](#nouns), **simple verbs** mean the direct object ("e ijo/ni") implie
 | [↑](#verbs) |
 |:-|
 
-As a [noun](#nouns), **simple verbs** mean the tool ("kepeken ilo") implied by the *ᴠᴇʀʙ*.
+As a [noun](#nouns), **simple verbs** mean the tool ("kepeken ilo") implied by the ᴠᴇʀʙ.
 
 | lukin |
 |:-|
@@ -426,7 +426,7 @@ As a [noun](#nouns), **simple verbs** mean the tool ("kepeken ilo") implied by t
 | [↑](#verbs) |
 |:-|
 
-If a *ᴠᴇʀʙ* is a *ᴘʀᴇ-ᴠᴇʀʙ*, it implies a **transitive verb** before a **subordinate clause**, which receives the main *ᴠᴇʀʙ* from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [particle "li"](#subject-and-predicate)) is the same. Only a closed set of [verbs](#verbs) and [modifiers](#modifiers) can be used as **pre-verbs**.
+If a ᴠᴇʀʙ is a ᴘʀᴇ-ᴠᴇʀʙ, it implies a **transitive verb** before a **subordinate clause**, which receives the main ᴠᴇʀʙ from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [particle "li"](#subject-and-predicate)) is the same. Only a closed set of [verbs](#verbs) and [modifiers](#modifiers) can be used as **pre-verbs**.
 
 | ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
 |:-|
@@ -438,7 +438,7 @@ After the **pre-verbs** "awen" and "kama", "lon" can disappear.
 |:-|
 | *to stay* |
 
-👎 The *ᴘʀᴇ-ᴠᴇʀʙ* "kama" and the [content word](#content-words) "pini" can disappear.
+👎 The ᴘʀᴇ-ᴠᴇʀʙ "kama" and the [content word](#content-words) "pini" can disappear.
 
 | ona li kama lape lon pini pi tenpo lili. → ona li lape lon tenpo lili. |
 |:-|
@@ -465,7 +465,7 @@ After the **pre-verbs** "awen" and "kama", "lon" can disappear.
 | [↑](#particles) |
 |:-|
 
-**Simple Particles** are tokiponized names. They always follow a [noun](#nouns). "pi nimi" can disappear before *ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ*. In this case, the **quotation marks** disappear.
+**Simple Particles** are tokiponized names. They always follow a [noun](#nouns). "pi nimi" can disappear before ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ. In this case, the **quotation marks** disappear.
 
 | ona li jo e nimi "Sonja". | jan pi nimi "Sonja" → jan Sonja 
 |:-|:-|
@@ -485,25 +485,25 @@ After the **pre-verbs** "awen" and "kama", "lon" can disappear.
 | [↑](#particles) |
 |:-|
 
-One can express an emotion by means of a plain *ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ* as if it were a *ꜱᴇɴᴛᴇɴᴄᴇ*.
+One can express an emotion by means of a plain ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ as if it were a ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | a! | mu! |
 |:-|:-|
 | *Ha!, Wow!* | *Blah!, Meeow!* |
 
-An *ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ* can become a [thing verb](#thing-verbs).
+An ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ can become a [thing verb](#thing-verbs).
 
 | soweli li kalama "mu". → soweli li mu. | ona li kute e nimi "mu" wawa. → ona li kute e mu wawa. |
 |:-|:-|
 | *The animal bleats.* | *She heard a loud bleat.* |
 
-👍 An *ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ* can become a [modifier](#modifiers).
+👍 An ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ can become a [modifier](#modifiers).
 
 | a |
 |:-|
 | *indeed, yes* |
 
-👍 One can reply by a phrase only, but it can't start with a *ᴘᴀʀᴛɪᴄʟᴇ*.
+👍 One can reply by a phrase only, but it can't start with a ᴘᴀʀᴛɪᴄʟᴇ.
 
 | ona li mama. → mama. | o jo e moku pona! → moku pona! |
 |:-|:-|
@@ -540,13 +540,13 @@ An *ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ* can become a [thing verb](#thing-verbs).
 | [↑](#phrase-particles) |
 |:-|
 
-If the subject (i.e. the words before the *ᴘᴀʀᴛɪᴄʟᴇ* "li") is just "mi" or "sina", the *ᴘᴀʀᴛɪᴄʟᴇ* "li" disappears.
+If the subject (i.e. the words before the ᴘᴀʀᴛɪᴄʟᴇ "li") is just "mi" or "sina", the ᴘᴀʀᴛɪᴄʟᴇ "li" disappears.
 
 | mi li mije. → mi mije. | sina li sin. → sina sin. |
 |:-|:-|
 | *I am a man.* | *You are new.* |
 
-A *ꜱᴇɴᴛᴇɴᴄᴇ* can have multiple predicates (i.e. the words after the *ᴘᴀʀᴛɪᴄʟᴇ* "li"). Their **commas** can disappear.
+A ꜱᴇɴᴛᴇɴᴄᴇ can have multiple predicates (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "li"). Their **commas** can disappear.
 
 | ma mama li lili, li lete. → ma mama li lili li lete. |
 |:-|
@@ -576,13 +576,13 @@ A *ꜱᴇɴᴛᴇɴᴄᴇ* can have multiple predicates (i.e. the words after th
 | [↑](#phrase-particles) |
 |:-|
 
-A predicate (i.e. the words after the *ᴘᴀʀᴛɪᴄʟᴇ* "li") can have multiple direct objects (i.e. the words after the *ᴘᴀʀᴛɪᴄʟᴇ* "e"). Their **commas** can disappear.
+A predicate (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "li") can have multiple direct objects (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "e"). Their **commas** can disappear.
 
 | ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
 |:-|
 | *She cooks the meat and the rice.* |
 
-One can express a desire by just a direct object (i.e. the words after the *ᴘᴀʀᴛɪᴄʟᴇ* "e").
+One can express a desire by just a direct object (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "e").
 
 | tawa pona sina la mi wile e moku pona. → moku pona! |
 |:-|
@@ -612,13 +612,13 @@ One can express a desire by just a direct object (i.e. the words after the *ᴘ�
 | [↑](#phrase-particles) |
 |:-|
 
-"sina" can disappear before the *ᴘᴀʀᴛɪᴄʟᴇ* "o".
+"sina" can disappear before the ᴘᴀʀᴛɪᴄʟᴇ "o".
 
 | sina o lukin. → o lukin! | jan Ali o wawa. → jan Ali o wawa! |
 |:-|:-|
 | *You should look.* → *Look!* | *Ali should be strong.* → *Ali, be strong!* |
 
-"kute" can disappear after the *ᴘᴀʀᴛɪᴄʟᴇ* "o". **Sonja** doesn't combine two "o"-**particles**.
+"kute" can disappear after the ᴘᴀʀᴛɪᴄʟᴇ "o". **Sonja** doesn't combine two "o"-**particles**.
 
 | o kute! → o! | jan Ali o, o wawa! → jan Ali o wawa! |
 |:-|:-|
@@ -636,19 +636,19 @@ One can express a desire by just a direct object (i.e. the words after the *ᴘ�
 | [↑](#phrase-particles) |
 |:-|
 
-If a genitive phrase (i.e. the words after the *ᴘᴀʀᴛɪᴄʟᴇ* "pi") consists of only one [noun](#nouns), the *ᴘᴀʀᴛɪᴄʟᴇ* "pi" disappears. So, that [noun](#nouns) becomes a [modifier](#modifiers).
+If a genitive phrase (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "pi") consists of only one [noun](#nouns), the ᴘᴀʀᴛɪᴄʟᴇ "pi" disappears. So, that [noun](#nouns) becomes a [modifier](#modifiers).
 
 | toki pi pona → toki pona |
 |:-|
 | *a language of good* → *a good language* |
 
-As a rule of thumb, if the *ᴘᴀʀᴛɪᴄʟᴇ* "pi" doesn't add useful information, it shouldn't be used.
+As a rule of thumb, if the ᴘᴀʀᴛɪᴄʟᴇ "pi" doesn't add useful information, it shouldn't be used.
 
 | jan pi ijo ni → jan ni |
 |:-|
 | *the person over there* → *that person* |
 
-👍 A genitive phrase (i.e. words after a *ᴘᴀʀᴛɪᴄʟᴇ* "pi") can have another genitive phrase.
+👍 A genitive phrase (i.e. words after a ᴘᴀʀᴛɪᴄʟᴇ "pi") can have another genitive phrase.
 
 | tomo pi telo nasa pi ma ante |
 |:-|
@@ -708,13 +708,13 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 |:-|
 | *Is she a parent or what?* |
 
-🤔 **Sonja** uses the *ᴘᴀʀᴛɪᴄʟᴇ* "en" only in order to combine multiple subjects (i.e. the words before the *ᴘᴀʀᴛɪᴄʟᴇ* "li").
+🤔 **Sonja** uses the ᴘᴀʀᴛɪᴄʟᴇ "en" only in order to combine multiple subjects (i.e. the words before the ᴘᴀʀᴛɪᴄʟᴇ "li").
 
 | toki sina en pali sina li sama. |
 |:-|
 | *What you say and what you do are the same.* |
 
-🤔 In front of words and after the same words negated, the *ᴘᴀʀᴛɪᴄʟᴇ* "anu" disappears.
+🤔 In front of words and after the same words negated, the ᴘᴀʀᴛɪᴄʟᴇ "anu" disappears.
 
 | ona li mama ala anu mama? → ona li mama ala mama? |
 |:-|
@@ -726,25 +726,25 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 | [↑](#transitive-particles) |
 |:-|
 
-By means of the **particle "la"**, a [preposition](#prepositions) can be at the beginning of a *ꜱᴇɴᴛᴇɴᴄᴇ*.
+By means of the **particle "la"**, a [preposition](#prepositions) can be at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | sina pana e nimi "pona" tawa mi tan seme? → tan seme la sina pana e nimi "pona" tawa mi? |
 |:-|
 | *Why are you calling me good?* |
 
-At the beginning of a *ꜱᴇɴᴛᴇɴᴄᴇ*, the [preposition](#prepositions) "lon" disappears.
+At the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ, the [preposition](#prepositions) "lon" disappears.
 
 | ona li kama lon tenpo pimeja ni. → tenpo pimeja ni la ona li kama. |
 |:-|
 | *She is coming tonight.* → *Tonight, she is coming.* |
 
-If "ni" at the beginning of a *ꜱᴇɴᴛᴇɴᴄᴇ* accompanies a **subordinate clause**, "ni" disappears.
+If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate clause**, "ni" disappears.
 
 | jan li pona tawa mi lon ni: mi pona tawa jan. → mi pona tawa jan, la jan li pona tawa mi. |
 |:-|
 | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
-👎 **Pije** doesn't use [prepositions](#prepositions) at the beginning of a *ꜱᴇɴᴛᴇɴᴄᴇ*. But he uses [prepositions](#prepositions) instead.
+👎 **Pije** doesn't use [prepositions](#prepositions) at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ. But he uses [prepositions](#prepositions) instead.
 
 | sina pu tan jan seme? → tan pi jan seme la sina pu? |
 |:-|
