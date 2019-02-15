@@ -814,8 +814,8 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 |                                                        | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | ala — **lon** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **existing**, **real**, **true** |
 | <img src="musi/sitelen/pona/luka.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) | kute, lawa, len, **luka**, lukin, noka, palisa, pilin, poki, selo, tomo, uta | ᴠᴇʀʙ to manipulate, touch → ɴᴏᴜɴ **arm**, **hand**, **tactile organ** |
 |                                                        | [ɴᴜᴍʙᴇʀ](#number) | ala, ale, esun, **luka**, mute, tu, wan | ɴᴜᴍʙᴇʀ 5, **five** |
-| <img src="musi/sitelen/pona/lukin.png" height="42">    | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) | kute, lawa, len, luka, **lukin**, noka, palisa, pilin, poki, selo, tomi, uta | **to look at**, **see**, **examine**, **observe**, **read**, **watch**; care → **eye** |
-|                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) | ken, **lukin**, open, sona, wile | … → **to seek**, **look for**, **try to** |
+| <img src="musi/sitelen/pona/lukin.png" height="42">    | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) | kute, lawa, len, luka, **lukin**, noka, palisa, pilin, poki, selo, tomi, uta | ᴠᴇʀʙ **to look at**, **see**, **examine**, **observe**, **read**, **watch** → ɴᴏᴜɴ **eye** |
+|                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) | ken, **lukin**, open, sona, wile | ᴀᴅᴊᴇᴄᴛɪᴠᴇ caring → ᴘʀᴇ-ᴠᴇʀʙ **to seek**, **look for**, **try to** |
 | <img src="musi/sitelen/pona/lupa.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **lupa**, nasin | thick, extended, hollow → (- tomo) **door**, **hole**, **orifice**, (- suno) **window** |
 | <img src="musi/sitelen/pona/ma.png" height="42">       | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **ma**, mun | vast → expanse; **earth**, **land**; **outdoors**, **world**; **country**, **territory**; **soil** |
 | <img src="musi/sitelen/pona/mama.png" height="42">     | [ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀ](#person-modifier) | **mama** | original → **parent**, **ancestor**; **creator**, **originator**; **caretaker**, **sustainer** |
