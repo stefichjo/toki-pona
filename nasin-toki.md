@@ -111,7 +111,7 @@
 |:-|
 | *every* → *everything* |
 
-In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"), "ijo" before a **correlative** reappears.
+In a genitive clause (i.e. the words behind the *ᴘᴀʀᴛɪᴄʟᴇ* "[pi](#genitive)"), "ijo" before a **correlative** reappears.
 
 | mama pi ijo ale | mama ale |
 |:-|:-|
@@ -217,7 +217,7 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 |:-|:-|
 | *two weeks* | *fourteen days* |
 
-👍 By means of a **number** of a small quantity and a **number** of a big quantity one can express a quantity between zero and one.
+👍 By means of a *ɴᴜᴍʙᴇʀ* of a small quantity and a *ɴᴜᴍʙᴇʀ* of a big quantity one can express a quantity between zero and one.
 
 | mi pana e wan wan pi tu tu tawa sina. | mi pana e wan mute pi tu tu tawa sina. |
 |:-|:-|
@@ -229,7 +229,7 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 |:-|:-|:-|
 | *It's going to be your turn.* | *It's your turn.* | *It's been your turn.* |
 
-🤔 The meanings of the **number** "mute" and of the [simple modifier](#simple-modifiers) "mute" can be one.
+🤔 The meanings of the *ɴᴜᴍʙᴇʀ* "mute" and of the [simple modifier](#simple-modifiers) "mute" can be one.
 
 | mute |
 |:-|
@@ -253,7 +253,7 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 |:-|
 | *I'm giving you the apple.* |
 
-When a [modifier](#modifiers) and a **preposition** are the same, the **preposition** disappears. There can be an [interjection](#interjections) between the [verb](#verbs) and the [preposition](#prepositions).
+When a [modifier](#modifiers) and a *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ* are the same, the *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ* disappears. There can be an [interjection](#interjections) between the [verb](#verbs) and the [preposition](#prepositions).
 
 | mi tawa tawa tomo seli. → mi tawa tomo seli. | mi tawa ala tawa tomo seli. → mi tawa ala tomo seli. |
 |:-|:-|
@@ -265,13 +265,13 @@ When a [modifier](#modifiers) and a **preposition** are the same, the **preposit
 |:-|
 | *I'm talking to you in the kitchen.* |
 
-In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitive)") instead of **prepositions**.
+In other cases, **Sonja** uses **modifiers** (or the *ᴘᴀʀᴛɪᴄʟᴇ* "[pi](#genitive)") instead of **prepositions**.
 
 | jan lon poka → jan poka | pona tawa lukin → pona lukin |
 |:-|:-|
 | *neighbour* | *beautiful* |
 
-👍 When a [verb](#verbs) and a **preposition** are the same, the **preposition** disappears and the direct object moves to the end of the sentence.
+👍 When a [verb](#verbs) and a *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ* are the same, the *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ* disappears and the direct object moves to the end of the sentence.
 
 | mi tawa e ona tawa tomo seli. → mi tawa tomo seli e ona. | mi tawa ala e ona tawa tomo seli. → mi tawa ala tomo seli e ona. |
 |:-|:-|
@@ -283,7 +283,7 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 |:-|:-|
 | *This book is mine.* | *This book is about me.* |
 
-👍 "tawa poka" and "lon poka" can have the meaning of the experimental **preposition** "ante".
+👍 "tawa poka" and "lon poka" can have the meaning of the experimental *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ* "ante".
 
 | jan li suli mute, mani li suli lili. → jan li suli mute tawa/lon poka mani. → jan li suli mute ante mani. |
 |:-|
@@ -301,7 +301,7 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 |:-|
 | *From my point of view, you are a good person.* |
 
-👎 **Pije** removes the **preposition** "tawa" before "lukin".
+👎 **Pije** removes the *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ* "tawa" before "lukin".
 
 | sina tawa lukin sama waso. → sina lukin sama waso. |
 |:-|
@@ -313,7 +313,7 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 |:-|
 | *You are empathizing badly because of struggle.* → *You are angry.* |
 
-👎 "lon" + [spatial modifier](#spatial-modifiers) can become a **preposition**.
+👎 "lon" + [spatial modifier](#spatial-modifiers) can become a *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ*.
 
 | mi tawa lon poka sina. → mi tawa poka sina. |
 |:-|
@@ -325,7 +325,7 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 |:-|
 | *People are more important than money.* |
 
-👎 When a [preposition](#prepositions) becomes a [noun](#nouns), its meaning can become that of the word "ijo" after that **preposition**. **Pije** uses the **preposition** "tan" in this way.
+👎 When a [preposition](#prepositions) becomes a [noun](#nouns), its meaning can become that of the word "ijo" after that *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ*. **Pije** uses the *ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ* "tan" in this way.
 
 | mi sona ala e ni: ni li tan seme. → mi sona ala e tan. | ona li tawa e ona sama. → ona li tawa e sama. |
 |:-|:-|
@@ -353,13 +353,13 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 |:-|
 | *The men know something/that.* → *The men know.* |
 
-"pona (tawa)" + **verb** expresses that something is worth being done.
+"pona (tawa)" + *ᴠᴇʀʙ* expresses that something is worth being done.
 
 | pona tawa lukin → pona lukin |
 |:-|
 | *good for the eye* → *worth seeing*, *beautiful* |
 
-👍 "insa (tawa)" + **verb** expresses that something is do-able, whereas "open (tawa)" + **verb** expresses that something is not obstructing the performance of the action described by the **verb**.
+👍 "insa (tawa)" + *ᴠᴇʀʙ* expresses that something is do-able, whereas "open (tawa)" + *ᴠᴇʀʙ* expresses that something is not obstructing the performance of the action described by the *ᴠᴇʀʙ*.
 
 | insa lukin | open lukin |
 |:-|:-|
@@ -390,7 +390,7 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 | [↑](#verbs) |
 |:-|
 
-As a [noun](#nouns), **simple verbs** mean the action described by the **verb**.
+As a [noun](#nouns), **simple verbs** mean the action described by the *ᴠᴇʀʙ*.
 
 | alasa |
 |:-|
@@ -402,7 +402,7 @@ As a [noun](#nouns), **simple verbs** mean the action described by the **verb**.
 | [↑](#verbs) |
 |:-|
 
-As a [noun](#nouns), **simple verbs** mean the direct object ("e ijo/ni") implied by the **verb**.
+As a [noun](#nouns), **simple verbs** mean the direct object ("e ijo/ni") implied by the *ᴠᴇʀʙ*.
 
 | sitelen |
 |:-|
@@ -414,7 +414,7 @@ As a [noun](#nouns), **simple verbs** mean the direct object ("e ijo/ni") implie
 | [↑](#verbs) |
 |:-|
 
-As a [noun](#nouns), **simple verbs** mean the tool ("kepeken ilo") implied by the **verb**.
+As a [noun](#nouns), **simple verbs** mean the tool ("kepeken ilo") implied by the *ᴠᴇʀʙ*.
 
 | lukin |
 |:-|
@@ -426,7 +426,7 @@ As a [noun](#nouns), **simple verbs** mean the tool ("kepeken ilo") implied by t
 | [↑](#verbs) |
 |:-|
 
-If a **verb** is a **pre-verb**, it implies a **transitive verb** before a **subordinate clause**, which receives the main **verb** from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [particle "li"](#subject-and-predicate)) is the same. Only a closed set of [verbs](#verbs) and [modifiers](#modifiers) can be used as **pre-verbs**.
+If a *ᴠᴇʀʙ* is a *ᴘʀᴇ-ᴠᴇʀʙ*, it implies a **transitive verb** before a **subordinate clause**, which receives the main *ᴠᴇʀʙ* from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [particle "li"](#subject-and-predicate)) is the same. Only a closed set of [verbs](#verbs) and [modifiers](#modifiers) can be used as **pre-verbs**.
 
 | ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
 |:-|
@@ -438,7 +438,7 @@ After the **pre-verbs** "awen" and "kama", "lon" can disappear.
 |:-|
 | *to stay* |
 
-👎 The **pre-verb** "kama" and the [content word](#content-words) "pini" can disappear.
+👎 The *ᴘʀᴇ-ᴠᴇʀʙ* "kama" and the [content word](#content-words) "pini" can disappear.
 
 | ona li kama lape lon pini pi tenpo lili. → ona li lape lon tenpo lili. |
 |:-|
@@ -503,7 +503,7 @@ An **interjection** can become a [thing verb](#thing-verbs).
 |:-|
 | *indeed, yes* |
 
-👍 One can reply by a phrase only, but it can't start with a **particle**.
+👍 One can reply by a phrase only, but it can't start with a *ᴘᴀʀᴛɪᴄʟᴇ*.
 
 | ona li mama. → mama. | o jo e moku pona! → moku pona! |
 |:-|:-|
@@ -540,13 +540,13 @@ An **interjection** can become a [thing verb](#thing-verbs).
 | [↑](#phrase-particles) |
 |:-|
 
-If the subject (i.e. the words before the **particle** "li") is just "mi" or "sina", the **particle** "li" disappears.
+If the subject (i.e. the words before the *ᴘᴀʀᴛɪᴄʟᴇ* "li") is just "mi" or "sina", the *ᴘᴀʀᴛɪᴄʟᴇ* "li" disappears.
 
 | mi li mije. → mi mije. | sina li sin. → sina sin. |
 |:-|:-|
 | *I am a man.* | *You are new.* |
 
-A **sentence** can have multiple predicates (i.e. the words after the **particle** "li"). Their **commas** can disappear.
+A **sentence** can have multiple predicates (i.e. the words after the *ᴘᴀʀᴛɪᴄʟᴇ* "li"). Their **commas** can disappear.
 
 | ma mama li lili, li lete. → ma mama li lili li lete. |
 |:-|
@@ -576,13 +576,13 @@ A **sentence** can have multiple predicates (i.e. the words after the **particle
 | [↑](#phrase-particles) |
 |:-|
 
-A predicate (i.e. the words after the **particle** "li") can have multiple direct objects (i.e. the words after the **particle** "e"). Their **commas** can disappear.
+A predicate (i.e. the words after the *ᴘᴀʀᴛɪᴄʟᴇ* "li") can have multiple direct objects (i.e. the words after the *ᴘᴀʀᴛɪᴄʟᴇ* "e"). Their **commas** can disappear.
 
 | ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
 |:-|
 | *She cooks the meat and the rice.* |
 
-One can express a desire by just a direct object (i.e. the words after the **particle** "e").
+One can express a desire by just a direct object (i.e. the words after the *ᴘᴀʀᴛɪᴄʟᴇ* "e").
 
 | tawa pona sina la mi wile e moku pona. → moku pona! |
 |:-|
@@ -612,13 +612,13 @@ One can express a desire by just a direct object (i.e. the words after the **par
 | [↑](#phrase-particles) |
 |:-|
 
-"sina" can disappear before the **particle** "o".
+"sina" can disappear before the *ᴘᴀʀᴛɪᴄʟᴇ* "o".
 
 | sina o lukin. → o lukin! | jan Ali o wawa. → jan Ali o wawa! |
 |:-|:-|
 | *You should look.* → *Look!* | *Ali should be strong.* → *Ali, be strong!* |
 
-"kute" can disappear after the **particle** "o". **Sonja** doesn't combine two "o"-**particles**.
+"kute" can disappear after the *ᴘᴀʀᴛɪᴄʟᴇ* "o". **Sonja** doesn't combine two "o"-**particles**.
 
 | o kute! → o! | jan Ali o, o wawa! → jan Ali o wawa! |
 |:-|:-|
@@ -636,19 +636,19 @@ One can express a desire by just a direct object (i.e. the words after the **par
 | [↑](#phrase-particles) |
 |:-|
 
-If a genitive phrase (i.e. the words after the **particle** "pi") consists of only one [noun](#nouns), the **particle** "pi" disappears. So, that [noun](#nouns) becomes a [modifier](#modifiers).
+If a genitive phrase (i.e. the words after the *ᴘᴀʀᴛɪᴄʟᴇ* "pi") consists of only one [noun](#nouns), the *ᴘᴀʀᴛɪᴄʟᴇ* "pi" disappears. So, that [noun](#nouns) becomes a [modifier](#modifiers).
 
 | toki pi pona → toki pona |
 |:-|
 | *a language of good* → *a good language* |
 
-As a rule of thumb, if the **particle** "pi" doesn't add useful information, it shouldn't be used.
+As a rule of thumb, if the *ᴘᴀʀᴛɪᴄʟᴇ* "pi" doesn't add useful information, it shouldn't be used.
 
 | jan pi ijo ni → jan ni |
 |:-|
 | *the person over there* → *that person* |
 
-👍 A genitive phrase (i.e. words after a **particle** "pi") can have another genitive phrase.
+👍 A genitive phrase (i.e. words after a *ᴘᴀʀᴛɪᴄʟᴇ* "pi") can have another genitive phrase.
 
 | tomo pi telo nasa pi ma ante |
 |:-|
@@ -696,7 +696,7 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 |:-|
 | *foreign bar* |
 
-👎 Every subject (i.e. the words before the [particle "li"](#subject-and-predicate) can have a strange **particle** "en".
+👎 Every subject (i.e. the words before the [particle "li"](#subject-and-predicate) can have a strange *ᴘᴀʀᴛɪᴄʟᴇ* "en".
 
 | en sina en mi li jan lili. | en ona li jan lili. |
 |:-|:-|
@@ -708,13 +708,13 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 |:-|
 | *Is she a parent or what?* |
 
-🤔 **Sonja** uses the **particle** "en" only in order to combine multiple subjects (i.e. the words before the **particle** "li").
+🤔 **Sonja** uses the *ᴘᴀʀᴛɪᴄʟᴇ* "en" only in order to combine multiple subjects (i.e. the words before the *ᴘᴀʀᴛɪᴄʟᴇ* "li").
 
 | toki sina en pali sina li sama. |
 |:-|
 | *What you say and what you do are the same.* |
 
-🤔 In front of words and after the same words negated, the **particle** "anu" disappears.
+🤔 In front of words and after the same words negated, the *ᴘᴀʀᴛɪᴄʟᴇ* "anu" disappears.
 
 | ona li mama ala anu mama? → ona li mama ala mama? |
 |:-|
@@ -758,44 +758,44 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 
 | sitelen | | | |
 |:-|:-|:-|:-|
-| <img src="musi/sitelen/pona/a.png" height="42">        | [*INTERJECTION*](#interjections) | mu — **a**, ala | *PARTICLE* **(emphasis, emotion or confirmation)** → *SENTENCE* yes! |
-| <img src="musi/sitelen/pona/akesi.png" height="42">    | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | **akesi** — soweli | *ADJECTIVE* cold-blooded → *NOUN* **non-cute animal**; **reptile**, **amphibian**; monster |
-| <img src="musi/sitelen/pona/ala.png" height="42">      | [*INTERJECTION*](#interjections) | mu — a, **ala** | *PARTICLE* (negation) → *SENTENCE* outch!, no! |
-|                                                        | [*CORRELATIVE*](#correlatives) | **ala**, ale, ni, seme, wan | *ADJECTIVE* **no**, *ADVERB* **not** → *NOUN* none, nothing |
-|                                                        | [*NUMBER*](#numbers) | **ala**, ale, esun, luka, mute, tu, wan | *NUMBER* 0, **zero** |
-|                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | **ala** — lon | *ADJECTIVE* false, non- |
-| <img src="musi/sitelen/pona/alasa.png" height="42">    | [*SIMPLE VERB*](#simple-verbs) | **alasa**, pali | *VERB* **to hunt**, **forage** |
-| <img src="musi/sitelen/pona/ale.png" height="42">      | [*THING MODIFIER*](#thing-modifiers) | **ale** — wan | *ADJECTIVE* **all**, whole → *NOUN*  **life**, **universe** |
-|                                                        | [*CORRELATIVE*](#correlatives) | ala, **ale**, ni, seme, wan | *ADJECTIVE* **every** → *NOUN* **everything** |
-|                                                        | [*NUMBER*](#numbers) | ala, **ale**, esun, luka, mute, tu, wan | *NUMBER* 🤔 **100**, infinite |
-|                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | lili — **ale**, mute, suli, wawa | *ADJECTIVE* **abundant**, **countless**, **bountiful**, **plentiful**, *NOUN* **abundance** |
-| <img src="musi/sitelen/pona/anpa.png" height="42">     | [*SPATIAL MODIFIER*](#spatial-modifiers) | **anpa** — sewi, lawa — noka | *ADJECTIVE* **bowing down**, **downward**, **humble**, **lowly**, **dependent** → *NOUN* area below |
-| <img src="musi/sitelen/pona/ante.png" height="42">     | [*PREPOSITION*](#prepositions) | **ante** — sama | *ADJECTIVE* **different**, **altered**, **changed**, **other** → *PREPOSITION* than |
-| <img src="musi/sitelen/pona/anu.png" height="42">      | [*CONJUNCTION*](#conjunctions) | **anu** — en | *PARTICLE* (alternative), **or** |
-| <img src="musi/sitelen/pona/awen.png" height="42">     | [*PRE-VERB*](#pre-verbs) | **awen**, kama, pini | *ADJECTIVE* **enduring**, **kept**, **protected**, **safe**, **staying**, **waiting** → *PRE-VERB* **to continue to** |
-| <img src="musi/sitelen/pona/e.png" height="42">        | [*PHRASE PARTICLE*](#phrase-particles) | **e**, li, o, pi | *PARTICLE* **(before the direct object)** |
-| <img src="musi/sitelen/pona/en.png" height="42">       | [*CONJUNCTION*](#conjunctions) | anu — **en** | *PARTICLE* **(between multiple subjects)**, (between multiple noun-phrases belonging to the same phrase particle) |
-| <img src="musi/sitelen/pona/esun.png" height="42">     | [*PREPOSITION*](#prepositions) | **esun**, kepeken | *ADJECTIVE* replacing, *NOUN* replacement; **business transaction**; **bazaar**, **fair**, **market**, **shop** → *PREPOSITION* instead of |
-|                                                        | [*NUMBER*](#numbers) | ala, ale, **esun**, luka, mute, tu, wan | *NUMBER* 7, seven |
-| <img src="musi/sitelen/pona/ijo.png" height="42">      | [*SIMPLE NOUN*](#nouns) | **ijo** — jan | *NOUN* **matter**, **object**, **phenomenon**, **thing**; location, place; case |
-| <img src="musi/sitelen/pona/ike.png" height="42">      | [*SIMPLE MODIFIER*](#simple-modifiers) | pona — **ike**, nasa, pakala, utala | *ADJECTIVE* **bad**, **negative**; **irrelevant**, **non-essential** |
-| <img src="musi/sitelen/pona/ilo.png" height="42">      | [*THING MODIFIER*](#thing-modifiers) | **ilo** — pakala | *ADJECTIVE* functioning → *NOUN* **device**, **implement**, **machine**, **tool**; body part |
-| <img src="musi/sitelen/pona/insa.png" height="42">     | [*SPATIAL MODIFIER*](#spatial-modifiers) | weka — **insa**, poka, sin | *ADJECTIVE* inner → *NOUN* **centre**, **content**, **inside**; (lon -) **between**; **internal organ**, **stomach** |
-| <img src="musi/sitelen/pona/jaki.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | **jaki** — suwi | *ADJECTIVE* **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** → *NOUN* dirt, poison, waste |
-| <img src="musi/sitelen/pona/jan.png" height="42">      | [*SIMPLE NOUN*](#nouns) | ijo — **jan** | *NOUN* **human being**, **person**, **somebody** |
-| <img src="musi/sitelen/pona/jelo.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **jelo**, laso, loje | *ADJECTIVE* **yellow**, **yellowish** |
-| <img src="musi/sitelen/pona/jo.png" height="42">       | [*SIMPLE VERB*](#simple-verbs) | **jo**, pana | *VERB* **to have**, **carry**, **contain**, **hold** |
-| <img src="musi/sitelen/pona/kala.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | **kala**, kasi, pipi, waso | *ADJECTIVE* swimming → *NOUN* **fish**, **marine animal**, **sea creature** |
-| <img src="musi/sitelen/pona/kalama.png" height="42">   | [*SIMPLE MODIFIER*](#simple-modifiers) | **kalama** | *ADJECTIVE* **producing a sound**, *VERB* **to recite**, **utter aloud** |
-| <img src="musi/sitelen/pona/kama.png" height="42">     | [*PRE-VERB*](#pre-verbs) | awen, **kama**, pini | *ADJECTIVE* **arriving**, **coming**, **future**, **summoned** → *PRE-VERB* **to become**; **manage to**, **succeed in** |
-| <img src="musi/sitelen/pona/kasi.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | kala, **kasi**, pipi, waso | *ADJECTIVE* vegetating → *NOUN* **plant**, **vegetation**; **herb**, **leaf** |
-| <img src="musi/sitelen/pona/ken.png" height="42">      | [*PRE-VERB*](#pre-verbs) | **ken**, lukin, open, sona, wile | *ADJECTIVE* **possible** → *PRE-VERB* **to be able to**, **be allowed to**, **can**, **may** |
-| <img src="musi/sitelen/pona/kepeken.png" height="42">  | [*PREPOSITION*](#prepositions) | esun, **kepeken** | *ADJECTIVE* … → *PREPOSITION* **by means of**, **using**, **with** |
-| <img src="musi/sitelen/pona/kili.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | **kili**, pan | *ADJECTIVE* hanging → *NOUN* **fruit**, **vegetable**; **mushroom** |
-| <img src="musi/sitelen/pona/kiwen.png" height="42">    | [*THING MODIFIER*](#thing-modifiers) | **kiwen**, ko, kon, telo | *ADJECTIVE* hard → *NOUN* **hard object**, **metal**, **rock**, **stone** |
-| <img src="musi/sitelen/pona/ko.png" height="42">       | [*THING MODIFIER*](#thing-modifiers) | kiwen, **ko**, kon, telo | *ADJECTIVE* semi-solid → *NOUN* **clay**, **clinging form**, **dough**, **semi-solid**, **paste**, **powder** |
-| <img src="musi/sitelen/pona/kon.png" height="42">      | [*THING MODIFIER*](#thing-modifiers) | kiwen, ko, **kon**, telo | *ADJECTIVE* floating, hovering → *NOUN* **air**, **breath**; **essence**, **spirit**; **hidden reality**, meaning, **unseen agent** |
-| <img src="musi/sitelen/pona/kule.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **kule** — walo | *ADJECTIVE* **colourful**, **painted**; **pigmented**; brown |
+| <img src="musi/sitelen/pona/a.png" height="42">        | [*INTERJECTION*](#interjections) | mu — **a**, ala | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)** → *SENTENCE* yes! |
+| <img src="musi/sitelen/pona/akesi.png" height="42">    | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | **akesi** — soweli | ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded → ɴᴏᴜɴ **non-cute animal**; **reptile**, **amphibian**; monster |
+| <img src="musi/sitelen/pona/ala.png" height="42">      | [*INTERJECTION*](#interjections) | mu — a, **ala** | ᴘᴀʀᴛɪᴄʟᴇ (negation) → *SENTENCE* outch!, no! |
+|                                                        | [*CORRELATIVE*](#correlatives) | **ala**, ale, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **no**, ᴀᴅᴠᴇʀʙ **not** → ɴᴏᴜɴ none, nothing |
+|                                                        | [ɴᴜᴍʙᴇʀ](#numbers) | **ala**, ale, esun, luka, mute, tu, wan | ɴᴜᴍʙᴇʀ 0, **zero** |
+|                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | **ala** — lon | ᴀᴅᴊᴇᴄᴛɪᴠᴇ false, non- |
+| <img src="musi/sitelen/pona/alasa.png" height="42">    | [*SIMPLE VERB*](#simple-verbs) | **alasa**, pali | ᴠᴇʀʙ **to hunt**, **forage** |
+| <img src="musi/sitelen/pona/ale.png" height="42">      | [*THING MODIFIER*](#thing-modifiers) | **ale** — wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **all**, whole → ɴᴏᴜɴ  **life**, **universe** |
+|                                                        | [*CORRELATIVE*](#correlatives) | ala, **ale**, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **every** → ɴᴏᴜɴ **everything** |
+|                                                        | [ɴᴜᴍʙᴇʀ](#numbers) | ala, **ale**, esun, luka, mute, tu, wan | ɴᴜᴍʙᴇʀ 🤔 **100**, infinite |
+|                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | lili — **ale**, mute, suli, wawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **countless**, **bountiful**, **plentiful**, ɴᴏᴜɴ **abundance** |
+| <img src="musi/sitelen/pona/anpa.png" height="42">     | [*SPATIAL MODIFIER*](#spatial-modifiers) | **anpa** — sewi, lawa — noka | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bowing down**, **downward**, **humble**, **lowly**, **dependent** → ɴᴏᴜɴ area below |
+| <img src="musi/sitelen/pona/ante.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | **ante** — sama | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **different**, **altered**, **changed**, **other** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ than |
+| <img src="musi/sitelen/pona/anu.png" height="42">      | [*CONJUNCTION*](#conjunctions) | **anu** — en | ᴘᴀʀᴛɪᴄʟᴇ (alternative), **or** |
+| <img src="musi/sitelen/pona/awen.png" height="42">     | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verbs) | **awen**, kama, pini | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**, **protected**, **safe**, **staying**, **waiting** → ᴘʀᴇ-ᴠᴇʀʙ **to continue to** |
+| <img src="musi/sitelen/pona/e.png" height="42">        | [*PHRASE PARTICLE*](#phrase-particles) | **e**, li, o, pi | ᴘᴀʀᴛɪᴄʟᴇ **(before the direct object)** |
+| <img src="musi/sitelen/pona/en.png" height="42">       | [*CONJUNCTION*](#conjunctions) | anu — **en** | ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, (between multiple noun-phrases belonging to the same phrase particle) |
+| <img src="musi/sitelen/pona/esun.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | **esun**, kepeken | ᴀᴅᴊᴇᴄᴛɪᴠᴇ replacing, ɴᴏᴜɴ replacement; **business transaction**; **bazaar**, **fair**, **market**, **shop** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ instead of |
+|                                                        | [ɴᴜᴍʙᴇʀ](#numbers) | ala, ale, **esun**, luka, mute, tu, wan | ɴᴜᴍʙᴇʀ 7, seven |
+| <img src="musi/sitelen/pona/ijo.png" height="42">      | [*SIMPLE NOUN*](#nouns) | **ijo** — jan | ɴᴏᴜɴ **matter**, **object**, **phenomenon**, **thing**; location, place; case |
+| <img src="musi/sitelen/pona/ike.png" height="42">      | [*SIMPLE MODIFIER*](#simple-modifiers) | pona — **ike**, nasa, pakala, utala | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bad**, **negative**; **irrelevant**, **non-essential** |
+| <img src="musi/sitelen/pona/ilo.png" height="42">      | [*THING MODIFIER*](#thing-modifiers) | **ilo** — pakala | ᴀᴅᴊᴇᴄᴛɪᴠᴇ functioning → ɴᴏᴜɴ **device**, **implement**, **machine**, **tool**; body part |
+| <img src="musi/sitelen/pona/insa.png" height="42">     | [*SPATIAL MODIFIER*](#spatial-modifiers) | weka — **insa**, poka, sin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner → ɴᴏᴜɴ **centre**, **content**, **inside**; (lon -) **between**; **internal organ**, **stomach** |
+| <img src="musi/sitelen/pona/jaki.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | **jaki** — suwi | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** → ɴᴏᴜɴ dirt, poison, waste |
+| <img src="musi/sitelen/pona/jan.png" height="42">      | [*SIMPLE NOUN*](#nouns) | ijo — **jan** | ɴᴏᴜɴ **human being**, **person**, **somebody** |
+| <img src="musi/sitelen/pona/jelo.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **jelo**, laso, loje | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **yellow**, **yellowish** |
+| <img src="musi/sitelen/pona/jo.png" height="42">       | [*SIMPLE VERB*](#simple-verbs) | **jo**, pana | ᴠᴇʀʙ **to have**, **carry**, **contain**, **hold** |
+| <img src="musi/sitelen/pona/kala.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | **kala**, kasi, pipi, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ swimming → ɴᴏᴜɴ **fish**, **marine animal**, **sea creature** |
+| <img src="musi/sitelen/pona/kalama.png" height="42">   | [*SIMPLE MODIFIER*](#simple-modifiers) | **kalama** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound**, ᴠᴇʀʙ **to recite**, **utter aloud** |
+| <img src="musi/sitelen/pona/kama.png" height="42">     | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verbs) | awen, **kama**, pini | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **arriving**, **coming**, **future**, **summoned** → ᴘʀᴇ-ᴠᴇʀʙ **to become**; **manage to**, **succeed in** |
+| <img src="musi/sitelen/pona/kasi.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | kala, **kasi**, pipi, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ vegetating → ɴᴏᴜɴ **plant**, **vegetation**; **herb**, **leaf** |
+| <img src="musi/sitelen/pona/ken.png" height="42">      | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verbs) | **ken**, lukin, open, sona, wile | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **possible** → ᴘʀᴇ-ᴠᴇʀʙ **to be able to**, **be allowed to**, **can**, **may** |
+| <img src="musi/sitelen/pona/kepeken.png" height="42">  | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | esun, **kepeken** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ … → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **by means of**, **using**, **with** |
+| <img src="musi/sitelen/pona/kili.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | **kili**, pan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ hanging → ɴᴏᴜɴ **fruit**, **vegetable**; **mushroom** |
+| <img src="musi/sitelen/pona/kiwen.png" height="42">    | [*THING MODIFIER*](#thing-modifiers) | **kiwen**, ko, kon, telo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ hard → ɴᴏᴜɴ **hard object**, **metal**, **rock**, **stone** |
+| <img src="musi/sitelen/pona/ko.png" height="42">       | [*THING MODIFIER*](#thing-modifiers) | kiwen, **ko**, kon, telo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ semi-solid → ɴᴏᴜɴ **clay**, **clinging form**, **dough**, **semi-solid**, **paste**, **powder** |
+| <img src="musi/sitelen/pona/kon.png" height="42">      | [*THING MODIFIER*](#thing-modifiers) | kiwen, ko, **kon**, telo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ floating, hovering → ɴᴏᴜɴ **air**, **breath**; **essence**, **spirit**; **hidden reality**, meaning, **unseen agent** |
+| <img src="musi/sitelen/pona/kule.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **kule** — walo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **colourful**, **painted**; **pigmented**; brown |
 | <img src="musi/sitelen/pona/kulupu.png" height="42">   | [*THING MODIFIER*](#thing-modifiers) | **kulupu** — sijelo | interactive, reciprocal → **community**, **company**, **group**, **nation**, relation, **society**, **tribe**  |
 | <img src="musi/sitelen/pona/kute.png" height="42">     | [*TOOL VERBS*](#tool-verbs) | **kute**, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | **to hear**, **listen**; **pay attention to**, **obey** → **ear** |
 | <img src="musi/sitelen/pona/la.png" height="42">       | [*CONTEXTUAL FRAGMENT*](#contextual-fragment) | **la** | **(between the context phrase and the main sentence)** |
@@ -810,12 +810,12 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/linja.png" height="42">    | [*THING MODIFIER*](#thing-modifiers) | **linja** — palisa | long and flexible → **long and flexible thing**; **cord**, **hair**, **rope**, **thread**, **yarn** |
 | <img src="musi/sitelen/pona/lipu.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | **lipu**, nena, sike | flat → **flat object**; **book**, **document**, **card**, **paper**, **record**, **website** |
 | <img src="musi/sitelen/pona/loje.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | jelo, laso, **loje** | **red**, **reddish** |
-| <img src="musi/sitelen/pona/lon.png" height="42">      | [*PREPOSITION*](#prepositions) | **lon**, tan, tawa | being present → **located at**, **present at** |
+| <img src="musi/sitelen/pona/lon.png" height="42">      | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | **lon**, tan, tawa | being present → **located at**, **present at** |
 |                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | ala — **lon** | **real**, **true**, **existing** |
 | <img src="musi/sitelen/pona/luka.png" height="42">     | [*TOOL VERBS*](#tool-verbs) | kute, lawa, len, **luka**, lukin, noka, palisa, pilin, poki, selo, tomo, uta | to touch → **arm**, **hand**, **tactile organ** |
-|                                                        | [*NUMBER*](#numbers) | ala, ale, esun, **luka**, mute, tu, wan | 5, **five** |
+|                                                        | [ɴᴜᴍʙᴇʀ](#numbers) | ala, ale, esun, **luka**, mute, tu, wan | 5, **five** |
 | <img src="musi/sitelen/pona/lukin.png" height="42">    | [*TOOL VERBS*](#tool-verbs) | kute, lawa, len, luka, **lukin**, noka, palisa, pilin, poki, selo, tomi, uta | **to look at**, **see**, **examine**, **observe**, **read**, **watch**; care → **eye** |
-|                                                        | [*PRE-VERB*](#pre-verbs) | ken, **lukin**, open, sona, wile | … → **to seek**, **look for**, **try to** |
+|                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verbs) | ken, **lukin**, open, sona, wile | … → **to seek**, **look for**, **try to** |
 | <img src="musi/sitelen/pona/lupa.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | **lupa**, nasin | thick, extended, hollow → (- tomo) **door**, **hole**, **orifice**, (- suno) **window** |
 | <img src="musi/sitelen/pona/ma.png" height="42">       | [*THING MODIFIER*](#thing-modifiers) | **ma**, mun | vast → expanse; **earth**, **land**; **outdoors**, **world**; **country**, **territory**; **soil** |
 | <img src="musi/sitelen/pona/mama.png" height="42">     | [*PERSON MODIFIER*](#person-modifiers) | **mama** | original → **parent**, **ancestor**; **creator**, **originator**; **caretaker**, **sustainer** |
@@ -830,7 +830,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/mun.png" height="42">      | [*THING MODIFIER*](#thing-modifiers) | ma, **mun** | sky-walking at night → moon, night sky object, star |
 | <img src="musi/sitelen/pona/musi.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | lape, moli, **musi** | **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** |
 | <img src="musi/sitelen/pona/mute.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | lili — ale, **mute**, suli, wawa | **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
-|                                                        | [*NUMBER*](#numbers) | ala, ale, esun, luka, **mute**, tu, wan | 3, three, 🤔 **three (or more)** |
+|                                                        | [ɴᴜᴍʙᴇʀ](#numbers) | ala, ale, esun, luka, **mute**, tu, wan | 3, three, 🤔 **three (or more)** |
 | <img src="musi/sitelen/pona/nanpa.png" height="42">    | [*THING VERB*](#thing-verbs) | **nanpa**, nimi, sitelen, sona, toki | to count → number, **numbers** |
 |                                                        | [*SIMPLE PARTICLE*](#simple-particles) | **nanpa** | **(ordinal number)**, **-th** |
 | <img src="musi/sitelen/pona/nasa.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | pona — ike, **nasa**, pakala, utala | **unusual**, **strange**; **foolish**, **crazy**; **drunk**, **intoxicated** |
@@ -844,7 +844,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/olin.png" height="42">     | [*SIMPLE VERB*](#simple-verbs) | **olin**, unpa | **to love**, **have compassion for**, **respect**, **show affection to** |
 | <img src="musi/sitelen/pona/ona.png" height="42">      | [*PRONOUN*](#nouns) | mi, **ona**, sina | **he**, him, **she**, her, **it**, **they**, them |
 | <img src="musi/sitelen/pona/open.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **open** — selo | **open**; **to begin**, **start**; **turn on** |
-|                                                        | [*PRE-VERB*](#pre-verbs) | ken, lukin, **open**, sona, wile | ready — to be ready to |
+|                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verbs) | ken, lukin, **open**, sona, wile | ready — to be ready to |
 | <img src="musi/sitelen/pona/pakala.png" height="42">   | [*THING MODIFIER*](#thing-modifiers) | ilo — **pakala** | useless → tumor, wound; damage |
 |                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | pona — ike, nasa, **pakala**, utala | **botched**, **broken**, **damaged**, **harmed**, **messed up** |
 | <img src="musi/sitelen/pona/pali.png" height="42">     | [*SIMPLE VERB*](#simple-verbs) | alasa, **pali** | **to do**, **take action on**, **work on**; (- ale) **build**, **make**, **prepare** |
@@ -856,14 +856,14 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/pilin.png" height="42">    | [*TOOL VERBS*](#tool-verbs) | kute, lawa, len, luka, lukin, noka, palisa, **pilin**, poki, selo, tomo, uta | **feeling (an emotion, a direct experience)** ­→ **heart (physical or emotional)** |
 | <img src="musi/sitelen/pona/pimeja.png" height="42">   | [*SIMPLE MODIFIER*](#simple-modifiers) | **pimeja** — walo | **black** |
 |                                                        | [*THING MODIFIER*](#thing-modifiers) | **pimeja** — suno | **dark**, **unlit** → shadow |
-| <img src="musi/sitelen/pona/pini.png" height="42">     | [*PRE-VERB*](#pre-verbs) | awen, kama, **pini** | **ago**, **completed**, **ended**, **finished**, **past** → to stop to |
+| <img src="musi/sitelen/pona/pini.png" height="42">     | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verbs) | awen, kama, **pini** | **ago**, **completed**, **ended**, **finished**, **past** → to stop to |
 | <img src="musi/sitelen/pona/pipi.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | kala, kasi, **pipi**, waso | crawling → **bug**, **insect**, **ant**, **spider** |
 | <img src="musi/sitelen/pona/poka.png" height="42">     | [*SPATIAL MODIFIER*](#spatial-modifiers) | **poka** — monsi, sinpin | adjacent → **hip**, **next to**, **side** |
 |                                                        | [*SPATIAL MODIFIER*](#spatial-modifiers) | weka — insa, **poka**, sin | near, **nearby**, neighbouring → **vicinity** |
 | <img src="musi/sitelen/pona/poki.png" height="42">     | [*TOOL VERBS*](#tool-verbs) | kute, lawa, len, luka, lukin, noka, palisa, pilin, **poki**, selo, tomo, uta | to contain, keep, be full of → bladder; **container**, **bag**, **bowl**, **box**, **cup**, **cupboard**, **drawer**, **vessel** |
 | <img src="musi/sitelen/pona/pona.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **pona** – ike, nasa, pakala, utala | **good**, **positive**, **useful**; **friendly**, **peaceful**; **simple** |
-| <img src="musi/sitelen/pona/pu.png" height="42">       | [*PREPOSITION*](#prepositions) | **pu** — taso | accordingly → according to, following, depending on; **interacting with the Toki Pona book** |
-| <img src="musi/sitelen/pona/sama.png" height="42">     | [*PREPOSITION*](#prepositions) | ante — **sama** | **same**, **similar**; **each other**; **sibling**, **peer**, **fellow** → **as**, **like** |
+| <img src="musi/sitelen/pona/pu.png" height="42">       | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | **pu** — taso | accordingly → according to, following, depending on; **interacting with the Toki Pona book** |
+| <img src="musi/sitelen/pona/sama.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | ante — **sama** | **same**, **similar**; **each other**; **sibling**, **peer**, **fellow** → **as**, **like** |
 | <img src="musi/sitelen/pona/seli.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | lete — **seli** | warm; cooked → **fire**; **cooking element**, **chemical reaction**, **heat source** |
 | <img src="musi/sitelen/pona/selo.png" height="42">     | [*TOOL VERBS*](#tool-verbs) | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, **selo**, tomo, uta | to form → **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary** |
 |                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | open — **selo** | closed, confined |
@@ -876,21 +876,21 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/sinpin.png" height="42">   | [*SPATIAL MODIFIER*](#spatial-modifiers) | poka — monsi, **sinpin** | **foremost**, frontal → (- lawa) **face**, **front**, **wall** |
 | <img src="musi/sitelen/pona/sitelen.png" height="42">  | [*THING VERB*](#thing-verbs) | nanpa, nimi, **sitelen**, sona, toki | to draw, project, represent → **image**, **picture**, **representation**, **symbol**, **mark**, **writing** |
 | <img src="musi/sitelen/pona/sona.png" height="42">     | [*THING VERB*](#thing-verbs) | nanpa, nimi, sitelen, **sona**, toki | **to know**, **be skilled in**, **be wise about**, **have information on** → knowledge |
-|                                                        | [*PRE-VERB*](#pre-verbs) | ken, lukin, open, **sona**, wile | **to know how to** |
+|                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verbs) | ken, lukin, open, **sona**, wile | **to know how to** |
 | <img src="musi/sitelen/pona/soweli.png" height="42">   | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | akesi — **soweli** | warm-blooded → **animal**, **beast**, **land mammal** |
 | <img src="musi/sitelen/pona/suli.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | lili — ale, mute, **suli**, wawa | **big**, **heavy**, **large**, **long**, **tall**; **important**; **adult** |
 | <img src="musi/sitelen/pona/suno.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | pimeja — **suno** | bright, lit → **sun**; **light**, **brightness**, **glow**, **radiance**, **shine**; **light source** |
-| <img src="musi/sitelen/pona/supa.png" height="42">     | [*PREPOSITION*](#prepositions) | **supa** | … → **horizontal surface**, **thing to put or rest something on** |
+| <img src="musi/sitelen/pona/supa.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | **supa** | … → **horizontal surface**, **thing to put or rest something on** |
 | <img src="musi/sitelen/pona/suwi.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | jaki — **suwi** | **sweet**, **fragrant**; **cute**, **innocent**, **adorable** → sweets |
-| <img src="musi/sitelen/pona/tan.png" height="42">      | [*PREPOSITION*](#prepositions) | lon, **tan**, tawa | departing → **by**, **from**, **because of** |
-| <img src="musi/sitelen/pona/taso.png" height="42">     | [*PREPOSITION*](#prepositions) | pu — **taso** | independent; **only** → independent from; **but**, **however** |
-| <img src="musi/sitelen/pona/tawa.png" height="42">     | [*PREPOSITION*](#prepositions) | lon, tan, **tawa** | going, moving → **going to**, **toward**; **for**; **from the perspective of** |
+| <img src="musi/sitelen/pona/tan.png" height="42">      | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | lon, **tan**, tawa | departing → **by**, **from**, **because of** |
+| <img src="musi/sitelen/pona/taso.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | pu — **taso** | independent; **only** → independent from; **but**, **however** |
+| <img src="musi/sitelen/pona/tawa.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | lon, tan, **tawa** | going, moving → **going to**, **toward**; **for**; **from the perspective of** |
 | <img src="musi/sitelen/pona/telo.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | kiwen, ko, kon, **telo** | liquid, fluid, wet → **water**, **liquid**, **fluid**, **wet substance**; **beverage** |
 | <img src="musi/sitelen/pona/tenpo.png" height="42">    | [*THING MODIFIER*](#thing-modifiers) | **tenpo** | ephemeral, interim, provisional → **time**, **duration**, **moment**, **occasion**, **period**, **situation** |
 | <img src="musi/sitelen/pona/toki.png" height="42">     | [*THING VERB*](#thing-verbs) | nanpa, nimi, sitelen, sona, **toki** | **to communicate**, **say**, **speak**, **say**, **talk**, **use language**, **think** → language |
 | <img src="musi/sitelen/pona/tomo.png" height="42">     | [*TOOL VERBS*](#tool-verbs) | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, **tomo**, uta | to protect → skeleton, thorax; **indoor space**; **building**, **home**, **house**, **room** |
 | <img src="musi/sitelen/pona/tu.png" height="42">       | [*SIMPLE MODIFIER*](#simple-modifiers) | **tu** — wan | parallel, redundant |
-|                                                        | [*NUMBER*](#numbers) | ala, ale, esun, luka, mute, **tu**, wan | 2, **two** |
+|                                                        | [ɴᴜᴍʙᴇʀ](#numbers) | ala, ale, esun, luka, mute, **tu**, wan | 2, **two** |
 | <img src="musi/sitelen/pona/unpa.png" height="42">     | [*SIMPLE VERB*](#simple-verbs) | olin, **unpa** | **to have sexual or marital relations with** |
 | <img src="musi/sitelen/pona/uta.png" height="42">      | [*TOOL VERBS*](#tool-verbs) | kute, lawa, len, luka, lukin, noka, palisa, pilin, selo, **uta** | to suck, kiss → **mouth**, **lips**, **oral cavity**, **jaw** |
 | <img src="musi/sitelen/pona/utala.png" height="42">    | [*SIMPLE MODIFIER*](#simple-modifiers) | pona — ike, nasa, pakala, **utala** | aggressive; **to battle**, **challenge**, **compete against**, **struggle against** |
@@ -898,16 +898,16 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 |                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | kule — **walo** | **light-coloured**, **pale** |
 | <img src="musi/sitelen/pona/wan.png" height="42">      | [*SIMPLE MODIFIER*](#simple-modifiers) | tu — **wan** | **united** |
 |                                                        | [*THING MODIFIER*](#thing-modifiers) | ale — **wan** | (- lili) partial, (- nasa) **unique** → (- lili) part |
-|                                                        | [*NUMBER*](#numbers) | ala, ale, esun, luka, mute, tu, **wan** | 1, **one** |
+|                                                        | [ɴᴜᴍʙᴇʀ](#numbers) | ala, ale, esun, luka, mute, tu, **wan** | 1, **one** |
 |                                                        | [*CORRELATIVE*](#correlatives) | ala, ale, ni, seme, **wan** | some → something specific |
 | <img src="musi/sitelen/pona/waso.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | kala, kasi, pipi, **waso** | flying → **bird**, **flying creature**, **winged animal** |
 | <img src="musi/sitelen/pona/wawa.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | lili — ale, mute, suli, **wawa** | **strong**, **powerful**; **confident**, **sure**; **energetic**, **intense** |
 | <img src="musi/sitelen/pona/weka.png" height="42">     | [*SPATIAL MODIFIER*](#spatial-modifiers) | **weka** — insa, poka, sin | **absent**, **away**; **ignored** → absence, distance |
-| <img src="musi/sitelen/pona/wile.png" height="42">     | [*PRE-VERB*](#pre-verbs) | ken, lukin, open, sona, **wile** | necessary → **must**, **need**, **require**, **should**, **want**, **wish** |
+| <img src="musi/sitelen/pona/wile.png" height="42">     | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verbs) | ken, lukin, open, sona, **wile** | necessary → **must**, **need**, **require**, **should**, **want**, **wish** |
 
-🤔 *ADVERB* → *ADJECTIVE* **not**
+🤔 ᴀᴅᴠᴇʀʙ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **not**
 
-🤔 *NUMBER* → *ADJECTIVE* **zero**
+🤔 ɴᴜᴍʙᴇʀ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **zero**
 
 🤔 **staying**, **waiting** → **waiting**, **staying**
 
@@ -921,7 +921,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 
 🤔 **inside**; **between** → **inside**, **between**
 
-🤔 *ADJECTIVE* **producing a sound**, *VERB* **to recite** → *VERB* **to produce a sound**; **recite**
+🤔 ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound**, ᴠᴇʀʙ **to recite** → ᴠᴇʀʙ **to produce a sound**; **recite**
 
 🤔 **to become**; **manage to** → **to become**, **manage to**
 
@@ -931,4 +931,8 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 
 🤔 **painted**; **pigmented** → **pigmented**, **painted**
 
-ɴᴏᴜɴ
+
+
+ᴀʙᴄᴅᴇꜰɢʜɪᴊᴋʟᴍɴᴏᴘʀꜱᴛᴜᴠᴡʏᴢ
+
+
