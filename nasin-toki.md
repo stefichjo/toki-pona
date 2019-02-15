@@ -810,8 +810,8 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 | <img src="musi/sitelen/pona/linja.png" height="42">    | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **linja** — palisa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ long and flexible → ɴᴏᴜɴ **long and flexible thing**; **cord**, **hair**, **rope**, **thread**, **yarn** |
 | <img src="musi/sitelen/pona/lipu.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **lipu**, nena, sike | ᴀᴅᴊᴇᴄᴛɪᴠᴇ flat → ɴᴏᴜɴ **flat object**; **book**, **card**, **document**, **paper**, **record**, **website** |
 | <img src="musi/sitelen/pona/loje.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | jelo, laso, **loje** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **red**, **reddish** |
-| <img src="musi/sitelen/pona/lon.png" height="42">      | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | **lon**, tan, tawa | being present → **located at**, **present at** |
-|                                                        | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | ala — **lon** | **real**, **true**, **existing** |
+| <img src="musi/sitelen/pona/lon.png" height="42">      | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) | **lon**, tan, tawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ being present → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **located at**, **present at** |
+|                                                        | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | ala — **lon** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **existing**, **real**, **true** |
 | <img src="musi/sitelen/pona/luka.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) | kute, lawa, len, **luka**, lukin, noka, palisa, pilin, poki, selo, tomo, uta | to touch → **arm**, **hand**, **tactile organ** |
 |                                                        | [ɴᴜᴍʙᴇʀ](#number) | ala, ale, esun, **luka**, mute, tu, wan | 5, **five** |
 | <img src="musi/sitelen/pona/lukin.png" height="42">    | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) | kute, lawa, len, luka, **lukin**, noka, palisa, pilin, poki, selo, tomi, uta | **to look at**, **see**, **examine**, **observe**, **read**, **watch**; care → **eye** |
@@ -940,3 +940,5 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 🤔 **(between any subject except mi alone or sina alone and its predicate → ᴠᴇʀʙ; also to introduce a new predicate → ᴠᴇʀʙ for the same subject)**
 
 🤔 **card**, **document** → **document**, **card**
+
+🤔 ᴀᴅᴊᴇᴄᴛɪᴠᴇ **existing**, **real**, **true** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **real**, **true**, **existing**
