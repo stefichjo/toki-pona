@@ -4,7 +4,7 @@
 | |
 |:-|
 | [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) |
-| [Particles](#particles) |
+| [ᴘᴀʀᴛɪᴄʟᴇ](#particle) |
 | [Dictionary](#dictionary) |
 
 👍 — Sections about **"Experimental Language"** describe "pu-compliant" ways of using the language, even though they are not mentioned explicitly in the **Toki Pona Book**.
@@ -141,7 +141,7 @@ In a genitive clause (i.e. the words behind the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#ge
 |:-|:-|:-|
 | *somebody, who is going home* | *home-coming person* | *home-comer* |
 
-🤔 According to **Sonja**, "seme" is a [particle](#particles), even though it behaves just like the other **correlatives**.
+🤔 According to **Sonja**, "seme" is a [ᴘᴀʀᴛɪᴄʟᴇ](#particle), even though it behaves just like the other **correlatives**.
 
 #### Spatial Modifiers
 *(nimi suli poka nasin)*
@@ -247,7 +247,7 @@ In a genitive clause (i.e. the words behind the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#ge
 | [↑](#modifiers) |
 |:-|
 
-**Prepositional phrases** follow **particle phrases**.
+**Prepositional phrases** follow ᴘᴀʀᴛɪᴄʟᴇ ᴘʜʀᴀꜱᴇs.
 
 | mi pana e kili tawa sina. |
 |:-|
@@ -289,13 +289,13 @@ In other cases, **Sonja** uses **modifiers** (or the [ᴘᴀʀᴛɪᴄʟᴇ "pi"
 |:-|
 | *People are more important than money.* |
 
-👍 "taso" as a [particle](#particles) is an abbreviation of "taso ni la".
+👍 "taso" as a [ᴘᴀʀᴛɪᴄʟᴇ](#particle) is an abbreviation of "taso ni la".
 
 | taso ni la mije en meli li pali li pilin pona. → taso mije en meli li pali li pilin pona. |
 |:-|
 | *Independent from that, men and women work and are happy.* → *But men and women work and are happy.* |
 
-👎 In a contextual pre-phrase (i.e. before the [particle "la"](#pre-phrase-particle)), **prepositions** can disappear.
+👎 In a contextual pre-phrase (i.e. before the [ᴘᴀʀᴛɪᴄʟᴇ "la"](#pre-phrase-particle)), **prepositions** can disappear.
 
 | tawa mi la sina jan pona. → mi la sina jan pona. |
 |:-|
@@ -426,7 +426,7 @@ As a [noun](#nouns), **simple verbs** mean the tool ("kepeken ilo") implied by t
 | [↑](#verbs) |
 |:-|
 
-If a ᴠᴇʀʙ is a ᴘʀᴇ-ᴠᴇʀʙ, it implies a **transitive verb** before a **subordinate clause**, which receives the main ᴠᴇʀʙ from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [particle "li"](#subject-and-predicate)) is the same. Only a closed set of [verbs](#verbs) and [modifiers](#modifiers) can be used as **pre-verbs**.
+If a ᴠᴇʀʙ is a ᴘʀᴇ-ᴠᴇʀʙ, it implies a **transitive verb** before a **subordinate clause**, which receives the main ᴠᴇʀʙ from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [ᴘᴀʀᴛɪᴄʟᴇ "li"](#subject-and-predicate)) is the same. Only a closed set of [verbs](#verbs) and [modifiers](#modifiers) can be used as **pre-verbs**.
 
 | ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
 |:-|
@@ -450,39 +450,39 @@ After the **pre-verbs** "awen" and "kama", "lon" can disappear.
 |:-|:-|:-|
 | *I am eating an apple.* | *You have been eating an apple.* | *She is going to eat an apple.* |
 
-# Particles
+# PARTICLE
 *(nimi lili)*
 
 | [↑](#toki-pona-grammar) |
 |:-|
-| [Simple Particles](#simple-particles) |
+| [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle) |
 | [Interjections](#interjections) |
-| [Transitive Particles](#transitive-particles) |
+| [ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇ](#transitive-particle) |
 
-### Simple Particles
+### SIMPLE PARTICLE
 *(nimi lili pona)*
 
-| [↑](#particles) |
+| [↑](#particle) |
 |:-|
 
-**Simple Particles** are tokiponized names. They always follow a [noun](#nouns). "pi nimi" can disappear before ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ. In this case, the **quotation marks** disappear.
+ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs are tokiponized names. They always follow a [noun](#nouns). "pi nimi" can disappear before ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs. In this case, the **quotation marks** disappear.
 
 | ona li jo e nimi "Sonja". | jan pi nimi "Sonja" → jan Sonja 
 |:-|:-|
 | *She has the name "Sonja".* | *the person called "Sonja"* → *Sonja* |
 
-**Sonja** removes the [particle "pi"](#genitive) before "nanpa" with a [number](#numbers). In this case, "nanpa" itself becomes part of a **simple particle phrase**.
+**Sonja** removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [number](#numbers). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ ᴘʜʀᴀꜱᴇ.
 
 | sina nanpa wan | toki pi nanpa wan → toki nanpa wan |
 |:-|:-|
 | *You're number one.* | *the language with the number one* → *the language number one* |
 
-👎 **Pije** doesn't remove the [particle "pi"](#genitive) before **simple particle phrases** with "nanpa".
+👎 **Pije** doesn't remove the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ ᴘʜʀᴀꜱᴇ with "nanpa".
 
 ### Interjections
 *(nimi lili kalama)*
 
-| [↑](#particles) |
+| [↑](#particle) |
 |:-|
 
 One can express an emotion by means of a plain ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ as if it were a ꜱᴇɴᴛᴇɴᴄᴇ.
@@ -515,19 +515,19 @@ An ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ can become a [thing verb](#thing-verbs).
 |:-|
 | *You are really tall!* |
 
-## Transitive Particles
+## TRANSITIVE PARTICLE
 *(nimi lili luka)*
 
-| [↑](#particles) |
+| [↑](#particle) |
 |:-|
-| [Phrase Particles](#phrase-particles) |
+| [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#phrase-particle) |
 | [Conjunctions](#conjunctions) |
-| [Pre-Phrase Fragment](#pre-phrase-particle) |
+| [ᴘʀᴇ-ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#pre-phrase-particle) |
 
-### Phrase Particles
+### PHRASE PARTICLE
 *(nimi lili luka pi wan pi mute nimi)*
 
-| [↑](#transitive-particles) |
+| [↑](#transitive-particle) |
 |:-|
 | [Subject and Predicate](#subject-and-predicate) |
 | [Direct Object](#direct-object) |
@@ -537,7 +537,7 @@ An ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ can become a [thing verb](#thing-verbs).
 #### Subject and Predicate
 *(nimi lili luka "li")*
 
-| [↑](#phrase-particles) |
+| [↑](#phrase-particle) |
 |:-|
 
 If the subject (i.e. the words before the ᴘᴀʀᴛɪᴄʟᴇ "li") is just "mi" or "sina", the ᴘᴀʀᴛɪᴄʟᴇ "li" disappears.
@@ -552,19 +552,19 @@ A ꜱᴇɴᴛᴇɴᴄᴇ can have multiple predicates (i.e. the words after the 
 |:-|
 | *The motherland is small and cold.* |
 
-👍 After "mi" or "sina" the [particle "li"](#subject-and-predicate) doesn't disappear, if there is a second [particle "li"](#subject-and-predicate).
+👍 After "mi" or "sina" the [ᴘᴀʀᴛɪᴄʟᴇ "li"](#subject-and-predicate) doesn't disappear, if there is a second [ᴘᴀʀᴛɪᴄʟᴇ "li"](#subject-and-predicate).
 
 | mi lukin mute. mi sona lili. → mi li lukin mute li sona lili. |
 |:-|
 | *I am seeing much and knowing little.* |
 
-👎 **Pije** removes only the first [particle "li"](#subject-and-predicate) after "mi" or "sina".
+👎 **Pije** removes only the first [ᴘᴀʀᴛɪᴄʟᴇ "li"](#subject-and-predicate) after "mi" or "sina".
 
 | mi lukin mute. mi sona lili. → mi lukin mute li sona lili. |
 |:-|
 | *I am seeing much and knowing little.* |
 
-👎 When the subject (t.e. the words before the [particle "li"](#subject-and-predicate)) is one word alone, "li" disappears.
+👎 When the subject (t.e. the words before the [ᴘᴀʀᴛɪᴄʟᴇ "li"](#subject-and-predicate)) is one word alone, "li" disappears.
 
 | ona li mama. → ona mama. |
 |:-|
@@ -573,7 +573,7 @@ A ꜱᴇɴᴛᴇɴᴄᴇ can have multiple predicates (i.e. the words after the 
 #### Direct Object
 *(nimi lili luka "e")*
 
-| [↑](#phrase-particles) |
+| [↑](#phrase-particle) |
 |:-|
 
 A predicate (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "li") can have multiple direct objects (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "e"). Their **commas** can disappear.
@@ -588,7 +588,7 @@ One can express a desire by just a direct object (i.e. the words after the ᴘ�
 |:-|
 | *I wish you a good meal.* → *Bon appétit!* |
 
-👎 When the [preposition](#prepositions) "kepeken" becomes a [verb](#verbs), **Pije** uses it with the **particle "e"**.
+👎 When the [preposition](#prepositions) "kepeken" becomes a [verb](#verbs), **Pije** uses it with the ᴘᴀʀᴛɪᴄʟᴇ "e".
 
 | mi kepeken ilo. → mi kepeken e ilo. |
 |:-|
@@ -600,7 +600,7 @@ One can express a desire by just a direct object (i.e. the words after the ᴘ�
 |:-|
 | *She gives water to the plant.* → *She waters the plant.* |
 
-🤔 With "utala", the [preposition](#prepositions) "tawa" can become the [particle "e"](#direct-object).
+🤔 With "utala", the [preposition](#prepositions) "tawa" can become the ᴘᴀʀᴛɪᴄʟᴇ "e".
 
 | ona li utala tawa jan ike. → ona li utala e jan ike. |
 |:-|
@@ -609,7 +609,7 @@ One can express a desire by just a direct object (i.e. the words after the ᴘ�
 #### Volative, Vocative and Imperative
 *(nimi lili luka "o")*
 
-| [↑](#phrase-particles) |
+| [↑](#phrase-particle) |
 |:-|
 
 "sina" can disappear before the ᴘᴀʀᴛɪᴄʟᴇ "o".
@@ -618,7 +618,7 @@ One can express a desire by just a direct object (i.e. the words after the ᴘ�
 |:-|:-|
 | *You should look.* → *Look!* | *Ali should be strong.* → *Ali, be strong!* |
 
-"kute" can disappear after the ᴘᴀʀᴛɪᴄʟᴇ "o". **Sonja** doesn't combine two "o"-**particles**.
+"kute" can disappear after the ᴘᴀʀᴛɪᴄʟᴇ "o". **Sonja** doesn't combine two "o"-ᴘᴀʀᴛɪᴄʟᴇs.
 
 | o kute! → o! | jan Ali o, o wawa! → jan Ali o wawa! |
 |:-|:-|
@@ -633,7 +633,7 @@ One can express a desire by just a direct object (i.e. the words after the ᴘ�
 #### Genitive
 *(nimi lili luka "pi")*
 
-| [↑](#phrase-particles) |
+| [↑](#phrase-particle) |
 |:-|
 
 If a genitive phrase (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "pi") consists of only one [noun](#nouns), the ᴘᴀʀᴛɪᴄʟᴇ "pi" disappears. So, that [noun](#nouns) becomes a [modifier](#modifiers).
@@ -654,25 +654,25 @@ As a rule of thumb, if the ᴘᴀʀᴛɪᴄʟᴇ "pi" doesn't add useful informa
 |:-|
 | *house of foreign beer* |
 
-👎 **Pije** turns the [particle "pi"](#genitive) with a [pronoun](#nouns) into a [verb](#verbs).
+👎 **Pije** turns the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) with a [pronoun](#nouns) into a [verb](#verbs).
 
 | ni li ijo mi. → ni li pi mi. |
 |:-|
 | *This belongs to me.* → *This is mine.* |
 
-👎 **Pije** turns the [particle "e"](#direct-object) into the [particle "pi"](#genitive) before a noun, which means a direction.
+👎 **Pije** turns the [ᴘᴀʀᴛɪᴄʟᴇ "e"](#direct-object) into the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before a noun, which means a direction.
 
 | sina lukin e sewi. → sina lukin sewi. |
 |:-|
 | *You look up.* |
 
-👎 The [particle "e"](#direct-object) can become the [particle "pi"](#genitive).
+👎 The [ᴘᴀʀᴛɪᴄʟᴇ "e"](#direct-object) can become the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive).
 
 | mi ante e toki pi sitelen tawa. → mi ante toki e sitelen tawa. |
 |:-|
 | *I translate the movie.* |
 
-👎 The [particle "pi"](#genitive) can disappear.
+👎 The [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) can disappear.
 
 | tomo pi telo nasa → tomo telo nasa |
 |:-|
@@ -681,7 +681,7 @@ As a rule of thumb, if the ᴘᴀʀᴛɪᴄʟᴇ "pi" doesn't add useful informa
 ### Conjunctions
 *(nimi lili luka "en", nimi lili luka "anu")*
 
-| [↑](#transitive-particles) |
+| [↑](#transitive-particle) |
 |:-|
 
 By means of "anu seme" one can express a yes-no-question. In this case "seme" is a [verb](#verbs).
@@ -696,7 +696,7 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 |:-|
 | *foreign bar* |
 
-👎 Every subject (i.e. the words before the [particle "li"](#subject-and-predicate) can have a ᴘᴀʀᴛɪᴄʟᴇ "en".
+👎 Every subject (i.e. the words before the [ᴘᴀʀᴛɪᴄʟᴇ "li"](#subject-and-predicate) can have a ᴘᴀʀᴛɪᴄʟᴇ "en".
 
 | en sina en mi li jan lili. | en ona li jan lili. |
 |:-|:-|
@@ -720,13 +720,13 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 |:-|
 | *Is she a parent?* |
 
-### Pre-Phrase Fragment
+### PRE-PHRASE PARTICLE
 *(nimi lili luka "la")*
 
-| [↑](#transitive-particles) |
+| [↑](#transitive-particle) |
 |:-|
 
-By means of the **particle "la"**, a [preposition](#prepositions) can be at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ.
+By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", a [preposition](#prepositions) can be at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | sina pana e nimi "pona" tawa mi tan seme? → tan seme la sina pana e nimi "pona" tawa mi? |
 |:-|
@@ -773,8 +773,8 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 | <img src="musi/sitelen/pona/ante.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | **ante** — sama | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **different**, **altered**, **changed**, **other** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ than |
 | <img src="musi/sitelen/pona/anu.png" height="42">      | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunctions) | **anu** — en | ᴘᴀʀᴛɪᴄʟᴇ (alternative), **or** |
 | <img src="musi/sitelen/pona/awen.png" height="42">     | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verbs) | **awen**, kama, pini | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**, **protected**, **safe**, **staying**, **waiting** → ᴘʀᴇ-ᴠᴇʀʙ **to continue to** |
-| <img src="musi/sitelen/pona/e.png" height="42">        | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#phrase-particles) | **e**, li, o, pi | ᴘᴀʀᴛɪᴄʟᴇ **(before the direct object)** |
-| <img src="musi/sitelen/pona/en.png" height="42">       | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunctions) | anu — **en** | ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, (between multiple noun-phrases belonging to the same phrase particle) |
+| <img src="musi/sitelen/pona/e.png" height="42">        | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#phrase-particle) | **e**, li, o, pi | ᴘᴀʀᴛɪᴄʟᴇ **(before the direct object)** |
+| <img src="musi/sitelen/pona/en.png" height="42">       | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunctions) | anu — **en** | ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, (between multiple noun-phrases belonging to the same ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ) |
 | <img src="musi/sitelen/pona/esun.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#prepositions) | **esun**, kepeken | ᴀᴅᴊᴇᴄᴛɪᴠᴇ replacing, ɴᴏᴜɴ replacement; **business transaction**; **bazaar**, **fair**, **market**, **shop** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ instead of |
 |                                                        | [ɴᴜᴍʙᴇʀ](#numbers) | ala, ale, **esun**, luka, mute, tu, wan | ɴᴜᴍʙᴇʀ 7, seven |
 | <img src="musi/sitelen/pona/ijo.png" height="42">      | [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](#nouns) | **ijo** — jan | ɴᴏᴜɴ **matter**, **object**, **phenomenon**, **thing**; location, place; case |
@@ -805,7 +805,7 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 |                                                        | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](#spatial-modifiers) | anpa — sewi, **lawa** — noka | supreme, top → highest part |
 | <img src="musi/sitelen/pona/len.png" height="42">      | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verbs) | kute, lawa, **len**, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | to cover, hide → **cloth**, **clothing**, **fabric**, **textile**; **cover**, **layer of privacy** |
 | <img src="musi/sitelen/pona/lete.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifiers) | **lete** — seli | **cold**, **cool**; **uncooked**, **raw** → ice, frost |
-| <img src="musi/sitelen/pona/li.png" height="42">       | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#phrase-particles) | e, **li**, o, pi | **(between any subject except mi alone or sina alone and its VERB; also to introduce a new VERB for the same subject)** |
+| <img src="musi/sitelen/pona/li.png" height="42">       | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#phrase-particle) | e, **li**, o, pi | **(between any subject except mi alone or sina alone and its VERB; also to introduce a new VERB for the same subject)** |
 | <img src="musi/sitelen/pona/lili.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifiers) | **lili** — ale, mute, suli, wawa | **little**, **small**, **short**; **few**; **a bit**; **young** |
 | <img src="musi/sitelen/pona/linja.png" height="42">    | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifiers) | **linja** — palisa | long and flexible → **long and flexible thing**; **cord**, **hair**, **rope**, **thread**, **yarn** |
 | <img src="musi/sitelen/pona/lipu.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifiers) | **lipu**, nena, sike | flat → **flat object**; **book**, **document**, **card**, **paper**, **record**, **website** |
@@ -832,7 +832,7 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 | <img src="musi/sitelen/pona/mute.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifiers) | lili — ale, **mute**, suli, wawa | **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
 |                                                        | [ɴᴜᴍʙᴇʀ](#numbers) | ala, ale, esun, luka, **mute**, tu, wan | 3, three, 🤔 **three (or more)** |
 | <img src="musi/sitelen/pona/nanpa.png" height="42">    | [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-verbs) | **nanpa**, nimi, sitelen, sona, toki | to count → **number** |
-|                                                        | [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particles) | **nanpa** | **(ordinal number)**, **-th** |
+|                                                        | [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle) | **nanpa** | **(ordinal number)**, **-th** |
 | <img src="musi/sitelen/pona/nasa.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifiers) | pona — ike, **nasa**, pakala, utala | **unusual**, **strange**; **foolish**, **crazy**; **drunk**, **intoxicated** |
 | <img src="musi/sitelen/pona/nasin.png" height="42">    | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifiers) | lupa, **nasin** | thin, elongated, cracked → line, solution; **way**, **custom**, **doctrine**, **method**, **path**, **road** |
 | <img src="musi/sitelen/pona/nena.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifiers) | lipu, **nena**, sike | outstanding → bump, button, hill, mountain, nose, protuberance |
@@ -840,7 +840,7 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 | <img src="musi/sitelen/pona/nimi.png" height="42">     | [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-verbs) | nanpa, **nimi**, sitelen, sona, toki | to name — **name**, **word** |
 | <img src="musi/sitelen/pona/noka.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verbs) | kute, lawa, len, luka, lukin, **noka**, palisa, pilin, poki, selo, tomo, uta | to step on, kick → **foot**, **leg**, **organ of locomotion** |
 |                                                        | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](#spatial-modifiers) | anpa — sewi, lawa, **noka** | basic → base, **bottom**, **lower part** |
-| <img src="musi/sitelen/pona/o.png" height="42">        | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#phrase-particles) | e, li, **o**, pi | **(vocative or imperative)**, **hey!**, **O!** |
+| <img src="musi/sitelen/pona/o.png" height="42">        | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#phrase-particle) | e, li, **o**, pi | **(vocative or imperative)**, **hey!**, **O!** |
 | <img src="musi/sitelen/pona/olin.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](#simple-verbs) | **olin**, unpa | **to love**, **have compassion for**, **respect**, **show affection to** |
 | <img src="musi/sitelen/pona/ona.png" height="42">      | [ᴘʀᴏɴᴏᴜɴ](#nouns) | mi, **ona**, sina | **he**, him, **she**, her, **it**, **they**, them |
 | <img src="musi/sitelen/pona/open.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifiers) | **open** — selo | **open**; **to begin**, **start**; **turn on** |
@@ -852,7 +852,7 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 |                                                        | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verbs) | kute, lawa, len, luka, lukin, noka, **palisa**, pilin, poki, selo, tomo, uta | to point to → finger |
 | <img src="musi/sitelen/pona/pan.png" height="42">      | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifiers) | kili, **pan** | falling → **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** |
 | <img src="musi/sitelen/pona/pana.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](#simple-verbs) | jo, **pana** | **to give**, **send**, **emit**, **provide**, **put**, **release** |
-| <img src="musi/sitelen/pona/pi.png" height="42">       | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#phrase-particles) | e, li, o, **pi** | (between two noun-phrases), **of** |
+| <img src="musi/sitelen/pona/pi.png" height="42">       | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#phrase-particle) | e, li, o, **pi** | (between two noun-phrases), **of** |
 | <img src="musi/sitelen/pona/pilin.png" height="42">    | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verbs) | kute, lawa, len, luka, lukin, noka, palisa, **pilin**, poki, selo, tomo, uta | **feeling (an emotion, a direct experience)** ­→ **heart (physical or emotional)** |
 | <img src="musi/sitelen/pona/pimeja.png" height="42">   | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifiers) | **pimeja** — walo | **black** |
 |                                                        | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifiers) | **pimeja** — suno | **dark**, **unlit** → shadow |
