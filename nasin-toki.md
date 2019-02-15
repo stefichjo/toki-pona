@@ -798,8 +798,8 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 | <img src="musi/sitelen/pona/kule.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | **kule** — walo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **colourful**, **painted**; **pigmented**; brown |
 | <img src="musi/sitelen/pona/kulupu.png" height="42">   | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) | **kulupu** — sijelo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ common, reciprocal → ɴᴏᴜɴ **community**, **company**, **group**, **nation**, relationship, **society**, **tribe**  |
 | <img src="musi/sitelen/pona/kute.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) | **kute**, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | ᴠᴇʀʙ **to hear**, **listen**; **pay attention to**, **obey** → ɴᴏᴜɴ **ear** |
-| <img src="musi/sitelen/pona/la.png" height="42">       | [ᴘʀᴇ-ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#pre-phrase-particle) | **la** | **(between the context phrase and the main sentence)** |
-| <img src="musi/sitelen/pona/lape.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | **lape**, moli, musi | **sleeping**, **resting** |
+| <img src="musi/sitelen/pona/la.png" height="42">       | [ᴘʀᴇ-ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#pre-phrase-particle) | **la** | ᴘᴀʀᴛɪᴄʟᴇ **(between the context phrase and the main sentence)** |
+| <img src="musi/sitelen/pona/lape.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | **lape**, moli, musi | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sleeping**, **resting** |
 | <img src="musi/sitelen/pona/laso.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) | jelo, **laso**, loje | **blue**, **green**; immature |
 | <img src="musi/sitelen/pona/lawa.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) | kute, **lawa**, len, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule** → **head**, **mind** |
 |                                                        | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](#spatial-modifier) | anpa — sewi, **lawa** — noka | supreme, top → highest part |
@@ -933,5 +933,8 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 
 🤔 **painted**; **pigmented** → **pigmented**, **painted**
 
+🤔 **resting**, **sleeping** → **sleeping**, **resting**
+
 🤔 **number** → **numbers**
+
 
