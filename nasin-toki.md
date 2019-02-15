@@ -96,7 +96,7 @@
 |:-|
 | [Correlatives](#correlatives) |
 | [Spatial Modifiers](#spatial-modifiers) |
-| [Life-Form Nouns](#life-form-nouns) |
+| [Life-Form Modifiers](#life-form-modifiers) |
 
 **Thing modifiers** can imply the [noun](#nouns) "ijo".
 
@@ -196,13 +196,13 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 |:-|:-|:-|
 | *shortly/quickly* | *provisionally* | *soon* |
 
-#### Life-Form Nouns
-*(nimi suli lawa sijelo)*
+#### Life-Form Modifiers
+*(nimi suli poka sijelo)*
 
 | [↑](#thing-modifiers) |
 |:-|
 
-**Life-form nouns** are **thing modifiers**, that can imply "ijo" meaning "life-form".
+**Life-form modifiers** are **thing modifiers**, that can imply "ijo" meaning "life-form".
 
 👍 **Life-form nouns** imply the word "sijelo", meaning "life-form".
 
@@ -776,7 +776,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | sitelen | | | |
 |:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/a.png" height="42">        | [*INTERJECTION*](#interjections) | mu — **a**, ala | *PARTICLE* **(emphasis, emotion or confirmation)** → *SENTENCE* yes! |
-| <img src="musi/sitelen/pona/akesi.png" height="42">    | [*LIFE-FORM NOUN*](#life-form-nouns) | **akesi** — soweli | *ADJECTIVE* cold-blooded → *NOUN* **non-cute animal**; **reptile**, **amphibian**; monster |
+| <img src="musi/sitelen/pona/akesi.png" height="42">    | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | **akesi** — soweli | *ADJECTIVE* cold-blooded → *NOUN* **non-cute animal**; **reptile**, **amphibian**; monster |
 | <img src="musi/sitelen/pona/ala.png" height="42">      | [*INTERJECTION*](#interjections) | mu — a, **ala** | *PARTICLE* (negation) → *SENTENCE* outch!, no! |
 |                                                        | [*CORRELATIVE*](#correlatives) | **ala**, ale, ni, seme, wan | *ADJECTIVE* **no**, *ADVERB* **not** → *NOUN* none, nothing |
 |                                                        | [*NUMBER*](#numbers) | **ala**, ale, esun, luka, mute, tu, wan | *NUMBER* 0, **zero** |
@@ -802,10 +802,10 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/jan.png" height="42">      | [*SIMPLE NOUN*](#simple-nouns) | ijo — **jan** | **human being**, **person**, **somebody** |
 | <img src="musi/sitelen/pona/jelo.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **jelo**, laso, loje | **yellow**, **yellowish** |
 | <img src="musi/sitelen/pona/jo.png" height="42">       | [*SIMPLE VERB*](#simple-verbs) | **jo**, pana | **to have**, **carry**, **contain**, **hold** |
-| <img src="musi/sitelen/pona/kala.png" height="42">     | [*LIFE-FORM NOUN*](#life-form-nouns) | **kala**, kasi, pipi, waso | swimming → **fish**, **marine animal**, **sea creature** |
+| <img src="musi/sitelen/pona/kala.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | **kala**, kasi, pipi, waso | swimming → **fish**, **marine animal**, **sea creature** |
 | <img src="musi/sitelen/pona/kalama.png" height="42">   | [*SIMPLE MODIFIER*](#simple-modifiers) | **kalama**, kule | sounding; **to produce a sound**; **recite**, **utter aloud** |
 | <img src="musi/sitelen/pona/kama.png" height="42">     | [*PRE-VERB*](#pre-verbs) | awen, **kama**, pini | **arriving**, **coming**, **future**, **summoned** → **to become**, **manage to**, **succeed in** |
-| <img src="musi/sitelen/pona/kasi.png" height="42">     | [*LIFE-FORM NOUN*](#life-form-nouns) | kala, **kasi**, pipi, waso | vegetating → **plant**, **vegetation**; **herb**, **leaf** |
+| <img src="musi/sitelen/pona/kasi.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | kala, **kasi**, pipi, waso | vegetating → **plant**, **vegetation**; **herb**, **leaf** |
 | <img src="musi/sitelen/pona/ken.png" height="42">      | [*PRE-VERB*](#pre-verbs) | **ken**, lukin, open, sona, wile | **possible** → **to be able to**, **be allowed to**, **can**, **may** |
 | <img src="musi/sitelen/pona/kepeken.png" height="42">  | [*PREPOSITION*](#prepositions) | esun, **kepeken** | **to use** → **with**, **by means of** |
 | <img src="musi/sitelen/pona/kili.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | **kili**, pan | hanging → **fruit**, **vegetable**, **mushroom** |
@@ -875,7 +875,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/pimeja.png" height="42">   | [*SIMPLE MODIFIER*](#simple-modifiers) | **pimeja** — walo | **black** |
 |                                                        | [*THING MODIFIER*](#thing-modifiers) | **pimeja** — suno | **dark**, **unlit** → shadow |
 | <img src="musi/sitelen/pona/pini.png" height="42">     | [*PRE-VERB*](#pre-verbs) | awen, kama, **pini** | **ago**, **completed**, **ended**, **finished**, **past** → to stop to |
-| <img src="musi/sitelen/pona/pipi.png" height="42">     | [*LIFE-FORM NOUN*](#life-form-nouns) | kala, kasi, **pipi**, waso | crawling → **bug**, **insect**, **ant**, **spider** |
+| <img src="musi/sitelen/pona/pipi.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | kala, kasi, **pipi**, waso | crawling → **bug**, **insect**, **ant**, **spider** |
 | <img src="musi/sitelen/pona/poka.png" height="42">     | [*SPATIAL MODIFIER*](#spatial-modifiers) | **poka** — monsi, sinpin | adjacent → **hip**, **next to**, **side** |
 |                                                        | [*SPATIAL MODIFIER*](#spatial-modifiers) | weka — insa, **poka**, sin | near, **nearby**, neighbouring → **vicinity** |
 | <img src="musi/sitelen/pona/poki.png" height="42">     | [*TOOL VERBS*](#tool-verbs) | kute, lawa, len, luka, lukin, noka, palisa, pilin, **poki**, selo, tomo, uta | to contain, keep, be full of → bladder; **container**, **bag**, **bowl**, **box**, **cup**, **cupboard**, **drawer**, **vessel** |
@@ -895,7 +895,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/sitelen.png" height="42">  | [*THING VERB*](#thing-verbs) | nanpa, nimi, **sitelen**, sona, toki | to draw, project, represent → **image**, **picture**, **representation**, **symbol**, **mark**, **writing** |
 | <img src="musi/sitelen/pona/sona.png" height="42">     | [*THING VERB*](#thing-verbs) | nanpa, nimi, sitelen, **sona**, toki | **to know**, **be skilled in**, **be wise about**, **have information on** → knowledge |
 |                                                        | [*PRE-VERB*](#pre-verbs) | ken, lukin, open, **sona**, wile | **to know how to** |
-| <img src="musi/sitelen/pona/soweli.png" height="42">   | [*LIFE-FORM NOUN*](#life-form-nouns) | akesi — **soweli** | warm-blooded → **animal**, **beast**, **land mammal** |
+| <img src="musi/sitelen/pona/soweli.png" height="42">   | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | akesi — **soweli** | warm-blooded → **animal**, **beast**, **land mammal** |
 | <img src="musi/sitelen/pona/suli.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | lili — ale, mute, **suli**, wawa | **big**, **heavy**, **large**, **long**, **tall**; **important**; **adult** |
 | <img src="musi/sitelen/pona/suno.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | pimeja — **suno** | bright, lit → **sun**; **light**, **brightness**, **glow**, **radiance**, **shine**; **light source** |
 | <img src="musi/sitelen/pona/supa.png" height="42">     | [*PREPOSITION*](#prepositions) | **supa** | … → **horizontal surface**, **thing to put or rest something on** |
@@ -918,7 +918,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 |                                                        | [*THING MODIFIER*](#thing-modifiers) | ale — **wan** | (- lili) partial, (- nasa) **unique** → (- lili) part |
 |                                                        | [*NUMBER*](#numbers) | ala, ale, esun, luka, mute, tu, **wan** | 1, **one** |
 |                                                        | [*CORRELATIVE*](#correlatives) | ala, ale, ni, seme, **wan** | some → something specific |
-| <img src="musi/sitelen/pona/waso.png" height="42">     | [*LIFE-FORM NOUN*](#life-form-nouns) | kala, kasi, pipi, **waso** | flying → **bird**, **flying creature**, **winged animal** |
+| <img src="musi/sitelen/pona/waso.png" height="42">     | [*LIFE-FORM MODIFIER*](#life-form-modifiers) | kala, kasi, pipi, **waso** | flying → **bird**, **flying creature**, **winged animal** |
 | <img src="musi/sitelen/pona/wawa.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | lili — ale, mute, suli, **wawa** | **strong**, **powerful**; **confident**, **sure**; **energetic**, **intense** |
 | <img src="musi/sitelen/pona/weka.png" height="42">     | [*SPATIAL MODIFIER*](#spatial-modifiers) | **weka** — insa, poka, sin | **absent**, **away**; **ignored** → absence, distance |
 | <img src="musi/sitelen/pona/wile.png" height="42">     | [*PRE-VERB*](#pre-verbs) | ken, lukin, open, sona, **wile** | necessary → **must**, **need**, **require**, **should**, **want**, **wish** |
