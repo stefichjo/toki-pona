@@ -795,7 +795,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/kiwen.png" height="42">    | [*THING MODIFIER*](#thing-modifiers) | **kiwen**, ko, kon, telo | *ADJECTIVE* hard → *NOUN* **hard object**, **metal**, **rock**, **stone** |
 | <img src="musi/sitelen/pona/ko.png" height="42">       | [*THING MODIFIER*](#thing-modifiers) | kiwen, **ko**, kon, telo | *ADJECTIVE* semi-solid → *NOUN* **clay**, **clinging form**, **dough**, **semi-solid**, **paste**, **powder** |
 | <img src="musi/sitelen/pona/kon.png" height="42">      | [*THING MODIFIER*](#thing-modifiers) | kiwen, ko, **kon**, telo | *ADJECTIVE* floating, hovering → *NOUN* **air**, **breath**; **essence**, **spirit**; **hidden reality**, meaning, **unseen agent** |
-| <img src="musi/sitelen/pona/kule.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **kule** — walo | **colourful**, **painted**; **pigmented**; brown |
+| <img src="musi/sitelen/pona/kule.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | *ADJECTIVE* **kule** — walo | **colourful**, **painted**; **pigmented**; brown |
 | <img src="musi/sitelen/pona/kulupu.png" height="42">   | [*THING MODIFIER*](#thing-modifiers) | **kulupu** — sijelo | interactive, reciprocal → **community**, **company**, **group**, **nation**, relation, **society**, **tribe**  |
 | <img src="musi/sitelen/pona/kute.png" height="42">     | [*TOOL VERBS*](#tool-verbs) | **kute**, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | **to hear**, **listen**; **pay attention to**, **obey** → **ear** |
 | <img src="musi/sitelen/pona/la.png" height="42">       | [*CONTEXTUAL FRAGMENT*](#contextual-fragment) | **la** | **(between the context phrase and the main sentence)** |
