@@ -330,7 +330,7 @@ In other cases, **Sonja** uses **modifiers** (or the **particle** "[pi](#genitiv
 |:-|
 | *You are empathizing badly because of struggle.* → *You are angry.* |
 
-👎 "lon" + [spatial noun](#spatial-nouns) can become a **preposition**.
+👎 "lon" + [spatial modifier](#spatial-modifiers) can become a **preposition**.
 
 | mi tawa lon poka sina. → mi tawa poka sina. |
 |:-|
@@ -786,7 +786,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 |                                                        | [*CORRELATIVE*](#correlatives) | ala, **ale**, ni, seme, wan | *ADJECTIVE* **every** → *NOUN* **everything** |
 |                                                        | [*NUMBER*](#numbers) | ala, **ale**, esun, luka, mute, tu, wan | *NUMBER* 🤔 **100**, infinite |
 |                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | lili — **ale**, mute, suli, wawa | *ADJECTIVE* **abundant**, **countless**, **bountiful**, **plentiful**, *NOUN* **abundance** |
-| <img src="musi/sitelen/pona/anpa.png" height="42">     | [*SPATIAL NOUN*](#spatial-nouns) | **anpa** — sewi, lawa — noka | *ADJECTIVE* **bowing down**, **downward**, **humble**, **lowly**, **dependent** → *NOUN* area below |
+| <img src="musi/sitelen/pona/anpa.png" height="42">     | [*SPATIAL MODIFIER*](#spatial-modifiers) | **anpa** — sewi, lawa — noka | *ADJECTIVE* **bowing down**, **downward**, **humble**, **lowly**, **dependent** → *NOUN* area below |
 | <img src="musi/sitelen/pona/ante.png" height="42">     | [*PREPOSITION*](#prepositions) | **ante** — sama | *ADJECTIVE* **different**, **altered**, **changed**, **other** → *PREPOSITION* than |
 | <img src="musi/sitelen/pona/anu.png" height="42">      | [*CONJUNCTION*](#conjunctions) | **anu** — en | *PARTICLE* (alternative), **or** |
 | <img src="musi/sitelen/pona/awen.png" height="42">     | [*PRE-VERB*](#pre-verbs) | **awen**, kama, pini | *ADJECTIVE* **enduring**, **kept**, **protected**, **safe**, **staying**, **waiting** → *PRE-VERB* **to continue to** |
@@ -797,7 +797,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/ijo.png" height="42">      | [*SIMPLE NOUN*](#simple-nouns) | **ijo** — jan | *NOUN* **matter**, **object**, **phenomenon**, **thing**; location, place; case |
 | <img src="musi/sitelen/pona/ike.png" height="42">      | [*SIMPLE MODIFIER*](#simple-modifiers) | pona — **ike**, nasa, pakala, utala | *ADJECTIVE* **bad**, **negative**; **irrelevant**, **non-essential** |
 | <img src="musi/sitelen/pona/ilo.png" height="42">      | [*THING MODIFIER*](#thing-modifiers) | **ilo** — pakala | functioning → **device**, **implement**, **machine**, **tool**; body part |
-| <img src="musi/sitelen/pona/insa.png" height="42">     | [*SPATIAL NOUN*](#spatial-nouns) | weka — **insa**, poka, sin | inner → **centre**, **content**, **inside**, **between**; **internal organ**, **stomach** |
+| <img src="musi/sitelen/pona/insa.png" height="42">     | [*SPATIAL MODIFIER*](#spatial-modifiers) | weka — **insa**, poka, sin | inner → **centre**, **content**, **inside**, **between**; **internal organ**, **stomach** |
 | <img src="musi/sitelen/pona/jaki.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | **jaki** — suwi | **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** → dirt, poison, waste |
 | <img src="musi/sitelen/pona/jan.png" height="42">      | [*SIMPLE NOUN*](#simple-nouns) | ijo — **jan** | **human being**, **person**, **somebody** |
 | <img src="musi/sitelen/pona/jelo.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **jelo**, laso, loje | **yellow**, **yellowish** |
@@ -820,7 +820,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/lape.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **lape**, moli, musi | **sleeping**, **resting** |
 | <img src="musi/sitelen/pona/laso.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | jelo, **laso**, loje | **blue**, **green**; immature |
 | <img src="musi/sitelen/pona/lawa.png" height="42">     | [*TOOL VERBS*](#tool-verbs) | kute, **lawa**, len, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule** → **head**, **mind** |
-|                                                        | [*SPATIAL NOUN*](#spatial-nouns) | anpa — sewi, **lawa** — noka | supreme, top → highest part |
+|                                                        | [*SPATIAL MODIFIER*](#spatial-modifiers) | anpa — sewi, **lawa** — noka | supreme, top → highest part |
 | <img src="musi/sitelen/pona/len.png" height="42">      | [*TOOL VERBS*](#tool-verbs) | kute, lawa, **len**, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | to cover, hide → **cloth**, **clothing**, **fabric**, **textile**; **cover**, **layer of privacy** |
 | <img src="musi/sitelen/pona/lete.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | **lete** — seli | **cold**, **cool**; **uncooked**, **raw** → ice, frost |
 | <img src="musi/sitelen/pona/li.png" height="42">       | [*PHRASE PARTICLE*](#phrase-particles) | e, **li**, o, pi | **(between any subject except mi alone or sina alone and its VERB; also to introduce a new VERB for the same subject)** |
@@ -843,7 +843,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/mije.png" height="42">     | [*PERSON MODIFIER*](#person-modifiers) | meli — **mije** | male → **man**, **male**, **masculine person**; **husband** |
 | <img src="musi/sitelen/pona/moku.png" height="42">     | [*THING VERB*](#thing-verbs) | **moku** | **to eat**, **drink**, **consume**, **swallow**, **ingest** → mouthful; food |
 | <img src="musi/sitelen/pona/moli.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | lape, **moli**, musi | **dead**, (kama -) **dying** |
-| <img src="musi/sitelen/pona/monsi.png" height="42">    | [*SPATIAL NOUN*](#spatial-nouns) | poka — **monsi**, sinpin | rear → **back**, **behind**, **rear** |
+| <img src="musi/sitelen/pona/monsi.png" height="42">    | [*SPATIAL MODIFIER*](#spatial-modifiers) | poka — **monsi**, sinpin | rear → **back**, **behind**, **rear** |
 | <img src="musi/sitelen/pona/mu.png" height="42">       | [*INTERJECTION*](#interjections) | **mu** — a, ala | **(animal noise or communication)**, (indifference) → blah! |
 | <img src="musi/sitelen/pona/mun.png" height="42">      | [*THING MODIFIER*](#thing-modifiers) | ma, **mun** | sky-walking at night → moon, night sky object, star |
 | <img src="musi/sitelen/pona/musi.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | lape, moli, **musi** | **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** |
@@ -857,7 +857,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/ni.png" height="42">       | [*CORRELATIVE*](#correlatives) | ala, ale, **ni**, seme, wan | **that**, **this** → that one, this one |
 | <img src="musi/sitelen/pona/nimi.png" height="42">     | [*THING VERB*](#thing-verbs) | nanpa, **nimi**, sitelen, sona, toki | to name — **name**, **word** |
 | <img src="musi/sitelen/pona/noka.png" height="42">     | [*TOOL VERBS*](#tool-verbs) | kute, lawa, len, luka, lukin, **noka**, palisa, pilin, poki, selo, tomo, uta | to step on, kick → **foot**, **leg**, **organ of locomotion** |
-|                                                        | [*SPATIAL NOUN*](#spatial-nouns) | anpa — sewi, lawa, **noka** | basic → base, **bottom**, **lower part** |
+|                                                        | [*SPATIAL MODIFIER*](#spatial-modifiers) | anpa — sewi, lawa, **noka** | basic → base, **bottom**, **lower part** |
 | <img src="musi/sitelen/pona/o.png" height="42">        | [*PHRASE PARTICLE*](#phrase-particles) | e, li, **o**, pi | **(vocative or imperative)**, **hey!**, **O!** |
 | <img src="musi/sitelen/pona/olin.png" height="42">     | [*SIMPLE VERB*](#simple-verbs) | **olin**, unpa | **to love**, **have compassion for**, **respect**, **show affection to** |
 | <img src="musi/sitelen/pona/ona.png" height="42">      | [*PRONOUN*](#pronouns) | mi, **ona**, sina | **he**, him, **she**, her, **it**, **they**, them |
@@ -876,8 +876,8 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 |                                                        | [*THING MODIFIER*](#thing-modifiers) | **pimeja** — suno | **dark**, **unlit** → shadow |
 | <img src="musi/sitelen/pona/pini.png" height="42">     | [*PRE-VERB*](#pre-verbs) | awen, kama, **pini** | **ago**, **completed**, **ended**, **finished**, **past** → to stop to |
 | <img src="musi/sitelen/pona/pipi.png" height="42">     | [*LIFE-FORM NOUN*](#life-form-nouns) | kala, kasi, **pipi**, waso | crawling → **bug**, **insect**, **ant**, **spider** |
-| <img src="musi/sitelen/pona/poka.png" height="42">     | [*SPATIAL NOUN*](#spatial-nouns) | **poka** — monsi, sinpin | adjacent → **hip**, **next to**, **side** |
-|                                                        | [*SPATIAL NOUN*](#spatial-nouns) | weka — insa, **poka**, sin | near, **nearby**, neighbouring → **vicinity** |
+| <img src="musi/sitelen/pona/poka.png" height="42">     | [*SPATIAL MODIFIER*](#spatial-modifiers) | **poka** — monsi, sinpin | adjacent → **hip**, **next to**, **side** |
+|                                                        | [*SPATIAL MODIFIER*](#spatial-modifiers) | weka — insa, **poka**, sin | near, **nearby**, neighbouring → **vicinity** |
 | <img src="musi/sitelen/pona/poki.png" height="42">     | [*TOOL VERBS*](#tool-verbs) | kute, lawa, len, luka, lukin, noka, palisa, pilin, **poki**, selo, tomo, uta | to contain, keep, be full of → bladder; **container**, **bag**, **bowl**, **box**, **cup**, **cupboard**, **drawer**, **vessel** |
 | <img src="musi/sitelen/pona/pona.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | **pona** – ike, nasa, pakala, utala | **good**, **positive**, **useful**; **friendly**, **peaceful**; **simple** |
 | <img src="musi/sitelen/pona/pu.png" height="42">       | [*PREPOSITION*](#prepositions) | **pu** — taso | accordingly → according to, following, depending on; **interacting with the Toki Pona book** |
@@ -886,12 +886,12 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 | <img src="musi/sitelen/pona/selo.png" height="42">     | [*TOOL VERBS*](#tool-verbs) | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, **selo**, tomo, uta | to form → **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary** |
 |                                                        | [*SIMPLE MODIFIER*](#simple-modifiers) | open — **selo** | closed, confined |
 | <img src="musi/sitelen/pona/seme.png" height="42">     | [*CORRELATIVE*](#correlatives) | ala, ale, ni, **seme**, wan | **which?** → **what?**, which one? |
-| <img src="musi/sitelen/pona/sewi.png" height="42">     | [*SPATIAL NOUN*](#spatial-nouns) | anpa — **sewi**, lawa — noka | high; **awe-inspiring**, **divine**, **sacred**, **supernatural** → **area above**, **highest part**, **something elevated**; the divine |
+| <img src="musi/sitelen/pona/sewi.png" height="42">     | [*SPATIAL MODIFIER*](#spatial-modifiers) | anpa — **sewi**, lawa — noka | high; **awe-inspiring**, **divine**, **sacred**, **supernatural** → **area above**, **highest part**, **something elevated**; the divine |
 | <img src="musi/sitelen/pona/sijelo.png" height="42">   | [*THING MODIFIER*](#thing-modifiers) | kulupu — **sijelo** | healthy, living, sustainable → **body (of person or animal)**, health, life-form, **physical state**, **torso** |
 | <img src="musi/sitelen/pona/sike.png" height="42">     | [*THING MODIFIER*](#thing-modifiers) | lipu, nena, **sike** | round or circular; complete, (- suno) **of one year** → **round or circular thing**; **ball**, **circle**, **cycle**, **sphere**, **wheel**; fulfilment |
-| <img src="musi/sitelen/pona/sin.png" height="42">      | [*SPATIAL NOUN*](#spatial-nouns) | weka — insa, poka, **sin** | **new**, **fresh**; **additional**, **another**, **extra** → in addition to |
+| <img src="musi/sitelen/pona/sin.png" height="42">      | [*SPATIAL MODIFIER*](#spatial-modifiers) | weka — insa, poka, **sin** | **new**, **fresh**; **additional**, **another**, **extra** → in addition to |
 | <img src="musi/sitelen/pona/sina.png" height="42">     | [*PRONOUN*](#pronouns) | mi, ona, **sina** | **you** |
-| <img src="musi/sitelen/pona/sinpin.png" height="42">   | [*SPATIAL NOUN*](#spatial-nouns) | poka — monsi, **sinpin** | **foremost**, frontal → (- lawa) **face**, **front**, **wall** |
+| <img src="musi/sitelen/pona/sinpin.png" height="42">   | [*SPATIAL MODIFIER*](#spatial-modifiers) | poka — monsi, **sinpin** | **foremost**, frontal → (- lawa) **face**, **front**, **wall** |
 | <img src="musi/sitelen/pona/sitelen.png" height="42">  | [*THING VERB*](#thing-verbs) | nanpa, nimi, **sitelen**, sona, toki | to draw, project, represent → **image**, **picture**, **representation**, **symbol**, **mark**, **writing** |
 | <img src="musi/sitelen/pona/sona.png" height="42">     | [*THING VERB*](#thing-verbs) | nanpa, nimi, sitelen, **sona**, toki | **to know**, **be skilled in**, **be wise about**, **have information on** → knowledge |
 |                                                        | [*PRE-VERB*](#pre-verbs) | ken, lukin, open, **sona**, wile | **to know how to** |
@@ -920,7 +920,7 @@ If "ni" at the beginning of a **sentence** accompanies a **subordinate clause**,
 |                                                        | [*CORRELATIVE*](#correlatives) | ala, ale, ni, seme, **wan** | some → something specific |
 | <img src="musi/sitelen/pona/waso.png" height="42">     | [*LIFE-FORM NOUN*](#life-form-nouns) | kala, kasi, pipi, **waso** | flying → **bird**, **flying creature**, **winged animal** |
 | <img src="musi/sitelen/pona/wawa.png" height="42">     | [*SIMPLE MODIFIER*](#simple-modifiers) | lili — ale, mute, suli, **wawa** | **strong**, **powerful**; **confident**, **sure**; **energetic**, **intense** |
-| <img src="musi/sitelen/pona/weka.png" height="42">     | [*SPATIAL NOUN*](#spatial-nouns) | **weka** — insa, poka, sin | **absent**, **away**; **ignored** → absence, distance |
+| <img src="musi/sitelen/pona/weka.png" height="42">     | [*SPATIAL MODIFIER*](#spatial-modifiers) | **weka** — insa, poka, sin | **absent**, **away**; **ignored** → absence, distance |
 | <img src="musi/sitelen/pona/wile.png" height="42">     | [*PRE-VERB*](#pre-verbs) | ken, lukin, open, sona, **wile** | necessary → **must**, **need**, **require**, **should**, **want**, **wish** |
 
 🤔 *ADVERB* → *ADJECTIVE* **not**
