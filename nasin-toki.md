@@ -40,8 +40,6 @@
 | [↑](#content-words) |
 |:-|
 | [Simple Nouns](#simple-nouns) |
-| [Thing Nouns](#thing-nouns) |
-| [Person Nouns](#person-nouns) |
 
 ### Simple Nouns
 *(nimi suli lawa pona)*
@@ -68,16 +66,39 @@
 |:-|:-|:-|
 | *I, we* | *you* | *she, he, it, they* |
 
-### Thing Nouns
-*(nimi suli lawa ijo)*
+## Modifiers
+*(nimi suli poka)*
 
-| [↑](#nouns) |
+| [↑](#content-words) |
+|:-|
+| [Simple Modifiers](#simple-modifiers) |
+| [Thing Modifiers](#thing-modifiers) |
+| [Person Nouns](#person-nouns) |
+| [Numbers](#numbers) |
+| [Prepositions](#prepositions) |
+
+### Simple Modifiers
+*(nimi suli poka pona)*
+
+| [↑](#modifiers) |
+|:-|
+
+**Simple modifiers** don't receive an additional meaning when they change their part-of-speech.
+
+| mi wawa. | telo li wawa e mi. | wawa li lon insa. |
+|:-|:-|:-|
+| *I am strong.* | *Water strengthens me.* | *Strength lies within.* |
+
+### Thing Modifiers
+*(nimi suli poka ijo)*
+
+| [↑](#modifiers) |
 |:-|
 | [Correlatives](#correlatives) |
 | [Spatial Nouns](#spatial-nouns) |
 | [Life-Form Nouns](#life-form-nouns) |
 
-**Thing nouns** can imply the word "ijo".
+**Thing modifiers** can imply the [noun](#nouns) "ijo".
 
 | sike |
 |:-|
@@ -89,7 +110,7 @@
 |:-|:-|:-|
 | *mouthful* → *food* | *seed* → *bread* | *mammal* → *meat* |
 
-👎 The [modifiers](#modifiers) (or [prepositions](#prepositions)) "ante" and "sama" can become **thing nouns**.
+👎 The [modifiers](#modifiers) (or [prepositions](#prepositions)) "ante" and "sama" can imply "ijo".
 
 | ijo ante → ante | ijo sama → sama |
 |:-|:-|
@@ -200,27 +221,6 @@ In a genitive clause (i.e. the words behind the **particle** "[pi](#genitive)"),
 | meli |
 |:-|
 | *female* → *somebody female*, *woman* |
-
-## Modifiers
-*(nimi suli poka)*
-
-| [↑](#content-words) |
-|:-|
-| [Simple Modifiers](#simple-modifiers) |
-| [Numbers](#numbers) |
-| [Prepositions](#prepositions) |
-
-### Simple Modifiers
-*(nimi suli poka pona)*
-
-| [↑](#modifiers) |
-|:-|
-
-**Simple modifiers** don't receive an additional meaning when they change their part-of-speech.
-
-| mi wawa. | telo li wawa e mi. | wawa li lon insa. |
-|:-|:-|:-|
-| *I am strong.* | *Water strengthens me.* | *Strength lies within.* |
 
 ### Numbers
 *(nimi suli poka nanpa)*
