@@ -230,12 +230,6 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 |:-|:-|:-|
 | *It's going to be your turn.* | *It's your turn.* | *It's been your turn.* |
 
-🤔 The meanings of the ɴᴜᴍʙᴇʀ "mute" and of the [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) "mute" can merge.
-
-| mute |
-|:-|
-| *three, many* → *three (or more)* |
-
 🤔 With two [ɴᴜᴍʙᴇʀ](#number)s, the **comma** can disappear.
 
 | palisa luka, tu → palisa luka tu |
