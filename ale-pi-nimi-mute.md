@@ -76,7 +76,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/moku.png" height="42">     | [ᴛʜɪɴɢ ᴠᴇʀʙ](nasin-toki.md#thing-verb) | **moku** | ᴠᴇʀʙ **to consume**, **drink**, **eat**, **ingest**, **swallow** → ɴᴏᴜɴ mouthful; food |
 | <img src="musi/sitelen/pona/moli.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | lape, **moli**, musi | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**, (kama -) **dying** |
 | <img src="musi/sitelen/pona/monsi.png" height="42">    | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | poka — **monsi**, sinpin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ rear → ɴᴏᴜɴ **back**, **behind**, **rear** |
-| <img src="musi/sitelen/pona/mu.png" height="42">       | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](nasin-toki.md#interjection) | **mu** — a, ala | **(animal noise or communication)**, (indifference) → blah! |
+| <img src="musi/sitelen/pona/mu.png" height="42">       | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](nasin-toki.md#interjection) | **mu** — a, ala | ᴘᴀʀᴛɪᴄʟᴇ **(animal noise or communication)**, (indifference) → ꜱᴇɴᴛᴇɴᴄᴇ blah! |
 | <img src="musi/sitelen/pona/mun.png" height="42">      | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | ma, **mun** | sky-walking at night → moon, night sky object, star |
 | <img src="musi/sitelen/pona/musi.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | lape, moli, **musi** | **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** |
 | <img src="musi/sitelen/pona/mute.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | lili — ale, **mute**, suli, wawa | **many**, **a lot**, (- sin) **more**, **much**, **several**; **very** |
