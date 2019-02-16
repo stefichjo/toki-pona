@@ -73,7 +73,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/meli.png" height="42">     | [ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#person-modifier) | **meli** — mije | ᴀᴅᴊᴇᴄᴛɪᴠᴇ feminine → ɴᴏᴜɴ **female**, **feminine person**, **woman**; **wife** |
 | <img src="musi/sitelen/pona/mi.png" height="42">       | [ᴘʀᴏɴᴏᴜɴ](nasin-toki.md#noun) | **mi**, ona, sina | ɴᴏᴜɴ **I**/**me**, **we**/**us**, ᴀᴅᴊᴇᴄᴛɪᴠᴇ my, our |
 | <img src="musi/sitelen/pona/mije.png" height="42">     | [ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#person-modifier) | meli — **mije** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ masculine → ɴᴏᴜɴ **male**, **man**, **masculine person**; **husband** |
-| <img src="musi/sitelen/pona/moku.png" height="42">     | [ᴛʜɪɴɢ ᴠᴇʀʙ](nasin-toki.md#thing-verb) | **moku** | **to eat**, **drink**, **consume**, **swallow**, **ingest** → mouthful; food |
+| <img src="musi/sitelen/pona/moku.png" height="42">     | [ᴛʜɪɴɢ ᴠᴇʀʙ](nasin-toki.md#thing-verb) | **moku** | ᴠᴇʀʙ **to consume**, **drink**, **eat**, **ingest**, **swallow** → ɴᴏᴜɴ mouthful; food |
 | <img src="musi/sitelen/pona/moli.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | lape, **moli**, musi | **dead**, (kama -) **dying** |
 | <img src="musi/sitelen/pona/monsi.png" height="42">    | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | poka — **monsi**, sinpin | rear → **back**, **behind**, **rear** |
 | <img src="musi/sitelen/pona/mu.png" height="42">       | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](nasin-toki.md#interjection) | **mu** — a, ala | **(animal noise or communication)**, (indifference) → blah! |
@@ -208,3 +208,5 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 🤔 **I**/**me**, **we**/**us** → **I**, **me**, **we**, **us**
 
 🤔 **male**, **man** → **man**, **male**
+
+🤔 **to consume**, **drink**, **eat**, **ingest**, **swallow** → **to eat**, **drink**, **consume**, **swallow**, **ingest**
