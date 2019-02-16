@@ -34,7 +34,7 @@
 | <img src="musi/sitelen/pona/kala.png" height="42">     | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#life-form-modifier) | **kala**, kasi, pipi, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ swimming → ɴᴏᴜɴ **fish**, **marine animal**, **sea creature** |
 | <img src="musi/sitelen/pona/kalama.png" height="42">   | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | **kalama** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound**, ᴠᴇʀʙ **to recite**, **utter aloud** |
 | <img src="musi/sitelen/pona/kama.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | awen, **kama**, pini | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **arriving**, **coming**, **future**, **summoned** |
-| <img src="musi/sitelen/pona/kama.png" height="42">     | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | awen, **kama**, pini | ᴠᴇʀʙ to achieve → ᴘʀᴇ-ᴠᴇʀʙ **to become**; **manage to**, **succeed in** |
+|                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | awen, **kama**, pini | ᴠᴇʀʙ to achieve → ᴘʀᴇ-ᴠᴇʀʙ **to become**; **manage to**, **succeed in** |
 | <img src="musi/sitelen/pona/kasi.png" height="42">     | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#life-form-modifier) | kala, **kasi**, pipi, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ vegetating → ɴᴏᴜɴ **plant**, **vegetation**; **herb**, **leaf** |
 | <img src="musi/sitelen/pona/ken.png" height="42">      | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀᴠᴇʀʙ](nasin-toki.md#simple-modifier) | **ken**, wile | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **possible** |
 |                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | **ken**, lukin, open, sona, wile | ᴠᴇʀʙ to allow for → ᴘʀᴇ-ᴠᴇʀʙ **to be able to**, **be allowed to**, **can**, **may** |
