@@ -366,12 +366,6 @@ In all other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪ
 |:-|
 | *The word is known by the newcomer.* |
 
-🤔 **Sonja** allows all [ᴍᴏᴅɪꜰɪᴇʀ](#modifier)s to be used as ᴠᴇʀʙs, i.e. they can imply "e ijo/ni".
-
-| mi open e ni lon sewi. → mi open lon sewi. |
-|:-|
-| *I begin with the divine.* |
-
 🤔 …
 
 | kama e → pali e | open e → pali e |

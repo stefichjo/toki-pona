@@ -94,7 +94,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/olin.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](nasin-toki.md#simple-verb) | **olin**, unpa | ᴠᴇʀʙ **to have compassion for**, **love**, **respect**, **show affection to** |
 | <img src="musi/sitelen/pona/ona.png" height="42">      | [ᴘʀᴏɴᴏᴜɴ](nasin-toki.md#noun) | mi, **ona**, sina | ɴᴏᴜɴ **he**/him, **it**, **she**/her, **they**/them, ᴀᴅᴊᴇᴄᴛɪᴠᴇ her, his, its, their |
 | <img src="musi/sitelen/pona/open.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | **open** — selo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ open, ᴠᴇʀʙ **to open**; **begin**, **start**; **turn on** |
-|                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | ken, lukin, **open**, sona, wile | to set up → to be ready to |
+|                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | ken, lukin, **open**, sona, wile | ᴠᴇʀʙ to set up → ᴘʀᴇ-ᴠᴇʀʙ to be ready to |
 | <img src="musi/sitelen/pona/pakala.png" height="42">   | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | ilo — **pakala** | useless → tumor, wound; damage |
 |                                                        | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | pona — ike, nasa, **pakala**, utala | **botched**, **broken**, **damaged**, **harmed**, **messed up** |
 | <img src="musi/sitelen/pona/pali.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](nasin-toki.md#simple-verb) | alasa, **pali** | **to do**, **take action on**, **work on**; (- ale) **build**, **make**, **prepare** |
