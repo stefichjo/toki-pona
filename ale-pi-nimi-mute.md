@@ -71,7 +71,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/mama.png" height="42">     | [ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#person-modifier) | **mama** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ original → ɴᴏᴜɴ **ancestor**, **parent**; **creator**, **originator**; **caretaker**, **sustainer** |
 | <img src="musi/sitelen/pona/mani.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | **mani** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ domesticated, mined; valueable → ɴᴏᴜɴ **large domesticated animal**, resource; **cash**, **money**, **savings**, **wealth** |
 | <img src="musi/sitelen/pona/meli.png" height="42">     | [ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#person-modifier) | **meli** — mije | ᴀᴅᴊᴇᴄᴛɪᴠᴇ feminine → ɴᴏᴜɴ **female**, **feminine person**, **woman**; **wife** |
-| <img src="musi/sitelen/pona/mi.png" height="42">       | [ᴘʀᴏɴᴏᴜɴ](nasin-toki.md#noun) | **mi**, ona, sina | ɴᴏᴜɴ **I**, **me**, **us**, **we**, ᴀᴅᴊᴇᴄᴛɪᴠᴇ my, our |
+| <img src="musi/sitelen/pona/mi.png" height="42">       | [ᴘʀᴏɴᴏᴜɴ](nasin-toki.md#noun) | **mi**, ona, sina | ɴᴏᴜɴ **I**/**me**, **we**/**us**, ᴀᴅᴊᴇᴄᴛɪᴠᴇ my, our |
 | <img src="musi/sitelen/pona/mije.png" height="42">     | [ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#person-modifier) | meli — **mije** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ masculine → ɴᴏᴜɴ **male**, **man**, **masculine person**; **husband** |
 | <img src="musi/sitelen/pona/moku.png" height="42">     | [ᴛʜɪɴɢ ᴠᴇʀʙ](nasin-toki.md#thing-verb) | **moku** | **to eat**, **drink**, **consume**, **swallow**, **ingest** → mouthful; food |
 | <img src="musi/sitelen/pona/moli.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | lape, **moli**, musi | **dead**, (kama -) **dying** |
@@ -205,6 +205,6 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 
 🤔 **woman**, **female**, **feminine person** → **female**, **feminine person**, **woman**
 
-🤔 **us**, **we** → **we**, **us**
+🤔 **I**/**me**, **we**/**us** → **I**, **me**, **we**, **us**
 
 🤔 **male**, **man** → **man**, **male**
