@@ -14,13 +14,13 @@
 |                                                        | [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](nasin-toki.md#correlative) | ala, **ale**, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **every** → ɴᴏᴜɴ **everything** |
 |                                                        | [ɴᴜᴍʙᴇʀ](nasin-toki.md#number) | ala, **ale**, esun, luka, mute, tu, wan | ɴᴜᴍʙᴇʀ 🤔 **100**, infinite |
 |                                                        | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | lili — **ale**, mute, suli, wawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **countless**, **bountiful**, **plentiful**, ɴᴏᴜɴ **abundance** |
-| <img src="musi/sitelen/pona/anpa.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | **anpa** — sewi, lawa — noka | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bowing down**, **downward**, **humble**, **lowly**, **dependent** → ɴᴏᴜɴ area below |
+| <img src="musi/sitelen/pona/anpa.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | **anpa** — sewi, lawa — noka | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bowing down**, **downward**, **humble**, **lowly**; **dependent** → ɴᴏᴜɴ area below |
 | <img src="musi/sitelen/pona/ante.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | **ante** — sama | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **different**, **altered**, **changed**, **other** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ than |
 | <img src="musi/sitelen/pona/anu.png" height="42">      | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](nasin-toki.md#conjunction) | **anu** — en | ᴘᴀʀᴛɪᴄʟᴇ (alternative), **or** |
 | <img src="musi/sitelen/pona/awen.png" height="42">     | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | **awen**, kama, pini | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**, **protected**, **safe**, **staying**, **waiting** → ᴘʀᴇ-ᴠᴇʀʙ **to continue to** |
 | <img src="musi/sitelen/pona/e.png" height="42">        | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](nasin-toki.md#phrase-particle) | **e**, li, o, pi | ᴘᴀʀᴛɪᴄʟᴇ **(before the direct object)** |
 | <img src="musi/sitelen/pona/en.png" height="42">       | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](nasin-toki.md#conjunction) | anu — **en** | ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, (between multiple ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs belonging to the same ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ) |
-| <img src="musi/sitelen/pona/esun.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | **esun**, kepeken | ᴀᴅᴊᴇᴄᴛɪᴠᴇ replacing, ɴᴏᴜɴ replacement; **business transaction**; **bazaar**, **fair**, **market**, **shop** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ instead of |
+| <img src="musi/sitelen/pona/esun.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | **esun**, kepeken | ᴀᴅᴊᴇᴄᴛɪᴠᴇ replacing, ɴᴏᴜɴ exchange, replacement; **business transaction**; **bazaar**, **fair**, **market**, **shop** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ instead of |
 |                                                        | [ɴᴜᴍʙᴇʀ](nasin-toki.md#number) | ala, ale, **esun**, luka, mute, tu, wan | ɴᴜᴍʙᴇʀ 7, seven |
 | <img src="musi/sitelen/pona/ijo.png" height="42">      | [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](nasin-toki.md#noun) | **ijo** — jan | ɴᴏᴜɴ **matter**, **object**, **phenomenon**, **thing**; location, place; case |
 | <img src="musi/sitelen/pona/ike.png" height="42">      | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | pona — **ike**, nasa, pakala, utala | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bad**, **negative**; **irrelevant**, **non-essential** |
@@ -153,6 +153,8 @@
 🤔 ᴀᴅᴠᴇʀʙ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **not**
 
 🤔 ɴᴜᴍʙᴇʀ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **zero**
+
+🤔 **lowly**; **dependent** → **lowly**, **dependent**
 
 🤔 **staying**, **waiting** → **waiting**, **staying**
 
