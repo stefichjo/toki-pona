@@ -3,7 +3,7 @@
 
 The dictionary below is based on [Toki Pona: The Language of Good](http://www.amazon.com/gp/product/0978292308) by **Sonja Lang**, the creator of Toki Pona. It contains [deviations](#deviations) and additional contextualisations and translations.
 
-| sitelen | | | |
+| glyph | paradigm | word | meaning |
 |:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/a.png" height="42">        | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](nasin-toki.md#interjection) | mu — **a**, ala | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)** → ꜱᴇɴᴛᴇɴᴄᴇ yes! |
 | <img src="musi/sitelen/pona/akesi.png" height="42">    | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#life-form-modifier) | **akesi** — soweli | ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded → ɴᴏᴜɴ **non-cute animal**; **reptile**, **amphibian**; monster |
@@ -85,7 +85,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 |                                                        | [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](nasin-toki.md#simple-particle) | **nanpa** | ᴘᴀʀᴛɪᴄʟᴇ **(ordinal number)**, **-th** |
 | <img src="musi/sitelen/pona/nasa.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | pona — ike, **nasa**, pakala, utala | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **strange**, **unusual**; **crazy**, **foolish**; **drunk**, **intoxicated** |
 | <img src="musi/sitelen/pona/nasin.png" height="42">    | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | lupa, **nasin** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ cracked → ɴᴏᴜɴ line, solution; **custom**, **doctrine**, **method**, **path**, **road**, **way** |
-| <img src="musi/sitelen/pona/nena.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | lipu, **nena**, sike | outstanding → bump, button, hill, mountain, nose, protuberance |
+| <img src="musi/sitelen/pona/nena.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | lipu, **nena**, sike | ᴀᴅᴊᴇᴄᴛɪᴠᴇ outstanding → ɴᴏᴜɴ **bump**, **button**, **hill**, **mountain**, **nose**, **protuberance** |
 | <img src="musi/sitelen/pona/ni.png" height="42">       | [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](nasin-toki.md#correlative) | ala, ale, **ni**, seme, wan | **that**, **this** → that one, this one |
 | <img src="musi/sitelen/pona/nimi.png" height="42">     | [ᴛʜɪɴɢ ᴠᴇʀʙ](nasin-toki.md#thing-verb) | nanpa, **nimi**, sitelen, sona, toki | to name — **name**, **word** |
 | <img src="musi/sitelen/pona/noka.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, **noka**, palisa, pilin, poki, selo, tomo, uta | to step on, kick → **foot**, **leg**, **organ of locomotion** |
