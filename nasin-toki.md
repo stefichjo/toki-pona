@@ -6,7 +6,7 @@
 | [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) |
 | [ᴘᴀʀᴛɪᴄʟᴇ](#particle) |
 
-The main scope of this **Toki Pona Grammar** is to enable you to read the [Toki Pona Dictionary](#ale-pi-nimi-mute.md).
+The main scope of this **Toki Pona Grammar** is to enable you to read the [Toki Pona Dictionary](ale-pi-nimi-mute.md).
 
 👍 — Sections about **"Experimental Language"** describe "pu-compliant" ways of using the language, even though they are not mentioned explicitly in the **Toki Pona Book**.
 
