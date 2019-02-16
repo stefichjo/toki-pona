@@ -1,4 +1,4 @@
-nasin-toki.md# Toki Pona Dictionary
+# Toki Pona Dictionary
 *(ale pi nimi mute pi toki pona)*
 
 | sitelen | | | |
