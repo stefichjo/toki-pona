@@ -91,7 +91,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/noka.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, **noka**, palisa, pilin, poki, selo, tomo, uta | ᴠᴇʀʙ to step on, kick → ɴᴏᴜɴ **foot**, **leg**, **organ of locomotion** |
 |                                                        | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | anpa — sewi, lawa, **noka** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ basic, lower → ɴᴏᴜɴ base, **bottom**, **lower part** |
 | <img src="musi/sitelen/pona/o.png" height="42">        | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](nasin-toki.md#phrase-particle) | e, li, **o**, pi | ᴘᴀʀᴛɪᴄʟᴇ **(vocative or imperative)**, (volative), (- kute)! **hey!**, (sina -)! **o!** |
-| <img src="musi/sitelen/pona/olin.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](nasin-toki.md#simple-verb) | **olin**, unpa | **to love**, **have compassion for**, **respect**, **show affection to** |
+| <img src="musi/sitelen/pona/olin.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](nasin-toki.md#simple-verb) | **olin**, unpa | ᴠᴇʀʙ **to have compassion for**, **love**, **respect**, **show affection to** |
 | <img src="musi/sitelen/pona/ona.png" height="42">      | [ᴘʀᴏɴᴏᴜɴ](nasin-toki.md#noun) | mi, **ona**, sina | **he**, him, **she**, her, **it**, **they**, them |
 | <img src="musi/sitelen/pona/open.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | **open** — selo | **open**; **to begin**, **start**; **turn on** |
 |                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | ken, lukin, **open**, sona, wile | to set up → to be ready to |
@@ -223,4 +223,4 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 
 🤔 **road**, **way** → **way**, …, **road**
 
-
+🤔 **to have compassion for**, **love** → **to love**, **have compassion for**
