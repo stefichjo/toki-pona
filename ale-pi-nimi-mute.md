@@ -68,7 +68,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 |                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | ken, **lukin**, open, sona, wile | ᴠᴇʀʙ to care for → ᴘʀᴇ-ᴠᴇʀʙ **to seek**, **look for**, **try to** |
 | <img src="musi/sitelen/pona/lupa.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | **lupa**, nasin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ hollow → ɴᴏᴜɴ (- tomo) **door**, **hole**, **orifice**, (- suno) **window** |
 | <img src="musi/sitelen/pona/ma.png" height="42">       | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | **ma**, mun | ᴀᴅᴊᴇᴄᴛɪᴠᴇ vast → ɴᴏᴜɴ expanse; **earth**, **land**; **outdoors**, **world**; **country**, **territory**; **soil** |
-| <img src="musi/sitelen/pona/mama.png" height="42">     | [ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#person-modifier) | **mama** | original → **parent**, **ancestor**; **creator**, **originator**; **caretaker**, **sustainer** |
+| <img src="musi/sitelen/pona/mama.png" height="42">     | [ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#person-modifier) | **mama** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ original → ɴᴏᴜɴ **ancestor**, **parent**; **creator**, **originator**; **caretaker**, **sustainer** |
 | <img src="musi/sitelen/pona/mani.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | **mani** | domesticated, mined; valueable → **large domesticated animal**, resource; **money**, **cash**, **savings**, **wealth** |
 | <img src="musi/sitelen/pona/meli.png" height="42">     | [ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#person-modifier) | **meli** — mije | female → **woman**, **female**, **feminine person**; **wife** |
 | <img src="musi/sitelen/pona/mi.png" height="42">       | [ᴘʀᴏɴᴏᴜɴ](nasin-toki.md#noun) | **mi**, ona, sina | **I**, **me**, **we**, **us** |
@@ -198,3 +198,5 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 🤔 **card**, **document** → **document**, **card**
 
 🤔 ᴀᴅᴊᴇᴄᴛɪᴠᴇ **existing**, **real**, **true** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **real**, **true**, **existing**
+
+🤔 **ancestor**, **parent** → **parent**, **ancestor**
