@@ -48,7 +48,7 @@ The main scope of this **Toki Pona Grammar** is to enable you to read the [Toki 
 
 | mi | sina | ona |
 |:-|:-|:-|
-| *I, we* | *you* | *she, he, it, they* |
+| *I, we* | *you* | *he, it, she, they* |
 
 ## MODIFIER
 *(nimi suli poka)*

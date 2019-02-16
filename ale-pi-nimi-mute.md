@@ -89,11 +89,11 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/ni.png" height="42">       | [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](nasin-toki.md#correlative) | ala, ale, **ni**, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **that**, **this** → ɴᴏᴜɴ that one, this one |
 | <img src="musi/sitelen/pona/nimi.png" height="42">     | [ᴛʜɪɴɢ ᴠᴇʀʙ](nasin-toki.md#thing-verb) | nanpa, **nimi**, sitelen, sona, toki | ᴠᴇʀʙ to define, name → ɴᴏᴜɴ definition, **name**, **word** |
 | <img src="musi/sitelen/pona/noka.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, **noka**, palisa, pilin, poki, selo, tomo, uta | ᴠᴇʀʙ to step on, kick → ɴᴏᴜɴ **foot**, **leg**, **organ of locomotion** |
-|                                                        | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | anpa — sewi, lawa, **noka** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ basic, lower → ɴᴏᴜɴ base, **bottom**, **lower part** |
+|                                                        | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | anpa — sewi, lawa, **noka** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ basic, lower → ɴᴏᴜɴ base, **bottom**, **lowest part** |
 | <img src="musi/sitelen/pona/o.png" height="42">        | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](nasin-toki.md#phrase-particle) | e, li, **o**, pi | ᴘᴀʀᴛɪᴄʟᴇ **(vocative or imperative)**, (volative), (- kute)! **hey!**, (sina -)! **o!** |
 | <img src="musi/sitelen/pona/olin.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](nasin-toki.md#simple-verb) | **olin**, unpa | ᴠᴇʀʙ **to have compassion for**, **love**, **respect**, **show affection to** |
 | <img src="musi/sitelen/pona/ona.png" height="42">      | [ᴘʀᴏɴᴏᴜɴ](nasin-toki.md#noun) | mi, **ona**, sina | ɴᴏᴜɴ **he**/him, **it**, **she**/her, **they**/them, ᴀᴅᴊᴇᴄᴛɪᴠᴇ her, his, its, their |
-| <img src="musi/sitelen/pona/open.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | **open** — selo | **open**; **to begin**, **start**; **turn on** |
+| <img src="musi/sitelen/pona/open.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | **open** — selo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ open, ᴠᴇʀʙ **to open**; **begin**, **start**; **turn on** |
 |                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | ken, lukin, **open**, sona, wile | to set up → to be ready to |
 | <img src="musi/sitelen/pona/pakala.png" height="42">   | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | ilo — **pakala** | useless → tumor, wound; damage |
 |                                                        | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | pona — ike, nasa, **pakala**, utala | **botched**, **broken**, **damaged**, **harmed**, **messed up** |
@@ -223,6 +223,10 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 
 🤔 **road**, **way** → **way**, …, **road**
 
+🤔 **lowest part** → **lower part**
+
 🤔 **to have compassion for**, **love** → **to love**, **have compassion for**
 
 🤔 **she**, **it** → **it**, **she**
+
+🤔 **to open**; **begin**, … → **to begin**, …; **open**
