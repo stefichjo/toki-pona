@@ -52,7 +52,7 @@
 | <img src="musi/sitelen/pona/lawa.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, **lawa**, len, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | ᴠᴇʀʙ **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule** → ɴᴏᴜɴ **head**, **mind** |
 |                                                        | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | anpa — sewi, **lawa** — noka | ᴀᴅᴊᴇᴄᴛɪᴠᴇ upper → ɴᴏᴜɴ highest part, upper area |
 | <img src="musi/sitelen/pona/len.png" height="42">      | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, **len**, luka, lukin, noka, palisa, pilin, poki, selo, tomo, uta | ᴠᴇʀʙ to cover, hide → ɴᴏᴜɴ **cloth**, **clothing**, **fabric**, **textile**; **cover**, **layer of privacy** |
-| <img src="musi/sitelen/pona/lete.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | **lete** — seli | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **cold**, **cool**; **uncooked**, **raw** → ɴᴏᴜɴ ice, frost |
+| <img src="musi/sitelen/pona/lete.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | **lete** — seli | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **cold**, **cool**; **uncooked**, **raw** → ɴᴏᴜɴ frost, ice |
 | <img src="musi/sitelen/pona/li.png" height="42">       | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](nasin-toki.md#phrase-particle) | e, **li**, o, pi | ᴘᴀʀᴛɪᴄʟᴇ **(between any subject except mi alone or sina alone and its predicate; also to introduce a new predicate for the same subject)** |
 | <img src="musi/sitelen/pona/lili.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | **lili** — ale, mute, suli, wawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **little**, **small**, **short**; **few**; **a bit**; **young** |
 | <img src="musi/sitelen/pona/linja.png" height="42">    | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | **linja** — palisa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ long and flexible → ɴᴏᴜɴ **long and flexible thing**; **cord**, **hair**, **rope**, **thread**, **yarn** |
@@ -153,7 +153,7 @@
 | <img src="musi/sitelen/pona/wawa.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | lili — ale, mute, suli, **wawa** | **strong**, **powerful**; **confident**, **sure**; **energetic**, **intense** |
 | <img src="musi/sitelen/pona/weka.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | **weka** — insa, poka, sin | **absent**, **away**; **ignored** → absence, distance |
 | <img src="musi/sitelen/pona/wile.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | ken, **wile** | necessary |
-|                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | ken, lukin, open, sona, **wile** | to decide → **must**, **need**, **require**, **should**, **want**, **wish** |
+|                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | ken, lukin, open, sona, **wile** | to decide for → **must**, **need**, **require**, **should**, **want**, **wish** |
 
 🤔 ᴀᴅᴠᴇʀʙ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **not**
 

@@ -427,7 +427,7 @@ As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean the tool ("kepeken ilo") 
 | [↑](#verb) |
 |:-|
 
-If a ᴠᴇʀʙ is a ᴘʀᴇ-ᴠᴇʀʙ, it implies a ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙ before a **subordinate clause**, which receives the main ᴠᴇʀʙ from the main [clause](#mute-nimi). In both [clauses](#mute-nimi), the subject (i.e. the words before the [ᴘᴀʀᴛɪᴄʟᴇ "li"](#subject-and-predicate)) is the same. Only a closed set of ᴠᴇʀʙs and [ᴍᴏᴅɪꜰɪᴇʀ](#modifier)s can be used as ᴘʀᴇ-ᴠᴇʀʙs.
+When the **main clause** and the **subordinate clause** share the same [subject](#subject-and-predicate)), the two **clauses'** ᴠᴇʀʙ + [predicate](#subject-and-predicate)) can merge, i.e. the ᴠᴇʀʙ is used as a ᴘʀᴇ-ᴠᴇʀʙ.
 
 | ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
 |:-|
