@@ -83,7 +83,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 |                                                        | [ɴᴜᴍʙᴇʀ](nasin-toki.md#number) | ala, ale, esun, luka, **mute**, tu, wan | ɴᴜᴍʙᴇʀ 3, three, 🤔 ***three (or more)*** |
 | <img src="musi/sitelen/pona/nanpa.png" height="42">    | [ᴛʜɪɴɢ ᴠᴇʀʙ](nasin-toki.md#thing-verb) | **nanpa**, nimi, sitelen, sona, toki | ᴠᴇʀʙ to count → ɴᴏᴜɴ **number** |
 |                                                        | [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](nasin-toki.md#simple-particle) | **nanpa** | ᴘᴀʀᴛɪᴄʟᴇ **(ordinal number)**, **-th** |
-| <img src="musi/sitelen/pona/nasa.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | pona — ike, **nasa**, pakala, utala | **unusual**, **strange**; **foolish**, **crazy**; **drunk**, **intoxicated** |
+| <img src="musi/sitelen/pona/nasa.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | pona — ike, **nasa**, pakala, utala | **strange**, **unusual**; **crazy**, **foolish**; **drunk**, **intoxicated** |
 | <img src="musi/sitelen/pona/nasin.png" height="42">    | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | lupa, **nasin** | cracked → line, solution; **way**, **custom**, **doctrine**, **method**, **path**, **road** |
 | <img src="musi/sitelen/pona/nena.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | lipu, **nena**, sike | outstanding → bump, button, hill, mountain, nose, protuberance |
 | <img src="musi/sitelen/pona/ni.png" height="42">       | [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](nasin-toki.md#correlative) | ala, ale, **ni**, seme, wan | **that**, **this** → that one, this one |
@@ -216,5 +216,9 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 🤔 **number** → **numbers**
 
 🤔 **(ordinal number)**, **-th** → **-th (ordinal number)**
+
+🤔 **strange**, **unusual** → **unusual**, **strange**
+
+🤔 **crazy**, **foolish** → **foolish**, **crazy**
 
 
