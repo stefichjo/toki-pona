@@ -88,8 +88,8 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/nena.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | lipu, **nena**, sike | ᴀᴅᴊᴇᴄᴛɪᴠᴇ outstanding → ɴᴏᴜɴ **bump**, **button**, **hill**, **mountain**, **nose**, **protuberance** |
 | <img src="musi/sitelen/pona/ni.png" height="42">       | [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](nasin-toki.md#correlative) | ala, ale, **ni**, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **that**, **this** → ɴᴏᴜɴ that one, this one |
 | <img src="musi/sitelen/pona/nimi.png" height="42">     | [ᴛʜɪɴɢ ᴠᴇʀʙ](nasin-toki.md#thing-verb) | nanpa, **nimi**, sitelen, sona, toki | ᴠᴇʀʙ to define, name → ɴᴏᴜɴ definition, **name**, **word** |
-| <img src="musi/sitelen/pona/noka.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, **noka**, palisa, pilin, poki, selo, tomo, uta | to step on, kick → **foot**, **leg**, **organ of locomotion** |
-|                                                        | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | anpa — sewi, lawa, **noka** | basic → base, **bottom**, **lower part** |
+| <img src="musi/sitelen/pona/noka.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, **noka**, palisa, pilin, poki, selo, tomo, uta | ᴠᴇʀʙ to step on, kick → ɴᴏᴜɴ **foot**, **leg**, **organ of locomotion** |
+|                                                        | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | anpa — sewi, lawa, **noka** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ basic, lower → ɴᴏᴜɴ base, **bottom**, **lower part** |
 | <img src="musi/sitelen/pona/o.png" height="42">        | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](nasin-toki.md#phrase-particle) | e, li, **o**, pi | **(vocative or imperative)**, **hey!**, **O!** |
 | <img src="musi/sitelen/pona/olin.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](nasin-toki.md#simple-verb) | **olin**, unpa | **to love**, **have compassion for**, **respect**, **show affection to** |
 | <img src="musi/sitelen/pona/ona.png" height="42">      | [ᴘʀᴏɴᴏᴜɴ](nasin-toki.md#noun) | mi, **ona**, sina | **he**, him, **she**, her, **it**, **they**, them |
