@@ -118,8 +118,8 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/selo.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, **selo**, tomo, uta | ᴠᴇʀʙ to form → ɴᴏᴜɴ **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary** |
 |                                                        | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | open — **selo** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ closed, confined, isolated |
 | <img src="musi/sitelen/pona/seme.png" height="42">     | [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](nasin-toki.md#correlative) | ala, ale, ni, **seme**, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **what**, **which** → ɴᴏᴜɴ what, which one |
-| <img src="musi/sitelen/pona/sewi.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | anpa — **sewi**, lawa — noka | ᴀᴅᴊᴇᴄᴛɪᴠᴇ high; **awe-inspiring**, **divine**, **sacred**, **supernatural** → ɴᴏᴜɴ **area above**, 🤔 **highest part**, **something elevated**; divine |
-| <img src="musi/sitelen/pona/sijelo.png" height="42">   | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | kulupu — **sijelo** | healthy, living, sustainable → **body (of person or animal)**, health, life-form, **physical state**, **torso** |
+| <img src="musi/sitelen/pona/sewi.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | anpa — **sewi**, lawa — noka | ᴀᴅᴊᴇᴄᴛɪᴠᴇ high; **awe-inspiring**, **divine**, **sacred**, **supernatural** → ɴᴏᴜɴ **area above**, 🤔 **highest part**; **something elevated**, divine |
+| <img src="musi/sitelen/pona/sijelo.png" height="42">   | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | kulupu — **sijelo** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ individual; alive; healthy → ɴᴏᴜɴ **body (of person or animal)**, **torso**; life-form; health, **physical state** |
 | <img src="musi/sitelen/pona/sike.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | lipu, nena, **sike** | round or circular; complete, (- suno) **of one year** → **round or circular thing**; **ball**, **circle**, **cycle**, **sphere**, **wheel**; fulfilment |
 | <img src="musi/sitelen/pona/sin.png" height="42">      | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | **sin** | **new**, **fresh**; **additional**, **another**, **extra** |
 | <img src="musi/sitelen/pona/sina.png" height="42">     | [ᴘʀᴏɴᴏᴜɴ](nasin-toki.md#noun) | mi, ona, **sina** | **you** |
@@ -246,3 +246,6 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 
 🤔 ᴀᴅᴊᴇᴄᴛɪᴠᴇ **what**, **which** → ᴘᴀʀᴛɪᴄʟᴇ **what? which?**
 
+🤔 **highest part**; **something elevated** → **highest part**, **something elevated**
+
+🤔 **body (of person or animal)**, **torso**; **physical state** → **body (of person or animal)**, **physical state**, **torso**

@@ -86,7 +86,7 @@ As a [ɴᴏᴜɴ](#noun), ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs imply "ijo".
 
 | sike |
 |:-|
-| *round* → *something round, circle, globe* |
+| *round* → *something round* |
 
 ɴᴏᴜɴs that describe food seem to imply "ijo".
 
@@ -202,7 +202,7 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 
 | meli |
 |:-|
-| *female* → *somebody female*, *woman* |
+| *female* → *somebody female* |
 
 ### NUMBER
 *(nimi suli poka nanpa)*
