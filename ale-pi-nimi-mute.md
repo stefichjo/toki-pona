@@ -130,7 +130,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/soweli.png" height="42">   | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#life-form-modifier) | akesi — **soweli** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ warm-blooded → ɴᴏᴜɴ **animal**, **beast**, **land mammal** |
 | <img src="musi/sitelen/pona/suli.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | lili — ale, mute, **suli**, wawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **big**, **heavy**, **large**, **long**, **tall**; **important**; **adult** |
 | <img src="musi/sitelen/pona/suno.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | pimeja — **suno** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ bright, lit → ɴᴏᴜɴ **sun**; **brightness**, **glow**, **light**, **radiance**, **shine**; **light source** |
-| <img src="musi/sitelen/pona/supa.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | **supa** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ horizontal → ɴᴏᴜɴ **horizontal surface**, (lon -) on, **thing to put or rest something on** |
+| <img src="musi/sitelen/pona/supa.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | **supa** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ horizontal → ɴᴏᴜɴ **horizontal surface**, (lon -) on; **thing to put or rest something on**; (lon -) lying, sitting |
 | <img src="musi/sitelen/pona/suwi.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | jaki — **suwi** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **fragrant**, **sweet**; **adorable**, **cute**, **innocent** → ɴᴏᴜɴ sweets |
 | <img src="musi/sitelen/pona/tan.png" height="42">      | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | lon, **tan**, tawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ departing → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **because of**, **by**, **from** |
 | <img src="musi/sitelen/pona/taso.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | sin, **taso** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ free, independent, missing; **only** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ free from, independent from, without; (- ni la) **but**, **however** |
@@ -151,7 +151,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 |                                                        | [ɴᴜᴍʙᴇʀ](nasin-toki.md#number) | ala, ale, esun, luka, mute, tu, **wan** | ɴᴜᴍʙᴇʀ 1, **one** |
 |                                                        | [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](nasin-toki.md#correlative) | ala, ale, ni, seme, **wan** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ specific → ɴᴏᴜɴ something specific |
 | <img src="musi/sitelen/pona/waso.png" height="42">     | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#life-form-modifier) | kala, kasi, pipi, **waso** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ flying, winging → ɴᴏᴜɴ **bird**, **flying creature**, **winged animal** |
-| <img src="musi/sitelen/pona/wawa.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | lili — ale, mute, suli, **wawa** | **strong**, **powerful**; **confident**, **sure**; **energetic**, **intense** |
+| <img src="musi/sitelen/pona/wawa.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | lili — ale, mute, suli, **wawa** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **powerful**, **strong**; 🤔 (sona -) **confident**, **sure**; **energetic**, **intense** |
 | <img src="musi/sitelen/pona/weka.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | **weka** — insa, monsi, poka, sinpin | **absent**, **away**; **ignored** → absence, distance |
 | <img src="musi/sitelen/pona/wile.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | ken, **wile** | necessary |
 |                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | ken, lukin, open, sona, **wile** | to decide for → **must**, **need**, **require**, **should**, **want**, **wish** |
@@ -207,6 +207,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 * ᴀᴅᴊᴇᴄᴛɪᴠᴇ → ɴᴏᴜɴ **foremost**
 * **to be wise about**, **have information on**, **know** → **to know**, **be wise about**, **have information on**
 * **light**, **radiance** → **light**, …, **radiance**
+* **horizontal surface**; **thing to put or rest something on** → **horizontal surface**, **thing to put or rest something on**
 * **fragrant**, **sweet** → **sweet**, **fragrant**
 * **adorable**, …, **innocent** → **innocent**, **adorable**
 * **because of**, …, **from** → **from**, **because of**
@@ -216,3 +217,4 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 * **say**, **speak** → **say**, **speak**, **say**
 * **use language**; **think** → **use language**, **think**
 * **jaw**, **lips**, **mouth**, **oral cavity** → **mouth**, **lips**, **oral cavity**, **jaw**
+* **powerful**, **strong** → **strong**, **powerful**
