@@ -131,7 +131,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/suli.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | lili — ale, mute, **suli**, wawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **big**, **heavy**, **large**, **long**, **tall**; **important**; **adult** |
 | <img src="musi/sitelen/pona/suno.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | pimeja — **suno** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ bright, lit → ɴᴏᴜɴ **sun**; **brightness**, **glow**, **light**, **radiance**, **shine**; **light source** |
 | <img src="musi/sitelen/pona/supa.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | **supa** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ horizontal → ɴᴏᴜɴ **horizontal surface**, (lon -) on, **thing to put or rest something on** |
-| <img src="musi/sitelen/pona/suwi.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | jaki — **suwi** | **sweet**, **fragrant**; **cute**, **innocent**, **adorable** → sweets |
+| <img src="musi/sitelen/pona/suwi.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | jaki — **suwi** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **fragrant**, **sweet**; **adorable**, **cute**, **innocent** → ɴᴏᴜɴ sweets |
 | <img src="musi/sitelen/pona/tan.png" height="42">      | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | lon, **tan**, tawa | departing → **by**, **from**, **because of** |
 | <img src="musi/sitelen/pona/taso.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | pu — **taso** | independent; **only** → independent from; (- ni la) **but**, (- ni la) **however** |
 | <img src="musi/sitelen/pona/tawa.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | lon, tan, **tawa** | going, moving → **going to**, **toward**; **for**; **from the perspective of** |
@@ -207,4 +207,5 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 * ᴀᴅᴊᴇᴄᴛɪᴠᴇ → ɴᴏᴜɴ **foremost**
 * **to be wise about**, **have information on**, **know** → **to know**, **be wise about**, **have information on**
 * **light**, **radiance** → **light**, …, **radiance**
-
+* **fragrant**, **sweet** → **sweet**, **fragrant**
+* **adorable**, …, **innocent** → **innocent**, **adorable**
