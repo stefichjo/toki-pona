@@ -128,7 +128,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/sona.png" height="42">     | [ᴛʜɪɴɢ ᴠᴇʀʙ](nasin-toki.md#thing-verb) | nanpa, nimi, sitelen, **sona**, toki | ᴠᴇʀʙ **to be wise about**, **have information on**, **know** → ɴᴏᴜɴ knowledge |
 |                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | ken, lukin, open, **sona**, wile | ᴠᴇʀʙ **to be skilled in** → ᴘʀᴇ-ᴠᴇʀʙ **to know how to** |
 | <img src="musi/sitelen/pona/soweli.png" height="42">   | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#life-form-modifier) | akesi — **soweli** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ warm-blooded → ɴᴏᴜɴ **animal**, **beast**, **land mammal** |
-| <img src="musi/sitelen/pona/suli.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | lili — ale, mute, **suli**, wawa | **big**, **heavy**, **large**, **long**, **tall**; **important**; **adult** |
+| <img src="musi/sitelen/pona/suli.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | lili — ale, mute, **suli**, wawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **big**, **heavy**, **large**, **long**, **tall**; **important**; **adult** |
 | <img src="musi/sitelen/pona/suno.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | pimeja — **suno** | bright, lit → **sun**; **light**, **brightness**, **glow**, **radiance**, **shine**; **light source** |
 | <img src="musi/sitelen/pona/supa.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | **supa** | … → **horizontal surface**, **thing to put or rest something on** |
 | <img src="musi/sitelen/pona/suwi.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | jaki — **suwi** | **sweet**, **fragrant**; **cute**, **innocent**, **adorable** → sweets |
