@@ -6,7 +6,7 @@
 | [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) |
 | [ᴘᴀʀᴛɪᴄʟᴇ](#particle) |
 
-The main scope of this **Toki Pona Grammar** is to enable you to read the [Toki Pona Dictionary](ale-pi-nimi-mute.md).
+The main scope of this **Toki Pona Grammar** is to enable you to read the [Toki Pona Dictionary](ale-pi-nimi-mute.md). The grammar is based on [Toki Pona: The Language of Good](http://www.amazon.com/gp/product/0978292308) (the **Toki Pona Book**) by **Sonja Lang**, the creator of Toki Pona.
 
 👍 — Sections about **"Experimental Language"** describe "pu-compliant" ways of using the language, even though they are not mentioned explicitly in the **Toki Pona Book**.
 
@@ -38,17 +38,17 @@ The main scope of this **Toki Pona Grammar** is to enable you to read the [Toki 
 ## NOUN
 *(nimi suli lawa)*
 
-ꜱɪᴍᴘʟᴇ ɴᴏᴜɴs don't have an additional meaning as ᴍᴏᴅɪꜰɪᴇʀs or ᴠᴇʀʙs.
+ꜱɪᴍᴘʟᴇ ɴᴏᴜɴs don't have an additional meaning as ᴀᴅᴊᴇᴄᴛɪᴠᴇs or ᴠᴇʀʙs.
 
-| jan |
+| ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ jan |
 |:-|
-| *somebody* → *somebody's* |
+| ɴᴏᴜɴ *somebody* → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *somebody's* |
 
 ᴘʀᴏɴᴏᴜɴs are ꜱɪᴍᴘʟᴇ ɴᴏᴜɴs that refer to the speaker, the listener or a third person/object.
 
 | sina |
 |:-|
-| *you* → *your* |
+| ɴᴏᴜɴ *you* → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* |
 
 ## MODIFIER
 *(nimi suli poka)*
