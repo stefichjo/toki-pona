@@ -123,7 +123,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/sike.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | lipu, nena, **sike** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ round or circular; (- suno) **of one year** → ɴᴏᴜɴ **round or circular thing**; **ball**, **circle**, **cycle**, **sphere**, **wheel**, (- suno) year |
 | <img src="musi/sitelen/pona/sin.png" height="42">      | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | **sin** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh**; **additional**, **another**, **extra** |
 | <img src="musi/sitelen/pona/sina.png" height="42">     | [ᴘʀᴏɴᴏᴜɴ](nasin-toki.md#noun) | mi, ona, **sina** | ɴᴏᴜɴ **you**, ᴀᴅᴊᴇᴄᴛɪᴠᴇ your |
-| <img src="musi/sitelen/pona/sinpin.png" height="42">   | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | weka — insa, monsi, poka, **sinpin** | **foremost**, frontal → (- lawa) **face**, **front**, **wall** |
+| <img src="musi/sitelen/pona/sinpin.png" height="42">   | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | weka — insa, monsi, poka, **sinpin** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **foremost**, frontal → ɴᴏᴜɴ (- sijelo) chest, (- lawa) **face**, **front**, **wall** |
 | <img src="musi/sitelen/pona/sitelen.png" height="42">  | [ᴛʜɪɴɢ ᴠᴇʀʙ](nasin-toki.md#thing-verb) | nanpa, nimi, **sitelen**, sona, toki | to draw, project, represent → **image**, **picture**, **representation**, **symbol**, **mark**, **writing** |
 | <img src="musi/sitelen/pona/sona.png" height="42">     | [ᴛʜɪɴɢ ᴠᴇʀʙ](nasin-toki.md#thing-verb) | nanpa, nimi, sitelen, **sona**, toki | **to know**, **be skilled in**, **be wise about**, **have information on** → knowledge |
 |                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | ken, lukin, open, **sona**, wile | **to know how to** |
@@ -249,3 +249,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 🤔 **highest part**; **something elevated** → **highest part**, **something elevated**
 
 🤔 **body (of person or animal)**, **torso**; **physical state** → **body (of person or animal)**, **physical state**, **torso**
+
+🤔 ᴀᴅᴊᴇᴄᴛɪᴠᴇ → ɴᴏᴜɴ **foremost**
+
+
