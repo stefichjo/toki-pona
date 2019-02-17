@@ -100,7 +100,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/palisa.png" height="42">   | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | linja — **palisa** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ long and hard → ɴᴏᴜɴ **long hard thing**; **branch**, **rod**, **stick** |
 |                                                        | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, **palisa**, pilin, poki, selo, tomo, uta | ᴠᴇʀʙ to point to → ɴᴏᴜɴ finger |
 | <img src="musi/sitelen/pona/pan.png" height="42">      | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | kili, **pan** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ falling → ɴᴏᴜɴ **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** |
-| <img src="musi/sitelen/pona/pana.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](nasin-toki.md#simple-verb) | jo, **pana** | **to give**, **send**, **emit**, **provide**, **put**, **release** |
+| <img src="musi/sitelen/pona/pana.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](nasin-toki.md#simple-verb) | jo, **pana** | ᴠᴇʀʙ **to emit**, **give**, **provide**, **put**, **release**,  **send** |
 | <img src="musi/sitelen/pona/pi.png" height="42">       | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](nasin-toki.md#phrase-particle) | e, li, o, **pi** | (between two ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs), **of** |
 | <img src="musi/sitelen/pona/pilin.png" height="42">    | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, **pilin**, poki, selo, tomo, uta | **feeling (an emotion, a direct experience)** ­→ **heart (physical or emotional)** |
 | <img src="musi/sitelen/pona/pimeja.png" height="42">   | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | **pimeja** — walo | **black** |
@@ -229,3 +229,5 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 🤔 **she**, **it** → **it**, **she**
 
 🤔 **to open**; **begin**, … → **to begin**, …; **open**
+
+🤔 **to emit**, **give**, …,  **send** → **to give**,  **send**, **emit**, …
