@@ -98,7 +98,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/pakala.png" height="42">   | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | pona — ike, nasa, **pakala**, utala | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **botched**, **broken**, **damaged**, **harmed**, **messed up** |
 | <img src="musi/sitelen/pona/pali.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](nasin-toki.md#simple-verb) | alasa, **pali** | ᴠᴇʀʙ **to do**, **take action on**, **work on**; (- ale) **build**, **make**, **prepare** |
 | <img src="musi/sitelen/pona/palisa.png" height="42">   | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | linja — **palisa** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ long and hard → ɴᴏᴜɴ **long hard thing**; **branch**, **rod**, **stick** |
-|                                                        | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, **palisa**, pilin, poki, selo, tomo, uta | to point to → finger |
+|                                                        | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, **palisa**, pilin, poki, selo, tomo, uta | ᴠᴇʀʙ to point to → ɴᴏᴜɴ finger |
 | <img src="musi/sitelen/pona/pan.png" height="42">      | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | kili, **pan** | falling → **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** |
 | <img src="musi/sitelen/pona/pana.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](nasin-toki.md#simple-verb) | jo, **pana** | **to give**, **send**, **emit**, **provide**, **put**, **release** |
 | <img src="musi/sitelen/pona/pi.png" height="42">       | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](nasin-toki.md#phrase-particle) | e, li, o, **pi** | (between two ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs), **of** |
