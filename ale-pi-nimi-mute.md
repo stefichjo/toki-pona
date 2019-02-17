@@ -6,7 +6,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | sitelen | paradigm | word | meaning |
 |:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/a.png" height="42">        | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-toki.md#interjection) | mu — **a**, ala | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)** → ꜱᴇɴᴛᴇɴᴄᴇ yes! |
-| <img src="musi/sitelen/pona/akesi.png" height="42">    | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#life-form-modifier) | **akesi** — soweli | ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded → ɴᴏᴜɴ **non-cute animal**; **reptile**, **amphibian**; monster |
+| <img src="musi/sitelen/pona/akesi.png" height="42">    | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#life-form-modifier) | **akesi** — soweli | ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded → ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; monster |
 | <img src="musi/sitelen/pona/ala.png" height="42">      | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-toki.md#interjection) | mu — a, **ala** | ᴘᴀʀᴛɪᴄʟᴇ (negation) → ꜱᴇɴᴛᴇɴᴄᴇ outch!, no! |
 |                                                        | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nasin-toki.md#correlative) | **ala**, ale, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **no**, ᴀᴅᴠᴇʀʙ **not** → ɴᴏᴜɴ none, nothing |
 |                                                        | [**ɴᴜᴍʙᴇʀ**](nasin-toki.md#number) | **ala**, ale, esun, luka, mute, tu, wan | ɴᴜᴍʙᴇʀ 0, **zero** |
@@ -158,6 +158,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 
 ## Deviations
 
+* **amphibian**, **reptile** → **reptile**, **amphibian**
 * ᴀᴅᴠᴇʀʙ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **not**
 * ɴᴜᴍʙᴇʀ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **zero**
 * **lowly**; **dependent** → **lowly**, **dependent**

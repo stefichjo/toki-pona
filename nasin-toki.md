@@ -85,7 +85,7 @@ As a [ɴᴏᴜɴ](#noun), ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs imply "ijo".
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ round → ɴᴏᴜɴ something round |
 
-[ɴᴏᴜɴ](#noun)s can imply food.
+All [ɴᴏᴜɴ](#noun)s can imply food.
 
 | telo |
 |:-|
@@ -158,9 +158,9 @@ In a [genitive](#genitive) clause, "ijo" before a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ 
 
 👍 As [ɴᴏᴜɴ](#noun)s, ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀs imply "sijelo" meaning "life-form".
 
-| akesi |
+| ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ akesi |
 |:-|
-| *cold-blooded* → *reptile*, *amphibian* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded → ɴᴏᴜɴ amphibian, reptile |
 
 ### ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀ
 *([nimi suli poka](#modifier) jan)*
