@@ -105,9 +105,9 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/pilin.png" height="42">    | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, **pilin**, poki, selo, tomo, uta | ᴠᴇʀʙ to feel, ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (an emotion, a direct experience)** ­→ ɴᴏᴜɴ **heart (physical or emotional)** |
 | <img src="musi/sitelen/pona/pimeja.png" height="42">   | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | **pimeja** — walo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **black** |
 |                                                        | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | **pimeja** — suno | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dark**, **unlit** → ɴᴏᴜɴ shadow |
-| <img src="musi/sitelen/pona/pini.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | awen, kama, **pini** | **ago**, **completed**, **ended**, **finished**, **past** |
-|                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | awen, kama, **pini** | to stop → to stop to |
-| <img src="musi/sitelen/pona/pipi.png" height="42">     | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#life-form-modifier) | kala, kasi, **pipi**, waso | crawling → **bug**, **insect**, **ant**, **spider** |
+| <img src="musi/sitelen/pona/pini.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | awen, kama, **pini** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **ago**, **completed**, **ended**, **finished**, **past** |
+|                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | awen, kama, **pini** | ᴠᴇʀʙ to stop → ᴘʀᴇ-ᴠᴇʀʙ to stop to |
+| <img src="musi/sitelen/pona/pipi.png" height="42">     | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#life-form-modifier) | kala, kasi, **pipi**, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ crawling → ɴᴏᴜɴ **ant**, **bug**, **insect**, **spider** |
 | <img src="musi/sitelen/pona/poka.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | **poka** — monsi, sinpin | adjacent → **hip**, **next to**, **side** |
 |                                                        | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | weka — insa, **poka**, sin | near, **nearby**, neighbouring → **vicinity** |
 | <img src="musi/sitelen/pona/poki.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, **poki**, selo, tomo, uta | to contain, keep, be full of → bladder; **container**, **bag**, **bowl**, **box**, **cup**, **cupboard**, **drawer**, **vessel** |
@@ -232,4 +232,4 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 
 🤔 **to emit**, **give**, …,  **send** → **to give**,  **send**, **emit**, …
 
-
+🤔 **ant**, **bug**, **insect** → **bug**, **insect**, **ant**
