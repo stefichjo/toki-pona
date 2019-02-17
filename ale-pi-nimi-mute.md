@@ -25,12 +25,12 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/en.png" height="42">       | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](nasin-toki.md#conjunction) | anu — **en** | ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, (between multiple ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs belonging to the same ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ) |
 | <img src="musi/sitelen/pona/esun.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | **esun**, kepeken, pu | ᴀᴅᴊᴇᴄᴛɪᴠᴇ replacing, ɴᴏᴜɴ exchange, replacement; **business transaction**; **bazaar**, **fair**, **market**, **shop** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ instead of |
 |                                                        | [ɴᴜᴍʙᴇʀ](nasin-toki.md#number) | ala, ale, **esun**, luka, mute, tu, wan | ɴᴜᴍʙᴇʀ 7, seven |
-| <img src="musi/sitelen/pona/ijo.png" height="42">      | [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](nasin-toki.md#noun) | **ijo**, ilo, jan | ɴᴏᴜɴ **matter**, **object**, **phenomenon**, **thing**; location, place; case |
+| <img src="musi/sitelen/pona/ijo.png" height="42">      | [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](nasin-toki.md#noun) | **ijo**, ilo, jan, tenpo | ɴᴏᴜɴ **matter**, **object**, **phenomenon**, **thing**; location, place; case |
 | <img src="musi/sitelen/pona/ike.png" height="42">      | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | pona — **ike**, nasa, pakala, utala | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bad**, **negative**; **irrelevant**, **non-essential** |
-| <img src="musi/sitelen/pona/ilo.png" height="42">      | [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](nasin-toki.md#noun) | ijo, **ilo**, jan | ɴᴏᴜɴ **device**, **implement**, **machine**, **tool**; body part |
+| <img src="musi/sitelen/pona/ilo.png" height="42">      | [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](nasin-toki.md#noun) | ijo, **ilo**, jan, tenpo | ɴᴏᴜɴ **device**, **implement**, **machine**, **tool**; body part |
 | <img src="musi/sitelen/pona/insa.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | weka — **insa**, monsi, poka, sinpin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner → ɴᴏᴜɴ **centre**, **content**, **inside**; (lon -) **between**; **internal organ**, **stomach** |
 | <img src="musi/sitelen/pona/jaki.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | **jaki** — suwi | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** → ɴᴏᴜɴ dirt, poison, waste |
-| <img src="musi/sitelen/pona/jan.png" height="42">      | [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](nasin-toki.md#noun) | ijo, ilo, **jan** | ɴᴏᴜɴ **human being**, **person**, **somebody** |
+| <img src="musi/sitelen/pona/jan.png" height="42">      | [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](nasin-toki.md#noun) | ijo, ilo, **jan**, tenpo | ɴᴏᴜɴ **human being**, **person**, **somebody** |
 | <img src="musi/sitelen/pona/jelo.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | **jelo**, laso, loje | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **yellow**, **yellowish** |
 | <img src="musi/sitelen/pona/jo.png" height="42">       | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](nasin-toki.md#simple-verb) | **jo**, pana | ᴠᴇʀʙ **to carry**, **contain**, **have**, **hold** |
 | <img src="musi/sitelen/pona/kala.png" height="42">     | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#life-form-modifier) | **kala**, kasi, pipi, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ swimming → ɴᴏᴜɴ **fish**, **marine animal**, **sea creature** |
@@ -136,7 +136,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/taso.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | sin, **taso** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ free, independent, missing; **only** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ free from, independent from, without; (- ni la) **but**, **however** |
 | <img src="musi/sitelen/pona/tawa.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | lon, tan, **tawa** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ going, **moving**, traveling → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **going to**, **toward**; **for**; **from the perspective of** |
 | <img src="musi/sitelen/pona/telo.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | kiwen, ko, kon, **telo** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ fluid, liquid, wet → ɴᴏᴜɴ **fluid**, **liquid**, **water**, **wet substance**; **beverage** |
-| <img src="musi/sitelen/pona/tenpo.png" height="42">    | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | **tenpo** | ephemeral, interim, provisional → **time**, **duration**, **moment**, **occasion**, **period**, **situation** |
+| <img src="musi/sitelen/pona/tenpo.png" height="42">    | [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](nasin-toki.md#noun) | ijo, ilo, jan, **tenpo** | ɴᴏᴜɴ **duration**, **moment**, **occasion**, **period**, **situation**, **time** |
 | <img src="musi/sitelen/pona/toki.png" height="42">     | [ᴛʜɪɴɢ ᴠᴇʀʙ](nasin-toki.md#thing-verb) | nanpa, nimi, sitelen, sona, **toki** | **to communicate**, **say**, **speak**, **say**, **talk**, **use language**, **think** → language |
 | <img src="musi/sitelen/pona/tomo.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, **tomo**, uta | to protect → skeleton, thorax; **indoor space**; **building**, **home**, **house**, **room** |
 | <img src="musi/sitelen/pona/tu.png" height="42">       | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | **tu** — wan | parallel, redundant |
@@ -212,4 +212,4 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 * **because of**, …, **from** → **from**, **because of**
 * ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ → ᴘᴀʀᴛɪᴄʟᴇ **but**, **however**
 * **fluid**, **liquid**, **water** → **water**, **liquid**, **fluid**
-
+* **duration**, …, **time** → **time**, **duration**
