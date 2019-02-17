@@ -113,8 +113,8 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/pona.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | **pona** – ike, nasa, pakala, utala | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **good**, **positive**, **useful**; **friendly**, **peaceful**; **simple** |
 | <img src="musi/sitelen/pona/pu.png" height="42">       | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | **pu** — taso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ according → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ according to, (- lipu pi toki pona) **interacting with the Toki Pona book** |
 |                                                        | [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](nasin-toki.md#simple-particle) | **Pu** | ᴘᴀʀᴛɪᴄʟᴇ name of the Toki Pona book |
-| <img src="musi/sitelen/pona/sama.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | ante — **sama** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **same**, **similar**; herself, himself, themselves; **each other**; **fellow**, **peer**, **sibling** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **as**, **like** |
-| <img src="musi/sitelen/pona/seli.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | lete — **seli** | warm; cooked → **fire**; **cooking element**, **chemical reaction**, **heat source** |
+| <img src="musi/sitelen/pona/sama.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | ante — **sama** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **same**, **similar**; -self, -selves; **each other**; **fellow**, **peer**, **sibling** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **as**, **like** |
+| <img src="musi/sitelen/pona/seli.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | lete — **seli** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ warm; cooked → ɴᴏᴜɴ **chemical reaction**, **fire**, **heat source**; **cooking element** |
 | <img src="musi/sitelen/pona/selo.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, **selo**, tomo, uta | to form → **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary** |
 |                                                        | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | open — **selo** | closed, confined |
 | <img src="musi/sitelen/pona/seme.png" height="42">     | [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](nasin-toki.md#correlative) | ala, ale, ni, **seme**, wan | **which?** → **what?**, which one? |
@@ -242,4 +242,5 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 
 🤔 **fellow**, …, **sibling** → **sibling**, …, **fellow**
 
+🤔 **chemical reaction**, **fire**, **heat source**; **cooking element** → **fire**; **cooking element**, **chemical reaction**, **heat source**
 
