@@ -152,9 +152,9 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 |                                                        | [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](nasin-toki.md#correlative) | ala, ale, ni, seme, **wan** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ specific → ɴᴏᴜɴ something specific |
 | <img src="musi/sitelen/pona/waso.png" height="42">     | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#life-form-modifier) | kala, kasi, pipi, **waso** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ flying, winging → ɴᴏᴜɴ **bird**, **flying creature**, **winged animal** |
 | <img src="musi/sitelen/pona/wawa.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | lili — ale, mute, suli, **wawa** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **powerful**, **strong**; 🤔 (sona -) **confident**, **sure**; **energetic**, **intense** |
-| <img src="musi/sitelen/pona/weka.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | **weka** — insa, monsi, poka, sinpin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**; **ignored**, ɴᴏᴜɴ absence → ɴᴏᴜɴ (lon -) away from, distance |
-| <img src="musi/sitelen/pona/wile.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | ken, **wile** | necessary |
-|                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | ken, lukin, open, sona, **wile** | to decide for → **must**, **need**, **require**, **should**, **want**, **wish** |
+| <img src="musi/sitelen/pona/weka.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | **weka** — insa, monsi, poka, sinpin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**; **ignored**, ɴᴏᴜɴ absence, (lon -) without → ɴᴏᴜɴ (lon -) away from, distance |
+| <img src="musi/sitelen/pona/wile.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | ken, **wile** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ necessary |
+|                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | ken, lukin, open, sona, **wile** | ᴠᴇʀʙ to decide for → ᴘʀᴇ-ᴠᴇʀʙ **must**, **need**, **require**, **should**, **want**, **wish** |
 
 ## Deviations
 
