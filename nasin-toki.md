@@ -38,13 +38,13 @@ The main scope of this **Toki Pona Grammar** is to enable you to read the [Toki 
 ## NOUN
 *(nimi suli lawa)*
 
-ꜱɪᴍᴘʟᴇ ɴᴏᴜɴs don't have an additional meaning as ᴀᴅᴊᴇᴄᴛɪᴠᴇs or ᴠᴇʀʙs.
+ꜱɪᴍᴘʟᴇ ɴᴏᴜɴs don't have an additional meaning as ᴀᴅᴊᴇᴄᴛɪᴠᴇs (or ᴠᴇʀʙs).
 
 | ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ jan |
 |:-|
 | ɴᴏᴜɴ *somebody*, ᴀᴅᴊᴇᴄᴛɪᴠᴇ *somebody's* |
 
-ᴘʀᴏɴᴏᴜɴs are ꜱɪᴍᴘʟᴇ ɴᴏᴜɴs that refer to the speaker, the listener or a third person/object.
+ᴘʀᴏɴᴏᴜɴs are ꜱɪᴍᴘʟᴇ ɴᴏᴜɴs that refer to the speaker, the listener or a third person (or object).
 
 | ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ sina |
 |:-|
@@ -67,7 +67,7 @@ The main scope of this **Toki Pona Grammar** is to enable you to read the [Toki 
 | [↑](#modifier) |
 |:-|
 
-ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀs don't imply additional meaning when used as [ɴᴏᴜɴ](#noun)s or [ᴠᴇʀʙ](#verb)s.
+ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀs don't imply additional meaning when used as [ᴠᴇʀʙ](#verb)s or [ɴᴏᴜɴ](#noun)s.
 
 | ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ wawa | mi wawa. | wawa li lon insa. | telo li wawa e mi. |
 |:-|:-|:-|:-|
@@ -84,21 +84,21 @@ The main scope of this **Toki Pona Grammar** is to enable you to read the [Toki 
 
 As a [ɴᴏᴜɴ](#noun), ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs imply "ijo".
 
-| sike |
+| ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ sike |
 |:-|
-| *round* → *something round* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round* → ɴᴏᴜɴ *something round* |
 
-ɴᴏᴜɴs that describe food seem to imply "ijo".
+[ɴᴏᴜɴ](#noun)s can imply food.
 
-| moku | pan | soweli |
-|:-|:-|:-|
-| *mouthful* → *food* | *seed* → *bread* | *mammal* → *meat* |
+| telo |
+|:-|
+| ɴᴏᴜɴ *water*; *beverage* |
 
-👎 As [ɴᴏᴜɴ](#noun)s, the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s "ante" and "sama" can imply "ijo".
+👎 All [ɴᴏᴜɴ](#noun)s can imply "ijo".
 
-| ante | sama |
-|:-|:-|
-| *different* → *something different* | *similar* → *something similar* |
+| sama |
+|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *similar* → ɴᴏᴜɴ *something similar* |
 
 #### CORRELATIVE
 *(nimi suli poka palisa)*
