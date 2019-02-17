@@ -132,7 +132,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/suno.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | pimeja — **suno** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ bright, lit → ɴᴏᴜɴ **sun**; **brightness**, **glow**, **light**, **radiance**, **shine**; **light source** |
 | <img src="musi/sitelen/pona/supa.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | **supa** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ horizontal → ɴᴏᴜɴ **horizontal surface**, (lon -) on, **thing to put or rest something on** |
 | <img src="musi/sitelen/pona/suwi.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | jaki — **suwi** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **fragrant**, **sweet**; **adorable**, **cute**, **innocent** → ɴᴏᴜɴ sweets |
-| <img src="musi/sitelen/pona/tan.png" height="42">      | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | lon, **tan**, tawa | departing → **by**, **from**, **because of** |
+| <img src="musi/sitelen/pona/tan.png" height="42">      | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | lon, **tan**, tawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ departing → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **because of**, **by**, **from** |
 | <img src="musi/sitelen/pona/taso.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | pu — **taso** | independent; **only** → independent from; (- ni la) **but**, (- ni la) **however** |
 | <img src="musi/sitelen/pona/tawa.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | lon, tan, **tawa** | going, moving → **going to**, **toward**; **for**; **from the perspective of** |
 | <img src="musi/sitelen/pona/telo.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | kiwen, ko, kon, **telo** | liquid, fluid, wet → **water**, **liquid**, **fluid**, **wet substance**; **beverage** |
@@ -209,3 +209,5 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 * **light**, **radiance** → **light**, …, **radiance**
 * **fragrant**, **sweet** → **sweet**, **fragrant**
 * **adorable**, …, **innocent** → **innocent**, **adorable**
+* **because of**, …, **from** → **from**, **because of**
+
