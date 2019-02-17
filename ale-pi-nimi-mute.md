@@ -141,7 +141,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/tomo.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, **tomo**, uta | ᴠᴇʀʙ to protect, shield → ɴᴏᴜɴ skeleton, thorax; **indoor space**; **building**, **home**, **house**, **room** |
 | <img src="musi/sitelen/pona/tu.png" height="42">       | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | **tu** — wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ parallel, redundant |
 |                                                        | [ɴᴜᴍʙᴇʀ](nasin-toki.md#number) | ala, ale, esun, luka, mute, **tu**, wan | ɴᴜᴍʙᴇʀ 2, **two** |
-| <img src="musi/sitelen/pona/unpa.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](nasin-toki.md#simple-verb) | olin, **unpa** | **to have sexual or marital relations with** |
+| <img src="musi/sitelen/pona/unpa.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](nasin-toki.md#simple-verb) | olin, **unpa** | ᴠᴇʀʙ **to have sexual or marital relations with** |
 | <img src="musi/sitelen/pona/uta.png" height="42">      | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, selo, **uta** | to suck, kiss → **mouth**, **lips**, **oral cavity**, **jaw** |
 | <img src="musi/sitelen/pona/utala.png" height="42">    | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | pona — ike, nasa, pakala, **utala** | aggressive; **to battle**, **challenge**, **compete against**, **struggle against** |
 | <img src="musi/sitelen/pona/walo.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | pimeja — **walo** | **white**, **whitish** |
