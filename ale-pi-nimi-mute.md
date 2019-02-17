@@ -124,9 +124,9 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/sin.png" height="42">      | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | **sin** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh**; **additional**, **another**, **extra** |
 | <img src="musi/sitelen/pona/sina.png" height="42">     | [ᴘʀᴏɴᴏᴜɴ](nasin-toki.md#noun) | mi, ona, **sina** | ɴᴏᴜɴ **you**, ᴀᴅᴊᴇᴄᴛɪᴠᴇ your |
 | <img src="musi/sitelen/pona/sinpin.png" height="42">   | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | weka — insa, monsi, poka, **sinpin** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **foremost**, frontal → ɴᴏᴜɴ (- sijelo) chest, (- lawa) **face**, **front**, **wall** |
-| <img src="musi/sitelen/pona/sitelen.png" height="42">  | [ᴛʜɪɴɢ ᴠᴇʀʙ](nasin-toki.md#thing-verb) | nanpa, nimi, **sitelen**, sona, toki | ᴀᴅᴊᴇᴄᴛɪᴠᴇ to draw, project, represent → ɴᴏᴜɴ **image**, **picture**, projection, **representation**, sculpture, **symbol**, **mark**, **writing** |
-| <img src="musi/sitelen/pona/sona.png" height="42">     | [ᴛʜɪɴɢ ᴠᴇʀʙ](nasin-toki.md#thing-verb) | nanpa, nimi, sitelen, **sona**, toki | **to know**, **be skilled in**, **be wise about**, **have information on** → knowledge |
-|                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | ken, lukin, open, **sona**, wile | **to know how to** |
+| <img src="musi/sitelen/pona/sitelen.png" height="42">  | [ᴛʜɪɴɢ ᴠᴇʀʙ](nasin-toki.md#thing-verb) | nanpa, nimi, **sitelen**, sona, toki | ᴠᴇʀʙ to draw, project, represent, sculpture → ɴᴏᴜɴ **image**, **picture**, projection, **representation**, sculpture, **symbol**, **mark**, **writing** |
+| <img src="musi/sitelen/pona/sona.png" height="42">     | [ᴛʜɪɴɢ ᴠᴇʀʙ](nasin-toki.md#thing-verb) | nanpa, nimi, sitelen, **sona**, toki | ᴠᴇʀʙ **to be wise about**, **have information on**, **know** → ɴᴏᴜɴ knowledge |
+|                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | ken, lukin, open, **sona**, wile | ᴠᴇʀʙ **be skilled in** → ᴘʀᴇ-ᴠᴇʀʙ **to know how to** |
 | <img src="musi/sitelen/pona/soweli.png" height="42">   | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#life-form-modifier) | akesi — **soweli** | warm-blooded → **animal**, **beast**, **land mammal** |
 | <img src="musi/sitelen/pona/suli.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | lili — ale, mute, **suli**, wawa | **big**, **heavy**, **large**, **long**, **tall**; **important**; **adult** |
 | <img src="musi/sitelen/pona/suno.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | pimeja — **suno** | bright, lit → **sun**; **light**, **brightness**, **glow**, **radiance**, **shine**; **light source** |
@@ -158,98 +158,52 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 
 ## Deviations
 
-🤔 ᴀᴅᴠᴇʀʙ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **not**
-
-🤔 ɴᴜᴍʙᴇʀ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **zero**
-
-🤔 **lowly**; **dependent** → **lowly**, **dependent**
-
-🤔 **staying**, **waiting** → **waiting**, **staying**
-
-🤔 **business transaction**; **bazaar**, **fair**, **market**, **shop** →  **market**, **shop**, **fair**, **bazaar**, **business transaction**
-
-🤔 **matter**, **object**, **phenomenon**, **thing** → **thing**, **phenomenon**, **object**, **matter**
-
-🤔 **irrelevant**, **non-essential** → **non-essential**, **irrelevant**
-
-🤔 **device**, **implement**, **machine**, **tool** → **tool**, **implement**, **machine**, **device**
-
-🤔 **inside**; **between** → **inside**, **between**
-
-🤔 **to carry**, **contain**, **have** → **to have**, **carry**, **contain**
-
-🤔 ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound**, ᴠᴇʀʙ **to recite** → ᴠᴇʀʙ **to produce a sound**; **recite**
-
-🤔 **to become**; **manage to** → **to become**, **manage to**
-
-🤔 **by means of**, **using**, **with** → **to use**, **with**, **by means of**
-
-🤔 **fruit**; **mushroom**, **vegetable** → **fruit**, **vegetable**, **mushroom**
-
-🤔 **painted**; **pigmented** → **pigmented**, **painted**
-
-🤔 **resting**, **sleeping** → **sleeping**, **resting**
-
-🤔 **(between any subject except mi alone or sina alone and its predicate → ᴠᴇʀʙ; also to introduce a new predicate → ᴠᴇʀʙ for the same subject)**
-
-🤔 **card**, **document** → **document**, **card**
-
-🤔 ᴀᴅᴊᴇᴄᴛɪᴠᴇ **existing**, **real**, **true** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **real**, **true**, **existing**
-
-🤔 **ancestor**, **parent** → **parent**, **ancestor**
-
-🤔 **large domesticated animal**; **cash**, **money** → **money**, **cash**; **large domesticated animal**
-
-🤔 **woman**, **female**, **feminine person** → **female**, **feminine person**, **woman**
-
-🤔 **I**/**me**, **we**/**us** → **I**, **me**, **we**, **us**
-
-🤔 **male**, **man** → **man**, **male**
-
-🤔 **to consume**, **drink**, **eat**, **ingest**, **swallow** → **to eat**, **drink**, **consume**, **swallow**, **ingest**
-
-🤔 **a lot**, **many** → **many**, **a lot**
-
-🤔 ᴀᴅᴠᴇʀʙ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **very**
-
-🤔 **number** → **numbers**
-
-🤔 **(ordinal number)**, **-th** → **-th (ordinal number)**
-
-🤔 **strange**, **unusual** → **unusual**, **strange**
-
-🤔 **crazy**, **foolish** → **foolish**, **crazy**
-
-🤔 **road**, **way** → **way**, …, **road**
-
-🤔 **lowest part** → **lower part**
-
-🤔 **to have compassion for**, **love** → **to love**, **have compassion for**
-
-🤔 **she**, **it** → **it**, **she**
-
-🤔 **to open**; **begin**, … → **to begin**, …; **open**
-
-🤔 **to emit**, **give**, …,  **send** → **to give**,  **send**, **emit**, …
-
-🤔 **ant**, **bug**, **insect** → **bug**, **insect**, **ant**
-
-🤔 ᴀᴅᴊᴇᴄᴛɪᴠᴇ → ɴᴏᴜɴ  **nearby**
-
-🤔 **box**, **container** → **container**, …, **box**
-
-🤔 ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **interacting with the Toki Pona book**
-
-🤔 **fellow**, …, **sibling** → **sibling**, …, **fellow**
-
-🤔 **chemical reaction**, **fire**, **heat source**; **cooking element** → **fire**; **cooking element**, **chemical reaction**, **heat source**
-
-🤔 ᴀᴅᴊᴇᴄᴛɪᴠᴇ **what**, **which** → ᴘᴀʀᴛɪᴄʟᴇ **what? which?**
-
-🤔 **highest part**; **something elevated** → **highest part**, **something elevated**
-
-🤔 **body (of person or animal)**, **torso**; **physical state** → **body (of person or animal)**, **physical state**, **torso**
-
-🤔 ᴀᴅᴊᴇᴄᴛɪᴠᴇ → ɴᴏᴜɴ **foremost**
-
+* ᴀᴅᴠᴇʀʙ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **not**
+* ɴᴜᴍʙᴇʀ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **zero**
+* **lowly**; **dependent** → **lowly**, **dependent**
+* **staying**, **waiting** → **waiting**, **staying**
+* **business transaction**; **bazaar**, **fair**, **market**, **shop** →  **market**, **shop**, **fair**, **bazaar**, **business transaction**
+* **matter**, **object**, **phenomenon**, **thing** → **thing**, **phenomenon**, **object**, **matter**
+* **irrelevant**, **non-essential** → **non-essential**, **irrelevant**
+* **device**, **implement**, **machine**, **tool** → **tool**, **implement**, **machine**, **device**
+* **inside**; **between** → **inside**, **between**
+* **to carry**, **contain**, **have** → **to have**, **carry**, **contain**
+* ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound**, ᴠᴇʀʙ **to recite** → ᴠᴇʀʙ **to produce a sound**; **recite**
+* **to become**; **manage to** → **to become**, **manage to**
+* **by means of**, **using**, **with** → **to use**, **with**, **by means of**
+* **fruit**; **mushroom**, **vegetable** → **fruit**, **vegetable**, **mushroom**
+* **painted**; **pigmented** → **pigmented**, **painted**
+* **resting**, **sleeping** → **sleeping**, **resting**
+* **(between any subject except mi alone or sina alone and its predicate → ᴠᴇʀʙ; also to introduce a new predicate → ᴠᴇʀʙ for the same subject)**
+* **card**, **document** → **document**, **card**
+* ᴀᴅᴊᴇᴄᴛɪᴠᴇ **existing**, **real**, **true** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **real**, **true**, **existing**
+* **ancestor**, **parent** → **parent**, **ancestor**
+* **large domesticated animal**; **cash**, **money** → **money**, **cash**; **large domesticated animal**
+* **woman**, **female**, **feminine person** → **female**, **feminine person**, **woman**
+* **I**/**me**, **we**/**us** → **I**, **me**, **we**, **us**
+* **male**, **man** → **man**, **male**
+* **to consume**, **drink**, **eat**, **ingest**, **swallow** → **to eat**, **drink**, **consume**, **swallow**, **ingest**
+* **a lot**, **many** → **many**, **a lot**
+* ᴀᴅᴠᴇʀʙ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **very**
+* **number** → **numbers**
+* **(ordinal number)**, **-th** → **-th (ordinal number)**
+* **strange**, **unusual** → **unusual**, **strange**
+* **crazy**, **foolish** → **foolish**, **crazy**
+* **road**, **way** → **way**, …, **road**
+* **lowest part** → **lower part**
+* **to have compassion for**, **love** → **to love**, **have compassion for**
+* **she**, **it** → **it**, **she**
+* **to open**; **begin**, … → **to begin**, …; **open**
+* **to emit**, **give**, …,  **send** → **to give**,  **send**, **emit**, …
+* **ant**, **bug**, **insect** → **bug**, **insect**, **ant**
+* ᴀᴅᴊᴇᴄᴛɪᴠᴇ → ɴᴏᴜɴ  **nearby**
+* **box**, **container** → **container**, …, **box**
+* ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **interacting with the Toki Pona book**
+* **fellow**, …, **sibling** → **sibling**, …, **fellow**
+* **chemical reaction**, **fire**, **heat source**; **cooking element** → **fire**; **cooking element**, **chemical reaction**, **heat source**
+* ᴀᴅᴊᴇᴄᴛɪᴠᴇ **what**, **which** → ᴘᴀʀᴛɪᴄʟᴇ **what? which?**
+* **highest part**; **something elevated** → **highest part**, **something elevated**
+* **body (of person or animal)**, **torso**; **physical state** → **body (of person or animal)**, **physical state**, **torso**
+* ᴀᴅᴊᴇᴄᴛɪᴠᴇ → ɴᴏᴜɴ **foremost**
+* **to be wise about**, **have information on**, **know** → **to know**, **be wise about**, **have information on**
 
