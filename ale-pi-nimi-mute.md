@@ -150,7 +150,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 |                                                        | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | ale — **wan** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ (- lili) partial, (- nasa) **unique** → ɴᴏᴜɴ (- lili) part |
 |                                                        | [ɴᴜᴍʙᴇʀ](nasin-toki.md#number) | ala, ale, esun, luka, mute, tu, **wan** | ɴᴜᴍʙᴇʀ 1, **one** |
 |                                                        | [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](nasin-toki.md#correlative) | ala, ale, ni, seme, **wan** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ specific → ɴᴏᴜɴ something specific |
-| <img src="musi/sitelen/pona/waso.png" height="42">     | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#life-form-modifier) | kala, kasi, pipi, **waso** | flying → **bird**, **flying creature**, **winged animal** |
+| <img src="musi/sitelen/pona/waso.png" height="42">     | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#life-form-modifier) | kala, kasi, pipi, **waso** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ flying, winging → ɴᴏᴜɴ **bird**, **flying creature**, **winged animal** |
 | <img src="musi/sitelen/pona/wawa.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | lili — ale, mute, suli, **wawa** | **strong**, **powerful**; **confident**, **sure**; **energetic**, **intense** |
 | <img src="musi/sitelen/pona/weka.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | **weka** — insa, monsi, poka, sinpin | **absent**, **away**; **ignored** → absence, distance |
 | <img src="musi/sitelen/pona/wile.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | ken, **wile** | necessary |
