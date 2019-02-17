@@ -16,7 +16,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 |                                                        | [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](nasin-toki.md#correlative) | ala, **ale**, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **every** → ɴᴏᴜɴ **everything** |
 |                                                        | [ɴᴜᴍʙᴇʀ](nasin-toki.md#number) | ala, **ale**, esun, luka, mute, tu, wan | ɴᴜᴍʙᴇʀ 🤔 **100**, infinite |
 |                                                        | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | lili — **ale**, mute, suli, wawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **countless**, **bountiful**, **plentiful**, ɴᴏᴜɴ **abundance** |
-| <img src="musi/sitelen/pona/anpa.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | **anpa** — sewi, lawa — noka | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bowing down**, **downward**, **humble**, **lowly**; **dependent** → ɴᴏᴜɴ area below |
+| <img src="musi/sitelen/pona/anpa.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | **anpa** — sewi, lawa — noka | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bowing down**, **downward**, **humble**, **lowly**; **dependent** → ɴᴏᴜɴ area below; dependence |
 | <img src="musi/sitelen/pona/ante.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | **ante** — sama | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **different**, **altered**, **changed**, **other** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ than |
 | <img src="musi/sitelen/pona/anu.png" height="42">      | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](nasin-toki.md#conjunction) | **anu** — en | ᴘᴀʀᴛɪᴄʟᴇ (alternative), **or** |
 | <img src="musi/sitelen/pona/awen.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | **awen**, kama, pini | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**, **protected**, **safe**, **staying**, **waiting** |
@@ -111,7 +111,8 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/poka.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | weka — insa, monsi, **poka**, sinpin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ lateral; **nearby** → ɴᴏᴜɴ **hip**, **side**; (lon -) **next to**, **vicinity** |
 | <img src="musi/sitelen/pona/poki.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, **poki**, selo, tomo, uta | ᴠᴇʀʙ to be full of, collect, contain → ɴᴏᴜɴ bladder; **bag**, **bowl**, **box**, **container**, **cup**, **cupboard**, **drawer**, **vessel** |
 | <img src="musi/sitelen/pona/pona.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | **pona** – ike, nasa, pakala, utala | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **good**, **positive**, **useful**; **friendly**, **peaceful**; **simple** |
-| <img src="musi/sitelen/pona/pu.png" height="42">       | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | **pu** — taso | accordingly → according to, following, depending on; **interacting with the Toki Pona book** |
+| <img src="musi/sitelen/pona/pu.png" height="42">       | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | **pu** — taso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ according → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ according to, (- lipu pi toki pona) **interacting with the Toki Pona book** |
+|                                                        | [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](nasin-toki.md#simple-particle) | **Pu** | ᴘᴀʀᴛɪᴄʟᴇ name of the Toki Pona book |
 | <img src="musi/sitelen/pona/sama.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | ante — **sama** | **same**, **similar**; **each other**; **sibling**, **peer**, **fellow** → **as**, **like** |
 | <img src="musi/sitelen/pona/seli.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | lete — **seli** | warm; cooked → **fire**; **cooking element**, **chemical reaction**, **heat source** |
 | <img src="musi/sitelen/pona/selo.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, **selo**, tomo, uta | to form → **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary** |
@@ -236,3 +237,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 🤔 ᴀᴅᴊᴇᴄᴛɪᴠᴇ → ɴᴏᴜɴ  **nearby**
 
 🤔 **box**, **container** → **container**, …, **box**
+
+🤔 ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **interacting with the Toki Pona book**
+
+
