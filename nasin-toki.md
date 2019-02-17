@@ -51,9 +51,9 @@ This **Toki Pona Grammar** is based on [Toki Pona: The Language of Good](http://
 | ɴᴏᴜɴ you, ᴀᴅᴊᴇᴄᴛɪᴠᴇ your |
 
 ## MODIFIER
-*(nimi suli poka)*
+*([nimi suli](#content-word) poka)*
 
-| [↑](#content-word) |
+| |
 |:-|
 | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) |
 | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) |
@@ -62,10 +62,7 @@ This **Toki Pona Grammar** is based on [Toki Pona: The Language of Good](http://
 | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
 
 ### SIMPLE MODIFIER
-*(nimi suli poka pona)*
-
-| [↑](#modifier) |
-|:-|
+*([nimi suli poka](#modifier) pona)*
 
 ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀs don't imply additional meaning when used as [ᴠᴇʀʙ](#verb)s or [ɴᴏᴜɴ](#noun)s.
 
@@ -74,9 +71,9 @@ This **Toki Pona Grammar** is based on [Toki Pona: The Language of Good](http://
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ strong, ᴠᴇʀʙ to strengthen, ɴᴏᴜɴ strength | *I am strong.* | *Strength lies within.* | *Water strengthens me.* |
 
 ### THING MODIFIER
-*(nimi suli poka ijo)*
+*([nimi suli poka](#modifier) ijo)*
 
-| [↑](#modifier) |
+| |
 |:-|
 | [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) |
 | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](#spatial-modifier) |
@@ -101,10 +98,7 @@ As a [ɴᴏᴜɴ](#noun), ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs imply "ijo".
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ similar → ɴᴏᴜɴ something similar |
 
 #### CORRELATIVE
-*(nimi suli poka palisa)*
-
-| [↑](#thing-modifier) |
-|:-|
+*([nimi suli poka](#modifier) palisa)*
 
 ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs are ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo".
 
@@ -143,10 +137,7 @@ In a [genitive](#genitive) clause, "ijo" before a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ 
 | *somebody, who is going home* | *home-coming person* | *home-comer* |
 
 #### SPATIAL MODIFIER
-*(nimi suli poka nasin)*
-
-| [↑](#thing-modifier) |
-|:-|
+*([nimi suli poka](#modifier) nasin)*
 
 ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀs are ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo" meaning "area".
 
@@ -161,10 +152,7 @@ In a [genitive](#genitive) clause, "ijo" before a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ 
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ resting; ɴᴏᴜɴ time and place of resting | *I am resting.* | *You have been resting.* | *She is going to rest.* |
 
 #### LIFE-FORM MODIFIER
-*(nimi suli poka sijelo)*
-
-| [↑](#thing-modifier) |
-|:-|
+*([nimi suli poka](#modifier) sijelo)*
 
 ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀs are ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs, that, as [ɴᴏᴜɴ](#noun)s, imply "ijo" meaning "life-form".
 
@@ -175,10 +163,7 @@ In a [genitive](#genitive) clause, "ijo" before a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ 
 | *cold-blooded* → *reptile*, *amphibian* |
 
 ### ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀ
-*(nimi suli poka jan)*
-
-| [↑](#modifier) |
-|:-|
+*([nimi suli poka](#modifier) jan)*
 
 As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 
@@ -187,10 +172,7 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 | *female* → *somebody female* |
 
 ### NUMBER
-*(nimi suli poka nanpa)*
-
-| [↑](#modifier) |
-|:-|
+*([nimi suli poka](#modifier) nanpa)*
 
 👍 The [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction) "en" can combine two ɴᴜᴍʙᴇʀs.
 
@@ -217,10 +199,7 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 | *seven fingers* |
 
 ### PREPOSITION
-*(nimi suli poka luka)*
-
-| [↑](#modifier) |
-|:-|
+*([nimi suli poka](#modifier) luka)*
 
 ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs follow ᴘᴀʀᴛɪᴄʟᴇ ᴘʜʀᴀꜱᴇs.
 
@@ -313,9 +292,9 @@ In all other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪ
 | *true* |
 
 ## VERB
-*(nimi suli wawa)*
+*([nimi suli](#content-word) wawa)*
 
-| [↑](#content-word) |
+| |
 |:-|
 | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](#simple-verb) |
 | [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-verb) |
@@ -354,10 +333,7 @@ In all other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪ
 
 
 ### SIMPLE VERB
-*(nimi suli wawa pona)*
-
-| [↑](#verb) |
-|:-|
+*([nimi suli wawa](#verb) pona)*
 
 As a [ɴᴏᴜɴ](#noun), ꜱɪᴍᴘʟᴇ ᴠᴇʀʙs mean the action described by the ᴠᴇʀʙ.
 
@@ -366,10 +342,7 @@ As a [ɴᴏᴜɴ](#noun), ꜱɪᴍᴘʟᴇ ᴠᴇʀʙs mean the action described
 | *to hunt* → *the hunt* |
 
 ### THING VERB
-*(nimi suli wawa ijo)*
-
-| [↑](#verb) |
-|:-|
+*([nimi suli wawa](#verb) ijo)*
 
 As a [ɴᴏᴜɴ](#noun), ꜱɪᴍᴘʟᴇ ᴠᴇʀʙs mean the direct object ("e ijo/ni") implied by the ᴠᴇʀʙ.
 
@@ -378,10 +351,7 @@ As a [ɴᴏᴜɴ](#noun), ꜱɪᴍᴘʟᴇ ᴠᴇʀʙs mean the direct object ("
 | *to draw* → *picture* |
 
 ### TOOL VERB
-*(nimi suli wawa ilo)*
-
-| [↑](#verb) |
-|:-|
+*([nimi suli wawa](#verb) ilo)*
 
 As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean the tool ("kepeken ilo") implied by the ᴠᴇʀʙ.
 
@@ -390,10 +360,7 @@ As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean the tool ("kepeken ilo") 
 | *to see* → *eye* |
 
 ### PRE-VERB
-*(nimi suli wawa poka)*
-
-| [↑](#verb) |
-|:-|
+*([nimi suli wawa](#verb) poka)*
 
 When the **main clause** and the **subordinate clause** share the same [subject](#subject-and-predicate)), the two **clauses'** ᴠᴇʀʙ + [predicate](#subject-and-predicate)) can merge, i.e. the ᴠᴇʀʙ is used as a ᴘʀᴇ-ᴠᴇʀʙ.
 
@@ -420,19 +387,16 @@ After the ᴘʀᴇ-ᴠᴇʀʙs "awen" and "kama", "lon" can disappear.
 | *I am eating an apple.* | *You have been eating an apple.* | *She is going to eat an apple.* |
 
 # PARTICLE
-*(nimi lili)*
+*([nimi](#toki-pona-grammar) lili)*
 
-| [↑](#toki-pona-grammar) |
+| |
 |:-|
 | [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle) |
 | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) |
 | [ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇ](#transitive-particle) |
 
 ### SIMPLE PARTICLE
-*(nimi lili pona)*
-
-| [↑](#particle) |
-|:-|
+*([nimi lili](#particle) pona)*
 
 ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs are tokiponized names. They always follow a [ɴᴏᴜɴ](#noun). "pi nimi" can disappear before ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs. In this case, the **quotation marks** disappear.
 
@@ -449,10 +413,7 @@ After the ᴘʀᴇ-ᴠᴇʀʙs "awen" and "kama", "lon" can disappear.
 👎 **Pije** doesn't remove the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ ᴘʜʀᴀꜱᴇ with "nanpa".
 
 ### INTERJECTION
-*(nimi lili kalama)*
-
-| [↑](#particle) |
-|:-|
+*([nimi lili](#particle) kalama)*
 
 One can express an emotion by means of a plain ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ as if it were a ꜱᴇɴᴛᴇɴᴄᴇ.
 
@@ -485,18 +446,18 @@ An ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ can become a [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-
 | *You are really tall!* |
 
 ## TRANSITIVE PARTICLE
-*(nimi lili luka)*
+*([nimi lili](#particle) luka)*
 
-| [↑](#particle) |
+| |
 |:-|
 | [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#phrase-particle) |
 | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction) |
 | [ᴘʀᴇ-ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#pre-phrase-particle) |
 
 ### PHRASE PARTICLE
-*(nimi lili luka pi wan pi mute nimi)*
+*([nimi lili luka](#transitive-particle) pi wan pi mute nimi)*
 
-| [↑](#transitive-particle) |
+| |
 |:-|
 | [Subject and Predicate](#subject-and-predicate) |
 | [Direct Object](#direct-object) |
@@ -504,10 +465,7 @@ An ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ can become a [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-
 | [Genitive](#genitive) |
 
 #### Subject and Predicate
-*(nimi lili luka "li")*
-
-| [↑](#phrase-particle) |
-|:-|
+*([nimi lili luka](#transitive-particle) "li")*
 
 If the subject (i.e. the words before the ᴘᴀʀᴛɪᴄʟᴇ "li") is just "mi" or "sina", the ᴘᴀʀᴛɪᴄʟᴇ "li" disappears.
 
@@ -540,10 +498,7 @@ A ꜱᴇɴᴛᴇɴᴄᴇ can have multiple predicates (i.e. the words after the 
 | *She is a parent.* |
 
 #### Direct Object
-*(nimi lili luka "e")*
-
-| [↑](#phrase-particle) |
-|:-|
+*([nimi lili luka](#transitive-particle) "e")*
 
 A predicate (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "li") can have multiple direct objects (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "e"). Their **commas** can disappear.
 
@@ -576,10 +531,7 @@ One can express a desire by just a direct object (i.e. the words after the ᴘ�
 | *She fights the enemy.* |
 
 #### Volative, Vocative and Imperative
-*(nimi lili luka "o")*
-
-| [↑](#phrase-particle) |
-|:-|
+*([nimi lili luka](#transitive-particle) "o")*
 
 "sina" can disappear before the ᴘᴀʀᴛɪᴄʟᴇ "o".
 
@@ -600,10 +552,7 @@ One can express a desire by just a direct object (i.e. the words after the ᴘ�
 | *May she sleep well.* |
 
 #### Genitive
-*(nimi lili luka "pi")*
-
-| [↑](#phrase-particle) |
-|:-|
+*([nimi lili luka](#transitive-particle) "pi")*
 
 If a genitive phrase (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "pi") consists of only one [ɴᴏᴜɴ](#noun), the ᴘᴀʀᴛɪᴄʟᴇ "pi" disappears. So, that [ɴᴏᴜɴ](#noun) becomes a [ᴍᴏᴅɪꜰɪᴇʀ](#modifier).
 
@@ -648,10 +597,7 @@ As a rule of thumb, if the ᴘᴀʀᴛɪᴄʟᴇ "pi" doesn't add useful informa
 | *bar* |
 
 ### CONJUNCTION
-*(nimi lili luka "en", nimi lili luka "anu")*
-
-| [↑](#transitive-particle) |
-|:-|
+*([nimi lili luka](#transitive-particle) "en", [nimi lili luka](#transitive-particle) "anu")*
 
 By means of "anu seme" one can express a yes-no-question. In this case "seme" is a [ᴠᴇʀʙ](#verb).
 
@@ -690,10 +636,7 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 | *Is she a parent?* |
 
 ### PRE-PHRASE PARTICLE
-*(nimi lili luka "la")*
-
-| [↑](#transitive-particle) |
-|:-|
+*([nimi lili luka](#transitive-particle) "la")*
 
 By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) can be at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ.
 
