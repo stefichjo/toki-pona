@@ -27,9 +27,9 @@ This **Toki Pona Grammar** is based on [Toki Pona: The Language of Good](http://
 | *She gives water to the plant.* → *She waters the plant.* |
 
 # CONTENT WORD
-*(nimi suli)*
+*([nimi](#toki-pona-grammar) suli)*
 
-| [↑](#toki-pona-grammar) |
+| |
 |:-|
 | [ɴᴏᴜɴ](#noun) |
 | [ᴍᴏᴅɪꜰɪᴇʀ](#modifier) |
