@@ -42,13 +42,13 @@ This **Toki Pona Grammar** is based on [Toki Pona: The Language of Good](http://
 
 | ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ jan |
 |:-|
-| ɴᴏᴜɴ *somebody*, ᴀᴅᴊᴇᴄᴛɪᴠᴇ *somebody's* |
+| ɴᴏᴜɴ somebody, ᴀᴅᴊᴇᴄᴛɪᴠᴇ somebody's |
 
 ᴘʀᴏɴᴏᴜɴs are ꜱɪᴍᴘʟᴇ ɴᴏᴜɴs that refer to the speaker, the listener or a third person (or object).
 
 | ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ sina |
 |:-|
-| ɴᴏᴜɴ *you*, ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* |
+| ɴᴏᴜɴ you, ᴀᴅᴊᴇᴄᴛɪᴠᴇ your |
 
 ## MODIFIER
 *(nimi suli poka)*
@@ -71,7 +71,7 @@ This **Toki Pona Grammar** is based on [Toki Pona: The Language of Good](http://
 
 | ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ wawa | mi wawa. | wawa li lon insa. | telo li wawa e mi. |
 |:-|:-|:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strong*, ᴠᴇʀʙ *to strengthen*, ɴᴏᴜɴ *strength* | *I am strong.* | *Strength lies within.* | *Water strengthens me.* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ strong, ᴠᴇʀʙ to strengthen, ɴᴏᴜɴ strength | *I am strong.* | *Strength lies within.* | *Water strengthens me.* |
 
 ### THING MODIFIER
 *(nimi suli poka ijo)*
@@ -108,11 +108,11 @@ As a [ɴᴏᴜɴ](#noun), ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs imply "ijo".
 
 ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs are ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo".
 
-| ale |
+| ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ale |
 |:-|
-| *every* → *everything* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ every → ɴᴏᴜɴ everything |
 
-In a genitive clause (i.e. the words behind the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive)), "ijo" before a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ reappears.
+In a [genitive](#genitive) clause, "ijo" before a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ reappears.
 
 | mama pi ijo ale | mama ale |
 |:-|:-|
@@ -136,7 +136,7 @@ In a genitive clause (i.e. the words behind the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#ge
 |:-|
 | *Tell me where the money is.* → *Where is the money?* |
 
-👎 The beginning of a **subordinate clause** can disappear. Therefore, [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb)s and [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s can become [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴs](#noun).
+👎 The beginning of a **subordinate clause** can disappear.
 
 | jan pi ona li tawa tomo | jan pi li tawa tomo | jan pi tawa tomo |
 |:-|:-|:-|
