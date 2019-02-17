@@ -3,7 +3,7 @@
 
 The dictionary below is based on [Toki Pona: The Language of Good](http://www.amazon.com/gp/product/0978292308) by **Sonja Lang**, the creator of Toki Pona. It contains [deviations](#deviations) and additional contextualisations and translations.
 
-| hieroglyph | paradigm | word | meaning |
+| sitelen | paradigm | word | meaning |
 |:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/a.png" height="42">        | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](nasin-toki.md#interjection) | mu — **a**, ala | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)** → ꜱᴇɴᴛᴇɴᴄᴇ yes! |
 | <img src="musi/sitelen/pona/akesi.png" height="42">    | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#life-form-modifier) | **akesi** — soweli | ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded → ɴᴏᴜɴ **non-cute animal**; **reptile**, **amphibian**; monster |
@@ -107,10 +107,10 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 |                                                        | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | **pimeja** — suno | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dark**, **unlit** → ɴᴏᴜɴ shadow |
 | <img src="musi/sitelen/pona/pini.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | awen, kama, **pini** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **ago**, **completed**, **ended**, **finished**, **past** |
 |                                                        | [ᴘʀᴇ-ᴠᴇʀʙ](nasin-toki.md#pre-verb) | awen, kama, **pini** | ᴠᴇʀʙ to stop → ᴘʀᴇ-ᴠᴇʀʙ to stop to |
-| <img src="musi/sitelen/pona/pipi.png" height="42">     | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#life-form-modifier) | kala, kasi, **pipi**, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ crawling → ɴᴏᴜɴ **ant**, **bug**, **insect**, **spider** |
+| <img src="musi/sitelen/pona/pipi.png" height="42">     | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#life-form-modifier) | kala, kasi, **pipi**, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ crawling, creeping → ɴᴏᴜɴ **ant**, **bug**, **insect**, **spider** |
 | <img src="musi/sitelen/pona/poka.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | weka — insa, monsi, **poka**, sinpin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ lateral; **nearby** → ɴᴏᴜɴ **hip**, **side**; (lon -) **next to**, **vicinity** |
 | <img src="musi/sitelen/pona/poki.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, **poki**, selo, tomo, uta | ᴠᴇʀʙ to be full of, collect, contain → ɴᴏᴜɴ bladder; **bag**, **bowl**, **box**, **container**, **cup**, **cupboard**, **drawer**, **vessel** |
-| <img src="musi/sitelen/pona/pona.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | **pona** – ike, nasa, pakala, utala | **good**, **positive**, **useful**; **friendly**, **peaceful**; **simple** |
+| <img src="musi/sitelen/pona/pona.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | **pona** – ike, nasa, pakala, utala | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **good**, **positive**, **useful**; **friendly**, **peaceful**; **simple** |
 | <img src="musi/sitelen/pona/pu.png" height="42">       | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | **pu** — taso | accordingly → according to, following, depending on; **interacting with the Toki Pona book** |
 | <img src="musi/sitelen/pona/sama.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | ante — **sama** | **same**, **similar**; **each other**; **sibling**, **peer**, **fellow** → **as**, **like** |
 | <img src="musi/sitelen/pona/seli.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | lete — **seli** | warm; cooked → **fire**; **cooking element**, **chemical reaction**, **heat source** |
