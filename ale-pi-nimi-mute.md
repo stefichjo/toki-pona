@@ -3,7 +3,7 @@
 
 The dictionary below is based on [Toki Pona: The Language of Good](http://www.amazon.com/gp/product/0978292308) by **Sonja Lang**, the creator of Toki Pona. It contains [deviations](#deviations) and additional contextualisations and translations.
 
-| glyph | paradigm | word | meaning |
+| hieroglyph | paradigm | word | meaning |
 |:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/a.png" height="42">        | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](nasin-toki.md#interjection) | mu — **a**, ala | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)** → ꜱᴇɴᴛᴇɴᴄᴇ yes! |
 | <img src="musi/sitelen/pona/akesi.png" height="42">    | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#life-form-modifier) | **akesi** — soweli | ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded → ɴᴏᴜɴ **non-cute animal**; **reptile**, **amphibian**; monster |
