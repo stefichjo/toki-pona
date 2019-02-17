@@ -42,13 +42,13 @@ The main scope of this **Toki Pona Grammar** is to enable you to read the [Toki 
 
 | ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ jan |
 |:-|
-| ɴᴏᴜɴ *somebody* → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *somebody's* |
+| ɴᴏᴜɴ *somebody*, ᴀᴅᴊᴇᴄᴛɪᴠᴇ *somebody's* |
 
 ᴘʀᴏɴᴏᴜɴs are ꜱɪᴍᴘʟᴇ ɴᴏᴜɴs that refer to the speaker, the listener or a third person/object.
 
-| sina |
+| ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ sina |
 |:-|
-| ɴᴏᴜɴ *you* → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* |
+| ɴᴏᴜɴ *you*, ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* |
 
 ## MODIFIER
 *(nimi suli poka)*
@@ -69,9 +69,9 @@ The main scope of this **Toki Pona Grammar** is to enable you to read the [Toki 
 
 ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀs don't imply additional meaning when used as [ɴᴏᴜɴ](#noun)s or [ᴠᴇʀʙ](#verb)s.
 
-| mi wawa. | wawa li lon insa. | telo li wawa e mi. |
-|:-|:-|:-|
-| *I am strong.* | *Strength lies within.* | *Water strengthens me.* |
+| ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ wawa | mi wawa. | wawa li lon insa. | telo li wawa e mi. |
+|:-|:-|:-|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strong*, ᴠᴇʀʙ *to strengthen*, ɴᴏᴜɴ *strength* | *I am strong.* | *Strength lies within.* | *Water strengthens me.* |
 
 ### THING MODIFIER
 *(nimi suli poka ijo)*
