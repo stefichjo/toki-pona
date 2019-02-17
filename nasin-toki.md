@@ -6,7 +6,7 @@
 | [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) |
 | [ᴘᴀʀᴛɪᴄʟᴇ](#particle) |
 
-The main scope of this **Toki Pona Grammar** is to enable you to read the [Toki Pona Dictionary](ale-pi-nimi-mute.md). The grammar is based on [Toki Pona: The Language of Good](http://www.amazon.com/gp/product/0978292308) (the **Toki Pona Book**) by **Sonja Lang**, the creator of Toki Pona.
+This **Toki Pona Grammar** is based on [Toki Pona: The Language of Good](http://www.amazon.com/gp/product/0978292308) (the **Toki Pona Book**) by **Sonja Lang**, the creator of Toki Pona. Its scope is to enable you to read the [Toki Pona Dictionary](ale-pi-nimi-mute.md).
 
 👍 — Sections about **"Experimental Language"** describe "pu-compliant" ways of using the language, even though they are not mentioned explicitly in the **Toki Pona Book**.
 
@@ -86,19 +86,19 @@ As a [ɴᴏᴜɴ](#noun), ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs imply "ijo".
 
 | ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ sike |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round* → ɴᴏᴜɴ *something round* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ round → ɴᴏᴜɴ something round |
 
 [ɴᴏᴜɴ](#noun)s can imply food.
 
 | telo |
 |:-|
-| ɴᴏᴜɴ *water*; *beverage* |
+| ɴᴏᴜɴ water; beverage |
 
 👎 All [ɴᴏᴜɴ](#noun)s can imply "ijo".
 
 | sama |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *similar* → ɴᴏᴜɴ *something similar* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ similar → ɴᴏᴜɴ something similar |
 
 #### CORRELATIVE
 *(nimi suli poka palisa)*
