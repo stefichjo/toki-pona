@@ -135,7 +135,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/tan.png" height="42">      | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | lon, **tan**, tawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ departing → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **because of**, **by**, **from** |
 | <img src="musi/sitelen/pona/taso.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | sin, **taso** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ free, independent, missing; **only** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ free from, independent from, without; (- ni la) **but**, **however** |
 | <img src="musi/sitelen/pona/tawa.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | lon, tan, **tawa** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ going, **moving**, traveling → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **going to**, **toward**; **for**; **from the perspective of** |
-| <img src="musi/sitelen/pona/telo.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | kiwen, ko, kon, **telo** | liquid, fluid, wet → **water**, **liquid**, **fluid**, **wet substance**; **beverage** |
+| <img src="musi/sitelen/pona/telo.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | kiwen, ko, kon, **telo** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ fluid, liquid, wet → ɴᴏᴜɴ **fluid**, **liquid**, **water**, **wet substance**; **beverage** |
 | <img src="musi/sitelen/pona/tenpo.png" height="42">    | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | **tenpo** | ephemeral, interim, provisional → **time**, **duration**, **moment**, **occasion**, **period**, **situation** |
 | <img src="musi/sitelen/pona/toki.png" height="42">     | [ᴛʜɪɴɢ ᴠᴇʀʙ](nasin-toki.md#thing-verb) | nanpa, nimi, sitelen, sona, **toki** | **to communicate**, **say**, **speak**, **say**, **talk**, **use language**, **think** → language |
 | <img src="musi/sitelen/pona/tomo.png" height="42">     | [ᴛᴏᴏʟ ᴠᴇʀʙ](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, **tomo**, uta | to protect → skeleton, thorax; **indoor space**; **building**, **home**, **house**, **room** |
@@ -211,4 +211,5 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 * **adorable**, …, **innocent** → **innocent**, **adorable**
 * **because of**, …, **from** → **from**, **because of**
 * ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ → ᴘᴀʀᴛɪᴄʟᴇ **but**, **however**
+* **fluid**, **liquid**, **water** → **water**, **liquid**, **fluid**
 
