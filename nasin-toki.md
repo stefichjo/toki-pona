@@ -142,8 +142,6 @@ In a genitive clause (i.e. the words behind the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#ge
 |:-|:-|:-|
 | *somebody, who is going home* | *home-coming person* | *home-comer* |
 
-🤔 According to **Sonja**, "seme" is a [ᴘᴀʀᴛɪᴄʟᴇ](#particle), even though it behaves just like all the other ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs.
-
 #### SPATIAL MODIFIER
 *(nimi suli poka nasin)*
 
