@@ -25,12 +25,12 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/en.png" height="42">       | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](nasin-toki.md#conjunction) | anu — **en** | ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, (between multiple ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs belonging to the same ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ) |
 | <img src="musi/sitelen/pona/esun.png" height="42">     | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](nasin-toki.md#preposition) | **esun**, kepeken | ᴀᴅᴊᴇᴄᴛɪᴠᴇ replacing, ɴᴏᴜɴ exchange, replacement; **business transaction**; **bazaar**, **fair**, **market**, **shop** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ instead of |
 |                                                        | [ɴᴜᴍʙᴇʀ](nasin-toki.md#number) | ala, ale, **esun**, luka, mute, tu, wan | ɴᴜᴍʙᴇʀ 7, seven |
-| <img src="musi/sitelen/pona/ijo.png" height="42">      | [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](nasin-toki.md#noun) | **ijo** — jan | ɴᴏᴜɴ **matter**, **object**, **phenomenon**, **thing**; location, place; case |
+| <img src="musi/sitelen/pona/ijo.png" height="42">      | [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](nasin-toki.md#noun) | **ijo**, ilo, jan | ɴᴏᴜɴ **matter**, **object**, **phenomenon**, **thing**; location, place; case |
 | <img src="musi/sitelen/pona/ike.png" height="42">      | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | pona — **ike**, nasa, pakala, utala | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bad**, **negative**; **irrelevant**, **non-essential** |
-| <img src="musi/sitelen/pona/ilo.png" height="42">      | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | **ilo** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ functional, operational → ɴᴏᴜɴ **device**, **implement**, **machine**, **tool**; body part |
+| <img src="musi/sitelen/pona/ilo.png" height="42">      | [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](nasin-toki.md#noun) | ijo, **ilo**, jan | ɴᴏᴜɴ **device**, **implement**, **machine**, **tool**; body part |
 | <img src="musi/sitelen/pona/insa.png" height="42">     | [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#spatial-modifier) | weka — **insa**, poka, sin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner → ɴᴏᴜɴ **centre**, **content**, **inside**; (lon -) **between**; **internal organ**, **stomach** |
 | <img src="musi/sitelen/pona/jaki.png" height="42">     | [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#thing-modifier) | **jaki** — suwi | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** → ɴᴏᴜɴ dirt, poison, waste |
-| <img src="musi/sitelen/pona/jan.png" height="42">      | [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](nasin-toki.md#noun) | ijo — **jan** | ɴᴏᴜɴ **human being**, **person**, **somebody** |
+| <img src="musi/sitelen/pona/jan.png" height="42">      | [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](nasin-toki.md#noun) | ijo, ilo, **jan** | ɴᴏᴜɴ **human being**, **person**, **somebody** |
 | <img src="musi/sitelen/pona/jelo.png" height="42">     | [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#simple-modifier) | **jelo**, laso, loje | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **yellow**, **yellowish** |
 | <img src="musi/sitelen/pona/jo.png" height="42">       | [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](nasin-toki.md#simple-verb) | **jo**, pana | ᴠᴇʀʙ **to carry**, **contain**, **have**, **hold** |
 | <img src="musi/sitelen/pona/kala.png" height="42">     | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](nasin-toki.md#life-form-modifier) | **kala**, kasi, pipi, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ swimming → ɴᴏᴜɴ **fish**, **marine animal**, **sea creature** |

@@ -40,15 +40,15 @@ The main scope of this **Toki Pona Grammar** is to enable you to read the [Toki 
 
 ꜱɪᴍᴘʟᴇ ɴᴏᴜɴs don't have an additional meaning as ᴍᴏᴅɪꜰɪᴇʀs or ᴠᴇʀʙs.
 
-| ijo | jan |
-|:-|:-|
-| *something, a thing* | *somebody, a person* |
+| jan |
+|:-|
+| *somebody* → *somebody's* |
 
 ᴘʀᴏɴᴏᴜɴs are ꜱɪᴍᴘʟᴇ ɴᴏᴜɴs that refer to the speaker, the listener or a third person/object.
 
-| mi | sina | ona |
-|:-|:-|:-|
-| *I, we* | *you* | *he, it, she, they* |
+| sina |
+|:-|
+| *you* → *your* |
 
 ## MODIFIER
 *(nimi suli poka)*
