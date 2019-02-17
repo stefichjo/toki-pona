@@ -148,35 +148,17 @@ In a [genitive](#genitive) clause, "ijo" before a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ 
 | [↑](#thing-modifier) |
 |:-|
 
-ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀs are ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs, that, as [ɴᴏᴜɴ](#noun)s, imply "ijo" meaning "location", "place".
+ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀs are ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo" meaning "area".
 
-| insa |
+| ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ insa |
 |:-|
-| *inner* → *inner area, center* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner → ɴᴏᴜɴ inner area |
 
-👍 When a **modifier** becomes a [ɴᴏᴜɴ](#noun), it can mean the place of its accomplishment.
+👍 When an ᴀᴅᴊᴇᴄᴛɪᴠᴇ becomes a [ɴᴏᴜɴ](#noun), it can mean the time and place of its accomplishment.
 
-| mi lon lape. | sina tan lape. | ona li tawa lape. |
-|:-|:-|:-|
-| *I am resting.* | *You have been resting.* | *She is going to rest.* |
-
-👍 The [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb)s "awen", "kama", "pini" can become ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀs.
-
-| lon awen | lon kama | lon pini |
-|:-|:-|:-|
-| *during* | *before* | *after* |
-
-🤔 …
-
-| lawa → sewi |
-|:-|
-| *upper* → *upper area, top* |
-
-🤔 "lon awen pi", "lon kama pi", "lon pini pi" can become "lon".
-
-| lon awen pi tenpo lili → lon tenpo lili | lon kama pi tenpo lili → lon tenpo lili | lon pini pi tenpo lili → lon tenpo lili |
-|:-|:-|:-|
-| *shortly/quickly* | *provisionally* | *soon* |
+| lape | mi lon lape. | sina tan lape. | ona li tawa lape. |
+|:-|:-|:-|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ resting; ɴᴏᴜɴ time and place of resting | *I am resting.* | *You have been resting.* | *She is going to rest.* |
 
 #### LIFE-FORM MODIFIER
 *(nimi suli poka sijelo)*
