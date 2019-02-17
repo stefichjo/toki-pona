@@ -36,7 +36,7 @@ This **Toki Pona Grammar** is based on [Toki Pona: The Language of Good](http://
 | [ᴠᴇʀʙ](#verb) |
 
 ## NOUN
-*(nimi suli lawa)*
+*([nimi suli](#content-word) lawa)*
 
 ꜱɪᴍᴘʟᴇ ɴᴏᴜɴs don't have an additional meaning as ᴀᴅᴊᴇᴄᴛɪᴠᴇs (or ᴠᴇʀʙs).
 
