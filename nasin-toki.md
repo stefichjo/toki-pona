@@ -348,6 +348,12 @@ In all other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪ
 |:-|
 | *The men know something/that.* → *The men know.* |
 
+ᴠᴇʀʙs can imply "ale", i.e. they can imply a perfective aspect.
+
+| ona li pali ale e tomo. → ona li pali e tomo. |
+|:-|
+| She's building a house. |
+
 "pona (tawa)" + ᴠᴇʀʙ expresses that something is worth being done.
 
 | pona tawa lukin → pona lukin |
@@ -365,12 +371,6 @@ In all other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪ
 | nimi li ijo sona tawa jan sin. |
 |:-|
 | *The word is known by the newcomer.* |
-
-🤔 …
-
-| kama e → pali e | open e → pali e |
-|:-|:-|
-| *to build*, *make* | *to prepare* |
 
 
 ### SIMPLE VERB
