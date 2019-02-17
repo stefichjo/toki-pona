@@ -1,6 +1,6 @@
 # toki pona
 
-* [Toki Pona Grammar](nasin-toki.md)
+* [Grammar](nasin-toki.md)
   * [Punctuation](sitelen-pi-poka-nimi.md)
   * [Hieroglyphs](sitelen-pona.md)
   * [Dictionary](ale-pi-nimi-mute.md)
