@@ -174,6 +174,12 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 ### NUMBER
 *([nimi suli poka](#modifier) nanpa)*
 
+👍 As [ɴᴏᴜɴ](#noun)s, ɴᴜᴍʙᴇʀs imply "ijo".
+
+| ɴᴜᴍʙᴇʀ tu |
+|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ two → ɴᴏᴜɴ pair |
+
 👍 The [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction) "en" can combine two ɴᴜᴍʙᴇʀs.
 
 | sike esun tu | tenpo suno luka tu en tu tu |
@@ -185,12 +191,6 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 | mi pana e wan wan pi tu tu tawa sina. | mi pana e wan mute pi tu tu tawa sina. |
 |:-|:-|
 | *I give you one quarter.* | *I give you three quarters.* |
-
-👍 In a row, the one whose turn it's going to be is "nanpa kama", the one whose turn it is is "nanpa awen" and the one whose turn it has been is "nanpa pini".
-
-| sina nanpa kama. | sina nanpa awen. | sina nanpa pini. |
-|:-|:-|:-|
-| *It's going to be your turn.* | *It's your turn.* | *It's been your turn.* |
 
 🤔 With two [ɴᴜᴍʙᴇʀ](#number)s, the **comma** can disappear.
 
