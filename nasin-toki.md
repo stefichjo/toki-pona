@@ -176,15 +176,9 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 
 👍 As [ɴᴏᴜɴ](#noun)s, ɴᴜᴍʙᴇʀs imply "ijo".
 
-| ɴᴜᴍʙᴇʀ tu |
-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ two → ɴᴏᴜɴ pair |
-
-👍 The [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction) "en" can combine two ɴᴜᴍʙᴇʀs.
-
-| sike esun tu | tenpo suno luka tu en tu tu |
+| ɴᴜᴍʙᴇʀ tu | tenpo suno luka tu en tu tu |
 |:-|:-|
-| *two weeks* | *fourteen days* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ two → ɴᴏᴜɴ pair | *fourteen days* |
 
 👍 By means of a ɴᴜᴍʙᴇʀ of a small quantity and a ɴᴜᴍʙᴇʀ of a big quantity one can express a quantity between zero and one.
 
