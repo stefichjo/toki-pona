@@ -167,9 +167,9 @@ In a [genitive](#genitive) clause, "ijo" before a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ 
 
 As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 
-| meli |
+| ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀ meli |
 |:-|
-| *female* → *somebody female* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ female → ɴᴏᴜɴ somebody female |
 
 ### NUMBER
 *([nimi suli poka](#modifier) nanpa)*
