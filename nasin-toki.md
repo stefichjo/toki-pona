@@ -138,9 +138,9 @@ In a [genitive](#genitive) clause, "ijo" before a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ 
 
 👎 The beginning of a **subordinate clause** can be omitted.
 
-| jan pi ona li tawa tomo | jan pi li tawa tomo | jan pi tawa tomo |
-|:-|:-|:-|
-| *somebody, who is going home* | *home-coming person* | *home-comer* |
+| jan ni: ona ni li tawa tomo → jan pi ona ni li tawa tomo → jan pi li tawa tomo → jan pi tawa tomo |
+|:-|
+| *somebody, who is going home* |
 
 #### SPATIAL MODIFIER
 *([nimi suli poka](#modifier) nasin)*
@@ -192,7 +192,7 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 |:-|:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ two → ɴᴏᴜɴ pair | *fourteen days*, *two times five days, plus four* | *three elements of two pairs*, *three quarters* |
 
-🤔 Between two [ɴᴜᴍʙᴇʀ](#number)s, the **comma** can be omitted.
+🤔 Between two [ɴᴜᴍʙᴇʀ](#number)s, the **comma** is omitted.
 
 | palisa luka, tu → palisa luka tu |
 |:-|
@@ -242,12 +242,6 @@ In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#modifier)s/ᴀ�
 | lipu ni li ijo mi. | lipu ni li toki e ijo mi. |
 |:-|:-|
 | *This book is mine.* | *This book is about me.* |
-
-👎 Before the [ᴘᴀʀᴛɪᴄʟᴇ "la"](#pre-phrase-particle), ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be omitted.
-
-| tawa mi la sina jan pona. → mi la sina jan pona. |
-|:-|
-| *From my point of view, you are a good person.* |
 
 👎 **Pije** removes the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "tawa" before "lukin".
 
@@ -494,7 +488,7 @@ A **predicate** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "li") can have m
 |:-|
 | *She gives water to the plant.* → *She waters the plant.* |
 
-🤔 With "utala", the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "tawa" can become the ᴘᴀʀᴛɪᴄʟᴇ "e".
+🤔 With "utala", the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "tawa" becomes the ᴘᴀʀᴛɪᴄʟᴇ "e".
 
 | ona li utala tawa jan ike. → ona li utala e jan ike. |
 |:-|
@@ -548,19 +542,19 @@ As a rule of thumb, if the ᴘᴀʀᴛɪᴄʟᴇ "pi" doesn't add useful informa
 |:-|
 | *house of foreign beer* |
 
-👎 **Pije** turns the ᴘᴀʀᴛɪᴄʟᴇ "pi" with a [ᴘʀᴏɴᴏᴜɴ](#noun) into a [ᴠᴇʀʙ](#verb).
+👎 **Pije** turns the ᴘᴀʀᴛɪᴄʟᴇ "pi" with a [ᴘʀᴏɴᴏᴜɴ](#noun) into a [predicate](#subject-and-predicate).
 
 | ni li ijo mi. → ni li pi mi. |
 |:-|
 | *This belongs to me.* → *This is mine.* |
 
-👎 **Pije** turns the [ᴘᴀʀᴛɪᴄʟᴇ "e"](#direct-object) into the ᴘᴀʀᴛɪᴄʟᴇ "pi" before a [ɴᴏᴜɴ](#noun), which means a direction.
+👎 **Pije** turns the [ᴘᴀʀᴛɪᴄʟᴇ "e"](#direct-object) into "pi" before a [ɴᴏᴜɴ](#noun), in order to express direction.
 
 | sina lukin e sewi. → sina lukin sewi. |
 |:-|
 | *You look up.* |
 
-👎 The [ᴘᴀʀᴛɪᴄʟᴇ "e"](#direct-object) can become the ᴘᴀʀᴛɪᴄʟᴇ "pi", turning a subsequent ᴘᴀʀᴛɪᴄʟᴇ "pi" into "e".
+👎 The [ᴘᴀʀᴛɪᴄʟᴇ "e"](#direct-object) can become "pi", turning a subsequent ᴘᴀʀᴛɪᴄʟᴇ "pi" into "e".
 
 | mi ante e toki pi sitelen tawa. → mi ante toki e sitelen tawa. |
 |:-|
@@ -599,13 +593,13 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 |:-|
 | *Is she a parent or what?* |
 
-👎 A **comma** can become a ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ "en".
+👎 A **comma** can become the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ "en".
 
 | tomo pi telo nasa, pi ma ante → tomo pi telo nasa en pi ma ante |
 |:-|
 | *foreign bar* |
 
-🤔 In front of words and after the same words negated, the ᴘᴀʀᴛɪᴄʟᴇ "anu" can be omitted.
+🤔 In front of words and after the same words negated, the ᴘᴀʀᴛɪᴄʟᴇ "anu" is omitted.
 
 | ona li mama ala anu mama? → ona li mama ala mama? |
 |:-|
@@ -632,5 +626,9 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 |:-|
 | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
-👎 **Pije** doesn't use [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s at the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ.
+👎 Before the [ᴘᴀʀᴛɪᴄʟᴇ "la"](#pre-phrase-particle), ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be omitted. **Pije** never uses [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s at the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ.
+
+| tawa mi la sina jan pona. → mi la sina jan pona. |
+|:-|
+| *From my point of view, you are a good person.* |
 
