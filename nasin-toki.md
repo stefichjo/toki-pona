@@ -614,13 +614,13 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 ### PRE-PHRASE PARTICLE
 *([nimi lili luka](#transitive-particle) "la")*
 
-By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) can be at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ.
+By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", one can start a ꜱᴇɴᴛᴇɴᴄᴇ with a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition).
 
 | sina pana e nimi "pona" tawa mi tan seme? → tan seme la sina pana e nimi "pona" tawa mi? |
 |:-|
 | *Why are you calling me good?* |
 
-At the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ, the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "lon" can be omitted.
+At the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ, the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "lon" is omitted.
 
 | ona li kama lon tenpo pimeja ni. → tenpo pimeja ni la ona li kama. |
 |:-|
