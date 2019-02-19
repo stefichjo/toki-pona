@@ -39,7 +39,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/kasi.png" height="42">     | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#life-form-modifier) | kala, **kasi**, pipi, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ vegetating → ɴᴏᴜɴ **plant**, **vegetation**; **herb**, **leaf** |
 | <img src="musi/sitelen/pona/ken.png" height="42">      | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | **ken**, wile | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **possible** |
 |                                                        | [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-toki.md#pre-verb) | **ken**, lukin, open, sona, wile | ᴠᴇʀʙ to allow for → ᴘʀᴇ-ᴠᴇʀʙ **to be able to**, **be allowed to**, **can**, **may** |
-| <img src="musi/sitelen/pona/kepeken.png" height="42">  | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-toki.md#preposition) | esun, **kepeken**, pu | ᴀᴅᴊᴇᴄᴛɪᴠᴇ …, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **by means of**, **using**, **with** |
+| <img src="musi/sitelen/pona/kepeken.png" height="42">  | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-toki.md#preposition) | esun, **kepeken**, pu | ᴀᴅᴊᴇᴄᴛɪᴠᴇ usufructuary, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **by means of**, **using**, **with** |
 | <img src="musi/sitelen/pona/kili.png" height="42">     | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | **kili**, pan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ hanging → ɴᴏᴜɴ **fruit**; **mushroom**, **vegetable** |
 | <img src="musi/sitelen/pona/kiwen.png" height="42">    | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | **kiwen**, ko, kon, telo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ hard → ɴᴏᴜɴ **hard object**, **metal**, **rock**, **stone** |
 | <img src="musi/sitelen/pona/ko.png" height="42">       | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | kiwen, **ko**, kon, telo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ semi-solid → ɴᴏᴜɴ **clay**, **clinging form**, **dough**, **semi-solid**, **paste**, **powder** |
