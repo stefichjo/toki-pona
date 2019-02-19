@@ -237,12 +237,6 @@ In all other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪ
 |:-|:-|
 | *This book is mine.* | *This book is about me.* |
 
-👍 "lon/tawa poka" can be used for comparisons.
-
-| jan li suli mute, mani li suli lili. → jan li suli mute lon/tawa poka mani. |
-|:-|
-| *People are more important than money.* |
-
 👎 Before the [ᴘᴀʀᴛɪᴄʟᴇ "la"](#pre-phrase-particle), ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can disappear.
 
 | tawa mi la sina jan pona. → mi la sina jan pona. |
@@ -266,12 +260,6 @@ In all other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪ
 | mi tawa lon poka sina. → mi tawa poka sina. |
 |:-|
 | *I'm going with you.* |
-
-👎 The [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) can be used for comparisons.
-
-| jan li suli mute, mani li suli lili. → jan li suli mute mani. |
-|:-|
-| *People are more important than money.* |
 
 👎 As a [ɴᴏᴜɴ](#noun), ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs mean their implied ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ. **Pije** uses the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "tan" in this way.
 
@@ -566,29 +554,35 @@ As a rule of thumb, if the ᴘᴀʀᴛɪᴄʟᴇ "pi" doesn't add useful informa
 |:-|
 | *house of foreign beer* |
 
-👎 **Pije** turns the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) with a [ᴘʀᴏɴᴏᴜɴ](#noun) into a [ᴠᴇʀʙ](#verb).
+👎 **Pije** turns the ᴘᴀʀᴛɪᴄʟᴇ "pi" with a [ᴘʀᴏɴᴏᴜɴ](#noun) into a [ᴠᴇʀʙ](#verb).
 
 | ni li ijo mi. → ni li pi mi. |
 |:-|
 | *This belongs to me.* → *This is mine.* |
 
-👎 **Pije** turns the [ᴘᴀʀᴛɪᴄʟᴇ "e"](#direct-object) into the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before a [ɴᴏᴜɴ](#noun), which means a direction.
+👎 **Pije** turns the [ᴘᴀʀᴛɪᴄʟᴇ "e"](#direct-object) into the ᴘᴀʀᴛɪᴄʟᴇ "pi" before a [ɴᴏᴜɴ](#noun), which means a direction.
 
 | sina lukin e sewi. → sina lukin sewi. |
 |:-|
 | *You look up.* |
 
-👎 The [ᴘᴀʀᴛɪᴄʟᴇ "e"](#direct-object) can become the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive).
+👎 The [ᴘᴀʀᴛɪᴄʟᴇ "e"](#direct-object) can become the ᴘᴀʀᴛɪᴄʟᴇ "pi".
 
 | mi ante e toki pi sitelen tawa. → mi ante toki e sitelen tawa. |
 |:-|
 | *I translate the movie.* |
 
-👎 The [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) can disappear.
+👎 The ᴘᴀʀᴛɪᴄʟᴇ "pi" can disappear.
 
 | tomo pi telo nasa → tomo telo nasa |
 |:-|
 | *bar* |
+
+👎 The ᴘᴀʀᴛɪᴄʟᴇ "pi" can be used for comparisons.
+
+| jan li suli mute, mani li suli lili. → jan li suli mute mani. |
+|:-|
+| *People are more important than money.* |
 
 ### CONJUNCTION
 *([nimi lili luka](#transitive-particle) "en", [nimi lili luka](#transitive-particle) "anu")*
