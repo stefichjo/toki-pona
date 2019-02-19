@@ -295,11 +295,11 @@ In all other cases, **Sonja** uses ᴀᴅᴊᴇᴄᴛɪᴠᴇs/ᴀᴅᴠᴇʀʙs
 |:-|
 | *The men know something/that.* → *The men know.* |
 
-ᴠᴇʀʙs can imply "ale", i.e. they can imply a perfective aspect.
+ᴠᴇʀʙs can imply a ᴘᴇʀꜰᴇᴄᴛɪᴠᴇ ᴀꜱᴘᴇᴄᴛ, i.e. the ᴀᴅᴠᴇʀʙ "ale" can be omitted.
 
 | ona li pali ale e tomo. → ona li pali e tomo. |
 |:-|
-| She's building a house. |
+| *She was doing all the work on a house.* → *She has built a house.* |
 
 "pona (tawa)" + ᴠᴇʀʙ expresses that something is worth being done.
 
@@ -318,7 +318,6 @@ In all other cases, **Sonja** uses ᴀᴅᴊᴇᴄᴛɪᴠᴇs/ᴀᴅᴠᴇʀʙs
 | nimi li ijo sona tawa jan sin. |
 |:-|
 | *The word is known by the newcomer.* |
-
 
 ### SIMPLE VERB
 *([nimi suli wawa](#verb) pona)*
