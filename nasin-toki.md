@@ -61,6 +61,12 @@ This **Toki Pona Grammar** is based on [Toki Pona: The Language of Good](http://
 | [ɴᴜᴍʙᴇʀ](#number) |
 | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
 
+By default, a ᴍᴏᴅɪꜰɪᴇʀ means "being ...ing" as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ, and it implies "tenpo" as a [ɴᴏᴜɴ](#noun).
+
+| tenpo lape → lape |
+|:-|
+| *time of sleeping* → *sleep* |
+
 ### SIMPLE MODIFIER
 *([nimi suli poka](#modifier) pona)*
 
@@ -219,7 +225,7 @@ When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘ�
 |:-|
 | *I'm talking to you in the kitchen.* |
 
-In all other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive)) instead of ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.
+In all other cases, **Sonja** uses ᴀᴅᴊᴇᴄᴛɪᴠᴇs/ᴀᴅᴠᴇʀʙs (or [genitive phrase](#genitive)s) instead of ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.
 
 | jan lon poka → jan poka | pona tawa lukin → pona lukin |
 |:-|:-|
@@ -283,7 +289,7 @@ In all other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪ
 | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) |
 | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
 
-ᴠᴇʀʙs imply "e ijo/ni", i.e. they are ᴛʀᴀɴꜱɪᴛɪᴠᴇ by default.
+ᴠᴇʀʙs have or imply a [direct object phrase](#direct-object), i.e. they are ᴛʀᴀɴꜱɪᴛɪᴠᴇ by default and "e ijo/ni" can be omitted.
 
 | mije li sona e ijo/ni. → mije li sona. |
 |:-|
@@ -307,7 +313,7 @@ In all other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪ
 |:-|:-|
 | *visible* | *transparent* |
 
-👎 ᴠᴇʀʙs can be used as a [ᴍᴏᴅɪꜰɪᴇʀ](#modifier) implying **passive**.
+👎 ᴠᴇʀʙs can be used as ᴀᴅᴊᴇᴄᴛɪᴠᴇs implying **passive**.
 
 | nimi li ijo sona tawa jan sin. |
 |:-|
