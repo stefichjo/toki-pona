@@ -351,27 +351,9 @@ As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean their tool used.
 
 When the **main clause** and the **subordinate clause** share the same [subject](#subject-and-predicate)), the two **clauses'** ᴠᴇʀʙ + [predicate](#subject-and-predicate)) can merge, i.e. the ᴠᴇʀʙ is used as a ᴘʀᴇ-ᴠᴇʀʙ.
 
-| ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
-|:-|
-| *She needs, that she is at home.* → *She has to be at home.* |
-
-After the ᴘʀᴇ-ᴠᴇʀʙs "awen" and "kama", "lon" can disappear.
-
-| awen lon → awen |
-|:-|
-| *to stay* |
-
-👎 The ᴘʀᴇ-ᴠᴇʀʙ "kama" and the [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) "pini" can disappear.
-
-| ona li kama lape lon pini pi tenpo lili. → ona li lape lon tenpo lili. |
-|:-|
-| *She will sleep after a short period of time. She will sleep soon. She falls asleep quickly.* |
-
-👎 The [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s "lon", "tan", "tawa" can become ᴘʀᴇ-ᴠᴇʀʙs.
-
-| mi lon moku e kili. | sina tan moku e kili. | ona li tawa moku e kili. |
-|:-|:-|:-|
-| *I am eating an apple.* | *You have been eating an apple.* | *She is going to eat an apple.* |
+| ᴘʀᴇ-ᴠᴇʀʙ wile | ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
+|:-|:-|
+| ᴠᴇʀʙ to need → ᴘʀᴇ-ᴠᴇʀʙ to need to | *She needs, that she is at home.* → *She needs to be at home.* |
 
 # PARTICLE
 *([nimi](#toki-pona-grammar) lili)*
@@ -487,13 +469,13 @@ A ꜱᴇɴᴛᴇɴᴄᴇ can have multiple predicates (i.e. the words after the 
 #### Direct Object
 *([nimi lili luka](#transitive-particle) "e")*
 
-A predicate (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "li") can have multiple direct objects (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "e"). Their **commas** can disappear.
+A predicate (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "li") can have multiple **direct objects** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "e"). Their **commas** can disappear.
 
 | ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
 |:-|
 | *She cooks the meat and the rice.* |
 
-One can express a desire by just a direct object (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "e").
+One can express a desire by just a **direct object** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "e").
 
 | tawa pona sina la mi wile e moku pona. → moku pona! |
 |:-|
@@ -505,7 +487,13 @@ One can express a desire by just a direct object (i.e. the words after the ᴘ�
 |:-|
 | *I use the instrument.* |
 
-🤔 The direct object of "pana" can become a [ᴠᴇʀʙ](#verb).
+👎 Any ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ can have a [direct object](#direct-object), not only the [ᴠᴇʀʙ](#verb) of a ꜱᴇɴᴛᴇɴᴄᴇ.
+
+| alasa e kala li pona tawa mi. |
+|:-|
+| *I like fishing.* |
+
+🤔 The **direct object** of "pana" can become a [ᴠᴇʀʙ](#verb).
 
 | ona li pana e telo tawa kasi. → ona li telo e kasi. |
 |:-|
