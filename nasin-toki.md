@@ -231,7 +231,7 @@ In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#modifier)s/ᴀ�
 |:-|:-|
 | *neighbour* | *beautiful* |
 
-👍 When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped and the [direct object phrase](#direct-object) goes to the end of the sentence.
+👍 When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped and the [direct object phrase](#direct-object) goes to the end of the ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | mi tawa e ona tawa tomo seli. → mi tawa tomo seli e ona. | mi tawa ala e ona tawa tomo seli. → mi tawa ala tomo seli e ona. | mi tawa wawa e ona tawa tomo seli. |
 |:-|:-|:-|
@@ -521,7 +521,7 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 |:-|
 | *May you have a good meal.* → *Bon appétit!* |
 
-👎 A **volative** can be expressed by starting the sentence with an "o".
+👎 A **volative** can be expressed by starting the ꜱᴇɴᴛᴇɴᴄᴇ with an "o".
 
 | ni o kama: ona li lape pona. → o ona li lape pona. |
 |:-|
@@ -575,35 +575,35 @@ As a rule of thumb, if the ᴘᴀʀᴛɪᴄʟᴇ "pi" doesn't add useful informa
 ### CONJUNCTION
 *([nimi lili luka](#transitive-particle) "en", [nimi lili luka](#transitive-particle) "anu")*
 
-By means of "anu seme" one can express a yes-no-question. In this case "seme" is an alternative [predicate](#subject-and-predicate).
+By means of "anu seme" one can express a yes-no-question. In this case "seme" is a [predicate](#subject-and-predicate).
 
 | ona li mama anu seme? |
 |:-|
 | *Is she a parent?* |
+
+👍 A yes-no-question with "seme anu" implies that the speaker expects an affirmative answer. In this case "seme" is a ꜱᴇɴᴛᴇɴᴄᴇ.
+
+| seme anu ona li mama? | seme anu ona li mama ala? |
+|:-|:-|
+| *She is a parent, isn't she?* | *She isn't a parent, is she?* |
+
+👍 A yes-no-question with the [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) "a" implies that the speaker expects a negative answer.
+
+| ona li mama, a? | ona li mama ala, a? |
+|:-|:-|
+| *She is a parent, really?* | *She isn't a parent, really?* |
+
+👎 According to **Pije**, ꜱᴇɴᴛᴇɴᴄᴇs with "anu seme" have the rude conotation of "or what".
+
+| ona li mama anu seme? |
+|:-|
+| *Is she a parent or what?* |
 
 👎 A **comma** can become a ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ "en".
 
 | tomo pi telo nasa, pi ma ante → tomo pi telo nasa en pi ma ante |
 |:-|
 | *foreign bar* |
-
-👎 Every subject (i.e. the words before the [ᴘᴀʀᴛɪᴄʟᴇ "li"](#subject-and-predicate) can have a ᴘᴀʀᴛɪᴄʟᴇ "en".
-
-| en sina en mi li jan lili. | en ona li jan lili. |
-|:-|:-|
-| *Both you and I are children.* | *She is a child.* |
-
-👎 According to **Pije**, sentences with "anu seme" have the rude conotation of "or what".
-
-| ona li mama anu seme? |
-|:-|
-| *Is she a parent or what?* |
-
-🤔 **Sonja** uses the ᴘᴀʀᴛɪᴄʟᴇ "en" only in order to combine multiple subjects (i.e. the words before the ᴘᴀʀᴛɪᴄʟᴇ "li").
-
-| toki sina en pali sina li sama. |
-|:-|
-| *What you say and what you do are the same.* |
 
 🤔 In front of words and after the same words negated, the ᴘᴀʀᴛɪᴄʟᴇ "anu" can be omitted.
 

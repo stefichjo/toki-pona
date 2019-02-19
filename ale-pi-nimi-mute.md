@@ -8,8 +8,8 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/a.png" height="42">        | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-toki.md#interjection) | mu — **a**, ala | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)** → ꜱᴇɴᴛᴇɴᴄᴇ yes! |
 | <img src="musi/sitelen/pona/akesi.png" height="42">    | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#life-form-modifier) | **akesi** — soweli | ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded; not using Toki Pona in a Toki Pona context → ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; monster |
 | <img src="musi/sitelen/pona/ala.png" height="42">      | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-toki.md#interjection) | mu — a, **ala** | ᴘᴀʀᴛɪᴄʟᴇ (negation) → ꜱᴇɴᴛᴇɴᴄᴇ outch!, no! |
-|                                                        | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nasin-toki.md#correlative) | **ala**, ale, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ (lon -) false, **no**, non-, ᴀᴅᴠᴇʀʙ **not** → ɴᴏᴜɴ none, nothing |
-|                                                        | [**ɴᴜᴍʙᴇʀ**](nasin-toki.md#number) | **ala**, ale, esun, luka, mute, tu, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ 0, **zero** |
+|                                                        | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nasin-toki.md#correlative) | **ala**, ale, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ (lon -) false, **no**, non-, ᴀᴅᴠᴇʀʙ **not** → ɴᴏᴜɴ nothing |
+|                                                        | [**ɴᴜᴍʙᴇʀ**](nasin-toki.md#number) | **ala**, ale, esun, luka, mute, tu, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ 0, **zero**, ɴᴏᴜɴ none |
 | <img src="musi/sitelen/pona/alasa.png" height="42">    | [**ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ**](nasin-toki.md#simple-verb) | **alasa**, pali | ᴠᴇʀʙ **to hunt**, **forage** |
 | <img src="musi/sitelen/pona/ale.png" height="42">      | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | **ale** — wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **all**, whole → ɴᴏᴜɴ  **life**, system, **universe** |
 |                                                        | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nasin-toki.md#correlative) | ala, **ale**, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **every** → ɴᴏᴜɴ **everything** |
