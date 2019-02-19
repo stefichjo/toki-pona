@@ -67,6 +67,12 @@ By default, a ᴍᴏᴅɪꜰɪᴇʀ means "being ...ing" as an ᴀᴅᴊᴇᴄ�
 |:-|
 | *time of sleeping* → *sleep* |
 
+ᴍᴏᴅɪꜰɪᴇʀs can imply "sin", i.e. they can be a ᴄᴏᴍᴘᴀᴛɪᴠᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
+
+| jan li suli pi mute sin. → jan li suli mute. |
+|:-|
+| *People are more important.* |
+
 ### SIMPLE MODIFIER
 *([nimi suli poka](#modifier) pona)*
 
