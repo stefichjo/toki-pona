@@ -124,7 +124,7 @@ In a [genitive](#genitive) clause, "ijo" before a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ 
 |:-|
 | *so much light, that I can't sleep* |
 
-👍 In a **relative clause** (i.e. a **subordinate clause** with "ona ni"), "ona ni li" and "e ona ni" can disappear.
+👍 In a **relative clause** (i.e. a **subordinate clause** with "ona ni"), "ona ni li" and "e ona ni" can be omitted.
 
 | mi lukin e nena ni: (ona ni li) suli mute. | nena ni: mi lukin (e ona ni), li suli. |
 |:-|:-|
@@ -136,7 +136,7 @@ In a [genitive](#genitive) clause, "ijo" before a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ 
 |:-|
 | *Tell me where the money is.* → *Where is the money?* |
 
-👎 The beginning of a **subordinate clause** can disappear.
+👎 The beginning of a **subordinate clause** can be omitted.
 
 | jan pi ona li tawa tomo | jan pi li tawa tomo | jan pi tawa tomo |
 |:-|:-|:-|
@@ -192,7 +192,7 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 |:-|:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ two → ɴᴏᴜɴ pair | *fourteen days*, *two times five days, plus four* | *three elements of two pairs*, *three quarters* |
 
-🤔 Between two [ɴᴜᴍʙᴇʀ](#number)s, the **comma** can disappear.
+🤔 Between two [ɴᴜᴍʙᴇʀ](#number)s, the **comma** can be omitted.
 
 | palisa luka, tu → palisa luka tu |
 |:-|
@@ -225,7 +225,7 @@ When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘ�
 |:-|
 | *I'm talking to you in the kitchen.* |
 
-In all other cases, **Sonja** uses ᴀᴅᴊᴇᴄᴛɪᴠᴇs/ᴀᴅᴠᴇʀʙs (or [genitive phrase](#genitive)s) instead of ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.
+In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#modifier)s/ᴀᴅᴠᴇʀʙ](#modifier)s (or [genitive phrase](#genitive)s) instead of ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.
 
 | jan lon poka → jan poka | pona tawa lukin → pona lukin |
 |:-|:-|
@@ -243,7 +243,7 @@ In all other cases, **Sonja** uses ᴀᴅᴊᴇᴄᴛɪᴠᴇs/ᴀᴅᴠᴇʀʙs
 |:-|:-|
 | *This book is mine.* | *This book is about me.* |
 
-👎 Before the [ᴘᴀʀᴛɪᴄʟᴇ "la"](#pre-phrase-particle), ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can disappear.
+👎 Before the [ᴘᴀʀᴛɪᴄʟᴇ "la"](#pre-phrase-particle), ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be omitted.
 
 | tawa mi la sina jan pona. → mi la sina jan pona. |
 |:-|
@@ -255,7 +255,7 @@ In all other cases, **Sonja** uses ᴀᴅᴊᴇᴄᴛɪᴠᴇs/ᴀᴅᴠᴇʀʙs
 |:-|
 | *You look like a bird.* |
 
-👎 Before "pilin", "ike tan" can disappear.
+👎 Before "pilin", "ike tan" can be omitted.
   
 | sina pilin ike tan utala. → sina pilin utala. |
 |:-|
@@ -370,7 +370,7 @@ When the **main clause** and the **subordinate clause** share the same [subject]
 |:-|
 | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) |
 
-ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs are tokiponized names or sounds. They always follow a [ɴᴏᴜɴ](#noun). "pi nimi" can disappear before ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs. In this case, the **quotation marks** disappear.
+ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs are tokiponized names or sounds. They always follow a [ɴᴏᴜɴ](#noun). "pi nimi" can be omitted before ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs. In this case, the **quotation marks** can be omitted.
 
 | ona li jo e nimi "Sonja". | ona li jan pi nimi "Sonja". → ona li jan Sonja |
 |:-|:-|
@@ -409,12 +409,6 @@ One can use ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as a whole ꜱᴇɴᴛᴇɴᴄᴇ.
 |:-|
 | *Ha!*, *Wow!* |
 
-👍 One can reply by a phrase only, but it can't start with a ᴘᴀʀᴛɪᴄʟᴇ.
-
-| ona li mama. → mama. | o jo e moku pona! → moku pona! |
-|:-|:-|
-| *She is a parent.* → *She is., Yes.* | *Have a good meal!* → *Bon appétit!* |
-
 👍 A word can be repeated as an ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ, replacing "a".
 
 | sina suli a! → sina suli suli! |
@@ -443,19 +437,25 @@ One can use ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as a whole ꜱᴇɴᴛᴇɴᴄᴇ.
 #### Subject and Predicate
 *([nimi lili luka](#transitive-particle) "li")*
 
-If the subject (i.e. the words before the ᴘᴀʀᴛɪᴄʟᴇ "li") is just "mi" or "sina", the ᴘᴀʀᴛɪᴄʟᴇ "li" disappears.
+If the **subject** (i.e. the words before the ᴘᴀʀᴛɪᴄʟᴇ "li") is just "mi" or "sina", the ᴘᴀʀᴛɪᴄʟᴇ "li" is omitted.
 
 | mi li mije. → mi mije. | sina li sin. → sina sin. |
 |:-|:-|
 | *I am a man.* | *You are new.* |
 
-A ꜱᴇɴᴛᴇɴᴄᴇ can have multiple predicates (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "li"). Their **commas** can disappear.
+A ꜱᴇɴᴛᴇɴᴄᴇ can have multiple **predicates** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "li"). Their **commas** can be (safely) removed.
 
 | ma mama li lili, li lete. → ma mama li lili li lete. |
 |:-|
 | *The motherland is small and cold.* |
 
-👍 After "mi" or "sina" the [ᴘᴀʀᴛɪᴄʟᴇ "li"](#subject-and-predicate) doesn't disappear, if there is a second [ᴘᴀʀᴛɪᴄʟᴇ "li"](#subject-and-predicate).
+One can reply to a yes/no-question with just the **predicate** of a ꜱᴇɴᴛᴇɴᴄᴇ.
+
+| ona li mama (a). → mama. |
+|:-|
+| *She is a parent.* → *Yes.* |
+
+👍 After "mi" or "sina" the [ᴘᴀʀᴛɪᴄʟᴇ "li"](#subject-and-predicate) can remain, if there is a second [ᴘᴀʀᴛɪᴄʟᴇ "li"](#subject-and-predicate).
 
 | mi lukin mute. mi sona lili. → mi li lukin mute li sona lili. |
 |:-|
@@ -467,26 +467,14 @@ A ꜱᴇɴᴛᴇɴᴄᴇ can have multiple predicates (i.e. the words after the 
 |:-|
 | *I am seeing much and knowing little.* |
 
-👎 When the subject (t.e. the words before the [ᴘᴀʀᴛɪᴄʟᴇ "li"](#subject-and-predicate)) is one word alone, "li" disappears.
-
-| ona li mama. → ona mama. |
-|:-|
-| *She is a parent.* |
-
 #### Direct Object
 *([nimi lili luka](#transitive-particle) "e")*
 
-A predicate (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "li") can have multiple **direct objects** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "e"). Their **commas** can disappear.
+A **predicate** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "li") can have multiple **direct objects** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "e"). Their **commas** can be omitted.
 
 | ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
 |:-|
 | *She cooks the meat and the rice.* |
-
-One can express a desire by just a **direct object** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "e").
-
-| tawa pona sina la mi wile e moku pona. → moku pona! |
-|:-|
-| *I wish you a good meal.* → *Bon appétit!* |
 
 👎 When the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "kepeken" becomes a [ᴠᴇʀʙ](#verb), **Pije** uses it with the ᴘᴀʀᴛɪᴄʟᴇ "e".
 
@@ -515,19 +503,25 @@ One can express a desire by just a **direct object** (i.e. the words after the �
 #### Volative, Vocative and Imperative
 *([nimi lili luka](#transitive-particle) "o")*
 
-"sina" can disappear before the ᴘᴀʀᴛɪᴄʟᴇ "o".
+"sina" can be omitted before the ᴘᴀʀᴛɪᴄʟᴇ "o".
 
 | sina o lukin. → o lukin! | jan Ali o wawa. → jan Ali o wawa! |
 |:-|:-|
 | *You should look.* → *Look!* | *Ali should be strong.* → *Ali, be strong!* |
 
-"kute" can disappear after the ᴘᴀʀᴛɪᴄʟᴇ "o". **Sonja** doesn't combine two "o"-ᴘᴀʀᴛɪᴄʟᴇs.
+"kute" can be omitted after the ᴘᴀʀᴛɪᴄʟᴇ "o". **Sonja** doesn't combine two "o"-ᴘᴀʀᴛɪᴄʟᴇs.
 
 | o kute! → o! | jan Ali o, o wawa! → jan Ali o wawa! |
 |:-|:-|
 | *Listen!* → *Hey!* | *Hey Ali, be strong!* |
 
-👎 A **volative** is expressed by starting the sentence with an "o".
+A **volative** can be expressed by just mentioning the **direct object** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "e") of a wish.
+
+| ni o kama: sina jo e moku pona. → moku pona! |
+|:-|
+| *May you have a good meal.* → *Bon appétit!* |
+
+👎 A **volative** can be expressed by starting the sentence with an "o".
 
 | ni o kama: ona li lape pona. → o ona li lape pona. |
 |:-|
@@ -536,7 +530,7 @@ One can express a desire by just a **direct object** (i.e. the words after the �
 #### Genitive
 *([nimi lili luka](#transitive-particle) "pi")*
 
-If a genitive phrase (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "pi") consists of only one [ɴᴏᴜɴ](#noun), the ᴘᴀʀᴛɪᴄʟᴇ "pi" disappears. So, that [ɴᴏᴜɴ](#noun) becomes a [ᴍᴏᴅɪꜰɪᴇʀ](#modifier).
+If a genitive phrase (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "pi") consists of a single [ɴᴏᴜɴ](#noun), the ᴘᴀʀᴛɪᴄʟᴇ "pi" be omitted. In other words, a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) consisting of a single [ɴᴏᴜɴ](#noun) is an [ᴀᴅᴊᴇᴄᴛɪᴠᴇ/ᴀᴅᴠᴇʀʙ](#modifier).
 
 | toki pi pona → toki pona |
 |:-|
@@ -548,7 +542,7 @@ As a rule of thumb, if the ᴘᴀʀᴛɪᴄʟᴇ "pi" doesn't add useful informa
 |:-|
 | *the person over there* → *that person* |
 
-👍 A genitive phrase (i.e. words after a ᴘᴀʀᴛɪᴄʟᴇ "pi") can have another genitive phrase.
+👍 A **genitive phrase** (i.e. words after a ᴘᴀʀᴛɪᴄʟᴇ "pi") can have another **genitive phrase**.
 
 | tomo pi telo nasa pi ma ante |
 |:-|
@@ -566,13 +560,13 @@ As a rule of thumb, if the ᴘᴀʀᴛɪᴄʟᴇ "pi" doesn't add useful informa
 |:-|
 | *You look up.* |
 
-👎 The [ᴘᴀʀᴛɪᴄʟᴇ "e"](#direct-object) can become the ᴘᴀʀᴛɪᴄʟᴇ "pi".
+👎 The [ᴘᴀʀᴛɪᴄʟᴇ "e"](#direct-object) can become the ᴘᴀʀᴛɪᴄʟᴇ "pi", turning a subsequent ᴘᴀʀᴛɪᴄʟᴇ "pi" into "e".
 
 | mi ante e toki pi sitelen tawa. → mi ante toki e sitelen tawa. |
 |:-|
 | *I translate the movie.* |
 
-👎 The ᴘᴀʀᴛɪᴄʟᴇ "pi" can disappear.
+👎 The ᴘᴀʀᴛɪᴄʟᴇ "pi" can be omitted.
 
 | tomo pi telo nasa → tomo telo nasa |
 |:-|
@@ -617,7 +611,7 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 |:-|
 | *What you say and what you do are the same.* |
 
-🤔 In front of words and after the same words negated, the ᴘᴀʀᴛɪᴄʟᴇ "anu" disappears.
+🤔 In front of words and after the same words negated, the ᴘᴀʀᴛɪᴄʟᴇ "anu" can be omitted.
 
 | ona li mama ala anu mama? → ona li mama ala mama? |
 |:-|
@@ -632,22 +626,17 @@ By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#p
 |:-|
 | *Why are you calling me good?* |
 
-At the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ, the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "lon" disappears.
+At the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ, the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "lon" can be omitted.
 
 | ona li kama lon tenpo pimeja ni. → tenpo pimeja ni la ona li kama. |
 |:-|
 | *She is coming tonight.* → *Tonight, she is coming.* |
 
-If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate clause**, "ni" disappears.
+If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate clause**, "ni" is omitted.
 
 | jan li pona tawa mi lon ni: mi pona tawa jan. → mi pona tawa jan, la jan li pona tawa mi. |
 |:-|
 | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
-👎 **Pije** doesn't use [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ. But he uses [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s instead.
-
-| sina pu tan jan seme? → tan pi jan seme la sina pu? |
-|:-|
-| *Because of whom do you interact with the Toki Pona book?* |
-
+👎 **Pije** doesn't use [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s at the beginning of a PRE-PHRASE.
 
