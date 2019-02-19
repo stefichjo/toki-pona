@@ -566,12 +566,6 @@ As a rule of thumb, if the ᴘᴀʀᴛɪᴄʟᴇ "pi" doesn't add useful informa
 |:-|
 | *I translate the movie.* |
 
-👎 The ᴘᴀʀᴛɪᴄʟᴇ "pi" can be omitted.
-
-| tomo pi telo nasa → tomo telo nasa |
-|:-|
-| *bar* |
-
 👎 The ᴘᴀʀᴛɪᴄʟᴇ "pi" can be used for comparisons.
 
 | jan li suli mute, mani li suli lili. → jan li suli mute mani. |
