@@ -207,7 +207,7 @@ NUMBERs can be used as [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ moving → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ going to, towards; for |
 
-ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs follow [ᴘᴀʀᴛɪᴄʟᴇ ᴘʜʀᴀꜱᴇ](#particles)s.
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs follow [ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ](#particles)s.
 
 | mi pana e kili tawa sina. |
 |:-|
@@ -349,7 +349,7 @@ As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean their tool used.
 ### PRE-VERB
 *([nimi suli wawa](#verb) poka)*
 
-When the **main clause** and the **subordinate clause** share the same [subject](#subject-and-predicate)), the two **clauses'** ᴠᴇʀʙ + [predicate](#subject-and-predicate)) can merge, i.e. the ᴠᴇʀʙ is used as a ᴘʀᴇ-ᴠᴇʀʙ.
+When the **main clause** and the **subordinate clause** share the same [subject](#subject-and-predicate), the two **clauses'** ᴠᴇʀʙ + [predicate](#subject-and-predicate) can merge, i.e. the ᴠᴇʀʙ is used as a ᴘʀᴇ-ᴠᴇʀʙ.
 
 | ᴘʀᴇ-ᴠᴇʀʙ wile | ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
 |:-|:-|
@@ -361,30 +361,43 @@ When the **main clause** and the **subordinate clause** share the same [subject]
 | |
 |:-|
 | [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle) |
-| [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) |
 | [ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇ](#transitive-particle) |
 
 ### SIMPLE PARTICLE
 *([nimi lili](#particle) pona)*
 
-ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs are tokiponized names. They always follow a [ɴᴏᴜɴ](#noun). "pi nimi" can disappear before ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs. In this case, the **quotation marks** disappear.
+| |
+|:-|
+| [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) |
 
-| ona li jo e nimi "Sonja". | jan pi nimi "Sonja" → jan Sonja 
+ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs are tokiponized names or sounds. They always follow a [ɴᴏᴜɴ](#noun). "pi nimi" can disappear before ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs. In this case, the **quotation marks** disappear.
+
+| ona li jo e nimi "Sonja". | ona li jan pi nimi "Sonja". → ona li jan Sonja |
 |:-|:-|
-| *She has the name "Sonja".* | *the person called "Sonja"* → *Sonja* |
+| *She has the name "Sonja".* | *She is the person called "Sonja".* → *She is Sonja.* |
 
-**Sonja** removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ ᴘʜʀᴀꜱᴇ.
+**Sonja** removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ. (**Pije** doesn't remove the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇs with "nanpa".)
 
 | toki pi nanpa wan → toki nanpa wan |
 |:-|
 | *the language with the number one* → *the language number one* |
 
-👎 **Pije** doesn't remove the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ ᴘʜʀᴀꜱᴇ with "nanpa".
-
-### INTERJECTION
+#### INTERJECTION
 *([nimi lili](#particle) kalama)*
 
-The ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" is usually omitted.
+ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs are ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs that imitate a sound. ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs can be used as [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-verb)s.
+
+| soweli li kalama "mu". → soweli li mu. | ona li kute e kalama "mu" wawa. → ona li kute e mu wawa. |
+|:-|:-|
+| *The animal bleats.* | *She heard a loud bleat.* |
+
+A name can be treated as an ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ, i.e. as an imitation of the sound of the name itself. Therefore, "nimi" meaning "kalama" can be omitted.
+
+| nimi ona li nimi Sonja. → nimi ona li Sonja. |
+|:-|
+| *Her name is Sonja.* → *Her name goes "Sonja".*, *Her name is Sonja.* |
+
+The affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" is usually implied.
 
 | ni li lon a. → ni li lon. |
 |:-|
@@ -394,13 +407,7 @@ One can use ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as a whole ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | a! |
 |:-|
-| *Ha!, Wow!* |
-
-An ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ can become a [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-verb).
-
-| soweli li kalama "mu". → soweli li mu. | ona li kute e nimi "mu" wawa. → ona li kute e mu wawa. |
-|:-|:-|
-| *The animal bleats.* | *She heard a loud bleat.* |
+| *Ha!*, *Wow!* |
 
 👍 One can reply by a phrase only, but it can't start with a ᴘᴀʀᴛɪᴄʟᴇ.
 
@@ -408,7 +415,7 @@ An ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ can become a [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-
 |:-|:-|
 | *She is a parent.* → *She is., Yes.* | *Have a good meal!* → *Bon appétit!* |
 
-👍 Two same words have the meaning of the [ᴍᴏᴅɪꜰɪᴇʀ](#modifier) "a".
+👍 A word can be repeated as an ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ, replacing "a".
 
 | sina suli a! → sina suli suli! |
 |:-|
