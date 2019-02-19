@@ -342,9 +342,9 @@ As a [ɴᴏᴜɴ](#noun), ᴛʜɪɴɢ ᴠᴇʀʙs mean their [direct object](#di
 
 As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean their tool used.
 
-| lukin |
+| ᴛᴏᴏʟ ᴠᴇʀʙ lukin |
 |:-|
-| *to see* → *eye* |
+| ᴠᴇʀʙ *to see* → ɴᴏᴜɴ *eye* |
 
 ### PRE-VERB
 *([nimi suli wawa](#verb) poka)*
