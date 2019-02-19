@@ -626,7 +626,7 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 |:-|
 | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
-👎 Before the [ᴘᴀʀᴛɪᴄʟᴇ "la"](#pre-phrase-particle), ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be omitted. **Pije** never uses [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s at the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ.
+👎 At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, all ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be omitted, not only "lon". **Pije** never uses [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s at the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ.
 
 | tawa mi la sina jan pona. → mi la sina jan pona. |
 |:-|
