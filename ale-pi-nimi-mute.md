@@ -116,7 +116,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/selo.png" height="42">     | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, **selo**, tomo, uta | ᴠᴇʀʙ to form → ɴᴏᴜɴ **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary** |
 |                                                        | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | open — **selo** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ closed, confined, isolated |
 | <img src="musi/sitelen/pona/seme.png" height="42">     | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nasin-toki.md#correlative) | ala, ale, ni, **seme**, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **what**, **which** → ɴᴏᴜɴ what, which one |
-| <img src="musi/sitelen/pona/sewi.png" height="42">     | [**ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#spatial-modifier) | anpa — **sewi**, lawa — noka | ᴀᴅᴊᴇᴄᴛɪᴠᴇ high; **awe-inspiring**, **divine**, **sacred**, **supernatural** → ɴᴏᴜɴ **area above**, 🤔 **highest part**; **something elevated**, divine |
+| <img src="musi/sitelen/pona/sewi.png" height="42">     | [**ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#spatial-modifier) | anpa — **sewi**, lawa — noka | ᴀᴅᴊᴇᴄᴛɪᴠᴇ high; **awe-inspiring**, **divine**, **sacred**, **supernatural** → ɴᴏᴜɴ **area above**, 🤔 (anpa -) **highest part**; **something elevated**, divine |
 | <img src="musi/sitelen/pona/sijelo.png" height="42">   | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | kulupu — **sijelo** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ individual; alive → ɴᴏᴜɴ **body (of person or animal)**, **torso**; life-form; health, **physical state** |
 | <img src="musi/sitelen/pona/sike.png" height="42">     | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | lipu, nena, **sike** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ round or circular; (- suno) **of one year** → ɴᴏᴜɴ **round or circular thing**; **ball**, **circle**, **cycle**, **sphere**, **wheel**, (- suno) year |
 | <img src="musi/sitelen/pona/sin.png" height="42">      | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-toki.md#preposition) | **sin**, taso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh**; **additional**, **another**, **extra** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ in addition to, with |
@@ -158,6 +158,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 
 * **amphibian**, **reptile** → **reptile**, **amphibian**
 * ᴘᴀʀᴛɪᴄʟᴇ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **not**
+* **altered**, …, **different** → **different**, **altered**
 * **lowly**; **dependent** → **lowly**, **dependent**
 * **staying**, **waiting** → **waiting**, **staying**
 * **business transaction**; **bazaar**, **fair**, **market**, **shop** →  **market**, **shop**, **fair**, **bazaar**, **business transaction**
