@@ -638,5 +638,5 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 |:-|
 | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
-👎 **Pije** doesn't use [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s at the beginning of a PRE-PHRASE.
+👎 **Pije** doesn't use [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s at the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ.
 
