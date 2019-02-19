@@ -255,7 +255,7 @@ In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#modifier)s/ᴀ�
 |:-|
 | *You look like a bird.* |
 
-👎 Before "pilin", "ike tan" can be omitted.
+👎 Before "pilin", "ike tan" is omitted.
   
 | sina pilin ike tan utala. → sina pilin utala. |
 |:-|
@@ -470,7 +470,7 @@ One can reply to a yes-no-question with just the **predicate** of a ꜱᴇɴᴛ�
 #### Direct Object
 *([nimi lili luka](#transitive-particle) "e")*
 
-A **predicate** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "li") can have multiple **direct objects** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "e"). Their **commas** can be omitted.
+A **predicate** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "li") can have multiple **direct objects** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "e"). Their **commas** can be (safely) omitted.
 
 | ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
 |:-|
@@ -505,9 +505,9 @@ A **predicate** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "li") can have m
 
 "sina" can be omitted before the ᴘᴀʀᴛɪᴄʟᴇ "o".
 
-| sina o lukin. → o lukin! | jan Ali o wawa. → jan Ali o wawa! |
+| sina o lukin. → o lukin! | jan Ali o wawa. |
 |:-|:-|
-| *You should look.* → *Look!* | *Ali should be strong.* → *Ali, be strong!* |
+| *You should look.* → *Look!* | *Ali should be strong.* |
 
 "kute" can be omitted after the ᴘᴀʀᴛɪᴄʟᴇ "o". **Sonja** doesn't combine two "o"-ᴘᴀʀᴛɪᴄʟᴇs.
 
@@ -521,7 +521,7 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 |:-|
 | *May you have a good meal.* → *Bon appétit!* |
 
-👎 A **volative** can be expressed by starting the ꜱᴇɴᴛᴇɴᴄᴇ with an "o".
+👎 A **volative** is expressed by starting the ꜱᴇɴᴛᴇɴᴄᴇ with an "o".
 
 | ni o kama: ona li lape pona. → o ona li lape pona. |
 |:-|
@@ -530,7 +530,7 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 #### Genitive
 *([nimi lili luka](#transitive-particle) "pi")*
 
-If a genitive phrase (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "pi") consists of a single [ɴᴏᴜɴ](#noun), the ᴘᴀʀᴛɪᴄʟᴇ "pi" be omitted. In other words, a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) consisting of a single [ɴᴏᴜɴ](#noun) is an [ᴀᴅᴊᴇᴄᴛɪᴠᴇ/ᴀᴅᴠᴇʀʙ](#modifier).
+If a genitive phrase (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "pi") consists of a single [ɴᴏᴜɴ](#noun), the ᴘᴀʀᴛɪᴄʟᴇ "pi" is omitted. In other words, a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) consisting of a single [ɴᴏᴜɴ](#noun) is an [ᴀᴅᴊᴇᴄᴛɪᴠᴇ/ᴀᴅᴠᴇʀʙ](#modifier).
 
 | toki pi pona → toki pona |
 |:-|
@@ -632,7 +632,7 @@ If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate
 |:-|
 | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
-👎 At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, all ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be omitted, not only "lon". **Pije** never uses [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s at the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ.
+👎 At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, all ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can are omitted, not only "lon". **Pije** never uses [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s at the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ.
 
 | tawa mi la sina jan pona. → mi la sina jan pona. |
 |:-|
