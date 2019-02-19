@@ -326,21 +326,21 @@ When their [direct object phrase](#direct-object) is omitted, ꜱɪᴍᴘʟᴇ �
 
 | ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ alasa |
 |:-|
-| ᴠᴇʀʙ *to hunt*, ɴᴏᴜɴ *the hunt* |
+| ᴠᴇʀʙ *to hunt*, ɴᴏᴜɴ *hunt* |
 
 ### THING VERB
 *([nimi suli wawa](#verb) ijo)*
 
-As a [ɴᴏᴜɴ](#noun), ꜱɪᴍᴘʟᴇ ᴠᴇʀʙs mean the direct object ("e ijo/ni") implied by the ᴠᴇʀʙ.
+As a [ɴᴏᴜɴ](#noun), ᴛʜɪɴɢ ᴠᴇʀʙs mean their [direct object](#direct-object).
 
-| sitelen |
+| ᴛʜɪɴɢ ᴠᴇʀʙ sitelen |
 |:-|
-| *to draw* → *picture* |
+| ᴠᴇʀʙ *to draw* → ɴᴏᴜɴ *picture* |
 
 ### TOOL VERB
 *([nimi suli wawa](#verb) ilo)*
 
-As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean the tool ("kepeken ilo") implied by the ᴠᴇʀʙ.
+As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean their tool used.
 
 | lukin |
 |:-|
