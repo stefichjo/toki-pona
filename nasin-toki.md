@@ -449,7 +449,7 @@ A ꜱᴇɴᴛᴇɴᴄᴇ can have multiple **predicates** (i.e. the words after 
 |:-|
 | *The motherland is small and cold.* |
 
-One can reply to a yes/no-question with just the **predicate** of a ꜱᴇɴᴛᴇɴᴄᴇ.
+One can reply to a yes-no-question with just the **predicate** of a ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | ona li mama (a). → mama. |
 |:-|
@@ -575,7 +575,7 @@ As a rule of thumb, if the ᴘᴀʀᴛɪᴄʟᴇ "pi" doesn't add useful informa
 ### CONJUNCTION
 *([nimi lili luka](#transitive-particle) "en", [nimi lili luka](#transitive-particle) "anu")*
 
-By means of "anu seme" one can express a yes-no-question. In this case "seme" is a [ᴠᴇʀʙ](#verb).
+By means of "anu seme" one can express a yes-no-question. In this case "seme" is an alternative [predicate](#subject-and-predicate).
 
 | ona li mama anu seme? |
 |:-|
