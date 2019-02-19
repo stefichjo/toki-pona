@@ -162,7 +162,7 @@ In a [genitive](#genitive) clause, "ijo" before a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ 
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded → ɴᴏᴜɴ amphibian, reptile |
 
-### ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀ
+### PERSON MODIFIER
 *([nimi suli poka](#modifier) jan)*
 
 As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
@@ -173,6 +173,12 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 
 ### NUMBER
 *([nimi suli poka](#modifier) nanpa)*
+
+NUMBERs can be used as [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle)s after "nanpa".
+
+| sina nanpa wan. |
+|:-|
+| *You're number one.* |
 
 👍 As [ɴᴏᴜɴ](#noun)s, ɴᴜᴍʙᴇʀs imply "ijo".
 
@@ -189,19 +195,25 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 ### PREPOSITION
 *([nimi suli poka](#modifier) luka)*
 
-ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs follow ᴘᴀʀᴛɪᴄʟᴇ ᴘʜʀᴀꜱᴇs.
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are ᴍᴏᴅɪꜰɪᴇʀs with an additional ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ.
+
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
+|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ moving → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ going to, towards; for |
+
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs follow [ᴘᴀʀᴛɪᴄʟᴇ ᴘʜʀᴀꜱᴇ](#particles)s.
 
 | mi pana e kili tawa sina. |
 |:-|
-| *I'm giving you the apple.* |
+| *I'm giving you an apple.* |
 
-When a [ᴍᴏᴅɪꜰɪᴇʀ](#modifier) and a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ are the same, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ disappears. There can be an [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) between the [ᴠᴇʀʙ](#verb) and the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition).
+When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped. A ᴘᴀʀᴛɪᴄʟᴇ can be added to the ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but no ᴀᴅᴠᴇʀʙ.
 
-| mi tawa tawa tomo seli. → mi tawa tomo seli. | mi tawa ala tawa tomo seli. → mi tawa ala tomo seli. |
-|:-|:-|
-| *I'm going to the kitchen.* | *I'm not going to the kitchen.* |
+| mi tawa tawa tomo seli. → mi tawa tomo seli. | mi tawa ala tawa tomo seli. → mi tawa ala tomo seli. | mi tawa wawa tawa tomo seli. |
+|:-|:-|:-|
+| *I'm going to the kitchen.* | *I'm not going to the kitchen.* | *I'm running to the kitchen.* |
 
-**Sonja** uses ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs only with **predicates**. In this case, one can remove the **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.
+**Sonja** uses ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs only with **predicates** and (safely) removes the **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs.
 
 | mi toki tawa sina, lon tomo seli. → mi toki tawa sina lon tomo seli. |
 |:-|
@@ -213,29 +225,22 @@ In all other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪ
 |:-|:-|
 | *neighbour* | *beautiful* |
 
-👍 When a [ᴠᴇʀʙ](#verb) and a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ are the same, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ disappears and the direct object moves to the end of the sentence.
+👍 When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped and the [direct object phrase](#direct-object) goes to the end of the sentence.
+| mi tawa e ona tawa tomo seli. → mi tawa tomo seli e ona. | mi tawa ala e ona tawa tomo seli. → mi tawa ala tomo seli e ona. | mi tawa wawa e ona tawa tomo seli. |
+|:-|:-|:-|
+| *I'm moving it to the kitchen.* | *I'm not moving it to the kitchen.* | *I'm not moving it to the kitchen fast.* |
 
-| mi tawa e ona tawa tomo seli. → mi tawa tomo seli e ona. | mi tawa ala e ona tawa tomo seli. → mi tawa ala tomo seli e ona. |
-|:-|:-|
-| *I'm moving it to the kitchen.* | *I'm not moving it to the kitchen.* |
-
-👍 "ijo" + [ᴍᴏᴅɪꜰɪᴇʀ](#modifier) can express possession or topic.
+👍 "ijo" + [ɴᴏᴜɴ](#noun) can express possession or topic.
 
 | lipu ni li ijo mi. | lipu ni li toki e ijo mi. |
 |:-|:-|
 | *This book is mine.* | *This book is about me.* |
 
-👍 "tawa poka" and "lon poka" can have the meaning of the experimental ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "ante".
+👍 "lon/tawa poka" can be used for comparisons.
 
-| jan li suli mute, mani li suli lili. → jan li suli mute tawa/lon poka mani. → jan li suli mute ante mani. |
+| jan li suli mute, mani li suli lili. → jan li suli mute lon/tawa poka mani. |
 |:-|
 | *People are more important than money.* |
-
-👍 "taso" as a [ᴘᴀʀᴛɪᴄʟᴇ](#particle) can be thought of as an abbreviation of "taso ni la".
-
-| taso ni la mije en meli li pali li pilin pona. → taso mije en meli li pali li pilin pona. |
-|:-|
-| *Independent from that, men and women work and are happy.* → *But men and women work and are happy.* |
 
 👎 Before the [ᴘᴀʀᴛɪᴄʟᴇ "la"](#pre-phrase-particle), ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can disappear.
 
@@ -255,29 +260,29 @@ In all other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪ
 |:-|
 | *You are empathizing badly because of struggle.* → *You are angry.* |
 
-👎 [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](#spatial-modifier)s can become a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs implying "lon".
+👎 [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](#spatial-modifier)s can become a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ implying "lon".
 
 | mi tawa lon poka sina. → mi tawa poka sina. |
 |:-|
 | *I'm going with you.* |
 
-👎 "lon poka" can disappear.
+👎 The [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) can be used for comparisons.
 
-| jan li suli mute lon poka mani. → jan li suli mute mani. |
+| jan li suli mute, mani li suli lili. → jan li suli mute mani. |
 |:-|
 | *People are more important than money.* |
 
-👎 When a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) becomes a [ɴᴏᴜɴ](#noun), its meaning can become that of the word "ijo" after that ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ. **Pije** uses the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "tan" in this way.
+👎 As a [ɴᴏᴜɴ](#noun), ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs mean their implied ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ. **Pije** uses the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "tan" in this way.
 
-| mi sona ala e ni: ni li tan seme. → mi sona ala e tan. | ona li tawa e ona sama. → ona li tawa e sama. |
-|:-|:-|
-| *I don't know the reason.* | *It moves itself.* |
-
-🤔 …
-
-| a → lon |
+| mi sona ala e ni: ona li lon seme. → mi sona ala e lon ona. |
 |:-|
-| *true* |
+| *I don't know her whereabouts.* |
+
+👎 As a [ɴᴏᴜɴ](#noun), the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "sama" means "ona sama".
+
+| ona li tawa e ona sama. → ona li tawa e sama. |
+|:-|
+| *It moves itself.* |
 
 ## VERB
 *([nimi suli](#content-word) wawa)*
@@ -394,32 +399,32 @@ After the ᴘʀᴇ-ᴠᴇʀʙs "awen" and "kama", "lon" can disappear.
 
 **Sonja** removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ ᴘʜʀᴀꜱᴇ.
 
-| sina nanpa wan | toki pi nanpa wan → toki nanpa wan |
-|:-|:-|
-| *You're number one.* | *the language with the number one* → *the language number one* |
+| toki pi nanpa wan → toki nanpa wan |
+|:-|
+| *the language with the number one* → *the language number one* |
 
 👎 **Pije** doesn't remove the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ ᴘʜʀᴀꜱᴇ with "nanpa".
 
 ### INTERJECTION
 *([nimi lili](#particle) kalama)*
 
-One can express an emotion by means of a plain ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ as if it were a ꜱᴇɴᴛᴇɴᴄᴇ.
+The ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" is usually omitted.
 
-| a! | mu! |
-|:-|:-|
-| *Ha!, Wow!* | *Blah!, Meeow!* |
+| ni li lon a. → ni li lon. |
+|:-|
+| *This does exist.* → *This is true.* |
+
+One can use ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as a whole ꜱᴇɴᴛᴇɴᴄᴇ.
+
+| a! |
+|:-|
+| *Ha!, Wow!* |
 
 An ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ can become a [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-verb).
 
 | soweli li kalama "mu". → soweli li mu. | ona li kute e nimi "mu" wawa. → ona li kute e mu wawa. |
 |:-|:-|
 | *The animal bleats.* | *She heard a loud bleat.* |
-
-👍 An ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ can become a [ᴍᴏᴅɪꜰɪᴇʀ](#modifier).
-
-| a |
-|:-|
-| *indeed, yes* |
 
 👍 One can reply by a phrase only, but it can't start with a ᴘᴀʀᴛɪᴄʟᴇ.
 
