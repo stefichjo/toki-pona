@@ -5,10 +5,10 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 
 | sitelen | paradigm | word | meaning |
 |:-|:-|:-|:-|
-| <img src="musi/sitelen/pona/a.png" height="42">        | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-toki.md#interjection) | mu — **a**, ala | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)** → ꜱᴇɴᴛᴇɴᴄᴇ yes! |
+| <img src="musi/sitelen/pona/a.png" height="42">        | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-toki.md#interjection) | mu — **a**, ala | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, indeed → ꜱᴇɴᴛᴇɴᴄᴇ yes! |
 | <img src="musi/sitelen/pona/akesi.png" height="42">    | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#life-form-modifier) | **akesi** — soweli | ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded; not using Toki Pona in a Toki Pona context → ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; monster |
-| <img src="musi/sitelen/pona/ala.png" height="42">      | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-toki.md#interjection) | mu — a, **ala** | ᴘᴀʀᴛɪᴄʟᴇ (negation) → ꜱᴇɴᴛᴇɴᴄᴇ outch!, no! |
-|                                                        | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nasin-toki.md#correlative) | **ala**, ale, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ (lon -) false, **no**, non-, ᴀᴅᴠᴇʀʙ **not** → ɴᴏᴜɴ nothing |
+| <img src="musi/sitelen/pona/ala.png" height="42">      | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-toki.md#interjection) | mu — a, **ala** | ᴘᴀʀᴛɪᴄʟᴇ (negation), **not** → ꜱᴇɴᴛᴇɴᴄᴇ no! |
+|                                                        | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nasin-toki.md#correlative) | **ala**, ale, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ (lon -) false, **no**, non- → ɴᴏᴜɴ nothing |
 |                                                        | [**ɴᴜᴍʙᴇʀ**](nasin-toki.md#number) | **ala**, ale, esun, luka, mute, tu, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ 0, **zero** → ɴᴏᴜɴ none |
 | <img src="musi/sitelen/pona/alasa.png" height="42">    | [**ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ**](nasin-toki.md#simple-verb) | **alasa**, pali | ᴠᴇʀʙ **to hunt**, **forage** |
 | <img src="musi/sitelen/pona/ale.png" height="42">      | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | **ale** — wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **all**, whole → ɴᴏᴜɴ  **life**, system, **universe** |
@@ -74,7 +74,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/moku.png" height="42">     | [**ᴛʜɪɴɢ ᴠᴇʀʙ**](nasin-toki.md#thing-verb) | **moku** | ᴠᴇʀʙ **to consume**, **drink**, **eat**, **ingest**, **swallow** → ɴᴏᴜɴ mouthful; food |
 | <img src="musi/sitelen/pona/moli.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | lape, **moli**, musi | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**, 🤔 (kama -) **dying** |
 | <img src="musi/sitelen/pona/monsi.png" height="42">    | [**ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#spatial-modifier) | weka — insa, **monsi**, poka, sinpin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ rear → ɴᴏᴜɴ **back**, **behind**, **rear** |
-| <img src="musi/sitelen/pona/mu.png" height="42">       | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-toki.md#interjection) | **mu** — a, ala | ᴘᴀʀᴛɪᴄʟᴇ **(animal noise or communication)**, (indifference) → ꜱᴇɴᴛᴇɴᴄᴇ blah! |
+| <img src="musi/sitelen/pona/mu.png" height="42">       | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-toki.md#interjection) | **mu** — a, ala | ᴘᴀʀᴛɪᴄʟᴇ **(animal noise or communication)**, (indifference), -ish → ꜱᴇɴᴛᴇɴᴄᴇ blah! |
 | <img src="musi/sitelen/pona/mun.png" height="42">      | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | ma, **mun** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ sky-walking at night → ɴᴏᴜɴ **moon**, **night sky object**, **star** |
 | <img src="musi/sitelen/pona/musi.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | lape, moli, **musi** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** |
 | <img src="musi/sitelen/pona/mute.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | lili — ale, **mute**, suli, wawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **a lot**, **many**, 🤔 (- sin) **more**, **much**, **several**, ᴀᴅᴠᴇʀʙ **very**, ɴᴏᴜɴ **quantity** |
@@ -157,8 +157,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 ## Deviations
 
 * **amphibian**, **reptile** → **reptile**, **amphibian**
-* ᴀᴅᴠᴇʀʙ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **not**
-* ɴᴜᴍʙᴇʀ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **zero**
+* ᴘᴀʀᴛɪᴄʟᴇ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **not**
 * **lowly**; **dependent** → **lowly**, **dependent**
 * **staying**, **waiting** → **waiting**, **staying**
 * **business transaction**; **bazaar**, **fair**, **market**, **shop** →  **market**, **shop**, **fair**, **bazaar**, **business transaction**
