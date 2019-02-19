@@ -176,17 +176,11 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 
 👍 As [ɴᴏᴜɴ](#noun)s, ɴᴜᴍʙᴇʀs imply "ijo".
 
-| ɴᴜᴍʙᴇʀ tu | tenpo suno luka tu en tu tu |
-|:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ two → ɴᴏᴜɴ pair | *fourteen days* |
+| ɴᴜᴍʙᴇʀ tu | tenpo suno luka tu en tu tu | wan mute pi tu tu
+|:-|:-|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ two → ɴᴏᴜɴ pair | *fourteen days*, *two times five days, plus four* | *three elements of two pairs*, *three quarters* |
 
-👍 By means of a ɴᴜᴍʙᴇʀ of a small quantity and a ɴᴜᴍʙᴇʀ of a big quantity one can express a quantity between zero and one.
-
-| mi pana e wan wan pi tu tu tawa sina. | mi pana e wan mute pi tu tu tawa sina. |
-|:-|:-|
-| *I give you one quarter.* | *I give you three quarters.* |
-
-🤔 With two [ɴᴜᴍʙᴇʀ](#number)s, the **comma** can disappear.
+🤔 Between two [ɴᴜᴍʙᴇʀ](#number)s, the **comma** can disappear.
 
 | palisa luka, tu → palisa luka tu |
 |:-|

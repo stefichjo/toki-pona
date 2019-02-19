@@ -22,7 +22,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/awen.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | **awen**, kama, pini | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**, **protected**, **safe**, **staying**, **waiting**, ɴᴏᴜɴ (lon -) during |
 |                                                        | [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-toki.md#pre-verb) | **awen**, kama, pini | ᴠᴇʀʙ to continue → ᴘʀᴇ-ᴠᴇʀʙ **to continue to** |
 | <img src="musi/sitelen/pona/e.png" height="42">        | [**ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ**](nasin-toki.md#phrase-particle) | **e**, li, o, pi | ᴘᴀʀᴛɪᴄʟᴇ **(before the direct object)** |
-| <img src="musi/sitelen/pona/en.png" height="42">       | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](nasin-toki.md#conjunction) | anu — **en** | ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, (between multiple ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs belonging to the same ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ) |
+| <img src="musi/sitelen/pona/en.png" height="42">       | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](nasin-toki.md#conjunction) | anu — **en** | ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, (between multiple ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs belonging to the same ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ), and, plus |
 | <img src="musi/sitelen/pona/esun.png" height="42">     | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-toki.md#preposition) | **esun**, kepeken, pu | ᴀᴅᴊᴇᴄᴛɪᴠᴇ replacing, ɴᴏᴜɴ exchange, replacement; **business transaction**; **bazaar**, **fair**, **market**, **shop** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ instead of |
 |                                                        | [**ɴᴜᴍʙᴇʀ**](nasin-toki.md#number) | ala, ale, **esun**, luka, mute, tu, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ 7, seven → ɴᴏᴜɴ sevenfold amount |
 | <img src="musi/sitelen/pona/ijo.png" height="42">      | [**ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ**](nasin-toki.md#noun) | **ijo**, ilo, jan, tenpo | ɴᴏᴜɴ **matter**, **object**, **phenomenon**, **thing**; area, location, place; case |
@@ -147,7 +147,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/walo.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | pimeja — **walo** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **white**, **whitish** |
 |                                                        | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | kule — **walo** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **light-coloured**, **pale** |
 | <img src="musi/sitelen/pona/wan.png" height="42">      | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | tu — **wan** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **united** |
-|                                                        | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | ale — **wan** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ (- lili) partial, (- nasa) **unique** → ɴᴏᴜɴ (- lili) part |
+|                                                        | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | ale — **wan** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ (- lili) partial, (- nasa) **unique** → ɴᴏᴜɴ (- lili) element, member, part |
 |                                                        | [**ɴᴜᴍʙᴇʀ**](nasin-toki.md#number) | ala, ale, esun, luka, mute, tu, **wan** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ 1, **one** → ɴᴏᴜɴ singleton |
 |                                                        | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nasin-toki.md#correlative) | ala, ale, ni, seme, **wan** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ specific → ɴᴏᴜɴ something specific |
 | <img src="musi/sitelen/pona/waso.png" height="42">     | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#life-form-modifier) | kala, kasi, pipi, **waso** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ flying, winging → ɴᴏᴜɴ **bird**, **flying creature**, **winged animal** |
