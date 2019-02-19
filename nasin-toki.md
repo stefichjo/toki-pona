@@ -180,7 +180,7 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 ### NUMBER
 *([nimi suli poka](#modifier) nanpa)*
 
-NUMBERs can be used as [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle)s after "nanpa".
+ɴᴜᴍʙᴇʀs can be used as [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle)s after "nanpa".
 
 | sina nanpa wan. |
 |:-|
