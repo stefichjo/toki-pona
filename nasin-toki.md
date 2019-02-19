@@ -226,6 +226,7 @@ In all other cases, **Sonja** uses ᴍᴏᴅɪꜰɪᴇʀs (or the [ᴘᴀʀᴛɪ
 | *neighbour* | *beautiful* |
 
 👍 When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped and the [direct object phrase](#direct-object) goes to the end of the sentence.
+
 | mi tawa e ona tawa tomo seli. → mi tawa tomo seli e ona. | mi tawa ala e ona tawa tomo seli. → mi tawa ala tomo seli e ona. | mi tawa wawa e ona tawa tomo seli. |
 |:-|:-|:-|
 | *I'm moving it to the kitchen.* | *I'm not moving it to the kitchen.* | *I'm not moving it to the kitchen fast.* |
