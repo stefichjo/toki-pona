@@ -322,11 +322,11 @@ In all other cases, **Sonja** uses ᴀᴅᴊᴇᴄᴛɪᴠᴇs/ᴀᴅᴠᴇʀʙs
 ### SIMPLE VERB
 *([nimi suli wawa](#verb) pona)*
 
-As a [ɴᴏᴜɴ](#noun), ꜱɪᴍᴘʟᴇ ᴠᴇʀʙs mean the action described by the ᴠᴇʀʙ.
+When their [direct object phrase](#direct-object) is omitted, ꜱɪᴍᴘʟᴇ ᴠᴇʀʙs behave like ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀs.
 
-| alasa |
+| ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ alasa |
 |:-|
-| *to hunt* → *the hunt* |
+| ᴠᴇʀʙ *to hunt*, ɴᴏᴜɴ *the hunt* |
 
 ### THING VERB
 *([nimi suli wawa](#verb) ijo)*
