@@ -8,9 +8,8 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/a.png" height="42">        | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-toki.md#interjection) | mu — **a**, ala | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)** → ꜱᴇɴᴛᴇɴᴄᴇ yes! |
 | <img src="musi/sitelen/pona/akesi.png" height="42">    | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#life-form-modifier) | **akesi** — soweli | ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded; not using Toki Pona in a Toki Pona context → ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; monster |
 | <img src="musi/sitelen/pona/ala.png" height="42">      | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-toki.md#interjection) | mu — a, **ala** | ᴘᴀʀᴛɪᴄʟᴇ (negation) → ꜱᴇɴᴛᴇɴᴄᴇ outch!, no! |
-|                                                        | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nasin-toki.md#correlative) | **ala**, ale, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **no**, ᴀᴅᴠᴇʀʙ **not** → ɴᴏᴜɴ none, nothing |
+|                                                        | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nasin-toki.md#correlative) | **ala**, ale, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ (lon -) false, **no**, non-, ᴀᴅᴠᴇʀʙ **not** → ɴᴏᴜɴ none, nothing |
 |                                                        | [**ɴᴜᴍʙᴇʀ**](nasin-toki.md#number) | **ala**, ale, esun, luka, mute, tu, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ 0, **zero** |
-|                                                        | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | **ala** — lon | ᴀᴅᴊᴇᴄᴛɪᴠᴇ (lon -) false, non- |
 | <img src="musi/sitelen/pona/alasa.png" height="42">    | [**ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ**](nasin-toki.md#simple-verb) | **alasa**, pali | ᴠᴇʀʙ **to hunt**, **forage** |
 | <img src="musi/sitelen/pona/ale.png" height="42">      | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | **ale** — wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **all**, whole → ɴᴏᴜɴ  **life**, system, **universe** |
 |                                                        | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nasin-toki.md#correlative) | ala, **ale**, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **every** → ɴᴏᴜɴ **everything** |
@@ -60,8 +59,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/linja.png" height="42">    | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | **linja** — palisa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ long and flexible → ɴᴏᴜɴ **long and flexible thing**; **cord**, **hair**, **rope**, **thread**, **yarn** |
 | <img src="musi/sitelen/pona/lipu.png" height="42">     | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | **lipu**, nena, sike | ᴀᴅᴊᴇᴄᴛɪᴠᴇ flat → ɴᴏᴜɴ **flat object**; **book**, **card**, **document**, **paper**, **record**, **website** |
 | <img src="musi/sitelen/pona/loje.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | jelo, laso, **loje** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **red**, **reddish** |
-| <img src="musi/sitelen/pona/lon.png" height="42">      | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-toki.md#preposition) | **lon**, tan, tawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ being present → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **located at**, **present at** |
-|                                                        | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | ala — **lon** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **existing**, **real**, (- a) **true** |
+| <img src="musi/sitelen/pona/lon.png" height="42">      | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-toki.md#preposition) | **lon**, tan, tawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ being present, **existing**, **real**, (- a) **true** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **located at**, **present at** |
 | <img src="musi/sitelen/pona/luka.png" height="42">     | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nasin-toki.md#tool-verb) | kute, lawa, len, **luka**, lukin, noka, palisa, pilin, poki, selo, tomo, uta | ᴠᴇʀʙ to manipulate, touch → ɴᴏᴜɴ **arm**, **hand**, **tactile organ** |
 |                                                        | [**ɴᴜᴍʙᴇʀ**](nasin-toki.md#number) | ala, ale, esun, **luka**, mute, tu, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ 5, **five** → ɴᴏᴜɴ fivefold amount |
 | <img src="musi/sitelen/pona/lukin.png" height="42">    | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nasin-toki.md#tool-verb) | kute, lawa, len, luka, **lukin**, noka, palisa, pilin, poki, selo, tomi, uta | ᴠᴇʀʙ **to look at**, **see**, **examine**, **observe**, **read**, **watch** → ɴᴏᴜɴ **eye** |
