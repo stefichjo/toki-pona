@@ -156,7 +156,35 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 
 ## Deviations
 
-* **number** → **numbers**
+* , **reptile**
+* ᴘᴀʀᴛɪᴄʟᴇ **not**
+* , **different**
+* ; **dependent**
+* , **waiting**
+* **business transaction**; **bazaar**, **fair**,
+* **matter**, **object**, **phenomenon**, **thing**
+* , **non-essential**
+* **device**, … , **tool**
+* ; **between**
+* , **have**
+* ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound**,
+* ; **manage to**
+* **by means of**, … , **using**
+* **fruit**; … , **vegetable**
+* ; **pigmented**
+* , **sleeping**
+* predicate
+* , **document**
+* ᴀᴅᴊᴇᴄᴛɪᴠᴇ … , **real**, **true**
+* , **parent**
+* **large domesticated animal**; … , **money**
+* , **female**, **feminine person**
+* **I**/**me**, **we**/**us**
+* , **man**
+* **to consume**, **drink**, **eat**, … , **swallow**
+* , **many** … ᴀᴅᴠᴇʀʙ **very**
+* **numbers**
+
 * **(ordinal number)**, **-th** → **-th (ordinal number)**
 * **strange**, **unusual** → **unusual**, **strange**
 * **crazy**, **foolish** → **foolish**, **crazy**
@@ -190,40 +218,6 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 * **jaw**, **lips**, **mouth**, **oral cavity** → **mouth**, **lips**, **oral cavity**, **jaw**
 * **powerful**, **strong** → **strong**, **powerful**
 * **away**; **ignored** → **away**, **ignored**
-
-### Order
-
-* , **reptile**
-* , **different**
-* ; **dependent**
-* , **waiting**
-* **business transaction**; **bazaar**, **fair**,
-* **matter**, **object**, **phenomenon**, **thing**
-* , **non-essential**
-* **device**, … , **tool**
-* ; **between**
-* , **have**
-* ; **manage to**
-* **by means of**, … , **using**
-* **fruit**; … , **vegetable**
-* ; **pigmented**
-* , **sleeping**
-* , **document**
-* , **parent**
-* **large domesticated animal**; … , **money**
-* , **female**, **feminine person**
-* **I**/**me**, **we**/**us**
-* , **man**
-* **to consume**, **drink**, **eat**, … , **swallow**
-* , **many**
-
-### Part-of-Speech
-
-* ᴘᴀʀᴛɪᴄʟᴇ **not**
-* ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound**,
-* predicate
-* ᴀᴅᴊᴇᴄᴛɪᴠᴇ … , **real**, **true**
-* ᴀᴅᴠᴇʀʙ **very**
 
 
 
