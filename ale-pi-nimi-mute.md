@@ -156,11 +156,11 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 
 ## Deviations
 
-* **amphibian**, **reptile** → **reptile**, **amphibian**
-* ᴘᴀʀᴛɪᴄʟᴇ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **not**
-* **altered**, …, **different** → **different**, **altered**
-* **lowly**; **dependent** → **lowly**, **dependent**
-* **staying**, **waiting** → **waiting**, **staying**
+* , **reptile**
+* ᴘᴀʀᴛɪᴄʟᴇ **not**
+* , **different**
+* ; **dependent**
+* , **waiting**
 * **business transaction**; **bazaar**, **fair**, **market**, **shop** →  **market**, **shop**, **fair**, **bazaar**, **business transaction**
 * **matter**, **object**, **phenomenon**, **thing** → **thing**, **phenomenon**, **object**, **matter**
 * **irrelevant**, **non-essential** → **non-essential**, **irrelevant**
