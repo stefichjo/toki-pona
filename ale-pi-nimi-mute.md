@@ -161,12 +161,14 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 * , **different**
 * ; **dependent**
 * , **waiting**
-* **business transaction**; **bazaar**, **fair**, **market**, **shop** →  **market**, **shop**, **fair**, **bazaar**, **business transaction**
-* **matter**, **object**, **phenomenon**, **thing** → **thing**, **phenomenon**, **object**, **matter**
-* **irrelevant**, **non-essential** → **non-essential**, **irrelevant**
-* **device**, **implement**, **machine**, **tool** → **tool**, **implement**, **machine**, **device**
-* **inside**; **between** → **inside**, **between**
-* **to carry**, **contain**, **have** → **to have**, **carry**, **contain**
+* **business transaction**;
+* **bazaar**, **fair**,
+* **matter**, **object**, **phenomenon**, **thing**
+* , **non-essential**
+* **device**,
+* , **tool**
+* ; **between**
+* , **have**
 * ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound**, ᴠᴇʀʙ **to recite** → ᴠᴇʀʙ **to produce a sound**; **recite**
 * **to become**; **manage to** → **to become**, **manage to**
 * **by means of**, **using**, **with** → **to use**, **with**, **by means of**
