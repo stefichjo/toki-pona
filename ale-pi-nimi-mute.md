@@ -156,17 +156,6 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 
 ## Deviations
 
-* **(between any subject except mi alone or sina alone and its predicate → ᴠᴇʀʙ; also to introduce a new predicate → ᴠᴇʀʙ for the same subject)**
-* **card**, **document** → **document**, **card**
-* ᴀᴅᴊᴇᴄᴛɪᴠᴇ **existing**, **real**, **true** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **real**, **true**, **existing**
-* **ancestor**, **parent** → **parent**, **ancestor**
-* **large domesticated animal**; **cash**, **money** → **money**, **cash**; **large domesticated animal**
-* **woman**, **female**, **feminine person** → **female**, **feminine person**, **woman**
-* **I**/**me**, **we**/**us** → **I**, **me**, **we**, **us**
-* **male**, **man** → **man**, **male**
-* **to consume**, **drink**, **eat**, **ingest**, **swallow** → **to eat**, **drink**, **consume**, **swallow**, **ingest**
-* **a lot**, **many** → **many**, **a lot**
-* ᴀᴅᴠᴇʀʙ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ **very**
 * **number** → **numbers**
 * **(ordinal number)**, **-th** → **-th (ordinal number)**
 * **strange**, **unusual** → **unusual**, **strange**
@@ -202,7 +191,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 * **powerful**, **strong** → **strong**, **powerful**
 * **away**; **ignored** → **away**, **ignored**
 
-### Order, Punctuation
+### Order
 
 * , **reptile**
 * , **different**
@@ -219,12 +208,22 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 * **fruit**; … , **vegetable**
 * ; **pigmented**
 * , **sleeping**
+* , **document**
+* , **parent**
+* **large domesticated animal**; … , **money**
+* , **female**, **feminine person**
+* **I**/**me**, **we**/**us**
+* , **man**
+* **to consume**, **drink**, **eat**, … , **swallow**
+* , **many**
 
 ### Part-of-Speech
 
 * ᴘᴀʀᴛɪᴄʟᴇ **not**
 * ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound**,
-
+* predicate
+* ᴀᴅᴊᴇᴄᴛɪᴠᴇ … , **real**, **true**
+* ᴀᴅᴠᴇʀʙ **very**
 
 
 
