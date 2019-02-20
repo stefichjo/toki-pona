@@ -156,25 +156,6 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 
 ## Deviations
 
-* , **reptile**
-* ᴘᴀʀᴛɪᴄʟᴇ **not**
-* , **different**
-* ; **dependent**
-* , **waiting**
-* **business transaction**;
-* **bazaar**, **fair**,
-* **matter**, **object**, **phenomenon**, **thing**
-* , **non-essential**
-* **device**,
-* , **tool**
-* ; **between**
-* , **have**
-* ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound**, ᴠᴇʀʙ **to recite** → ᴠᴇʀʙ **to produce a sound**; **recite**
-* **to become**; **manage to** → **to become**, **manage to**
-* **by means of**, **using**, **with** → **to use**, **with**, **by means of**
-* **fruit**; **mushroom**, **vegetable** → **fruit**, **vegetable**, **mushroom**
-* **painted**; **pigmented** → **pigmented**, **painted**
-* **resting**, **sleeping** → **sleeping**, **resting**
 * **(between any subject except mi alone or sina alone and its predicate → ᴠᴇʀʙ; also to introduce a new predicate → ᴠᴇʀʙ for the same subject)**
 * **card**, **document** → **document**, **card**
 * ᴀᴅᴊᴇᴄᴛɪᴠᴇ **existing**, **real**, **true** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **real**, **true**, **existing**
@@ -220,3 +201,30 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 * **jaw**, **lips**, **mouth**, **oral cavity** → **mouth**, **lips**, **oral cavity**, **jaw**
 * **powerful**, **strong** → **strong**, **powerful**
 * **away**; **ignored** → **away**, **ignored**
+
+### Order, Punctuation
+
+* , **reptile**
+* , **different**
+* ; **dependent**
+* , **waiting**
+* **business transaction**; **bazaar**, **fair**,
+* **matter**, **object**, **phenomenon**, **thing**
+* , **non-essential**
+* **device**, … , **tool**
+* ; **between**
+* , **have**
+* ; **manage to**
+* **by means of**, … , **using**
+* **fruit**; … , **vegetable**
+* ; **pigmented**
+* , **sleeping**
+
+### Part-of-Speech
+
+* ᴘᴀʀᴛɪᴄʟᴇ **not**
+* ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound**,
+
+
+
+
