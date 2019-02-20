@@ -2,6 +2,7 @@
 *(ante)*
 
 ## Dictionary
+*([ale pi nimi mute](ale-pi-nimi-mute.md))*
 
 * , **reptile**
 * ᴘᴀʀᴛɪᴄʟᴇ **not**
