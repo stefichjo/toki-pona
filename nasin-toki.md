@@ -20,7 +20,7 @@ This **Toki Pona Grammar** is based on [Toki Pona: The Language of Good](http://
 |:-|
 | *I am going with you.* |
 
-🤔 — Sections about **"Superfluous Language"** describe some of **Sonja**'s way of using the language in the **Toki Pona Book** that seems unnecessary.
+🤔 — Sections about **"Non-Essential Language"** describe some of **Sonja**'s way of using the language in the **Toki Pona Book** that seems unnecessary.
 
 | ona li pana e telo tawa kasi. → ona li telo e kasi. |
 |:-|
