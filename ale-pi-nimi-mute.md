@@ -1,7 +1,7 @@
 # Toki Pona Dictionary
 *(ale pi nimi mute pi toki pona)*
 
-The dictionary below is based on [Toki Pona: The Language of Good](http://www.amazon.com/gp/product/0978292308) by **Sonja Lang**, the creator of Toki Pona. It has [deviations](ante.md) and contains contextualisations and translations not included in the [original](http://tokipona.net/tp/janpije/dictionary.php).
+The dictionary below is based on [Toki Pona: The Language of Good](http://www.amazon.com/gp/product/0978292308) by **Sonja Lang**, the creator of **Toki Pona**. It has [deviations](ante.md) and contains contextualisations and translations not included in the [original](http://tokipona.net/tp/janpije/dictionary.php).
 
 Context in **parenthesis** is optional.
 
