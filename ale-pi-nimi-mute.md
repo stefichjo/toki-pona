@@ -19,7 +19,7 @@ Context in **quotation marks** is mandatory.
 
 | toki | I'm thinking in Toki Pona. |
 |:-|:-|
-| 🤔 (- insa) **think** | mi toki lon toki pona. → mi toki insa lon toki pona. |
+| ᴠᴇʀʙ 🤔 (- insa) **think** | mi toki lon toki pona. → mi toki insa lon toki pona. |
 
 | sitelen | paradigm | word | meaning |
 |:-|:-|:-|:-|
