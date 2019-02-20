@@ -7,4 +7,5 @@
 | [Punctuation](sitelen-pi-poka-nimi.md) |
 | [Hieroglyphs](sitelen-pona.md) |
 | [Dictionary](ale-pi-nimi-mute.md) |
+| [Toki Pona Spin-Offs](toki-sin.md) |
 
