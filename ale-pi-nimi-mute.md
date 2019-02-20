@@ -3,6 +3,24 @@
 
 The dictionary below is based on [Toki Pona: The Language of Good](http://www.amazon.com/gp/product/0978292308) by **Sonja Lang**, the creator of Toki Pona. It has [deviations](ante.md) and contains contextualisations and translations not included in the [original](http://tokipona.net/tp/janpije/dictionary.php).
 
+Context in **parenthesis** is optional.
+
+| ala | jan pona pi lon ala → jan pona ala |
+|:-|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ (lon -) **false** | *false friend* |
+
+Context in **quotation marks** is mandatory.
+
+| insa | tomo li lon insa pi nena tu. |
+|:-|:-|
+| ɴᴏᴜɴ "lon -" **between** | *The house is between two mountains.* |
+
+🤔 — Suggested mandatory context.
+
+| toki | I'm thinking in Toki Pona. |
+|:-|:-|
+| 🤔 (- insa) **think** | mi toki lon toki pona. → mi toki insa lon toki pona. |
+
 | sitelen | paradigm | word | meaning |
 |:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/a.png" height="42">        | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-toki.md#interjection) | mu — **a**, ala | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, indeed → ꜱᴇɴᴛᴇɴᴄᴇ yes! |
@@ -18,23 +36,23 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/anpa.png" height="42">     | [**ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#spatial-modifier) | **anpa** — sewi, lawa — noka | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bowing down**, **downward**, **humble**, **lowly**; **dependent** → ɴᴏᴜɴ area below; dependence |
 | <img src="musi/sitelen/pona/ante.png" height="42">     | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-toki.md#preposition) | **ante** — sama | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **different**, **altered**, **changed**, **other**, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ unlike |
 | <img src="musi/sitelen/pona/anu.png" height="42">      | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](nasin-toki.md#conjunction) | **anu** — en | ᴘᴀʀᴛɪᴄʟᴇ (alternative), **or** |
-| <img src="musi/sitelen/pona/awen.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | **awen**, kama, pini | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**, **protected**, **safe**, (- lon) **staying**, **waiting**, ɴᴏᴜɴ (lon -) during |
+| <img src="musi/sitelen/pona/awen.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | **awen**, kama, pini | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**, **protected**, **safe**, (- lon) **staying**, **waiting**, ɴᴏᴜɴ "lon -" during |
 |                                                        | [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-toki.md#pre-verb) | **awen**, kama, pini | ᴠᴇʀʙ to continue → ᴘʀᴇ-ᴠᴇʀʙ **to continue to** |
 | <img src="musi/sitelen/pona/e.png" height="42">        | [**ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ**](nasin-toki.md#phrase-particle) | **e**, li, o, pi | ᴘᴀʀᴛɪᴄʟᴇ **(before the direct object)** |
 | <img src="musi/sitelen/pona/en.png" height="42">       | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](nasin-toki.md#conjunction) | anu — **en** | ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, (between multiple ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs belonging to the same ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ), and, plus |
 | <img src="musi/sitelen/pona/esun.png" height="42">     | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-toki.md#preposition) | **esun**, kepeken, pu | ᴀᴅᴊᴇᴄᴛɪᴠᴇ replacing, ɴᴏᴜɴ exchange, replacement; **business transaction**; **bazaar**, **fair**, **market**, **shop**, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ instead of |
 |                                                        | [**ɴᴜᴍʙᴇʀ**](nasin-toki.md#number) | ala, ale, **esun**, luka, mute, tu, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ 7, seven → ɴᴏᴜɴ sevenfold amount |
 | <img src="musi/sitelen/pona/ijo.png" height="42">      | [**ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ**](nasin-toki.md#noun) | **ijo**, ilo, jan, tenpo | ɴᴏᴜɴ **matter**, **object**, **phenomenon**, **thing**; area, location, place; case |
-| <img src="musi/sitelen/pona/ike.png" height="42">      | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | pona — **ike**, nasa, pakala, utala | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bad**, **negative**; **irrelevant**, **non-essential** |
+| <img src="musi/sitelen/pona/ike.png" height="42">      | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | pona — **ike**, nasa, pakala, utala | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bad**, **negative**; (sin -) **irrelevant**, **non-essential** |
 | <img src="musi/sitelen/pona/ilo.png" height="42">      | [**ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ**](nasin-toki.md#noun) | ijo, **ilo**, jan, tenpo | ɴᴏᴜɴ **device**, **implement**, **machine**, **tool**; body part |
-| <img src="musi/sitelen/pona/insa.png" height="42">     | [**ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#spatial-modifier) | weka — **insa**, monsi, poka, sinpin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner → ɴᴏᴜɴ **centre**, **content**, **inside**; (lon -) **between**; **internal organ**, **stomach** |
+| <img src="musi/sitelen/pona/insa.png" height="42">     | [**ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#spatial-modifier) | weka — **insa**, monsi, poka, sinpin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner → ɴᴏᴜɴ **centre**, **content**, **inside**; "lon -" **between**; **internal organ**, **stomach** |
 | <img src="musi/sitelen/pona/jaki.png" height="42">     | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | **jaki** — suwi | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary** → ɴᴏᴜɴ dirt, poison, waste |
 | <img src="musi/sitelen/pona/jan.png" height="42">      | [**ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ**](nasin-toki.md#noun) | ijo, ilo, **jan**, tenpo | ɴᴏᴜɴ **human being**, **person**, **somebody** |
 | <img src="musi/sitelen/pona/jelo.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | **jelo**, laso, loje | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **yellow**, **yellowish** |
 | <img src="musi/sitelen/pona/jo.png" height="42">       | [**ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ**](nasin-toki.md#simple-verb) | **jo**, pana | ᴠᴇʀʙ **to carry**, **contain**, **have**, **hold** |
 | <img src="musi/sitelen/pona/kala.png" height="42">     | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#life-form-modifier) | **kala**, kasi, pipi, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ diving, swimming → ɴᴏᴜɴ **fish**, **marine animal**, **sea creature** |
 | <img src="musi/sitelen/pona/kalama.png" height="42">   | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | **kalama** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound**, ᴠᴇʀʙ **to recite**, **utter aloud** |
-| <img src="musi/sitelen/pona/kama.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | awen, **kama**, pini | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **arriving**, **coming**, **future**, **summoned**, ɴᴏᴜɴ (lon -) before |
+| <img src="musi/sitelen/pona/kama.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | awen, **kama**, pini | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **arriving**, **coming**, **future**, **summoned**, ɴᴏᴜɴ "lon -" before |
 |                                                        | [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-toki.md#pre-verb) | awen, **kama**, pini | ᴠᴇʀʙ to achieve → ᴘʀᴇ-ᴠᴇʀʙ **to become**; **manage to**, **succeed in** |
 | <img src="musi/sitelen/pona/kasi.png" height="42">     | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#life-form-modifier) | kala, **kasi**, pipi, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ vegetating → ɴᴏᴜɴ **plant**, **vegetation**; **herb**, **leaf** |
 | <img src="musi/sitelen/pona/ken.png" height="42">      | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | **ken**, wile | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **possible** |
@@ -103,10 +121,10 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/pilin.png" height="42">    | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, **pilin**, poki, selo, tomo, uta | ᴠᴇʀʙ to empathize, feel, ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (an emotion, a direct experience)** ­→ ɴᴏᴜɴ **heart (physical or emotional)** |
 | <img src="musi/sitelen/pona/pimeja.png" height="42">   | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | **pimeja** — walo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **black** |
 |                                                        | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | **pimeja** — suno | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dark**, **unlit** → ɴᴏᴜɴ shadow |
-| <img src="musi/sitelen/pona/pini.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | awen, kama, **pini** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **ago**, **completed**, **ended**, **finished**, **past**, ɴᴏᴜɴ (lon -) after |
+| <img src="musi/sitelen/pona/pini.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | awen, kama, **pini** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **ago**, **completed**, **ended**, **finished**, **past**, ɴᴏᴜɴ "lon -" after |
 |                                                        | [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-toki.md#pre-verb) | awen, kama, **pini** | ᴠᴇʀʙ to stop → ᴘʀᴇ-ᴠᴇʀʙ to stop to |
 | <img src="musi/sitelen/pona/pipi.png" height="42">     | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#life-form-modifier) | kala, kasi, **pipi**, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ crawling, creeping → ɴᴏᴜɴ **ant**, **bug**, **insect**, **spider** |
-| <img src="musi/sitelen/pona/poka.png" height="42">     | [**ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#spatial-modifier) | weka — insa, monsi, **poka**, sinpin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ lateral; **nearby** → ɴᴏᴜɴ **hip**, **side**; (lon -) **next to**, **vicinity**, (tawa -) than |
+| <img src="musi/sitelen/pona/poka.png" height="42">     | [**ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#spatial-modifier) | weka — insa, monsi, **poka**, sinpin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ lateral; **nearby** → ɴᴏᴜɴ **hip**, **side**; "lon -" **next to**, **vicinity**, "tawa -" than |
 | <img src="musi/sitelen/pona/poki.png" height="42">     | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, **poki**, selo, tomo, uta | ᴠᴇʀʙ to be full of, collect, contain → ɴᴏᴜɴ bladder; **bag**, **bowl**, **box**, **container**, **cup**, **cupboard**, **drawer**, **vessel** |
 | <img src="musi/sitelen/pona/pona.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | **pona** – ike, nasa, pakala, utala | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **good**, **positive**, **useful**; **friendly**, **peaceful**; **simple** |
 | <img src="musi/sitelen/pona/pu.png" height="42">       | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-toki.md#preposition) | esun, kepeken, **pu** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ according; **interacting with the Toki Pona book** ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ according to |
@@ -116,7 +134,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/selo.png" height="42">     | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nasin-toki.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, **selo**, tomo, uta | ᴠᴇʀʙ to form → ɴᴏᴜɴ **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary** |
 |                                                        | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | open — **selo** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ closed, confined, isolated |
 | <img src="musi/sitelen/pona/seme.png" height="42">     | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nasin-toki.md#correlative) | ala, ale, ni, **seme**, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **what**, **which** → ɴᴏᴜɴ what, which one |
-| <img src="musi/sitelen/pona/sewi.png" height="42">     | [**ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#spatial-modifier) | anpa — **sewi**, lawa — noka | ᴀᴅᴊᴇᴄᴛɪᴠᴇ high; **awe-inspiring**, **divine**, **sacred**, **supernatural** → ɴᴏᴜɴ **area above**, 🤔 (anpa -) **highest part**; **something elevated**, divine |
+| <img src="musi/sitelen/pona/sewi.png" height="42">     | [**ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#spatial-modifier) | anpa — **sewi**, lawa — noka | ᴀᴅᴊᴇᴄᴛɪᴠᴇ high; **awe-inspiring**, **divine**, **sacred**, **supernatural** → ɴᴏᴜɴ **area above**, 🤔 **highest part**; **something elevated**, divine |
 | <img src="musi/sitelen/pona/sijelo.png" height="42">   | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | kulupu — **sijelo** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ individual; alive → ɴᴏᴜɴ **body (of person or animal)**, **torso**; life-form; health, **physical state** |
 | <img src="musi/sitelen/pona/sike.png" height="42">     | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | lipu, nena, **sike** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ round or circular; (- suno) **of one year** → ɴᴏᴜɴ **round or circular thing**; **ball**, **circle**, **cycle**, **sphere**, **wheel**, (- suno) year |
 | <img src="musi/sitelen/pona/sin.png" height="42">      | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-toki.md#preposition) | **sin**, taso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh**; **additional**, **another**, **extra**, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ in addition to, with |
@@ -128,7 +146,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 | <img src="musi/sitelen/pona/soweli.png" height="42">   | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#life-form-modifier) | akesi — **soweli** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ warm-blooded → ɴᴏᴜɴ **animal**, **beast**, **land mammal**; meat |
 | <img src="musi/sitelen/pona/suli.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | lili — ale, mute, **suli**, wawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **big**, **heavy**, **large**, **long**, **tall**; **important**; **adult** |
 | <img src="musi/sitelen/pona/suno.png" height="42">     | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | pimeja — **suno** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ bright, lit → ɴᴏᴜɴ **sun**; **brightness**, **glow**, **light**, **radiance**, **shine**; **light source** |
-| <img src="musi/sitelen/pona/supa.png" height="42">     | [**ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#spatial-modifier) | **supa** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ horizontal → ɴᴏᴜɴ **horizontal surface**, (lon -) on; **thing to put or rest something on**; (lon -) lying, sitting |
+| <img src="musi/sitelen/pona/supa.png" height="42">     | [**ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#spatial-modifier) | **supa** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ horizontal → ɴᴏᴜɴ **horizontal surface**, "lon -" on; **thing to put or rest something on**; "lon -" lying, sitting |
 | <img src="musi/sitelen/pona/suwi.png" height="42">     | [**ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#thing-modifier) | jaki — **suwi** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **fragrant**, **sweet**; **adorable**, **cute**, **innocent** → ɴᴏᴜɴ sweets |
 | <img src="musi/sitelen/pona/tan.png" height="42">      | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-toki.md#preposition) | lon, **tan**, tawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ departing, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **because of**, **by**, **from** |
 | <img src="musi/sitelen/pona/taso.png" height="42">     | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-toki.md#preposition) | sin, **taso** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ free, independent, missing; **only**, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ free from, independent from, without; (- ni la) **but**, **however** |
@@ -150,7 +168,7 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 |                                                        | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nasin-toki.md#correlative) | ala, ale, ni, seme, **wan** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ specific → ɴᴏᴜɴ something specific |
 | <img src="musi/sitelen/pona/waso.png" height="42">     | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#life-form-modifier) | kala, kasi, pipi, **waso** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ flying, winging → ɴᴏᴜɴ **bird**, **flying creature**, **winged animal** |
 | <img src="musi/sitelen/pona/wawa.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | lili — ale, mute, suli, **wawa** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **powerful**, **strong**; 🤔 (sona -) **confident**, **sure**; **energetic**, **intense** |
-| <img src="musi/sitelen/pona/weka.png" height="42">     | [**ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#spatial-modifier) | **weka** — insa, monsi, poka, sinpin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**; **ignored**, ᴠᴇʀʙ (- e nanpa) to skip, ɴᴏᴜɴ absence, (lon -) without → ɴᴏᴜɴ (lon -) away from, distance |
+| <img src="musi/sitelen/pona/weka.png" height="42">     | [**ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#spatial-modifier) | **weka** — insa, monsi, poka, sinpin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**; **ignored**, ᴠᴇʀʙ (- e nanpa) to skip, ɴᴏᴜɴ absence, "lon -" without → ɴᴏᴜɴ "lon -" away from, distance |
 | <img src="musi/sitelen/pona/wile.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nasin-toki.md#simple-modifier) | ken, **wile** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inevitable, necessary |
 |                                                        | [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-toki.md#pre-verb) | ken, lukin, open, sona, **wile** | ᴠᴇʀʙ to decide for → ᴘʀᴇ-ᴠᴇʀʙ **must**, **need**, **require**, **should**, **want**, **wish** |
 
