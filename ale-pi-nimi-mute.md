@@ -17,9 +17,9 @@ Context in **quotation marks** is mandatory.
 
 🤔 — Suggested mandatory context.
 
-| toki | I'm thinking in Toki Pona. |
+| toki | mi toki lon toki pona. → mi toki insa lon toki pona. |
 |:-|:-|
-| ᴠᴇʀʙ 🤔 (- insa) **think** | mi toki lon toki pona. → mi toki insa lon toki pona. |
+| ᴠᴇʀʙ 🤔 (- insa) **think** | I'm thinking in Toki Pona. |
 
 | sitelen | paradigm | word | meaning |
 |:-|:-|:-|:-|

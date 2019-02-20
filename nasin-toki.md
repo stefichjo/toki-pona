@@ -213,7 +213,7 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ moving → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ going to, towards; for |
 
-ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs follow [ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ](#particles)s.
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs follow [ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ](#particle)s.
 
 | mi pana e kili tawa sina. |
 |:-|
