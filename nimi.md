@@ -159,7 +159,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ th
 
 | jan pi ijo ni: ona ni li tawa tomo → jan pi ona ni li tawa tomo → jan pi li tawa tomo → jan pi tawa tomo |
 |:-|
-| *somebody, who is going home |
+| *somebody, who is going home* |
 
 #### SPATIAL MODIFIER
 *([nimi suli poka](#modifier) nasin)*
