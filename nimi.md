@@ -112,6 +112,10 @@ All [ɴᴏᴜɴ](#noun)s can imply food.
 #### CORRELATIVE
 *([nimi suli poka](#modifier) palisa)*
 
+| |
+|:-|
+| [ᴄʟᴀᴜꜱᴇ](#clause) |
+
 ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs are ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo".
 
 | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ale |
