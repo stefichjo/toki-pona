@@ -1,4 +1,4 @@
-# Toki Pona Words
+# Toki Pona Parts of Speech
 *(nimi)*
 
 | |
