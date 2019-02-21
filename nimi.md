@@ -118,35 +118,44 @@ All [ɴᴏᴜɴ](#noun)s can imply food.
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ every → ɴᴏᴜɴ everything |
 
-In a [genitive](#genitive) clause, "ijo" before a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ reappears.
+In a [genitive](#genitive) ᴄʟᴀᴜꜱᴇ, "ijo" before a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ reappears.
 
 | mama pi ijo ale | mama ale |
 |:-|:-|
 | *parent of everything* | *every parent* |
 
-👍 A **subordinate clause** can be thought of as an extension of the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "ni".
+##### CLAUSE
+*(mute [nimi](#nimi) poka)*
 
-| suno pi mute ni: mi ken ala lape |
-|:-|
-| *so much light, that I can't sleep* |
+A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ that can be thought of as a string of [ꜱɪᴍᴘʟᴇ  ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle)s following the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "ni" (i.e. its **sound**, that "ni" produces).
 
-👍 In a **relative clause** (i.e. a **subordinate clause** with "ona ni"), "ona ni li" and "e ona ni" can be omitted.
-
-| mi lukin e nena ni: (ona ni li) suli mute. | nena ni: mi lukin (e ona ni), li suli. |
+| mi sona e ni: mi anpa. | suno pi mute ni: mi ken ala lape |
 |:-|:-|
-| *I'm seeing the mountain, that is big.* | *The mountain, that I'm seeing, is big.* |
+| *I know that I'm low.* | *so much light, that I can't sleep* |
 
-👍 Questions with the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "seme" can be thought of **subordinate clauses** with an omitted **main clause** "o toki e ni".
+👍 A ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be thought of as a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ refering to the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ.
 
-| o toki e ni: mani li lon seme. → mani li lon seme? |
+| jan ni: mi toki e ijo pi ona ni tawa sina |
 |:-|
-| *Tell me where the money is.* → *Where is the money?* |
+| *the person, whom I was talking to you about* |
 
-👎 The beginning of a **subordinate clause** can be omitted.
+👍 As a **subject** or **direct object**, "(e) ona ni (li)" in the ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ (i.e. the reference to the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ) can be omitted.
 
-| jan ni: ona ni li tawa tomo → jan pi ona ni li tawa tomo → jan pi li tawa tomo → jan pi tawa tomo |
+| mije ni: ona ni li tawa musi lon poka pi soweli alasa → mije ni: tawa musi lon poka pi soweli alasa | mije ni: mi lukin e ona ni → mije ni: mi lukin |
+|:-|:-|
+| *the man, who dances with wolves* | *the man, whom I am looking at* |
+
+👍 Questions with the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "seme" can be thought of as ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs with an omitted ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ "o toki e ni".
+
+| o toki e ni: mani li lon seme! → mani li lon seme? |
 |:-|
-| *somebody, who is going home* |
+| *Tell me where the money is!* → *Where is the money?* |
+
+👎 The ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's "ni" and the ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ's **subject** "ona ni (li)" can be omitted.
+
+| jan pi ijo ni: ona ni li tawa tomo → jan pi ona ni li tawa tomo → jan pi li tawa tomo → jan pi tawa tomo |
+|:-|
+| *somebody, who is going home |
 
 #### SPATIAL MODIFIER
 *([nimi suli poka](#modifier) nasin)*
@@ -349,7 +358,7 @@ As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean their tool used.
 ### PRE-VERB
 *([nimi suli wawa](#verb) poka)*
 
-When the **main clause** and the **subordinate clause** share the same [subject](#subject-and-predicate), the two **clauses'** ᴠᴇʀʙ + [predicate](#subject-and-predicate) can merge, i.e. the ᴠᴇʀʙ is used as a ᴘʀᴇ-ᴠᴇʀʙ.
+When the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ share the same [subject](#subject-and-predicate), the two ᴄʟᴀᴜꜱᴇs' ᴠᴇʀʙ + [predicate](#subject-and-predicate) can merge, i.e. the ᴠᴇʀʙ is used as a ᴘʀᴇ-ᴠᴇʀʙ.
 
 | ᴘʀᴇ-ᴠᴇʀʙ wile | ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
 |:-|:-|
@@ -370,7 +379,7 @@ When the **main clause** and the **subordinate clause** share the same [subject]
 |:-|
 | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) |
 
-ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs are tokiponized names or sounds. They always follow a [ɴᴏᴜɴ](#noun). "pi nimi" can be omitted before ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs. In this case, the **quotation marks** can be omitted.
+ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs are tokiponized names or sounds. They always follow a [ɴᴏᴜɴ](#noun). When "pi nimi (pi kalama)" can be infered **quotation marks** can be omitted.
 
 | ona li jo e nimi "Sonja". | ona li jan pi nimi "Sonja". → ona li jan Sonja |
 |:-|:-|
@@ -395,7 +404,7 @@ A name can be treated as an ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ, i.e. as an imitatio
 
 | nimi ona li nimi Sonja. → nimi ona li Sonja. |
 |:-|
-| *Her name is Sonja.* → *Her name goes "Sonja".*, *Her name is Sonja.* |
+| *Her name is the name Sonja.* → *Her name goes "Sonja".*, *Her name is Sonja.* |
 
 The affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" is usually implied.
 
@@ -467,6 +476,12 @@ One can reply to a yes-no-question with just the **predicate** of a ꜱᴇɴᴛ�
 |:-|
 | *I am seeing much and knowing little.* |
 
+👎 Any ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ can have a **predicate**, not only the **subject** of a ꜱᴇɴᴛᴇɴᴄᴇ.
+
+| jan pi ona ni li tawa tomo |
+|:-|
+| *somebody, who is going home* |
+
 #### Direct Object
 *([nimi lili luka](#transitive-particle) "e")*
 
@@ -482,7 +497,7 @@ A **predicate** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "li") can have m
 |:-|
 | *I use the instrument.* |
 
-👎 Any ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ can have a [direct object](#direct-object), not only the [ᴠᴇʀʙ](#verb) of a ꜱᴇɴᴛᴇɴᴄᴇ.
+👎 Any ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ can have a **direct object**, not only the [ᴠᴇʀʙ](#verb) of a ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | alasa e kala li pona tawa mi. |
 |:-|
@@ -626,7 +641,7 @@ At the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ, the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ
 |:-|
 | *She is coming tonight.* → *Tonight, she is coming.* |
 
-If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a **subordinate clause**, "ni" is omitted.
+If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ, "ni" is omitted.
 
 | jan li pona tawa mi lon ni: mi pona tawa jan. → mi pona tawa jan, la jan li pona tawa mi. |
 |:-|
