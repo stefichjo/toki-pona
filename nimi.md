@@ -131,13 +131,13 @@ In a [genitive](#genitive) ᴄʟᴀᴜꜱᴇ, "ijo" before a ᴄᴏʀʀᴇʟᴀ�
 ##### CLAUSE
 *(mute [nimi](#nimi) poka)*
 
-A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ that can be thought of as a string of [ꜱɪᴍᴘʟᴇ  ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle)s following the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "ni" (i.e. its **sound**, that "ni" produces).
+A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ that can be thought of as a string of [ꜱɪᴍᴘʟᴇ  ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle)s following the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "ni" (i.e. the **sound**, that "ni" produces).
 
 | mi sona e ni: mi anpa. | suno pi mute ni: mi ken ala lape |
 |:-|:-|
 | *I know that I'm low.* | *so much light, that I can't sleep* |
 
-👍 A ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be thought of as a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ refering to the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ.
+👍 A ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ, that refers to the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ.
 
 | jan ni: mi toki e ijo pi ona ni tawa sina |
 |:-|
@@ -155,7 +155,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ th
 |:-|
 | *Tell me where the money is!* → *Where is the money?* |
 
-👎 The ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's "ni" and the ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ's **subject** "ona ni (li)" can be omitted.
+👎 The ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's "ni" together with the ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ's **subject** "ona ni (li)" can be omitted.
 
 | jan pi ijo ni: ona ni li tawa tomo → jan pi ona ni li tawa tomo → jan pi li tawa tomo → jan pi tawa tomo |
 |:-|
