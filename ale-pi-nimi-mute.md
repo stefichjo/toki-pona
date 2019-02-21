@@ -29,7 +29,7 @@ Context in **quotation marks** is mandatory.
 |                                                        | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nimi.md#correlative) | **ala**, ale, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ (lon -) false, **no**, non- → ɴᴏᴜɴ nothing |
 |                                                        | [**ɴᴜᴍʙᴇʀ**](nimi.md#number) | **ala**, ale, esun, luka, mute, tu, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ 0, **zero** → ɴᴏᴜɴ none |
 | <img src="musi/sitelen/pona/alasa.png" height="42">    | [**ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ**](nimi.md#simple-verb) | **alasa**, pali | ᴠᴇʀʙ **to hunt**, **forage** |
-| <img src="musi/sitelen/pona/ale.png" height="42">      | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nimi.md#correlative) | ala, **ale**, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **every**; (wan -) **all**, entire, whole → ɴᴏᴜɴ **everything**; **life**, system, **universe** |
+| <img src="musi/sitelen/pona/ale.png" height="42">      | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nimi.md#correlative) | ala, **ale**, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **every**; **all**, entire, whole → ɴᴏᴜɴ **everything**; **life**, system, **universe** |
 |                                                        | [**ɴᴜᴍʙᴇʀ**](nimi.md#number) | ala, **ale**, esun, luka, mute, tu, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ infinite; **100**, 1000 → ɴᴏᴜɴ infinity; huge amount |
 |                                                        | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nimi.md#simple-modifier) | lili — **ale**, mute, suli, wawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **countless**, **bountiful**, **plentiful**, ɴᴏᴜɴ **abundance** |
 | <img src="musi/sitelen/pona/anpa.png" height="42">     | [**ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ**](nimi.md#spatial-modifier) | **anpa** — sewi, lawa — noka | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bowing down**, **downward**, **humble**, **lowly**; **dependent** → ɴᴏᴜɴ area below; dependence |
@@ -161,7 +161,7 @@ Context in **quotation marks** is mandatory.
 | <img src="musi/sitelen/pona/utala.png" height="42">    | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nimi.md#simple-modifier) | pona — ike, nasa, pakala, **utala** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ aggressive, ᴠᴇʀʙ **to battle**, **challenge**, **compete against**, provoke, **struggle against** |
 | <img src="musi/sitelen/pona/walo.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nimi.md#simple-modifier) | pimeja — **walo** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **white**, **whitish** |
 |                                                        | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nimi.md#simple-modifier) | kule — **walo** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **light-coloured**, **pale** |
-| <img src="musi/sitelen/pona/wan.png" height="42">      | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nimi.md#simple-modifier) | tu — **wan** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ (- ale) **united** |
+| <img src="musi/sitelen/pona/wan.png" height="42">      | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nimi.md#simple-modifier) | tu — **wan** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **united** |
 |                                                        | [**ɴᴜᴍʙᴇʀ**](nimi.md#number) | ala, ale, esun, luka, mute, tu, **wan** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ 1, **one** → ɴᴏᴜɴ singleton |
 |                                                        | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nimi.md#correlative) | ala, ale, ni, seme, **wan** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ specific, **unique** → ɴᴏᴜɴ something specific, something unique; detail, element, member, part |
 | <img src="musi/sitelen/pona/waso.png" height="42">     | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ**](nimi.md#life-form-modifier) | kala, kasi, pipi, **waso** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ flying, winging → ɴᴏᴜɴ **bird**, **flying creature**, **winged animal** |
