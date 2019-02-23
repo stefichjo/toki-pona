@@ -8,20 +8,25 @@
 | [tok siŋ](#tok-siŋ) |
 
 ## eju zen bona
-*(Ejuzenbona — Eyu Zen Bona)*
+*(Eyu Zen Bona)*
 
 Words in Ejuzenbona can differ from Toki Pona according to their etymology.
 
-* ~~anu~~ → ***an*** *(aŭ — or)*
+| anu → an | lon → alun |
+|:-|:-|
+| *or* | *at* |
 
 The first syllable (i.e. with stress) can not have the vowel "i" or "u". The other syllables (i.e. without stress) can not have the vowel "e" or "o".
 
-* ~~nimi~~ → ***nemi*** *(vorto — word)*
-* ~~kulupu~~ → ***kolupu*** *(grupo — group)*
+| nimi → nemi | kulupu → kolupu |
+|:-|:-|
+| *word* | *group* |
 
 "akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" and "waso" are gone.
 
-* ona li ~~moku~~ e pan. → ona le ***alun ota*** e pan. *(Ŝi manĝas la rizon. — She eats the rice.)*
+| ona li moku e pan. → ona le alun ota e pan. |
+|:-|
+| *She's eating rice.* |
 
 The sound **[np]** becomes **[mp]** and has the letters "**mp**".
 
