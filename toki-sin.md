@@ -8,7 +8,6 @@
 | [tok siŋ](#tok-siŋ) |
 
 ## eju zen bona
-*(Eyu Zen Bona)*
 
 Words in Ejuzenbona can differ from Toki Pona according to their etymology.
 
@@ -22,27 +21,29 @@ The first syllable (i.e. with stress) can not have the vowel "i" or "u". The oth
 |:-|:-|
 | *word* | *group* |
 
-"akesi", "jelo", "kala", "kasi", "kepeken", "la", "laso", "loje", "moku", "pali", "pana", "pimeja", "pipi", "pu", "soweli", "tan", "tawa", "toki", "walo" and "waso" are gone.
+"np" becomes "mp".
 
-| ona li moku e pan. → ona le alun ota e pan. |
+| tenpo → tempu |
 |:-|
-| *She's eating rice.* |
+| *time* |
 
-The sound **[np]** becomes **[mp]** and has the letters "**mp**".
+"pi", "ti", "ki" become "fi", "ci", "xi" and are pronounced **[fi]**, **[ĉi]**, **[ĥi]**, 
 
-* ~~tenpo~~ → ***tempu*** *(tempo — time)*
+| pipi → pefi | kasi → kaci | poki → poxi |
+|:-|:-|:-|
+| *insect* | *plant* | *side* |
 
-The sound in front of **[i]** can vary from **[p]**, **[t]**, **[k]** to **[f]**, **[ĉ]**, **[ĥ]**.
+The consonant starting off an **adjective**/**adverb** is voiced.
 
-* ~~pipi~~ → ***pefi*** *(insekto — insect)*
-* ~~kasi~~ → ***kaci*** *(planto — plant)*
-* ~~poki~~ → ***poxi*** *(flanko — side)*
+| jan pona → jen bona | tomo sina → tomu zena | telo kili → telu geli |
+|:-|:-|:-|
+| *friend* | *your house* | *juice* |
 
-The sound of a [modifier](#nimi-poka) can vary.
+When a **sitelen pona** is appears to be a compound, the wording must use its constituents instead.
 
-* ~~jan pona~~ → ***jen bona*** *(amiko — friend)*
-* ~~tomo sina~~ → ***tomu zena*** *(via domo — your house)*
-* ~~telo kili~~ → ***telu geli*** *(suko — juice)*
+| toki → "ijo sin" → eju zen |
+|:-|
+| *to talk*, *language* |
 
 ## Pona Toko
 *(Ponatoko — Pona Toko)*
