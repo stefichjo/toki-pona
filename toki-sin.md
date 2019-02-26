@@ -30,7 +30,7 @@ Etymological forms are preserved.
 
 A compound **sitelen pona** is replaced by its (alleged) etymological form. For instance, "toki" is a compound of "ijo" and "sin", i.e. "news".
 
-| toki ← ijo sin |
+| tok ← ijo sin |
 |:-|
 | *to talk*, *language* ← *news* |
 
@@ -42,6 +42,7 @@ A compound **sitelen pona** is replaced by its (alleged) etymological form. For 
 | [Toki Bona](#toki-bona) |
 | [Toxi Pona](#toxi-pona) |
 | [Toke Pona](#toke-pona) |
+| [Toko Pona](#toko-pona) |
 
 ### Toki Bona
 *([Toki Pona Sequel](#toki-pona-lili) with Voiced Consonants)*
@@ -95,71 +96,24 @@ The syllables "ti" and "ji" are allowed.
 |:-|:-|
 | *many* | *male* |
 
-## Pona Toko
-*([Toki Pona](#toki-pona-sin) Esperanto)*
+### Tok Poŋ
+*([Toki Pona Sequel](#toki-pona-lili) with Inflection)*
 
-**Pona Toko** has the words and the orthography of **Toki Pona**, but it has the syllable stress and the endings of **Esperanto**.
+The sound "n" becomes "ŋ" at the end of a word.
 
-* ***niun sunan tenpon mi pone tokas.*** *(tenpo suno ni la mi toki pona.)*
+| pilin pona → piliŋ pon |
+|:-|
+| *to feel good* |
 
-The Toki Pona words "selo" and "poki" have the stems "ŝel" and "bok" in Pona Toko.
+The particles "e" and "pi" are expressed by the endings "-e" and "-i". (The syllables "ti" and "ji" are allowed.)
 
-* ***sela ŝelo*** *(selo seli)*
-* ***poka boko*** *(poki poka)*
+| tomo pi telo nasa → tom teli nas | mi moku e telo nasa. → mi mok tele nas. |
+|:-|:-|
+| *bar* | *I drink beer.* |
 
-Only the stem "est" and the word "la" from Esperanto move to Pona Toko.
+The **adjective**/**adverb** "mute" becomes the ending "-te". After non-nasals, it is further reduced to "-s".
 
-* ***la*** poka jano estas sona jano. *(jan poka li jan sona.)*
-* jano ***estas*** lon sona tomo. *(jan li lon tomo sona.)*
 
-A Pona Toko [stem](#nimi-suli) can consist of only one sound.
-
-* mi ***jas*** mutan tenpon. *(mi jo e tenpo mute.)*
-
-The [pronouns](#nimi-lawa-esun) "mi", "sina" and "ona" have the ending "-i".
-
-* ***sini*** sinas. *(sina sin.)*
-
-A [noun](#nimi-lawa) after a [quotation](#nimi-lili-toki) can disappear.
-
-* la ***Sonja***-jano *(jan Sonja)*
-  * → ***Sonja***
-
-[Numerals](#nimi-poka-nanpa) have the ending "-u".
-
-* la kulupo estas wana. *(kulupu li wan)*
-  * jan wanu *(jan wan)*
-    * toko wanua → toko nanpo wanu *(toki nanpa wan)*
-
-The Toki Pona [correlatives](#nimi-poka-palisa) "ala", "ale", "ni" and "seme" are table words in **Pona Toko**.
-
-* ***semeal*** oni estas nie? *(tan seme la ona li lon ni?)*
-  * → ***tan semeo*** oni estas lon nio?
-
-A [preposition](#nimi-poka-luka) ends in a consonant.
-
-* sini estas ***sam*** mi. *(sina sama mi.)*
-* mi estas ***taw*** tomo. *(mi tawa tomo.)*
-
-[Interjections](#nimi-lili-kalama) are in **Pona Toko** as a whole.
-
-* sowelo ***muas***. *(soweli li mu.)*
-
-## Tok Siŋ
-*(Toksingo — Tok Sing)*
-
-The sound "n" becomes "ŋ" at the end of a word. There are the sounds "ji" and "ti".
-
-* pilin → **piliŋ** *(koro — heart)*
-
-### kama ante pi nimi lawa
-*(Deklinacio — Declension)*
-
-||toki|sin|sina|kon|ko|tomo|tawa|ijo|lete|
-|-|-|-|-|-|-|-|-|-|-|
-||tok|siŋ|sin|koŋ|k|tom|taw|ij|let|
-|e|toke|siŋe|sine|koŋe|ke|tome|tawe|ije|lete|
-|pi|toki|siŋi|sini|koŋi|ki|tomi|tawi|iji|leti|
 
 * lipu mute → liput → lipus *(libroj — books)*
 * jan mute → jant → jans *(personoj — people)*
@@ -169,9 +123,6 @@ The sound "n" becomes "ŋ" at the end of a word. There are the sounds "ji" and "
 ||lipus|jans|
 |**e**|lipuse|janse|
 |**pi**|lipusi|jansi|
-
-### kama ante pi nimi wawa
-*(Konjugacio — Conjugation)*
 
 ||toki|oliŋ|
 |-|-|-|
@@ -183,6 +134,56 @@ The sound "n" becomes "ŋ" at the end of a word. There are the sounds "ji" and "
 |**ona mute**|tokinte|olinte|
 
 * ***Jom*** tome taw poni mut. *(Mi havas tre bonan aŭton. — I have a very good car.)*
+
+### Toko Pona
+*([Toki Pona](#toki-pona-sin) Esperanto)*
+
+**Toko Pona** has the words and the orthography of **Toki Pona**, but it has the syllable stress and the endings of **Esperanto**.
+
+* ***niun sunan tenpon mi pone tokas.*** *(tenpo suno ni la mi toki pona.)*
+
+The Toki Pona words "selo" and "poki" have the stems "ŝel" and "bok".
+
+* ***sela ŝelo*** *(selo seli)*
+* ***poka boko*** *(poki poka)*
+
+Only the stem "est" and the word "la" from Esperanto remain in Toko Pona.
+
+* ***la*** poka jano estas sona jano. *(jan poka li jan sona.)*
+* jano ***estas*** lon sona tomo. *(jan li lon tomo sona.)*
+
+A [stem](#nimi-suli) can consist of only one sound.
+
+* mi ***jas*** tenpon mutan. *(mi jo e tenpo mute.)*
+
+The [pronouns](#nimi-lawa-esun) "mi", "sina" and "ona" have the ending "-i".
+
+* ***sini*** sinas. *(sina sin.)*
+
+A [noun](#nimi-lawa) after a [quotation](#nimi-lili-toki) can disappear.
+
+* la jano ***Sonja*** *(jan Sonja)*
+  * → ***Sonja***
+
+[Numerals](#nimi-poka-nanpa) have the ending "-u".
+
+* la kulupo estas wana. *(kulupu li wan)*
+  * jan wanu *(jan wan)*
+    * toko wanua → toko nanpo wanu *(toki nanpa wan)*
+
+The Toki Pona [correlatives](#nimi-poka-palisa) "ala", "ale", "ni" and "seme" are table words.
+
+* ***semeal*** oni estas nie? *(tan seme la ona li lon ni?)*
+  * → ***tan semeo*** oni estas lon nio?
+
+A [preposition](#nimi-poka-luka) ends in a consonant.
+
+* sini estas ***sam*** mi. *(sina sama mi.)*
+* mi estas ***taw*** tomo. *(mi tawa tomo.)*
+
+[Interjections](#nimi-lili-kalama) are kept as a whole.
+
+* sowelo ***muas***. *(soweli li mu.)*
 
 ## …
 
