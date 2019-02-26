@@ -189,13 +189,13 @@ A [preposition](#nimi-poka-luka) ends in a consonant.
 | sitelen | [etymology](https://plume.mastodon.host/~/TokiPonaAConlangAndItsSpeakers/toki-pona-root-word-etymology-page/) | Toki Pona Mama | Toki Pona Lili |
 |:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/a.png" height="42">        | - | ha | a |
-| <img src="musi/sitelen/pona/akesi.png" height="42">    | *NL* hagedis | hagedis | akiti |
+| <img src="musi/sitelen/pona/akesi.png" height="42">    | *NL* hagedis | hagedis | aĥiĉi |
 | <img src="musi/sitelen/pona/ala.png" height="42">      | *KA* არა /ara/ | ara | ala |
 | <img src="musi/sitelen/pona/alasa.png" height="42">    | *FR* à la chasse | alaŝas | alasa |
 | <img src="musi/sitelen/pona/ale.png" height="42">      | *NL* alle | ale | ali |
 | <img src="musi/sitelen/pona/anpa.png" height="42">     | *FR* en bas | anba | ampa |
-| <img src="musi/sitelen/pona/ante.png" height="42">     | *NL* ander | ander | anti |
-| <img src="musi/sitelen/pona/anu.png" height="42">      | … | … | … |
+| <img src="musi/sitelen/pona/ante.png" height="42">     | *NL* ander | ander | anĉi |
+| <img src="musi/sitelen/pona/anu.png" height="42">      | *KA* ან /an/ | an | anu |
 | <img src="musi/sitelen/pona/awen.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/e.png" height="42">        | … | … | … |
 | <img src="musi/sitelen/pona/en.png" height="42">       | … | … | … |
