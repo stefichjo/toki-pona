@@ -9,16 +9,8 @@
 ## Toki Pona Mama
 *([Toki Pona](#toki-pona-sin) Prequels)*
 
-| |
-|:-|
-| [Tok Bona](#tok-bona) |
-
 ### Tok Bona
 *([Toki Pona Prequel](#toki-pona-mama) with Preserved Etymological Forms)*
-
-| |
-|:-|
-| [Ijo Ŝin Bona](#ijo-ŝin-bona) |
 
 Etymological forms are preserved.
 
@@ -27,7 +19,7 @@ Etymological forms are preserved.
 | *or* | *at* | *what* | *time* |
 
 #### Ijo Ŝin Bona
-*(([Toki Pona Prequel](#toki-pona-mama) without Compound Hieroglyphs)*
+*([Toki Pona Prequel](#toki-pona-mama) without Compound Hieroglyphs)*
 
 A compound **sitelen pona** is replaced by its (alleged) etymological form. For instance, "tok" is a compound of "ijo" and "ŝin", i.e. "news".
 
@@ -37,11 +29,6 @@ A compound **sitelen pona** is replaced by its (alleged) etymological form. For 
 
 ## Toki Pona Lili
 *([Toki Pona](#toki-pona-sin) Sequels)*
-
-| |
-|:-|
-| [Toki Bona](#toki-bona) |
-| [Tok Pon](#tok-pon) |
 
 ### Toki Bona
 *([Toki Pona Sequel](#toki-pona-lili) with Voiced Consonants)*
