@@ -5,7 +5,6 @@
 |:-|
 | [Toki Pona Mama](#toki-pona-mama) |
 | [Toki Pona Lili](#toki-pona-lili) |
-| [Tok Siŋ](#tok-siŋ) |
 
 ## Toki Pona Mama
 *([Toki Pona](#toki-pona-sin) Prequels)*
@@ -13,10 +12,13 @@
 | |
 |:-|
 | [Tok Bona](#tok-bona) |
-| [Ijo Sin Pona](#ijo-sin-pona) |
 
 ### Tok Bona
 *([Toki Pona Prequel](#toki-pona-mama) with Preserved Etymological Forms)*
+
+| |
+|:-|
+| [Ijo Ŝin Bona](#ijo-ŝin-bona) |
 
 Etymological forms are preserved.
 
@@ -24,12 +26,12 @@ Etymological forms are preserved.
 |:-|:-|:-|:-|
 | *or* | *at* | *what* | *time* |
 
-### Ijo Sin Pona
+#### Ijo Ŝin Bona
 *(([Toki Pona Prequel](#toki-pona-mama) without Compound Hieroglyphs)*
 
-A compound **sitelen pona** is replaced by its (alleged) etymological form. For instance, "toki" is a compound of "ijo" and "sin", i.e. "news".
+A compound **sitelen pona** is replaced by its (alleged) etymological form. For instance, "tok" is a compound of "ijo" and "ŝin", i.e. "news".
 
-| tok ← ijo sin |
+| tok ← ijo ŝin |
 |:-|
 | *to talk*, *language* ← *news* |
 
@@ -39,80 +41,65 @@ A compound **sitelen pona** is replaced by its (alleged) etymological form. For 
 | |
 |:-|
 | [Toki Bona](#toki-bona) |
-| [Toxi Pona](#toxi-pona) |
-| [Toke Pona](#toke-pona) |
-| [Toko Pona](#toko-pona) |
+| [Tok Pon](#tok-pon) |
 
 ### Toki Bona
 *([Toki Pona Sequel](#toki-pona-lili) with Voiced Consonants)*
 
 The consonant starting off an **adjective**/**adverb** is voiced.
 
-| jan pona → jan bona |
-|:-|
-| *friend* |
+| jan pona → jan bona | tomo tawa → tomo dawa |
+|:-|:-|
+| *friend* | *car* |
 
-### Toxi Pona
+#### Toĥi Bona
 *([Toki Pona Sequel](#toki-pona-lili) with More Fricatives)*
 
-Before "i", the consonants "p", "t", "k" become fricatives.
+Before "e" or "i", the consonants "p", "t", "k" become fricatives.
 
-| pilin → filin | poki → poxi |
+| pilin → filin | ken → ĥen |
 |:-|:-|
 | *heart* | *box* |
 
-Only "si" deriving from "ti" is affected.
+"s" derived from "t"/"ĉ" becomes "ĉ", otherwise "ŝ".
 
-| sijelo → cijelo | sin |
-|:-|:-|
-| *body* | *new* |
+| sijelo → ĉijelo | nasin → naĉin | selo → ŝelo |
+|:-|:-|:-|
+| *body* | *way* | *skin* |
 
-### Toke Pona
-*([Toki Pona Sequel](#toki-pona-lili) with Three Vowels)*
+When voiced, "f", "ĉ" ("ŝ"), "ĥ" become "v", "ĝ" ("ĵ"), "h".
 
-| |
-|:-|
-| [Toki Pona Sen](#toki-pona-sen) |
+| tenpo pini → tenpo vini | tomo telo → tomo ĝelo | nasin sewi → naĉin ĵewi | ko kiwen → ko hiwen |
+|:-|:-|:-|:-|
+| *past* | *bathroom* | *religion* | *sand* |
+
+##### Toĥe Bona
+*([Toki Pona Sequel](#toki-pona-lili) with Three/Pseudo-Five Vowels)*
 
 The vowels "u" and "i" merge with "o" and "e".
 
-| musi → mose |
-|:-|
-| *recreational* |
-
-#### Toki Pona Sen
-*([Toki Pona Sequel](#toki-pona-lili) with Pseudo-Five Vowels)*
-
-When not stressed, "o" and "e" turn to "u" and "i".
-
-| musi → mose → mosi |
-|:-|
-| *recreational* |
-
-The syllables "ti" and "ji" are allowed.
-
-| mute → mote → moti | mije → meje → meji |
+| tu → to | mi → me |
 |:-|:-|
-| *many* | *male* |
+| *two* | *I* |
 
-### Tok Poŋ
+### Tok Pon
 *([Toki Pona Sequel](#toki-pona-lili) with Inflection)*
 
-The sound "n" becomes "ŋ" at the end of a word.
+---
 
-| pilin pona → piliŋ pon |
-|:-|
-| *to feel good* |
+The sound "n" becomes "ŋ" at the end of a word. Other pseudo-endings disappear.
+
+| pilin pona → piliŋ pon | mi → m |
+|:-|:-|
+| *to feel good* | *I* |
 
 The particles "e" and "pi" are expressed by the endings "-e" and "-i". (The syllables "ti" and "ji" are allowed.)
 
-| tomo pi telo nasa → tom teli nas | mi moku e telo nasa. → mi mok tele nas. |
+| tomo pi telo nasa → tom teli nas | mi moku e telo nasa. → m mok tele nas. |
 |:-|:-|
 | *bar* | *I drink beer.* |
 
 The **adjective**/**adverb** "mute" becomes the ending "-te". After non-nasals, it is further reduced to "-s".
-
-
 
 * lipu mute → liput → lipus *(libroj — books)*
 * jan mute → jant → jans *(personoj — people)*
@@ -189,20 +176,20 @@ A [preposition](#nimi-poka-luka) ends in a consonant.
 | sitelen | [etymology](https://plume.mastodon.host/~/TokiPonaAConlangAndItsSpeakers/toki-pona-root-word-etymology-page/) | Toki Pona Mama | Toki Pona Lili |
 |:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/a.png" height="42">        | - | ha | a |
-| <img src="musi/sitelen/pona/akesi.png" height="42">    | *NL* hagedis | hagedis | aĥiĉi |
+| <img src="musi/sitelen/pona/akesi.png" height="42">    | *NL* hagedis | hagedis | aĥeĉi |
 | <img src="musi/sitelen/pona/ala.png" height="42">      | *KA* არა /ara/ | ara | ala |
 | <img src="musi/sitelen/pona/alasa.png" height="42">    | *FR* à la chasse | alaŝas | alasa |
-| <img src="musi/sitelen/pona/ale.png" height="42">      | *NL* alle | ale | ali |
+| <img src="musi/sitelen/pona/ale.png" height="42">      | *NL* alle | ale | ale |
 | <img src="musi/sitelen/pona/anpa.png" height="42">     | *FR* en bas | anba | ampa |
-| <img src="musi/sitelen/pona/ante.png" height="42">     | *NL* ander | ander | anĉi |
+| <img src="musi/sitelen/pona/ante.png" height="42">     | *NL* ander | ander | anĉe |
 | <img src="musi/sitelen/pona/anu.png" height="42">      | *KA* ან /an/ | an | anu |
-| <img src="musi/sitelen/pona/awen.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/e.png" height="42">        | … | … | … |
-| <img src="musi/sitelen/pona/en.png" height="42">       | … | … | … |
-| <img src="musi/sitelen/pona/esun.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/ijo.png" height="42">      | … | … | … |
-| <img src="musi/sitelen/pona/ike.png" height="42">      | … | … | … |
-| <img src="musi/sitelen/pona/ilo.png" height="42">      | … | … | … |
+| <img src="musi/sitelen/pona/awen.png" height="42">     | *NL* houden → houen | hawen | awen |
+| <img src="musi/sitelen/pona/e.png" height="42">        | - | e | e |
+| <img src="musi/sitelen/pona/en.png" height="42">       | *NL* en | en | en |
+| <img src="musi/sitelen/pona/esun.png" height="42">     | *Akan* edwamu [edʒum] | edẑum | esun |
+| <img src="musi/sitelen/pona/ijo.png" height="42">      | *EO* ijo | ijo | ijo |
+| <img src="musi/sitelen/pona/ike.png" height="42">      | *FI* ilkeä | ilkee | iĥe |
+| <img src="musi/sitelen/pona/ilo.png" height="42">      | *EO* ilo | ilo | ilo |
 | <img src="musi/sitelen/pona/insa.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/jaki.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/jan.png" height="42">      | … | … | … |
@@ -277,11 +264,11 @@ A [preposition](#nimi-poka-luka) ends in a consonant.
 | <img src="musi/sitelen/pona/sama.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/seli.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/selo.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/seme.png" height="42">     | … | … | … |
+| <img src="musi/sitelen/pona/seme.png" height="42">     | *ZH* 什么 /shénme/ | ŝenme | ŝeme → ẑeme |
 | <img src="musi/sitelen/pona/sewi.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/sijelo.png" height="42">   | … | … | … |
 | <img src="musi/sitelen/pona/sike.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/sin.png" height="42">      | … | … | … |
+| <img src="musi/sitelen/pona/sin.png" height="42">      | *ZH* 新 /xīn/ | ŝin | ŝin → ẑin |
 | <img src="musi/sitelen/pona/sina.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/sinpin.png" height="42">   | … | … | … |
 | <img src="musi/sitelen/pona/sitelen.png" height="42">  | … | … | … |
@@ -296,7 +283,7 @@ A [preposition](#nimi-poka-luka) ends in a consonant.
 | <img src="musi/sitelen/pona/tawa.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/telo.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/tenpo.png" height="42">    | … | … | … |
-| <img src="musi/sitelen/pona/toki.png" height="42">     | … | … | … |
+| <img src="musi/sitelen/pona/toki.png" height="42">     | *TP* tok ← *EN* talk | tok ← ijo ŝin | toĥi |
 | <img src="musi/sitelen/pona/tomo.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/tu.png" height="42">       | … | … | … |
 | <img src="musi/sitelen/pona/unpa.png" height="42">     | … | … | … |
