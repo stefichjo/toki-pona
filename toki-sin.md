@@ -40,7 +40,7 @@ Final **vowels** (+ **consonant**) are dropped, except if the word is monosyllab
 |:-|:-|:-|:-|
 | *she* | *I* | *reptile* | *eye* |
 
-The particles "en" and "anu" become "-en" and "-an". "-en" is also used for subjects.
+The particles "en" and "anu" become "-en" and "-an". "-en" is also used for subjects (but not after prepositions).
 
 | ike anu pona → ilkan bon | ona en sina → on sinen | sina sin. → sinen ŝin. |
 |:-|:-|:-|
@@ -60,9 +60,9 @@ The particles "e" and "o" become the endings "-e" and "-o".
 
 The **adjective**/**adverb** "mute" can become the ending "-te" after "-s", "-z", "-ŝ", "-ẑ", "-ĉ", "-ĝ", assimilating them to "-s". In other cases, "-te" becomes "-s".
 
-| palisa mute → paliĉte → paliste | jan mute → jante → jans |
-|:-|:-|
-| *fingers* | *people* |
+| nasa mute → naste | palisa mute → paliĉte → paliste | jan mute → jante → jans |
+|:-|:-|:-|
+| *very strange* | *fingers* | *people* |
 
 Verbs can end in "-m(s)", "-s(te)", "-n(s)". (The verb ending "-i" must always be used, also after "mi" and "sina" alone.) When the subject is "mi (mute)", "sina (mute)" or "ona (mute)" alone, it can be omitted.
 
@@ -73,52 +73,37 @@ Verbs can end in "-m(s)", "-s(te)", "-n(s)". (The verb ending "-i" must always b
 #### Toko Bona
 *([Toki Pona Spin-Off](#toki-pona-sama) à la Esperanto)*
 
-**Toko Pona** has the words and the orthography of **Toki Pona**, but it has the syllable stress and the endings of **Esperanto**.
+**Toko Bona** has the grammar of **Esperanto**. It keeps all words of **Tok Bon** except for "la" (which becomes the definite article) and adds "est-" from **Esperanto**.
 
-* ***niun sunan tenpon mi pone tokas.*** *(tenpo suno ni la mi toki pona.)*
+| jan pona li lon tomo: la jano bona estas lon la domo. |
+|:-|
+| *The friend is in the house.* |
 
-The Toki Pona words "selo" and "poki" have the stems "ŝel" and "bok".
+Monosyllabic **Tok Bon** stems lose their **vocalic** ending, except for **interjections**.
 
-* ***sela ŝelo*** *(selo seli)*
-* ***poka boko*** *(poki poka)*
+| ma tomo: mo doma | soweli li mu: la sowelo muas. |
+|:-|:-|
+| *town* | *The animal bleats.* |
 
-Only the stem "est" and the word "la" from Esperanto remain in Toko Pona.
+**Numerals** end in "-u".
 
-* ***la*** poka jano estas sona jano. *(jan poka li jan sona.)*
-* jano ***estas*** lon sona tomo. *(jan li lon tomo sona.)*
+| toki nanpa wan: la toko nambo wanu → la toko wanua |
+|:-|
+| *la unua lingvo* |
 
-A [stem](#nimi-suli) can consist of only one sound.
+* la jano Sonja → Sonja
 
-* mi ***jas*** tenpon mutan. *(mi jo e tenpo mute.)*
+**Correlatives** end in "-iu".
 
-The [pronouns](#nimi-lawa-esun) "mi", "sina" and "ona" have the ending "-i".
+| seme: semiu | ni: niu | ale: aliu | ala: ariu |
+|:-|:-|:-|:-|
+| *what* | *that* | *every* | *no* |
 
-* ***sini*** sinas. *(sina sin.)*
+**Personal pronouns** end in "-i".
 
-A [noun](#nimi-lawa) after a [quotation](#nimi-lili-toki) can disappear.
-
-* la jano ***Sonja*** *(jan Sonja)*
-  * → ***Sonja***
-
-[Numerals](#nimi-poka-nanpa) have the ending "-u".
-
-* la kulupo estas wana. *(kulupu li wan)*
-  * jan wanu *(jan wan)*
-    * toko wanua → toko nanpo wanu *(toki nanpa wan)*
-
-The Toki Pona [correlatives](#nimi-poka-palisa) "ala", "ale", "ni" and "seme" are table words.
-
-* ***semeal*** oni estas nie? *(tan seme la ona li lon ni?)*
-  * → ***tan semeo*** oni estas lon nio?
-
-A [preposition](#nimi-poka-luka) ends in a consonant.
-
-* sini estas ***sam*** mi. *(sina sama mi.)*
-* mi estas ***taw*** tomo. *(mi tawa tomo.)*
-
-[Interjections](#nimi-lili-kalama) are kept as a whole.
-
-* sowelo ***muas***. *(soweli li mu.)*
+| mi: mi | sina: sini | ona: oni |
+|:-|:-|:-|
+| *I* | *you* | *she* |
 
 ## Toki Pona Lili
 *([Toki Pona](#toki-pona-sin) Sequels)*
@@ -210,11 +195,11 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/linja.png" height="42">    | … | … | … |
 | <img src="musi/sitelen/pona/lipu.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/loje.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/lon.png" height="42">      | … | … | … |
+| <img src="musi/sitelen/pona/lon.png" height="42">      | *TP* long ← *EN* along | lon | lon |
 | <img src="musi/sitelen/pona/luka.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/lukin.png" height="42">    | *TP* lukim ← *EN* look him | luk | loĥin |
 | <img src="musi/sitelen/pona/lupa.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/ma.png" height="42">       | … | … | … |
+| <img src="musi/sitelen/pona/ma.png" height="42">       | *FI* maa | ma | ma |
 | <img src="musi/sitelen/pona/mama.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/mani.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/meli.png" height="42">     | … | … | … |
@@ -240,11 +225,11 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/open.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/pakala.png" height="42">   | … | … | … |
 | <img src="musi/sitelen/pona/pali.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/palisa.png" height="42">   | *CR* pàlica | paliĉ | palisa |
+| <img src="musi/sitelen/pona/palisa.png" height="42">   | *CR* pàlica | paliĉ | balisa |
 | <img src="musi/sitelen/pona/pan.png" height="42">      | *ZH* 饭 fàn | fan | ban |
 | <img src="musi/sitelen/pona/pana.png" height="42">     | *Swahili* pana | pan | bana |
 | <img src="musi/sitelen/pona/pi.png" height="42">       | *TP* bilong ← *EN* belong | -i | fe |
-| <img src="musi/sitelen/pona/pilin.png" height="42">    | *TP* pilim ← *EN* feel him | pil | felin |
+| <img src="musi/sitelen/pona/pilin.png" height="42">    | *TP* pilim ← *EN* feel him | pil | velin |
 | <img src="musi/sitelen/pona/pimeja.png" height="42">   | … | … | … |
 | <img src="musi/sitelen/pona/pini.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/pipi.png" height="42">     | … | … | … |
@@ -254,7 +239,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/pu.png" height="42">       | … | … | … |
 | <img src="musi/sitelen/pona/sama.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/seli.png" height="42">     | *KA* ცხელი /tsxeli/ | ĉel | ẑeli |
-| <img src="musi/sitelen/pona/selo.png" height="42">     | *EO* ŝelo ← *EN* shell | ŝel | ẑelu |
+| <img src="musi/sitelen/pona/selo.png" height="42">     | *EO* ŝelo | ŝel | ẑelu |
 | <img src="musi/sitelen/pona/seme.png" height="42">     | *ZH* 什么 /shénme/ | ŝenme | ẑemi |
 | <img src="musi/sitelen/pona/sewi.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/sijelo.png" height="42">   | … | … | … |
@@ -263,19 +248,19 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/sina.png" height="42">     | *FI* sinä | sin | zen |
 | <img src="musi/sitelen/pona/sinpin.png" height="42">   | … | … | … |
 | <img src="musi/sitelen/pona/sitelen.png" height="42">  | … | … | … |
-| <img src="musi/sitelen/pona/sona.png" height="42">     | … | … | … |
+| <img src="musi/sitelen/pona/sona.png" height="42">     | *KA* ცოდნა /tsodna/ | ĉodn | zona |
 | <img src="musi/sitelen/pona/soweli.png" height="42">   | … | … | … |
 | <img src="musi/sitelen/pona/suli.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/suno.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/supa.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/suwi.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/tan.png" height="42">      | … | … | … |
+| <img src="musi/sitelen/pona/tan.png" height="42">      | *KA* დან dan | dan | dan |
 | <img src="musi/sitelen/pona/taso.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/tawa.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/telo.png" height="42">     | *FR* de l'eau | del | telu |
+| <img src="musi/sitelen/pona/tawa.png" height="42">     | *EN* towards | tawa | dawa |
+| <img src="musi/sitelen/pona/telo.png" height="42">     | *FR* de l'eau | del | delu |
 | <img src="musi/sitelen/pona/tenpo.png" height="42">    | … | … | … |
-| <img src="musi/sitelen/pona/toki.png" height="42">     | *TP* tok ← *EN* talk | tok ← ijo ŝin | toĥi |
-| <img src="musi/sitelen/pona/tomo.png" height="42">     | … | … | … |
+| <img src="musi/sitelen/pona/toki.png" height="42">     | *TP* tok ← *EN* talk | tok ← ijo ŝin | doĥi |
+| <img src="musi/sitelen/pona/tomo.png" height="42">     | *EO* domo | dom | domu |
 | <img src="musi/sitelen/pona/tu.png" height="42">       | … | … | … |
 | <img src="musi/sitelen/pona/unpa.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/uta.png" height="42">      | … | … | … |
