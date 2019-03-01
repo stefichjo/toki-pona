@@ -58,28 +58,17 @@ The particles "e" and "o" become the endings "-e" and "-o".
 |:-|:-|
 | *I love you.* | *I should eat good things.* |
 
----
+The **adjective**/**adverb** "mute" can become the ending "-te" after "-s", "-z", "-ŝ", "-ẑ", "-ĉ", "-ĝ", assimilating them to "-s". In other cases, "-te" becomes "-s".
 
-The **adjective**/**adverb** "mute" becomes the ending "-te" after "-s", "-z", "-ŝ", "-ẑ", "-ĉ", "-ĝ", assimilating them to "-s". In other cases, "-te" becomes "-s".
-
-| palisa mute → paliste | jan mute → jante → jans |
+| palisa mute → paliĉte → paliste | jan mute → jante → jans |
 |:-|:-|
 | *fingers* | *people* |
 
-Verbs end in "-m", "-s", "-n". When the subject is "mi" or "sina" alone, it can be omitted.
+Verbs can end in "-m(s)", "-s(te)", "-n(s)". (The verb ending "-i" must always be used, also after "mi" and "sina" alone.) When the subject is "mi (mute)", "sina (mute)" or "ona (mute)" alone, it can be omitted.
 
-
-
-||toki|oliŋ|
-|-|-|-|
-|**mi wan**|tokim|olim|
-|**mi mute**|tokims|olims|
-|**sina wan**|tokis|olis|
-|**sina mute**|tokiste|oliste|
-|**ona wan**|tokin|olin|
-|**ona mute**|tokinte|olinte|
-
-* ***Jom*** tome taw poni mut. *(Mi havas tre bonan aŭton. — I have a very good car.)*
+| telo li wawa e mi. → delen wawi mie. → delen wawin mie. | mi olin e sina. → mien volim sine. → volim sine. |
+|:-|:-|
+| *Water strengthens me.* | *I love you.* |
 
 ### Toko Bona
 *([Toki Pona Spin-Off](#toki-pona-sama) à la Esperanto)*
