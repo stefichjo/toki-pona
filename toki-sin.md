@@ -36,37 +36,37 @@ A compound **sitelen pona** is replaced by its (alleged) etymological form. For 
 
 Final **vowels** (+ **consonant**) are dropped, except if the word is monosyllabic.
 
-| *CR* ona → on | *EO* mi | *NL* hagedis → haged | *TP* lukim → luk |
+| *CR* ona: on | *EO* mi: mi | *NL* hagedis: haged | *TP* lukim: luk |
 |:-|:-|:-|:-|
 | *she* | *I* | *reptile* | *eye* |
 
 The particles "en" and "anu" become "-en" and "-an".
 
-| ike anu pona → ilkan bon | ona en sina → on sinen |
+| ike anu pona: ilkan bon | ona en sina: on sinen |
 |:-|:-|
 | *bad or good* | *she and you* |
 
 The particles "li" and "pi" become "-i".
 
-| tomo ni li tomo pi telo nasa. → dom ni domi deli nas. |
+| tomo ni li tomo pi telo nasa: dom ni domi deli nas. |
 |:-|
 | *This house is a bar.* |
 
 The particles "e" and "o" become the endings "-e" and "-o".
 
-| mi olin e sina. → mi vol sine. | mi o moku e ijo pona. → mi mogo ije bon. |
+| mi olin e sina: mi vol sine. | mi o moku e ijo pona: mi mogo ije bon. |
 |:-|:-|
 | *I love you.* | *I should eat good things.* |
 
 The **adjective**/**adverb** "mute" can become the ending "-te" after "-s", "-z", "-ŝ", "-ẑ", "-ĉ", "-ĝ", assimilating them to "-s". In other cases, "-te" becomes "-s".
 
-| nasa mute → naste | palisa mute → paliĉte → paliste | jan mute → jante → jans |
+| nasa mute: naste | palisa mute: paliĉte → paliste | jan mute: jante → jans |
 |:-|:-|:-|
 | *very strange* | *fingers* | *people* |
 
 Verbs can end in "-m(s)", "-s(te)", "-n(s)". (The verb ending "-i" must always be used, also after "mi" and "sina" alone.) When the subject is "mi (mute)", "sina (mute)" or "ona (mute)" alone, it can be omitted.
 
-| telo li wawa e mi. → del wawi mie. → del wawin mie. | mi olin e sina. → mi volim sine. → volim sine. |
+| telo li wawa e mi: del wawi mie: del wawin mie. | mi olin e sina: mi volim sine. → volim sine. |
 |:-|:-|
 | *Water strengthens me.* | *I love you.* |
 
