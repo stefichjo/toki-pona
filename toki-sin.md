@@ -60,20 +60,15 @@ The particles "e" and "o" become the endings "-e" and "-o".
 
 ---
 
+The **adjective**/**adverb** "mute" becomes the ending "-te" after "-s", "-z", "-ŝ", "-ẑ", "-ĉ", "-ĝ", assimilating them to "-s". In other cases, "-te" becomes "-s".
+
+| palisa mute → paliste | jan mute → jante → jans |
+|:-|:-|
+| *fingers* | *people* |
+
+Verbs end in "-m", "-s", "-n". When the subject is "mi" or "sina" alone, it can be omitted.
 
 
----
-
-The **adjective**/**adverb** "mute" becomes the ending "-te". After non-nasals, it is further reduced to "-s".
-
-* lipu mute → liput → lipus *(libroj — books)*
-* jan mute → jant → jans *(personoj — people)*
-
-||lipu mute|jan mute|
-|-|-|-|
-||lipus|jans|
-|**e**|lipuse|janse|
-|**pi**|lipusi|jansi|
 
 ||toki|oliŋ|
 |-|-|-|
@@ -199,7 +194,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/ilo.png" height="42">      | *EO* ilo | il | elu |
 | <img src="musi/sitelen/pona/insa.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/jaki.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/jan.png" height="42">      | … | … | … |
+| <img src="musi/sitelen/pona/jan.png" height="42">      | *Cantonese* 人 /jɐn/ | jan | jan |
 | <img src="musi/sitelen/pona/jelo.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/jo.png" height="42">       | … | … | … |
 | <img src="musi/sitelen/pona/kala.png" height="42">     | … | … | … |
@@ -217,7 +212,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/kute.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/la.png" height="42">       | … | … | … |
 | <img src="musi/sitelen/pona/lape.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/laso.png" height="42">     | … | … | … |
+| <img src="musi/sitelen/pona/laso.png" height="42">     | *CY* glas | glas (!) | lasu |
 | <img src="musi/sitelen/pona/lawa.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/len.png" height="42">      | … | … | … |
 | <img src="musi/sitelen/pona/lete.png" height="42">     | … | … | … |
@@ -238,14 +233,14 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/mije.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/moku.png" height="42">     | *JP* モグ /mogu/ | mog | moku |
 | <img src="musi/sitelen/pona/moli.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/monsi.png" height="42">    | … | … | … |
+| <img src="musi/sitelen/pona/monsi.png" height="42">    | *Acadian French* mon tchu ← *FR* mon cul | monĉ | monĉi |
 | <img src="musi/sitelen/pona/mu.png" height="42">       | … | … | … |
 | <img src="musi/sitelen/pona/mun.png" height="42">      | … | … | … |
-| <img src="musi/sitelen/pona/musi.png" height="42">     | … | … | … |
+| <img src="musi/sitelen/pona/musi.png" height="42">     | *EO* amuzi | amuz | mosi |
 | <img src="musi/sitelen/pona/mute.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/nanpa.png" height="42">    | … | … | … |
 | <img src="musi/sitelen/pona/nasa.png" height="42">     | *TP* nasau | nas | nasa |
-| <img src="musi/sitelen/pona/nasin.png" height="42">    | … | … | … |
+| <img src="musi/sitelen/pona/nasin.png" height="42">    | *CR* način | naĉ | naĉin |
 | <img src="musi/sitelen/pona/nena.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/ni.png" height="42">       | … | … | … |
 | <img src="musi/sitelen/pona/nimi.png" height="42">     | … | … | … |
@@ -256,7 +251,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/open.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/pakala.png" height="42">   | … | … | … |
 | <img src="musi/sitelen/pona/pali.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/palisa.png" height="42">   | … | … | … |
+| <img src="musi/sitelen/pona/palisa.png" height="42">   | *CR* pàlica | palic | palisa |
 | <img src="musi/sitelen/pona/pan.png" height="42">      | *ZH* 饭 fàn | fan | ban |
 | <img src="musi/sitelen/pona/pana.png" height="42">     | *Swahili* pana | pan | bana |
 | <img src="musi/sitelen/pona/pi.png" height="42">       | *TP* bilong ← *EN* belong | -i | fe |
@@ -298,7 +293,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/utala.png" height="42">    | … | … | … |
 | <img src="musi/sitelen/pona/walo.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/wan.png" height="42">      | … | … | … |
-| <img src="musi/sitelen/pona/waso.png" height="42">     | … | … | … |
+| <img src="musi/sitelen/pona/waso.png" height="42">     | *FR* oiseau | waz | wasu |
 | <img src="musi/sitelen/pona/wawa.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/weka.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/wile.png" height="42">     | … | … | … |
