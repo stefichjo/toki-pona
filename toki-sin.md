@@ -36,25 +36,25 @@ A compound **sitelen pona** is replaced by its (alleged) etymological form. For 
 
 Final **vowels** (+ **consonant**) are dropped, except if the word is monosyllabic.
 
-| *CR* ona: on | *EO* mi: mi | *NL* hagedis: haged | *TP* lukim: luk |
+| ona: ona → on | mi: mi | akesi: hagedis → haged | lukin: lukim → luk |
 |:-|:-|:-|:-|
 | *she* | *I* | *reptile* | *eye* |
 
 The particles "en" and "anu" become "-en" and "-an".
 
-| ike anu pona: ilkan bon | ona en sina: on sinen |
+| ike anu pona: ilkea an bona → ilk bonan | ona en sina: ona en sina → on sinen |
 |:-|:-|
 | *bad or good* | *she and you* |
 
-The particles "li" and "pi" become "-i".
+The particles "li" and "biloŋ" become "-i".
 
-| tomo ni li tomo pi telo nasa: dom ni domi deli nas. |
+| tomo ni li tomo pi telo nasa: domo ni li domo biloŋ delo nasaw. → dom ni domi deli nas. |
 |:-|
 | *This house is a bar.* |
 
 The particles "e" and "o" become the endings "-e" and "-o".
 
-| mi olin e sina: mi vol sine. | mi o moku e ijo pona: mi mogo ije bon. |
+| mi olin e sina: mi volim e sina. → mi vol sine. | mi o moku e ijo pona: mi o mogu e ijo bona. → mi mogo ije bon. |
 |:-|:-|
 | *I love you.* | *I should eat good things.* |
 
@@ -114,7 +114,7 @@ Monosyllabic **Tok Bon** stems lose their **vocalic** ending, except for **inter
 
 The consonant starting off an **adjective**/**adverb** is voiced.
 
-| jan pona → jan bona | tomo tawa → tomo dawa |
+| jan pona: jan bona | tomo tawa: tomo dawa |
 |:-|:-|
 | *friend* | *car* |
 
@@ -123,19 +123,19 @@ The consonant starting off an **adjective**/**adverb** is voiced.
 
 Before "e" or "i", the consonants "p", "t", "k" become fricatives.
 
-| pilin → filin | ken → ĥen |
+| pilin: filin | ken: ĥen |
 |:-|:-|
 | *heart* | *box* |
 
 "s" derived from "t"/"ĉ" becomes "ĉ", otherwise "ŝ".
 
-| sijelo → ĉijelo | nasin → naĉin | selo → ŝelo |
+| sijelo: ĉijelo | nasin: naĉin | selo: ŝelo |
 |:-|:-|:-|
 | *body* | *way* | *skin* |
 
 When voiced, "f", "ĉ" ("ŝ"), "ĥ" become "v", "ĝ" ("ĵ"), "h".
 
-| tenpo pini → tenpo vini | tomo telo → tomo ĝelo | nasin sewi → naĉin ĵewi | ko kiwen → ko hiwen |
+| tenpo pini: tenpo vini | tomo telo: tomo ĝelo | nasin sewi: naĉin ĵewi | ko kiwen: ko hiwen |
 |:-|:-|:-|:-|
 | *past* | *bathroom* | *religion* | *sand* |
 
@@ -144,7 +144,7 @@ When voiced, "f", "ĉ" ("ŝ"), "ĥ" become "v", "ĝ" ("ĵ"), "h".
 
 The vowels "u" and "i" merge with "o" and "e".
 
-| tu → to | mi → me |
+| tu: to | mi: me |
 |:-|:-|
 | *two* | *I* |
 
@@ -217,7 +217,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/nasa.png" height="42">     | *TP* nasau | nas | nasa |
 | <img src="musi/sitelen/pona/nasin.png" height="42">    | *CR* način | naĉ | naĉin |
 | <img src="musi/sitelen/pona/nena.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/ni.png" height="42">       | … | … | … |
+| <img src="musi/sitelen/pona/ni.png" height="42">       | *Cantonese* 哩 /ni/ | ni | ne |
 | <img src="musi/sitelen/pona/nimi.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/noka.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/o.png" height="42">        | … | … | … |
