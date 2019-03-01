@@ -40,21 +40,21 @@ Final **vowels** (+ **consonant**) are dropped, except if the word is monosyllab
 |:-|:-|:-|:-|
 | *she* | *I* | *reptile* | *eye* |
 
-The particles "en" and "anu" become "-en" and "-an". "-en" is also used for subjects (but not after prepositions).
+The particles "en" and "anu" become "-en" and "-an".
 
-| ike anu pona → ilkan bon | ona en sina → on sinen | sina sin. → sinen ŝin. |
-|:-|:-|:-|
-| *bad or good* | *she and you* | *You are new.* |
+| ike anu pona → ilkan bon | ona en sina → on sinen |
+|:-|:-|
+| *bad or good* | *she and you* |
 
 The particles "li" and "pi" become "-i".
 
-| tomo ni li tomo pi telo nasa. → domen ni domi deli nas. |
+| tomo ni li tomo pi telo nasa. → dom ni domi deli nas. |
 |:-|
 | *This house is a bar.* |
 
 The particles "e" and "o" become the endings "-e" and "-o".
 
-| mi olin e sina. → mien vol sine. | mi o moku e ijo pona. → mien mogo ije bon. |
+| mi olin e sina. → mi vol sine. | mi o moku e ijo pona. → mi mogo ije bon. |
 |:-|:-|
 | *I love you.* | *I should eat good things.* |
 
@@ -66,7 +66,7 @@ The **adjective**/**adverb** "mute" can become the ending "-te" after "-s", "-z"
 
 Verbs can end in "-m(s)", "-s(te)", "-n(s)". (The verb ending "-i" must always be used, also after "mi" and "sina" alone.) When the subject is "mi (mute)", "sina (mute)" or "ona (mute)" alone, it can be omitted.
 
-| telo li wawa e mi. → delen wawi mie. → delen wawin mie. | mi olin e sina. → mien volim sine. → volim sine. |
+| telo li wawa e mi. → del wawi mie. → del wawin mie. | mi olin e sina. → mi volim sine. → volim sine. |
 |:-|:-|
 | *Water strengthens me.* | *I love you.* |
 

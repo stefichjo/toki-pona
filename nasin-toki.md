@@ -7,5 +7,5 @@
 | [Parts of Speech](nimi.md) |
 | [Punctuation](sitelen-pi-poka-nimi.md) |
 | [Hieroglyphs](sitelen-pona.md) |
-| [Spin-Offs](toki-sin.md) |
+| [Dialects](toki-sin.md) |
 
