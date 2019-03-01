@@ -29,70 +29,40 @@ A compound **sitelen pona** is replaced by its (alleged) etymological form. For 
 | *to talk*, *language* ← *news* |
 
 ## Toki Pona Sama
-*([Toki Pona](#toki-pona-sin) Spin-Off)*
+*([Toki Pona](#toki-pona-sin) Spin-Offs)*
 
 ### Tok Bon
 *([Toki Pona Spin-Off](#toki-pona-sama) with Inflection)*
 
-Final **vowels** are dropped, except if the word is monosyllabic.
+Final **vowels** (+ **consonant**) are dropped, except if the word is monosyllabic.
 
-| *CR* ona → on | *EO* mi |
+| *CR* ona → on | *EO* mi | *NL* hagedis → haged | *TP* lukim → luk |
+|:-|:-|:-|:-|
+| *she* | *I* | *reptile* | *eye* |
+
+The particles "en" and "anu" become "-en" and "-an". "-en" is also used for subjects.
+
+| ike anu pona → ilkan bon | ona en sina → on sinen | sina sin. → sinen ŝin. |
+|:-|:-|:-|
+| *bad or good* | *she and you* | *You are new.* |
+
+The particles "li" and "pi" become "-i".
+
+| tomo ni li tomo pi telo nasa. → domen ni domi deli nas. |
+|:-|
+| *This house is a bar.* |
+
+The particles "e" and "o" become the endings "-e" and "-o".
+
+| mi olin e sina. → mien vol sine. | mi o moku e ijo pona. → mien mogo ije bon. |
 |:-|:-|
-| *she* | *me* |
+| *I love you.* | *I should eat good things.* |
 
-Final **vowel** + **consonant** are dropped, except if the ending consonant is a **nasal**. All ending **nasals** become "n".
-
-| *NL* hagedis → haged | *TP* lukim → lukin |
-|:-|:-|
-| *reptile* | *eye* |
-
-
-
-li/pi → -i: tokim, mokim, sonim...
-
-
-
-mi sina ona
-mina
-
-ko
-mu
-
-li/pi → -i
-o → -o
-e → -e
-. → -en
-
-mi olin e sina → men olini sine
-ona li olin e sina → onen olini sine
-
-a
-en
-jo
-ko
-la
-ma
-mi
-mu
-ni
-pu
-tu
+---
 
 
 
 ---
-
-The sound "n" becomes "ŋ" at the end of a word. Other pseudo-endings disappear.
-
-| pilin pona → piliŋ pon | mi → m |
-|:-|:-|
-| *to feel good* | *I* |
-
-The particles "e" and "pi" are expressed by the endings "-e" and "-i". (The syllables "ti" and "ji" are allowed.)
-
-| tomo pi telo nasa → tom teli nas | mi moku e telo nasa. → m mok tele nas. |
-|:-|:-|
-| *bar* | *I drink beer.* |
 
 The **adjective**/**adverb** "mute" becomes the ending "-te". After non-nasals, it is further reduced to "-s".
 
@@ -220,10 +190,10 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/anpa.png" height="42">     | *FR* en bas | anb | ampa |
 | <img src="musi/sitelen/pona/ante.png" height="42">     | *NL* ander | and | anĉi |
 | <img src="musi/sitelen/pona/anu.png" height="42">      | *KA* ან /an/ | an | anu |
-| <img src="musi/sitelen/pona/awen.png" height="42">     | *NL* houden → houen | hawen | awin |
+| <img src="musi/sitelen/pona/awen.png" height="42">     | *NL* houden → houen | haw | awin |
 | <img src="musi/sitelen/pona/e.png" height="42">        | - | -e | e |
 | <img src="musi/sitelen/pona/en.png" height="42">       | *NL* en | -en | en |
-| <img src="musi/sitelen/pona/esun.png" height="42">     | *Akan* edwamu [edʒum] | edẑum | esun |
+| <img src="musi/sitelen/pona/esun.png" height="42">     | *Akan* edwamu [edʒum] | edẑ | esun |
 | <img src="musi/sitelen/pona/ijo.png" height="42">      | *EO* ijo | ij | eju |
 | <img src="musi/sitelen/pona/ike.png" height="42">      | *FI* ilkeä | ilk | eĥi |
 | <img src="musi/sitelen/pona/ilo.png" height="42">      | *EO* ilo | il | elu |
@@ -258,7 +228,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/loje.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/lon.png" height="42">      | … | … | … |
 | <img src="musi/sitelen/pona/luka.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/lukin.png" height="42">    | *TP* lukim ← *EN* look him | lukin | loĥin |
+| <img src="musi/sitelen/pona/lukin.png" height="42">    | *TP* lukim ← *EN* look him | luk | loĥin |
 | <img src="musi/sitelen/pona/lupa.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/ma.png" height="42">       | … | … | … |
 | <img src="musi/sitelen/pona/mama.png" height="42">     | … | … | … |
@@ -266,7 +236,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/meli.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/mi.png" height="42">       | … | … | … |
 | <img src="musi/sitelen/pona/mije.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/moku.png" height="42">     | … | … | … |
+| <img src="musi/sitelen/pona/moku.png" height="42">     | *JP* モグ /mogu/ | mog | moku |
 | <img src="musi/sitelen/pona/moli.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/monsi.png" height="42">    | … | … | … |
 | <img src="musi/sitelen/pona/mu.png" height="42">       | … | … | … |
@@ -274,14 +244,14 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/musi.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/mute.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/nanpa.png" height="42">    | … | … | … |
-| <img src="musi/sitelen/pona/nasa.png" height="42">     | … | … | … |
+| <img src="musi/sitelen/pona/nasa.png" height="42">     | *TP* nasau | nas | nasa |
 | <img src="musi/sitelen/pona/nasin.png" height="42">    | … | … | … |
 | <img src="musi/sitelen/pona/nena.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/ni.png" height="42">       | … | … | … |
 | <img src="musi/sitelen/pona/nimi.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/noka.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/o.png" height="42">        | … | … | … |
-| <img src="musi/sitelen/pona/olin.png" height="42">     | … | … | … |
+| <img src="musi/sitelen/pona/olin.png" height="42">     | *CR* volim | vol | olin |
 | <img src="musi/sitelen/pona/ona.png" height="42">      | … | … | … |
 | <img src="musi/sitelen/pona/open.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/pakala.png" height="42">   | … | … | … |
@@ -290,12 +260,12 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/pan.png" height="42">      | *ZH* 饭 fàn | fan | ban |
 | <img src="musi/sitelen/pona/pana.png" height="42">     | *Swahili* pana | pan | bana |
 | <img src="musi/sitelen/pona/pi.png" height="42">       | *TP* bilong ← *EN* belong | -i | fe |
-| <img src="musi/sitelen/pona/pilin.png" height="42">    | *TP* pilim ← *EN* feel him | pilin | felin |
+| <img src="musi/sitelen/pona/pilin.png" height="42">    | *TP* pilim ← *EN* feel him | pil | felin |
 | <img src="musi/sitelen/pona/pimeja.png" height="42">   | … | … | … |
 | <img src="musi/sitelen/pona/pini.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/pipi.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/poka.png" height="42">     | *HR* bòka | bok | boka |
-| <img src="musi/sitelen/pona/poki.png" height="42">     | *TP* bokis ← *EN* book | bok | boĥi |
+| <img src="musi/sitelen/pona/poka.png" height="42">     | *HR* bòka | bok (!) | boka |
+| <img src="musi/sitelen/pona/poki.png" height="42">     | *TP* bokis ← *EN* box | bok (!) | boĥi |
 | <img src="musi/sitelen/pona/pona.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/pu.png" height="42">       | … | … | … |
 | <img src="musi/sitelen/pona/sama.png" height="42">     | … | … | … |
@@ -318,7 +288,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/tan.png" height="42">      | … | … | … |
 | <img src="musi/sitelen/pona/taso.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/tawa.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/telo.png" height="42">     | … | … | … |
+| <img src="musi/sitelen/pona/telo.png" height="42">     | *FR* de l'eau | del | telu |
 | <img src="musi/sitelen/pona/tenpo.png" height="42">    | … | … | … |
 | <img src="musi/sitelen/pona/toki.png" height="42">     | *TP* tok ← *EN* talk | tok ← ijo ŝin | toĥi |
 | <img src="musi/sitelen/pona/tomo.png" height="42">     | … | … | … |
