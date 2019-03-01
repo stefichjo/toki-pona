@@ -32,7 +32,7 @@ A compound **sitelen pona** is replaced by its (alleged) etymological form. For 
 *([Toki Pona](#toki-pona-sin) Spin-Offs)*
 
 ### Tok Bon
-*([Toki Pona Spin-Off](#toki-pona-sama) with Inflection)*
+*([Toki Pona Spin-Off](#toki-pona-sama) with Declension)*
 
 Final **vowels** (+ **consonant**) are dropped, except if the word is monosyllabic.
 
@@ -58,19 +58,22 @@ The particles "e" and "o" become the endings "-e" and "-o".
 |:-|:-|
 | *I love you.* | *I should eat good things.* |
 
-The **adjective**/**adverb** "mute" can become the ending "-te" after "-s", "-z", "-ŝ", "-ẑ", "-ĉ", "-ĝ", assimilating them to "-s". In other cases, "-te" becomes "-s".
+The **adjective**/**adverb** "mute" becomes the ending "-te" after "-s", "-z", "-ŝ", "-ẑ", "-ĉ", "-ĝ", assimilating them to "-s". In other cases, "-te" becomes "-s".
 
 | nasa mute: naste | palisa mute: paliĉte → paliste | jan mute: jante → jans |
 |:-|:-|:-|
 | *very strange* | *fingers* | *people* |
 
-Verbs can end in "-m(s)", "-s(te)", "-n(s)". (The verb ending "-i" must always be used, also after "mi" and "sina" alone.) When the subject is "mi (mute)", "sina (mute)" or "ona (mute)" alone, it can be omitted.
+#### Tok Bon Pi Nimi Wawa
+*([Toki Pona Spin-Off](#toki-pona-sama) with Conjugation)*
+
+Verbs end in "-m(s)", "-s(te)", "-n(s)". (The verb ending "-i" must always be used, also after "mi" and "sina" alone.) When the subject is "mi (mute)", "sina (mute)" or "ona (mute)" alone, it can be omitted.
 
 | telo li wawa e mi: del wawi mie. → del wawin mie. | mi olin e sina: mi volim sine. → volim sine. |
 |:-|:-|
 | *Water strengthens me.* | *I love you.* |
 
-#### Toko Bona
+##### Toko Bona
 *([Toki Pona Spin-Off](#toki-pona-sama) à la Esperanto)*
 
 **Toko Bona** has the grammar of **Esperanto**. It keeps all words of **Tok Bon** except for "la" (which becomes the definite article) and adds "est-" from **Esperanto**.
