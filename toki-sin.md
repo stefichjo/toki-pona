@@ -238,13 +238,13 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/pona.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/pu.png" height="42">       | … | … | … |
 | <img src="musi/sitelen/pona/sama.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/seli.png" height="42">     | *KA* ცხელი /tsxeli/ | ĉel | ẑeli |
-| <img src="musi/sitelen/pona/selo.png" height="42">     | *EO* ŝelo | ŝel | ẑelu |
-| <img src="musi/sitelen/pona/seme.png" height="42">     | *ZH* 什么 /shénme/ | ŝenme | ẑemi |
+| <img src="musi/sitelen/pona/seli.png" height="42">     | *KA* ცხელი /tsxeli/ | ĉel | ĵeli |
+| <img src="musi/sitelen/pona/selo.png" height="42">     | *EO* ŝelo | ŝel | ĵelu |
+| <img src="musi/sitelen/pona/seme.png" height="42">     | *ZH* 什么 /shénme/ | ŝenme | ĵemi |
 | <img src="musi/sitelen/pona/sewi.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/sijelo.png" height="42">   | … | … | … |
 | <img src="musi/sitelen/pona/sike.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/sin.png" height="42">      | *ZH* 新 /xīn/ | ŝin | ẑen |
+| <img src="musi/sitelen/pona/sin.png" height="42">      | *ZH* 新 /xīn/ | ŝin | ĵen |
 | <img src="musi/sitelen/pona/sina.png" height="42">     | *FI* sinä | sin | zen |
 | <img src="musi/sitelen/pona/sinpin.png" height="42">   | … | … | … |
 | <img src="musi/sitelen/pona/sitelen.png" height="42">  | … | … | … |
