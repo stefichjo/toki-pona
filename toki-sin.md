@@ -70,7 +70,7 @@ Verbs can end in "-m(s)", "-s(te)", "-n(s)". (The verb ending "-i" must always b
 |:-|:-|
 | *Water strengthens me.* | *I love you.* |
 
-### Toko Bona
+#### Toko Bona
 *([Toki Pona Spin-Off](#toki-pona-sama) à la Esperanto)*
 
 **Toko Pona** has the words and the orthography of **Toki Pona**, but it has the syllable stress and the endings of **Esperanto**.
@@ -177,7 +177,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/awen.png" height="42">     | *NL* houden → houen | haw | awin |
 | <img src="musi/sitelen/pona/e.png" height="42">        | - | -e | e |
 | <img src="musi/sitelen/pona/en.png" height="42">       | *NL* en | -en | en |
-| <img src="musi/sitelen/pona/esun.png" height="42">     | *Akan* edwamu [edʒum] | edẑ | esun |
+| <img src="musi/sitelen/pona/esun.png" height="42">     | *Akan* edwamu [edʒum] | eĝ | esun |
 | <img src="musi/sitelen/pona/ijo.png" height="42">      | *EO* ijo | ij | eju |
 | <img src="musi/sitelen/pona/ike.png" height="42">      | *FI* ilkeä | ilk | eĥi |
 | <img src="musi/sitelen/pona/ilo.png" height="42">      | *EO* ilo | il | elu |
@@ -240,7 +240,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/open.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/pakala.png" height="42">   | … | … | … |
 | <img src="musi/sitelen/pona/pali.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/palisa.png" height="42">   | *CR* pàlica | palic | palisa |
+| <img src="musi/sitelen/pona/palisa.png" height="42">   | *CR* pàlica | paliĉ | palisa |
 | <img src="musi/sitelen/pona/pan.png" height="42">      | *ZH* 饭 fàn | fan | ban |
 | <img src="musi/sitelen/pona/pana.png" height="42">     | *Swahili* pana | pan | bana |
 | <img src="musi/sitelen/pona/pi.png" height="42">       | *TP* bilong ← *EN* belong | -i | fe |
@@ -254,7 +254,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/pu.png" height="42">       | … | … | … |
 | <img src="musi/sitelen/pona/sama.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/seli.png" height="42">     | *KA* ცხელი /tsxeli/ | ĉel | ẑeli |
-| <img src="musi/sitelen/pona/selo.png" height="42">     | *EO* ŝelo | ŝel | ẑelu |
+| <img src="musi/sitelen/pona/selo.png" height="42">     | *EO* ŝelo ← *EN* shell | ŝel | ẑelu |
 | <img src="musi/sitelen/pona/seme.png" height="42">     | *ZH* 什么 /shénme/ | ŝenme | ẑemi |
 | <img src="musi/sitelen/pona/sewi.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/sijelo.png" height="42">   | … | … | … |
