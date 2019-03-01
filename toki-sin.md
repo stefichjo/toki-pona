@@ -66,7 +66,7 @@ The **adjective**/**adverb** "mute" can become the ending "-te" after "-s", "-z"
 
 Verbs can end in "-m(s)", "-s(te)", "-n(s)". (The verb ending "-i" must always be used, also after "mi" and "sina" alone.) When the subject is "mi (mute)", "sina (mute)" or "ona (mute)" alone, it can be omitted.
 
-| telo li wawa e mi: del wawi mie: del wawin mie. | mi olin e sina: mi volim sine. → volim sine. |
+| telo li wawa e mi: del wawi mie. → del wawin mie. | mi olin e sina: mi volim sine. → volim sine. |
 |:-|:-|
 | *Water strengthens me.* | *I love you.* |
 
@@ -90,8 +90,6 @@ Monosyllabic **Tok Bon** stems lose their **vocalic** ending, except for **inter
 | toki nanpa wan: la toko nambo wanu → la toko wanua |
 |:-|
 | *la unua lingvo* |
-
-* la jano Sonja → Sonja
 
 **Correlatives** end in "-iu".
 
