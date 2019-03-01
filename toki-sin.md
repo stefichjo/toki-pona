@@ -15,9 +15,9 @@
 
 Etymological forms are preserved.
 
-| anu ← an | lon ← aloŋ | seme ← ŝenme | tenpo ← tempo |
-|:-|:-|:-|:-|
-| *or* | *at* | *what* | *time* |
+| anu: *KA* ან /an/ → an | seme: *ZH* 什么 /shénme/ → ŝenme | tenpo: *EO* tempo → tempo |
+|:-|:-|:-|
+| *or* | *what* | *time* |
 
 #### Ijo Ŝin Bona
 *([Toki Pona Prequel](#toki-pona-mama) without Compound Hieroglyphs)*
@@ -259,7 +259,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/taso.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/tawa.png" height="42">     | *EN* towards | tawa | dawa |
 | <img src="musi/sitelen/pona/telo.png" height="42">     | *FR* de l'eau | del | delu |
-| <img src="musi/sitelen/pona/tenpo.png" height="42">    | … | … | … |
+| <img src="musi/sitelen/pona/tenpo.png" height="42">    | *EO* tempo | temp | tenpu |
 | <img src="musi/sitelen/pona/toki.png" height="42">     | *TP* tok ← *EN* talk | tok ← ijo ŝin | doĥi |
 | <img src="musi/sitelen/pona/tomo.png" height="42">     | *EO* domo | dom | domu |
 | <img src="musi/sitelen/pona/tu.png" height="42">       | … | … | … |
