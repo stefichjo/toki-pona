@@ -47,11 +47,14 @@ Etymological forms, as indicated by their **sitelen pona** are preserved.
 | | | |
 |:-|:-|:-|
 | <img src="musi/sitelen/pona/kalama.png" height="42">   | **kalama** | usta ŝin |
+| <img src="musi/sitelen/pona/sona.png" height="42">     | **sona** | lipu ŝin |
+| <img src="musi/sitelen/pona/toki.png" height="42">     | **toki** | ijo ŝin |
+
+| | | |
+|:-|:-|:-|
 | <img src="musi/sitelen/pona/kulupu.png" height="42">   | **kulupu** | multe jan |
 | <img src="musi/sitelen/pona/olin.png" height="42">     | **olin** | pil-im e pil-im |
 | <img src="musi/sitelen/pona/pu.png" height="42">       | **pu** | loŋ lipu biloŋ tok bona |
-| <img src="musi/sitelen/pona/sona.png" height="42">     | **sona** | lipu ŝin |
-| <img src="musi/sitelen/pona/toki.png" height="42">     | **toki** | ijo ŝin |
 
 Animals are expressed by means of "tijelo".
 
