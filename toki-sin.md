@@ -78,7 +78,7 @@ Final **vowels** (+ **consonant**) are dropped, except if the word is monosyllab
 |:-|:-|:-|:-|
 | *she* | *I* | *reptile* | *eye* |
 
-The **particles** "en" and "anu" become the **suffixes** "-en" and "-an".
+The **particles** "en" and "an" become the **suffixes** "-en" and "-an".
 
 | ike anu pona: ilkea an bona → ilk bonan | ona en sina: ona en sina → on sinen |
 |:-|:-|
@@ -86,11 +86,11 @@ The **particles** "en" and "anu" become the **suffixes** "-en" and "-an".
 
 The **particles** "biloŋ" and "li" become the **suffix** "-i".
 
-| tomo pi telo nasa: domo biloŋ de-l-o nasau → dom deli nas. | jan li pali: jan li far. → jan fari. |
+| tomo pi telo nasa: domo biloŋ de-l-o nasau → dom deli nas | jan li pali: jan li far. → jan fari. |
 |:-|:-|
 | *bar* | *People are working.* |
 
-The **particles** "ho" and "e" become the **suffixes** "-o" and "e".
+The **particles** "ho" and "e" become the **suffixes** "-o" and "-e".
 
 | mi o moku e ijo pona: mi ho mogu e ijo bona. → mi mogo ije bon. |
 |:-|
@@ -98,20 +98,20 @@ The **particles** "ho" and "e" become the **suffixes** "-o" and "e".
 
 The **subject** "mi" and "sina" alone become the **suffixes** "-im" and "-is".
 
-| mi olin e sina: mi vol e sin. → volim sine. |
-|:-|
-| *I love you.* |
+| mi olin e sina: mi vol e sin. → volim sine. | sina sin: sin ŝin. → ŝinis. |
+|:-|:-|
+| *I love you.* | *You are new.* |
 
-##### Toko Bona
+#### Toko Bona
 *([Toki Pona Spin-Off](#toki-pona-sama) à la Esperanto)*
 
-**Toko Bona** has the grammar and the phonetics of **Esperanto**. It keeps all words of **Tok Bon** except for "la" (which becomes the definite article) and adds "est-" from **Esperanto**.
+**Toko Bona** has the grammar and the phonetics of **Esperanto**. It keeps all words of **Tok Bona** except for "la" (which becomes the definite article) and adds "est-" from **Esperanto**.
 
 | jan pona li lon tomo: jan bona li loŋ domo. → la jano bona estas lon la domo. |
 |:-|
 | *The friend is in the house.* |
 
-Monosyllabic **Tok Bon** stems lose their **vocalic** ending, except for **interjections**.
+Monosyllabic **Tok Bona** stems lose their **vocalic** ending, except for **interjections**.
 
 | ma tomo: maa domo → mo doma | soweli li mu: ĉoveli li mu. → la ĉovelo muas. |
 |:-|:-|
@@ -119,19 +119,19 @@ Monosyllabic **Tok Bon** stems lose their **vocalic** ending, except for **inter
 
 **Numerals** end in "-u".
 
-| toki nanpa wan: la toko nambo wanu → la toko wanua |
+| toki nanpa wan: tok namba wan → la toko nambo wanu → la toko wanua |
 |:-|
 | *la unua lingvo* |
 
 **Correlatives** end in "-iu".
 
-| seme: semiu | ni: niu | ale: aliu | ala: ariu |
+| seme: ŝenme → semiu | ni: ni → niu | ale: ale → aliu | ala: ara → ariu |
 |:-|:-|:-|:-|
 | *what* | *that* | *every* | *no* |
 
 **Personal pronouns** end in "-i".
 
-| mi: mi | sina: sini | ona: oni |
+| mi: mi | sina: sina → sini | ona: ona → oni |
 |:-|:-|:-|
 | *I* | *you* | *she* |
 
