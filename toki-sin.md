@@ -1,5 +1,5 @@
-# Toki Pona Sin
-*([Toki Pona](#nasin-toki-pi-toki-pona) Dialects)*
+# Dialects
+*([Toki Pona](#nasin-toki-pi-toki-pona) Sin)*
 
 | |
 |:-|
