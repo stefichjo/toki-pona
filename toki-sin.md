@@ -76,15 +76,15 @@ Verbs end in "-m(s)", "-s(te)", "-n(s)". (The verb ending "-i" must always be us
 ##### Toko Bona
 *([Toki Pona Spin-Off](#toki-pona-sama) à la Esperanto)*
 
-**Toko Bona** has the grammar of **Esperanto**. It keeps all words of **Tok Bon** except for "la" (which becomes the definite article) and adds "est-" from **Esperanto**.
+**Toko Bona** has the grammar and the phonetics of **Esperanto**. It keeps all words of **Tok Bon** except for "la" (which becomes the definite article) and adds "est-" from **Esperanto**.
 
-| jan pona li lon tomo: la jano bona estas lon la domo. |
+| jan pona li lon tomo: jan bona li loŋ domo. → la jano bona estas lon la domo. |
 |:-|
 | *The friend is in the house.* |
 
 Monosyllabic **Tok Bon** stems lose their **vocalic** ending, except for **interjections**.
 
-| ma tomo: mo doma | soweli li mu: la sowelo muas. |
+| ma tomo: maa domo → mo doma | soweli li mu: ĉoveli li mu. → la ĉovelo muas. |
 |:-|:-|
 | *town* | *The animal bleats.* |
 
@@ -250,7 +250,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/sinpin.png" height="42">   | … | … | … |
 | <img src="musi/sitelen/pona/sitelen.png" height="42">  | … | … | … |
 | <img src="musi/sitelen/pona/sona.png" height="42">     | *KA* ცოდნა /tsodna/ | ĉodna | zona |
-| <img src="musi/sitelen/pona/soweli.png" height="42">   | … | … | … |
+| <img src="musi/sitelen/pona/soweli.png" height="42">   | *KA* ცხოკელი /tsxoveli/ | ĉoveli | zowili |
 | <img src="musi/sitelen/pona/suli.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/suno.png" height="42">     | … | … | … |
 | <img src="musi/sitelen/pona/supa.png" height="42">     | … | … | … |
