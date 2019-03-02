@@ -93,21 +93,15 @@ The consonant starting off an **adjective**/**adverb** is voiced.
 #### Toĥi Bona
 *([Toki Pona Sequel](#sequels) with More Fricatives)*
 
-Before "e" or "i", the consonants "p", "t", "k" become fricatives.
+Before "e" or "i", the **consonants** "p", "t", "k" become the **fricatives** "f", "ĉ", "ĥ", whereas "s" becomes "ŝ".
 
-| pilin: filin | ken: ĥen |
-|:-|:-|
-| *heart* | *box* |
+| pilin: filin | tenpo: ĉenpo | ken: ĥen | selo: ŝelo |
+|:-|:-|:-|
+| *heart* | *time* | *box* | *skin* |
 
-"s" derived from "t"/"c"/"ĉ" becomes "ĉ".
+When voiced, "f", "ĉ", "ĥ" and "ŝ" become "v", "ĝ", "h" and "ĵ".
 
-| sijelo: ĉijelo | nasin: naĉin | monsi: monŝi | soweli: ĉoweli | sona: ĉona |
-|:-|:-|:-|:-|:-|
-| *body* | *way* | *back* | *animal* | *to know* |
-
-When voiced, "f", "ĉ" ("ŝ"), "ĥ" become "v", "ĝ" ("ĵ"), "h".
-
-| tenpo pini: tenpo vini | tomo telo: tomo ĝelo | nasin sewi: naĉin ĵewi | ko kiwen: ko hiwen |
+| tenpo pini: ĉenpo vini | tomo telo: tomo ĝelo | nasin sewi: naŝin ĵewi | ko kiwen: ko hiwen |
 |:-|:-|:-|:-|
 | *past* | *bathroom* | *religion* | *sand* |
 
@@ -116,7 +110,7 @@ When voiced, "f", "ĉ" ("ŝ"), "ĥ" become "v", "ĝ" ("ĵ"), "h".
 
 The vowels "u" and "i" merge with "o" and "e".
 
-| tu: to | mi: me | musi: mose |
+| tu: to | mi: me | musi: muŝi → moŝe |
 |:-|:-|:-|
 | *two* | *I* | *recreational* |
 
@@ -137,25 +131,25 @@ Final **vowels** (+ **consonant**) are dropped, except if the word is monosyllab
 |:-|:-|:-|:-|
 | *she* | *I* | *reptile* | *eye* |
 
-The **particles** "en" and "an" become the **suffixes** "-en" and "-an".
+The **particles** "en" and "an" become the **endings** "-en" and "-an".
 
 | ike anu pona: ilkea an bona → ilk bonan | ona en sina: ona en sina → on sinen |
 |:-|:-|
 | *bad or good* | *she and you* |
 
-The **particles** "biloŋ" and "li" become the **suffix** "-i".
+The **particles** "biloŋ" and "li" become the **ending** "-i".
 
 | tomo pi telo nasa: domo biloŋ delo nasau → dom deli nas | jan li pali: jan li far. → jan fari. |
 |:-|:-|
 | *bar* | *People are working.* |
 
-The **particles** "ho" and "e" become the **suffixes** "-o" and "-e".
+The **particles** "ho" and "e" become the **endings** "-o" and "-e".
 
 | mi o moku e ijo pona: mi ho mogu e ijo bona. → mi mogo ije bon. |
 |:-|
 | *I should eat something good.* |
 
-The **subject** "mi" and "sina" alone become the **suffixes** "-im" and "-is".
+The **subject** "mi" and "sina" alone become the **endings** "-im" and "-is".
 
 | mi olin e sina: mi vol e sin. → volim sine. | sina sin: sin ŝin. → ŝinis. |
 |:-|:-|
