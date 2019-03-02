@@ -194,7 +194,7 @@ Monosyllabic **Tok Bona** stems lose their **vocalic** ending, except for **inte
 |:-|:-|:-|
 | *I* | *you* | *she* |
 
-## [Etyomlogical](https://plume.mastodon.host/~/TokiPonaAConlangAndItsSpeakers/toki-pona-root-word-etymology-page/) Dictionary
+## [Etymological](https://plume.mastodon.host/~/TokiPonaAConlangAndItsSpeakers/toki-pona-root-word-etymology-page/) Dictionary
 
 | sitelen | nimi | mama |
 |:-|:-|:-|
