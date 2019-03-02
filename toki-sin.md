@@ -184,7 +184,7 @@ Monosyllabic **Tok Bona** stems lose their **vocalic** ending, except for **inte
 
 **Correlatives** end in "-iu".
 
-| seme: ŝenme → semiu | ni: ni → niu | ale: ale → aliu | ala: ara → ariu |
+| seme: ŝenme → ŝenmiu | ni: ni → niu | ale: ale → aliu | ala: ara → ariu |
 |:-|:-|:-|:-|
 | *what* | *that* | *every* | *no* |
 
@@ -292,7 +292,7 @@ Monosyllabic **Tok Bona** stems lose their **vocalic** ending, except for **inte
 | <img src="musi/sitelen/pona/sijelo.png" height="42">   | **sijelo** | tijelo |
 | <img src="musi/sitelen/pona/sike.png" height="42">     | **sike** | sirkel |
 | <img src="musi/sitelen/pona/sin.png" height="42">      | **sin** | ŝin |
-| <img src="musi/sitelen/pona/sina.png" height="42">     | **sina** | sin |
+| <img src="musi/sitelen/pona/sina.png" height="42">     | **sina** | sina |
 | <img src="musi/sitelen/pona/sinpin.png" height="42">   | **sinpin** | cinpin |
 | <img src="musi/sitelen/pona/sitelen.png" height="42">  | **sitelen** | ŝilderen |
 | <img src="musi/sitelen/pona/sona.png" height="42">     | **sona** | ĉodna |
