@@ -150,126 +150,126 @@ The vowels "u" and "i" merge with "o" and "e".
 
 ## …
 
-| sitelen | [etymology](https://plume.mastodon.host/~/TokiPonaAConlangAndItsSpeakers/toki-pona-root-word-etymology-page/) | Toki Pona Mama | Toki Pona Lili |
-|:-|:-|:-|:-|
-| <img src="musi/sitelen/pona/a.png" height="42">        | - | ha | a |
-| <img src="musi/sitelen/pona/akesi.png" height="42">    | *NL* hagedis | hagedis | aĥiĉi |
-| <img src="musi/sitelen/pona/ala.png" height="42">      | *KA* არა /ara/ | ara | ala |
-| <img src="musi/sitelen/pona/alasa.png" height="42">    | *FR* à la chasse | alaŝa | alasa |
-| <img src="musi/sitelen/pona/ale.png" height="42">      | *NL* alle | ale | ali |
-| <img src="musi/sitelen/pona/anpa.png" height="42">     | *FR* en bas | anba | ampa |
-| <img src="musi/sitelen/pona/ante.png" height="42">     | *NL* ander | ander | anĉi |
-| <img src="musi/sitelen/pona/anu.png" height="42">      | *KA* ან /an/ | an | anu |
-| <img src="musi/sitelen/pona/awen.png" height="42">     | *NL* houden → houen | hawen | awin |
-| <img src="musi/sitelen/pona/e.png" height="42">        | - | -e | e |
-| <img src="musi/sitelen/pona/en.png" height="42">       | *NL* en | en | en |
-| <img src="musi/sitelen/pona/esun.png" height="42">     | *Akan* edwamu [edʒum] | eĝum | esun |
-| <img src="musi/sitelen/pona/ijo.png" height="42">      | *EO* ijo | ijo | eju |
-| <img src="musi/sitelen/pona/ike.png" height="42">      | *FI* ilkeä | ilkea | eĥi |
-| <img src="musi/sitelen/pona/ilo.png" height="42">      | *EO* ilo | ilo | elu |
-| <img src="musi/sitelen/pona/insa.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/jaki.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/jan.png" height="42">      | *Cantonese* 人 /jɐn/ | jan | jan |
-| <img src="musi/sitelen/pona/jelo.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/jo.png" height="42">       | … | … | … |
-| <img src="musi/sitelen/pona/kala.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/kalama.png" height="42">   | … | … | … |
-| <img src="musi/sitelen/pona/kama.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/kasi.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/ken.png" height="42">      | … | … | … |
-| <img src="musi/sitelen/pona/kepeken.png" height="42">  | … | … | … |
-| <img src="musi/sitelen/pona/kili.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/kiwen.png" height="42">    | … | … | … |
-| <img src="musi/sitelen/pona/ko.png" height="42">       | … | … | … |
-| <img src="musi/sitelen/pona/kon.png" height="42">      | … | … | … |
-| <img src="musi/sitelen/pona/kule.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/kulupu.png" height="42">   | … | … | … |
-| <img src="musi/sitelen/pona/kute.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/la.png" height="42">       | … | … | … |
-| <img src="musi/sitelen/pona/lape.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/laso.png" height="42">     | *CY* glas | glas (!) | lasu |
-| <img src="musi/sitelen/pona/lawa.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/len.png" height="42">      | … | … | … |
-| <img src="musi/sitelen/pona/lete.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/li.png" height="42">       | … | … | … |
-| <img src="musi/sitelen/pona/lili.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/linja.png" height="42">    | … | … | … |
-| <img src="musi/sitelen/pona/lipu.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/loje.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/lon.png" height="42">      | *TP* long ← *EN* along | loŋ | lon |
-| <img src="musi/sitelen/pona/luka.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/lukin.png" height="42">    | *TP* lukim ← *EN* look him | lukim | loĥin |
-| <img src="musi/sitelen/pona/lupa.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/ma.png" height="42">       | *FI* maa | maa | ma |
-| <img src="musi/sitelen/pona/mama.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/mani.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/meli.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/mi.png" height="42">       | … | … | … |
-| <img src="musi/sitelen/pona/mije.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/moku.png" height="42">     | *JP* モグ /mogu/ | mogu | moku |
-| <img src="musi/sitelen/pona/moli.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/monsi.png" height="42">    | *Acadian French* mon tchu ← *FR* mon cul | monĉi | monĉi |
-| <img src="musi/sitelen/pona/mu.png" height="42">       | … | … | … |
-| <img src="musi/sitelen/pona/mun.png" height="42">      | … | … | … |
-| <img src="musi/sitelen/pona/musi.png" height="42">     | *EO* amuzi | amuzi | mosi |
-| <img src="musi/sitelen/pona/mute.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/nanpa.png" height="42">    | … | … | … |
-| <img src="musi/sitelen/pona/nasa.png" height="42">     | *TP* nasau | nasau | nasa |
-| <img src="musi/sitelen/pona/nasin.png" height="42">    | *CR* način | naĉin | naĉin |
-| <img src="musi/sitelen/pona/nena.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/ni.png" height="42">       | *Cantonese* 哩 /ni/ | ni | ne |
-| <img src="musi/sitelen/pona/nimi.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/noka.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/o.png" height="42">        | … | … | … |
-| <img src="musi/sitelen/pona/olin.png" height="42">     | *CR* volim | volim | olin |
-| <img src="musi/sitelen/pona/ona.png" height="42">      | … | … | … |
-| <img src="musi/sitelen/pona/open.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/pakala.png" height="42">   | … | … | … |
-| <img src="musi/sitelen/pona/pali.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/palisa.png" height="42">   | *CR* pàlica | paliĉa | balisa |
-| <img src="musi/sitelen/pona/pan.png" height="42">      | *ZH* 饭 fàn | fan | ban |
-| <img src="musi/sitelen/pona/pana.png" height="42">     | *Swahili* pana | pana | bana |
-| <img src="musi/sitelen/pona/pi.png" height="42">       | *TP* bilong ← *EN* belong | biloŋ | fe |
-| <img src="musi/sitelen/pona/pilin.png" height="42">    | *TP* pilim ← *EN* feel him | pilim | velin |
-| <img src="musi/sitelen/pona/pimeja.png" height="42">   | … | … | … |
-| <img src="musi/sitelen/pona/pini.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/pipi.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/poka.png" height="42">     | *HR* bòka | boka (!) | boka |
-| <img src="musi/sitelen/pona/poki.png" height="42">     | *TP* bokis ← *EN* box | bokis (!) | boĥi |
-| <img src="musi/sitelen/pona/pona.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/pu.png" height="42">       | … | … | … |
-| <img src="musi/sitelen/pona/sama.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/seli.png" height="42">     | *KA* ცხელი /tsxeli/ | ĉeli | ĵeli |
-| <img src="musi/sitelen/pona/selo.png" height="42">     | *EO* ŝelo | ŝelo | ĵelu |
-| <img src="musi/sitelen/pona/seme.png" height="42">     | *ZH* 什么 /shénme/ | ŝenme | ĵemi |
-| <img src="musi/sitelen/pona/sewi.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/sijelo.png" height="42">   | … | … | … |
-| <img src="musi/sitelen/pona/sike.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/sin.png" height="42">      | *ZH* 新 /xīn/ | ŝin | ĵen |
-| <img src="musi/sitelen/pona/sina.png" height="42">     | *FI* sinä | sin | zen |
-| <img src="musi/sitelen/pona/sinpin.png" height="42">   | … | … | … |
-| <img src="musi/sitelen/pona/sitelen.png" height="42">  | … | … | … |
-| <img src="musi/sitelen/pona/sona.png" height="42">     | *KA* ცოდნა /tsodna/ | ĉodna | zona |
-| <img src="musi/sitelen/pona/soweli.png" height="42">   | *KA* ცხოკელი /tsxoveli/ | ĉoveli | zowili |
-| <img src="musi/sitelen/pona/suli.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/suno.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/supa.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/suwi.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/tan.png" height="42">      | *KA* დან dan | dan | dan |
-| <img src="musi/sitelen/pona/taso.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/tawa.png" height="42">     | *EN* towards | tawards | dawa |
-| <img src="musi/sitelen/pona/telo.png" height="42">     | *FR* de l'eau | delo | delu |
-| <img src="musi/sitelen/pona/tenpo.png" height="42">    | *EO* tempo | tempo | tenpu |
-| <img src="musi/sitelen/pona/toki.png" height="42">     | *TP* tok ← *EN* talk | tok ← ijo ŝin | doĥi |
-| <img src="musi/sitelen/pona/tomo.png" height="42">     | *EO* domo | domo | domu |
-| <img src="musi/sitelen/pona/tu.png" height="42">       | … | … | … |
-| <img src="musi/sitelen/pona/unpa.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/uta.png" height="42">      | … | … | … |
-| <img src="musi/sitelen/pona/utala.png" height="42">    | … | … | … |
-| <img src="musi/sitelen/pona/walo.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/wan.png" height="42">      | … | … | … |
-| <img src="musi/sitelen/pona/waso.png" height="42">     | *FR* oiseau | wazo | wasu |
-| <img src="musi/sitelen/pona/wawa.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/weka.png" height="42">     | … | … | … |
-| <img src="musi/sitelen/pona/wile.png" height="42">     | … | … | … |
+| sitelen | nimi | [etymology](https://plume.mastodon.host/~/TokiPonaAConlangAndItsSpeakers/toki-pona-root-word-etymology-page/) | Toki Pona Mama | Toki Pona Lili |
+|:-|:-|:-|:-|:-|
+| <img src="musi/sitelen/pona/a.png" height="42">        | a|  - | ha | a |
+| <img src="musi/sitelen/pona/akesi.png" height="42">    | akesi | *NL* hagedis | hagedis | aĥiĉi |
+| <img src="musi/sitelen/pona/ala.png" height="42">      | ala | *KA* არა /ara/ | ara | ala |
+| <img src="musi/sitelen/pona/alasa.png" height="42">    | alasa | *FR* à la chasse | alaŝa | alasa |
+| <img src="musi/sitelen/pona/ale.png" height="42">      | ale | *NL* alle | ale | ali |
+| <img src="musi/sitelen/pona/anpa.png" height="42">     | anpa | *FR* en bas | anba | ampa |
+| <img src="musi/sitelen/pona/ante.png" height="42">     | ante | *NL* ander | ander | anĉi |
+| <img src="musi/sitelen/pona/anu.png" height="42">      | anu | *KA* ან /an/ | an | anu |
+| <img src="musi/sitelen/pona/awen.png" height="42">     | awen | *NL* houden → houen | hawen | awin |
+| <img src="musi/sitelen/pona/e.png" height="42">        | e | - | -e | e |
+| <img src="musi/sitelen/pona/en.png" height="42">       | en | *NL* en | en | en |
+| <img src="musi/sitelen/pona/esun.png" height="42">     | esun | *Akan* edwamu [edʒum] | eĝum | esun |
+| <img src="musi/sitelen/pona/ijo.png" height="42">      | ijo | *EO* ijo | ijo | eju |
+| <img src="musi/sitelen/pona/ike.png" height="42">      | ike | *FI* ilkeä | ilkea | eĥi |
+| <img src="musi/sitelen/pona/ilo.png" height="42">      | ilo | *EO* ilo | ilo | elu |
+| <img src="musi/sitelen/pona/insa.png" height="42">     | insa | *TP* insait | insait | insa |
+| <img src="musi/sitelen/pona/jaki.png" height="42">     | jaki | *EN* yucky | jaki | jaki |
+| <img src="musi/sitelen/pona/jan.png" height="42">      | jan | *Cantonese* 人 /jɐn/ | jan | jan |
+| <img src="musi/sitelen/pona/jelo.png" height="42">     | jelo | … | … | … |
+| <img src="musi/sitelen/pona/jo.png" height="42">       | jo | … | … | … |
+| <img src="musi/sitelen/pona/kala.png" height="42">     | kala | … | … | … |
+| <img src="musi/sitelen/pona/kalama.png" height="42">   | kalama | … | … | … |
+| <img src="musi/sitelen/pona/kama.png" height="42">     | kama | … | … | … |
+| <img src="musi/sitelen/pona/kasi.png" height="42">     | kasi | … | … | … |
+| <img src="musi/sitelen/pona/ken.png" height="42">      | ken | … | … | … |
+| <img src="musi/sitelen/pona/kepeken.png" height="42">  | kepeken | … | … | … |
+| <img src="musi/sitelen/pona/kili.png" height="42">     | kili | … | … | … |
+| <img src="musi/sitelen/pona/kiwen.png" height="42">    | kiwen | … | … | … |
+| <img src="musi/sitelen/pona/ko.png" height="42">       | ko | … | … | … |
+| <img src="musi/sitelen/pona/kon.png" height="42">      | kon | … | … | … |
+| <img src="musi/sitelen/pona/kule.png" height="42">     | kule | … | … | … |
+| <img src="musi/sitelen/pona/kulupu.png" height="42">   | kulupu | … | … | … |
+| <img src="musi/sitelen/pona/kute.png" height="42">     | kute | … | … | … |
+| <img src="musi/sitelen/pona/la.png" height="42">       | la | … | … | … |
+| <img src="musi/sitelen/pona/lape.png" height="42">     | lape | … | … | … |
+| <img src="musi/sitelen/pona/laso.png" height="42">     | laso | *CY* glas | glas (!) | lasu |
+| <img src="musi/sitelen/pona/lawa.png" height="42">     | lawa | … | … | … |
+| <img src="musi/sitelen/pona/len.png" height="42">      | len | … | … | … |
+| <img src="musi/sitelen/pona/lete.png" height="42">     | lete | … | … | … |
+| <img src="musi/sitelen/pona/li.png" height="42">       | li | … | … | … |
+| <img src="musi/sitelen/pona/lili.png" height="42">     | lili | … | … | … |
+| <img src="musi/sitelen/pona/linja.png" height="42">    | linja | … | … | … |
+| <img src="musi/sitelen/pona/lipu.png" height="42">     | lipu | … | … | … |
+| <img src="musi/sitelen/pona/loje.png" height="42">     | loje | … | … | … |
+| <img src="musi/sitelen/pona/lon.png" height="42">      | lon | *TP* long ← *EN* along | loŋ | lon |
+| <img src="musi/sitelen/pona/luka.png" height="42">     | luka | … | … | … |
+| <img src="musi/sitelen/pona/lukin.png" height="42">    | lukin | *TP* lukim ← *EN* look him | lukim | loĥin |
+| <img src="musi/sitelen/pona/lupa.png" height="42">     | lupa | … | … | … |
+| <img src="musi/sitelen/pona/ma.png" height="42">       | ma | *FI* maa | maa | ma |
+| <img src="musi/sitelen/pona/mama.png" height="42">     | mama | … | … | … |
+| <img src="musi/sitelen/pona/mani.png" height="42">     | mani | … | … | … |
+| <img src="musi/sitelen/pona/meli.png" height="42">     | meli | … | … | … |
+| <img src="musi/sitelen/pona/mi.png" height="42">       | mi | … | … | … |
+| <img src="musi/sitelen/pona/mije.png" height="42">     | mije | … | … | … |
+| <img src="musi/sitelen/pona/moku.png" height="42">     | moku | *JP* モグ /mogu/ | mogu | moku |
+| <img src="musi/sitelen/pona/moli.png" height="42">     | moli | … | … | … |
+| <img src="musi/sitelen/pona/monsi.png" height="42">    | monsi | *Acadian French* mon tchu ← *FR* mon cul | monĉi | monĉi |
+| <img src="musi/sitelen/pona/mu.png" height="42">       | mu | … | … | … |
+| <img src="musi/sitelen/pona/mun.png" height="42">      | mun | … | … | … |
+| <img src="musi/sitelen/pona/musi.png" height="42">     | musi | *EO* amuzi | amuzi | mosi |
+| <img src="musi/sitelen/pona/mute.png" height="42">     | mute | … | … | … |
+| <img src="musi/sitelen/pona/nanpa.png" height="42">    | nanpa … | … | … |
+| <img src="musi/sitelen/pona/nasa.png" height="42">     | nasa | *TP* nasau | nasau | nasa |
+| <img src="musi/sitelen/pona/nasin.png" height="42">    | nasin | *CR* način | naĉin | naĉin |
+| <img src="musi/sitelen/pona/nena.png" height="42">     | nena | … | … | … |
+| <img src="musi/sitelen/pona/ni.png" height="42">       | ni | *Cantonese* 哩 /ni/ | ni | ne |
+| <img src="musi/sitelen/pona/nimi.png" height="42">     | nimi | … | … | … |
+| <img src="musi/sitelen/pona/noka.png" height="42">     | noka | … | … | … |
+| <img src="musi/sitelen/pona/o.png" height="42">        | o | … | … | … |
+| <img src="musi/sitelen/pona/olin.png" height="42">     | olin | *CR* volim | volim | olin |
+| <img src="musi/sitelen/pona/ona.png" height="42">      | ona | … | … | … |
+| <img src="musi/sitelen/pona/open.png" height="42">     | open | … | … | … |
+| <img src="musi/sitelen/pona/pakala.png" height="42">   | pakala | … | … | … |
+| <img src="musi/sitelen/pona/pali.png" height="42">     | pali | … | … | … |
+| <img src="musi/sitelen/pona/palisa.png" height="42">   | palisa | *CR* pàlica | paliĉa | balisa |
+| <img src="musi/sitelen/pona/pan.png" height="42">      | pan | *ZH* 饭 fàn | fan | ban |
+| <img src="musi/sitelen/pona/pana.png" height="42">     | pana | *Swahili* pana | pana | bana |
+| <img src="musi/sitelen/pona/pi.png" height="42">       | pi | *TP* bilong ← *EN* belong | biloŋ | fe |
+| <img src="musi/sitelen/pona/pilin.png" height="42">    | pilin | *TP* pilim ← *EN* feel him | pilim | velin |
+| <img src="musi/sitelen/pona/pimeja.png" height="42">   | pimeja | … | … | … |
+| <img src="musi/sitelen/pona/pini.png" height="42">     | pini | … | … | … |
+| <img src="musi/sitelen/pona/pipi.png" height="42">     | pipi | … | … | … |
+| <img src="musi/sitelen/pona/poka.png" height="42">     | poka | *HR* bòka | boka (!) | boka |
+| <img src="musi/sitelen/pona/poki.png" height="42">     | poki | *TP* bokis ← *EN* box | bokis (!) | boĥi |
+| <img src="musi/sitelen/pona/pona.png" height="42">     | pona | … | … | … |
+| <img src="musi/sitelen/pona/pu.png" height="42">       | pu | … | … | … |
+| <img src="musi/sitelen/pona/sama.png" height="42">     | sama | … | … | … |
+| <img src="musi/sitelen/pona/seli.png" height="42">     | seli | *KA* ცხელი /tsxeli/ | ĉeli | ĵeli |
+| <img src="musi/sitelen/pona/selo.png" height="42">     | selo | *EO* ŝelo | ŝelo | ĵelu |
+| <img src="musi/sitelen/pona/seme.png" height="42">     | seme | *ZH* 什么 /shénme/ | ŝenme | ĵemi |
+| <img src="musi/sitelen/pona/sewi.png" height="42">     | sewi | … | … | … |
+| <img src="musi/sitelen/pona/sijelo.png" height="42">   | sijelo | … | … | … |
+| <img src="musi/sitelen/pona/sike.png" height="42">     | sike | … | … | … |
+| <img src="musi/sitelen/pona/sin.png" height="42">      | sin | *ZH* 新 /xīn/ | ŝin | ĵen |
+| <img src="musi/sitelen/pona/sina.png" height="42">     | sina | *FI* sinä | sin | zen |
+| <img src="musi/sitelen/pona/sinpin.png" height="42">   | sinpin | … | … | … |
+| <img src="musi/sitelen/pona/sitelen.png" height="42">  | sitelen | … | … | … |
+| <img src="musi/sitelen/pona/sona.png" height="42">     | sona | *KA* ცოდნა /tsodna/ | ĉodna | zona |
+| <img src="musi/sitelen/pona/soweli.png" height="42">   | soweli | *KA* ცხოკელი /tsxoveli/ | ĉoveli | zowili |
+| <img src="musi/sitelen/pona/suli.png" height="42">     | suli | *FI* suuri | suuri | soli |
+| <img src="musi/sitelen/pona/suno.png" height="42">     | suno | … | … | … |
+| <img src="musi/sitelen/pona/supa.png" height="42">     | supa | … | … | … |
+| <img src="musi/sitelen/pona/suwi.png" height="42">     | suwi | … | … | … |
+| <img src="musi/sitelen/pona/tan.png" height="42">      | tan | *KA* დან dan | dan | dan |
+| <img src="musi/sitelen/pona/taso.png" height="42">     | taso | … | … | … |
+| <img src="musi/sitelen/pona/tawa.png" height="42">     | tawa | *EN* towards | tawards | dawa |
+| <img src="musi/sitelen/pona/telo.png" height="42">     | telo | *FR* de l'eau | delo | delu |
+| <img src="musi/sitelen/pona/tenpo.png" height="42">    | tenpo | *EO* tempo | tempo | tenpu |
+| <img src="musi/sitelen/pona/toki.png" height="42">     | toki | *TP* tok ← *EN* talk | tok ← ijo ŝin | doĥi |
+| <img src="musi/sitelen/pona/tomo.png" height="42">     | tomo | *EO* domo | domo | domu |
+| <img src="musi/sitelen/pona/tu.png" height="42">       | tu | … | … | … |
+| <img src="musi/sitelen/pona/unpa.png" height="42">     | unpa | … | … | … |
+| <img src="musi/sitelen/pona/uta.png" height="42">      | uta | … | … | … |
+| <img src="musi/sitelen/pona/utala.png" height="42">    | utala | … | … | … |
+| <img src="musi/sitelen/pona/walo.png" height="42">     | walo | … | … | … |
+| <img src="musi/sitelen/pona/wan.png" height="42">      | wan | … | … | … |
+| <img src="musi/sitelen/pona/waso.png" height="42">     | waso | *FR* oiseau | wazo | wasu |
+| <img src="musi/sitelen/pona/wawa.png" height="42">     | wawa | … | … | … |
+| <img src="musi/sitelen/pona/weka.png" height="42">     | weka | … | … | … |
+| <img src="musi/sitelen/pona/wile.png" height="42">     | wile | … | … | … |
 
