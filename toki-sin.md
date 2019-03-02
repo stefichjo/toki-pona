@@ -96,7 +96,7 @@ The consonant starting off an **adjective**/**adverb** is voiced.
 Before "e" or "i", the **consonants** "p", "t", "k" become the **fricatives** "f", "ĉ", "ĥ", whereas "s" becomes "ŝ".
 
 | pilin: filin | tenpo: ĉenpo | ken: ĥen | selo: ŝelo |
-|:-|:-|:-|
+|:-|:-|:-|:-|
 | *heart* | *time* | *box* | *skin* |
 
 When voiced, "f", "ĉ", "ĥ" and "ŝ" become "v", "ĝ", "h" and "ĵ".
