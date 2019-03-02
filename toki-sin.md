@@ -6,7 +6,7 @@
 | [Prequels](#prequels) |
 | [Sequels](#sequels) |
 | [Spin-Offs](#spin-offs) |
-| [Dictionary](#etymological-dictionary) |
+| [Etymology](#etymology) |
 
 [Toki Pona Prequels](#prequels)  and [Toki Pona Sequels](#sequels) are fictional **Toki Pona** dialects of the past and the future respectively, whereas [Toki Pona Spin-Offs](#spin-offs) are fictional co-existing **Toki Pona** dialects of the present.
 
@@ -194,7 +194,7 @@ Monosyllabic **Tok Bona** stems lose their **vocalic** ending, except for **inte
 |:-|:-|:-|
 | *I* | *you* | *she* |
 
-## [Etymological](https://plume.mastodon.host/~/TokiPonaAConlangAndItsSpeakers/toki-pona-root-word-etymology-page/) Dictionary
+## [Etymology](https://plume.mastodon.host/~/TokiPonaAConlangAndItsSpeakers/toki-pona-root-word-etymology-page/)
 
 | sitelen | nimi | mama |
 |:-|:-|:-|
