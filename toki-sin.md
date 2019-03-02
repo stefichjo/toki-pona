@@ -151,7 +151,7 @@ The vowels "u" and "i" merge with "o" and "e".
 ## [Etyomlogical](https://plume.mastodon.host/~/TokiPonaAConlangAndItsSpeakers/toki-pona-root-word-etymology-page/) Dictionary
 
 | sitelen | nimi | Toki Pona Mama | Toki Pona Lili |
-|:-|:-|:-|:-|:-|
+|:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/a.png" height="42">        | **a** | ha | a |
 | <img src="musi/sitelen/pona/akesi.png" height="42">    | **akesi** | hagedis | aĥiĉi |
 | <img src="musi/sitelen/pona/ala.png" height="42">      | **ala** | ara | ala |
