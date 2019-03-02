@@ -4,8 +4,10 @@
 | |
 |:-|
 | [Toki Pona Mama](#toki-pona-mama) |
-| [Toki Pona Sama](#toki-pona-sama) |
 | [Toki Pona Lili](#toki-pona-lili) |
+| [Toki Pona Sama](#toki-pona-sama) |
+
+[Toki Pona Prequels](#toki-pona-mama)  and [Toki Pona Sequels](#toki-pona-lili) are fictional **Toki Pona** dialects of the past and the future respectively, whereas [Toki Pona Spin-Offs](#toki-pona-sama) are fictional co-existing **Toki Pona** dialects of the present.
 
 ## Toki Pona Mama
 *([Toki Pona](#toki-pona-sin) Prequels)*
@@ -13,7 +15,7 @@
 ### Tok Bona
 *([Toki Pona Prequel](#toki-pona-mama) with Preserved Etymological Forms)*
 
-Etymological forms are preserved.
+Words in **Tok Bona** are very close to their etymological origin.
 
 | | | |
 |:-|:-|:-|
@@ -22,12 +24,10 @@ Etymological forms are preserved.
 | <img src="musi/sitelen/pona/sin.png" height="42">      | **sin** | *ZH* 新 /xīn/ → ŝin |
 | <img src="musi/sitelen/pona/sijelo.png" height="42">   | **sijelo** | *HR* tijelo |
 
-
-
 #### Ijo Ŝin Bona
 *([Toki Pona Prequel](#toki-pona-mama) without Compound Hieroglyphs)*
 
-Etymological forms, as indicated by their **sitelen pona** are preserved.
+**Ijo Ŝin Bona** precedes **Tok Bona** and uses some expressions, that are supplanted by **Tok Bona**. For instance "ijo ŝin" (meaning "news") is replaced by "tok".
 
 | | | |
 |:-|:-|:-|
@@ -65,6 +65,48 @@ Animals are expressed by means of "tijelo".
 | <img src="musi/sitelen/pona/pipi.png" height="42">     | **pipi** | tijelo maa |
 | <img src="musi/sitelen/pona/soweli.png" height="42">   | **soweli** | tijelo biloŋ pilim ĉeli |
 | <img src="musi/sitelen/pona/waso.png" height="42">     | **waso** | tijelo koŋ |
+
+## Toki Pona Lili
+*([Toki Pona](#toki-pona-sin) Sequels)*
+
+### Toki Bona
+*([Toki Pona Sequel](#toki-pona-lili) with Voiced Consonants)*
+
+The consonant starting off an **adjective**/**adverb** is voiced.
+
+| jan pona: jan bona | tomo tawa: tomo dawa |
+|:-|:-|
+| *friend* | *car* |
+
+#### Toĥi Bona
+*([Toki Pona Sequel](#toki-pona-lili) with More Fricatives)*
+
+Before "e" or "i", the consonants "p", "t", "k" become fricatives.
+
+| pilin: filin | ken: ĥen |
+|:-|:-|
+| *heart* | *box* |
+
+"s" derived from "t"/"c"/"ĉ" becomes "ĉ".
+
+| sijelo: ĉijelo | nasin: naĉin | monsi: monŝi | soweli: ĉoweli | sona: ĉona |
+|:-|:-|:-|:-|:-|
+| *body* | *way* | *back* | *animal* | *to know* |
+
+When voiced, "f", "ĉ" ("ŝ"), "ĥ" become "v", "ĝ" ("ĵ"), "h".
+
+| tenpo pini: tenpo vini | tomo telo: tomo ĝelo | nasin sewi: naĉin ĵewi | ko kiwen: ko hiwen |
+|:-|:-|:-|:-|
+| *past* | *bathroom* | *religion* | *sand* |
+
+##### Toĥe Bona
+*([Toki Pona Sequel](#toki-pona-lili) with Three/Pseudo-Five Vowels)*
+
+The vowels "u" and "i" merge with "o" and "e".
+
+| tu: to | mi: me | musi: mose |
+|:-|:-|:-|
+| *two* | *I* | *recreational* |
 
 ## Toki Pona Sama
 *([Toki Pona](#toki-pona-sin) Spin-Offs)*
@@ -134,48 +176,6 @@ Monosyllabic **Tok Bona** stems lose their **vocalic** ending, except for **inte
 | mi: mi | sina: sina → sini | ona: ona → oni |
 |:-|:-|:-|
 | *I* | *you* | *she* |
-
-## Toki Pona Lili
-*([Toki Pona](#toki-pona-sin) Sequels)*
-
-### Toki Bona
-*([Toki Pona Sequel](#toki-pona-lili) with Voiced Consonants)*
-
-The consonant starting off an **adjective**/**adverb** is voiced.
-
-| jan pona: jan bona | tomo tawa: tomo dawa |
-|:-|:-|
-| *friend* | *car* |
-
-#### Toĥi Bona
-*([Toki Pona Sequel](#toki-pona-lili) with More Fricatives)*
-
-Before "e" or "i", the consonants "p", "t", "k" become fricatives.
-
-| pilin: filin | ken: ĥen |
-|:-|:-|
-| *heart* | *box* |
-
-"s" derived from "t"/"c"/"ĉ" becomes "ĉ".
-
-| sijelo: ĉijelo | nasin: naĉin | monsi: monŝi | soweli: ĉoweli | sona: ĉona |
-|:-|:-|:-|:-|:-|
-| *body* | *way* | *back* | *animal* | *to know* |
-
-When voiced, "f", "ĉ" ("ŝ"), "ĥ" become "v", "ĝ" ("ĵ"), "h".
-
-| tenpo pini: tenpo vini | tomo telo: tomo ĝelo | nasin sewi: naĉin ĵewi | ko kiwen: ko hiwen |
-|:-|:-|:-|:-|
-| *past* | *bathroom* | *religion* | *sand* |
-
-##### Toĥe Bona
-*([Toki Pona Sequel](#toki-pona-lili) with Three/Pseudo-Five Vowels)*
-
-The vowels "u" and "i" merge with "o" and "e".
-
-| tu: to | mi: me | musi: mose |
-|:-|:-|:-|
-| *two* | *I* | *recreational* |
 
 ## [Etyomlogical](https://plume.mastodon.host/~/TokiPonaAConlangAndItsSpeakers/toki-pona-root-word-etymology-page/) Dictionary
 
