@@ -15,9 +15,14 @@
 
 Etymological forms are preserved.
 
-| kule: *FR* couleur → kuler | luka: *HR* rúka → ruka | *ZH* 新 /xīn/ → ŝin | *HR* tijelo |
-|:-|:-|:-|:-|
-| **color** | **hand** | **new** | **body** |
+| | | |
+|:-|:-|:-|
+| <img src="musi/sitelen/pona/kule.png" height="42">     | **kule** | *FR* couleur → kuler |
+| <img src="musi/sitelen/pona/luka.png" height="42">     | **luka** | *HR* rúka → ruka |
+| <img src="musi/sitelen/pona/sin.png" height="42">      | **sin** | *ZH* 新 /xīn/ → ŝin |
+| <img src="musi/sitelen/pona/sijelo.png" height="42">   | **sijelo** | *HR* tijelo |
+
+
 
 #### Ijo Ŝin Bona
 *([Toki Pona Prequel](#toki-pona-mama) without Compound Hieroglyphs)*
