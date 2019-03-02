@@ -177,7 +177,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/kama.png" height="42">     | **kama** | kam-ap |
 | <img src="musi/sitelen/pona/kasi.png" height="42">     | **kasi** | kasvi |
 | <img src="musi/sitelen/pona/ken.png" height="42">      | **ken** | ken |
-| <img src="musi/sitelen/pona/kepeken.png" height="42">  | **kepeken** | ĥebreiken ← ilo e ruka |
+| <img src="musi/sitelen/pona/kepeken.png" height="42">  | **kepeken** | ĥebreiken ← loŋ ruka e ilo |
 | <img src="musi/sitelen/pona/kili.png" height="42">     | **kili** | ĥili |
 | <img src="musi/sitelen/pona/kiwen.png" height="42">    | **kiwen** | kiven |
 | <img src="musi/sitelen/pona/ko.png" height="42">       | **ko** | gou |
@@ -206,7 +206,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/meli.png" height="42">     | **meli** | meri |
 | <img src="musi/sitelen/pona/mi.png" height="42">       | **mi** | mi |
 | <img src="musi/sitelen/pona/mije.png" height="42">     | **mije** | mies |
-| <img src="musi/sitelen/pona/moku.png" height="42">     | **moku** | mogu ← ruka usta |
+| <img src="musi/sitelen/pona/moku.png" height="42">     | **moku** | mogu ← loŋ ruka e usta |
 | <img src="musi/sitelen/pona/moli.png" height="42">     | **moli** | muri |
 | <img src="musi/sitelen/pona/monsi.png" height="42">    | **monsi** | monĉi |
 | <img src="musi/sitelen/pona/mu.png" height="42">       | **mu** | mu |
@@ -228,7 +228,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/pali.png" height="42">     | **pali** | fari |
 | <img src="musi/sitelen/pona/palisa.png" height="42">   | **palisa** | palica |
 | <img src="musi/sitelen/pona/pan.png" height="42">      | **pan** | fan |
-| <img src="musi/sitelen/pona/pana.png" height="42">     | **pana** | pana |
+| <img src="musi/sitelen/pona/pana.png" height="42">     | **pana** | pana ← loŋ ruka ŝin |
 | <img src="musi/sitelen/pona/pi.png" height="42">       | **pi** | biloŋ |
 | <img src="musi/sitelen/pona/pilin.png" height="42">    | **pilin** | pil-im |
 | <img src="musi/sitelen/pona/pimeja.png" height="42">   | **pimeja** | pimea ← kuler ara |
@@ -237,7 +237,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/poka.png" height="42">     | **poka** | boka |
 | <img src="musi/sitelen/pona/poki.png" height="42">     | **poki** | bokis |
 | <img src="musi/sitelen/pona/pona.png" height="42">     | **pona** | bona |
-| <img src="musi/sitelen/pona/pu.png" height="42">       | **pu** | buk ← lipu biloŋ tok bona |
+| <img src="musi/sitelen/pona/pu.png" height="42">       | **pu** | buk ← loŋ lipu biloŋ tok bona |
 | <img src="musi/sitelen/pona/sama.png" height="42">     | **sama** | sama |
 | <img src="musi/sitelen/pona/seli.png" height="42">     | **seli** | ĉeli |
 | <img src="musi/sitelen/pona/selo.png" height="42">     | **selo** | ŝelo |
@@ -249,7 +249,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/sina.png" height="42">     | **sina** | sin |
 | <img src="musi/sitelen/pona/sinpin.png" height="42">   | **sinpin** | cinpin |
 | <img src="musi/sitelen/pona/sitelen.png" height="42">  | **sitelen** | ŝilderen |
-| <img src="musi/sitelen/pona/sona.png" height="42">     | **sona** | ĉodna ← lipu ŝin |
+| <img src="musi/sitelen/pona/sona.png" height="42">     | **sona** | ĉodna ← loŋ lipu ŝin |
 | <img src="musi/sitelen/pona/soweli.png" height="42">   | **soweli** | ĉoveli |
 | <img src="musi/sitelen/pona/suli.png" height="42">     | **suli** | suuri |
 | <img src="musi/sitelen/pona/suno.png" height="42">     | **suno** | suno |
