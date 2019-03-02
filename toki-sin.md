@@ -6,11 +6,17 @@
 | [Prequels](#prequels) |
 | [Sequels](#sequels) |
 | [Spin-Offs](#spin-offs) |
+| [Dictionary](#etymological-dictionary) |
 
 [Toki Pona Prequels](#prequels)  and [Toki Pona Sequels](#sequels) are fictional **Toki Pona** dialects of the past and the future respectively, whereas [Toki Pona Spin-Offs](#spin-offs) are fictional co-existing **Toki Pona** dialects of the present.
 
 ## Prequels
 *([toki pona](#toki-pona-sin) mama)*
+
+| |
+|:-|
+| [Tok Bona](#tok-bona) |
+| [Ijo Ŝin Bona](#ijo-ŝin-bona) |
 
 ### Tok Bona
 *([Toki Pona Prequel](#prequels) with Preserved Etymological Forms)*
@@ -69,6 +75,12 @@ Animals are expressed by means of "tijelo".
 ## Sequels
 *([toki pona](#toki-pona-sin) lili)*
 
+| |
+|:-|
+| [Toki Bona](#toki-bona) |
+| [Toĥi Bona](#toĥi-bona) |
+| [Toĥe Bona](#toĥe-bona) |
+
 ### Toki Bona
 *([Toki Pona Sequel](#sequels) with Voiced Consonants)*
 
@@ -110,6 +122,11 @@ The vowels "u" and "i" merge with "o" and "e".
 
 ## Spin-Offs
 *([toki pona](#toki-pona-sin) sama)*
+
+| |
+|:-|
+| [Tok Bon](#tok-bon) |
+| [Toko Bona](#toko-bona) |
 
 ### Tok Bon
 *([Toki Pona Spin-Off](#spin-offs) with Declension)*
