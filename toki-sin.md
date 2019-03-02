@@ -319,8 +319,3 @@ Monosyllabic **Tok Bona** stems lose their **vocalic** ending, except for **inte
 | <img src="musi/sitelen/pona/weka.png" height="42">     | **weka** | weĥ |
 | <img src="musi/sitelen/pona/wile.png" height="42">     | **wile** | wile |
 
-
-![alt text][wile]
-
-[wile]: musi/sitelen/pona/wile.png "wile"
-
