@@ -3,17 +3,17 @@
 
 | |
 |:-|
-| [Prequels](#toki-pona-mama) |
-| [Sequels](#toki-pona-lili) |
-| [Spin-Offs](#toki-pona-sama) |
+| [Prequels](#prequels) |
+| [Sequels](#sequels) |
+| [Spin-Offs](#spin-offs) |
 
-[Toki Pona Prequels](#toki-pona-mama)  and [Toki Pona Sequels](#toki-pona-lili) are fictional **Toki Pona** dialects of the past and the future respectively, whereas [Toki Pona Spin-Offs](#toki-pona-sama) are fictional co-existing **Toki Pona** dialects of the present.
+[Toki Pona Prequels](#prequels)  and [Toki Pona Sequels](#sequels) are fictional **Toki Pona** dialects of the past and the future respectively, whereas [Toki Pona Spin-Offs](#spin-offs) are fictional co-existing **Toki Pona** dialects of the present.
 
-## Toki Pona Mama
-*([Toki Pona](#toki-pona-sin) Prequels)*
+## Prequels
+*([toki pona](#toki-pona-sin) mama)*
 
 ### Tok Bona
-*([Toki Pona Prequel](#toki-pona-mama) with Preserved Etymological Forms)*
+*([Toki Pona Prequel](#prequels) with Preserved Etymological Forms)*
 
 Words in **Tok Bona** are very close to their etymological origin.
 
@@ -25,7 +25,7 @@ Words in **Tok Bona** are very close to their etymological origin.
 | <img src="musi/sitelen/pona/sijelo.png" height="42">   | **sijelo** | *HR* tijelo |
 
 #### Ijo Ŝin Bona
-*([Toki Pona Prequel](#toki-pona-mama) without Compound Hieroglyphs)*
+*([Toki Pona Prequel](#prequels) without Compound Hieroglyphs)*
 
 **Ijo Ŝin Bona** precedes **Tok Bona** and uses some expressions, that are supplanted by **Tok Bona**. For instance "ijo ŝin" (meaning "news") is replaced by "tok".
 
@@ -66,11 +66,11 @@ Animals are expressed by means of "tijelo".
 | <img src="musi/sitelen/pona/soweli.png" height="42">   | **soweli** | tijelo biloŋ pilim ĉeli |
 | <img src="musi/sitelen/pona/waso.png" height="42">     | **waso** | tijelo koŋ |
 
-## Toki Pona Lili
-*([Toki Pona](#toki-pona-sin) Sequels)*
+## Sequels
+*([toki pona](#toki-pona-sin) lili)*
 
 ### Toki Bona
-*([Toki Pona Sequel](#toki-pona-lili) with Voiced Consonants)*
+*([Toki Pona Sequel](#sequels) with Voiced Consonants)*
 
 The consonant starting off an **adjective**/**adverb** is voiced.
 
@@ -79,7 +79,7 @@ The consonant starting off an **adjective**/**adverb** is voiced.
 | *friend* | *car* |
 
 #### Toĥi Bona
-*([Toki Pona Sequel](#toki-pona-lili) with More Fricatives)*
+*([Toki Pona Sequel](#sequels) with More Fricatives)*
 
 Before "e" or "i", the consonants "p", "t", "k" become fricatives.
 
@@ -100,7 +100,7 @@ When voiced, "f", "ĉ" ("ŝ"), "ĥ" become "v", "ĝ" ("ĵ"), "h".
 | *past* | *bathroom* | *religion* | *sand* |
 
 ##### Toĥe Bona
-*([Toki Pona Sequel](#toki-pona-lili) with Three/Pseudo-Five Vowels)*
+*([Toki Pona Sequel](#sequels) with Three/Pseudo-Five Vowels)*
 
 The vowels "u" and "i" merge with "o" and "e".
 
@@ -108,11 +108,11 @@ The vowels "u" and "i" merge with "o" and "e".
 |:-|:-|:-|
 | *two* | *I* | *recreational* |
 
-## Toki Pona Sama
-*([Toki Pona](#toki-pona-sin) Spin-Offs)*
+## Spin-Offs
+*([toki pona](#toki-pona-sin) sama)*
 
 ### Tok Bon
-*([Toki Pona Spin-Off](#toki-pona-sama) with Declension)*
+*([Toki Pona Spin-Off](#spin-offs) with Declension)*
 
 Final **vowels** (+ **consonant**) are dropped, except if the word is monosyllabic.
 
@@ -145,7 +145,7 @@ The **subject** "mi" and "sina" alone become the **suffixes** "-im" and "-is".
 | *I love you.* | *You are new.* |
 
 #### Toko Bona
-*([Toki Pona Spin-Off](#toki-pona-sama) à la Esperanto)*
+*([Toki Pona Spin-Off](#spin-offs) à la Esperanto)*
 
 **Toko Bona** has the grammar and the phonetics of **Esperanto**. It keeps all words of **Tok Bona** except for "la" (which becomes the definite article) and adds "est-" from **Esperanto**.
 
