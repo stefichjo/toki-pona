@@ -169,7 +169,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/ilo.png" height="42">      | **ilo** | *EO* ilo | ilo | elu |
 | <img src="musi/sitelen/pona/insa.png" height="42">     | **insa** | *TP* insait | insait | insa |
 | <img src="musi/sitelen/pona/jaki.png" height="42">     | **jaki** | *EN* yucky | jaki | jaki |
-| <img src="musi/sitelen/pona/jan.png" height="42">      | **jan** | *Cantonese* 人 /jɐn/ | jan | jan |
+| <img src="musi/sitelen/pona/jan.png" height="42">      | **jan** | *CZH* 人 /jɐn/ | jan | jan |
 | <img src="musi/sitelen/pona/jelo.png" height="42">     | **jelo** | *EN* yellow | jelo | jelu |
 | <img src="musi/sitelen/pona/jo.png" height="42">       | **jo** | … | … | … |
 | <img src="musi/sitelen/pona/kala.png" height="42">     | **kala** | … | … | … |
@@ -208,7 +208,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/mije.png" height="42">     | **mije** | … | … | … |
 | <img src="musi/sitelen/pona/moku.png" height="42">     | **moku** | *JP* モグ /mogu/ | mogu | moku |
 | <img src="musi/sitelen/pona/moli.png" height="42">     | **moli** | … | … | … |
-| <img src="musi/sitelen/pona/monsi.png" height="42">    | **monsi** | *Acadian French* mon tchu ← *FR* mon cul | monĉi | monĉi |
+| <img src="musi/sitelen/pona/monsi.png" height="42">    | **monsi** | *AF* mon tchu ← *FR* mon cul | monĉi | monĉi |
 | <img src="musi/sitelen/pona/mu.png" height="42">       | **mu** | … | … | … |
 | <img src="musi/sitelen/pona/mun.png" height="42">      | **mun** | … | … | … |
 | <img src="musi/sitelen/pona/musi.png" height="42">     | **musi** | *EO* amuzi | amuzi | mosi |
@@ -217,7 +217,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/nasa.png" height="42">     | **nasa** | *TP* nasau | nasau | nasa |
 | <img src="musi/sitelen/pona/nasin.png" height="42">    | **nasin** | *CR* način | naĉin | naĉin |
 | <img src="musi/sitelen/pona/nena.png" height="42">     | **nena** | … | … | … |
-| <img src="musi/sitelen/pona/ni.png" height="42">       | **ni** | *Cantonese* 哩 /ni/ | ni | ne |
+| <img src="musi/sitelen/pona/ni.png" height="42">       | **ni** | *CZH* 哩 /ni/ | ni | ne |
 | <img src="musi/sitelen/pona/nimi.png" height="42">     | **nimi** | … | … | … |
 | <img src="musi/sitelen/pona/noka.png" height="42">     | **noka** | … | … | … |
 | <img src="musi/sitelen/pona/o.png" height="42">        | **o** | … | … | … |
@@ -273,3 +273,5 @@ The vowels "u" and "i" merge with "o" and "e".
 | <img src="musi/sitelen/pona/weka.png" height="42">     | **weka** | … | … | … |
 | <img src="musi/sitelen/pona/wile.png" height="42">     | **wile** | … | … | … |
 
+* *AFR* — Acadian French
+* *CZH* — Cantonese
