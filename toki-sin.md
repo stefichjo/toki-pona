@@ -3,9 +3,9 @@
 
 | |
 |:-|
-| [Toki Pona Mama](#toki-pona-mama) |
-| [Toki Pona Lili](#toki-pona-lili) |
-| [Toki Pona Sama](#toki-pona-sama) |
+| [Prequels](#toki-pona-mama) |
+| [Sequels](#toki-pona-lili) |
+| [Spin-Offs](#toki-pona-sama) |
 
 [Toki Pona Prequels](#toki-pona-mama)  and [Toki Pona Sequels](#toki-pona-lili) are fictional **Toki Pona** dialects of the past and the future respectively, whereas [Toki Pona Spin-Offs](#toki-pona-sama) are fictional co-existing **Toki Pona** dialects of the present.
 
