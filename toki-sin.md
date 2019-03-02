@@ -53,17 +53,17 @@ Etymological forms, as indicated by their **sitelen pona** are preserved.
 | | | |
 |:-|:-|:-|
 | <img src="musi/sitelen/pona/kulupu.png" height="42">   | **kulupu** | multe jan |
-| <img src="musi/sitelen/pona/olin.png" height="42">     | **olin** | pil-im e pil-im |
+| <img src="musi/sitelen/pona/olin.png" height="42">     | **olin** | pilim e pilim |
 | <img src="musi/sitelen/pona/pu.png" height="42">       | **pu** | loŋ lipu biloŋ ijo ŝin bona |
 
 Animals are expressed by means of "tijelo".
 
 | | | |
 |:-|:-|:-|
-| <img src="musi/sitelen/pona/akesi.png" height="42">    | **akesi** | tijelo biloŋ pil-im fret |
-| <img src="musi/sitelen/pona/kala.png" height="42">     | **kala** | tijelo de-l-o |
+| <img src="musi/sitelen/pona/akesi.png" height="42">    | **akesi** | tijelo biloŋ pilim fret |
+| <img src="musi/sitelen/pona/kala.png" height="42">     | **kala** | tijelo delo |
 | <img src="musi/sitelen/pona/pipi.png" height="42">     | **pipi** | tijelo maa |
-| <img src="musi/sitelen/pona/soweli.png" height="42">   | **soweli** | tijelo biloŋ pil-im ĉeli |
+| <img src="musi/sitelen/pona/soweli.png" height="42">   | **soweli** | tijelo biloŋ pilim ĉeli |
 | <img src="musi/sitelen/pona/waso.png" height="42">     | **waso** | tijelo koŋ |
 
 ## Toki Pona Sama
@@ -74,7 +74,7 @@ Animals are expressed by means of "tijelo".
 
 Final **vowels** (+ **consonant**) are dropped, except if the word is monosyllabic.
 
-| ona: ona → on | mi: mi | akesi: hagedis → haged | lukin: luk-im → luk |
+| ona: ona → on | mi: mi | akesi: hagedis → haged | lukin: lukim → luk |
 |:-|:-|:-|:-|
 | *she* | *I* | *reptile* | *eye* |
 
@@ -86,7 +86,7 @@ The **particles** "en" and "an" become the **suffixes** "-en" and "-an".
 
 The **particles** "biloŋ" and "li" become the **suffix** "-i".
 
-| tomo pi telo nasa: domo biloŋ de-l-o nasau → dom deli nas | jan li pali: jan li far. → jan fari. |
+| tomo pi telo nasa: domo biloŋ delo nasau → dom deli nas | jan li pali: jan li far. → jan fari. |
 |:-|:-|
 | *bar* | *People are working.* |
 
