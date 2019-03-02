@@ -46,6 +46,14 @@ Etymological forms are preserved.
 | <img src="musi/sitelen/pona/sona.png" height="42">     | **sona** | loŋ lipu ŝin |
 | <img src="musi/sitelen/pona/toki.png" height="42">     | **toki** | ijo ŝin |
 
+| | | |
+|:-|:-|:-|
+| <img src="musi/sitelen/pona/akesi.png" height="42">    | **akesi** | tijelo biloŋ pil-im fret |
+| <img src="musi/sitelen/pona/kala.png" height="42">     | **kala** | tijelo de-l-o |
+| <img src="musi/sitelen/pona/pipi.png" height="42">     | **pipi** | tijelo maa |
+| <img src="musi/sitelen/pona/soweli.png" height="42">   | **soweli** | tijelo biloŋ pil-im ĉeli |
+| <img src="musi/sitelen/pona/waso.png" height="42">     | **waso** | tijelo koŋ |
+
 ## Toki Pona Sama
 *([Toki Pona](#toki-pona-sin) Spin-Offs)*
 
