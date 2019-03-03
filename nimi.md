@@ -641,13 +641,13 @@ By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", one can start a ꜱᴇɴᴛᴇɴᴄ�
 
 At the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ, the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "lon" is omitted.
 
-| ona li kama lon tenpo pimeja ni. → tenpo pimeja ni la ona li kama. |
+| ona li kama lon tenpo pimeja ni. → ~~lon~~ tenpo pimeja ni la ona li kama. |
 |:-|
 | *She is coming tonight.* → *Tonight, she is coming.* |
 
 If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ, "ni" is omitted.
 
-| jan li pona tawa mi lon ni: mi pona tawa jan. → mi pona tawa jan, la jan li pona tawa mi. |
+| jan li pona tawa mi lon ni: mi pona tawa jan. → ~~lon ni:~~ mi pona tawa jan, la jan li pona tawa mi. |
 |:-|
 | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
