@@ -27,7 +27,7 @@ This **Toki Pona Grammar** is based on [Toki Pona: The Language of Good](http://
 | *She gives water to the plant.* → *She waters the plant.* |
 
 # CONTENT WORD
-*([nimi](#toki-pona-words) suli)*
+*([nimi](#toki-pona-parts-of-speech) suli)*
 
 | |
 |:-|
@@ -369,7 +369,7 @@ When the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄ�
 | ᴠᴇʀʙ to need → ᴘʀᴇ-ᴠᴇʀʙ to need to | *She needs, that she is at home.* → *She needs to be at home.* |
 
 # PARTICLE
-*([nimi](#toki-pona-words) lili)*
+*([nimi](#toki-pona-parts-of-speech) lili)*
 
 | |
 |:-|
