@@ -398,13 +398,13 @@ When the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄ�
 #### INTERJECTION
 *([nimi lili](#particle) kalama)*
 
-ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs are ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs that imitate a sound. ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs can be used as [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-verb)s.
+ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs are ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs that imitate a sound. ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs can be used as [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-verb)s meaning "to produce that sound".
 
 | soweli li kalama "mu". → soweli li mu. | ona li kute e kalama "mu" wawa. → ona li kute e mu wawa. |
 |:-|:-|
 | *The animal bleats.* | *She heard a loud bleat.* |
 
-A name can be treated as an ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ, i.e. as an imitation of the sound of the name itself. Therefore, "nimi" meaning "kalama" can be omitted.
+A name can be thought of as an ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ, i.e. as an imitation of the sound of the name itself. Therefore, "nimi" meaning "kalama" can be omitted.
 
 | nimi ona li nimi Sonja. → nimi ona li Sonja. |
 |:-|
@@ -427,6 +427,12 @@ One can use ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as a whole ꜱᴇɴᴛᴇɴᴄᴇ.
 | sina suli a! → sina suli suli! |
 |:-|
 | *You are really tall!* |
+
+👎 The noun before a name can be omitted.
+
+| ona li jan Sonja. → ona li Sonja. |
+|:-|
+| *She is Sonja.* |
 
 ## TRANSITIVE PARTICLE
 *([nimi lili](#particle) luka)*
