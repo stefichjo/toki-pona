@@ -368,6 +368,12 @@ When the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄ�
 |:-|
 | *I feel good.* |
 
+👎 Any ᴠᴇʀʙ can be used as a ᴘʀᴇ-ᴠᴇʀʙ.
+
+| mi olin e ni: mi kama sona e toki pona. → mi olin kama sona e toki pona. |
+|:-|
+| *I love to learn Toki Pona.* |
+
 # PARTICLE
 *([nimi](#toki-pona-parts-of-speech) lili)*
 
