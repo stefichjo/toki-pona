@@ -244,7 +244,7 @@ When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘ�
 |:-|
 | *I'm talking to you in the kitchen.* |
 
-In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#modifier)s/ᴀᴅᴠᴇʀʙ](#modifier)s (or [genitive phrase](#genitive)s) instead of ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.
+In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#modifier)s/[ᴀᴅᴠᴇʀʙ](#modifier)s (or [genitive phrase](#genitive)s) instead of ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.
 
 | jan lon poka → jan poka | pona tawa lukin → pona lukin |
 |:-|:-|
@@ -267,12 +267,6 @@ In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#modifier)s/ᴀ�
 | sina tawa lukin sama waso. → sina lukin sama waso. |
 |:-|
 | *You look like a bird.* |
-
-👎 Before "pilin", "ike tan" is omitted.
-  
-| sina pilin ike tan utala. → sina pilin utala. |
-|:-|
-| *You are empathizing badly because of struggle.* → *You are angry.* |
 
 👎 [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](#spatial-modifier)s can become a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ implying "lon".
 
@@ -367,6 +361,12 @@ When the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄ�
 | ᴘʀᴇ-ᴠᴇʀʙ wile | ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
 |:-|:-|
 | ᴠᴇʀʙ to need → ᴘʀᴇ-ᴠᴇʀʙ to need to | *She needs, that she is at home.* → *She needs to be at home.* |
+
+👍 "pilin" is a ᴘʀᴇ-ᴠᴇʀʙ.
+  
+| mi pilin e ni: mi pona. → mi pilin pona. |
+|:-|
+| *I feel good.* |
 
 # PARTICLE
 *([nimi](#toki-pona-parts-of-speech) lili)*
