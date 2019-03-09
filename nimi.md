@@ -356,7 +356,7 @@ As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean their tool used.
 ### PRE-VERB
 *([nimi suli wawa](#verb) poka)*
 
-When the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ share the same [subject](#subject-and-predicate), the two ᴄʟᴀᴜꜱᴇs' ᴠᴇʀʙ + [predicate](#subject-and-predicate) can merge, i.e. the ᴠᴇʀʙ is used as a ᴘʀᴇ-ᴠᴇʀʙ.
+When the [ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ](#clause) and the [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#clause) share the same [subject](#subject-and-predicate), the two ᴄʟᴀᴜꜱᴇs' ᴠᴇʀʙ + [predicate](#subject-and-predicate) can merge, i.e. the ᴠᴇʀʙ is used as a ᴘʀᴇ-ᴠᴇʀʙ.
 
 | ᴘʀᴇ-ᴠᴇʀʙ wile | ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
 |:-|:-|
@@ -645,27 +645,45 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 ### PRE-PHRASE PARTICLE
 *([nimi lili luka](#transitive-particle) "la")*
 
-By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", one can start a ꜱᴇɴᴛᴇɴᴄᴇ with a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition).
+By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", one can start a ꜱᴇɴᴛᴇɴᴄᴇ with a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition), i.e. a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ.
 
 | sina pana e nimi "pona" tawa mi tan seme? → tan seme la sina pana e nimi "pona" tawa mi? |
 |:-|
 | *Why are you calling me good?* |
 
-At the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ, the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "lon" is omitted.
+At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "lon" is omitted.
 
 | ona li kama lon tenpo pimeja ni. → ~~lon~~ tenpo pimeja ni la ona li kama. |
 |:-|
 | *She is coming tonight.* → *Tonight, she is coming.* |
 
-If "ni" at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ accompanies a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ, "ni" is omitted.
+At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, "ni" in front of a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#clause) is omitted.
 
 | jan li pona tawa mi lon ni: mi pona tawa jan. → ~~lon ni:~~ mi pona tawa jan, la jan li pona tawa mi. |
 |:-|
 | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
-👎 At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, all ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can are omitted, not only "lon". **Pije** never uses [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s at the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ.
+👍 Other [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s introducing a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#clause) are kept, including "ni".
+
+| jan li pona tawa mi tan ni: mi pona tawa jan. → tan ni: mi pona tawa jan, la jan li pona tawa mi. |
+|:-|
+| *People are good to me, because I'm good to people.* → *Because I'm good to people, people are good to me.* |
+
+👎 The **comma** before "la" can e ommitted. [**Pije**](http://tokipona.net/tp/janpije/okamasona17.php) never uses a **comma** before "la".
+
+| mi pona e ale mi, la mi pona e mi. → mi pona e ale mi la mi pona e mi. |
+|:-|
+| *If I get my life in order, I get myself in order.* |
+
+👎 At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, all ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are omitted, not only "lon". [**Pije**](http://tokipona.net/tp/janpije/okamasona17.php) never uses [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s at the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ.
 
 | tawa mi la sina jan pona. → mi la sina jan pona. |
 |:-|
 | *From my point of view, you are a good person.* |
+
+👎 The **comma** before "la" can be written after "la" instead.
+
+| sina pana e ike, la sina kama jo e ike. → sina pana e ike la, sina kama jo e ike. |
+|:-|
+| *What goes around, comes around.* |
 
