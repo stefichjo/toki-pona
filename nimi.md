@@ -73,7 +73,7 @@ By default, an ᴀᴅᴊᴇᴄᴛɪᴠᴇ means "being ...ing", and it implies "
 |:-|
 | *People are more important.* |
 
-[*Sonja*](mama/lipu-pi-toki-pona.md#lesson-6) uses the term ᴀᴅᴊᴇᴄᴛɪᴠᴇ for ᴀᴅᴠᴇʀʙꜱ, too.
+[**Sonja**](mama/lipu-pi-toki-pona.md#lesson-6) uses the term ᴀᴅᴊᴇᴄᴛɪᴠᴇ for ᴀᴅᴠᴇʀʙꜱ, too.
 
 | mute | pona mute |
 |:-|:-|
@@ -176,7 +176,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ th
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner → ɴᴏᴜɴ inner area |
 
-👍 When an ᴀᴅᴊᴇᴄᴛɪᴠᴇ becomes a [ɴᴏᴜɴ](#noun), it can mean the time and place of its accomplishment. ([*Sonja*](mama/lipu-pi-toki-pona.md#preface) does that implicitly before "la".)
+👍 When an ᴀᴅᴊᴇᴄᴛɪᴠᴇ becomes a [ɴᴏᴜɴ](#noun), it can mean the time and place of its accomplishment. ([**Sonja**](mama/lipu-pi-toki-pona.md#preface) does that implicitly before "la".)
 
 | lape | mi lon lape. | sina tan lape. | ona li tawa lape. |
 |:-|:-|:-|:-|
