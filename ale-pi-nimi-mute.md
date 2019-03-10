@@ -158,7 +158,7 @@ Context in **quotation marks** is mandatory.
 | <img src="musi/sitelen/pona/tu.png" height="42">       | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nimi.md#simple-modifier) | **tu** — wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ divided, ᴠᴇʀʙ to cut, divide |
 |                                                        | [**ɴᴜᴍʙᴇʀ**](nimi.md#number) | ala, ale, esun, luka, mute, **tu**, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ 2, **two** → ɴᴏᴜɴ twofold amount; pair |
 | <img src="musi/sitelen/pona/unpa.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ**](nimi.md#simple-verb) | olin, **unpa** | ᴠᴇʀʙ **to have sexual or marital relations with** |
-| <img src="musi/sitelen/pona/uta.png" height="42">      | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nimi.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, selo, **uta** | ᴠᴇʀʙ ***to kiss***, suck → ɴᴏᴜɴ **jaw**, **lips**, **mouth**, **oral cavity** |
+| <img src="musi/sitelen/pona/uta.png" height="42">      | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nimi.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, selo, **uta** | ᴠᴇʀʙ [**to kiss**](mama/lipu-pi-toki-pona.md#lesson-18), suck, taste → ɴᴏᴜɴ **jaw**, **lips**, **mouth**, **oral cavity** |
 | <img src="musi/sitelen/pona/utala.png" height="42">    | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nimi.md#simple-modifier) | pona — ike, nasa, pakala, **utala** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ aggressive, ᴠᴇʀʙ **to battle**, **challenge**, **compete against**, provoke, **struggle against** |
 | <img src="musi/sitelen/pona/walo.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nimi.md#simple-modifier) | pimeja — **walo** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **white**, **whitish** |
 |                                                        | [**ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ**](nimi.md#simple-modifier) | kule — **walo** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **light-coloured**, **pale** |
