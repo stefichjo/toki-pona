@@ -77,7 +77,7 @@ By default, an ᴀᴅᴊᴇᴄᴛɪᴠᴇ means "being ...ing", and it implies "
 
 | mute | pona mute |
 |:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *very*| *very good* |
+| ᴀᴅᴠᴇʀʙ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *very*| *very good* |
 
 ### SIMPLE ADJECTIVE
 *([nimi suli poka](#adjective) pona)*
