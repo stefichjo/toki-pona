@@ -302,7 +302,7 @@ In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s (or
 | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) |
 | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
 
-ᴠᴇʀʙs have or imply a [direct object phrase](#direct-object), i.e. they are ᴛʀᴀɴꜱɪᴛɪᴠᴇ by default and "e ijo/ni" can be omitted. (*Sonja* calls these omittable objects ["filler objects"](mama/lipu-pi-toki-pona.md#lesson-5).)
+ᴠᴇʀʙs have or imply a [direct object phrase](#direct-object), i.e. they are ᴛʀᴀɴꜱɪᴛɪᴠᴇ by default and "e ijo/ni" can be omitted. (**Sonja** calls these omittable objects ["filler objects"](mama/lipu-pi-toki-pona.md#lesson-5).)
 
 | mije li sona e ijo/ni. → mije li sona. |
 |:-|
@@ -331,6 +331,12 @@ In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s (or
 | nimi li ijo sona tawa jan sin. |
 |:-|
 | *The word is known by the newcomer.* |
+
+🤔 [**Sonja**](mama/lipu-pi-toki-pona.md#lesson-16) refers to **predicates** as ᴠᴇʀʙs.
+
+| li lete |
+|:-|
+| **predicate** → ᴠᴇʀʙ *is cold* |
 
 ### SIMPLE VERB
 *([nimi suli wawa](#verb) pona)*

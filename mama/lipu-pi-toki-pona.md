@@ -25,7 +25,8 @@
 * jan pali - worker
 * jan pona - friend
 
-## Lesson 6: More Adjectives
+## Lesson 6
+*(More Adjectives)*
 
 ## Lesson 7: Questions and Answers
 
@@ -54,3 +55,4 @@
 ## Lesson 19: The Frontier
 
 
+## Official Toki Pona Dictionary
