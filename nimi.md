@@ -32,7 +32,7 @@ This **Toki Pona Grammar** is based on [Toki Pona: The Language of Good](http://
 | |
 |:-|
 | [ɴᴏᴜɴ](#noun) |
-| [ᴍᴏᴅɪꜰɪᴇʀ](#modifier) |
+| [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective) |
 | [ᴠᴇʀʙ](#verb) |
 
 ## NOUN
@@ -50,50 +50,56 @@ This **Toki Pona Grammar** is based on [Toki Pona: The Language of Good](http://
 |:-|
 | ɴᴏᴜɴ you, ᴀᴅᴊᴇᴄᴛɪᴠᴇ your |
 
-## MODIFIER
+## ADJECTIVE
 *([nimi suli](#content-word) poka)*
 
 | |
 |:-|
-| [ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ](#simple-modifier) |
-| [ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ](#thing-modifier) |
-| [ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀ](#person-modifier) |
+| [ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#simple-adjective) |
+| [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#thing-adjective) |
+| [ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#person-adjective) |
 | [ɴᴜᴍʙᴇʀ](#number) |
 | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
 
-By default, a ᴍᴏᴅɪꜰɪᴇʀ means "being ...ing" as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ, and it implies "tenpo" as a [ɴᴏᴜɴ](#noun).
+By default, an ᴀᴅᴊᴇᴄᴛɪᴠᴇ means "being ...ing", and it implies "tenpo" as a [ɴᴏᴜɴ](#noun).
 
 | tenpo lape → lape |
 |:-|
 | *time of sleeping* → *sleep* |
 
-ᴍᴏᴅɪꜰɪᴇʀs can imply "sin", i.e. they can be a ᴄᴏᴍᴘᴀʀᴀᴛɪᴠᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
+ᴀᴅᴊᴇᴄᴛɪᴠᴇs can imply "sin", i.e. they can be a ᴄᴏᴍᴘᴀʀᴀᴛɪᴠᴇ.
 
 | jan li suli pi mute sin. → jan li suli mute. |
 |:-|
 | *People are more important.* |
 
-### SIMPLE MODIFIER
-*([nimi suli poka](#modifier) pona)*
+[*Sonja*](mama/lipu-pi-toki-pona.md#lesson-6) uses the term ᴀᴅᴊᴇᴄᴛɪᴠᴇ for ᴀᴅᴠᴇʀʙꜱ, too.
 
-ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀs don't imply additional meaning when used as [ᴠᴇʀʙ](#verb)s or [ɴᴏᴜɴ](#noun)s.
+| mute | pona mute |
+|:-|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *very*| *very good* |
 
-| ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀ wawa | mi wawa. | wawa li lon insa. | telo li wawa e mi. |
+### SIMPLE ADJECTIVE
+*([nimi suli poka](#adjective) pona)*
+
+ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇs don't imply additional meaning when used as [ᴠᴇʀʙ](#verb)s or [ɴᴏᴜɴ](#noun)s.
+
+| ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ wawa | mi wawa. | wawa li lon insa. | telo li wawa e mi. |
 |:-|:-|:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ strong, ᴠᴇʀʙ to strengthen, ɴᴏᴜɴ strength | *I am strong.* | *Strength lies within.* | *Water strengthens me.* |
 
-### THING MODIFIER
-*([nimi suli poka](#modifier) ijo)*
+### THING ADJECTIVE
+*([nimi suli poka](#adjective) ijo)*
 
 | |
 |:-|
 | [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) |
-| [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](#spatial-modifier) |
-| [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ](#life-form-modifier) |
+| [ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#spatial-adjective) |
+| [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#life-form-adjective) |
 
-As a [ɴᴏᴜɴ](#noun), ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs imply "ijo".
+As a [ɴᴏᴜɴ](#noun), ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo".
 
-| ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀ sike |
+| ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ sike |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ round → ɴᴏᴜɴ something round |
 
@@ -110,13 +116,13 @@ All [ɴᴏᴜɴ](#noun)s can imply food.
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ similar → ɴᴏᴜɴ something similar |
 
 #### CORRELATIVE
-*([nimi suli poka](#modifier) palisa)*
+*([nimi suli poka](#adjective) palisa)*
 
 | |
 |:-|
 | [ᴄʟᴀᴜꜱᴇ](#clause) |
 
-ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs are ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo".
+ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs are ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo".
 
 | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ale |
 |:-|
@@ -161,12 +167,12 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ th
 |:-|
 | *somebody, who is going home* |
 
-#### SPATIAL MODIFIER
-*([nimi suli poka](#modifier) nasin)*
+#### SPATIAL ADJECTIVE
+*([nimi suli poka](#adjective) nasin)*
 
-ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀs are ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo" meaning "area".
+ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇs are ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo" meaning "area".
 
-| ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ insa |
+| ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ insa |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner → ɴᴏᴜɴ inner area |
 
@@ -176,28 +182,28 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ th
 |:-|:-|:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ resting; ɴᴏᴜɴ time and place of resting | *I am resting.* | *You have been resting.* | *She is going to rest.* |
 
-#### LIFE-FORM MODIFIER
-*([nimi suli poka](#modifier) sijelo)*
+#### LIFE-FORM ADJECTIVE
+*([nimi suli poka](#adjective) sijelo)*
 
-ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀs are ᴛʜɪɴɢ ᴍᴏᴅɪꜰɪᴇʀs, that, as [ɴᴏᴜɴ](#noun)s, imply "ijo" meaning "life-form".
+ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs are ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs, that, as [ɴᴏᴜɴ](#noun)s, imply "ijo" meaning "life-form".
 
-👍 As [ɴᴏᴜɴ](#noun)s, ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀs imply "sijelo" meaning "life-form".
+👍 As [ɴᴏᴜɴ](#noun)s, ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "sijelo" meaning "life-form".
 
-| ʟɪꜰᴇ-ꜰᴏʀᴍ ᴍᴏᴅɪꜰɪᴇʀ akesi |
+| ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ akesi |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded → ɴᴏᴜɴ amphibian, reptile |
 
-### PERSON MODIFIER
-*([nimi suli poka](#modifier) jan)*
+### PERSON ADJECTIVE
+*([nimi suli poka](#adjective) jan)*
 
-As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
+As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "jan".
 
-| ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀ meli |
+| ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ meli |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ female → ɴᴏᴜɴ somebody female |
 
 ### NUMBER
-*([nimi suli poka](#modifier) nanpa)*
+*([nimi suli poka](#adjective) nanpa)*
 
 ɴᴜᴍʙᴇʀs can be used as [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle)s after "nanpa".
 
@@ -218,9 +224,9 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 | *seven fingers* |
 
 ### PREPOSITION
-*([nimi suli poka](#modifier) luka)*
+*([nimi suli poka](#adjective) luka)*
 
-ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are ᴍᴏᴅɪꜰɪᴇʀs with an additional ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ.
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are ᴀᴅᴊᴇᴄᴛɪᴠᴇs with an additional ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ.
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
 |:-|
@@ -232,7 +238,7 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴍᴏᴅɪꜰɪᴇʀs imply "jan".
 |:-|
 | *I'm giving you an apple.* |
 
-When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped. A ᴘᴀʀᴛɪᴄʟᴇ can be added to the ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but no ᴀᴅᴠᴇʀʙ.
+When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped. A ᴘᴀʀᴛɪᴄʟᴇ can be added to the ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but no other ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
 
 | mi tawa tawa tomo seli. → mi tawa tomo seli. | mi tawa ala tawa tomo seli. → mi tawa ala tomo seli. | mi tawa wawa tawa tomo seli. |
 |:-|:-|:-|
@@ -244,7 +250,7 @@ When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘ�
 |:-|
 | *I'm talking to you in the kitchen.* |
 
-In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#modifier)s/[ᴀᴅᴠᴇʀʙ](#modifier)s (or [genitive phrase](#genitive)s) instead of ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.
+In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s (or [genitive phrase](#genitive)s) instead of ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.
 
 | jan lon poka → jan poka | pona tawa lukin → pona lukin |
 |:-|:-|
@@ -268,7 +274,7 @@ In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#modifier)s/[ᴀ
 |:-|
 | *You look like a bird.* |
 
-👎 [ꜱᴘᴀᴛɪᴀʟ ᴍᴏᴅɪꜰɪᴇʀ](#spatial-modifier)s can become a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ implying "lon".
+👎 [ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#spatial-adjective)s can become a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ implying "lon".
 
 | mi tawa lon poka sina. → mi tawa poka sina. |
 |:-|
@@ -302,7 +308,7 @@ In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#modifier)s/[ᴀ
 |:-|
 | *The men know things/that.* → *The men know.* |
 
-ᴠᴇʀʙs can imply a ᴘᴇʀꜰᴇᴄᴛɪᴠᴇ ᴀꜱᴘᴇᴄᴛ, i.e. the ᴀᴅᴠᴇʀʙ "ale" can be omitted.
+ᴠᴇʀʙs can imply a ᴘᴇʀꜰᴇᴄᴛɪᴠᴇ ᴀꜱᴘᴇᴄᴛ, i.e. the ᴀᴅᴊᴇᴄᴛɪᴠᴇ "ale" can be omitted.
 
 | ona li pali ale e tomo. → ona li pali e tomo. |
 |:-|
@@ -333,7 +339,7 @@ When their [direct object phrase](#direct-object) is omitted, ꜱɪᴍᴘʟᴇ �
 
 | ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ alasa |
 |:-|
-| ᴠᴇʀʙ *to hunt*, ɴᴏᴜɴ *hunt* |
+| ᴠᴇʀʙ *to hunt*, ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hunting*, ɴᴏᴜɴ *hunt* |
 
 ### THING VERB
 *([nimi suli wawa](#verb) ijo)*
@@ -561,7 +567,7 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 #### Genitive
 *([nimi lili luka](#transitive-particle) "pi")*
 
-If a genitive phrase (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "pi") consists of a single [ɴᴏᴜɴ](#noun), the ᴘᴀʀᴛɪᴄʟᴇ "pi" is omitted. In other words, a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) consisting of a single [ɴᴏᴜɴ](#noun) is an [ᴀᴅᴊᴇᴄᴛɪᴠᴇ/ᴀᴅᴠᴇʀʙ](#modifier).
+If a genitive phrase (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "pi") consists of a single [ɴᴏᴜɴ](#noun), the ᴘᴀʀᴛɪᴄʟᴇ "pi" is omitted. In other words, a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) consisting of a single [ɴᴏᴜɴ](#noun) is an [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective).
 
 | toki pi pona → toki pona |
 |:-|
