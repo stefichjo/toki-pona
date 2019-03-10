@@ -170,7 +170,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ th
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner → ɴᴏᴜɴ inner area |
 
-👍 When an ᴀᴅᴊᴇᴄᴛɪᴠᴇ becomes a [ɴᴏᴜɴ](#noun), it can mean the time and place of its accomplishment.
+👍 When an ᴀᴅᴊᴇᴄᴛɪᴠᴇ becomes a [ɴᴏᴜɴ](#noun), it can mean the time and place of its accomplishment. ([*Sonja*](mama/lipu-pi-toki-pona.md#preface) does that implicitly before "la".)
 
 | lape | mi lon lape. | sina tan lape. | ona li tawa lape. |
 |:-|:-|:-|:-|

@@ -2,6 +2,9 @@
 
 ## Preface
 
+* toki insa - thought
+* ilo lipu - the Web
+
 ## Lesson 1
 *(Letters and Sounds)*
 
