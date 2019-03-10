@@ -296,11 +296,11 @@ In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#modifier)s/[ᴀ
 | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) |
 | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
 
-ᴠᴇʀʙs have or imply a [direct object phrase](#direct-object), i.e. they are ᴛʀᴀɴꜱɪᴛɪᴠᴇ by default and "e ijo/ni" can be omitted.
+ᴠᴇʀʙs have or imply a [direct object phrase](#direct-object), i.e. they are ᴛʀᴀɴꜱɪᴛɪᴠᴇ by default and "e ijo/ni" can be omitted. (*Sonja* calls these omittable objects ["filler objects"](mama/lipu-pi-toki-pona.md#lesson-5).)
 
 | mije li sona e ijo/ni. → mije li sona. |
 |:-|
-| *The men know something/that.* → *The men know.* |
+| *The men know things/that.* → *The men know.* |
 
 ᴠᴇʀʙs can imply a ᴘᴇʀꜰᴇᴄᴛɪᴠᴇ ᴀꜱᴘᴇᴄᴛ, i.e. the ᴀᴅᴠᴇʀʙ "ale" can be omitted.
 

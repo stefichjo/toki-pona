@@ -17,6 +17,11 @@
 ## Lesson 5
 *(Verbs)*
 
+* jan toki - messenger
+* tomo sona - school
+* jan pali - worker
+* jan pona - friend
+
 ## Lesson 6: More Adjectives
 
 ## Lesson 7: Questions and Answers
