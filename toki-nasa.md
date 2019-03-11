@@ -1,6 +1,6 @@
 * [lipu mama](https://thebestschools.org/magazine/15-logical-fallacies-know/)
 
-# toki ike pi toki insa nasa
+# toki nasa
 *(Fallacies)*
 
 toki utala li nasa e toki insa. tan ni la jan li toki utala, la tenpo mute la ona li toki ike tan toki insa nasa.

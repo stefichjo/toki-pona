@@ -5,6 +5,16 @@
 * toki insa - thought
 * ilo lipu - the Web
 
+## What Is Toki Pona?
+
+## Limitations
+
+* waso wawa - eagle
+* waso nasa - chicken
+* tomo tawa - car
+* ilo tawa - car
+- kiwen tawa - car, hard object that moves, 👍 projectile
+
 ## Lesson 1
 *(Letters and Sounds)*
 

@@ -332,12 +332,6 @@ In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s (or
 |:-|
 | *The word is known by the newcomer.* |
 
-🤔 [**Sonja**](mama/lipu-pi-toki-pona.md#lesson-16) refers to **predicates** as ᴠᴇʀʙs.
-
-| li lete |
-|:-|
-| **predicate** → ᴠᴇʀʙ *is cold* |
-
 ### SIMPLE VERB
 *([nimi suli wawa](#verb) pona)*
 
@@ -510,6 +504,12 @@ One can reply to a yes-no-question with just the **predicate** of a ꜱᴇɴᴛ�
 |:-|
 | *somebody, who is going home* |
 
+🤔 [**Sonja**](mama/lipu-pi-toki-pona.md#what-is-toki-pona) refers to **predicates** as ᴠᴇʀʙs.
+
+| li lete |
+|:-|
+| **predicate** → ᴠᴇʀʙ *is cold* |
+
 #### Direct Object
 *([nimi lili luka](#transitive-particle) "e")*
 
@@ -681,6 +681,12 @@ At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, "ni" in front of a [ꜱᴜʙᴏ
 |:-|
 | *People are good to me, because I'm good to people.* → *Because I'm good to people, people are good to me.* |
 
+👍 "taso" is a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ. I can be thought of an abbreviation of "taso ni la", with "taso" being a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition).
+
+| taso ni la mije en meli li pali li pilin pona. → taso mije en meli li pali li pilin pona. |
+|:-|
+| *But men and women are working and are happy.* |
+
 👎 The **comma** before "la" can e ommitted. [**Pije**](http://tokipona.net/tp/janpije/okamasona17.php) never uses a **comma** before "la".
 
 | mi pona e ale mi, la mi pona e mi. → mi pona e ale mi la mi pona e mi. |
@@ -698,4 +704,3 @@ At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, "ni" in front of a [ꜱᴜʙᴏ
 | sina pana e ike, la sina kama jo e ike. → sina pana e ike la, sina kama jo e ike. |
 |:-|
 | *What goes around, comes around.* |
-
