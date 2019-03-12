@@ -37,6 +37,9 @@
 ## Lesson 4
 *(You and I)*
 
+* tomo soweli - doghouse
+* tomo lipu - library
+
 ## Lesson 5
 *(Verbs)*
 
