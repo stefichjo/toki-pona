@@ -21,6 +21,8 @@ Context in **quotation marks** is mandatory.
 |:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ 🤔 (kama -) **dying** | *He died.* |
 
+---
+
 | sitelen | paradigm | word | meaning |
 |:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/a.png" height="42">        | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nimi.md#interjection) | mu — **a**, ala | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, indeed → ꜱᴇɴᴛᴇɴᴄᴇ yes |
@@ -156,7 +158,7 @@ Context in **quotation marks** is mandatory.
 | <img src="musi/sitelen/pona/tenpo.png" height="42">    | [**ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ**](nimi.md#noun) | ijo, ilo, jan, **tenpo** | ɴᴏᴜɴ **duration**, **moment**, **occasion**, **period**, **situation**, **time** |
 | <img src="musi/sitelen/pona/toki.png" height="42">     | [**ᴛʜɪɴɢ ᴠᴇʀʙ**](nimi.md#thing-verb) | nimi, sitelen, sona, **toki** | ᴠᴇʀʙ **to communicate**, **say**, **speak**, **talk**, **use language**; be of the opinion that, mean, **think**, ɴᴏᴜɴ language → ɴᴏᴜɴ message, news |
 | <img src="musi/sitelen/pona/tomo.png" height="42">     | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nimi.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, selo, **tomo**, uta | ᴠᴇʀʙ to protect, shield → ɴᴏᴜɴ skeleton, thorax; [**indoor compartment**](mama/lipu-pi-toki-pona.md#lesson-5), **indoor space**; **building**, [**hall**](mama/lipu-pi-toki-pona.md#lesson-5), **home**, **house**, **room** |
-| <img src="musi/sitelen/pona/tu.png" height="42">       | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | **tu** — wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ divided, ᴠᴇʀʙ to cut, divide |
+| <img src="musi/sitelen/pona/tu.png" height="42">       | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | **tu** — wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ divided, ᴠᴇʀʙ (wan -) to cut, divide |
 |                                                        | [**ɴᴜᴍʙᴇʀ**](nimi.md#number) | ala, ale, esun, luka, mute, **tu**, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ 2, **two** → ɴᴏᴜɴ twofold amount; pair |
 | <img src="musi/sitelen/pona/unpa.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ**](nimi.md#simple-verb) | alasa, pali, **unpa** | ᴠᴇʀʙ **to have sexual or marital relations with** |
 | <img src="musi/sitelen/pona/uta.png" height="42">      | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nimi.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, selo, **uta** | ᴠᴇʀʙ [**to kiss**](mama/lipu-pi-toki-pona.md#lesson-18), suck, taste → ɴᴏᴜɴ **jaw**, **lips**, **mouth**, **oral cavity** |
