@@ -130,7 +130,7 @@ Context in **quotation marks** is mandatory.
 | <img src="musi/sitelen/pona/poki.png" height="42">     | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nimi.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, **poki**, selo, tomo, uta | ᴠᴇʀʙ to be full of, collect, contain → ɴᴏᴜɴ bladder; **bag**, **bowl**, **box**, **container**, **cup**, **cupboard**, **drawer**, **vessel** |
 | <img src="musi/sitelen/pona/pona.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | **pona** – ike, nasa, pakala, utala | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **good**, **positive**, **useful**; **friendly**, **peaceful**; **simple** |
 | <img src="musi/sitelen/pona/pu.png" height="42">       | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nimi.md#preposition) | esun, kepeken, **pu** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ according; [**holding the Toki Pona book**](mama/lipu-pi-toki-pona.md#preface), **interacting with the official Toki Pona book** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ according to |
-|                                                        | [**ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ**](nimi.md#simple-particle) | **Pu** | ᴘᴀʀᴛɪᴄʟᴇ name of the Toki Pona book |
+|                                                        | [**ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ**](nimi.md#simple-particle) | **Pu** | ᴘᴀʀᴛɪᴄʟᴇ name of the official Toki Pona book |
 | <img src="musi/sitelen/pona/sama.png" height="42">     | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nimi.md#preposition) | ante — **sama** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **same**, **similar**; -self, -selves; **each other**; **fellow**, **peer**, **sibling** → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **as**, **like** |
 | <img src="musi/sitelen/pona/seli.png" height="42">     | [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#thing-adjective) | lete — **seli** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ warm; cooked → ɴᴏᴜɴ **chemical reaction**, **fire**, **heat source**; **cooking element** |
 | <img src="musi/sitelen/pona/selo.png" height="42">     | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nimi.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, poki, **selo**, tomo, uta | ᴠᴇʀʙ to form → ɴᴏᴜɴ [**form**](mama/lipu-pi-toki-pona.md#preface), **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary** |
@@ -176,7 +176,7 @@ Context in **quotation marks** is mandatory.
 
 ---
 
-👎 In his copy of the Official [Toki Pona Dictionary](http://tokipona.net/tp/janpije/dictionary.php), **Pije** omits the word "official" before "Toki Pona book".
+👎 In his copy of the official [Toki Pona Dictionary](http://tokipona.net/tp/janpije/dictionary.php), **Pije** omits the word "official" before "Toki Pona book".
 
 | pu |
 |:-|
