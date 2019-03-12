@@ -50,6 +50,10 @@
 ## Lesson 6
 *(More Adjectives)*
 
+* jan sona - scholar
+* toki ike - to mishear
+* jan ala - nobody
+
 ## Lesson 7: Questions and Answers
 
 ## Lesson 8: Prepositions
