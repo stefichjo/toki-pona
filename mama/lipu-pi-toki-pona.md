@@ -24,6 +24,16 @@
 ## Lesson 3
 *(Nouns and Adjectives)*
 
+* tomo suli - palace
+* jan pona - friend
+* meli lili - girl
+* telo suli - sea
+* telo kili - juice
+* tomo telo - bathroom
+* soweli lili - kitten
+* jan lili - baby
+* kili telo - watermelon
+
 ## Lesson 4
 *(You and I)*
 
@@ -33,7 +43,6 @@
 * jan toki - messenger
 * tomo sona - school
 * jan pali - worker
-* jan pona - friend
 
 ## Lesson 6
 *(More Adjectives)*
