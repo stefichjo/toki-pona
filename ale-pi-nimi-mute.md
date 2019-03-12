@@ -5,9 +5,9 @@ The dictionary below is based on [Toki Pona: The Language of Good](http://www.am
 
 Context in **parenthesis** is optional.
 
-| ala | jan pona pi lon ala → jan pona ala |
-|:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ (lon -) **false** | *false friend* |
+| sinpin lawa → sinpin |
+|:-|
+| ɴᴏᴜɴ (- lawa) **face** |
 
 Context in **quotation marks** is mandatory.
 
