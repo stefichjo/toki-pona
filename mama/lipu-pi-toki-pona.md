@@ -54,34 +54,47 @@
 * toki ike - to mishear
 * jan ala - nobody
 
-## Lesson 7: Questions and Answers
+## Lesson 7
+*(Questions and Answers)*
 
 * ilo toki - telephone
 * kala wawa - shark
 * ilo moku - spoon
 
-## Lesson 8: Prepositions
+## Lesson 8
+*(Prepositions)*
 
-## Lesson 9: Proper Names
+## Lesson 9
+*(Proper Names)*
 
-## Lesson 10: Greetings and Feelings
+## Lesson 10
+*(Greetings and Feelings)*
 
-## Lesson 11: pi
+## Lesson 11
+*(pi)*
 
-## Lesson 12: Numbers
+## Lesson 12
+*(Numbers)*
 
-## Lesson 13: Pre-Verbs
+## Lesson 13
+*(Pre-Verbs)*
 
-## Lesson 14: Colours and la
+## Lesson 14
+*(Colours and la)*
 
-## Lesson 15: Spatial Nouns
+## Lesson 15
+*(Spatial Nouns)*
 
-## Lesson 16: Particles and Perspective
+## Lesson 16
+*(Particles and Perspective)*
 
-## Lesson 17: Hunting Adventure
+## Lesson 17
+*(Hunting Adventure)*
 
-## Lesson 18: Cooking Adventure
+## Lesson 18
+*(Cooking Adventure)*
 
-## Lesson 19: The Frontier
+## Lesson 19
+*(The Frontier)*
 
 ## Official Toki Pona Dictionary
