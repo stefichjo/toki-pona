@@ -76,5 +76,4 @@
 
 ## Lesson 19: The Frontier
 
-
 ## Official Toki Pona Dictionary

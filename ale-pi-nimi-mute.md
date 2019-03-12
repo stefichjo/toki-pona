@@ -1,7 +1,7 @@
 # Toki Pona Dictionary
 *(ale pi nimi mute pi toki pona)*
 
-The dictionary below is based on [Toki Pona: The Language of Good](http://www.amazon.com/gp/product/0978292308) by **Sonja Lang**, the creator of **Toki Pona**. It has [deviations](ante.md) and contains contextualisations and translations not included in the [original](http://tokipona.net/tp/janpije/dictionary.php).
+The dictionary below is based on the official Toki Pona book ["Toki Pona: The Language of Good"](http://www.amazon.com/gp/product/0978292308) by **Sonja Lang**, the creator of **Toki Pona**. It has [deviations](ante.md) and contains contextualisations and translations not included in the [original](http://tokipona.net/tp/janpije/dictionary.php).
 
 Context in **parenthesis** is optional.
 
@@ -129,7 +129,7 @@ Context in **quotation marks** is mandatory.
 | <img src="musi/sitelen/pona/poka.png" height="42">     | [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#spatial-adjective) | weka — insa, monsi, **poka**, sinpin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ lateral; **nearby** → ɴᴏᴜɴ **hip**, **side**; ("lon -") **next to**, **vicinity**, ("tawa -") than |
 | <img src="musi/sitelen/pona/poki.png" height="42">     | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nimi.md#tool-verb) | kute, lawa, len, luka, lukin, noka, palisa, pilin, **poki**, selo, tomo, uta | ᴠᴇʀʙ to be full of, collect, contain → ɴᴏᴜɴ bladder; **bag**, **bowl**, **box**, **container**, **cup**, **cupboard**, **drawer**, **vessel** |
 | <img src="musi/sitelen/pona/pona.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | **pona** – ike, nasa, pakala, utala | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **good**, **positive**, **useful**; **friendly**, **peaceful**; **simple** |
-| <img src="musi/sitelen/pona/pu.png" height="42">       | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nimi.md#preposition) | esun, kepeken, **pu** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ according; [**holding the Toki Pona book**](mama/lipu-pi-toki-pona.md#preface), **interacting with the Toki Pona book** ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ according to |
+| <img src="musi/sitelen/pona/pu.png" height="42">       | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nimi.md#preposition) | esun, kepeken, **pu** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ according; [**holding the Toki Pona book**](mama/lipu-pi-toki-pona.md#preface), **interacting with the official Toki Pona book** ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ according to |
 |                                                        | [**ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ**](nimi.md#simple-particle) | **Pu** | ᴘᴀʀᴛɪᴄʟᴇ name of the Toki Pona book |
 | <img src="musi/sitelen/pona/sama.png" height="42">     | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nimi.md#preposition) | ante — **sama** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **same**, **similar**; -self, -selves; **each other**; **fellow**, **peer**, **sibling**, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **as**, **like** |
 | <img src="musi/sitelen/pona/seli.png" height="42">     | [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#thing-adjective) | lete — **seli** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ warm; cooked → ɴᴏᴜɴ **chemical reaction**, **fire**, **heat source**; **cooking element** |
@@ -173,3 +173,12 @@ Context in **quotation marks** is mandatory.
 | <img src="musi/sitelen/pona/weka.png" height="42">     | [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#spatial-adjective) | **weka** — insa, monsi, poka, sinpin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**; **ignored**, ᴠᴇʀʙ (- e nanpa) to skip, ɴᴏᴜɴ absence, ("lon -") without → ɴᴏᴜɴ ("lon -") away from, distance |
 | <img src="musi/sitelen/pona/wile.png" height="42" title="wile">     | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | ken, **wile** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inevitable, necessary |
 |                                                        | [**ᴘʀᴇ-ᴠᴇʀʙ**](nimi.md#pre-verb) | ken, olin, open, **wile** | ᴠᴇʀʙ to decide for → ᴘʀᴇ-ᴠᴇʀʙ **must**, **need**, **require**, **should**, **want**, **wish** |
+
+---
+
+👎 In his copy of the Official [Toki Pona Dictionary](http://tokipona.net/tp/janpije/dictionary.php), **Pije** omits the word "official" before "Toki Pona book".
+
+| pu |
+|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ **interacting with the official Toki Pona book** → **interacting with the Toki Pona book** |
+
