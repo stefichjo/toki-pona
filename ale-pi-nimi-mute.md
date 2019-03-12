@@ -17,9 +17,9 @@ Context in **quotation marks** is mandatory.
 
 🤔 — Suggested mandatory context.
 
-| toki | mi toki lon toki pona. → mi toki insa lon toki pona. |
+| moli | ona li kama moli. → ona li moli. |
 |:-|:-|
-| ᴠᴇʀʙ 🤔 (- insa) **think** | *I'm thinking in Toki Pona.* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ 🤔 (kama -) **dying** | *He died.* |
 
 | sitelen | paradigm | word | meaning |
 |:-|:-|:-|:-|
@@ -51,7 +51,7 @@ Context in **quotation marks** is mandatory.
 | <img src="musi/sitelen/pona/jo.png" height="42">       | [**ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ**](nimi.md#simple-verb) | **jo**, pana | ᴠᴇʀʙ **to carry**, **contain**, **have**, **hold** |
 | <img src="musi/sitelen/pona/kala.png" height="42">     | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#life-form-adjective) | **kala**, kasi, pipi, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ diving, swimming → ɴᴏᴜɴ **fish**, **marine animal**, **sea creature** |
 | <img src="musi/sitelen/pona/kalama.png" height="42">   | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | **kalama** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound**, ᴠᴇʀʙ **to recite**, **utter aloud** |
-| <img src="musi/sitelen/pona/kama.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | awen, **kama**, pini | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **future**, upcoming; (- lon) **arriving**, **coming**, [**emerging**](mama/lipu-pi-toki-pona.md#preface), **summoned**, ɴᴏᴜɴ ("lon -") before |
+| <img src="musi/sitelen/pona/kama.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | awen, **kama**, pini | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **future**, upcoming; (- lon) **arriving**, **coming**, [**emerging**](mama/lipu-pi-toki-pona.md#preface), **summoned**, ɴᴏᴜɴ ("lon -") before, beginning |
 |                                                        | [**ᴘʀᴇ-ᴠᴇʀʙ**](nimi.md#pre-verb) | awen, **kama**, pini | ᴠᴇʀʙ to achieve → ᴘʀᴇ-ᴠᴇʀʙ **to become**; **manage to**, **succeed in** |
 | <img src="musi/sitelen/pona/kasi.png" height="42">     | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#life-form-adjective) | kala, **kasi**, pipi, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ vegetating → ɴᴏᴜɴ **plant**, **vegetation**; **herb**, **leaf** |
 | <img src="musi/sitelen/pona/ken.png" height="42">      | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | **ken**, wile | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **possible** |
@@ -121,7 +121,7 @@ Context in **quotation marks** is mandatory.
 |                                                        | [**ᴘʀᴇ-ᴠᴇʀʙ**](nimi.md#pre-verb) | lukin, **pilin**, sona | ᴠᴇʀʙ to feel, 👎 think, ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (an emotion, a direct experience)** → ᴘʀᴇ-ᴠᴇʀʙ to feel (like) |
 | <img src="musi/sitelen/pona/pimeja.png" height="42">   | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | **pimeja** — walo | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **black** |
 |                                                        | [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#thing-adjective) | **pimeja** — suno | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dark**, **unlit** → ɴᴏᴜɴ shadow |
-| <img src="musi/sitelen/pona/pini.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | awen, kama, **pini** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **ago**, **completed**, **ended**, **finished**, **past**, ɴᴏᴜɴ ("lon -") after |
+| <img src="musi/sitelen/pona/pini.png" height="42">     | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | awen, kama, **pini** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **ago**, **completed**, **ended**, **finished**, **past**, ɴᴏᴜɴ ("lon -") after, end |
 |                                                        | [**ᴘʀᴇ-ᴠᴇʀʙ**](nimi.md#pre-verb) | awen, kama, **pini** | ᴠᴇʀʙ to stop → ᴘʀᴇ-ᴠᴇʀʙ to stop to |
 | <img src="musi/sitelen/pona/pipi.png" height="42">     | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#life-form-adjective) | kala, kasi, **pipi**, waso | ᴀᴅᴊᴇᴄᴛɪᴠᴇ crawling, creeping → ɴᴏᴜɴ **ant**, **bug**, **insect**, **spider** |
 | <img src="musi/sitelen/pona/poka.png" height="42">     | [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#spatial-adjective) | weka — insa, monsi, **poka**, sinpin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ lateral; **nearby** → ɴᴏᴜɴ **hip**, **side**; ("lon -") **next to**, **vicinity**, ("tawa -") than |
