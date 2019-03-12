@@ -56,6 +56,10 @@
 
 ## Lesson 7: Questions and Answers
 
+* ilo toki - telephone
+* kala wawa - shark
+* ilo moku - spoon
+
 ## Lesson 8: Prepositions
 
 ## Lesson 9: Proper Names
