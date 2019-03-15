@@ -1,7 +1,7 @@
 # Toki Pona Grammar
 *(nasin toki pi toki pona)*
 
-This create work by Stephan Schneider is based on the official Toki Pona book and website: [http://tokipona.org](http://tokipona.org)
+This creative work by Stephan Schneider is based on the official Toki Pona book and website: [http://tokipona.org](http://tokipona.org)
 
 | |
 |:-|
