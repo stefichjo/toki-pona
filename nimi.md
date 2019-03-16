@@ -372,17 +372,17 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 |:-|:-|
 | ᴠᴇʀʙ *to see* + ᴘʀᴇ-ᴠᴇʀʙ *to try to*, ᴠᴇʀʙ *to care for* | *I try to sleep.* |
 
-🤔 *Sonja* uses "pilin pona" as a [predicate](#subject-and-predicate) without introducing "pilin" as a ᴘʀᴇ-ᴠᴇʀʙ.
-  
-| mi pilin e ni: mi pona. → mi pilin pona. |
-|:-|
-| *I feel good.* |
-
 👎 Any ᴠᴇʀʙ can be used as a ᴘʀᴇ-ᴠᴇʀʙ.
 
 | mi olin e ni: mi kama sona e toki pona. → mi olin kama sona e toki pona. |
 |:-|
 | *I love to learn Toki Pona.* |
+
+🤔 *Sonja* uses "pilin pona" as a [predicate](#subject-and-predicate) without introducing "pilin" as a ᴘʀᴇ-ᴠᴇʀʙ.
+  
+| mi pilin e ni: mi pona. → mi pilin pona. |
+|:-|
+| *I feel good.* |
 
 # PARTICLE
 *([nimi](#toki-pona-parts-of-speech) lili)*
