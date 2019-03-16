@@ -70,6 +70,9 @@
 ## Lesson 9
 *(Proper Names)*
 
+* ma tomo - city
+* nena sewi - hill sanctuary
+
 ## Lesson 10
 *(Greetings and Feelings)*
 
