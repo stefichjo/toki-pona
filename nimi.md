@@ -417,7 +417,7 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 |:-|:-|
 | *She has the name "Sonja".* | *She is the person called "Sonja".* → *She is Sonja.* |
 
-**Sonja** removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ. (**Pije** doesn't remove the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇs with "nanpa".)
+**Sonja** removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ. (**Pije** doesn't remove the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇs with "nanpa".)
 
 | toki pi nanpa wan → toki nanpa wan |
 |:-|
@@ -432,7 +432,7 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 |:-|:-|
 | *The animal bleats.* | *She heard a loud bleat.* |
 
-A name can be thought of as an ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ, i.e. as an imitation of the sound of the name itself. Therefore, "nimi" meaning "kalama" can be omitted.
+Proper names can be thought of as an ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ, i.e. as an imitation of the sound of the name itself. Therefore, "nimi" meaning "kalama" can be omitted.
 
 | nimi ona li nimi Sonja. → nimi ona li Sonja. |
 |:-|
@@ -461,6 +461,12 @@ One can use ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as a whole ꜱᴇɴᴛᴇɴᴄᴇ.
 | ona li jan Sonja. → ona li Sonja. |
 |:-|
 | *She is Sonja.* |
+
+🤔 [**Sonja**](mama/lipu-pi-toki-pona.md#lesson-9) compares proper names with ᴀᴅᴊᴇᴄᴛɪᴠᴇs rather than ᴘᴀʀᴛɪᴄʟᴇs, whereas proper-name-phrases don't form "pi"-phrases.
+
+| nimi ona li Epawan Linkan | jan Epawan Linkan | tomo nanpa wan |
+|:-|:-|:-|
+| *His name was Abraham Lincoln.* | *Abraham Lincoln* | *room #1* |
 
 ## TRANSITIVE PARTICLE
 *([nimi lili](#particle) luka)*
