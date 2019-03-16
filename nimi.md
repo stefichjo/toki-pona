@@ -362,13 +362,13 @@ As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean their tool used.
 ### PRE-VERB
 *([nimi suli wawa](#verb) poka)*
 
-When the [ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ](#clause) and the [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#clause) share the same [subject](#subject-and-predicate), the two ᴄʟᴀᴜꜱᴇs' ᴠᴇʀʙ + [predicate](#subject-and-predicate) can merge, i.e. the ᴠᴇʀʙ is used as a ᴘʀᴇ-ᴠᴇʀʙ.
+Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#clause)'s [predicate](#subject-and-predicate). Such ᴠᴇʀʙs are ᴘʀᴇ-ᴠᴇʀʙ (or "auxiliary verbs").
 
-| ᴘʀᴇ-ᴠᴇʀʙ wile | ona li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
+| ᴘʀᴇ-ᴠᴇʀʙ wile | jan li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
 |:-|:-|
-| ᴠᴇʀʙ to need → ᴘʀᴇ-ᴠᴇʀʙ to need to | *She needs, that she is at home.* → *She needs to be at home.* |
+| ᴠᴇʀʙ to need → ᴘʀᴇ-ᴠᴇʀʙ to need to | *She is forced to be at home.* → *She needs to be at home.* |
 
-👍 "pilin" is a ᴘʀᴇ-ᴠᴇʀʙ.
+👍👎🤔 "pilin" is a ᴘʀᴇ-ᴠᴇʀʙ.
   
 | mi pilin e ni: mi pona. → mi pilin pona. |
 |:-|
