@@ -64,6 +64,9 @@
 ## Lesson 8
 *(Prepositions)*
 
+* jan toki - speaker
+* jan kute - listener
+
 ## Lesson 9
 *(Proper Names)*
 
