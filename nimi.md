@@ -365,7 +365,7 @@ As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean their tool used.
 Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#clause)'s [predicate](#subject-and-predicate). Such ᴠᴇʀʙs are ᴘʀᴇ-ᴠᴇʀʙ (or "auxiliary verbs").
 
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ + ᴘʀᴇ-ᴠᴇʀʙ kama | ijo/jan li kama e ni: mi sona e toki pona. → mi kama sona e toki pona. |
-|:-|
+|:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *coming*, ᴠᴇʀʙ *to summon* + ᴘʀᴇ-ᴠᴇʀʙ *to manage to*, ᴠᴇʀʙ *to achieve* | I'm learning Toki Pona. |
 
 | ᴠᴇʀʙ + ᴘʀᴇ-ᴠᴇʀʙ lukin | *mi lukin e ni: mi lape.* → *mi lukin lape.* |
