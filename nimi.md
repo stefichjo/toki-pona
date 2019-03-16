@@ -272,13 +272,13 @@ In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s (or
 
 | mi sona e jan pona pi ma ante. → mi sona e jan pona lon ma ante. |
 |:-|
-| I know friends in other countries. |
+| *I know friends in other countries.* |
 
 👎 A perception can be mentioned as a ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | tawa lukin mi la sina lape. → mi lukin e sina: lape. |
 |:-|
-| I saw you sleeping. |
+| *I saw you sleeping.* |
 
 👎 **Pije** removes the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "tawa" before "lukin".
 
