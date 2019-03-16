@@ -268,6 +268,18 @@ In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s (or
 |:-|:-|
 | *This book is mine.* | *This book is about me.* |
 
+👎 ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used in all kinds of ᴘʜʀᴀꜱᴇs, as long as they appear at the end of a sentence.
+
+| mi sona e jan pona pi ma ante. → mi sona e jan pona lon ma ante. |
+|:-|
+| I know friends in other countries. |
+
+👎 A perception can be mentioned as a ꜱᴇɴᴛᴇɴᴄᴇ.
+
+| tawa lukin mi la sina lape. → mi lukin e sina: lape. |
+|:-|
+| I saw you sleeping. |
+
 👎 **Pije** removes the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "tawa" before "lukin".
 
 | sina tawa lukin sama waso. → sina lukin sama waso. |
