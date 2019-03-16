@@ -368,7 +368,7 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 |:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *coming*, ᴠᴇʀʙ *to summon* + ᴘʀᴇ-ᴠᴇʀʙ *to manage to*, ᴠᴇʀʙ *to achieve* | I'm learning Toki Pona. |
 
-| ᴠᴇʀʙ + ᴘʀᴇ-ᴠᴇʀʙ lukin | *mi lukin e ni: mi lape.* → *mi lukin lape.* |
+| ᴠᴇʀʙ + ᴘʀᴇ-ᴠᴇʀʙ lukin | mi lukin e ni: mi lape. → mi lukin lape. |
 |:-|:-|
 | ᴠᴇʀʙ *to see* + ᴘʀᴇ-ᴠᴇʀʙ *to try to*, ᴠᴇʀʙ *to care for* | *I try to sleep.* |
 
@@ -378,7 +378,7 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 |:-|
 | *I love to learn Toki Pona.* |
 
-🤔 *Sonja* uses "pilin pona" as a [predicate](#subject-and-predicate) without introducing "pilin" as a ᴘʀᴇ-ᴠᴇʀʙ.
+🤔 **Sonja** uses "pilin pona" as a [predicate](#subject-and-predicate) without introducing "pilin" as a ᴘʀᴇ-ᴠᴇʀʙ.
   
 | mi pilin e ni: mi pona. → mi pilin pona. |
 |:-|
