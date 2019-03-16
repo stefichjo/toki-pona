@@ -364,11 +364,15 @@ As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean their tool used.
 
 Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#clause)'s [predicate](#subject-and-predicate). Such ᴠᴇʀʙs are ᴘʀᴇ-ᴠᴇʀʙ (or "auxiliary verbs").
 
-| ᴘʀᴇ-ᴠᴇʀʙ wile | jan li wile e ni: ona li lon tomo. → ona li wile lon tomo. |
-|:-|:-|
-| ᴠᴇʀʙ to need → ᴘʀᴇ-ᴠᴇʀʙ to need to | *She is forced to be at home.* → *She needs to be at home.* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ + ᴘʀᴇ-ᴠᴇʀʙ kama | ijo/jan li kama e ni: mi sona e toki pona. → mi kama sona e toki pona. |
+|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *coming*, ᴠᴇʀʙ *to summon* + ᴠᴇʀʙ *to achieve* → ᴘʀᴇ-ᴠᴇʀʙ *to manage to* | I'm learning Toki Pona. |
 
-👍👎🤔 "pilin" is a ᴘʀᴇ-ᴠᴇʀʙ.
+| ᴠᴇʀʙ + ᴘʀᴇ-ᴠᴇʀʙ lukin | *mi lukin e ni: mi lape.* → *mi lukin lape.* |
+|:-|:-|
+| ᴠᴇʀʙ *to see* + ᴠᴇʀʙ *to care for* → ᴘʀᴇ-ᴠᴇʀʙ *to try to* | *I try to sleep.* |
+
+🤔 *Sonja* uses "pilin pona" as a [predicate](#subject-and-predicate) without introducing "pilin" as a ᴘʀᴇ-ᴠᴇʀʙ.
   
 | mi pilin e ni: mi pona. → mi pilin pona. |
 |:-|
