@@ -366,11 +366,11 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ + ᴘʀᴇ-ᴠᴇʀʙ kama | ijo/jan li kama e ni: mi sona e toki pona. → mi kama sona e toki pona. |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *coming*, ᴠᴇʀʙ *to summon* + ᴠᴇʀʙ *to achieve* → ᴘʀᴇ-ᴠᴇʀʙ *to manage to* | I'm learning Toki Pona. |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *coming*, ᴠᴇʀʙ *to summon* + ᴘʀᴇ-ᴠᴇʀʙ *to manage to*, ᴠᴇʀʙ *to achieve* | I'm learning Toki Pona. |
 
 | ᴠᴇʀʙ + ᴘʀᴇ-ᴠᴇʀʙ lukin | *mi lukin e ni: mi lape.* → *mi lukin lape.* |
 |:-|:-|
-| ᴠᴇʀʙ *to see* + ᴠᴇʀʙ *to care for* → ᴘʀᴇ-ᴠᴇʀʙ *to try to* | *I try to sleep.* |
+| ᴠᴇʀʙ *to see* + ᴘʀᴇ-ᴠᴇʀʙ *to try to*, ᴠᴇʀʙ *to care for* | *I try to sleep.* |
 
 🤔 *Sonja* uses "pilin pona" as a [predicate](#subject-and-predicate) without introducing "pilin" as a ᴘʀᴇ-ᴠᴇʀʙ.
   
