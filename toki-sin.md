@@ -159,7 +159,7 @@ The **pre-phrase particle** "la" becomes the **ending** "-a".
 
 | tan seme la ona li lon tomo?: ŝenmana oni domon? |
 |:-|
-| *Why is she at home?*|
+| *Why is she at home?* |
 
 #### Toko Bona
 *([Toki Pona Spin-Off](#spin-offs) à la Esperanto)*
