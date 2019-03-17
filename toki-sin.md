@@ -131,12 +131,6 @@ Final **vowels** (+ **consonant**) are dropped, except if the word is monosyllab
 |:-|:-|:-|:-|
 | *she* | *I* | *reptile* | *eye* |
 
-The **particles** "en" and "an" become the **endings** "-en" and "-an".
-
-| ike anu pona: ilkea an bona → ilk bonan | ona en sina: ona en sina → on sinen |
-|:-|:-|
-| *bad or good* | *she and you* |
-
 The **particles** "biloŋ" and "li" become the **ending** "-i".
 
 | tomo pi telo nasa: domo biloŋ delo nasau → dom deli nas | jan li pali: jan li far. → jan fari. |
@@ -154,6 +148,18 @@ The **subject** "mi" and "sina" alone become the **endings** "-im" and "-is".
 | mi olin e sina: mi vol e sin. → volim sine. | sina sin: sin ŝin. → ŝinis. |
 |:-|:-|
 | *I love you.* | *You are new.* |
+
+The final remaining syllable (vowel + consonant) of a **preposition** becomes an **ending**.
+
+| ona li tawa tomo kepeken tomo tawa sama sina: oni domaw domen daw sinam. |
+|:-|
+| She went home by car like you. |
+
+The **pre-phrase particle** "la" becomes the **ending** "-a".
+
+| tan seme la ona li lon tomo?: ŝenmana oni domon? |
+|:-|
+| *Why is she at home?*|
 
 #### Toko Bona
 *([Toki Pona Spin-Off](#spin-offs) à la Esperanto)*
