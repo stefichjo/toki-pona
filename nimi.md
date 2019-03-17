@@ -390,11 +390,11 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 |:-|
 | *I love to learn Toki Pona.* |
 
-🤔 **Sonja** uses "pilin pona" as a [predicate](#subject-and-predicate) without introducing "pilin" as a ᴘʀᴇ-ᴠᴇʀʙ.
+🤔 **Sonja** uses "pilin ike" as a [predicate](#subject-and-predicate) without introducing "pilin" as a ᴘʀᴇ-ᴠᴇʀʙ.
   
-| mi pilin e ni: mi pona. → mi pilin pona. |
+| tan seme la sina pilin e ni: sina ike? → tan seme la sina pilin ike? |
 |:-|
-| *I feel good.* |
+| *Why are you sad?* |
 
 # PARTICLE
 *([nimi](#toki-pona-parts-of-speech) lili)*

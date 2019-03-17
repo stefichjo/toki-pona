@@ -76,6 +76,10 @@
 ## Lesson 10
 *(Greetings and Feelings)*
 
+* kama pona! - Welcome!
+* tawa pona! - Good departure!
+* pilin ike - sad
+
 ## Lesson 11
 *(pi)*
 
