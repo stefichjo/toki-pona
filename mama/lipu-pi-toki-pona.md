@@ -98,6 +98,14 @@
 ## Lesson 12
 *(Numbers)*
 
+* jan ale - everyone
+* nanpa wan - first
+* nanpa tu tu - fourth
+* jan utala - warrior
+* nanpa luka - fifth
+* tu tu - four
+* jan ale - everybody
+
 ## Lesson 13
 *(Pre-Verbs)*
 
