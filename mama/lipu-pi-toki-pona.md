@@ -125,6 +125,8 @@
 ## Lesson 15
 *(Spatial Nouns)*
 
+* 👍 pi noka suli - deep
+
 ## Lesson 16
 *(Particles and Perspective)*
 
