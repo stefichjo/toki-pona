@@ -166,8 +166,8 @@ Context in **quotation marks** is mandatory.
 | <img src="musi/sitelen/pona/wawa.png" height="42" title="vahva">     | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | lili — ale, mute, suli, **wawa** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **powerful**, **strong**; 🤔 (sona -) **confident**, [**dependable**](mama/lipu-pi-toki-pona.md#lesson-4), [**reliable**](mama/lipu-pi-toki-pona.md#lesson-5), **sure**; **energetic**, ("tawa -") fast, **intense**, ᴠᴇʀʙ  [**strengthen**](mama/lipu-pi-toki-pona.md#lesson-6) |
 | <img src="musi/sitelen/pona/weka.png" height="42" title="weĥ">     | [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#spatial-adjective) | **weka** — insa, monsi, poka, sike, sinpin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**; **ignored**, ᴠᴇʀʙ (- e nanpa) to skip, ɴᴏᴜɴ absence, ("lon -") without → ɴᴏᴜɴ ("lon -") away from, distance |
 | <img src="musi/sitelen/pona/wile.png" height="42" title="wile">  
-| [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nimi.md#pre-verb)  
-| ken, **wile** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inevitable, necessary, ᴠᴇʀʙ to enforce + ᴘʀᴇ-ᴠᴇʀʙ **must**, **need**, **require**, **should**, **want**, **wish**, ᴠᴇʀʙ to need, require, want, wish |
+  | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nimi.md#pre-verb)  
+  | ken, **wile** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inevitable, necessary, ᴠᴇʀʙ to enforce + ᴘʀᴇ-ᴠᴇʀʙ **must**, **need**, **require**, **should**, **want**, **wish**, ᴠᴇʀʙ to need, require, want, wish |
 
 ---
 
