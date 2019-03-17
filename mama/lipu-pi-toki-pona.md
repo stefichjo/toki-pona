@@ -118,6 +118,10 @@
 ## Lesson 14
 *(Colours and la)*
 
+* tenpo pimeja ni - tonight
+* soweli wawa - bear
+* tenpo suno kama - tomorrow
+
 ## Lesson 15
 *(Spatial Nouns)*
 
