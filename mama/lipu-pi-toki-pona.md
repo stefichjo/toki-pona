@@ -85,6 +85,16 @@
 ## Lesson 11
 *(pi)*
 
+* mije sona - scholar
+* tenpo suno ni - today
+* pona mute - excellent
+* sijelo pona - healthy
+* ilo tenpo suno - sundial
+* mama mama - grandparents
+* tomo tawa - vehicle
+* ma kasi - garden
+* ma utala - battlefield
+
 ## Lesson 12
 *(Numbers)*
 
