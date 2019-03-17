@@ -109,6 +109,12 @@
 ## Lesson 13
 *(Pre-Verbs)*
 
+* kama sona - learning
+* kama awen lon - settling
+* jan lili - children
+* tawa lon telo - swimming
+* ma mama - motherland
+
 ## Lesson 14
 *(Colours and la)*
 
