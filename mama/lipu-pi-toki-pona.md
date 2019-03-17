@@ -79,6 +79,8 @@
 * kama pona! - Welcome!
 * tawa pona! - Good departure!
 * pilin ike - sad
+* pona! - Thank you!
+* pilin pona - happy
 
 ## Lesson 11
 *(pi)*
