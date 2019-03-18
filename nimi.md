@@ -502,7 +502,7 @@ One can reply to a yes-no-question with just the **predicate** of a ꜱᴇɴᴛ�
 |:-|
 | *She is a parent.* → *Yes.* |
 
-👎 [**Pije**](http://tokipona.net/tp/janpije/okamasona12.php) allows to add ["li"](#subject-and-predicate)-ᴘʜʀᴀꜱᴇ even if the **subject** isr "mi" or "sina" alone.
+👎 [**Pije**](http://tokipona.net/tp/janpije/okamasona12.php) allows to add ["li"](#subject-and-predicate)-ᴘʜʀᴀꜱᴇ even if the **subject** is "mi" or "sina" alone.
 
 | mi moku e kili, mi lukin e tomo. → mi moku e kili li lukin e tomo. |
 |:-|
