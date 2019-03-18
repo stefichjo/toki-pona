@@ -262,35 +262,29 @@ When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘ�
 |:-|:-|
 | *This book is mine.* | *This book is about me.* |
 
-👎 ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used in all kinds of ᴘʜʀᴀꜱᴇs, as long as they appear at the end of a ꜱᴇɴᴛᴇɴᴄᴇ.
+👎 ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used in all kinds of ᴘʜʀᴀꜱᴇs, as long as they appear at the end of a ꜱᴇɴᴛᴇɴᴄᴇ. A perception can be described as a ꜱᴇɴᴛᴇɴᴄᴇ.
 
-| mi sona e jan pona pi ma ante. → mi sona e jan pona tan ma ante. |
-|:-|
-| *I know friends from other countries.* |
+| mi lukin e ni: meli pimeja li lon sinpin tomo. → mi lukin e meli pimeja lon sinpin tomo. | tawa lukin mi la meli pimeja li lon sinpin tomo. → mi lukin e meli pimeja: lon sinpin tomo. |
+|:-|:-|
+| *I saw a black woman (that was) in front of the building.* | *I saw a black woman in front of the building.* |
 
-👎 A perception can be described as a ꜱᴇɴᴛᴇɴᴄᴇ.
-
-| tawa lukin mi la meli pimeja li lon sinpin tomo. → mi lukin e meli pimeja: lon sinpin tomo. |
-|:-|
-| *I saw a black woman in front of the building.* |
-
-👎 **Pije** removes the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "tawa" before "lukin".
+👎 [**Pije**](http://tokipona.net/tp/janpije/okamasona7.php) removes the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "tawa" before "lukin".
 
 | sina tawa lukin sama waso. → sina lukin sama waso. |
 |:-|
 | *You look like a bird.* |
 
-👎 [ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#spatial-adjective)s can become a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ implying "lon".
+👎 [ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#spatial-adjective)s can become a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ implying "lon". [**Pije**](http://tokipona.net/tp/janpije/okamasona7.php) introduces "poka" as a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ.
 
 | mi tawa lon poka sina. → mi tawa poka sina. |
 |:-|
 | *I'm going with you.* |
 
-👎 As a [ɴᴏᴜɴ](#noun), ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs mean their implied ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ. **Pije** uses the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "tan" in this way.
+👎 As a [ɴᴏᴜɴ](#noun), ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs mean their implied ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ. [**Pije**](http://tokipona.net/tp/janpije/okamasona8.php) uses the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "tan" in this way.
 
-| mi sona ala e ni: ona li lon seme. → mi sona ala e lon ona. |
+| mi sona ala e ni: ni li tan seme. → mi sona ala e tan. |
 |:-|
-| *I don't know her whereabouts.* |
+| *I don't know the reason.* |
 
 👎 As a [ɴᴏᴜɴ](#noun), the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "sama" means "ona sama".
 
@@ -298,7 +292,7 @@ When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘ�
 |:-|
 | *It moves itself.* |
 
-🤔 [**Sonja**](mama/lipu-pi-toki-pona.md#lesson-15) seems to allow ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs in order to describe perceptions.
+🤔 [**Sonja**](mama/lipu-pi-toki-pona.md#lesson-15) says that ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used at the end of a ꜱᴇɴᴛᴇɴᴄᴇ (rather than at the end of a **predicate**), leaving the possibility open that ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can describe perceptions.
 
 | tawa lukin mi la meli pimeja li lon sinpin tomo. → mi lukin e meli pimeja lon sinpin tomo. |
 |:-|
@@ -417,7 +411,7 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 |:-|:-|
 | *She has the name "Sonja".* | *She is the person called "Sonja".* → *She is Sonja.* |
 
-**Sonja** removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ. (**Pije** doesn't remove the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇs with "nanpa".)
+**Sonja** removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ. [**Pije**](http://tokipona.net/tp/janpije/okamasona16.php) doesn't remove the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇs with "nanpa".
 
 | toki pi nanpa wan → toki nanpa wan |
 |:-|
@@ -508,17 +502,11 @@ One can reply to a yes-no-question with just the **predicate** of a ꜱᴇɴᴛ�
 |:-|
 | *She is a parent.* → *Yes.* |
 
-👍 After "mi" or "sina" the [ᴘᴀʀᴛɪᴄʟᴇ "li"](#subject-and-predicate) can remain, if there is a second [ᴘᴀʀᴛɪᴄʟᴇ "li"](#subject-and-predicate).
+👎 [**Pije**](http://tokipona.net/tp/janpije/okamasona12.php) allows to add ["li"](#subject-and-predicate)-ᴘʜʀᴀꜱᴇ even if the **subject** isr "mi" or "sina" alone.
 
-| mi lukin mute. mi sona lili. → mi li lukin mute li sona lili. |
+| mi moku e kili, mi lukin e tomo. → mi moku e kili li lukin e tomo. |
 |:-|
-| *I am seeing much and knowing little.* |
-
-👎 **Pije** removes only the first [ᴘᴀʀᴛɪᴄʟᴇ "li"](#subject-and-predicate) after "mi" or "sina".
-
-| mi lukin mute. mi sona lili. → mi lukin mute li sona lili. |
-|:-|
-| *I am seeing much and knowing little.* |
+| *I'm eating fruit and looking at the house.* |
 
 👎 Any ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ can have a **predicate**, not only the **subject** of a ꜱᴇɴᴛᴇɴᴄᴇ.
 
@@ -541,7 +529,7 @@ A **predicate** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "li") can have m
 |:-|
 | *She cooks the meat and the rice.* |
 
-👎 When the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "kepeken" becomes a [ᴠᴇʀʙ](#verb), **Pije** uses it with the ᴘᴀʀᴛɪᴄʟᴇ "e".
+👎 When the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "kepeken" becomes a [ᴠᴇʀʙ](#verb), [**Pije**](http://tokipona.net/tp/janpije/okamasona6.php) uses it with the ᴘᴀʀᴛɪᴄʟᴇ "e".
 
 | mi kepeken ilo. → mi kepeken e ilo. |
 |:-|
@@ -613,13 +601,13 @@ As a rule of thumb, if the ᴘᴀʀᴛɪᴄʟᴇ "pi" doesn't add useful informa
 |:-|
 | *house of foreign beer* |
 
-👎 **Pije** turns the ᴘᴀʀᴛɪᴄʟᴇ "pi" with a [ᴘʀᴏɴᴏᴜɴ](#noun) into a [predicate](#subject-and-predicate).
+👎 [**Pije**](http://tokipona.net/tp/janpije/okamasona11.php) turns the ᴘᴀʀᴛɪᴄʟᴇ "pi" with a [ᴘʀᴏɴᴏᴜɴ](#noun) into a [predicate](#subject-and-predicate).
 
 | ni li ijo mi. → ni li pi mi. |
 |:-|
 | *This belongs to me.* → *This is mine.* |
 
-👎 **Pije** turns the [ᴘᴀʀᴛɪᴄʟᴇ "e"](#direct-object) into "pi" before a [ɴᴏᴜɴ](#noun), in order to express direction.
+👎 [**Pije**](http://tokipona.net/tp/janpije/okamasona5.php) turns the [ᴘᴀʀᴛɪᴄʟᴇ "e"](#direct-object) into "pi" before a [ɴᴏᴜɴ](#noun), in order to express direction.
 
 | sina lukin e sewi. → sina lukin sewi. |
 |:-|
@@ -658,7 +646,7 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 |:-|:-|
 | *She is a parent, really?* | *She isn't a parent, really?* |
 
-👎 According to **Pije**, ꜱᴇɴᴛᴇɴᴄᴇs with "anu seme" have the rude conotation of "or what".
+👎 According to [**Pije**](http://tokipona.net/tp/janpije/okamasona12.php), ꜱᴇɴᴛᴇɴᴄᴇs with "anu seme" have the conotation of "or what".
 
 | ona li mama anu seme? |
 |:-|
