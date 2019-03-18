@@ -244,17 +244,11 @@ When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘ�
 |:-|:-|:-|
 | *I'm going to the kitchen.* | *I'm not going to the kitchen.* | *I'm running to the kitchen.* |
 
-**Sonja** uses ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs only with **predicates** and (safely) removes the **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs.
+**Sonja** uses ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs only at the end of **predicates** and (safely) removes the **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs. Instead of nested ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s (or [genitive phrase](#genitive)s).
 
-| mi toki tawa sina, lon tomo seli. → mi toki tawa sina lon tomo seli. |
-|:-|
-| *I'm talking to you in the kitchen.* |
-
-In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s (or [genitive phrase](#genitive)s) instead of ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.
-
-| jan lon poka → jan poka | pona tawa lukin → pona lukin |
+| mi toki tawa sina, lon tomo seli. → mi toki tawa sina lon tomo seli. | jan lon poka → jan poka |
 |:-|:-|
-| *neighbour* | *beautiful* |
+| *I'm talking to you in the kitchen.* | *neighbour* |
 
 👍 When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped and the [direct object phrase](#direct-object) goes to the end of the ꜱᴇɴᴛᴇɴᴄᴇ.
 
@@ -268,17 +262,17 @@ In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s (or
 |:-|:-|
 | *This book is mine.* | *This book is about me.* |
 
-👎 ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used in all kinds of ᴘʜʀᴀꜱᴇs, as long as they appear at the end of a sentence.
+👎 ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used in all kinds of ᴘʜʀᴀꜱᴇs, as long as they appear at the end of a ꜱᴇɴᴛᴇɴᴄᴇ.
 
-| mi sona e jan pona pi ma ante. → mi sona e jan pona lon ma ante. |
+| mi sona e jan pona pi ma ante. → mi sona e jan pona tan ma ante. |
 |:-|
-| *I know friends in other countries.* |
+| *I know friends from other countries.* |
 
-👎 A perception can be mentioned as a ꜱᴇɴᴛᴇɴᴄᴇ.
+👎 A perception can be described as a ꜱᴇɴᴛᴇɴᴄᴇ.
 
-| tawa lukin mi la sina lape. → mi lukin e sina: lape. |
+| tawa lukin mi la meli pimeja li lon sinpin tomo. → mi lukin e meli pimeja: lon sinpin tomo. |
 |:-|
-| *I saw you sleeping.* |
+| *I saw a black woman in front of the building.* |
 
 👎 **Pije** removes the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "tawa" before "lukin".
 
@@ -303,6 +297,12 @@ In all other cases, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s (or
 | ona li tawa e ona sama. → ona li tawa e sama. |
 |:-|
 | *It moves itself.* |
+
+🤔 [**Sonja**](mama/lipu-pi-toki-pona.md#lesson-15) seems to allow ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs in order to describe perceptions.
+
+| tawa lukin mi la meli pimeja li lon sinpin tomo. → mi lukin e meli pimeja lon sinpin tomo. |
+|:-|
+| *I saw a black woman in front of the building.* |
 
 ## VERB
 *([nimi suli](#content-word) wawa)*

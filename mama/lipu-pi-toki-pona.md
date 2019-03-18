@@ -4,6 +4,7 @@
 
 * toki insa - thought
 * ilo lipu - the Web
+* 👍 lipu sona - web page, the Web
 
 ## What Is Toki Pona?
 
@@ -130,13 +131,28 @@
 ## Lesson 16
 *(Particles and Perspective)*
 
+* ma mama - fatherland
+* nanpa tu - second
+
 ## Lesson 17
 *(Hunting Adventure)*
+
+* kama tawa tomo jan - to visit someone
+* ma kasi - forest
+* ilo alasa - bow
 
 ## Lesson 18
 *(Cooking Adventure)*
 
+* lape lili - napping
+* soweli lili - hare
+* moku pona - bon appétit
+
 ## Lesson 19
 *(The Frontier)*
+
+## Toki Pona Proverbs
+
+## Famous Quotations
 
 ## Official Toki Pona Dictionary
