@@ -127,6 +127,7 @@
 *(Spatial Nouns)*
 
 * 👍 pi noka suli - deep
+* telo suli - ocean
 
 ## Lesson 16
 *(Particles and Perspective)*
