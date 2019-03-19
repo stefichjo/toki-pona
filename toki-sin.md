@@ -25,27 +25,25 @@ Words in **Tok Bona** are very close to their etymological origin.
 
 | | | |
 |:-|:-|:-|
-kule     | **kule** | *FR* couleur → kuler |
-luka     | **luka** | *HR* rúka → ruka |
-sin      | **sin** | *ZH* 新 /xīn/ → ŝin |
-sijelo   | **sijelo** | *HR* tijelo |
+<img src="musi/sitelen/pona/kule.png" height="42" title="kuler"> | **kule** | *FR* couleur → kuler |
+<img src="musi/sitelen/pona/luka.png" height="42" title="ruka"> | **luka** | *HR* rúka → ruka |
+<img src="musi/sitelen/pona/sin.png" height="42" title="ŝin"> | **sin** | *ZH* 新 /xīn/ → ŝin |
+<img src="musi/sitelen/pona/sijelo.png" height="42" title="tijelo"> | **sijelo** | *HR* tijelo |
 
 #### Ijo Ŝin Bona
 *([Toki Pona Prequel](#prequels) without Compound Hieroglyphs)*
 
 **Ijo Ŝin Bona** precedes **Tok Bona** and uses some expressions, that are supplanted by **Tok Bona**. For instance "ijo ŝin" (meaning "news") is replaced by "tok".
 
-| | | |
+| toki pona | | |
 |:-|:-|:-|
-jelo     | **jelo** | kuler suno |
-laso     | **laso** | kuler kasvi |
-loje     | **loje** | kuler usta |
-pimeja   | **pimeja** | kuler ara |
-walo     | **walo** | kuler vahva |
-
-| | | |
-|:-|:-|:-|
-kepeken  | **kepeken** | loŋ ruka e ilo |
+jelo     | **jelo** | kule suno: kuler suno |
+laso     | **laso** | kule kasi: kuler kasvi |
+loje     | **loje** | kule uta: kuler usta |
+pimeja   | **pimeja** | kule ala: kuler ara |
+walo     | **walo** | kule wawa: kuler vahva |
+---
+kepeken  | **kepeken** | lon luka e ilo: loŋ ruka e ilo |
 moku     | **moku** | loŋ ruka e usta |
 pali     | **pali** | loŋ ruka e ijo |
 pana     | **pana** | loŋ ruka ŝin |
@@ -119,8 +117,22 @@ The vowels "u" and "i" merge with "o" and "e".
 
 | |
 |:-|
+| [Toki Pona Suwi](#toki-pona-suwi)
 | [Tok Bon](#tok-bon) |
 | [Toko Bona](#toko-bona) |
+
+### Toki Pona Suwi
+*(Cute Toki Pona)*
+
+→ Ijo Ŝin Bona
+
+| mi jo e lipu. → mi lon mi e lipu. | mi kama jo e lipu tan sina. → mi tawa mi e lipu tan sina. | mi pana e lipu tawa sina. → mi tan mi e lipu tawa sina. |
+|:-|:-|:-|
+| *I had a book.* | *I took a book from you.* | *I gave you a book.* |
+
+| mi kepeken ilo. → mi lon luka e ilo. |
+|:-|
+| *I used a tool.* |
 
 ### Tok Bon
 *([Toki Pona Spin-Off](#spin-offs) with Declension)*
