@@ -64,7 +64,6 @@ Animals are expressed by means of "tijelo".
 <img src="musi/sitelen/pona/soweli.png" height="42" title="ĉoveli"> | **soweli** | tijelo biloŋ pilim ĉeli | sijelo pi pilin seli |
 <img src="musi/sitelen/pona/waso.png" height="42" title="wazo"> | **waso** | tijelo koŋ | sijelo kon |
 
-
 ## Sequels
 *([toki pona](#toki-pona-sin) lili)*
 
@@ -125,9 +124,9 @@ The vowels "u" and "i" merge with "o" and "e".
 |:-|:-|:-|
 | *I had a book.* | *I took a book from you.* | *I gave you a book.* |
 
-| mi kepeken palisa. → mi lon luka e ilo: palisa. |
-|:-|
-| *I used a rod.* |
+| mi kepeken palisa. → mi lon luka e ilo: palisa. | mi pali e tomo. → mi lon luka e ijo: tomo. |
+|:-|:-|
+| *I used a rod.* | *I built a house.* |
 
 ### Tok Bon
 *([Toki Pona Spin-Off](#spin-offs) with Declension)*
