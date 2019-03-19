@@ -43,7 +43,7 @@ Words in **Tok Bona** are very close to their etymological origin.
 <img src="musi/sitelen/pona/pimeja.png" height="42" title="pimea"> | **pimeja** | kuler ara | kule ala |
 <img src="musi/sitelen/pona/walo.png" height="42" title="valko"> | **walo** | kuler vahva | kule wawa |
 <img src="musi/sitelen/pona/kepeken.png" height="42" title="ĥebreiken"> | **kepeken** | loŋ ruka e ilo | lon luka e ilo |
-<img src="musi/sitelen/pona/moku.png" height="42" title="mogu"> | **moku** | loŋ ruka e usta | lon luka e usta |
+<img src="musi/sitelen/pona/moku.png" height="42" title="mogu"> | **moku** | loŋ ruka e usta | tawa uta e luka tan |
 <img src="musi/sitelen/pona/pali.png" height="42" title="fari"> | **pali** | loŋ ruka e ijo | lon luka e ijo |
 <img src="musi/sitelen/pona/pana.png" height="42" title="pana"> | **pana** | loŋ ruka ŝin | lon luka sin |
 <img src="musi/sitelen/pona/kalama.png" height="42" title="galama"> | **kalama** | usta ŝin | uta sin |
@@ -52,16 +52,18 @@ Words in **Tok Bona** are very close to their etymological origin.
 <img src="musi/sitelen/pona/kulupu.png" height="42" title="kulupu"> | **kulupu** | multe ijo | mute ijo |
 <img src="musi/sitelen/pona/olin.png" height="42" title="volim"> | **olin** | pilim e pilim | pilin e pilin |
 <img src="musi/sitelen/pona/pu.png" height="42" title="buk"> | **pu** | loŋ lipu biloŋ ijo ŝin bona | lon lipu pi ijo sin pona |
+<img src="musi/sitelen/pona/jo.png" height="42" title="jou"> | **jo** | (mi) loŋ mi | (mi) lon mi |
 
 Animals are expressed by means of "tijelo".
 
-| | | |
-|:-|:-|:-|
-akesi    | **akesi** | tijelo biloŋ pilim fret |
-kala     | **kala** | tijelo delo |
-pipi     | **pipi** | tijelo maa |
-soweli   | **soweli** | tijelo biloŋ pilim ĉeli |
-waso     | **waso** | tijelo koŋ |
+| sitelen | toki pona | ijo ŝin bona | toki pona suwi |
+|:-|:-|:-|:-|
+<img src="musi/sitelen/pona/akesi.png" height="42" title="hagedis"> | **akesi** | tijelo biloŋ pilim fret | sijelo pi pilin lete |
+<img src="musi/sitelen/pona/kala.png" height="42" title="kala"> | **kala** | tijelo delo | sijelo telo |
+<img src="musi/sitelen/pona/pipi.png" height="42" title="bibit"> | **pipi** | tijelo maa | sijelo ma |
+<img src="musi/sitelen/pona/soweli.png" height="42" title="ĉoveli"> | **soweli** | tijelo biloŋ pilim ĉeli | sijelo pi pilin seli |
+<img src="musi/sitelen/pona/waso.png" height="42" title="wazo"> | **waso** | tijelo koŋ | sijelo kon |
+
 
 ## Sequels
 *([toki pona](#toki-pona-sin) lili)*
@@ -123,9 +125,9 @@ The vowels "u" and "i" merge with "o" and "e".
 |:-|:-|:-|
 | *I had a book.* | *I took a book from you.* | *I gave you a book.* |
 
-| mi kepeken ilo. → mi lon luka e ilo. |
+| mi kepeken palisa. → mi lon luka e ilo: palisa. |
 |:-|
-| *I used a tool.* |
+| *I used a rod.* |
 
 ### Tok Bon
 *([Toki Pona Spin-Off](#spin-offs) with Declension)*
