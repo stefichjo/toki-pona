@@ -118,15 +118,29 @@ The vowels "u" and "i" merge with "o" and "e".
 ### Ijo Sin Pona
 *([Toki Pona Spin-Off](#spin-offs) with primitive vocabulary)*
 
-**Ijo Sin Pona** keeps the reduced vocabulary (99 words) of [Ijo Ŝin Bona](ijo-ŝin-bona) while keeping pronunciation rules of **Toki Pona**.
+**Ijo Sin Pona** keeps the reduced vocabulary (99 words) of [Ijo Ŝin Bona](ijo-ŝin-bona) while keeping the pronunciation rules of **Toki Pona**.
 
-| mi jo e lipu. → mi lon mi e lipu. | mi kama jo e lipu tan sina. → mi tawa mi e lipu tan sina. / mi kama lon mi e lipu tan sina. | mi pana e lipu tawa sina. → mi tan mi e lipu tawa sina. / mi tawa luka sin sina e lipu. |
-|:-|:-|:-|
-| *I had a book.* | *I took a book from you.* | *I gave you a book.* |
-
-| mi kepeken palisa. → mi lon luka e ilo: palisa. | mi pali e tomo. → mi lon luka e ijo: tomo. |
+| mi kepeken palisa. → mi lon luka e ilo: palisa. | mi pali e lipu. → mi lon luka e ijo: lipu. |
 |:-|:-|
-| *I used a rod.* | *I built a house.* |
+| *I used a rod.* | *I was working on the document.* |
+
+The verb "jo" is replaced by "(mi) lon mi".
+
+| mi jo e lipu. → mi lon mi e lipu. |
+|:-|
+| *I had a book.* |
+
+In analogy to "jo" ("(mi) lon mi"), "pana" can be replaced with "(mi) tan mi" as an alternative to "tawa luka sin".
+
+| mi pana e lipu tawa sina. → mi tan mi e lipu tawa sina. / mi tawa luka sin sina e lipu. |
+|:-|
+| *I gave you a book.* |
+
+Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to "(mi) kama lon mi".
+
+| mi kama jo e lipu tan sina. → mi tawa mi e lipu tan sina. / mi kama lon mi e lipu tan sina. |
+|:-|
+| *I took a book from you.* |
 
 ### Tok Bon
 *([Toki Pona Spin-Off](#spin-offs) with Declension)*
