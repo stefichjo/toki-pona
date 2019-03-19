@@ -35,30 +35,23 @@ Words in **Tok Bona** are very close to their etymological origin.
 
 **Ijo Ŝin Bona** precedes **Tok Bona** and uses some expressions, that are supplanted by **Tok Bona**. For instance "ijo ŝin" (meaning "news") is replaced by "tok".
 
-| toki pona | | |
-|:-|:-|:-|
-jelo     | **jelo** | kule suno: kuler suno |
-laso     | **laso** | kule kasi: kuler kasvi |
-loje     | **loje** | kule uta: kuler usta |
-pimeja   | **pimeja** | kule ala: kuler ara |
-walo     | **walo** | kule wawa: kuler vahva |
----
-kepeken  | **kepeken** | lon luka e ilo: loŋ ruka e ilo |
-moku     | **moku** | loŋ ruka e usta |
-pali     | **pali** | loŋ ruka e ijo |
-pana     | **pana** | loŋ ruka ŝin |
-
-| | | |
-|:-|:-|:-|
-kalama   | **kalama** | usta ŝin |
-sona     | **sona** | lipu ŝin |
-toki     | **toki** | ijo ŝin |
-
-| | | |
-|:-|:-|:-|
-kulupu   | **kulupu** | multe jan |
-olin     | **olin** | pilim e pilim |
-pu       | **pu** | loŋ lipu biloŋ ijo ŝin bona |
+| sitelen | toki pona | ijo ŝin bona | toki pona suwi |
+|:-|:-|:-|:-|
+<img src="musi/sitelen/pona/jelo.png" height="42" title="jelo"> | **jelo** | kuler suno | kule suno |
+<img src="musi/sitelen/pona/laso.png" height="42" title="glas"> | **laso** | kuler kasvi | kule kasi |
+<img src="musi/sitelen/pona/loje.png" height="42" title="roje"> | **loje** | kuler usta | kule uta |
+<img src="musi/sitelen/pona/pimeja.png" height="42" title="pimea"> | **pimeja** | kuler ara | kule ala |
+<img src="musi/sitelen/pona/walo.png" height="42" title="valko"> | **walo** | kuler vahva | kule wawa |
+<img src="musi/sitelen/pona/kepeken.png" height="42" title="ĥebreiken"> | **kepeken** | loŋ ruka e ilo | lon luka e ilo |
+<img src="musi/sitelen/pona/moku.png" height="42" title="mogu"> | **moku** | loŋ ruka e usta | lon luka e usta |
+<img src="musi/sitelen/pona/pali.png" height="42" title="fari"> | **pali** | loŋ ruka e ijo | lon luka e ijo |
+<img src="musi/sitelen/pona/pana.png" height="42" title="pana"> | **pana** | loŋ ruka ŝin | lon luka sin |
+<img src="musi/sitelen/pona/kalama.png" height="42" title="galama"> | **kalama** | usta ŝin | uta sin |
+<img src="musi/sitelen/pona/sona.png" height="42" title="ĉodna"> | **sona** | loŋ lipu ŝin | lon lipu sin |
+<img src="musi/sitelen/pona/toki.png" height="42" title="tok"> | **toki** | ijo ŝin | (li tan ona sama e) ijo sin |
+<img src="musi/sitelen/pona/kulupu.png" height="42" title="kulupu"> | **kulupu** | multe ijo | mute ijo |
+<img src="musi/sitelen/pona/olin.png" height="42" title="volim"> | **olin** | pilim e pilim | pilin e pilin |
+<img src="musi/sitelen/pona/pu.png" height="42" title="buk"> | **pu** | loŋ lipu biloŋ ijo ŝin bona | lon lipu pi ijo sin pona |
 
 Animals are expressed by means of "tijelo".
 
