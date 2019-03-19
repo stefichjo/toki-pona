@@ -115,12 +115,12 @@ The vowels "u" and "i" merge with "o" and "e".
 | [Tok Bon](#tok-bon) |
 | [Toko Bona](#toko-bona) |
 
-### Toki Pona Suwi
-*(Cute Toki Pona)*
+### Ijo Sin Pona
+*([Toki Pona Spin-Off](#spin-offs) with primitive vocabulary)*
 
-→ Ijo Ŝin Bona
+**Ijo Sin Pona** keeps the reduced vocabulary (99 words) of [Ijo Ŝin Bona](ijo-ŝin-bona) while keeping pronunciation rules of **Toki Pona**.
 
-| mi jo e lipu. → mi lon mi e lipu. | mi kama jo e lipu tan sina. → mi tawa mi e lipu tan sina. | mi pana e lipu tawa sina. → mi tan mi e lipu tawa sina. |
+| mi jo e lipu. → mi lon mi e lipu. | mi kama jo e lipu tan sina. → mi tawa mi e lipu tan sina. / mi kama lon mi e lipu tan sina. | mi pana e lipu tawa sina. → mi tan mi e lipu tawa sina. / mi tawa luka sin sina e lipu. |
 |:-|:-|:-|
 | *I had a book.* | *I took a book from you.* | *I gave you a book.* |
 
