@@ -111,7 +111,7 @@ The vowels "u" and "i" merge with "o" and "e".
 
 | |
 |:-|
-| [Toki Pona Suwi](#toki-pona-suwi)
+| [Ijo Sin Pona](#ijo-sin-pona)
 | [Tok Bon](#tok-bon) |
 | [Toko Bona](#toko-bona) |
 
