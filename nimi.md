@@ -240,21 +240,21 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "jan
 
 When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped. A ᴘᴀʀᴛɪᴄʟᴇ can be added to the ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but no other ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
 
-| mi tawa tawa tomo seli. → mi tawa tomo seli. | mi tawa ala tawa tomo seli. → mi tawa ala tomo seli. | mi tawa wawa tawa tomo seli. |
+| mi tawa tawa tomo. → mi tawa tomo. | mi tawa ala tawa tomo. → mi tawa ala tomo. | mi tawa wawa tawa tomo. |
 |:-|:-|:-|
-| *I'm going to the kitchen.* | *I'm not going to the kitchen.* | *I'm running to the kitchen.* |
+| *I'm going home.* | *I'm not going home.* | *I'm running home.* |
 
 **Sonja** uses ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs only at the end of **predicates** and (safely) removes the **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs. Instead of nested ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s (or [genitive phrase](#genitive)s).
 
-| mi toki tawa sina, lon tomo seli. → mi toki tawa sina lon tomo seli. | jan lon poka → jan poka |
+| mi toki tawa sina, lon tomo. → mi toki tawa sina lon tomo. | jan lon poka → jan poka |
 |:-|:-|
-| *I'm talking to you in the kitchen.* | *neighbour* |
+| *I'm talking to you at home.* | *neighbour* |
 
 👍 When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped and the [direct object phrase](#direct-object) goes to the end of the ꜱᴇɴᴛᴇɴᴄᴇ.
 
-| mi tawa e ona tawa tomo seli. → mi tawa tomo seli e ona. | mi tawa ala e ona tawa tomo seli. → mi tawa ala tomo seli e ona. | mi tawa wawa e ona tawa tomo seli. |
+| mi tawa e ona tawa tomo. → mi tawa tomo e ona. | mi tawa ala e ona tawa tomo. → mi tawa ala tomo e ona. | mi tawa wawa e ona tawa tomo. |
 |:-|:-|:-|
-| *I'm moving it to the kitchen.* | *I'm not moving it to the kitchen.* | *I'm not moving it to the kitchen fast.* |
+| *I'm moving it home.* | *I'm not moving it home.* | *I'm not moving home fast.* |
 
 👍 "ijo" + [ɴᴏᴜɴ](#noun) can express possession or topic.
 
@@ -291,6 +291,12 @@ When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘ�
 | ona li tawa e ona sama. → ona li tawa e sama. |
 |:-|
 | *It moves itself.* |
+
+🤔 [**Sonja**](mama/lipu-pi-toki-pona.md#lesson-15) uses "pana" instead of "lon".
+
+| What did you put the clock next to? |
+|:-|
+| **sina lon poka seme e ilo tenpo?** → **sina pana e ilo tenpo lon poka seme?** |
 
 🤔 [**Sonja**](mama/lipu-pi-toki-pona.md#lesson-15) says that ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used at the end of a ꜱᴇɴᴛᴇɴᴄᴇ (rather than at the end of a **predicate**), leaving the possibility open that ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can describe perceptions.
 
