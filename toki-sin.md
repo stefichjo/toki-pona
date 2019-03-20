@@ -88,7 +88,7 @@ Before "e" or "i", the **consonants** "p", "t", "k" become the **fricatives** "f
 
 | pilin: filin | tenpo: ĉenpo | ken: ĥen | selo: ŝelo |
 |:-|:-|:-|:-|
-| *heart* | *time* | *box* | *skin* |
+| *heart* | *time* | *can* | *skin* |
 
 When voiced, "f", "ĉ", "ĥ" and "ŝ" become "v", "ĝ", "h" and "ĵ".
 
