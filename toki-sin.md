@@ -6,7 +6,6 @@
 | [Prequels](#prequels) |
 | [Sequels](#sequels) |
 | [Spin-Offs](#spin-offs) |
-| [Etymology](#etymology) |
 
 [Toki Pona Prequels](#prequels)  and [Toki Pona Sequels](#sequels) are fictional **Toki Pona** dialects of the past and the future respectively, whereas [Toki Pona Spin-Offs](#spin-offs) are fictional co-existing **Toki Pona** dialects of the present.
 
@@ -45,10 +44,10 @@ Words in **Tok Bona** are very close to their etymological origin.
 <img src="musi/sitelen/pona/kepeken.png" height="42" title="ĥebreiken"> | **kepeken** | loŋ ruka e ilo | lon luka e ilo |
 <img src="musi/sitelen/pona/moku.png" height="42" title="mogu"> | **moku** | loŋ ruka e usta | tawa uta e luka tan |
 <img src="musi/sitelen/pona/pali.png" height="42" title="fari"> | **pali** | loŋ ruka e ijo | lon luka e ijo |
-<img src="musi/sitelen/pona/pana.png" height="42" title="pana"> | **pana** | loŋ ruka ŝin | lon luka sin |
+<img src="musi/sitelen/pona/pana.png" height="42" title="pana"> | **pana** | loŋ ruka ŝin | tawa luka sin |
 <img src="musi/sitelen/pona/kalama.png" height="42" title="galama"> | **kalama** | usta ŝin | uta sin |
 <img src="musi/sitelen/pona/sona.png" height="42" title="ĉodna"> | **sona** | loŋ lipu ŝin | lon lipu sin |
-<img src="musi/sitelen/pona/toki.png" height="42" title="tok"> | **toki** | ijo ŝin | (li tan ona sama e) ijo sin |
+<img src="musi/sitelen/pona/toki.png" height="42" title="tok"> | **toki** | ijo ŝin | ((mi) tan mi e) ijo sin |
 <img src="musi/sitelen/pona/kulupu.png" height="42" title="kulupu"> | **kulupu** | multe ijo | mute ijo |
 <img src="musi/sitelen/pona/olin.png" height="42" title="volim"> | **olin** | pilim e pilim | pilin e pilin |
 <img src="musi/sitelen/pona/pu.png" height="42" title="buk"> | **pu** | loŋ lipu biloŋ ijo ŝin bona | lon lipu pi ijo sin pona |
