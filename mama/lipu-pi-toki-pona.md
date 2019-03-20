@@ -52,7 +52,8 @@
 *(More Adjectives)*
 
 * jan sona - scholar
-* toki ike - to mishear
+* kute ike - to mishear
+* 👍 nasa ike - annoying
 * jan ala - nobody
 
 ## Lesson 7
@@ -152,7 +153,14 @@
 ## Lesson 19
 *(The Frontier)*
 
+* 👍 o pilin pona o pu!
+
 ## Toki Pona Proverbs
+
+* ante li kama. - Times change.
+* jan sona - sage
+* jan nasa - fool
+* jan sona - genius
 
 ## Famous Quotations
 
