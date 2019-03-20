@@ -34,7 +34,7 @@ Words in **Tok Bona** are very close to their etymological origin.
 
 **Ijo Ŝin Bona** precedes **Tok Bona** and uses some expressions, that are supplanted by **Tok Bona**. For instance "ijo ŝin" (meaning "news") is replaced by "tok".
 
-| sitelen | toki pona | ijo ŝin bona | toki pona suwi |
+| sitelen | toki pona | ijo ŝin bona | ijo sin pona |
 |:-|:-|:-|:-|
 <img src="musi/sitelen/pona/jelo.png" height="42" title="jelo"> | **jelo** | kuler suno | kule suno |
 <img src="musi/sitelen/pona/laso.png" height="42" title="glas"> | **laso** | kuler kasvi | kule kasi |
@@ -55,7 +55,7 @@ Words in **Tok Bona** are very close to their etymological origin.
 
 Animals are expressed by means of "tijelo".
 
-| sitelen | toki pona | ijo ŝin bona | toki pona suwi |
+| sitelen | toki pona | ijo ŝin bona | ijo sin pona |
 |:-|:-|:-|:-|
 <img src="musi/sitelen/pona/akesi.png" height="42" title="hagedis"> | **akesi** | tijelo biloŋ pilim fret | sijelo pi pilin lete |
 <img src="musi/sitelen/pona/kala.png" height="42" title="kala"> | **kala** | tijelo delo | sijelo telo |
