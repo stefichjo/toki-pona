@@ -67,7 +67,7 @@ In **Old Ijo Ŝin Bona**, ᴘᴀʀᴛɪᴄʟᴇs, ᴘʀᴇ-ᴠᴇʀʙs and ᴘʀ
 
 | dan ŝenme la ona li kamap ĉodna e tok bona? → ŝenme ona ĉodna tok-bona? |
 |:-|
-| **Why did she learn Toki Pona?** |
+| *Why did she learn Toki Pona?* |
 
 ## Sequels
 *([toki pona](#dialects) lili)*
