@@ -137,11 +137,17 @@ In a [genitive](#genitive) ᴄʟᴀᴜꜱᴇ, "ijo" before a ᴄᴏʀʀᴇʟᴀ�
 ##### CLAUSE
 *(mute [nimi](#nimi) poka)*
 
-A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ that can be thought of as a string of [ꜱɪᴍᴘʟᴇ  ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle)s following the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "ni" (i.e. the **sound**, that "ni" produces).
+A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ that can be thought of as a string of [ꜱɪᴍᴘʟᴇ  ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle)s following the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "ni" (i.e. the **sound**, that "ni" produces). **Sonja** uses ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs only at the end of a ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | mi sona e ni: mi anpa. | suno pi mute ni: mi ken ala lape |
 |:-|:-|
 | *I know that I'm low.* | *so much light, that I can't sleep* |
+
+A question can be a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
+
+| mi sona e ni: mi anpa. | wile sona nanpa wan li ni: ale li pona anu ike? |
+|:-|:-|
+| *I know that I am low.* | *The question number one is whether the universe is good or evil.* |
 
 👍 A ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ, that refers to the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ.
 
