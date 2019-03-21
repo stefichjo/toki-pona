@@ -3,8 +3,8 @@
 
 | |
 |:-|
-| [Punctuation](punctuation) |
-| [Hieroglyphs](hieroglyphs) |
+| [Punctuation](#punctuation) |
+| [Hieroglyphs](#hieroglyphs) |
 
 ## Punctuation
 *(sitelen pi poka nimi)*
