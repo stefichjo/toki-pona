@@ -161,6 +161,12 @@
 * jan sona - sage
 * jan nasa - fool
 * jan sona - genius
+* jan poka - neighbour
+* pali li pana e sona. - One learns by experience.
+* kama jo - receive
+* wile sona - curious
+* (toki e) wile sona - asking questions
+* weka e ike - cleanse
 
 | <img src="musi/sitelen/pona/ale-li-jo-e-tenpo.png" height="50"> | 
 |:--| 
