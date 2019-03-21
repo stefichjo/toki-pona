@@ -47,7 +47,7 @@ Words in **Tok Bona** are very close to their etymological origin.
 <img src="musi/sitelen/pona/pana.png" height="42" title="pana"> | **pana** | loŋ ruka ŝin | tawa luka sin |
 <img src="musi/sitelen/pona/kalama.png" height="42" title="galama"> | **kalama** | usta ŝin | uta sin |
 <img src="musi/sitelen/pona/sona.png" height="42" title="ĉodna"> | **sona** | loŋ lipu ŝin | lon lipu sin |
-<img src="musi/sitelen/pona/toki.png" height="42" title="tok"> | **toki** | ijo ŝin | ((mi) tan mi e) ijo sin |
+<img src="musi/sitelen/pona/toki.png" height="42" title="tok"> | **toki** | ijo ŝin | ijo sin |
 <img src="musi/sitelen/pona/kulupu.png" height="42" title="kulupu"> | **kulupu** | multe ijo | mute ijo |
 <img src="musi/sitelen/pona/olin.png" height="42" title="volim"> | **olin** | pilim e pilim | pilin e pilin |
 <img src="musi/sitelen/pona/pu.png" height="42" title="buk"> | **pu** | loŋ lipu biloŋ ijo ŝin bona | lon lipu pi ijo sin pona |
@@ -62,6 +62,12 @@ Animals are expressed by means of "tijelo".
 <img src="musi/sitelen/pona/pipi.png" height="42" title="bibit"> | **pipi** | tijelo maa | sijelo ma |
 <img src="musi/sitelen/pona/soweli.png" height="42" title="ĉoveli"> | **soweli** | tijelo biloŋ pilim ĉeli | sijelo pi pilin seli |
 <img src="musi/sitelen/pona/waso.png" height="42" title="wazo"> | **waso** | tijelo koŋ | sijelo kon |
+
+In **Old Ijo Ŝin Bona**, ᴘᴀʀᴛɪᴄʟᴇs, ᴘʀᴇ-ᴠᴇʀʙs and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs were omitted.
+
+| dan ŝenme la ona li kamap ĉodna e tok bona? → ŝenme ona ĉodna tok-bona? |
+|:-|
+| **Why did she learn Toki Pona?** |
 
 ## Sequels
 *([toki pona](#dialects) lili)*
