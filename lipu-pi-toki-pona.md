@@ -155,7 +155,7 @@
 
 * 👍 o pilin pona o pu!
 
-### Toki Pona Proverbs
+## Toki Pona Proverbs
 
 * ante li kama. - Times change.
 * jan sona - sage
@@ -270,7 +270,7 @@
 |:--| 
 | *utala li ike.* | 
 
-### Famous Quotations
+## Famous Quotations
 
 | <img src="musi/sitelen/pona/o-weka-e-nimi-ike.png" height="50"> | 
 |:--| 
