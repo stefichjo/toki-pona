@@ -73,7 +73,7 @@ By default, an ᴀᴅᴊᴇᴄᴛɪᴠᴇ means "being ...ing", and it implies "
 |:-|
 | *People are more important.* |
 
-[**Sonja**](mama/lipu-pi-toki-pona.md#lesson-6) uses the term ᴀᴅᴊᴇᴄᴛɪᴠᴇ for ᴀᴅᴠᴇʀʙꜱ, too.
+[**Sonja**](lipu-pi-toki-pona.md#lesson-6) uses the term ᴀᴅᴊᴇᴄᴛɪᴠᴇ for ᴀᴅᴠᴇʀʙꜱ, too.
 
 | mute | pona mute |
 |:-|:-|
@@ -182,7 +182,7 @@ A question can be a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner → ɴᴏᴜɴ inner area |
 
-👍 When an ᴀᴅᴊᴇᴄᴛɪᴠᴇ becomes a [ɴᴏᴜɴ](#noun), it can mean the time and place of its accomplishment. ([**Sonja**](mama/lipu-pi-toki-pona.md#preface) does that implicitly before "la".)
+👍 When an ᴀᴅᴊᴇᴄᴛɪᴠᴇ becomes a [ɴᴏᴜɴ](#noun), it can mean the time and place of its accomplishment. ([**Sonja**](lipu-pi-toki-pona.md#preface) does that implicitly before "la".)
 
 | lape | mi lon lape. | sina tan lape. | ona li tawa lape. |
 |:-|:-|:-|:-|
@@ -298,13 +298,13 @@ When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘ�
 |:-|
 | *It moves itself.* |
 
-🤔 [**Sonja**](mama/lipu-pi-toki-pona.md#lesson-15) uses "pana" instead of "lon".
+🤔 [**Sonja**](lipu-pi-toki-pona.md#lesson-15) uses "pana" instead of "lon".
 
 | What did you put the clock next to? |
 |:-|
 | **sina lon poka seme e ilo tenpo?** → **sina pana e ilo tenpo lon poka seme?** |
 
-🤔 [**Sonja**](mama/lipu-pi-toki-pona.md#lesson-15) says that ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used at the end of a ꜱᴇɴᴛᴇɴᴄᴇ (rather than at the end of a **predicate**), leaving the possibility open that ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can describe perceptions.
+🤔 [**Sonja**](lipu-pi-toki-pona.md#lesson-15) says that ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used at the end of a ꜱᴇɴᴛᴇɴᴄᴇ (rather than at the end of a **predicate**), leaving the possibility open that ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can describe perceptions.
 
 | tawa lukin mi la meli pimeja li lon sinpin tomo. → mi lukin e meli pimeja lon sinpin tomo. |
 |:-|
@@ -320,7 +320,7 @@ When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘ�
 | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) |
 | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
 
-ᴠᴇʀʙs have or imply a [direct object phrase](#direct-object), i.e. they are ᴛʀᴀɴꜱɪᴛɪᴠᴇ by default and "e ijo/ni" can be omitted. (**Sonja** calls these omittable objects ["filler objects"](mama/lipu-pi-toki-pona.md#lesson-5).)
+ᴠᴇʀʙs have or imply a [direct object phrase](#direct-object), i.e. they are ᴛʀᴀɴꜱɪᴛɪᴠᴇ by default and "e ijo/ni" can be omitted. (**Sonja** calls these omittable objects ["filler objects"](lipu-pi-toki-pona.md#lesson-5).)
 
 | mije li sona e ijo/ni. → mije li sona. |
 |:-|
@@ -468,7 +468,7 @@ One can use ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as a whole ꜱᴇɴᴛᴇɴᴄᴇ.
 |:-|
 | *She is Sonja.* |
 
-🤔 [**Sonja**](mama/lipu-pi-toki-pona.md#lesson-9) compares proper names with ᴀᴅᴊᴇᴄᴛɪᴠᴇs rather than ᴘᴀʀᴛɪᴄʟᴇs, whereas proper-name-phrases don't form "pi"-phrases.
+🤔 [**Sonja**](lipu-pi-toki-pona.md#lesson-9) compares proper names with ᴀᴅᴊᴇᴄᴛɪᴠᴇs rather than ᴘᴀʀᴛɪᴄʟᴇs, whereas proper-name-phrases don't form "pi"-phrases.
 
 | nimi ona li Epawan Linkan | jan Epawan Linkan | tomo nanpa wan |
 |:-|:-|:-|
@@ -526,7 +526,7 @@ One can reply to a yes-no-question with just the **predicate** of a ꜱᴇɴᴛ�
 |:-|
 | *somebody, who is going home* |
 
-🤔 [**Sonja**](mama/lipu-pi-toki-pona.md#what-is-toki-pona) refers to **predicates** as ᴠᴇʀʙs.
+🤔 [**Sonja**](lipu-pi-toki-pona.md#what-is-toki-pona) refers to **predicates** as ᴠᴇʀʙs.
 
 | li lete |
 |:-|
