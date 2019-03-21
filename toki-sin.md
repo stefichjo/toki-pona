@@ -10,7 +10,7 @@
 [Toki Pona Prequels](#prequels)  and [Toki Pona Sequels](#sequels) are fictional **Toki Pona** dialects of the past and the future respectively, whereas [Toki Pona Spin-Offs](#spin-offs) are fictional co-existing **Toki Pona** dialects of the present.
 
 ## Prequels
-*([toki pona](#toki-pona-sin) mama)*
+*([toki pona](#dialects) mama)*
 
 | |
 |:-|
@@ -64,7 +64,7 @@ Animals are expressed by means of "tijelo".
 <img src="musi/sitelen/pona/waso.png" height="42" title="wazo"> | **waso** | tijelo koŋ | sijelo kon |
 
 ## Sequels
-*([toki pona](#toki-pona-sin) lili)*
+*([toki pona](#dialects) lili)*
 
 | |
 |:-|
@@ -106,7 +106,7 @@ The vowels "u" and "i" merge with "o" and "e".
 | *two* | *I* | *recreational* |
 
 ## Spin-Offs
-*([toki pona](#toki-pona-sin) sama)*
+*([toki pona](#dialects) sama)*
 
 | |
 |:-|
