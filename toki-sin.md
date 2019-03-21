@@ -117,7 +117,7 @@ The vowels "u" and "i" merge with "o" and "e".
 ### Ijo Sin Pona
 *([Toki Pona Spin-Off](#spin-offs) with primitive vocabulary)*
 
-**Ijo Sin Pona** keeps the reduced vocabulary (99 words) of [Ijo Ŝin Bona](ijo-ŝin-bona) while keeping the pronunciation rules of **Toki Pona**.
+**Ijo Sin Pona** keeps the reduced vocabulary (99 words) of [Ijo Ŝin Bona](#ijo-ŝin-bona) while keeping the pronunciation rules of **Toki Pona**.
 
 | mi kepeken palisa. → mi lon luka e ilo: palisa. | mi pali e lipu. → mi lon luka e ijo: lipu. |
 |:-|:-|
