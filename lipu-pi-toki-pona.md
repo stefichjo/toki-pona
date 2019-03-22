@@ -167,6 +167,7 @@
 * wile sona - curious
 * (toki e) wile sona - asking questions
 * weka e ike - cleanse
+* pana e pona - love, take care of
 
 | <img src="musi/sitelen/pona/ale-li-jo-e-tenpo.png" height="50"> | 
 |:--| 
