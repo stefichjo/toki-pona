@@ -256,7 +256,7 @@ When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘ�
 |:-|:-|
 | *I'm talking to you at home.* | *neighbour* |
 
-👍 When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped and the [direct object phrase](#direct-object) goes to the end of the ꜱᴇɴᴛᴇɴᴄᴇ.
+👍 When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped and the [direct object phrase](#direct-object) goes to the end of the ꜱᴇɴᴛᴇɴᴄᴇ. The ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ can be thought of being used as a ᴠᴇʀʙ.
 
 | mi tawa e ona tawa tomo. → mi tawa tomo e ona. | mi tawa ala e ona tawa tomo. → mi tawa ala tomo e ona. | mi tawa wawa e ona tawa tomo. |
 |:-|:-|:-|
@@ -298,7 +298,7 @@ When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘ�
 |:-|
 | *It moves itself.* |
 
-🤔 [**Sonja**](lipu-pi-toki-pona.md#lesson-15) uses "pana" instead of "lon".
+🤔 [**Sonja**](lipu-pi-toki-pona.md#lesson-15) avoids using ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs as [ᴠᴇʀʙs](#verb).
 
 | What did you put the clock next to? |
 |:-|
