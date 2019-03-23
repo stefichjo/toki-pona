@@ -320,6 +320,9 @@
 
 ## The Torah
 
+## The Gospel
 
+* tawa lili - to go on a little farther
+* toki tawa sewi - to pray
 
 ## Official Toki Pona Dictionary
