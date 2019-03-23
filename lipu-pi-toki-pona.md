@@ -279,7 +279,7 @@
 
 ## Famous Quotations
 
-
+* nanpa wan - fundamental
 
 | <img src="musi/sitelen/pona/o-weka-e-nimi-ike.png" height="50"> | 
 |:--| 
