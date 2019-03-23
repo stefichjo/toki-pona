@@ -279,6 +279,8 @@
 
 ## Famous Quotations
 
+
+
 | <img src="musi/sitelen/pona/o-weka-e-nimi-ike.png" height="50"> | 
 |:--| 
 | *o weka e nimi ike.* | 
