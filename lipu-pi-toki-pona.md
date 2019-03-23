@@ -324,5 +324,10 @@
 
 * tawa lili - to go on a little farther
 * toki tawa sewi - to pray
+* jan lawa - ruler
+* jan sona - teacher
+* kama lon tenpo sewi - to inherit eternal life
+* 👍 pana e nimi pona tawa - to praise
+* jan ala - no one
 
 ## Official Toki Pona Dictionary

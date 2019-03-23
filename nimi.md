@@ -302,7 +302,7 @@ When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘ�
 
 | What did you put the clock next to? |
 |:-|
-| **sina lon poka seme e ilo tenpo?** → **sina pana e ilo tenpo lon poka seme?** |
+| *sina lon poka seme e ilo tenpo?* → *sina pana e ilo tenpo lon poka seme?* |
 
 🤔 [**Sonja**](lipu-pi-toki-pona.md#lesson-15) says that ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used at the end of a ꜱᴇɴᴛᴇɴᴄᴇ (rather than at the end of a **predicate**), leaving the possibility open that ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can describe perceptions.
 
@@ -423,7 +423,13 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 |:-|:-|
 | *She has the name "Sonja".* | *She is the person called "Sonja".* → *She is Sonja.* |
 
-**Sonja** removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ. [**Pije**](http://tokipona.net/tp/janpije/okamasona16.php) doesn't remove the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇs with "nanpa".
+[**Sonja**](lipu-pi-toki-pona.md#the-gospel) removes the **quotations marks**, when the sense remains the same.
+
+| tan seme la sina pana e nimi "pona" tawa mi? → tan seme la sina pana e nimi pona tawa mi? |
+|:-|
+| *Why do you call me good?* → *Why do you praise me?* |
+
+[**Sonja**](lipu-pi-toki-pona.md#lesson-12) removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ. ([**Pije**](http://tokipona.net/tp/janpije/okamasona16.php) doesn't remove the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇs with "nanpa", i.e. leaving them as ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs.)
 
 | toki pi nanpa wan → toki nanpa wan |
 |:-|
