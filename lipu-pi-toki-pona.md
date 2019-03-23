@@ -329,5 +329,10 @@
 * kama lon tenpo sewi - to inherit eternal life
 * 👍 pana e nimi pona tawa - to praise
 * jan ala - no one
+* ijo ala - nothing
+
+## The Qur'an
+
+* kalama sewi - recital
 
 ## Official Toki Pona Dictionary

@@ -134,6 +134,12 @@ In a [genitive](#genitive) ᴄʟᴀᴜꜱᴇ, "ijo" before a ᴄᴏʀʀᴇʟᴀ�
 |:-|:-|
 | *parent of everything* | *every parent* |
 
+Sometimes, [**Sonja**](lipu-pi-toki-pona.md#the-quran) doesn't omit "ijo" in "ijo ala".
+
+| ijo ala li sama ona. | sewi li lon ala, li lon ale. |
+|:-|:-|
+| *Nothing is like [God].* | *God is the tangential point between zero and infinity. (Alfred Jarry)* |
+
 ##### CLAUSE
 *(mute [nimi](#nimi) poka)*
 
