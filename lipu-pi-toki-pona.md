@@ -318,4 +318,8 @@
 |:--| 
 | *sina ken ala toki e ijo lon toki pona, la sina sona pona ala e ona.* | 
 
+## The Torah
+
+
+
 ## Official Toki Pona Dictionary
