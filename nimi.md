@@ -134,7 +134,7 @@ In a [genitive](#genitive) ᴄʟᴀᴜꜱᴇ, "ijo" before a ᴄᴏʀʀᴇʟᴀ�
 |:-|:-|
 | *parent of everything* | *every parent* |
 
-Sometimes, [**Sonja**](lipu-pi-toki-pona.md#the-quran) doesn't omit "ijo" in "ijo ala".
+🤔 [**Sonja**](lipu-pi-toki-pona.md#the-quran) doesn't use "ala" as a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ, i.e. she distinguishes between "nothing" ("ijo ala") and "nothingness" (ala).
 
 | ijo ala li sama ona. | sewi li lon ala, li lon ale. |
 |:-|:-|
