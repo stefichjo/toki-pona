@@ -286,7 +286,7 @@ When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘ�
 |:-|
 | *You look like a bird.* |
 
-👎 [ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#spatial-adjective)s can become a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ implying "lon". [**Pije**](http://tokipona.net/tp/janpije/okamasona7.php) introduces "poka" as a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ.
+👎 [ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#spatial-adjective)s can become a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ implying "lon".
 
 | mi tawa lon poka sina. → mi tawa poka sina. |
 |:-|

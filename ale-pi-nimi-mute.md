@@ -169,12 +169,6 @@ Context in **quotation marks** is mandatory.
 
 ---
 
-👎 In his copy of the official [Toki Pona Dictionary](http://tokipona.net/tp/janpije/dictionary.php), **Pije** omits the word "official" before "Toki Pona book".
-
-| pu |
-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ **interacting with the official Toki Pona book** → **interacting with the Toki Pona book** |
-
 🤔 **Sonja** refers to "Pu" either as "the Toki Pona book" or "the official Toki Pona book".
 
 * [**consulting the Toki Pona book**](lipu-pi-toki-pona.md#lesson-6), [**consulting the official Toki Pona book**](lipu-pi-toki-pona.md#lesson-11), [**holding the Toki Pona book**](lipu-pi-toki-pona.md#preface), [**reading the official Toki Pona book**](lipu-pi-toki-pona.md#lesson-7), [**touching the official Toki Pona book**](lipu-pi-toki-pona.md#lesson-7), [**using the Toki Pona book**](lipu-pi-toki-pona.md#lesson-6)
