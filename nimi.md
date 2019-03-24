@@ -604,6 +604,12 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 |:-|
 | *May she sleep well.* |
 
+🤔 [**Sonja**](lipu-pi-toki-pona.md#short-obligatory-prayer) avoids interrupting a sentence with a **vocative**.
+
+| mi toki wawa e ni, jan sewi o: … → jan sewi o! mi toki wawa e ni: … |
+|:-|
+| *I bear witness, O my God, that …* |
+
 #### Genitive
 *([nimi lili luka](#transitive-particle) "pi")*
 

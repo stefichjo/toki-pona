@@ -342,6 +342,11 @@
 * nasin lawa - code of laws
 * ilo sitelen - pen
 * toki sewi - revelation
-* kepeken sona - meditate
+* kepeken sona - meditating
+* jo lili - poor
+* jo mute - wealthy
+* lon la sina lon. - You [are] the Self-Subsisting.
+
+## Short Obligatory Prayer
 
 ## Official Toki Pona Dictionary
