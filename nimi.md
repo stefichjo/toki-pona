@@ -134,9 +134,9 @@ In a [genitive](#genitive) ᴄʟᴀᴜꜱᴇ, "ijo" before a ᴄᴏʀʀᴇʟᴀ�
 |:-|:-|
 | *parent of everything* | *every parent* |
 
-🤔 [**Sonja**](lipu-pi-toki-pona.md#the-quran) doesn't use "ala" as a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ, i.e. she distinguishes between "nothing" ("ijo ala") and "nothingness" (ala).
+🤔 [**Sonja**](lipu-pi-toki-pona.md#the-quran) doesn't use "ala" as a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ, i.e. she distinguishes between "nothing" ("ijo ala") and "nothingness" (ala). ([**Pije**](http://tokipona.net/tp/janpije/okamasona8.php) doesn't make that distinction and uses "ala" as a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ, i.e. it implies "ijo" by default.)
 
-| ijo ala li sama ona. | sewi li lon ala, li lon ale. |
+| ala li sama ona. → ijo ala li sama ona. | sewi li lon ala, li lon ale. |
 |:-|:-|
 | *Nothing is like [God].* | *God is the tangential point between zero and infinity. (Alfred Jarry)* |
 
