@@ -339,4 +339,9 @@
 
 ## Writings of Bahá'u'lláh
 
+* nasin lawa - code of laws
+* ilo sitelen - pen
+* toki sewi - revelation
+* kepeken sona - meditate
+
 ## Official Toki Pona Dictionary
