@@ -123,6 +123,7 @@
 * tenpo pimeja ni - tonight
 * soweli wawa - bear
 * tenpo suno kama - tomorrow
+* pilin pona - feeling good
 
 ## Lesson 15
 *(Spatial Nouns)*
