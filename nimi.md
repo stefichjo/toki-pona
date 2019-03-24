@@ -140,6 +140,12 @@ Sometimes, [**Sonja**](lipu-pi-toki-pona.md#the-quran) doesn't omit "ijo" in "ij
 |:-|:-|
 | *Nothing is like [God].* | *God is the tangential point between zero and infinity. (Alfred Jarry)* |
 
+🤔 ([**Sonja**](lipu-pi-toki-pona.md#the-gospel) translates "a certain" without a proper ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ.
+
+| jan lawa wan → jan lawa |
+|:-|
+| *a certain ruler* |
+
 ##### CLAUSE
 *(mute [nimi](#nimi) poka)*
 
