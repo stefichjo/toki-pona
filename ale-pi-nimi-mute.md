@@ -15,15 +15,11 @@ Context in **quotation marks** is mandatory.
 |:-|:-|
 | ɴᴏᴜɴ ("lon -") **between** | *The house is between two mountains.* |
 
-🤔 — Suggested mandatory context.
+🤔 — Suggested context/alternative.
 
 | moli | ona li kama moli. → ona li moli. |
 |:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ 🤔 (kama -) **dying** | *He died.* |
-
-🤔 **Sonja** refers to "Pu" either as "the Toki Pona book" or "the official Toki Pona book".
-
-* [**consulting the Toki Pona book**](lipu-pi-toki-pona.md#lesson-6), [**consulting the official Toki Pona book**](lipu-pi-toki-pona.md#lesson-11), [**holding the Toki Pona book**](lipu-pi-toki-pona.md#preface), [**reading the official Toki Pona book**](lipu-pi-toki-pona.md#lesson-7), [**touching the official Toki Pona book**](lipu-pi-toki-pona.md#lesson-7), [**using the Toki Pona book**](lipu-pi-toki-pona.md#lesson-6)
 
 ---
 
@@ -170,5 +166,3 @@ Context in **quotation marks** is mandatory.
 | <img src="musi/sitelen/pona/wawa.png" height="42" title="vahva">     | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | lili — ale, mute, suli, **wawa** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**independent**](lipu-pi-toki-pona.md#the-quran), [**mighty**](lipu-pi-toki-pona.md#short-obligatory-prayer), **powerful**, [**stable**](lipu-pi-toki-pona.md#lesson-15), **strong**; 🤔 (toki -) certain, **confident**, [**dependable**](lipu-pi-toki-pona.md#lesson-4), [**reliable**](lipu-pi-toki-pona.md#lesson-5), **sure**; **energetic**, ("tawa -") fast, ("kalama -") [**loud**](lipu-pi-toki-pona.md#lesson-17), **intense**, ɴᴏᴜɴ [**might**](lipu-pi-toki-pona.md#writings-of-baháulláh), [**power**](lipu-pi-toki-pona.md#writings-of-baháulláh), ᴠᴇʀʙ  [**strengthen**](lipu-pi-toki-pona.md#lesson-6); 🤔 (toki -, - e toki) [**to bear witness that**](lipu-pi-toki-pona.md#writings-of-baháulláh) |
 | <img src="musi/sitelen/pona/weka.png" height="42" title="weĥ">     | [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#spatial-adjective) | **weka** — insa, monsi, poka, sike, sinpin | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**; isolated, **ignored**, ᴠᴇʀʙ [**to eliminate**](lipu-pi-toki-pona.md#famous-quotations), [**erase**](lipu-pi-toki-pona.md#toki-pona-proverbs), [**omit**](lipu-pi-toki-pona.md#famous-quotations), [**remove**](lipu-pi-toki-pona.md#toki-pona-proverbs), (- e nanpa) skip, ɴᴏᴜɴ absence, [**isolation**](lipu-pi-toki-pona.md#toki-pona-proverbs), ("lon -") without → ɴᴏᴜɴ ("lon -") away from, distance |
 | <img src="musi/sitelen/pona/wile.png" height="42" title="wile"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nimi.md#pre-verb) | ken, **wile** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inevitable, necessary, ᴠᴇʀʙ to enforce + ᴘʀᴇ-ᴠᴇʀʙ **must**, **need**, **require**, **should**, **want**, **wish**, ᴠᴇʀʙ to need, require, want, wish |
-
-
