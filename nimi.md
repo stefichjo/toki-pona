@@ -684,7 +684,7 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 
 👎 According to [**Pije**](http://tokipona.net/tp/janpije/okamasona12.php), ꜱᴇɴᴛᴇɴᴄᴇs with "anu seme" have the conotation of "or what".
 
-| ona li mama anu seme? |
+| ona li mama anu seme mu? → ona li mama anu seme? |
 |:-|
 | *Is she a parent or what?* |
 
