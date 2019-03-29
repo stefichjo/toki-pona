@@ -272,7 +272,7 @@ When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘ�
 
 | mi tawa e ona tawa tomo. → mi tawa tomo e ona. | mi tawa ala e ona tawa tomo. → mi tawa ala tomo e ona. | mi tawa wawa e ona tawa tomo. |
 |:-|:-|:-|
-| *I'm moving it home.* | *I'm not moving it home.* | *I'm not moving home fast.* |
+| *I'm moving it home.* | *I'm not moving it home.* | *I'm moving it home fast.* |
 
 👍 "ijo" + [ɴᴏᴜɴ](#noun) can express possession or topic.
 
