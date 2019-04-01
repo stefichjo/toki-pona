@@ -140,11 +140,20 @@ In a [genitive](#genitive) ᴄʟᴀᴜꜱᴇ, "ijo" before a ᴄᴏʀʀᴇʟᴀ�
 |:-|:-|
 | *Nothing is like [God].* | *God is the tangential point between zero and infinity. (Alfred Jarry)* |
 
-🤔 ([**Sonja**](lipu-pi-toki-pona.md#the-gospel) translates "a certain" without a proper ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ.
+##### ARTICLE
+*([nimi suli poka palisa](#correlative) sona)*
 
-| jan lawa wan → jan lawa |
+There are no ᴀʀᴛɪᴄʟᴇs in **Toki Pona**.
+
+| jan lawa |
 |:-|
-| *a certain ruler* |
+| *a/the ruler* |
+
+([**Sonja**](lipu-pi-toki-pona.md#the-gospel) treats "a certain" like an ᴀʀᴛɪᴄʟᴇ, i.e. she leaves it untranslated.
+
+| jan lawa wan ⇒ jan lawa |
+|:-|
+| *a certain ruler* ⇒ *a/the ruler* |
 
 ##### CLAUSE
 *(mute [nimi](#nimi) poka)*
