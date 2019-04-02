@@ -68,7 +68,6 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 | [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#thing-adjective) |
 | [ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#person-adjective) |
 | [ɴᴜᴍʙᴇʀ](#number) |
-| [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
 
 By default, an ᴀᴅᴊᴇᴄᴛɪᴠᴇ means "being ...ing", and it implies "tenpo" as a [ɴᴏᴜɴ](#noun).
 
