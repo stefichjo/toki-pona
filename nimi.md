@@ -14,7 +14,7 @@ In the spirit of [Lesson 19 — The Frontier](lipu-pi-toki-pona.md#lesson-19), t
 | [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) |
 | [ᴘᴀʀᴛɪᴄʟᴇ](#particle) |
 
-The following ᴡᴏʀᴅ ᴄʟᴀꜱꜱes exist:
+The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**]([nimi](#toki-pona-word-classes-and-parts-of-speech)es exist:
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
   * [**ɴᴏᴜɴ**](#noun): [**ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ**](#simple-noun) ([**ᴘʀᴏɴᴏᴜɴ**](#pronoun))
