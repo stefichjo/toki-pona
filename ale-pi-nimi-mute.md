@@ -3,26 +3,26 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-This dictionary contains all definitions (**bold**) as provided by [the official Toki Pona dictionary](http://tokipona.net/tp/janpije/dictionary.php) plus translations ([**bold+blue**](lipu-pi-toki-pona.md)) found in its corpus. In an attempt to illustrate the full potential of a **Toki Pona** word, more plausible translations have been added.
+This dictionary contains all definitions (**bold**) as provided by [the official Toki Pona dictionary](http://tokipona.net/tp/janpije/dictionary.php) plus translations ([**bold+blue**](lipu-pi-toki-pona.md)) found in the corpus. In an attempt to illustrate the full potential of all **Toki Pona** words, more plausible translations have been added.
 
-ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ derived according their [ᴡᴏʀᴅ ᴄʟᴀꜱꜱ](nimi.md)es are separated by an arrow (→).
+ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ derived according their [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nimi.md)es are separated by an *arrow* (→).
 
 |||||
 |:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/suwi.png" height="42" title="swit"> | [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#thing-adjective) | **suwi** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sweet** → ɴᴏᴜɴ [**sweets**](lipu-pi-toki-pona.md#lesson-16) |
 
-**Pona Style** is indicated by a double arrow (⇒).
+**Context** is provided in *parenthesis*. **Mandatory elements** are provided in *quotation marks*.
 
-||
+||||
 |:-|:-|:-|
-| <img src="musi/sitelen/pona/anpa.png" height="42" title="an-ba"> | **anpa** | (⇒ noka) ɴᴏᴜɴ area below or under |
-| <img src="musi/sitelen/pona/noka.png" height="42" title="noga"> | **noka** | (⇐ anpa) ɴᴏᴜɴ [**area below or under**](lipu-pi-toki-pona.md#lesson-15) |
+| <img src="musi/sitelen/pona/sinpin.png" height="42" title="cinpin"> | **sinpin** | **front**; (- lawa) **face**; ("lon" -) [**in front of**](lipu-pi-toki-pona.md#lesson-15) |
 
-Context is provided in *parenthesis*. Mandatory elements are provided in *quotation marks*.
+**Pona Style** is indicated by a *double arrow* (⇒).
 
-| sinpin; sinpin lawa ⇒ sinpin; lon sinpin |
-|:-|
-| **front**; (- lawa) **face**; ("lon" -) [**in front of**](lipu-pi-toki-pona.md#lesson-15) |
+||||
+|:-|:-|:-|
+| <img src="musi/sitelen/pona/anpa.png" height="42" title="an-ba"> | **anpa** | (⇒ noka) area below or under |
+| <img src="musi/sitelen/pona/noka.png" height="42" title="noga"> | **noka** | (⇐ anpa) [**area below or under**](lipu-pi-toki-pona.md#lesson-15) |
 
 ---
 
