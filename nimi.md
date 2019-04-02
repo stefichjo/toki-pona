@@ -736,13 +736,19 @@ At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, "ni" in front of a [ꜱᴜʙᴏ
 |:-|
 | *People are good to me, because I'm good to people.* → *Because I'm good to people, people are good to me.* |
 
-👍 "taso" is a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ. I can be thought of an abbreviation of "taso ni la", with "taso" being a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition).
+👍 "taso" is a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ. It can be thought of an abbreviation of "taso ni la", with "taso" being a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition).
 
 | taso ni la mije en meli li pali li pilin pona. → taso mije en meli li pali li pilin pona. |
 |:-|
 | *But men and women are working and are happy.* |
 
-👎 The **comma** before "la" can e ommitted. [**Pije**](http://tokipona.net/tp/janpije/okamasona17.php) never uses a **comma** before "la".
+👎 When the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "lon" expresses context, it must be replaced with the ᴘᴀʀᴛɪᴄʟᴇ "la".
+
+| o awen lon loje, o tawa lon laso. → loje la o awen, laso la o tawa. |
+|:-|
+| *Stop at red, walk at green.* |
+
+👎 The **comma** before "la" can e omitted. [**Pije**](http://tokipona.net/tp/janpije/okamasona17.php) never uses a **comma** before "la".
 
 | mi pona e ale mi, la mi pona e mi. → mi pona e ale mi la mi pona e mi. |
 |:-|
@@ -759,3 +765,4 @@ At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, "ni" in front of a [ꜱᴜʙᴏ
 | sina pana e ike, la sina kama jo e ike. → sina pana e ike la, sina kama jo e ike. |
 |:-|
 | *What goes around, comes around.* |
+
