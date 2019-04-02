@@ -35,7 +35,7 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 * ꜱᴇɴᴛᴇɴᴄᴇ
 
 # CONTENT WORD
-*([nimi](#toki-pona-parts-of-speech) suli)*
+*([nimi](#toki-pona-word-classes-and-parts-of-speech) suli)*
 
 | |
 |:-|
@@ -152,7 +152,7 @@ There are no ᴀʀᴛɪᴄʟᴇs in **Toki Pona**.
 | *a certain ruler* ⇒ *a/the ruler* |
 
 ##### CLAUSE
-*(mute [nimi](#nimi) poka)*
+*(mute [nimi](#toki-pona-word-classes-and-parts-of-speech) poka)*
 
 A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ that can be thought of as a string of [ꜱɪᴍᴘʟᴇ  ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle)s following the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "ni" (i.e. the **sound**, that "ni" produces). **Sonja** uses ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs only at the end of a ꜱᴇɴᴛᴇɴᴄᴇ.
 
@@ -348,7 +348,7 @@ When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘ�
 | *visible* | *transparent* |
 
 # PARTICLE
-*([nimi](#toki-pona-parts-of-speech) lili)*
+*([nimi](#toki-pona-word-classes-and-parts-of-speech) lili)*
 
 | |
 |:-|
