@@ -16,14 +16,14 @@ In the spirit of [Lesson 19 — The Frontier](lipu-pi-toki-pona.md#lesson-19), t
 
 The following ᴡᴏʀᴅ ᴄʟᴀꜱꜱes exist:
 
-* ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ
-  * ɴᴏᴜɴ: ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ
-  * ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ, ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ (ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ, ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ, ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ), ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ, ɴᴜᴍʙᴇʀ
-  * ᴠᴇʀʙ: ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ, ᴛʜɪɴɢ ᴠᴇʀʙ, ᴛᴏᴏʟ ᴠᴇʀʙ, ᴘʀᴇ-ᴠᴇʀʙ
-  * ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ
-* ᴘᴀʀᴛɪᴄʟᴇ
-  * ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ: ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ
-  * ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇ: ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ, ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ, ᴘʀᴇ-ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ
+* [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)
+  * [ɴᴏᴜɴ](#noun): [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](#simple-noun)
+  * [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective): [ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#simple-adjective), [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#thing-adjective) ([ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative), [ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#spatial-adjective), [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#life-form-adjective)), [ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#person-adjective), [ɴᴜᴍʙᴇʀ](#number)
+  * [ᴠᴇʀʙ](#verb): [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](#simple-verb), [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-verb), [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb), [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb)
+  * [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)
+* [ᴘᴀʀᴛɪᴄʟᴇ](#particle)
+  * [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle): [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection)
+  * [ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇ](#transitive-particle): [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#phrase-particle), [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction), [ᴘʀᴇ-ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#pre-phrase-particle)
 
 They determine how (and if) a word can be used as one or more of these ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ:
 
