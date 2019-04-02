@@ -61,7 +61,7 @@ By default, an ᴀᴅᴊᴇᴄᴛɪᴠᴇ means "being ...ing", and it implies "
 |:-|
 | *People are more important.* |
 
-[**Sonja**](lipu-pi-toki-pona.md#lesson-6) uses the term ᴀᴅᴊᴇᴄᴛɪᴠᴇ for ᴀᴅᴠᴇʀʙꜱ, too.
+[**Sonja**](lipu-pi-toki-pona.md#lesson-6) uses the term "ᴀᴅᴊᴇᴄᴛɪᴠᴇ" for ᴀᴅᴠᴇʀʙꜱ, too.
 
 | mute | pona mute |
 |:-|:-|
@@ -158,9 +158,9 @@ A question can be a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
 |:-|:-|
 | *the man, who dances with wolves* | *the man, whom I am looking at* |
 
-👍 Questions with the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "seme" can be thought of as ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs with an omitted ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ "o toki e ni".
+👍 Questions with the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "seme" can be thought of as ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs with an omitted ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ "o toki e ni tawa mi".
 
-| o toki e ni: mani li lon seme! → mani li lon seme? |
+| o toki e ni tawa mi: mani li lon seme! → mani li lon seme? |
 |:-|
 | *Tell me where the money is!* → *Where is the money?* |
 
