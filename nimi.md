@@ -1,18 +1,38 @@
-# Toki Pona Parts of Speech
+# Toki Pona Word Classes and Parts of Speech
 *(nimi)*
+
+This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
+
+👍 — In the spirit of [Chapter 19 — The Frontier](lipu-pi-toki-pona.md), this document tries to explore the potential of **Toki Pona**'s grammar.
+
+| o luka ala e lipu Pu! |
+|:-|
+| *Don't touch the official Toki Pona book!* |
 
 | |
 |:-|
 | [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) |
 | [ᴘᴀʀᴛɪᴄʟᴇ](#particle) |
 
-This **Toki Pona Grammar** is based on [Toki Pona: The Language of Good](http://www.amazon.com/gp/product/0978292308) (the **Toki Pona Book**) by **Sonja Lang**, the creator of Toki Pona. Its scope is to enable you to read the [Toki Pona Dictionary](ale-pi-nimi-mute.md).
+The following ᴡᴏʀᴅ ᴄʟᴀꜱꜱes exist:
 
-👍 — Sections about **"Experimental Language"** describe "pu-compliant" ways of using the language, even though they are not mentioned explicitly in the **Toki Pona Book**.
+* ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ
+  * ɴᴏᴜɴ: ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ
+  * ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ, ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ (ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ, ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ, ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ), ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ, ɴᴜᴍʙᴇʀ
+  * ᴠᴇʀʙ: ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ, ᴛʜɪɴɢ ᴠᴇʀʙ, ᴛᴏᴏʟ ᴠᴇʀʙ, ᴘʀᴇ-ᴠᴇʀʙ
+  * ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ
+* ᴘᴀʀᴛɪᴄʟᴇ
+  * ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ: ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ
+  * ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇ: ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ, ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ, ᴘʀᴇ-ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ
 
-| o luka ala e seli! |
-|:-|
-| *Don't touch the fire!* |
+They determine how (and if) a word can be used as one or more of these ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ:
+
+* ɴᴏᴜɴ
+* ᴀᴅᴊᴇᴄᴛɪᴠᴇ
+* ᴠᴇʀʙ
+* ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ
+* ᴘᴀʀᴛɪᴄʟᴇ
+* ꜱᴇɴᴛᴇɴᴄᴇ
 
 # CONTENT WORD
 *([nimi](#toki-pona-parts-of-speech) suli)*
@@ -22,6 +42,7 @@ This **Toki Pona Grammar** is based on [Toki Pona: The Language of Good](http://
 | [ɴᴏᴜɴ](#noun) |
 | [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective) |
 | [ᴠᴇʀʙ](#verb) |
+| [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
 
 ## NOUN
 *([nimi suli](#content-word) lawa)*
@@ -214,45 +235,6 @@ As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "jan
 |:-|:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ two → ɴᴏᴜɴ pair | *fourteen days*, *two times five days, plus four* | *three elements of two pairs*, *three quarters* |
 
-### PREPOSITION
-*([nimi suli poka](#adjective) luka)*
-
-ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are ᴀᴅᴊᴇᴄᴛɪᴠᴇs with an additional ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ.
-
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ moving → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ going to, towards; for |
-
-ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs follow [ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ](#particle)s.
-
-| mi pana e kili tawa sina. |
-|:-|
-| *I'm giving you an apple.* |
-
-When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped. A ᴘᴀʀᴛɪᴄʟᴇ can be added to the ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but no other ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
-
-| mi tawa tawa tomo. → mi tawa tomo. | mi tawa ala tawa tomo. → mi tawa ala tomo. | mi tawa wawa tawa tomo. |
-|:-|:-|:-|
-| *I'm going home.* | *I'm not going home.* | *I'm running home.* |
-
-**Sonja** uses ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs only at the end of **predicates** and (safely) removes the **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs. Instead of nested ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s (or [genitive phrase](#genitive)s).
-
-| mi toki tawa sina, lon tomo. → mi toki tawa sina lon tomo. | jan lon poka → jan poka |
-|:-|:-|
-| *I'm talking to you at home.* | *neighbour* |
-
-👍 When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped and the [direct object phrase](#direct-object) goes to the end of the ꜱᴇɴᴛᴇɴᴄᴇ. The ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ can be thought of being used as a ᴠᴇʀʙ.
-
-| mi tawa e ona tawa tomo. → mi tawa tomo e ona. | mi tawa ala e ona tawa tomo. → mi tawa ala tomo e ona. | mi tawa wawa e ona tawa tomo. |
-|:-|:-|:-|
-| *I'm moving it home.* | *I'm not moving it home.* | *I'm moving it home fast.* |
-
-👍 "ijo" + [ɴᴏᴜɴ](#noun) can express possession or topic.
-
-| lipu ni li ijo mi. | lipu ni li toki e ijo mi. |
-|:-|:-|
-| *This book is mine.* | *This book is about me.* |
-
 ## VERB
 *([nimi suli](#content-word) wawa)*
 
@@ -274,18 +256,6 @@ When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘ�
 | ona li pali ale e tomo. → ona li pali e tomo. |
 |:-|
 | *She was doing all the work on a house.* → *She has built a house.* |
-
-"pona (tawa)" + ᴠᴇʀʙ expresses that something is worth being done.
-
-| pona tawa lukin → pona lukin |
-|:-|
-| *good for the eye* → *worth seeing*, *beautiful* |
-
-👍 "insa (tawa)" + ᴠᴇʀʙ expresses that something is do-able, whereas "open (tawa)" + ᴠᴇʀʙ expresses that something is not obstructing the performance of the action described by the ᴠᴇʀʙ.
-
-| insa lukin | open lukin |
-|:-|:-|
-| *visible* | *transparent* |
 
 ### SIMPLE VERB
 *([nimi suli wawa](#verb) pona)*
@@ -326,6 +296,57 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 | ᴠᴇʀʙ + ᴘʀᴇ-ᴠᴇʀʙ lukin | mi lukin e ni: mi lape. → mi lukin lape. |
 |:-|:-|
 | ᴠᴇʀʙ *to see* + ᴘʀᴇ-ᴠᴇʀʙ *to try to*, ᴠᴇʀʙ *to care for* | *I try to sleep.* |
+
+## PREPOSITION
+*([nimi suli](#content-word) luka)*
+
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are like [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s with an additional [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun).
+
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
+|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ moving → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ going to, towards; for |
+
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs follow [ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ](#particle)s.
+
+| mi pana e kili tawa sina. |
+|:-|
+| *I'm giving you an apple.* |
+
+When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped. A ᴘᴀʀᴛɪᴄʟᴇ can be added to the ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but no other ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
+
+| mi tawa tawa tomo. → mi tawa tomo. | mi tawa ala tawa tomo. → mi tawa ala tomo. | mi tawa wawa tawa tomo. |
+|:-|:-|:-|
+| *I'm going home.* | *I'm not going home.* | *I'm running home.* |
+
+**Sonja** uses ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs only at the end of **predicates** and (safely) removes the **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs. Instead of nested ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s (or [genitive phrase](#genitive)s).
+
+| mi toki tawa sina, lon tomo. → mi toki tawa sina lon tomo. | jan lon poka → jan poka |
+|:-|:-|
+| *I'm talking to you at home.* | *neighbour* |
+
+"pona (tawa)" + ᴠᴇʀʙ expresses that something is worth being done.
+
+| pona tawa lukin → pona lukin |
+|:-|
+| *good for the eye* → *worth seeing*, *beautiful* |
+
+👍 When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped and the [direct object phrase](#direct-object) goes to the end of the ꜱᴇɴᴛᴇɴᴄᴇ. The ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ can be thought of being used as a ᴠᴇʀʙ.
+
+| mi tawa e ona tawa tomo. → mi tawa tomo e ona. | mi tawa ala e ona tawa tomo. → mi tawa ala tomo e ona. | mi tawa wawa e ona tawa tomo. |
+|:-|:-|:-|
+| *I'm moving it home.* | *I'm not moving it home.* | *I'm moving it home fast.* |
+
+👍 "ijo" + [ɴᴏᴜɴ](#noun) can express possession or topic.
+
+| lipu ni li ijo mi. | lipu ni li toki e ijo mi. |
+|:-|:-|
+| *This book is mine.* | *This book is about me.* |
+
+👍 "insa (tawa)" + ᴠᴇʀʙ expresses that something is do-able, whereas "open (tawa)" + ᴠᴇʀʙ expresses that something is not obstructing the performance of the action described by the ᴠᴇʀʙ.
+
+| insa lukin | open lukin |
+|:-|:-|
+| *visible* | *transparent* |
 
 # PARTICLE
 *([nimi](#toki-pona-parts-of-speech) lili)*

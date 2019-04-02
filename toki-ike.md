@@ -230,3 +230,11 @@
 |:-|
 | *Is she a parent?* |
 
+
+🤔 — Suggested context/alternative.
+
+| moli | ona li kama moli. → ona li moli. |
+|:-|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ 🤔 (kama -) **dying** | *He died.* |
+
++ kama ante (change)
