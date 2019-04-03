@@ -3,7 +3,7 @@
 ## Preface
 
 * toki insa - thought
-* ilo lipu - the Web
+* ilo lipu - the Web; 👍 browser, editor
 * 👍 lipu sona - web page, the Web
 
 ## What Is Toki Pona?

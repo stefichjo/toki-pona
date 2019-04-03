@@ -3,7 +3,7 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-This dictionary contains all definitions (**bold**) as provided by [the official Toki Pona dictionary](http://tokipona.net/tp/janpije/dictionary.php) plus translations ([**bold+blue**](lipu-pi-toki-pona.md)) found in the corpus. In an attempt to illustrate the full potential of all **Toki Pona** words, more plausible translations have been added.
+This dictionary contains all definitions (**bold**) as provided by [the official Toki Pona dictionary](http://tokipona.net/tp/janpije/dictionary.php) plus translations ([**bold+blue**](lipu-pi-toki-pona.md)) found in the corpus. In an attempt to illustrate the full potential of all **Toki Pona** words, more plausible translations have been added (*italic*).
 
 ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ derived according their [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nimi.md)es are separated by an *arrow* (→).
 
@@ -21,23 +21,23 @@ This dictionary contains all definitions (**bold**) as provided by [the official
 
 ||||
 |:-|:-|:-|
-| <img src="musi/sitelen/pona/anpa.png" height="42" title="an-ba"> | **anpa** | (⇒ noka) area below or under |
+| <img src="musi/sitelen/pona/anpa.png" height="42" title="an-ba"> | **anpa** | (⇒ noka) *area below or under* |
 | <img src="musi/sitelen/pona/noka.png" height="42" title="noga"> | **noka** | (⇐ anpa) [**area below or under**](lipu-pi-toki-pona.md#lesson-15) |
 
 ---
 
 | sitelen | paradigm | word | meaning |
 |:-|:-|:-|:-|
-| <img src="musi/sitelen/pona/a.png" height="42" title="ha">        | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nimi.md#interjection) | mu — **a**, ala | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, [**(emotion word)**](lipu-pi-toki-pona.md#lesson-10), indeed, [**so**](lipu-pi-toki-pona.md#lesson-10) → ꜱᴇɴᴛᴇɴᴄᴇ [**ha**](lipu-pi-toki-pona.md#lesson-10), [**wow**](lipu-pi-toki-pona.md#lesson-10), [**yay**](lipu-pi-toki-pona.md#lesson-13), yes |
-| <img src="musi/sitelen/pona/akesi.png" height="42" title="hagedis">    | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#life-form-adjective) | **akesi** — soweli | ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded; not using Toki Pona in a Toki Pona context → ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; monster |
-| <img src="musi/sitelen/pona/ala.png" height="42" title="ara">      | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nimi.md#interjection) | mu — a, **ala** | ᴘᴀʀᴛɪᴄʟᴇ (negation), **not** → ꜱᴇɴᴛᴇɴᴄᴇ no |
-|                                                                 | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nimi.md#correlative) | **ala**, ale, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ (lon -) false, **no**, non-, ɴᴏᴜɴ [**nothingness**](lipu-pi-toki-pona.md#lesson-6) → ɴᴏᴜɴ nothing |
-|                                                                 | [**ɴᴜᴍʙᴇʀ**](nimi.md#number) | **ala**, ale, esun, luka, mute, tu, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**0**](lipu-pi-toki-pona.md#lesson-12), **zero** → ɴᴏᴜɴ none, [**zero**](lipu-pi-toki-pona.md#famous-quotations) |
+| <img src="musi/sitelen/pona/a.png" height="42" title="ha">        | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nimi.md#interjection) | mu — **a**, ala | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, [**(emotion word)**](lipu-pi-toki-pona.md#lesson-10), *indeed*, [**so**](lipu-pi-toki-pona.md#lesson-10) → ꜱᴇɴᴛᴇɴᴄᴇ [**ha**](lipu-pi-toki-pona.md#lesson-10), [**wow**](lipu-pi-toki-pona.md#lesson-10), [**yay**](lipu-pi-toki-pona.md#lesson-13), *yes* |
+| <img src="musi/sitelen/pona/akesi.png" height="42" title="hagedis">    | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#life-form-adjective) | **akesi** — soweli | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*; *not using Toki Pona in a Toki Pona context* → ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; *monster* |
+| <img src="musi/sitelen/pona/ala.png" height="42" title="ara">      | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nimi.md#interjection) | mu — a, **ala** | ᴘᴀʀᴛɪᴄʟᴇ *(negation)*, **not** → ꜱᴇɴᴛᴇɴᴄᴇ *no* |
+|                                                                 | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nimi.md#correlative) | **ala**, ale, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ (lon -) *false*, **no**, *non-*, ɴᴏᴜɴ [**nothingness**](lipu-pi-toki-pona.md#lesson-6) → ɴᴏᴜɴ *nothing* |
+|                                                                 | [**ɴᴜᴍʙᴇʀ**](nimi.md#number) | **ala**, ale, esun, luka, mute, tu, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**0**](lipu-pi-toki-pona.md#lesson-12), **zero** → ɴᴏᴜɴ *none*, [**zero**](lipu-pi-toki-pona.md#famous-quotations) |
 | <img src="musi/sitelen/pona/alasa.png" height="42" title="a-la-ŝas">    | [**ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ**](nimi.md#simple-verb) | **alasa**, pali, olin, unpa | ᴠᴇʀʙ **to hunt**, **forage** |
-| <img src="musi/sitelen/pona/ale.png" height="42" title="ale">      | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nimi.md#correlative) | ala, **ale**, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ (mute -) **every**; (wan -) **all**, entire, whole → ɴᴏᴜɴ **everything**; **life**, **universe** |
-|                                                                 | [**ɴᴜᴍʙᴇʀ**](nimi.md#number) | ala, **ale**, esun, luka, mute, tu, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](lipu-pi-toki-pona.md#lesson-12), **countless**, infinite; [**100**](lipu-pi-toki-pona.md#lesson-12) → ɴᴏᴜɴ [**infinity**](lipu-pi-toki-pona.md#famous-quotations); huge amount |
+| <img src="musi/sitelen/pona/ale.png" height="42" title="ale">      | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nimi.md#correlative) | ala, **ale**, ni, seme, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ (mute -) **every**; (wan -) **all**, *entire*, *whole* → ɴᴏᴜɴ **everything**; **life**, **universe** |
+|                                                                 | [**ɴᴜᴍʙᴇʀ**](nimi.md#number) | ala, **ale**, esun, luka, mute, tu, wan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](lipu-pi-toki-pona.md#lesson-12), **countless**, *infinite*; [**100**](lipu-pi-toki-pona.md#lesson-12) → ɴᴏᴜɴ [**infinity**](lipu-pi-toki-pona.md#famous-quotations); *huge amount* |
 |                                                                 | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | lili — **ale**, mute, suli, wawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **bountiful**, **plentiful**, ɴᴏᴜɴ **abundance** |
-| <img src="musi/sitelen/pona/anpa.png" height="42" title="an-ba">     | [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#spatial-adjective) | **anpa** — sewi, noka — lawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bowing down**, **downward**, **humble**, **lowly**, [**powerless**](lipu-pi-toki-pona.md#short-obligatory-prayer); **dependent** → (⇒ noka) ɴᴏᴜɴ area below or under, ("lon" -) under; dependence |
+| <img src="musi/sitelen/pona/anpa.png" height="42" title="an-ba">     | [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#spatial-adjective) | **anpa** — sewi, noka — lawa | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bowing down**, **downward**, **humble**, **lowly**, [**powerless**](lipu-pi-toki-pona.md#short-obligatory-prayer); **dependent** → (⇒ noka) ɴᴏᴜɴ *area below or under*, ("lon" -) *under*; *dependence* |
 | <img src="musi/sitelen/pona/ante.png" height="42" title="ander">     | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nimi.md#preposition) | **ante** — sama | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **different**, **altered**, **changed**, **other**, (kama -) ɴᴏᴜɴ [**change**](lipu-pi-toki-pona.md#toki-pona-proverbs) → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ unlike |
 | <img src="musi/sitelen/pona/anu.png" height="42" title="an">      | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](nimi.md#conjunction) | **anu** — en | ᴘᴀʀᴛɪᴄʟᴇ (alternative), **or** |
 | <img src="musi/sitelen/pona/awen.png" height="42" title="hawen">     | [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#spatial-adjective) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nimi.md#pre-verb) | **awen**, kama, pini | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**, **protected**, **safe**; (- lon) **staying**, **waiting**, ᴠᴇʀʙ [**to help in peril**](lipu-pi-toki-pona.md#short-obligatory-prayer), keep, [**protect**](lipu-pi-toki-pona.md#lesson-15), safe → ɴᴏᴜɴ duration, ("lon" -) during + ᴘʀᴇ-ᴠᴇʀʙ **to continue to**, keep -ing, keep on -ing, ᴠᴇʀʙ to continue |
