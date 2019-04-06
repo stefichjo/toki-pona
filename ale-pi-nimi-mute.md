@@ -15,7 +15,7 @@ Members of the same ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ belong to the same [**ᴡᴏʀ�
 
 | ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ᴄʟᴀꜱꜱ | ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ | … |
 |:-|:-|:-|:-|
-| <img src="musi/sitelen/pona/ike.png" height="42"title="ilkea"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | pona — **ike**, nasa, pakala, utala | … |
+| <img src="musi/sitelen/pona/ike.png" height="42" title="ilkea"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | pona — **ike**, nasa, pakala, utala | … |
 | <img src="musi/sitelen/pona/nasa.png" height="42" title="nasau"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | pona — ike, **nasa**, pakala, utala | … |
 | <img src="musi/sitelen/pona/pakala.png" height="42" title="bagar-ap"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | pona — ike, nasa, **pakala**, utala | … |
 | <img src="musi/sitelen/pona/pona.png" height="42" title="bona"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | **pona** – ike, nasa, pakala, utala | … |
