@@ -9,7 +9,7 @@ This dictionary contains all definitions (**bold**) as provided by [the official
 
 | ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ᴄʟᴀꜱꜱ | ᴡᴏʀᴅ … | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
 |:-|:-|:-|:-|
-| <img src="musi/sitelen/pona/suwi.png" height="42" title="swit"> | [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#thing-adjective) | **suwi** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sweet** → ɴᴏᴜɴ [**sweets**](lipu-pi-toki-pona.md#lesson-16) |
+| <img src="musi/sitelen/pona/suwi.png" height="42" title="swit"> | [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#thing-adjective) | **suwi** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sweet** → <br>ɴᴏᴜɴ [**sweets**](lipu-pi-toki-pona.md#lesson-16) |
 
 Members of the same ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ belong to the same [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nimi.md). Antonyms are separated by a dash (—).
 
@@ -38,7 +38,7 @@ Members of the same ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ belong to the same [**ᴡᴏʀ�
 
 | ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ᴄʟᴀꜱꜱ | ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
 |:-|:-|:-|:-|
-| <img src="musi/sitelen/pona/a.png" height="42" title="ha">                                                                   | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nimi.md#interjection) | mu — **a**, ala                                                                 | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, [**(emotion word)**](lipu-pi-toki-pona.md#lesson-10), *indeed*, [**so**](lipu-pi-toki-pona.md#lesson-10), (- ⇒ ×) ᴀᴅᴊᴇᴄᴛɪᴠᴇ *actual* → ꜱᴇɴᴛᴇɴᴄᴇ [**ha**](lipu-pi-toki-pona.md#lesson-10), [**wow**](lipu-pi-toki-pona.md#lesson-10), [**yay**](lipu-pi-toki-pona.md#lesson-13), *yes* |
+| <img src="musi/sitelen/pona/a.png" height="42" title="ha">                                                                   | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nimi.md#interjection) | mu — **a**, ala                                                                 | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, [**(emotion word)**](lipu-pi-toki-pona.md#lesson-10), *indeed*, [**so**](lipu-pi-toki-pona.md#lesson-10), <br>(- ⇒ ×) ᴀᴅᴊᴇᴄᴛɪᴠᴇ *actual* → <br>ꜱᴇɴᴛᴇɴᴄᴇ [**ha**](lipu-pi-toki-pona.md#lesson-10), [**wow**](lipu-pi-toki-pona.md#lesson-10), [**yay**](lipu-pi-toki-pona.md#lesson-13), *yes* |
 | <img src="musi/sitelen/pona/akesi.png" height="42" title="hagedis">                                                         | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#life-form-adjective) | **akesi** — soweli                                                 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*; *not using Toki Pona in a Toki Pona context* → ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; *monster* |
 | <img src="musi/sitelen/pona/ala.png" height="42" title="ara">                                                               | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nimi.md#interjection) | mu — a, **ala**                                                                 | ᴘᴀʀᴛɪᴄʟᴇ *(negation)*, ᴀᴅᴊᴇᴄᴛɪᴠᴇ **not** → ꜱᴇɴᴛᴇɴᴄᴇ *no* |
 | | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nimi.md#correlative) | **ala**, ale, ni, seme, wan                                                       | ᴀᴅᴊᴇᴄᴛɪᴠᴇ (lon -) *false*, **no**, *non-*, ɴᴏᴜɴ [**nothingness**](lipu-pi-toki-pona.md#lesson-6) → ɴᴏᴜɴ *nothing* |
