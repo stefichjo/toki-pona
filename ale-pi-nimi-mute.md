@@ -9,7 +9,7 @@ This dictionary contains all definitions (**bold**) as provided by [the official
 
 |||||
 |:-|:-|:-|:-|
-| <img src="musi/sitelen/pona/suwi.png" height="42" title="swit"> | [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#thing-adjective) | **suwi** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sweet** → ɴᴏᴜɴ [**sweets**](lipu-pi-toki-pona.md#lesson-16) |
+| <img src="musi/sitelen/pona/suwi.png" height="42" title="swit">                                                              | [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#thing-adjective) | **suwi**                                                                  | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sweet** → ɴᴏᴜɴ [**sweets**](lipu-pi-toki-pona.md#lesson-16) |
 
 **Context** is provided in *parenthesis*. **Mandatory elements** are provided in *quotation marks*.
 
