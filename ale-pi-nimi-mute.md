@@ -7,7 +7,7 @@ This dictionary contains all definitions (**bold**) as provided by [the official
 
 ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ derived according their [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nimi.md)es are separated by an *arrow* (→).
 
-| ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ᴄʟᴀꜱꜱ | ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
+| ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ᴄʟᴀꜱꜱ | ᴡᴏʀᴅ … | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
 |:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/suwi.png" height="42" title="swit">                                                              | [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#thing-adjective) | **suwi**                                                                  | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sweet** → ɴᴏᴜɴ [**sweets**](lipu-pi-toki-pona.md#lesson-16) |
 
