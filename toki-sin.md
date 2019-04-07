@@ -24,10 +24,10 @@ Words in **Tok Bona** are very close to their etymological origin.
 
 | | | | |
 |:-|:-|:-|:-|
-<img src="musi/sitelen/pona/kule.png" height="42" title="kuler"> | kule | *FR* couleur | kuler |
-<img src="musi/sitelen/pona/luka.png" height="42" title="ruka"> | luka | *HR* rúka | ruka |
-<img src="musi/sitelen/pona/sin.png" height="42" title="ŝin"> | sin | *ZH* 新 /xīn/ | ŝin |
-<img src="musi/sitelen/pona/sijelo.png" height="42" title="tijelo"> | sijelo | *HR* tijelo | tijelo |
+<img src="musi/sitelen/pona/kule.png" height="42" title="kuler"> | *FR* couleur | **kuler** | kule |
+<img src="musi/sitelen/pona/luka.png" height="42" title="ruka"> | *HR* rúka | **ruka** | luka |
+<img src="musi/sitelen/pona/sin.png" height="42" title="ŝin"> | *ZH* 新 /xīn/ | **ŝin** | sin |
+<img src="musi/sitelen/pona/sijelo.png" height="42" title="tijelo"> | *HR* tijelo | **tijelo** | sijelo |
 
 #### Ijo Ŝin Bona
 *([Toki Pona Prequel](#prequels) without Compound Hieroglyphs)*
