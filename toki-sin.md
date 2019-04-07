@@ -123,11 +123,12 @@ The vowels "u" and "i" merge with "o" and "e".
 | |
 |:-|
 | [Ijo Sin Pona](#ijo-sin-pona)
+| [Toki Namako](#toki-namako)
 | [Tok Bon](#tok-bon) |
 | [Toko Bona](#toko-bona) |
 
 ### Ijo Sin Pona
-*([Toki Pona Spin-Off](#spin-offs) with primitive vocabulary)*
+*([Toki Pona Spin-Off](#spin-offs) with Primitive Vocabulary)*
 
 **Ijo Sin Pona** keeps the reduced vocabulary (99 words) of [Ijo Ŝin Bona](#ijo-ŝin-bona) while keeping the pronunciation rules of **Toki Pona**.
 
@@ -152,6 +153,15 @@ Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to 
 | mi kama jo e lipu tan sina. → mi tawa mi e lipu tan sina. / mi kama lon mi e lipu tan sina. |
 |:-|
 | *I took a book from you.* |
+
+### Toki Namako
+*([Toki Pona Spin-Off](#spin-offs) with Extended Vocabulary)*
+
+In **Toki Namako** is **Toki Pona** without **Pona Style**.
+
+| taso → taso ni la |
+|:-|
+| *but* → *inspite of that* |
 
 ### Tok Bon
 *([Toki Pona Spin-Off](#spin-offs) with Declension)*
