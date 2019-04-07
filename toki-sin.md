@@ -34,34 +34,34 @@ Words in **Tok Bona** are very close to their etymological origin.
 
 **Ijo Ŝin Bona** precedes **Tok Bona** and uses some expressions, that are supplanted by **Tok Bona**. For instance "ijo ŝin" (meaning "news") is replaced by "tok".
 
-| sitelen | toki pona | ijo ŝin bona | ijo sin pona |
+| sitelen | ijo ŝin bona | ijo sin pona | toki pona |
 |:-|:-|:-|:-|
-<img src="musi/sitelen/pona/jelo.png" height="42" title="jelo"> | **jelo** | kuler suno | kule suno |
-<img src="musi/sitelen/pona/laso.png" height="42" title="glas"> | **laso** | kuler kasvi | kule kasi |
-<img src="musi/sitelen/pona/loje.png" height="42" title="roje"> | **loje** | kuler usta | kule uta |
-<img src="musi/sitelen/pona/pimeja.png" height="42" title="pimea"> | **pimeja** | kuler ara | kule ala |
-<img src="musi/sitelen/pona/walo.png" height="42" title="valko"> | **walo** | kuler vahva | kule wawa |
-<img src="musi/sitelen/pona/kepeken.png" height="42" title="ĥebreiken"> | **kepeken** | loŋ ruka e ilo | lon luka e ilo |
-<img src="musi/sitelen/pona/moku.png" height="42" title="mogu"> | **moku** | loŋ ruka e usta | tawa uta e luka tan |
-<img src="musi/sitelen/pona/pali.png" height="42" title="fari"> | **pali** | loŋ ruka e ijo | lon luka e ijo |
-<img src="musi/sitelen/pona/pana.png" height="42" title="pana"> | **pana** | loŋ ruka ŝin | tawa luka sin |
-<img src="musi/sitelen/pona/kalama.png" height="42" title="galama"> | **kalama** | usta ŝin | uta sin |
-<img src="musi/sitelen/pona/sona.png" height="42" title="ĉodna"> | **sona** | loŋ lipu ŝin | lon lipu sin |
-<img src="musi/sitelen/pona/toki.png" height="42" title="tok"> | **toki** | ijo ŝin | ijo sin |
-<img src="musi/sitelen/pona/kulupu.png" height="42" title="kulupu"> | **kulupu** | multe ijo | mute ijo |
-<img src="musi/sitelen/pona/olin.png" height="42" title="volim"> | **olin** | pilim e pilim | pilin e pilin |
-<img src="musi/sitelen/pona/pu.png" height="42" title="buk"> | **pu** | loŋ lipu biloŋ ijo ŝin bona | lon lipu pi ijo sin pona |
-<img src="musi/sitelen/pona/jo.png" height="42" title="jou"> | **jo** | (mi) loŋ mi | (mi) lon mi |
+<img src="musi/sitelen/pona/jelo.png" height="42" title="jelo"> | **kuler suno** | kule suno | jelo |
+<img src="musi/sitelen/pona/laso.png" height="42" title="glas"> | **kuler kasvi** | kule kasi | laso |
+<img src="musi/sitelen/pona/loje.png" height="42" title="roje"> | **kuler usta** | kule uta | loje |
+<img src="musi/sitelen/pona/pimeja.png" height="42" title="pimea"> | **kuler ara** | kule ala | pimeja |
+<img src="musi/sitelen/pona/walo.png" height="42" title="valko"> | **kuler vahva** | kule wawa | walo |
+<img src="musi/sitelen/pona/kepeken.png" height="42" title="ĥebreiken"> | **loŋ ruka e ilo** | lon luka e ilo | kepeken |
+<img src="musi/sitelen/pona/moku.png" height="42" title="mogu"> | **loŋ ruka e usta** | tawa uta e luka tan | moku |
+<img src="musi/sitelen/pona/pali.png" height="42" title="fari"> | **loŋ ruka e ijo** | lon luka e ijo | pali |
+<img src="musi/sitelen/pona/pana.png" height="42" title="pana"> | **loŋ ruka ŝin** | tawa luka sin | pana |
+<img src="musi/sitelen/pona/kalama.png" height="42" title="galama"> | **usta ŝin** | uta sin | kalama |
+<img src="musi/sitelen/pona/sona.png" height="42" title="ĉodna"> | **loŋ lipu ŝin** | lon lipu sin | sona |
+<img src="musi/sitelen/pona/toki.png" height="42" title="tok"> | **ijo ŝin** | ijo sin | toki |
+<img src="musi/sitelen/pona/kulupu.png" height="42" title="kulupu"> | **multe ijo** | mute ijo | kulupu |
+<img src="musi/sitelen/pona/olin.png" height="42" title="volim"> | **pilim e pilim** | pilin e pilin | olin |
+<img src="musi/sitelen/pona/pu.png" height="42" title="buk"> | **loŋ lipu biloŋ ijo ŝin bona** | lon lipu pi ijo sin pona | pu |
+<img src="musi/sitelen/pona/jo.png" height="42" title="jou"> | **(mi) loŋ mi** | (mi) lon mi | jo |
 
 Animals are expressed by means of "tijelo".
 
-| sitelen | toki pona | ijo ŝin bona | ijo sin pona |
+| sitelen | ijo ŝin bona | ijo sin pona | toki pona |
 |:-|:-|:-|:-|
-<img src="musi/sitelen/pona/akesi.png" height="42" title="hagedis"> | **akesi** | tijelo biloŋ pilim fret | sijelo pi pilin lete |
-<img src="musi/sitelen/pona/kala.png" height="42" title="kala"> | **kala** | tijelo delo | sijelo telo |
-<img src="musi/sitelen/pona/pipi.png" height="42" title="bibit"> | **pipi** | tijelo maa | sijelo ma |
-<img src="musi/sitelen/pona/soweli.png" height="42" title="ĉoveli"> | **soweli** | tijelo biloŋ pilim ĉeli | sijelo pi pilin seli |
-<img src="musi/sitelen/pona/waso.png" height="42" title="wazo"> | **waso** | tijelo koŋ | sijelo kon |
+<img src="musi/sitelen/pona/akesi.png" height="42" title="hagedis"> | **tijelo biloŋ pilim fret** | sijelo pi pilin lete | akesi |
+<img src="musi/sitelen/pona/kala.png" height="42" title="kala"> | **tijelo delo** | sijelo telo | kala |
+<img src="musi/sitelen/pona/pipi.png" height="42" title="bibit"> | **tijelo maa** | sijelo ma | pipi |
+<img src="musi/sitelen/pona/soweli.png" height="42" title="ĉoveli"> | **tijelo biloŋ pilim ĉeli** | sijelo pi pilin seli | soweli |
+<img src="musi/sitelen/pona/waso.png" height="42" title="wazo"> | **tijelo koŋ** | sijelo kon | waso |
 
 In **Old Ijo Ŝin Bona**, ᴘᴀʀᴛɪᴄʟᴇs, ᴘʀᴇ-ᴠᴇʀʙs and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs were omitted.
 
