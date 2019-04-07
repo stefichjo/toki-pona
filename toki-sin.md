@@ -22,7 +22,7 @@
 
 Words in **Tok Bona** are very close to their etymological origin.
 
-| | | |
+| | | | |
 |:-|:-|:-|:-|
 <img src="musi/sitelen/pona/kule.png" height="42" title="kuler"> | kule | *FR* couleur | kuler |
 <img src="musi/sitelen/pona/luka.png" height="42" title="ruka"> | luka | *HR* rúka | ruka |
