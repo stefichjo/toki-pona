@@ -157,7 +157,7 @@ Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to 
 ### Toki Namako
 *([Toki Pona Spin-Off](#spin-offs) with Extended Vocabulary)*
 
-In **Toki Namako** is **Toki Pona** without **Pona Style**.
+**Toki Namako** is **Toki Pona** without **Pona Style**.
 
 | taso → taso ni la |
 |:-|
