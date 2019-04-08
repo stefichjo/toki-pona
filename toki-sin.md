@@ -157,17 +157,16 @@ Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to 
 ### Toki Namako
 *([Toki Pona Spin-Off](#spin-offs) with Extended Vocabulary)*
 
-**Toki Namako** is **Toki Pona** without **Pona Style**.
-
-| taso → taso ni la |
-|:-|
-| *but* → *inspite of that* |
-
 | ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ᴄʟᴀꜱꜱ | ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
 |:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/namako.png" height="42" title="namak"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nimi.md#preposition) | **namako** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **additional**, **another**, **extra** → <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* |
 | <img src="musi/sitelen/pona/sin.png" height="42" title="ŝin"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | **sin** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh** |
 
+**Toki Namako** is **Toki Pona** without "friendly conflations", i.e. without **Pona Style**.
+
+| sinpin → sinpin, sinpin lawa | mute → mute, mute namako |
+|:-|:-|
+| *wall*, *face* | *many*, *more* |
 
 ### Tok Bon
 *([Toki Pona Spin-Off](#spin-offs) with Declension)*
