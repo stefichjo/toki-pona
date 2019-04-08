@@ -159,7 +159,9 @@ Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to 
 
 **Toki Namako** is **Toki Pona** without **Pona Style**.
 
-<img src="musi/sitelen/pona/toki-namako.png" height="42" title="toki namako">
+| <img src="musi/sitelen/pona/toki-namako.png" height="50"> | 
+|:--| 
+| *toki namako* | 
 
 "Friendly omissions" have to be written out explicitly.
 
