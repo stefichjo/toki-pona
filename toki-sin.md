@@ -175,14 +175,12 @@ Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to 
 |:-|
 | *at the bottom of*, *under* |
 
-"sin" is considered a conflation of "sin" and "namako". In **Toki Namako**, "namako" is a proper word. **Toki Pona** has therefore 121 words.
+In **Toki Namako**, "sin" is considered to be a conflation of "sin" and "namako". Therefore, **Toki Namako** has 121 words, including "namako".
 
 | ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ᴄʟᴀꜱꜱ | ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
 |:-|:-|:-|:-|
 | <img src="musi/sitelen/pona/namako.png" height="42" title="namak"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nimi.md#preposition) | **namako** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **additional**, **another**, **extra** → <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* |
 | <img src="musi/sitelen/pona/sin.png" height="42" title="ŝin"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | **sin** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh** |
-
-
 
 ### Tok Bon
 *([Toki Pona Spin-Off](#spin-offs) with Declension)*
