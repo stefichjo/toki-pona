@@ -21,13 +21,13 @@ Members of the same ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ belong to the same [**ᴡᴏʀ�
 | <img src="musi/sitelen/pona/pakala.png" height="42" title="bagar-ap"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | pona — ike, nasa, **pakala**, utala | … |
 | <img src="musi/sitelen/pona/utala.png" height="42" title="udara"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | pona — ike, nasa, pakala, **utala** | … |
 
-**Pona Style** is provided in *parenthesis*. **Mandatory elements** are provided in *quotation marks*.
+**Pona Style** often suggests to omit context. Such "friendly omissions" are provided in *parenthesis*. **Mandatory elements** are provided in *quotation marks*.
 
 ||||
 |:-|:-|:-|
 | <img src="musi/sitelen/pona/sinpin.png" height="42" title="cinpin"> | **sinpin** | **front**: ("lon" -) [**in front of**](lipu-pi-toki-pona.md#lesson-15); (- lawa) **face** |
 
-**Pona Style** often requires to chose one word over another. This preference is indicated by a *double arrow* (⇒).
+**Pona Style** often suggests to chose one word over another. Such "friendly conflations" are provided after a *double arrow* (⇒).
 
 ||||
 |:-|:-|:-|
