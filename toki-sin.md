@@ -175,6 +175,50 @@ Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to 
 |:-|
 | *at the bottom of*, *under* |
 
+---
+
+* pana e ijo lon …: lon … e ijo
+* kama jo e ijo tan…: tan … e ijo
+* pana e ijo tawa …: tawa … e ijo
+
+* soweli (wawa)
+* waso (wawa)
+
+* ale: wan ale, mute ale
+* ante: esun
+* ante: kama ante
+* awen: awen lon
+* esun: kama esun, tomo pi kama esun, ma tomo pi kama esun
+* ike: namako ike
+* insa: insa sijelo
+* jelo: jelo mu
+* kama: kama lon
+* kute: kute insa
+* linja: linja lawa
+* lon: lon a, lon awen, lon insa, lon nasin, lon poka
+* lupa: lupa tomo, lupa suno
+* moli: kama moli
+* monsi: monsi sijelo
+* mute: mute namako
+* nasa: sona nasa, pilin nasa
+* nena: nena pi sinpin lawa
+* noka: anpa
+* open: kama
+* pali: pali ale
+* pini: selo
+* poka: poka sijelo
+* sewi: lawa
+* sike: sike suno
+* sinpin: sinpin sijelo, sinpin lawa
+* sona: toki e sona
+* taso: taso ni la
+* tawa: tawa wawa
+* telo: telo suli
+* waso: waso mu
+* wan: wan ale
+
+---
+
 In **Toki Namako**, "sin" is considered to be a conflation of "sin" and "namako". Therefore, **Toki Namako** has 121 words, including "namako".
 
 | ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ᴄʟᴀꜱꜱ | ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
