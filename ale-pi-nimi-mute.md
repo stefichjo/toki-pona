@@ -5,6 +5,8 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 This dictionary contains all definitions (**bold**) as provided by [the official Toki Pona dictionary](http://tokipona.net/tp/janpije/dictionary.php) plus translations ([**bold+blue**](lipu-pi-toki-pona.md)) found in the corpus. In an attempt to illustrate the full potential of all **Toki Pona** words, more plausible translations have been added (*italic*).
 
+## Toki Pona Word Classes and Parts of Speech
+
 ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ derived according their [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nimi.md)es are separated by an *arrow* (→).
 
 | ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ᴄʟᴀꜱꜱ | ᴡᴏʀᴅ … | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
@@ -20,6 +22,8 @@ Members of the same ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ belong to the same [**ᴡᴏʀ�
 | <img src="musi/sitelen/pona/nasa.png" height="42" title="nasau"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | pona — ike, **nasa**, pakala, utala | … |
 | <img src="musi/sitelen/pona/pakala.png" height="42" title="bagar-ap"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | pona — ike, nasa, **pakala**, utala | … |
 | <img src="musi/sitelen/pona/utala.png" height="42" title="udara"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | pona — ike, nasa, pakala, **utala** | … |
+
+## Pona Style
 
 **Pona Style** often suggests to omit context. Such "friendly omissions" are provided in *parenthesis*. **Mandatory elements** are provided in *quotation marks*.
 

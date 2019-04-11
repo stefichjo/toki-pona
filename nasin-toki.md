@@ -5,8 +5,8 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 | |
 |:-|
-| [Dictionary](ale-pi-nimi-mute.md) |
-| [Parts of Speech](nimi.md) |
+| [Toki Pona Dictionary](ale-pi-nimi-mute.md) |
+| [Toki Pona Word Classes and Parts of Speech](nimi.md) |
 | [Orthography](nasin-sitelen.md) |
 | [Dialects](toki-sin.md) |
 
