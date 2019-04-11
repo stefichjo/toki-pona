@@ -75,18 +75,6 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 | [ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#person-adjective) |
 | [ɴᴜᴍʙᴇʀ](#number) |
 
-By default, an ᴀᴅᴊᴇᴄᴛɪᴠᴇ means "being ...ing", and it implies "tenpo" as a [ɴᴏᴜɴ](#noun).
-
-| tenpo lape → lape |
-|:-|
-| *time of sleeping* → *sleep* |
-
-ᴀᴅᴊᴇᴄᴛɪᴠᴇs can imply "sin", i.e. they can be a ᴄᴏᴍᴘᴀʀᴀᴛɪᴠᴇ.
-
-| jan li suli pi mute sin. → jan li suli mute. |
-|:-|
-| *People are more important.* |
-
 [**Sonja**](lipu-pi-toki-pona.md#lesson-6) uses the term "ᴀᴅᴊᴇᴄᴛɪᴠᴇ" for ᴀᴅᴠᴇʀʙꜱ, too.
 
 | mute | pona mute |

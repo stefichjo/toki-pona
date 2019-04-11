@@ -181,9 +181,6 @@ Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to 
 * kama jo e ijo tan…: tan … e ijo
 * pana e ijo tawa …: tawa … e ijo
 
-* soweli (wawa)
-* waso (wawa)
-
 * ale: wan ale, mute ale
 * ante: esun
 * ante: kama ante
