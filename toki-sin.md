@@ -71,9 +71,9 @@ In **Old Ijo Ŝin Bona**, ᴘᴀʀᴛɪᴄʟᴇs, ᴘʀᴇ-ᴠᴇʀʙs and ᴘʀ
 
 In **Old Ijo Ŝin Bona**, all ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs were written into one single **Sitelen Pona**. A dot in compound glyphs was omitted. In general, more variations were allowed.
 
-| <img src="musi/sitelen/pona/pu.png" height="42"> | <img src="musi/sitelen/pona/kulupu.png" height="42"> |
-|:--:|:--:|
-| *lipu biloŋ ijo ŝin bona* | *multe ijo* |
+| <img src="musi/sitelen/pona/ijo-sin-pona.png" height="42"> | <img src="musi/sitelen/pona/pu.png" height="42"> | <img src="musi/sitelen/pona/kulupu.png" height="42"> |
+|:--:|:--:|:--:|
+| *ijo ŝin bona* | *lipu biloŋ ijo ŝin bona* | *multe ijo* |
 
 ## Sequels
 *([toki pona](#dialects) lili)*
@@ -131,6 +131,10 @@ The vowels "u" and "i" merge with "o" and "e".
 *([Toki Pona Spin-Off](#spin-offs) with Primitive Vocabulary)*
 
 **Ijo Sin Pona** keeps the reduced vocabulary (99 words) of [Ijo Ŝin Bona](#ijo-ŝin-bona) while keeping the pronunciation rules of **Toki Pona**.
+
+| <img src="musi/sitelen/pona/ijo-sin-pona.png" height="50"> | 
+|:--| 
+| *ijo sin pona* | 
 
 | mi kepeken palisa. → mi lon luka e ilo: palisa. | mi pali e lipu. → mi lon luka e ijo: lipu. |
 |:-|:-|
