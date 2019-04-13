@@ -200,6 +200,7 @@ Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to 
 | **kute** | **kute insa** |
 | **linja** | **linja lawa** |
 | **lon** | **lon a**, **lon awen**, **lon insa**, **lon nasin**, **lon poka** |
+| **lukin** | **lukin wawa** |
 | **lupa** | **lupa tomo**, **lupa suno** |
 | **moli** | **kama moli** |
 | **monsi** | **monsi sijelo** |
