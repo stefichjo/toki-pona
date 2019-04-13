@@ -196,6 +196,7 @@ Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to 
 | **insa** | **insa sijelo** |
 | **jelo** | **jelo mu** |
 | **kama** | **kama lon** |
+| **kulupu** | **kulupu jan** |
 | **kute** | **kute insa** |
 | **linja** | **linja lawa** |
 | **lon** | **lon a**, **lon awen**, **lon insa**, **lon nasin**, **lon poka** |
