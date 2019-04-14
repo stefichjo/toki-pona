@@ -190,12 +190,12 @@ Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to 
 | **ale** | **wan ale**, **mute ale** |
 | **ante** | **esun** |
 | **ante** | **kama ante** |
-| **awen** | **awen lon** |
+| **awen** | **nanpa awen**, **tenpo awen**, **awen lon** |
 | **esun** | **kama esun**, **tomo pi kama esun**, **ma tomo pi kama esun** |
 | **ike** | **namako ike** |
 | **insa** | **insa sijelo** |
 | **jelo** | **jelo mu** |
-| **kama** | **kama lon** |
+| **kama** | **nanpa awen**, **tenpo awen**, **kama lon** |
 | **kulupu** | **kulupu jan** |
 | **kute** | **kute insa** |
 | **linja** | **linja lawa** |
@@ -210,7 +210,7 @@ Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to 
 | **noka** | **anpa** |
 | **open** | **kama** |
 | **pali** | **pali ale** |
-| **pini** | **selo** |
+| **pini** | **nanpa pini**, **tenpo pini**, **pini lon**, **selo** |
 | **poka** | **poka sijelo** |
 | **sewi** | **lawa** |
 | **sike** | **sike suno** |
