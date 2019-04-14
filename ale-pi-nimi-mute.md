@@ -29,7 +29,7 @@ Members of the same ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ belong to the same [**ᴡᴏʀ�
 
 ||||
 |:-|:-|:-|
-| <img src="musi/sitelen/pona/sinpin.png" height="42" title="cinpin"> | **sinpin** | **front**: ("lon *sinpin*") [**in front of**](lipu-pi-toki-pona.md#lesson-15); ("*sinpin*" lawa) **face** |
+| <img src="musi/sitelen/pona/sinpin.png" height="42" title="cinpin"> | **sinpin** | **front**: (lon sinpin) [**in front of**](lipu-pi-toki-pona.md#lesson-15); (sinpin *lawa*) **face** |
 
 **Pona Style** often suggests to chose one word over another. Such "friendly conflations" are provided after a *double arrow* (⇒).
 
