@@ -511,7 +511,7 @@ As a rule of thumb, if the ᴘᴀʀᴛɪᴄʟᴇ "pi" doesn't add useful informa
 ### CONJUNCTION
 *([nimi lili luka](#transitive-particle) "en", [nimi lili luka](#transitive-particle) "anu")*
 
-By means of "anu seme" one can express a yes-no-question. In this case "seme" is a [predicate](#subject-and-predicate).
+By means of "anu seme" one can express a yes-no-question. In this case "seme" is an alternative [predicate](#subject-and-predicate) to "mama".
 
 | ona li mama anu seme? |
 |:-|
