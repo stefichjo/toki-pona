@@ -3,7 +3,7 @@
 
 | |
 |:-|
-| [Auxiliary Punctuation](#auxiliary-punctuation) |
+| [Didactical Punctuation](#didactical-punctuation) |
 | [Playful Hieroglyphs](#playful-hieroglyphs) |
 
 ## Didactical Punctuation
