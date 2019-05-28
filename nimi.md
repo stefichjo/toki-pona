@@ -9,6 +9,21 @@ In the spirit of [Lesson 19 — The Frontier](lipu-pi-toki-pona.md#lesson-19), t
 |:-|
 | *Don't touch the official Toki Pona book!* |
 
+---
+
+💛 mandatory: mi ~~li~~ jan sin. ~~lon~~ kulupu la mi wawa. ~~lon ni:~~ mi pona tawa jan, la jan li pona tawa mi. ~~ijo~~ suno.
+⚠ optional: ona li mama ala ~~anu~~ mama? tu ~~en~~ wan
+
+💡 pona: sina pana e ilo tenpo lon poka seme? / sina lon poka seme e ilo tenpo?
+
+👍 potential: o luka ala e lipu Pu!
+
+lawa/sewi
+sinpin/sinpin lawa
+
+
+---
+
 | |
 |:-|
 | [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) |
