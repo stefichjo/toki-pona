@@ -3,21 +3,21 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-In the spirit of [Lesson 19 — The Frontier](lipu-pi-toki-pona.md#lesson-19), this document tries to explore the potential of **Toki Pona**. It enforces ᴍᴀɴᴅᴀᴛᴏʀʏ rules and disencourages from using ᴏᴘᴛɪᴏɴᴀʟ styles that would require unnecessary additional grammar. For example, the omission of "li" (i.e. after "mi" or "sina" alone) is a ᴍᴀɴᴅᴀᴛᴏʀʏ rule, whereas the usage of "pona ala pona" is disencouraged as an ᴏᴘᴛɪᴏɴᴀʟ styles, because it requires additional grammar (the omission of "anu" or something similarly complex), whereas "pona anu seme" conveys the same meaning without any additional grammar at all and using it is therefore encouraged.
+In the spirit of [Lesson 19 — The Frontier](lipu-pi-toki-pona.md#lesson-19), this document tries to explore the potential of **Toki Pona**. It encourages to stick always to ᴍᴀɴᴅᴀᴛᴏʀʏ rules and it disencourages from using ᴏᴘᴛɪᴏɴᴀʟ styles that would require unnecessary additional grammar but describes them because they are often used, especially by "pre-Pu" speakers. For example, the omission of "li" (i.e. after "mi" or "sina" alone) is a ᴍᴀɴᴅᴀᴛᴏʀʏ rule, whereas the usage of "pona ala pona" is disencouraged as an ᴏᴘᴛɪᴏɴᴀʟ style, because it requires additional grammar (the omission of "anu" or something similarly complex), whereas "pona anu seme" conveys the same meaning without any additional grammar at all, so using it is therefore encouraged.
 
 | (ᴍᴀɴᴅᴀᴛᴏʀʏ) mi ~~li~~ sin. | (ᴏᴘᴛɪᴏɴᴀʟ) ona li mama ala ~~anu~~ mama? → ona li mama anu seme? |
 |:-|:-|
 | *I'm new.* | *Is she a parent?* |
 
-It also disencourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations when context might be unsufficient, but encourages to be aware of the possibilities of ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ reclassification of words for the sake of symmetry, as long as there is no conflict with other rules. For example, "sama" is a ᴘʀᴇᴘᴏsɪᴛɪᴏɴ, whereas its antonym "ante" is introduced as a mere ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but expanding its word class to that of its twin "sama", "ante" becomes a ᴘʀᴇᴘᴏsɪᴛɪᴏɴ, too, meaning "(different) than".
+It also disencourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations when context might be insufficient, but encourages to be aware of the possibilities of ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ reclassification of words for the sake of symmetry, as long as no conflict with other rules emerges. For example, "sama" is a ᴘʀᴇᴘᴏsɪᴛɪᴏɴ, whereas its antonym "ante" is introduced as a mere ᴀᴅᴊᴇᴄᴛɪᴠᴇ, breaking a symmetry, but expanding its word class to that of its twin "sama", "ante" becomes a ᴘʀᴇᴘᴏsɪᴛɪᴏɴ, too, meaning "(different) than", the opposite of "like", so symmetry is restored.
 
 | (ᴏᴘᴛɪᴏɴᴀʟ) sinpin ~~lawa~~ → sinpin lawa | (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) jan li suli mute ante mani. |
 |:-|:-|
 | *face* | *People are more important than money.* |
 
-It encourages to be fluent in ꜱᴏɴᴊᴀ's style.
+It encourages to be fluent in ᴘᴏɴᴀ style.
 
-| (ꜱᴏɴᴊᴀ) lon anpa ⇒ lon noka |
+| (ᴘᴏɴᴀ) lon anpa ⇒ lon noka |
 |:-|
 | *under* |
 
