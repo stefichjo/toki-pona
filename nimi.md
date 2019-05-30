@@ -3,26 +3,23 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-In the spirit of [Lesson 19 — The Frontier](lipu-pi-toki-pona.md#lesson-19), this document tries to explore the potential of **Toki Pona**'s grammar, marking corresponding sections with a "thumbs-up" (👍).
+In the spirit of [Lesson 19 — The Frontier](lipu-pi-toki-pona.md#lesson-19), this document tries to explore the potential of **Toki Pona**. It enforces ᴍᴀɴᴅᴀᴛᴏʀʏ rules and disencourages from using ᴏᴘᴛɪᴏɴᴀʟ styles that would require unnecessary additional grammar. For example, the omission of "li" (i.e. after "mi" or "sina" alone) is a ᴍᴀɴᴅᴀᴛᴏʀʏ rule, whereas the usage of "pona ala pona" is disencouraged as an ᴏᴘᴛɪᴏɴᴀʟ styles, because it requires additional grammar (the omission of "anu" or something similarly complex), whereas "pona anu seme" conveys the same meaning without any additional grammar at all and using it is therefore encouraged.
 
-| o luka ala e lipu Pu! |
+| (ᴍᴀɴᴅᴀᴛᴏʀʏ) mi ~~li~~ sin. | (ᴏᴘᴛɪᴏɴᴀʟ) ona li mama ala ~~anu~~ mama? → ona li mama anu seme? |
+|:-|:-|
+| *I'm new.* | *Is she a parent?* |
+
+It also disencourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations when context might be unsufficient, but encourages to be aware of the possibilities of ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ reclassification of words for the sake of symmetry, as long as there is no conflict with other rules. For example, "sama" is a ᴘʀᴇᴘᴏsɪᴛɪᴏɴ, whereas its antonym "ante" is introduced as a mere ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but expanding its word class to that of its twin "sama", "ante" becomes a ᴘʀᴇᴘᴏsɪᴛɪᴏɴ, too, meaning "(different) than".
+
+| (ᴏᴘᴛɪᴏɴᴀʟ) sinpin ~~lawa~~ → sinpin lawa | (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) jan li suli mute ante mani. |
+|:-|:-|
+| *face* | *People are more important than money.* |
+
+It encourages to be fluent in ꜱᴏɴᴊᴀ's style.
+
+| (ꜱᴏɴᴊᴀ) lon anpa ⇒ lon noka |
 |:-|
-| *Don't touch the official Toki Pona book!* |
-
----
-
-💛 mandatory: mi ~~li~~ jan sin. ~~lon~~ kulupu la mi wawa. ~~lon ni:~~ mi pona tawa jan, la jan li pona tawa mi. ~~ijo~~ suno.
-⚠ optional: ona li mama ala ~~anu~~ mama? tu ~~en~~ wan
-
-💡 pona: sina pana e ilo tenpo lon poka seme? / sina lon poka seme e ilo tenpo?
-
-👍 potential: o luka ala e lipu Pu!
-
-lawa/sewi
-sinpin/sinpin lawa
-
-
----
+| *under* |
 
 | |
 |:-|
