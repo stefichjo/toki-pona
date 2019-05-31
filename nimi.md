@@ -11,9 +11,9 @@ In the spirit of [Lesson 19 — The Frontier](lipu-pi-toki-pona.md#lesson-19), t
 
 It also disencourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations when context might be insufficient, but encourages to be aware of the possibilities of ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ reclassification of words for the sake of symmetry, as long as no conflict with other rules emerges. For example, "sama" is a ᴘʀᴇᴘᴏsɪᴛɪᴏɴ, whereas its antonym "ante" is introduced as a mere ᴀᴅᴊᴇᴄᴛɪᴠᴇ, breaking a symmetry, but expanding its word class to that of its twin "sama", "ante" becomes a ᴘʀᴇᴘᴏsɪᴛɪᴏɴ, too, meaning "(different) than", the opposite of "like", so symmetry is restored.
 
-| (ᴏᴘᴛɪᴏɴᴀʟ) sinpin ~~lawa~~ → sinpin lawa | (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) jan li suli mute ante mani. |
+| (ᴏᴘᴛɪᴏɴᴀʟ) ma ~~suli~~ → ma suli | (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) jan li suli mute ante mani. |
 |:-|:-|
-| *face* | *People are more important than money.* |
+| *continent* | *People are more important than money.* |
 
 It encourages to be fluent in ᴘᴏɴᴀ style.
 
