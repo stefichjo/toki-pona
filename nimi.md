@@ -3,11 +3,11 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-This document encourages to stick always to ᴍᴀɴᴅᴀᴛᴏʀʏ rules, e.g. the omission of "li" (after "mi" or "sina" alone), and it discourages from using ᴏᴘᴛɪᴏɴᴀʟ styles that would require unnecessary additional grammar, e.g. "pona ala pona" (which requires the omission of "anu" or something similarly complex) in yes-or-no questions, which can be replaced by "pona anu seme" without changing the meaning and without introducing unnecessary grammar. But, since ᴏᴘᴛɪᴏɴᴀʟ styles are often used, especially by "pre-Pu" speakers, they are also mentioned here.
+This document encourages to stick always to ᴍᴀɴᴅᴀᴛᴏʀʏ rules, e.g. the omission of "li" (after "mi" or "sina" alone), and it discourages from using ᴏᴘᴛɪᴏɴᴀʟ styles that would require unnecessary additional grammar, e.g. "pona ala pona" (which requires the omission of "anu" or something similarly complex) in yes-or-no questions, which can be replaced by "pona anu seme" without changing the meaning and without introducing unnecessary grammar. But, since ᴏᴘᴛɪᴏɴᴀʟ styles are often used, especially by "pre-Pu" speakers, they are also mentioned here. Moreover, using ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extensions of Toki Pona's grammar is discouraged.
 
-| (ᴍᴀɴᴅᴀᴛᴏʀʏ) mi ~~li~~ sin. | (ᴏᴘᴛɪᴏɴᴀʟ) ona li mama ala ~~anu~~ mama? → ona li mama anu seme? |
-|:-|:-|
-| *I'm new.* | *Is she a parent?* |
+| (ᴍᴀɴᴅᴀᴛᴏʀʏ) mi ~~li~~ sin. → mi sin. | (ᴏᴘᴛɪᴏɴᴀʟ) ona li mama ala ~~anu~~ mama? → ona li mama anu seme? | (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) sina lon poka seme e ilo tenpo loje? ⇒ sina pana e ilo tenpo loje lon poka seme? |
+|:-|:-|:-|
+| *I'm new.* | *Is she a parent?* | *Where did you put the red clock next to?* |
 
 | |
 |:-|
@@ -80,7 +80,7 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 
 | mute | pona mute |
 |:-|:-|
-| ᴀᴅᴠᴇʀʙ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *very*| *very good* |
+| ᴀᴅᴠᴇʀʙ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *very* | *very good* |
 
 ### SIMPLE ADJECTIVE
 *([nimi suli poka](#adjective) pona)*
@@ -100,15 +100,15 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 | [ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#spatial-adjective) |
 | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#life-form-adjective) |
 
-As a [ɴᴏᴜɴ](#noun), ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo".
+(ᴍᴀɴᴅᴀᴛᴏʀʏ) As a [ɴᴏᴜɴ](#noun), ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo".
 
-| ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ sike |
+| ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ (~~ijo~~) sike |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ round → ɴᴏᴜɴ something round |
 
-All [ɴᴏᴜɴ](#noun)s can imply food.
+(ᴍᴀɴᴅᴀᴛᴏʀʏ) All [ɴᴏᴜɴ](#noun)s can imply food.
 
-| telo |
+| ɴᴏᴜɴ (~~ijo~~) telo |
 |:-|
 | ɴᴏᴜɴ water; beverage |
 
@@ -119,13 +119,13 @@ All [ɴᴏᴜɴ](#noun)s can imply food.
 |:-|
 | [ᴄʟᴀᴜꜱᴇ](#clause) |
 
-ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs are ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo".
+(ᴍᴀɴᴅᴀᴛᴏʀʏ) ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs are ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo".
 
-| ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ale |
+| ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ (~~ijo~~) ale |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ every → ɴᴏᴜɴ everything |
 
-In a [genitive](#genitive) ᴄʟᴀᴜꜱᴇ, "ijo" before a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ reappears.
+(ᴍᴀɴᴅᴀᴛᴏʀʏ) In a [genitive](#genitive) ᴄʟᴀᴜꜱᴇ, "ijo" before a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ reappears.
 
 | mama pi ijo ale | mama ale |
 |:-|:-|
