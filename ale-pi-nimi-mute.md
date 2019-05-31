@@ -23,22 +23,11 @@ Members of the same ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ belong to the same [**ᴡᴏʀ�
 | <img src="musi/sitelen/pona/pakala.png" height="42" title="bagar-ap"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | pona — ike, nasa, **pakala**, utala | … |
 | <img src="musi/sitelen/pona/utala.png" height="42" title="udara"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | pona — ike, nasa, pakala, **utala** | … |
 
-## OPTIONAL
+This document discourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations, e.g. "sinpin" for "sinpin lawa" or "sinpin sijelo", when context might be insufficient, but it encourages to be fluent in ᴘᴏɴᴀ style, i.e. conflating two words into one, e.g. "(lon) noka" instead of "(lon) anpa". On the other hand, it encourages to be ware of possible ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ reclassifications of words for the sake of symmetry. For example, "sama" and "ante" are antonyms (i.e. "same" and "different"), but only "sama" is a ᴘʀᴇᴘᴏsɪᴛɪᴏɴ, whereas "ante" is just an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. "ante" as an ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ ᴘʀᴇᴘᴏsɪᴛɪᴏɴ meaning "(different) than" restores the symmetry with "sama".
 
-**ᴏᴘᴛɪᴏɴᴀʟ Style** often suggests to omit context. Such "friendly omissions" are provided in *parenthesis*.
-
-||||
+| (ᴏᴘᴛɪᴏɴᴀʟ) sinpin ~~lawa~~ → sinpin lawa | lon anpa ⇒ (ᴘᴏɴᴀ) lon noka | (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) jan li suli mute ante mani. ⇒ jan li suli mute. mani li suli lili. |
 |:-|:-|:-|
-| <img src="musi/sitelen/pona/sinpin.png" height="42" title="cinpin"> | **sinpin** | **front**: (*lon sinpin*) [**in front of**](lipu-pi-toki-pona.md#lesson-15); (*sinpin ~~lawa~~*) **face** |
-
-## PONA
-
-**ᴘᴏɴᴀ Style** often suggests to chose one word over another. Such "friendly conflations" are provided after a *double arrow* (⇒).
-
-||||
-|:-|:-|:-|
-| <img src="musi/sitelen/pona/anpa.png" height="42" title="an-ba"> | **anpa** | (⇒ *noka*) |
-| <img src="musi/sitelen/pona/noka.png" height="42" title="noga"> | **noka** | (⇐ *anpa*) [**area below or under**](lipu-pi-toki-pona.md#lesson-15) |
+| *face* | *under* | *People are more important than money.* |
 
 ---
 
