@@ -504,13 +504,13 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 |:-|:-|
 | *a person of much good* → *a very good person* | *a language of good* → *a good language* |
 
-(ᴘᴏɴᴀ) A [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun) consists of a [ɴᴏᴜɴ](#noun) with any number of [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s, including zero. The ᴘᴀʀᴛɪᴄʟᴇ **"pi"** goes between a first and a second [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun) (the second one having one or more [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s). Therefore, a [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) must not contain more than one **"pi"**-phrase.
+(ᴘᴏɴᴀ) A [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun) consists of a [ɴᴏᴜɴ](#noun) with any number of [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s, including zero. The ᴘᴀʀᴛɪᴄʟᴇ **"pi"** goes between a first and a second [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun) (the second one having one or more [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s). Therefore, a [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) must not contain more than one **"pi"**-phrase, so neither subsequent nor nested **"pi"**-phrases are possible.
 
 | ona li jo e telo pi telo nasa. telo nasa li tan ma ante. |
 |:-|
 | *She has a bar. The beer is imported.* |
 
-(ᴛᴇᴘᴀɴ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can be nested or can be following one another, neglecting [**Sonja**](lipu-pi-toki-pona.md#lesson-11)'s distinction between [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s. ...
+(ᴛᴇᴘᴀɴ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can be nested or can be following one another, letting aside [**Sonja**](lipu-pi-toki-pona.md#lesson-11)'s ad-hoc distinction between [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s. ...
 
 | ona li jo e tomo pi telo nasa pi ma ante. |
 |:-|
