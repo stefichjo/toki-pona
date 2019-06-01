@@ -173,3 +173,13 @@ This document discourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations, e.g. "
 | <img src="musi/sitelen/pona/wawa.png" height="42" title="vahva">                                                             | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | lili — ale, mute, suli, **wawa**                                         | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **energetic**; [**mighty**](lipu-pi-toki-pona.md#short-obligatory-prayer), **powerful**, [**stable**](lipu-pi-toki-pona.md#lesson-15), **strong**; [**independent**](lipu-pi-toki-pona.md#the-quran); (*~~sona~~ wawa*) *certain*, [**dependable**](lipu-pi-toki-pona.md#lesson-4), [**reliable**](lipu-pi-toki-pona.md#lesson-5), **sure**; (*~~toki~~ wawa*) **confident**; (*tawa wawa*) *fast*, (*kalama wawa*) [**loud**](lipu-pi-toki-pona.md#lesson-17), **intense** <br>ɴᴏᴜɴ [**might**](lipu-pi-toki-pona.md#writings-of-baháulláh), [**power**](lipu-pi-toki-pona.md#writings-of-baháulláh) <br>ᴠᴇʀʙ  [**strengthen**](lipu-pi-toki-pona.md#lesson-6); (*~~toki~~ wawa ~~e sona wawa~~*) [**to bear witness that**](lipu-pi-toki-pona.md#writings-of-baháulláh) |
 | <img src="musi/sitelen/pona/weka.png" height="42" title="weĥ">                                                               | [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#spatial-adjective) | sike — **weka**                                                       | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**, *distant*, [***remote***](lipu-pi-toki-pona.md#toki-pona-proverbs); **ignored**, (*nanpa weka*) *skipped* <br>ᴠᴇʀʙ [**to eliminate**](lipu-pi-toki-pona.md#famous-quotations), [**erase**](lipu-pi-toki-pona.md#toki-pona-proverbs), ***ignore***, [***isolate***](lipu-pi-toki-pona.md#toki-pona-proverbs), [**omit**](lipu-pi-toki-pona.md#famous-quotations), [**remove**](lipu-pi-toki-pona.md#toki-pona-proverbs), (*weka e nanpa*) *skip* <br>ɴᴏᴜɴ ***absence***, *vacuum*, *void*; (*weka ~~ma~~*) *space*; [**isolation**](lipu-pi-toki-pona.md#toki-pona-proverbs): (*lon weka*) *without* → <br>ɴᴏᴜɴ *distance*: (*lon weka*) *away from* |
 | <img src="musi/sitelen/pona/wile.png" height="42" title="wile"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nimi.md#pre-verb) | ken, **wile**                                                                               | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inevitable*, *necessary* <br>ᴠᴇʀʙ *to enforce* + <br>ᴘʀᴇ-ᴠᴇʀʙ **must**, **need**, **require**, **should**, **want**, **wish**; (⇐ *selo*) *to be bound to*, *can't help but* <br>ᴠᴇʀʙ *to need*, *require*, *want*, *wish*; (⇐ *selo*) *to conclude*, *decide* |
+
+---
+
+As a rule of thumb, if the ᴘᴀʀᴛɪᴄʟᴇ "pi" doesn't add useful information, it shouldn't be used.
+
+| jan pi ijo ni → jan ni |
+|:-|
+| *the person over there* → *that person* |
+
+

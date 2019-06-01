@@ -76,11 +76,19 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 | [ᴛᴇᴍᴘᴏʀᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#temporal-adjective) |
 | [ɴᴜᴍʙᴇʀ](#number) |
 
+An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies the sum of all previous words of a noun group.
+
+| jan pona | jan pona mute |
+|:-|:-|
+| *friendly person* | *many good people* |
+
 [**Sonja**](lipu-pi-toki-pona.md#lesson-6) uses the term "ᴀᴅᴊᴇᴄᴛɪᴠᴇ" for ᴀᴅᴠᴇʀʙꜱ, too.
 
 | mute | pona mute |
 |:-|:-|
 | ᴀᴅᴠᴇʀʙ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *very* | *very good* |
+
+[**Sonja**](lipu-pi-toki-pona.md#lesson-11) summarizes [ɴᴏᴜɴ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s without **"pi"** as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
 
 ### SIMPLE ADJECTIVE
 *([nimi suli poka](#adjective) pona)*
@@ -490,23 +498,29 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 #### Genitive
 *([nimi lili luka](#transitive-particle) "pi")*
 
-If a genitive phrase (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "pi") consists of a single [ɴᴏᴜɴ](#noun), the ᴘᴀʀᴛɪᴄʟᴇ "pi" is omitted. In other words, a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) consisting of a single [ɴᴏᴜɴ](#noun) is an [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective).
+(ᴍᴀɴᴅᴀᴛᴏʀʏ) If a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (or [ᴀᴅᴊᴇᴄᴛɪᴠᴇ-ᴘʜʀᴀꜱᴇ](#adjective), or **"pi"**-phrase) contains only one [ɴᴏᴜɴ](#noun), the ᴘᴀʀᴛɪᴄʟᴇ "pi" is omitted and the phrase becomes an [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective).
 
-| toki pi pona → toki pona |
+| jan pi pona mute | toki ~~pi~~ pona → toki pona |
+|:-|:-|
+| *a person of much good* → *a very good person* | *a language of good* → *a good language* |
+
+(ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can follow one another, assuming that [**Sonja**](lipu-pi-toki-pona.md#lesson-11) conflates "second" [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and "subsequent" [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s. Excluding the risk of misreading subsequent **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as *nested*, the comma between them can be safely removed.
+
+| tomo pi telo nasa, pi ma ante → tomo pi telo nasa pi ma ante |
 |:-|
-| *a language of good* → *a good language* |
+| *foreign bar* |
 
-As a rule of thumb, if the ᴘᴀʀᴛɪᴄʟᴇ "pi" doesn't add useful information, it shouldn't be used.
-
-| jan pi ijo ni → jan ni |
-|:-|
-| *the person over there* → *that person* |
-
-👍 A **genitive phrase** (i.e. words after a ᴘᴀʀᴛɪᴄʟᴇ "pi") can have another **genitive phrase**.
+(ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can be nested, assuming that [**Sonja**](lipu-pi-toki-pona.md#lesson-11) conflates ("second") [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s.
 
 | tomo pi telo nasa pi ma ante |
 |:-|
 | *house of foreign beer* |
+
+(ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can follow one another, assuming that [**Sonja**](lipu-pi-toki-pona.md#lesson-11) conflates **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s, or ("first") [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s.
+
+| tomo pi telo nasa pi ma ante |
+|:-|
+| *foreign bar* |
 
 ### CONJUNCTION
 *([nimi lili luka](#transitive-particle) "en", [nimi lili luka](#transitive-particle) "anu")*
