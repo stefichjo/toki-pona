@@ -504,7 +504,7 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 |:-|:-|
 | *a person of much good* → *a very good person* | *a language of good* → *a good language* |
 
-(ᴘᴏɴᴀ) A [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun) consists of a [ɴᴏᴜɴ](#noun) with any number of [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s, including zero. The ᴘᴀʀᴛɪᴄʟᴇ **"pi"** goes between a first and a second [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun), the second one having one or more [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s. Therefore, a [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) must not contain more than one **"pi"**-phrase.
+(ᴘᴏɴᴀ) A [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun) consists of a [ɴᴏᴜɴ](#noun) with any number of [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s, including zero. The ᴘᴀʀᴛɪᴄʟᴇ **"pi"** goes between a first and a second [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun) (the second one having one or more [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s). Therefore, a [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) must not contain more than one **"pi"**-phrase.
 
 | ona li jo e telo pi telo nasa. telo nasa li tan ma ante. |
 |:-|
