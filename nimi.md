@@ -510,7 +510,7 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 |:-|
 | *foreign bar* |
 
-(ᴛᴇᴘᴀɴ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can be nested, assuming that [**Sonja**](lipu-pi-toki-pona.md#lesson-11) allows to conflate ("second") [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s.
+(ᴛᴇᴘᴀɴ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can be nested, assuming that [**Sonja**](lipu-pi-toki-pona.md#lesson-11) allows to conflate ("second") [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s. Subsequent **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s should be separated by a comma, if context may be insufficient.
 
 | tomo pi telo nasa pi ma ante | tomo pi telo nasa, pi ma ante |
 |:-|:-|
