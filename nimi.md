@@ -504,13 +504,13 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 |:-|:-|
 | *a person of much good* → *a very good person* | *a language of good* → *a good language* |
 
-(ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can follow one another, assuming that [**Sonja**](lipu-pi-toki-pona.md#lesson-11) conflates "second" [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and "subsequent" [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s. Excluding the risk of misreading subsequent **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as *nested*, the comma between them can be safely removed. The same is possible assuming that [**Sonja**](lipu-pi-toki-pona.md#lesson-11) conflates **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s, or ("first") [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s.
+(ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can follow one another, assuming that [**Sonja**](lipu-pi-toki-pona.md#lesson-11) allows to conflate "second" [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and "subsequent" [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s. Excluding the risk of misreading subsequent **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as *nested*, the comma between them can be safely removed. The same is possible assuming that [**Sonja**](lipu-pi-toki-pona.md#lesson-11) allows to conflate **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s, or ("first") [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s.
 
 | tomo pi telo nasa, pi ma ante → tomo pi telo nasa pi ma ante |
 |:-|
 | *foreign bar* |
 
-(ᴛᴇᴘᴀɴ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can be nested, assuming that [**Sonja**](lipu-pi-toki-pona.md#lesson-11) conflates ("second") [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s.
+(ᴛᴇᴘᴀɴ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can be nested, assuming that [**Sonja**](lipu-pi-toki-pona.md#lesson-11) allows to conflate ("second") [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s.
 
 | tomo pi telo nasa pi ma ante | tomo pi telo nasa, pi ma ante |
 |:-|:-|
