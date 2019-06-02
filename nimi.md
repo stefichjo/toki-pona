@@ -180,7 +180,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ in
 |:-|
 | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ ⇒ ꜱᴇɴᴛᴇɴᴄᴇ + ꜱᴇɴᴛᴇɴᴄᴇ *I want Mélanie to visit me.* |
 
-(ᴜɴ-ᴘᴏɴᴀ) A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ describes a [ɴᴏᴜɴ](#noun) (often the [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) "ni") of the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ. Therefore, if the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ doesn't end with that [ɴᴏᴜɴ](#noun), it is possible to resume the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ after the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
+(ᴜɴ-ᴘᴏɴᴀ) A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ describes a [ɴᴏᴜɴ](#noun) of the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ. Therefore, if the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ doesn't end with that [ɴᴏᴜɴ](#noun) (often the [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) "ni"), it is possible to resume the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ after the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
 
 | (ᴜɴ-ᴘᴏɴᴀ) jan Isa li toki e ni: "mama mi o!" tawa sewi. ⇒ (ᴘᴏɴᴀ) jan Isa li toki e ni tawa sewi: "mama mi o!" |
 |:-|
