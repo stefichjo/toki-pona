@@ -9,7 +9,7 @@ This document encourages to stick always to ᴍᴀɴᴅᴀᴛᴏʀʏ rules, e.g.
 |:-|:-|
 | *I'm new.* | *Is she a parent?* |
 
-Moreover, using ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extensions of Toki Pona's grammar is discouraged, if it introduces additional grammar. For example, introducing "pi li" as an ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extension for [ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ](#clause)s introduces additional (and overlapping) omissions, which is discouraged.
+Moreover, using ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extensions of Toki Pona's grammar is discouraged, if it introduces additional grammar. For example, introducing "pi li" as an ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extension for [ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause)s introduces additional (and overlapping) omissions, which is discouraged.
 
 | (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) jan pi ~~ijo ni: ona~~ li kama lon tomo mi ⇒ jan ~~pi ijo~~ ni: ona li kama lon tomo mi |
 |:-|
@@ -141,7 +141,8 @@ An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-�
 
 | |
 |:-|
-| [ᴄʟᴀᴜꜱᴇ](#clause) |
+| [ᴀʀᴛɪᴄʟᴇ](#article) |
+| [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜSᴇ](#subordinate-clause) |
 
 (ᴍᴀɴᴅᴀᴛᴏʀʏ) ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs are ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo".
 
@@ -164,20 +165,26 @@ There are no ᴀʀᴛɪᴄʟᴇs in **Toki Pona**.
 |:-|
 | *a/the ruler* |
 
-##### CLAUSE
+##### SUBORDINATE CLAUSE
 *(mute [nimi](#toki-pona-word-classes-and-parts-of-speech) poka)*
 
-A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ that can be thought of as a string of [ꜱɪᴍᴘʟᴇ  ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle)s following the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "ni" (i.e. the **sound**, that "ni" produces). **Sonja** uses ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs only at the end of a ꜱᴇɴᴛᴇɴᴄᴇ.
+A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ inside another ꜱᴇɴᴛᴇɴᴄᴇ. **Sonja** uses ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs only at the end of a ꜱᴇɴᴛᴇɴᴄᴇ, calling both the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ "split-up" ꜱᴇɴᴛᴇɴᴄᴇs.
 
-| mi sona e ni: mi anpa. | suno pi mute ni: mi ken ala lape |
-|:-|:-|
-| *I know that I'm low.* | *so much light, that I can't sleep* |
+| mi sona e ni: mi anpa. |
+|:-|
+| *I know that I'm low.* |
+
+...
+
+| suno pi mute ni: mi ken ala lape |
+|:-|
+| *so much light, that I can't sleep* |
 
 A question can be a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
 
-| mi sona e ni: mi anpa. | wile sona nanpa wan li ni: ale li pona anu ike? |
-|:-|:-|
-| *I know that I am low.* | *The question number one is whether the universe is good or evil.* |
+| wile sona nanpa wan li ni: ale li pona anu ike? |
+|:-|
+| *The question number one is whether the universe is good or evil.* |
 
 👍 A ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ, that refers to the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ.
 
@@ -308,7 +315,7 @@ As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean their tool used.
 ### PRE-VERB
 *([nimi suli wawa](#verb) poka)*
 
-Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#clause)'s [predicate](#subject-and-predicate). Such ᴠᴇʀʙs are ᴘʀᴇ-ᴠᴇʀʙ (or "auxiliary verbs").
+Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause)'s [predicate](#subject-and-predicate). Such ᴠᴇʀʙs are ᴘʀᴇ-ᴠᴇʀʙ (or "auxiliary verbs").
 
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ + ᴘʀᴇ-ᴠᴇʀʙ kama | ijo/jan li kama e ni: mi sona e toki pona. → mi kama sona e toki pona. |
 |:-|:-|
@@ -574,13 +581,13 @@ At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, the [ᴘʀᴇᴘᴏꜱɪᴛɪ�
 |:-|
 | *She is coming tonight.* → *Tonight, she is coming.* |
 
-At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, "ni" in front of a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#clause) is omitted.
+At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, "ni" in front of a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause) is omitted.
 
 | jan li pona tawa mi lon ni: mi pona tawa jan. → ~~lon ni:~~ mi pona tawa jan, la jan li pona tawa mi. |
 |:-|
 | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
-👍 Other [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s introducing a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#clause) are kept, including "ni".
+👍 Other [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s introducing a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause) are kept, including "ni".
 
 | jan li pona tawa mi tan ni: mi pona tawa jan. → tan ni: mi pona tawa jan, la jan li pona tawa mi. |
 |:-|
