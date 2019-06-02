@@ -126,15 +126,15 @@ An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-�
 
 (ᴍᴀɴᴅᴀᴛᴏʀʏ) As a [ɴᴏᴜɴ](#noun), ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo".
 
-| ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ (~~ijo~~) sike |
+| ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ ~~ijo~~ sike |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ round → ɴᴏᴜɴ something round |
 
 (ᴍᴀɴᴅᴀᴛᴏʀʏ) All [ɴᴏᴜɴ](#noun)s can imply food.
 
-| ɴᴏᴜɴ (~~ijo~~) telo |
-|:-|
-| ɴᴏᴜɴ water; beverage |
+| ɴᴏᴜɴ ~~ijo~~ telo | ɴᴏᴜɴ ~~ijo~~ soweli |
+|:-|:-|
+| ɴᴏᴜɴ water; beverage| ɴᴏᴜɴ animal; meat |
 
 #### CORRELATIVE
 *([nimi suli poka](#adjective) palisa)*
