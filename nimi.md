@@ -94,19 +94,17 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 | [ᴛᴇᴍᴘᴏʀᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#temporal-adjective) |
 | [ɴᴜᴍʙᴇʀ](#number) |
 
-An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies the sum of all previous words of a noun group.
+An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a [ɴᴏᴜɴ](#noun) or a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (i.e. a [ɴᴏᴜɴ](#noun) plus **ᴀᴅᴊᴇᴄᴛɪᴠᴇ**). [**Sonja**](lipu-pi-toki-pona.md#lesson-11) summarizes [ɴᴏᴜɴ](#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
 
-| jan pona | jan pona mute |
-|:-|:-|
-| *friendly person* | *many good people* |
+| jan | jan pona | jan pona mute |
+|:-|:-|:-|
+| ɴᴏᴜɴ *person* | (simple) ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ *friendly person* → *friend* | (simple) ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ *friends* |
 
 [**Sonja**](lipu-pi-toki-pona.md#lesson-6) uses the term "ᴀᴅᴊᴇᴄᴛɪᴠᴇ" for ᴀᴅᴠᴇʀʙꜱ, too.
 
 | mute | pona mute |
 |:-|:-|
-| ᴀᴅᴠᴇʀʙ → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *very* | *very good* |
-
-[**Sonja**](lipu-pi-toki-pona.md#lesson-11) summarizes [ɴᴏᴜɴ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s without **"pi"** as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
+| ᴀᴅᴠᴇʀʙ ⇒ ᴀᴅᴊᴇᴄᴛɪᴠᴇ *very* | *very good* |
 
 ### SIMPLE ADJECTIVE
 *([nimi suli poka](#adjective) pona)*
@@ -522,13 +520,13 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 |:-|:-|
 | *a person of much good* → *a very good person* | *a language of good* → *a good language* |
 
-(ᴘᴏɴᴀ) A [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun) consists of a [ɴᴏᴜɴ](#noun) with any number of [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s, including zero. The ᴘᴀʀᴛɪᴄʟᴇ **"pi"** goes between a first and a second [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun) (the second one having one or more [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s). Therefore, a [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) must not contain more than one **"pi"**-phrase, so neither subsequent nor nested **"pi"**-phrases are possible.
+(ᴘᴏɴᴀ) A (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) consists of a [ɴᴏᴜɴ](#noun) with any number of [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s, including zero. The ᴘᴀʀᴛɪᴄʟᴇ **"pi"** goes between a first and a second (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (the second one having one or more [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s). Therefore, a [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) must not contain more than one **"pi"**-phrase, so neither subsequent nor nested **"pi"**-phrases are possible.
 
 | ona li jo e telo pi telo nasa. telo nasa li tan ma ante. |
 |:-|
 | *She has a bar. The beer is imported.* |
 
-(ᴜɴ-ᴘᴏɴᴀ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can be nested or can be following one another, letting aside [**Sonja**](lipu-pi-toki-pona.md#lesson-11)'s ad-hoc distinction between [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s. ...
+(ᴜɴ-ᴘᴏɴᴀ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can be nested or can be following one another, leaving aside [**Sonja**](lipu-pi-toki-pona.md#lesson-11)'s ad-hoc distinction between [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s. ...
 
 | ona li jo e tomo pi telo nasa pi ma ante. |
 |:-|
@@ -540,7 +538,7 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 |:-|:-|
 | *house of imported beer* | *foreign bar* |
 
-(ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can follow one another, assuming that [**Sonja**](lipu-pi-toki-pona.md#lesson-11) allows to conflate "second" [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and "subsequent" [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s. Excluding the risk of misreading subsequent **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as *nested*, the comma between them can be safely removed. The same is possible assuming that [**Sonja**](lipu-pi-toki-pona.md#lesson-11) allows to conflate **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s, or ("first") [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s.
+(ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can follow one another, leaving aside [**Sonja**](lipu-pi-toki-pona.md#lesson-11)'s distinction between "second" (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and "subsequent" (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s. Excluding the risk of misreading subsequent **genitive** (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as *nested*, the comma between them can be safely removed. The same is possible leaving aside [**Sonja**](lipu-pi-toki-pona.md#lesson-11)'s distinction between **genitive** (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s, or "first" (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and "first" [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s in general.
 
 | tomo pi telo nasa, pi ma ante → tomo pi telo nasa pi ma ante |
 |:-|
