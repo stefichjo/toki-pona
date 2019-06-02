@@ -9,11 +9,23 @@ This document encourages to stick always to ᴍᴀɴᴅᴀᴛᴏʀʏ rules, e.g.
 |:-|:-|
 | *I'm new.* | *Is she a parent?* |
 
-Moreover, using ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extensions of Toki Pona's grammar is discouraged.
+Moreover, using ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extensions of Toki Pona's grammar is discouraged, if it introduces additional grammar. For example, introducing "pi li" as an ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extension for [ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ](#clause)s introduces additional omissions, which is discouraged.
 
-| (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) sina lon poka seme e ilo tenpo loje? ⇒ sina pana e ilo tenpo loje lon poka seme? |
+| (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) jan pi (~~ijo ni: ona~~) li kama lon tomo mi ⇒ jan (~~pi ijo~~) ni: ona li kama lon tomo mi |
+|:-|
+| *the person, who came to my house* |
+
+As another example, using a [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ**](#preposition) as a (transitive) [**ᴠᴇʀʙ**](#verb) would introduce additional grammar (i.e. moving a [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ**](#preposition) in front of a [direct object](#direct-object)) and is therefore discouraged.
+
+| (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) sina ~~lon~~ lon poka seme e ilo tenpo loje? ⇒ sina pana e ilo tenpo loje lon poka seme? |
 |:-|
 | *Where did you put the red clock next to?* |
+
+On the other hand, simplifying Toki Pona's grammar without introducing the risk of ambiguities is encouraged. The grammar in question is then considered a stylistic advice for keeping Toki Pona sentences simple, i.e. ᴘᴏɴᴀ. For example, the rule, that [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can't contain more than one ["pi"](#genitive) introduces additional grammar (i.e. the distinction between [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s) can be considered a simplifyable rule, i.e. a stylistic advice for ᴘᴏɴᴀ sentences.
+
+| (ᴜɴ-ᴘᴏɴᴀ) nimi pi jan pona, pi toki pona ⇒ (ᴘᴏɴᴀ) nimi pi jan pona ... nimi pi toki pona |
+|:-|
+| *a friend's Toki Pona name* |
 
 | |
 |:-|
@@ -516,13 +528,13 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 |:-|
 | *She has a bar. The beer is imported.* |
 
-(ᴛᴇᴘᴀɴ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can be nested or can be following one another, letting aside [**Sonja**](lipu-pi-toki-pona.md#lesson-11)'s ad-hoc distinction between [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s. ...
+(ᴜɴ-ᴘᴏɴᴀ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can be nested or can be following one another, letting aside [**Sonja**](lipu-pi-toki-pona.md#lesson-11)'s ad-hoc distinction between [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s. ...
 
 | ona li jo e tomo pi telo nasa pi ma ante. |
 |:-|
 | *She has a house of imported beer.* |
 
-(ᴛᴇᴘᴀɴ) ... Subsequent **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s must remain separated by a comma (unlike ["li"-phrase](#subject-and-predicate)s and ["e"-phrase](#direct-object)s).
+(ᴜɴ-ᴘᴏɴᴀ) ... Subsequent **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s must remain separated by a comma (unlike ["li"-phrase](#subject-and-predicate)s and ["e"-phrase](#direct-object)s).
 
 | tomo pi telo nasa pi ma ante | tomo pi telo nasa, pi ma ante |
 |:-|:-|
