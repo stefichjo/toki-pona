@@ -21,7 +21,7 @@ As another example, using a [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱ�
 |:-|
 | *Where did you put the red clock next to?* |
 
-On the other hand, simplifying Toki Pona's grammar without introducing the risk of ambiguities is encouraged. The grammar in question is then considered a stylistic advice for keeping Toki Pona sentences simple, i.e. ᴘᴏɴᴀ. For example, the rule, that [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can't contain more than one ["pi"](#genitive) introduces additional grammar (i.e. the distinction between [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s) can be considered a simplifyable rule, i.e. a stylistic advice for ᴘᴏɴᴀ sentences.
+On the other hand, simplifying Toki Pona's grammar without introducing the risk of ambiguities is encouraged. The grammar in question is then considered a stylistic advice for keeping Toki Pona sentences simple, i.e. ᴘᴏɴᴀ. For example, the rule, that [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can't contain more than one ["pi"](#genitive) introduces additional grammar (based on the distinction between [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s) can be considered a simplifyable rule, i.e. a stylistic advice for ᴘᴏɴᴀ sentences.
 
 | (ᴜɴ-ᴘᴏɴᴀ) nimi pi jan pona, pi toki pona ⇒ (ᴘᴏɴᴀ) nimi pi jan pona ... nimi pi toki pona |
 |:-|
