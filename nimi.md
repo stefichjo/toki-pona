@@ -180,35 +180,32 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ in
 |:-|
 | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ ⇒ ꜱᴇɴᴛᴇɴᴄᴇ + ꜱᴇɴᴛᴇɴᴄᴇ *I want Mélanie to visit me.* |
 
-(ᴜɴ-ᴘᴏɴᴀ) A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ describes a [ɴᴏᴜɴ](#noun) (typically the [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) "ni") of the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ. If the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ doesn't end with that [ɴᴏᴜɴ](#noun), it is possible to resume the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ after the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
+(ᴜɴ-ᴘᴏɴᴀ) A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ describes a [ɴᴏᴜɴ](#noun) (often the [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) "ni") of the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ. Therefore, if the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ doesn't end with that [ɴᴏᴜɴ](#noun), it is possible to resume the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ after the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
 
-| (ᴜɴ-ᴘᴏɴᴀ) jan Isa li toki e ni: "mama mi o," tawa sewi. ⇒ (ᴘᴏɴᴀ) jan Isa li toki e ni tawa sewi: "mama mi o!" |
+| (ᴜɴ-ᴘᴏɴᴀ) jan Isa li toki e ni: "mama mi o!" tawa sewi. ⇒ (ᴘᴏɴᴀ) jan Isa li toki e ni tawa sewi: "mama mi o!" |
 |:-|
 | Jesus prayed: "My father!" |
 
-A question can be a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
+A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question.
 
 | wile sona nanpa wan li ni: ale li pona anu ike? |
 |:-|
 | *The question number one is whether the universe is good or evil.* |
 
-👍 A ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ, that refers to the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ.
+(ᴘᴏɴᴀ) A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ clause can't refer back to its [ɴᴏᴜɴ](#noun) in the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ.
 
-| jan ni: mi toki e ijo pi ona ni tawa sina |
+| (ᴜɴ-ᴘᴏɴᴀ) mi sona e ni: sina toki e seme. ⇒ mi sona e ijo: sina toki e ona. ⇒ (ᴘᴏɴᴀ) mi sona e ijo. sina toki e ona. |
 |:-|
-| *the person, whom I was talking to you about* |
+| *I know what you're saying.* |
 
-👍 As a **subject** or **direct object**, "(e) ona ni (li)" in the ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ (i.e. the reference to the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ) can be omitted.
+---
 
-| mije ni: ona ni li tawa musi lon poka pi soweli alasa → mije ni: tawa musi lon poka pi soweli alasa | mije ni: mi lukin e ona ni → mije ni: mi lukin |
-|:-|:-|
-| *the man, who dances with wolves* | *the man, whom I am looking at* |
 
 👍 Questions with the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "seme" can be thought of as ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs with an omitted ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ "o toki e ni tawa mi".
 
-| o toki e ni tawa mi: mani li lon seme! → mani li lon seme? |
+| o toki e ni tawa mi: mani li lon seme. → mani li lon seme? |
 |:-|
-| *Tell me where the money is!* → *Where is the money?* |
+| *Tell me where the money is.* → *Where is the money?* |
 
 #### SPATIAL ADJECTIVE
 *([nimi suli poka](#adjective) nasin)*
@@ -488,6 +485,12 @@ One can reply to a yes-no-question with just the **predicate** of a ꜱᴇɴᴛ�
 |:-|
 | *She is a parent.* → *Yes.* |
 
+👍 As a **subject** or **direct object**, "(e) ona ni (li)" in the ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ (i.e. the reference to the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ) can be omitted.
+
+| mije ni: ona ni li tawa musi lon poka pi soweli alasa → mije ni: tawa musi lon poka pi soweli alasa | mije ni: mi lukin e ona ni → mije ni: mi lukin |
+|:-|:-|
+| *the man, who dances with wolves* | *the man, whom I am looking at* |
+
 #### Direct Object
 *([nimi lili luka](#transitive-particle) "e")*
 
@@ -559,18 +562,6 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 | ona li mama anu seme? |
 |:-|
 | *Is she a parent?* |
-
-👍 A yes-no-question with "seme anu" implies that the speaker expects an affirmative answer. In this case "seme" is a ꜱᴇɴᴛᴇɴᴄᴇ.
-
-| seme anu ona li mama? | seme anu ona li mama ala? |
-|:-|:-|
-| *She is a parent, isn't she?* | *She isn't a parent, is she?* |
-
-👍 A yes-no-question with the [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) "a" implies that the speaker expects a negative answer.
-
-| ona li mama, a? | ona li mama ala, a? |
-|:-|:-|
-| *She is a parent, really?* | *She isn't a parent, really?* |
 
 ### PRE-PHRASE PARTICLE
 *([nimi lili luka](#transitive-particle) "la")*
