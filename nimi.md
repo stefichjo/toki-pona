@@ -134,7 +134,7 @@ An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-�
 
 | ɴᴏᴜɴ ~~ijo~~ telo | ɴᴏᴜɴ ~~ijo~~ soweli |
 |:-|:-|
-| ɴᴏᴜɴ water; beverage| ɴᴏᴜɴ animal; meat |
+| ɴᴏᴜɴ water → beverage| ɴᴏᴜɴ animal → meat |
 
 #### CORRELATIVE
 *([nimi suli poka](#adjective) palisa)*
@@ -145,7 +145,7 @@ An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-�
 
 (ᴍᴀɴᴅᴀᴛᴏʀʏ) ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs are ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo".
 
-| ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ (~~ijo~~) ale |
+| ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ~~ijo~~ ale |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ every → ɴᴏᴜɴ everything |
 
@@ -163,12 +163,6 @@ There are no ᴀʀᴛɪᴄʟᴇs in **Toki Pona**.
 | jan lawa |
 |:-|
 | *a/the ruler* |
-
-([**Sonja**](lipu-pi-toki-pona.md#the-gospel) treats "a certain" like an ᴀʀᴛɪᴄʟᴇ, i.e. she leaves it untranslated.
-
-| jan lawa wan ⇒ jan lawa |
-|:-|
-| *a certain ruler* ⇒ *a/the ruler* |
 
 ##### CLAUSE
 *(mute [nimi](#toki-pona-word-classes-and-parts-of-speech) poka)*

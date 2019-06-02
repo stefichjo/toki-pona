@@ -182,4 +182,10 @@ As a rule of thumb, if the ᴘᴀʀᴛɪᴄʟᴇ "pi" doesn't add useful informa
 |:-|
 | *the person over there* → *that person* |
 
+([**Sonja**](lipu-pi-toki-pona.md#the-gospel) treats "a certain" like an ᴀʀᴛɪᴄʟᴇ, i.e. she leaves it untranslated.
+
+| jan lawa wan ⇒ jan lawa |
+|:-|
+| *a certain ruler* ⇒ *a/the ruler* |
+
 
