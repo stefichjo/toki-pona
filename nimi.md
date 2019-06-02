@@ -9,9 +9,9 @@ This document encourages to stick always to ᴍᴀɴᴅᴀᴛᴏʀʏ rules, e.g.
 |:-|:-|
 | *I'm new.* | *Is she a parent?* |
 
-Moreover, using ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extensions of Toki Pona's grammar is discouraged, if it introduces additional grammar. For example, introducing "pi li" as an ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extension for [ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ](#clause)s introduces additional omissions, which is discouraged.
+Moreover, using ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extensions of Toki Pona's grammar is discouraged, if it introduces additional grammar. For example, introducing "pi li" as an ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extension for [ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ](#clause)s introduces additional (and overlapping) omissions, which is discouraged.
 
-| (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) jan pi (~~ijo ni: ona~~) li kama lon tomo mi ⇒ jan (~~pi ijo~~) ni: ona li kama lon tomo mi |
+| (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) jan pi ~~ijo ni: ona~~ li kama lon tomo mi ⇒ jan ~~pi ijo~~ ni: ona li kama lon tomo mi |
 |:-|
 | *the person, who came to my house* |
 
