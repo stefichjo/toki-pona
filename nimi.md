@@ -168,17 +168,23 @@ There are no ᴀʀᴛɪᴄʟᴇs in **Toki Pona**.
 ##### SUBORDINATE CLAUSE
 *(mute [nimi](#toki-pona-word-classes-and-parts-of-speech) poka)*
 
-A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ inside another ꜱᴇɴᴛᴇɴᴄᴇ. **Sonja** uses ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs only at the end of a ꜱᴇɴᴛᴇɴᴄᴇ, calling both the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ "split-up" ꜱᴇɴᴛᴇɴᴄᴇs.
+A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ inside another ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | mi sona e ni: mi anpa. |
 |:-|
-| *I know that I'm low.* |
+| ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I know that I'm low.* |
 
-...
+(ᴘᴏɴᴀ) [**Sonja**](lipu-pi-toki-pona.md#lesson-17) treats ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ as if they were subsequent "ꜱᴇɴᴛᴇɴᴄᴇs".
 
-| suno pi mute ni: mi ken ala lape |
+| mi wile e ni: jan Mewi li kama tawa tomo mi. |
 |:-|
-| *so much light, that I can't sleep* |
+| ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ ⇒ ꜱᴇɴᴛᴇɴᴄᴇ + ꜱᴇɴᴛᴇɴᴄᴇ *I want Mélanie to visit me.* |
+
+(ᴜɴ-ᴘᴏɴᴀ) A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ describes a [ɴᴏᴜɴ](#noun) (typically the [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) "ni") of the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ. If the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ doesn't end with that [ɴᴏᴜɴ](#noun), it is possible to resume the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ after the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
+
+| (ᴜɴ-ᴘᴏɴᴀ) jan Isa li toki e ni: "mama mi o," tawa sewi. ⇒ (ᴘᴏɴᴀ) jan Isa li toki e ni tawa sewi: "mama mi o!" |
+|:-|
+| Jesus prayed: "My father!" |
 
 A question can be a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
 
