@@ -3,11 +3,17 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-This document encourages to stick always to ᴍᴀɴᴅᴀᴛᴏʀʏ rules, e.g. the omission of "li" (after "mi" or "sina" alone), and it discourages from using ᴏᴘᴛɪᴏɴᴀʟ styles that would require unnecessary additional grammar, e.g. "pona ala pona" (which requires the omission of "anu" or something similarly complex) in yes-or-no questions, which can be replaced by "pona anu seme" without changing the meaning and without introducing unnecessary grammar. But, since ᴏᴘᴛɪᴏɴᴀʟ styles are often used, especially by "pre-Pu" speakers, they are also mentioned here. Moreover, using ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extensions of Toki Pona's grammar is discouraged.
+This document encourages to stick always to ᴍᴀɴᴅᴀᴛᴏʀʏ rules, e.g. the omission of "li" (after "mi" or "sina" alone), and it discourages from using ᴏᴘᴛɪᴏɴᴀʟ styles that would require unnecessary additional grammar, e.g. "pona ala pona" (which requires the omission of "anu" or something similarly complex) in yes-or-no questions, which can be replaced by "pona anu seme" without changing the meaning and without introducing unnecessary grammar. But, since ᴏᴘᴛɪᴏɴᴀʟ styles are often used, especially by "pre-Pu" speakers, they are also mentioned here.
 
 | (ᴍᴀɴᴅᴀᴛᴏʀʏ) mi ~~li~~ sin. → mi sin. | (ᴏᴘᴛɪᴏɴᴀʟ) ona li mama ala ~~anu~~ mama? → ona li mama anu seme? | (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) sina lon poka seme e ilo tenpo loje? ⇒ sina pana e ilo tenpo loje lon poka seme? |
 |:-|:-|:-|
 | *I'm new.* | *Is she a parent?* | *Where did you put the red clock next to?* |
+
+Moreover, using ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extensions of Toki Pona's grammar is discouraged.
+
+| (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) sina lon poka seme e ilo tenpo loje? ⇒ sina pana e ilo tenpo loje lon poka seme? |
+|:-|
+| *Where did you put the red clock next to?* |
 
 | |
 |:-|
