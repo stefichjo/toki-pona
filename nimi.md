@@ -516,7 +516,7 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 |:-|
 | *She has a house of imported beer.* |
 
-(ᴛᴇᴘᴀɴ) ... Unlike ["li"-phrase](#subject-and-predicate)s and ["e"-phrase](#direct-object)s, subsequent **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s must remain separated by a comma.
+(ᴛᴇᴘᴀɴ) ... Subsequent **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s must remain separated by a comma (unlike ["li"-phrase](#subject-and-predicate)s and ["e"-phrase](#direct-object)s).
 
 | tomo pi telo nasa pi ma ante | tomo pi telo nasa, pi ma ante |
 |:-|:-|
