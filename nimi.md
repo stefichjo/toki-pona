@@ -94,13 +94,13 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 | [ᴛᴇᴍᴘᴏʀᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#temporal-adjective) |
 | [ɴᴜᴍʙᴇʀ](#number) |
 
-An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a [ɴᴏᴜɴ](#noun) or a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (i.e. a [ɴᴏᴜɴ](#noun) plus **ᴀᴅᴊᴇᴄᴛɪᴠᴇ**). [**Sonja**](lipu-pi-toki-pona.md#lesson-11) summarizes [ɴᴏᴜɴ](#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
+An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun). [**Sonja**](lipu-pi-toki-pona.md#lesson-11) summarizes [ɴᴏᴜɴ](#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
 
 | jan | jan pona | jan pona mute |
 |:-|:-|:-|
-| ɴᴏᴜɴ *person* | (simple) ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ *friendly person* → *friend* | (simple) ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ *friends* |
+| *person* | *friendly person* → *friend* | *friends* |
 
-[**Sonja**](lipu-pi-toki-pona.md#lesson-6) uses the term "ᴀᴅᴊᴇᴄᴛɪᴠᴇ" for ᴀᴅᴠᴇʀʙꜱ, too.
+[**Sonja**](lipu-pi-toki-pona.md#lesson-6) uses the term "**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**" for ᴀᴅᴠᴇʀʙꜱ, too.
 
 | mute | pona mute |
 |:-|:-|
