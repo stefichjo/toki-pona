@@ -180,7 +180,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ in
 |:-|
 | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ ⇒ ꜱᴇɴᴛᴇɴᴄᴇ + ꜱᴇɴᴛᴇɴᴄᴇ *I want Mélanie to visit me.* |
 
-(ᴜɴ-ᴘᴏɴᴀ) A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ describes a [ɴᴏᴜɴ](#noun) of the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ. Therefore, if the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ doesn't end with that [ɴᴏᴜɴ](#noun) (often the [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) "ni"), it is possible to resume the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ after the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
+(ᴘᴏɴᴀ) A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ describes or modifies a word (often the [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) "ni"). If that word is part of a ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ, [**Sonja**](lipu-pi-toki-pona.md#lesson-17) still puts the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ after the full ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ, i.e. without interrupting it.
 
 | (ᴜɴ-ᴘᴏɴᴀ) jan Isa li toki e ni: "mama mi o!" tawa sewi. ⇒ (ᴘᴏɴᴀ) jan Isa li toki e ni tawa sewi: "mama mi o!" |
 |:-|
@@ -192,18 +192,15 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question.
 |:-|
 | *The question number one is whether the universe is good or evil.* |
 
-(ᴘᴏɴᴀ) A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ clause can't refer back to its [ɴᴏᴜɴ](#noun) in the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ.
+(ᴘᴏɴᴀ) A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can't refer back to the word it describes or modifies in the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ. Therefore, ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇs aren't possible. ...
 
-| (ᴜɴ-ᴘᴏɴᴀ) mi sona e ni: sina toki e seme. ⇒ mi sona e ijo: sina toki e ona. ⇒ (ᴘᴏɴᴀ) mi sona e ijo. sina toki e ona. |
+| (ᴜɴ-ᴘᴏɴᴀ) mi sona e ijo: sina pali e ona. ⇒ (ᴘᴏɴᴀ) mi sona e ijo. sina pali e ona. |
 |:-|
-| *I know what you're saying.* |
+| *I know what you're doing.* |
 
----
+(ᴘᴏɴᴀ) ... Accordingly, a ᴄʟᴀᴜꜱᴇ with the [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "seme"](#correlatives) can only be used as a question.
 
-
-👍 Questions with the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "seme" can be thought of as ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs with an omitted ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ "o toki e ni tawa mi".
-
-| o toki e ni tawa mi: mani li lon seme. → mani li lon seme? |
+| (ᴜɴ-ᴘᴏɴᴀ) o toki e ni tawa mi: mani li lon seme. ⇒ (ᴘᴏɴᴀ) o toki e ni tawa mi: mani li lon seme? |
 |:-|
 | *Tell me where the money is.* → *Where is the money?* |
 
