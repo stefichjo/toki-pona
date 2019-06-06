@@ -154,7 +154,7 @@ An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-�
 | |
 |:-|
 | [ᴀʀᴛɪᴄʟᴇ](#article) |
-| [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜSᴇ](#subordinate-clause) |
+| [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause) |
 
 (ᴍᴀɴᴅᴀᴛᴏʀʏ) ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs are ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo".
 
