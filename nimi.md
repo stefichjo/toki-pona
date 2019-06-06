@@ -235,9 +235,9 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question.
 
 👍 As [ɴᴏᴜɴ](#noun)s, ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "sijelo" meaning "life-form".
 
-| ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ akesi |
+| (ᴜɴ-ᴘᴏɴᴀ) ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ ~~ijo~~ akesi ⇒ (ᴘᴏɴᴀ) ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ akesi |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded → ɴᴏᴜɴ amphibian, reptile |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded, reptile-like → ɴᴏᴜɴ reptile |
 
 ### PERSON ADJECTIVE
 *([nimi suli poka](#adjective) jan)*
