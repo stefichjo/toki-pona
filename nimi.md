@@ -3,11 +3,17 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-This document encourages to stick always to ᴍᴀɴᴅᴀᴛᴏʀʏ rules, e.g. the omission of "li" (after "mi" or "sina" alone), and it discourages from using ᴏᴘᴛɪᴏɴᴀʟ styles that would require unnecessary additional grammar, e.g. "pona ala pona" (which requires the omission of "anu" or something similarly complex) in yes-or-no questions, which can be replaced by "pona anu seme" without changing the meaning and without introducing unnecessary grammar. But, since ᴏᴘᴛɪᴏɴᴀʟ styles are often used, especially by "pre-Pu" speakers, they are also mentioned here.
+This document encourages to stick always to ᴍᴀɴᴅᴀᴛᴏʀʏ rules, e.g. the omission of "li" (after "mi" or "sina" alone).
 
-| (ᴍᴀɴᴅᴀᴛᴏʀʏ) mi ~~li~~ sin. → mi sin. | (ᴏᴘᴛɪᴏɴᴀʟ) ona li mama ala ~~anu~~ mama? → ona li mama anu seme? |
-|:-|:-|
-| *I'm new.* | *Is she a parent?* |
+| (ᴍᴀɴᴅᴀᴛᴏʀʏ) mi ~~li~~ sin. → mi sin. |
+|:-|
+| *I'm new.* |
+
+It discourages from using ᴏᴘᴛɪᴏɴᴀʟ styles that would require unnecessary additional grammar, e.g. "pona ala pona" in yes-or-no questions (which requires the omission of "anu" or something similarly complex), which can be replaced by "pona anu seme" without changing the meaning and without introducing unnecessary grammar. But, since ᴏᴘᴛɪᴏɴᴀʟ styles are often used, especially by "pre-Pu" speakers, they are also mentioned here.
+
+| (ᴏᴘᴛɪᴏɴᴀʟ) ona li mama ala ~~anu~~ mama? → ona li mama anu seme? |
+|:-|
+| *Is she a parent?* |
 
 Moreover, using ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extensions of Toki Pona's grammar is discouraged, if it introduces additional grammar. For example, introducing "pi li" as an ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extension for [ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause)s introduces additional (and overlapping) omissions, which is discouraged.
 
@@ -15,13 +21,13 @@ Moreover, using ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extensions of Toki Pona's grammar
 |:-|
 | *the person, who came to my house* |
 
-As another example, using a [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ**](#preposition) as a (transitive) [**ᴠᴇʀʙ**](#verb) would introduce additional grammar (i.e. moving a [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ**](#preposition) in front of a [direct object](#direct-object)) and is therefore discouraged.
+As another example, using a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition) as a (transitive) [ᴠᴇʀʙ](#verb) would introduce additional grammar (i.e. moving a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition) in front of a [direct object](#direct-object)) and is therefore discouraged.
 
 | (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) sina ~~lon~~ lon poka seme e ilo tenpo loje? ⇒ sina pana e ilo tenpo loje lon poka seme? |
 |:-|
 | *Where did you put the red clock next to?* |
 
-On the other hand, simplifying Toki Pona's grammar without introducing the risk of ambiguities is encouraged. The grammar in question is then considered a stylistic advice for keeping Toki Pona sentences simple, i.e. ᴘᴏɴᴀ. For example, the rule, that [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can't contain more than one ["pi"](#genitive) introduces additional grammar (based on the distinction between [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s) can be considered a simplifyable rule, i.e. a stylistic advice for ᴘᴏɴᴀ sentences.
+On the other hand, simplifying Toki Pona's grammar without introducing the risk of ambiguities is encouraged. The grammar in question is then considered a stylistic advice for keeping Toki Pona sentences simple, i.e. ᴘᴏɴᴀ. For example, the rule, that [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can't contain more than one ["pi"](#genitive) introduces additional grammar (based on the distinction between [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s) and can be considered a simplifyable rule, i.e. merely a stylistic advice for ᴘᴏɴᴀ sentences.
 
 | (ᴜɴ-ᴘᴏɴᴀ) nimi pi jan pona, pi toki pona ⇒ (ᴘᴏɴᴀ) nimi pi jan pona ... nimi pi toki pona |
 |:-|
