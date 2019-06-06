@@ -74,6 +74,12 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 |:-|
 | ɴᴏᴜɴ somebody, ᴀᴅᴊᴇᴄᴛɪᴠᴇ somebody's |
 
+The ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation.
+
+| lon ijo |
+|:-|
+| somewhere |
+
 #### PRONOUN
 *([nimi suli lawa](#noun) palisa)*
 
@@ -207,21 +213,18 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question.
 #### SPATIAL ADJECTIVE
 *([nimi suli poka](#adjective) nasin)*
 
-ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇs are ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo" meaning "area".
+ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇs are ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo" with a ꜱᴘᴀᴛɪᴀʟ connotation.
 
-| ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ insa |
+| ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ ~~ijo~~ insa |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner → ɴᴏᴜɴ inner area |
-
-👍 When an ᴀᴅᴊᴇᴄᴛɪᴠᴇ becomes a [ɴᴏᴜɴ](#noun), it can mean the time and place of its accomplishment. ([**Sonja**](lipu-pi-toki-pona.md#preface) does that implicitly before "la".)
-
-| lape | mi lon lape. | sina tan lape. | ona li tawa lape. |
-|:-|:-|:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ resting; ɴᴏᴜɴ time and place of resting | *I am resting.* | *You have been resting.* | *She is going to rest.* |
 
 #### LIFE-FORM ADJECTIVE
 *([nimi suli poka](#adjective) sijelo)*
 
+---
+
+(ᴘᴏɴᴀ) ʟɪꜰᴇ-ꜰᴏʀᴍs are treated like [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](#simple-noun)s.
 ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs are ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs, that, as [ɴᴏᴜɴ](#noun)s, imply "ijo" meaning "life-form".
 
 👍 As [ɴᴏᴜɴ](#noun)s, ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "sijelo" meaning "life-form".
