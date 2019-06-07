@@ -228,7 +228,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question.
 #### LIFE-FORM ADJECTIVE
 *([nimi suli poka](#adjective) sijelo)*
 
-(ᴘᴏɴᴀ) ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs are treated as if derived from ɴᴏᴜɴs.
+(ᴘᴏɴᴀ) ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs are ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo" meaning "life-form". However, they are rarely used as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Therefore, as ᴀᴅᴊᴇᴄᴛɪᴠᴇs they seem to imply "sama", refering to the ɴᴏᴜɴ form.
 
 | (ᴜɴ-ᴘᴏɴᴀ) ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ ~~ijo~~ akesi ⇒ (ᴘᴏɴᴀ) ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ akesi |
 |:-|
