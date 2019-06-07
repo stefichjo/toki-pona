@@ -340,7 +340,7 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 
 When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped. A ᴘᴀʀᴛɪᴄʟᴇ can be added to the ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but no other ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
 
-| mi tawa tawa tomo. → mi tawa tomo. | mi tawa ala tawa tomo. → mi tawa ala tomo. | mi tawa wawa tawa tomo. |
+| mi tawa ~~tawa~~ tomo. | mi tawa ala ~~tawa~~ tomo. | mi tawa wawa tawa tomo. |
 |:-|:-|:-|
 | *I'm going home.* | *I'm not going home.* | *I'm running home.* |
 
