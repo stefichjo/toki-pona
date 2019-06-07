@@ -228,12 +228,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question.
 #### LIFE-FORM ADJECTIVE
 *([nimi suli poka](#adjective) sijelo)*
 
----
-
-(ᴘᴏɴᴀ) ʟɪꜰᴇ-ꜰᴏʀᴍs are treated like [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](#simple-noun)s.
-ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs are ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs, that, as [ɴᴏᴜɴ](#noun)s, imply "ijo" meaning "life-form".
-
-👍 As [ɴᴏᴜɴ](#noun)s, ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "sijelo" meaning "life-form".
+(ᴘᴏɴᴀ) ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs are treated as if derived from ɴᴏᴜɴs.
 
 | (ᴜɴ-ᴘᴏɴᴀ) ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ ~~ijo~~ akesi ⇒ (ᴘᴏɴᴀ) ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ akesi |
 |:-|
