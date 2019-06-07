@@ -15,13 +15,7 @@ It discourages from using ᴏᴘᴛɪᴏɴᴀʟ styles that would require unnece
 |:-|
 | *Is she a parent?* |
 
-Moreover, using ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extensions of Toki Pona's grammar is discouraged, if it introduces additional grammar. For example, introducing "pi li" as an ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extension for [ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause)s introduces additional (and overlapping) omissions, which is discouraged.
-
-| (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) jan pi ~~ijo ni: ona~~ li kama lon tomo mi ⇒ jan ~~pi ijo~~ ni: ona li kama lon tomo mi |
-|:-|
-| *the person, who came to my house* |
-
-As another example, using a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition) as a (transitive) [ᴠᴇʀʙ](#verb) would introduce additional grammar (i.e. moving a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition) in front of a [direct object](#direct-object)) and is therefore discouraged.
+Moreover, using ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extensions of Toki Pona's grammar is discouraged, if it introduces additional grammar. For example, using a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition) as a (transitive) [ᴠᴇʀʙ](#verb) would introduce additional grammar (i.e. moving a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition) in front of a [direct object](#direct-object)) and is therefore discouraged.
 
 | (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) sina ~~lon~~ lon poka seme e ilo tenpo loje? ⇒ sina pana e ilo tenpo loje lon poka seme? |
 |:-|
