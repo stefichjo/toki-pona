@@ -17,7 +17,7 @@ It discourages from using ᴏᴘᴛɪᴏɴᴀʟ styles that would require unnece
 
 Moreover, using ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ extensions of Toki Pona's grammar is discouraged, if it introduces additional grammar. For example, using a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition) as a (transitive) [ᴠᴇʀʙ](#verb) would introduce additional grammar (i.e. moving a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition) in front of a [direct object](#direct-object)) and is therefore discouraged.
 
-| (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) sina ~~lon~~ lon poka seme e ilo tenpo loje? ⇒ sina pana e ilo tenpo loje lon poka seme? |
+| (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) sina lon ~~lon~~ poka seme e ilo tenpo loje? ⇒ sina pana e ilo tenpo loje lon poka seme? |
 |:-|
 | *Where did you put the red clock next to?* |
 
@@ -286,7 +286,7 @@ As [ɴᴏᴜɴ](#noun)s, the ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ "sike" impli
 ### SIMPLE VERB
 *([nimi suli wawa](#verb) pona)*
 
-When their [direct object phrase](#direct-object) is omitted, ꜱɪᴍᴘʟᴇ ᴠᴇʀʙs behave like ꜱɪᴍᴘʟᴇ ᴍᴏᴅɪꜰɪᴇʀs.
+When their [direct object phrase](#direct-object) is omitted, ꜱɪᴍᴘʟᴇ ᴠᴇʀʙs behave like ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇs.
 
 | ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ alasa |
 |:-|
@@ -304,7 +304,7 @@ As a [ɴᴏᴜɴ](#noun), ᴛʜɪɴɢ ᴠᴇʀʙs mean their [direct object](#di
 ### TOOL VERB
 *([nimi suli wawa](#verb) ilo)*
 
-As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean their tool used.
+As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean their tool used. That tool is always an organ.
 
 | ᴛᴏᴏʟ ᴠᴇʀʙ lukin |
 |:-|
@@ -313,7 +313,7 @@ As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean their tool used.
 ### PRE-VERB
 *([nimi suli wawa](#verb) poka)*
 
-Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause)'s [predicate](#subject-and-predicate). Such ᴠᴇʀʙs are ᴘʀᴇ-ᴠᴇʀʙ (or "auxiliary verbs").
+Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause)'s [predicate](#subject-and-predicate). Such ᴠᴇʀʙs are auxiliary verbs. *Sonja* uses the term "ᴘʀᴇ-ᴠᴇʀʙ" for auxiliary verbs.
 
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ + ᴘʀᴇ-ᴠᴇʀʙ kama | ijo/jan li kama e ni: mi sona e toki pona. → mi kama sona e toki pona. |
 |:-|:-|
@@ -344,13 +344,13 @@ When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘ�
 |:-|:-|:-|
 | *I'm going home.* | *I'm not going home.* | *I'm running home.* |
 
-**Sonja** uses ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs only at the end of **predicates** and (safely) removes the **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs. Instead of nested ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s (or [genitive phrase](#genitive)s).
+(ᴘᴏɴᴀ) **Sonja** uses ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs only at the end of **predicates** and (safely) removes the **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs. Instead of nested ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s (or [genitive phrase](#genitive)s).
 
-| mi toki tawa sina, lon tomo. → mi toki tawa sina lon tomo. | jan lon poka → jan poka |
+| (ᴜɴ-ᴘᴏɴᴀ) mi toki tawa sina, lon tomo. ⇒ (ᴘᴏɴᴀ) mi toki tawa sina lon tomo. | (ᴜɴ-ᴘᴏɴᴀ) jan lon poka ⇒ (ᴘᴏɴᴀ) jan poka |
 |:-|:-|
 | *I'm talking to you at home.* | *neighbour* |
 
-"pona (tawa)" + ᴠᴇʀʙ expresses that something is worth being done.
+---"pona (tawa)" + ᴠᴇʀʙ expresses that something is worth being done.
 
 | pona tawa lukin → pona lukin |
 |:-|
