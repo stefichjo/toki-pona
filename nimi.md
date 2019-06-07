@@ -42,7 +42,7 @@ The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
   * [**ɴᴏᴜɴ**](#noun): [**ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ**](#simple-noun) ([**ᴘʀᴏɴᴏᴜɴ**](#pronoun))
-  * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective): [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#simple-adjective), [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#thing-adjective) ([**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#spatial-adjective), [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#life-form-adjective)), [**ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#person-adjective), [**ᴛᴇᴍᴘᴏʀᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#temporal-adjective), [**ɴᴜᴍʙᴇʀ**](#number)
+  * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective): [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#simple-adjective), [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#thing-adjective) ([**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#spatial-adjective), [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#life-form-adjective)), [**ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#person-adjective), [**ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#time-adjective)
   * [**ᴠᴇʀʙ**](#verb): [**ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ**](#simple-verb), [**ᴛʜɪɴɢ ᴠᴇʀʙ**](#thing-verb), [**ᴛᴏᴏʟ ᴠᴇʀʙ**](#tool-verb), [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
   * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
@@ -103,8 +103,7 @@ The ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation
 | [ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#simple-adjective) |
 | [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#thing-adjective) |
 | [ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#person-adjective) |
-| [ᴛᴇᴍᴘᴏʀᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#temporal-adjective) |
-| [ɴᴜᴍʙᴇʀ](#number) |
+| [ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#time-adjective) |
 
 An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun). [**Sonja**](lipu-pi-toki-pona.md#lesson-11) summarizes [ɴᴏᴜɴ](#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
 
@@ -132,11 +131,11 @@ An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-�
 
 | |
 |:-|
-| [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) |
+| [ɴᴜᴍʙᴇʀ](#number) |
 | [ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#spatial-adjective) |
 | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#life-form-adjective) |
 
-(ᴍᴀɴᴅᴀᴛᴏʀʏ) As a [ɴᴏᴜɴ](#noun), ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo".
+(ᴍᴀɴᴅᴀᴛᴏʀʏ) As [ɴᴏᴜɴ](#noun)s, ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo".
 
 | ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ ~~ijo~~ sike |
 |:-|
@@ -148,15 +147,31 @@ An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-�
 |:-|:-|
 | ɴᴏᴜɴ water → beverage| ɴᴏᴜɴ animal → meat |
 
-#### CORRELATIVE
-*([nimi suli poka](#adjective) palisa)*
+#### NUMBER
+*([nimi suli poka ijo](#correlative) nanpa)*
 
 | |
 |:-|
+| [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) |
 | [ᴀʀᴛɪᴄʟᴇ](#article) |
 | [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause) |
 
-(ᴍᴀɴᴅᴀᴛᴏʀʏ) ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs are ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo".
+As [ɴᴏᴜɴ](#noun)s, ɴᴜᴍʙᴇʀs imply "ijo" meaning "amount".
+
+| ɴᴜᴍʙᴇʀs ~~ijo~~ ala |
+|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *zero* → ɴᴏᴜɴ *zero* |
+
+ɴᴜᴍʙᴇʀs can be used as [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle)s after "nanpa".
+
+| sina nanpa wan. |
+|:-|
+| *You're number one.* |
+
+##### CORRELATIVE
+*([nimi suli poka ijo](#adjective) palisa)*
+
+(ᴍᴀɴᴅᴀᴛᴏʀʏ) As [ɴᴏᴜɴ](#noun)s, ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs imply "ijo".
 
 | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ~~ijo~~ ale |
 |:-|
@@ -169,7 +184,7 @@ An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-�
 | *parent of everything* | *every parent* |
 
 ##### ARTICLE
-*([nimi suli poka palisa](#correlative) sona)*
+*([nimi suli poka ijo](#correlative) sona)*
 
 There are no ᴀʀᴛɪᴄʟᴇs in **Toki Pona**.
 
@@ -180,7 +195,7 @@ There are no ᴀʀᴛɪᴄʟᴇs in **Toki Pona**.
 ##### SUBORDINATE CLAUSE
 *(mute [nimi](#toki-pona-word-classes-and-parts-of-speech) poka)*
 
-A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ inside another ꜱᴇɴᴛᴇɴᴄᴇ.
+A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ describing or modifying a word (often the [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) "ni") in another ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | mi sona e ni: mi anpa. |
 |:-|
@@ -192,7 +207,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ in
 |:-|
 | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I want Mélanie to visit me.* ⇒ ꜱᴇɴᴛᴇɴᴄᴇ + ꜱᴇɴᴛᴇɴᴄᴇ *I want this: Mélanie visit me.* |
 
-(ᴘᴏɴᴀ) A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ describes or modifies a word (often the [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) "ni"). If that word is part of a ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ, [**Sonja**](lipu-pi-toki-pona.md#lesson-17) still puts the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ after the full ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ, i.e. without interrupting it.
+(ᴘᴏɴᴀ) [**Sonja**](lipu-pi-toki-pona.md#lesson-17) always completes the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ before beginning the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ, even if the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ doesn't end with the word described or modified by the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
 
 | (ᴜɴ-ᴘᴏɴᴀ) jan Isa li toki e ni: "mama mi o!" tawa sewi. ⇒ (ᴘᴏɴᴀ) jan Isa li toki e ni tawa sewi: "mama mi o!" |
 |:-|
@@ -210,7 +225,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question.
 |:-|
 | *I know what you're doing.* |
 
-(ᴘᴏɴᴀ) ... Accordingly, a ᴄʟᴀᴜꜱᴇ with the [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "seme"](#correlatives) can only be used as a question.
+(ᴘᴏɴᴀ) ... Accordingly, a ᴄʟᴀᴜꜱᴇ with the [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "seme"](#correlatives) can only be used as a quoted question.
 
 | (ᴜɴ-ᴘᴏɴᴀ) o toki e ni tawa mi: mani li lon seme. ⇒ (ᴘᴏɴᴀ) o toki e ni tawa mi: mani li lon seme? |
 |:-|
@@ -230,7 +245,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question.
 
 (ᴘᴏɴᴀ) ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs are ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs, i.e. as [ɴᴏᴜɴ](#noun)s, they imply "ijo" meaning "life-form". However, they are rarely used as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Therefore, as ᴀᴅᴊᴇᴄᴛɪᴠᴇs they seem to imply "sama", refering to the ɴᴏᴜɴ form.
 
-| (ᴜɴ-ᴘᴏɴᴀ) ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ ~~ijo~~ akesi ⇒ (ᴘᴏɴᴀ) ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ akesi |
+| (ᴜɴ-ᴘᴏɴᴀ) ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ ~~ijo~~ akesi ⇒ (ᴘᴏɴᴀ) ᴀᴅᴊᴇᴄᴛɪᴠᴇ ~~sama~~ akesi |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded, reptile-like → ɴᴏᴜɴ reptile |
 
@@ -239,33 +254,18 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question.
 
 As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "jan".
 
-| ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ meli |
+| ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ ~~jan~~ meli |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* → ɴᴏᴜɴ *somebody female* |
 
-### TEMPORAL ADJECTIVE
+### TIME ADJECTIVE
 *([nimi suli poka](#adjective) tenpo)*
 
-ᴛᴇᴍᴘᴏʀᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply the ɴᴏᴜɴ "tenpo".
+As [ɴᴏᴜɴ](#noun)s, the ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ "sike" implies "tenpo".
 
-| ᴛᴇᴍᴘᴏʀᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ sike |
+| ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ ~~tenpo~~ sike |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cyclic* → ɴᴏᴜɴ *cycle* |
-
-### NUMBER
-*([nimi suli poka](#adjective) nanpa)*
-
-ɴᴜᴍʙᴇʀs can be used as [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle)s after "nanpa".
-
-| sina nanpa wan. |
-|:-|
-| *You're number one.* |
-
-👍 As [ɴᴏᴜɴ](#noun)s, ɴᴜᴍʙᴇʀs imply "ijo".
-
-| ɴᴜᴍʙᴇʀ tu | tenpo suno luka tu en tu tu | wan mute pi tu tu
-|:-|:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ two → ɴᴏᴜɴ pair | *fourteen days*, *two times five days, plus four* | *three elements of two pairs*, *three quarters* |
 
 ## VERB
 *([nimi suli](#content-word) wawa)*
@@ -590,3 +590,11 @@ At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, "ni" in front of a [ꜱᴜʙᴏ
 | jan li pona tawa mi tan ni: mi pona tawa jan. → tan ni: mi pona tawa jan, la jan li pona tawa mi. |
 |:-|
 | *People are good to me, because I'm good to people.* → *Because I'm good to people, people are good to me.* |
+
+---
+
+👍 As [ɴᴏᴜɴ](#noun)s, ɴᴜᴍʙᴇʀs imply "ijo".
+
+| ɴᴜᴍʙᴇʀ tu | tenpo suno luka tu en tu tu | wan mute pi tu tu
+|:-|:-|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ two → ɴᴏᴜɴ pair | *fourteen days*, *two times five days, plus four* | *three elements of two pairs*, *three quarters* |
