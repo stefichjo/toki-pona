@@ -188,4 +188,10 @@ As a rule of thumb, if the ᴘᴀʀᴛɪᴄʟᴇ "pi" doesn't add useful informa
 |:-|
 | *a certain ruler* ⇒ *a/the ruler* |
 
+👍 "ijo" + [ɴᴏᴜɴ](#noun) can express possession or topic.
+
+| lipu ni li ijo mi. | lipu ni li toki e ijo mi. |
+|:-|:-|
+| *This book is mine.* | *This book is about me.* |
+
 

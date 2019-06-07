@@ -338,7 +338,7 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 |:-|
 | *I'm giving you an apple.* |
 
-(ᴍᴀɴᴅᴀᴛᴏʀʏ) When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped. A ᴘᴀʀᴛɪᴄʟᴇ can be added to the ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but no other ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
+(ᴍᴀɴᴅᴀᴛᴏʀʏ) When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped. A ᴘᴀʀᴛɪᴄʟᴇ (typically "ala") can be added to the ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but not another ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
 
 | mi tawa ~~tawa~~ tomo. | mi tawa ala ~~tawa~~ tomo. | mi tawa wawa tawa tomo. |
 |:-|:-|:-|
@@ -356,25 +356,11 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 |:-|
 | *I'm talking to you at home.* |
 
----
+(ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped and the [direct object phrase](#direct-object) goes to the end of the ꜱᴇɴᴛᴇɴᴄᴇ.
 
-👍 When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped and the [direct object phrase](#direct-object) goes to the end of the ꜱᴇɴᴛᴇɴᴄᴇ. The ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ can be thought of being used as a ᴠᴇʀʙ.
-
-| mi tawa e ona tawa tomo. → mi tawa tomo e ona. | mi tawa ala e ona tawa tomo. → mi tawa ala tomo e ona. | mi tawa wawa e ona tawa tomo. |
-|:-|:-|:-|
-| *I'm moving it home.* | *I'm not moving it home.* | *I'm moving it home fast.* |
-
-👍 "ijo" + [ɴᴏᴜɴ](#noun) can express possession or topic.
-
-| lipu ni li ijo mi. | lipu ni li toki e ijo mi. |
-|:-|:-|
-| *This book is mine.* | *This book is about me.* |
-
-👍 "insa (tawa)" + ᴠᴇʀʙ expresses that something is do-able, whereas "open (tawa)" + ᴠᴇʀʙ expresses that something is not obstructing the performance of the action described by the ᴠᴇʀʙ.
-
-| insa lukin | open lukin |
-|:-|:-|
-| *visible* | *transparent* |
+| (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) mi tawa tomo e ona. ⇒ mi pana e ona tawa tomo. |
+|:-|
+| *I'm moving it home.* |
 
 # PARTICLE
 *([nimi](#toki-pona-word-classes-and-parts-of-speech) lili)*
