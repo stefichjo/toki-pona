@@ -338,23 +338,25 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 |:-|
 | *I'm giving you an apple.* |
 
-When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped. A ᴘᴀʀᴛɪᴄʟᴇ can be added to the ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but no other ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
+(ᴍᴀɴᴅᴀᴛᴏʀʏ) When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped. A ᴘᴀʀᴛɪᴄʟᴇ can be added to the ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but no other ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
 
 | mi tawa ~~tawa~~ tomo. | mi tawa ala ~~tawa~~ tomo. | mi tawa wawa tawa tomo. |
 |:-|:-|:-|
 | *I'm going home.* | *I'm not going home.* | *I'm running home.* |
 
-(ᴘᴏɴᴀ) **Sonja** uses ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs only at the end of **predicates** and (safely) removes the **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs. Instead of nested ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs, **Sonja** uses [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s (or [genitive phrase](#genitive)s).
+(ᴘᴏɴᴀ) ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are used only at the end of **predicates**. ...
 
-| (ᴜɴ-ᴘᴏɴᴀ) mi toki tawa sina, lon tomo. ⇒ (ᴘᴏɴᴀ) mi toki tawa sina lon tomo. | (ᴜɴ-ᴘᴏɴᴀ) jan lon poka ⇒ (ᴘᴏɴᴀ) jan poka |
+| (ᴜɴ-ᴘᴏɴᴀ) jan lon poka ⇒ (ᴘᴏɴᴀ) jan poka | (ᴜɴ-ᴘᴏɴᴀ) jan pi pona tawa lukin ⇒ (ᴘᴏɴᴀ) jan pi pona lukin |
 |:-|:-|
-| *I'm talking to you at home.* | *neighbour* |
+| *neighbour* | *beautiful person* |
 
----"pona (tawa)" + ᴠᴇʀʙ expresses that something is worth being done.
+(ᴘᴏɴᴀ) ... A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can therefore be safely removed.
 
-| pona tawa lukin → pona lukin |
+| (ᴜɴ-ᴘᴏɴᴀ) mi toki tawa sina, lon tomo. ⇒ (ᴘᴏɴᴀ) mi toki tawa sina lon tomo. |
 |:-|
-| *good for the eye* → *worth seeing*, *beautiful* |
+| *I'm talking to you at home.* |
+
+---
 
 👍 When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped and the [direct object phrase](#direct-object) goes to the end of the ꜱᴇɴᴛᴇɴᴄᴇ. The ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ can be thought of being used as a ᴠᴇʀʙ.
 
