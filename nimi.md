@@ -5,13 +5,13 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 This document encourages to stick always to ᴍᴀɴᴅᴀᴛᴏʀʏ rules, e.g. the omission of "li" (after "mi" or "sina" alone).
 
-| (ᴍᴀɴᴅᴀᴛᴏʀʏ) mi ~~li~~ sin. → mi sin. |
+| (ᴍᴀɴᴅᴀᴛᴏʀʏ) mi ~~li~~ sin. ⇒ mi sin. |
 |:-|
 | *I'm new.* |
 
 It discourages from using ᴏᴘᴛɪᴏɴᴀʟ styles that would require unnecessary additional grammar, e.g. "pona ala pona" in yes-or-no questions (which requires the omission of "anu" or something similarly complex), which can be replaced by "pona anu seme" without changing the meaning and without introducing unnecessary grammar. But, since ᴏᴘᴛɪᴏɴᴀʟ styles are often used, especially by "pre-Pu" speakers, they are also mentioned here.
 
-| (ᴏᴘᴛɪᴏɴᴀʟ) ona li mama ala ~~anu~~ mama? → ona li mama anu seme? |
+| (ᴏᴘᴛɪᴏɴᴀʟ) ona li mama ala ~~anu~~ mama? ⇒ ona li mama anu seme? |
 |:-|
 | *Is she a parent?* |
 
@@ -26,6 +26,48 @@ On the other hand, simplifying Toki Pona's grammar without introducing the risk 
 | (ᴜɴ-ᴘᴏɴᴀ) nimi pi jan pona, pi toki pona ⇒ (ᴘᴏɴᴀ) nimi pi jan pona ... nimi pi toki pona |
 |:-|
 | *a friend's Toki Pona name* |
+
+---
+
+ᴜɴ-ᴘᴜ ⇒ ᴘᴜ
+mi li sin ⇒ mi sin.
+ijo ale ⇒ ale
+(pi ijo ale = pi ijo ale)
+pi pona ⇒ pona
+lon ni la ⇒ ni la
+pona ala anu pona ⇒ pona ala pona
+
+ꜱᴏɴᴊᴀ ⇒ ᴘᴜ
+ijo ala li sama ona. ⇒ ala li sama ona.
+
+ᴛᴇᴘᴀɴ ⇒ ᴘᴜ
+luka tu en mute ⇒ luka tu en tu en wan ⇒ luka en luka en tu en wan ⇒ luka luka tu wan
+
+ᴘᴜ ⇒ ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ
+lukin e sewi ⇒ lukin sewi
+tawa lukin sama waso ⇒ lukin sama waso
+jan ni li pana e sona: ona ⇒ jan pi pana e sona
+sina pana e ilo tenpo loje lon poka seme? ⇒ sina lon poka seme e ilo tenpo loje?
+
+
+ᴜɴ-ᴘᴏɴᴀ ⇒ ᴘᴏɴᴀ
+jan pi pana e sona ⇒ jan ni li pana e sona: ona
+
+ꜱᴏɴᴊᴀ ⇒ ᴘᴏɴᴀ
+...
+
+ᴛᴇᴘᴀɴ ⇒ ᴘᴏɴᴀ
+jan ni: ona li pana e sona ⇒ jan ni li pana e sona: ona
+tomo pi telo nasa, pi ma ante ⇒ tomo ni pi telo nasa li tan ma ante: ona
+tomo pi telo nasa pi ma ante ⇒ ... ?
+pona anu seme ⇒ pona ala pona
+o toki e ni tawa mi: mani li lon seme. ⇒ mi li lon seme?
+wile sona nanpa wan li ni: ale li pona anu ike. ⇒ wile sona nanpa wan li ni: ale li pona anu ike?
+
+ᴘᴏɴᴀ ⇒ ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ
+, taso ⇒ . taso
+
+---
 
 | |
 |:-|
@@ -385,7 +427,7 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 
 [**Sonja**](lipu-pi-toki-pona.md#the-gospel) removes the **quotations marks**, when the sense remains the same.
 
-| tan seme la sina pana e nimi "pona" tawa mi? → tan seme la sina pana e nimi pona tawa mi? |
+| tan seme la sina pana e nimi "pona" tawa mi? ⇒ tan seme la sina pana e nimi pona tawa mi? |
 |:-|
 | *Why do you call me good?* → *Why do you praise me?* |
 
@@ -393,7 +435,7 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 
 | toki pi nanpa wan → toki nanpa wan |
 |:-|
-| *the language with the number one* → *the language number one* |
+| *the language with the number one*, *the language of the first turn* → *the language number one* |
 
 #### INTERJECTION
 *([nimi lili](#particle) kalama)*
@@ -404,15 +446,15 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 |:-|:-|
 | *The animal bleats.* | *She heard a loud bleat.* |
 
-Proper names can be thought of as an ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ, i.e. as an imitation of the sound of the name itself. Therefore, "nimi" meaning "kalama" can be omitted.
+Proper names can be thought of as ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs, i.e. as imitations of the sound of a name. Therefore, "nimi" meaning "kalama" can be omitted.
 
 | nimi ona li nimi Sonja. → nimi ona li Sonja. |
 |:-|
 | *Her name is the name Sonja.* → *Her name goes "Sonja".*, *Her name is Sonja.* |
 
-The affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" is usually implied.
+(ᴘᴏɴᴀ) The affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" can be safely removed.
 
-| ni li lon a. → ni li lon. |
+| (ᴜɴ-ᴘᴏɴᴀ) ni li lon a. ⇒ (ᴘᴏɴᴀ) ni li lon. |
 |:-|
 | *This does exist.* → *This is true.* |
 
@@ -422,9 +464,9 @@ One can use ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as a whole ꜱᴇɴᴛᴇɴᴄᴇ.
 |:-|
 | *Ha!*, *Wow!* |
 
-👍 A word can be repeated as an ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ, replacing "a".
+(ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) A word can be repeated as an ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ, replacing "a".
 
-| sina suli a! → sina suli suli! |
+| (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) sina suli a! ⇒ sina suli suli! |
 |:-|
 | *You are really tall!* |
 
@@ -450,27 +492,34 @@ One can use ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as a whole ꜱᴇɴᴛᴇɴᴄᴇ.
 #### Subject and Predicate
 *([nimi lili luka](#transitive-particle) "li")*
 
-If the **subject** (i.e. the words before the ᴘᴀʀᴛɪᴄʟᴇ "li") is just "mi" or "sina", the ᴘᴀʀᴛɪᴄʟᴇ "li" is omitted.
+(ᴍᴀɴᴅᴀᴛᴏʀʏ) If the **subject** is just "mi" or "sina", the ᴘᴀʀᴛɪᴄʟᴇ "li" is omitted.
 
-| mi li mije. → mi mije. | sina li sin. → sina sin. |
+| mi ~~li~~ mije. | sina ~~li~~ sin. |
 |:-|:-|
 | *I am a man.* | *You are new.* |
 
-A ꜱᴇɴᴛᴇɴᴄᴇ can have multiple **predicates** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "li"). Their **commas** can be (safely) removed.
+A ꜱᴇɴᴛᴇɴᴄᴇ can have multiple **predicates**. Their **commas** can be safely removed.
 
-| ma mama li lili, li lete. → ma mama li lili li lete. |
+| ma mama li lili, li lete. ⇒ ma mama li lili li lete. |
 |:-|
 | *The motherland is small and cold.* |
 
-One can reply to a yes-no-question with just the **predicate** of a ꜱᴇɴᴛᴇɴᴄᴇ.
+When the context is clear, one can use only the **predicate** of a ꜱᴇɴᴛᴇɴᴄᴇ. Yes-or-no questions can be further reduced to the [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) that modifies the **predicate**.
 
-| ona li mama (a). → mama. |
-|:-|
-| *She is a parent.* → *Yes.* |
+| ona li mama. ⇒ mama. | ona li mama ala. ⇒ ala. |
+|:-|:-|
+| *She is a parent.* → *Yes.* | *She is not a parent.* → *No.* |
+
+(ᴘᴏɴᴀ) **Sonja** uses
+ona ni
+mi li = unpona?
+lon ni la = unpona?
+-> 
+mandatory = pona
 
 👍 As a **subject** or **direct object**, "(e) ona ni (li)" in the ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ (i.e. the reference to the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ) can be omitted.
 
-| mije ni: ona ni li tawa musi lon poka pi soweli alasa → mije ni: tawa musi lon poka pi soweli alasa | mije ni: mi lukin e ona ni → mije ni: mi lukin |
+| (ᴜɴ-ᴘᴏɴᴀ) mije ni: ~~ona ni li~~ tawa musi lon poka pi soweli alasa | (ᴜɴ-ᴘᴏɴᴀ) mije ni: mi lukin ~~e ona ni~~ |
 |:-|:-|
 | *the man, who dances with wolves* | *the man, whom I am looking at* |
 
