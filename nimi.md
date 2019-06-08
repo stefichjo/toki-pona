@@ -285,13 +285,13 @@ As [ɴᴏᴜɴ](#noun)s, the ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ "sike" impli
 
 ᴠᴇʀʙs have or imply a [direct object phrase](#direct-object), i.e. they are ᴛʀᴀɴꜱɪᴛɪᴠᴇ by default and "e ijo/ni" can be omitted. (**Sonja** calls these omittable objects ["filler objects"](lipu-pi-toki-pona.md#lesson-5).)
 
-| mije li sona e ijo/ni. → mije li sona. |
+| mije li sona e ijo/ni. ⇒ mije li sona. |
 |:-|
-| *The men know things/that.* → *The men know.* |
+| *The men know things/that.* ⇒ *The men know.* |
 
-ᴠᴇʀʙs can imply a ᴘᴇʀꜰᴇᴄᴛɪᴠᴇ ᴀꜱᴘᴇᴄᴛ, i.e. the ᴀᴅᴊᴇᴄᴛɪᴠᴇ "ale" can be omitted.
+ᴠᴇʀʙs can imply a ᴘᴇʀꜰᴇᴄᴛɪᴠᴇ ᴀꜱᴘᴇᴄᴛ, i.e. the ᴀᴅᴊᴇᴄᴛɪᴠᴇ "ale" is omitted.
 
-| ona li pali ale e tomo. → ona li pali e tomo. |
+| (ᴜɴ-ᴘᴜ) ona li pali ale e tomo. ⇒ (ᴘᴜ) ona li pali e tomo. |
 |:-|
 | *She was doing all the work on a house.* → *She has built a house.* |
 
@@ -350,29 +350,29 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 |:-|
 | *I'm giving you an apple.* |
 
-(ᴍᴀɴᴅᴀᴛᴏʀʏ) When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped. A ᴘᴀʀᴛɪᴄʟᴇ (typically "ala") can be added to the ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but not another ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
+When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped. A ᴘᴀʀᴛɪᴄʟᴇ (typically "ala") can be added to the ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but not another ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
 
-| mi tawa ~~tawa~~ tomo. | mi tawa ala ~~tawa~~ tomo. | mi tawa wawa tawa tomo. |
+| (ᴜɴ-ᴘᴜ) mi tawa tawa tomo. ⇒ (ᴘᴜ) mi tawa tomo. | (ᴜɴ-ᴘᴜ) mi tawa ala tawa tomo. ⇒ (ᴘᴜ) | mi tawa wawa tawa tomo. |
 |:-|:-|:-|
 | *I'm going home.* | *I'm not going home.* | *I'm running home.* |
 
-(ᴘᴏɴᴀ) ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are used only at the end of **predicates**. ...
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are used only at the end of **predicates**.
 
 | (ᴜɴ-ᴘᴏɴᴀ) jan lon poka ⇒ (ᴘᴏɴᴀ) jan poka | (ᴜɴ-ᴘᴏɴᴀ) jan pi pona tawa lukin ⇒ (ᴘᴏɴᴀ) jan pi pona lukin |
 |:-|:-|
 | *neighbour* | *beautiful person* |
 
-(ᴘᴏɴᴀ) ... A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can therefore be safely removed.
+A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can therefore be safely removed.
 
 | (ᴜɴ-ᴘᴏɴᴀ) mi toki tawa sina, lon tomo. ⇒ (ᴘᴏɴᴀ) mi toki tawa sina lon tomo. |
 |:-|
 | *I'm talking to you at home.* |
 
-(ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped and the [direct object phrase](#direct-object) goes to the end of the ꜱᴇɴᴛᴇɴᴄᴇ.
+When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped and the [direct object phrase](#direct-object) goes to the end of the ꜱᴇɴᴛᴇɴᴄᴇ.
 
-| (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) mi tawa tomo e ona. ⇒ mi pana e ona tawa tomo. |
+| (ᴘᴜ) mi pana e ona tawa tomo. ⇒ (ᴜɴ-ᴘᴜ) mi tawa tomo e ona. |
 |:-|
-| *I'm moving it home.* |
+| *I'm sending it home.* |
 
 # PARTICLE
 *([nimi](#toki-pona-word-classes-and-parts-of-speech) lili)*
