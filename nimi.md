@@ -3,17 +3,23 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. ᴘᴜ rules enforce the omission of words, whereas ᴘᴏɴᴀ rules purposely limit Toki Pona's expressiveness for a simpler style. Both kinds of rules complicate Toki Pona's grammar, yet they are considered ᴍᴀɴᴅᴀᴛᴏʀʏ, and sticking to them is therefore encouraged.
+This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. ᴘᴜ rules enforce the omission of words.
 
-| (ᴜɴ-ᴘᴜ) toki pi pona ⇒  (ᴘᴜ) toki pona | (ᴜɴ-ᴘᴏɴᴀ) mi wile e ona o toki. ⇒ (ᴘᴏɴᴀ) mi wile e ni: ona li toki. |
-|:-|:-|
-| *Language of Good* | *I want her to talk.* |
+| (ᴜɴ-ᴘᴜ) toki pi pona ⇒  (ᴘᴜ) toki pona |
+|:-|
+| *Language of Good* |
+
+ᴘᴏɴᴀ rules purposely limit Toki Pona's expressiveness for the sake of a simpler style. Both ᴘᴜ rules and ᴘᴏɴᴀ rules actually complicate Toki Pona's grammar, yet they are considered ᴍᴀɴᴅᴀᴛᴏʀʏ, and sticking to them is therefore encouraged.
+
+| (ᴜɴ-ᴘᴏɴᴀ) mi wile e ona o musi. ⇒ (ᴘᴏɴᴀ) mi wile e ni: ona li musi. |
+|:-|
+| *I want her to play.* |
 
 This document discourages from using ᴏʙꜱᴏʟᴇᴛᴇ rules, i.e. rules that would go unnecessarily beyond the scope of what is ᴘᴜ and ᴘᴏɴᴀ.
 
-| (ᴘᴜ) sina pana e ilo lon seme? ⇒  (ᴜɴ-ᴘᴜ) sina lon seme e ilo? | (ᴘᴏɴᴀ) ... ⇒ (ᴜɴ-ᴘᴏɴᴀ) ... |
-|:-|:-|
-| *Where did you put the tool?* | *...* |
+| (ᴘᴜ) sina pana e ona lon seme? ⇒  (ᴜɴ-ᴘᴜ) sina lon seme e ona? |
+|:-|
+| *Where did you put it?* |
 
 A source of ᴏʙꜱᴏʟᴇᴛᴇ rules is [ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona16.php), a.k.a pre-Pu Toki Pona.
 
@@ -23,15 +29,15 @@ A source of ᴏʙꜱᴏʟᴇᴛᴇ rules is [ᴘɪᴊᴇ](http://tokipona.net/tp
 
 This document also mentions some ᴏᴘᴛɪᴏɴᴀʟ rules, i.e. rules mentioned by ꜱᴏɴᴊᴀ that would be ᴏʙꜱᴏʟᴇᴛᴇ if not for the sake of backward-compatibility with pre-Pu speakers.
 
-| (ꜱᴏɴᴊᴀ) ... ⇒ (ᴘᴏɴᴀ) ... | (ᴘᴏɴᴀ) ona li mama anu seme? ⇒  (ꜱᴏɴᴊᴀ) ona li mama ala mama? |
-|:-|:-|
-| *...* | *Is she a parent?* |
+| (ᴘᴏɴᴀ) ona li mama anu seme? ⇒  (ꜱᴏɴᴊᴀ) ona li mama ala mama? |
+|:-|
+| *Is she a parent?* |
 
 | (ꜱᴏɴᴊᴀ) ijo ala li sama ona. ⇒ (ᴘᴜ) ala li sama ona. | (ᴘᴜ) ona li pana e telo tawa kasi. ⇒ (ꜱᴏɴᴊᴀ) ona li telo e kasi. |
 |:-|:-|
-| *Nothing is like him.* | *She waters the plant.* |
+| *Nothing is like it.* | *She waters the plant.* |
 
-This document treats some ᴘᴏɴᴀ rules as ᴏᴘᴛɪᴏɴᴀʟ stylistic advices, when they introduce additional grammar for the sake of a simpler style. For example, the distinction between [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s only serves the purpose of motivating the ᴘᴏɴᴀ rule, that [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can't contain more than one ["pi"](#genitive).
+This document treats some ᴘᴏɴᴀ rules as ᴏᴘᴛɪᴏɴᴀʟ stylistic advices, when they introduce additional grammatical cocepts for the sake of a simpler style. For example, the distinction between [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s only serves the purpose of motivating the ᴘᴏɴᴀ rule, that [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can't contain more than one ["pi"](#genitive).
 
 | (ᴛᴇᴘᴀɴ) nimi pi jan pona, pi toki pona ⇒ (ᴘᴏɴᴀ) nimi ni pi jan pona li lon toki pona: ona |
 |:-|
