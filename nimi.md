@@ -35,13 +35,13 @@ ijo ale ⇒ ale
 (pi ijo ale = pi ijo ale)
 pi pona ⇒ pona
 lon ni la ⇒ ni la
-pona ala anu pona ⇒ pona ala pona
 
 ꜱᴏɴᴊᴀ ⇒ ᴘᴜ
 ijo ala li sama ona. ⇒ ala li sama ona.
 
-ᴛᴇᴘᴀɴ ⇒ ᴘᴜ
+ᴘᴜ ⇒ ꜱᴏɴᴊᴀ
 luka tu en mute ⇒ luka tu en tu en wan ⇒ luka en luka en tu en wan ⇒ luka luka tu wan
+pona ala anu pona ⇒ pona ala pona
 
 ᴘᴜ ⇒ ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ
 lukin e sewi ⇒ lukin sewi
@@ -56,12 +56,12 @@ jan pi pana e sona ⇒ jan ni li pana e sona: ona
 ꜱᴏɴᴊᴀ ⇒ ᴘᴏɴᴀ
 ...
 
-ᴛᴇᴘᴀɴ ⇒ ᴘᴏɴᴀ
-jan ni: ona li pana e sona ⇒ jan ni li pana e sona: ona
-tomo pi telo nasa, pi ma ante ⇒ tomo ni pi telo nasa li tan ma ante: ona
-tomo pi telo nasa pi ma ante ⇒ ... ?
-pona anu seme ⇒ pona ala pona
+ᴘᴏɴᴀ ⇒ ꜱᴏɴᴊᴀ
 o toki e ni tawa mi: mani li lon seme. ⇒ mi li lon seme?
+pona anu seme ⇒ pona ala anu pona
+tomo pi telo nasa, pi ma ante ⇒ tomo ni pi telo nasa li tan ma ante: ona
+jan ni: ona li pana e sona ⇒ jan ni li pana e sona: ona
+tomo pi telo nasa pi ma ante ⇒ ... ?
 wile sona nanpa wan li ni: ale li pona anu ike. ⇒ wile sona nanpa wan li ni: ale li pona anu ike?
 
 ᴘᴏɴᴀ ⇒ ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ
