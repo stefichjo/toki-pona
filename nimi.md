@@ -147,15 +147,15 @@ An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-�
 
 (ᴍᴀɴᴅᴀᴛᴏʀʏ) As [ɴᴏᴜɴ](#noun)s, ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo".
 
-| ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ ~~ijo~~ sike |
+| ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ sike |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ round → ɴᴏᴜɴ something round |
 
-(ᴍᴀɴᴅᴀᴛᴏʀʏ) All [ɴᴏᴜɴ](#noun)s can imply food.
+All [ɴᴏᴜɴ](#noun)s can imply food.
 
-| ɴᴏᴜɴ ~~ijo~~ telo | ɴᴏᴜɴ ~~ijo~~ soweli |
+| ɴᴏᴜɴ telo | ɴᴏᴜɴ kala |
 |:-|:-|
-| ɴᴏᴜɴ water → beverage| ɴᴏᴜɴ animal → meat |
+| ɴᴏᴜɴ water → beverage| ɴᴏᴜɴ fish → seefood |
 
 #### NUMBER
 *([nimi suli poka ijo](#thing-adjective) nanpa)*
@@ -168,7 +168,7 @@ An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-�
 
 As [ɴᴏᴜɴ](#noun)s, ɴᴜᴍʙᴇʀs imply "ijo" meaning "amount".
 
-| ɴᴜᴍʙᴇʀs ~~ijo~~ ala |
+| ɴᴜᴍʙᴇʀs ala |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *zero* → ɴᴏᴜɴ *zero* |
 
@@ -183,7 +183,7 @@ As [ɴᴏᴜɴ](#noun)s, ɴᴜᴍʙᴇʀs imply "ijo" meaning "amount".
 
 (ᴍᴀɴᴅᴀᴛᴏʀʏ) As [ɴᴏᴜɴ](#noun)s, ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs imply "ijo".
 
-| ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ~~ijo~~ ale |
+| ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ale |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ every → ɴᴏᴜɴ everything |
 
@@ -211,33 +211,29 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ de
 |:-|
 | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I know that I'm low.* |
 
-(ᴘᴏɴᴀ) [**Sonja**](lipu-pi-toki-pona.md#lesson-17) treats ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇs and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs as if they were subsequent "ꜱᴇɴᴛᴇɴᴄᴇs".
+[**Sonja**](lipu-pi-toki-pona.md#lesson-17) treats ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇs and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs as if they were subsequent "ꜱᴇɴᴛᴇɴᴄᴇs".
 
 | mi wile e ni: jan Melani li kama tawa tomo mi. |
 |:-|
-| ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I want Mélanie to visit me.* ⇒ ꜱᴇɴᴛᴇɴᴄᴇ + ꜱᴇɴᴛᴇɴᴄᴇ *I want this: Mélanie visit me.* |
+| (ᴘᴏɴᴀ) ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I want Mélanie to visit me.* ⇒ (ꜱᴏɴᴊᴀ) ꜱᴇɴᴛᴇɴᴄᴇ + ꜱᴇɴᴛᴇɴᴄᴇ *I want this: Mélanie visit me.* |
 
-(ᴘᴏɴᴀ) [**Sonja**](lipu-pi-toki-pona.md#lesson-17) always completes the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ before beginning the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ, even if the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ doesn't end with the word described or modified by the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
+[**Sonja**](lipu-pi-toki-pona.md#lesson-17) always completes the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ before beginning the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ, even if the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ doesn't end with the word described or modified by the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
 
-| (ᴜɴ-ᴘᴏɴᴀ) jan Isa li toki e ni: "mama mi o!" tawa sewi. ⇒ (ᴘᴏɴᴀ) jan Isa li toki e ni tawa sewi: "mama mi o!" |
+| (ᴛᴇᴘᴀɴ) jan Isa li toki e ni: "mama mi o!" tawa sewi. ⇒ (ᴘᴏɴᴀ) jan Isa li toki e ni tawa sewi: "mama mi o!" |
 |:-|
 | Jesus prayed: "My father!" |
 
-A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question.
+A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question, but not a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ.
 
-| wile sona nanpa wan li ni: ale li pona anu ike? |
+| (ᴛᴇᴘᴀɴ) wile sona nanpa wan li ni: ale li pona anu ike. ⇒ (ᴘᴏɴᴀ) wile sona nanpa wan li ni: ale li pona anu ike? |
 |:-|
 | *The question number one is whether the universe is good or evil.* |
 
-(ᴘᴏɴᴀ) A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can't refer back to the word it describes or modifies in the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ. Therefore, ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇs aren't possible. ...
-
-| (ᴜɴ-ᴘᴏɴᴀ) mi sona e ijo: sina pali e ona. ⇒ (ᴘᴏɴᴀ) mi sona e ijo. sina pali e ona. |
+| (ᴛᴇᴘᴀɴ) mi sona e ijo: sina pali e ona. ⇒ (ᴘᴏɴᴀ) mi sona e ijo. sina pali e ona. |
 |:-|
 | *I know what you're doing.* |
 
-(ᴘᴏɴᴀ) ... Accordingly, a ᴄʟᴀᴜꜱᴇ with the [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ "seme"](#correlatives) can only be used as a quoted question.
-
-| (ᴜɴ-ᴘᴏɴᴀ) o toki e ni tawa mi: mani li lon seme. ⇒ (ᴘᴏɴᴀ) o toki e ni tawa mi: mani li lon seme? |
+| (ᴛᴇᴘᴀɴ) o toki e ni tawa mi: mani li lon seme. ⇒ (ᴘᴏɴᴀ) o toki e ni tawa mi: mani li lon seme? |
 |:-|
 | *Tell me where the money is.* → *Where is the money?* |
 
@@ -246,9 +242,9 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question.
 
 As [ɴᴏᴜɴ](#noun)s, ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo" with a ꜱᴘᴀᴛɪᴀʟ connotation.
 
-| ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ ~~ijo~~ insa |
+| ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ insa |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner → ɴᴏᴜɴ inner area |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner → ɴᴏᴜɴ innards |
 
 #### LIFE-FORM ADJECTIVE
 *([nimi suli poka](#adjective) sijelo)*
