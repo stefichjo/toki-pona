@@ -382,7 +382,7 @@ When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘ�
 | [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle) |
 | [ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇ](#transitive-particle) |
 
-### SIMPLE PARTICLE
+## SIMPLE PARTICLE
 *([nimi lili](#particle) pona)*
 
 | |
@@ -407,7 +407,7 @@ When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘ�
 |:-|
 | *the language with the number one*, *the language of the first turn* → *the language number one* |
 
-#### INTERJECTION
+### INTERJECTION
 *([nimi lili](#particle) kalama)*
 
 ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs are ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs that imitate a sound. ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs can be used as [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-verb)s meaning "to produce that sound".
