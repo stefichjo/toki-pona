@@ -283,12 +283,6 @@ As [ɴᴏᴜɴ](#noun)s, the ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ "sike" impli
 | [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) |
 | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
 
-ᴠᴇʀʙs have or imply a [direct object phrase](#direct-object), i.e. they are ᴛʀᴀɴꜱɪᴛɪᴠᴇ by default and "e ijo/ni" can be omitted. (**Sonja** calls these omittable objects ["filler objects"](lipu-pi-toki-pona.md#lesson-5).)
-
-| mije li sona e ijo/ni. ⇒ mije li sona. |
-|:-|
-| *The men know things/that.* ⇒ *The men know.* |
-
 ᴠᴇʀʙs can imply a ᴘᴇʀꜰᴇᴄᴛɪᴠᴇ ᴀꜱᴘᴇᴄᴛ, i.e. the ᴀᴅᴊᴇᴄᴛɪᴠᴇ "ale" is omitted.
 
 | (ᴜɴ-ᴘᴜ) ona li pali ale e tomo. ⇒ (ᴘᴜ) ona li pali e tomo. |
@@ -389,11 +383,11 @@ When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘ�
 |:-|
 | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) |
 
-ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs are tokiponized names or sounds. They always follow a [ɴᴏᴜɴ](#noun). When "pi nimi (pi kalama)" can be infered **quotation marks** can be omitted.
+ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs are tokiponized names or sounds. They always follow a [ɴᴏᴜɴ](#noun). When "pi nimi (pi kalama)" can be infered, **quotation marks** can be omitted.
 
-| ona li jo e nimi "Sonja". | ona li jan pi nimi "Sonja". → ona li jan Sonja |
+| ona li jo e nimi "Sonja". | ona li jan pi nimi "Sonja". ⇒ ona li jan Sonja |
 |:-|:-|
-| *She has the name "Sonja".* | *She is the person called "Sonja".* → *She is Sonja.* |
+| *She has the name "Sonja".* | *She is the person called "Sonja".* ⇒ *She is Sonja.* |
 
 [**Sonja**](lipu-pi-toki-pona.md#the-gospel) removes the **quotations marks**, when the sense remains the same.
 
@@ -412,17 +406,17 @@ When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘ�
 
 ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs are ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs that imitate a sound. ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs can be used as [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-verb)s meaning "to produce that sound".
 
-| soweli li kalama "mu". → soweli li mu. | ona li kute e kalama "mu" wawa. → ona li kute e mu wawa. |
+| soweli li kalama "mu". ⇒ soweli li mu. | ona li kute e kalama "mu" wawa. ⇒ ona li kute e mu wawa. |
 |:-|:-|
 | *The animal bleats.* | *She heard a loud bleat.* |
 
 Proper names can be thought of as ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs, i.e. as imitations of the sound of a name. Therefore, "nimi" meaning "kalama" can be omitted.
 
-| nimi ona li nimi Sonja. → nimi ona li Sonja. |
+| nimi ona li nimi Sonja. ⇒ nimi ona li Sonja. |
 |:-|
 | *Her name is the name Sonja.* → *Her name goes "Sonja".*, *Her name is Sonja.* |
 
-(ᴘᴏɴᴀ) The affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" can be safely removed.
+As the opposite of "ala", the affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" can be safely removed.
 
 | (ᴜɴ-ᴘᴏɴᴀ) ni li lon a. ⇒ (ᴘᴏɴᴀ) ni li lon. |
 |:-|
@@ -433,12 +427,6 @@ One can use ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as a whole ꜱᴇɴᴛᴇɴᴄᴇ.
 | a! |
 |:-|
 | *Ha!*, *Wow!* |
-
-(ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) A word can be repeated as an ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ, replacing "a".
-
-| (ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) sina suli a! ⇒ sina suli suli! |
-|:-|
-| *You are really tall!* |
 
 ## TRANSITIVE PARTICLE
 *([nimi lili](#particle) luka)*
@@ -462,45 +450,56 @@ One can use ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as a whole ꜱᴇɴᴛᴇɴᴄᴇ.
 #### Subject and Predicate
 *([nimi lili luka](#transitive-particle) "li")*
 
-(ᴍᴀɴᴅᴀᴛᴏʀʏ) If the **subject** is just "mi" or "sina", the ᴘᴀʀᴛɪᴄʟᴇ "li" is omitted.
+If the **subject** is just "mi" or "sina", the ᴘᴀʀᴛɪᴄʟᴇ "li" is omitted.
 
-| mi ~~li~~ mije. | sina ~~li~~ sin. |
+| (ᴜɴ-ᴘᴜ) mi li mije. ⇒ (ᴘᴜ) mi mije. | (ᴜɴ-ᴘᴜ) sina li sin. ⇒ (ᴘᴜ) sina sin. |
 |:-|:-|
 | *I am a man.* | *You are new.* |
 
-A ꜱᴇɴᴛᴇɴᴄᴇ can have multiple **predicates**. Their **commas** can be safely removed.
+Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates**. Their **commas** can be safely removed.
 
 | ma mama li lili, li lete. ⇒ ma mama li lili li lete. |
 |:-|
 | *The motherland is small and cold.* |
 
-When the context is clear, one can use only the **predicate** of a ꜱᴇɴᴛᴇɴᴄᴇ. Yes-or-no questions can be further reduced to the [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) that modifies the **predicate**.
+When there is enough context, the **subject** of a ꜱᴇɴᴛᴇɴᴄᴇ can be omitted in order to answer yes-or-no questions. The answer to a yes-or-now question can be further reduced to the [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) that modifies the **predicate**.
 
-| ona li mama. ⇒ mama. | ona li mama ala. ⇒ ala. |
+| ona li mama. → (ᴘᴜ) mama. | ona li mama ala. → (ᴜɴ-ᴘᴜ) mama ala. ⇒ (ᴘᴜ) ala. |
 |:-|:-|
 | *She is a parent.* → *Yes.* | *She is not a parent.* → *No.* |
 
-(ᴘᴏɴᴀ) **Sonja** uses
-ona ni
-mi li = unpona?
-lon ni la = unpona?
--> 
-mandatory = pona
+When there is enough context, a [ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause) can be reduced to its **predicate**.
 
-👍 As a **subject** or **direct object**, "(e) ona ni (li)" in the ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ (i.e. the reference to the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ) can be omitted.
-
-| (ᴜɴ-ᴘᴏɴᴀ) mije ni: ~~ona ni li~~ tawa musi lon poka pi soweli alasa | (ᴜɴ-ᴘᴏɴᴀ) mije ni: mi lukin ~~e ona ni~~ |
-|:-|:-|
-| *the man, who dances with wolves* | *the man, whom I am looking at* |
+| (ᴘᴜ) mije ni li tawa musi lon poka pi soweli alasa ⇒ (ᴜɴ-ᴘᴜ) mije ni: tawa musi lon poka pi soweli alasa |
+|:-|
+| *the person, that is going home* |
 
 #### Direct Object
 *([nimi lili luka](#transitive-particle) "e")*
 
-A **predicate** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "li") can have multiple **direct objects** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "e"). Their **commas** can be (safely) omitted.
+Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates** can have **direct objects**. Their **commas** can be safely omitted.
 
 | ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
 |:-|
 | *She cooks the meat and the rice.* |
+
+When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can be omitted. (**Sonja** calls these omittable objects ["filler objects"](lipu-pi-toki-pona.md#lesson-5).)
+
+| mije li sona e ijo/ni/ona. ⇒ mije li sona. |
+|:-|
+| *The men know things/that/it.* ⇒ *The men know.* |
+
+
+
+
+---
+
+[ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause)
+👍 As a **subject** or **direct object**, "(e) ona ni (li)" in the ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ (i.e. the reference to the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ) can be omitted.
+
+| (ᴜɴ-ᴘᴏɴᴀ) mije ni: ~~ona li~~ tawa musi lon poka pi soweli alasa | (ᴜɴ-ᴘᴏɴᴀ) mije ni: mi lukin ~~e ona ni~~ |
+|:-|:-|
+| *the man, who dances with wolves* | *the man, whom I am looking at* |
 
 #### Volative, Vocative and Imperative
 *([nimi lili luka](#transitive-particle) "o")*
