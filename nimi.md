@@ -575,9 +575,15 @@ By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", one can start a ꜱᴇɴᴛᴇɴᴄ�
 
 At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "lon" is omitted.
 
-| ona li kama lon tenpo pimeja ni. → ~~lon~~ tenpo pimeja ni la ona li kama. |
+| ona li kama lon tenpo pimeja ni. → (ᴜɴ-ᴘᴜ) lon tenpo pimeja ni la ona li kama. ⇒ (ᴘᴜ) tenpo pimeja ni la ona li kama. |
 |:-|
 | *She is coming tonight.* → *Tonight, she is coming.* |
+
+All [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ can be omitted, reading "la" (or "lon") as "in the context of".
+
+| (ᴘᴜ) tawa mi la ni li pona. ⇒ (ꜱᴏɴᴊᴀ) mi la ni li pona. |
+|:-|
+| *In the context of me, this is good.* |
 
 At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, "ni" in front of a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause) is omitted.
 
