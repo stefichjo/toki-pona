@@ -489,18 +489,6 @@ When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can
 |:-|
 | *The men know things/that/it.* ⇒ *The men know.* |
 
-
-
-
----
-
-[ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause)
-👍 As a **subject** or **direct object**, "(e) ona ni (li)" in the ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ (i.e. the reference to the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ) can be omitted.
-
-| (ᴜɴ-ᴘᴏɴᴀ) mije ni: ~~ona li~~ tawa musi lon poka pi soweli alasa | (ᴜɴ-ᴘᴏɴᴀ) mije ni: mi lukin ~~e ona ni~~ |
-|:-|:-|
-| *the man, who dances with wolves* | *the man, whom I am looking at* |
-
 #### Volative, Vocative and Imperative
 *([nimi lili luka](#transitive-particle) "o")*
 
@@ -512,7 +500,7 @@ When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can
 
 "kute" can be omitted after the ᴘᴀʀᴛɪᴄʟᴇ "o". ꜱᴏɴᴊᴀ doesn't combine two "o"-ᴘᴀʀᴛɪᴄʟᴇs.
 
-| o kute! → o! | jan Ali o, o wawa! → jan Ali o wawa! |
+| o kute! → o! | (ᴜɴ-ᴘᴜ) jan Ali o, o wawa! → (ᴘᴜ) jan Ali o wawa! |
 |:-|:-|
 | *Listen!* → *Hey!* | *Hey Ali, be strong!* |
 
@@ -525,35 +513,17 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 #### Genitive
 *([nimi lili luka](#transitive-particle) "pi")*
 
-(ᴍᴀɴᴅᴀᴛᴏʀʏ) If a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (or [ᴀᴅᴊᴇᴄᴛɪᴠᴇ-ᴘʜʀᴀꜱᴇ](#adjective), or **"pi"**-phrase) contains only one [ɴᴏᴜɴ](#noun), the ᴘᴀʀᴛɪᴄʟᴇ "pi" is omitted and the phrase becomes an [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective).
+If a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (or [ᴀᴅᴊᴇᴄᴛɪᴠᴇ-ᴘʜʀᴀꜱᴇ](#adjective), or **"pi"**-phrase) contains only one [ɴᴏᴜɴ](#noun), the ᴘᴀʀᴛɪᴄʟᴇ "pi" is omitted and the phrase becomes an [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective).
 
-| jan pi pona mute | toki ~~pi~~ pona → toki pona |
+| jan pi pona mute | (ᴜɴ-ᴘᴜ) toki pi pona → (ᴘᴜ) toki pona |
 |:-|:-|
 | *a person of much good* → *a very good person* | *a language of good* → *a good language* |
 
-(ᴘᴏɴᴀ) A (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) consists of a [ɴᴏᴜɴ](#noun) with any number of [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s, including zero. The ᴘᴀʀᴛɪᴄʟᴇ **"pi"** goes between a first and a second (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (the second one having one or more [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s). Therefore, a [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) must not contain more than one **"pi"**-phrase, so neither subsequent nor nested **"pi"**-phrases are possible.
+A (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) consists of a [ɴᴏᴜɴ](#noun) with any number of [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s, including zero. The ᴘᴀʀᴛɪᴄʟᴇ **"pi"** goes between a first and a second (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (the second one having one or more [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s). Therefore, a [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) must not contain more than one **"pi"**-phrase, so neither subsequent nor nested **"pi"**-phrases are possible.
 
-| ona li jo e telo pi telo nasa. telo nasa li tan ma ante. |
+| (ᴛᴇᴘᴀɴ) ona li jo e tomo pi telo nasa pi ma ante. ⇒ (ᴘᴏɴᴀ) ona li jo e telo pi telo nasa. telo nasa li tan ma ante. |
 |:-|
-| *She has a bar. The beer is imported.* |
-
-(ᴜɴ-ᴘᴏɴᴀ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can be nested or can be following one another, leaving aside [ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-11)'s ad-hoc distinction between [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s. ...
-
-| ona li jo e tomo pi telo nasa pi ma ante. |
-|:-|
-| *She has a house of imported beer.* |
-
-(ᴜɴ-ᴘᴏɴᴀ) ... Subsequent **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s must remain separated by a comma (unlike ["li"-phrase](#subject-and-predicate)s and ["e"-phrase](#direct-object)s).
-
-| tomo pi telo nasa pi ma ante | tomo pi telo nasa, pi ma ante |
-|:-|:-|
-| *house of imported beer* | *foreign bar* |
-
-(ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can follow one another, leaving aside [ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-11)'s distinction between "second" (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and "subsequent" (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s. Excluding the risk of misreading subsequent **genitive** (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as *nested*, the comma between them can be safely removed. The same is possible leaving aside [ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-11)'s distinction between **genitive** (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s, or "first" (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and "first" [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s in general.
-
-| tomo pi telo nasa, pi ma ante → tomo pi telo nasa pi ma ante |
-|:-|
-| *foreign bar* |
+| *She has a house of imported beer.* ⇒ *She has a bar. The beer is imported.* |
 
 ### CONJUNCTION
 *([nimi lili luka](#transitive-particle) "en", [nimi lili luka](#transitive-particle) "anu")*
