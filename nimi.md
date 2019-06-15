@@ -557,20 +557,7 @@ All [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s of a ᴘʀᴇ-ᴘʜʀᴀꜱ�
 
 At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, "ni" in front of a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause) is omitted.
 
-| jan li pona tawa mi lon ni: mi pona tawa jan. → ~~lon ni:~~ mi pona tawa jan, la jan li pona tawa mi. |
+| (ᴜɴ-ᴘᴜ) lon ni: mi pona tawa jan, la jan li pona tawa mi. (ᴘᴜ) mi pona tawa jan, la jan li pona tawa mi. |
 |:-|
-| *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
+| *If I'm good to people, people are good to me.* |
 
-👍 Other [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s introducing a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause) are kept, including "ni".
-
-| jan li pona tawa mi tan ni: mi pona tawa jan. → tan ni: mi pona tawa jan, la jan li pona tawa mi. |
-|:-|
-| *People are good to me, because I'm good to people.* → *Because I'm good to people, people are good to me.* |
-
----
-
-👍 As [ɴᴏᴜɴ](#noun)s, ɴᴜᴍʙᴇʀs imply "ijo".
-
-| ɴᴜᴍʙᴇʀ tu | tenpo suno luka tu en tu tu | wan mute pi tu tu
-|:-|:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ two → ɴᴏᴜɴ pair | *fourteen days*, *two times five days, plus four* | *three elements of two pairs*, *three quarters* |
