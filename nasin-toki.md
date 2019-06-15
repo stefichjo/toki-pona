@@ -7,8 +7,8 @@ In the spirit of [Lesson 19 — The Frontier](lipu-pi-toki-pona.md#lesson-19), t
 
 | |
 |:-|
-| [Toki Pona Dictionary](ale-pi-nimi-mute.md) |
 | [Toki Pona Word Classes and Parts of Speech](nimi.md) |
+| [Toki Pona Dictionary](ale-pi-nimi-mute.md) |
 | [Orthography](nasin-sitelen.md) |
 | [Dialects](toki-sin.md) |
 

@@ -3,7 +3,7 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. ᴘᴜ rules enforce the omission of words.
+This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. ᴘᴜ rules enforce the omission of words:
 
 | (ᴜɴ-ᴘᴜ) toki pi pona ⇒  (ᴘᴜ) toki pona |
 |:-|
@@ -29,15 +29,15 @@ A source of ᴏʙꜱᴏʟᴇᴛᴇ rules is [ᴘɪᴊᴇ](http://tokipona.net/tp
 
 This document also mentions some ᴏᴘᴛɪᴏɴᴀʟ rules, i.e. rules mentioned by ꜱᴏɴᴊᴀ that would be ᴏʙꜱᴏʟᴇᴛᴇ if not for the sake of backward-compatibility with pre-Pu speakers.
 
-| (ᴘᴏɴᴀ) ona li mama anu seme? ⇒  (ꜱᴏɴᴊᴀ) ona li mama ala mama? |
-|:-|
-| *Is she a parent?* |
-
-| (ꜱᴏɴᴊᴀ) ijo ala li sama ona. ⇒ (ᴘᴜ) ala li sama ona. | (ᴘᴜ) ona li pana e telo tawa kasi. ⇒ (ꜱᴏɴᴊᴀ) ona li telo e kasi. |
+| (ᴘᴏɴᴀ) ona li mama ala anu mama? ⇒ ona li mama anu seme? ⇒  (ꜱᴏɴᴊᴀ) ona li mama ala mama? | (ᴘᴜ) ona li pana e telo tawa kasi. ⇒ (ꜱᴏɴᴊᴀ) ona li telo e kasi. |
 |:-|:-|
-| *Nothing is like it.* | *She waters the plant.* |
+| *Is she a parent?* | *She waters the plant.* |
 
-This document treats some ᴘᴏɴᴀ rules as ᴏᴘᴛɪᴏɴᴀʟ stylistic advices, when they introduce additional grammatical cocepts for the sake of a simpler style. For example, the distinction between [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s only serves the purpose of motivating the ᴘᴏɴᴀ rule, that [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can't contain more than one ["pi"](#genitive).
+| (ꜱᴏɴᴊᴀ) ijo ala li sama ona. ⇒ (ᴘᴜ) ala li sama ona. |
+|:-|
+| *Nothing is like it.* |
+
+This document treats some ᴘᴏɴᴀ rules as ᴏᴘᴛɪᴏɴᴀʟ stylistic advices, when they introduce additional grammatical cocepts merely for the sake of a simpler style. For example, the distinction between [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s only serves the purpose of motivating the ᴘᴏɴᴀ rule that [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can't contain more than one ["pi"](#genitive). In case of doubt: be ᴘᴏɴᴀ!
 
 | (ᴛᴇᴘᴀɴ) nimi pi jan pona, pi toki pona ⇒ (ᴘᴏɴᴀ) nimi ni pi jan pona li lon toki pona: ona |
 |:-|
@@ -115,13 +115,13 @@ The ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation
 | [ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#person-adjective) |
 | [ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#time-adjective) |
 
-An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun). [**Sonja**](lipu-pi-toki-pona.md#lesson-11) summarizes [ɴᴏᴜɴ](#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
+An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun). [ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-11) summarizes [ɴᴏᴜɴ](#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
 
 | jan | jan pona | jan pona mute |
 |:-|:-|:-|
 | *person* | *friendly person* → *friend* | *friends* |
 
-[**Sonja**](lipu-pi-toki-pona.md#lesson-6) uses the term "**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**" for ᴀᴅᴠᴇʀʙꜱ, too.
+[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-6) uses the term "ᴀᴅᴊᴇᴄᴛɪᴠᴇ" for ᴀᴅᴠᴇʀʙꜱ, too.
 
 | mute | pona mute |
 |:-|:-|
@@ -211,13 +211,13 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ de
 |:-|
 | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I know that I'm low.* |
 
-[**Sonja**](lipu-pi-toki-pona.md#lesson-17) treats ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇs and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs as if they were subsequent "ꜱᴇɴᴛᴇɴᴄᴇs".
+[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-17) treats ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇs and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs as if they were subsequent "ꜱᴇɴᴛᴇɴᴄᴇs".
 
 | mi wile e ni: jan Melani li kama tawa tomo mi. |
 |:-|
 | (ᴘᴏɴᴀ) ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I want Mélanie to visit me.* ⇒ (ꜱᴏɴᴊᴀ) ꜱᴇɴᴛᴇɴᴄᴇ + ꜱᴇɴᴛᴇɴᴄᴇ *I want this: Mélanie visit me.* |
 
-[**Sonja**](lipu-pi-toki-pona.md#lesson-17) always completes the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ before beginning the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ, even if the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ doesn't end with the word described or modified by the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
+[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-17) always completes the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ before beginning the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ, even if the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ doesn't end with the word described or modified by the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
 
 | (ᴛᴇᴘᴀɴ) jan Isa li toki e ni: "mama mi o!" tawa sewi. ⇒ (ᴘᴏɴᴀ) jan Isa li toki e ni tawa sewi: "mama mi o!" |
 |:-|
@@ -319,7 +319,7 @@ As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean their tool used. That too
 ### PRE-VERB
 *([nimi suli wawa](#verb) poka)*
 
-Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause)'s [predicate](#subject-and-predicate). Such ᴠᴇʀʙs are auxiliary verbs. *Sonja* uses the term "ᴘʀᴇ-ᴠᴇʀʙ" for auxiliary verbs.
+Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause)'s [predicate](#subject-and-predicate). Such ᴠᴇʀʙs are auxiliary verbs. ꜱᴏɴᴊᴀ uses the term "ᴘʀᴇ-ᴠᴇʀʙ" for auxiliary verbs.
 
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ + ᴘʀᴇ-ᴠᴇʀʙ kama | ijo/jan li kama e ni: mi sona e toki pona. → mi kama sona e toki pona. |
 |:-|:-|
@@ -364,7 +364,7 @@ A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can
 
 When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped and the [direct object phrase](#direct-object) goes to the end of the ꜱᴇɴᴛᴇɴᴄᴇ.
 
-| (ᴘᴜ) mi pana e ona tawa tomo. ⇒ (ᴜɴ-ᴘᴜ) mi tawa tomo e ona. |
+| (ᴘᴜ) mi pana e ona tawa tomo. ⇒ (ᴛᴇᴘᴀɴ) mi tawa tomo e ona. |
 |:-|
 | *I'm sending it home.* |
 
@@ -389,13 +389,13 @@ When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘ�
 |:-|:-|
 | *She has the name "Sonja".* | *She is the person called "Sonja".* ⇒ *She is Sonja.* |
 
-[**Sonja**](lipu-pi-toki-pona.md#the-gospel) removes the **quotations marks**, when the sense remains the same.
+[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#the-gospel) removes the **quotations marks**, when the sense remains the same.
 
-| tan seme la sina pana e nimi "pona" tawa mi? ⇒ tan seme la sina pana e nimi pona tawa mi? |
+| (ᴘᴜ) tan seme la sina pana e nimi "pona" tawa mi? ⇒ (ꜱᴏɴᴊᴀ) tan seme la sina pana e nimi pona tawa mi? |
 |:-|
-| *Why do you call me good?* → *Why do you praise me?* |
+| *Why do you call me good?* |
 
-[**Sonja**](lipu-pi-toki-pona.md#lesson-12) removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ. ([**Pije**](http://tokipona.net/tp/janpije/okamasona16.php) doesn't remove the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇs with "nanpa", i.e. leaving them as ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs.)
+[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-12) removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ. ([**Pije**](http://tokipona.net/tp/janpije/okamasona16.php) doesn't remove the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇs with "nanpa", i.e. leaving them as ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs.)
 
 | toki pi nanpa wan → toki nanpa wan |
 |:-|
@@ -412,21 +412,21 @@ When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘ�
 
 Proper names can be thought of as ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs, i.e. as imitations of the sound of a name. Therefore, "nimi" meaning "kalama" can be omitted.
 
-| nimi ona li nimi Sonja. ⇒ nimi ona li Sonja. |
+| nimi ona li nimi "Sonja". ⇒ nimi ona li Sonja. |
 |:-|
-| *Her name is the name Sonja.* → *Her name goes "Sonja".*, *Her name is Sonja.* |
-
-As the opposite of "ala", the affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" can be safely removed.
-
-| (ᴜɴ-ᴘᴏɴᴀ) ni li lon a. ⇒ (ᴘᴏɴᴀ) ni li lon. |
-|:-|
-| *This does exist.* → *This is true.* |
+| *Her name is the name "Sonja".* → *Her name goes "Sonja".*, *Her name is Sonja.* |
 
 One can use ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as a whole ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | a! |
 |:-|
 | *Ha!*, *Wow!* |
+
+As the opposite of "ala", the affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" can be safely removed. The comma between a subsequent sentence consisting only of the ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" can therefore be safely removed.
+
+| (ᴜɴ-ᴘᴏɴᴀ) ni li lon a. ⇒ (ᴘᴏɴᴀ) ni li lon. | (ᴜɴ-ᴘᴏɴᴀ) sina suli, a! ⇒ (ᴘᴏɴᴀ) sina suli a! |
+|:-|:-|
+| *This does exist.* → *This is true.* | *You're tall, wow!* |
 
 ## TRANSITIVE PARTICLE
 *([nimi lili](#particle) luka)*
@@ -456,15 +456,15 @@ If the **subject** is just "mi" or "sina", the ᴘᴀʀᴛɪᴄʟᴇ "li" is omi
 |:-|:-|
 | *I am a man.* | *You are new.* |
 
-Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates**. Their **commas** can be safely removed.
+Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates**. **Commas** between them can be safely removed.
 
-| ma mama li lili, li lete. ⇒ ma mama li lili li lete. |
+| (ꜱᴏɴᴊᴀ) ma mama li lili, li lete. ⇒ (ᴘᴏɴᴀ) ma mama li lili li lete. |
 |:-|
 | *The motherland is small and cold.* |
 
 When there is enough context, the **subject** of a ꜱᴇɴᴛᴇɴᴄᴇ can be omitted in order to answer yes-or-no questions. The answer to a yes-or-now question can be further reduced to the [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) that modifies the **predicate**.
 
-| ona li mama. → (ᴘᴜ) mama. | ona li mama ala. → (ᴜɴ-ᴘᴜ) mama ala. ⇒ (ᴘᴜ) ala. |
+| ona li mama. ⇒ mama. | ona li mama ala. ⇒ (ᴜɴ-ᴘᴜ) mama ala. ⇒ (ᴘᴜ) ala. |
 |:-|:-|
 | *She is a parent.* → *Yes.* | *She is not a parent.* → *No.* |
 
@@ -479,11 +479,11 @@ When there is enough context, a [ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ](#subor
 
 Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates** can have **direct objects**. Their **commas** can be safely omitted.
 
-| ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
+| (ꜱᴏɴᴊᴀ) ona li seli e soweli, e pan. ⇒ (ᴘᴏɴᴀ) ona li seli e soweli e pan. |
 |:-|
 | *She cooks the meat and the rice.* |
 
-When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can be omitted. (**Sonja** calls these omittable objects ["filler objects"](lipu-pi-toki-pona.md#lesson-5).)
+When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can be omitted. (ꜱᴏɴᴊᴀ calls these omittable objects ["filler objects"](lipu-pi-toki-pona.md#lesson-5).)
 
 | mije li sona e ijo/ni/ona. ⇒ mije li sona. |
 |:-|
@@ -510,7 +510,7 @@ When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can
 |:-|:-|
 | *You should look.* → *Look!* | *Ali should be strong.* |
 
-"kute" can be omitted after the ᴘᴀʀᴛɪᴄʟᴇ "o". **Sonja** doesn't combine two "o"-ᴘᴀʀᴛɪᴄʟᴇs.
+"kute" can be omitted after the ᴘᴀʀᴛɪᴄʟᴇ "o". ꜱᴏɴᴊᴀ doesn't combine two "o"-ᴘᴀʀᴛɪᴄʟᴇs.
 
 | o kute! → o! | jan Ali o, o wawa! → jan Ali o wawa! |
 |:-|:-|
@@ -537,7 +537,7 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 |:-|
 | *She has a bar. The beer is imported.* |
 
-(ᴜɴ-ᴘᴏɴᴀ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can be nested or can be following one another, leaving aside [**Sonja**](lipu-pi-toki-pona.md#lesson-11)'s ad-hoc distinction between [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s. ...
+(ᴜɴ-ᴘᴏɴᴀ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can be nested or can be following one another, leaving aside [ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-11)'s ad-hoc distinction between [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s and [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s. ...
 
 | ona li jo e tomo pi telo nasa pi ma ante. |
 |:-|
@@ -549,7 +549,7 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 |:-|:-|
 | *house of imported beer* | *foreign bar* |
 
-(ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can follow one another, leaving aside [**Sonja**](lipu-pi-toki-pona.md#lesson-11)'s distinction between "second" (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and "subsequent" (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s. Excluding the risk of misreading subsequent **genitive** (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as *nested*, the comma between them can be safely removed. The same is possible leaving aside [**Sonja**](lipu-pi-toki-pona.md#lesson-11)'s distinction between **genitive** (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s, or "first" (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and "first" [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s in general.
+(ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ) **Genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can follow one another, leaving aside [ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-11)'s distinction between "second" (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and "subsequent" (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s. Excluding the risk of misreading subsequent **genitive** (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as *nested*, the comma between them can be safely removed. The same is possible leaving aside [ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-11)'s distinction between **genitive** (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s, or "first" (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and "first" [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s in general.
 
 | tomo pi telo nasa, pi ma ante → tomo pi telo nasa pi ma ante |
 |:-|
