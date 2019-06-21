@@ -94,3 +94,8 @@ If "ni" is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is not w
 |:--:| 
 | *mi weka e ike jan, la mi weka e ike mi.* |
 
+## Emoji
+
+| ✔ | 🐊 | 0️⃣ | 🏹 | ♾ | ⬇️ | 🔀 | ✖️ | ⏩ | ➕ | 🛒 |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| a | akesi | ala | alasa | ale | anpa | ante | anu | awen | e | en | esun |
