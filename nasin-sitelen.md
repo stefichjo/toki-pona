@@ -106,5 +106,5 @@ If "ni" is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is not w
 | ken | kepeken | kili | kiwen | ko | kon | kule | kulupu | kute | la | lape | laso |
 | 🗿 | 👗 | ❄️ | ▶️ | 👶 | 🧵 | 📄 | ❤️ | ↕️ | 🖐️ | 👁️ | 🕳️ |
 | lawa | len | lete | li | lili | linja | lipu | loje | lon | luka | lukin | lupa |
-
-🔵🔴🟡
+| 🏝 | 👪 | 💰 | 👧 | 👈 | 👨 | 🍽 | 💀 | ⬅️ | 😹 | 🌙 | 🃏 |
+| ma | mama | mani | meli | mi | mije | moku | moli | monsi | mu | mun | musi |
