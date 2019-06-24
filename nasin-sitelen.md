@@ -115,6 +115,6 @@ If "ni" is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is not w
 | 👍 | ⛣ | 🔁 | 🔥 | 🔲 | ❓ | ⬆️ | 🏃 | ⭕ | 🌟 | 👉 | ➡️ |
 | *pona* | *pu* | *sama* | *seli* | *selo* | *seme* | *sewi* | *sijelo* | *sike* | *sin* | *sina* | *sinpin* |
 | 🖼 | ℹ️ | 🐈 | 🧓 | 🌞️ | 🛏 | 🍭 | ↩️ | ⏪ | ↪️ | 💧 | ⏰ |
-️| *sitelen* | *sona* | *soweli* | *suli* | *suno* | *supa* | *suwi* | *tan* | *taso* | *tawa* | *telo* | *tenpo* |
+| *sitelen* | *sona* | *soweli* | *suli* | *suno* | *supa* | *suwi* | *tan* | *taso* | *tawa* | *telo* | *tenpo* |
 | 🗣 | 🏠 | 2️⃣ | 💏 | 👄 | ⚔️ | ⚪ | 1️⃣ | 🐤 | ⚡ | ➖ | 🇼 |
 | *toki* | *tomo* | *tu* | *unpa* | *uta* | *utala* | *walo* | *wan* | *waso* | *wawa* | *weka* | *wile* |
