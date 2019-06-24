@@ -102,5 +102,7 @@ If "ni" is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is not w
 | a | akesi | ala | alasa | ale | anpa | ante | anu | awen | e | en | esun |
 | ⚛️ | 👎 | 🔨 | 🎯  | 💩 | 👤 | 💛 | 👜 | 🐟 | 🔉 | ⏮️ | 🌴 |
 | ijo | ike | ilo | insa | jaki | jan | jelo | jo | kala | kalama | kama | kasi |
-| 🇰 | 🔧 | 🍏 | 💎 | … | 💨 | 🌈 | 👥 | 👂 | ◀️ | 😴 | 💙 |
+| 🇰 | 🔧 | 🍏 | 💎 | 🧹 | 💨 | 🌈 | 👥 | 👂 | ◀️ | 😴 | 💙 |
 | ken | kepeken | kili | kiwen | ko | kon | kule | kulupu | kute | la | lape | laso |
+
+⛣
