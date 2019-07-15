@@ -113,9 +113,12 @@ If "ni" is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is not w
 | *mute* | *nanpa* | *nasa* | *nasin* | *nena* | *ni* | *nimi* | *noka* | *o* | *olin* | *ona* | *open* |
 | 💥 | ✊ | 📏 | 🍞 | 🎁 | ⏹️ | 💗 | ⚫ | ⏭ | 🦟 | ↔️ | 📦 |
 | *pakala* | *pali* | *palisa* | *pan* | *pana* | *pi* | *pilin* | *pimeja* | *pini* | *pipi* | *poka* | *poki* |
-| 👍 | ⛣ | 🔁 | 🔥 | 🔲 | ❓ | ⬆️ | 🏃 | ⭕ | 🌟 | 👉 | ➡️ |
+| 👍 | 📖 | 🔁 | 🔥 | 🔲 | ❓ | ⬆️ | 🏃 | ⭕ | 🌟 | 👉 | ➡️ |
 | *pona* | *pu* | *sama* | *seli* | *selo* | *seme* | *sewi* | *sijelo* | *sike* | *sin* | *sina* | *sinpin* |
 | 🖼 | ℹ️ | 🐈 | 🧓 | 🌞️ | 🛏 | 🍭 | ↩️ | ⏪ | ↪️ | 💧 | 🕒 |
 | *sitelen* | *sona* | *soweli* | *suli* | *suno* | *supa* | *suwi* | *tan* | *taso* | *tawa* | *telo* | *tenpo* |
 | 🗣 | 🏠 | 2️⃣ | 💏 | 👄 | ⚔️ | ⚪ | 1️⃣ | 🐤 | ⚡ | ➖ | 🇼 |
 | *toki* | *tomo* | *tu* | *unpa* | *uta* | *utala* | *walo* | *wan* | *waso* | *wawa* | *weka* | *wile* |
+
+* 🟡 🟡 🟨
+
