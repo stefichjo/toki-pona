@@ -229,13 +229,9 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question, but not a �
 |:-|
 | *The question number one is whether the universe is good or evil.* |
 
-| (ᴛᴇᴘᴀɴ) mi sona e ijo: sina pali e ona. ⇒ (ᴘᴏɴᴀ) mi sona e ijo. sina pali e ona. |
+| (ᴛᴇᴘᴀɴ) o toki e ni: mani li lon seme. ⇒ (ᴜɴ-ᴘᴏɴᴀ) o toki e ni: mani li lon seme? ⇒ (ᴘᴏɴᴀ) mani li lon seme? o toki e ni. ⇒ (ᴛᴇᴘᴀɴ) o toki e ijo: mani li lon ona ni. |
 |:-|
-| *I know what you're doing.* |
-
-| (ᴛᴇᴘᴀɴ) o toki e ni tawa mi: mani li lon seme. ⇒ (ᴘᴏɴᴀ) o toki e ni tawa mi: mani li lon seme? |
-|:-|
-| *Tell me where the money is.* → *Where is the money?* |
+| *Tell me where the money is.* |
 
 #### SPATIAL ADJECTIVE
 *([nimi suli poka](#adjective) nasin)*
