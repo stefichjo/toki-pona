@@ -37,7 +37,7 @@ This document also mentions some ᴏᴘᴛɪᴏɴᴀʟ rules, i.e. rules mention
 |:-|
 | *Nothing is like it.* |
 
-This document treats some ᴘᴏɴᴀ rules as ᴏᴘᴛɪᴏɴᴀʟ stylistic advices, when they introduce additional grammatical cocepts merely for the sake of a simpler style. For example, the distinction between [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s only serves the purpose of motivating the ᴘᴏɴᴀ rule that [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can't contain more than one ["pi"](#genitive). In case of doubt: be ᴘᴏɴᴀ!
+This document treats some ᴘᴏɴᴀ rules as ᴏᴘᴛɪᴏɴᴀʟ stylistic advices, when they introduce additional grammatical concepts merely for the sake of a simpler style. For example, the distinction between [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s only serves the purpose of motivating the ᴘᴏɴᴀ rule that [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can't contain more than one ["pi"](#genitive). In case of doubt: be ᴘᴏɴᴀ!
 
 | (ᴛᴇᴘᴀɴ) nimi pi jan pona, pi toki pona ⇒ (ᴘᴏɴᴀ) nimi ni pi jan pona li lon toki pona: ona |
 |:-|
@@ -95,6 +95,18 @@ The ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation
 | lon ijo |
 |:-|
 | somewhere |
+
+ᴠᴇʀʙs after "jan" can be read as active participles ...
+
+| (ᴛᴇᴘᴀɴ) mi jan alasa e soweli lon waso. ⇒ (ᴘᴏɴᴀ) mi kama e ni: soweli li alasa e waso. |
+|:-|
+| *I make the dog hunt the duck.* |
+
+... and after "ijo" they can be read as passive participles.
+
+| (ᴛᴇᴘᴀɴ) waso li ijo alasa lon soweli. ⇒ (ᴘᴏɴᴀ) soweli li alasa e waso. |
+|:-|
+| *The duck is being hunted by the dog.* |
 
 #### PRONOUN
 *([nimi suli lawa](#noun) palisa)*
