@@ -1,6 +1,6 @@
 # Pre-Pu Toki Pona
 
-In ᴘɪᴊᴇ's course [o kama sona e toki pona](http://http://tokipona.net/tp/janpije/okamasona.php), ᴘɪᴊᴇ describes Toki Pona as it used to be before ꜱᴏɴᴊᴀ published [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) in 2014.
+In ᴘɪᴊᴇ's course [o kama sona e toki pona](http://http://tokipona.net/tp/janpije/okamasona.php), ᴘɪᴊᴇ describes Toki Pona as it used to be before ꜱᴏɴᴊᴀ published [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) in 2014. At that time it was safe to say that there were more "traditional" Tokiponans than "official" ones.
 
 ## oko
 
