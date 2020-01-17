@@ -1,6 +1,6 @@
 # Pre-Pu Toki Pona
 
-In ᴘɪᴊᴇ's course [o kama sona e toki pona](http://http://tokipona.net/tp/janpije/okamasona.php), ᴘɪᴊᴇ describes Toki Pona as it used to be before ꜱᴏɴᴊᴀ published [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) in 2014. At that time it was safe to say that there were more "traditional" Tokiponans than "official" ones.
+In his course [o kama sona e toki pona](http://http://tokipona.net/tp/janpije/okamasona.php), ᴘɪᴊᴇ describes Toki Pona as it used to be before ꜱᴏɴᴊᴀ published [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) in 2014. At that time it was safe to say that there were more "traditional" Tokiponans than "official" ones.
 
 ## oko
 
@@ -9,6 +9,14 @@ In ᴘɪᴊᴇ's course [o kama sona e toki pona](http://http://tokipona.net/tp/
 | | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *Something is in my eye.* | **ijo li lon oko mi.** | **ijo li lon lukin mi.** |
+
+## awen, lukin, sona
+
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona9.php) never uses **awen**, **lukin** or **sona** as *auxiliary verbs* (a.k.a. *pre-verbs*), but he uses **sona** for *to understand*.
+
+| | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|
+| *I'm thinking about the house.* | **mi kama sona e tomo.** | **mi toki insa e ijo tomo.** |
 
 ## sewi
 
@@ -24,7 +32,7 @@ In ᴘɪᴊᴇ's course [o kama sona e toki pona](http://http://tokipona.net/tp/
 
 | | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
-| *I'm using tools. * | **mi kepeken e ilo.** | **mi kepeken ilo.** |
+| *I'm using tools.* | **mi kepeken e ilo.** | **mi kepeken ilo.** |
 
 ## anpa
 
@@ -56,7 +64,7 @@ In ᴘɪᴊᴇ's course [o kama sona e toki pona](http://http://tokipona.net/tp/
 
 | | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
-| *I don't know the reason.* | **mi sona ala e tan.** | **...** |
+| *I don't know the reason.* | **mi sona ala e tan.** | **tan seme? mi sona ala.** |
 
 ## kin
 
@@ -121,7 +129,7 @@ In ᴘɪᴊᴇ's course [o kama sona e toki pona](http://http://tokipona.net/tp/
 
 ## la
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona17.php) never uses *commas* before **la**. ꜱᴏɴᴊᴀ does after a *conditional sentence*.
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona17.php) never uses *commas* before **la**. ꜱᴏɴᴊᴀ does after *conditional sentences*.
 
 | | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
