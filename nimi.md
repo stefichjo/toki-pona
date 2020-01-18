@@ -96,18 +96,6 @@ The ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation
 |:-|
 | somewhere |
 
-ᴠᴇʀʙs after "jan" can be read as active participles ...
-
-| (ᴛᴇᴘᴀɴ) mi jan alasa e soweli lon waso. ⇒ (ᴘᴏɴᴀ) mi kama e ni: soweli li alasa e waso. |
-|:-|
-| *I make the dog hunt the duck.* |
-
-... and after "ijo" they can be read as passive participles.
-
-| (ᴛᴇᴘᴀɴ) waso li ijo alasa lon soweli. ⇒ (ᴘᴏɴᴀ) soweli li alasa e waso. |
-|:-|
-| *The duck is being hunted by the dog.* |
-
 #### PRONOUN
 *([nimi suli lawa](#noun) palisa)*
 
@@ -296,6 +284,18 @@ As [ɴᴏᴜɴ](#noun)s, the ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ "sike" impli
 | (ᴜɴ-ᴘᴜ) ona li pali ale e tomo. ⇒ (ᴘᴜ) ona li pali e tomo. |
 |:-|
 | *She was doing all the work on a house.* → *She has built a house.* |
+
+There is no ᴘᴀꜱꜱɪᴠᴇ.
+
+| (ᴛᴇᴘᴀɴ) kala li ijo moku lon soweli. ⇒ (ᴘᴏɴᴀ) ni li kama: soweli li moku e kala. |
+|:-|
+| *The fish is being eaten by the cat.* |
+
+There is no ᴄᴀᴜꜱᴀᴛɪᴠᴇ.
+
+| (ᴛᴇᴘᴀɴ) mi jan moku e soweli lon kala. ⇒ (ᴘᴏɴᴀ) mi kama e ni: soweli li moku e kala. |
+|:-|
+| *I made the cat eat the fish.* |
 
 ### SIMPLE VERB
 *([nimi suli wawa](#verb) pona)*
