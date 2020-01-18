@@ -1,6 +1,6 @@
 # Pre-Pu Toki Pona
 
-In his course [o kama sona e toki pona](http://http://tokipona.net/tp/janpije/okamasona.php), ᴘɪᴊᴇ describes Toki Pona as it used to be before ꜱᴏɴᴊᴀ published [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) in 2014. At that time it was safe to say that there were more "traditional" Tokiponans than "official" ones.
+In his course [o kama sona e toki pona](http://http://tokipona.net/tp/janpije/okamasona.php), ᴘɪᴊᴇ aims to describe Toki Pona as it used to be "traditionally", i.e. before ꜱᴏɴᴊᴀ published [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) in 2014.
 
 ## oko
 
@@ -68,11 +68,18 @@ In his course [o kama sona e toki pona](http://http://tokipona.net/tp/janpije/ok
 
 ## kin
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona9.php) uses **kin** for *emphasis* where ꜱᴏɴᴊᴀ uses **a**.
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona9.php) uses **kin** where ꜱᴏɴᴊᴀ uses **a**.
 
 | | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *I see it indeed.* | **mi lukin kin e ona.** | **mi lukin a e ona.** |
+
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona9.php) uses **kin** for *also*, *still*.
+
+| | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|
+| *I went, too!* | **mi tawa kin!** | **sama la mi tawa a!** / **sin la mi a li tawa!** |
+| *I'm still eating.* | **mi moku kin.** | **mi awen moku.** / **mi pini ala moku.** |
 
 ## namako
 
@@ -93,7 +100,12 @@ In his course [o kama sona e toki pona](http://http://tokipona.net/tp/janpije/ok
 
 ## seme
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona12.php) introduces **anu seme** much later than **... ala ...** for *yes/no questions*, whereas ꜱᴏɴᴊᴀ teaches **anu seme** first, in the same lesson as the alternative **... ala ...**.
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona12.php) teaches **... ala ...** for *yes/no questions*, but mentions **anu seme** much later, translating it as "or what", whereas ꜱᴏɴᴊᴀ teaches **anu seme** and alternatively **... ala ...** in the same lesson.
+
+| | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
+|:-|:-|:-|
+| *Can you sleep?* | **sina ken ala ken lape?** | **sina ken lape anu seme?** / **sina ken ala ken lape?** |
+| *Do you want the money or what?* | **sina wile e mani anu seme?** | **sina wile e mani anu seme?** / **sina wile ala wile e mani?** |
 
 ## li
 
