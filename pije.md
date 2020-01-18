@@ -64,7 +64,7 @@ In his course [o kama sona e toki pona](http://http://tokipona.net/tp/janpije/ok
 
 | | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
-| *I don't know the reason.* | **mi sona ala e tan.** | **tan seme? mi sona ala.** |
+| *I don't know the reason.* | **mi sona ala e tan.** | **ni li tan seme? mi sona ala.** |
 
 ## kin
 
