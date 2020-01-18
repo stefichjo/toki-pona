@@ -42,9 +42,9 @@ In his course [o kama sona e toki pona](http://http://tokipona.net/tp/janpije/ok
 |:-|:-|:-|
 | *The bug is underneath me.* | **pipi li lon anpa mi.** | **pipi li lon noka mi.** |
 
-## tawa
+## lukin sama
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona7.php) doesn't use **tawa** for *perspectives*. Instead, he uses for example **lukin** in a *middle voice mood*, i.e. in the sense of approximately *to be looked at*.
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona7.php) uses **lukin** in a *middle voice mood*, i.e. in the sense of approximately *to be looked at*.
 
 | | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
