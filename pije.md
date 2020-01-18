@@ -117,7 +117,7 @@ In his course [o kama sona e toki pona](http://http://tokipona.net/tp/janpije/ok
 
 ## taso
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona12.php) doesn't use *commas* before **taso** as a *conjunction*. ꜱᴏɴᴊᴀ does.
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona12.php) doesn't allow *commas* before **taso** as a *conjunction*. ꜱᴏɴᴊᴀ allows it.
 
 | | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
