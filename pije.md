@@ -117,13 +117,19 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 |:-|:-|:-|
 | *I'm eating fruit and looking at the house.* | **mi moku e kili li lukin e tomo.** | **mi moku e kili. mi lukin e tomo.** |
 
+ᴘɪᴊᴇ never uses *commas* between multiple **li**-phrases. ꜱᴏɴᴊᴀ allows it.
+
+| | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
+|:-|:-|:-|
+| *Pineapple is a food and is good.* | **kili li moku li pona.** | **kili li moku, li pona.** |
+
 ## en
 
 [ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona12.php) uses **en** in **pi**-phrases ("if two people own something together").
 
 | | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
-| *The house of Keli and her husband is big.* | **tomo pi jan Keli en mije ona li suli.** | **tomo pi jan Keli, pi mije ona li suli.** |
+| *The house of Keli and her husband is big.* | **tomo pi jan Keli en mije ona li suli.** | **tomo pi jan Keli, pi mije ona li suli.** / **jan Keli en mije ona li jo e tomo. ona li suli.** |
 
 ## taso
 
