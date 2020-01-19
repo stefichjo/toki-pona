@@ -139,6 +139,14 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 |:-|:-|:-|
 | *I want to eat. But I don't have food.* | **mi wile moku. taso mi jo ala e moku.** | **mi wile moku, taso mi jo ala e moku.** |
 
+## kule
+
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona13.php) adds adjectives expressing *color* in order to express *color combinations*.
+
+| | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|
+| *purple clothing* / *reddish blue clothing* | **len laso loje** | **len pi laso loje** |
+
 ## kute
 
 [ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona15.php) uses **nena kute** where ꜱᴏɴᴊᴀ uses simply **kute**.
