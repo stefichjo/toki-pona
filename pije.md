@@ -4,6 +4,28 @@ In his course [o kama sona e toki pona](http://http://tokipona.net/tp/janpije/ok
 
 This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my personal interpretation of it ("ᴛᴇᴘᴀɴ"), based on [my analysis](nimi.md) of Toki Pona as described in the official Toki Pona book.
 
+| |
+|:-|
+| [oko](#oko) |
+| [awen, lukin, sona](#awen-lukin-sona) |
+| [sewi](#sewi) |
+| [kepeken](#kepeken) |
+| [anpa](#anpa) |
+| [lukin sama](#lukin-sama) |
+| [ali](#ali) |
+| [tan](#tan) |
+| [kin](#kin) |
+| [namako](#namako) |
+| [pi](#pi) |
+| [seme](#seme) |
+| [li](#li) |
+| [en](#en) |
+| [taso](#taso) |
+| [kule](#kule) |
+| [kute](#kute) |
+| [nanpa](#nanpa) |
+| [la](#la) |
+
 ## oko
 
 [ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona4.php) uses **oko** for *eye* where ꜱᴏɴᴊᴀ uses **lukin**.
