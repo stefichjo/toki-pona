@@ -32,23 +32,11 @@
 |:-|:-|
 | *I saw a black woman (that was) in front of the building.* | *I saw a black woman in front of the building.* |
 
-👎 [**Pije**](http://tokipona.net/tp/janpije/okamasona7.php) removes the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "tawa" before "lukin".
-
-| sina tawa lukin sama waso. → sina lukin sama waso. |
-|:-|
-| *You look like a bird.* |
-
 👎 [ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#spatial-adjective)s can become a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ implying "lon".
 
 | mi tawa lon poka sina. → mi tawa poka sina. |
 |:-|
 | *I'm going with you.* |
-
-👎 As a [ɴᴏᴜɴ](#noun), ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs mean their implied ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ. [**Pije**](http://tokipona.net/tp/janpije/okamasona8.php) uses the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "tan" in this way.
-
-| mi sona ala e ni: ni li tan seme. → mi sona ala e tan. |
-|:-|
-| *I don't know the reason.* |
 
 👎 As a [ɴᴏᴜɴ](#noun), the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "sama" means "ona sama".
 
@@ -74,23 +62,11 @@
 |:-|
 | *She is Sonja.* |
 
-👎 [**Pije**](http://tokipona.net/tp/janpije/okamasona12.php) allows to add ["li"](#subject-and-predicate)-ᴘʜʀᴀꜱᴇ even if the **subject** is "mi" or "sina" alone.
-
-| mi moku e kili, mi lukin e tomo. → mi moku e kili li lukin e tomo. |
-|:-|
-| *I'm eating fruit and looking at the house.* |
-
 👎 Any ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ can have a **predicate**, not only the **subject** of a ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | jan pi ona ni li tawa tomo |
 |:-|
 | *somebody, who is going home* |
-
-👎 When the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "kepeken" becomes a [ᴠᴇʀʙ](#verb), [**Pije**](http://tokipona.net/tp/janpije/okamasona6.php) uses it with the ᴘᴀʀᴛɪᴄʟᴇ "e".
-
-| mi kepeken ilo. → mi kepeken e ilo. |
-|:-|
-| *I use the instrument.* |
 
 👎 Any ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ can have a **direct object**, not only the [ᴠᴇʀʙ](#verb) of a ꜱᴇɴᴛᴇɴᴄᴇ.
 
@@ -104,18 +80,6 @@
 |:-|
 | *May she sleep well.* |
 
-👎 [**Pije**](http://tokipona.net/tp/janpije/okamasona11.php) turns the ᴘᴀʀᴛɪᴄʟᴇ "pi" with a [ᴘʀᴏɴᴏᴜɴ](#noun) into a [predicate](#subject-and-predicate).
-
-| ni li ijo mi. → ni li pi mi. |
-|:-|
-| *This belongs to me.* → *This is mine.* |
-
-👎 [**Pije**](http://tokipona.net/tp/janpije/okamasona5.php) turns the [ᴘᴀʀᴛɪᴄʟᴇ "e"](#direct-object) into "pi" before a [ɴᴏᴜɴ](#noun), in order to express direction.
-
-| sina lukin e sewi. → sina lukin sewi. |
-|:-|
-| *You look up.* |
-
 👎 The [ᴘᴀʀᴛɪᴄʟᴇ "e"](#direct-object) can become "pi", turning a subsequent ᴘᴀʀᴛɪᴄʟᴇ "pi" into "e".
 
 | mi ante e toki pi sitelen tawa. → mi ante toki e sitelen tawa. |
@@ -127,12 +91,6 @@
 | jan li suli mute, mani li suli lili. → jan li suli mute mani. |
 |:-|
 | *People are more important than money.* |
-
-👎 According to [**Pije**](http://tokipona.net/tp/janpije/okamasona12.php), ꜱᴇɴᴛᴇɴᴄᴇs with "anu seme" have the conotation of "or what".
-
-| ona li mama anu seme mu? → ona li mama anu seme? |
-|:-|
-| *Is she a parent or what?* |
 
 👎 A **comma** can become the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ "en".
 
@@ -146,13 +104,7 @@
 |:-|
 | *Stop at red, walk at green.* |
 
-👎 The **comma** before "la" can e omitted. [**Pije**](http://tokipona.net/tp/janpije/okamasona17.php) never uses a **comma** before "la".
-
-| mi pona e ale mi, la mi pona e mi. → mi pona e ale mi la mi pona e mi. |
-|:-|
-| *If I get my life in order, I get myself in order.* |
-
-👎 At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, all ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are omitted, not only "lon". [**Pije**](http://tokipona.net/tp/janpije/okamasona17.php) never uses [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s at the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ.
+...
 
 | tawa mi la sina jan pona. → mi la sina jan pona. |
 |:-|
