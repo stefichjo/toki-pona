@@ -24,4 +24,4 @@
 * [soweli Wini Pu en jan pi ale ale ale](musi/soweli-wini-pu-en-jan-pi-ale-ale-ale.md)
   * *(Winnie la Pu — Winnie-The-Pooh and All, All, All)*
 
-<img src="https://github.com/stefichjo/toki-pona/blob/master/musi/sitelen/o-pilin-pona-o-pu.jpg?raw=true" height="400">
+<img src="https://github.com/stefichjo/toki-pona/blob/master/sitelen/o-pilin-pona-o-pu.jpg?raw=true" height="400">
