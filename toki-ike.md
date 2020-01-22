@@ -38,12 +38,6 @@
 |:-|
 | *I'm going with you.* |
 
-👎 As a [ɴᴏᴜɴ](#noun), the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ "sama" means "ona sama".
-
-| ona li tawa e ona sama. → ona li tawa e sama. |
-|:-|
-| *It moves itself.* |
-
 👎 ᴠᴇʀʙs can be used as ᴀᴅᴊᴇᴄᴛɪᴠᴇs implying **passive**.
 
 | nimi li ijo sona tawa jan sin. |
