@@ -26,35 +26,11 @@
 |:-|
 | *I translate the movie.* |
 
-👎 The ᴘᴀʀᴛɪᴄʟᴇ "pi" can be used for comparisons.
-
-| jan li suli mute, mani li suli lili. → jan li suli mute mani. |
-|:-|
-| *People are more important than money.* |
-
-👎 A **comma** can become the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ "en".
-
-| tomo pi telo nasa, pi ma ante → tomo pi telo nasa en pi ma ante |
-|:-|
-| *foreign bar* |
-
-👎 When the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "lon" expresses context, it must be replaced with the ᴘᴀʀᴛɪᴄʟᴇ "la".
-
-| o awen lon loje, o tawa lon laso. → loje la o awen, laso la o tawa. |
-|:-|
-| *Stop at red, walk at green.* |
-
 ...
 
 | tawa mi la sina jan pona. → mi la sina jan pona. |
 |:-|
 | *From my point of view, you are a good person.* |
-
-👎 The **comma** before "la" can be written after "la" instead.
-
-| sina pana e ike, la sina kama jo e ike. → sina pana e ike la, sina kama jo e ike. |
-|:-|
-| *What goes around, comes around.* |
 
 🤔 [**Sonja**](lipu-pi-toki-pona.md#the-quran) doesn't use "ala" as a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ, i.e. she distinguishes between "nothing" ("ijo ala") and "nothingness" (ala). ([**Pije**](http://tokipona.net/tp/janpije/okamasona8.php) doesn't make that distinction and uses "ala" as a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ, i.e. it implies "ijo" by default.)
 
@@ -68,21 +44,9 @@
 |:-|
 | *seven fingers* |
 
-🤔 [**Sonja**](lipu-pi-toki-pona.md#lesson-15) avoids using ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs as [ᴠᴇʀʙs](#verb).
-
-| What did you put the clock next to? |
-|:-|
-| *sina lon poka seme e ilo tenpo?* → *sina pana e ilo tenpo lon poka seme?* |
-
-🤔 [**Sonja**](lipu-pi-toki-pona.md#lesson-15) says that ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used at the end of a ꜱᴇɴᴛᴇɴᴄᴇ (rather than at the end of a **predicate**), leaving the possibility open that ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can describe perceptions.
-
-| tawa lukin mi la meli pimeja li lon sinpin tomo. → mi lukin e meli pimeja lon sinpin tomo. |
-|:-|
-| *I saw a black woman in front of the building.* |
-
 🤔 **Sonja** uses "pilin ike" and "pilin pona" as [predicate](#subject-and-predicate)s without introducing "pilin" as a ᴘʀᴇ-ᴠᴇʀʙ.
   
-| jan Sulu li pilin e ni: ona li pona. → jan Sulu li pilin pona. |
+| jan Sulu li pilin e ni: ona li pona. → jan Sulu li pilin: pona. |
 |:-|
 | *Mr. Sulu is happy.* |
 
@@ -121,7 +85,6 @@
 | ona li mama ala anu mama? → ona li mama ala mama? |
 |:-|
 | *Is she a parent?* |
-
 
 🤔 — Suggested context/alternative.
 
