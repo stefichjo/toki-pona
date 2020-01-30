@@ -24,10 +24,10 @@ Words in **Tok Bona** are very close to their etymological origin.
 
 | ꜱɪᴛᴇʟᴇɴ | ᴏʀɪɢɪɴ | tok bona | toki pona |
 |:-|:-|:-|:-|
-<img src="musi/sitelen/pona/kule.png" height="42" title="kuler"> | *FR* couleur | **kuler** | kule |
-<img src="musi/sitelen/pona/luka.png" height="42" title="ruka"> | *HR* rúka | **ruka** | luka |
-<img src="musi/sitelen/pona/sin.png" height="42" title="ŝin"> | *ZH* 新 /xīn/ | **ŝin** | sin |
-<img src="musi/sitelen/pona/sijelo.png" height="42" title="tijelo"> | *HR* tijelo | **tijelo** | sijelo |
+<img src="sitelen/pona/kule.png" height="42" title="kuler"> | *FR* couleur | **kuler** | kule |
+<img src="sitelen/pona/luka.png" height="42" title="ruka"> | *HR* rúka | **ruka** | luka |
+<img src="sitelen/pona/sin.png" height="42" title="ŝin"> | *ZH* 新 /xīn/ | **ŝin** | sin |
+<img src="sitelen/pona/sijelo.png" height="42" title="tijelo"> | *HR* tijelo | **tijelo** | sijelo |
 
 #### Ijo Ŝin Bona
 *([Toki Pona Prequel](#prequels) without Compound Hieroglyphs)*
@@ -36,32 +36,32 @@ Words in **Tok Bona** are very close to their etymological origin.
 
 | ꜱɪᴛᴇʟᴇɴ | ijo ŝin bona | ijo sin pona | toki pona |
 |:-|:-|:-|:-|
-<img src="musi/sitelen/pona/jelo.png" height="42" title="jelo"> | **kuler suno** | kule suno | jelo |
-<img src="musi/sitelen/pona/laso.png" height="42" title="glas"> | **kuler kasvi** | kule kasi | laso |
-<img src="musi/sitelen/pona/loje.png" height="42" title="roje"> | **kuler usta** | kule uta | loje |
-<img src="musi/sitelen/pona/pimeja.png" height="42" title="pimea"> | **kuler ara** | kule ala | pimeja |
-<img src="musi/sitelen/pona/walo.png" height="42" title="valko"> | **kuler vahva** | kule wawa | walo |
-<img src="musi/sitelen/pona/kepeken.png" height="42" title="ĥebreiken"> | **loŋ ruka e ilo** | lon luka e ilo | kepeken |
-<img src="musi/sitelen/pona/moku.png" height="42" title="mogu"> | **loŋ ruka e usta** | tawa uta e luka tan | moku |
-<img src="musi/sitelen/pona/pali.png" height="42" title="fari"> | **loŋ ruka e ijo** | lon luka e ijo | pali |
-<img src="musi/sitelen/pona/pana.png" height="42" title="pana"> | **loŋ ruka ŝin** | tawa luka sin | pana |
-<img src="musi/sitelen/pona/kalama.png" height="42" title="galama"> | **usta ŝin** | uta sin | kalama |
-<img src="musi/sitelen/pona/sona.png" height="42" title="ĉodna"> | **loŋ lipu ŝin** | lon lipu sin | sona |
-<img src="musi/sitelen/pona/toki.png" height="42" title="tok"> | **ijo ŝin** | ijo sin | toki |
-<img src="musi/sitelen/pona/kulupu.png" height="42" title="kulupu"> | **multe ijo** | mute ijo | kulupu |
-<img src="musi/sitelen/pona/olin.png" height="42" title="volim"> | **pilim e pilim** | pilin e pilin | olin |
-<img src="musi/sitelen/pona/pu.png" height="42" title="buk"> | **loŋ lipu biloŋ ijo ŝin bona** | lon lipu pi ijo sin pona | pu |
-<img src="musi/sitelen/pona/jo.png" height="42" title="jou"> | **(mi) loŋ mi** | (mi) lon mi | jo |
+<img src="sitelen/pona/jelo.png" height="42" title="jelo"> | **kuler suno** | kule suno | jelo |
+<img src="sitelen/pona/laso.png" height="42" title="glas"> | **kuler kasvi** | kule kasi | laso |
+<img src="sitelen/pona/loje.png" height="42" title="roje"> | **kuler usta** | kule uta | loje |
+<img src="sitelen/pona/pimeja.png" height="42" title="pimea"> | **kuler ara** | kule ala | pimeja |
+<img src="sitelen/pona/walo.png" height="42" title="valko"> | **kuler vahva** | kule wawa | walo |
+<img src="sitelen/pona/kepeken.png" height="42" title="ĥebreiken"> | **loŋ ruka e ilo** | lon luka e ilo | kepeken |
+<img src="sitelen/pona/moku.png" height="42" title="mogu"> | **loŋ ruka e usta** | tawa uta e luka tan | moku |
+<img src="sitelen/pona/pali.png" height="42" title="fari"> | **loŋ ruka e ijo** | lon luka e ijo | pali |
+<img src="sitelen/pona/pana.png" height="42" title="pana"> | **loŋ ruka ŝin** | tawa luka sin | pana |
+<img src="sitelen/pona/kalama.png" height="42" title="galama"> | **usta ŝin** | uta sin | kalama |
+<img src="sitelen/pona/sona.png" height="42" title="ĉodna"> | **loŋ lipu ŝin** | lon lipu sin | sona |
+<img src="sitelen/pona/toki.png" height="42" title="tok"> | **ijo ŝin** | ijo sin | toki |
+<img src="sitelen/pona/kulupu.png" height="42" title="kulupu"> | **multe ijo** | mute ijo | kulupu |
+<img src="sitelen/pona/olin.png" height="42" title="volim"> | **pilim e pilim** | pilin e pilin | olin |
+<img src="sitelen/pona/pu.png" height="42" title="buk"> | **loŋ lipu biloŋ ijo ŝin bona** | lon lipu pi ijo sin pona | pu |
+<img src="sitelen/pona/jo.png" height="42" title="jou"> | **(mi) loŋ mi** | (mi) lon mi | jo |
 
 Animals are expressed by means of "tijelo".
 
 | ꜱɪᴛᴇʟᴇɴ | ijo ŝin bona | ijo sin pona | toki pona |
 |:-|:-|:-|:-|
-<img src="musi/sitelen/pona/akesi.png" height="42" title="hagedis"> | **tijelo biloŋ pilim fret** | sijelo pi pilin lete | akesi |
-<img src="musi/sitelen/pona/kala.png" height="42" title="kala"> | **tijelo delo** | sijelo telo | kala |
-<img src="musi/sitelen/pona/pipi.png" height="42" title="bibit"> | **tijelo maa** | sijelo ma | pipi |
-<img src="musi/sitelen/pona/soweli.png" height="42" title="ĉoveli"> | **tijelo biloŋ pilim ĉeli** | sijelo pi pilin seli | soweli |
-<img src="musi/sitelen/pona/waso.png" height="42" title="wazo"> | **tijelo koŋ** | sijelo kon | waso |
+<img src="sitelen/pona/akesi.png" height="42" title="hagedis"> | **tijelo biloŋ pilim fret** | sijelo pi pilin lete | akesi |
+<img src="sitelen/pona/kala.png" height="42" title="kala"> | **tijelo delo** | sijelo telo | kala |
+<img src="sitelen/pona/pipi.png" height="42" title="bibit"> | **tijelo maa** | sijelo ma | pipi |
+<img src="sitelen/pona/soweli.png" height="42" title="ĉoveli"> | **tijelo biloŋ pilim ĉeli** | sijelo pi pilin seli | soweli |
+<img src="sitelen/pona/waso.png" height="42" title="wazo"> | **tijelo koŋ** | sijelo kon | waso |
 
 In **Old Ijo Ŝin Bona**, ᴘᴀʀᴛɪᴄʟᴇs, ᴘʀᴇ-ᴠᴇʀʙs and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs were omitted.
 
@@ -71,7 +71,7 @@ In **Old Ijo Ŝin Bona**, ᴘᴀʀᴛɪᴄʟᴇs, ᴘʀᴇ-ᴠᴇʀʙs and ᴘʀ
 
 In **Old Ijo Ŝin Bona**, all ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs were written into one single **Sitelen Pona**. A dot in compound glyphs was omitted. In general, more variations were allowed.
 
-| <img src="musi/sitelen/pona/pu.png" height="42"> | <img src="musi/sitelen/pona/kulupu.png" height="42"> |
+| <img src="sitelen/pona/pu.png" height="42"> | <img src="sitelen/pona/kulupu.png" height="42"> |
 |:--:|:--:|
 | *lipu biloŋ ijo ŝin bona* | *multe ijo* |
 
@@ -132,7 +132,7 @@ The vowels "u" and "i" merge with "o" and "e".
 
 **Ijo Sin Pona** keeps the reduced vocabulary (99 words) of [Ijo Ŝin Bona](#ijo-ŝin-bona) while keeping the pronunciation rules of **Toki Pona**.
 
-| <img src="musi/sitelen/pona/ijo-sin-pona.png" height="50"> | 
+| <img src="sitelen/pona/ijo-sin-pona.png" height="50"> | 
 |:--| 
 | *ijo sin pona* | 
 
@@ -163,7 +163,7 @@ Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to 
 
 **Toki Namako** is **Toki Pona** without **Pona Style**.
 
-| <img src="musi/sitelen/pona/toki-namako.png" height="50"> | 
+| <img src="sitelen/pona/toki-namako.png" height="50"> | 
 |:--| 
 | *toki namako* | 
 
@@ -228,8 +228,8 @@ In **Toki Namako**, "sin" is considered to be a conflation of "sin" and "namako"
 
 | ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ᴄʟᴀꜱꜱ | ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
 |:-|:-|:-|:-|
-| <img src="musi/sitelen/pona/namako.png" height="42" title="namak"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nimi.md#preposition) | **namako** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **additional**, **another**, **extra** → <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* |
-| <img src="musi/sitelen/pona/sin.png" height="42" title="ŝin"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | **sin** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh** |
+| <img src="sitelen/pona/namako.png" height="42" title="namak"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nimi.md#preposition) | **namako** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **additional**, **another**, **extra** → <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* |
+| <img src="sitelen/pona/sin.png" height="42" title="ŝin"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | **sin** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh** |
 
 ### Tok Bon
 *([Toki Pona Spin-Off](#spin-offs) with Declension)*
