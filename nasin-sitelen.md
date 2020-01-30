@@ -40,6 +40,12 @@ When a ɴᴏᴜɴ disappears, its ᴀᴅᴊᴇᴄᴛɪᴠᴇ can have an **upper
 |:-|:-|
 | *She gives the book to you.* | *She needs to sleep.* |
 
+A description of a perception can be introduced by a **colon**.
+
+| mi lukin e meli pimeja: lon sinpin tomo. |
+|:-|
+| *I saw a black woman in front of the building.* |
+
 After ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs, ᴘᴀʀᴛɪᴄʟᴇs have a **colon**.
 
 | jan:Sonja | sina ' nanpa:wan | toki:nanpa:wan |

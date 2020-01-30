@@ -8,53 +8,11 @@
 
 ---
 
-👎 All [ɴᴏᴜɴ](#noun)s can imply "ijo".
-
-| sama |
-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ similar → ɴᴏᴜɴ something similar |
-
-👎 The ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's "ni" together with the ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ's **subject** "ona ni (li)" can be omitted.
-
-| jan pi ijo ni: ona ni li tawa tomo → jan pi ona ni li tawa tomo → jan pi li tawa tomo → jan pi tawa tomo |
-|:-|
-| *somebody, who is going home* |
-
-👎 ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used in all kinds of ᴘʜʀᴀꜱᴇs, as long as they appear at the end of a ꜱᴇɴᴛᴇɴᴄᴇ. A perception can be described as a ꜱᴇɴᴛᴇɴᴄᴇ.
-
-| mi lukin e ni: meli pimeja li lon sinpin tomo. → mi lukin e meli pimeja lon sinpin tomo. | tawa lukin mi la meli pimeja li lon sinpin tomo. → mi lukin e meli pimeja: lon sinpin tomo. |
-|:-|:-|
-| *I saw a black woman (that was) in front of the building.* | *I saw a black woman in front of the building.* |
-
-👎 [ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#spatial-adjective)s can become a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ implying "lon".
-
-| mi tawa lon poka sina. → mi tawa poka sina. |
-|:-|
-| *I'm going with you.* |
-
-👎 ᴠᴇʀʙs can be used as ᴀᴅᴊᴇᴄᴛɪᴠᴇs implying **passive**.
-
-| nimi li ijo sona tawa jan sin. |
-|:-|
-| *The word is known by the newcomer.* |
-
 👎 Any ᴠᴇʀʙ can be used as a ᴘʀᴇ-ᴠᴇʀʙ.
 
 | mi olin e ni: mi kama sona e toki pona. → mi olin kama sona e toki pona. |
 |:-|
 | *I love to learn Toki Pona.* |
-
-👎 The noun before a name can be omitted.
-
-| ona li jan Sonja. → ona li Sonja. |
-|:-|
-| *She is Sonja.* |
-
-👎 Any ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ can have a **predicate**, not only the **subject** of a ꜱᴇɴᴛᴇɴᴄᴇ.
-
-| jan pi ona ni li tawa tomo |
-|:-|
-| *somebody, who is going home* |
 
 👎 Any ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ can have a **direct object**, not only the [ᴠᴇʀʙ](#verb) of a ꜱᴇɴᴛᴇɴᴄᴇ.
 
