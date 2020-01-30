@@ -1,56 +1,57 @@
-# Pre-Pu Toki Pona (Kipo)
+# Pre-Pu Toki Pona ([ᴋɪᴘᴏ](https://tpnimi.blogspot.com/p/nimi-sama-k.html))
 
 | |
 |:-|
 | [e](#e) |
 | [pi](#pi) |
+| [poka](#poka) |
 | [sama](#sama) |
 | [Punctuation](#punctuation) |
 
 ## e
 
-[ᴋɪᴘᴏ](https://tpnimi.blogspot.com/p/nimi-sama-s-w.html) ...
+ᴋɪᴘᴏ turns prepositional phrases into transitive verbs. 
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
-| *Where did you put the clock next to?* | **sina lon poka seme e ilo tenpo?** | **sina pana e ilo tenpo lon seme?** |
+| *Where did you put the clock?* | **sina lon seme e ilo tenpo?** | **sina pana e ilo tenpo lon seme?** |
 
 ## pi
 
-ᴋɪᴘᴏ ...
+ᴋɪᴘᴏ combines **pi** with predicates.
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *the person that went home* | **jan pi tawa tomo** | **jan li tawa tomo. ona li ...** |
 
+## poka
+
+ᴋɪᴘᴏ describes **poka** as a preposition. (ᴋɪᴘᴏ also describes **sike**, **taso** and **weka** as prepositions.)
+
+| | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
+|:-|:-|:-|
+| *I'm walking next to you.* | **mi tawa, poka sina.** | **mi tawa lon poka sina.** |
+
 ## sama
 
-[ᴋɪᴘᴏ](https://tpnimi.blogspot.com/p/nimi-sama-s-w.html) ...
+ᴋɪᴘᴏ describes **sama** as a reflexive or reciprocal pronoun.
 
 | | ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
-| *She sees herself.* | **ona li lukin e sama.** | **ona li lukin e ona sama.** |
+| *She sees herself.*/*They see each other.* | **ona li lukin e sama.** | **ona li lukin e ona sama.** |
 
 ## Punctuation
 
-[ᴋɪᴘᴏ](https://tpnimi.blogspot.com/p/nimi-sama-k.html) uses commas in order to denote unusual combinations of phrases.
-
-| | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
-|:-|:-|:-|
-| *many men of Athens* | **jan pi ma Asina, mute** | **jan mute pi ma Asina** |
-
-| | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
-|:-|:-|:-|
-| *I know that Tom is happy.* | **mi sona e ni: jan Tan li pilin pona-.** | **mi sona e ni: jan Ton li pilin pona.** |
+ᴋɪᴘᴏ uses commas to add phrases (where they don't belong).
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *I give you a room.* | **mi pana e tomo, tawa sina.** | **mi pana e tomo tawa sina.** |
+| *many men of Athens* | **jan pi ma Asina, mute** | **jan mute pi ma Asina** |
 
-| | ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
+ᴋɪᴘᴏ uses a hiphen to denote the end of a sentence after **ni:**.
+
+| | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
-| *I release your car.* | **mi pana e tomo tawa sina.** | **mi pana e tomo-tawa-sina.** |
-
-
-
+| *I know that Tom is happy.* | **mi sona e ni: jan Ton li pilin pona-.** | **mi sona e ni: jan Ton li pilin pona.** |
 
