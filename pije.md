@@ -1,6 +1,6 @@
-# Pre-Pu Toki Pona ([ᴘɪᴊᴇ](http://http://tokipona.net/tp/janpije/okamasona.php))
+# Pre-Pu Toki Pona ([ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona.php))
 
-In his course [o kama sona e toki pona](http://http://tokipona.net/tp/janpije/okamasona.php), ᴘɪᴊᴇ aims to describe Toki Pona as it used to be "traditionally", i.e. before ꜱᴏɴᴊᴀ published [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) in 2014. (ᴘɪᴊᴇ has revised his course in 2015.)
+In his course [o kama sona e toki pona](http://tokipona.net/tp/janpije/okamasona.php), ᴘɪᴊᴇ aims to describe Toki Pona as it used to be "traditionally", i.e. before ꜱᴏɴᴊᴀ published [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) in 2014. (ᴘɪᴊᴇ has revised his course in 2015.)
 
 This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my personal interpretation of it ("ᴛᴇᴘᴀɴ"), based on [my analysis](nimi.md) of Toki Pona as described in the official Toki Pona book.
 
