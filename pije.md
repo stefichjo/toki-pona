@@ -1,4 +1,4 @@
-# Pre-Pu Toki Pona (Pije)
+# Pre-Pu Toki Pona ([ᴘɪᴊᴇ](http://http://tokipona.net/tp/janpije/okamasona.php))
 
 In his course [o kama sona e toki pona](http://http://tokipona.net/tp/janpije/okamasona.php), ᴘɪᴊᴇ aims to describe Toki Pona as it used to be "traditionally", i.e. before ꜱᴏɴᴊᴀ published [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) in 2014. (ᴘɪᴊᴇ has revised his course in 2015.)
 
