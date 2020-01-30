@@ -9,6 +9,7 @@ In the spirit of [Lesson 19 — The Frontier](lipu-pi-toki-pona.md#lesson-19), t
 |:-|
 | [Toki Pona Word Classes and Parts of Speech](nimi.md) |
 | [Toki Pona Dictionary](ale-pi-nimi-mute.md) |
-| [Orthography](nasin-sitelen.md) |
-| [Dialects](toki-sin.md) |
-| [Pre-Pu Toki Pona](pije.md) |
+| [Playful Orthography](nasin-sitelen.md) |
+| [Playful Dialects](toki-sin.md) |
+| [Pre-Pu Toki Pona (ᴘɪᴊᴇ)](pije.md) |
+| [Dialectal Toki Pona (ᴋɪᴘᴏ)](kipo.md) |

@@ -1,4 +1,4 @@
-# Dialects
+# Playful Dialects
 *([Toki Pona](nasin-toki.md) Sin)*
 
 | |

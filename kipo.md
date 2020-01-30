@@ -1,4 +1,4 @@
-# Pre-Pu Toki Pona ([ᴋɪᴘᴏ](https://tpnimi.blogspot.com/p/nimi-sama-k.html))
+# Dialectal Toki Pona ([ᴋɪᴘᴏ](https://tpnimi.blogspot.com/p/nimi-sama-k.html))
 
 | |
 |:-|
