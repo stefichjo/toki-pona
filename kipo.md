@@ -15,7 +15,7 @@
 
 ## sama
 
-[ᴋɪᴘᴏ](#https://tpnimi.blogspot.com/p/nimi-sama-s-w.html) ...
+[ᴋɪᴘᴏ](https://tpnimi.blogspot.com/p/nimi-sama-s-w.html) ...
 
 | | ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
