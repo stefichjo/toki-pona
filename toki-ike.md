@@ -1,11 +1,5 @@
 ---
 
-👎 — Sections about **"Strange Language"** describe common mistakes and/or pseudo-grammar that don't comply with the **Toki Pona Book**.
-
-| mi tawa lon poka sina. → mi tawa poka sina. |
-|:-|
-| *I am going with you.* |
-
 🤔 — Sections about **"Non-Essential Language"** describe some of **Sonja**'s way of using the language in the **Toki Pona Book** that seems unnecessary.
 
 | ona li pana e telo tawa kasi. → ona li telo e kasi. |
