@@ -7,13 +7,19 @@
 | [Content Words](#content-words) |
 | [Punctuation](#punctuation) |
 
-## pi
+## Particles
 
 ᴋɪᴘᴏ combines **pi** with predicates.
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *the person that went home* | **jan pi tawa tomo** | **jan li tawa tomo. ona li ...** |
+
+ᴋɪᴘᴏ prefixes a **li**-sentence with an "optative" **o**.
+
+| | ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|
+| *May she sleep well.* | **o ona li lape pona.** | **ni o kama: ona li lape pona.** |
 
 ## Prepositions
 

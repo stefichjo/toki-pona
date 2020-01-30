@@ -20,12 +20,6 @@
 |:-|
 | *I like fishing.* |
 
-👎 A **volative** is expressed by starting the ꜱᴇɴᴛᴇɴᴄᴇ with an "o".
-
-| ni o kama: ona li lape pona. → o ona li lape pona. |
-|:-|
-| *May she sleep well.* |
-
 👎 The [ᴘᴀʀᴛɪᴄʟᴇ "e"](#direct-object) can become "pi", turning a subsequent ᴘᴀʀᴛɪᴄʟᴇ "pi" into "e".
 
 | mi ante e toki pi sitelen tawa. → mi ante toki e sitelen tawa. |
