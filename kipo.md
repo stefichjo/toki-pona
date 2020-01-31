@@ -17,9 +17,9 @@
 
 ᴋɪᴘᴏ prefixes a **li**-sentence with an "optative" **o**.
 
-| | ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
+| | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
-| *May she sleep well.* | **o ona li lape pona.** | **ni o kama: ona li lape pona.** |
+| *May she sleep well.* | **o ona li lape pona.** | **ona o lape pona.** |
 
 ## Prepositions
 
