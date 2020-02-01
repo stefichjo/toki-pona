@@ -11,7 +11,7 @@ In the spirit of [Lesson 19 — The Frontier](lipu-pi-toki-pona.md#lesson-19), t
 | [Toki Pona Dictionary](ale-pi-nimi-mute.md) |
 | |
 | [Playful Orthography](nasin-sitelen.md) |
-| [Playful Dialects](toki-sin.md) |
+| [Playful Dialects: Prequels, Sequels ans Spin-Offs](toki-sin.md) |
 | |
 | [Pre-Pu Toki Pona (ᴘɪᴊᴇ)](pije.md) |
 | [Dialectal Toki Pona (ᴋɪᴘᴏ)](kipo.md) |

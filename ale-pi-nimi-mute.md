@@ -1,5 +1,5 @@
 # Toki Pona Dictionary
-*(ale pi nimi mute pi toki pona)*
+*(nimi ale pi toki pona)*
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
@@ -35,7 +35,7 @@ This document discourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations, e.g. "
 |:-|:-|:-|:-|
 | <img src="sitelen/pona/a.png" height="42" title="ha">                                                                   | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nimi.md#interjection) | mu — **a**, ala                                                                 | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, [**(emotion word)**](lipu-pi-toki-pona.md#lesson-10), *indeed*, [**so**](lipu-pi-toki-pona.md#lesson-10) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *actual* → <br>ꜱᴇɴᴛᴇɴᴄᴇ [**ha**](lipu-pi-toki-pona.md#lesson-10), [**wow**](lipu-pi-toki-pona.md#lesson-10), [**yay**](lipu-pi-toki-pona.md#lesson-13), *yes* |
 | <img src="sitelen/pona/akesi.png" height="42" title="hagedis">                                                         | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#life-form-adjective) | **akesi** — soweli                                                 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*; *not using Toki Pona in a Toki Pona context* → <br>ɴᴏᴜɴ **non-cute animal**, *monster*; **amphibian**, **reptile** |
-| <img src="sitelen/pona/ala.png" height="42" title="ara">                                                               | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nimi.md#interjection) | mu — a, **ala**                                                                 | ᴘᴀʀᴛɪᴄʟᴇ *(negation)* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **not** → <br>ꜱᴇɴᴛᴇɴᴄᴇ *no* |
+| <img src="sitelen/pona/ala.png" height="42" title="ara">                                                               | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nimi.md#interjection) | mu — a, **ala**                                                                 | ᴘᴀʀᴛɪᴄʟᴇ *  (negation)* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **not** → <br>ꜱᴇɴᴛᴇɴᴄᴇ *no* |
 | | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nimi.md#correlative) | **ala**, ale, ni, seme, wan                                                       | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **no**, *non-* <br>ɴᴏᴜɴ [**nothingness**](lipu-pi-toki-pona.md#lesson-6) → <br>ɴᴏᴜɴ *nothing* |
 | | [**ɴᴜᴍʙᴇʀ**](nimi.md#number) | **ala**, ale, esun, luka, mute, tu, wan                                                     | ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**0**](lipu-pi-toki-pona.md#lesson-12), **zero** → <br>ɴᴏᴜɴ *none*, [**zero**](lipu-pi-toki-pona.md#famous-quotations) |
 | <img src="sitelen/pona/alasa.png" height="42" title="a-la-ŝas">                                                         | [**ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ**](nimi.md#simple-verb) | **alasa**, pali, olin, unpa                                                       | ᴠᴇʀʙ **to hunt**, **forage** |
