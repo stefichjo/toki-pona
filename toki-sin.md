@@ -4,7 +4,7 @@
 | | |
 |:-|:-|
 | [Prequels](#prequels) | [Tok Bona](#tok-bona), [Ijo Ŝin Bona](#ijo-ŝin-bona) |
-| [Sequels](#sequels) | | [Toki Bona](#toki-bona), [Toĥi Bona](#toĥi-bona), [Toĥe Bona](#toĥe-bona) |
+| [Sequels](#sequels) | [Toki Bona](#toki-bona), [Toĥi Bona](#toĥi-bona), [Toĥe Bona](#toĥe-bona) |
 | [Spin-Offs](#spin-offs) | [Ijo Sin Pona](#ijo-sin-pona), [Toki Namako](#toki-namako), [Toki Pi Pona](#toki-pi-pona), [Tok Bon](#tok-bon), [Toko Bona](#toko-bona) |
 
 
@@ -125,6 +125,7 @@ The vowels "u" and "i" merge with "o" and "e".
 |:-|
 | [Ijo Sin Pona](#ijo-sin-pona)
 | [Toki Namako](#toki-namako)
+| [Toki Pi Pona](#toki-pi-pona)
 | [Tok Bon](#tok-bon) |
 | [Toko Bona](#toko-bona) |
 
