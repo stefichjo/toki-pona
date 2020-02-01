@@ -1,20 +1,30 @@
 # lipu pi toki pona
 
+| |
+|:-|
+| |
+
 ## Preface
 
-* toki insa - thought
-* ilo lipu - the Web; 👍 browser, editor
-* 👍 lipu sona - web page, the Web
+| toki insa |
+|:-|
+| thought |
+
+| ilo lipu | 👍 lipu sona |
+|:-|:-|
+| the Web; 👍 browser, editor | web page, the Web |
 
 ## What Is Toki Pona?
 
 ## Limitations
 
-* waso wawa - eagle
-* waso nasa - chicken
-* tomo tawa - car
-* ilo tawa - car
-- kiwen tawa - car, hard object that moves, 👍 projectile
+| waso wawa | waso nasa |
+|:-|:-|
+| eagle | chicken |
+
+| tomo tawa | ilo tawa | kiwen tawa |
+|:-|:-|:-|
+| car | car | car, hard object that moves, 👍 projectile |
 
 ## Lesson 1
 *(Letters and Sounds)*
