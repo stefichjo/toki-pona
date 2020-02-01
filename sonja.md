@@ -8,11 +8,11 @@
 
 | toki insa |
 |:-|
-| thought |
+| *thought* |
 
 | ilo lipu | 👍 lipu sona |
 |:-|:-|
-| the Web; 👍 browser, editor | web page, the Web |
+| *the Web*; 👍 *browser*, *editor* | *web page*, *the Web* |
 
 ## What Is Toki Pona?
 
@@ -20,11 +20,11 @@
 
 | waso wawa | waso nasa |
 |:-|:-|
-| eagle | chicken |
+| *eagle* | *chicken* |
 
 | tomo tawa | ilo tawa | kiwen tawa |
 |:-|:-|:-|
-| car | car | car, hard object that moves, 👍 projectile |
+| *car* | *car* | *car*, *hard object that moves*, 👍 *projectile* |
 
 ## Lesson 1
 *(Letters and Sounds)*
