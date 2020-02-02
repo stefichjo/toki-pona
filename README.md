@@ -6,7 +6,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:--:| 
 | *o pilin pona o pu!* |
 
-## nasin toki
+## Grammar
 
 | |
 |:-|
@@ -19,7 +19,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [Pre-Pu Toki Pona (ᴘɪᴊᴇ)](pije.md) |
 | [Dialectal Toki Pona (ᴋɪᴘᴏ)](kipo.md) |
 
-## musi
+## Examples
 
 * [ilo toki](musi/ilo-toki.md)
   * *(La Telefono — The Telephone)*
