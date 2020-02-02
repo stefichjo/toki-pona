@@ -44,7 +44,7 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ## Terminology
 
-[ꜱᴏɴᴊᴀ](sonja.md#lesson-11) introduces [ɴᴏᴜɴ](nasin-nimi.md#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](nasin-nimi.md#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](nasin-nimi.md#noun)s.
+[ꜱᴏɴᴊᴀ](lesson-11) introduces ɴᴏᴜɴs and (simple) ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs as ɴᴏᴜɴ-ɢʀᴏᴜᴘs.
 
 ...
 
@@ -155,9 +155,13 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 5
 *(Verbs)*
 
-* jan toki - messenger
-* tomo sona - school
-* jan pali - worker
+| jan toki | jan pali |
+|:-|:-|
+| *messenger* | *worker*|
+
+| tomo sona |
+|:-|
+| *school* |
 
 ### Lesson 6
 *(More Adjectives)*
