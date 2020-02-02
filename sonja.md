@@ -66,6 +66,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|:-|
 | *Abraham Lincoln* | *room #1* |
 
+...
+
+| (ꜱᴏɴᴊᴀ) ijo ala li sama ona. ⇒ (ᴘᴜ) ala li sama ona. |
+|:-|
+| *Nothing is like it.* |
+
 ## Corpus
 
 ### Preface
@@ -309,4 +315,19 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | jan Sulu li pilin e ni: ona li pona. → jan Sulu li pilin: pona. |
 |:-|
 | *Mr. Sulu is happy.* |
+
+---
+
+This document discourages from using ᴏʙꜱᴏʟᴇᴛᴇ rules, i.e. rules that would go unnecessarily beyond the scope of what is ᴘᴜ and ᴘᴏɴᴀ.
+
+| (ᴘᴜ) sina pana e ona lon seme? ⇒  (ᴜɴ-ᴘᴜ) sina lon seme e ona? |
+|:-|
+| *Where did you put it?* |
+
+This document treats some ᴘᴏɴᴀ rules as ᴏᴘᴛɪᴏɴᴀʟ stylistic advices, when they introduce additional grammatical concepts merely for the sake of a simpler style. For example, the distinction between [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s only serves the purpose of motivating the ᴘᴏɴᴀ rule that [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can't contain more than one ["pi"](#genitive). In case of doubt: be ᴘᴏɴᴀ!
+
+| (ᴛᴇᴘᴀɴ) nimi pi jan pona, pi toki pona ⇒ (ᴘᴏɴᴀ) nimi ni pi jan pona li lon toki pona: ona |
+|:-|
+| *a friend's Toki Pona name* |
+
 
