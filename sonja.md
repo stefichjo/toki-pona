@@ -38,6 +38,14 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *He died.* |
 
+## 🤔
+
+[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#the-quran) doesn't use "ala" as a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ, i.e. she distinguishes between **ijo ala** (*nothing*) and **ala** (*nothingness*).
+
+| ala li sama ona. → ijo ala li sama ona. | sewi li lon ala, li lon ale. |
+|:-|:-|
+| *Nothing is like [God].* | *God is the tangential point between zero and infinity. (Alfred Jarry)* |
+
 ## Terminology
 
 [ꜱᴏɴᴊᴀ](sonja.md#lesson-11) introduces [ɴᴏᴜɴ](#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
@@ -304,12 +312,6 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 --
 
-🤔 [**Sonja**](lipu-pi-toki-pona.md#the-quran) doesn't use "ala" as a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ, i.e. she distinguishes between "nothing" ("ijo ala") and "nothingness" (ala). ([**Pije**](http://tokipona.net/tp/janpije/okamasona8.php) doesn't make that distinction and uses "ala" as a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ, i.e. it implies "ijo" by default.)
-
-| ala li sama ona. → ijo ala li sama ona. | sewi li lon ala, li lon ale. |
-|:-|:-|
-| *Nothing is like [God].* | *God is the tangential point between zero and infinity. (Alfred Jarry)* |
-
 🤔 **Sonja** uses "pilin ike" and "pilin pona" as [predicate](#subject-and-predicate)s without introducing "pilin" as a ᴘʀᴇ-ᴠᴇʀʙ.
   
 | jan Sulu li pilin e ni: ona li pona. → jan Sulu li pilin: pona. |
@@ -380,18 +382,11 @@ When there is enough context, a [ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ](#subor
 
 ---
 
-A (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) consists of a [ɴᴏᴜɴ](#noun) with any number of [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s, including zero. The ᴘᴀʀᴛɪᴄʟᴇ **"pi"** goes between a first and a second (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (the second one having one or more [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s). Therefore, a [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) must not contain more than one **"pi"**-phrase, so neither subsequent nor nested **"pi"**-phrases are possible.
+A (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) consists of a [ɴᴏᴜɴ](#noun) with any number of [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s (including zero). The ᴘᴀʀᴛɪᴄʟᴇ **"pi"** goes between the first and the second (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (the second one having one or more [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s). Therefore, a [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) must not contain more than one **"pi"**-phrase, so neither subsequent nor nested **"pi"**-phrases are possible.
 
 | (ᴛᴇᴘᴀɴ) ona li jo e tomo pi telo nasa pi ma ante. ⇒ (ᴘᴏɴᴀ) ona li jo e telo pi telo nasa. telo nasa li tan ma ante. |
 |:-|
 | *She has a house of imported beer.* ⇒ *She has a bar. The beer is imported.* |
 
----
-
-All [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ can be omitted, reading "la" (or "lon") as "in the context of".
-
-| (ᴘᴜ) tawa mi la ni li pona. ⇒ (ꜱᴏɴᴊᴀ) mi la ni li pona. |
-|:-|
-| *In the context of me, this is good.* |
 
 
