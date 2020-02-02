@@ -1,5 +1,13 @@
 # Community Toki Pona ([ꜱᴏɴᴊᴀ](http://www.amazon.com/gp/product/0978292308))
 
+## ɴᴏᴜɴ to ᴠᴇʀʙ
+
+The ***direct object*** of **pana** / the ***object*** of **kepeken** can become a [ᴠᴇʀʙ](#verb).
+
+| ona li pana e telo tawa kasi. / ona li kepeken telo lon kasi. → ona li telo e kasi. |
+|:-|
+| *She gives water to the plant.* / *She uses water on the plant.* → *She waters the plant.* |
+
 ## Terminology
 
 [ꜱᴏɴᴊᴀ](sonja.md#lesson-11) introduces [ɴᴏᴜɴ](#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
@@ -16,11 +24,11 @@
 
 | li lete |
 |:-|
-| **predicate** → ᴠᴇʀʙ *is cold* |
+| ***predicate*** → ᴠᴇʀʙ *is cold* |
 
 [ꜱᴏɴᴊᴀ](#lesson-9) introduces proper names as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Yet, multiple consecutive proper name elements don't need **pi**. Apparently, ꜱᴏɴᴊᴀ conflates ᴀᴅᴊᴇᴄᴛɪᴠᴇs with ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇs for names.
 
-| nimi ona li Epawan Linkan | jan Epawan Linkan | tomo nanpa wan |
+| nimi ona li Epawan Linkan. | jan Epawan Linkan | tomo nanpa wan |
 |:-|:-|:-|
 | *His name was Abraham Lincoln.* | *Abraham Lincoln* | *room #1* |
 
@@ -421,12 +429,6 @@
 | jan Sulu li pilin e ni: ona li pona. → jan Sulu li pilin: pona. |
 |:-|
 | *Mr. Sulu is happy.* |
-
-🤔 The **direct object** of "pana" can become a [ᴠᴇʀʙ](#verb).
-
-| ona li pana e telo tawa kasi. → ona li telo e kasi. |
-|:-|
-| *She gives water to the plant.* → *She waters the plant.* |
 
 🤔 With "utala", the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "tawa" becomes the ᴘᴀʀᴛɪᴄʟᴇ "e".
 
