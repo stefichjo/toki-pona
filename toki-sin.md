@@ -311,7 +311,6 @@ An abbrevated question can be used instead of a relative clause.
 |:-|
 | *I don't know why.* |
 
-
 #### Toko Bona
 *([Toki Pona Spin-Off](#spin-offs) à la Esperanto)*
 
