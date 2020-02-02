@@ -20,11 +20,15 @@ Instead of **anu seme**, yes/no questions can have the ***predicate*** twice, wi
 
 ### Counting
 
-Instead of using adjectives, in a "more complex and precise counting system" adjectives can be added like ᴘᴀʀᴛɪᴄʟᴇs.
+Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more complex and precise counting system" ***number words*** can be added like ᴘᴀʀᴛɪᴄʟᴇs.
 
 | palisa luka, tu → palisa luka tu |
 |:-|
 | *seven fingers* |
+
+### Synonyms
+
+[ꜱᴏɴᴊᴀ](#official-toki-pona-dictionary) lists **ali**, **kin**, **namako** and **oko** as synonyms of **ale**, **a**, **sin** and **lukin**.
 
 ### moli
 
@@ -453,11 +457,4 @@ Instead of using adjectives, in a "more complex and precise counting system" adj
 | jan Sulu li pilin e ni: ona li pona. → jan Sulu li pilin: pona. |
 |:-|
 | *Mr. Sulu is happy.* |
-
-🤔 [**Sonja**](lipu-pi-toki-pona.md#short-obligatory-prayer) avoids interrupting a sentence with a **vocative**.
-
-| mi toki wawa e ni, jan sewi o: … → jan sewi o! mi toki wawa e ni: … |
-|:-|
-| *I bear witness, O my God, that …* |
-
 
