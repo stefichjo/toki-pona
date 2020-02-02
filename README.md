@@ -18,6 +18,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | |
 | [Pre-Pu Toki Pona (ᴘɪᴊᴇ)](pije.md) |
 | [Dialectal Toki Pona (ᴋɪᴘᴏ)](kipo.md) |
+| [Community Toki Pona (ꜱᴏɴᴊᴀ)](sonja.md) |
 
 ## Examples
 
