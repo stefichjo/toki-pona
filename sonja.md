@@ -2,7 +2,7 @@
 
 ## Backward Compatibility
 
-### ɴᴏᴜɴ to ᴠᴇʀʙ
+### Noun to Verb
 
 The ***direct object*** of **pana** / the ***object*** of **kepeken** can become a [ᴠᴇʀʙ](#verb).
 
