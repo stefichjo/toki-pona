@@ -134,7 +134,7 @@ If "ni" is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is not w
 
 | nanpa wan la o pu. → #1) o pu. |
 |:-|
-| *First, you should consult the official Toki Pona book.* |
+| *First, consult the official Toki Pona book.* |
 
 | tu tu → 4 → 2×2 | 2+2 = 2×2 → tu en tu sama tu tu |
 |:-|:-|
