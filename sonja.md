@@ -1,6 +1,21 @@
 # Community Toki Pona ([ꜱᴏɴᴊᴀ](http://www.amazon.com/gp/product/0978292308))
 
-## Preface
+## Terminology
+
+[ꜱᴏɴᴊᴀ](#what-is-toki-pona) introduces ***predicates*** as ᴠᴇʀʙs. Apparently, she conflates ᴠᴇʀʙ slots (i.e. ***predicates***) and ᴠᴇʀʙs.
+
+| li lete |
+|:-|
+| **predicate** → ᴠᴇʀʙ *is cold* |
+
+[ꜱᴏɴᴊᴀ](#lesson-9) introduces proper names as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Yet, multiple consecutive proper name elements don't need **pi**. Apparently, ꜱᴏɴᴊᴀ conflates ᴀᴅᴊᴇᴄᴛɪᴠᴇs and ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇs for names.
+
+| nimi ona li Epawan Linkan | jan Epawan Linkan | tomo nanpa wan |
+|:-|:-|:-|
+| *His name was Abraham Lincoln.* | *Abraham Lincoln* | *room #1* |
+## Corpus
+
+### Preface
 
 | toki insa |
 |:-|
@@ -10,9 +25,9 @@
 |:-|:-|
 | ~~the Web~~; *browser*, *editor* | *web page*, *the Web* |
 
-## What Is Toki Pona?
+### What Is Toki Pona?
 
-## Limitations
+### Limitations
 
 | waso wawa | waso nasa |
 |:-|:-|
@@ -22,13 +37,13 @@
 |:-|:-|:-|
 | *car* | *car* | *car*, *hard object that moves*, 👍 *projectile* |
 
-## Lesson 1
+### Lesson 1
 *(Letters and Sounds)*
 
-## Lesson 2
+### Lesson 2
 *(Words and Sentences)*
 
-## Lesson 3
+### Lesson 3
 *(Nouns and Adjectives)*
 
 | tomo suli |
@@ -55,20 +70,20 @@
 |:-|
 | *watermelon* |
 
-## Lesson 4
+### Lesson 4
 *(You and I)*
 
 * tomo soweli - doghouse
 * tomo lipu - library
 
-## Lesson 5
+### Lesson 5
 *(Verbs)*
 
 * jan toki - messenger
 * tomo sona - school
 * jan pali - worker
 
-## Lesson 6
+### Lesson 6
 *(More Adjectives)*
 
 * jan sona - scholar
@@ -76,26 +91,26 @@
 * 👍 nasa ike - annoying
 * jan ala - nobody
 
-## Lesson 7
+### Lesson 7
 *(Questions and Answers)*
 
 * ilo toki - telephone
 * kala wawa - shark
 * ilo moku - spoon
 
-## Lesson 8
+### Lesson 8
 *(Prepositions)*
 
 * jan toki - speaker
 * jan kute - listener
 
-## Lesson 9
+### Lesson 9
 *(Proper Names)*
 
 * ma tomo - city
 * nena sewi - hill sanctuary
 
-## Lesson 10
+### Lesson 10
 *(Greetings and Feelings)*
 
 * kama pona! - Welcome!
@@ -104,7 +119,7 @@
 * pona! - Thank you!
 * pilin pona - happy
 
-## Lesson 11
+### Lesson 11
 *(pi)*
 
 * mije sona - scholar
@@ -117,7 +132,7 @@
 * ma kasi - garden
 * ma utala - battlefield
 
-## Lesson 12
+### Lesson 12
 *(Numbers)*
 
 * jan ale - everyone
@@ -128,7 +143,7 @@
 * tu tu - four
 * jan ale - everybody
 
-## Lesson 13
+### Lesson 13
 *(Pre-Verbs)*
 
 * kama sona - learning
@@ -137,7 +152,7 @@
 * tawa lon telo - swimming
 * ma mama - motherland
 
-## Lesson 14
+### Lesson 14
 *(Colours and la)*
 
 * tenpo pimeja ni - tonight
@@ -145,38 +160,38 @@
 * tenpo suno kama - tomorrow
 * pilin pona - feeling good
 
-## Lesson 15
+### Lesson 15
 *(Spatial Nouns)*
 
 * 👍 pi noka suli - deep
 * telo suli - ocean
 
-## Lesson 16
+### Lesson 16
 *(Particles and Perspective)*
 
 * ma mama - fatherland
 * nanpa tu - second
 
-## Lesson 17
+### Lesson 17
 *(Hunting Adventure)*
 
 * kama tawa tomo jan - to visit someone
 * ma kasi - forest
 * ilo alasa - bow
 
-## Lesson 18
+### Lesson 18
 *(Cooking Adventure)*
 
 * lape lili - napping
 * soweli lili - hare
 * moku pona - bon appétit
 
-## Lesson 19
+### Lesson 19
 *(The Frontier)*
 
 * 👍 o pilin pona o pu!
 
-## Toki Pona Proverbs
+### Toki Pona Proverbs
 
 * ante li kama. - Times change.
 * jan sona - sage
@@ -298,7 +313,7 @@
 |:--| 
 | *utala li ike.* | 
 
-## Famous Quotations
+### Famous Quotations
 
 * nanpa wan - fundamental
 * nanpa wan - ultimate
@@ -339,9 +354,9 @@
 |:--| 
 | *sina ken ala toki e ijo lon toki pona, la sina sona pona ala e ona.* | 
 
-## The Torah
+### The Torah
 
-## The Gospel
+### The Gospel
 
 * tawa lili - to go on a little farther
 * toki tawa sewi - to pray
@@ -352,13 +367,13 @@
 * jan ala - no one
 * ijo ala - nothing
 
-## The Qur'an
+### The Qur'an
 
 * kalama sewi - recital
 
-## The Ant's Chapter
+### The Ant's Chapter
 
-## Writings of Bahá'u'lláh
+### Writings of Bahá'u'lláh
 
 * nasin lawa - code of laws
 * ilo sitelen - pen
@@ -368,9 +383,9 @@
 * jo mute - wealthy
 * lon la sina lon. - You [are] the Self-Subsisting.
 
-## Short Obligatory Prayer
+### Short Obligatory Prayer
 
-## Official Toki Pona Dictionary
+### Official Toki Pona Dictionary
 
 --
 
@@ -395,18 +410,6 @@
 | jan Sulu li pilin e ni: ona li pona. → jan Sulu li pilin: pona. |
 |:-|
 | *Mr. Sulu is happy.* |
-
-🤔 [**Sonja**](lipu-pi-toki-pona.md#lesson-9) compares proper names with ᴀᴅᴊᴇᴄᴛɪᴠᴇs rather than ᴘᴀʀᴛɪᴄʟᴇs, whereas proper-name-phrases don't form "pi"-phrases.
-
-| nimi ona li Epawan Linkan | jan Epawan Linkan | tomo nanpa wan |
-|:-|:-|:-|
-| *His name was Abraham Lincoln.* | *Abraham Lincoln* | *room #1* |
-
-🤔 [**Sonja**](lipu-pi-toki-pona.md#what-is-toki-pona) refers to **predicates** as ᴠᴇʀʙs.
-
-| li lete |
-|:-|
-| **predicate** → ᴠᴇʀʙ *is cold* |
 
 🤔 The **direct object** of "pana" can become a [ᴠᴇʀʙ](#verb).
 
@@ -438,9 +441,12 @@
 |:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ 🤔 (kama -) **dying** | *He died.* |
 
-🤔 — Sections about **"Non-Essential Language"** describe some of **Sonja**'s way of using the language in the **Toki Pona Book** that seems unnecessary.
+🤔
 
 | ona li pana e telo tawa kasi. → ona li telo e kasi. |
 |:-|
 | *She gives water to the plant.* → *She waters the plant.* |
+
+---
+
 
