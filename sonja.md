@@ -1,4 +1,4 @@
-# Community Toki Pona ([ꜱᴏɴᴊᴀ]((http://www.amazon.com/gp/product/0978292308))
+# Community Toki Pona ([ꜱᴏɴᴊᴀ](http://www.amazon.com/gp/product/0978292308))
 
 ## Preface
 
