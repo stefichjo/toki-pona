@@ -1,6 +1,6 @@
 # Community Toki Pona ([ꜱᴏɴᴊᴀ](http://www.amazon.com/gp/product/0978292308))
 
-## ...
+## Backward Compatibility
 
 ### ɴᴏᴜɴ to ᴠᴇʀʙ
 
@@ -17,6 +17,14 @@ Instead of **anu seme**, yes/no questions can have the ***predicate*** twice, wi
 | ona li mama ala anu mama? → ona li mama ala mama? |
 |:-|
 | *Is she a parent?* |
+
+### Counting
+
+Instead of using adjectives, in a "more complex and precise counting system" adjectives can be added like ᴘᴀʀᴛɪᴄʟᴇs.
+
+| palisa luka, tu → palisa luka tu |
+|:-|
+| *seven fingers* |
 
 ## Terminology
 
@@ -431,12 +439,6 @@ Instead of **anu seme**, yes/no questions can have the ***predicate*** twice, wi
 | ala li sama ona. → ijo ala li sama ona. | sewi li lon ala, li lon ale. |
 |:-|:-|
 | *Nothing is like [God].* | *God is the tangential point between zero and infinity. (Alfred Jarry)* |
-
-🤔 Between two [ɴᴜᴍʙᴇʀ](#number)s, the **comma** is omitted.
-
-| palisa luka, tu → palisa luka tu |
-|:-|
-| *seven fingers* |
 
 🤔 **Sonja** uses "pilin ike" and "pilin pona" as [predicate](#subject-and-predicate)s without introducing "pilin" as a ᴘʀᴇ-ᴠᴇʀʙ.
   
