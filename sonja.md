@@ -4,7 +4,7 @@
 
 ### Noun to Verb
 
-The ***direct object*** of **pana** / the ***object*** of **kepeken** can become a [ᴠᴇʀʙ](#verb).
+The ***direct object*** of **pana** / the ***object*** of **kepeken** can become a [ᴠᴇʀʙ](nasin-nimi.md#verb).
 
 | ona li pana e telo tawa kasi. / ona li kepeken telo lon kasi. → ona li telo e kasi. |
 |:-|
@@ -38,17 +38,9 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *He died.* |
 
-## 🤔
-
-[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#the-quran) doesn't use "ala" as a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ, i.e. she distinguishes between **ijo ala** (*nothing*) and **ala** (*nothingness*).
-
-| ala li sama ona. → ijo ala li sama ona. | sewi li lon ala, li lon ale. |
-|:-|:-|
-| *Nothing is like [God].* | *God is the tangential point between zero and infinity. (Alfred Jarry)* |
-
 ## Terminology
 
-[ꜱᴏɴᴊᴀ](sonja.md#lesson-11) introduces [ɴᴏᴜɴ](#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
+[ꜱᴏɴᴊᴀ](sonja.md#lesson-11) introduces [ɴᴏᴜɴ](nasin-nimi.md#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](nasin-nimi.md#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](nasin-nimi.md#noun)s.
 
 ...
 
@@ -74,11 +66,17 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|:-|
 | *Abraham Lincoln* | *room #1* |
 
-...
+[ꜱᴏɴᴊᴀ](sonja.md#lesson-17) introduces ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs as separate ꜱᴇɴᴛᴇɴᴄᴇs.
 
-| (ꜱᴏɴᴊᴀ) ijo ala li sama ona. ⇒ (ᴘᴜ) ala li sama ona. |
+| mi wile e ni: jan Melani li kama tawa tomo mi. |
 |:-|
-| *Nothing is like it.* |
+| (ᴘᴏɴᴀ) ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I want Mélanie to visit me.* ⇒ (ꜱᴏɴᴊᴀ) ꜱᴇɴᴛᴇɴᴄᴇ + ꜱᴇɴᴛᴇɴᴄᴇ *I want this: Mélanie visit me.* |
+
+[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-12) conflates the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ **ala** with ordinary ᴀᴅᴊᴇᴄᴛɪᴠᴇs and ɴᴏᴜɴs, i.e. she distinguishes between **ijo ala** (*nothing*) and **ala** (*nothingness*).
+
+| (ᴘᴜ) ala li sama ona. ala li sama ona. ⇒ (ꜱᴏɴᴊᴀ) ijo ala li sama ona. | sewi li lon ala, li lon ale. |
+|:-|:-|
+| *Nothing is like [God].* | *God is the tangential point between zero and infinity. (Alfred Jarry)* |
 
 ## Corpus
 
@@ -317,28 +315,6 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | jan Sulu li pilin e ni: ona li pona. → jan Sulu li pilin: pona. |
 |:-|
 | *Mr. Sulu is happy.* |
-
----
-
-This document discourages from using ᴏʙꜱᴏʟᴇᴛᴇ rules, i.e. rules that would go unnecessarily beyond the scope of what is ᴘᴜ and ᴘᴏɴᴀ.
-
-| (ᴘᴜ) sina pana e ona lon seme? ⇒  (ᴜɴ-ᴘᴜ) sina lon seme e ona? |
-|:-|
-| *Where did you put it?* |
-
-This document treats some ᴘᴏɴᴀ rules as ᴏᴘᴛɪᴏɴᴀʟ stylistic advices, when they introduce additional grammatical concepts merely for the sake of a simpler style. For example, the distinction between [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s only serves the purpose of motivating the ᴘᴏɴᴀ rule that [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can't contain more than one ["pi"](#genitive). In case of doubt: be ᴘᴏɴᴀ!
-
-| (ᴛᴇᴘᴀɴ) nimi pi jan pona, pi toki pona ⇒ (ᴘᴏɴᴀ) nimi ni pi jan pona li lon toki pona: ona |
-|:-|
-| *a friend's Toki Pona name* |
-
----
-
-[ꜱᴏɴᴊᴀ](sonja.md#lesson-17) treats ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇs and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs as if they were subsequent "ꜱᴇɴᴛᴇɴᴄᴇs".
-
-| mi wile e ni: jan Melani li kama tawa tomo mi. |
-|:-|
-| (ᴘᴏɴᴀ) ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I want Mélanie to visit me.* ⇒ (ꜱᴏɴᴊᴀ) ꜱᴇɴᴛᴇɴᴄᴇ + ꜱᴇɴᴛᴇɴᴄᴇ *I want this: Mélanie visit me.* |
 
 [ꜱᴏɴᴊᴀ](sonja.md#lesson-17) always completes the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ before beginning the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ, even if the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ doesn't end with the word described or modified by the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
 
