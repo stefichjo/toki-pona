@@ -1,5 +1,5 @@
 # Toki Pona Word Classes and Parts of Speech
-*(nimi)*
+*(nasin nimi)*
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 

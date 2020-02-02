@@ -10,8 +10,8 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 | |
 |:-|
-| [Toki Pona Word Classes and Parts of Speech](nimi.md) |
-| [Toki Pona Dictionary](ale-pi-nimi-mute.md) |
+| [Toki Pona Word Classes and Parts of Speech](nasin-nimi.md) |
+| [Toki Pona Dictionary](nimi-ale.md) |
 | |
 | [Playful Orthography](nasin-sitelen.md) |
 | [Playful Dialects: Prequels, Sequels ans Spin-Offs](toki-sin.md) |
