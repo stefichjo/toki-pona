@@ -115,17 +115,11 @@ The ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation
 | [ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#person-adjective) |
 | [ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#time-adjective) |
 
-An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun). [ꜱᴏɴᴊᴀ](sonja.md#lesson-11) summarizes [ɴᴏᴜɴ](#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
+An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun).
 
 | jan | jan pona | jan pona mute |
 |:-|:-|:-|
-| *person* | *friendly person* → *friend* | *friends* |
-
-[ꜱᴏɴᴊᴀ](sonja.md#lesson-6) uses the term "ᴀᴅᴊᴇᴄᴛɪᴠᴇ" for ᴀᴅᴠᴇʀʙꜱ, too.
-
-| mute | pona mute |
-|:-|:-|
-| ᴀᴅᴠᴇʀʙ ⇒ ᴀᴅᴊᴇᴄᴛɪᴠᴇ *very* | *very good* |
+| *person* | *friendly person*, *friend* | *friends* |
 
 ### SIMPLE ADJECTIVE
 *([nimi suli poka](#adjective) pona)*

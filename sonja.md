@@ -2,17 +2,28 @@
 
 ## Terminology
 
-[ꜱᴏɴᴊᴀ](#what-is-toki-pona) introduces ***predicates*** as ᴠᴇʀʙs. Apparently, she conflates ᴠᴇʀʙ slots (i.e. ***predicates***) and ᴠᴇʀʙs.
+[ꜱᴏɴᴊᴀ](sonja.md#lesson-11) introduces [ɴᴏᴜɴ](#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
+
+...
+
+[ꜱᴏɴᴊᴀ](#lesson-6) introduces ᴀᴅᴠᴇʀʙs as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Apparently, she conflates ᴀᴅᴊᴇᴄᴛɪᴠᴇs with ᴍᴏᴅɪꜰɪᴇʀs (i.e. ᴀᴅᴊᴇᴄᴛɪᴠᴇs and ᴀᴅᴠᴇʀʙs).
+
+| mute | pona mute |
+|:-|:-|
+| ᴀᴅᴠᴇʀʙ ⇒ ᴀᴅᴊᴇᴄᴛɪᴠᴇ *very* | *very good* |
+
+[ꜱᴏɴᴊᴀ](#what-is-toki-pona) introduces ***predicates*** as ᴠᴇʀʙs. Apparently, she conflates ᴠᴇʀʙs with ᴠᴇʀʙ slots (i.e. ***predicates***).
 
 | li lete |
 |:-|
 | **predicate** → ᴠᴇʀʙ *is cold* |
 
-[ꜱᴏɴᴊᴀ](#lesson-9) introduces proper names as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Yet, multiple consecutive proper name elements don't need **pi**. Apparently, ꜱᴏɴᴊᴀ conflates ᴀᴅᴊᴇᴄᴛɪᴠᴇs and ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇs for names.
+[ꜱᴏɴᴊᴀ](#lesson-9) introduces proper names as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Yet, multiple consecutive proper name elements don't need **pi**. Apparently, ꜱᴏɴᴊᴀ conflates ᴀᴅᴊᴇᴄᴛɪᴠᴇs with ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇs for names.
 
 | nimi ona li Epawan Linkan | jan Epawan Linkan | tomo nanpa wan |
 |:-|:-|:-|
 | *His name was Abraham Lincoln.* | *Abraham Lincoln* | *room #1* |
+
 ## Corpus
 
 ### Preface
