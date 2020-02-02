@@ -314,6 +314,3 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ### Official Toki Pona Dictionary
 
---
-
-
