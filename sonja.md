@@ -1,8 +1,4 @@
-# lipu pi toki pona [ꜱᴏɴᴊᴀ]
-
-| |
-|:-|
-| |
+# Community Toki Pona ([ꜱᴏɴᴊᴀ])
 
 ## Preface
 
@@ -35,15 +31,29 @@
 ## Lesson 3
 *(Nouns and Adjectives)*
 
-* tomo suli - palace
-* jan pona - friend
-* meli lili - girl
-* telo suli - sea
-* telo kili - juice
-* tomo telo - bathroom
-* soweli lili - kitten
-* jan lili - baby
-* kili telo - watermelon
+| tomo suli |
+|:-|
+| *palace* |
+
+| jan pona |
+|:-|
+| *friend* |
+
+| meli lili | telo suli |
+|:-|:-|
+| *girl* | *sea* |
+
+| telo kili | tomo telo |
+|:-|:-|
+| *juice* | *bathroom* |
+
+| soweli lili | jan lili |
+|:-|:-|
+| *kitten* | *baby* |
+
+| kili telo |
+|:-|
+| *watermelon* |
 
 ## Lesson 4
 *(You and I)*
