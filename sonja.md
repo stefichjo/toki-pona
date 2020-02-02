@@ -6,11 +6,15 @@ The ***direct object*** of **pana** / the ***object*** of **kepeken** can become
 
 | ona li pana e telo tawa kasi. / ona li kepeken telo lon kasi. → ona li telo e kasi. |
 |:-|
-| *She gives water to the plant.* / *She uses water on the plant.* → *She waters the plant.* |
+| *She gives water to the plant.* / *She uses water on the plant.* → *She waters the plant.* / *She washes the plant.* |
 
 ## Terminology
 
 [ꜱᴏɴᴊᴀ](sonja.md#lesson-11) introduces [ɴᴏᴜɴ](#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
+
+...
+
+ꜱᴏɴᴊᴀ introduces ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs as ᴠᴇʀʙs. Apparently, she conflates ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs and ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs to ᴠᴇʀʙs.
 
 ...
 
