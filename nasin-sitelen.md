@@ -1,5 +1,5 @@
 # Orthography
-*(nasin sitelen pi [toki pona](nasin-toki.md))*
+*(nasin sitelen pi [toki pona](README.md))*
 
 | |
 |:-|

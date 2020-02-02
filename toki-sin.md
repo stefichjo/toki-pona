@@ -1,5 +1,5 @@
 # Playful Dialects: Prequels, Sequels ans Spin-Offs
-*([Toki Pona](nasin-toki.md) Sin)*
+*([Toki Pona](README.md) Sin)*
 
 | | |
 |:-|:-|
@@ -230,8 +230,8 @@ In **Toki Namako**, "sin" is considered to be a conflation of "sin" and "namako"
 
 | ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ᴄʟᴀꜱꜱ | ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
 |:-|:-|:-|:-|
-| <img src="sitelen/pona/namako.png" height="42" title="namak"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nimi.md#preposition) | **namako** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **additional**, **another**, **extra** → <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* |
-| <img src="sitelen/pona/sin.png" height="42" title="ŝin"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | **sin** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh** |
+| <img src="sitelen/pona/namako.png" height="42" title="namak"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-nimi.md#preposition) | **namako** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **additional**, **another**, **extra** → <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* |
+| <img src="sitelen/pona/sin.png" height="42" title="ŝin"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#simple-adjective) | **sin** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh** |
 
 ### Tok Bon
 *([Toki Pona Spin-Off](#spin-offs) with Declension)*
