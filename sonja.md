@@ -26,6 +26,14 @@ Instead of using adjectives, in a "more complex and precise counting system" adj
 |:-|
 | *seven fingers* |
 
+### moli
+
+ꜱᴏɴᴊᴀ uses **moli** for both *dead* and *dying*, i.e. omitting **kama**.
+
+| ona li kama moli. → ona li moli. |
+|:-|
+| *He died.* |
+
 ## Terminology
 
 [ꜱᴏɴᴊᴀ](sonja.md#lesson-11) introduces [ɴᴏᴜɴ](#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
@@ -446,23 +454,10 @@ Instead of using adjectives, in a "more complex and precise counting system" adj
 |:-|
 | *Mr. Sulu is happy.* |
 
-🤔 With "utala", the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "tawa" becomes the ᴘᴀʀᴛɪᴄʟᴇ "e".
-
-| ona li utala tawa jan ike. → ona li utala e jan ike. |
-|:-|
-| *She fights the enemy.* |
-
 🤔 [**Sonja**](lipu-pi-toki-pona.md#short-obligatory-prayer) avoids interrupting a sentence with a **vocative**.
 
 | mi toki wawa e ni, jan sewi o: … → jan sewi o! mi toki wawa e ni: … |
 |:-|
 | *I bear witness, O my God, that …* |
-
-🤔 — Suggested context/alternative.
-
-| moli | ona li kama moli. → ona li moli. |
-|:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ 🤔 (kama -) **dying** | *He died.* |
-
 
 
