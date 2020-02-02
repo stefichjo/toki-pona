@@ -295,9 +295,9 @@ Accusative phrases can be used as modifiers.
 
 Any transitive verb can be used as a pre-verb.
 
-| mi olin lukin e sitelen tawa. |
-|:-|
-| *I love to watch movies.* |
+| mi olin lukin e sitelen tawa. | mi pilin e ni: mi wile lape. → mi pilin lape. |
+|:-|:-|
+| *I love to watch movies.* | *I feel like sleeping.* |
 
 An **e**-phrase can be turned into a **pi**-phrase (or a modifier).
 
@@ -310,6 +310,7 @@ An abbrevated question can be used instead of a relative clause.
 | mi sona ala e tan seme. |
 |:-|
 | *I don't know why.* |
+
 
 #### Toko Bona
 *([Toki Pona Spin-Off](#spin-offs) à la Esperanto)*
