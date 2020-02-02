@@ -44,7 +44,7 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 
 ## sewi
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona5.php) uses adverbs in order to describe *directions*.
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona5.php) uses location nouns as adverbs in order to describe *directions*.
 
 | | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
