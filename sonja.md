@@ -1,6 +1,8 @@
 # Community Toki Pona ([ꜱᴏɴᴊᴀ](http://www.amazon.com/gp/product/0978292308))
 
-## ɴᴏᴜɴ to ᴠᴇʀʙ
+## ...
+
+### ɴᴏᴜɴ to ᴠᴇʀʙ
 
 The ***direct object*** of **pana** / the ***object*** of **kepeken** can become a [ᴠᴇʀʙ](#verb).
 
@@ -8,13 +10,21 @@ The ***direct object*** of **pana** / the ***object*** of **kepeken** can become
 |:-|
 | *She gives water to the plant.* / *She uses water on the plant.* → *She waters the plant.* / *She washes the plant.* |
 
+### Yes/No Questions
+
+Instead of **anu seme**, yes/no questions can have the ***predicate*** twice, with and without **ala**. The ᴘᴀʀᴛɪᴄʟᴇ "anu" is omitted.
+
+| ona li mama ala anu mama? → ona li mama ala mama? |
+|:-|
+| *Is she a parent?* |
+
 ## Terminology
 
 [ꜱᴏɴᴊᴀ](sonja.md#lesson-11) introduces [ɴᴏᴜɴ](#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
 
 ...
 
-ꜱᴏɴᴊᴀ introduces ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs as ᴠᴇʀʙs. Apparently, she conflates ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs and ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs to ᴠᴇʀʙs.
+[ꜱᴏɴᴊᴀ](sonja.md#lesson-5) introduces ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs as ᴠᴇʀʙs. Apparently, she conflates ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs and ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs to ᴠᴇʀʙs.
 
 ...
 
@@ -30,11 +40,11 @@ The ***direct object*** of **pana** / the ***object*** of **kepeken** can become
 |:-|
 | ***predicate*** → ᴠᴇʀʙ *is cold* |
 
-[ꜱᴏɴᴊᴀ](#lesson-9) introduces proper names as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Yet, multiple consecutive proper name elements don't need **pi**. Apparently, ꜱᴏɴᴊᴀ conflates ᴀᴅᴊᴇᴄᴛɪᴠᴇs with ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇs for names.
+[ꜱᴏɴᴊᴀ](#lesson-9) introduces proper names as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Yet, multiple consecutive proper name elements don't need **pi**. Apparently, ꜱᴏɴᴊᴀ conflates ᴀᴅᴊᴇᴄᴛɪᴠᴇs with ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇs for names (like **nanpa**).
 
-| nimi ona li Epawan Linkan. | jan Epawan Linkan | tomo nanpa wan |
-|:-|:-|:-|
-| *His name was Abraham Lincoln.* | *Abraham Lincoln* | *room #1* |
+| jan Epawan Linkan | tomo nanpa wan |
+|:-|:-|
+| *Abraham Lincoln* | *room #1* |
 
 ## Corpus
 
@@ -446,24 +456,11 @@ The ***direct object*** of **pana** / the ***object*** of **kepeken** can become
 |:-|
 | *I bear witness, O my God, that …* |
 
-🤔 In front of words and after the same words negated, the ᴘᴀʀᴛɪᴄʟᴇ "anu" is omitted.
-
-| ona li mama ala anu mama? → ona li mama ala mama? |
-|:-|
-| *Is she a parent?* |
-
 🤔 — Suggested context/alternative.
 
 | moli | ona li kama moli. → ona li moli. |
 |:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ 🤔 (kama -) **dying** | *He died.* |
 
-🤔
-
-| ona li pana e telo tawa kasi. → ona li telo e kasi. |
-|:-|
-| *She gives water to the plant.* → *She waters the plant.* |
-
----
 
 
