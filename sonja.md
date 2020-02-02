@@ -74,7 +74,7 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 [ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-12) conflates the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ **ala** with ordinary ᴀᴅᴊᴇᴄᴛɪᴠᴇs and ɴᴏᴜɴs, i.e. she distinguishes between **ijo ala** (*nothing*) and **ala** (*nothingness*).
 
-| (ᴘᴜ) ala li sama ona. ala li sama ona. ⇒ (ꜱᴏɴᴊᴀ) ijo ala li sama ona. | sewi li lon ala, li lon ale. |
+| (ᴘᴜ) ala li sama ona. ⇒ (ꜱᴏɴᴊᴀ) ijo ala li sama ona. | sewi li lon ala, li lon ale. |
 |:-|:-|
 | *Nothing is like [God].* | *God is the tangential point between zero and infinity. (Alfred Jarry)* |
 
