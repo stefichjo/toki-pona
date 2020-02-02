@@ -30,6 +30,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 [ꜱᴏɴᴊᴀ](#official-toki-pona-dictionary) lists **ali**, **kin**, **namako** and **oko** as synonyms of **ale**, **a**, **sin** and **lukin**.
 
+| ali = ale | kin = a | namako = sin | oko = lukin |
+|:-|:-|:-|:-|
+| *everything* | *(emotion)* | *additional* | *eye* |
+
 ### moli
 
 ꜱᴏɴᴊᴀ uses **moli** for both *dead* and *dying*, i.e. omitting **kama**.
@@ -144,8 +148,9 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 4
 *(You and I)*
 
-* tomo soweli - doghouse
-* tomo lipu - library
+| tomo soweli | tomo lipu |
+|:-|:-|
+| *doghouse* | *library* |
 
 ### Lesson 5
 *(Verbs)*
