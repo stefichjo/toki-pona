@@ -6,6 +6,7 @@
 | [Didactical Punctuation](#didactical-punctuation) |
 | [Playful Hieroglyphs](#playful-hieroglyphs) |
 | [Emoji](#emoji) |
+| [Ascii](#ascii) |
 
 ## Didactical Punctuation
 *(sitelen pi poka nimi, pi kama sona)*
@@ -128,3 +129,14 @@ If "ni" is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is not w
 
 * ❤️ 💙 💛 → 🔴 🔵 🟡
 * 🖤 🤍 → ⚫ ⚪
+
+## Ascii
+
+| nanpa wan la o pu. → #1) o pu. |
+|:-|
+| *First, you should consult the official Toki Pona book.* |
+
+| tu tu → 4 → 2×2 | 2+2 = 2×2 → tu en tu sama tu tu |
+|:-|:-|
+| *four* | *2+2 = 2×2* |
+
