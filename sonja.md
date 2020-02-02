@@ -1,4 +1,4 @@
-# lipu pi toki pona
+# lipu pi toki pona [ꜱᴏɴᴊᴀ]
 
 | |
 |:-|
@@ -10,9 +10,9 @@
 |:-|
 | *thought* |
 
-| ilo lipu | 👍 lipu sona |
+| ilo lipu | lipu sona |
 |:-|:-|
-| *the Web*; 👍 *browser*, *editor* | *web page*, *the Web* |
+| ~~the Web~~; *browser*, *editor* | *web page*, *the Web* |
 
 ## What Is Toki Pona?
 

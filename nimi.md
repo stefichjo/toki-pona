@@ -115,13 +115,13 @@ The ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation
 | [ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#person-adjective) |
 | [ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#time-adjective) |
 
-An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun). [ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-11) summarizes [ɴᴏᴜɴ](#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
+An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun). [ꜱᴏɴᴊᴀ](sonja.md#lesson-11) summarizes [ɴᴏᴜɴ](#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
 
 | jan | jan pona | jan pona mute |
 |:-|:-|:-|
 | *person* | *friendly person* → *friend* | *friends* |
 
-[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-6) uses the term "ᴀᴅᴊᴇᴄᴛɪᴠᴇ" for ᴀᴅᴠᴇʀʙꜱ, too.
+[ꜱᴏɴᴊᴀ](sonja.md#lesson-6) uses the term "ᴀᴅᴊᴇᴄᴛɪᴠᴇ" for ᴀᴅᴠᴇʀʙꜱ, too.
 
 | mute | pona mute |
 |:-|:-|
@@ -211,13 +211,13 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ de
 |:-|
 | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I know that I'm low.* |
 
-[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-17) treats ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇs and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs as if they were subsequent "ꜱᴇɴᴛᴇɴᴄᴇs".
+[ꜱᴏɴᴊᴀ](sonja.md#lesson-17) treats ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇs and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs as if they were subsequent "ꜱᴇɴᴛᴇɴᴄᴇs".
 
 | mi wile e ni: jan Melani li kama tawa tomo mi. |
 |:-|
 | (ᴘᴏɴᴀ) ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I want Mélanie to visit me.* ⇒ (ꜱᴏɴᴊᴀ) ꜱᴇɴᴛᴇɴᴄᴇ + ꜱᴇɴᴛᴇɴᴄᴇ *I want this: Mélanie visit me.* |
 
-[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-17) always completes the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ before beginning the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ, even if the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ doesn't end with the word described or modified by the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
+[ꜱᴏɴᴊᴀ](sonja.md#lesson-17) always completes the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ before beginning the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ, even if the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ doesn't end with the word described or modified by the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
 
 | (ᴛᴇᴘᴀɴ) jan Isa li toki e ni: "mama mi o!" tawa sewi. ⇒ (ᴘᴏɴᴀ) jan Isa li toki e ni tawa sewi: "mama mi o!" |
 |:-|
@@ -397,13 +397,13 @@ When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘ�
 |:-|:-|
 | *She has the name "Sonja".* | *She is the person called "Sonja".* ⇒ *She is Sonja.* |
 
-[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#the-gospel) removes the **quotations marks**, when the sense remains the same.
+[ꜱᴏɴᴊᴀ](sonja.md#the-gospel) removes the **quotations marks**, when the sense remains the same.
 
 | (ᴘᴜ) tan seme la sina pana e nimi "pona" tawa mi? ⇒ (ꜱᴏɴᴊᴀ) tan seme la sina pana e nimi pona tawa mi? |
 |:-|
 | *Why do you call me good?* |
 
-[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-12) removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ. ([**ᴘɪᴊᴇ**](http://tokipona.net/tp/janpije/okamasona16.php) doesn't remove the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇs with "nanpa", i.e. leaving them as ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs.)
+[ꜱᴏɴᴊᴀ](sonja.md#lesson-12) removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ. ([**ᴘɪᴊᴇ**](http://tokipona.net/tp/janpije/okamasona16.php) doesn't remove the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇs with "nanpa", i.e. leaving them as ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs.)
 
 | toki pi nanpa wan → toki nanpa wan |
 |:-|
@@ -491,7 +491,7 @@ Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates** can have **direct objects**
 |:-|
 | *She cooks the meat and the rice.* |
 
-When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can be omitted. (ꜱᴏɴᴊᴀ calls these omittable objects ["filler objects"](lipu-pi-toki-pona.md#lesson-5).)
+When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can be omitted. (ꜱᴏɴᴊᴀ calls these omittable objects ["filler objects"](sonja.md#lesson-5).)
 
 | mije li sona e ijo/ni/ona. ⇒ mije li sona. |
 |:-|

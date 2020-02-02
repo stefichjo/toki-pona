@@ -1,8 +1,19 @@
 # toki pona
 
-* [Grammar](nasin-toki.md)
-* [toki insa pakala](toki-insa-pakala.md) *(Paralogismoj — Fallacies)*
-* [mute nimi](https://tatoeba.org/deu/sentences/of_user/Tepan) *(mute nimi pi lipu sona Tatowepa — Tatoeba sentences)*
+This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
+
+## nasin toki
+
+| |
+|:-|
+| [Toki Pona Word Classes and Parts of Speech](nimi.md) |
+| [Toki Pona Dictionary](ale-pi-nimi-mute.md) |
+| |
+| [Playful Orthography](nasin-sitelen.md) |
+| [Playful Dialects: Prequels, Sequels ans Spin-Offs](toki-sin.md) |
+| |
+| [Pre-Pu Toki Pona (ᴘɪᴊᴇ)](pije.md) |
+| [Dialectal Toki Pona (ᴋɪᴘᴏ)](kipo.md) |
 
 | <img src="sitelen/pona/o-pilin-pona-o-pu.png" height="50"> | 
 |:--:| 
@@ -16,12 +27,5 @@
   * *(La Fia Loĵbana Konversacia Libro — The Dirty Hungarian Phrasebook)*
 * [sitelen musi](musi/sitelen)
   * *(Memeoj — Memes)*
-
-### musi (o pana e pona)
-
-* [jan Nasa](musi/pk.srt)
-  * *(P.K. — P.K.)*
-* [soweli Wini Pu en jan pi ale ale ale](musi/soweli-wini-pu-en-jan-pi-ale-ale-ale.md)
-  * *(Winnie la Pu — Winnie-The-Pooh and All, All, All)*
 
 <img src="https://github.com/stefichjo/toki-pona/blob/master/sitelen/kulupu/nasin-toki/pu/o-pilin-pona-o-pu.jpg?raw=true" height="400">
