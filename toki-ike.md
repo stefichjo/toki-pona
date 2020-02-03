@@ -1,132 +1,48 @@
----
+* [lipu mama](https://thebestschools.org/magazine/15-logical-fallacies-know/)
 
-🤔 — Sections about **"Non-Essential Language"** describe some of **Sonja**'s way of using the language in the **Toki Pona Book** that seems unnecessary.
+# toki ike
+*(Fallacies)*
 
-| ona li pana e telo tawa kasi. → ona li telo e kasi. |
-|:-|
-| *She gives water to the plant.* → *She waters the plant.* |
+toki utala li nasa e toki insa. tan ni la jan li toki utala, la tenpo mute la ona li toki ike tan toki insa nasa.
 
----
+## toki utala tawa jan
+*(Ad Hominem Fallacy)*
 
-👎 Any ᴠᴇʀʙ can be used as a ᴘʀᴇ-ᴠᴇʀʙ.
+tenpo mute la jan wan li toki utala tawa jan ante li toki utala ala tawa toki pi jan ante ni tan ni: jan wan li toki insa pakala e ni: jan ante li ike, la sama la toki pi jan ante ni li ike a.
 
-| mi olin e ni: mi kama sona e toki pona. → mi olin kama sona e toki pona. |
-|:-|
-| *I love to learn Toki Pona.* |
+tan ni la jan wan li wile toki e ike pi jan ante, la tenpo mute la ona li pana e nimi ike tawa ...
 
-👎 Any ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ can have a **direct object**, not only the [ᴠᴇʀʙ](#verb) of a ꜱᴇɴᴛᴇɴᴄᴇ.
+### toki utala tawa nimi jan
+*(abusive form)*
 
-| alasa e kala li pona tawa mi. |
-|:-|
-| *I like fishing.* |
+... jan ante ni.
 
-👎 The [ᴘᴀʀᴛɪᴄʟᴇ "e"](#direct-object) can become "pi", turning a subsequent ᴘᴀʀᴛɪᴄʟᴇ "pi" into "e".
+* jan ante: toki pona li toki pona.
+* jan wan: taso sina jaki a! :(
 
-| mi ante e toki pi sitelen tawa. → mi ante toki e sitelen tawa. |
-|:-|
-| *I translate the movie.* |
+### toki utala tawa poka jan
+*(circumstantial form)*
 
-👎 The ᴘᴀʀᴛɪᴄʟᴇ "pi" can be used for comparisons.
+... poka pi jan ante ni.
 
-| jan li suli mute, mani li suli lili. → jan li suli mute mani. |
-|:-|
-| *People are more important than money.* |
+* jan ante: toki pona li toki pona.
+* jan wan: sina pana e lipu pi toki pona tawa esun. tan ni taso la sina pana e nimi pona tawa toki pona. :(
 
-👎 A **comma** can become the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ "en".
+### toki utala tawa pali jan
+*("tu quoque")*
 
-| tomo pi telo nasa, pi ma ante → tomo pi telo nasa en pi ma ante |
-|:-|
-| *foreign bar* |
+... pali pi jan ante ni.
 
-👎 When the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "lon" expresses context, it must be replaced with the ᴘᴀʀᴛɪᴄʟᴇ "la".
+* jan ante: toki pona li toki pona.
+* jan wan: taso sina jan pi toki Epelanto a!
 
-| o awen lon loje, o tawa lon laso. → loje la o awen, laso la o tawa. |
-|:-|
-| *Stop at red, walk at green.* |
+### toki utala tawa sama jan
+*(guilt by association)*
 
-...
+... sama pi jan ante ni.
 
-| tawa mi la sina jan pona. → mi la sina jan pona. |
-|:-|
-| *From my point of view, you are a good person.* |
+* jan ante: toki pona li toki pona.
+* jan wan: sama la jan nasa ... a li toki e ni!
 
-👎 The **comma** before "la" can be written after "la" instead.
-
-| sina pana e ike, la sina kama jo e ike. → sina pana e ike la, sina kama jo e ike. |
-|:-|
-| *What goes around, comes around.* |
-
-🤔 [**Sonja**](lipu-pi-toki-pona.md#the-quran) doesn't use "ala" as a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ, i.e. she distinguishes between "nothing" ("ijo ala") and "nothingness" (ala). ([**Pije**](http://tokipona.net/tp/janpije/okamasona8.php) doesn't make that distinction and uses "ala" as a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ, i.e. it implies "ijo" by default.)
-
-| ala li sama ona. → ijo ala li sama ona. | sewi li lon ala, li lon ale. |
-|:-|:-|
-| *Nothing is like [God].* | *God is the tangential point between zero and infinity. (Alfred Jarry)* |
-
-🤔 Between two [ɴᴜᴍʙᴇʀ](#number)s, the **comma** is omitted.
-
-| palisa luka, tu → palisa luka tu |
-|:-|
-| *seven fingers* |
-
-🤔 [**Sonja**](lipu-pi-toki-pona.md#lesson-15) avoids using ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs as [ᴠᴇʀʙs](#verb).
-
-| What did you put the clock next to? |
-|:-|
-| *sina lon poka seme e ilo tenpo?* → *sina pana e ilo tenpo lon poka seme?* |
-
-🤔 [**Sonja**](lipu-pi-toki-pona.md#lesson-15) says that ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used at the end of a ꜱᴇɴᴛᴇɴᴄᴇ (rather than at the end of a **predicate**), leaving the possibility open that ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can describe perceptions.
-
-| tawa lukin mi la meli pimeja li lon sinpin tomo. → mi lukin e meli pimeja lon sinpin tomo. |
-|:-|
-| *I saw a black woman in front of the building.* |
-
-🤔 **Sonja** uses "pilin ike" and "pilin pona" as [predicate](#subject-and-predicate)s without introducing "pilin" as a ᴘʀᴇ-ᴠᴇʀʙ.
-  
-| jan Sulu li pilin e ni: ona li pona. → jan Sulu li pilin pona. |
-|:-|
-| *Mr. Sulu is happy.* |
-
-🤔 [**Sonja**](lipu-pi-toki-pona.md#lesson-9) compares proper names with ᴀᴅᴊᴇᴄᴛɪᴠᴇs rather than ᴘᴀʀᴛɪᴄʟᴇs, whereas proper-name-phrases don't form "pi"-phrases.
-
-| nimi ona li Epawan Linkan | jan Epawan Linkan | tomo nanpa wan |
-|:-|:-|:-|
-| *His name was Abraham Lincoln.* | *Abraham Lincoln* | *room #1* |
-
-🤔 [**Sonja**](lipu-pi-toki-pona.md#what-is-toki-pona) refers to **predicates** as ᴠᴇʀʙs.
-
-| li lete |
-|:-|
-| **predicate** → ᴠᴇʀʙ *is cold* |
-
-🤔 The **direct object** of "pana" can become a [ᴠᴇʀʙ](#verb).
-
-| ona li pana e telo tawa kasi. → ona li telo e kasi. |
-|:-|
-| *She gives water to the plant.* → *She waters the plant.* |
-
-🤔 With "utala", the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "tawa" becomes the ᴘᴀʀᴛɪᴄʟᴇ "e".
-
-| ona li utala tawa jan ike. → ona li utala e jan ike. |
-|:-|
-| *She fights the enemy.* |
-
-🤔 [**Sonja**](lipu-pi-toki-pona.md#short-obligatory-prayer) avoids interrupting a sentence with a **vocative**.
-
-| mi toki wawa e ni, jan sewi o: … → jan sewi o! mi toki wawa e ni: … |
-|:-|
-| *I bear witness, O my God, that …* |
-
-🤔 In front of words and after the same words negated, the ᴘᴀʀᴛɪᴄʟᴇ "anu" is omitted.
-
-| ona li mama ala anu mama? → ona li mama ala mama? |
-|:-|
-| *Is she a parent?* |
-
-
-🤔 — Suggested context/alternative.
-
-| moli | ona li kama moli. → ona li moli. |
-|:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ 🤔 (kama -) **dying** | *He died.* |
-
-+ kama ante (change)
+## toki ike tawa jan ante
+*(Strawman Fallacy)*

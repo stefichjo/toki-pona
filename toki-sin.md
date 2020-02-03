@@ -1,11 +1,12 @@
-# Playful Dialects
-*([Toki Pona](nasin-toki.md) Sin)*
+# Playful Dialects: Prequels, Sequels ans Spin-Offs
+*([Toki Pona](README.md) Sin)*
 
-| |
-|:-|
-| [Prequels](#prequels) |
-| [Sequels](#sequels) |
-| [Spin-Offs](#spin-offs) |
+| | |
+|:-|:-|
+| [Prequels](#prequels) | [Tok Bona](#tok-bona), [Ijo Ŝin Bona](#ijo-ŝin-bona) |
+| [Sequels](#sequels) | [Toki Bona](#toki-bona), [Toĥi Bona](#toĥi-bona), [Toĥe Bona](#toĥe-bona) |
+| [Spin-Offs](#spin-offs) | [Ijo Sin Pona](#ijo-sin-pona), [Toki Namako](#toki-namako), [Toki Pi Pona](#toki-pi-pona), [Tok Bon](#tok-bon), [Toko Bona](#toko-bona) |
+
 
 [Toki Pona Prequels](#prequels)  and [Toki Pona Sequels](#sequels) are fictional **Toki Pona** dialects of the past and the future respectively, whereas [Toki Pona Spin-Offs](#spin-offs) are fictional co-existing **Toki Pona** dialects of the present.
 
@@ -124,6 +125,7 @@ The vowels "u" and "i" merge with "o" and "e".
 |:-|
 | [Ijo Sin Pona](#ijo-sin-pona)
 | [Toki Namako](#toki-namako)
+| [Toki Pi Pona](#toki-pi-pona)
 | [Tok Bon](#tok-bon) |
 | [Toko Bona](#toko-bona) |
 
@@ -228,8 +230,8 @@ In **Toki Namako**, "sin" is considered to be a conflation of "sin" and "namako"
 
 | ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ᴄʟᴀꜱꜱ | ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
 |:-|:-|:-|:-|
-| <img src="sitelen/pona/namako.png" height="42" title="namak"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nimi.md#preposition) | **namako** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **additional**, **another**, **extra** → <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* |
-| <img src="sitelen/pona/sin.png" height="42" title="ŝin"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nimi.md#simple-adjective) | **sin** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh** |
+| <img src="sitelen/pona/namako.png" height="42" title="namak"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-nimi.md#preposition) | **namako** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **additional**, **another**, **extra** → <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* |
+| <img src="sitelen/pona/sin.png" height="42" title="ŝin"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#simple-adjective) | **sin** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh** |
 
 ### Tok Bon
 *([Toki Pona Spin-Off](#spin-offs) with Declension)*
@@ -269,6 +271,45 @@ The **pre-phrase particle** "la" becomes the **ending** "-a".
 | tan seme la ona li lon tomo?: ŝenmana oni domon? |
 |:-|
 | *Why is she at home?* |
+
+#### Toki Pi Pona
+*([Toki Pona Spin-Off](#spin-offs) with a freer phrase structure)*
+
+For more literal word-for-word translations, phrase structues are more liberal. The noun phrase after **pi** can consist of a single word.
+
+| toki pi pona |
+|:-|
+| *language of good* |
+
+Prepositional phrases can be used as modifiers.
+
+| jan lon poka mi li lukin kepeken ilo sona e lipu lon toki pona. |
+|:-|
+| *The person next to me is reading on the internet a book in Toki Pona.* |
+
+Accusative phrases can be used as modifiers.
+
+| lukin e sitelen tawa li pona tawa mi. |
+|:-|
+| *I like watching movies.* |
+
+Any transitive verb can be used as a pre-verb.
+
+| mi olin lukin e sitelen tawa. | mi pilin e ni: mi wile lape. → mi pilin lape. |
+|:-|:-|
+| *I love to watch movies.* | *I feel like sleeping.* |
+
+An **e**-phrase can be turned into a **pi**-phrase (or a modifier).
+
+| mi ante e toki pi sitelen tawa. → mi ante toki e sitelen tawa. |
+|:-|
+| *I translated the movie.* |
+
+An abbrevated question can be used instead of a relative clause.
+
+| mi sona ala e tan seme. |
+|:-|
+| *I don't know why.* |
 
 #### Toko Bona
 *([Toki Pona Spin-Off](#spin-offs) à la Esperanto)*

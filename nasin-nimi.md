@@ -1,5 +1,5 @@
 # Toki Pona Word Classes and Parts of Speech
-*(nimi)*
+*(nasin nimi)*
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
@@ -14,34 +14,6 @@ This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. 
 | (ᴜɴ-ᴘᴏɴᴀ) mi wile e ona o musi. ⇒ (ᴘᴏɴᴀ) mi wile e ni: ona li musi. |
 |:-|
 | *I want her to play.* |
-
-This document discourages from using ᴏʙꜱᴏʟᴇᴛᴇ rules, i.e. rules that would go unnecessarily beyond the scope of what is ᴘᴜ and ᴘᴏɴᴀ.
-
-| (ᴘᴜ) sina pana e ona lon seme? ⇒  (ᴜɴ-ᴘᴜ) sina lon seme e ona? |
-|:-|
-| *Where did you put it?* |
-
-A source of ᴏʙꜱᴏʟᴇᴛᴇ rules is [ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona16.php), a.k.a pre-Pu Toki Pona.
-
-| (ᴘᴜ) sina sama pipi tawa lukin. ⇒  (ᴘɪᴊᴇ) sina lukin sama pipi. | (ᴘᴏɴᴀ) mi pona, taso sina pakala. ⇒ (ᴘɪᴊᴇ) mi pona. taso sina pakala. |
-|:-|:-|
-| *You look like a bug.* | *I'm okay, but you are injured.* |
-
-This document also mentions some ᴏᴘᴛɪᴏɴᴀʟ rules, i.e. rules mentioned by ꜱᴏɴᴊᴀ that would be ᴏʙꜱᴏʟᴇᴛᴇ if not for the sake of backward-compatibility with pre-Pu speakers.
-
-| (ᴘᴏɴᴀ) ona li mama ala anu mama? ⇒ ona li mama anu seme? ⇒  (ꜱᴏɴᴊᴀ) ona li mama ala mama? | (ᴘᴜ) ona li pana e telo tawa kasi. ⇒ (ꜱᴏɴᴊᴀ) ona li telo e kasi. |
-|:-|:-|
-| *Is she a parent?* | *She waters the plant.* |
-
-| (ꜱᴏɴᴊᴀ) ijo ala li sama ona. ⇒ (ᴘᴜ) ala li sama ona. |
-|:-|
-| *Nothing is like it.* |
-
-This document treats some ᴘᴏɴᴀ rules as ᴏᴘᴛɪᴏɴᴀʟ stylistic advices, when they introduce additional grammatical concepts merely for the sake of a simpler style. For example, the distinction between [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s and [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s only serves the purpose of motivating the ᴘᴏɴᴀ rule that [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s can't contain more than one ["pi"](#genitive). In case of doubt: be ᴘᴏɴᴀ!
-
-| (ᴛᴇᴘᴀɴ) nimi pi jan pona, pi toki pona ⇒ (ᴘᴏɴᴀ) nimi ni pi jan pona li lon toki pona: ona |
-|:-|
-| *a friend's Toki Pona name* |
 
 | |
 |:-|
@@ -115,17 +87,11 @@ The ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation
 | [ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#person-adjective) |
 | [ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#time-adjective) |
 
-An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun). [ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-11) summarizes [ɴᴏᴜɴ](#noun)s and (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s as [ɴᴏᴜɴ-ɢʀᴏᴜᴘ](#noun)s.
+An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun).
 
 | jan | jan pona | jan pona mute |
 |:-|:-|:-|
-| *person* | *friendly person* → *friend* | *friends* |
-
-[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-6) uses the term "ᴀᴅᴊᴇᴄᴛɪᴠᴇ" for ᴀᴅᴠᴇʀʙꜱ, too.
-
-| mute | pona mute |
-|:-|:-|
-| ᴀᴅᴠᴇʀʙ ⇒ ᴀᴅᴊᴇᴄᴛɪᴠᴇ *very* | *very good* |
+| *person* | *friendly person*, *friend* | *friends* |
 
 ### SIMPLE ADJECTIVE
 *([nimi suli poka](#adjective) pona)*
@@ -211,27 +177,11 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ de
 |:-|
 | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I know that I'm low.* |
 
-[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-17) treats ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇs and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs as if they were subsequent "ꜱᴇɴᴛᴇɴᴄᴇs".
+A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a question ending in a question mark.
 
-| mi wile e ni: jan Melani li kama tawa tomo mi. |
-|:-|
-| (ᴘᴏɴᴀ) ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I want Mélanie to visit me.* ⇒ (ꜱᴏɴᴊᴀ) ꜱᴇɴᴛᴇɴᴄᴇ + ꜱᴇɴᴛᴇɴᴄᴇ *I want this: Mélanie visit me.* |
-
-[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-17) always completes the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ before beginning the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ, even if the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ doesn't end with the word described or modified by the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
-
-| (ᴛᴇᴘᴀɴ) jan Isa li toki e ni: "mama mi o!" tawa sewi. ⇒ (ᴘᴏɴᴀ) jan Isa li toki e ni tawa sewi: "mama mi o!" |
-|:-|
-| Jesus prayed: "My father!" |
-
-A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question, but not a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ.
-
-| (ᴛᴇᴘᴀɴ) wile sona nanpa wan li ni: ale li pona anu ike. ⇒ (ᴘᴏɴᴀ) wile sona nanpa wan li ni: ale li pona anu ike? |
+| wile sona nanpa wan li ni: ale li pona anu ike? |
 |:-|
 | *The question number one is whether the universe is good or evil.* |
-
-| (ᴛᴇᴘᴀɴ) o toki e ni: mani li lon seme. ⇒ (ᴜɴ-ᴘᴏɴᴀ) o toki e ni: mani li lon seme? ⇒ (ᴘᴏɴᴀ) mani li lon seme? o toki e ni. ⇒ (ᴛᴇᴘᴀɴ) o toki e ijo: mani li lon ona ni. |
-|:-|
-| *Tell me where the money is.* |
 
 #### SPATIAL ADJECTIVE
 *([nimi suli poka](#adjective) nasin)*
@@ -284,18 +234,6 @@ As [ɴᴏᴜɴ](#noun)s, the ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ "sike" impli
 | (ᴜɴ-ᴘᴜ) ona li pali ale e tomo. ⇒ (ᴘᴜ) ona li pali e tomo. |
 |:-|
 | *She was doing all the work on a house.* → *She has built a house.* |
-
-There is no ᴘᴀꜱꜱɪᴠᴇ.
-
-| (ᴛᴇᴘᴀɴ) kala li ijo moku lon soweli. ⇒ (ᴘᴏɴᴀ) ni li kama: soweli li moku e kala. |
-|:-|
-| *The fish is being eaten by the cat.* |
-
-There is no ᴄᴀᴜꜱᴀᴛɪᴠᴇ.
-
-| (ᴛᴇᴘᴀɴ) mi jan moku e soweli lon kala. ⇒ (ᴘᴏɴᴀ) mi kama e ni: soweli li moku e kala. |
-|:-|
-| *I made the cat eat the fish.* |
 
 ### SIMPLE VERB
 *([nimi suli wawa](#verb) pona)*
@@ -352,7 +290,7 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 |:-|
 | *I'm giving you an apple.* |
 
-When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped. A ᴘᴀʀᴛɪᴄʟᴇ (typically "ala") can be added to the ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but not another ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
+When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped. A ᴘᴀʀᴛɪᴄʟᴇ (typically **ala**) can be added to the ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but not another ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
 
 | (ᴜɴ-ᴘᴜ) mi tawa tawa tomo. ⇒ (ᴘᴜ) mi tawa tomo. | (ᴜɴ-ᴘᴜ) mi tawa ala tawa tomo. ⇒ (ᴘᴜ) mi tawa ala tomo. | mi tawa wawa tawa tomo. |
 |:-|:-|:-|
@@ -369,12 +307,6 @@ A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can
 | (ᴜɴ-ᴘᴏɴᴀ) mi toki tawa sina, lon tomo. ⇒ (ᴘᴏɴᴀ) mi toki tawa sina lon tomo. |
 |:-|
 | *I'm talking to you at home.* |
-
-When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped and the [direct object phrase](#direct-object) goes to the end of the ꜱᴇɴᴛᴇɴᴄᴇ.
-
-| (ᴘᴜ) mi pana e ona tawa tomo. ⇒ (ᴛᴇᴘᴀɴ) mi tawa tomo e ona. |
-|:-|
-| *I'm sending it home.* |
 
 # PARTICLE
 *([nimi](#toki-pona-word-classes-and-parts-of-speech) lili)*
@@ -397,13 +329,13 @@ When used as both ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘ�
 |:-|:-|
 | *She has the name "Sonja".* | *She is the person called "Sonja".* ⇒ *She is Sonja.* |
 
-[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#the-gospel) removes the **quotations marks**, when the sense remains the same.
+[ꜱᴏɴᴊᴀ](sonja.md#the-gospel) removes the **quotations marks**, when the sense remains the same.
 
 | (ᴘᴜ) tan seme la sina pana e nimi "pona" tawa mi? ⇒ (ꜱᴏɴᴊᴀ) tan seme la sina pana e nimi pona tawa mi? |
 |:-|
 | *Why do you call me good?* |
 
-[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-12) removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ. ([**ᴘɪᴊᴇ**](http://tokipona.net/tp/janpije/okamasona16.php) doesn't remove the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇs with "nanpa", i.e. leaving them as ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs.)
+[ꜱᴏɴᴊᴀ](sonja.md#lesson-12) removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ.
 
 | toki pi nanpa wan → toki nanpa wan |
 |:-|
@@ -476,12 +408,6 @@ When there is enough context, the **subject** of a ꜱᴇɴᴛᴇɴᴄᴇ can be
 |:-|:-|
 | *She is a parent.* → *Yes.* | *She is not a parent.* → *No.* |
 
-When there is enough context, a [ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause) can be reduced to its **predicate**.
-
-| (ᴘᴜ) mije ni li tawa musi lon poka pi soweli alasa ⇒ (ᴜɴ-ᴘᴜ) mije ni: tawa musi lon poka pi soweli alasa |
-|:-|
-| *the person, that is going home* |
-
 #### Direct Object
 *([nimi lili luka](#transitive-particle) "e")*
 
@@ -491,7 +417,7 @@ Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates** can have **direct objects**
 |:-|
 | *She cooks the meat and the rice.* |
 
-When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can be omitted. (ꜱᴏɴᴊᴀ calls these omittable objects ["filler objects"](lipu-pi-toki-pona.md#lesson-5).)
+When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can be omitted. (ꜱᴏɴᴊᴀ calls these omittable objects ["filler objects"](sonja.md#lesson-5).)
 
 | mije li sona e ijo/ni/ona. ⇒ mije li sona. |
 |:-|
@@ -527,12 +453,6 @@ If a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (or [ᴀᴅᴊᴇᴄᴛɪ
 |:-|:-|
 | *a person of much good* → *a very good person* | *a language of good* → *a good language* |
 
-A (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) consists of a [ɴᴏᴜɴ](#noun) with any number of [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s, including zero. The ᴘᴀʀᴛɪᴄʟᴇ **"pi"** goes between a first and a second (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (the second one having one or more [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s). Therefore, a [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) must not contain more than one **"pi"**-phrase, so neither subsequent nor nested **"pi"**-phrases are possible.
-
-| (ᴛᴇᴘᴀɴ) ona li jo e tomo pi telo nasa pi ma ante. ⇒ (ᴘᴏɴᴀ) ona li jo e telo pi telo nasa. telo nasa li tan ma ante. |
-|:-|
-| *She has a house of imported beer.* ⇒ *She has a bar. The beer is imported.* |
-
 ### CONJUNCTION
 *([nimi lili luka](#transitive-particle) "en", [nimi lili luka](#transitive-particle) "anu")*
 
@@ -557,15 +477,9 @@ At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, the [ᴘʀᴇᴘᴏꜱɪᴛɪ�
 |:-|
 | *She is coming tonight.* → *Tonight, she is coming.* |
 
-All [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition)s of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ can be omitted, reading "la" (or "lon") as "in the context of".
-
-| (ᴘᴜ) tawa mi la ni li pona. ⇒ (ꜱᴏɴᴊᴀ) mi la ni li pona. |
-|:-|
-| *In the context of me, this is good.* |
-
 At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, "ni" in front of a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause) is omitted.
 
-| (ᴜɴ-ᴘᴜ) lon ni: mi pona tawa jan, la jan li pona tawa mi. (ᴘᴜ) mi pona tawa jan, la jan li pona tawa mi. |
+| (ᴜɴ-ᴘᴜ) lon ni: mi pona tawa jan, la jan li pona tawa mi. ⇒ (ᴘᴜ) mi pona tawa jan, la jan li pona tawa mi. |
 |:-|
 | *If I'm good to people, people are good to me.* |
 

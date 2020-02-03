@@ -1,4 +1,4 @@
-# Pre-Pu Toki Pona ([ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona.php))
+# Traditional Toki Pona ([ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona.php))
 
 In his course [o kama sona e toki pona](http://tokipona.net/tp/janpije/okamasona.php), ᴘɪᴊᴇ aims to describe Toki Pona as it used to be "traditionally", i.e. before ꜱᴏɴᴊᴀ published [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) in 2014. (ᴘɪᴊᴇ has revised his course in 2015.)
 
@@ -44,7 +44,7 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 
 ## sewi
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona5.php) uses adverbs in order to describe *directions*.
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona5.php) uses location nouns as adverbs in order to describe *directions*.
 
 | | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
