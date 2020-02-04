@@ -46,11 +46,14 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 [ꜱᴏɴᴊᴀ](lesson-11) introduces ɴᴏᴜɴs and (simple) ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs as ɴᴏᴜɴ-ɢʀᴏᴜᴘs.
 
-...
+| ɴᴏᴜɴ ⇒ ɴᴏᴜɴ-ɢʀᴏᴜᴘ mije | ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs ⇒ ɴᴏᴜɴ-ɢʀᴏᴜᴘ  sona lili| mije pi sona lili |
+|:-|:-|:-|
+| *a man* | *little knowledge* | *a man of little knowledge* |
 
 [ꜱᴏɴᴊᴀ](sonja.md#lesson-5) introduces ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs as ᴠᴇʀʙs. Apparently, she conflates ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs and ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs to ᴠᴇʀʙs.
 
-...
+| ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙ ⇒ ᴠᴇʀʙ pali | ijo li pali e ijo |
+| *to do* | *something does something* |
 
 [ꜱᴏɴᴊᴀ](#lesson-6) introduces ᴀᴅᴠᴇʀʙs as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Apparently, she conflates ᴀᴅᴊᴇᴄᴛɪᴠᴇs with ᴍᴏᴅɪꜰɪᴇʀs (i.e. ᴀᴅᴊᴇᴄᴛɪᴠᴇs and ᴀᴅᴠᴇʀʙs).
 
