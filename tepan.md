@@ -53,3 +53,10 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 |:-|:-|
 | *previous day*, *yesterday* | *next day*, *tomorrow* |
 
+## [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](nasin-nimi.md#adjective)s to [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](nasin-nimi.md#thing-adjective)s
+
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ pimeja | (ᴛᴇᴘᴀɴ) ɴᴏᴜɴ pimeja |
+|:-|:-|
+| *black*, *dark*, *unlit* | *shadow* |
+
+
