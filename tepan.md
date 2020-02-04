@@ -5,7 +5,7 @@
 | [pi-Phrases](#pi-phrases) |
 | [Relative Clauses](#relative-clauses) |
 | [Passive](#passive) |
-| [Numbers](#numbers) |
+| [Adjectives to Thing Adjectives|(#adjectives-to-thing-adjectives)
 
 ## pi-Phrases
 
@@ -53,7 +53,7 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 |:-|:-|
 | *previous day*, *yesterday* | *next day*, *tomorrow* |
 
-## [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](nasin-nimi.md#adjective)s to [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](nasin-nimi.md#thing-adjective)s
+## [ADJECTIVE](nasin-nimi.md#adjective)s to [THING ADJECTIVE](nasin-nimi.md#thing-adjective)s
 
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ pimeja | (ᴛᴇᴘᴀɴ) ɴᴏᴜɴ pimeja |
 |:-|:-|
