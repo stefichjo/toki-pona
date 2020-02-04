@@ -1,46 +1,11 @@
 # Community Toki Pona ([ꜱᴏɴᴊᴀ](http://www.amazon.com/gp/product/0978292308))
 
-## Backward Compatibility
-
-### Noun to Verb
-
-The ***direct object*** of **pana** / the ***object*** of **kepeken** can become a [ᴠᴇʀʙ](nasin-nimi.md#verb).
-
-| ona li pana e telo tawa kasi. / ona li kepeken telo lon kasi. → ona li telo e kasi. |
+| |
 |:-|
-| *She gives water to the plant.* / *She uses water on the plant.* → *She waters the plant.* / *She washes the plant.* |
-
-### Yes/No Questions
-
-Instead of **anu seme**, yes/no questions can have the ***predicate*** twice, with and without **ala**. The ᴘᴀʀᴛɪᴄʟᴇ "anu" is omitted.
-
-| ona li mama ala anu mama? → ona li mama ala mama? |
-|:-|
-| *Is she a parent?* |
-
-### Counting
-
-Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more complex and precise counting system" ***number words*** can be added like ᴘᴀʀᴛɪᴄʟᴇs.
-
-| palisa luka, tu → palisa luka tu |
-|:-|
-| *seven fingers* |
-
-### Synonyms
-
-[ꜱᴏɴᴊᴀ](#official-toki-pona-dictionary) lists **ali**, **kin**, **namako** and **oko** as synonyms of **ale**, **a**, **sin** and **lukin**.
-
-| ali = ale | kin = a | namako = sin | oko = lukin |
-|:-|:-|:-|:-|
-| *everything* | *(emotion)* | *additional* | *eye* |
-
-### moli
-
-ꜱᴏɴᴊᴀ uses **moli** for both *dead* and *dying*, i.e. omitting **kama**.
-
-| ona li kama moli. → ona li moli. |
-|:-|
-| *He died.* |
+| [Terminology](#terminology) |
+| [Backward Compatibility](#backward-compatibility) |
+| [Corpus](#corpus) |
+| [Official Toki Pona Dictionary](#official-toki-pona-dictionary) |
 
 ## Terminology
 
@@ -79,17 +44,49 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | (ᴘᴏɴᴀ) ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I want Mélanie to visit me.* ⇒ (ꜱᴏɴᴊᴀ) ꜱᴇɴᴛᴇɴᴄᴇ + ꜱᴇɴᴛᴇɴᴄᴇ *I want this: Mélanie visit me.* |
 
-[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-12) conflates the ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ **ala** with ordinary ᴀᴅᴊᴇᴄᴛɪᴠᴇs and ɴᴏᴜɴs, i.e. she distinguishes between **ijo ala** (*nothing*) and **ala** (*nothingness*).
-
-| (ᴘᴜ) ala li sama ona. ⇒ (ꜱᴏɴᴊᴀ) ijo ala li sama ona. | sewi li lon ala, li lon ale. |
-|:-|:-|
-| *Nothing is like [God].* | *God is the tangential point between zero and infinity. (Alfred Jarry)* |
-
 [ꜱᴏɴᴊᴀ](#lesson-10) introduces the linking ᴠᴇʀʙ **pilin** as an ordinary ᴠᴇʀʙ.
 
 | sina pilin ike tan seme? | jan Sulu li pilin e ni: ona li pona. → jan Sulu li pilin pona. |
 |:-|:-|
 | *Why are you sad?* | *Mr. Sulu is happy.* |
+
+ꜱᴏɴᴊᴀ introduces numerals and ordinals as ɴᴜᴍʙᴇʀs.
+
+...
+
+## Backward Compatibility
+
+### Noun to Verb
+
+The ***direct object*** of **pana** / the ***object*** of **kepeken** can become a [ᴠᴇʀʙ](nasin-nimi.md#verb).
+
+| ona li pana e telo tawa kasi. / ona li kepeken telo lon kasi. → ona li telo e kasi. |
+|:-|
+| *She gives water to the plant.* / *She uses water on the plant.* → *She waters the plant.* / *She washes the plant.* |
+
+### Yes/No Questions
+
+Instead of **anu seme**, yes/no questions can have the ***predicate*** twice, with and without **ala**. The ᴘᴀʀᴛɪᴄʟᴇ "anu" is omitted.
+
+| ona li mama ala anu mama? → ona li mama ala mama? |
+|:-|
+| *Is she a parent?* |
+
+### Counting
+
+Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more complex and precise counting system" ***number words*** can be added like ᴘᴀʀᴛɪᴄʟᴇs.
+
+| palisa luka, tu → palisa luka tu |
+|:-|
+| *seven fingers* |
+
+### Synonyms
+
+[ꜱᴏɴᴊᴀ](#official-toki-pona-dictionary) lists **ali**, **kin**, **namako** and **oko** as synonyms of **ale**, **a**, **sin** and **lukin**.
+
+| ali = ale | kin = a | namako = sin | oko = lukin |
+|:-|:-|:-|:-|
+| *everything* | *(emotion)* | *additional* | *eye* |
 
 ## Corpus
 
@@ -324,5 +321,29 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ### Short Obligatory Prayer
 
-### Official Toki Pona Dictionary
+## Official Toki Pona Dictionary
+
+ꜱᴏɴᴊᴀ uses **moli** for both *dead* and *dying*, i.e. omitting **kama**.
+
+| ona li kama moli. → ona li moli. |
+|:-|
+| *He died.* |
+
+ꜱᴏɴᴊᴀ introduces **open** as a ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙ, rather than an ᴀᴅᴊᴇᴄᴛɪᴠᴇ that can be turned into a ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙ, or rather than a ᴘʀᴇ-ᴠᴇʀʙ.
+
+| mi open e ni lon sewi. / mi open toki lon sewi. → mi open lon sewi. |
+|:-|
+| *I start with the Divine.* |
+
+[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-12) introduces and handles **ala** as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ that doesn't behave like **ni**, i.e. when used as a ɴᴏᴜɴ, **ala** doesn't mean *nothing*, but *nothingness*.
+
+| ijo ala li sama ona. | sewi li lon ala, li lon ale. |
+|:-|:-|
+| *Nothing is like [God].* | *God is the tangential point between zero and infinity. (Alfred Jarry)* |
+
+ꜱᴏɴᴊᴀ abbreviates **sike suno** (*year*) to **sike** or **suno**.
+
+| pi sike suno → sike |
+|:-|
+| *of a year* |
 

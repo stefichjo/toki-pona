@@ -1,5 +1,12 @@
 # Frontier Toki Pona (ᴛᴇᴘᴀɴ)
 
+| |
+|:-|
+| [pi-Phrases](#pi-phrases) |
+| [Relative Clauses](#relative-clauses) |
+| [Passive](#passive) |
+| [Numbers](#numbers) |
+
 ## pi-Phrases
 
 Both subsequent and nested **"pi"**-phrases are possible.
@@ -30,11 +37,19 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 |:-|
 | *the person that I know* |
 
-## Passive and Causative
+## Passive
 
 ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs used as ɴᴏᴜɴs omit **ijo**. Without omitting **ijo**, ᴘᴀꜱꜱɪᴠᴇ can be expressed.
 
 | (ᴛᴇᴘᴀɴ) kala li ijo moku lon soweli. ⇒ (ᴘᴏɴᴀ) soweli li moku e kala. |
 |:-|
 | *The fish is being eaten by the cat.* |
+
+## Numbers
+
+**pi nanpa pini** (*previous*) and **pi nanpa kama** (*next*) can always be shortened to **pini** and **kama**. Since **kama** and **pini** are not ɴᴜᴍʙᴇʀs, **pi** isn't omitted.
+
+| (ᴛᴇᴘᴀɴ) tenpo suno pi nanpa pini ⇒ tenpo suno pini | (ᴛᴇᴘᴀɴ) tenpo suno pi nanpa kama ⇒ tenpo suno kama |
+|:-|:-|
+| *previous day*, *yesterday* | *next day*, *tomorrow* |
 
