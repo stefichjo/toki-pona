@@ -170,38 +170,61 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 6
 *(More Adjectives)*
 
-* jan sona - scholar
-* kute ike - to mishear
-* 👍 nasa ike - annoying
-* jan ala - nobody
+| jan sona |
+|:-|
+| *scholar* |
+
+| kute ike |
+|:-|
+| *to mishear* |
+
+| nasa ike |
+|:-|
+| *annoying* |
+
+| jan ala |
+|:-|
+| *nobody* |
 
 ### Lesson 7
 *(Questions and Answers)*
 
-* ilo toki - telephone
-* kala wawa - shark
-* ilo moku - spoon
+| ilo toki | ilo moku |
+|:-|:-|
+| *telephone* | *spoon* |
+
+| kala wawa |
+|:-|
+| *shark* |
 
 ### Lesson 8
 *(Prepositions)*
 
-* jan toki - speaker
-* jan kute - listener
+| jan toki | jan kute |
+|:-|:-|
+| *speaker* | *listener* |
 
 ### Lesson 9
 *(Proper Names)*
 
-* ma tomo - city
-* nena sewi - hill sanctuary
+| ma tomo | nena sewi |
+|:-|:-|
+| *city* | *hill sanctuary* |
 
 ### Lesson 10
 *(Greetings and Feelings)*
 
-* kama pona! - Welcome!
-* tawa pona! - Good departure!
-* pilin ike - sad
-* pona! - Thank you!
-* pilin pona - happy
+| kama pona! | tawa pona! |
+|:-|:-|
+| *Welcome!* | *Good departure!* |
+
+| pilin ike | pilin pona |
+|:-|:-|
+| *sad* | *happy* |
+
+| pona! |
+|:-|
+| *Thank you!* |
 
 ### Lesson 11
 *(pi)*
@@ -345,7 +368,7 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|:-|
 | *Nothing is like [God].* | *God is the tangential point between zero and infinity. (Alfred Jarry)* |
 
-ꜱᴏɴᴊᴀ abbreviates **sike suno** (*year*) to **sike** or **suno**.
+ꜱᴏɴᴊᴀ abbreviates **sike suno** (*year*) to **sike** (or **suno**).
 
 | pi sike suno → sike |
 |:-|
