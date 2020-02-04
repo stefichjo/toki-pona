@@ -54,7 +54,7 @@
 
 ...
 
-[ꜱᴏɴᴊᴀ](#lesson-14) introduces ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs and ꜱᴇɴᴛᴇɴᴄᴇs as ***context*** when put before *la**.
+[ꜱᴏɴᴊᴀ](#lesson-14) introduces ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs and ꜱᴇɴᴛᴇɴᴄᴇs as ***context*** when put before **la**.
 
 ...
 
