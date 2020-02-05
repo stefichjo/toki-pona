@@ -119,7 +119,7 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](n
 | **(lon) supa** | *horizontal surface* | *on* |
 | **(lon) weka** | *absence* | *away from* |
 
-### [Number](nasin-nimi.md#number)s
+### [Number](nasin-nimi.md#number-adjective)s
 
 ...
 
