@@ -123,12 +123,12 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](n
 
 ...
 
-| ɴᴜᴍʙᴇʀ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+| ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **esun** | *sevenfold amount* | *seven* |
 | **mute** | *threefold amount* | *three* |
 
-**pi nanpa pini** (*previous*) and **pi nanpa kama** (*next*) can always be shortened to **pini** and **kama**. Since **kama** and **pini** are not ɴᴜᴍʙᴇʀs, **pi** isn't omitted.
+**pi nanpa pini** (*previous*) and **pi nanpa kama** (*next*) can always be shortened to **pini** and **kama**. Since **kama** and **pini** are not ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇs, **pi** isn't omitted.
 
 | (ᴛᴇᴘᴀɴ) tenpo suno pi nanpa pini ⇒ tenpo suno pini | (ᴛᴇᴘᴀɴ) tenpo suno pi nanpa kama ⇒ tenpo suno kama |
 |:-|:-|
