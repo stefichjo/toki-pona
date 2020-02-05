@@ -48,21 +48,23 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 
 ## Word Classes
 
-### [Thing Adjective](nasin-nimi.md#thing-adjective)s
+### Adjectives
 
-#### Simple Adjectives
+Many [ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](nasin-nimi.md#simple-adjective)s can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](nasin-nimi.md#thing-adjective)s, i.e. when turned into ɴᴏᴜɴs, they imply a specific **ijo**.
 
-| ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | (ᴛᴇᴘᴀɴ) ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+| ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ → ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ |
 |:-|:-|:-|
-| **jaki** | *dirt*, *poison*, *waste* | *toxic*, *unclean* |
-| **lete** | *frost*, *ice* | *cold* |
-| **pimeja** | *shadow* | *black*, *dark*, *unlit* |
-| **suli** | *cargo* | *heavy* |
-| **wawa** | *force* | *strong* |
+| **jaki** | *toxic*, *unclean* | *toxicity*, *uncleanliness* → *dirt*, *poison*, *waste* |
+| **lete** | *cold* | *coldness* → *frost*, *ice* |
+| **pimeja** | *black*, *dark*, *unlit* | *darkness* → *shadow* |
+| **suli** | *heavy* | *weight* → *cargo* |
+| **wawa** | *strong* | *strength* → *force* |
 
-#### Nouns
+### Nouns
 
-| ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | (ᴛᴇᴘᴀɴ) ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](nasin-nimi.md#thing-adjective)s, i.e. they imply a specific **ijo** and have a less specific meaning as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
+
+| ɴᴏᴜɴ → ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **kulupu** | *community* | *reciprocal* |
 | **mani** | *large domesticated animal*; *money* | *domesticated*, *mined*; *valuable* |
@@ -70,9 +72,9 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 | **nanpa** | ... | *current* |
 | **nasin** | *way* | ... |
 
-##### Body Parts
+#### Body Parts
 
-| ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | (ᴛᴇᴘᴀɴ) ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+| ɴᴏᴜɴ → ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **kili** | *fruit* | *hanging* |
 | **monsi** | *back* | *dorsal*; *endorsing* |
@@ -81,9 +83,9 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 | **sijelo** | *body*, *physical state* | *alive* |
 | **sinpin** | *front* | *standing*; *blocking* |
 
-##### Forms and States
+#### Forms and States
 
-| ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | (ᴛᴇᴘᴀɴ) ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+| ɴᴏᴜɴ → ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **ko** | *semi-solid* | *semi-solid* |
 | **kon** | *air* | *floating*, *hovering* |
@@ -94,7 +96,7 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 | **nena** | *protuberance* | *outstanding*, *thick* |
 | **palisa** | *long hard thing* | *long and hard* |
 
-### [Life-Form Adjective](nasin-nimi.md#life-form-adjective)s
+#### Life-Forms
 
 | ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
@@ -105,9 +107,9 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 | **soweli** | *land mammal* | *warm-blooded* |
 | **waso** | *bird* | *flying*, *winging* |
 
-### [Spatial Adjective](nasin-nimi.md#spatial-adjective.md)s
+---
 
-#### Simple Adjectives
+#### Locations
 
 | ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
