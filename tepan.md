@@ -5,7 +5,8 @@
 | [pi-Phrases](#pi-phrases) |
 | [Relative Clauses](#relative-clauses) |
 | [Passive](#passive) |
-| [Adjectives to Thing Adjectives|(#adjectives-to-thing-adjectives)
+| [Thing Adjective](#thing-adjectives)s |
+| [Life-Form Adjective](#life-form-adjective)s |
 
 ## pi-Phrases
 
@@ -45,7 +46,85 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 |:-|
 | *The fish is being eaten by the cat.* |
 
-## Numbers
+## Word Classes
+
+### [Thing Adjective](nasin-nimi.md#thing-adjective)s
+
+#### Simple Adjectives
+
+| ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | (ᴛᴇᴘᴀɴ) ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **jaki** | *dirt*, *poison*, *waste* | *toxic*, *unclean* |
+| **lete** | *frost*, *ice* | *cold* |
+| **pimeja** | *shadow* | *black*, *dark*, *unlit* |
+| **suli** | *cargo* | *heavy* |
+| **wawa** | *force* | *strong* |
+
+#### Nouns
+
+| ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | (ᴛᴇᴘᴀɴ) ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **kulupu** | *community* | *reciprocal* |
+| **mani** | *large domesticated animal*; *money* | *domesticated*, *mined*; *valuable* |
+| **mun** | *night sky object* | *sky-walking at night* |
+| **nanpa** | ... | *current* |
+| **nasin** | *way* | ... |
+
+##### Body Parts
+
+| ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | (ᴛᴇᴘᴀɴ) ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **kili** | *fruit* | *hanging* |
+| **monsi** | *back* | *dorsal*; *endorsing* |
+| **pan** | ... | *falling* |
+| **poka** | *side* | *lateral* |
+| **sijelo** | *body*, *physical state* | *alive* |
+| **sinpin** | *front* | *standing*; *blocking* |
+
+##### Forms and States
+
+| ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | (ᴛᴇᴘᴀɴ) ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **ko** | *semi-solid* | *semi-solid* |
+| **kon** | *air* | *floating*, *hovering* |
+| **linja** | *long and flexible thing* | *long and flexible* |
+| **lipu** | *flat object* | *flat*, *thin* |
+| **lupa** | *hole* | *hollow* |
+| **ma** | *land* | *vast* |
+| **nena** | *protuberance* | *outstanding*, *thick* |
+| **palisa** | *long hard thing* | *long and hard* |
+
+### [Life-Form Adjective](nasin-nimi.md#life-form-adjective)s
+
+| ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **akesi** | *amphibian*, *reptile* | *cold-blooded* |
+| **kala** | *fish* | *diving*, *swimming* |
+| **kasi** | *plant* | *vegetating*; *growing* |
+| **pipi** | *insect* | *crawling*, *creeping* |
+| **soweli** | *land mammal* | *warm-blooded* |
+| **waso** | *bird* | *flying*, *winging* |
+
+### [Spatial Adjective](nasin-nimi.md#spatial-adjective.md)s
+
+#### Simple Adjectives
+
+| ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **(lon) awen** | *duration* | *during* ... |
+| **(lon) open** | *duration* | *before*, *in the beginning* ... |
+| **(lon) pini** | *ended* | *after*, *in the end* |
+| **(lon) supa** | *horizontal surface* | *on* |
+| **(lon) weka** | *absence* | *away from* |
+
+### [Number](nasin-nimi.md#number)s
+
+...
+
+| ɴᴜᴍʙᴇʀ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **esun** | *sevenfold amount* | *seven* |
+| **mute** | *threefold amount* | *three* |
 
 **pi nanpa pini** (*previous*) and **pi nanpa kama** (*next*) can always be shortened to **pini** and **kama**. Since **kama** and **pini** are not ɴᴜᴍʙᴇʀs, **pi** isn't omitted.
 
@@ -53,9 +132,45 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 |:-|:-|
 | *previous day*, *yesterday* | *next day*, *tomorrow* |
 
-## [Adjective](nasin-nimi.md#adjective)s to [Thing Adjective](nasin-nimi.md#thing-adjective)s
+### [Person Adjective](nasin-nimi.md#person-adjective)s
 
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ pimeja | (ᴛᴇᴘᴀɴ) ɴᴏᴜɴ pimeja |
-|:-|:-|
-| *black*, *dark*, *unlit* | *shadow* |
+| ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **mama** | *original* | *anestor*, *parent* |
+| **meli** | *feminine* | *feminine person* |
+| **mije** | *masculine* | *masculine person* |
+
+### [Thing Verb](nasin-nimi.md#thing-verb)s
+
+| ᴛʜɪɴɢ ᴠᴇʀʙ | ɴᴏᴜɴ | ᴠᴇʀʙ |
+|:-|:-|:-|
+| **nimi** | *name* | *to name* |
+| **sitelen** | *drawing* | *to draw* |
+
+### [Tool Verb](nasin-nimi.md#tool-verb)s
+
+| ᴛᴏᴏʟ ᴠᴇʀʙ | ɴᴏᴜɴ | ᴠᴇʀʙ |
+|:-|:-|:-|
+| **luka** | *tactile organ* | *to touch*, *manipulate* |
+| **noka** | *organ of locomotion* | *to step on*, *kick* |
+| **palisa** | (*finger*) | *to point at* |
+| **poki** | *container* | *to collect* |
+| **selo** | *outer form* | *to form* |
+| **tomo** | *indoor space* | *to protect* |
+
+### [Pre-Verb](nasin-nimi.md#pre-verb)s
+
+| ᴘʀᴇ-ᴠᴇʀʙ  | ᴠᴇʀʙ | ᴘʀᴇ-ᴠᴇʀʙ |
+|:-|:-|:-|
+| **open** | *to turn on* | *to be ready to* |
+| **pilin** | *to feel* | *to feel like* |
+| **pini** | *to end* | *to stop -ing* |
+
+### [Preposition](nasin-nimi.md#preposition)s
+
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ |
+|:-|:-|:-|
+| **ante** | *different* | *instead of* |
+| **sin** | *additional* | *in addition to* |
+| **taso** | *only* | *without* |
 

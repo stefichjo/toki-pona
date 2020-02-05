@@ -58,6 +58,10 @@
 
 ...
 
+ꜱᴏɴᴊᴀ introduces ᴘʀᴏɴᴏᴜɴs as ɴᴏᴜɴs.
+
+...
+
 ## Backward Compatibility
 
 ### Noun to Verb
