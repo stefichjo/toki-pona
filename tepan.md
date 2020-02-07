@@ -2,13 +2,14 @@
 
 | |
 |:-|
-| [pi-Phrases](#pi-phrases) |
-| [Relative Clauses](#relative-clauses) |
-| [Passive](#passive) |
-| [Thing Adjective](#thing-adjectives)s |
-| [Life-Form Adjective](#life-form-adjective)s |
+| [Grammatical Extensions](#grammar-extension)s |
+| [Semantic Extension](#semantic-extension)s |
+| [Word Class Extension](#word-class-extension)s |
+| [De-Conflation](#de-conflation)s |
 
-## pi-Phrases
+## Grammar Extensions
+
+### pi-Phrases
 
 Both subsequent and nested **"pi"**-phrases are possible.
 
@@ -20,7 +21,7 @@ Both subsequent and nested **"pi"**-phrases are possible.
 |:-|
 | *a friend's Toki Pona name* |
 
-## Relative Clauses
+### Relative Clauses
 
 A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question with **seme**, yielding a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ.
 
@@ -38,7 +39,7 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 |:-|
 | *the person that I know* |
 
-## Passive
+### Passive
 
 ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs used as ɴᴏᴜɴs omit **ijo**. Without omitting **ijo**, ᴘᴀꜱꜱɪᴠᴇ can be expressed.
 
@@ -46,7 +47,11 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 |:-|
 | *The fish is being eaten by the cat.* |
 
-## Word Classes
+## Semantic Extensions
+
+...
+
+## Word Class Extensions
 
 ### Adjectives
 
@@ -119,7 +124,7 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](n
 | **(lon) supa** | *horizontal surface* | *on* |
 | **(lon) weka** | *absence* | *away from* |
 
-### [Number](nasin-nimi.md#number-adjective)s
+### [Number Adjective](nasin-nimi.md#number-adjective)s
 
 ...
 
@@ -175,4 +180,16 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](n
 | **ante** | *different* | *instead of* |
 | **sin** | *additional* | *in addition to* |
 | **taso** | *only* | *without* |
+
+## De-Conflations
+
+| | | | |
+|:-|:-|:-|:-|
+| **ante** | *altered*, *changed*, *different* | **esun** | *other* |
+| **noka** | *lowest part* | **anpa** | *area below or under* |
+| **open** | *to turn on* | **kama** | *to begin*, *start* |
+| **sewi** | *area above* | **lawa** | *highest part* |
+| **tawa** | *moving* | **tan** | *departure* |
+
+
 
