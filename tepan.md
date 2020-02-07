@@ -2,10 +2,10 @@
 
 | |
 |:-|
-| [Grammatical Extensions](#grammar-extension)s |
-| [Semantic Extension](#semantic-extension)s |
-| [Word Class Extension](#word-class-extension)s |
-| [De-Conflation](#de-conflation)s |
+| [Grammatical Extensions](#grammar-extensions) |
+| [Semantic Extensions](#semantic-extensions) |
+| [Word Class Extensions](#word-class-extensions) |
+| [De-Conflations](#de-conflations) |
 
 ## Grammar Extensions
 
