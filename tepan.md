@@ -49,6 +49,10 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 
 ## Semantic Extensions
 
+| | | |
+|:-|:-|:-|
+| **ilo** | *device*, *implement*, *machine*, *tool* | *body part* |
+
 ## Word Class Extensions
 
 ### Particles
