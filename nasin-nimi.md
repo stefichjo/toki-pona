@@ -462,7 +462,7 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 |:-|
 | *Is she a parent?* |
 
-### PRE-PHRASE PARTICLE
+### SENTENCE MARKER
 *([nimi lili luka](#transitive-particle) "la")*
 
 By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", one can start a ꜱᴇɴᴛᴇɴᴄᴇ with a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition), i.e. a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ.
@@ -471,13 +471,13 @@ By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", one can start a ꜱᴇɴᴛᴇɴᴄ�
 |:-|
 | *Why are you calling me good?* |
 
-At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) "lon" is omitted.
+Before **la**, the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) **lon** is omitted.
 
 | ona li kama lon tenpo pimeja ni. → (ᴜɴ-ᴘᴜ) lon tenpo pimeja ni la ona li kama. ⇒ (ᴘᴜ) tenpo pimeja ni la ona li kama. |
 |:-|
 | *She is coming tonight.* → *Tonight, she is coming.* |
 
-At the beginning of a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ, "ni" in front of a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause) is omitted.
+Before **la**, **ni** in front of a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause) is omitted.
 
 | (ᴜɴ-ᴘᴜ) lon ni: mi pona tawa jan, la jan li pona tawa mi. ⇒ (ᴘᴜ) mi pona tawa jan, la jan li pona tawa mi. |
 |:-|
