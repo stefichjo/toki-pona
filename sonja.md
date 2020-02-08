@@ -366,12 +366,6 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *I start with the Divine.* |
 
-[ꜱᴏɴᴊᴀ](lipu-pi-toki-pona.md#lesson-12) introduces and handles **ala** as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ that doesn't behave like **ni**, i.e. when used as a ɴᴏᴜɴ, **ala** doesn't mean *nothing*, but *nothingness*.
-
-| ijo ala li sama ona. | sewi li lon ala, li lon ale. |
-|:-|:-|
-| *Nothing is like [God].* | *God is the tangential point between zero and infinity. (Alfred Jarry)* |
-
 ꜱᴏɴᴊᴀ abbreviates **sike suno** (*year*) to **sike** (or **suno**).
 
 | pi sike suno → sike |

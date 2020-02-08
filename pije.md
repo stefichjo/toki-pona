@@ -195,3 +195,13 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 
 ᴘɪᴊᴇ never uses a *prepositional phrase* before **la**. ꜱᴏɴᴊᴀ does (omitting **lon**).
 
+---
+
+## ala
+
+ᴘɪᴊᴇ treats **ala** like a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ.
+
+| | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
+|:-|:-|:-|
+| *nothing* | **ala** | **ijo ala** |
+
