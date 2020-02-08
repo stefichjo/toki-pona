@@ -199,5 +199,3 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](n
 | **sewi** | *area above* | **lawa** | *highest part* |
 | **tawa** | *moving* | **tan** | *departure* |
 
-
-
