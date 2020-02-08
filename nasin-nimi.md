@@ -467,7 +467,7 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 
 By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", one can start a ꜱᴇɴᴛᴇɴᴄᴇ with a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition), i.e. a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ.
 
-| sina pana e nimi "pona" tawa mi tan seme? → tan seme la sina pana e nimi "pona" tawa mi? |
+| sina pana e nimi pona tawa mi tan seme? → tan seme la sina pana e nimi pona tawa mi? |
 |:-|
 | *Why are you calling me good?* |
 
