@@ -171,7 +171,7 @@ There are no ᴀʀᴛɪᴄʟᴇs in **Toki Pona**.
 ##### SUBORDINATE CLAUSE
 *(mute [nimi](#toki-pona-word-classes-and-parts-of-speech) poka)*
 
-A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ describing or modifying a word (often the [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) "ni") in another ꜱᴇɴᴛᴇɴᴄᴇ.
+A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ describing or modifying a word (usually the [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) "ni") in another ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | mi sona e ni: mi anpa. |
 |:-|

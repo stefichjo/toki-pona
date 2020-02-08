@@ -378,3 +378,6 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *of a year* |
 
+ꜱᴏɴᴊᴀ introduces ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as ᴘᴀʀᴛɪᴄʟᴇs. Apparently, ꜱᴏɴᴊᴀ conflates ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ with ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇs.
+
+...

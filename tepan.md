@@ -49,9 +49,17 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 
 ## Semantic Extensions
 
-...
-
 ## Word Class Extensions
+
+### Particles
+
+[ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](nasin-nimi.md#interjection)s can be used as ᴀᴅᴊᴇᴄᴛɪᴠᴇs and often as ꜱᴇɴᴛᴇɴᴄᴇs.
+
+| ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ꜱᴇɴᴛᴇɴᴄᴇ |
+|:-|:-|:-|
+| **a** | *indeed* | *yes* |
+| **ala** | *not* | *no* |
+| **mu** | *-ish* | *blah* |
 
 ### Adjectives
 
@@ -143,7 +151,7 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](n
 
 | ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
-| **mama** | *original* | *anestor*, *parent* |
+| **mama** | *original* | *ancestor*, *parent* |
 | **meli** | *feminine* | *feminine person* |
 | **mije** | *masculine* | *masculine person* |
 
