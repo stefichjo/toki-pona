@@ -71,11 +71,11 @@ Many [ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](nasin-nimi.md#simple-adjectiv
 
 | ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ → ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ |
 |:-|:-|:-|
-| **jaki** | *toxic*, *unclean* | *toxicity*, *uncleanliness* → *dirt*, *poison*, *waste* |
-| **lete** | *cold* | *coldness* → *frost*, *ice* |
-| **pimeja** | *black*, *dark*, *unlit* | *darkness* → *shadow* |
-| **suli** | *heavy* | *weight* → *cargo* |
-| **wawa** | *strong* | *strength* → *force* |
+| **jaki** | *toxic*, *unclean* | *dirt*, *poison*, *waste* |
+| **lete** | *cold* | *frost*, *ice* |
+| **pimeja** | *black*, *dark*, *unlit* | *shadow* |
+| **suli** | *heavy* | *cargo* |
+| **wawa** | *strong* | *force* |
 
 ### Nouns
 
