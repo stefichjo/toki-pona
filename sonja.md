@@ -372,6 +372,11 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *of a year* |
 
-ꜱᴏɴᴊᴀ introduces ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as ᴘᴀʀᴛɪᴄʟᴇs. Apparently, ꜱᴏɴᴊᴀ conflates ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ with ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇs.
+ꜱᴏɴᴊᴀ introduces ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as ᴘᴀʀᴛɪᴄʟᴇs. Apparently, she conflates ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs with ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇs.
 
 ...
+
+ꜱᴏɴᴊᴀ introduces ᴘʜʀᴀꜱᴇ ᴍᴀʀᴄᴄᴄᴇʀs as ᴘᴀʀᴛɪᴄʟᴇs. Apparently, she conflates ᴘʜʀᴀꜱᴇ ᴍᴀʀᴄᴄᴄᴇʀs (or ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇs) and ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇs to ᴘᴀʀᴛɪᴄʟᴇs.
+
+...
+

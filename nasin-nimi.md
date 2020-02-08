@@ -29,7 +29,7 @@ The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts
   * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ**](#simple-particle): [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection)
-  * [**ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇ**](#transitive-particle): [**ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ**](#phrase-particle), [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction), [**ᴘʀᴇ-ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ**](#pre-phrase-particle)
+  * [**ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇ**](#transitive-particle): [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴄᴄᴄᴇʀ**](#phrase-marker), [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction), [**ꜱᴇɴᴛᴇɴᴄᴇ ᴍᴀʀᴄᴄᴄᴇʀ**](#sentence-marker)
 
 They determine how (and if) a word can be used as one or more of these ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ:
 
@@ -373,9 +373,9 @@ As the opposite of "ala", the affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" ca
 
 | |
 |:-|
-| [ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#phrase-particle) |
+| [ᴘʜʀᴀꜱᴇ ᴍᴀʀᴄᴄᴄᴇʀ](#phrase-marker) |
 | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction) |
-| [ᴘʀᴇ-ᴘʜʀᴀꜱᴇ ᴘᴀʀᴛɪᴄʟᴇ](#pre-phrase-particle) |
+| [ꜱᴇɴᴛᴇɴᴄᴇ ᴍᴀʀᴄᴄᴄᴇʀ](#sentence-marker) |
 
 ### PHRASE PARTICLE
 *([nimi lili luka](#transitive-particle) pi wan pi mute nimi)*
