@@ -9,7 +9,21 @@
 
 ## Grammar Extensions
 
-### pi-Phrases
+### en
+
+Assuming that ꜱᴏɴᴊᴀ conflates ꜱᴜʙᴊᴇᴄᴛs with ɴᴏᴍɪɴᴀᴛɪᴠᴇ ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs, **en** can be used in headlines/titles.
+
+| utala en pona |
+|:-|
+| *War and Peace* |
+
+Assuming that ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs after ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs would be in the ɴᴏᴍɪɴᴀᴛɪᴠᴇ case, **en** can be used after ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.
+
+| ona li kama lon tenpo suno pini en tenpo suno kama. ⇒ tenpo suno pini en tenpo suno kama la ona li kama. |
+|:-|
+| *She came yesterday and will come tomorrow.* |
+
+### pi
 
 Both subsequent and nested **"pi"**-phrases are possible.
 

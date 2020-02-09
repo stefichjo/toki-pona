@@ -376,7 +376,7 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ...
 
-ꜱᴏɴᴊᴀ introduces ᴘʜʀᴀꜱᴇ ᴍᴀʀᴄᴄᴄᴇʀs as ᴘᴀʀᴛɪᴄʟᴇs. Apparently, she conflates ᴘʜʀᴀꜱᴇ ᴍᴀʀᴄᴄᴄᴇʀs (or ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇs) and ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇs to ᴘᴀʀᴛɪᴄʟᴇs.
+ꜱᴏɴᴊᴀ introduces ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀs as ᴘᴀʀᴛɪᴄʟᴇs. Apparently, she conflates ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀs (or ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇs) and ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇs to ᴘᴀʀᴛɪᴄʟᴇs.
 
 ...
 
