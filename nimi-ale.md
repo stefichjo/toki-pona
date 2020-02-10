@@ -31,9 +31,9 @@ This document discourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations, e.g. "
 
 ---
 
-| ꜱɪᴛᴇʟᴇɴ | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/a.png" height="42" title="ha"> | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-nimi.md#interjection) mu — **a**, ala<br>ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, [**(emotion word)**](sonja.md#lesson-10) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *indeed*, [**so**](sonja.md#lesson-10) → <br>ꜱᴇɴᴛᴇɴᴄᴇ [**ha**](sonja.md#lesson-10), [**wow**](sonja.md#lesson-10), [**yay**](sonja.md#lesson-13), *yes* |
+| <img src="sitelen/pona/a.png" height="42" title="ha"> | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-nimi.md#interjection): mu — **a**, ala<br>ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, [**(emotion word)**](sonja.md#lesson-10) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *indeed*, [**so**](sonja.md#lesson-10) → <br>ꜱᴇɴᴛᴇɴᴄᴇ [**ha**](sonja.md#lesson-10), [**wow**](sonja.md#lesson-10), [**yay**](sonja.md#lesson-13), *yes* |
 
 
 | ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
