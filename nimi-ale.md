@@ -33,12 +33,12 @@ This document discourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations, e.g. "
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/a.png" height="42" title="ha"> | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-nimi.md#interjection): mu — **a**, ala<br>ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, [**(emotion word)**](sonja.md#lesson-10) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *indeed*, [**so**](sonja.md#lesson-10) → <br>ꜱᴇɴᴛᴇɴᴄᴇ [**ha**](sonja.md#lesson-10), [**wow**](sonja.md#lesson-10), [**yay**](sonja.md#lesson-13), *yes* |
+| <img src="sitelen/pona/a.png" height="42" title="ha"> | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-nimi.md#interjection) mu — **a**, ala<br>ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, [**(emotion word)**](sonja.md#lesson-10) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *indeed*, [**so**](sonja.md#lesson-10) → <br>ꜱᴇɴᴛᴇɴᴄᴇ [**ha**](sonja.md#lesson-10), [**wow**](sonja.md#lesson-10), [**yay**](sonja.md#lesson-13), *yes* |
+| <img src="sitelen/pona/akesi.png" height="42" title="hagedis"> | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#life-form-adjective) **akesi** — soweli<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*; *not using Toki Pona in a Toki Pona context* → <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; *monster* (⇐ (*monsuta*)): (*akesi e ijo lon insa lawa*) *to fear* |
 
 
 | ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
 |:-|:-|:-|
-| <img src="sitelen/pona/akesi.png" height="42" title="hagedis"> | **akesi** — soweli | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#life-form-adjective)<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*; *not using Toki Pona in a Toki Pona context* → <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; *monster* (⇐ (*monsuta*)): (*akesi e ijo lon insa lawa*) *to fear* |
 | <img src="sitelen/pona/ala.png" height="42" title="ara"> | mu — a, **ala** | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-nimi.md#interjection)<br>ᴘᴀʀᴛɪᴄʟᴇ *(negation)* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **no**, **not** <br>ɴᴏᴜɴ [**nothingness**](sonja.md#lesson-6) → <br>ꜱᴇɴᴛᴇɴᴄᴇ *no* |
 | | **ala**, ale, esun, luka, mute, tu, wan | [**ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#number-adjective)<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**0**](sonja.md#lesson-12), **zero** → <br>ɴᴏᴜɴ [**zero**](sonja.md#famous-quotations) |
 | <img src="sitelen/pona/alasa.png" height="42" title="a-la-ŝas"> | **alasa**, pali, olin, unpa | [**ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ**](nasin-nimi.md#simple-verb)<br>ᴠᴇʀʙ **to hunt**, **forage** |
