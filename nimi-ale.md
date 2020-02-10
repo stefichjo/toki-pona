@@ -40,6 +40,7 @@ This document discourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations, e.g. "
 | <img src="sitelen/pona/alasa.png" height="42" title="a-la-ŝas"> | **alasa**, pali, olin, unpa | [**ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ**](nasin-nimi.md#simple-verb)<br><br>ᴠᴇʀʙ **to hunt**, **forage** |
 
 | ꜱɪᴛᴇʟᴇɴ | ... | ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
+|:-|:-|:-|:-|
 | <img src="sitelen/pona/ale.png" height="42" title="ale">                                                               | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nasin-nimi.md#correlative) | **ale**, ni, seme, wan                                                       | ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*~~mute~~ ale*) **all**, **every**; (*~~wan~~ ale*) **all** → <br>ɴᴏᴜɴ **everything** |
 | | [**ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#number-adjective) | ala, **ale**, esun, luka, mute, tu, wan                                                     | ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](sonja.md#lesson-12), **countless**; [**100**](sonja.md#lesson-12) → <br>ɴᴏᴜɴ [**infinity**](sonja.md#famous-quotations) |
 | | [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#thing-adjective) | lili — **ale**, mute, suli, wawa                                         | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **bountiful**, **plentiful** <br>ɴᴏᴜɴ **abundance** → <br>ɴᴏᴜɴ **life**, **universe** |
