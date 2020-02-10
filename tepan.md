@@ -186,6 +186,7 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](n
 
 | ᴛᴏᴏʟ ᴠᴇʀʙ | ɴᴏᴜɴ | ᴠᴇʀʙ |
 |:-|:-|:-|
+| **len** | *layer of privacy* | *to hide* |
 | **luka** | *tactile organ* | *to touch*, *manipulate* |
 | **noka** | *organ of locomotion* | *to step on*, *kick* |
 | **palisa** | (*finger*) | *to point at* |
