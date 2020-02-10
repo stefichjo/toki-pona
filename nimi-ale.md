@@ -74,7 +74,7 @@ This document discourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations, e.g. "
 | <img src="sitelen/pona/lape.png" height="50" title="slape"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#simple-adjective) **lape**, moli, musi <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **resting**, **sleeping** <br>ɴᴏᴜɴ [**sleep**](sonja.md#toki-pona-proverbs) |
 | <img src="sitelen/pona/laso.png" height="50" title="glas"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#simple-adjective) jelo, **laso**, loje <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **blue**, (*laso ~~mu~~*) *bluish*, **green**, (*laso ~~mu~~*) *greenish*; *immature* |
 | <img src="sitelen/pona/lawa.png" height="50" title="glava"> | [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#spatial-adjective) anpa — sewi, noka — **lawa** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *sewi*); *main* → <br>ɴᴏᴜɴ (⇒ *sewi*) |
-| | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nasin-nimi.md#tool-verb) | kute, **lawa**, len, luka, noka, palisa, poki, selo, tomo, uta                         | ᴠᴇʀʙ **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule**; *arange*, *organize* <br>ɴᴏᴜɴ [**guidance**](sonja.md#toki-pona-proverbs); (⇒ *mute*) → <br>ɴᴏᴜɴ **head**, **mind** |
+| | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nasin-nimi.md#tool-verb) kute, **lawa**, len, luka, noka, palisa, poki, selo, tomo, uta <br>ᴠᴇʀʙ **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule**; *arange*, *organize* <br>ɴᴏᴜɴ [**guidance**](sonja.md#toki-pona-proverbs); (⇒ *mute*) → <br>ɴᴏᴜɴ **head**, **mind** |
 
 | ꜱɪᴛᴇʟᴇɴ | ... | ... | ... |
 |:-|:-|:-|:-|
