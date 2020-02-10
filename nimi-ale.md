@@ -31,13 +31,15 @@ This document discourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations, e.g. "
 
 ---
 
-| ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ᴄʟᴀꜱꜱ | ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
-|:-|:-|:-|:-|
-| <img src="sitelen/pona/a.png" height="42" title="ha">                                                                   | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-nimi.md#interjection) | mu — **a**, ala                                                                 | ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, [**(emotion word)**](sonja.md#lesson-10) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *indeed*, [**so**](sonja.md#lesson-10) → <br>ꜱᴇɴᴛᴇɴᴄᴇ [**ha**](sonja.md#lesson-10), [**wow**](sonja.md#lesson-10), [**yay**](sonja.md#lesson-13), *yes* |
-| <img src="sitelen/pona/akesi.png" height="42" title="hagedis">                                                         | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#life-form-adjective) | **akesi** — soweli                                                 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*; *not using Toki Pona in a Toki Pona context* → <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; *monster* (⇐ (*monsuta*)): (*akesi e ijo lon insa lawa*) *to fear* |
-| <img src="sitelen/pona/ala.png" height="42" title="ara">                                                               | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-nimi.md#interjection) | mu — a, **ala**                                                                 | ᴘᴀʀᴛɪᴄʟᴇ *(negation)* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **no**, **not** <br>ɴᴏᴜɴ [**nothingness**](sonja.md#lesson-6) → <br>ꜱᴇɴᴛᴇɴᴄᴇ *no* |
-| | [**ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#number-adjective) | **ala**, ale, esun, luka, mute, tu, wan                                                     | ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**0**](sonja.md#lesson-12), **zero** → <br>ɴᴏᴜɴ [**zero**](sonja.md#famous-quotations) |
-| <img src="sitelen/pona/alasa.png" height="42" title="a-la-ŝas">                                                         | [**ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ**](nasin-nimi.md#simple-verb) | **alasa**, pali, olin, unpa                                                       | ᴠᴇʀʙ **to hunt**, **forage** |
+| ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
+|:-|:-|:-|
+| <img src="sitelen/pona/a.png" height="42" title="ha"> | mu — **a**, ala | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-nimi.md#interjection)<br><br>ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, [**(emotion word)**](sonja.md#lesson-10) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *indeed*, [**so**](sonja.md#lesson-10) → <br>ꜱᴇɴᴛᴇɴᴄᴇ [**ha**](sonja.md#lesson-10), [**wow**](sonja.md#lesson-10), [**yay**](sonja.md#lesson-13), *yes* |
+| <img src="sitelen/pona/akesi.png" height="42" title="hagedis"> | **akesi** — soweli | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#life-form-adjective)<br><br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*; *not using Toki Pona in a Toki Pona context* → <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; *monster* (⇐ (*monsuta*)): (*akesi e ijo lon insa lawa*) *to fear* |
+| <img src="sitelen/pona/ala.png" height="42" title="ara"> | mu — a, **ala** | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-nimi.md#interjection)<br><br>ᴘᴀʀᴛɪᴄʟᴇ *(negation)* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **no**, **not** <br>ɴᴏᴜɴ [**nothingness**](sonja.md#lesson-6) → <br>ꜱᴇɴᴛᴇɴᴄᴇ *no* |
+| | **ala**, ale, esun, luka, mute, tu, wan | [**ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#number-adjective)<br><br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**0**](sonja.md#lesson-12), **zero** → <br>ɴᴏᴜɴ [**zero**](sonja.md#famous-quotations) |
+| <img src="sitelen/pona/alasa.png" height="42" title="a-la-ŝas"> | **alasa**, pali, olin, unpa | [**ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ**](nasin-nimi.md#simple-verb)<br><br>ᴠᴇʀʙ **to hunt**, **forage** |
+
+| ꜱɪᴛᴇʟᴇɴ | ... | ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
 | <img src="sitelen/pona/ale.png" height="42" title="ale">                                                               | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nasin-nimi.md#correlative) | **ale**, ni, seme, wan                                                       | ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*~~mute~~ ale*) **all**, **every**; (*~~wan~~ ale*) **all** → <br>ɴᴏᴜɴ **everything** |
 | | [**ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#number-adjective) | ala, **ale**, esun, luka, mute, tu, wan                                                     | ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](sonja.md#lesson-12), **countless**; [**100**](sonja.md#lesson-12) → <br>ɴᴏᴜɴ [**infinity**](sonja.md#famous-quotations) |
 | | [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#thing-adjective) | lili — **ale**, mute, suli, wawa                                         | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **bountiful**, **plentiful** <br>ɴᴏᴜɴ **abundance** → <br>ɴᴏᴜɴ **life**, **universe** |
