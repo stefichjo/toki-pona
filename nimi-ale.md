@@ -75,7 +75,7 @@ This document discourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations, e.g. "
 | <img src="sitelen/pona/laso.png" height="50" title="glas"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#simple-adjective) jelo, **laso**, loje <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **blue**, (*laso ~~mu~~*) *bluish*, **green**, (*laso ~~mu~~*) *greenish*; *immature* |
 | <img src="sitelen/pona/lawa.png" height="50" title="glava"> | [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#spatial-adjective) anpa — sewi, noka — **lawa** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *sewi*); *main* → <br>ɴᴏᴜɴ (⇒ *sewi*) |
 | | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nasin-nimi.md#tool-verb) kute, **lawa**, len, luka, noka, palisa, poki, selo, tomo, uta <br>ᴠᴇʀʙ **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule**; *arange*, *organize* <br>ɴᴏᴜɴ [**guidance**](sonja.md#toki-pona-proverbs); (⇒ *mute*) → <br>ɴᴏᴜɴ **head**, **mind** |
-| <img src="sitelen/pona/len.png" height="50" title="lenĵ"> | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nasin-nimi.md#tool-verb) kute, lawa, **len**, luka, noka, palisa, poki, selo, tomo, uta <br>ᴠᴇʀʙ ***to cover***; (*len ~~ale~~*) *hide* → <br>ɴᴏᴜɴ **cloth**, **clothing**, **fabric**, **textile**, [**vest**](sonja.md#lesson-17); **cover**, **layer of privacy** |
+| <img src="sitelen/pona/len.png" height="50" title="lenĵ"> | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nasin-nimi.md#tool-verb) kute, lawa, **len**, luka, noka, palisa, poki, selo, tomo, uta <br>ᴠᴇʀʙ *to hide* → <br>ɴᴏᴜɴ **cloth**, **clothing**, **fabric**, **textile**, [**vest**](sonja.md#lesson-17); **cover**, **layer of privacy** |
 
 | ... | ... | ... | ... |
 |:-|:-|:-|:-|
