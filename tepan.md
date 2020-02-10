@@ -66,6 +66,7 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 | | | |
 |:-|:-|:-|
 | **ilo** | *device*, *implement*, *machine*, *tool* | *body part* |
+| **kulupu** | *community*, *company*, *group*, *nation*, *society*, *tribe* | *relationship* |
 
 ## Word Class Extensions
 
@@ -212,6 +213,8 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](n
 | | | | |
 |:-|:-|:-|:-|
 | **ante** | *altered*, *changed*, *different* | **esun** | *other* |
+| **kulupu** | *community*, *company*, *group*, *nation*, *society*, *tribe* | **mute** | *multitude*, *set* |
+| | | **lawa** | *arrangement*, *organization* |
 | **noka** | *lowest part* | **anpa** | *area below or under* |
 | **open** | *to turn on* | **kama** | *to begin*, *start* |
 | **sewi** | *area above* | **lawa** | *highest part* |
