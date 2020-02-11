@@ -68,6 +68,7 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 | **ilo** | *device*, *implement*, *machine*, *tool* | *body part* |
 | **kulupu** | *community*, *company*, *group*, *nation*, *society*, *tribe* | *relationship* |
 | **lawa** | *to control*, *direct*, *guide*, *lead*, *own*, *plan*, *regulate*, *rule* | *to arange*, *organize* |
+| **lukin** | *to look for*, *search*, *seek* | *to care for* |
 
 ## Word Class Extensions
 
