@@ -102,7 +102,7 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](n
 |:-|:-|:-|
 | **kulupu** | *community* | *reciprocal* |
 | **mani** | *large domesticated animal*; *money* | *domesticated*, *mined*; *valuable* |
-| **mun** | *night sky object* | *sky-walking at night* |
+| **mun** | *night sky object* | *sky-walking* |
 | **nanpa** | ... | *current* |
 | **nasin** | *way* | ... |
 
