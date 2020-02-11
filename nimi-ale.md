@@ -87,7 +87,7 @@ This document discourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations, e.g. "
 | | [**ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#number-adjective) ala, ale, esun, **luka**, mute, tu, wan <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**5**](sonja.md#lesson-12), **five** → <br>ɴᴏᴜɴ *fivefold amount* |
 | <img src="sitelen/pona/lukin.png" height="50" title="luk-im"> | [**ᴛᴏᴏʟ ᴠᴇʀʙ**](nasin-nimi.md#tool-verb) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) **lukin**, pilin <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** → <br>ɴᴏᴜɴ **eye** (⇐ (*oko*)) + <br>ᴘʀᴇ-ᴠᴇʀʙ [**to seek to**](sonja.md#lesson-13), **try to** <br>ᴠᴇʀʙ **to look for**, **seek**; *care for* |
 | <img src="sitelen/pona/lupa.png" height="50" title="rupa"> | [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#thing-adjective) **lupa**, nasin <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* → <br>ɴᴏᴜɴ (*lupa ~~tomo~~*) **door**, **hole**, **orifice**, (*lupa ~~suno~~*) **window**; [**womb**](sonja.md#toki-pona-proverbs) |
-| <img src="sitelen/pona/ma.png" height="50" title="maa"> | [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#thing-adjective) **ma**, mun <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vast* → <br>ɴᴏᴜɴ **earth**, **land**; **outdoors**, **world**; **country**, **territory**; **soil**; (*~~sike~~ ma*) *terrestrial planet*; [**planet**](sonja.md#toki-pona-proverbs) |
+| <img src="sitelen/pona/ma.png" height="50" title="maa"> | [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#thing-adjective) **ma**, mun <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vast* → <br>ɴᴏᴜɴ **earth**, **land**; **outdoors**, **world**; **country**, **territory**; **soil**; (*~~sike~~ ma*) [**planet**](sonja.md#toki-pona-proverbs) |
 
 | ꜱɪᴛᴇʟᴇɴ | ... | ... | ... |
 |:-|:-|:-|:-|
