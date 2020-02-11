@@ -69,6 +69,7 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 | **kulupu** | *community*, *company*, *group*, *nation*, *society*, *tribe* | *relationship* |
 | **lawa** | *to control*, *direct*, *guide*, *lead*, *own*, *plan*, *regulate*, *rule* | *to arange*, *organize* |
 | **lukin** | *to look for*, *search*, *seek* | *to care for* |
+| **monsi** | *back* | *backbone* |
 
 ## Word Class Extensions
 
