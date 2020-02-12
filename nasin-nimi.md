@@ -291,8 +291,6 @@ A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can
 
 | |
 |:-|
-| [ɴᴀᴍᴇ](#name) |
-| [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) |
 | [ꜱᴏᴜɴᴅ](#sound) |
 | [ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ](#phrase-marker) |
 | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction) |
