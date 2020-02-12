@@ -24,7 +24,7 @@ The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
   * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**jan-ɴᴏᴜɴ**](#jan-noun), [**ilo-ɴᴏᴜɴ**](#ilo-noun)
-  * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective): [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#thing-adjective) ([**ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#number-adjective), [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#spatial-adjective), [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#life-form-adjective)), [**ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#time-adjective)
+  * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective): [**ijo-ɴᴏᴜɴ**](#ijo-noun) ([**ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#number-adjective), [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#spatial-adjective), [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#life-form-adjective)), [**ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#time-adjective)
   * [**ᴠᴇʀʙ**](#verb): [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
   * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
@@ -57,6 +57,7 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 | |
 |:-|
 | [ᴘʀᴏɴᴏᴜɴ](#pronoun) |
+| [ijo-ɴᴏᴜɴ](#ijo-noun) |
 | [jan-ɴᴏᴜɴ](#jan-noun) |
 | [ilo-ɴᴏᴜɴ](#ilo-noun) |
 
@@ -104,7 +105,6 @@ ilo-ɴᴏᴜɴs imply **ilo**. As a [ᴠᴇʀʙ](#verb), they imply *usage*.
 
 | |
 |:-|
-| [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#thing-adjective) |
 | [ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#time-adjective) |
 
 An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun).
@@ -119,8 +119,8 @@ Simple ᴀᴅᴊᴇᴄᴛɪᴠᴇs don't imply additional meaning when used as [
 |:-|:-|:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ strong, ᴠᴇʀʙ to strengthen, ɴᴏᴜɴ strength | *I am strong.* | *Strength lies within.* | *Water strengthens me.* |
 
-### THING ADJECTIVE
-*([nimi suli poka](#adjective) ijo)*
+### ijo-NOUN
+*([nimi suli lawa](#noun) ijo)*
 
 | |
 |:-|
@@ -128,9 +128,9 @@ Simple ᴀᴅᴊᴇᴄᴛɪᴠᴇs don't imply additional meaning when used as [
 | [ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#spatial-adjective) |
 | [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#life-form-adjective) |
 
-As [ɴᴏᴜɴ](#noun)s, ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo".
+As [ɴᴏᴜɴ](#noun)s, ijo-ɴᴏᴜɴs imply "ijo".
 
-| ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ sike |
+| ijo-ɴᴏᴜɴ sike |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ round → ɴᴏᴜɴ something round |
 
@@ -141,7 +141,7 @@ All [ɴᴏᴜɴ](#noun)s can imply food.
 | ɴᴏᴜɴ water → beverage| ɴᴏᴜɴ fish → seefood |
 
 #### NUMBER
-*([nimi suli poka ijo](#thing-adjective) nanpa)*
+*([nimi suli poka ijo](#ijo-noun) nanpa)*
 
 | |
 |:-|
@@ -162,7 +162,7 @@ As [ɴᴏᴜɴ](#noun)s, ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo"
 | *You're number one.* |
 
 ##### CORRELATIVE
-*([nimi suli poka ijo](#thing-adjective) palisa)*
+*([nimi suli poka ijo](#ijo-noun) palisa)*
 
 As [ɴᴏᴜɴ](#noun)s, ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs imply "ijo".
 
@@ -177,7 +177,7 @@ In a [genitive](#genitive) ᴄʟᴀᴜꜱᴇ, "ijo" before a ᴄᴏʀʀᴇʟᴀ�
 | *parent of everything* | *every parent* |
 
 ##### ARTICLE
-*([nimi suli poka ijo](#thing-adjective) sona)*
+*([nimi suli poka ijo](#ijo-noun) sona)*
 
 There are no ᴀʀᴛɪᴄʟᴇs in **Toki Pona**.
 
