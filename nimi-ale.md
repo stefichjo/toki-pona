@@ -9,19 +9,19 @@ This dictionary contains all definitions (**bold**) as provided by [the official
 
 ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ derived according their [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nasin-nimi.md)es are separated by an *arrow* (→).
 
-| ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ᴄʟᴀꜱꜱ | ᴡᴏʀᴅ … | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
-|:-|:-|:-|:-|
-| <img src="sitelen/pona/suwi.png" height="50" title="swit"> | [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#thing-adjective) | **suwi** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sweet** → <br>ɴᴏᴜɴ [**sweets**](sonja.md#lesson-16) |
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/suwi.png" height="50" title="swit"> | [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#thing-adjective) **suwi** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sweet** → <br>ɴᴏᴜɴ [**sweets**](sonja.md#lesson-16) |
 
 Members of the same ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ belong to the same [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nasin-nimi.md). Antonyms are separated by a dash (—).
 
-| ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ᴄʟᴀꜱꜱ | ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ | … |
-|:-|:-|:-|:-|
-| <img src="sitelen/pona/pona.png" height="50" title="bona"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#simple-adjective) | **pona** – ike, nasa, pakala, utala | … |
-| <img src="sitelen/pona/ike.png" height="50" title="ilkea"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#simple-adjective) | pona — **ike**, nasa, pakala, utala | … |
-| <img src="sitelen/pona/nasa.png" height="50" title="nasau"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#simple-adjective) | pona — ike, **nasa**, pakala, utala | … |
-| <img src="sitelen/pona/pakala.png" height="50" title="bagar-ap"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#simple-adjective) | pona — ike, nasa, **pakala**, utala | … |
-| <img src="sitelen/pona/utala.png" height="50" title="udara"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#simple-adjective) | pona — ike, nasa, pakala, **utala** | … |
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/pona.png" height="50" title="bona"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#simple-adjective) **pona** – ike, nasa, pakala, utala |
+| <img src="sitelen/pona/ike.png" height="50" title="ilkea"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#simple-adjective) pona — **ike**, nasa, pakala, utala |
+| <img src="sitelen/pona/nasa.png" height="50" title="nasau"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#simple-adjective) pona — ike, **nasa**, pakala, utala |
+| <img src="sitelen/pona/pakala.png" height="50" title="bagar-ap"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#simple-adjective) pona — ike, nasa, **pakala**, utala |
+| <img src="sitelen/pona/utala.png" height="50" title="udara"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#simple-adjective) pona — ike, nasa, pakala, **utala** |
 
 This document discourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations, e.g. "sinpin" for "sinpin lawa" or "sinpin sijelo", when context might be insufficient, but it encourages to be fluent in ᴘᴏɴᴀ style, i.e. conflating two words into one, e.g. "(lon) noka" instead of "(lon) anpa". On the other hand, it encourages to be aware of possible ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ reclassifications of words for the sake of symmetry. For example, "sama" and "ante" are antonyms (i.e. "same" and "different"), but only "sama" is a ᴘʀᴇᴘᴏsɪᴛɪᴏɴ, whereas "ante" is just an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. "ante" as an ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ ᴘʀᴇᴘᴏsɪᴛɪᴏɴ meaning "(different) than" restores the symmetry with "sama".
 
