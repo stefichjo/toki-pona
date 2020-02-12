@@ -23,9 +23,9 @@ This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. 
 The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts-of-speech)es exist:
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
-  * [**ɴᴏᴜɴ**](#noun): [**ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ**](#simple-noun) ([**ᴘʀᴏɴᴏᴜɴ**](#pronoun))
+  * [**ɴᴏᴜɴ**](#noun): [**ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ**](#simple-noun) ([**ᴘʀᴏɴᴏᴜɴ**](#pronoun)), [**ilo-ɴᴏᴜɴ**](#ilo-noun)
   * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective): [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#simple-adjective), [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#thing-adjective) ([**ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#number-adjective), [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#spatial-adjective), [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#life-form-adjective)), [**ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#person-adjective), [**ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#time-adjective)
-  * [**ᴠᴇʀʙ**](#verb): [**ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ**](#simple-verb), [**ᴛʜɪɴɢ ᴠᴇʀʙ**](#thing-verb), [**ᴛᴏᴏʟ ᴠᴇʀʙ**](#tool-verb), [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
+  * [**ᴠᴇʀʙ**](#verb): [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
   * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ**](#simple-particle): [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection)
@@ -53,6 +53,11 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 ## NOUN
 *([nimi suli](#content-word) lawa)*
 
+| |
+|:-|
+| [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](#simple-noun) |
+| [ilo-ɴᴏᴜɴ](#ilo-noun) |
+
 ### SIMPLE NOUN
 *([nimi suli lawa](#noun) pona)*
 
@@ -76,6 +81,15 @@ The ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation
 | ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ sina |
 |:-|
 | ɴᴏᴜɴ you, ᴀᴅᴊᴇᴄᴛɪᴠᴇ your |
+
+### ilo-NOUN
+*([nimi suli lawa](#noun) ilo)*
+
+ilo-ɴᴏᴜɴs imply **ilo**. As a [ᴠᴇʀʙ](#verb), they imply *usage*.
+
+| ilo-ɴᴏᴜɴ lukin |
+|:-|
+| ᴠᴇʀʙ *to see* → ɴᴏᴜɴ *eye* |
 
 ## ADJECTIVE
 *([nimi suli](#content-word) poka)*
@@ -224,43 +238,13 @@ As [ɴᴏᴜɴ](#noun)s, the ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ "sike" impli
 
 | |
 |:-|
-| [ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ](#simple-verb) |
-| [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-verb) |
-| [ᴛᴏᴏʟ ᴠᴇʀʙ](#tool-verb) |
 | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
 
-ᴠᴇʀʙs can imply a ᴘᴇʀꜰᴇᴄᴛɪᴠᴇ ᴀꜱᴘᴇᴄᴛ, i.e. the ᴀᴅᴊᴇᴄᴛɪᴠᴇ "ale" is omitted.
+When their [direct object phrase](#direct-object) is omitted, ᴠᴇʀʙs behave like ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇs. As a [ɴᴏᴜɴ](#noun), ᴠᴇʀʙs can also mean their [direct object](#direct-object).
 
-| (ᴜɴ-ᴘᴜ) ona li pali ale e tomo. ⇒ (ᴘᴜ) ona li pali e tomo. |
+| ᴠᴇʀʙ sitelen |
 |:-|
-| *She was doing all the work on a house.* → *She has built a house.* |
-
-### SIMPLE VERB
-*([nimi suli wawa](#verb) pona)*
-
-When their [direct object phrase](#direct-object) is omitted, ꜱɪᴍᴘʟᴇ ᴠᴇʀʙs behave like ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇs.
-
-| ꜱɪᴍᴘʟᴇ ᴠᴇʀʙ alasa |
-|:-|
-| ᴠᴇʀʙ *to hunt*, ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hunting*, ɴᴏᴜɴ *hunt* |
-
-### THING VERB
-*([nimi suli wawa](#verb) ijo)*
-
-As a [ɴᴏᴜɴ](#noun), ᴛʜɪɴɢ ᴠᴇʀʙs mean their [direct object](#direct-object).
-
-| ᴛʜɪɴɢ ᴠᴇʀʙ sitelen |
-|:-|
-| ᴠᴇʀʙ *to draw* → ɴᴏᴜɴ *picture* |
-
-### TOOL VERB
-*([nimi suli wawa](#verb) ilo)*
-
-As a [ɴᴏᴜɴ](#noun), ᴛᴏᴏʟ ᴠᴇʀʙs mean their tool used. That tool is always an organ.
-
-| ᴛᴏᴏʟ ᴠᴇʀʙ lukin |
-|:-|
-| ᴠᴇʀʙ *to see* → ɴᴏᴜɴ *eye* |
+| ᴠᴇʀʙ *to draw*, ᴀᴅᴊᴇᴄᴛɪᴠᴇ *drawing*, ɴᴏᴜɴ *drawing* → ɴᴏᴜɴ *picture* |
 
 ### PRE-VERB
 *([nimi suli wawa](#verb) poka)*
@@ -344,7 +328,7 @@ A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can
 ### INTERJECTION
 *([nimi lili](#particle) kalama)*
 
-ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs are ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs that imitate a sound. ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs can be used as [ᴛʜɪɴɢ ᴠᴇʀʙ](#thing-verb)s meaning "to produce that sound".
+ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs are ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs that imitate a sound. ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs can be used as [ᴠᴇʀʙ](#verb)s meaning "to produce that sound".
 
 | soweli li kalama "mu". ⇒ soweli li mu. | ona li kute e kalama "mu" wawa. ⇒ ona li kute e mu wawa. |
 |:-|:-|
