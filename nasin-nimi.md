@@ -291,14 +291,13 @@ A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can
 | |
 |:-|
 | [ɴᴀᴍᴇ](#name) |
-| [ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇ](#transitive-particle) |
+| [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) |
+| [ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ](#phrase-marker) |
+| [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction) |
+| [ꜱᴇɴᴛᴇɴᴄᴇ ᴍᴀʀᴋᴇʀ](#sentence-marker) |
 
 ## NAME
-*([nimi lili](#particle) pona)*
-
-| |
-|:-|
-| [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) |
+*([nimi lili](#particle) ijo)*
 
 ɴᴀᴍᴇs are tokiponized names or sounds. They always follow a [ɴᴏᴜɴ](#noun). When "pi nimi (pi kalama)" can be infered, **quotation marks** can be omitted.
 
@@ -318,7 +317,7 @@ A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can
 |:-|
 | *the language with the number one*, *the language of the first turn* → *the language number one* |
 
-### INTERJECTION
+## INTERJECTION
 *([nimi lili](#particle) kalama)*
 
 ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs are ɴᴀᴍᴇs that imitate a sound. ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs can be used as [ᴠᴇʀʙ](#verb)s meaning "to produce that sound".
@@ -345,16 +344,7 @@ As the opposite of "ala", the affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" ca
 |:-|:-|
 | *This does exist.* → *This is true.* | *You're tall, wow!* |
 
-## TRANSITIVE PARTICLE
-*([nimi lili](#particle) luka)*
-
-| |
-|:-|
-| [ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ](#phrase-marker) |
-| [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction) |
-| [ꜱᴇɴᴛᴇɴᴄᴇ ᴍᴀʀᴋᴇʀ](#sentence-marker) |
-
-### PHRASE PARTICLE
+## PHRASE PARTICLE
 *([nimi lili luka](#transitive-particle) pi wan pi mute nimi)*
 
 | |
@@ -364,7 +354,7 @@ As the opposite of "ala", the affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" ca
 | [Volative, Vocative and Imperative](#volative-vocative-and-imperative) |
 | [Genitive](#genitive) |
 
-#### Subject and Predicate
+### Subject and Predicate
 *([nimi lili luka](#transitive-particle) "li")*
 
 If the **subject** is just "mi" or "sina", the ᴘᴀʀᴛɪᴄʟᴇ "li" is omitted.
@@ -385,7 +375,7 @@ When there is enough context, the **subject** of a ꜱᴇɴᴛᴇɴᴄᴇ can be
 |:-|:-|
 | *She is a parent.* → *Yes.* | *She is not a parent.* → *No.* |
 
-#### Direct Object
+### Direct Object
 *([nimi lili luka](#transitive-particle) "e")*
 
 Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates** can have **direct objects**. Their **commas** can be safely omitted.
@@ -400,7 +390,7 @@ When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can
 |:-|
 | *The men know things/that/it.* ⇒ *The men know.* |
 
-#### Volative, Vocative and Imperative
+### Volative, Vocative and Imperative
 *([nimi lili luka](#transitive-particle) "o")*
 
 "sina" can be omitted before the ᴘᴀʀᴛɪᴄʟᴇ "o".
@@ -421,7 +411,7 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 |:-|
 | *May you have a good meal.* → *Bon appétit!* |
 
-#### Genitive
+### Genitive
 *([nimi lili luka](#transitive-particle) "pi")*
 
 If a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (or [ᴀᴅᴊᴇᴄᴛɪᴠᴇ-ᴘʜʀᴀꜱᴇ](#adjective), or **"pi"**-phrase) contains only one [ɴᴏᴜɴ](#noun), the ᴘᴀʀᴛɪᴄʟᴇ "pi" is omitted and the phrase becomes an [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective).
@@ -430,7 +420,7 @@ If a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (or [ᴀᴅᴊᴇᴄᴛɪ
 |:-|:-|
 | *a person of much good* → *a very good person* | *a language of good* → *a good language* |
 
-### CONJUNCTION
+## CONJUNCTION
 *([nimi lili luka](#transitive-particle) "en", [nimi lili luka](#transitive-particle) "anu")*
 
 By means of "anu seme" one can express a yes-no-question. In this case "seme" is an alternative [predicate](#subject-and-predicate) to "mama".
@@ -439,7 +429,7 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 |:-|
 | *Is she a parent?* |
 
-### SENTENCE MARKER
+## SENTENCE MARKER
 *([nimi lili luka](#transitive-particle) "la")*
 
 By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", one can start a ꜱᴇɴᴛᴇɴᴄᴇ with a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition), i.e. a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ.
