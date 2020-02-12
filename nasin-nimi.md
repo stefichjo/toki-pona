@@ -28,7 +28,7 @@ The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts
   * [**ᴠᴇʀʙ**](#verb): [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
   * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
-  * [**ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ**](#simple-particle): [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection)
+  * [**ɴᴀᴍᴇ**](#name): [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection)
   * [**ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇ**](#transitive-particle): [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker), [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction), [**ꜱᴇɴᴛᴇɴᴄᴇ ᴍᴀʀᴋᴇʀ**](#sentence-marker)
 
 They determine how (and if) a word can be used as one or more of these ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ:
@@ -58,7 +58,7 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 | [ᴘʀᴏɴᴏᴜɴ](#pronoun) |
 | [ilo-ɴᴏᴜɴ](#ilo-noun) |
 
-ɴᴏᴜɴs don't have an additional meaning as ᴀᴅᴊᴇᴄᴛɪᴠᴇs (or ᴠᴇʀʙs).
+Simple ɴᴏᴜɴs don't have an additional meaning as ᴀᴅᴊᴇᴄᴛɪᴠᴇs (or ᴠᴇʀʙs).
 
 | ɴᴏᴜɴ jan |
 |:-|
@@ -145,7 +145,7 @@ As [ɴᴏᴜɴ](#noun)s, ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo"
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *zero* → ɴᴏᴜɴ *zero* |
 
-ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇs can be used as [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle)s after "nanpa".
+ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇs can be used as [ɴᴀᴍᴇ](#name)s after "nanpa".
 
 | sina nanpa wan. |
 |:-|
@@ -290,17 +290,17 @@ A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can
 
 | |
 |:-|
-| [ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇ](#simple-particle) |
+| [ɴᴀᴍᴇ](#name) |
 | [ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇ](#transitive-particle) |
 
-## SIMPLE PARTICLE
+## NAME
 *([nimi lili](#particle) pona)*
 
 | |
 |:-|
 | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) |
 
-ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs are tokiponized names or sounds. They always follow a [ɴᴏᴜɴ](#noun). When "pi nimi (pi kalama)" can be infered, **quotation marks** can be omitted.
+ɴᴀᴍᴇs are tokiponized names or sounds. They always follow a [ɴᴏᴜɴ](#noun). When "pi nimi (pi kalama)" can be infered, **quotation marks** can be omitted.
 
 | ona li jo e nimi "Sonja". | ona li jan pi nimi "Sonja". ⇒ ona li jan Sonja |
 |:-|:-|
@@ -321,7 +321,7 @@ A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can
 ### INTERJECTION
 *([nimi lili](#particle) kalama)*
 
-ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs are ꜱɪᴍᴘʟᴇ ᴘᴀʀᴛɪᴄʟᴇs that imitate a sound. ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs can be used as [ᴠᴇʀʙ](#verb)s meaning "to produce that sound".
+ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs are ɴᴀᴍᴇs that imitate a sound. ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs can be used as [ᴠᴇʀʙ](#verb)s meaning "to produce that sound".
 
 | soweli li kalama "mu". ⇒ soweli li mu. | ona li kute e kalama "mu" wawa. ⇒ ona li kute e mu wawa. |
 |:-|:-|
