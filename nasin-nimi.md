@@ -28,8 +28,7 @@ The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts
   * [**ᴠᴇʀʙ**](#verb): [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
   * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
-  * [**ɴᴀᴍᴇ**](#name)
-  * [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection)
+  * [**ꜱᴏᴜɴᴅ**](#sound): [**ɴᴀᴍᴇ**](#name), [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection)
   * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ**](#mood), [**ᴄᴀꜱᴇ**](#case)
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
 
@@ -294,11 +293,15 @@ A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can
 |:-|
 | [ɴᴀᴍᴇ](#name) |
 | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) |
+| [ꜱᴏᴜɴᴅ](#sound) |
 | [ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ](#phrase-marker) |
 | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction) |
 
-## NAME
-*([nimi lili](#particle) ijo)*
+## SOUND
+*([nimi lili](#particle) kalama)*
+
+### NAME
+*([nimi lili](#particle) nimi)*
 
 ɴᴀᴍᴇs are tokiponized names or sounds. They always follow a [ɴᴏᴜɴ](#noun). When "pi nimi (pi kalama)" can be infered, **quotation marks** can be omitted.
 
@@ -318,8 +321,8 @@ A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can
 |:-|
 | *the language with the number one*, *the language of the first turn* → *the language number one* |
 
-## INTERJECTION
-*([nimi lili](#particle) kalama)*
+### INTERJECTION
+*([nimi lili](#particle) pilin)*
 
 ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs are ɴᴀᴍᴇs that imitate a sound. ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs can be used as [ᴠᴇʀʙ](#verb)s meaning "to produce that sound".
 
