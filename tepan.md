@@ -105,7 +105,7 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](n
 | **mani** | *large domesticated animal*; *money* | *domesticated*, *mined*; *valuable* |
 | **mun** | *night sky object* | *sky-walking* |
 | **nanpa** | ... | *current* |
-| **nasin** | *way* | ... |
+| **nasin** | *custom* | *usual* |
 
 #### Body Parts
 
