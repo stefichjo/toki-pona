@@ -23,7 +23,7 @@ This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. 
 The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts-of-speech)es exist:
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
-  * [**ɴᴏᴜɴ**](#noun): [**ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ**](#simple-noun) ([**ᴘʀᴏɴᴏᴜɴ**](#pronoun)), [**ilo-ɴᴏᴜɴ**](#ilo-noun)
+  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ilo-ɴᴏᴜɴ**](#ilo-noun)
   * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective): [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#thing-adjective) ([**ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#number-adjective), [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#spatial-adjective), [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#life-form-adjective)), [**ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#person-adjective), [**ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#time-adjective)
   * [**ᴠᴇʀʙ**](#verb): [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
   * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
@@ -55,30 +55,27 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 
 | |
 |:-|
-| [ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ](#simple-noun) |
+| [ᴘʀᴏɴᴏᴜɴ](#pronoun) |
 | [ilo-ɴᴏᴜɴ](#ilo-noun) |
 
-### SIMPLE NOUN
-*([nimi suli lawa](#noun) pona)*
+ɴᴏᴜɴs don't have an additional meaning as ᴀᴅᴊᴇᴄᴛɪᴠᴇs (or ᴠᴇʀʙs).
 
-ꜱɪᴍᴘʟᴇ ɴᴏᴜɴs don't have an additional meaning as ᴀᴅᴊᴇᴄᴛɪᴠᴇs (or ᴠᴇʀʙs).
-
-| ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ jan |
+| ɴᴏᴜɴ jan |
 |:-|
 | ɴᴏᴜɴ somebody, ᴀᴅᴊᴇᴄᴛɪᴠᴇ somebody's |
 
-The ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation.
+The ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation.
 
 | lon ijo |
 |:-|
 | somewhere |
 
-#### PRONOUN
+### PRONOUN
 *([nimi suli lawa](#noun) palisa)*
 
-ᴘʀᴏɴᴏᴜɴs are ꜱɪᴍᴘʟᴇ ɴᴏᴜɴs that refer to the speaker, the listener or a third person (or object).
+ᴘʀᴏɴᴏᴜɴs are ɴᴏᴜɴs that refer to the speaker, the listener or a third person (or object).
 
-| ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ sina |
+| ᴘʀᴏɴᴏᴜɴ sina |
 |:-|
 | ɴᴏᴜɴ you, ᴀᴅᴊᴇᴄᴛɪᴠᴇ your |
 
