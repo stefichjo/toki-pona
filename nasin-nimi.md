@@ -24,7 +24,7 @@ The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
   * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ilo-ɴᴏᴜɴ**](#ilo-noun)
-  * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective): [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#thing-adjective) ([**ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#number-adjective), [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#spatial-adjective), [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#life-form-adjective)), [**ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#person-adjective), [**ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#time-adjective)
+  * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective): [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#thing-adjective) ([**ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#number-adjective), [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#spatial-adjective), [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#life-form-adjective)), [**jan-ɴᴏᴜɴ**](#person-adjective), [**ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#time-adjective)
   * [**ᴠᴇʀʙ**](#verb): [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
   * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
@@ -80,6 +80,15 @@ The ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation.
 |:-|
 | ɴᴏᴜɴ you, ᴀᴅᴊᴇᴄᴛɪᴠᴇ your |
 
+### jan-NOUN
+*([nimi suli lawa](#noun) jan)*
+
+jan-ɴᴏᴜɴs imply **jan**.
+
+| jan-ɴᴏᴜɴ meli |
+|:-|
+| ɴᴏᴜɴ *somebody female* → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* |
+
 ### ilo-NOUN
 *([nimi suli lawa](#noun) ilo)*
 
@@ -95,7 +104,7 @@ ilo-ɴᴏᴜɴs imply **ilo**. As a [ᴠᴇʀʙ](#verb), they imply *usage*.
 | |
 |:-|
 | [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#thing-adjective) |
-| [ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#person-adjective) |
+| [jan-ɴᴏᴜɴ](#person-adjective) |
 | [ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#time-adjective) |
 
 An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun).
@@ -208,15 +217,6 @@ As [ɴᴏᴜɴ](#noun)s, ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs impl
 | (ᴛᴇᴘᴀɴ) ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ akesi ⇒ (ᴘᴏɴᴀ) ᴀᴅᴊᴇᴄᴛɪᴠᴇ ~~sama~~ akesi |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded, reptile-like → ɴᴏᴜɴ reptile |
-
-### PERSON ADJECTIVE
-*([nimi suli poka](#adjective) jan)*
-
-As [ɴᴏᴜɴ](#noun)s, ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "jan".
-
-| ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ meli |
-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* → ɴᴏᴜɴ *somebody female* |
 
 ### TIME ADJECTIVE
 *([nimi suli poka](#adjective) tenpo)*
