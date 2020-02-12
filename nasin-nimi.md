@@ -28,8 +28,11 @@ The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts
   * [**ᴠᴇʀʙ**](#verb): [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
   * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
-  * [**ɴᴀᴍᴇ**](#name): [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection)
-  * [**ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇ**](#transitive-particle): [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker), [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction), [**ꜱᴇɴᴛᴇɴᴄᴇ ᴍᴀʀᴋᴇʀ**](#sentence-marker)
+  * [**ɴᴀᴍᴇ**](#name)
+  * [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection)
+  * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker)
+  * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction)
+  * [**ꜱᴇɴᴛᴇɴᴄᴇ ᴍᴀʀᴋᴇʀ**](#sentence-marker)
 
 They determine how (and if) a word can be used as one or more of these ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ:
 
@@ -344,7 +347,7 @@ As the opposite of "ala", the affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" ca
 |:-|:-|
 | *This does exist.* → *This is true.* | *You're tall, wow!* |
 
-## PHRASE PARTICLE
+## PHRASE MARKER
 *([nimi lili luka](#transitive-particle) pi wan pi mute nimi)*
 
 | |
