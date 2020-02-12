@@ -30,7 +30,7 @@ The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ɴᴀᴍᴇ**](#name)
   * [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection)
-  * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [Subject and Predicate](#subject-and-predicate), [Direct Object](#direct-object), [Volative, Vocative and Imperative](#volative-vocative-and-imperative), [Genitive](#genitive)
+  * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ**](#mood), [**ᴄᴀꜱᴇ**](#case)
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction)
   * [**ꜱᴇɴᴛᴇɴᴄᴇ ᴍᴀʀᴋᴇʀ**](#sentence-marker)
 
@@ -245,7 +245,7 @@ When their [direct object phrase](#direct-object) is omitted, ᴠᴇʀʙs behave
 ### PRE-VERB
 *([nimi suli wawa](#verb) poka)*
 
-Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause)'s [predicate](#subject-and-predicate). Such ᴠᴇʀʙs are auxiliary verbs. ꜱᴏɴᴊᴀ uses the term "ᴘʀᴇ-ᴠᴇʀʙ" for auxiliary verbs.
+Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause)'s [predicate](#predicate). Such ᴠᴇʀʙs are auxiliary verbs. ꜱᴏɴᴊᴀ uses the term "ᴘʀᴇ-ᴠᴇʀʙ" for auxiliary verbs.
 
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ + ᴘʀᴇ-ᴠᴇʀʙ kama | ijo/jan li kama e ni: mi sona e toki pona. → mi kama sona e toki pona. |
 |:-|:-|
@@ -352,12 +352,12 @@ As the opposite of "ala", the affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" ca
 
 | |
 |:-|
-| [Subject and Predicate](#subject-and-predicate) |
-| [Direct Object](#direct-object) |
-| [Volative, Vocative and Imperative](#volative-vocative-and-imperative) |
-| [Genitive](#genitive) |
+| [Mood](#mood): [Indicative Mood](#indicative-mood), [Volative, Vocative and Imperative Mood](#volative-vocative-and-imperative-mood) |
+| [Case](#case): [Genitive Case](#genitive-case), [Accusative Case](#accusative-case) |
 
-### Subject and Predicate
+### Mood
+
+#### Indicative Mood
 *([nimi lili luka](#transitive-particle) "li")*
 
 If the **subject** is just "mi" or "sina", the ᴘᴀʀᴛɪᴄʟᴇ "li" is omitted.
@@ -378,22 +378,7 @@ When there is enough context, the **subject** of a ꜱᴇɴᴛᴇɴᴄᴇ can be
 |:-|:-|
 | *She is a parent.* → *Yes.* | *She is not a parent.* → *No.* |
 
-### Direct Object
-*([nimi lili luka](#transitive-particle) "e")*
-
-Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates** can have **direct objects**. Their **commas** can be safely omitted.
-
-| (ꜱᴏɴᴊᴀ) ona li seli e soweli, e pan. ⇒ (ᴘᴏɴᴀ) ona li seli e soweli e pan. |
-|:-|
-| *She cooks the meat and the rice.* |
-
-When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can be omitted. (ꜱᴏɴᴊᴀ calls these omittable objects ["filler objects"](sonja.md#lesson-5).)
-
-| mije li sona e ijo/ni/ona. ⇒ mije li sona. |
-|:-|
-| *The men know things/that/it.* ⇒ *The men know.* |
-
-### Volative, Vocative and Imperative
+#### Volative, Vocative and Imperative Mood
 *([nimi lili luka](#transitive-particle) "o")*
 
 "sina" can be omitted before the ᴘᴀʀᴛɪᴄʟᴇ "o".
@@ -414,7 +399,9 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 |:-|
 | *May you have a good meal.* → *Bon appétit!* |
 
-### Genitive
+### Case
+
+#### Genitive Case
 *([nimi lili luka](#transitive-particle) "pi")*
 
 If a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (or [ᴀᴅᴊᴇᴄᴛɪᴠᴇ-ᴘʜʀᴀꜱᴇ](#adjective), or **"pi"**-phrase) contains only one [ɴᴏᴜɴ](#noun), the ᴘᴀʀᴛɪᴄʟᴇ "pi" is omitted and the phrase becomes an [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective).
@@ -423,10 +410,25 @@ If a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (or [ᴀᴅᴊᴇᴄᴛɪ
 |:-|:-|
 | *a person of much good* → *a very good person* | *a language of good* → *a good language* |
 
+#### Accusative Case
+*([nimi lili luka](#transitive-particle) "e")*
+
+Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates** can have **direct objects**. Their **commas** can be safely omitted.
+
+| (ꜱᴏɴᴊᴀ) ona li seli e soweli, e pan. ⇒ (ᴘᴏɴᴀ) ona li seli e soweli e pan. |
+|:-|
+| *She cooks the meat and the rice.* |
+
+When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can be omitted. (ꜱᴏɴᴊᴀ calls these omittable objects ["filler objects"](sonja.md#lesson-5).)
+
+| mije li sona e ijo/ni/ona. ⇒ mije li sona. |
+|:-|
+| *The men know things/that/it.* ⇒ *The men know.* |
+
 ## CONJUNCTION
 *([nimi lili luka](#transitive-particle) "en", [nimi lili luka](#transitive-particle) "anu")*
 
-By means of "anu seme" one can express a yes-no-question. In this case "seme" is an alternative [predicate](#subject-and-predicate) to "mama".
+By means of "anu seme" one can express a yes-no-question. In this case "seme" is an alternative [predicate](#predicate) to "mama".
 
 | ona li mama anu seme? |
 |:-|
