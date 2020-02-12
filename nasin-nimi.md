@@ -57,6 +57,7 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 | |
 |:-|
 | [ᴘʀᴏɴᴏᴜɴ](#pronoun) |
+| [jan-ɴᴏᴜɴ](#jan-noun) |
 | [ilo-ɴᴏᴜɴ](#ilo-noun) |
 
 Simple ɴᴏᴜɴs don't have an additional meaning as ᴀᴅᴊᴇᴄᴛɪᴠᴇs (or ᴠᴇʀʙs).
@@ -104,7 +105,6 @@ ilo-ɴᴏᴜɴs imply **ilo**. As a [ᴠᴇʀʙ](#verb), they imply *usage*.
 | |
 |:-|
 | [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#thing-adjective) |
-| [jan-ɴᴏᴜɴ](#jan-noun) |
 | [ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#time-adjective) |
 
 An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun).
