@@ -24,7 +24,7 @@ The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
   * [**ɴᴏᴜɴ**](#noun): [**ꜱɪᴍᴘʟᴇ ɴᴏᴜɴ**](#simple-noun) ([**ᴘʀᴏɴᴏᴜɴ**](#pronoun)), [**ilo-ɴᴏᴜɴ**](#ilo-noun)
-  * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective): [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#simple-adjective), [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#thing-adjective) ([**ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#number-adjective), [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#spatial-adjective), [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#life-form-adjective)), [**ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#person-adjective), [**ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#time-adjective)
+  * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective): [**ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#thing-adjective) ([**ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#number-adjective), [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#spatial-adjective), [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#life-form-adjective)), [**ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#person-adjective), [**ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#time-adjective)
   * [**ᴠᴇʀʙ**](#verb): [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
   * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
@@ -96,7 +96,6 @@ ilo-ɴᴏᴜɴs imply **ilo**. As a [ᴠᴇʀʙ](#verb), they imply *usage*.
 
 | |
 |:-|
-| [ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#simple-adjective) |
 | [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#thing-adjective) |
 | [ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#person-adjective) |
 | [ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#time-adjective) |
@@ -107,12 +106,9 @@ An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-�
 |:-|:-|:-|
 | *person* | *friendly person*, *friend* | *friends* |
 
-### SIMPLE ADJECTIVE
-*([nimi suli poka](#adjective) pona)*
+Simple ᴀᴅᴊᴇᴄᴛɪᴠᴇs don't imply additional meaning when used as [ᴠᴇʀʙ](#verb)s or [ɴᴏᴜɴ](#noun)s.
 
-ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇs don't imply additional meaning when used as [ᴠᴇʀʙ](#verb)s or [ɴᴏᴜɴ](#noun)s.
-
-| ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ wawa | mi wawa. | wawa li lon insa. | telo li wawa e mi. |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ wawa | mi wawa. | wawa li lon insa. | telo li wawa e mi. |
 |:-|:-|:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ strong, ᴠᴇʀʙ to strengthen, ɴᴏᴜɴ strength | *I am strong.* | *Strength lies within.* | *Water strengthens me.* |
 
@@ -240,7 +236,7 @@ As [ɴᴏᴜɴ](#noun)s, the ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ "sike" impli
 |:-|
 | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
 
-When their [direct object phrase](#direct-object) is omitted, ᴠᴇʀʙs behave like ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇs. As a [ɴᴏᴜɴ](#noun), ᴠᴇʀʙs can also mean their [direct object](#direct-object).
+When their [direct object phrase](#direct-object) is omitted, ᴠᴇʀʙs behave like ᴀᴅᴊᴇᴄᴛɪᴠᴇs. As a [ɴᴏᴜɴ](#noun), ᴠᴇʀʙs can also mean their [direct object](#direct-object).
 
 | ᴠᴇʀʙ sitelen |
 |:-|
