@@ -346,7 +346,7 @@ As the opposite of "ala", the affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" ca
 | *This does exist.* → *This is true.* | *You're tall, wow!* |
 
 ## PHRASE MARKER
-*([nimi lili luka](#transitive-particle) pi wan pi mute nimi)*
+*([nimi lili](#particle) luka pi mute nimi)*
 
 | |
 |:-|
@@ -356,7 +356,7 @@ As the opposite of "ala", the affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" ca
 ### Mood
 
 #### Indicative Mood
-*([nimi lili luka](#transitive-particle) "li")*
+*([nimi lili](#particle) luka "li")*
 
 If the **subject** is just "mi" or "sina", the ᴘᴀʀᴛɪᴄʟᴇ "li" is omitted.
 
@@ -377,7 +377,7 @@ When there is enough context, the **subject** of a ꜱᴇɴᴛᴇɴᴄᴇ can be
 | *She is a parent.* → *Yes.* | *She is not a parent.* → *No.* |
 
 #### Volative, Vocative and Imperative Mood
-*([nimi lili luka](#transitive-particle) "o")*
+*([nimi lili](#particle) luka "o")*
 
 "sina" can be omitted before the ᴘᴀʀᴛɪᴄʟᴇ "o".
 
@@ -400,7 +400,7 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 ### Case
 
 #### Genitive Case
-*([nimi lili luka](#transitive-particle) "pi")*
+*([nimi lili](#particle) luka "pi")*
 
 If a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (or [ᴀᴅᴊᴇᴄᴛɪᴠᴇ-ᴘʜʀᴀꜱᴇ](#adjective), or **"pi"**-phrase) contains only one [ɴᴏᴜɴ](#noun), the ᴘᴀʀᴛɪᴄʟᴇ "pi" is omitted and the phrase becomes an [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective).
 
@@ -409,7 +409,7 @@ If a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (or [ᴀᴅᴊᴇᴄᴛɪ
 | *a person of much good* → *a very good person* | *a language of good* → *a good language* |
 
 #### Accusative Case
-*([nimi lili luka](#transitive-particle) "e")*
+*([nimi lili](#particle) luka "e")*
 
 Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates** can have **direct objects**. Their **commas** can be safely omitted.
 
@@ -432,10 +432,10 @@ When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can
 | [**ɪꜰ-ᴛʜᴇɴ**](#if-then) |
 
 ### AND
-*([nimi lili luka](#transitive-particle) "en")*
+*([nimi lili](#particle) luka "en")*
 
 ### OR
-*([nimi lili luka](#transitive-particle) "anu")*
+*([nimi lili](#particle) luka "anu")*
 
 By means of "anu seme" one can express a yes-no-question. In this case "seme" is an alternative [predicate](#predicate) to "mama".
 
@@ -444,7 +444,7 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 | *Is she a parent?* |
 
 ### IF-THEN
-*([nimi lili luka](#transitive-particle) "la")*
+*([nimi lili](#particle) luka "la")*
 
 By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", one can start a ꜱᴇɴᴛᴇɴᴄᴇ with a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition), i.e. a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ.
 
