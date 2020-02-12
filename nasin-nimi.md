@@ -30,7 +30,7 @@ The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ɴᴀᴍᴇ**](#name)
   * [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection)
-  * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker)
+  * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [Subject and Predicate](#subject-and-predicate), [Direct Object](#direct-object), [Volative, Vocative and Imperative](#volative-vocative-and-imperative), [Genitive](#genitive)
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction)
   * [**ꜱᴇɴᴛᴇɴᴄᴇ ᴍᴀʀᴋᴇʀ**](#sentence-marker)
 
