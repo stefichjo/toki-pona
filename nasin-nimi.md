@@ -31,8 +31,7 @@ The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts
   * [**ɴᴀᴍᴇ**](#name)
   * [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection)
   * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ**](#mood), [**ᴄᴀꜱᴇ**](#case)
-  * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction)
-  * [**ꜱᴇɴᴛᴇɴᴄᴇ ᴍᴀʀᴋᴇʀ**](#sentence-marker)
+  * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
 
 They determine how (and if) a word can be used as one or more of these ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ:
 
@@ -297,7 +296,6 @@ A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can
 | [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) |
 | [ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ](#phrase-marker) |
 | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction) |
-| [ꜱᴇɴᴛᴇɴᴄᴇ ᴍᴀʀᴋᴇʀ](#sentence-marker) |
 
 ## NAME
 *([nimi lili](#particle) ijo)*
@@ -426,7 +424,18 @@ When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can
 | *The men know things/that/it.* ⇒ *The men know.* |
 
 ## CONJUNCTION
-*([nimi lili luka](#transitive-particle) "en", [nimi lili luka](#transitive-particle) "anu")*
+
+| |
+|:-|
+| [**ᴀɴᴅ**](#and) |
+| [**ᴏʀ**](#or) |
+| [**ɪꜰ-ᴛʜᴇɴ**](#if-then) |
+
+### AND
+*([nimi lili luka](#transitive-particle) "en")*
+
+### OR
+*([nimi lili luka](#transitive-particle) "anu")*
 
 By means of "anu seme" one can express a yes-no-question. In this case "seme" is an alternative [predicate](#predicate) to "mama".
 
@@ -434,7 +443,7 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 |:-|
 | *Is she a parent?* |
 
-## SENTENCE MARKER
+### IF-THEN
 *([nimi lili luka](#transitive-particle) "la")*
 
 By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", one can start a ꜱᴇɴᴛᴇɴᴄᴇ with a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition), i.e. a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ.
