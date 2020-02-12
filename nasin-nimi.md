@@ -352,8 +352,8 @@ As the opposite of "ala", the affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" ca
 
 | |
 |:-|
-| [Mood](#mood): [Indicative Mood](#indicative-mood), [Volative, Vocative and Imperative Mood](#volative-vocative-and-imperative-mood) |
-| [Case](#case): [Genitive Case](#genitive-case), [Accusative Case](#accusative-case) |
+| [ᴍᴏᴏᴅ](#mood): [Indicative Mood](#indicative-mood), [Volative, Vocative and Imperative Mood](#volative-vocative-and-imperative-mood) |
+| [ᴄᴀꜱᴇ](#case): [Genitive Case](#genitive-case), [Accusative Case](#accusative-case) |
 
 ### Mood
 
