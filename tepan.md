@@ -70,6 +70,7 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 | **lawa** | *to control*, *direct*, *guide*, *lead*, *own*, *plan*, *regulate*, *rule* | *to arange*, *organize* |
 | **lukin** | *to look for*, *search*, *seek* | *to care for* |
 | **monsi** | *back* | *backbone* |
+| **pan** | *cereal*, *grain*; *barley*, *corn*, *oat*, *rice*, *wheat*; *bread*, *pasta* | *seed* |
 
 ## Word Class Extensions
 
