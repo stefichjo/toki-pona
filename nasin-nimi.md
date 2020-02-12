@@ -89,7 +89,7 @@ ilo-ɴᴏᴜɴs imply **ilo**. As a [ᴠᴇʀʙ](#verb), they imply *usage*.
 
 | ilo-ɴᴏᴜɴ lukin |
 |:-|
-| ᴠᴇʀʙ *to see* → ɴᴏᴜɴ *eye* |
+| ɴᴏᴜɴ *eye* → ᴠᴇʀʙ *to see* |
 
 ## ADJECTIVE
 *([nimi suli](#content-word) poka)*
