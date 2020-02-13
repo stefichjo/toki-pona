@@ -53,9 +53,9 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 | |
 |:-|
 | [ᴘʀᴏɴᴏᴜɴ](#pronoun) |
-| [ijo-ɴᴏᴜɴ](#ijo-noun) |
 | [jan-ɴᴏᴜɴ](#jan-noun) |
 | [ilo-ɴᴏᴜɴ](#ilo-noun) |
+| [ijo-ɴᴏᴜɴ](#ijo-noun) |
 
 Simple ɴᴏᴜɴs don't have an additional meaning as ᴀᴅᴊᴇᴄᴛɪᴠᴇs (or ᴠᴇʀʙs).
 
@@ -200,7 +200,8 @@ As [ɴᴏᴜɴ](#noun)s, ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs impl
 
 | |
 |:-|
-| [ᴘʀᴏɴᴏᴜɴ](#pronoun) |
+| [ᴠᴇʀʙ](#verb) |
+| [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
 
 An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun).
 
@@ -214,8 +215,8 @@ Simple ᴀᴅᴊᴇᴄᴛɪᴠᴇs don't imply additional meaning when used as [
 |:-|:-|:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ strong, ᴠᴇʀʙ to strengthen, ɴᴏᴜɴ strength | *I am strong.* | *Strength lies within.* | *Water strengthens me.* |
 
-## VERB
-*([nimi suli](#content-word) wawa)*
+### VERB
+*([nimi suli poka](#modifier) luka)*
 
 | |
 |:-|
@@ -228,7 +229,7 @@ When their [direct object phrase](#direct-object) is omitted, ᴠᴇʀʙs behave
 | ᴠᴇʀʙ *to draw*, ᴀᴅᴊᴇᴄᴛɪᴠᴇ *drawing*, ɴᴏᴜɴ *drawing* → ɴᴏᴜɴ *picture* |
 
 ### PRE-VERB
-*([nimi suli wawa](#verb) poka)*
+*([nimi suli poka](#modifier) monsi)*
 
 Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause)'s [predicate](#predicate). Such ᴠᴇʀʙs are auxiliary verbs. ꜱᴏɴᴊᴀ uses the term "ᴘʀᴇ-ᴠᴇʀʙ" for auxiliary verbs.
 
@@ -240,8 +241,8 @@ Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟ�
 |:-|:-|
 | ᴠᴇʀʙ *to see* + ᴘʀᴇ-ᴠᴇʀʙ *to try to*, ᴠᴇʀʙ *to care for* | *I try to sleep.* |
 
-## PREPOSITION
-*([nimi suli](#content-word) luka)*
+### PREPOSITION
+*([nimi suli poka](#modifier) palisa)*
 
 ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are like [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s with an additional [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun).
 
