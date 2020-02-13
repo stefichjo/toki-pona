@@ -45,9 +45,7 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 | |
 |:-|
 | [ɴᴏᴜɴ](#noun) |
-| [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective) |
-| [ᴠᴇʀʙ](#verb) |
-| [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
+| [ᴍᴏᴅɪꜰɪᴇʀ](#modifier) |
 
 ## NOUN
 *([nimi suli](#content-word) lawa)*
@@ -97,21 +95,6 @@ ilo-ɴᴏᴜɴs imply **ilo**. As a [ᴠᴇʀʙ](#verb), they imply *usage*.
 | ilo-ɴᴏᴜɴ lukin |
 |:-|
 | ɴᴏᴜɴ *eye* → ᴠᴇʀʙ *to see* |
-
-## MODIFIER
-*([nimi suli](#content-word) poka)*
-
-An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun).
-
-| jan | jan pona | jan pona mute |
-|:-|:-|:-|
-| *person* | *friendly person*, *friend* | *friends* |
-
-Simple ᴀᴅᴊᴇᴄᴛɪᴠᴇs don't imply additional meaning when used as [ᴠᴇʀʙ](#verb)s or [ɴᴏᴜɴ](#noun)s.
-
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ wawa | mi wawa. | wawa li lon insa. | telo li wawa e mi. |
-|:-|:-|:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ strong, ᴠᴇʀʙ to strengthen, ɴᴏᴜɴ strength | *I am strong.* | *Strength lies within.* | *Water strengthens me.* |
 
 ### ijo-NOUN
 *([nimi suli lawa](#noun) ijo)*
@@ -211,6 +194,25 @@ As [ɴᴏᴜɴ](#noun)s, ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs impl
 | (ᴛᴇᴘᴀɴ) ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ akesi ⇒ (ᴘᴏɴᴀ) ᴀᴅᴊᴇᴄᴛɪᴠᴇ ~~sama~~ akesi |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded, reptile-like → ɴᴏᴜɴ reptile |
+
+## MODIFIER
+*([nimi suli](#content-word) poka)*
+
+| |
+|:-|
+| [ᴘʀᴏɴᴏᴜɴ](#pronoun) |
+
+An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun).
+
+| jan | jan pona | jan pona mute |
+|:-|:-|:-|
+| *person* | *friendly person*, *friend* | *friends* |
+
+Simple ᴀᴅᴊᴇᴄᴛɪᴠᴇs don't imply additional meaning when used as [ᴠᴇʀʙ](#verb)s or [ɴᴏᴜɴ](#noun)s.
+
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ wawa | mi wawa. | wawa li lon insa. | telo li wawa e mi. |
+|:-|:-|:-|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ strong, ᴠᴇʀʙ to strengthen, ɴᴏᴜɴ strength | *I am strong.* | *Strength lies within.* | *Water strengthens me.* |
 
 ## VERB
 *([nimi suli](#content-word) wawa)*
