@@ -53,9 +53,9 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 | |
 |:-|
 | [ᴘʀᴏɴᴏᴜɴ](#pronoun) |
-| [jan-ɴᴏᴜɴ](#jan-noun) |
-| [ilo-ɴᴏᴜɴ](#ilo-noun) |
-| [ijo-ɴᴏᴜɴ](#ijo-noun) |
+| [ᴊᴀɴ](#jan) |
+| [ɪʟᴏ](#ilo) |
+| [ɪᴊᴏ](#ijo) |
 
 Simple ɴᴏᴜɴs don't have an additional meaning as ᴀᴅᴊᴇᴄᴛɪᴠᴇs (or ᴠᴇʀʙs).
 
@@ -78,7 +78,7 @@ The ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation.
 |:-|
 | ɴᴏᴜɴ you, ᴀᴅᴊᴇᴄᴛɪᴠᴇ your |
 
-### jan-NOUN
+### JAN
 *([nimi suli lawa](#noun) jan)*
 
 jan-ɴᴏᴜɴs imply **jan**.
@@ -87,7 +87,7 @@ jan-ɴᴏᴜɴs imply **jan**.
 |:-|
 | ɴᴏᴜɴ *somebody female* → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* |
 
-### ilo-NOUN
+### ILO
 *([nimi suli lawa](#noun) ilo)*
 
 ilo-ɴᴏᴜɴs imply **ilo**. As a [ᴠᴇʀʙ](#verb), they imply *usage*.
@@ -96,14 +96,14 @@ ilo-ɴᴏᴜɴs imply **ilo**. As a [ᴠᴇʀʙ](#verb), they imply *usage*.
 |:-|
 | ɴᴏᴜɴ *eye* → ᴠᴇʀʙ *to see* |
 
-### ijo-NOUN
+### IJO
 *([nimi suli lawa](#noun) ijo)*
 
 | |
 |:-|
-| [ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#number-adjective) |
-| [ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#spatial-adjective) |
-| [ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#life-form-adjective) |
+| [ɴᴀɴᴘᴀ](#nanpa) |
+| [ᴡᴇᴋᴀ](#weka) |
+| [ꜱɪᴊᴇʟᴏ](#sijelo) |
 
 As [ɴᴏᴜɴ](#noun)s, ijo-ɴᴏᴜɴs imply "ijo".
 
@@ -117,7 +117,7 @@ All [ɴᴏᴜɴ](#noun)s can imply food.
 |:-|:-|
 | ɴᴏᴜɴ water → beverage| ɴᴏᴜɴ fish → seefood |
 
-#### NUMBER
+#### NANPA
 *([nimi suli poka ijo](#ijo-noun) nanpa)*
 
 | |
@@ -177,7 +177,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 |:-|
 | *The question number one is whether the universe is good or evil.* |
 
-#### SPATIAL ADJECTIVE
+#### WEKA
 *([nimi suli poka](#adjective) nasin)*
 
 As [ɴᴏᴜɴ](#noun)s, ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo" with a ꜱᴘᴀᴛɪᴀʟ connotation.
@@ -186,7 +186,7 @@ As [ɴᴏᴜɴ](#noun)s, ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner → ɴᴏᴜɴ innards |
 
-#### LIFE-FORM ADJECTIVE
+#### SIJELO
 *([nimi suli poka](#adjective) sijelo)*
 
 As [ɴᴏᴜɴ](#noun)s, ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo" meaning "life-form". However, they are rarely used as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Therefore, as ᴀᴅᴊᴇᴄᴛɪᴠᴇs they seem to imply "sama", refering to the ɴᴏᴜɴ form.
