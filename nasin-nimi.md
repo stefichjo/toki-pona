@@ -23,8 +23,8 @@ This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. 
 The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts-of-speech)es exist:
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
-  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**jan-ɴᴏᴜɴ**](#jan-noun), [**ilo-ɴᴏᴜɴ**](#ilo-noun)
-  * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective): [**ijo-ɴᴏᴜɴ**](#ijo-noun) ([**ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#number-adjective), [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#spatial-adjective), [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#life-form-adjective)), [**ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#time-adjective)
+  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**jan-ɴᴏᴜɴ**](#jan-noun), [**ilo-ɴᴏᴜɴ**](#ilo-noun), [**ijo-ɴᴏᴜɴ**](#ijo-noun) ([**ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#number-adjective), [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#spatial-adjective), [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#life-form-adjective)), [**ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#time-adjective)
+  * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective)
   * [**ᴠᴇʀʙ**](#verb): [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
   * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
@@ -425,6 +425,7 @@ When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can
 | *The men know things/that/it.* ⇒ *The men know.* |
 
 ## CONJUNCTION
+*([nimi lili](#particle) insa)*
 
 | |
 |:-|
@@ -433,10 +434,10 @@ When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can
 | [**ɪꜰ-ᴛʜᴇɴ**](#if-then) |
 
 ### AND
-*([nimi lili](#particle) luka "en")*
+*([nimi lili insa](#conjunction) "en")*
 
 ### OR
-*([nimi lili](#particle) luka "anu")*
+*([nimi lili insa](#conjunction) "anu")*
 
 By means of "anu seme" one can express a yes-no-question. In this case "seme" is an alternative [predicate](#predicate) to "mama".
 
@@ -445,7 +446,7 @@ By means of "anu seme" one can express a yes-no-question. In this case "seme" is
 | *Is she a parent?* |
 
 ### IF-THEN
-*([nimi lili](#particle) luka "la")*
+*([nimi lili insa](#conjunction) "la")*
 
 By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", one can start a ꜱᴇɴᴛᴇɴᴄᴇ with a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition), i.e. a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ.
 
