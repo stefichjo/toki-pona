@@ -24,9 +24,7 @@ The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
   * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**jan-ɴᴏᴜɴ**](#jan-noun), [**ilo-ɴᴏᴜɴ**](#ilo-noun), [**ijo-ɴᴏᴜɴ**](#ijo-noun) ([**ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#number-adjective), [**ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#spatial-adjective), [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#life-form-adjective)), [**ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#time-adjective)
-  * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective)
-  * [**ᴠᴇʀʙ**](#verb): [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
-  * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
+  * [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier): [**ᴠᴇʀʙ**](#verb), [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb), [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ**](#mood), [**ᴄᴀꜱᴇ**](#case)
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
@@ -74,7 +72,7 @@ The ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation.
 | somewhere |
 
 ### PRONOUN
-*([nimi suli lawa](#noun) palisa)*
+*([nimi suli lawa](#noun) sama)*
 
 ᴘʀᴏɴᴏᴜɴs are ɴᴏᴜɴs that refer to the speaker, the listener or a third person (or object).
 
@@ -100,12 +98,8 @@ ilo-ɴᴏᴜɴs imply **ilo**. As a [ᴠᴇʀʙ](#verb), they imply *usage*.
 |:-|
 | ɴᴏᴜɴ *eye* → ᴠᴇʀʙ *to see* |
 
-## ADJECTIVE
+## MODIFIER
 *([nimi suli](#content-word) poka)*
-
-| |
-|:-|
-| [ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#time-adjective) |
 
 An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun).
 
@@ -217,15 +211,6 @@ As [ɴᴏᴜɴ](#noun)s, ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs impl
 | (ᴛᴇᴘᴀɴ) ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ akesi ⇒ (ᴘᴏɴᴀ) ᴀᴅᴊᴇᴄᴛɪᴠᴇ ~~sama~~ akesi |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded, reptile-like → ɴᴏᴜɴ reptile |
-
-### TIME ADJECTIVE
-*([nimi suli poka](#adjective) tenpo)*
-
-As [ɴᴏᴜɴ](#noun)s, the ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ "sike" implies "tenpo".
-
-| ᴛɪᴍᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ sike |
-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cyclic* → ɴᴏᴜɴ *cycle* |
 
 ## VERB
 *([nimi suli](#content-word) wawa)*
