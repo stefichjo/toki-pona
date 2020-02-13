@@ -23,7 +23,7 @@ This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. 
 The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts-of-speech)es exist:
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
-  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ᴊᴀɴ**](#jan), [**ɪʟᴏ**](#ilo), [**ɪᴊᴏ**](#ijo) ([**ɴᴀɴᴘᴀ**](#nanpa), [**ᴡᴇᴋᴀ**](#weka), [**ꜱɪᴊᴇʟᴏ**](#sijelo))
+  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ᴊᴀɴ**](#jan), [**ɪʟᴏ**](#ilo), [**ɪᴊᴏ**](#ijo) ([**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ɴᴀɴᴘᴀ**](#nanpa), [**ᴡᴇᴋᴀ**](#weka), [**ꜱɪᴊᴇʟᴏ**](#sijelo))
   * [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier): [**ᴠᴇʀʙ**](#verb), [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb), [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ**](#mood), [**ᴄᴀꜱᴇ**](#case)
@@ -101,6 +101,7 @@ ilo-ɴᴏᴜɴs imply **ilo**. As a [ᴠᴇʀʙ](#verb), they imply *usage*.
 
 | |
 |:-|
+| [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) |
 | [ɴᴀɴᴘᴀ](#nanpa) |
 | [ᴡᴇᴋᴀ](#weka) |
 | [ꜱɪᴊᴇʟᴏ](#sijelo) |
@@ -117,29 +118,8 @@ All [ɴᴏᴜɴ](#noun)s can imply food.
 |:-|:-|
 | ɴᴏᴜɴ water → beverage| ɴᴏᴜɴ fish → seefood |
 
-#### NANPA
-*([nimi suli lawa ijo](#ijo) nanpa)*
-
-| |
-|:-|
-| [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) |
-| [ᴀʀᴛɪᴄʟᴇ](#article) |
-| [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause) |
-
-As [ɴᴏᴜɴ](#noun)s, ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo" meaning "amount".
-
-| ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇs ala |
-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *zero* → ɴᴏᴜɴ *zero* |
-
-ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇs can be used as [ɴᴀᴍᴇ](#name)s after "nanpa".
-
-| sina nanpa wan. |
-|:-|
-| *You're number one.* |
-
-##### CORRELATIVE
-*([nimi suli poka ijo](#ijo-noun) palisa)*
+#### CORRELATIVE
+*([nimi suli lawa ijo](#ijo) sama)*
 
 As [ɴᴏᴜɴ](#noun)s, ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs imply "ijo".
 
@@ -153,18 +133,6 @@ In a [genitive](#genitive) ᴄʟᴀᴜꜱᴇ, "ijo" before a ᴄᴏʀʀᴇʟᴀ�
 |:-|:-|
 | *parent of everything* | *every parent* |
 
-##### ARTICLE
-*([nimi suli poka ijo](#ijo-noun) sona)*
-
-There are no ᴀʀᴛɪᴄʟᴇs in **Toki Pona**.
-
-| jan lawa |
-|:-|
-| *a/the ruler* |
-
-##### SUBORDINATE CLAUSE
-*(mute [nimi](#toki-pona-word-classes-and-parts-of-speech) poka)*
-
 A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ describing or modifying a word (usually the [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) "ni") in another ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | mi sona e ni: mi anpa. |
@@ -176,6 +144,21 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 | wile sona nanpa wan li ni: ale li pona anu ike? |
 |:-|
 | *The question number one is whether the universe is good or evil.* |
+
+#### NANPA
+*([nimi suli lawa ijo](#ijo) nanpa)*
+
+As [ɴᴏᴜɴ](#noun)s, ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo" meaning "amount".
+
+| ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇs ala |
+|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *zero* → ɴᴏᴜɴ *zero* |
+
+ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇs can be used as [ɴᴀᴍᴇ](#name)s after "nanpa".
+
+| sina nanpa wan. |
+|:-|
+| *You're number one.* |
 
 #### WEKA
 *([nimi suli lawa ijo](#ijo) weka)*
