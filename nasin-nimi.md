@@ -28,9 +28,9 @@ The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts
   * [**ᴠᴇʀʙ**](#verb): [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
   * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
-  * [**ꜱᴏᴜɴᴅ**](#sound): [**ɴᴀᴍᴇ**](#name), [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection)
   * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ**](#mood), [**ᴄᴀꜱᴇ**](#case)
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
+  * [**ꜱᴏᴜɴᴅ**](#sound): [**ɴᴀᴍᴇ**](#name), [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection)
 
 They determine how (and if) a word can be used as one or more of these ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ:
 
@@ -291,60 +291,9 @@ A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can
 
 | |
 |:-|
-| [ꜱᴏᴜɴᴅ](#sound) |
 | [ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ](#phrase-marker) |
 | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction) |
-
-## SOUND
-*([nimi lili](#particle) kalama)*
-
-### NAME
-*([nimi lili](#particle) nimi)*
-
-ɴᴀᴍᴇs are tokiponized names or sounds. They always follow a [ɴᴏᴜɴ](#noun). When "pi nimi (pi kalama)" can be infered, **quotation marks** can be omitted.
-
-| ona li jo e nimi "Sonja". | ona li jan pi nimi "Sonja". ⇒ ona li jan Sonja |
-|:-|:-|
-| *She has the name "Sonja".* | *She is the person called "Sonja".* ⇒ *She is Sonja.* |
-
-[ꜱᴏɴᴊᴀ](sonja.md#the-gospel) removes the **quotations marks**, when the sense remains the same.
-
-| (ᴘᴜ) tan seme la sina pana e nimi "pona" tawa mi? ⇒ (ꜱᴏɴᴊᴀ) tan seme la sina pana e nimi pona tawa mi? |
-|:-|
-| *Why do you call me good?* |
-
-[ꜱᴏɴᴊᴀ](sonja.md#lesson-12) removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#number-adjective). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ.
-
-| toki pi nanpa wan → toki nanpa wan |
-|:-|
-| *the language with the number one*, *the language of the first turn* → *the language number one* |
-
-### INTERJECTION
-*([nimi lili](#particle) pilin)*
-
-ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs are ɴᴀᴍᴇs that imitate a sound. ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs can be used as [ᴠᴇʀʙ](#verb)s meaning "to produce that sound".
-
-| soweli li kalama "mu". ⇒ soweli li mu. | ona li kute e kalama "mu" wawa. ⇒ ona li kute e mu wawa. |
-|:-|:-|
-| *The animal bleats.* | *She heard a loud bleat.* |
-
-Proper names can be thought of as ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs, i.e. as imitations of the sound of a name. Therefore, "nimi" meaning "kalama" can be omitted.
-
-| nimi ona li nimi "Sonja". ⇒ nimi ona li Sonja. |
-|:-|
-| *Her name is the name "Sonja".* → *Her name goes "Sonja".*, *Her name is Sonja.* |
-
-One can use ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as a whole ꜱᴇɴᴛᴇɴᴄᴇ.
-
-| a! |
-|:-|
-| *Ha!*, *Wow!* |
-
-As the opposite of "ala", the affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" can be safely removed. The comma between a subsequent sentence consisting only of the ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" can therefore be safely removed.
-
-| (ᴜɴ-ᴘᴏɴᴀ) ni li lon a. ⇒ (ᴘᴏɴᴀ) ni li lon. | (ᴜɴ-ᴘᴏɴᴀ) sina suli, a! ⇒ (ᴘᴏɴᴀ) sina suli a! |
-|:-|:-|
-| *This does exist.* → *This is true.* | *You're tall, wow!* |
+| [ꜱᴏᴜɴᴅ](#sound) |
 
 ## PHRASE MARKER
 *([nimi lili](#particle) lawa)*
@@ -465,4 +414,55 @@ Before **la**, **ni** in front of a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜ�
 | (ᴜɴ-ᴘᴜ) lon ni: mi pona tawa jan, la jan li pona tawa mi. ⇒ (ᴘᴜ) mi pona tawa jan, la jan li pona tawa mi. |
 |:-|
 | *If I'm good to people, people are good to me.* |
+
+## SOUND
+*([nimi lili](#particle) poka)*
+
+### NAME
+*([nimi lili poka](#sound) nimi)*
+
+ɴᴀᴍᴇs are tokiponized names or sounds. They always follow a [ɴᴏᴜɴ](#noun). When "pi nimi (pi kalama)" can be infered, **quotation marks** can be omitted.
+
+| ona li jo e nimi "Sonja". | ona li jan pi nimi "Sonja". ⇒ ona li jan Sonja |
+|:-|:-|
+| *She has the name "Sonja".* | *She is the person called "Sonja".* ⇒ *She is Sonja.* |
+
+[ꜱᴏɴᴊᴀ](sonja.md#the-gospel) removes the **quotations marks**, when the sense remains the same.
+
+| (ᴘᴜ) tan seme la sina pana e nimi "pona" tawa mi? ⇒ (ꜱᴏɴᴊᴀ) tan seme la sina pana e nimi pona tawa mi? |
+|:-|
+| *Why do you call me good?* |
+
+[ꜱᴏɴᴊᴀ](sonja.md#lesson-12) removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#number-adjective). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ.
+
+| toki pi nanpa wan → toki nanpa wan |
+|:-|
+| *the language with the number one*, *the language of the first turn* → *the language number one* |
+
+### INTERJECTION
+*([nimi lili poka](#sound) toki)*
+
+ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs are ɴᴀᴍᴇs that imitate a sound. ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs can be used as [ᴠᴇʀʙ](#verb)s meaning "to produce that sound".
+
+| soweli li kalama "mu". ⇒ soweli li mu. | ona li kute e kalama "mu" wawa. ⇒ ona li kute e mu wawa. |
+|:-|:-|
+| *The animal bleats.* | *She heard a loud bleat.* |
+
+Proper names can be thought of as ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs, i.e. as imitations of the sound of a name. Therefore, "nimi" meaning "kalama" can be omitted.
+
+| nimi ona li nimi "Sonja". ⇒ nimi ona li Sonja. |
+|:-|
+| *Her name is the name "Sonja".* → *Her name goes "Sonja".*, *Her name is Sonja.* |
+
+One can use ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as a whole ꜱᴇɴᴛᴇɴᴄᴇ.
+
+| a! |
+|:-|
+| *Ha!*, *Wow!* |
+
+As the opposite of "ala", the affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" can be safely removed. The comma between a subsequent sentence consisting only of the ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" can therefore be safely removed.
+
+| (ᴜɴ-ᴘᴏɴᴀ) ni li lon a. ⇒ (ᴘᴏɴᴀ) ni li lon. | (ᴜɴ-ᴘᴏɴᴀ) sina suli, a! ⇒ (ᴘᴏɴᴀ) sina suli a! |
+|:-|:-|
+| *This does exist.* → *This is true.* | *You're tall, wow!* |
 
