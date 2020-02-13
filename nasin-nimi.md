@@ -202,6 +202,7 @@ As [ɴᴏᴜɴ](#noun)s, ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs impl
 |:-|
 | [ᴠᴇʀʙ](#verb) |
 | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
+| [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
 
 An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun).
 
