@@ -23,7 +23,7 @@ This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. 
 The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts-of-speech)es exist:
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
-  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**jan-ɴᴏᴜɴ**](#jan-noun), [**ilo-ɴᴏᴜɴ**](#ilo-noun), [**ijo-ɴᴏᴜɴ**](#ijo-noun) ([**nanpa-ɴᴏᴜɴ**](#nanpa-noun), [**weka-ɴᴏᴜɴ**](#weka-noun), [**sijelo-ɴᴏᴜɴ**](#sijelo-noun))
+  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ᴊᴀɴ**](#jan), [**ɪʟᴏ**](#ilo), [**ɪᴊᴏ**](#ijo) ([**ɴᴀɴᴘᴀ**](#nanpa), [**ᴡᴇᴋᴀ**](#weka), [**ꜱɪᴊᴇʟᴏ**](#sijelo))
   * [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier): [**ᴠᴇʀʙ**](#verb), [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb), [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ**](#mood), [**ᴄᴀꜱᴇ**](#case)
