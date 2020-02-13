@@ -118,7 +118,7 @@ All [ɴᴏᴜɴ](#noun)s can imply food.
 | ɴᴏᴜɴ water → beverage| ɴᴏᴜɴ fish → seefood |
 
 #### NANPA
-*([nimi suli poka ijo](#ijo-noun) nanpa)*
+*([nimi suli lawa ijo](#ijo) nanpa)*
 
 | |
 |:-|
@@ -178,7 +178,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 | *The question number one is whether the universe is good or evil.* |
 
 #### WEKA
-*([nimi suli poka](#adjective) nasin)*
+*([nimi suli lawa ijo](#ijo) weka)*
 
 As [ɴᴏᴜɴ](#noun)s, ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo" with a ꜱᴘᴀᴛɪᴀʟ connotation.
 
@@ -187,7 +187,7 @@ As [ɴᴏᴜɴ](#noun)s, ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner → ɴᴏᴜɴ innards |
 
 #### SIJELO
-*([nimi suli poka](#adjective) sijelo)*
+*([nimi suli lawa ijo](#ijo) sijelo)*
 
 As [ɴᴏᴜɴ](#noun)s, ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo" meaning "life-form". However, they are rarely used as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Therefore, as ᴀᴅᴊᴇᴄᴛɪᴠᴇs they seem to imply "sama", refering to the ɴᴏᴜɴ form.
 
