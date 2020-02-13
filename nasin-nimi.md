@@ -347,7 +347,7 @@ As the opposite of "ala", the affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" ca
 | *This does exist.* → *This is true.* | *You're tall, wow!* |
 
 ## PHRASE MARKER
-*([nimi lili](#particle) luka pi mute nimi)*
+*([nimi lili](#particle) lawa)*
 
 | |
 |:-|
@@ -357,7 +357,7 @@ As the opposite of "ala", the affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" ca
 ### Mood
 
 #### Indicative Mood
-*([nimi lili](#particle) luka "li")*
+*([nimi lili lawa](#phrase-marker) "li")*
 
 If the **subject** is just "mi" or "sina", the ᴘᴀʀᴛɪᴄʟᴇ "li" is omitted.
 
@@ -378,7 +378,7 @@ When there is enough context, the **subject** of a ꜱᴇɴᴛᴇɴᴄᴇ can be
 | *She is a parent.* → *Yes.* | *She is not a parent.* → *No.* |
 
 #### Volative, Vocative and Imperative Mood
-*([nimi lili](#particle) luka "o")*
+*([nimi lili lawa](#phrase-marker) "o")*
 
 "sina" can be omitted before the ᴘᴀʀᴛɪᴄʟᴇ "o".
 
@@ -401,7 +401,7 @@ A **volative** can be expressed by just mentioning the **direct object** (i.e. t
 ### Case
 
 #### Genitive Case
-*([nimi lili](#particle) luka "pi")*
+*([nimi lili lawa](#phrase-marker) "pi")*
 
 If a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (or [ᴀᴅᴊᴇᴄᴛɪᴠᴇ-ᴘʜʀᴀꜱᴇ](#adjective), or **"pi"**-phrase) contains only one [ɴᴏᴜɴ](#noun), the ᴘᴀʀᴛɪᴄʟᴇ "pi" is omitted and the phrase becomes an [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective).
 
@@ -410,7 +410,7 @@ If a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (or [ᴀᴅᴊᴇᴄᴛɪ
 | *a person of much good* → *a very good person* | *a language of good* → *a good language* |
 
 #### Accusative Case
-*([nimi lili](#particle) luka "e")*
+*([nimi lili lawa](#phrase-marker) "e")*
 
 Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates** can have **direct objects**. Their **commas** can be safely omitted.
 
