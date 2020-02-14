@@ -160,7 +160,7 @@ As [ɴᴏᴜɴ](#noun)s, ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo"
 | *You're number one.* |
 
 #### AREA
-*([nimi suli lawa ijo](#thing) weka)*
+*([nimi suli lawa ijo](#thing) ma)*
 
 As [ɴᴏᴜɴ](#noun)s, ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo" with a ꜱᴘᴀᴛɪᴀʟ connotation.
 
