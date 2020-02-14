@@ -25,6 +25,8 @@ The ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used after ᴘʀᴇᴘᴏꜱɪ�
 
 ### Nesting
 
+#### pi
+
 Both subsequent and nested **"pi"**-phrases are possible.
 
 | (ᴛᴇᴘᴀɴ) nimi pi jan pona, pi toki pona li ... ⇒ (ᴘᴏɴᴀ) nimi ni pi jan pona li lon toki pona: ona li ... |
@@ -34,6 +36,8 @@ Both subsequent and nested **"pi"**-phrases are possible.
 | (ᴛᴇᴘᴀɴ) ona li jo e tomo pi telo nasa pi ma ante. ⇒ (ᴘᴏɴᴀ) ona li jo e telo pi telo nasa. telo nasa li tan ma ante. |
 |:-|
 | *She has a house of imported beer.* ⇒ *She has a bar. The beer is imported.* |
+
+#### Prepositions
 
 Both subsequent and nested ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are possible.
 
@@ -45,7 +49,13 @@ Both subsequent and nested ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are possible.
 |:-|
 | *I'm giving away fish in a house in a different town.* |
 
-### Relative Clauses
+#### Sentences
+
+A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can describe a *degree* or an *extent*.
+
+| (ᴛᴇᴘᴀɴ) mi pali pi mute ni: mi wile lape. ⇒ (ᴘᴏɴᴀ) mi pali mute. tan ni la mi wile lape. |
+|:-|
+| *I worked so much, I need to sleep.* |
 
 A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question with **seme**, yielding a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ.
 
