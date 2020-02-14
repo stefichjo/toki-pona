@@ -27,13 +27,23 @@ The ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used after ᴘʀᴇᴘᴏꜱɪ�
 
 Both subsequent and nested **"pi"**-phrases are possible.
 
+| (ᴛᴇᴘᴀɴ) nimi pi jan pona, pi toki pona li ... ⇒ (ᴘᴏɴᴀ) nimi ni pi jan pona li lon toki pona: ona li ... |
+|:-|
+| *a friend's Toki Pona name* |
+
 | (ᴛᴇᴘᴀɴ) ona li jo e tomo pi telo nasa pi ma ante. ⇒ (ᴘᴏɴᴀ) ona li jo e telo pi telo nasa. telo nasa li tan ma ante. |
 |:-|
 | *She has a house of imported beer.* ⇒ *She has a bar. The beer is imported.* |
 
-| (ᴛᴇᴘᴀɴ) nimi pi jan pona, pi toki pona li ... ⇒ (ᴘᴏɴᴀ) nimi ni pi jan pona li lon toki pona: ona li ... |
+Both subsequent and nested ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are possible.
+
+| (ᴛᴇᴘᴀɴ) mi pana e kala lon tomo lon ma tomo ante. ⇒ (ᴘᴏɴᴀ) mi pana e kala lon tomo pi ma tomo ante. |
 |:-|
-| *a friend's Toki Pona name* |
+| *I'm giving away fish in a house of a different town.* |
+
+| (ᴛᴇᴘᴀɴ) mi pana e kala lon tomo, lon ma tomo ante. ⇒ (ᴘᴏɴᴀ) mi pana e kala lon tomo lon ma tomo ante. |
+|:-|
+| *I'm giving away fish in a house in a different town.* |
 
 ### Relative Clauses
 
