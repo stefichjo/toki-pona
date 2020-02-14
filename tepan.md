@@ -11,19 +11,13 @@
 
 ### Contexts
 
-ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used in headlines/titles.
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs and the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used in contexts, i.e. outside of ordinary sentence structures.
 
-| weka lon toki ante |
-|:-|
-| *Lost in Translation* |
+| weka lon toki ante | utala en pona |
+|:-|:-|
+| *Lost in Translation* | *War and Peace* |
 
-Assuming that ꜱᴏɴᴊᴀ conflates ꜱᴜʙᴊᴇᴄᴛs with ɴᴏᴍɪɴᴀᴛɪᴠᴇ ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs, **en** can be used in headlines/titles.
-
-| utala en pona |
-|:-|
-| *War and Peace* |
-
-Assuming that ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs after ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs would be in the ɴᴏᴍɪɴᴀᴛɪᴠᴇ case, **en** can be used after ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.
+The ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used after ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.
 
 | ona li kama lon tenpo suno pini en tenpo suno kama. ⇒ tenpo suno pini en tenpo suno kama la ona li kama. |
 |:-|
@@ -113,6 +107,7 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](n
 | **mun** | *night sky object* | *sky-walking* |
 | **nanpa** | ... | *current* |
 | **nasin** | *custom* | *usual* |
+| **tenpo** | *time* | *temporary* |
 
 #### Body Parts
 
