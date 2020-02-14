@@ -9,7 +9,13 @@
 
 ## Grammar Extensions
 
-### en
+### Contexts
+
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used in headlines/titles.
+
+| weka lon toki ante |
+|:-|
+| *Lost in Translation* |
 
 Assuming that ꜱᴏɴᴊᴀ conflates ꜱᴜʙᴊᴇᴄᴛs with ɴᴏᴍɪɴᴀᴛɪᴠᴇ ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs, **en** can be used in headlines/titles.
 
