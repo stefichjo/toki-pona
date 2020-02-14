@@ -37,7 +37,6 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 * ᴠᴇʀʙ
 * ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ
 * ᴘᴀʀᴛɪᴄʟᴇ
-* ꜱᴇɴᴛᴇɴᴄᴇ
 
 # CONTENT WORD
 *([nimi](#toki-pona-word-classes-and-parts-of-speech) suli)*
