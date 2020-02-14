@@ -126,7 +126,7 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](n
 | **mani** | *large domesticated animal*; *money* | *domesticated*, *mined*; *valuable* |
 | **mun** | *night sky object* | *sky-walking* |
 | **nanpa** | ... | *current* |
-| **nasin** | *custom* | *usual* |
+| **nasin** | *custom* | *ordinary*, *usual* |
 | **tenpo** | *time* | *temporary* |
 
 #### Body Parts
@@ -149,7 +149,7 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](n
 | **linja** | *long and flexible thing* | *long and flexible* |
 | **lipu** | *flat object* | *flat*, *thin* |
 | **lupa** | *hole* | *hollow* |
-| **ma** | *land* | *vast* |
+| **ma** | *land* | *firm* |
 | **nena** | *protuberance* | *outstanding*, *thick* |
 | **palisa** | *long hard thing* | *long and hard* |
 
