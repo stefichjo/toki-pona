@@ -23,7 +23,7 @@ This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. 
 The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts-of-speech)es exist:
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
-  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ᴊᴀɴ**](#jan), [**ɪʟᴏ**](#ilo), [**ɪᴊᴏ**](#ijo) ([**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ɴᴀɴᴘᴀ**](#nanpa), [**ᴡᴇᴋᴀ**](#weka), [**ꜱɪᴊᴇʟᴏ**](#sijelo))
+  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴛᴏᴏʟ**](#tool), [**ᴛʜɪɴɢ**](#thing) ([**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ɴᴜᴍʙᴇʀ**](#number), [**ᴀʀᴇᴀ**](#area), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form))
   * [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier): [**ᴠᴇʀʙ**](#verb), [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb), [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ**](#mood), [**ᴄᴀꜱᴇ**](#case)
@@ -52,9 +52,9 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 | |
 |:-|
 | [ᴘʀᴏɴᴏᴜɴ](#pronoun) |
-| [ᴊᴀɴ](#jan) |
-| [ɪʟᴏ](#ilo) |
-| [ɪᴊᴏ](#ijo) |
+| [ᴘᴇʀꜱᴏɴ](#person) |
+| [ᴛᴏᴏʟ](#tool) |
+| [ᴛʜɪɴɢ](#thing) |
 
 Simple ɴᴏᴜɴs don't have an additional meaning as ᴀᴅᴊᴇᴄᴛɪᴠᴇs (or ᴠᴇʀʙs).
 
@@ -77,7 +77,7 @@ The ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation.
 |:-|
 | ɴᴏᴜɴ you → ᴀᴅᴊᴇᴄᴛɪᴠᴇ your |
 
-### JAN
+### PERSON
 *([nimi suli lawa](#noun) jan)*
 
 jan-ɴᴏᴜɴs imply **jan**.
@@ -86,7 +86,7 @@ jan-ɴᴏᴜɴs imply **jan**.
 |:-|
 | ɴᴏᴜɴ *somebody female* → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* |
 
-### ILO
+### TOOL
 *([nimi suli lawa](#noun) ilo)*
 
 ilo-ɴᴏᴜɴs imply **ilo**. As a [ᴠᴇʀʙ](#verb), they imply *usage*.
@@ -95,15 +95,15 @@ ilo-ɴᴏᴜɴs imply **ilo**. As a [ᴠᴇʀʙ](#verb), they imply *usage*.
 |:-|
 | ɴᴏᴜɴ *eye* → ᴠᴇʀʙ *to see* |
 
-### IJO
+### THING
 *([nimi suli lawa](#noun) ijo)*
 
 | |
 |:-|
 | [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) |
-| [ɴᴀɴᴘᴀ](#nanpa) |
-| [ᴡᴇᴋᴀ](#weka) |
-| [ꜱɪᴊᴇʟᴏ](#sijelo) |
+| [ɴᴜᴍʙᴇʀ](#number) |
+| [ᴀʀᴇᴀ](#area) |
+| [ʟɪꜰᴇ-ꜰᴏʀᴍ](#life-form) |
 
 As [ɴᴏᴜɴ](#noun)s, ijo-ɴᴏᴜɴs imply "ijo".
 
@@ -118,7 +118,7 @@ All [ɴᴏᴜɴ](#noun)s can imply food.
 | ɴᴏᴜɴ water → beverage| ɴᴏᴜɴ fish → seefood |
 
 #### CORRELATIVE
-*([nimi suli lawa ijo](#ijo) sama)*
+*([nimi suli lawa ijo](#thing) sama)*
 
 As [ɴᴏᴜɴ](#noun)s, ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs imply "ijo".
 
@@ -144,8 +144,8 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 |:-|
 | *The question number one is whether the universe is good or evil.* |
 
-#### NANPA
-*([nimi suli lawa ijo](#ijo) nanpa)*
+#### NUMBER
+*([nimi suli lawa ijo](#thing) nanpa)*
 
 As [ɴᴏᴜɴ](#noun)s, ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo" meaning "amount".
 
@@ -159,8 +159,8 @@ As [ɴᴏᴜɴ](#noun)s, ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo"
 |:-|
 | *You're number one.* |
 
-#### WEKA
-*([nimi suli lawa ijo](#ijo) weka)*
+#### AREA
+*([nimi suli lawa ijo](#thing) weka)*
 
 As [ɴᴏᴜɴ](#noun)s, ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo" with a ꜱᴘᴀᴛɪᴀʟ connotation.
 
@@ -168,8 +168,8 @@ As [ɴᴏᴜɴ](#noun)s, ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner → ɴᴏᴜɴ innards |
 
-#### SIJELO
-*([nimi suli lawa ijo](#ijo) sijelo)*
+#### LIFE-FORM
+*([nimi suli lawa ijo](#thing) sijelo)*
 
 As [ɴᴏᴜɴ](#noun)s, ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo" meaning "life-form". However, they are rarely used as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Therefore, as ᴀᴅᴊᴇᴄᴛɪᴠᴇs they seem to imply "sama", refering to the ɴᴏᴜɴ form.
 
@@ -404,7 +404,7 @@ Before **la**, **ni** in front of a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜ�
 |:-|
 | *Why do you call me good?* |
 
-[ꜱᴏɴᴊᴀ](sonja.md#lesson-12) removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#nanpa). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ.
+[ꜱᴏɴᴊᴀ](sonja.md#lesson-12) removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ.
 
 | toki pi nanpa wan → toki nanpa wan |
 |:-|
