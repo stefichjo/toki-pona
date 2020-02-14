@@ -315,7 +315,7 @@ When there is enough context, the **subject** of a ꜱᴇɴᴛᴇɴᴄᴇ can be
 
 A **volative** can be expressed by just mentioning the **direct object** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "e") of a wish.
 
-| ni o kama: sina jo e moku pona. → moku pona! |
+| sina o jo e moku pona. → moku pona! |
 |:-|
 | *May you have a good meal.* → *Bon appétit!* |
 
