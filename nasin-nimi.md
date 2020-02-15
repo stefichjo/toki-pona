@@ -3,6 +3,11 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
+| |
+|:-|
+| [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) |
+| [ᴘᴀʀᴛɪᴄʟᴇ](#particle) |
+
 This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. ᴘᴜ rules enforce the omission of words:
 
 | (ᴜɴ-ᴘᴜ) toki pi pona ⇒  (ᴘᴜ) toki pona |
@@ -14,11 +19,6 @@ This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. 
 | (ᴜɴ-ᴘᴏɴᴀ) mi wile e ona o musi. ⇒ (ᴘᴏɴᴀ) mi wile e ni: ona li musi. |
 |:-|
 | *I want her to play.* |
-
-| |
-|:-|
-| [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) |
-| [ᴘᴀʀᴛɪᴄʟᴇ](#particle) |
 
 The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts-of-speech)es exist:
 
