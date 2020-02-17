@@ -17,9 +17,9 @@ Members of the same ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ belong to the same [**ᴡᴏʀ�
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/pona.png" height="50" title="bona"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) **pona** – ike, nasa, pakala, utala |
-| <img src="sitelen/pona/ike.png" height="50" title="ilkea"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) pona — **ike**, nasa, pakala, utala |
-| <img src="sitelen/pona/nasa.png" height="50" title="nasau"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) pona — ike, **nasa**, pakala, utala |
+| <img src="sitelen/pona/pona.png" height="50" title="bona"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) **pona** – *ike*, *nasa*, *pakala*, *utala* |
+| <img src="sitelen/pona/ike.png" height="50" title="ilkea"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *pona* — **ike**, *nasa*, *pakala*, *utala* |
+| <img src="sitelen/pona/nasa.png" height="50" title="nasau"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *pona* — *ike*, **nasa**, *pakala*, *utala* |
 | <img src="sitelen/pona/pakala.png" height="50" title="bagar-ap"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) pona — ike, nasa, **pakala**, utala |
 | <img src="sitelen/pona/utala.png" height="50" title="udara"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) pona — ike, nasa, pakala, **utala** |
 
