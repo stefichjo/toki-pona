@@ -2,9 +2,9 @@
 
 | |
 |:-|
-| [Grammatical Extensions](#grammar-extensions) |
+| [Grammatical Extensions](#grammar-extensions): [Contexts](#contexts), [Nestings](#nestings), [Passive](#passive) |
 | [Semantic Extensions](#semantic-extensions) |
-| [Word Class Extensions](#word-class-extensions) |
+| [Word-Class Extensions](#word-class-extensions) |
 | [De-Conflations](#de-conflations) |
 
 ## Grammar Extensions
@@ -23,7 +23,7 @@ The ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used after ᴘʀᴇᴘᴏꜱɪ�
 |:-|
 | *She came yesterday and will come tomorrow.* |
 
-### Nesting
+### Nestings
 
 #### pi
 
@@ -93,7 +93,7 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 | **monsi** | *back* | *backbone* |
 | **pan** | *cereal*, *grain*; *barley*, *corn*, *oat*, *rice*, *wheat*; *bread*, *pasta* | *seed* |
 
-## Word Class Extensions
+## Word-Class Extensions
 
 ### Particles
 
@@ -107,9 +107,9 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 
 ### Adjectives
 
-Many [ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](nasin-nimi.md#simple-adjective)s can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](nasin-nimi.md#thing-adjective)s, i.e. when turned into ɴᴏᴜɴs, they imply a specific **ijo**.
+Many [ᴍᴏᴅɪꜰɪᴇʀ](nasin-nimi.md#modifier)s can be thought of as [ᴛʜɪɴɢ](nasin-nimi.md#thing)s, i.e. when turned into ɴᴏᴜɴs, they imply a specific **ijo**.
 
-| ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ → ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ |
+| ᴍᴏᴅɪꜰɪᴇʀ → ᴛʜɪɴɢ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ |
 |:-|:-|:-|
 | **jaki** | *toxic*, *unclean* | *dirt*, *poison*, *waste* |
 | **lete** | *cold* | *frost*, *ice* |
@@ -119,31 +119,31 @@ Many [ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](nasin-nimi.md#simple-adjectiv
 
 ### Nouns
 
-Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](nasin-nimi.md#thing-adjective)s, i.e. they imply a specific **ijo** and have a less specific meaning as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
+Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ](nasin-nimi.md#thing)s, i.e. they imply a specific **ijo** and have a less specific meaning as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
 
-| ɴᴏᴜɴ → ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+| ɴᴏᴜɴ → ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **kulupu** | *community* | *reciprocal* |
 | **mani** | *large domesticated animal*; *money* | *domesticated*, *mined*; *valuable* |
 | **mun** | *night sky object* | *sky-walking* |
 | **nanpa** | ... | *current* |
 | **nasin** | *custom* | *ordinary*, *usual* |
+| **pan** | *seed* | *falling* |
 | **tenpo** | *time* | *temporary* |
 
 #### Body Parts
 
-| ɴᴏᴜɴ → ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+| ɴᴏᴜɴ → ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **kili** | *fruit* | *hanging* |
 | **monsi** | *back* | *dorsal*; *endorsing* |
-| **pan** | ... | *falling* |
 | **poka** | *side* | *lateral* |
 | **sijelo** | *body*, *physical state* | *alive* |
 | **sinpin** | *front* | *standing*; *blocking* |
 
 #### Forms and States
 
-| ɴᴏᴜɴ → ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+| ɴᴏᴜɴ → ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **ko** | *semi-solid* | *semi-solid* |
 | **kon** | *air* | *floating*, *hovering* |
@@ -156,7 +156,7 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](n
 
 #### Life-Forms
 
-| ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+| ʟɪꜰᴇ-ꜰᴏʀᴍ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **akesi** | *amphibian*, *reptile* | *cold-blooded* |
 | **kala** | *fish* | *diving*, *swimming* |
@@ -165,23 +165,19 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](n
 | **soweli** | *land mammal* | *warm-blooded* |
 | **waso** | *bird* | *flying*, *winging* |
 
----
+#### Areas
 
-#### Locations
-
-| ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+| ᴀʀᴇᴀ | ɴᴏᴜɴ | lon + ɴᴏᴜɴ |
 |:-|:-|:-|
-| **(lon) awen** | *duration* | *during* ... |
-| **(lon) open** | *duration* | *before*, *in the beginning* ... |
-| **(lon) pini** | *ended* | *after*, *in the end* |
-| **(lon) supa** | *horizontal surface* | *on* |
-| **(lon) weka** | *absence* | *away from* |
+| **awen** | *duration* | *during* |
+| **open** | *duration* | *before*, *in the beginning* |
+| **pini** | *ended* | *after*, *in the end* |
+| **supa** | *horizontal surface* | *on* |
+| **weka** | *absence* | *away from* |
 
-### [Number Adjective](nasin-nimi.md#number-adjective)s
+#### Numbers
 
-...
-
-| ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+| ɴᴜᴍʙᴇʀ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **esun** | *sevenfold amount* | *seven* |
 | **mute** | *threefold amount* | *three* |
@@ -192,34 +188,27 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](n
 |:-|:-|
 | *previous day*, *yesterday* | *next day*, *tomorrow* |
 
-### [Person Adjective](nasin-nimi.md#person-adjective)s
+#### Persons
 
-| ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+| ᴘᴇʀꜱᴏɴ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **mama** | *original* | *ancestor*, *parent* |
 | **meli** | *feminine* | *feminine person* |
 | **mije** | *masculine* | *masculine person* |
 
-### [Thing Verb](nasin-nimi.md#thing-verb)s
+#### Tools
 
-| ᴛʜɪɴɢ ᴠᴇʀʙ | ɴᴏᴜɴ | ᴠᴇʀʙ |
-|:-|:-|:-|
-| **nimi** | *name* | *to name* |
-| **sitelen** | *drawing* | *to draw* |
-
-### [Tool Verb](nasin-nimi.md#tool-verb)s
-
-| ᴛᴏᴏʟ ᴠᴇʀʙ | ɴᴏᴜɴ | ᴠᴇʀʙ |
+| ᴛᴏᴏʟ | ɴᴏᴜɴ | ᴠᴇʀʙ |
 |:-|:-|:-|
 | **len** | *layer of privacy* | *to hide* |
 | **luka** | *tactile organ* | *to touch*, *manipulate* |
 | **noka** | *organ of locomotion* | *to step on*, *kick* |
-| **palisa** | (*finger*) | *to point at* |
+| **palisa** | *finger* | *to point at* |
 | **poki** | *container* | *to collect* |
 | **selo** | *outer form* | *to form* |
 | **tomo** | *indoor space* | *to protect* |
 
-### [Pre-Verb](nasin-nimi.md#pre-verb)s
+### [Pre-Verbs](nasin-nimi.md#pre-verb)
 
 | ᴘʀᴇ-ᴠᴇʀʙ  | ᴠᴇʀʙ | ᴘʀᴇ-ᴠᴇʀʙ |
 |:-|:-|:-|
@@ -227,7 +216,7 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](n
 | **pilin** | *to feel* | *to feel like* |
 | **pini** | *to end* | *to stop -ing* |
 
-### [Preposition](nasin-nimi.md#preposition)s
+### [Prepositions](nasin-nimi.md#preposition)
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ |
 |:-|:-|:-|
@@ -246,4 +235,7 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](n
 | **open** | *to turn on* | **kama** | *to begin*, *start* |
 | **sewi** | *area above* | **lawa** | *highest part* |
 | **tawa** | *moving* | **tan** | *departure* |
+
+---
+
 
