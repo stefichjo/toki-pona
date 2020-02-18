@@ -220,12 +220,18 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ](nasin-nimi.md#thing)s, i.e. 
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ |
 |:-|:-|:-|
-| **ante** | *different* | *instead of* |
+| **ante** | *different* | *unlike* |
+| **esun** | *other* | *instead of* |
 | **sin** | *additional* | *in addition to* |
 | **supa** | ... | *on* |
 | **taso** | *only* | *without* |
 
 * **lon supa pi supa lape** → **lon supa lape**
+
+* ᴘᴏɴᴀ **mi kama jo e lipu lon esun.**
+* ᴛᴇᴘᴀɴ **mi kama jo e lipu esun mani.** / **mi pana e mani esun lipu.**
+* ᴜɴ-ᴘᴏɴᴀ **mi esun lipu e mani.** / **mi esun mani e lipu.** → **mi esun e lipu.**
+* ᴜɴ-ᴘᴏɴᴀ **mi pana e esun tawa** / **mi kepeken esun lon** → **mi esun e lipu.**
 
 ## De-Conflations
 

@@ -54,7 +54,7 @@ When ᴋɪᴘᴏ turns a prepositions into a noun, the noun can have the meaning
 
 ### e
 
-ᴋɪᴘᴏ turns prepositional phrases into transitive verbs. 
+ᴋɪᴘᴏ turns prepositional phrases into transitive verbs. This is unnecessarily ᴜɴ-ᴘᴏɴᴀ, but does make sense.
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
@@ -68,7 +68,7 @@ When ᴋɪᴘᴏ turns a prepositions into a noun, the noun can have the meaning
 |:-|:-|:-|
 | *foreigner*, *stranger* | **ante** | **jan pi ma ante** |
 | *preserves*, *canned goods* | **awen** | **moku awen** |
-| *news* | **sin** | (**toki**), **toki pi ijo sin** |
+| *news* | **sin** | **toki (pi ijo sin)** |
 
 When **jaki** and **pimeja** become nouns, they appear as if an **ijo** went missing. Apparently, this makes sense, if they mean something primordial (from a human perspective) like **suno**, **sewi**, **seli** and so on.
 

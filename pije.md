@@ -52,7 +52,7 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 
 ## kepeken
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona6.php) uses **kepeken** as a *transitive verb* where ꜱᴏɴᴊᴀ uses it as a *preposition*.
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona6.php) uses **kepeken** as a *transitive verb* where ꜱᴏɴᴊᴀ uses it as a *preposition*. (**kepeken e** can be analyzed as **pana e kepeken tawa** (*to give usage to*). This does make sense, but is unnecessarily ᴜɴ-ᴘᴏɴᴀ.)
 
 | | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
