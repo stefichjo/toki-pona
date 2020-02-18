@@ -34,41 +34,20 @@ This document discourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations, e.g. "
 * [**ɴᴏᴜɴ**](nasin-nimi.md#noun) *ijo*, *ilo*, *jan*
   * [**ᴘʀᴏɴᴏᴜɴ**](nasin-nimi.md#pronoun) *ona* — *mi*, *sina*
   * [**ᴘᴇʀꜱᴏɴ**](nasin-nimi.md#person) *mama* — *meli*, *mije*
-  * [**ᴛᴏᴏʟ**](nasin-nimi.md#tool) *insa*, *len*, *tomo*
-  * [**ᴛᴏᴏʟ**](nasin-nimi.md#tool) *kute*, *lawa*, *luka*, *noka*, *palisa*, *poki*, *selo*, *uta*
-  * [**ᴛᴏᴏʟ**](nasin-nimi.md#tool) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) *lukin*, *pilin*
-  * [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *jaki* — *suwi*
-  * [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *kili*, *pan*
-  * [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *kiwen*, *ko*, *kon*, *telo*
-  * [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *kulupu* — *sijelo*
-  * [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *lete* — *seli*
-  * [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *lili* — *ale*, *mani*, *mute*, *suli*, *wawa*
-  * [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *linja* — *palisa*
-  * [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *lipu*, nena, sike 
-  * [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *lupa*, *nasin*
-  * [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *ma*, *mun*
-  * [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *nanpa*, *tenpo*
-  * [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *pimeja* — *suno*
-  * [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) + [**ᴀʀᴇᴀ**](nasin-nimi.md#area) *insa* — *monsi*, *poka*, *sinpin*, *supa*
+  * [**ᴛᴏᴏʟ**](nasin-nimi.md#tool) *insa*, *len*, *tomo*; *kute*, *lawa*, *luka*, *noka*, *palisa*, *poki*, *selo*, *uta*
+  * [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *jaki* — *suwi*; *kili*, *pan*; *kiwen*, *ko*, *kon*, *telo*; *kulupu* — *sijelo*; *lete* — *seli*; *lili* — *ale*, *mani*, *mute*, *suli*, *wawa*; *linja* — *palisa*; *lipu*, nena, sike; *lupa*, *nasin*; *ma*, *mun*; *nanpa*, *tenpo*; *pimeja* — *suno*
     * [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nasin-nimi.md#correlative) *ale*, *ni*, *seme*, *wan*
     * [**ɴᴜᴍʙᴇʀ**](nasin-nimi.md#number) *ala*, *ale*, *esun*, *luka*, *mute*, *tu*, *wan*
-    * [**ᴀʀᴇᴀ**](nasin-nimi.md#area) *anpa* — *sewi*, *noka* — *lawa*
-    * [**ᴀʀᴇᴀ**](nasin-nimi.md#area) *sike* — *weka*
-    * [**ᴀʀᴇᴀ**](nasin-nimi.md#area) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) *awen*, *kama* — *pini*, *open* — *selo*
-    * [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](nasin-nimi.md#life-form) *akesi* — *soweli*
-    * [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](nasin-nimi.md#life-form) *kala*, *kasi*, *pipi*, *waso*
-* [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *jelo*, *laso*, *loje*
-* [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *kalama*, *lape*, *moli*, *musi*
-* [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *pona* — *ike*, *nasa*, *pakala*, *utala*
-* [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *walo* — *kule*, *pimeja*
-* [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) *ken*, *wile*
-  * [**ᴠᴇʀʙ**](nasin-nimi.md#verb) *alasa*, *moku*, *olin*, *pali*, *unpa*
-  * [**ᴠᴇʀʙ**](nasin-nimi.md#verb) *jo*, *pana*
-  * [**ᴠᴇʀʙ**](nasin-nimi.md#verb) *nimi*, *sitelen*, *toki*
+    * [**ᴀʀᴇᴀ**](nasin-nimi.md#area) *anpa* — *sewi*, *noka* — *lawa*; *sike* — *weka*
+      * [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) + [**ᴀʀᴇᴀ**](nasin-nimi.md#area) *insa* — *monsi*, *poka*, *sinpin*, *supa*
+    * [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](nasin-nimi.md#life-form) *akesi* — *soweli*; *kala*, *kasi*, *pipi*, *waso*
+* [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *jelo*, *laso*, *loje*; *kalama*, *lape*, *moli*, *musi*; *pona* — *ike*, *nasa*, *pakala*, *utala*; *walo* — *kule*, *pimeja*
+  * [**ᴠᴇʀʙ**](nasin-nimi.md#verb) *alasa*, *moku*, *olin*, *pali*, *unpa*; *jo*, *pana*; *nimi*, *sitelen*, *toki*
   * [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) *sona*
-  * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-nimi.md#preposition) *ante* ⇐ *esun* — *sama* ⇐ *pu*
-  * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-nimi.md#preposition) *lon* ⇐ *kepeken* — *tan*, *tawa*
-  * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-nimi.md#preposition) *sin* — *taso*
+    * [**ᴛᴏᴏʟ**](nasin-nimi.md#tool) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) *lukin*, *pilin*
+    * [**ᴀʀᴇᴀ**](nasin-nimi.md#area) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) *awen*, *kama* — *pini*, *open* — *selo*
+    * [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) *ken*, *wile*
+  * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-nimi.md#preposition) *ante* ⇐ *esun* — *sama* ⇐ *pu*; *lon* ⇐ *kepeken* — *tan*, *tawa*; *sin* — *taso*
 * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](nasin-nimi.md#phrase-marker) *li*, *o* — *pi*, *e*
 * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](nasin-nimi.md#conjunction) *anu*, *en*, *la*
 * [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-nimi.md#interjection) *mu* — *a*, *ala*
