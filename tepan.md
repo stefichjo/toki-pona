@@ -222,7 +222,10 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ](nasin-nimi.md#thing)s, i.e. 
 |:-|:-|:-|
 | **ante** | *different* | *instead of* |
 | **sin** | *additional* | *in addition to* |
+| **supa** | ... | *on* |
 | **taso** | *only* | *without* |
+
+* **lon supa pi supa lape** → **lon supa lape**
 
 ## De-Conflations
 
