@@ -192,7 +192,7 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ](nasin-nimi.md#thing)s, i.e. 
 
 | ᴘᴇʀꜱᴏɴ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
-| **mama** | *original* | *ancestor*, *parent* |
+| **mama** | *of origin* | *ancestor*, *parent* |
 | **meli** | *feminine* | *feminine person* |
 | **mije** | *masculine* | *masculine person* |
 
