@@ -115,7 +115,7 @@ The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~
 ### PRONOUN
 *([nimi suli lawa](#noun) sama)*
 
-**ᴘʀᴏɴᴏᴜɴ**s are **ɴᴏᴜɴ**s that refer to the speaker, the listener or a third person (or object).
+**ᴘʀᴏɴᴏᴜɴ**s are **ɴᴏᴜɴ**s that refer to the speaker, the listener or a third person (or thing).
 
 | ᴘʀᴏɴᴏᴜɴ sina |
 |:-|
@@ -124,11 +124,11 @@ The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~
 ### PERSON
 *([nimi suli lawa](#noun) jan)*
 
-jan-ɴᴏᴜɴs imply **jan**.
+**ɴᴏᴜɴ**s of the **ᴘᴇʀꜱᴏɴ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ imply **jan**.
 
-| jan-ɴᴏᴜɴ meli |
+| ᴘᴇʀꜱᴏɴ meli |
 |:-|
-| ɴᴏᴜɴ *somebody female* → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* |
+| ɴᴏᴜɴ *somebody female* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* |
 
 ### THING
 *([nimi suli lawa](#noun) ijo)*
