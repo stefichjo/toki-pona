@@ -69,7 +69,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="sitelen/pona/mani.png" height="50" title="mani"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *lili* — *ale*, **mani**, *mute*, *suli*, *wawa* <br>ɴᴏᴜɴ **large domesticated animal**; **cash**, **money**, **savings**, **wealth** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *refined*; *valueable* |
 | <img src="sitelen/pona/meli.png" height="50" title="meri"> | [**ᴘᴇʀꜱᴏɴ**](nasin-nimi.md#person) *mama* — **meli**, *mije* <br>ɴᴏᴜɴ **female**, **feminine person**, **woman**; **wife** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**female**](sonja.md#lesson-3) |
 | <img src="sitelen/pona/mi.png" height="50" title="mi"> | [**ᴘʀᴏɴᴏᴜɴ**](nasin-nimi.md#pronoun) *ona* — **mi**, *sina* <br>ɴᴏᴜɴ **I**/**me**/[**myself**](sonja.md#toki-pona-proverbs), **we**/**us**/*ourselves* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *my*, *our* |
-| <img src="sitelen/pona/mije.png" height="50" title="mies"> | [**ᴘᴇʀꜱᴏɴ**](nasin-nimi.md#person) *mama* — *meli*, **mije** <br>ɴᴏᴜɴ **male**, **man**, **masculine person**; **husband** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* |
+| <img src="sitelen/pona/mije.png" height="50" title="mies"> | [**ᴘᴇʀꜱᴏɴ**](nasin-nimi.md#person) *mama* — *meli*, **mije** <br>ɴᴏᴜɴ **male**, **man**, **masculine person**; **husband** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*male*](tepan.md) |
 | <img src="sitelen/pona/moku.png" height="50" title="mogu"> | [**ᴠᴇʀʙ**](nasin-nimi.md#verb) *alasa*, **moku**, *olin*, *pali*, *unpa* <br>ᴠᴇʀʙ **to consume**, **drink**, **eat**, **ingest**, **swallow** → <br>ɴᴏᴜɴ *mouthful*; *food* |
 | <img src="sitelen/pona/moli.png" height="50" title="muri"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *kalama*, *lape*, **moli**, *musi* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**, (*~~kama~~ moli*) **dying** |
 | <img src="sitelen/pona/monsi.png" height="50" title="mon-ĉi"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) + [**ᴀʀᴇᴀ**](nasin-nimi.md#area) *insa* — **monsi**, *poka*, *sinpin*, *supa* <br>ɴᴏᴜɴ (*monsi ~~sijelo~~*) **back**; *backbone* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dorsal*; *endorsing* + <br>ɴᴏᴜɴ [**area behind**](sonja.md#lesson-15), **back**, **rear**: (*lon monsi*) **behind** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
@@ -168,12 +168,6 @@ Contextual abbreviations are written as *~~strikethroughs~~*.
 |:-|:-|
 | <img src="sitelen/pona/moli.png" height="50" title="muri"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *kalama*, *lape*, **moli**, *musi* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**, (*~~kama~~ moli*) **dying** |
 
-Semantic completions are written in [**italic and blue**](tepan.md).
-
-| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
-|:-|:-|
-| <img src="sitelen/pona/anu.png" height="50" title="an"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](nasin-nimi.md#conjunction) **anu**, *en*, *la* <br>ᴘᴀʀᴛɪᴄʟᴇ [*(alternative)*](tepan.md), **or** |
-
 Derivations according to a word's [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nasin-nimi.md) are denoted with an arrow (→).
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
@@ -185,6 +179,12 @@ When all members of a [**ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ**](nasin-nimi.md) are in tw
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
 | <img src="sitelen/pona/ken.png" height="50" title="ken"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) **ken**, *wile* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **possible** + <br>ᴘʀᴇ-ᴠᴇʀʙ **to be able to**, **be allowed to**, **can**, **may** |
+
+Semantic completions are written in [**italic and blue**](tepan.md).
+
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/mije.png" height="50" title="mies"> | [**ᴘᴇʀꜱᴏɴ**](nasin-nimi.md#person) *mama* — *meli*, **mije** <br>ɴᴏᴜɴ **male**, **man**, **masculine person**; **husband** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*male*](tepan.md) |
 
 Synonyms are denoted with a double arrow (⇒).
 
