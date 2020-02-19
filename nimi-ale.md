@@ -172,7 +172,7 @@ Derivations according to a word's [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nasin-nimi.md
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/ale.png" height="50" title="ale"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *lili* — **ale**, *mani*, *mute*, *suli*, *wawa* <br>ɴᴏᴜɴ **life**, **universe** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **bountiful**, **plentiful** <br>ɴᴏᴜɴ **abundance** |
+| <img src="sitelen/pona/meli.png" height="50" title="meri"> | [**ᴘᴇʀꜱᴏɴ**](nasin-nimi.md#person) *mama* — **meli**, *mije* <br>ɴᴏᴜɴ **female**, **feminine person**, **woman**; **wife** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**female**](sonja.md#lesson-3) |
 
 When all members of a [**ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ**](nasin-nimi.md) are in two [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nasin-nimi.md)es, they are listed with a plus-sign (+).
 
