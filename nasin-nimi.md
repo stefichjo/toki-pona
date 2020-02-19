@@ -38,30 +38,6 @@ They determine how (and if) a word can be used as one or more of these ᴘᴀʀ�
 * ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ
 * ᴘᴀʀᴛɪᴄʟᴇ
 
-The following [**ᴡᴏʀᴅ ꜰᴀᴍɪʟɪᴇ**](#toki-pona-word-classes-and-parts-of-speech)s, i.e. words sharing the same [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts-of-speech)(es) exist:
-
-* [**ɴᴏᴜɴ**](#noun) *ijo*, *ilo*, *jan*
-  * [**ᴘʀᴏɴᴏᴜɴ**](#pronoun) *ona* — *mi*, *sina*
-  * [**ᴘᴇʀꜱᴏɴ**](#person) *mama* — *meli*, *mije*
-  * [**ᴛᴏᴏʟ**](#tool) *insa*, *len*, *tomo*; *kute*, *lawa*, *luka*, *noka*, *palisa*, *poki*, *selo*, *uta*
-  * [**ᴛʜɪɴɢ**](#thing) *jaki* — *suwi*; *kili*, *pan*; *kiwen*, *ko*, *kon*, *telo*; *kulupu* — *sijelo*; *lete* — *seli*; *lili* — *ale*, *mani*, *mute*, *suli*, *wawa*; *linja* — *palisa*; *lipu*, *nena*, *sike*; *lupa*, *nasin*; *ma*, *mun*; *nanpa*, *tenpo*; *pimeja* — *suno*
-    * [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) *ale*, *ni*, *seme*, *wan*
-    * [**ɴᴜᴍʙᴇʀ**](#number) *ala*, *ale*, *esun*, *luka*, *mute*, *tu*, *wan*
-    * [**ᴀʀᴇᴀ**](#area) *anpa* — *sewi*, *noka* — *lawa*; *sike* — *weka*
-      * [**ᴛʜɪɴɢ**](#thing) + [**ᴀʀᴇᴀ**](#area) *insa* — *monsi*, *poka*, *sinpin*, *supa*
-    * [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) *akesi* — *soweli*; *kala*, *kasi*, *pipi*, *waso*
-* [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) *jelo*, *laso*, *loje*; *kalama*, *lape*, *moli*, *musi*; *pona* — *ike*, *nasa*, *pakala*, *utala*; *walo* — *kule*, *pimeja*
-  * [**ᴠᴇʀʙ**](#verb) *alasa*, *moku*, *olin*, *pali*, *unpa*; *jo*, *pana*; *nimi*, *sitelen*, *toki*
-  * [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) *sona*
-    * [**ᴛᴏᴏʟ**](#tool) + [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) *lukin*, *pilin*
-    * [**ᴀʀᴇᴀ**](#area) + [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) *awen*, *kama* — *pini*, *open* — *selo*
-    * [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) + [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) *ken*, *wile*
-  * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) *ante* ⇐ *esun* — *sama* ⇐ *pu*; *lon* ⇐ *kepeken* — *tan*, *tawa*; *sin* — *taso*
-* [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker) *li*, *o* — *pi*, *e*
-* [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) *anu*, *en*, *la*
-* [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) *mu* — *a*, *ala*
-* [**ɴᴀᴍᴇ**](#name) *nanpa*, *Pu*
-
 Each [dictionary](nimi-ale.md) entry indicates a word's **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** and all members of it's **ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ**. Antonyms are separated by a dash (—).
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
