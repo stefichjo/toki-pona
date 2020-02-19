@@ -193,13 +193,3 @@ Extinct synonyms are written as *~~strikethroughs~~*. (Cf. Pije's page of [Extin
 |:-|:-|
 | <img src="sitelen/pona/nena.png" height="50" title="nena"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *lipu*, **nena**, *sike* <br>ɴᴏᴜɴ **bump**, **hill**, **mountain**, **protuberance**; **button**; (*nena ~~pi sinpin lawa~~*) **nose** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *outstanding*, *thick* <br>(⇐ *~~kapa~~*) |
 
----
-
-## Toki Pona Word Classes and Parts of Speech
-
-This document discourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations, e.g. "sinpin" for "sinpin lawa" or "sinpin sijelo", when context might be insufficient, but it encourages to be fluent in ᴘᴏɴᴀ style, i.e. conflating two words into one, e.g. "(lon) noka" instead of "(lon) anpa". On the other hand, it encourages to be aware of possible ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ reclassifications of words for the sake of symmetry. For example, "sama" and "ante" are antonyms (i.e. "same" and "different"), but only "sama" is a ᴘʀᴇᴘᴏsɪᴛɪᴏɴ, whereas "ante" is just an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. "ante" as an ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ ᴘʀᴇᴘᴏsɪᴛɪᴏɴ meaning "(different) than" restores the symmetry with "sama".
-
-| (ᴘᴜ) sinpin lawa ⇒ (ꜱᴏɴᴊᴀ) sinpin | (ᴜɴ-ᴘᴏɴᴀ) lon anpa ⇒ (ᴘᴏɴᴀ) lon noka | (ᴜɴ-ᴘᴏɴᴀ) jan li suli mute ante mani. ⇒ (ᴘᴏɴᴀ) jan li suli mute. mani li suli lili. |
-|:-|:-|:-|
-| *face* | *under* | *People are more important than money.* |
-
