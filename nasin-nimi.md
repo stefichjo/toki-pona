@@ -105,7 +105,7 @@ The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~
 | [ᴛᴏᴏʟ](#tool) |
 | [ᴛʜɪɴɢ](#thing) |
 
-ɴᴏᴜɴs of the **ɴᴏᴜɴ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ don't have an additional meaning when used as another ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ.
+ɴᴏᴜɴs of the **ɴᴏᴜɴ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ keep their meaning when used as another ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ.
 
 | ɴᴏᴜɴ jan |
 |:-|
