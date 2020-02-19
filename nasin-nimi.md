@@ -156,7 +156,7 @@ The ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation.
 
 | ᴘʀᴏɴᴏᴜɴ sina |
 |:-|
-| ɴᴏᴜɴ you → ᴀᴅᴊᴇᴄᴛɪᴠᴇ your |
+| ɴᴏᴜɴ *you* → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* |
 
 ### PERSON
 *([nimi suli lawa](#noun) jan)*
