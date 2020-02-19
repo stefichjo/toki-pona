@@ -19,7 +19,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *lili* — **ale**, *mani*, *mute*, *suli*, *wawa* <br>ɴᴏᴜɴ **life**, **universe** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **bountiful**, **plentiful** <br>ɴᴏᴜɴ **abundance** |
 | <img src="sitelen/pona/anpa.png" height="50" title="an-ba"> | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) **anpa** — *sewi*, *noka* — *lawa* <br>ɴᴏᴜɴ (⇒ *noka*) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bowing down**, **downward**, **humble**, **lowly**, [**powerless**](sonja.md#short-obligatory-prayer); **dependent** |
 | <img src="sitelen/pona/ante.png" height="50" title="ander"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-nimi.md#preposition) **ante** ⇐ *esun* — *sama* ⇐ *pu* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (⇒ *ante lon poka*); (⇐ *esun*) *instead of*<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **altered**, **changed**, **different**: (*ante lon poka* ⇐ *ante*) *than*, *unlike*; (⇐ *esun*) **other** <br>ᴠᴇʀʙ (⇐ *esun*) *to replace* <br>ɴᴏᴜɴ (*~~kama~~ ante*) [**change**](sonja.md#toki-pona-proverbs) |
-| <img src="sitelen/pona/anu.png" height="50" title="an"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](nasin-nimi.md#conjunction) **anu**, *en*, *la* <br>ᴘᴀʀᴛɪᴄʟᴇ *(alternative)*, **or** |
+| <img src="sitelen/pona/anu.png" height="50" title="an"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](nasin-nimi.md#conjunction) **anu**, *en*, *la* <br>ᴘᴀʀᴛɪᴄʟᴇ [*(alternative)*](tepan.md), **or** |
 | <img src="sitelen/pona/awen.png" height="50" title="hawen"> | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) **awen**, *kama* — *pini*, *open* — *selo* <br>ɴᴏᴜɴ *duration*: (*lon ~~awen~~*) [**during**](sonja.md#lesson-14), *for* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**; (*~~pi tenpo~~ awen*) *present*; (*awen ~~lon~~*) **staying**, **waiting**; (⇐ *tomo*) **protected**, **safe** <br>ᴠᴇʀʙ (⇐ *tomo*) [**to help in peril**](sonja.md#short-obligatory-prayer), [**protect**](sonja.md#lesson-15) + <br>ᴘʀᴇ-ᴠᴇʀʙ **to continue to** <br>ᴠᴇʀʙ *to continue* |
 | <img src="sitelen/pona/e.png" height="50" title="e"> | [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](nasin-nimi.md#phrase-marker) *li*, *o* — *pi*, **e** <br>ᴘᴀʀᴛɪᴄʟᴇ **(before the direct object)** |
 | <img src="sitelen/pona/en.png" height="50" title="en"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](nasin-nimi.md#conjunction) *anu*, **en**, *la* <br>ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, [**and**](sonja.md#lesson-16) |
@@ -156,7 +156,7 @@ Each entry indicates a word's [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nasin-nimi.md) an
 | <img src="sitelen/pona/kule.png" height="50" title="kuler"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *walo* — **kule**, *pimeja* <br>… |
 | <img src="sitelen/pona/pimeja.png" height="50" title="pimea"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *walo* — *kule*, **pimeja** <br>… |
 
-Definitions as provided by [the official Toki Pona dictionary](http://tokipona.net/tp/janpije/dictionary.php) are written in **bold**, whereas translations found in the corpus are written in [**blue**](sonja.md).
+Definitions as provided by [the official Toki Pona dictionary](http://tokipona.net/tp/janpije/dictionary.php) are written in **bold**, whereas translations found in the corpus are written in [**bold and blue**](sonja.md).
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
@@ -167,6 +167,12 @@ Contextual abbreviations are written as *~~strikethroughs~~*.
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
 | <img src="sitelen/pona/moli.png" height="50" title="muri"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *kalama*, *lape*, **moli**, *musi* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**, (*~~kama~~ moli*) **dying** |
+
+Semantic completions are written in [**italic and blue**](tepan.md).
+
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/anu.png" height="50" title="an"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](nasin-nimi.md#conjunction) **anu**, *en*, *la* <br>ᴘᴀʀᴛɪᴄʟᴇ [*(alternative)*](tepan.md), **or** |
 
 Derivations according to a word's [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nasin-nimi.md) are denoted with an arrow (→).
 
