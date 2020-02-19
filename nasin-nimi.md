@@ -20,7 +20,7 @@ This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. 
 |:-|
 | *I want her to play.* |
 
-The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts-of-speech)es exist:
+A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines how (and if) a word can be used as ᴘᴀʀᴛs ᴏꜰ ꜱᴘᴇᴇᴄʜ, i.e. as ɴᴏᴜɴ, ᴀᴅᴊᴇᴄᴛɪᴠᴇ, ᴠᴇʀʙ, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ or ᴘᴀʀᴛɪᴄʟᴇ. The following **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es exist:
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
   * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴛᴏᴏʟ**](#tool), [**ᴛʜɪɴɢ**](#thing) ([**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ɴᴜᴍʙᴇʀ**](#number), [**ᴀʀᴇᴀ**](#area), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form))
@@ -30,15 +30,7 @@ The following [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](#toki-pona-word-classes-and-parts
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
   * [**ꜱᴏᴜɴᴅ**](#sound): [**ɴᴀᴍᴇ**](#name), [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection)
 
-They determine how (and if) a word can be used as one or more of these ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ:
-
-* ɴᴏᴜɴ
-* ᴀᴅᴊᴇᴄᴛɪᴠᴇ
-* ᴠᴇʀʙ
-* ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ
-* ᴘᴀʀᴛɪᴄʟᴇ
-
-Each [dictionary](nimi-ale.md) entry indicates a word's **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** and all members of it's **ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ**. Antonyms are separated by a dash (—).
+Each [dictionary](nimi-ale.md) entry indicates a word's **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** and its **ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ** members. Antonyms are separated by a dash (—).
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
