@@ -20,7 +20,7 @@ This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. 
 |:-|
 | *I want her to play.* |
 
-A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines how (and if) a word can be used as ᴘᴀʀᴛs ᴏꜰ ꜱᴘᴇᴇᴄʜ, i.e. as ɴᴏᴜɴ, ᴀᴅᴊᴇᴄᴛɪᴠᴇ, ᴠᴇʀʙ, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ or ᴘᴀʀᴛɪᴄʟᴇ. The following **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es exist:
+A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines how (and if) a word can be used as ᴘᴀʀᴛs ᴏꜰ ꜱᴘᴇᴇᴄʜ, i.e. as ɴᴏᴜɴ, ᴀᴅᴊᴇᴄᴛɪᴠᴇ, ᴀᴅᴠᴇʀʙ, ᴠᴇʀʙ, ᴘʀᴇ-ᴠᴇʀʙ, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ or ᴘᴀʀᴛɪᴄʟᴇ. The following **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es exist:
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
   * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴛᴏᴏʟ**](#tool), [**ᴛʜɪɴɢ**](#thing) ([**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ɴᴜᴍʙᴇʀ**](#number), [**ᴀʀᴇᴀ**](#area), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form))
@@ -105,17 +105,11 @@ The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~
 | [ᴛᴏᴏʟ](#tool) |
 | [ᴛʜɪɴɢ](#thing) |
 
-Simple ɴᴏᴜɴs don't have an additional meaning as ᴀᴅᴊᴇᴄᴛɪᴠᴇs (or ᴠᴇʀʙs).
+ɴᴏᴜɴs of the **ɴᴏᴜɴ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ don't have an additional meaning when used as another ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ.
 
 | ɴᴏᴜɴ jan |
 |:-|
-| ɴᴏᴜɴ somebody, ᴀᴅᴊᴇᴄᴛɪᴠᴇ somebody's |
-
-The ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation.
-
-| lon ijo |
-|:-|
-| somewhere |
+| ɴᴏᴜɴ somebody <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ somebody's |
 
 ### PRONOUN
 *([nimi suli lawa](#noun) sama)*
@@ -216,6 +210,12 @@ As [ɴᴏᴜɴ](#noun)s, ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "
 | ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ insa |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner → ɴᴏᴜɴ innards |
+
+The ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation.
+
+| lon ijo |
+|:-|
+| somewhere |
 
 #### LIFE-FORM
 *([nimi suli lawa ijo](#thing) sijelo)*
