@@ -82,7 +82,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | | [**ɴᴀᴍᴇ**](nasin-nimi.md#name) **nanpa**, *Pu* <br>ᴘᴀʀᴛɪᴄʟᴇ **(ordinal number)**, **-th** |
 | <img src="sitelen/pona/nasa.png" height="50" title="nasau"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *pona* — *ike*, **nasa**, *pakala*, *utala* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **strange**, [**unconventional**](sonja.md#toki-pona-proverbs), **unusual**; (*~~pi sona~~ nasa*) **crazy**, **foolish**; (*~~pi pilin~~ nasa*) **drunk**, **intoxicated** |
 | <img src="sitelen/pona/nasin.png" height="50" title="naĉin"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *lupa*, **nasin** <br>ɴᴏᴜɴ **custom**, **doctrine**, **method**, [**system**](sonja.md#preface), [**way of doing things**](sonja.md#toki-pona-proverbs); **path**, **road**, [**street**](sonja.md#lesson-9), **way** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *ordinary*, *usual* |
-| <img src="sitelen/pona/nena.png" height="50" title="nena"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *lipu*, **nena**, *sike* <br>ɴᴏᴜɴ (⇐ *~~kapa~~*) **bump**, **hill**, **mountain**, **protuberance**; **button**; (*nena ~~pi sinpin lawa~~*) **nose** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *outstanding*, *thick* |
+| <img src="sitelen/pona/nena.png" height="50" title="nena"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *lipu*, **nena**, *sike* <br>ɴᴏᴜɴ **bump**, **hill**, **mountain**, **protuberance**; **button**; (*nena ~~pi sinpin lawa~~*) **nose** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *outstanding*, *thick* <br>(⇐ *~~kapa~~*) |
 | <img src="sitelen/pona/ni.png" height="50" title="ni"> | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nasin-nimi.md#correlative) *ale*, **ni**, *seme*, *wan* <br>ɴᴏᴜɴ (*ni:*) [**the following**](sonja.md#lesson-17) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **this**/**that** |
 | <img src="sitelen/pona/nimi.png" height="50" title="nimi"> | [**ᴠᴇʀʙ**](nasin-nimi.md#verb) **nimi**, *sitelen*, *toki* <br>ᴠᴇʀʙ *to define* → <br>ɴᴏᴜɴ **name**; **word** |
 | <img src="sitelen/pona/noka.png" height="50" title="noga"> | [**ᴛᴏᴏʟ**](nasin-nimi.md#tool) *kute*, *lawa*, *luka*, **noka**, *palisa*, *poki*, *selo*, *uta* <br>ɴᴏᴜɴ **foot**, **leg**, **organ of locomotion** → <br>ᴠᴇʀʙ *to step on*, *kick* |
@@ -181,11 +181,11 @@ Synonyms are denoted with a double arrow (⇒).
 | <img src="sitelen/pona/anpa.png" height="50" title="an-ba"> | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) **anpa** — *sewi*, *noka* — *lawa* <br>ɴᴏᴜɴ (⇒ *noka*) → <br>… |
 | <img src="sitelen/pona/noka.png" height="50" title="noga"> | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) *anpa* — *sewi*, **noka** — *lawa* <br>ɴᴏᴜɴ **lowest part**; **bottom**, [**foundation**](sonja.md#lesson-15): (*lon noka*) [**at the bottom of**](sonja.md#lesson-15); (⇐ *anpa*) [**area below or under**](sonja.md#lesson-15): (*lon noka*) *below*, *under*; ***dependence*** → <br>… |
 
-Extinct synonyms words are written as a *~~strikethrough~~*. (Cf. Pije's page of [Extinct Words](http://tokipona.net/tp/janpije/extinctwords.php).)
+Extinct synonyms are written as a *~~strikethrough~~*. (Cf. Pije's page of [Extinct Words](http://tokipona.net/tp/janpije/extinctwords.php).)
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/nena.png" height="50" title="nena"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *lipu*, **nena**, *sike* <br>(⇐ *~~kapa~~*) <br>ɴᴏᴜɴ **bump**, **hill**, **mountain**, **protuberance**; **button**; (*nena ~~pi sinpin lawa~~*) **nose** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *outstanding*, *thick* |
+| <img src="sitelen/pona/nena.png" height="50" title="nena"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *lipu*, **nena**, *sike* <br>ɴᴏᴜɴ **bump**, **hill**, **mountain**, **protuberance**; **button**; (*nena ~~pi sinpin lawa~~*) **nose** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *outstanding*, *thick* <br>(⇐ *~~kapa~~*) |
 
 ---
 
