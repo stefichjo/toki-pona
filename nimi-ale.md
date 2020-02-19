@@ -29,30 +29,6 @@ This document discourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations, e.g. "
 
 ---
 
-* [**ɴᴏᴜɴ**](nasin-nimi.md#noun) *ijo*, *ilo*, *jan*
-  * [**ᴘʀᴏɴᴏᴜɴ**](nasin-nimi.md#pronoun) *ona* — *mi*, *sina*
-  * [**ᴘᴇʀꜱᴏɴ**](nasin-nimi.md#person) *mama* — *meli*, *mije*
-  * [**ᴛᴏᴏʟ**](nasin-nimi.md#tool) *insa*, *len*, *tomo*; *kute*, *lawa*, *luka*, *noka*, *palisa*, *poki*, *selo*, *uta*
-  * [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *jaki* — *suwi*; *kili*, *pan*; *kiwen*, *ko*, *kon*, *telo*; *kulupu* — *sijelo*; *lete* — *seli*; *lili* — *ale*, *mani*, *mute*, *suli*, *wawa*; *linja* — *palisa*; *lipu*, *nena*, *sike*; *lupa*, *nasin*; *ma*, *mun*; *nanpa*, *tenpo*; *pimeja* — *suno*
-    * [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](nasin-nimi.md#correlative) *ale*, *ni*, *seme*, *wan*
-    * [**ɴᴜᴍʙᴇʀ**](nasin-nimi.md#number) *ala*, *ale*, *esun*, *luka*, *mute*, *tu*, *wan*
-    * [**ᴀʀᴇᴀ**](nasin-nimi.md#area) *anpa* — *sewi*, *noka* — *lawa*; *sike* — *weka*
-      * [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) + [**ᴀʀᴇᴀ**](nasin-nimi.md#area) *insa* — *monsi*, *poka*, *sinpin*, *supa*
-    * [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](nasin-nimi.md#life-form) *akesi* — *soweli*; *kala*, *kasi*, *pipi*, *waso*
-* [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *jelo*, *laso*, *loje*; *kalama*, *lape*, *moli*, *musi*; *pona* — *ike*, *nasa*, *pakala*, *utala*; *walo* — *kule*, *pimeja*
-  * [**ᴠᴇʀʙ**](nasin-nimi.md#verb) *alasa*, *moku*, *olin*, *pali*, *unpa*; *jo*, *pana*; *nimi*, *sitelen*, *toki*
-  * [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) *sona*
-    * [**ᴛᴏᴏʟ**](nasin-nimi.md#tool) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) *lukin*, *pilin*
-    * [**ᴀʀᴇᴀ**](nasin-nimi.md#area) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) *awen*, *kama* — *pini*, *open* — *selo*
-    * [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) *ken*, *wile*
-  * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-nimi.md#preposition) *ante* ⇐ *esun* — *sama* ⇐ *pu*; *lon* ⇐ *kepeken* — *tan*, *tawa*; *sin* — *taso*
-* [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](nasin-nimi.md#phrase-marker) *li*, *o* — *pi*, *e*
-* [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](nasin-nimi.md#conjunction) *anu*, *en*, *la*
-* [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-nimi.md#interjection) *mu* — *a*, *ala*
-* [**ɴᴀᴍᴇ**](nasin-nimi.md#name) *nanpa*, *Pu*
-
----
-
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
 | <img src="sitelen/pona/a.png" height="50" title="ha"> | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-nimi.md#interjection) *mu* — **a**, *ala* <br>ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, [**(emotion word)**](sonja.md#lesson-10) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *indeed*, [**so**](sonja.md#lesson-10); [**ha**](sonja.md#lesson-10), [**wow**](sonja.md#lesson-10), [**yay**](sonja.md#lesson-13), *yes* |
