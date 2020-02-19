@@ -62,7 +62,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="sitelen/pona/lon.png" height="50" title="loŋ"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-nimi.md#preposition) **lon** ⇐ *kepeken* — *tan*, *tawa* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ [**at**](sonja.md#lesson-8), **located at**, **present at**; [**in the context of**](sonja.md#lesson-14); (⇐ *kepeken*) *according to*, *along* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **existing**, **real**; **true** |
 | <img src="sitelen/pona/luka.png" height="50" title="ruka"> | [**ᴛᴏᴏʟ**](nasin-nimi.md#tool) *kute*, *lawa*, **luka**, *noka*, *palisa*, *poki*, *selo*, *uta* <br>ɴᴏᴜɴ **arm**, [**fingers**](sonja.md#writings-of-baháulláh), **hand**, **tactile organ** → <br>ᴠᴇʀʙ *to manipulate*, *touch* |
 | | [**ɴᴜᴍʙᴇʀ**](nasin-nimi.md#number) *ala*, *ale*, *esun*, **luka**, *mute*, *tu*, *wan* <br>ɴᴏᴜɴ *fivefold amount* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**5**](sonja.md#lesson-12), **five** |
-| <img src="sitelen/pona/lukin.png" height="50" title="luk-im"> | [**ᴛᴏᴏʟ**](nasin-nimi.md#tool) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) **lukin**, *pilin* <br>ɴᴏᴜɴ **eye** (⇐ (*oko*)) → <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** + <br>ᴘʀᴇ-ᴠᴇʀʙ [**to seek to**](sonja.md#lesson-13), **try to** <br>ᴠᴇʀʙ **to look for**, **seek**; *care for* |
+| <img src="sitelen/pona/lukin.png" height="50" title="luk-im"> | [**ᴛᴏᴏʟ**](nasin-nimi.md#tool) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) **lukin**, *pilin* <br>ɴᴏᴜɴ **eye** (⇐ *oko*) → <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** + <br>ᴘʀᴇ-ᴠᴇʀʙ [**to seek to**](sonja.md#lesson-13), **try to** <br>ᴠᴇʀʙ **to look for**, **seek**; *care for* |
 | <img src="sitelen/pona/lupa.png" height="50" title="rupa"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) **lupa**, *nasin* <br>ɴᴏᴜɴ (*lupa ~~tomo~~*) **door**, **hole**, **orifice**, (*lupa ~~suno~~*) **window**; [**womb**](sonja.md#toki-pona-proverbs) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* |
 | <img src="sitelen/pona/ma.png" height="50" title="maa"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) **ma**, *mun* <br>ɴᴏᴜɴ **earth**, **land**; **outdoors**, **world**; **country**, **territory**; **soil**; *area*; (*~~sike~~ ma*) [**planet**](sonja.md#toki-pona-proverbs) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *firm* <br>ᴠᴇʀʙ *to tie* |
 | <img src="sitelen/pona/mama.png" height="50" title="mama"> | [**ᴘᴇʀꜱᴏɴ**](nasin-nimi.md#person) **mama** — *meli*, *mije* <br>ɴᴏᴜɴ **ancestor**, **parent**; [**father**](sonja.md#the-gospel), ***mother***; **creator**, **originator**; **caretaker**, **sustainer** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of origin*; [**birth giving**](sonja.md#the-quran) |
@@ -117,7 +117,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="sitelen/pona/sijelo.png" height="50" title="tijelo"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *kulupu* — **sijelo** <br>ɴᴏᴜɴ **body (of person or animal)**, **torso**; *life-form*; [**health**](sonja.md#lesson-13), **physical state** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *alive* |
 | <img src="sitelen/pona/sike.png" height="50" title="sirkel"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *lipu*, *nena*, **sike** <br>ɴᴏᴜɴ **round or circular thing**; **ball**, **circle**, **sphere**, **wheel**; **cycle**; *age*; *lap* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*sike ~~suno~~*) **of one year**, (*pi sike ~~suno~~ mute* ⇐ *~~majuna~~*) *old* <br>ᴠᴇʀʙ *to fulfil* |
 | | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) **sike** — *weka* <br>ɴᴏᴜɴ (⇒ *poka*) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *poka*) |
-| <img src="sitelen/pona/sin.png" height="50" title="ŝin"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-nimi.md#preposition) **sin** — *taso* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh**; (⇐ *(namako)*) **additional**, **another**, **extra** |
+| <img src="sitelen/pona/sin.png" height="50" title="ŝin"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-nimi.md#preposition) **sin** — *taso* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh**; (⇐ *namako*) **additional**, **another**, **extra** |
 | <img src="sitelen/pona/sina.png" height="50" title="sina"> | [**ᴘʀᴏɴᴏᴜɴ**](nasin-nimi.md#pronoun) *ona* — *mi*, **sina** <br>ɴᴏᴜɴ **you**/*thou*/*thee*/[**thyself**](sonja.md#toki-pona-proverbs); [**the person who**](sonja.md#famous-quotations) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your*/[**thy**](sonja.md#toki-pona-proverbs) |
 | <img src="sitelen/pona/sinpin.png" height="50" title="cinpin"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) + [**ᴀʀᴇᴀ**](nasin-nimi.md#area) *insa* — *monsi*, *poka*, **sinpin**, *supa* <br>ɴᴏᴜɴ *something upright*, **front**, **wall**; (*sinpin ~~sijelo~~*) [**chest**](sonja.md#lesson-15), (*sinpin ~~lawa~~*) **face** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *upright*; (⇐ *~~pake~~*) *barring*, *blocking* + <br>ɴᴏᴜɴ [**area in front**](sonja.md#lesson-15): (*lon sinpin*) [**in front of**](sonja.md#lesson-15) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **foremost** |
 | <img src="sitelen/pona/sitelen.png" height="50" title="ŝilderen"> | [**ᴠᴇʀʙ**](nasin-nimi.md#verb) *nimi*, **sitelen**, *toki* <br>ᴠᴇʀʙ *to draw*, *indicate*, *project*, *represent*, *sculpture* → <br>ɴᴏᴜɴ **image**, **picture**, *projection*, **representation**, *sculpture*, **symbol**, **mark**, **writing** |
@@ -178,12 +178,16 @@ Synonyms are denoted with a double arrow (⇒).
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/anpa.png" height="50" title="an-ba"> | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) **anpa** — *sewi*, *noka* — *lawa* <br>ɴᴏᴜɴ (⇒ *noka*) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bowing down**, **downward**, **humble**, **lowly**, [**powerless**](sonja.md#short-obligatory-prayer); **dependent** |
-| <img src="sitelen/pona/noka.png" height="50" title="noga"> | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) *anpa* — *sewi*, **noka** — *lawa* <br>ɴᴏᴜɴ **lowest part**; **bottom**, [**foundation**](sonja.md#lesson-15): (*lon noka*) [**at the bottom of**](sonja.md#lesson-15); (⇐ *anpa*) [**area below or under**](sonja.md#lesson-15): (*lon noka*) *below*, *under*; ***dependence*** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *lower* |
+| <img src="sitelen/pona/anpa.png" height="50" title="an-ba"> | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) **anpa** — *sewi*, *noka* — *lawa* <br>ɴᴏᴜɴ (⇒ *noka*) → <br>… |
+| <img src="sitelen/pona/noka.png" height="50" title="noga"> | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) *anpa* — *sewi*, **noka** — *lawa* <br>ɴᴏᴜɴ **lowest part**; **bottom**, [**foundation**](sonja.md#lesson-15): (*lon noka*) [**at the bottom of**](sonja.md#lesson-15); (⇐ *anpa*) [**area below or under**](sonja.md#lesson-15): (*lon noka*) *below*, *under*; ***dependence*** → <br>… |
+
+Extinct synonyms words are written as a *~~strikethrough~~*. (Cf. Pije's page of [Extinct Words](http://tokipona.net/tp/janpije/extinctwords.php).)
+
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/nena.png" height="50" title="nena"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *lipu*, **nena**, *sike* <br>(⇐ *~~kapa~~*) <br>ɴᴏᴜɴ **bump**, **hill**, **mountain**, **protuberance**; **button**; (*nena ~~pi sinpin lawa~~*) **nose** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *outstanding*, *thick* |
 
 ---
-
-* conflations
 
 ## Toki Pona Word Classes and Parts of Speech
 
