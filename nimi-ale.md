@@ -156,9 +156,14 @@ Each entry indicates a word's [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nasin-nimi.md) an
 | <img src="sitelen/pona/kule.png" height="50" title="kuler"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *walo* — **kule**, *pimeja* <br>… |
 | <img src="sitelen/pona/pimeja.png" height="50" title="pimea"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *walo* — *kule*, **pimeja** <br>… |
 
----
+Definitions as provided by [the official Toki Pona dictionary](http://tokipona.net/tp/janpije/dictionary.php) are written in (**bold**), whereas translations found in the corpus are written in ([**blue**](sonja.md)).
 
-This dictionary contains all definitions (**bold**) as provided by [the official Toki Pona dictionary](http://tokipona.net/tp/janpije/dictionary.php) plus translations ([**blue**](sonja.md)) found in the corpus.
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/en.png" height="50" title="en"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](nasin-nimi.md#conjunction) *anu*, **en**, *la* <br>ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, [**and**](sonja.md#lesson-16) |
+
+
+---
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
