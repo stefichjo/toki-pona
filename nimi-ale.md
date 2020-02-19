@@ -3,31 +3,9 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-This dictionary contains all definitions (**bold**) as provided by [the official Toki Pona dictionary](http://tokipona.net/tp/janpije/dictionary.php) plus translations ([**blue**](sonja.md)) found in the corpus. In an attempt to illustrate the full potential of all **Toki Pona** words, more plausible translations have been added ([*italic*](tepan.md)).
-
-## Toki Pona Word Classes and Parts of Speech
-
-ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ derived according their [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nasin-nimi.md)es are separated by an *arrow* (→).
-
-| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
-|:-|:-|
-| <img src="sitelen/pona/suwi.png" height="50" title="swit"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) **suwi** <br>ɴᴏᴜɴ [**sweets**](sonja.md#lesson-16) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sweet** |
-
-Members of the same ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ belong to the same [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nasin-nimi.md). Antonyms are separated by a dash (—).
-
-| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
-|:-|:-|
-| <img src="sitelen/pona/walo.png" height="50" title="valko"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) **walo** — *kule*, *pimeja* |
-| <img src="sitelen/pona/kule.png" height="50" title="kuler"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *walo* — **kule**, *pimeja* |
-| <img src="sitelen/pona/pimeja.png" height="50" title="pimea"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *walo* — *kule*, **pimeja** |
-
-This document discourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations, e.g. "sinpin" for "sinpin lawa" or "sinpin sijelo", when context might be insufficient, but it encourages to be fluent in ᴘᴏɴᴀ style, i.e. conflating two words into one, e.g. "(lon) noka" instead of "(lon) anpa". On the other hand, it encourages to be aware of possible ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ reclassifications of words for the sake of symmetry. For example, "sama" and "ante" are antonyms (i.e. "same" and "different"), but only "sama" is a ᴘʀᴇᴘᴏsɪᴛɪᴏɴ, whereas "ante" is just an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. "ante" as an ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ ᴘʀᴇᴘᴏsɪᴛɪᴏɴ meaning "(different) than" restores the symmetry with "sama".
-
-| (ᴘᴜ) sinpin lawa ⇒ (ꜱᴏɴᴊᴀ) sinpin | (ᴜɴ-ᴘᴏɴᴀ) lon anpa ⇒ (ᴘᴏɴᴀ) lon noka | (ᴜɴ-ᴘᴏɴᴀ) jan li suli mute ante mani. ⇒ (ᴘᴏɴᴀ) jan li suli mute. mani li suli lili. |
-|:-|:-|:-|
-| *face* | *under* | *People are more important than money.* |
-
----
+| |
+|:-|
+| [Format](#format) |
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
@@ -167,4 +145,41 @@ This document discourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations, e.g. "
 | <img src="sitelen/pona/wawa.png" height="50" title="vahva"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *lili* — *ale*, *mani*, *mute*, *suli*, **wawa** <br>ɴᴏᴜɴ *force* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **energetic**; [**mighty**](sonja.md#short-obligatory-prayer), **powerful**, [**stable**](sonja.md#lesson-15), **strong**; [**independent**](sonja.md#the-quran); (*~~sona~~ wawa*) *certain*, [**dependable**](sonja.md#lesson-4), [**reliable**](sonja.md#lesson-5), **sure**; (*~~toki~~ wawa*) **confident**; (*~~tawa~~ wawa*) *fast*, (*~~kalama~~ wawa*) [**loud**](sonja.md#lesson-17), **intense** <br>ɴᴏᴜɴ [**might**](sonja.md#writings-of-baháulláh), [**power**](sonja.md#writings-of-baháulláh) <br>ᴠᴇʀʙ  [**strengthen**](sonja.md#lesson-6); (*~~toki~~ wawa ~~e sona wawa~~*) [**to bear witness that**](sonja.md#writings-of-baháulláh) |
 | <img src="sitelen/pona/weka.png" height="50" title="weĥ"> | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) *sike* — **weka** <br>ɴᴏᴜɴ *distance*: (*lon weka*) *away from* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**, *distant*, [***remote***](sonja.md#toki-pona-proverbs); **ignored** <br>ᴠᴇʀʙ [**to eliminate**](sonja.md#famous-quotations), [**erase**](sonja.md#toki-pona-proverbs), ***ignore***, [***isolate***](sonja.md#toki-pona-proverbs), [**omit**](sonja.md#famous-quotations), [**remove**](sonja.md#toki-pona-proverbs) <br>ɴᴏᴜɴ ***absence***, *vacuum*, *void*; (*weka ~~ma~~*) *space*; [**isolation**](sonja.md#toki-pona-proverbs): (*lon weka*) *without* |
 | <img src="sitelen/pona/wile.png" height="50" title="wile"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) *ken*, **wile** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inevitable*, *necessary* <br>ᴠᴇʀʙ *to enforce* + <br>ᴘʀᴇ-ᴠᴇʀʙ **must**, **need**, **require**, **should**, **want**, **wish**; (⇐ *selo*) *to be bound to*, *can't help but* <br>ᴠᴇʀʙ *to need*, *require*, *want*, *wish*; (⇐ *selo*) *to conclude*; (⇐ *selo* ⇐ *lawa*) *to decide* |
+
+## Format
+
+This dictionary contains all definitions (**bold**) as provided by [the official Toki Pona dictionary](http://tokipona.net/tp/janpije/dictionary.php) plus translations ([**blue**](sonja.md)) found in the corpus.
+
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/jan.png" height="50" title="jan"> | [**ɴᴏᴜɴ**](nasin-nimi.md#noun) *ijo*, *ilo*, **jan** <br>ɴᴏᴜɴ [**folks**](sonja.md#toki-pona-proverbs), [**guy**](sonja.md#lesson-9), **human being**, **person**/[**people**](sonja.md#lesson-9), **somebody** |
+
+Additional translations ([*italic*](tepan.md)) are an attempt to illustrate the full potential of all **Toki Pona** words.
+
+* conflations
+
+## Toki Pona Word Classes and Parts of Speech
+
+ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ derived according their [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nasin-nimi.md)es are separated by an *arrow* (→).
+
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/suwi.png" height="50" title="swit"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) **suwi** <br>ɴᴏᴜɴ [**sweets**](sonja.md#lesson-16) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sweet** |
+
+Members of the same ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ belong to the same [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nasin-nimi.md). Antonyms are separated by a dash (—).
+
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/walo.png" height="50" title="valko"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) **walo** — *kule*, *pimeja* |
+| <img src="sitelen/pona/kule.png" height="50" title="kuler"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *walo* — **kule**, *pimeja* |
+| <img src="sitelen/pona/pimeja.png" height="50" title="pimea"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *walo* — *kule*, **pimeja** |
+
+This document discourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations, e.g. "sinpin" for "sinpin lawa" or "sinpin sijelo", when context might be insufficient, but it encourages to be fluent in ᴘᴏɴᴀ style, i.e. conflating two words into one, e.g. "(lon) noka" instead of "(lon) anpa". On the other hand, it encourages to be aware of possible ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ reclassifications of words for the sake of symmetry. For example, "sama" and "ante" are antonyms (i.e. "same" and "different"), but only "sama" is a ᴘʀᴇᴘᴏsɪᴛɪᴏɴ, whereas "ante" is just an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. "ante" as an ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ ᴘʀᴇᴘᴏsɪᴛɪᴏɴ meaning "(different) than" restores the symmetry with "sama".
+
+| (ᴘᴜ) sinpin lawa ⇒ (ꜱᴏɴᴊᴀ) sinpin | (ᴜɴ-ᴘᴏɴᴀ) lon anpa ⇒ (ᴘᴏɴᴀ) lon noka | (ᴜɴ-ᴘᴏɴᴀ) jan li suli mute ante mani. ⇒ (ᴘᴏɴᴀ) jan li suli mute. mani li suli lili. |
+|:-|:-|:-|
+| *face* | *under* | *People are more important than money.* |
+
+---
+
 
