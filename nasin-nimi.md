@@ -102,7 +102,6 @@ The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~
 |:-|
 | [ᴘʀᴏɴᴏᴜɴ](#pronoun) |
 | [ᴘᴇʀꜱᴏɴ](#person) |
-| [ᴛᴏᴏʟ](#tool) |
 | [ᴛʜɪɴɢ](#thing) |
 
 ɴᴏᴜɴs of the **ɴᴏᴜɴ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ keep their meaning when used as another ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ.
@@ -129,20 +128,12 @@ jan-ɴᴏᴜɴs imply **jan**.
 |:-|
 | ɴᴏᴜɴ *somebody female* → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* |
 
-### TOOL
-*([nimi suli lawa](#noun) ilo)*
-
-ilo-ɴᴏᴜɴs imply **ilo**. As a [ᴠᴇʀʙ](#verb), they imply *usage*.
-
-| ilo-ɴᴏᴜɴ lukin |
-|:-|
-| ɴᴏᴜɴ *eye* → ᴠᴇʀʙ *to see* |
-
 ### THING
 *([nimi suli lawa](#noun) ijo)*
 
 | |
 |:-|
+| [ᴛᴏᴏʟ](#tool) |
 | [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) |
 | [ɴᴜᴍʙᴇʀ](#number) |
 | [ᴀʀᴇᴀ](#area) |
@@ -159,6 +150,15 @@ All [ɴᴏᴜɴ](#noun)s can imply food.
 | ɴᴏᴜɴ telo | ɴᴏᴜɴ kala |
 |:-|:-|
 | ɴᴏᴜɴ water → beverage| ɴᴏᴜɴ fish → seefood |
+
+#### TOOL
+*([nimi suli lawa](#noun) ilo)*
+
+ilo-ɴᴏᴜɴs imply **ilo**. As a [ᴠᴇʀʙ](#verb), they imply *usage*.
+
+| ilo-ɴᴏᴜɴ lukin |
+|:-|
+| ɴᴏᴜɴ *eye* → ᴠᴇʀʙ *to see* |
 
 #### CORRELATIVE
 *([nimi suli lawa ijo](#thing) sama)*
