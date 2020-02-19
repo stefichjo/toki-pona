@@ -95,6 +95,8 @@ The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~
 | [ɴᴏᴜɴ](#noun) |
 | [ᴍᴏᴅɪꜰɪᴇʀ](#modifier) |
 
+**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**s can become any ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ, except for [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s. (But [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s of the **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ can become **ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**s.)
+
 ## NOUN
 *([nimi suli](#content-word) lawa)*
 
@@ -108,16 +110,16 @@ The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~
 
 | ɴᴏᴜɴ jan |
 |:-|
-| ɴᴏᴜɴ somebody <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ somebody's |
+| ɴᴏᴜɴ *somebody* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *somebody's* |
 
 ### PRONOUN
 *([nimi suli lawa](#noun) sama)*
 
-ᴘʀᴏɴᴏᴜɴs are ɴᴏᴜɴs that refer to the speaker, the listener or a third person (or object).
+**ᴘʀᴏɴᴏᴜɴ**s are **ɴᴏᴜɴ**s that refer to the speaker, the listener or a third person (or object).
 
 | ᴘʀᴏɴᴏᴜɴ sina |
 |:-|
-| ɴᴏᴜɴ *you* → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* |
+| ɴᴏᴜɴ *you* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* |
 
 ### PERSON
 *([nimi suli lawa](#noun) jan)*
@@ -143,13 +145,13 @@ As [ɴᴏᴜɴ](#noun)s, ijo-ɴᴏᴜɴs imply "ijo".
 
 | ijo-ɴᴏᴜɴ sike |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ round → ɴᴏᴜɴ something round |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round* → ɴᴏᴜɴ *something round* |
 
 All [ɴᴏᴜɴ](#noun)s can imply food.
 
 | ɴᴏᴜɴ telo | ɴᴏᴜɴ kala |
 |:-|:-|
-| ɴᴏᴜɴ water → beverage| ɴᴏᴜɴ fish → seefood |
+| ɴᴏᴜɴ *water* → *beverage*| ɴᴏᴜɴ *fish* → *seefood* |
 
 #### TOOL
 *([nimi suli lawa](#noun) ilo)*
