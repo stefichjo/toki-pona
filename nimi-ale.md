@@ -162,6 +162,12 @@ Definitions as provided by [the official Toki Pona dictionary](http://tokipona.n
 |:-|:-|
 | <img src="sitelen/pona/en.png" height="50" title="en"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](nasin-nimi.md#conjunction) *anu*, **en**, *la* <br>ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, [**and**](sonja.md#lesson-16) |
 
+Contextual abbreviations are written as *~~strikethroughs~~*.
+
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/moli.png" height="50" title="muri"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *kalama*, *lape*, **moli**, *musi* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**, (*~~kama~~ moli*) **dying** |
+
 Derivations according to a word's [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nasin-nimi.md) are denoted with an arrow (→).
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
@@ -179,9 +185,9 @@ Synonyms are denoted with a double arrow (⇒).
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
 | <img src="sitelen/pona/anpa.png" height="50" title="an-ba"> | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) **anpa** — *sewi*, *noka* — *lawa* <br>ɴᴏᴜɴ (⇒ *noka*) → <br>… |
-| <img src="sitelen/pona/noka.png" height="50" title="noga"> | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) *anpa* — *sewi*, **noka** — *lawa* <br>ɴᴏᴜɴ **lowest part**; **bottom**, [**foundation**](sonja.md#lesson-15): (*lon noka*) [**at the bottom of**](sonja.md#lesson-15); (⇐ *anpa*) [**area below or under**](sonja.md#lesson-15): (*lon noka*) *below*, *under*; ***dependence*** → <br>… |
+| <img src="sitelen/pona/noka.png" height="50" title="noga"> | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) *anpa* — *sewi*, **noka** — *lawa* <br>ɴᴏᴜɴ **lowest part**; **bottom**, …; (⇐ *anpa*) [**area below or under**](sonja.md#lesson-15) … → <br>… |
 
-Extinct synonyms are written as a *~~strikethrough~~*. (Cf. Pije's page of [Extinct Words](http://tokipona.net/tp/janpije/extinctwords.php).)
+Extinct synonyms are written as *~~strikethroughs~~*. (Cf. Pije's page of [Extinct Words](http://tokipona.net/tp/janpije/extinctwords.php).)
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
