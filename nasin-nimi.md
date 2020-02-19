@@ -62,6 +62,63 @@ The following [**ᴡᴏʀᴅ ꜰᴀᴍɪʟɪᴇ**](#toki-pona-word-classes-and-p
 * [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) *mu* — *a*, *ala*
 * [**ɴᴀᴍᴇ**](#name) *nanpa*, *Pu*
 
+Each [dictionary](nimi-ale.md) entry indicates a word's **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** and all members of it's **ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ**. Antonyms are separated by a dash (—).
+
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/walo.png" height="50" title="valko"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) **walo** — *kule*, *pimeja* <br>… |
+| <img src="sitelen/pona/kule.png" height="50" title="kuler"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) *walo* — **kule**, *pimeja* <br>… |
+| <img src="sitelen/pona/pimeja.png" height="50" title="pimea"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) *walo* — *kule*, **pimeja** <br>… |
+
+Definitions as provided by [the official Toki Pona dictionary](http://tokipona.net/tp/janpije/dictionary.php) are written in **bold**, whereas translations found in the corpus are written in [**bold and blue**](sonja.md).
+
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/en.png" height="50" title="en"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) *anu*, **en**, *la* <br>ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, [**and**](sonja.md#lesson-16) |
+
+Contextual abbreviations are written as *~~strikethroughs~~*.
+
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/moli.png" height="50" title="muri"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) *kalama*, *lape*, **moli**, *musi* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**, (*~~kama~~ moli*) **dying** |
+
+Derivations according to a word's **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** are denoted with an arrow (→).
+
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/meli.png" height="50" title="meri"> | [**ᴘᴇʀꜱᴏɴ**](#person) *mama* — **meli**, *mije* <br>ɴᴏᴜɴ **female**, **feminine person**, **woman**; **wife** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**female**](sonja.md#lesson-3) |
+
+Semantic completions are written in [*italic and blue*](tepan.md).
+
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/mije.png" height="50" title="mies"> | [**ᴘᴇʀꜱᴏɴ**](#person) *mama* — *meli*, **mije** <br>ɴᴏᴜɴ **male**, **man**, **masculine person**; **husband** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*male*](tepan.md) |
+
+When all members of a **ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ** are in two **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es, they are listed with a plus-sign (+).
+
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/ken.png" height="50" title="ken"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) + [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) **ken**, *wile* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **possible** + <br>ᴘʀᴇ-ᴠᴇʀʙ **to be able to**, **be allowed to**, **can**, **may** |
+
+Synonyms are denoted with a double arrow (⇒).
+
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/anpa.png" height="50" title="an-ba"> | [**ᴀʀᴇᴀ**](#area) **anpa** — *sewi*, *noka* — *lawa* <br>ɴᴏᴜɴ (⇒ *noka*) → <br>… |
+| <img src="sitelen/pona/noka.png" height="50" title="noga"> | [**ᴀʀᴇᴀ**](#area) *anpa* — *sewi*, **noka** — *lawa* <br>ɴᴏᴜɴ **lowest part**; **bottom**, …; (⇐ *anpa*) [**area below or under**](sonja.md#lesson-15) … → <br>… |
+
+Extinct synonyms are written as *~~strikethroughs~~*. (Cf. Pije's page of [Extinct Words](http://tokipona.net/tp/janpije/extinctwords.php).)
+
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/nena.png" height="50" title="nena"> | [**ᴛʜɪɴɢ**](#thing) *lipu*, **nena**, *sike* (⇐ *~~kapa~~*) <br>ɴᴏᴜɴ **bump**, **hill**, **mountain**, **protuberance**; **button**; (*nena ~~pi sinpin lawa~~*) **nose** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *outstanding*, *thick* |
+
+The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~~strikethroughs~~*, too.
+
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="sitelen/pona/ale.png" height="50" title="ale"> | [**ɴᴜᴍʙᴇʀ**](#number) *ala*, **ale**, *esun*, *luka*, *mute*, *tu*, *wan* (⇐ *~~ali~~*) <br>ɴᴏᴜɴ [**infinity**](sonja.md#famous-quotations) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](sonja.md#lesson-12), **countless**; [**100**](sonja.md#lesson-12) |
+
 # CONTENT WORD
 *([nimi](#toki-pona-word-classes-and-parts-of-speech) suli)*
 

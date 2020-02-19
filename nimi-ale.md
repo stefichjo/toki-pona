@@ -3,10 +3,6 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-| |
-|:-|
-| [Structure](#structure) |
-
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
 | <img src="sitelen/pona/a.png" height="50" title="ha"> | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](nasin-nimi.md#interjection) *mu* — **a**, *ala* <br>ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, [**(emotion word)**](sonja.md#lesson-10) → <br>ᴀᴅᴠᴇʀʙ (⇐ *~~kin~~*) *indeed*, [**so**](sonja.md#lesson-10); (*sama la … a* ⇐ *~~kin~~*) *still*, (*sin la … a* ⇐ *~~kin~~*) *too*; [**ha**](sonja.md#lesson-10), [**wow**](sonja.md#lesson-10), [**yay**](sonja.md#lesson-13), *yes* |
@@ -145,63 +141,4 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="sitelen/pona/wawa.png" height="50" title="vahva"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *lili* — *ale*, *mani*, *mute*, *suli*, **wawa** <br>ɴᴏᴜɴ *force* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **energetic**; [**mighty**](sonja.md#short-obligatory-prayer), **powerful**, [**stable**](sonja.md#lesson-15), **strong**; [**independent**](sonja.md#the-quran); (*~~sona~~ wawa*) *certain*, [**dependable**](sonja.md#lesson-4), [**reliable**](sonja.md#lesson-5), **sure**; (*~~toki~~ wawa*) **confident**; (*~~tawa~~ wawa*) *fast*, (*~~kalama~~ wawa*) [**loud**](sonja.md#lesson-17), **intense** <br>ɴᴏᴜɴ [**might**](sonja.md#writings-of-baháulláh), [**power**](sonja.md#writings-of-baháulláh) <br>ᴠᴇʀʙ  [**strengthen**](sonja.md#lesson-6); (*~~toki~~ wawa ~~e sona wawa~~*) [**to bear witness that**](sonja.md#writings-of-baháulláh) |
 | <img src="sitelen/pona/weka.png" height="50" title="weĥ"> | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) *sike* — **weka** <br>ɴᴏᴜɴ *distance*: (*lon weka*) *away from* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**, *distant*, [***remote***](sonja.md#toki-pona-proverbs); **ignored** <br>ᴠᴇʀʙ [**to eliminate**](sonja.md#famous-quotations), [**erase**](sonja.md#toki-pona-proverbs), ***ignore***, [***isolate***](sonja.md#toki-pona-proverbs), [**omit**](sonja.md#famous-quotations), [**remove**](sonja.md#toki-pona-proverbs) <br>ɴᴏᴜɴ ***absence***, *vacuum*, *void*; (*weka ~~ma~~*) *space*; [**isolation**](sonja.md#toki-pona-proverbs): (*lon weka*) *without* |
 | <img src="sitelen/pona/wile.png" height="50" title="wile"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) *ken*, **wile** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inevitable*, *necessary* <br>ᴠᴇʀʙ *to enforce* + <br>ᴘʀᴇ-ᴠᴇʀʙ **must**, **need**, **require**, **should**, **want**, **wish**; (⇐ *selo*) *to be bound to*, *can't help but* <br>ᴠᴇʀʙ *to need*, *require*, *want*, *wish*; (⇐ *selo*) *to conclude*; (⇐ *selo* ⇐ *lawa*) *to decide* |
-
-## Structure
-
-Each entry indicates a word's [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nasin-nimi.md) and all members of it's [**ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ**](nasin-nimi.md). Antonyms are separated by a dash (—).
-
-| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
-|:-|:-|
-| <img src="sitelen/pona/walo.png" height="50" title="valko"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) **walo** — *kule*, *pimeja* <br>… |
-| <img src="sitelen/pona/kule.png" height="50" title="kuler"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *walo* — **kule**, *pimeja* <br>… |
-| <img src="sitelen/pona/pimeja.png" height="50" title="pimea"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *walo* — *kule*, **pimeja** <br>… |
-
-Definitions as provided by [the official Toki Pona dictionary](http://tokipona.net/tp/janpije/dictionary.php) are written in **bold**, whereas translations found in the corpus are written in [**bold and blue**](sonja.md).
-
-| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
-|:-|:-|
-| <img src="sitelen/pona/en.png" height="50" title="en"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](nasin-nimi.md#conjunction) *anu*, **en**, *la* <br>ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, [**and**](sonja.md#lesson-16) |
-
-Contextual abbreviations are written as *~~strikethroughs~~*.
-
-| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
-|:-|:-|
-| <img src="sitelen/pona/moli.png" height="50" title="muri"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) *kalama*, *lape*, **moli**, *musi* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**, (*~~kama~~ moli*) **dying** |
-
-Derivations according to a word's [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nasin-nimi.md) are denoted with an arrow (→).
-
-| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
-|:-|:-|
-| <img src="sitelen/pona/meli.png" height="50" title="meri"> | [**ᴘᴇʀꜱᴏɴ**](nasin-nimi.md#person) *mama* — **meli**, *mije* <br>ɴᴏᴜɴ **female**, **feminine person**, **woman**; **wife** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**female**](sonja.md#lesson-3) |
-
-Semantic completions are written in [*italic and blue*](tepan.md).
-
-| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
-|:-|:-|
-| <img src="sitelen/pona/mije.png" height="50" title="mies"> | [**ᴘᴇʀꜱᴏɴ**](nasin-nimi.md#person) *mama* — *meli*, **mije** <br>ɴᴏᴜɴ **male**, **man**, **masculine person**; **husband** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*male*](tepan.md) |
-
-When all members of a [**ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ**](nasin-nimi.md) are in two [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nasin-nimi.md)es, they are listed with a plus-sign (+).
-
-| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
-|:-|:-|
-| <img src="sitelen/pona/ken.png" height="50" title="ken"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) **ken**, *wile* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **possible** + <br>ᴘʀᴇ-ᴠᴇʀʙ **to be able to**, **be allowed to**, **can**, **may** |
-
-Synonyms are denoted with a double arrow (⇒).
-
-| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
-|:-|:-|
-| <img src="sitelen/pona/anpa.png" height="50" title="an-ba"> | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) **anpa** — *sewi*, *noka* — *lawa* <br>ɴᴏᴜɴ (⇒ *noka*) → <br>… |
-| <img src="sitelen/pona/noka.png" height="50" title="noga"> | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) *anpa* — *sewi*, **noka** — *lawa* <br>ɴᴏᴜɴ **lowest part**; **bottom**, …; (⇐ *anpa*) [**area below or under**](sonja.md#lesson-15) … → <br>… |
-
-Extinct synonyms are written as *~~strikethroughs~~*. (Cf. Pije's page of [Extinct Words](http://tokipona.net/tp/janpije/extinctwords.php).)
-
-| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
-|:-|:-|
-| <img src="sitelen/pona/nena.png" height="50" title="nena"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) *lipu*, **nena**, *sike* (⇐ *~~kapa~~*) <br>ɴᴏᴜɴ **bump**, **hill**, **mountain**, **protuberance**; **button**; (*nena ~~pi sinpin lawa~~*) **nose** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *outstanding*, *thick* |
-
-The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~~strikethroughs~~*, too.
-
-| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
-|:-|:-|
-| <img src="sitelen/pona/ale.png" height="50" title="ale"> | [**ɴᴜᴍʙᴇʀ**](nasin-nimi.md#number) *ala*, **ale**, *esun*, *luka*, *mute*, *tu*, *wan* (⇐ *~~ali~~*) <br>ɴᴏᴜɴ [**infinity**](sonja.md#famous-quotations) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](sonja.md#lesson-12), **countless**; [**100**](sonja.md#lesson-12) |
 
