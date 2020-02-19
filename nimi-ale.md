@@ -174,30 +174,22 @@ When all members of a [**ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ**](nasin-nimi.md) are in tw
 |:-|:-|
 | <img src="sitelen/pona/ken.png" height="50" title="ken"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) **ken**, *wile* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **possible** + <br>ᴘʀᴇ-ᴠᴇʀʙ **to be able to**, **be allowed to**, **can**, **may** |
 
----
+Synonyms are denoted with a double arrow (⇒).
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/jan.png" height="50" title="jan"> | [**ɴᴏᴜɴ**](nasin-nimi.md#noun) *ijo*, *ilo*, **jan** <br>ɴᴏᴜɴ [**folks**](sonja.md#toki-pona-proverbs), [**guy**](sonja.md#lesson-9), **human being**, **person**/[**people**](sonja.md#lesson-9), **somebody** |
+| <img src="sitelen/pona/anpa.png" height="50" title="an-ba"> | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) **anpa** — *sewi*, *noka* — *lawa* <br>ɴᴏᴜɴ (⇒ *noka*) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bowing down**, **downward**, **humble**, **lowly**, [**powerless**](sonja.md#short-obligatory-prayer); **dependent** |
+| <img src="sitelen/pona/noka.png" height="50" title="noga"> | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) *anpa* — *sewi*, **noka** — *lawa* <br>ɴᴏᴜɴ **lowest part**; **bottom**, [**foundation**](sonja.md#lesson-15): (*lon noka*) [**at the bottom of**](sonja.md#lesson-15); (⇐ *anpa*) [**area below or under**](sonja.md#lesson-15): (*lon noka*) *below*, *under*; ***dependence*** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *lower* |
 
-Additional translations ([*italic*](tepan.md)) are an attempt to illustrate the full potential of all **Toki Pona** words.
+---
 
 * conflations
 
 ## Toki Pona Word Classes and Parts of Speech
-
-ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ derived according their [**ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**](nasin-nimi.md)es are separated by an *arrow* (→).
-
-| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
-|:-|:-|
-| <img src="sitelen/pona/suwi.png" height="50" title="swit"> | [**ᴛʜɪɴɢ**](nasin-nimi.md#thing) **suwi** <br>ɴᴏᴜɴ [**sweets**](sonja.md#lesson-16) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sweet** |
 
 This document discourages from using ᴏᴘᴛɪᴏɴᴀʟ abbreviations, e.g. "sinpin" for "sinpin lawa" or "sinpin sijelo", when context might be insufficient, but it encourages to be fluent in ᴘᴏɴᴀ style, i.e. conflating two words into one, e.g. "(lon) noka" instead of "(lon) anpa". On the other hand, it encourages to be aware of possible ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ reclassifications of words for the sake of symmetry. For example, "sama" and "ante" are antonyms (i.e. "same" and "different"), but only "sama" is a ᴘʀᴇᴘᴏsɪᴛɪᴏɴ, whereas "ante" is just an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. "ante" as an ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ ᴘʀᴇᴘᴏsɪᴛɪᴏɴ meaning "(different) than" restores the symmetry with "sama".
 
 | (ᴘᴜ) sinpin lawa ⇒ (ꜱᴏɴᴊᴀ) sinpin | (ᴜɴ-ᴘᴏɴᴀ) lon anpa ⇒ (ᴘᴏɴᴀ) lon noka | (ᴜɴ-ᴘᴏɴᴀ) jan li suli mute ante mani. ⇒ (ᴘᴏɴᴀ) jan li suli mute. mani li suli lili. |
 |:-|:-|:-|
 | *face* | *under* | *People are more important than money.* |
-
----
-
 
