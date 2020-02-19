@@ -102,8 +102,8 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 
 | | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
-| *I went, too!* | **mi tawa kin!** | **sama la mi tawa a!** / **sin la mi a li tawa!** |
-| *I'm still eating.* | **mi moku kin.** | **mi awen moku.** / **mi pini ala moku.** |
+| *I went, too!* | **mi tawa kin!** | **sama la mi tawa a!** |
+| *I'm still eating.* | **mi moku kin.** | **sin la mi tawa a.** |
 
 ## namako
 
