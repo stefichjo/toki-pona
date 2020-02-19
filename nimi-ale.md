@@ -180,7 +180,7 @@ When all members of a [**ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ**](nasin-nimi.md) are in tw
 |:-|:-|
 | <img src="sitelen/pona/ken.png" height="50" title="ken"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](nasin-nimi.md#modifier) + [**ᴘʀᴇ-ᴠᴇʀʙ**](nasin-nimi.md#pre-verb) **ken**, *wile* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **possible** + <br>ᴘʀᴇ-ᴠᴇʀʙ **to be able to**, **be allowed to**, **can**, **may** |
 
-Semantic completions are written in [**italic and blue**](tepan.md).
+Semantic completions are written in [*italic and blue*](tepan.md).
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
