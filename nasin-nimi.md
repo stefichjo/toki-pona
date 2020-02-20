@@ -3,6 +3,8 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
+There are two main **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es: [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s and [ᴘᴀʀᴛɪᴄʟᴇ](#particle).
+
 | |
 |:-|
 | [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) |
@@ -23,8 +25,8 @@ This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. 
 A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines how (and if) a word can be used as ᴘᴀʀᴛs ᴏꜰ ꜱᴘᴇᴇᴄʜ, i.e. as ɴᴏᴜɴ, ᴀᴅᴊᴇᴄᴛɪᴠᴇ, ᴀᴅᴠᴇʀʙ, ᴠᴇʀʙ, ᴘʀᴇ-ᴠᴇʀʙ, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ or ᴘᴀʀᴛɪᴄʟᴇ. The following **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es exist:
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
-  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴛʜɪɴɢ**](#thing) ([**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ᴀᴍᴏᴜɴᴛ**](#amount), [**ᴀʀᴇᴀ**](#area), [**ᴛᴏᴏʟ**](#tool), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form))
-  * [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier): [**ᴠᴇʀʙ**](#verb), [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb), [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
+  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴛʜɪɴɢ**](#thing) ([**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ᴀʀᴇᴀ**](#area), [**ᴛᴏᴏʟ**](#tool), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form))
+  * [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier): [**ɴᴜᴍʙᴇʀ**](#number), [**ᴠᴇʀʙ**](#verb), [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb), [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ**](#mood), [**ᴄᴀꜱᴇ**](#case)
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
@@ -85,7 +87,7 @@ The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/ale.png" height="50" title="ale"> | [**ᴀᴍᴏᴜɴᴛ**](#amount) *ala*, **ale**, *esun*, *luka*, *mute*, *tu*, *wan* (⇐ *~~ali~~*) <br>ɴᴏᴜɴ [**infinity**](sonja.md#famous-quotations) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](sonja.md#lesson-12), **countless**; [**100**](sonja.md#lesson-12) |
+| <img src="sitelen/pona/ale.png" height="50" title="ale"> | [**ɴᴜᴍʙᴇʀ**](#number) *ala*, **ale**, *esun*, *luka*, *mute*, *tu*, *wan* (⇐ *~~ali~~*) <br>ɴᴏᴜɴ [**infinity**](sonja.md#famous-quotations) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](sonja.md#lesson-12), **countless**; [**100**](sonja.md#lesson-12) |
 
 # CONTENT WORD
 *([nimi](#toki-pona-word-classes-and-parts-of-speech) suli)*
@@ -95,7 +97,7 @@ The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~
 | [ɴᴏᴜɴ](#noun) |
 | [ᴍᴏᴅɪꜰɪᴇʀ](#modifier) |
 
-**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**s can become any ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ, except for [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s. (Only [ꜱᴏᴜɴᴅ](#sound)s can be both **ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**s and [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s.)
+**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**s can become any ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ, except for [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s. (Only [ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ](#sound)s can be both **ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**s and [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s.)
 
 ## NOUN
 *([nimi suli](#content-word) lawa)*
@@ -136,7 +138,6 @@ The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~
 | |
 |:-|
 | [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) |
-| [ᴀᴍᴏᴜɴᴛ](#amount) |
 | [ᴀʀᴇᴀ](#area) |
 | [ᴛᴏᴏʟ](#tool) |
 | [ʟɪꜰᴇ-ꜰᴏʀᴍ](#life-form) |
@@ -152,7 +153,7 @@ The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~
 #### CORRELATIVE
 *([nimi suli lawa ijo](#thing) sama)*
 
-**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs** are **ᴛʜɪɴɢ ɴᴏᴜɴ**s, i.e. they imply **ijo**.
+**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ɴᴏᴜɴs** are **ᴛʜɪɴɢ ɴᴏᴜɴ**s, i.e. they imply **ijo**.
 
 | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ale |
 |:-|
@@ -176,15 +177,6 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 |:-|
 | *The question number one is whether the universe is good or evil.* |
 
-#### AMOUNT
-*([nimi suli lawa ijo](#thing) mute)*
-
-**ᴀᴍᴏᴜɴᴛ ɴᴏᴜɴ**s are **ᴛʜɪɴɢ ɴᴏᴜɴ**s, i.e. they imply **ijo**, meaning *amount*. (**ᴀᴍᴏᴜɴᴛ ɴᴏᴜɴ**s are also often used as [ɴᴀᴍᴇ](#name)s after **nanpa**.)
-
-| ᴀᴍᴏᴜɴᴛ ala |
-|:-|
-| ɴᴏᴜɴ *zero* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *zero* |
-
 #### AREA
 *([nimi suli lawa ijo](#thing) ma)*
 
@@ -192,7 +184,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 
 | ᴀʀᴇᴀ insa |
 |:-|
-| ɴᴏᴜɴ innards → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner |
+| ɴᴏᴜɴ *innards* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner* |
 
 #### TOOL
 *([nimi suli lawa ijo](#thing) ilo)*
@@ -217,6 +209,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 
 | |
 |:-|
+| [ɴᴜᴍʙᴇʀ](#number) |
 | [ᴠᴇʀʙ](#verb) |
 | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
 | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
@@ -226,6 +219,15 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 | ᴍᴏᴅɪꜰɪᴇʀ pona |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* <br>ɴᴏᴜɴ *goodness* <br>ᴠᴇʀʙ *to improve* |
+
+### NUMBER
+*([nimi suli poka](#thing) nanpa)*
+
+**ɴᴜᴍʙᴇʀ**s can be used as [ɴᴀᴍᴇ ᴘᴀʀᴛɪᴄʟᴇ](#name)s after **nanpa**.
+
+| ɴᴜᴍʙᴇʀ tu | mute pi ijo tu | tawa musi pi jan tu | toki nanpa tu |
+|:-|:-|:-|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* | *pair* | *pair dance* | *the second language* |
 
 ### VERB
 *([nimi suli poka](#modifier) luka)*
@@ -431,7 +433,7 @@ Before **la**, **ni** in front of a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜ�
 |:-|
 | *Why do you call me good?* |
 
-[ꜱᴏɴᴊᴀ](sonja.md#lesson-12) removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ᴀᴍᴏᴜɴᴛ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#amount). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ.
+[ꜱᴏɴᴊᴀ](sonja.md#lesson-12) removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ.
 
 | toki pi nanpa wan → toki nanpa wan |
 |:-|
