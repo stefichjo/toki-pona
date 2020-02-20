@@ -87,7 +87,7 @@ The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/ale.png" height="50" title="ale"> | [**ɴᴜᴍʙᴇʀ**](#number) *ala*, **ale**, *esun*, *luka*, *mute*, *tu*, *wan* (⇐ *~~ali~~*) <br>ɴᴏᴜɴ [**infinity**](sonja.md#famous-quotations) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](sonja.md#lesson-12), **countless**; [**100**](sonja.md#lesson-12) |
+| <img src="sitelen/pona/ale.png" height="50" title="ale"> | [**ɴᴜᴍʙᴇʀ**](nasin-nimi.md#number) *ala*, **ale**, *esun*, *luka*, *mute*, *tu*, *wan* (⇐ *~~ali~~*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](sonja.md#lesson-12), **countless**; [**100**](sonja.md#lesson-12) <br>ɴᴏᴜɴ [**infinity**](sonja.md#famous-quotations) |
 
 # CONTENT WORD
 *([nimi](#toki-pona-word-classes-and-parts-of-speech) suli)*
@@ -221,7 +221,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* <br>ɴᴏᴜɴ *goodness* <br>ᴠᴇʀʙ *to improve* |
 
 ### NUMBER
-*([nimi suli poka](#thing) nanpa)*
+*([nimi suli poka](#modifier) nanpa)*
 
 **ɴᴜᴍʙᴇʀ**s can be used as [ɴᴀᴍᴇ ᴘᴀʀᴛɪᴄʟᴇ](#name)s after **nanpa**.
 
