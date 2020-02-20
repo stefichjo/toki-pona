@@ -23,7 +23,7 @@ This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. 
 A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines how (and if) a word can be used as ᴘᴀʀᴛs ᴏꜰ ꜱᴘᴇᴇᴄʜ, i.e. as ɴᴏᴜɴ, ᴀᴅᴊᴇᴄᴛɪᴠᴇ, ᴀᴅᴠᴇʀʙ, ᴠᴇʀʙ, ᴘʀᴇ-ᴠᴇʀʙ, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ or ᴘᴀʀᴛɪᴄʟᴇ. The following **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es exist:
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
-  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴛᴏᴏʟ**](#tool), [**ᴛʜɪɴɢ**](#thing) ([**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ɴᴜᴍʙᴇʀ**](#number), [**ᴀʀᴇᴀ**](#area), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form))
+  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴛʜɪɴɢ**](#thing) ([**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ᴀᴍᴏᴜɴᴛ**](#amount), [**ᴀʀᴇᴀ**](#area), [**ᴛᴏᴏʟ**](#tool), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form))
   * [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier): [**ᴠᴇʀʙ**](#verb), [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb), [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ**](#mood), [**ᴄᴀꜱᴇ**](#case)
@@ -62,7 +62,7 @@ Semantic completions are written in [*italic and blue*](tepan.md).
 |:-|:-|
 | <img src="sitelen/pona/mije.png" height="50" title="mies"> | [**ᴘᴇʀꜱᴏɴ**](#person) *mama* — *meli*, **mije** <br>ɴᴏᴜɴ **male**, **man**, **masculine person**; **husband** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*male*](tepan.md) |
 
-When all members of a **ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ** are in two **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es, they are listed with a plus-sign (+).
+When all members of a **ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ** share the same **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es, they are listed  	with a plus-sign (+).
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
@@ -72,7 +72,7 @@ Synonyms are denoted with a double arrow (⇒).
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/anpa.png" height="50" title="an-ba"> | [**ᴀʀᴇᴀ**](#area) **anpa** — *sewi*, *noka* — *lawa* <br>ɴᴏᴜɴ (⇒ *noka*) → <br>… |
+| <img src="sitelen/pona/anpa.png" height="50" title="an-ba"> | [**ᴀʀᴇᴀ**](nasin-nimi.md#area) **anpa** — *sewi*, *noka* — *lawa* <br>ɴᴏᴜɴ (⇒ *noka*) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ …, **lowly**, … |
 | <img src="sitelen/pona/noka.png" height="50" title="noga"> | [**ᴀʀᴇᴀ**](#area) *anpa* — *sewi*, **noka** — *lawa* <br>ɴᴏᴜɴ **lowest part**; **bottom**, …; (⇐ *anpa*) [**area below or under**](sonja.md#lesson-15) … → <br>… |
 
 Extinct synonyms are written as *~~strikethroughs~~*. (Cf. Pije's page of [Extinct Words](http://tokipona.net/tp/janpije/extinctwords.php).)
@@ -85,7 +85,7 @@ The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/ale.png" height="50" title="ale"> | [**ɴᴜᴍʙᴇʀ**](#number) *ala*, **ale**, *esun*, *luka*, *mute*, *tu*, *wan* (⇐ *~~ali~~*) <br>ɴᴏᴜɴ [**infinity**](sonja.md#famous-quotations) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](sonja.md#lesson-12), **countless**; [**100**](sonja.md#lesson-12) |
+| <img src="sitelen/pona/ale.png" height="50" title="ale"> | [**ᴀᴍᴏᴜɴᴛ**](#amount) *ala*, **ale**, *esun*, *luka*, *mute*, *tu*, *wan* (⇐ *~~ali~~*) <br>ɴᴏᴜɴ [**infinity**](sonja.md#famous-quotations) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](sonja.md#lesson-12), **countless**; [**100**](sonja.md#lesson-12) |
 
 # CONTENT WORD
 *([nimi](#toki-pona-word-classes-and-parts-of-speech) suli)*
@@ -95,7 +95,7 @@ The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~
 | [ɴᴏᴜɴ](#noun) |
 | [ᴍᴏᴅɪꜰɪᴇʀ](#modifier) |
 
-**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**s can become any ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ, except for [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s. (But [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s of the **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ can become **ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**s.)
+**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**s can become any ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ, except for [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s. (Only [ꜱᴏᴜɴᴅ](#sound)s can be both **ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**s and [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s.)
 
 ## NOUN
 *([nimi suli](#content-word) lawa)*
@@ -119,12 +119,12 @@ The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~
 
 | ᴘʀᴏɴᴏᴜɴ sina |
 |:-|
-| ɴᴏᴜɴ *you* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* |
+| ɴᴏᴜɴ *you* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* |
 
 ### PERSON
 *([nimi suli lawa](#noun) jan)*
 
-**ɴᴏᴜɴ**s of the **ᴘᴇʀꜱᴏɴ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ imply **jan**.
+**ᴘᴇʀꜱᴏɴ ɴᴏᴜɴ**s imply **jan**.
 
 | ᴘᴇʀꜱᴏɴ meli |
 |:-|
@@ -135,49 +135,36 @@ The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~
 
 | |
 |:-|
-| [ᴛᴏᴏʟ](#tool) |
 | [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) |
-| [ɴᴜᴍʙᴇʀ](#number) |
+| [ᴀᴍᴏᴜɴᴛ](#amount) |
 | [ᴀʀᴇᴀ](#area) |
+| [ᴛᴏᴏʟ](#tool) |
 | [ʟɪꜰᴇ-ꜰᴏʀᴍ](#life-form) |
 
-As [ɴᴏᴜɴ](#noun)s, ijo-ɴᴏᴜɴs imply "ijo".
+**ᴛʜɪɴɢ ɴᴏᴜɴ**s imply **ijo**.
 
-| ijo-ɴᴏᴜɴ sike |
+| ᴛʜɪɴɢ sike |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round* → ɴᴏᴜɴ *something round* |
+| ɴᴏᴜɴ *something round* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round* |
 
-All [ɴᴏᴜɴ](#noun)s can imply food.
-
-| ɴᴏᴜɴ telo | ɴᴏᴜɴ kala |
-|:-|:-|
-| ɴᴏᴜɴ *water* → *beverage*| ɴᴏᴜɴ *fish* → *seefood* |
-
-#### TOOL
-*([nimi suli lawa](#noun) ilo)*
-
-ilo-ɴᴏᴜɴs imply **ilo**. As a [ᴠᴇʀʙ](#verb), they imply *usage*.
-
-| ilo-ɴᴏᴜɴ lukin |
-|:-|
-| ɴᴏᴜɴ *eye* → ᴠᴇʀʙ *to see* |
+(In [Frontier Toki Pona](tepan.md), **mute**, **ma**, **ilo** and **sijelo** are **ᴛʜɪɴɢ ɴᴏᴜɴ**s, too. They can be used to express *amount*, *area*, *tool*/*useful* and *life-form*/*alive*.)
 
 #### CORRELATIVE
 *([nimi suli lawa ijo](#thing) sama)*
 
-As [ɴᴏᴜɴ](#noun)s, ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs imply "ijo".
+**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs** are **ᴛʜɪɴɢ ɴᴏᴜɴ**s, i.e. they imply **ijo**.
 
 | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ale |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ every → ɴᴏᴜɴ everything |
+| ɴᴏᴜɴ *everything* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *every* |
 
-In a [genitive](#genitive) ᴄʟᴀᴜꜱᴇ, "ijo" before a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ reappears.
+After [**pi**](#genitive-case), **ijo** reappears.
 
 | mama pi ijo ale | mama ale |
 |:-|:-|
 | *parent of everything* | *every parent* |
 
-A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is a ꜱᴇɴᴛᴇɴᴄᴇ describing or modifying a word (usually the [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) "ni") in another ꜱᴇɴᴛᴇɴᴄᴇ.
+ꜱᴇɴᴛᴇɴᴄᴇs after the **ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ** **ni:** can be translated as a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
 
 | mi sona e ni: mi anpa. |
 |:-|
@@ -189,44 +176,41 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 |:-|
 | *The question number one is whether the universe is good or evil.* |
 
-#### NUMBER
-*([nimi suli lawa ijo](#thing) nanpa)*
+#### AMOUNT
+*([nimi suli lawa ijo](#thing) mute)*
 
-As [ɴᴏᴜɴ](#noun)s, ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo" meaning "amount".
+**ᴀᴍᴏᴜɴᴛ ɴᴏᴜɴ**s are **ᴛʜɪɴɢ ɴᴏᴜɴ**s, i.e. they imply **ijo**, meaning *amount*. (**ᴀᴍᴏᴜɴᴛ ɴᴏᴜɴ**s are also often used as [ɴᴀᴍᴇ](#name)s after **nanpa**.)
 
-| ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇs ala |
+| ᴀᴍᴏᴜɴᴛ ala |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *zero* → ɴᴏᴜɴ *zero* |
-
-ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇs can be used as [ɴᴀᴍᴇ](#name)s after "nanpa".
-
-| sina nanpa wan. |
-|:-|
-| *You're number one.* |
+| ɴᴏᴜɴ *zero* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *zero* |
 
 #### AREA
 *([nimi suli lawa ijo](#thing) ma)*
 
-As [ɴᴏᴜɴ](#noun)s, ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo" with a ꜱᴘᴀᴛɪᴀʟ connotation.
+**ᴀʀᴇᴀ ɴᴏᴜɴ**s are **ᴛʜɪɴɢ ɴᴏᴜɴ**s, i.e. they imply **ijo**, meaning *area*.
 
-| ꜱᴘᴀᴛɪᴀʟ ᴀᴅᴊᴇᴄᴛɪᴠᴇ insa |
+| ᴀʀᴇᴀ insa |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner → ɴᴏᴜɴ innards |
+| ɴᴏᴜɴ innards → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ inner |
 
-The ɴᴏᴜɴ "ijo" can have a ꜱᴘᴀᴛɪᴀʟ connotation.
+#### TOOL
+*([nimi suli lawa ijo](#thing) ilo)*
 
-| lon ijo |
+**ᴛᴏᴏʟ ɴᴏᴜɴ**s imply **ilo**.
+
+| ᴛᴏᴏʟ lukin |
 |:-|
-| somewhere |
+| ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to use eyes on*, *to see* |
 
 #### LIFE-FORM
 *([nimi suli lawa ijo](#thing) sijelo)*
 
-As [ɴᴏᴜɴ](#noun)s, ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs imply "ijo" meaning "life-form". However, they are rarely used as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Therefore, as ᴀᴅᴊᴇᴄᴛɪᴠᴇs they seem to imply "sama", refering to the ɴᴏᴜɴ form.
+**ʟɪꜰᴇ-ꜰᴏʀᴍ ɴᴏᴜɴ**s are **ᴛʜɪɴɢ ɴᴏᴜɴ**s, i.e. they imply **ijo**, meaning *life-form*.
 
-| (ᴛᴇᴘᴀɴ) ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ akesi ⇒ (ᴘᴏɴᴀ) ᴀᴅᴊᴇᴄᴛɪᴠᴇ ~~sama~~ akesi |
+| ʟɪꜰᴇ-ꜰᴏʀᴍ waso |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ cold-blooded, reptile-like → ɴᴏᴜɴ reptile |
+| ɴᴏᴜɴ *flying creature* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flying* |
 
 ## MODIFIER
 *([nimi suli](#content-word) poka)*
@@ -237,30 +221,22 @@ As [ɴᴏᴜɴ](#noun)s, ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇs impl
 | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
 | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
 
-An **ᴀᴅᴊᴇᴄᴛɪᴠᴇ** describes or modifies a (simple) [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun).
+ᴀᴅᴊᴇᴄᴛɪᴠᴇs of the **ᴍᴏᴅɪꜰɪᴇʀ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ keep their meaning when used as another ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ.
 
-| jan | jan pona | jan pona mute |
-|:-|:-|:-|
-| *person* | *friendly person*, *friend* | *friends* |
-
-Simple ᴀᴅᴊᴇᴄᴛɪᴠᴇs don't imply additional meaning when used as [ᴠᴇʀʙ](#verb)s or [ɴᴏᴜɴ](#noun)s.
-
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ wawa | mi wawa. | wawa li lon insa. | telo li wawa e mi. |
-|:-|:-|:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ strong, ᴠᴇʀʙ to strengthen, ɴᴏᴜɴ strength | *I am strong.* | *Strength lies within.* | *Water strengthens me.* |
+| ᴍᴏᴅɪꜰɪᴇʀ pona |
+|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* <br>ɴᴏᴜɴ *goodness* <br>ᴠᴇʀʙ *to improve* |
 
 ### VERB
 *([nimi suli poka](#modifier) luka)*
 
-| |
-|:-|
-| [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
+ᴀᴅᴊᴇᴄᴛɪᴠᴇs of the **ᴠᴇʀʙ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ keep their meaning. ɴᴏᴜɴs derived from **ᴠᴇʀʙ**s can also mean their [direct object](#accusative-case).
 
-When their [direct object phrase](#direct-object) is omitted, ᴠᴇʀʙs behave like ᴀᴅᴊᴇᴄᴛɪᴠᴇs. As a [ɴᴏᴜɴ](#noun), ᴠᴇʀʙs can also mean their [direct object](#direct-object).
-
-| ᴠᴇʀʙ sitelen |
+| ᴠᴇʀʙ moku |
 |:-|
-| ᴠᴇʀʙ *to draw*, ᴀᴅᴊᴇᴄᴛɪᴠᴇ *drawing*, ɴᴏᴜɴ *drawing* → ɴᴏᴜɴ *picture* |
+| ᴠᴇʀʙ *to eat* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *eating* <br>ɴᴏᴜɴ *eating* → <br>ɴᴏᴜɴ *food* |
+
+---
 
 ### PRE-VERB
 *([nimi suli poka](#modifier) monsi)*
@@ -455,11 +431,18 @@ Before **la**, **ni** in front of a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜ�
 |:-|
 | *Why do you call me good?* |
 
-[ꜱᴏɴᴊᴀ](sonja.md#lesson-12) removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ.
+[ꜱᴏɴᴊᴀ](sonja.md#lesson-12) removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ᴀᴍᴏᴜɴᴛ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#amount). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ.
 
 | toki pi nanpa wan → toki nanpa wan |
 |:-|
 | *the language with the number one*, *the language of the first turn* → *the language number one* |
+
+...
+
+
+| sina nanpa wan. |
+|:-|
+| *You're number one.* |
 
 ### INTERJECTION
 *([nimi lili poka](#sound) toki)*

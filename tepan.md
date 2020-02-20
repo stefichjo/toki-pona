@@ -248,3 +248,8 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ](nasin-nimi.md#thing)s, i.e. 
 ---
 
 
+All [ɴᴏᴜɴ](#noun)s can imply food.
+
+| ᴛʜɪɴɢ telo |
+|:-|
+| ɴᴏᴜɴ *water*; *beverage*|
