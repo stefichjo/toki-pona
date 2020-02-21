@@ -325,9 +325,9 @@ A **ᴠᴏʟᴀᴛɪᴠᴇ** can be reduced to the ᴏʙᴊᴇᴄᴛ of the ꜱ�
 #### GENITIVE
 *([nimi lili lawa](#phrase-marker) "pi")*
 
-The **ᴘᴀʀᴛɪᴄʟᴇ** **pi** marks a [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) that can be translated as a **ɢᴇɴɪᴛɪᴠᴇ** or as an [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective).
+The **ᴘᴀʀᴛɪᴄʟᴇ** **pi** marks a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that can be translated as a **ɢᴇɴɪᴛɪᴠᴇ** or as an [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective).
 
-When the [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) consists of only one [ɴᴏᴜɴ](#noun), **pi** is omitted.
+When the ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ consists of only one [ɴᴏᴜɴ](#noun), **pi** is omitted.
 
 | jan pi pona mute | toki pona |
 |:-|:-|
@@ -336,7 +336,7 @@ When the [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) consists of only one [ɴᴏᴜɴ](
 #### ACCUSATIVE
 *([nimi lili lawa](#phrase-marker) "e")*
 
-The **ᴘᴀʀᴛɪᴄʟᴇ** **e** marks a [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) as an **ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ**, i.e. the ᴏʙᴊᴇᴄᴛ of a ᴘʀᴇᴅɪᴄᴀᴛᴇ.
+The **ᴘᴀʀᴛɪᴄʟᴇ** **e** marks a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ as an **ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ**, i.e. the ᴏʙᴊᴇᴄᴛ of a ᴘʀᴇᴅɪᴄᴀᴛᴇ.
 
 When there is enough context, the ᴏʙᴊᴇᴄᴛ of a [ᴠᴇʀʙ](#verb) can be omitted.
 
@@ -356,7 +356,7 @@ When there is enough context, the ᴏʙᴊᴇᴄᴛ of a [ᴠᴇʀʙ](#verb) can
 ### AND
 *([nimi lili insa](#conjunction) "en")*
 
-The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **en** means *and*. It combines two [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s into one.
+The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **en** means *and*. It combines two ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs into one.
 
 | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ en | utala en pona |
 |:-|:-|
@@ -365,7 +365,7 @@ The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **en** means *and*. It combines two [ɴᴏ
 ### OR
 *([nimi lili insa](#conjunction) "anu")*
 
-The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **anu** means *or*. It combines two [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s into one.
+The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **anu** means *or*. It combines two ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs into one.
 
 | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ anu | ona li mama anu seme? |
 |:-|:-|
