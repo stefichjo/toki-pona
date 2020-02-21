@@ -325,7 +325,7 @@ A **ᴠᴏʟᴀᴛɪᴠᴇ** can be reduced to the ᴏʙᴊᴇᴄᴛ of the ꜱ�
 #### GENITIVE
 *([nimi lili lawa](#phrase-marker) "pi")*
 
-The **ᴘᴀʀᴛɪᴄʟᴇ** **pi** marks a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that can be translated as a **ɢᴇɴɪᴛɪᴠᴇ** or as an [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective).
+The **ᴘᴀʀᴛɪᴄʟᴇ** **pi** marks a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that can be translated as a **ɢᴇɴɪᴛɪᴠᴇ** or as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
 
 When the ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ consists of only one [ɴᴏᴜɴ](#noun), **pi** is omitted.
 
