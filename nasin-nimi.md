@@ -243,9 +243,9 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 
 When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ share the same ꜱᴜʙᴊᴇᴄᴛ, their two ᴘʀᴇᴅɪᴄᴀᴛᴇs can merge, provided the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's ᴘʀᴇᴅɪᴄᴀᴛᴇ is a **ᴘʀᴇ-ᴠᴇʀʙ**.
 
-| mi sona e nasin ni: mi anpa. → mi sona anpa. |
-|:-|
-| ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I know how to be humble.* |
+| ᴘʀᴇ-ᴠᴇʀʙ sona | mi sona e nasin ni: mi anpa. → mi sona anpa. |
+|:-|:-|
+| ᴘʀᴇ-ᴠᴇʀʙ *to know how to* <br>ᴠᴇʀʙ *to know* | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I know how to be humble.* |
 
 ### PREPOSITION
 *([nimi suli poka](#modifier) palisa)*
