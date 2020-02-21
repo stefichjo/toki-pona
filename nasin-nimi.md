@@ -245,7 +245,7 @@ When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜ�
 
 | ᴘʀᴇ-ᴠᴇʀʙ sona | mi sona e nasin ni: mi anpa. → mi sona anpa. |
 |:-|:-|
-| ᴘʀᴇ-ᴠᴇʀʙ *to know how to* <br>ᴠᴇʀʙ *to know* | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ → <br>ᴘʀᴇ-ᴠᴇʀʙ + ᴘʀᴇᴅɪᴄᴀᴛᴇ I know how to be humble.* |
+| ᴘʀᴇ-ᴠᴇʀʙ *to know how to* <br>ᴠᴇʀʙ *to know* | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ → <br>ᴘʀᴇ-ᴠᴇʀʙ + ᴘʀᴇᴅɪᴄᴀᴛᴇ *I know how to be humble.* |
 
 ### PREPOSITION
 *([nimi suli poka](#modifier) palisa)*
