@@ -373,7 +373,7 @@ One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as whole ꜱᴇɴᴛᴇɴ�
 | | [**ɴᴜᴍʙᴇʀ**](#number) **ala**, *ale*, *esun*, *luka*, *mute*, *tu*, *wan* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**0**](sonja.md#lesson-12): (*~~mute pi ijo~~ ala*) [**zero**](sonja.md#famous-quotations) |
 | <img src="sitelen/pona/alasa.png" height="50" title="a-la-ŝas"> | [**ᴠᴇʀʙ**](#verb) **alasa**, *moku*, *olin*, *pali*, *unpa* <br>ᴠᴇʀʙ **to hunt**, **forage** |
 | <img src="sitelen/pona/ale.png" height="50" title="ale"> | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) **ale**, *ni*, *seme*, *wan* (⇐ *~~ali~~*) <br>ɴᴏᴜɴ **everything** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*~~mute~~ ale*) **all**, **every**; (*~~wan~~ ale*) **all** |
-| | [**ɴᴜᴍʙᴇʀ**](#number) *ala*, **ale**, *esun*, *luka*, *mute*, *tu*, *wan* (⇐ *~~ali~~*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](sonja.md#lesson-12), **countless**: (~~mute pi ijo~~ ale) [**infinity**](sonja.md#famous-quotations); [**100**](sonja.md#lesson-12) |
+| | [**ɴᴜᴍʙᴇʀ**](#number) *ala*, **ale**, *esun*, *luka*, *mute*, *tu*, *wan* (⇐ *~~ali~~*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](sonja.md#lesson-12), **countless**: (*~~mute pi ijo~~ ale*) [**infinity**](sonja.md#famous-quotations); [**100**](sonja.md#lesson-12) |
 | | [**ᴛʜɪɴɢ**](#thing) *lili* — **ale**, *ilo*, *mani*, *mute*, *suli*, *wawa* (⇐ *~~ali~~*) <br>ɴᴏᴜɴ **life**, **universe** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **bountiful**, **plentiful** <br>ɴᴏᴜɴ **abundance** |
 | <img src="sitelen/pona/anpa.png" height="50" title="an-ba"> | [**ᴀʀᴇᴀ**](#area) **anpa** — *sewi*, *noka* — *lawa* <br>ɴᴏᴜɴ (⇒ *noka*) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bowing down**, **downward**, **humble**, **lowly**, [**powerless**](sonja.md#short-obligatory-prayer); **dependent** |
 | <img src="sitelen/pona/ante.png" height="50" title="ander"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) **ante** ⇐ *esun* — *sama* ⇐ *pu* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (⇒ *ante lon poka*); (⇐ *esun*) *instead of*<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **altered**, **changed**, **different**: (*ante lon poka* ⇐ *ante*) *than*, *unlike*; (⇐ *esun*) **other** <br>ɴᴏᴜɴ (*~~kama~~ ante*) [**change**](sonja.md#toki-pona-proverbs) |
@@ -559,6 +559,5 @@ The obsolete synonyms **ali**, **kin**, **namako** and **oko** are written as *~
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/ale.png" height="50" title="ale"> | [**ɴᴜᴍʙᴇʀ**](#number) *ala*, **ale**, *esun*, *luka*, *mute*, *tu*, *wan* (⇐ *~~ali~~*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](sonja.md#lesson-12), **countless**: (~~mute pi ijo~~ ale) [**infinity**](sonja.md#famous-quotations); [**100**](sonja.md#lesson-12) |
-
+| <img src="sitelen/pona/ale.png" height="50" title="ale"> | [**ɴᴜᴍʙᴇʀ**](#number) *ala*, **ale**, *esun*, *luka*, *mute*, *tu*, *wan* (⇐ *~~ali~~*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](sonja.md#lesson-12), **countless**: (*~~mute pi ijo~~ ale*) [**infinity**](sonja.md#famous-quotations); [**100**](sonja.md#lesson-12) |
 
