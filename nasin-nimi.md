@@ -20,7 +20,7 @@ A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines how (and if) a word can be used as �
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
   * [**ꜱᴏᴜɴᴅ**](#sound)
 
-Each [dictionary](nimi-ale.md) entry indicates a word's **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** and its **ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ** members. Antonyms are separated by a dash (—).
+Each [dictionary](#toki-pona-dictionary) entry indicates a word's **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** and its **ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ** members. Antonyms are separated by a dash (—).
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
