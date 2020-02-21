@@ -169,7 +169,7 @@ After [**pi**](#genitive-case), **ijo** reappears.
 
 | mi sona e ni: mi anpa. |
 |:-|
-| ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I know that I'm low.* |
+| ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I know that I'm powerless.* |
 
 A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a question ending in a question mark.
 
@@ -238,23 +238,19 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 |:-|
 | ᴠᴇʀʙ *to eat* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *eating* <br>ɴᴏᴜɴ *eating* → <br>ɴᴏᴜɴ *food* |
 
----
-
 ### PRE-VERB
 *([nimi suli poka](#modifier) monsi)*
 
-Some ᴠᴇʀʙs allow to be merged with a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause)'s [predicate](#predicate). Such ᴠᴇʀʙs are auxiliary verbs. ꜱᴏɴᴊᴀ uses the term "ᴘʀᴇ-ᴠᴇʀʙ" for auxiliary verbs.
+When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ share the same ꜱᴜʙᴊᴇᴄᴛ, their two ᴘʀᴇᴅɪᴄᴀᴛᴇs can merge, provided the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's ᴘʀᴇᴅɪᴄᴀᴛᴇ is a **ᴘʀᴇ-ᴠᴇʀʙ**.
 
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ + ᴘʀᴇ-ᴠᴇʀʙ kama | ijo/jan li kama e ni: mi sona e toki pona. → mi kama sona e toki pona. |
-|:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *coming*, ᴠᴇʀʙ *to summon* + ᴘʀᴇ-ᴠᴇʀʙ *to manage to*, ᴠᴇʀʙ *to achieve* | I'm learning Toki Pona. |
-
-| ᴠᴇʀʙ + ᴘʀᴇ-ᴠᴇʀʙ lukin | mi lukin e ni: mi lape. → mi lukin lape. |
-|:-|:-|
-| ᴠᴇʀʙ *to see* + ᴘʀᴇ-ᴠᴇʀʙ *to try to*, ᴠᴇʀʙ *to care for* | *I try to sleep.* |
+| mi sona e nasin ni: mi anpa. → mi sona anpa. |
+|:-|
+| ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I know how to be humble.* |
 
 ### PREPOSITION
 *([nimi suli poka](#modifier) palisa)*
+
+---
 
 ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are like [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s with an additional [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun).
 
