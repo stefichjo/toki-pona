@@ -10,18 +10,6 @@ There are two main **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es: [ᴄᴏɴᴛᴇɴᴛ ᴡᴏ
 | [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) |
 | [ᴘᴀʀᴛɪᴄʟᴇ](#particle) |
 
-This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. ᴘᴜ rules enforce the omission of words:
-
-| (ᴜɴ-ᴘᴜ) toki pi pona ⇒  (ᴘᴜ) toki pona |
-|:-|
-| *Language of Good* |
-
-ᴘᴏɴᴀ rules purposely limit Toki Pona's expressiveness for the sake of a simpler style. Both ᴘᴜ rules and ᴘᴏɴᴀ rules actually complicate Toki Pona's grammar, yet they are considered ᴍᴀɴᴅᴀᴛᴏʀʏ, and sticking to them is therefore encouraged.
-
-| (ᴜɴ-ᴘᴏɴᴀ) mi wile e ona o musi. ⇒ (ᴘᴏɴᴀ) mi wile e ni: ona li musi. |
-|:-|
-| *I want her to play.* |
-
 A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines how (and if) a word can be used as ᴘᴀʀᴛs ᴏꜰ ꜱᴘᴇᴇᴄʜ, i.e. as ɴᴏᴜɴ, ᴀᴅᴊᴇᴄᴛɪᴠᴇ, ᴀᴅᴠᴇʀʙ, ᴠᴇʀʙ, ᴘʀᴇ-ᴠᴇʀʙ, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ or ᴘᴀʀᴛɪᴄʟᴇ. The following **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es exist:
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
@@ -30,7 +18,7 @@ A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines how (and if) a word can be used as �
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ**](#mood), [**ᴄᴀꜱᴇ**](#case)
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
-  * [**ꜱᴏᴜɴᴅ**](#sound): [**ɴᴀᴍᴇ**](#name), [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection)
+  * [**ꜱᴏᴜɴᴅ**](#sound)
 
 Each [dictionary](nimi-ale.md) entry indicates a word's **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** and its **ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ** members. Antonyms are separated by a dash (—).
 
@@ -223,11 +211,11 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 ### NUMBER
 *([nimi suli poka](#modifier) nanpa)*
 
-**ɴᴜᴍʙᴇʀ**s can be used as [ɴᴀᴍᴇ ᴘᴀʀᴛɪᴄʟᴇ](#name)s after **nanpa**.
+**ɴᴜᴍʙᴇʀ**s are **ᴍᴏᴅɪꜰɪᴇʀ**s that describe *quantities*.
 
-| ɴᴜᴍʙᴇʀ tu | mute pi ijo tu | tawa musi pi jan tu | toki nanpa tu |
-|:-|:-|:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* | *pair* | *pair dance* | *the second language* |
+| ɴᴜᴍʙᴇʀ tu | mute pi ijo tu | tawa musi pi jan tu |
+|:-|:-|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* | *pair* | *pair dance* |
 
 ### VERB
 *([nimi suli poka](#modifier) luka)*
@@ -250,37 +238,17 @@ When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜ�
 ### PREPOSITION
 *([nimi suli poka](#modifier) palisa)*
 
----
-
-ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are like [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective)s with an additional [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun).
+ᴀᴅᴊᴇᴄᴛɪᴠᴇs of the **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ keep their meaning when used as another ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ.
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ moving → ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ going to, towards; for |
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *moving to* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *moving* <br>ɴᴏᴜɴ *movement* |
 
-ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs follow [ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ](#particle)s.
+**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ**s form the [ᴄᴏɴᴛᴇxᴛ](#if-then) of a ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | mi pana e kili tawa sina. |
 |:-|
 | *I'm giving you an apple.* |
-
-When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped. A ᴘᴀʀᴛɪᴄʟᴇ (typically **ala**) can be added to the ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but not another ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
-
-| (ᴜɴ-ᴘᴜ) mi tawa tawa tomo. ⇒ (ᴘᴜ) mi tawa tomo. | (ᴜɴ-ᴘᴜ) mi tawa ala tawa tomo. ⇒ (ᴘᴜ) mi tawa ala tomo. | mi tawa wawa tawa tomo. |
-|:-|:-|:-|
-| *I'm going home.* | *I'm not going home.* | *I'm running home.* |
-
-ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are used only at the end of **predicates**.
-
-| (ᴜɴ-ᴘᴏɴᴀ) jan lon poka ⇒ (ᴘᴏɴᴀ) jan poka | (ᴜɴ-ᴘᴏɴᴀ) jan pi pona tawa lukin ⇒ (ᴘᴏɴᴀ) jan pi pona lukin |
-|:-|:-|
-| *neighbour* | *beautiful person* |
-
-A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can therefore be safely removed.
-
-| (ᴜɴ-ᴘᴏɴᴀ) mi toki tawa sina, lon tomo. ⇒ (ᴘᴏɴᴀ) mi toki tawa sina lon tomo. |
-|:-|
-| *I'm talking to you at home.* |
 
 # PARTICLE
 *([nimi](#toki-pona-word-classes-and-parts-of-speech) lili)*
@@ -291,83 +259,90 @@ A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can
 | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction) |
 | [ꜱᴏᴜɴᴅ](#sound) |
 
+**ᴘᴀʀᴛɪᴄʟᴇ**s can only be used as **ᴘᴀʀᴛɪᴄʟᴇ**s. (Only [ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ](#sound)s can be both **ᴘᴀʀᴛɪᴄʟᴇ**s and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s.)
+
 ## PHRASE MARKER
 *([nimi lili](#particle) lawa)*
 
 | |
 |:-|
-| [ᴍᴏᴏᴅ](#mood): [Indicative Mood](#indicative-mood), [Volative, Vocative and Imperative Mood](#volative-vocative-and-imperative-mood) |
-| [ᴄᴀꜱᴇ](#case): [Genitive Case](#genitive-case), [Accusative Case](#accusative-case) |
+| [ᴍᴏᴏᴅ](#mood): [ɪɴᴅɪᴄᴀᴛɪᴠᴇ ᴍᴏᴏᴅ](#indicative), [ᴠᴏʟᴀᴛɪᴠᴇ, ᴠᴏᴄᴀᴛɪᴠᴇ and ɪᴍᴘᴇʀᴀᴛɪᴠᴇ ᴍᴏᴏᴅ](#volative-vocative-and-imperative) |
+| [ᴄᴀꜱᴇ](#case): [ɢᴇɴɪᴛɪᴠᴇ ᴄᴀꜱᴇ](#genitive), [ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ ᴄᴀꜱᴇ](#accusative) |
 
-### Mood
+### MOOD
 
-#### Indicative Mood
+#### INDICATIVE
 *([nimi lili lawa](#phrase-marker) "li")*
 
-If the **subject** is just "mi" or "sina", the ᴘᴀʀᴛɪᴄʟᴇ "li" is omitted.
+The **ᴘᴀʀᴛɪᴄʟᴇ** **li** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ɪɴᴅɪᴄᴀᴛɪᴠᴇ**.
 
-| (ᴜɴ-ᴘᴜ) mi li mije. ⇒ (ᴘᴜ) mi mije. | (ᴜɴ-ᴘᴜ) sina li sin. ⇒ (ᴘᴜ) sina sin. |
+| ona li mama. | ona li mama ala. |
+|:-|:-|
+| *She is a parent.* | *She is not a parent.* |
+
+When there is enough context, a ꜱᴇɴᴛᴇɴᴄᴇ can be reduced its ᴘʀᴇᴅɪᴄᴀᴛᴇ or even the [ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ](#sound) that modifies it.
+
+| ona li mama anu seme? | ona li mama. → mama. | ona li mama ala. → ala. |
+|:-|:-|:-|
+| *Is she a parent?* | *Yes.* | *No.* |
+
+If the ꜱᴜʙᴊᴇᴄᴛ is just **mi** or **sina**, the **ᴘᴀʀᴛɪᴄʟᴇ** **li** is omitted.
+
+| mi mije. | sina sin. |
 |:-|:-|
 | *I am a man.* | *You are new.* |
 
-Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates**. **Commas** between them can be safely removed.
-
-| (ꜱᴏɴᴊᴀ) ma mama li lili, li lete. ⇒ (ᴘᴏɴᴀ) ma mama li lili li lete. |
-|:-|
-| *The motherland is small and cold.* |
-
-When there is enough context, the **subject** of a ꜱᴇɴᴛᴇɴᴄᴇ can be omitted in order to answer yes-or-no questions. The answer to a yes-or-now question can be further reduced to the [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) that modifies the **predicate**.
-
-| ona li mama. ⇒ mama. | ona li mama ala. ⇒ (ᴜɴ-ᴘᴜ) mama ala. ⇒ (ᴘᴜ) ala. |
-|:-|:-|
-| *She is a parent.* → *Yes.* | *She is not a parent.* → *No.* |
-
-#### Volative, Vocative and Imperative Mood
+#### VOLATIVE, VOCATIVE and IMPERATIVE
 *([nimi lili lawa](#phrase-marker) "o")*
 
-"sina" can be omitted before the ᴘᴀʀᴛɪᴄʟᴇ "o".
+The **ᴘᴀʀᴛɪᴄʟᴇ** **o** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏʟᴀᴛɪᴠᴇ** or **ɪᴍᴘᴇʀᴀᴛɪᴠᴇ**, or
+the ꜱᴜʙᴊᴇᴄᴛ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏᴄᴀᴛɪᴠᴇ**.
 
-| sina o lukin. → o lukin! | jan Ali o wawa. |
-|:-|:-|
-| *You should look.* → *Look!* | *Ali should be strong.* |
+| ᴠᴏʟᴀᴛɪᴠᴇ mi o moku e ijo pona. |
+|:-|
+| *I should eat good things.* |
 
-"kute" can be omitted after the ᴘᴀʀᴛɪᴄʟᴇ "o". ꜱᴏɴᴊᴀ doesn't combine two "o"-ᴘᴀʀᴛɪᴄʟᴇs.
+**sina** is omitted in an **ɪᴍᴘᴇʀᴀᴛɪᴠᴇ** ꜱᴇɴᴛᴇɴᴄᴇ.
 
-| o kute! → o! | (ᴜɴ-ᴘᴜ) jan Ali o, o wawa! → (ᴘᴜ) jan Ali o wawa! |
-|:-|:-|
-| *Listen!* → *Hey!* | *Hey Ali, be strong!* |
+| ᴠᴏʟᴀᴛɪᴠᴇ sina o moku. → ɪᴍᴘᴇʀᴀᴛɪᴠᴇ o moku! |
+|:-|
+| *You should eat.* → *Eat!* |
 
-A **volative** can be expressed by just mentioning the **direct object** (i.e. the words after the ᴘᴀʀᴛɪᴄʟᴇ "e") of a wish.
+**ᴠᴏᴄᴀᴛɪᴠᴇ** ꜱᴇɴᴛᴇɴᴄᴇs don't have a ᴘʀᴇᴅɪᴄᴀᴛᴇ.
 
-| sina o jo e moku pona. → moku pona! |
+| ᴠᴏᴄᴀᴛɪᴠᴇ jan Ali o! |
+|:-|
+| *Hey Ali!* |
+
+A **ᴠᴏʟᴀᴛɪᴠᴇ** can be reduced to the ᴏʙᴊᴇᴄᴛ of the ꜱᴇɴᴛᴇɴᴄᴇ, expressing a *wish*.
+
+| ᴠᴏʟᴀᴛɪᴠᴇ sina o jo e moku pona. → moku pona! |
 |:-|
 | *May you have a good meal.* → *Bon appétit!* |
 
-### Case
+### CASE
 
-#### Genitive Case
+#### GENITIVE
 *([nimi lili lawa](#phrase-marker) "pi")*
 
-If a **genitive** [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) (or [ᴀᴅᴊᴇᴄᴛɪᴠᴇ-ᴘʜʀᴀꜱᴇ](#adjective), or **"pi"**-phrase) contains only one [ɴᴏᴜɴ](#noun), the ᴘᴀʀᴛɪᴄʟᴇ "pi" is omitted and the phrase becomes an [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective).
+The **ᴘᴀʀᴛɪᴄʟᴇ** **pi** marks a [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) that can be translated as a **ɢᴇɴɪᴛɪᴠᴇ** or as an [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective).
 
-| jan pi pona mute | (ᴜɴ-ᴘᴜ) toki pi pona → (ᴘᴜ) toki pona |
+When the [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) consists of only one [ɴᴏᴜɴ](#noun), **pi** is omitted.
+
+| jan pi pona mute | toki pona |
 |:-|:-|
-| *a person of much good* → *a very good person* | *a language of good* → *a good language* |
+| *a person of much good* → *a very good person* | *the language of good* → *the good language* |
 
-#### Accusative Case
+#### ACCUSATIVE
 *([nimi lili lawa](#phrase-marker) "e")*
 
-Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates** can have **direct objects**. Their **commas** can be safely omitted.
+The **ᴘᴀʀᴛɪᴄʟᴇ** **e** marks a [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun) as an **ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ**, i.e. the ᴏʙᴊᴇᴄᴛ of a ᴘʀᴇᴅɪᴄᴀᴛᴇ.
 
-| (ꜱᴏɴᴊᴀ) ona li seli e soweli, e pan. ⇒ (ᴘᴏɴᴀ) ona li seli e soweli e pan. |
+When there is enough context, the ᴏʙᴊᴇᴄᴛ of a [ᴠᴇʀʙ](#verb) can be omitted.
+
+| mije li sona e ijo/ni/ona. → mije li sona. |
 |:-|
-| *She cooks the meat and the rice.* |
-
-When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can be omitted. (ꜱᴏɴᴊᴀ calls these omittable objects ["filler objects"](sonja.md#lesson-5).)
-
-| mije li sona e ijo/ni/ona. ⇒ mije li sona. |
-|:-|
-| *The men know things/that/it.* ⇒ *The men know.* |
+| *The men know things/that/it.* → *The men know.* |
 
 ## CONJUNCTION
 *([nimi lili](#particle) insa)*
@@ -381,19 +356,31 @@ When there is enough context, the **direct object** of a [ᴠᴇʀʙ](#verb) can
 ### AND
 *([nimi lili insa](#conjunction) "en")*
 
+The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **en** means *and*. It combines two [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s into one.
+
+| ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ en | utala en pona |
+|:-|:-|
+| ᴘᴀʀᴛɪᴄʟᴇ *and* | *war and peace* |
+
 ### OR
 *([nimi lili insa](#conjunction) "anu")*
 
-By means of "anu seme" one can express a yes-no-question. In this case "seme" is an alternative [predicate](#predicate) to "mama".
+The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **anu** means *or*. It combines two [ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ](#noun)s into one.
 
-| ona li mama anu seme? |
+| ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ anu | ona li mama anu seme? |
+|:-|:-|
+| ᴘᴀʀᴛɪᴄʟᴇ *or* | *Is she a parent?* |
+
+In yes-no-questions, **anu** can be omitted between a negative and a positive ᴘʀᴇᴅɪᴄᴀᴛᴇ.
+
+| ona li mama ala mama? |
 |:-|
 | *Is she a parent?* |
 
 ### IF-THEN
 *([nimi lili insa](#conjunction) "la")*
 
-By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", one can start a ꜱᴇɴᴛᴇɴᴄᴇ with a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition), i.e. a ᴘʀᴇ-ᴘʜʀᴀꜱᴇ.
+The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **la** can be put between the **ᴄᴏɴᴛᴇxᴛ**, i.e. a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition), and the rest of a ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | sina pana e nimi pona tawa mi tan seme? → tan seme la sina pana e nimi pona tawa mi? |
 |:-|
@@ -401,71 +388,33 @@ By means of the ᴘᴀʀᴛɪᴄʟᴇ "la", one can start a ꜱᴇɴᴛᴇɴᴄ�
 
 Before **la**, the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) **lon** is omitted.
 
-| ona li kama lon tenpo pimeja ni. → (ᴜɴ-ᴘᴜ) lon tenpo pimeja ni la ona li kama. ⇒ (ᴘᴜ) tenpo pimeja ni la ona li kama. |
+| ona li kama lon tenpo pimeja ni. → tenpo pimeja ni la ona li kama. |
 |:-|
 | *She is coming tonight.* → *Tonight, she is coming.* |
 
-Before **la**, **ni** in front of a [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause) is omitted.
+Before **la**, the [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) **ni:** in front of a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is omitted together with **lon**. In this case, **la** can be translated as *if … then*.
 
-| (ᴜɴ-ᴘᴜ) lon ni: mi pona tawa jan, la jan li pona tawa mi. ⇒ (ᴘᴜ) mi pona tawa jan, la jan li pona tawa mi. |
+| jan li pona tawa mi lon ni: mi pona tawa jan. → mi pona tawa jan, la jan li pona tawa mi. |
 |:-|
-| *If I'm good to people, people are good to me.* |
+| *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
 ## SOUND
 *([nimi lili](#particle) poka)*
 
-### NAME
-*([nimi lili poka](#sound) nimi)*
+**ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s are tokiponizations of names or interjections. They can be both **ᴘᴀʀᴛɪᴄʟᴇ**s and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s when used without **kalama**.
 
-ɴᴀᴍᴇs are tokiponized names or sounds. They always follow a [ɴᴏᴜɴ](#noun). When "pi nimi (pi kalama)" can be infered, **quotation marks** can be omitted.
-
-| ona li jo e nimi "Sonja". | ona li jan pi nimi "Sonja". ⇒ ona li jan Sonja |
+| nimi ona li kalama "Sonja". → nimi ona li Sonja. | ona li kute e kalama "mu" wawa. → ona li kute e mu wawa. |
 |:-|:-|
-| *She has the name "Sonja".* | *She is the person called "Sonja".* ⇒ *She is Sonja.* |
+| *Her name goes "Sonja".* → *Her name is Sonja.* | *She heard a loud bleat.* |
 
-[ꜱᴏɴᴊᴀ](sonja.md#the-gospel) removes the **quotations marks**, when the sense remains the same.
+[ɴᴜᴍʙᴇʀ](#number)s can be used as **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s after **nanpa**. (Plus, the [ᴛʜɪɴɢ ɴᴏᴜɴ](#thing) **nanpa** itself can be used as a **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**.)
 
-| (ᴘᴜ) tan seme la sina pana e nimi "pona" tawa mi? ⇒ (ꜱᴏɴᴊᴀ) tan seme la sina pana e nimi pona tawa mi? |
-|:-|
-| *Why do you call me good?* |
-
-[ꜱᴏɴᴊᴀ](sonja.md#lesson-12) removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ.
-
-| toki pi nanpa wan → toki nanpa wan |
-|:-|
-| *the language with the number one*, *the language of the first turn* → *the language number one* |
-
-...
-
-
-| sina nanpa wan. |
-|:-|
-| *You're number one.* |
-
-### INTERJECTION
-*([nimi lili poka](#sound) toki)*
-
-ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs are ɴᴀᴍᴇs that imitate a sound. ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs can be used as [ᴠᴇʀʙ](#verb)s meaning "to produce that sound".
-
-| soweli li kalama "mu". ⇒ soweli li mu. | ona li kute e kalama "mu" wawa. ⇒ ona li kute e mu wawa. |
+| sina nanpa wan. | toki nanpa wan |
 |:-|:-|
-| *The animal bleats.* | *She heard a loud bleat.* |
+| *You're number one.* | *the first language* |
 
-Proper names can be thought of as ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs, i.e. as imitations of the sound of a name. Therefore, "nimi" meaning "kalama" can be omitted.
-
-| nimi ona li nimi "Sonja". ⇒ nimi ona li Sonja. |
-|:-|
-| *Her name is the name "Sonja".* → *Her name goes "Sonja".*, *Her name is Sonja.* |
-
-One can use ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as a whole ꜱᴇɴᴛᴇɴᴄᴇ.
+One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as whole ꜱᴇɴᴛᴇɴᴄᴇs.
 
 | a! |
 |:-|
 | *Ha!*, *Wow!* |
-
-As the opposite of "ala", the affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" can be safely removed. The comma between a subsequent sentence consisting only of the ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" can therefore be safely removed.
-
-| (ᴜɴ-ᴘᴏɴᴀ) ni li lon a. ⇒ (ᴘᴏɴᴀ) ni li lon. | (ᴜɴ-ᴘᴏɴᴀ) sina suli, a! ⇒ (ᴘᴏɴᴀ) sina suli a! |
-|:-|:-|
-| *This does exist.* → *This is true.* | *You're tall, wow!* |
-

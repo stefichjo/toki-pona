@@ -380,3 +380,105 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ...
 
+---
+
+When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped. A ᴘᴀʀᴛɪᴄʟᴇ (typically **ala**) can be added to the ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but not another ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
+
+| (ᴜɴ-ᴘᴜ) mi tawa tawa tomo. ⇒ (ᴘᴜ) mi tawa tomo. | (ᴜɴ-ᴘᴜ) mi tawa ala tawa tomo. ⇒ (ᴘᴜ) mi tawa ala tomo. | mi tawa wawa tawa tomo. |
+|:-|:-|:-|
+| *I'm going home.* | *I'm not going home.* | *I'm running home.* |
+
+---
+
+A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can therefore be safely removed.
+
+| (ᴜɴ-ᴘᴏɴᴀ) mi toki tawa sina, lon tomo. ⇒ (ᴘᴏɴᴀ) mi toki tawa sina lon tomo. |
+|:-|
+| *I'm talking to you at home.* |
+
+---
+
+This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. ᴘᴜ rules enforce the omission of words:
+
+| (ᴜɴ-ᴘᴜ) toki pi pona ⇒  (ᴘᴜ) toki pona |
+|:-|
+| *Language of Good* |
+
+ᴘᴏɴᴀ rules purposely limit Toki Pona's expressiveness for the sake of a simpler style. Both ᴘᴜ rules and ᴘᴏɴᴀ rules actually complicate Toki Pona's grammar, yet they are considered ᴍᴀɴᴅᴀᴛᴏʀʏ, and sticking to them is therefore encouraged.
+
+| (ᴜɴ-ᴘᴏɴᴀ) mi wile e ona o musi. ⇒ (ᴘᴏɴᴀ) mi wile e ni: ona li musi. |
+|:-|
+| *I want her to play.* |
+
+---
+
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are used only at the end of **predicates**.
+
+| (ᴜɴ-ᴘᴏɴᴀ) jan lon poka ⇒ (ᴘᴏɴᴀ) jan poka | (ᴜɴ-ᴘᴏɴᴀ) jan pi pona tawa lukin ⇒ (ᴘᴏɴᴀ) jan pi pona lukin |
+|:-|:-|
+| *neighbour* | *beautiful person* |
+
+---
+
+Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates**. **Commas** between them can be safely removed.
+
+| (ꜱᴏɴᴊᴀ) ma mama li lili, li lete. ⇒ (ᴘᴏɴᴀ) ma mama li lili li lete. |
+|:-|
+| *The motherland is small and cold.* |
+
+---
+
+| ona li mama. → mama. | ona li mama ala. ⇒ (ᴜɴ-ᴘᴜ) mama ala. ⇒ (ᴘᴜ) ala. |
+|:-|:-|
+| *She is a parent.* → *Yes.* | *She is not a parent.* → *No.* |
+
+---
+
+| sina o lukin. → o lukin! | jan Ali o wawa. |
+|:-|:-|
+| *You should look.* → *Look!* | *Ali should be strong.* |
+
+"kute" can be omitted after the ᴘᴀʀᴛɪᴄʟᴇ "o". ꜱᴏɴᴊᴀ doesn't combine two "o"-ᴘᴀʀᴛɪᴄʟᴇs.
+
+| o kute! → o! | (ᴜɴ-ᴘᴜ) jan Ali o, o wawa! → (ᴘᴜ) jan Ali o wawa! |
+|:-|:-|
+| *Listen!* → *Hey!* | *Hey Ali, be strong!* |
+
+---
+
+Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates** can have **direct objects**. Their **commas** can be safely omitted.
+
+| (ꜱᴏɴᴊᴀ) ona li seli e soweli, e pan. ⇒ (ᴘᴏɴᴀ) ona li seli e soweli e pan. |
+|:-|
+| *She cooks the meat and the rice.* |
+
+---
+
+ When "pi nimi (pi kalama)" can be infered, **quotation marks** can be omitted.
+
+| ona li jo e nimi "Sonja". | ona li jan pi nimi "Sonja". ⇒ ona li jan Sonja |
+|:-|:-|
+| *She has the name "Sonja".* | *She is the person called "Sonja".* ⇒ *She is Sonja.* |
+
+[ꜱᴏɴᴊᴀ](sonja.md#the-gospel) removes the **quotations marks**, when the sense remains the same.
+
+| (ᴘᴜ) tan seme la sina pana e nimi "pona" tawa mi? ⇒ (ꜱᴏɴᴊᴀ) tan seme la sina pana e nimi pona tawa mi? |
+|:-|
+| *Why do you call me good?* |
+
+---
+
+[ꜱᴏɴᴊᴀ](sonja.md#lesson-12) removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ.
+
+| toki pi nanpa wan → toki nanpa wan |
+|:-|
+| *the language with the number one*, *the language of the first turn* → *the language number one* |
+
+---
+
+As the opposite of "ala", the affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" can be safely removed. The comma between a subsequent sentence consisting only of the ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" can therefore be safely removed.
+
+| (ᴜɴ-ᴘᴏɴᴀ) ni li lon a. ⇒ (ᴘᴏɴᴀ) ni li lon. | (ᴜɴ-ᴘᴏɴᴀ) sina suli, a! ⇒ (ᴘᴏɴᴀ) sina suli a! |
+|:-|:-|
+| *This does exist.* → *This is true.* | *You're tall, wow!* |
+
