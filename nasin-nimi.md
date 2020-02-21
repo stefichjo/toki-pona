@@ -3,7 +3,7 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-There are two main **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es: [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s and [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s.
+The [Toki Pona Dictionary](#toki-pona-dictionary) contains two main **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es: [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s and [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s.
 
 | |
 |:-|
@@ -20,7 +20,7 @@ A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines how (and if) a word can be used as �
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
   * [**ꜱᴏᴜɴᴅ**](#sound)
 
-Each [dictionary](#toki-pona-dictionary) entry indicates a word's **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** and its **ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ** members. Antonyms are separated by a dash (—).
+Each dictionary entry indicates a word's **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** and its **ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ** members. Antonyms are separated by a dash (—).
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
