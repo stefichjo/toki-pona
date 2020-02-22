@@ -485,6 +485,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ### The Gospel
 
+| mama mi o! |
+|:-|
+| *"My Father!"* |
+
+---
+
 * tawa lili - to go on a little farther
 * toki tawa sewi - to pray
 * jan lawa - ruler
@@ -495,6 +501,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 * ijo ala - nothing
 
 ### The Qur'an
+
+| ona li mama ala, li jo ala e mama. |
+|:-|
+| *[God] doesn't give birth, wasn't born.* |
+
+---
 
 * kalama sewi - recital
 
