@@ -443,12 +443,12 @@ One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as whole ꜱᴇɴᴛᴇɴ�
 | <img src="sitelen/pona/nanpa.png" height="50" title="namba"> | [**ᴛʜɪɴɢ**](#thing) **nanpa**, *tenpo* <br>ɴᴏᴜɴ *one's turn*: (*pi nanpa awen*) *current*, (*pi nanpa kama*) *next*, (*pi nanpa pini*) *previous*; *last*; (*~~nimi~~ nanpa*) **numbers**: (*pana e ~~nimi~~ nanpa tawa*) *to count* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ … |
 | | [**ꜱᴏᴜɴᴅ**](#sound) **nanpa**, *Pu* <br>ᴘᴀʀᴛɪᴄʟᴇ **(ordinal number)**, **-th** |
 | <img src="sitelen/pona/nasa.png" height="50" title="nasau"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) *pona* — *ike*, **nasa**, *pakala*, *utala* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **strange**, [**unconventional**](sonja.md#toki-pona-proverbs), **unusual**; (*~~pi sona~~ nasa*) **crazy**, **foolish**; (*~~pi pilin~~ nasa*) **drunk**, **intoxicated** |
+| <img src="sitelen/pona/nasin.png" height="50" title="naĉin"> | [**ᴛʜɪɴɢ**](#thing) *lupa*, **nasin** <br>ɴᴏᴜɴ **custom**, **doctrine**, **method**, [**system**](sonja.md#preface), [**way of doing things**](sonja.md#toki-pona-proverbs); **path**, **road**, [**street**](sonja.md#lesson-9), **way** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *ordinary*, *usual* |
 
 ---
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/nasin.png" height="50" title="naĉin"> | [**ᴛʜɪɴɢ**](#thing) *lupa*, **nasin** <br>ɴᴏᴜɴ **custom**, **doctrine**, **method**, [**system**](sonja.md#preface), [**way of doing things**](sonja.md#toki-pona-proverbs); **path**, **road**, [**street**](sonja.md#lesson-9), **way** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *ordinary*, *usual* |
 | <img src="sitelen/pona/nena.png" height="50" title="nena"> | [**ᴛʜɪɴɢ**](#thing) *lipu*, **nena**, *sike* (⇐ *~~kapa~~*) <br>ɴᴏᴜɴ **bump**, **hill**, **mountain**, **protuberance**; **button**; (*nena ~~pi sinpin lawa~~*) **nose** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *outstanding*, *thick* |
 | <img src="sitelen/pona/ni.png" height="50" title="ni"> | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) *ale*, **ni**, *seme*, *wan* <br>ɴᴏᴜɴ (*ni:*) [**the following**](sonja.md#lesson-17) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **this**/**that** |
 | <img src="sitelen/pona/nimi.png" height="50" title="nimi"> | [**ᴠᴇʀʙ**](#verb) **nimi**, *sitelen*, *toki* <br>ᴠᴇʀʙ *to define* → <br>ɴᴏᴜɴ **name**; **word** |

@@ -104,9 +104,9 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *Toki Pona was my philosophical attempt to understand the meaning of life in 120 words.* |
 
-| mi lukin e kon mi. … |
+| mi lukin e kon mi. … mi pali e nasin toki lili. … |
 |:-|
-| *Through a process of soul-searching …*  |
+| *Through a process of soul-searching, … I designed a simple communication system …*  |
 
 | mi pana e toki lili mi tawa jan ale lon ilo lipu lon tenpo pini. |
 |:-|
@@ -296,6 +296,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ### Lesson 9
 *(Proper Names)*
+
+| nasin |
+|:-|
+| … *street* |
 
 | ma Apika li jo e jan mute. |
 |:-|
