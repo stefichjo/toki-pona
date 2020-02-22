@@ -324,7 +324,7 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 | o |
 |:-|
-| *(call or command)*,  *(shows who is being called; command or request; wish or desire)* |
+| *(call or command)*,  *(shows who is being called or addressed; command or request; wish or desire)* |
 
 ---
 
@@ -496,6 +496,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ### Lesson 18
 *(Cooking Adventure)*
+
+| jan Mawijo li jo e meli olin. |
+|:-|
+| *Mawijo has a beloved wife.* |
 
 | kalama a! |
 |:-|
