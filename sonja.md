@@ -444,6 +444,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *area below or under* |
 
+| poka |
+|:-|
+| … *area beside* … |
+
 | noka tomo li wawa |
 |:-|
 | *The foundation of the building is stable.* |
