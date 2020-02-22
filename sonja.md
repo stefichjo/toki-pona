@@ -358,6 +358,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *0* |
 
+| mute |
+|:-|
+| *3+*, *20* |
+
 | luka |
 |:-|
 | *5* |
