@@ -428,9 +428,21 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *area behind* … |
 
+| noka |
+|:-|
+| *area below or under* |
+
+| noka tomo li wawa |
+|:-|
+| *The foundation of the building is stable.* |
+
 | jan lili li lon insa pi mama meli. |
 |:-|
 | *The baby is inside the mother's womb.* |
+
+| kala ;aso mute li lon noka pi telo suli. |
+|:-|
+| *Many green sea creatures are at the bottom of the ocean.* |
 
 | o awen e monsi sina. |
 |:-|
