@@ -528,6 +528,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 18
 *(Cooking Adventure)*
 
+| seli |
+|:-|
+| … *to cook* |
+
 | jan Mawijo li jo e meli olin. |
 |:-|
 | *Mawijo has a beloved wife.* |
