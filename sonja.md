@@ -262,6 +262,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *0* |
 
+| ale |
+|:-|
+| *∞*, *100* |
+
 ---
 
 * jan ale - everyone
@@ -345,6 +349,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | ala |
 |:-|
 | *zero* |
+
+| ale |
+|:-|
+| *infinity* |
 
 ---
 
