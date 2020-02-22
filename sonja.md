@@ -354,6 +354,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 14
 *(Colours and la)*
 
+| la |
+|:-|
+| *(separates context from main sentence)* |
+
 | ~~lon~~ tenpo ike la jan li wile toki tawa jan pona. |
 |:-|
 | *During bad times, a person needs to talk to friends.* |

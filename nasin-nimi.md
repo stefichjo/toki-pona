@@ -409,12 +409,12 @@ One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as whole ꜱᴇɴᴛᴇɴ�
 | <img src="sitelen/pona/kule.png" height="50" title="kuler"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) *walo* — **kule**, *pimeja* (⇐ *~~kapesi~~*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **colourful**, **painted**; **pigmented**; *brown*, (*kule ~~mu~~*) *brownish* |
 | <img src="sitelen/pona/kulupu.png" height="50" title="kulupu"> | [**ᴛʜɪɴɢ**](#thing) **kulupu**, *sijelo* <br>ɴᴏᴜɴ *relationship*; (*kulupu ~~jan~~*) **community**, **company**, **group**, **nation**, **society**, **tribe**; (⇐ *mute*) *multitude*, *set*; (⇐ *lawa*) *arrangement*, *organization* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *sama*) |
 | <img src="sitelen/pona/kute.png" height="50" title="ekute"> | [**ᴛᴏᴏʟ**](#tool) **kute**, *lawa*, *luka*, *noka*, *palisa*, *poki*, *selo*, *uta* <br>ɴᴏᴜɴ **ear** → <br>ᴠᴇʀʙ **to hear**, **listen**; (*kute ~~insa~~*) [**listen to**](sonja.md#lesson-5), **pay attention to**, **obey** |
+| <img src="sitelen/pona/la.png" height="50" title="la"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) *anu*, *en*, **la** <br>ᴘᴀʀᴛɪᴄʟᴇ **(between the context phrase and the main sentence)**, [**(separates context from main sentence)**](sonja.md#lesson-14) |
 
 ---
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/la.png" height="50" title="la"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) *anu*, *en*, **la** <br>ᴘᴀʀᴛɪᴄʟᴇ **(between the context phrase and the main sentence)**, [**(separates context from main sentence)**](sonja.md#lesson-14) |
 | <img src="sitelen/pona/lape.png" height="50" title="slape"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) *kalama*, **lape**, *moli*, *musi* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **resting**, **sleeping** <br>ɴᴏᴜɴ [**sleep**](sonja.md#toki-pona-proverbs) |
 | <img src="sitelen/pona/laso.png" height="50" title="glas"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) *jelo*, **laso**, *loje* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **blue**, (*laso ~~mu~~*) *bluish*, **green**, (*laso ~~mu~~*) *greenish*; *immature* |
 | <img src="sitelen/pona/lawa.png" height="50" title="glava"> | [**ᴀʀᴇᴀ**](#area) *anpa* — *sewi*, *noka* — **lawa** <br>ɴᴏᴜɴ (⇒ *sewi*) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *sewi*); *main* |
