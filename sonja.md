@@ -132,6 +132,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | … *turnips*, *kumquats*, *lingonberries* |
 
+| *lipu* |
+|:-|
+| … *printed book*, *postcard*, *clay tablet* |
+
 ### Limitations
 
 | waso wawa | waso nasa |
@@ -163,6 +167,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | kili li ijo. |
 |:-|
 | *Blueberries are things.* |
+
+| ni li lipu. |
+|:-|
+| *This is a piece of paper.* |
 
 ### Lesson 3
 *(Nouns and Adjectives)*
@@ -416,7 +424,7 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *He wants to go hunting and gets a bow and orange vest.* |
 
-| jan mawijo li kepeken ilo alasa, taso linja li pakala. |
+| jan Mawijo li kepeken ilo alasa, taso linja li pakala. |
 |:-|
 | *Mawijo uses the bow, but the string breaks.* |
 
