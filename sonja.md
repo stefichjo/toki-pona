@@ -352,29 +352,7 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 * 👍 o pilin pona o pu!
 
-### Toki Pona Proverbs
-
-| ante li kama. |
-|:-|
-| *Change comes.* |
-
-| ike li kama. |
-|:-|
-| *Bad things will happen.* |
-
-| sina pana e ike, la sina kama jo e ike. |
-|:-|
-| *If you give evil, you will receive evil.* |
-
-| mi weka e ike an, la mi weka e ike mi. |
-|:-|
-| *When I erase somebody's faults, I cleanse myself of negativity.* |
-
-| utala li ike. |
-|:-|
-| *Fighting is harmful* |
-
----
+### [Toki Pona Proverbs](nasin-sitelen.md#toki-pona-proverbs)
 
 * ante li kama. - Times change.
 * jan sona - sage
@@ -388,11 +366,7 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 * weka e ike - cleanse
 * pana e pona - love, take care of
 
-### Famous Quotations
-
-…
-
----
+### [Famous Quotations](nasin-sitelen.md#famous-quotations)
 
 * nanpa wan - fundamental
 * nanpa wan - ultimate
