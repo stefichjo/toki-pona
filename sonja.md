@@ -361,6 +361,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 18
 *(Cooking Adventure)*
 
+| kalama a! |
+|:-|
+| *A noise.* |
+
+---
+
 * lape lili - napping
 * soweli lili - hare
 * moku pona - bon appétit
