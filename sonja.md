@@ -108,6 +108,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *Through a process of soul-searching …*  |
 
+| mi pana e toki lili mi tawa jan ale lon ilo lipu lon tenpo pini. |
+|:-|
+| *I first published my micro-language on the Web in 2001.* |
+
 | kulupu lili li kama. ona li olin e toki pona. |
 |:-|
 | *A small community of Toki Pona fans emerged.* |
@@ -338,6 +342,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ### Lesson 13
 *(Pre-Verbs)*
+
+| nasin li kama lili. |
+|:-|
+| *The path becomes narrow.* |
 
 | sijelo meli li kama pona a! |
 |:-|
