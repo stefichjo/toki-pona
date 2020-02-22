@@ -343,6 +343,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 11
 *(pi)*
 
+| pi |
+|:-|
+| *(divides a second ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that describes a first ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ)* |
+
 | mu! |
 |:-|
 | *Cock-a-doodle-doo!* |
@@ -575,6 +579,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### The Ant's Chapter
 
 ### Writings of Bahá'u'lláh
+
+| o pilin ala e ni: … |
+|:-|
+| *Think not that …* |
 
 | sewi li open e telo suwi kepeken luka wawa. |
 |:-|
