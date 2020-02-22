@@ -386,6 +386,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ### Short Obligatory Prayer
 
+| tenpo ni la mi sona e ni: mi anpa. … |
+|:-|
+| *I testify, at this moment, to my powerlessness …* |
+
 ## Official Toki Pona Dictionary
 
 ꜱᴏɴᴊᴀ uses **moli** for both *dead* and *dying*, i.e. omitting **kama**.
