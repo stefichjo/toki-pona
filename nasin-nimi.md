@@ -483,11 +483,6 @@ One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as whole ꜱᴇɴᴛᴇɴ�
 | <img src="sitelen/pona/seme.png" height="50" title="ŝenme"> | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) *ale*, *ni*, **seme**, *wan* <br>ɴᴏᴜɴ [**what**](sonja.md#lesson-7), *which one* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **what**, **which** |
 | <img src="sitelen/pona/sewi.png" height="50" title="sevit"> | [**ᴀʀᴇᴀ**](#area) *anpa* — **sewi**, *noka* — *lawa* <br>ɴᴏᴜɴ **area above**: (*lon sewi*) *above*, *over*; [**sky**](sonja.md#lesson-15); **something elevated**; (⇐ *lawa*) **highest part**: (*lon sewi*) *at the top of* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *high*; (⇐ *lawa*) *upper* |
 | | [**ᴛʜɪɴɢ**](#thing) *kulupu*, **sewi**, *sijelo* <br>ɴᴏᴜɴ [**the Divine**](sonja.md#preface), [**that which is divine**](sonja.md#lesson-6), [**God**](sonja.md#lesson-6), [**the Lord**](sonja.md#the-torah) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **awe-inspiring**, **divine**, **sacred**, **supernatural** |
-
----
-
-| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
-|:-|:-|
 | <img src="sitelen/pona/sijelo.png" height="50" title="tijelo"> | [**ᴛʜɪɴɢ**](#thing) *kulupu*, *sewi*, **sijelo** <br>ɴᴏᴜɴ **body (of person or animal)**, **torso**; *life-form*; [**health**](sonja.md#lesson-13), **physical state** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *alive* |
 | <img src="sitelen/pona/sike.png" height="50" title="sirkel"> | [**ᴛʜɪɴɢ**](#thing) *lipu*, *nena*, **sike** <br>ɴᴏᴜɴ **round or circular thing**; **ball**, **circle**, **sphere**, **wheel**; **cycle**; *age*; *lap* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*sike ~~suno~~*) **of one year**, (*pi sike ~~suno~~ mute* ⇐ *~~majuna~~*) *old* <br>ᴠᴇʀʙ *to fulfil* |
 | | [**ᴀʀᴇᴀ**](#area) **sike** — *weka* <br>ɴᴏᴜɴ (⇒ *poka*) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *poka*) |
