@@ -124,16 +124,6 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *In this book, I hope to present the language in its completed form.* |
 
----
-
-| toki insa |
-|:-|
-| *thought* |
-
-| ilo lipu | lipu sona |
-|:-|:-|
-| ~~the Web~~; *browser*, *editor* | *web page*, *the Web* |
-
 ### What Is Toki Pona?
 
 | *kili* |
@@ -146,14 +136,6 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ### Limitations
 
-| waso wawa | waso nasa |
-|:-|:-|
-| *eagle* | *chicken* |
-
-| tomo tawa | ilo tawa | kiwen tawa |
-|:-|:-|:-|
-| *car* | *car* | *car*, *hard object that moves*, 👍 *projectile* |
-
 ### Lesson 1
 *(Letters and Sounds)*
 
@@ -164,8 +146,6 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | mu |
 |:-|
 | *moo* |
-
----
 
 ### Lesson 2
 *(Words and Sentences)*
@@ -193,44 +173,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *The female animal is friendly.* |
 
----
-
-| tomo suli |
-|:-|
-| *palace* |
-
-| jan pona |
-|:-|
-| *friend* |
-
-| meli lili | telo suli |
-|:-|:-|
-| *girl* | *sea* |
-
-| telo kili | tomo telo |
-|:-|:-|
-| *juice* | *bathroom* |
-
-| soweli lili | jan lili |
-|:-|:-|
-| *kitten* | *baby* |
-
-| kili telo |
-|:-|
-| *watermelon* |
-
 ### Lesson 4
 *(You and I)*
 
 | ni li kili mi. |
 |:-|
 | *This is my kiwi.* |
-
----
-
-| tomo soweli | tomo lipu |
-|:-|:-|
-| *doghouse* | *library* |
 
 ### Lesson 5
 *(Verbs)*
@@ -242,16 +190,6 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | kili li jo e telo. |
 |:-|
 | *The orange contains liquid.* |
-
----
-
-| jan toki | jan pali |
-|:-|:-|
-| *messenger* | *worker*|
-
-| tomo sona |
-|:-|
-| *school* |
 
 ### Lesson 6
 *(More Adjectives)*
@@ -267,23 +205,6 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | pona |
 |:-|
 | … *to improve* |
----
-
-| jan sona |
-|:-|
-| *scholar* |
-
-| kute ike |
-|:-|
-| *to mishear* |
-
-| nasa ike |
-|:-|
-| *annoying* |
-
-| jan ala |
-|:-|
-| *nobody* |
 
 ### Lesson 7
 *(Questions and Answers)*
@@ -292,28 +213,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *what is new?* |
 
----
-
-| ilo toki | ilo moku |
-|:-|:-|
-| *telephone* | *spoon* |
-
-| kala wawa |
-|:-|
-| *shark* |
-
 ### Lesson 8
 *(Prepositions)*
 
 | lon |
 |:-|
 | *at*, *with*, *in*; *to be present* |
-
----
-
-| jan toki | jan kute |
-|:-|:-|
-| *speaker* | *listener* |
 
 ### Lesson 9
 *(Proper Names)*
@@ -329,12 +234,6 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | jan Sulu li utala e jan ike. |
 |:-|
 | *Mr. Sulu fights a bad guy.* |
-
----
-
-| ma tomo | nena sewi |
-|:-|:-|
-| *city* | *hill sanctuary* |
 
 ### Lesson 10
 *(Greetings and Feelings)*
@@ -355,20 +254,6 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *Peace be with you.* |
 
----
-
-| kama pona! | tawa pona! |
-|:-|:-|
-| *Welcome!* | *Good departure!* |
-
-| pilin ike | pilin pona |
-|:-|:-|
-| *sad* | *happy* |
-
-| pona! |
-|:-|
-| *Thank you!* |
-
 ### Lesson 11
 *(pi)*
 
@@ -379,18 +264,6 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | mu! |
 |:-|
 | *Cock-a-doodle-doo!* |
-
----
-
-* mije sona - scholar
-* tenpo suno ni - today
-* pona mute - excellent
-* sijelo pona - healthy
-* ilo tenpo suno - sundial
-* mama mama - grandparents
-* tomo tawa - vehicle
-* ma kasi - garden
-* ma utala - battlefield
 
 ### Lesson 12
 *(Numbers)*
@@ -411,16 +284,6 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *∞*, *100* |
 
----
-
-* jan ale - everyone
-* nanpa wan - first
-* nanpa tu tu - fourth
-* jan utala - warrior
-* nanpa luka - fifth
-* tu tu - four
-* jan ale - everybody
-
 ### Lesson 13
 *(Pre-Verbs)*
 
@@ -431,14 +294,6 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | sijelo meli li kama pona a! |
 |:-|
 | *The woman's health improved, yay!* |
-
----
-
-* kama sona - learning
-* kama awen lon - settling
-* jan lili - children
-* tawa lon telo - swimming
-* ma mama - motherland
 
 ### Lesson 14
 *(Colours and la)*
@@ -458,13 +313,6 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | ~~lon~~ tenpo ike la jan li wile toki tawa jan pona. |
 |:-|
 | *During bad times, a person needs to talk to friends.* |
-
----
-
-* tenpo pimeja ni - tonight
-* soweli wawa - bear
-* tenpo suno kama - tomorrow
-* pilin pona - feeling good
 
 ### Lesson 15
 *(Spatial Nouns)*
@@ -501,22 +349,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *Protect your back.* |
 
----
-
-* 👍 pi noka suli - deep
-* telo suli - ocean
-
 ### Lesson 16
 *(Particles and Perspective)*
 
 | **sina en mi li anpa tawa sewi.** |
 |:-|
 | *You and I are lowly from the perspective of God.* |
-
----
-
-* ma mama - fatherland
-* nanpa tu - second
 
 ### Lesson 17
 *(Hunting Adventure)*
@@ -541,12 +379,6 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *Mawijo uses the bow, but the string breaks.* |
 
----
-
-* kama tawa tomo jan - to visit someone
-* ma kasi - forest
-* ilo alasa - bow
-
 ### Lesson 18
 *(Cooking Adventure)*
 
@@ -566,68 +398,30 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *A noise.* |
 
----
-
-* lape lili - napping
-* soweli lili - hare
-* moku pona - bon appétit
-
 ### Lesson 19
 *(The Frontier)*
 
-* 👍 o pilin pona o pu!
-
 ### [Toki Pona Proverbs](nasin-sitelen.md#toki-pona-proverbs)
-
-* ante li kama. - Times change.
-* jan sona - sage
-* jan nasa - fool
-* jan sona - genius
-* jan poka - neighbour
-* pali li pana e sona. - One learns by experience.
-* kama jo - receive
-* wile sona - curious
-* (toki e) wile sona - asking questions
-* weka e ike - cleanse
-* pana e pona - love, take care of
 
 ### [Famous Quotations](nasin-sitelen.md#famous-quotations)
 
-* nanpa wan - fundamental
-* nanpa wan - ultimate
-
 ### The Torah
-
-### The Gospel
 
 | sewi li sewi mi. |
 |:-|
 | *The Lord is our God.* |
 
+### The Gospel
+
 | mama mi o! |
 |:-|
 | *"My Father!"* |
-
----
-
-* tawa lili - to go on a little farther
-* toki tawa sewi - to pray
-* jan lawa - ruler
-* jan sona - teacher
-* kama lon tenpo sewi - to inherit eternal life
-* 👍 pana e nimi pona tawa - to praise
-* jan ala - no one
-* ijo ala - nothing
 
 ### The Qur'an
 
 | ona li mama ala, li jo ala e mama. |
 |:-|
 | *[God] doesn't give birth, wasn't born.* |
-
----
-
-* kalama sewi - recital
 
 ### The Ant's Chapter
 
@@ -640,16 +434,6 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | sewi li open e telo suwi kepeken luka wawa. |
 |:-|
 | *We have unsealed the choice Wine with the fingers of might and power.* |
-
----
-
-* nasin lawa - code of laws
-* ilo sitelen - pen
-* toki sewi - revelation
-* kepeken sona - meditating
-* jo lili - poor
-* jo mute - wealthy
-* lon la sina lon. - You [are] the Self-Subsisting.
 
 ### Short Obligatory Prayer
 
