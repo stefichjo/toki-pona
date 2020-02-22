@@ -340,6 +340,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *0* |
 
+| luka |
+|:-|
+| *5* |
+
 | ale |
 |:-|
 | *∞*, *100* |
@@ -497,6 +501,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### The Ant's Chapter
 
 ### Writings of Bahá'u'lláh
+
+| sewi li open e telo suwi kepeken luka wawa. |
+|:-|
+| *We have unsealed the choice Wine with the fingers of might and power.* |
+
+---
 
 * nasin lawa - code of laws
 * ilo sitelen - pen
