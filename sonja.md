@@ -332,6 +332,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ### Toki Pona Proverbs
 
+| ante li kama. |
+|:-|
+| *Change comes.* |
+
+---
+
 * ante li kama. - Times change.
 * jan sona - sage
 * jan nasa - fool
