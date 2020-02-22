@@ -484,6 +484,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *He wants to go hunting and gets a bow and orange vest.* |
 
+| lawa soweli li jo e palisa. |
+|:-|
+| *The moose has antlers.* |
+
 | jan Mawijo li kepeken ilo alasa, taso linja li pakala. |
 |:-|
 | *Mawijo uses the bow, but the string breaks.* |
