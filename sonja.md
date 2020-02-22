@@ -404,6 +404,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 15
 *(Spatial Nouns)*
 
+| monsi |
+|:-|
+| *area behind* … |
+
 | jan lili li lon insa pi mama meli. |
 |:-|
 | *The baby is inside the mother's womb.* |
