@@ -346,13 +346,9 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ### Famous Quotations
 
-| ala |
+| sewi li lon ala, li lon ale. |
 |:-|
-| *zero* |
-
-| ale |
-|:-|
-| *infinity* |
+| *God is the tangential point between zero and infinity. |
 
 ---
 
