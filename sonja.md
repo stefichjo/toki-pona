@@ -218,9 +218,9 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 10
 *(Greetings and Feelings)*
 
-| sina suli a! | a a a! | ma Kanata li jo e kala mute a! |
-|:-|:-|:-|
-| *You're so tall!* | *Ha ha ha!* | *Canada has a lot of fish, wow!* |
+| a | sina suli a! | a a a! | ma Kanata li jo e kala mute a! |
+|:-|:-|:-|:-|
+| *(emotion word)* | *You're so tall!* | *Ha ha ha!* | *Canada has a lot of fish, wow!* |
 
 ---
 
