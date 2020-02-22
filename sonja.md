@@ -400,6 +400,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 17
 *(Hunting Adventure)*
 
+| ona li wile alasa li kama jo e ilo alasa e len loje. |
+|:-|
+| *He wants to go hunting and gets a bow and orange vest.* |
+
+---
+
 * kama tawa tomo jan - to visit someone
 * ma kasi - forest
 * ilo alasa - bow
