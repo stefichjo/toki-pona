@@ -218,6 +218,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 10
 *(Greetings and Feelings)*
 
+| sina suli a! | a a a! | ma Kanata li jo e kala mute a! |
+|:-|:-|:-|
+| *You're so tall!* | *Ha ha ha!* | *Canada has a lot of fish, wow!* |
+
+---
+
 | kama pona! | tawa pona! |
 |:-|:-|
 | *Welcome!* | *Good departure!* |
@@ -256,6 +262,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ### Lesson 13
 *(Pre-Verbs)*
+
+| sijelo meli li kama pona a! |
+|:-|
+| *The woman's health improved, yay!* |
+
+---
 
 * kama sona - learning
 * kama awen lon - settling
