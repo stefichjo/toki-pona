@@ -457,13 +457,13 @@ One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as whole ꜱᴇɴᴛᴇɴ�
 | <img src="sitelen/pona/pali.png" height="50" title="fari"> | [**ᴠᴇʀʙ**](#verb) *alasa*, *moku*, *olin*, **pali**, *unpa* <br>ᴠᴇʀʙ **to do**, **take action on**, **work on**; (*pali ~~ale~~*) **build**, **make**, **prepare** <br>ɴᴏᴜɴ [**action**](sonja.md#toki-pona-proverbs) |
 | <img src="sitelen/pona/palisa.png" height="50" title="palica"> | [**ᴛʜɪɴɢ**](#thing) *linja* — **palisa** <br>ɴᴏᴜɴ **long hard thing**; [**antler**](sonja.md#lesson-17), **branch**, **rod**, **stick** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *long and hard* |
 | | [**ᴛᴏᴏʟ**](#tool) *kute*, *lawa*, *luka*, *noka*, **palisa**, *poki*, *selo*, *uta* <br>ɴᴏᴜɴ *finger* → <br>ᴠᴇʀʙ *to point at* |
+| <img src="sitelen/pona/pan.png" height="50" title="fan"> | [**ᴛʜɪɴɢ**](#thing) *kili*, **pan** <br>ɴᴏᴜɴ *seed*; **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *falling* |
+| <img src="sitelen/pona/pana.png" height="50" title="pana"> | [**ᴠᴇʀʙ**](#verb) *jo*, **pana** <br>ᴠᴇʀʙ **to emit**, **give**, [**grant**](sonja.md#toki-pona-proverbs), **provide**, (*pana e ijo lon …*) **put**, **release**, (*pana e ijo tawa …*) **send**, [**send out**](sonja.md#toki-pona-proverbs), [**serve**](sonja.md#lesson-14) |
 
 ---
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/pan.png" height="50" title="fan"> | [**ᴛʜɪɴɢ**](#thing) *kili*, **pan** <br>ɴᴏᴜɴ *seed*; **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *falling* |
-| <img src="sitelen/pona/pana.png" height="50" title="pana"> | [**ᴠᴇʀʙ**](#verb) *jo*, **pana** <br>ᴠᴇʀʙ **to emit**, **give**, [**grant**](sonja.md#toki-pona-proverbs), **provide**, (*pana e ijo lon …*) **put**, **release**, (*pana e ijo tawa …*) **send**, [**send out**](sonja.md#toki-pona-proverbs), [**serve**](sonja.md#lesson-14) |
 | <img src="sitelen/pona/pi.png" height="50" title="biloŋ"> | [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker) *li*, *o* — **pi**, *e* <br>ᴘᴀʀᴛɪᴄʟᴇ  [**(to divide a second ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that describes a first ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ)**](sonja.md#lesson-11), **of** |
 | <img src="sitelen/pona/pilin.png" height="50" title="pil-im"> | [**ᴛᴏᴏʟ**](#tool) + [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) *lukin*, **pilin** <br>ɴᴏᴜɴ **heart (physical or emotional)** → <br>ᴠᴇʀʙ *to sense* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (a direct experience)** + <br>ᴘʀᴇ-ᴠᴇʀʙ *to feel like* <br>ᴠᴇʀʙ *to have the impression that*, [**think**](sonja.md#writings-of-baháulláh) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (an emotion)** |
 | <img src="sitelen/pona/pimeja.png" height="50" title="pimea"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) *walo* — *kule*, **pimeja** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **black**, (*pimeja ~~mu~~*) *blackish* |

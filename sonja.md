@@ -414,6 +414,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|:-|
 | *(separates context from main sentence)* | *in the context of* |
 
+| sina kama lon tomo mi, la mi pana e moku. |
+|:-|
+| *If you come to my home, I will serve food.* |
+
 | ~~lon~~ tenpo ike la jan li wile toki tawa jan pona. |
 |:-|
 | *During bad times, a person needs to talk to friends.* |
