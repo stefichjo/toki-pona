@@ -312,6 +312,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 15
 *(Spatial Nouns)*
 
+| jan lili li lon insa pi mama meli. |
+|:-|
+| *The baby is inside the mother's womb.* |
+
 | o awen e monsi sina. |
 |:-|
 | *Protect your back.* |
