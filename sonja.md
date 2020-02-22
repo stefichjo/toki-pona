@@ -126,6 +126,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 2
 *(Words and Sentences)*
 
+| ijo |
+|:-|
+| … *something*, *being* |
+
 ### Lesson 3
 *(Nouns and Adjectives)*
 
