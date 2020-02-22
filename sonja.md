@@ -320,6 +320,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 16
 *(Particles and Perspective)*
 
+| **sina en mi li anpa tawa sewi.** |
+|:-|
+| *You and I are lowly from the perspective of God.* |
+
+---
+
 * ma mama - fatherland
 * nanpa tu - second
 
