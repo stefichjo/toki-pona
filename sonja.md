@@ -272,6 +272,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 8
 *(Prepositions)*
 
+| lon |
+|:-|
+| *at*, *with*, *in*; *to be present* |
+
+---
+
 | jan toki | jan kute |
 |:-|:-|
 | *speaker* | *listener* |
@@ -370,9 +376,9 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 14
 *(Colours and la)*
 
-| la |
-|:-|
-| *(separates context from main sentence)* |
+| la | lon → la |
+|:-|:-|
+| *(separates context from main sentence)* | *in the context of* |
 
 | ~~lon~~ tenpo ike la jan li wile toki tawa jan pona. |
 |:-|
