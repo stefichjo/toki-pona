@@ -280,6 +280,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 7
 *(Questions and Answers)*
 
+| seme li sin? |
+|:-|
+| *what is new?* |
+
+---
+
 | ilo toki | ilo moku |
 |:-|:-|
 | *telephone* | *spoon* |
