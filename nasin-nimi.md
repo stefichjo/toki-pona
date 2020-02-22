@@ -213,7 +213,7 @@ When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜ�
 
 | |
 |:-|
-| [ᴍᴏᴏᴅ](#mood): [ɪɴᴅɪᴄᴀᴛɪᴠᴇ ᴍᴏᴏᴅ](#indicative), [ᴠᴏʟᴀᴛɪᴠᴇ, ᴠᴏᴄᴀᴛɪᴠᴇ and ɪᴍᴘᴇʀᴀᴛɪᴠᴇ ᴍᴏᴏᴅ](#volative-vocative-and-imperative) |
+| [ᴍᴏᴏᴅ](#mood): [ɪɴᴅɪᴄᴀᴛɪᴠᴇ ᴍᴏᴏᴅ](#indicative), [ᴠᴏʟɪᴛɪᴠᴇ, ᴠᴏᴄᴀᴛɪᴠᴇ and ɪᴍᴘᴇʀᴀᴛɪᴠᴇ ᴍᴏᴏᴅ](#volative-vocative-and-imperative) |
 | [ᴄᴀꜱᴇ](#case): [ɢᴇɴɪᴛɪᴠᴇ ᴄᴀꜱᴇ](#genitive), [ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ ᴄᴀꜱᴇ](#accusative) |
 
 ### MOOD
@@ -242,16 +242,16 @@ If the ꜱᴜʙᴊᴇᴄᴛ is just **mi** or **sina**, the **ᴘᴀʀᴛɪᴄʟ
 #### VOLATIVE, VOCATIVE and IMPERATIVE
 *([nimi lili lawa](#phrase-marker) "o")*
 
-The **ᴘᴀʀᴛɪᴄʟᴇ** **o** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏʟᴀᴛɪᴠᴇ** or **ɪᴍᴘᴇʀᴀᴛɪᴠᴇ**, or
+The **ᴘᴀʀᴛɪᴄʟᴇ** **o** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏʟɪᴛɪᴠᴇ** or **ɪᴍᴘᴇʀᴀᴛɪᴠᴇ**, or
 the ꜱᴜʙᴊᴇᴄᴛ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏᴄᴀᴛɪᴠᴇ**.
 
-| ᴠᴏʟᴀᴛɪᴠᴇ mi o moku e ijo pona. |
+| ᴠᴏʟɪᴛɪᴠᴇ mi o moku e ijo pona. |
 |:-|
 | *I should eat good things.* |
 
 **sina** is omitted in an **ɪᴍᴘᴇʀᴀᴛɪᴠᴇ** ꜱᴇɴᴛᴇɴᴄᴇ.
 
-| ᴠᴏʟᴀᴛɪᴠᴇ sina o moku. → ɪᴍᴘᴇʀᴀᴛɪᴠᴇ o moku! |
+| ᴠᴏʟɪᴛɪᴠᴇ sina o moku. → ɪᴍᴘᴇʀᴀᴛɪᴠᴇ o moku! |
 |:-|
 | *You should eat.* → *Eat!* |
 
@@ -261,9 +261,15 @@ the ꜱᴜʙᴊᴇᴄᴛ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏᴄᴀᴛɪᴠ�
 |:-|
 | *Hey Ali!* |
 
-A **ᴠᴏʟᴀᴛɪᴠᴇ** can be reduced to the ᴏʙᴊᴇᴄᴛ of the ꜱᴇɴᴛᴇɴᴄᴇ, expressing a *wish*.
+A combination of **ᴠᴏᴄᴀᴛɪᴠᴇ** and **ɪᴍᴘᴇʀᴀᴛɪᴠᴇ** is always replaced by a **ᴠᴏʟɪᴛɪᴠᴇ**.
 
-| ᴠᴏʟᴀᴛɪᴠᴇ sina o jo e moku pona. → moku pona! |
+| ᴠᴏᴄᴀᴛɪᴠᴇ + ɪᴍᴘᴇʀᴀᴛɪᴠᴇ jan Ali o, o wawa! → ᴠᴏʟɪᴛɪᴠᴇ jan Ali o wawa! |
+|:-|
+| *Hey Ali, be strong!* |
+
+A **ᴠᴏʟɪᴛɪᴠᴇ** can be reduced to the ᴏʙᴊᴇᴄᴛ of the ꜱᴇɴᴛᴇɴᴄᴇ, expressing a *wish*.
+
+| ᴠᴏʟɪᴛɪᴠᴇ sina o jo e moku pona. → moku pona! |
 |:-|
 | *May you have a good meal.* → *Bon appétit!* |
 
@@ -467,12 +473,12 @@ One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as whole ꜱᴇɴᴛᴇɴ�
 | <img src="sitelen/pona/pipi.png" height="50" title="bibit"> | [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) *kala*, *kasi*, **pipi**, *waso* <br>ɴᴏᴜɴ **ant**, **bug**, **insect**, **spider** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *crawling*, *creeping* |
 | <img src="sitelen/pona/poka.png" height="50" title="boka"> | [**ᴛʜɪɴɢ**](#thing) + [**ᴀʀᴇᴀ**](#area) *insa* — *monsi*, **poka**, *sinpin*, *supa* <br>ɴᴏᴜɴ **side**, (*~~mute pi~~ poka tu tu sama* ⇐ *~~leko~~*) *square*; (*poka ~~sijelo~~*) **hip** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *lateral* + <br>ɴᴏᴜɴ [**area beside**](sonja.md#lesson-15), **vicinity**: (*lon poka*) **next to**, (*lon ~~poka~~* ⇐ *~~kan~~*) *among*, [**with**](sonja.md#lesson-8); (⇐ *sike*) *area surrounding*: (*lon poka*) *around* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **nearby**; (⇐ *sike*) *surrounding* |
 | <img src="sitelen/pona/poki.png" height="50" title="bokis"> | [**ᴛᴏᴏʟ**](#tool) *kute*, *lawa*, *luka*, *noka*, *palisa*, **poki**, *selo*, *uta* <br>ɴᴏᴜɴ *bladder*; **bag**, **bowl**, **box**, **container**, **cup**, **cupboard**, **drawer**, **vessel** → <br>ᴠᴇʀʙ *to be full of*, *collect*, *contain* |
+| <img src="sitelen/pona/pona.png" height="50" title="bona"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) **pona** – *ike*, *nasa*, *pakala*, *utala* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**beneficial**](sonja.md#toki-pona-proverbs), [**beautiful**](sonja.md#toki-pona-proverbs), **good**, [**great**](sonja.md#toki-pona-proverbs), [**OK**](sonja.md#toki-pona-proverbs), **positive**, [**right**](sonja.md#lesson-14); **friendly**, **peaceful**; (⇐ *ilo*) **useful**; (⇐ *lili* ⇐ *~~pasila~~*) *basic*, *elementary*, *primitive*, **simple**; ɴᴏᴜɴ [**good**](sonja.md#lesson-10), [**peace**](sonja.md#lesson-10), [**simplicity**](sonja.md#famous-quotations), [**sophistication**](sonja.md#famous-quotations) <br>ᴠᴇʀʙ [**to improve**](sonja.md#lesson-6), [**tidy up**](sonja.md#lesson-18) |
 
 ---
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/pona.png" height="50" title="bona"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) **pona** – *ike*, *nasa*, *pakala*, *utala* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**beneficial**](sonja.md#toki-pona-proverbs), [**beautiful**](sonja.md#toki-pona-proverbs), **good**, [**great**](sonja.md#toki-pona-proverbs), [**OK**](sonja.md#toki-pona-proverbs), **positive**, [**right**](sonja.md#lesson-14); **friendly**, **peaceful**; (⇐ *ilo*) **useful**; (⇐ *lili* ⇐ *~~pasila~~*) *basic*, *elementary*, *primitive*, **simple**; ɴᴏᴜɴ [**good**](sonja.md#lesson-10), [**peace**](sonja.md#lesson-10), [**simplicity**](sonja.md#famous-quotations), [**sophistication**](sonja.md#famous-quotations) <br>ᴠᴇʀʙ [**to improve**](sonja.md#lesson-6), [**tidy**](sonja.md#lesson-18) |
 | <img src="sitelen/pona/pu.png" height="50" title="buk"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) *ante* ⇐ *esun* — *sama* ⇐ **pu** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (⇒ *lon*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **interacting with the official Toki Pona book** |
 | | [**ꜱᴏᴜɴᴅ**](#sound) *nanpa*, **Pu** <br>ᴘᴀʀᴛɪᴄʟᴇ *name of the official Toki Pona book*: (lipu Pu) *the official Toki Pona book*, *"Pu"* |
 | <img src="sitelen/pona/sama.png" height="50" title="sama"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) *ante* ⇐ *esun* — **sama** ⇐ *pu* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **as**, **like** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **same**, **similar**; *-self*, *-selves*; (⇐ *kulupu*) **each other**, *reciprocal*; **fellow**: (*jan sama*) **peer**, (*jan sama ~~pi kulupu mama~~* ⇐ *~~pata~~*) **sibling** <br>ɴᴏᴜɴ [**harmony**](sonja.md#famous-quotations) |

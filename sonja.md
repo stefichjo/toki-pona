@@ -252,6 +252,9 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *nothingness* |
 
+| pona |
+|:-|
+| … *to improve* |
 ---
 
 | jan sona |
@@ -325,6 +328,14 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | o |
 |:-|
 | *(call or command)*,  *(shows who is being called or addressed; command or request; wish or desire)* |
+
+| sewi o pana e pona tawa mi! |
+|:-|
+| *O God, give good to me!* |
+
+| pona tawa sina! |
+|:-|
+| *Peace be with you.* |
 
 ---
 
@@ -422,6 +433,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *If you come to my home, I will serve food.* |
 
+| suno li loje, la tenpo pona li lon. |
+|:-|
+| *When the sun is red, it is the right time.* |
+
 | ~~lon~~ tenpo ike la jan li wile toki tawa jan pona. |
 |:-|
 | *During bad times, a person needs to talk to friends.* |
@@ -516,6 +531,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | jan Mawijo li jo e meli olin. |
 |:-|
 | *Mawijo has a beloved wife.* |
+
+| … jan Sili li pona e tomo … |
+|:-|
+| *Sili tidied up the house.* |
 
 | kalama a! |
 |:-|
@@ -691,18 +710,6 @@ Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates**. **Commas** between them ca
 | ona li mama. → mama. | ona li mama ala. ⇒ (ᴜɴ-ᴘᴜ) mama ala. ⇒ (ᴘᴜ) ala. |
 |:-|:-|
 | *She is a parent.* → *Yes.* | *She is not a parent.* → *No.* |
-
----
-
-| sina o lukin. → o lukin! | jan Ali o wawa. |
-|:-|:-|
-| *You should look.* → *Look!* | *Ali should be strong.* |
-
-"kute" can be omitted after the ᴘᴀʀᴛɪᴄʟᴇ "o". ꜱᴏɴᴊᴀ doesn't combine two "o"-ᴘᴀʀᴛɪᴄʟᴇs.
-
-| o kute! → o! | (ᴜɴ-ᴘᴜ) jan Ali o, o wawa! → (ᴘᴜ) jan Ali o wawa! |
-|:-|:-|
-| *Listen!* → *Hey!* | *Hey Ali, be strong!* |
 
 ---
 
