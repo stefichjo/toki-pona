@@ -10,7 +10,7 @@ The [Toki Pona Dictionary](#toki-pona-dictionary) contains two main **ᴡᴏʀ�
 | [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) |
 | [ᴘᴀʀᴛɪᴄʟᴇ](#particle) |
 
-A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines how (and if) a word can be used as ᴘᴀʀᴛs ᴏꜰ ꜱᴘᴇᴇᴄʜ, i.e. as ɴᴏᴜɴ, ᴀᴅᴊᴇᴄᴛɪᴠᴇ, ᴀᴅᴠᴇʀʙ, ᴠᴇʀʙ, ᴘʀᴇ-ᴠᴇʀʙ, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ or ᴘᴀʀᴛɪᴄʟᴇ. The following **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es exist:
+A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines a word's ᴘᴀʀᴛs ᴏꜰ ꜱᴘᴇᴇᴄʜ, i.e. how (and if) a word can be used as a ɴᴏᴜɴ, ᴀᴅᴊᴇᴄᴛɪᴠᴇ, ᴀᴅᴠᴇʀʙ, ᴠᴇʀʙ, ᴘʀᴇ-ᴠᴇʀʙ, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ or ᴘᴀʀᴛɪᴄʟᴇ. The following **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es exist:
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
   * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴛʜɪɴɢ**](#thing) ([**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ᴀʀᴇᴀ**](#area), [**ᴛᴏᴏʟ**](#tool), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form))
@@ -90,7 +90,7 @@ A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines how (and if) a word can be used as �
 |:-|
 | ɴᴏᴜɴ *everything* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *every* |
 
-After [**pi**](#genitive-case), **ijo** reappears.
+After [**pi**](#genitive), **ijo** reappears.
 
 | mama pi ijo ale | mama ale |
 |:-|:-|
@@ -178,6 +178,12 @@ When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜ�
 |:-|:-|
 | ᴘʀᴇ-ᴠᴇʀʙ *to know how to* <br>ᴠᴇʀʙ *to know* | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ → <br>ᴘʀᴇ-ᴠᴇʀʙ + ᴘʀᴇᴅɪᴄᴀᴛᴇ *I know how to be humble.* |
 
+ᴘʀᴇ-ᴠᴇʀʙs can be modified by [ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ](#sound)s.
+
+| ꜱᴏᴜɴᴅ ala | mi sona ala anpa. |
+|:-|:-|
+| ᴘᴀʀᴛɪᴄʟᴇ *(negation)* → <br>ᴀᴅᴠᴇʀʙ *not* | *I don't know how to be humble.* |
+
 ### PREPOSITION
 *([nimi suli poka](#modifier) palisa)*
 
@@ -223,7 +229,7 @@ The **ᴘᴀʀᴛɪᴄʟᴇ** **li** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a �
 |:-|:-|
 | *She is a parent.* | *She is not a parent.* |
 
-When there is enough context, a ꜱᴇɴᴛᴇɴᴄᴇ can be reduced its ᴘʀᴇᴅɪᴄᴀᴛᴇ or even the [ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ](#sound) that modifies it.
+When there is enough context, a ꜱᴇɴᴛᴇɴᴄᴇ can be reduced to its ᴘʀᴇᴅɪᴄᴀᴛᴇ or even to the [ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ](#sound) that modifies it.
 
 | ona li mama anu seme? | ona li mama. → mama. | ona li mama ala. → ala. |
 |:-|:-|:-|
