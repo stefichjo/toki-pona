@@ -408,9 +408,17 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 17
 *(Hunting Adventure)*
 
+| linja |
+|:-|
+| *long flexible thing* |
+
 | ona li wile alasa li kama jo e ilo alasa e len loje. |
 |:-|
 | *He wants to go hunting and gets a bow and orange vest.* |
+
+| jan mawijo li kepeken ilo alasa, taso linja li pakala. |
+|:-|
+| *Mawijo uses the bow, but the string breaks.* |
 
 ---
 
