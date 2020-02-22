@@ -79,8 +79,6 @@ A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines a word's ᴘᴀʀᴛs ᴏꜰ ꜱᴘ�
 |:-|
 | ɴᴏᴜɴ *something round* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round* |
 
-(In [Frontier Toki Pona](tepan.md), **mute**, **ma**, **ilo** and **sijelo** are **ᴛʜɪɴɢ ɴᴏᴜɴ**s, too. They can be used to express *amount*, *area*, *tool*/*useful* and *life-form*/*alive*.)
-
 #### CORRELATIVE
 *([nimi suli lawa ijo](#thing) sama)*
 
@@ -111,7 +109,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 #### AREA
 *([nimi suli lawa ijo](#thing) ma)*
 
-**ᴀʀᴇᴀ ɴᴏᴜɴ**s are **ᴛʜɪɴɢ ɴᴏᴜɴ**s, i.e. they imply **ijo**, meaning *area*.
+**ᴀʀᴇᴀ ɴᴏᴜɴ**s imply *area*.
 
 | ᴀʀᴇᴀ insa |
 |:-|
@@ -129,7 +127,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 #### LIFE-FORM
 *([nimi suli lawa ijo](#thing) sijelo)*
 
-**ʟɪꜰᴇ-ꜰᴏʀᴍ ɴᴏᴜɴ**s are **ᴛʜɪɴɢ ɴᴏᴜɴ**s, i.e. they imply **ijo**, meaning *life-form*.
+**ʟɪꜰᴇ-ꜰᴏʀᴍ ɴᴏᴜɴ**s imply *life-form*.
 
 | ʟɪꜰᴇ-ꜰᴏʀᴍ waso |
 |:-|
