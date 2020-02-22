@@ -442,7 +442,7 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | *I testify, at this moment, to my powerlessness …* |
 
 | … You, the Help in Peril, … |
-|:-"
+|:-|
 | *sina awen e ale.* |
 
 ## Official Toki Pona Dictionary
