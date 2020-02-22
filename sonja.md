@@ -341,7 +341,7 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *The baby is inside the mother's womb.* |
 
-| kala ;aso mute li lon noka pi telo suli. |
+| kala laso mute li lon noka pi telo suli. |
 |:-|
 | *Many green sea creatures are at the bottom of the ocean.* |
 
