@@ -175,6 +175,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 3
 *(Nouns and Adjectives)*
 
+| soweli meli li pona. |
+|:-|
+| *The female animal is friendly.* |
+
+---
+
 | tomo suli |
 |:-|
 | *palace* |

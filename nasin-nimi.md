@@ -428,13 +428,13 @@ One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as whole ꜱᴇɴᴛᴇɴ�
 | <img src="sitelen/pona/lupa.png" height="50" title="rupa"> | [**ᴛʜɪɴɢ**](#thing) **lupa**, *nasin* <br>ɴᴏᴜɴ (*lupa ~~tomo~~*) **door**, **hole**, **orifice**, (*lupa ~~suno~~*) **window**; [**womb**](sonja.md#toki-pona-proverbs) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* |
 | <img src="sitelen/pona/ma.png" height="50" title="maa"> | [**ᴛʜɪɴɢ**](#thing) **ma**, *mun* <br>ɴᴏᴜɴ **earth**, **land**; **outdoors**, **world**; **country**, **territory**; **soil**; *area*; (*~~sike~~ ma*) [**planet**](sonja.md#toki-pona-proverbs) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *firm* <br>ᴠᴇʀʙ *to tie* |
 | <img src="sitelen/pona/mama.png" height="50" title="mama"> | [**ᴘᴇʀꜱᴏɴ**](#person) **mama** — *meli*, *mije* <br>ɴᴏᴜɴ **ancestor**, **parent**; (*mama ~~mije~~*) [**father**](sonja.md#the-gospel), (*mama ~~meli~~*) *mother*; **creator**, **originator**; **caretaker**, **sustainer** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of origin*; [**birth giving**](sonja.md#the-quran) |
+| <img src="sitelen/pona/mani.png" height="50" title="mani"> | [**ᴛʜɪɴɢ**](#thing) *lili* — *ale*, *ilo*, **mani**, *mute*, *suli*, *wawa* <br>ɴᴏᴜɴ **large domesticated animal**; **cash**, **money**, **savings**, **wealth** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *refined*; *valueable* |
+| <img src="sitelen/pona/meli.png" height="50" title="meri"> | [**ᴘᴇʀꜱᴏɴ**](#person) *mama* — **meli**, *mije* <br>ɴᴏᴜɴ **female**, **feminine person**, **woman**; **wife** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**female**](sonja.md#lesson-3) |
 
 ---
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/mani.png" height="50" title="mani"> | [**ᴛʜɪɴɢ**](#thing) *lili* — *ale*, *ilo*, **mani**, *mute*, *suli*, *wawa* <br>ɴᴏᴜɴ **large domesticated animal**; **cash**, **money**, **savings**, **wealth** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *refined*; *valueable* |
-| <img src="sitelen/pona/meli.png" height="50" title="meri"> | [**ᴘᴇʀꜱᴏɴ**](#person) *mama* — **meli**, *mije* <br>ɴᴏᴜɴ **female**, **feminine person**, **woman**; **wife** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**female**](sonja.md#lesson-3) |
 | <img src="sitelen/pona/mi.png" height="50" title="mi"> | [**ᴘʀᴏɴᴏᴜɴ**](#pronoun) *ona* — **mi**, *sina* <br>ɴᴏᴜɴ **I**/**me**/[**myself**](sonja.md#toki-pona-proverbs), **we**/**us**/*ourselves* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *my*, *our* |
 | <img src="sitelen/pona/mije.png" height="50" title="mies"> | [**ᴘᴇʀꜱᴏɴ**](#person) *mama* — *meli*, **mije** <br>ɴᴏᴜɴ **male**, **man**, **masculine person**; **husband** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*male*](tepan.md) |
 | <img src="sitelen/pona/moku.png" height="50" title="mogu"> | [**ᴠᴇʀʙ**](#verb) *alasa*, **moku**, *olin*, *pali*, *unpa* <br>ᴠᴇʀʙ **to consume**, **drink**, **eat**, **ingest**, **swallow** → <br>ɴᴏᴜɴ *mouthful*; *food* |
