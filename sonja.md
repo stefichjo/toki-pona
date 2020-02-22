@@ -203,6 +203,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 5
 *(Verbs)*
 
+| mi kute e sina. |
+|:-|
+| *I will listen to you.* |
+
 | kili li jo e telo. |
 |:-|
 | *The orange contains liquid.* |
