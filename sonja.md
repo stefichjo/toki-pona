@@ -123,6 +123,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 1
 *(Letters and Sounds)*
 
+| jaki |
+|:-|
+| *yucky* |
+
 ### Lesson 2
 *(Words and Sentences)*
 
