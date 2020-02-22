@@ -358,6 +358,22 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *Change comes.* |
 
+| ike li kama. |
+|:-|
+| *Bad things will happen.* |
+
+| sina pana e ike, la sina kama jo e ike. |
+|:-|
+| *If you give evil, you will receive evil.* |
+
+| mi weka e ike an, la mi weka e ike mi. |
+|:-|
+| *When I erase somebody's faults, I cleanse myself of negativity.* |
+
+| utala li ike. |
+|:-|
+| *Fighting is harmful* |
+
 ---
 
 * ante li kama. - Times change.
@@ -374,9 +390,7 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ### Famous Quotations
 
-| sewi li lon ala, li lon ale. |
-|:-|
-| *God is the tangential point between zero and infinity. |
+…
 
 ---
 
