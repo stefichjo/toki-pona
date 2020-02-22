@@ -379,7 +379,7 @@ One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as whole ꜱᴇɴᴛᴇɴ�
 | <img src="sitelen/pona/ale.png" height="50" title="ale"> | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) **ale**, *ni*, *seme*, *wan* (⇐ *~~ali~~*) <br>ɴᴏᴜɴ **everything** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*~~mute~~ ale*) **all**, **every**; (*~~wan~~ ale*) **all** |
 | | [**ɴᴜᴍʙᴇʀ**](#number) *ala*, **ale**, *esun*, *luka*, *mute*, *tu*, *wan* (⇐ *~~ali~~*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](sonja.md#lesson-12), **countless**: (*~~mute pi ijo~~ ale*) [**infinity**](sonja.md#famous-quotations); [**100**](sonja.md#lesson-12) |
 | | [**ᴛʜɪɴɢ**](#thing) *lili* — **ale**, *ilo*, *mani*, *mute*, *suli*, *wawa* (⇐ *~~ali~~*) <br>ɴᴏᴜɴ **life**, **universe** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **bountiful**, **plentiful** <br>ɴᴏᴜɴ **abundance** |
-| <img src="sitelen/pona/anpa.png" height="50" title="an-ba"> | [**ᴀʀᴇᴀ**](#area) **anpa** — *sewi*, *noka* — *lawa* <br>ɴᴏᴜɴ (⇒ *noka*) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bowing down**, **downward**, **humble**, **lowly**; **dependent** <br>ɴᴏᴜɴ [**powerless**](sonja.md#short-obligatory-prayer) |
+| <img src="sitelen/pona/anpa.png" height="50" title="an-ba"> | [**ᴀʀᴇᴀ**](#area) **anpa** — *sewi*, *noka* — *lawa* <br>ɴᴏᴜɴ (⇒ *noka*) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bowing down**, **downward**, **humble**, **lowly**; **dependent** <br>ɴᴏᴜɴ [**powerlessness**](sonja.md#short-obligatory-prayer) |
 
 ---
 
