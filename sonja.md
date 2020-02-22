@@ -258,6 +258,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 12
 *(Numbers)*
 
+| ala |
+|:-|
+| *0* |
+
+---
+
 * jan ale - everyone
 * nanpa wan - first
 * nanpa tu tu - fourth
@@ -335,6 +341,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 * pana e pona - love, take care of
 
 ### Famous Quotations
+
+| ala |
+|:-|
+| *zero* |
+
+---
 
 * nanpa wan - fundamental
 * nanpa wan - ultimate
