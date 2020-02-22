@@ -372,13 +372,13 @@ One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as whole ꜱᴇɴᴛᴇɴ�
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
 | <img src="sitelen/pona/a.png" height="50" title="ha"> | [**ꜱᴏᴜɴᴅ**](#sound) *mu* — **a**, *ala* <br>ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, [**(emotion word)**](sonja.md#lesson-10) → <br>ᴀᴅᴠᴇʀʙ (⇐ *~~kin~~*) *indeed*, [**so**](sonja.md#lesson-10); (*sama la … a* ⇐ *~~kin~~*) *still*, (*sin la … a* ⇐ *~~kin~~*) *too*; [**ha**](sonja.md#lesson-10), [**wow**](sonja.md#lesson-10), [**yay**](sonja.md#lesson-13), *yes* |
+| <img src="sitelen/pona/akesi.png" height="50" title="hagedis"> | [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) **akesi** — *soweli* <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; *monster* (⇐ *~~monsuta~~*): (*akesi e jan lon insa lawa* ⇐ *~~monsuta e jan~~*) *to fear someone* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*; (⇒ *ike*) |
+| <img src="sitelen/pona/ala.png" height="50" title="ara"> | [**ꜱᴏᴜɴᴅ**](#sound) *mu* — *a*, **ala** <br>ᴘᴀʀᴛɪᴄʟᴇ *(negation)* → <br>ᴀᴅᴠᴇʀʙ **not**; **no** <br>ɴᴏᴜɴ [**nothingness**](sonja.md#lesson-6) |
 
 ---
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/akesi.png" height="50" title="hagedis"> | [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) **akesi** — *soweli* <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; *monster* (⇐ *~~monsuta~~*): (*akesi e jan lon insa lawa* ⇐ *~~monsuta e jan~~*) *to fear someone* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*; (⇒ *ike*) |
-| <img src="sitelen/pona/ala.png" height="50" title="ara"> | [**ꜱᴏᴜɴᴅ**](#sound) *mu* — *a*, **ala** <br>ᴘᴀʀᴛɪᴄʟᴇ *(negation)* → <br>ᴀᴅᴠᴇʀʙ **not**; **no** <br>ɴᴏᴜɴ [**nothingness**](sonja.md#lesson-6) |
 | | [**ɴᴜᴍʙᴇʀ**](#number) **ala**, *ale*, *esun*, *luka*, *mute*, *tu*, *wan* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**0**](sonja.md#lesson-12): (*~~mute pi ijo~~ ala*) [**zero**](sonja.md#famous-quotations) |
 | <img src="sitelen/pona/alasa.png" height="50" title="a-la-ŝas"> | [**ᴠᴇʀʙ**](#verb) **alasa**, *moku*, *olin*, *pali*, *unpa* <br>ᴠᴇʀʙ **to hunt**, **forage** |
 | <img src="sitelen/pona/ale.png" height="50" title="ale"> | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) **ale**, *ni*, *seme*, *wan* (⇐ *~~ali~~*) <br>ɴᴏᴜɴ **everything** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*~~mute~~ ale*) **all**, **every**; (*~~wan~~ ale*) **all** |

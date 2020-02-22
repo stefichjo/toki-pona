@@ -174,6 +174,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 6
 *(More Adjectives)*
 
+| ala |
+|:-|
+| *nothingness* |
+
+---
+
 | jan sona |
 |:-|
 | *scholar* |
