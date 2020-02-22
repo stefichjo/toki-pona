@@ -435,12 +435,12 @@ One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as whole ꜱᴇɴᴛᴇɴ�
 | <img src="sitelen/pona/moku.png" height="50" title="mogu"> | [**ᴠᴇʀʙ**](#verb) *alasa*, **moku**, *olin*, *pali*, *unpa* <br>ᴠᴇʀʙ **to consume**, **drink**, **eat**, **ingest**, **swallow** → <br>ɴᴏᴜɴ *mouthful*; *food* |
 | <img src="sitelen/pona/moli.png" height="50" title="muri"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) *kalama*, *lape*, **moli**, *musi* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**, (*~~kama~~ moli*) **dying** |
 | <img src="sitelen/pona/monsi.png" height="50" title="mon-ĉi"> | [**ᴛʜɪɴɢ**](#thing) + [**ᴀʀᴇᴀ**](#area) *insa* — **monsi**, *poka*, *sinpin*, *supa* <br>ɴᴏᴜɴ (*monsi ~~sijelo~~*) **back**; *backbone* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dorsal*; *endorsing* + <br>ɴᴏᴜɴ [**area behind**](sonja.md#lesson-15), **back**, **rear**: (*lon monsi*) **behind** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *rear* |
+| <img src="sitelen/pona/mu.png" height="50" title="mu"> | [**ꜱᴏᴜɴᴅ**](#sound) **mu** — *a*, *ala* <br>ᴘᴀʀᴛɪᴄʟᴇ **(animal noise or communication)**; *(indifference)* → <br>ᴀᴅᴠᴇʀʙ (*~~mu~~*) *-ish*, *sort-of*; [**cock-a-doodle-doo**](sonja.md#lesson-11), [**moo**](sonja.md#lesson-1); *blah* |
 
 ---
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/mu.png" height="50" title="mu"> | [**ꜱᴏᴜɴᴅ**](#sound) **mu** — *a*, *ala* <br>ᴘᴀʀᴛɪᴄʟᴇ **(animal noise or communication)**; *(indifference)* → <br>ᴀᴅᴠᴇʀʙ (*~~mu~~*) *-ish*, *sort-of*; [**cock-a-doodle-doo**](sonja.md#lesson-11), [**moo**](sonja.md#lesson-1); *blah* |
 | <img src="sitelen/pona/mun.png" height="50" title="mun"> | [**ᴛʜɪɴɢ**](#thing) *ma*, **mun** <br>ɴᴏᴜɴ **moon**, **night sky object**, **star** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sky-walking* |
 | <img src="sitelen/pona/musi.png" height="50" title="amuzi"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) *kalama*, *lape*, *moli*, **musi** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** |
 | <img src="sitelen/pona/mute.png" height="50" title="multe"> | [**ᴛʜɪɴɢ**](#thing) *lili* — *ale*, *ilo*, *mani*, **mute**, *suli*, *wawa* <br>ɴᴏᴜɴ (⇒ *kulupu*) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**3+**](sonja.md#lesson-12), [**20**](sonja.md#lesson-12), **a lot**, **many**, **several**; ᴀᴅᴠᴇʀʙ **much**, **very**; (*mute ~~sin~~*) **more** <br>ᴠᴇʀʙ [**to multiply**](sonja.md#toki-pona-proverbs) <br>ɴᴏᴜɴ *amount*, **quantity** |

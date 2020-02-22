@@ -329,6 +329,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 11
 *(pi)*
 
+| mu! |
+|:-|
+| *Cock-a-doodle-doo!* |
+
+---
+
 * mije sona - scholar
 * tenpo suno ni - today
 * pona mute - excellent
