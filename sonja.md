@@ -116,6 +116,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *A small community of Toki Pona fans emerged.* |
 
+| pu la mi wile pana e selo pini pi toki pona. |
+|:-|
+| *In this book, I hope to present the language in its completed form.* |
+
 ---
 
 | toki insa |
