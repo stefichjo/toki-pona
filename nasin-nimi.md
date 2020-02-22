@@ -170,11 +170,11 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 ### PRE-VERB
 *([nimi suli poka](#modifier) monsi)*
 
-When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ share the same ꜱᴜʙᴊᴇᴄᴛ, their two ᴘʀᴇᴅɪᴄᴀᴛᴇs can merge, provided the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's ᴘʀᴇᴅɪᴄᴀᴛᴇ is a **ᴘʀᴇ-ᴠᴇʀʙ**.
+When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ share the same ꜱᴜʙᴊᴇᴄᴛ, their two ᴍᴀɪɴ ᴠᴇʀʙs can merge, provided the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's ᴍᴀɪɴ ᴠᴇʀʙ is a **ᴘʀᴇ-ᴠᴇʀʙ**.
 
 | ᴘʀᴇ-ᴠᴇʀʙ sona | mi sona e nasin ni: mi anpa. → mi sona anpa. |
 |:-|:-|
-| ᴘʀᴇ-ᴠᴇʀʙ *to know how to* <br>ᴠᴇʀʙ *to know* | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ → <br>ᴘʀᴇ-ᴠᴇʀʙ + ᴘʀᴇᴅɪᴄᴀᴛᴇ *I know how to be humble.* |
+| ᴘʀᴇ-ᴠᴇʀʙ *to know how to* <br>ᴠᴇʀʙ *to know* | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ → <br>ᴘʀᴇ-ᴠᴇʀʙ + ᴍᴀɪɴ ᴠᴇʀʙ *I know how to be humble.* |
 
 ᴘʀᴇ-ᴠᴇʀʙs can be modified by [ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ](#sound)s.
 
@@ -227,7 +227,7 @@ The **ᴘᴀʀᴛɪᴄʟᴇ** **li** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a �
 |:-|:-|
 | *She is a parent.* | *She is not a parent.* |
 
-When there is enough context, a ꜱᴇɴᴛᴇɴᴄᴇ can be reduced to its ᴘʀᴇᴅɪᴄᴀᴛᴇ or even to the [ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ](#sound) that modifies it.
+When there is enough context, a ꜱᴇɴᴛᴇɴᴄᴇ can be reduced to its ᴍᴀɪɴ ᴠᴇʀʙ or even to the [ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ](#sound) that modifies it.
 
 | ona li mama anu seme? | ona li mama. → mama. | ona li mama ala. → ala. |
 |:-|:-|:-|
@@ -283,7 +283,7 @@ When the ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ consists of only one [ɴᴏᴜɴ](#noun), *
 #### ACCUSATIVE
 *([nimi lili lawa](#phrase-marker) "e")*
 
-The **ᴘᴀʀᴛɪᴄʟᴇ** **e** marks a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ as an **ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ**, i.e. the ᴏʙᴊᴇᴄᴛ of a ᴘʀᴇᴅɪᴄᴀᴛᴇ.
+The **ᴘᴀʀᴛɪᴄʟᴇ** **e** marks a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ as an **ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ**, i.e. the ᴍᴀɪɴ ᴠᴇʀʙ's ᴏʙᴊᴇᴄᴛ.
 
 When there is enough context, the ᴏʙᴊᴇᴄᴛ of a [ᴠᴇʀʙ](#verb) can be omitted.
 
@@ -318,7 +318,7 @@ The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **anu** means *or*. It combines two ɴᴏ�
 |:-|:-|
 | ᴘᴀʀᴛɪᴄʟᴇ *or* | *Is she a parent?* |
 
-In yes-no-questions, **anu** can be omitted between a negative and a positive ᴘʀᴇᴅɪᴄᴀᴛᴇ.
+In yes-no-questions, **anu** can be omitted between a negative and a positive ᴍᴀɪɴ ᴠᴇʀʙ.
 
 | ona li mama ala mama? |
 |:-|
@@ -416,7 +416,7 @@ One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as whole ꜱᴇɴᴛᴇɴ�
 | | [**ᴛᴏᴏʟ**](#tool) *kute*, **lawa**, *luka*, *noka*, *palisa*, *poki*, *selo*, *uta* <br>ɴᴏᴜɴ **head**, **mind** →  <br>ᴠᴇʀʙ **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule**; *arange*, *organize*; (⇒ *selo* ⇒ *wile*) <br>ɴᴏᴜɴ [**guidance**](sonja.md#toki-pona-proverbs); (⇒ *mute*) |
 | <img src="sitelen/pona/len.png" height="50" title="lenĵ"> | [**ᴛᴏᴏʟ**](#tool) *insa*, **len**, *tomo* <br>ɴᴏᴜɴ **cloth**, **clothing**, **fabric**, **textile**, [**vest**](sonja.md#lesson-17); **cover**, **layer of privacy** → <br>ᴠᴇʀʙ *to hide* |
 | <img src="sitelen/pona/lete.png" height="50" title="fret"> | [**ᴛʜɪɴɢ**](#thing) **lete** — *seli* <br>ɴᴏᴜɴ *frost*, *ice* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **cold**, **cool**; **uncooked**, **raw** |
-| <img src="sitelen/pona/li.png" height="50" title="li"> | [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker) **li**, *o* — *pi*, *e* <br>ᴘᴀʀᴛɪᴄʟᴇ **(between any subject except mi alone or sina alone and its predicate; also to introduce a new predicate for the same subject)** |
+| <img src="sitelen/pona/li.png" height="50" title="li"> | [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker) **li**, *o* — *pi*, *e* <br>ᴘᴀʀᴛɪᴄʟᴇ **(between any subject except mi alone or sina alone and its ᴘʀᴇᴅɪᴄᴀᴛᴇ; also to introduce a new ᴘʀᴇᴅɪᴄᴀᴛᴇ for the same subject)** |
 | <img src="sitelen/pona/lili.png" height="50" title="liklik"> | [**ᴛʜɪɴɢ**](#thing) **lili** — *ale*, *ilo*, *mani*, *mute*, *suli*, *wawa* <br>ɴᴏᴜɴ (⇒ *wan*) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **little**, [**momentary**](sonja.md#toki-pona-proverbs), [**micro-**](sonja.md#preface), [**narrow**](sonja.md#lesson-13), **small**, **short**, [**temporary**](sonja.md#toki-pona-proverbs); [**120**](sonja.md#preface), **few**; **a bit**; (*~~pi sike suno~~ lili*) **young**; (⇒ *pona*) |
 | <img src="sitelen/pona/linja.png" height="50" title="linja"> | [**ᴛʜɪɴɢ**](#thing) **linja** — *palisa* <br>ɴᴏᴜɴ **long and flexible thing**, [**long flexible thing**](sonja.md#lesson-17); **cord**, (*linja ~~lawa~~*) **hair**, **rope**, [**string**](sonja.md#lesson-17), **thread**, **yarn** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *long and flexible* |
 | <img src="sitelen/pona/lipu.png" height="50" title="lipu"> | [**ᴛʜɪɴɢ**](#thing) **lipu**, *nena*, *sike* <br>ɴᴏᴜɴ **flat object**; (*~~mute~~ lipu*) **book**, **card**, [**clay tablet**](sonja.md#what-is-toki-pona), **document**, **paper**, [**piece of paper**](sonja.md#lesson-2), [**postcard**](sonja.md#what-is-toki-pona), [**printed book**](sonja.md#what-is-toki-pona), **record**, **website** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flat*, *thin* |
