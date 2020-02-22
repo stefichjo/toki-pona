@@ -322,6 +322,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|:-|:-|:-|
 | *(emotion word)* | *You're so tall!* | *Ha ha ha!* | *Canada has a lot of fish, wow!* |
 
+| o |
+|:-|
+| *(call or command)*,  *(shows who is being called; command or request; wish or desire)* |
+
 ---
 
 | kama pona! | tawa pona! |
