@@ -460,6 +460,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *long flexible thing* |
 
+| mi wile e ni: |
+|:-|
+| *I want the following:* |
+
 | ona li wile alasa li kama jo e ilo alasa e len loje. |
 |:-|
 | *He wants to go hunting and gets a bow and orange vest.* |
