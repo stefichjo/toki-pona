@@ -153,6 +153,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *yucky* |
 
+| mu |
+|:-|
+| *moo* |
+
+---
+
 ### Lesson 2
 *(Words and Sentences)*
 
