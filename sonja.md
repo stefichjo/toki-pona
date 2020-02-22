@@ -294,6 +294,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 14
 *(Colours and la)*
 
+| ~~lon~~ tenpo ike la jan li wile toki tawa jan pona. |
+|:-|
+| *During bad times, a person needs to talk to friends.* |
+
+---
+
 * tenpo pimeja ni - tonight
 * soweli wawa - bear
 * tenpo suno kama - tomorrow
@@ -301,6 +307,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ### Lesson 15
 *(Spatial Nouns)*
+
+| o awen e monsi sina. |
+|:-|
+| *Protect your back.* |
+
+---
 
 * 👍 pi noka suli - deep
 * telo suli - ocean
@@ -395,6 +407,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | tenpo ni la mi sona e ni: mi anpa. … |
 |:-|
 | *I testify, at this moment, to my powerlessness …* |
+
+| … You, the Help in Peril, … |
+|:-"
+| *sina awen e ale.* |
 
 ## Official Toki Pona Dictionary
 
