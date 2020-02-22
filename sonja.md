@@ -100,6 +100,12 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ### Preface
 
+| kulupu lili li kama. ona li olin e toki pona. |
+|:-|
+| *A small community of Toki Pona fans emerged.* |
+
+---
+
 | toki insa |
 |:-|
 | *thought* |
