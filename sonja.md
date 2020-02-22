@@ -116,6 +116,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ### What Is Toki Pona?
 
+| *kili* |
+|:-|
+| … *turnips*, *kumquats*, *lingonberries* |
+
 ### Limitations
 
 | waso wawa | waso nasa |
@@ -139,6 +143,14 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | ijo |
 |:-|
 | … *something*, *being* |
+
+| ni li kili. |
+|:-|
+| *This is a banana.* |
+
+| kili li ijo. |
+|:-|
+| *Blueberries are things.* |
 
 ### Lesson 3
 *(Nouns and Adjectives)*
@@ -170,12 +182,24 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 4
 *(You and I)*
 
+| ni li kili mi. |
+|:-|
+| *This is my kiwi.* |
+
+---
+
 | tomo soweli | tomo lipu |
 |:-|:-|
 | *doghouse* | *library* |
 
 ### Lesson 5
 *(Verbs)*
+
+| kili li jo e telo. |
+|:-|
+| *The orange contains liquid.* |
+
+---
 
 | jan toki | jan pali |
 |:-|:-|
