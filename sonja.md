@@ -100,6 +100,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ### Preface
 
+| mi open lon nimi sewi. |
+|:-|
+| I start with the Divine. |
+
 | toki pona li tan seme? tenpo pini la mi wile sona e kon ale kepeken nimi lili. |
 |:-|
 | *Toki Pona was my philosophical attempt to understand the meaning of life in 120 words.* |
@@ -251,6 +255,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ### Lesson 6
 *(More Adjectives)*
+
+| sewi |
+|:-|
+| *that which is divine, i.e. God* |
 
 | ala |
 |:-|
@@ -473,6 +481,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | … *area beside* … |
 
+| sewi |
+|:-|
+| … *sky* |
+
 | noka tomo li wawa |
 |:-|
 | *The foundation of the building is stable.* |
@@ -587,6 +599,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### The Torah
 
 ### The Gospel
+
+| sewi li sewi mi. |
+|:-|
+| *The Lord is our God.* |
 
 | mama mi o! |
 |:-|
