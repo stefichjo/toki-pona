@@ -225,6 +225,16 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 9
 *(Proper Names)*
 
+| ma Apika li jo e jan mute. |
+|:-|
+| *Africa has many people.* |
+
+| jan Sulu li utala e jan ike. |
+|:-|
+| *Mr. Sulu fights a bad guy.* |
+
+---
+
 | ma tomo | nena sewi |
 |:-|:-|
 | *city* | *hill sanctuary* |
