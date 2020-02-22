@@ -100,6 +100,14 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 
 ### Preface
 
+| toki pona li tan seme? tenpo pini la mi wile sona e kon ale kepeken nimi lili. |
+|:-|
+| *Toki Pona was my philosophical attempt to understand the meaning of life in 120 words.* |
+
+| mi lukin e kon mi. … |
+|:-|
+| *Through a process of soul-searching …*  |
+
 | kulupu lili li kama. ona li olin e toki pona. |
 |:-|
 | *A small community of Toki Pona fans emerged.* |
