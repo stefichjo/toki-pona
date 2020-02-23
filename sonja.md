@@ -592,4 +592,10 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 
 | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|
-| ᴠᴇʀʙ [**open**](#lesson-16) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **open** <br>ᴠᴇʀʙ **to open** |
+| **open** <br>[ᴠᴇʀʙ *open*](#lesson-16) | **open** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *open* <br>ᴠᴇʀʙ *to open* |
+| **lukin** <br>ᴘʀᴇ-ᴠᴇʀʙ [**to seek, look for, try to**](#official-toki-pona-dictionary) | **lukin** <br>ᴘʀᴇ-ᴠᴇʀʙ *to seek to, try to* |
+| [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#official-toki-pona-dictionary) *fire* | ɴᴏᴜɴ *fire* |
+| **lon** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *located at*, *present at*, [*real*, *true*, *existing*](#official-toki-pona-dictionary) | **lon** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *located at*, *present at* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *real*, *true*, *existing* |
+| **kalama** <br>[ᴠᴇʀʙ *to produce a sound*](#official-toki-pona-dictionary); *recite*, *utter aloud* | **kalama** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *to produce a sound* <br>ᴠᴇʀʙ *to recite*, *utter* *aloud* |
+
+
