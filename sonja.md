@@ -97,9 +97,9 @@ In yes-no-questions, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **anu** is omitted betwee
 
 When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴍᴀɪɴ ᴠᴇʀʙ is omitted.
 
-| mi ~~tawa~~ tawa sina. |
-|:-|
-| *I am moving towards you.* |
+| mi ~~tawa~~ tawa sina. | o ~~kepeken~~ kepeken ala ilo ike. |
+|:-|:-|
+| *I am moving towards you.* | *Don't use bad tools.* |
 
 ## Corpus
 
