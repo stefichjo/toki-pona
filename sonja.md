@@ -557,31 +557,7 @@ A *comma* between a ꜱᴇɴᴛᴇɴᴄᴇ followed by the ɪɴᴛᴇʀᴊᴇᴄ
 |:-|
 | *of a year* |
 
----
-
-This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. ᴘᴜ rules enforce the omission of words:
-
-| (ᴜɴ-ᴘᴜ) toki pi pona ⇒  (ᴘᴜ) toki pona |
-|:-|
-| *Language of Good* |
-
-ᴘᴏɴᴀ rules purposely limit Toki Pona's expressiveness for the sake of a simpler style. Both ᴘᴜ rules and ᴘᴏɴᴀ rules actually complicate Toki Pona's grammar, yet they are considered ᴍᴀɴᴅᴀᴛᴏʀʏ, and sticking to them is therefore encouraged.
-
-| (ᴜɴ-ᴘᴏɴᴀ) mi wile e ona o musi. ⇒ (ᴘᴏɴᴀ) mi wile e ni: ona li musi. |
-|:-|
-| *I want her to play.* |
-
----
-
-ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are used only at the end of **predicates**.
-
-| (ᴜɴ-ᴘᴏɴᴀ) jan lon poka ⇒ (ᴘᴏɴᴀ) jan poka | (ᴜɴ-ᴘᴏɴᴀ) jan pi pona tawa lukin ⇒ (ᴘᴏɴᴀ) jan pi pona lukin |
-|:-|:-|
-| *neighbour* | *beautiful person* |
-
----
-
- When "pi nimi (pi kalama)" can be infered, **quotation marks** can be omitted.
+When "pi nimi (pi kalama)" can be infered, **quotation marks** can be omitted.
 
 | ona li jo e nimi "Sonja". | ona li jan pi nimi "Sonja". ⇒ ona li jan Sonja |
 |:-|:-|
