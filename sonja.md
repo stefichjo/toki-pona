@@ -3,8 +3,9 @@
 | |
 |:-|
 | [Terminology](#terminology) |
-| [Grammar Extensions](#grammar-extensions) |
+| [Grammar](#grammar) |
 | [Corpus](#corpus) |
+| [Punctuation](#punctuation) |
 | [Official Toki Pona Dictionary](#official-toki-pona-dictionary) |
 
 ## Terminology
@@ -75,7 +76,7 @@ The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ
 |:-|:-|:-|
 | [**tan seme la**](#lesson-14) | ꜰʀᴀɢᴍᴇɴᴛ | ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ |
 
-## Grammar Extensions
+## Grammar
 
 Every ɴᴏᴜɴ can be used as a [ᴛᴏᴏʟ ɴᴏᴜɴ](nasin-nimi.md#tool), i.e. it can be [converted](#lesson-18) into a ᴠᴇʀʙ implying *usage*.
 
@@ -83,7 +84,7 @@ Every ɴᴏᴜɴ can be used as a [ᴛᴏᴏʟ ɴᴏᴜɴ](nasin-nimi.md#tool), 
 |:-|
 | ɴᴏᴜɴ *water* → <br>ᴠᴇʀʙ *to use water on*, *to wash* |
 
-Sonja introduces a ["more complex and precise counting system"](#lesson-12), where [ɴᴜᴍʙᴇʀ](nasin-nimi.md#number)s can be used as ᴘᴀʀᴛɪᴄʟᴇs, adding (their numeric value) one after another.
+ꜱᴏɴᴊᴀ introduces a ["more complex and precise counting system"](#lesson-12), where [ɴᴜᴍʙᴇʀ](nasin-nimi.md#number)s can be used as ᴘᴀʀᴛɪᴄʟᴇs, adding (their numeric value) one after another.
 
 | palisa luka tu |
 |:-|
@@ -94,6 +95,12 @@ In yes-no-questions, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **anu** is omitted betwee
 | ona li mama anu seme? → ona li mama ala ~~anu~~ mama? |
 |:-|
 | *Is she a parent?* |
+
+In ꜱᴇɴᴛᴇɴᴄᴇs, a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ can be used (only) at the end.
+
+| mi pana e kala tawa ona. |
+|:-|
+| *I give fish to her.* |
 
 When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴍᴀɪɴ ᴠᴇʀʙ is omitted.
 
@@ -490,9 +497,23 @@ When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and �
 |:-|
 | *sina awen e ale.* |
 
+## Punctuation
+
+### Colon
+
+### Comma
+
+A *comma* between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can be safely removed.
+
+| mi pana e kala tawa ona, lon tomo. → mi pana e kala tawa ona lon tomo. |
+|:-|
+| *I give fish to her in the home.* |
+
 ## Official Toki Pona Dictionary
 
-ꜱᴏɴᴊᴀ omits **kama** when there is enough context. For example, she uses **moli** for both *dead* and *dying*.
+### Omissions
+
+ꜱᴏɴᴊᴀ omits **kama** when there is enough context. (For example, she uses **moli** for both *dead* and *dying*.)
 
 | ~~kama~~ ante li kama. |
 |:-|
@@ -511,22 +532,6 @@ When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and �
 | pi sike suno → sike |
 |:-|
 | *of a year* |
-
----
-
-When used two times in a row as both ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is dropped. A ᴘᴀʀᴛɪᴄʟᴇ (typically **ala**) can be added to the ᴀᴅᴊᴇᴄᴛɪᴠᴇ, but not another ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
-
-| (ᴜɴ-ᴘᴜ) mi tawa tawa tomo. ⇒ (ᴘᴜ) mi tawa tomo. | (ᴜɴ-ᴘᴜ) mi tawa ala tawa tomo. ⇒ (ᴘᴜ) mi tawa ala tomo. | mi tawa wawa tawa tomo. |
-|:-|:-|:-|
-| *I'm going home.* | *I'm not going home.* | *I'm running home.* |
-
----
-
-A **comma** between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can therefore be safely removed.
-
-| (ᴜɴ-ᴘᴏɴᴀ) mi toki tawa sina, lon tomo. ⇒ (ᴘᴏɴᴀ) mi toki tawa sina lon tomo. |
-|:-|
-| *I'm talking to you at home.* |
 
 ---
 
