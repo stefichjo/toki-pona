@@ -9,11 +9,9 @@
 
 ## Terminology
 
-[ꜱᴏɴᴊᴀ](lesson-11) introduces ɴᴏᴜɴs and (simple) ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs as ɴᴏᴜɴ-ɢʀᴏᴜᴘs.
-
-| ɴᴏᴜɴ ⇒ ɴᴏᴜɴ-ɢʀᴏᴜᴘ mije | ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs ⇒ ɴᴏᴜɴ-ɢʀᴏᴜᴘ  sona lili| mije pi sona lili |
+| | | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
-| *a man* | *little knowledge* | *a man of little knowledge* |
+| [**mije**](#lesson-11) | ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ | ɴᴏᴜɴ-ɢʀᴏᴜᴘ |
 
 [ꜱᴏɴᴊᴀ](sonja.md#lesson-5) introduces ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs as ᴠᴇʀʙs. Apparently, she conflates ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs and ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs to ᴠᴇʀʙs.
 
