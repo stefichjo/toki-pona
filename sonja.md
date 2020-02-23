@@ -357,6 +357,10 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 |:-|
 | *Peace be with you.* |
 
+| tawa pona. |
+|:-|
+| *Good departure!* |
+
 ### Lesson 11
 *(pi)*
 
@@ -497,6 +501,10 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | jan Mawijo li kepeken ilo alasa, taso linja li pakala. |
 |:-|
 | *Mawijo uses the bow, but the string breaks.* |
+
+| soweli suli li tawa weka. |
+|:-|
+| *The moose runs away.* |
 
 ### Lesson 18
 *(Cooking Adventure)*
