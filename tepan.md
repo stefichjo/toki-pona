@@ -2,10 +2,10 @@
 
 | |
 |:-|
-| [Grammatical Extensions](#grammar-extensions): [Contexts](#contexts), [Nestings](#nestings), [Passive](#passive) |
+| [Grammar Extensions](#grammar-extensions): [Contexts](#contexts), [Nestings](#nestings), [Passive](#passive) |
 | [Semantic Extensions](#semantic-extensions) |
 | [Word-Class Extensions](#word-class-extensions) |
-| [De-Conflations](#de-conflations) |
+| [Synonyms](#synonyms) |
 
 ## Grammar Extensions
 
@@ -233,7 +233,7 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ](nasin-nimi.md#thing)s, i.e. 
 * ᴜɴ-ᴘᴏɴᴀ **mi esun lipu e mani.** / **mi esun mani e lipu.** → **mi esun e lipu.**
 * ᴜɴ-ᴘᴏɴᴀ **mi pana e esun tawa** / **mi kepeken esun lon** → **mi esun e lipu.**
 
-## De-Conflations
+## Synonyms
 
 | | | | |
 |:-|:-|:-|:-|

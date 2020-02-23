@@ -197,6 +197,12 @@ When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜ�
 |:-|
 | *I'm giving you an apple.* |
 
+**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**s can be modified by [ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ](#sound)s.
+
+| o kepeken ala ilo ike. |
+|:-|
+| *Don't use bad tools.* |
+
 # PARTICLE
 *([nimi](#toki-pona-word-classes-and-parts-of-speech) lili)*
 
@@ -323,12 +329,6 @@ The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **anu** means *or*. It combines two ɴᴏ�
 | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ anu | ona li mama anu seme? |
 |:-|:-|
 | ᴘᴀʀᴛɪᴄʟᴇ *or* | *Is she a parent?* |
-
-In yes-no-questions, **anu** can be omitted between a negative and a positive ᴍᴀɪɴ ᴠᴇʀʙ.
-
-| ona li mama ala mama? |
-|:-|
-| *Is she a parent?* |
 
 ### IF-THEN
 *([nimi lili insa](#conjunction) "la")*
@@ -498,7 +498,7 @@ One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as whole ꜱᴇɴᴛᴇɴ�
 | <img src="sitelen/pona/suwi.png" height="50" title="swit"> | [**ᴛʜɪɴɢ**](#thing) *jaki* — **suwi** <br>ɴᴏᴜɴ [**sweets**](sonja.md#lesson-16) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **fragrant**, **sweet**; **adorable**, **cute**; (⇐ *soweli*) **innocent** |
 | <img src="sitelen/pona/tan.png" height="50" title="dan"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) *lon* ⇐ *kepeken* — **tan**, *tawa* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **because of**, **by**, **from**, (*tan ~~pini~~*) *since* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *departing* <br>ɴᴏᴜɴ (⇒ *tawa*) |
 | <img src="sitelen/pona/taso.png" height="50" title="ta-s-ol"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) *sin* — **taso** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *free from*, *independent from*, *without*; (*taso ~~ni la~~*) **but**, **however** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *just*, **only** |
-| <img src="sitelen/pona/tawa.png" height="50" title="tawards"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) *lon* ⇐ *kepeken* — *tan*, **tawa** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **going to**, [**to**](sonja.md#lesson-8), [**moving to**](sonja.md#lesson-8), **toward**; (*tawa ~~kama~~*) *until*; **for**, [**in order to**](sonja.md#short-obligatory-prayer); **from the perspective of** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **moving**, (*tawa ~~wawa~~*) [**running**](sonja.md#lesson-17) <br>ɴᴏᴜɴ (*~~kama~~ tawa* ⇐ *tan*) [**departure**](sonja.md#lesson-10) |
+| <img src="sitelen/pona/tawa.png" height="50" title="tawards"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) *lon* ⇐ *kepeken* — *tan*, **tawa** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **going to**, [**to**](sonja.md#lesson-8), [**moving to**](sonja.md#lesson-8), **toward**, [**towards**](sonja.md#lesson-8); (*tawa ~~kama~~*) *until*; **for**, [**in order to**](sonja.md#short-obligatory-prayer); **from the perspective of** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **moving**, (*tawa ~~wawa~~*) [**running**](sonja.md#lesson-17) <br>ɴᴏᴜɴ (*~~kama~~ tawa* ⇐ *tan*) [**departure**](sonja.md#lesson-10) |
 | <img src="sitelen/pona/telo.png" height="50" title="de-l-o"> | [**ᴛʜɪɴɢ**](#thing) *kiwen*, *ko*, *kon*, **telo** <br>ɴᴏᴜɴ **fluid**, **liquid**, (*telo ~~suli~~*) [**lake**](sonja.md#lesson-9), **water**, **wet substance**; **beverage** <br>ᴠᴇʀʙ [**to water**](sonja.md#lesson-18), [**water**](sonja.md#lesson-11) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *wet* |
 | <img src="sitelen/pona/tenpo.png" height="50" title="tempo"> | [**ᴛʜɪɴɢ**](#thing) *nanpa*, **tenpo** <br>ɴᴏᴜɴ **duration**, **moment**, **occasion**, **period**, **situation**, **time** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *temporary* |
 | <img src="sitelen/pona/toki.png" height="50" title="tok"> | [**ᴠᴇʀʙ**](#verb) *nimi*, *sitelen*, **toki** <br>ᴠᴇʀʙ **to communicate**, [**explain**](sonja.md#famous-quotations), **say**, **speak**, **talk**, **use language**; **think** <br>ɴᴏᴜɴ [**communication**](sonja.md#toki-pona-proverbs), [**language**](sonja.md#lesson-5): (*lon toki*) [**in**](sonja.md#lesson-8), [**speech**](sonja.md#lesson-5) → <br>ɴᴏᴜɴ *message*, (*toki ~~pi ijo sin~~*) *news* |

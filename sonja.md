@@ -3,7 +3,7 @@
 | |
 |:-|
 | [Terminology](#terminology) |
-| [Backward Compatibility](#backward-compatibility) |
+| [Grammar Extensions](#grammar-extensions) |
 | [Corpus](#corpus) |
 | [Official Toki Pona Dictionary](#official-toki-pona-dictionary) |
 
@@ -64,7 +64,7 @@ The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ
 |:-|:-|:-|
 | [**tan seme la**](#lesson-14) | ꜰʀᴀɢᴍᴇɴᴛ | ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ |
 
-## Backward Compatibility
+## Grammar Extensions
 
 Every ɴᴏᴜɴ can be used as a [ᴛᴏᴏʟ ɴᴏᴜɴ](nasin-nimi.md#tool), i.e. it can be [converted](#lesson-18) into a ᴠᴇʀʙ implying *usage*.
 
@@ -77,6 +77,18 @@ Sonja introduces a ["more complex and precise counting system"](#lesson-12), whe
 | palisa luka tu |
 |:-|
 | *seven fingers* |
+
+In yes-no-questions, **anu** can be omitted between a negative and a positive ᴍᴀɪɴ ᴠᴇʀʙ.
+
+| ona li mama anu seme? → ona li mama ala ~~anu~~ mama? |
+|:-|
+| *Is she a parent?* |
+
+When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴍᴀɪɴ ᴠᴇʀʙ is omitted.
+
+| mi tawa sina. |
+|:-|
+| *I am moving towards you.* |
 
 ## Corpus
 
@@ -205,6 +217,10 @@ Sonja introduces a ["more complex and precise counting system"](#lesson-12), whe
 | lon |
 |:-|
 | *at*, *with*, *in*; *to be present* |
+
+| mi tawa sina. |
+|:-|
+| *I am moving towards you.* |
 
 ### Lesson 9
 *(Proper Names)*
