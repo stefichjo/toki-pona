@@ -583,10 +583,3 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 |:-|
 | *of a year* |
 
-When "pi nimi (pi kalama)" can be infered, **quotation marks** can be omitted.
-
-| ona li jo e nimi "Sonja". | ona li jan pi nimi "Sonja". ⇒ ona li jan Sonja |
-|:-|:-|
-| *She has the name "Sonja".* | *She is the person called "Sonja".* ⇒ *She is Sonja.* |
-
-
