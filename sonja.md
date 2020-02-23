@@ -427,6 +427,10 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 |:-|
 | *If you come to my home, I will serve food.* |
 
+| ilo pi laso pimeja li lon tomo walo. |
+|:-|
+| *The dark green tool is in the white shed.* |
+
 | suno li loje, la tenpo pona li lon. |
 |:-|
 | *When the sun is red, it is the right time.* |
