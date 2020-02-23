@@ -261,6 +261,10 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 ### Lesson 4
 *(You and I)*
 
+| wawa |
+|:-|
+| … *dependable* |
+
 | ni li kili mi. |
 |:-|
 | *This is my kiwi.* |
@@ -279,6 +283,10 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | jan sona |
 |:-|
 | *a person who knows*, *a knowledgeable person* |
+
+| lipu kulupu li wawa. |
+|:-|
+| *The community's book is reliable.* |
 
 | mi kute e sina. |
 |:-|
@@ -310,6 +318,10 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | suli |
 |:-|
 | … *to enlarge* |
+
+| telo li wawa e mi. |
+|:-|
+| *Water strengthens me.* |
 
 ### Lesson 7
 *(Questions and Answers)*
@@ -458,7 +470,7 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 |:-|
 | *area in front* … *chest* |
 
-| noka tomo li wawa |
+| noka tomo li wawa. |
 |:-|
 | *The foundation of the building is stable.* |
 
@@ -503,6 +515,10 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | ona li wile alasa li kama jo e ilo alasa e len loje. |
 |:-|
 | *He wants to go hunting and gets a bow and orange vest.* |
+
+| … ona li kute e mu wawa. |
+|:-|
+| *… he hears the loud call of an animal.* |
 
 | lawa soweli li jo e palisa. |
 |:-|
@@ -576,6 +592,10 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 
 ### The Qur'an
 
+| sewi li wawa ale. |
+|:-|
+| *God is Independent of all.* |
+
 | ona li mama ala, li jo ala e mama. |
 |:-|
 | *[God] doesn't give birth, wasn't born.* |
@@ -592,15 +612,19 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 |:-|
 | *We have unsealed the choice Wine with the fingers of might and power.* |
 
+| … li wawa e ni. |
+|:-|
+| *To this bears witness …* |
+
 | jan sona o kepeken sona a! |
 |:-|
 | *Meditate upon this, O people of insight!* | 
 
 ### Short Obligatory Prayer
 
-| tenpo ni la mi sona e ni: mi anpa. … |
+| tenpo ni la mi sona e ni: mi anpa. sina wawa. … |
 |:-|
-| *I testify, at this moment, to my powerlessness …* |
+| *I testify, at this moment, to my powerlessness and to Your might, …* |
 
 | … You, the Help in Peril, … |
 |:-|
