@@ -268,6 +268,10 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 ### Lesson 5
 *(Verbs)*
 
+| toki |
+|:-|
+| *something that you speak, i.e. a language*; <br>*the act of speaking, i.e. speech* |
+
 | moku |
 |:-|
 | *something that you eat, i.e. food*; <br> *the act of eating* |
