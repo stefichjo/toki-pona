@@ -43,7 +43,7 @@ Therefore, ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs can be simply called ᴠᴇʀ�
 | [**…**](#what-is-toki-pona) | ᴠᴇʀʙ | ᴘʀᴇᴅɪᴄᴀᴛᴇ |
 | [**mama**](#lesson-7) | ᴠᴇʀʙ | ᴍᴀɪɴ ᴠᴇʀʙ |
 
-As long as names are single words only (like [place names](#place-names)), they behave as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Therefore, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs are called ᴀᴅᴊᴇᴄᴛɪᴠᴇs in ***Pu***. When names are tokiponized as multiple words (like personal names) they are used without **pi** (like the ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ **nanpa**).
+As long as names are single words only (like [place names](#place-names)), they behave as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Therefore, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs are called ᴀᴅᴊᴇᴄᴛɪᴠᴇs in ***Pu***. But when names are tokiponized as multiple words (like [personal names](#lesson-9)) they are used without **pi** (like the ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ **nanpa**).
 
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
