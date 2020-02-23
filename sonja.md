@@ -535,6 +535,10 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 |:-|
 | *A noise.* |
 
+| jan Sili … li uta e jan Mawijo. |
+|:-|
+| *Sili … kisses Mawijo.* |
+
 | ona li seli e soweli … |
 |:-|
 | *She cooks the hares …* |;
