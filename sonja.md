@@ -86,7 +86,7 @@ In yes-no-questions, **anu** can be omitted between a negative and a positive �
 
 When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴍᴀɪɴ ᴠᴇʀʙ is omitted.
 
-| mi tawa sina. |
+| mi ~~tawa~~ tawa sina. |
 |:-|
 | *I am moving towards you.* |
 
@@ -177,6 +177,10 @@ When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and �
 ### Lesson 5
 *(Verbs)*
 
+| moku |
+|:-|
+| *something that you eat, i.e. food*; <br> *the act of eating* |
+
 | jan sona |
 |:-|
 | *a person who knows*, *a knowledgeable person* |
@@ -188,6 +192,10 @@ When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and �
 | kili li jo e telo. |
 |:-|
 | *The orange contains liquid.* |
+
+| jan pona li moku e soweli. |
+|:-|
+| *The friends ate meat.* |
 
 ### Lesson 6
 *(More Adjectives)*
@@ -277,6 +285,10 @@ When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and �
 | mute |
 |:-|
 | *3+*, *20* |
+
+| soweli |
+|:-|
+| *badger* |
 
 | luka |
 |:-|
@@ -394,7 +406,7 @@ When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and �
 
 | seli |
 |:-|
-| … *to cook* |
+| *to use fire on*, *to cook* |
 
 | jan Mawijo li jo e meli olin. |
 |:-|
@@ -407,6 +419,10 @@ When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and �
 | kalama a! |
 |:-|
 | *A noise.* |
+
+| ona li seli e soweli … |
+|:-|
+| *She cooks the hares …* |;
 
 ### Lesson 19
 *(The Frontier)*
