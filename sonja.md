@@ -509,6 +509,18 @@ A *comma* between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can b
 |:-|
 | *I give fish to her in the home.* |
 
+A *comma* between two ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
+
+| ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
+|:-|
+| *She cooks the hares and some rice.* |
+
+A *comma* between two ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
+
+| ma mama li lili, li lete. → ma mama li lili li lete. |
+|:-|
+| *The fatherland is small and cold.* |
+
 ## Official Toki Pona Dictionary
 
 ### Omissions
@@ -554,28 +566,6 @@ This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. 
 | (ᴜɴ-ᴘᴏɴᴀ) jan lon poka ⇒ (ᴘᴏɴᴀ) jan poka | (ᴜɴ-ᴘᴏɴᴀ) jan pi pona tawa lukin ⇒ (ᴘᴏɴᴀ) jan pi pona lukin |
 |:-|:-|
 | *neighbour* | *beautiful person* |
-
----
-
-Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates**. **Commas** between them can be safely removed.
-
-| (ꜱᴏɴᴊᴀ) ma mama li lili, li lete. ⇒ (ᴘᴏɴᴀ) ma mama li lili li lete. |
-|:-|
-| *The motherland is small and cold.* |
-
----
-
-| ona li mama. → mama. | ona li mama ala. ⇒ (ᴜɴ-ᴘᴜ) mama ala. ⇒ (ᴘᴜ) ala. |
-|:-|:-|
-| *She is a parent.* → *Yes.* | *She is not a parent.* → *No.* |
-
----
-
-Only ꜱᴇɴᴛᴇɴᴄᴇs can have **predicates** can have **direct objects**. Their **commas** can be safely omitted.
-
-| (ꜱᴏɴᴊᴀ) ona li seli e soweli, e pan. ⇒ (ᴘᴏɴᴀ) ona li seli e soweli e pan. |
-|:-|
-| *She cooks the meat and the rice.* |
 
 ---
 
