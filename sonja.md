@@ -223,6 +223,10 @@ When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and �
 |:-|
 | … *to improve* |
 
+| suli |
+|:-|
+| … *to enlarge* |
+
 ### Lesson 7
 *(Questions and Answers)*
 
