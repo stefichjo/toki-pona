@@ -189,6 +189,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 ### Lesson 5
 *(Verbs)*
 
+| jan sona |
+|:-|
+| *a person who knows*, *a knowledgeable person* |
+
 | mi kute e sina. |
 |:-|
 | *I will listen to you.* |
@@ -448,6 +452,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | sewi li open e telo suwi kepeken luka wawa. |
 |:-|
 | *We have unsealed the choice Wine with the fingers of might and power.* |
+
+| jan sona o kepeken sona a! |
+|:-|
+| *Meditate upon this, O people of insight!* | 
 
 ### Short Obligatory Prayer
 
