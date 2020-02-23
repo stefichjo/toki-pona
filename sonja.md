@@ -9,19 +9,60 @@
 
 ## Terminology
 
+In ***Pu***, ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs are sometimes called ɴᴏᴜɴ-ɢʀᴏᴜᴘs. ᴀᴜxɪʟɪᴀʀʏ ᴠᴇʀʙs are always called ᴘʀᴇ-ᴠᴇʀʙs.
+
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
-| [**…**](#what-is-toki-pona) | ᴠᴇʀʙ | ᴘʀᴇᴅɪᴄᴀᴛᴇ |
-| [**mi**](#lesson-4) | ɴᴏᴜɴ | ᴘʀᴏɴᴏᴜɴ |
-| [**pali**](#lesson-5) | ᴠᴇʀʙ | ᴠᴇʀʙ |
-| [**mute**](#lesson-6) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ/ᴀᴅᴠᴇʀʙ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ᴍᴏᴅɪꜰɪᴇʀ, ᴀᴅᴊᴇᴄᴛɪᴠᴇ/ᴀᴅᴠᴇʀʙ |
-| [**mama**](#lesson-7) | ᴠᴇʀʙ/ᴍᴀɪɴ ᴠᴇʀʙ | ᴍᴀɪɴ ᴠᴇʀʙ |
-| [**Epawan Linkan**](#lesson-9) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ |
 | [**mije**](#lesson-11) | ɴᴏᴜɴ-ɢʀᴏᴜᴘ | ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ |
-| [**kama**](#lesson-13) | ᴀᴜxɪʟɪᴀʀʏ | ᴀᴜxɪʟɪᴀʀʏ |
+| [**kama**](#lesson-13) | ᴘʀᴇ-ᴠᴇʀʙ | ᴀᴜxɪʟɪᴀʀʏ |
+
+Since ɴᴏᴜɴs and ᴘʀᴏɴᴏᴜɴs are indistinguishable in Toki Pona, they are both called ɴᴏᴜɴs in ***Pu***.
+
+| | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|
+| [**mi**](#lesson-4) | ɴᴏᴜɴ | ᴘʀᴏɴᴏᴜɴ |
+
+Since ᴀᴅᴊᴇᴄᴛɪᴠᴇs and ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs are indistinguishable in Toki Pona, they are both called ᴀᴅᴊᴇᴄᴛɪᴠᴇs.
+
+| | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|
+| [**awen**](#lesson-11) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | (ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙ) → ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+
+Since ᴀᴅᴊᴇᴄᴛɪᴠᴇs and ᴀᴅᴠᴇʀʙs are indistinguishable in Toki Pona, they are both called ᴀᴅᴊᴇᴄᴛɪᴠᴇs in ***Pu***.
+
+| | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|
+| [**mute**](#lesson-6) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ᴍᴏᴅɪꜰɪᴇʀ: ᴀᴅᴊᴇᴄᴛɪᴠᴇ, ᴀᴅᴠᴇʀʙ |
+
+Therefore, ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs can be simply called ᴠᴇʀʙs. On other occasions, though, "ᴠᴇʀʙ" also means either ᴍᴀɪɴ ᴠᴇʀʙ or ᴘʀᴇᴅɪᴄᴀᴛᴇ in ***Pu***.
+
+| | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|
+| [**pali**](#lesson-5) | ᴠᴇʀʙ | ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙ → ᴠᴇʀʙ |
+| | | |
+| [**…**](#what-is-toki-pona) | ᴠᴇʀʙ | ᴘʀᴇᴅɪᴄᴀᴛᴇ |
+| [**mama**](#lesson-7) | ᴠᴇʀʙ | ᴍᴀɪɴ ᴠᴇʀʙ |
+
+As long as names are single words only (like [place names](#place-names), they behave as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Therefore, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs are called ᴀᴅᴊᴇᴄᴛɪᴠᴇs in ***Pu***. Personal names, though, are tokiponized as multiple words without **pi** (like the ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ **nanpa**).
+
+| | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|
+| [**Papuwanijukini**](#place-names) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ |
+| | | |
+| [**Epawan Linkan**](#lesson-9) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ |
+| [**nanpa (wan)**](#lesson-12) | ᴘᴀʀᴛɪᴄʟᴇ | ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ |
+
+In ***Pu***, a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ after **ni:** is called a (subsequent) ꜱᴇɴᴛᴇɴᴄᴇ.
+
+| | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|
 | [**ni: jan Melani li kama tawa tomo mi**](#lesson-17) | ꜱᴇɴᴛᴇɴᴄᴇ | ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ |
 
-Since ᴀᴅᴊᴇᴄᴛɪᴠᴇs and ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs are indistinguishable in Toki Pona, they are both called ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Therefore, ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs can be simply called ᴠᴇʀʙs.
+The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs before **la**) is also called ꜰʀᴀɢᴍᴇɴᴛ in ***Pu***.
+
+| | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|
+| [**tan seme la**](#lesson-14) | ꜰʀᴀɢᴍᴇɴᴛ | ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ |
 
 ## Backward Compatibility
 
