@@ -431,6 +431,10 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 |:-|
 | *During bad times, a person needs to talk to friends.* |
 
+| mi pilin ike tan utala suli. |
+|:-|
+| *I feel bad because of the large battle.* |
+
 ### Lesson 15
 *(Spatial Nouns)*
 
