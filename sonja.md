@@ -93,12 +93,6 @@ Every ɴᴏᴜɴ can be used as a [ᴛᴏᴏʟ ɴᴏᴜɴ](nasin-nimi.md#tool), 
 |:-|
 | *seven fingers* |
 
-In yes-no-questions, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **anu** is omitted between a negative and a positive ᴍᴀɪɴ ᴠᴇʀʙ.
-
-| ona li mama anu seme? → ona li mama ala ~~anu~~ mama? |
-|:-|
-| *Is she a parent?* |
-
 In ꜱᴇɴᴛᴇɴᴄᴇs, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used only between ꜱᴜʙᴊᴇᴄᴛs.
 
 | taso mije en meli li pali li pilin pona. |
@@ -110,12 +104,6 @@ In ꜱᴇɴᴛᴇɴᴄᴇs, a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱ�
 | mi pana e kala tawa ona. |
 |:-|
 | *I give fish to her.* |
-
-When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴍᴀɪɴ ᴠᴇʀʙ is omitted.
-
-| mi ~~tawa~~ tawa sina. | o ~~kepeken~~ kepeken ala ilo ike. |
-|:-|:-|
-| *I am moving towards you.* | *Don't use bad tools.* |
 
 ## Punctuation
 

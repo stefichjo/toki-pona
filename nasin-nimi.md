@@ -203,6 +203,12 @@ When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜ�
 |:-|
 | *Don't use bad tools.* |
 
+When a **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** is used both as ᴍᴀɪɴ ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴍᴀɪɴ ᴠᴇʀʙ is omitted.
+
+| mi ~~tawa~~ tawa sina. |
+|:-|
+| *I am moving towards you.* |
+
 # PARTICLE
 *([nimi](#toki-pona-word-classes-and-parts-of-speech) lili)*
 
@@ -326,9 +332,15 @@ The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **en** means *and*. It combines two ɴᴏ�
 
 The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **anu** means *or*. It combines two ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs into one.
 
-| ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ anu | ona li mama anu seme? |
+| ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ anu | pona anu ike |
 |:-|:-|
-| ᴘᴀʀᴛɪᴄʟᴇ *or* | *Is she a parent?* |
+| ᴘᴀʀᴛɪᴄʟᴇ *or* | *friendly or hostile* |
+
+In yes-no-questions, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **anu** is omitted between a negative and a positive ᴍᴀɪɴ ᴠᴇʀʙ.
+
+| ona li mama anu seme? → ona li mama ala ~~anu~~ mama? |
+|:-|
+| *Is she a parent?* |
 
 ### IF-THEN
 *([nimi lili insa](#conjunction) "la")*
