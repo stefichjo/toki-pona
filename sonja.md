@@ -9,7 +9,7 @@
 
 ## Terminology
 
-In ***Pu***, ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs are sometimes called ɴᴏᴜɴ-ɢʀᴏᴜᴘs. ᴀᴜxɪʟɪᴀʀʏ ᴠᴇʀʙs are always called ᴘʀᴇ-ᴠᴇʀʙs.
+In ***Pu***, ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs are sometimes called ɴᴏᴜɴ-ɢʀᴏᴜᴘs. ᴀᴜxɪʟɪᴀʀʏ ᴠᴇʀʙs are always called ᴘʀᴇ-ᴠᴇʀʙs in ***Pu***.
 
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
@@ -22,7 +22,7 @@ Since ɴᴏᴜɴs and ᴘʀᴏɴᴏᴜɴs are indistinguishable in Toki Pona, th
 |:-|:-|:-|
 | [**mi**](#lesson-4) | ɴᴏᴜɴ | ᴘʀᴏɴᴏᴜɴ |
 
-Since ᴀᴅᴊᴇᴄᴛɪᴠᴇs and ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs are indistinguishable in Toki Pona, they are both called ᴀᴅᴊᴇᴄᴛɪᴠᴇs.
+Since ᴀᴅᴊᴇᴄᴛɪᴠᴇs and ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs are indistinguishable in Toki Pona, they are both called ᴀᴅᴊᴇᴄᴛɪᴠᴇs in ***Pu***.
 
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
@@ -43,7 +43,7 @@ Therefore, ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs can be simply called ᴠᴇʀ�
 | [**…**](#what-is-toki-pona) | ᴠᴇʀʙ | ᴘʀᴇᴅɪᴄᴀᴛᴇ |
 | [**mama**](#lesson-7) | ᴠᴇʀʙ | ᴍᴀɪɴ ᴠᴇʀʙ |
 
-As long as names are single words only (like [place names](#place-names), they behave as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Therefore, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs are called ᴀᴅᴊᴇᴄᴛɪᴠᴇs in ***Pu***. Personal names, though, are tokiponized as multiple words without **pi** (like the ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ **nanpa**).
+As long as names are single words only (like [place names](#place-names)), they behave as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Therefore, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs are called ᴀᴅᴊᴇᴄᴛɪᴠᴇs in ***Pu***. When names are tokiponized as multiple words (like personal names) they are used without **pi** (like the ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ **nanpa**).
 
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
