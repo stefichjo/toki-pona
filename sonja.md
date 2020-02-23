@@ -86,14 +86,6 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *seven fingers* |
 
-### Synonyms
-
-[ꜱᴏɴᴊᴀ](#official-toki-pona-dictionary) lists **ali**, **kin**, **namako** and **oko** as synonyms of **ale**, **a**, **sin** and **lukin**.
-
-| ali = ale | kin = a | namako = sin | oko = lukin |
-|:-|:-|:-|:-|
-| *everything* | *(emotion)* | *additional* | *eye* |
-
 ## Corpus
 
 ### Preface
