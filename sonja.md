@@ -110,7 +110,19 @@ When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and �
 
 ## Punctuation
 
+| |
+|:-|
+| [Colon](#colon) |
+| [Comma](#comma) |
+| [Quotation Marks](#quotation-marks) |
+
 ### Colon
+
+A *colon* stands between a ɴᴏᴜɴ and a ꜱᴇɴᴛᴇɴᴄᴇ that the ɴᴏᴜɴ represents, forming a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
+
+| mi wile e ni: jan Melani li kama tawa tomo mi. |
+|:-|
+| *I want Mélanie to visit me.* |
 
 ### Comma
 
@@ -132,17 +144,31 @@ A *comma* between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can b
 |:-|
 | *I give fish to her in the home.* |
 
+A *comma* between a ꜱᴇɴᴛᴇɴᴄᴇ followed by the ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ **a!** can be safely removed.
+
+| sina suli, a! → sina suli a! |
+|:-|
+| *You're so tall!* |
+
 A *comma* between two ꜱᴇɴᴛᴇɴᴄᴇs can't be safely removed.
 
 | jan Mawijo li kepeken ilo alasa, taso linja li pakala. |
 |:-|
 | *Mawijo uses the bow, but the string breaks.* |
 
-A *comma* between a ꜱᴇɴᴛᴇɴᴄᴇ followed by the ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ **a!** can be safely removed.
+A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** can't be safely removed.
 
-| sina suli, a! → sina suli a! |
+| mi pona tawa jan, la jan li pona tawa mi. |
 |:-|
-| *You're so tall!* |
+| *If I am good to people, people are good to me.* |
+
+### Quotation Marks
+
+*Quotation marks* can be safely removed if the sense stays the same.
+
+| tan seme la sina pana e nimi "pona" tawa mi? → tan seme la sina pana e nimi pona tawa mi? |
+|:-|
+| *Why do you call me good?* |
 
 ## Official Toki Pona Dictionary
 
@@ -562,11 +588,5 @@ When "pi nimi (pi kalama)" can be infered, **quotation marks** can be omitted.
 | ona li jo e nimi "Sonja". | ona li jan pi nimi "Sonja". ⇒ ona li jan Sonja |
 |:-|:-|
 | *She has the name "Sonja".* | *She is the person called "Sonja".* ⇒ *She is Sonja.* |
-
-[ꜱᴏɴᴊᴀ](sonja.md#the-gospel) removes the **quotations marks**, when the sense remains the same.
-
-| (ᴘᴜ) tan seme la sina pana e nimi "pona" tawa mi? ⇒ (ꜱᴏɴᴊᴀ) tan seme la sina pana e nimi pona tawa mi? |
-|:-|
-| *Why do you call me good?* |
 
 
