@@ -78,7 +78,7 @@ Sonja introduces a ["more complex and precise counting system"](#lesson-12), whe
 |:-|
 | *seven fingers* |
 
-In yes-no-questions, **anu** can be omitted between a negative and a positive ᴍᴀɪɴ ᴠᴇʀʙ.
+In yes-no-questions, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **anu** is omitted between a negative and a positive ᴍᴀɪɴ ᴠᴇʀʙ.
 
 | ona li mama anu seme? → ona li mama ala ~~anu~~ mama? |
 |:-|
@@ -374,7 +374,7 @@ When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and �
 ### Lesson 16
 *(Particles and Perspective)*
 
-| **sina en mi li anpa tawa sewi.** |
+| sina en mi li anpa tawa sewi. |
 |:-|
 | *You and I are lowly from the perspective of God.* |
 
@@ -477,11 +477,13 @@ When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and �
 
 ## Official Toki Pona Dictionary
 
-ꜱᴏɴᴊᴀ uses **moli** for both *dead* and *dying*, i.e. omitting **kama**.
+ꜱᴏɴᴊᴀ omits **kama** when there is enough context. For example, she uses **moli** for both *dead* and *dying*.
 
-| ona li kama moli. → ona li moli. |
+| ~~kama~~ ante li kama. |
 |:-|
-| *He died.* |
+| *Change comes.* |
+
+---
 
 ꜱᴏɴᴊᴀ introduces **open** as a ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙ, rather than an ᴀᴅᴊᴇᴄᴛɪᴠᴇ that can be turned into a ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙ, or rather than a ᴀᴜxɪʟɪᴀʀʏ.
 
