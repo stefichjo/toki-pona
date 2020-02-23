@@ -503,11 +503,11 @@ When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and �
 
 ### Comma
 
-A *comma* between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can be safely removed.
+A *comma* between two ɪɴᴅɪᴄᴀᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
 
-| mi pana e kala tawa ona, lon tomo. → mi pana e kala tawa ona lon tomo. |
+| ma mama li lili, li lete. → ma mama li lili li lete. |
 |:-|
-| *I give fish to her in the home.* |
+| *The fatherland is small and cold.* |
 
 A *comma* between two ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
 
@@ -515,11 +515,23 @@ A *comma* between two ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be saf
 |:-|
 | *She cooks the hares and some rice.* |
 
-A *comma* between two ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
+A *comma* between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can be safely removed.
 
-| ma mama li lili, li lete. → ma mama li lili li lete. |
+| mi pana e kala tawa ona, lon tomo. → mi pana e kala tawa ona lon tomo. |
 |:-|
-| *The fatherland is small and cold.* |
+| *I give fish to her in the home.* |
+
+A *comma* between two ꜱᴇɴᴛᴇɴᴄᴇs can't be safely removed.
+
+| jan Mawijo li kepeken ilo alasa, taso linja li pakala. |
+|:-|
+| *Mawijo uses the bow, but the string breaks.* |
+
+A *comma* between a ꜱᴇɴᴛᴇɴᴄᴇ followed by the ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ **a!** can be safely removed.
+
+| sina suli, a! → sina suli a! |
+|:-|
+| *You're so tall!* |
 
 ## Official Toki Pona Dictionary
 
@@ -580,20 +592,4 @@ This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. 
 | (ᴘᴜ) tan seme la sina pana e nimi "pona" tawa mi? ⇒ (ꜱᴏɴᴊᴀ) tan seme la sina pana e nimi pona tawa mi? |
 |:-|
 | *Why do you call me good?* |
-
----
-
-[ꜱᴏɴᴊᴀ](sonja.md#lesson-12) removes the [ᴘᴀʀᴛɪᴄʟᴇ "pi"](#genitive) before "nanpa" with a [ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#number). In this case, "nanpa" itself becomes part of a ꜱɪᴍᴘʟᴇ-ᴘᴀʀᴛɪᴄʟᴇ-ᴘʜʀᴀꜱᴇ.
-
-| toki pi nanpa wan → toki nanpa wan |
-|:-|
-| *the language with the number one*, *the language of the first turn* → *the language number one* |
-
----
-
-As the opposite of "ala", the affermative ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" can be safely removed. The comma between a subsequent sentence consisting only of the ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ "a" can therefore be safely removed.
-
-| (ᴜɴ-ᴘᴏɴᴀ) ni li lon a. ⇒ (ᴘᴏɴᴀ) ni li lon. | (ᴜɴ-ᴘᴏɴᴀ) sina suli, a! ⇒ (ᴘᴏɴᴀ) sina suli a! |
-|:-|:-|
-| *This does exist.* → *This is true.* | *You're tall, wow!* |
 
