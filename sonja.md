@@ -592,10 +592,19 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 
 | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|
+| *jan* [*Epawam*](#lesson-9) Linkan li tan ma Mewika.* | *jan Epawan Linkan li tan ma Mewika.* |
+| | |
+| *kulupu pi toki pona li* [*pona*](#lesson-11) *e ijo mute.* | *kulupu pi toki pona li pana e ijo mute.* |
+| | |
+| *mi lukin e meli pimeja lon* [*sinpin  tomo*](#lesson-15) *.* | *mi lukin e meli pimeja lon sinpin tomo.* |
+| | |
 | **open** <br>[ᴠᴇʀʙ **open**](#lesson-16) | **open** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **open** <br>ᴠᴇʀʙ **to open** |
+| | |
+| **alasa** <br>ᴠᴇʀʙ [**hunt**](#lesson-17), **forage** | **alasa** <br>ᴠᴇʀʙ **to hunt**, **forage** |
+| | |
+| **kalama** <br>[ᴠᴇʀʙ **to produce a sound**](#official-toki-pona-dictionary); **recite**, **utter aloud** | **kalama** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound** <br>ᴠᴇʀʙ **to recite**, **utter** **aloud** |
+| **lon** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **located at**, **present at**, [**real**, **true**, **existing**](#official-toki-pona-dictionary) | **lon** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **located at**, **present at** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **real**, **true**, **existing** |
 | **lukin** <br>ᴘʀᴇ-ᴠᴇʀʙ [**to seek, look for, try to**](#official-toki-pona-dictionary) | **lukin** <br>ᴘʀᴇ-ᴠᴇʀʙ **to seek to, try to** |
 | **seli** <br>[ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#official-toki-pona-dictionary) **fire** | **seli** <br>ɴᴏᴜɴ **fire** |
-| **lon** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **located at**, **present at**, [**real**, **true**, **existing**](#official-toki-pona-dictionary) | **lon** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **located at**, **present at** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **real**, **true**, **existing** |
-| **kalama** <br>[ᴠᴇʀʙ **to produce a sound**](#official-toki-pona-dictionary); **recite**, **utter aloud** | **kalama** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound** <br>ᴠᴇʀʙ **to recite**, **utter** **aloud** |
 
 
