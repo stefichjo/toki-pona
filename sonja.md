@@ -7,6 +7,7 @@
 | [Punctuation](#punctuation) |
 | [Official Toki Pona Dictionary](#official-toki-pona-dictionary) |
 | [Corpus](#corpus) |
+| [Errata](#errata) |
 
 ## Terminology
 
@@ -172,21 +173,13 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 
 ## Official Toki Pona Dictionary
 
-### Omissions
-
-ꜱᴏɴᴊᴀ omits **kama** when there is enough context. (For example, she uses **moli** for both *dead* and *dying*.)
-
-| ~~kama~~ ante li kama. |
-|:-|
-| *Change comes.* |
-
 ## Corpus
 
 ### Preface
 
 | mi open lon nimi sewi. |
 |:-|
-| I start with the Divine. |
+| I begin with the name of the Divine. |
 
 | toki pona li tan seme? tenpo pini la mi wile sona e kon ale kepeken nimi lili. |
 |:-|
@@ -569,17 +562,8 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 |:-|
 | *sina awen e ale.* |
 
----
+## Errata
 
-ꜱᴏɴᴊᴀ introduces **open** as a ᴠᴇʀʙ, rather than an ᴀᴅᴊᴇᴄᴛɪᴠᴇ that can be turned into a ᴠᴇʀʙ, or rather than an ᴀᴜxɪʟɪᴀʀʏ.
-
-| mi open e ni lon nimi sewi. / mi open toki lon nimi sewi. → mi open lon nimi sewi. |
+| ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|
-| *I begin with the name of the Divine.* |
-
-ꜱᴏɴᴊᴀ abbreviates **sike suno** (*year*) to **sike** (or **suno**).
-
-| pi sike suno → sike |
-|:-|
-| *of a year* |
-
+| ᴠᴇʀʙ [**open**](#lesson-16) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **open** <br>ᴠᴇʀʙ **to open** |
