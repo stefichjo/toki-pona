@@ -596,7 +596,7 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | | |
 | *kulupu pi toki pona li* [*pona*](#lesson-11) *e ijo mute.* | *kulupu pi toki pona li pana e ijo mute.* |
 | | |
-| *mi lukin e meli pimeja lon* [*sinpin  tomo*](#lesson-15)*.* | *mi lukin e meli pimeja lon sinpin tomo.* |
+| *mi lukin e meli pimeja lon* [*sinpin&nbsp; tomo*](#lesson-15)*.* | *mi lukin e meli pimeja lon sinpin tomo.* |
 | | |
 | **open** <br>[ᴠᴇʀʙ **open**](#lesson-16) | **open** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **open** <br>ᴠᴇʀʙ **to open** |
 | | |
