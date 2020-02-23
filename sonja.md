@@ -68,15 +68,15 @@ The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ
 
 | |
 |:-|
-| [Noun to Verb](#noun-to-verb) |
+| [ᴛᴏᴏʟ ɴᴏᴜɴ](#tool-nouns)s |
 
-### Noun to Verb
+### [TOOL NOUN](nasin-nimi.md#tool)s
 
-The ***direct object*** of **pana** / the ***object*** of **kepeken** can become a [ᴠᴇʀʙ](nasin-nimi.md#verb).
+Every NOUN can be used as a [TOOL NOUN](nasin-nimi.md#tool), i.e. [converted](#lesson-18) into a [**ᴠᴇʀʙ**](#verb) implying *usage*.
 
-| ona li pana e telo tawa kasi. / ona li kepeken telo lon kasi. → ona li telo e kasi. |
+| ᴛʜɪɴɢ → ᴛᴏᴏʟ telo |
 |:-|
-| *She gives water to the plant.* / *She uses water on the plant.* → *She waters the plant.* / *She washes the plant.* |
+| ɴᴏᴜɴ *water* → <br>ᴠᴇʀʙ *to use water on*, *to wash* |
 
 ### Yes/No Questions
 
