@@ -385,21 +385,13 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 ### Lesson 12
 *(Numbers)*
 
-| ala |
-|:-|
-| *0* |
-
-| mute |
-|:-|
-| *3+*, *20* |
+| ala | wan | tu | mute | luka |
+|:-|:-|:-|:-|:-|
+| *0* | *1* | *2* | *3+*, *20* | *5* |
 
 | soweli |
 |:-|
 | *badger* |
-
-| luka |
-|:-|
-| *5* |
 
 | ale |
 |:-|
