@@ -354,7 +354,7 @@ Before **la**, the [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) **ni:** in fron
 ## SOUND
 *([nimi lili](#particle) poka)*
 
-**ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s are tokiponizations of names or interjections. They can be both **ᴘᴀʀᴛɪᴄʟᴇ**s and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s when used without **kalama**.
+**ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s are tokiponizations of **ɴᴀᴍᴇ**s and **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s. They can be both **ᴘᴀʀᴛɪᴄʟᴇ**s and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s when used without **kalama**.
 
 | nimi ona li kalama "Sonja". → nimi ona li Sonja. | ona li kute e kalama "mu" wawa. → ona li kute e mu wawa. |
 |:-|:-|
