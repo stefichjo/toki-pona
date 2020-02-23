@@ -4,9 +4,9 @@
 |:-|
 | [Terminology](#terminology) |
 | [Grammar](#grammar) |
-| [Corpus](#corpus) |
 | [Punctuation](#punctuation) |
 | [Official Toki Pona Dictionary](#official-toki-pona-dictionary) |
+| [Corpus](#corpus) |
 
 ## Terminology
 
@@ -107,6 +107,102 @@ When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and �
 | mi ~~tawa~~ tawa sina. | o ~~kepeken~~ kepeken ala ilo ike. |
 |:-|:-|
 | *I am moving towards you.* | *Don't use bad tools.* |
+
+## Punctuation
+
+### Colon
+
+### Comma
+
+A *comma* between two ɪɴᴅɪᴄᴀᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
+
+| ma mama li lili, li lete. → ma mama li lili li lete. |
+|:-|
+| *The fatherland is small and cold.* |
+
+A *comma* between two ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
+
+| ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
+|:-|
+| *She cooks the hares and some rice.* |
+
+A *comma* between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can be safely removed.
+
+| mi pana e kala tawa ona, lon tomo. → mi pana e kala tawa ona lon tomo. |
+|:-|
+| *I give fish to her in the home.* |
+
+A *comma* between two ꜱᴇɴᴛᴇɴᴄᴇs can't be safely removed.
+
+| jan Mawijo li kepeken ilo alasa, taso linja li pakala. |
+|:-|
+| *Mawijo uses the bow, but the string breaks.* |
+
+A *comma* between a ꜱᴇɴᴛᴇɴᴄᴇ followed by the ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ **a!** can be safely removed.
+
+| sina suli, a! → sina suli a! |
+|:-|
+| *You're so tall!* |
+
+## Official Toki Pona Dictionary
+
+### Omissions
+
+ꜱᴏɴᴊᴀ omits **kama** when there is enough context. (For example, she uses **moli** for both *dead* and *dying*.)
+
+| ~~kama~~ ante li kama. |
+|:-|
+| *Change comes.* |
+
+---
+
+ꜱᴏɴᴊᴀ introduces **open** as a ᴠᴇʀʙ, rather than an ᴀᴅᴊᴇᴄᴛɪᴠᴇ that can be turned into a ᴠᴇʀʙ, or rather than an ᴀᴜxɪʟɪᴀʀʏ.
+
+| mi open e ni lon nimi sewi. / mi open toki lon nimi sewi. → mi open lon nimi sewi. |
+|:-|
+| *I begin with the name of the Divine.* |
+
+ꜱᴏɴᴊᴀ abbreviates **sike suno** (*year*) to **sike** (or **suno**).
+
+| pi sike suno → sike |
+|:-|
+| *of a year* |
+
+---
+
+This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. ᴘᴜ rules enforce the omission of words:
+
+| (ᴜɴ-ᴘᴜ) toki pi pona ⇒  (ᴘᴜ) toki pona |
+|:-|
+| *Language of Good* |
+
+ᴘᴏɴᴀ rules purposely limit Toki Pona's expressiveness for the sake of a simpler style. Both ᴘᴜ rules and ᴘᴏɴᴀ rules actually complicate Toki Pona's grammar, yet they are considered ᴍᴀɴᴅᴀᴛᴏʀʏ, and sticking to them is therefore encouraged.
+
+| (ᴜɴ-ᴘᴏɴᴀ) mi wile e ona o musi. ⇒ (ᴘᴏɴᴀ) mi wile e ni: ona li musi. |
+|:-|
+| *I want her to play.* |
+
+---
+
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are used only at the end of **predicates**.
+
+| (ᴜɴ-ᴘᴏɴᴀ) jan lon poka ⇒ (ᴘᴏɴᴀ) jan poka | (ᴜɴ-ᴘᴏɴᴀ) jan pi pona tawa lukin ⇒ (ᴘᴏɴᴀ) jan pi pona lukin |
+|:-|:-|
+| *neighbour* | *beautiful person* |
+
+---
+
+ When "pi nimi (pi kalama)" can be infered, **quotation marks** can be omitted.
+
+| ona li jo e nimi "Sonja". | ona li jan pi nimi "Sonja". ⇒ ona li jan Sonja |
+|:-|:-|
+| *She has the name "Sonja".* | *She is the person called "Sonja".* ⇒ *She is Sonja.* |
+
+[ꜱᴏɴᴊᴀ](sonja.md#the-gospel) removes the **quotations marks**, when the sense remains the same.
+
+| (ᴘᴜ) tan seme la sina pana e nimi "pona" tawa mi? ⇒ (ꜱᴏɴᴊᴀ) tan seme la sina pana e nimi pona tawa mi? |
+|:-|
+| *Why do you call me good?* |
 
 ## Corpus
 
@@ -497,99 +593,4 @@ When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴍᴀɪɴ ᴠᴇʀʙ and �
 |:-|
 | *sina awen e ale.* |
 
-## Punctuation
-
-### Colon
-
-### Comma
-
-A *comma* between two ɪɴᴅɪᴄᴀᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
-
-| ma mama li lili, li lete. → ma mama li lili li lete. |
-|:-|
-| *The fatherland is small and cold.* |
-
-A *comma* between two ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
-
-| ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
-|:-|
-| *She cooks the hares and some rice.* |
-
-A *comma* between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can be safely removed.
-
-| mi pana e kala tawa ona, lon tomo. → mi pana e kala tawa ona lon tomo. |
-|:-|
-| *I give fish to her in the home.* |
-
-A *comma* between two ꜱᴇɴᴛᴇɴᴄᴇs can't be safely removed.
-
-| jan Mawijo li kepeken ilo alasa, taso linja li pakala. |
-|:-|
-| *Mawijo uses the bow, but the string breaks.* |
-
-A *comma* between a ꜱᴇɴᴛᴇɴᴄᴇ followed by the ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ **a!** can be safely removed.
-
-| sina suli, a! → sina suli a! |
-|:-|
-| *You're so tall!* |
-
-## Official Toki Pona Dictionary
-
-### Omissions
-
-ꜱᴏɴᴊᴀ omits **kama** when there is enough context. (For example, she uses **moli** for both *dead* and *dying*.)
-
-| ~~kama~~ ante li kama. |
-|:-|
-| *Change comes.* |
-
----
-
-ꜱᴏɴᴊᴀ introduces **open** as a ᴠᴇʀʙ, rather than an ᴀᴅᴊᴇᴄᴛɪᴠᴇ that can be turned into a ᴠᴇʀʙ, or rather than an ᴀᴜxɪʟɪᴀʀʏ.
-
-| mi open e ni lon nimi sewi. / mi open toki lon nimi sewi. → mi open lon nimi sewi. |
-|:-|
-| *I begin with the name of the Divine.* |
-
-ꜱᴏɴᴊᴀ abbreviates **sike suno** (*year*) to **sike** (or **suno**).
-
-| pi sike suno → sike |
-|:-|
-| *of a year* |
-
----
-
-This document describes two kinds of rules: ᴘᴜ rules and ᴘᴏɴᴀ rules. ᴘᴜ rules enforce the omission of words:
-
-| (ᴜɴ-ᴘᴜ) toki pi pona ⇒  (ᴘᴜ) toki pona |
-|:-|
-| *Language of Good* |
-
-ᴘᴏɴᴀ rules purposely limit Toki Pona's expressiveness for the sake of a simpler style. Both ᴘᴜ rules and ᴘᴏɴᴀ rules actually complicate Toki Pona's grammar, yet they are considered ᴍᴀɴᴅᴀᴛᴏʀʏ, and sticking to them is therefore encouraged.
-
-| (ᴜɴ-ᴘᴏɴᴀ) mi wile e ona o musi. ⇒ (ᴘᴏɴᴀ) mi wile e ni: ona li musi. |
-|:-|
-| *I want her to play.* |
-
----
-
-ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are used only at the end of **predicates**.
-
-| (ᴜɴ-ᴘᴏɴᴀ) jan lon poka ⇒ (ᴘᴏɴᴀ) jan poka | (ᴜɴ-ᴘᴏɴᴀ) jan pi pona tawa lukin ⇒ (ᴘᴏɴᴀ) jan pi pona lukin |
-|:-|:-|
-| *neighbour* | *beautiful person* |
-
----
-
- When "pi nimi (pi kalama)" can be infered, **quotation marks** can be omitted.
-
-| ona li jo e nimi "Sonja". | ona li jan pi nimi "Sonja". ⇒ ona li jan Sonja |
-|:-|:-|
-| *She has the name "Sonja".* | *She is the person called "Sonja".* ⇒ *She is Sonja.* |
-
-[ꜱᴏɴᴊᴀ](sonja.md#the-gospel) removes the **quotations marks**, when the sense remains the same.
-
-| (ᴘᴜ) tan seme la sina pana e nimi "pona" tawa mi? ⇒ (ꜱᴏɴᴊᴀ) tan seme la sina pana e nimi pona tawa mi? |
-|:-|
-| *Why do you call me good?* |
 
