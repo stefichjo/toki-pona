@@ -43,7 +43,7 @@ Therefore, ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs can be simply called ᴠᴇʀ�
 | [**…**](#what-is-toki-pona) | ᴠᴇʀʙ | ᴘʀᴇᴅɪᴄᴀᴛᴇ |
 | [**mama**](#lesson-7) | ᴠᴇʀʙ | ᴍᴀɪɴ ᴠᴇʀʙ |
 
-As long as names are single words only (like [place names](#place-names)), they behave as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Therefore, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs are called ᴀᴅᴊᴇᴄᴛɪᴠᴇs in ***Pu***. But when names are tokiponized as multiple words (like [personal names](#lesson-9)) they are used without **pi** (like the ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ **nanpa**).
+As long as names are single words only (like [place names](#place-names)), they behave as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Therefore, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs are called ᴀᴅᴊᴇᴄᴛɪᴠᴇs in ***Pu***. But when names are tokiponized as multiple words (like [proper names](#lesson-9)) they are used without **pi** (like the ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ **nanpa**).
 
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
@@ -65,14 +65,6 @@ The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ
 | [**tan seme la**](#lesson-14) | ꜰʀᴀɢᴍᴇɴᴛ | ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ |
 
 ## Backward Compatibility
-
-### Noun to Verb
-
-The ***direct object*** of **pana** / the ***object*** of **kepeken** can become a [ᴠᴇʀʙ](nasin-nimi.md#verb).
-
-| ona li pana e telo tawa kasi. / ona li kepeken telo lon kasi. → ona li telo e kasi. |
-|:-|
-| *She gives water to the plant.* / *She uses water on the plant.* → *She waters the plant.* / *She washes the plant.* |
 
 ### Yes/No Questions
 
