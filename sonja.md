@@ -467,6 +467,10 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 ### Lesson 16
 *(Particles and Perspective)*
 
+| suwi li pona tawa mi. |
+|:-|
+| *I like sweets.* |
+
 | sina en mi li anpa tawa sewi. |
 |:-|
 | *You and I are lowly from the perspective of God.* |
