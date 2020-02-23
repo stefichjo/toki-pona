@@ -66,6 +66,10 @@ The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ
 
 ## Backward Compatibility
 
+| |
+|:-|
+| [Noun to Verb](#noun-to-verb) |
+
 ### Noun to Verb
 
 The ***direct object*** of **pana** / the ***object*** of **kepeken** can become a [ᴠᴇʀʙ](nasin-nimi.md#verb).
