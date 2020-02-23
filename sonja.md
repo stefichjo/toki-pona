@@ -72,19 +72,11 @@ The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ
 
 ### [TOOL NOUN](nasin-nimi.md#tool)s
 
-Every NOUN can be used as a [ᴛᴏᴏʟ ɴᴏᴜɴ](nasin-nimi.md#tool), i.e. it can be [converted](#lesson-18) into a ᴠᴇʀʙ implying *usage*.
+Every ɴᴏᴜɴ can be used as a [ᴛᴏᴏʟ ɴᴏᴜɴ](nasin-nimi.md#tool), i.e. it can be [converted](#lesson-18) into a ᴠᴇʀʙ implying *usage*.
 
 | ᴛʜɪɴɢ → ᴛᴏᴏʟ telo |
 |:-|
 | ɴᴏᴜɴ *water* → <br>ᴠᴇʀʙ *to use water on*, *to wash* |
-
-### Yes/No Questions
-
-Instead of **anu seme**, yes/no questions can have the ***predicate*** twice, with and without **ala**. The ᴘᴀʀᴛɪᴄʟᴇ "anu" is omitted.
-
-| ona li mama ala anu mama? → ona li mama ala mama? |
-|:-|
-| *Is she a parent?* |
 
 ### Counting
 
