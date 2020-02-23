@@ -9,19 +9,25 @@
 
 ## Grammar Extensions
 
-### Contexts
+### CONTEXT
 
-ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs and the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used in contexts, i.e. outside of ordinary sentence structures.
+Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used freely.
 
-| weka lon toki ante | utala en pona |
-|:-|:-|
-| *Lost in Translation* | *War and Peace* |
-
-The ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used after ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.
-
-| ona li kama lon tenpo suno pini en tenpo suno kama. ⇒ tenpo suno pini en tenpo suno kama la ona li kama. |
+| weka lon toki ante |
 |:-|
-| *She came yesterday and will come tomorrow.* |
+| *Lost in Translation* |
+
+Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used freely.
+
+| utala en pona |
+|:-|
+| *War and Peace* |
+
+After ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used freely.
+
+| sewi li lon ala, li lon ale. → sewi li lon ala en ale. |
+|:-|
+| *God is the tangential point between zero and infinity.* |
 
 ### Nestings
 
