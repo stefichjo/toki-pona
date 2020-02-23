@@ -72,7 +72,7 @@ The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ
 
 ### [TOOL NOUN](nasin-nimi.md#tool)s
 
-Every NOUN can be used as a [ᴛᴏᴏʟ ɴᴏᴜɴ](nasin-nimi.md#tool), i.e. [converted](#lesson-18) into a [**ᴠᴇʀʙ**](#verb) implying *usage*.
+Every NOUN can be used as a [ᴛᴏᴏʟ ɴᴏᴜɴ](nasin-nimi.md#tool), i.e. it can be [converted](#lesson-18) into a ᴠᴇʀʙ implying *usage*.
 
 | ᴛʜɪɴɢ → ᴛᴏᴏʟ telo |
 |:-|
