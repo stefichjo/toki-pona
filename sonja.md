@@ -499,6 +499,10 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 |:-|
 | *Mawijo has a beloved wife.* |
 
+| jan Sili li lape lili lon supa. |
+|:-|
+| *Sili is napping on the sofa.* |
+
 | … jan Sili li pona e tomo … |
 |:-|
 | *Sili tidied up the house.* |
