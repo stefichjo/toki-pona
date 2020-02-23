@@ -9,56 +9,19 @@
 
 ## Terminology
 
-| | | ꜱᴏɴᴊᴀ |
+| | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
-| [**mije**](#lesson-11) | ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ | ɴᴏᴜɴ-ɢʀᴏᴜᴘ |
+| [**…**](#what-is-toki-pona) | ᴠᴇʀʙ | ᴘʀᴇᴅɪᴄᴀᴛᴇ |
+| [**mi**](#lesson-4) | ɴᴏᴜɴ | ᴘʀᴏɴᴏᴜɴ |
+| [**pali**](#lesson-5) | ᴠᴇʀʙ | ᴠᴇʀʙ |
+| [**mute**](#lesson-6) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ/ᴀᴅᴠᴇʀʙ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ᴍᴏᴅɪꜰɪᴇʀ, ᴀᴅᴊᴇᴄᴛɪᴠᴇ/ᴀᴅᴠᴇʀʙ |
+| [**mama**](#lesson-7) | ᴠᴇʀʙ/ᴍᴀɪɴ ᴠᴇʀʙ | ᴍᴀɪɴ ᴠᴇʀʙ |
+| [**Epawan Linkan**](#lesson-9) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ |
+| [**mije**](#lesson-11) | ɴᴏᴜɴ-ɢʀᴏᴜᴘ | ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ |
+| [**kama**](#lesson-13) | ᴀᴜxɪʟɪᴀʀʏ | ᴀᴜxɪʟɪᴀʀʏ |
+| [**ni: jan Melani li kama tawa tomo mi**](#lesson-17) | ꜱᴇɴᴛᴇɴᴄᴇ | ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ |
 
-[ꜱᴏɴᴊᴀ](sonja.md#lesson-5) introduces ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs as ᴠᴇʀʙs. Apparently, she conflates ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs and ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs to ᴠᴇʀʙs.
-
-| ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙ ⇒ ᴠᴇʀʙ pali | ijo li pali e ijo |
-| *to do* | *something does something* |
-
-[ꜱᴏɴᴊᴀ](#lesson-6) introduces ᴀᴅᴠᴇʀʙs as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Apparently, she conflates ᴀᴅᴊᴇᴄᴛɪᴠᴇs with ᴍᴏᴅɪꜰɪᴇʀs (i.e. ᴀᴅᴊᴇᴄᴛɪᴠᴇs and ᴀᴅᴠᴇʀʙs).
-
-| mute | pona mute |
-|:-|:-|
-| ᴀᴅᴠᴇʀʙ ⇒ ᴀᴅᴊᴇᴄᴛɪᴠᴇ *very* | *very good* |
-
-[ꜱᴏɴᴊᴀ](#what-is-toki-pona) introduces ***predicates*** as ᴠᴇʀʙs. Apparently, she conflates ᴠᴇʀʙs with ᴠᴇʀʙ slots (i.e. ***predicates***).
-
-| li lete |
-|:-|
-| ***predicate*** → ᴠᴇʀʙ *is cold* |
-
-[ꜱᴏɴᴊᴀ](#lesson-9) introduces proper names as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Yet, multiple consecutive proper name elements don't need **pi**. Apparently, ꜱᴏɴᴊᴀ conflates ᴀᴅᴊᴇᴄᴛɪᴠᴇs with ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴘᴀʀᴛɪᴄʟᴇs for names (like **nanpa**).
-
-| jan Epawan Linkan | tomo nanpa wan |
-|:-|:-|
-| *Abraham Lincoln* | *room #1* |
-
-[ꜱᴏɴᴊᴀ](sonja.md#lesson-17) introduces ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs as separate ꜱᴇɴᴛᴇɴᴄᴇs.
-
-| mi wile e ni: jan Melani li kama tawa tomo mi. |
-|:-|
-| (ᴘᴏɴᴀ) ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I want Mélanie to visit me.* ⇒ (ꜱᴏɴᴊᴀ) ꜱᴇɴᴛᴇɴᴄᴇ + ꜱᴇɴᴛᴇɴᴄᴇ *I want this: Mélanie visit me.* |
-
-[ꜱᴏɴᴊᴀ](#lesson-10) introduces the linking ᴠᴇʀʙ **pilin** as an ordinary ᴠᴇʀʙ.
-
-| sina pilin ike tan seme? | jan Sulu li pilin e ni: ona li pona. → jan Sulu li pilin pona. |
-|:-|:-|
-| *Why are you sad?* | *Mr. Sulu is happy.* |
-
-ꜱᴏɴᴊᴀ introduces numerals and ordinals as ɴᴜᴍʙᴇʀs.
-
-...
-
-[ꜱᴏɴᴊᴀ](#lesson-14) introduces ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs and ꜱᴇɴᴛᴇɴᴄᴇs as ***context*** when put before **la**.
-
-...
-
-ꜱᴏɴᴊᴀ introduces ᴘʀᴏɴᴏᴜɴs as ɴᴏᴜɴs.
-
-...
+Since ᴀᴅᴊᴇᴄᴛɪᴠᴇs and ɪɴᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs are indistinguishable in Toki Pona, they are both called ᴀᴅᴊᴇᴄᴛɪᴠᴇs. Therefore, ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs can be simply called ᴠᴇʀʙs.
 
 ## Backward Compatibility
 
@@ -451,7 +414,7 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | *He died.* |
 
-ꜱᴏɴᴊᴀ introduces **open** as a ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙ, rather than an ᴀᴅᴊᴇᴄᴛɪᴠᴇ that can be turned into a ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙ, or rather than a ᴘʀᴇ-ᴠᴇʀʙ.
+ꜱᴏɴᴊᴀ introduces **open** as a ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙ, rather than an ᴀᴅᴊᴇᴄᴛɪᴠᴇ that can be turned into a ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙ, or rather than a ᴀᴜxɪʟɪᴀʀʏ.
 
 | mi open e ni lon sewi. / mi open toki lon sewi. → mi open lon sewi. |
 |:-|
