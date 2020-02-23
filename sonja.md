@@ -85,7 +85,7 @@ Every ɴᴏᴜɴ can be used as a [ᴛᴏᴏʟ ɴᴏᴜɴ](nasin-nimi.md#tool), 
 |:-|
 | ɴᴏᴜɴ *water* → <br>ᴠᴇʀʙ *to use water on*, *to wash* |
 
-ꜱᴏɴᴊᴀ introduces a ["more complex and precise counting system"](#lesson-12), where [ɴᴜᴍʙᴇʀ](nasin-nimi.md#number)s can be used as ᴘᴀʀᴛɪᴄʟᴇs, adding (their numeric value) one after another.
+ꜱᴏɴᴊᴀ introduces a ["more complex and precise counting system"](#lesson-12), where [ɴᴜᴍʙᴇʀ](nasin-nimi.md#number)s can be used as ᴘᴀʀᴛɪᴄʟᴇs, adding them (and their numeric value) one after another.
 
 | palisa luka tu |
 |:-|
@@ -97,7 +97,13 @@ In yes-no-questions, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **anu** is omitted betwee
 |:-|
 | *Is she a parent?* |
 
-In ꜱᴇɴᴛᴇɴᴄᴇs, a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ can be used (only) at the end.
+In ꜱᴇɴᴛᴇɴᴄᴇs, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used only between ꜱᴜʙᴊᴇᴄᴛs.
+
+| taso mije en meli li pali li pilin pona. |
+|:-|
+| *But men and women are working and are happy.* |
+
+In ꜱᴇɴᴛᴇɴᴄᴇs, a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ can be used only at the end.
 
 | mi pana e kala tawa ona. |
 |:-|
