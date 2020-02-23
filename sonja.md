@@ -565,5 +565,5 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 ## Errata
 
 | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
-|:-|
+|:-|:-|
 | ᴠᴇʀʙ [**open**](#lesson-16) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **open** <br>ᴠᴇʀʙ **to open** |
