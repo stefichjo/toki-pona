@@ -364,6 +364,10 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 ### Lesson 11
 *(pi)*
 
+| meli lili pi sijelo pona li telo e kasi. |
+|:-|
+| *The healthy girl wawters the plant.* |
+
 | pi |
 |:-|
 | *(divides a second ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that describes a first ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ)* |
