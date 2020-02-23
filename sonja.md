@@ -209,11 +209,11 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 
 ### What Is Toki Pona?
 
-| *kili* |
+| kili |
 |:-|
 | … *turnips*, *kumquats*, *lingonberries* |
 
-| *lipu* |
+| lipu |
 |:-|
 | … *printed book*, *postcard*, *clay tablet* |
 
