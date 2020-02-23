@@ -562,9 +562,17 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 
 ### The Gospel
 
+#### Matthew 26:39
+
 | mama mi o! |
 |:-|
 | *"My Father!"* |
+
+#### Luke 18:18-19
+
+| jan lawa li wile sona e ni tan jan Isa: |
+|:-|
+| *A certain ruler asked Jesus, …* |
 
 ### The Qur'an
 
