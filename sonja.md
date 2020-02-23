@@ -335,6 +335,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 |:-|
 | … *sky* |
 
+| sinpin |
+|:-|
+| *area in front* … *chest* |
+
 | noka tomo li wawa |
 |:-|
 | *The foundation of the building is stable.* |
@@ -350,6 +354,10 @@ Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more c
 | o awen e monsi sina. |
 |:-|
 | *Protect your back.* |
+
+| mi lukin e meli pimeja lon sinpin tomo. |
+|:-|
+| *I see a black lady in front of the building.* |
 
 ### Lesson 16
 *(Particles and Perspective)*
