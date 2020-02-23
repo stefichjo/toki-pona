@@ -2,12 +2,12 @@
 
 | |
 |:-|
-| [Grammar Extensions](#grammar-extensions): [Contexts](#contexts), [Nestings](#nestings), [Passive](#passive) |
+| [Grammar](#grammar): [ᴄᴏɴᴛᴇxᴛ](#context), [Nestings](#nestings), [Passive](#passive) |
 | [Semantic Extensions](#semantic-extensions) |
 | [Word-Class Extensions](#word-class-extensions) |
 | [Synonyms](#synonyms) |
 
-## Grammar Extensions
+## Grammar
 
 ### CONTEXT
 
