@@ -66,23 +66,15 @@ The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ
 
 ## Backward Compatibility
 
-| |
-|:-|
-| [ᴛᴏᴏʟ ɴᴏᴜɴ](#tool-nouns)s |
-
-### [TOOL NOUN](nasin-nimi.md#tool)s
-
 Every ɴᴏᴜɴ can be used as a [ᴛᴏᴏʟ ɴᴏᴜɴ](nasin-nimi.md#tool), i.e. it can be [converted](#lesson-18) into a ᴠᴇʀʙ implying *usage*.
 
 | ᴛʜɪɴɢ → ᴛᴏᴏʟ telo |
 |:-|
 | ɴᴏᴜɴ *water* → <br>ᴠᴇʀʙ *to use water on*, *to wash* |
 
-### Counting
+Sonja introduces a ["more complex and precise counting system"](#lesson-12), where [ɴᴜᴍʙᴇʀ](nasin-nimi.md#number)s can be used as ᴘᴀʀᴛɪᴄʟᴇs, adding (their numeric value) one after another.
 
-Instead of using ***number words*** as ᴀᴅᴊᴇᴄᴛɪᴠᴇs, in a "more complex and precise counting system" ***number words*** can be added like ᴘᴀʀᴛɪᴄʟᴇs.
-
-| palisa luka, tu → palisa luka tu |
+| palisa luka tu |
 |:-|
 | *seven fingers* |
 
