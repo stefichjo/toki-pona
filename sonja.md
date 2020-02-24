@@ -131,19 +131,25 @@ A *comma* between two ɪɴᴅɪᴄᴀᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely
 
 A *comma* between two ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
 
-| ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
+| (ᴛᴇᴘᴀɴ) ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
 |:-|
 | *She cooks the hares and some rice.* |
 
+A *comma* between two ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
+
+| (ᴛᴇᴘᴀɴ) ona li sona e tomo pi telo nasa, pi ma ante → (ᴛᴇᴘᴀɴ) ona li sona e tomo pi telo nasa pi ma ante. |
+|:-|
+| *She knows a foreign bar.* |
+
 A *comma* between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can be safely removed.
 
-| mi pana e kala tawa ona, lon tomo. → mi pana e kala tawa ona lon tomo. |
+| (ᴛᴇᴘᴀɴ) mi pana e kala tawa ona, lon tomo. → mi pana e kala tawa ona lon tomo. |
 |:-|
 | *I give fish to her in the home.* |
 
 A *comma* between a ꜱᴇɴᴛᴇɴᴄᴇ followed by the ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ **a!** can be safely removed.
 
-| sina suli, a! → sina suli a! |
+| (ᴛᴇᴘᴀɴ) sina suli, a! → sina suli a! |
 |:-|
 | *You're so tall!* |
 

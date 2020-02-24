@@ -11,11 +11,11 @@
 
 ### CONTEXT
 
-Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used freely.
+Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used freely. A *comma* between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can't be safely removed.
 
-| weka lon toki ante |
-|:-|
-| *Lost in Translation* |
+| weka lon toki tan ma ante → weka lon toki ante | sewi lon ala, lon ale |
+|:-|:-|
+| *Lost in Translation* | *God between Zero and Infinity* |
 
 Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used freely.
 
@@ -29,31 +29,13 @@ After ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** c
 |:-|
 | *God is the tangential point between zero and infinity.* |
 
+Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, the ɢᴇɴɪᴛɪᴠᴇ ᴍᴀʀᴋᴇʀ **pi** can be used freely. A *comma* between two ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can't be safely removed.
+
+| sona wawa pi kama pi ijo ale | temo pi telo nasa, pi ma ante |
+|:-|:-|
+| *Big Bang Theory* | *The Foreign Bar* |
+
 ### Nestings
-
-#### pi
-
-Both subsequent and nested **"pi"**-phrases are possible.
-
-| (ᴛᴇᴘᴀɴ) nimi pi jan pona, pi toki pona li ... ⇒ (ᴘᴏɴᴀ) nimi ni pi jan pona li lon toki pona: ona li ... |
-|:-|
-| *a friend's Toki Pona name* |
-
-| (ᴛᴇᴘᴀɴ) ona li jo e tomo pi telo nasa pi ma ante. ⇒ (ᴘᴏɴᴀ) ona li jo e telo pi telo nasa. telo nasa li tan ma ante. |
-|:-|
-| *She has a house of imported beer.* ⇒ *She has a bar. The beer is imported.* |
-
-#### Prepositions
-
-Both subsequent and nested ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are possible.
-
-| (ᴛᴇᴘᴀɴ) mi pana e kala lon tomo lon ma tomo ante. ⇒ (ᴘᴏɴᴀ) mi pana e kala lon tomo pi ma tomo ante. |
-|:-|
-| *I'm giving away fish in a house of a different town.* |
-
-| (ᴛᴇᴘᴀɴ) mi pana e kala lon tomo, lon ma tomo ante. ⇒ (ᴘᴏɴᴀ) mi pana e kala lon tomo lon ma tomo ante. |
-|:-|
-| *I'm giving away fish in a house in a different town.* |
 
 #### Sentences
 
