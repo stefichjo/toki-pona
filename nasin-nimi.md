@@ -161,7 +161,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 ### VERB
 *([nimi suli poka](#modifier) luka)*
 
-ᴀᴅᴊᴇᴄᴛɪᴠᴇs of the **ᴠᴇʀʙ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ keep their meaning. ɴᴏᴜɴs derived from **ᴠᴇʀʙ**s can also mean their [direct object](#accusative-case).
+ᴀᴅᴊᴇᴄᴛɪᴠᴇs of the **ᴠᴇʀʙ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ keep their meaning. ɴᴏᴜɴs derived from **ᴠᴇʀʙ**s can also mean their [ᴏʙᴊᴇᴄᴛ](#accusative-case).
 
 | ᴠᴇʀʙ moku |
 |:-|
@@ -191,11 +191,11 @@ When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜ�
 |:-|
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *moving to* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *moving* <br>ɴᴏᴜɴ *movement* |
 
-**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ**s form the [ᴄᴏɴᴛᴇxᴛ](#if-then) of a ꜱᴇɴᴛᴇɴᴄᴇ.
+In ꜱᴇɴᴛᴇɴᴄᴇs, a **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ** can be used only at the end.
 
-| mi pana e kili tawa sina. |
+| mi pana e kala tawa ona. |
 |:-|
-| *I'm giving you an apple.* |
+| *I give fish to her.* |
 
 **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**s can be modified by [ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ](#sound)s.
 
@@ -325,7 +325,13 @@ The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **en** means *and*. It combines two ɴᴏ�
 
 | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ en | utala en pona |
 |:-|:-|
-| ᴘᴀʀᴛɪᴄʟᴇ *and* | *war and peace* |
+| ᴘᴀʀᴛɪᴄʟᴇ *and* | *War and Peace* |
+
+In ꜱᴇɴᴛᴇɴᴄᴇs, the **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **en** can be used only between ꜱᴜʙᴊᴇᴄᴛs.
+
+| taso mije en meli li pali li pilin pona. |
+|:-|
+| *But men and women are working and are happy.* |
 
 ### OR
 *([nimi lili insa](#conjunction) "anu")*
@@ -401,8 +407,8 @@ One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as whole ꜱᴇɴᴛᴇɴ�
 | <img src="sitelen/pona/ante.png" height="50" title="ander"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) **ante** ⇐ *esun* — *sama* ⇐ *pu* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (⇒ *ante lon poka*); (⇐ *esun*) *instead of*<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **altered**, **changed**: (*~~kama~~ ante*) [**change**](sonja.md#toki-pona-proverbs), **different**: (*ante lon poka* ⇐ *ante*) *than*, *unlike*; (⇐ *esun*) **other** |
 | <img src="sitelen/pona/anu.png" height="50" title="an"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) **anu**, *en*, *la* <br>ᴘᴀʀᴛɪᴄʟᴇ [*(alternative)*](tepan.md), **or** |
 | <img src="sitelen/pona/awen.png" height="50" title="hawen"> | [**ᴀʀᴇᴀ**](#area) + [**ᴀᴜxɪʟɪᴀʀʏ**](#auxiliary) **awen**, *kama* — *pini*, *open* — *selo* <br>ɴᴏᴜɴ *duration*: (*lon ~~awen~~*) [**during**](sonja.md#lesson-14), *for* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**; (*~~pi tenpo~~ awen*) *present*; (*awen ~~lon~~*) **staying**, **waiting**; (⇐ *tomo*) **protected**, **safe** <br>ᴠᴇʀʙ (⇐ *tomo*) [**to help in peril**](sonja.md#short-obligatory-prayer), [**protect**](sonja.md#lesson-15) + <br>ᴀᴜxɪʟɪᴀʀʏ **to continue to** <br>ᴠᴇʀʙ *to continue* |
-| <img src="sitelen/pona/e.png" height="50" title="e"> | [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker) *li*, *o* — *pi*, **e** <br>ᴘᴀʀᴛɪᴄʟᴇ **(before the direct object)** |
-| <img src="sitelen/pona/en.png" height="50" title="en"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) *anu*, **en**, *la* <br>ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, [**and**](sonja.md#lesson-16) |
+| <img src="sitelen/pona/e.png" height="50" title="e"> | [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker) *li*, *o* — *pi*, **e** <br>ᴘᴀʀᴛɪᴄʟᴇ **(before the direct ᴏʙᴊᴇᴄᴛ)** |
+| <img src="sitelen/pona/en.png" height="50" title="en"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) *anu*, **en**, *la* <br>ᴘᴀʀᴛɪᴄʟᴇ **(between multiple ꜱᴜʙᴊᴇᴄᴛs)**, [**and**](sonja.md#lesson-16) |
 | <img src="sitelen/pona/esun.png" height="50" title="eĝum"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) *ante* ⇐ **esun** — *sama* ⇐ *pu* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (⇒ *ante*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *ante*) <br>ɴᴏᴜɴ (*~~kama~~ esun*) *exchange*; **business transaction**; (*~~tomo pi kama~~ esun*) **shop**; (*~~ma tomo pi kama~~ esun*) **bazaar**, **fair**, **market** |
 | | [**ɴᴜᴍʙᴇʀ**](#number) *ala*, *ale*, **esun**, *luka*, *mute*, *tu*, *wan* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *7*, *seven* |
 | <img src="sitelen/pona/ijo.png" height="50" title="ijo"> | [**ɴᴏᴜɴ**](#noun) **ijo**, *jan* <br>ɴᴏᴜɴ [**being**](sonja.md#lesson-2), **matter**, **object**, **phenomenon**, [**something**](sonja.md#lesson-2), **thing**; *area* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *something's* |
@@ -434,7 +440,7 @@ One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as whole ꜱᴇɴᴛᴇɴ�
 | | [**ᴛᴏᴏʟ**](#tool) *kute*, **lawa**, *luka*, *noka*, *palisa*, *poki*, *selo*, *uta* <br>ɴᴏᴜɴ **head**, **mind** →  <br>ᴠᴇʀʙ **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule**; *arange*, *organize*; (⇒ *selo* ⇒ *wile*) <br>ɴᴏᴜɴ [**guidance**](sonja.md#toki-pona-proverbs); (⇒ *mute*) |
 | <img src="sitelen/pona/len.png" height="50" title="lenĵ"> | [**ᴛᴏᴏʟ**](#tool) *insa*, **len**, *tomo* <br>ɴᴏᴜɴ **cloth**, **clothing**, **fabric**, **textile**, [**vest**](sonja.md#lesson-17); **cover**, **layer of privacy** → <br>ᴠᴇʀʙ *to hide* |
 | <img src="sitelen/pona/lete.png" height="50" title="fret"> | [**ᴛʜɪɴɢ**](#thing) **lete** — *seli* <br>ɴᴏᴜɴ *frost*, *ice* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **cold**, **cool**; **uncooked**, **raw** |
-| <img src="sitelen/pona/li.png" height="50" title="li"> | [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker) **li**, *o* — *pi*, *e* <br>ᴘᴀʀᴛɪᴄʟᴇ **(between any subject except mi alone or sina alone and its ᴘʀᴇᴅɪᴄᴀᴛᴇ; also to introduce a new ᴘʀᴇᴅɪᴄᴀᴛᴇ for the same subject)** |
+| <img src="sitelen/pona/li.png" height="50" title="li"> | [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker) **li**, *o* — *pi*, *e* <br>ᴘᴀʀᴛɪᴄʟᴇ **(between any ꜱᴜʙᴊᴇᴄᴛ except mi alone or sina alone and its ᴘʀᴇᴅɪᴄᴀᴛᴇ; also to introduce a new ᴘʀᴇᴅɪᴄᴀᴛᴇ for the same ꜱᴜʙᴊᴇᴄᴛ)** |
 | <img src="sitelen/pona/lili.png" height="50" title="liklik"> | [**ᴛʜɪɴɢ**](#thing) **lili** — *ale*, *ilo*, *mani*, *mute*, *suli*, *wawa* <br>ɴᴏᴜɴ (⇒ *wan*) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **little**, [**momentary**](sonja.md#toki-pona-proverbs), [**micro-**](sonja.md#preface), [**narrow**](sonja.md#lesson-13), **small**, **short**, [**temporary**](sonja.md#toki-pona-proverbs); [**120**](sonja.md#preface), **few**; **a bit**; (*~~pi sike suno~~ lili*) **young**; (⇒ *pona*) |
 | <img src="sitelen/pona/linja.png" height="50" title="linja"> | [**ᴛʜɪɴɢ**](#thing) **linja** — *palisa* <br>ɴᴏᴜɴ **long and flexible thing**, [**long flexible thing**](sonja.md#lesson-17); **cord**, (*linja ~~lawa~~*) **hair**, **rope**, [**string**](sonja.md#lesson-17), **thread**, **yarn** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *long and flexible* |
 | <img src="sitelen/pona/lipu.png" height="50" title="lipu"> | [**ᴛʜɪɴɢ**](#thing) **lipu**, *nena*, *sike* <br>ɴᴏᴜɴ **flat object**; (*~~mute~~ lipu*) **book**, **card**, [**clay tablet**](sonja.md#what-is-toki-pona), **document**, **paper**, [**piece of paper**](sonja.md#lesson-2), [**postcard**](sonja.md#what-is-toki-pona), [**printed book**](sonja.md#what-is-toki-pona), **record**, **website** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flat*, *thin* |
@@ -539,7 +545,7 @@ Definitions as provided by [the official Toki Pona dictionary](http://tokipona.n
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="sitelen/pona/en.png" height="50" title="en"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) *anu*, **en**, *la* <br>ᴘᴀʀᴛɪᴄʟᴇ **(between multiple subjects)**, [**and**](sonja.md#lesson-16) |
+| <img src="sitelen/pona/en.png" height="50" title="en"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) *anu*, **en**, *la* <br>ᴘᴀʀᴛɪᴄʟᴇ **(between multiple ꜱᴜʙᴊᴇᴄᴛs)**, [**and**](sonja.md#lesson-16) |
 
 Contextual abbreviations are written as *~~strikethroughs~~*.
 

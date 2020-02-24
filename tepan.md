@@ -2,12 +2,44 @@
 
 | |
 |:-|
-| [Grammar](#grammar): [ᴄᴏɴᴛᴇxᴛ](#context), [Nestings](#nestings), [Passive](#passive) |
+| [Grammar](#grammar): [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause), [ᴘᴀꜱꜱɪᴠᴇ](#passive), [ᴄᴏɴᴛᴇxᴛ](#context) |
 | [Semantic Extensions](#semantic-extensions) |
 | [Word-Class Extensions](#word-class-extensions) |
 | [Synonyms](#synonyms) |
 
 ## Grammar
+
+### SUBORDINATE CLAUSE
+
+A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can describe a *degree* or an *extent*.
+
+| mi pali mute. tan ni la mi wile lape. → mi pali pi mute ni: mi wile lape. |
+|:-|
+| *I worked so much, I need to sleep.* |
+
+A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question with **seme**, yielding a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ.
+
+| mani li lon seme? o toki e ni. → o toki e ni: mani li lon seme. |
+|:-|
+| *Tell me where the money is.* |
+
+When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be reduced to its ᴘʀᴇᴅɪᴄᴀᴛᴇ, and the direct ᴏʙᴊᴇᴄᴛ can be omitted.
+
+| jan ni li tawa musi lon poka pi soweli alasa. ona li … → jan ni: tawa musi lon poka pi soweli alasa, li … |
+|:-|
+| *The person that is dancing with wolves …* |
+
+| mi sona e jan ni: ona li … → jan ni: mi sona, li … |
+|:-|
+| *The person that I know …* |
+
+### PASSIVE
+
+ᴠᴇʀʙs used as ɴᴏᴜɴs omit **ijo**. Without omitting **ijo**, ᴘᴀꜱꜱɪᴠᴇ can be expressed.
+
+| soweli li moku e kala. → kala li ijo moku lon soweli. |
+|:-|
+| *The fish is being eaten by the cat.* |
 
 ### CONTEXT
 
@@ -31,43 +63,74 @@ After ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** c
 
 Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, the ɢᴇɴɪᴛɪᴠᴇ ᴍᴀʀᴋᴇʀ **pi** can be used freely. A *comma* between two ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can't be safely removed.
 
-| sona wawa pi kama pi ijo ale | temo pi telo nasa, pi ma ante |
+| sona wawa pi kama pi ijo ale | tomo pi telo nasa, pi ma ante |
 |:-|:-|
 | *Big Bang Theory* | *The Foreign Bar* |
 
-### Nestings
+In a mathematical context, **sama** is used instead of/without **li**.
 
-#### Sentences
-
-A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can describe a *degree* or an *extent*.
-
-| (ᴛᴇᴘᴀɴ) mi pali pi mute ni: mi wile lape. ⇒ (ᴘᴏɴᴀ) mi pali mute. tan ni la mi wile lape. |
+| `1 + 1 = 2` → wan en wan ~~li~~ sama tu |
 |:-|
-| *I worked so much, I need to sleep.* |
+| *one and one equals two* |
 
-A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question with **seme**, yielding a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ.
+## Vocabulary
 
-| (ᴛᴇᴘᴀɴ) o toki e ni: mani li lon seme. ⇒ (ᴘᴏɴᴀ) mani li lon seme? o toki e ni. |
+### Counting
+
+A ɴᴜᴍʙᴇʀ can be used like a ᴛʜɪɴɢ ɴᴏᴜɴ implying *mute pi ijo …*, i.e. an *amount*.
+
+| ɴᴜᴍʙᴇʀ `2` → tu | `1 + 1 = 2` → wan en wan sama tu |
+|:-|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two*: (*~~mute pi ijo~~ tu) pair | *A singleton and a singleton are equal to a pair.* → *One plus one equals two.* |
+
+ɴᴜᴍʙᴇʀs are multiplied rather than added (not using ꜱᴏɴᴊᴀ's ["more complex and precise counting system"](sonja.md#lesson-12)).
+
+| `2 * 2` → tu tu | `2 + 2 = 2 * 2` → tu en tu li sama tu tu. |
+|:-|:-|
+| *two pairs* → *four* | *A pair and a pair are equal to two pairs.* → *Two plus two equals four.* |
+
+As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
+
+| `2 + 1 = 3` → tu en wan li sama mute. |
 |:-|
-| *Tell me where the money is.* |
+| *A pair and a singleton are equal to a set.* → *Two plus one equals three.* |
 
-When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be reduced to its **predicate**, and the **direct object** can be omitted.
+### Calendar
 
-| (ᴘᴜ) jan ni li tawa musi lon poka pi soweli alasa. ona li ... ⇒ (ᴛᴇᴘᴀɴ) jan ni: tawa musi lon poka pi soweli alasa, li ... |
+#### Week
+
+| mun | tenpo suno pi sike esun |
+|:-|:-|
+| **mun** <br>*Moon* | **tenpo suno Mun** <br>*Monday* |
+| **ma Seli** <br>*Mars* | **tenpo suno Seli** <br>*Tuesday* |
+| **ma Telo** <br>*Mercury* | **tenpo suno Telo** <br>*Wednesday* |
+| **ma Kasi** <br>*Jupiter* | **tenpo suno Kasi** <br>*Thursday* |
+| **ma Kiwen** <br>*Venus* | **tenpo suno Kiwen** <br>*Friday* |
+| **ma Ma** <br>*Saturn* | **tenpo suno Ma** <br>*Saturday* |
+| **suno** <br>*Sun* | **tenpo suno Suno** <br>*Sunday* |
+
+#### Month
+
+| sike mun |
 |:-|
-| *the person that is dancing with wolves* |
+| **sike mun nanpa wan** <br>*January* |
+| **sike mun nanpa tu** <br>*February* |
+| **sike mun nanpa mute** <br>*March* |
+| **sike mun nanpa tu tu** <br>*April* |
+| **sike mun nanpa luka** <br>*Mai* |
+| **sike mun nanpa mute tu** <br>*June* |
+| **sike mun nanpa esun** <br>*July* |
+| **sike mun nanpa tu tu tu** <br>*August* |
+| **sike mun nanpa mute mute** <br>*September* |
+| **sike mun nanpa luka tu** <br>*October* |
+| **sike mun nanpa luka tu en wan** <br>*November* |
+| **sike mun nanpa luka tu en tu** <br>*December* |
 
-| (ᴘᴜ) mi sona e jan ni: ona li ... ⇒ (ᴛᴇᴘᴀɴ) jan ni: mi sona, li ... |
+#### Year
+
+| sike suno `# 10 10 10 2 + 10 + 2 2` = sike suno nanpa luka tu&nbsp; luka tu&nbsp; luka tu&nbsp; tu en luka tu en tu tu |
 |:-|
-| *the person that I know* |
-
-### Passive
-
-ᴛʀᴀɴꜱɪᴛɪᴠᴇ ᴠᴇʀʙs used as ɴᴏᴜɴs omit **ijo**. Without omitting **ijo**, ᴘᴀꜱꜱɪᴠᴇ can be expressed.
-
-| (ᴛᴇᴘᴀɴ) kala li ijo moku lon soweli. ⇒ (ᴘᴏɴᴀ) soweli li moku e kala. |
-|:-|
-| *The fish is being eaten by the cat.* |
+| *the year 2014* |
 
 ## Semantic Extensions
 
@@ -233,11 +296,3 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ](nasin-nimi.md#thing)s, i.e. 
 | **sewi** | *area above* | **lawa** | *highest part* |
 | **tawa** | *moving* | **tan** | *departure* |
 
----
-
-
-All [ɴᴏᴜɴ](#noun)s can imply food.
-
-| ᴛʜɪɴɢ telo |
-|:-|
-| ɴᴏᴜɴ *water*; *beverage*|

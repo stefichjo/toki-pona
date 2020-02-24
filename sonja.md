@@ -93,18 +93,6 @@ Every ɴᴏᴜɴ can be used as a [ᴛᴏᴏʟ ɴᴏᴜɴ](nasin-nimi.md#tool), 
 |:-|
 | *seven fingers* |
 
-In ꜱᴇɴᴛᴇɴᴄᴇs, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used only between ꜱᴜʙᴊᴇᴄᴛs.
-
-| taso mije en meli li pali li pilin pona. |
-|:-|
-| *But men and women are working and are happy.* |
-
-In ꜱᴇɴᴛᴇɴᴄᴇs, a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ can be used only at the end.
-
-| mi pana e kala tawa ona. |
-|:-|
-| *I give fish to her.* |
-
 ## Punctuation
 
 | |
@@ -176,6 +164,21 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 ## Official Toki Pona Dictionary
 
 ## Corpus
+
+| |
+|:-|
+| [Preface](#preface) |
+| [What Is Toki Pona?](#what-is-toki-pona) |
+| [Limitations](#limitations) |
+| Lessons: [1](#lesson-1), [2](#lesson-2), [3](#lesson-3), [4](#lesson-4), [5](#lesson-5), [6](#lesson-6), [7](#lesson-7), [8](#lesson-8), [9](#lesson-9), [10](#lesson-10), [11](#lesson-11), [12](#lesson-12), [13](#lesson-13), [14](#lesson-14), [15](#lesson-15), [16](#lesson-16), [17](#lesson-17), [18](#lesson-18), [19](#lesson-19) |
+| [Toki Pona Proverbs](#toki-pona-proverbs) |
+| [Famous Quotations](#famous-quotations) |
+| [The Torah](#the-torah) |
+| [The Gospel](#the-gospel) |
+| [The Qu'ran](#the-quran) |
+| [The Ant's Chapter](#the-ants-chapter) |
+| [Writings of Bahá'u'lláh](#writings-of-baháulláh) |
+| [Short Obligatory Prayer](#short-obligatory-prayer) |
 
 ### Preface
 
