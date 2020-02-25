@@ -10,6 +10,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 | [Toki Pona Word Classes, Parts of Speech and Dictionary](nasin-nimi.md) |
 |:-|
+| |
 | [Community Toki Pona (ꜱᴏɴᴊᴀ)](sonja.md) |
 | [Frontier Toki Pona (ᴛᴇᴘᴀɴ)](tepan.md) |
 | |
