@@ -136,23 +136,35 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 | | | |
 |:-|:-|:-|
-| **ilo** | *device*, *implement*, *machine*, *tool* | *body part* |
 | **kulupu** | *community*, *company*, *group*, *nation*, *society*, *tribe* | *relationship* |
-| **lawa** | *to control*, *direct*, *guide*, *lead*, *own*, *plan*, *regulate*, *rule* | *to arange*, *organize* |
-| **lukin** | *to look for*, *search*, *seek* | *to care for* |
+| **lawa** | *to control*, *direct*, *guide*, *lead*, *own*, *plan*, *regulate*, *rule* | *to arrange*, *organize* |
 | **ma** | *earth*, *land*; *outdoors*, *world*; *country*, *territory*; *soil*; *planet* | *area* |
 | **monsi** | *back* | *backbone* |
 | **pan** | *cereal*, *grain*; *barley*, *corn*, *oat*, *rice*, *wheat*; *bread*, *pasta* | *seed* |
 
-### Particles
+### [Content Words](nasin-nimi.md#content-word)
 
-[ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](nasin-nimi.md#interjection)s can be used as ᴀᴅᴊᴇᴄᴛɪᴠᴇs and often as ꜱᴇɴᴛᴇɴᴄᴇs.
+#### [Nouns](nasin-nimi.md#noun)
 
-| ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ꜱᴇɴᴛᴇɴᴄᴇ |
+#### [Modifiers](nasin-nimi.md#modifier)
+
+### [Particles](nasin-nimi.md#particle)
+
+#### [Phrase Markers](nasin-nimi.md#phrase-marker)
+
+#### [Conjunctions](nasin-nimi.md#conjunction)
+
+#### [Sounds](nasin-nimi.md#sound)
+
+ꜱᴏᴜɴᴅs can be ᴀᴅᴠᴇʀʙs in addition to ᴘᴀʀᴛɪᴄʟᴇs.
+
+| ꜱᴏᴜɴᴅ | ᴘᴀʀᴛɪᴄʟᴇs | ᴀᴅᴠᴇʀʙ |
 |:-|:-|:-|
-| **a** | *indeed* | *yes* |
-| **ala** | *not* | *no* |
-| **mu** | *-ish* | *blah* |
+| **a** | - | *indeed*; *still*, *too*; *yes* |
+| **ala** | *(negation)* | *not*, *no* |
+| **mu** | *(indifference)* | *-ish*, *sort-of*; *blah* |
+
+---
 
 ### Adjectives
 
