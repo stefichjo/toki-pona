@@ -140,7 +140,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | ᴠᴇʀʙ **lawa** | *to arrange*, *organize* |
 | ɴᴏᴜɴ **ma** | *area* |
 | ɴᴏᴜɴ **monsi** | *backbone* |
-| ɴᴏᴜɴ **pan** | *seed* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sama** | *-self*, *-selves*; *reciprocal* |
 | ɴᴏᴜɴ **tomo** | *roof* |
 
 ## [CONTENT WORD](nasin-nimi.md#content-word)
@@ -163,6 +163,23 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **poka** | - | *lateral* |
 | **sijelo** | *life-form* | *alive* |
 | **sinpin** | *something upright* | *upright*; *barring*, *blocking* |
+
+| ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **jaki** | *dirt*, *poison*, *waste* | - |
+| **lete** | *frost*, *ice* | - |
+| **pimeja** | *shadow* | - |
+| **suli** | *cargo* | *responsible* |
+| **wawa** | *force* | - |
+
+| ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **mani** | - | *domesticated*, *refined*; *valuable* |
+| **mun** | - | *sky-walking* |
+| **nanpa** | - | …: *current*, …: *next*, …: *previous*; *last* |
+| **nasin** | - | *ordinary*, *usual* |
+| **pan** | *seed* | *falling* |
+| **tenpo** | - | *temporary* |
 
 ##### [TOOL](nasin-nimi.md#tool)
 
@@ -219,31 +236,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 ---
 
-## Adjectives
-
-Many [ᴍᴏᴅɪꜰɪᴇʀ](nasin-nimi.md#modifier)s can be thought of as [ᴛʜɪɴɢ](nasin-nimi.md#thing)s, i.e. when turned into ɴᴏᴜɴs, they imply a specific **ijo**.
-
-| ᴍᴏᴅɪꜰɪᴇʀ → ᴛʜɪɴɢ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴏᴜɴ |
-|:-|:-|:-|
-| **jaki** | *toxic*, *unclean* | *dirt*, *poison*, *waste* |
-| **lete** | *cold* | *frost*, *ice* |
-| **pimeja** | *black*, *dark*, *unlit* | *shadow* |
-| **suli** | *heavy* | *cargo* |
-| **wawa** | *strong* | *force* |
-
 ## Nouns
-
-Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ](nasin-nimi.md#thing)s, i.e. they imply a specific **ijo** and have a less specific meaning as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
-
-| ɴᴏᴜɴ → ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
-|:-|:-|:-|
-| **kulupu** | *community* | *reciprocal* |
-| **mani** | *large domesticated animal*; *money* | *domesticated*, *mined*; *valuable* |
-| **mun** | *night sky object* | *sky-walking* |
-| **nanpa** | ... | *current* |
-| **nasin** | *custom* | *ordinary*, *usual* |
-| **pan** | *seed* | *falling* |
-| **tenpo** | *time* | *temporary* |
 
 ### Forms and States
 
