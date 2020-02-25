@@ -7,7 +7,7 @@
 | [Punctuation](#punctuation) |
 | [Orthography](#orthography) |
 
-## Grammar
+# Grammar
 
 A *comma* between two ᴠᴏʟɪᴛɪᴠᴇ or ɪᴍᴘᴇʀᴀᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
 
@@ -15,7 +15,7 @@ A *comma* between two ᴠᴏʟɪᴛɪᴠᴇ or ɪᴍᴘᴇʀᴀᴛɪᴠᴇ ᴘʜ
 |:-|
 | *Be happy and read the official Toki Pona book!* |
 
-### SUBORDINATE CLAUSE
+## SUBORDINATE CLAUSE
 
 A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can describe a *degree* or an *extent*.
 
@@ -39,7 +39,7 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 |:-|
 | *The person that I know …* |
 
-### PASSIVE
+## PASSIVE
 
 ᴠᴇʀʙs used as ɴᴏᴜɴs omit **ijo**. Without omitting **ijo**, ᴘᴀꜱꜱɪᴠᴇ can be expressed.
 
@@ -47,7 +47,7 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 |:-|
 | *The fish is being eaten by the cat.* |
 
-### CONTEXT
+## CONTEXT
 
 Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used freely. Therefore, a *comma* between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can't be safely removed.
 
@@ -73,9 +73,9 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 |:-|
 | *One and one equals two.* |
 
-## Vocabulary
+# Vocabulary
 
-### Counting
+## Counting
 
 A ɴᴜᴍʙᴇʀ can be used like a ᴛʜɪɴɢ ɴᴏᴜɴ implying *mute pi ijo …*, i.e. an *amount*.
 
@@ -95,9 +95,9 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 |:-|
 | *A pair and a singleton are equal to a set.* → *Two plus one equals three.* |
 
-### Calendar
+## Calendar
 
-#### Week
+### Week
 
 | mun | tenpo suno pi sike esun |
 |:-|:-|
@@ -109,7 +109,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **ma Ma** <br>*Saturn* | **tenpo suno Ma** <br>*Saturday* |
 | **suno** <br>*Sun* | **tenpo suno Suno** <br>*Sunday* |
 
-#### Month
+### Month
 
 | sike mun |
 |:-|
@@ -126,39 +126,92 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **sike mun nanpa luka tu en wan** <br>*November* |
 | **sike mun nanpa luka tu en tu** <br>*December* |
 
-#### Year
+### Year
 
 | sike suno nanpa luka tu&nbsp; luka tu&nbsp; luka tu&nbsp; tu en luka tu en tu tu |
 |:-|
 | *the year 2014* |
 
-## Dictionary
+# Dictionary
 
-| | | |
+| | |
+|:-|:-|
+| ɴᴏᴜɴ **kulupu** | *relationship* |
+| ᴠᴇʀʙ **lawa** | *to arrange*, *organize* |
+| ɴᴏᴜɴ **ma** | *area* |
+| ɴᴏᴜɴ **monsi** | *backbone* |
+| ɴᴏᴜɴ **pan** | *seed* |
+| ɴᴏᴜɴ **tomo** | *roof* |
+
+## [CONTENT WORD](nasin-nimi.md#content-word)
+
+### [NOUN](nasin-nimi.md#noun)
+
+#### [PERSON](nasin-nimi.md#person)
+
+| ᴘᴇʀꜱᴏɴ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
-| **kulupu** | *community*, *company*, *group*, *nation*, *society*, *tribe* | *relationship* |
-| **lawa** | *to control*, *direct*, *guide*, *lead*, *own*, *plan*, *regulate*, *rule* | *to arrange*, *organize* |
-| **ma** | *earth*, *land*; *outdoors*, *world*; *country*, *territory*; *soil*; *planet* | *area* |
-| **monsi** | *back* | *backbone* |
-| **pan** | *cereal*, *grain*; *barley*, *corn*, *oat*, *rice*, *wheat*; *bread*, *pasta* | *seed* |
+| **mama** | *mother* | *of origin* |
+| **mije** | - | *masculine* |
 
-### [Content Words](nasin-nimi.md#content-word)
+#### [THING](nasin-nimi.md#thing)
 
-#### [Nouns](nasin-nimi.md#noun)
+| ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **kili** | - | *hanging* |
+| **monsi** | - | *dorsal*; *endorsing* |
+| **poka** | - | *lateral* |
+| **sijelo** | *life-form* | *alive* |
+| **sinpin** | *something upright* | *upright*; *barring*, *blocking* |
 
-#### [Modifiers](nasin-nimi.md#modifier)
+##### [TOOL](nasin-nimi.md#tool)
 
-### [Particles](nasin-nimi.md#particle)
+| ᴛᴏᴏʟ | ɴᴏᴜɴ | ᴠᴇʀʙ |
+|:-|:-|:-|
+| **len** | - | *to hide* |
+| **luka** | - | *to manipulate*, *touch* |
+| **noka** | - | *to step on*, *kick* |
+| **palisa** | *finger* | *to point at* |
+| **poki** | *bladder* | *to be full of*, *collect* |
+| **selo** | - | *to form* |
 
-#### [Phrase Markers](nasin-nimi.md#phrase-marker)
+##### [LIFE-FORM](nasin-nimi.md#life-form)
 
-#### [Conjunctions](nasin-nimi.md#conjunction)
+| ʟɪꜰᴇ-ꜰᴏʀᴍ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **akesi** | *monster*: *to fear* | *cold-blooded* |
+| **kala** | - | *diving*, *swimming* |
+| **kasi** | - | *vegetating*; *growing* |
+| **pipi** | - | *crawling*, *creeping* |
+| **soweli** | *cute animal*; *Procyonidae* | *warm-blooded* |
+| **waso** | - | *flying*, *winging* |
 
-#### [Sounds](nasin-nimi.md#sound)
+### [MODIFIER](nasin-nimi.md#modifier)
 
-ꜱᴏᴜɴᴅs can be ᴀᴅᴠᴇʀʙs in addition to ᴘᴀʀᴛɪᴄʟᴇs.
+#### [NUMBER](nasin-nimi.md#number)
 
-| ꜱᴏᴜɴᴅ | ᴘᴀʀᴛɪᴄʟᴇs | ᴀᴅᴠᴇʀʙ |
+| ɴᴜᴍʙᴇʀ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|
+| **esun** | *7*, *seven* |
+| **mute** | *3*, *three*: *set* |
+
+#### [PREPOSITION](nasin-nimi.md#preposition)
+
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **ante** | *instead of* | …: *than*, *unlike* |
+| **sin** | *in addition to*, *with* | - |
+| **taso** | *free from*, *independent from*, *without* | *just* |
+
+## [PARTICLE](nasin-nimi.md#particle)
+
+### [PHRASE MARKER](nasin-nimi.md#phrase-marker)
+
+### [CONJUNCTION](nasin-nimi.md#conjunction)
+
+### [SOUND](nasin-nimi.md#sound)
+
+| ꜱᴏᴜɴᴅ | ᴘᴀʀᴛɪᴄʟᴇ | ᴀᴅᴠᴇʀʙ |
 |:-|:-|:-|
 | **a** | - | *indeed*; *still*, *too*; *yes* |
 | **ala** | *(negation)* | *not*, *no* |
@@ -166,7 +219,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 ---
 
-### Adjectives
+## Adjectives
 
 Many [ᴍᴏᴅɪꜰɪᴇʀ](nasin-nimi.md#modifier)s can be thought of as [ᴛʜɪɴɢ](nasin-nimi.md#thing)s, i.e. when turned into ɴᴏᴜɴs, they imply a specific **ijo**.
 
@@ -178,7 +231,7 @@ Many [ᴍᴏᴅɪꜰɪᴇʀ](nasin-nimi.md#modifier)s can be thought of as [ᴛ�
 | **suli** | *heavy* | *cargo* |
 | **wawa** | *strong* | *force* |
 
-### Nouns
+## Nouns
 
 Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ](nasin-nimi.md#thing)s, i.e. they imply a specific **ijo** and have a less specific meaning as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
 
@@ -192,17 +245,7 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ](nasin-nimi.md#thing)s, i.e. 
 | **pan** | *seed* | *falling* |
 | **tenpo** | *time* | *temporary* |
 
-#### Body Parts
-
-| ɴᴏᴜɴ → ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
-|:-|:-|:-|
-| **kili** | *fruit* | *hanging* |
-| **monsi** | *back* | *dorsal*; *endorsing* |
-| **poka** | *side* | *lateral* |
-| **sijelo** | *body*, *physical state* | *alive* |
-| **sinpin** | *front* | *standing*; *blocking* |
-
-#### Forms and States
+### Forms and States
 
 | ɴᴏᴜɴ → ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
@@ -215,18 +258,7 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ](nasin-nimi.md#thing)s, i.e. 
 | **nena** | *protuberance* | *outstanding*, *thick* |
 | **palisa** | *long hard thing* | *long and hard* |
 
-#### Life-Forms
-
-| ʟɪꜰᴇ-ꜰᴏʀᴍ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
-|:-|:-|:-|
-| **akesi** | *amphibian*, *reptile* | *cold-blooded* |
-| **kala** | *fish* | *diving*, *swimming* |
-| **kasi** | *plant* | *vegetating*; *growing* |
-| **pipi** | *insect* | *crawling*, *creeping* |
-| **soweli** | *land mammal* | *warm-blooded* |
-| **waso** | *bird* | *flying*, *winging* |
-
-#### Areas
+### Areas
 
 | ᴀʀᴇᴀ | ɴᴏᴜɴ | lon + ɴᴏᴜɴ |
 |:-|:-|:-|
@@ -236,56 +268,15 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ](nasin-nimi.md#thing)s, i.e. 
 | **supa** | *horizontal surface* | *on* |
 | **weka** | *absence* | *away from* |
 
-#### Numbers
+## [AUXILIARY](nasin-nimi.md#auxiliary)
 
-| ɴᴜᴍʙᴇʀ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
-|:-|:-|:-|
-| **esun** | *sevenfold amount* | *seven* |
-| **mute** | *threefold amount* | *three* |
-
-**pi nanpa pini** (*previous*) and **pi nanpa kama** (*next*) can always be shortened to **pini** and **kama**. Since **kama** and **pini** are not ɴᴜᴍʙᴇʀ ᴀᴅᴊᴇᴄᴛɪᴠᴇs, **pi** isn't omitted.
-
-| (ᴛᴇᴘᴀɴ) tenpo suno pi nanpa pini ⇒ tenpo suno pini | (ᴛᴇᴘᴀɴ) tenpo suno pi nanpa kama ⇒ tenpo suno kama |
-|:-|:-|
-| *previous day*, *yesterday* | *next day*, *tomorrow* |
-
-#### Persons
-
-| ᴘᴇʀꜱᴏɴ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
-|:-|:-|:-|
-| **mama** | *of origin* | *ancestor*, *parent* |
-| **meli** | *feminine* | *feminine person* |
-| **mije** | *masculine* | *masculine person* |
-
-#### Tools
-
-| ᴛᴏᴏʟ | ɴᴏᴜɴ | ᴠᴇʀʙ |
-|:-|:-|:-|
-| **len** | *layer of privacy* | *to hide* |
-| **luka** | *tactile organ* | *to touch*, *manipulate* |
-| **noka** | *organ of locomotion* | *to step on*, *kick* |
-| **palisa** | *finger* | *to point at* |
-| **poki** | *container* | *to collect* |
-| **selo** | *outer form* | *to form* |
-| **tomo** | *indoor space* | *to protect* |
-
-### [Pre-Verbs](nasin-nimi.md#pre-verb)
-
-| ᴘʀᴇ-ᴠᴇʀʙ  | ᴠᴇʀʙ | ᴘʀᴇ-ᴠᴇʀʙ |
+| ᴀᴜxɪʟɪᴀʀʏ  | ᴠᴇʀʙ | ᴀᴜxɪʟɪᴀʀʏ |
 |:-|:-|:-|
 | **open** | *to turn on* | *to be ready to* |
-| **pilin** | *to feel* | *to feel like* |
+| **pilin** | *to feel* | *to feel like*? |
 | **pini** | *to end* | *to stop -ing* |
 
-### [Prepositions](nasin-nimi.md#preposition)
-
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ |
-|:-|:-|:-|
-| **ante** | *different* | *unlike* |
-| **esun** | *other* | *instead of* |
-| **sin** | *additional* | *in addition to* |
-| **supa** | ... | *on* |
-| **taso** | *only* | *without* |
+---
 
 * **lon supa pi supa lape** → **lon supa lape**
 
@@ -294,7 +285,7 @@ Many ɴᴏᴜɴs can be thought of as [ᴛʜɪɴɢ](nasin-nimi.md#thing)s, i.e. 
 * ᴜɴ-ᴘᴏɴᴀ **mi esun lipu e mani.** / **mi esun mani e lipu.** → **mi esun e lipu.**
 * ᴜɴ-ᴘᴏɴᴀ **mi pana e esun tawa** / **mi kepeken esun lon** → **mi esun e lipu.**
 
-### Synonyms
+## Synonyms
 
 | | | | |
 |:-|:-|:-|:-|
@@ -341,7 +332,7 @@ For didactical purposes, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs following a ɴᴏ
 | [Playful Hieroglyphs](#playful-hieroglyphs) |
 | [Emoji](#emoji) |
 
-## Ascii
+# Ascii
 
 | nanpa wan la o pu. → `#1)` o pu. |
 |:-|
@@ -351,7 +342,7 @@ For didactical purposes, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs following a ɴᴏ
 |:-|:-|
 | *four* | `2+2 = 2×2` |
 
-## Playful Hieroglyphs
+# Playful Hieroglyphs
 *(sitelen pona musi)*
 
 | <img src="sitelen/pona/toki-pona.png" height="25"> |  <img src="sitelen/pona/sitelen-pona-musi.png" height="25"> | <img src="sitelen/pona/sina-suli-a.png" height="25"> | <img src="sitelen/pona/ma-kanata.png" height="25"> | <img src="sitelen/pona/toki-nanpa-wan.png" height="25"> |
@@ -400,7 +391,7 @@ If **ni:** is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is no
 |:--:| 
 | **mi weka e ike jan, la mi weka e ike mi.** |
 
-### Toki Pona Proverbs
+## Toki Pona Proverbs
 
 | <img src="sitelen/pona/ale-li-jo-e-tenpo.png" height="50"> | 
 |:--| 
@@ -510,7 +501,7 @@ If **ni:** is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is no
 |:--| 
 | **utala li ike.** | 
 
-### Famous Quotations
+## Famous Quotations
 
 | <img src="sitelen/pona/o-weka-e-nimi-ike.png" height="50"> | 
 |:--| 
@@ -548,7 +539,7 @@ If **ni:** is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is no
 |:--| 
 | **sina ken ala toki e ijo lon toki pona, la sina sona pona ala e ona.** | 
 
-## Emoji
+# Emoji
 
 | | | | | | | | | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
