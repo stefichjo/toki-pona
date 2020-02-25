@@ -9,9 +9,9 @@
 
 ## Grammar
 
-A *comma* between two ɪᴍᴘᴇʀᴀᴛɪᴠᴇ or ᴠᴏᴄᴀᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
+A *comma* between two ᴠᴏʟɪᴛɪᴠᴇ or ɪᴍᴘᴇʀᴀᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
 
-| o pilin pona! o pu! → o pilin pona o pu! |
+| o pilin pona! o pu! → o pilin pona, o pu! → o pilin pona o pu! |
 |:-|
 | *Be happy and read the Official Toki Pona book!* |
 
