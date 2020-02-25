@@ -4,6 +4,7 @@
 |:-|
 | [Grammar](#grammar): [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause), [ᴘᴀꜱꜱɪᴠᴇ](#passive), [ᴄᴏɴᴛᴇxᴛ](#context) |
 | [Vocabulary](#vocabulary) |
+| [Dictionary](#dictionary) |
 | [Punctuation](#punctuation) |
 | [Orthography](#orthography) |
 
@@ -156,6 +157,8 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 #### [THING](nasin-nimi.md#thing)
 
+---
+
 | ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **kili** | - | *hanging* |
@@ -179,7 +182,30 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **nanpa** | - | …: *current*, …: *next*, …: *previous*; *last* |
 | **nasin** | - | *ordinary*, *usual* |
 | **pan** | *seed* | *falling* |
-| **tenpo** | - | *temporary* |
+| **tenpo** | - | *transitory* |
+
+| ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **ko** | - | *semi-solid* |
+| **kon** | - | *floating*, *hovering* |
+| **linja** | - | *long and flexible* |
+| **lipu** | - | *flat*, *thin* |
+| **lupa** | - | *hollow* |
+| **ma** | - | *firm*: *to tie* |
+| **nena** | - | *outstanding*, *thick* |
+| **palisa** | - | *long and hard* |
+
+##### [AREA](nasin-nimi.md#area)
+
+| ᴀʀᴇᴀ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **awen** | *duration*: *for* | …: *present* |
+
+
+| **open** | *duration* | *before*, *in the beginning* |
+| **pini** | *ended* | *after*, *in the end* |
+| **supa** | *horizontal surface* | *on* |
+| **weka** | *absence* | *away from* |
 
 ##### [TOOL](nasin-nimi.md#tool)
 
@@ -235,31 +261,6 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **mu** | *(indifference)* | *-ish*, *sort-of*; *blah* |
 
 ---
-
-## Nouns
-
-### Forms and States
-
-| ɴᴏᴜɴ → ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
-|:-|:-|:-|
-| **ko** | *semi-solid* | *semi-solid* |
-| **kon** | *air* | *floating*, *hovering* |
-| **linja** | *long and flexible thing* | *long and flexible* |
-| **lipu** | *flat object* | *flat*, *thin* |
-| **lupa** | *hole* | *hollow* |
-| **ma** | *land* | *firm* |
-| **nena** | *protuberance* | *outstanding*, *thick* |
-| **palisa** | *long hard thing* | *long and hard* |
-
-### Areas
-
-| ᴀʀᴇᴀ | ɴᴏᴜɴ | lon + ɴᴏᴜɴ |
-|:-|:-|:-|
-| **awen** | *duration* | *during* |
-| **open** | *duration* | *before*, *in the beginning* |
-| **pini** | *ended* | *after*, *in the end* |
-| **supa** | *horizontal surface* | *on* |
-| **weka** | *absence* | *away from* |
 
 ## [AUXILIARY](nasin-nimi.md#auxiliary)
 
