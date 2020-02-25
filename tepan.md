@@ -13,7 +13,7 @@ A *comma* between two ᴠᴏʟɪᴛɪᴠᴇ or ɪᴍᴘᴇʀᴀᴛɪᴠᴇ ᴘʜ
 
 | o pilin pona! o pu! → o pilin pona, o pu! → o pilin pona o pu! |
 |:-|
-| *Be happy and read the Official Toki Pona book!* |
+| *Be happy and read the official Toki Pona book!* |
 
 ### SUBORDINATE CLAUSE
 
