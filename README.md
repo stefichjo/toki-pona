@@ -10,14 +10,13 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 | [Toki Pona Word Classes, Parts of Speech and Dictionary](nasin-nimi.md) |
 |:-|
-| [Playful Orthography](nasin-sitelen.md) |
-| [Playful Dialects: Prequels, Sequels ans Spin-Offs](toki-sin.md) |
-| |
 | [Community Toki Pona (ꜱᴏɴᴊᴀ)](sonja.md) |
 | [Frontier Toki Pona (ᴛᴇᴘᴀɴ)](tepan.md) |
 | |
 | [Traditional Toki Pona (ᴘɪᴊᴇ)](pije.md) |
 | [Dialectal Toki Pona (ᴋɪᴘᴏ)](kipo.md) |
+| |
+| [Playful Dialects: Prequels, Sequels ans Spin-Offs](toki-sin.md) |
 
 ## Examples
 

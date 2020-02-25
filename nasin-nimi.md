@@ -290,13 +290,17 @@ A **ᴠᴏʟɪᴛɪᴠᴇ** can be reduced to the ᴏʙᴊᴇᴄᴛ of the ꜱ�
 #### GENITIVE
 *([nimi lili lawa](#phrase-marker) "pi")*
 
-The **ᴘᴀʀᴛɪᴄʟᴇ** **pi** marks a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that can be translated as a **ɢᴇɴɪᴛɪᴠᴇ** or as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
+The **ᴘᴀʀᴛɪᴄʟᴇ** **pi** marks a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that can be translated as a **ɢᴇɴɪᴛɪᴠᴇ** or as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. A ꜱᴇɴᴛᴇɴᴄᴇs shouldn't have more than one **ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇ**.
+
+| jan pi pona mute |
+|:-|
+| *a person of much good* → *a very good person* |
 
 When the ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ consists of only one [ɴᴏᴜɴ](#noun), **pi** is omitted.
 
-| jan pi pona mute | toki pona |
-|:-|:-|
-| *a person of much good* → *a very good person* | *the language of good* → *the good language* |
+| toki pona |
+|:-|
+| *the language of good* → *the good language* |
 
 #### ACCUSATIVE
 *([nimi lili lawa](#phrase-marker) "e")*

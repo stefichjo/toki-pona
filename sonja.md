@@ -7,7 +7,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [Terminology](#terminology) |
 | [Grammar](#grammar) |
 | [Punctuation](#punctuation) |
-| [Official Toki Pona Dictionary](#official-toki-pona-dictionary) |
 | [Corpus](#corpus) |
 | [Errata](#errata) |
 
@@ -160,8 +159,6 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | tan seme la sina pana e nimi "pona" tawa mi? → tan seme la sina pana e nimi pona tawa mi? |
 |:-|
 | *Why do you call me good?* |
-
-## Official Toki Pona Dictionary
 
 ## Corpus
 
@@ -563,9 +560,9 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 ### Lesson 19
 *(The Frontier)*
 
-### [Toki Pona Proverbs](nasin-sitelen.md#toki-pona-proverbs)
+### [Toki Pona Proverbs](tepan.md#toki-pona-proverbs)
 
-### [Famous Quotations](nasin-sitelen.md#famous-quotations)
+### [Famous Quotations](tepan.md#famous-quotations)
 
 ### The Torah
 
