@@ -250,10 +250,6 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 | ᴀᴜxɪʟɪᴀʀʏ | ᴀᴜxɪʟɪᴀʀʏ | ᴠᴇʀʙ |
 |:-|:-|:-|
-| **pilin** | *to feel like* | *to have the impression that* |
-
-| ᴀᴜxɪʟɪᴀʀʏ | ᴀᴜxɪʟɪᴀʀʏ | ᴠᴇʀʙ |
-|:-|:-|:-|
 | **awen** | - | *to continue* |
 | **kama** | - | *achieve*; *let* |
 | **open** | *to be ready to* | *to set up* |
@@ -261,6 +257,8 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | | | |
 | **nanpa** | *to be someone's turn to* | *to iterate*; *count*; *calculate* |
 | **tenpo** | *to be busy with* | - |
+| | | |
+| **pilin** | *to feel like* | *to have the impression that* |
 
 #### [PREPOSITION](nasin-nimi.md#preposition)
 
@@ -287,15 +285,15 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 ## Synonyms
 
-| | | | |
-|:-|:-|:-|:-|
-| **ante** | *altered*, *changed*, *different* | **esun** | *other* |
-| **kulupu** | *community*, *company*, *group*, *nation*, *society*, *tribe* | **mute** | *multitude*, *set* |
-| | | **lawa** | *arrangement*, *organization* |
-| **noka** | *lowest part* | **anpa** | *area below or under* |
-| **open** | *to turn on* | **kama** | *to begin*, *start* |
-| **sewi** | *area above* | **lawa** | *highest part* |
-| **tawa** | *moving* | **tan** | *departure* |
+| | ⇒ | |
+|:-|:-|:-|
+| **ante** | **esun** | *other* |
+| **kulupu** | **mute** | *multitude*, *set* |
+| | **lawa** | *arrangement*, *organization* |
+| **noka** | **anpa** | *area below or under* |
+| **open** | **kama** | *to begin*, *start* |
+| **sewi** | **lawa** | *highest part* |
+| **tawa** | **tan** | *departure* |
 
 # Punctuation
 
