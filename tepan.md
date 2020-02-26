@@ -195,18 +195,20 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 ##### [AREA](nasin-nimi.md#area)
 
----
+| ᴀʀᴇᴀ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **awen** | …: *as long as* | …: *present* |
+| **kama** | *upcoming*: *before*, *in the beginning* | - |
+| **open** | *entrance* | - |
+| **pini** | *end*: … *after*, *in the end* | *disappearing*; *closed*, *sealed* |
+| | | |
+| **nanpa** | *someone's turn*: … *currently*, … *next*, … *previously*; *lastly* | *to be someone's turn* |
+| **tenpo** | …: *for* | *transitory* |
 
 | ᴀʀᴇᴀ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
-| **awen** | - | …: *present* |
-| **nanpa** | *someone's turn* | …: *current*, …: *next*, …: *previous*; *last* |
-| **tenpo** | …: *for* | *transitory* |
-| | |
-| **open** | *duration* | *before*, *in the beginning* |
-| **pini** | *ended* | *after*, *in the end* |
-| **supa** | *horizontal surface* | *on* |
-| **weka** | *absence* | *away from* |
+| **supa** | …: *on*; (lon ~~supa~~ supa) *lying* | *horizontal* |
+| **weka** | *distance*: *away from* | - |
 
 ##### [TOOL](nasin-nimi.md#tool)
 
@@ -239,6 +241,22 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **esun** | *7*, *seven* |
 | **mute** | *3*, *three*: *set* |
 
+#### [AUXILIARY](nasin-nimi.md#auxiliary)
+
+| ᴀᴜxɪʟɪᴀʀʏ | ᴀᴜxɪʟɪᴀʀʏ | ᴠᴇʀʙ |
+|:-|:-|:-|
+| **pilin** | *to feel like* | *to have the impression that* |
+
+| ᴀᴜxɪʟɪᴀʀʏ | ᴀᴜxɪʟɪᴀʀʏ | ᴠᴇʀʙ |
+|:-|:-|:-|
+| **awen** | - | *to continue* |
+| **kama** | - | *achieve*; *let* |
+| **open** | *to be ready to* | *to set up* |
+| **pini** | *to stop -ing* | - |
+| | | |
+| **nanpa** | *to be someone's turn to* | *to iterate*; *count*; *calculate* |
+| **tenpo** | *to be busy with* | - |
+
 #### [PREPOSITION](nasin-nimi.md#preposition)
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
@@ -260,25 +278,6 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **a** | - | *indeed*; *still*, *too*; *yes* |
 | **ala** | *(negation)* | *not*, *no* |
 | **mu** | *(indifference)* | *-ish*, *sort-of*; *blah* |
-
----
-
-## [AUXILIARY](nasin-nimi.md#auxiliary)
-
-| ᴀᴜxɪʟɪᴀʀʏ  | ᴠᴇʀʙ | ᴀᴜxɪʟɪᴀʀʏ |
-|:-|:-|:-|
-| **open** | *to turn on* | *to be ready to* |
-| **pilin** | *to feel* | *to feel like*? |
-| **pini** | *to end* | *to stop -ing* |
-
----
-
-* **lon supa pi supa lape** → **lon supa lape**
-
-* ᴘᴏɴᴀ **mi kama jo e lipu lon esun.**
-* ᴛᴇᴘᴀɴ **mi kama jo e lipu esun mani.** / **mi pana e mani esun lipu.**
-* ᴜɴ-ᴘᴏɴᴀ **mi esun lipu e mani.** / **mi esun mani e lipu.** → **mi esun e lipu.**
-* ᴜɴ-ᴘᴏɴᴀ **mi pana e esun tawa** / **mi kepeken esun lon** → **mi esun e lipu.**
 
 ## Synonyms
 
