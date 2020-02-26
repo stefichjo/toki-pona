@@ -148,6 +148,10 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 ### [NOUN](nasin-nimi.md#noun)
 
+| ɴᴏᴜɴ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **ijo** | - | *something's* |
+
 #### [PERSON](nasin-nimi.md#person)
 
 | ᴘᴇʀꜱᴏɴ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
@@ -197,12 +201,12 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 | ᴀʀᴇᴀ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
-| **awen** | …: *as long as* | …: *present* |
-| **kama** | *upcoming*: *before*, *in the beginning* | - |
+| **awen** | …: *as long as*, *while* | *present*; *current* |
+| **kama** | *upcoming*: *before*, *in the beginning* | *next* |
 | **open** | *entrance* | - |
-| **pini** | *end*: … *after*, *in the end* | *disappearing*; *closed*, *sealed* |
+| **pini** | *end*: *after*, *in the end* | *previous*, *last*; *disappearing*; *closed*, *sealed* |
 | | | |
-| **nanpa** | *someone's turn*: … *currently*, … *next*, … *previously*; *lastly* | *to be someone's turn* |
+| **nanpa** | *someone's turn* | *to be someone's turn* |
 | **tenpo** | …: *for* | *transitory* |
 
 | ᴀʀᴇᴀ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
@@ -234,6 +238,10 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 ### [MODIFIER](nasin-nimi.md#modifier)
 
+| ᴍᴏᴅɪꜰɪᴇʀ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|
+| **ike** | *to deceive* |
+
 #### [NUMBER](nasin-nimi.md#number)
 
 | ɴᴜᴍʙᴇʀ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
@@ -261,7 +269,8 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
-| **ante** | *instead of* | …: *than*, *unlike* |
+| **ante** | *instead of* | : *than*, *unlike* |
+| **esun** | - | : *exchange* |
 | **sin** | *in addition to*, *with* | - |
 | **taso** | *free from*, *independent from*, *without* | *just* |
 
