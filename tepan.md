@@ -316,7 +316,7 @@ For didactical purposes, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs following a ɴᴏ
 |:-|
 | **jan:Sonja** |
 | **toki:nanpa:wan** |
-| **mi lukin e meli pimeja: lon sinpin tomo.** |
+| **mi lukin e meli-pimeja: lon sinpin-tomo.** |
 
 # Orthography
 *(nasin sitelen pi [toki pona](README.md))*
