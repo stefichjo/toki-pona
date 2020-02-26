@@ -164,7 +164,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 |:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* | *pair dance* |
 
-ꜱᴏɴᴊᴀ introduces a ["more complex and precise counting system"](sonja.md#lesson-12), where **ɴᴜᴍʙᴇʀ**s can be used as **ᴘᴀʀᴛɪᴄʟᴇ**s, adding them (and their numeric value) one after another.
+ꜱᴏɴᴊᴀ introduces a ["more complex and precise counting system"](sonja.md#lesson-12), where **ɴᴜᴍʙᴇʀ**s can be used as [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)s, adding them (and their numeric value) one after another.
 
 | palisa luka tu |
 |:-|
