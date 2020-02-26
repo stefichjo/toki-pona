@@ -124,6 +124,12 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 |:-|
 | ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to use eyes on*, *to see* |
 
+ꜱᴏɴᴊᴀ allows all ɴᴏᴜɴs to be used as [ᴛᴏᴏʟ ɴᴏᴜɴ](#tool)s, i.e. they can be converted into a ᴠᴇʀʙ implying *usage*.
+
+| ᴛʜɪɴɢ → ᴛᴏᴏʟ telo |
+|:-|
+| ɴᴏᴜɴ *water* → <br>ᴠᴇʀʙ *to use water on*, *to wash* |
+
 #### LIFE-FORM
 *([nimi suli lawa ijo](#thing) sijelo)*
 
@@ -157,6 +163,12 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 | ɴᴜᴍʙᴇʀ tu | tawa musi pi jan tu |
 |:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* | *pair dance* |
+
+ꜱᴏɴᴊᴀ introduces a ["more complex and precise counting system"](sonja.md#lesson-12), where **ɴᴜᴍʙᴇʀ**s can be used as **ᴘᴀʀᴛɪᴄʟᴇ**s, adding them (and their numeric value) one after another.
+
+| palisa luka tu |
+|:-|
+| *seven fingers* |
 
 ### VERB
 *([nimi suli poka](#modifier) luka)*

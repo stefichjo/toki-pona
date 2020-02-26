@@ -5,7 +5,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | |
 |:-|
 | [Terminology](#terminology) |
-| [Grammar](#grammar) |
 | [Punctuation](#punctuation) |
 | [Corpus](#corpus) |
 | [Errata](#errata) |
@@ -77,20 +76,6 @@ The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
 | [**tan seme la**](#lesson-14) | ꜰʀᴀɢᴍᴇɴᴛ | ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ |
-
-## Grammar
-
-Every ɴᴏᴜɴ can be used as a [ᴛᴏᴏʟ ɴᴏᴜɴ](nasin-nimi.md#tool), i.e. it can be [converted](#lesson-18) into a ᴠᴇʀʙ implying *usage*.
-
-| ᴛʜɪɴɢ → ᴛᴏᴏʟ telo |
-|:-|
-| ɴᴏᴜɴ *water* → <br>ᴠᴇʀʙ *to use water on*, *to wash* |
-
-ꜱᴏɴᴊᴀ introduces a ["more complex and precise counting system"](#lesson-12), where [ɴᴜᴍʙᴇʀ](nasin-nimi.md#number)s can be used as ᴘᴀʀᴛɪᴄʟᴇs, adding them (and their numeric value) one after another.
-
-| palisa luka tu |
-|:-|
-| *seven fingers* |
 
 ## Punctuation
 
