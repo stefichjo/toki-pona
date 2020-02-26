@@ -170,7 +170,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 ### AUXILIARY
 *([nimi suli poka](#modifier) monsi)*
 
-When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ share the same ꜱᴜʙᴊᴇᴄᴛ, their two ᴍᴀɪɴ ᴠᴇʀʙs can merge, provided the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's ᴍᴀɪɴ ᴠᴇʀʙ is an **ᴀᴜxɪʟɪᴀʀʏ**.
+When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ share the same ꜱᴜʙᴊᴇᴄᴛ, their two ᴍᴀɪɴ ᴠᴇʀʙs can merge, provided the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's ᴍᴀɪɴ ᴠᴇʀʙ is an **ᴀᴜxɪʟɪᴀʀʏ**. A ᴍᴀɪɴ ᴠᴇʀʙ shouldn't have more than one ᴀᴜxɪʟɪᴀʀʏ.
 
 | ᴀᴜxɪʟɪᴀʀʏ sona | mi sona e nasin ni: mi anpa. → mi sona anpa. |
 |:-|:-|

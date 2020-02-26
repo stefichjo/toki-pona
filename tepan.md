@@ -2,7 +2,7 @@
 
 | |
 |:-|
-| [Grammar](#grammar): [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause), [ᴘᴀꜱꜱɪᴠᴇ](#passive), [ᴄᴏɴᴛᴇxᴛ](#context) |
+| [Grammar](#grammar): [ᴀᴜxɪʟɪᴀʀʏ](#auxiliary) [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause), [ᴘᴀꜱꜱɪᴠᴇ](#passive), [ᴄᴏɴᴛᴇxᴛ](#context) |
 | [Vocabulary](#vocabulary) |
 | [Dictionary](#dictionary) |
 | [Punctuation](#punctuation) |
@@ -15,6 +15,14 @@ A *comma* between two ᴠᴏʟɪᴛɪᴠᴇ or ɪᴍᴘᴇʀᴀᴛɪᴠᴇ ᴘʜ
 | o pilin pona! o pu! → o pilin pona, o pu! → o pilin pona o pu! |
 |:-|
 | *Be happy and read the official Toki Pona book!* |
+
+## AUXILIARY
+
+A ᴍᴀɪɴ ᴠᴇʀʙ can have more than one ᴀᴜxɪʟɪᴀʀʏ.
+
+| mi wile ~~kama~~ sona e toki pona. → mi wile kama sona e toki pona. |
+|:-|
+| I want to learn Toki Pona.
 
 ## SUBORDINATE CLAUSE
 
