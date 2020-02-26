@@ -219,7 +219,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **luka** | - | *to manipulate*, *touch* |
 | **noka** | - | *to step on*, *kick* |
 | **palisa** | *finger* | *to point at* |
-| **poki** | *bladder* | *collect* |
+| **poki** | *bladder* | *to collect* |
 | **selo** | - | *to form* |
 
 ##### [LIFE-FORM](nasin-nimi.md#life-form)
