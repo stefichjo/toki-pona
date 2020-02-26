@@ -335,7 +335,7 @@ For didactical purposes, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs following a ɴᴏ
 
 | tu tu → `4` → `2×2` | tu en tu sama tu tu → `2+2 = 2×2` |
 |:-|:-|
-| *four* | `2+2 = 2×2` |
+| *four* | *two plus two equals four* |
 
 # Playful Hieroglyphs
 *(sitelen pona musi)*
