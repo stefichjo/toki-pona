@@ -2,7 +2,7 @@
 
 | |
 |:-|
-| [Grammar](#grammar): [ᴀᴜxɪʟɪᴀʀʏ](#auxiliary) [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause), [ᴘᴀꜱꜱɪᴠᴇ](#passive), [ᴄᴏɴᴛᴇxᴛ](#context) |
+| [Grammar](#grammar): [ᴀᴜxɪʟɪᴀʀʏ](#auxiliary), [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause), [ᴘᴀꜱꜱɪᴠᴇ](#passive), [ᴄᴏɴᴛᴇxᴛ](#context) |
 | [Vocabulary](#vocabulary) |
 | [Dictionary](#dictionary) |
 | [Punctuation](#punctuation) |
@@ -20,7 +20,7 @@ A *comma* between two ᴠᴏʟɪᴛɪᴠᴇ or ɪᴍᴘᴇʀᴀᴛɪᴠᴇ ᴘʜ
 
 A ᴍᴀɪɴ ᴠᴇʀʙ can have more than one ᴀᴜxɪʟɪᴀʀʏ.
 
-| mi wile ~~kama~~ sona e toki pona. → mi wile kama sona e toki pona. |
+| mi wile sona e toki pona. → mi wile kama sona e toki pona. |
 |:-|
 | I want to learn Toki Pona.
 
@@ -169,41 +169,30 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 #### [THING](nasin-nimi.md#thing)
 
----
-
-| ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
-|:-|:-|:-|
-| **kili** | - | *hanging* |
-| **monsi** | - | *dorsal*; *endorsing* |
-| **poka** | - | *lateral* |
-| **sijelo** | *life-form* | *alive* |
-| **sinpin** | *something upright* | *upright*; *barring*, *blocking* |
-
 | ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **jaki** | *dirt*, *poison*, *waste* | - |
-| **lete** | *frost*, *ice* | - |
-| **pimeja** | *shadow* | - |
-| **suli** | *cargo* | *responsible* |
-| **wawa** | *force* | - |
-
-| ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
-|:-|:-|:-|
-| **mani** | - | *domesticated*, *refined*; *valuable* |
-| **mun** | - | *sky-walking* |
-| **nasin** | - | *ordinary*, *usual* |
-| **pan** | *seed* | *falling* |
-
-| ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
-|:-|:-|:-|
+| **kili** | - | *hanging* |
 | **ko** | - | *semi-solid* |
 | **kon** | - | *floating*, *hovering* |
 | **linja** | - | *long and flexible* |
 | **lipu** | - | *flat*, *thin* |
+| **lete** | *frost*, *ice* | - |
 | **lupa** | - | *hollow* |
 | **ma** | - | *firm*: *to tie* |
+| **mani** | - | *domesticated*, *refined*; *valuable* |
+| **monsi** | - | *dorsal*; *endorsing* |
+| **mun** | - | *sky-walking* |
+| **nasin** | - | *ordinary*, *usual* |
 | **nena** | - | *outstanding*, *thick* |
 | **palisa** | - | *long and hard* |
+| **pan** | *seed* | *falling* |
+| **pimeja** | *shadow* | - |
+| **poka** | - | *lateral* |
+| **sijelo** | *life-form* | *alive* |
+| **sinpin** | *something upright* | *upright*; *barring*, *blocking* |
+| **suli** | *cargo* | *responsible* |
+| **wawa** | *force* | - |
 
 ##### [AREA](nasin-nimi.md#area)
 
@@ -343,7 +332,7 @@ For didactical purposes, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs following a ɴᴏ
 | [Playful Hieroglyphs](#playful-hieroglyphs) |
 | [Emoji](#emoji) |
 
-# Ascii
+## Ascii
 
 | nanpa wan la o pu. → `#1)` o pu. |
 |:-|
@@ -353,7 +342,7 @@ For didactical purposes, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs following a ɴᴏ
 |:-|:-|
 | *four* | *two plus two equals four* |
 
-# Playful Hieroglyphs
+## Playful Hieroglyphs
 *(sitelen pona musi)*
 
 | <img src="sitelen/pona/toki-pona.png" height="25"> |  <img src="sitelen/pona/sitelen-pona-musi.png" height="25"> | <img src="sitelen/pona/sina-suli-a.png" height="25"> | <img src="sitelen/pona/ma-kanata.png" height="25"> | <img src="sitelen/pona/toki-nanpa-wan.png" height="25"> |
@@ -550,7 +539,7 @@ If **ni:** is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is no
 |:--| 
 | **sina ken ala toki e ijo lon toki pona, la sina sona pona ala e ona.** | 
 
-# Emoji
+## Emoji
 
 | | | | | | | | | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
