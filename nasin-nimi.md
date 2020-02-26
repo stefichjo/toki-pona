@@ -126,9 +126,9 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 
 ꜱᴏɴᴊᴀ allows all ɴᴏᴜɴs to be used as [ᴛᴏᴏʟ ɴᴏᴜɴ](#tool)s, i.e. they can be converted into a ᴠᴇʀʙ implying *usage*.
 
-| ᴛʜɪɴɢ → ᴛᴏᴏʟ telo |
+| ᴛʜɪɴɢ → ᴛᴏᴏʟ seli |
 |:-|
-| ɴᴏᴜɴ *water* → <br>ᴠᴇʀʙ *to use water on*, *to wash* |
+| ɴᴏᴜɴ *cooking element* → <br>ᴠᴇʀʙ *to cook* |
 
 #### LIFE-FORM
 *([nimi suli lawa ijo](#thing) sijelo)*
