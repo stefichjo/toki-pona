@@ -182,7 +182,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **ma** | - | *firm*: *to tie* |
 | **mani** | - | *domesticated*, *refined*; *valuable* |
 | **monsi** | - | *dorsal*; *endorsing* |
-| **mun** | - | *sky-walking* |
+| **mun** | - | *orbiting*, *sky-walking* |
 | **nasin** | - | *ordinary*, *usual* |
 | **nena** | - | *outstanding*, *thick* |
 | **palisa** | - | *long and hard* |
@@ -219,7 +219,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **luka** | - | *to manipulate*, *touch* |
 | **noka** | - | *to step on*, *kick* |
 | **palisa** | *finger* | *to point at* |
-| **poki** | *bladder* | *to be full of*, *collect* |
+| **poki** | *bladder* | *collect* |
 | **selo** | - | *to form* |
 
 ##### [LIFE-FORM](nasin-nimi.md#life-form)
