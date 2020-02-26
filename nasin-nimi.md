@@ -124,7 +124,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 |:-|
 | ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to use eyes on*, *to see* |
 
-ꜱᴏɴᴊᴀ allows all ɴᴏᴜɴs to be used as [ᴛᴏᴏʟ ɴᴏᴜɴ](#tool)s, i.e. they can be converted into a ᴠᴇʀʙ implying *usage*.
+ꜱᴏɴᴊᴀ allows all ɴᴏᴜɴs to be used as **ᴛᴏᴏʟ ɴᴏᴜɴ**s, i.e. they can be converted into a ᴠᴇʀʙ implying *usage*.
 
 | ᴛʜɪɴɢ → ᴛᴏᴏʟ seli |
 |:-|
