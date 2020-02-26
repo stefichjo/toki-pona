@@ -179,10 +179,8 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 |:-|:-|:-|
 | **mani** | - | *domesticated*, *refined*; *valuable* |
 | **mun** | - | *sky-walking* |
-| **nanpa** | - | …: *current*, …: *next*, …: *previous*; *last* |
 | **nasin** | - | *ordinary*, *usual* |
 | **pan** | *seed* | *falling* |
-| **tenpo** | - | *transitory* |
 
 | ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
@@ -197,11 +195,14 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 ##### [AREA](nasin-nimi.md#area)
 
+---
+
 | ᴀʀᴇᴀ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
-| **awen** | *duration*: *for* | …: *present* |
-
-
+| **awen** | - | …: *present* |
+| **nanpa** | *someone's turn* | …: *current*, …: *next*, …: *previous*; *last* |
+| **tenpo** | …: *for* | *transitory* |
+| | |
 | **open** | *duration* | *before*, *in the beginning* |
 | **pini** | *ended* | *after*, *in the end* |
 | **supa** | *horizontal surface* | *on* |
