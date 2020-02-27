@@ -564,9 +564,9 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 ### Lesson 19
 *(The Frontier)*
 
-### [Toki Pona Proverbs](tepan.md#toki-pona-proverbs)
+### [Toki Pona Proverbs](musi/sitelen-pona-musi.md#toki-pona-proverbs)
 
-### [Famous Quotations](tepan.md#famous-quotations)
+### [Famous Quotations](musi/sitelen-pona-musi.md#famous-quotations)
 
 ### The Torah
 
