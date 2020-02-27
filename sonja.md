@@ -5,7 +5,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | |
 |:-|
 | [Terminology](#terminology) |
-| [Grammar](#Grammar): [ᴛᴏᴏʟ](#tool), [ɴᴜᴍʙᴇʀ](#number) |
+| [Grammar](#Grammar) |
 | [Punctuation](#punctuation) |
 | [Corpus](#corpus) |
 | [Errata](#errata) |
