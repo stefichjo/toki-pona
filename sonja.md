@@ -80,15 +80,15 @@ The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ
 
 ## Grammar
 
-### TOOL
+### [TOOL](nasin-nimi.md#tool)
 
-ꜱᴏɴᴊᴀ allows all ɴᴏᴜɴs to be used as **ᴛᴏᴏʟ ɴᴏᴜɴ**s, i.e. they can be converted into a ᴠᴇʀʙ implying *usage*.
+ꜱᴏɴᴊᴀ allows all ɴᴏᴜɴs to be used as [**ᴛᴏᴏʟ ɴᴏᴜɴ**](nasin-nimi.md#tool)s, i.e. they can be converted into a ᴠᴇʀʙ implying *usage*.
 
 | ᴛʜɪɴɢ → ᴛᴏᴏʟ seli |
 |:-|
 | ɴᴏᴜɴ *cooking element* → <br>ᴠᴇʀʙ *to cook* |
 
-### NUMBER
+### [NUMBER](nasin-nimi#number)
 
 ꜱᴏɴᴊᴀ introduces a ["more complex and precise counting system"](#lesson-12), where [**ɴᴜᴍʙᴇʀ**](nasin-nimi.md#number)s can be used as [**ᴘᴀʀᴛɪᴄʟᴇ**](nasin-nimi.md#particle)s, adding them (and their numeric value) one after another.
 
