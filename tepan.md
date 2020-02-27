@@ -348,49 +348,49 @@ For didactical purposes, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs following a ɴᴏ
 ## Playful Hieroglyphs
 *(sitelen pona musi)*
 
-| <img src="sitelen/pona/toki-pona.png" height="25"> |  <img src="sitelen/pona/sitelen-pona-musi.png" height="25"> | <img src="sitelen/pona/sina-suli-a.png" height="25"> | <img src="sitelen/pona/ma-kanata.png" height="25"> | <img src="sitelen/pona/toki-nanpa-wan.png" height="25"> |
+| <img src="musi/pona/toki-pona.png" height="25"> |  <img src="musi/pona/sitelen-pona-musi.png" height="25"> | <img src="musi/pona/sina-suli-a.png" height="25"> | <img src="musi/pona/ma-kanata.png" height="25"> | <img src="musi/pona/toki-nanpa-wan.png" height="25"> |
 |:--:|:--:|:--:|:--:|:--:|
 | **toki pona** | **sitelen pona musi** | **sina suli a!** | **ma Kanata** | **toki nanpa wan** |
 
 ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀs are written below.
 
-| <img src="sitelen/pona/ale-li-pona.png" height="50"> | <img src="sitelen/pona/jan-ala-li-ike.png" height="50"> | <img src="sitelen/pona/mi-o-moku-e-ijo-pona.png" height="50"> | <img src="sitelen/pona/o-kute-e-mama-sina.png" height="50"> |
+| <img src="musi/pona/ale-li-pona.png" height="50"> | <img src="musi/pona/jan-ala-li-ike.png" height="50"> | <img src="musi/pona/mi-o-moku-e-ijo-pona.png" height="50"> | <img src="musi/pona/o-kute-e-mama-sina.png" height="50"> |
 |:--:|:--:|:--:|:--:|
 | **ale li pona.** | **jan ala li ike.** | **mi o moku e ijo pona.** | **o kute e mama sina.** |
 
 ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are written above.
 
-| <img src="sitelen/pona/mi-lon-tomo.png" height="50"> | <img src="sitelen/pona/wawa-li-lon-insa.png" height="75"> | <img src="sitelen/pona/mi-pana-e-kala-tawa-ona-lon-tomo.png" height="75"> | <img src="sitelen/pona/tan-seme-la-soweli-wawa-pimeja-li-moku-e-ona.png" height="75"> |
+| <img src="musi/pona/mi-lon-tomo.png" height="50"> | <img src="musi/pona/wawa-li-lon-insa.png" height="75"> | <img src="musi/pona/mi-pana-e-kala-tawa-ona-lon-tomo.png" height="75"> | <img src="musi/pona/tan-seme-la-soweli-wawa-pimeja-li-moku-e-ona.png" height="75"> |
 |:--:|:--:|:--:|:--:| 
 | **mi lon tomo.** | **wawa li lon insa.** | **mi pana e kala tawa ona lon tomo.** | **tan seme la soweli wawa pimeja li moku e ona?** |
 
 ᴀᴜxɪʟɪᴀʀɪᴇs are written above.
 
-| <img src="sitelen/pona/mi-kama-sona-e-toki-pona.png" height="75"> |
+| <img src="musi/pona/mi-kama-sona-e-toki-pona.png" height="75"> |
 |:--:| 
 | **mi kama sona e toki pona.** |
 
 ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs are written below **ni**.
 
-| <img src="sitelen/pona/mi-sona-e-ni-mi-anpa.png" height="50"> |
+| <img src="musi/pona/mi-sona-e-ni-mi-anpa.png" height="50"> |
 |:--:| 
 | **mi sona e ni: mi anpa.** |
 
 If **ni:** is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is not written below.
 
-| <img src="sitelen/pona/mi-pona-tawa-jan-la-jan-li-pona-tawa-mi.png" height="75"> |
+| <img src="musi/pona/mi-pona-tawa-jan-la-jan-li-pona-tawa-mi.png" height="75"> |
 |:--:| 
 | *~~lon ni,~~ mi pona tawa jan, la jan li pona tawa mi.** |
 
 **taso** is written above.
 
-| <img src="sitelen/pona/taso-mije-en-meli-li-pali-li-pilin-pona.png" height="75"> |
+| <img src="musi/pona/taso-mije-en-meli-li-pali-li-pilin-pona.png" height="75"> |
 |:--:| 
 | **taso mije en meli li pali li pilin pona.** |
 
 ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs, ɴᴜᴍʙᴇʀs, ᴘʀᴏɴᴏᴜɴs and simple ɴᴏᴜɴs don't become part of another ɴᴏᴜɴ in general. They can only become part of another simple ɴᴏᴜɴ.
 
-| <img src="sitelen/pona/mi-weka-e-ike-jan-la-mi-weka-e-ike-mi.png" height="50"> |
+| <img src="musi/pona/mi-weka-e-ike-jan-la-mi-weka-e-ike-mi.png" height="50"> |
 |:--:| 
 | **mi weka e ike jan, la mi weka e ike mi.** |
 
