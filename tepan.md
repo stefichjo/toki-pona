@@ -352,11 +352,15 @@ For didactical purposes, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs following a ɴᴏ
 |:--:|:--:|:--:|:--:|:--:|
 | **toki pona** | **sitelen pona musi** | **sina suli a!** | **ma Kanata** | **toki nanpa wan** |
 
-ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀs are written below.
+ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs, ɴᴜᴍʙᴇʀs, ᴘʀᴏɴᴏᴜɴs and simple ɴᴏᴜɴs don't become part of another ɴᴏᴜɴ in general. They can only become part of another simple ɴᴏᴜɴ.
 
-| <img src="musi/pona/ale-li-pona.png" height="50"> | <img src="musi/pona/jan-ala-li-ike.png" height="50"> | <img src="musi/pona/mi-o-moku-e-ijo-pona.png" height="50"> | <img src="musi/pona/o-kute-e-mama-sina.png" height="50"> |
-|:--:|:--:|:--:|:--:|
-| **ale li pona.** | **jan ala li ike.** | **mi o moku e ijo pona.** | **o kute e mama sina.** |
+| <img src="musi/pona/mi-weka-e-ike-jan-la-mi-weka-e-ike-mi.png" height="50"> |
+|:--:| 
+| **mi weka e ike jan, la mi weka e ike mi.** |
+
+Click [here](musi/sitelen-pona-musi.md) for more examples.
+
+### Content Words
 
 ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are written above.
 
@@ -388,13 +392,13 @@ If **ni:** is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is no
 |:--:| 
 | **taso mije en meli li pali li pilin pona.** |
 
-ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs, ɴᴜᴍʙᴇʀs, ᴘʀᴏɴᴏᴜɴs and simple ɴᴏᴜɴs don't become part of another ɴᴏᴜɴ in general. They can only become part of another simple ɴᴏᴜɴ.
+### Particles
 
-| <img src="musi/pona/mi-weka-e-ike-jan-la-mi-weka-e-ike-mi.png" height="50"> |
-|:--:| 
-| **mi weka e ike jan, la mi weka e ike mi.** |
+ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀs are written below.
 
-Click [here](musi/sitelen-pona-musi.md) for more examples.
+| <img src="musi/pona/ale-li-pona.png" height="50"> | <img src="musi/pona/jan-ala-li-ike.png" height="50"> | <img src="musi/pona/mi-o-moku-e-ijo-pona.png" height="50"> | <img src="musi/pona/o-kute-e-mama-sina.png" height="50"> |
+|:--:|:--:|:--:|:--:|
+| **ale li pona.** | **jan ala li ike.** | **mi o moku e ijo pona.** | **o kute e mama sina.** |
 
 ## Emoji
 
