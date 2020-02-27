@@ -3,7 +3,7 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-The [Toki Pona Dictionary](#toki-pona-dictionary) contains two main **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es: [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s and [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s.
+The [Toki Pona Dictionary](#toki-pona-dictionary) contains two main **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es: [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s and [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s. They are based on how I ([ᴛᴇᴘᴀɴ](tepan.md)) interpret ꜱᴏɴᴊᴀ's [official Toki Pona book](http://www.amazon.com/gp/product/0978292308) plus some extensions.
 
 | |
 |:-|
@@ -118,17 +118,11 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 #### TOOL
 *([nimi suli lawa ijo](#thing) ilo)*
 
-**ᴛᴏᴏʟ ɴᴏᴜɴ**s imply **ilo**.
+**ᴛᴏᴏʟ ɴᴏᴜɴ**s imply **ilo**. (Cf. ꜱᴏɴᴊᴀ's ad-hoc [**ᴛᴏᴏʟ ɴᴏᴜɴ**s](sonja.md#tool).)
 
 | ᴛᴏᴏʟ lukin |
 |:-|
 | ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to use eyes on*, *see* |
-
-ꜱᴏɴᴊᴀ allows all ɴᴏᴜɴs to be used as **ᴛᴏᴏʟ ɴᴏᴜɴ**s, i.e. they can be converted into a ᴠᴇʀʙ implying *usage*.
-
-| ᴛʜɪɴɢ → ᴛᴏᴏʟ seli |
-|:-|
-| ɴᴏᴜɴ *cooking element* → <br>ᴠᴇʀʙ *to cook* |
 
 #### LIFE-FORM
 *([nimi suli lawa ijo](#thing) sijelo)*
@@ -158,17 +152,11 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 ### NUMBER
 *([nimi suli poka](#modifier) nanpa)*
 
-**ɴᴜᴍʙᴇʀ**s are **ᴍᴏᴅɪꜰɪᴇʀ**s that describe *quantities*.
+**ɴᴜᴍʙᴇʀ**s are **ᴍᴏᴅɪꜰɪᴇʀ**s that describe *quantities*. (Cf. ꜱᴏɴᴊᴀ's ["more complex and precise counting system"](sonja.md#number).)
 
 | ɴᴜᴍʙᴇʀ tu | tawa musi pi jan tu |
 |:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* | *pair dance* |
-
-ꜱᴏɴᴊᴀ introduces a ["more complex and precise counting system"](sonja.md#lesson-12), where **ɴᴜᴍʙᴇʀ**s can be used as [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)s, adding them (and their numeric value) one after another.
-
-| palisa luka tu |
-|:-|
-| *seven fingers* |
 
 ### VERB
 *([nimi suli poka](#modifier) luka)*

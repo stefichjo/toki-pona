@@ -4,10 +4,29 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 | |
 |:-|
+| [Grammar](#Grammar): [ᴛᴏᴏʟ](#tool), [ɴᴜᴍʙᴇʀ](#number) |
 | [Terminology](#terminology) |
 | [Punctuation](#punctuation) |
 | [Corpus](#corpus) |
 | [Errata](#errata) |
+
+## Grammar
+
+### TOOL
+
+ꜱᴏɴᴊᴀ allows all ɴᴏᴜɴs to be used as **ᴛᴏᴏʟ ɴᴏᴜɴ**s, i.e. they can be converted into a ᴠᴇʀʙ implying *usage*.
+
+| ᴛʜɪɴɢ → ᴛᴏᴏʟ seli |
+|:-|
+| ɴᴏᴜɴ *cooking element* → <br>ᴠᴇʀʙ *to cook* |
+
+### NUMBER
+
+ꜱᴏɴᴊᴀ introduces a ["more complex and precise counting system"](#lesson-12), where [**ɴᴜᴍʙᴇʀ**](nasin-nimi.md#number)s can be used as [**ᴘᴀʀᴛɪᴄʟᴇ**](nasin-nimi.md#particle)s, adding them (and their numeric value) one after another.
+
+| palisa luka tu |
+|:-|
+| *seven fingers* |
 
 ## Terminology
 
