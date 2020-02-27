@@ -3,7 +3,7 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-The [Toki Pona Dictionary](#toki-pona-dictionary) contains two main **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es: [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s and [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s. They are based on how I ([ᴛᴇᴘᴀɴ](tepan.md)) interpret ꜱᴏɴᴊᴀ's [official Toki Pona book](http://www.amazon.com/gp/product/0978292308) plus some extensions.
+The [Toki Pona Dictionary](#toki-pona-dictionary) contains two main **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es: [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s and [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s. They are based on how I ([ᴛᴇᴘᴀɴ](tepan.md)) interpret ꜱᴏɴᴊᴀ's book.
 
 | |
 |:-|
