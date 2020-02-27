@@ -2,7 +2,7 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-| <img src="sitelen/pona/o-pilin-pona-o-pu.png" height="50"> | 
+| <img src="musi/pona/o-pilin-pona-o-pu.png" height="50"> | 
 |:--:| 
 | *o pilin pona o pu!* |
 
