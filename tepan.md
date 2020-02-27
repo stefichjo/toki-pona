@@ -1,5 +1,9 @@
 # Frontier Toki Pona (ᴛᴇᴘᴀɴ)
 
+This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
+
+This document explains my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book.
+
 | |
 |:-|
 | [Grammar](#grammar): [ᴀᴜxɪʟɪᴀʀʏ](#auxiliary), [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause), [ᴘᴀꜱꜱɪᴠᴇ](#passive), [ᴄᴏɴᴛᴇxᴛ](#context) |
