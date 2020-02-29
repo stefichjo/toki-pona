@@ -199,8 +199,8 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **nena** | - | *outstanding*, *thick* |
 | **palisa** | - | *long and hard* |
 | **pan** | *seed* | *falling* |
-| **pimeja** | *shadow* | - |
-| **poka** | - | *lateral* |
+| **pimeja** | *shadow* | *grey* |
+| **poka** | *square* | *lateral* |
 | **sijelo** | *life-form* | *alive* |
 | **sinpin** | *something upright* | *upright*; *barring*, *blocking* |
 | **suli** | *cargo* | *responsible* |
@@ -219,6 +219,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **noka** | …: *below*, *under*; *depending on* | *lower* |
 | **open** | *entrance* | - |
 | **pini** | *end*: *after*, *in the end* | *previous*, *last*; *disappearing*; *closed*, *sealed* |
+| **poka** | …: *among*; *area surrounding*: *around* | *surrounding* |
 | **supa** | …: *on* | *horizontal* |
 | **tenpo** | …: *for* | *transitory* |
 | **weka** | *distance*: *away from* | …: *space*; *vacuum*, *void* |
