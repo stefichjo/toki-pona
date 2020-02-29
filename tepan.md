@@ -175,6 +175,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 | ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
+| **insa** | *core*, *heart*, *middle* | *internal* |
 | **jaki** | *dirt*, *poison*, *waste* | - |
 | **kili** | - | *hanging* |
 | **ko** | - | *semi-solid* |
@@ -204,22 +205,20 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | ᴀʀᴇᴀ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **awen** | …: *as long as*, *while* | *present*; *current* |
+| **insa** | - | *inner* |
 | **kama** | *upcoming*: *before*, *in the beginning* | *next* |
+| **nanpa** | *someone's turn* | *to be someone's turn* |
 | **open** | *entrance* | - |
 | **pini** | *end*: *after*, *in the end* | *previous*, *last*; *disappearing*; *closed*, *sealed* |
-| | | |
-| **nanpa** | *someone's turn* | *to be someone's turn* |
-| **tenpo** | …: *for* | *transitory* |
-
-| ᴀʀᴇᴀ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
-|:-|:-|:-|
 | **supa** | …: *on* | *horizontal* |
+| **tenpo** | …: *for* | *transitory* |
 | **weka** | *distance*: *away from* | …: *space*; *vacuum*, *void* |
 
 ##### [TOOL](nasin-nimi.md#tool)
 
 | ᴛᴏᴏʟ | ɴᴏᴜɴ | ᴠᴇʀʙ |
 |:-|:-|:-|
+| **insa** | *joint* | *to bridge between* |
 | **len** | - | *to hide* |
 | **luka** | - | *to manipulate*, *touch* |
 | **noka** | - | *to step on*, *kick* |
