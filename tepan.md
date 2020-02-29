@@ -169,6 +169,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | ᴘʀᴏɴᴏᴜɴ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **ona** | *him*, *her*, *them* | *his*, *her*, *its*, *their* |
+| **sina** | *thou*/*thee* | *your* |
 
 #### [PERSON](nasin-nimi.md#person)
 
@@ -276,11 +277,12 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 #### [VERB](nasin-nimi.md#verb)
 
-| ᴠᴇʀʙ | ᴠᴇʀʙ |
+| ᴠᴇʀʙ | ᴠᴇʀʙ | ɴᴏᴜɴ |
 |:-|:-|
-| **jo** | …: *to fetch*, *pick* |
-| **nimi** | *to define* |
-| **olin** | …: *love*: *of love* |
+| **jo** | …: *to fetch*, *pick* | |
+| **nimi** | *to define* | |
+| **olin** | …: *love*: *of love* | |
+| **sitelen** | *to draw*, *indicate*, *project*, *represent*, *sculpture* | *projection*, *sculpture* |
 
 #### [AUXILIARY](nasin-nimi.md#auxiliary)
 
