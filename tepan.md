@@ -243,6 +243,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | ᴍᴏᴅɪꜰɪᴇʀ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|
 | **ike** | …: *to deceive* |
+| **kule** | *brown*, *brownish* |
 
 #### [NUMBER](nasin-nimi.md#number)
 
