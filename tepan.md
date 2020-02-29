@@ -261,6 +261,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 |:-|:-|
 | **jo** | …: *to fetch*, *pick* |
 | **nimi** | *to define* |
+| **olin** | …: *love*: *of love* |
 
 #### [AUXILIARY](nasin-nimi.md#auxiliary)
 
