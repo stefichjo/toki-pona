@@ -248,7 +248,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **pilin** | - | *to sense* |
 | **poki** | *bladder* | *to collect* |
 | **selo** | - | *to form* |
-| **uta** | - | *to suck, taste* |
+| **uta** | - | *to suck, taste* 
 
 ##### [LIFE-FORM](nasin-nimi.md#life-form)
 
@@ -270,6 +270,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **laso** | *bluish*, *green*, *greenish*; *immature* |
 | **pimeja** | *blackish* |
 | **pona** | *basic*, *elementary*, *primitive* |
+| **utala** | *aggressive*: *to provoke* |
 
 #### [NUMBER](nasin-nimi.md#number)
 
