@@ -164,6 +164,12 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 |:-|:-|:-|
 | **ijo** | - | *something's* |
 
+#### [PRONOUN](nasin-nimi.md#pronoun)
+
+| ᴘʀᴏɴᴏᴜɴ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **ona** | *him*, *her*, *them* | *his*, *her*, *its*, *their* |
+
 #### [PERSON](nasin-nimi.md#person)
 
 | ᴘᴇʀꜱᴏɴ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
