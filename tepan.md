@@ -201,11 +201,18 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **pan** | *seed* | *falling* |
 | **pimeja** | *shadow* | *grey* |
 | **poka** | *square* | *lateral* |
+| **seli** | - | *warm*; *cooked* |
 | **sijelo** | *life-form* | *alive* |
 | **sinpin** | *something upright* | *upright*; *barring*, *blocking* |
 | **suli** | *cargo* | *responsible* |
 | **supa** | *lying on*, *sitting on*; *block*; *step*; *ladder*, *stairs* | *sustaining* |
 | **wawa** | *force* | - |
+
+##### [CORRELATIVE](nasin-nimi.md#correlative)
+
+| ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ  | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|:-|
+| **seme** | *which one* | - |
 
 ##### [AREA](nasin-nimi.md#area)
 
