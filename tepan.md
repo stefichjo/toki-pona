@@ -250,6 +250,12 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **esun** | *7*, *seven* |
 | **mute** | *3*, *three*: *set* |
 
+#### [VERB](nasin-nimi.md#verb)
+
+| ɴᴜᴍʙᴇʀ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|
+| **jo** | …: *fetch*, *pick* |
+
 #### [AUXILIARY](nasin-nimi.md#auxiliary)
 
 | ᴀᴜxɪʟɪᴀʀʏ | ᴀᴜxɪʟɪᴀʀʏ | ᴠᴇʀʙ |
@@ -268,8 +274,8 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
-| **ante** | *instead of* | : *than*, *unlike* |
-| **esun** | - | : *exchange* |
+| **ante** | *instead of* | …: *than*, *unlike* |
+| **esun** | - | …: *exchange* |
 | **sin** | *in addition to*, *with* | - |
 | **taso** | *free from*, *independent from*, *without* | *just* |
 
