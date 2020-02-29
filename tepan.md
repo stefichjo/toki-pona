@@ -272,6 +272,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **pimeja** | *blackish* |
 | **pona** | *basic*, *elementary*, *primitive* |
 | **utala** | *aggressive*: *to provoke* |
+| **wile** | *inevitable*, *necessary*: *to enforce* |
 
 #### [NUMBER](nasin-nimi.md#number)
 
@@ -304,6 +305,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **pini** | *to stop -ing* | - |
 | **sona** | - | …: *knowledge* |
 | **tenpo** | *to be busy with* | - |
+| **wile** | *to be bound to*, *can't help but* | *to need*, *require*, *want*, *wish*; *to conclude*; *to decide* |
 
 #### [PREPOSITION](nasin-nimi.md#preposition)
 
