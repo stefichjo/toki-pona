@@ -248,6 +248,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **pilin** | - | *to sense* |
 | **poki** | *bladder* | *to collect* |
 | **selo** | - | *to form* |
+| **uta** | - | *to suck, taste* |
 
 ##### [LIFE-FORM](nasin-nimi.md#life-form)
 
