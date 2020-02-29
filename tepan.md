@@ -276,6 +276,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 |:-|:-|
 | **esun** | *7*, *seven* |
 | **mute** | *3*, *three*: *set* |
+| **tu** | …: *pair*; *four* |
 
 #### [VERB](nasin-nimi.md#verb)
 
