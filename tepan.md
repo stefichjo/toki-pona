@@ -232,6 +232,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **luka** | - | *to manipulate*, *touch* |
 | **noka** | - | *to step on*, *kick* |
 | **palisa** | *finger* | *to point at* |
+| **pilin** | - | *to sense* |
 | **poki** | *bladder* | *to collect* |
 | **selo** | - | *to form* |
 
