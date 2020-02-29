@@ -208,6 +208,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **awen** | …: *as long as*, *while* | *present*; *current* |
 | **insa** | - | *inner* |
 | **kama** | *upcoming*: *before*, *in the beginning* | *next* |
+| **lawa** | - | *main* |
 | **nanpa** | *someone's turn* | *to be someone's turn* |
 | **open** | *entrance* | - |
 | **pini** | *end*: *after*, *in the end* | *previous*, *last*; *disappearing*; *closed*, *sealed* |
@@ -244,7 +245,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 |:-|:-|
 | **ike** | …: *to deceive* |
 | **kule** | *brown*, *brownish* |
-| **laso** | *green*, *greenish*; *immature* |
+| **laso** | *bluish*, *green*, *greenish*; *immature* |
 
 #### [NUMBER](nasin-nimi.md#number)
 
