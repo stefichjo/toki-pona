@@ -310,6 +310,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **a** | - | *indeed*; *still*, *too*; *yes* |
 | **ala** | *(negation)* | - |
 | **mu** | *(indifference)* | *-ish*, *sort-of*; *blah* |
+| **Pu** | *name of the official Toki Pona book*: *the official Toki Pona book*, *"Pu"* | - |
 
 ## Synonyms
 
