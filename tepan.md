@@ -256,6 +256,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **kule** | *brown*, *brownish* |
 | **laso** | *bluish*, *green*, *greenish*; *immature* |
 | **pimeja** | *blackish* |
+| **pona** | *basic*, *elementary*, *primitive* |
 
 #### [NUMBER](nasin-nimi.md#number)
 
