@@ -209,6 +209,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **suli** | *cargo* | *responsible* |
 | **suno** | - | *bright* |
 | **supa** | *lying on*, *sitting on*; *block*; *step*; *ladder*, *stairs* | *sustaining* |
+| **telo** | - | *wet* |
 | **wawa** | *force* | - |
 
 ##### [CORRELATIVE](nasin-nimi.md#correlative)
@@ -284,6 +285,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **nimi** | *to define* | - |
 | **olin** | …: *love*: *of love* | - |
 | **sitelen** | *to draw*, *indicate*, *project*, *represent*, *sculpture* | *projection*, *sculpture* |
+| **toki** | - | *message*, *news* |
 
 #### [AUXILIARY](nasin-nimi.md#auxiliary)
 
