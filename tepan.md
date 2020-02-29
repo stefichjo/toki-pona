@@ -256,9 +256,10 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 #### [VERB](nasin-nimi.md#verb)
 
-| ɴᴜᴍʙᴇʀ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+| ᴠᴇʀʙ | ᴠᴇʀʙ |
 |:-|:-|
-| **jo** | …: *fetch*, *pick* |
+| **jo** | …: *to fetch*, *pick* |
+| **nimi** | *to define* |
 
 #### [AUXILIARY](nasin-nimi.md#auxiliary)
 
