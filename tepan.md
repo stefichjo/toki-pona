@@ -178,6 +178,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **insa** | *core*, *heart*, *middle* | *internal* |
 | **jaki** | *dirt*, *poison*, *waste*; *shame*: *to condemn* | - |
 | **kili** | - | *hanging* |
+| **kiwen** | - | *hard* |
 | **ko** | - | *semi-solid* |
 | **kon** | - | *floating*, *hovering* |
 | **linja** | - | *long and flexible* |
