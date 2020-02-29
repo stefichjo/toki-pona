@@ -210,6 +210,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **kama** | *upcoming*: *before*, *in the beginning* | *next* |
 | **lawa** | - | *main* |
 | **nanpa** | *someone's turn* | *to be someone's turn* |
+| **noka** | …: *below*, *under*; *depending on* | *lower* |
 | **open** | *entrance* | - |
 | **pini** | *end*: *after*, *in the end* | *previous*, *last*; *disappearing*; *closed*, *sealed* |
 | **supa** | …: *on* | *horizontal* |
@@ -305,7 +306,6 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 |:-|:-|:-|
 | **kulupu** | **mute** | *multitude*, *set* |
 | | **lawa** | *arrangement*, *organization* |
-| **noka** | **anpa** | …: *below*, *under*; *depending on* |
 
 # Punctuation
 
