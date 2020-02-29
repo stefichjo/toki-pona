@@ -217,6 +217,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ  | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **seme** | *which one* | - |
+| **wan** | *building block*, *detail*, *element*, *member*, *unit*; *part*, *particle*, *piece*: *to cut something* | *specific* |
 
 ##### [AREA](nasin-nimi.md#area)
 
@@ -279,6 +280,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **esun** | *7*, *seven* |
 | **mute** | *3*, *three*: *set* |
 | **tu** | …: *pair*; *four* |
+| **wan** | …: *singleton* |
 
 #### [VERB](nasin-nimi.md#verb)
 
