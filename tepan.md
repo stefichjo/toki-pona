@@ -203,6 +203,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **poka** | *square* | *lateral* |
 | **seli** | - | *warm*; *cooked* |
 | **sijelo** | *life-form* | *alive* |
+| **sike** | *age*; *lap* | *old*: *to fulfil* |
 | **sinpin** | *something upright* | *upright*; *barring*, *blocking* |
 | **suli** | *cargo* | *responsible* |
 | **supa** | *lying on*, *sitting on*; *block*; *step*; *ladder*, *stairs* | *sustaining* |
@@ -227,6 +228,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **open** | *entrance* | - |
 | **pini** | *end*: *after*, *in the end* | *previous*, *last*; *disappearing*; *closed*, *sealed* |
 | **poka** | …: *among*; *area surrounding*: *around* | *surrounding* |
+| **sewi** | …: *at the top of* | *high*; *upper* |
 | **supa** | …: *on* | *horizontal* |
 | **tenpo** | …: *for* | *transitory* |
 | **weka** | *distance*: *away from* | …: *space*; *vacuum*, *void* |
