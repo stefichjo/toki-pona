@@ -180,6 +180,7 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | [The Ant's Chapter](#the-ants-chapter) |
 | [Writings of Bahá'u'lláh](#writings-of-baháulláh) |
 | [Short Obligatory Prayer](#short-obligatory-prayer) |
+| [Phrase Book](#phrase-book)
 
 ### Preface
 
@@ -627,6 +628,12 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | … You, the Help in Peril, … |
 |:-|
 | *sina awen e ale.* |
+
+### Phrase Book
+
+| mi tawa | tawa pona |
+|:-|:-|
+| *bye (said by the person leaving)* | *bye (said by the person staying)* |
 
 ## Errata
 

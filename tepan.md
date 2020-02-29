@@ -207,6 +207,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **sike** | *age*; *lap* | *old*: *to fulfil* |
 | **sinpin** | *something upright* | *upright*; *barring*, *blocking* |
 | **suli** | *cargo* | *responsible* |
+| **suno** | - | *bright* |
 | **supa** | *lying on*, *sitting on*; *block*; *step*; *ladder*, *stairs* | *sustaining* |
 | **wawa** | *force* | - |
 
