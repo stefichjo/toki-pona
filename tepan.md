@@ -275,6 +275,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **ante** | *instead of* | …: *than*, *unlike* |
+| **kepeken** | - | *usufructuary* |
 | **esun** | - | …: *exchange* |
 | **sin** | *in addition to*, *with* | - |
 | **taso** | *free from*, *independent from*, *without* | *just* |
