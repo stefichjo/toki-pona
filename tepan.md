@@ -196,7 +196,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **sijelo** | *life-form* | *alive* |
 | **sinpin** | *something upright* | *upright*; *barring*, *blocking* |
 | **suli** | *cargo* | *responsible* |
-| **supa** | *lying on*, *sitting on*; *block*; *ladder*, *stairs* | *sustaining* |
+| **supa** | *lying on*, *sitting on*; *block*; *step*; *ladder*, *stairs* | *sustaining* |
 | **wawa** | *force* | - |
 
 ##### [AREA](nasin-nimi.md#area)
@@ -214,7 +214,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | ᴀʀᴇᴀ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **supa** | …: *on* | *horizontal* |
-| **weka** | *distance*: *away from* | - |
+| **weka** | *distance*: *away from* | …: *space*; *vacuum*, *void* |
 
 ##### [TOOL](nasin-nimi.md#tool)
 
