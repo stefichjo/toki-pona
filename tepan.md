@@ -279,9 +279,9 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 | ᴠᴇʀʙ | ᴠᴇʀʙ | ɴᴏᴜɴ |
 |:-|:-|:-|
-| **jo** | …: *to fetch*, *pick* | |
-| **nimi** | *to define* | |
-| **olin** | …: *love*: *of love* | |
+| **jo** | …: *to fetch*, *pick* | - |
+| **nimi** | *to define* | - |
+| **olin** | …: *love*: *of love* | - |
 | **sitelen** | *to draw*, *indicate*, *project*, *represent*, *sculpture* | *projection*, *sculpture* |
 
 #### [AUXILIARY](nasin-nimi.md#auxiliary)
@@ -290,13 +290,12 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 |:-|:-|:-|
 | **awen** | - | *to continue* |
 | **kama** | - | *achieve*; *let* |
-| **open** | *to be ready to* | *to set up* |
-| **pini** | *to stop -ing* | - |
-| | | |
 | **nanpa** | *to be someone's turn to* | *to iterate*; *count*; *calculate* |
-| **tenpo** | *to be busy with* | - |
-| | | |
+| **open** | *to be ready to* | *to set up* |
 | **pilin** | *to feel like* | *to have the impression that* |
+| **pini** | *to stop -ing* | - |
+| **sona** | - | …: *knowledge* |
+| **tenpo** | *to be busy with* | - |
 
 #### [PREPOSITION](nasin-nimi.md#preposition)
 
