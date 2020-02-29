@@ -176,7 +176,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **insa** | *core*, *heart*, *middle* | *internal* |
-| **jaki** | *dirt*, *poison*, *waste* | - |
+| **jaki** | *dirt*, *poison*, *waste*; *shame*: *to condemn* | - |
 | **kili** | - | *hanging* |
 | **ko** | - | *semi-solid* |
 | **kon** | - | *floating*, *hovering* |
