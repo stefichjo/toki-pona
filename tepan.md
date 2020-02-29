@@ -303,13 +303,9 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 | | ⇒ | |
 |:-|:-|:-|
-| **ante** | **esun** | *other* |
 | **kulupu** | **mute** | *multitude*, *set* |
 | | **lawa** | *arrangement*, *organization* |
-| **noka** | **anpa** | *area below or under* |
-| **open** | **kama** | *to begin*, *start* |
-| **sewi** | **lawa** | *highest part* |
-| **tawa** | **tan** | *departure* |
+| **noka** | **anpa** | …: *below*, *under*; *depending on* |
 
 # Punctuation
 
