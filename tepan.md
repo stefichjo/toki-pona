@@ -223,7 +223,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 |:-|:-|:-|
 | **awen** | …: *as long as*, *while* | *present*; *current* |
 | **insa** | - | *inner* |
-| **kama** | *upcoming*: *before*, *in the beginning* | *next* |
+| **kama** | *upcoming*: *before*, *in the beginning*, *since*, *until* | *next* |
 | **lawa** | - | *main* |
 | **nanpa** | *someone's turn* | *to be someone's turn* |
 | **noka** | …: *below*, *under*; *depending on* | *lower* |
