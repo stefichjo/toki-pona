@@ -271,7 +271,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **laso** | *bluish*, *green*, *greenish*; *immature* |
 | **pimeja** | *blackish*; *grey* |
 | **pona** | *basic*, *elementary*, *primitive* |
-| **utala** | *aggressive*: *to provoke* |
+| **utala** | *aggressive*: *to attack*, *provoke* |
 | **wile** | *inevitable*, *necessary*: *to enforce* |
 
 #### [NUMBER](nasin-nimi.md#number)
