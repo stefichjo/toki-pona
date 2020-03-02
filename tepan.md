@@ -200,7 +200,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **nena** | - | *outstanding*, *thick* |
 | **palisa** | - | *long and hard* |
 | **pan** | *seed* | *falling* |
-| **pimeja** | *shadow* | *grey* |
+| **pimeja** | *shadow* | - |
 | **poka** | *square* | *lateral* |
 | **seli** | - | *warm*; *cooked* |
 | **sijelo** | *life-form* | *alive* |
@@ -269,7 +269,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **ike** | …: *to deceive* |
 | **kule** | *brown*, *brownish* |
 | **laso** | *bluish*, *green*, *greenish*; *immature* |
-| **pimeja** | *blackish* |
+| **pimeja** | *blackish*; *grey* |
 | **pona** | *basic*, *elementary*, *primitive* |
 | **utala** | *aggressive*: *to provoke* |
 | **wile** | *inevitable*, *necessary*: *to enforce* |
