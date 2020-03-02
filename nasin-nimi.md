@@ -586,9 +586,9 @@ Extinct synonyms are written as *~~strikethroughs~~*. (Cf. Pije's page of [Extin
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="musi/pona/nena.png" height="50" title="nena"> | [**ᴛʜɪɴɢ**](#thing) *lipu*, **nena**, *sike* (⇐ *~~kapa~~*) <br>ɴᴏᴜɴ **bump**, **hill**, **mountain**, **protuberance**; **button**; (*nena ~~pi sinpin lawa~~*) **nose** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *outstanding*, *thick* |
+| <img src="musi/pona/nena.png" height="50" title="nena"> | [**ᴛʜɪɴɢ**](#thing) *lipu*, **nena**, *sike* (⇐ *~~kapa~~*) <br>ɴᴏᴜɴ **bump**, **hill**, **mountain**, **protuberance**; **button**; (*nena ~~pi sinpin lawa~~*) **nose** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*outstanding*, *thick*](tepan.md#thing) |
 
-Obsolete synonyms (**ali**, **kin**, **namako** and **oko**) and obmissions are written as *~~strikethroughs~~*, too.
+Obsolete synonyms (**ali**, **kin**, **namako** and **oko**) and omissions are written as *~~strikethroughs~~*, too.
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
