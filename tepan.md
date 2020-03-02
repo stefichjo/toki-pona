@@ -199,7 +199,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **nasin** | - | *ordinary*, *usual* |
 | **nena** | - | *outstanding*, *thick* |
 | **palisa** | - | *long and hard* |
-| **pan** | *seed* | *falling* |
+| **pan** | *seed* | *fallen*, *dropped*; *sown* |
 | **pimeja** | *shadow* | - |
 | **poka** | *square* | *lateral* |
 | **seli** | - | *warm*; *cooked* |
