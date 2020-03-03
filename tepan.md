@@ -475,3 +475,28 @@ If **ni:** is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is no
 * ❤️ 💙 💛 → 🔴 🔵 🟡
 * 🖤 🤍 → ⚫ ⚪
 
+## Ascii
+
+
+| | | | | | | | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| `ª` | 🐊 | `0`  | `Đ` | `∞` | `↓` | `≠` | ✖️ | ⏸️ | ⏩ | ➕ | `7` |
+| a | akesi | ala | alasa | ale | anpa | ante | anu | awen | e | en | esun |
+| ⚛️ | 👎 | `Ŧ` | 🎯  | `&` | `Ω` | 💛️ | 👜 | `α` | 🔉 | ⏮️ | 🌱 |
+| ijo | ike | ilo | insa | jaki | jan | jelo | jo | kala | kalama | kama | kasi |
+| `κ` | 🔧 | 🍏 | `♦` | 🧹 | 💨 | 🌈 | 👥 | 👂 | `)` | 😴 | 💙 |
+| ken | kepeken | kili | kiwen | ko | kon | kule | kulupu | kute | la | lape | laso |
+| 🗿 | 👗 | `*` | ▶️ | 👶 | 🧵 | 📄 | ❤️ | ↕️ | `5` | 👁️ | `∪` |
+| lawa | len | lete | li | lili | linja | lipu | loje | lon | luka | lukin | lupa |
+| 🏝 | `8` | 💰 | `♀` | `9` | `♂` | 🍽 | `†` | `←` | 😹 | 🌜 | 🃏 |
+| ma | mama | mani | meli | mi | mije | moku | moli | monsi | mu | mun | musi |
+| `3` | `#` | `@` | ⛖ | `∩` | 👇 | 💬 | 🦶 | `º` | 💕️ | 👆 | 🔓 |
+| mute | nanpa | nasa | nasin | nena | ni | nimi | noka | o | olin | ona | open |
+| 💥 | ✊ | 📏 | 🍞 | 🎁 | `∟` | `♥` | ⚫ | ⏭ | 🦟 | `↔` | 📦 |
+| pakala | pali | palisa | pan | pana | pi | pilin | pimeja | pini | pipi | poka | poki |
+| 👍 | 📖 | `=` | 🔥 | 🔲 | `?` | `↑` | 🏃 | ⭕ | 🌟 | `6` | `→` |
+| pona | pu | sama | seli | selo | seme | sewi | sijelo | sike | sin | sina | sinpin |
+| 🖼 | ℹ️ | 🐈 | 🧓 | 🌞️ | `π` | 🍭 | ↩️ | `T` | ↪️ | `≈` | 🕒 |
+| sitelen | sona | soweli | suli | suno | supa | suwi | tan | taso | tawa | telo | tenpo |
+| 🗣 | 🏠 | `2` | 💏 | `D` | ⚔️ | ⚪ | `1` | 🐤 | ⚡ | ➖ | `ω` |
+| toki | tomo | tu | unpa | uta | utala | walo | wan | waso | wawa | weka | wile |
