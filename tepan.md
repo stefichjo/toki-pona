@@ -156,6 +156,14 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sama** | *-self*, *-selves*; *reciprocal* |
 | ɴᴏᴜɴ **tomo** | *roof* |
 
+* [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
+  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴛʜɪɴɢ**](#thing) ([**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ᴀʀᴇᴀ**](#area), [**ᴛᴏᴏʟ**](#tool), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form))
+  * [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier): [**ɴᴜᴍʙᴇʀ**](#number), [**ᴠᴇʀʙ**](#verb), [**ᴀᴜxɪʟɪᴀʀʏ**](#auxiliary), [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
+* [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
+  * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ**](#mood), [**ᴄᴀꜱᴇ**](#case)
+  * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
+  * [**ꜱᴏᴜɴᴅ**](#sound)
+
 ## [CONTENT WORD](nasin-nimi.md#content-word)
 
 ### [NOUN](nasin-nimi.md#noun)
