@@ -163,23 +163,55 @@ Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to 
 ### Toki Namako
 *([Toki Pona Spin-Off](#spin-offs) with Extended Vocabulary)*
 
-**Toki Namako** is **Toki Pona** without **Pona Style**.
+**Toki Namako** (or **Toki Pona pi Nasin Namako**) is an intermediate, less ***pona*** variant of **Toki Pona**. It is for more abstract descriptions, typically in written form only.
 
 | <img src="musi/pona/toki-namako.png" height="50"> | 
 |:--| 
-| *toki namako* | 
+| *toki namako* |
 
-"Friendly omissions" have to be written out explicitly.
+**Toki Namako** relies heavily on didactic punctuation. ***TODO: Link***
 
-| sinpin → sinpin, sinpin lawa | mute → mute, mute namako | jan lawa → jan lawa, jan lawa wan |
+| jan-sona |
+|:-|
+| *a knowledgeable person* |
+
+**Toki Namako** avoids omissions. (The ~~strikethrough~~ *italic* dictionary forms (in parenthesis) apply.)
+
+| sinpin ⇒ sinpin, sinpin-*sijelo*, sinpin-*lawa* | mute ⇒ mute, mute-*namako* | jan-lawa ⇒ jan-lawa, jan-lawa-*wan* |
 |:-|:-|:-|
-| *wall*, *face* | *many*, *more* | *a/the ruler*, *a certain ruler* |
+| *wall*, *chest*, *face* | *many*, *more* | *a/the ruler*, *a certain ruler* |
 
-"Friendly conflations" are not allowed.
+Auxiliaries can go between another auxiliary and its main verb. ***TODO: Font***
 
-| lon noka → lon noka, lon anpa |
+| mi wile÷sona e toki-pona. → mi wile÷*kama*÷sona e toki-pona. |
+|:-|
+| *I want to know Toki Pona.* → *I want to learn Toki Pona.* |
+
+For the same reason, synonyms are avoided. (The *italic* dictionary forms with a double arrow ⇐ (in parenthesis) apply.)
+
+| lon noka ⇒ lon noka, lon *anpa* |
 |:-|
 | *at the bottom of*, *under* |
+
+#### Modifiers
+
+Prepositions can be modiers. ***TODO: Font***
+
+| meli-pimeja: lon sinpin-tomo, li kute e kalama-musi. |
+|:-|
+| *A black lady in front of the building is listening to music.* |
+
+Verbs can be modifiers. ***TODO: Font***
+
+| jan sona ⇒ jan: *sona*, jan-sona |
+|:-|
+| *a person who knows*, *a knowledgeable person* |
+
+Auxiliaries can be modifiers. ***TODO: Font***
+
+| ona li jan-pona: *kama*÷jo e len-kule lon esun. |
+|:-|
+| *She is a friend who bought red pants.* |
 
 ---
 
@@ -227,6 +259,8 @@ Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to 
 ---
 
 In **Toki Namako**, "sin" is considered to be a conflation of "sin" and "namako". Therefore, **Toki Namako** has 121 words, including "namako".
+
+***TODO***
 
 | ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ᴄʟᴀꜱꜱ | ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
 |:-|:-|:-|:-|
