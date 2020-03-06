@@ -25,10 +25,10 @@ Words in **Tok Bona** are very close to their etymological origin.
 
 | ꜱɪᴛᴇʟᴇɴ | ᴏʀɪɢɪɴ | tok bona | toki pona |
 |:-|:-|:-|:-|
-<img src="musi/pona/kule.png" height="42" title="kuler"> | *FR* couleur | **kuler** | kule |
-<img src="musi/pona/luka.png" height="42" title="ruka"> | *HR* rúka | **ruka** | luka |
-<img src="musi/pona/sin.png" height="42" title="ŝin"> | *ZH* 新 /xīn/ | **ŝin** | sin |
-<img src="musi/pona/sijelo.png" height="42" title="tijelo"> | *HR* tijelo | **tijelo** | sijelo |
+<img src="musi/pona/kule.png" height="50" title="kuler"> | *FR* couleur | **kuler** | kule |
+<img src="musi/pona/luka.png" height="50" title="ruka"> | *HR* rúka | **ruka** | luka |
+<img src="musi/pona/sin.png" height="50" title="ŝin"> | *ZH* 新 /xīn/ | **ŝin** | sin |
+<img src="musi/pona/sijelo.png" height="50" title="tijelo"> | *HR* tijelo | **tijelo** | sijelo |
 
 #### Ijo Ŝin Bona
 *([Toki Pona Prequel](#prequels) without Compound Hieroglyphs)*
@@ -37,32 +37,32 @@ Words in **Tok Bona** are very close to their etymological origin.
 
 | ꜱɪᴛᴇʟᴇɴ | ijo ŝin bona | ijo sin pona | toki pona |
 |:-|:-|:-|:-|
-<img src="musi/pona/jelo.png" height="42" title="jelo"> | **kuler suno** | kule suno | jelo |
-<img src="musi/pona/laso.png" height="42" title="glas"> | **kuler kasvi** | kule kasi | laso |
-<img src="musi/pona/loje.png" height="42" title="roje"> | **kuler usta** | kule uta | loje |
-<img src="musi/pona/pimeja.png" height="42" title="pimea"> | **kuler ara** | kule ala | pimeja |
-<img src="musi/pona/walo.png" height="42" title="valko"> | **kuler vahva** | kule wawa | walo |
-<img src="musi/pona/kepeken.png" height="42" title="ĥebreiken"> | **loŋ ruka e ilo** | lon luka e ilo | kepeken |
-<img src="musi/pona/moku.png" height="42" title="mogu"> | **loŋ ruka e usta** | tawa uta e luka tan | moku |
-<img src="musi/pona/pali.png" height="42" title="fari"> | **loŋ ruka e ijo** | lon luka e ijo | pali |
-<img src="musi/pona/pana.png" height="42" title="pana"> | **loŋ ruka ŝin** | tawa luka sin | pana |
-<img src="musi/pona/kalama.png" height="42" title="galama"> | **usta ŝin** | uta sin | kalama |
-<img src="musi/pona/sona.png" height="42" title="ĉodna"> | **loŋ lipu ŝin** | lon lipu sin | sona |
-<img src="musi/pona/toki.png" height="42" title="tok"> | **ijo ŝin** | ijo sin | toki |
-<img src="musi/pona/kulupu.png" height="42" title="kulupu"> | **multe ijo** | mute ijo | kulupu |
-<img src="musi/pona/olin.png" height="42" title="volim"> | **pilim e pilim** | pilin e pilin | olin |
-<img src="musi/pona/pu.png" height="42" title="buk"> | **loŋ lipu biloŋ ijo ŝin bona** | lon lipu pi ijo sin pona | pu |
-<img src="musi/pona/jo.png" height="42" title="jou"> | **(mi) loŋ mi** | (mi) lon mi | jo |
+<img src="musi/pona/jelo.png" height="50" title="jelo"> | **kuler suno** | kule suno | jelo |
+<img src="musi/pona/laso.png" height="50" title="glas"> | **kuler kasvi** | kule kasi | laso |
+<img src="musi/pona/loje.png" height="50" title="roje"> | **kuler usta** | kule uta | loje |
+<img src="musi/pona/pimeja.png" height="50" title="pimea"> | **kuler ara** | kule ala | pimeja |
+<img src="musi/pona/walo.png" height="50" title="valko"> | **kuler vahva** | kule wawa | walo |
+<img src="musi/pona/kepeken.png" height="50" title="ĥebreiken"> | **loŋ ruka e ilo** | lon luka e ilo | kepeken |
+<img src="musi/pona/moku.png" height="50" title="mogu"> | **loŋ ruka e usta** | tawa uta e luka tan | moku |
+<img src="musi/pona/pali.png" height="50" title="fari"> | **loŋ ruka e ijo** | lon luka e ijo | pali |
+<img src="musi/pona/pana.png" height="50" title="pana"> | **loŋ ruka ŝin** | tawa luka sin | pana |
+<img src="musi/pona/kalama.png" height="50" title="galama"> | **usta ŝin** | uta sin | kalama |
+<img src="musi/pona/sona.png" height="50" title="ĉodna"> | **loŋ lipu ŝin** | lon lipu sin | sona |
+<img src="musi/pona/toki.png" height="50" title="tok"> | **ijo ŝin** | ijo sin | toki |
+<img src="musi/pona/kulupu.png" height="50" title="kulupu"> | **multe ijo** | mute ijo | kulupu |
+<img src="musi/pona/olin.png" height="50" title="volim"> | **pilim e pilim** | pilin e pilin | olin |
+<img src="musi/pona/pu.png" height="50" title="buk"> | **loŋ lipu biloŋ ijo ŝin bona** | lon lipu pi ijo sin pona | pu |
+<img src="musi/pona/jo.png" height="50" title="jou"> | **(mi) loŋ mi** | (mi) lon mi | jo |
 
 Animals are expressed by means of "tijelo".
 
 | ꜱɪᴛᴇʟᴇɴ | ijo ŝin bona | ijo sin pona | toki pona |
 |:-|:-|:-|:-|
-<img src="musi/pona/akesi.png" height="42" title="hagedis"> | **tijelo biloŋ pilim fret** | sijelo pi pilin lete | akesi |
-<img src="musi/pona/kala.png" height="42" title="kala"> | **tijelo delo** | sijelo telo | kala |
-<img src="musi/pona/pipi.png" height="42" title="bibit"> | **tijelo maa** | sijelo ma | pipi |
-<img src="musi/pona/soweli.png" height="42" title="ĉoveli"> | **tijelo biloŋ pilim ĉeli** | sijelo pi pilin seli | soweli |
-<img src="musi/pona/waso.png" height="42" title="wazo"> | **tijelo koŋ** | sijelo kon | waso |
+<img src="musi/pona/akesi.png" height="50" title="hagedis"> | **tijelo biloŋ pilim fret** | sijelo pi pilin lete | akesi |
+<img src="musi/pona/kala.png" height="50" title="kala"> | **tijelo delo** | sijelo telo | kala |
+<img src="musi/pona/pipi.png" height="50" title="bibit"> | **tijelo maa** | sijelo ma | pipi |
+<img src="musi/pona/soweli.png" height="50" title="ĉoveli"> | **tijelo biloŋ pilim ĉeli** | sijelo pi pilin seli | soweli |
+<img src="musi/pona/waso.png" height="50" title="wazo"> | **tijelo koŋ** | sijelo kon | waso |
 
 In **Old Ijo Ŝin Bona**, ᴘᴀʀᴛɪᴄʟᴇs, ᴘʀᴇ-ᴠᴇʀʙs and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs were omitted.
 
@@ -72,7 +72,7 @@ In **Old Ijo Ŝin Bona**, ᴘᴀʀᴛɪᴄʟᴇs, ᴘʀᴇ-ᴠᴇʀʙs and ᴘʀ
 
 In **Old Ijo Ŝin Bona**, all ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs were written into one single **Sitelen Pona**. A dot in compound glyphs was omitted. In general, more variations were allowed.
 
-| <img src="musi/pona/pu.png" height="42"> | <img src="musi/pona/kulupu.png" height="42"> |
+| <img src="musi/pona/pu.png" height="50"> | <img src="musi/pona/kulupu.png" height="50"> |
 |:--:|:--:|
 | *lipu biloŋ ijo ŝin bona* | *multe ijo* |
 
@@ -123,9 +123,9 @@ The vowels "u" and "i" merge with "o" and "e".
 
 | |
 |:-|
-| [Ijo Sin Pona](#ijo-sin-pona)
-| [Toki Namako](#toki-namako)
-| [Toki Pi Pona](#toki-pi-pona)
+| [Ijo Sin Pona](#ijo-sin-pona) |
+| [Toki Namako](#toki-namako): [Toki Nasa](#toki-nasa) |
+| [Toki Pi Pona](#toki-pi-pona) |
 | [Tok Bon](#tok-bon) |
 | [Toko Bona](#toko-bona) |
 
@@ -169,7 +169,7 @@ Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to 
 |:--| 
 | *toki namako* |
 
-**Toki Namako** relies heavily on didactic punctuation. ***TODO: Link***
+**Toki Namako** relies heavily on [punctuation](tepan.md#punctuation).
 
 | jan-sona |
 |:-|
@@ -181,91 +181,51 @@ Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to 
 |:-|:-|:-|
 | *wall*, *chest*, *face* | *many*, *more* | *a/the ruler*, *a certain ruler* |
 
-Auxiliaries can go between another auxiliary and its main verb. ***TODO: Font***
-
-| mi wile÷sona e toki-pona. → mi wile÷*kama*÷sona e toki-pona. |
-|:-|
-| *I want to know Toki Pona.* → *I want to learn Toki Pona.* |
-
 For the same reason, synonyms are avoided. (The *italic* dictionary forms with a double arrow ⇐ (in parenthesis) apply.)
 
 | lon noka ⇒ lon noka, lon *anpa* |
 |:-|
 | *at the bottom of*, *under* |
 
-#### Modifiers
+In **Toki Namako**, **namako** is a synonym of **sin** meaning *additional*, *another*, *extra*. Therefore, **Toki Namako** has 121 words, including **namako**.
 
-Prepositions can be modiers. ***TODO: Font***
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="musi/pona/namako.png" height="50" title="namak"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#nasin-nimi.md#preposition) **namako** — *taso* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ [*in addition to*, *with*](tepan.md#preposition) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **additional**, **another**, **extra** |
+| <img src="musi/pona/sin.png" height="50" title="ŝin"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#nasin-nimi.md##modifier) *jaki* — **sin**, *suwi* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh** |
+
+#### Toki Nasa
+*([Toki Pona Spin-Off](#spin-offs) with un-pona predicates and modifiers)*
+
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can be used as ᴠᴇʀʙs.
+
+| sina pana e ilo tenpo lon poka seme? → sina lon poka seme e ilo tenpo? |
+|:-|
+| *Where did you put the clock next to?* |
+
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be ᴍᴏᴅɪꜰɪᴇʀs.
 
 | meli-pimeja: lon sinpin-tomo, li kute e kalama-musi. |
 |:-|
 | *A black lady in front of the building is listening to music.* |
 
-Verbs can be modifiers. ***TODO: Font***
+ᴠᴇʀʙs can be ᴍᴏᴅɪꜰɪᴇʀs.
 
 | jan sona ⇒ jan: *sona*, jan-sona |
 |:-|
 | *a person who knows*, *a knowledgeable person* |
 
-Auxiliaries can be modifiers. ***TODO: Font***
+ᴀᴜxɪʟɪᴀʀɪᴇs can be ᴍᴏᴅɪꜰɪᴇʀs.
 
 | ona li jan-pona: *kama*÷jo e len-kule lon esun. |
 |:-|
 | *She is a friend who bought red pants.* |
 
----
+ᴀᴜxɪʟɪᴀʀɪᴇs can go between another ᴀᴜxɪʟɪᴀʀʏ and its ᴍᴀɪɴ ᴠᴇʀʙ.
 
-* pana e ijo lon …: lon … e ijo
-* kama jo e ijo tan…: tan … e ijo
-* pana e ijo tawa …: tawa … e ijo
-
-| toki pona | toki namako |
-|:-|:-|
-| **ale** | **wan ale**, **mute ale** |
-| **ante** | **esun** |
-| **ante** | **kama ante** |
-| **awen** | **nanpa awen**, **tenpo awen**, **awen lon** |
-| **esun** | **kama esun**, **tomo pi kama esun**, **ma tomo pi kama esun** |
-| **ike** | **namako ike** |
-| **insa** | **insa sijelo** |
-| **jelo** | **jelo mu** |
-| **kama** | **nanpa awen**, **tenpo awen**, **kama lon** |
-| **kulupu** | **kulupu jan** |
-| **kute** | **kute insa** |
-| **linja** | **linja lawa** |
-| **lon** | **lon a**, **lon awen**, **lon insa**, **lon nasin**, **lon poka** |
-| **lukin** | **lukin wawa** |
-| **lupa** | **lupa tomo**, **lupa suno** |
-| **moli** | **kama moli** |
-| **monsi** | **monsi sijelo** |
-| **mute** | **mute namako** |
-| **nasa** | **sona nasa**, **pilin nasa** |
-| **nena** | **nena pi sinpin lawa** |
-| **noka** | **anpa** |
-| **open** | **kama** |
-| **pali** | **pali ale** |
-| **pini** | **nanpa pini**, **tenpo pini**, **pini lon**, **selo** |
-| **poka** | **poka sijelo** |
-| **sewi** | **lawa** |
-| **sike** | **sike suno** |
-| **sinpin** | **sinpin sijelo**, **sinpin lawa** |
-| **sona** | **toki e sona** |
-| **taso** | **taso ni la** |
-| **tawa** | **tawa wawa** |
-| **telo** | **telo suli** |
-| **waso** | **waso mu** |
-| **wan** | **wan ale** |
-
----
-
-In **Toki Namako**, "sin" is considered to be a conflation of "sin" and "namako". Therefore, **Toki Namako** has 121 words, including "namako".
-
-***TODO***
-
-| ꜱɪᴛᴇʟᴇɴ | ᴡᴏʀᴅ ᴄʟᴀꜱꜱ | ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ | ᴘᴀʀᴛꜱ ᴏꜰ ꜱᴘᴇᴇᴄʜ |
-|:-|:-|:-|:-|
-| <img src="musi/pona/namako.png" height="42" title="namak"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](nasin-nimi.md#preposition) | **namako** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **additional**, **another**, **extra** → <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* |
-| <img src="musi/pona/sin.png" height="42" title="ŝin"> | [**ꜱɪᴍᴘʟᴇ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](nasin-nimi.md#simple-adjective) | **sin** | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh** |
+| mi wile÷sona e toki-pona. → mi wile÷*kama*÷sona e toki-pona. |
+|:-|
+| *I want to know Toki Pona.* → *I want to learn Toki Pona.* |
 
 ### Tok Bon
 *([Toki Pona Spin-Off](#spin-offs) with Declension)*
