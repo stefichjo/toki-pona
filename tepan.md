@@ -322,7 +322,7 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 | **ante** | *instead of* | …: *than*, *unlike* |
 | **kepeken** | - | *usufructuary* |
 | **esun** | - | …: *exchange* |
-| **sin** | *in addition to*, *with* | - |
+| **sin** | *in addition to*, *with* | *artificial*, *enhanced* |
 | **taso** | *free from*, *independent from*, *without* | *just* |
 
 ## [PARTICLE](nasin-nimi.md#particle)
