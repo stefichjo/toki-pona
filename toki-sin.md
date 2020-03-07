@@ -5,7 +5,7 @@
 |:-|:-|
 | [Prequels](#prequels) | [Tok Bona](#tok-bona), [Ijo Ŝin Bona](#ijo-ŝin-bona) |
 | [Sequels](#sequels) | [Toki Bona](#toki-bona), [Toĥi Bona](#toĥi-bona), [Toĥe Bona](#toĥe-bona) |
-| [Spin-Offs](#spin-offs) | [Ijo Sin Pona](#ijo-sin-pona), [Toki Namako](#toki-namako), [Toki Pi Pona](#toki-pi-pona), [Tok Bon](#tok-bon), [Toko Bona](#toko-bona) |
+| [Spin-Offs](#spin-offs) | [Tok Bon](#tok-bon), [Toko Bona](#toko-bona) |
 
 
 [Toki Pona Prequels](#prequels)  and [Toki Pona Sequels](#sequels) are fictional **Toki Pona** dialects of the past and the future respectively, whereas [Toki Pona Spin-Offs](#spin-offs) are fictional co-existing **Toki Pona** dialects of the present.
@@ -35,34 +35,34 @@ Words in **Tok Bona** are very close to their etymological origin.
 
 **Ijo Ŝin Bona** precedes **Tok Bona** and uses some expressions, that are supplanted by **Tok Bona**. For instance "ijo ŝin" (meaning "news") is replaced by "tok".
 
-| ꜱɪᴛᴇʟᴇɴ | ijo ŝin bona | ijo sin pona | toki pona |
-|:-|:-|:-|:-|
-<img src="musi/pona/jelo.png" height="50" title="jelo"> | **kuler suno** | kule suno | jelo |
-<img src="musi/pona/laso.png" height="50" title="glas"> | **kuler kasvi** | kule kasi | laso |
-<img src="musi/pona/loje.png" height="50" title="roje"> | **kuler usta** | kule uta | loje |
-<img src="musi/pona/pimeja.png" height="50" title="pimea"> | **kuler ara** | kule ala | pimeja |
-<img src="musi/pona/walo.png" height="50" title="valko"> | **kuler vahva** | kule wawa | walo |
-<img src="musi/pona/kepeken.png" height="50" title="ĥebreiken"> | **loŋ ruka e ilo** | lon luka e ilo | kepeken |
-<img src="musi/pona/moku.png" height="50" title="mogu"> | **loŋ ruka e usta** | tawa uta e luka tan | moku |
-<img src="musi/pona/pali.png" height="50" title="fari"> | **loŋ ruka e ijo** | lon luka e ijo | pali |
-<img src="musi/pona/pana.png" height="50" title="pana"> | **loŋ ruka ŝin** | tawa luka sin | pana |
-<img src="musi/pona/kalama.png" height="50" title="galama"> | **usta ŝin** | uta sin | kalama |
-<img src="musi/pona/sona.png" height="50" title="ĉodna"> | **loŋ lipu ŝin** | lon lipu sin | sona |
-<img src="musi/pona/toki.png" height="50" title="tok"> | **ijo ŝin** | ijo sin | toki |
-<img src="musi/pona/kulupu.png" height="50" title="kulupu"> | **multe ijo** | mute ijo | kulupu |
-<img src="musi/pona/olin.png" height="50" title="volim"> | **pilim e pilim** | pilin e pilin | olin |
-<img src="musi/pona/pu.png" height="50" title="buk"> | **loŋ lipu biloŋ ijo ŝin bona** | lon lipu pi ijo sin pona | pu |
-<img src="musi/pona/jo.png" height="50" title="jou"> | **(mi) loŋ mi** | (mi) lon mi | jo |
+| ꜱɪᴛᴇʟᴇɴ | ijo ŝin bona | toki pona |
+|:-|:-|:-|
+<img src="musi/pona/jelo.png" height="50" title="jelo"> | **kuler suno** | jelo |
+<img src="musi/pona/laso.png" height="50" title="glas"> | **kuler kasvi** | laso |
+<img src="musi/pona/loje.png" height="50" title="roje"> | **kuler usta** | loje |
+<img src="musi/pona/pimeja.png" height="50" title="pimea"> | **kuler ara** | pimeja |
+<img src="musi/pona/walo.png" height="50" title="valko"> | **kuler vahva** | walo |
+<img src="musi/pona/kepeken.png" height="50" title="ĥebreiken"> | **loŋ ruka e ilo** | kepeken |
+<img src="musi/pona/moku.png" height="50" title="mogu"> | **loŋ ruka e usta** | moku |
+<img src="musi/pona/pali.png" height="50" title="fari"> | **loŋ ruka e ijo** | pali |
+<img src="musi/pona/pana.png" height="50" title="pana"> | **loŋ ruka ŝin** | pana |
+<img src="musi/pona/kalama.png" height="50" title="galama"> | **usta ŝin** | kalama |
+<img src="musi/pona/sona.png" height="50" title="ĉodna"> | **loŋ lipu ŝin** | sona |
+<img src="musi/pona/toki.png" height="50" title="tok"> | **ijo ŝin** | toki |
+<img src="musi/pona/kulupu.png" height="50" title="kulupu"> | **multe ijo** | kulupu |
+<img src="musi/pona/olin.png" height="50" title="volim"> | **pilim e pilim** | olin |
+<img src="musi/pona/pu.png" height="50" title="buk"> | **loŋ lipu biloŋ ijo ŝin bona** | pu |
+<img src="musi/pona/jo.png" height="50" title="jou"> | **(mi) loŋ mi** | jo |
 
 Animals are expressed by means of "tijelo".
 
-| ꜱɪᴛᴇʟᴇɴ | ijo ŝin bona | ijo sin pona | toki pona |
-|:-|:-|:-|:-|
-<img src="musi/pona/akesi.png" height="50" title="hagedis"> | **tijelo biloŋ pilim fret** | sijelo pi pilin lete | akesi |
-<img src="musi/pona/kala.png" height="50" title="kala"> | **tijelo delo** | sijelo telo | kala |
-<img src="musi/pona/pipi.png" height="50" title="bibit"> | **tijelo maa** | sijelo ma | pipi |
-<img src="musi/pona/soweli.png" height="50" title="ĉoveli"> | **tijelo biloŋ pilim ĉeli** | sijelo pi pilin seli | soweli |
-<img src="musi/pona/waso.png" height="50" title="wazo"> | **tijelo koŋ** | sijelo kon | waso |
+| ꜱɪᴛᴇʟᴇɴ | ijo ŝin bona | toki pona |
+|:-|:-|:-|
+<img src="musi/pona/akesi.png" height="50" title="hagedis"> | **tijelo biloŋ pilim fret** | akesi |
+<img src="musi/pona/kala.png" height="50" title="kala"> | **tijelo delo** | kala |
+<img src="musi/pona/pipi.png" height="50" title="bibit"> | **tijelo maa** | pipi |
+<img src="musi/pona/soweli.png" height="50" title="ĉoveli"> | **tijelo biloŋ pilim ĉeli** | soweli |
+<img src="musi/pona/waso.png" height="50" title="wazo"> | **tijelo koŋ** | waso |
 
 In **Old Ijo Ŝin Bona**, ᴘᴀʀᴛɪᴄʟᴇs, ᴘʀᴇ-ᴠᴇʀʙs and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs were omitted.
 
@@ -123,42 +123,8 @@ The vowels "u" and "i" merge with "o" and "e".
 
 | |
 |:-|
-| [Ijo Sin Pona](#ijo-sin-pona) |
-| [Toki Namako](#toki-namako): [Toki Nasa](#toki-nasa) |
-| [Toki Pi Pona](#toki-pi-pona) |
 | [Tok Bon](#tok-bon) |
 | [Toko Bona](#toko-bona) |
-
-### Ijo Sin Pona
-*([Toki Pona Spin-Off](#spin-offs) with Primitive Vocabulary)*
-
-**Ijo Sin Pona** keeps the reduced vocabulary (99 words) of [Ijo Ŝin Bona](#ijo-ŝin-bona) while keeping the pronunciation rules of **Toki Pona**.
-
-| <img src="musi/pona/ijo-sin-pona.png" height="50"> | 
-|:--| 
-| *ijo sin pona* | 
-
-| mi kepeken palisa. → mi lon luka e ilo: palisa. | mi pali e lipu. → mi lon luka e ijo: lipu. |
-|:-|:-|
-| *I used a rod.* | *I was working on the document.* |
-
-The verb "jo" is replaced by "(mi) lon mi".
-
-| mi jo e lipu. → mi lon mi e lipu. |
-|:-|
-| *I had a book.* |
-
-In analogy to "jo" ("(mi) lon mi"), "pana" can be replaced with "(mi) tan mi" as an alternative to "tawa luka sin".
-
-| mi pana e lipu tawa sina. → mi tan mi e lipu tawa sina. / mi tawa luka sin sina e lipu. |
-|:-|
-| *I gave you a book.* |
-
-Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to "(mi) kama lon mi".
-
-| mi kama jo e lipu tan sina. → mi tawa mi e lipu tan sina. / mi kama lon mi e lipu tan sina. |
-|:-|
-| *I took a book from you.* |
 
 ### Tok Bon
 *([Toki Pona Spin-Off](#spin-offs) with Declension)*
@@ -198,45 +164,6 @@ The **pre-phrase particle** "la" becomes the **ending** "-a".
 | tan seme la ona li lon tomo?: ŝenmana oni domon? |
 |:-|
 | *Why is she at home?* |
-
-#### Toki Pi Pona
-*([Toki Pona Spin-Off](#spin-offs) with a freer phrase structure)*
-
-For more literal word-for-word translations, phrase structues are more liberal. The noun phrase after **pi** can consist of a single word.
-
-| toki pi pona |
-|:-|
-| *language of good* |
-
-Prepositional phrases can be used as modifiers.
-
-| jan lon poka mi li lukin kepeken ilo sona e lipu lon toki pona. |
-|:-|
-| *The person next to me is reading on the internet a book in Toki Pona.* |
-
-Accusative phrases can be used as modifiers.
-
-| lukin e sitelen tawa li pona tawa mi. |
-|:-|
-| *I like watching movies.* |
-
-Any transitive verb can be used as a pre-verb.
-
-| mi olin lukin e sitelen tawa. | mi pilin e ni: mi wile lape. → mi pilin lape. |
-|:-|:-|
-| *I love to watch movies.* | *I feel like sleeping.* |
-
-An **e**-phrase can be turned into a **pi**-phrase (or a modifier).
-
-| mi ante e toki pi sitelen tawa. → mi ante toki e sitelen tawa. |
-|:-|
-| *I translated the movie.* |
-
-An abbrevated question can be used instead of a relative clause.
-
-| mi sona ala e tan seme. |
-|:-|
-| *I don't know why.* |
 
 #### Toko Bona
 *([Toki Pona Spin-Off](#spin-offs) à la Esperanto)*

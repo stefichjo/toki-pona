@@ -165,4 +165,45 @@ In **Toki Namako**, **namako** is a synonym of **sin** meaning *additional*, *an
 |:-|
 | *I want to know Toki Pona.* → *I want to learn Toki Pona.* |
 
+---
+
+#### Toki Pi Pona
+*([Toki Pona Spin-Off](#spin-offs) with a freer phrase structure)*
+
+For more literal word-for-word translations, phrase structues are more liberal. The noun phrase after **pi** can consist of a single word.
+
+| toki pi pona |
+|:-|
+| *language of good* |
+
+Prepositional phrases can be used as modifiers.
+
+| jan lon poka mi li lukin kepeken ilo sona e lipu lon toki pona. |
+|:-|
+| *The person next to me is reading on the internet a book in Toki Pona.* |
+
+Accusative phrases can be used as modifiers.
+
+| lukin e sitelen tawa li pona tawa mi. |
+|:-|
+| *I like watching movies.* |
+
+Any transitive verb can be used as a pre-verb.
+
+| mi olin lukin e sitelen tawa. | mi pilin e ni: mi wile lape. → mi pilin lape. |
+|:-|:-|
+| *I love to watch movies.* | *I feel like sleeping.* |
+
+An **e**-phrase can be turned into a **pi**-phrase (or a modifier).
+
+| mi ante e toki pi sitelen tawa. → mi ante toki e sitelen tawa. |
+|:-|
+| *I translated the movie.* |
+
+An abbrevated question can be used instead of a relative clause.
+
+| mi sona ala e tan seme. |
+|:-|
+| *I don't know why.* |
+
 
