@@ -1,10 +1,11 @@
-# Playful Dialects: Prequels, Sequels ans Spin-Offs
+# Playful Dialects: Prequels, Sequels and Spin-Offs
 *([Toki Pona](README.md) Sin)*
 
 | | |
 |:-|:-|
-| [Prequels](#prequels) | [Tok Bona](#tok-bona), [Ijo Ŝin Bona](#ijo-ŝin-bona) |
-| [Sequels](#sequels) | [Toki Bona](#toki-bona), [Toĥi Bona](#toĥi-bona), [Toĥe Bona](#toĥe-bona) |
+| [Prequels](#prequels) | [Tok Bona](#tok-bona): [Ijo Ŝin Bona](#ijo-ŝin-bona) |
+| [Sequels](#sequels) | [Toki Bona](#toki-bona): [Toĥi Bona](#toĥi-bona): [Toĥe Bona](#toĥe-bona) |
+| | |
 | [Spin-Offs](#spin-offs) | [Tok Bon](#tok-bon), [Toko Bona](#toko-bona) |
 
 
@@ -13,10 +14,11 @@
 ## Prequels
 *([toki pona](#dialects) mama)*
 
+***TODO fix link***
+
 | |
 |:-|
-| [Tok Bona](#tok-bona) |
-| [Ijo Ŝin Bona](#ijo-ŝin-bona) |
+| [Tok Bona](#tok-bona): [Ijo Ŝin Bona](#ijo-ŝin-bona) |
 
 ### Tok Bona
 *([Toki Pona Prequel](#prequels) with Preserved Etymological Forms)*
@@ -81,9 +83,7 @@ In **Old Ijo Ŝin Bona**, all ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs were written into one
 
 | |
 |:-|
-| [Toki Bona](#toki-bona) |
-| [Toĥi Bona](#toĥi-bona) |
-| [Toĥe Bona](#toĥe-bona) |
+| [Toki Bona](#toki-bona): [Toĥi Bona](#toĥi-bona): [Toĥe Bona](#toĥe-bona) |
 
 ### Toki Bona
 *([Toki Pona Sequel](#sequels) with Voiced Consonants)*
