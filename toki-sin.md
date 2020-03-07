@@ -3,10 +3,10 @@
 
 | | |
 |:-|:-|
-| [Prequels](#prequels) | [Tok Bona](#tok-bona): [Ijo Ŝin Bona](#ijo-ŝin-bona) |
-| [Sequels](#sequels) | [Toki Bona](#toki-bona): [Toĥi Bona](#toĥi-bona): [Toĥe Bona](#toĥe-bona) |
+| [**Prequels**](#prequels) | [Tok Bona](#tok-bona): [Ijo Ŝin Bona](#ijo-ŝin-bona) |
+| [**Sequels**](#sequels) | [Toki Bona](#toki-bona): [Toĥi Bona](#toĥi-bona): [Toĥe Bona](#toĥe-bona) |
 | | |
-| [Spin-Offs](#spin-offs) | [Tok Bon](#tok-bon), [Toko Bona](#toko-bona) |
+| [**Spin-Offs**](#spin-offs) | [Tok Bon](#tok-bon), [Toko Bona](#toko-bona) |
 
 
 [Toki Pona Prequels](#prequels)  and [Toki Pona Sequels](#sequels) are fictional **Toki Pona** dialects of the past and the future respectively, whereas [Toki Pona Spin-Offs](#spin-offs) are fictional co-existing **Toki Pona** dialects of the present.
