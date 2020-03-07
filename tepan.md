@@ -6,69 +6,9 @@ This document explains my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book.
 
 | |
 |:-|
-| [Vocabulary](#vocabulary) |
 | [Dictionary](#dictionary) |
 | [Punctuation](#punctuation) |
 | [Orthography](#orthography) |
-
-# Vocabulary
-
-## Counting
-
-A ɴᴜᴍʙᴇʀ can be used like a ᴛʜɪɴɢ ɴᴏᴜɴ implying *mute pi ijo …*, i.e. an *amount*.
-
-| ɴᴜᴍʙᴇʀ tu | wan en wan sama tu |
-|:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two*: (*~~mute pi ijo~~ tu*) *pair* | *A singleton and a singleton are equal to a pair.* → *One plus one equals two.* |
-
-ɴᴜᴍʙᴇʀs are multiplied rather than added (not using ꜱᴏɴᴊᴀ's ["more complex and precise counting system"](sonja.md#lesson-12)).
-
-| tu tu | tu en tu sama tu tu |
-|:-|:-|
-| *two pairs* → *four* | *A pair and a pair are equal to two pairs.* – *Two plus two equals four.* |
-
-As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
-
-| tu en wan sama mute |
-|:-|
-| *A pair and a singleton are equal to a set.* → *Two plus one equals three.* |
-
-## Calendar
-
-### Week
-
-| mun | tenpo suno pi sike esun |
-|:-|:-|
-| **mun** <br>*Moon* | **tenpo suno Mun** <br>*Monday* |
-| **ma Seli** <br>*Mars* | **tenpo suno Seli** <br>*Tuesday* |
-| **ma Telo** <br>*Mercury* | **tenpo suno Telo** <br>*Wednesday* |
-| **ma Kasi** <br>*Jupiter* | **tenpo suno Kasi** <br>*Thursday* |
-| **ma Kiwen** <br>*Venus* | **tenpo suno Kiwen** <br>*Friday* |
-| **ma Ma** <br>*Saturn* | **tenpo suno Ma** <br>*Saturday* |
-| **suno** <br>*Sun* | **tenpo suno Suno** <br>*Sunday* |
-
-### Month
-
-| sike mun |
-|:-|
-| **sike mun nanpa wan** <br>*January* |
-| **sike mun nanpa tu** <br>*February* |
-| **sike mun nanpa mute** <br>*March* |
-| **sike mun nanpa tu tu** <br>*April* |
-| **sike mun nanpa luka** <br>*Mai* |
-| **sike mun nanpa mute tu** <br>*June* |
-| **sike mun nanpa esun** <br>*July* |
-| **sike mun nanpa tu tu tu** <br>*August* |
-| **sike mun nanpa mute mute** <br>*September* |
-| **sike mun nanpa luka tu** <br>*October* |
-| **sike mun nanpa luka tu en wan** <br>*November* |
-| **sike mun nanpa luka tu en tu** <br>*December* |
-
-### Year
-
-| sike suno nanpa luka tu&nbsp; luka tu&nbsp; luka tu&nbsp; tu en luka tu en tu tu |
-|:-|
-| *the year 2014* |
 
 # Dictionary
 

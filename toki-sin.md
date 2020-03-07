@@ -165,6 +165,29 @@ Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to 
 
 ***TODO***
 
+A ɴᴜᴍʙᴇʀ can be used like a ᴛʜɪɴɢ ɴᴏᴜɴ implying *mute pi ijo …*, i.e. an *amount*.
+
+| ɴᴜᴍʙᴇʀ tu | wan en wan sama tu |
+|:-|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two*: (*~~mute pi ijo~~ tu*) *pair* | *A singleton and a singleton are equal to a pair.* → *One plus one equals two.* |
+
+ɴᴜᴍʙᴇʀs are multiplied rather than added (not using ꜱᴏɴᴊᴀ's ["more complex and precise counting system"](sonja.md#lesson-12)).
+
+| tu tu | tu en tu sama tu tu |
+|:-|:-|
+| *two pairs* → *four* | *A pair and a pair are equal to two pairs.* – *Two plus two equals four.* |
+
+As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
+
+| tu en wan sama mute |
+|:-|
+| *A pair and a singleton are equal to a set.* → *Two plus one equals three.* |
+
+
+---
+
+***TODO***
+
 ## AUXILIARY
 
 ***TODO toki nasa***
