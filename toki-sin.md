@@ -163,6 +163,83 @@ Analogously, "kama jo" can be replaced with "(mi) tawa mi" as an alternative to 
 ### Toki Namako
 *([Toki Pona Spin-Off](#spin-offs) with Extended Vocabulary)*
 
+***TODO***
+
+## AUXILIARY
+
+***TODO toki nasa***
+
+A ᴍᴀɪɴ ᴠᴇʀʙ can have more than one ᴀᴜxɪʟɪᴀʀʏ.
+
+| mi wile sona e toki pona. → mi wile kama sona e toki pona. |
+|:-|
+| I want to learn Toki Pona.
+
+## SUBORDINATE CLAUSE
+
+***TODO toki nasa***
+
+A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can describe a *degree* or an *extent*.
+
+| mi pali mute. tan ni la mi wile lape. → mi pali pi mute ni: mi wile lape. |
+|:-|
+| *I worked so much, I need to sleep.* |
+
+A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question with **seme**, yielding a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ.
+
+| mani li lon seme? o toki e ni. → o toki e ni: mani li lon seme. |
+|:-|
+| *Tell me where the money is.* |
+
+When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be reduced to its ᴘʀᴇᴅɪᴄᴀᴛᴇ, and the direct ᴏʙᴊᴇᴄᴛ can be omitted.
+
+| jan ni li tawa musi lon poka pi soweli alasa. ona li … → jan ni: tawa musi lon poka pi soweli alasa, li … |
+|:-|
+| *The person that is dancing with wolves …* |
+
+| mi sona e jan ni: ona li … → jan ni: mi sona, li … |
+|:-|
+| *The person that I know …* |
+
+## PASSIVE
+
+ᴠᴇʀʙs used as ɴᴏᴜɴs omit **ijo**. Without omitting **ijo**, ᴘᴀꜱꜱɪᴠᴇ can be expressed.
+
+| soweli li moku e kala. → kala li ijo moku lon soweli. |
+|:-|
+| *The fish is being eaten by the cat.* |
+
+## CONTEXT
+
+Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used freely. Therefore, a *comma* between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can't be safely removed.
+
+| weka lon toki ante | sewi lon ala, lon ale |
+|:-|:-|
+| *Lost in Translation* | *God between Zero and Infinity* |
+
+Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures and after ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used freely.
+
+| utala en pona | sewi li lon ala, li lon ale. → sewi li lon ala en ale. |
+|:-|:-|
+| *War and Peace* | *God is the tangential point between zero and infinity.* |
+
+Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, the ɢᴇɴɪᴛɪᴠᴇ ᴍᴀʀᴋᴇʀ **pi** can be used freely. Therefore, a *comma* between two ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can't be safely removed.
+
+| sona wawa pi kama pi ijo ale | tomo pi telo nasa, pi ma ante |
+|:-|:-|
+| *Big Bang Theory* | *The Foreign Bar* |
+
+Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead of **li**.
+
+| wan en wan li tu. → wan en wan sama tu |
+|:-|
+| *One and one equals two.* |
+
+
+---
+
+
+
 **Toki Namako** (or **Toki Pona pi Nasin Namako**) is an intermediate, less ***pona*** variant of **Toki Pona**. It is for more abstract descriptions, typically in written form only.
 
 | <img src="musi/pona/toki-namako.png" height="50"> | 

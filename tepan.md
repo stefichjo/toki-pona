@@ -6,85 +6,10 @@ This document explains my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book.
 
 | |
 |:-|
-| [Grammar](#grammar): [ᴀᴜxɪʟɪᴀʀʏ](#auxiliary), [ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ](#subordinate-clause), [ᴘᴀꜱꜱɪᴠᴇ](#passive), [ᴄᴏɴᴛᴇxᴛ](#context) |
 | [Vocabulary](#vocabulary) |
 | [Dictionary](#dictionary) |
 | [Punctuation](#punctuation) |
 | [Orthography](#orthography) |
-
-# Grammar
-
-A *comma* between two ᴠᴏʟɪᴛɪᴠᴇ or ɪᴍᴘᴇʀᴀᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can be safely removed.
-
-| o pilin pona! o pu! → o pilin pona, o pu! → o pilin pona o pu! |
-|:-|
-| *Be happy and read the official Toki Pona book!* |
-
-## AUXILIARY
-
-A ᴍᴀɪɴ ᴠᴇʀʙ can have more than one ᴀᴜxɪʟɪᴀʀʏ.
-
-| mi wile sona e toki pona. → mi wile kama sona e toki pona. |
-|:-|
-| I want to learn Toki Pona.
-
-## SUBORDINATE CLAUSE
-
-A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can describe a *degree* or an *extent*.
-
-| mi pali mute. tan ni la mi wile lape. → mi pali pi mute ni: mi wile lape. |
-|:-|
-| *I worked so much, I need to sleep.* |
-
-A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question with **seme**, yielding a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ.
-
-| mani li lon seme? o toki e ni. → o toki e ni: mani li lon seme. |
-|:-|
-| *Tell me where the money is.* |
-
-When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be reduced to its ᴘʀᴇᴅɪᴄᴀᴛᴇ, and the direct ᴏʙᴊᴇᴄᴛ can be omitted.
-
-| jan ni li tawa musi lon poka pi soweli alasa. ona li … → jan ni: tawa musi lon poka pi soweli alasa, li … |
-|:-|
-| *The person that is dancing with wolves …* |
-
-| mi sona e jan ni: ona li … → jan ni: mi sona, li … |
-|:-|
-| *The person that I know …* |
-
-## PASSIVE
-
-ᴠᴇʀʙs used as ɴᴏᴜɴs omit **ijo**. Without omitting **ijo**, ᴘᴀꜱꜱɪᴠᴇ can be expressed.
-
-| soweli li moku e kala. → kala li ijo moku lon soweli. |
-|:-|
-| *The fish is being eaten by the cat.* |
-
-## CONTEXT
-
-Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used freely. Therefore, a *comma* between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can't be safely removed.
-
-| weka lon toki ante | sewi lon ala, lon ale |
-|:-|:-|
-| *Lost in Translation* | *God between Zero and Infinity* |
-
-Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures and after ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used freely.
-
-| utala en pona | sewi li lon ala, li lon ale. → sewi li lon ala en ale. |
-|:-|:-|
-| *War and Peace* | *God is the tangential point between zero and infinity.* |
-
-Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, the ɢᴇɴɪᴛɪᴠᴇ ᴍᴀʀᴋᴇʀ **pi** can be used freely. Therefore, a *comma* between two ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can't be safely removed.
-
-| sona wawa pi kama pi ijo ale | tomo pi telo nasa, pi ma ante |
-|:-|:-|
-| *Big Bang Theory* | *The Foreign Bar* |
-
-Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead of **li**.
-
-| wan en wan li tu. → wan en wan sama tu |
-|:-|
-| *One and one equals two.* |
 
 # Vocabulary
 
@@ -351,9 +276,9 @@ As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
 For didactical purposes, safely removed *commas* remain.
 
-| ona li lili, li lete. |
+| ona li lili, li lete. | o pilin pona, o pu! |
 |:-|
-| *It is small and cold.* |
+| *It is small and cold.* | o pilin pona, o pu!
 
 For didactical purposes, omitted words are represented by *hiphens*, *apostrophes* and other symbols.
 
@@ -475,27 +400,3 @@ If **ni:** is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is no
 * ❤️ 💙 💛 → 🔴 🔵 🟡
 * 🖤 🤍 → ⚫ ⚪
 
-## Ascii (WIP)
-
-| | | | | | | | | | | | |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **`ª`** | **`…`** | **`0`**  | **`Đ`** | **`∞`** | **`↓`** | **`≠`** | **`…`** | **`…`** | **`…`** | **`…`** | **`7`** |
-| a | akesi | ala | alasa | ale | anpa | ante | anu | awen | e | en | esun |
-| `…` | `…` | `Ŧ` | `…`  | `&` | `Ω` | `…` | `…` | `α` | `…` | `…` | `…` |
-| ijo | ike | ilo | insa | jaki | jan | jelo | jo | kala | kalama | kama | kasi |
-| `κ` | `…` | `…` | `♦` | `…` | `…` | `…` | `…` | `…` | `)` | `…` | `…` |
-| ken | kepeken | kili | kiwen | ko | kon | kule | kulupu | kute | la | lape | laso |
-| `…` | `…` | `*` | `…` | `…` | `…` | `…` | `…` | `…` | `5` | `…` | `∪` |
-| lawa | len | lete | li | lili | linja | lipu | loje | lon | luka | lukin | lupa |
-| `🜨` | `8` | `$` | `♀` | `9` | `♂` | `…` | `†` | `←` | `…` | `☾` | `…` |
-| ma | mama | mani | meli | mi | mije | moku | moli | monsi | mu | mun | musi |
-| `3` | `#` | `@` | `…` | `∩` | `…` | `…` | `…` | `º` | `…` | `…` | `…` |
-| mute | nanpa | nasa | nasin | nena | ni | nimi | noka | o | olin | ona | open |
-| `…` | `…` | `…` | `…` | `…` | `∟` | `♥` | `…` | `…` | `…` | `↔` | `…` |
-| pakala | pali | palisa | pan | pana | pi | pilin | pimeja | pini | pipi | poka | poki |
-| `…` | `…` | `=` | `…` | `…` | `?` | `↑` | `…` | `…` | `…` | `6` | `→` |
-| pona | pu | sama | seli | selo | seme | sewi | sijelo | sike | sin | sina | sinpin |
-| `…` | `…` | `…` | `…` | `☉` | `π` | `…` | `…` | `T` | `…` | `≈` | `…` |
-| sitelen | sona | soweli | suli | suno | supa | suwi | tan | taso | tawa | telo | tenpo |
-| `…` | `…` | `2` | `…` | `D` | `…` | `…` | `1` | `…` | `…` | `…` | `ω` |
-| toki | tomo | tu | unpa | uta | utala | walo | wan | waso | wawa | weka | wile |
