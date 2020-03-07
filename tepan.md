@@ -217,7 +217,7 @@ This document explains my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book.
 For didactical purposes, safely removed *commas* remain.
 
 | ona li lili, li lete. | o pilin pona, o pu! |
-|:-|
+|:-|:-|
 | *It is small and cold.* | o pilin pona, o pu!
 
 For didactical purposes, omitted words are represented by *hiphens*, *apostrophes* and other symbols.
