@@ -223,6 +223,12 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 | **mu** | *(indifference)* | *-ish*, *sort-of*; *blah* |
 | **Pu** | *name of the official Toki Pona book*: *the official Toki Pona book*, *"Pu"* | - |
 
+ꜰʀᴀɢᴍᴇɴᴛs can be used as **ɴᴀᴍᴇ**s. ᴘᴀʀᴛɪᴄʟᴇs and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs in ꜰʀᴀɢᴍᴇɴᴛs aren't as restricted as in ꜱᴇɴᴛᴇɴᴄᴇs.
+
+| lipu "utala en pona" | sitelen tawa "weka lon toki ante" | sitelen tawa mute "sona wawa pi kama pi ijo ale" |
+|:-|:-|:-|
+| *the book "War and Piece"* | *the film "Lost in Translation"* | *the series "Big Bang Theory"* |
+
 ## Synonyms
 
 | | ⇒ | |

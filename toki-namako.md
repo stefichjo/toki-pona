@@ -42,12 +42,6 @@ In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *
 | <img src="musi/pona/lukin.png" height="50" title="luk-im"> | [**ᴠᴇʀʙ**](#verb) **lukin** <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** |
 | <img src="musi/pona/lukin.png" height="50" title="luk-im"> | [**ɴᴏᴜɴ**](#noun) **oko** <br>ɴᴏᴜɴ **eye** |
 
-ꜰʀᴀɢᴍᴇɴᴛs can be used as NAMEs.
-
-| lipu "utala en pona" | sitelen tawa "weka lon toki ante" | sitelen tawa mute "sona wawa pi kama pi ijo ale" |
-|:-|:-|:-|
-| *the book "War and Piece"* | *the film "Lost in Translation"* | *the series "Big Bang Theory"* |
-
 ## Toki Nasa
 *([Toki Pona Spin-Off](#spin-offs) with un-pona predicates and modifiers)*
 
