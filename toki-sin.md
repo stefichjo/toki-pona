@@ -187,7 +187,7 @@ Monosyllabic ***Tok Bona*** stems lose their vocalic ending, except for ɪɴᴛ�
 |:-|:-|:-|
 | *la unua lingvo* | toki nanpa wan | **la toko nambo wanu** → **la toko wanua** |
 
-ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ end in **-iu**.
+ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs end in **-iu**.
 
 | | ***Toki Pona*** | ***Toko Bona*** |
 |:-|:-|:-|
