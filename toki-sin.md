@@ -89,15 +89,21 @@ The consonant starting off a ᴍᴏᴅɪꜰɪᴇʀ is voiced.
 
 Before **e** or **i**, the consonants **p**, **t**, **k** become the fricatives **f**, **ĉ**, **ĥ**, whereas **s** becomes **ŝ**.
 
-| pilin → filin | tenpo → ĉenpo | ken → ĥen | selo → ŝelo |
-|:-|:-|:-|:-|
-| *heart* | *time* | *can* | *skin* |
+| | ***Toki Pona*** | ***Toki Bona*** |
+|:-|:-|:-|
+| *heart* | **pilin** | **filin** |
+| *time* | **tenpo** | **ĉenpo** |
+| *can* | **ken** | **ĥen** |
+| *skin* | **selo** | **ŝelo** |
 
 When voiced, **f**, **ĉ**, **ĥ** and **ŝ** become **v**, **ĝ**, **h** and **ĵ**.
 
-| tenpo pini → ĉenpo vini | tomo telo → tomo ĝelo | nasin sewi → naŝin ĵewi | ko kiwen → ko hiwen |
-|:-|:-|:-|:-|
-| *past* | *bathroom* | *religion* | *sand* |
+| | ***Toki Pona*** | ***Toki Bona*** |
+|:-|:-|:-|
+| *past* | **tenpo pini** | **ĉenpo vini** |
+| *bathroom* | **tomo telo** | **tomo ĝelo** |
+| *religion* | **nasin sewi** | **naŝin ĵewi** |
+| *sand* | **ko kiwen** | **ko hiwen** |
 
 Additionaly, the vowels **u** and **i** can merge with **o** and **e**.
 
