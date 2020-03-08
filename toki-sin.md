@@ -128,41 +128,42 @@ Final vowels (+ consonant) are dropped, except if the word is monosyllabic.
 
 | | ***Toki Pona*** | ***Toki Bona*** |
 |:-|:-|:-|
-| *she* | **ona** | **on** |
-| *I* | **mi** | **mi** |
-| *reptile* | **akesi** | **haged** |
-| *eye* | **lukin** | **luk** |
+| *she* | ona | **on** |
+| *I* | mi | **mi** |
+| *reptile* | akesi | **haged** |
+| *eye* | lukin | **luk** |
 
 The ᴘᴀʀᴛɪᴄʟᴇs **biloŋ** and **li** become the ending **-i**.
 
 | | ***Toki Pona*** | ***Toki Bona*** |
 |:-|:-|:-|
-| *bar* | **tomo pi telo nasa** | **dom deli nas** |
-| *People are working.* | **jan li pali.** | **jan fari.** |
+| *bar* | tomo pi telo nasa | **dom deli nas** |
+| *People are working.* | jan li pali. | **jan fari.** |
 
 The ᴘᴀʀᴛɪᴄʟᴇs **ho** and **e** become the endings **-o** and **-e**.
 
-| mi o moku e ijo pona → mi mogo ije bon. |
-|:-|
-| *I should eat something good.* |
+| | ***Toki Pona*** | ***Toki Bona*** |
+|:-|:-|:-|
+| *I should eat something good.* | mi o moku e ijo pona | **mi mogo ije bon.** |
 
 The ꜱᴜʙᴊᴇᴄᴛ **mi** and **sina** alone become the endings **-im** and **-is**.
 
-| mi olin e sina → volim sine. | sina sin. → ŝinis. |
-|:-|:-|
-| *I love you.* | *You are new.* |
+| | ***Toki Pona*** | ***Toki Bona*** |
+|:-|:-|:-|
+| *I love you.* | mi olin e sina. | **volim sine.** |
+| *You are new.* | sina sin. | **ŝinis.** |
 
 The final remaining syllable (vowel + consonant) of a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ becomes an ending.
 
-| ona li tawa tomo kepeken tomo tawa sama sina → oni domaw domen daw sinam. |
-|:-|
-| She went home by car like you. |
+| | ***Toki Pona*** | ***Toki Bona*** |
+|:-|:-|:-|
+| *She went home by car like you.* | ona li tawa tomo kepeken tomo tawa sama sina. | **oni domaw domen daw sinam.** |
 
 The ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **la** becomes the ending **-a**.
 
-| tan seme la ona li lon tomo? → ŝenmana oni domon? |
-|:-|
-| *Why is she at home?* |
+| | ***Toki Pona*** | ***Toki Bona*** |
+|:-|:-|:-|
+| *Why is she at home?* | tan seme la ona li lon tomo? | **ŝenmana oni domon?** |
 
 ##### Toko Bona
 *([Toki Pona Spin-Off](#spin-offs) à la Esperanto)*
