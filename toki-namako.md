@@ -3,7 +3,7 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-[***Extended Toki Pona***](#toki-namako) should not be mixed with ordinary [***Toki Pona***](README.md).
+[***Enhanced Toki Pona***](#toki-namako) should not be mixed with ordinary [***Toki Pona***](README.md). (Cf. [***Fictional Toki Pona***](toki-sin.md).)
 
 ## Toki Namako
 *([Toki Pona](README.md) with Extended Vocabulary)*
