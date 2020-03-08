@@ -39,34 +39,34 @@ Words in **Tok Bona** are very close to their etymological origin.
 
 ***Ijo Ŝin Bona*** is a prequel of ***Tok Bona*** with less vocabulary. For instance, **ijo ŝin** (meaning *message*, *news*) is used instead of **tok**.
 
-| ꜱɪᴛᴇʟᴇɴ | ijo ŝin bona | toki pona |
-|:-|:-|:-|
-<img src="musi/pona/jelo.png" height="50" title="jelo"> | **kuler suno** | jelo |
-<img src="musi/pona/laso.png" height="50" title="glas"> | **kuler kasvi** | laso |
-<img src="musi/pona/loje.png" height="50" title="roje"> | **kuler usta** | loje |
-<img src="musi/pona/pimeja.png" height="50" title="pimea"> | **kuler ara** | pimeja |
-<img src="musi/pona/walo.png" height="50" title="valko"> | **kuler vahva** | walo |
-<img src="musi/pona/kepeken.png" height="50" title="ĥebreiken"> | **loŋ ruka e ilo** | kepeken |
-<img src="musi/pona/moku.png" height="50" title="mogu"> | **loŋ ruka e usta** | moku |
-<img src="musi/pona/pali.png" height="50" title="fari"> | **loŋ ruka e ijo** | pali |
-<img src="musi/pona/pana.png" height="50" title="pana"> | **loŋ ruka ŝin** | pana |
-<img src="musi/pona/kalama.png" height="50" title="galama"> | **usta ŝin** | kalama |
-<img src="musi/pona/sona.png" height="50" title="ĉodna"> | **loŋ lipu ŝin** | sona |
-<img src="musi/pona/toki.png" height="50" title="tok"> | **ijo ŝin** | toki |
-<img src="musi/pona/kulupu.png" height="50" title="kulupu"> | **multe ijo** | kulupu |
-<img src="musi/pona/olin.png" height="50" title="volim"> | **pilim e pilim** | olin |
-<img src="musi/pona/pu.png" height="50" title="buk"> | **loŋ lipu biloŋ ijo ŝin bona** | pu |
-<img src="musi/pona/jo.png" height="50" title="jou"> | **(mi) loŋ mi** | jo |
+| ꜱɪᴛᴇʟᴇɴ | ijo ŝin bona | tok bona | toki pona |
+|:-|:-|:-|:-|
+<img src="musi/pona/jelo.png" height="50" title="jelo"> | **kuler suno** | jelo | jelo |
+<img src="musi/pona/laso.png" height="50" title="glas"> | **kuler kasvi** | glas | laso |
+<img src="musi/pona/loje.png" height="50" title="roje"> | **kuler usta** | roje | loje |
+<img src="musi/pona/pimeja.png" height="50" title="pimea"> | **kuler ara** | pimea | pimeja |
+<img src="musi/pona/walo.png" height="50" title="valko"> | **kuler vahva** | valko | walo |
+<img src="musi/pona/kepeken.png" height="50" title="ĥebrejken"> | **loŋ ruka e ilo** | ĥebrejken | kepeken |
+<img src="musi/pona/moku.png" height="50" title="mogu"> | **loŋ ruka e usta** | mogu | moku |
+<img src="musi/pona/pali.png" height="50" title="fari"> | **loŋ ruka e ijo** | fari | pali |
+<img src="musi/pona/pana.png" height="50" title="pana"> | **loŋ ruka ŝin** | pana | pana |
+<img src="musi/pona/kalama.png" height="50" title="galama"> | **usta ŝin** | galama | kalama |
+<img src="musi/pona/sona.png" height="50" title="ĉodna"> | **loŋ lipu ŝin** | ĉodna | sona |
+<img src="musi/pona/toki.png" height="50" title="tok"> | **ijo ŝin** | tok | toki |
+<img src="musi/pona/kulupu.png" height="50" title="kulupu"> | **multe ijo** | kulupu | kulupu |
+<img src="musi/pona/olin.png" height="50" title="volim"> | **pilim e pilim** | volim | olin |
+<img src="musi/pona/pu.png" height="50" title="buk"> | **loŋ lipu biloŋ ijo ŝin bona** | buk | pu |
+<img src="musi/pona/jo.png" height="50" title="jou"> | **(mi) loŋ mi** | jou | jo |
 
 Animals are expressed by means of **tijelo**.
 
-| ꜱɪᴛᴇʟᴇɴ | ijo ŝin bona | toki pona |
-|:-|:-|:-|
-<img src="musi/pona/akesi.png" height="50" title="hagedis"> | **tijelo biloŋ pilim fret** | akesi |
-<img src="musi/pona/kala.png" height="50" title="kala"> | **tijelo delo** | kala |
-<img src="musi/pona/pipi.png" height="50" title="bibit"> | **tijelo maa** | pipi |
-<img src="musi/pona/soweli.png" height="50" title="ĉoveli"> | **tijelo biloŋ pilim ĉeli** | soweli |
-<img src="musi/pona/waso.png" height="50" title="wazo"> | **tijelo koŋ** | waso |
+| ꜱɪᴛᴇʟᴇɴ | ijo ŝin bona | tok pona | toki pona |
+|:-|:-|:-|:-|
+<img src="musi/pona/akesi.png" height="50" title="hagedis"> | **tijelo biloŋ pilim fret** | hagedis | akesi |
+<img src="musi/pona/kala.png" height="50" title="kala"> | **tijelo delo** | kala | kala |
+<img src="musi/pona/pipi.png" height="50" title="bibit"> | **tijelo maa** | bibit | pipi |
+<img src="musi/pona/soweli.png" height="50" title="ĉoveli"> | **tijelo biloŋ pilim ĉeli** | ĉoveli | soweli |
+<img src="musi/pona/waso.png" height="50" title="wazo"> | **tijelo koŋ** | wazo | waso |
 
 ## Sequels
 *([toki pona](#dialects) lili)*
