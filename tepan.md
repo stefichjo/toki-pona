@@ -2,7 +2,7 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-This document explains my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book.
+This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book concerning [ᴡᴏʀᴅ ᴄʟᴀꜱꜱes and ᴘᴀʀᴛs ᴏꜰ ꜱᴘᴇᴇᴄʜ](nasin-nimi.md).
 
 | |
 |:-|
@@ -12,6 +12,14 @@ This document explains my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book.
 
 # Dictionary
 
+* [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
+  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴛʜɪɴɢ**](#thing) ([**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ᴀʀᴇᴀ**](#area), [**ᴛᴏᴏʟ**](#tool), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form))
+  * [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier): [**ɴᴜᴍʙᴇʀ**](#number), [**ᴠᴇʀʙ**](#verb), [**ᴀᴜxɪʟɪᴀʀʏ**](#auxiliary), [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
+* [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
+  * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ**](#mood), [**ᴄᴀꜱᴇ**](#case)
+  * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
+  * [**ꜱᴏᴜɴᴅ**](#sound)
+
 | | |
 |:-|:-|
 | ɴᴏᴜɴ **kulupu** | *relationship* |
@@ -20,14 +28,6 @@ This document explains my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book.
 | ɴᴏᴜɴ **monsi** | *backbone* |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sama** | *-self*, *-selves*; *reciprocal* |
 | ɴᴏᴜɴ **tomo** | *roof* |
-
-* [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
-  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴛʜɪɴɢ**](#thing) ([**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ᴀʀᴇᴀ**](#area), [**ᴛᴏᴏʟ**](#tool), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form))
-  * [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier): [**ɴᴜᴍʙᴇʀ**](#number), [**ᴠᴇʀʙ**](#verb), [**ᴀᴜxɪʟɪᴀʀʏ**](#auxiliary), [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
-* [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
-  * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ**](#mood), [**ᴄᴀꜱᴇ**](#case)
-  * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
-  * [**ꜱᴏᴜɴᴅ**](#sound)
 
 ## [CONTENT WORD](nasin-nimi.md#content-word)
 
