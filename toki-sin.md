@@ -79,9 +79,10 @@ Animals are expressed by means of **tijelo**.
 
 The consonant starting off a ᴍᴏᴅɪꜰɪᴇʀ is voiced.
 
-| jan pona → jan bona | tomo tawa → tomo dawa |
-|:-|:-|
-| *friend* | *car* |
+| | toki pona | toki bona |
+|:-|:-|:-|
+| *friend* | **jan pona** | **jan bona** |
+| *car* | **tomo tawa** | **tomo dawa** |
 
 ##### Toĥi Bona
 *([Toki Pona Sequel](#sequels) with More Fricatives)*
