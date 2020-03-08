@@ -39,7 +39,7 @@ In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *
 | <img src="musi/pona/sin.png" height="50" title="ŝin"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#nasin-nimi.md##modifier) *jaki* — **sin**, *suwi* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh** |
 | <img src="musi/pona/namako.png" height="50" title="namak"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#nasin-nimi.md#preposition) **namako** — *taso* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ [*in addition to*, *with*](tepan.md#preposition) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **additional**, **another**, **extra** |
 | | |
-| <img src="musi/pona/lukin.png" height="50" title="luk-im"> | [**ᴠᴇʀʙ**](#verb) + [**ᴀᴜxɪʟɪᴀʀʏ**](#auxiliary) **lukin** <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** + <br>ᴀᴜxɪʟɪᴀʀʏ **to seek** *to*, [**seek to**](sonja.md#lesson-13), **try to**; (*lukin jo*) [**to look for**](sonja.md#errata); (*lukin kama lon*) *to search for* <br>ᴠᴇʀʙ *to care for* |
+| <img src="musi/pona/lukin.png" height="50" title="luk-im"> | [**ᴠᴇʀʙ**](#verb) **lukin** <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** |
 | <img src="musi/pona/lukin.png" height="50" title="luk-im"> | [**ɴᴏᴜɴ**](#noun) **oko** <br>ɴᴏᴜɴ **eye** |
 
 ---
