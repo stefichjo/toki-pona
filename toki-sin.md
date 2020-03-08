@@ -79,7 +79,7 @@ Animals are expressed by means of **tijelo**.
 
 The consonant starting off a ᴍᴏᴅɪꜰɪᴇʀ is voiced.
 
-| | toki pona | toki bona |
+| | ***Toki Pona*** | ***Toki Bona*** |
 |:-|:-|:-|
 | *friend* | **jan pona** | **jan bona** |
 | *car* | **tomo tawa** | **tomo dawa** |
