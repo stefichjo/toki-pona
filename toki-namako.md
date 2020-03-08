@@ -14,7 +14,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:--| 
 | *toki namako* |
 
-***Toki Namako*** relies heavily on [punctuation](tepan.md#punctuation).
+***Toki Namako*** relies heavily on [punctuation](#punctuation).
 
 | jan-sona |
 |:-|
