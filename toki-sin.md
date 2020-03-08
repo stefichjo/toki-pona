@@ -5,7 +5,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ## Dialects
 
-[Toki Pona Prequels](#prequels)  and [Toki Pona Sequels](#sequels) are fictional **Toki Pona** dialects of the past and the future respectively, whereas [Toki Pona Spin-Offs](#spin-offs) are fictional co-existing **Toki Pona** dialects of the present.
+[Toki Pona Prequels](#prequels)  and [Toki Pona Sequels](#sequels) are fictional ***Toki Pona*** dialects of the past and the future respectively, whereas [Toki Pona Spin-Offs](#spin-offs) are fictional co-existing ***Toki Pona*** dialects of the present.
 
 | | |
 |:-|:-|
@@ -24,7 +24,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 #### Tok Bona
 *([Toki Pona Prequel](#prequels) with Preserved Etymological Forms)*
 
-Words in **Tok Bona** are very close to their etymological origin.
+Words in ***Tok Bona*** are very close to their etymological origin.
 
 | ꜱɪᴛᴇʟᴇɴ | ᴏʀɪɢɪɴ | tok bona | toki pona |
 |:-|:-|:-|:-|
@@ -115,72 +115,72 @@ Additionaly, the vowels **u** and **i** can merge with **o** and **e**.
 #### Tok Bon
 *([Toki Pona Spin-Off](#spin-offs) with Declension)*
 
-Final **vowels** (+ **consonant**) are dropped, except if the word is monosyllabic.
+Final vowels (+ consonant) are dropped, except if the word is monosyllabic.
 
-| ona: ona → on | mi: mi | akesi: hagedis → haged | lukin: lukim → luk |
+| ona → on | mi → mi | akesi → haged | lukin → luk |
 |:-|:-|:-|:-|
 | *she* | *I* | *reptile* | *eye* |
 
-The **particles** "biloŋ" and "li" become the **ending** "-i".
+The ᴘᴀʀᴛɪᴄʟᴇs **biloŋ** and **li** become the ending **-i**.
 
-| tomo pi telo nasa: domo biloŋ delo nasau → dom deli nas | jan li pali: jan li far. → jan fari. |
+| tomo pi telo nasa → dom deli nas | jan li pali → jan fari. |
 |:-|:-|
 | *bar* | *People are working.* |
 
-The **particles** "ho" and "e" become the **endings** "-o" and "-e".
+The ᴘᴀʀᴛɪᴄʟᴇs **ho** and **e** become the endings **-o** and **-e**.
 
-| mi o moku e ijo pona: mi ho mogu e ijo bona. → mi mogo ije bon. |
+| mi o moku e ijo pona → mi mogo ije bon. |
 |:-|
 | *I should eat something good.* |
 
-The **subject** "mi" and "sina" alone become the **endings** "-im" and "-is".
+The ꜱᴜʙᴊᴇᴄᴛ **mi** and **sina** alone become the endings **-im** and **-is**.
 
-| mi olin e sina: mi vol e sin. → volim sine. | sina sin: sin ŝin. → ŝinis. |
+| mi olin e sina → volim sine. | sina sin. → ŝinis. |
 |:-|:-|
 | *I love you.* | *You are new.* |
 
-The final remaining syllable (vowel + consonant) of a **preposition** becomes an **ending**.
+The final remaining syllable (vowel + consonant) of a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ becomes an ending.
 
-| ona li tawa tomo kepeken tomo tawa sama sina: oni domaw domen daw sinam. |
+| ona li tawa tomo kepeken tomo tawa sama sina → oni domaw domen daw sinam. |
 |:-|
 | She went home by car like you. |
 
-The **pre-phrase particle** "la" becomes the **ending** "-a".
+The ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **la** becomes the ending **-a**.
 
-| tan seme la ona li lon tomo?: ŝenmana oni domon? |
+| tan seme la ona li lon tomo? → ŝenmana oni domon? |
 |:-|
 | *Why is she at home?* |
 
 ##### Toko Bona
 *([Toki Pona Spin-Off](#spin-offs) à la Esperanto)*
 
-**Toko Bona** has the grammar and the phonetics of **Esperanto**. It keeps all words of **Tok Bona** except for "la" (which becomes the definite article) and adds "est-" from **Esperanto**.
+***Toko Bona*** has the grammar and the phonetics of ***Esperanto***. It keeps all words of ***Tok Bona*** except for **la** (which becomes the definite article) and adds **est-** from ***Esperanto***.
 
-| jan pona li lon tomo: jan bona li loŋ domo. → la jano bona estas lon la domo. |
+| jan pona li lon tomo → la jano bona estas lon la domo. |
 |:-|
 | *The friend is in the house.* |
 
-Monosyllabic **Tok Bona** stems lose their **vocalic** ending, except for **interjections**.
+Monosyllabic ***Tok Bona*** stems lose their vocalic ending, except for ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs.
 
-| ma tomo: maa domo → mo doma | soweli li mu: ĉoveli li mu. → la ĉovelo muas. |
+| ma tomo → mo doma | soweli li mu → la ĉovelo muas. |
 |:-|:-|
 | *town* | *The animal bleats.* |
 
-**Numerals** end in "-u".
+ɴᴜᴍʙᴇʀs end in **-u** (and **-ua**).
 
-| toki nanpa wan: tok namba wan → la toko nambo wanu → la toko wanua |
+| toki nanpa wan → la toko nambo wanu → la toko wanua |
 |:-|
 | *la unua lingvo* |
 
-**Correlatives** end in "-iu".
+ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ end in **-iu**.
 
-| seme: ŝenme → ŝenmiu | ni: ni → niu | ale: ale → aliu | ala: ara → ariu |
+| seme → ŝenmiu | ni → niu | ale → aliu | ala → ariu |
 |:-|:-|:-|:-|
 | *what* | *that* | *every* | *no* |
 
-**Personal pronouns** end in "-i".
+ᴘʀᴏɴᴏᴜɴs end in **-i**.
 
-| mi: mi | sina: sina → sini | ona: ona → oni |
+| mi → mi | sina → sini | ona → oni |
 |:-|:-|:-|
 | *I* | *you* | *she* |
 
