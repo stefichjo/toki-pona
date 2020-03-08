@@ -8,7 +8,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 ## Toki Namako
 *([Toki Pona](README.md) with Extended Vocabulary)*
 
-***Enhanced Toki Pona*** intermediate, less ***pona*** variant of [***Toki Poni***](README.md). It is for more abstract descriptions, typically in written form only.
+***Enhanced Toki Pona*** is an intermediate, less ***pona*** variant of [***Toki Pona***](README.md). It is for more abstract descriptions, typically in written form only.
 
 | <img src="musi/pona/toki-namako.png" height="50"> | 
 |:--| 
