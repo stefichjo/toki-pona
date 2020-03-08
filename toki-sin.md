@@ -1,9 +1,11 @@
 # Playful Dialects: Prequels, Sequels and Spin-Offs
 *([Toki Pona](README.md) Sin)*
 
+This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
+
 | | |
 |:-|:-|
-| [**Prequels**](#prequels) | [Tok Bona](#tok-bona): [Ijo Ŝin Bona](#ijo-ŝin-bona) |
+| [**Prequels**](#prequels) | [Tok Bona](#tok-bona) ([Ijo Ŝin Bona](#ijo-ŝin-bona)) |
 | [**Sequels**](#sequels) | [Toki Bona](#toki-bona): [Toĥi Bona](#toĥi-bona): [Toĥe Bona](#toĥe-bona) |
 | | |
 | [**Spin-Offs**](#spin-offs) | [Tok Bon](#tok-bon), [Toko Bona](#toko-bona) |
@@ -18,7 +20,7 @@
 
 | |
 |:-|
-| [Tok Bona](#tok-bona): [Ijo Ŝin Bona](#ijo-ŝin-bona) |
+| [Tok Bona](#tok-bona) ([Ijo Ŝin Bona](#ijo-ŝin-bona)) |
 
 ### Tok Bona
 *([Toki Pona Prequel](#prequels) with Preserved Etymological Forms)*
@@ -35,7 +37,7 @@ Words in **Tok Bona** are very close to their etymological origin.
 #### Ijo Ŝin Bona
 *([Toki Pona Prequel](#prequels) without Compound Hieroglyphs)*
 
-**Ijo Ŝin Bona** precedes **Tok Bona** and uses some expressions, that are supplanted by **Tok Bona**. For instance "ijo ŝin" (meaning "news") is replaced by "tok".
+***Ijo Ŝin Bona*** is a prequel of ***Tok Bona*** with less vocabulary. For instance, **ijo ŝin** (meaning *message*, *news*) is used instead of **tok**.
 
 | ꜱɪᴛᴇʟᴇɴ | ijo ŝin bona | toki pona |
 |:-|:-|:-|
@@ -56,7 +58,7 @@ Words in **Tok Bona** are very close to their etymological origin.
 <img src="musi/pona/pu.png" height="50" title="buk"> | **loŋ lipu biloŋ ijo ŝin bona** | pu |
 <img src="musi/pona/jo.png" height="50" title="jou"> | **(mi) loŋ mi** | jo |
 
-Animals are expressed by means of "tijelo".
+Animals are expressed by means of **tijelo**.
 
 | ꜱɪᴛᴇʟᴇɴ | ijo ŝin bona | toki pona |
 |:-|:-|:-|
@@ -65,18 +67,6 @@ Animals are expressed by means of "tijelo".
 <img src="musi/pona/pipi.png" height="50" title="bibit"> | **tijelo maa** | pipi |
 <img src="musi/pona/soweli.png" height="50" title="ĉoveli"> | **tijelo biloŋ pilim ĉeli** | soweli |
 <img src="musi/pona/waso.png" height="50" title="wazo"> | **tijelo koŋ** | waso |
-
-In **Old Ijo Ŝin Bona**, ᴘᴀʀᴛɪᴄʟᴇs, ᴘʀᴇ-ᴠᴇʀʙs and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs were omitted.
-
-| dan ŝenme la ona li kamap ĉodna e tok bona? → ŝenme ona ĉodna tok-bona? |
-|:-|
-| *Why did she learn Toki Pona?* |
-
-In **Old Ijo Ŝin Bona**, all ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs were written into one single **Sitelen Pona**. A dot in compound glyphs was omitted. In general, more variations were allowed.
-
-| <img src="musi/pona/pu.png" height="50"> | <img src="musi/pona/kulupu.png" height="50"> |
-|:--:|:--:|
-| *lipu biloŋ ijo ŝin bona* | *multe ijo* |
 
 ## Sequels
 *([toki pona](#dialects) lili)*
