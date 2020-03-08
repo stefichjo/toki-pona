@@ -17,8 +17,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 ### Prequels
 *([toki pona](#dialects) mama)*
 
-***TODO fix link***
-
 | |
 |:-|
 | [Tok Bona](#tok-bona) ([Ijo Ŝin Bona](#ijo-ŝin-bona)) |
