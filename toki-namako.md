@@ -32,7 +32,7 @@ For the same reason, synonyms are avoided. (The *italic* dictionary forms with a
 |:-|
 | *at the bottom of*, *under* |
 
-In **Toki Namako**, **namako** is a synonym of **sin** meaning *additional*, *another*, *extra*.
+In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *another*, *extra*. Other (extinct) synonyms can be used as well, but they are a strong indication for a lack of ***pona***-ness.
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
