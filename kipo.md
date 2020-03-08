@@ -58,7 +58,7 @@ When ᴋɪᴘᴏ turns a prepositions into a noun, the noun can have the meaning
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
-| *Where did you put the clock?* | **sina lon seme e ilo tenpo?** | **sina pana e ilo tenpo lon seme?** |
+| *Where did you put the clock next to?* | **sina lon poka seme e ilo tenpo?** | **sina pana e ilo tenpo lon poka seme?** |
 
 ## Content Words
 

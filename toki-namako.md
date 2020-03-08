@@ -32,7 +32,7 @@ For the same reason, synonyms are avoided. (The *italic* dictionary forms with a
 |:-|
 | *at the bottom of*, *under* |
 
-In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *another*, *extra*. Other (extinct) synonyms can be used as well, but they are a strong indication for a lack of ***pona***-ness.
+In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *another*, *extra*. Other (extinct) synonyms can be used as well, but they are a strong indicator for a lack of ***pona***-ness.
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
@@ -42,66 +42,60 @@ In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *
 | <img src="musi/pona/lukin.png" height="50" title="luk-im"> | [**ᴠᴇʀʙ**](#verb) **lukin** <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** |
 | <img src="musi/pona/lukin.png" height="50" title="luk-im"> | [**ɴᴏᴜɴ**](#noun) **oko** <br>ɴᴏᴜɴ **eye** |
 
----
+#### Toki Nasa
+*([Toki Pona Spin-Off](#spin-offs) with un-pona predicates and modifiers)*
 
-A ɴᴜᴍʙᴇʀ can be used like a ᴛʜɪɴɢ ɴᴏᴜɴ implying *mute pi ijo …*, i.e. an *amount*.
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can be used as ᴠᴇʀʙs. (Cf. [ᴋɪᴘᴏ](kipo.md#e).)
 
-| ɴᴜᴍʙᴇʀ tu | wan en wan sama tu |
-|:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two*: (*~~mute pi ijo~~ tu*) *pair* | *A singleton and a singleton are equal to a pair.* → *One plus one equals two.* |
-
-ɴᴜᴍʙᴇʀs are multiplied rather than added (not using ꜱᴏɴᴊᴀ's ["more complex and precise counting system"](sonja.md#lesson-12)).
-
-| tu tu | tu en tu sama tu tu |
-|:-|:-|
-| *two pairs* → *four* | *A pair and a pair are equal to two pairs.* – *Two plus two equals four.* |
-
-As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
-
-| tu en wan sama mute |
+| sina ' pana e ilo-tenpo lon poka-seme? → sina ' *lon poka-seme* e ilo-tenpo? |
 |:-|
-| *A pair and a singleton are equal to a set.* → *Two plus one equals three.* |
+| *Where did you put the clock next to?* |
 
+ᴀᴜxɪʟɪᴀʀɪᴇs can go between another ᴀᴜxɪʟɪᴀʀʏ and its ᴍᴀɪɴ ᴠᴇʀʙ.
 
----
-
-***TODO***
-
-## AUXILIARY
-
-***TODO toki nasa***
-
-A ᴍᴀɪɴ ᴠᴇʀʙ can have more than one ᴀᴜxɪʟɪᴀʀʏ.
-
-| mi wile sona e toki pona. → mi wile kama sona e toki pona. |
+| mi wile÷sona e toki-pona. → mi wile÷*kama*÷sona e toki-pona. |
 |:-|
-| I want to learn Toki Pona.
+| *I want to know Toki Pona.* → *I want to learn Toki Pona.* |
 
-## SUBORDINATE CLAUSE
-
-***TODO toki nasa***
-
-A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can describe a *degree* or an *extent*.
-
-| mi pali mute. tan ni la mi wile lape. → mi pali pi mute ni: mi wile lape. |
-|:-|
-| *I worked so much, I need to sleep.* |
+##### SUBORDINDATE CLAUSE
 
 A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question with **seme**, yielding a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ.
 
-| mani li lon seme? o toki e ni. → o toki e ni: mani li lon seme. |
+| o toki e ni: mani li lon seme. |
 |:-|
 | *Tell me where the money is.* |
 
-When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be reduced to its ᴘʀᴇᴅɪᴄᴀᴛᴇ, and the direct ᴏʙᴊᴇᴄᴛ can be omitted.
+A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can describe a *degree* or an *extent*.
 
-| jan ni li tawa musi lon poka pi soweli alasa. ona li … → jan ni: tawa musi lon poka pi soweli alasa, li … |
+| mi pali pi mute ni: mi wile lape. |
 |:-|
-| *The person that is dancing with wolves …* |
+| *I worked so much, I need to sleep.* |
 
-| mi sona e jan ni: ona li … → jan ni: mi sona, li … |
+ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs can follow a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ directly.
+
+| jan Isa li toki e ni: "mama mi o!" tawa sewi. |
 |:-|
-| *The person that I know …* |
+| *Jesus prayed: "My Father!"* |
+
+When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be reduced to its ᴘʀᴇᴅɪᴄᴀᴛᴇ (and the direct ᴏʙᴊᴇᴄᴛ can be omitted). Therefore, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs, ᴠᴇʀʙs and ᴀᴜxɪʟɪᴀʀɪᴇs can be used as ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs.
+
+| meli-pimeja: lon sinpin-tomo, li kute e kalama-musi. |
+|:-|
+| *A black lady in front of the building is listening to music.* |
+
+| jan: *sona* e ijo |
+|:-|
+| *a person who knows something* |
+
+| ona li jan-pona: *kama*÷jo e len-kule lon esun. |
+|:-|
+| *She is a friend who bought red pants.* |
+
+| jan: mi sona |
+|:-|
+| *a person that I know* |
+
+---
 
 ## PASSIVE
 
@@ -141,39 +135,6 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 ---
 
 
-
-#### Toki Nasa
-*([Toki Pona Spin-Off](#spin-offs) with un-pona predicates and modifiers)*
-
-ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can be used as ᴠᴇʀʙs.
-
-| sina pana e ilo tenpo lon poka seme? → sina lon poka seme e ilo tenpo? |
-|:-|
-| *Where did you put the clock next to?* |
-
-ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be ᴍᴏᴅɪꜰɪᴇʀs.
-
-| meli-pimeja: lon sinpin-tomo, li kute e kalama-musi. |
-|:-|
-| *A black lady in front of the building is listening to music.* |
-
-ᴠᴇʀʙs can be ᴍᴏᴅɪꜰɪᴇʀs.
-
-| jan sona ⇒ jan: *sona*, jan-sona |
-|:-|
-| *a person who knows*, *a knowledgeable person* |
-
-ᴀᴜxɪʟɪᴀʀɪᴇs can be ᴍᴏᴅɪꜰɪᴇʀs.
-
-| ona li jan-pona: *kama*÷jo e len-kule lon esun. |
-|:-|
-| *She is a friend who bought red pants.* |
-
-ᴀᴜxɪʟɪᴀʀɪᴇs can go between another ᴀᴜxɪʟɪᴀʀʏ and its ᴍᴀɪɴ ᴠᴇʀʙ.
-
-| mi wile÷sona e toki-pona. → mi wile÷*kama*÷sona e toki-pona. |
-|:-|
-| *I want to know Toki Pona.* → *I want to learn Toki Pona.* |
 
 ---
 
