@@ -44,7 +44,7 @@ In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *
 
 ꜰʀᴀɢᴍᴇɴᴛs can be used as NAMEs.
 
-| lipu "utala en pona" | sitelen tawa "weka lon toki ante" | sona wawa pi kama pi ijo ale | sitelen tawa mute "sona wawa pi kama pi ijo ale" |
+| lipu "utala en pona" | sitelen tawa "weka lon toki ante" | sitelen tawa mute "sona wawa pi kama pi ijo ale" |
 |:-|:-|:-|
 | *the book "War and Piece"* | *the film "Lost in Translation"* | *the series "Big Bang Theory"* |
 
