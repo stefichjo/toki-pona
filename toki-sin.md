@@ -6,7 +6,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | | |
 |:-|:-|
 | [**Prequels**](#prequels) | [Tok Bona](#tok-bona) ([Ijo Ŝin Bona](#ijo-ŝin-bona)) |
-| [**Sequels**](#sequels) | [Toki Bona](#toki-bona): [Toĥi Bona](#toĥi-bona): [Toĥe Bona](#toĥe-bona) |
+| [**Sequels**](#sequels) | [Toki Bona](#toki-bona) ([Toĥi Bona](#toĥi-bona)) |
 | | |
 | [**Spin-Offs**](#spin-offs) | [Tok Bon](#tok-bon), [Toko Bona](#toko-bona) |
 
@@ -73,38 +73,35 @@ Animals are expressed by means of **tijelo**.
 
 | |
 |:-|
-| [Toki Bona](#toki-bona): [Toĥi Bona](#toĥi-bona): [Toĥe Bona](#toĥe-bona) |
+| [Toki Bona](#toki-bona): ([Toĥi Bona](#toĥi-bona)) |
 
 ### Toki Bona
 *([Toki Pona Sequel](#sequels) with Voiced Consonants)*
 
-The consonant starting off an **adjective**/**adverb** is voiced.
+The consonant starting off a ᴍᴏᴅɪꜰɪᴇʀ is voiced.
 
-| jan pona: jan bona | tomo tawa: tomo dawa |
+| jan pona → jan bona | tomo tawa → tomo dawa |
 |:-|:-|
 | *friend* | *car* |
 
 #### Toĥi Bona
 *([Toki Pona Sequel](#sequels) with More Fricatives)*
 
-Before "e" or "i", the **consonants** "p", "t", "k" become the **fricatives** "f", "ĉ", "ĥ", whereas "s" becomes "ŝ".
+Before **e** or **i**, the consonants **p**, **t**, **k** become the fricatives **f**, **ĉ**, **ĥ**, whereas **s** becomes **ŝ**.
 
-| pilin: filin | tenpo: ĉenpo | ken: ĥen | selo: ŝelo |
+| pilin → filin | tenpo → ĉenpo | ken → ĥen | selo → ŝelo |
 |:-|:-|:-|:-|
 | *heart* | *time* | *can* | *skin* |
 
-When voiced, "f", "ĉ", "ĥ" and "ŝ" become "v", "ĝ", "h" and "ĵ".
+When voiced, **f**, **ĉ**, **ĥ** and **ŝ** become **v**, **ĝ**, **h** and **ĵ**.
 
-| tenpo pini: ĉenpo vini | tomo telo: tomo ĝelo | nasin sewi: naŝin ĵewi | ko kiwen: ko hiwen |
+| tenpo pini → ĉenpo vini | tomo telo → tomo ĝelo | nasin sewi → naŝin ĵewi | ko kiwen → ko hiwen |
 |:-|:-|:-|:-|
 | *past* | *bathroom* | *religion* | *sand* |
 
-##### Toĥe Bona
-*([Toki Pona Sequel](#sequels) with Three/Pseudo-Five Vowels)*
+Additionaly, the vowels **u** and **i** can merge with **o** and **e**.
 
-The vowels "u" and "i" merge with "o" and "e".
-
-| tu: to | mi: me | musi: muŝi → moŝe |
+| tu → to | mi → me | musi → moŝe |
 |:-|:-|:-|
 | *two* | *I* | *recreational* |
 
