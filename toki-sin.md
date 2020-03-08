@@ -124,15 +124,19 @@ Additionaly, the vowels **u** and **i** can merge with **o** and **e**.
 
 Final vowels (+ consonant) are dropped, except if the word is monosyllabic.
 
-| ona → on | mi → mi | akesi → haged | lukin → luk |
-|:-|:-|:-|:-|
-| *she* | *I* | *reptile* | *eye* |
+| | ***Toki Pona*** | ***Toki Bona*** |
+|:-|:-|:-|
+| *she* | **ona** | **on** |
+| *I* | **mi** | **mi** |
+| *reptile* | **akesi** | **haged** |
+| *eye* | **lukin** | **luk** |
 
 The ᴘᴀʀᴛɪᴄʟᴇs **biloŋ** and **li** become the ending **-i**.
 
-| tomo pi telo nasa → dom deli nas | jan li pali → jan fari. |
-|:-|:-|
-| *bar* | *People are working.* |
+| | ***Toki Pona*** | ***Toki Bona*** |
+|:-|:-|:-|
+| *bar* | **tomo pi telo nasa** | **dom deli nas** |
+| *People are working.* | **jan li pali.** | **jan fari.** |
 
 The ᴘᴀʀᴛɪᴄʟᴇs **ho** and **e** become the endings **-o** and **-e**.
 
