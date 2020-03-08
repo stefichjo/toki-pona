@@ -17,7 +17,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [Traditional Toki Pona (ᴘɪᴊᴇ)](pije.md) |
 | [Dialectal Toki Pona (ᴋɪᴘᴏ)](kipo.md) |
 | |
-| [Playful Dialects: Prequels, Sequels ans Spin-Offs](toki-sin.md) |
+| [Fictional Toki Pona (ᴛᴇᴘᴀɴ)](toki-sin.md) |
 
 ## Examples
 
