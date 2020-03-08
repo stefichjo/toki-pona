@@ -53,7 +53,7 @@ In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *
 
 ᴀᴜxɪʟɪᴀʀɪᴇs can go between another ᴀᴜxɪʟɪᴀʀʏ and its ᴍᴀɪɴ ᴠᴇʀʙ.
 
-| mi wile÷sona e toki-pona. → mi wile÷*kama*÷sona e toki-pona. |
+| mi ' wile÷sona e toki-pona. → mi ' wile÷*kama*÷sona e toki-pona. |
 |:-|
 | *I want to know Toki Pona.* → *I want to learn Toki Pona.* |
 
@@ -61,19 +61,19 @@ In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *
 
 A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question with **seme**, yielding a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ.
 
-| o toki e ni: mani li lon seme. |
+| ' o toki e ni: mani li lon seme. |
 |:-|
 | *Tell me where the money is.* |
 
 A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can describe a *degree* or an *extent*.
 
-| mi pali pi mute ni: mi wile lape. |
+| mi ' pali pi mute-ni: mi ' wile÷lape. |
 |:-|
 | *I worked so much, I need to sleep.* |
 
 ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs can follow a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ directly.
 
-| jan Isa li toki e ni: "mama mi o!" tawa sewi. |
+| jan:Isa li toki e ni: "mama-mi o!" tawa sewi. |
 |:-|
 | *Jesus prayed: "My Father!"* |
 
@@ -91,7 +91,7 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 |:-|
 | *She is a friend who bought red pants.* |
 
-| jan: mi sona |
+| jan: mi ' sona |
 |:-|
 | *a person that I know* |
 
