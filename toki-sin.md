@@ -3,7 +3,7 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-[***Toki Pona Prequels***](#prequels)  and [***Toki Pona Sequels***](#sequels) are fictional [***Toki Pona***](README.md) dialects of the past and the future respectively, whereas [***Toki Pona Spin-Offs***](#spin-offs) are fictional co-existing [***Toki Pona***](README.md) dialects of the present. These [***dialects***](#dialects) should not be mixed with ordinary [***Toki Pona***](README.md). (Cf. [***Enhanced Toki Pona***](toki-namako.md).)
+[***Toki Pona Prequels***](#prequels)  and [***Toki Pona Sequels***](#sequels) are fictional [***Toki Pona***](README.md) dialects of the past and the future respectively, whereas [***Toki Pona Spin-Offs***](#spin-offs) are fictional co-existing [***Toki Pona***](README.md) dialects of the present. [***Fictional Toki Pona***](#dialects) goes beyond [**Frontier Toki Pona**](tepan.md) and should therefore not be mixed with ordinary [***Toki Pona***](README.md). (Cf. [***Enhanced Toki Pona***](toki-namako.md).)
 
 ## Dialects
 
