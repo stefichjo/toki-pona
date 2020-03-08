@@ -8,6 +8,40 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 ## Toki Namako
 *([Toki Pona](README.md) with Extended Vocabulary)*
 
+***Enhanced Toki Pona*** intermediate, less ***pona*** variant of [***Toki Poni***](README.md). It is for more abstract descriptions, typically in written form only.
+
+| <img src="musi/pona/toki-namako.png" height="50"> | 
+|:--| 
+| *toki namako* |
+
+***Toki Namako*** relies heavily on [punctuation](tepan.md#punctuation).
+
+| jan-sona |
+|:-|
+| *a knowledgeable person* |
+
+***Toki Namako*** avoids omissions. (The ~~strikethrough~~ *italic* dictionary forms (in parenthesis) apply.)
+
+| sinpin ⇒ sinpin, sinpin-*sijelo*, sinpin-*lawa* | mute ⇒ mute, mute-*namako* | jan-lawa ⇒ jan-lawa, jan-lawa-*wan* |
+|:-|:-|:-|
+| *wall*, *chest*, *face* | *many*, *more* | *a/the ruler*, *a certain ruler* |
+
+For the same reason, synonyms are avoided. (The *italic* dictionary forms with a double arrow ⇐ (in parenthesis) apply.)
+
+| lon noka ⇒ lon noka, lon *anpa* |
+|:-|
+| *at the bottom of*, *under* |
+
+In **Toki Namako**, **namako** is a synonym of **sin** meaning *additional*, *another*, *extra*.
+
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="musi/pona/sin.png" height="50" title="ŝin"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#nasin-nimi.md##modifier) *jaki* — **sin**, *suwi* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh** |
+| <img src="musi/pona/namako.png" height="50" title="namak"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#nasin-nimi.md#preposition) **namako** — *taso* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ [*in addition to*, *with*](tepan.md#preposition) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **additional**, **another**, **extra** |
+| | |
+| <img src="musi/pona/lukin.png" height="50" title="luk-im"> | [**ᴠᴇʀʙ**](#verb) + [**ᴀᴜxɪʟɪᴀʀʏ**](#auxiliary) **lukin** <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** + <br>ᴀᴜxɪʟɪᴀʀʏ **to seek** *to*, [**seek to**](sonja.md#lesson-13), **try to**; (*lukin jo*) [**to look for**](sonja.md#errata); (*lukin kama lon*) *to search for* <br>ᴠᴇʀʙ *to care for* |
+| <img src="musi/pona/lukin.png" height="50" title="luk-im"> | [**ɴᴏᴜɴ**](#noun) **oko** <br>ɴᴏᴜɴ **eye** |
+
 ---
 
 A ɴᴜᴍʙᴇʀ can be used like a ᴛʜɪɴɢ ɴᴏᴜɴ implying *mute pi ijo …*, i.e. an *amount*.
@@ -107,37 +141,6 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 ---
 
 
-
-**Toki Namako** (or **Toki Pona pi Nasin Namako**) is an intermediate, less ***pona*** variant of **Toki Pona**. It is for more abstract descriptions, typically in written form only.
-
-| <img src="musi/pona/toki-namako.png" height="50"> | 
-|:--| 
-| *toki namako* |
-
-**Toki Namako** relies heavily on [punctuation](tepan.md#punctuation).
-
-| jan-sona |
-|:-|
-| *a knowledgeable person* |
-
-**Toki Namako** avoids omissions. (The ~~strikethrough~~ *italic* dictionary forms (in parenthesis) apply.)
-
-| sinpin ⇒ sinpin, sinpin-*sijelo*, sinpin-*lawa* | mute ⇒ mute, mute-*namako* | jan-lawa ⇒ jan-lawa, jan-lawa-*wan* |
-|:-|:-|:-|
-| *wall*, *chest*, *face* | *many*, *more* | *a/the ruler*, *a certain ruler* |
-
-For the same reason, synonyms are avoided. (The *italic* dictionary forms with a double arrow ⇐ (in parenthesis) apply.)
-
-| lon noka ⇒ lon noka, lon *anpa* |
-|:-|
-| *at the bottom of*, *under* |
-
-In **Toki Namako**, **namako** is a synonym of **sin** meaning *additional*, *another*, *extra*. Therefore, **Toki Namako** has 121 words, including **namako**.
-
-| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
-|:-|:-|
-| <img src="musi/pona/namako.png" height="50" title="namak"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#nasin-nimi.md#preposition) **namako** — *taso* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ [*in addition to*, *with*](tepan.md#preposition) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **additional**, **another**, **extra** |
-| <img src="musi/pona/sin.png" height="50" title="ŝin"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#nasin-nimi.md##modifier) *jaki* — **sin**, *suwi* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh** |
 
 #### Toki Nasa
 *([Toki Pona Spin-Off](#spin-offs) with un-pona predicates and modifiers)*
