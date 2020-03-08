@@ -57,7 +57,7 @@ In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *
 |:-|
 | *I want to know Toki Pona.* → *I want to learn Toki Pona.* |
 
-##### SUBORDINATE CLAUSE
+### SUBORDINATE CLAUSE
 
 A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question with **seme**, yielding a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ.
 
@@ -95,13 +95,11 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 |:-|
 | *a person that I know* |
 
----
+### PASSIVE
 
-## PASSIVE
+ᴠᴇʀʙs used as ɴᴏᴜɴs omit **ijo**. Without omitting **ijo**, ᴘᴀꜱꜱɪᴠᴇ is expressed.
 
-ᴠᴇʀʙs used as ɴᴏᴜɴs omit **ijo**. Without omitting **ijo**, ᴘᴀꜱꜱɪᴠᴇ can be expressed.
-
-| soweli li moku e kala. → kala li ijo moku lon soweli. |
+| soweli li moku e kala. → kala li ijo-moku lon soweli. |
 |:-|
 | *The fish is being eaten by the cat.* |
 
