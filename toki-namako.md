@@ -103,38 +103,35 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 |:-|
 | *The fish is being eaten by the cat.* |
 
----
+## Toki Ike
 
-#### Toki Pi Pona
-*([Toki Pona Spin-Off](#spin-offs) with a freer phrase structure)*
+ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs and [**ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ**](#subordinate-clause)s can be used as ᴍᴏᴅɪꜰɪᴇʀs. (Cf. [ᴘɪᴊᴇ](pije.md#pi) and [ᴋɪᴘᴏ](kipo.md#pi).)
 
-For more literal word-for-word translations, phrase structues are more liberal. The noun phrase after **pi** can consist of a single word.
+| toki:nanpa:wan → toki pi nanpa:wan | meli-pimeja lon sinpin-tomo → meli-pimeja pi lon sinpin-tomo |
+|:-|:-|
+| *the first language* | *a black lady in front of the building* |
 
-| toki pi pona |
+The ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ after **pi** can consist of a single word. **pi**-ᴘʜʀᴀꜱᴇs can be ᴘʀᴇᴅɪᴄᴀᴛᴇs. (Cf. [ᴘɪᴊᴇ](pije.md#pi).)
+
+| toki pona → toki pi pona | kili li ijo mi. → kili li pi mi. |
 |:-|
-| *language of good* |
+| *language of good* | *The apply is mine.* |
 
-Prepositional phrases can be used as modifiers.
+**ni:** at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ is always omitted.
 
-| jan lon poka mi li lukin kepeken ilo sona e lipu lon toki pona. |
-|:-|
-| *The person next to me is reading on the internet a book in Toki Pona.* |
-
-Accusative phrases can be used as modifiers.
-
-| lukin e sitelen tawa li pona tawa mi. |
+| ni: ~~mi~~ ' lukin e sitelen-tawa, li pona tawa mi. → lukin e sitelen tawa li pona tawa mi. |
 |:-|
 | *I like watching movies.* |
 
-Any transitive verb can be used as a pre-verb.
+Any ᴠᴇʀʙ can be used as an ᴀᴜxɪʟɪᴀʀʏ.
 
-| mi olin lukin e sitelen tawa. | mi pilin e ni: mi wile lape. → mi pilin lape. |
-|:-|:-|
-| *I love to watch movies.* | *I feel like sleeping.* |
+| mi pilin e ni: mi wile÷lape. → mi pilin÷wile÷lape. |
+|:-|
+| *I feel like sleeping.* |
 
-An **e**-phrase can be turned into a **pi**-phrase (or a modifier).
+An **e**-ᴘʜʀᴀꜱᴇ can be turned into a **pi**-ᴘʜʀᴀꜱᴇ (or a ᴍᴏᴅɪꜰɪᴇʀ).
 
-| mi ante e toki pi sitelen tawa. → mi ante toki e sitelen tawa. |
+| mi ante e toki pi sitelen-tawa. → mi ante-toki e sitelen-tawa. |
 |:-|
 | *I translated the movie.* |
 

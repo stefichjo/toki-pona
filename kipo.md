@@ -9,11 +9,15 @@
 
 ## Particles
 
+### pi
+
 ᴋɪᴘᴏ combines **pi** with predicates.
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *the person that went home* | **jan pi tawa tomo** | **jan li tawa tomo. ona li ...** |
+
+### li
 
 ᴋɪᴘᴏ prefixes a **li**-sentence with an "optative" **o**.
 
