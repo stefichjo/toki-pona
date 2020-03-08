@@ -107,7 +107,7 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 
 ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs and [**ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ**](#subordinate-clause)s can be used as ᴍᴏᴅɪꜰɪᴇʀs. (Cf. [ᴘɪᴊᴇ](pije.md#pi) and [ᴋɪᴘᴏ](kipo.md#pi).)
 
-| toki:nanpa:wan → toki pi nanpa:wan | meli-pimeja lon sinpin-tomo → meli-pimeja pi lon sinpin-tomo |
+| toki:nanpa:wan → toki pi nanpa:wan | meli-pimeja: lon sinpin-tomo → meli-pimeja pi lon sinpin-tomo |
 |:-|:-|
 | *the first language* | *a black lady in front of the building* |
 
