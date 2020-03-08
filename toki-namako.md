@@ -42,7 +42,13 @@ In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *
 | <img src="musi/pona/lukin.png" height="50" title="luk-im"> | [**ᴠᴇʀʙ**](#verb) **lukin** <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** |
 | <img src="musi/pona/lukin.png" height="50" title="luk-im"> | [**ɴᴏᴜɴ**](#noun) **oko** <br>ɴᴏᴜɴ **eye** |
 
-#### Toki Nasa
+ꜰʀᴀɢᴍᴇɴᴛs can be used as NAMEs.
+
+| lipu "utala en pona" | sitelen tawa "weka lon toki ante" | sona wawa pi kama pi ijo ale | sitelen tawa mute "sona wawa pi kama pi ijo ale" |
+|:-|:-|:-|
+| *the book "War and Piece"* | *the film "Lost in Translation"* | *the series "Big Bang Theory"* |
+
+## Toki Nasa
 *([Toki Pona Spin-Off](#spin-offs) with un-pona predicates and modifiers)*
 
 ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can be used as ᴠᴇʀʙs. (Cf. [ᴋɪᴘᴏ](kipo.md#e).)
@@ -57,7 +63,7 @@ In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *
 |:-|
 | *I want to know Toki Pona.* → *I want to learn Toki Pona.* |
 
-##### SUBORDINDATE CLAUSE
+##### SUBORDINATE CLAUSE
 
 A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be a question with **seme**, yielding a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ.
 
@@ -79,7 +85,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can describe a *degree* or an 
 
 When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be reduced to its ᴘʀᴇᴅɪᴄᴀᴛᴇ (and the direct ᴏʙᴊᴇᴄᴛ can be omitted). Therefore, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs, ᴠᴇʀʙs and ᴀᴜxɪʟɪᴀʀɪᴇs can be used as ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs.
 
-| meli-pimeja: lon sinpin-tomo, li kute e kalama-musi. |
+| meli-pimeja: *lon* sinpin-tomo, li kute e kalama-musi. |
 |:-|
 | *A black lady in front of the building is listening to music.* |
 
@@ -104,37 +110,6 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 | soweli li moku e kala. → kala li ijo moku lon soweli. |
 |:-|
 | *The fish is being eaten by the cat.* |
-
-## CONTEXT
-
-Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be used freely. Therefore, a *comma* between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs can't be safely removed.
-
-| weka lon toki ante | sewi lon ala, lon ale |
-|:-|:-|
-| *Lost in Translation* | *God between Zero and Infinity* |
-
-Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures and after ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used freely.
-
-| utala en pona | sewi li lon ala, li lon ale. → sewi li lon ala en ale. |
-|:-|:-|
-| *War and Peace* | *God is the tangential point between zero and infinity.* |
-
-Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, the ɢᴇɴɪᴛɪᴠᴇ ᴍᴀʀᴋᴇʀ **pi** can be used freely. Therefore, a *comma* between two ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can't be safely removed.
-
-| sona wawa pi kama pi ijo ale | tomo pi telo nasa, pi ma ante |
-|:-|:-|
-| *Big Bang Theory* | *The Foreign Bar* |
-
-Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead of **li**.
-
-| wan en wan li tu. → wan en wan sama tu |
-|:-|
-| *One and one equals two.* |
-
-
----
-
-
 
 ---
 
@@ -304,4 +279,17 @@ If **ni:** is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is no
 
 * ❤️ 💙 💛 → 🔴 🔵 🟡
 * 🖤 🤍 → ⚫ ⚪
+
+---
+
+A *comma* between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs in a ꜰʀᴀɢᴍᴇɴᴛ can't be safely removed.
+
+| sewi lon ala, lon ale |
+|:-|
+| *God between Zero and Infinity* |
+
+| sewi li lon ala, li lon ale. → sewi li lon ala en ale. |
+|:-|:-|
+| *God is the tangential point between zero and infinity.* |
+
 

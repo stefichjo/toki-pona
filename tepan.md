@@ -164,9 +164,15 @@ A ɴᴜᴍʙᴇʀ can be used like a ᴛʜɪɴɢ ɴᴏᴜɴ implying *mute pi ij
 
 As a ɴᴜᴍʙᴇʀ, **mute** means exactly *three*.
 
-| tu en wan sama mute |
+| ɴᴜᴍʙᴇʀ mute |
 |:-|
-| *A pair and a singleton are equal to a set.* → *Two plus one equals three.* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *three* |
+
+Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead of **li**.
+
+| tu en wan li mute. → tu en wan sama mute |
+|:-|
+| *Two plus one equals three.* |
 
 #### [VERB](nasin-nimi.md#verb)
 
