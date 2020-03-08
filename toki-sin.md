@@ -81,35 +81,37 @@ The consonant starting off a ᴍᴏᴅɪꜰɪᴇʀ is voiced.
 
 | | ***Toki Pona*** | ***Toki Bona*** |
 |:-|:-|:-|
-| *friend* | **jan pona** | **jan bona** |
-| *car* | **tomo tawa** | **tomo dawa** |
+| *friend* | jan pona | **jan bona** |
+| *car* | tomo tawa | **tomo dawa** |
 
 ##### Toĥi Bona
 *([Toki Pona Sequel](#sequels) with More Fricatives)*
 
 Before **e** or **i**, the consonants **p**, **t**, **k** become the fricatives **f**, **ĉ**, **ĥ**, whereas **s** becomes **ŝ**.
 
-| | ***Toki Pona*** | ***Toki Bona*** |
+| | ***Toki Pona*** | ***Toĥi Bona*** |
 |:-|:-|:-|
-| *heart* | **pilin** | **filin** |
-| *time* | **tenpo** | **ĉenpo** |
-| *can* | **ken** | **ĥen** |
-| *skin* | **selo** | **ŝelo** |
+| *heart* | pilin | **filin** |
+| *time* | tenpo | **ĉenpo** |
+| *fruit* | kili | **ĥili** |
+| *skin* | selo | **ŝelo** |
 
 When voiced, **f**, **ĉ**, **ĥ** and **ŝ** become **v**, **ĝ**, **h** and **ĵ**.
 
-| | ***Toki Pona*** | ***Toki Bona*** |
+| | ***Toki Pona*** | ***Toĥi Bona*** |
 |:-|:-|:-|
-| *past* | **tenpo pini** | **ĉenpo vini** |
-| *bathroom* | **tomo telo** | **tomo ĝelo** |
-| *religion* | **nasin sewi** | **naŝin ĵewi** |
-| *sand* | **ko kiwen** | **ko hiwen** |
+| *past* | tenpo pini | **ĉenpo vini** |
+| *bathroom* | tomo telo | **tomo ĝelo** |
+| *religion* | nasin sewi | **naŝin ĵewi** |
+| *sand* | ko kiwen | **ko hiwen** |
 
 Additionaly, the vowels **u** and **i** can merge with **o** and **e**.
 
-| tu → to | mi → me | musi → moŝe |
+| | ***Toki Pona*** | ***Toĥi Bona*** → ***Toĥe Bona*** |
 |:-|:-|:-|
-| *two* | *I* | *recreational* |
+| *two* | tu | **tu** → **to** |
+| *I* | mi | **mi** → **me** |
+| *recreational* | musi | **muŝi** → **muŝe** |
 
 ### Spin-Offs
 *([toki pona](#dialects) sama)*
