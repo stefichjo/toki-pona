@@ -3,10 +3,12 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-### Toki Namako
-*([Toki Pona Spin-Off](#spin-offs) with Extended Vocabulary)*
+[***Extended Toki Pona***](#toki-namako) should not be mixed with ordinary [***Toki Pona***](README.md).
 
-***TODO***
+## Toki Namako
+*([Toki Pona](README.md) with Extended Vocabulary)*
+
+---
 
 A ɴᴜᴍʙᴇʀ can be used like a ᴛʜɪɴɢ ɴᴏᴜɴ implying *mute pi ijo …*, i.e. an *amount*.
 

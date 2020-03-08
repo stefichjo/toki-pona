@@ -1,4 +1,4 @@
-# toki pona
+# Toki Pona
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
@@ -14,10 +14,11 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [Community Toki Pona (ꜱᴏɴᴊᴀ)](sonja.md) |
 | [Frontier Toki Pona (ᴛᴇᴘᴀɴ)](tepan.md) |
 | |
+| [Enhanced Toki Pona (ᴛᴇᴘᴀɴ)](toki-namako.md) |
+| [Fictional Toki Pona (ᴛᴇᴘᴀɴ)](toki-sin.md) |
+| |
 | [Traditional Toki Pona (ᴘɪᴊᴇ)](pije.md) |
 | [Dialectal Toki Pona (ᴋɪᴘᴏ)](kipo.md) |
-| |
-| [Fictional Toki Pona (ᴛᴇᴘᴀɴ)](toki-sin.md) |
 
 ## Examples
 
