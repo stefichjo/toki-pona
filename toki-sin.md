@@ -5,7 +5,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ## Dialects
 
-[Toki Pona Prequels](#prequels)  and [Toki Pona Sequels](#sequels) are fictional ***Toki Pona*** dialects of the past and the future respectively, whereas [Toki Pona Spin-Offs](#spin-offs) are fictional co-existing ***Toki Pona*** dialects of the present.
+[Toki Pona Prequels](#prequels)  and [Toki Pona Sequels](#sequels) are fictional ***Toki Pona*** dialects of the past and the future respectively, whereas [Toki Pona Spin-Offs](#spin-offs) are fictional co-existing ***Toki Pona*** dialects of the present. These dialects go far beyond [Enhanced Toki Pona](toki-namako.md).
 
 | | |
 |:-|:-|
