@@ -269,16 +269,3 @@ If **ni:** is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is no
 * ❤️ 💙 💛 → 🔴 🔵 🟡
 * 🖤 🤍 → ⚫ ⚪
 
----
-
-A *comma* between two ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs in a ꜰʀᴀɢᴍᴇɴᴛ can't be safely removed.
-
-| sewi lon ala, lon ale |
-|:-|
-| *God between Zero and Infinity* |
-
-| sewi li lon ala, li lon ale. → sewi li lon ala en ale. |
-|:-|:-|
-| *God is the tangential point between zero and infinity.* |
-
-
