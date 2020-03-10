@@ -160,7 +160,7 @@ For the same reason, synonyms are avoided. (The *italic* dictionary forms with a
 |:-|
 | *at the bottom of*, *under* |
 
-In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *another*, *extra*. Other (extinct) synonyms can be used as well, but they are a strong indicator for a lack of ***pona***-ness.
+In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *another*, *extra*. Other (extinct) synonyms can be used as well, but they are a strong indicator for a lack of ***pona***-ness. (Cf. [ᴘɪᴊᴇ](pije.md#oko).)
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
@@ -274,3 +274,4 @@ A ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ can be used as a ɴᴏᴜɴ meaning the ᴘʀᴇ
 | mi sona ala e *tan*. |
 |:-|
 | *I don't know why.* |
+
