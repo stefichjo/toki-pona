@@ -5,10 +5,138 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 [***Enhanced Toki Pona***](#toki-namako) goes beyond [***Frontier Toki Pona***](tepan.md) and should therefore not be mixed with ordinary [***Toki Pona***](README.md). (Cf. [***Fictional Toki Pona***](toki-sin.md).)
 
+## Punctuation
+
+For didactical purposes, safely removed *commas* remain.
+
+| ona li lili, li lete. | o pilin pona, o pu! |
+|:-|:-|
+| *It is small and cold.* | *Be happy and read the official Toki Pona book!* |
+
+For didactical purposes, omitted words are represented by *hiphens*, *apostrophes* and other symbols.
+
+| | |
+|:-|:-|
+| **toki ~~pi~~ pona** | **toki-pona** |
+| **mi ~~li~~ sin.** | **mi ' sin.** |
+| **mije li sona ~~e ijo~~.** | **mije li sona '.** |
+| **~~ijo~~ ale li pona.** | **'-ale li pona.** |
+| **ona li wile ~~e ni: ona li~~ lape.** | **ona li wile÷lape.** |
+
+For didactical purposes, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs following a ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ have a *colon*. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs describing a *perception* also have a *colon*.
+
+| |
+|:-|
+| **jan:Sonja** |
+| **toki:nanpa:wan** |
+| **mi lukin e meli-pimeja: lon sinpin-tomo.** |
+
+## Orthography
+*(nasin sitelen pi [toki pona](README.md))*
+
+| |
+|:-|
+| [Ascii](#ascii) |
+| [Playful Hieroglyphs](#playful-hieroglyphs) |
+| [Emoji](#emoji) |
+
+### Ascii
+
+| nanpa wan la o pu. → `#1)` o pu. |
+|:-|
+| *First, consult the official Toki Pona book.* |
+
+| tu tu → `4` → `2×2` | tu en tu sama tu tu → `2+2 = 2×2` |
+|:-|:-|
+| *four* | *two plus two equals four* |
+
+### Playful Hieroglyphs
+*(sitelen pona musi)*
+
+| <img src="musi/pona/toki-pona.png" height="25"> |  <img src="musi/pona/sitelen-pona-musi.png" height="25"> | <img src="musi/pona/sina-suli-a.png" height="25"> | <img src="musi/pona/ma-kanata.png" height="25"> | <img src="musi/pona/toki-nanpa-wan.png" height="25"> |
+|:--:|:--:|:--:|:--:|:--:|
+| **toki pona** | **sitelen pona musi** | **sina suli a!** | **ma Kanata** | **toki nanpa wan** |
+
+ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs, ɴᴜᴍʙᴇʀs, ᴘʀᴏɴᴏᴜɴs and simple ɴᴏᴜɴs don't become part of another ɴᴏᴜɴ in general. They can only become part of another simple ɴᴏᴜɴ.
+
+| <img src="musi/pona/mi-weka-e-ike-jan-la-mi-weka-e-ike-mi.png" height="50"> |
+|:--:| 
+| **mi weka e ike jan, la mi weka e ike mi.** |
+
+Click [here](musi/sitelen-pona-musi.md) for more examples.
+
+#### Content Words
+
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are written above.
+
+| <img src="musi/pona/mi-lon-tomo.png" height="50"> | <img src="musi/pona/wawa-li-lon-insa.png" height="75"> | <img src="musi/pona/mi-pana-e-kala-tawa-ona-lon-tomo.png" height="75"> | <img src="musi/pona/tan-seme-la-soweli-wawa-pimeja-li-moku-e-ona.png" height="75"> |
+|:--:|:--:|:--:|:--:| 
+| **mi lon tomo.** | **wawa li lon insa.** | **mi pana e kala tawa ona lon tomo.** | **tan seme la soweli wawa pimeja li moku e ona?** |
+
+ᴀᴜxɪʟɪᴀʀɪᴇs are written above.
+
+| <img src="musi/pona/mi-kama-sona-e-toki-pona.png" height="75"> |
+|:--:| 
+| **mi kama sona e toki pona.** |
+
+ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs after a colon are written below.
+
+| <img src="musi/pona/mi-sona-e-ni-mi-anpa.png" height="50"> |
+|:--:| 
+| **mi sona e ni: mi anpa.** |
+
+If **ni:** is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is not written below.
+
+| <img src="musi/pona/mi-pona-tawa-jan-la-jan-li-pona-tawa-mi.png" height="75"> |
+|:--:| 
+| *~~lon ni:~~ mi pona tawa jan, la jan li pona tawa mi.** |
+
+**taso** is written above.
+
+| <img src="musi/pona/taso-mije-en-meli-li-pali-li-pilin-pona.png" height="75"> |
+|:--:| 
+| **taso mije en meli li pali li pilin pona.** |
+
+#### Particles
+
+ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀs are written below.
+
+| <img src="musi/pona/ale-li-pona.png" height="50"> | <img src="musi/pona/jan-ala-li-ike.png" height="50"> | <img src="musi/pona/mi-o-moku-e-ijo-pona.png" height="50"> | <img src="musi/pona/o-kute-e-mama-sina.png" height="50"> |
+|:--:|:--:|:--:|:--:|
+| **ale li pona.** | **jan ala li ike.** | **mi o moku e ijo pona.** | **o kute e mama sina.** |
+
+### Emoji
+
+| | | | | | | | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ❗ | 🐊 | 0️⃣  | 🏹 | ♾ | ⬇️ | 🔀 | ✖️ | ⏸️ | ⏩ | ➕ | 🛒 |
+| a | akesi | ala | alasa | ale | anpa | ante | anu | awen | e | en | esun |
+| ⚛️ | 👎 | 🔨 | 🎯  | 💩 | 👤 | 💛️ | 👜 | 🐟 | 🔉 | ⏮️ | 🌱 |
+| ijo | ike | ilo | insa | jaki | jan | jelo | jo | kala | kalama | kama | kasi |
+| 🇰 | 🔧 | 🍏 | 💎 | 🧹 | 💨 | 🌈 | 👥 | 👂 | ◀️ | 😴 | 💙 |
+| ken | kepeken | kili | kiwen | ko | kon | kule | kulupu | kute | la | lape | laso |
+| 🗿 | 👗 | ❄️ | ▶️ | 👶 | 🧵 | 📄 | ❤️ | ↕️ | 🖐️ | 👁️ | 🕳️ |
+| lawa | len | lete | li | lili | linja | lipu | loje | lon | luka | lukin | lupa |
+| 🏝 | 👪 | 💰 | 👩 | 👈 | 👨 | 🍽 | 💀 | ⬅️ | 😹 | 🌜 | 🃏 |
+| ma | mama | mani | meli | mi | mije | moku | moli | monsi | mu | mun | musi |
+| 3️⃣ | #️⃣ | 🌀 | ⛖ | 🗻 | 👇 | 💬 | 🦶 | ⏺ | 💕️ | 👆 | 🔓 |
+| mute | nanpa | nasa | nasin | nena | ni | nimi | noka | o | olin | ona | open |
+| 💥 | ✊ | 📏 | 🍞 | 🎁 | ⏹️ | 💗 | ⚫ | ⏭ | 🦟 | ↔️ | 📦 |
+| pakala | pali | palisa | pan | pana | pi | pilin | pimeja | pini | pipi | poka | poki |
+| 👍 | 📖 | 🔁 | 🔥 | 🔲 | ❓ | ⬆️ | 🏃 | ⭕ | 🌟 | 👉 | ➡️ |
+| pona | pu | sama | seli | selo | seme | sewi | sijelo | sike | sin | sina | sinpin |
+| 🖼 | ℹ️ | 🐈 | 🧓 | 🌞️ | 🛏 | 🍭 | ↩️ | ⏪ | ↪️ | 💧 | 🕒 |
+| sitelen | sona | soweli | suli | suno | supa | suwi | tan | taso | tawa | telo | tenpo |
+| 🗣 | 🏠 | 2️⃣ | 💏 | 👄 | ⚔️ | ⚪ | 1️⃣ | 🐤 | ⚡ | ➖ | 🇼 |
+| toki | tomo | tu | unpa | uta | utala | walo | wan | waso | wawa | weka | wile |
+
+* ❤️ 💙 💛 → 🔴 🔵 🟡
+* 🖤 🤍 → ⚫ ⚪
+
 ## Toki Namako
 *([Toki Pona](README.md) with Extended Vocabulary)*
 
-***Enhanced Toki Pona*** is an intermediate, less ***pona*** variant of [***Toki Pona***](README.md). It is for more abstract descriptions, typically in written form only.
+***Toki Namako*** is an intermediate, less ***pona*** variant of [***Toki Pona***](README.md). It is for more abstract descriptions, typically in written form only.
 
 | <img src="musi/pona/toki-namako.png" height="50"> | 
 |:--| 
@@ -99,7 +227,7 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 
 ᴠᴇʀʙs used as ɴᴏᴜɴs omit **ijo**. Without omitting **ijo**, ᴘᴀꜱꜱɪᴠᴇ is expressed.
 
-| soweli li moku e kala. → kala li ijo-moku lon soweli. |
+| soweli li moku e kala. → kala li *ijo-moku* lon soweli. |
 |:-|
 | *The fish is being eaten by the cat.* |
 
@@ -107,13 +235,13 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 
 ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs and [**ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ**](#subordinate-clause)s can be used as ᴍᴏᴅɪꜰɪᴇʀs. (Cf. [ᴘɪᴊᴇ](pije.md#pi) and [ᴋɪᴘᴏ](kipo.md#pi).)
 
-| toki:nanpa:wan → toki pi nanpa:wan | meli-pimeja: lon sinpin-tomo → meli-pimeja pi lon sinpin-tomo |
+| toki:nanpa:wan → toki *pi* nanpa:wan | meli-pimeja: lon sinpin-tomo → meli-pimeja *pi* lon sinpin-tomo |
 |:-|:-|
 | *the first language* | *a black lady in front of the building* |
 
 The ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ after **pi** can consist of a single word. **pi**-ᴘʜʀᴀꜱᴇs can be ᴘʀᴇᴅɪᴄᴀᴛᴇs. (Cf. [ᴘɪᴊᴇ](pije.md#pi).)
 
-| toki pona → toki pi pona | kili li ijo mi. → kili li pi mi. |
+| toki pona → toki *pi* pona | kili li ijo mi. → kili li *pi* mi. |
 |:-|:-|
 | *language of good* | *The apply is mine.* |
 
@@ -125,147 +253,24 @@ The ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ after **pi** can consist of a single word. **pi*
 
 Any ᴠᴇʀʙ can be used as an ᴀᴜxɪʟɪᴀʀʏ.
 
-| mi pilin e ni: mi wile÷lape. → mi pilin÷wile÷lape. |
+| mi pilin e ni: mi wile÷lape. → mi *pilin*÷wile÷lape. |
 |:-|
 | *I feel like sleeping.* |
 
 An **e**-ᴘʜʀᴀꜱᴇ can be turned into a **pi**-ᴘʜʀᴀꜱᴇ (or a ᴍᴏᴅɪꜰɪᴇʀ).
 
-| mi ante e toki pi sitelen-tawa. → mi ante-toki e sitelen-tawa. |
+| mi ante e toki pi sitelen-tawa. → mi ante-*toki* *e* sitelen-tawa. |
 |:-|
 | *I translated the movie.* |
 
 An abbrevated question can be used instead of a relative clause.
 
-| mi sona ala e tan seme. |
+| mi sona ala e *tan seme*. |
 |:-|
 | *I don't know why.* |
 
-# Punctuation
+A ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ can be used as a ɴᴏᴜɴ meaning the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ's argument. (Cf. [ᴘɪᴊᴇ](pije.md#tan), [ᴋɪᴘᴏ](kipo.md#prepositions)).)
 
-For didactical purposes, safely removed *commas* remain.
-
-| ona li lili, li lete. | o pilin pona, o pu! |
-|:-|:-|
-| *It is small and cold.* | *Be happy and read the official Toki Pona book!* |
-
-For didactical purposes, omitted words are represented by *hiphens*, *apostrophes* and other symbols.
-
-| | |
-|:-|:-|
-| **toki ~~pi~~ pona** | **toki-pona** |
-| **mi ~~li~~ sin.** | **mi ' sin.** |
-| **mije li sona ~~e ijo~~.** | **mije li sona '.** |
-| **~~ijo~~ ale li pona.** | **'-ale li pona.** |
-| **ona li wile ~~e ni: ona li~~ lape.** | **ona li wile÷lape.** |
-
-For didactical purposes, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs following a ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ have a *colon*. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs describing a *perception* also have a *colon*.
-
-| |
+| mi sona ala e *tan*. |
 |:-|
-| **jan:Sonja** |
-| **toki:nanpa:wan** |
-| **mi lukin e meli-pimeja: lon sinpin-tomo.** |
-
-# Orthography
-*(nasin sitelen pi [toki pona](README.md))*
-
-| |
-|:-|
-| [Ascii](#ascii) |
-| [Playful Hieroglyphs](#playful-hieroglyphs) |
-| [Emoji](#emoji) |
-
-## Ascii
-
-| nanpa wan la o pu. → `#1)` o pu. |
-|:-|
-| *First, consult the official Toki Pona book.* |
-
-| tu tu → `4` → `2×2` | tu en tu sama tu tu → `2+2 = 2×2` |
-|:-|:-|
-| *four* | *two plus two equals four* |
-
-## Playful Hieroglyphs
-*(sitelen pona musi)*
-
-| <img src="musi/pona/toki-pona.png" height="25"> |  <img src="musi/pona/sitelen-pona-musi.png" height="25"> | <img src="musi/pona/sina-suli-a.png" height="25"> | <img src="musi/pona/ma-kanata.png" height="25"> | <img src="musi/pona/toki-nanpa-wan.png" height="25"> |
-|:--:|:--:|:--:|:--:|:--:|
-| **toki pona** | **sitelen pona musi** | **sina suli a!** | **ma Kanata** | **toki nanpa wan** |
-
-ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs, ɴᴜᴍʙᴇʀs, ᴘʀᴏɴᴏᴜɴs and simple ɴᴏᴜɴs don't become part of another ɴᴏᴜɴ in general. They can only become part of another simple ɴᴏᴜɴ.
-
-| <img src="musi/pona/mi-weka-e-ike-jan-la-mi-weka-e-ike-mi.png" height="50"> |
-|:--:| 
-| **mi weka e ike jan, la mi weka e ike mi.** |
-
-Click [here](musi/sitelen-pona-musi.md) for more examples.
-
-### Content Words
-
-ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs are written above.
-
-| <img src="musi/pona/mi-lon-tomo.png" height="50"> | <img src="musi/pona/wawa-li-lon-insa.png" height="75"> | <img src="musi/pona/mi-pana-e-kala-tawa-ona-lon-tomo.png" height="75"> | <img src="musi/pona/tan-seme-la-soweli-wawa-pimeja-li-moku-e-ona.png" height="75"> |
-|:--:|:--:|:--:|:--:| 
-| **mi lon tomo.** | **wawa li lon insa.** | **mi pana e kala tawa ona lon tomo.** | **tan seme la soweli wawa pimeja li moku e ona?** |
-
-ᴀᴜxɪʟɪᴀʀɪᴇs are written above.
-
-| <img src="musi/pona/mi-kama-sona-e-toki-pona.png" height="75"> |
-|:--:| 
-| **mi kama sona e toki pona.** |
-
-ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs are written below **ni**.
-
-| <img src="musi/pona/mi-sona-e-ni-mi-anpa.png" height="50"> |
-|:--:| 
-| **mi sona e ni: mi anpa.** |
-
-If **ni:** is missing, the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is not written below.
-
-| <img src="musi/pona/mi-pona-tawa-jan-la-jan-li-pona-tawa-mi.png" height="75"> |
-|:--:| 
-| *~~lon ni,~~ mi pona tawa jan, la jan li pona tawa mi.** |
-
-**taso** is written above.
-
-| <img src="musi/pona/taso-mije-en-meli-li-pali-li-pilin-pona.png" height="75"> |
-|:--:| 
-| **taso mije en meli li pali li pilin pona.** |
-
-### Particles
-
-ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀs are written below.
-
-| <img src="musi/pona/ale-li-pona.png" height="50"> | <img src="musi/pona/jan-ala-li-ike.png" height="50"> | <img src="musi/pona/mi-o-moku-e-ijo-pona.png" height="50"> | <img src="musi/pona/o-kute-e-mama-sina.png" height="50"> |
-|:--:|:--:|:--:|:--:|
-| **ale li pona.** | **jan ala li ike.** | **mi o moku e ijo pona.** | **o kute e mama sina.** |
-
-## Emoji
-
-| | | | | | | | | | | | |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| ❗ | 🐊 | 0️⃣  | 🏹 | ♾ | ⬇️ | 🔀 | ✖️ | ⏸️ | ⏩ | ➕ | 🛒 |
-| a | akesi | ala | alasa | ale | anpa | ante | anu | awen | e | en | esun |
-| ⚛️ | 👎 | 🔨 | 🎯  | 💩 | 👤 | 💛️ | 👜 | 🐟 | 🔉 | ⏮️ | 🌱 |
-| ijo | ike | ilo | insa | jaki | jan | jelo | jo | kala | kalama | kama | kasi |
-| 🇰 | 🔧 | 🍏 | 💎 | 🧹 | 💨 | 🌈 | 👥 | 👂 | ◀️ | 😴 | 💙 |
-| ken | kepeken | kili | kiwen | ko | kon | kule | kulupu | kute | la | lape | laso |
-| 🗿 | 👗 | ❄️ | ▶️ | 👶 | 🧵 | 📄 | ❤️ | ↕️ | 🖐️ | 👁️ | 🕳️ |
-| lawa | len | lete | li | lili | linja | lipu | loje | lon | luka | lukin | lupa |
-| 🏝 | 👪 | 💰 | 👩 | 👈 | 👨 | 🍽 | 💀 | ⬅️ | 😹 | 🌜 | 🃏 |
-| ma | mama | mani | meli | mi | mije | moku | moli | monsi | mu | mun | musi |
-| 3️⃣ | #️⃣ | 🌀 | ⛖ | 🗻 | 👇 | 💬 | 🦶 | ⏺ | 💕️ | 👆 | 🔓 |
-| mute | nanpa | nasa | nasin | nena | ni | nimi | noka | o | olin | ona | open |
-| 💥 | ✊ | 📏 | 🍞 | 🎁 | ⏹️ | 💗 | ⚫ | ⏭ | 🦟 | ↔️ | 📦 |
-| pakala | pali | palisa | pan | pana | pi | pilin | pimeja | pini | pipi | poka | poki |
-| 👍 | 📖 | 🔁 | 🔥 | 🔲 | ❓ | ⬆️ | 🏃 | ⭕ | 🌟 | 👉 | ➡️ |
-| pona | pu | sama | seli | selo | seme | sewi | sijelo | sike | sin | sina | sinpin |
-| 🖼 | ℹ️ | 🐈 | 🧓 | 🌞️ | 🛏 | 🍭 | ↩️ | ⏪ | ↪️ | 💧 | 🕒 |
-| sitelen | sona | soweli | suli | suno | supa | suwi | tan | taso | tawa | telo | tenpo |
-| 🗣 | 🏠 | 2️⃣ | 💏 | 👄 | ⚔️ | ⚪ | 1️⃣ | 🐤 | ⚡ | ➖ | 🇼 |
-| toki | tomo | tu | unpa | uta | utala | walo | wan | waso | wawa | weka | wile |
-
-* ❤️ 💙 💛 → 🔴 🔵 🟡
-* 🖤 🤍 → ⚫ ⚪
-
+| *I don't know why.* |

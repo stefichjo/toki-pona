@@ -79,6 +79,8 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **telo** | - | *wet* |
 | **wawa** | *force* | - |
 
+(Cf. [ᴋɪᴘᴏ](kipo.md#content-words).)
+
 ##### [CORRELATIVE](nasin-nimi.md#correlative)
 
 | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ  | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |

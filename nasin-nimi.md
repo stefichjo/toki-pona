@@ -254,7 +254,7 @@ If the ꜱᴜʙᴊᴇᴄᴛ is just **mi** or **sina**, the **ᴘᴀʀᴛɪᴄʟ
 #### VOLATIVE, VOCATIVE and IMPERATIVE
 *([nimi lili lawa](#phrase-marker) "o")*
 
-The **ᴘᴀʀᴛɪᴄʟᴇ** **o** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏʟɪᴛɪᴠᴇ** or **ɪᴍᴘᴇʀᴀᴛɪᴠᴇ**, or
+The **ᴘᴀʀᴛɪᴄʟᴇ** **o** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏʟɪᴛɪᴠᴇ** (i.e. among others **ᴏᴘᴛᴀᴛɪᴠᴇ**) or **ɪᴍᴘᴇʀᴀᴛɪᴠᴇ**, or
 the ꜱᴜʙᴊᴇᴄᴛ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏᴄᴀᴛɪᴠᴇ**.
 
 | ᴠᴏʟɪᴛɪᴠᴇ mi o moku e ijo pona. |
@@ -551,7 +551,7 @@ Definitions as provided by [the official Toki Pona dictionary](http://tokipona.n
 |:-|:-|
 | <img src="musi/pona/en.png" height="50" title="en"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) *anu*, **en**, *la* <br>ᴘᴀʀᴛɪᴄʟᴇ **(between multiple ꜱᴜʙᴊᴇᴄᴛs)**, [**and**](sonja.md#lesson-16) |
 
-Contextual abbreviations are written as *~~strikethroughs~~*.
+Omissions are written as *~~strikethroughs~~*.
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
