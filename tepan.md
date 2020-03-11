@@ -201,7 +201,7 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 | **pilin** | *to feel like* | *to have the impression that* |
 | **pini** | *to stop -ing* | - |
 | **sona** | - | …: *knowledge* |
-| **tenpo** | *to be busy with* | - |
+| **tenpo** | *to be busy with* | *to occupy* |
 | **wile** | *to be bound to*, *can't help but* | *to need*, *require*, *want*, *wish*; *to conclude*; *to decide* |
 
 #### [PREPOSITION](nasin-nimi.md#preposition)
