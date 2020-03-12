@@ -1,8 +1,8 @@
 # Traditional Toki Pona ([ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona.php))
 
-In his course [o kama sona e toki pona](http://tokipona.net/tp/janpije/okamasona.php), ᴘɪᴊᴇ aims to describe Toki Pona as it used to be "traditionally", i.e. before ꜱᴏɴᴊᴀ published [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) in 2014. (ᴘɪᴊᴇ has revised his course in 2015.)
+In his course [o kama sona e toki pona](http://tokipona.net/tp/janpije/okamasona.php), ᴘɪᴊᴇ aims to describe ***Toki Pona*** as it used to be "traditionally", i.e. before ꜱᴏɴᴊᴀ published [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) in 2014. (ᴘɪᴊᴇ has revised his course in 2015.)
 
-This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my personal interpretation of it ("ᴛᴇᴘᴀɴ"), based on [my analysis](nimi.md) of Toki Pona as described in the official Toki Pona book.
+This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my personal interpretation of it ("ᴛᴇᴘᴀɴ"), based on [my analysis](nimi.md) of ***Toki Pona*** as described in the official Toki Pona book.
 
 | |
 |:-|
@@ -12,6 +12,7 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 | [kepeken](#kepeken) |
 | [anpa](#anpa) |
 | [lukin sama](#lukin-sama) |
+| [ala](#ala) |
 | [ali](#ali) |
 | [tan](#tan) |
 | [kin](#kin) |
@@ -36,7 +37,7 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 
 ## awen, lukin, sona
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona9.php) never uses **awen**, **lukin** or **sona** as *auxiliary verbs* (a.k.a. *pre-verbs*), but he uses **sona** for *to understand*.
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona9.php) never uses **awen**, **lukin** or **sona** as ᴀᴜxɪʟɪᴀʀʏ ᴠᴇʀʙs, but he uses **sona** for *to understand*.
 
 | | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
@@ -44,7 +45,7 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 
 ## sewi
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona5.php) uses location nouns as adverbs in order to describe *directions*.
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona5.php) uses ᴀʀᴇᴀ ɴᴏᴜɴs as ᴀᴅᴠᴇʀʙs in order to describe *directions*.
 
 | | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
@@ -52,7 +53,7 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 
 ## kepeken
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona6.php) uses **kepeken** as a *transitive verb* where ꜱᴏɴᴊᴀ uses it as a *preposition*. (**kepeken e** can be analyzed as **pana e kepeken tawa** (*to give usage to*). This does make sense, but is unnecessarily ᴜɴ-ᴘᴏɴᴀ.)
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona6.php) uses **kepeken** as a *ᴠᴇʀʙ* where ꜱᴏɴᴊᴀ uses it as a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ. (**kepeken e** can be analyzed as **pana e kepeken tawa** (*to give usage to*). This does make sense, but is unnecessarily ᴜɴ-ᴘᴏɴᴀ.)
 
 | | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
@@ -60,7 +61,7 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 
 ## anpa
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona7.php) uses **anpa** as a *location noun* where ꜱᴏɴᴊᴀ uses **noka**.
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona7.php) uses **anpa** as a ᴀʀᴇᴀ ɴᴏᴜɴ where ꜱᴏɴᴊᴀ uses **noka**.
 
 | | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
@@ -73,6 +74,14 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 | | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
 | *He looks like a bug.* | **ona li lukin sama pipi.** | **ona li sama pipi tawa lukin.** |
+
+## ala
+
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona8.php) treats **ala** as a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ.
+
+| | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
+|:-|:-|:-|
+| *Nothing is dirty.* | **ala li jaki.** | **ijo ala li jaki.** |
 
 ## ali
 
@@ -133,13 +142,13 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 
 ## li
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona12.php) uses **li** for additional *predicates* after **mi** and **sina** where ꜱᴏɴᴊᴀ splits the sentence into two sentences.
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona12.php) uses **li** for additional ᴘʀᴇᴅɪᴄᴀᴛᴇs after **mi** and **sina** where ꜱᴏɴᴊᴀ splits the ꜱᴇɴᴛᴇɴᴄᴇ into two ꜱᴇɴᴛᴇɴᴄᴇs.
 
 | | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *I'm eating fruit and looking at the house.* | **mi moku e kili li lukin e tomo.** | **mi moku e kili. mi lukin e tomo.** |
 
-ᴘɪᴊᴇ never uses *commas* between multiple **li**-phrases. ꜱᴏɴᴊᴀ allows it.
+ᴘɪᴊᴇ never uses *commas* between multiple **li**-phrases. ꜱᴏɴᴊᴀ allows them.
 
 | | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
@@ -155,7 +164,7 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 
 ## taso
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona12.php) doesn't allow *commas* before **taso** as a *conjunction*. ꜱᴏɴᴊᴀ allows it.
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona12.php) doesn't allow *commas* before **taso** as a ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ. ꜱᴏɴᴊᴀ allows them.
 
 | | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
@@ -163,7 +172,7 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 
 ## kule
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona13.php) adds adjectives expressing *color* in order to express *color combinations*.
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona13.php) adds ᴀᴅᴊᴇᴄᴛɪᴠᴇs expressing *color* in order to express *color combinations*.
 
 | | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
@@ -187,21 +196,10 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 
 ## la
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona17.php) never uses *commas* before **la**. ꜱᴏɴᴊᴀ does after *conditional sentences*.
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona17.php) never uses *commas* before **la**. ꜱᴏɴᴊᴀ does after *if*-ꜱᴇɴᴛᴇɴᴄᴇs.
 
 | | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *If you are dead, you can't speak.* | **sina moli la sina ken ala toki.** | **sina moli, la sina ken ala toki.** |
 
-ᴘɪᴊᴇ never uses a *prepositional phrase* before **la**. ꜱᴏɴᴊᴀ does (omitting **lon**).
-
----
-
-## ala
-
-ᴘɪᴊᴇ treats **ala** like a ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ.
-
-| | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
-|:-|:-|:-|
-| *nothing* | **ala** | **ijo ala** |
-
+ᴘɪᴊᴇ never uses a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ before **la**. ꜱᴏɴᴊᴀ does (omitting **lon**).

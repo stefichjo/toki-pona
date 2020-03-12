@@ -219,7 +219,13 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 
 ### [PHRASE MARKER](nasin-nimi.md#phrase-marker)
 
+-
+
 ### [CONJUNCTION](nasin-nimi.md#conjunction)
+
+| ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ | ᴘᴀʀᴛɪᴄʟᴇ |
+|:-|:-|
+| **anu** | *(alternative)* |
 
 ### [SOUND](nasin-nimi.md#sound)
 
