@@ -244,8 +244,26 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 
 ## Synonyms
 
-| | ⇒ | |
+| | ⇒ | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
-| **kulupu** | **mute** | *multitude*, *set* |
-| | **lawa** | *arrangement*, *organization* |
+| **akesi** | **ike** | *hostile* | |
+| **anpa** | **noka** | *area below or under* | …: *below*, *under*; *depending on* |
+| **ante** | **ante lon poka** | | *than*, *unlike* |
+| **esun** | **ante** | *other* | *instead of* |
+| **ilo** | **pona** | *useful* | |
+| **kama** | **open** | *begin*, *start* | |
+| **kepeken** | **lon** | | *according to*, *along* |
+| **kulupu** | **sama** | *each other*; *fellow*: *peer*, *sibling* | *reciprocal* |
+| **lawa** | **kulupu** | | *arrangement*, *organization* |
+| **lawa** | **selo** ⇒ **wile** | | **to decide* |
+| **lawa** | **sewi** | *highest part* | …: *at the top of*; *upper* |
+| **lili** | **pona** | *simple* | *basic*, *elementary*, *primitive* |
+| **lili** | **wan** | | *part*, *particle*, *piece*: *to cut something* |
+| **mute** | **kulupu** | | *multitude*, *set* |
+| **selo** | **pini** | | …: *last*; *closed*, *sealed* |
+| **selo** | **wile** | | *to be bound to*, *can't help but*; *to conclude* |
+| **sike** | **poka** | | *area surrounding*: *around*; *surrounding* |
+| **soweli** | **suwi** | *innocent* | |
+| **tawa** | **tan** | …: *leaving*: *departure* | |
+| **tomo** | **awen** | *protected*, *safe*; *to help in peril*, *protect* | |
 
