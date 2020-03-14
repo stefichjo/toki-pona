@@ -244,26 +244,27 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 
 ## Synonyms
 
-| | ⇒ | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
+| | ⇐ | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|:-|
-| **akesi** | **ike** | *hostile* | |
-| **anpa** | **noka** | *area below or under* | …: *below*, *under*; *depending on* |
-| **ante** | **ante lon poka** | | *than*, *unlike* |
-| **esun** | **ante** | *other* | *instead of* |
-| **ilo** | **pona** | *useful* | |
-| **kama** | **open** | *begin*, *start* | |
-| **kepeken** | **lon** | | *according to*, *along* |
-| **kulupu** | **sama** | *each other*; *fellow*: *peer*, *sibling* | *reciprocal* |
-| **lawa** | **kulupu** | | *arrangement*, *organization* |
-| **lawa** | **selo** ⇒ **wile** | | **to decide* |
-| **lawa** | **sewi** | *highest part* | …: *at the top of*; *upper* |
-| **lili** | **pona** | *simple* | *basic*, *elementary*, *primitive* |
-| **lili** | **wan** | | *part*, *particle*, *piece*: *to cut something* |
-| **mute** | **kulupu** | | *multitude*, *set* |
-| **selo** | **pini** | | …: *last*; *closed*, *sealed* |
-| **selo** | **wile** | | *to be bound to*, *can't help but*; *to conclude* |
-| **sike** | **poka** | | *area surrounding*: *around*; *surrounding* |
-| **soweli** | **suwi** | *innocent* | |
-| **tawa** | **tan** | …: *leaving*: *departure* | |
-| **tomo** | **awen** | *protected*, *safe*; *to help in peril*, *protect* | |
+| **ante** | **esun** | *other* | *instead of* |
+| **ante lon poka** | **ante** | | *than*, *unlike* |
+| **awen** | **tomo** | *protected*, *safe*; *to help in peril*, *protect* | |
+| **ike** | **akesi** | *hostile* | |
+| **kulupu** | **lawa** | | *arrangement*, *organization* |
+| **kulupu** | **mute** | | *multitude*, *set* |
+| **lon** | **kepeken** | | *according to*, *along* |
+| **noka** | **anpa** | *area below or under* | …: *below*, *under*; *depending on* |
+| **open** | **kama** | *begin*, *start* | |
+| **pini** | **selo** | | …: *last*; *closed*, *sealed* |
+| **poka** | **sike** | | *area surrounding*: *around*; *surrounding* |
+| **pona** | **ilo** | *useful* | |
+| **pona** | **lili** | *simple* | *basic*, *elementary*, *primitive* |
+| **sama** | **kulupu** | *each other*; *fellow*: *peer*, *sibling* | *reciprocal* |
+| **sewi** | **lawa** | *highest part* | …: *at the top of*; *upper* |
+| **suwi** | **soweli** | *innocent* | |
+| **tan** | **tawa** | …: *leaving*: *departure* | |
+| **wan** | **lili** | | *part*, *particle*, *piece*: *to cut something* |
+| **wile** | **selo** | | *to be bound to*, *can't help but*; *to conclude* |
+| **wile** | **selo** ⇐ **lawa** | | *to decide* |
+
 
