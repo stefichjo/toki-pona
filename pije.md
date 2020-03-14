@@ -7,7 +7,6 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 | |
 |:-|
 | [oko](#oko) |
-| [awen, lukin, sona](#awen-lukin-sona) |
 | [sewi](#sewi) |
 | [kepeken](#kepeken) |
 | [anpa](#anpa) |
@@ -22,6 +21,7 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 | [li](#li) |
 | [en](#en) |
 | [taso](#taso) |
+| [awen, lukin, sona](#awen-lukin-sona) |
 | [kule](#kule) |
 | [kute](#kute) |
 | [nanpa](#nanpa) |
@@ -34,14 +34,6 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 | | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *Something is in my eye.* | **ijo li lon oko mi.** | **ijo li lon lukin mi.** |
-
-## awen, lukin, sona
-
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona9.php) never uses **awen**, **lukin** or **sona** as ᴀᴜxɪʟɪᴀʀʏ ᴠᴇʀʙs, but he uses **sona** for *to understand*.
-
-| | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
-|:-|:-|:-|
-| *I'm thinking about the house.* | **mi kama sona e tomo.** | **mi toki insa e ijo tomo.** |
 
 ## sewi
 
@@ -169,6 +161,14 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 | | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *I want to eat. But I don't have food.* | **mi wile moku. taso mi jo ala e moku.** | **mi wile moku, taso mi jo ala e moku.** |
+
+## awen, lukin, sona
+
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona12.php) never uses **awen**, **lukin** or **sona** as ᴀᴜxɪʟɪᴀʀʏ ᴠᴇʀʙs, but he uses **sona** for *to understand*.
+
+| | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|
+| *I'm thinking about the house.* | **mi kama sona e tomo.** | **mi toki insa e ijo tomo.** |
 
 ## kule
 
