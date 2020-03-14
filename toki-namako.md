@@ -50,6 +50,22 @@ For didactical purposes, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs following a ɴᴏ
 |:-|:-|
 | *four* | *two plus two equals four* |
 
+#### Ascii Art (WIP)
+
+* `a!` `Ä` `∅` `Đ` `∞` `(anpa)` `≠` `Y`/`γ` `Λ` `≫` `+` `£`
+* `O` `:(` `Ŧ` `(insa)` `β`/`𝔹` `Ω` `Δ(suno)` `G` `α` `D(wawa)` `(kama)` `(kasi)`
+* `κ` `5Ŧ` `(kili)` `(kiwen)` `(ko)` `SS` `Δ` `(kulupu)` `(kute)` `)` `(lape)` `Δ(kasi)`
+* `Ø`/`0` `(len)` `*` `>` `v` `~` `□` `ΔD` `≐` `5` `(lukin)` `∪`
+* `⊕` `8` `Ö` `(meli)` `9` `(mije)` `5D` `xx` `.[` `(mu)` `(mun)` `Ü`
+* `3` `#` `@` `(nasin)` `∩` `(ni)` `"`/`(nimi)` `(noka)` `o!` `<33` `σ` `(open)`
+* `↯` `5O` `|` `(pan)` `5(sin)` `∟` `<3` `Δ∅` `I` `(pipi)`/`Ï` `(poka)`/`(poki).` `(poki)` `:)`
+* `□O(sin):)` `=` `(seli)` `(selo)` `?` `µ` `E` `(sike)` `(sin)` `6` `].` `□.`
+* `□(wawa)` `ℙ` `V` `(suno)` `π` `^.^` `(tan)` `⊥` `λ` `≈` `(tenpo)` `O(sin)`
+* `^` `2` `(unpa)` `D` `(utala)` `Δ(wawa)` `1` `(waso)` `(wawa)` `(weka)` `ω`
+
+* `a!` = `ª`
+* `o!` = `º`
+
 ### Playful Hieroglyphs
 *(sitelen pona musi)*
 
