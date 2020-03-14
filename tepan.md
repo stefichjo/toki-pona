@@ -219,8 +219,6 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 
 ### [PHRASE MARKER](nasin-nimi.md#phrase-marker)
 
--
-
 ### [CONJUNCTION](nasin-nimi.md#conjunction)
 
 | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ | ᴘᴀʀᴛɪᴄʟᴇ |
@@ -247,24 +245,24 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 | | ⇐ | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|:-|
 | **ante** | **esun** | *other* | *instead of* |
-| **ante lon poka** | **ante** | | *than*, *unlike* |
-| **awen** | **tomo** | *protected*, *safe*; *to help in peril*, *protect* | |
-| **ike** | **akesi** | *hostile* | |
-| **kulupu** | **lawa** | | *arrangement*, *organization* |
-| **kulupu** | **mute** | | *multitude*, *set* |
-| **lon** | **kepeken** | | *according to*, *along* |
+| **ante lon poka** | **ante** | - | *than*, *unlike* |
+| **awen** | **tomo** | *protected*, *safe*; *to help in peril*, *protect* | - |
+| **ike** | **akesi** | *hostile* | - |
+| **kulupu** | **lawa** | - | *arrangement*, *organization* |
+| **kulupu** | **mute** | - | *multitude*, *set* |
+| **lon** | **kepeken** | - | *according to*, *along* |
 | **noka** | **anpa** | *area below or under* | …: *below*, *under*; *depending on* |
-| **open** | **kama** | *begin*, *start* | |
-| **pini** | **selo** | | …: *last*; *closed*, *sealed* |
-| **poka** | **sike** | | *area surrounding*: *around*; *surrounding* |
-| **pona** | **ilo** | *useful* | |
+| **open** | **kama** | *begin*, *start* | - |
+| **pini** | **selo** | - | …: *last*; *closed*, *sealed* |
+| **poka** | **sike** | - | *area surrounding*: *around*; *surrounding* |
+| **pona** | **ilo** | *useful* | - |
 | **pona** | **lili** | *simple* | *basic*, *elementary*, *primitive* |
 | **sama** | **kulupu** | *each other*; *fellow*: *peer*, *sibling* | *reciprocal* |
 | **sewi** | **lawa** | *highest part* | …: *at the top of*; *upper* |
-| **suwi** | **soweli** | *innocent* | |
-| **tan** | **tawa** | …: *leaving*: *departure* | |
-| **wan** | **lili** | | *part*, *particle*, *piece*: *to cut something* |
-| **wile** | **selo** | | *to be bound to*, *can't help but*; *to conclude* |
-| **wile** | **selo** ⇐ **lawa** | | *to decide* |
+| **suwi** | **soweli** | *innocent* | - |
+| **tan** | **tawa** | …: *leaving*: *departure* | - |
+| **wan** | **lili** | - | *part*, *particle*, *piece*: *to cut something* |
+| **wile** | **selo** | - | *to be bound to*, *can't help but*; *to conclude* |
+| **wile** | **selo** ⇐ **lawa** | - | *to decide* |
 
 
