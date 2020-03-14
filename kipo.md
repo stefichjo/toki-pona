@@ -11,15 +11,15 @@
 
 ### pi
 
-ᴋɪᴘᴏ combines **pi** with predicates.
+ᴋɪᴘᴏ combines **pi** with ᴘʀᴇᴅɪᴄᴀᴛᴇs. (Cf. [***Toki Ike***](toki-namako.md#toki-ike).)
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
-| *the person that went home* | **jan pi tawa tomo** | **jan li tawa tomo. ona li ...** |
+| *the person that went home* | **jan pi tawa tomo li …** | **jan li tawa tomo. ona li …** |
 
 ### li
 
-ᴋɪᴘᴏ prefixes a **li**-sentence with an "optative" **o**.
+ᴋɪᴘᴏ prefixes a **li**-ꜱᴇɴᴛᴇɴᴄᴇ with an ᴏᴘᴛᴀᴛɪᴠᴇ **o**.
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
@@ -27,7 +27,7 @@
 
 ## Prepositions
 
-When ᴋɪᴘᴏ turns a prepositions into a noun, the noun can have the meaning of the preposition's argument.
+When ᴋɪᴘᴏ turns a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs into a ɴᴏᴜɴ, the ɴᴏᴜɴ can have the meaning of the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ's argument. (Cf. [***Toki Ike***](toki-namako.md#toki-ike).)
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ/ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
@@ -36,13 +36,13 @@ When ᴋɪᴘᴏ turns a prepositions into a noun, the noun can have the meaning
 | *origin*, *source*, *cause*, *reason*, *motive* | **tan** | **mama** |
 | *destination*, *target*, *goal* | **tawa** | **pini** |
 
-ᴋɪᴘᴏ describes **sama** as a reflexive or reciprocal pronoun. (Presumably **sama** could translated as *original* (*what something is like*) and could therefore be used as reflexive or reciprocal pronoun.)
+ᴋɪᴘᴏ describes **sama** as a reflexive or reciprocal ᴘʀᴏɴᴏᴜɴ. (Presumably, **sama** could be translated as *original* (*what something is like*) and could therefore be used as reflexive or reciprocal ᴘʀᴏɴᴏᴜɴ.)
 
 | | ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
 | *She sees herself.*/*They see each other.* | **ona li lukin e sama.** | **ona li lukin e ona sama.** |
 
-ᴋɪᴘᴏ describes **pu** (whithout calling it *official*) as *the Toki Pona book (possibly derogatorily)*. (Apparently, **pu** might be used as a preposition meaning *following*, *according to*. As a noun, it could then mean *what is being followed* and so on.)
+ᴋɪᴘᴏ describes **pu** (whithout calling it *official*) as *the Toki Pona book (possibly derogatorily)*. (Apparently, **pu** might be used as a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ meaning *following*, *according to*. As a noun, it could then mean *what is being followed* and so on.)
 
 | | ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
@@ -50,7 +50,7 @@ When ᴋɪᴘᴏ turns a prepositions into a noun, the noun can have the meaning
 
 ### poka
 
-ᴋɪᴘᴏ describes **poka** as a preposition. (ᴋɪᴘᴏ also describes **sike**, **taso** and **weka** as prepositions.)
+ᴋɪᴘᴏ describes **poka** as a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ. (ᴋɪᴘᴏ also describes **sike**, **taso** and **weka** as ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.)
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
@@ -58,7 +58,7 @@ When ᴋɪᴘᴏ turns a prepositions into a noun, the noun can have the meaning
 
 ### e
 
-ᴋɪᴘᴏ turns prepositional phrases into transitive verbs. This is unnecessarily ᴜɴ-ᴘᴏɴᴀ, but does make sense.
+ᴋɪᴘᴏ turns ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs into ᴠᴇʀʙs. This is unnecessarily ᴜɴ-ᴘᴏɴᴀ, but does make sense. (Cf. [***Toki Namako***](toki-namako.md#toki-namako).)
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
@@ -66,15 +66,16 @@ When ᴋɪᴘᴏ turns a prepositions into a noun, the noun can have the meaning
 
 ## Content Words
 
-ᴋɪᴘᴏ often extends the meaning of an adjective as a noun. In most cases, the intended meaning could be easily expressed adding a word or two before the adjective.
+ᴋɪᴘᴏ often extends the meaning of an ᴀᴅᴊᴇᴄᴛɪᴠᴇ as a ɴᴏᴜɴ. In most cases, the intended meaning could be easily expressed adding a word or two before the ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ/ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
 | *foreigner*, *stranger* | **ante** | **jan pi ma ante** |
 | *preserves*, *canned goods* | **awen** | **moku awen** |
 | *news* | **sin** | **toki (pi ijo sin)** |
+| *day* | **suno** | **tenpo suno** |
 
-When **jaki** and **pimeja** become nouns, they appear as if an **ijo** went missing. Apparently, this makes sense, if they mean something primordial (from a human perspective) like **suno**, **sewi**, **seli** and so on.
+When **jaki** and **pimeja** become ɴᴏᴜɴs, they appear as if an **ijo** went missing. Apparently, this makes sense, if they mean something primordial (from a human perspective) like **suno**, **sewi**, **seli** and so on. (Cf. [ᴛᴇᴘᴀɴ](tepan.md#thing).)
 
 | | ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
@@ -87,14 +88,14 @@ When **jaki** and **pimeja** become nouns, they appear as if an **ijo** went mis
 
 ## Punctuation
 
-ᴋɪᴘᴏ uses commas to add phrases (where they don't belong).
+ᴋɪᴘᴏ uses commas to add ᴘʜʀᴀꜱᴇs (where they don't belong).
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *I give you a room.* | **mi pana e tomo, tawa sina.** | **mi pana e tomo tawa sina.** |
 | *many men of Athens* | **jan pi ma Asina, mute** | **jan mute pi ma Asina** |
 
-ᴋɪᴘᴏ uses a hiphen to denote the end of a sentence after **ni:**.
+ᴋɪᴘᴏ uses a hiphen to denote the end of a ꜱᴇɴᴛᴇɴᴄᴇ after **ni:**.
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|

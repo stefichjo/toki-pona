@@ -35,6 +35,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 
 | ᴘʀᴏɴᴏᴜɴ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
+| **mi** | *ourselves* | *my*, *our* |
 | **ona** | *him*, *her*, *them* | *his*, *her*, *its*, *their* |
 | **sina** | *thou*/*thee* | *your* |
 
@@ -63,6 +64,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **mani** | - | *domesticated*, *refined*; *valuable* |
 | **monsi** | - | *dorsal*; *endorsing* |
 | **mun** | - | *orbiting*, *sky-walking* |
+| **mute** | *amount* | - |
 | **nasin** | - | *ordinary*, *usual* |
 | **nena** | - | *outstanding*, *thick* |
 | **palisa** | - | *long and hard* |
@@ -79,6 +81,8 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **telo** | - | *wet* |
 | **wawa** | *force* | - |
 
+(Cf. [ᴋɪᴘᴏ](kipo.md#content-words).)
+
 ##### [CORRELATIVE](nasin-nimi.md#correlative)
 
 | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ  | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
@@ -94,12 +98,13 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **insa** | - | *inner* |
 | **kama** | *upcoming*: *before*, *in the beginning*, *since*, *until* | *next* |
 | **lawa** | - | *main* |
+| **monsi** | - | *rear* |
 | **nanpa** | *someone's turn* | *to be someone's turn* |
 | **noka** | …: *below*, *under*; *depending on* | *lower* |
-| **open** | *entrance* | - |
+| **open** | *entrance* | *accessible* |
 | **pini** | *end*: *after*, *in the end* | *previous*, *last*; *disappearing*; *closed*, *sealed* |
 | **poka** | …: *among*; *area surrounding*: *around* | *surrounding* |
-| **sewi** | …: *at the top of* | *high*; *upper* |
+| **sewi** | …: *above*, *over*; *at the top of* | *high*; *upper* |
 | **supa** | …: *on* | *horizontal* |
 | **tenpo** | …: *for* | *transitory* |
 | **weka** | *distance*: *away from* | …: *space*; *vacuum*, *void* |
@@ -190,12 +195,13 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 |:-|:-|:-|
 | **awen** | - | *to continue* |
 | **kama** | - | *achieve*; *let* |
+| **lukin** | - | *to search for* | *to care for* |
 | **nanpa** | *to be someone's turn to* | *to iterate*; *count*; *calculate* |
 | **open** | *to be ready to* | *to set up* |
 | **pilin** | *to feel like* | *to have the impression that* |
 | **pini** | *to stop -ing* | - |
 | **sona** | - | …: *knowledge* |
-| **tenpo** | *to be busy with* | - |
+| **tenpo** | *to be busy with* | *to occupy* |
 | **wile** | *to be bound to*, *can't help but* | *to need*, *require*, *want*, *wish*; *to conclude*; *to decide* |
 
 #### [PREPOSITION](nasin-nimi.md#preposition)
@@ -204,6 +210,7 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 |:-|:-|:-|
 | **ante** | *instead of* | …: *than*, *unlike* |
 | **kepeken** | - | *usufructuary* |
+| **lon** | *according to*, *along* | - |
 | **esun** | - | …: *exchange* |
 | **sin** | *in addition to*, *with* | *artificial*, *enhanced* |
 | **taso** | *free from*, *independent from*, *without* | *just* |
@@ -213,6 +220,10 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 ### [PHRASE MARKER](nasin-nimi.md#phrase-marker)
 
 ### [CONJUNCTION](nasin-nimi.md#conjunction)
+
+| ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ | ᴘᴀʀᴛɪᴄʟᴇ |
+|:-|:-|
+| **anu** | *(alternative)* |
 
 ### [SOUND](nasin-nimi.md#sound)
 
@@ -231,8 +242,27 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 
 ## Synonyms
 
-| | ⇒ | |
-|:-|:-|:-|
-| **kulupu** | **mute** | *multitude*, *set* |
-| | **lawa** | *arrangement*, *organization* |
+| | ⇐ | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|:-|
+| **ante** | **esun** | *other* | *instead of* |
+| **ante lon poka** | **ante** | - | *than*, *unlike* |
+| **awen** | **tomo** | *protected*, *safe*; *to help in peril*, *protect* | - |
+| **ike** | **akesi** | *hostile* | - |
+| **kulupu** | **lawa** | - | *arrangement*, *organization* |
+| **kulupu** | **mute** | - | *multitude*, *set* |
+| **lon** | **kepeken** | - | *according to*, *along* |
+| **noka** | **anpa** | *area below or under* | …: *below*, *under*; *depending on* |
+| **open** | **kama** | *begin*, *start* | - |
+| **pini** | **selo** | - | …: *last*; *closed*, *sealed* |
+| **poka** | **sike** | - | *area surrounding*: *around*; *surrounding* |
+| **pona** | **ilo** | *useful* | - |
+| **pona** | **lili** | *simple* | *basic*, *elementary*, *primitive* |
+| **sama** | **kulupu** | *each other*; *fellow*: *peer*, *sibling* | *reciprocal* |
+| **sewi** | **lawa** | *highest part* | …: *at the top of*; *upper* |
+| **suwi** | **soweli** | *innocent* | - |
+| **tan** | **tawa** | …: *leaving*: *departure* | - |
+| **wan** | **lili** | - | *part*, *particle*, *piece*: *to cut something* |
+| **wile** | **selo** | - | *to be bound to*, *can't help but*; *to conclude* |
+| **wile** | **selo** ⇐ **lawa** | - | *to decide* |
+
 
