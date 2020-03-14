@@ -245,7 +245,7 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 ## Synonyms
 
 | | ⇒ | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
-|:-|:-|:-|
+|:-|:-|:-|:-|
 | **akesi** | **ike** | *hostile* | |
 | **anpa** | **noka** | *area below or under* | …: *below*, *under*; *depending on* |
 | **ante** | **ante lon poka** | | *than*, *unlike* |
