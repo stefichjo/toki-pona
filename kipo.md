@@ -73,6 +73,7 @@ When ᴋɪᴘᴏ turns a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs into a ɴᴏᴜɴ, the �
 | *foreigner*, *stranger* | **ante** | **jan pi ma ante** |
 | *preserves*, *canned goods* | **awen** | **moku awen** |
 | *news* | **sin** | **toki (pi ijo sin)** |
+| *day* | **suno** | **tenpo suno** |
 
 When **jaki** and **pimeja** become ɴᴏᴜɴs, they appear as if an **ijo** went missing. Apparently, this makes sense, if they mean something primordial (from a human perspective) like **suno**, **sewi**, **seli** and so on. (Cf. [ᴛᴇᴘᴀɴ](tepan.md#thing).)
 
