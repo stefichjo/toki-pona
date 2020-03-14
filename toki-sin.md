@@ -49,8 +49,8 @@ Words in ***Tok Bona*** are very close to their etymological origin.
 <img src="musi/pona/moku.png" height="50" title="mogu"> | **loŋ ruka e usta** | **mogu** | moku |
 <img src="musi/pona/pali.png" height="50" title="fari"> | **loŋ ruka e ijo** | **fari** | pali |
 <img src="musi/pona/pana.png" height="50" title="pana"> | **loŋ ruka ŝin** | **pana** | pana |
-<img src="musi/pona/kalama.png" height="50" title="galama"> | **usta ŝin** | **galama** | kalama |
-<img src="musi/pona/sona.png" height="50" title="ĉodna"> | **loŋ lipu ŝin** | **ĉodna** | sona |
+<img src="musi/pona/kalama.png" height="50" title="galama"> | **usta vahva** | **galama** | kalama |
+<img src="musi/pona/sona.png" height="50" title="ĉodna"> | **loŋ lipu vahva** | **ĉodna** | sona |
 <img src="musi/pona/toki.png" height="50" title="tok"> | **ijo ŝin** | **tok** | toki |
 <img src="musi/pona/kulupu.png" height="50" title="kulupu"> | **multe ijo** | **kulupu** | kulupu |
 <img src="musi/pona/olin.png" height="50" title="volim"> | **pilim e pilim** | **volim** | olin |
