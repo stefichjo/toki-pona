@@ -17,9 +17,10 @@
 | <img src="musi/pona/e.png" height="150"> | <img src="musi/pona/pi.png" height="150"> |
 | *(accusative)* | *(genitive)* |
 
-### Names
-
-### Interjections
+| ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ a | ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ mu |
+|:-:|:-|
+| <img src="musi/pona/a.png" height="150"> | <img src="musi/pona/mu.png" height="150"> |
+| *(confirmation)* | *(communication)* |
 
 ## Prepositions
 
