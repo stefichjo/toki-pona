@@ -233,7 +233,7 @@ When a **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** is used both as ᴍᴀɪɴ ᴠᴇʀʙ a
 #### INDICATIVE
 *([nimi lili lawa](#phrase-marker) "li")*
 
-The **ᴘᴀʀᴛɪᴄʟᴇ** **li** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ɪɴᴅɪᴄᴀᴛɪᴠᴇ**.
+The **ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ** **li** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ɪɴᴅɪᴄᴀᴛɪᴠᴇ**.
 
 | ona li mama. | ona li mama ala. |
 |:-|:-|
@@ -245,7 +245,7 @@ When there is enough context, a ꜱᴇɴᴛᴇɴᴄᴇ can be reduced to its ᴍ
 |:-|:-|:-|
 | *Is she a parent?* | *Yes.* | *No.* |
 
-If the ꜱᴜʙᴊᴇᴄᴛ is just **mi** or **sina**, the **ᴘᴀʀᴛɪᴄʟᴇ** **li** is omitted.
+If the ꜱᴜʙᴊᴇᴄᴛ is just **mi** or **sina**, the **ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ** **li** is omitted.
 
 | mi mije. | sina sin. |
 |:-|:-|
@@ -254,8 +254,7 @@ If the ꜱᴜʙᴊᴇᴄᴛ is just **mi** or **sina**, the **ᴘᴀʀᴛɪᴄʟ
 #### VOLATIVE, VOCATIVE and IMPERATIVE
 *([nimi lili lawa](#phrase-marker) "o")*
 
-The **ᴘᴀʀᴛɪᴄʟᴇ** **o** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏʟɪᴛɪᴠᴇ** (i.e. among others **ᴏᴘᴛᴀᴛɪᴠᴇ**) or **ɪᴍᴘᴇʀᴀᴛɪᴠᴇ**, or
-the ꜱᴜʙᴊᴇᴄᴛ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏᴄᴀᴛɪᴠᴇ**.
+The **ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ** **o** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏʟɪᴛɪᴠᴇ** (i.e. among others **ᴏᴘᴛᴀᴛɪᴠᴇ**) or **ɪᴍᴘᴇʀᴀᴛɪᴠᴇ**, or the ꜱᴜʙᴊᴇᴄᴛ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏᴄᴀᴛɪᴠᴇ**.
 
 | ᴠᴏʟɪᴛɪᴠᴇ mi o moku e ijo pona. |
 |:-|
@@ -290,13 +289,13 @@ A **ᴠᴏʟɪᴛɪᴠᴇ** can be reduced to the ᴏʙᴊᴇᴄᴛ of the ꜱ�
 #### GENITIVE
 *([nimi lili lawa](#phrase-marker) "pi")*
 
-The **ᴘᴀʀᴛɪᴄʟᴇ** **pi** marks a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that can be translated as a **ɢᴇɴɪᴛɪᴠᴇ** or as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. A ꜱᴇɴᴛᴇɴᴄᴇs shouldn't have more than one **ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇ**.
+The **ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ** **pi** marks a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that can be translated as a **ɢᴇɴɪᴛɪᴠᴇ** or as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. A ꜱᴇɴᴛᴇɴᴄᴇs shouldn't have more than one **ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇ**.
 
 | jan pi pona mute |
 |:-|
 | *a person of much good* → *a very good person* |
 
-When the ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ consists of only one [ɴᴏᴜɴ](#noun), **pi** is omitted.
+When the ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ consists of only one [ɴᴏᴜɴ](#noun), the **ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ** **pi** is omitted.
 
 | toki pona |
 |:-|
@@ -305,7 +304,7 @@ When the ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ consists of only one [ɴᴏᴜɴ](#noun), *
 #### ACCUSATIVE
 *([nimi lili lawa](#phrase-marker) "e")*
 
-The **ᴘᴀʀᴛɪᴄʟᴇ** **e** marks a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ as an **ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ**, i.e. the ᴍᴀɪɴ ᴠᴇʀʙ's ᴏʙᴊᴇᴄᴛ.
+The **ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ** **e** marks a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ as an **ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ**, i.e. the ᴍᴀɪɴ ᴠᴇʀʙ's ᴏʙᴊᴇᴄᴛ.
 
 When there is enough context, the ᴏʙᴊᴇᴄᴛ of a [ᴠᴇʀʙ](#verb) can be omitted.
 
