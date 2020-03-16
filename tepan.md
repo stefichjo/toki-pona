@@ -12,7 +12,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ**](#mood-marker), [**ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#case-marker)
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
-  * [**ꜱᴏᴜɴᴅ**](#sound)
+  * [**ᴛᴏᴋɪᴘᴏɴɪᴢᴀᴛɪᴏɴ**](#tokiponization)
 
 | | |
 |:-|:-|
@@ -225,9 +225,9 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 |:-|:-|
 | **anu** | *(alternative)* |
 
-### [SOUND](nasin-nimi.md#sound)
+### [TOKIPONIZATION](nasin-nimi.md#tokiponization)
 
-| ꜱᴏᴜɴᴅ | ᴘᴀʀᴛɪᴄʟᴇ | ᴀᴅᴠᴇʀʙ |
+| ᴛᴏᴋɪᴘᴏɴɪᴢᴀᴛɪᴏɴ | ᴘᴀʀᴛɪᴄʟᴇ | ᴀᴅᴠᴇʀʙ |
 |:-|:-|:-|
 | **a** | - | *indeed*; *still*, *too*; *yes* |
 | **ala** | *(negation)* | - |
