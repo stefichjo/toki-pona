@@ -16,9 +16,9 @@ A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines a word's ᴘᴀʀᴛs ᴏꜰ ꜱᴘ�
   * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴛʜɪɴɢ**](#thing) ([**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ᴀʀᴇᴀ**](#area), [**ᴛᴏᴏʟ**](#tool), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form))
   * [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier): [**ɴᴜᴍʙᴇʀ**](#number), [**ᴠᴇʀʙ**](#verb), [**ᴀᴜxɪʟɪᴀʀʏ**](#auxiliary), [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
-  * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ**](#mood), [**ᴄᴀꜱᴇ**](#case)
+  * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ**](#mood-marker), [**ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#case-marker)
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
-  * [**ꜱᴏᴜɴᴅ**](#sound)
+  * [**ꜱᴏᴜɴᴅ**](#sound): [...](#interjection), [...](#name)
 
 # CONTENT WORD
 *([nimi](#toki-pona-word-classes-and-parts-of-speech) suli)*
@@ -225,10 +225,10 @@ When a **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** is used both as ᴍᴀɪɴ ᴠᴇʀʙ a
 
 | |
 |:-|
-| [ᴍᴏᴏᴅ](#mood): [ɪɴᴅɪᴄᴀᴛɪᴠᴇ ᴍᴏᴏᴅ](#indicative), [ᴠᴏʟɪᴛɪᴠᴇ, ᴠᴏᴄᴀᴛɪᴠᴇ and ɪᴍᴘᴇʀᴀᴛɪᴠᴇ ᴍᴏᴏᴅ](#volative-vocative-and-imperative) |
-| [ᴄᴀꜱᴇ](#case): [ɢᴇɴɪᴛɪᴠᴇ ᴄᴀꜱᴇ](#genitive), [ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ ᴄᴀꜱᴇ](#accusative) |
+| [ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ](#mood): [ɪɴᴅɪᴄᴀᴛɪᴠᴇ ᴍᴏᴏᴅ](#indicative), [ᴠᴏʟɪᴛɪᴠᴇ, ᴠᴏᴄᴀᴛɪᴠᴇ and ɪᴍᴘᴇʀᴀᴛɪᴠᴇ ᴍᴏᴏᴅ](#volative-vocative-and-imperative) |
+| [ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ](#case): [ɢᴇɴɪᴛɪᴠᴇ ᴄᴀꜱᴇ](#genitive), [ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ ᴄᴀꜱᴇ](#accusative) |
 
-### MOOD
+### MOOD MARKER
 
 #### INDICATIVE
 *([nimi lili lawa](#phrase-marker) "li")*
@@ -285,7 +285,7 @@ A **ᴠᴏʟɪᴛɪᴠᴇ** can be reduced to the ᴏʙᴊᴇᴄᴛ of the ꜱ�
 |:-|
 | *May you have a good meal.* → *Bon appétit!* |
 
-### CASE
+### CASE MARKER
 
 #### GENITIVE
 *([nimi lili lawa](#phrase-marker) "pi")*
@@ -411,7 +411,7 @@ One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as ᴀᴅᴠᴇʀʙs or �
 | <img src="musi/pona/ante.png" height="50" title="ander"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) **ante** ⇐ *esun* — *sama* ⇐ *pu* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (⇒ *ante lon poka*); (⇐ *esun*) [*instead of*](tepan.md#preposition)<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **altered**, **changed**: (*~~kama~~ ante*) [**change**](sonja.md#toki-pona-proverbs), **different**: (*ante lon poka* ⇐ *ante*) [*than*, *unlike*](tepan.md#preposition); (⇐ *esun*) **other** |
 | <img src="musi/pona/anu.png" height="50" title="an"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) **anu**, *en*, *la* <br>ᴘᴀʀᴛɪᴄʟᴇ [*(alternative)*](tepan.md), **or** |
 | <img src="musi/pona/awen.png" height="50" title="hawen"> | [**ᴀʀᴇᴀ**](#area) + [**ᴀᴜxɪʟɪᴀʀʏ**](#auxiliary) **awen**, *kama* — *pini*, *open* — *selo* <br>ɴᴏᴜɴ …: (*lon ~~awen~~ ni:*) [*as long as, while*](tepan.md#area) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**; (*~~pi tenpo~~ awen*) [*present*](tepan.md#area); (*~~pi nanpa~~ awen*) [*current*](tepan.md#area); (*awen ~~lon~~*) **staying**, **waiting**; (⇐ *tomo*) **protected**, **safe** <br>ᴠᴇʀʙ (⇐ *tomo*) [**to help in peril**](sonja.md#short-obligatory-prayer), [**protect**](sonja.md#lesson-15) + <br>ᴀᴜxɪʟɪᴀʀʏ **to continue to** <br>ᴠᴇʀʙ [*to continue*](tepan.md#area) |
-| <img src="musi/pona/e.png" height="50" title="e"> | [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker) *li*, *o* — *pi*, **e** <br>ᴘᴀʀᴛɪᴄʟᴇ **(before the direct ᴏʙᴊᴇᴄᴛ)** |
+| <img src="musi/pona/e.png" height="50" title="e"> | [**ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#case-marker) *li*, *o* — *pi*, **e** <br>ᴘᴀʀᴛɪᴄʟᴇ **(before the direct ᴏʙᴊᴇᴄᴛ)** |
 | <img src="musi/pona/en.png" height="50" title="en"> | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) *anu*, **en**, *la* <br>ᴘᴀʀᴛɪᴄʟᴇ **(between multiple ꜱᴜʙᴊᴇᴄᴛs)**, [**and**](sonja.md#lesson-16) |
 | <img src="musi/pona/esun.png" height="50" title="eĝum"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) *ante* ⇐ **esun** — *sama* ⇐ *pu* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (⇒ *ante*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *ante*) <br>ɴᴏᴜɴ (*~~kama~~ esun*) [*exchange*](tepan.md#preposition); **business transaction**; (*~~tomo~~ esun*) **shop**; (*~~ma~~ esun*) **bazaar**, **fair**, **market** |
 | | [**ɴᴜᴍʙᴇʀ**](#number) *ala*, *ale*, **esun**, *luka*, *mute*, *tu*, *wan* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*7*, *seven*](tepan.md#number) |
@@ -444,7 +444,7 @@ One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as ᴀᴅᴠᴇʀʙs or �
 | | [**ᴛᴏᴏʟ**](#tool) *kute*, **lawa**, *luka*, *noka*, *palisa*, *poki*, *selo*, *uta* <br>ɴᴏᴜɴ **head**, **mind** →  <br>ᴠᴇʀʙ **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule**; [*arrange*, *organize*](tepan.md#dictionary); (⇒ *selo* ⇒ *wile*) <br>ɴᴏᴜɴ [**guidance**](sonja.md#toki-pona-proverbs); (⇒ *mute*) |
 | <img src="musi/pona/len.png" height="50" title="lenĵ"> | [**ᴛᴏᴏʟ**](#tool) *insa*, **len**, *tomo* <br>ɴᴏᴜɴ **cloth**, **clothing**, **fabric**, **textile**, [**vest**](sonja.md#lesson-17); **cover**, **layer of privacy** → <br>ᴠᴇʀʙ [*to hide*](tepan.md#tool) |
 | <img src="musi/pona/lete.png" height="50" title="fret"> | [**ᴛʜɪɴɢ**](#thing) **lete** — *seli* <br>ɴᴏᴜɴ [*frost*, *ice*](tepan.md#thing) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **cold**, **cool**; **uncooked**, **raw** |
-| <img src="musi/pona/li.png" height="50" title="li"> | [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker) **li**, *o* — *pi*, *e* <br>ᴘᴀʀᴛɪᴄʟᴇ **(between any ꜱᴜʙᴊᴇᴄᴛ except mi alone or sina alone and its ᴘʀᴇᴅɪᴄᴀᴛᴇ; also to introduce a new ᴘʀᴇᴅɪᴄᴀᴛᴇ for the same ꜱᴜʙᴊᴇᴄᴛ)** |
+| <img src="musi/pona/li.png" height="50" title="li"> | [**ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ**](#mood-marker) **li**, *o* — *pi*, *e* <br>ᴘᴀʀᴛɪᴄʟᴇ **(between any ꜱᴜʙᴊᴇᴄᴛ except mi alone or sina alone and its ᴘʀᴇᴅɪᴄᴀᴛᴇ; also to introduce a new ᴘʀᴇᴅɪᴄᴀᴛᴇ for the same ꜱᴜʙᴊᴇᴄᴛ)** |
 | <img src="musi/pona/lili.png" height="50" title="liklik"> | [**ᴛʜɪɴɢ**](#thing) **lili** — *ale*, *ilo*, *mani*, *mute*, *suli*, *wawa* <br>ɴᴏᴜɴ (⇒ *wan*) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **little**, [**micro-**](sonja.md#preface), [**narrow**](sonja.md#lesson-13), **small**, **short**; (*~~pi tenpo~~ lili*) [**momentary**](sonja.md#toki-pona-proverbs), [**temporary**](sonja.md#toki-pona-proverbs); [**120**](sonja.md#preface), **few**; **a bit**; (*~~pi sike suno~~ lili*) **young**; (⇒ *pona*) |
 | <img src="musi/pona/linja.png" height="50" title="linja"> | [**ᴛʜɪɴɢ**](#thing) **linja** — *palisa* <br>ɴᴏᴜɴ **long and flexible thing**, [**long flexible thing**](sonja.md#lesson-17); **cord**, (*linja ~~lawa~~*) **hair**, **rope**, [**string**](sonja.md#lesson-17), **thread**, **yarn** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*long and flexible*](tepan.md#thing) |
 | <img src="musi/pona/lipu.png" height="50" title="lipu"> | [**ᴛʜɪɴɢ**](#thing) **lipu**, *nena*, *sike* <br>ɴᴏᴜɴ **flat object**; (*~~mute~~ lipu*) **book**, **card**, [**clay tablet**](sonja.md#what-is-toki-pona), **document**, **paper**, [**piece of paper**](sonja.md#lesson-2), [**postcard**](sonja.md#what-is-toki-pona), [**printed book**](sonja.md#what-is-toki-pona), **record**, **website** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*flat*, *thin*](tepan.md#thing) |
@@ -477,7 +477,7 @@ One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as ᴀᴅᴠᴇʀʙs or �
 | <img src="musi/pona/nimi.png" height="50" title="nimi"> | [**ᴠᴇʀʙ**](#verb) **nimi**, *sitelen*, *toki* <br>ᴠᴇʀʙ [*to define*](tepan.md#verb) → <br>ɴᴏᴜɴ **name**; **word** |
 | <img src="musi/pona/noka.png" height="50" title="noga"> | [**ᴛᴏᴏʟ**](#tool) *kute*, *lawa*, *luka*, **noka**, *palisa*, *poki*, *selo*, *uta* <br>ɴᴏᴜɴ **foot**, **leg**, **organ of locomotion** → <br>ᴠᴇʀʙ [*to step on*, *kick*](tepan.md#tool) |
 | | [**ᴀʀᴇᴀ**](#area) *anpa* — *sewi*, **noka** — *lawa* <br>ɴᴏᴜɴ **lowest part**; **bottom**, [**foundation**](sonja.md#lesson-15): (*lon noka*) [**at the bottom of**](sonja.md#lesson-15); (⇐ *anpa*) [**area below or under**](sonja.md#lesson-15): (*lon noka*) [*below*, *under*; *depending on*](tepan.md#area) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*lower*](tepan.md#area) |
-| <img src="musi/pona/o.png" height="50" title="ho"> | [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker) *li*, **o** — *pi*, *e* <br>ᴘᴀʀᴛɪᴄʟᴇ **(vocative or imperative)**, [**(call or command)**](sonja.md#lesson-10), [**(shows who is being called or addressed; command or request; wish or desire)**](sonja.md#lesson-10), **hey**, **o** |
+| <img src="musi/pona/o.png" height="50" title="ho"> | [**ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ**](#mood-marker) *li*, **o** — *pi*, *e* <br>ᴘᴀʀᴛɪᴄʟᴇ **(vocative or imperative)**, [**(call or command)**](sonja.md#lesson-10), [**(shows who is being called or addressed; command or request; wish or desire)**](sonja.md#lesson-10), **hey**, **o** |
 | <img src="musi/pona/olin.png" height="50" title="volim"> | [**ᴠᴇʀʙ**](#verb) *alasa*, *moku*, **olin**, *pali*, *unpa* <br>ᴠᴇʀʙ [**to be a fan of**](sonja.md#preface), **have compassion for**, **love**, **respect**, **show affection to** <br>ɴᴏᴜɴ [*love*](tepan.md#verb): [**beloved**](sonja.md#lesson-18), [*of love*](tepan.md#verb) |
 | <img src="musi/pona/ona.png" height="50" title="ona"> | [**ᴘʀᴏɴᴏᴜɴ**](#pronoun) **ona** — mi, sina (⇐ *~~iki~~*) <br>ɴᴏᴜɴ **he**/[*him*](tepan.md#pronoun), **it**, **she**/[*her*](tepan.md#pronoun), **they**/[*them*](tepan.md#pronoun) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*her*, *his*, *its*, *their*](tepan.md#pronoun) |
 | <img src="musi/pona/open.png" height="50" title="open">                                                               | [**ᴀʀᴇᴀ**](#area) + [**ᴀᴜxɪʟɪᴀʀʏ**](#auxiliary) *awen*, *kama* — *pini*, **open** — *selo* <br>ɴᴏᴜɴ [*entrance*](tepan.md#area) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*accessible*](tepan.md#area) <br>ᴠᴇʀʙ **to open**, [**unseal**](sonja.md#writings-of-baháulláh) + <br>ᴀᴜxɪʟɪᴀʀʏ [*to be ready to*](tepan.md#area) <br>ᴠᴇʀʙ [*to set up*](tepan.md#area), **turn on**; (⇐ *kama*) **begin**, **start** |
@@ -487,7 +487,7 @@ One can use **ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ**s as ᴀᴅᴠᴇʀʙs or �
 | | [**ᴛᴏᴏʟ**](#tool) *kute*, *lawa*, *luka*, *noka*, **palisa**, *poki*, *selo*, *uta* <br>ɴᴏᴜɴ [*finger*](tepan.md#tool) → <br>ᴠᴇʀʙ [*to point at*](tepan.md#tool) |
 | <img src="musi/pona/pan.png" height="50" title="fan"> | [**ᴛʜɪɴɢ**](#thing) *kili*, **pan** <br>ɴᴏᴜɴ [*seed*](tepan.md#thing); **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*fallen*, *dropped*; *sown*](tepan.md#thing) |
 | <img src="musi/pona/pana.png" height="50" title="pana"> | [**ᴠᴇʀʙ**](#verb) *jo*, **pana** <br>ᴠᴇʀʙ **to emit**, **give**, [**grant**](sonja.md#toki-pona-proverbs), **provide**, (*pana e ijo lon …*) **put**, **release**, (*pana e ijo tawa …*) **send**, [**send out**](sonja.md#toki-pona-proverbs), [**serve**](sonja.md#lesson-14) |
-| <img src="musi/pona/pi.png" height="50" title="biloŋ"> | [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker) *li*, *o* — **pi**, *e* <br>ᴘᴀʀᴛɪᴄʟᴇ  [**(divides a second ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that describes a first ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ)**](sonja.md#lesson-11), **of** |
+| <img src="musi/pona/pi.png" height="50" title="biloŋ"> | [**ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#case-marker) *li*, *o* — **pi**, *e* <br>ᴘᴀʀᴛɪᴄʟᴇ  [**(divides a second ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that describes a first ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ)**](sonja.md#lesson-11), **of** |
 | <img src="musi/pona/pilin.png" height="50" title="pil-im"> | [**ᴛᴏᴏʟ**](#tool) + [**ᴀᴜxɪʟɪᴀʀʏ**](#auxiliary) *lukin*, **pilin** <br>ɴᴏᴜɴ **heart (physical or emotional)** → <br>ᴠᴇʀʙ [*to sense*](tepan.md#tool) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (a direct experience)** + <br>ᴀᴜxɪʟɪᴀʀʏ [*to feel like*](tepan.md#auxiliary) <br>ᴠᴇʀʙ [*to have the impression that*](tepan.md#auxiliary), [**think**](sonja.md#writings-of-baháulláh) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (an emotion)** |
 | <img src="musi/pona/pimeja.png" height="50" title="pimea"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) *walo* — *kule*, **pimeja** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **black**, (*pimeja ~~mu~~*) [*blackish*](tepan.md#modifier); (⇐ *~~kapesi~~*) [*grey*](tepan.md#thing) |
 | | [**ᴛʜɪɴɢ**](#thing) **pimeja** — *suno* <br>ɴᴏᴜɴ [*shadow*](tepan.md#thing) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dark**, **unlit** |

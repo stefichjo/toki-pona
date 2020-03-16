@@ -10,7 +10,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
   * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴛʜɪɴɢ**](#thing) ([**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ᴀʀᴇᴀ**](#area), [**ᴛᴏᴏʟ**](#tool), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form))
   * [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier): [**ɴᴜᴍʙᴇʀ**](#number), [**ᴠᴇʀʙ**](#verb), [**ᴀᴜxɪʟɪᴀʀʏ**](#auxiliary), [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
-  * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ**](#mood), [**ᴄᴀꜱᴇ**](#case)
+  * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ**](#mood-marker), [**ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#case-marker)
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
   * [**ꜱᴏᴜɴᴅ**](#sound)
 
