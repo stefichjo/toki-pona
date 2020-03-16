@@ -1,4 +1,4 @@
-# o pu o pilin pona!
+# o pilin pona o pu!
 
 
 
