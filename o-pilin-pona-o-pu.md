@@ -34,5 +34,10 @@
 | <img src="musi/pona/kule.png" height="150"> | <img src="musi/pona/pimeja.png" height="150"> | <img src="musi/pona/walo.png" height="150"> |
 | *colourful* | *black* | *white* |
 
+| ᴍᴏᴅɪꜰɪᴇʀ jelo | ᴍᴏᴅɪꜰɪᴇʀ laso | ᴍᴏᴅɪꜰɪᴇʀ loje |
+|:-|:-|:-|
+| <img src="musi/pona/jelo.png" height="150"> | <img src="musi/pona/laso.png" height="150"> | <img src="musi/pona/loje.png" height="150"> |
+| *yellow* | *blue*, *green* | *red* |
+
 
 
