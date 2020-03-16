@@ -73,6 +73,11 @@
 
 ## People
 
+| ɴᴏᴜɴ jan | ɴᴏᴜɴ ijo |
+|:-|:-|
+| <img src="musi/pona/jan.png" height="150"> | <img src="musi/pona/ijo.png" height="150"> |
+| *person* | *thing* |
+
 | ᴘᴇʀꜱᴏɴ mama | ᴘᴇʀꜱᴏɴ meli | ᴘᴇʀꜱᴏɴ mije |
 |:-|:-|:-|
 | <img src="musi/pona/mama.png" height="150"> | <img src="musi/pona/meli.png" height="150"> | <img src="musi/pona/mije.png" height="150"> |
