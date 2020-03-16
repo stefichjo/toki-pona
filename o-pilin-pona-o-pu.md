@@ -10,17 +10,17 @@
 | ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ li | ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ o |
 |:-|:-|
 | <img src="musi/pona/li.png" height="150"> | <img src="musi/pona/o.png" height="150"> |
-| *(indicative)* | *(deontic)* |
+| ᴘᴀʀᴛɪᴄʟᴇ *(indicative)* | ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* |
 
 | ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ e | ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ pi |
 |:-|:-|
 | <img src="musi/pona/e.png" height="150"> | <img src="musi/pona/pi.png" height="150"> |
-| *(accusative)* | *(genitive)* |
+| ᴘᴀʀᴛɪᴄʟᴇ *(accusative)* | ᴘᴀʀᴛɪᴄʟᴇ *(genitive)* |
 
 | ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ a | ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ ala | ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ mu |
 |:-|:-|:-|
 | <img src="musi/pona/a.png" height="150"> | <img src="musi/pona/ala.png" height="150"> | <img src="musi/pona/mu.png" height="150"> |
-| *(confirmation)* | *(negation)* | *(communication)* |
+| ᴘᴀʀᴛɪᴄʟᴇ *(confirmation)* | ᴘᴀʀᴛɪᴄʟᴇ *(negation)* | ᴘᴀʀᴛɪᴄʟᴇ *(communication)* |
 
 ## Light
 
