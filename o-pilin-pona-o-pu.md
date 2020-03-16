@@ -90,4 +90,12 @@
 
 ***TODO dictionary***
 
+## Materials
+
+| ᴛʜɪɴɢ kiwen | ᴛʜɪɴɢ ko | ᴛʜɪɴɢ kon | ᴛʜɪɴɢ telo |
+|:-|:-|:-|:-|
+| <img src="musi/pona/kiwen.png" height="150"> | <img src="musi/pona/ko.png" height="150"> | <img src="musi/pona/kon.png" height="150"> | <img src="musi/pona/telo.png" height="150"> |
+| ɴᴏᴜɴ *hard object* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hard* | ɴᴏᴜɴ *semi-solid* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *semi-solid* | ɴᴏᴜɴ *air* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *floating* | ɴᴏᴜɴ *wet substance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *wet* |
+
+
 
