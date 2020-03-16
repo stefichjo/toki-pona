@@ -29,5 +29,10 @@
 | <img src="musi/pona/suno.png" height="150"> |
 | ɴᴏᴜɴ *light* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *shining* |
 
+| ᴍᴏᴅɪꜰɪᴇʀ kule | ᴍᴏᴅɪꜰɪᴇʀ pimeja | ᴍᴏᴅɪꜰɪᴇʀ walo |
+|:-|:-|:-|
+| <img src="musi/pona/kule.png" height="150"> | <img src="musi/pona/pimeja.png" height="150"> | <img src="musi/pona/walo.png" height="150"> |
+| *colourful* | *black* | *white* |
+
 
 
