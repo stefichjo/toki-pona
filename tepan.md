@@ -53,7 +53,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **insa** | *core*, *heart*, *middle* | *internal* |
 | **jaki** | *dirt*, *poison*, *waste*; *shame*: *to condemn* | - |
 | **kili** | - | *hanging* |
-| **kiwen** | - | *hard* |
+| **kiwen** | - | *hard*, *sharp* |
 | **ko** | - | *semi-solid* |
 | **kon** | - | *floating*, *hovering* |
 | **linja** | - | *long and flexible* |
