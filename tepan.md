@@ -253,7 +253,7 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 | **ike** | **akesi** | *hostile* | - |
 | **kulupu** | **lawa** | - | *arrangement*, *organization* |
 | **kulupu** | **mute** | - | *multitude*, *set* |
-| **lon** | **kepeken** | - | *according to*, *along* |
+| **lon** | **pu** | - | *according to*, *along* |
 | **noka** | **anpa** | *area below or under* | …: *below*, *under*; *depending on* |
 | **open** | **kama** | *begin*, *start* | - |
 | **pini** | **selo** | - | …: *last*; *closed*, *sealed* |
