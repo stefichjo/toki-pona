@@ -64,7 +64,7 @@
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ taso | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sin |
 |:-|:-|
 | <img src="musi/pona/taso.png" height="150"> | <img src="musi/pona/sin.png" height="150"> |
-| *independent from*, *without* | *in addition to*, *with* |
+| *without* | *with* |
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ kepeken |
 |:-|
