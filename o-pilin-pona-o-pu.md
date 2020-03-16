@@ -4,10 +4,10 @@
 
 ### Mood Markers
 
-| ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ li |
-|:-|
-| <img src="musi/pona/li.png" height="150"> |
-| *(indicative)* |
+| ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ li | ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ o |
+|:-:|:-|
+| <img src="musi/pona/li.png" height="150"> | <img src="musi/pona/o.png" height="150"> |
+| *(indicative)* | *(deontic)* |
 
 ### Case Markers
 
