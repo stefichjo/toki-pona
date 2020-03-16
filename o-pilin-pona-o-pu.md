@@ -22,6 +22,12 @@
 | <img src="musi/pona/a.png" height="150"> | <img src="musi/pona/mu.png" height="150"> |
 | *(confirmation)* | *(communication)* |
 
-## Prepositions
+## Light
+
+| ᴛʜɪɴɢ suno |
+|:-:|
+| <img src="musi/pona/suno.png" height="150"> |
+| ɴᴏᴜɴ *light* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *shining* |
+
 
 
