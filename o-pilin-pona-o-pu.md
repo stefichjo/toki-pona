@@ -73,9 +73,9 @@
 
 ## People
 
-| ᴘᴇʀꜱᴏɴ meli | ᴘᴇʀꜱᴏɴ mije |
-|:-|:-|
-| <img src="musi/pona/meli.png" height="150"> | <img src="musi/pona/mije.png" height="150"> |
-| ɴᴏᴜɴ *female person* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* | ɴᴏᴜɴ *male person* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* |
+| ᴘᴇʀꜱᴏɴ mama | ᴘᴇʀꜱᴏɴ meli | ᴘᴇʀꜱᴏɴ mije |
+|:-|:-|:-|
+| <img src="musi/pona/mama.png" height="150"> | <img src="musi/pona/meli.png" height="150"> | <img src="musi/pona/mije.png" height="150"> |
+| ɴᴏᴜɴ *parent* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of origin* | ɴᴏᴜɴ *female person* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* | ɴᴏᴜɴ *male person* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* |
 
 
