@@ -5,7 +5,7 @@
 | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ anu | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ en | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ la |
 |:-|:-|:-|
 | <img src="musi/pona/anu.png" height="150"> | <img src="musi/pona/en.png" height="150"> | <img src="musi/pona/la.png" height="150"> |
-| *or* | *and* | *if-then* |
+| ᴘᴀʀᴛɪᴄʟᴇ *or* | ᴘᴀʀᴛɪᴄʟᴇ *and* | ᴘᴀʀᴛɪᴄʟᴇ *if-then* |
 
 | ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ li | ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ o |
 |:-|:-|
