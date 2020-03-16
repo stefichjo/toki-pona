@@ -32,12 +32,12 @@
 | ᴍᴏᴅɪꜰɪᴇʀ kule | ᴍᴏᴅɪꜰɪᴇʀ pimeja | ᴍᴏᴅɪꜰɪᴇʀ walo |
 |:-|:-|:-|
 | <img src="musi/pona/kule.png" height="150"> | <img src="musi/pona/pimeja.png" height="150"> | <img src="musi/pona/walo.png" height="150"> |
-| *colourful* | *black* | *white* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *colourful* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *black* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *white* |
 
 | ᴍᴏᴅɪꜰɪᴇʀ jelo | ᴍᴏᴅɪꜰɪᴇʀ laso | ᴍᴏᴅɪꜰɪᴇʀ loje |
 |:-|:-|:-|
 | <img src="musi/pona/jelo.png" height="150"> | <img src="musi/pona/laso.png" height="150"> | <img src="musi/pona/loje.png" height="150"> |
-| *yellow* | *blue*, *green* | *red* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *yellow* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blue*, *green* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *red* |
 
 
 
