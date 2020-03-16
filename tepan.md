@@ -232,6 +232,9 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 | **a** | - | *indeed*; *still*, *too*; *yes* |
 | **ala** | *(negation)* | - |
 | **mu** | *(indifference)* | *-ish*, *sort-of*; *blah* |
+
+| ɴᴀᴍᴇ | ᴘᴀʀᴛɪᴄʟᴇ | ᴀᴅᴠᴇʀʙ |
+|:-|:-|:-|
 | **Pu** | *name of the official Toki Pona book*: *the official Toki Pona book*, *"Pu"* | - |
 
 ꜰʀᴀɢᴍᴇɴᴛs can be used as **ɴᴀᴍᴇ**s. ᴘᴀʀᴛɪᴄʟᴇs and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs in ꜰʀᴀɢᴍᴇɴᴛs aren't as restricted as in ꜱᴇɴᴛᴇɴᴄᴇs.

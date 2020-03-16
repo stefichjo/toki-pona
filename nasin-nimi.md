@@ -18,7 +18,7 @@ A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines a word's ᴘᴀʀᴛs ᴏꜰ ꜱᴘ�
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ**](#mood-marker), [**ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#case-marker)
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
-  * [**ᴛᴏᴋɪᴘᴏɴɪᴢᴀᴛɪᴏɴ**](#tokiponization): [...](#interjection), [...](#name)
+  * [**ᴛᴏᴋɪᴘᴏɴɪᴢᴀᴛɪᴏɴ**](#tokiponization)
 
 # CONTENT WORD
 *([nimi](#toki-pona-word-classes-and-parts-of-speech) suli)*
@@ -376,13 +376,13 @@ Before **la**, the [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) **ni:** in fron
 ## TOKIPONIZATION
 *([nimi lili](#particle) poka)*
 
-**ᴛᴏᴋɪᴘᴏɴɪᴢᴀᴛɪᴏɴ**s are tokiponizations of **ɴᴀᴍᴇ**s and **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s. They can be both **ᴘᴀʀᴛɪᴄʟᴇ**s and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s when used without **kalama**.
+**ᴛᴏᴋɪᴘᴏɴɪᴢᴀᴛɪᴏɴ**s are **ɴᴀᴍᴇ**s and **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s. They can be both **ᴘᴀʀᴛɪᴄʟᴇ**s and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s when used without **kalama**.
 
 | nimi ona li kalama "Sonja". → nimi ona li Sonja. | ona li kute e kalama "mu" wawa. → ona li kute e mu wawa. |
 |:-|:-|
 | *Her name goes "Sonja".* → *Her name is Sonja.* | *She heard a loud bleat.* |
 
-[ɴᴜᴍʙᴇʀ](#number)s can be used as **ᴛᴏᴋɪᴘᴏɴɪᴢᴀᴛɪᴏɴ**s after **nanpa**. (Plus, the [ᴛʜɪɴɢ ɴᴏᴜɴ](#thing) **nanpa** itself can be used as a **ᴛᴏᴋɪᴘᴏɴɪᴢᴀᴛɪᴏɴ**.)
+[ɴᴜᴍʙᴇʀ](#number)s can be used as **ɴᴀᴍᴇ**s after **nanpa**. (Plus, the [ᴛʜɪɴɢ ɴᴏᴜɴ](#thing) **nanpa** itself can be used as a **ɴᴀᴍᴇ**.)
 
 | sina nanpa wan. | toki nanpa wan |
 |:-|:-|
@@ -497,7 +497,7 @@ One can use **ᴛᴏᴋɪᴘᴏɴɪᴢᴀᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or �
 | <img src="musi/pona/poki.png" height="50" title="bokis"> | [**ᴛᴏᴏʟ**](#tool) *kute*, *lawa*, *luka*, *noka*, *palisa*, **poki**, *selo*, *uta* <br>ɴᴏᴜɴ [*bladder*](tepan.md#tool); **bag**, **bowl**, **box**, **container**, **cup**, **cupboard**, **drawer**, **vessel** → <br>ᴠᴇʀʙ [*to collect*](tepan.md#tool) |
 | <img src="musi/pona/pona.png" height="50" title="bona"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) **pona** – *ike*, *nasa*, *pakala*, *utala* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**beneficial**](sonja.md#toki-pona-proverbs), [**beautiful**](sonja.md#toki-pona-proverbs), **good**, [**great**](sonja.md#toki-pona-proverbs), [**OK**](sonja.md#toki-pona-proverbs), **positive**, [**right**](sonja.md#lesson-14); **friendly**, **peaceful**; (⇐ *ilo*) **useful**; (⇐ *lili* ⇐ *~~pasila~~*) [*basic*, *elementary*, *primitive*](tepan.md#modifier), **simple**; ɴᴏᴜɴ [**good**](sonja.md#lesson-10), [**peace**](sonja.md#lesson-10), [**simplicity**](sonja.md#famous-quotations), [**sophistication**](sonja.md#famous-quotations) <br>ᴠᴇʀʙ [**to improve**](sonja.md#lesson-6), [**tidy up**](sonja.md#lesson-18) |
 | <img src="musi/pona/pu.png" height="50" title="buk"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) *ante* ⇐ *esun* — *sama* ⇐ **pu** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (⇒ *lon*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **interacting with the official Toki Pona book** |
-| | [**ᴛᴏᴋɪᴘᴏɴɪᴢᴀᴛɪᴏɴ**](#tokiponization) *nanpa*, **Pu** <br>ᴘᴀʀᴛɪᴄʟᴇ [*name of the official Toki Pona book*](tepan.md#tokiponization): (lipu Pu) [*the official Toki Pona book*, *"Pu"*](tepan.md#tokiponization) |
+| | [**ɴᴀᴍᴇ**](#tokiponization) *nanpa*, **Pu** <br>ᴘᴀʀᴛɪᴄʟᴇ [*name of the official Toki Pona book*](tepan.md#tokiponization): (lipu Pu) [*the official Toki Pona book*, *"Pu"*](tepan.md#tokiponization) |
 | <img src="musi/pona/sama.png" height="50" title="sama"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) *ante* ⇐ *esun* — **sama** ⇐ *pu* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **as**, **like** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **same**, **similar**; [*-self*, *-selves*](tepan.md#dictionary); (⇐ *kulupu*) **each other**, [*reciprocal*](tepan.md#dictionary); **fellow**: (*jan sama*) **peer**, (*jan sama ~~pi kulupu mama~~* ⇐ *~~pata~~*) **sibling** <br>ɴᴏᴜɴ [**harmony**](sonja.md#famous-quotations) |
 | <img src="musi/pona/seli.png" height="50" title="ĉeli"> | [**ᴛʜɪɴɢ**](#thing) *lete* — **seli** <br>ɴᴏᴜɴ **chemical reaction**, **fire**, **heat source**; **cooking element** <br>ᴠᴇʀʙ [**to cook**](sonja.md#lesson-18) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*warm*; *cooked*](tepan.md#thing) |
 | <img src="musi/pona/selo.png" height="50" title="ŝelo"> | [**ᴛᴏᴏʟ**](#tool) *kute*, *lawa*, *luka*, *noka*, *palisa*, *poki*, **selo**, *uta* <br>ɴᴏᴜɴ [**form**](sonja.md#preface), **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary** → <br>ᴠᴇʀʙ [*to form*](tepan.md#tool) |
