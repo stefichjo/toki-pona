@@ -95,7 +95,27 @@
 | ᴛʜɪɴɢ kiwen | ᴛʜɪɴɢ ko | ᴛʜɪɴɢ kon | ᴛʜɪɴɢ telo |
 |:-|:-|:-|:-|
 | <img src="musi/pona/kiwen.png" height="150"> | <img src="musi/pona/ko.png" height="150"> | <img src="musi/pona/kon.png" height="150"> | <img src="musi/pona/telo.png" height="150"> |
-| ɴᴏᴜɴ *hard object* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hard* | ɴᴏᴜɴ *semi-solid* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *semi-solid* | ɴᴏᴜɴ *air* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *floating* | ɴᴏᴜɴ *wet substance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *wet* |
+| ɴᴏᴜɴ *hard object* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hard* | ɴᴏᴜɴ *semi-solid* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *semi-solid* | ɴᴏᴜɴ *air* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *floating* | *wet substance* |
 
+| ᴛʜɪɴɢ linja | ᴛʜɪɴɢ palisa |
+|:-|:-|
+| <img src="musi/pona/linja.png" height="150"> | <img src="musi/pona/palisa.png" height="150"> |
+| *long flexible thing* | *long hard thing* |
+
+***TODO 2D + 3D: soft, rigid ⇒ kiwen***
+
+## Forms
+
+| ᴛʜɪɴɢ lipu | ᴛʜɪɴɢ nena | ᴛʜɪɴɢ sike |
+|:-|:-|:-|
+| <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/nena.png" height="150"> | <img src="musi/pona/sike.png" height="150"> |
+| *flat object* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* | *round or circular thing* |
+
+## TODO
+
+| ᴛʜɪɴɢ lete | ᴛʜɪɴɢ seli |
+|:-|:-|
+| <img src="musi/pona/lete.png" height="150"> | <img src="musi/pona/seli.png" height="150"> |
+| ɴᴏᴜɴ *frost* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold* | ɴᴏᴜɴ *heat source* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *warm* |
 
 

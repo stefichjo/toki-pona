@@ -71,7 +71,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **pan** | *seed* | *fallen*, *dropped*; *sown* |
 | **pimeja** | *shadow* | - |
 | **poka** | *square* | *lateral* |
-| **seli** | - | *warm*; *cooked* |
+| **seli** | - | *hot*, *warm*; *cooked* |
 | **sijelo** | *life-form* | *alive* |
 | **sike** | *age*; *lap* | *old*: *to fulfil* |
 | **sinpin** | *something upright* | *upright*; *barring*, *blocking* |
