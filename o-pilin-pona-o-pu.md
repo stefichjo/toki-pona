@@ -71,4 +71,11 @@
 | <img src="musi/pona/kepeken.png" height="150"> |
 | *by means of* |
 
+## People
+
+| ᴘᴇʀꜱᴏɴ meli | ᴘᴇʀꜱᴏɴ mije |
+|:-|:-|
+| <img src="musi/pona/meli.png" height="150"> | <img src="musi/pona/mije.png" height="150"> |
+| ɴᴏᴜɴ *female person* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* | ɴᴏᴜɴ *male person* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* |
+
 
