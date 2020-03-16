@@ -44,31 +44,31 @@
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ ante | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sama |
 |:-|:-|
 | <img src="musi/pona/ante.png" height="150"> | <img src="musi/pona/sama.png" height="150"> |
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *than* | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *like* |
+| *than* | *like* |
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tan | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
 |:-|:-|
 | <img src="musi/pona/tan.png" height="150"> | <img src="musi/pona/tawa.png" height="150"> |
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *from* | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *to* |
+| *from* | *to* |
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ lon |
 |:-|
 | <img src="musi/pona/lon.png" height="150"> |
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *at* |
+| *at* |
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ esun | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ pu |
 |:-|:-|
 | <img src="musi/pona/esun.png" height="150"> | <img src="musi/pona/pu.png" height="150"> |
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in exchange for* | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *according to* |
+| *in exchange for* | *according to* |
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ taso | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sin |
 |:-|:-|
 | <img src="musi/pona/taso.png" height="150"> | <img src="musi/pona/sin.png" height="150"> |
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *independent from*, *without* | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* |
+| *independent from*, *without* | *in addition to*, *with* |
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ kepeken |
 |:-|
 | <img src="musi/pona/kepeken.png" height="150"> |
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *by means of* |
+| *by means of* |
 
 
