@@ -9,8 +9,8 @@
 
 | ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ e | ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ pi |
 |:-:|:-|
-| <img src="musi/pona/li.png" height="150"> | <img src="musi/pona/o.png" height="150"> |
-| *(indicative)* | *(deontic)* |
+| <img src="musi/pona/e.png" height="150"> | <img src="musi/pona/pi.png" height="150"> |
+| *(accusative)* | *(genitive)* |
 
 ### Conjunctions
 
