@@ -41,35 +41,15 @@
 
 ## Prepositions
 
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ ante | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sama |
-|:-|:-|
-| <img src="musi/pona/ante.png" height="150"> | <img src="musi/pona/sama.png" height="150"> |
-| *than* | *like* |
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ ante | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sama | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ lon | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tan | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
+|:-|:-|:-|:-|:-|
+| <img src="musi/pona/ante.png" height="150"> | <img src="musi/pona/sama.png" height="150"> | <img src="musi/pona/lon.png" height="150"> | <img src="musi/pona/tan.png" height="150"> | <img src="musi/pona/tawa.png" height="150"> |
+| *than* | *like* | *from* | *to* | *at* |
 
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tan | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
-|:-|:-|
-| <img src="musi/pona/tan.png" height="150"> | <img src="musi/pona/tawa.png" height="150"> |
-| *from* | *to* |
-
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ lon |
-|:-|
-| <img src="musi/pona/lon.png" height="150"> |
-| *at* |
-
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ esun | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ pu |
-|:-|:-|
-| <img src="musi/pona/esun.png" height="150"> | <img src="musi/pona/pu.png" height="150"> |
-| *in exchange for* | *according to* |
-
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ taso | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sin |
-|:-|:-|
-| <img src="musi/pona/taso.png" height="150"> | <img src="musi/pona/sin.png" height="150"> |
-| *without* | *with* |
-
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ kepeken |
-|:-|
-| <img src="musi/pona/kepeken.png" height="150"> |
-| *by means of* |
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ esun | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ pu | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ kepeken | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ taso | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sin |
+|:-|:-|:-|:-|:-|
+| <img src="musi/pona/esun.png" height="150"> | <img src="musi/pona/pu.png" height="150"> | <img src="musi/pona/kepeken.png" height="150"> | <img src="musi/pona/taso.png" height="150"> | <img src="musi/pona/sin.png" height="150"> |
+| *in exchange for* | *according to* | *by means of* | *without* | *with* |	
 
 ## People
 
@@ -235,7 +215,7 @@
 
 | ᴛᴏᴏʟ + ᴀᴜxɪʟɪᴀʀʏ lukin | ᴛᴏᴏʟ + ᴀᴜxɪʟɪᴀʀʏ pilin |
 |:-|:-|
-| <img src="musi/pona/kute.png" height="150"> | <img src="musi/pona/uta.png" height="150"> |
+| <img src="musi/pona/lukin.png" height="150"> | <img src="musi/pona/pilin.png" height="150"> |
 | ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to see* + <br>ᴠᴇʀʙ *to care for* | ɴᴏᴜɴ *heart* → <br>ᴠᴇʀʙ *to sense* + <br>ᴠᴇʀʙ *to have the impression that* |
 
 * sitelen
@@ -253,5 +233,3 @@
 |:-|:-|
 | <img src="musi/pona/poki.png" height="150"> | <img src="musi/pona/selo.png" height="150"> |
 | ɴᴏᴜɴ *bladder* → <br>ᴠᴇʀʙ *to collect* | ɴᴏᴜɴ *skin* → <br>ᴠᴇʀʙ *to form* |
-
-
