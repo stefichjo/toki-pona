@@ -53,20 +53,20 @@
 
 ## People
 
-| ɴᴏᴜɴ jan | ɴᴏᴜɴ ijo |
+| ᴛʜɪɴɢ kulupu |
+|:-|
+| <img src="musi/pona/kulupu.png" height="150"> |
+| ɴᴏᴜɴ *community* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *in common* |
+
+| ɴᴏᴜɴ ijo | ɴᴏᴜɴ jan |
 |:-|:-|
-| <img src="musi/pona/jan.png" height="150"> | <img src="musi/pona/ijo.png" height="150"> |
-| *person* | *thing* |
+| <img src="musi/pona/ijo.png" height="150"> | <img src="musi/pona/jan.png" height="150"> |
+| *thing* | *person* |
 
 | ᴘᴇʀꜱᴏɴ mama | ᴘᴇʀꜱᴏɴ meli | ᴘᴇʀꜱᴏɴ mije |
 |:-|:-|:-|
 | <img src="musi/pona/mama.png" height="150"> | <img src="musi/pona/meli.png" height="150"> | <img src="musi/pona/mije.png" height="150"> |
 | ɴᴏᴜɴ *parent* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of origin* | ɴᴏᴜɴ *female person* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* | ɴᴏᴜɴ *male person* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* |
-
-| ᴛʜɪɴɢ kulupu |
-|:-|
-| <img src="musi/pona/kulupu.png" height="150"> |
-| ɴᴏᴜɴ *community* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *in common* |
 
 | ᴘʀᴏɴᴏᴜɴ mi | ᴘʀᴏɴᴏᴜɴ sina | ᴘʀᴏɴᴏᴜɴ ona |
 |:-|:-|:-|
