@@ -111,11 +111,31 @@
 | <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/nena.png" height="150"> | <img src="musi/pona/sike.png" height="150"> |
 | *flat object* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* | *round or circular thing* |
 
-## TODO
+## Appearances
 
 | ᴛʜɪɴɢ lete | ᴛʜɪɴɢ seli |
 |:-|:-|
 | <img src="musi/pona/lete.png" height="150"> | <img src="musi/pona/seli.png" height="150"> |
-| ɴᴏᴜɴ *frost* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold* | ɴᴏᴜɴ *heat source* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *warm* |
+| ɴᴏᴜɴ *frost* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold* | ɴᴏᴜɴ *heat source* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* |
+
+| ᴛʜɪɴɢ lili | ᴛʜɪɴɢ suli |
+|:-|:-|
+| <img src="musi/pona/lili.png" height="150"> | <img src="musi/pona/suli.png" height="150"> |
+| ɴᴏᴜɴ *piece* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *small* | ɴᴏᴜɴ *cargo* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *big* |
+
+| ᴛʜɪɴɢ ilo | ᴛʜɪɴɢ mani | ᴛʜɪɴɢ wawa |
+|:-|:-|:-|
+| <img src="musi/pona/ilo.png" height="150"> | <img src="musi/pona/mani.png" height="150"> | <img src="musi/pona/wawa.png" height="150"> |
+| ɴᴏᴜɴ *tool* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *useful* | ɴᴏᴜɴ *wealth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *valueable* | ɴᴏᴜɴ *force* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strong* |
+
+| ᴍᴏᴅɪꜰɪᴇʀ ike | ᴍᴏᴅɪꜰɪᴇʀ pona |
+|:-|:-|
+| <img src="musi/pona/ike.png" height="150"> | <img src="musi/pona/pona.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bad* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* |
+
+| ᴍᴏᴅɪꜰɪᴇʀ nasa | ᴍᴏᴅɪꜰɪᴇʀ pakala | ᴍᴏᴅɪꜰɪᴇʀ utala |
+|:-|:-|:-|
+| <img src="musi/pona/nasa.png" height="150"> | <img src="musi/pona/pakala.png" height="150"> | <img src="musi/pona/utala.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strange* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *messed up* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *aggressive* |
 
 
