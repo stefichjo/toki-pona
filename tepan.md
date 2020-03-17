@@ -56,11 +56,12 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **kiwen** | - | *hard*, *sharp* |
 | **ko** | - | *semi-solid* |
 | **kon** | - | *floating*, *hovering* |
-| **linja** | - | *long and flexible* |
+| **kulupu** | - | *in common* |
+| **linja** | - | *long and flexible; soft* |
 | **lipu** | - | *flat*, *thin* |
 | **lete** | *frost*, *ice* | - |
 | **lupa** | - | *hollow* |
-| **ma** | - | *firm*: *to tie* |
+| **ma** | - | *firm*, *fixed*: *to tie* |
 | **mani** | - | *domesticated*, *refined*; *valuable* |
 | **monsi** | - | *dorsal*; *endorsing* |
 | **mun** | - | *orbiting*, *sky-walking* |
@@ -245,12 +246,15 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 
 ## Synonyms
 
+***TODO sync with examples above***
+
 | | ⇐ | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|:-|
 | **ante** | **esun** | *other* | *instead of* |
 | **ante lon poka** | **ante** | - | *than*, *unlike* |
 | **awen** | **tomo** | *protected*, *safe*; *to help in peril*, *protect* | - |
 | **ike** | **akesi** | *hostile* | - |
+| **kiwen** | **palisa** | - | *rigid* |
 | **kulupu** | **lawa** | - | *arrangement*, *organization* |
 | **kulupu** | **mute** | - | *multitude*, *set* |
 | **lon** | **pu** | - | *according to*, *along* |
