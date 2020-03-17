@@ -68,15 +68,10 @@
 | <img src="musi/pona/kulupu.png" height="150"> |
 | ɴᴏᴜɴ *community* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *in common* |
 
-| ᴘʀᴏɴᴏᴜɴ mi | ᴘʀᴏɴᴏᴜɴ sina |
-|:-|:-|
-| <img src="musi/pona/mi.png" height="150"> | <img src="musi/pona/sina.png" height="150"> |
-| ɴᴏᴜɴ *I*, *we* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *my*, *our* | ɴᴏᴜɴ *you* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* |
-
-| ᴘʀᴏɴᴏᴜɴ ona |
-|:-|
-| <img src="musi/pona/ona.png" height="150"> |
-| ɴᴏᴜɴ *he*, *she*, *it*, *they* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *his*, *her*, *its*, *their* |
+| ᴘʀᴏɴᴏᴜɴ mi | ᴘʀᴏɴᴏᴜɴ sina | ᴘʀᴏɴᴏᴜɴ ona |
+|:-|:-|:-|
+| <img src="musi/pona/mi.png" height="150"> | <img src="musi/pona/sina.png" height="150"> | <img src="musi/pona/ona.png" height="150"> |
+| ɴᴏᴜɴ *I*, *we* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *my*, *our* | ɴᴏᴜɴ *you* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* | ɴᴏᴜɴ *he*, *she*, *it*, *they* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *his*, *her*, *its*, *their* |
 
 ## Measurements
 
