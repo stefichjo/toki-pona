@@ -111,12 +111,14 @@
 | <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/nena.png" height="150"> | <img src="musi/pona/sike.png" height="150"> |
 | *flat object* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* | *round or circular thing* |
 
-## Appearances
+## TODO
 
 | ᴛʜɪɴɢ lete | ᴛʜɪɴɢ seli |
 |:-|:-|
 | <img src="musi/pona/lete.png" height="150"> | <img src="musi/pona/seli.png" height="150"> |
 | ɴᴏᴜɴ *frost* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold* | ɴᴏᴜɴ *heat source* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* |
+
+## Appearances
 
 | ᴛʜɪɴɢ lili | ᴛʜɪɴɢ suli |
 |:-|:-|
@@ -127,6 +129,8 @@
 |:-|:-|:-|
 | <img src="musi/pona/ilo.png" height="150"> | <img src="musi/pona/mani.png" height="150"> | <img src="musi/pona/wawa.png" height="150"> |
 | ɴᴏᴜɴ *tool* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *useful* | ɴᴏᴜɴ *wealth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *valueable* | ɴᴏᴜɴ *force* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strong* |
+
+### TODO
 
 | ᴍᴏᴅɪꜰɪᴇʀ ike | ᴍᴏᴅɪꜰɪᴇʀ pona |
 |:-|:-|
