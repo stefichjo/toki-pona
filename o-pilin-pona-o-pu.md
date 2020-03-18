@@ -107,12 +107,10 @@
 | <img src="musi/pona/linja.png" height="150"> | <img src="musi/pona/palisa.png" height="150"> |
 | *long flexible thing* | *long hard thing* |
 
-## Forms
-
-| ᴛʜɪɴɢ lipu | ᴛʜɪɴɢ nena | ᴛʜɪɴɢ sike |
-|:-|:-|:-|
-| <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/nena.png" height="150"> | <img src="musi/pona/sike.png" height="150"> |
-| *flat object* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* | *round or circular thing* |
+| ᴛʜɪɴɢ lipu | ᴛʜɪɴɢ nena |
+|:-|:-|
+| <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/nena.png" height="150"> |
+| *flat object* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* |
 
 ## TODO
 
@@ -172,12 +170,10 @@
 | <img src="musi/pona/anpa.png" height="150"> | <img src="musi/pona/sewi.png" height="150"> |
 | ɴᴏᴜɴ *area below or under* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *low* | ɴᴏᴜɴ *area above* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *high* |
 
-| ᴛʜɪɴɢ + ᴀʀᴇᴀ poka | ᴛʜɪɴɢ + ᴀʀᴇᴀ weka |
-|:-|:-|
-| <img src="musi/pona/poka.png" height="150"> | <img src="musi/pona/weka.png" height="150"> |
-| ɴᴏᴜɴ *side* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *laterial* + <br>ɴᴏᴜɴ *area beside* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *nearby* | ɴᴏᴜɴ *void* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *empty* + <br>ɴᴏᴜɴ *distance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *away* |
-
-***TODO transplant weka + thing***
+| ᴛʜɪɴɢ + ᴀʀᴇᴀ poka | ᴛʜɪɴɢ + ᴀʀᴇᴀ sike | ᴛʜɪɴɢ + ᴀʀᴇᴀ weka |
+|:-|:-|:-|
+| <img src="musi/pona/poka.png" height="150"> | <img src="musi/pona/sike.png" height="150"> | <img src="musi/pona/weka.png" height="150"> |
+| ɴᴏᴜɴ *side* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *laterial* + <br>ɴᴏᴜɴ *area beside* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *nearby* | *round or circular thing* + <br>ɴᴏᴜɴ*area surrounding* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *surrounding* | ɴᴏᴜɴ *void* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vast* + <br>ɴᴏᴜɴ *distance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *away* |
 
 | ᴛʜɪɴɢ + ᴀʀᴇᴀ sinpin | ᴛʜɪɴɢ + ᴀʀᴇᴀ monsi |
 |:-|:-|
@@ -228,3 +224,21 @@
 |:-|:-|
 | <img src="musi/pona/poki.png" height="150"> | <img src="musi/pona/selo.png" height="150"> |
 | ɴᴏᴜɴ *bladder* → <br>ᴠᴇʀʙ *to collect* | ɴᴏᴜɴ *skin* → <br>ᴠᴇʀʙ *to form* |
+
+---
+
+* jo
+* pana
+
+* pali
+* alasa
+
+* olin
+* unpa
+* musi
+
+---
+
+* poki
+* lupa
+

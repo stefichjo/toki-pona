@@ -81,6 +81,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **supa** | *lying on*, *sitting on*; *block*; *step*; *ladder*, *stairs* | *sustaining* |
 | **telo** | - | *wet* |
 | **wawa** | *force* | - |
+| **weka** | *space*; *vacuum*, *void* | *vast* |
 
 (Cf. [ᴋɪᴘᴏ](kipo.md#content-words).)
 
@@ -108,7 +109,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **sewi** | …: *above*, *over*; *at the top of* | *high*; *upper* |
 | **supa** | …: *on* | *horizontal* |
 | **tenpo** | …: *for* | *transitory* |
-| **weka** | *distance*: *away from* | …: *space*; *vacuum*, *void* |
+| **weka** | *distance*: *away from* | - |
 
 ##### [TOOL](nasin-nimi.md#tool)
 
