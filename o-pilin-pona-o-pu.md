@@ -129,6 +129,16 @@
 | <img src="musi/pona/len.png" height="150"> | <img src="musi/pona/tomo.png" height="150"> |
 | ɴᴏᴜɴ *cloth* → <br>ᴠᴇʀʙ *to hide* | ɴᴏᴜɴ *house* → <br>ᴠᴇʀʙ *to protect* |
 
+| ᴍᴏᴅɪꜰɪᴇʀ + ᴀᴜxɪʟɪᴀʀʏ ken | ᴍᴏᴅɪꜰɪᴇʀ + ᴀᴜxɪʟɪᴀʀʏ wile |
+|:-|:-|
+| <img src="musi/pona/ken.png" height="150"> | <img src="musi/pona/wile.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *possible* → <br>ᴠᴇʀʙ *...* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *necessary* → <br>ᴠᴇʀʙ *to want* |
+
+| ᴍᴏᴅɪꜰɪᴇʀ lape | ᴍᴏᴅɪꜰɪᴇʀ moli |
+|:-|:-|
+| <img src="musi/pona/lape.png" height="150"> | <img src="musi/pona/moli.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *resting* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dead* |
+
 ## Appearances
 
 | ᴛʜɪɴɢ lili | | ᴛʜɪɴɢ suli | | ᴛʜɪɴɢ ilo | ᴛʜɪɴɢ mani | ᴛʜɪɴɢ wawa |
