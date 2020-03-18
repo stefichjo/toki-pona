@@ -223,7 +223,7 @@
 | ᴛᴏᴏʟ poki | ᴛᴏᴏʟ selo |
 |:-|:-|
 | <img src="musi/pona/poki.png" height="150"> | <img src="musi/pona/selo.png" height="150"> |
-| ɴᴏᴜɴ *bladder* → <br>ᴠᴇʀʙ *to collect* | ɴᴏᴜɴ *skin* → <br>ᴠᴇʀʙ *to form* |
+| ɴᴏᴜɴ *bladder* → <br>ᴠᴇʀʙ *to contain* | ɴᴏᴜɴ *skin* → <br>ᴠᴇʀʙ *to form* |
 
 ---
 

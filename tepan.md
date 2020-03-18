@@ -121,7 +121,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **noka** | - | *to step on*, *kick* |
 | **palisa** | *finger* | *to point at* |
 | **pilin** | - | *to sense* |
-| **poki** | *bladder* | *to collect* |
+| **poki** | *bladder* | *to contain* |
 | **selo** | - | *to form* |
 | **uta** | - | *to suck, taste* 
 
