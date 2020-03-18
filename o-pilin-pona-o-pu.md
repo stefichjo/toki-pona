@@ -165,10 +165,13 @@
 
 ## Spatial Relations 
 
-| ᴀʀᴇᴀ anpa | ᴀʀᴇᴀ sewi |
-|:-|:-|
-| <img src="musi/pona/anpa.png" height="150"> | <img src="musi/pona/sewi.png" height="150"> |
-| ɴᴏᴜɴ *area below or under* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *low* | ɴᴏᴜɴ *area above* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *high* |
+| ᴀʀᴇᴀ sewi | ᴛʜɪɴɢ + ᴀʀᴇᴀ supa | ᴀʀᴇᴀ anpa |
+|:-|:-|:-|
+| <img src="musi/pona/sewi.png" height="150"> | <img src="musi/pona/supa.png" height="150"> | <img src="musi/pona/anpa.png" height="150"> |
+| ɴᴏᴜɴ *area above* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *high* | ɴᴏᴜɴ *thing to put or rest something on* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sustaining* + <br>ɴᴏᴜɴ *horizontal surface* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *horizontal* | ɴᴏᴜɴ *area below or under* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *low* |
+
+***TODO dictionary low***
+***TODO dictionary supa /THING***
 
 | ᴛʜɪɴɢ + ᴀʀᴇᴀ poka | ᴛʜɪɴɢ + ᴀʀᴇᴀ sike | ᴛʜɪɴɢ + ᴀʀᴇᴀ weka |
 |:-|:-|:-|
@@ -180,24 +183,17 @@
 | <img src="musi/pona/sinpin.png" height="150"> | <img src="musi/pona/monsi.png" height="150"> |
 | ɴᴏᴜɴ *front* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blocking* + <br>ɴᴏᴜɴ *area in front* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *foremost* | ɴᴏᴜɴ *back* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *endorsing* + <br>ɴᴏᴜɴ *area behind* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *rear* |
 
-| ᴛʜɪɴɢ + ᴀʀᴇᴀ insa | ᴛʜɪɴɢ + ᴀʀᴇᴀ supa |
-|:-|:-|
-| <img src="musi/pona/insa.png" height="150"> | <img src="musi/pona/supa.png" height="150"> |
-| ɴᴏᴜɴ *centre* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *internal* + <br>ɴᴏᴜɴ *content* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner* | ɴᴏᴜɴ *thing to put or rest something on* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sustaining* + <br>ɴᴏᴜɴ *horizontal surface* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *horizontal* |
+| ᴛʜɪɴɢ + ᴀʀᴇᴀ insa |
+|:-|
+| <img src="musi/pona/insa.png" height="150"> |
+| ɴᴏᴜɴ *centre* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *internal* + <br>ɴᴏᴜɴ *content* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner* |
 
 ## Body Parts
 
-| ᴛᴏᴏʟ noka | ᴛᴏᴏʟ lawa |
-|:-|:-|
-| <img src="musi/pona/noka.png" height="150"> | <img src="musi/pona/lawa.png" height="150"> |
-| ɴᴏᴜɴ *foot*, *leg* → <br>ᴠᴇʀʙ *to step on* | ɴᴏᴜɴ *head* → <br>ᴠᴇʀʙ *to guide* |
-
-***TODO TOOL lawa (move up)***
-
-| ᴛᴏᴏʟ luka |
-|:-|
-| <img src="musi/pona/luka.png" height="150"> |
-| ɴᴏᴜɴ *hand*, *arm* → <br>ᴠᴇʀʙ *to touch* |
+| ᴛᴏᴏʟ lawa | ᴛᴏᴏʟ luka | ᴛᴏᴏʟ noka |
+|:-|:-|:-|
+| <img src="musi/pona/lawa.png" height="150"> | <img src="musi/pona/luka.png" height="150"> | <img src="musi/pona/noka.png" height="150"> |
+| ɴᴏᴜɴ *head* → <br>ᴠᴇʀʙ *to guide* | ɴᴏᴜɴ *hand*, *arm* → <br>ᴠᴇʀʙ *to touch* | ɴᴏᴜɴ *foot*, *leg* → <br>ᴠᴇʀʙ *to step on* |
 
 | ᴛᴏᴏʟ kute | ᴛᴏᴏʟ uta |
 |:-|:-|
