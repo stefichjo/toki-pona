@@ -199,6 +199,8 @@
 | <img src="musi/pona/lawa.png" height="150"> | <img src="musi/pona/luka.png" height="150"> | <img src="musi/pona/noka.png" height="150"> |
 | ɴᴏᴜɴ *head* → <br>ᴠᴇʀʙ *to guide* | ɴᴏᴜɴ *hand*, *arm* → <br>ᴠᴇʀʙ *to touch* | ɴᴏᴜɴ *foot*, *leg* → <br>ᴠᴇʀʙ *to step on* |
 
+***TODO AREA***
+
 | ᴛᴏᴏʟ kute | ᴛᴏᴏʟ uta |
 |:-|:-|
 | <img src="musi/pona/kute.png" height="150"> | <img src="musi/pona/uta.png" height="150"> |
@@ -218,12 +220,26 @@
 * jaki
 * suwi
 
-### Tools TODO
+### Time
 
-| ᴛᴏᴏʟ poki | ᴛᴏᴏʟ selo |
-|:-|:-|
-| <img src="musi/pona/poki.png" height="150"> | <img src="musi/pona/selo.png" height="150"> |
-| ɴᴏᴜɴ *bladder* → <br>ᴠᴇʀʙ *to contain* | ɴᴏᴜɴ *skin* → <br>ᴠᴇʀʙ *to form* |
+***TODO AREA sijelo?***
+***TODO AREA nasin?***
+
+***TODO kama open nasin***
+***TODO pini selo tenpo***
+***TODO awen sijelo nanpa***
+
+| ᴛᴏᴏʟ selo |
+|:-|
+| <img src="musi/pona/selo.png" height="150"> |
+| ɴᴏᴜɴ *skin* → <br>ᴠᴇʀʙ *to form* |
+
+### TODO
+
+| ᴛᴏᴏʟ poki |
+|:-|
+| <img src="musi/pona/poki.png" height="150"> |
+| ɴᴏᴜɴ *bladder* → <br>ᴠᴇʀʙ *to contain* |
 
 ---
 
