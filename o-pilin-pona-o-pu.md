@@ -222,11 +222,12 @@
 
 ### Time
 
-***TODO AREA sijelo?***
-***TODO AREA nasin?***
+***TODO AREA sijelo, nasin?***
 
 ***TODO kama open nasin***
+
 ***TODO pini selo tenpo***
+
 ***TODO awen sijelo nanpa***
 
 | ᴛᴏᴏʟ selo |
