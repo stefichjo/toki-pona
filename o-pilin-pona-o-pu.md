@@ -175,20 +175,20 @@
 
 ## Spatial Relations 
 
-| ᴀʀᴇᴀ sewi | ᴛʜɪɴɢ + ᴀʀᴇᴀ supa | ᴀʀᴇᴀ anpa |
+| ᴀʀᴇᴀ + ᴛʜɪɴɢ sewi | ᴀʀᴇᴀ + ᴛʜɪɴɢ supa | ᴀʀᴇᴀ + ᴛʜɪɴɢ anpa |
 |:-|:-|:-|
 | <img src="musi/pona/sewi.png" height="150"> | <img src="musi/pona/supa.png" height="150"> | <img src="musi/pona/anpa.png" height="150"> |
-| ɴᴏᴜɴ *area above* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *high* | ɴᴏᴜɴ *thing to put or rest something on* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sustaining* + <br>ɴᴏᴜɴ *horizontal surface* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *horizontal* | ɴᴏᴜɴ *area below or under* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *low* |
+| ɴᴏᴜɴ *God* → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *supernatural* + ɴᴏᴜɴ *area above* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *high* | ɴᴏᴜɴ *thing to put or rest something on* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sustaining* + <br>ɴᴏᴜɴ *horizontal surface* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *horizontal* | ɴᴏᴜɴ *area below or under* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *low* |
 
-***TODO dictionary low***
-***TODO dictionary supa /THING***
+***TODO dictionary sewi, anpa + THING***
+***TODO dictionary low*** <br>
 
-| ᴛʜɪɴɢ + ᴀʀᴇᴀ poka | ᴛʜɪɴɢ + ᴀʀᴇᴀ sike | ᴛʜɪɴɢ + ᴀʀᴇᴀ weka |
+| ᴀʀᴇᴀ + ᴛʜɪɴɢ poka | ᴀʀᴇᴀ + ᴛʜɪɴɢ sike | ᴀʀᴇᴀ + ᴛʜɪɴɢ weka |
 |:-|:-|:-|
 | <img src="musi/pona/poka.png" height="150"> | <img src="musi/pona/sike.png" height="150"> | <img src="musi/pona/weka.png" height="150"> |
-| ɴᴏᴜɴ *side* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *laterial* + <br>ɴᴏᴜɴ *area beside* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *nearby* | *round or circular thing* + <br>ɴᴏᴜɴ*area surrounding* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *surrounding* | ɴᴏᴜɴ *void* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vast* + <br>ɴᴏᴜɴ *distance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *away* |
+| ɴᴏᴜɴ *side* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *laterial* + <br>ɴᴏᴜɴ *area beside* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *nearby* | *round or circular thing* + <br>ɴᴏᴜɴ *area surrounding* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *surrounding* | ɴᴏᴜɴ *void* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vast* + <br>ɴᴏᴜɴ *distance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *away* |
 
-| ᴛʜɪɴɢ + ᴀʀᴇᴀ sinpin | ᴛʜɪɴɢ + ᴀʀᴇᴀ insa | ᴛʜɪɴɢ + ᴀʀᴇᴀ monsi |
+| ᴀʀᴇᴀ + ᴛʜɪɴɢ sinpin | ᴀʀᴇᴀ + ᴛʜɪɴɢ insa | ᴀʀᴇᴀ + ᴛʜɪɴɢ monsi |
 |:-|:-|:-|
 | <img src="musi/pona/sinpin.png" height="150"> | <img src="musi/pona/insa.png" height="150"> | <img src="musi/pona/monsi.png" height="150"> |
 | ɴᴏᴜɴ *front* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blocking* + <br>ɴᴏᴜɴ *area in front* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *foremost* | ɴᴏᴜɴ *centre* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *internal* + <br>ɴᴏᴜɴ *content* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner* | ɴᴏᴜɴ *back* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *endorsing* + <br>ɴᴏᴜɴ *area behind* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *rear* |

@@ -50,7 +50,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 
 | ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
-| **insa** | *core*, *heart*, *middle* | *internal* |
+| **insa** | *core*, *heart* | *internal* |
 | **jaki** | *dirt*, *poison*, *waste*; *shame*: *to condemn* | - |
 | **kili** | - | *hanging* |
 | **kiwen** | - | *hard*, *sharp* |
@@ -97,7 +97,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | ᴀʀᴇᴀ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **awen** | …: *as long as*, *while* | *present*; *current* |
-| **insa** | - | *inner* |
+| **insa** | *middle* | *inner* |
 | **kama** | *upcoming*: *before*, *in the beginning*, *since*, *until* | *next* |
 | **lawa** | - | *main* |
 | **monsi** | - | *rear* |
