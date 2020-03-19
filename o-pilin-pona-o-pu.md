@@ -194,12 +194,10 @@
 
 ## Body Parts
 
-| ᴛᴏᴏʟ lawa | ᴛᴏᴏʟ luka | ᴛᴏᴏʟ noka |
+| ᴀʀᴇᴀ + ᴛᴏᴏʟ lawa | ᴀʀᴇᴀ + ᴛᴏᴏʟ luka | ᴀʀᴇᴀ + ᴛᴏᴏʟ noka |
 |:-|:-|:-|
 | <img src="musi/pona/lawa.png" height="150"> | <img src="musi/pona/luka.png" height="150"> | <img src="musi/pona/noka.png" height="150"> |
-| ɴᴏᴜɴ *head* → <br>ᴠᴇʀʙ *to guide* | ɴᴏᴜɴ *hand*, *arm* → <br>ᴠᴇʀʙ *to touch* | ɴᴏᴜɴ *foot*, *leg* → <br>ᴠᴇʀʙ *to step on* |
-
-***TODO AREA***
+| ɴᴏᴜɴ *highest part* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *upper* + ɴᴏᴜɴ *head* → <br>ᴠᴇʀʙ *to guide* | ɴᴏᴜɴ *range* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *reachable* + ɴᴏᴜɴ *hand*, *arm* → <br>ᴠᴇʀʙ *to touch* | ɴᴏᴜɴ *lowest part* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *lower* + <br>ɴᴏᴜɴ *foot*, *leg* → <br>ᴠᴇʀʙ *to step on* |
 
 | ᴛᴏᴏʟ kute | ᴛᴏᴏʟ uta |
 |:-|:-|
@@ -220,30 +218,6 @@
 * jaki
 * suwi
 
-### Time
-
-***TODO AREA sijelo, nasin?***
-
-***TODO kama open nasin***
-
-***TODO pini selo tenpo***
-
-***TODO awen sijelo nanpa***
-
-| ᴛᴏᴏʟ selo |
-|:-|
-| <img src="musi/pona/selo.png" height="150"> |
-| ɴᴏᴜɴ *skin* → <br>ᴠᴇʀʙ *to form* |
-
-### TODO
-
-| ᴛᴏᴏʟ poki |
-|:-|
-| <img src="musi/pona/poki.png" height="150"> |
-| ɴᴏᴜɴ *bladder* → <br>ᴠᴇʀʙ *to contain* |
-
----
-
 * jo
 * pana
 
@@ -254,8 +228,40 @@
 * unpa
 * musi
 
----
+### Time
 
-* poki
+| ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ kama | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ open | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ nasin |
+|:-|:-|
+| <img src="musi/pona/kama.png" height="150"> | <img src="musi/pona/open.png" height="150"> | <img src="musi/pona/nasin.png" height="150"> |
+| ɴᴏᴜɴ *start* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *future* + <br>ᴠᴇʀʙ *to achieve* | ɴᴏᴜɴ *entrance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *accessible* + <br>ᴠᴇʀʙ *to turn on* | ɴᴏᴜɴ *...* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *...* + <br>ᴠᴇʀʙ *...* |
+
+***TODO dictionary start***
+***TODO dictionary nasin AREA + AUXILIARY***
+
+| ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ pini | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ selo | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ tenpo |
+|:-|:-|
+| <img src="musi/pona/pini.png" height="150"> | <img src="musi/pona/selo.png" height="150"> | <img src="musi/pona/tenpo.png" height="150"> |
+| ɴᴏᴜɴ *end* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *past* + <br>ᴠᴇʀʙ *to cancel* | ɴᴏᴜɴ *closure* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *closed* + <br>ᴠᴇʀʙ *to conclude* | ɴᴏᴜɴ *time* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *transitory* + <br>ᴠᴇʀʙ *to occupy* |
+
+***TODO dictionary cancel***
+***TODO dictionary pini <-> selo: closure***
+***TODO level up selo***
+
+| ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ awen | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ sijelo | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ nanpa |
+|:-|:-|
+| <img src="musi/pona/awen.png" height="150"> | <img src="musi/pona/sijelo.png" height="150"> | <img src="musi/pona/nanpa.png" height="150"> |
+| ɴᴏᴜɴ *duration* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *present* + <br>ᴠᴇʀʙ *to continue* | ɴᴏᴜɴ *physical state* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *...* + <br>ᴠᴇʀʙ *...* | *someone's turn* + <br>ᴠᴇʀʙ *to count* |
+
+***TODO dictionary duration (-> tenpo)***
+***TODO dictionary sijelo, level up AREA + AUXILIARY***
+
+### TODO
+
+| ᴛᴏᴏʟ poki |
+|:-|
+| <img src="musi/pona/poki.png" height="150"> |
+| ɴᴏᴜɴ *bladder* → <br>ᴠᴇʀʙ *to contain* |
+
 * lupa
+
 
