@@ -250,10 +250,10 @@
 | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ awen | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ sijelo | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ nanpa |
 |:-|:-|:-|
 | <img src="musi/pona/awen.png" height="150"> | <img src="musi/pona/sijelo.png" height="150"> | <img src="musi/pona/nanpa.png" height="150"> |
-| ɴᴏᴜɴ *duration* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *present* + <br>ᴠᴇʀʙ *to continue* | ɴᴏᴜɴ *physical state* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *...* + <br>ᴠᴇʀʙ *...* | *someone's turn* + <br>ᴠᴇʀʙ *to count* |
+| ɴᴏᴜɴ *duration* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *present* + <br>ᴠᴇʀʙ *to continue* | ɴᴏᴜɴ *state* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *...* + <br>ᴠᴇʀʙ *...* | *someone's turn* + <br>ᴠᴇʀʙ *to count* |
 
 ***TODO dictionary duration (-> tenpo)***
-***TODO dictionary sijelo, level up AREA + AUXILIARY***
+***TODO dictionary sijelo, state, level up AREA + AUXILIARY***
 
 ### TODO
 
