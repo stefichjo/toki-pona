@@ -215,11 +215,18 @@
 * nimi
 * sona
 * moku
-* jaki
-* suwi
 
-* jo
-* pana
+| ᴛʜɪɴɢ jaki | ᴛʜɪɴɢ suwi |
+|:-|:-|
+| <img src="musi/pona/jaki.png" height="150"> | <img src="musi/pona/suwi.png" height="150"> |
+| ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *toxic* | ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* |
+
+***TODO bitter***
+
+| ᴠᴇʀʙ jo | ᴠᴇʀʙ pana |
+|:-|:-|
+| <img src="musi/pona/jo.png" height="150"> | <img src="musi/pona/pana.png" height="150"> |
+| *to have* | *to give* |
 
 * pali
 * alasa
@@ -253,7 +260,7 @@
 | ɴᴏᴜɴ *duration* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *present* + <br>ᴠᴇʀʙ *to continue* | ɴᴏᴜɴ *state* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *...* + <br>ᴠᴇʀʙ *...* | *someone's turn* + <br>ᴠᴇʀʙ *to count* |
 
 ***TODO dictionary duration (-> tenpo)***
-***TODO dictionary sijelo, state, level up AREA + AUXILIARY***
+***TODO dictionary sijelo, state, mode, configuration level up AREA + AUXILIARY***
 
 ### TODO
 
@@ -262,6 +269,9 @@
 | <img src="musi/pona/poki.png" height="150"> |
 | ɴᴏᴜɴ *bladder* → <br>ᴠᴇʀʙ *to contain* |
 
-* lupa
+| ᴛʜɪɴɢ lupa |
+|:-|
+| <img src="musi/pona/lupa.png" height="150"> |
+| ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* |
 
 
