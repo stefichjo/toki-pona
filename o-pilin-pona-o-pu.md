@@ -178,7 +178,7 @@
 | ᴀʀᴇᴀ + ᴛʜɪɴɢ sewi | ᴀʀᴇᴀ + ᴛʜɪɴɢ supa | ᴀʀᴇᴀ + ᴛʜɪɴɢ anpa |
 |:-|:-|:-|
 | <img src="musi/pona/sewi.png" height="150"> | <img src="musi/pona/supa.png" height="150"> | <img src="musi/pona/anpa.png" height="150"> |
-| ɴᴏᴜɴ *area above* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *high* + <br>ɴᴏᴜɴ *God* → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *supernatural* | ɴᴏᴜɴ *horizontal surface* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *horizontal*  + <br>ɴᴏᴜɴ *thing to put or rest something on* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sustaining*| ɴᴏᴜɴ *area below or under* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *low* →<br> ɴᴏᴜɴ *abyss* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *deep* |
+| ɴᴏᴜɴ *area above* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *high* + <br>ɴᴏᴜɴ *God* → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *supernatural* | ɴᴏᴜɴ *horizontal surface* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *horizontal*  + <br>ɴᴏᴜɴ *thing to put* <br>*or rest something on* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sustaining*| ɴᴏᴜɴ *area below or under* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *low* →<br> ɴᴏᴜɴ *abyss* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *deep* |
 
 ***TODO dictionary low*** <br>
 
@@ -197,7 +197,7 @@
 | ᴀʀᴇᴀ + ᴛᴏᴏʟ lawa | ᴀʀᴇᴀ + ᴛᴏᴏʟ luka | ᴀʀᴇᴀ + ᴛᴏᴏʟ noka |
 |:-|:-|:-|
 | <img src="musi/pona/lawa.png" height="150"> | <img src="musi/pona/luka.png" height="150"> | <img src="musi/pona/noka.png" height="150"> |
-| ɴᴏᴜɴ *highest part* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *upper* + ɴᴏᴜɴ *head* → <br>ᴠᴇʀʙ *to guide* | ɴᴏᴜɴ *range* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *reachable* + ɴᴏᴜɴ *hand*, *arm* → <br>ᴠᴇʀʙ *to touch* | ɴᴏᴜɴ *lowest part* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *lower* + <br>ɴᴏᴜɴ *foot*, *leg* → <br>ᴠᴇʀʙ *to step on* |
+| ɴᴏᴜɴ *highest part* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *upper* + <br>ɴᴏᴜɴ *head* → <br>ᴠᴇʀʙ *to guide* | ɴᴏᴜɴ *range* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *reachable* + <br>ɴᴏᴜɴ *hand*, *arm* → <br>ᴠᴇʀʙ *to touch* | ɴᴏᴜɴ *lowest part* → <br>ᴀᴅᴊᴇᴄᴛɪ	ᴠᴇ *lower* + <br>ɴᴏᴜɴ *foot*, *leg* → <br>ᴠᴇʀʙ *to step on* |
 
 | ᴛᴏᴏʟ kute | ᴛᴏᴏʟ uta |
 |:-|:-|
@@ -231,7 +231,7 @@
 ### Time
 
 | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ kama | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ open | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ nasin |
-|:-|:-|
+|:-|:-|:-|
 | <img src="musi/pona/kama.png" height="150"> | <img src="musi/pona/open.png" height="150"> | <img src="musi/pona/nasin.png" height="150"> |
 | ɴᴏᴜɴ *start* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *future* + <br>ᴠᴇʀʙ *to achieve* | ɴᴏᴜɴ *entrance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *accessible* + <br>ᴠᴇʀʙ *to turn on* | ɴᴏᴜɴ *...* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *...* + <br>ᴠᴇʀʙ *...* |
 
@@ -239,7 +239,7 @@
 ***TODO dictionary nasin AREA + AUXILIARY***
 
 | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ pini | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ selo | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ tenpo |
-|:-|:-|
+|:-|:-|:-|
 | <img src="musi/pona/pini.png" height="150"> | <img src="musi/pona/selo.png" height="150"> | <img src="musi/pona/tenpo.png" height="150"> |
 | ɴᴏᴜɴ *end* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *past* + <br>ᴠᴇʀʙ *to cancel* | ɴᴏᴜɴ *closure* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *closed* + <br>ᴠᴇʀʙ *to conclude* | ɴᴏᴜɴ *time* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *transitory* + <br>ᴠᴇʀʙ *to occupy* |
 
@@ -248,7 +248,7 @@
 ***TODO level up selo***
 
 | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ awen | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ sijelo | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ nanpa |
-|:-|:-|
+|:-|:-|:-|
 | <img src="musi/pona/awen.png" height="150"> | <img src="musi/pona/sijelo.png" height="150"> | <img src="musi/pona/nanpa.png" height="150"> |
 | ɴᴏᴜɴ *duration* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *present* + <br>ᴠᴇʀʙ *to continue* | ɴᴏᴜɴ *physical state* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *...* + <br>ᴠᴇʀʙ *...* | *someone's turn* + <br>ᴠᴇʀʙ *to count* |
 
