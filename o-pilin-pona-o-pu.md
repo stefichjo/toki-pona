@@ -48,11 +48,6 @@
 | <img src="musi/pona/lukin.png" height="150"> | <img src="musi/pona/pilin.png" height="150"> |
 | ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to see* + <br>ᴠᴇʀʙ *to care for* | ɴᴏᴜɴ *heart* → <br>ᴠᴇʀʙ *to sense* + <br>ᴠᴇʀʙ *to have the impression that* |
 
-| ᴛᴏᴏʟ poki |
-|:-|
-| <img src="musi/pona/poki.png" height="150"> |
-| ɴᴏᴜɴ *bladder* → <br>ᴠᴇʀʙ *to contain* |
-
 ## Materials
 
 | ᴛʜɪɴɢ linja | ᴛʜɪɴɢ palisa |
@@ -93,6 +88,18 @@
 |:-|:-|
 | <img src="musi/pona/jo.png" height="150"> | <img src="musi/pona/pana.png" height="150"> |
 | *to have* → <br>ɴᴏᴜɴ *property* | *to give* → <br>ɴᴏᴜɴ *gift* |
+
+## World
+
+| ᴛʜɪɴɢ ma | ᴛʜɪɴɢ mun |
+|:-|:-|
+| <img src="musi/pona/ma.png" height="150"> | <img src="musi/pona/mun.png" height="150"> |
+| ɴᴏᴜɴ *earth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fixed* | ɴᴏᴜɴ *moon* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *orbiting* |
+
+| ᴛᴏᴏʟ len | ᴛᴏᴏʟ poki | ᴛᴏᴏʟ tomo |
+|:-|:-|:-|
+| <img src="musi/pona/len.png" height="150"> | <img src="musi/pona/poki.png" height="150"> | <img src="musi/pona/tomo.png" height="150"> |
+| ɴᴏᴜɴ *cloth* → <br>ᴠᴇʀʙ *to hide* | ɴᴏᴜɴ *container* → <br>ᴠᴇʀʙ *to contain* | ɴᴏᴜɴ *house* → <br>ᴠᴇʀʙ *to protect* |
 
 ## Elements
 
@@ -315,16 +322,6 @@
 ---
 
 ## TODO
-
-| ᴛʜɪɴɢ ma | ᴛʜɪɴɢ mun |
-|:-|:-|
-| <img src="musi/pona/ma.png" height="150"> | <img src="musi/pona/mun.png" height="150"> |
-| ɴᴏᴜɴ *earth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fixed* | ɴᴏᴜɴ *moon* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *orbiting* |
-
-| ᴛᴏᴏʟ len | ᴛᴏᴏʟ tomo |
-|:-|:-|
-| <img src="musi/pona/len.png" height="150"> | <img src="musi/pona/tomo.png" height="150"> |
-| ɴᴏᴜɴ *cloth* → <br>ᴠᴇʀʙ *to hide* | ɴᴏᴜɴ *house* → <br>ᴠᴇʀʙ *to protect* |
 
 | ᴍᴏᴅɪꜰɪᴇʀ + ᴀᴜxɪʟɪᴀʀʏ ken | ᴍᴏᴅɪꜰɪᴇʀ + ᴀᴜxɪʟɪᴀʀʏ wile |
 |:-|:-|
