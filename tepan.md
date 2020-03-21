@@ -190,10 +190,11 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 | ᴠᴇʀʙ | ᴠᴇʀʙ | ɴᴏᴜɴ |
 |:-|:-|:-|
 | **alasa** | - | *prey* |
-| **jo** | …: *to fetch*, *pick* | - |
+| **jo** | …: *to fetch*, *pick* | *property* |
 | **musi** | *to play with* | *game* |
 | **nimi** | *to define* | - |
 | **olin** | …: *love*: *of love* | - |
+| **pana** | - | *gift* |
 | **sitelen** | *to draw*, *indicate*, *project*, *represent*, *sculpture* | *projection*, *sculpture* |
 | **toki** | - | *message*, *news* |
 | **unpa** | *to have sex with* | *sexual partner* |
