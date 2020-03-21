@@ -47,13 +47,15 @@
 | <img src="musi/pona/lukin.png" height="150"> | <img src="musi/pona/pilin.png" height="150"> |
 | ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to see* + <br>ᴠᴇʀʙ *to care for* | ɴᴏᴜɴ *heart* → <br>ᴠᴇʀʙ *to sense* + <br>ᴠᴇʀʙ *to have the impression that* |
 
-## ...
+## Information
+
+| ᴠᴇʀʙ nimi | ᴠᴇʀʙ sitelen | ᴠᴇʀʙ toki |
+|:-|:-|:-|
+| <img src="musi/pona/nimi.png" height="150"> | <img src="musi/pona/sitelen.png" height="150"> | <img src="musi/pona/toki.png" height="150"> |
+| *to define* → <br>ɴᴏᴜɴ *word* | *to draw* → <br>ɴᴏᴜɴ *image* | *to communicate* → <br>ɴᴏᴜɴ *speech* |
 
 * ***TODO***
-* sitelen
 * kalama
-* toki
-* nimi
 * sona
 
 
