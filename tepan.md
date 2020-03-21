@@ -52,7 +52,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 |:-|:-|:-|
 | **anpa** | *abyss* | *deep* |
 | **insa** | *core*, *heart* | *internal* |
-| **jaki** | *dirt*, *poison*, *waste*; *shame*: *to condemn* | - |
+| **jaki** | *dirt*, *poison*, *waste*; *shame*: *to condemn* | *bitter* |
 | **kili** | - | *hanging* |
 | **kiwen** | - | *hard*, *sharp* |
 | **ko** | - | *semi-solid* |

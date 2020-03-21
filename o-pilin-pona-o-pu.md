@@ -112,33 +112,6 @@
 | <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/nena.png" height="150"> |
 | *flat object* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* |
 
-## TODO
-
-| ᴛʜɪɴɢ lete | ᴛʜɪɴɢ seli |
-|:-|:-|
-| <img src="musi/pona/lete.png" height="150"> | <img src="musi/pona/seli.png" height="150"> |
-| ɴᴏᴜɴ *frost* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold* | ɴᴏᴜɴ *heat source* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* |
-
-| ᴛʜɪɴɢ ma | ᴛʜɪɴɢ mun |
-|:-|:-|
-| <img src="musi/pona/ma.png" height="150"> | <img src="musi/pona/mun.png" height="150"> |
-| ɴᴏᴜɴ *earth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fixed* | ɴᴏᴜɴ *moon* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *orbiting* |
-
-| ᴛᴏᴏʟ len | ᴛᴏᴏʟ tomo |
-|:-|:-|
-| <img src="musi/pona/len.png" height="150"> | <img src="musi/pona/tomo.png" height="150"> |
-| ɴᴏᴜɴ *cloth* → <br>ᴠᴇʀʙ *to hide* | ɴᴏᴜɴ *house* → <br>ᴠᴇʀʙ *to protect* |
-
-| ᴍᴏᴅɪꜰɪᴇʀ + ᴀᴜxɪʟɪᴀʀʏ ken | ᴍᴏᴅɪꜰɪᴇʀ + ᴀᴜxɪʟɪᴀʀʏ wile |
-|:-|:-|
-| <img src="musi/pona/ken.png" height="150"> | <img src="musi/pona/wile.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *possible* → <br>ᴠᴇʀʙ *...* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *necessary* → <br>ᴠᴇʀʙ *to want* |
-
-| ᴍᴏᴅɪꜰɪᴇʀ lape | ᴍᴏᴅɪꜰɪᴇʀ moli |
-|:-|:-|
-| <img src="musi/pona/lape.png" height="150"> | <img src="musi/pona/moli.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *resting* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dead* |
-
 ## Appearances
 
 | ᴛʜɪɴɢ lili | | ᴛʜɪɴɢ suli | | ᴛʜɪɴɢ ilo | ᴛʜɪɴɢ mani | ᴛʜɪɴɢ wawa |
@@ -207,6 +180,7 @@
 | <img src="musi/pona/lukin.png" height="150"> | <img src="musi/pona/pilin.png" height="150"> |
 | ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to see* + <br>ᴠᴇʀʙ *to care for* | ɴᴏᴜɴ *heart* → <br>ᴠᴇʀʙ *to sense* + <br>ᴠᴇʀʙ *to have the impression that* |
 
+* ***TODO***
 * sitelen
 * kalama
 * toki
@@ -217,18 +191,18 @@
 | ᴛʜɪɴɢ jaki | ᴛʜɪɴɢ suwi |
 |:-|:-|
 | <img src="musi/pona/jaki.png" height="150"> | <img src="musi/pona/suwi.png" height="150"> |
-| ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *toxic* | ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* |
-
-***TODO bitter***
+| ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter* | ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* |
 
 | ᴠᴇʀʙ jo | ᴠᴇʀʙ pana |
 |:-|:-|
 | <img src="musi/pona/jo.png" height="150"> | <img src="musi/pona/pana.png" height="150"> |
 | *to have* | *to give* |
 
+* ***TODO***
 * pali
 * alasa
 
+* ***TODO***
 * olin
 * unpa
 * musi
@@ -259,6 +233,8 @@
 
 ***TODO dictionary sijelo, state, mode, configuration level up AREA + AUXILIARY***
 
+***TODO ~~sijelo~~***
+
 ### TODO
 
 | ᴛᴏᴏʟ poki |
@@ -270,5 +246,32 @@
 |:-|
 | <img src="musi/pona/lupa.png" height="150"> |
 | ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* |
+
+## TODO
+
+| ᴛʜɪɴɢ lete | ᴛʜɪɴɢ seli |
+|:-|:-|
+| <img src="musi/pona/lete.png" height="150"> | <img src="musi/pona/seli.png" height="150"> |
+| ɴᴏᴜɴ *frost* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold* | ɴᴏᴜɴ *heat source* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* |
+
+| ᴛʜɪɴɢ ma | ᴛʜɪɴɢ mun |
+|:-|:-|
+| <img src="musi/pona/ma.png" height="150"> | <img src="musi/pona/mun.png" height="150"> |
+| ɴᴏᴜɴ *earth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fixed* | ɴᴏᴜɴ *moon* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *orbiting* |
+
+| ᴛᴏᴏʟ len | ᴛᴏᴏʟ tomo |
+|:-|:-|
+| <img src="musi/pona/len.png" height="150"> | <img src="musi/pona/tomo.png" height="150"> |
+| ɴᴏᴜɴ *cloth* → <br>ᴠᴇʀʙ *to hide* | ɴᴏᴜɴ *house* → <br>ᴠᴇʀʙ *to protect* |
+
+| ᴍᴏᴅɪꜰɪᴇʀ + ᴀᴜxɪʟɪᴀʀʏ ken | ᴍᴏᴅɪꜰɪᴇʀ + ᴀᴜxɪʟɪᴀʀʏ wile |
+|:-|:-|
+| <img src="musi/pona/ken.png" height="150"> | <img src="musi/pona/wile.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *possible* → <br>ᴠᴇʀʙ *...* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *necessary* → <br>ᴠᴇʀʙ *to want* |
+
+| ᴍᴏᴅɪꜰɪᴇʀ lape | ᴍᴏᴅɪꜰɪᴇʀ moli |
+|:-|:-|
+| <img src="musi/pona/lape.png" height="150"> | <img src="musi/pona/moli.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *resting* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dead* |
 
 
