@@ -191,6 +191,7 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 |:-|:-|:-|
 | **alasa** | - | *prey* |
 | **jo** | …: *to fetch*, *pick* | - |
+| **musi** | *to play with* | *game* |
 | **nimi** | *to define* | - |
 | **olin** | …: *love*: *of love* | - |
 | **sitelen** | *to draw*, *indicate*, *project*, *represent*, *sculpture* | *projection*, *sculpture* |
