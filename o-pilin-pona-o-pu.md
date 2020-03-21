@@ -219,8 +219,6 @@
 | <img src="musi/pona/awen.png" height="150"> | <img src="musi/pona/sijelo.png" height="150"> | <img src="musi/pona/nanpa.png" height="150"> |
 | ɴᴏᴜɴ *duration* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *present* + <br>ᴠᴇʀʙ *to continue* | ɴᴏᴜɴ *state* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *physical* + <br>ᴠᴇʀʙ *to establish* | *one's turn* + <br>ᴠᴇʀʙ *to count* |
 
-***TODO ~~sijelo~~***
-
 ### TODO
 
 | ᴛᴏᴏʟ poki |
@@ -232,8 +230,6 @@
 |:-|
 | <img src="musi/pona/lupa.png" height="150"> |
 | ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* |
-
-## TODO
 
 | ᴛʜɪɴɢ lete | ᴛʜɪɴɢ seli |
 |:-|:-|
