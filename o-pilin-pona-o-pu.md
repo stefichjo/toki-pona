@@ -269,27 +269,37 @@
 
 ### Appearances 1/2
 
-| ᴛʜɪɴɢ lili | | ᴛʜɪɴɢ suli | | ᴛʜɪɴɢ ilo | ᴛʜɪɴɢ mani | ᴛʜɪɴɢ wawa |
-|:-|:-|:-|:-|:-|:-|:-|
-| <img src="musi/pona/lili.png" height="150"> | | <img src="musi/pona/suli.png" height="150"> | | <img src="musi/pona/ilo.png" height="150"> | <img src="musi/pona/mani.png" height="150"> | <img src="musi/pona/wawa.png" height="150"> |
-| ɴᴏᴜɴ *piece* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *small* | | ɴᴏᴜɴ *cargo* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *big* | | ɴᴏᴜɴ *tool* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *useful* | ɴᴏᴜɴ *wealth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *valueable* | ɴᴏᴜɴ *force* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strong* |
-
 | ᴛʜɪɴɢ lete | ᴛʜɪɴɢ seli |
 |:-|:-|
 | <img src="musi/pona/lete.png" height="150"> | <img src="musi/pona/seli.png" height="150"> |
 | ɴᴏᴜɴ *frost* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold* | ɴᴏᴜɴ *heat source* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* |
 
+| ᴛʜɪɴɢ lili | ᴛʜɪɴɢ suli |
+|:-|:-|
+| <img src="musi/pona/lili.png" height="150"> | <img src="musi/pona/suli.png" height="150"> |
+| ɴᴏᴜɴ *piece* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *small* | ɴᴏᴜɴ *cargo* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *big* |
+
+| ᴛʜɪɴɢ ilo | ᴛʜɪɴɢ mani | ᴛʜɪɴɢ wawa |
+|:-|:-|:-|
+| <img src="musi/pona/ilo.png" height="150"> | <img src="musi/pona/mani.png" height="150"> | <img src="musi/pona/wawa.png" height="150"> |
+| ɴᴏᴜɴ *tool* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *useful* | ɴᴏᴜɴ *wealth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *valueable* | ɴᴏᴜɴ *force* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strong* |
+
 ### Appearances 2/2
 
-| ᴍᴏᴅɪꜰɪᴇʀ pona | | ᴍᴏᴅɪꜰɪᴇʀ ike | | ᴍᴏᴅɪꜰɪᴇʀ pakala | ᴍᴏᴅɪꜰɪᴇʀ utala | ᴍᴏᴅɪꜰɪᴇʀ nasa |
-|:-|:-|:-|:-|:-|:-|:-|
-| <img src="musi/pona/pona.png" height="150"> | | <img src="musi/pona/ike.png" height="150"> | | <img src="musi/pona/pakala.png" height="150"> | <img src="musi/pona/utala.png" height="150"> | <img src="musi/pona/nasa.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* | | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bad* | | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *messed up* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *aggressive* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strange* |
-
-| ᴛʜɪɴɢ jaki | ᴛʜɪɴɢ suwi |
+| ᴛʜɪɴɢ suwi | ᴛʜɪɴɢ jaki |
 |:-|:-|
-| <img src="musi/pona/jaki.png" height="150"> | <img src="musi/pona/suwi.png" height="150"> |
-| ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter* | ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* |
+| <img src="musi/pona/suwi.png" height="150"> | <img src="musi/pona/jaki.png" height="150"> |
+| ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* | ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter* |
+
+| ᴍᴏᴅɪꜰɪᴇʀ pona | ᴍᴏᴅɪꜰɪᴇʀ ike |
+|:-|:-|
+| <img src="musi/pona/pona.png" height="150"> | <img src="musi/pona/ike.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bad* |
+
+| ᴍᴏᴅɪꜰɪᴇʀ pakala | ᴍᴏᴅɪꜰɪᴇʀ utala | ᴍᴏᴅɪꜰɪᴇʀ nasa |
+|:-|:-|:-|
+| <img src="musi/pona/pakala.png" height="150"> | <img src="musi/pona/utala.png" height="150"> | <img src="musi/pona/nasa.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *messed up* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *aggressive* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strange* |
 
 
 ---
