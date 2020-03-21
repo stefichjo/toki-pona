@@ -1,20 +1,11 @@
 # o pilin pona o pu!
 
-## Prepositions 1/2
-
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ ante | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sama | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ lon | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tan | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
-|:-|:-|:-|:-|:-|:-|:-|
-| <img src="musi/pona/ante.png" height="150"> | <img src="musi/pona/sama.png" height="150"> | | <img src="musi/pona/lon.png" height="150"> | | <img src="musi/pona/tan.png" height="150"> | <img src="musi/pona/tawa.png" height="150"> |
-| *than* | *like* | | *at* | | *from* | *to* |
-
-### Particles 1/4
-
-| ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ li | ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ o |
-|:-|:-|
-| <img src="musi/pona/li.png" height="150"> | <img src="musi/pona/o.png" height="150"> |
-| ᴘᴀʀᴛɪᴄʟᴇ *(indicative)* | ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* |
-
 ## Spatial Relations 
+
+| |
+|:-|
+| [Prepositions 1/2](#prepositions-1-2) |
+| [Particles 1/4](#particles-1-4) |
 
 | ᴀʀᴇᴀ + ᴛʜɪɴɢ sewi | ᴀʀᴇᴀ + ᴛʜɪɴɢ supa | ᴀʀᴇᴀ + ᴛʜɪɴɢ anpa |
 |:-|:-|:-|
@@ -245,12 +236,30 @@
 | <img src="musi/pona/lape.png" height="150"> | <img src="musi/pona/moli.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *resting* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dead* |
 
-## Prepositions 2/2
+## Prepositions
+
+### Prepositions 1/2
+
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ ante | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sama | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ lon | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tan | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
+|:-|:-|:-|:-|:-|:-|:-|
+| <img src="musi/pona/ante.png" height="150"> | <img src="musi/pona/sama.png" height="150"> | | <img src="musi/pona/lon.png" height="150"> | | <img src="musi/pona/tan.png" height="150"> | <img src="musi/pona/tawa.png" height="150"> |
+| *than* | *like* | | *at* | | *from* | *to* |
+
+### Prepositions 2/2
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ esun | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ pu | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ kepeken | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ taso | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sin |
 |:-|:-|:-|:-|:-|:-|:-|
 | <img src="musi/pona/esun.png" height="150"> | <img src="musi/pona/pu.png" height="150"> | | <img src="musi/pona/kepeken.png" height="150"> | | <img src="musi/pona/taso.png" height="150"> | <img src="musi/pona/sin.png" height="150"> |
 | *in exchange for* | *according to* | | *by means of* | | *without* | *with* |	
+
+## Particles
+
+### Particles 1/4
+
+| ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ li | ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ o |
+|:-|:-|
+| <img src="musi/pona/li.png" height="150"> | <img src="musi/pona/o.png" height="150"> |
+| ᴘᴀʀᴛɪᴄʟᴇ *(indicative)* | ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* |
 
 ### Particles 2/4
 
