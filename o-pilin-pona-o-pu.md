@@ -175,13 +175,28 @@
 | <img src="musi/pona/lukin.png" height="150"> | <img src="musi/pona/pilin.png" height="150"> |
 | ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to see* + <br>ᴠᴇʀʙ *to care for* | ɴᴏᴜɴ *heart* → <br>ᴠᴇʀʙ *to sense* + <br>ᴠᴇʀʙ *to have the impression that* |
 
+| ᴠᴇʀʙ alasa | ᴠᴇʀʙ moku |
+|:-|:-|
+| <img src="musi/pona/alasa.png" height="150"> | <img src="musi/pona/moku.png" height="150"> |
+| *to hunt* → <br>ɴᴏᴜɴ *prey* | *to swallow* → <br>ɴᴏᴜɴ *food* |
+
+***TODO*** alasa TOOL bait
+
+* ***TODO***
+* pali
+* alasa
+
+* ***TODO***
+* olin
+* unpa
+* musi
+
 * ***TODO***
 * sitelen
 * kalama
 * toki
 * nimi
 * sona
-* moku
 
 | ᴛʜɪɴɢ jaki | ᴛʜɪɴɢ suwi |
 |:-|:-|
@@ -192,15 +207,6 @@
 |:-|:-|
 | <img src="musi/pona/jo.png" height="150"> | <img src="musi/pona/pana.png" height="150"> |
 | *to have* | *to give* |
-
-* ***TODO***
-* pali
-* alasa
-
-* ***TODO***
-* olin
-* unpa
-* musi
 
 ### Time
 

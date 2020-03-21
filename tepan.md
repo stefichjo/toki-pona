@@ -189,6 +189,7 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 
 | ᴠᴇʀʙ | ᴠᴇʀʙ | ɴᴏᴜɴ |
 |:-|:-|:-|
+| **alasa** | - | *prey* |
 | **jo** | …: *to fetch*, *pick* | - |
 | **nimi** | *to define* | - |
 | **olin** | …: *love*: *of love* | - |
