@@ -207,14 +207,13 @@
 | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ kama | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ open | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ nasin |
 |:-|:-|:-|
 | <img src="musi/pona/kama.png" height="150"> | <img src="musi/pona/open.png" height="150"> | <img src="musi/pona/nasin.png" height="150"> |
-| ɴᴏᴜɴ *start* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *future* + <br>ᴠᴇʀʙ *to achieve* | ɴᴏᴜɴ *entrance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *accessible* + <br>ᴠᴇʀʙ *to turn on* | ɴᴏᴜɴ *direction* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *directed* + <br>ᴠᴇʀʙ *to destine* ***TODO*** |
+| ɴᴏᴜɴ *start* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *future* + <br>ᴠᴇʀʙ *to achieve* | ɴᴏᴜɴ *entrance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *accessible* + <br>ᴠᴇʀʙ *to turn on* | ɴᴏᴜɴ *direction* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *directed* + <br>ᴠᴇʀʙ *to destine* |
 
 | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ pini | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ selo | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ tenpo |
 |:-|:-|:-|
 | <img src="musi/pona/pini.png" height="150"> | <img src="musi/pona/selo.png" height="150"> | <img src="musi/pona/tenpo.png" height="150"> |
 | ɴᴏᴜɴ *end* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *past* + <br>ᴠᴇʀʙ *to cancel* | ɴᴏᴜɴ *closure* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *closed* + <br>ᴠᴇʀʙ *to conclude* | ɴᴏᴜɴ *time* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *transitory* + <br>ᴠᴇʀʙ *to occupy* |
 
-***TODO dictionary cancel***
 ***TODO dictionary pini <-> selo: closure***
 ***TODO level up selo***
 

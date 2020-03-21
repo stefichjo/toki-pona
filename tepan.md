@@ -205,7 +205,7 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 | **nasin** | *to be destined to* | *to destine* |
 | **open** | *to be ready to* | *to set up*: *start* |
 | **pilin** | *to feel like* | *to have the impression that* |
-| **pini** | *to stop -ing* | - |
+| **pini** | *to stop -ing* | *to cancel* |
 | **sona** | - | …: *knowledge* |
 | **tenpo** | *to be busy with* | *to occupy* |
 | **wile** | *to be bound to*, *can't help but* | *to need*, *require*, *want*, *wish*; *to conclude*; *to decide* |
