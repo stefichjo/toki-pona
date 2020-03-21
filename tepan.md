@@ -104,6 +104,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **luka** | *range* | *reachable*: *to reach* |
 | **monsi** | - | *rear* |
 | **nanpa** | *someone's turn* | *to be someone's turn* |
+| **nasin** | *dimension*, *direction* | *directed* |
 | **noka** | …: *below*, *under*; *depending on* | *low*, *lower* |
 | **open** | *entrance* | *accessible* |
 | **pini** | *end*: *after*, *in the end* | *previous*, *last*; *disappearing*; *closed*, *sealed* |
@@ -201,7 +202,7 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 | **kama** | - | *achieve*; *let* |
 | **lukin** | - | *to search for* | *to care for* |
 | **nanpa** | *to be someone's turn to* | *to iterate*; *count*; *calculate* |
-| **open** | *to be ready to* | *to set up* |
+| **open** | *to be ready to* | *to set up*: *start* |
 | **pilin** | *to feel like* | *to have the impression that* |
 | **pini** | *to stop -ing* | - |
 | **sona** | - | …: *knowledge* |

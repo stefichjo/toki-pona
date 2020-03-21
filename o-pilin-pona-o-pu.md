@@ -214,9 +214,6 @@
 | <img src="musi/pona/kama.png" height="150"> | <img src="musi/pona/open.png" height="150"> | <img src="musi/pona/nasin.png" height="150"> |
 | ɴᴏᴜɴ *start* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *future* + <br>ᴠᴇʀʙ *to achieve* | ɴᴏᴜɴ *entrance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *accessible* + <br>ᴠᴇʀʙ *to turn on* | ɴᴏᴜɴ *direction* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *directed* + <br>ᴠᴇʀʙ *...* |
 
-***TODO dictionary start***
-***TODO dictionary nasin AREA + AUXILIARY***
-
 | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ pini | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ selo | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ tenpo |
 |:-|:-|:-|
 | <img src="musi/pona/pini.png" height="150"> | <img src="musi/pona/selo.png" height="150"> | <img src="musi/pona/tenpo.png" height="150"> |
