@@ -75,6 +75,18 @@
 | <img src="musi/pona/mama.png" height="150"> | <img src="musi/pona/meli.png" height="150"> | <img src="musi/pona/mije.png" height="150"> |
 | ɴᴏᴜɴ *parent* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of origin* | ɴᴏᴜɴ *female person* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* | ɴᴏᴜɴ *male person* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* |
 
+### Measurements
+
+| ɴᴜᴍʙᴇʀ wan | ɴᴜᴍʙᴇʀ tu | ɴᴜᴍʙᴇʀ mute |
+|:-|:-|:-|
+| <img src="musi/pona/wan.png" height="150"> | <img src="musi/pona/tu.png" height="150"> | <img src="musi/pona/mute.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *one* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *three* |
+
+| ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ni | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ seme | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ale |
+|:-|:-|:-|
+| <img src="musi/pona/ni.png" height="150"> | <img src="musi/pona/seme.png" height="150"> | <img src="musi/pona/ale.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *that*, *this* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *what*, *which* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *all*, *every* |
+
 ### Light
 
 | ᴛʜɪɴɢ suno |
@@ -91,18 +103,6 @@
 |:-|:-|:-|
 | <img src="musi/pona/jelo.png" height="150"> | <img src="musi/pona/laso.png" height="150"> | <img src="musi/pona/loje.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *yellow* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blue*, *green* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *red* |
-
-### Measurements
-
-| ɴᴜᴍʙᴇʀ wan | ɴᴜᴍʙᴇʀ tu | ɴᴜᴍʙᴇʀ mute |
-|:-|:-|:-|
-| <img src="musi/pona/wan.png" height="150"> | <img src="musi/pona/tu.png" height="150"> | <img src="musi/pona/mute.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *one* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *three* |
-
-| ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ni | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ seme | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ale |
-|:-|:-|:-|
-| <img src="musi/pona/ni.png" height="150"> | <img src="musi/pona/seme.png" height="150"> | <img src="musi/pona/ale.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *that*, *this* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *what*, *which* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *all*, *every* |
 
 ### Materials
 
