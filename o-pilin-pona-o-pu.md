@@ -7,6 +7,7 @@
 | [Spatial Relations](#spatial-relations) |
 | [Time](#time) |
 | [Measurements](#measurements) |
+| [Appearances](#appearances) |
 
 ## People and Things
 
@@ -47,6 +48,18 @@
 | <img src="musi/pona/lukin.png" height="150"> | <img src="musi/pona/pilin.png" height="150"> |
 | ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to see* + <br>ᴠᴇʀʙ *to care for* | ɴᴏᴜɴ *heart* → <br>ᴠᴇʀʙ *to sense* + <br>ᴠᴇʀʙ *to have the impression that* |
 
+## Materials
+
+| ᴛʜɪɴɢ linja | ᴛʜɪɴɢ palisa |
+|:-|:-|
+| <img src="musi/pona/linja.png" height="150"> | <img src="musi/pona/palisa.png" height="150"> |
+| *long flexible thing* | *long hard thing* |
+
+| ᴛʜɪɴɢ lipu | ᴛʜɪɴɢ nena |
+|:-|:-|
+| <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/nena.png" height="150"> |
+| *flat object* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* |
+
 ## Information
 
 | ᴠᴇʀʙ nimi | ᴠᴇʀʙ sitelen | ᴠᴇʀʙ toki |
@@ -64,12 +77,46 @@
 | <img src="musi/pona/kalama.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *producing a sound* |
 
-## Property
+## Possessions
 
 | ᴠᴇʀʙ jo | ᴠᴇʀʙ pana |
 |:-|:-|
 | <img src="musi/pona/jo.png" height="150"> | <img src="musi/pona/pana.png" height="150"> |
 | *to have* → <br>ɴᴏᴜɴ *property* | *to give* → <br>ɴᴏᴜɴ *gift* |
+
+## Elements
+
+| ᴛʜɪɴɢ kiwen | ᴛʜɪɴɢ ko |
+|:-|:-|
+| <img src="musi/pona/kiwen.png" height="150"> | <img src="musi/pona/ko.png" height="150"> |
+| *hard object* | *semi-solid* |
+
+| ᴛʜɪɴɢ kon | ᴛʜɪɴɢ telo |
+|:-|:-|
+| <img src="musi/pona/kon.png" height="150"> | <img src="musi/pona/telo.png" height="150"> |
+| ɴᴏᴜɴ *air* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *floating* | *wet substance* |
+
+## Life-Forms
+
+| ʟɪꜰᴇ-ꜰᴏʀᴍ akesi | ʟɪꜰᴇ-ꜰᴏʀᴍ soweli |
+|:-|:-|
+| <img src="musi/pona/akesi.png" height="150"> | <img src="musi/pona/soweli.png" height="150"> |
+| ɴᴏᴜɴ *amphibian*, *reptile* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded* | ɴᴏᴜɴ *land mammal* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *warm-blooded* |
+
+| ʟɪꜰᴇ-ꜰᴏʀᴍ pipi | ʟɪꜰᴇ-ꜰᴏʀᴍ waso |
+|:-|:-|
+| <img src="musi/pona/pipi.png" height="150"> | <img src="musi/pona/waso.png" height="150"> |
+| ɴᴏᴜɴ *insect* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *crawling* | ɴᴏᴜɴ *bird* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flying* |
+
+| ʟɪꜰᴇ-ꜰᴏʀᴍ kala | ʟɪꜰᴇ-ꜰᴏʀᴍ kasi |
+|:-|:-|
+| <img src="musi/pona/kala.png" height="150"> | <img src="musi/pona/kasi.png" height="150"> |
+| ɴᴏᴜɴ *fish* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *swimming* | ɴᴏᴜɴ *vegetation* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vegetating* |
+
+| ᴛʜɪɴɢ kili | ᴛʜɪɴɢ pan |
+|:-|:-|
+| <img src="musi/pona/kili.png" height="150"> | <img src="musi/pona/pan.png" height="150"> |
+| ɴᴏᴜɴ *fruit* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hanging* | ɴᴏᴜɴ *seed* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fallen* |
 
 ## Activities
 
@@ -105,61 +152,6 @@
 | <img src="musi/pona/jelo.png" height="150"> | <img src="musi/pona/laso.png" height="150"> | <img src="musi/pona/loje.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *yellow* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blue*, *green* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *red* |
 
-## Materials
-
-| ᴛʜɪɴɢ kiwen | ᴛʜɪɴɢ ko |
-|:-|:-|
-| <img src="musi/pona/kiwen.png" height="150"> | <img src="musi/pona/ko.png" height="150"> |
-| *hard object* | *semi-solid* |
-
-| ᴛʜɪɴɢ kon | ᴛʜɪɴɢ telo |
-|:-|:-|
-| <img src="musi/pona/kon.png" height="150"> | <img src="musi/pona/telo.png" height="150"> |
-| ɴᴏᴜɴ *air* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *floating* | *wet substance* |
-
-| ᴛʜɪɴɢ linja | ᴛʜɪɴɢ palisa |
-|:-|:-|
-| <img src="musi/pona/linja.png" height="150"> | <img src="musi/pona/palisa.png" height="150"> |
-| *long flexible thing* | *long hard thing* |
-
-| ᴛʜɪɴɢ lipu | ᴛʜɪɴɢ nena |
-|:-|:-|
-| <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/nena.png" height="150"> |
-| *flat object* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* |
-
-## Appearances
-
-| ᴛʜɪɴɢ lili | | ᴛʜɪɴɢ suli | | ᴛʜɪɴɢ ilo | ᴛʜɪɴɢ mani | ᴛʜɪɴɢ wawa |
-|:-|:-|:-|:-|:-|:-|:-|
-| <img src="musi/pona/lili.png" height="150"> | | <img src="musi/pona/suli.png" height="150"> | | <img src="musi/pona/ilo.png" height="150"> | <img src="musi/pona/mani.png" height="150"> | <img src="musi/pona/wawa.png" height="150"> |
-| ɴᴏᴜɴ *piece* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *small* | | ɴᴏᴜɴ *cargo* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *big* | | ɴᴏᴜɴ *tool* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *useful* | ɴᴏᴜɴ *wealth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *valueable* | ɴᴏᴜɴ *force* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strong* |
-
-| ᴍᴏᴅɪꜰɪᴇʀ pona | | ᴍᴏᴅɪꜰɪᴇʀ ike | | ᴍᴏᴅɪꜰɪᴇʀ pakala | ᴍᴏᴅɪꜰɪᴇʀ utala | ᴍᴏᴅɪꜰɪᴇʀ nasa |
-|:-|:-|:-|:-|:-|:-|:-|
-| <img src="musi/pona/pona.png" height="150"> | | <img src="musi/pona/ike.png" height="150"> | | <img src="musi/pona/pakala.png" height="150"> | <img src="musi/pona/utala.png" height="150"> | <img src="musi/pona/nasa.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* | | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bad* | | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *messed up* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *aggressive* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strange* |
-
-## Life-Forms
-
-| ʟɪꜰᴇ-ꜰᴏʀᴍ akesi | ʟɪꜰᴇ-ꜰᴏʀᴍ soweli |
-|:-|:-|
-| <img src="musi/pona/akesi.png" height="150"> | <img src="musi/pona/soweli.png" height="150"> |
-| ɴᴏᴜɴ *amphibian*, *reptile* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded* | ɴᴏᴜɴ *land mammal* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *warm-blooded* |
-
-| ʟɪꜰᴇ-ꜰᴏʀᴍ pipi | ʟɪꜰᴇ-ꜰᴏʀᴍ waso |
-|:-|:-|
-| <img src="musi/pona/pipi.png" height="150"> | <img src="musi/pona/waso.png" height="150"> |
-| ɴᴏᴜɴ *insect* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *crawling* | ɴᴏᴜɴ *bird* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flying* |
-
-| ʟɪꜰᴇ-ꜰᴏʀᴍ kala | ʟɪꜰᴇ-ꜰᴏʀᴍ kasi |
-|:-|:-|
-| <img src="musi/pona/kala.png" height="150"> | <img src="musi/pona/kasi.png" height="150"> |
-| ɴᴏᴜɴ *fish* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *swimming* | ɴᴏᴜɴ *vegetation* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vegetating* |
-
-| ᴛʜɪɴɢ kili | ᴛʜɪɴɢ pan |
-|:-|:-|
-| <img src="musi/pona/kili.png" height="150"> | <img src="musi/pona/pan.png" height="150"> |
-| ɴᴏᴜɴ *fruit* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hanging* | ɴᴏᴜɴ *seed* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fallen* |
 
 ---
 
@@ -273,6 +265,33 @@
 | <img src="musi/pona/ni.png" height="150"> | <img src="musi/pona/seme.png" height="150"> | <img src="musi/pona/ale.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *that*, *this* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *what*, *which* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *all*, *every* |
 
+## Appearances
+
+### Appearances 1/2
+
+| ᴛʜɪɴɢ lili | | ᴛʜɪɴɢ suli | | ᴛʜɪɴɢ ilo | ᴛʜɪɴɢ mani | ᴛʜɪɴɢ wawa |
+|:-|:-|:-|:-|:-|:-|:-|
+| <img src="musi/pona/lili.png" height="150"> | | <img src="musi/pona/suli.png" height="150"> | | <img src="musi/pona/ilo.png" height="150"> | <img src="musi/pona/mani.png" height="150"> | <img src="musi/pona/wawa.png" height="150"> |
+| ɴᴏᴜɴ *piece* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *small* | | ɴᴏᴜɴ *cargo* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *big* | | ɴᴏᴜɴ *tool* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *useful* | ɴᴏᴜɴ *wealth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *valueable* | ɴᴏᴜɴ *force* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strong* |
+
+| ᴛʜɪɴɢ lete | ᴛʜɪɴɢ seli |
+|:-|:-|
+| <img src="musi/pona/lete.png" height="150"> | <img src="musi/pona/seli.png" height="150"> |
+| ɴᴏᴜɴ *frost* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold* | ɴᴏᴜɴ *heat source* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* |
+
+### Appearances 2/2
+
+| ᴍᴏᴅɪꜰɪᴇʀ pona | | ᴍᴏᴅɪꜰɪᴇʀ ike | | ᴍᴏᴅɪꜰɪᴇʀ pakala | ᴍᴏᴅɪꜰɪᴇʀ utala | ᴍᴏᴅɪꜰɪᴇʀ nasa |
+|:-|:-|:-|:-|:-|:-|:-|
+| <img src="musi/pona/pona.png" height="150"> | | <img src="musi/pona/ike.png" height="150"> | | <img src="musi/pona/pakala.png" height="150"> | <img src="musi/pona/utala.png" height="150"> | <img src="musi/pona/nasa.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* | | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bad* | | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *messed up* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *aggressive* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strange* |
+
+| ᴛʜɪɴɢ jaki | ᴛʜɪɴɢ suwi |
+|:-|:-|
+| <img src="musi/pona/jaki.png" height="150"> | <img src="musi/pona/suwi.png" height="150"> |
+| ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter* | ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* |
+
+
 ---
 
 ## TODO
@@ -286,16 +305,6 @@
 |:-|
 | <img src="musi/pona/lupa.png" height="150"> |
 | ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* |
-
-| ᴛʜɪɴɢ jaki | ᴛʜɪɴɢ suwi |
-|:-|:-|
-| <img src="musi/pona/jaki.png" height="150"> | <img src="musi/pona/suwi.png" height="150"> |
-| ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter* | ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* |
-
-| ᴛʜɪɴɢ lete | ᴛʜɪɴɢ seli |
-|:-|:-|
-| <img src="musi/pona/lete.png" height="150"> | <img src="musi/pona/seli.png" height="150"> |
-| ɴᴏᴜɴ *frost* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold* | ɴᴏᴜɴ *heat source* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* |
 
 | ᴛʜɪɴɢ ma | ᴛʜɪɴɢ mun |
 |:-|:-|
