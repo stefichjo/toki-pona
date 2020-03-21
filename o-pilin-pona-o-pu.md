@@ -1,8 +1,6 @@
 # o pilin pona o pu!
 
-## Particles and Prepositions
-
-### Particles
+## Particles
 
 | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ anu | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ en | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ la |
 |:-|:-|:-|
@@ -24,6 +22,8 @@
 | <img src="musi/pona/a.png" height="150"> | <img src="musi/pona/ala.png" height="150"> | <img src="musi/pona/mu.png" height="150"> |
 | ᴘᴀʀᴛɪᴄʟᴇ *(confirmation)* | ᴘᴀʀᴛɪᴄʟᴇ *(negation)* | ᴘᴀʀᴛɪᴄʟᴇ *(communication)* |
 
+## Content Words
+
 ### Prepositions
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ ante | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sama | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ lon | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tan | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
@@ -36,7 +36,22 @@
 | <img src="musi/pona/esun.png" height="150"> | <img src="musi/pona/pu.png" height="150"> | | <img src="musi/pona/kepeken.png" height="150"> | | <img src="musi/pona/taso.png" height="150"> | <img src="musi/pona/sin.png" height="150"> |
 | *in exchange for* | *according to* | | *by means of* | | *without* | *with* |	
 
-## Content Words
+### Spatial Relations 
+
+| ᴀʀᴇᴀ + ᴛʜɪɴɢ sewi | ᴀʀᴇᴀ + ᴛʜɪɴɢ supa | ᴀʀᴇᴀ + ᴛʜɪɴɢ anpa |
+|:-|:-|:-|
+| <img src="musi/pona/sewi.png" height="150"> | <img src="musi/pona/supa.png" height="150"> | <img src="musi/pona/anpa.png" height="150"> |
+| ɴᴏᴜɴ *area above* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *high* + <br>ɴᴏᴜɴ *God* → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *supernatural* | ɴᴏᴜɴ *horizontal surface* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *horizontal*  + <br>ɴᴏᴜɴ *thing to put* <br>*or rest something on* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sustaining*| ɴᴏᴜɴ *area below or under* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *low* →<br> ɴᴏᴜɴ *abyss* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *deep* |
+
+| ᴀʀᴇᴀ + ᴛʜɪɴɢ sinpin | ᴀʀᴇᴀ + ᴛʜɪɴɢ insa | ᴀʀᴇᴀ + ᴛʜɪɴɢ monsi |
+|:-|:-|:-|
+| <img src="musi/pona/sinpin.png" height="150"> | <img src="musi/pona/insa.png" height="150"> | <img src="musi/pona/monsi.png" height="150"> |
+| ɴᴏᴜɴ *area in front* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *foremost* + <br>ɴᴏᴜɴ *front* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blocking* | ɴᴏᴜɴ *content* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner* + <br>ɴᴏᴜɴ *centre* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *internal* | ɴᴏᴜɴ *area behind* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *rear* + <br>ɴᴏᴜɴ *back* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *endorsing* |
+
+| ᴀʀᴇᴀ + ᴛʜɪɴɢ poka | ᴀʀᴇᴀ + ᴛʜɪɴɢ sike | ᴀʀᴇᴀ + ᴛʜɪɴɢ weka |
+|:-|:-|:-|
+| <img src="musi/pona/poka.png" height="150"> | <img src="musi/pona/sike.png" height="150"> | <img src="musi/pona/weka.png" height="150"> |
+| ɴᴏᴜɴ *area beside* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *nearby* + <br>ɴᴏᴜɴ *side* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *laterial* | ɴᴏᴜɴ *area surrounding* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *surrounding* + <br> *round or circular thing*| ɴᴏᴜɴ *distance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *away* + <br>ɴᴏᴜɴ *void* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vast* |
 
 ### Light
 
@@ -144,23 +159,6 @@
 |:-|:-|
 | <img src="musi/pona/kili.png" height="150"> | <img src="musi/pona/pan.png" height="150"> |
 | ɴᴏᴜɴ *fruit* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hanging* | ɴᴏᴜɴ *seed* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fallen* |
-
-### Spatial Relations 
-
-| ᴀʀᴇᴀ + ᴛʜɪɴɢ sewi | ᴀʀᴇᴀ + ᴛʜɪɴɢ supa | ᴀʀᴇᴀ + ᴛʜɪɴɢ anpa |
-|:-|:-|:-|
-| <img src="musi/pona/sewi.png" height="150"> | <img src="musi/pona/supa.png" height="150"> | <img src="musi/pona/anpa.png" height="150"> |
-| ɴᴏᴜɴ *area above* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *high* + <br>ɴᴏᴜɴ *God* → ᴀᴅᴊᴇᴄᴛɪᴠᴇ *supernatural* | ɴᴏᴜɴ *horizontal surface* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *horizontal*  + <br>ɴᴏᴜɴ *thing to put* <br>*or rest something on* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sustaining*| ɴᴏᴜɴ *area below or under* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *low* →<br> ɴᴏᴜɴ *abyss* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *deep* |
-
-| ᴀʀᴇᴀ + ᴛʜɪɴɢ sinpin | ᴀʀᴇᴀ + ᴛʜɪɴɢ insa | ᴀʀᴇᴀ + ᴛʜɪɴɢ monsi |
-|:-|:-|:-|
-| <img src="musi/pona/sinpin.png" height="150"> | <img src="musi/pona/insa.png" height="150"> | <img src="musi/pona/monsi.png" height="150"> |
-| ɴᴏᴜɴ *area in front* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *foremost* + <br>ɴᴏᴜɴ *front* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blocking* | ɴᴏᴜɴ *content* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner* + <br>ɴᴏᴜɴ *centre* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *internal* | ɴᴏᴜɴ *area behind* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *rear* + <br>ɴᴏᴜɴ *back* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *endorsing* |
-
-| ᴀʀᴇᴀ + ᴛʜɪɴɢ poka | ᴀʀᴇᴀ + ᴛʜɪɴɢ sike | ᴀʀᴇᴀ + ᴛʜɪɴɢ weka |
-|:-|:-|:-|
-| <img src="musi/pona/poka.png" height="150"> | <img src="musi/pona/sike.png" height="150"> | <img src="musi/pona/weka.png" height="150"> |
-| ɴᴏᴜɴ *area beside* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *nearby* + <br>ɴᴏᴜɴ *side* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *laterial* | ɴᴏᴜɴ *area surrounding* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *surrounding* + <br> *round or circular thing*| ɴᴏᴜɴ *distance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *away* + <br>ɴᴏᴜɴ *void* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vast* |
 
 ### Body Parts
 
