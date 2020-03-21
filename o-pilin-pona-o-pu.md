@@ -65,6 +65,11 @@
 | <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/nena.png" height="150"> |
 | *flat object* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* |
 
+| ᴛʜɪɴɢ lupa |
+|:-|
+| <img src="musi/pona/lupa.png" height="150"> |
+| ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* |
+
 ## Information
 
 | ᴠᴇʀʙ nimi | ᴠᴇʀʙ sitelen | ᴠᴇʀʙ toki |
@@ -310,11 +315,6 @@
 ---
 
 ## TODO
-
-| ᴛʜɪɴɢ lupa |
-|:-|
-| <img src="musi/pona/lupa.png" height="150"> |
-| ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* |
 
 | ᴛʜɪɴɢ ma | ᴛʜɪɴɢ mun |
 |:-|:-|
