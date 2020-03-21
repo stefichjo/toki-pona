@@ -1,11 +1,6 @@
 # o pilin pona o pu!
 
-## Particles
-
-| ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ li | ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ o |
-|:-|:-|
-| <img src="musi/pona/li.png" height="150"> | <img src="musi/pona/o.png" height="150"> |
-| ᴘᴀʀᴛɪᴄʟᴇ *(indicative)* | ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* |
+### Particles 2/4
 
 | ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ e | ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ pi |
 |:-|:-|
@@ -22,9 +17,7 @@
 | <img src="musi/pona/anu.png" height="150"> | <img src="musi/pona/en.png" height="150"> | <img src="musi/pona/la.png" height="150"> |
 | ᴘᴀʀᴛɪᴄʟᴇ *or* | ᴘᴀʀᴛɪᴄʟᴇ *and* | ᴘᴀʀᴛɪᴄʟᴇ *if-then* |
 
-## Content Words
-
-### Prepositions
+## Prepositions
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ ante | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sama | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ lon | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tan | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
 |:-|:-|:-|:-|:-|:-|:-|
@@ -36,7 +29,14 @@
 | <img src="musi/pona/esun.png" height="150"> | <img src="musi/pona/pu.png" height="150"> | | <img src="musi/pona/kepeken.png" height="150"> | | <img src="musi/pona/taso.png" height="150"> | <img src="musi/pona/sin.png" height="150"> |
 | *in exchange for* | *according to* | | *by means of* | | *without* | *with* |	
 
-### Spatial Relations 
+### Particles 1/4
+
+| ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ li | ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ o |
+|:-|:-|
+| <img src="musi/pona/li.png" height="150"> | <img src="musi/pona/o.png" height="150"> |
+| ᴘᴀʀᴛɪᴄʟᴇ *(indicative)* | ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* |
+
+## Spatial Relations 
 
 | ᴀʀᴇᴀ + ᴛʜɪɴɢ sewi | ᴀʀᴇᴀ + ᴛʜɪɴɢ supa | ᴀʀᴇᴀ + ᴛʜɪɴɢ anpa |
 |:-|:-|:-|
@@ -53,7 +53,7 @@
 | <img src="musi/pona/poka.png" height="150"> | <img src="musi/pona/sike.png" height="150"> | <img src="musi/pona/weka.png" height="150"> |
 | ɴᴏᴜɴ *area beside* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *nearby* + <br>ɴᴏᴜɴ *side* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *laterial* | ɴᴏᴜɴ *area surrounding* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *surrounding* + <br> *round or circular thing*| ɴᴏᴜɴ *distance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *away* + <br>ɴᴏᴜɴ *void* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vast* |
 
-### People
+## People
 
 | ᴘʀᴏɴᴏᴜɴ mi | ᴘʀᴏɴᴏᴜɴ sina | ᴘʀᴏɴᴏᴜɴ ona |
 |:-|:-|:-|
@@ -75,7 +75,7 @@
 | <img src="musi/pona/mama.png" height="150"> | <img src="musi/pona/meli.png" height="150"> | <img src="musi/pona/mije.png" height="150"> |
 | ɴᴏᴜɴ *parent* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of origin* | ɴᴏᴜɴ *female person* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* | ɴᴏᴜɴ *male person* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* |
 
-### Measurements
+## Measurements
 
 | ɴᴜᴍʙᴇʀ wan | ɴᴜᴍʙᴇʀ tu | ɴᴜᴍʙᴇʀ mute |
 |:-|:-|:-|
@@ -87,7 +87,7 @@
 | <img src="musi/pona/ni.png" height="150"> | <img src="musi/pona/seme.png" height="150"> | <img src="musi/pona/ale.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *that*, *this* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *what*, *which* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *all*, *every* |
 
-### Light
+## Light
 
 | ᴛʜɪɴɢ suno |
 |:-|
@@ -104,7 +104,7 @@
 | <img src="musi/pona/jelo.png" height="150"> | <img src="musi/pona/laso.png" height="150"> | <img src="musi/pona/loje.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *yellow* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blue*, *green* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *red* |
 
-### Materials
+## Materials
 
 | ᴛʜɪɴɢ kiwen | ᴛʜɪɴɢ ko |
 |:-|:-|
@@ -126,7 +126,7 @@
 | <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/nena.png" height="150"> |
 | *flat object* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* |
 
-### Appearances
+## Appearances
 
 | ᴛʜɪɴɢ lili | | ᴛʜɪɴɢ suli | | ᴛʜɪɴɢ ilo | ᴛʜɪɴɢ mani | ᴛʜɪɴɢ wawa |
 |:-|:-|:-|:-|:-|:-|:-|
@@ -138,7 +138,7 @@
 | <img src="musi/pona/pona.png" height="150"> | | <img src="musi/pona/ike.png" height="150"> | | <img src="musi/pona/pakala.png" height="150"> | <img src="musi/pona/utala.png" height="150"> | <img src="musi/pona/nasa.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* | | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bad* | | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *messed up* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *aggressive* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strange* |
 
-### Life-Forms
+## Life-Forms
 
 | ʟɪꜰᴇ-ꜰᴏʀᴍ akesi | ʟɪꜰᴇ-ꜰᴏʀᴍ soweli |
 |:-|:-|
@@ -160,7 +160,7 @@
 | <img src="musi/pona/kili.png" height="150"> | <img src="musi/pona/pan.png" height="150"> |
 | ɴᴏᴜɴ *fruit* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hanging* | ɴᴏᴜɴ *seed* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fallen* |
 
-### Body Parts
+## Body Parts
 
 | ᴀʀᴇᴀ + ᴛᴏᴏʟ lawa | ᴀʀᴇᴀ + ᴛᴏᴏʟ luka | ᴀʀᴇᴀ + ᴛᴏᴏʟ noka |
 |:-|:-|:-|
@@ -177,14 +177,14 @@
 | <img src="musi/pona/lukin.png" height="150"> | <img src="musi/pona/pilin.png" height="150"> |
 | ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to see* + <br>ᴠᴇʀʙ *to care for* | ɴᴏᴜɴ *heart* → <br>ᴠᴇʀʙ *to sense* + <br>ᴠᴇʀʙ *to have the impression that* |
 
-### Property
+## Property
 
 | ᴠᴇʀʙ jo | ᴠᴇʀʙ pana |
 |:-|:-|
 | <img src="musi/pona/jo.png" height="150"> | <img src="musi/pona/pana.png" height="150"> |
 | *to have* → <br>ɴᴏᴜɴ *property* | *to give* → <br>ɴᴏᴜɴ *gift* |
 
-### Activities
+## Activities
 
 | ᴠᴇʀʙ alasa | ᴠᴇʀʙ moku |
 |:-|:-|
@@ -213,7 +213,7 @@
 | <img src="musi/pona/jaki.png" height="150"> | <img src="musi/pona/suwi.png" height="150"> |
 | ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter* | ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* |
 
-### Time
+## Time
 
 | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ kama | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ open | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ nasin |
 |:-|:-|:-|
