@@ -87,10 +87,15 @@
 
 ## Materials
 
-| ᴛʜɪɴɢ kiwen | ᴛʜɪɴɢ ko | ᴛʜɪɴɢ kon | ᴛʜɪɴɢ telo |
-|:-|:-|:-|:-|
-| <img src="musi/pona/kiwen.png" height="150"> | <img src="musi/pona/ko.png" height="150"> | <img src="musi/pona/kon.png" height="150"> | <img src="musi/pona/telo.png" height="150"> |
-| *hard object* | *semi-solid* | ɴᴏᴜɴ *air* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *floating* | *wet substance* |
+| ᴛʜɪɴɢ kiwen | ᴛʜɪɴɢ ko |
+|:-|:-|
+| <img src="musi/pona/kiwen.png" height="150"> | <img src="musi/pona/ko.png" height="150"> |
+| *hard object* | *semi-solid* |
+
+| ᴛʜɪɴɢ kon | ᴛʜɪɴɢ telo |
+|:-|:-|
+| <img src="musi/pona/kon.png" height="150"> | <img src="musi/pona/telo.png" height="150"> |
+| ɴᴏᴜɴ *air* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *floating* | *wet substance* |
 
 | ᴛʜɪɴɢ linja | ᴛʜɪɴɢ palisa |
 |:-|:-|
