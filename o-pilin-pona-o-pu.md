@@ -89,19 +89,17 @@
 | <img src="musi/pona/jo.png" height="150"> | <img src="musi/pona/pana.png" height="150"> |
 | *to have* → <br>ɴᴏᴜɴ *property* | *to give* → <br>ɴᴏᴜɴ *gift* |
 
-## World
-
 | ᴛᴏᴏʟ len | ᴛᴏᴏʟ poki | ᴛᴏᴏʟ tomo |
 |:-|:-|:-|
 | <img src="musi/pona/len.png" height="150"> | <img src="musi/pona/poki.png" height="150"> | <img src="musi/pona/tomo.png" height="150"> |
 | ɴᴏᴜɴ *cloth* → <br>ᴠᴇʀʙ *to hide* | ɴᴏᴜɴ *container* → <br>ᴠᴇʀʙ *to contain* | ɴᴏᴜɴ *house* → <br>ᴠᴇʀʙ *to protect* |
 
+## Elements
+
 | ᴛʜɪɴɢ ma | ᴛʜɪɴɢ mun |
 |:-|:-|
 | <img src="musi/pona/ma.png" height="150"> | <img src="musi/pona/mun.png" height="150"> |
 | ɴᴏᴜɴ *earth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fixed* | ɴᴏᴜɴ *moon* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *orbiting* |
-
-## Elements
 
 | ᴛʜɪɴɢ kiwen | ᴛʜɪɴɢ ko |
 |:-|:-|
