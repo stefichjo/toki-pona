@@ -103,7 +103,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **lawa** | - | *main* |
 | **luka** | *range* | *reachable*: *to reach* |
 | **monsi** | - | *rear* |
-| **nanpa** | *someone's turn* | *to be someone's turn* |
+| **nanpa** | *one's turn* | *to be one's turn* |
 | **nasin** | *dimension*, *direction* | *directed* |
 | **noka** | …: *below*, *under*; *depending on* | *low*, *lower* |
 | **open** | *entrance* | *accessible* |
@@ -201,7 +201,8 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 | **awen** | - | *to continue* |
 | **kama** | - | *achieve*; *let* |
 | **lukin** | - | *to search for* | *to care for* |
-| **nanpa** | *to be someone's turn to* | *to iterate*; *count*; *calculate* |
+| **nanpa** | *to be one's turn to* | *to iterate*; *count*; *calculate* |
+| **nasin** | *to be destined to* | *to destine* |
 | **open** | *to be ready to* | *to set up*: *start* |
 | **pilin** | *to feel like* | *to have the impression that* |
 | **pini** | *to stop -ing* | - |

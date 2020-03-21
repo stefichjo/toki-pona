@@ -207,7 +207,7 @@
 | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ kama | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ open | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ nasin |
 |:-|:-|:-|
 | <img src="musi/pona/kama.png" height="150"> | <img src="musi/pona/open.png" height="150"> | <img src="musi/pona/nasin.png" height="150"> |
-| ɴᴏᴜɴ *start* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *future* + <br>ᴠᴇʀʙ *to achieve* | ɴᴏᴜɴ *entrance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *accessible* + <br>ᴠᴇʀʙ *to turn on* | ɴᴏᴜɴ *direction* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *directed* + <br>ᴠᴇʀʙ *...* |
+| ɴᴏᴜɴ *start* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *future* + <br>ᴠᴇʀʙ *to achieve* | ɴᴏᴜɴ *entrance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *accessible* + <br>ᴠᴇʀʙ *to turn on* | ɴᴏᴜɴ *direction* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *directed* + <br>ᴠᴇʀʙ *to destine* ***TODO*** |
 
 | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ pini | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ selo | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ tenpo |
 |:-|:-|:-|
@@ -221,7 +221,7 @@
 | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ awen | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ sijelo | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ nanpa |
 |:-|:-|:-|
 | <img src="musi/pona/awen.png" height="150"> | <img src="musi/pona/sijelo.png" height="150"> | <img src="musi/pona/nanpa.png" height="150"> |
-| ɴᴏᴜɴ *duration* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *present* + <br>ᴠᴇʀʙ *to continue* | ɴᴏᴜɴ *state* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *...* + <br>ᴠᴇʀʙ *...* | *someone's turn* + <br>ᴠᴇʀʙ *to count* |
+| ɴᴏᴜɴ *duration* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *present* + <br>ᴠᴇʀʙ *to continue* | ɴᴏᴜɴ *state* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *...* + <br>ᴠᴇʀʙ *...* | *one's turn* + <br>ᴠᴇʀʙ *to count* |
 
 ***TODO dictionary sijelo, state, mode, configuration level up AREA + AUXILIARY***
 
