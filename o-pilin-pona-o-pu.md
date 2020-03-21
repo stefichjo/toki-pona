@@ -214,9 +214,6 @@
 | <img src="musi/pona/pini.png" height="150"> | <img src="musi/pona/selo.png" height="150"> | <img src="musi/pona/tenpo.png" height="150"> |
 | ɴᴏᴜɴ *end* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *past* + <br>ᴠᴇʀʙ *to cancel* | ɴᴏᴜɴ *closure* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *closed* + <br>ᴠᴇʀʙ *to conclude* | ɴᴏᴜɴ *time* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *transitory* + <br>ᴠᴇʀʙ *to occupy* |
 
-***TODO dictionary pini <-> selo: closure***
-***TODO level up selo***
-
 | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ awen | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ sijelo | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ nanpa |
 |:-|:-|:-|
 | <img src="musi/pona/awen.png" height="150"> | <img src="musi/pona/sijelo.png" height="150"> | <img src="musi/pona/nanpa.png" height="150"> |

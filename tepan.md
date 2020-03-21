@@ -107,7 +107,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **nasin** | *dimension*, *direction* | *directed* |
 | **noka** | …: *below*, *under*; *depending on* | *low*, *lower* |
 | **open** | *entrance* | *accessible* |
-| **pini** | *end*: *after*, *in the end* | *previous*, *last*; *disappearing*; *closed*, *sealed* |
+| **pini** | *end*: *after*, *in the end*; *closure* | *previous*, *last*; *disappearing*; *closed*, *sealed* |
 | **poka** | …: *among*; *area surrounding*: *around* | *surrounding* |
 | **sewi** | …: *above*, *over*; *at the top of* | *high*; *upper* |
 | **supa** | …: *on* | *horizontal* |
