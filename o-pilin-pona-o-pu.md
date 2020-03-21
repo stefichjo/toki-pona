@@ -1,14 +1,14 @@
 # o pilin pona o pu!
 
-## People and Things
-
-| |
+| References |
 |:-|
 | [Particles](#particles) |
 | [Prepositions](#prepositions) |
 | [Spatial Relations](#spatial-relations) |
 | [Time](#time) |
 | [Measurements](#measurements) |
+
+## People and Things
 
 | ᴘʀᴏɴᴏᴜɴ mi | ᴘʀᴏɴᴏᴜɴ sina | ᴘʀᴏɴᴏᴜɴ ona |
 |:-|:-|:-|
@@ -32,12 +32,6 @@
 
 ## Body Parts
 
-| |
-|:-|
-| [Spatial Relations 1/3](#spatial-relations-13) |
-| [Spatial Relations 2/3](#spatial-relations-23) |
-| [Spatial Relations 3/3](#spatial-relations-33) |
-
 | ᴀʀᴇᴀ + ᴛᴏᴏʟ lawa | ᴀʀᴇᴀ + ᴛᴏᴏʟ luka | ᴀʀᴇᴀ + ᴛᴏᴏʟ noka |
 |:-|:-|:-|
 | <img src="musi/pona/lawa.png" height="150"> | <img src="musi/pona/luka.png" height="150"> | <img src="musi/pona/noka.png" height="150"> |
@@ -52,6 +46,49 @@
 |:-|:-|
 | <img src="musi/pona/lukin.png" height="150"> | <img src="musi/pona/pilin.png" height="150"> |
 | ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to see* + <br>ᴠᴇʀʙ *to care for* | ɴᴏᴜɴ *heart* → <br>ᴠᴇʀʙ *to sense* + <br>ᴠᴇʀʙ *to have the impression that* |
+
+## ...
+
+* ***TODO***
+* sitelen
+* kalama
+* toki
+* nimi
+* sona
+
+
+## Property
+
+| ᴠᴇʀʙ jo | ᴠᴇʀʙ pana |
+|:-|:-|
+| <img src="musi/pona/jo.png" height="150"> | <img src="musi/pona/pana.png" height="150"> |
+| *to have* → <br>ɴᴏᴜɴ *property* | *to give* → <br>ɴᴏᴜɴ *gift* |
+
+## Activities
+
+| ᴠᴇʀʙ alasa | ᴠᴇʀʙ moku |
+|:-|:-|
+| <img src="musi/pona/alasa.png" height="150"> | <img src="musi/pona/moku.png" height="150"> |
+| *to hunt* → <br>ɴᴏᴜɴ *prey* | *to swallow* → <br>ɴᴏᴜɴ *food* |
+
+| ᴠᴇʀʙ musi | ᴠᴇʀʙ pali |
+|:-|:-|
+| <img src="musi/pona/musi.png" height="150"> | <img src="musi/pona/pali.png" height="150"> |
+| *to play with* → <br>ɴᴏᴜɴ *game* | *to work on* → <br>ɴᴏᴜɴ *action* |
+
+| ᴠᴇʀʙ olin | ᴠᴇʀʙ unpa |
+|:-|:-|
+| <img src="musi/pona/olin.png" height="150"> | <img src="musi/pona/unpa.png" height="150"> |
+| *to love* → <br>ɴᴏᴜɴ *beloved one* | *to have sex with* → <br>ɴᴏᴜɴ *sexual partner* |
+
+---
+
+| ᴛʜɪɴɢ jaki | ᴛʜɪɴɢ suwi |
+|:-|:-|
+| <img src="musi/pona/jaki.png" height="150"> | <img src="musi/pona/suwi.png" height="150"> |
+| ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter* | ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* |
+
+---
 
 ## Light
 
@@ -125,42 +162,6 @@
 |:-|:-|
 | <img src="musi/pona/kili.png" height="150"> | <img src="musi/pona/pan.png" height="150"> |
 | ɴᴏᴜɴ *fruit* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hanging* | ɴᴏᴜɴ *seed* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fallen* |
-
-## Property
-
-| ᴠᴇʀʙ jo | ᴠᴇʀʙ pana |
-|:-|:-|
-| <img src="musi/pona/jo.png" height="150"> | <img src="musi/pona/pana.png" height="150"> |
-| *to have* → <br>ɴᴏᴜɴ *property* | *to give* → <br>ɴᴏᴜɴ *gift* |
-
-## Activities
-
-| ᴠᴇʀʙ alasa | ᴠᴇʀʙ moku |
-|:-|:-|
-| <img src="musi/pona/alasa.png" height="150"> | <img src="musi/pona/moku.png" height="150"> |
-| *to hunt* → <br>ɴᴏᴜɴ *prey* | *to swallow* → <br>ɴᴏᴜɴ *food* |
-
-| ᴠᴇʀʙ musi | ᴠᴇʀʙ pali |
-|:-|:-|
-| <img src="musi/pona/musi.png" height="150"> | <img src="musi/pona/pali.png" height="150"> |
-| *to play with* → <br>ɴᴏᴜɴ *game* | *to work on* → <br>ɴᴏᴜɴ *action* |
-
-| ᴠᴇʀʙ olin | ᴠᴇʀʙ unpa |
-|:-|:-|
-| <img src="musi/pona/olin.png" height="150"> | <img src="musi/pona/unpa.png" height="150"> |
-| *to love* → <br>ɴᴏᴜɴ *beloved one* | *to have sex with* → <br>ɴᴏᴜɴ *sexual partner* |
-
-* ***TODO***
-* sitelen
-* kalama
-* toki
-* nimi
-* sona
-
-| ᴛʜɪɴɢ jaki | ᴛʜɪɴɢ suwi |
-|:-|:-|
-| <img src="musi/pona/jaki.png" height="150"> | <img src="musi/pona/suwi.png" height="150"> |
-| ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter* | ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* |
 
 ---
 
