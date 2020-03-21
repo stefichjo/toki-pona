@@ -1,28 +1,12 @@
 # o pilin pona o pu!
 
-## Spatial Relations 
+## People and Things
 
 | |
 |:-|
-| [Prepositions 1/2](#prepositions-1-2) |
-| [Particles 1/4](#particles-1-4) |
-
-| ᴀʀᴇᴀ + ᴛʜɪɴɢ sewi | ᴀʀᴇᴀ + ᴛʜɪɴɢ supa | ᴀʀᴇᴀ + ᴛʜɪɴɢ anpa |
-|:-|:-|:-|
-| <img src="musi/pona/sewi.png" height="150"> | <img src="musi/pona/supa.png" height="150"> | <img src="musi/pona/anpa.png" height="150"> |
-| ɴᴏᴜɴ *area above* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *high* + <br>ɴᴏᴜɴ *God* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *supernatural* | ɴᴏᴜɴ *horizontal surface* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *horizontal*  + <br>ɴᴏᴜɴ *thing to put* <br>*or rest something on* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sustaining*| ɴᴏᴜɴ *area below* <br>*or under* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *low* →<br> ɴᴏᴜɴ *abyss* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *deep* |
-
-| ᴀʀᴇᴀ + ᴛʜɪɴɢ sinpin | ᴀʀᴇᴀ + ᴛʜɪɴɢ insa | ᴀʀᴇᴀ + ᴛʜɪɴɢ monsi |
-|:-|:-|:-|
-| <img src="musi/pona/sinpin.png" height="150"> | <img src="musi/pona/insa.png" height="150"> | <img src="musi/pona/monsi.png" height="150"> |
-| ɴᴏᴜɴ *area in front* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *foremost* + <br>ɴᴏᴜɴ *front* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blocking* | ɴᴏᴜɴ *content* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner* + <br>ɴᴏᴜɴ *centre* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *internal* | ɴᴏᴜɴ *area behind* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *rear* + <br>ɴᴏᴜɴ *back* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *endorsing* |
-
-| ᴀʀᴇᴀ + ᴛʜɪɴɢ poka | ᴀʀᴇᴀ + ᴛʜɪɴɢ sike | ᴀʀᴇᴀ + ᴛʜɪɴɢ weka |
-|:-|:-|:-|
-| <img src="musi/pona/poka.png" height="150"> | <img src="musi/pona/sike.png" height="150"> | <img src="musi/pona/weka.png" height="150"> |
-| ɴᴏᴜɴ *area beside* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *nearby* + <br>ɴᴏᴜɴ *side* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *laterial* | ɴᴏᴜɴ *area surrounding* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *surrounding* + <br> *round or circular thing*| ɴᴏᴜɴ *distance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *away* + <br>ɴᴏᴜɴ *void* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vast* |
-
-## People
+| [Prepositions 1/2](#prepositions-12) |
+| [Particles 1/4](#particles-14) |
+| [Spatial Relations 1/3](#spatial-relations-13) |
 
 | ᴘʀᴏɴᴏᴜɴ mi | ᴘʀᴏɴᴏᴜɴ sina | ᴘʀᴏɴᴏᴜɴ ona |
 |:-|:-|:-|
@@ -236,22 +220,6 @@
 | <img src="musi/pona/lape.png" height="150"> | <img src="musi/pona/moli.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *resting* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dead* |
 
-## Prepositions
-
-### Prepositions 1/2
-
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ ante | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sama | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ lon | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tan | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
-|:-|:-|:-|:-|:-|:-|:-|
-| <img src="musi/pona/ante.png" height="150"> | <img src="musi/pona/sama.png" height="150"> | | <img src="musi/pona/lon.png" height="150"> | | <img src="musi/pona/tan.png" height="150"> | <img src="musi/pona/tawa.png" height="150"> |
-| *than* | *like* | | *at* | | *from* | *to* |
-
-### Prepositions 2/2
-
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ esun | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ pu | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ kepeken | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ taso | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sin |
-|:-|:-|:-|:-|:-|:-|:-|
-| <img src="musi/pona/esun.png" height="150"> | <img src="musi/pona/pu.png" height="150"> | | <img src="musi/pona/kepeken.png" height="150"> | | <img src="musi/pona/taso.png" height="150"> | <img src="musi/pona/sin.png" height="150"> |
-| *in exchange for* | *according to* | | *by means of* | | *without* | *with* |	
-
 ## Particles
 
 ### Particles 1/4
@@ -277,5 +245,44 @@
 |:-|:-|:-|
 | <img src="musi/pona/anu.png" height="150"> | <img src="musi/pona/en.png" height="150"> | <img src="musi/pona/la.png" height="150"> |
 | ᴘᴀʀᴛɪᴄʟᴇ *or* | ᴘᴀʀᴛɪᴄʟᴇ *and* | ᴘᴀʀᴛɪᴄʟᴇ *if-then* |
+
+## Prepositions
+
+### Prepositions 1/2
+
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ ante | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sama | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ lon | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tan | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
+|:-|:-|:-|:-|:-|:-|:-|
+| <img src="musi/pona/ante.png" height="150"> | <img src="musi/pona/sama.png" height="150"> | | <img src="musi/pona/lon.png" height="150"> | | <img src="musi/pona/tan.png" height="150"> | <img src="musi/pona/tawa.png" height="150"> |
+| *than* | *like* | | *at* | | *from* | *to* |
+
+### Prepositions 2/2
+
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ esun | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ pu | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ kepeken | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ taso | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sin |
+|:-|:-|:-|:-|:-|:-|:-|
+| <img src="musi/pona/esun.png" height="150"> | <img src="musi/pona/pu.png" height="150"> | | <img src="musi/pona/kepeken.png" height="150"> | | <img src="musi/pona/taso.png" height="150"> | <img src="musi/pona/sin.png" height="150"> |
+| *in exchange for* | *according to* | | *by means of* | | *without* | *with* |	
+
+## Spatial Relations 
+
+### Spatial Relations 1/3
+
+| ᴀʀᴇᴀ + ᴛʜɪɴɢ sewi | ᴀʀᴇᴀ + ᴛʜɪɴɢ supa | ᴀʀᴇᴀ + ᴛʜɪɴɢ anpa |
+|:-|:-|:-|
+| <img src="musi/pona/sewi.png" height="150"> | <img src="musi/pona/supa.png" height="150"> | <img src="musi/pona/anpa.png" height="150"> |
+| ɴᴏᴜɴ *area above* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *high* + <br>ɴᴏᴜɴ *God* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *supernatural* | ɴᴏᴜɴ *horizontal surface* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *horizontal*  + <br>ɴᴏᴜɴ *thing to put* <br>*or rest something on* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sustaining*| ɴᴏᴜɴ *area below* <br>*or under* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *low* →<br> ɴᴏᴜɴ *abyss* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *deep* |
+
+### Spatial Relations 2/3
+
+| ᴀʀᴇᴀ + ᴛʜɪɴɢ sinpin | ᴀʀᴇᴀ + ᴛʜɪɴɢ insa | ᴀʀᴇᴀ + ᴛʜɪɴɢ monsi |
+|:-|:-|:-|
+| <img src="musi/pona/sinpin.png" height="150"> | <img src="musi/pona/insa.png" height="150"> | <img src="musi/pona/monsi.png" height="150"> |
+| ɴᴏᴜɴ *area in front* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *foremost* + <br>ɴᴏᴜɴ *front* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blocking* | ɴᴏᴜɴ *content* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner* + <br>ɴᴏᴜɴ *centre* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *internal* | ɴᴏᴜɴ *area behind* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *rear* + <br>ɴᴏᴜɴ *back* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *endorsing* |
+
+### Spatial Relations 3/3
+
+| ᴀʀᴇᴀ + ᴛʜɪɴɢ poka | ᴀʀᴇᴀ + ᴛʜɪɴɢ sike | ᴀʀᴇᴀ + ᴛʜɪɴɢ weka |
+|:-|:-|:-|
+| <img src="musi/pona/poka.png" height="150"> | <img src="musi/pona/sike.png" height="150"> | <img src="musi/pona/weka.png" height="150"> |
+| ɴᴏᴜɴ *area beside* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *nearby* + <br>ɴᴏᴜɴ *side* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *laterial* | ɴᴏᴜɴ *area surrounding* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *surrounding* + <br> *round or circular thing*| ɴᴏᴜɴ *distance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *away* + <br>ɴᴏᴜɴ *void* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vast* |
 
 
