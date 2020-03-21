@@ -54,10 +54,15 @@
 | <img src="musi/pona/nimi.png" height="150"> | <img src="musi/pona/sitelen.png" height="150"> | <img src="musi/pona/toki.png" height="150"> |
 | *to define* → <br>ɴᴏᴜɴ *word* | *to draw* → <br>ɴᴏᴜɴ *image* | *to communicate* → <br>ɴᴏᴜɴ *speech* |
 
-* ***TODO***
-* kalama
-* sona
+| ᴀᴜxɪʟɪᴀʀʏ sona |
+|:-|
+| <img src="musi/pona/sona.png" height="150"> |
+| ᴠᴇʀʙ *to know* |
 
+| ᴍᴏᴅɪꜰɪᴇʀ kalama |
+|:-|
+| <img src="musi/pona/kalama.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *producing a sound* |
 
 ## Property
 
