@@ -88,15 +88,6 @@
 | <img src="musi/pona/olin.png" height="150"> | <img src="musi/pona/unpa.png" height="150"> |
 | *to love* → <br>ɴᴏᴜɴ *beloved one* | *to have sex with* → <br>ɴᴏᴜɴ *sexual partner* |
 
----
-
-| ᴛʜɪɴɢ jaki | ᴛʜɪɴɢ suwi |
-|:-|:-|
-| <img src="musi/pona/jaki.png" height="150"> | <img src="musi/pona/suwi.png" height="150"> |
-| ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter* | ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* |
-
----
-
 ## Light
 
 | ᴛʜɪɴɢ suno |
@@ -295,6 +286,11 @@
 |:-|
 | <img src="musi/pona/lupa.png" height="150"> |
 | ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* |
+
+| ᴛʜɪɴɢ jaki | ᴛʜɪɴɢ suwi |
+|:-|:-|
+| <img src="musi/pona/jaki.png" height="150"> | <img src="musi/pona/suwi.png" height="150"> |
+| ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter* | ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* |
 
 | ᴛʜɪɴɢ lete | ᴛʜɪɴɢ seli |
 |:-|:-|
