@@ -101,6 +101,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **insa** | *middle* | *inner* |
 | **kama** | *upcoming*: *before*, *in the beginning*, *since*, *until* | *next* |
 | **lawa** | - | *main* |
+| **luka** | *range* | *reachable*: *to reach* |
 | **monsi** | - | *rear* |
 | **nanpa** | *someone's turn* | *to be someone's turn* |
 | **noka** | …: *below*, *under*; *depending on* | *low*, *lower* |
