@@ -75,20 +75,10 @@
 
 ## Measurements
 
-| ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ nanpa |
-|:-|
-| <img src="musi/pona/nanpa.png" height="150"> |
-| ɴᴏᴜɴ *someone's turn* + <br>ᴠᴇʀʙ *to count* |
-
 | ɴᴜᴍʙᴇʀ wan | ɴᴜᴍʙᴇʀ tu | ɴᴜᴍʙᴇʀ mute |
 |:-|:-|:-|
 | <img src="musi/pona/wan.png" height="150"> | <img src="musi/pona/tu.png" height="150"> | <img src="musi/pona/mute.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *one* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *three* |
-
-| ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ tenpo |
-|:-|
-| <img src="musi/pona/tenpo.png" height="150"> |
-| ɴᴏᴜɴ *time* + <br>ᴠᴇʀʙ *to occupy* |
 
 | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ni | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ seme | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ale |
 |:-|:-|:-|
