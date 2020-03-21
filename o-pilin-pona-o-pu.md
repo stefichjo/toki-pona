@@ -40,6 +40,23 @@
 | <img src="musi/pona/ni.png" height="150"> | <img src="musi/pona/seme.png" height="150"> | <img src="musi/pona/ale.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *that*, *this* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *what*, *which* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *all*, *every* |
 
+## Body Parts
+
+| ᴀʀᴇᴀ + ᴛᴏᴏʟ lawa | ᴀʀᴇᴀ + ᴛᴏᴏʟ luka | ᴀʀᴇᴀ + ᴛᴏᴏʟ noka |
+|:-|:-|:-|
+| <img src="musi/pona/lawa.png" height="150"> | <img src="musi/pona/luka.png" height="150"> | <img src="musi/pona/noka.png" height="150"> |
+| ɴᴏᴜɴ *highest part* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *upper* + <br>ɴᴏᴜɴ *head* → <br>ᴠᴇʀʙ *to guide* | ɴᴏᴜɴ *range* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *reachable* + <br>ɴᴏᴜɴ *hand*, *arm* → <br>ᴠᴇʀʙ *to touch* | ɴᴏᴜɴ *lowest part* → <br>ᴀᴅᴊᴇᴄᴛɪ	ᴠᴇ *lower* + <br>ɴᴏᴜɴ *foot*, *leg* → <br>ᴠᴇʀʙ *to step on* |
+
+| ᴛᴏᴏʟ kute | ᴛᴏᴏʟ uta |
+|:-|:-|
+| <img src="musi/pona/kute.png" height="150"> | <img src="musi/pona/uta.png" height="150"> |
+| ɴᴏᴜɴ *ear* → <br>ᴠᴇʀʙ *to hear* | ɴᴏᴜɴ *mouth* → <br>ᴠᴇʀʙ *to kiss* |
+
+| ᴛᴏᴏʟ + ᴀᴜxɪʟɪᴀʀʏ lukin | ᴛᴏᴏʟ + ᴀᴜxɪʟɪᴀʀʏ pilin |
+|:-|:-|
+| <img src="musi/pona/lukin.png" height="150"> | <img src="musi/pona/pilin.png" height="150"> |
+| ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to see* + <br>ᴠᴇʀʙ *to care for* | ɴᴏᴜɴ *heart* → <br>ᴠᴇʀʙ *to sense* + <br>ᴠᴇʀʙ *to have the impression that* |
+
 ## Light
 
 | ᴛʜɪɴɢ suno |
@@ -112,23 +129,6 @@
 |:-|:-|
 | <img src="musi/pona/kili.png" height="150"> | <img src="musi/pona/pan.png" height="150"> |
 | ɴᴏᴜɴ *fruit* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hanging* | ɴᴏᴜɴ *seed* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fallen* |
-
-## Body Parts
-
-| ᴀʀᴇᴀ + ᴛᴏᴏʟ lawa | ᴀʀᴇᴀ + ᴛᴏᴏʟ luka | ᴀʀᴇᴀ + ᴛᴏᴏʟ noka |
-|:-|:-|:-|
-| <img src="musi/pona/lawa.png" height="150"> | <img src="musi/pona/luka.png" height="150"> | <img src="musi/pona/noka.png" height="150"> |
-| ɴᴏᴜɴ *highest part* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *upper* + <br>ɴᴏᴜɴ *head* → <br>ᴠᴇʀʙ *to guide* | ɴᴏᴜɴ *range* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *reachable* + <br>ɴᴏᴜɴ *hand*, *arm* → <br>ᴠᴇʀʙ *to touch* | ɴᴏᴜɴ *lowest part* → <br>ᴀᴅᴊᴇᴄᴛɪ	ᴠᴇ *lower* + <br>ɴᴏᴜɴ *foot*, *leg* → <br>ᴠᴇʀʙ *to step on* |
-
-| ᴛᴏᴏʟ kute | ᴛᴏᴏʟ uta |
-|:-|:-|
-| <img src="musi/pona/kute.png" height="150"> | <img src="musi/pona/uta.png" height="150"> |
-| ɴᴏᴜɴ *ear* → <br>ᴠᴇʀʙ *to hear* | ɴᴏᴜɴ *mouth* → <br>ᴠᴇʀʙ *to kiss* |
-
-| ᴛᴏᴏʟ + ᴀᴜxɪʟɪᴀʀʏ lukin | ᴛᴏᴏʟ + ᴀᴜxɪʟɪᴀʀʏ pilin |
-|:-|:-|
-| <img src="musi/pona/lukin.png" height="150"> | <img src="musi/pona/pilin.png" height="150"> |
-| ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to see* + <br>ᴠᴇʀʙ *to care for* | ɴᴏᴜɴ *heart* → <br>ᴠᴇʀʙ *to sense* + <br>ᴠᴇʀʙ *to have the impression that* |
 
 ## Property
 
