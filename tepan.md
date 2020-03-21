@@ -50,6 +50,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 
 | ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
+| **anpa** | *abyss* | *deep* |
 | **insa** | *core*, *heart* | *internal* |
 | **jaki** | *dirt*, *poison*, *waste*; *shame*: *to condemn* | - |
 | **kili** | - | *hanging* |
@@ -102,7 +103,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **lawa** | - | *main* |
 | **monsi** | - | *rear* |
 | **nanpa** | *someone's turn* | *to be someone's turn* |
-| **noka** | …: *below*, *under*; *depending on* | *lower* |
+| **noka** | …: *below*, *under*; *depending on* | *low*, *lower* |
 | **open** | *entrance* | *accessible* |
 | **pini** | *end*: *after*, *in the end* | *previous*, *last*; *disappearing*; *closed*, *sealed* |
 | **poka** | …: *among*; *area surrounding*: *around* | *surrounding* |
