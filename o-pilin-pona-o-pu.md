@@ -17,17 +17,12 @@
 | <img src="musi/pona/anu.png" height="150"> | <img src="musi/pona/en.png" height="150"> | <img src="musi/pona/la.png" height="150"> |
 | ᴘᴀʀᴛɪᴄʟᴇ *or* | ᴘᴀʀᴛɪᴄʟᴇ *and* | ᴘᴀʀᴛɪᴄʟᴇ *if-then* |
 
-## Prepositions
+## Prepositions 1/2
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ ante | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sama | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ lon | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tan | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
 |:-|:-|:-|:-|:-|:-|:-|
 | <img src="musi/pona/ante.png" height="150"> | <img src="musi/pona/sama.png" height="150"> | | <img src="musi/pona/lon.png" height="150"> | | <img src="musi/pona/tan.png" height="150"> | <img src="musi/pona/tawa.png" height="150"> |
 | *than* | *like* | | *at* | | *from* | *to* |
-
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ esun | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ pu | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ kepeken | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ taso | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sin |
-|:-|:-|:-|:-|:-|:-|:-|
-| <img src="musi/pona/esun.png" height="150"> | <img src="musi/pona/pu.png" height="150"> | | <img src="musi/pona/kepeken.png" height="150"> | | <img src="musi/pona/taso.png" height="150"> | <img src="musi/pona/sin.png" height="150"> |
-| *in exchange for* | *according to* | | *by means of* | | *without* | *with* |	
 
 ### Particles 1/4
 
@@ -266,5 +261,12 @@
 |:-|:-|
 | <img src="musi/pona/lape.png" height="150"> | <img src="musi/pona/moli.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *resting* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dead* |
+
+## Prepositions 2/2
+
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ esun | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ pu | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ kepeken | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ taso | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sin |
+|:-|:-|:-|:-|:-|:-|:-|
+| <img src="musi/pona/esun.png" height="150"> | <img src="musi/pona/pu.png" height="150"> | | <img src="musi/pona/kepeken.png" height="150"> | | <img src="musi/pona/taso.png" height="150"> | <img src="musi/pona/sin.png" height="150"> |
+| *in exchange for* | *according to* | | *by means of* | | *without* | *with* |	
 
 
