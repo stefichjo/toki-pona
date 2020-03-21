@@ -187,10 +187,10 @@
 | <img src="musi/pona/musi.png" height="150"> | <img src="musi/pona/pali.png" height="150"> |
 | *to play with* → <br>ɴᴏᴜɴ *game* | *to work on* → <br>ɴᴏᴜɴ *action* |
 
-* ***TODO***
-* olin
-* unpa
-* musi
+| ᴠᴇʀʙ olin | ᴠᴇʀʙ unpa |
+|:-|:-|
+| <img src="musi/pona/olin.png" height="150"> | <img src="musi/pona/unpa.png" height="150"> |
+| *to love* → <br>ɴᴏᴜɴ *beloved one* | *to have sex with* → <br>ɴᴏᴜɴ *sexual partner* |
 
 * ***TODO***
 * sitelen

@@ -196,6 +196,7 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 | **olin** | …: *love*: *of love* | - |
 | **sitelen** | *to draw*, *indicate*, *project*, *represent*, *sculpture* | *projection*, *sculpture* |
 | **toki** | - | *message*, *news* |
+| **unpa** | *to have sex with* | *sexual partner* |
 
 #### [AUXILIARY](nasin-nimi.md#auxiliary)
 
