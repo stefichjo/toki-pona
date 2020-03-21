@@ -217,9 +217,7 @@
 | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ awen | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ sijelo | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ nanpa |
 |:-|:-|:-|
 | <img src="musi/pona/awen.png" height="150"> | <img src="musi/pona/sijelo.png" height="150"> | <img src="musi/pona/nanpa.png" height="150"> |
-| ɴᴏᴜɴ *duration* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *present* + <br>ᴠᴇʀʙ *to continue* | ɴᴏᴜɴ *state* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *...* + <br>ᴠᴇʀʙ *...* | *one's turn* + <br>ᴠᴇʀʙ *to count* |
-
-***TODO dictionary sijelo, state, mode, configuration level up AREA + AUXILIARY***
+| ɴᴏᴜɴ *duration* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *present* + <br>ᴠᴇʀʙ *to continue* | ɴᴏᴜɴ *state* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *physical* + <br>ᴠᴇʀʙ *to establish* | *one's turn* + <br>ᴠᴇʀʙ *to count* |
 
 ***TODO ~~sijelo~~***
 

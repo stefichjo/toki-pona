@@ -110,6 +110,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **pini** | *end*: *after*, *in the end*; *closure* | *previous*, *last*; *disappearing*; *closed*, *sealed* |
 | **poka** | …: *among*; *area surrounding*: *around* | *surrounding* |
 | **sewi** | …: *above*, *over*; *at the top of* | *high*; *upper* |
+| **sijelo** | *configuration*, *mode*, *state* | *physical* |
 | **supa** | …: *on* | *horizontal* |
 | **tenpo** | …: *for* | *transitory* |
 | **weka** | *distance*: *away from* | - |
@@ -206,6 +207,7 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 | **open** | *to be ready to* | *to set up*: *start* |
 | **pilin** | *to feel like* | *to have the impression that* |
 | **pini** | *to stop -ing* | *to cancel* |
+| **sijelo** | - | *to establish* |
 | **sona** | - | …: *knowledge* |
 | **tenpo** | *to be busy with* | *to occupy* |
 | **wile** | *to be bound to*, *can't help but* | *to need*, *require*, *want*, *wish*; *to conclude*; *to decide* |
