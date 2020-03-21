@@ -2,11 +2,6 @@
 
 ## Particles
 
-| ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ anu | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ en | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ la |
-|:-|:-|:-|
-| <img src="musi/pona/anu.png" height="150"> | <img src="musi/pona/en.png" height="150"> | <img src="musi/pona/la.png" height="150"> |
-| ᴘᴀʀᴛɪᴄʟᴇ *or* | ᴘᴀʀᴛɪᴄʟᴇ *and* | ᴘᴀʀᴛɪᴄʟᴇ *if-then* |
-
 | ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ li | ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ o |
 |:-|:-|
 | <img src="musi/pona/li.png" height="150"> | <img src="musi/pona/o.png" height="150"> |
@@ -21,6 +16,11 @@
 |:-|:-|:-|
 | <img src="musi/pona/a.png" height="150"> | <img src="musi/pona/ala.png" height="150"> | <img src="musi/pona/mu.png" height="150"> |
 | ᴘᴀʀᴛɪᴄʟᴇ *(confirmation)* | ᴘᴀʀᴛɪᴄʟᴇ *(negation)* | ᴘᴀʀᴛɪᴄʟᴇ *(communication)* |
+
+| ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ anu | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ en | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ la |
+|:-|:-|:-|
+| <img src="musi/pona/anu.png" height="150"> | <img src="musi/pona/en.png" height="150"> | <img src="musi/pona/la.png" height="150"> |
+| ᴘᴀʀᴛɪᴄʟᴇ *or* | ᴘᴀʀᴛɪᴄʟᴇ *and* | ᴘᴀʀᴛɪᴄʟᴇ *if-then* |
 
 ## Content Words
 
