@@ -91,15 +91,15 @@
 
 ## World
 
-| ᴛʜɪɴɢ ma | ᴛʜɪɴɢ mun |
-|:-|:-|
-| <img src="musi/pona/ma.png" height="150"> | <img src="musi/pona/mun.png" height="150"> |
-| ɴᴏᴜɴ *earth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fixed* | ɴᴏᴜɴ *moon* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *orbiting* |
-
 | ᴛᴏᴏʟ len | ᴛᴏᴏʟ poki | ᴛᴏᴏʟ tomo |
 |:-|:-|:-|
 | <img src="musi/pona/len.png" height="150"> | <img src="musi/pona/poki.png" height="150"> | <img src="musi/pona/tomo.png" height="150"> |
 | ɴᴏᴜɴ *cloth* → <br>ᴠᴇʀʙ *to hide* | ɴᴏᴜɴ *container* → <br>ᴠᴇʀʙ *to contain* | ɴᴏᴜɴ *house* → <br>ᴠᴇʀʙ *to protect* |
+
+| ᴛʜɪɴɢ ma | ᴛʜɪɴɢ mun |
+|:-|:-|
+| <img src="musi/pona/ma.png" height="150"> | <img src="musi/pona/mun.png" height="150"> |
+| ɴᴏᴜɴ *earth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fixed* | ɴᴏᴜɴ *moon* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *orbiting* |
 
 ## Elements
 
