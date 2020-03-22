@@ -297,23 +297,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ### Appearances 1/2
 
-| ᴛʜɪɴɢ lili | ᴛʜɪɴɢ suli |
-|:-|:-|
-| <img src="musi/pona/lili.png" height="150"> | <img src="musi/pona/suli.png" height="150"> |
-| ɴᴏᴜɴ *piece* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *small* | ɴᴏᴜɴ *cargo* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *big* |
-
-| ᴛʜɪɴɢ ilo | ᴛʜɪɴɢ mani | ᴛʜɪɴɢ wawa |
-|:-|:-|:-|
-| <img src="musi/pona/ilo.png" height="150"> | <img src="musi/pona/mani.png" height="150"> | <img src="musi/pona/wawa.png" height="150"> |
-| ɴᴏᴜɴ *tool* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *useful* | ɴᴏᴜɴ *wealth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *valueable* | ɴᴏᴜɴ *force* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strong* |
-
-| ᴛʜɪɴɢ lete | ᴛʜɪɴɢ seli |
-|:-|:-|
-| <img src="musi/pona/lete.png" height="150"> | <img src="musi/pona/seli.png" height="150"> |
-| ɴᴏᴜɴ *frost* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold* | ɴᴏᴜɴ *heat source* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* |
-
-### Appearances 2/2
-
 | ᴍᴏᴅɪꜰɪᴇʀ pona | ᴍᴏᴅɪꜰɪᴇʀ ike |
 |:-|:-|
 | <img src="musi/pona/pona.png" height="150"> | <img src="musi/pona/ike.png" height="150"> |
@@ -328,6 +311,23 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|:-|
 | <img src="musi/pona/suwi.png" height="150"> | <img src="musi/pona/jaki.png" height="150"> |
 | ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* | ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter* |
+
+### Appearances 2/2
+
+| ᴛʜɪɴɢ lili | ᴛʜɪɴɢ suli |
+|:-|:-|
+| <img src="musi/pona/lili.png" height="150"> | <img src="musi/pona/suli.png" height="150"> |
+| ɴᴏᴜɴ *piece* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *small* | ɴᴏᴜɴ *cargo* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *big* |
+
+| ᴛʜɪɴɢ ilo | ᴛʜɪɴɢ mani | ᴛʜɪɴɢ wawa |
+|:-|:-|:-|
+| <img src="musi/pona/ilo.png" height="150"> | <img src="musi/pona/mani.png" height="150"> | <img src="musi/pona/wawa.png" height="150"> |
+| ɴᴏᴜɴ *tool* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *useful* | ɴᴏᴜɴ *wealth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *valueable* | ɴᴏᴜɴ *force* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strong* |
+
+| ᴛʜɪɴɢ lete | ᴛʜɪɴɢ seli |
+|:-|:-|
+| <img src="musi/pona/lete.png" height="150"> | <img src="musi/pona/seli.png" height="150"> |
+| ɴᴏᴜɴ *frost* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold* | ɴᴏᴜɴ *heat source* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* |
 
 ## Colors
 
