@@ -67,15 +67,12 @@
 | <img src="musi/pona/linja.png" height="150"> | <img src="musi/pona/palisa.png" height="150"> |
 | *long flexible thing* | *long hard thing* |
 
-| ᴛʜɪɴɢ lipu | ᴛʜɪɴɢ nena |
-|:-|:-|
-| <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/nena.png" height="150"> |
-| *flat object* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* |
+| ᴛʜɪɴɢ lipu | ᴛʜɪɴɢ lupa | ᴛʜɪɴɢ nena |
+|:-|:-|:-|
+| <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/lupa.png" height="150"> | <img src="musi/pona/nena.png" height="150"> |
+| *flat object* | ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* |
 
-| ᴛʜɪɴɢ lupa |
-|:-|
-| <img src="musi/pona/lupa.png" height="150"> |
-| ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* |
+***TODO*** concave convex
 
 ## Colors
 

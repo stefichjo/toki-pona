@@ -61,14 +61,14 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **linja** | - | *long and flexible; soft* |
 | **lipu** | - | *flat*, *thin* |
 | **lete** | *frost*, *ice* | - |
-| **lupa** | - | *hollow* |
+| **lupa** | - | *concave*, *hollow* |
 | **ma** | - | *firm*, *fixed*: *to tie* |
 | **mani** | - | *domesticated*, *refined*; *valuable* |
 | **monsi** | - | *dorsal*; *endorsing* |
 | **mun** | - | *orbiting*, *sky-walking* |
 | **mute** | *amount* | - |
 | **nasin** | - | *ordinary*, *usual* |
-| **nena** | - | *outstanding*, *thick* |
+| **nena** | - | *convex*, *outstanding*, *thick* |
 | **palisa** | - | *long and hard* |
 | **pan** | *seed* | *fallen*, *dropped*; *sown* |
 | **pimeja** | *shadow* | - |
