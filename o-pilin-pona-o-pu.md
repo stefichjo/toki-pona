@@ -4,6 +4,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 | Topics |
 |:-|
+| [Measurements](#measurements) |
 | [People and Things](#people-and-things)
 | [Body Parts](#body-parts)
 | [Materials](#materials)
@@ -21,9 +22,24 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [Prepositions](#prepositions) |
 | [Space](#space) |
 | [Time](#time) |
-| [Measurements](#measurements) |
 | [Appearances](#appearances) |
 | [Colors](#colors)
+
+## Measurements
+
+### Measurements 1/2
+
+| ɴᴜᴍʙᴇʀ wan | ɴᴜᴍʙᴇʀ tu | ɴᴜᴍʙᴇʀ mute |
+|:-|:-|:-|
+| <img src="musi/pona/wan.png" height="150"> | <img src="musi/pona/tu.png" height="150"> | <img src="musi/pona/mute.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *one* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *three* |
+
+### Measurements 2/2
+
+| ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ni | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ seme | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ale |
+|:-|:-|:-|
+| <img src="musi/pona/ni.png" height="150"> | <img src="musi/pona/seme.png" height="150"> | <img src="musi/pona/ale.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *that*, *this* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *what*, *which* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *all*, *every* |
 
 ## People and Things
 
@@ -307,22 +323,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|:-|:-|
 | <img src="musi/pona/nasin.png" height="150"> | <img src="musi/pona/tenpo.png" height="150"> | <img src="musi/pona/nanpa.png" height="150"> |
 | ɴᴏᴜɴ *direction* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *directed* + <br>ᴠᴇʀʙ *to destine* | ɴᴏᴜɴ *time* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *transitory* + <br>ᴠᴇʀʙ *to occupy* | *one's turn* + <br>ᴠᴇʀʙ *to count* |
-
-## Measurements
-
-### Measurements 1/2
-
-| ɴᴜᴍʙᴇʀ wan | ɴᴜᴍʙᴇʀ tu | ɴᴜᴍʙᴇʀ mute |
-|:-|:-|:-|
-| <img src="musi/pona/wan.png" height="150"> | <img src="musi/pona/tu.png" height="150"> | <img src="musi/pona/mute.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *one* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *three* |
-
-### Measurements 2/2
-
-| ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ni | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ seme | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ale |
-|:-|:-|:-|
-| <img src="musi/pona/ni.png" height="150"> | <img src="musi/pona/seme.png" height="150"> | <img src="musi/pona/ale.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *that*, *this* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *what*, *which* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *all*, *every* |
 
 ## Appearances
 
