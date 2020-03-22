@@ -460,7 +460,7 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 | <img src="musi/pona/mije.png" height="50" title="mies"> | [**ᴘᴇʀꜱᴏɴ**](#person) *mama* — *meli*, **mije** <br>ɴᴏᴜɴ **male**, **man**, **masculine person**; **husband** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*male*](tepan.md#person) |
 | <img src="musi/pona/moku.png" height="50" title="mogu"> | [**ᴠᴇʀʙ**](#verb) *alasa*, **moku** <br>ᴠᴇʀʙ **to consume**, **drink**, **eat**, **ingest**, **swallow** <br>ɴᴏᴜɴ [**the act of eating**](sonja.md#lesson-5) → <br>ɴᴏᴜɴ *mouthful*; [**food**](sonja.md#lesson-5) |
 | <img src="musi/pona/moli.png" height="50" title="muri"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) *lape*, **moli** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**, (*~~kama~~ moli*) **dying** |
-| <img src="musi/pona/monsi.png" height="50" title="mon-ĉi"> | [**ᴀʀᴇᴀ**](#area) + [**ᴛʜɪɴɢ**](#thing) *insa* — **monsi**, *sinpin* <br>ɴᴏᴜɴ [**area behind**](sonja.md#lesson-15), **back**, **rear**: (*lon monsi*) **behind** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*rear*](tepan.md#area) + <br>ɴᴏᴜɴ (*monsi ~~sijelo~~*) **back**; [*backbone*](tepan.md#dictionary) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*dorsal*; *endorsing*](tepan.md#thing) |
+| <img src="musi/pona/monsi.png" height="50" title="mon-ĉi"> | [**ᴀʀᴇᴀ**](#area) + [**ᴛʜɪɴɢ**](#thing) *insa* — **monsi**, *sinpin* <br>ɴᴏᴜɴ [**area behind**](sonja.md#lesson-15), **back**, **rear**: (*lon monsi*) **behind** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*rear*](tepan.md#area) + <br>ɴᴏᴜɴ **back**; [*backbone*](tepan.md#dictionary) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*dorsal*; *endorsing*](tepan.md#thing) |
 | <img src="musi/pona/mu.png" height="50" title="mu"> | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#tokiponization) **mu** — *a*, *ala* <br>ᴘᴀʀᴛɪᴄʟᴇ **(animal noise or communication)**; [*(indifference)*](tepan.md#tokiponization) → <br>ᴀᴅᴠᴇʀʙ (*~~mu~~*) [*-ish*](tepan.md#tokiponization), [*sort-of*](tepan.md#tokiponization); [**cock-a-doodle-doo**](sonja.md#lesson-11), [**moo**](sonja.md#lesson-1); [*blah*](tepan.md#tokiponization) |
 | <img src="musi/pona/mun.png" height="50" title="mun"> | [**ᴛʜɪɴɢ**](#thing) *ma*, **mun** <br>ɴᴏᴜɴ **moon**, **night sky object**, **star** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*orbiting*, *sky-walking*](tepan.md#thing) |
 | <img src="musi/pona/musi.png" height="50" title="amuzi"> | [**ᴠᴇʀʙ**](#verb) **musi** — *pali* <br>ᴠᴇʀʙ [*to play with*](tepan.md#verb) → <br>ɴᴏᴜɴ [*game*](tepan.md#verb) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** |
@@ -569,6 +569,12 @@ Semantic completions are written in [*italic and blue*](tepan.md).
 When all members of a **ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ** share the same **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es, they are listed with a plus-sign (+).
 
 ***TODO***
+
+| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+|:-|:-|
+| <img src="musi/pona/insa.png" height="50" title="insait"> | [**ᴀʀᴇᴀ**](#area) + [**ᴛʜɪɴɢ**](#thing) **insa** — *monsi*, *sinpin* <br>ɴᴏᴜɴ **centre** ... + <br>ɴᴏᴜɴ **content** ... |
+| <img src="musi/pona/monsi.png" height="50" title="mon-ĉi"> | [**ᴀʀᴇᴀ**](#area) + [**ᴛʜɪɴɢ**](#thing) *insa* — **monsi**, *sinpin* <br>ɴᴏᴜɴ [**area behind**](sonja.md#lesson-15) ... + <br>ɴᴏᴜɴ **back** ... |
+| <img src="musi/pona/sinpin.png" height="50" title="cinpin"> | [**ᴀʀᴇᴀ**](#area) + [**ᴛʜɪɴɢ**](#thing) *insa* — *monsi*, **sinpin** <br>ɴᴏᴜɴ [**area in front**](sonja.md#lesson-15) ... + <br>ɴᴏᴜɴ **front** ... |
 
 Synonyms are denoted with a double arrow (⇒).
 
