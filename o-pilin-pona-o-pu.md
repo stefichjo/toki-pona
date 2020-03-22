@@ -297,11 +297,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ### Appearances 1/2
 
-| ᴛʜɪɴɢ lete | ᴛʜɪɴɢ seli |
-|:-|:-|
-| <img src="musi/pona/lete.png" height="150"> | <img src="musi/pona/seli.png" height="150"> |
-| ɴᴏᴜɴ *frost* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold* | ɴᴏᴜɴ *heat source* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* |
-
 | ᴛʜɪɴɢ lili | ᴛʜɪɴɢ suli |
 |:-|:-|
 | <img src="musi/pona/lili.png" height="150"> | <img src="musi/pona/suli.png" height="150"> |
@@ -312,12 +307,12 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/ilo.png" height="150"> | <img src="musi/pona/mani.png" height="150"> | <img src="musi/pona/wawa.png" height="150"> |
 | ɴᴏᴜɴ *tool* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *useful* | ɴᴏᴜɴ *wealth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *valueable* | ɴᴏᴜɴ *force* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strong* |
 
-### Appearances 2/2
-
-| ᴛʜɪɴɢ suwi | ᴛʜɪɴɢ jaki |
+| ᴛʜɪɴɢ lete | ᴛʜɪɴɢ seli |
 |:-|:-|
-| <img src="musi/pona/suwi.png" height="150"> | <img src="musi/pona/jaki.png" height="150"> |
-| ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* | ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter* |
+| <img src="musi/pona/lete.png" height="150"> | <img src="musi/pona/seli.png" height="150"> |
+| ɴᴏᴜɴ *frost* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold* | ɴᴏᴜɴ *heat source* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* |
+
+### Appearances 2/2
 
 | ᴍᴏᴅɪꜰɪᴇʀ pona | ᴍᴏᴅɪꜰɪᴇʀ ike |
 |:-|:-|
@@ -328,6 +323,11 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|:-|:-|
 | <img src="musi/pona/pakala.png" height="150"> | <img src="musi/pona/utala.png" height="150"> | <img src="musi/pona/nasa.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *messed up* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *aggressive* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strange* |
+
+| ᴛʜɪɴɢ suwi | ᴛʜɪɴɢ jaki |
+|:-|:-|
+| <img src="musi/pona/suwi.png" height="150"> | <img src="musi/pona/jaki.png" height="150"> |
+| ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* | ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter* |
 
 ## Colors
 
