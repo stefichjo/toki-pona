@@ -6,7 +6,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 | Topics |
 |:-|
-| [People and Objects](#people-and-objects) |
+| [People](#people) |
 | [Body Parts](#body-parts) |
 | [Communication](#communication) |
 | [Possessions](#possessions) |
@@ -29,34 +29,34 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [Prepositions](#prepositions) |
 | [Space](#space) |
 | [Time](#time) |
-| [Appearances](#appearances) |
+| [Effects](#effects) |
 
 ## Topics
 
-### People and Objects
+### People
 
-#### People and Objects 1/4
+#### People 1/4
 
 | ɴᴏᴜɴ ijo | ɴᴏᴜɴ jan |
 |:-|:-|
 | <img src="musi/pona/ijo.png" height="150"> | <img src="musi/pona/jan.png" height="150"> |
 | *thing* | *person* |
 
-#### People and Objects 2/4
+#### People 2/4
 
 | ᴘʀᴏɴᴏᴜɴ mi | ᴘʀᴏɴᴏᴜɴ sina | ᴘʀᴏɴᴏᴜɴ ona |
 |:-|:-|:-|
 | <img src="musi/pona/mi.png" height="150"> | <img src="musi/pona/sina.png" height="150"> | <img src="musi/pona/ona.png" height="150"> |
 | ɴᴏᴜɴ *I*, *we* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *my*, *our* | ɴᴏᴜɴ *you* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* | ɴᴏᴜɴ *he*, *she*, *it*, *they* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *his*, *her*, *its*, *their* |
 
-#### People and Objects 3/4
+#### People 3/4
 
 | ᴘᴇʀꜱᴏɴ mama | ᴘᴇʀꜱᴏɴ meli | ᴘᴇʀꜱᴏɴ mije |
 |:-|:-|:-|
 | <img src="musi/pona/mama.png" height="150"> | <img src="musi/pona/meli.png" height="150"> | <img src="musi/pona/mije.png" height="150"> |
 | ɴᴏᴜɴ *parent* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of origin* | ɴᴏᴜɴ *female person* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* | ɴᴏᴜɴ *male person* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* |
 
-#### People and Objects 4/4
+#### People 4/4
 
 | ᴛʜɪɴɢ kulupu |
 |:-|
@@ -350,9 +350,9 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/nasin.png" height="150"> | <img src="musi/pona/tenpo.png" height="150"> | <img src="musi/pona/nanpa.png" height="150"> |
 | ɴᴏᴜɴ *direction* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *directed* + <br>ᴠᴇʀʙ *to destine* | ɴᴏᴜɴ *time* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *transitory* + <br>ᴠᴇʀʙ *to occupy* | *one's turn* + <br>ᴠᴇʀʙ *to count* |
 
-### Appearances
+### Effects
 
-#### Appearances 1/2
+#### Effects 1/2
 
 | ᴍᴏᴅɪꜰɪᴇʀ pona | ᴍᴏᴅɪꜰɪᴇʀ ike |
 |:-|:-|
@@ -369,7 +369,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/suwi.png" height="150"> | <img src="musi/pona/jaki.png" height="150"> |
 | ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* | ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter* |
 
-#### Appearances 2/2
+#### Effects 2/2
 
 | ᴛʜɪɴɢ lili | ᴛʜɪɴɢ suli |
 |:-|:-|
