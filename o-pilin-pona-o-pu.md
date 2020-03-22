@@ -7,7 +7,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [People and Things](#people-and-things)
 | [Body Parts](#body-parts)
 | [Materials](#materials)
-| [Colors](#colors)
 | [Information](#information)
 | [Certainty](#certainty)
 | [Possessions](#possessions)
@@ -23,6 +22,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [Time](#time) |
 | [Measurements](#measurements) |
 | [Appearances](#appearances) |
+| [Colors](#colors)
 
 ## People and Things
 
@@ -75,23 +75,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/lupa.png" height="150"> | <img src="musi/pona/nena.png" height="150"> |
 | *flat object* | ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* |
 
-## Colors
-
-| ᴛʜɪɴɢ suno |
-|:-|
-| <img src="musi/pona/suno.png" height="150"> |
-| ɴᴏᴜɴ *light* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *shining* |
-
-| ᴍᴏᴅɪꜰɪᴇʀ kule | ᴍᴏᴅɪꜰɪᴇʀ pimeja | ᴍᴏᴅɪꜰɪᴇʀ walo |
-|:-|:-|:-|
-| <img src="musi/pona/kule.png" height="150"> | <img src="musi/pona/pimeja.png" height="150"> | <img src="musi/pona/walo.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *colourful* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *black* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *white* |
-
-| ᴍᴏᴅɪꜰɪᴇʀ jelo | ᴍᴏᴅɪꜰɪᴇʀ laso | ᴍᴏᴅɪꜰɪᴇʀ loje |
-|:-|:-|:-|
-| <img src="musi/pona/jelo.png" height="150"> | <img src="musi/pona/laso.png" height="150"> | <img src="musi/pona/loje.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *yellow* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blue*, *green* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *red* |
-
 ## Information
 
 | ᴠᴇʀʙ nimi | ᴠᴇʀʙ sitelen | ᴠᴇʀʙ toki |
@@ -125,10 +108,10 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ## Elements
 
-| ᴛʜɪɴɢ ma | ᴛʜɪɴɢ mun |
-|:-|:-|
-| <img src="musi/pona/ma.png" height="150"> | <img src="musi/pona/mun.png" height="150"> |
-| ɴᴏᴜɴ *earth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fixed* | ɴᴏᴜɴ *moon* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *orbiting* |
+| ᴛʜɪɴɢ ma | ᴛʜɪɴɢ mun | | ᴛʜɪɴɢ suno |
+|:-|:-|:-|:-|
+| <img src="musi/pona/ma.png" height="150"> | <img src="musi/pona/mun.png" height="150"> | | <img src="musi/pona/suno.png" height="150"> |
+| ɴᴏᴜɴ *earth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fixed* | ɴᴏᴜɴ *moon* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *orbiting* | | ɴᴏᴜɴ *sun* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *shining* |
 
 | ᴛʜɪɴɢ kiwen | ᴛʜɪɴɢ ko |
 |:-|:-|
@@ -345,5 +328,21 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|:-|:-|
 | <img src="musi/pona/pakala.png" height="150"> | <img src="musi/pona/utala.png" height="150"> | <img src="musi/pona/nasa.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *messed up* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *aggressive* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strange* |
+
+## Colors
+
+### Colors 1/2
+
+| ᴍᴏᴅɪꜰɪᴇʀ kule | ᴍᴏᴅɪꜰɪᴇʀ pimeja | ᴍᴏᴅɪꜰɪᴇʀ walo |
+|:-|:-|:-|
+| <img src="musi/pona/kule.png" height="150"> | <img src="musi/pona/pimeja.png" height="150"> | <img src="musi/pona/walo.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *colourful* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *black* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *white* |
+
+### Colors 2/2
+
+| ᴍᴏᴅɪꜰɪᴇʀ jelo | ᴍᴏᴅɪꜰɪᴇʀ laso | ᴍᴏᴅɪꜰɪᴇʀ loje |
+|:-|:-|:-|
+| <img src="musi/pona/jelo.png" height="150"> | <img src="musi/pona/laso.png" height="150"> | <img src="musi/pona/loje.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *yellow* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blue*, *green* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *red* |
 
 
