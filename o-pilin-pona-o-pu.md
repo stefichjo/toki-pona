@@ -2,7 +2,7 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-| Lessons |
+| Topics |
 |:-|
 | [People and Things](#people-and-things)
 | [Body Parts](#body-parts)
@@ -13,10 +13,11 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [Elements](#elements)
 | [Life-Forms](#life-forms)
 | [Activities](#activities)
+| [Interjections and Conjunctions](#interjections-and-conjunctions) |
 
 | Basics |
 |:-|
-| [Particles](#particles) |
+| [Phrase Markers](#phrase-markers) |
 | [Prepositions](#prepositions) |
 | [Space](#space) |
 | [Time](#time) |
@@ -56,15 +57,21 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ## Body Parts
 
+### Body Parts 1/3
+
 | ᴀʀᴇᴀ + ᴛᴏᴏʟ lawa | ᴀʀᴇᴀ + ᴛᴏᴏʟ luka | ᴀʀᴇᴀ + ᴛᴏᴏʟ noka |
 |:-|:-|:-|
 | <img src="musi/pona/lawa.png" height="150"> | <img src="musi/pona/luka.png" height="150"> | <img src="musi/pona/noka.png" height="150"> |
 | ɴᴏᴜɴ *highest part* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *upper* + <br>ɴᴏᴜɴ *head* → <br>ᴠᴇʀʙ *to guide* | ɴᴏᴜɴ *range* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *reachable* + <br>ɴᴏᴜɴ *hand*, *arm* → <br>ᴠᴇʀʙ *to touch* | ɴᴏᴜɴ *lowest part* → <br>ᴀᴅᴊᴇᴄᴛɪ	ᴠᴇ *lower* + <br>ɴᴏᴜɴ *foot*, *leg* → <br>ᴠᴇʀʙ *to step on* |
 
+### Body Parts 2/3
+
 | ᴛᴏᴏʟ kute | ᴛᴏᴏʟ uta |
 |:-|:-|
 | <img src="musi/pona/kute.png" height="150"> | <img src="musi/pona/uta.png" height="150"> |
 | ɴᴏᴜɴ *ear* → <br>ᴠᴇʀʙ *to hear* | ɴᴏᴜɴ *mouth* → <br>ᴠᴇʀʙ *to kiss* |
+
+### Body Parts 3/3
 
 | ᴛᴏᴏʟ + ᴀᴜxɪʟɪᴀʀʏ lukin | ᴛᴏᴏʟ + ᴀᴜxɪʟɪᴀʀʏ pilin |
 |:-|:-|
@@ -85,10 +92,14 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ## Communication
 
+### Communication 1/2
+
 | ᴠᴇʀʙ nimi | ᴠᴇʀʙ sitelen | ᴠᴇʀʙ toki |
 |:-|:-|:-|
 | <img src="musi/pona/nimi.png" height="150"> | <img src="musi/pona/sitelen.png" height="150"> | <img src="musi/pona/toki.png" height="150"> |
 | *to define* → <br>ɴᴏᴜɴ *word* | *to draw* → <br>ɴᴏᴜɴ *image* | *to communicate* → <br>ɴᴏᴜɴ *speech* |
+
+### Communication 2/2
 
 | ᴍᴏᴅɪꜰɪᴇʀ kalama |
 |:-|
@@ -104,10 +115,14 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ## Possessions
 
+### Possessions 1/2
+
 | ᴠᴇʀʙ jo | ᴠᴇʀʙ pana |
 |:-|:-|
 | <img src="musi/pona/jo.png" height="150"> | <img src="musi/pona/pana.png" height="150"> |
 | *to have* → <br>ɴᴏᴜɴ *property* | *to give* → <br>ɴᴏᴜɴ *gift* |
+
+### Possessions 2/2
 
 | ᴛᴏᴏʟ len | ᴛᴏᴏʟ poki | ᴛᴏᴏʟ tomo |
 |:-|:-|:-|
@@ -131,7 +146,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/kon.png" height="150"> | <img src="musi/pona/telo.png" height="150"> |
 | ɴᴏᴜɴ *air* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *floating* | *wet substance* |
 
-## Life-Forms
+## Life-Forms 1/2
 
 | ʟɪꜰᴇ-ꜰᴏʀᴍ akesi | ʟɪꜰᴇ-ꜰᴏʀᴍ soweli |
 |:-|:-|
@@ -148,12 +163,16 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/kala.png" height="150"> | <img src="musi/pona/kasi.png" height="150"> |
 | ɴᴏᴜɴ *fish* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *swimming* | ɴᴏᴜɴ *vegetation* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vegetating* |
 
+## Life-Forms 2/2
+
 | ᴛʜɪɴɢ kili | ᴛʜɪɴɢ pan |
 |:-|:-|
 | <img src="musi/pona/kili.png" height="150"> | <img src="musi/pona/pan.png" height="150"> |
 | ɴᴏᴜɴ *fruit* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hanging* | ɴᴏᴜɴ *seed* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fallen* |
 
 ## Activities
+
+### Activities 1/2
 
 | ᴠᴇʀʙ alasa | ᴠᴇʀʙ moku |
 |:-|:-|
@@ -170,42 +189,46 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/olin.png" height="150"> | <img src="musi/pona/unpa.png" height="150"> |
 | *to love* → <br>ɴᴏᴜɴ *beloved one* | *to have sex with* → <br>ɴᴏᴜɴ *sexual partner* |
 
+### Activities 2/2
+
 | ᴍᴏᴅɪꜰɪᴇʀ lape | ᴍᴏᴅɪꜰɪᴇʀ moli |
 |:-|:-|
 | <img src="musi/pona/lape.png" height="150"> | <img src="musi/pona/moli.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *resting* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dead* |
 
----
+## Interjections and Conjunctions
 
-## Particles
+### Interjections and Conjunctions 1/2
 
-### Particles 1/4
+| ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ a | ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ ala | ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ mu |
+|:-|:-|:-|
+| <img src="musi/pona/a.png" height="150"> | <img src="musi/pona/ala.png" height="150"> | <img src="musi/pona/mu.png" height="150"> |
+| ᴘᴀʀᴛɪᴄʟᴇ *(confirmation)* | ᴘᴀʀᴛɪᴄʟᴇ *(negation)* | ᴘᴀʀᴛɪᴄʟᴇ *(communication)* |
 
-| ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ li | ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ o |
-|:-|:-|
-| <img src="musi/pona/li.png" height="150"> | <img src="musi/pona/o.png" height="150"> |
-| ᴘᴀʀᴛɪᴄʟᴇ *(indicative)* | ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* |
-
-### Particles 2/4
-
-| ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ e | ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ pi |
-|:-|:-|
-| <img src="musi/pona/e.png" height="150"> | <img src="musi/pona/pi.png" height="150"> |
-| ᴘᴀʀᴛɪᴄʟᴇ *(accusative)* | ᴘᴀʀᴛɪᴄʟᴇ *(genitive)* |
-
-### Particles 3/4
+### Interjections and Conjunctions 2/2
 
 | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ anu | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ en | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ la |
 |:-|:-|:-|
 | <img src="musi/pona/anu.png" height="150"> | <img src="musi/pona/en.png" height="150"> | <img src="musi/pona/la.png" height="150"> |
 | ᴘᴀʀᴛɪᴄʟᴇ *or* | ᴘᴀʀᴛɪᴄʟᴇ *and* | ᴘᴀʀᴛɪᴄʟᴇ *if-then* |
 
-### Particles 4/4
+---
 
-| ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ a | ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ ala | ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ mu |
-|:-|:-|:-|
-| <img src="musi/pona/a.png" height="150"> | <img src="musi/pona/ala.png" height="150"> | <img src="musi/pona/mu.png" height="150"> |
-| ᴘᴀʀᴛɪᴄʟᴇ *(confirmation)* | ᴘᴀʀᴛɪᴄʟᴇ *(negation)* | ᴘᴀʀᴛɪᴄʟᴇ *(communication)* |
+## Phrase Markers
+
+### Phrase Markers 1/4
+
+| ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ li | ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ o |
+|:-|:-|
+| <img src="musi/pona/li.png" height="150"> | <img src="musi/pona/o.png" height="150"> |
+| ᴘᴀʀᴛɪᴄʟᴇ *(indicative)* | ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* |
+
+### Phrase Markers 2/4
+
+| ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ e | ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ pi |
+|:-|:-|
+| <img src="musi/pona/e.png" height="150"> | <img src="musi/pona/pi.png" height="150"> |
+| ᴘᴀʀᴛɪᴄʟᴇ *(accusative)* | ᴘᴀʀᴛɪᴄʟᴇ *(genitive)* |
 
 ## Prepositions
 
