@@ -7,7 +7,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [People and Things](#people-and-things)
 | [Body Parts](#body-parts)
 | [Materials](#materials)
-| [Information](#information)
+| [Communication](#communication)
 | [Certainty](#certainty)
 | [Possessions](#possessions)
 | [Elements](#elements)
@@ -75,7 +75,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/lupa.png" height="150"> | <img src="musi/pona/nena.png" height="150"> |
 | *flat object* | ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* |
 
-## Information
+## Communication
 
 | ᴠᴇʀʙ nimi | ᴠᴇʀʙ sitelen | ᴠᴇʀʙ toki |
 |:-|:-|:-|
