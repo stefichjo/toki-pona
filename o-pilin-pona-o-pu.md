@@ -220,17 +220,37 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ### Prepositions 1/2
 
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ ante | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sama | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ lon | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tan | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
-|:-|:-|:-|:-|:-|:-|:-|
-| <img src="musi/pona/ante.png" height="150"> | <img src="musi/pona/sama.png" height="150"> | | <img src="musi/pona/lon.png" height="150"> | | <img src="musi/pona/tan.png" height="150"> | <img src="musi/pona/tawa.png" height="150"> |
-| *than* | *like* | | *at* | | *from* | *to* |
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ lon |
+|:-|
+| <img src="musi/pona/lon.png" height="150"> |
+| *at* |
+
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tan | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
+|:-|:-|
+| <img src="musi/pona/tan.png" height="150"> | <img src="musi/pona/tawa.png" height="150"> |
+| *from* | *to* |
+
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ ante | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sama |
+|:-|:-|
+| <img src="musi/pona/ante.png" height="150"> | <img src="musi/pona/sama.png" height="150"> |
+| *than* | *like* |
 
 ### Prepositions 2/2
 
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ esun | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ pu | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ kepeken | | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ taso | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sin |
-|:-|:-|:-|:-|:-|:-|:-|
-| <img src="musi/pona/esun.png" height="150"> | <img src="musi/pona/pu.png" height="150"> | | <img src="musi/pona/kepeken.png" height="150"> | | <img src="musi/pona/taso.png" height="150"> | <img src="musi/pona/sin.png" height="150"> |
-| *in exchange for* | *according to* | | *by means of* | | *without* | *with* |	
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ kepeken |
+|:-|
+| <img src="musi/pona/kepeken.png" height="150"> |
+| *by means of* |
+
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ taso | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sin |
+|:-|:-|
+| <img src="musi/pona/taso.png" height="150"> | <img src="musi/pona/sin.png" height="150"> |
+| *without* | *with* |
+
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ esun | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ pu |
+|:-|:-|
+| <img src="musi/pona/esun.png" height="150"> | <img src="musi/pona/pu.png" height="150"> |
+| *in exchange for* | *according to* |
 
 ## Space 
 
