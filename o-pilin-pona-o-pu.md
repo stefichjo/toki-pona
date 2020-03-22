@@ -4,10 +4,18 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ***TODO*** Topic × Specifics × Basics → Lessons
 
+| Topics | Specifics | Basics |
+|:-|:-|:-|
+| People | Numbers | Phrase Markers 1/2 |
+| Things | Correlatives | Prepositions 1/2 |
+| Body | Auxiliaries | Phrase Markers 2/2 <br>Prepositions 2/2 |
+
+
 | Topics |
 |:-|
 | [People](#people) |
-| [Body Parts](#body-parts) |
+| [Things](#things) |
+| [Body](#body) |
 | [Communication](#communication) |
 | [Possessions](#possessions) |
 | [Activities](#activities) |
@@ -16,7 +24,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|
 | [Numbers](#numbers) |
 | [Correlatives](#correlatives) |
-| [Things](#things) |
 | [Auxiliaries](#auxiliaries) |
 | [Life-Forms](#life-forms) |
 | [Modifiers](#modifiers) |
@@ -63,23 +70,67 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/kulupu.png" height="150"> |
 | ɴᴏᴜɴ *community* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *in common* |
 
-### Body Parts
+### Things
 
-#### Body Parts 1/3
+| |
+|:-|
+| [Food](#food) |
+| [Elements](#elements) |
+| [Shapes](#shapes) |
+
+#### Food
+
+| ᴛʜɪɴɢ kili | ᴛʜɪɴɢ pan |
+|:-|:-|
+| <img src="musi/pona/kili.png" height="150"> | <img src="musi/pona/pan.png" height="150"> |
+| ɴᴏᴜɴ *fruit* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hanging* | ɴᴏᴜɴ *seed* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fallen* |
+
+#### Elements
+
+| ᴛʜɪɴɢ ma | ᴛʜɪɴɢ mun | | ᴛʜɪɴɢ suno |
+|:-|:-|:-|:-|
+| <img src="musi/pona/ma.png" height="150"> | <img src="musi/pona/mun.png" height="150"> | | <img src="musi/pona/suno.png" height="150"> |
+| ɴᴏᴜɴ *earth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fixed* | ɴᴏᴜɴ *moon* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *orbiting* | | ɴᴏᴜɴ *sun* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *shining* |
+
+| ᴛʜɪɴɢ kiwen | ᴛʜɪɴɢ ko |
+|:-|:-|
+| <img src="musi/pona/kiwen.png" height="150"> | <img src="musi/pona/ko.png" height="150"> |
+| *hard object* | *semi-solid* |
+
+| ᴛʜɪɴɢ kon | ᴛʜɪɴɢ telo |
+|:-|:-|
+| <img src="musi/pona/kon.png" height="150"> | <img src="musi/pona/telo.png" height="150"> |
+| ɴᴏᴜɴ *air* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *floating* | *wet substance* |
+
+#### Shapes
+
+| ᴛʜɪɴɢ linja | ᴛʜɪɴɢ palisa |
+|:-|:-|
+| <img src="musi/pona/linja.png" height="150"> | <img src="musi/pona/palisa.png" height="150"> |
+| *long flexible thing* | *long hard thing* |
+
+| ᴛʜɪɴɢ lipu | ᴛʜɪɴɢ lupa | ᴛʜɪɴɢ nena |
+|:-|:-|:-|
+| <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/lupa.png" height="150"> | <img src="musi/pona/nena.png" height="150"> |
+| *flat object* | ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* |
+
+### Body
+
+#### Body 1/3
 
 | ᴀʀᴇᴀ + ᴛᴏᴏʟ lawa | ᴀʀᴇᴀ + ᴛᴏᴏʟ luka | ᴀʀᴇᴀ + ᴛᴏᴏʟ noka |
 |:-|:-|:-|
 | <img src="musi/pona/lawa.png" height="150"> | <img src="musi/pona/luka.png" height="150"> | <img src="musi/pona/noka.png" height="150"> |
 | ɴᴏᴜɴ *highest part* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *upper* + <br>ɴᴏᴜɴ *head* → <br>ᴠᴇʀʙ *to guide* | ɴᴏᴜɴ *range* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *reachable* + <br>ɴᴏᴜɴ *hand*, *arm* → <br>ᴠᴇʀʙ *to touch* | ɴᴏᴜɴ *lowest part* → <br>ᴀᴅᴊᴇᴄᴛɪ	ᴠᴇ *lower* + <br>ɴᴏᴜɴ *foot*, *leg* → <br>ᴠᴇʀʙ *to step on* |
 
-#### Body Parts 2/3
+#### Body 2/3
 
 | ᴛᴏᴏʟ kute | ᴛᴏᴏʟ uta |
 |:-|:-|
 | <img src="musi/pona/kute.png" height="150"> | <img src="musi/pona/uta.png" height="150"> |
 | ɴᴏᴜɴ *ear* → <br>ᴠᴇʀʙ *to hear* | ɴᴏᴜɴ *mouth* → <br>ᴠᴇʀʙ *to kiss* |
 
-#### Body Parts 3/3
+#### Body 3/3
 
 | ᴛᴏᴏʟ + ᴀᴜxɪʟɪᴀʀʏ lukin | ᴛᴏᴏʟ + ᴀᴜxɪʟɪᴀʀʏ pilin |
 |:-|:-|
@@ -159,50 +210,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|:-|:-|
 | <img src="musi/pona/ni.png" height="150"> | <img src="musi/pona/seme.png" height="150"> | <img src="musi/pona/ale.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *that*, *this* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *what*, *which* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *all*, *every* |
-
-### Things
-
-| |
-|:-|
-| [Food](#food) |
-| [Elements](#elements) |
-| [Shapes](#shapes) |
-
-#### Food
-
-| ᴛʜɪɴɢ kili | ᴛʜɪɴɢ pan |
-|:-|:-|
-| <img src="musi/pona/kili.png" height="150"> | <img src="musi/pona/pan.png" height="150"> |
-| ɴᴏᴜɴ *fruit* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hanging* | ɴᴏᴜɴ *seed* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fallen* |
-
-#### Elements
-
-| ᴛʜɪɴɢ ma | ᴛʜɪɴɢ mun | | ᴛʜɪɴɢ suno |
-|:-|:-|:-|:-|
-| <img src="musi/pona/ma.png" height="150"> | <img src="musi/pona/mun.png" height="150"> | | <img src="musi/pona/suno.png" height="150"> |
-| ɴᴏᴜɴ *earth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fixed* | ɴᴏᴜɴ *moon* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *orbiting* | | ɴᴏᴜɴ *sun* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *shining* |
-
-| ᴛʜɪɴɢ kiwen | ᴛʜɪɴɢ ko |
-|:-|:-|
-| <img src="musi/pona/kiwen.png" height="150"> | <img src="musi/pona/ko.png" height="150"> |
-| *hard object* | *semi-solid* |
-
-| ᴛʜɪɴɢ kon | ᴛʜɪɴɢ telo |
-|:-|:-|
-| <img src="musi/pona/kon.png" height="150"> | <img src="musi/pona/telo.png" height="150"> |
-| ɴᴏᴜɴ *air* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *floating* | *wet substance* |
-
-#### Shapes
-
-| ᴛʜɪɴɢ linja | ᴛʜɪɴɢ palisa |
-|:-|:-|
-| <img src="musi/pona/linja.png" height="150"> | <img src="musi/pona/palisa.png" height="150"> |
-| *long flexible thing* | *long hard thing* |
-
-| ᴛʜɪɴɢ lipu | ᴛʜɪɴɢ lupa | ᴛʜɪɴɢ nena |
-|:-|:-|:-|
-| <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/lupa.png" height="150"> | <img src="musi/pona/nena.png" height="150"> |
-| *flat object* | ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* |
 
 ### Auxiliaries
 
