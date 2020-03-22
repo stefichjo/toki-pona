@@ -150,7 +150,6 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **pimeja** | *blackish*; *grey* |
 | **pona** | *basic*, *elementary*, *primitive* |
 | **utala** | *aggressive*: *to attack*, *provoke* |
-| **wile** | *inevitable*, *necessary*: *to enforce* |
 
 #### [NUMBER](nasin-nimi.md#number)
 
@@ -205,6 +204,7 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 |:-|:-|:-|
 | **awen** | - | *to continue* |
 | **kama** | - | *achieve*; *let* |
+| **ken** | - | *to enable*: *possibility* |
 | **lukin** | - | *to search for* | *to care for* |
 | **nanpa** | *to be one's turn to* | *to iterate*; *count*; *calculate* |
 | **nasin** | *to be destined to* | *to destine* |
@@ -214,7 +214,7 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 | **sijelo** | - | *to establish* |
 | **sona** | - | …: *knowledge* |
 | **tenpo** | *to be busy with* | *to occupy* |
-| **wile** | *to be bound to*, *can't help but* | *to need*, *require*, *want*, *wish*; *to conclude*; *to decide* |
+| **wile** | *to be bound to*, *can't help but* | *to need*, *require*, *want*, *wish*; *to conclude*; *to decide*, *enforce*: *necessity*: *inevitable*, *necessary* |
 
 #### [PREPOSITION](nasin-nimi.md#preposition)
 

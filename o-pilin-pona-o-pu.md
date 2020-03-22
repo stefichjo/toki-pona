@@ -72,8 +72,6 @@
 | <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/lupa.png" height="150"> | <img src="musi/pona/nena.png" height="150"> |
 | *flat object* | ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* |
 
-***TODO*** concave convex
-
 ## Colors
 
 | ᴛʜɪɴɢ suno |
@@ -185,8 +183,6 @@
 |:-|:-|
 | <img src="musi/pona/ken.png" height="150"> | <img src="musi/pona/wile.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *possible* → <br>ᴠᴇʀʙ *...* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *necessary* → <br>ᴠᴇʀʙ *to want* |
-
-***TODO*** sona dictionary
 
 ---
 
