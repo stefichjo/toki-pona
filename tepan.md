@@ -231,6 +231,15 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 
 ### [PHRASE MARKER](nasin-nimi.md#phrase-marker)
 
+#### [MOOD MARKER](nasin-nimi.md#mood-marker)
+
+| ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ | ᴘᴀʀᴛɪᴄʟᴇ |
+|:-|:-|
+| **li** | *(indicative)* |
+| **o** | *(deontic)* |
+
+#### [CASE MARKER](nasin-nimi.md#case-marker)
+
 ### [CONJUNCTION](nasin-nimi.md#conjunction)
 
 | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ | ᴘᴀʀᴛɪᴄʟᴇ |
