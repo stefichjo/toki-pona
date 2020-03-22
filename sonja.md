@@ -60,6 +60,14 @@ As long as ɴᴀᴍᴇs are single words only (like [place names](#place-names))
 | [**Papuwanijukini**](#place-names) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴀᴍᴇ → ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ |
 | [**Epawan Linkan**](#lesson-9) | ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ɴᴀᴍᴇ → ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇ |
 
+ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇs are introduced as ɴᴏᴜɴs/ᴀᴅᴊᴇᴄᴛɪᴠᴇs. **seme** is introduced as a ᴘᴀʀᴛɪᴄʟᴇ.
+
+| | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|
+| **ale** | ɴᴏᴜɴ/ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ |
+| **ni** | ɴᴏᴜɴ/ᴀᴅᴊᴇᴄᴛɪᴠᴇ | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ |
+| **seme** | ᴘᴀʀᴛɪᴄʟᴇ | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ |
+
 ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀs are called ᴘᴀʀᴛɪᴄʟᴇs.
 
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |

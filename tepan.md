@@ -10,9 +10,9 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
   * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun), [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴛʜɪɴɢ**](#thing) ([**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ᴀʀᴇᴀ**](#area), [**ᴛᴏᴏʟ**](#tool), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form))
   * [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier): [**ɴᴜᴍʙᴇʀ**](#number), [**ᴠᴇʀʙ**](#verb), [**ᴀᴜxɪʟɪᴀʀʏ**](#auxiliary), [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
-  * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ**](#mood), [**ᴄᴀꜱᴇ**](#case)
+  * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ**](#mood-marker), [**ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#case-marker)
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
-  * [**ꜱᴏᴜɴᴅ**](#sound)
+  * [**ᴛᴏᴋɪᴘᴏɴɪᴢᴀᴛɪᴏɴ**](#tokiponization): **ɴᴀᴍᴇ**, **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**
 
 | | |
 |:-|:-|
@@ -50,28 +50,30 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 
 | ᴛʜɪɴɢ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
-| **insa** | *core*, *heart*, *middle* | *internal* |
-| **jaki** | *dirt*, *poison*, *waste*; *shame*: *to condemn* | - |
+| **anpa** | *abyss* | *deep* |
+| **insa** | *core*, *heart* | *internal* |
+| **jaki** | *dirt*, *poison*, *waste*; *shame*: *to condemn* | *bitter* |
 | **kili** | - | *hanging* |
-| **kiwen** | - | *hard* |
+| **kiwen** | - | *hard*, *sharp* |
 | **ko** | - | *semi-solid* |
 | **kon** | - | *floating*, *hovering* |
-| **linja** | - | *long and flexible* |
+| **kulupu** | - | *in common* |
+| **linja** | - | *long and flexible; soft* |
 | **lipu** | - | *flat*, *thin* |
 | **lete** | *frost*, *ice* | - |
-| **lupa** | - | *hollow* |
-| **ma** | - | *firm*: *to tie* |
+| **lupa** | - | *concave*, *hollow* |
+| **ma** | - | *firm*, *fixed*: *to tie* |
 | **mani** | - | *domesticated*, *refined*; *valuable* |
 | **monsi** | - | *dorsal*; *endorsing* |
 | **mun** | - | *orbiting*, *sky-walking* |
 | **mute** | *amount* | - |
 | **nasin** | - | *ordinary*, *usual* |
-| **nena** | - | *outstanding*, *thick* |
+| **nena** | - | *convex*, *outstanding*, *thick* |
 | **palisa** | - | *long and hard* |
 | **pan** | *seed* | *fallen*, *dropped*; *sown* |
 | **pimeja** | *shadow* | - |
 | **poka** | *square* | *lateral* |
-| **seli** | - | *warm*; *cooked* |
+| **seli** | - | *hot*, *warm*; *cooked* |
 | **sijelo** | *life-form* | *alive* |
 | **sike** | *age*; *lap* | *old*: *to fulfil* |
 | **sinpin** | *something upright* | *upright*; *barring*, *blocking* |
@@ -80,6 +82,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **supa** | *lying on*, *sitting on*; *block*; *step*; *ladder*, *stairs* | *sustaining* |
 | **telo** | - | *wet* |
 | **wawa** | *force* | - |
+| **weka** | *space*; *vacuum*, *void* | *vast* |
 
 (Cf. [ᴋɪᴘᴏ](kipo.md#content-words).)
 
@@ -95,19 +98,22 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | ᴀʀᴇᴀ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
 |:-|:-|:-|
 | **awen** | …: *as long as*, *while* | *present*; *current* |
-| **insa** | - | *inner* |
+| **insa** | *middle* | *inner* |
 | **kama** | *upcoming*: *before*, *in the beginning*, *since*, *until* | *next* |
 | **lawa** | - | *main* |
+| **luka** | *range* | *reachable*: *to reach* |
 | **monsi** | - | *rear* |
-| **nanpa** | *someone's turn* | *to be someone's turn* |
-| **noka** | …: *below*, *under*; *depending on* | *lower* |
+| **nanpa** | *one's turn* | *to be one's turn* |
+| **nasin** | *dimension*, *direction* | *directed* |
+| **noka** | …: *below*, *under*; *depending on* | *low*, *lower* |
 | **open** | *entrance* | *accessible* |
-| **pini** | *end*: *after*, *in the end* | *previous*, *last*; *disappearing*; *closed*, *sealed* |
+| **pini** | *end*: *after*, *in the end*; *closure* | *previous*, *last*; *disappearing*; *closed*, *sealed* |
 | **poka** | …: *among*; *area surrounding*: *around* | *surrounding* |
 | **sewi** | …: *above*, *over*; *at the top of* | *high*; *upper* |
+| **sijelo** | *configuration*, *mode*, *state* | *physical* |
 | **supa** | …: *on* | *horizontal* |
 | **tenpo** | …: *for* | *transitory* |
-| **weka** | *distance*: *away from* | …: *space*; *vacuum*, *void* |
+| **weka** | *distance*: *away from* | - |
 
 ##### [TOOL](nasin-nimi.md#tool)
 
@@ -119,7 +125,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **noka** | - | *to step on*, *kick* |
 | **palisa** | *finger* | *to point at* |
 | **pilin** | - | *to sense* |
-| **poki** | *bladder* | *to collect* |
+| **poki** | *bladder* | *to contain* |
 | **selo** | - | *to form* |
 | **uta** | - | *to suck, taste* 
 
@@ -144,7 +150,6 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **pimeja** | *blackish*; *grey* |
 | **pona** | *basic*, *elementary*, *primitive* |
 | **utala** | *aggressive*: *to attack*, *provoke* |
-| **wile** | *inevitable*, *necessary*: *to enforce* |
 
 #### [NUMBER](nasin-nimi.md#number)
 
@@ -183,11 +188,15 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 
 | ᴠᴇʀʙ | ᴠᴇʀʙ | ɴᴏᴜɴ |
 |:-|:-|:-|
-| **jo** | …: *to fetch*, *pick* | - |
+| **alasa** | - | *prey* |
+| **jo** | …: *to fetch*, *pick* | *property* |
+| **musi** | *to play with* | *game* |
 | **nimi** | *to define* | - |
 | **olin** | …: *love*: *of love* | - |
+| **pana** | - | *gift* |
 | **sitelen** | *to draw*, *indicate*, *project*, *represent*, *sculpture* | *projection*, *sculpture* |
 | **toki** | - | *message*, *news* |
+| **unpa** | *to have sex with* | *sexual partner* |
 
 #### [AUXILIARY](nasin-nimi.md#auxiliary)
 
@@ -195,14 +204,17 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 |:-|:-|:-|
 | **awen** | - | *to continue* |
 | **kama** | - | *achieve*; *let* |
+| **ken** | - | *to enable*: *possibility* |
 | **lukin** | - | *to search for* | *to care for* |
-| **nanpa** | *to be someone's turn to* | *to iterate*; *count*; *calculate* |
-| **open** | *to be ready to* | *to set up* |
+| **nanpa** | *to be one's turn to* | *to iterate*; *count*; *calculate* |
+| **nasin** | *to be destined to* | *to destine* |
+| **open** | *to be ready to* | *to set up*: *start* |
 | **pilin** | *to feel like* | *to have the impression that* |
-| **pini** | *to stop -ing* | - |
+| **pini** | *to stop -ing* | *to cancel* |
+| **sijelo** | *to be -ing* | *to establish* |
 | **sona** | - | …: *knowledge* |
 | **tenpo** | *to be busy with* | *to occupy* |
-| **wile** | *to be bound to*, *can't help but* | *to need*, *require*, *want*, *wish*; *to conclude*; *to decide* |
+| **wile** | *to be bound to*, *can't help but* | *to need*, *require*, *want*, *wish*; *to conclude*; *to decide*, *enforce*: *necessity*: *inevitable*, *necessary* |
 
 #### [PREPOSITION](nasin-nimi.md#preposition)
 
@@ -219,19 +231,31 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 
 ### [PHRASE MARKER](nasin-nimi.md#phrase-marker)
 
+#### [MOOD MARKER](nasin-nimi.md#mood-marker)
+
+| ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ | ᴘᴀʀᴛɪᴄʟᴇ |
+|:-|:-|
+| **li** | *(indicative)* |
+| **o** | *(deontic)* |
+
+#### [CASE MARKER](nasin-nimi.md#case-marker)
+
 ### [CONJUNCTION](nasin-nimi.md#conjunction)
 
 | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ | ᴘᴀʀᴛɪᴄʟᴇ |
 |:-|:-|
 | **anu** | *(alternative)* |
 
-### [SOUND](nasin-nimi.md#sound)
+### [TOKIPONIZATION](nasin-nimi.md#tokiponization)
 
-| ꜱᴏᴜɴᴅ | ᴘᴀʀᴛɪᴄʟᴇ | ᴀᴅᴠᴇʀʙ |
+| ᴛᴏᴋɪᴘᴏɴɪᴢᴀᴛɪᴏɴ | ᴘᴀʀᴛɪᴄʟᴇ | ᴀᴅᴠᴇʀʙ |
 |:-|:-|:-|
 | **a** | - | *indeed*; *still*, *too*; *yes* |
 | **ala** | *(negation)* | - |
 | **mu** | *(indifference)* | *-ish*, *sort-of*; *blah* |
+
+| ɴᴀᴍᴇ | ᴘᴀʀᴛɪᴄʟᴇ | ᴀᴅᴠᴇʀʙ |
+|:-|:-|:-|
 | **Pu** | *name of the official Toki Pona book*: *the official Toki Pona book*, *"Pu"* | - |
 
 ꜰʀᴀɢᴍᴇɴᴛs can be used as **ɴᴀᴍᴇ**s. ᴘᴀʀᴛɪᴄʟᴇs and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs in ꜰʀᴀɢᴍᴇɴᴛs aren't as restricted as in ꜱᴇɴᴛᴇɴᴄᴇs.
@@ -242,15 +266,18 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 
 ## Synonyms
 
+***TODO sync with examples above***
+
 | | ⇐ | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|:-|
 | **ante** | **esun** | *other* | *instead of* |
 | **ante lon poka** | **ante** | - | *than*, *unlike* |
 | **awen** | **tomo** | *protected*, *safe*; *to help in peril*, *protect* | - |
 | **ike** | **akesi** | *hostile* | - |
+| **kiwen** | **palisa** | - | *rigid* |
 | **kulupu** | **lawa** | - | *arrangement*, *organization* |
 | **kulupu** | **mute** | - | *multitude*, *set* |
-| **lon** | **kepeken** | - | *according to*, *along* |
+| **lon** | **pu** | - | *according to*, *along* |
 | **noka** | **anpa** | *area below or under* | …: *below*, *under*; *depending on* |
 | **open** | **kama** | *begin*, *start* | - |
 | **pini** | **selo** | - | …: *last*; *closed*, *sealed* |
