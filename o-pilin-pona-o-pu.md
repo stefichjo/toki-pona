@@ -7,6 +7,7 @@
 | [Materials](#materials)
 | [Colors](#colors)
 | [Information](#information)
+| [Certainty](#certainty)
 | [Possessions](#possessions)
 | [Elements](#elements)
 | [Life-Forms](#life-forms)
@@ -96,15 +97,17 @@
 | <img src="musi/pona/nimi.png" height="150"> | <img src="musi/pona/sitelen.png" height="150"> | <img src="musi/pona/toki.png" height="150"> |
 | *to define* → <br>ɴᴏᴜɴ *word* | *to draw* → <br>ɴᴏᴜɴ *image* | *to communicate* → <br>ɴᴏᴜɴ *speech* |
 
-| ᴀᴜxɪʟɪᴀʀʏ sona |
-|:-|
-| <img src="musi/pona/sona.png" height="150"> |
-| ᴠᴇʀʙ *to know* |
-
 | ᴍᴏᴅɪꜰɪᴇʀ kalama |
 |:-|
 | <img src="musi/pona/kalama.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *producing a sound* |
+
+## Certainty
+
+| ᴀᴜxɪʟɪᴀʀʏ ken | ᴀᴜxɪʟɪᴀʀʏ sona | ᴀᴜxɪʟɪᴀʀʏ wile |
+|:-|:-|:-|
+| <img src="musi/pona/ken.png" height="150"> | <img src="musi/pona/sona.png" height="150"> | <img src="musi/pona/wile.png" height="150"> |
+| ᴠᴇʀʙ *to enable* | ᴠᴇʀʙ *to know* | ᴠᴇʀʙ *to enforce* |
 
 ## Possessions
 
@@ -178,11 +181,6 @@
 |:-|:-|
 | <img src="musi/pona/lape.png" height="150"> | <img src="musi/pona/moli.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *resting* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dead* |
-
-| ᴍᴏᴅɪꜰɪᴇʀ + ᴀᴜxɪʟɪᴀʀʏ ken | ᴍᴏᴅɪꜰɪᴇʀ + ᴀᴜxɪʟɪᴀʀʏ wile |
-|:-|:-|
-| <img src="musi/pona/ken.png" height="150"> | <img src="musi/pona/wile.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *possible* → <br>ᴠᴇʀʙ *...* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *necessary* → <br>ᴠᴇʀʙ *to want* |
 
 ---
 
