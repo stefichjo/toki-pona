@@ -9,7 +9,11 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | People | Numbers | Phrase Markers 1/2 |
 | Things | Correlatives | Prepositions 1/2 |
 | Body | Auxiliaries | Phrase Markers 2/2 <br>Prepositions 2/2 |
-| Life-Forms | | |
+| Life-Forms | Interjections | Space 1/3 <br>Time 1/3 |
+| Communication | Conjunctions 1/2 | Space 2/3 <br>Time 2/3 |
+| Possessions | Conjunctions 2/2 | Space 3/3 <br>Time 3/3 |
+| Activities | | Effects 1/2 |
+| Colors | | Effects 2/2 |
 
 
 | Topics |
@@ -362,23 +366,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 #### Effects 1/2
 
-| ᴍᴏᴅɪꜰɪᴇʀ pona | ᴍᴏᴅɪꜰɪᴇʀ ike |
-|:-|:-|
-| <img src="musi/pona/pona.png" height="150"> | <img src="musi/pona/ike.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bad* |
-
-| ᴍᴏᴅɪꜰɪᴇʀ pakala | ᴍᴏᴅɪꜰɪᴇʀ utala | ᴍᴏᴅɪꜰɪᴇʀ nasa |
-|:-|:-|:-|
-| <img src="musi/pona/pakala.png" height="150"> | <img src="musi/pona/utala.png" height="150"> | <img src="musi/pona/nasa.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *messed up* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *aggressive* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strange* |
-
-| ᴛʜɪɴɢ suwi | ᴛʜɪɴɢ jaki |
-|:-|:-|
-| <img src="musi/pona/suwi.png" height="150"> | <img src="musi/pona/jaki.png" height="150"> |
-| ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* | ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter* |
-
-#### Effects 2/2
-
 | ᴛʜɪɴɢ lili | ᴛʜɪɴɢ suli |
 |:-|:-|
 | <img src="musi/pona/lili.png" height="150"> | <img src="musi/pona/suli.png" height="150"> |
@@ -393,5 +380,22 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|:-|
 | <img src="musi/pona/lete.png" height="150"> | <img src="musi/pona/seli.png" height="150"> |
 | ɴᴏᴜɴ *frost* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold* | ɴᴏᴜɴ *heat source* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* |
+
+#### Effects 2/2
+
+| ᴍᴏᴅɪꜰɪᴇʀ pona | ᴍᴏᴅɪꜰɪᴇʀ ike |
+|:-|:-|
+| <img src="musi/pona/pona.png" height="150"> | <img src="musi/pona/ike.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bad* |
+
+| ᴍᴏᴅɪꜰɪᴇʀ pakala | ᴍᴏᴅɪꜰɪᴇʀ utala | ᴍᴏᴅɪꜰɪᴇʀ nasa |
+|:-|:-|:-|
+| <img src="musi/pona/pakala.png" height="150"> | <img src="musi/pona/utala.png" height="150"> | <img src="musi/pona/nasa.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *messed up* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *aggressive* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strange* |
+
+| ᴛʜɪɴɢ suwi | ᴛʜɪɴɢ jaki |
+|:-|:-|
+| <img src="musi/pona/suwi.png" height="150"> | <img src="musi/pona/jaki.png" height="150"> |
+| ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* | ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter* |
 
 
