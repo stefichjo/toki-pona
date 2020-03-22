@@ -13,16 +13,18 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [Communication](#communication)
 | [Possessions](#possessions)
 | [Activities](#activities)
-| [Interjections and Conjunctions](#interjections-and-conjunctions) |
 
-| Foo |
+| Foo "Singletons" |
 |:-|
-| [Measurements](#measurements) |
+| [Numbers](#numbers) |
+| [Correlatives](#correlatives) |
 | [Materials](#materials)
 | [Certainty](#certainty)
 | [Elements](#elements)
 | [Life-Forms](#life-forms)
 | [Colors](#colors)
+| [Interjections](#interjections) |
+| [Conjunctions](#conjunctions) |
 
 | Basics |
 |:-|
@@ -145,34 +147,16 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/lape.png" height="150"> | <img src="musi/pona/moli.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *resting* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dead* |
 
-### Interjections and Conjunctions
-
-#### Interjections and Conjunctions 1/2
-
-| ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ a | ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ ala | ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ mu |
-|:-|:-|:-|
-| <img src="musi/pona/a.png" height="150"> | <img src="musi/pona/ala.png" height="150"> | <img src="musi/pona/mu.png" height="150"> |
-| ᴘᴀʀᴛɪᴄʟᴇ *(confirmation)* | ᴘᴀʀᴛɪᴄʟᴇ *(negation)* | ᴘᴀʀᴛɪᴄʟᴇ *(communication)* |
-
-#### Interjections and Conjunctions 2/2
-
-| ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ anu | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ en | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ la |
-|:-|:-|:-|
-| <img src="musi/pona/anu.png" height="150"> | <img src="musi/pona/en.png" height="150"> | <img src="musi/pona/la.png" height="150"> |
-| ᴘᴀʀᴛɪᴄʟᴇ *or* | ᴘᴀʀᴛɪᴄʟᴇ *and* | ᴘᴀʀᴛɪᴄʟᴇ *if-then* |
-
 ## Foo
 
-### Measurements
-
-#### Measurements 1/2
+### Numbers
 
 | ɴᴜᴍʙᴇʀ wan | ɴᴜᴍʙᴇʀ tu | ɴᴜᴍʙᴇʀ mute |
 |:-|:-|:-|
 | <img src="musi/pona/wan.png" height="150"> | <img src="musi/pona/tu.png" height="150"> | <img src="musi/pona/mute.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *one* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *three* |
 
-#### Measurements 2/2
+### Correlatives
 
 | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ni | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ seme | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ale |
 |:-|:-|:-|
@@ -243,19 +227,29 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ### Colors
 
-#### Colors 1/2
-
 | ᴍᴏᴅɪꜰɪᴇʀ kule | ᴍᴏᴅɪꜰɪᴇʀ pimeja | ᴍᴏᴅɪꜰɪᴇʀ walo |
 |:-|:-|:-|
 | <img src="musi/pona/kule.png" height="150"> | <img src="musi/pona/pimeja.png" height="150"> | <img src="musi/pona/walo.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *colourful* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *black* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *white* |
 
-#### Colors 2/2
-
 | ᴍᴏᴅɪꜰɪᴇʀ jelo | ᴍᴏᴅɪꜰɪᴇʀ laso | ᴍᴏᴅɪꜰɪᴇʀ loje |
 |:-|:-|:-|
 | <img src="musi/pona/jelo.png" height="150"> | <img src="musi/pona/laso.png" height="150"> | <img src="musi/pona/loje.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *yellow* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blue*, *green* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *red* |
+
+### Interjections
+
+| ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ a | ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ ala | ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ mu |
+|:-|:-|:-|
+| <img src="musi/pona/a.png" height="150"> | <img src="musi/pona/ala.png" height="150"> | <img src="musi/pona/mu.png" height="150"> |
+| ᴘᴀʀᴛɪᴄʟᴇ *(confirmation)* | ᴘᴀʀᴛɪᴄʟᴇ *(negation)* | ᴘᴀʀᴛɪᴄʟᴇ *(communication)* |
+
+### Conjunctions
+
+| ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ anu | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ en | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ la |
+|:-|:-|:-|
+| <img src="musi/pona/anu.png" height="150"> | <img src="musi/pona/en.png" height="150"> | <img src="musi/pona/la.png" height="150"> |
+| ᴘᴀʀᴛɪᴄʟᴇ *or* | ᴘᴀʀᴛɪᴄʟᴇ *and* | ᴘᴀʀᴛɪᴄʟᴇ *if-then* |
 
 ## Basics
 
