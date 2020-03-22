@@ -9,6 +9,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | People | Numbers | Phrase Markers 1/2 |
 | Things | Correlatives | Prepositions 1/2 |
 | Body | Auxiliaries | Phrase Markers 2/2 <br>Prepositions 2/2 |
+| Life-Forms | | |
 
 
 | Topics |
@@ -16,17 +17,17 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [People](#people) |
 | [Things](#things) |
 | [Body](#body) |
+| [Life-Forms](#life-forms) |
 | [Communication](#communication) |
 | [Possessions](#possessions) |
 | [Activities](#activities) |
+| [Colors](#colors) |
 
 | Specifics |
 |:-|
 | [Numbers](#numbers) |
 | [Correlatives](#correlatives) |
 | [Auxiliaries](#auxiliaries) |
-| [Life-Forms](#life-forms) |
-| [Modifiers](#modifiers) |
 | [Interjections](#interjections) |
 | [Conjunctions](#conjunctions) |
 
@@ -137,6 +138,23 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/lukin.png" height="150"> | <img src="musi/pona/pilin.png" height="150"> |
 | ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to see* + <br>ᴠᴇʀʙ *to care for* | ɴᴏᴜɴ *heart* → <br>ᴠᴇʀʙ *to sense* + <br>ᴠᴇʀʙ *to have the impression that* |
 
+### Life-Forms
+
+| ʟɪꜰᴇ-ꜰᴏʀᴍ akesi | ʟɪꜰᴇ-ꜰᴏʀᴍ soweli |
+|:-|:-|
+| <img src="musi/pona/akesi.png" height="150"> | <img src="musi/pona/soweli.png" height="150"> |
+| ɴᴏᴜɴ *amphibian*, *reptile* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded* | ɴᴏᴜɴ *land mammal* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *warm-blooded* |
+
+| ʟɪꜰᴇ-ꜰᴏʀᴍ pipi | ʟɪꜰᴇ-ꜰᴏʀᴍ waso |
+|:-|:-|
+| <img src="musi/pona/pipi.png" height="150"> | <img src="musi/pona/waso.png" height="150"> |
+| ɴᴏᴜɴ *insect* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *crawling* | ɴᴏᴜɴ *bird* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flying* |
+
+| ʟɪꜰᴇ-ꜰᴏʀᴍ kala | ʟɪꜰᴇ-ꜰᴏʀᴍ kasi |
+|:-|:-|
+| <img src="musi/pona/kala.png" height="150"> | <img src="musi/pona/kasi.png" height="150"> |
+| ɴᴏᴜɴ *fish* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *swimming* | ɴᴏᴜɴ *vegetation* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vegetating* |
+
 ### Communication
 
 #### Communication 1/2
@@ -195,6 +213,18 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/lape.png" height="150"> | <img src="musi/pona/moli.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *resting* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dead* |
 
+### Colors
+
+| ᴍᴏᴅɪꜰɪᴇʀ kule | ᴍᴏᴅɪꜰɪᴇʀ pimeja | ᴍᴏᴅɪꜰɪᴇʀ walo |
+|:-|:-|:-|
+| <img src="musi/pona/kule.png" height="150"> | <img src="musi/pona/pimeja.png" height="150"> | <img src="musi/pona/walo.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *colourful* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *black* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *white* |
+
+| ᴍᴏᴅɪꜰɪᴇʀ jelo | ᴍᴏᴅɪꜰɪᴇʀ laso | ᴍᴏᴅɪꜰɪᴇʀ loje |
+|:-|:-|:-|
+| <img src="musi/pona/jelo.png" height="150"> | <img src="musi/pona/laso.png" height="150"> | <img src="musi/pona/loje.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *yellow* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blue*, *green* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *red* |
+
 ## Specifics
 
 ### Numbers
@@ -217,35 +247,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|:-|:-|
 | <img src="musi/pona/ken.png" height="150"> | <img src="musi/pona/sona.png" height="150"> | <img src="musi/pona/wile.png" height="150"> |
 | ᴠᴇʀʙ *to enable* | ᴠᴇʀʙ *to know* | ᴠᴇʀʙ *to enforce* |
-
-### Life-Forms
-
-| ʟɪꜰᴇ-ꜰᴏʀᴍ akesi | ʟɪꜰᴇ-ꜰᴏʀᴍ soweli |
-|:-|:-|
-| <img src="musi/pona/akesi.png" height="150"> | <img src="musi/pona/soweli.png" height="150"> |
-| ɴᴏᴜɴ *amphibian*, *reptile* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded* | ɴᴏᴜɴ *land mammal* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *warm-blooded* |
-
-| ʟɪꜰᴇ-ꜰᴏʀᴍ pipi | ʟɪꜰᴇ-ꜰᴏʀᴍ waso |
-|:-|:-|
-| <img src="musi/pona/pipi.png" height="150"> | <img src="musi/pona/waso.png" height="150"> |
-| ɴᴏᴜɴ *insect* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *crawling* | ɴᴏᴜɴ *bird* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flying* |
-
-| ʟɪꜰᴇ-ꜰᴏʀᴍ kala | ʟɪꜰᴇ-ꜰᴏʀᴍ kasi |
-|:-|:-|
-| <img src="musi/pona/kala.png" height="150"> | <img src="musi/pona/kasi.png" height="150"> |
-| ɴᴏᴜɴ *fish* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *swimming* | ɴᴏᴜɴ *vegetation* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vegetating* |
-
-### Modifiers
-
-| ᴍᴏᴅɪꜰɪᴇʀ kule | ᴍᴏᴅɪꜰɪᴇʀ pimeja | ᴍᴏᴅɪꜰɪᴇʀ walo |
-|:-|:-|:-|
-| <img src="musi/pona/kule.png" height="150"> | <img src="musi/pona/pimeja.png" height="150"> | <img src="musi/pona/walo.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *colourful* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *black* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *white* |
-
-| ᴍᴏᴅɪꜰɪᴇʀ jelo | ᴍᴏᴅɪꜰɪᴇʀ laso | ᴍᴏᴅɪꜰɪᴇʀ loje |
-|:-|:-|:-|
-| <img src="musi/pona/jelo.png" height="150"> | <img src="musi/pona/laso.png" height="150"> | <img src="musi/pona/loje.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *yellow* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blue*, *green* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *red* |
 
 ### Interjections
 
