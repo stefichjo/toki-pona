@@ -8,7 +8,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 | Topics |
 |:-|
-| [People and Things](#people-and-things)
+| [People and Objects](#people-and-objects)
 | [Body Parts](#body-parts)
 | [Communication](#communication)
 | [Possessions](#possessions)
@@ -22,6 +22,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [Certainty](#certainty)
 | [Elements](#elements)
 | [Life-Forms](#life-forms)
+| [Food](#food)
 | [Colors](#colors)
 | [Interjections](#interjections) |
 | [Conjunctions](#conjunctions) |
@@ -36,30 +37,30 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ## Topics
 
-### People and Things
+### People and Objects
 
-#### People and Things 1/4
+#### People and Objects 1/4
 
 | ɴᴏᴜɴ ijo | ɴᴏᴜɴ jan |
 |:-|:-|
 | <img src="musi/pona/ijo.png" height="150"> | <img src="musi/pona/jan.png" height="150"> |
 | *thing* | *person* |
 
-#### People and Things 2/4
+#### People and Objects 2/4
 
 | ᴘʀᴏɴᴏᴜɴ mi | ᴘʀᴏɴᴏᴜɴ sina | ᴘʀᴏɴᴏᴜɴ ona |
 |:-|:-|:-|
 | <img src="musi/pona/mi.png" height="150"> | <img src="musi/pona/sina.png" height="150"> | <img src="musi/pona/ona.png" height="150"> |
 | ɴᴏᴜɴ *I*, *we* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *my*, *our* | ɴᴏᴜɴ *you* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* | ɴᴏᴜɴ *he*, *she*, *it*, *they* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *his*, *her*, *its*, *their* |
 
-#### People and Things 3/4
+#### People and Objects 3/4
 
 | ᴘᴇʀꜱᴏɴ mama | ᴘᴇʀꜱᴏɴ meli | ᴘᴇʀꜱᴏɴ mije |
 |:-|:-|:-|
 | <img src="musi/pona/mama.png" height="150"> | <img src="musi/pona/meli.png" height="150"> | <img src="musi/pona/mije.png" height="150"> |
 | ɴᴏᴜɴ *parent* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of origin* | ɴᴏᴜɴ *female person* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* | ɴᴏᴜɴ *male person* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* |
 
-#### People and Things 4/4
+#### People and Objects 4/4
 
 | ᴛʜɪɴɢ kulupu |
 |:-|
@@ -201,8 +202,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ### Life-Form
 
-#### Life-Forms 1/2
-
 | ʟɪꜰᴇ-ꜰᴏʀᴍ akesi | ʟɪꜰᴇ-ꜰᴏʀᴍ soweli |
 |:-|:-|
 | <img src="musi/pona/akesi.png" height="150"> | <img src="musi/pona/soweli.png" height="150"> |
@@ -218,7 +217,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/kala.png" height="150"> | <img src="musi/pona/kasi.png" height="150"> |
 | ɴᴏᴜɴ *fish* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *swimming* | ɴᴏᴜɴ *vegetation* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vegetating* |
 
-#### Life-Forms 2/2
+### Food
 
 | ᴛʜɪɴɢ kili | ᴛʜɪɴɢ pan |
 |:-|:-|
