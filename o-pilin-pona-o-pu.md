@@ -1,6 +1,18 @@
 # o pilin pona o pu!
 
-| References |
+| Course |
+|:-|
+| [People and Things](#people-and-things)
+| [Body Parts](#body-parts)
+| [Materials](#materials)
+| [Colors](#colors)
+| [Information](#information)
+| [Possessions](#possessions)
+| [Elements](#elements)
+| [Life-Forms](#life-forms)
+| [Activities](#activities)
+
+| Basics |
 |:-|
 | [Particles](#particles) |
 | [Prepositions](#prepositions) |
@@ -64,6 +76,23 @@
 |:-|
 | <img src="musi/pona/lupa.png" height="150"> |
 | ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* |
+
+## Colors
+
+| ᴛʜɪɴɢ suno |
+|:-|
+| <img src="musi/pona/suno.png" height="150"> |
+| ɴᴏᴜɴ *light* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *shining* |
+
+| ᴍᴏᴅɪꜰɪᴇʀ kule | ᴍᴏᴅɪꜰɪᴇʀ pimeja | ᴍᴏᴅɪꜰɪᴇʀ walo |
+|:-|:-|:-|
+| <img src="musi/pona/kule.png" height="150"> | <img src="musi/pona/pimeja.png" height="150"> | <img src="musi/pona/walo.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *colourful* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *black* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *white* |
+
+| ᴍᴏᴅɪꜰɪᴇʀ jelo | ᴍᴏᴅɪꜰɪᴇʀ laso | ᴍᴏᴅɪꜰɪᴇʀ loje |
+|:-|:-|:-|
+| <img src="musi/pona/jelo.png" height="150"> | <img src="musi/pona/laso.png" height="150"> | <img src="musi/pona/loje.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *yellow* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blue*, *green* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *red* |
 
 ## Information
 
@@ -161,23 +190,6 @@
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *possible* → <br>ᴠᴇʀʙ *...* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *necessary* → <br>ᴠᴇʀʙ *to want* |
 
 ***TODO*** sona dictionary
-
-## Light
-
-| ᴛʜɪɴɢ suno |
-|:-|
-| <img src="musi/pona/suno.png" height="150"> |
-| ɴᴏᴜɴ *light* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *shining* |
-
-| ᴍᴏᴅɪꜰɪᴇʀ kule | ᴍᴏᴅɪꜰɪᴇʀ pimeja | ᴍᴏᴅɪꜰɪᴇʀ walo |
-|:-|:-|:-|
-| <img src="musi/pona/kule.png" height="150"> | <img src="musi/pona/pimeja.png" height="150"> | <img src="musi/pona/walo.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *colourful* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *black* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *white* |
-
-| ᴍᴏᴅɪꜰɪᴇʀ jelo | ᴍᴏᴅɪꜰɪᴇʀ laso | ᴍᴏᴅɪꜰɪᴇʀ loje |
-|:-|:-|:-|
-| <img src="musi/pona/jelo.png" height="150"> | <img src="musi/pona/laso.png" height="150"> | <img src="musi/pona/loje.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *yellow* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blue*, *green* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *red* |
 
 ---
 
