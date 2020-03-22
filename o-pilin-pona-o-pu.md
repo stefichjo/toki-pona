@@ -8,22 +8,20 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 | Topics |
 |:-|
-| [People and Objects](#people-and-objects)
-| [Body Parts](#body-parts)
-| [Communication](#communication)
-| [Possessions](#possessions)
-| [Activities](#activities)
+| [People and Objects](#people-and-objects) |
+| [Body Parts](#body-parts) |
+| [Communication](#communication) |
+| [Possessions](#possessions) |
+| [Activities](#activities) |
 
 | Foo "Singletons" |
 |:-|
 | [Numbers](#numbers) |
 | [Correlatives](#correlatives) |
-| [Materials](#materials)
-| [Certainty](#certainty)
-| [Elements](#elements)
-| [Life-Forms](#life-forms)
-| [Food](#food)
-| [Colors](#colors)
+| [Things](#things) |
+| [Auxiliaries](#auxiliaries) |
+| [Life-Forms](#life-forms) |
+| [Modifiers](#modifiers) |
 | [Interjections](#interjections) |
 | [Conjunctions](#conjunctions) |
 
@@ -164,7 +162,22 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/ni.png" height="150"> | <img src="musi/pona/seme.png" height="150"> | <img src="musi/pona/ale.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *that*, *this* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *what*, *which* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *all*, *every* |
 
-### Materials
+### Things
+
+| |
+|:-|
+| [Food](#food) |
+| [Materials](#materials) |
+| [Elements](#elements) |
+
+#### Food
+
+| ᴛʜɪɴɢ kili | ᴛʜɪɴɢ pan |
+|:-|:-|
+| <img src="musi/pona/kili.png" height="150"> | <img src="musi/pona/pan.png" height="150"> |
+| ɴᴏᴜɴ *fruit* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hanging* | ɴᴏᴜɴ *seed* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fallen* |
+
+#### Materials
 
 | ᴛʜɪɴɢ linja | ᴛʜɪɴɢ palisa |
 |:-|:-|
@@ -176,14 +189,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/lupa.png" height="150"> | <img src="musi/pona/nena.png" height="150"> |
 | *flat object* | ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* |
 
-### Certainty
-
-| ᴀᴜxɪʟɪᴀʀʏ ken | ᴀᴜxɪʟɪᴀʀʏ sona | ᴀᴜxɪʟɪᴀʀʏ wile |
-|:-|:-|:-|
-| <img src="musi/pona/ken.png" height="150"> | <img src="musi/pona/sona.png" height="150"> | <img src="musi/pona/wile.png" height="150"> |
-| ᴠᴇʀʙ *to enable* | ᴠᴇʀʙ *to know* | ᴠᴇʀʙ *to enforce* |
-
-### Elements
+#### Elements
 
 | ᴛʜɪɴɢ ma | ᴛʜɪɴɢ mun | | ᴛʜɪɴɢ suno |
 |:-|:-|:-|:-|
@@ -200,7 +206,14 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/kon.png" height="150"> | <img src="musi/pona/telo.png" height="150"> |
 | ɴᴏᴜɴ *air* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *floating* | *wet substance* |
 
-### Life-Form
+### Auxiliaries
+
+| ᴀᴜxɪʟɪᴀʀʏ ken | ᴀᴜxɪʟɪᴀʀʏ sona | ᴀᴜxɪʟɪᴀʀʏ wile |
+|:-|:-|:-|
+| <img src="musi/pona/ken.png" height="150"> | <img src="musi/pona/sona.png" height="150"> | <img src="musi/pona/wile.png" height="150"> |
+| ᴠᴇʀʙ *to enable* | ᴠᴇʀʙ *to know* | ᴠᴇʀʙ *to enforce* |
+
+### Life-Forms
 
 | ʟɪꜰᴇ-ꜰᴏʀᴍ akesi | ʟɪꜰᴇ-ꜰᴏʀᴍ soweli |
 |:-|:-|
@@ -217,14 +230,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/kala.png" height="150"> | <img src="musi/pona/kasi.png" height="150"> |
 | ɴᴏᴜɴ *fish* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *swimming* | ɴᴏᴜɴ *vegetation* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vegetating* |
 
-### Food
-
-| ᴛʜɪɴɢ kili | ᴛʜɪɴɢ pan |
-|:-|:-|
-| <img src="musi/pona/kili.png" height="150"> | <img src="musi/pona/pan.png" height="150"> |
-| ɴᴏᴜɴ *fruit* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hanging* | ɴᴏᴜɴ *seed* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fallen* |
-
-### Colors
+### Modifiers
 
 | ᴍᴏᴅɪꜰɪᴇʀ kule | ᴍᴏᴅɪꜰɪᴇʀ pimeja | ᴍᴏᴅɪꜰɪᴇʀ walo |
 |:-|:-|:-|
