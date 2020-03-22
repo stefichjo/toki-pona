@@ -165,8 +165,8 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | |
 |:-|
 | [Food](#food) |
-| [Materials](#materials) |
 | [Elements](#elements) |
+| [Shapes](#shapes) |
 
 #### Food
 
@@ -174,18 +174,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|:-|
 | <img src="musi/pona/kili.png" height="150"> | <img src="musi/pona/pan.png" height="150"> |
 | ɴᴏᴜɴ *fruit* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hanging* | ɴᴏᴜɴ *seed* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fallen* |
-
-#### Materials
-
-| ᴛʜɪɴɢ linja | ᴛʜɪɴɢ palisa |
-|:-|:-|
-| <img src="musi/pona/linja.png" height="150"> | <img src="musi/pona/palisa.png" height="150"> |
-| *long flexible thing* | *long hard thing* |
-
-| ᴛʜɪɴɢ lipu | ᴛʜɪɴɢ lupa | ᴛʜɪɴɢ nena |
-|:-|:-|:-|
-| <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/lupa.png" height="150"> | <img src="musi/pona/nena.png" height="150"> |
-| *flat object* | ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* |
 
 #### Elements
 
@@ -203,6 +191,18 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|:-|
 | <img src="musi/pona/kon.png" height="150"> | <img src="musi/pona/telo.png" height="150"> |
 | ɴᴏᴜɴ *air* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *floating* | *wet substance* |
+
+#### Shapes
+
+| ᴛʜɪɴɢ linja | ᴛʜɪɴɢ palisa |
+|:-|:-|
+| <img src="musi/pona/linja.png" height="150"> | <img src="musi/pona/palisa.png" height="150"> |
+| *long flexible thing* | *long hard thing* |
+
+| ᴛʜɪɴɢ lipu | ᴛʜɪɴɢ lupa | ᴛʜɪɴɢ nena |
+|:-|:-|:-|
+| <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/lupa.png" height="150"> | <img src="musi/pona/nena.png" height="150"> |
+| *flat object* | ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* |
 
 ### Auxiliaries
 
