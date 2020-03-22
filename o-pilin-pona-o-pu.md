@@ -294,10 +294,10 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 #### Space 1/3
 
-| ᴀʀᴇᴀ + ᴛʜɪɴɢ insa | ᴀʀᴇᴀ + ᴛʜɪɴɢ sinpin | ᴀʀᴇᴀ + ᴛʜɪɴɢ monsi |
+| ᴀʀᴇᴀ + ᴛʜɪɴɢ monsi | ᴀʀᴇᴀ + ᴛʜɪɴɢ sinpin | ᴀʀᴇᴀ + ᴛʜɪɴɢ insa |
 |:-|:-|:-|
-| <img src="musi/pona/insa.png" height="150"> | <img src="musi/pona/sinpin.png" height="150"> | <img src="musi/pona/monsi.png" height="150"> |
-| ɴᴏᴜɴ *content* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner* + <br>ɴᴏᴜɴ *centre* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *internal* | ɴᴏᴜɴ *area in front* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *foremost* + <br>ɴᴏᴜɴ *front* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blocking* | ɴᴏᴜɴ *area behind* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *rear* + <br>ɴᴏᴜɴ *back* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *endorsing* |
+| <img src="musi/pona/monsi.png" height="150"> | <img src="musi/pona/sinpin.png" height="150"> | <img src="musi/pona/insa.png" height="150"> |
+| ɴᴏᴜɴ *area behind* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *rear* + <br>ɴᴏᴜɴ *back* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *endorsing* | ɴᴏᴜɴ *area in front* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *foremost* + <br>ɴᴏᴜɴ *front* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blocking* | ɴᴏᴜɴ *content* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner* + <br>ɴᴏᴜɴ *centre* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *internal* |
 
 #### Space 2/3
 
