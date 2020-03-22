@@ -4,14 +4,14 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 | Topics | Specifics | Basics |
 |:-|:-|:-|
-| [People](#people) | [Numbers](#numbers) | [Phrase Markers](#phrase-markers) 1/2 |
-| [Things](#things) | [Correlatives](#correlatives) | [Prepositions](#prepositions) 1/2 |
-| [Body](#body) | [Auxiliaries](#auxiliaries) | [Phrase Markers](#phrase-markers) 2/2 <br>[Prepositions](#prepositions) 2/2 |
-| [Life-Forms](#life-forms) | [Interjections](#interjections) | [Space](#space) 1/3 <br>[Time](#time) 1/3 |
-| [Communication](#communication) | [Conjunctions](#conjunctions) 1/3 | [Space](#space) 2/3 <br>[Time](#time) 2/3 |
-| [Possessions](#possessions) | [Conjunctions](#conjunctions) 2/3 | [Space](#space) 3/3 <br>[Time](#time) 3/3 |
-| [Activities](#activities) | [Conjunctions](#conjunctions) 3/3 | [Effects](#effects) 1/2 |
-| [Colors](#colors) | | [Effects](#effects) 2/2 |
+| [People](#people) | [Numbers](#numbers) | [Phrase Markers 1/2](#phrase-markers-12) |
+| [Things](#things) | [Correlatives](#correlatives) | [Prepositions 1/2](#prepositions-12) |
+| [Body](#body) | [Auxiliaries](#auxiliaries) | [Phrase Markers 2/2](#phrase-markers-22) <br>[Prepositions 2/2](#prepositions-22) |
+| [Life-Forms](#life-forms) | [Interjections](#interjections) | [Space 1/3](#space-13) <br>[Time 1/3](#time-13) |
+| [Communication](#communication) | [Conjunctions](#conjunctions) 1/3 | [Space 2/3](#space-23) <br>[Time 2/3](#time-23) |
+| [Possessions](#possessions) | [Conjunctions](#conjunctions) 2/3 | [Space 3/3](#space-33) <br>[Time 3/3](#time-33) |
+| [Activities](#activities) | [Conjunctions](#conjunctions) 3/3 | [Effects 1/2](#effects-12) |
+| [Colors](#colors) | | [Effects 2/2](#effects-22) |
 
 ## Topics
 
