@@ -2,9 +2,7 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-***TODO*** split Measurements, Life-Forms
-***TODO*** Topic × Foo × Basics → Lessons
-***TODO*** rename Foo
+***TODO*** Topic × Specifics × Basics → Lessons
 
 | Topics |
 |:-|
@@ -14,7 +12,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [Possessions](#possessions) |
 | [Activities](#activities) |
 
-| Foo "Singletons" |
+| Specifics |
 |:-|
 | [Numbers](#numbers) |
 | [Correlatives](#correlatives) |
@@ -146,7 +144,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/lape.png" height="150"> | <img src="musi/pona/moli.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *resting* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dead* |
 
-## Foo
+## Specifics
 
 ### Numbers
 
