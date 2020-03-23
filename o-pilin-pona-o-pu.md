@@ -15,8 +15,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | | | |
 | <img src="musi/pona/ijo.png" height="15"><img src="musi/pona/jan.png" height="15"> <br><img src="musi/pona/mi.png" height="15"><img src="musi/pona/sina.png" height="15"><img src="musi/pona/ona.png" height="15"> | | |
 | <img src="musi/pona/mama.png" height="15"><img src="musi/pona/meli.png" height="15"><img src="musi/pona/mije.png" height="15"> <br><img src="musi/pona/kulupu.png" height="15"> | | |
-|  | | |
-
+| <img src="musi/pona/nimi.png" height="15"><img src="musi/pona/sitelen.png" height="15"><img src="musi/pona/toki.png" height="15"> <br><img src="musi/pona/kalama.png" height="15"> | | |
 
 ## Topics
 
@@ -49,6 +48,22 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|
 | <img src="musi/pona/kulupu.png" height="150"> |
 | ɴᴏᴜɴ *community* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *in common* |
+
+### Communication
+
+#### Communication 1/2
+
+| ᴠᴇʀʙ nimi | ᴠᴇʀʙ sitelen | ᴠᴇʀʙ toki |
+|:-|:-|:-|
+| <img src="musi/pona/nimi.png" height="150"> | <img src="musi/pona/sitelen.png" height="150"> | <img src="musi/pona/toki.png" height="150"> |
+| *to define* → <br>ɴᴏᴜɴ *word* | *to draw* → <br>ɴᴏᴜɴ *image* | *to communicate* → <br>ɴᴏᴜɴ *speech* |
+
+#### Communication 2/2
+
+| ᴍᴏᴅɪꜰɪᴇʀ kalama |
+|:-|
+| <img src="musi/pona/kalama.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *producing a sound* |
 
 ### Things
 
@@ -94,6 +109,22 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/lipu.png" height="150"> | <img src="musi/pona/lupa.png" height="150"> | <img src="musi/pona/nena.png" height="150"> |
 | *flat object* | ɴᴏᴜɴ *hole* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hollow* | ɴᴏᴜɴ *protuberance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *thick* |
 
+### Possessions
+
+#### Possessions 1/2
+
+| ᴠᴇʀʙ jo | ᴠᴇʀʙ pana |
+|:-|:-|
+| <img src="musi/pona/jo.png" height="150"> | <img src="musi/pona/pana.png" height="150"> |
+| *to have* → <br>ɴᴏᴜɴ *property* | *to give* → <br>ɴᴏᴜɴ *gift* |
+
+#### Possessions 2/2
+
+| ᴛᴏᴏʟ len | ᴛᴏᴏʟ poki | ᴛᴏᴏʟ tomo |
+|:-|:-|:-|
+| <img src="musi/pona/len.png" height="150"> | <img src="musi/pona/poki.png" height="150"> | <img src="musi/pona/tomo.png" height="150"> |
+| ɴᴏᴜɴ *cloth* → <br>ᴠᴇʀʙ *to hide* | ɴᴏᴜɴ *container* → <br>ᴠᴇʀʙ *to contain* | ɴᴏᴜɴ *house* → <br>ᴠᴇʀʙ *to protect* |
+
 ### Body
 
 #### Body 1/3
@@ -116,55 +147,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|:-|
 | <img src="musi/pona/lukin.png" height="150"> | <img src="musi/pona/pilin.png" height="150"> |
 | ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to see* + <br>ᴠᴇʀʙ *to care for* | ɴᴏᴜɴ *heart* → <br>ᴠᴇʀʙ *to sense* + <br>ᴠᴇʀʙ *to have the impression that* |
-
-### Nature
-
-| ʟɪꜰᴇ-ꜰᴏʀᴍ akesi | ʟɪꜰᴇ-ꜰᴏʀᴍ soweli |
-|:-|:-|
-| <img src="musi/pona/akesi.png" height="150"> | <img src="musi/pona/soweli.png" height="150"> |
-| ɴᴏᴜɴ *amphibian*, *reptile* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded* | ɴᴏᴜɴ *land mammal* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *warm-blooded* |
-
-| ʟɪꜰᴇ-ꜰᴏʀᴍ pipi | ʟɪꜰᴇ-ꜰᴏʀᴍ waso |
-|:-|:-|
-| <img src="musi/pona/pipi.png" height="150"> | <img src="musi/pona/waso.png" height="150"> |
-| ɴᴏᴜɴ *insect* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *crawling* | ɴᴏᴜɴ *bird* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flying* |
-
-| ʟɪꜰᴇ-ꜰᴏʀᴍ kala | ʟɪꜰᴇ-ꜰᴏʀᴍ kasi |
-|:-|:-|
-| <img src="musi/pona/kala.png" height="150"> | <img src="musi/pona/kasi.png" height="150"> |
-| ɴᴏᴜɴ *fish* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *swimming* | ɴᴏᴜɴ *vegetation* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vegetating* |
-
-### Communication
-
-#### Communication 1/2
-
-| ᴠᴇʀʙ nimi | ᴠᴇʀʙ sitelen | ᴠᴇʀʙ toki |
-|:-|:-|:-|
-| <img src="musi/pona/nimi.png" height="150"> | <img src="musi/pona/sitelen.png" height="150"> | <img src="musi/pona/toki.png" height="150"> |
-| *to define* → <br>ɴᴏᴜɴ *word* | *to draw* → <br>ɴᴏᴜɴ *image* | *to communicate* → <br>ɴᴏᴜɴ *speech* |
-
-#### Communication 2/2
-
-| ᴍᴏᴅɪꜰɪᴇʀ kalama |
-|:-|
-| <img src="musi/pona/kalama.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *producing a sound* |
-
-### Possessions
-
-#### Possessions 1/2
-
-| ᴠᴇʀʙ jo | ᴠᴇʀʙ pana |
-|:-|:-|
-| <img src="musi/pona/jo.png" height="150"> | <img src="musi/pona/pana.png" height="150"> |
-| *to have* → <br>ɴᴏᴜɴ *property* | *to give* → <br>ɴᴏᴜɴ *gift* |
-
-#### Possessions 2/2
-
-| ᴛᴏᴏʟ len | ᴛᴏᴏʟ poki | ᴛᴏᴏʟ tomo |
-|:-|:-|:-|
-| <img src="musi/pona/len.png" height="150"> | <img src="musi/pona/poki.png" height="150"> | <img src="musi/pona/tomo.png" height="150"> |
-| ɴᴏᴜɴ *cloth* → <br>ᴠᴇʀʙ *to hide* | ɴᴏᴜɴ *container* → <br>ᴠᴇʀʙ *to contain* | ɴᴏᴜɴ *house* → <br>ᴠᴇʀʙ *to protect* |
 
 ### Activities
 
@@ -191,6 +173,23 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|:-|
 | <img src="musi/pona/lape.png" height="150"> | <img src="musi/pona/moli.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *resting* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dead* |
+
+### Nature
+
+| ʟɪꜰᴇ-ꜰᴏʀᴍ akesi | ʟɪꜰᴇ-ꜰᴏʀᴍ soweli |
+|:-|:-|
+| <img src="musi/pona/akesi.png" height="150"> | <img src="musi/pona/soweli.png" height="150"> |
+| ɴᴏᴜɴ *amphibian*, *reptile* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded* | ɴᴏᴜɴ *land mammal* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *warm-blooded* |
+
+| ʟɪꜰᴇ-ꜰᴏʀᴍ pipi | ʟɪꜰᴇ-ꜰᴏʀᴍ waso |
+|:-|:-|
+| <img src="musi/pona/pipi.png" height="150"> | <img src="musi/pona/waso.png" height="150"> |
+| ɴᴏᴜɴ *insect* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *crawling* | ɴᴏᴜɴ *bird* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flying* |
+
+| ʟɪꜰᴇ-ꜰᴏʀᴍ kala | ʟɪꜰᴇ-ꜰᴏʀᴍ kasi |
+|:-|:-|
+| <img src="musi/pona/kala.png" height="150"> | <img src="musi/pona/kasi.png" height="150"> |
+| ɴᴏᴜɴ *fish* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *swimming* | ɴᴏᴜɴ *vegetation* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vegetating* |
 
 ### Colors
 
