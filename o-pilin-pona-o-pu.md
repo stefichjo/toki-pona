@@ -13,7 +13,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/alasa.png" height="50"><img src="musi/pona/moku.png" height="50"> |
 | <img src="musi/pona/musi.png" height="50"><img src="musi/pona/pali.png" height="50"> <br><img src="musi/pona/olin.png" height="50"><img src="musi/pona/unpa.png" height="50"> <br><img src="musi/pona/lape.png" height="50"><img src="musi/pona/moli.png" height="50"> |
 | <img src="musi/pona/akesi.png" height="50"><img src="musi/pona/soweli.png" height="50"> <br><img src="musi/pona/pipi.png" height="50"><img src="musi/pona/waso.png" height="50"> <br><img src="musi/pona/kala.png" height="50"><img src="musi/pona/kasi.png" height="50"> | | |
-| <img src="musi/pona/kule.png" height="50"><img src="musi/pona/pimeja.png" height="50"><img src="musi/pona/walo.png" height="50"> <br><img src="musi/pona/jelo.png" height="50"><img src="musi/pona/laso.png" height="50"> <br><img src="musi/pona/loje.png" height="50"> |
+| <img src="musi/pona/kule.png" height="50"><img src="musi/pona/pimeja.png" height="50"><img src="musi/pona/walo.png" height="50"> <br><img src="musi/pona/jelo.png" height="50"><img src="musi/pona/laso.png" height="50"><img src="musi/pona/loje.png" height="50"> |
 
 
 ## Topics
