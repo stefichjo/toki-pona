@@ -13,7 +13,8 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [Activities](#activities) | [Conjunctions](#conjunctions) 3/3 | [Effects 1/2](#effects-12) |
 | [Colors](#colors) | | [Effects 2/2](#effects-22) |
 | | | |
-| <img src="musi/pona/ijo.png" height="15"><img src="musi/pona/jan.png" height="15"> | | |
+| <img src="musi/pona/ijo.png" height="15">
+  <img src="musi/pona/jan.png" height="15"> | | |
 | <img src="musi/pona/mi.png" height="15"><img src="musi/pona/sina.png" height="15"><img src="musi/pona/ona.png" height="15"> | | |
 | <img src="musi/pona/mama.png" height="15"><img src="musi/pona/meli.png" height="15"><img src="musi/pona/mije.png" height="15"> | | |
 | <img src="musi/pona/kulupu.png" height="15"> | | |
