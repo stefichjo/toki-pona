@@ -18,8 +18,9 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | Basics |
 |:-|
 | <img src="musi/pona/li.png" height="50"><img src="musi/pona/o.png" height="50"> <br><img src="musi/pona/e.png" height="50"><img src="musi/pona/pi.png" height="50"> |
-| <img src="musi/pona/lon.png" height="50"><img src="musi/pona/tan.png" height="50"><img src="musi/pona/tawa.png" height="50"> <br><img src="musi/pona/ante.png" height="50"><img src="musi/pona/sama.png" height="50"> <br><img src="musi/pona/kepeken.png" height="50"><img src="musi/pona/taso.png" height="50"><img src="musi/pona/sin.png" height="50"> <br><img src="musi/pona/esun.png" height="50"><img src="musi/pona/pu.png" height="50"> |
-
+| <img src="musi/pona/lon.png" height="50"> <br><img src="musi/pona/tan.png" height="50"><img src="musi/pona/tawa.png" height="50"> <br><img src="musi/pona/ante.png" height="50"><img src="musi/pona/sama.png" height="50"> <br><img src="musi/pona/kepeken.png" height="50"> <br><img src="musi/pona/taso.png" height="50"><img src="musi/pona/sin.png" height="50"> <br><img src="musi/pona/esun.png" height="50"><img src="musi/pona/pu.png" height="50"> |
+| <img src="musi/pona/monsi.png" height="50"><img src="musi/pona/sinpin.png" height="50"><img src="musi/pona/insa.png" height="50"> <br><img src="musi/pona/supa.png" height="50"><img src="musi/pona/sewi.png" height="50"><img src="musi/pona/anpa.png" height="50"> <br><img src="musi/pona/sike.png" height="50"><img src="musi/pona/poka.png" height="50"><img src="musi/pona/weka.png" height="50"> |
+| <img src="musi/pona/kama.png" height="50"><img src="musi/pona/pini.png" height="50"><img src="musi/pona/awen.png" height="50"> <br><img src="musi/pona/open.png" height="50"><img src="musi/pona/selo.png" height="50"><img src="musi/pona/sijelo.png" height="50"> <br><img src="musi/pona/nasin.png" height="50"><img src="musi/pona/tenpo.png" height="50"><img src="musi/pona/nanpa.png" height="50"> |
 
 ## Topics
 
