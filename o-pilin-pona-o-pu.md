@@ -17,9 +17,8 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 | Basics |
 |:-|
-| <img src="musi/pona/li.png" height="50"><img src="musi/pona/o.png" height="50"> |
-| <img src="musi/pona/e.png" height="50"><img src="musi/pona/pi.png" height="50"> |
-| <img src="musi/pona/lon.png" height="50"><img src="musi/pona/tan.png" height="50"><img src="musi/pona/tawa.png" height="50"> <br><img src="musi/pona/ante.png" height="50"><img src="musi/pona/sama.png" height="50"> |
+| <img src="musi/pona/li.png" height="50"><img src="musi/pona/o.png" height="50"> <br><img src="musi/pona/e.png" height="50"><img src="musi/pona/pi.png" height="50"> |
+| <img src="musi/pona/lon.png" height="50"><img src="musi/pona/tan.png" height="50"><img src="musi/pona/tawa.png" height="50"> <br><img src="musi/pona/ante.png" height="50"><img src="musi/pona/sama.png" height="50"> <br><img src="musi/pona/kepeken.png" height="50"><img src="musi/pona/taso.png" height="50"><img src="musi/pona/sin.png" height="50"> <br><img src="musi/pona/esun.png" height="50"><img src="musi/pona/pu.png" height="50"> |
 
 
 ## Topics
