@@ -2,18 +2,22 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-| Topics | Specifics |
-|:-|:-|
-| <img src="musi/pona/ijo.png" height="50"><img src="musi/pona/jan.png" height="50"> <br><img src="musi/pona/mi.png" height="50"><img src="musi/pona/sina.png" height="50"><img src="musi/pona/ona.png" height="50"> | <img src="musi/pona/mute.png" height="50"> |
-| <img src="musi/pona/mama.png" height="50"><img src="musi/pona/meli.png" height="50"><img src="musi/pona/mije.png" height="50"> <br><img src="musi/pona/kulupu.png" height="50"> | <img src="musi/pona/tu.png" height="50"> |
-| <img src="musi/pona/nimi.png" height="50"><img src="musi/pona/sitelen.png" height="50"><img src="musi/pona/toki.png" height="50"> <br><img src="musi/pona/kalama.png" height="50"> | <img src="musi/pona/wan.png" height="50"> |
-| <img src="musi/pona/kili.png" height="50"><img src="musi/pona/pan.png" height="50"> <br><img src="musi/pona/kiwen.png" height="50"><img src="musi/pona/ko.png" height="50"> <br><img src="musi/pona/kon.png" height="50"><img src="musi/pona/telo.png" height="50"> <br><img src="musi/pona/linja.png" height="50"><img src="musi/pona/palisa.png" height="50"> | |
-| <img src="musi/pona/jo.png" height="50"><img src="musi/pona/pana.png" height="50"> <br><img src="musi/pona/len.png" height="50"><img src="musi/pona/poki.png" height="50"><img src="musi/pona/tomo.png" height="50"> | |
-| <img src="musi/pona/lawa.png" height="50"><img src="musi/pona/luka.png" height="50"><img src="musi/pona/noka.png" height="50"> <br><img src="musi/pona/kute.png" height="50"><img src="musi/pona/uta.png" height="50"> <br><img src="musi/pona/lukin.png" height="50"><img src="musi/pona/pilin.png" height="50"> | |
-| <img src="musi/pona/alasa.png" height="50"><img src="musi/pona/moku.png" height="50"> | |
-| <img src="musi/pona/musi.png" height="50"><img src="musi/pona/pali.png" height="50"> <br><img src="musi/pona/olin.png" height="50"><img src="musi/pona/unpa.png" height="50"> <br><img src="musi/pona/lape.png" height="50"><img src="musi/pona/moli.png" height="50"> | |
-| <img src="musi/pona/akesi.png" height="50"><img src="musi/pona/soweli.png" height="50"> <br><img src="musi/pona/pipi.png" height="50"><img src="musi/pona/waso.png" height="50"> <br><img src="musi/pona/kala.png" height="50"><img src="musi/pona/kasi.png" height="50"> | |
-| <img src="musi/pona/kule.png" height="50"><img src="musi/pona/pimeja.png" height="50"><img src="musi/pona/walo.png" height="50"> <br><img src="musi/pona/jelo.png" height="50"><img src="musi/pona/laso.png" height="50"><img src="musi/pona/loje.png" height="50"> | |
+| Topics |
+|:-|
+| <img src="musi/pona/ijo.png" height="50"><img src="musi/pona/jan.png" height="50"> <br><img src="musi/pona/mi.png" height="50"><img src="musi/pona/sina.png" height="50"><img src="musi/pona/ona.png" height="50"> |
+| <img src="musi/pona/mama.png" height="50"><img src="musi/pona/meli.png" height="50"><img src="musi/pona/mije.png" height="50"> <br><img src="musi/pona/kulupu.png" height="50"> |
+| <img src="musi/pona/nimi.png" height="50"><img src="musi/pona/sitelen.png" height="50"><img src="musi/pona/toki.png" height="50"> <br><img src="musi/pona/kalama.png" height="50"> |
+| <img src="musi/pona/kili.png" height="50"><img src="musi/pona/pan.png" height="50"> <br><img src="musi/pona/kiwen.png" height="50"><img src="musi/pona/ko.png" height="50"> <br><img src="musi/pona/kon.png" height="50"><img src="musi/pona/telo.png" height="50"> <br><img src="musi/pona/linja.png" height="50"><img src="musi/pona/palisa.png" height="50"> |
+| <img src="musi/pona/jo.png" height="50"><img src="musi/pona/pana.png" height="50"> <br><img src="musi/pona/len.png" height="50"><img src="musi/pona/poki.png" height="50"><img src="musi/pona/tomo.png" height="50"> |
+| <img src="musi/pona/lawa.png" height="50"><img src="musi/pona/luka.png" height="50"><img src="musi/pona/noka.png" height="50"> <br><img src="musi/pona/kute.png" height="50"><img src="musi/pona/uta.png" height="50"> <br><img src="musi/pona/lukin.png" height="50"><img src="musi/pona/pilin.png" height="50"> |
+| <img src="musi/pona/alasa.png" height="50"><img src="musi/pona/moku.png" height="50"> |
+| <img src="musi/pona/musi.png" height="50"><img src="musi/pona/pali.png" height="50"> <br><img src="musi/pona/olin.png" height="50"><img src="musi/pona/unpa.png" height="50"> <br><img src="musi/pona/lape.png" height="50"><img src="musi/pona/moli.png" height="50"> |
+| <img src="musi/pona/akesi.png" height="50"><img src="musi/pona/soweli.png" height="50"> <br><img src="musi/pona/pipi.png" height="50"><img src="musi/pona/waso.png" height="50"> <br><img src="musi/pona/kala.png" height="50"><img src="musi/pona/kasi.png" height="50"> |
+| <img src="musi/pona/kule.png" height="50"><img src="musi/pona/pimeja.png" height="50"><img src="musi/pona/walo.png" height="50"> <br><img src="musi/pona/jelo.png" height="50"><img src="musi/pona/laso.png" height="50"><img src="musi/pona/loje.png" height="50"> |
+
+| Specifics |
+|:-|
+| <img src="musi/pona/wan.png" height="50"> <br><img src="musi/pona/tu.png" height="50"> <br><img src="musi/pona/mute.png" height="50"> <br><img src="musi/pona/ni.png" height="50"><img src="musi/pona/seme.png" height="50"><img src="musi/pona/ale.png" height="50"> <br><img src="musi/pona/ken.png" height="50"><img src="musi/pona/sona.png" height="50"><img src="musi/pona/wile.png" height="50"> <br><img src="musi/pona/a.png" height="50"><img src="musi/pona/ala.png" height="50"><img src="musi/pona/mu.png" height="50"> <br><img src="musi/pona/anu.png" height="50"><img src="musi/pona/en.png" height="50"><img src="musi/pona/la.png" height="50"> |
 
 | Basics |
 |:-|
