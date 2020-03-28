@@ -2,13 +2,13 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-***TODO*** mood markers, case markers
+***TODO*** rearrange lessons<br>
 
 | | | |
 |:-|:-|:-|
-| [**People**](#people) | [**Phrase Markers 1/2**](#phrase-markers-12) | [**Prepositions 1/2**](#prepositions-12) |
+| [**People**](#people) | [**Mood Markers**](#mood-markers) | [**Prepositions 1/2**](#prepositions-12) |
 | <img src="musi/pona/ijo.png" height="50"><img src="musi/pona/jan.png" height="50"> <br><img src="musi/pona/mi.png" height="50"><img src="musi/pona/sina.png" height="50"><img src="musi/pona/ona.png" height="50"> <br><img src="musi/pona/mama.png" height="50"><img src="musi/pona/meli.png" height="50"><img src="musi/pona/mije.png" height="50"> <br><img src="musi/pona/kulupu.png" height="50"> | <img src="musi/pona/li.png" height="50"><img src="musi/pona/o.png" height="50"> | <img src="musi/pona/lon.png" height="50"> <br><img src="musi/pona/tan.png" height="50"><img src="musi/pona/tawa.png" height="50"> <br><img src="musi/pona/ante.png" height="50"><img src="musi/pona/sama.png" height="50"> |
-| [**Communication**](#communication) | [**Phrase Markers 2/2**](#phrase-markers-22) | [**Prepositions 2/2**](#prepositions-22) |
+| [**Communication**](#communication) | [**Case Markers**](#case-markers) | [**Prepositions 2/2**](#prepositions-22) |
 | <img src="musi/pona/nimi.png" height="50"><img src="musi/pona/sitelen.png" height="50"><img src="musi/pona/toki.png" height="50"> <br><img src="musi/pona/kalama.png" height="50"> | <img src="musi/pona/e.png" height="50"><img src="musi/pona/pi.png" height="50"> | <img src="musi/pona/kepeken.png" height="50"> <br><img src="musi/pona/taso.png" height="50"><img src="musi/pona/sin.png" height="50"> <br><img src="musi/pona/esun.png" height="50"><img src="musi/pona/pu.png" height="50"> |
 | [**Things**](#things) | [**Correlatives**](#correlatives) | [**Space 1/3**](#space-13) |
 | <img src="musi/pona/kili.png" height="50"><img src="musi/pona/pan.png" height="50"> <br><img src="musi/pona/ma.png" height="50"><img src="musi/pona/mun.png" height="50"><img src="musi/pona/suno.png" height="50"> <br><img src="musi/pona/kiwen.png" height="50"><img src="musi/pona/ko.png" height="50"> <br><img src="musi/pona/kon.png" height="50"><img src="musi/pona/telo.png" height="50"> <br><img src="musi/pona/linja.png" height="50"><img src="musi/pona/palisa.png" height="50"> <br><img src="musi/pona/lipu.png" height="50"><img src="musi/pona/lupa.png" height="50"><img src="musi/pona/nena.png" height="50"> | <img src="musi/pona/ni.png" height="50"><img src="musi/pona/seme.png" height="50"><img src="musi/pona/ale.png" height="50"> | <img src="musi/pona/monsi.png" height="50"><img src="musi/pona/sinpin.png" height="50"><img src="musi/pona/insa.png" height="50"> |
@@ -286,14 +286,14 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ### Phrase Markers
 
-#### Phrase Markers 1/2
+#### Mood Markers
 
 | ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ li | ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ o |
 |:-|:-|
 | <img src="musi/pona/li.png" height="150"> | <img src="musi/pona/o.png" height="150"> |
 | ᴘᴀʀᴛɪᴄʟᴇ *(indicative)* | ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* |
 
-#### Phrase Markers 2/2
+#### Mood Markers
 
 | ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ e | ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ pi |
 |:-|:-|
