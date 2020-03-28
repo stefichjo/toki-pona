@@ -2,7 +2,7 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-| Topics |
+| Topics | |
 |:-|:-|
 | [**People**](#people)<br><img src="musi/pona/ijo.png" height="50"><img src="musi/pona/jan.png" height="50"> <br><img src="musi/pona/mi.png" height="50"><img src="musi/pona/sina.png" height="50"><img src="musi/pona/ona.png" height="50"> <br><img src="musi/pona/mama.png" height="50"><img src="musi/pona/meli.png" height="50"><img src="musi/pona/mije.png" height="50"> <br><img src="musi/pona/kulupu.png" height="50"> | <img src="musi/pona/wan.png" height="50"><img src="musi/pona/tu.png" height="50"><img src="musi/pona/mute.png" height="50"> <br><img src="musi/pona/ni.png" height="50"><img src="musi/pona/seme.png" height="50"><img src="musi/pona/ale.png" height="50"> <br><img src="musi/pona/ken.png" height="50"><img src="musi/pona/sona.png" height="50"><img src="musi/pona/wile.png" height="50"> <br><img src="musi/pona/a.png" height="50"><img src="musi/pona/ala.png" height="50"><img src="musi/pona/mu.png" height="50"> <br><img src="musi/pona/anu.png" height="50"><img src="musi/pona/en.png" height="50"><img src="musi/pona/la.png" height="50"> |
 | [**Communication**](#communication)<br><img src="musi/pona/nimi.png" height="50"><img src="musi/pona/sitelen.png" height="50"><img src="musi/pona/toki.png" height="50"> <br><img src="musi/pona/kalama.png" height="50"> |
