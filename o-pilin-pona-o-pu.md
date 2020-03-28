@@ -13,11 +13,12 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/alasa.png" height="50"><img src="musi/pona/moku.png" height="50"> |
 | <img src="musi/pona/musi.png" height="50"><img src="musi/pona/pali.png" height="50"> <br><img src="musi/pona/olin.png" height="50"><img src="musi/pona/unpa.png" height="50"> <br><img src="musi/pona/lape.png" height="50"><img src="musi/pona/moli.png" height="50"> |
 | <img src="musi/pona/akesi.png" height="50"><img src="musi/pona/soweli.png" height="50"> <br><img src="musi/pona/pipi.png" height="50"><img src="musi/pona/waso.png" height="50"> <br><img src="musi/pona/kala.png" height="50"><img src="musi/pona/kasi.png" height="50"> |
-| <img src="musi/pona/kule.png" height="50"><img src="musi/pona/pimeja.png" height="50"><img src="musi/pona/walo.png" height="50"> <br><img src="musi/pona/jelo.png" height="50"><img src="musi/pona/laso.png" height="50"><img src="musi/pona/loje.png" height="50"> |
+| <img src="musi/pona/lili.png" height="50"><img src="musi/pona/suli.png" height="50"> <br><img src="musi/pona/ilo.png" height="50"><img src="musi/pona/mani.png" height="50"><img src="musi/pona/wawa.png" height="50"> <br><img src="musi/pona/lete.png" height="50"><img src="musi/pona/seli.png" height="50"> <br><img src="musi/pona/pona.png" height="50"><img src="musi/pona/ike.png" height="50"> <br><img src="musi/pona/pakala.png" height="50"><img src="musi/pona/utala.png" height="50"><img src="musi/pona/nasa.png" height="50"> <br><img src="musi/pona/suwi.png" height="50"><img src="musi/pona/jaki.png" height="50"> |
 
 | Specifics |
 |:-|
 | <img src="musi/pona/wan.png" height="50"><img src="musi/pona/tu.png" height="50"><img src="musi/pona/mute.png" height="50"> <br><img src="musi/pona/ni.png" height="50"><img src="musi/pona/seme.png" height="50"><img src="musi/pona/ale.png" height="50"> <br><img src="musi/pona/ken.png" height="50"><img src="musi/pona/sona.png" height="50"><img src="musi/pona/wile.png" height="50"> <br><img src="musi/pona/a.png" height="50"><img src="musi/pona/ala.png" height="50"><img src="musi/pona/mu.png" height="50"> <br><img src="musi/pona/anu.png" height="50"><img src="musi/pona/en.png" height="50"><img src="musi/pona/la.png" height="50"> |
+| <img src="musi/pona/kule.png" height="50"><img src="musi/pona/pimeja.png" height="50"><img src="musi/pona/walo.png" height="50"> <br><img src="musi/pona/jelo.png" height="50"><img src="musi/pona/laso.png" height="50"><img src="musi/pona/loje.png" height="50"> |
 
 | Basics |
 |:-|
@@ -25,7 +26,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/lon.png" height="50"> <br><img src="musi/pona/tan.png" height="50"><img src="musi/pona/tawa.png" height="50"> <br><img src="musi/pona/ante.png" height="50"><img src="musi/pona/sama.png" height="50"> <br><img src="musi/pona/kepeken.png" height="50"> <br><img src="musi/pona/taso.png" height="50"><img src="musi/pona/sin.png" height="50"> <br><img src="musi/pona/esun.png" height="50"><img src="musi/pona/pu.png" height="50"> |
 | <img src="musi/pona/monsi.png" height="50"><img src="musi/pona/sinpin.png" height="50"><img src="musi/pona/insa.png" height="50"> <br><img src="musi/pona/supa.png" height="50"><img src="musi/pona/sewi.png" height="50"><img src="musi/pona/anpa.png" height="50"> <br><img src="musi/pona/sike.png" height="50"><img src="musi/pona/poka.png" height="50"><img src="musi/pona/weka.png" height="50"> |
 | <img src="musi/pona/kama.png" height="50"><img src="musi/pona/pini.png" height="50"><img src="musi/pona/awen.png" height="50"> <br><img src="musi/pona/open.png" height="50"><img src="musi/pona/selo.png" height="50"><img src="musi/pona/sijelo.png" height="50"> <br><img src="musi/pona/nasin.png" height="50"><img src="musi/pona/tenpo.png" height="50"><img src="musi/pona/nanpa.png" height="50"> |
-| <img src="musi/pona/lili.png" height="50"><img src="musi/pona/suli.png" height="50"> <br><img src="musi/pona/ilo.png" height="50"><img src="musi/pona/mani.png" height="50"><img src="musi/pona/wawa.png" height="50"> <br><img src="musi/pona/lete.png" height="50"><img src="musi/pona/seli.png" height="50"> <br><img src="musi/pona/pona.png" height="50"><img src="musi/pona/ike.png" height="50"> <br><img src="musi/pona/pakala.png" height="50"><img src="musi/pona/utala.png" height="50"><img src="musi/pona/nasa.png" height="50"> <br><img src="musi/pona/suwi.png" height="50"><img src="musi/pona/jaki.png" height="50"> |
 
 ## Topics
 
@@ -201,17 +201,41 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/kala.png" height="150"> | <img src="musi/pona/kasi.png" height="150"> |
 | ɴᴏᴜɴ *fish* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *swimming* | ɴᴏᴜɴ *vegetation* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vegetating* |
 
-### Colors
+### Effects
 
-| ᴍᴏᴅɪꜰɪᴇʀ kule | ᴍᴏᴅɪꜰɪᴇʀ pimeja | ᴍᴏᴅɪꜰɪᴇʀ walo |
-|:-|:-|:-|
-| <img src="musi/pona/kule.png" height="150"> | <img src="musi/pona/pimeja.png" height="150"> | <img src="musi/pona/walo.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *colourful* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *black* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *white* |
+#### Effects 1/2
 
-| ᴍᴏᴅɪꜰɪᴇʀ jelo | ᴍᴏᴅɪꜰɪᴇʀ laso | ᴍᴏᴅɪꜰɪᴇʀ loje |
+| ᴛʜɪɴɢ lili | ᴛʜɪɴɢ suli |
+|:-|:-|
+| <img src="musi/pona/lili.png" height="150"> | <img src="musi/pona/suli.png" height="150"> |
+| ɴᴏᴜɴ *piece* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *small* | ɴᴏᴜɴ *cargo* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *big* |
+
+| ᴛʜɪɴɢ ilo | ᴛʜɪɴɢ mani | ᴛʜɪɴɢ wawa |
 |:-|:-|:-|
-| <img src="musi/pona/jelo.png" height="150"> | <img src="musi/pona/laso.png" height="150"> | <img src="musi/pona/loje.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *yellow* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blue*, *green* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *red* |
+| <img src="musi/pona/ilo.png" height="150"> | <img src="musi/pona/mani.png" height="150"> | <img src="musi/pona/wawa.png" height="150"> |
+| ɴᴏᴜɴ *tool* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *useful* | ɴᴏᴜɴ *wealth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *valueable* | ɴᴏᴜɴ *force* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strong* |
+
+| ᴛʜɪɴɢ lete | ᴛʜɪɴɢ seli |
+|:-|:-|
+| <img src="musi/pona/lete.png" height="150"> | <img src="musi/pona/seli.png" height="150"> |
+| ɴᴏᴜɴ *frost* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold* | ɴᴏᴜɴ *heat source* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* |
+
+#### Effects 2/2
+
+| ᴍᴏᴅɪꜰɪᴇʀ pona | ᴍᴏᴅɪꜰɪᴇʀ ike |
+|:-|:-|
+| <img src="musi/pona/pona.png" height="150"> | <img src="musi/pona/ike.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bad* |
+
+| ᴍᴏᴅɪꜰɪᴇʀ pakala | ᴍᴏᴅɪꜰɪᴇʀ utala | ᴍᴏᴅɪꜰɪᴇʀ nasa |
+|:-|:-|:-|
+| <img src="musi/pona/pakala.png" height="150"> | <img src="musi/pona/utala.png" height="150"> | <img src="musi/pona/nasa.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *messed up* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *aggressive* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strange* |
+
+| ᴛʜɪɴɢ suwi | ᴛʜɪɴɢ jaki |
+|:-|:-|
+| <img src="musi/pona/suwi.png" height="150"> | <img src="musi/pona/jaki.png" height="150"> |
+| ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* | ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter* |
 
 ## Specifics
 
@@ -249,6 +273,18 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|:-|:-|
 | <img src="musi/pona/anu.png" height="150"> | <img src="musi/pona/en.png" height="150"> | <img src="musi/pona/la.png" height="150"> |
 | ᴘᴀʀᴛɪᴄʟᴇ *or* | ᴘᴀʀᴛɪᴄʟᴇ *and* | ᴘᴀʀᴛɪᴄʟᴇ *if-then* |
+
+### Modifiers
+
+| ᴍᴏᴅɪꜰɪᴇʀ kule | ᴍᴏᴅɪꜰɪᴇʀ pimeja | ᴍᴏᴅɪꜰɪᴇʀ walo |
+|:-|:-|:-|
+| <img src="musi/pona/kule.png" height="150"> | <img src="musi/pona/pimeja.png" height="150"> | <img src="musi/pona/walo.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *colourful* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *black* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *white* |
+
+| ᴍᴏᴅɪꜰɪᴇʀ jelo | ᴍᴏᴅɪꜰɪᴇʀ laso | ᴍᴏᴅɪꜰɪᴇʀ loje |
+|:-|:-|:-|
+| <img src="musi/pona/jelo.png" height="150"> | <img src="musi/pona/laso.png" height="150"> | <img src="musi/pona/loje.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *yellow* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blue*, *green* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *red* |
 
 ## Basics
 
@@ -345,41 +381,4 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|:-|:-|
 | <img src="musi/pona/nasin.png" height="150"> | <img src="musi/pona/tenpo.png" height="150"> | <img src="musi/pona/nanpa.png" height="150"> |
 | ɴᴏᴜɴ *direction* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *directed* + <br>ᴠᴇʀʙ *to destine* | ɴᴏᴜɴ *time* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *transitory* + <br>ᴠᴇʀʙ *to occupy* | *one's turn* + <br>ᴠᴇʀʙ *to count* |
-
-### Effects
-
-#### Effects 1/2
-
-| ᴛʜɪɴɢ lili | ᴛʜɪɴɢ suli |
-|:-|:-|
-| <img src="musi/pona/lili.png" height="150"> | <img src="musi/pona/suli.png" height="150"> |
-| ɴᴏᴜɴ *piece* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *small* | ɴᴏᴜɴ *cargo* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *big* |
-
-| ᴛʜɪɴɢ ilo | ᴛʜɪɴɢ mani | ᴛʜɪɴɢ wawa |
-|:-|:-|:-|
-| <img src="musi/pona/ilo.png" height="150"> | <img src="musi/pona/mani.png" height="150"> | <img src="musi/pona/wawa.png" height="150"> |
-| ɴᴏᴜɴ *tool* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *useful* | ɴᴏᴜɴ *wealth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *valueable* | ɴᴏᴜɴ *force* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strong* |
-
-| ᴛʜɪɴɢ lete | ᴛʜɪɴɢ seli |
-|:-|:-|
-| <img src="musi/pona/lete.png" height="150"> | <img src="musi/pona/seli.png" height="150"> |
-| ɴᴏᴜɴ *frost* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold* | ɴᴏᴜɴ *heat source* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* |
-
-#### Effects 2/2
-
-| ᴍᴏᴅɪꜰɪᴇʀ pona | ᴍᴏᴅɪꜰɪᴇʀ ike |
-|:-|:-|
-| <img src="musi/pona/pona.png" height="150"> | <img src="musi/pona/ike.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bad* |
-
-| ᴍᴏᴅɪꜰɪᴇʀ pakala | ᴍᴏᴅɪꜰɪᴇʀ utala | ᴍᴏᴅɪꜰɪᴇʀ nasa |
-|:-|:-|:-|
-| <img src="musi/pona/pakala.png" height="150"> | <img src="musi/pona/utala.png" height="150"> | <img src="musi/pona/nasa.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *messed up* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *aggressive* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *strange* |
-
-| ᴛʜɪɴɢ suwi | ᴛʜɪɴɢ jaki |
-|:-|:-|
-| <img src="musi/pona/suwi.png" height="150"> | <img src="musi/pona/jaki.png" height="150"> |
-| ɴᴏᴜɴ *sweets* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sweet* | ɴᴏᴜɴ *poison* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter* |
-
 
