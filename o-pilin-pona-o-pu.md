@@ -2,6 +2,8 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
+***TODO*** move sections from nasin nimi<br>
+
 | | | |
 |:-|:-|:-|
 | [**People**](#people) | [**Mood Markers**](#mood-markers) | [**Prepositions 1/2**](#prepositions-12) |
@@ -223,15 +225,10 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 
 #### Prepositions 1/2
 
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ lon |
-|:-|
-| <img src="musi/pona/lon.png" height="150"> |
-| *at* |
-
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tan | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
-|:-|:-|
-| <img src="musi/pona/tan.png" height="150"> | <img src="musi/pona/tawa.png" height="150"> |
-| *from* | *to* |
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ lon | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tan | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
+|:-|:-|:-|
+| <img src="musi/pona/lon.png" height="150"> | <img src="musi/pona/tan.png" height="150"> | <img src="musi/pona/tawa.png" height="150"> |
+| *at* | *from* | *to* |
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ ante | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sama |
 |:-|:-|
@@ -499,15 +496,10 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 
 #### Prepositions 2/2
 
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ kepeken |
-|:-|
-| <img src="musi/pona/kepeken.png" height="150"> |
-| *by means of* |
-
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ taso | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sin |
-|:-|:-|
-| <img src="musi/pona/taso.png" height="150"> | <img src="musi/pona/sin.png" height="150"> |
-| *without* | *with* |
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ kepeken | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ taso | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sin |
+|:-|:-|:-|
+| <img src="musi/pona/kepeken.png" height="150"> | <img src="musi/pona/taso.png" height="150"> | <img src="musi/pona/sin.png" height="150"> |
+| *by means of* | *without* | *with* |
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ esun | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ pu |
 |:-|:-|
