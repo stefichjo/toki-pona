@@ -49,7 +49,9 @@ When refering to people by their name, the name is attached to **jan** — *pers
   <details open>
     <summary>
 
-    **jan Epawan Linkan**</summary>
+    **jan Epawan Linkan**
+
+    </summary>
 
     *Abraham Lincoln*
 
@@ -62,6 +64,7 @@ When refering to people by their name, the name is attached to **jan** — *pers
     </summary>
 
     *Mr. Sulu*
+
   </details>
   <details>
     <summary>
@@ -71,6 +74,7 @@ When refering to people by their name, the name is attached to **jan** — *pers
     </summary>
 
     **jan Sonja**
+
   </details>
 </details>
 
