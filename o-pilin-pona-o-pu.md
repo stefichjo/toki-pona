@@ -93,23 +93,23 @@ Adding a noun to a noun, *possession* is expressed.
 Many words can be translated either as a noun or as an adjective. Adding them after a noun, most of the cases *quality* is expressed.
 
 <details>
-  <summary><b>ona meli</b></summary>
-  <i>she (= female third person)</i>
-</details>
-
-<details>
   <summary><b>mama meli</b></summary>
   <i>mother (= female parent)</i>
 </details>
 
 <details>
-  <summary><i>he (= male third person)</i></summary>
-  <b>ona mije</b>
+  <summary><b>ona mije</b></summary>
+  <i>he (= male third person)</i>
 </details>
 
 <details>
   <summary><i>father (= male parent)</i></summary>
   <b>mama mije</b>
+</details>
+
+<details>
+  <summary><i>he (= male third person)</i></summary>
+  <b>ona mije</b>
 </details>
 
 ---
