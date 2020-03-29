@@ -35,22 +35,22 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 <details>
   <summary>
 
-When refering to people by their name, the name is attached to **jan** — <i>person</i>. For example, <i>Sonja</i> is <b>jan Sonja</b>, whereas <b>Sonja</b> is merely (the sound of) the name *Sonja* itself.</summary>
+When refering to people by their name, the name is attached to **jan** — *person*. For example, *Sonja* is **jan Sonja**, whereas **Sonja** is merely (the sound of) the name *Sonja* itself.</summary>
   <details open>
-    <summary><b>jan Melani</b></summary>
-    <i>Mélanie</i>
+    <summary>**jan Melani**</summary>
+    *Mélanie*
   </details>
   <details open>
-    <summary><b>jan Epawan Linkan</b></summary>
-    <i>Abraham Lincoln</i>
+    <summary>**jan Epawan Linkan**</summary>
+    *Abraham Lincoln*
   </details>
   <details open>
-    <summary><b>jan Sulu</b></summary>
-    <i>Mr. Sulu</i>
+    <summary>**jan Sulu**</summary>
+    *Mr. Sulu*
   </details>
   <details>
-    <summary><i>Sonja</i></summary>
-    <b>jan Sonja</b>
+    <summary>*Sonja*</summary>
+    **jan Sonja**
   </details>
 </details>
 
@@ -64,22 +64,22 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 | ɴᴏᴜɴ *I*, *we* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *my*, *our* | ɴᴏᴜɴ *you* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* | ɴᴏᴜɴ *he*, *she*, *it*, *they* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *his*, *her*, *its*, *their* |
 
 <details>
-  <summary>Adding a ɴᴏᴜɴ to a ɴᴏᴜɴ, <i>possession</i> is expressed.</summary>
+  <summary>Adding a ɴᴏᴜɴ to a ɴᴏᴜɴ, *possession* is expressed.</summary>
   <details open>
-    <summary><b>ijo jan</b></summary>
-    <i>somebody's stuff</i>
+    <summary>**ijo jan**</summary>
+    *somebody's stuff*
   </details>
   <details open>
-    <summary><b>ijo mi</b></summary>
-    <i>my stuff, something of mine/ours</i>
+    <summary>**ijo mi**</summary>
+    *my stuff, something of mine/ours*
   </details open>
   <details open>
-    <summary><b>ijo sina</b></summary>
-    <i>your stuff, something of yours</i>
+    <summary>**ijo sina**</summary>
+    *your stuff, something of yours*
   </details>
   <details>
-    <summary><i>her/his/their stuff, something of hers/his/theirs</i></summary>
-    <b>ijo ona</b>
+    <summary>*her/his/their stuff, something of hers/his/theirs*</summary>
+    **ijo ona**
   </details>
 </details>
 
@@ -91,30 +91,30 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 | ɴᴏᴜɴ *parent* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of origin* | ɴᴏᴜɴ *female person* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* | ɴᴏᴜɴ *male person* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* |
 
 <details>
-  <summary>Many words can be translated either as a ɴᴏᴜɴ or as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. Adding them after a ɴᴏᴜɴ, often <i>quality</i> is expressed.</summary>
+  <summary>Many words can be translated either as a ɴᴏᴜɴ or as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. Adding them after a ɴᴏᴜɴ, often *quality* is expressed.</summary>
   <details open>
-    <summary><b>mama meli</b></summary>
-    <i>mother (= female parent)</i>
+    <summary>**mama meli**</summary>
+    *mother (= female parent)*
   </details>
   <details open>
-    <summary><b>ona mije</b></summary>
-    <i>he (= male third person)</i>
+    <summary>**ona mije**</summary>
+    *he (= male third person)*
   </details>
   <details>
-    <summary><i>father (= male parent)</i></summary>
-    <b>mama mije</b>
+    <summary>*father (= male parent)*</summary>
+    **mama mije**
   </details>
   <details>
-    <summary><i>she (= female third person)</i></summary>
-    <b>ona meli</b>
+    <summary>*she (= female third person)*</summary>
+    **ona meli**
   </details>
 </details>
 
 <details open>
-  <summary>ᴘᴇʀꜱᴏɴ ɴᴏᴜɴs imply <b>jan</b>.</summary>
+  <summary>ᴘᴇʀꜱᴏɴ ɴᴏᴜɴs imply **jan**.</summary>
   <details open>
-    <summary>ᴘᴇʀꜱᴏɴ <b>meli</b></summary>
-      ɴᴏᴜɴ <i>somebody female</i> → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ <i>female</i>
+    <summary>ᴘᴇʀꜱᴏɴ **meli**</summary>
+      ɴᴏᴜɴ *somebody female* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female*
   </details>
 </details>
 
@@ -128,8 +128,8 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 <details>
   <summary>...</summary>
   <details open>
-    <summary><b>kulupu mama</b></summary>
-    <i>family</i>
+    <summary>**kulupu mama**</summary>
+    *family*
   </details>
 </details>
 
@@ -143,14 +143,14 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 | ᴘᴀʀᴛɪᴄʟᴇ *(indicative)* |
 
 <details>
-  <summary>The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ <b>li</b> marks the following phrase as an ɪɴᴅɪᴄᴀᴛɪᴠᴇ. Note that Toki Pona has no word for <i>to be</i>. In other words, a ᴘʀᴇᴅɪᴄᴀᴛᴇ consisting of a noun already means <i>to be (that ɴᴏᴜɴ)</i>.</summary>
+  <summary>The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **li** marks the following phrase as an ɪɴᴅɪᴄᴀᴛɪᴠᴇ. Note that Toki Pona has no word for *to be*. In other words, a ᴘʀᴇᴅɪᴄᴀᴛᴇ consisting of a noun already means *to be (that ɴᴏᴜɴ)*.</summary>
   <details open>
-    <summary><b>ona li mama sina.</b></summary>
-    <i>They are your parents.</i>
+    <summary>**ona li mama sina.**</summary>
+    *They are your parents.*
   </details>
   <details>
-    <summary><i>She is Sonja.</i></summary>
-    <b>ona li jan Sonja.</b>
+    <summary>*She is Sonja.*</summary>
+    **ona li jan Sonja.**
   </details>
 </details>
 
@@ -162,45 +162,45 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 | ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* |
 
 <details>
-  <summary>The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ <b>o</b> marks the following phrase as a ᴠᴏʟɪᴛɪᴠᴇ or (omitting the ꜱᴜʙᴊᴇᴄᴛ) ɪᴍᴘᴇʀᴀᴛɪᴠᴇ.</summary>
+  <summary>The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **o** marks the following phrase as a ᴠᴏʟɪᴛɪᴠᴇ or (omitting the ꜱᴜʙᴊᴇᴄᴛ) ɪᴍᴘᴇʀᴀᴛɪᴠᴇ.</summary>
 
   <details open>
-    <summary><b>ona o mama sina.</b></summary>
-    <i>They should be your parents.</i>
+    <summary>**ona o mama sina.**</summary>
+    *They should be your parents.*
   </details>
   <details open>
-    <summary><b>o mama ona!</b></summary>
-    <i>Be her parents.</i>
+    <summary>**o mama ona!**</summary>
+    *Be her parents.*
   </details>
   <details>
-    <summary><i>You should be a human being.</i></summary>
-    <b>sina o jan.</b>
+    <summary>*You should be a human being.*</summary>
+    **sina o jan.**
   </details>
   <details>
-    <summary><i>Be a human being!</i></summary>
-    <b>o jan!</b>
+    <summary>*Be a human being!*</summary>
+    **o jan!**
   </details>
 </details>
 
 <details>
-  <summary>Omitting the ᴘʀᴇᴅɪᴄᴀᴛᴇ, a ꜱᴇɴᴛᴇɴᴄᴇ with the ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ <b>o</b> is a ᴠᴏᴄᴀᴛɪᴠᴇ.</summary>
+  <summary>Omitting the ᴘʀᴇᴅɪᴄᴀᴛᴇ, a ꜱᴇɴᴛᴇɴᴄᴇ with the ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **o** is a ᴠᴏᴄᴀᴛɪᴠᴇ.</summary>
 
   <details open>
-    <summary><b>mama mi o!</b></summary>
-    <i>My parents!</i>
+    <summary>**mama mi o!**</summary>
+    *My parents!*
   </details>
 
   <details>
-    <summary><i>Hey Sonja!</i></summary>
-    <b>jan Sonja o!</b>
+    <summary>*Hey Sonja!*</summary>
+    **jan Sonja o!**
   </details>
 </details>
 
 <details>
-  <summary>Instead of a ᴠᴏᴄᴀᴛɪᴠᴇ followed by an ɪᴍᴘᴇʀᴀᴛɪᴠᴇ (<b>... o, o ...</b>), a ᴠᴏʟɪᴛɪᴠᴇ (<b>... o ...</b>) is used.</summary>
+  <summary>Instead of a ᴠᴏᴄᴀᴛɪᴠᴇ followed by an ɪᴍᴘᴇʀᴀᴛɪᴠᴇ (**... o, o ...**), a ᴠᴏʟɪᴛɪᴠᴇ (**... o ...**) is used.</summary>
   <details>
-    <summary><b>jan Ali o mama!</b></summary>
-    <i>Hey Ali, be a parent!</i>
+    <summary>**jan Ali o mama!**</summary>
+    *Hey Ali, be a parent!*
   </details>
 </details>
 
@@ -222,28 +222,28 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
   <summary>...</summary>
 
   <details open>
-    <summary><b>jan li tawa.</b></summary>
-    <i>Someone is moving.</i>
+    <summary>**jan li tawa.**</summary>
+    *Someone is moving.*
   </details>
 
   <details open>
-    <summary><b>ona li tawa sina.</b></summary>
-    <i>She is moving towards you.</i>
+    <summary>**ona li tawa sina.**</summary>
+    *She is moving towards you.*
   </details>
 
   <details open>
-    <summary><b>ona li kulupu mama tawa mi.</b></summary>
-    <i>They are family to me.</i>
+    <summary>**ona li kulupu mama tawa mi.**</summary>
+    *They are family to me.*
   </details>
 
   <details>
-    <summary><i>My mother is there.</i></summary>
-    <b>mama meli mi li lon.</b>
+    <summary>*My mother is there.*</summary>
+    **mama meli mi li lon.**
   </details>
 
   <details>
-    <summary><i>She is with your father.</i></summary>
-    <b>ona li lon mama mije sina.</b>
+    <summary>*She is with your father.*</summary>
+    **ona li lon mama mije sina.**
   </details>
 </details>
 
