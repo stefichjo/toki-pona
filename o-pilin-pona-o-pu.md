@@ -2,12 +2,6 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-<details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
-</details>
-
 | | | |
 |:-|:-|:-|
 | [**People**](#people) | [**Mood Markers**](#mood-markers) | [**Prepositions 1/2**](#prepositions-12) |
@@ -31,13 +25,24 @@ This is how you dropdown.
 
 Topic: [**People**](#people)
 
+<details>
+  <summary>**ijo mi**</summary>
+  *something of mine/ours*
+</details>
+
+<details>
+  <summary>**ijo sina**</summary>
+  *something of yours*
+</details>
+
+<details>
+  <summary>*something of hers/his/theirs*</summary>
+  **ijo ona**
+</details>
+
 | jan Sonja |
 |:-|
 | *Sonja* |
-
-| ijo mi | ijo sina | ijo ona |
-|-|-|-|
-| *something of mine/ours* | *something of yours* | *something of hers/his/theirs* |
 
 | ona meli | ona mije |
 |-|-|
