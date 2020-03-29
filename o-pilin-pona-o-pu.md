@@ -40,13 +40,19 @@ Topic: [**People**](#people)
   <b>ijo ona</b>
 </details>
 
+<details>
+  <summary><b>ona meli</b></summary>
+  <i>she/they</i>
+</details>
+
+<details>
+  <summary><i>he/they</i></summary>
+  <b>ona mije</b>
+</details>
+
 | jan Sonja |
 |:-|
 | *Sonja* |
-
-| ona meli | ona mije |
-|-|-|
-| *she*/*they* | *he*/*they* |
 
 ---
 
