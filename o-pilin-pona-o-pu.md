@@ -21,27 +21,53 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [**Effects**](#effects) | [**Conjunctions**](#conjunctions) | [**Time 3/3**](#time-33) |
 | <img src="musi/pona/lili.png" height="50"><img src="musi/pona/suli.png" height="50"> &nbsp;&nbsp;<img src="musi/pona/ilo.png" height="50"><img src="musi/pona/mani.png" height="50"><img src="musi/pona/wawa.png" height="50"> <br><img src="musi/pona/lete.png" height="50"><img src="musi/pona/seli.png" height="50"> <br><img src="musi/pona/pona.png" height="50"><img src="musi/pona/ike.png" height="50"> &nbsp;&nbsp;<img src="musi/pona/pakala.png" height="50"><img src="musi/pona/utala.png" height="50"><img src="musi/pona/nasa.png" height="50"> <br><img src="musi/pona/suwi.png" height="50"><img src="musi/pona/jaki.png" height="50"> | <img src="musi/pona/anu.png" height="50"> <br><img src="musi/pona/en.png" height="50"> <br><img src="musi/pona/la.png" height="50"> | <img src="musi/pona/nasin.png" height="50"> <br><img src="musi/pona/tenpo.png" height="50"> <br><img src="musi/pona/nanpa.png" height="50"> |
 
+---
+
+Topic: [**People**](#people)
+
 | jan Sonja |
 |:-|
 | *Sonja* |
 
 | ijo mi | ijo sina | ijo ona |
 |-|-|-|
-| *something of mine/ours* | *something of yours* | *something of his/hers/theirs* |
+| *something of mine/ours* | *something of yours* | *something of hers/his/theirs* |
+
+| ona meli | ona mije |
+|-|-|
+| *she*/*they* | *he*/*they* |
+
+---
 
 | mama meli | mama mije | kulupu mama |
 |-|-|-|
 | *mother* | *father* | *family* |
 
+Plus: [**Mood Markers**](#mood-markers)
+
+| ona li mama sina. | ona li jan Sonja. |
+|-|-|
+| *She is your parent.* | *She is Sonja.* |
+
 ---
 
-| ona li mama. | ona li jan Sonja. | jan Sonja o! |
+| jan Sonja o! | sina o mama ona. | o mama ona. |
 |-|-|-|
-| *She is a parent.* | *She is Sonja.* | *Hey Sonja!* |
+| *Hey Sonja!* | *You should be their parents.* | *Be their parents.* |
 
-| sina o mama ona. | o mama ona. |
+Bonus: [**Prepositions 1/2***](#prepositions-12)
+
+| jan li tawa. | ona li tawa sina. |
 |-|-|
-| *You should be their parents.* | *Be their parents.* |
+| *Someone is moving.* | *She is moving towards you.* |
+
+| ona li kulupu mama tawa mi. |
+|-|
+| *They are family to me.* |
+
+| ona li tawa sina. | o tawa ona! |
+|-|-|
+| *She is moving towards you.* | *Go to her!* |
 
 ## Topics
 
