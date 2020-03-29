@@ -33,23 +33,19 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | *thing* | *person* |
 
 <details>
-  <summary>When refering to people by their name, the name is attached to <b>jan</b> — <i>person</i>. For example, <i>Sonja</i> is <b>jan Sonja</b>, whereas <b>Sonja</b> is merely (the sound of) the name <i>Sonja</i> itself.</summary>
-
+  <summary>When refering to people by their name, the name is attached to <b>jan</b> — <i>person</i>. For example, <i>Sonja</i> is <b>jan Sonja</b>, whereas <b>Sonja</b> is merely (the sound of) the name *Sonja* itself.</summary>
   <details open>
     <summary><b>jan Melani</b></summary>
     <i>Mélanie</i>
   </details>
-
   <details open>
     <summary><b>jan Epawan Linkan</b></summary>
     <i>Abraham Lincoln</i>
   </details>
-
   <details open>
     <summary><b>jan Sulu</b></summary>
     <i>Mr. Sulu</i>
   </details>
-
   <details>
     <summary><i>Sonja</i></summary>
     <b>jan Sonja</b>
@@ -67,27 +63,22 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 
 <details>
   <summary>Adding a ɴᴏᴜɴ to a ɴᴏᴜɴ, <i>possession</i> is expressed.</summary>
-
   <details open>
     <summary><b>ijo jan</b></summary>
     <i>somebody's stuff</i>
   </details>
-
   <details open>
     <summary><b>ijo mi</b></summary>
     <i>my stuff, something of mine/ours</i>
   </details open>
-
   <details open>
     <summary><b>ijo sina</b></summary>
     <i>your stuff, something of yours</i>
   </details>
-
   <details>
     <summary><i>her/his/their stuff, something of hers/his/theirs</i></summary>
     <b>ijo ona</b>
   </details>
-
 </details>
 
 #### People 3/4
@@ -97,44 +88,32 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 | <img src="musi/pona/mama.png" height="150"> | <img src="musi/pona/meli.png" height="150"> | <img src="musi/pona/mije.png" height="150"> |
 | ɴᴏᴜɴ *parent* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of origin* | ɴᴏᴜɴ *female person* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* | ɴᴏᴜɴ *male person* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* |
 
-<details open>
-  <summary>ᴘᴇʀꜱᴏɴ ɴᴏᴜɴs imply <b>jan</b>.</summary>
-
-  <details open>
-    <summary>ᴘᴇʀꜱᴏɴ <b>meli</b></summary>
-      ɴᴏᴜɴ <i>somebody female</i> → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ <i>female</i>
-  </details>
-</details>
-
-
 <details>
   <summary>Many words can be translated either as a ɴᴏᴜɴ or as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. Adding them after a ɴᴏᴜɴ, often <i>quality</i> is expressed.</summary>
-
-  <details open>
-    <summary><b>ijo mama</b></summary>
-    <i>origin (= something of origin)</i>
-  </details>
-
   <details open>
     <summary><b>mama meli</b></summary>
     <i>mother (= female parent)</i>
   </details>
-
   <details open>
     <summary><b>ona mije</b></summary>
     <i>he (= male third person)</i>
   </details>
-
   <details>
     <summary><i>father (= male parent)</i></summary>
     <b>mama mije</b>
   </details>
-
   <details>
     <summary><i>she (= female third person)</i></summary>
     <b>ona meli</b>
   </details>
+</details>
 
+<details open>
+  <summary>ᴘᴇʀꜱᴏɴ ɴᴏᴜɴs imply <b>jan</b>.</summary>
+  <details open>
+    <summary>ᴘᴇʀꜱᴏɴ <b>meli</b></summary>
+      ɴᴏᴜɴ <i>somebody female</i> → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ <i>female</i>
+  </details>
 </details>
 
 #### People 4/4
@@ -146,12 +125,10 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 
 <details>
   <summary>...</summary>
-
   <details open>
     <summary><b>kulupu mama</b></summary>
     <i>family</i>
   </details>
-
 </details>
 
 ### Mood Markers
@@ -165,17 +142,14 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 
 <details>
   <summary>The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ <b>li</b> marks the following phrase as an ɪɴᴅɪᴄᴀᴛɪᴠᴇ. Note that Toki Pona has no word for <i>to be</i>. In other words, a ᴘʀᴇᴅɪᴄᴀᴛᴇ consisting of a noun already means <i>to be (that ɴᴏᴜɴ)</i>.</summary>
-
   <details open>
     <summary><b>ona li mama sina.</b></summary>
     <i>They are your parents.</i>
   </details>
-
   <details>
     <summary><i>She is Sonja.</i></summary>
     <b>ona li jan Sonja.</b>
   </details>
-
 </details>
 
 #### Mood Markers 2/2
@@ -192,17 +166,14 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
     <summary><b>ona o mama sina.</b></summary>
     <i>They should be your parents.</i>
   </details>
-
   <details open>
     <summary><b>o mama ona!</b></summary>
     <i>Be her parents.</i>
   </details>
-
   <details>
     <summary><i>You should be a human being.</i></summary>
     <b>sina o jan.</b>
   </details>
-
   <details>
     <summary><i>Be a human being!</i></summary>
     <b>o jan!</b>
