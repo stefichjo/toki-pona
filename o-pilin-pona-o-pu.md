@@ -63,28 +63,30 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 | <img src="musi/pona/mi.png" height="150"> | <img src="musi/pona/sina.png" height="150"> | <img src="musi/pona/ona.png" height="150"> |
 | ɴᴏᴜɴ *I*, *we* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *my*, *our* | ɴᴏᴜɴ *you* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* | ɴᴏᴜɴ *he*, *she*, *it*, *they* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *his*, *her*, *its*, *their* |
 
-Adding a ɴᴏᴜɴ to a ɴᴏᴜɴ, *possession* is expressed.
-
 <details>
-  <summary><b>ijo jan</b></summary>
-  <i>somebody's stuff</i>
-</details>
+  <summary>Adding a ɴᴏᴜɴ to a ɴᴏᴜɴ, <i>possession</i> is expressed.</summary>
 
-<details>
-  <summary><b>ijo mi</b></summary>
-  <i>my stuff, something of mine/ours</i>
-</details>
+  <details open>
+    <summary><b>ijo jan</b></summary>
+    <i>somebody's stuff</i>
+  </details>
 
-<details>
-  <summary><b>ijo sina</b></summary>
-  <i>your stuff, something of yours</i>
-</details>
+  <details open>
+    <summary><b>ijo mi</b></summary>
+    <i>my stuff, something of mine/ours</i>
+  </details open>
 
-<details>
-  <summary><i>her/his/their stuff, something of hers/his/theirs</i></summary>
-  <b>ijo ona</b>
-</details>
+  <details open>
+    <summary><b>ijo sina</b></summary>
+    <i>your stuff, something of yours</i>
+  </details>
 
+  <details>
+    <summary><i>her/his/their stuff, something of hers/his/theirs</i></summary>
+    <b>ijo ona</b>
+  </details>
+
+</details>
 #### People 3/4
 
 | ᴘᴇʀꜱᴏɴ mama | ᴘᴇʀꜱᴏɴ meli | ᴘᴇʀꜱᴏɴ mije |
@@ -116,8 +118,8 @@ Adding a ɴᴏᴜɴ to a ɴᴏᴜɴ, *possession* is expressed.
   </details>
 
   <details>
-    <summary><i>he (= male third person)</i></summary>
-    <b>ona mije</b>
+    <summary><i>she (= female third person)</i></summary>
+    <b>ona meli</b>
   </details>
 
 </details>
