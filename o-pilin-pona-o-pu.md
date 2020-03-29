@@ -34,7 +34,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 <details>
   <summary>
-
   **jan**
   </summary>
 
