@@ -2,7 +2,7 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-***TODO*** rearrange lessons<br>
+***TODO*** column proportions<br>
 
 | | | |
 |:-|:-|:-|
@@ -235,12 +235,21 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ## Specifics
 
-### Numbers
+### Phrase Markers
 
-| ɴᴜᴍʙᴇʀ wan | ɴᴜᴍʙᴇʀ tu | ɴᴜᴍʙᴇʀ mute |
-|:-|:-|:-|
-| <img src="musi/pona/wan.png" height="150"> | <img src="musi/pona/tu.png" height="150"> | <img src="musi/pona/mute.png" height="150"> |
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *one* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *three* |
+#### Mood Markers
+
+| ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ li | ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ o |
+|:-|:-|
+| <img src="musi/pona/li.png" height="150"> | <img src="musi/pona/o.png" height="150"> |
+| ᴘᴀʀᴛɪᴄʟᴇ *(indicative)* | ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* |
+
+#### Case Markers
+
+| ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ e | ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ pi |
+|:-|:-|
+| <img src="musi/pona/e.png" height="150"> | <img src="musi/pona/pi.png" height="150"> |
+| ᴘᴀʀᴛɪᴄʟᴇ *(accusative)* | ᴘᴀʀᴛɪᴄʟᴇ *(genitive)* |
 
 ### Correlatives
 
@@ -248,6 +257,13 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|:-|:-|
 | <img src="musi/pona/ni.png" height="150"> | <img src="musi/pona/seme.png" height="150"> | <img src="musi/pona/ale.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *that*, *this* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *what*, *which* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *all*, *every* |
+
+### Numbers
+
+| ɴᴜᴍʙᴇʀ wan | ɴᴜᴍʙᴇʀ tu | ɴᴜᴍʙᴇʀ mute |
+|:-|:-|:-|
+| <img src="musi/pona/wan.png" height="150"> | <img src="musi/pona/tu.png" height="150"> | <img src="musi/pona/mute.png" height="150"> |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *one* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *three* |
 
 ### Auxiliaries
 
@@ -263,13 +279,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/a.png" height="150"> | <img src="musi/pona/ala.png" height="150"> | <img src="musi/pona/mu.png" height="150"> |
 | ᴘᴀʀᴛɪᴄʟᴇ *(confirmation)* | ᴘᴀʀᴛɪᴄʟᴇ *(negation)* | ᴘᴀʀᴛɪᴄʟᴇ *(communication)* |
 
-### Conjunctions
-
-| ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ anu | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ en | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ la |
-|:-|:-|:-|
-| <img src="musi/pona/anu.png" height="150"> | <img src="musi/pona/en.png" height="150"> | <img src="musi/pona/la.png" height="150"> |
-| ᴘᴀʀᴛɪᴄʟᴇ *or* | ᴘᴀʀᴛɪᴄʟᴇ *and* | ᴘᴀʀᴛɪᴄʟᴇ *if-then* |
-
 ### Modifiers
 
 | ᴍᴏᴅɪꜰɪᴇʀ kule | ᴍᴏᴅɪꜰɪᴇʀ pimeja | ᴍᴏᴅɪꜰɪᴇʀ walo |
@@ -282,23 +291,14 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/jelo.png" height="150"> | <img src="musi/pona/laso.png" height="150"> | <img src="musi/pona/loje.png" height="150"> |
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *yellow* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blue*, *green* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *red* |
 
+### Conjunctions
+
+| ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ anu | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ en | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ la |
+|:-|:-|:-|
+| <img src="musi/pona/anu.png" height="150"> | <img src="musi/pona/en.png" height="150"> | <img src="musi/pona/la.png" height="150"> |
+| ᴘᴀʀᴛɪᴄʟᴇ *or* | ᴘᴀʀᴛɪᴄʟᴇ *and* | ᴘᴀʀᴛɪᴄʟᴇ *if-then* |
+
 ## Basics
-
-### Phrase Markers
-
-#### Mood Markers
-
-| ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ li | ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ o |
-|:-|:-|
-| <img src="musi/pona/li.png" height="150"> | <img src="musi/pona/o.png" height="150"> |
-| ᴘᴀʀᴛɪᴄʟᴇ *(indicative)* | ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* |
-
-#### Mood Markers
-
-| ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ e | ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ pi |
-|:-|:-|
-| <img src="musi/pona/e.png" height="150"> | <img src="musi/pona/pi.png" height="150"> |
-| ᴘᴀʀᴛɪᴄʟᴇ *(accusative)* | ᴘᴀʀᴛɪᴄʟᴇ *(genitive)* |
 
 ### Prepositions
 
@@ -368,10 +368,14 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/kama.png" height="150"> | <img src="musi/pona/pini.png" height="150"> | <img src="musi/pona/awen.png" height="150"> |
 | ɴᴏᴜɴ *start* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *future* + <br>ᴠᴇʀʙ *to achieve* | ɴᴏᴜɴ *end* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *past* + <br>ᴠᴇʀʙ *to cancel* | ɴᴏᴜɴ *duration* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *present* + <br>ᴠᴇʀʙ *to continue* |
 
+#### Time 2/3
+
 | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ open | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ selo | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ sijelo |
 |:-|:-|:-|
 | <img src="musi/pona/open.png" height="150"> | <img src="musi/pona/selo.png" height="150"> | <img src="musi/pona/sijelo.png" height="150"> |
 | ɴᴏᴜɴ *entrance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *accessible* + <br>ᴠᴇʀʙ *to turn on* | ɴᴏᴜɴ *closure* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *closed* + <br>ᴠᴇʀʙ *to conclude* | ɴᴏᴜɴ *state* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *physical* + <br>ᴠᴇʀʙ *to establish* |
+
+#### Time 3/3
 
 | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ nasin | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ tenpo | ᴀʀᴇᴀ + ᴀᴜxɪʟɪᴀʀʏ nanpa |
 |:-|:-|:-|
