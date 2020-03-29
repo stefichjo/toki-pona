@@ -26,13 +26,13 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 Topic: [**People**](#people)
 
 <details>
-  <summary>**ijo mi**</summary>
-  *something of mine/ours*
+  <summary><b>ijo mi</b></summary>
+  <i>something of mine/ours</i>
 </details>
 
 <details>
-  <summary>**ijo sina**</summary>
-  *something of yours*
+  <summary><b>ijo sina</b></summary>
+  <i>something of yours</i>
 </details>
 
 <details>
