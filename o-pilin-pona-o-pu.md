@@ -72,7 +72,7 @@ Many words can be translated either as a noun or as an adjective. Adding them af
 
 <details>
   <summary><b>ona meli</b></summary>
-  <i>she</i>
+  <i>she (= female third person)</i>
 </details>
 
 <details>
@@ -84,11 +84,11 @@ Many words can be translated either as a noun or as an adjective. Adding them af
 
 <details>
   <summary><b>mama meli</b></summary>
-  <i>mother</i>
+  <i>mother (= female parent)</i>
 </details>
 
 <details>
-  <summary><i>father</i></summary>
+  <summary><i>father (= male parent)</i></summary>
   <b>mama mije</b>
 </details>
 
@@ -96,11 +96,11 @@ Many words can be translated either as a noun or as an adjective. Adding them af
 
 <details>
   <summary><b>ijo mama</b></summary>
-  <i>origin</i>
+  <i>origin (= something of origin)</i>
 </details>
 
 <details>
-  <summary><i>family</i></summary>
+  <summary><i>family (= group of origin)</i></summary>
   <b>kulupu mama</b>
 </details>
 
