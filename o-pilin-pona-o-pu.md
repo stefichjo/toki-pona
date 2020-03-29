@@ -49,6 +49,8 @@ When refering to people by their name, the name is attached to **jan** — *pers
 
 ---
 
+Adding a noun to a noun, *possession* is expressed.
+
 <details>
   <summary><b>ijo mi</b></summary>
   <i>something of mine/ours</i>
@@ -65,6 +67,8 @@ When refering to people by their name, the name is attached to **jan** — *pers
 </details>
 
 ---
+
+Many words can be translated either as a noun or as an adjective. Adding them after a noun, most of the cases *quality* is expressed.
 
 <details>
   <summary><b>ona meli</b></summary>
