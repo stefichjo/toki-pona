@@ -7,6 +7,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 This should work. *Really.*
 </summary>
+
 In fact, it **does**.
 </details>
 
