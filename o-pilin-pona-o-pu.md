@@ -64,6 +64,11 @@ When refering to people by their name, the name is attached to **jan** — *pers
 Adding a noun to a noun, *possession* is expressed.
 
 <details>
+  <summary><b>ijo jan</b></summary>
+  <i>somebody's stuff</i>
+</details>
+
+<details>
   <summary><b>ijo mi</b></summary>
   <i>something of mine/ours</i>
 </details>
