@@ -21,8 +21,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [**Effects**](#effects) | [**Conjunctions**](#conjunctions) | [**Time 3/3**](#time-33) |
 | <img src="musi/pona/lili.png" height="50"><img src="musi/pona/suli.png" height="50"> &nbsp;&nbsp;<img src="musi/pona/ilo.png" height="50"><img src="musi/pona/mani.png" height="50"><img src="musi/pona/wawa.png" height="50"> <br><img src="musi/pona/lete.png" height="50"><img src="musi/pona/seli.png" height="50"> <br><img src="musi/pona/pona.png" height="50"><img src="musi/pona/ike.png" height="50"> &nbsp;&nbsp;<img src="musi/pona/pakala.png" height="50"><img src="musi/pona/utala.png" height="50"><img src="musi/pona/nasa.png" height="50"> <br><img src="musi/pona/suwi.png" height="50"><img src="musi/pona/jaki.png" height="50"> | <img src="musi/pona/anu.png" height="50"> <br><img src="musi/pona/en.png" height="50"> <br><img src="musi/pona/la.png" height="50"> | <img src="musi/pona/nasin.png" height="50"> <br><img src="musi/pona/tenpo.png" height="50"> <br><img src="musi/pona/nanpa.png" height="50"> |
 
----
-
 ### People
 
 #### People 1/4
@@ -93,6 +91,11 @@ Adding a noun to a noun, *possession* is expressed.
 Many words can be translated either as a noun or as an adjective. Adding them after a noun, most of the cases *quality* is expressed.
 
 <details>
+  <summary><b>ijo mama</b></summary>
+  <i>origin (= something of origin)</i>
+</details>
+
+<details>
   <summary><b>mama meli</b></summary>
   <i>mother (= female parent)</i>
 </details>
@@ -112,23 +115,32 @@ Many words can be translated either as a noun or as an adjective. Adding them af
   <b>ona mije</b>
 </details>
 
----
+#### People 4/4
 
-<details>
-  <summary><b>ijo mama</b></summary>
-  <i>origin (= something of origin)</i>
-</details>
+| ᴛʜɪɴɢ kulupu |
+|:-|
+| <img src="musi/pona/kulupu.png" height="150"> |
+| ɴᴏᴜɴ *community* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *in common* |
 
 <details>
   <summary><i>family (= group of origin)</i></summary>
   <b>kulupu mama</b>
 </details>
 
-Plus: [**Mood Markers**](#mood-markers)
+### Mood Markers
+
+#### Mood Markers 1/2
+
+| ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ li |
+|:-|
+| <img src="musi/pona/li.png" height="150"> |
+| ᴘᴀʀᴛɪᴄʟᴇ *(indicative)* |
+
+The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **li** marks the following phrase as an ɪɴᴅɪᴄᴀᴛɪᴠᴇ. Note that Toki Pona has no word for *to be*. In other words, a ᴘʀᴇᴅɪᴄᴀᴛᴇ consisting of a noun already means *to be (that noun)*.
 
 <details>
   <summary><b>ona li mama sina.</b></summary>
-  <i>She is your parent.</i>
+  <i>They are your parents.</i>
 </details>
 
 <details>
@@ -136,39 +148,55 @@ Plus: [**Mood Markers**](#mood-markers)
   <b>ona li jan Sonja.</b>
 </details>
 
----
+#### Mood Markers 2/2
+
+| ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ o |
+|:-|
+| <img src="musi/pona/o.png" height="150"> |
+| ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* |
+
+The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **o** marks the following phrase as a ᴠᴏʟɪᴛɪᴠᴇ or (omitting the ꜱᴜʙᴊᴇᴄᴛ) ɪᴍᴘᴇʀᴀᴛɪᴠᴇ.
 
 <details>
-  <summary><b>jan Sonja o!</b></summary>
-  <i>Hey Sonja!</i>
+  <summary><b>ona o mama sina.</b></summary>
+  <i>They should be your parents.</i>
 </details>
 
 <details>
-  <summary><i>My mother/father!</i></summary>
-  <b>mama mi o!</b>
+  <summary><b>o mama ona!</b></summary>
+  <i>Be her parents.</i>
 </details>
-
----
 
 <details>
-  <summary><b>jan Ali o mama.</b></summary>
-  <i>Ali should be a parent.</i>
+  <summary><i>You should be a human being.</i></summary>
+  <b>sina o jan.</b>
 </details>
+
+<details>
+  <summary><i>Be a human being!</i></summary>
+  <b>o jan!</b>
+</details>
+
+Omitting the ᴘʀᴇᴅɪᴄᴀᴛᴇ, a ꜱᴇɴᴛᴇɴᴄᴇ with the ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **o** is a ᴠᴏᴄᴀᴛɪᴠᴇ.
+
+<details>
+  <summary><b>mama mi o!</b></summary>
+  <i>My parents!</i>
+</details>
+
+<details>
+  <summary><i>Hey Sonja!</i></summary>
+  <b>jan Sonja o!</b>
+</details>
+
+Instead of a ᴠᴏᴄᴀᴛɪᴠᴇ followed by an ɪᴍᴘᴇʀᴀᴛɪᴠᴇ (**... o, o ...**), a ᴠᴏʟɪᴛɪᴠᴇ (**... o ...**) is used.
 
 <details>
   <summary><b>jan Ali o mama!</b></summary>
-  <i>Hey Ali, be a parent.</i>
+  <i>Hey Ali, be a parent!</i>
 </details>
 
-<details>
-  <summary><i>You should be my parent.</i></summary>
-  <b>sina o mama mi.</b>
-</details>
-
-<details>
-  <summary><i>Be my parent.</i></summary>
-  <b>o mama mi!</b>
-</details>
+---
 
 Bonus: [**Prepositions 1/2**](#prepositions-12)
 
@@ -185,15 +213,6 @@ Bonus: [**Prepositions 1/2**](#prepositions-12)
 | *She is moving towards you.* | *Go to her!* |
 
 ## Topics
-
-### People
-
-#### People 4/4
-
-| ᴛʜɪɴɢ kulupu |
-|:-|
-| <img src="musi/pona/kulupu.png" height="150"> |
-| ɴᴏᴜɴ *community* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *in common* |
 
 ### Communication
 
@@ -366,13 +385,6 @@ Bonus: [**Prepositions 1/2**](#prepositions-12)
 ## Specifics
 
 ### Phrase Markers
-
-#### Mood Markers
-
-| ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ li | ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ o |
-|:-|:-|
-| <img src="musi/pona/li.png" height="150"> | <img src="musi/pona/o.png" height="150"> |
-| ᴘᴀʀᴛɪᴄʟᴇ *(indicative)* | ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* |
 
 #### Case Markers
 
