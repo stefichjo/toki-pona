@@ -173,38 +173,42 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 | <img src="musi/pona/o.png" height="150"> |
 | ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* |
 
-The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **o** marks the following phrase as a ᴠᴏʟɪᴛɪᴠᴇ or (omitting the ꜱᴜʙᴊᴇᴄᴛ) ɪᴍᴘᴇʀᴀᴛɪᴠᴇ.
-
 <details>
-  <summary><b>ona o mama sina.</b></summary>
-  <i>They should be your parents.</i>
+  <summary>The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **o** marks the following phrase as a ᴠᴏʟɪᴛɪᴠᴇ or (omitting the ꜱᴜʙᴊᴇᴄᴛ) ɪᴍᴘᴇʀᴀᴛɪᴠᴇ.</summary>
+
+  <details>
+    <summary><b>ona o mama sina.</b></summary>
+    <i>They should be your parents.</i>
+  </details>
+
+  <details>
+    <summary><b>o mama ona!</b></summary>
+    <i>Be her parents.</i>
+  </details>
+
+  <details>
+    <summary><i>You should be a human being.</i></summary>
+    <b>sina o jan.</b>
+  </details>
+
+  <details>
+    <summary><i>Be a human being!</i></summary>
+    <b>o jan!</b>
+  </details>
 </details>
 
 <details>
-  <summary><b>o mama ona!</b></summary>
-  <i>Be her parents.</i>
-</details>
+  <summary>Omitting the ᴘʀᴇᴅɪᴄᴀᴛᴇ, a ꜱᴇɴᴛᴇɴᴄᴇ with the ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **o** is a ᴠᴏᴄᴀᴛɪᴠᴇ.</summary>
 
-<details>
-  <summary><i>You should be a human being.</i></summary>
-  <b>sina o jan.</b>
-</details>
+  <details>
+    <summary><b>mama mi o!</b></summary>
+    <i>My parents!</i>
+  </details>
 
-<details>
-  <summary><i>Be a human being!</i></summary>
-  <b>o jan!</b>
-</details>
-
-Omitting the ᴘʀᴇᴅɪᴄᴀᴛᴇ, a ꜱᴇɴᴛᴇɴᴄᴇ with the ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **o** is a ᴠᴏᴄᴀᴛɪᴠᴇ.
-
-<details>
-  <summary><b>mama mi o!</b></summary>
-  <i>My parents!</i>
-</details>
-
-<details>
-  <summary><i>Hey Sonja!</i></summary>
-  <b>jan Sonja o!</b>
+  <details>
+    <summary><i>Hey Sonja!</i></summary>
+    <b>jan Sonja o!</b>
+  </details>
 </details>
 
 <details>
@@ -235,28 +239,33 @@ Omitting the ᴘʀᴇᴅɪᴄᴀᴛᴇ, a ꜱᴇɴᴛᴇɴᴄᴇ with the ᴍᴏ
 | *than* | *like* |
 
 <details>
-  <summary><b>jan li tawa.</b></summary>
-  <i>Someone is moving.</i>
-</details>
+  <summary>...</summary>
 
-<details>
-  <summary><b>ona li tawa sina.</b></summary>
-  <i>She is moving towards you.</i>
-</details>
+  <details>
+    <summary><b>jan li tawa.</b></summary>
+    <i>Someone is moving.</i>
+  </details>
 
-<details>
-  <summary><b>ona li kulupu mama tawa mi.</b></summary>
-  <i>They are family to me.</i>
-</details>
+  <details>
+    <summary><b>ona li tawa sina.</b></summary>
+    <i>She is moving towards you.</i>
+  </details>
 
-<details>
-  <summary><i>My mother is there.</i></summary>
-  <b>mama meli mi li lon.</b>
-</details>
+  <details>
+    <summary><b>ona li kulupu mama tawa mi.</b></summary>
+    <i>They are family to me.</i>
+  </details>
 
-<details>
-  <summary><i>She is with your father.</i></summary>
-  <b>ona li lon mama mije sina.</b>
+  <details>
+    <summary><i>My mother is there.</i></summary>
+    <b>mama meli mi li lon.</b>
+  </details>
+
+  <details>
+    <summary><i>She is with your father.</i></summary>
+    <b>ona li lon mama mije sina.</b>
+  </details>
+
 </details>
 
 ## Topics
