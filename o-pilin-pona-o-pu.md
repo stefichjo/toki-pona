@@ -37,19 +37,32 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 When refering to people by their name, the name is attached to **jan** — *person*. For example, *Sonja* is **jan Sonja**, whereas **Sonja** is merely (the sound of) the name *Sonja* itself.</summary>
   <details open>
-    <summary>**jan Melani**</summary>
+    <summary>
+
+    **jan Melani**
+    </summary>
+
     *Mélanie*
   </details>
   <details open>
-    <summary>**jan Epawan Linkan**</summary>
+    <summary>
+
+    **jan Epawan Linkan**</summary>
+
     *Abraham Lincoln*
   </details>
   <details open>
-    <summary>**jan Sulu**</summary>
+    <summary>
+
+    **jan Sulu**</summary>
+
     *Mr. Sulu*
   </details>
   <details>
-    <summary>*Sonja*</summary>
+    <summary>
+    *Sonja*
+
+    </summary>
     **jan Sonja**
   </details>
 </details>
