@@ -31,7 +31,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | *thing* | *person* |
 
 <details>
-  <summary>When refering to people by their name, the name is attached to **jan** — *person*. For example, *Sonja* is **jan Sonja**, whereas **Sonja** is merely (the sound of) the name *Sonja* itself.</summary>
+  <summary>When refering to people by their name, the name is attached to <b>jan</b> — <i>person</i>. For example, <i>Sonja</i> is <b>jan Sonja</b>, whereas <b>Sonja</b> is merely (the sound of) the name <i>Sonja</i> itself.</summary>
 
   <details open>
     <summary><b>jan Melani</b></summary>
