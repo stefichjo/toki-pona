@@ -2,6 +2,12 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
 | | | |
 |:-|:-|:-|
 | [**People**](#people) | [**Mood Markers**](#mood-markers) | [**Prepositions 1/2**](#prepositions-12) |
@@ -55,7 +61,7 @@ Plus: [**Mood Markers**](#mood-markers)
 |-|-|-|
 | *Hey Sonja!* | *You should be their parents.* | *Be their parents.* |
 
-Bonus: [**Prepositions 1/2***](#prepositions-12)
+Bonus: [**Prepositions 1/2**](#prepositions-12)
 
 | jan li tawa. | ona li tawa sina. |
 |-|-|
