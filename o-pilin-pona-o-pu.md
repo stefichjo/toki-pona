@@ -174,14 +174,14 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 | ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* |
 
 <details>
-  <summary>The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **o** marks the following phrase as a ᴠᴏʟɪᴛɪᴠᴇ or (omitting the ꜱᴜʙᴊᴇᴄᴛ) ɪᴍᴘᴇʀᴀᴛɪᴠᴇ.</summary>
+  <summary>The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ <b>o</b> marks the following phrase as a ᴠᴏʟɪᴛɪᴠᴇ or (omitting the ꜱᴜʙᴊᴇᴄᴛ) ɪᴍᴘᴇʀᴀᴛɪᴠᴇ.</summary>
 
-  <details>
+  <details open>
     <summary><b>ona o mama sina.</b></summary>
     <i>They should be your parents.</i>
   </details>
 
-  <details>
+  <details open>
     <summary><b>o mama ona!</b></summary>
     <i>Be her parents.</i>
   </details>
@@ -198,9 +198,9 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 </details>
 
 <details>
-  <summary>Omitting the ᴘʀᴇᴅɪᴄᴀᴛᴇ, a ꜱᴇɴᴛᴇɴᴄᴇ with the ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **o** is a ᴠᴏᴄᴀᴛɪᴠᴇ.</summary>
+  <summary>Omitting the ᴘʀᴇᴅɪᴄᴀᴛᴇ, a ꜱᴇɴᴛᴇɴᴄᴇ with the ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ <b>o</b> is a ᴠᴏᴄᴀᴛɪᴠᴇ.</summary>
 
-  <details>
+  <details open>
     <summary><b>mama mi o!</b></summary>
     <i>My parents!</i>
   </details>
@@ -241,17 +241,17 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 <details>
   <summary>...</summary>
 
-  <details>
+  <details open>
     <summary><b>jan li tawa.</b></summary>
     <i>Someone is moving.</i>
   </details>
 
-  <details>
+  <details open>
     <summary><b>ona li tawa sina.</b></summary>
     <i>She is moving towards you.</i>
   </details>
 
-  <details>
+  <details open>
     <summary><b>ona li kulupu mama tawa mi.</b></summary>
     <i>They are family to me.</i>
   </details>
@@ -265,7 +265,6 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
     <summary><i>She is with your father.</i></summary>
     <b>ona li lon mama mije sina.</b>
   </details>
-
 </details>
 
 ## Topics
