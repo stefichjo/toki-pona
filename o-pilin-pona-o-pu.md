@@ -2,7 +2,13 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-## collapsible markdown?
+<details>
+<summary>
+
+This should work. *Really.*
+
+</summary>
+</details>
 
 <details>
 <summary>
@@ -51,11 +57,6 @@ print("hello world!")
 |:-|:-|
 | <img src="musi/pona/ijo.png" height="150"> | <img src="musi/pona/jan.png" height="150"> |
 | *thing* | *person* |
-
-<details>
-  <summary>This should work. *Really.*
-  </summary>
-</details>
 
 <details>
   <summary>When refering to people by their name, the name is attached to <b>jan</b> — <i>person</i>. For example, <i>Sonja</i> is <b>jan Sonja</b>, whereas <b>Sonja</b> is merely (the sound of) the name *Sonja* itself.</summary>
