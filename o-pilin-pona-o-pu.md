@@ -72,11 +72,11 @@ Many words can be translated either as a noun or as an adjective. Adding them af
 
 <details>
   <summary><b>ona meli</b></summary>
-  <i>she/they</i>
+  <i>she</i>
 </details>
 
 <details>
-  <summary><i>he/they</i></summary>
+  <summary><i>he (= male third person)</i></summary>
   <b>ona mije</b>
 </details>
 
@@ -84,21 +84,23 @@ Many words can be translated either as a noun or as an adjective. Adding them af
 
 <details>
   <summary><b>mama meli</b></summary>
-  <i>mother (+ the woman's parent)</i>
+  <i>mother</i>
 </details>
 
 <details>
-  <summary><i>father (+ the man's parent)</i></summary>
+  <summary><i>father</i></summary>
   <b>mama mije</b>
 </details>
 
+---
+
 <details>
   <summary><b>ijo mama</b></summary>
-  <i>origin (+ something of the parent)</i>
+  <i>origin</i>
 </details>
 
 <details>
-  <summary><i>family (+ the parent's group)</i></summary>
+  <summary><i>family</i></summary>
   <b>kulupu mama</b>
 </details>
 
@@ -109,15 +111,44 @@ Plus: [**Mood Markers**](#mood-markers)
   <i>She is your parent.</i>
 </details>
 
-|  | ona li jan Sonja. |
-|-|-|
-| ** | *She is Sonja.* |
+<details>
+  <summary><i>She is Sonja.</i></summary>
+  <b>ona li jan Sonja.</b>
+</details>
 
 ---
 
-| jan Sonja o! | sina o mama ona. | o mama ona. |
-|-|-|-|
-| *Hey Sonja!* | *You should be their parents.* | *Be their parents.* |
+<details>
+  <summary><b>jan Sonja o!</b></summary>
+  <i>Hey Sonja!</i>
+</details>
+
+<details>
+  <summary><i>My mother/father!</i></summary>
+  <b>mama mi o!</b>
+</details>
+
+---
+
+<details>
+  <summary><b>jan Ali o mama.</b></summary>
+  <i>Ali should be a parent.</i>
+</details>
+
+<details>
+  <summary><b>jan Ali o mama!</b></summary>
+  <i>Hey Ali, be a parent.</i>
+</details>
+
+<details>
+  <summary><i>You should be my parent.</i></summary>
+  <b>sina o mama mi.</b>
+</details>
+
+<details>
+  <summary><i>Be my parent.</i></summary>
+  <b>o mama mi!</b>
+</details>
 
 Bonus: [**Prepositions 1/2**](#prepositions-12)
 
