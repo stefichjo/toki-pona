@@ -35,7 +35,9 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 <details>
   <summary>
 
-When refering to people by their name, the name is attached to **jan** — *person*. For example, *Sonja* is **jan Sonja**, whereas **Sonja** is merely (the sound of) the name *Sonja* itself.</summary>
+  When refering to people by their name, the name is attached to **jan** — *person*. For example, *Sonja* is **jan Sonja**, whereas **Sonja** is merely (the sound of) the name *Sonja* itself.
+
+  </summary>
   <details open>
     <summary>
 
