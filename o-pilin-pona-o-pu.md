@@ -30,27 +30,31 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/ijo.png" height="150"> | <img src="musi/pona/jan.png" height="150"> |
 | *thing* | *person* |
 
-When refering to people by their name, the name is attached to **jan** — *person*. For example, *Sonja* is **jan Sonja**, whereas **Sonja** is merely (the sound of) the name *Sonja* itself. Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.php) hosted on [Pije](http://tokipona.net/tp/janpije/index.php)'s site.
-
 <details>
-  <summary><b>jan Melani</b></summary>
-  <i>Mélanie</i>
+  <summary>When refering to people by their name, the name is attached to **jan** — *person*. For example, *Sonja* is **jan Sonja**, whereas **Sonja** is merely (the sound of) the name *Sonja* itself.</summary>
+
+  <details open>
+    <summary><b>jan Melani</b></summary>
+    <i>Mélanie</i>
+  </details>
+
+  <details open>
+    <summary><b>jan Epawan Linkan</b></summary>
+    <i>Abraham Lincoln</i>
+  </details>
+
+  <details open>
+    <summary><b>jan Sulu</b></summary>
+    <i>Mr. Sulu</i>
+  </details>
+
+  <details>
+    <summary><i>Sonja</i></summary>
+    <b>jan Sonja</b>
+  </details>
 </details>
 
-<details>
-  <summary><b>jan Epawan Linkan</b></summary>
-  <i>Abraham Lincoln</i>
-</details>
-
-<details>
-  <summary><b>jan Sulu</b></summary>
-  <i>Mr. Sulu</i>
-</details>
-
-<details>
-  <summary><i>Sonja</i></summary>
-  <b>jan Sonja</b>
-</details>
+Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.php) hosted on [Pije](http://tokipona.net/tp/janpije/index.php)'s site.
 
 #### People 2/4
 
