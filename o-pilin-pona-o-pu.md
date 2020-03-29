@@ -2,6 +2,21 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
+## collapsible markdown?
+
+<details>
+<summary>
+
+# CLICK ME
+</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
 ***TODO*** move sections from nasin nimi<br>
 
 | | | |
