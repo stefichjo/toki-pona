@@ -35,18 +35,18 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 <details>
   <summary>
 
-  **jan**
+    **jan**
 
   </summary>
 
   <details>
-  <summary>
+    <summary>
 
-  This is a ***test***.
+      This is a ***test***.
 
-  </summary>
+    </summary>
 
-  *Really.*
+    *Really.*
 
   </details>
 </details>
