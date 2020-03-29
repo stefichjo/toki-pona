@@ -25,6 +25,8 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 Topic: [**People**](#people)
 
+When refering to people by their name, the name is attached to **jan** — *person*. For example, *Sonja* is **jan Sonja**, whereas **Sonja** is merely (the sound of) the name *Sonja* itself. Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.php) hosted on [Pije](http://tokipona.net/tp/janpije/index.php)'s site.
+
 <details>
   <summary><b>jan Melani</b></summary>
   <i>Mélanie</i>
