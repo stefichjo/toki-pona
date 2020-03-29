@@ -53,6 +53,11 @@ print("hello world!")
 | *thing* | *person* |
 
 <details>
+  <summary>This should work. *Really.*
+  </summary>
+</details>
+
+<details>
   <summary>When refering to people by their name, the name is attached to <b>jan</b> — <i>person</i>. For example, <i>Sonja</i> is <b>jan Sonja</b>, whereas <b>Sonja</b> is merely (the sound of) the name *Sonja* itself.</summary>
   <details open>
     <summary><b>jan Melani</b></summary>
