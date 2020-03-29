@@ -189,8 +189,6 @@ Omitting the ᴘʀᴇᴅɪᴄᴀᴛᴇ, a ꜱᴇɴᴛᴇɴᴄᴇ with the ᴍᴏ
   <b>jan Sonja o!</b>
 </details>
 
-Instead of a ᴠᴏᴄᴀᴛɪᴠᴇ followed by an ɪᴍᴘᴇʀᴀᴛɪᴠᴇ (**... o, o ...**), a ᴠᴏʟɪᴛɪᴠᴇ (**... o ...**) is used.
-
 <details>
   <summary>Instead of a ᴠᴏᴄᴀᴛɪᴠᴇ followed by an ɪᴍᴘᴇʀᴀᴛɪᴠᴇ (<b>... o, o ...</b>), a ᴠᴏʟɪᴛɪᴠᴇ (<b>... o ...</b>) is used.</summary>
   <details>
