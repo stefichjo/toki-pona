@@ -68,16 +68,16 @@ Adding a noun to a noun, *possession* is expressed.
 
 <details>
   <summary><b>ijo mi</b></summary>
-  <i>something of mine/ours</i>
+  <i>my stuff, something of mine/ours</i>
 </details>
 
 <details>
   <summary><b>ijo sina</b></summary>
-  <i>something of yours</i>
+  <i>your stuff, something of yours</i>
 </details>
 
 <details>
-  <summary><i>something of hers/his/theirs</i></summary>
+  <summary><i>her/his/their stuff, something of hers/his/theirs</i></summary>
   <b>ijo ona</b>
 </details>
 
@@ -123,8 +123,8 @@ Many words can be translated either as a noun or as an adjective. Adding them af
 | ɴᴏᴜɴ *community* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *in common* |
 
 <details>
-  <summary><i>family (= group of origin)</i></summary>
-  <b>kulupu mama</b>
+  <summary><b>kulupu mama</b></summary>
+  <i>family</i>
 </details>
 
 ### Mood Markers
@@ -198,19 +198,47 @@ Instead of a ᴠᴏᴄᴀᴛɪᴠᴇ followed by an ɪᴍᴘᴇʀᴀᴛɪᴠᴇ 
 
 ---
 
-Bonus: [**Prepositions 1/2**](#prepositions-12)
+#### Prepositions 1/2
 
-| jan li tawa. | ona li tawa sina. |
-|-|-|
-| *Someone is moving.* | *She is moving towards you.* |
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ lon |
+|:-|
+| <img src="musi/pona/lon.png" height="150"> |
+| *at* |
 
-| ona li kulupu mama tawa mi. |
-|-|
-| *They are family to me.* |
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tan | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
+|:-|:-|
+| <img src="musi/pona/tan.png" height="150"> | <img src="musi/pona/tawa.png" height="150"> |
+| *from* | *to* |
 
-| ona li tawa sina. | o tawa ona! |
-|-|-|
-| *She is moving towards you.* | *Go to her!* |
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ ante | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sama |
+|:-|:-|
+| <img src="musi/pona/ante.png" height="150"> | <img src="musi/pona/sama.png" height="150"> |
+| *than* | *like* |
+
+<details>
+  <summary><b>jan li tawa.</b></summary>
+  <i>Someone is moving.</i>
+</details>
+
+<details>
+  <summary><b>ona li tawa sina.</b></summary>
+  <i>She is moving towards you.</i>
+</details>
+
+<details>
+  <summary><b>ona li kulupu mama tawa mi.</b></summary>
+  <i>They are family to me.</i>
+</details>
+
+<details>
+  <summary><i>My mother is there.</i></summary>
+  <b>mama meli mi li lon.</b>
+</details>
+
+<details>
+  <summary><i>She is with your father.</i></summary>
+  <b>ona li lon mama mije sina.</b>
+</details>
 
 ## Topics
 
@@ -441,25 +469,6 @@ Bonus: [**Prepositions 1/2**](#prepositions-12)
 | ᴘᴀʀᴛɪᴄʟᴇ *or* | ᴘᴀʀᴛɪᴄʟᴇ *and* | ᴘᴀʀᴛɪᴄʟᴇ *if-then* |
 
 ## Basics
-
-### Prepositions
-
-#### Prepositions 1/2
-
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ lon |
-|:-|
-| <img src="musi/pona/lon.png" height="150"> |
-| *at* |
-
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tan | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
-|:-|:-|
-| <img src="musi/pona/tan.png" height="150"> | <img src="musi/pona/tawa.png" height="150"> |
-| *from* | *to* |
-
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ ante | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sama |
-|:-|:-|
-| <img src="musi/pona/ante.png" height="150"> | <img src="musi/pona/sama.png" height="150"> |
-| *than* | *like* |
 
 #### Prepositions 2/2
 
