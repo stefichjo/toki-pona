@@ -192,8 +192,11 @@ Omitting the ᴘʀᴇᴅɪᴄᴀᴛᴇ, a ꜱᴇɴᴛᴇɴᴄᴇ with the ᴍᴏ
 Instead of a ᴠᴏᴄᴀᴛɪᴠᴇ followed by an ɪᴍᴘᴇʀᴀᴛɪᴠᴇ (**... o, o ...**), a ᴠᴏʟɪᴛɪᴠᴇ (**... o ...**) is used.
 
 <details>
-  <summary><b>jan Ali o mama!</b></summary>
-  <i>Hey Ali, be a parent!</i>
+  <summary>Instead of a ᴠᴏᴄᴀᴛɪᴠᴇ followed by an ɪᴍᴘᴇʀᴀᴛɪᴠᴇ (<b>... o, o ...</b>), a ᴠᴏʟɪᴛɪᴠᴇ (<b>... o ...</b>) is used.</summary>
+  <details>
+    <summary><b>jan Ali o mama!</b></summary>
+    <i>Hey Ali, be a parent!</i>
+  </details>
 </details>
 
 ---
