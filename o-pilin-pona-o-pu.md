@@ -26,6 +26,11 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 Topic: [**People**](#people)
 
 <details>
+  <summary><i>Sonja</i></summary>
+  <b>jan Sonja</b>
+</details>
+
+<details>
   <summary><b>ijo mi</b></summary>
   <i>something of mine/ours</i>
 </details>
@@ -50,15 +55,27 @@ Topic: [**People**](#people)
   <b>ona mije</b>
 </details>
 
-| jan Sonja |
-|:-|
-| *Sonja* |
-
 ---
 
-| mama meli | mama mije | kulupu mama |
-|-|-|-|
-| *mother* | *father* | *family* |
+<details>
+  <summary><b>mama meli</b></summary>
+  <i>mother (+ the woman's parent)</i>
+</details>
+
+<details>
+  <summary><i>father (+ the man's parent)</i></summary>
+  <b>mama mije</b>
+</details>
+
+<details>
+  <summary><b>ijo mama</b></summary>
+  <i>origin (+ something of the parent)</i>
+</details>
+
+<details>
+  <summary><i>family (+ the parent's group)</i></summary>
+  <b>kulupu mama</b>
+</details>
 
 Plus: [**Mood Markers**](#mood-markers)
 
