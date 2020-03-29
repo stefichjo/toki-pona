@@ -40,9 +40,11 @@ When refering to people by their name, the name is attached to **jan** — *pers
     <summary>
 
     **jan Melani**
+
     </summary>
 
     *Mélanie*
+
   </details>
   <details open>
     <summary>
@@ -50,19 +52,24 @@ When refering to people by their name, the name is attached to **jan** — *pers
     **jan Epawan Linkan**</summary>
 
     *Abraham Lincoln*
+
   </details>
   <details open>
     <summary>
 
-    **jan Sulu**</summary>
+    **jan Sulu**
+
+    </summary>
 
     *Mr. Sulu*
   </details>
   <details>
     <summary>
+
     *Sonja*
 
     </summary>
+
     **jan Sonja**
   </details>
 </details>
