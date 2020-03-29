@@ -23,7 +23,14 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ---
 
-Topic: [**People**](#people)
+### People
+
+#### People 1/4
+
+| ɴᴏᴜɴ ijo | ɴᴏᴜɴ jan |
+|:-|:-|
+| <img src="musi/pona/ijo.png" height="150"> | <img src="musi/pona/jan.png" height="150"> |
+| *thing* | *person* |
 
 When refering to people by their name, the name is attached to **jan** — *person*. For example, *Sonja* is **jan Sonja**, whereas **Sonja** is merely (the sound of) the name *Sonja* itself. Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.php) hosted on [Pije](http://tokipona.net/tp/janpije/index.php)'s site.
 
@@ -47,7 +54,12 @@ When refering to people by their name, the name is attached to **jan** — *pers
   <b>jan Sonja</b>
 </details>
 
----
+#### People 2/4
+
+| ᴘʀᴏɴᴏᴜɴ mi | ᴘʀᴏɴᴏᴜɴ sina | ᴘʀᴏɴᴏᴜɴ ona |
+|:-|:-|:-|
+| <img src="musi/pona/mi.png" height="150"> | <img src="musi/pona/sina.png" height="150"> | <img src="musi/pona/ona.png" height="150"> |
+| ɴᴏᴜɴ *I*, *we* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *my*, *our* | ɴᴏᴜɴ *you* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* | ɴᴏᴜɴ *he*, *she*, *it*, *they* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *his*, *her*, *its*, *their* |
 
 Adding a noun to a noun, *possession* is expressed.
 
@@ -167,20 +179,6 @@ Bonus: [**Prepositions 1/2**](#prepositions-12)
 ## Topics
 
 ### People
-
-#### People 1/4
-
-| ɴᴏᴜɴ ijo | ɴᴏᴜɴ jan |
-|:-|:-|
-| <img src="musi/pona/ijo.png" height="150"> | <img src="musi/pona/jan.png" height="150"> |
-| *thing* | *person* |
-
-#### People 2/4
-
-| ᴘʀᴏɴᴏᴜɴ mi | ᴘʀᴏɴᴏᴜɴ sina | ᴘʀᴏɴᴏᴜɴ ona |
-|:-|:-|:-|
-| <img src="musi/pona/mi.png" height="150"> | <img src="musi/pona/sina.png" height="150"> | <img src="musi/pona/ona.png" height="150"> |
-| ɴᴏᴜɴ *I*, *we* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *my*, *our* | ɴᴏᴜɴ *you* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* | ɴᴏᴜɴ *he*, *she*, *it*, *they* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *his*, *her*, *its*, *their* |
 
 #### People 3/4
 
