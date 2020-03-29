@@ -4,9 +4,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 <details>
 <summary>
-
 This should work. *Really.*
-
 </summary>
 
 In fact, it **does**.
