@@ -35,7 +35,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 <details>
 <summary>
 
-**jan** — *person*
+**jan**
 
 </summary>
 
@@ -46,7 +46,7 @@ This is a ***test***.
 
 </summary>
 
-Really.
+*Really.*
 
 </details>
 </details>
