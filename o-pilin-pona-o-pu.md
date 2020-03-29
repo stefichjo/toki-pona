@@ -97,6 +97,16 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 | <img src="musi/pona/mama.png" height="150"> | <img src="musi/pona/meli.png" height="150"> | <img src="musi/pona/mije.png" height="150"> |
 | ɴᴏᴜɴ *parent* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of origin* | ɴᴏᴜɴ *female person* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* | ɴᴏᴜɴ *male person* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* |
 
+<details open>
+  <summary>ᴘᴇʀꜱᴏɴ ɴᴏᴜɴs imply <b>jan</b>.</summary>
+
+  <details open>
+    <summary>ᴘᴇʀꜱᴏɴ <b>meli</b></summary>
+      ɴᴏᴜɴ <i>somebody female</i> → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ <i>female</i>
+  </details>
+</details>
+
+
 <details>
   <summary>Many words can be translated either as a ɴᴏᴜɴ or as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. Adding them after a ɴᴏᴜɴ, often <i>quality</i> is expressed.</summary>
 
