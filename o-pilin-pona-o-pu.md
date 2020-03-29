@@ -26,9 +26,26 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 Topic: [**People**](#people)
 
 <details>
+  <summary><b>jan Melani</b></summary>
+  <i>Mélanie</i>
+</details>
+
+<details>
+  <summary><b>jan Epawan Linkan</b></summary>
+  <i>Abraham Lincoln</i>
+</details>
+
+<details>
+  <summary><b>jan Sulu</b></summary>
+  <i>Mr. Sulu</i>
+</details>
+
+<details>
   <summary><i>Sonja</i></summary>
   <b>jan Sonja</b>
 </details>
+
+---
 
 <details>
   <summary><b>ijo mi</b></summary>
@@ -44,6 +61,8 @@ Topic: [**People**](#people)
   <summary><i>something of hers/his/theirs</i></summary>
   <b>ijo ona</b>
 </details>
+
+---
 
 <details>
   <summary><b>ona meli</b></summary>
@@ -79,9 +98,14 @@ Topic: [**People**](#people)
 
 Plus: [**Mood Markers**](#mood-markers)
 
-| ona li mama sina. | ona li jan Sonja. |
+<details>
+  <summary><b>ona li mama sina.</b></summary>
+  <i>She is your parent.</i>
+</details>
+
+|  | ona li jan Sonja. |
 |-|-|
-| *She is your parent.* | *She is Sonja.* |
+| ** | *She is Sonja.* |
 
 ---
 
