@@ -11,7 +11,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [**Communication**](#communication) | [**Case Markers**](#case-markers) | [**Prepositions 2/2**](#prepositions-22) |
 | <img src="musi/pona/nimi.png" height="50"><img src="musi/pona/sitelen.png" height="50"><img src="musi/pona/toki.png" height="50"> <br><img src="musi/pona/kalama.png" height="50"> | <img src="musi/pona/e.png" height="50"> <br><img src="musi/pona/pi.png" height="50"> | <img src="musi/pona/kepeken.png" height="50"><img src="musi/pona/taso.png" height="50"><img src="musi/pona/sin.png" height="50"> <br><img src="musi/pona/esun.png" height="50"><img src="musi/pona/pu.png" height="50"> |
 | [**Things**](#things) | [**Correlatives**](#correlatives) | [**Space 1/3**](#space-13) |
-| <img src="musi/pona/kili.png" height="50"><img src="musi/pona/pan.png" height="50"> <br><img src="musi/pona/ma.png" height="50"><img src="musi/pona/mun.png" height="50">&nbsp;&nbsp;<img src="musi/pona/suno.png" height="50"> <br><img src="musi/pona/kiwen.png" height="50"><img src="musi/pona/ko.png" height="50"> <br><img src="musi/pona/kon.png" height="50"><img src="musi/pona/telo.png" height="50"> <br><img src="musi/pona/linja.png" height="50"><img src="musi/pona/palisa.png" height="50"> <br><img src="musi/pona/lipu.png" height="50"><img src="musi/pona/lupa.png" height="50"><img src="musi/pona/nena.png" height="50"> | <img src="musi/pona/ni.png" height="50"><img src="musi/pona/seme.png" height="50"><img src="musi/pona/ale.png" height="50"> | <img src="musi/pona/monsi.png" height="50"><img src="musi/pona/sinpin.png" height="50"><img src="musi/pona/insa.png" height="50"> |
+| <img src="musi/pona/kili.png" height="50"><img src="musi/pona/pan.png" height="50"> <br><img src="musi/pona/ma.png" height="50"><img src="musi/pona/mun.png" height="50"> &nbsp;&nbsp;<img src="musi/pona/suno.png" height="50"> <br><img src="musi/pona/kiwen.png" height="50"><img src="musi/pona/ko.png" height="50"><img src="musi/pona/kon.png" height="50"><img src="musi/pona/telo.png" height="50"> <br><img src="musi/pona/linja.png" height="50"><img src="musi/pona/palisa.png" height="50"> <br><img src="musi/pona/lipu.png" height="50"><img src="musi/pona/lupa.png" height="50"><img src="musi/pona/nena.png" height="50"> | <img src="musi/pona/ni.png" height="50"><img src="musi/pona/seme.png" height="50"><img src="musi/pona/ale.png" height="50"> | <img src="musi/pona/monsi.png" height="50"><img src="musi/pona/sinpin.png" height="50"><img src="musi/pona/insa.png" height="50"> |
 | [**Possessions**](#possessions) | [**Numbers**](#numbers) | [**Time 1/3**](#time-13) |
 | <img src="musi/pona/jo.png" height="50"><img src="musi/pona/pana.png" height="50"> <br><img src="musi/pona/len.png" height="50"><img src="musi/pona/poki.png" height="50"><img src="musi/pona/tomo.png" height="50"> | <img src="musi/pona/wan.png" height="50"><img src="musi/pona/tu.png" height="50"><img src="musi/pona/mute.png" height="50"> | <img src="musi/pona/kama.png" height="50"><img src="musi/pona/pini.png" height="50"><img src="musi/pona/awen.png" height="50"> |
 | [**Body**](#body) | [**Auxiliaries**](#auxiliaries) | [**Space 2/3**](#space-23) |
@@ -93,15 +93,10 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/ma.png" height="150"> | <img src="musi/pona/mun.png" height="150"> | | <img src="musi/pona/suno.png" height="150"> |
 | ɴᴏᴜɴ *earth* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fixed* | ɴᴏᴜɴ *moon* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *orbiting* | | ɴᴏᴜɴ *sun* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *shining* |
 
-| ᴛʜɪɴɢ kiwen | ᴛʜɪɴɢ ko |
-|:-|:-|
-| <img src="musi/pona/kiwen.png" height="150"> | <img src="musi/pona/ko.png" height="150"> |
-| *hard object* | *semi-solid* |
-
-| ᴛʜɪɴɢ kon | ᴛʜɪɴɢ telo |
-|:-|:-|
-| <img src="musi/pona/kon.png" height="150"> | <img src="musi/pona/telo.png" height="150"> |
-| ɴᴏᴜɴ *air* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *floating* | *wet substance* |
+| ᴛʜɪɴɢ kiwen | ᴛʜɪɴɢ ko | ᴛʜɪɴɢ kon | ᴛʜɪɴɢ telo |
+|:-|:-|:-|:-|
+| <img src="musi/pona/kiwen.png" height="150"> | <img src="musi/pona/ko.png" height="150"><img src="musi/pona/kon.png" height="150"> | <img src="musi/pona/telo.png" height="150"> |
+| *hard object* | *semi-solid* | ɴᴏᴜɴ *air* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *floating* | *wet substance* |
 
 #### Shapes
 
