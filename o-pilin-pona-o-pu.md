@@ -2,35 +2,8 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-<details>
-<summary>
-
-This should work. *Really.*
-</summary>
-
-In fact, it **does**.
-</details>
-
-<details>
-<summary>
-
-# CLICK ME
-*It doesn't hurt.*
-**Really.**
-***TODO***
-
-</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-</details>
-
 ***TODO*** move sections from nasin nimi<br>
+***TODO*** markdown
 
 | [**People**](#people) | [**Mood Markers**](#mood-markers) | [**Prepositions 1/2**](#prepositions-12) |
 |:-|:-|:-|
@@ -60,7 +33,9 @@ print("hello world!")
 | *thing* | *person* |
 
 <details>
-  <summary>When refering to people by their name, the name is attached to <b>jan</b> — <i>person</i>. For example, <i>Sonja</i> is <b>jan Sonja</b>, whereas <b>Sonja</b> is merely (the sound of) the name *Sonja* itself.</summary>
+  <summary>
+
+When refering to people by their name, the name is attached to **jan** — <i>person</i>. For example, <i>Sonja</i> is <b>jan Sonja</b>, whereas <b>Sonja</b> is merely (the sound of) the name *Sonja* itself.</summary>
   <details open>
     <summary><b>jan Melani</b></summary>
     <i>Mélanie</i>
