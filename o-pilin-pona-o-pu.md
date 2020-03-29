@@ -36,8 +36,8 @@ Topic: [**People**](#people)
 </details>
 
 <details>
-  <summary>*something of hers/his/theirs*</summary>
-  **ijo ona**
+  <summary><i>something of hers/his/theirs</i></summary>
+  <b>ijo ona</b>
 </details>
 
 | jan Sonja |
