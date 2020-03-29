@@ -39,8 +39,16 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 </summary>
 
+<details>
+<summary>
+
 This is a ***test***.
 
+</summary>
+
+Really.
+
+</details>
 </details>
 
 <details>
