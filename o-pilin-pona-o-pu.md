@@ -87,6 +87,7 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
   </details>
 
 </details>
+
 #### People 3/4
 
 | ᴘᴇʀꜱᴏɴ mama | ᴘᴇʀꜱᴏɴ meli | ᴘᴇʀꜱᴏɴ mije |
