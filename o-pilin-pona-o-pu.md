@@ -33,22 +33,22 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | *thing* | *person* |
 
 <details>
-<summary>
+  <summary>
 
-**jan**
+  **jan**
 
-</summary>
+  </summary>
 
-<details>
-<summary>
+  <details>
+  <summary>
 
-This is a ***test***.
+  This is a ***test***.
 
-</summary>
+  </summary>
 
-*Really.*
+  *Really.*
 
-</details>
+  </details>
 </details>
 
 <details>
