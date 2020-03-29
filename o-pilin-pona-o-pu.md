@@ -83,7 +83,12 @@ Adding a noun to a noun, *possession* is expressed.
   <b>ijo ona</b>
 </details>
 
----
+#### People 3/4
+
+| ᴘᴇʀꜱᴏɴ mama | ᴘᴇʀꜱᴏɴ meli | ᴘᴇʀꜱᴏɴ mije |
+|:-|:-|:-|
+| <img src="musi/pona/mama.png" height="150"> | <img src="musi/pona/meli.png" height="150"> | <img src="musi/pona/mije.png" height="150"> |
+| ɴᴏᴜɴ *parent* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of origin* | ɴᴏᴜɴ *female person* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* | ɴᴏᴜɴ *male person* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* |
 
 Many words can be translated either as a noun or as an adjective. Adding them after a noun, most of the cases *quality* is expressed.
 
@@ -93,15 +98,13 @@ Many words can be translated either as a noun or as an adjective. Adding them af
 </details>
 
 <details>
-  <summary><i>he (= male third person)</i></summary>
-  <b>ona mije</b>
-</details>
-
----
-
-<details>
   <summary><b>mama meli</b></summary>
   <i>mother (= female parent)</i>
+</details>
+
+<details>
+  <summary><i>he (= male third person)</i></summary>
+  <b>ona mije</b>
 </details>
 
 <details>
@@ -184,13 +187,6 @@ Bonus: [**Prepositions 1/2**](#prepositions-12)
 ## Topics
 
 ### People
-
-#### People 3/4
-
-| ᴘᴇʀꜱᴏɴ mama | ᴘᴇʀꜱᴏɴ meli | ᴘᴇʀꜱᴏɴ mije |
-|:-|:-|:-|
-| <img src="musi/pona/mama.png" height="150"> | <img src="musi/pona/meli.png" height="150"> | <img src="musi/pona/mije.png" height="150"> |
-| ɴᴏᴜɴ *parent* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of origin* | ɴᴏᴜɴ *female person* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* | ɴᴏᴜɴ *male person* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* |
 
 #### People 4/4
 
