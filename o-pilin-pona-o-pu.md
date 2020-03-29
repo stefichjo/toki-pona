@@ -135,7 +135,7 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 <details>
   <summary>...</summary>
 
-  <details>
+  <details open>
     <summary><b>kulupu mama</b></summary>
     <i>family</i>
   </details>
@@ -154,7 +154,7 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 <details>
   <summary>The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ <b>li</b> marks the following phrase as an ɪɴᴅɪᴄᴀᴛɪᴠᴇ. Note that Toki Pona has no word for <i>to be</i>. In other words, a ᴘʀᴇᴅɪᴄᴀᴛᴇ consisting of a noun already means <i>to be (that ɴᴏᴜɴ)</i>.</summary>
 
-  <details>
+  <details open>
     <summary><b>ona li mama sina.</b></summary>
     <i>They are your parents.</i>
   </details>
