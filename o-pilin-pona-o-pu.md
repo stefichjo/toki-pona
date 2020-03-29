@@ -8,6 +8,10 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 <summary>
 
 # CLICK ME
+*It doesn't hurt.*
+**Really.**
+***TODO***
+
 </summary>
 <p>
 
