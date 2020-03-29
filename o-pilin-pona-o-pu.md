@@ -133,8 +133,13 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 | ɴᴏᴜɴ *community* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *in common* |
 
 <details>
-  <summary><b>kulupu mama</b></summary>
-  <i>family</i>
+  <summary>...</summary>
+
+  <details>
+    <summary><b>kulupu mama</b></summary>
+    <i>family</i>
+  </details>
+
 </details>
 
 ### Mood Markers
@@ -146,16 +151,19 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 | <img src="musi/pona/li.png" height="150"> |
 | ᴘᴀʀᴛɪᴄʟᴇ *(indicative)* |
 
-The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **li** marks the following phrase as an ɪɴᴅɪᴄᴀᴛɪᴠᴇ. Note that Toki Pona has no word for *to be*. In other words, a ᴘʀᴇᴅɪᴄᴀᴛᴇ consisting of a noun already means *to be (that noun)*.
-
 <details>
-  <summary><b>ona li mama sina.</b></summary>
-  <i>They are your parents.</i>
-</details>
+  <summary>The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ <b>li</b> marks the following phrase as an ɪɴᴅɪᴄᴀᴛɪᴠᴇ. Note that Toki Pona has no word for <i>to be</i>. In other words, a ᴘʀᴇᴅɪᴄᴀᴛᴇ consisting of a noun already means <i>to be (that ɴᴏᴜɴ)</i>.</summary>
 
-<details>
-  <summary><i>She is Sonja.</i></summary>
-  <b>ona li jan Sonja.</b>
+  <details>
+    <summary><b>ona li mama sina.</b></summary>
+    <i>They are your parents.</i>
+  </details>
+
+  <details>
+    <summary><i>She is Sonja.</i></summary>
+    <b>ona li jan Sonja.</b>
+  </details>
+
 </details>
 
 #### Mood Markers 2/2
