@@ -63,7 +63,7 @@ Cf. [Phonetic Conversions of Proper Names](http://tokipona.net/tp/janpije/tpize.
 | <img src="musi/pona/mi.png" height="150"> | <img src="musi/pona/sina.png" height="150"> | <img src="musi/pona/ona.png" height="150"> |
 | ɴᴏᴜɴ *I*, *we* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *my*, *our* | ɴᴏᴜɴ *you* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* | ɴᴏᴜɴ *he*, *she*, *it*, *they* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *his*, *her*, *its*, *their* |
 
-Adding a noun to a noun, *possession* is expressed.
+Adding a ɴᴏᴜɴ to a ɴᴏᴜɴ, *possession* is expressed.
 
 <details>
   <summary><b>ijo jan</b></summary>
@@ -92,31 +92,34 @@ Adding a noun to a noun, *possession* is expressed.
 | <img src="musi/pona/mama.png" height="150"> | <img src="musi/pona/meli.png" height="150"> | <img src="musi/pona/mije.png" height="150"> |
 | ɴᴏᴜɴ *parent* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of origin* | ɴᴏᴜɴ *female person* →<br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* | ɴᴏᴜɴ *male person* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* |
 
-Many words can be translated either as a noun or as an adjective. Adding them after a noun, most of the cases *quality* is expressed.
-
 <details>
-  <summary><b>ijo mama</b></summary>
-  <i>origin (= something of origin)</i>
-</details>
+  <summary>Many words can be translated either as a ɴᴏᴜɴ or as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. Adding them after a ɴᴏᴜɴ, often <i>quality</i> is expressed.</summary>
 
-<details>
-  <summary><b>mama meli</b></summary>
-  <i>mother (= female parent)</i>
-</details>
+  <details open>
+    <summary><b>ijo mama</b></summary>
+    <i>origin (= something of origin)</i>
+  </details>
 
-<details>
-  <summary><b>ona mije</b></summary>
-  <i>he (= male third person)</i>
-</details>
+  <details open>
+    <summary><b>mama meli</b></summary>
+    <i>mother (= female parent)</i>
+  </details>
 
-<details>
-  <summary><i>father (= male parent)</i></summary>
-  <b>mama mije</b>
-</details>
+  <details open>
+    <summary><b>ona mije</b></summary>
+    <i>he (= male third person)</i>
+  </details>
 
-<details>
-  <summary><i>he (= male third person)</i></summary>
-  <b>ona mije</b>
+  <details>
+    <summary><i>father (= male parent)</i></summary>
+    <b>mama mije</b>
+  </details>
+
+  <details>
+    <summary><i>he (= male third person)</i></summary>
+    <b>ona mije</b>
+  </details>
+
 </details>
 
 #### People 4/4
