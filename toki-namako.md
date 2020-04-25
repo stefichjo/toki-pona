@@ -272,7 +272,7 @@ The ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ after **pi** can consist of a single word. **pi*
 
 | toki pona → toki *pi* pona | kili li ijo mi. → kili li *pi* mi. |
 |:-|:-|
-| *language of good* | *The apply is mine.* |
+| *language of good* | *The apple is mine.* |
 
 **ni:** at the beginning of a ꜱᴇɴᴛᴇɴᴄᴇ is always omitted.
 
