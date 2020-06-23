@@ -57,12 +57,6 @@ A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines a word's ᴘᴀʀᴛs ᴏꜰ ꜱᴘ�
 ### PERSON
 *([nimi suli lawa](#noun) jan)*
 
-**ᴘᴇʀꜱᴏɴ ɴᴏᴜɴ**s imply **jan**.
-
-| ᴘᴇʀꜱᴏɴ meli |
-|:-|
-| ɴᴏᴜɴ *somebody female* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* |
-
 ### THING
 *([nimi suli lawa](#noun) ijo)*
 
