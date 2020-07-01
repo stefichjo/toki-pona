@@ -88,9 +88,9 @@ When **jaki** and **pimeja** become ɴᴏᴜɴs, they appear as if an **ijo** we
 
 ᴋɪᴘᴏ generalizes **kulupu** using it for any *gathering of things physically or mentally*, so not only for social constructs.
 
-| | ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
-|:-|:-|:-|
-| *gathering of things* | **kulupu** | **ijo mute** |
+| | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|:-|
+| *gathering (of things)* | **kulupu (ijo)** | **(ijo) mute** | **mute (ijo)** ⇒ **kulupu (ijo)** |
 
 ## Punctuation
 
