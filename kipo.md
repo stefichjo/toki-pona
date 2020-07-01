@@ -58,7 +58,7 @@ When ᴋɪᴘᴏ turns a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs into a ɴᴏᴜɴ, the �
 
 ### e
 
-ᴋɪᴘᴏ turns ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs into ᴠᴇʀʙs. This is unnecessarily ᴜɴ-ᴘᴏɴᴀ, but does make sense. (Cf. [***Toki Namako***](toki-namako.md#toki-namako).)
+ᴋɪᴘᴏ turns ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs into ᴠᴇʀʙs. This is unnecessarily ᴜɴ-ᴘᴏɴᴀ, but does make sense. (Cf. [***Toki Nasa***](toki-namako.md#toki-nasa).)
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
