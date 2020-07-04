@@ -58,8 +58,8 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **ko** | - | *semi-solid* |
 | **kon** | - | *floating*, *hovering* |
 | **kulupu** | - | *in common* |
-| **linja** | - | *long and flexible; soft* |
-| **lipu** | - | *flat*, *thin* |
+| **linja** | *chain*; *curve, line*; *row* | *long and flexible* |
+| **lipu** | *plane* | *flat*, *thin* |
 | **lete** | *frost*, *ice* | - |
 | **lupa** | - | *concave*, *hollow* |
 | **ma** | - | *firm*, *fixed*: *to tie* |
