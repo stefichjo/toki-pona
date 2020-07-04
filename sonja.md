@@ -511,10 +511,6 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 ### Lesson 17
 *(Hunting Adventure)*
 
-| linja |
-|:-|
-| *long flexible thing* |
-
 | mi wile e ni: |
 |:-|
 | *I want the following:* |
@@ -648,6 +644,8 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|
 | *jan* [*Epawam*](#lesson-9) *Linkan li tan ma Mewika.* | *jan Epawan Linkan li tan ma Mewika.* |
+| | |
+| [*long flexible*](#lesson-17) *thing* | *long and flexible thing* |
 | | |
 | *kulupu pi toki pona li* [*pona*](#lesson-11) *e ijo mute.* | *kulupu pi toki pona li pana e ijo mute.* |
 | | |
