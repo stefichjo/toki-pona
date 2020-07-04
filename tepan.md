@@ -69,7 +69,7 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 | **mute** | *amount* | - |
 | **nasin** | - | *ordinary*, *usual* |
 | **nena** | - | *convex*, *outstanding*, *thick* |
-| **palisa** | - | *long and hard* |
+| **palisa** | *column* | *long and hard* |
 | **pan** | *seed* | *fallen*, *dropped*; *sown* |
 | **pimeja** | *shadow* | - |
 | **poka** | *square* | *lateral* |
