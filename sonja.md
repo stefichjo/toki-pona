@@ -662,5 +662,6 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | **lukin** <br>ᴘʀᴇ-ᴠᴇʀʙ [**to seek, look for**](#official-toki-pona-dictionary)**, try to** | **lukin** <br>ᴘʀᴇ-ᴠᴇʀʙ **to seek to, try to**; (*lukin jo*) **to look for** |
 | | |
 | **seli** <br>[ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#official-toki-pona-dictionary) **fire** | **seli** <br>ɴᴏᴜɴ **fire** |
-
+| | |
+| **poka** <br>ɴᴏᴜɴ **hip**, **side**; [**next to**, **nearby**, **vicinity**](#official-toki-pona-dictionary) | **poka** <br>ɴᴏᴜɴ **hip**, **side**; **next to**, **vicinity** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **nearby** |
 
