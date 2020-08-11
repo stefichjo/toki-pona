@@ -1,9 +1,46 @@
-# Toki Pona Word Classes, Parts of Speech and Dictionary
+# Parts of Speech, Word Classes and Dictionary
 *(nasin nimi)*
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-The [Toki Pona Dictionary](#toki-pona-dictionary) contains two main **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es: [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s and [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s. They are based on how I ([ᴛᴇᴘᴀɴ](tepan.md)) interpret ꜱᴏɴᴊᴀ's book.
+## Phrases and Sentences
+
+Nouns, adjectives, verbs and prepositions are the building blocks of phrases. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* consists of the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *friendly* + the ɴᴏᴜɴ *person*. Noun phrases act like nouns. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* can be replaced with the ɴᴏᴜɴ *friend*.
+
+Phrases are the building blocks of sentences (with a little help from markers). Typically, sentences have a subject and a predicate. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend is coming* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ + the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *coming* (with a little help from the ᴍᴀʀᴋᴇʀ *is*) as the ᴘʀᴇᴅɪᴄᴀᴛᴇ.
+
+ᴀᴅᴊᴇᴄᴛɪᴠᴇs with ᴘʀᴇᴅɪᴄᴀᴛᴇ ᴍᴀʀᴋᴇʀs act like (intransitive) verbs. For example, the ᴘʀᴇᴅɪᴄᴀᴛᴇ *is coming* can be replaced with the (intransitive) ᴠᴇʀʙ *comes* in the ꜱᴇɴᴛᴇɴᴄᴇ *a friend comes*.
+
+----
+
+direct object
+transitive verb
+
+
+An ᴀᴅᴊᴇᴄᴛɪᴠᴇ with a ᴘʀᴇᴅɪᴄᴀᴛᴇ ᴍᴀʀᴋᴇʀ
+
+An ᴀᴅᴊᴇᴄᴛɪᴠᴇ
+
+(indirect)
+ᴏʙᴊᴇᴄᴛ
+
+* sentence
+  * conjunction
+
+* noun
+  * name particle
+* adjective
+  * adverb
+* preposition
+  * marker (?)
+* verb
+  * auxiliary
+
+----
+
+## Word Classes
+
+The [Dictionary](#dictionary) contains two main **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es: [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s and [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s. They are based on how I ([ᴛᴇᴘᴀɴ](tepan.md)) interpret ꜱᴏɴᴊᴀ's book.
 
 | |
 |:-|
@@ -20,8 +57,8 @@ A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines a word's ᴘᴀʀᴛs ᴏꜰ ꜱᴘ�
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
   * [**ᴛᴏᴋɪᴘᴏɴɪᴢᴀᴛɪᴏɴ**](#tokiponization): **ɴᴀᴍᴇ**, **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**
 
-# CONTENT WORD
-*([nimi](#toki-pona-word-classes-and-parts-of-speech) suli)*
+## CONTENT WORD
+*([nimi](#word-classes) suli)*
 
 | |
 |:-|
@@ -30,7 +67,7 @@ A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines a word's ᴘᴀʀᴛs ᴏꜰ ꜱᴘ�
 
 **ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**s can become any ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ, except for [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s. (Only [ᴛᴏᴋɪᴘᴏɴɪᴢᴀᴛɪᴏɴ](#tokiponization)s can be both **ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**s and [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s.)
 
-## NOUN
+### NOUN
 *([nimi suli](#content-word) lawa)*
 
 | |
@@ -45,7 +82,7 @@ A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines a word's ᴘᴀʀᴛs ᴏꜰ ꜱᴘ�
 |:-|
 | ɴᴏᴜɴ *somebody* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *somebody's* |
 
-### PRONOUN
+#### PRONOUN
 *([nimi suli lawa](#noun) sama)*
 
 **ᴘʀᴏɴᴏᴜɴ**s are **ɴᴏᴜɴ**s that refer to the speaker, the listener or a third person (or thing).
@@ -54,10 +91,10 @@ A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines a word's ᴘᴀʀᴛs ᴏꜰ ꜱᴘ�
 |:-|
 | ɴᴏᴜɴ *you* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* |
 
-### PERSON
+#### PERSON
 *([nimi suli lawa](#noun) jan)*
 
-### THING
+#### THING
 *([nimi suli lawa](#noun) ijo)*
 
 | |
@@ -73,7 +110,7 @@ A **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** determines a word's ᴘᴀʀᴛs ᴏꜰ ꜱᴘ�
 |:-|
 | ɴᴏᴜɴ *something round* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round* |
 
-#### CORRELATIVE
+##### CORRELATIVE
 *([nimi suli lawa ijo](#thing) sama)*
 
 **ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ɴᴏᴜɴs** are **ᴛʜɪɴɢ ɴᴏᴜɴ**s, i.e. they imply **ijo**.
@@ -100,7 +137,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 |:-|
 | *The question number one is whether the universe is good or evil.* |
 
-#### AREA
+##### AREA
 *([nimi suli lawa ijo](#thing) ma)*
 
 **ᴀʀᴇᴀ ɴᴏᴜɴ**s imply *area*.
@@ -109,7 +146,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 |:-|
 | ɴᴏᴜɴ *innards* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner* |
 
-#### TOOL
+##### TOOL
 *([nimi suli lawa ijo](#thing) ilo)*
 
 **ᴛᴏᴏʟ ɴᴏᴜɴ**s imply **ilo**. (Cf. ꜱᴏɴᴊᴀ's ad-hoc [**ᴛᴏᴏʟ ɴᴏᴜɴ**s](sonja.md#tool).)
@@ -118,7 +155,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 |:-|
 | ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to use eyes on*, *see* |
 
-#### LIFE-FORM
+##### LIFE-FORM
 *([nimi suli lawa ijo](#thing) sijelo)*
 
 **ʟɪꜰᴇ-ꜰᴏʀᴍ ɴᴏᴜɴ**s imply *life-form*.
@@ -127,7 +164,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 |:-|
 | ɴᴏᴜɴ *flying creature* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flying* |
 
-## MODIFIER
+### MODIFIER
 *([nimi suli](#content-word) poka)*
 
 | |
@@ -143,7 +180,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* <br>ɴᴏᴜɴ *goodness* <br>ᴠᴇʀʙ *to improve* |
 
-### NUMBER
+#### NUMBER
 *([nimi suli poka](#modifier) nanpa)*
 
 **ɴᴜᴍʙᴇʀ**s are **ᴍᴏᴅɪꜰɪᴇʀ**s that describe *quantities*. (Cf. ꜱᴏɴᴊᴀ's ["more complex and precise counting system"](sonja.md#number).)
@@ -152,7 +189,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 |:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* | *pair dance* |
 
-### VERB
+#### VERB
 *([nimi suli poka](#modifier) luka)*
 
 ᴀᴅᴊᴇᴄᴛɪᴠᴇs of the **ᴠᴇʀʙ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ keep their meaning. ɴᴏᴜɴs derived from **ᴠᴇʀʙ**s can also mean their [ᴏʙᴊᴇᴄᴛ](#accusative-case).
@@ -161,7 +198,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 |:-|
 | ᴠᴇʀʙ *to eat* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *eating* <br>ɴᴏᴜɴ *eating* → <br>ɴᴏᴜɴ *food* |
 
-### AUXILIARY
+#### AUXILIARY
 *([nimi suli poka](#modifier) monsi)*
 
 When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ share the same ꜱᴜʙᴊᴇᴄᴛ, their two ᴍᴀɪɴ ᴠᴇʀʙs can merge, provided the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's ᴍᴀɪɴ ᴠᴇʀʙ is an **ᴀᴜxɪʟɪᴀʀʏ**. A ᴍᴀɪɴ ᴠᴇʀʙ shouldn't have more than one ᴀᴜxɪʟɪᴀʀʏ.
@@ -176,7 +213,7 @@ When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜ�
 |:-|:-|
 | ᴘᴀʀᴛɪᴄʟᴇ *(negation)* → <br>ᴀᴅᴠᴇʀʙ *not* | *I don't know how to be humble.* |
 
-### PREPOSITION
+#### PREPOSITION
 *([nimi suli poka](#modifier) palisa)*
 
 ᴀᴅᴊᴇᴄᴛɪᴠᴇs of the **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ keep their meaning when used as another ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ.
@@ -203,8 +240,8 @@ When a **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** is used both as ᴍᴀɪɴ ᴠᴇʀʙ a
 |:-|
 | *I am moving towards you.* |
 
-# PARTICLE
-*([nimi](#toki-pona-word-classes-and-parts-of-speech) lili)*
+## PARTICLE
+*([nimi](#word-classes) lili)*
 
 | |
 |:-|
@@ -214,7 +251,7 @@ When a **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** is used both as ᴍᴀɪɴ ᴠᴇʀʙ a
 
 **ᴘᴀʀᴛɪᴄʟᴇ**s can only be used as **ᴘᴀʀᴛɪᴄʟᴇ**s. (Only [ᴛᴏᴋɪᴘᴏɴɪᴢᴀᴛɪᴏɴ](#tokiponization)s can be both **ᴘᴀʀᴛɪᴄʟᴇ**s and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s.)
 
-## PHRASE MARKER
+### PHRASE MARKER
 *([nimi lili](#particle) lawa)*
 
 | |
@@ -222,9 +259,9 @@ When a **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** is used both as ᴍᴀɪɴ ᴠᴇʀʙ a
 | [ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ](#mood): [ɪɴᴅɪᴄᴀᴛɪᴠᴇ ᴍᴏᴏᴅ](#indicative), [ᴠᴏʟɪᴛɪᴠᴇ, ᴠᴏᴄᴀᴛɪᴠᴇ and ɪᴍᴘᴇʀᴀᴛɪᴠᴇ ᴍᴏᴏᴅ](#volative-vocative-and-imperative) |
 | [ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ](#case): [ɢᴇɴɪᴛɪᴠᴇ ᴄᴀꜱᴇ](#genitive), [ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ ᴄᴀꜱᴇ](#accusative) |
 
-### MOOD MARKER
+#### MOOD MARKER
 
-#### INDICATIVE
+##### INDICATIVE
 *([nimi lili lawa](#phrase-marker) "li")*
 
 The **ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ** **li** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ɪɴᴅɪᴄᴀᴛɪᴠᴇ**.
@@ -245,7 +282,7 @@ If the ꜱᴜʙᴊᴇᴄᴛ is just **mi** or **sina**, the **ᴍᴏᴏᴅ ᴍ�
 |:-|:-|
 | *I am a man.* | *You are new.* |
 
-#### VOLATIVE, VOCATIVE and IMPERATIVE
+##### VOLATIVE, VOCATIVE and IMPERATIVE
 *([nimi lili lawa](#phrase-marker) "o")*
 
 The **ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ** **o** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏʟɪᴛɪᴠᴇ** (i.e. among others **ᴏᴘᴛᴀᴛɪᴠᴇ**) or **ɪᴍᴘᴇʀᴀᴛɪᴠᴇ**, or the ꜱᴜʙᴊᴇᴄᴛ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏᴄᴀᴛɪᴠᴇ**.
@@ -278,9 +315,9 @@ A **ᴠᴏʟɪᴛɪᴠᴇ** can be reduced to the ᴏʙᴊᴇᴄᴛ of the ꜱ�
 |:-|
 | *May you have a good meal.* → *Bon appétit!* |
 
-### CASE MARKER
+#### CASE MARKER
 
-#### GENITIVE
+##### GENITIVE
 *([nimi lili lawa](#phrase-marker) "pi")*
 
 The **ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ** **pi** marks a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that can be translated as a **ɢᴇɴɪᴛɪᴠᴇ** or as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. A ꜱᴇɴᴛᴇɴᴄᴇs shouldn't have more than one **ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇ**.
@@ -295,7 +332,7 @@ When the ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ consists of only one [ɴᴏᴜɴ](#noun), t
 |:-|
 | *the language of good* → *the good language* |
 
-#### ACCUSATIVE
+##### ACCUSATIVE
 *([nimi lili lawa](#phrase-marker) "e")*
 
 The **ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ** **e** marks a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ as an **ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ**, i.e. the ᴍᴀɪɴ ᴠᴇʀʙ's ᴏʙᴊᴇᴄᴛ.
@@ -306,7 +343,7 @@ When there is enough context, the ᴏʙᴊᴇᴄᴛ of a [ᴠᴇʀʙ](#verb) can
 |:-|
 | *The men know things/that/it.* → *The men know.* |
 
-## CONJUNCTION
+### CONJUNCTION
 *([nimi lili](#particle) insa)*
 
 | |
@@ -315,7 +352,7 @@ When there is enough context, the ᴏʙᴊᴇᴄᴛ of a [ᴠᴇʀʙ](#verb) can
 | [**ᴏʀ**](#or) |
 | [**ɪꜰ-ᴛʜᴇɴ**](#if-then) |
 
-### AND
+#### AND
 *([nimi lili insa](#conjunction) "en")*
 
 The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **en** means *and*. It combines two ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs into one.
@@ -330,7 +367,7 @@ In ꜱᴇɴᴛᴇɴᴄᴇs, the **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **en** can be 
 |:-|
 | *But men and women are working and are happy.* |
 
-### OR
+#### OR
 *([nimi lili insa](#conjunction) "anu")*
 
 The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **anu** means *or*. It combines two ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs into one.
@@ -345,7 +382,7 @@ In yes-no-questions, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **anu** is omitted betwee
 |:-|
 | *Is she a parent?* |
 
-### IF-THEN
+#### IF-THEN
 *([nimi lili insa](#conjunction) "la")*
 
 The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **la** can be put between the **ᴄᴏɴᴛᴇxᴛ**, i.e. a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition), and the ᴍᴀɪɴ ꜱᴇɴᴛᴇɴᴄᴇ.
@@ -366,7 +403,7 @@ Before **la**, the [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) **ni:** in fron
 |:-|
 | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
-## TOKIPONIZATION
+### TOKIPONIZATION
 *([nimi lili](#particle) poka)*
 
 **ᴛᴏᴋɪᴘᴏɴɪᴢᴀᴛɪᴏɴ**s are **ɴᴀᴍᴇ**s and **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s. They can be both **ᴘᴀʀᴛɪᴄʟᴇ**s and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s when used without **kalama**.
@@ -387,7 +424,7 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 |:-|
 | *Wow!* |
 
-# Toki Pona Dictionary
+## Toki Pona Dictionary
 *(nimi ale)*
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |

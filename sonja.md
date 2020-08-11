@@ -643,6 +643,8 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 
 | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|
+| **lape** <br>[ᴠᴇʀʙ **to sleep**](#lesson-18) | **lape** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sleeping** |
+| | |
 | *jan* [*Epawam*](#lesson-9) *Linkan li tan ma Mewika.* | *jan Epawan Linkan li tan ma Mewika.* |
 | | |
 | *kulupu pi toki pona li* [*pona*](#lesson-11) *e ijo mute.* | *kulupu pi toki pona li pana e ijo mute.* |
@@ -656,8 +658,6 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | **kalama** <br>[ᴠᴇʀʙ **to produce a sound**](#official-toki-pona-dictionary); **recite**, **utter aloud** | **kalama** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound** <br>ᴠᴇʀʙ **to recite**, **utter** **aloud** |
 | | |
 | **linja** <br>ɴᴏᴜɴ **long** [**and**](#official-toki-pona-dictionary) **flexible thing** | **linja** <br>ɴᴏᴜɴ **long flexible thing** |
-| | |
-| **lape** <br>[ᴠᴇʀʙ **to sleep**](#lesson-18) | **lape** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sleeping** |
 | | |
 | **lon** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **located at**, **present at**, [**real**, **true**, **existing**](#official-toki-pona-dictionary) | **lon** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **located at**, **present at** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **real**, **true**, **existing** |
 | | |
