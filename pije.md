@@ -25,6 +25,7 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 | [kule](#kule) |
 | [kute](#kute) |
 | [nanpa](#nanpa) |
+| [sike](#sike) |
 | [la](#la) |
 
 ## oko
@@ -193,6 +194,14 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 | | ᴘɪᴊᴇ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *My second girlfriend was crazy!* | **meli mi pi nanpa tu li nasa!** | **meli mi nanpa tu li nasa!** |
+
+## sike
+
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona17.php) uses **sike e** for *to circle*.
+
+| | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|
+| *How old are you?* | **tenpo pi mute seme la sina sike e suno?** | **tenpo pi mute seme la sina tawa lon sike suno?**, **sina lon sike suno pi mute seme?**, **sina pini e sike suno pi mute seme?** |
 
 ## la
 
