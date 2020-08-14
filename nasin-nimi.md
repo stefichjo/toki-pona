@@ -5,11 +5,27 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ## Phrases and Sentences
 
-Nouns, adjectives, verbs and prepositions are the building blocks of phrases. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* consists of the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *friendly* + the ɴᴏᴜɴ *person*. Noun phrases act like nouns. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* can be replaced with the ɴᴏᴜɴ *friend*.
+### Phrases
 
-Phrases are the building blocks of sentences (with a little help from markers). Typically, sentences have a subject and a predicate. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend is coming* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ + the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *coming* (with a little help from the ᴍᴀʀᴋᴇʀ *is*) as the ᴘʀᴇᴅɪᴄᴀᴛᴇ.
+Nouns, adjectives and prepositions are the building blocks of phrases. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* consists of the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *friendly* + the ɴᴏᴜɴ *person*. Noun phrases act like nouns. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* can be replaced with the ɴᴏᴜɴ *friend*.
 
-ᴀᴅᴊᴇᴄᴛɪᴠᴇs with ᴘʀᴇᴅɪᴄᴀᴛᴇ ᴍᴀʀᴋᴇʀs act like (intransitive) verbs. For example, the ᴘʀᴇᴅɪᴄᴀᴛᴇ *is coming* can be replaced with the (intransitive) ᴠᴇʀʙ *comes* in the ꜱᴇɴᴛᴇɴᴄᴇ *a friend comes*.
+Adjective phrases act like adjectives. For example, the ᴀᴅᴊᴇᴄᴛɪᴠᴇ ᴘʜʀᴀꜱᴇ *very friendly* consisting of the ᴀᴅᴠᴇʀʙ *very* and the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *friendly* can be replaced with the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *affectionate*.
+
+In combination with a noun phrase, prepositions form phrases that act like adjectives or adverbs. For example, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ *on the inside* consists of the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *on* and its argument, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the inside*, and can be replaced with the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner*. For example, *the light on the inside* acts like *the inner light*.
+
+### Sentences
+
+Phrases are the building blocks of sentences (with a little help from markers). Typically, sentences have a subject and a predicate. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend is coming* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ + the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *coming* (with a little help from the ᴍᴀʀᴋᴇʀ *is*) as the ᴘʀᴇᴅɪᴄᴀᴛᴇ. ᴀᴅᴊᴇᴄᴛɪᴠᴇs with ᴘʀᴇᴅɪᴄᴀᴛᴇ ᴍᴀʀᴋᴇʀs act like (intransitive) verbs. For example, the ᴘʀᴇᴅɪᴄᴀᴛᴇ *is coming* can be replaced with the (intransitive) ᴠᴇʀʙ *comes* in the ꜱᴇɴᴛᴇɴᴄᴇ *a friend comes*.
+
+#### Prepositions
+
+
+
+#### Objects
+
+
+
+
 
 ----
 
