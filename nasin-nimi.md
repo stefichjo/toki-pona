@@ -5,13 +5,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ## Phrases and Sentences
 
-* [foo]{.smallcaps}
-* [foo]{.sc}
-* ^^foo^^
-* ****foo****
-* !foo!
-
-
 ### Phrases
 
 Nouns, adjectives and prepositions are the building blocks of phrases. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* consists of the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *friendly* + the ɴᴏᴜɴ *person*. Noun phrases act like nouns. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* can be replaced with the ɴᴏᴜɴ *friend*.
@@ -24,7 +17,7 @@ In combination with a noun phrase, prepositions form phrases that act like adjec
 
 Conjunctions combine two phrases into one. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a woman or a man* consists of the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a woman*, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ *or*, and the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a man* and acts like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *an adult*.
 
-#### Names
+#### Onompatopeia
 
 Onomatopeia can be added to a noun phrase. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the name "Sonja"* has the ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ *"Sonja"* added to the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the name*, indicating that *the name* in question has the sound *"Sonja"*. Onomatopeia can act like nouns. For example, the ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ *"Sonja"* can act like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the name "Sonja"* or the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the person with the name "Sonja"*.
 
@@ -45,6 +38,12 @@ Verbs can have prepositional phrases as their secondary argument, i.e. the sente
 #### Auxiliaries
 
 Auxiliary verbs combine with a verb. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend can come* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ, and the ᴠᴇʀʙ ᴘʜʀᴀꜱᴇ *can come* as the ᴘʀᴇᴅɪᴄᴀᴛᴇ, consisting of the ᴀᴜxɪʟɪᴀʀʏ *can* and the ᴍᴀɪɴ ᴠᴇʀʙ *come*.
+
+## Parts of Speech
+
+You can change the part of speech of any content word (nouns, adjectives, verbs, auxiliaries and prepositions). (There is a restriction: auxiliaries and prepositions can be converted into nouns, adjectives and verbs, but not the other way around.)
+
+You *can't* change the part of speech of a particle (markers, conjunctions and onomatopeia). (There is a rare loophole for onomatopeia: an onomatopeia can be converted into a noun meaning *the sound ...* or *the name ...*. Also, a content word can be used as an onomatopeia, e.g. **nanpa**.)
 
 ## Word Classes
 
