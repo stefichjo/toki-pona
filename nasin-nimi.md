@@ -5,7 +5,12 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ## Phrases and Sentences
 
-[foo]{.smallcaps}
+* [foo]{.smallcaps}
+* [foo]{.sc}
+* ^^foo^^
+* ****foo****
+* !foo!
+
 
 ### Phrases
 
