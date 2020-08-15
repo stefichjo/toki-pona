@@ -39,16 +39,11 @@ Verbs can have prepositional phrases as their secondary argument, i.e. the sente
 
 Auxiliary verbs combine with a verb. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend can come* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ, and the ᴠᴇʀʙ ᴘʜʀᴀꜱᴇ *can come* as the ᴘʀᴇᴅɪᴄᴀᴛᴇ, consisting of the ᴀᴜxɪʟɪᴀʀʏ *can* and the ᴍᴀɪɴ ᴠᴇʀʙ *come*.
 
-## Parts of Speech
+## Parts of Speech and Word Classes
 
-There are two main parts of speech: [content words](#content-word) (i.e. nouns, adjectives, verbs, auxiliaries and prepositions) and [particles](#particle) (i.e. markers, conjunctions and onomatopeia). As a rule of thumb, you can change the part of speech of any content word, but you can't change the part of speech of a particle. But there are restrictions and loopholes: auxiliaries and prepositions can be converted into nouns, adjectives and verbs, but not the other way around. Also, an onomatopeia can be converted into a content word meaning *the name ...* or *the sound ...*, and a content word can be used as an onomatopeia, e.g. **nanpa**.
+There are two word classes: [content words](#content-word) (i.e. these parts of speech: nouns, adjectives, verbs, auxiliaries and prepositions) and [particles](#particle) (i.e. these parts of speech: markers, conjunctions and onomatopeia). As a rule of thumb, you can change the part of speech of any content word, but you can't change the part of speech of a particle.
 
-----
-
-The [Dictionary](#dictionary) contains:...
-
-They are based on how I ([ᴛᴇᴘᴀɴ](tepan.md)) interpret ꜱᴏɴᴊᴀ's book.
-
+But there are restrictions and loopholes: auxiliaries and prepositions can be converted into nouns, adjectives and verbs, but not the other way around. Also, an onomatopeia can be converted into a content word meaning *the name ...* or *the sound ...*, and a content word can be used as an onomatopeia, e.g. **nanpa**.
 
 | |
 |:-|
