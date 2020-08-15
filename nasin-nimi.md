@@ -5,6 +5,8 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ## Phrases and Sentences
 
+[foo]{.smallcaps}
+
 ### Phrases
 
 Nouns, adjectives and prepositions are the building blocks of phrases. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* consists of the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *friendly* + the ɴᴏᴜɴ *person*. Noun phrases act like nouns. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* can be replaced with the ɴᴏᴜɴ *friend*.

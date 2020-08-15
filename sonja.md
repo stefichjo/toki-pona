@@ -647,6 +647,8 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | | |
 | *jan* [*Epawam*](#lesson-9) *Linkan li tan ma Mewika.* | *jan Epawan Linkan li tan ma Mewika.* |
 | | |
+| The particle *pi* is used to divide a second [noun group](#lesson-11) that describes a first [noun group](#lesson-11). | The particle *pi* is used to divide a second noun phrase that describes a first noun or noun phrase. |
+| | |
 | *kulupu pi toki pona li* [*pona*](#lesson-11) *e ijo mute.* | *kulupu pi toki pona li pana e ijo mute.* |
 | | |
 | *mi lukin e meli pimeja lon* [*sinpin&nbsp; tomo*](#lesson-15)*.* | *mi lukin e meli pimeja lon sinpin tomo.* |
