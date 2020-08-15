@@ -15,30 +15,21 @@ In combination with a noun phrase, prepositions form phrases that act like adjec
 
 ### Sentences
 
-Phrases are the building blocks of sentences (with a little help from markers). Typically, sentences have a subject and a predicate. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend is coming* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ + the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *coming* (with a little help from the ᴍᴀʀᴋᴇʀ *is*) as the ᴘʀᴇᴅɪᴄᴀᴛᴇ. ᴀᴅᴊᴇᴄᴛɪᴠᴇs with ᴘʀᴇᴅɪᴄᴀᴛᴇ ᴍᴀʀᴋᴇʀs act like (intransitive) verbs. For example, the ᴘʀᴇᴅɪᴄᴀᴛᴇ *is coming* can be replaced with the (intransitive) ᴠᴇʀʙ *comes* in the ꜱᴇɴᴛᴇɴᴄᴇ *a friend comes*.
-
-#### Prepositions
-
-
+Phrases are the building blocks of sentences (with a little help from markers). Typically, sentences have a subject and a predicate. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend is coming* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ + the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *coming* (with a little help from the ᴍᴀʀᴋᴇʀ *is*) as the ᴘʀᴇᴅɪᴄᴀᴛᴇ. Adjectives with predicate markers act like verbs. For example, the ᴘʀᴇᴅɪᴄᴀᴛᴇ *is coming* can be replaced with the ᴠᴇʀʙ *comes* in the ꜱᴇɴᴛᴇɴᴄᴇ *a friend comes*.
 
 #### Objects
 
+Verbs can have noun phrases as their argument, i.e. the sentence's object. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend bought a bicycle* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ, the ᴠᴇʀʙ *bought* as the ᴘʀᴇᴅɪᴄᴀᴛᴇ, and the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a bicycle* as the ᴏʙᴊᴇᴄᴛ.
 
+Verbs with an object, like the ᴠᴇʀʙ *bought*, are called "transitive" — in contrast to "intransitive" verbs without object, like the ᴠᴇʀʙ *comes*.
+
+Verbs can have prepositional phrases as their secondary argument, i.e. the sentence's indirect object. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend bought a bicycle for her son* has the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ *for her son* with the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *her son* as the ɪɴᴅɪʀᴇᴄᴛ ᴏʙᴊᴇᴄᴛ.
+
+(In contrast to a sentence's indirect object, a verb's primary argument is also called "direct" object. The indirect object can be used without preposition before the direct object: the ꜱᴇɴᴛᴇɴᴄᴇ *she bought a bicycle for her son* can be replaced with the ꜱᴇɴᴛᴇɴᴄᴇ *she bought her son a bicycle*.)
 
 
 
 ----
-
-direct object
-transitive verb
-
-
-An ᴀᴅᴊᴇᴄᴛɪᴠᴇ with a ᴘʀᴇᴅɪᴄᴀᴛᴇ ᴍᴀʀᴋᴇʀ
-
-An ᴀᴅᴊᴇᴄᴛɪᴠᴇ
-
-(indirect)
-ᴏʙᴊᴇᴄᴛ
 
 * sentence
   * conjunction
