@@ -41,14 +41,14 @@ Auxiliary verbs combine with a verb. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a 
 
 ## Parts of Speech and Word Classes
 
-There are two word classes: [content words](#content-word) (i.e. these parts of speech: nouns, adjectives, verbs, auxiliaries and prepositions) and [particles](#particle) (i.e. these parts of speech: markers, conjunctions and onomatopeia). As a rule of thumb, you can change the part of speech of any content word, but you can't change the part of speech of a particle.
-
-But there are restrictions and loopholes in Toki Pona: auxiliaries and prepositions can be converted into nouns, adjectives and verbs, but not the other way around. Also, an onomatopeia can be converted into a content word meaning *the name ...* or *the sound ...*, and a content word can be used as an onomatopeia, e.g. **nanpa**.
-
 | |
 |:-|
 | [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) |
 | [ᴘᴀʀᴛɪᴄʟᴇ](#particle) |
+
+There are two word classes: [content words](#content-word) (i.e. these parts of speech: nouns, adjectives, verbs, auxiliaries and prepositions) and [particles](#particle) (i.e. these parts of speech: markers, conjunctions and onomatopeia). As a rule of thumb, you can change the part of speech of any content word, but you can't change the part of speech of a particle.
+
+But there are restrictions and loopholes in Toki Pona: auxiliaries and prepositions can be converted into nouns, adjectives and verbs, but not the other way around. Also, an onomatopeia can be converted into a content word meaning *the name ...* or *the sound ...*, and a content word can be used as an onomatopeia, e.g. **nanpa**.
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
   * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun)
@@ -68,6 +68,52 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries and prepositi
 
 ## CONTENT WORD
 *([nimi](#word-classes) suli)*
+
+You can convert any noun into an adjective meaning *of ...* or into a verb meaning *to use ... on*.
+
+| ɴᴏᴜɴ meli | ɴᴏᴜɴ seli |
+|:-|:-|
+| ɴᴏᴜɴ *woman* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of a woman* = *a woman's* | ɴᴏᴜɴ *fire* <br>ᴠᴇʀʙ *to use fire on* = *to cook* |
+
+You can convert any adjective into a verb meaning *to make ...* or into a noun meaning *the state of being ...*.
+
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ pona | ᴀᴅᴊᴇᴄᴛɪᴠᴇ toki |
+|:-|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* <br>ᴠᴇʀʙ *to make good* = *to improve* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *speaking* <br>ɴᴏᴜɴ *the state of being speaking* = *the act of speaking* = *speech* |
+
+You can convert any verb into a noun meaning *something that you ...* or into an adjective meaning *who ...*.
+
+| ᴠᴇʀʙ moku | ᴠᴇʀʙ sona |
+|:-|:-|
+| ᴠᴇʀʙ *to eat* <br>ɴᴏᴜɴ *something that you eat* = *food* | ᴠᴇʀʙ *to know* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *who knows* = *knowing* |
+
+----
+
+***TODO*** default part of speech
+
+----
+
+
+
+
+
+You can convert any adjective into a noun meaning *that which is ...*.
+
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ sewi |
+|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *divine* <br>ɴᴏᴜɴ *God* |
+
+
+
+
+----
+***TODO***
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ pona |
+|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *peaceful* <br>ɴᴏᴜɴ *the state of being peaceful* = *peace* |
+
+
+----
 
 | |
 |:-|
