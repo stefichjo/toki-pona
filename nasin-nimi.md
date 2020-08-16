@@ -79,13 +79,24 @@ You can convert any ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ᴠᴇʀʙ meaning *to mak
 
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ pona | ᴀᴅᴊᴇᴄᴛɪᴠᴇ toki |
 |:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* <br>ᴠᴇʀʙ *to make good* = *to improve* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *speaking* <br>ɴᴏᴜɴ *the state of being speaking* = *the act of speaking* = *speech* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* <br>ᴠᴇʀʙ *to make good* = *to improve* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *speaking* <br>ɴᴏᴜɴ *the state of being speaking* = *the act of speaking* |
 
-You can convert any ᴠᴇʀʙ into a ɴᴏᴜɴ meaning *something that you ...* or into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *who ...*.
+You can convert any ᴠᴇʀʙ into a ɴᴏᴜɴ meaning *something that you ...* or into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *who ...* omitting its argument.
 
 | ᴠᴇʀʙ moku | ᴠᴇʀʙ sona |
 |:-|:-|
 | ᴠᴇʀʙ *to eat* <br>ɴᴏᴜɴ *something that you eat* = *food* | ᴠᴇʀʙ *to know* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *who knows* = *knowing* |
+
+You can convert any ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *being ...* omitting its argument.
+
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sona |
+|:-|
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *towards* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *being towards* = *moving* |
+
+
+----
+
+***TODO*** auxiliary
 
 ----
 
