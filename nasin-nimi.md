@@ -69,19 +69,19 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries and prepositi
 ## CONTENT WORD
 *([nimi](#word-classes) suli)*
 
-You can convert any noun into an adjective meaning *of ...* or into a verb meaning *to use ... on*.
+You can convert any ɴᴏᴜɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *of ...* or into a ᴠᴇʀʙ meaning *to use ... on*.
 
 | ɴᴏᴜɴ meli | ɴᴏᴜɴ seli |
 |:-|:-|
 | ɴᴏᴜɴ *woman* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of a woman* = *a woman's* | ɴᴏᴜɴ *fire* <br>ᴠᴇʀʙ *to use fire on* = *to cook* |
 
-You can convert any adjective into a verb meaning *to make ...* or into a noun meaning *the state of being ...*.
+You can convert any ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ᴠᴇʀʙ meaning *to make ...* or into a ɴᴏᴜɴ meaning *the state of being ...*.
 
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ pona | ᴀᴅᴊᴇᴄᴛɪᴠᴇ toki |
 |:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* <br>ᴠᴇʀʙ *to make good* = *to improve* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *speaking* <br>ɴᴏᴜɴ *the state of being speaking* = *the act of speaking* = *speech* |
 
-You can convert any verb into a noun meaning *something that you ...* or into an adjective meaning *who ...*.
+You can convert any ᴠᴇʀʙ into a ɴᴏᴜɴ meaning *something that you ...* or into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *who ...*.
 
 | ᴠᴇʀʙ moku | ᴠᴇʀʙ sona |
 |:-|:-|
