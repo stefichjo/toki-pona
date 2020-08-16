@@ -62,7 +62,7 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries and prepositi
       * [**ᴘᴇʀꜱᴏɴ**](#person) (jan)
       * [**ᴏʀɢᴀɴ**](#organ) (ilo)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
-  * [**ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#phrase-marker): [**ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ**](#mood-marker), [**ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#case-marker)
+  * [**ᴍᴀʀᴋᴇʀ**](#marker): [**ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ**](#mood-marker), [**ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#case-marker)
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
   * [**ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onompatopeia): **ɴᴀᴍᴇ**, **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**
 
@@ -254,13 +254,13 @@ When a **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** is used both as ᴍᴀɪɴ ᴠᴇʀʙ a
 
 | |
 |:-|
-| [ᴘʜʀᴀꜱᴇ ᴍᴀʀᴋᴇʀ](#phrase-marker) |
+| [ᴍᴀʀᴋᴇʀ](#marker) |
 | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction) |
 | [ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ](#onomatopeia) |
 
 **ᴘᴀʀᴛɪᴄʟᴇ**s can only be used as **ᴘᴀʀᴛɪᴄʟᴇ**s. (Only [ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ](#onomatopeia)s can be both **ᴘᴀʀᴛɪᴄʟᴇ**s and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s.)
 
-### PHRASE MARKER
+### MARKER
 *([nimi lili](#particle) lawa)*
 
 | |
@@ -271,7 +271,7 @@ When a **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** is used both as ᴍᴀɪɴ ᴠᴇʀʙ a
 #### MOOD MARKER
 
 ##### INDICATIVE
-*([nimi lili lawa](#phrase-marker) "li")*
+*([nimi lili lawa](#marker) "li")*
 
 The **ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ** **li** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ɪɴᴅɪᴄᴀᴛɪᴠᴇ**.
 
@@ -292,7 +292,7 @@ If the ꜱᴜʙᴊᴇᴄᴛ is just **mi** or **sina**, the **ᴍᴏᴏᴅ ᴍ�
 | *I am a man.* | *You are new.* |
 
 ##### VOLATIVE, VOCATIVE and IMPERATIVE
-*([nimi lili lawa](#phrase-marker) "o")*
+*([nimi lili lawa](#marker) "o")*
 
 The **ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ** **o** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏʟɪᴛɪᴠᴇ** (i.e. among others **ᴏᴘᴛᴀᴛɪᴠᴇ**) or **ɪᴍᴘᴇʀᴀᴛɪᴠᴇ**, or the ꜱᴜʙᴊᴇᴄᴛ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏᴄᴀᴛɪᴠᴇ**.
 
@@ -327,7 +327,7 @@ A **ᴠᴏʟɪᴛɪᴠᴇ** can be reduced to the ᴏʙᴊᴇᴄᴛ of the ꜱ�
 #### CASE MARKER
 
 ##### GENITIVE
-*([nimi lili lawa](#phrase-marker) "pi")*
+*([nimi lili lawa](#marker) "pi")*
 
 The **ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ** **pi** marks a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that can be translated as a **ɢᴇɴɪᴛɪᴠᴇ** or as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. A ꜱᴇɴᴛᴇɴᴄᴇs shouldn't have more than one **ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇ**.
 
@@ -342,7 +342,7 @@ When the ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ consists of only one [ɴᴏᴜɴ](#noun), t
 | *the language of good* → *the good language* |
 
 ##### ACCUSATIVE
-*([nimi lili lawa](#phrase-marker) "e")*
+*([nimi lili lawa](#marker) "e")*
 
 The **ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ** **e** marks a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ as an **ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ**, i.e. the ᴍᴀɪɴ ᴠᴇʀʙ's ᴏʙᴊᴇᴄᴛ.
 
