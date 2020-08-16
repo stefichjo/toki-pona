@@ -71,40 +71,30 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries and prepositi
 
 You can convert any ɴᴏᴜɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *of ...* or into a ᴠᴇʀʙ meaning *to use ... on*.
 
-| ɴᴏᴜɴ meli | ɴᴏᴜɴ seli |
+| ɴᴏᴜɴ moku | ɴᴏᴜɴ seli |
 |:-|:-|
-| ɴᴏᴜɴ *woman* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of a woman* = *a woman's* | ɴᴏᴜɴ *fire* <br>ᴠᴇʀʙ *to use fire on* = *to cook* |
+| ɴᴏᴜɴ *moku* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of food* = *food's* | ɴᴏᴜɴ *fire* <br>ᴠᴇʀʙ *to use fire on* = *to cook* |
 
 You can convert any ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ᴠᴇʀʙ meaning *to make ...* or into a ɴᴏᴜɴ meaning *the state of being ...*.
 
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ pona | ᴀᴅᴊᴇᴄᴛɪᴠᴇ toki |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ seli | ᴀᴅᴊᴇᴄᴛɪᴠᴇ moku |
 |:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* <br>ᴠᴇʀʙ *to make good* = *to improve* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *speaking* <br>ɴᴏᴜɴ *the state of being speaking* = *the act of speaking* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* <br>ᴠᴇʀʙ *to make hot* = *to heat* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *eating* <br>ɴᴏᴜɴ *the state of being eating* = *the act of eating* |
 
 You can convert any ᴠᴇʀʙ into a ɴᴏᴜɴ meaning *something that you ...* or into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *who ...* omitting its argument.
 
-| ᴠᴇʀʙ moku | ᴠᴇʀʙ sona |
+| ᴠᴇʀʙ moku | ᴠᴇʀʙ moku |
 |:-|:-|
-| ᴠᴇʀʙ *to eat* <br>ɴᴏᴜɴ *something that you eat* = *food* | ᴠᴇʀʙ *to know* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *who knows* = *knowing* |
+| ᴠᴇʀʙ *to eat* <br>ɴᴏᴜɴ *something that you eat* = *food* | ᴠᴇʀʙ *to eat* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *who eats* = *eating* |
 
 You can convert any ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *being ...* omitting its argument.
 
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ sona |
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
 |:-|
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *towards* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *being towards* = *moving* |
 
 
-----
-
-***TODO*** auxiliary
-
-----
-
 ***TODO*** default part of speech
-
-----
-
-
 
 
 
@@ -113,10 +103,6 @@ You can convert any adjective into a noun meaning *that which is ...*.
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ sewi |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *divine* <br>ɴᴏᴜɴ *God* |
-
-
-
-
 ----
 ***TODO***
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ pona |
