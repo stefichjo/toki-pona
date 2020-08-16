@@ -54,13 +54,9 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries and prepositi
   * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun)
   * [**ᴠᴇʀʙ**](#verb): [**ᴀᴜxɪʟɪᴀʀʏ**](#auxiliary)
   * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective): [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
-    * [**ᴛʜɪɴɢ**](#thing) (ijo)
-      * [**ᴀʀᴇᴀ**](#area) (ale)
-      * [**ɴᴜᴍʙᴇʀ**](#number) (nanpa)
-      * [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) (ni, seme)
-    * [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) (sijelo)
-      * [**ᴘᴇʀꜱᴏɴ**](#person) (jan)
-      * [**ᴏʀɢᴀɴ**](#organ) (ilo)
+  * [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#noun-adjective)
+    * [**ᴛʜɪɴɢ**](#thing) (ijo): [**ᴀʀᴇᴀ**](#area) (ale), [**ɴᴜᴍʙᴇʀ**](#number) (nanpa), [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) (ni, seme)
+    * [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) (sijelo): [**ᴘᴇʀꜱᴏɴ**](#person) (jan), [**ᴏʀɢᴀɴ**](#organ) (ilo)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ᴍᴀʀᴋᴇʀ**](#marker): [**ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ**](#mood-marker), [**ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#case-marker)
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
@@ -68,6 +64,12 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries and prepositi
 
 ## CONTENT WORD
 *([nimi](#word-classes) suli)*
+
+| |
+|:-|
+| [ɴᴏᴜɴ](#noun) |
+| [ᴠᴇʀʙ](#verb) |
+| [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective) |
 
 You can convert any ɴᴏᴜɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *of ...* or into a ᴠᴇʀʙ meaning *to use ... on*.
 
@@ -93,18 +95,11 @@ You can convert any ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ into an ᴀᴅᴊᴇᴄᴛɪ�
 |:-|
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *towards* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *being towards* = *moving* |
 
-You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ meaning *that which is ...*. Its specific usage is documented in the [Dictionary](#dictionary).
+You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ meaning *that which is ...*. Its specific usage can be looked up in the [Dictionary](#dictionary).
 
 | ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ sewi |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *divine* <br>ɴᴏᴜɴ *God* |
-
-| |
-|:-|
-| [ɴᴏᴜɴ](#noun) |
-| [ᴍᴏᴅɪꜰɪᴇʀ](#modifier) |
-
-**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**s can become any ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ, except for [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s. (Only [ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ](#onomatopeia) can be both **ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**s and [ᴘᴀʀᴛɪᴄʟᴇ](#particle)s.)
 
 ### NOUN
 *([nimi suli](#content-word) lawa)*
