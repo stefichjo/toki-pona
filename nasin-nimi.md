@@ -93,10 +93,13 @@ You can convert any ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ into an ᴀᴅᴊᴇᴄᴛɪ�
 |:-|
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *towards* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *being towards* = *moving* |
 
+You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ meaning *that which is ...*. Its specific usage is documented in the [Dictionary](#dictionary).
+
+| ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ kiwen |
+|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hard* <br>ɴᴏᴜɴ *that which is hard* = *hard object*, *metal*, *rock*, *stone* |
 
 ***TODO*** default part of speech
-
-
 
 You can convert any adjective into a noun meaning *that which is ...*.
 
