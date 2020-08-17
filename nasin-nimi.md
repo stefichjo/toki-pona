@@ -184,21 +184,19 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 #### PERSON
 *([nimi suli poka](#noun-adjective) jan)*
 
-| ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ meli |
+| ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ meli |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* <br>ɴᴏᴜɴ *feminine person* = *woman* |
-
----
-
 
 #### ORGAN
 *([nimi suli poka](#noun-adjective) ilo)*
 
-**ᴏʀɢᴀɴ ɴᴏᴜɴ**s imply **ilo**. (Cf. ꜱᴏɴᴊᴀ's ad-hoc [**ᴏʀɢᴀɴ ɴᴏᴜɴ**s](sonja.md#organ).)
-
-| ᴏʀɢᴀɴ lukin |
+| ᴏʀɢᴀɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ lukin |
 |:-|
-| ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to use eyes on*, *see* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *seeing* <br>ɴᴏᴜɴ *seeing organ* = *eye* <br>ᴠᴇʀʙ *to use eyes on* = *to see* |
+
+---
+
 
 #### LIFE-FORM
 *([nimi suli poka](#noun-adjective) sijelo)*
