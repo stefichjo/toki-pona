@@ -231,20 +231,16 @@ Sentences described by the correlative **ni** act like subordinate clauses.
 #### NUMBER
 *([nimi suli poka](#noun-adjective) nanpa)*
 
-**ɴᴜᴍʙᴇʀ**s are **ᴍᴏᴅɪꜰɪᴇʀ**s that describe *quantities*. (Cf. ꜱᴏɴᴊᴀ's ["more complex and precise counting system"](sonja.md#number).)
-
-| ɴᴜᴍʙᴇʀ tu | tawa musi pi jan tu |
-|:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* | *pair dance* |
+| ɴᴜᴍʙᴇʀ tu |
+|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* <br>ɴᴏᴜɴ *two things* = *pair* |
 
 #### AREA
-*([nimi suli poka](#noun-adjective) ma)*
-
-**ᴀʀᴇᴀ ɴᴏᴜɴ**s imply *area*.
+*([nimi suli poka](#noun-adjective) pi ijo ale)*
 
 | ᴀʀᴇᴀ insa |
 |:-|
-| ɴᴏᴜɴ *innards* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner* <br>ɴᴏᴜɴ *inner area* = *innards* |
 
 ### PREPOSITION
 *([nimi suli poka](#modifier) palisa)*
