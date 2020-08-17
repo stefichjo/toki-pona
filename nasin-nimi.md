@@ -131,9 +131,9 @@ You can convert any ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ meaning *the st
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *peaceful* <br>ɴᴏᴜɴ *the state of being peaceful* = *peace* |
 
 You can convert any ᴠᴇʀʙ via an ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ meaning *the act of ...*.
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ moku |
+| ᴠᴇʀʙ moku |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *eating* <br>ɴᴏᴜɴ *the state of being eating* = *the act of eating* |
+| ᴠᴇʀʙ *to eat* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *eating* <br>ɴᴏᴜɴ *the state of being eating* = *the act of eating* |
 
 You can convert any ᴠᴇʀʙ into a ɴᴏᴜɴ meaning *something that you ...*.
 
@@ -143,9 +143,9 @@ You can convert any ᴠᴇʀʙ into a ɴᴏᴜɴ meaning *something that you ...
 
 You can convert any ɴᴏᴜɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *of ...* or into a ᴠᴇʀʙ meaning *to use ... on*.
 
-| ɴᴏᴜɴ jan | ɴᴏᴜɴ seli |
+| ɴᴏᴜɴ jan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ seli |
 |:-|:-|
-| ɴᴏᴜɴ *someone* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of someone* = *someone's* | ɴᴏᴜɴ *fire* <br>ᴠᴇʀʙ *to use fire on* = *to cook* |
+| ɴᴏᴜɴ *someone* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of someone* = *someone's* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* <br>ɴᴏᴜɴ *that which is hot* = *fire* <br>ᴠᴇʀʙ *to use fire on* = *to cook* |
 
 #### PRONOUN
 *([nimi suli lawa](#noun) sama)*
