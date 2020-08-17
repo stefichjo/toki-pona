@@ -51,12 +51,13 @@ There are two word classes: [content words](#content-word) (i.e. these parts of 
 But there are restrictions and loopholes in Toki Pona: auxiliaries and prepositions can be converted into nouns, adjectives and verbs, but not the other way around. Also, an onomatopeia can be converted into a content word meaning *the name ...* or *the sound ...*, and a content word can be used as an onomatopeia, e.g. **nanpa**.
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
-  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun)
+  * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective)
   * [**ᴠᴇʀʙ**](#verb): [**ᴀᴜxɪʟɪᴀʀʏ**](#auxiliary)
-  * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective): [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
+  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun)
   * [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#noun-adjective)
     * [**ᴛʜɪɴɢ**](#thing) (ijo): [**ᴀʀᴇᴀ**](#area) (ale), [**ɴᴜᴍʙᴇʀ**](#number) (nanpa), [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) (ni, seme)
     * [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) (sijelo): [**ᴘᴇʀꜱᴏɴ**](#person) (jan), [**ᴏʀɢᴀɴ**](#organ) (ilo)
+  * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ᴍᴀʀᴋᴇʀ**](#marker): [**ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ**](#mood-marker), [**ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#case-marker)
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
@@ -67,15 +68,9 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries and prepositi
 
 | |
 |:-|
-| [ɴᴏᴜɴ](#noun) |
-| [ᴠᴇʀʙ](#verb) |
 | [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective) |
-
-You can convert any ɴᴏᴜɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *of ...* or into a ᴠᴇʀʙ meaning *to use ... on*.
-
-| ɴᴏᴜɴ moku | ɴᴏᴜɴ seli |
-|:-|:-|
-| ɴᴏᴜɴ *moku* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of food* = *food's* | ɴᴏᴜɴ *fire* <br>ᴠᴇʀʙ *to use fire on* = *to cook* |
+| [ᴠᴇʀʙ](#verb) |
+| [ɴᴏᴜɴ](#noun) |
 
 You can convert any ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ᴠᴇʀʙ meaning *to make ...* or into a ɴᴏᴜɴ meaning *the state of being ...*.
 
@@ -89,17 +84,23 @@ You can convert any ᴠᴇʀʙ into a ɴᴏᴜɴ meaning *something that you ...
 |:-|:-|
 | ᴠᴇʀʙ *to eat* <br>ɴᴏᴜɴ *something that you eat* = *food* | ᴠᴇʀʙ *to eat* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *who eats* = *eating* |
 
-You can convert any ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *being ...* omitting its argument.
+You can convert any ɴᴏᴜɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *of ...* or into a ᴠᴇʀʙ meaning *to use ... on*.
 
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
-|:-|
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *towards* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *being towards* = *moving* |
+| ɴᴏᴜɴ moku | ɴᴏᴜɴ seli |
+|:-|:-|
+| ɴᴏᴜɴ *moku* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of food* = *food's* | ɴᴏᴜɴ *fire* <br>ᴠᴇʀʙ *to use fire on* = *to cook* |
 
 You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ meaning *that which is ...*. Its specific usage can be looked up in the [Dictionary](#dictionary).
 
 | ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ sewi |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *divine* <br>ɴᴏᴜɴ *God* |
+
+You can convert any ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *being ...* omitting its argument.
+
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
+|:-|
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *towards* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *being towards* = *moving* |
 
 ### NOUN
 *([nimi suli](#content-word) lawa)*
