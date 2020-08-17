@@ -222,19 +222,11 @@ You can convert any ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ into an ᴀᴅᴊᴇᴄᴛɪ�
 |:-|
 | ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *parent of everything* |
 
----
+Sentences described by the correlative **ni** act like subordinate clauses.
 
-ꜱᴇɴᴛᴇɴᴄᴇs after the **ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ** **ni:** can be translated as a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
-
-| mi sona e ni: mi anpa. |
+| ꜱᴇɴᴛᴇɴᴄᴇ mi sona e ni: mi anpa. |
 |:-|
 | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I know that I'm powerless.* |
-
-A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a question ending in a question mark.
-
-| wile sona nanpa wan li ni: ale li pona anu ike? |
-|:-|
-| *The question number one is whether the universe is good or evil.* |
 
 #### NUMBER
 *([nimi suli poka](#noun-adjective) nanpa)*
