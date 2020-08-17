@@ -55,8 +55,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries and prepositi
   * [**ᴠᴇʀʙ**](#verb): [**ᴀᴜxɪʟɪᴀʀʏ**](#auxiliary)
   * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun)
   * [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#noun-adjective)
-    * [**ᴛʜɪɴɢ**](#thing) (ijo): [**ᴀʀᴇᴀ**](#area) (ale), [**ɴᴜᴍʙᴇʀ**](#number) (nanpa), [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) (ni, seme)
-    * [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) (sijelo): [**ᴘᴇʀꜱᴏɴ**](#person) (jan), [**ᴏʀɢᴀɴ**](#organ) (ilo)
+    * [**ᴘᴇʀꜱᴏɴ**](#person) (jan), [**ᴏʀɢᴀɴ**](#organ) (ilo), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) (sijelo)
+    * [**ᴛʜɪɴɢ**](#thing) (ijo), [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) (ni, seme), [**ɴᴜᴍʙᴇʀ**](#number) (nanpa), [**ᴀʀᴇᴀ**](#area) (ale)
   * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ᴍᴀʀᴋᴇʀ**](#marker): [**ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ**](#mood-marker), [**ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#case-marker)
@@ -71,24 +71,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries and prepositi
 | [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective) |
 | [ᴠᴇʀʙ](#verb) |
 | [ɴᴏᴜɴ](#noun) |
-
-You can convert any ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ᴠᴇʀʙ meaning *to make ...* or into a ɴᴏᴜɴ meaning *the state of being ...*.
-
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ seli | ᴀᴅᴊᴇᴄᴛɪᴠᴇ moku |
-|:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* <br>ᴠᴇʀʙ *to make hot* = *to heat* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *eating* <br>ɴᴏᴜɴ *the state of being eating* = *the act of eating* |
-
-You can convert any ᴠᴇʀʙ into a ɴᴏᴜɴ meaning *something that you ...* or into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *who ...* omitting its argument.
-
-| ᴠᴇʀʙ moku | ᴠᴇʀʙ moku |
-|:-|:-|
-| ᴠᴇʀʙ *to eat* <br>ɴᴏᴜɴ *something that you eat* = *food* | ᴠᴇʀʙ *to eat* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *who eats* = *eating* |
-
-You can convert any ɴᴏᴜɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *of ...* or into a ᴠᴇʀʙ meaning *to use ... on*.
-
-| ɴᴏᴜɴ moku | ɴᴏᴜɴ seli |
-|:-|:-|
-| ɴᴏᴜɴ *moku* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of food* = *food's* | ɴᴏᴜɴ *fire* <br>ᴠᴇʀʙ *to use fire on* = *to cook* |
+| [ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#noun-adjective) |
+| [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
 
 You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ meaning *that which is ...*. Its specific usage can be looked up in the [Dictionary](#dictionary).
 
@@ -102,6 +86,51 @@ You can convert any ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ into an ᴀᴅᴊᴇᴄᴛɪ�
 |:-|
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *towards* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *being towards* = *moving* |
 
+### ADJECTIVE
+*([nimi suli](#content-word) poka)*
+
+***TODO*** rm MODIFIER
+
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ pona | ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ jan pona |
+|:-|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *friendly* | ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* = ɴᴏᴜɴ *friend* |
+
+### VERB
+*([nimi suli](#content-word) luka)*
+
+| |
+|:-|
+| [ᴀᴜxɪʟɪᴀʀʏ](#auxiliary) |
+
+You can convert any ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ᴠᴇʀʙ meaning *to make ...*.
+
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ seli |
+|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* <br>ᴠᴇʀʙ *to make hot* = *to heat* |
+
+You can convert any ᴠᴇʀʙ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *who ...*.
+
+| ᴠᴇʀʙ moku |
+|:-|
+| ᴠᴇʀʙ *to eat* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *who eats* = *eating* |
+
+#### AUXILIARY
+*([nimi suli luka](#verb) poka)*
+
+***TODO*** Auxiliaries
+
+When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ share the same ꜱᴜʙᴊᴇᴄᴛ, their two ᴍᴀɪɴ ᴠᴇʀʙs can merge, provided the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's ᴍᴀɪɴ ᴠᴇʀʙ is an **ᴀᴜxɪʟɪᴀʀʏ**. A ᴍᴀɪɴ ᴠᴇʀʙ shouldn't have more than one ᴀᴜxɪʟɪᴀʀʏ.
+
+| ᴀᴜxɪʟɪᴀʀʏ sona | mi sona e nasin ni: mi anpa. → mi sona anpa. |
+|:-|:-|
+| ᴀᴜxɪʟɪᴀʀʏ *to know how to* <br>ᴠᴇʀʙ *to know* | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ → <br>ᴀᴜxɪʟɪᴀʀʏ + ᴍᴀɪɴ ᴠᴇʀʙ *I know how to be humble.* |
+
+**ᴀᴜxɪʟɪᴀʀɪᴇ**s can be modified by [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#onomatopeia).
+
+| ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ ala | mi sona ala anpa. |
+|:-|:-|
+| ᴘᴀʀᴛɪᴄʟᴇ *(negation)* → <br>ᴀᴅᴠᴇʀʙ *not* | *I don't know how to be humble.* |
+
 ### NOUN
 *([nimi suli](#content-word) lawa)*
 
@@ -109,14 +138,28 @@ You can convert any ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ into an ᴀᴅᴊᴇᴄᴛɪ�
 |:-|
 | [ᴘʀᴏɴᴏᴜɴ](#pronoun) |
 
-ɴᴏᴜɴs of the **ɴᴏᴜɴ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ keep their meaning when used as another ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ.
+You can convert any ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ meaning *the state of being ...*.
 
-| ɴᴏᴜɴ jan |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ pona |
 |:-|
-| ɴᴏᴜɴ *somebody* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *somebody's* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *peaceful* <br>ɴᴏᴜɴ *the state of being peaceful* = *peace* |
+
+You can convert any ᴠᴇʀʙ into a ɴᴏᴜɴ meaning *something that you ...*.
+
+| ᴠᴇʀʙ moku | ᴀᴅᴊᴇᴄᴛɪᴠᴇ moku |
+|:-|:-|
+| ᴠᴇʀʙ *to eat* <br>ɴᴏᴜɴ *something that you eat* = *food* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *eating* <br>ɴᴏᴜɴ *the state of being eating* = *the act of eating* |
+
+You can convert any ɴᴏᴜɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *of ...* or into a ᴠᴇʀʙ meaning *to use ... on*.
+
+| ɴᴏᴜɴ jan | ɴᴏᴜɴ seli |
+|:-|:-|
+| ɴᴏᴜɴ *someone* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of someone* = *someone's* | ɴᴏᴜɴ *fire* <br>ᴠᴇʀʙ *to use fire on* = *to cook* |
 
 #### PRONOUN
 *([nimi suli lawa](#noun) sama)*
+
+***TODO*** Pronouns
 
 **ᴘʀᴏɴᴏᴜɴ**s are **ɴᴏᴜɴ**s that refer to the speaker, the listener or a third person (or thing).
 
@@ -124,18 +167,45 @@ You can convert any ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ into an ᴀᴅᴊᴇᴄᴛɪ�
 |:-|
 | ɴᴏᴜɴ *you* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* |
 
-#### PERSON
-*([nimi suli lawa](#noun) jan)*
-
-#### THING
-*([nimi suli lawa](#noun) ijo)*
+### NOUN ADJECTIVE
+*([nimi suli](#content-word) poka pi nimi suli lawa)*
 
 | |
 |:-|
-| [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) |
-| [ᴀʀᴇᴀ](#area) |
+| [ᴘᴇʀꜱᴏɴ](#person) |
 | [ᴏʀɢᴀɴ](#organ) |
 | [ʟɪꜰᴇ-ꜰᴏʀᴍ](#life-form) |
+| |
+| [ᴛʜɪɴɢ](#thing) |
+| [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) |
+| [ɴᴜᴍʙᴇʀ](#number) |
+| [ᴀʀᴇᴀ](#area) |
+
+---
+
+#### PERSON
+*([nimi suli poka](#noun-adjective) jan)*
+
+#### ORGAN
+*([nimi suli poka](#noun-adjective) ilo)*
+
+**ᴏʀɢᴀɴ ɴᴏᴜɴ**s imply **ilo**. (Cf. ꜱᴏɴᴊᴀ's ad-hoc [**ᴏʀɢᴀɴ ɴᴏᴜɴ**s](sonja.md#organ).)
+
+| ᴏʀɢᴀɴ lukin |
+|:-|
+| ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to use eyes on*, *see* |
+
+#### LIFE-FORM
+*([nimi suli poka](#noun-adjective) sijelo)*
+
+**ʟɪꜰᴇ-ꜰᴏʀᴍ ɴᴏᴜɴ**s imply *life-form*.
+
+| ʟɪꜰᴇ-ꜰᴏʀᴍ waso |
+|:-|
+| ɴᴏᴜɴ *flying creature* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flying* |
+
+#### THING
+*([nimi suli poka](#noun-adjective) ijo)*
 
 **ᴛʜɪɴɢ ɴᴏᴜɴ**s imply **ijo**.
 
@@ -143,8 +213,8 @@ You can convert any ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ into an ᴀᴅᴊᴇᴄᴛɪ�
 |:-|
 | ɴᴏᴜɴ *something round* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round* |
 
-##### CORRELATIVE
-*([nimi suli lawa ijo](#thing) sama)*
+#### CORRELATIVE
+*([nimi suli poka](#noun-adjective) sama)*
 
 **ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ɴᴏᴜɴs** are **ᴛʜɪɴɢ ɴᴏᴜɴ**s, i.e. they imply **ijo**.
 
@@ -170,51 +240,8 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 |:-|
 | *The question number one is whether the universe is good or evil.* |
 
-##### AREA
-*([nimi suli lawa ijo](#thing) ma)*
-
-**ᴀʀᴇᴀ ɴᴏᴜɴ**s imply *area*.
-
-| ᴀʀᴇᴀ insa |
-|:-|
-| ɴᴏᴜɴ *innards* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner* |
-
-##### ORGAN
-*([nimi suli lawa ijo](#thing) ilo)*
-
-**ᴏʀɢᴀɴ ɴᴏᴜɴ**s imply **ilo**. (Cf. ꜱᴏɴᴊᴀ's ad-hoc [**ᴏʀɢᴀɴ ɴᴏᴜɴ**s](sonja.md#organ).)
-
-| ᴏʀɢᴀɴ lukin |
-|:-|
-| ɴᴏᴜɴ *eye* → <br>ᴠᴇʀʙ *to use eyes on*, *see* |
-
-##### LIFE-FORM
-*([nimi suli lawa ijo](#thing) sijelo)*
-
-**ʟɪꜰᴇ-ꜰᴏʀᴍ ɴᴏᴜɴ**s imply *life-form*.
-
-| ʟɪꜰᴇ-ꜰᴏʀᴍ waso |
-|:-|
-| ɴᴏᴜɴ *flying creature* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flying* |
-
-### MODIFIER
-*([nimi suli](#content-word) poka)*
-
-| |
-|:-|
-| [ɴᴜᴍʙᴇʀ](#number) |
-| [ᴠᴇʀʙ](#verb) |
-| [ᴀᴜxɪʟɪᴀʀʏ](#auxiliary) |
-| [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
-
-ᴀᴅᴊᴇᴄᴛɪᴠᴇs of the **ᴍᴏᴅɪꜰɪᴇʀ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ keep their meaning when used as another ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ.
-
-| ᴍᴏᴅɪꜰɪᴇʀ pona |
-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *good* <br>ɴᴏᴜɴ *goodness* <br>ᴠᴇʀʙ *to improve* |
-
 #### NUMBER
-*([nimi suli poka](#modifier) nanpa)*
+*([nimi suli poka](#noun-adjective) nanpa)*
 
 **ɴᴜᴍʙᴇʀ**s are **ᴍᴏᴅɪꜰɪᴇʀ**s that describe *quantities*. (Cf. ꜱᴏɴᴊᴀ's ["more complex and precise counting system"](sonja.md#number).)
 
@@ -222,31 +249,16 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can be formulated like a quest
 |:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* | *pair dance* |
 
-#### VERB
-*([nimi suli poka](#modifier) luka)*
+#### AREA
+*([nimi suli poka](#noun-adjective) ma)*
 
-ᴀᴅᴊᴇᴄᴛɪᴠᴇs of the **ᴠᴇʀʙ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ keep their meaning. ɴᴏᴜɴs derived from **ᴠᴇʀʙ**s can also mean their [ᴏʙᴊᴇᴄᴛ](#accusative-case).
+**ᴀʀᴇᴀ ɴᴏᴜɴ**s imply *area*.
 
-| ᴠᴇʀʙ moku |
+| ᴀʀᴇᴀ insa |
 |:-|
-| ᴠᴇʀʙ *to eat* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *eating* <br>ɴᴏᴜɴ *eating* → <br>ɴᴏᴜɴ *food* |
+| ɴᴏᴜɴ *innards* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner* |
 
-#### AUXILIARY
-*([nimi suli poka](#modifier) monsi)*
-
-When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ share the same ꜱᴜʙᴊᴇᴄᴛ, their two ᴍᴀɪɴ ᴠᴇʀʙs can merge, provided the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's ᴍᴀɪɴ ᴠᴇʀʙ is an **ᴀᴜxɪʟɪᴀʀʏ**. A ᴍᴀɪɴ ᴠᴇʀʙ shouldn't have more than one ᴀᴜxɪʟɪᴀʀʏ.
-
-| ᴀᴜxɪʟɪᴀʀʏ sona | mi sona e nasin ni: mi anpa. → mi sona anpa. |
-|:-|:-|
-| ᴀᴜxɪʟɪᴀʀʏ *to know how to* <br>ᴠᴇʀʙ *to know* | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ → <br>ᴀᴜxɪʟɪᴀʀʏ + ᴍᴀɪɴ ᴠᴇʀʙ *I know how to be humble.* |
-
-**ᴀᴜxɪʟɪᴀʀɪᴇ**s can be modified by [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#onomatopeia).
-
-| ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ ala | mi sona ala anpa. |
-|:-|:-|
-| ᴘᴀʀᴛɪᴄʟᴇ *(negation)* → <br>ᴀᴅᴠᴇʀʙ *not* | *I don't know how to be humble.* |
-
-#### PREPOSITION
+### PREPOSITION
 *([nimi suli poka](#modifier) palisa)*
 
 ᴀᴅᴊᴇᴄᴛɪᴠᴇs of the **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ keep their meaning when used as another ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ.
