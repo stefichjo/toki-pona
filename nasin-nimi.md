@@ -202,33 +202,27 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *swimming* <br>ɴᴏᴜɴ *swimming life-form* = *fish* |
 
----
-
 #### THING
 *([nimi suli poka](#noun-adjective) ijo)*
 
-**ᴛʜɪɴɢ ɴᴏᴜɴ**s imply **ijo**.
-
 | ᴛʜɪɴɢ sike |
 |:-|
-| ɴᴏᴜɴ *something round* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round* |
-
----
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round* <br>ɴᴏᴜɴ *something round* = *circle*, *ball* |
 
 #### CORRELATIVE
 *([nimi suli poka](#noun-adjective) sama)*
 
-**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ɴᴏᴜɴs** are **ᴛʜɪɴɢ ɴᴏᴜɴ**s, i.e. they imply **ijo**.
-
 | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ale |
 |:-|
-| ɴᴏᴜɴ *everything* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *every* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *every* <br>ɴᴏᴜɴ *every thing* = *everything* |
 
-After [**pi**](#genitive), **ijo** reappears.
+You can convert any ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *of ...* using **pi ijo**.
 
-| mama pi ijo ale | mama ale |
-|:-|:-|
-| *parent of everything* | *every parent* |
+| ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ mama pi ijo ale |
+|:-|
+| ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *parent of everything* |
+
+---
 
 ꜱᴇɴᴛᴇɴᴄᴇs after the **ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ** **ni:** can be translated as a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
 
