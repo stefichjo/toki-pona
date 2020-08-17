@@ -79,7 +79,7 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries and prepositi
 
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ pona |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *friendly* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *peaceful* |
 
 ### VERB
 *([nimi suli](#content-word) luka)*
@@ -90,9 +90,9 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries and prepositi
 
 You can convert any ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ᴠᴇʀʙ meaning *to make ...*.
 
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ seli |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ pona |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* <br>ᴠᴇʀʙ *to make hot* = *to heat* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *peaceful* <br>ᴠᴇʀʙ *to make peaceful* = *to pacify* |
 
 You can convert any ᴠᴇʀʙ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *who ...*.
 
