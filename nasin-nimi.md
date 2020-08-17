@@ -184,28 +184,25 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 #### PERSON
 *([nimi suli poka](#noun-adjective) jan)*
 
-| ᴘᴇʀꜱᴏɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ meli |
+| ᴘᴇʀꜱᴏɴ meli |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* <br>ɴᴏᴜɴ *feminine person* = *woman* |
 
 #### ORGAN
 *([nimi suli poka](#noun-adjective) ilo)*
 
-| ᴏʀɢᴀɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ lukin |
+| ᴏʀɢᴀɴ lukin |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *seeing* <br>ɴᴏᴜɴ *seeing organ* = *eye* <br>ᴠᴇʀʙ *to use eyes on* = *to see* |
-
----
-
 
 #### LIFE-FORM
 *([nimi suli poka](#noun-adjective) sijelo)*
 
-**ʟɪꜰᴇ-ꜰᴏʀᴍ ɴᴏᴜɴ**s imply *life-form*.
-
 | ʟɪꜰᴇ-ꜰᴏʀᴍ waso |
 |:-|
-| ɴᴏᴜɴ *flying creature* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flying* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *swimming* <br>ɴᴏᴜɴ *swimming life-form* = *fish* |
+
+---
 
 #### THING
 *([nimi suli poka](#noun-adjective) ijo)*
@@ -215,6 +212,8 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 | ᴛʜɪɴɢ sike |
 |:-|
 | ɴᴏᴜɴ *something round* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round* |
+
+---
 
 #### CORRELATIVE
 *([nimi suli poka](#noun-adjective) sama)*
