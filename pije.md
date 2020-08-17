@@ -117,7 +117,7 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 
 ## pi
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona11.php) uses **pi** after **li**, also before single words. He also uses **pi** as *(talking) about*.
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona11.php) uses **pi** after **li**, also before single words. He also uses **pi** for *(talking) about*.
 
 | | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
@@ -149,11 +149,12 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 
 ## en
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona12.php) uses **en** in **pi**-phrases ("if two people own something together").
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona12.php) uses **en** in **pi**-phrases ("if two people own something together" and for combining [colors](http://tokipona.net/tp/janpije/okamasona13.php)).
 
 | | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
 | *The house of Keli and her husband is big.* | **tomo pi jan Keli en mije ona li suli.** | **tomo pi jan Keli, pi mije ona li suli.** / **jan Keli en mije ona li jo e tomo. ona li suli.** |
+| *shirt of red and blue* | **len pi loje en laso** | **len loje laso** |
 
 ## taso
 

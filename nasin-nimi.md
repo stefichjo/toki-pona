@@ -107,8 +107,6 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 | |
 |:-|
 | [ᴘʀᴏɴᴏᴜɴ](#pronoun) |
-| [ᴘᴇʀꜱᴏɴ](#person) |
-| [ᴛʜɪɴɢ](#thing) |
 
 ɴᴏᴜɴs of the **ɴᴏᴜɴ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ keep their meaning when used as another ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ.
 
