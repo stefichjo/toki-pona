@@ -74,12 +74,6 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries and prepositi
 | [ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#noun-adjective) |
 | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
 
-You can convert any ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *being ...* omitting its argument.
-
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
-|:-|
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *towards* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *being towards* = *moving* |
-
 ### ADJECTIVE
 *([nimi suli](#content-word) poka)*
 
@@ -245,27 +239,21 @@ Sentences described by the correlative **ni** act like subordinate clauses.
 ### PREPOSITION
 *([nimi suli poka](#modifier) palisa)*
 
-ᴀᴅᴊᴇᴄᴛɪᴠᴇs of the **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** ᴡᴏʀᴅ ᴄʟᴀꜱꜱ keep their meaning when used as another ᴘᴀʀᴛ ᴏꜰ ꜱᴘᴇᴇᴄʜ.
+You can convert any ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *being ...* omitting its argument.
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
 |:-|
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *moving to* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *moving* <br>ɴᴏᴜɴ *movement* |
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *towards* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *being towards* = *going* |
 
-In ꜱᴇɴᴛᴇɴᴄᴇs, a **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ** can be used only at the end.
+A prepositional phrase can only be used at the end of a sentence.
 
 | mi pana e kala tawa ona. |
 |:-|
 | *I give fish to her.* |
 
-**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**s can be modified by [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#onomatopeia).
+When a **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** is used both as ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is omitted.
 
-| o kepeken ala ilo ike. |
-|:-|
-| *Don't use bad tools.* |
-
-When a **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** is used both as ᴍᴀɪɴ ᴠᴇʀʙ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴍᴀɪɴ ᴠᴇʀʙ is omitted.
-
-| mi ~~tawa~~ tawa sina. |
+| mi tawa ~~tawa~~ sina. |
 |:-|
 | *I am moving towards you.* |
 
@@ -453,7 +441,13 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 |:-|
 | *Wow!* |
 
-## Toki Pona Dictionary
+**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**s can be modified by [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#onomatopeia).
+
+| o kepeken ala ilo ike. |
+|:-|
+| *Don't use bad tools.* |
+
+## Dictionary
 *(nimi ale)*
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
