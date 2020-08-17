@@ -74,12 +74,6 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries and prepositi
 | [ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#noun-adjective) |
 | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
 
-You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ meaning *that which is ...*. Its specific usage can be looked up in the [Dictionary](#dictionary).
-
-| ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ sewi |
-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *divine* <br>ɴᴏᴜɴ *God* |
-
 You can convert any ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *being ...* omitting its argument.
 
 | ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
@@ -181,10 +175,21 @@ You can convert any ɴᴏᴜɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *of ..
 | [ɴᴜᴍʙᴇʀ](#number) |
 | [ᴀʀᴇᴀ](#area) |
 
----
+You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ meaning *that which is ...*. Its specific usage can be looked up in the [Dictionary](#dictionary).
+
+| ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ sewi |
+|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *divine* <br>ɴᴏᴜɴ *that which is divine* = *God* |
 
 #### PERSON
 *([nimi suli poka](#noun-adjective) jan)*
+
+| ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ meli |
+|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* <br>ɴᴏᴜɴ *feminine person* = *woman* |
+
+---
+
 
 #### ORGAN
 *([nimi suli poka](#noun-adjective) ilo)*
