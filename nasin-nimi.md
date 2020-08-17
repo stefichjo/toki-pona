@@ -77,11 +77,9 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries and prepositi
 ### ADJECTIVE
 *([nimi suli](#content-word) poka)*
 
-***TODO*** rm MODIFIER
-
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ pona | ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ jan pona |
-|:-|:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *friendly* | ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* = ɴᴏᴜɴ *friend* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ pona |
+|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *friendly* |
 
 ### VERB
 *([nimi suli](#content-word) luka)*
@@ -132,11 +130,16 @@ You can convert any ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ meaning *the st
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *peaceful* <br>ɴᴏᴜɴ *the state of being peaceful* = *peace* |
 
+You can convert any ᴠᴇʀʙ via an ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ meaning *the act of ...*.
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ moku |
+|:-|
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *eating* <br>ɴᴏᴜɴ *the state of being eating* = *the act of eating* |
+
 You can convert any ᴠᴇʀʙ into a ɴᴏᴜɴ meaning *something that you ...*.
 
-| ᴠᴇʀʙ moku | ᴀᴅᴊᴇᴄᴛɪᴠᴇ moku |
-|:-|:-|
-| ᴠᴇʀʙ *to eat* <br>ɴᴏᴜɴ *something that you eat* = *food* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *eating* <br>ɴᴏᴜɴ *the state of being eating* = *the act of eating* |
+| ᴠᴇʀʙ moku |
+|:-|
+| ᴠᴇʀʙ *to eat* <br>ɴᴏᴜɴ *something that you eat* = *food* |
 
 You can convert any ɴᴏᴜɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *of ...* or into a ᴠᴇʀʙ meaning *to use ... on*.
 
@@ -147,13 +150,9 @@ You can convert any ɴᴏᴜɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *of ..
 #### PRONOUN
 *([nimi suli lawa](#noun) sama)*
 
-***TODO*** Pronouns
-
-**ᴘʀᴏɴᴏᴜɴ**s are **ɴᴏᴜɴ**s that refer to the speaker, the listener or a third person (or thing).
-
 | ᴘʀᴏɴᴏᴜɴ sina |
 |:-|
-| ɴᴏᴜɴ *you* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your* |
+| ɴᴏᴜɴ *you* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of you* = *your* |
 
 ### NOUN ADJECTIVE
 *([nimi suli](#content-word) poka pi nimi suli lawa)*
