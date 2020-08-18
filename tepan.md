@@ -131,14 +131,14 @@ This document illustrates my interpretation of [ꜱᴏɴᴊᴀ](sonja.md)'s book
 
 ##### [LIFE-FORM](nasin-nimi.md#life-form)
 
-| ʟɪꜰᴇ-ꜰᴏʀᴍ | ɴᴏᴜɴ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
-|:-|:-|:-|
-| **akesi** | *monster*: *to fear* | *cold-blooded* |
-| **kala** | - | *diving*, *swimming* |
-| **kasi** | - | *vegetating*; *growing* |
-| **pipi** | - | *crawling*, *creeping* |
-| **soweli** | *cute animal*; *Procyonidae* | *warm-blooded* |
-| **waso** | - | *flying*, *winging* |
+| ʟɪꜰᴇ-ꜰᴏʀᴍ | ᴀᴅᴊᴇᴄᴛɪᴠᴇ |
+|:-|:-|
+| **akesi** | *cold-blooded*; *monstrous*: *to fear* |
+| **kala** | *diving*, *swimming* |
+| **kasi** | *vegetating*; *growing* |
+| **pipi** | *crawling*, *creeping* |
+| **soweli** | *warm-blooded* |
+| **waso** | *flying*, *winging* |
 
 ### [MODIFIER](nasin-nimi.md#modifier)
 
