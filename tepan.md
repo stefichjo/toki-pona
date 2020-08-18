@@ -267,6 +267,7 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 ## Synonyms
 
 ***TODO sync with examples above***
+***TODO lili lili
 
 | | ⇐ | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|:-|
@@ -288,7 +289,7 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 | **sewi** | **lawa** | *highest part* | …: *at the top of*; *upper* |
 | **suwi** | **soweli** | *innocent* | - |
 | **tan** | **tawa** | …: *leaving*: *departure* | - |
-| **wan** | **lili** | - | *part*, *particle*, *piece*: *to cut something* |
+| **lili** | **lili** | - | *part*, *particle*, *piece*: *to half something* |
 | **wile** | **selo** | - | *to be bound to*, *can't help but*; *to conclude* |
 | **wile** | **selo** ⇐ **lawa** | - | *to decide* |
 
