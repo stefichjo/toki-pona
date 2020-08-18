@@ -200,7 +200,7 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 
 | ᴛʜɪɴɢ sike |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round* <br>ɴᴏᴜɴ *something round* = *circle*, *ball* |
+| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round* <br>ɴᴏᴜɴ *round thing* = *circle*, *ball* |
 
 #### CORRELATIVE
 *([nimi suli poka](#noun-adjective) sama)*
