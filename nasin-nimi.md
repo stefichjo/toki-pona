@@ -554,16 +554,7 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 | <img src="musi/pona/selo.png" height="50" title="ŝelo"> | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#area) + [**ᴀᴜxɪʟɪᴀʀʏ**](#auxiliary) *open* — **selo**, *sijelo* <br>ɴᴏᴜɴ (⇒ *pini*) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *pini*) + <br>ᴀᴜxɪʟɪᴀʀʏ (⇒ *wile*) <br>ᴠᴇʀʙ (⇒ *wile*), (⇒ *wile* ⇐ *lawa*) |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#organ) *kute*, *palisa*, **selo**, *uta* <br>ɴᴏᴜɴ [**form**](sonja.md#preface), **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary** <br>ᴠᴇʀʙ *to form* |
 | <img src="musi/pona/seme.png" height="50" title="ŝenme"> | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#correlative) *ale*, *ni*, **seme**, *wan* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **what**, **which** <br>ɴᴏᴜɴ [**what**](sonja.md#lesson-7), *which one* |
-| <img src="musi/pona/sewi.png" height="50" title="sevit"> | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#area) + [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#thing) *anpa* — **sewi**, *supa*
-
- <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *high*; (⇐ *lawa*) *upper*
- <br>ɴᴏᴜɴ **area above**: (*lon sewi*) *above*, *over*; [**sky**](sonja.md#lesson-15); **something elevated**; (⇐ *lawa*) **highest part**: (*lon sewi*) *at the top of*
-
-
- + <br>ɴᴏᴜɴ [**the Divine**](sonja.md#preface), [**that which is divine**](sonja.md#lesson-6), [**God**](sonja.md#lesson-6), [**the Lord**](sonja.md#the-torah)
-
- → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **awe-inspiring**, **divine**, **sacred**, **supernatural** |
-
+| <img src="musi/pona/sewi.png" height="50" title="sevit"> | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#area) + [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#thing) *anpa* — **sewi**, *supa* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *high*; (⇐ *lawa*) *upper* <br>ɴᴏᴜɴ **area above**: (*lon sewi*) *above*, *over*; [**sky**](sonja.md#lesson-15); **something elevated**; (⇐ *lawa*) **highest part**: (*lon sewi*) *at the top of* <br> +  <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **awe-inspiring**, **divine**, **sacred**, **supernatural** <br>ɴᴏᴜɴ [**the Divine**](sonja.md#preface), [**that which is divine**](sonja.md#lesson-6), [**God**](sonja.md#lesson-6), [**the Lord**](sonja.md#the-torah) |
 | <img src="musi/pona/sijelo.png" height="50" title="tijelo"> | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#area) + [**ᴀᴜxɪʟɪᴀʀʏ**](#auxiliary) *open* — *selo*, **sijelo** <br>ɴᴏᴜɴ *configuration*, *mode*, *state*; **physical state** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *physical* + <br>ᴀᴜxɪʟɪᴀʀʏ *to be -ing* <br>ᴠᴇʀʙ *to establish* |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#thing) *kulupu*, **sijelo** <br>ɴᴏᴜɴ **body (of person or animal)**, **torso**; *life-form* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *alive* <br>ɴᴏᴜɴ [**health**](sonja.md#lesson-13) |
 | <img src="musi/pona/sike.png" height="50" title="sirkel"> | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#area) + [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#thing) *poka*, **sike** — *weka* <br>ɴᴏᴜɴ (⇒ *poka*) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *poka*) + <br>ɴᴏᴜɴ **round or circular thing**; **ball**, **circle**, **sphere**, **wheel**; **cycle**; *age*; *lap* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*sike ~~suno~~*) **of one year**, (*pi sike ~~suno~~ mute* ⇐ *~~majuna~~*) *old* <br>ᴠᴇʀʙ *to fulfil* |
