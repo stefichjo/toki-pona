@@ -613,11 +613,9 @@ Derivations according to a word's **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ** are denoted wit
 |:-|:-|
 | <img src="musi/pona/meli.png" height="50" title="meri"> | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#person) *mama* — **meli**, *mije* <br>ɴᴏᴜɴ **female**, **feminine person**, **woman**; **wife** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**female**](sonja.md#lesson-3) |
 
-Semantic completions are written in [*italic and blue*](tepan.md).
-
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="musi/pona/mije.png" height="50" title="mies"> | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#person) *mama* — *meli*, **mije** <br>ɴᴏᴜɴ **male**, **man**, **masculine person**; **husband** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*male*](tepan.md) |
+| <img src="musi/pona/mije.png" height="50" title="mies"> | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#person) *mama* — *meli*, **mije** <br>ɴᴏᴜɴ **male**, **man**, **masculine person**; **husband** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* |
 
 When all members of a **ᴡᴏʀᴅ ꜰᴀᴍɪʟʏ** share the same **ᴡᴏʀᴅ ᴄʟᴀꜱꜱ**es, they are listed with a plus-sign (+).
 
