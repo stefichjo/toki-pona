@@ -8,10 +8,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|
 | |
 | [Community Toki Pona (ꜱᴏɴᴊᴀ)](sonja.md) |
-| |
-| [Enhanced Toki Pona (ᴛᴇᴘᴀɴ)](toki-namako.md) |
-| [Fictional Toki Pona (ᴛᴇᴘᴀɴ)](toki-sin.md) |
-| |
+| [Frontier Toki Pona (ᴛᴇᴘᴀɴ)](tepan.md) |
 | [Traditional Toki Pona (ᴘɪᴊᴇ)](pije.md) |
 | [Dialectal Toki Pona (ᴋɪᴘᴏ)](kipo.md) |
 
