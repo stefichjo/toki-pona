@@ -643,8 +643,6 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 
 | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|
-| **lape** <br>[ᴠᴇʀʙ **to sleep**](#lesson-18) | **lape** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sleeping** |
-| | |
 | *jan* [*Epawam*](#lesson-9) *Linkan li tan ma Mewika.* | *jan Epawan Linkan li tan ma Mewika.* |
 | | |
 | The particle *pi* is used to divide a second [noun group](#lesson-11) that describes a first [noun group](#lesson-11). | The particle *pi* is used to divide a second noun phrase that describes a first noun or noun phrase. |
@@ -655,7 +653,11 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | | |
 | **open** <br>[ᴠᴇʀʙ **open**](#lesson-16) | **open** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **open** <br>ᴠᴇʀʙ **to open** |
 | | |
-| **alasa** <br>ᴠᴇʀʙ [**hunt**](#lesson-17), **forage** | **alasa** <br>ᴠᴇʀʙ **to hunt**, **forage** |
+| *mi wile e ni: jan Melani li kama* [*tawa*](#lesson-17) *tomo mi.* | *mi wile e ni: jan Melani li kama lon tomo mi.* |
+| | |
+| **alasa** <br>ᴠᴇʀʙ [**hunt**](#lesson-17), **fo rage** | **alasa** <br>ᴠᴇʀʙ **to hunt**, **forage** |
+| | |
+| **lape** <br>[ᴠᴇʀʙ **to sleep**](#lesson-18) | **lape** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sleeping** |
 | | |
 | **kalama** <br>[ᴠᴇʀʙ **to produce a sound**](#official-toki-pona-dictionary); **recite**, **utter aloud** | **kalama** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound** <br>ᴠᴇʀʙ **to recite**, **utter** **aloud** |
 | | |
