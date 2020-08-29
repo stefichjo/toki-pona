@@ -78,7 +78,7 @@ As long as ɴᴀᴍᴇs are single words only (like [place names](#place-names))
 
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
-| [**ni: jan Melani li kama tawa tomo mi**](#lesson-17) | ꜱᴇɴᴛᴇɴᴄᴇ | ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ |
+| [**ni: jan Melani li kama lon tomo mi**](#lesson-17) | ꜱᴇɴᴛᴇɴᴄᴇ | ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ |
 
 The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs before **la**) is also called ꜰʀᴀɢᴍᴇɴᴛ.
 
@@ -655,7 +655,7 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | | |
 | *mi wile e ni: jan Melani li kama* [*tawa*](#lesson-17) *tomo mi.* | *mi wile e ni: jan Melani li kama lon tomo mi.* |
 | | |
-| **alasa** <br>ᴠᴇʀʙ [**hunt**](#lesson-17), **fo rage** | **alasa** <br>ᴠᴇʀʙ **to hunt**, **forage** |
+| **alasa** <br>ᴠᴇʀʙ [**hunt**](#lesson-17), **forage** | **alasa** <br>ᴠᴇʀʙ **to hunt**, **forage** |
 | | |
 | **lape** <br>[ᴠᴇʀʙ **to sleep**](#lesson-18) | **lape** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sleeping** |
 | | |
