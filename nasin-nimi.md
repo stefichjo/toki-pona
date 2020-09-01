@@ -450,7 +450,7 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 *(nimi ale)*
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
-|:-|:-|
+|:-:|:-|
 | <img src="musi/pona/a.png" height="50" title="ha"> | [**ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onomatopeia) *mu* — **a**, *ala* <br>ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, [**(emotion word)**](sonja.md#lesson-10) <br>ᴀᴅᴠᴇʀʙ (⇐ *~~kin~~*) *indeed*, [**so**](sonja.md#lesson-10); (*sama la … a* ⇐ *~~kin~~*) *still*, (*sin la … a* ⇐ *~~kin~~*) *too*; [**ha**](sonja.md#lesson-10), [**wow**](sonja.md#lesson-10), [**yay**](sonja.md#lesson-13); (⇒ *lon*) |
 | <img src="musi/pona/akesi.png" height="50" title="hagedis"> | [**ʟɪꜰᴇ-ꜰᴏʀᴍ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#life-form) **akesi** — *soweli* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*; *monstrous* (⇐ *~~monsuta~~*): (*akesi e … lon insa lawa* ⇐ *~~monsuta e …~~*) *to fear*; (⇒ *ike*) <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile** |
 | <img src="musi/pona/ala.png" height="50" title="ara"> | [**ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onomatopeia) *mu* — *a*, **ala** <br>ᴘᴀʀᴛɪᴄʟᴇ *(negation)* <br>ᴀᴅᴠᴇʀʙ **not**; **no** <br>ɴᴏᴜɴ [**nothingness**](sonja.md#lesson-6) |
