@@ -643,6 +643,8 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 
 | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|
+| ɴᴏᴜɴ *something that you* [*speak, i.e. a language*](#lesson-5) | ɴᴏᴜɴ *something that you say, i.e. a message*; <br>*the way of communication, i.e. language* |
+| | |
 | *jan* [*Epawam*](#lesson-9) *Linkan li tan ma Mewika.* | *jan Epawan Linkan li tan ma Mewika.* |
 | | |
 | The particle *pi* is used to divide a second [noun group](#lesson-11) that describes a first [noun group](#lesson-11). | The particle *pi* is used to divide a second noun phrase that describes a first noun or noun phrase. |
