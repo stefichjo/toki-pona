@@ -567,21 +567,7 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 | <img src="musi/pona/lon.png" height="50" title="loŋ"><br>**lon** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ [**at**](sonja.md#lesson-8), **located at**, **present at**; [**in the context of**](sonja.md#lesson-14): (*lon ni:* = , *la*) [**if**](sonja.md#lesson-14); (⇐ *sama*) *according to*, *along* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **existing**, **real**; **true**; <br>ᴀᴅᴠᴇʀʙ (⇐ a) *yes* |
 | <img src="musi/pona/luka.png" height="50" title="ruka"><br>**luka** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ poka) <br>ɴᴏᴜɴ (⇒ poka) <br>[**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **arm**, [**fingers**](sonja.md#writings-of-baháulláh), **hand**, **tactile organ**; <br>ᴠᴇʀʙ *to touch* |
 | | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**5**](sonja.md#lesson-12), **five** |
-
-| <img src="musi/pona/lukin.png" height="50" title="luk-im"><br>**lukin** | [**ᴏʀɢᴀɴ**](#organ)
-
- <br>ɴᴏᴜɴ **eye** (⇐ *~~oko~~*);
-
- <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch**
-
- <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
-
- <br>ᴀᴜxɪʟɪᴀʀʏ **to seek** *to*, [**seek to**](sonja.md#lesson-13), **try to**; (*lukin jo*) [**to look for**](sonja.md#errata); (*lukin kama lon*) *to search for*
-
- <br>ᴠᴇʀʙ *to care for*
-
- |
-
+| <img src="musi/pona/lukin.png" height="50" title="luk-im"><br>**lukin** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **eye** (⇐ *~~oko~~*); <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴀᴜxɪʟɪᴀʀʏ **to seek** *to*, [**seek to**](sonja.md#lesson-13), **try to**; (*lukin jo*) [**to look for**](sonja.md#errata); (*lukin kama lon*) *to search for* <br>ᴠᴇʀʙ *to care for* |
 | <img src="musi/pona/lupa.png" height="50" title="rupa"><br>**lupa** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *concave*, *hollow* <br>ɴᴏᴜɴ (*lupa ~~tomo~~*) **door**, **hole**, **orifice**, (*lupa ~~suno~~*) **window**; (*lupa meli*) [**womb**](sonja.md#toki-pona-proverbs) |
 | <img src="musi/pona/ma.png" height="50" title="maa"><br>**ma** | [**ᴛʜɪɴɢ**](#thing) <br>ɴᴏᴜɴ **earth**, **land**; **outdoors**, **world**; **country**, **territory**; **soil**; *area*; (*~~sike~~ ma*) [**planet**](sonja.md#toki-pona-proverbs) → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *firm, fixed* <br>ᴠᴇʀʙ *to tie* |
 | <img src="musi/pona/mama.png" height="50" title="mama"><br>**mama** | [**ᴘᴇʀꜱᴏɴ**](#person) <br>ɴᴏᴜɴ **ancestor**, **parent**; (*mama ~~mije~~*) [**father**](sonja.md#the-gospel), (*mama ~~meli~~*) *mother*; **creator**, **originator**; **caretaker**, **sustainer** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of origin*; [**birth giving**](sonja.md#the-quran) |
@@ -617,7 +603,7 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 | <img src="musi/pona/pan.png" height="50" title="fan"><br>**pan** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fallen*, *dropped*; *sown* <br>ɴᴏᴜɴ *seed*; **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** |
 | <img src="musi/pona/pana.png" height="50" title="pana"><br>**pana** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to emit**, **give**, [**grant**](sonja.md#toki-pona-proverbs), **provide**, (*pana e ijo lon …*) **put**, **release**, (*pana e ijo tawa …*) **send**, [**send out**](sonja.md#toki-pona-proverbs), [**serve**](sonja.md#lesson-14) <br>ɴᴏᴜɴ *gift* |
 | <img src="musi/pona/pi.png" height="50" title="biloŋ"><br>**pi** | [**ᴍᴀʀᴋᴇʀ**](#case-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ [**(divides a second ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that describes a first ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ)**](sonja.md#lesson-11), **of** |
-| <img src="musi/pona/pilin.png" height="50" title="pil-im"><br>**pilin** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **heart (physical or emotional)** → <br>ᴠᴇʀʙ *to sense* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (a direct experience)** <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴀᴜxɪʟɪᴀʀʏ *to feel like*: (*pilin ~~wile~~ utala*) *to be angry* <br>ᴠᴇʀʙ *to have the impression that*, [**think**](sonja.md#writings-of-baháulláh) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (an emotion)** |
+| <img src="musi/pona/pilin.png" height="50" title="pil-im"><br>**pilin** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **heart (physical or emotional)**; <br>ᴠᴇʀʙ *to sense*; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (a direct experience)** <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴀᴜxɪʟɪᴀʀʏ *to feel like*: (*pilin ~~wile~~ utala*) *to be angry* <br>ᴠᴇʀʙ *to have the impression that*, [**think**](sonja.md#writings-of-baháulláh) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (an emotion)** |
 | <img src="musi/pona/pimeja.png" height="50" title="pimea"><br>**pimeja** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **black**, (*pimeja ~~mu~~*) *blackish*; (⇐ *~~kapesi~~*) *grey* |
 | | [**ᴛʜɪɴɢ**](#thing) <br>ɴᴏᴜɴ *shadow* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dark**, **unlit** |
 | <img src="musi/pona/pini.png" height="50" title="pinis"><br>**pini** | ***TODO*** [**ᴀʀᴇᴀ**](#area) <br>ɴᴏᴜɴ *end*: (*lon ~~pini~~*) *after*, *in the end*; (⇐ *selo*) *closure* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **ago**, **completed**, **ended**, **finished**; (*~~pi tenpo~~ pini*) **past**; (*~~pi nanpa~~ pini*) *previous*, (*~~pi nanpa~~ pini* ⇐ *~~pi nanpa~~ selo*) *last*; (*pini ~~lon~~*) *disappearing*; (⇐ *selo*) *closed*, *sealed* <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴀᴜxɪʟɪᴀʀʏ *to stop -ing* <br>ᴠᴇʀʙ *to cancel* |
