@@ -92,7 +92,6 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries and prepositi
 
 * *alasa*, *moku*
 * *jo*, *pana*
-* *musi* — *pali*
 * *nimi*, *sitelen*, *toki*
 * *olin*, *unpa*
  
@@ -234,6 +233,7 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 * *linja* — *palisa*
 * *lipu* — *lupa*, *nena* (⇐ *~~kapa~~*)
 * *nasin*, *mun*, *sike*
+* *musi* — *pali*
 * *pimeja* — *suno*
 
 | ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ sike |
@@ -528,7 +528,7 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 | <img src="musi/pona/awen.png" height="50" title="hawen"><br>**awen** | ***TODO*** [**ᴀʀᴇᴀ**](#area) <br>ɴᴏᴜɴ (⇒ *tenpo*): (*lon ~~awen~~ ni:*) *as long as, while* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**; (*~~pi tenpo~~ awen*) *present*; (*~~pi nanpa~~ awen*) *current*; (*awen ~~lon~~*) **staying**, **waiting**; (⇐ *tomo*) **protected**, **safe** <br>ᴠᴇʀʙ (⇐ *tomo*) [**to help in peril**](sonja.md#short-obligatory-prayer), [**protect**](sonja.md#lesson-15) <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴀᴜxɪʟɪᴀʀʏ **to continue to** <br>ᴠᴇʀʙ *to continue* |
 | <img src="musi/pona/e.png" height="50" title="e"><br>**e** | [**ᴍᴀʀᴋᴇʀ**](#case-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ **(before the direct ᴏʙᴊᴇᴄᴛ)** |
 | <img src="musi/pona/en.png" height="50" title="en"><br>**en** | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) <br>ᴘᴀʀᴛɪᴄʟᴇ **(between multiple ꜱᴜʙᴊᴇᴄᴛs)**, [**and**](sonja.md#lesson-16) |
-| <img src="musi/pona/esun.png" height="50" title="eĝum"><br>**esun** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (⇒ *ante*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *ante*) <br>ɴᴏᴜɴ (*~~kama~~ esun*) *exchange*; **business transaction**; (*~~tomo~~ esun*) **shop**; (*~~ma~~ esun*) **bazaar**, **fair**, **market** |
+| <img src="musi/pona/esun.png" height="50" title="eĝum"><br>**esun** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (⇒ *ante*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *ante*) <br>ɴᴏᴜɴ (*~~kama~~ esun*) *exchange*; (*esun ~~pali~~*) **business transaction**; (*~~tomo~~ esun*) **shop**; (*~~ma~~ esun*) **bazaar**, **fair**, **market** |
 | | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *7*, *seven* |
 | <img src="musi/pona/ijo.png" height="50" title="ijo"><br>**ijo** | [**ɴᴏᴜɴ**](#noun) <br>ɴᴏᴜɴ [**being**](sonja.md#lesson-2), **matter**, **object**, **phenomenon**, [**something**](sonja.md#lesson-2), **thing**; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *something's* |
 | <img src="musi/pona/ike.png" height="50" title="ilkea"><br>**ike** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bad**, [**harmful**](sonja.md#toki-pona-proverbs), [**needless**](sonja.md#famous-quotations), **negative**; (⇐ *akesi*) [**hostile**](sonja.md#famous-quotations): (*toki ike* ⇐ *~~powe~~*) *to deceive*; (*~~sin~~ ike*) **irrelevant**, **non-essential**; <br>ɴᴏᴜɴ [**bad things**](sonja.md#toki-pona-proverbs), [**evil**](sonja.md#toki-pona-proverbs), [**fault**](sonja.md#toki-pona-proverbs), [**negativity**](sonja.md#toki-pona-proverbs), [**non-essentials**](sonja.md#famous-quotations) |
@@ -578,8 +578,8 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 | <img src="musi/pona/moli.png" height="50" title="muri"><br>**moli** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**, (*~~kama~~ moli*) **dying** |
 | <img src="musi/pona/monsi.png" height="50" title="mon-ĉi"><br>**monsi** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *rear* <br>ɴᴏᴜɴ [**area behind**](sonja.md#lesson-15), **back**, **rear**: (*lon monsi*) **behind** <br>[**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dorsal* <br>ɴᴏᴜɴ **back**; *backbone*; <br>ᴠᴇʀʙ *to endorse* |
 | <img src="musi/pona/mu.png" height="50" title="mu"><br>**mu** | [**ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onomatopeia) <br>ᴘᴀʀᴛɪᴄʟᴇ **(animal noise or communication)**; *(indifference)* <br>ᴀᴅᴠᴇʀʙ (*~~mu~~*) *-ish*, *sort-of*; [**cock-a-doodle-doo**](sonja.md#lesson-11), [**moo**](sonja.md#lesson-1); *blah* |
-| <img src="musi/pona/mun.png" height="50" title="mun"><br>**mun** | [**ᴛʜɪɴɢ**](#thing) <br>ɴᴏᴜɴ **night sky object**: **moon**, **star** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *orbiting*, *sky-walking* |
-| <img src="musi/pona/musi.png" height="50" title="amuzi"><br>**musi** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ *to play with* → <br>ɴᴏᴜɴ *game* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** |
+| <img src="musi/pona/mun.png" height="50" title="mun"><br>**mun** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *orbiting*, *sky-walking* <br>ɴᴏᴜɴ **night sky object**: **moon**, **star** |
+| <img src="musi/pona/musi.png" height="50" title="amuzi"><br>**musi** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** <br>ɴᴏᴜɴ *game*; <br>ᴠᴇʀʙ *to play with* |
 | <img src="musi/pona/mute.png" height="50" title="multe"><br>**mute** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**3+**](sonja.md#lesson-12), [**20**](sonja.md#lesson-12), **a lot**, **many**, **several**; <br>ᴀᴅᴠᴇʀʙ **much**, **very**; (*mute ~~sin~~*) **more**; <br>ᴠᴇʀʙ [**to multiply**](sonja.md#toki-pona-proverbs) <br>ɴᴏᴜɴ *amount*, **quantity**; (⇒ *kulupu*) |
 | | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *3*, *three*: (*~~mute pi ijo~~ mute*) *set* |
 | <img src="musi/pona/nanpa.png" height="50" title="namba"><br>**nanpa** | [**ᴀʀᴇᴀ**](#area) <br>ɴᴏᴜɴ *one's turn*; (*~~nimi~~ nanpa*) **numbers** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *to be one's turn* <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴀᴜxɪʟɪᴀʀʏ *to be one's turn to* <br>ᴠᴇʀʙ *to iterate*; *count*; *calculate* |
@@ -595,7 +595,7 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 | <img src="musi/pona/ona.png" height="50" title="ona"><br>**ona** | [**ɴᴏᴜɴ**](#pronoun) (⇐ *~~iki~~*) <br>ɴᴏᴜɴ **he**/*him*, **it**, **she**/*her*, **they**/*them* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *her*, *his*, *its*, *their* |
 | <img src="musi/pona/open.png" height="50" title="open"><br>**open** | [**ᴀʀᴇᴀ**](#area) <br>ɴᴏᴜɴ *entrance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *accessible* <br>ᴠᴇʀʙ **to open**, [**unseal**](sonja.md#writings-of-baháulláh) <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴀᴜxɪʟɪᴀʀʏ *to be ready to* <br>ᴠᴇʀʙ *to set up*, **turn on**; (⇐ *kama*) **begin**, **start** <br>ɴᴏᴜɴ (⇐ *kama*) *start* |
 | <img src="musi/pona/pakala.png" height="50" title="bagar-ap"><br>**pakala** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **botched**, **broken**, **damaged**, **harmed**, **messed up** |
-| <img src="musi/pona/pali.png" height="50" title="fari"><br>**pali** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to do**, **take action on**, **work on**; (*pali ~~ale~~*) **build**, **make**, **prepare** <br>ɴᴏᴜɴ [**action**](sonja.md#toki-pona-proverbs) |
+| <img src="musi/pona/pali.png" height="50" title="fari"><br>**pali** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *busy*, *serious* <br>ɴᴏᴜɴ *business*, *work*; <br>ᴠᴇʀʙ **to do**, **take action on**, **work on**; (*pali e ~~kama pi~~*) **build**, **make**, **prepare**; <br>ɴᴏᴜɴ [**action**](sonja.md#toki-pona-proverbs) |
 | <img src="musi/pona/palisa.png" height="50" title="palica"><br>**palisa** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *long and hard* <br>ɴᴏᴜɴ **long hard thing**: [**antler**](sonja.md#lesson-17), *bone*, **branch**, **rod**, **stick**; *column*; (⇐ *linja*: *palisa uta*) *tongue* |
 | | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ *finger*; <br>ᴠᴇʀʙ *to point at* |
 | <img src="musi/pona/pan.png" height="50" title="fan"><br>**pan** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fallen*, *dropped*; *sown* <br>ɴᴏᴜɴ *seed*; **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** |
