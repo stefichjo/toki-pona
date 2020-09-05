@@ -224,14 +224,14 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 #### THING
 *([nimi suli poka](#noun-adjective) ijo)*
 
-* *lili* — *ale*, *ilo*, *mani*, *mute*, *suli*, *wawa* (⇐ *~~ali~~*)
+* *lili* — *ale*, *ilo*, *mani*, *mute*, *suli*, *wawa*
 * *jaki* — *suwi*
 * *kili*, *pan*
 * *kiwen*, *ko*, *kon*, *telo*
 * *kulupu*, *sijelo*
 * *lete* — *seli*
 * *linja* — *palisa*
-* *lipu* — *lupa*, *nena* (⇐ *~~kapa~~*)
+* *lipu* — *lupa*, *nena*
 * *mun*, *sike*
 * *musi* — *pali*
 * *pimeja* — *suno*
@@ -243,7 +243,7 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 #### CORRELATIVE
 *([nimi suli poka](#noun-adjective) sama)*
 
-* *ale*, *ni*, *seme*, *wan* (⇐ *~~ali~~*)
+* *ale*, *ni*, *seme*, *wan*
 
 | ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ ale |
 |:-|
@@ -264,8 +264,8 @@ Sentences described by the correlative **ni** act like subordinate clauses.
 #### NUMBER
 *([nimi suli poka](#noun-adjective) nanpa)*
 
-* *ala*, *ale*, *esun*, *luka* (⇐ *~~ali~~*)
-* *mute*, *tu*, *wan* (⇐ *~~tuli~~*)
+* *ala*, *ale*, *esun*, *luka*
+* *mute*, *tu*, *wan*
 
 | ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ tu |
 |:-|
@@ -514,13 +514,13 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-:|:-|
-| <img src="musi/pona/a.png" height="50" title="ha"><br>**a** | [**ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onomatopeia) <br>ᴘᴀʀᴛɪᴄʟᴇ **(emphasis, emotion or confirmation)**, [**(emotion word)**](sonja.md#lesson-10) <br>ᴀᴅᴠᴇʀʙ (⇐ *~~kin~~*) *indeed*, [**so**](sonja.md#lesson-10); (*sama la … a* ⇐ *~~kin~~*) *still*, (*sin la … a* ⇐ *~~kin~~*) *too*; [**ha**](sonja.md#lesson-10), [**wow**](sonja.md#lesson-10), [**yay**](sonja.md#lesson-13); (⇒ *lon*) |
+| <img src="musi/pona/a.png" height="50" title="ha"><br>**a** | [**ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onomatopeia) <br>ᴘᴀʀᴛɪᴄʟᴇ (⇐ *~~kin~~*) **(emphasis, emotion or confirmation)**, [**(emotion word)**](sonja.md#lesson-10) <br>ᴀᴅᴠᴇʀʙ (⇐ *~~kin~~*) *indeed*, [**so**](sonja.md#lesson-10); (*sama la … a* ⇐ *~~kin~~*) *still*, (*sin la … a* ⇐ *~~kin~~*) *too*; [**ha**](sonja.md#lesson-10), [**wow**](sonja.md#lesson-10), [**yay**](sonja.md#lesson-13); (⇒ *lon*) |
 | <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*; *monstrous* (⇐ *~~monsuta~~*): (*akesi e … lon insa lawa* ⇐ *~~monsuta e …~~*) *to fear*; (⇒ *ike*) <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile** |
 | <img src="musi/pona/ala.png" height="50" title="ara"><br>**ala** | [**ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onomatopeia) <br>ᴘᴀʀᴛɪᴄʟᴇ *(negation)* <br>ᴀᴅᴠᴇʀʙ **not**; **no** <br>ɴᴏᴜɴ [**nothingness**](sonja.md#lesson-6) |
 | | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**0**](sonja.md#lesson-12) <br>ɴᴏᴜɴ [**zero**](sonja.md#famous-quotations) |
 | <img src="musi/pona/alasa.png" height="50" title="a-la-ŝas"><br>**alasa** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to hunt**, **forage** <br>ɴᴏᴜɴ *prey* |
-| <img src="musi/pona/ale.png" height="50" title="ale"><br>**ale** | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*~~mute~~ ale*) **all**, **every**; (*~~wan~~ ale*) **all** <br>ɴᴏᴜɴ **everything**; (⇒ *ma*) |
-| | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](sonja.md#lesson-12), **countless** <br>ɴᴏᴜɴ [**infinity**](sonja.md#famous-quotations); [**100**](sonja.md#lesson-12) |
+| <img src="musi/pona/ale.png" height="50" title="ale"><br>**ale** | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ  (⇐ *~~ali~~*: *~~mute~~ ale*) **all**, **every**; (*~~wan~~ ale*) **all** <br>ɴᴏᴜɴ (⇐ *~~ali~~*) **everything**; (⇒ *ma*) |
+| | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇐ *~~ali~~*) [**∞**](sonja.md#lesson-12), **countless** <br>ɴᴏᴜɴ (⇐ *~~ali~~*) [**infinity**](sonja.md#famous-quotations); [**100**](sonja.md#lesson-12) |
 | | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **bountiful**, **plentiful** <br>ɴᴏᴜɴ **abundance**; **life**, **universe** |
 | <img src="musi/pona/anpa.png" height="50" title="an-ba"><br>**anpa** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *noka*): (*~~kama~~ anpa*) **downward**; (*~~kama~~ anpa*) **bowing down**; *deep* <br>ɴᴏᴜɴ (⇒ *noka*); *abyss*; *hell* <br>[**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **humble**, **lowly**; **dependent**; <br>ɴᴏᴜɴ [**powerlessness**](sonja.md#short-obligatory-prayer) <br>ɴᴏᴜɴ *...* |
 | <img src="musi/pona/ante.png" height="50" title="ander"><br>**ante** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *than*, *unlike*; (⇐ *esun*) *instead of* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **altered**, **changed**, **different**; (⇐ *esun*) *exchanged*, **other**; <br>ɴᴏᴜɴ (*~~kama~~ ante*) [**change**](sonja.md#toki-pona-proverbs) |
@@ -549,7 +549,7 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 | <img src="musi/pona/kiwen.png" height="50" title="kiven"><br>**kiwen** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hard*, *sharp*; *rigid* <br>ɴᴏᴜɴ **hard object**: *bone*, **metal**, **rock**, **stone** |
 | <img src="musi/pona/ko.png" height="50" title="gou"><br>**ko** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *semi-solid* <br>ɴᴏᴜɴ **semi-solid**: **clay**, **clinging form**, **dough**, **paste**, **powder** |
 | <img src="musi/pona/kon.png" height="50" title="koŋ"><br>**kon** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *floating*, *hovering* <br>ɴᴏᴜɴ **air**, **breath**; **essence**, **spirit**; [**meaning**](sonja.md#preface), [**soul**](sonja.md#preface); **hidden reality**, **unseen agent** |
-| <img src="musi/pona/kule.png" height="50" title="kuler"><br>**kule** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) (⇐ *~~kapesi~~*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **colourful**, **painted**; **pigmented**; *brown*, (*kule ~~mu~~*) *brownish* |
+| <img src="musi/pona/kule.png" height="50" title="kuler"><br>**kule** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **colourful**, **painted**; **pigmented**; (⇐ *~~kapesi~~*) *brown*, (*kule ~~mu~~*) *brownish* |
 | <img src="musi/pona/kulupu.png" height="50" title="kulupu"><br>**kulupu** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *sama*) <br>ɴᴏᴜɴ *relationship*; (*kulupu ~~jan~~*) **community**, **company**, **group**, **nation**, **society**, **tribe**; (⇐ *lawa*) *arrangement*, *organization*; (⇐ *mute*) *trio*; *multitude*, *set* |
 | <img src="musi/pona/kute.png" height="50" title="ekute"><br>**kute** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **ear**; <br>ᴠᴇʀʙ **to hear**, **listen**; (*kute ~~insa~~*) [**listen to**](sonja.md#lesson-5), **pay attention to**, **obey** |
 | <img src="musi/pona/la.png" height="50" title="la"><br>**la** | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) <br>ᴘᴀʀᴛɪᴄʟᴇ **(between the ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ and the ᴍᴀɪɴ ꜱᴇɴᴛᴇɴᴄᴇ)**, [**(separates ᴄᴏɴᴛᴇxᴛ from ᴍᴀɪɴ ꜱᴇɴᴛᴇɴᴄᴇ)**](sonja.md#lesson-14) |
@@ -566,7 +566,7 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 | <img src="musi/pona/lon.png" height="50" title="loŋ"><br>**lon** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ [**at**](sonja.md#lesson-8), **located at**, **present at**; [**in the context of**](sonja.md#lesson-14): (*lon ni:* = , *la*) [**if**](sonja.md#lesson-14); (⇐ *sama*) *according to*, *along* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **existing**, **real**; **true**; <br>ᴀᴅᴠᴇʀʙ (⇐ a) *yes* |
 | <img src="musi/pona/luka.png" height="50" title="ruka"><br>**luka** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ poka) <br>ɴᴏᴜɴ (⇒ poka) <br>[**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **arm**, [**fingers**](sonja.md#writings-of-baháulláh), **hand**, **tactile organ**; <br>ᴠᴇʀʙ *to touch* |
 | | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**5**](sonja.md#lesson-12), **five** <br>ɴᴏᴜɴ *quintet* |
-| <img src="musi/pona/lukin.png" height="50" title="luk-im"><br>**lukin** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **eye** (⇐ *~~oko~~*); <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴀᴜxɪʟɪᴀʀʏ **to seek** *to*, [**seek to**](sonja.md#lesson-13), **try to**; (*lukin jo*) [**to look for**](sonja.md#errata); (*lukin kama lon*) *to search for* <br>ᴠᴇʀʙ *to care for* |
+| <img src="musi/pona/lukin.png" height="50" title="luk-im"><br>**lukin** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ (⇐ *~~oko~~*) **eye**; <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴀᴜxɪʟɪᴀʀʏ **to seek** *to*, [**seek to**](sonja.md#lesson-13), **try to**; (*lukin jo*) [**to look for**](sonja.md#errata); (*lukin kama lon*) *to search for* <br>ᴠᴇʀʙ *to care for* |
 | <img src="musi/pona/lupa.png" height="50" title="rupa"><br>**lupa** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *concave*, *hollow* <br>ɴᴏᴜɴ **hole**: (*lupa ~~tomo~~*) **door**, (*lupa ~~suno~~*) **window**; **orifice**: (*lupa meli*) [**womb**](sonja.md#toki-pona-proverbs) |
 | <img src="musi/pona/ma.png" height="50" title="maa"><br>**ma** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *contextual*, *outside*; *firm*, *fixed* <br>ɴᴏᴜɴ **outdoors**: *context*, **world**; **earth**, **land**, **soil**; (*ma ~~jan~~*) **country**, **territory**; *area* (⇐ ale); (*~~sike~~ ma*) [**planet**](sonja.md#toki-pona-proverbs); <br>ᴠᴇʀʙ *to orient, tie* |
 | <img src="musi/pona/mama.png" height="50" title="mama"><br>**mama** | [**ᴘᴇʀꜱᴏɴ**](#person) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of origin* <br>ɴᴏᴜɴ (⇐ *sijelo*: *sijelo e ijo ala* = *mama ala*) [**birth-giver**](sonja.md#the-quran), **parent**; (*mama ~~mije~~*) [**father**](sonja.md#the-gospel), (*mama ~~meli~~*) *mother*; **ancestor**, *origin*; **caretaker**, **sustainer**; **creator**, **originator** |
@@ -581,18 +581,18 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 | <img src="musi/pona/mun.png" height="50" title="mun"><br>**mun** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *orbiting*, *sky-walking* <br>ɴᴏᴜɴ **night sky object**: **moon**, **star** |
 | <img src="musi/pona/musi.png" height="50" title="amuzi"><br>**musi** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** <br>ɴᴏᴜɴ *game*; <br>ᴠᴇʀʙ *to play with* |
 | <img src="musi/pona/mute.png" height="50" title="multe"><br>**mute** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**3+**](sonja.md#lesson-12), [**20**](sonja.md#lesson-12), **a lot**, **many**, **several**; <br>ᴀᴅᴠᴇʀʙ **much**, **very**; (*mute ~~sin~~*) **more**; <br>ᴠᴇʀʙ [**to multiply**](sonja.md#toki-pona-proverbs) <br>ɴᴏᴜɴ *amount*, **quantity** |
-| | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *3*, *three*; <br>ɴᴏᴜɴ (⇒ *kulupu*) |
+| | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇐ *~~tuli~~*) *3*, *three*; <br>ɴᴏᴜɴ (⇒ *kulupu*) |
 | <img src="musi/pona/nanpa.png" height="50" title="namba"><br>**nanpa** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *to be one's turn* <br>ɴᴏᴜɴ *one's turn*; (*~~nimi~~ nanpa*) **numbers**; <br>ᴠᴇʀʙ *to iterate*; *count*; *calculate* |
 | | [**ɴᴀᴍᴇ**](#onomatopeia) <br>ᴘᴀʀᴛɪᴄʟᴇ **(ordinal number)**, **-th** |
 | <img src="musi/pona/nasa.png" height="50" title="nasau"><br>**nasa** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **strange**, [**unconventional**](sonja.md#toki-pona-proverbs), **unusual**; (*~~pi sona~~ nasa*) **crazy**, **foolish**; (*~~pi pilin~~ nasa*) **drunk**, **intoxicated** |
 | <img src="musi/pona/nasin.png" height="50" title="naĉin"><br>**nasin** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *insa*) <br>ɴᴏᴜɴ (⇒ *insa*); *dimension*; **path**, **road**, [**street**](sonja.md#lesson-9), **way**; *direction*; **custom**, **doctrine**, **method**, [**system**](sonja.md#preface), [**way of doing things**](sonja.md#toki-pona-proverbs); <br>ᴠᴇʀʙ (⇒ *insa*) |
-| <img src="musi/pona/nena.png" height="50" title="nena"><br>**nena** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *convex*, *outstanding*, *thick* <br>ɴᴏᴜɴ **bump**, **hill**, **mountain**, **protuberance**; **button**; (*nena ~~pi sinpin lawa~~*) **nose** |
+| <img src="musi/pona/nena.png" height="50" title="nena"><br>**nena** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *convex*, *outstanding*, *thick* <br>ɴᴏᴜɴ (⇐ *~~kapa~~*) **bump**, **hill**, **mountain**, **protuberance**; **button**; (*nena ~~pi sinpin lawa~~*) **nose** |
 | <img src="musi/pona/ni.png" height="50" title="ni"><br>**ni** | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **that**, **this** <br>ɴᴏᴜɴ (*ni:*) [**the following**](sonja.md#lesson-17) |
 | <img src="musi/pona/nimi.png" height="50" title="nimi"><br>**nimi** | [**ᴠᴇʀʙ**](#verb) <br>ɴᴏᴜɴ **name**; **word** <br>ᴠᴇʀʙ *to call*, *define* |
 | <img src="musi/pona/noka.png" height="50" title="noga"><br>**noka** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bottom*; (⇐ *anpa*) *low, lower* <br>ɴᴏᴜɴ **lowest part**; **bottom**, [**foundation**](sonja.md#lesson-15): (*lon noka*) [**at the bottom of**](sonja.md#lesson-15); (⇐ *anpa*) [**area below or under**](sonja.md#lesson-15): (*lon noka*) *below*, *under*; *depending on* <br>[**ᴏʀɢᴀɴ**](#organ) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *stable*; *ordinary*, *usual* <br>ɴᴏᴜɴ **foot**, **leg**, **organ of locomotion**; <br>ᴠᴇʀʙ *to step on*, *kick* |
 | <img src="musi/pona/o.png" height="50" title="ho"><br>**o** | [**ᴍᴀʀᴋᴇʀ**](#mood-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* **(vocative or imperative)**, [**(call or command)**](sonja.md#lesson-10), [**(shows who is being called or addressed; command or request; wish or desire)**](sonja.md#lesson-10), **hey**, **o** |
 | <img src="musi/pona/olin.png" height="50" title="volim"><br>**olin** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ [**to be a fan of**](sonja.md#preface), **have compassion for**, **love**, **respect**, **show affection to**; <br>ɴᴏᴜɴ *love*; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**beloved**](sonja.md#lesson-18) |
-| <img src="musi/pona/ona.png" height="50" title="ona"><br>**ona** | [**ɴᴏᴜɴ**](#pronoun) (⇐ *~~iki~~*) <br>ɴᴏᴜɴ **he**/*him*, **it**, **she**/*her*, **they**/*them* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *her*, *his*, *its*, *their* |
+| <img src="musi/pona/ona.png" height="50" title="ona"><br>**ona** | [**ɴᴏᴜɴ**](#pronoun) <br>ɴᴏᴜɴ (⇐ *~~iki~~*) **he**/*him*, **it**, **she**/*her*, **they**/*them*; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇐ *~~iki~~*) *her*, *his*, *its*, *their* |
 | <img src="musi/pona/open.png" height="50" title="open"><br>**open** | [**ᴀʀᴇᴀ**](#area) <br>ɴᴏᴜɴ *entrance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *accessible* <br>ᴠᴇʀʙ **to open**, [**unseal**](sonja.md#writings-of-baháulláh) <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴀᴜxɪʟɪᴀʀʏ *to be ready to* <br>ᴠᴇʀʙ *to set up*, **turn on**; (⇐ *kama*) **begin**, **start** <br>ɴᴏᴜɴ (⇐ *kama*) *start* |
 | <img src="musi/pona/pakala.png" height="50" title="bagar-ap"><br>**pakala** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **botched**, **broken**, **damaged**, **harmed**, **messed up** |
 | <img src="musi/pona/pali.png" height="50" title="fari"><br>**pali** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *busy*, *serious* <br>ɴᴏᴜɴ *business*, *work*; <br>ᴠᴇʀʙ **to do**, **take action on**, **work on**; (*pali e ~~kama pi~~*) **build**, **make**, **prepare**; <br>ɴᴏᴜɴ [**action**](sonja.md#toki-pona-proverbs) |
@@ -636,7 +636,7 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 | <img src="musi/pona/toki.png" height="50" title="tok"><br>**toki** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to communicate**, [**explain**](sonja.md#famous-quotations), **say**, **speak**, **talk**, **use language**; **think** <br>ɴᴏᴜɴ [**communication**](sonja.md#toki-pona-proverbs), [**language**](sonja.md#lesson-5): (*lon toki*) [**in**](sonja.md#lesson-8), [**something that you speak**](sonja.md#lesson-5), [**speech**](sonja.md#lesson-5) → <br>ɴᴏᴜɴ *message*, (*toki ~~pi ijo sin~~*) *news* |
 | <img src="musi/pona/tomo.png" height="50" title="domo"><br>**tomo** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **indoor space**; **building**, **home**, **house**, **room**, [**shed**](sonja.md#lesson-14); *roof* → <br>ᴠᴇʀʙ (⇒ *awen*) |
 | <img src="musi/pona/tu.png" height="50" title="tu"><br>**tu** | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**2**](sonja.md#lesson-12), **two**: (*tu en tu* ⇐ *~~po~~*) *four* <br>ɴᴏᴜɴ *pair* |
-| <img src="musi/pona/unpa.png" height="50" title="umf"><br>**unpa** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to have sexual or marital relations with**, *to have sex with* → <br>ɴᴏᴜɴ *sexual partner* |
+| <img src="musi/pona/unpa.png" height="50" title="umf"><br>**unpa** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to have sexual or marital relations with**, *to have sex with* |
 | <img src="musi/pona/uta.png" height="50" title="usta"><br>**uta** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **jaw**, **lips**, **mouth**, **oral cavity**; <br>ᴠᴇʀʙ [**to kiss**](sonja.md#lesson-18), *suck*, *taste* |
 | <img src="musi/pona/utala.png" height="50" title="udara"><br>**utala** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *aggressive*; <br>ᴠᴇʀʙ *to attack*, **battle**, **challenge**, **compete against**, [**fight**](sonja.md#lesson-9), *provoke*, **struggle against**; <br>ɴᴏᴜɴ [**battle**](sonja.md#lesson-14), [**fighting**](sonja.md#toki-pona-proverbs) |
 | <img src="musi/pona/walo.png" height="50" title="valko"><br>**walo** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **white**, (*walo ~~mu~~*) **whitish**; **light-coloured**, **pale** |
