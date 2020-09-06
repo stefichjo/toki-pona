@@ -61,8 +61,8 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/luka.png" height="50" title="ruka"><br>**luka** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ poka) <br>ɴᴏᴜɴ (⇒ poka) <br>[**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **arm**, [**fingers**](sonja.md#writings-of-baháulláh), **hand**, **tactile organ**; <br>ᴠᴇʀʙ *to touch* |
 | | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**5**](sonja.md#lesson-12), **five** <br>ɴᴏᴜɴ *quintet* |
 | <img src="musi/pona/lukin.png" height="50" title="luk-im"><br>**lukin** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ (⇐ *~~oko~~*) **eye**; <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴀᴜxɪʟɪᴀʀʏ **to seek** *to*, [**seek to**](sonja.md#lesson-13), **try to**; (*lukin jo*) [**to look for**](sonja.md#errata); (*lukin kama lon*) *to search for* <br>ᴠᴇʀʙ *to care for* |
-| <img src="musi/pona/lupa.png" height="50" title="rupa"><br>**lupa** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *concave*, *hollow* <br>ɴᴏᴜɴ **hole**: (*lupa ~~tomo~~*) **door**, (*lupa ~~suno~~*) **window**; **orifice**: (*lupa meli*) [**womb**](sonja.md#toki-pona-proverbs) |
-| <img src="musi/pona/ma.png" height="50" title="maa"><br>**ma** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *contextual*, *outside*; *firm*, *fixed* <br>ɴᴏᴜɴ **outdoors**: *context*, **world**; **earth**, **land**, **soil**; (*ma ~~jan~~*) **country**, **territory**; *area* (⇐ ale); (*~~sike~~ ma*) [**planet**](sonja.md#toki-pona-proverbs); <br>ᴠᴇʀʙ *to orient, tie* |
+| <img src="musi/pona/lupa.png" height="50" title="rupa"><br>**lupa** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *concave*, *hollow* <br>ɴᴏᴜɴ *cave*, **orifice**: (*lupa meli*) [**womb**](sonja.md#toki-pona-proverbs); (⇐ *open*) *entrance*, **hole**: (*lupa ~~tomo~~*) **door**, (*lupa ~~suno~~*) **window** |
+| <img src="musi/pona/ma.png" height="50" title="maa"><br>**ma** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *contextual*, *outside*; *firm*, *fixed*; (⇒ *weka*) <br>ɴᴏᴜɴ **outdoors**: *context*, **world**; **earth**, **land**, **soil**; (*ma ~~jan~~*) **country**, **territory**; *area* (⇐ ale); (*~~sike~~ ma*) [**planet**](sonja.md#toki-pona-proverbs); (⇒ *weka*) <br>ᴠᴇʀʙ *to orient*, *tie* |
 | <img src="musi/pona/mama.png" height="50" title="mama"><br>**mama** | [**ᴘᴇʀꜱᴏɴ**](#person) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of origin* <br>ɴᴏᴜɴ (⇐ *sijelo*: *sijelo e ijo ala* = *mama ala*) [**birth-giver**](sonja.md#the-quran), **parent**; (*mama ~~mije~~*) [**father**](sonja.md#the-gospel), (*mama ~~meli~~*) *mother*; **ancestor**, *origin*; **caretaker**, **sustainer**; **creator**, **originator** |
 | <img src="musi/pona/mani.png" height="50" title="mani"><br>**mani** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *domesticated*, *refined*; *valueable* <br>ɴᴏᴜɴ **large domesticated animal**; **cash**, **money**, **savings**, **wealth** |
 | <img src="musi/pona/meli.png" height="50" title="meri"><br>**meli** | [**ᴘᴇʀꜱᴏɴ**](#person) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**female**](sonja.md#lesson-3) <br>ɴᴏᴜɴ **female**, **feminine person**, **woman**; **wife** |
@@ -79,7 +79,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/nanpa.png" height="50" title="namba"><br>**nanpa** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *to be one's turn* <br>ɴᴏᴜɴ *one's turn*; (*~~nimi~~ nanpa*) **numbers**; <br>ᴠᴇʀʙ *to iterate*; *count*; *calculate* |
 | | [**ɴᴀᴍᴇ**](#onomatopeia) <br>ᴘᴀʀᴛɪᴄʟᴇ **(ordinal number)**, **-th** |
 | <img src="musi/pona/nasa.png" height="50" title="nasau"><br>**nasa** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **strange**, [**unconventional**](sonja.md#toki-pona-proverbs), **unusual**; (*~~pi sona~~ nasa*) **crazy**, **foolish**; (*~~pi pilin~~ nasa*) **drunk**, **intoxicated** |
-| <img src="musi/pona/nasin.png" height="50" title="naĉin"><br>**nasin** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *insa*) <br>ɴᴏᴜɴ (⇒ *insa*); *dimension*; **path**, **road**, [**street**](sonja.md#lesson-9), **way**; *direction*; **custom**, **doctrine**, **method**, [**system**](sonja.md#preface), [**way of doing things**](sonja.md#toki-pona-proverbs); <br>ᴠᴇʀʙ (⇒ *insa*) |
+| <img src="musi/pona/nasin.png" height="50" title="naĉin"><br>**nasin** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *insa*) <br>ɴᴏᴜɴ (⇒ *insa*); *dimension*; *passage*, **path**, **road**, [**street**](sonja.md#lesson-9), **way**; *direction*; **custom**, **doctrine**, **method**, [**system**](sonja.md#preface), [**way of doing things**](sonja.md#toki-pona-proverbs); <br>ᴠᴇʀʙ (⇒ *insa*) |
 | <img src="musi/pona/nena.png" height="50" title="nena"><br>**nena** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *convex*, *outstanding*, *thick* <br>ɴᴏᴜɴ (⇐ *~~kapa~~*) **bump**, **hill**, **mountain**, **protuberance**; **button**; (*nena ~~pi sinpin lawa~~*) **nose** |
 | <img src="musi/pona/ni.png" height="50" title="ni"><br>**ni** | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **that**, **this** <br>ɴᴏᴜɴ (*ni:*) [**the following**](sonja.md#lesson-17) |
 | <img src="musi/pona/nimi.png" height="50" title="nimi"><br>**nimi** | [**ᴠᴇʀʙ**](#verb) <br>ɴᴏᴜɴ **name**; **word** <br>ᴠᴇʀʙ *to call*, *define* |
@@ -87,7 +87,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/o.png" height="50" title="ho"><br>**o** | [**ᴍᴀʀᴋᴇʀ**](#mood-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* **(vocative or imperative)**, [**(call or command)**](sonja.md#lesson-10), [**(shows who is being called or addressed; command or request; wish or desire)**](sonja.md#lesson-10), **hey**, **o** |
 | <img src="musi/pona/olin.png" height="50" title="volim"><br>**olin** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ [**to be a fan of**](sonja.md#preface), **have compassion for**, **love**, **respect**, **show affection to**; <br>ɴᴏᴜɴ *love*; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**beloved**](sonja.md#lesson-18) |
 | <img src="musi/pona/ona.png" height="50" title="ona"><br>**ona** | [**ɴᴏᴜɴ**](#pronoun) <br>ɴᴏᴜɴ (⇐ *~~iki~~*) **he**/*him*, **it**, **she**/*her*, **they**/*them*; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇐ *~~iki~~*) *her*, *his*, *its*, *their* |
-| <img src="musi/pona/open.png" height="50" title="open"><br>**open** | [**ᴀʀᴇᴀ**](#area) <br>ɴᴏᴜɴ *entrance* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *accessible* <br>ᴠᴇʀʙ **to open**, [**unseal**](sonja.md#writings-of-baháulláh) <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴀᴜxɪʟɪᴀʀʏ *to be ready to* <br>ᴠᴇʀʙ *to set up*, **turn on**; (⇐ *kama*) **begin**, **start** <br>ɴᴏᴜɴ (⇐ *kama*) *start* |
+| <img src="musi/pona/open.png" height="50" title="open"><br>**open** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *open*; (⇒ *poka*); <br>ᴠᴇʀʙ **to open**, [**unseal**](sonja.md#writings-of-baháulláh) <br>ɴᴏᴜɴ (⇒ *poka*); (⇒ *lupa*) <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴀᴜxɪʟɪᴀʀʏ *to be ready to* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *ready* <br>ᴠᴇʀʙ *to set up*, **turn on**; (⇐ *kama*) **begin**, **start** <br>ɴᴏᴜɴ (⇐ *kama*) *start* |
 | <img src="musi/pona/pakala.png" height="50" title="bagar-ap"><br>**pakala** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **botched**, **broken**, **damaged**, **harmed**, **messed up** |
 | <img src="musi/pona/pali.png" height="50" title="fari"><br>**pali** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *busy*, *serious* <br>ɴᴏᴜɴ *business*, *work*; <br>ᴠᴇʀʙ **to do**, **take action on**, **work on**; (*pali e ~~kama pi~~*) **build**, **make**, **prepare**; <br>ɴᴏᴜɴ [**action**](sonja.md#toki-pona-proverbs) |
 | <img src="musi/pona/palisa.png" height="50" title="palica"><br>**palisa** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *long and hard* <br>ɴᴏᴜɴ **long hard thing**: [**antler**](sonja.md#lesson-17), *bone*, **branch**, **rod**, **stick**; *column*; (⇐ *linja*: *palisa uta*) *tongue* |
@@ -100,7 +100,14 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | | [**ᴛʜɪɴɢ**](#thing) <br>ɴᴏᴜɴ *shadow* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dark**, **unlit** |
 | <img src="musi/pona/pini.png" height="50" title="pinis"><br>**pini** | ***TODO*** [**ᴀʀᴇᴀ**](#area) <br>ɴᴏᴜɴ *end*: (*lon ~~pini~~*) *after*, *in the end* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **ago**, **completed**, **ended**, **finished**; (*~~pi tenpo~~ pini*) **past**; (*~~pi nanpa~~ pini*) *previous*, (*~~pi nanpa~~ pini*) *last*; (*pini ~~lon~~*) *disappearing* <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴀᴜxɪʟɪᴀʀʏ *to stop -ing* <br>ᴠᴇʀʙ *to cancel* |
 | <img src="musi/pona/pipi.png" height="50" title="bibit"><br>**pipi** | [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *crawling*, *creeping* <br>ɴᴏᴜɴ **ant**, **bug**, **insect**, **spider** |
-| <img src="musi/pona/poka.png" height="50" title="boka"><br>**poka** | [**ᴀʀᴇᴀ**](#area) <br>ɴᴏᴜɴ [**area beside**](sonja.md#lesson-15), **vicinity**: (*lon poka*) **next to**, (*lon ~~poka~~* ⇐ *~~kan~~*) *among*, [**with**](sonja.md#lesson-8); (*poka ~~ale~~*) *area surrounding*: (*lon poka ~~ale~~*) *around*; (⇐ *luka*) *range* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **nearby**; *surrounding*; (⇐ *luka*) *reachable* <br>[**ᴛʜɪɴɢ**](#thing) <br>ɴᴏᴜɴ **side**, (*~~mute pi~~ poka tu tu sama* ⇐ *~~leko~~*) *square*; (*poka ~~sijelo~~*) **hip** → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *lateral* |
+| <img src="musi/pona/poka.png" height="50" title="boka"><br>**poka** | [**ᴛʜɪɴɢ**](#thing)
+
+ <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *lateral*; (⇐ *open*) *accessible*, **nearby**; *surrounding*; (⇐ *luka*) *reachable*
+
+ <br>ɴᴏᴜɴ **side**, (*~~mute pi~~ poka tu tu sama* ⇐ *~~leko~~*) *square*; (*poka ~~sijelo~~*) **hip**; (⇐ *open*) [**area beside**](sonja.md#lesson-15), **vicinity**: (*lon poka*) **next to**, (*lon ~~poka~~* ⇐ *~~kan~~*) *among*, [**with**](sonja.md#lesson-8); (*poka ~~ale~~*) *area surrounding*: (*lon poka ~~ale~~*) *around*; (⇐ *luka*) *range*
+
+ |
+
 | <img src="musi/pona/poki.png" height="50" title="bokis"><br>**poki** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **bag**, **bowl**, **box**, **container**, **cup**, **cupboard**, **drawer**, **vessel**; *bladder* → <br>ᴠᴇʀʙ *to contain* |
 | <img src="musi/pona/pona.png" height="50" title="bona"><br>**pona** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**beneficial**](sonja.md#toki-pona-proverbs), [**beautiful**](sonja.md#toki-pona-proverbs), **good**, [**great**](sonja.md#toki-pona-proverbs), [**OK**](sonja.md#toki-pona-proverbs), **positive**, [**right**](sonja.md#lesson-14); **friendly**, **peaceful**; (⇐ *soweli* ⇒ *suwi*); (⇐ *ilo*) **useful**; (⇐ *lili* ⇐ *~~pasila~~*) *basic*, *elementary*, *primitive*, **simple**; <br>ᴠᴇʀʙ [**to improve**](sonja.md#lesson-6), [**tidy up**](sonja.md#lesson-18); <br>ɴᴏᴜɴ [**good**](sonja.md#lesson-10), [**peace**](sonja.md#lesson-10), [**simplicity**](sonja.md#famous-quotations), [**sophistication**](sonja.md#famous-quotations) |
 | <img src="musi/pona/pu.png" height="50" title="buk"><br>**pu** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (⇒ *sama*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *compatible*, *compliant*; **interacting with the official Toki Pona book** |
@@ -138,7 +145,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*~~wan~~*) [**certain**](sonja.md#the-gospel), *specific*; **unique** |
 | <img src="musi/pona/waso.png" height="50" title="wazo"><br>**waso** | [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flying*, *winging* <br>ɴᴏᴜɴ **bird**, **flying creature**, **winged animal** |
 | <img src="musi/pona/wawa.png" height="50" title="vahva"><br>**wawa** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **energetic**; **powerful**, [**stable**](sonja.md#lesson-15), **strong**; [**independent**](sonja.md#the-quran); (*~~sona~~ wawa*) [**dependable**](sonja.md#lesson-4), [**reliable**](sonja.md#lesson-5), **sure**; (*~~toki~~ wawa*) **confident**; (*~~kalama~~ wawa*) [**loud**](sonja.md#lesson-17), **intense**; <br>ᴠᴇʀʙ [**strengthen**](sonja.md#lesson-6); (*wawa e ~~toki~~ ni*) [**to bear witness that**](sonja.md#writings-of-baháulláh) <br>ɴᴏᴜɴ [**might**](sonja.md#writings-of-baháulláh), [**power**](sonja.md#writings-of-baháulláh); *force* |
-| <img src="musi/pona/weka.png" height="50" title="weĥ"><br>**weka** | [**ᴀʀᴇᴀ**](#area) <br>ɴᴏᴜɴ *distance*: (*lon weka*) *away from* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**; **ignored** <br>ᴠᴇʀʙ [**to eliminate**](sonja.md#famous-quotations), [**erase**](sonja.md#toki-pona-proverbs), [**omit**](sonja.md#famous-quotations), [**remove**](sonja.md#toki-pona-proverbs) <br>ɴᴏᴜɴ [**isolation**](sonja.md#toki-pona-proverbs) <br>[**ᴛʜɪɴɢ**](#thing) <br>ɴᴏᴜɴ *space*; *vacuum*, *void* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vast* |
+| <img src="musi/pona/weka.png" height="50" title="weĥ"><br>**weka** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**; **ignored**; (⇐ *ma*) *vast* <br>ɴᴏᴜɴ [**isolation**](sonja.md#toki-pona-proverbs); <br>ᴠᴇʀʙ [**to eliminate**](sonja.md#famous-quotations), [**erase**](sonja.md#toki-pona-proverbs), [**omit**](sonja.md#famous-quotations), [**remove**](sonja.md#toki-pona-proverbs) <br>ɴᴏᴜɴ *space*; *vacuum*, *void*; (⇐ *ma*) *distance*: (*lon weka*) *away from* |
 | <img src="musi/pona/wile.png" height="50" title="wile"><br>**wile** | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>***TODO*** ᴀᴜxɪʟɪᴀʀʏ **must**, **need**, **require**, **should**, **want**, **wish**; (*tan wile ijo la* = *wile*) *to be bound to*, *can't help but* <br>ᴠᴇʀʙ *to need*, *require*, *want*, *wish*; *to enforce* <br>ɴᴏᴜɴ *necessity* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inevitable*, *necessary* |
 
 ## Phrases and Sentences
@@ -373,6 +380,7 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 * *mun*, *sike*
 * *musi* — *pali*
 * *pimeja* — *suno*
+* *poka* — *weka*
 
 | ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ sike |
 |:-|
@@ -418,7 +426,6 @@ Sentences described by the correlative **ni** act like subordinate clauses.
 * *lawa*, *luka* — *noka*
 * *monsi* — *sinpin*
 * *nasin* — *nanpa*, *tenpo*
-* *poka* — *weka*
 
 | ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ insa |
 |:-|
