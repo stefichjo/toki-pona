@@ -100,14 +100,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | | [**ᴛʜɪɴɢ**](#thing) <br>ɴᴏᴜɴ *shadow* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dark**, **unlit** |
 | <img src="musi/pona/pini.png" height="50" title="pinis"><br>**pini** | ***TODO*** [**ᴀʀᴇᴀ**](#area) <br>ɴᴏᴜɴ *end*: (*lon ~~pini~~*) *after*, *in the end* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **ago**, **completed**, **ended**, **finished**; (*~~pi tenpo~~ pini*) **past**; (*~~pi nanpa~~ pini*) *previous*, (*~~pi nanpa~~ pini*) *last*; (*pini ~~lon~~*) *disappearing* <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴀᴜxɪʟɪᴀʀʏ *to stop -ing* <br>ᴠᴇʀʙ *to cancel* |
 | <img src="musi/pona/pipi.png" height="50" title="bibit"><br>**pipi** | [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *crawling*, *creeping* <br>ɴᴏᴜɴ **ant**, **bug**, **insect**, **spider** |
-| <img src="musi/pona/poka.png" height="50" title="boka"><br>**poka** | [**ᴛʜɪɴɢ**](#thing)
-
- <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *lateral*; (⇐ *open*) *accessible*, **nearby**; *surrounding*; (⇐ *luka*) *reachable*
-
- <br>ɴᴏᴜɴ **side**, (*~~mute pi~~ poka tu tu sama* ⇐ *~~leko~~*) *square*; (*poka ~~sijelo~~*) **hip**; (⇐ *open*) [**area beside**](sonja.md#lesson-15), **vicinity**: (*lon poka*) **next to**, (*lon ~~poka~~* ⇐ *~~kan~~*) *among*, [**with**](sonja.md#lesson-8); (*poka ~~ale~~*) *area surrounding*: (*lon poka ~~ale~~*) *around*; (⇐ *luka*) *range*
-
- |
-
+| <img src="musi/pona/poka.png" height="50" title="boka"><br>**poka** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *lateral*; (⇐ *open*) *accessible*, **nearby**; *surrounding*; (⇐ *luka*) *reachable* <br>ɴᴏᴜɴ **side**, (*~~mute pi~~ poka tu tu sama* ⇐ *~~leko~~*) *square*; (*poka ~~sijelo~~*) **hip**; (⇐ *open*) [**area beside**](sonja.md#lesson-15), **vicinity**: (*lon poka*) **next to**, (*lon ~~poka~~* ⇐ *~~kan~~*) *among*, [**with**](sonja.md#lesson-8); (*poka ~~ale~~*) *area surrounding*: (*lon poka ~~ale~~*) *around*; (⇐ *luka*) *range* |
 | <img src="musi/pona/poki.png" height="50" title="bokis"><br>**poki** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **bag**, **bowl**, **box**, **container**, **cup**, **cupboard**, **drawer**, **vessel**; *bladder* → <br>ᴠᴇʀʙ *to contain* |
 | <img src="musi/pona/pona.png" height="50" title="bona"><br>**pona** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**beneficial**](sonja.md#toki-pona-proverbs), [**beautiful**](sonja.md#toki-pona-proverbs), **good**, [**great**](sonja.md#toki-pona-proverbs), [**OK**](sonja.md#toki-pona-proverbs), **positive**, [**right**](sonja.md#lesson-14); **friendly**, **peaceful**; (⇐ *soweli* ⇒ *suwi*); (⇐ *ilo*) **useful**; (⇐ *lili* ⇐ *~~pasila~~*) *basic*, *elementary*, *primitive*, **simple**; <br>ᴠᴇʀʙ [**to improve**](sonja.md#lesson-6), [**tidy up**](sonja.md#lesson-18); <br>ɴᴏᴜɴ [**good**](sonja.md#lesson-10), [**peace**](sonja.md#lesson-10), [**simplicity**](sonja.md#famous-quotations), [**sophistication**](sonja.md#famous-quotations) |
 | <img src="musi/pona/pu.png" height="50" title="buk"><br>**pu** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (⇒ *sama*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *compatible*, *compliant*; **interacting with the official Toki Pona book** |
