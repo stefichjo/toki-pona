@@ -129,7 +129,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/tenpo.png" height="50" title="tempo"><br>**tenpo** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *ephemeral*, *provisional*, *transitory* <br>ɴᴏᴜɴ **moment**, **occasion**, **period**, **situation**, **time**: (*lon tenpo*) *for*; (⇐ *awen*) **duration**: (*lon tenpo*) [**during**](sonja.md#lesson-14) |
 | <img src="musi/pona/toki.png" height="50" title="tok"><br>**toki** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to communicate**, [**explain**](sonja.md#famous-quotations), **say**, **speak**, **talk**; **think**; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *using language*; ***TODO*** <br>ɴᴏᴜɴ [**communication**](sonja.md#toki-pona-proverbs), [**speech**](sonja.md#lesson-5); [**language**](sonja.md#lesson-5): (*lon toki*) [**in**](sonja.md#lesson-8), [**something that you speak**](sonja.md#lesson-5) <br>ɴᴏᴜɴ *message*, (*toki ~~pi ijo sin~~*) *news* |
 | <img src="musi/pona/tomo.png" height="50" title="domo"><br>**tomo** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ *roof*; **indoor space**: **building**, **home**, **house**, **room**, [**shed**](sonja.md#lesson-14) <br>ᴠᴇʀʙ (⇒ *awen*) |
-| <img src="musi/pona/tu.png" height="50" title="tu"><br>**tu** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**2**](sonja.md#lesson-12), **two**: (*tu en tu* ⇐ *~~po~~*) *four* <br>ɴᴏᴜɴ *pair* |
+| <img src="musi/pona/tu.png" height="50" title="tu"><br>**tu** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**2**](sonja.md#lesson-12), **two**: (*tu tu* ⇐ *~~po~~*) *four* <br>ɴᴏᴜɴ *pair* |
 | <img src="musi/pona/unpa.png" height="50" title="umf"><br>**unpa** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to have sexual or marital relations with**, *to have sex with* ***TODO*** |
 | <img src="musi/pona/uta.png" height="50" title="usta"><br>**uta** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **jaw**, **lips**, **mouth**, **oral cavity**; <br>ᴠᴇʀʙ [**to kiss**](sonja.md#lesson-18), *suck*, *taste* |
 | <img src="musi/pona/utala.png" height="50" title="udara"><br>**utala** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *aggressive*; <br>ᴠᴇʀʙ *to attack*, **battle**, **challenge**, **compete against**, [**fight**](sonja.md#lesson-9), *provoke*, **struggle against**; <br>ɴᴏᴜɴ [**battle**](sonja.md#lesson-14), [**fighting**](sonja.md#toki-pona-proverbs) |
@@ -138,7 +138,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*~~wan~~*) [**certain**](sonja.md#the-gospel), *specific*; **unique** |
 | <img src="musi/pona/waso.png" height="50" title="wazo"><br>**waso** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flying*, *winging* <br>ɴᴏᴜɴ **bird**, **flying creature**, **winged animal** |
 | <img src="musi/pona/wawa.png" height="50" title="vahva"><br>**wawa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **energetic**; **powerful**, [**stable**](sonja.md#lesson-15), **strong**; [**independent**](sonja.md#the-quran); (*~~sona~~ wawa*) [**dependable**](sonja.md#lesson-4), [**reliable**](sonja.md#lesson-5), **sure**; (*~~toki~~ wawa*) **confident**; (*~~kalama~~ wawa*) [**loud**](sonja.md#lesson-17), **intense**; <br>ᴠᴇʀʙ [**strengthen**](sonja.md#lesson-6); (*wawa e ~~toki~~ ni:*) [**to bear witness that**](sonja.md#writings-of-baháulláh) <br>ɴᴏᴜɴ [**might**](sonja.md#writings-of-baháulláh), [**power**](sonja.md#writings-of-baháulláh); *force* |
-| <img src="musi/pona/weka.png" height="50" title="weĥ"><br>**weka** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**; **ignored**; (⇐ *ma*) *vast* <br>ɴᴏᴜɴ [**isolation**](sonja.md#toki-pona-proverbs); <br>ᴠᴇʀʙ [**to eliminate**](sonja.md#famous-quotations), [**erase**](sonja.md#toki-pona-proverbs), [**omit**](sonja.md#famous-quotations), [**remove**](sonja.md#toki-pona-proverbs) <br>ɴᴏᴜɴ *space*; *vacuum*, *void*; (⇐ *ma*) *distance*: (*lon weka*) *away from* |
+| <img src="musi/pona/weka.png" height="50" title="weĥ"><br>**weka** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**, *remote*; **ignored**; (⇐ *ma*) *vast*; <br>ɴᴏᴜɴ [**isolation**](sonja.md#toki-pona-proverbs); <br>ᴠᴇʀʙ [**to eliminate**](sonja.md#famous-quotations), [**erase**](sonja.md#toki-pona-proverbs), [**omit**](sonja.md#famous-quotations), [**remove**](sonja.md#toki-pona-proverbs) <br>ɴᴏᴜɴ *space*; *vacuum*, *void*; (⇐ *ma*) *distance*: (*lon weka*) *away from* |
 | <img src="musi/pona/wile.png" height="50" title="wile"><br>**wile** | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>***TODO*** ᴀᴜxɪʟɪᴀʀʏ **must**, **need**, **require**, **should**, **want**, **wish**; (*tan wile ijo la* = *wile*) *to be bound to*, *can't help but* <br>ᴠᴇʀʙ *to need*, *require*, *want*, *wish*; *to enforce* <br>ɴᴏᴜɴ *necessity* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inevitable*, *necessary* |
 
 ## Phrases and Sentences
@@ -373,7 +373,7 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 * *mun*, *sike*
 * *musi* — *pali*
 * *pimeja* — *suno*
-* *poka* — *weka*
+* *poka* — *weka* ***TODO*** area
 
 | ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ sike |
 |:-|
