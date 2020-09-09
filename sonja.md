@@ -671,7 +671,7 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | | |
 | **seli** <br>[ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#official-toki-pona-dictionary) **fire** | **seli** <br>ɴᴏᴜɴ **fire** |
 | | |
-| **toki** <br>ᴠᴇʀʙ **to communicate**, **say**, **speak**, [**say**](#official-toki-pona-dictionary), [**talk**, **use language,**](#official-toki-pona-dictionary) **think** | **toki** <br>ᴠᴇʀʙ **to communicate**, **say**, **speak**; **think** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **talking**, **using language** | 
+| **toki** <br>ᴠᴇʀʙ **to communicate**, **say**, **speak**, [**say**, **talk**, **use language,**](#official-toki-pona-dictionary) **think** | **toki** <br>ᴠᴇʀʙ **to communicate**, **say**, **speak**; **think** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **talking**, **using language** | 
 | | |
 | **poka** <br>ɴᴏᴜɴ **hip**, **side**; **next to**, [**nearby**, **vicinity**](#official-toki-pona-dictionary) | **poka** <br>ɴᴏᴜɴ **hip**, **side**; **next to**, **vicinity** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **nearby** |
 
