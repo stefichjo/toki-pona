@@ -671,7 +671,7 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | | |
 | **linja** <br>ɴᴏᴜɴ **long** [**and**](#official-toki-pona-dictionary) **flexible thing** | **linja** <br>ɴᴏᴜɴ **long flexible thing** |
 | | |
-| **lon** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **located at**, **present at**, [**real**, **true**, **existing**](#official-toki-pona-dictionary) | **lon** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **located at**, **present at** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **real**, **true**, **existing** |
+| **lon** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **located at**, **present at**, [**real**, **true**, **existing**](#official-toki-pona-dictionary) | **lon** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **located at**, **present at** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **existing**, **real**, **true** |
 | | |
 | **lukin** <br>ᴘʀᴇ-ᴠᴇʀʙ [**to seek, look for**](#official-toki-pona-dictionary)**, try to** | **lukin** <br>ᴘʀᴇ-ᴠᴇʀʙ **to seek to, try to**; (*lukin jo*) **to look for** |
 | | |
