@@ -641,6 +641,8 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 
 ## Errata
 
+### Lessons
+
 | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|
 | ɴᴏᴜɴ *something that you* [*speak, i.e. a language*](#lesson-5) | ɴᴏᴜɴ *something that you say, i.e. a message*; <br>*the way of communication, i.e. language* |
@@ -660,7 +662,11 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | **alasa** <br>ᴠᴇʀʙ [**hunt**](#lesson-17), **forage** | **alasa** <br>ᴠᴇʀʙ **to hunt**, **forage** |
 | | |
 | **lape** <br>[ᴠᴇʀʙ **to sleep**](#lesson-18) | **lape** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sleeping** |
-| | |
+
+### Official Toki Pona Dictionary
+
+| ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
+|:-|:-|
 | **kalama** <br>[ᴠᴇʀʙ **to produce a sound**](#official-toki-pona-dictionary); **recite**, **utter aloud** | **kalama** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound** <br>ᴠᴇʀʙ **to recite**, **utter** **aloud** |
 | | |
 | **linja** <br>ɴᴏᴜɴ **long** [**and**](#official-toki-pona-dictionary) **flexible thing** | **linja** <br>ɴᴏᴜɴ **long flexible thing** |
