@@ -674,4 +674,8 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | **toki** <br>ᴠᴇʀʙ **to communicate**, **say**, **speak**, [**say**, **talk**, **use language,**](#official-toki-pona-dictionary) **think** | **toki** <br>ᴠᴇʀʙ **to communicate**, **say**, **speak**; **think** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **talking**, **using language** | 
 | | |
 | **poka** <br>ɴᴏᴜɴ **hip**, **side**; **next to**, [**nearby**, **vicinity**](#official-toki-pona-dictionary) | **poka** <br>ɴᴏᴜɴ **hip**, **side**; **next to**, **vicinity** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **nearby** |
+| | |
+| **unpa** <br>ᴠᴇʀʙ [**to have sexual or marital relations with**](#official-toki-pona-dictionary) | **unpa** <br>ᴠᴇʀʙ **to have sex with** |
+
+
 
