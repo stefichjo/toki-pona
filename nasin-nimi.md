@@ -42,7 +42,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/anpa.png" height="50" title="an-ba"><br>**anpa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *noka*): (*~~kama~~ anpa*) **downward**; (*~~kama~~ anpa*) **bowing down**; *deep* <br>ɴᴏᴜɴ (⇒ *noka*); *abyss*; *hell* <br>[**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **humble**, **lowly**; **dependent**; <br>ɴᴏᴜɴ [**powerlessness**](sonja.md#short-obligatory-prayer) <br>ɴᴏᴜɴ *...* ***TODO*** |
 | <img src="musi/pona/ante.png" height="50" title="ander"><br>**ante** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *than*, *unlike*; (⇐ *esun*) *instead of* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **altered**, **changed**, **different**; (⇐ *esun*) *else*, *exchanged*, **other**; <br>ɴᴏᴜɴ (*~~kama~~ ante*) [**change**](sonja.md#toki-pona-proverbs) |
 | <img src="musi/pona/anu.png" height="50" title="an"><br>**anu** | [**ᴘᴀʀᴛɪᴄʟᴇ: ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) <br>ᴘᴀʀᴛɪᴄʟᴇ *(alternative)*, **or** |
-| <img src="musi/pona/awen.png" height="50" title="hawen"><br>**awen** | ***TODO*** [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ɴᴏᴜɴ (⇒ *tenpo*): (*lon ~~awen~~ ni:*) *as long as, while* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**; (*~~pi tenpo~~ awen*) *present*; (*~~pi nanpa~~ awen*) *current*; (*awen ~~lon~~*) **staying**; (⇐ *open*) **waiting**; (⇐ *tomo*) **protected**, **safe** <br>ᴠᴇʀʙ (⇐ *tomo*) [**to help in peril**](sonja.md#short-obligatory-prayer), [**protect**](sonja.md#lesson-15) <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **to continue to** <br>ᴠᴇʀʙ *to continue* |
+| <img src="musi/pona/awen.png" height="50" title="hawen"><br>**awen** | ***TODO*** [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ɴᴏᴜɴ (⇒ *tenpo*): (*lon ~~awen~~ ni:*) *as long as, while* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**; (*~~pi tenpo~~ awen*) *present*; (*~~pi nanpa~~ awen*) *current*; (*awen ~~lon~~*) **staying**; (⇐ *open*) **waiting**; (⇐ *tomo*) **protected**, **safe** <br>ᴠᴇʀʙ (⇐ *tomo*) [**to help in peril**](sonja.md#short-obligatory-prayer), [**protect**](sonja.md#lesson-15) |
+| | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **to continue to** <br>ᴠᴇʀʙ *to continue* |
 | <img src="musi/pona/e.png" height="50" title="e"><br>**e** | [**ᴘᴀʀᴛɪᴄʟᴇ: ᴍᴀʀᴋᴇʀ**](#case-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ **(before the direct ᴏʙᴊᴇᴄᴛ)** |
 | <img src="musi/pona/en.png" height="50" title="en"><br>**en** | [**ᴘᴀʀᴛɪᴄʟᴇ: ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) <br>ᴘᴀʀᴛɪᴄʟᴇ **(between multiple ꜱᴜʙᴊᴇᴄᴛs)**, [**and**](sonja.md#lesson-16) |
 | <img src="musi/pona/esun.png" height="50" title="eĝum"><br>**esun** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (⇒ *ante*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *ante*) <br>ɴᴏᴜɴ (*~~kama~~ esun*) *exchange*; (*esun ~~pali~~*) **business transaction**; (*~~tomo~~ esun*) **shop**; (*~~ma~~ esun*) **bazaar**, **fair**, **market** |
@@ -58,7 +59,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/jo.png" height="50" title="jou"><br>**jo** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to have**; **carry**, **contain**, **hold**; (*kama jo e ijo tan …*) *fetch*, *pick* <br>ɴᴏᴜɴ *property* |
 | <img src="musi/pona/kala.png" height="50" title="kala"><br>**kala** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *diving*, *swimming* <br>ɴᴏᴜɴ **fish**, **marine animal**, **sea creature** |
 | <img src="musi/pona/kalama.png" height="50" title="galama"><br>**kalama** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**producing a sound**](sonja.md#errata) <br>ᴠᴇʀʙ **to recite**, **utter aloud** <br>ɴᴏᴜɴ [**noise**](sonja.md#lesson-18) |
-| <img src="musi/pona/kama.png" height="50" title="kam-ap"><br>**kama** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**emerging**](sonja.md#preface): (*~~pi tenpo~~ kama*) **future**, (*~~pi nanpa~~ kama*) *next*; <br>ᴠᴇʀʙ *to let*; (⇒ *open)* <br>ɴᴏᴜɴ (⇒ *open*) <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **to become**: (*kama ~~lon~~*) **arriving**, **being summoned**, **coming**; (*kama ~~pini~~*) **manage to**, **succeed in** <br>ᴠᴇʀʙ *to achieve* |
+| <img src="musi/pona/kama.png" height="50" title="kam-ap"><br>**kama** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**emerging**](sonja.md#preface): (*~~pi tenpo~~ kama*) **future**, (*~~pi nanpa~~ kama*) *next*; <br>ᴠᴇʀʙ *to let*; (⇒ *open)* <br>ɴᴏᴜɴ (⇒ *open*) |
+| | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **to become**: (*kama ~~lon~~*) **arriving**, **being summoned**, **coming**; (*kama ~~pini~~*) **manage to**, **succeed in** <br>ᴠᴇʀʙ *to achieve* |
 | <img src="musi/pona/kasi.png" height="50" title="kasvi"><br>**kasi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vegetating*; *growing* <br>ɴᴏᴜɴ **plant**, **vegetation**; **herb**, **leaf** |
 | <img src="musi/pona/ken.png" height="50" title="ken"><br>**ken** | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>***TODO*** ᴘʀᴇ-ᴠᴇʀʙ **to be able to**, **be allowed to**, **can**, **may** <br>ᴠᴇʀʙ *to enable* <br>ɴᴏᴜɴ *possibility* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **possible** |
 | <img src="musi/pona/kepeken.png" height="50" title="ĥebrejken"><br>**kepeken** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **by means of**, **using**, **with** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *usufructuary* |
@@ -83,7 +85,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/lon.png" height="50" title="loŋ"><br>**lon** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ [**at**](sonja.md#lesson-8), **located at**, **present at**; [**in the context of**](sonja.md#lesson-14): (*lon ni:* = , *la*) [**if**](sonja.md#lesson-14), [**when**](sonja.md#lesson-14); (⇐ *sama* ⇐ *pu*) *according to*, *along* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**existing**, **real**; **true**](sonja.md#errata); <br>ᴀᴅᴠᴇʀʙ (⇐ a) *yes* |
 | <img src="musi/pona/luka.png" height="50" title="ruka"><br>**luka** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *reachable* <br>ɴᴏᴜɴ *range* <br>[**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **arm**, [**fingers**](sonja.md#writings-of-baháulláh), **hand**, **tactile organ**; <br>ᴠᴇʀʙ *to touch* |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**5**](sonja.md#lesson-12), **five** <br>ɴᴏᴜɴ *quintet* |
-| <img src="musi/pona/lukin.png" height="50" title="luk-im"><br>**lukin** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ (⇐ *~~oko~~*) **eye**; <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ [**to seek to**](sonja.md#lesson-13), **try to**; (*lukin jo*) [**to look for**](sonja.md#errata); (*lukin kama lon* = *lukin tawa*) *to search for* <br>ᴠᴇʀʙ *to care for* |
+| <img src="musi/pona/lukin.png" height="50" title="luk-im"><br>**lukin** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ (⇐ *~~oko~~*) **eye**; <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** |
+| | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ [**to seek to**](sonja.md#lesson-13), **try to**; (*lukin jo*) [**to look for**](sonja.md#errata); (*lukin kama lon* = *lukin tawa*) *to search for* <br>ᴠᴇʀʙ *to care for* |
 | <img src="musi/pona/lupa.png" height="50" title="rupa"><br>**lupa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *concave*, *empty*, *hollow* <br>ɴᴏᴜɴ *cave*, **orifice**: (*lupa meli*) [**womb**](sonja.md#toki-pona-proverbs); (⇐ *open*) *entrance*, **hole**: (*lupa ~~tomo~~*) **door**, (*lupa ~~suno~~*) **window** |
 | <img src="musi/pona/ma.png" height="50" title="maa"><br>**ma** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *contextual*, *outside*; *firm*, *fixed* <br>ɴᴏᴜɴ **outdoors**: *context*, **world**; **earth**, **land**, **soil**; (*ma ~~jan~~*) **country**, **territory**; *area* (⇐ ale); (*~~sike~~ ma*) [**planet**](sonja.md#toki-pona-proverbs) <br>ᴠᴇʀʙ *to orient*, *tie* |
 | <img src="musi/pona/mama.png" height="50" title="mama"><br>**mama** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴘᴇʀꜱᴏɴ**](#person) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*mama* ⇐ *sijelo e ijo*) [**birth-giving**](sonja.md#the-quran); (*jo e mama* ⇐ *sijelo*) [**being born**](sonja.md#the-quran); *of origin* <br>ɴᴏᴜɴ **parent**; (*mama ~~mije~~*) [**father**](sonja.md#the-gospel), (*mama ~~meli~~*) *mother*; **ancestor**; **caretaker**, **sustainer**; **creator**, **originator**; (⇐ *~~tan~~*) *origin* |
@@ -110,7 +113,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/o.png" height="50" title="ho"><br>**o** | [**ᴘᴀʀᴛɪᴄʟᴇ: ᴍᴀʀᴋᴇʀ**](#mood-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* **(vocative or imperative)**, [**(call or command)**](sonja.md#lesson-10), [**(shows who is being called or addressed; command or request; wish or desire)**](sonja.md#lesson-10), **hey**, **o** |
 | <img src="musi/pona/olin.png" height="50" title="volim"><br>**olin** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ [**to be a fan of**](sonja.md#preface), **have compassion for**, **love**, **respect**, **show affection to**; <br>ɴᴏᴜɴ *love*; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**beloved**](sonja.md#lesson-18) |
 | <img src="musi/pona/ona.png" height="50" title="ona"><br>**ona** | [**ɴᴏᴜɴ**](#pronoun) <br>ɴᴏᴜɴ (⇐ *~~iki~~*) **he**/*him*, **it**, **she**/*her*, **they**/*them*; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇐ *~~iki~~*) *her*, *his*, *its*, *their* |
-| <img src="musi/pona/open.png" height="50" title="open"><br>**open** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *accessible*, *open*; (⇒ *awen*); <br>ᴠᴇʀʙ **to open**, [**unseal**](sonja.md#writings-of-baháulláh) <br>ɴᴏᴜɴ (⇒ *lupa*) <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ *to be ready to* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *ready* <br>ᴠᴇʀʙ *to set up*, **turn on**; (⇐ *kama*) **begin**, **start** <br>ɴᴏᴜɴ (⇐ *kama*) *beginning*, *start*: (*lon ~~open pi~~*) *before*, (*tan ~~open pi~~*) *for*, *since ... ago*, (*tawa ~~open pi~~*) *until* |
+| <img src="musi/pona/open.png" height="50" title="open"><br>**open** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *accessible*, *open*; (⇒ *awen*); <br>ᴠᴇʀʙ **to open**, [**unseal**](sonja.md#writings-of-baháulláh) <br>ɴᴏᴜɴ (⇒ *lupa*) |
+| | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ *to be ready to* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *ready* <br>ᴠᴇʀʙ *to set up*, **turn on**; (⇐ *kama*) **begin**, **start** <br>ɴᴏᴜɴ (⇐ *kama*) *beginning*, *start*: (*lon ~~open pi~~*) *before*, (*tan ~~open pi~~*) *for*, *since ... ago*, (*tawa ~~open pi~~*) *until* |
 | <img src="musi/pona/pakala.png" height="50" title="bagar-ap"><br>**pakala** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **botched**, **broken**, **damaged**, **harmed**, **messed up** |
 | <img src="musi/pona/pali.png" height="50" title="fari"><br>**pali** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *busy*, *serious* <br>ɴᴏᴜɴ *business*, *work*; <br>ᴠᴇʀʙ **to do**, **take action on**, **work on**; (*pali e ~~kama pi~~*) **build**, **make**, **prepare**; <br>ɴᴏᴜɴ [**action**](sonja.md#toki-pona-proverbs) |
 | <img src="musi/pona/palisa.png" height="50" title="palica"><br>**palisa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *long and hard* <br>ɴᴏᴜɴ **long hard thing**: [**antler**](sonja.md#lesson-17), *bone*, **branch**, **rod**, **stick**; *column*; (*palisa uta* ⇐ *linja uta*) *tongue* |
@@ -118,10 +122,12 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/pan.png" height="50" title="fan"><br>**pan** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fallen*, *dropped*; *sown* <br>ɴᴏᴜɴ *seed*; **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** |
 | <img src="musi/pona/pana.png" height="50" title="pana"><br>**pana** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to emit**, **give**, [**grant**](sonja.md#toki-pona-proverbs), **provide**, (*pana e ijo lon …*) **put**, **release**, (*pana e ijo tawa …*) **send**, [**send out**](sonja.md#toki-pona-proverbs), [**serve**](sonja.md#lesson-14) <br>ɴᴏᴜɴ *gift* |
 | <img src="musi/pona/pi.png" height="50" title="biloŋ"><br>**pi** | [**ᴘᴀʀᴛɪᴄʟᴇ: ᴍᴀʀᴋᴇʀ**](#case-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ [**(divides a second ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that describes a first ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ)**](sonja.md#lesson-11), **of** |
-| <img src="musi/pona/pilin.png" height="50" title="pil-im"><br>**pilin** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **heart (physical or emotional)**; <br>ᴠᴇʀʙ *to sense*; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (a direct experience)** <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ *to feel like*: (*pilin ~~wile~~ utala*) *to be angry* <br>ᴠᴇʀʙ *to have the impression that*, [**think**](sonja.md#writings-of-baháulláh); <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (an emotion)** |
+| <img src="musi/pona/pilin.png" height="50" title="pil-im"><br>**pilin** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **heart (physical or emotional)**; <br>ᴠᴇʀʙ *to sense*; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (a direct experience)** |
+| | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ *to feel like*: (*pilin ~~wile~~ utala*) *to be angry* <br>ᴠᴇʀʙ *to have the impression that*, [**think**](sonja.md#writings-of-baháulláh); <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (an emotion)** |
 | <img src="musi/pona/pimeja.png" height="50" title="pimea"><br>**pimeja** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **black**, (*pimeja ~~mu~~*) *blackish*; (⇐ *~~kapesi~~*) *grey* |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ɴᴏᴜɴ *shadow* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dark**, **unlit** |
-| <img src="musi/pona/pini.png" height="50" title="pinis"><br>**pini** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **ago**, **completed**, **ended**, **finished**: (*~~pi tenpo~~ pini*) **past**; (*~~pi nanpa~~ pini*) *last*, *previous* <br>ɴᴏᴜɴ *end*: (*lon ~~pini pi~~*) *after*, *in the end*, (*tan ~~pini pi~~*) *since* <br>[**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ *to stop -ing* <br>ᴠᴇʀʙ *to cancel* |
+| <img src="musi/pona/pini.png" height="50" title="pinis"><br>**pini** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **ago**, **completed**, **ended**, **finished**: (*~~pi tenpo~~ pini*) **past**; (*~~pi nanpa~~ pini*) *last*, *previous* <br>ɴᴏᴜɴ *end*: (*lon ~~pini pi~~*) *after*, *in the end*, (*tan ~~pini pi~~*) *since* |
+| | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ *to stop -ing* <br>ᴠᴇʀʙ *to cancel* |
 | <img src="musi/pona/pipi.png" height="50" title="bibit"><br>**pipi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *crawling*, *creeping* <br>ɴᴏᴜɴ **ant**, **bug**, **insect**, **spider** |
 | <img src="musi/pona/poka.png" height="50" title="boka"><br>**poka** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**nearby**](sonja.md#errata); (*poka ~~sike~~*) *surrounding* <br>ɴᴏᴜɴ [**area beside**](sonja.md#lesson-15), **vicinity**: (*lon poka*) **next to**, (*lon ~~poka~~* ⇐ *~~kan~~*) *among*, [**with**](sonja.md#lesson-8); (*poka ~~sike~~*) *area surrounding*: (*lon poka ~~sike~~*) *around* <br>[**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *lateral* <br>ɴᴏᴜɴ **side**, (*~~mute pi~~ poka tu tu sama* ⇐ *~~leko~~*) *square*; (*poka ~~sijelo~~*) **hip** |
 | <img src="musi/pona/poki.png" height="50" title="bokis"><br>**poki** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **bag**, **bowl**, **box**, **container**, **cup**, **cupboard**, **drawer**, **vessel**; *bladder*; <br>ᴠᴇʀʙ *to contain* |
@@ -245,7 +251,10 @@ You can convert any ᴠᴇʀʙ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *who .
 #### PRE-VERB
 *([nimi suli luka](#verb) poka)*
 
-* *ken*, *sona*, *wile*
+* *awen*, *kama* — *open*, *pini* + [ᴀʀᴇᴀ](#area)
+* *ken*, *wile*
+* *lukin*, *pilin* + [ᴏʀɢᴀɴ](#organ)
+* *sona*
 
 When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ share the same ꜱᴜʙᴊᴇᴄᴛ, their two ᴍᴀɪɴ ᴠᴇʀʙs can merge, provided the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's ᴍᴀɪɴ ᴠᴇʀʙ is a **ᴘʀᴇ-ᴠᴇʀʙ**. A ᴍᴀɪɴ ᴠᴇʀʙ shouldn't have more than one ᴘʀᴇ-ᴠᴇʀʙ.
 
@@ -334,9 +343,9 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 
 * *insa*, *len*, *poki*, *tomo*
 * *kute*, *palisa*, *selo*, *sijelo*, *uta*
-* *lukin*, *pilin*
+* *lukin*, *pilin* + [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb)
 
-| ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ lukin |
+| ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ lukin |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *light-sensitive* <br>ɴᴏᴜɴ *light-sensitive organ* = *eye* <br>ᴠᴇʀʙ *to use eyes on* = *to see* |
 
@@ -404,7 +413,7 @@ Sentences described by the correlative **ni** act like subordinate clauses.
 *([nimi suli poka](#noun-adjective) pi ijo ale)*
 
 * *anpa* — *sewi*, *supa*
-* *awen*, *kama* — *open*, *pini*
+* *awen*, *kama* — *open*, *pini* + [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb)
 * *insa* — *ma*
 * *lawa*, *luka* — *noka*
 * *monsi* — *sinpin*
