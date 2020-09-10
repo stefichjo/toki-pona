@@ -272,7 +272,7 @@ You can convert any ɴᴏᴜɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *of ..
 | ɴᴏᴜɴ *you* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of you* = *your* |
 
 ### NOUN ADJECTIVE
-*([nimi suli](#content-word) poka pi nimi suli lawa)*
+*([nimi suli](#content-word) poka pi [nimi suli lawa](#noun))*
 
 | |
 |:-|
