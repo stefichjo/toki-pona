@@ -171,8 +171,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | |
 |:-|
 | [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective) |
-| [ᴠᴇʀʙ](#verb): [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) |
-| [ɴᴏᴜɴ](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun) |
+| [ᴠᴇʀʙ](#verb): [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
+| [ɴᴏᴜɴ](#noun): [ᴘʀᴏɴᴏᴜɴ](#pronoun) |
 | [ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#noun-adjective) |
 | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
 
@@ -417,8 +417,8 @@ When a **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** is used both as ᴀᴅᴊᴇᴄᴛɪᴠ
 | |
 |:-|
 | [ᴍᴀʀᴋᴇʀ](#marker): [ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ](#mood), [ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ](#case) |
-| [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then) |
-| [ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ](#onomatopeia): **ɴᴀᴍᴇ**, **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ** |
+| [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction): [ᴀɴᴅ](#and), [ᴏʀ](#or), [ɪꜰ-ᴛʜᴇɴ](#if-then) |
+| [ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ](#onomatopeia): ɴᴀᴍᴇ, ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ |
 
 **ᴘᴀʀᴛɪᴄʟᴇ**s can only be used as **ᴘᴀʀᴛɪᴄʟᴇ**s. (Only [ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ](#onomatopeia)s can be both **ᴘᴀʀᴛɪᴄʟᴇ**s and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s.)
 
@@ -525,9 +525,9 @@ When there is enough context, the ᴏʙᴊᴇᴄᴛ of a [ᴠᴇʀʙ](#verb) can
 
 | |
 |:-|
-| [**ᴀɴᴅ**](#and) |
-| [**ᴏʀ**](#or) |
-| [**ɪꜰ-ᴛʜᴇɴ**](#if-then) |
+| [ᴀɴᴅ](#and) |
+| [ᴏʀ](#or) |
+| [ɪꜰ-ᴛʜᴇɴ](#if-then) |
 
 #### AND
 *([nimi lili insa](#conjunction) "en")*
