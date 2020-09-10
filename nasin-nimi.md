@@ -25,7 +25,7 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ᴍᴀʀᴋᴇʀ**](#marker): [**ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ**](#mood-marker), [**ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#case-marker)
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
-  * [**ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onompatopeia): **ɴᴀᴍᴇ**, **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**
+  * [**ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onomatopeia): **ɴᴀᴍᴇ**, **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**
 
 ## Dictionary
 *(nimi ale)*
@@ -623,7 +623,7 @@ In combination with a noun phrase, prepositions form phrases that act like adjec
 
 Conjunctions combine two phrases into one. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a woman or a man* consists of the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a woman*, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ *or*, and the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a man* and acts like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *an adult*.
 
-#### Onompatopeia
+#### Onomatopeia
 
 Onomatopeia can be added to a noun phrase. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the name "Sonja"* has the ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ *"Sonja"* added to the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the name*, indicating that *the name* in question has the sound *"Sonja"*. Onomatopeia can act like nouns. For example, the ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ *"Sonja"* can act like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the name "Sonja"*, and the ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ *"moo"* can act like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the sound "moo"*.
 
