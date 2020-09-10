@@ -166,7 +166,7 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/wile.png" height="50" title="wile"><br>**wile** | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>***TODO*** ᴘʀᴇ-ᴠᴇʀʙ **must**, **need**, **require**, **should**, **want**, **wish**; (*tan wile ijo la* = *wile*) *to be bound to*, *can't help but* <br>ᴠᴇʀʙ *to need*, *require*, *want*, *wish*; *to enforce* <br>ɴᴏᴜɴ *necessity* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inevitable*, *necessary* |
 
 ## CONTENT WORD
-*([nimi](#word-classes) suli)*
+*([nimi](#parts-of-speech-and-word-classes) suli)*
 
 | |
 |:-|
@@ -412,7 +412,7 @@ When a **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** is used both as ᴀᴅᴊᴇᴄᴛɪᴠ
 | *I am going towards you.* |
 
 ## PARTICLE
-*([nimi](#word-classes) lili)*
+*([nimi](#parts-of-speech-and-word-classes) lili)*
 
 | |
 |:-|
