@@ -18,7 +18,7 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
   * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective): [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
   * [**ᴠᴇʀʙ**](#verb): [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
   * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun)
-  * [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#noun-adjective)
+  * [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#noun-adjective):
     * [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴏʀɢᴀɴ**](#organ), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form)
     * [**ᴛʜɪɴɢ**](#thing), [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ɴᴜᴍʙᴇʀ**](#number), [**ᴀʀᴇᴀ**](#area)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
