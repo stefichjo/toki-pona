@@ -681,7 +681,7 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 | | |
 | **poka** <br>ɴᴏᴜɴ **hip**, **side**; **next to**, [**nearby**](#official-toki-pona-dictionary), **vicinity** | **poka** <br>ɴᴏᴜɴ **hip**, **side**; **next to**, **vicinity** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **nearby** |
 | | |
-| **unpa** <br>ᴠᴇʀʙ [**to have sexual or marital relations with**](#official-toki-pona-dictionary) | **unpa** <br>ᴠᴇʀʙ **to have sex with** |
+| **unpa** <br>ᴠᴇʀʙ **to have** [**sexual or marital relations**](#official-toki-pona-dictionary) **with** | **unpa** <br>ᴠᴇʀʙ **to have sex with** |
 
 
 

@@ -3,6 +3,30 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
+## Parts of Speech and Word Classes
+
+| |
+|:-|
+| [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) |
+| [ᴘᴀʀᴛɪᴄʟᴇ](#particle) |
+
+There are two word classes: [content words](#content-word) (i.e. these parts of speech: nouns, adjectives, verbs, auxiliaries and prepositions) and [particles](#particle) (i.e. these parts of speech: markers, conjunctions and onomatopeia). As a rule of thumb, you can change the part of speech of any content word, but you can't change the part of speech of a particle.
+
+But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verbs") and prepositions can be converted into nouns, adjectives and verbs, but not the other way around. Also, an onomatopeia can be converted into a content word meaning *the name ...* or *the sound ...*, and a content word can be used as an onomatopeia, e.g. **nanpa**.
+
+* [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
+  * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective)
+  * [**ᴠᴇʀʙ**](#verb): [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
+  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun)
+  * [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#noun-adjective)
+    * [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴏʀɢᴀɴ**](#organ), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form)
+    * [**ᴛʜɪɴɢ**](#thing), [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ɴᴜᴍʙᴇʀ**](#number), [**ᴀʀᴇᴀ**](#area)
+  * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
+* [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
+  * [**ᴍᴀʀᴋᴇʀ**](#marker): [**ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ**](#mood-marker), [**ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#case-marker)
+  * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
+  * [**ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onompatopeia): **ɴᴀᴍᴇ**, **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**
+
 ## Dictionary
 *(nimi ale)*
 
@@ -140,66 +164,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/wawa.png" height="50" title="vahva"><br>**wawa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **energetic**; **powerful**, [**stable**](sonja.md#lesson-15), **strong**; [**independent**](sonja.md#the-quran); (*~~sona~~ wawa*) [**dependable**](sonja.md#lesson-4), [**reliable**](sonja.md#lesson-5), **sure**; (*~~toki~~ wawa*) **confident**; (*~~kalama~~ wawa*) [**loud**](sonja.md#lesson-17), **intense**; <br>ᴠᴇʀʙ [**strengthen**](sonja.md#lesson-6); (*wawa e ~~toki~~ ni:*) [**to bear witness that**](sonja.md#writings-of-baháulláh) <br>ɴᴏᴜɴ [**might**](sonja.md#writings-of-baháulláh), [**power**](sonja.md#writings-of-baháulláh); *force* |
 | <img src="musi/pona/weka.png" height="50" title="weĥ"><br>**weka** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**, *remote*; **ignored**, *isolated*; <br>ɴᴏᴜɴ [**isolation**](sonja.md#toki-pona-proverbs); <br>ᴠᴇʀʙ [**to eliminate**](sonja.md#famous-quotations), [**erase**](sonja.md#toki-pona-proverbs), [**omit**](sonja.md#famous-quotations), [**remove**](sonja.md#toki-pona-proverbs) <br>ɴᴏᴜɴ *distance*: (*lon weka pi*) *away from* <br>[**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vast* <br>ɴᴏᴜɴ *space*; *vacuum*, *void* |
 | <img src="musi/pona/wile.png" height="50" title="wile"><br>**wile** | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>***TODO*** ᴘʀᴇ-ᴠᴇʀʙ **must**, **need**, **require**, **should**, **want**, **wish**; (*tan wile ijo la* = *wile*) *to be bound to*, *can't help but* <br>ᴠᴇʀʙ *to need*, *require*, *want*, *wish*; *to enforce* <br>ɴᴏᴜɴ *necessity* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inevitable*, *necessary* |
-
-## Phrases and Sentences
-
-### Phrases
-
-Nouns, adjectives and prepositions are the building blocks of phrases. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* consists of the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *friendly* + the ɴᴏᴜɴ *person*. Noun phrases act like nouns. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* can be replaced with the ɴᴏᴜɴ *friend*.
-
-Adjective phrases act like adjectives. For example, the ᴀᴅᴊᴇᴄᴛɪᴠᴇ ᴘʜʀᴀꜱᴇ *very friendly* consisting of the ᴀᴅᴠᴇʀʙ *very* and the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *friendly* can be replaced with the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *affectionate*.
-
-In combination with a noun phrase, prepositions form phrases that act like adjectives or adverbs. For example, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ *on the inside* consists of the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *on* and its argument, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the inside*, and can be replaced with the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner*. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the light on the inside* acts like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the inner light*.
-
-#### Conjunctions
-
-Conjunctions combine two phrases into one. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a woman or a man* consists of the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a woman*, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ *or*, and the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a man* and acts like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *an adult*.
-
-#### Onompatopeia
-
-Onomatopeia can be added to a noun phrase. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the name "Sonja"* has the ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ *"Sonja"* added to the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the name*, indicating that *the name* in question has the sound *"Sonja"*. Onomatopeia can act like nouns. For example, the ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ *"Sonja"* can act like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the name "Sonja"*, and the ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ *"moo"* can act like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the sound "moo"*.
-
-### Sentences
-
-Phrases are the building blocks of sentences (with a little help from markers). Typically, sentences have a subject and a predicate. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend is coming* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ + the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *coming* (with a little help from the ᴍᴀʀᴋᴇʀ *is*) as the ᴘʀᴇᴅɪᴄᴀᴛᴇ. Adjectives with predicate markers act like verbs. For example, the ᴘʀᴇᴅɪᴄᴀᴛᴇ *is coming* can be replaced with the ᴠᴇʀʙ *comes*, so the ꜱᴇɴᴛᴇɴᴄᴇ *a friend is coming* acts like the ꜱᴇɴᴛᴇɴᴄᴇ *a friend comes*.
-
-#### Objects
-
-Verbs can have noun phrases as their argument, i.e. the sentence's object. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend bought a bicycle* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ, the ᴠᴇʀʙ *bought* as the ᴘʀᴇᴅɪᴄᴀᴛᴇ, and the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a bicycle* as the ᴏʙᴊᴇᴄᴛ.
-
-Verbs with an object, like the ᴠᴇʀʙ *bought*, are called "transitive" — in contrast to "intransitive" verbs without object, like the ᴠᴇʀʙ *comes*.
-
-Verbs can have prepositional phrases as their secondary argument, i.e. the sentence's indirect object. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend bought a bicycle for her son* has the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ *for her son* with the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *her son* as the ɪɴᴅɪʀᴇᴄᴛ ᴏʙᴊᴇᴄᴛ.
-
-(In contrast to a sentence's indirect object, a verb's primary argument is also called "direct" object. The indirect object can be used without preposition before the direct object, so the ꜱᴇɴᴛᴇɴᴄᴇ *she bought a bicycle for her son* acts like the ꜱᴇɴᴛᴇɴᴄᴇ *she bought her son a bicycle*.)
-
-#### Auxiliaries
-
-Auxiliary verbs combine with a verb. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend can come* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ, and the ᴠᴇʀʙ ᴘʜʀᴀꜱᴇ *can come* as the ᴘʀᴇᴅɪᴄᴀᴛᴇ, consisting of the ᴀᴜxɪʟɪᴀʀʏ *can* and the ᴍᴀɪɴ ᴠᴇʀʙ *come*.
-
-## Parts of Speech and Word Classes
-
-| |
-|:-|
-| [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) |
-| [ᴘᴀʀᴛɪᴄʟᴇ](#particle) |
-
-There are two word classes: [content words](#content-word) (i.e. these parts of speech: nouns, adjectives, verbs, auxiliaries and prepositions) and [particles](#particle) (i.e. these parts of speech: markers, conjunctions and onomatopeia). As a rule of thumb, you can change the part of speech of any content word, but you can't change the part of speech of a particle.
-
-But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verbs") and prepositions can be converted into nouns, adjectives and verbs, but not the other way around. Also, an onomatopeia can be converted into a content word meaning *the name ...* or *the sound ...*, and a content word can be used as an onomatopeia, e.g. **nanpa**.
-
-* [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
-  * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective)
-  * [**ᴠᴇʀʙ**](#verb): [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
-  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun)
-  * [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#noun-adjective)
-    * [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴏʀɢᴀɴ**](#organ), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form)
-    * [**ᴛʜɪɴɢ**](#thing), [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ɴᴜᴍʙᴇʀ**](#number), [**ᴀʀᴇᴀ**](#area)
-  * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
-* [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
-  * [**ᴍᴀʀᴋᴇʀ**](#marker): [**ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ**](#mood-marker), [**ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#case-marker)
-  * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
-  * [**ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onompatopeia): **ɴᴀᴍᴇ**, **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**
 
 ## CONTENT WORD
 *([nimi](#word-classes) suli)*
@@ -644,5 +608,41 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 | o kepeken ala ilo ike. |
 |:-|
 | *Don't use bad tools.* |
+
+## Appendix: Phrases and Sentences
+
+### Phrases
+
+Nouns, adjectives and prepositions are the building blocks of phrases. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* consists of the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *friendly* + the ɴᴏᴜɴ *person*. Noun phrases act like nouns. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* can be replaced with the ɴᴏᴜɴ *friend*.
+
+Adjective phrases act like adjectives. For example, the ᴀᴅᴊᴇᴄᴛɪᴠᴇ ᴘʜʀᴀꜱᴇ *very friendly* consisting of the ᴀᴅᴠᴇʀʙ *very* and the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *friendly* can be replaced with the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *affectionate*.
+
+In combination with a noun phrase, prepositions form phrases that act like adjectives or adverbs. For example, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ *on the inside* consists of the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *on* and its argument, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the inside*, and can be replaced with the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner*. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the light on the inside* acts like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the inner light*.
+
+#### Conjunctions
+
+Conjunctions combine two phrases into one. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a woman or a man* consists of the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a woman*, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ *or*, and the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a man* and acts like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *an adult*.
+
+#### Onompatopeia
+
+Onomatopeia can be added to a noun phrase. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the name "Sonja"* has the ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ *"Sonja"* added to the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the name*, indicating that *the name* in question has the sound *"Sonja"*. Onomatopeia can act like nouns. For example, the ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ *"Sonja"* can act like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the name "Sonja"*, and the ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ *"moo"* can act like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the sound "moo"*.
+
+### Sentences
+
+Phrases are the building blocks of sentences (with a little help from markers). Typically, sentences have a subject and a predicate. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend is coming* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ + the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *coming* (with a little help from the ᴍᴀʀᴋᴇʀ *is*) as the ᴘʀᴇᴅɪᴄᴀᴛᴇ. Adjectives with predicate markers act like verbs. For example, the ᴘʀᴇᴅɪᴄᴀᴛᴇ *is coming* can be replaced with the ᴠᴇʀʙ *comes*, so the ꜱᴇɴᴛᴇɴᴄᴇ *a friend is coming* acts like the ꜱᴇɴᴛᴇɴᴄᴇ *a friend comes*.
+
+#### Objects
+
+Verbs can have noun phrases as their argument, i.e. the sentence's object. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend bought a bicycle* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ, the ᴠᴇʀʙ *bought* as the ᴘʀᴇᴅɪᴄᴀᴛᴇ, and the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a bicycle* as the ᴏʙᴊᴇᴄᴛ.
+
+Verbs with an object, like the ᴠᴇʀʙ *bought*, are called "transitive" — in contrast to "intransitive" verbs without object, like the ᴠᴇʀʙ *comes*.
+
+Verbs can have prepositional phrases as their secondary argument, i.e. the sentence's indirect object. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend bought a bicycle for her son* has the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ *for her son* with the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *her son* as the ɪɴᴅɪʀᴇᴄᴛ ᴏʙᴊᴇᴄᴛ.
+
+(In contrast to a sentence's indirect object, a verb's primary argument is also called "direct" object. The indirect object can be used without preposition before the direct object, so the ꜱᴇɴᴛᴇɴᴄᴇ *she bought a bicycle for her son* acts like the ꜱᴇɴᴛᴇɴᴄᴇ *she bought her son a bicycle*.)
+
+#### Auxiliaries
+
+Auxiliary verbs (or "pre-verbs") combine with a verb. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend can come* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ, and the ᴠᴇʀʙ ᴘʜʀᴀꜱᴇ *can come* as the ᴘʀᴇᴅɪᴄᴀᴛᴇ, consisting of the ᴀᴜxɪʟɪᴀʀʏ *can* and the ᴍᴀɪɴ ᴠᴇʀʙ *come*.
 
 
