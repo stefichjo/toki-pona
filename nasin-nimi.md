@@ -171,8 +171,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | |
 |:-|
 | [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective) |
-| [ᴠᴇʀʙ](#verb) |
-| [ɴᴏᴜɴ](#noun) |
+| [ᴠᴇʀʙ](#verb): [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) |
+| [ɴᴏᴜɴ](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun) |
 | [ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#noun-adjective) |
 | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
 
@@ -416,9 +416,9 @@ When a **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** is used both as ᴀᴅᴊᴇᴄᴛɪᴠ
 
 | |
 |:-|
-| [ᴍᴀʀᴋᴇʀ](#marker) |
-| [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction) |
-| [ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ](#onomatopeia) |
+| [ᴍᴀʀᴋᴇʀ](#marker): [ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ](#mood), [ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ](#case) |
+| [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then) |
+| [ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ](#onomatopeia): **ɴᴀᴍᴇ**, **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ** |
 
 **ᴘᴀʀᴛɪᴄʟᴇ**s can only be used as **ᴘᴀʀᴛɪᴄʟᴇ**s. (Only [ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ](#onomatopeia)s can be both **ᴘᴀʀᴛɪᴄʟᴇ**s and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s.)
 
@@ -591,7 +591,7 @@ Before **la**, the [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) **ni:** in fron
 |:-|:-|
 | *Her name goes "Sonja".* → *Her name is Sonja.* | *She heard a loud bleat.* |
 
-[ɴᴜᴍʙᴇʀ](#number)s can be used as **ɴᴀᴍᴇ**s after **nanpa**. (Plus, the [ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#thing) **nanpa** itself can be used as a **ɴᴀᴍᴇ**.)
+[ɴᴜᴍʙᴇʀ](#number)s can be used as **ɴᴀᴍᴇ**s after **nanpa**. (Plus, the [ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#noun-adjective) **nanpa** itself can be used as a **ɴᴀᴍᴇ**.)
 
 | sina nanpa wan. | toki nanpa wan |
 |:-|:-|
@@ -603,7 +603,7 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 |:-|
 | *Wow!* |
 
-**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**s can be modified by [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#onomatopeia).
+**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**s can be modified by [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#onomatopeia)s.
 
 | o kepeken ala ilo ike. |
 |:-|
