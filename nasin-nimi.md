@@ -15,13 +15,12 @@ There are two word classes: [content words](#content-word) (i.e. these parts of 
 But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verbs") and prepositions can be converted into nouns, adjectives and verbs, but not the other way around. Also, an onomatopeia can be converted into a content word meaning *the name ...* or *the sound ...*, and a content word can be used as an onomatopeia, e.g. **nanpa**.
 
 * [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
-  * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective)
+  * [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective): [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
   * [**ᴠᴇʀʙ**](#verb): [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
   * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun)
   * [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#noun-adjective)
     * [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴏʀɢᴀɴ**](#organ), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form)
     * [**ᴛʜɪɴɢ**](#thing), [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ɴᴜᴍʙᴇʀ**](#number), [**ᴀʀᴇᴀ**](#area)
-  * [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ᴍᴀʀᴋᴇʀ**](#marker): [**ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ**](#mood-marker), [**ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#case-marker)
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
@@ -170,11 +169,10 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 
 | |
 |:-|
-| [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective) |
+| [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective): [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
 | [ᴠᴇʀʙ](#verb): [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
 | [ɴᴏᴜɴ](#noun): [ᴘʀᴏɴᴏᴜɴ](#pronoun) |
 | [ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#noun-adjective) |
-| [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
 
 ### ADJECTIVE
 *([nimi suli](#content-word) poka)*
@@ -185,9 +183,40 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 * *walo* — *kule*, *pimeja*
 * *lape*, *moli*
 
+| |
+|:-|
+| [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
+
+...
+
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ pona |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *peaceful* |
+
+#### PREPOSITION
+*([nimi suli poka](#adjective) palisa)*
+
+* *ante* ⇐ *esun* — *sama* ⇐ *pu*
+* *lon* ⇐ *kepeken* — *tan*, *tawa*
+* *sin* — *taso*
+
+You can convert any ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *being ...* omitting its argument.
+
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
+|:-|
+| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *towards* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *being towards* = *going* |
+
+A prepositional phrase can only be used at the end of a sentence.
+
+| mi pana e kala tawa ona. |
+|:-|
+| *I give fish to her.* |
+
+When a **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** is used both as ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is omitted.
+
+| mi tawa ~~tawa~~ sina. |
+|:-|
+| *I am going towards you.* |
 
 ### VERB
 *([nimi suli](#content-word) luka)*
@@ -385,31 +414,6 @@ Sentences described by the correlative **ni** act like subordinate clauses.
 | ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ insa |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner* <br>ɴᴏᴜɴ *inner area* = *innards* |
-
-### PREPOSITION
-*([nimi suli poka](#adjective) palisa)*
-
-* *ante* ⇐ *esun* — *sama* ⇐ *pu*
-* *lon* ⇐ *kepeken* — *tan*, *tawa*
-* *sin* — *taso*
-
-You can convert any ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *being ...* omitting its argument.
-
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
-|:-|
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *towards* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *being towards* = *going* |
-
-A prepositional phrase can only be used at the end of a sentence.
-
-| mi pana e kala tawa ona. |
-|:-|
-| *I give fish to her.* |
-
-When a **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** is used both as ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is omitted.
-
-| mi tawa ~~tawa~~ sina. |
-|:-|
-| *I am going towards you.* |
 
 ## PARTICLE
 *([nimi](#parts-of-speech-and-word-classes) lili)*
