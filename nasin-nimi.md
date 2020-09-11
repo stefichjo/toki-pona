@@ -264,7 +264,7 @@ When the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ describes the modality of the ꜱᴜʙᴏ�
 
 When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ share the same ꜱᴜʙᴊᴇᴄᴛ, the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's ᴠᴇʀʙ can become the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ's ᴘʀᴇ-ᴠᴇʀʙ.
 
-| ᴘʀᴇ-ᴠᴇʀʙ sona | mi sona e ~~nasin~~ ni: mi toki. → mi sona toki. |
+| ᴘʀᴇ-ᴠᴇʀʙ sona | mi sona e ~~(nasin)~~ ni: mi toki. → mi sona toki. |
 |:-|:-|
 | ᴘʀᴇ-ᴠᴇʀʙ *to know how to* <br>ᴠᴇʀʙ *to know* | *I know how to talk.* |
 
@@ -399,7 +399,11 @@ Sentences described by the correlative **ni** act like subordinate clauses.
 |:-|
 | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I know that I'm powerless.* |
 
-***TODO*** ni: ona li seme? ona li ni. CORRELATIVE
+You can convert any ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *doing ...*.
+
+| ꜱᴇɴᴛᴇɴᴄᴇ ona li seme? |
+|:-|
+| ꜱᴇɴᴛᴇɴᴄᴇ *What is she doing?* |
 
 #### NUMBER
 *([nimi suli poka](#noun-adjective) nanpa)*
