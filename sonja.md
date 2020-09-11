@@ -88,7 +88,7 @@ The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ
 
 ## Grammar
 
-### [NUMBER](nasin-nimi#pre-verb)
+### [PRE-VERB](nasin-nimi#pre-verb)
 
 Instead of converting a ᴘʀᴇ-ᴠᴇʀʙ + ᴍᴀɪɴ ᴠᴇʀʙ into a ɴᴏᴜɴ + ᴀᴅᴊᴇᴄᴛɪᴠᴇ, the ᴘʀᴇ-ᴠᴇʀʙ is omitted and only the ᴍᴀɪɴ ᴠᴇʀʙ is converted into a ɴᴏᴜɴ.
 
