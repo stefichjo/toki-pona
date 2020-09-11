@@ -268,12 +268,6 @@ When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜ�
 |:-|:-|
 | ᴘʀᴇ-ᴠᴇʀʙ *to know how to* <br>ᴠᴇʀʙ *to know* | *I know how to talk.* |
 
-Additional ᴘʀᴇ-ᴠᴇʀʙs are omitted.
-
-| mi wile ~~kama~~ sona. |
-|:-|
-| *I have to learn.* → *I have to know.* |
-
 ### NOUN
 *([nimi suli](#content-word) lawa)*
 

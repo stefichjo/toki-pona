@@ -90,6 +90,12 @@ The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ
 
 ### [PRE-VERB](nasin-nimi#pre-verb)
 
+Additional ᴘʀᴇ-ᴠᴇʀʙs are omitted.
+
+| mi wile ~~kama~~ sona. |
+|:-|
+| *I have to learn.* → *I have to know.* |
+
 Instead of converting a ᴘʀᴇ-ᴠᴇʀʙ + ᴍᴀɪɴ ᴠᴇʀʙ into a ɴᴏᴜɴ + ᴀᴅᴊᴇᴄᴛɪᴠᴇ, the ᴘʀᴇ-ᴠᴇʀʙ is omitted and only the ᴍᴀɪɴ ᴠᴇʀʙ is converted into a ɴᴏᴜɴ.
 
 | ᴠᴇʀʙ ᴘʜʀᴀꜱᴇ kama ante → ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ ~~kama~~ ante |
