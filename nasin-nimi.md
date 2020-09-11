@@ -218,7 +218,7 @@ A prepositional phrase can only be used at the end of a sentence.
 |:-|
 | *I give fish to her.* |
 
-When a **ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ** is used both as ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is omitted.
+When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is omitted.
 
 | mi tawa ~~tawa~~ sina. |
 |:-|
@@ -256,18 +256,21 @@ You can convert any ᴠᴇʀʙ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *who .
 * *lukin*, *pilin* + [ᴏʀɢᴀɴ](#organ)
 * *sona*
 
-When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ share the same ꜱᴜʙᴊᴇᴄᴛ, their two ᴍᴀɪɴ ᴠᴇʀʙs can merge, provided the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's ᴍᴀɪɴ ᴠᴇʀʙ is a **ᴘʀᴇ-ᴠᴇʀʙ**. A ᴍᴀɪɴ ᴠᴇʀʙ shouldn't have more than one ᴘʀᴇ-ᴠᴇʀʙ.
+***TODO***
 
-| ᴘʀᴇ-ᴠᴇʀʙ sona | mi sona e nasin ni: mi anpa. → mi sona anpa. |
+| ᴘʀᴇ-ᴠᴇʀʙ ken | ni li ken: mi toki. → mi ken toki. |
 |:-|:-|
-| ᴘʀᴇ-ᴠᴇʀʙ *to know how to* <br>ᴠᴇʀʙ *to know* | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ → <br>ᴘʀᴇ-ᴠᴇʀʙ + ᴍᴀɪɴ ᴠᴇʀʙ *I know how to be humble.* |
+| ᴘʀᴇ-ᴠᴇʀʙ *can* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *possible* | *I can talk.* |
 
-**ᴘʀᴇ-ᴠᴇʀʙ**s can be modified by [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#onomatopeia).
+When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ share the same ꜱᴜʙᴊᴇᴄᴛ, the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ can be reduced to a ᴘʀᴇ-ᴠᴇʀʙ.
 
-| ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ ala | mi sona ala anpa. |
+| ᴘʀᴇ-ᴠᴇʀʙ sona | mi sona e ~~nasin~~ ni: mi toki. → mi sona toki. |
 |:-|:-|
-| ᴘᴀʀᴛɪᴄʟᴇ *(negation)* → <br>ᴀᴅᴠᴇʀʙ *not* | *I don't know how to be humble.* |
+| ᴘʀᴇ-ᴠᴇʀʙ *to know how to* <br>ᴠᴇʀʙ *to know* | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ → <br>ᴘʀᴇ-ᴠᴇʀʙ + ᴍᴀɪɴ ᴠᴇʀʙ *I know how to talk.* |
 
+***TODO***
+A ᴍᴀɪɴ ᴠᴇʀʙ shouldn't have more than one ᴘʀᴇ-ᴠᴇʀʙ.
+ 
 ### NOUN
 *([nimi suli](#content-word) lawa)*
 
@@ -398,6 +401,8 @@ Sentences described by the correlative **ni** act like subordinate clauses.
 | ꜱᴇɴᴛᴇɴᴄᴇ mi sona e ni: mi anpa. |
 |:-|
 | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I know that I'm powerless.* |
+
+***TODO*** ni: ona li seme? ona li ni. CORRELATIVE
 
 #### NUMBER
 *([nimi suli poka](#noun-adjective) nanpa)*
@@ -621,6 +626,12 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 | o kepeken ala ilo ike. |
 |:-|
 | *Don't use bad tools.* |
+
+**ᴘʀᴇ-ᴠᴇʀʙ**s can be modified by [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#onomatopeia).
+
+| ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ ala | mi sona ala toki. |
+|:-|:-|
+| ᴘᴀʀᴛɪᴄʟᴇ *(negation)* → <br>ᴀᴅᴠᴇʀʙ *not* | *I don't know how to talk.* |
 
 ## Appendix: Phrases and Sentences
 

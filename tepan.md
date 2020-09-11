@@ -446,6 +446,10 @@ In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *
 |:-|
 | *Where did you put the clock next to?* |
 
+***TODO*** auxiliary = pre-verb
+***TODO*** only one pre-verb
+***TODO*** pre-verbs can be used after pi: jan pi kama-sona = jan pi kama÷sona
+
 ᴀᴜxɪʟɪᴀʀɪᴇs can go between another ᴀᴜxɪʟɪᴀʀʏ and its ᴍᴀɪɴ ᴠᴇʀʙ.
 
 | mi ' wile÷sona e toki-pona. → mi ' wile÷*kama*÷sona e toki-pona. |
