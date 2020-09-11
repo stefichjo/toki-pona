@@ -10,7 +10,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word) |
 | [ᴘᴀʀᴛɪᴄʟᴇ](#particle) |
 
-There are two word classes: [content words](#content-word) (i.e. these parts of speech: nouns, adjectives, verbs, auxiliaries and prepositions) and [particles](#particle) (i.e. these parts of speech: markers, conjunctions and onomatopeia). As a rule of thumb, you can change the part of speech of any content word, but you can't change the part of speech of a particle.
+There are two word classes: [content words](#content-word) (i.e. these parts of speech: adjectives, prepositions, verbs, auxiliaries (or "pre-verbs") and nouns) and [particles](#particle) (i.e. these parts of speech: markers, conjunctions and onomatopeia). As a rule of thumb, you can change the part of speech of any content word, but you can't change the part of speech of a particle.
 
 But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verbs") and prepositions can be converted into nouns, adjectives and verbs, but not the other way around. Also, an onomatopeia can be converted into a content word meaning *the name ...* or *the sound ...*, and a content word can be used as an onomatopeia, e.g. **nanpa**.
 
@@ -121,7 +121,7 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ *finger*; <br>ᴠᴇʀʙ *to point at* |
 | <img src="musi/pona/pan.png" height="50" title="fan"><br>**pan** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fallen*, *dropped*; *sown* <br>ɴᴏᴜɴ *seed*; **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** |
 | <img src="musi/pona/pana.png" height="50" title="pana"><br>**pana** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to emit**, **give**, [**grant**](sonja.md#toki-pona-proverbs), **provide**, (*pana e ijo lon …*) **put**, **release**, (*pana e ijo tawa …*) **send**, [**send out**](sonja.md#toki-pona-proverbs), [**serve**](sonja.md#lesson-14) <br>ɴᴏᴜɴ *gift* |
-| <img src="musi/pona/pi.png" height="50" title="biloŋ"><br>**pi** | [**ᴘᴀʀᴛɪᴄʟᴇ: ᴍᴀʀᴋᴇʀ**](#case-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ [**(divides a second ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that describes a first ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ)**](sonja.md#lesson-11), **of** |
+| <img src="musi/pona/pi.png" height="50" title="biloŋ"><br>**pi** | [**ᴘᴀʀᴛɪᴄʟᴇ: ᴍᴀʀᴋᴇʀ**](#case-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ [**(divides a second ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ that describes a first ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ)**](sonja.md#lesson-11), **of** |
 | <img src="musi/pona/pilin.png" height="50" title="pil-im"><br>**pilin** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **heart (physical or emotional)**; <br>ᴠᴇʀʙ *to sense*; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (a direct experience)** |
 | | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ *to feel like*: (*pilin ~~wile~~ utala*) *to be angry* <br>ᴠᴇʀʙ *to have the impression that*, [**think**](sonja.md#writings-of-baháulláh); <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (an emotion)** |
 | <img src="musi/pona/pimeja.png" height="50" title="pimea"><br>**pimeja** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **black**, (*pimeja ~~mu~~*) *blackish*; (⇐ *~~kapesi~~*) *grey* |
@@ -256,21 +256,24 @@ You can convert any ᴠᴇʀʙ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *who .
 * *lukin*, *pilin* + [ᴏʀɢᴀɴ](#organ)
 * *sona*
 
-***TODO***
+When the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ describes the modality of the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ with an ᴀᴅᴊᴇᴄᴛɪᴠᴇ, the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's ᴀᴅᴊᴇᴄᴛɪᴠᴇ can become the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ's ᴘʀᴇ-ᴠᴇʀʙ.
 
 | ᴘʀᴇ-ᴠᴇʀʙ ken | ni li ken: mi toki. → mi ken toki. |
 |:-|:-|
 | ᴘʀᴇ-ᴠᴇʀʙ *can* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *possible* | *I can talk.* |
 
-When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ share the same ꜱᴜʙᴊᴇᴄᴛ, the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ can be reduced to a ᴘʀᴇ-ᴠᴇʀʙ.
+When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ share the same ꜱᴜʙᴊᴇᴄᴛ, the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's ᴠᴇʀʙ can become the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ's ᴘʀᴇ-ᴠᴇʀʙ.
 
 | ᴘʀᴇ-ᴠᴇʀʙ sona | mi sona e ~~nasin~~ ni: mi toki. → mi sona toki. |
 |:-|:-|
 | ᴘʀᴇ-ᴠᴇʀʙ *to know how to* <br>ᴠᴇʀʙ *to know* | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ → <br>ᴘʀᴇ-ᴠᴇʀʙ + ᴍᴀɪɴ ᴠᴇʀʙ *I know how to talk.* |
 
-***TODO***
-A ᴍᴀɪɴ ᴠᴇʀʙ shouldn't have more than one ᴘʀᴇ-ᴠᴇʀʙ.
- 
+Additional ᴘʀᴇ-ᴠᴇʀʙs are omitted.
+
+| mi wile ~~kama~~ sona. |
+|:-|
+| *I have to learn.* → *I have to know.* |
+
 ### NOUN
 *([nimi suli](#content-word) lawa)*
 
@@ -513,13 +516,13 @@ A **ᴠᴏʟɪᴛɪᴠᴇ** can be reduced to the ᴏʙᴊᴇᴄᴛ of the ꜱ�
 ##### GENITIVE
 *([nimi lili lawa](#marker) "pi")*
 
-The **ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ** **pi** marks a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that can be translated as a **ɢᴇɴɪᴛɪᴠᴇ** or as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. A ꜱᴇɴᴛᴇɴᴄᴇs shouldn't have more than one **ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇ**.
+The **ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ** **pi** marks a ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ that can be translated as a **ɢᴇɴɪᴛɪᴠᴇ** or as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. A ꜱᴇɴᴛᴇɴᴄᴇs shouldn't have more than one **ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇ**.
 
 | jan pi pona mute |
 |:-|
 | *a person of much good* → *a very good person* |
 
-When the ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ consists of only one [ɴᴏᴜɴ](#noun), the **ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ** **pi** is omitted.
+When the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ consists of only one [ɴᴏᴜɴ](#noun), the **ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ** **pi** is omitted.
 
 | toki pona |
 |:-|
@@ -528,7 +531,7 @@ When the ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ consists of only one [ɴᴏᴜɴ](#noun), t
 ##### ACCUSATIVE
 *([nimi lili lawa](#marker) "e")*
 
-The **ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ** **e** marks a ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ as an **ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ**, i.e. the ᴍᴀɪɴ ᴠᴇʀʙ's ᴏʙᴊᴇᴄᴛ.
+The **ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ** **e** marks a ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ as an **ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ**, i.e. the ᴍᴀɪɴ ᴠᴇʀʙ's ᴏʙᴊᴇᴄᴛ.
 
 When there is enough context, the ᴏʙᴊᴇᴄᴛ of a [ᴠᴇʀʙ](#verb) can be omitted.
 
@@ -550,7 +553,7 @@ When there is enough context, the ᴏʙᴊᴇᴄᴛ of a [ᴠᴇʀʙ](#verb) can
 #### AND
 *([nimi lili insa](#conjunction) "en")*
 
-The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **en** means *and*. It combines two ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs into one.
+The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **en** means *and*. It combines two ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs into one.
 
 | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ en | utala en pona |
 |:-|:-|
@@ -565,7 +568,7 @@ In ꜱᴇɴᴛᴇɴᴄᴇs, the **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **en** can be 
 #### OR
 *([nimi lili insa](#conjunction) "anu")*
 
-The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **anu** means *or*. It combines two ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs into one.
+The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **anu** means *or*. It combines two ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs into one.
 
 | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ anu | pona anu ike |
 |:-|:-|
