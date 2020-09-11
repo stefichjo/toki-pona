@@ -266,7 +266,7 @@ When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜ�
 
 | ᴘʀᴇ-ᴠᴇʀʙ sona | mi sona e ~~nasin~~ ni: mi toki. → mi sona toki. |
 |:-|:-|
-| ᴘʀᴇ-ᴠᴇʀʙ *to know how to* <br>ᴠᴇʀʙ *to know* | ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ → <br>ᴘʀᴇ-ᴠᴇʀʙ + ᴍᴀɪɴ ᴠᴇʀʙ *I know how to talk.* |
+| ᴘʀᴇ-ᴠᴇʀʙ *to know how to* <br>ᴠᴇʀʙ *to know* | *I know how to talk.* |
 
 Additional ᴘʀᴇ-ᴠᴇʀʙs are omitted.
 
