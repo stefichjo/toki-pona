@@ -397,11 +397,13 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 
 | meli lili pi sijelo pona li telo e kasi. |
 |:-|
-| *The healthy girl wawters the plant.* |
+| *The healthy girl waters the plant.* |
 
 | pi |
 |:-|
 | *(divides a second ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that describes a first ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ)* |
+
+***TODO*** of good
 
 | mu! |
 |:-|

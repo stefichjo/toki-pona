@@ -256,10 +256,10 @@ For didactical purposes, omitted words are represented by *hiphens*, *apostrophe
 | | |
 |:-|:-|
 | **toki ~~pi~~ pona** | **toki-pona** |
-| **mi ~~li~~ sin.** | **mi ' sin.** |
-| **mije li sona ~~e ijo~~.** | **mije li sona '.** |
 | **~~ijo~~ ale li pona.** | **'-ale li pona.** |
-| **ona li wile ~~e ni: ona li~~ lape.** | **ona li wile÷lape.** |
+| **~~jan~~ mije li sona ~~e ijo~~.** | **'-mije li sona '.** |
+| **ni li wile: ona li lape.** | **ona li wile÷lape.** |
+| **mi ~~li~~ sin.** | **mi: sin.** |
 
 For didactical purposes, ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs following a ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ have a *colon*. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs describing a *perception* also have a *colon*.
 

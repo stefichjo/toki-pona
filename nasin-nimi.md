@@ -134,7 +134,7 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/poka.png" height="50" title="boka"><br>**poka** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**nearby**](sonja.md#errata); (*poka ~~sike~~*) *surrounding* <br>ɴᴏᴜɴ [**area beside**](sonja.md#lesson-15), **vicinity**: (*lon poka*) **next to**, (*lon ~~poka~~* ⇐ *~~kan~~*) *among*, [**with**](sonja.md#lesson-8); (*poka ~~sike~~*) *area surrounding*: (*lon poka ~~sike~~*) *around* |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *lateral* <br>ɴᴏᴜɴ **side**, (*~~mute pi~~ poka tu tu sama* ⇐ *~~leko~~*) *square*; (*poka ~~sijelo~~*) **hip** |
 | <img src="musi/pona/poki.png" height="50" title="bokis"><br>**poki** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **bag**, **bowl**, **box**, **container**, **cup**, **cupboard**, **drawer**, **vessel**; *bladder*; <br>ᴠᴇʀʙ *to contain* |
-| <img src="musi/pona/pona.png" height="50" title="bona"><br>**pona** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**beneficial**](sonja.md#toki-pona-proverbs), [**beautiful**](sonja.md#toki-pona-proverbs), **good**, [**great**](sonja.md#toki-pona-proverbs), [**OK**](sonja.md#toki-pona-proverbs), **positive**, [**right**](sonja.md#lesson-14); **friendly**, **peaceful**; (⇒ *suwi* ⇐ *soweli*); (⇐ *ilo*) **useful**; (⇐ *lili* ⇐ *~~pasila~~*) *basic*, *elementary*, *primitive*, **simple**; <br>ᴠᴇʀʙ [**to improve**](sonja.md#lesson-6), [**tidy up**](sonja.md#lesson-18); <br>ɴᴏᴜɴ [**good**](sonja.md#lesson-10), [**peace**](sonja.md#lesson-10), [**simplicity**](sonja.md#famous-quotations), [**sophistication**](sonja.md#famous-quotations) |
+| <img src="musi/pona/pona.png" height="50" title="bona"><br>**pona** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**beneficial**](sonja.md#toki-pona-proverbs), [**beautiful**](sonja.md#toki-pona-proverbs), **good**: [**of good**](sonja.md#lesson-11), [**great**](sonja.md#toki-pona-proverbs), [**OK**](sonja.md#toki-pona-proverbs), **positive**, [**right**](sonja.md#lesson-14); **friendly**, **peaceful**; (⇒ *suwi* ⇐ *soweli*); (⇐ *ilo*) **useful**; (⇐ *lili* ⇐ *~~pasila~~*) *basic*, *elementary*, *primitive*, **simple**; <br>ᴠᴇʀʙ [**to improve**](sonja.md#lesson-6), [**tidy up**](sonja.md#lesson-18); <br>ɴᴏᴜɴ [**good**](sonja.md#lesson-10), [**peace**](sonja.md#lesson-10), [**simplicity**](sonja.md#famous-quotations), [**sophistication**](sonja.md#famous-quotations) |
 | <img src="musi/pona/pu.png" height="50" title="buk"><br>**pu** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (⇒ *sama* ⇒ *lon*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *compatible*, *compliant*; (*pu ~~lipu Pu~~*) **interacting with the official Toki Pona book** |
 | | [**ᴘᴀʀᴛɪᴄʟᴇ: ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onomatopeia) <br>ᴘᴀʀᴛɪᴄʟᴇ *name of the official Toki Pona book*: (*lipu Pu*) *the official Toki Pona book*, *Pu* |
 | <img src="musi/pona/sama.png" height="50" title="sama"><br>**sama** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **as**, **like**; (⇒ *lon* ⇐ *pu*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **same**, **similar**; (*~~pi kulupu~~ sama*) **fellow**, *in common*, *shared*: (*jan ~~pi kulupu~~ sama*) **peer**, (*jan ~~pi kulupu mama~~ sama* ⇐ *~~pata~~*) **sibling**; (⇐ *kulupu*) **each other**, *reciprocal*; *-self*, *-selves*; <br>ɴᴏᴜɴ [**harmony**](sonja.md#famous-quotations) |
@@ -200,8 +200,6 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | |
 |:-|
 | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
-
-... ***TODO***
 
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ pona |
 |:-|
@@ -453,24 +451,27 @@ You can convert any ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ into an ᴀᴅᴊᴇᴄᴛɪ�
 | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction): [ᴀɴᴅ](#and), [ᴏʀ](#or), [ɪꜰ-ᴛʜᴇɴ](#if-then) |
 | [ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ](#onomatopeia): ɴᴀᴍᴇ, ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ |
 
-**ᴘᴀʀᴛɪᴄʟᴇ**s can only be used as **ᴘᴀʀᴛɪᴄʟᴇ**s. (Only [ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ](#onomatopeia)s can be both **ᴘᴀʀᴛɪᴄʟᴇ**s and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s.)
+ᴘᴀʀᴛɪᴄʟᴇs can only be used as ᴘᴀʀᴛɪᴄʟᴇs. (Only [ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ](#onomatopeia)s can be both ᴘᴀʀᴛɪᴄʟᴇs and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s.)
 
 ### MARKER
 *([nimi lili](#particle) lawa)*
 
 | |
 |:-|
-| [ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ](#mood): [ɪɴᴅɪᴄᴀᴛɪᴠᴇ ᴍᴏᴏᴅ](#indicative), [ᴠᴏʟɪᴛɪᴠᴇ, ᴠᴏᴄᴀᴛɪᴠᴇ and ɪᴍᴘᴇʀᴀᴛɪᴠᴇ ᴍᴏᴏᴅ](#volative-vocative-and-imperative) |
+| [ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ](#mood): [ɪɴᴅɪᴄᴀᴛɪᴠᴇ ᴍᴏᴏᴅ](#indicative), [ᴅᴇᴏɴᴛɪᴄ ᴍᴏᴏᴅ](#deontic) |
 | [ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ](#case): [ɢᴇɴɪᴛɪᴠᴇ ᴄᴀꜱᴇ](#genitive), [ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ ᴄᴀꜱᴇ](#accusative) |
 
 #### MOOD MARKER
 
-* *li*, *o*
+| |
+|:-|
+| [ɪɴᴅɪᴄᴀᴛɪᴠᴇ ᴍᴏᴏᴅ](#indicative): **li** |
+| [ᴅᴇᴏɴᴛɪᴄ ᴍᴏᴏᴅ](#deontic): **o** |
  
 ##### INDICATIVE
 *([nimi lili lawa](#marker) "li")*
 
-The **ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ** **li** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ɪɴᴅɪᴄᴀᴛɪᴠᴇ**.
+The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **li** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a ꜱᴇɴᴛᴇɴᴄᴇ as ɪɴᴅɪᴄᴀᴛɪᴠᴇ.
 
 | ona li mama. | ona li mama ala. |
 |:-|:-|
@@ -482,40 +483,40 @@ When there is enough context, a ꜱᴇɴᴛᴇɴᴄᴇ can be reduced to its ᴍ
 |:-|:-|:-|
 | *Is she a parent?* | *Yes.* | *No.* |
 
-If the ꜱᴜʙᴊᴇᴄᴛ is just **mi** or **sina**, the **ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ** **li** is omitted.
+If the ꜱᴜʙᴊᴇᴄᴛ is just **mi** or **sina**, the ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **li** is omitted.
 
 | mi mije. | sina sin. |
 |:-|:-|
 | *I am a man.* | *You are new.* |
 
-##### VOLATIVE, VOCATIVE and IMPERATIVE
+##### DEONTIC
 *([nimi lili lawa](#marker) "o")*
 
-The **ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ** **o** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏʟɪᴛɪᴠᴇ** (i.e. among others **ᴏᴘᴛᴀᴛɪᴠᴇ**) or **ɪᴍᴘᴇʀᴀᴛɪᴠᴇ**, or the ꜱᴜʙᴊᴇᴄᴛ of a ꜱᴇɴᴛᴇɴᴄᴇ as **ᴠᴏᴄᴀᴛɪᴠᴇ**.
+The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **o** marks a ꜱᴇɴᴛᴇɴᴄᴇ as ᴅᴇᴏɴᴛɪᴄ (i.e. ᴠᴏʟɪᴛɪᴠᴇ, ᴠᴏᴄᴀᴛɪᴠᴇ or ɪᴍᴘᴇʀᴀᴛɪᴠᴇ).
 
 | ᴠᴏʟɪᴛɪᴠᴇ mi o moku e ijo pona. |
 |:-|
 | *I should eat good things.* |
 
-**sina** is omitted in an **ɪᴍᴘᴇʀᴀᴛɪᴠᴇ** ꜱᴇɴᴛᴇɴᴄᴇ.
+**sina** is omitted in an ɪᴍᴘᴇʀᴀᴛɪᴠᴇ ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | ᴠᴏʟɪᴛɪᴠᴇ sina o moku. → ɪᴍᴘᴇʀᴀᴛɪᴠᴇ o moku! |
 |:-|
 | *You should eat.* → *Eat!* |
 
-**ᴠᴏᴄᴀᴛɪᴠᴇ** ꜱᴇɴᴛᴇɴᴄᴇs don't have a ᴘʀᴇᴅɪᴄᴀᴛᴇ.
+ᴠᴏᴄᴀᴛɪᴠᴇ ꜱᴇɴᴛᴇɴᴄᴇs don't have a ᴘʀᴇᴅɪᴄᴀᴛᴇ.
 
 | ᴠᴏᴄᴀᴛɪᴠᴇ jan Ali o! |
 |:-|
 | *Hey Ali!* |
 
-A combination of **ᴠᴏᴄᴀᴛɪᴠᴇ** and **ɪᴍᴘᴇʀᴀᴛɪᴠᴇ** is always replaced by a **ᴠᴏʟɪᴛɪᴠᴇ**.
+A combination of ᴠᴏᴄᴀᴛɪᴠᴇ and ɪᴍᴘᴇʀᴀᴛɪᴠᴇ is always replaced by a ᴠᴏʟɪᴛɪᴠᴇ.
 
 | ᴠᴏᴄᴀᴛɪᴠᴇ + ɪᴍᴘᴇʀᴀᴛɪᴠᴇ jan Ali o, o wawa! → ᴠᴏʟɪᴛɪᴠᴇ jan Ali o wawa! |
 |:-|
 | *Hey Ali, be strong!* |
 
-A **ᴠᴏʟɪᴛɪᴠᴇ** can be reduced to the ᴏʙᴊᴇᴄᴛ of the ꜱᴇɴᴛᴇɴᴄᴇ, expressing a *wish*.
+A ᴠᴏʟɪᴛɪᴠᴇ can be reduced to the ᴏʙᴊᴇᴄᴛ of the ꜱᴇɴᴛᴇɴᴄᴇ, expressing a *wish*.
 
 | ᴠᴏʟɪᴛɪᴠᴇ sina o jo e moku pona. → moku pona! |
 |:-|
@@ -523,18 +524,21 @@ A **ᴠᴏʟɪᴛɪᴠᴇ** can be reduced to the ᴏʙᴊᴇᴄᴛ of the ꜱ�
 
 #### CASE MARKER
 
-* *e*, *pi*
+| |
+|:-|
+| [ɢᴇɴɪᴛɪᴠᴇ ᴄᴀꜱᴇ](#genitive): **pi** |
+| [ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ ᴄᴀꜱᴇ](#accusative): **e** |
 
 ##### GENITIVE
 *([nimi lili lawa](#marker) "pi")*
 
-The **ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ** **pi** marks a ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ that can be translated as a **ɢᴇɴɪᴛɪᴠᴇ** or as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. A ꜱᴇɴᴛᴇɴᴄᴇs shouldn't have more than one **ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇ**.
+The ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ **pi** marks a ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ that can be translated as a ɢᴇɴɪᴛɪᴠᴇ or as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. A ꜱᴇɴᴛᴇɴᴄᴇ shouldn't have more than one ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇ.
 
 | jan pi pona mute |
 |:-|
 | *a person of much good* → *a very good person* |
 
-When the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ consists of only one [ɴᴏᴜɴ](#noun), the **ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ** **pi** is omitted.
+When the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ consists of only one [ɴᴏᴜɴ](#noun), the ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ **pi** is omitted.
 
 | toki pona |
 |:-|
@@ -543,7 +547,7 @@ When the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ consists of only one [ɴᴏᴜɴ](#noun), t
 ##### ACCUSATIVE
 *([nimi lili lawa](#marker) "e")*
 
-The **ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ** **e** marks a ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ as an **ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ**, i.e. the ᴍᴀɪɴ ᴠᴇʀʙ's ᴏʙᴊᴇᴄᴛ.
+The ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ **e** marks a ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ as an ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ, i.e. the ᴍᴀɪɴ ᴠᴇʀʙ's ᴏʙᴊᴇᴄᴛ.
 
 When there is enough context, the ᴏʙᴊᴇᴄᴛ of a [ᴠᴇʀʙ](#verb) can be omitted.
 
@@ -554,8 +558,6 @@ When there is enough context, the ᴏʙᴊᴇᴄᴛ of a [ᴠᴇʀʙ](#verb) can
 ### CONJUNCTION
 *([nimi lili](#particle) insa)*
 
-* *anu*, *en*, *la*
-
 | |
 |:-|
 | [ᴀɴᴅ](#and) |
@@ -565,13 +567,13 @@ When there is enough context, the ᴏʙᴊᴇᴄᴛ of a [ᴠᴇʀʙ](#verb) can
 #### AND
 *([nimi lili insa](#conjunction) "en")*
 
-The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **en** means *and*. It combines two ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs into one.
+The ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** means *and*. It combines two ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs into one.
 
 | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ en | utala en pona |
 |:-|:-|
 | ᴘᴀʀᴛɪᴄʟᴇ *and* | *War and Peace* |
 
-In ꜱᴇɴᴛᴇɴᴄᴇs, the **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **en** can be used only between ꜱᴜʙᴊᴇᴄᴛs.
+In ꜱᴇɴᴛᴇɴᴄᴇs, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used only between ꜱᴜʙᴊᴇᴄᴛs.
 
 | taso mije en meli li pali li pilin pona. |
 |:-|
@@ -580,7 +582,7 @@ In ꜱᴇɴᴛᴇɴᴄᴇs, the **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **en** can be 
 #### OR
 *([nimi lili insa](#conjunction) "anu")*
 
-The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **anu** means *or*. It combines two ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs into one.
+The ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **anu** means *or*. It combines two ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs into one.
 
 | ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ anu | pona anu ike |
 |:-|:-|
@@ -595,7 +597,7 @@ In yes-no-questions, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **anu** is omitted betwee
 #### IF-THEN
 *([nimi lili insa](#conjunction) "la")*
 
-The **ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ** **la** can be put between the **ᴄᴏɴᴛᴇxᴛ**, i.e. a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition), and the ᴍᴀɪɴ ꜱᴇɴᴛᴇɴᴄᴇ.
+The ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **la** can be put between the ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ, i.e. a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition), and the ᴍᴀɪɴ ꜱᴇɴᴛᴇɴᴄᴇ.
 
 | sina pana e nimi pona tawa mi tan seme? → tan seme la sina pana e nimi pona tawa mi? |
 |:-|
@@ -618,31 +620,31 @@ Before **la**, the [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) **ni:** in fron
 
 * *mu* — *a*, *ala*
 
-**ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**s are **ɴᴀᴍᴇ**s and **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s. They can be both **ᴘᴀʀᴛɪᴄʟᴇ**s and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s when used without **kalama**.
+ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀs are ɴᴀᴍᴇs and ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs. They can be both ᴘᴀʀᴛɪᴄʟᴇs and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s when used without **kalama**.
 
 | nimi ona li kalama "Sonja". → nimi ona li Sonja. | ona li kute e kalama "mu" wawa. → ona li kute e mu wawa. |
 |:-|:-|
 | *Her name goes "Sonja".* → *Her name is Sonja.* | *She heard a loud bleat.* |
 
-[ɴᴜᴍʙᴇʀ](#number)s can be used as **ɴᴀᴍᴇ**s after **nanpa**. (Plus, the [ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#noun-adjective) **nanpa** itself can be used as a **ɴᴀᴍᴇ**.)
+[ɴᴜᴍʙᴇʀ](#number)s can be used as ɴᴀᴍᴇs after **nanpa**. (Plus, the [ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#noun-adjective) **nanpa** itself can be used as a ɴᴀᴍᴇ.)
 
 | sina nanpa wan. | toki nanpa wan |
 |:-|:-|
 | *You're number one.* | *the first language* |
 
-One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇɴᴛᴇɴᴄᴇs.
+One can use ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as ᴀᴅᴠᴇʀʙs or ꜱᴇɴᴛᴇɴᴄᴇs.
 
 | a! |
 |:-|
 | *Wow!* |
 
-**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**s can be modified by [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#onomatopeia)s.
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be modified by [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#onomatopeia)s.
 
 | o kepeken ala ilo ike. |
 |:-|
 | *Don't use bad tools.* |
 
-**ᴘʀᴇ-ᴠᴇʀʙ**s can be modified by [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#onomatopeia).
+ᴘʀᴇ-ᴠᴇʀʙs can be modified by [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#onomatopeia).
 
 | ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ ala | mi sona ala toki. |
 |:-|:-|
