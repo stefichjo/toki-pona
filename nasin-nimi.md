@@ -350,7 +350,7 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 
 * *insa*, *len*, *poki*, *tomo*
 * *kute*, *palisa*, *selo*, *sijelo*, *uta*
-* *lawa*, *luka* — *noka* + [ᴛʜɪɴɢ](#thing)
+* *lawa*, *luka* — *noka* + [ᴀʀᴇᴀ](#area)
 * *lukin*, *pilin* + [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb)
 
 | ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ lukin |
