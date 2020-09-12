@@ -34,8 +34,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/ale.png" height="50" title="ale"><br>**ale** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) ⇐ *~~ali~~* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ  (*~~mute~~ ale*) **all**, **every**; (*~~wan~~ ale*) **all** <br>ɴᴏᴜɴ **everything**; (⇒ *ma*) |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](sonja.md#lesson-12), **countless** <br>ɴᴏᴜɴ [**infinity**](sonja.md#famous-quotations); [**100**](sonja.md#lesson-12) |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **bountiful**, **plentiful** <br>ɴᴏᴜɴ **abundance**; **life**, **universe** |
-| <img src="musi/pona/anpa.png" height="50" title="an-ba"><br>**anpa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *noka*): (*~~kama~~ anpa*) **downward**; (*~~kama~~ anpa*) **bowing down**; *deep* <br>ɴᴏᴜɴ (⇒ *noka*); *abyss*; *hell* |
-| | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **humble**, **lowly**; **dependent**; <br>ɴᴏᴜɴ [**powerlessness**](sonja.md#short-obligatory-prayer) <br>ɴᴏᴜɴ *...* ***TODO*** |
+| <img src="musi/pona/anpa.png" height="50" title="an-ba"><br>**anpa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *noka*): (*~~kama~~ anpa*) **downward**; (*~~kama~~ anpa*) **bowing down**; *deep* <br>ɴᴏᴜɴ (⇒ *noka*); *abyss*; (⇐ *~~apeja~~*) *hell* |
+| | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **humble**, **lowly**; **dependent**; (⇐ *~~apeja~~*) *guilty*, *shameful*; <br> <br>*to condemn*, *punish* (⇐ *~~apeja~~*) <br>ɴᴏᴜɴ [**powerlessness**](sonja.md#short-obligatory-prayer); (⇐ *~~apeja~~*) *guilt*, *shame* <br>ɴᴏᴜɴ (⇐ *~~apeja~~*) *devil* |
 | <img src="musi/pona/ante.png" height="50" title="ander"><br>**ante** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *than*, *unlike*; (⇐ *esun*) *instead of* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **altered**, **changed**, **different**; (⇐ *esun*) *else*, *exchanged*, **other**; <br>ɴᴏᴜɴ (*~~kama~~ ante*) [**change**](sonja.md#toki-pona-proverbs) |
 | <img src="musi/pona/anu.png" height="50" title="an"><br>**anu** | [**ᴘᴀʀᴛɪᴄʟᴇ: ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) <br>ᴘᴀʀᴛɪᴄʟᴇ *(alternative)*, **or** |
 | <img src="musi/pona/awen.png" height="50" title="hawen"><br>**awen** | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **to continue to** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *continuous* |
@@ -50,7 +50,7 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/insa.png" height="50" title="insait"><br>**insa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *central*; *inner* <br>ɴᴏᴜɴ **centre**: (*lon insa*) **between**, (*lon ~~insa~~*) [**(tangentially) between**](sonja.md#famous-quotations); **inside**: (*lon insa*) [**within**](sonja.md#toki-pona-proverbs), (*lon ~~insa~~*) [**in**](sonja.md#lesson-8) |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *internal* <br>ɴᴏᴜɴ **content** |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *intermediary*; (⇐ *nasin*) *connecting*, *continuous*  <br>ɴᴏᴜɴ **internal organ**: **stomach**, [**womb**](sonja.md#lesson-15); (*~~nasin pi~~ insa palisa*) *joint*; (⇐ *nasin*) *connection* <br>ᴠᴇʀʙ (⇐ *nasin*) *to connect* |
-| <img src="musi/pona/jaki.png" height="50" title="jaki"><br>**jaki** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter*, **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary**, [**yucky**](sonja.md#lesson-1) <br>ɴᴏᴜɴ *dirt*, *poison*, *waste*; (⇐ *~~apeja~~*) *guilt*, *shame*: (*jaki e … lon insa lawa* ⇐ *~~apeja e …~~*) *to condemn* |
+| <img src="musi/pona/jaki.png" height="50" title="jaki"><br>**jaki** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter*, **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary**, [**yucky**](sonja.md#lesson-1) <br>ɴᴏᴜɴ *dirt*, *poison*, *waste* |
 | <img src="musi/pona/jan.png" height="50" title="jan"><br>**jan** | [**ɴᴏᴜɴ**](#noun) <br>ɴᴏᴜɴ [**folks**](sonja.md#toki-pona-proverbs), [**guy**](sonja.md#lesson-9), **human being**, **person**/[**people**](sonja.md#lesson-9), **somebody**; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**somebody's**](sonja.md#toki-pona-proverbs) |
 | <img src="musi/pona/jelo.png" height="50" title="jelo"><br>**jan** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **yellow**, (*jelo ~~mu~~*) **yellowish** |
 | <img src="musi/pona/jo.png" height="50" title="jou"><br>**jo** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to have**; **carry**, **contain**, **hold**; (*kama jo e ijo tan …*) *fetch*, *pick* <br>ɴᴏᴜɴ *property* |
@@ -201,7 +201,7 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 |:-|
 | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
 
-...
+... ***TODO***
 
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ pona |
 |:-|
