@@ -85,7 +85,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/lukin.png" height="50" title="luk-im"><br>**lukin** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ (⇐ *~~oko~~*) **eye**; <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** |
 | | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ [**to seek to**](sonja.md#lesson-13), **try to**; (*lukin jo*) [**to look for**](sonja.md#errata); (*lukin kama lon* = *lukin tawa*) *to search for* <br>ᴠᴇʀʙ *to care for* |
 | <img src="musi/pona/lupa.png" height="50" title="rupa"><br>**lupa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *concave*, *empty*, *hollow* <br>ɴᴏᴜɴ *cave*, **orifice**: (*lupa meli*) [**womb**](sonja.md#toki-pona-proverbs); (⇐ *open*) *entrance*, **hole**: (*lupa ~~tomo~~*) **door**, (*lupa ~~suno~~*) **window** |
-| <img src="musi/pona/ma.png" height="50" title="maa"><br>**ma** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *contextual*, *outside*; *firm*, *fixed* <br>ɴᴏᴜɴ **outdoors**: *context*, **world**; **earth**, **land**, **soil**; (*ma ~~jan~~*) **country**, **territory**; *area* (⇐ ale); (*~~sike~~ ma*) [**planet**](sonja.md#toki-pona-proverbs) <br>ᴠᴇʀʙ *to orient*, *tie* |
+| <img src="musi/pona/ma.png" height="50" title="maa"><br>**ma** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *contextual*, *outside*; *firm*, *fixed* <br>ɴᴏᴜɴ **outdoors**: *context*, **world**; *area* (⇐ ale); (*~~sike~~ ma*) [**planet**](sonja.md#toki-pona-proverbs) <br>ᴠᴇʀʙ *to orient*, *tie* |
+| | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ɴᴏᴜɴ **earth**, **land**, **soil**; (*ma ~~jan~~*) **country**, **territory** |
 | <img src="musi/pona/mama.png" height="50" title="mama"><br>**mama** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴘᴇʀꜱᴏɴ**](#person) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*mama* ⇐ *sijelo e ijo*) [**birth-giving**](sonja.md#the-quran); (*jo e mama* ⇐ *sijelo*) [**being born**](sonja.md#the-quran); *of origin* <br>ɴᴏᴜɴ **parent**; (*mama ~~mije~~*) [**father**](sonja.md#the-gospel), (*mama ~~meli~~*) *mother*; **ancestor**; **caretaker**, **sustainer**; **creator**, **originator**; (⇐ *~~tan~~*) *origin* |
 | <img src="musi/pona/mani.png" height="50" title="mani"><br>**mani** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *domesticated*, *refined*; *valueable* <br>ɴᴏᴜɴ **large domesticated animal**; **cash**, **money**, **savings**, **wealth** |
 | <img src="musi/pona/meli.png" height="50" title="meri"><br>**meli** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴘᴇʀꜱᴏɴ**](#person) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**female**](sonja.md#lesson-3) <br>ɴᴏᴜɴ **female**, **feminine person**, **woman**; **wife** |
@@ -366,12 +367,13 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 *([nimi suli poka](#noun-adjective) ijo)*
 
 * *anpa* — *sewi*, *supa* + [ᴀʀᴇᴀ](#area)
-* *lili* — *ale*, *ilo*, *mani*, *mute*, *suli*, *wawa*
+* *insa* — *ma* + [ᴀʀᴇᴀ](#area)
 * *jaki* — *suwi*
 * *kili*, *pan*
 * *kiwen*, *ko*, *kon*, *telo*
 * *kulupu*, *sijelo*
 * *lete* — *seli*
+* *lili* — *ale*, *ilo*, *mani*, *mute*, *suli*, *wawa*
 * *linja* — *palisa*
 * *lipu* — *lupa*, *nena*
 * *monsi* — *sinpin* + [ᴀʀᴇᴀ](#area)
@@ -426,8 +428,8 @@ You can convert any ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ into an ᴀᴅᴊᴇᴄᴛɪ�
 
 * *anpa* — *sewi*, *supa* + [ᴛʜɪɴɢ](#thing)
 * *awen*, *kama* — *open*, *pini* + [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb)
-* *insa* — *ma*
-* *lawa*, *luka* — *noka*
+* *insa* — *ma* + [ᴛʜɪɴɢ](#thing)
+* *lawa*, *luka* — *noka* + [ᴏʀɢᴀɴ](#organ) ***TODO***
 * *monsi* — *sinpin* + [ᴛʜɪɴɢ](#thing)
 * *nasin* — *nanpa*, *tenpo*
 * *poka* — *weka* + [ᴛʜɪɴɢ](#thing)
