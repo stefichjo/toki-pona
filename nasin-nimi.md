@@ -127,7 +127,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/pini.png" height="50" title="pinis"><br>**pini** | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ *to stop -ing* <br>ᴠᴇʀʙ *to cancel* |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **ago**, **completed**, **ended**, **finished**: (*~~pi tenpo~~ pini*) **past**; (*~~pi nanpa~~ pini*) *last*, *previous* <br>ɴᴏᴜɴ *end*: (*lon ~~pini pi~~*) *after*, *in the end*, (*tan ~~pini pi~~*) *since* |
 | <img src="musi/pona/pipi.png" height="50" title="bibit"><br>**pipi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *crawling*, *creeping* <br>ɴᴏᴜɴ **ant**, **bug**, **insect**, **spider** |
-| <img src="musi/pona/poka.png" height="50" title="boka"><br>**poka** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**nearby**](sonja.md#errata); (*poka ~~sike~~*) *surrounding* <br>ɴᴏᴜɴ [**area beside**](sonja.md#lesson-15), **vicinity**: (*lon poka*) **next to**, (*lon ~~poka~~* ⇐ *~~kan~~*) *among*, [**with**](sonja.md#lesson-8); (*poka ~~sike~~*) *area surrounding*: (*lon poka ~~sike~~*) *around* <br>[**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *lateral* <br>ɴᴏᴜɴ **side**, (*~~mute pi~~ poka tu tu sama* ⇐ *~~leko~~*) *square*; (*poka ~~sijelo~~*) **hip** |
+| <img src="musi/pona/poka.png" height="50" title="boka"><br>**poka** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**nearby**](sonja.md#errata); (*poka ~~sike~~*) *surrounding* <br>ɴᴏᴜɴ [**area beside**](sonja.md#lesson-15), **vicinity**: (*lon poka*) **next to**, (*lon ~~poka~~* ⇐ *~~kan~~*) *among*, [**with**](sonja.md#lesson-8); (*poka ~~sike~~*) *area surrounding*: (*lon poka ~~sike~~*) *around* |
+| | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *lateral* <br>ɴᴏᴜɴ **side**, (*~~mute pi~~ poka tu tu sama* ⇐ *~~leko~~*) *square*; (*poka ~~sijelo~~*) **hip** |
 | <img src="musi/pona/poki.png" height="50" title="bokis"><br>**poki** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **bag**, **bowl**, **box**, **container**, **cup**, **cupboard**, **drawer**, **vessel**; *bladder*; <br>ᴠᴇʀʙ *to contain* |
 | <img src="musi/pona/pona.png" height="50" title="bona"><br>**pona** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**beneficial**](sonja.md#toki-pona-proverbs), [**beautiful**](sonja.md#toki-pona-proverbs), **good**, [**great**](sonja.md#toki-pona-proverbs), [**OK**](sonja.md#toki-pona-proverbs), **positive**, [**right**](sonja.md#lesson-14); **friendly**, **peaceful**; (⇒ *suwi* ⇐ *soweli*); (⇐ *ilo*) **useful**; (⇐ *lili* ⇐ *~~pasila~~*) *basic*, *elementary*, *primitive*, **simple**; <br>ᴠᴇʀʙ [**to improve**](sonja.md#lesson-6), [**tidy up**](sonja.md#lesson-18); <br>ɴᴏᴜɴ [**good**](sonja.md#lesson-10), [**peace**](sonja.md#lesson-10), [**simplicity**](sonja.md#famous-quotations), [**sophistication**](sonja.md#famous-quotations) |
 | <img src="musi/pona/pu.png" height="50" title="buk"><br>**pu** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (⇒ *sama* ⇒ *lon*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *compatible*, *compliant*; (*pu ~~lipu Pu~~*) **interacting with the official Toki Pona book** |
@@ -168,7 +169,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*~~wan~~*) [**certain**](sonja.md#the-gospel), *specific*; **unique** |
 | <img src="musi/pona/waso.png" height="50" title="wazo"><br>**waso** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flying*, *winging* <br>ɴᴏᴜɴ **bird**, **flying creature**, **winged animal** |
 | <img src="musi/pona/wawa.png" height="50" title="vahva"><br>**wawa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **energetic**; **powerful**, [**stable**](sonja.md#lesson-15), **strong**; [**independent**](sonja.md#the-quran); (*~~sona~~ wawa*) [**dependable**](sonja.md#lesson-4), [**reliable**](sonja.md#lesson-5), **sure**; (*~~toki~~ wawa*) **confident**; (*~~kalama~~ wawa*) [**loud**](sonja.md#lesson-17), **intense**; <br>ᴠᴇʀʙ [**strengthen**](sonja.md#lesson-6); (*wawa e ~~toki~~ ni:*) [**to bear witness that**](sonja.md#writings-of-baháulláh) <br>ɴᴏᴜɴ [**might**](sonja.md#writings-of-baháulláh), [**power**](sonja.md#writings-of-baháulláh); *force* |
-| <img src="musi/pona/weka.png" height="50" title="weĥ"><br>**weka** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**, *remote*; **ignored**, *isolated*; <br>ɴᴏᴜɴ [**isolation**](sonja.md#toki-pona-proverbs); <br>ᴠᴇʀʙ [**to eliminate**](sonja.md#famous-quotations), [**erase**](sonja.md#toki-pona-proverbs), [**omit**](sonja.md#famous-quotations), [**remove**](sonja.md#toki-pona-proverbs) <br>ɴᴏᴜɴ *distance*: (*lon weka pi*) *away from* <br>[**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vast* <br>ɴᴏᴜɴ *space*; *vacuum*, *void* |
+| <img src="musi/pona/weka.png" height="50" title="weĥ"><br>**weka** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**, *remote*; **ignored**, *isolated*; <br>ɴᴏᴜɴ [**isolation**](sonja.md#toki-pona-proverbs); <br>ᴠᴇʀʙ [**to eliminate**](sonja.md#famous-quotations), [**erase**](sonja.md#toki-pona-proverbs), [**omit**](sonja.md#famous-quotations), [**remove**](sonja.md#toki-pona-proverbs) <br>ɴᴏᴜɴ *distance*: (*lon weka pi*) *away from* |
+| | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vast* <br>ɴᴏᴜɴ *space*; *vacuum*, *void* |
 | <img src="musi/pona/wile.png" height="50" title="wile"><br>**wile** | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>***TODO*** ᴘʀᴇ-ᴠᴇʀʙ **must**, **need**, **require**, **should**, **want**, **wish**; (*tan wile ijo la* = *wile*) *to be bound to*, *can't help but* <br>ᴠᴇʀʙ *to need*, *require*, *want*, *wish*; *to enforce* <br>ɴᴏᴜɴ *necessity* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inevitable*, *necessary* |
 
 ## CONTENT WORD
@@ -372,9 +374,11 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 * *lete* — *seli*
 * *linja* — *palisa*
 * *lipu* — *lupa*, *nena*
+* *monsi* — *sinpin* + [ᴀʀᴇᴀ](#area)
 * *mun*, *sike*
 * *musi* — *pali*
 * *pimeja* — *suno*
+* *poka* — *weka* + [ᴀʀᴇᴀ](#area)
 
 | ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ sike |
 |:-|
@@ -426,7 +430,7 @@ You can convert any ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ into an ᴀᴅᴊᴇᴄᴛɪ�
 * *lawa*, *luka* — *noka*
 * *monsi* — *sinpin* + [ᴛʜɪɴɢ](#thing)
 * *nasin* — *nanpa*, *tenpo*
-* *poka* — *weka*
+* *poka* — *weka* + [ᴛʜɪɴɢ](#thing)
 
 | ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ insa |
 |:-|
