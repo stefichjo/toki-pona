@@ -34,7 +34,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/ale.png" height="50" title="ale"><br>**ale** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) ⇐ *~~ali~~* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ  (*~~mute~~ ale*) **all**, **every**; (*~~wan~~ ale*) **all** <br>ɴᴏᴜɴ **everything**; (⇒ *ma*) |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](sonja.md#lesson-12), **countless** <br>ɴᴏᴜɴ [**infinity**](sonja.md#famous-quotations); [**100**](sonja.md#lesson-12) |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **bountiful**, **plentiful** <br>ɴᴏᴜɴ **abundance**; **life**, **universe** |
-| <img src="musi/pona/anpa.png" height="50" title="an-ba"><br>**anpa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *noka*): (*~~kama~~ anpa*) **downward**; (*~~kama~~ anpa*) **bowing down**; *deep* <br>ɴᴏᴜɴ (⇒ *noka*); *abyss*; *hell* <br>[**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **humble**, **lowly**; **dependent**; <br>ɴᴏᴜɴ [**powerlessness**](sonja.md#short-obligatory-prayer) <br>ɴᴏᴜɴ *...* ***TODO*** |
+| <img src="musi/pona/anpa.png" height="50" title="an-ba"><br>**anpa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *noka*): (*~~kama~~ anpa*) **downward**; (*~~kama~~ anpa*) **bowing down**; *deep* <br>ɴᴏᴜɴ (⇒ *noka*); *abyss*; *hell* |
+| | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **humble**, **lowly**; **dependent**; <br>ɴᴏᴜɴ [**powerlessness**](sonja.md#short-obligatory-prayer) <br>ɴᴏᴜɴ *...* ***TODO*** |
 | <img src="musi/pona/ante.png" height="50" title="ander"><br>**ante** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *than*, *unlike*; (⇐ *esun*) *instead of* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **altered**, **changed**, **different**; (⇐ *esun*) *else*, *exchanged*, **other**; <br>ɴᴏᴜɴ (*~~kama~~ ante*) [**change**](sonja.md#toki-pona-proverbs) |
 | <img src="musi/pona/anu.png" height="50" title="an"><br>**anu** | [**ᴘᴀʀᴛɪᴄʟᴇ: ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) <br>ᴘᴀʀᴛɪᴄʟᴇ *(alternative)*, **or** |
 | <img src="musi/pona/awen.png" height="50" title="hawen"><br>**awen** | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **to continue to** <br>ᴠᴇʀʙ *to continue* |
@@ -133,7 +134,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/seli.png" height="50" title="ĉeli"><br>**seli** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot*, *warm*; *cooked* <br>ɴᴏᴜɴ **chemical reaction**, **fire**, **heat source**; **cooking element**; <br>ᴠᴇʀʙ [**to cook**](sonja.md#lesson-18) |
 | <img src="musi/pona/selo.png" height="50" title="ŝelo"><br>**selo** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ [**form**](sonja.md#preface), **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary**; <br>ᴠᴇʀʙ *to close* |
 | <img src="musi/pona/seme.png" height="50" title="ŝenme"><br>**seme** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **what**, **which** <br>ɴᴏᴜɴ [**what**](sonja.md#lesson-7), *which one* |
-| <img src="musi/pona/sewi.png" height="50" title="sevit"><br>**sewi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *high*; (⇐ *lawa*) *upper*; (⇒ *nanpa wan* ⇐ *lawa*) <br>ɴᴏᴜɴ **area above**: (*lon sewi*) *above*, *over*; **something elevated**; [**sky**](sonja.md#lesson-15); *heaven*; (⇐ *lawa*) **highest part**: (*lon sewi*) *at the top of* <br>[**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **awe-inspiring**, **divine**, **sacred**, **supernatural** <br>ɴᴏᴜɴ [**the Divine**](sonja.md#preface), [**that which is divine**](sonja.md#lesson-6), [**God**](sonja.md#lesson-6), [**the Lord**](sonja.md#the-torah) |
+| <img src="musi/pona/sewi.png" height="50" title="sevit"><br>**sewi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *high*; (⇐ *lawa*) *upper*; (⇒ *nanpa wan* ⇐ *lawa*) <br>ɴᴏᴜɴ **area above**: (*lon sewi*) *above*, *over*; **something elevated**; [**sky**](sonja.md#lesson-15); *heaven*; (⇐ *lawa*) **highest part**: (*lon sewi*) *at the top of* |
+| | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **awe-inspiring**, **divine**, **sacred**, **supernatural** <br>ɴᴏᴜɴ [**the Divine**](sonja.md#preface), [**that which is divine**](sonja.md#lesson-6), [**God**](sonja.md#lesson-6), [**the Lord**](sonja.md#the-torah) |
 | <img src="musi/pona/sijelo.png" height="50" title="tijelo"><br>**sijelo** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *alive*, *healthy*, *surviving*; <br>ɴᴏᴜɴ [**health**](sonja.md#lesson-13), **physical state**; *configuration*, *mode* <br>ɴᴏᴜɴ *life-form*; **body (of person or animal)**, **torso**; <br>ᴠᴇʀʙ (⇒ *mama pi*) |
 | <img src="musi/pona/sike.png" height="50" title="sirkel"><br>**sike** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ɴᴏᴜɴ **round or circular thing**: **ball**, **circle**, **sphere**, **wheel**; **cycle**; *age*; *lap* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*sike ~~suno~~*) **of one year**, (*pi sike ~~suno~~ mute* ⇐ *~~majuna~~*) *old* <br>ᴠᴇʀʙ *to fulfil*: (*sike e ~~sike~~ suno*) *to have one's birthday* |
 | <img src="musi/pona/sin.png" height="50" title="ŝin"><br>**sin** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh**; (⇐ *~~namako~~*) **additional**, **another**, **extra**; *artificial*, *enhanced* |
@@ -144,7 +146,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/soweli.png" height="50" title="ĉoveli"><br>**soweli** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *warm-blooded*; (⇒ *pona* ⇒ *suwi*) <br>ɴᴏᴜɴ *cute animal*; **animal**, **beast**, **land mammal**; [**badger**](sonja.md#lesson-12), [**hare**](sonja.md#lesson-18), [**moose**](sonja.md#lesson-17); (⇐ *~~kijetesantakalu~~*) *Procyonidae*; [**meat**](sonja.md#lesson-5) |
 | <img src="musi/pona/suli.png" height="50" title="suuri"><br>**suli** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **big**, **heavy**, **large**, **long**, **tall**; **important**; *responsible*; **adult**; <br>ᴠᴇʀʙ [**enlarge**](sonja.md#lesson-6) <br>ɴᴏᴜɴ *cargo*; *role* |
 | <img src="musi/pona/suno.png" height="50" title="suno"><br>**suno** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bright*; <br>ɴᴏᴜɴ **brightness**, **glow**, **light**, **radiance**, **shine** <br>ɴᴏᴜɴ **sun**; **light source** |
-| <img src="musi/pona/supa.png" height="50" title="surfas"><br>**supa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *horizontal*, *parallel* <br>ɴᴏᴜɴ *horizon*, **horizontal surface**: (*lon supa*) *on* <br>[**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sustaining* <br>ɴᴏᴜɴ **thing to put or rest something on**: (*lon supa*) *lying on*, *sitting on*; [**sofa**](sonja.md#lesson-18); (*supa sinpin* ⇐ *~~leko~~*) *block*; (*supa noka*) *step*; (*~~mute pi~~ supa noka* ⇐ *~~leko~~*) *ladder*, *stairs* |
+| <img src="musi/pona/supa.png" height="50" title="surfas"><br>**supa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *horizontal*, *parallel* <br>ɴᴏᴜɴ *horizon*, **horizontal surface**: (*lon supa*) *on* |
+| | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sustaining* <br>ɴᴏᴜɴ **thing to put or rest something on**: (*lon supa*) *lying on*, *sitting on*; [**sofa**](sonja.md#lesson-18); (*supa sinpin* ⇐ *~~leko~~*) *block*; (*supa noka*) *step*; (*~~mute pi~~ supa noka* ⇐ *~~leko~~*) *ladder*, *stairs* |
 | <img src="musi/pona/suwi.png" height="50" title="swit"><br>**suwi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **fragrant**, **sweet**; **adorable**, **cute**; (⇐ *pona* ⇐ *soweli*) **innocent** <br>ɴᴏᴜɴ [**sweets**](sonja.md#lesson-16) |
 | <img src="musi/pona/tan.png" height="50" title="dan"><br>**tan** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **because of**, **by**, **from** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *tawa*) |
 | <img src="musi/pona/taso.png" height="50" title="ta-s-ol"><br>**taso** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *free from*, *independent from*, *without*; (*taso ~~ni la~~*) **but**, **however** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *just*, **only** |
@@ -357,6 +360,7 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 #### THING
 *([nimi suli poka](#noun-adjective) ijo)*
 
+* *anpa* — *sewi*, *supa* + [ᴀʀᴇᴀ](#area)
 * *lili* — *ale*, *ilo*, *mani*, *mute*, *suli*, *wawa*
 * *jaki* — *suwi*
 * *kili*, *pan*
@@ -413,7 +417,7 @@ You can convert any ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ into an ᴀᴅᴊᴇᴄᴛɪ�
 #### AREA
 *([nimi suli poka](#noun-adjective) pi ijo ale)*
 
-* *anpa* — *sewi*, *supa*
+* *anpa* — *sewi*, *supa* + [ᴛʜɪɴɢ](#thing)
 * *awen*, *kama* — *open*, *pini* + [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb)
 * *insa* — *ma*
 * *lawa*, *luka* — *noka*
@@ -421,7 +425,7 @@ You can convert any ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ into an ᴀᴅᴊᴇᴄᴛɪ�
 * *nasin* — *nanpa*, *tenpo*
 * *poka* — *weka*
 
-| ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ insa |
+| ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ insa |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner* <br>ɴᴏᴜɴ *inner area* = *innards* |
 
