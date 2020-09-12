@@ -47,7 +47,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/ijo.png" height="50" title="ijo"><br>**ijo** | [**ɴᴏᴜɴ**](#noun) <br>ɴᴏᴜɴ [**being**](sonja.md#lesson-2), **matter**, **object**, **phenomenon**, [**something**](sonja.md#lesson-2), **thing**; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *something's* |
 | <img src="musi/pona/ike.png" height="50" title="ilkea"><br>**ike** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bad**, [**harmful**](sonja.md#toki-pona-proverbs), [**needless**](sonja.md#famous-quotations), **negative**; (⇐ *akesi*) [**hostile**](sonja.md#famous-quotations): (*toki ike* ⇐ *~~powe~~*) *to deceive*; (*~~sin~~ ike*) **irrelevant**, **non-essential**; <br>ɴᴏᴜɴ [**bad things**](sonja.md#toki-pona-proverbs), [**evil**](sonja.md#toki-pona-proverbs), [**fault**](sonja.md#toki-pona-proverbs), [**negativity**](sonja.md#toki-pona-proverbs), [**non-essentials**](sonja.md#famous-quotations) |
 | <img src="musi/pona/ilo.png" height="50" title="ilo"><br>**ilo** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *pona*) <br>ɴᴏᴜɴ **device**, **implement**, **machine**, **tool** |
-| <img src="musi/pona/insa.png" height="50" title="insait"><br>**insa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *central*; *inner* <br>ɴᴏᴜɴ **centre**: (*lon insa*) **between**, (*lon ~~insa~~*) [**(tangentially) between**](sonja.md#famous-quotations); **inside**: (*lon insa*) [**within**](sonja.md#toki-pona-proverbs), (*lon ~~insa~~*) [**in**](sonja.md#lesson-8) <br>[**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *internal* <br>ɴᴏᴜɴ **content** |
+| <img src="musi/pona/insa.png" height="50" title="insait"><br>**insa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *central*; *inner* <br>ɴᴏᴜɴ **centre**: (*lon insa*) **between**, (*lon ~~insa~~*) [**(tangentially) between**](sonja.md#famous-quotations); **inside**: (*lon insa*) [**within**](sonja.md#toki-pona-proverbs), (*lon ~~insa~~*) [**in**](sonja.md#lesson-8) |
+| | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *internal* <br>ɴᴏᴜɴ **content** |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *intermediary*; (⇐ *nasin*) *connecting*, *continuous*  <br>ɴᴏᴜɴ **internal organ**: **stomach**, [**womb**](sonja.md#lesson-15); (*~~nasin pi~~ insa palisa*) *joint*; (⇐ *nasin*) *connection* <br>ᴠᴇʀʙ (⇐ *nasin*) *to connect* |
 | <img src="musi/pona/jaki.png" height="50" title="jaki"><br>**jaki** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter*, **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary**, [**yucky**](sonja.md#lesson-1) <br>ɴᴏᴜɴ *dirt*, *poison*, *waste*; (⇐ *~~apeja~~*) *guilt*, *shame*: (*jaki e … lon insa lawa* ⇐ *~~apeja e …~~*) *to condemn* |
 | <img src="musi/pona/jan.png" height="50" title="jan"><br>**jan** | [**ɴᴏᴜɴ**](#noun) <br>ɴᴏᴜɴ [**folks**](sonja.md#toki-pona-proverbs), [**guy**](sonja.md#lesson-9), **human being**, **person**/[**people**](sonja.md#lesson-9), **somebody**; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**somebody's**](sonja.md#toki-pona-proverbs) |
@@ -92,7 +93,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/mije.png" height="50" title="mies"><br>**mije** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴘᴇʀꜱᴏɴ**](#person) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* <br>ɴᴏᴜɴ **male**, **man**, **masculine person**; **husband** |
 | <img src="musi/pona/moku.png" height="50" title="mogu"><br>**moku** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to consume**, **drink**, **ingest**, **swallow**; **eat**; <br>ɴᴏᴜɴ [**the act of eating**](sonja.md#lesson-5) <br>ɴᴏᴜɴ [**food**](sonja.md#lesson-5) |
 | <img src="musi/pona/moli.png" height="50" title="muri"><br>**moli** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**, (*~~kama~~ moli*) **dying** |
-| <img src="musi/pona/monsi.png" height="50" title="mon-ĉi"><br>**monsi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *rear* <br>ɴᴏᴜɴ [**area behind**](sonja.md#lesson-15), **back**, **rear**: (*lon monsi*) **behind** <br>[**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dorsal* <br>ɴᴏᴜɴ **back**; *backbone*; <br>ᴠᴇʀʙ *to endorse* |
+| <img src="musi/pona/monsi.png" height="50" title="mon-ĉi"><br>**monsi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *rear* <br>ɴᴏᴜɴ [**area behind**](sonja.md#lesson-15), **back**, **rear**: (*lon monsi*) **behind** |
+| | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dorsal* <br>ɴᴏᴜɴ **back**; *backbone*; <br>ᴠᴇʀʙ *to endorse* |
 | <img src="musi/pona/mu.png" height="50" title="mu"><br>**mu** | [**ᴘᴀʀᴛɪᴄʟᴇ: ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onomatopeia) <br>ᴘᴀʀᴛɪᴄʟᴇ **(animal noise or communication)**; *(indifference)* <br>ᴀᴅᴠᴇʀʙ (*~~mu~~*) *-ish*, *sort-of*; [**cock-a-doodle-doo**](sonja.md#lesson-11), [**moo**](sonja.md#lesson-1); *blah* |
 | <img src="musi/pona/mun.png" height="50" title="mun"><br>**mun** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *orbiting*, *sky-walking* <br>ɴᴏᴜɴ **night sky object**: **moon**, **star** |
 | <img src="musi/pona/musi.png" height="50" title="amuzi"><br>**musi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** <br>ɴᴏᴜɴ *game*; <br>ᴠᴇʀʙ *to play with* |
@@ -140,7 +142,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/sike.png" height="50" title="sirkel"><br>**sike** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ɴᴏᴜɴ **round or circular thing**: **ball**, **circle**, **sphere**, **wheel**; **cycle**; *age*; *lap* → <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*sike ~~suno~~*) **of one year**, (*pi sike ~~suno~~ mute* ⇐ *~~majuna~~*) *old* <br>ᴠᴇʀʙ *to fulfil*: (*sike e ~~sike~~ suno*) *to have one's birthday* |
 | <img src="musi/pona/sin.png" height="50" title="ŝin"><br>**sin** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh**; (⇐ *~~namako~~*) **additional**, **another**, **extra**; *artificial*, *enhanced* |
 | <img src="musi/pona/sina.png" height="50" title="sina"><br>**sina** | [**ɴᴏᴜɴ**](#pronoun) <br>ɴᴏᴜɴ **you**/*thou*/*thee*/[**thyself**](sonja.md#toki-pona-proverbs); [**the person who**](sonja.md#famous-quotations); <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your*/[**thy**](sonja.md#toki-pona-proverbs) |
-| <img src="musi/pona/sinpin.png" height="50" title="cinpin"><br>**sinpin** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **foremost** <br>ɴᴏᴜɴ [**area in front**](sonja.md#lesson-15): (*lon sinpin*) [**in front of**](sonja.md#lesson-15) <br>[**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *upright* <br>ɴᴏᴜɴ **front**, **wall**; (*sinpin ~~sijelo~~*) [**chest**](sonja.md#lesson-15), (*sinpin ~~lawa~~*) **face**; <br>ᴠᴇʀʙ (⇐ *~~pake~~*) *to block*; *to confront*, *face* |
+| <img src="musi/pona/sinpin.png" height="50" title="cinpin"><br>**sinpin** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **foremost** <br>ɴᴏᴜɴ [**area in front**](sonja.md#lesson-15): (*lon sinpin*) [**in front of**](sonja.md#lesson-15) |
+| | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *upright* <br>ɴᴏᴜɴ **front**, **wall**; (*sinpin ~~sijelo~~*) [**chest**](sonja.md#lesson-15), (*sinpin ~~lawa~~*) **face**; <br>ᴠᴇʀʙ (⇐ *~~pake~~*) *to block*; *to confront*, *face* |
 | <img src="musi/pona/sitelen.png" height="50" title="ŝilderen"><br>**sitelen** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ *to draw*, *indicate*, *project*, *represent*, *sculpture* <br>ɴᴏᴜɴ **image**, **picture**, *projection*, **representation**, *sculpture*, **symbol**, **mark**, **writing** |
 | <img src="musi/pona/sona.png" height="50" title="ĉodna"><br>**sona** | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>***TODO*** ᴘʀᴇ-ᴠᴇʀʙ **to know how to** <br>ᴠᴇʀʙ **to be skilled in**; [**to be knowledgeable of**](sonja.md#lesson-5), **be wise about**, **have information on**, **know**, (*~~toki e~~ sona*) [**testify**](sonja.md#short-obligatory-prayer) <br>ɴᴏᴜɴ [**insight**](sonja.md#writings-of-baháulláh), *knowledge*, [**wisdom**](sonja.md#toki-pona-proverbs) |
 | <img src="musi/pona/soweli.png" height="50" title="ĉoveli"><br>**soweli** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *warm-blooded*; (⇒ *pona* ⇒ *suwi*) <br>ɴᴏᴜɴ *cute animal*; **animal**, **beast**, **land mammal**; [**badger**](sonja.md#lesson-12), [**hare**](sonja.md#lesson-18), [**moose**](sonja.md#lesson-17); (⇐ *~~kijetesantakalu~~*) *Procyonidae*; [**meat**](sonja.md#lesson-5) |
@@ -421,7 +424,7 @@ You can convert any ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ into an ᴀᴅᴊᴇᴄᴛɪ�
 * *awen*, *kama* — *open*, *pini* + [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb)
 * *insa* — *ma*
 * *lawa*, *luka* — *noka*
-* *monsi* — *sinpin*
+* *monsi* — *sinpin* + [ᴛʜɪɴɢ](#thing)
 * *nasin* — *nanpa*, *tenpo*
 * *poka* — *weka*
 
@@ -632,41 +635,4 @@ One can use **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**s as ᴀᴅᴠᴇʀʙs or ꜱᴇ�
 | ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ ala | mi sona ala toki. |
 |:-|:-|
 | ᴘᴀʀᴛɪᴄʟᴇ *(negation)* → <br>ᴀᴅᴠᴇʀʙ *not* | *I don't know how to talk.* |
-
-## Appendix: Phrases and Sentences
-
-### Phrases
-
-Nouns, adjectives and prepositions are the building blocks of phrases. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* consists of the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *friendly* + the ɴᴏᴜɴ *person*. Noun phrases act like nouns. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* can be replaced with the ɴᴏᴜɴ *friend*.
-
-Adjective phrases act like adjectives. For example, the ᴀᴅᴊᴇᴄᴛɪᴠᴇ ᴘʜʀᴀꜱᴇ *very friendly* consisting of the ᴀᴅᴠᴇʀʙ *very* and the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *friendly* can be replaced with the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *affectionate*.
-
-In combination with a noun phrase, prepositions form phrases that act like adjectives or adverbs. For example, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ *on the inside* consists of the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *on* and its argument, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the inside*, and can be replaced with the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner*. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the light on the inside* acts like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the inner light*.
-
-#### Conjunctions
-
-Conjunctions combine two phrases into one. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a woman or a man* consists of the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a woman*, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ *or*, and the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a man* and acts like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *an adult*.
-
-#### Onomatopeia
-
-Onomatopeia can be added to a noun phrase. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the name "Sonja"* has the ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ *"Sonja"* added to the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the name*, indicating that *the name* in question has the sound *"Sonja"*. Onomatopeia can act like nouns. For example, the ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ *"Sonja"* can act like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the name "Sonja"*, and the ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ *"moo"* can act like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the sound "moo"*.
-
-### Sentences
-
-Phrases are the building blocks of sentences (with a little help from markers). Typically, sentences have a subject and a predicate. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend is coming* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ + the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *coming* (with a little help from the ᴍᴀʀᴋᴇʀ *is*) as the ᴘʀᴇᴅɪᴄᴀᴛᴇ. Adjectives with predicate markers act like verbs. For example, the ᴘʀᴇᴅɪᴄᴀᴛᴇ *is coming* can be replaced with the ᴠᴇʀʙ *comes*, so the ꜱᴇɴᴛᴇɴᴄᴇ *a friend is coming* acts like the ꜱᴇɴᴛᴇɴᴄᴇ *a friend comes*.
-
-#### Objects
-
-Verbs can have noun phrases as their argument, i.e. the sentence's object. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend bought a bicycle* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ, the ᴠᴇʀʙ *bought* as the ᴘʀᴇᴅɪᴄᴀᴛᴇ, and the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a bicycle* as the ᴏʙᴊᴇᴄᴛ.
-
-Verbs with an object, like the ᴠᴇʀʙ *bought*, are called "transitive" — in contrast to "intransitive" verbs without object, like the ᴠᴇʀʙ *comes*.
-
-Verbs can have prepositional phrases as their secondary argument, i.e. the sentence's indirect object. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend bought a bicycle for her son* has the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ *for her son* with the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *her son* as the ɪɴᴅɪʀᴇᴄᴛ ᴏʙᴊᴇᴄᴛ.
-
-(In contrast to a sentence's indirect object, a verb's primary argument is also called "direct" object. The indirect object can be used without preposition before the direct object, so the ꜱᴇɴᴛᴇɴᴄᴇ *she bought a bicycle for her son* acts like the ꜱᴇɴᴛᴇɴᴄᴇ *she bought her son a bicycle*.)
-
-#### Auxiliaries
-
-Auxiliary verbs (or "pre-verbs") combine with a verb. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend can come* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ, and the ᴠᴇʀʙ ᴘʜʀᴀꜱᴇ *can come* as the ᴘʀᴇᴅɪᴄᴀᴛᴇ, consisting of the ᴀᴜxɪʟɪᴀʀʏ *can* and the ᴍᴀɪɴ ᴠᴇʀʙ *come*.
-
 

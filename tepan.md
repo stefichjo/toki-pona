@@ -546,3 +546,40 @@ A ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ can be used as a ɴᴏᴜɴ meaning the ᴘʀᴇ
 |:-|
 | *I don't know why.* |
 
+## Appendix: Phrases and Sentences
+
+### Phrases
+
+Nouns, adjectives and prepositions are the building blocks of phrases. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* consists of the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *friendly* + the ɴᴏᴜɴ *person*. Noun phrases act like nouns. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *friendly person* can be replaced with the ɴᴏᴜɴ *friend*.
+
+Adjective phrases act like adjectives. For example, the ᴀᴅᴊᴇᴄᴛɪᴠᴇ ᴘʜʀᴀꜱᴇ *very friendly* consisting of the ᴀᴅᴠᴇʀʙ *very* and the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *friendly* can be replaced with the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *affectionate*.
+
+In combination with a noun phrase, prepositions form phrases that act like adjectives or adverbs. For example, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ *on the inside* consists of the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *on* and its argument, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the inside*, and can be replaced with the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner*. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the light on the inside* acts like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the inner light*.
+
+#### Conjunctions
+
+Conjunctions combine two phrases into one. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a woman or a man* consists of the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a woman*, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ *or*, and the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a man* and acts like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *an adult*.
+
+#### Onomatopeia
+
+Onomatopeia can be added to a noun phrase. For example, the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the name "Sonja"* has the ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ *"Sonja"* added to the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the name*, indicating that *the name* in question has the sound *"Sonja"*. Onomatopeia can act like nouns. For example, the ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ *"Sonja"* can act like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the name "Sonja"*, and the ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ *"moo"* can act like the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *the sound "moo"*.
+
+### Sentences
+
+Phrases are the building blocks of sentences (with a little help from markers). Typically, sentences have a subject and a predicate. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend is coming* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ + the ᴀᴅᴊᴇᴄᴛɪᴠᴇ *coming* (with a little help from the ᴍᴀʀᴋᴇʀ *is*) as the ᴘʀᴇᴅɪᴄᴀᴛᴇ. Adjectives with predicate markers act like verbs. For example, the ᴘʀᴇᴅɪᴄᴀᴛᴇ *is coming* can be replaced with the ᴠᴇʀʙ *comes*, so the ꜱᴇɴᴛᴇɴᴄᴇ *a friend is coming* acts like the ꜱᴇɴᴛᴇɴᴄᴇ *a friend comes*.
+
+#### Objects
+
+Verbs can have noun phrases as their argument, i.e. the sentence's object. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend bought a bicycle* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ, the ᴠᴇʀʙ *bought* as the ᴘʀᴇᴅɪᴄᴀᴛᴇ, and the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a bicycle* as the ᴏʙᴊᴇᴄᴛ.
+
+Verbs with an object, like the ᴠᴇʀʙ *bought*, are called "transitive" — in contrast to "intransitive" verbs without object, like the ᴠᴇʀʙ *comes*.
+
+Verbs can have prepositional phrases as their secondary argument, i.e. the sentence's indirect object. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend bought a bicycle for her son* has the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ *for her son* with the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *her son* as the ɪɴᴅɪʀᴇᴄᴛ ᴏʙᴊᴇᴄᴛ.
+
+(In contrast to a sentence's indirect object, a verb's primary argument is also called "direct" object. The indirect object can be used without preposition before the direct object, so the ꜱᴇɴᴛᴇɴᴄᴇ *she bought a bicycle for her son* acts like the ꜱᴇɴᴛᴇɴᴄᴇ *she bought her son a bicycle*.)
+
+#### Auxiliaries
+
+Auxiliary verbs (or "pre-verbs") combine with a verb. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend can come* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ, and the ᴠᴇʀʙ ᴘʜʀᴀꜱᴇ *can come* as the ᴘʀᴇᴅɪᴄᴀᴛᴇ, consisting of the ᴀᴜxɪʟɪᴀʀʏ *can* and the ᴍᴀɪɴ ᴠᴇʀʙ *come*.
+
+
