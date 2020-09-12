@@ -12,12 +12,11 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ## Terminology
 
-ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇs are sometimes called ɴᴏᴜɴ-ɢʀᴏᴜᴘs. ᴀᴜxɪʟɪᴀʀʏ ᴠᴇʀʙs are called ᴘʀᴇ-ᴠᴇʀʙs.
+ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs are sometimes called ɴᴏᴜɴ ɢʀᴏᴜᴘs. ᴀᴜxɪʟɪᴀʀʏ ᴠᴇʀʙs are called ᴘʀᴇ-ᴠᴇʀʙs.
 
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
-| [**mije**](#lesson-11) | ɴᴏᴜɴ-ɢʀᴏᴜᴘ | ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ |
-| [**kama**](#lesson-13) | ᴘʀᴇ-ᴠᴇʀʙ | ᴀᴜxɪʟɪᴀʀʏ |
+| [**mije**](#lesson-11) | ɴᴏᴜɴ ɢʀᴏᴜᴘ | ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ |
 
 Since ɴᴏᴜɴs and ᴘʀᴏɴᴏᴜɴs are indistinguishable in Toki Pona, they are both called ɴᴏᴜɴs.
 
@@ -401,9 +400,7 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 
 | pi |
 |:-|
-| *(divides a second ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ that describes a first ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ)* |
-
-***TODO*** of good
+| *(divides a second ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ that describes a first ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ)* |
 
 | mu! |
 |:-|
