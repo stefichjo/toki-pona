@@ -2,11 +2,9 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-![o pilin pona o pu](sitelen/kulupu/nasin-toki/pu/o-pilin-pona-o-pu.jpg)
-
 ## Grammar
 
-| [Toki Pona Word Classes, Parts of Speech and Dictionary](nasin-nimi.md) |
+| [Parts of Speech, Word Classes and Dictionary](nasin-nimi.md) |
 |:-|
 | |
 | [Community Toki Pona (ꜱᴏɴᴊᴀ)](sonja.md) |
@@ -14,6 +12,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [Traditional Toki Pona (ᴘɪᴊᴇ)](pije.md) |
 | [Dialectal Toki Pona (ᴋɪᴘᴏ)](kipo.md) |
 
+[o pilin pona o pu](sitelen/kulupu/nasin-toki/pu/o-pilin-pona-o-pu.jpg)
 
 ## Examples
 
