@@ -19,16 +19,16 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 * [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
   * [**ᴍᴀʀᴋᴇʀ**](#marker): [**ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ**](#mood-marker), [**ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#case-marker)
   * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
-  * [**ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onomatopeia): **ɴᴀᴍᴇ**, **ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**
+  * [**ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onomatopeia): [**ɴᴀᴍᴇ**](#name), [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection)
 
 ## Dictionary
 *(nimi ale)*
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-:|:-|
-| <img src="musi/pona/a.png" height="50" title="ha"><br>**a** | [**ᴘᴀʀᴛɪᴄʟᴇ: ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onomatopeia) <br>ᴘᴀʀᴛɪᴄʟᴇ (⇐ *~~kin~~*) **(emphasis, emotion or confirmation)**, [**(emotion word)**](sonja.md#lesson-10) <br>ᴀᴅᴠᴇʀʙ (⇐ *~~kin~~*) *indeed*, [**so**](sonja.md#lesson-10); (*sama la … a* ⇐ *~~kin~~*) *still*, (*sin la … a* ⇐ *~~kin~~*) *too*; [**ha**](sonja.md#lesson-10), [**wow**](sonja.md#lesson-10), [**yay**](sonja.md#lesson-13); (⇒ *lon*) |
+| <img src="musi/pona/a.png" height="50" title="ha"><br>**a** | [**ᴘᴀʀᴛɪᴄʟᴇ: ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ (⇐ *~~kin~~*) **(emphasis, emotion or confirmation)**, [**(emotion word)**](sonja.md#lesson-10) <br>ᴀᴅᴠᴇʀʙ (⇐ *~~kin~~*) *indeed*, [**so**](sonja.md#lesson-10); (*sama la … a* ⇐ *~~kin~~*) *still*, (*sin la … a* ⇐ *~~kin~~*) *too*; [**ha**](sonja.md#lesson-10), [**wow**](sonja.md#lesson-10), [**yay**](sonja.md#lesson-13); (⇒ *lon*) |
 | <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*; *monstrous* (⇐ *~~monsuta~~*): (*akesi e … lon insa lawa* ⇐ *~~monsuta e …~~*) *to fear*; (⇒ *ike*) <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile** |
-| <img src="musi/pona/ala.png" height="50" title="ara"><br>**ala** | [**ᴘᴀʀᴛɪᴄʟᴇ: ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onomatopeia) <br>ᴘᴀʀᴛɪᴄʟᴇ *(negation)* <br>ᴀᴅᴠᴇʀʙ **not**; **no** <br>ɴᴏᴜɴ [**nothingness**](sonja.md#lesson-6) |
+| <img src="musi/pona/ala.png" height="50" title="ara"><br>**ala** | [**ᴘᴀʀᴛɪᴄʟᴇ: ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ *(negation)* <br>ᴀᴅᴠᴇʀʙ **not**; **no** <br>ɴᴏᴜɴ [**nothingness**](sonja.md#lesson-6) |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**0**](sonja.md#lesson-12) <br>ɴᴏᴜɴ [**zero**](sonja.md#famous-quotations) |
 | <img src="musi/pona/alasa.png" height="50" title="a-la-ŝas"><br>**alasa** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to hunt**, **forage** <br>ɴᴏᴜɴ *prey* |
 | <img src="musi/pona/ale.png" height="50" title="ale"><br>**ale** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) ⇐ *~~ali~~* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ  (*~~mute~~ ale*) **all**, **every**; (*~~wan~~ ale*) **all** <br>ɴᴏᴜɴ **everything**; (⇒ *ma*) |
@@ -98,13 +98,13 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/moli.png" height="50" title="muri"><br>**moli** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**, (*~~kama~~ moli*) **dying** |
 | <img src="musi/pona/monsi.png" height="50" title="mon-ĉi"><br>**monsi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *rear* <br>ɴᴏᴜɴ [**area behind**](sonja.md#lesson-15), **back**, **rear**: (*lon monsi*) **behind** |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dorsal* <br>ɴᴏᴜɴ **back**; *backbone*; <br>ᴠᴇʀʙ *to endorse* |
-| <img src="musi/pona/mu.png" height="50" title="mu"><br>**mu** | [**ᴘᴀʀᴛɪᴄʟᴇ: ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onomatopeia) <br>ᴘᴀʀᴛɪᴄʟᴇ **(animal noise or communication)**; *(indifference)* <br>ᴀᴅᴠᴇʀʙ (*~~mu~~*) *-ish*, *sort-of*; [**cock-a-doodle-doo**](sonja.md#lesson-11), [**moo**](sonja.md#lesson-1); *blah* |
+| <img src="musi/pona/mu.png" height="50" title="mu"><br>**mu** | [**ᴘᴀʀᴛɪᴄʟᴇ: ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ **(animal noise or communication)**; *(indifference)* <br>ᴀᴅᴠᴇʀʙ (*~~mu~~*) *-ish*, *sort-of*; [**cock-a-doodle-doo**](sonja.md#lesson-11), [**moo**](sonja.md#lesson-1); *blah* |
 | <img src="musi/pona/mun.png" height="50" title="mun"><br>**mun** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *orbiting*, *sky-walking* <br>ɴᴏᴜɴ **night sky object**: **moon**, **star** |
 | <img src="musi/pona/musi.png" height="50" title="amuzi"><br>**musi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** <br>ɴᴏᴜɴ *game*; <br>ᴠᴇʀʙ *to play with* |
 | <img src="musi/pona/mute.png" height="50" title="multe"><br>**mute** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**3+**](sonja.md#lesson-12), [**20**](sonja.md#lesson-12), **a lot**, **many**, **several**; <br>ᴀᴅᴠᴇʀʙ **much**, **very**; (*mute ~~sin~~*) **more**; <br>ᴠᴇʀʙ [**to multiply**](sonja.md#toki-pona-proverbs) <br>ɴᴏᴜɴ *amount*, **quantity** |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇐ *~~tuli~~*) *3*, *three*; <br>ɴᴏᴜɴ (⇒ *kulupu*) |
 | <img src="musi/pona/nanpa.png" height="50" title="namba"><br>**nanpa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *to be one's turn* <br>ɴᴏᴜɴ *one's turn*; (*nanpa wan* ⇐ *sewi* ⇐ *lawa*) *main*; *priority*; (*~~nimi~~ nanpa*) **numbers**; <br>ᴠᴇʀʙ *to iterate*; *count*; *calculate* |
-| | [**ɴᴀᴍᴇ**](#onomatopeia) <br>ᴘᴀʀᴛɪᴄʟᴇ **(ordinal number)**, **-th** |
+| | [**ᴘᴀʀᴛɪᴄʟᴇ: ɴᴀᴍᴇ**](#name) <br>ᴘᴀʀᴛɪᴄʟᴇ **(ordinal number)**, **-th** |
 | <img src="musi/pona/nasa.png" height="50" title="nasau"><br>**nasa** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **strange**, [**unconventional**](sonja.md#toki-pona-proverbs), **unusual**; (*~~pi sona~~ nasa*) **crazy**, **foolish**; (*~~pi pilin~~ nasa*) **drunk**, **intoxicated** |
 | <img src="musi/pona/nasin.png" height="50" title="naĉin"><br>**nasin** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *insa*) <br>ɴᴏᴜɴ (⇒ *insa*); *dimension*; *passage*, **path**, **road**, [**street**](sonja.md#lesson-9), **way**; *direction*; **custom**, **doctrine**, **method**, [**system**](sonja.md#preface), [**way of doing things**](sonja.md#toki-pona-proverbs); <br>ᴠᴇʀʙ (⇒ *insa*) |
 | <img src="musi/pona/nena.png" height="50" title="nena"><br>**nena** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *convex*, *full*, *outstanding*, *thick* <br>ɴᴏᴜɴ (⇐ *~~kapa~~*) **bump**, **hill**, **mountain**, **protuberance**; **button**; (*nena ~~pi sinpin lawa~~*) **nose** |
@@ -136,7 +136,7 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/poki.png" height="50" title="bokis"><br>**poki** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **bag**, **bowl**, **box**, **container**, **cup**, **cupboard**, **drawer**, **vessel**; *bladder*; <br>ᴠᴇʀʙ *to contain* |
 | <img src="musi/pona/pona.png" height="50" title="bona"><br>**pona** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**beneficial**](sonja.md#toki-pona-proverbs), [**beautiful**](sonja.md#toki-pona-proverbs), **good**: [**of good**](sonja.md#lesson-11), [**great**](sonja.md#toki-pona-proverbs), [**OK**](sonja.md#toki-pona-proverbs), **positive**, [**right**](sonja.md#lesson-14); **friendly**, **peaceful**; (⇒ *suwi* ⇐ *soweli*); (⇐ *ilo*) **useful**; (⇐ *lili* ⇐ *~~pasila~~*) *basic*, *elementary*, *primitive*, **simple**; <br>ᴠᴇʀʙ [**to improve**](sonja.md#lesson-6), [**tidy up**](sonja.md#lesson-18); <br>ɴᴏᴜɴ [**good**](sonja.md#lesson-10), [**peace**](sonja.md#lesson-10), [**simplicity**](sonja.md#famous-quotations), [**sophistication**](sonja.md#famous-quotations) |
 | <img src="musi/pona/pu.png" height="50" title="buk"><br>**pu** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (⇒ *sama* ⇒ *lon*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *compatible*, *compliant*; (*pu ~~lipu Pu~~*) **interacting with the official Toki Pona book** |
-| | [**ᴘᴀʀᴛɪᴄʟᴇ: ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onomatopeia) <br>ᴘᴀʀᴛɪᴄʟᴇ *name of the official Toki Pona book*: (*lipu Pu*) *the official Toki Pona book*, *Pu* |
+| | [**ᴘᴀʀᴛɪᴄʟᴇ: ɴᴀᴍᴇ**](#name) <br>ᴘᴀʀᴛɪᴄʟᴇ *name of the official Toki Pona book*: (*lipu Pu*) *the official Toki Pona book*, *Pu* |
 | <img src="musi/pona/sama.png" height="50" title="sama"><br>**sama** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **as**, **like**; (⇒ *lon* ⇐ *pu*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **same**, **similar**; (*~~pi kulupu~~ sama*) **fellow**, *in common*, *shared*: (*jan ~~pi kulupu~~ sama*) **peer**, (*jan ~~pi kulupu mama~~ sama* ⇐ *~~pata~~*) **sibling**; (⇐ *kulupu*) **each other**, *reciprocal*; *-self*, *-selves*; <br>ɴᴏᴜɴ [**harmony**](sonja.md#famous-quotations) |
 | <img src="musi/pona/seli.png" height="50" title="ĉeli"><br>**seli** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot*, *warm*; *cooked* <br>ɴᴏᴜɴ **chemical reaction**, **fire**, **heat source**; **cooking element**; <br>ᴠᴇʀʙ [**to cook**](sonja.md#lesson-18) |
 | <img src="musi/pona/selo.png" height="50" title="ŝelo"><br>**selo** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ [**form**](sonja.md#preface), **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary**; <br>ᴠᴇʀʙ (⇒ *pini*) |
@@ -449,7 +449,7 @@ You can convert any ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ into an ᴀᴅᴊᴇᴄᴛɪ�
 |:-|
 | [ᴍᴀʀᴋᴇʀ](#marker): [ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ](#mood), [ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ](#case) |
 | [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction): [ᴀɴᴅ](#and), [ᴏʀ](#or), [ɪꜰ-ᴛʜᴇɴ](#if-then) |
-| [ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ](#onomatopeia): ɴᴀᴍᴇ, ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ |
+| [ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ](#onomatopeia): [ɴᴀᴍᴇ](#name), [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) |
 
 ᴘᴀʀᴛɪᴄʟᴇs can only be used as ᴘᴀʀᴛɪᴄʟᴇs. (Only [ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ](#onomatopeia)s can be both ᴘᴀʀᴛɪᴄʟᴇs and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s.)
 
@@ -477,7 +477,7 @@ The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **li** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of 
 |:-|:-|
 | *She is a parent.* | *She is not a parent.* |
 
-When there is enough context, a ꜱᴇɴᴛᴇɴᴄᴇ can be reduced to its ᴍᴀɪɴ ᴠᴇʀʙ or even to the [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#onomatopeia) that modifies it.
+When there is enough context, a ꜱᴇɴᴛᴇɴᴄᴇ can be reduced to its ᴍᴀɪɴ ᴠᴇʀʙ or even to the [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) that modifies it.
 
 | ona li mama anu seme? | ona li mama. → mama. | ona li mama ala. → mama ala. → ala. |
 |:-|:-|:-|
@@ -618,7 +618,10 @@ Before **la**, the [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) **ni:** in fron
 ### ONOMATOPEIA
 *([nimi lili](#particle) poka)*
 
-* *mu* — *a*, *ala*
+| |
+|:-|
+| [ɴᴀᴍᴇ](#name) |
+| [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) |
 
 ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀs are ɴᴀᴍᴇs and ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs. They can be both ᴘᴀʀᴛɪᴄʟᴇs and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s when used without **kalama**.
 
@@ -626,27 +629,21 @@ Before **la**, the [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) **ni:** in fron
 |:-|:-|
 | *Her name goes "Sonja".* → *Her name is Sonja.* | *She heard a loud bleat.* |
 
+#### NAME
+
 [ɴᴜᴍʙᴇʀ](#number)s can be used as ɴᴀᴍᴇs after **nanpa**. (Plus, the [ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#noun-adjective) **nanpa** itself can be used as a ɴᴀᴍᴇ.)
 
 | sina nanpa wan. | toki nanpa wan |
 |:-|:-|
 | *You're number one.* | *the first language* |
 
-One can use ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs as ᴀᴅᴠᴇʀʙs or ꜱᴇɴᴛᴇɴᴄᴇs.
+#### INTERJECTION
 
-| a! |
-|:-|
-| *Wow!* |
+* *mu* — *a*, *ala*
 
-ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs can be modified by [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#onomatopeia)s.
+ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs and ᴘʀᴇ-ᴠᴇʀʙs can be modified by ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs.
 
-| o kepeken ala ilo ike. |
-|:-|
-| *Don't use bad tools.* |
-
-ᴘʀᴇ-ᴠᴇʀʙs can be modified by [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#onomatopeia).
-
-| ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ ala | mi sona ala toki. |
-|:-|:-|
-| ᴘᴀʀᴛɪᴄʟᴇ *(negation)* → <br>ᴀᴅᴠᴇʀʙ *not* | *I don't know how to talk.* |
+| ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ a! | o kepeken ala ilo ike. | mi sona ala toki. |
+|:-|:-|:-|
+| ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ *Wow!* | *Don't use bad tools.* | *I don't know how to talk.* |
 
