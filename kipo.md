@@ -42,7 +42,7 @@ When ᴋɪᴘᴏ turns a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs into a ɴᴏᴜɴ, the �
 |:-|:-|:-|
 | *She sees herself.*/*They see each other.* | **ona li lukin e sama.** | **ona li lukin e ona sama.** |
 
-ᴋɪᴘᴏ describes **pu** (whithout calling it *official*) as *the Toki Pona book (possibly derogatorily)*. (Apparently, **pu** might be used as a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ meaning *following*, *according to*. As a noun, it could then mean *what is being followed* and so on.)
+ᴋɪᴘᴏ describes **pu** (whithout calling it *official*) as *the Toki Pona book (possibly derogatorily)*. (Apparently, **pu** might be used as a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ meaning *following*, *according to*. As a noun, it could then mean *what is being followed* and so on. Alternatively, **pu** can be glossed as a noun meaning *the official Toki Pona book*, and by means of a rule that any noun can be converted into an adjective meaning "interacting with ...", the adjective **pu** means *interacting with the official Toki Pona book*).
 
 | | ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|

@@ -77,7 +77,7 @@ Animals are expressed by means of **tijelo**.
 #### Toki Bona
 *([Toki Pona Sequel](#sequels) with Voiced Consonants)*
 
-The consonant starting off a ᴍᴏᴅɪꜰɪᴇʀ is voiced.
+The consonant starting off a ᴀᴅᴊᴇᴄᴛɪᴠᴇ is voiced.
 
 | | ***Toki Pona*** | ***Toki Bona*** |
 |:-|:-|:-|
@@ -431,11 +431,11 @@ In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
-| <img src="musi/pona/sin.png" height="50" title="ŝin"> | [**ᴍᴏᴅɪꜰɪᴇʀ**](#nasin-nimi.md##modifier) *jaki* — **sin**, *suwi* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh** |
+| <img src="musi/pona/sin.png" height="50" title="ŝin"> | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#nasin-nimi.md##modifier) *jaki* — **sin**, *suwi* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh** |
 | <img src="musi/pona/namako.png" height="50" title="namak"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#nasin-nimi.md#preposition) **namako** — *taso* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ [*in addition to*, *with*](tepan.md#preposition) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **additional**, **another**, **extra** |
 | | |
 | <img src="musi/pona/lukin.png" height="50" title="luk-im"> | [**ᴠᴇʀʙ**](#verb) **lukin** <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** |
-| <img src="musi/pona/lukin.png" height="50" title="luk-im"> | [**ɴᴏᴜɴ**](#noun) **oko** <br>ɴᴏᴜɴ **eye** |
+| <img src="musi/pona/oko.png" height="50" title="oko"> | [**ɴᴏᴜɴ**](#noun) **oko** <br>ɴᴏᴜɴ **eye** |
 
 ## Toki Nasa
 *([Toki Pona Spin-Off](#spin-offs) with un-pona predicates and modifiers)*
@@ -504,7 +504,7 @@ When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be r
 
 ## Toki Ike
 
-ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs and [**ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ**](#subordinate-clause)s can be used as ᴍᴏᴅɪꜰɪᴇʀs. (Cf. [ᴘɪᴊᴇ](pije.md#pi) and [ᴋɪᴘᴏ](kipo.md#pi).)
+ꜱᴏᴜɴᴅ ᴘᴀʀᴛɪᴄʟᴇs and [**ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ**](#subordinate-clause)s can be used as ᴀᴅᴊᴇᴄᴛɪᴠᴇs. (Cf. [ᴘɪᴊᴇ](pije.md#pi) and [ᴋɪᴘᴏ](kipo.md#pi).)
 
 | toki:nanpa:wan → toki *pi* nanpa:wan | meli-pimeja: lon sinpin-tomo → meli-pimeja *pi* lon sinpin-tomo |
 |:-|:-|
@@ -528,7 +528,7 @@ Any ᴠᴇʀʙ can be used as an ᴀᴜxɪʟɪᴀʀʏ.
 |:-|
 | *I feel like sleeping.* |
 
-An **e**-ᴘʜʀᴀꜱᴇ can be turned into a **pi**-ᴘʜʀᴀꜱᴇ (or a ᴍᴏᴅɪꜰɪᴇʀ).
+An **e**-ᴘʜʀᴀꜱᴇ can be turned into a **pi**-ᴘʜʀᴀꜱᴇ (or a ᴀᴅᴊᴇᴄᴛɪᴠᴇ).
 
 | mi ante e toki pi sitelen-tawa. → mi ante-*toki* *e* sitelen-tawa. |
 |:-|
@@ -545,6 +545,12 @@ A ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ can be used as a ɴᴏᴜɴ meaning the ᴘʀᴇ
 | mi sona ala e *tan*. |
 |:-|
 | *I don't know why.* |
+
+You can convert any ɴᴏᴜɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *interacting with*.
+
+| mi kala. | mi jan. |
+|:-|:-|
+| *I'm interacting with fish.* = *I'm fishing.* | *I'm interacting with people.* = *I'm socializing.* |
 
 ## Appendix: Phrases and Sentences
 
