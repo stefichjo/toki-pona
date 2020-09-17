@@ -12,7 +12,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [Traditional Toki Pona (ᴘɪᴊᴇ)](pije.md) |
 | [Dialectal Toki Pona (ᴋɪᴘᴏ)](kipo.md) |
 
-[o pilin pona o pu](sitelen/kulupu/nasin-toki/pu/o-pilin-pona-o-pu.jpg)
+![o pilin pona o pu](sitelen/kulupu/nasin-toki/pu/o-pilin-pona-o-pu.jpg)
 
 ## Examples
 
