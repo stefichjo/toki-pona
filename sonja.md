@@ -1,4 +1,4 @@
-# Community Toki Pona ([ꜱᴏɴᴊᴀ](http://www.amazon.com/gp/product/0978292308))
+# Official Toki Pona ([ꜱᴏɴᴊᴀ](http://www.amazon.com/gp/product/0978292308))
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
