@@ -26,7 +26,7 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-:|:-|
-| <img src="musi/pona/a.png" height="50" title="ha"><br>**a** | [**ᴘᴀʀᴛɪᴄʟᴇ: ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ (⇐ *~~kin~~*) **(emphasis, emotion or confirmation)**, [**(emotion word)**](sonja.md#lesson-10) <br>ᴀᴅᴠᴇʀʙ (⇐ *~~kin~~*) *indeed*, [**so**](sonja.md#lesson-10); (*sama la … a* ⇐ *~~kin~~*) *still*, (*sin la … a* ⇐ *~~kin~~*) *too*; [**ha**](sonja.md#lesson-10), [**wow**](sonja.md#lesson-10), [**yay**](sonja.md#lesson-13); (⇒ *lon*) |
+| <img src="musi/pona/a.png" height="50" title="ha"><br>**a** | [**ᴘᴀʀᴛɪᴄʟᴇ: ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ (⇐ ᴄʟᴀꜱꜱɪᴄ *~~kin~~*) **(emphasis, emotion or confirmation)**, [**(emotion word)**](sonja.md#lesson-10) <br>ᴀᴅᴠᴇʀʙ [**so**](sonja.md#lesson-10); [**ha**](sonja.md#lesson-10), [**wow**](sonja.md#lesson-10), [**yay**](sonja.md#lesson-13); (*sama la … a* ⇐ ᴄʟᴀꜱꜱɪᴄ *~~kin~~*) *also*, (⇐ ᴄʟᴀꜱꜱɪᴄ *~~kin~~*) *indeed*, (*awen la … a* ⇐ ᴘɪᴊᴇ *~~kin~~*) *still*, (*sin la … a* ⇐ ᴄʟᴀꜱꜱɪᴄ *~~kin~~*) *too*; ᴛᴇᴘᴀɴ (⇒ ɴᴀᴘ *lon*) |
 | <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*; *monstrous* (⇐ *~~monsuta~~*): (*akesi e … lon insa lawa* ⇐ *~~monsuta e …~~*) *to fear*; (⇒ *ike*) <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile** |
 | <img src="musi/pona/ala.png" height="50" title="ara"><br>**ala** | [**ᴘᴀʀᴛɪᴄʟᴇ: ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ *(negation)* <br>ᴀᴅᴠᴇʀʙ **not**; **no** <br>ɴᴏᴜɴ [**nothingness**](sonja.md#lesson-6) |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**0**](sonja.md#lesson-12) <br>ɴᴏᴜɴ [**zero**](sonja.md#famous-quotations) |
