@@ -672,7 +672,7 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 
 | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|
-| **a** <br>ᴘᴀʀᴛɪᴄʟᴇ **(** [**emphasis, emotion**](#official-toki-pona-dictionary) **or confirmation)** | **a** <br>ᴘᴀʀᴛɪᴄʟᴇ **(emotion word), (emphasis or confirmation)** |
+| **a** <br>ᴘᴀʀᴛɪᴄʟᴇ **(**[**emphasis, emotion**](#official-toki-pona-dictionary) **or confirmation)** | **a** <br>ᴘᴀʀᴛɪᴄʟᴇ **(emotion word), (emphasis or confirmation)** |
 | **kalama** <br>[ᴠᴇʀʙ **to produce a sound**](#official-toki-pona-dictionary); **recite**, **utter aloud** | **kalama** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound** <br>ᴠᴇʀʙ **to recite**, **utter** **aloud** |
 | | |
 | **linja** <br>ɴᴏᴜɴ **long** [**and**](#official-toki-pona-dictionary) **flexible thing** | **linja** <br>ɴᴏᴜɴ **long flexible thing** |
