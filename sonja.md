@@ -600,15 +600,17 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 
 ### The Qur'an
 
+#### Chapter of Sincerity
+
 | sewi li wawa ale. |
 |:-|
 | *God is Independent of all.* |
 
-| ona li mama ala, li jo ala e mama. |
+| ona li mama ala, li jo ala e mama. ijo ala li sama ona. |
 |:-|
-| *[God] doesn't give birth, wasn't born.* |
+| *[God] doesn't give birth, wasn't born. Nothing is like [God].* |
 
-### The Ant's Chapter
+#### The Ant's Chapter
 
 ### Writings of Bahá'u'lláh
 
@@ -628,7 +630,7 @@ A *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ and **la** c
 |:-|
 | *Meditate upon this, O people of insight!* | 
 
-### Short Obligatory Prayer
+#### Short Obligatory Prayer
 
 | tenpo ni la mi sona e ni: mi anpa. sina wawa. … |
 |:-|
