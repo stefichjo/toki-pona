@@ -85,7 +85,7 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **arm**, [**fingers**](sonja.md#writings-of-baháulláh), **hand**, **tactile organ**; <br>ᴠᴇʀʙ *to touch* |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**5**](sonja.md#lesson-12), **five** <br>ɴᴏᴜɴ *quintet* |
 | <img src="musi/pona/lukin.png" height="50" title="luk-im"><br>**lukin** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ (⇐ *~~oko~~*) **eye**; <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** |
-| | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **try to**; (⇐ ᴋɪᴘᴏ *lukin*) [**to seek to**](sonja.md#lesson-13): (*lukin jo*) [**to look for**](sonja.md#errata) <br>ᴠᴇʀʙ *to care for* |
+| | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **try to**; (⇐ ᴋɪᴘᴏ *alasa*) [**to seek to**](sonja.md#lesson-13): (*lukin jo*) [**to look for**](sonja.md#errata) <br>ᴠᴇʀʙ *to care for* |
 | <img src="musi/pona/lupa.png" height="50" title="rupa"><br>**lupa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *concave*, *empty*, *hollow* <br>ɴᴏᴜɴ *cave*, **orifice**: (*lupa meli*) [**womb**](sonja.md#toki-pona-proverbs); (⇐ *open*) *entrance*, **hole**: (*lupa ~~tomo~~*) **door**, (*lupa ~~suno~~*) **window** |
 | <img src="musi/pona/ma.png" height="50" title="maa"><br>**ma** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *contextual*, *outside*; *firm*, *fixed* <br>ɴᴏᴜɴ **outdoors**: *context*, **world**; *area* (⇐ ale); (*~~sike~~ ma*) [**planet**](sonja.md#toki-pona-proverbs) <br>ᴠᴇʀʙ *to orient*, *tie* |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ɴᴏᴜɴ **earth**, **land**, **soil**; (*ma ~~jan~~*) **country**, **territory** |
