@@ -66,7 +66,7 @@ When ᴋɪᴘᴏ turns a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs into a ɴᴏᴜɴ, the �
 
 ## Content Words
 
-ᴋɪᴘᴏ often extends the meaning of an ᴀᴅᴊᴇᴄᴛɪᴠᴇ as a ɴᴏᴜɴ. In most cases, the intended meaning could be easily expressed adding a word or two before the ᴀᴅᴊᴇᴄᴛɪᴠᴇ.
+When ᴋɪᴘᴏ converts an ᴀᴅᴊᴇᴄᴛɪᴠᴇ to a ɴᴏᴜɴ, seemingly arbitrarily complex ideas may be implied.
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ/ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
