@@ -212,7 +212,7 @@ A ɴᴜᴍʙᴇʀ can be used like a ᴛʜɪɴɢ ɴᴏᴜɴ implying *mute pi ij
 |:-|:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two*: (*~~mute pi ijo~~ tu*) *pair* | *A singleton and a singleton are equal to a pair.* → *One plus one equals two.* |
 
-ɴᴜᴍʙᴇʀs are multiplied rather than added (not using ꜱᴏɴᴊᴀ's ["more complex and precise counting system"](sonja.md#lesson-12)).
+ɴᴜᴍʙᴇʀs are multiplied rather than added (not using ꜱᴏɴᴊᴀ's ["more complex and precise counting system"](pu.md#lesson-12)).
 
 | tu tu | tu en tu sama tu tu |
 |:-|:-|
@@ -434,7 +434,7 @@ In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *
 | <img src="musi/pona/sin.png" height="50" title="ŝin"> | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#nasin-nimi.md##modifier) *jaki* — **sin**, *suwi* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh** |
 | <img src="musi/pona/namako.png" height="50" title="namak"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#nasin-nimi.md#preposition) **namako** — *taso* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ [*in addition to*, *with*](tepan.md#preposition) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **additional**, **another**, **extra** |
 | | |
-| <img src="musi/pona/lukin.png" height="50" title="luk-im"> | [**ᴠᴇʀʙ**](#verb) **lukin** <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](sonja.md#preface), **watch** |
+| <img src="musi/pona/lukin.png" height="50" title="luk-im"> | [**ᴠᴇʀʙ**](#verb) **lukin** <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](pu.md#preface), **watch** |
 | <img src="musi/pona/oko.png" height="50" title="oko"> | [**ɴᴏᴜɴ**](#noun) **oko** <br>ɴᴏᴜɴ **eye** |
 
 ## Toki Nasa

@@ -7,7 +7,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | [Parts of Speech, Word Classes and Dictionary](nasin-nimi.md) |
 |:-|
 | |
-| [Official Toki Pona (ꜱᴏɴᴊᴀ)](sonja.md) |
+| [Official Toki Pona (ꜱᴏɴᴊᴀ)](pu.md) |
 | [Frontier Toki Pona (ᴛᴇᴘᴀɴ)](tepan.md) |
 | [Traditional Toki Pona (ᴘɪᴊᴇ)](pije.md) |
 | [Dialectal Toki Pona (ᴋɪᴘᴏ)](kipo.md) |
