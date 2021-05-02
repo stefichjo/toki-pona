@@ -166,7 +166,7 @@ This page compares ᴘɪᴊᴇ's style with ꜱᴏɴᴊᴀ's style or my persona
 
 ## awen, lukin, sona
 
-[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona12.php) never uses **awen**, **lukin** or **sona** as ᴀᴜxɪʟɪᴀʀʏ ᴠᴇʀʙs, but he uses **sona** for *to understand*.
+[ᴘɪᴊᴇ](http://tokipona.net/tp/janpije/okamasona12.php) never uses **awen**, **lukin** or **sona** as ᴘʀᴇ-ᴠᴇʀʙs, but he uses **sona** for *to understand*.
 
 | | ᴘɪᴊᴇ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|

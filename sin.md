@@ -340,7 +340,7 @@ Click [here](musi/sitelen-pona-musi.md) for more examples.
 |:--:|:--:|:--:|:--:| 
 | **mi lon tomo.** | **wawa li lon insa.** | **mi pana e kala tawa ona lon tomo.** | **tan seme la soweli wawa pimeja li moku e ona?** |
 
-ᴀᴜxɪʟɪᴀʀɪᴇs are written above.
+ᴘʀᴇ-ᴠᴇʀʙs are written above.
 
 | <img src="musi/pona/mi-kama-sona-e-toki-pona.png" height="75"> |
 |:--:| 
@@ -446,11 +446,9 @@ In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *
 |:-|
 | *Where did you put the clock next to?* |
 
-***TODO*** auxiliary = pre-verb
-***TODO*** only one pre-verb
 ***TODO*** pre-verbs can be used after pi: jan pi kama-sona = jan pi kama÷sona
 
-ᴀᴜxɪʟɪᴀʀɪᴇs can go between another ᴀᴜxɪʟɪᴀʀʏ and its ᴍᴀɪɴ ᴠᴇʀʙ.
+ᴘʀᴇ-ᴠᴇʀʙs can go between another ᴘʀᴇ-ᴠᴇʀʙ and its ᴍᴀɪɴ ᴠᴇʀʙ.
 
 | mi ' wile÷sona e toki-pona. → mi ' wile÷*kama*÷sona e toki-pona. |
 |:-|
@@ -476,7 +474,7 @@ A ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ can describe a *degree* or an 
 |:-|
 | *Jesus prayed: "My Father!"* |
 
-When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be reduced to its ᴘʀᴇᴅɪᴄᴀᴛᴇ (and the direct ᴏʙᴊᴇᴄᴛ can be omitted). Therefore, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs, ᴠᴇʀʙs and ᴀᴜxɪʟɪᴀʀɪᴇs can be used as ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs.
+When there is enough context, a ʀᴇʟᴀᴛɪᴠᴇ ᴄʟᴀᴜꜱᴇ can be reduced to its ᴘʀᴇᴅɪᴄᴀᴛᴇ (and the direct ᴏʙᴊᴇᴄᴛ can be omitted). Therefore, ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs, ᴠᴇʀʙs and ᴘʀᴇ-ᴠᴇʀʙs can be used as ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇs.
 
 | meli-pimeja: *lon* sinpin-tomo, li kute e kalama-musi. |
 |:-|
@@ -522,7 +520,7 @@ The ɴᴏᴜɴ-ᴘʜʀᴀꜱᴇ after **pi** can consist of a single word. **pi*
 |:-|
 | *I like watching movies.* |
 
-Any ᴠᴇʀʙ can be used as an ᴀᴜxɪʟɪᴀʀʏ.
+Any ᴠᴇʀʙ can be used as a ᴘʀᴇ-ᴠᴇʀʙ.
 
 | mi pilin e ni: mi wile÷lape. → mi *pilin*÷wile÷lape. |
 |:-|
@@ -584,8 +582,8 @@ Verbs can have prepositional phrases as their secondary argument, i.e. the sente
 
 (In contrast to a sentence's indirect object, a verb's primary argument is also called "direct" object. The indirect object can be used without preposition before the direct object, so the ꜱᴇɴᴛᴇɴᴄᴇ *she bought a bicycle for her son* acts like the ꜱᴇɴᴛᴇɴᴄᴇ *she bought her son a bicycle*.)
 
-#### Auxiliaries
+#### Pre-Verbs
 
-Auxiliary verbs (or "pre-verbs") combine with a verb. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend can come* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ, and the ᴠᴇʀʙ ᴘʜʀᴀꜱᴇ *can come* as the ᴘʀᴇᴅɪᴄᴀᴛᴇ, consisting of the ᴀᴜxɪʟɪᴀʀʏ *can* and the ᴍᴀɪɴ ᴠᴇʀʙ *come*.
+ᴘʀᴇ-ᴠᴇʀʙs combine with a ᴠᴇʀʙ. For example, the ꜱᴇɴᴛᴇɴᴄᴇ *a friend can come* has the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *a friend* as the ꜱᴜʙᴊᴇᴄᴛ, and the ᴠᴇʀʙ ᴘʜʀᴀꜱᴇ *can come* as the ᴘʀᴇᴅɪᴄᴀᴛᴇ, consisting of the ᴘʀᴇ-ᴠᴇʀʙ *can* and the ᴍᴀɪɴ ᴠᴇʀʙ *come*.
 
 
