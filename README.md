@@ -8,7 +8,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|
 | |
 | [Official Toki Pona (ꜱᴏɴᴊᴀ)](pu.md) |
-| [Frontier Toki Pona (ᴛᴇᴘᴀɴ)](tepan.md) |
+| [Frontier Toki Pona (ᴛᴇᴘᴀɴ)](sin.md) |
 | [Traditional Toki Pona (ᴘɪᴊᴇ)](pije.md) |
 | [Dialectal Toki Pona (ᴋɪᴘᴏ)](kipo.md) |
 

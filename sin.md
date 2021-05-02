@@ -241,7 +241,7 @@ Outside of ordinary ꜱᴇɴᴛᴇɴᴄᴇ structures, **sama** be used instead 
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-[***Enhanced Toki Pona***](#toki-namako) goes beyond [***Frontier Toki Pona***](tepan.md) and should therefore not be mixed with ordinary [***Toki Pona***](README.md). (Cf. [***Fictional Toki Pona***](toki-sin.md).)
+[***Enhanced Toki Pona***](#toki-namako) goes beyond [***Frontier Toki Pona***](sin.md) and should therefore not be mixed with ordinary [***Toki Pona***](README.md). (Cf. [***Fictional Toki Pona***](toki-sin.md).)
 
 ## Punctuation
 
@@ -432,7 +432,7 @@ In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-|:-|
 | <img src="musi/pona/sin.png" height="50" title="ŝin"> | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#nasin-nimi.md##modifier) *jaki* — **sin**, *suwi* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh** |
-| <img src="musi/pona/namako.png" height="50" title="namak"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#nasin-nimi.md#preposition) **namako** — *taso* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ [*in addition to*, *with*](tepan.md#preposition) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **additional**, **another**, **extra** |
+| <img src="musi/pona/namako.png" height="50" title="namak"> | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#nasin-nimi.md#preposition) **namako** — *taso* <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ [*in addition to*, *with*](sin.md#preposition) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **additional**, **another**, **extra** |
 | | |
 | <img src="musi/pona/lukin.png" height="50" title="luk-im"> | [**ᴠᴇʀʙ**](#verb) **lukin** <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](pu.md#preface), **watch** |
 | <img src="musi/pona/oko.png" height="50" title="oko"> | [**ɴᴏᴜɴ**](#noun) **oko** <br>ɴᴏᴜɴ **eye** |

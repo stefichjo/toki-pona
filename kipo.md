@@ -75,7 +75,7 @@ When ᴋɪᴘᴏ converts an ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ, seemi
 | *news* | **sin** | **toki (pi ijo sin)** |
 | *day* | **suno** | **tenpo suno** |
 
-When **jaki** and **pimeja** become ɴᴏᴜɴs, they appear as if an **ijo** went missing. Apparently, this makes sense, if they mean something primordial (from a human perspective) like **suno**, **sewi**, **seli** and so on. (Cf. [ᴛᴇᴘᴀɴ](tepan.md#thing).)
+When **jaki** and **pimeja** become ɴᴏᴜɴs, they appear as if an **ijo** went missing. Apparently, this makes sense, if they mean something primordial (from a human perspective) like **suno**, **sewi**, **seli** and so on. (Cf. [ᴛᴇᴘᴀɴ](sin.md#thing).)
 
 | | ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
