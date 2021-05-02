@@ -28,9 +28,6 @@ Additional ᴘʀᴇ-ᴠᴇʀʙs are not omitted.
 |:-|
 | *I'm ready to work.* |
 
-***TODO***
-* pilin (is not a preverb; think of **mi pilin utala** as **mi pilin e kama/wile utala** instead of **mi pilin wile utala**)
-
 ## Punctuation
 
 A coordinating *comma* between two ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can't be safely removed.

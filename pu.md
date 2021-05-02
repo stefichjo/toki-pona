@@ -107,6 +107,12 @@ When converting an ᴀᴅᴊᴇᴄᴛɪᴠᴇ with a ᴘʀᴇ-ᴠᴇʀʙ into a 
 |:-|:-|
 | *change* | *She changed something.* |
 
+Instead of using the ᴠᴇʀʙ **pilin** with a ɴᴏᴜɴ with an omitted ᴘʀᴇ-ᴠᴇʀʙ as its ᴏʙᴊᴇᴄᴛ, it is used as a ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇ.
+
+| mi pilin e kama pi ijo ike. → mi pilin ike. |
+|:-|
+| *I feel bad.* |
+
 ## Punctuation
 
 | |
