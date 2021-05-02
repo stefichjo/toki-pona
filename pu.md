@@ -85,7 +85,7 @@ As long as ɴᴀᴍᴇs are single words only (like [place names](#place-names))
 |:-|:-|:-|
 | [**ni: jan Melani li kama lon tomo mi**](#lesson-17) | ꜱᴇɴᴛᴇɴᴄᴇ | ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ |
 
-The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs before **la**) is also called ꜰʀᴀɢᴍᴇɴᴛ.
+The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ before **la**) is also called ꜰʀᴀɢᴍᴇɴᴛ.
 
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
@@ -101,6 +101,12 @@ Additional ᴘʀᴇ-ᴠᴇʀʙs are omitted.
 |:-|
 | *I have to learn.* → *I have to know.* |
 
+When converting an ᴀᴅᴊᴇᴄᴛɪᴠᴇ with a ᴘʀᴇ-ᴠᴇʀʙ into a ɴᴏᴜɴ or a ᴠᴇʀʙ, the ᴘʀᴇ-ᴠᴇʀʙ is omitted.
+
+| ~~kama~~ ante | ona li ~~kama~~ ante e ijo. |
+|:-|:-|
+| *change* | *She changed something.* |
+
 ## Punctuation
 
 | |
@@ -113,7 +119,7 @@ Additional ᴘʀᴇ-ᴠᴇʀʙs are omitted.
 
 A *colon* stands between a ɴᴏᴜɴ and a ꜱᴇɴᴛᴇɴᴄᴇ that the ɴᴏᴜɴ represents, forming a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ.
 
-| mi wile e ni: jan Melani li kama tawa tomo mi. |
+| mi wile e ni: jan Melani li kama lon tomo mi. |
 |:-|
 | *I want Mélanie to visit me.* |
 
@@ -660,7 +666,12 @@ A subordinating *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱ�
 
 | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|
-| **a** <br>ᴘᴀʀᴛɪᴄʟᴇ **(**[**emphasis, emotion**](#official-toki-pona-dictionary) **or confirmation)** | **a** <br>ᴘᴀʀᴛɪᴄʟᴇ **(emotion word), (emphasis or confirmation)** |
+| **a** <br>ᴘᴀʀᴛɪᴄʟᴇ **(**[**emphasis**, **emotion**](#official-toki-pona-dictionary) **or confirmation)** | **a** <br>ᴘᴀʀᴛɪᴄʟᴇ **(emotion word)**, **(emphasis or confirmation)** |
+| | |
+| **anpa** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**bowing down**, **downward,**](#official-toki-pona-dictionary) **humble**, **lowly**, **dependent** | **anpa** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **humble**, **lowly**, **dependent**: (*kama anpa*) **downward**; **bowing down** |
+| | |
+| **awen** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**, [**protected**, **safe**](#official-toki-pona-dictionary) **waiting**, **staying** | **awen** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**, **waiting**, **staying**: (*ken awen*) **protected**, **safe** |
+| | |
 | **kalama** <br>[ᴠᴇʀʙ **to produce a sound**](#official-toki-pona-dictionary); **recite**, **utter aloud** | **kalama** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **producing a sound** <br>ᴠᴇʀʙ **to recite**, **utter** **aloud** |
 | | |
 | **linja** <br>ɴᴏᴜɴ **long** [**and**](#official-toki-pona-dictionary) **flexible thing** | **linja** <br>ɴᴏᴜɴ **long flexible thing** |
@@ -668,6 +679,8 @@ A subordinating *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱ�
 | **lon** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **located at**, **present at**, [**real**, **true**, **existing**](#official-toki-pona-dictionary) | **lon** <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **located at**, **present at** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **existing**, **real**, **true** |
 | | |
 | **lukin** <br>ᴘʀᴇ-ᴠᴇʀʙ [**to seek, look for**](#official-toki-pona-dictionary)**, try to** | **lukin** <br>ᴘʀᴇ-ᴠᴇʀʙ **to try to**; **to seek to**: (*lukin jo*) **to look for** |
+| | |
+| **moli** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**, [**dying**](#official-toki-pona-dictionary) | **moli** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**: (*kama moli*) **dying** |
 | | |
 | **seli** <br>[ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#official-toki-pona-dictionary) **fire** | **seli** <br>ɴᴏᴜɴ **fire** |
 | | |
