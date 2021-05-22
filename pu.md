@@ -93,7 +93,7 @@ The ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ (i.e. a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀ
 
 ## Grammar
 
-### [PRE-VERB](nasin-nimi#pre-verb)
+### [PRE-VERB](nasin-nimi.md#pre-verb)
 
 Additional ᴘʀᴇ-ᴠᴇʀʙs are omitted.
 
@@ -667,6 +667,12 @@ A subordinating *comma* between a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱ�
 | **alasa** <br>ᴠᴇʀʙ [**hunt**](#lesson-17), **forage** | **alasa** <br>ᴠᴇʀʙ **to hunt**, **forage** |
 | | |
 | **lape** <br>[ᴠᴇʀʙ **to sleep**](#lesson-18) | **lape** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **sleeping** |
+
+### Place Names
+
+| ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
+|:-|:-|
+| **ma Sawusi** | **ma Sajusi** |
 
 ### Official Toki Pona Dictionary
 

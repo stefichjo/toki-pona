@@ -2,21 +2,17 @@
 
 ## Dictionary
 
-In [official Toki Pona](pu.md), the ɴᴏᴜɴ **tawa** is used instead of the ɴᴏᴜɴ **tan** for *departure*. In my dialect, such substitutions are considered optional.
-
-## Grammar
-
-### [PREPOSITION](nasin-nimi#preposition)
-
-Instead of omitting the ᴘʀᴇ-ᴠᴇʀʙ **kama** in **kama tawa**, **tan** can be used.
+In my dialect, the ɴᴏᴜɴ **tan** means *departure* and can be approximated by **kama tawa**. In [official Toki Pona](pu.md), **tawa** is used for *departure*.
 
 | | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
 | *Good departure!* | **tawa pona.** | **kama tawa pona.** → **tan pona.** |
 
-### [PRE-VERB](nasin-nimi#pre-verb)
+## Grammar
 
-Additional ᴘʀᴇ-ᴠᴇʀʙs are not omitted.
+### [PRE-VERB](nasin-nimi.md#pre-verb)
+
+In my dialect, ᴘʀᴇ-ᴠᴇʀʙs are not omitted.
 
 | mi wile kama sona tawa lon telo. |
 |:-|
@@ -30,7 +26,7 @@ Additional ᴘʀᴇ-ᴠᴇʀʙs are not omitted.
 
 ## Punctuation
 
-A coordinating *comma* between two ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can't be safely removed.
+In my dialect, a coordinating *comma* between two ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can't be safely removed.
 
 | ona li sona e tomo pi telo nasa, pi ma ante. |
 |:-|
