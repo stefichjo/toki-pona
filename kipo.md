@@ -29,9 +29,12 @@
 
 When ᴋɪᴘᴏ turns a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs into a ɴᴏᴜɴ, the ɴᴏᴜɴ can have the meaning of the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ's argument. (Cf. [***Toki Ike***](toki-namako.md#toki-ike).)
 
-| | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ/ᴛᴇᴘᴀɴ |
+| | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
 |:-|:-|:-|
 | *tool* | **kepeken** | **ilo** |
+
+| | ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
+|:-|:-|:-|
 | *location*, *address* | **lon** | **ijo** (context) |
 | *origin*, *source*, *cause*, *reason*, *motive* | **tan** | **mama** |
 | *destination*, *target*, *goal* | **tawa** | **pini** |
