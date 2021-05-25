@@ -550,6 +550,12 @@ You can convert any ɴᴏᴜɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *inter
 |:-|:-|
 | *I'm interacting with fish.* = *I'm fishing.* | *I'm interacting with people.* = *I'm socializing.* |
 
+A ꜱᴇɴᴛᴇɴᴄᴇ can end in an additional ᴘʀᴇᴅɪᴄᴀᴛᴇ that describes the ᴏʙᴊᴇᴄᴛ.
+
+| mi pilin e ale — pona. |
+|:-|
+| *I feel that life is beautiful.* |
+
 ## Appendix: Phrases and Sentences
 
 ### Phrases
