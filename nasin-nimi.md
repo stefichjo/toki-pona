@@ -24,10 +24,45 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 ## Dictionary
 *(nimi ale)*
 
-* ᴄʟᴀꜱꜱɪᴄ
-* ᴘɪᴊᴇ
-* ᴋɪᴘᴏ
-* EXTINCT
+Translations given in the official Toki Pona dictionary are written in **bold**.
+
+| | |
+|:-:|:-|
+| <img src="musi/pona/pakala.png" height="50" title="bagar-ap"><br>**pakala** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **botched**, **broken**, **damaged**, **harmed**, **messed up** |
+| | |
+
+Translations given in the official Toki Pona book's corpus are [**linked**](#dictionary). (Some of these are [**errata**](pu.md#errata).)
+
+| | |
+|:-:|:-|
+| <img src="musi/pona/kalama.png" height="50" title="galama"><br>**kalama** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**producing a sound**](pu.md#errata) <br>ᴠᴇʀʙ **to recite**, **utter aloud** <br>ɴᴏᴜɴ [**noise**](pu.md#lesson-18) |
+| | |
+
+A translation's context is written in *italics*.
+
+| | |
+|:-:|:-|
+| <img src="musi/pona/moli.png" height="50" title="muri"><br>**moli** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**: (*kama moli*) **dying** |
+| | |
+
+Unofficial translations are written in *italics*. Their source is written in sᴍᴀʟʟ ᴄᴀᴘs.
+
+<!-- TODO What about translations from other unofficial sources that I also accept? -->
+
+| | |
+|:-:|:-|
+| <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ … (ᴋɪᴘᴏ) *treacherous* … <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile** … |
+| | |
+
+ᴛᴇᴘᴀɴ as an unofficial source is omitted.
+
+| | |
+|:-:|:-|
+| <img src="musi/pona/mije.png" height="50" title="mies"><br>**mije** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴘᴇʀꜱᴏɴ**](#person) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* <br>ɴᴏᴜɴ **male**, **man**, **masculine person**; **husband** |
+| | |
+
+* ᴇxᴛɪɴᴄᴛ
+
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-:|:-|
