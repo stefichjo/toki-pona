@@ -47,19 +47,7 @@ A translation's context is written in *italics*.
 
 Unofficial translations are written in *italics*. Their sources are written in sᴍᴀʟʟ ᴄᴀᴘs.
 
-| | |
-|:-:|:-|
-| <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ … (ᴋɪᴘᴏ) *treacherous* … <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile** … |
-| | |
-
-<!-- TODO What about translations from other unofficial sources that I also accept? -->
-
-ᴛᴇᴘᴀɴ as an unofficial source is omitted.
-
-| | |
-|:-:|:-|
-| <img src="musi/pona/mije.png" height="50" title="mies"><br>**mije** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴘᴇʀꜱᴏɴ**](#person) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* <br>ɴᴏᴜɴ **male**, **man**, **masculine person**; **husband** |
-| | |
+...
 
 When a word seems to have supplanted a simpler word (ᴘᴏɴᴀ), its meaning is listed under the original word.
 
@@ -68,17 +56,15 @@ When a word seems to have supplanted a simpler word (ᴘᴏɴᴀ), its meaning i
 | <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ … (*ike*) [**hostile**](pu.md#famous-quotations) | | <img src="musi/pona/ike.png" height="50" title="ilkea"><br>**ike** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ ... (*akesi*) |
 | | | | | |
 
-
 * ᴇxᴛɪɴᴄᴛ
-
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-:|:-|
 | <img src="musi/pona/a.png" height="10" title="ha"><br>**a** | [**ᴘᴀʀᴛɪᴄʟᴇ: ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ [**(emotion word)**](pu.md#lesson-10), (ᴄʟᴀꜱꜱɪᴄ *kin*) **(emphasis or confirmation)** <br>ᴀᴅᴠᴇʀʙ [**so**](pu.md#lesson-10); [**ha**](pu.md#lesson-10), [**wow**](pu.md#lesson-10), [**yay**](pu.md#lesson-13): (*sama la + a* = ᴄʟᴀꜱꜱɪᴄ *kin*) *also*, (ᴄʟᴀꜱꜱɪᴄ *kin*) *indeed*, (*awen la + a* = ᴘɪᴊᴇ *kin*) *still*, (*sin la + a* = ᴄʟᴀꜱꜱɪᴄ *kin*) *too*; (*lon*) *yes* |
-| <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*, *monstrous*, (ᴋɪᴘᴏ) *treacherous*: (*pipi akesi* = ᴄʟᴀꜱꜱɪᴄ *akesi*) *arthropod*, (*toki akesi* = ᴋɪᴘᴏ *powe*) *to deceive*; (*ike*) [**hostile**](pu.md#famous-quotations) <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; (ᴋɪᴘᴏ *monsuta*) *monster*: (*pilin akesi tan* = ᴋɪᴘᴏ *monsuta e*) *to fear*; (*jan akesi* = ᴋɪᴘᴏ *monsuta*) *boogeyman* |
-| <img src="musi/pona/ala.png" height="50" title="ara"><br>**ala** | [**ᴘᴀʀᴛɪᴄʟᴇ: ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ *(negation)* <br>ᴀᴅᴠᴇʀʙ **not** <br>ɴᴏᴜɴ [**nothingness**](pu.md#lesson-6) |
+| <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*, (ᴋɪᴘᴏ) *treacherous*: (*pipi akesi* = ᴄʟᴀꜱꜱɪᴄ *akesi*) *arthropod*, (*toki akesi* = ᴋɪᴘᴏ *powe*) *to deceive*; (*ike*) [**hostile**](pu.md#famous-quotations) <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; (ᴋɪᴘᴏ *monsuta*) *monster*: (*pilin akesi tan* = ᴋɪᴘᴏ *monsuta e*) *to fear*; (*jan akesi* = ᴋɪᴘᴏ *monsuta*) *boogeyman* |
+| <img src="musi/pona/ala.png" height="10" title="ara"><br>**ala** | [**ᴘᴀʀᴛɪᴄʟᴇ: ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ *(negation)* <br>ᴀᴅᴠᴇʀʙ **not** <br>ɴᴏᴜɴ [**nothingness**](pu.md#lesson-6) |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **zero**, [**0**](pu.md#lesson-12); **no**: (*ijo ala* = ᴄʟᴀꜱꜱɪᴄ *ala*) [**nothing**](pu.md#chapter-of-sincerity) <br>ɴᴏᴜɴ [**zero**](pu.md#famous-quotations) |
-| <img src="musi/pona/alasa.png" height="50" title="a-la-ŝas"><br>**alasa** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to hunt**, **forage**; (⇒ ᴋɪᴘᴏ *lukin*) <br>ɴᴏᴜɴ (ᴋɪᴘᴏ) *prey* |
+| <img src="musi/pona/alasa.png" height="50" title="a-la-ŝas"><br>**alasa** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to hunt**, **forage**; (⇒ ᴋɪᴘᴏ *lukin*) <br>ɴᴏᴜɴ *prey* |
 | <img src="musi/pona/ale.png" height="50" title="ale"><br>**ale** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) ⇐ *~~ali~~* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ  (*~~mute~~ ale*) **all**, **every**; (*~~wan~~ ale*) **all** <br>ɴᴏᴜɴ **everything**; (⇒ *ma*) |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](pu.md#lesson-12), **countless** <br>ɴᴏᴜɴ [**infinity**](pu.md#famous-quotations); [**100**](pu.md#lesson-12) |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **bountiful**, **plentiful** <br>ɴᴏᴜɴ **abundance**; **life**, **universe** |
@@ -101,7 +87,7 @@ When a word seems to have supplanted a simpler word (ᴘᴏɴᴀ), its meaning i
 | <img src="musi/pona/jaki.png" height="10" title="jaki"><br>**jaki** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter*, **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary**, [**yucky**](pu.md#lesson-1) <br>ɴᴏᴜɴ *dirt*, *poison*, *waste* |
 | <img src="musi/pona/jan.png" height="10" title="jan"><br>**jan** | [**ɴᴏᴜɴ**](#noun) <br>ɴᴏᴜɴ [**folks**](pu.md#toki-pona-proverbs), [**guy**](pu.md#lesson-9), **human being**, **person**/[**people**](pu.md#lesson-9), **somebody**; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**somebody's**](pu.md#toki-pona-proverbs) |
 | <img src="musi/pona/jelo.png" height="50" title="jelo"><br>**jan** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **yellow**, (*jelo ~~mu~~*) **yellowish** |
-| <img src="musi/pona/jo.png" height="50" title="jou"><br>**jo** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to have**; **carry**, **contain**, **hold**; (*kama jo e ijo tan*) *fetch*, *pick* <br>ɴᴏᴜɴ *property* |
+| <img src="musi/pona/jo.png" height="10" title="jou"><br>**jo** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to have**; **carry**, **contain**, **hold**, *wear* <br>ɴᴏᴜɴ *property* |
 | <img src="musi/pona/kala.png" height="10" title="kala"><br>**kala** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *diving*, *swimming* <br>ɴᴏᴜɴ **fish**, **marine animal**, **sea creature** |
 | <img src="musi/pona/kalama.png" height="10" title="galama"><br>**kalama** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**producing a sound**](pu.md#errata) <br>ᴠᴇʀʙ **to recite**, **utter aloud** <br>ɴᴏᴜɴ [**noise**](pu.md#lesson-18) |
 | <img src="musi/pona/kama.png" height="50" title="kam-ap"><br>**kama** | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **to become**: (*kama ~~lon~~*) **arriving**, **being summoned**, **coming**; (*kama ~~pini~~*) **manage to**, **succeed in** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *successful* |
