@@ -45,14 +45,14 @@ A translation's context is written in *italics*.
 | <img src="musi/pona/moli.png" height="50" title="muri"><br>**moli** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**: (*kama moli*) **dying** |
 | | |
 
-Unofficial translations are written in *italics*. Their source is written in sᴍᴀʟʟ ᴄᴀᴘs.
-
-<!-- TODO What about translations from other unofficial sources that I also accept? -->
+Unofficial translations are written in *italics*. Their sources are written in sᴍᴀʟʟ ᴄᴀᴘs.
 
 | | |
 |:-:|:-|
 | <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ … (ᴋɪᴘᴏ) *treacherous* … <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile** … |
 | | |
+
+<!-- TODO What about translations from other unofficial sources that I also accept? -->
 
 ᴛᴇᴘᴀɴ as an unofficial source is omitted.
 
@@ -61,15 +61,23 @@ Unofficial translations are written in *italics*. Their source is written in s�
 | <img src="musi/pona/mije.png" height="50" title="mies"><br>**mije** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴘᴇʀꜱᴏɴ**](#person) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* <br>ɴᴏᴜɴ **male**, **man**, **masculine person**; **husband** |
 | | |
 
+When a word seems to have supplanted a simpler word (ᴘᴏɴᴀ), its meaning is listed under the original word.
+
+| | | | | |
+|:-:|:-|:-|:-:|:-|
+| <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ … (*ike*) [**hostile**](pu.md#famous-quotations) | | <img src="musi/pona/ike.png" height="50" title="ilkea"><br>**ike** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ ... (*akesi*) |
+| | | | | |
+
+
 * ᴇxᴛɪɴᴄᴛ
 
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-:|:-|
-| <img src="musi/pona/a.png" height="50" title="ha"><br>**a** | [**ᴘᴀʀᴛɪᴄʟᴇ: ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ [**(emotion word)**](pu.md#lesson-10), (ᴄʟᴀꜱꜱɪᴄ *kin*) **(emphasis or confirmation)** <br>ᴀᴅᴠᴇʀʙ [**so**](pu.md#lesson-10); [**ha**](pu.md#lesson-10), [**wow**](pu.md#lesson-10), [**yay**](pu.md#lesson-13): (*sama la + a* ⇐ ᴄʟᴀꜱꜱɪᴄ *kin*) *also*, (ᴄʟᴀꜱꜱɪᴄ *kin*) *indeed*, (*awen la + a* ⇐ ᴘɪᴊᴇ *kin*) *still*, (*sin la + a* ⇐ ᴄʟᴀꜱꜱɪᴄ *kin*) *too*; (⇒ *lon*) |
-| <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*, *monstrous*, (ᴋɪᴘᴏ) *treacherous*: (*pipi akesi* ⇐ ᴄʟᴀꜱꜱɪᴄ *akesi*) *arthropod*, (*toki akesi* ⇐ ᴋɪᴘᴏ *powe*) *to deceive*; (*ike*) [**hostile**](pu.md#famous-quotations) <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; (ᴋɪᴘᴏ *monsuta*) *monster*: (*pilin akesi tan* ⇐ ᴋɪᴘᴏ *monsuta e*) *to fear*; (*jan akesi* ⇐ ᴋɪᴘᴏ *monsuta*) *boogeyman*; (*pilin akesi* ⇐ ᴋɪᴘᴏ *monsuta*) *fear* |
+| <img src="musi/pona/a.png" height="50" title="ha"><br>**a** | [**ᴘᴀʀᴛɪᴄʟᴇ: ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ [**(emotion word)**](pu.md#lesson-10), (ᴄʟᴀꜱꜱɪᴄ *kin*) **(emphasis or confirmation)** <br>ᴀᴅᴠᴇʀʙ [**so**](pu.md#lesson-10); [**ha**](pu.md#lesson-10), [**wow**](pu.md#lesson-10), [**yay**](pu.md#lesson-13): (*sama la + a* = ᴄʟᴀꜱꜱɪᴄ *kin*) *also*, (ᴄʟᴀꜱꜱɪᴄ *kin*) *indeed*, (*awen la + a* = ᴘɪᴊᴇ *kin*) *still*, (*sin la + a* = ᴄʟᴀꜱꜱɪᴄ *kin*) *too*; (*lon*) *yes* |
+| <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*, *monstrous*, (ᴋɪᴘᴏ) *treacherous*: (*pipi akesi* = ᴄʟᴀꜱꜱɪᴄ *akesi*) *arthropod*, (*toki akesi* = ᴋɪᴘᴏ *powe*) *to deceive*; (*ike*) [**hostile**](pu.md#famous-quotations) <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; (ᴋɪᴘᴏ *monsuta*) *monster*: (*pilin akesi tan* = ᴋɪᴘᴏ *monsuta e*) *to fear*; (*jan akesi* = ᴋɪᴘᴏ *monsuta*) *boogeyman* |
 | <img src="musi/pona/ala.png" height="50" title="ara"><br>**ala** | [**ᴘᴀʀᴛɪᴄʟᴇ: ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ *(negation)* <br>ᴀᴅᴠᴇʀʙ **not** <br>ɴᴏᴜɴ [**nothingness**](pu.md#lesson-6) |
-| | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **zero**, [**0**](pu.md#lesson-12); **no**: (*ijo ala* ⇐ ᴄʟᴀꜱꜱɪᴄ *ala*) [**nothing**](pu.md#chapter-of-sincerity) <br>ɴᴏᴜɴ [**zero**](pu.md#famous-quotations) |
+| | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **zero**, [**0**](pu.md#lesson-12); **no**: (*ijo ala* = ᴄʟᴀꜱꜱɪᴄ *ala*) [**nothing**](pu.md#chapter-of-sincerity) <br>ɴᴏᴜɴ [**zero**](pu.md#famous-quotations) |
 | <img src="musi/pona/alasa.png" height="50" title="a-la-ŝas"><br>**alasa** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to hunt**, **forage**; (⇒ ᴋɪᴘᴏ *lukin*) <br>ɴᴏᴜɴ (ᴋɪᴘᴏ) *prey* |
 | <img src="musi/pona/ale.png" height="50" title="ale"><br>**ale** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) ⇐ *~~ali~~* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ  (*~~mute~~ ale*) **all**, **every**; (*~~wan~~ ale*) **all** <br>ɴᴏᴜɴ **everything**; (⇒ *ma*) |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](pu.md#lesson-12), **countless** <br>ɴᴏᴜɴ [**infinity**](pu.md#famous-quotations); [**100**](pu.md#lesson-12) |
@@ -120,7 +128,7 @@ Unofficial translations are written in *italics*. Their source is written in s�
 | <img src="musi/pona/linja.png" height="50" title="linja"><br>**linja** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *long and flexible* <br>ɴᴏᴜɴ [**long flexible thing**](pu.md#errata): *chain*, **cord**, (*linja ~~lawa~~*) **hair**, **rope**, [**string**](pu.md#lesson-17), **thread**, **yarn**; *curve, line; row*; (⇒ *palisa*) |
 | <img src="musi/pona/lipu.png" height="50" title="lipu"><br>**lipu** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flat*, *thin* <br>ɴᴏᴜɴ **flat object**: (*~~mute~~ lipu*) **book**, **card**, [**clay tablet**](pu.md#what-is-toki-pona), **document**, **paper**, [**piece of paper**](pu.md#lesson-2), [**postcard**](pu.md#what-is-toki-pona), [**printed book**](pu.md#what-is-toki-pona), **record**, **website**; *plane* |
 | <img src="musi/pona/loje.png" height="50" title="roje"><br>**loje** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **red**, (*loje ~~mu~~*) **reddish** |
-| <img src="musi/pona/lon.png" height="50" title="loŋ"><br>**lon** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ [**at**](pu.md#lesson-8), **located at**, **present at**; [**in the context of**](pu.md#lesson-14): (*lon ni:* = , *la*) [**if**](pu.md#lesson-14), [**when**](pu.md#lesson-14); (⇐ *sama* ⇐ *pu*) *according to*, *along* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**existing**, **real**; (*~~pi ijo pi ijo~~ lon*) **true**](pu.md#errata); <br>ᴀᴅᴠᴇʀʙ (⇐ a) *yes* |
+| <img src="musi/pona/lon.png" height="50" title="loŋ"><br>**lon** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ [**at**](pu.md#lesson-8), **located at**, **present at**; [**in the context of**](pu.md#lesson-14): (*lon ni:* = , *la*) [**if**](pu.md#lesson-14), [**when**](pu.md#lesson-14); (⇐ *sama* ⇐ *pu*) *according to*, *along* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**existing**, **real**; (*~~pi ijo pi ijo~~ lon*) **true**](pu.md#errata); <br>ᴀᴅᴠᴇʀʙ (*a*) |
 | <img src="musi/pona/luka.png" height="50" title="ruka"><br>**luka** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *reachable* <br>ɴᴏᴜɴ *range* |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **arm**, [**fingers**](pu.md#writings-of-baháulláh), **hand**, **tactile organ**; <br>ᴠᴇʀʙ *to touch* |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**5**](pu.md#lesson-12), **five** <br>ɴᴏᴜɴ *quintet* |
