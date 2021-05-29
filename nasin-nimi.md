@@ -54,10 +54,7 @@ Omitted words are *~~crossed out~~*.
 
 When a word seems to have supplanted a simpler word, its meaning can be found under the original word.
 
-| | | | | |
-|:-:|:-|:-|:-:|:-|
-| <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ … (*ike*) [**hostile**](pu.md#famous-quotations) | | <img src="musi/pona/ike.png" height="50" title="ilkea"><br>**ike** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ ... (*akesi*) |
-| | | | | |
+...
 
 Unofficial translations are written in *italics*. Their sources are written in sᴍᴀʟʟ ᴄᴀᴘs.
 
@@ -68,7 +65,7 @@ Unofficial translations are written in *italics*. Their sources are written in s
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-:|:-|
 | <img src="musi/pona/a.png" height="10" title="ha"><br>**a** | [**ᴘᴀʀᴛɪᴄʟᴇ: ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ [**(emotion word)**](pu.md#lesson-10), (ᴄʟᴀꜱꜱɪᴄ *kin*) **(emphasis or confirmation)** <br>ᴀᴅᴠᴇʀʙ [**so**](pu.md#lesson-10); [**ha**](pu.md#lesson-10), [**wow**](pu.md#lesson-10), [**yay**](pu.md#lesson-13): (*sama la + a* = ᴄʟᴀꜱꜱɪᴄ *kin*) *also*, (ᴄʟᴀꜱꜱɪᴄ *kin*) *indeed*, (*awen la + a* = ᴘɪᴊᴇ *kin*) *still*, (*sin la + a* = ᴄʟᴀꜱꜱɪᴄ *kin*) *too*; (*lon*) *yes* |
-| <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*, (ᴋɪᴘᴏ) *treacherous*: (*pipi akesi* = ᴄʟᴀꜱꜱɪᴄ *akesi*) *arthropod*, (*toki akesi* = ᴋɪᴘᴏ *powe*) *to deceive*; (*ike*) [**hostile**](pu.md#famous-quotations) <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; (ᴋɪᴘᴏ *monsuta*) *monster*: (*pilin akesi tan* = ᴋɪᴘᴏ *monsuta e*) *to fear*; (*jan akesi* = ᴋɪᴘᴏ *monsuta*) *boogeyman* |
+| <img src="musi/pona/akesi.png" height="10" title="hagedis"><br>**akesi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*, *treacherous*: (*pipi akesi* = ᴄʟᴀꜱꜱɪᴄ *akesi*) *arthropod*, (*toki akesi* = ᴋɪᴘᴏ *powe*) *to deceive* <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; (ᴋɪᴘᴏ *monsuta*) *monster*: (*pilin akesi tan* = ᴋɪᴘᴏ *monsuta e*) *to fear*; (*jan akesi* = ᴋɪᴘᴏ *monsuta*) *boogeyman* |
 | <img src="musi/pona/ala.png" height="10" title="ara"><br>**ala** | [**ᴘᴀʀᴛɪᴄʟᴇ: ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ *(negation)* <br>ᴀᴅᴠᴇʀʙ **not** <br>ɴᴏᴜɴ [**nothingness**](pu.md#lesson-6) |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **zero**, [**0**](pu.md#lesson-12); **no**: (*ijo ala* = ᴄʟᴀꜱꜱɪᴄ *ala*) [**nothing**](pu.md#chapter-of-sincerity) <br>ɴᴏᴜɴ [**zero**](pu.md#famous-quotations) |
 | <img src="musi/pona/alasa.png" height="50" title="a-la-ŝas"><br>**alasa** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to hunt**, **forage**; (⇒ ᴋɪᴘᴏ *lukin*) <br>ɴᴏᴜɴ *prey* |
@@ -86,7 +83,7 @@ Unofficial translations are written in *italics*. Their sources are written in s
 | <img src="musi/pona/esun.png" height="50" title="eĝum"><br>**esun** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (⇒ *ante*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*ante*) *else*, *exchanged*, **other**; (⇒ *ante* ⇐ *sin*) <br>ɴᴏᴜɴ (*~~kama~~ esun*) *exchange*; (*esun ~~pali~~*) **business transaction**; (*~~tomo~~ esun*) **shop**; (*~~ma~~ esun*) **bazaar**, **fair**, **market** |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *7*, *seven* <br>ɴᴏᴜɴ *septet*: (*sike esun*) *week* |
 | <img src="musi/pona/ijo.png" height="10" title="ijo"><br>**ijo** | [**ɴᴏᴜɴ**](#noun) <br>ɴᴏᴜɴ [**being**](pu.md#lesson-2), **matter**, **object**, **phenomenon**, [**something**](pu.md#lesson-2), **thing**; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *something's* |
-| <img src="musi/pona/ike.png" height="10" title="ilkea"><br>**ike** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bad**, [**harmful**](pu.md#toki-pona-proverbs), [**needless**](pu.md#famous-quotations), **negative**; (*akesi*); (*~~sin~~ ike*) **irrelevant**, **non-essential**; <br>ɴᴏᴜɴ [**bad things**](pu.md#toki-pona-proverbs), [**evil**](pu.md#toki-pona-proverbs), [**fault**](pu.md#toki-pona-proverbs), [**negativity**](pu.md#toki-pona-proverbs), [**non-essentials**](pu.md#famous-quotations) |
+| <img src="musi/pona/ike.png" height="10" title="ilkea"><br>**ike** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bad**, [**harmful**](pu.md#toki-pona-proverbs), [**hostile**](pu.md#famous-quotations), [**needless**](pu.md#famous-quotations), **negative**; (*~~sin~~ ike*) **irrelevant**, **non-essential**; <br>ɴᴏᴜɴ [**bad things**](pu.md#toki-pona-proverbs), [**evil**](pu.md#toki-pona-proverbs), [**fault**](pu.md#toki-pona-proverbs), [**negativity**](pu.md#toki-pona-proverbs), [**non-essentials**](pu.md#famous-quotations) |
 | <img src="musi/pona/ilo.png" height="10" title="ilo"><br>**ilo** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*pona*) **useful** <br>ɴᴏᴜɴ **device**, **implement**, **machine**, **tool** |
 | <img src="musi/pona/insa.png" height="50" title="insait"><br>**insa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *central*; *inner* <br>ɴᴏᴜɴ **centre**: (*lon insa*) **between**, (*lon ~~insa~~*) [**(tangentially) between**](pu.md#famous-quotations); **inside**: (*lon insa*) [**within**](pu.md#toki-pona-proverbs), (*lon ~~insa~~*) [**in**](pu.md#lesson-8) |
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *internal* <br>ɴᴏᴜɴ **content** |
