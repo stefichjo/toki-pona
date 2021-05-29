@@ -45,16 +45,23 @@ A translation's context is written in *italics*.
 | <img src="musi/pona/moli.png" height="50" title="muri"><br>**moli** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**: (*kama moli*) **dying** |
 | | |
 
-Unofficial translations are written in *italics*. Their sources are written in sᴍᴀʟʟ ᴄᴀᴘs.
+Omitted words are *~~crossed out~~*.
 
-...
+| | |
+|:-:|:-|
+| <img src="musi/pona/kute.png" height="50" title="ekute"><br>**kute** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **ear**; <br>ᴠᴇʀʙ **to hear**, **listen**; (*kute ~~wawa~~*) [**listen to**](pu.md#lesson-5), **pay attention to**, **obey** |
+| | |
 
-When a word seems to have supplanted a simpler word (ᴘᴏɴᴀ), its meaning is listed under the original word.
+When a word seems to have supplanted a simpler word, its meaning can be found under the original word.
 
 | | | | | |
 |:-:|:-|:-|:-:|:-|
 | <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ … (*ike*) [**hostile**](pu.md#famous-quotations) | | <img src="musi/pona/ike.png" height="50" title="ilkea"><br>**ike** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ ... (*akesi*) |
 | | | | | |
+
+Unofficial translations are written in *italics*. Their sources are written in sᴍᴀʟʟ ᴄᴀᴘs.
+
+...
 
 * ᴇxᴛɪɴᴄᴛ
 
@@ -86,7 +93,7 @@ When a word seems to have supplanted a simpler word (ᴘᴏɴᴀ), its meaning i
 | | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *intermediary*; (⇐ *nasin*) *connecting*, *continuous*  <br>ɴᴏᴜɴ **internal organ**: **stomach**, [**womb**](pu.md#lesson-15); (*~~nasin pi~~ insa palisa*) *joint*; (⇐ *nasin*) *connection* <br>ᴠᴇʀʙ (⇐ *nasin*) *to connect* |
 | <img src="musi/pona/jaki.png" height="10" title="jaki"><br>**jaki** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter*, **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary**, [**yucky**](pu.md#lesson-1) <br>ɴᴏᴜɴ *dirt*, *poison*, *waste* |
 | <img src="musi/pona/jan.png" height="10" title="jan"><br>**jan** | [**ɴᴏᴜɴ**](#noun) <br>ɴᴏᴜɴ [**folks**](pu.md#toki-pona-proverbs), [**guy**](pu.md#lesson-9), **human being**, **person**/[**people**](pu.md#lesson-9), **somebody**; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**somebody's**](pu.md#toki-pona-proverbs) |
-| <img src="musi/pona/jelo.png" height="50" title="jelo"><br>**jan** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **yellow**, (*jelo ~~mu~~*) **yellowish** |
+| <img src="musi/pona/jelo.png" height="10" title="jelo"><br>**jelo** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **yellow**, (*jelo ~~mu~~*) **yellowish** |
 | <img src="musi/pona/jo.png" height="10" title="jou"><br>**jo** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to have**; **carry**, **contain**, **hold**, *wear* <br>ɴᴏᴜɴ *property* |
 | <img src="musi/pona/kala.png" height="10" title="kala"><br>**kala** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *diving*, *swimming* <br>ɴᴏᴜɴ **fish**, **marine animal**, **sea creature** |
 | <img src="musi/pona/kalama.png" height="10" title="galama"><br>**kalama** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**producing a sound**](pu.md#errata) <br>ᴠᴇʀʙ **to recite**, **utter aloud** <br>ɴᴏᴜɴ [**noise**](pu.md#lesson-18) |
@@ -101,7 +108,7 @@ When a word seems to have supplanted a simpler word (ᴘᴏɴᴀ), its meaning i
 | <img src="musi/pona/kon.png" height="10" title="koŋ"><br>**kon** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *floating*, *hovering* <br>ɴᴏᴜɴ **air**, **breath**; **essence**, **spirit**; [**meaning**](pu.md#preface), [**soul**](pu.md#preface); **hidden reality**, **unseen agent** |
 | <img src="musi/pona/kule.png" height="50" title="kuler"><br>**kule** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **colourful**, **painted**; **pigmented**; (*~~kapesi~~*) *brown*, (*kule ~~mu~~*) *brownish* |
 | <img src="musi/pona/kulupu.png" height="50" title="kulupu"><br>**kulupu** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *sama*) <br>ɴᴏᴜɴ *relationship*; (*kulupu ~~jan~~*) **community**, **company**, **group**, **nation**, **society**, **tribe**; (⇐ *lawa*) *arrangement*, *organization*; (⇐ *mute*) *trio*; *multitude*, *set* |
-| <img src="musi/pona/kute.png" height="50" title="ekute"><br>**kute** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **ear**; <br>ᴠᴇʀʙ **to hear**, **listen**; (*kute ~~insa~~*) [**listen to**](pu.md#lesson-5), **pay attention to**, **obey** |
+| <img src="musi/pona/kute.png" height="10" title="ekute"><br>**kute** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **ear**; <br>ᴠᴇʀʙ **to hear**, **listen**; (*kute ~~wawa~~*) [**listen to**](pu.md#lesson-5), **pay attention to**, **obey** |
 | <img src="musi/pona/la.png" height="10" title="la"><br>**la** | [**ᴘᴀʀᴛɪᴄʟᴇ: ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) <br>ᴘᴀʀᴛɪᴄʟᴇ **(between the ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ and the ᴍᴀɪɴ ꜱᴇɴᴛᴇɴᴄᴇ)**, [**(separates ᴄᴏɴᴛᴇxᴛ from ᴍᴀɪɴ ꜱᴇɴᴛᴇɴᴄᴇ)**](pu.md#lesson-14) |
 | <img src="musi/pona/lape.png" height="10" title="slape"><br>**lape** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **resting**, **sleeping**; <br>ɴᴏᴜɴ [**sleep**](pu.md#toki-pona-proverbs) |
 | <img src="musi/pona/laso.png" height="50" title="glas"><br>**laso** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **blue**, (*laso ~~mu~~*) *bluish*, **green**, (*laso ~~mu~~*) *greenish*; *immature*; (*walo*) **pale** |
@@ -181,8 +188,8 @@ When a word seems to have supplanted a simpler word (ᴘᴏɴᴀ), its meaning i
 | <img src="musi/pona/sike.png" height="50" title="sirkel"><br>**sike** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round*; (⇒ *pini*); <br>ᴠᴇʀʙ *to fulfil*: (*sike e ~~sike~~ suno*) *to have one's birthday* <br>ɴᴏᴜɴ **round or circular thing**: **ball**, **circle**, **sphere**, **wheel**; **cycle**; *age*; *lap*: (*~~sike~~ suno*) *year*; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*sike ~~suno~~*) **of one year**, (*pi sike ~~suno~~ mute* ⇐ *~~majuna~~*) *old* |
 | <img src="musi/pona/sin.png" height="50" title="ŝin"><br>**sin** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh**; (*~~namako~~*) **additional**, **another**, **extra**; *artificial*, *enhanced*; (⇒ *esun* ⇒ *ante*) |
 | <img src="musi/pona/sina.png" height="10" title="sina"><br>**sina** | [**ɴᴏᴜɴ**](#pronoun) <br>ɴᴏᴜɴ **you**/*thou*/*thee*/[**thyself**](pu.md#toki-pona-proverbs); [**the person who**](pu.md#famous-quotations); <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your*/[**thy**](pu.md#toki-pona-proverbs) |
-| <img src="musi/pona/sinpin.png" height="50" title="cinpin"><br>**sinpin** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **foremost** <br>ɴᴏᴜɴ [**area in front**](pu.md#lesson-15): (*lon sinpin*) [**in front of**](pu.md#lesson-15) |
-| | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *upright*, *vertical* <br>ɴᴏᴜɴ **front**, **wall**; (*sinpin ~~sijelo~~*) [**chest**](pu.md#lesson-15), (*sinpin ~~lawa~~*) **face**; <br>ᴠᴇʀʙ (*~~pake~~*) *to block*; *to confront*, *face* |
+| <img src="musi/pona/sinpin.png" height="10" title="cinpin"><br>**sinpin** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **foremost** <br>ɴᴏᴜɴ [**area in front**](pu.md#lesson-15): (*lon sinpin*) [**in front of**](pu.md#lesson-15) |
+| | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blocking*, *upright*, *vertical* <br>ɴᴏᴜɴ **front**, **wall**; (*sinpin ~~sijelo~~*) [**chest**](pu.md#lesson-15), (*sinpin ~~lawa~~*) **face**; <br>ᴠᴇʀʙ (*~~pake~~*) *to block*; *to confront*, *face* |
 | <img src="musi/pona/sitelen.png" height="10" title="ŝilderen"><br>**sitelen** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ *to draw*, *indicate*, *project*, *represent*, *sculpture* <br>ɴᴏᴜɴ **image**, **picture**, *projection*, **representation**, *sculpture*, **symbol**, **mark**, **writing** |
 | <img src="musi/pona/sona.png" height="50" title="ĉodna"><br>**sona** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to be skilled in**; [**to be knowledgeable of**](pu.md#lesson-5), **be wise about**, **have information on**, **know**, (*~~toki e~~ sona*) [**testify**](pu.md#short-obligatory-prayer) <br>ɴᴏᴜɴ [**insight**](pu.md#writings-of-baháulláh), *knowledge*, [**wisdom**](pu.md#toki-pona-proverbs) |
 | | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **to know how to** |
@@ -204,8 +211,8 @@ When a word seems to have supplanted a simpler word (ᴘᴏɴᴀ), its meaning i
 | <img src="musi/pona/uta.png" height="10" title="usta"><br>**uta** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **jaw**, **lips**, **mouth**, **oral cavity**; <br>ᴠᴇʀʙ [**to kiss**](pu.md#lesson-18), *suck*, *taste* |
 | <img src="musi/pona/utala.png" height="10" title="udara"><br>**utala** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *aggressive*; <br>ᴠᴇʀʙ *to attack*, **battle**, **challenge**, **compete against**, [**fight**](pu.md#lesson-9), *provoke*, **struggle against**; <br>ɴᴏᴜɴ [**battle**](pu.md#lesson-14), [**fighting**](pu.md#toki-pona-proverbs) |
 | <img src="musi/pona/walo.png" height="10" title="valko"><br>**walo** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **white**, (*walo ~~mu~~*) **whitish**; **light-coloured**, (*laso*) |
-| <img src="musi/pona/wan.png" height="50" title="wan"><br>**wan** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**1**](pu.md#lesson-12), **one**; (*wan ~~ale~~*) **united** <br>ɴᴏᴜɴ *singleton* |
-| | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*~~wan~~*) [**certain**](pu.md#the-gospel), *specific*; **unique** |
+| <img src="musi/pona/wan.png" height="10" title="wan"><br>**wan** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**1**](pu.md#lesson-12), **one**; (*wan ~~ale~~*) **united** <br>ɴᴏᴜɴ *singleton* |
+| | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*~~wan~~*) [**certain**](pu.md#the-gospel); *specific*; **unique** |
 | <img src="musi/pona/waso.png" height="10" title="wazo"><br>**waso** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flying*, *winging* <br>ɴᴏᴜɴ **bird**, **flying creature**, **winged animal** |
 | <img src="musi/pona/wawa.png" height="50" title="vahva"><br>**wawa** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **energetic**; **powerful**, [**stable**](pu.md#lesson-15), **strong**; [**independent**](pu.md#chapter-of-sincerity); (*~~sona~~ wawa*) [**dependable**](pu.md#lesson-4), [**reliable**](pu.md#lesson-5), **sure**; (*~~toki~~ wawa*) **confident**; (*~~kalama~~ wawa*) [**loud**](pu.md#lesson-17), **intense**; <br>ᴠᴇʀʙ [**strengthen**](pu.md#lesson-6); (*wawa e ~~toki~~ ni:*) [**to bear witness that**](pu.md#writings-of-baháulláh) <br>ɴᴏᴜɴ [**might**](pu.md#writings-of-baháulláh), [**power**](pu.md#writings-of-baháulláh); *force* |
 | <img src="musi/pona/weka.png" height="10" title="weĥ"><br>**weka** | [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ: ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**, *remote*; **ignored**, *isolated*; <br>ɴᴏᴜɴ [**isolation**](pu.md#toki-pona-proverbs); <br>ᴠᴇʀʙ [**to eliminate**](pu.md#famous-quotations), [**erase**](pu.md#toki-pona-proverbs), [**omit**](pu.md#famous-quotations), [**remove**](pu.md#toki-pona-proverbs) <br>ɴᴏᴜɴ *distance*: (*lon weka pi*) *away from* |
