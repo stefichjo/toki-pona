@@ -131,7 +131,7 @@ The words **ali**, **kin**, **namako** and **oko** are treated as ᴄʟᴀꜱꜱ
 | <img src="musi/pona/lupa.png" height="50" title="rupa"><br>**lupa** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *concave*, *empty*, *hollow* <br>ɴᴏᴜɴ *cave*, **orifice**: (*lupa meli*) [**womb**](pu.md#toki-pona-proverbs); (⇐ *open*) *entrance*, **hole**: (*lupa ~~tomo~~*) **door**, (*lupa ~~suno~~*) **window** |
 | <img src="musi/pona/ma.png" height="50" title="maa"><br>**ma** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *contextual*, *outside*; *firm*, *fixed* <br>ɴᴏᴜɴ **outdoors**: *context*, **world**; *area* (⇐ ale); (*~~sike~~ ma*) [**planet**](pu.md#toki-pona-proverbs) <br>ᴠᴇʀʙ *to orient*, *tie* |
 | | [**ᴛʜɪɴɢ**](#thing) <br>ɴᴏᴜɴ **earth**, **land**, **soil**; (*ma ~~jan~~*) **country**, **territory** |
-| <img src="musi/pona/mama.png" height="50" title="mama"><br>**mama** | [**ᴘᴇʀꜱᴏɴ**](#person) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*mama* ⇐ *sijelo e ijo*) [**birth-giving**](pu.md#chapter-of-sincerity); (*jo e mama* ⇐ *sijelo*) [**being born**](pu.md#chapter-of-sincerity); *of origin* <br>ɴᴏᴜɴ **parent**; (*mama ~~mije~~*) [**father**](pu.md#the-gospel), (*mama ~~meli~~*) *mother*; **ancestor**; **caretaker**, **sustainer**; **creator**, **originator**; (*~~tan~~*) *origin* |
+| <img src="musi/pona/mama.png" height="10" title="mama"><br>**mama** | [**ᴘᴇʀꜱᴏɴ**](#person) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*sijelo*); *of origin* <br>ɴᴏᴜɴ **parent**; (*mama ~~mije~~*) [**father**](pu.md#the-gospel), (*mama ~~meli~~*) *mother*; **ancestor**; **creator**, **originator**: (*jo e mama* = *sijelo*); (ᴄʟᴀssɪᴄ *tan*) *cause*, *origin*; **caretaker**, **sustainer** |
 | <img src="musi/pona/mani.png" height="10" title="mani"><br>**mani** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *domesticated*, *refined*; *valueable* <br>ɴᴏᴜɴ **large domesticated animal**; **cash**, **money**, **savings**, **wealth** |
 | <img src="musi/pona/meli.png" height="10" title="meri"><br>**meli** | [**ᴘᴇʀꜱᴏɴ**](#person) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**female**](pu.md#lesson-3) <br>ɴᴏᴜɴ **female**, **feminine person**, **woman**; **wife** |
 | <img src="musi/pona/mi.png" height="10" title="mi"><br>**mi** | [**ɴᴏᴜɴ**](#pronoun) <br>ɴᴏᴜɴ **I**/**me**/[**myself**](pu.md#toki-pona-proverbs), **we**/**us**/*ourselves*; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *my*, *our* |
@@ -182,7 +182,7 @@ The words **ali**, **kin**, **namako** and **oko** are treated as ᴄʟᴀꜱꜱ
 | <img src="musi/pona/seme.png" height="10" title="ŝenme"><br>**seme** | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **what**, **which** <br>ɴᴏᴜɴ [**what**](pu.md#lesson-7), *which one* |
 | <img src="musi/pona/sewi.png" height="50" title="sevit"><br>**sewi** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *high*; (⇐ *lawa*) *upper*; (⇒ *nanpa wan* ⇐ *lawa*) <br>ɴᴏᴜɴ **area above**: (*lon sewi*) *above*, *over*; **something elevated**; [**sky**](pu.md#lesson-15); *heaven*; (⇐ *lawa*) **highest part**: (*lon sewi*) *at the top of* |
 | | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **awe-inspiring**, **divine**, **sacred**, **supernatural** <br>ɴᴏᴜɴ [**the Divine**](pu.md#preface), [**that which is divine**](pu.md#lesson-6), [**God**](pu.md#lesson-6), [**the Lord**](pu.md#the-torah) |
-| <img src="musi/pona/sijelo.png" height="50" title="tijelo"><br>**sijelo** | [**ᴏʀɢᴀɴ**](#organ) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *alive*, *healthy*, *surviving*; <br>ɴᴏᴜɴ [**health**](pu.md#lesson-13), **physical state**; *configuration*, *mode* <br>ɴᴏᴜɴ *life-form*; **body (of person or animal)**, **torso**; <br>ᴠᴇʀʙ (⇒ *mama pi*) |
+| <img src="musi/pona/sijelo.png" height="10" title="tijelo"><br>**sijelo** | [**ᴏʀɢᴀɴ**](#organ) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*jo e mama*) [**being born**](pu.md#chapter-of-sincerity); *alive*, *healthy* <br>ɴᴏᴜɴ [**health**](pu.md#lesson-13), **physical state**; *configuration*, *mode* <br>ɴᴏᴜɴ *life-form*; **body (of person or animal)**, **torso**; <br>ᴠᴇʀʙ (*mama pi*) [**to give birth to**](pu.md#chapter-of-sincerity) |
 | <img src="musi/pona/sike.png" height="50" title="sirkel"><br>**sike** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round*; (⇒ *pini*); <br>ᴠᴇʀʙ *to fulfil*: (*sike e ~~sike~~ suno*) *to have one's birthday* <br>ɴᴏᴜɴ **round or circular thing**: **ball**, **circle**, **sphere**, **wheel**; **cycle**; *age*; *lap*: (*~~sike~~ suno*) *year*; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*sike ~~suno~~*) **of one year**, (*pi sike ~~suno~~ mute* ⇐ *~~majuna~~*) *old* |
 | <img src="musi/pona/sin.png" height="10" title="ŝin"><br>**sin** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh**; (ᴄʟᴀꜱꜱɪᴄ *namako*) **additional**, **another**, **extra**; *artificial*, *enhanced* |
 | <img src="musi/pona/sina.png" height="10" title="sina"><br>**sina** | [**ɴᴏᴜɴ**](#pronoun) <br>ɴᴏᴜɴ **you**/*thou*/*thee*/[**thyself**](pu.md#toki-pona-proverbs); [**the person who**](pu.md#famous-quotations); <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your*/[**thy**](pu.md#toki-pona-proverbs) |
@@ -388,10 +388,9 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 *([nimi suli poka](#noun-adjective) ilo)*
 
 * *insa*, *len*, *poki*, *tomo*
-* *kute*, *palisa*, *selo*, *sijelo*, *uta*
+* *kute*, *palisa*, *pilin*, *selo*, *sijelo*, *uta*
 * *lawa*, *luka* — *noka* + [ᴀʀᴇᴀ](#area)
 * *lukin* + [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb)
-* *pilin*
 
 | ᴏʀɢᴀɴ lukin |
 |:-|
