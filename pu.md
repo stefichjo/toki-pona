@@ -113,6 +113,13 @@ Instead of using the ᴠᴇʀʙ **pilin** with a ɴᴏᴜɴ with an omitted ᴘ�
 |:-|
 | *I feel bad.* |
 
+<!-- TODO
+  mi pilin e ni: ona li akesi.
+  mi pilin e ona — akesi.
+  mi pilin akesi e ona.
+  mi pilin akesi tan ona.
+-->
+
 ## Punctuation
 
 | |

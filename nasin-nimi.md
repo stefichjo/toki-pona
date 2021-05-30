@@ -76,7 +76,7 @@ The words **ali**, **kin**, **namako** and **oko** are treated as ᴄʟᴀꜱꜱ
 | <img src="musi/pona/ale.png" height="50" title="ale"><br>**ale** | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) = ᴄʟᴀꜱꜱɪᴄ *ali* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ  (*~~mute~~ ale*) **all**, **every**; (*~~wan~~ ale*) **all** <br>ɴᴏᴜɴ **everything**; (⇒ *ma*) |
 | | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](pu.md#lesson-12), **countless** <br>ɴᴏᴜɴ [**infinity**](pu.md#famous-quotations); [**100**](pu.md#lesson-12) |
 | | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **bountiful**, **plentiful** <br>ɴᴏᴜɴ **abundance**; **life**, **universe** |
-| <img src="musi/pona/anpa.png" height="50" title="an-ba"><br>**anpa** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *noka*): (*kama anpa*) **downward**; **bowing down**; *deep* <br>ɴᴏᴜɴ (⇒ *noka*); *abyss*; (ᴋɪᴘᴏ *apeja*) *hell* |
+| <img src="musi/pona/anpa.png" height="50" title="an-ba"><br>**anpa** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *noka*): (*kama anpa*) **downward**: **bowing down**, [**bowing to the ground**](pu.md#the-gospel); *deep* <br>ɴᴏᴜɴ (⇒ *noka*); *abyss*; (ᴋɪᴘᴏ *apeja*) *hell* |
 | | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **humble**, **lowly**; **dependent**; (ᴋɪᴘᴏ *apeja*) *guilty*, *shameful*; <br>ᴠᴇʀʙ *to conquer*; (ᴋɪᴘᴏ *apeja*) *to condemn*, *punish*; <br>ɴᴏᴜɴ [**powerlessness**](pu.md#short-obligatory-prayer); (ᴋɪᴘᴏ *apeja*) *guilt*, *shame* <br>ɴᴏᴜɴ (ᴋɪᴘᴏ *apeja*) *devil* |
 | <img src="musi/pona/ante.png" height="10" title="ander"><br>**ante** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *than*, *unlike*; (*esun*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **altered**, **changed**, **different**; (*esun*) <br>ɴᴏᴜɴ (*~~kama~~ ante*) [**change**](pu.md#toki-pona-proverbs) |
 | <img src="musi/pona/anu.png" height="10" title="an"><br>**anu** | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) <br>ᴘᴀʀᴛɪᴄʟᴇ *(alternative)*, **or** |
@@ -165,8 +165,7 @@ The words **ali**, **kin**, **namako** and **oko** are treated as ᴄʟᴀꜱꜱ
 | <img src="musi/pona/pan.png" height="10" title="fan"><br>**pan** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fallen*, *dropped*; *sown* <br>ɴᴏᴜɴ *seed*; **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** |
 | <img src="musi/pona/pana.png" height="10" title="pana"><br>**pana** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to emit**, **give**, [**grant**](pu.md#toki-pona-proverbs), **provide**, (*pana e ijo lon*) **put**, **release**, (*pana e ijo tawa*) **send**, [**send out**](pu.md#toki-pona-proverbs), [**serve**](pu.md#lesson-14) <br>ɴᴏᴜɴ *gift* |
 | <img src="musi/pona/pi.png" height="10" title="biloŋ"><br>**pi** | [**ᴍᴀʀᴋᴇʀ**](#case-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ [**(divides a second ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ that describes a first ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ)**](pu.md#lesson-11), **of** |
-| <img src="musi/pona/pilin.png" height="50" title="pil-im"><br>**pilin** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **heart (physical or emotional)**; <br>ᴠᴇʀʙ *to sense*; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (a direct experience)** |
-| | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ *to feel like*: (*pilin ~~wile~~ utala*) *to be angry* <br>ᴠᴇʀʙ *to have the impression that*, [**think**](pu.md#writings-of-baháulláh); <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (an emotion)** |
+| <img src="musi/pona/pilin.png" height="10" title="pil-im"><br>**pilin** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **heart (physical or emotional)**; <br>ᴠᴇʀʙ *to have the impression that*, *sense*, [**think**](pu.md#writings-of-baháulláh); <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (an emotion, a direct experience)** |
 | <img src="musi/pona/pimeja.png" height="10" title="pimea"><br>**pimeja** | [**ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#adjective) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **black**, (*pimeja ~~mu~~*) *blackish*; (ᴇxᴛɪɴᴄᴛ *kapesi*) *grey* |
 | | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dark**, **unlit** <br>ɴᴏᴜɴ *shadow* |
 | <img src="musi/pona/pini.png" height="10" title="pinis"><br>**pini** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **completed**, *done*, **ended**, **finished**: (*~~pi nanpa/sike/tenpo~~ pini*) **ago**, *last*, **past**, *previous*; <br>ᴠᴇʀʙ (*selo* = ᴄʟᴀꜱꜱɪᴄ *pini*) <br>ɴᴏᴜɴ *end*: (*lon ~~pini pi~~*) *after*, *in the end*, (*tan ~~pini pi~~*) *since* |
@@ -300,7 +299,7 @@ You can convert any ᴠᴇʀʙ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *who .
 
 * *awen*, *kama* + [ᴀʀᴇᴀ](#area)
 * *ken*, *wile*
-* *lukin*, *pilin* + [ᴏʀɢᴀɴ](#organ)
+* *lukin* + [ᴏʀɢᴀɴ](#organ)
 * *sona* + [ᴠᴇʀʙ](#verb)
 
 When the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ describes the modality of the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ with an ᴀᴅᴊᴇᴄᴛɪᴠᴇ, the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's ᴀᴅᴊᴇᴄᴛɪᴠᴇ can become the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ's ᴘʀᴇ-ᴠᴇʀʙ.
@@ -391,7 +390,8 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 * *insa*, *len*, *poki*, *tomo*
 * *kute*, *palisa*, *selo*, *sijelo*, *uta*
 * *lawa*, *luka* — *noka* + [ᴀʀᴇᴀ](#area)
-* *lukin*, *pilin* + [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb)
+* *lukin* + [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb)
+* *pilin*
 
 | ᴏʀɢᴀɴ lukin |
 |:-|
