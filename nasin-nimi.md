@@ -230,12 +230,6 @@ The words **ali**, **kin**, **namako** and **oko** are treated as ᴄʟᴀꜱꜱ
 ### ADJECTIVE
 *([nimi suli](#content-word) poka)*
 
-* *pona* — *ike*, *nasa*, *pakala*, *utala*
-* *jelo*, *laso*, *loje*
-* *kalama*
-* *walo* — *kule*, *pimeja*
-* *lape*, *moli*
-
 | |
 |:-|
 | [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
@@ -246,10 +240,6 @@ The words **ali**, **kin**, **namako** and **oko** are treated as ᴄʟᴀꜱꜱ
 
 #### PREPOSITION
 *([nimi suli poka](#adjective) palisa)*
-
-* *ante* ⇐ *esun* — *sama* ⇐ *pu*
-* *lon* ⇐ *kepeken* — *tan*, *tawa*
-* *sin* — *taso*
 
 You can convert any ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *being ...* omitting its argument.
 
@@ -272,12 +262,6 @@ When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴀᴅᴊᴇᴄᴛɪᴠᴇ 
 ### VERB
 *([nimi suli](#content-word) luka)*
 
-* *alasa*, *moku*
-* *jo*, *pana*
-* *nimi*, *sitelen*, *toki*
-* *olin*, *unpa*
-* *sona* + [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb)
- 
 | |
 |:-|
 | [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
@@ -297,11 +281,6 @@ You can convert any ᴠᴇʀʙ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *who .
 #### PRE-VERB
 *([nimi suli luka](#verb) poka)*
 
-* *awen*, *kama* + [ᴀʀᴇᴀ](#area)
-* *ken*, *wile*
-* *lukin* + [ᴏʀɢᴀɴ](#organ)
-* *sona* + [ᴠᴇʀʙ](#verb)
-
 When the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ describes the modality of the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ with an ᴀᴅᴊᴇᴄᴛɪᴠᴇ, the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's ᴀᴅᴊᴇᴄᴛɪᴠᴇ can become the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ's ᴘʀᴇ-ᴠᴇʀʙ.
 
 | ᴘʀᴇ-ᴠᴇʀʙ ken | ni li ken: mi toki. → mi ken toki. |
@@ -316,8 +295,6 @@ When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜ�
 
 ### NOUN
 *([nimi suli](#content-word) lawa)*
-
-* *ijo*, *jan*
 
 | |
 |:-|
@@ -349,8 +326,6 @@ You can convert any ɴᴏᴜɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *of ..
 #### PRONOUN
 *([nimi suli lawa](#noun) sama)*
 
-* *ona* — *mi*, *sina*
-
 | ɴᴏᴜɴ sina |
 |:-|
 | ɴᴏᴜɴ *you* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of you* = *your* |
@@ -378,19 +353,12 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 #### PERSON
 *([nimi suli poka](#noun-adjective) jan)*
 
-* *mama* — *meli*, *mije*
-
 | ᴘᴇʀꜱᴏɴ meli |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* <br>ɴᴏᴜɴ *feminine person* = *woman* |
 
 #### ORGAN
 *([nimi suli poka](#noun-adjective) ilo)*
-
-* *insa*, *len*, *poki*, *tomo*
-* *kute*, *palisa*, *pilin*, *selo*, *sijelo*, *uta*
-* *lawa*, *luka* — *noka* + [ᴀʀᴇᴀ](#area)
-* *lukin* + [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb)
 
 | ᴏʀɢᴀɴ lukin |
 |:-|
@@ -399,9 +367,6 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 #### LIFE-FORM
 *([nimi suli poka](#noun-adjective) sijelo)*
 
-* *akesi* — *soweli*
-* *kala*, *kasi*, *pipi*, *waso*
-
 | ʟɪꜰᴇ-ꜰᴏʀᴍ waso |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *swimming* <br>ɴᴏᴜɴ *swimming life-form* = *fish* |
@@ -409,30 +374,12 @@ You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ mean
 #### THING
 *([nimi suli poka](#noun-adjective) ijo)*
 
-* *anpa* — *sewi*, *supa* + [ᴀʀᴇᴀ](#area)
-* *insa* — *ma* + [ᴀʀᴇᴀ](#area)
-* *jaki* — *suwi*
-* *kili*, *pan*
-* *kiwen*, *ko*, *kon*, *telo*
-* *kulupu*, *sijelo*
-* *lete* — *seli*
-* *lili* — *ale*, *ilo*, *mani*, *mute*, *suli*, *wawa*
-* *linja* — *palisa*
-* *lipu* — *lupa*, *nena*
-* *monsi* — *sinpin* + [ᴀʀᴇᴀ](#area)
-* *mun*, *sike*
-* *musi* — *pali*
-* *pimeja* — *suno*
-* *poka* — *weka* + [ᴀʀᴇᴀ](#area)
-
 | ᴛʜɪɴɢ sike |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round* <br>ɴᴏᴜɴ *round thing* = *circle*, *ball* |
 
 #### CORRELATIVE
 *([nimi suli poka](#noun-adjective) sama)*
-
-* *ale*, *ni*, *seme*, *wan*
 
 | ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ale |
 |:-|
@@ -459,24 +406,12 @@ You can convert any ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ into an ᴀᴅᴊᴇᴄᴛɪ�
 #### NUMBER
 *([nimi suli poka](#noun-adjective) nanpa)*
 
-* *ala*, *ale*, *esun*, *luka*
-* *mute*, *tu*, *wan*
-
 | ɴᴜᴍʙᴇʀ tu |
 |:-|
 | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* <br>ɴᴏᴜɴ *two things* = *pair* |
 
 #### AREA
 *([nimi suli poka](#noun-adjective) pi ijo ale)*
-
-* *anpa* — *sewi*, *supa* + [ᴛʜɪɴɢ](#thing)
-* *awen*, *kama* + [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb)
-* *insa* — *ma* + [ᴛʜɪɴɢ](#thing)
-* *lawa*, *luka* — *noka* + [ᴏʀɢᴀɴ](#organ)
-* *monsi* — *sinpin* + [ᴛʜɪɴɢ](#thing)
-* *nasin* — *nanpa*, *tenpo*
-* *open* — *pini*
-* *poka* — *weka* + [ᴛʜɪɴɢ](#thing)
 
 | ᴀʀᴇᴀ insa |
 |:-|
@@ -679,11 +614,8 @@ Before **la**, the [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) **ni:** in fron
 
 #### INTERJECTION
 
-* *mu* — *a*, *ala*
-
 ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs and ᴘʀᴇ-ᴠᴇʀʙs can be modified by ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs.
 
 | ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ a! | o kepeken ala ilo ike. | mi sona ala toki. |
 |:-|:-|:-|
 | ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ *Wow!* | *Don't use bad tools.* | *I don't know how to talk.* |
-
