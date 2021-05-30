@@ -215,7 +215,7 @@ The words **ali**, **kin**, **namako** and **oko** are treated as ᴄʟᴀꜱꜱ
 | <img src="musi/pona/wawa.png" height="10" title="vahva"><br>**wawa** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **energetic**, **intense**, **powerful**, [**stable**](pu.md#lesson-15), **strong**; [**independent**](pu.md#chapter-of-sincerity); [**dependable**](pu.md#lesson-4), [**reliable**](pu.md#lesson-5); (*~~sona~~ wawa*) **confident**, **sure**; (*~~kalama~~ wawa*) [**loud**](pu.md#lesson-17); <br>ᴠᴇʀʙ [**strengthen**](pu.md#lesson-6); (*~~toki~~ wawa e ~~sona~~*) [**to bear witness**](pu.md#writings-of-baháulláh) <br>ɴᴏᴜɴ [**might**](pu.md#writings-of-baháulláh), [**power**](pu.md#writings-of-baháulláh); *force* |
 | <img src="musi/pona/weka.png" height="10" title="weĥ"><br>**weka** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**, *remote*; **ignored**, *isolated*; <br>ɴᴏᴜɴ [**isolation**](pu.md#toki-pona-proverbs); <br>ᴠᴇʀʙ [**to eliminate**](pu.md#famous-quotations), [**erase**](pu.md#toki-pona-proverbs), [**omit**](pu.md#famous-quotations), [**remove**](pu.md#toki-pona-proverbs) <br>ɴᴏᴜɴ *distance*: (*lon weka pi*) *away from* |
 | | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vast* <br>ɴᴏᴜɴ *space*; *vacuum*, *void* |
-| <img src="musi/pona/wile.png" height="50" title="wile"><br>**wile** | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **must**, **need**, **require**, **should**, **want**, **wish** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inevitable*, *necessary*; <br>ᴠᴇʀʙ *to enforce*; <br>ɴᴏᴜɴ *necessity* |
+| <img src="musi/pona/wile.png" height="10" title="wile"><br>**wile** | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **must**, **need**, **require**, **should**, **want**, **wish** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inevitable*, *necessary* |
 
 ## CONTENT WORD
 *([nimi](#parts-of-speech-and-word-classes) suli)*
