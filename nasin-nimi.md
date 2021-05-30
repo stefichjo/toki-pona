@@ -60,6 +60,10 @@ Unofficial translations are written in *italics*. Their sources are written in s
 
 ...
 
+The words **ali**, **kin**, **namako** and **oko** are treated as ᴄʟᴀꜱꜱɪᴄ.
+
+...
+
 * ᴇxᴛɪɴᴄᴛ
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
@@ -69,7 +73,7 @@ Unofficial translations are written in *italics*. Their sources are written in s
 | <img src="musi/pona/ala.png" height="10" title="ara"><br>**ala** | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ *(negation)* <br>ᴀᴅᴠᴇʀʙ **not** <br>ɴᴏᴜɴ [**nothingness**](pu.md#lesson-6) |
 | | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **zero**, [**0**](pu.md#lesson-12); **no**: (*ijo ala* = ᴄʟᴀꜱꜱɪᴄ *ala*) [**nothing**](pu.md#chapter-of-sincerity) <br>ɴᴏᴜɴ [**zero**](pu.md#famous-quotations) |
 | <img src="musi/pona/alasa.png" height="50" title="a-la-ŝas"><br>**alasa** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to hunt**, **forage**; (⇒ ᴋɪᴘᴏ *lukin*) <br>ɴᴏᴜɴ *prey* |
-| <img src="musi/pona/ale.png" height="50" title="ale"><br>**ale** | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) ⇐ *~~ali~~* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ  (*~~mute~~ ale*) **all**, **every**; (*~~wan~~ ale*) **all** <br>ɴᴏᴜɴ **everything**; (⇒ *ma*) |
+| <img src="musi/pona/ale.png" height="50" title="ale"><br>**ale** | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) = ᴄʟᴀꜱꜱɪᴄ *ali* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ  (*~~mute~~ ale*) **all**, **every**; (*~~wan~~ ale*) **all** <br>ɴᴏᴜɴ **everything**; (⇒ *ma*) |
 | | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](pu.md#lesson-12), **countless** <br>ɴᴏᴜɴ [**infinity**](pu.md#famous-quotations); [**100**](pu.md#lesson-12) |
 | | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **bountiful**, **plentiful** <br>ɴᴏᴜɴ **abundance**; **life**, **universe** |
 | <img src="musi/pona/anpa.png" height="50" title="an-ba"><br>**anpa** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (⇒ *noka*): (*kama anpa*) **downward**; **bowing down**; *deep* <br>ɴᴏᴜɴ (⇒ *noka*); *abyss*; (ᴋɪᴘᴏ *apeja*) *hell* |
@@ -122,7 +126,7 @@ Unofficial translations are written in *italics*. Their sources are written in s
 | <img src="musi/pona/luka.png" height="50" title="ruka"><br>**luka** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *reachable* <br>ɴᴏᴜɴ *range* |
 | | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **arm**, [**fingers**](pu.md#writings-of-baháulláh), **hand**, **tactile organ**; <br>ᴠᴇʀʙ *to touch* |
 | | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**5**](pu.md#lesson-12), **five** <br>ɴᴏᴜɴ *quintet* |
-| <img src="musi/pona/lukin.png" height="50" title="luk-im"><br>**lukin** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ (*~~oko~~*) **eye**; <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, (*lukin e sitelen*) **read**, (*lukin e kon*) [**search**](pu.md#preface), **watch** |
+| <img src="musi/pona/lukin.png" height="50" title="luk-im"><br>**lukin** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ (ᴄʟᴀꜱꜱɪᴄ *oko*) **eye**; <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, (*lukin e sitelen*) **read**, (*lukin e kon*) [**search**](pu.md#preface), **watch** |
 | | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **try to**; (ᴋɪᴘᴏ *alasa*) [**to seek to**](pu.md#lesson-13): (*lukin jo*) [**to look for**](pu.md#errata) <br>ᴠᴇʀʙ *to care for* |
 | <img src="musi/pona/lupa.png" height="50" title="rupa"><br>**lupa** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *concave*, *empty*, *hollow* <br>ɴᴏᴜɴ *cave*, **orifice**: (*lupa meli*) [**womb**](pu.md#toki-pona-proverbs); (⇐ *open*) *entrance*, **hole**: (*lupa ~~tomo~~*) **door**, (*lupa ~~suno~~*) **window** |
 | <img src="musi/pona/ma.png" height="50" title="maa"><br>**ma** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *contextual*, *outside*; *firm*, *fixed* <br>ɴᴏᴜɴ **outdoors**: *context*, **world**; *area* (⇐ ale); (*~~sike~~ ma*) [**planet**](pu.md#toki-pona-proverbs) <br>ᴠᴇʀʙ *to orient*, *tie* |
@@ -181,7 +185,7 @@ Unofficial translations are written in *italics*. Their sources are written in s
 | | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **awe-inspiring**, **divine**, **sacred**, **supernatural** <br>ɴᴏᴜɴ [**the Divine**](pu.md#preface), [**that which is divine**](pu.md#lesson-6), [**God**](pu.md#lesson-6), [**the Lord**](pu.md#the-torah) |
 | <img src="musi/pona/sijelo.png" height="50" title="tijelo"><br>**sijelo** | [**ᴏʀɢᴀɴ**](#organ) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *alive*, *healthy*, *surviving*; <br>ɴᴏᴜɴ [**health**](pu.md#lesson-13), **physical state**; *configuration*, *mode* <br>ɴᴏᴜɴ *life-form*; **body (of person or animal)**, **torso**; <br>ᴠᴇʀʙ (⇒ *mama pi*) |
 | <img src="musi/pona/sike.png" height="50" title="sirkel"><br>**sike** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round*; (⇒ *pini*); <br>ᴠᴇʀʙ *to fulfil*: (*sike e ~~sike~~ suno*) *to have one's birthday* <br>ɴᴏᴜɴ **round or circular thing**: **ball**, **circle**, **sphere**, **wheel**; **cycle**; *age*; *lap*: (*~~sike~~ suno*) *year*; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*sike ~~suno~~*) **of one year**, (*pi sike ~~suno~~ mute* ⇐ *~~majuna~~*) *old* |
-| <img src="musi/pona/sin.png" height="50" title="ŝin"><br>**sin** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh**; (*~~namako~~*) **additional**, **another**, **extra**; *artificial*, *enhanced* |
+| <img src="musi/pona/sin.png" height="50" title="ŝin"><br>**sin** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh**; (ᴄʟᴀꜱꜱɪᴄ *namako*) **additional**, **another**, **extra**; *artificial*, *enhanced* |
 | <img src="musi/pona/sina.png" height="10" title="sina"><br>**sina** | [**ɴᴏᴜɴ**](#pronoun) <br>ɴᴏᴜɴ **you**/*thou*/*thee*/[**thyself**](pu.md#toki-pona-proverbs); [**the person who**](pu.md#famous-quotations); <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your*/[**thy**](pu.md#toki-pona-proverbs) |
 | <img src="musi/pona/sinpin.png" height="10" title="cinpin"><br>**sinpin** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **foremost** <br>ɴᴏᴜɴ [**area in front**](pu.md#lesson-15): (*lon sinpin*) [**in front of**](pu.md#lesson-15) |
 | | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blocking*, *upright*, *vertical* <br>ɴᴏᴜɴ **front**, **wall**; (*sinpin ~~sijelo~~*) [**chest**](pu.md#lesson-15), (*sinpin ~~lawa~~*) **face**; <br>ᴠᴇʀʙ (*~~pake~~*) *to block*; *to confront*, *face* |
