@@ -69,7 +69,7 @@ When ᴋɪᴘᴏ turns a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs into a ɴᴏᴜɴ, the �
 
 ## Content Words
 
-When ᴋɪᴘᴏ converts an ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ, seemingly arbitrarily complex ideas may be implied.
+When ᴋɪᴘᴏ converts a ᴍᴏᴅɪꜰɪᴇʀ into a ɴᴏᴜɴ, seemingly arbitrarily complex ideas may be implied.
 
 | | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ/ᴛᴇᴘᴀɴ |
 |:-|:-|:-|
