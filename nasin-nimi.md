@@ -24,48 +24,6 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 ## Dictionary
 *(nimi ale)*
 
-Translations given in the official Toki Pona dictionary are written in **bold**.
-
-| | |
-|:-:|:-|
-| <img src="musi/pona/e.png" height="50" title="e"><br>**e** | [**ᴍᴀʀᴋᴇʀ**](#case-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ **(before the direct ᴏʙᴊᴇᴄᴛ)** |
-| | |
-
-Translations given in the official Toki Pona book's corpus are [**linked**](#dictionary). (Some of these are treated as [**errata**](pu.md#errata).)
-
-| | |
-|:-:|:-|
-| <img src="musi/pona/kalama.png" height="50" title="galama"><br>**kalama** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**producing a sound**](pu.md#errata) <br>ᴠᴇʀʙ **to recite**, **utter aloud** <br>ɴᴏᴜɴ [**noise**](pu.md#lesson-18) |
-| | |
-
-Translations that I have deduced are written in *italics*.
-
-| | |
-|:-:|:-|
-| <img src="musi/pona/suno.png" height="50" title="suno"><br>**suno** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bright*; <br>ɴᴏᴜɴ **brightness**, **glow**, **light**, **radiance**, **shine** <br>ɴᴏᴜɴ **sun**; **light source** |
-| | |
-
-A translation's context is written in *italics*.
-
-| | |
-|:-:|:-|
-| <img src="musi/pona/moli.png" height="50" title="muri"><br>**moli** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**: (*kama moli*) **dying** |
-| | |
-
-Omitted words in a translation's context are *~~crossed out~~*.
-
-| | |
-|:-:|:-|
-| <img src="musi/pona/nasa.png" height="50" title="nasau"><br>**nasa** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **strange**, [**unconventional**](pu.md#toki-pona-proverbs), **unusual**; (*nasa ~~ike~~*) **crazy**, **foolish**; (*nasa ~~jaki~~*) **drunk**, **intoxicated** |
-| | |
-
-When a word seems to have supplanted a simpler word, its meaning can be found under the original word.
-
-| | |
-|:-:|:-|
-| <img src="musi/pona/ilo.png" height="50" title="ilo"><br>**ilo** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*pona*) **useful** <br>ɴᴏᴜɴ **device**, **implement**, **machine**, **tool** |
-| | |
-
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-:|:-|
 | <img src="musi/pona/a.png" height="50" title="ha"><br>**a** | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ [**(emotion word)**](pu.md#lesson-10), (ᴄʟᴀꜱꜱɪᴄ *kin*) **(emphasis or confirmation)** <br>ᴀᴅᴠᴇʀʙ [**so**](pu.md#lesson-10); [**ha**](pu.md#lesson-10), [**wow**](pu.md#lesson-10), [**yay**](pu.md#lesson-13): (*sama la + a* = ᴄʟᴀꜱꜱɪᴄ *kin*) *also*, (ᴄʟᴀꜱꜱɪᴄ *kin*) *indeed*, (*awen la + a* = ᴘɪᴊᴇ *kin*) *still*, (*sin la + a* = ᴄʟᴀꜱꜱɪᴄ *kin*) *too*; (*lon*) *yes* |
@@ -215,6 +173,50 @@ When a word seems to have supplanted a simpler word, its meaning can be found un
 | <img src="musi/pona/weka.png" height="50" title="weĥ"><br>**weka** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**, *remote*; **ignored**, *isolated*; <br>ɴᴏᴜɴ [**isolation**](pu.md#toki-pona-proverbs); <br>ᴠᴇʀʙ [**to eliminate**](pu.md#famous-quotations), [**erase**](pu.md#toki-pona-proverbs), [**omit**](pu.md#famous-quotations), [**remove**](pu.md#toki-pona-proverbs) <br>ɴᴏᴜɴ *distance*: (*lon weka*) *away from* |
 | | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vast* <br>ɴᴏᴜɴ *space*; *vacuum*, *void* |
 | <img src="musi/pona/wile.png" height="50" title="wile"><br>**wile** | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **must**, **need**, **require**, **should**, **want**, **wish** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inevitable*, *necessary* |
+
+## DICTIONARY - EXPLANATION
+
+Translations given in the official Toki Pona dictionary are written in **bold**.
+
+| | |
+|:-:|:-|
+| <img src="musi/pona/e.png" height="50" title="e"><br>**e** | [**ᴍᴀʀᴋᴇʀ**](#case-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ **(before the direct ᴏʙᴊᴇᴄᴛ)** |
+| | |
+
+Translations given in the official Toki Pona book's corpus are [**linked**](#dictionary). (Some of these are treated as [**errata**](pu.md#errata).)
+
+| | |
+|:-:|:-|
+| <img src="musi/pona/kalama.png" height="50" title="galama"><br>**kalama** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**producing a sound**](pu.md#errata) <br>ᴠᴇʀʙ **to recite**, **utter aloud** <br>ɴᴏᴜɴ [**noise**](pu.md#lesson-18) |
+| | |
+
+Translations that I have deduced are written in *italics*.
+
+| | |
+|:-:|:-|
+| <img src="musi/pona/suno.png" height="50" title="suno"><br>**suno** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bright*; <br>ɴᴏᴜɴ **brightness**, **glow**, **light**, **radiance**, **shine** <br>ɴᴏᴜɴ **sun**; **light source** |
+| | |
+
+A translation's context is written in *italics*.
+
+| | |
+|:-:|:-|
+| <img src="musi/pona/moli.png" height="50" title="muri"><br>**moli** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**: (*kama moli*) **dying** |
+| | |
+
+Omitted words in a translation's context are *~~crossed out~~*.
+
+| | |
+|:-:|:-|
+| <img src="musi/pona/nasa.png" height="50" title="nasau"><br>**nasa** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **strange**, [**unconventional**](pu.md#toki-pona-proverbs), **unusual**; (*nasa ~~ike~~*) **crazy**, **foolish**; (*nasa ~~jaki~~*) **drunk**, **intoxicated** |
+| | |
+
+When a word seems to have supplanted a simpler word, its meaning can be found under the original word.
+
+| | |
+|:-:|:-|
+| <img src="musi/pona/ilo.png" height="50" title="ilo"><br>**ilo** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*pona*) **useful** <br>ɴᴏᴜɴ **device**, **implement**, **machine**, **tool** |
+| | |
 
 ## CONTENT WORD
 *([nimi](#parts-of-speech-and-word-classes) suli)*
