@@ -212,7 +212,7 @@ The words **ali**, **kin**, **namako** and **oko** are treated as ᴄʟᴀꜱꜱ
 
 | |
 |:-|
-| [ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#adjective): [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
+| [ᴍᴏᴅɪꜰɪᴇʀ](#modifier): [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
 | [ᴠᴇʀʙ](#verb): [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
 | [ɴᴏᴜɴ](#noun): [ᴘʀᴏɴᴏᴜɴ](#pronoun) |
 | [ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#noun-adjective) |
