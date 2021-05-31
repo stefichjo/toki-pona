@@ -28,34 +28,43 @@ Translations given in the official Toki Pona dictionary are written in **bold**.
 
 | | |
 |:-:|:-|
-| <img src="musi/pona/pakala.png" height="50" title="bagar-ap"><br>**pakala** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **botched**, **broken**, **damaged**, **harmed**, **messed up** |
+| <img src="musi/pona/e.png" height="50" title="e"><br>**e** | [**ᴍᴀʀᴋᴇʀ**](#case-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ **(before the direct ᴏʙᴊᴇᴄᴛ)** |
 | | |
 
-Translations given in the official Toki Pona book's corpus are [**linked**](#dictionary). (Some of these are [**errata**](pu.md#errata).)
+Translations given in the official Toki Pona book's corpus are [**linked**](#dictionary). (Some of these are treated as [**errata**](pu.md#errata).)
 
-...
+| | |
+|:-:|:-|
+| <img src="musi/pona/kalama.png" height="50" title="galama"><br>**kalama** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**producing a sound**](pu.md#errata) <br>ᴠᴇʀʙ **to recite**, **utter aloud** <br>ɴᴏᴜɴ [**noise**](pu.md#lesson-18) |
+| | |
+
+Translations that I have deduced are written in *italics*.
+
+| | |
+|:-:|:-|
+| <img src="musi/pona/suno.png" height="50" title="suno"><br>**suno** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bright*; <br>ɴᴏᴜɴ **brightness**, **glow**, **light**, **radiance**, **shine** <br>ɴᴏᴜɴ **sun**; **light source** |
+| | |
 
 A translation's context is written in *italics*.
 
-...
+| | |
+|:-:|:-|
+| <img src="musi/pona/moli.png" height="50" title="muri"><br>**moli** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**: (*kama moli*) **dying** |
+| | |
 
-Omitted words are *~~crossed out~~*.
+Omitted words in a translation's context are *~~crossed out~~*.
 
-...
+| | |
+|:-:|:-|
+| <img src="musi/pona/nasa.png" height="50" title="nasau"><br>**nasa** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **strange**, [**unconventional**](pu.md#toki-pona-proverbs), **unusual**; (*nasa ~~ike~~*) **crazy**, **foolish**; (*nasa ~~jaki~~*) **drunk**, **intoxicated** |
+| | |
 
 When a word seems to have supplanted a simpler word, its meaning can be found under the original word.
 
-...
-
-Unofficial translations are written in *italics*. Their sources are written in sᴍᴀʟʟ ᴄᴀᴘs.
-
-...
-
-The words **ali**, **kin**, **namako** and **oko** are treated as ᴄʟᴀꜱꜱɪᴄ.
-
-...
-
-* ᴇxᴛɪɴᴄᴛ
+| | |
+|:-:|:-|
+| <img src="musi/pona/ilo.png" height="50" title="ilo"><br>**ilo** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*pona*) **useful** <br>ɴᴏᴜɴ **device**, **implement**, **machine**, **tool** |
+| | |
 
 | ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
 |:-:|:-|
@@ -110,7 +119,7 @@ The words **ali**, **kin**, **namako** and **oko** are treated as ᴄʟᴀꜱꜱ
 | <img src="musi/pona/li.png" height="50" title="li"><br>**li** | [**ᴍᴀʀᴋᴇʀ**](#mood-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ *(indicative)*, **(between any ꜱᴜʙᴊᴇᴄᴛ except mi alone or sina alone and its ᴘʀᴇᴅɪᴄᴀᴛᴇ; also to introduce a new ᴘʀᴇᴅɪᴄᴀᴛᴇ for the same ꜱᴜʙᴊᴇᴄᴛ)** |
 | <img src="musi/pona/lili.png" height="50" title="liklik"><br>**lili** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **little**, [**micro-**](pu.md#preface), [**narrow**](pu.md#lesson-13), **small**, **short**; (*~~pi tenpo~~ lili*) [**momentary**](pu.md#toki-pona-proverbs), [**temporary**](pu.md#toki-pona-proverbs); [**120**](pu.md#preface), **few**; **a bit**; (*~~pi sike suno~~ lili*) **young** <br>ɴᴏᴜɴ (ᴄʟᴀssɪᴄ *kipisi*) *building block*, *detail*, *element*, *member*, *unit*; *part*, *particle*, *piece* |
 | <img src="musi/pona/linja.png" height="50" title="linja"><br>**linja** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *long and flexible* <br>ɴᴏᴜɴ [**long flexible thing**](pu.md#errata): *chain*, **cord**, (*linja ~~lawa~~*) **hair**, **rope**, [**string**](pu.md#lesson-17), **thread**, **yarn**; *curve*, *line*; *row*; <br>ᴠᴇʀʙ *to tie* |
-| <img src="musi/pona/lipu.png" height="50" title="lipu"><br>**lipu** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flat*, *thin* <br>ɴᴏᴜɴ **flat object**: (*~~mute~~ lipu*) **book**, **card**, [**clay tablet**](pu.md#what-is-toki-pona), **document**, **paper**, [**piece of paper**](pu.md#lesson-2), [**postcard**](pu.md#what-is-toki-pona), [**printed book**](pu.md#what-is-toki-pona), **record**, **website**; *plane* |
+| <img src="musi/pona/lipu.png" height="50" title="lipu"><br>**lipu** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flat*, *thin* <br>ɴᴏᴜɴ **flat object**: (*~~mute~~ lipu*) **book**, **card**, [**clay tablet**](pu.md#what-is-toki-pona), **document**, **paper**, [**piece of paper**](pu.md#lesson-2), [**postcard**](pu.md#what-is-toki-pona), [**printed book**](pu.md#what-is-toki-pona), **record**, **website** |
 | <img src="musi/pona/loje.png" height="50" title="roje"><br>**loje** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **red**, (*loje ~~mu~~*) **reddish** |
 | <img src="musi/pona/lon.png" height="50" title="loŋ"><br>**lon** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *along*; [**at**](pu.md#lesson-8), **located at**, **present at**; [**in the context of**](pu.md#lesson-14): (*lon ni:* = , *la*) [**if**](pu.md#lesson-14), [**when**](pu.md#lesson-14) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**existing**, **real**, **true**](pu.md#errata); <br>ᴀᴅᴠᴇʀʙ (*a*) |
 | <img src="musi/pona/luka.png" height="50" title="ruka"><br>**luka** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **arm**, [**fingers**](pu.md#writings-of-baháulláh), **hand**, **tactile organ**; <br>ᴠᴇʀʙ *to touch* |
