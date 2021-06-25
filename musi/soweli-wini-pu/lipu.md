@@ -10,7 +10,6 @@
 
 ___
 * jan Kitopa Jopin *(Christopher Robin)*
-* pilin pi sin nasa *(surpriziĝas)*
 
 ___
 
