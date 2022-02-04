@@ -174,50 +174,6 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *vast* <br><small>NOUN</small> *space*; *vacuum*, *void* |
 | <img src="musi/pona/wile.png" height="50" title="wile"><br>**wile** | [**<small>PRE-VERB</small>**](#pre-verb) <br><small>PRE-VERB</small> **must**, **need**, **require**, **should**, **want**, **wish** <br><small>ADJECTIVE</small> *inevitable*, *necessary* |
 
-## DICTIONARY - EXPLANATION
-
-Translations given in the official Toki Pona dictionary are written in **bold**.
-
-| | |
-|:-:|:-|
-| <img src="musi/pona/e.png" height="50" title="e"><br>**e** | [**<small>MARKER</small>**](#case-marker) <br><small>PARTICLE</small> **(before the direct <small>OBJECT</small>)** |
-| | |
-
-Translations given in the official Toki Pona book's corpus are [**linked**](#dictionary). (Some of these are treated as [*errata*](pu.md#errata).)
-
-| | |
-|:-:|:-|
-| <img src="musi/pona/kalama.png" height="50" title="galama"><br>**kalama** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> [*producing a sound*](pu.md#errata) <br><small>VERB</small> **to recite**, **utter aloud** <br><small>NOUN</small> [**noise**](pu.md#lesson-18) |
-| | |
-
-Translations that I have deduced are written in *italics*.
-
-| | |
-|:-:|:-|
-| <img src="musi/pona/suno.png" height="50" title="suno"><br>**suno** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *bright*; <br><small>NOUN</small> **brightness**, **glow**, **light**, **radiance**, **shine** <br><small>NOUN</small> **sun**; **light source** |
-| | |
-
-A translation's context is written in *italics*.
-
-| | |
-|:-:|:-|
-| <img src="musi/pona/moli.png" height="50" title="muri"><br>**moli** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> **dead**: (*kama moli*) **dying** |
-| | |
-
-Omitted words in a translation's context are *~~crossed out~~*.
-
-| | |
-|:-:|:-|
-| <img src="musi/pona/nasa.png" height="50" title="nasau"><br>**nasa** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> **strange**, [**unconventional**](pu.md#toki-pona-proverbs), **unusual**; (*nasa ~~ike~~*) **crazy**, **foolish**; (*nasa ~~jaki~~*) **drunk**, **intoxicated** |
-| | |
-
-When a word seems to have supplanted a simpler word, its meaning can be found under the original word.
-
-| | |
-|:-:|:-|
-| <img src="musi/pona/ilo.png" height="50" title="ilo"><br>**ilo** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> (*pona*) **useful** <br><small>NOUN</small> **device**, **implement**, **machine**, **tool** |
-| | |
-
 ## CONTENT WORD
 [<small>NIMI</small>](#parts-of-speech-and-word-classes) <small>SULI</small>
 
