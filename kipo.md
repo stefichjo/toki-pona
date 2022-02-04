@@ -1,4 +1,4 @@
-# Dialectal Toki Pona ([ᴋɪᴘᴏ](https://tpnimi.blogspot.com/p/nimi-sama-k.html))
+# Dialectal Toki Pona ([<small>KIPO</small>](https://tpnimi.blogspot.com/p/nimi-sama-k.html))
 
 | |
 |:-|
@@ -11,76 +11,76 @@
 
 ### pi
 
-ᴋɪᴘᴏ combines **pi** with ᴘʀᴇᴅɪᴄᴀᴛᴇs. (Cf. [***Toki Ike***](toki-namako.md#toki-ike).)
+<small>KIPO</small> combines **pi** with <small>PREDICATE</small>s. (Cf. [***Toki Ike***](toki-namako.md#toki-ike).)
 
-| | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
+| | <small>KIPO</small> | <small>SONJA</small> |
 |:-|:-|:-|
 | *the person that went home* | **jan pi tawa tomo li …** | **jan li tawa tomo. ona li …** |
 
 ### li
 
-ᴋɪᴘᴏ prefixes a **li**-ꜱᴇɴᴛᴇɴᴄᴇ with an ᴏᴘᴛᴀᴛɪᴠᴇ **o**.
+<small>KIPO</small> prefixes a **li**-<small>SENTENCE</small> with an <small>OPTATIVE</small> **o**.
 
-| | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
+| | <small>KIPO</small> | <small>SONJA</small> |
 |:-|:-|:-|
 | *May she sleep well.* | **o ona li lape pona.** | **ona o lape pona.** |
 
 ## Prepositions
 
-When ᴋɪᴘᴏ turns a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs into a ɴᴏᴜɴ, the ɴᴏᴜɴ can have the meaning of the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ's argument. (Cf. [***Toki Ike***](toki-namako.md#toki-ike).)
+When <small>KIPO</small> turns a <small>PREPOSITION</small>s into a <small>NOUN</small>, the <small>NOUN</small> can have the meaning of the <small>PREPOSITION</small>'s argument. (Cf. [***Toki Ike***](toki-namako.md#toki-ike).)
 
-| | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
+| | <small>KIPO</small> | <small>SONJA</small> |
 |:-|:-|:-|
 | *tool* | **kepeken** | **ilo** |
 
-| | ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
+| | <small>KIPO</small> | <small>TEPAN</small> |
 |:-|:-|:-|
 | *location*, *address* | **lon** | **ijo** (context) |
 | *origin*, *source*, *cause*, *reason*, *motive* | **tan** | **mama** |
 | *destination*, *target*, *goal* | **tawa** | **pini** |
 
-ᴋɪᴘᴏ describes **sama** as a reflexive or reciprocal ᴘʀᴏɴᴏᴜɴ. (Presumably, **sama** could be translated as *original* (*what something is like*) and could therefore be used as reflexive or reciprocal ᴘʀᴏɴᴏᴜɴ.)
+<small>KIPO</small> describes **sama** as a reflexive or reciprocal <small>PRONOUN</small>. (Presumably, **sama** could be translated as *original* (*what something is like*) and could therefore be used as reflexive or reciprocal <small>PRONOUN</small>.)
 
-| | ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
+| | <small>KIPO</small> | <small>TEPAN</small> |
 |:-|:-|:-|
 | *She sees herself.*/*They see each other.* | **ona li lukin e sama.** | **ona li lukin e ona sama.** |
 
-ᴋɪᴘᴏ describes **pu** (whithout calling it *official*) as *the Toki Pona book (possibly derogatorily)*. (Apparently, **pu** might be used as a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ meaning *following*, *according to*. As a noun, it could then mean *what is being followed* and so on. Alternatively, **pu** can be glossed as a noun meaning *the official Toki Pona book*, and by means of a rule that any noun can be converted into an adjective meaning "interacting with ...", the adjective **pu** means *interacting with the official Toki Pona book*).
+<small>KIPO</small> describes **pu** (whithout calling it *official*) as *the Toki Pona book (possibly derogatorily)*. (Apparently, **pu** might be used as a <small>PREPOSITION</small> meaning *following*, *according to*. As a noun, it could then mean *what is being followed* and so on. Alternatively, **pu** can be glossed as a noun meaning *the official Toki Pona book*, and by means of a rule that any noun can be converted into an adjective meaning "interacting with ...", the adjective **pu** means *interacting with the official Toki Pona book*).
 
-| | ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
+| | <small>KIPO</small> | <small>TEPAN</small> |
 |:-|:-|:-|
 | *the (official) Toki Pona book* | **pu** | **lipu Pu** |
 
 ### poka
 
-ᴋɪᴘᴏ describes **poka** as a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ. (ᴋɪᴘᴏ also describes **sike**, **taso** and **weka** as ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs.)
+<small>KIPO</small> describes **poka** as a <small>PREPOSITION</small>. (<small>KIPO</small> also describes **sike**, **taso** and **weka** as <small>PREPOSITION</small>s.)
 
-| | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
+| | <small>KIPO</small> | <small>SONJA</small> |
 |:-|:-|:-|
 | *I'm walking next to you.* | **mi tawa, poka sina.** | **mi tawa lon poka sina.** |
 
 ### e
 
-ᴋɪᴘᴏ turns ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇs into ᴠᴇʀʙs. This is unnecessarily ᴜɴ-ᴘᴏɴᴀ, but does make sense. (Cf. [***Toki Nasa***](toki-namako.md#toki-nasa).)
+<small>KIPO</small> turns <small>PREPOSITIONAL PHRASE</small>s into <small>VERB</small>s. This is unnecessarily <small>UN-PONA</small>, but does make sense. (Cf. [***Toki Nasa***](toki-namako.md#toki-nasa).)
 
-| | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
+| | <small>KIPO</small> | <small>SONJA</small> |
 |:-|:-|:-|
 | *Where did you put the clock next to?* | **sina lon poka seme e ilo tenpo?** | **sina pana e ilo tenpo lon poka seme?** |
 
 ## Content Words
 
-When ᴋɪᴘᴏ converts a ᴍᴏᴅɪꜰɪᴇʀ into a ɴᴏᴜɴ, seemingly arbitrarily complex ideas may be implied.
+When <small>KIPO</small> converts a <small>MODIFIER</small> into a <small>NOUN</small>, seemingly arbitrarily complex ideas may be implied.
 
-| | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ/ᴛᴇᴘᴀɴ |
+| | <small>KIPO</small> | <small>SONJA</small>/<small>TEPAN</small> |
 |:-|:-|:-|
 | *foreigner*, *stranger* | **ante** | **jan pi ma ante** |
 | *preserves*, *canned goods* | **awen** | **moku awen** |
 | *news* | **sin** | **toki (pi ijo sin)** |
 | *day* | **suno** | **tenpo suno** |
 
-When **jaki** and **pimeja** become ɴᴏᴜɴs, they appear as if an **ijo** went missing. Apparently, this makes sense, if they mean something primordial (from a human perspective) like **suno**, **sewi**, **seli** and so on. (Cf. [ᴛᴇᴘᴀɴ](sin.md#thing).)
+When **jaki** and **pimeja** become <small>NOUN</small>s, they appear as if an **ijo** went missing. Apparently, this makes sense, if they mean something primordial (from a human perspective) like **suno**, **sewi**, **seli** and so on. (Cf. [<small>TEPAN</small>](sin.md#thing).)
 
-| | ᴋɪᴘᴏ | ᴛᴇᴘᴀɴ |
+| | <small>KIPO</small> | <small>TEPAN</small> |
 |:-|:-|:-|
 | *dirt*, *garbage*, *pollution* | **jaki** | **(ijo) jaki** |
 | *poison* | **jaki** (?) | **jaki** |
@@ -89,24 +89,24 @@ When **jaki** and **pimeja** become ɴᴏᴜɴs, they appear as if an **ijo** we
 | *unit, element* | **wan** | **wan** |
 | *particle*, *part*, *piece* | **wan** | **lili** |
 
-ᴋɪᴘᴏ generalizes **kulupu** using it for any *gathering of things physically or mentally*, so not only for social constructs.
+<small>KIPO</small> generalizes **kulupu** using it for any *gathering of things physically or mentally*, so not only for social constructs.
 
-| | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
+| | <small>KIPO</small> | <small>SONJA</small> | <small>TEPAN</small> |
 |:-|:-|:-|:-|
 | *gathering (of things)* | **kulupu (ijo)** | **(ijo) mute** | **mute (ijo)** ⇒ **kulupu (ijo)** |
 
 ## Punctuation
 
-ᴋɪᴘᴏ uses commas to add ᴘʜʀᴀꜱᴇs (where they don't belong).
+<small>KIPO</small> uses commas to add <small>PHRASE</small>s (where they don't belong).
 
-| | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
+| | <small>KIPO</small> | <small>SONJA</small> |
 |:-|:-|:-|
 | *I give you a room.* | **mi pana e tomo, tawa sina.** | **mi pana e tomo tawa sina.** |
 | *many men of Athens* | **jan pi ma Asina, mute** | **jan mute pi ma Asina** |
 
-ᴋɪᴘᴏ uses a hiphen to denote the end of a ꜱᴇɴᴛᴇɴᴄᴇ after **ni:**.
+<small>KIPO</small> uses a hiphen to denote the end of a <small>SENTENCE</small> after **ni:**.
 
-| | ᴋɪᴘᴏ | ꜱᴏɴᴊᴀ |
+| | <small>KIPO</small> | <small>SONJA</small> |
 |:-|:-|:-|
 | *I know that Tom is happy.* | **mi sona e ni: jan Ton li pilin pona-.** | **mi sona e ni: jan Ton li pilin pona.** |
 

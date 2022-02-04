@@ -1,10 +1,10 @@
-# (ᴛᴇᴘᴀɴ)
+# (<small>TEPAN</small>)
 
 ## Dictionary
 
-In my dialect, the ɴᴏᴜɴ **tan** means *departure* and can be approximated by **kama tawa**. In [official Toki Pona](pu.md), **tawa** is used for *departure*.
+In my dialect, the <small>NOUN</small> **tan** means *departure* and can be approximated by **kama tawa**. In [official Toki Pona](pu.md), **tawa** is used for *departure*.
 
-| | ꜱᴏɴᴊᴀ | ᴛᴇᴘᴀɴ |
+| | <small>SONJA</small> | <small>TEPAN</small> |
 |:-|:-|:-|
 | *Good departure!* | **tawa pona.** | **kama tawa pona.** → **tan pona.** |
 
@@ -12,13 +12,13 @@ In my dialect, the ɴᴏᴜɴ **tan** means *departure* and can be approximated 
 
 ### [PRE-VERB](nasin-nimi.md#pre-verb)
 
-In my dialect, ᴘʀᴇ-ᴠᴇʀʙs are not omitted.
+In my dialect, <small>PRE-VERB</small>s are not omitted.
 
 | mi wile kama sona tawa lon telo. |
 |:-|
 | *I need to learn how to swim.* |
 
-**open** and **pini** can be used as ᴘʀᴇ-ᴠᴇʀʙs.
+**open** and **pini** can be used as <small>PRE-VERB</small>s.
 
 | mi open pali. |
 |:-|
@@ -26,7 +26,7 @@ In my dialect, ᴘʀᴇ-ᴠᴇʀʙs are not omitted.
 
 ## Punctuation
 
-In my dialect, a coordinating *comma* between two ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇs can't be safely removed.
+In my dialect, a coordinating *comma* between two <small>GENITIVE PHRASE</small>s can't be safely removed.
 
 | ona li sona e tomo pi telo nasa, pi ma ante. |
 |:-|

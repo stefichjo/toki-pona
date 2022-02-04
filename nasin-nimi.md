@@ -9,170 +9,170 @@ There are two word classes: [content words](#content-word) (i.e. these parts of 
 
 But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verbs") and prepositions can be converted into nouns, adjectives and verbs, but not the other way around. Also, an onomatopeia can be converted into a content word meaning *the name ...* or *the sound ...*, and a content word can be used as an onomatopeia, e.g. **nanpa**.
 
-* [**ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ**](#content-word)
-  * [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier): [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition)
-  * [**ᴠᴇʀʙ**](#verb): [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb)
-  * [**ɴᴏᴜɴ**](#noun): [**ᴘʀᴏɴᴏᴜɴ**](#pronoun)
-  * [**ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ**](#noun-adjective):
-    * [**ᴘᴇʀꜱᴏɴ**](#person), [**ᴏʀɢᴀɴ**](#organ), [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form)
-    * [**ᴛʜɪɴɢ**](#thing), [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative), [**ɴᴜᴍʙᴇʀ**](#number), [**ᴀʀᴇᴀ**](#area)
-* [**ᴘᴀʀᴛɪᴄʟᴇ**](#particle)
-  * [**ᴍᴀʀᴋᴇʀ**](#marker): [**ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ**](#mood-marker), [**ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ**](#case-marker)
-  * [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction): [**ᴀɴᴅ**](#and), [**ᴏʀ**](#or), [**ɪꜰ-ᴛʜᴇɴ**](#if-then)
-  * [**ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ**](#onomatopeia): [**ɴᴀᴍᴇ**](#name), [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection)
+* [**<small>CONTENT WORD</small>**](#content-word)
+  * [**<small>MODIFIER</small>**](#modifier): [**<small>PREPOSITION</small>**](#preposition)
+  * [**<small>VERB</small>**](#verb): [**<small>PRE-VERB</small>**](#pre-verb)
+  * [**<small>NOUN</small>**](#noun): [**<small>PRONOUN</small>**](#pronoun)
+  * [**<small>NOUN ADJECTIVE</small>**](#noun-adjective):
+    * [**<small>PERSON</small>**](#person), [**<small>ORGAN</small>**](#organ), [**<small>LIFE-FORM</small>**](#life-form)
+    * [**<small>THING</small>**](#thing), [**<small>CORRELATIVE</small>**](#correlative), [**<small>NUMBER</small>**](#number), [**<small>AREA</small>**](#area)
+* [**<small>PARTICLE</small>**](#particle)
+  * [**<small>MARKER</small>**](#marker): [**<small>MOOD MARKER</small>**](#mood-marker), [**<small>CASE MARKER</small>**](#case-marker)
+  * [**<small>CONJUNCTION</small>**](#conjunction): [**<small>AND</small>**](#and), [**<small>OR</small>**](#or), [**<small>IF-THEN</small>**](#if-then)
+  * [**<small>ONOMATOPEIA</small>**](#onomatopeia): [**<small>NAME</small>**](#name), [**<small>INTERJECTION</small>**](#interjection)
 
 ## Dictionary
 *(nimi ale)*
 
-| ꜱɪᴛᴇʟᴇɴ | ᴋᴏɴ |
+| <small>SITELEN</small> | <small>KON</small> |
 |:-:|:-|
-| <img src="musi/pona/a.png" height="50" title="ha"><br>**a** | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ [**(emotion word)**](pu.md#lesson-10), (ᴄʟᴀꜱꜱɪᴄ *kin*) **(emphasis or confirmation)** <br>ᴀᴅᴠᴇʀʙ [**so**](pu.md#lesson-10); [**ha**](pu.md#lesson-10), [**wow**](pu.md#lesson-10), [**yay**](pu.md#lesson-13): (*sama la + a* = ᴄʟᴀꜱꜱɪᴄ *kin*) *also*, (ᴄʟᴀꜱꜱɪᴄ *kin*) *indeed*, (*awen la + a* = ᴘɪᴊᴇ *kin*) *still*, (*sin la + a* = ᴄʟᴀꜱꜱɪᴄ *kin*) *too*; (*lon*) *yes* |
-| <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *cold-blooded*, *treacherous*: (*pipi akesi* = ᴄʟᴀꜱꜱɪᴄ *akesi*) *arthropod*, (*toki akesi* = ᴋɪᴘᴏ *toki ike* = ᴇxᴛɪɴᴄᴛ *powe*) *to deceive* <br>ɴᴏᴜɴ **non-cute animal**; **amphibian**, **reptile**; (ᴋɪᴘᴏ *monsuta*) *monster*: (*pilin akesi tan* = ᴋɪᴘᴏ *monsuta e*) *to fear*; (*jan akesi* = ᴋɪᴘᴏ *monsuta*) *boogeyman* |
-| <img src="musi/pona/ala.png" height="50" title="ara"><br>**ala** | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ *(negation)* <br>ᴀᴅᴠᴇʀʙ **not** <br>ɴᴏᴜɴ [**nothingness**](pu.md#lesson-6) |
-| | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **zero**, [**0**](pu.md#lesson-12); **no**: (*ijo ala* = ᴄʟᴀꜱꜱɪᴄ *ala*) [**nothing**](pu.md#chapter-of-sincerity) <br>ɴᴏᴜɴ [**zero**](pu.md#famous-quotations) |
-| <img src="musi/pona/alasa.png" height="50" title="a-la-ŝas"><br>**alasa** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to hunt**, **forage**; (ᴋɪᴘᴏ *lukin*) <br>ɴᴏᴜɴ *prey* |
-| <img src="musi/pona/ale.png" height="50" title="ale"><br>**ale** | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) = ᴄʟᴀꜱꜱɪᴄ *ali* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ  (*~~mute~~ ale*) **all**, **every**; (*~~wan~~ ale*) **all** <br>ɴᴏᴜɴ **everything**; *area* |
-| | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**∞**](pu.md#lesson-12), **countless** <br>ɴᴏᴜɴ [**infinity**](pu.md#famous-quotations); [**100**](pu.md#lesson-12) |
-| | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **abundant**, **bountiful**, **plentiful** <br>ɴᴏᴜɴ **abundance**; **life**, **universe** |
-| <img src="musi/pona/anpa.png" height="50" title="an-ba"><br>**anpa** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*noka*) *low, lower*: (*kama anpa*) **downward**: **bowing down**, [**bowing to the ground**](pu.md#the-gospel); *deep* <br>ɴᴏᴜɴ (*noka*) [**area below or under**](pu.md#lesson-15): (*lon anpa* = *lon noka*) *below*, *under*; *depending on*; *abyss*; (ᴋɪᴘᴏ *apeja*) *hell* |
-| | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **humble**, **lowly**; **dependent**; (ᴋɪᴘᴏ *apeja*) *guilty*, *shameful*; <br>ᴠᴇʀʙ *to conquer*; (ᴋɪᴘᴏ *apeja*) *to condemn*, *punish*; <br>ɴᴏᴜɴ [**powerlessness**](pu.md#short-obligatory-prayer); (ᴋɪᴘᴏ *apeja*) *guilt*, *shame* <br>ɴᴏᴜɴ (ᴋɪᴘᴏ *apeja*) *devil* |
-| <img src="musi/pona/ante.png" height="50" title="ander"><br>**ante** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *than*, *unlike*; (*esun*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **altered**, **changed**, **different**; (*esun*) <br>ɴᴏᴜɴ (*~~kama~~ ante*) [**change**](pu.md#toki-pona-proverbs) |
-| <img src="musi/pona/anu.png" height="50" title="an"><br>**anu** | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) <br>ᴘᴀʀᴛɪᴄʟᴇ *(alternative)*, **or** |
-| <img src="musi/pona/awen.png" height="50" title="hawen"><br>**awen** | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **to continue to** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *continuous* |
-| | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **enduring**, **kept**; (*awen ~~lon~~*) **staying**, **waiting**; (*~~pi sike/tenpo~~ awen*) *current*, *present*; (*tomo*); <br>ᴠᴇʀʙ (*tomo*) | <br>ɴᴏᴜɴ (⇒ *tenpo*)
-| <img src="musi/pona/e.png" height="50" title="e"><br>**e** | [**ᴍᴀʀᴋᴇʀ**](#case-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ **(before the direct ᴏʙᴊᴇᴄᴛ)** |
-| <img src="musi/pona/en.png" height="50" title="en"><br>**en** | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) <br>ᴘᴀʀᴛɪᴄʟᴇ **(between multiple ꜱᴜʙᴊᴇᴄᴛs)**, [**and**](pu.md#lesson-16) |
-| <img src="musi/pona/esun.png" height="50" title="eĝum"><br>**esun** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (*ante*) *instead of* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*ante*) *else*, **other**; (*ona esun* = *ona sama*) **each other**, *reciprocal* <br>ɴᴏᴜɴ (*~~kama~~ esun*) *exchange*; **business transaction**; (*~~tomo~~ esun*) **shop**; (*~~ma~~ esun*) **bazaar**, **fair**, **market** |
-| | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *7*, *seven* <br>ɴᴏᴜɴ *septet*: (*sike esun*) *week* |
-| <img src="musi/pona/ijo.png" height="50" title="ijo"><br>**ijo** | [**ɴᴏᴜɴ**](#noun) <br>ɴᴏᴜɴ [**being**](pu.md#lesson-2), **matter**, **object**, **phenomenon**, [**something**](pu.md#lesson-2), **thing**; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *something's* |
-| <img src="musi/pona/ike.png" height="50" title="ilkea"><br>**ike** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **bad**, [**harmful**](pu.md#toki-pona-proverbs), [**hostile**](pu.md#famous-quotations), **negative**; (*~~sin~~ ike*) **irrelevant**, [**needless**](pu.md#famous-quotations), **non-essential**; <br>ɴᴏᴜɴ [**bad things**](pu.md#toki-pona-proverbs), [**evil**](pu.md#toki-pona-proverbs), [**fault**](pu.md#toki-pona-proverbs), [**negativity**](pu.md#toki-pona-proverbs), [**non-essentials**](pu.md#famous-quotations) |
-| <img src="musi/pona/ilo.png" height="50" title="ilo"><br>**ilo** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*pona*) **useful** <br>ɴᴏᴜɴ **device**, **implement**, **machine**, **tool** |
-| <img src="musi/pona/insa.png" height="50" title="insait"><br>**insa** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *central*; *inner* <br>ɴᴏᴜɴ **centre**: (*lon insa*) **between**, (*lon ~~insa~~*) [**(tangentially) between**](pu.md#famous-quotations); **inside**: (*lon insa*) [**within**](pu.md#toki-pona-proverbs), (*lon ~~insa~~*) [**in**](pu.md#lesson-8) |
-| | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *internal* <br>ɴᴏᴜɴ **content** |
-| | [**ᴏʀɢᴀɴ**](#organ) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *intermediary* <br>ɴᴏᴜɴ **internal organ**: **stomach**, [**womb**](pu.md#lesson-15); (*insa palisa*) *joint* <br>ᴠᴇʀʙ *to mediate* |
-| <img src="musi/pona/jaki.png" height="50" title="jaki"><br>**jaki** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bitter*, **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary**, [**yucky**](pu.md#lesson-1) <br>ɴᴏᴜɴ *dirt*, *poison*, *waste* |
-| <img src="musi/pona/jan.png" height="50" title="jan"><br>**jan** | [**ɴᴏᴜɴ**](#noun) <br>ɴᴏᴜɴ [**folks**](pu.md#toki-pona-proverbs), [**guy**](pu.md#lesson-9), **human being**, **person**/[**people**](pu.md#lesson-9), **somebody**; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**somebody's**](pu.md#toki-pona-proverbs) |
-| <img src="musi/pona/jelo.png" height="50" title="jelo"><br>**jelo** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **yellow**, (*jelo ~~mu~~*) **yellowish** |
-| <img src="musi/pona/jo.png" height="50" title="jou"><br>**jo** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to have**; **carry**, **contain**, **hold**, *wear* <br>ɴᴏᴜɴ *property* |
-| <img src="musi/pona/kala.png" height="50" title="kala"><br>**kala** | [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *diving*, *swimming* <br>ɴᴏᴜɴ **fish**, **marine animal**, **sea creature** |
-| <img src="musi/pona/kalama.png" height="50" title="galama"><br>**kalama** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*producing a sound*](pu.md#errata) <br>ᴠᴇʀʙ **to recite**, **utter aloud** <br>ɴᴏᴜɴ [**noise**](pu.md#lesson-18) |
-| <img src="musi/pona/kama.png" height="50" title="kam-ap"><br>**kama** | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **to become**: (*kama ~~lon~~*) **arriving**, **being summoned**, **coming**; **manage to**, **succeed in** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**emerging**](pu.md#preface): (*~~pi sike/tenpo~~ kama*) **future**, *next*; <br>ɴᴏᴜɴ *advent*: (*lon kama*) *before* |
-| <img src="musi/pona/kasi.png" height="50" title="kasvi"><br>**kasi** | [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vegetating*; *growing* <br>ɴᴏᴜɴ **plant**, **vegetation**; **herb**, **leaf** |
-| <img src="musi/pona/ken.png" height="50" title="ken"><br>**ken** | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **to be able to**, **be allowed to**, **can**, **may** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **possible** |
-| <img src="musi/pona/kepeken.png" height="50" title="ĥebrejken"><br>**kepeken** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **by means of**, **using**, **with** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *usufructuary* |
-| <img src="musi/pona/kili.png" height="50" title="ĥili"><br>**kili** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hanging* <br>ɴᴏᴜɴ **fruit**; [**banana**](pu.md#lesson-2), [**blueberry**](pu.md#lesson-2), [**kiwi**](pu.md#lesson-4), [**kumquat**](pu.md#what-is-toki-pona), [**lingonberry**](pu.md#what-is-toki-pona), [**orange**](pu.md#lesson-5); **mushroom**, **vegetable**; [**turnip**](pu.md#what-is-toki-pona) |
-| <img src="musi/pona/kiwen.png" height="50" title="kiven"><br>**kiwen** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hard*, *sharp*; *rigid* <br>ɴᴏᴜɴ **hard object**: *bone*, **metal**, **rock**, **stone** |
-| <img src="musi/pona/ko.png" height="50" title="gou"><br>**ko** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *semi-solid* <br>ɴᴏᴜɴ **semi-solid**: **clay**, **clinging form**, **dough**, **paste**, **powder** |
-| <img src="musi/pona/kon.png" height="50" title="koŋ"><br>**kon** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *floating*, *hovering* <br>ɴᴏᴜɴ **air**, **breath**; **essence**, **spirit**; [**meaning**](pu.md#preface), [**soul**](pu.md#preface); **hidden reality**, **unseen agent** |
-| <img src="musi/pona/kule.png" height="50" title="kuler"><br>**kule** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **colourful**, **painted**; **pigmented**; (ᴇxᴛɪɴᴄᴛ *kapesi*) *brown*, (*kule ~~mu~~*) *brownish* |
-| <img src="musi/pona/kulupu.png" height="50" title="kulupu"><br>**kulupu** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*~~pi kulupu~~ sama* = *sama*) **fellow**: (*jan ~~pi kulupu~~ sama* = *jan sama*) **peer**, (*jan ~~pi kulupu mama~~ sama* = *jan sama* = ᴇxᴛɪɴᴄᴛ *pata*) **sibling**; *in common*, *shared* <br>ɴᴏᴜɴ *relationship*; (*kulupu ~~jan~~*) **community**, **company**, **group**, **nation**, **society**, **tribe**; (*mute*) |
-| <img src="musi/pona/kute.png" height="50" title="ekute"><br>**kute** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **ear**; <br>ᴠᴇʀʙ **to hear**, **listen**; (*kute ~~wawa~~*) [**listen to**](pu.md#lesson-5), **pay attention to**, **obey** |
-| <img src="musi/pona/la.png" height="50" title="la"><br>**la** | [**ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ**](#conjunction) <br>ᴘᴀʀᴛɪᴄʟᴇ **(between the ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ and the ᴍᴀɪɴ ꜱᴇɴᴛᴇɴᴄᴇ)**, [**(separates ᴄᴏɴᴛᴇxᴛ from ᴍᴀɪɴ ꜱᴇɴᴛᴇɴᴄᴇ)**](pu.md#lesson-14) |
-| <img src="musi/pona/lape.png" height="50" title="slape"><br>**lape** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **resting**, **sleeping**; <br>ɴᴏᴜɴ [**sleep**](pu.md#toki-pona-proverbs) |
-| <img src="musi/pona/laso.png" height="50" title="glas"><br>**laso** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **blue**, (*laso ~~mu~~*) *bluish*, **green**, (*laso ~~mu~~*) *greenish*; *immature*; (*walo*) **pale** |
-| <img src="musi/pona/lawa.png" height="50" title="glava"><br>**lawa** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*sewi*) *upper*; (*~~suli~~ nanpa wan*) *main* <br>ɴᴏᴜɴ (*sewi*) **highest part**: (*lon lawa* = *lon sewi*) *at the top of* |
-| | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **head**; **mind**; <br>ᴠᴇʀʙ **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule**: (*nasin lawa*) [**code of law**](pu.md#writings-of-baháulláh); <br>ɴᴏᴜɴ [**guidance**](pu.md#toki-pona-proverbs) |
-| <img src="musi/pona/len.png" height="50" title="lenĵ"><br>**len** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **cloth**, **clothing**, **fabric**, **textile**, [**vest**](pu.md#lesson-17); **cover**, **layer of privacy**; <br>ᴠᴇʀʙ *to hide* |
-| <img src="musi/pona/lete.png" height="50" title="fret"><br>**lete** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **cold**, **cool**; **uncooked**, **raw** <br>ɴᴏᴜɴ *frost*, *ice* |
-| <img src="musi/pona/li.png" height="50" title="li"><br>**li** | [**ᴍᴀʀᴋᴇʀ**](#mood-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ *(indicative)*, **(between any ꜱᴜʙᴊᴇᴄᴛ except mi alone or sina alone and its ᴘʀᴇᴅɪᴄᴀᴛᴇ; also to introduce a new ᴘʀᴇᴅɪᴄᴀᴛᴇ for the same ꜱᴜʙᴊᴇᴄᴛ)** |
-| <img src="musi/pona/lili.png" height="50" title="liklik"><br>**lili** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **little**, [**micro-**](pu.md#preface), [**narrow**](pu.md#lesson-13), **small**, **short**; (*~~pi tenpo~~ lili*) [**momentary**](pu.md#toki-pona-proverbs), [**temporary**](pu.md#toki-pona-proverbs); [**120**](pu.md#preface), **few**; **a bit**; (*~~pi sike suno~~ lili*) **young** <br>ɴᴏᴜɴ (ᴄʟᴀssɪᴄ *kipisi*) *building block*, *detail*, *element*, *member*, *unit*; *part*, *particle*, *piece* |
-| <img src="musi/pona/linja.png" height="50" title="linja"><br>**linja** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *long and flexible* <br>ɴᴏᴜɴ [*long flexible thing*](pu.md#errata): *chain*, **cord**, (*linja ~~lawa~~*) **hair**, **rope**, [**string**](pu.md#lesson-17), **thread**, **yarn**; *curve*, *line*; *row*; <br>ᴠᴇʀʙ *to tie* |
-| <img src="musi/pona/lipu.png" height="50" title="lipu"><br>**lipu** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flat*, *thin* <br>ɴᴏᴜɴ **flat object**: (*~~mute~~ lipu*) **book**, **card**, [**clay tablet**](pu.md#what-is-toki-pona), **document**, **paper**, [**piece of paper**](pu.md#lesson-2), [**postcard**](pu.md#what-is-toki-pona), [**printed book**](pu.md#what-is-toki-pona), **record**, **website** |
-| <img src="musi/pona/loje.png" height="50" title="roje"><br>**loje** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **red**, (*loje ~~mu~~*) **reddish** |
-| <img src="musi/pona/lon.png" height="50" title="loŋ"><br>**lon** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *along*; [**at**](pu.md#lesson-8), **located at**, **present at**; [**in the context of**](pu.md#lesson-14): (*lon ni:* = , *la*) [**if**](pu.md#lesson-14), [**when**](pu.md#lesson-14) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*existing*, *real*, *true*](pu.md#errata); <br>ᴀᴅᴠᴇʀʙ (*a*) |
-| <img src="musi/pona/luka.png" height="50" title="ruka"><br>**luka** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **arm**, [**fingers**](pu.md#writings-of-baháulláh), **hand**, **tactile organ**; <br>ᴠᴇʀʙ *to touch* |
-| | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**5**](pu.md#lesson-12), **five** <br>ɴᴏᴜɴ *quintet* |
-| <img src="musi/pona/lukin.png" height="50" title="luk-im"><br>**lukin** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ (ᴄʟᴀꜱꜱɪᴄ *oko*) **eye**; <br>ᴠᴇʀʙ **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, (*lukin e sitelen*) **read**, [**search + ᴏʙᴊᴇᴄᴛ**](pu.md#preface), **watch** |
-| | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **try to**; [**to seek to**](pu.md#lesson-13): (*lukin jo* = ᴋɪᴘᴏ *alasa*) [**to look for**](pu.md#errata) <br>ᴠᴇʀʙ *to care for* |
-| <img src="musi/pona/lupa.png" height="50" title="rupa"><br>**lupa** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *concave*, *empty*, *hollow* <br>ɴᴏᴜɴ *cave*, **orifice**: (*lupa meli*) [**womb**](pu.md#toki-pona-proverbs); **hole**: (*lupa ~~tomo~~*) **door**, (*lupa ~~suno~~*) **window** |
-| <img src="musi/pona/ma.png" height="50" title="maa"><br>**ma** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *outside* <br>ɴᴏᴜɴ **outdoors**: **world**; (*~~sike~~ ma*) [**planet**](pu.md#toki-pona-proverbs); (*ma nimi*) *context* <br>ᴠᴇʀʙ *to orient* |
-| | [**ᴛʜɪɴɢ**](#thing) <br>ɴᴏᴜɴ **earth**, **land**, **soil**; (*ma ~~jan~~*) **country**, **territory** |
-| <img src="musi/pona/mama.png" height="50" title="mama"><br>**mama** | [**ᴘᴇʀꜱᴏɴ**](#person) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*sijelo*); *of origin* <br>ɴᴏᴜɴ **parent**; (*mama ~~mije~~*) [**father**](pu.md#the-gospel), (*mama ~~meli~~*) *mother*; **ancestor**; **creator**, **originator**: (*jo e mama* = *sijelo*); (ᴄʟᴀssɪᴄ *tan*) *cause*, *origin*; **caretaker**, **sustainer** |
-| <img src="musi/pona/mani.png" height="50" title="mani"><br>**mani** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *domesticated*, *refined*; *valueable* <br>ɴᴏᴜɴ **large domesticated animal**; **cash**, **money**, **savings**, **wealth** |
-| <img src="musi/pona/meli.png" height="50" title="meri"><br>**meli** | [**ᴘᴇʀꜱᴏɴ**](#person) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**female**](pu.md#lesson-3) <br>ɴᴏᴜɴ **female**, **feminine person**, **woman**; **wife** |
-| <img src="musi/pona/mi.png" height="50" title="mi"><br>**mi** | [**ɴᴏᴜɴ**](#pronoun) <br>ɴᴏᴜɴ **I**/**me**/[**myself**](pu.md#toki-pona-proverbs), **we**/**us**/*ourselves*; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *my*, *our* |
-| <img src="musi/pona/mije.png" height="50" title="mies"><br>**mije** | [**ᴘᴇʀꜱᴏɴ**](#person) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *male* <br>ɴᴏᴜɴ **male**, **man**, **masculine person**; **husband** |
-| <img src="musi/pona/moku.png" height="50" title="mogu"><br>**moku** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to consume**, **drink**, **ingest**, **swallow**; **eat**; <br>ɴᴏᴜɴ [**the act of eating**](pu.md#lesson-5) <br>ɴᴏᴜɴ [**food**](pu.md#lesson-5) |
-| <img src="musi/pona/moli.png" height="50" title="muri"><br>**moli** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**: (*kama moli*) **dying** |
-| <img src="musi/pona/monsi.png" height="50" title="mon-ĉi"><br>**monsi** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *rear* <br>ɴᴏᴜɴ [**area behind**](pu.md#lesson-15), **back**, **rear**: (*lon monsi*) **behind** |
-| | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *dorsal* <br>ɴᴏᴜɴ **back**; *backbone*; <br>ᴠᴇʀʙ *to endorse* |
-| <img src="musi/pona/mu.png" height="50" title="mu"><br>**mu** | [**ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ**](#interjection) <br>ᴘᴀʀᴛɪᴄʟᴇ **(animal noise or communication)**; *(indifference)* <br>ᴀᴅᴠᴇʀʙ (*~~mu~~*) *-ish*, *sort-of*; [**cock-a-doodle-doo**](pu.md#lesson-11), [**moo**](pu.md#lesson-1); *blah* |
-| <img src="musi/pona/mun.png" height="50" title="mun"><br>**mun** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *orbiting*, *sky-walking* <br>ɴᴏᴜɴ **night sky object**: **moon**, **star** |
-| <img src="musi/pona/musi.png" height="50" title="amuzi"><br>**musi** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** <br>ɴᴏᴜɴ *game*; <br>ᴠᴇʀʙ *to play with* |
-| <img src="musi/pona/mute.png" height="50" title="multe"><br>**mute** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**3+**](pu.md#lesson-12), [**20**](pu.md#lesson-12), **a lot**, **many**, **several**; <br>ᴀᴅᴠᴇʀʙ **much**, **very**; (*mute ~~sin~~*) **more**; <br>ᴠᴇʀʙ [**to multiply**](pu.md#toki-pona-proverbs) <br>ɴᴏᴜɴ *amount*, **quantity** |
-| | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (ᴇxᴛɪɴᴄᴛ *tuli*) *3*, *three*; <br>ɴᴏᴜɴ *trio*; (*kulupu*) *multitude*, *set* |
-| <img src="musi/pona/nanpa.png" height="50" title="namba"><br>**nanpa** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *digital*, *numeric* <br>ɴᴏᴜɴ *data*, **numbers**; <br>ᴠᴇʀʙ *to count*; *calculate* |
-| | [**ɴᴀᴍᴇ**](#name) <br>ᴘᴀʀᴛɪᴄʟᴇ **(ordinal number)**, *-nd*, *-rd*, **-th**: (*nanpa wan*) [**first**](pu.md#lesson-12), [**most fundamental**](pu.md#toki-pona-proverbs): (*suli nanpa wan*) *priority*; (*lawa*); |
-| <img src="musi/pona/nasa.png" height="50" title="nasau"><br>**nasa** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **strange**, [**unconventional**](pu.md#toki-pona-proverbs), **unusual**; (*nasa ~~ike~~*) **crazy**, **foolish**; (*nasa ~~jaki~~*) **drunk**, **intoxicated** |
-| <img src="musi/pona/nasin.png" height="50" title="naĉin"><br>**nasin** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *connecting* <br>ɴᴏᴜɴ *connection*, *passage*, **path**, **road**, [**street**](pu.md#lesson-9), **way**; *dimension*, *direction*; **custom**, **doctrine**, **method**, [**system**](pu.md#preface), [**way of doing things**](pu.md#toki-pona-proverbs); <br>ᴠᴇʀʙ *to connect* |
-| <img src="musi/pona/nena.png" height="50" title="nena"><br>**nena** | [**ᴛʜɪɴɢ**](#thing) (ᴇxᴛɪɴᴄᴛ *kapa*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *convex*, *full*, *outstanding*, *thick* <br>ɴᴏᴜɴ **bump**, **hill**, **mountain**, **protuberance**; **button**; (*nena ~~pi sinpin lawa~~*) **nose** |
-| <img src="musi/pona/ni.png" height="50" title="ni"><br>**ni** | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **that**, **this** <br>ɴᴏᴜɴ (*ni:*) [**the following**](pu.md#lesson-17) |
-| <img src="musi/pona/nimi.png" height="50" title="nimi"><br>**nimi** | [**ᴠᴇʀʙ**](#verb) <br>ɴᴏᴜɴ **name**; **word** <br>ᴠᴇʀʙ *to call*, *define* |
-| <img src="musi/pona/noka.png" height="50" title="noga"><br>**noka** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bottom*; (*anpa*) <br>ɴᴏᴜɴ **lowest part**; **bottom**, [**foundation**](pu.md#lesson-15): (*lon noka*) [**at the bottom of**](pu.md#lesson-15); (*anpa*) |
-| | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **foot**, **leg**, **organ of locomotion**; <br>ᴠᴇʀʙ *to step on*, *kick* |
-| <img src="musi/pona/o.png" height="50" title="ho"><br>**o** | [**ᴍᴀʀᴋᴇʀ**](#mood-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ *(deontic)* **(vocative or imperative)**, [**(call or command)**](pu.md#lesson-10), [**(shows who is being called or addressed; command or request; wish or desire)**](pu.md#lesson-10), **hey**, **o** |
-| <img src="musi/pona/olin.png" height="50" title="volim"><br>**olin** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ [**to be a fan of**](pu.md#preface), **have compassion for**, **love**, **respect**, **show affection to**; <br>ɴᴏᴜɴ *love*; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**beloved**](pu.md#lesson-18) |
-| <img src="musi/pona/ona.png" height="50" title="ona"><br>**ona** | [**ɴᴏᴜɴ**](#pronoun) (ᴇxᴛɪɴᴄᴛ *iki*) <br>ɴᴏᴜɴ **he**/*him*, **it**, **she**/*her*, **they**/*them*; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *her*, *his*, *its*, *their* |
-| <img src="musi/pona/open.png" height="50" title="open"><br>**open** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *open*; *accessible*, *ready*; <br>ᴠᴇʀʙ **to open**, [**unseal**](pu.md#writings-of-baháulláh); *set up*, **turn on**; **begin**, **start** <br>ɴᴏᴜɴ *aperture*, *opening*; *beginning*, *start*: (*lon open pi ... pini*) *... ago* |
-| <img src="musi/pona/pakala.png" height="50" title="bagar-ap"><br>**pakala** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **botched**, **broken**, **damaged**, **harmed**, **messed up** |
-| <img src="musi/pona/pali.png" height="50" title="fari"><br>**pali** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *busy*, *serious* <br>ɴᴏᴜɴ *business*, *work*; <br>ᴠᴇʀʙ **to do**, **take action on**, **work on**; **build**, **make**, **prepare**; <br>ɴᴏᴜɴ [**action**](pu.md#toki-pona-proverbs) |
-| <img src="musi/pona/palisa.png" height="50" title="palica"><br>**palisa** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *long and hard* <br>ɴᴏᴜɴ **long hard thing**: [**antler**](pu.md#lesson-17), *bone*, **branch**, **rod**, **stick**; *column* |
-| | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ *finger*; <br>ᴠᴇʀʙ *to point at* |
-| <img src="musi/pona/pan.png" height="50" title="fan"><br>**pan** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *fallen*, *dropped*; *sown* <br>ɴᴏᴜɴ *seed*; **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** |
-| <img src="musi/pona/pana.png" height="50" title="pana"><br>**pana** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to emit**, **give**, [**grant**](pu.md#toki-pona-proverbs), **provide**, (*pana e ijo lon*) **put**, **release**, (*pana e ijo tawa*) **send**, [**send out**](pu.md#toki-pona-proverbs), [**serve**](pu.md#lesson-14) <br>ɴᴏᴜɴ *gift* |
-| <img src="musi/pona/pi.png" height="50" title="biloŋ"><br>**pi** | [**ᴍᴀʀᴋᴇʀ**](#case-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ [**(divides a second ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ that describes a first ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ)**](pu.md#lesson-11), **of** |
-| <img src="musi/pona/pilin.png" height="50" title="pil-im"><br>**pilin** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **heart (physical or emotional)**; <br>ᴠᴇʀʙ *to have the impression that*, *sense*, [**think**](pu.md#writings-of-baháulláh); <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **feeling (an emotion, a direct experience)** |
-| <img src="musi/pona/pimeja.png" height="50" title="pimea"><br>**pimeja** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **black**, (*pimeja ~~mu~~*) *blackish*; (ᴇxᴛɪɴᴄᴛ *kapesi*) *grey* |
-| | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dark**, **unlit** <br>ɴᴏᴜɴ *shadow* |
-| <img src="musi/pona/pini.png" height="50" title="pinis"><br>**pini** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **completed**, *done*, **ended**, **finished**: (*~~pi sike/tenpo~~ pini*) **ago**, *last*, **past**, *previous*; <br>ᴠᴇʀʙ (*selo* = ᴄʟᴀꜱꜱɪᴄ *pini*) <br>ɴᴏᴜɴ *end*: (*lon pini*) *after*, *in the end*, (*tan pini*) *since* |
-| <img src="musi/pona/pipi.png" height="50" title="bibit"><br>**pipi** | [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *crawling*, *creeping* <br>ɴᴏᴜɴ **ant**, **bug**, **insect**, **spider** |
-| <img src="musi/pona/poka.png" height="50" title="boka"><br>**poka** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*nearby*](pu.md#errata) <br>ɴᴏᴜɴ [**area beside**](pu.md#lesson-15), **vicinity**: (*lon poka*) **next to**, (*lon ~~poka~~* = ᴇxᴛɪɴᴄᴛ *kan*) *among*, [**with**](pu.md#lesson-8) |
-| | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *lateral* <br>ɴᴏᴜɴ **side**, (*~~mute pi~~ poka tu tu sama* = ᴇxᴛɪɴᴄᴛ *leko*) *square*; (*poka ~~sijelo~~*) **hip** |
-| <img src="musi/pona/poki.png" height="50" title="bokis"><br>**poki** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **bag**, **bowl**, **box**, **container**, **cup**, **cupboard**, **drawer**, **vessel**; *bladder*; <br>ᴠᴇʀʙ *to capture* |
-| <img src="musi/pona/pona.png" height="50" title="bona"><br>**pona** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**beneficial**](pu.md#toki-pona-proverbs), [**beautiful**](pu.md#toki-pona-proverbs), **good**: [**of good**](pu.md#lesson-11), [**great**](pu.md#toki-pona-proverbs), [**OK**](pu.md#toki-pona-proverbs), **positive**, [**right**](pu.md#lesson-14); **friendly**, **peaceful**; (*ilo*); *basic*, *elementary*, *primitive*, **simple**; <br>ᴠᴇʀʙ [**to improve**](pu.md#lesson-6), [**tidy up**](pu.md#lesson-18); <br>ɴᴏᴜɴ [**good**](pu.md#lesson-10), [**peace**](pu.md#lesson-10), [**simplicity**](pu.md#famous-quotations), [**sophistication**](pu.md#famous-quotations) |
-| <img src="musi/pona/pu.png" height="50" title="buk"><br>**pu** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ (*sama*) *according to* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *compatible*, *compliant*; (*pu ~~lipu Pu~~*) **interacting with the official Toki Pona book** |
-| | [**ɴᴀᴍᴇ**](#name) <br>ᴘᴀʀᴛɪᴄʟᴇ *name of the official Toki Pona book*: (*lipu Pu*) *the official Toki Pona book*, *Pu* |
-| <img src="musi/pona/sama.png" height="50" title="sama"><br>**sama** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **as**, **like**; (*pu*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **same**, **similar**; (*kulupu*); (*esun*); *-self*, *-selves*; <br>ɴᴏᴜɴ [**harmony**](pu.md#famous-quotations) |
-| <img src="musi/pona/seli.png" height="50" title="ĉeli"><br>**seli** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot*, *warm*; *cooked* <br>ɴᴏᴜɴ **chemical reaction**, **fire**, **heat source**; **cooking element**; <br>ᴠᴇʀʙ [**to cook**](pu.md#lesson-18) |
-| <img src="musi/pona/selo.png" height="50" title="ŝelo"><br>**selo** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ [**form**](pu.md#preface), **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary**; <br>ᴠᴇʀʙ (ᴄʟᴀꜱꜱɪᴄ *pini*) *to close* |
-| <img src="musi/pona/seme.png" height="50" title="ŝenme"><br>**seme** | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **what**, **which** <br>ɴᴏᴜɴ [**what**](pu.md#lesson-7), *which one* |
-| <img src="musi/pona/sewi.png" height="50" title="sevit"><br>**sewi** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *high*; (*lawa*) <br>ɴᴏᴜɴ **area above**: (*lon sewi*) *above*, *over*; **something elevated**; [**sky**](pu.md#lesson-15); *heaven*; (*lawa*) |
-| | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **awe-inspiring**, **divine**, **sacred**, **supernatural** <br>ɴᴏᴜɴ [**the Divine**](pu.md#preface), [**that which is divine**](pu.md#lesson-6), [**God**](pu.md#lesson-6), [**the Lord**](pu.md#the-torah) |
-| <img src="musi/pona/sijelo.png" height="50" title="tijelo"><br>**sijelo** | [**ᴏʀɢᴀɴ**](#organ) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*jo e mama*) [**being born**](pu.md#chapter-of-sincerity); *alive*, *healthy* <br>ɴᴏᴜɴ [**health**](pu.md#lesson-13), **physical state**; *configuration*, *mode* <br>ɴᴏᴜɴ *life-form*; **body (of person or animal)**, **torso**; <br>ᴠᴇʀʙ (*mama pi*) [**to give birth to**](pu.md#chapter-of-sincerity) |
-| <img src="musi/pona/sike.png" height="50" title="sirkel"><br>**sike** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round*: (*lon poka sike*) *around* <br>ɴᴏᴜɴ **round or circular thing**: **ball**, **circle**, **sphere**, **wheel** |
-| | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *periodic* <br>ɴᴏᴜɴ **cycle**; *iteration*, *lap*: (*~~sike~~ suno*) *year*; (*tenpo*) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*~~pi~~ sike ~~suno~~*) **of one year**, (*pi sike ~~suno~~ mute* = ᴇxᴛɪɴᴄᴛ *majuna*) *old* |
-| <img src="musi/pona/sin.png" height="50" title="ŝin"><br>**sin** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *in addition to*, *with* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **new**, **fresh**; (ᴄʟᴀꜱꜱɪᴄ *namako*) **additional**, **another**, **extra**; *artificial*, *enhanced* |
-| <img src="musi/pona/sina.png" height="50" title="sina"><br>**sina** | [**ɴᴏᴜɴ**](#pronoun) <br>ɴᴏᴜɴ **you**/*thou*/*thee*/[**thyself**](pu.md#toki-pona-proverbs); [**the person who**](pu.md#famous-quotations); <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *your*/[**thy**](pu.md#toki-pona-proverbs) |
-| <img src="musi/pona/sinpin.png" height="50" title="cinpin"><br>**sinpin** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **foremost** <br>ɴᴏᴜɴ [**area in front**](pu.md#lesson-15): (*lon sinpin*) [**in front of**](pu.md#lesson-15) |
-| | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *blocking*, *upright*, *vertical* <br>ɴᴏᴜɴ **front**, **wall**; (*sinpin ~~sijelo~~*) [**chest**](pu.md#lesson-15), (*sinpin ~~lawa~~*) **face**; <br>ᴠᴇʀʙ (ᴋɪᴘᴏ *pake*) *to block*; *to confront*, *face* |
-| <img src="musi/pona/sitelen.png" height="50" title="ŝilderen"><br>**sitelen** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ *to draw*, *indicate*, *project*, *represent*, *sculpture* <br>ɴᴏᴜɴ **image**, **picture**, *projection*, **representation**, *sculpture*, **symbol**, **mark**, **writing** |
-| <img src="musi/pona/sona.png" height="50" title="ĉodna"><br>**sona** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to be skilled in**; [**to be knowledgeable of**](pu.md#lesson-5), **be wise about**, **have information on**, **know**, (*~~toki wawa e~~ sona*) [**testify**](pu.md#short-obligatory-prayer) <br>ɴᴏᴜɴ [**insight**](pu.md#writings-of-baháulláh), [**knowledge**](pu.md#lesson-5), [**wisdom**](pu.md#toki-pona-proverbs) |
-| | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **to know how to** |
-| <img src="musi/pona/soweli.png" height="50" title="ĉoveli"><br>**soweli** | [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *warm-blooded*; (*suwi*) **innocent** <br>ɴᴏᴜɴ *cute animal*; **animal**, **beast**, **land mammal**; [**badger**](pu.md#lesson-12), [**hare**](pu.md#lesson-18), [**moose**](pu.md#lesson-17); (sᴏɴᴊᴀ *kijetesantakalu*) *Procyonidae*; [**meat**](pu.md#lesson-5) |
-| <img src="musi/pona/suli.png" height="50" title="suuri"><br>**suli** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **big**, **heavy**, **large**, **long**, **tall**; **important**; *responsible*; **adult**; <br>ᴠᴇʀʙ [**enlarge**](pu.md#lesson-6) <br>ɴᴏᴜɴ *cargo*; *role* |
-| <img src="musi/pona/suno.png" height="50" title="suno"><br>**suno** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bright*; <br>ɴᴏᴜɴ **brightness**, **glow**, **light**, **radiance**, **shine** <br>ɴᴏᴜɴ **sun**; **light source** |
-| <img src="musi/pona/supa.png" height="50" title="surfas"><br>**supa** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *horizontal* <br>ɴᴏᴜɴ *horizon*, **horizontal surface**: (*lon supa*) *on* |
-| | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *sustaining* <br>ɴᴏᴜɴ **thing to put or rest something on**: (*lon supa*) *lying on*, *sitting on*; [**sofa**](pu.md#lesson-18); (*supa sinpin* = ᴇxᴛɪɴᴄᴛ *leko*) *block*; (*supa noka* = ᴇxᴛɪɴᴄᴛ *leko*) *ladder*, *step*, *stairs* |
-| <img src="musi/pona/suwi.png" height="50" title="swit"><br>**suwi** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **fragrant**, **sweet**; **adorable**, **cute**; (*soweli*) <br>ɴᴏᴜɴ [**sweets**](pu.md#lesson-16) |
-| <img src="musi/pona/tan.png" height="50" title="dan"><br>**tan** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **because of**, **by**, **from** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*tawa*) |
-| <img src="musi/pona/taso.png" height="50" title="ta-s-ol"><br>**taso** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *free from*, *independent from*, *without*; (*taso ~~ni la~~*) **but**, **however** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *just*, **only** |
-| <img src="musi/pona/tawa.png" height="50" title="tawards"><br>**tawa** | [**ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ**](#preposition) <br>ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ **going to**, [**to**](pu.md#lesson-8), [**moving to**](pu.md#lesson-8), **toward**, [**towards**](pu.md#lesson-8); **for**; **from the perspective of** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **moving**, (*tawa ~~wawa~~*) [**running**](pu.md#lesson-17), (*~~kama~~ tawa* = *tan*) [**leaving**](pu.md#phrase-book): [**departure**](pu.md#lesson-10) |
-| <img src="musi/pona/telo.png" height="50" title="de-l-o"><br>**telo** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *wet* <br>ɴᴏᴜɴ **fluid**, **liquid**, (*telo ~~suli~~*) [**lake**](pu.md#lesson-9), **water**, **wet substance**; **beverage**; <br>ᴠᴇʀʙ [**to water**](pu.md#lesson-11) |
-| <img src="musi/pona/tenpo.png" height="50" title="tempo"><br>**tenpo** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *ephemeral*, *provisional*, *transitory* <br>ɴᴏᴜɴ **moment**, **occasion**, **period**, **situation**, **time**: (*lon tenpo*) *for*; **duration**: (*lon tenpo*) *as long as*, [**during**](pu.md#lesson-14), *while*; (*sike*) *turn* |
-| <img src="musi/pona/toki.png" height="50" title="tok"><br>**toki** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ **to communicate**, [**explain**](pu.md#famous-quotations), **say**, **speak**; **think**; <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*talking*, *using language*](pu.md#errata); <br>ɴᴏᴜɴ [**communication**](pu.md#toki-pona-proverbs), [**speech**](pu.md#lesson-5); [**language**](pu.md#lesson-5): (*lon toki*) [**in**](pu.md#lesson-8), [**something that you speak**](pu.md#lesson-5) <br>ɴᴏᴜɴ *message*, (*~~toki pi~~ ijo sin*) *news* |
-| <img src="musi/pona/tomo.png" height="50" title="domo"><br>**tomo** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ *roof*, *shelter*: (*lon tomo* = *awen*) **protected**, **safe**; **indoor space**: **building**, **home**, **house**, **room**, [**shed**](pu.md#lesson-14) <br>ᴠᴇʀʙ (*awen*) [**to help in peril**](pu.md#short-obligatory-prayer), [**protect**](pu.md#lesson-15) |
-| <img src="musi/pona/tu.png" height="50" title="tu"><br>**tu** | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**2**](pu.md#lesson-12), **two**: (*tu tu* = ᴇxᴛɪɴᴄᴛ *po*) *four*; <br>ᴠᴇʀʙ *to divide* <br>ɴᴏᴜɴ *pair* |  <!-- TODO THING cf. mute -->
-| <img src="musi/pona/unpa.png" height="50" title="umf"><br>**unpa** | [**ᴠᴇʀʙ**](#verb) <br>ᴠᴇʀʙ [*to have sex with*](pu.md#errata) |
-| <img src="musi/pona/uta.png" height="50" title="usta"><br>**uta** | [**ᴏʀɢᴀɴ**](#organ) <br>ɴᴏᴜɴ **jaw**, **lips**, **mouth**, **oral cavity**; <br>ᴠᴇʀʙ [**to kiss**](pu.md#lesson-18), *suck*, *taste* |
-| <img src="musi/pona/utala.png" height="50" title="udara"><br>**utala** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *aggressive*; <br>ᴠᴇʀʙ *to attack*, **battle**, **challenge**, **compete against**, [**fight**](pu.md#lesson-9), *provoke*, **struggle against**; <br>ɴᴏᴜɴ [**battle**](pu.md#lesson-14), [**fighting**](pu.md#toki-pona-proverbs) |
-| <img src="musi/pona/walo.png" height="50" title="valko"><br>**walo** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **white**, (*walo ~~mu~~*) **whitish**; **light-coloured**, (*laso*) |
-| <img src="musi/pona/wan.png" height="50" title="wan"><br>**wan** | [**ɴᴜᴍʙᴇʀ**](#number) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [**1**](pu.md#lesson-12), **one**; (*wan ~~ale~~*) **united** <br>ɴᴏᴜɴ *singleton* |
-| | [**ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ**](#correlative) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*~~wan~~*) [**certain**](pu.md#the-gospel); *specific*; **unique** |
-| <img src="musi/pona/waso.png" height="50" title="wazo"><br>**waso** | [**ʟɪꜰᴇ-ꜰᴏʀᴍ**](#life-form) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *flying*, *winging* <br>ɴᴏᴜɴ **bird**, **flying creature**, **winged animal** |
-| <img src="musi/pona/wawa.png" height="50" title="vahva"><br>**wawa** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **energetic**, **intense**, **powerful**, [**stable**](pu.md#lesson-15), **strong**; [**independent**](pu.md#chapter-of-sincerity); [**dependable**](pu.md#lesson-4), [**reliable**](pu.md#lesson-5); (*~~sona~~ wawa*) **confident**, **sure**; (*~~kalama~~ wawa*) [**loud**](pu.md#lesson-17); <br>ᴠᴇʀʙ [**strengthen**](pu.md#lesson-6); (*~~toki~~ wawa e ~~sona~~*) [**to bear witness**](pu.md#writings-of-baháulláh) <br>ɴᴏᴜɴ [**might**](pu.md#writings-of-baháulláh), [**power**](pu.md#writings-of-baháulláh); *force* |
-| <img src="musi/pona/weka.png" height="50" title="weĥ"><br>**weka** | [**ᴀʀᴇᴀ**](#area) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **absent**, **away**, *remote*; **ignored**, *isolated*; <br>ɴᴏᴜɴ [**isolation**](pu.md#toki-pona-proverbs); <br>ᴠᴇʀʙ [**to eliminate**](pu.md#famous-quotations), [**erase**](pu.md#toki-pona-proverbs), [**omit**](pu.md#famous-quotations), [**remove**](pu.md#toki-pona-proverbs) <br>ɴᴏᴜɴ *distance*: (*lon weka*) *away from* |
-| | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *vast* <br>ɴᴏᴜɴ *space*; *vacuum*, *void* |
-| <img src="musi/pona/wile.png" height="50" title="wile"><br>**wile** | [**ᴘʀᴇ-ᴠᴇʀʙ**](#pre-verb) <br>ᴘʀᴇ-ᴠᴇʀʙ **must**, **need**, **require**, **should**, **want**, **wish** <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inevitable*, *necessary* |
+| <img src="musi/pona/a.png" height="50" title="ha"><br>**a** | [**<small>INTERJECTION</small>**](#interjection) <br><small>PARTICLE</small> [**(emotion word)**](pu.md#lesson-10), (<small>CLASSIC</small> *kin*) **(emphasis or confirmation)** <br><small>ADVERB</small> [**so**](pu.md#lesson-10); [**ha**](pu.md#lesson-10), [**wow**](pu.md#lesson-10), [**yay**](pu.md#lesson-13): (*sama la + a* = <small>CLASSIC</small> *kin*) *also*, (<small>CLASSIC</small> *kin*) *indeed*, (*awen la + a* = <small>PIJE</small> *kin*) *still*, (*sin la + a* = <small>CLASSIC</small> *kin*) *too*; (*lon*) *yes* |
+| <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**<small>LIFE-FORM</small>**](#life-form) <br><small>ADJECTIVE</small> *cold-blooded*, *treacherous*: (*pipi akesi* = <small>CLASSIC</small> *akesi*) *arthropod*, (*toki akesi* = <small>KIPO</small> *toki ike* = <small>EXTINCT</small> *powe*) *to deceive* <br><small>NOUN</small> **non-cute animal**; **amphibian**, **reptile**; (<small>KIPO</small> *monsuta*) *monster*: (*pilin akesi tan* = <small>KIPO</small> *monsuta e*) *to fear*; (*jan akesi* = <small>KIPO</small> *monsuta*) *boogeyman* |
+| <img src="musi/pona/ala.png" height="50" title="ara"><br>**ala** | [**<small>INTERJECTION</small>**](#interjection) <br><small>PARTICLE</small> *(negation)* <br><small>ADVERB</small> **not** <br><small>NOUN</small> [**nothingness**](pu.md#lesson-6) |
+| | [**<small>NUMBER</small>**](#number) <br><small>ADJECTIVE</small> **zero**, [**0**](pu.md#lesson-12); **no**: (*ijo ala* = <small>CLASSIC</small> *ala*) [**nothing**](pu.md#chapter-of-sincerity) <br><small>NOUN</small> [**zero**](pu.md#famous-quotations) |
+| <img src="musi/pona/alasa.png" height="50" title="a-la-ŝas"><br>**alasa** | [**<small>VERB</small>**](#verb) <br><small>VERB</small> **to hunt**, **forage**; (<small>KIPO</small> *lukin*) <br><small>NOUN</small> *prey* |
+| <img src="musi/pona/ale.png" height="50" title="ale"><br>**ale** | [**<small>CORRELATIVE</small>**](#correlative) = <small>CLASSIC</small> *ali* <br><small>ADJECTIVE</small>  (*~~mute~~ ale*) **all**, **every**; (*~~wan~~ ale*) **all** <br><small>NOUN</small> **everything**; *area* |
+| | [**<small>NUMBER</small>**](#number) <br><small>ADJECTIVE</small> [**∞**](pu.md#lesson-12), **countless** <br><small>NOUN</small> [**infinity**](pu.md#famous-quotations); [**100**](pu.md#lesson-12) |
+| | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> **abundant**, **bountiful**, **plentiful** <br><small>NOUN</small> **abundance**; **life**, **universe** |
+| <img src="musi/pona/anpa.png" height="50" title="an-ba"><br>**anpa** | [**<small>AREA</small>**](#area) <br><small>ADJECTIVE</small> (*noka*) *low, lower*: (*kama anpa*) **downward**: **bowing down**, [**bowing to the ground**](pu.md#the-gospel); *deep* <br><small>NOUN</small> (*noka*) [**area below or under**](pu.md#lesson-15): (*lon anpa* = *lon noka*) *below*, *under*; *depending on*; *abyss*; (<small>KIPO</small> *apeja*) *hell* |
+| | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> **humble**, **lowly**; **dependent**; (<small>KIPO</small> *apeja*) *guilty*, *shameful*; <br><small>VERB</small> *to conquer*; (<small>KIPO</small> *apeja*) *to condemn*, *punish*; <br><small>NOUN</small> [**powerlessness**](pu.md#short-obligatory-prayer); (<small>KIPO</small> *apeja*) *guilt*, *shame* <br><small>NOUN</small> (<small>KIPO</small> *apeja*) *devil* |
+| <img src="musi/pona/ante.png" height="50" title="ander"><br>**ante** | [**<small>PREPOSITION</small>**](#preposition) <br><small>PREPOSITION</small> *than*, *unlike*; (*esun*) <br><small>ADJECTIVE</small> **altered**, **changed**, **different**; (*esun*) <br><small>NOUN</small> (*~~kama~~ ante*) [**change**](pu.md#toki-pona-proverbs) |
+| <img src="musi/pona/anu.png" height="50" title="an"><br>**anu** | [**<small>CONJUNCTION</small>**](#conjunction) <br><small>PARTICLE</small> *(alternative)*, **or** |
+| <img src="musi/pona/awen.png" height="50" title="hawen"><br>**awen** | [**<small>PRE-VERB</small>**](#pre-verb) <br><small>PRE-VERB</small> **to continue to** <br><small>ADJECTIVE</small> *continuous* |
+| | [**<small>AREA</small>**](#area) <br><small>ADJECTIVE</small> **enduring**, **kept**; (*awen ~~lon~~*) **staying**, **waiting**; (*~~pi sike/tenpo~~ awen*) *current*, *present*; (*tomo*); <br><small>VERB</small> (*tomo*) | <br><small>NOUN</small> (⇒ *tenpo*)
+| <img src="musi/pona/e.png" height="50" title="e"><br>**e** | [**<small>MARKER</small>**](#case-marker) <br><small>PARTICLE</small> **(before the direct <small>OBJECT</small>)** |
+| <img src="musi/pona/en.png" height="50" title="en"><br>**en** | [**<small>CONJUNCTION</small>**](#conjunction) <br><small>PARTICLE</small> **(between multiple <small>SUBJECT</small>s)**, [**and**](pu.md#lesson-16) |
+| <img src="musi/pona/esun.png" height="50" title="eĝum"><br>**esun** | [**<small>PREPOSITION</small>**](#preposition) <br><small>PREPOSITION</small> (*ante*) *instead of* <br><small>ADJECTIVE</small> (*ante*) *else*, **other**; (*ona esun* = *ona sama*) **each other**, *reciprocal* <br><small>NOUN</small> (*~~kama~~ esun*) *exchange*; **business transaction**; (*~~tomo~~ esun*) **shop**; (*~~ma~~ esun*) **bazaar**, **fair**, **market** |
+| | [**<small>NUMBER</small>**](#number) <br><small>ADJECTIVE</small> *7*, *seven* <br><small>NOUN</small> *septet*: (*sike esun*) *week* |
+| <img src="musi/pona/ijo.png" height="50" title="ijo"><br>**ijo** | [**<small>NOUN</small>**](#noun) <br><small>NOUN</small> [**being**](pu.md#lesson-2), **matter**, **object**, **phenomenon**, [**something**](pu.md#lesson-2), **thing**; <br><small>ADJECTIVE</small> *something's* |
+| <img src="musi/pona/ike.png" height="50" title="ilkea"><br>**ike** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> **bad**, [**harmful**](pu.md#toki-pona-proverbs), [**hostile**](pu.md#famous-quotations), **negative**; (*~~sin~~ ike*) **irrelevant**, [**needless**](pu.md#famous-quotations), **non-essential**; <br><small>NOUN</small> [**bad things**](pu.md#toki-pona-proverbs), [**evil**](pu.md#toki-pona-proverbs), [**fault**](pu.md#toki-pona-proverbs), [**negativity**](pu.md#toki-pona-proverbs), [**non-essentials**](pu.md#famous-quotations) |
+| <img src="musi/pona/ilo.png" height="50" title="ilo"><br>**ilo** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> (*pona*) **useful** <br><small>NOUN</small> **device**, **implement**, **machine**, **tool** |
+| <img src="musi/pona/insa.png" height="50" title="insait"><br>**insa** | [**<small>AREA</small>**](#area) <br><small>ADJECTIVE</small> *central*; *inner* <br><small>NOUN</small> **centre**: (*lon insa*) **between**, (*lon ~~insa~~*) [**(tangentially) between**](pu.md#famous-quotations); **inside**: (*lon insa*) [**within**](pu.md#toki-pona-proverbs), (*lon ~~insa~~*) [**in**](pu.md#lesson-8) |
+| | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *internal* <br><small>NOUN</small> **content** |
+| | [**<small>ORGAN</small>**](#organ) <br><small>ADJECTIVE</small> *intermediary* <br><small>NOUN</small> **internal organ**: **stomach**, [**womb**](pu.md#lesson-15); (*insa palisa*) *joint* <br><small>VERB</small> *to mediate* |
+| <img src="musi/pona/jaki.png" height="50" title="jaki"><br>**jaki** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *bitter*, **disgusting**, **obscene**, **sickly**, **toxic**, **unclean**, **unsanitary**, [**yucky**](pu.md#lesson-1) <br><small>NOUN</small> *dirt*, *poison*, *waste* |
+| <img src="musi/pona/jan.png" height="50" title="jan"><br>**jan** | [**<small>NOUN</small>**](#noun) <br><small>NOUN</small> [**folks**](pu.md#toki-pona-proverbs), [**guy**](pu.md#lesson-9), **human being**, **person**/[**people**](pu.md#lesson-9), **somebody**; <br><small>ADJECTIVE</small> [**somebody's**](pu.md#toki-pona-proverbs) |
+| <img src="musi/pona/jelo.png" height="50" title="jelo"><br>**jelo** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> **yellow**, (*jelo ~~mu~~*) **yellowish** |
+| <img src="musi/pona/jo.png" height="50" title="jou"><br>**jo** | [**<small>VERB</small>**](#verb) <br><small>VERB</small> **to have**; **carry**, **contain**, **hold**, *wear* <br><small>NOUN</small> *property* |
+| <img src="musi/pona/kala.png" height="50" title="kala"><br>**kala** | [**<small>LIFE-FORM</small>**](#life-form) <br><small>ADJECTIVE</small> *diving*, *swimming* <br><small>NOUN</small> **fish**, **marine animal**, **sea creature** |
+| <img src="musi/pona/kalama.png" height="50" title="galama"><br>**kalama** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> [*producing a sound*](pu.md#errata) <br><small>VERB</small> **to recite**, **utter aloud** <br><small>NOUN</small> [**noise**](pu.md#lesson-18) |
+| <img src="musi/pona/kama.png" height="50" title="kam-ap"><br>**kama** | [**<small>PRE-VERB</small>**](#pre-verb) <br><small>PRE-VERB</small> **to become**: (*kama ~~lon~~*) **arriving**, **being summoned**, **coming**; **manage to**, **succeed in** <br><small>ADJECTIVE</small> [**emerging**](pu.md#preface): (*~~pi sike/tenpo~~ kama*) **future**, *next*; <br><small>NOUN</small> *advent*: (*lon kama*) *before* |
+| <img src="musi/pona/kasi.png" height="50" title="kasvi"><br>**kasi** | [**<small>LIFE-FORM</small>**](#life-form) <br><small>ADJECTIVE</small> *vegetating*; *growing* <br><small>NOUN</small> **plant**, **vegetation**; **herb**, **leaf** |
+| <img src="musi/pona/ken.png" height="50" title="ken"><br>**ken** | [**<small>PRE-VERB</small>**](#pre-verb) <br><small>PRE-VERB</small> **to be able to**, **be allowed to**, **can**, **may** <br><small>ADJECTIVE</small> **possible** |
+| <img src="musi/pona/kepeken.png" height="50" title="ĥebrejken"><br>**kepeken** | [**<small>PREPOSITION</small>**](#preposition) <br><small>PREPOSITION</small> **by means of**, **using**, **with** <br><small>ADJECTIVE</small> *usufructuary* |
+| <img src="musi/pona/kili.png" height="50" title="ĥili"><br>**kili** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *hanging* <br><small>NOUN</small> **fruit**; [**banana**](pu.md#lesson-2), [**blueberry**](pu.md#lesson-2), [**kiwi**](pu.md#lesson-4), [**kumquat**](pu.md#what-is-toki-pona), [**lingonberry**](pu.md#what-is-toki-pona), [**orange**](pu.md#lesson-5); **mushroom**, **vegetable**; [**turnip**](pu.md#what-is-toki-pona) |
+| <img src="musi/pona/kiwen.png" height="50" title="kiven"><br>**kiwen** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *hard*, *sharp*; *rigid* <br><small>NOUN</small> **hard object**: *bone*, **metal**, **rock**, **stone** |
+| <img src="musi/pona/ko.png" height="50" title="gou"><br>**ko** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *semi-solid* <br><small>NOUN</small> **semi-solid**: **clay**, **clinging form**, **dough**, **paste**, **powder** |
+| <img src="musi/pona/kon.png" height="50" title="koŋ"><br>**kon** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *floating*, *hovering* <br><small>NOUN</small> **air**, **breath**; **essence**, **spirit**; [**meaning**](pu.md#preface), [**soul**](pu.md#preface); **hidden reality**, **unseen agent** |
+| <img src="musi/pona/kule.png" height="50" title="kuler"><br>**kule** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> **colourful**, **painted**; **pigmented**; (<small>EXTINCT</small> *kapesi*) *brown*, (*kule ~~mu~~*) *brownish* |
+| <img src="musi/pona/kulupu.png" height="50" title="kulupu"><br>**kulupu** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> (*~~pi kulupu~~ sama* = *sama*) **fellow**: (*jan ~~pi kulupu~~ sama* = *jan sama*) **peer**, (*jan ~~pi kulupu mama~~ sama* = *jan sama* = <small>EXTINCT</small> *pata*) **sibling**; *in common*, *shared* <br><small>NOUN</small> *relationship*; (*kulupu ~~jan~~*) **community**, **company**, **group**, **nation**, **society**, **tribe**; (*mute*) |
+| <img src="musi/pona/kute.png" height="50" title="ekute"><br>**kute** | [**<small>ORGAN</small>**](#organ) <br><small>NOUN</small> **ear**; <br><small>VERB</small> **to hear**, **listen**; (*kute ~~wawa~~*) [**listen to**](pu.md#lesson-5), **pay attention to**, **obey** |
+| <img src="musi/pona/la.png" height="50" title="la"><br>**la** | [**<small>CONJUNCTION</small>**](#conjunction) <br><small>PARTICLE</small> **(between the <small>CONTEXT PHRASE</small> and the <small>MAIN SENTENCE</small>)**, [**(separates <small>CONTEXT</small> from <small>MAIN SENTENCE</small>)**](pu.md#lesson-14) |
+| <img src="musi/pona/lape.png" height="50" title="slape"><br>**lape** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> **resting**, **sleeping**; <br><small>NOUN</small> [**sleep**](pu.md#toki-pona-proverbs) |
+| <img src="musi/pona/laso.png" height="50" title="glas"><br>**laso** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> **blue**, (*laso ~~mu~~*) *bluish*, **green**, (*laso ~~mu~~*) *greenish*; *immature*; (*walo*) **pale** |
+| <img src="musi/pona/lawa.png" height="50" title="glava"><br>**lawa** | [**<small>AREA</small>**](#area) <br><small>ADJECTIVE</small> (*sewi*) *upper*; (*~~suli~~ nanpa wan*) *main* <br><small>NOUN</small> (*sewi*) **highest part**: (*lon lawa* = *lon sewi*) *at the top of* |
+| | [**<small>ORGAN</small>**](#organ) <br><small>NOUN</small> **head**; **mind**; <br><small>VERB</small> **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule**: (*nasin lawa*) [**code of law**](pu.md#writings-of-baháulláh); <br><small>NOUN</small> [**guidance**](pu.md#toki-pona-proverbs) |
+| <img src="musi/pona/len.png" height="50" title="lenĵ"><br>**len** | [**<small>ORGAN</small>**](#organ) <br><small>NOUN</small> **cloth**, **clothing**, **fabric**, **textile**, [**vest**](pu.md#lesson-17); **cover**, **layer of privacy**; <br><small>VERB</small> *to hide* |
+| <img src="musi/pona/lete.png" height="50" title="fret"><br>**lete** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> **cold**, **cool**; **uncooked**, **raw** <br><small>NOUN</small> *frost*, *ice* |
+| <img src="musi/pona/li.png" height="50" title="li"><br>**li** | [**<small>MARKER</small>**](#mood-marker) <br><small>PARTICLE</small> *(indicative)*, **(between any <small>SUBJECT</small> except mi alone or sina alone and its <small>PREDICATE</small>; also to introduce a new <small>PREDICATE</small> for the same <small>SUBJECT</small>)** |
+| <img src="musi/pona/lili.png" height="50" title="liklik"><br>**lili** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> **little**, [**micro-**](pu.md#preface), [**narrow**](pu.md#lesson-13), **small**, **short**; (*~~pi tenpo~~ lili*) [**momentary**](pu.md#toki-pona-proverbs), [**temporary**](pu.md#toki-pona-proverbs); [**120**](pu.md#preface), **few**; **a bit**; (*~~pi sike suno~~ lili*) **young** <br><small>NOUN</small> (<small>CLASSIC</small> *kipisi*) *building block*, *detail*, *element*, *member*, *unit*; *part*, *particle*, *piece* |
+| <img src="musi/pona/linja.png" height="50" title="linja"><br>**linja** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *long and flexible* <br><small>NOUN</small> [*long flexible thing*](pu.md#errata): *chain*, **cord**, (*linja ~~lawa~~*) **hair**, **rope**, [**string**](pu.md#lesson-17), **thread**, **yarn**; *curve*, *line*; *row*; <br><small>VERB</small> *to tie* |
+| <img src="musi/pona/lipu.png" height="50" title="lipu"><br>**lipu** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *flat*, *thin* <br><small>NOUN</small> **flat object**: (*~~mute~~ lipu*) **book**, **card**, [**clay tablet**](pu.md#what-is-toki-pona), **document**, **paper**, [**piece of paper**](pu.md#lesson-2), [**postcard**](pu.md#what-is-toki-pona), [**printed book**](pu.md#what-is-toki-pona), **record**, **website** |
+| <img src="musi/pona/loje.png" height="50" title="roje"><br>**loje** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> **red**, (*loje ~~mu~~*) **reddish** |
+| <img src="musi/pona/lon.png" height="50" title="loŋ"><br>**lon** | [**<small>PREPOSITION</small>**](#preposition) <br><small>PREPOSITION</small> *along*; [**at**](pu.md#lesson-8), **located at**, **present at**; [**in the context of**](pu.md#lesson-14): (*lon ni:* = , *la*) [**if**](pu.md#lesson-14), [**when**](pu.md#lesson-14) <br><small>ADJECTIVE</small> [*existing*, *real*, *true*](pu.md#errata); <br><small>ADVERB</small> (*a*) |
+| <img src="musi/pona/luka.png" height="50" title="ruka"><br>**luka** | [**<small>ORGAN</small>**](#organ) <br><small>NOUN</small> **arm**, [**fingers**](pu.md#writings-of-baháulláh), **hand**, **tactile organ**; <br><small>VERB</small> *to touch* |
+| | [**<small>NUMBER</small>**](#number) <br><small>ADJECTIVE</small> [**5**](pu.md#lesson-12), **five** <br><small>NOUN</small> *quintet* |
+| <img src="musi/pona/lukin.png" height="50" title="luk-im"><br>**lukin** | [**<small>ORGAN</small>**](#organ) <br><small>NOUN</small> (<small>CLASSIC</small> *oko*) **eye**; <br><small>VERB</small> **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, (*lukin e sitelen*) **read**, [**search + <small>OBJECT</small>**](pu.md#preface), **watch** |
+| | [**<small>PRE-VERB</small>**](#pre-verb) <br><small>PRE-VERB</small> **try to**; [**to seek to**](pu.md#lesson-13): (*lukin jo* = <small>KIPO</small> *alasa*) [**to look for**](pu.md#errata) <br><small>VERB</small> *to care for* |
+| <img src="musi/pona/lupa.png" height="50" title="rupa"><br>**lupa** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *concave*, *empty*, *hollow* <br><small>NOUN</small> *cave*, **orifice**: (*lupa meli*) [**womb**](pu.md#toki-pona-proverbs); **hole**: (*lupa ~~tomo~~*) **door**, (*lupa ~~suno~~*) **window** |
+| <img src="musi/pona/ma.png" height="50" title="maa"><br>**ma** | [**<small>AREA</small>**](#area) <br><small>ADJECTIVE</small> *outside* <br><small>NOUN</small> **outdoors**: **world**; (*~~sike~~ ma*) [**planet**](pu.md#toki-pona-proverbs); (*ma nimi*) *context* <br><small>VERB</small> *to orient* |
+| | [**<small>THING</small>**](#thing) <br><small>NOUN</small> **earth**, **land**, **soil**; (*ma ~~jan~~*) **country**, **territory** |
+| <img src="musi/pona/mama.png" height="50" title="mama"><br>**mama** | [**<small>PERSON</small>**](#person) <br><small>ADJECTIVE</small> (*sijelo*); *of origin* <br><small>NOUN</small> **parent**; (*mama ~~mije~~*) [**father**](pu.md#the-gospel), (*mama ~~meli~~*) *mother*; **ancestor**; **creator**, **originator**: (*jo e mama* = *sijelo*); (<small>CLASSIC</small> *tan*) *cause*, *origin*; **caretaker**, **sustainer** |
+| <img src="musi/pona/mani.png" height="50" title="mani"><br>**mani** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *domesticated*, *refined*; *valueable* <br><small>NOUN</small> **large domesticated animal**; **cash**, **money**, **savings**, **wealth** |
+| <img src="musi/pona/meli.png" height="50" title="meri"><br>**meli** | [**<small>PERSON</small>**](#person) <br><small>ADJECTIVE</small> [**female**](pu.md#lesson-3) <br><small>NOUN</small> **female**, **feminine person**, **woman**; **wife** |
+| <img src="musi/pona/mi.png" height="50" title="mi"><br>**mi** | [**<small>NOUN</small>**](#pronoun) <br><small>NOUN</small> **I**/**me**/[**myself**](pu.md#toki-pona-proverbs), **we**/**us**/*ourselves*; <br><small>ADJECTIVE</small> *my*, *our* |
+| <img src="musi/pona/mije.png" height="50" title="mies"><br>**mije** | [**<small>PERSON</small>**](#person) <br><small>ADJECTIVE</small> *male* <br><small>NOUN</small> **male**, **man**, **masculine person**; **husband** |
+| <img src="musi/pona/moku.png" height="50" title="mogu"><br>**moku** | [**<small>VERB</small>**](#verb) <br><small>VERB</small> **to consume**, **drink**, **ingest**, **swallow**; **eat**; <br><small>NOUN</small> [**the act of eating**](pu.md#lesson-5) <br><small>NOUN</small> [**food**](pu.md#lesson-5) |
+| <img src="musi/pona/moli.png" height="50" title="muri"><br>**moli** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> **dead**: (*kama moli*) **dying** |
+| <img src="musi/pona/monsi.png" height="50" title="mon-ĉi"><br>**monsi** | [**<small>AREA</small>**](#area) <br><small>ADJECTIVE</small> *rear* <br><small>NOUN</small> [**area behind**](pu.md#lesson-15), **back**, **rear**: (*lon monsi*) **behind** |
+| | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *dorsal* <br><small>NOUN</small> **back**; *backbone*; <br><small>VERB</small> *to endorse* |
+| <img src="musi/pona/mu.png" height="50" title="mu"><br>**mu** | [**<small>INTERJECTION</small>**](#interjection) <br><small>PARTICLE</small> **(animal noise or communication)**; *(indifference)* <br><small>ADVERB</small> (*~~mu~~*) *-ish*, *sort-of*; [**cock-a-doodle-doo**](pu.md#lesson-11), [**moo**](pu.md#lesson-1); *blah* |
+| <img src="musi/pona/mun.png" height="50" title="mun"><br>**mun** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *orbiting*, *sky-walking* <br><small>NOUN</small> **night sky object**: **moon**, **star** |
+| <img src="musi/pona/musi.png" height="50" title="amuzi"><br>**musi** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> **artistic**, **entertaining**, **frivolous**, **playful**, **recreational** <br><small>NOUN</small> *game*; <br><small>VERB</small> *to play with* |
+| <img src="musi/pona/mute.png" height="50" title="multe"><br>**mute** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> [**3+**](pu.md#lesson-12), [**20**](pu.md#lesson-12), **a lot**, **many**, **several**; <br><small>ADVERB</small> **much**, **very**; (*mute ~~sin~~*) **more**; <br><small>VERB</small> [**to multiply**](pu.md#toki-pona-proverbs) <br><small>NOUN</small> *amount*, **quantity** |
+| | [**<small>NUMBER</small>**](#number) <br><small>ADJECTIVE</small> (<small>EXTINCT</small> *tuli*) *3*, *three*; <br><small>NOUN</small> *trio*; (*kulupu*) *multitude*, *set* |
+| <img src="musi/pona/nanpa.png" height="50" title="namba"><br>**nanpa** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *digital*, *numeric* <br><small>NOUN</small> *data*, **numbers**; <br><small>VERB</small> *to count*; *calculate* |
+| | [**<small>NAME</small>**](#name) <br><small>PARTICLE</small> **(ordinal number)**, *-nd*, *-rd*, **-th**: (*nanpa wan*) [**first**](pu.md#lesson-12), [**most fundamental**](pu.md#toki-pona-proverbs): (*suli nanpa wan*) *priority*; (*lawa*); |
+| <img src="musi/pona/nasa.png" height="50" title="nasau"><br>**nasa** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> **strange**, [**unconventional**](pu.md#toki-pona-proverbs), **unusual**; (*nasa ~~ike~~*) **crazy**, **foolish**; (*nasa ~~jaki~~*) **drunk**, **intoxicated** |
+| <img src="musi/pona/nasin.png" height="50" title="naĉin"><br>**nasin** | [**<small>AREA</small>**](#area) <br><small>ADJECTIVE</small> *connecting* <br><small>NOUN</small> *connection*, *passage*, **path**, **road**, [**street**](pu.md#lesson-9), **way**; *dimension*, *direction*; **custom**, **doctrine**, **method**, [**system**](pu.md#preface), [**way of doing things**](pu.md#toki-pona-proverbs); <br><small>VERB</small> *to connect* |
+| <img src="musi/pona/nena.png" height="50" title="nena"><br>**nena** | [**<small>THING</small>**](#thing) (<small>EXTINCT</small> *kapa*) <br><small>ADJECTIVE</small> *convex*, *full*, *outstanding*, *thick* <br><small>NOUN</small> **bump**, **hill**, **mountain**, **protuberance**; **button**; (*nena ~~pi sinpin lawa~~*) **nose** |
+| <img src="musi/pona/ni.png" height="50" title="ni"><br>**ni** | [**<small>CORRELATIVE</small>**](#correlative) <br><small>ADJECTIVE</small> **that**, **this** <br><small>NOUN</small> (*ni:*) [**the following**](pu.md#lesson-17) |
+| <img src="musi/pona/nimi.png" height="50" title="nimi"><br>**nimi** | [**<small>VERB</small>**](#verb) <br><small>NOUN</small> **name**; **word** <br><small>VERB</small> *to call*, *define* |
+| <img src="musi/pona/noka.png" height="50" title="noga"><br>**noka** | [**<small>AREA</small>**](#area) <br><small>ADJECTIVE</small> *bottom*; (*anpa*) <br><small>NOUN</small> **lowest part**; **bottom**, [**foundation**](pu.md#lesson-15): (*lon noka*) [**at the bottom of**](pu.md#lesson-15); (*anpa*) |
+| | [**<small>ORGAN</small>**](#organ) <br><small>NOUN</small> **foot**, **leg**, **organ of locomotion**; <br><small>VERB</small> *to step on*, *kick* |
+| <img src="musi/pona/o.png" height="50" title="ho"><br>**o** | [**<small>MARKER</small>**](#mood-marker) <br><small>PARTICLE</small> *(deontic)* **(vocative or imperative)**, [**(call or command)**](pu.md#lesson-10), [**(shows who is being called or addressed; command or request; wish or desire)**](pu.md#lesson-10), **hey**, **o** |
+| <img src="musi/pona/olin.png" height="50" title="volim"><br>**olin** | [**<small>VERB</small>**](#verb) <br><small>VERB</small> [**to be a fan of**](pu.md#preface), **have compassion for**, **love**, **respect**, **show affection to**; <br><small>NOUN</small> *love*; <br><small>ADJECTIVE</small> [**beloved**](pu.md#lesson-18) |
+| <img src="musi/pona/ona.png" height="50" title="ona"><br>**ona** | [**<small>NOUN</small>**](#pronoun) (<small>EXTINCT</small> *iki*) <br><small>NOUN</small> **he**/*him*, **it**, **she**/*her*, **they**/*them*; <br><small>ADJECTIVE</small> *her*, *his*, *its*, *their* |
+| <img src="musi/pona/open.png" height="50" title="open"><br>**open** | [**<small>AREA</small>**](#area) <br><small>ADJECTIVE</small> *open*; *accessible*, *ready*; <br><small>VERB</small> **to open**, [**unseal**](pu.md#writings-of-baháulláh); *set up*, **turn on**; **begin**, **start** <br><small>NOUN</small> *aperture*, *opening*; *beginning*, *start*: (*lon open pi ... pini*) *... ago* |
+| <img src="musi/pona/pakala.png" height="50" title="bagar-ap"><br>**pakala** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> **botched**, **broken**, **damaged**, **harmed**, **messed up** |
+| <img src="musi/pona/pali.png" height="50" title="fari"><br>**pali** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *busy*, *serious* <br><small>NOUN</small> *business*, *work*; <br><small>VERB</small> **to do**, **take action on**, **work on**; **build**, **make**, **prepare**; <br><small>NOUN</small> [**action**](pu.md#toki-pona-proverbs) |
+| <img src="musi/pona/palisa.png" height="50" title="palica"><br>**palisa** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *long and hard* <br><small>NOUN</small> **long hard thing**: [**antler**](pu.md#lesson-17), *bone*, **branch**, **rod**, **stick**; *column* |
+| | [**<small>ORGAN</small>**](#organ) <br><small>NOUN</small> *finger*; <br><small>VERB</small> *to point at* |
+| <img src="musi/pona/pan.png" height="50" title="fan"><br>**pan** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *fallen*, *dropped*; *sown* <br><small>NOUN</small> *seed*; **cereal**, **grain**; **barley**, **corn**, **oat**, **rice**, **wheat**; **bread**, **pasta** |
+| <img src="musi/pona/pana.png" height="50" title="pana"><br>**pana** | [**<small>VERB</small>**](#verb) <br><small>VERB</small> **to emit**, **give**, [**grant**](pu.md#toki-pona-proverbs), **provide**, (*pana e ijo lon*) **put**, **release**, (*pana e ijo tawa*) **send**, [**send out**](pu.md#toki-pona-proverbs), [**serve**](pu.md#lesson-14) <br><small>NOUN</small> *gift* |
+| <img src="musi/pona/pi.png" height="50" title="biloŋ"><br>**pi** | [**<small>MARKER</small>**](#case-marker) <br><small>PARTICLE</small> [**(divides a second <small>NOUN PHRASE</small> that describes a first <small>NOUN PHRASE</small>)**](pu.md#lesson-11), **of** |
+| <img src="musi/pona/pilin.png" height="50" title="pil-im"><br>**pilin** | [**<small>ORGAN</small>**](#organ) <br><small>NOUN</small> **heart (physical or emotional)**; <br><small>VERB</small> *to have the impression that*, *sense*, [**think**](pu.md#writings-of-baháulláh); <br><small>ADJECTIVE</small> **feeling (an emotion, a direct experience)** |
+| <img src="musi/pona/pimeja.png" height="50" title="pimea"><br>**pimeja** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> **black**, (*pimeja ~~mu~~*) *blackish*; (<small>EXTINCT</small> *kapesi*) *grey* |
+| | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> **dark**, **unlit** <br><small>NOUN</small> *shadow* |
+| <img src="musi/pona/pini.png" height="50" title="pinis"><br>**pini** | [**<small>AREA</small>**](#area) <br><small>ADJECTIVE</small> **completed**, *done*, **ended**, **finished**: (*~~pi sike/tenpo~~ pini*) **ago**, *last*, **past**, *previous*; <br><small>VERB</small> (*selo* = <small>CLASSIC</small> *pini*) <br><small>NOUN</small> *end*: (*lon pini*) *after*, *in the end*, (*tan pini*) *since* |
+| <img src="musi/pona/pipi.png" height="50" title="bibit"><br>**pipi** | [**<small>LIFE-FORM</small>**](#life-form) <br><small>ADJECTIVE</small> *crawling*, *creeping* <br><small>NOUN</small> **ant**, **bug**, **insect**, **spider** |
+| <img src="musi/pona/poka.png" height="50" title="boka"><br>**poka** | [**<small>AREA</small>**](#area) <br><small>ADJECTIVE</small> [*nearby*](pu.md#errata) <br><small>NOUN</small> [**area beside**](pu.md#lesson-15), **vicinity**: (*lon poka*) **next to**, (*lon ~~poka~~* = <small>EXTINCT</small> *kan*) *among*, [**with**](pu.md#lesson-8) |
+| | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *lateral* <br><small>NOUN</small> **side**, (*~~mute pi~~ poka tu tu sama* = <small>EXTINCT</small> *leko*) *square*; (*poka ~~sijelo~~*) **hip** |
+| <img src="musi/pona/poki.png" height="50" title="bokis"><br>**poki** | [**<small>ORGAN</small>**](#organ) <br><small>NOUN</small> **bag**, **bowl**, **box**, **container**, **cup**, **cupboard**, **drawer**, **vessel**; *bladder*; <br><small>VERB</small> *to capture* |
+| <img src="musi/pona/pona.png" height="50" title="bona"><br>**pona** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> [**beneficial**](pu.md#toki-pona-proverbs), [**beautiful**](pu.md#toki-pona-proverbs), **good**: [**of good**](pu.md#lesson-11), [**great**](pu.md#toki-pona-proverbs), [**OK**](pu.md#toki-pona-proverbs), **positive**, [**right**](pu.md#lesson-14); **friendly**, **peaceful**; (*ilo*); *basic*, *elementary*, *primitive*, **simple**; <br><small>VERB</small> [**to improve**](pu.md#lesson-6), [**tidy up**](pu.md#lesson-18); <br><small>NOUN</small> [**good**](pu.md#lesson-10), [**peace**](pu.md#lesson-10), [**simplicity**](pu.md#famous-quotations), [**sophistication**](pu.md#famous-quotations) |
+| <img src="musi/pona/pu.png" height="50" title="buk"><br>**pu** | [**<small>PREPOSITION</small>**](#preposition) <br><small>PREPOSITION</small> (*sama*) *according to* <br><small>ADJECTIVE</small> *compatible*, *compliant*; (*pu ~~lipu Pu~~*) **interacting with the official Toki Pona book** |
+| | [**<small>NAME</small>**](#name) <br><small>PARTICLE</small> *name of the official Toki Pona book*: (*lipu Pu*) *the official Toki Pona book*, *Pu* |
+| <img src="musi/pona/sama.png" height="50" title="sama"><br>**sama** | [**<small>PREPOSITION</small>**](#preposition) <br><small>PREPOSITION</small> **as**, **like**; (*pu*) <br><small>ADJECTIVE</small> **same**, **similar**; (*kulupu*); (*esun*); *-self*, *-selves*; <br><small>NOUN</small> [**harmony**](pu.md#famous-quotations) |
+| <img src="musi/pona/seli.png" height="50" title="ĉeli"><br>**seli** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *hot*, *warm*; *cooked* <br><small>NOUN</small> **chemical reaction**, **fire**, **heat source**; **cooking element**; <br><small>VERB</small> [**to cook**](pu.md#lesson-18) |
+| <img src="musi/pona/selo.png" height="50" title="ŝelo"><br>**selo** | [**<small>ORGAN</small>**](#organ) <br><small>NOUN</small> [**form**](pu.md#preface), **outer form**, **outer layer**; **bark**, **peel**, **shell**, **skin**; **boundary**; <br><small>VERB</small> (<small>CLASSIC</small> *pini*) *to close* |
+| <img src="musi/pona/seme.png" height="50" title="ŝenme"><br>**seme** | [**<small>CORRELATIVE</small>**](#correlative) <br><small>ADJECTIVE</small> **what**, **which** <br><small>NOUN</small> [**what**](pu.md#lesson-7), *which one* |
+| <img src="musi/pona/sewi.png" height="50" title="sevit"><br>**sewi** | [**<small>AREA</small>**](#area) <br><small>ADJECTIVE</small> *high*; (*lawa*) <br><small>NOUN</small> **area above**: (*lon sewi*) *above*, *over*; **something elevated**; [**sky**](pu.md#lesson-15); *heaven*; (*lawa*) |
+| | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> **awe-inspiring**, **divine**, **sacred**, **supernatural** <br><small>NOUN</small> [**the Divine**](pu.md#preface), [**that which is divine**](pu.md#lesson-6), [**God**](pu.md#lesson-6), [**the Lord**](pu.md#the-torah) |
+| <img src="musi/pona/sijelo.png" height="50" title="tijelo"><br>**sijelo** | [**<small>ORGAN</small>**](#organ) <br><small>ADJECTIVE</small> (*jo e mama*) [**being born**](pu.md#chapter-of-sincerity); *alive*, *healthy* <br><small>NOUN</small> [**health**](pu.md#lesson-13), **physical state**; *configuration*, *mode* <br><small>NOUN</small> *life-form*; **body (of person or animal)**, **torso**; <br><small>VERB</small> (*mama pi*) [**to give birth to**](pu.md#chapter-of-sincerity) |
+| <img src="musi/pona/sike.png" height="50" title="sirkel"><br>**sike** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *round*: (*lon poka sike*) *around* <br><small>NOUN</small> **round or circular thing**: **ball**, **circle**, **sphere**, **wheel** |
+| | [**<small>AREA</small>**](#area) <br><small>ADJECTIVE</small> *periodic* <br><small>NOUN</small> **cycle**; *iteration*, *lap*: (*~~sike~~ suno*) *year*; (*tenpo*) <br><small>ADJECTIVE</small> (*~~pi~~ sike ~~suno~~*) **of one year**, (*pi sike ~~suno~~ mute* = <small>EXTINCT</small> *majuna*) *old* |
+| <img src="musi/pona/sin.png" height="50" title="ŝin"><br>**sin** | [**<small>PREPOSITION</small>**](#preposition) <br><small>PREPOSITION</small> *in addition to*, *with* <br><small>ADJECTIVE</small> **new**, **fresh**; (<small>CLASSIC</small> *namako*) **additional**, **another**, **extra**; *artificial*, *enhanced* |
+| <img src="musi/pona/sina.png" height="50" title="sina"><br>**sina** | [**<small>NOUN</small>**](#pronoun) <br><small>NOUN</small> **you**/*thou*/*thee*/[**thyself**](pu.md#toki-pona-proverbs); [**the person who**](pu.md#famous-quotations); <br><small>ADJECTIVE</small> *your*/[**thy**](pu.md#toki-pona-proverbs) |
+| <img src="musi/pona/sinpin.png" height="50" title="cinpin"><br>**sinpin** | [**<small>AREA</small>**](#area) <br><small>ADJECTIVE</small> **foremost** <br><small>NOUN</small> [**area in front**](pu.md#lesson-15): (*lon sinpin*) [**in front of**](pu.md#lesson-15) |
+| | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *blocking*, *upright*, *vertical* <br><small>NOUN</small> **front**, **wall**; (*sinpin ~~sijelo~~*) [**chest**](pu.md#lesson-15), (*sinpin ~~lawa~~*) **face**; <br><small>VERB</small> (<small>KIPO</small> *pake*) *to block*; *to confront*, *face* |
+| <img src="musi/pona/sitelen.png" height="50" title="ŝilderen"><br>**sitelen** | [**<small>VERB</small>**](#verb) <br><small>VERB</small> *to draw*, *indicate*, *project*, *represent*, *sculpture* <br><small>NOUN</small> **image**, **picture**, *projection*, **representation**, *sculpture*, **symbol**, **mark**, **writing** |
+| <img src="musi/pona/sona.png" height="50" title="ĉodna"><br>**sona** | [**<small>VERB</small>**](#verb) <br><small>VERB</small> **to be skilled in**; [**to be knowledgeable of**](pu.md#lesson-5), **be wise about**, **have information on**, **know**, (*~~toki wawa e~~ sona*) [**testify**](pu.md#short-obligatory-prayer) <br><small>NOUN</small> [**insight**](pu.md#writings-of-baháulláh), [**knowledge**](pu.md#lesson-5), [**wisdom**](pu.md#toki-pona-proverbs) |
+| | [**<small>PRE-VERB</small>**](#pre-verb) <br><small>PRE-VERB</small> **to know how to** |
+| <img src="musi/pona/soweli.png" height="50" title="ĉoveli"><br>**soweli** | [**<small>LIFE-FORM</small>**](#life-form) <br><small>ADJECTIVE</small> *warm-blooded*; (*suwi*) **innocent** <br><small>NOUN</small> *cute animal*; **animal**, **beast**, **land mammal**; [**badger**](pu.md#lesson-12), [**hare**](pu.md#lesson-18), [**moose**](pu.md#lesson-17); (<small>SONJA</small> *kijetesantakalu*) *Procyonidae*; [**meat**](pu.md#lesson-5) |
+| <img src="musi/pona/suli.png" height="50" title="suuri"><br>**suli** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> **big**, **heavy**, **large**, **long**, **tall**; **important**; *responsible*; **adult**; <br><small>VERB</small> [**enlarge**](pu.md#lesson-6) <br><small>NOUN</small> *cargo*; *role* |
+| <img src="musi/pona/suno.png" height="50" title="suno"><br>**suno** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *bright*; <br><small>NOUN</small> **brightness**, **glow**, **light**, **radiance**, **shine** <br><small>NOUN</small> **sun**; **light source** |
+| <img src="musi/pona/supa.png" height="50" title="surfas"><br>**supa** | [**<small>AREA</small>**](#area) <br><small>ADJECTIVE</small> *horizontal* <br><small>NOUN</small> *horizon*, **horizontal surface**: (*lon supa*) *on* |
+| | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *sustaining* <br><small>NOUN</small> **thing to put or rest something on**: (*lon supa*) *lying on*, *sitting on*; [**sofa**](pu.md#lesson-18); (*supa sinpin* = <small>EXTINCT</small> *leko*) *block*; (*supa noka* = <small>EXTINCT</small> *leko*) *ladder*, *step*, *stairs* |
+| <img src="musi/pona/suwi.png" height="50" title="swit"><br>**suwi** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> **fragrant**, **sweet**; **adorable**, **cute**; (*soweli*) <br><small>NOUN</small> [**sweets**](pu.md#lesson-16) |
+| <img src="musi/pona/tan.png" height="50" title="dan"><br>**tan** | [**<small>PREPOSITION</small>**](#preposition) <br><small>PREPOSITION</small> **because of**, **by**, **from** <br><small>ADJECTIVE</small> (*tawa*) |
+| <img src="musi/pona/taso.png" height="50" title="ta-s-ol"><br>**taso** | [**<small>PREPOSITION</small>**](#preposition) <br><small>PREPOSITION</small> *free from*, *independent from*, *without*; (*taso ~~ni la~~*) **but**, **however** <br><small>ADJECTIVE</small> *just*, **only** |
+| <img src="musi/pona/tawa.png" height="50" title="tawards"><br>**tawa** | [**<small>PREPOSITION</small>**](#preposition) <br><small>PREPOSITION</small> **going to**, [**to**](pu.md#lesson-8), [**moving to**](pu.md#lesson-8), **toward**, [**towards**](pu.md#lesson-8); **for**; **from the perspective of** <br><small>ADJECTIVE</small> **moving**, (*tawa ~~wawa~~*) [**running**](pu.md#lesson-17), (*~~kama~~ tawa* = *tan*) [**leaving**](pu.md#phrase-book): [**departure**](pu.md#lesson-10) |
+| <img src="musi/pona/telo.png" height="50" title="de-l-o"><br>**telo** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *wet* <br><small>NOUN</small> **fluid**, **liquid**, (*telo ~~suli~~*) [**lake**](pu.md#lesson-9), **water**, **wet substance**; **beverage**; <br><small>VERB</small> [**to water**](pu.md#lesson-11) |
+| <img src="musi/pona/tenpo.png" height="50" title="tempo"><br>**tenpo** | [**<small>AREA</small>**](#area) <br><small>ADJECTIVE</small> *ephemeral*, *provisional*, *transitory* <br><small>NOUN</small> **moment**, **occasion**, **period**, **situation**, **time**: (*lon tenpo*) *for*; **duration**: (*lon tenpo*) *as long as*, [**during**](pu.md#lesson-14), *while*; (*sike*) *turn* |
+| <img src="musi/pona/toki.png" height="50" title="tok"><br>**toki** | [**<small>VERB</small>**](#verb) <br><small>VERB</small> **to communicate**, [**explain**](pu.md#famous-quotations), **say**, **speak**; **think**; <br><small>ADJECTIVE</small> [*talking*, *using language*](pu.md#errata); <br><small>NOUN</small> [**communication**](pu.md#toki-pona-proverbs), [**speech**](pu.md#lesson-5); [**language**](pu.md#lesson-5): (*lon toki*) [**in**](pu.md#lesson-8), [**something that you speak**](pu.md#lesson-5) <br><small>NOUN</small> *message*, (*~~toki pi~~ ijo sin*) *news* |
+| <img src="musi/pona/tomo.png" height="50" title="domo"><br>**tomo** | [**<small>ORGAN</small>**](#organ) <br><small>NOUN</small> *roof*, *shelter*: (*lon tomo* = *awen*) **protected**, **safe**; **indoor space**: **building**, **home**, **house**, **room**, [**shed**](pu.md#lesson-14) <br><small>VERB</small> (*awen*) [**to help in peril**](pu.md#short-obligatory-prayer), [**protect**](pu.md#lesson-15) |
+| <img src="musi/pona/tu.png" height="50" title="tu"><br>**tu** | [**<small>NUMBER</small>**](#number) <br><small>ADJECTIVE</small> [**2**](pu.md#lesson-12), **two**: (*tu tu* = <small>EXTINCT</small> *po*) *four*; <br><small>VERB</small> *to divide* <br><small>NOUN</small> *pair* |  <!-- TODO THING cf. mute -->
+| <img src="musi/pona/unpa.png" height="50" title="umf"><br>**unpa** | [**<small>VERB</small>**](#verb) <br><small>VERB</small> [*to have sex with*](pu.md#errata) |
+| <img src="musi/pona/uta.png" height="50" title="usta"><br>**uta** | [**<small>ORGAN</small>**](#organ) <br><small>NOUN</small> **jaw**, **lips**, **mouth**, **oral cavity**; <br><small>VERB</small> [**to kiss**](pu.md#lesson-18), *suck*, *taste* |
+| <img src="musi/pona/utala.png" height="50" title="udara"><br>**utala** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> *aggressive*; <br><small>VERB</small> *to attack*, **battle**, **challenge**, **compete against**, [**fight**](pu.md#lesson-9), *provoke*, **struggle against**; <br><small>NOUN</small> [**battle**](pu.md#lesson-14), [**fighting**](pu.md#toki-pona-proverbs) |
+| <img src="musi/pona/walo.png" height="50" title="valko"><br>**walo** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> **white**, (*walo ~~mu~~*) **whitish**; **light-coloured**, (*laso*) |
+| <img src="musi/pona/wan.png" height="50" title="wan"><br>**wan** | [**<small>NUMBER</small>**](#number) <br><small>ADJECTIVE</small> [**1**](pu.md#lesson-12), **one**; (*wan ~~ale~~*) **united** <br><small>NOUN</small> *singleton* |
+| | [**<small>CORRELATIVE</small>**](#correlative) <br><small>ADJECTIVE</small> (*~~wan~~*) [**certain**](pu.md#the-gospel); *specific*; **unique** |
+| <img src="musi/pona/waso.png" height="50" title="wazo"><br>**waso** | [**<small>LIFE-FORM</small>**](#life-form) <br><small>ADJECTIVE</small> *flying*, *winging* <br><small>NOUN</small> **bird**, **flying creature**, **winged animal** |
+| <img src="musi/pona/wawa.png" height="50" title="vahva"><br>**wawa** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> **energetic**, **intense**, **powerful**, [**stable**](pu.md#lesson-15), **strong**; [**independent**](pu.md#chapter-of-sincerity); [**dependable**](pu.md#lesson-4), [**reliable**](pu.md#lesson-5); (*~~sona~~ wawa*) **confident**, **sure**; (*~~kalama~~ wawa*) [**loud**](pu.md#lesson-17); <br><small>VERB</small> [**strengthen**](pu.md#lesson-6); (*~~toki~~ wawa e ~~sona~~*) [**to bear witness**](pu.md#writings-of-baháulláh) <br><small>NOUN</small> [**might**](pu.md#writings-of-baháulláh), [**power**](pu.md#writings-of-baháulláh); *force* |
+| <img src="musi/pona/weka.png" height="50" title="weĥ"><br>**weka** | [**<small>AREA</small>**](#area) <br><small>ADJECTIVE</small> **absent**, **away**, *remote*; **ignored**, *isolated*; <br><small>NOUN</small> [**isolation**](pu.md#toki-pona-proverbs); <br><small>VERB</small> [**to eliminate**](pu.md#famous-quotations), [**erase**](pu.md#toki-pona-proverbs), [**omit**](pu.md#famous-quotations), [**remove**](pu.md#toki-pona-proverbs) <br><small>NOUN</small> *distance*: (*lon weka*) *away from* |
+| | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *vast* <br><small>NOUN</small> *space*; *vacuum*, *void* |
+| <img src="musi/pona/wile.png" height="50" title="wile"><br>**wile** | [**<small>PRE-VERB</small>**](#pre-verb) <br><small>PRE-VERB</small> **must**, **need**, **require**, **should**, **want**, **wish** <br><small>ADJECTIVE</small> *inevitable*, *necessary* |
 
 ## DICTIONARY - EXPLANATION
 
@@ -180,73 +180,73 @@ Translations given in the official Toki Pona dictionary are written in **bold**.
 
 | | |
 |:-:|:-|
-| <img src="musi/pona/e.png" height="50" title="e"><br>**e** | [**ᴍᴀʀᴋᴇʀ**](#case-marker) <br>ᴘᴀʀᴛɪᴄʟᴇ **(before the direct ᴏʙᴊᴇᴄᴛ)** |
+| <img src="musi/pona/e.png" height="50" title="e"><br>**e** | [**<small>MARKER</small>**](#case-marker) <br><small>PARTICLE</small> **(before the direct <small>OBJECT</small>)** |
 | | |
 
 Translations given in the official Toki Pona book's corpus are [**linked**](#dictionary). (Some of these are treated as [*errata*](pu.md#errata).)
 
 | | |
 |:-:|:-|
-| <img src="musi/pona/kalama.png" height="50" title="galama"><br>**kalama** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ [*producing a sound*](pu.md#errata) <br>ᴠᴇʀʙ **to recite**, **utter aloud** <br>ɴᴏᴜɴ [**noise**](pu.md#lesson-18) |
+| <img src="musi/pona/kalama.png" height="50" title="galama"><br>**kalama** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> [*producing a sound*](pu.md#errata) <br><small>VERB</small> **to recite**, **utter aloud** <br><small>NOUN</small> [**noise**](pu.md#lesson-18) |
 | | |
 
 Translations that I have deduced are written in *italics*.
 
 | | |
 |:-:|:-|
-| <img src="musi/pona/suno.png" height="50" title="suno"><br>**suno** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *bright*; <br>ɴᴏᴜɴ **brightness**, **glow**, **light**, **radiance**, **shine** <br>ɴᴏᴜɴ **sun**; **light source** |
+| <img src="musi/pona/suno.png" height="50" title="suno"><br>**suno** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> *bright*; <br><small>NOUN</small> **brightness**, **glow**, **light**, **radiance**, **shine** <br><small>NOUN</small> **sun**; **light source** |
 | | |
 
 A translation's context is written in *italics*.
 
 | | |
 |:-:|:-|
-| <img src="musi/pona/moli.png" height="50" title="muri"><br>**moli** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **dead**: (*kama moli*) **dying** |
+| <img src="musi/pona/moli.png" height="50" title="muri"><br>**moli** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> **dead**: (*kama moli*) **dying** |
 | | |
 
 Omitted words in a translation's context are *~~crossed out~~*.
 
 | | |
 |:-:|:-|
-| <img src="musi/pona/nasa.png" height="50" title="nasau"><br>**nasa** | [**ᴍᴏᴅɪꜰɪᴇʀ**](#modifier) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ **strange**, [**unconventional**](pu.md#toki-pona-proverbs), **unusual**; (*nasa ~~ike~~*) **crazy**, **foolish**; (*nasa ~~jaki~~*) **drunk**, **intoxicated** |
+| <img src="musi/pona/nasa.png" height="50" title="nasau"><br>**nasa** | [**<small>MODIFIER</small>**](#modifier) <br><small>ADJECTIVE</small> **strange**, [**unconventional**](pu.md#toki-pona-proverbs), **unusual**; (*nasa ~~ike~~*) **crazy**, **foolish**; (*nasa ~~jaki~~*) **drunk**, **intoxicated** |
 | | |
 
 When a word seems to have supplanted a simpler word, its meaning can be found under the original word.
 
 | | |
 |:-:|:-|
-| <img src="musi/pona/ilo.png" height="50" title="ilo"><br>**ilo** | [**ᴛʜɪɴɢ**](#thing) <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ (*pona*) **useful** <br>ɴᴏᴜɴ **device**, **implement**, **machine**, **tool** |
+| <img src="musi/pona/ilo.png" height="50" title="ilo"><br>**ilo** | [**<small>THING</small>**](#thing) <br><small>ADJECTIVE</small> (*pona*) **useful** <br><small>NOUN</small> **device**, **implement**, **machine**, **tool** |
 | | |
 
 ## CONTENT WORD
-*([nimi](#parts-of-speech-and-word-classes) suli)*
+[<small>NIMI</small>](#parts-of-speech-and-word-classes) <small>SULI</small>
 
 | |
 |:-|
-| [ᴍᴏᴅɪꜰɪᴇʀ](#modifier): [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
-| [ᴠᴇʀʙ](#verb): [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
-| [ɴᴏᴜɴ](#noun): [ᴘʀᴏɴᴏᴜɴ](#pronoun) |
-| [ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#noun-adjective) |
+| [<small>MODIFIER</small>](#modifier): [<small>PREPOSITION</small>](#preposition) |
+| [<small>VERB</small>](#verb): [<small>PRE-VERB</small>](#pre-verb) |
+| [<small>NOUN</small>](#noun): [<small>PRONOUN</small>](#pronoun) |
+| [<small>NOUN ADJECTIVE</small>](#noun-adjective) |
 
 ### MODIFIER
-*([nimi suli](#content-word) poka)*
+[<small>NIMI SULI</small>](#content-word) poka
 
 | |
 |:-|
-| [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) |
+| [<small>PREPOSITION</small>](#preposition) |
 
-| ᴍᴏᴅɪꜰɪᴇʀ pona |
+| <small>MODIFIER</small> pona |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *peaceful* |
+| <small>ADJECTIVE</small> *peaceful* |
 
 #### PREPOSITION
 *([nimi suli poka](#adjective) palisa)*
 
-You can convert any ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *being ...* omitting its argument.
+You can convert any <small>PREPOSITION</small> into an <small>ADJECTIVE</small> meaning *being ...* omitting its argument.
 
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ tawa |
+| <small>PREPOSITION</small> tawa |
 |:-|
-| ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ *towards* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *being towards* = *going* |
+| <small>PREPOSITION</small> *towards* <br><small>ADJECTIVE</small> *being towards* = *going* |
 
 A prepositional phrase can only be used at the end of a sentence.
 
@@ -254,7 +254,7 @@ A prepositional phrase can only be used at the end of a sentence.
 |:-|
 | *I give fish to her.* |
 
-When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴀᴅᴊᴇᴄᴛɪᴠᴇ and ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ, the ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is omitted.
+When a <small>PREPOSITION</small> is used both as <small>ADJECTIVE</small> and <small>PREPOSITION</small>, the <small>PREPOSITION</small> is omitted.
 
 | mi tawa ~~tawa~~ sina. |
 |:-|
@@ -265,201 +265,201 @@ When a ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ is used both as ᴀᴅᴊᴇᴄᴛɪᴠᴇ 
 
 | |
 |:-|
-| [ᴘʀᴇ-ᴠᴇʀʙ](#pre-verb) |
+| [<small>PRE-VERB</small>](#pre-verb) |
 
-You can convert any ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ᴠᴇʀʙ meaning *to make ...*.
+You can convert any <small>ADJECTIVE</small> into a <small>VERB</small> meaning *to make ...*.
 
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ pona |
+| <small>ADJECTIVE</small> pona |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *peaceful* <br>ᴠᴇʀʙ *to make peaceful* = *to pacify* |
+| <small>ADJECTIVE</small> *peaceful* <br><small>VERB</small> *to make peaceful* = *to pacify* |
 
-You can convert any ᴠᴇʀʙ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *who ...*.
+You can convert any <small>VERB</small> into an <small>ADJECTIVE</small> meaning *who ...*.
 
-| ᴠᴇʀʙ moku |
+| <small>VERB</small> moku |
 |:-|
-| ᴠᴇʀʙ *to eat* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *who eats* = *eating* |
+| <small>VERB</small> *to eat* <br><small>ADJECTIVE</small> *who eats* = *eating* |
 
 #### PRE-VERB
 *([nimi suli luka](#verb) poka)*
 
-When the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ describes the modality of the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ with an ᴀᴅᴊᴇᴄᴛɪᴠᴇ, the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's ᴀᴅᴊᴇᴄᴛɪᴠᴇ can become the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ's ᴘʀᴇ-ᴠᴇʀʙ.
+When the <small>MAIN CLAUSE</small> describes the modality of the <small>SUBORDINATE CLAUSE</small> with an <small>ADJECTIVE</small>, the <small>MAIN CLAUSE</small>'s <small>ADJECTIVE</small> can become the <small>SUBORDINATE CLAUSE</small>'s <small>PRE-VERB</small>.
 
-| ᴘʀᴇ-ᴠᴇʀʙ ken | ni li ken: mi toki. → mi ken toki. |
+| <small>PRE-VERB</small> ken | ni li ken: mi toki. → mi ken toki. |
 |:-|:-|
-| ᴘʀᴇ-ᴠᴇʀʙ *can* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *possible* | *I can talk.* |
+| <small>PRE-VERB</small> *can* <br><small>ADJECTIVE</small> *possible* | *I can talk.* |
 
-When ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ and ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ share the same ꜱᴜʙᴊᴇᴄᴛ, the ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ's ᴠᴇʀʙ can become the ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ's ᴘʀᴇ-ᴠᴇʀʙ.
+When <small>MAIN CLAUSE</small> and <small>SUBORDINATE CLAUSE</small> share the same <small>SUBJECT</small>, the <small>MAIN CLAUSE</small>'s <small>VERB</small> can become the <small>SUBORDINATE CLAUSE</small>'s <small>PRE-VERB</small>.
 
-| ᴘʀᴇ-ᴠᴇʀʙ sona | mi sona e (nasin) ni: mi toki. → mi sona toki. |
+| <small>PRE-VERB</small> sona | mi sona e (nasin) ni: mi toki. → mi sona toki. |
 |:-|:-|
-| ᴘʀᴇ-ᴠᴇʀʙ *to know how to* <br>ᴠᴇʀʙ *to know* | *I know how to talk.* |
+| <small>PRE-VERB</small> *to know how to* <br><small>VERB</small> *to know* | *I know how to talk.* |
 
 ### NOUN
 *([nimi suli](#content-word) lawa)*
 
 | |
 |:-|
-| [ᴘʀᴏɴᴏᴜɴ](#pronoun) |
+| [<small>PRONOUN</small>](#pronoun) |
 
-You can convert any ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ meaning *the state of being ...*.
+You can convert any <small>ADJECTIVE</small> into a <small>NOUN</small> meaning *the state of being ...*.
 
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ pona |
+| <small>ADJECTIVE</small> pona |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *peaceful* <br>ɴᴏᴜɴ *the state of being peaceful* = *peace* |
+| <small>ADJECTIVE</small> *peaceful* <br><small>NOUN</small> *the state of being peaceful* = *peace* |
 
-You can convert any ᴠᴇʀʙ via an ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ meaning *the act of ...*.
-| ᴠᴇʀʙ moku |
+You can convert any <small>VERB</small> via an <small>ADJECTIVE</small> into a <small>NOUN</small> meaning *the act of ...*.
+| <small>VERB</small> moku |
 |:-|
-| ᴠᴇʀʙ *to eat* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *eating* <br>ɴᴏᴜɴ *the state of being eating* = *the act of eating* |
+| <small>VERB</small> *to eat* <br><small>ADJECTIVE</small> *eating* <br><small>NOUN</small> *the state of being eating* = *the act of eating* |
 
-You can convert any ᴠᴇʀʙ into a ɴᴏᴜɴ meaning *something that you ...*.
+You can convert any <small>VERB</small> into a <small>NOUN</small> meaning *something that you ...*.
 
-| ᴠᴇʀʙ moku |
+| <small>VERB</small> moku |
 |:-|
-| ᴠᴇʀʙ *to eat* <br>ɴᴏᴜɴ *something that you eat* = *food* |
+| <small>VERB</small> *to eat* <br><small>NOUN</small> *something that you eat* = *food* |
 
-You can convert any ɴᴏᴜɴ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *of ...* or into a ᴠᴇʀʙ meaning *to use ... on*.
+You can convert any <small>NOUN</small> into an <small>ADJECTIVE</small> meaning *of ...* or into a <small>VERB</small> meaning *to use ... on*.
 
-| ɴᴏᴜɴ jan | ᴀᴅᴊᴇᴄᴛɪᴠᴇ seli |
+| <small>NOUN</small> jan | <small>ADJECTIVE</small> seli |
 |:-|:-|
-| ɴᴏᴜɴ *someone* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of someone* = *someone's* | ᴀᴅᴊᴇᴄᴛɪᴠᴇ *hot* <br>ɴᴏᴜɴ *that which is hot* = *fire* <br>ᴠᴇʀʙ *to use fire on* = *to cook* |
+| <small>NOUN</small> *someone* <br><small>ADJECTIVE</small> *of someone* = *someone's* | <small>ADJECTIVE</small> *hot* <br><small>NOUN</small> *that which is hot* = *fire* <br><small>VERB</small> *to use fire on* = *to cook* |
 
 #### PRONOUN
 *([nimi suli lawa](#noun) sama)*
 
-| ɴᴏᴜɴ sina |
+| <small>NOUN</small> sina |
 |:-|
-| ɴᴏᴜɴ *you* <br>ᴀᴅᴊᴇᴄᴛɪᴠᴇ *of you* = *your* |
+| <small>NOUN</small> *you* <br><small>ADJECTIVE</small> *of you* = *your* |
 
 ### NOUN ADJECTIVE
 *([nimi suli](#content-word) poka pi [nimi suli lawa](#noun))*
 
 | |
 |:-|
-| [ᴘᴇʀꜱᴏɴ](#person) |
-| [ᴏʀɢᴀɴ](#organ) |
-| [ʟɪꜰᴇ-ꜰᴏʀᴍ](#life-form) |
+| [<small>PERSON</small>](#person) |
+| [<small>ORGAN</small>](#organ) |
+| [<small>LIFE-FORM</small>](#life-form) |
 | |
-| [ᴛʜɪɴɢ](#thing) |
-| [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) |
-| [ɴᴜᴍʙᴇʀ](#number) |
-| [ᴀʀᴇᴀ](#area) |
+| [<small>THING</small>](#thing) |
+| [<small>CORRELATIVE</small>](#correlative) |
+| [<small>NUMBER</small>](#number) |
+| [<small>AREA</small>](#area) |
 
-You can convert any ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ into a ɴᴏᴜɴ meaning *that which is ...*. Its specific usage can be looked up in the [Dictionary](#dictionary).
+You can convert any <small>NOUN ADJECTIVE</small> into a <small>NOUN</small> meaning *that which is ...*. Its specific usage can be looked up in the [Dictionary](#dictionary).
 
-| ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ sewi |
+| <small>NOUN ADJECTIVE</small> sewi |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *divine* <br>ɴᴏᴜɴ *that which is divine* = *God* |
+| <small>ADJECTIVE</small> *divine* <br><small>NOUN</small> *that which is divine* = *God* |
 
 #### PERSON
 *([nimi suli poka](#noun-adjective) jan)*
 
-| ᴘᴇʀꜱᴏɴ meli |
+| <small>PERSON</small> meli |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *female* <br>ɴᴏᴜɴ *feminine person* = *woman* |
+| <small>ADJECTIVE</small> *female* <br><small>NOUN</small> *feminine person* = *woman* |
 
 #### ORGAN
 *([nimi suli poka](#noun-adjective) ilo)*
 
-| ᴏʀɢᴀɴ lukin |
+| <small>ORGAN</small> lukin |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *light-sensitive* <br>ɴᴏᴜɴ *light-sensitive organ* = *eye* <br>ᴠᴇʀʙ *to use eyes on* = *to see* |
+| <small>ADJECTIVE</small> *light-sensitive* <br><small>NOUN</small> *light-sensitive organ* = *eye* <br><small>VERB</small> *to use eyes on* = *to see* |
 
 #### LIFE-FORM
 *([nimi suli poka](#noun-adjective) sijelo)*
 
-| ʟɪꜰᴇ-ꜰᴏʀᴍ waso |
+| <small>LIFE-FORM</small> waso |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *swimming* <br>ɴᴏᴜɴ *swimming life-form* = *fish* |
+| <small>ADJECTIVE</small> *swimming* <br><small>NOUN</small> *swimming life-form* = *fish* |
 
 #### THING
 *([nimi suli poka](#noun-adjective) ijo)*
 
-| ᴛʜɪɴɢ sike |
+| <small>THING</small> sike |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *round* <br>ɴᴏᴜɴ *round thing* = *circle*, *ball* |
+| <small>ADJECTIVE</small> *round* <br><small>NOUN</small> *round thing* = *circle*, *ball* |
 
 #### CORRELATIVE
 *([nimi suli poka](#noun-adjective) sama)*
 
-| ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ ale |
+| <small>CORRELATIVE</small> ale |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *every* <br>ɴᴏᴜɴ *every thing* = *everything* |
+| <small>ADJECTIVE</small> *every* <br><small>NOUN</small> *every thing* = *everything* |
 
-You can convert any ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *of ...* using **pi ijo**.
+You can convert any <small>CORRELATIVE</small> into an <small>ADJECTIVE</small> meaning *of ...* using **pi ijo**.
 
-| ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ mama pi ijo ale |
+| <small>NOUN PHRASE</small> mama pi ijo ale |
 |:-|
-| ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ *parent of everything* |
+| <small>NOUN PHRASE</small> *parent of everything* |
 
 Sentences described by the correlative **ni** act like subordinate clauses.
 
-| ꜱᴇɴᴛᴇɴᴄᴇ mi sona e ni: mi anpa. |
+| <small>SENTENCE</small> mi sona e ni: mi anpa. |
 |:-|
-| ᴍᴀɪɴ ᴄʟᴀᴜꜱᴇ + ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ *I know that I'm powerless.* |
+| <small>MAIN CLAUSE</small> + <small>SUBORDINATE CLAUSE</small> *I know that I'm powerless.* |
 
-You can convert any ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ into an ᴀᴅᴊᴇᴄᴛɪᴠᴇ meaning *doing ...*.
+You can convert any <small>CORRELATIVE</small> into an <small>ADJECTIVE</small> meaning *doing ...*.
 
-| ꜱᴇɴᴛᴇɴᴄᴇ ona li seme? |
+| <small>SENTENCE</small> ona li seme? |
 |:-|
-| ꜱᴇɴᴛᴇɴᴄᴇ *What is she doing?* |
+| <small>SENTENCE</small> *What is she doing?* |
 
 #### NUMBER
 *([nimi suli poka](#noun-adjective) nanpa)*
 
-| ɴᴜᴍʙᴇʀ tu |
+| <small>NUMBER</small> tu |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *two* <br>ɴᴏᴜɴ *two things* = *pair* |
+| <small>ADJECTIVE</small> *two* <br><small>NOUN</small> *two things* = *pair* |
 
 #### AREA
 *([nimi suli poka](#noun-adjective) pi ijo ale)*
 
-| ᴀʀᴇᴀ insa |
+| <small>AREA</small> insa |
 |:-|
-| ᴀᴅᴊᴇᴄᴛɪᴠᴇ *inner* <br>ɴᴏᴜɴ *inner area* = *innards* |
+| <small>ADJECTIVE</small> *inner* <br><small>NOUN</small> *inner area* = *innards* |
 
 ## PARTICLE
 *([nimi](#parts-of-speech-and-word-classes) lili)*
 
 | |
 |:-|
-| [ᴍᴀʀᴋᴇʀ](#marker): [ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ](#mood), [ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ](#case) |
-| [ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ](#conjunction): [ᴀɴᴅ](#and), [ᴏʀ](#or), [ɪꜰ-ᴛʜᴇɴ](#if-then) |
-| [ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ](#onomatopeia): [ɴᴀᴍᴇ](#name), [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) |
+| [<small>MARKER</small>](#marker): [<small>MOOD MARKER</small>](#mood), [<small>CASE MARKER</small>](#case) |
+| [<small>CONJUNCTION</small>](#conjunction): [<small>AND</small>](#and), [<small>OR</small>](#or), [<small>IF-THEN</small>](#if-then) |
+| [<small>ONOMATOPEIA</small>](#onomatopeia): [<small>NAME</small>](#name), [<small>INTERJECTION</small>](#interjection) |
 
-ᴘᴀʀᴛɪᴄʟᴇs can only be used as ᴘᴀʀᴛɪᴄʟᴇs. (Only [ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀ](#onomatopeia)s can be both ᴘᴀʀᴛɪᴄʟᴇs and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s.)
+<small>PARTICLE</small>s can only be used as <small>PARTICLE</small>s. (Only [<small>ONOMATOPEIA</small>](#onomatopeia)s can be both <small>PARTICLE</small>s and [<small>CONTENT WORD</small>](#content-word)s.)
 
 ### MARKER
 *([nimi lili](#particle) lawa)*
 
 | |
 |:-|
-| [ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ](#mood): [ɪɴᴅɪᴄᴀᴛɪᴠᴇ ᴍᴏᴏᴅ](#indicative), [ᴅᴇᴏɴᴛɪᴄ ᴍᴏᴏᴅ](#deontic) |
-| [ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ](#case): [ɢᴇɴɪᴛɪᴠᴇ ᴄᴀꜱᴇ](#genitive), [ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ ᴄᴀꜱᴇ](#accusative) |
+| [<small>MOOD MARKER</small>](#mood): [<small>INDICATIVE MOOD</small>](#indicative), [<small>DEONTIC MOOD</small>](#deontic) |
+| [<small>CASE MARKER</small>](#case): [<small>GENITIVE CASE</small>](#genitive), [<small>ACCUSATIVE CASE</small>](#accusative) |
 
 #### MOOD MARKER
 
 | |
 |:-|
-| [ɪɴᴅɪᴄᴀᴛɪᴠᴇ ᴍᴏᴏᴅ](#indicative): **li** |
-| [ᴅᴇᴏɴᴛɪᴄ ᴍᴏᴏᴅ](#deontic): **o** |
+| [<small>INDICATIVE MOOD</small>](#indicative): **li** |
+| [<small>DEONTIC MOOD</small>](#deontic): **o** |
  
 ##### INDICATIVE
 *([nimi lili lawa](#marker) "li")*
 
-The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **li** marks the ᴘʀᴇᴅɪᴄᴀᴛᴇ of a ꜱᴇɴᴛᴇɴᴄᴇ as ɪɴᴅɪᴄᴀᴛɪᴠᴇ.
+The <small>MOOD MARKER</small> **li** marks the <small>PREDICATE</small> of a <small>SENTENCE</small> as <small>INDICATIVE</small>.
 
 | ona li mama. | ona li mama ala. |
 |:-|:-|
 | *She is a parent.* | *She is not a parent.* |
 
-When there is enough context, a ꜱᴇɴᴛᴇɴᴄᴇ can be reduced to its ᴍᴀɪɴ ᴠᴇʀʙ or even to the [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) that modifies it.
+When there is enough context, a <small>SENTENCE</small> can be reduced to its <small>MAIN VERB</small> or even to the [<small>INTERJECTION</small>](#interjection) that modifies it.
 
 | ona li mama anu seme? | ona li mama. → mama. | ona li mama ala. → mama ala. → ala. |
 |:-|:-|:-|
 | *Is she a parent?* | *Yes.* | *No.* |
 
-If the ꜱᴜʙᴊᴇᴄᴛ is just **mi** or **sina**, the ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **li** is omitted.
+If the <small>SUBJECT</small> is just **mi** or **sina**, the <small>MOOD MARKER</small> **li** is omitted.
 
 | mi mije. | sina sin. |
 |:-|:-|
@@ -468,33 +468,33 @@ If the ꜱᴜʙᴊᴇᴄᴛ is just **mi** or **sina**, the ᴍᴏᴏᴅ ᴍᴀ�
 ##### DEONTIC
 *([nimi lili lawa](#marker) "o")*
 
-The ᴍᴏᴏᴅ ᴍᴀʀᴋᴇʀ **o** marks a ꜱᴇɴᴛᴇɴᴄᴇ as ᴅᴇᴏɴᴛɪᴄ (i.e. ᴠᴏʟɪᴛɪᴠᴇ, ᴠᴏᴄᴀᴛɪᴠᴇ or ɪᴍᴘᴇʀᴀᴛɪᴠᴇ).
+The <small>MOOD MARKER</small> **o** marks a <small>SENTENCE</small> as <small>DEONTIC</small> (i.e. <small>VOLITIVE</small>, <small>VOCATIVE</small> or <small>IMPERATIVE</small>).
 
-| ᴠᴏʟɪᴛɪᴠᴇ mi o moku e ijo pona. |
+| <small>VOLITIVE</small> mi o moku e ijo pona. |
 |:-|
 | *I should eat good things.* |
 
-**sina** is omitted in an ɪᴍᴘᴇʀᴀᴛɪᴠᴇ ꜱᴇɴᴛᴇɴᴄᴇ.
+**sina** is omitted in an <small>IMPERATIVE SENTENCE</small>.
 
-| ᴠᴏʟɪᴛɪᴠᴇ sina o moku. → ɪᴍᴘᴇʀᴀᴛɪᴠᴇ o moku! |
+| <small>VOLITIVE</small> sina o moku. → <small>IMPERATIVE</small> o moku! |
 |:-|
 | *You should eat.* → *Eat!* |
 
-ᴠᴏᴄᴀᴛɪᴠᴇ ꜱᴇɴᴛᴇɴᴄᴇs don't have a ᴘʀᴇᴅɪᴄᴀᴛᴇ.
+<small>VOCATIVE SENTENCE</small>s don't have a <small>PREDICATE</small>.
 
-| ᴠᴏᴄᴀᴛɪᴠᴇ jan Ali o! |
+| <small>VOCATIVE</small> jan Ali o! |
 |:-|
 | *Hey Ali!* |
 
-A combination of ᴠᴏᴄᴀᴛɪᴠᴇ and ɪᴍᴘᴇʀᴀᴛɪᴠᴇ is always replaced by a ᴠᴏʟɪᴛɪᴠᴇ.
+A combination of <small>VOCATIVE</small> and <small>IMPERATIVE</small> is always replaced by a <small>VOLITIVE</small>.
 
-| ᴠᴏᴄᴀᴛɪᴠᴇ + ɪᴍᴘᴇʀᴀᴛɪᴠᴇ jan Ali o, o wawa! → ᴠᴏʟɪᴛɪᴠᴇ jan Ali o wawa! |
+| <small>VOCATIVE</small> + <small>IMPERATIVE</small> jan Ali o, o wawa! → <small>VOLITIVE</small> jan Ali o wawa! |
 |:-|
 | *Hey Ali, be strong!* |
 
-A ᴠᴏʟɪᴛɪᴠᴇ can be reduced to the ᴏʙᴊᴇᴄᴛ of the ꜱᴇɴᴛᴇɴᴄᴇ, expressing a *wish*.
+A <small>VOLITIVE</small> can be reduced to the <small>OBJECT</small> of the <small>SENTENCE</small>, expressing a *wish*.
 
-| ᴠᴏʟɪᴛɪᴠᴇ sina o jo e moku pona. → moku pona! |
+| <small>VOLITIVE</small> sina o jo e moku pona. → moku pona! |
 |:-|
 | *May you have a good meal.* → *Bon appétit!* |
 
@@ -502,19 +502,19 @@ A ᴠᴏʟɪᴛɪᴠᴇ can be reduced to the ᴏʙᴊᴇᴄᴛ of the ꜱᴇɴ�
 
 | |
 |:-|
-| [ɢᴇɴɪᴛɪᴠᴇ ᴄᴀꜱᴇ](#genitive): **pi** |
-| [ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ ᴄᴀꜱᴇ](#accusative): **e** |
+| [<small>GENITIVE CASE</small>](#genitive): **pi** |
+| [<small>ACCUSATIVE CASE</small>](#accusative): **e** |
 
 ##### GENITIVE
 *([nimi lili lawa](#marker) "pi")*
 
-The ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ **pi** marks a ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ that can be translated as a ɢᴇɴɪᴛɪᴠᴇ or as an ᴀᴅᴊᴇᴄᴛɪᴠᴇ. A ꜱᴇɴᴛᴇɴᴄᴇ shouldn't have more than one ɢᴇɴɪᴛɪᴠᴇ ᴘʜʀᴀꜱᴇ.
+The <small>CASE MARKER</small> **pi** marks a <small>NOUN PHRASE</small> that can be translated as a <small>GENITIVE</small> or as an <small>ADJECTIVE</small>. A <small>SENTENCE</small> shouldn't have more than one <small>GENITIVE PHRASE</small>.
 
 | jan pi pona mute |
 |:-|
 | *a person of much good* → *a very good person* |
 
-When the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ consists of only one [ɴᴏᴜɴ](#noun), the ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ **pi** is omitted.
+When the <small>NOUN PHRASE</small> consists of only one [<small>NOUN</small>](#noun), the <small>CASE MARKER</small> **pi** is omitted.
 
 | toki pona |
 |:-|
@@ -523,9 +523,9 @@ When the ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ consists of only one [ɴᴏᴜɴ](#noun), t
 ##### ACCUSATIVE
 *([nimi lili lawa](#marker) "e")*
 
-The ᴄᴀꜱᴇ ᴍᴀʀᴋᴇʀ **e** marks a ɴᴏᴜɴ ᴘʜʀᴀꜱᴇ as an ᴀᴄᴄᴜꜱᴀᴛɪᴠᴇ, i.e. the ᴍᴀɪɴ ᴠᴇʀʙ's ᴏʙᴊᴇᴄᴛ.
+The <small>CASE MARKER</small> **e** marks a <small>NOUN PHRASE</small> as an <small>ACCUSATIVE</small>, i.e. the <small>MAIN VERB</small>'s <small>OBJECT</small>.
 
-When there is enough context, the ᴏʙᴊᴇᴄᴛ of a [ᴠᴇʀʙ](#verb) can be omitted.
+When there is enough context, the <small>OBJECT</small> of a [<small>VERB</small>](#verb) can be omitted.
 
 | mije li sona e ijo/ni/ona. → mije li sona. |
 |:-|
@@ -536,20 +536,20 @@ When there is enough context, the ᴏʙᴊᴇᴄᴛ of a [ᴠᴇʀʙ](#verb) can
 
 | |
 |:-|
-| [ᴀɴᴅ](#and) |
-| [ᴏʀ](#or) |
-| [ɪꜰ-ᴛʜᴇɴ](#if-then) |
+| [<small>AND</small>](#and) |
+| [<small>OR</small>](#or) |
+| [<small>IF-THEN</small>](#if-then) |
 
 #### AND
 *([nimi lili insa](#conjunction) "en")*
 
-The ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** means *and*. It combines two ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs into one.
+The <small>CONJUNCTION</small> **en** means *and*. It combines two <small>NOUN PHRASE</small>s into one.
 
-| ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ en | utala en pona |
+| <small>CONJUNCTION</small> en | utala en pona |
 |:-|:-|
-| ᴘᴀʀᴛɪᴄʟᴇ *and* | *War and Peace* |
+| <small>PARTICLE</small> *and* | *War and Peace* |
 
-In ꜱᴇɴᴛᴇɴᴄᴇs, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used only between ꜱᴜʙᴊᴇᴄᴛs.
+In <small>SENTENCE</small>s, the <small>CONJUNCTION</small> **en** can be used only between <small>SUBJECT</small>s.
 
 | taso mije en meli li pali li pilin pona. |
 |:-|
@@ -558,13 +558,13 @@ In ꜱᴇɴᴛᴇɴᴄᴇs, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **en** can be used
 #### OR
 *([nimi lili insa](#conjunction) "anu")*
 
-The ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **anu** means *or*. It combines two ɴᴏᴜɴ ᴘʜʀᴀꜱᴇs into one.
+The <small>CONJUNCTION</small> **anu** means *or*. It combines two <small>NOUN PHRASE</small>s into one.
 
-| ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ anu | pona anu ike |
+| <small>CONJUNCTION</small> anu | pona anu ike |
 |:-|:-|
-| ᴘᴀʀᴛɪᴄʟᴇ *or* | *friendly or hostile* |
+| <small>PARTICLE</small> *or* | *friendly or hostile* |
 
-In yes-no-questions, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **anu** is omitted between a negative and a positive ᴍᴀɪɴ ᴠᴇʀʙ.
+In yes-no-questions, the <small>CONJUNCTION</small> **anu** is omitted between a negative and a positive <small>MAIN VERB</small>.
 
 | ona li mama anu seme? → ona li mama ala ~~anu~~ mama? |
 |:-|
@@ -573,19 +573,19 @@ In yes-no-questions, the ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **anu** is omitted betwee
 #### IF-THEN
 *([nimi lili insa](#conjunction) "la")*
 
-The ᴄᴏɴᴊᴜɴᴄᴛɪᴏɴ **la** can be put between the ᴄᴏɴᴛᴇxᴛ ᴘʜʀᴀꜱᴇ, i.e. a [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴᴀʟ ᴘʜʀᴀꜱᴇ](#preposition), and the ᴍᴀɪɴ ꜱᴇɴᴛᴇɴᴄᴇ.
+The <small>CONJUNCTION</small> **la** can be put between the <small>CONTEXT PHRASE</small>, i.e. a [<small>PREPOSITIONAL PHRASE</small>](#preposition), and the <small>MAIN SENTENCE</small>.
 
 | sina pana e nimi pona tawa mi tan seme? → tan seme la sina pana e nimi pona tawa mi? |
 |:-|
 | *Why are you calling me good?* |
 
-Before **la**, the [ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴ](#preposition) **lon** is omitted.
+Before **la**, the [<small>PREPOSITION</small>](#preposition) **lon** is omitted.
 
 | ona li kama lon tenpo pimeja ni. → ~~lon~~ tenpo pimeja ni la ona li kama. |
 |:-|
 | *She is coming tonight.* → *Tonight, she is coming.* |
 
-Before **la**, the [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) **ni:** in front of a ꜱᴜʙᴏʀᴅɪɴᴀᴛᴇ ᴄʟᴀᴜꜱᴇ is omitted together with **lon**. In this case, **la** can be translated as *if ... then*.
+Before **la**, the [<small>CORRELATIVE</small>](#correlative) **ni:** in front of a <small>SUBORDINATE CLAUSE</small> is omitted together with **lon**. In this case, **la** can be translated as *if ... then*.
 
 | jan li pona tawa mi lon ni: mi pona tawa jan. → ~~lon ni:~~ mi pona tawa jan, la jan li pona tawa mi. |
 |:-|
@@ -596,10 +596,10 @@ Before **la**, the [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) **ni:** in fron
 
 | |
 |:-|
-| [ɴᴀᴍᴇ](#name) |
-| [ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ](#interjection) |
+| [<small>NAME</small>](#name) |
+| [<small>INTERJECTION</small>](#interjection) |
 
-ᴏɴᴏᴍᴀᴛᴏᴘᴇɪᴀs are ɴᴀᴍᴇs and ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs. They can be both ᴘᴀʀᴛɪᴄʟᴇs and [ᴄᴏɴᴛᴇɴᴛ ᴡᴏʀᴅ](#content-word)s when used without **kalama**.
+<small>ONOMATOPEIA</small>s are <small>NAME</small>s and <small>INTERJECTION</small>s. They can be both <small>PARTICLE</small>s and [<small>CONTENT WORD</small>](#content-word)s when used without **kalama**.
 
 | nimi ona li kalama "Sonja". → nimi ona li Sonja. | ona li kute e kalama "mu" wawa. → ona li kute e mu wawa. |
 |:-|:-|
@@ -607,7 +607,7 @@ Before **la**, the [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) **ni:** in fron
 
 #### NAME
 
-[ɴᴜᴍʙᴇʀ](#number)s can be used as ɴᴀᴍᴇs after **nanpa**. (Plus, the [ɴᴏᴜɴ ᴀᴅᴊᴇᴄᴛɪᴠᴇ](#noun-adjective) **nanpa** itself can be used as a ɴᴀᴍᴇ.)
+[<small>NUMBER</small>](#number)s can be used as <small>NAME</small>s after **nanpa**. (Plus, the [<small>NOUN ADJECTIVE</small>](#noun-adjective) **nanpa** itself can be used as a <small>NAME</small>.)
 
 | sina nanpa wan. | toki nanpa wan |
 |:-|:-|
@@ -615,8 +615,8 @@ Before **la**, the [ᴄᴏʀʀᴇʟᴀᴛɪᴠᴇ](#correlative) **ni:** in fron
 
 #### INTERJECTION
 
-ᴘʀᴇᴘᴏꜱɪᴛɪᴏɴs and ᴘʀᴇ-ᴠᴇʀʙs can be modified by ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴs.
+<small>PREPOSITION</small>s and <small>PRE-VERB</small>s can be modified by <small>INTERJECTION</small>s.
 
-| ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ a! | o kepeken ala ilo ike. | mi sona ala toki. |
+| <small>INTERJECTION</small> a! | o kepeken ala ilo ike. | mi sona ala toki. |
 |:-|:-|:-|
-| ɪɴᴛᴇʀᴊᴇᴄᴛɪᴏɴ *Wow!* | *Don't use bad tools.* | *I don't know how to talk.* |
+| <small>INTERJECTION</small> *Wow!* | *Don't use bad tools.* | *I don't know how to talk.* |
