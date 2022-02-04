@@ -31,13 +31,12 @@ sama lili la toki Sinan la <small>NIMI SULI</small> li "moku" e <small>NIMI LILI
 | <small>NIMI SULI</small> | <small>LINJA PI NIMI SULI</small> |
 |                          | = <small>NIMI SULI</small> |
 
-<small>LINJA</small> pi toki Sinan la open la <small>ANPA</small> li lon; pini la <small>LAWA</small> li lon. (ante la <small>LINJA</small> pi toki pona la open la <small>LAWA</small> li lon; pini la <small>ANPA</small> li lon.)
+<small>ANPA</small> li lon open. <small>LAWA</small> li lon pini.
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
 | `jagh` | `Suv` | `Sulu` | | **jan Sulu** | **li utala** | **e jan ike** |
 | <small>ANPA</small> | <small>PALI</small> | <small>SEWI</small> | | <small>SEWI</small> | <small>PALI</small> | <small>ANPA</small> |
-
 
 <!-- nimi jan - ghot -pong -->
 <!-- tomo suli - qach =tIn -->
