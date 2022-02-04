@@ -3,17 +3,17 @@
 sama toki pona la toki Sinan li jo e <small>NIMI SULI</small> e <small>NIMI LILI</small>.
 toki pona la <small>NIMI SULI</small> li "moku" e <small>NIMI LILI</small> li kama <small>LINJA PI NIMI SULI</small>.
 <small>LINJA PI NIMI SULI</small> ni li sama <small>NIMI SULI</small> wan lon <small>LINJA NIMI</small>.
-sama lili la toki Sinan la <small>NIMI SULI</small> li "moku" e <small>NIMI LILI</small> li kama <small>NIMI SULI</small> sin.
+sama lili la toki Sinan la <small>NIMI SULI</small> li "moku" e <small>NIMI LILI</small> li kama <small>NIMI SULI</small> sin. <small>{**ú** = `u'`, **i** = `I`}</small>
 
 | | |
 |-|-|
-| `-qu'`                   | **a**                             |
+| **-qú**                  | **a**                             |
 | <small>NIMI LILI</small> | <small>NIMI LILI</small>          |
 | | |
-| `tIn`                    | **suli**                          |
+| **tin**                  | **suli**                          |
 | <small>NIMI SULI</small> | <small>NIMI SULI</small>          |
 | | |
-| `tInqu'`                 | **suli a**                        |
+| **tinqú**                | **suli a**                        |
 | <small>NIMI SULI</small> | <small>LINJA PI NIMI SULI</small> |
 |                          | = <small>NIMI SULI</small>        |
 
@@ -31,15 +31,16 @@ sama lili la toki Sinan la <small>NIMI SULI</small> li "moku" e <small>NIMI LILI
 | <small>NIMI SULI</small> | <small>LINJA PI NIMI SULI</small> |
 |                          | = <small>NIMI SULI</small> |
 
-open pi <small>LINJA NIMI</small> la <small>NIMI PI ANPA PALI</small> li lon. (ante la toki pona la <small>NIMI PI LAWA PALI</small> a li lon open pi <small>LINJA NIMI</small>.) pini pi <small>LINJA NIMI</small> la <small>NIMI PI LAWA PALI</small> li lon.
+<small>LINJA</small> pi toki Sinan la open la <small>ANPA</small> li lon; pini la <small>LAWA</small> li lon. (ante la <small>LINJA</small> pi toki pona la open la <small>LAWA</small> li lon; pini la <small>ANPA</small> li lon.)
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
 | `jagh` | `Suv` | `Sulu` | | **jan Sulu** | **li utala** | **e jan ike** |
-| <small>ANPA PALI</small> | <small>INSA PALI</small> | <small>SEWI PALI</small> | | <small>SEWI PALI</small> | <small>INSA PALI</small> | <small>ANPA PALI</small> |
+| <small>ANPA</small> | <small>PALI</small> | <small>SEWI</small> | | <small>SEWI</small> | <small>PALI</small> | <small>ANPA</small> |
 
-<!-- nimi jan - ghot-pong -->
-<!-- tomo suli - qach=tIn -->
+
+<!-- nimi jan - ghot -pong -->
+<!-- tomo suli - qach =tIn -->
 
 | | |
 |-|-|
@@ -51,7 +52,7 @@ open pi <small>LINJA NIMI</small> la <small>NIMI PI ANPA PALI</small> li lon. (a
 | <small>LINJA NIMI **NOKA** PI LINJA NIMI</small> | modifier |
 | | |
 | <small>LINJA NIMI PI **SEWI** PALI</small> | subject   |
-| <small>LINJA NIMI PI **INSA** PALI</small> | predicate |
+| <small>LINJA NIMI PI INSA **PALI**</small> | predicate |
 | <small>LINJA NIMI PI **ANPA** PALI</small> | object    |
 | <small>LINJA NIMI PI **POKA** PALI</small> | context   |
 | | |
