@@ -3,7 +3,7 @@
 sama toki pona la toki Sinan li jo e <small>NIMI SULI</small> e <small>NIMI LILI</small>.
 toki pona la <small>NIMI SULI</small> li "moku" e <small>NIMI LILI</small> li kama <small>LINJA PI NIMI SULI</small>.
 <small>LINJA PI NIMI SULI</small> ni li sama <small>NIMI SULI</small> wan lon <small>LINJA NIMI</small>.
-sama lili la toki Sinan la <small>NIMI SULI</small> li "moku" e <small>NIMI LILI</small> li kama <small>NIMI SULI</small> sin. <small>{**ú** = `u'`, **i** = `I`}</small>
+sama lili la toki Sinan la <small>NIMI SULI</small> li "moku" e <small>NIMI LILI</small> li kama <small>NIMI SULI</small> sin. <small>{`u'` = **ú**, `I` = **i**}</small>
 
 | | |
 |-|-|
@@ -17,17 +17,17 @@ sama lili la toki Sinan la <small>NIMI SULI</small> li "moku" e <small>NIMI LILI
 | <small>NIMI SULI</small> | <small>LINJA PI NIMI SULI</small> |
 |                          | = <small>NIMI SULI</small>        |
 
-<small>NIMI LILI</small> mute pi toki Sinan li sama <small>NIMI SULI</small> pi toki pona.
+<small>NIMI LILI</small> mute pi toki Sinan li sama <small>NIMI SULI</small> pi toki pona. <small>{`I'` = **í**; `S` = **s**}</small>
 
 | | |
 |-|-|
-| `-wI'`                   | **jan**                           |
+| **wí**                   | **jan**                           |
 | <small>NIMI LILI</small> | <small>NIMI SULI</small>          |
 | | |
-| `Suv`                    | **utala**                         |
+| **suv**                  | **utala**                         |
 | <small>NIMI SULI</small> | <small>NIMI SULI</small>          |
 | | |
-| `SuvwI'`                 | **jan utala**                     |
+| **suvwí**                | **jan utala**                     |
 | <small>NIMI SULI</small> | <small>LINJA PI NIMI SULI</small> |
 |                          | = <small>NIMI SULI</small> |
 
