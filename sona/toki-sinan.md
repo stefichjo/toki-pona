@@ -31,13 +31,6 @@ sama lili la toki Sinan la <small>NIMI SULI</small> li "moku" e <small>NIMI LILI
 | <small>NIMI SULI</small> | <small>LINJA PI NIMI SULI</small> |
 |                          | = <small>NIMI SULI</small> |
 
-<small>ANPA</small> li lon open. <small>LAWA</small> li lon pini. — <small>**ǧ** [`gh`]</small>
-
-| | | | | | | |
-|-|-|-|-|-|-|-|
-| **jaǧ** | **suv** | **sulu** | | **jan Sulu** | **li utala** | **e jan ike** |
-| <small>ANPA</small> | <small>PALI</small> | <small>SEWI</small> | | <small>SEWI</small> | <small>PALI</small> | <small>ANPA</small> |
-
 <small>NIMI LAWA</small> li kama <small>NOKA</small>, la ona li tawa open <small>LINJA</small>. — <small>**ng** [`ng`]</small>
 
 | | | | | |
@@ -51,6 +44,13 @@ sama lili la toki Sinan la <small>NIMI SULI</small> li "moku" e <small>NIMI LILI
 |-|-|-|-|-|
 | **qač** | **tin** | | **tomo** | **suli** |
 | <small>LAWA</small> | <small>NOKA</small> | | <small>LAWA</small> | <small>NOKA</small> |
+
+<small>ANPA</small> li lon open. <small>LAWA</small> li lon pini. — <small>**ǧ** [`gh`]</small>
+
+| | | | | | | |
+|-|-|-|-|-|-|-|
+| **jaǧ** | **suv** | **sulu** | | **jan Sulu** | **li utala** | **e jan ike** |
+| <small>ANPA</small> | <small>PALI</small> | <small>SEWI</small> | | <small>SEWI</small> | <small>PALI</small> | <small>ANPA</small> |
 
 ---
 
