@@ -38,18 +38,18 @@ sama lili la toki Sinan la <small>NIMI SULI</small> li "moku" e <small>NIMI LILI
 | **jaǧ** | **suv** | **sulu** | | **jan Sulu** | **li utala** | **e jan ike** |
 | <small>ANPA</small> | <small>PALI</small> | <small>SEWI</small> | | <small>SEWI</small> | <small>PALI</small> | <small>ANPA</small> |
 
-<small>NIMI LAWA</small> li kama <small>NOKA</small>, la ona li tawa open <small>LINJA</small>. — **ng** [`ng`]
+<small>NIMI LAWA</small> li kama <small>NOKA</small>, la ona li tawa open <small>LINJA</small>. — <small>**ng** [`ng`]</small>
 
 | | | | | |
 |-|-|-|-|-|
 | **ǧot** | **pong** | | **nimi** | **jan** |
 | <small>NOKA</small> | <small>LAWA</small> | | <small>LAWA</small> | <small>NOKA</small> |
 
-<small>NIMI NOKA</small> li kama <small>NOKA</small>, la ona li tawa pini <small>LINJA</small>. — **č** [`ch`], **i** [`I`]
+<small>NIMI NOKA</small> li kama <small>NOKA</small>, la ona li tawa pini <small>LINJA</small>. — <small>**č** [`ch`], **i** [`I`]</small>
 
 | | | | | |
 |-|-|-|-|-|
-| **qach** | **tin** | | **tomo** | **suli** |
+| **qač** | **tin** | | **tomo** | **suli** |
 | <small>LAWA</small> | <small>NOKA</small> | | <small>LAWA</small> | <small>NOKA</small> |
 
 ---
