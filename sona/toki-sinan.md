@@ -38,13 +38,26 @@ sama lili la toki Sinan la <small>NIMI SULI</small> li "moku" e <small>NIMI LILI
 | **jaǧ** | **suv** | **sulu** | | **jan Sulu** | **li utala** | **e jan ike** |
 | <small>ANPA</small> | <small>PALI</small> | <small>SEWI</small> | | <small>SEWI</small> | <small>PALI</small> | <small>ANPA</small> |
 
-<!-- nimi jan - ghot -pong -->
-<!-- tomo suli - qach =tIn -->
+<small>NIMI LAWA</small> li kama <small>NOKA</small>, la ona li tawa open <small>LINJA</small>. — **ng** [`ng`]
+
+| | | | | |
+|-|-|-|-|-|
+| **ǧot** | **pong** | | **nimi** | **jan** |
+| <small>NOKA</small> | <small>LAWA</small> | | <small>LAWA</small> | <small>NOKA</small> |
+
+<small>NIMI NOKA</small> li kama <small>NOKA</small>, la ona li tawa pini <small>LINJA</small>. — **č** [`ch`], **i** [`I`]
+
+| | | | | |
+|-|-|-|-|-|
+| **qach** | **tin** | | **tomo** | **suli** |
+| <small>LAWA</small> | <small>NOKA</small> | | <small>LAWA</small> | <small>NOKA</small> |
+
+---
 
 | | |
 |-|-|
 | <small>**NIMI** SULI</small> | content word |
-| <small>**NIMI** LILI</small>             | particle |
+| <small>**NIMI** LILI</small> | particle     |
 
 | | |
 |-|-|
@@ -53,7 +66,7 @@ sama lili la toki Sinan la <small>NIMI SULI</small> li "moku" e <small>NIMI LILI
 | <small>**LAWA** LINJA</small> | head     |
 | <small>**NOKA** LINJA</small> | modifier |
 | | |
-| <small>**NIMI** **LAWA**</small> | noun     |
+| <small>**NIMI** **LAWA**</small> | noun      |
 | <small>**NIMI** **NOKA**</small> | adjective |
 
 | | |
@@ -69,18 +82,20 @@ sama lili la toki Sinan la <small>NIMI SULI</small> li "moku" e <small>NIMI LILI
 | <small>**POKA** PALI</small> | context   |
 | | |
 | <small>**LUKA** **POKA** SULI</small> | preposition |
-| <small>**LUKA** **POKA** LILI</small> | *la*     |
+| <small>**LUKA** **POKA** LILI</small> | *la*        |
 
---------------
+---
 
 | | |
 |-|-|
-| <small>**LUKA**</small>          | *pi*     |
-| <small>**LUKA** **PALI**</small> | *li, o*  |
-| <small>**LUKA** **ANPA**</small> | *e*      |
+| <small>**LUKA**</small>          | *pi*    |
+| <small>**LUKA** **PALI**</small> | *li, o* |
+| <small>**LUKA** **ANPA**</small> | *e*     |
 | | |
 | <small>**LINJA** **LILI**</small> | phrase   |
 | <small>**LINJA** **SULI**</small> | sentence |
 | <small>**LINJA** **PALI**</small> | clause   |
+
+---
 
 anu, en, a, mu
