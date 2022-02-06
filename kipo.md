@@ -69,7 +69,7 @@ When <small>KIPO</small> turns a <small>PREPOSITION</small>s into a <small>NOUN<
 
 ## Content Words
 
-When <small>KIPO</small> converts a <small>MODIFIER</small> into a <small>NOUN</small>, seemingly arbitrarily complex ideas may be implied.
+When <small>KIPO</small> converts an <small>ADJECTIVE</small> into a <small>NOUN</small>, seemingly arbitrarily complex ideas may be implied.
 
 | | <small>KIPO</small> | <small>SONJA</small>/<small>TEPAN</small> |
 |:-|:-|:-|

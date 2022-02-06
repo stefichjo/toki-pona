@@ -40,7 +40,7 @@ Since <small>ADJECTIVE</small>s and <small>ADVERB</small>s are indistinguishable
 
 | | <small>SONJA</small> | <small>TEPAN</small> |
 |:-|:-|:-|
-| [**mute**](#lesson-6) | <small>ADJECTIVE</small> | <small>MODIFIER</small>: <small>ADJECTIVE</small>, <small>ADVERB</small> |
+| [**mute**](#lesson-6) | <small>ADJECTIVE</small> | <small>ADJECTIVE</small>, <small>ADVERB</small> |
 
 Therefore, <small>TRANSITIVE VERB</small>s can be simply called <small>VERB</small>s. In the context of <small>SENTENCE</small>s though, "<small>VERB</small>" also means either <small>MAIN VERB</small> or <small>PREDICATE</small>.
 
