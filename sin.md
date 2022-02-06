@@ -77,7 +77,7 @@ Animals are expressed by means of **tijelo**.
 #### Toki Bona
 *([Toki Pona Sequel](#sequels) with Voiced Consonants)*
 
-The consonant starting off a <small>ADJECTIVE</small> is voiced.
+The consonant starting off an <small>ADJECTIVE</small> is voiced.
 
 | | ***Toki Pona*** | ***Toki Bona*** |
 |:-|:-|:-|
@@ -527,7 +527,7 @@ Any <small>VERB</small> can be used as a <small>PRE-VERB</small>.
 |:-|
 | *I feel like sleeping.* |
 
-An **e**-<small>PHRASE</small> can be turned into a **pi**-<small>PHRASE</small> (or a <small>ADJECTIVE</small>).
+An **e**-<small>PHRASE</small> can be turned into a **pi**-<small>PHRASE</small> (or an <small>ADJECTIVE</small>).
 
 | mi ante e toki pi sitelen-tawa. → mi ante-*toki* *e* sitelen-tawa. |
 |:-|

@@ -185,7 +185,7 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | [<small>NOUN ADJECTIVE</small>](#noun-adjective) |
 
 ### ADJECTIVE
-[↑](#content-word) <small>NOKA LINJA</small>
+[↑](#content-word) <small>NIMI NOKA</small>
 
 | |
 |:-|
@@ -254,7 +254,7 @@ When <small>MAIN CLAUSE</small> and <small>SUBORDINATE CLAUSE</small> share the 
 | <small>PRE-VERB</small> *to know how to* <br><small>VERB</small> *to know* | *I know how to talk.* |
 
 ### NOUN
-*([nimi suli](#content-word) lawa)*
+[↑](#content-word) <small>NIMI LAWA</small>
 
 | |
 |:-|
