@@ -431,14 +431,14 @@ In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *
 
 | <small>SITELEN</small> | <small>KON</small> |
 |:-|:-|
-| <img src="musi/pona/sin.png" height="50" title="ŝin"> | [**<small>MODIFIER</small>**](#nasin-nimi.md#modifier) *jaki* — **sin**, *suwi* <br><small>ADJECTIVE</small> **new**, **fresh** |
+| <img src="musi/pona/sin.png" height="50" title="ŝin"> | [**<small>ADJECTIVE</small>**](#nasin-nimi.md#adjective) *jaki* — **sin**, *suwi* <br><small>ADJECTIVE</small> **new**, **fresh** |
 | <img src="musi/pona/namako.png" height="50" title="namak"> | [**<small>PREPOSITION</small>**](#nasin-nimi.md#preposition) **namako** — *taso* <br><small>PREPOSITION</small> [*in addition to*, *with*](sin.md#preposition) <br><small>ADJECTIVE</small> **additional**, **another**, **extra** |
 | | |
 | <img src="musi/pona/lukin.png" height="50" title="luk-im"> | [**<small>VERB</small>**](#verb) **lukin** <br><small>VERB</small> **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](pu.md#preface), **watch** |
 | <img src="musi/pona/oko.png" height="50" title="oko"> | [**<small>NOUN</small>**](#noun) **oko** <br><small>NOUN</small> **eye** |
 
 ## Toki Nasa
-*([Toki Pona Spin-Off](#spin-offs) with un-pona predicates and modifiers)*
+*([Toki Pona Spin-Off](#spin-offs))*
 
 <small>PREPOSITIONAL PHRASE</small>s can be used as <small>VERB</small>s. (Cf. [<small>KIPO</small>](kipo.md#e).)
 
@@ -446,6 +446,7 @@ In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *
 |:-|
 | *Where did you put the clock next to?* |
 
+<!-- TODO -->
 ***TODO*** pre-verbs can be used after pi: jan pi kama-sona = jan pi kama÷sona
 
 <small>PRE-VERB</small>s can go between another <small>PRE-VERB</small> and its <small>MAIN VERB</small>.

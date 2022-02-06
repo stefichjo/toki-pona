@@ -118,7 +118,8 @@ jan li sona e <small>SEWI</small>, la ona li ken weka.
 | <small>INSA **PALI**</small> | predicate |
 | <small>**ANPA** PALI</small> | object    |
 | | |
-| <small>**NIMI** **PALI**</small> | verb |
+| <small>**NIMI** **PALI**</small>          | verb     |
+| <small>**NIMI** **PALI** PI LINJA PALI **LAWA**</small> | pre-verb |
 
 | | |
 |-|-|
@@ -135,8 +136,10 @@ jan li sona e <small>SEWI</small>, la ona li ken weka.
 | <small>**LUKA** **PALI**</small> | *li, o* |
 | <small>**LUKA** **ANPA**</small> | *e*     |
 | | |
-| <small>**LINJA** **SULI**</small> | sentence |
-| <small>**LINJA** **PALI**</small> | clause   |
+| <small>**LINJA** **SULI**</small>          | sentence           |
+| <small>**LINJA** **PALI**</small>          | clause             |
+| <small>**LINJA** **PALI** **LAWA**</small> | main clause        |
+| <small>**LINJA** **PALI** **NOKA**</small> | subordinate clause |
 
 ---
 
