@@ -184,9 +184,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | [<small>NOUN</small>](#noun): [<small>PRONOUN</small>](#pronoun) |
 | [<small>NOUN ADJECTIVE</small>](#noun-adjective) |
 
-### MODIFIER
+### ADJECTIVE
 [↑](#content-word) <small>NOKA LINJA</small>
-<!-- TODO: MODIFIER -> ADJECTIVE -->
 
 | |
 |:-|
