@@ -175,7 +175,7 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <img src="musi/pona/wile.png" height="50" title="wile"><br>**wile** | [**<small>PRE-VERB</small>**](#pre-verb) <br><small>PRE-VERB</small> **must**, **need**, **require**, **should**, **want**, **wish** <br><small>ADJECTIVE</small> *inevitable*, *necessary* |
 
 ## CONTENT WORD
-[<small>NIMI</small>](#parts-of-speech-and-word-classes) <small>SULI</small>
+[↑](#parts-of-speech-and-word-classes) <small>NIMI SULI</small>
 
 | |
 |:-|
@@ -185,7 +185,8 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | [<small>NOUN ADJECTIVE</small>](#noun-adjective) |
 
 ### MODIFIER
-[<small>NIMI SULI</small>](#content-word) poka
+[↑](#content-word) <small>NOKA LINJA</small>
+<!-- TODO: MODIFIER -> ADJECTIVE -->
 
 | |
 |:-|
@@ -196,7 +197,7 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | <small>ADJECTIVE</small> *peaceful* |
 
 #### PREPOSITION
-*([nimi suli poka](#adjective) palisa)*
+[↑](#modifier) <small>LUKA POKA SULI</small>
 
 You can convert any <small>PREPOSITION</small> into an <small>ADJECTIVE</small> meaning *being ...* omitting its argument.
 
@@ -217,7 +218,7 @@ When a <small>PREPOSITION</small> is used both as <small>ADJECTIVE</small> and <
 | *I am going towards you.* |
 
 ### VERB
-*([nimi suli](#content-word) luka)*
+[↑](#content-word) <small>NIMI PALI</small>
 
 | |
 |:-|
