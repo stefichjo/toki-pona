@@ -109,8 +109,10 @@ jan li sona e <small>SEWI</small>, la ona li ken weka.
 | <small>**LAWA** LINJA</small> | head     |
 | <small>**NOKA** LINJA</small> | modifier |
 | | |
-| <small>**NIMI** **LAWA**</small> | noun      |
-| <small>**NIMI** **NOKA**</small> | adjective |
+| | |
+| <small>**NIMI LAWA**</small>          | noun      |
+| <small>**NIMI LAWA ESUN**</small>     | pronoun   |
+| <small>**NIMI NOKA**</small>          | adjective |
 
 | | |
 |-|-|
@@ -118,28 +120,38 @@ jan li sona e <small>SEWI</small>, la ona li ken weka.
 | <small>INSA **PALI**</small> | predicate |
 | <small>**ANPA** PALI</small> | object    |
 | | |
-| <small>**NIMI** **PALI**</small>          | verb     |
-| <small>**NIMI** **PALI** PI LINJA PALI **LAWA**</small> | pre-verb |
+| | |
+| <small>**NIMI PALI**</small>                        | verb     |
+| <small>**NIMI PALI** PI LINJA PALI **LAWA**</small> | pre-verb |
 
 | | |
 |-|-|
-| <small>**POKA** PALI</small> | context   |
+| <small>**POKA** PALI</small>      | context              |
 | | |
-| <small>**LUKA** **POKA** SULI</small> | preposition |
-| <small>**LUKA** **POKA** LILI</small> | *la*        |
+| <small>NIMI **LUKA POKA** SULI</small> | preposition          |
+| <small>NIMI **LUKA POKA** LILI</small> | context marker: *la* |
 
 ---
 
 | | |
 |-|-|
-| <small>**LUKA**</small>          | *pi*    |
-| <small>**LUKA** **PALI**</small> | *li, o* |
-| <small>**LUKA** **ANPA**</small> | *e*     |
+| <small>**POKI**</small>            | case           |
+| <small>**POKI ANPA**</small>       | accusative     |
+| <small>**POKI NOKA**</small>       | genitive       |
+| <small>**POKI PALI**</small>       | mood           |
 | | |
-| <small>**LINJA** **SULI**</small>          | sentence           |
-| <small>**LINJA** **PALI**</small>          | clause             |
-| <small>**LINJA** **PALI** **LAWA**</small> | main clause        |
-| <small>**LINJA** **PALI** **NOKA**</small> | subordinate clause |
+| | |
+| <small>NIMI **LUKA POKI**</small>             | case marker             |
+| <small>NIMI **LUKA** PI POKI **PALI**</small> | mood marker: *li*, *o*  |
+| <small>NIMI **LUKA** PI POKI **ANPA**</small> | accusative marker: *e*  |
+| <small>NIMI **LUKA** PI POKI **NOKA**</small> | genitive marker: *pi*   |
+
+| | |
+|-|-|
+| <small>**LINJA SULI**</small>      | sentence           |
+| <small>**LINJA PALI**</small>      | clause             |
+| <small>**LINJA PALI LAWA**</small> | main clause        |
+| <small>**LINJA PALI NOKA**</small> | subordinate clause |
 
 ---
 
