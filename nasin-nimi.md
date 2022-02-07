@@ -10,7 +10,8 @@ There are two word classes: [content words](#content-word) (i.e. these parts of 
 But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verbs") and prepositions can be converted into nouns, adjectives and verbs, but not the other way around. Also, an onomatopeia can be converted into a content word meaning *the name ...* or *the sound ...*, and a content word can be used as an onomatopeia, e.g. **nanpa**.
 
 * [**<small>CONTENT WORD</small>**](#content-word)
-  * [**<small>ADJECTIVE</small>**](#adjective): [**<small>PREPOSITION</small>**](#preposition)
+  * [**<small>ADJECTIVE</small>**](#adjective)
+  * [**<small>PREPOSITION</small>**](#preposition)
   * [**<small>VERB</small>**](#verb): [**<small>PRE-VERB</small>**](#pre-verb)
   * [**<small>NOUN</small>**](#noun): [**<small>PRONOUN</small>**](#pronoun)
   * [**<small>NOUN ADJECTIVE</small>**](#noun-adjective):
@@ -179,10 +180,11 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 
 | |
 |:-|
-| [<small>ADJECTIVE</small>](#adjective): [<small>PREPOSITION</small>](#preposition) |
+| [<small>ADJECTIVE</small>](#adjective)                             |
+| [<small>PREPOSITION</small>](#preposition)                         |
 | [<small>VERB</small>](#verb): [<small>PRE-VERB</small>](#pre-verb) |
-| [<small>NOUN</small>](#noun): [<small>PRONOUN</small>](#pronoun) |
-| [<small>NOUN ADJECTIVE</small>](#noun-adjective) |
+| [<small>NOUN</small>](#noun): [<small>PRONOUN</small>](#pronoun)   |
+| [<small>NOUN ADJECTIVE</small>](#noun-adjective)                   |
 
 ### ADJECTIVE
 [↑](#content-word) <small>NIMI NOKA</small>
@@ -195,8 +197,10 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 |:-|
 | <small>ADJECTIVE</small> *peaceful* |
 
-#### PREPOSITION
-[↑](#adjective) <small>LUKA POKA SULI</small>
+### PREPOSITION
+[↑](#content-word) <small>LUKA POKA SULI</small>
+
+<!-- TODO: LUKA POKA (SULI); NIMI (SULI) -->
 
 You can convert any <small>PREPOSITION</small> into an <small>ADJECTIVE</small> meaning *being ...* omitting its argument.
 
@@ -238,9 +242,6 @@ You can convert any <small>VERB</small> into an <small>ADJECTIVE</small> meaning
 #### PRE-VERB
 [↑](#verb) <small>NIMI PALI LAWA</small>
 
-<!-- TODO preverb = NIMI PALI poka? NIMI PALI LAWA = NIMI PALI PI LINJA PALI LAWA -->
-<!-- TODO main clause = LINJA PALI LAWA -->
-
 When the <small>MAIN CLAUSE</small> describes the modality of the <small>SUBORDINATE CLAUSE</small> with an <small>ADJECTIVE</small>, the <small>MAIN CLAUSE</small>'s <small>ADJECTIVE</small> can become the <small>SUBORDINATE CLAUSE</small>'s <small>PRE-VERB</small>.
 
 | <small>PRE-VERB</small> ken | ni li ken: mi toki. → mi ken toki. |
@@ -267,6 +268,7 @@ You can convert any <small>ADJECTIVE</small> into a <small>NOUN</small> meaning 
 | <small>ADJECTIVE</small> *peaceful* <br><small>NOUN</small> *the state of being peaceful* = *peace* |
 
 You can convert any <small>VERB</small> via an <small>ADJECTIVE</small> into a <small>NOUN</small> meaning *the act of ...*.
+
 | <small>VERB</small> moku |
 |:-|
 | <small>VERB</small> *to eat* <br><small>ADJECTIVE</small> *eating* <br><small>NOUN</small> *the state of being eating* = *the act of eating* |
@@ -284,9 +286,9 @@ You can convert any <small>NOUN</small> into an <small>ADJECTIVE</small> meaning
 | <small>NOUN</small> *someone* <br><small>ADJECTIVE</small> *of someone* = *someone's* | <small>ADJECTIVE</small> *hot* <br><small>NOUN</small> *that which is hot* = *fire* <br><small>VERB</small> *to use fire on* = *to cook* |
 
 #### PRONOUN
-*([nimi suli lawa](#noun) sama)*
+[↑](#noun) <small>NIMI LAWA ESUN</small>
 
-| <small>NOUN</small> sina |
+| <small>PRONOUN</small> sina |
 |:-|
 | <small>NOUN</small> *you* <br><small>ADJECTIVE</small> *of you* = *your* |
 
