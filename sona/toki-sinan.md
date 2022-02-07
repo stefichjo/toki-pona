@@ -1,70 +1,70 @@
 # toki Sinan
 
-sama toki pona la toki Sinan li jo e <small>NIMI SULI</small> e <small>NIMI LILI</small>.
-toki pona la <small>NIMI SULI</small> li "moku" e <small>NIMI LILI</small> li kama <small>LINJA PI NIMI SULI</small>.
-<small>LINJA PI NIMI SULI</small> ni li sama <small>NIMI SULI</small> wan lon <small>LINJA NIMI</small>.
-sama lili la toki Sinan la <small>NIMI SULI</small> li "moku" e <small>NIMI LILI</small> li kama <small>NIMI SULI</small> sin. — <small>**ú** [`u'`]; **i** [`I`]</small>
+sama toki pona la toki Sinan li jo e <sub><sup>NIMI SULI</sup></sub> e <sub><sup>NIMI LILI</sup></sub>.
+toki pona la <sub><sup>NIMI SULI</sup></sub> li "moku" e <sub><sup>NIMI LILI</sup></sub> li kama <sub><sup>LINJA PI NIMI SULI</sup></sub>.
+<sub><sup>LINJA PI NIMI SULI</sup></sub> ni li sama <sub><sup>NIMI SULI</sup></sub> wan lon <sub><sup>LINJA NIMI</sup></sub>.
+sama lili la toki Sinan la <sub><sup>NIMI SULI</sup></sub> li "moku" e <sub><sup>NIMI LILI</sup></sub> li kama <sub><sup>NIMI SULI</sup></sub> sin. — <sub><sup>**ú** [`u'`]; **i** [`I`]</sup></sub>
 
 | | |
 |-|-|
 | **-qú**                  | **a**                             |
-| <small>NIMI LILI</small> | <small>NIMI LILI</small>          |
+| <sub><sup>NIMI LILI</sup></sub> | <sub><sup>NIMI LILI</sup></sub>          |
 | | |
 | **tin**                  | **suli**                          |
-| <small>NIMI SULI</small> | <small>NIMI SULI</small>          |
+| <sub><sup>NIMI SULI</sup></sub> | <sub><sup>NIMI SULI</sup></sub>          |
 | | |
 | **tinqú**                | **suli a**                        |
-| <small>NIMI SULI</small> | <small>LINJA PI NIMI SULI</small> |
-|                          | = <small>NIMI SULI</small>        |
+| <sub><sup>NIMI SULI</sup></sub> | <sub><sup>LINJA PI NIMI SULI</sup></sub> |
+|                          | = <sub><sup>NIMI SULI</sup></sub>        |
 
-<small>NIMI LILI</small> mute pi toki Sinan li sama <small>NIMI SULI</small> pi toki pona. — <small>**s** [`S`]</small>
+<sub><sup>NIMI LILI</sup></sub> mute pi toki Sinan li sama <sub><sup>NIMI SULI</sup></sub> pi toki pona. — <sub><sup>**s** [`S`]</sup></sub>
 
 | | |
 |-|-|
 | **wí**                   | **jan**                           |
-| <small>NIMI LILI</small> | <small>NIMI SULI</small>          |
+| <sub><sup>NIMI LILI</sup></sub> | <sub><sup>NIMI SULI</sup></sub>          |
 | | |
 | **suv**                  | **utala**                         |
-| <small>NIMI SULI</small> | <small>NIMI SULI</small>          |
+| <sub><sup>NIMI SULI</sup></sub> | <sub><sup>NIMI SULI</sup></sub>          |
 | | |
 | **suvwí**                | **jan utala**                     |
-| <small>NIMI SULI</small> | <small>LINJA PI NIMI SULI</small> |
-|                          | = <small>NIMI SULI</small> |
+| <sub><sup>NIMI SULI</sup></sub> | <sub><sup>LINJA PI NIMI SULI</sup></sub> |
+|                          | = <sub><sup>NIMI SULI</sup></sub> |
 
-<small>NIMI LAWA</small> li kama <small>NOKA</small>, la ona li tawa open <small>LINJA</small>. — <small>**ŋ** [`ng`]</small>
+<sub><sup>NIMI LAWA</sup></sub> li kama <sub><sup>NOKA</sup></sub>, la ona li tawa open <sub><sup>LINJA</sup></sub>. — <sub><sup>**ŋ** [`ng`]</sup></sub>
 
 | | | | | |
 |-|-|-|-|-|
 | **ǧot** | **poŋ** | | **nimi** | **jan** |
-| <small>NOKA</small> | <small>LAWA</small> | | <small>LAWA</small> | <small>NOKA</small> |
+| <sub><sup>NOKA</sup></sub> | <sub><sup>LAWA</sup></sub> | | <sub><sup>LAWA</sup></sub> | <sub><sup>NOKA</sup></sub> |
 
-<small>NIMI NOKA</small> li kama <small>NOKA</small>, la ona li tawa pini <small>LINJA</small>. — <small>**č** [`ch`], **i** [`I`]</small>
+<sub><sup>NIMI NOKA</sup></sub> li kama <sub><sup>NOKA</sup></sub>, la ona li tawa pini <sub><sup>LINJA</sup></sub>. — <sub><sup>**č** [`ch`], **i** [`I`]</sup></sub>
 
 | | | | | |
 |-|-|-|-|-|
 | **qač** | **tin** | | **tomo** | **suli** |
-| <small>LAWA</small> | <small>NOKA</small> | | <small>LAWA</small> | <small>NOKA</small> |
+| <sub><sup>LAWA</sup></sub> | <sub><sup>NOKA</sup></sub> | | <sub><sup>LAWA</sup></sub> | <sub><sup>NOKA</sup></sub> |
 
-<small>ANPA</small> li lon open. <small>LAWA</small> li lon pini. — <small>**ǧ** [`gh`]</small>
+<sub><sup>ANPA</sup></sub> li lon open. <sub><sup>LAWA</sup></sub> li lon pini. — <sub><sup>**ǧ** [`gh`]</sup></sub>
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
 | **jaǧ** | **suv** | **sulu** | | **jan Sulu** | **li utala** | **e jan ike** |
-| <small>ANPA</small> | <small>PALI</small> | <small>SEWI</small> | | <small>SEWI</small> | <small>PALI</small> | <small>ANPA</small> |
+| <sub><sup>ANPA</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>SEWI</sup></sub> | | <sub><sup>SEWI</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>ANPA</sup></sub> |
 
-jan li sona e <small>SEWI</small>, la ona li ken weka.
+jan li sona e <sub><sup>SEWI</sup></sub>, la ona li ken weka.
 
 | | | | | | |
 |-|-|-|-|-|-|
 | **jaǧ** | **suv** | | **(ona)** | **li utala** | **e jan ike** |
-| <small>ANPA</small> | <small>PALI</small> | | (<small>SEWI</small>) | <small>PALI</small> | <small>ANPA</small> |
+| <sub><sup>ANPA</sup></sub> | <sub><sup>PALI</sup></sub> | | (<sub><sup>SEWI</sup></sub>) | <sub><sup>PALI</sup></sub> | <sub><sup>ANPA</sup></sub> |
 
 <!-- TODO plural -->
 
 | *jan ike*      | **jaǧ**   | | *noka*      | **qam**   | | *tomo tawa mun*      | **duj**    |
 | *jan ike mute* | **jaǧpú** | | *noka mute* | **qamdú** | | *tomo tawa mun mute* | **dujmey** |
 
-<small>SEWI</small> li *ona wan* ala, la <small>NIMI PALI</small> li jo e <small>NIMI LILI</small> lon open. — **d** [`D`]
+<sub><sup>SEWI</sup></sub> li *ona wan* ala, la <sub><sup>NIMI PALI</sup></sub> li jo e <sub><sup>NIMI LILI</sup></sub> lon open. — **d** [`D`]
 
 | | | | | |
 |-:|-:|-:|-:|-:|
@@ -72,7 +72,7 @@ jan li sona e <small>SEWI</small>, la ona li ken weka.
 | *sina wan li utala e jan ike* | **jaǧ dasuv** | | *sina mute li utala e jan ike* | **jaǧ bosuv** |
 | *ona wan li utala e jan ike*  | **jaǧ suv**   | | *ona mute li utala e jan ike*  | **jaǧ lusuv** |
 
-<small>SEWI</small> li suli ala, la <small>NIMI PALI</small> li kama jo e <small>NIMI LILI</small> **-lú**; <small>ANPA</small> li tawa <small>SEWI</small>.
+<sub><sup>SEWI</sup></sub> li suli ala, la <sub><sup>NIMI PALI</sup></sub> li kama jo e <sub><sup>NIMI LILI</sup></sub> **-lú**; <sub><sup>ANPA</sup></sub> li tawa <sub><sup>SEWI</sup></sub>.
 
 | | | | | |
 |-:|-:|-:|-:|-:|
@@ -81,13 +81,13 @@ jan li sona e <small>SEWI</small>, la ona li ken weka.
 | *sina wan li awen sona e ijo/jan*  | **daqaw**  | | *ijo/jan li awen sona e sina wan*   | **daqawlú**  |
 | *mi mute li lukin e ijo/jan*       | **wileǧ**  | | *ijo/jan li lukin e mi mute*        | **wileǧlú**  |
 
-<small>NIMI PALI</small> li jo e <small>NIMI LILI</small> **lú** lon pini, la <small>NIMI LILI</small> **lu-** li weka lon open.
+<sub><sup>NIMI PALI</sup></sub> li jo e <sub><sup>NIMI LILI</sup></sub> **lú** lon pini, la <sub><sup>NIMI LILI</sup></sub> **lu-** li weka lon open.
 
 | | | | | |
 |-:|-:|-:|-:|-:|
 | *jan lili mute li kama lukin e ijo/jan* | **lutú puqpú** | | *ijo/jan li kama lukin e jan lili mute.* | **puqpú ~~lu~~túlú** |
 
-<small>ANPA</small> ante la <small>NIMI LILI</small> li ante lon open pi <small>NIMI PALI</small>. — <small>**q̌** [`Q`]
+<sub><sup>ANPA</sup></sub> ante la <sub><sup>NIMI LILI</sup></sub> li ante lon open pi <sub><sup>NIMI PALI</sup></sub>. — <sub><sup>**q̌** [`Q`]
 
 | | | | | |
 |-:|-:|-:|-:|-:|
@@ -99,59 +99,59 @@ jan li sona e <small>SEWI</small>, la ona li ken weka.
 
 | | |
 |-|-|
-| <small>**NIMI** SULI</small> | content word |
-| <small>**NIMI** LILI</small> | particle     |
+| <sub><sup>**NIMI** SULI</sup></sub> | content word |
+| <sub><sup>**NIMI** LILI</sup></sub> | particle     |
 
 | | |
 |-|-|
-| <small>**LINJA** NIMI</small> | phrase   |
+| <sub><sup>**LINJA** NIMI</sup></sub> | phrase   |
 | | |
-| <small>**LAWA** LINJA</small> | head     |
-| <small>**NOKA** LINJA</small> | modifier |
+| <sub><sup>**LAWA** LINJA</sup></sub> | head     |
+| <sub><sup>**NOKA** LINJA</sup></sub> | modifier |
 | | |
 | | |
-| <small>**NIMI LAWA**</small>          | noun      |
-| <small>**NIMI LAWA ESUN**</small>     | pronoun   |
-| <small>**NIMI NOKA**</small>          | adjective |
+| <sub><sup>**NIMI LAWA**</sup></sub>          | noun      |
+| <sub><sup>**NIMI LAWA ESUN**</sup></sub>     | pronoun   |
+| <sub><sup>**NIMI NOKA**</sup></sub>          | adjective |
 
 | | |
 |-|-|
-| <small>**SEWI** PALI</small> | subject   |
-| <small>INSA **PALI**</small> | predicate |
-| <small>**ANPA** PALI</small> | object    |
+| <sub><sup>**SEWI** PALI</sup></sub> | subject   |
+| <sub><sup>INSA **PALI**</sup></sub> | predicate |
+| <sub><sup>**ANPA** PALI</sup></sub> | object    |
 | | |
 | | |
-| <small>**NIMI PALI**</small>                        | verb     |
-| <small>**NIMI PALI** PI LINJA PALI **LAWA**</small> | pre-verb |
+| <sub><sup>**NIMI PALI**</sup></sub>                        | verb     |
+| <sub><sup>**NIMI PALI** PI LINJA PALI **LAWA**</sup></sub> | pre-verb |
 
 | | |
 |-|-|
-| <small>**POKA** PALI</small>      | context              |
+| <sub><sup>**POKA** PALI</sup></sub>      | context              |
 | | |
-| <small>NIMI **LUKA POKA** SULI</small> | preposition          |
-| <small>NIMI **LUKA POKA** LILI</small> | context marker: *la* |
+| <sub><sup>NIMI **LUKA POKA** SULI</sup></sub> | preposition          |
+| <sub><sup>NIMI **LUKA POKA** LILI</sup></sub> | context marker: *la* |
 
 ---
 
 | | |
 |-|-|
-| <small>**POKI**</small>            | case           |
-| <small>**POKI ANPA**</small>       | accusative     |
-| <small>**POKI NOKA**</small>       | genitive       |
-| <small>**POKI PALI**</small>       | mood           |
+| <sub><sup>**POKI**</sup></sub>            | case           |
+| <sub><sup>**POKI ANPA**</sup></sub>       | accusative     |
+| <sub><sup>**POKI NOKA**</sup></sub>       | genitive       |
+| <sub><sup>**POKI PALI**</sup></sub>       | mood           |
 | | |
 | | |
-| <small>NIMI **LUKA POKI**</small>             | case marker             |
-| <small>NIMI **LUKA** PI POKI **PALI**</small> | mood marker: *li*, *o*  |
-| <small>NIMI **LUKA** PI POKI **ANPA**</small> | accusative marker: *e*  |
-| <small>NIMI **LUKA** PI POKI **NOKA**</small> | genitive marker: *pi*   |
+| <sub><sup>NIMI **LUKA POKI**</sup></sub>             | case marker             |
+| <sub><sup>NIMI **LUKA** PI POKI **PALI**</sup></sub> | mood marker: *li*, *o*  |
+| <sub><sup>NIMI **LUKA** PI POKI **ANPA**</sup></sub> | accusative marker: *e*  |
+| <sub><sup>NIMI **LUKA** PI POKI **NOKA**</sup></sub> | genitive marker: *pi*   |
 
 | | |
 |-|-|
-| <small>**LINJA SULI**</small>      | sentence           |
-| <small>**LINJA PALI**</small>      | clause             |
-| <small>**LINJA PALI LAWA**</small> | main clause        |
-| <small>**LINJA PALI NOKA**</small> | subordinate clause |
+| <sub><sup>**LINJA SULI**</sup></sub>      | sentence           |
+| <sub><sup>**LINJA PALI**</sup></sub>      | clause             |
+| <sub><sup>**LINJA PALI LAWA**</sup></sub> | main clause        |
+| <sub><sup>**LINJA PALI NOKA**</sup></sub> | subordinate clause |
 
 ---
 

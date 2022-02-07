@@ -1,4 +1,4 @@
-# Official Toki Pona ([<small>SONJA</small>](http://www.amazon.com/gp/product/0978292308))
+# Official Toki Pona ([<sub><sup>SONJA</sup></sub>](http://www.amazon.com/gp/product/0978292308))
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
@@ -12,102 +12,102 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ## Terminology
 
-<small>NOUN PHRASE</small>s are sometimes called <small>NOUN GROUP</small>s.
+<sub><sup>NOUN PHRASE</sup></sub>s are sometimes called <sub><sup>NOUN GROUP</sup></sub>s.
 
-| | <small>SONJA</small> | <small>TEPAN</small> |
+| | <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
 |:-|:-|:-|
-| [**mije**](#lesson-11) | <small>NOUN GROUP</small> | <small>NOUN PHRASE</small> |
+| [**mije**](#lesson-11) | <sub><sup>NOUN GROUP</sup></sub> | <sub><sup>NOUN PHRASE</sup></sub> |
 
-<small>AUXILIARY VERB</small>s are called <small>PRE-VERB</small>s.
+<sub><sup>AUXILIARY VERB</sup></sub>s are called <sub><sup>PRE-VERB</sup></sub>s.
 
-| | <small>SONJA</small> | <small>TEPAN</small> |
+| | <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
 |:-|:-|:-|
-| [**kama**](#lesson-13) | <small>PRE-VERB</small> | <small>AUXILIARY VERB</small> |
+| [**kama**](#lesson-13) | <sub><sup>PRE-VERB</sup></sub> | <sub><sup>AUXILIARY VERB</sup></sub> |
 
-Since <small>NOUN</small>s and <small>PRONOUN</small>s are indistinguishable in Toki Pona, they are both called <small>NOUN</small>s.
+Since <sub><sup>NOUN</sup></sub>s and <sub><sup>PRONOUN</sup></sub>s are indistinguishable in Toki Pona, they are both called <sub><sup>NOUN</sup></sub>s.
 
-| | <small>SONJA</small> | <small>TEPAN</small> |
+| | <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
 |:-|:-|:-|
-| [**mi**](#lesson-4) | <small>NOUN</small> | <small>NOUN</small>: <small>PRONOUN</small> |
+| [**mi**](#lesson-4) | <sub><sup>NOUN</sup></sub> | <sub><sup>NOUN</sup></sub>: <sub><sup>PRONOUN</sup></sub> |
 
-Since <small>ADJECTIVE</small>s and <small>INTRANSITIVE VERB</small>s are indistinguishable in Toki Pona, they are both called <small>ADJECTIVE</small>s.
+Since <sub><sup>ADJECTIVE</sup></sub>s and <sub><sup>INTRANSITIVE VERB</sup></sub>s are indistinguishable in Toki Pona, they are both called <sub><sup>ADJECTIVE</sup></sub>s.
 
-| | <small>SONJA</small> | <small>TEPAN</small> |
+| | <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
 |:-|:-|:-|
-| [**awen**](#lesson-11) | <small>ADJECTIVE</small> | <small>ADJECTIVE</small>: <small>INTRANSITIVE VERB</small> |
+| [**awen**](#lesson-11) | <sub><sup>ADJECTIVE</sup></sub> | <sub><sup>ADJECTIVE</sup></sub>: <sub><sup>INTRANSITIVE VERB</sup></sub> |
 
-Since <small>ADJECTIVE</small>s and <small>ADVERB</small>s are indistinguishable in Toki Pona, they are both called <small>ADJECTIVE</small>s.
+Since <sub><sup>ADJECTIVE</sup></sub>s and <sub><sup>ADVERB</sup></sub>s are indistinguishable in Toki Pona, they are both called <sub><sup>ADJECTIVE</sup></sub>s.
 
-| | <small>SONJA</small> | <small>TEPAN</small> |
+| | <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
 |:-|:-|:-|
-| [**mute**](#lesson-6) | <small>ADJECTIVE</small> | <small>ADJECTIVE</small>, <small>ADVERB</small> |
+| [**mute**](#lesson-6) | <sub><sup>ADJECTIVE</sup></sub> | <sub><sup>ADJECTIVE</sup></sub>, <sub><sup>ADVERB</sup></sub> |
 
-Therefore, <small>TRANSITIVE VERB</small>s can be simply called <small>VERB</small>s. In the context of <small>SENTENCE</small>s though, "<small>VERB</small>" also means either <small>MAIN VERB</small> or <small>PREDICATE</small>.
+Therefore, <sub><sup>TRANSITIVE VERB</sup></sub>s can be simply called <sub><sup>VERB</sup></sub>s. In the context of <sub><sup>SENTENCE</sup></sub>s though, "<sub><sup>VERB</sup></sub>" also means either <sub><sup>MAIN VERB</sup></sub> or <sub><sup>PREDICATE</sup></sub>.
 
-| | <small>SONJA</small> | <small>TEPAN</small> |
+| | <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
 |:-|:-|:-|
-| [**pali**](#lesson-5) | <small>VERB</small> | <small>VERB</small>: <small>TRANSITIVE VERB</small> |
+| [**pali**](#lesson-5) | <sub><sup>VERB</sup></sub> | <sub><sup>VERB</sup></sub>: <sub><sup>TRANSITIVE VERB</sup></sub> |
 | | | |
-| [**…**](#what-is-toki-pona) | <small>VERB</small> | <small>SENTENCE</small>'s <small>PREDICATE</small> |
-| [**mama**](#lesson-7) | <small>VERB</small> | <small>SENTENCE</small>'s <small>MAIN VERB</small> |
+| [**…**](#what-is-toki-pona) | <sub><sup>VERB</sup></sub> | <sub><sup>SENTENCE</sup></sub>'s <sub><sup>PREDICATE</sup></sub> |
+| [**mama**](#lesson-7) | <sub><sup>VERB</sup></sub> | <sub><sup>SENTENCE</sup></sub>'s <sub><sup>MAIN VERB</sup></sub> |
 
-<small>INTERJECTION</small>s and <small>NAME</small>s are called <small>PARTICLE</small>s.
+<sub><sup>INTERJECTION</sup></sub>s and <sub><sup>NAME</sup></sub>s are called <sub><sup>PARTICLE</sup></sub>s.
 
-| | <small>SONJA</small> | <small>TEPAN</small> |
+| | <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
 |:-|:-|:-|
-| [**mu!**](#lesson-10) | <small>PARTICLE</small> | <small>PARTICLE</small>: <small>ONOMATOPEIA</small>: <small>INTERJECTION</small> |
-| [**nanpa (wan)**](#lesson-12) | <small>PARTICLE</small> | <small>PARTICLE</small>: <small>ONOMATOPEIA</small>: <small>NAME</small> |
+| [**mu!**](#lesson-10) | <sub><sup>PARTICLE</sup></sub> | <sub><sup>PARTICLE</sup></sub>: <sub><sup>ONOMATOPEIA</sup></sub>: <sub><sup>INTERJECTION</sup></sub> |
+| [**nanpa (wan)**](#lesson-12) | <sub><sup>PARTICLE</sup></sub> | <sub><sup>PARTICLE</sup></sub>: <sub><sup>ONOMATOPEIA</sup></sub>: <sub><sup>NAME</sup></sub> |
 
-As long as <small>NAME</small>s are single words only (like [place names](#place-names)), they behave as <small>ADJECTIVE</small>s. Therefore, <small>ONOMATOPEIA</small>s are called <small>ADJECTIVE</small>s. But when <small>NAME</small>s are come as multiple words (like [proper names](#lesson-9)) they are used without **pi** (like the <small>ONOMATOPEIA</small> **nanpa**).
+As long as <sub><sup>NAME</sup></sub>s are single words only (like [place names](#place-names)), they behave as <sub><sup>ADJECTIVE</sup></sub>s. Therefore, <sub><sup>ONOMATOPEIA</sup></sub>s are called <sub><sup>ADJECTIVE</sup></sub>s. But when <sub><sup>NAME</sup></sub>s are come as multiple words (like [proper names](#lesson-9)) they are used without **pi** (like the <sub><sup>ONOMATOPEIA</sup></sub> **nanpa**).
 
-| | <small>SONJA</small> | <small>TEPAN</small> |
+| | <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
 |:-|:-|:-|
-| [**Papuwanijukini**](#place-names) | <small>ADJECTIVE</small> | <small>PARTICLE</small>: <small>ONOMATOPEIA</small>: <small>NAME</small> |
-| [**Epawan Linkan**](#lesson-9) | <small>ADJECTIVE</small> | <small>PARTICLE</small>: <small>ONOMATOPEIA</small>: <small>NAME</small> |
+| [**Papuwanijukini**](#place-names) | <sub><sup>ADJECTIVE</sup></sub> | <sub><sup>PARTICLE</sup></sub>: <sub><sup>ONOMATOPEIA</sup></sub>: <sub><sup>NAME</sup></sub> |
+| [**Epawan Linkan**](#lesson-9) | <sub><sup>ADJECTIVE</sup></sub> | <sub><sup>PARTICLE</sup></sub>: <sub><sup>ONOMATOPEIA</sup></sub>: <sub><sup>NAME</sup></sub> |
 
-<small>CORRELATIVE</small>s are introduced as <small>NOUN</small>s/<small>ADJECTIVE</small>s. **seme** is introduced as a <small>PARTICLE</small>.
+<sub><sup>CORRELATIVE</sup></sub>s are introduced as <sub><sup>NOUN</sup></sub>s/<sub><sup>ADJECTIVE</sup></sub>s. **seme** is introduced as a <sub><sup>PARTICLE</sup></sub>.
 
-| | <small>SONJA</small> | <small>TEPAN</small> |
+| | <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
 |:-|:-|:-|
-| **ale** | <small>NOUN</small>/<small>ADJECTIVE</small> | <small>CORRELATIVE</small> |
-| **ni** | <small>NOUN</small>/<small>ADJECTIVE</small> | <small>CORRELATIVE</small> |
-| **seme** | <small>PARTICLE</small> | <small>CORRELATIVE</small> |
+| **ale** | <sub><sup>NOUN</sup></sub>/<sub><sup>ADJECTIVE</sup></sub> | <sub><sup>CORRELATIVE</sup></sub> |
+| **ni** | <sub><sup>NOUN</sup></sub>/<sub><sup>ADJECTIVE</sup></sub> | <sub><sup>CORRELATIVE</sup></sub> |
+| **seme** | <sub><sup>PARTICLE</sup></sub> | <sub><sup>CORRELATIVE</sup></sub> |
 
-<small>MARKER</small>s are called <small>PARTICLE</small>s.
+<sub><sup>MARKER</sup></sub>s are called <sub><sup>PARTICLE</sup></sub>s.
 
-| | <small>SONJA</small> | <small>TEPAN</small> |
+| | <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
 |:-|:-|:-|
-| [**pi**](#lesson-11) | <small>PARTICLE</small> | <small>PARTICLE</small>: <small>MARKER</small> |
+| [**pi**](#lesson-11) | <sub><sup>PARTICLE</sup></sub> | <sub><sup>PARTICLE</sup></sub>: <sub><sup>MARKER</sup></sub> |
 
-<small>SUBORDINATE CLAUSE</small>s after **ni:** are called (subsequent) <small>SENTENCE</small>s.
+<sub><sup>SUBORDINATE CLAUSE</sup></sub>s after **ni:** are called (subsequent) <sub><sup>SENTENCE</sup></sub>s.
 
-| | <small>SONJA</small> | <small>TEPAN</small> |
+| | <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
 |:-|:-|:-|
-| [**ni: jan Melani li kama lon tomo mi**](#lesson-17) | <small>SENTENCE</small> | <small>SUBORDINATE CLAUSE</small> |
+| [**ni: jan Melani li kama lon tomo mi**](#lesson-17) | <sub><sup>SENTENCE</sup></sub> | <sub><sup>SUBORDINATE CLAUSE</sup></sub> |
 
-The <small>CONTEXT PHRASE</small> (i.e. a <small>PREPOSITIONAL PHRASE</small> before **la**) is also called <small>FRAGMENT</small>.
+The <sub><sup>CONTEXT PHRASE</sup></sub> (i.e. a <sub><sup>PREPOSITIONAL PHRASE</sup></sub> before **la**) is also called <sub><sup>FRAGMENT</sup></sub>.
 
-| | <small>SONJA</small> | <small>TEPAN</small> |
+| | <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
 |:-|:-|:-|
-| [**tan seme la**](#lesson-14) | <small>FRAGMENT</small> | <small>CONTEXT PHRASE</small> |
+| [**tan seme la**](#lesson-14) | <sub><sup>FRAGMENT</sup></sub> | <sub><sup>CONTEXT PHRASE</sup></sub> |
 
 ## Grammar
 
 ### [PRE-VERB](nasin-nimi.md#pre-verb)
 
-Additional <small>PRE-VERB</small>s are omitted.
+Additional <sub><sup>PRE-VERB</sup></sub>s are omitted.
 
 | mi wile ~~kama~~ sona. |
 |:-|
 | *I have to learn.* → *I have to know.* |
 
-When converting an <small>ADJECTIVE</small> with a <small>PRE-VERB</small> into a <small>NOUN</small> or a <small>VERB</small>, the <small>PRE-VERB</small> is omitted.
+When converting an <sub><sup>ADJECTIVE</sup></sub> with a <sub><sup>PRE-VERB</sup></sub> into a <sub><sup>NOUN</sup></sub> or a <sub><sup>VERB</sup></sub>, the <sub><sup>PRE-VERB</sup></sub> is omitted.
 
 | ~~kama~~ ante | ona li ~~kama~~ ante e ijo. |
 |:-|:-|
 | *change* | *She changed something.* |
 
-Instead of using the <small>VERB</small> **pilin** with a <small>NOUN</small> with an omitted <small>PRE-VERB</small> as its <small>OBJECT</small>, it is used as a <small>GENITIVE PHRASE</small>.
+Instead of using the <sub><sup>VERB</sup></sub> **pilin** with a <sub><sup>NOUN</sup></sub> with an omitted <sub><sup>PRE-VERB</sup></sub> as its <sub><sup>OBJECT</sup></sub>, it is used as a <sub><sup>GENITIVE PHRASE</sup></sub>.
 
 | mi pilin e kama pi ijo ike. → mi pilin ike. |
 |:-|
@@ -130,7 +130,7 @@ Instead of using the <small>VERB</small> **pilin** with a <small>NOUN</small> wi
 
 ### Colon
 
-A *colon* stands between a <small>NOUN</small> and a <small>SENTENCE</small> that the <small>NOUN</small> represents, forming a <small>SUBORDINATE CLAUSE</small>.
+A *colon* stands between a <sub><sup>NOUN</sup></sub> and a <sub><sup>SENTENCE</sup></sub> that the <sub><sup>NOUN</sup></sub> represents, forming a <sub><sup>SUBORDINATE CLAUSE</sup></sub>.
 
 | mi wile e ni: jan Melani li kama lon tomo mi. |
 |:-|
@@ -138,37 +138,37 @@ A *colon* stands between a <small>NOUN</small> and a <small>SENTENCE</small> tha
 
 ### Comma
 
-A coordinating *comma* between two <small>INDICATIVE PHRASE</small>s can be safely removed.
+A coordinating *comma* between two <sub><sup>INDICATIVE PHRASE</sup></sub>s can be safely removed.
 
 | ma mama li lili, li lete. → ma mama li lili li lete. |
 |:-|
 | *The fatherland is small and cold.* |
 
-A coordinating *comma* between two <small>ACCUSATIVE PHRASE</small>s can be safely removed.
+A coordinating *comma* between two <sub><sup>ACCUSATIVE PHRASE</sup></sub>s can be safely removed.
 
 | ona li seli e soweli, e pan. → ona li seli e soweli e pan. |
 |:-|
 | *She cooks the hares and some rice.* |
 
-A coordinating *comma* between two <small>PREPOSITIONAL PHRASE</small>s can be safely removed.
+A coordinating *comma* between two <sub><sup>PREPOSITIONAL PHRASE</sup></sub>s can be safely removed.
 
 | mi pana e kala tawa ona, lon tomo. → mi pana e kala tawa ona lon tomo. |
 |:-|
 | *I give fish to her in the home.* |
 
-A coordinating *comma* between a <small>SENTENCE</small> followed by the <small>INTERJECTION</small> **a!** can be safely removed.
+A coordinating *comma* between a <sub><sup>SENTENCE</sup></sub> followed by the <sub><sup>INTERJECTION</sup></sub> **a!** can be safely removed.
 
 | sina suli, a! → sina suli a! |
 |:-|
 | *You're so tall!* |
 
-A coordinating *comma* between two <small>SENTENCE</small>s can't be safely removed.
+A coordinating *comma* between two <sub><sup>SENTENCE</sup></sub>s can't be safely removed.
 
 | jan Mawijo li kepeken ilo alasa, taso linja li pakala. |
 |:-|
 | *Mawijo uses the bow, but the string breaks.* |
 
-A subordinating *comma* between a <small>SUBORDINATE CLAUSE</small> and **la** can't be safely removed.
+A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and **la** can't be safely removed.
 
 | mi pona tawa jan, la jan li pona tawa mi. |
 |:-|
@@ -405,7 +405,7 @@ A subordinating *comma* between a <small>SUBORDINATE CLAUSE</small> and **la** c
 
 | pi |
 |:-|
-| *(divides a second <small>NOUN PHRASE</small> that describes a first <small>NOUN PHRASE</small>)* |
+| *(divides a second <sub><sup>NOUN PHRASE</sup></sub> that describes a first <sub><sup>NOUN PHRASE</sup></sub>)* |
 
 | mu! |
 |:-|
@@ -655,9 +655,9 @@ A subordinating *comma* between a <small>SUBORDINATE CLAUSE</small> and **la** c
 
 ### Lessons
 
-| <small>SONJA</small> | <small>TEPAN</small> |
+| <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
 |:-|:-|
-| <small>NOUN</small> *something that you* [*speak, i.e. a language*](#lesson-5) | <small>NOUN</small> *something that you say, i.e. a message*; <br>*the way of communication, i.e. language* |
+| <sub><sup>NOUN</sup></sub> *something that you* [*speak, i.e. a language*](#lesson-5) | <sub><sup>NOUN</sup></sub> *something that you say, i.e. a message*; <br>*the way of communication, i.e. language* |
 | | |
 | *jan* [*Epawam*](#lesson-9) *Linkan li tan ma Mewika.* | *jan Epawan Linkan li tan ma Mewika.* |
 | | |
@@ -667,44 +667,44 @@ A subordinating *comma* between a <small>SUBORDINATE CLAUSE</small> and **la** c
 | | |
 | *mi lukin e meli pimeja lon* [*sinpin&nbsp; tomo*](#lesson-15)*.* | *mi lukin e meli pimeja lon sinpin tomo.* |
 | | |
-| **open** <br>[<small>VERB</small> **open**](#lesson-16) | **open** <br><small>ADJECTIVE</small> **open** <br><small>VERB</small> **to open** |
+| **open** <br>[<sub><sup>VERB</sup></sub> **open**](#lesson-16) | **open** <br><sub><sup>ADJECTIVE</sup></sub> **open** <br><sub><sup>VERB</sup></sub> **to open** |
 | | |
 | *mi wile e ni: jan Melani li kama* [*tawa*](#lesson-17) *tomo mi.* | *mi wile e ni: jan Melani li kama lon tomo mi.* |
 | | |
-| **alasa** <br><small>VERB</small> [**hunt**](#lesson-17), **forage** | **alasa** <br><small>VERB</small> **to hunt**, **forage** |
+| **alasa** <br><sub><sup>VERB</sup></sub> [**hunt**](#lesson-17), **forage** | **alasa** <br><sub><sup>VERB</sup></sub> **to hunt**, **forage** |
 | | |
-| **lape** <br>[<small>VERB</small> **to sleep**](#lesson-18) | **lape** <br><small>ADJECTIVE</small> **sleeping** |
+| **lape** <br>[<sub><sup>VERB</sup></sub> **to sleep**](#lesson-18) | **lape** <br><sub><sup>ADJECTIVE</sup></sub> **sleeping** |
 
 ### Place Names
 
-| <small>SONJA</small> | <small>TEPAN</small> |
+| <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
 |:-|:-|
 | **ma Sawusi** | **ma Sajusi** |
 
 ### Official Toki Pona Dictionary
 
-| <small>SONJA</small> | <small>TEPAN</small> |
+| <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
 |:-|:-|
-| **a** <br><small>PARTICLE</small> **(**[**emphasis**, **emotion**](#official-toki-pona-dictionary) **or confirmation)** | **a** <br><small>PARTICLE</small> **(emotion word)**, **(emphasis or confirmation)** |
+| **a** <br><sub><sup>PARTICLE</sup></sub> **(**[**emphasis**, **emotion**](#official-toki-pona-dictionary) **or confirmation)** | **a** <br><sub><sup>PARTICLE</sup></sub> **(emotion word)**, **(emphasis or confirmation)** |
 | | |
-| **anpa** <br><small>ADJECTIVE</small> [**bowing down**, **downward,**](#official-toki-pona-dictionary) **humble**, **lowly**, **dependent** | **anpa** <br><small>ADJECTIVE</small> **humble**, **lowly**, **dependent**: (*kama anpa*) **downward**; **bowing down** |
+| **anpa** <br><sub><sup>ADJECTIVE</sup></sub> [**bowing down**, **downward,**](#official-toki-pona-dictionary) **humble**, **lowly**, **dependent** | **anpa** <br><sub><sup>ADJECTIVE</sup></sub> **humble**, **lowly**, **dependent**: (*kama anpa*) **downward**; **bowing down** |
 | | |
-| **awen** <br><small>ADJECTIVE</small> **enduring**, **kept**, [**protected**, **safe**](#official-toki-pona-dictionary) **waiting**, **staying** | **awen** <br><small>ADJECTIVE</small> **enduring**, **kept**, **waiting**, **staying**: (*ken awen*) **protected**, **safe** |
+| **awen** <br><sub><sup>ADJECTIVE</sup></sub> **enduring**, **kept**, [**protected**, **safe**](#official-toki-pona-dictionary) **waiting**, **staying** | **awen** <br><sub><sup>ADJECTIVE</sup></sub> **enduring**, **kept**, **waiting**, **staying**: (*ken awen*) **protected**, **safe** |
 | | |
-| **kalama** <br>[<small>VERB</small> **to produce a sound**](#official-toki-pona-dictionary); **recite**, **utter aloud** | **kalama** <br><small>ADJECTIVE</small> **producing a sound** <br><small>VERB</small> **to recite**, **utter** **aloud** |
+| **kalama** <br>[<sub><sup>VERB</sup></sub> **to produce a sound**](#official-toki-pona-dictionary); **recite**, **utter aloud** | **kalama** <br><sub><sup>ADJECTIVE</sup></sub> **producing a sound** <br><sub><sup>VERB</sup></sub> **to recite**, **utter** **aloud** |
 | | |
-| **linja** <br><small>NOUN</small> **long** [**and**](#official-toki-pona-dictionary) **flexible thing** | **linja** <br><small>NOUN</small> **long flexible thing** |
+| **linja** <br><sub><sup>NOUN</sup></sub> **long** [**and**](#official-toki-pona-dictionary) **flexible thing** | **linja** <br><sub><sup>NOUN</sup></sub> **long flexible thing** |
 | | |
-| **lon** <br><small>PREPOSITION</small> **located at**, **present at**, [**real**, **true**, **existing**](#official-toki-pona-dictionary) | **lon** <br><small>PREPOSITION</small> **located at**, **present at** <br><small>ADJECTIVE</small> **existing**, **real**, **true** |
+| **lon** <br><sub><sup>PREPOSITION</sup></sub> **located at**, **present at**, [**real**, **true**, **existing**](#official-toki-pona-dictionary) | **lon** <br><sub><sup>PREPOSITION</sup></sub> **located at**, **present at** <br><sub><sup>ADJECTIVE</sup></sub> **existing**, **real**, **true** |
 | | |
-| **lukin** <br><small>PRE-VERB</small> [**to seek, look for**](#official-toki-pona-dictionary)**, try to** | **lukin** <br><small>PRE-VERB</small> **to try to**; **to seek to**: (*lukin jo*) **to look for** |
+| **lukin** <br><sub><sup>PRE-VERB</sup></sub> [**to seek, look for**](#official-toki-pona-dictionary)**, try to** | **lukin** <br><sub><sup>PRE-VERB</sup></sub> **to try to**; **to seek to**: (*lukin jo*) **to look for** |
 | | |
-| **moli** <br><small>ADJECTIVE</small> **dead**, [**dying**](#official-toki-pona-dictionary) | **moli** <br><small>ADJECTIVE</small> **dead**: (*kama moli*) **dying** |
+| **moli** <br><sub><sup>ADJECTIVE</sup></sub> **dead**, [**dying**](#official-toki-pona-dictionary) | **moli** <br><sub><sup>ADJECTIVE</sup></sub> **dead**: (*kama moli*) **dying** |
 | | |
-| **seli** <br>[<small>ADJECTIVE</small>](#official-toki-pona-dictionary) **fire** | **seli** <br><small>NOUN</small> **fire** |
+| **seli** <br>[<sub><sup>ADJECTIVE</sup></sub>](#official-toki-pona-dictionary) **fire** | **seli** <br><sub><sup>NOUN</sup></sub> **fire** |
 | | |
-| **toki** <br><small>VERB</small> **to communicate**, **say**, **speak**, [**say**, **talk**, **use language,**](#official-toki-pona-dictionary) **think** | **toki** <br><small>VERB</small> **to communicate**, **say**, **speak**; **think** <br><small>ADJECTIVE</small> **talking**, **using language** | 
+| **toki** <br><sub><sup>VERB</sup></sub> **to communicate**, **say**, **speak**, [**say**, **talk**, **use language,**](#official-toki-pona-dictionary) **think** | **toki** <br><sub><sup>VERB</sup></sub> **to communicate**, **say**, **speak**; **think** <br><sub><sup>ADJECTIVE</sup></sub> **talking**, **using language** | 
 | | |
-| **poka** <br><small>NOUN</small> **hip**, **side**; **next to**, [**nearby**](#official-toki-pona-dictionary), **vicinity** | **poka** <br><small>NOUN</small> **hip**, **side**; **next to**, **vicinity** <br><small>ADJECTIVE</small> **nearby** |
+| **poka** <br><sub><sup>NOUN</sup></sub> **hip**, **side**; **next to**, [**nearby**](#official-toki-pona-dictionary), **vicinity** | **poka** <br><sub><sup>NOUN</sup></sub> **hip**, **side**; **next to**, **vicinity** <br><sub><sup>ADJECTIVE</sup></sub> **nearby** |
 | | |
-| **unpa** <br><small>VERB</small> **to have** [**sexual or marital relations**](#official-toki-pona-dictionary) **with** | **unpa** <br><small>VERB</small> **to have sex with** |
+| **unpa** <br><sub><sup>VERB</sup></sub> **to have** [**sexual or marital relations**](#official-toki-pona-dictionary) **with** | **unpa** <br><sub><sup>VERB</sup></sub> **to have sex with** |
