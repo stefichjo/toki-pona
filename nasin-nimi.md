@@ -11,12 +11,12 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 
 * [**<sub><sup>CONTENT WORD</sup></sub>**](#content-word)
   * [**<sub><sup>ADJECTIVE</sup></sub>**](#adjective)
-  * [**<sub><sup>PREPOSITION</sup></sub>**](#preposition)
   * [**<sub><sup>VERB</sup></sub>**](#verb): [**<sub><sup>PRE-VERB</sup></sub>**](#pre-verb)
   * [**<sub><sup>NOUN</sup></sub>**](#noun): [**<sub><sup>PRONOUN</sup></sub>**](#pronoun)
   * [**<sub><sup>NOUN ADJECTIVE</sup></sub>**](#noun-adjective):
     * [**<sub><sup>PERSON</sup></sub>**](#person), [**<sub><sup>ORGAN</sup></sub>**](#organ), [**<sub><sup>LIFE-FORM</sup></sub>**](#life-form)
     * [**<sub><sup>THING</sup></sub>**](#thing), [**<sub><sup>CORRELATIVE</sup></sub>**](#correlative), [**<sub><sup>NUMBER</sup></sub>**](#number), [**<sub><sup>AREA</sup></sub>**](#area)
+  * [**<sub><sup>PREPOSITION</sup></sub>**](#preposition)
 * [**<sub><sup>PARTICLE</sup></sub>**](#particle)
   * [**<sub><sup>MARKER</sup></sub>**](#marker): [**<sub><sup>MOOD MARKER</sup></sub>**](#mood-marker), [**<sub><sup>CASE MARKER</sup></sub>**](#case-marker)
   * [**<sub><sup>CONJUNCTION</sup></sub>**](#conjunction): [**<sub><sup>AND</sup></sub>**](#and), [**<sub><sup>OR</sup></sub>**](#or), [**<sub><sup>IF-THEN</sup></sub>**](#if-then)
@@ -180,45 +180,18 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 
 | |
 |:-|
-| [<sub><sup>ADJECTIVE</sup></sub>](#adjective)                             |
-| [<sub><sup>PREPOSITION</sup></sub>](#preposition)                         |
+| [<sub><sup>ADJECTIVE</sup></sub>](#adjective)                                    |
 | [<sub><sup>VERB</sup></sub>](#verb): [<sub><sup>PRE-VERB</sup></sub>](#pre-verb) |
 | [<sub><sup>NOUN</sup></sub>](#noun): [<sub><sup>PRONOUN</sup></sub>](#pronoun)   |
-| [<sub><sup>NOUN ADJECTIVE</sup></sub>](#noun-adjective)                   |
+| [<sub><sup>NOUN ADJECTIVE</sup></sub>](#noun-adjective)                          |
+| [<sub><sup>PREPOSITION</sup></sub>](#preposition)                                |
 
 ### ADJECTIVE
 [↑](#content-word) <sub><sup>NIMI NOKA</sup></sub>
 
-| |
-|:-|
-| [<sub><sup>PREPOSITION</sup></sub>](#preposition) |
-
 | <sub><sup>ADJECTIVE</sup></sub> pona |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *peaceful* |
-
-### PREPOSITION
-[↑](#content-word) <sub><sup>LUKA POKA SULI</sup></sub>
-
-<!-- TODO: LUKA POKA (SULI); NIMI (SULI) -->
-
-You can convert any <sub><sup>PREPOSITION</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *being ...* omitting its argument.
-
-| <sub><sup>PREPOSITION</sup></sub> tawa |
-|:-|
-| <sub><sup>PREPOSITION</sup></sub> *towards* <br><sub><sup>ADJECTIVE</sup></sub> *being towards* = *going* |
-
-A prepositional phrase can only be used at the end of a sentence.
-
-| mi pana e kala tawa ona. |
-|:-|
-| *I give fish to her.* |
-
-When a <sub><sup>PREPOSITION</sup></sub> is used both as <sub><sup>ADJECTIVE</sup></sub> and <sub><sup>PREPOSITION</sup></sub>, the <sub><sup>PREPOSITION</sup></sub> is omitted.
-
-| mi tawa ~~tawa~~ sina. |
-|:-|
-| *I am going towards you.* |
 
 ### VERB
 [↑](#content-word) <sub><sup>NIMI PALI</sup></sub>
@@ -293,6 +266,14 @@ You can convert any <sub><sup>NOUN</sup></sub> into an <sub><sup>ADJECTIVE</sup>
 | <sub><sup>NOUN</sup></sub> *you* <br><sub><sup>ADJECTIVE</sup></sub> *of you* = *your* |
 
 ### NOUN ADJECTIVE
+
+noun = nimi lawa
+adjective = nimi noka
+head adjective = nimi noka lawa
+
+person = "nimi suli poka jan"
+person = nimi noka jan
+
 *([nimi suli](#content-word) poka pi [nimi suli lawa](#noun))*
 
 | |
@@ -378,6 +359,29 @@ You can convert any <sub><sup>CORRELATIVE</sup></sub> into an <sub><sup>ADJECTIV
 | <sub><sup>AREA</sup></sub> insa |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *inner* <br><sub><sup>NOUN</sup></sub> *inner area* = *innards* |
+
+### PREPOSITION
+[↑](#content-word) <sub><sup>LUKA POKA SULI</sup></sub>
+
+<!-- TODO: LUKA POKA (SULI); NIMI (SULI) -->
+
+You can convert any <sub><sup>PREPOSITION</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *being ...* omitting its argument.
+
+| <sub><sup>PREPOSITION</sup></sub> tawa |
+|:-|
+| <sub><sup>PREPOSITION</sup></sub> *towards* <br><sub><sup>ADJECTIVE</sup></sub> *being towards* = *going* |
+
+A prepositional phrase can only be used at the end of a sentence. See also [<sub><sup>IF-THEN</sup></sub>](#if-then).
+
+| mi pana e kala tawa ona. |
+|:-|
+| *I give fish to her.* |
+
+When a <sub><sup>PREPOSITION</sup></sub> is used both as an <sub><sup>ADJECTIVE</sup></sub> and a <sub><sup>PREPOSITION</sup></sub>, the <sub><sup>PREPOSITION</sup></sub> is omitted.
+
+| mi tawa ~~tawa~~ sina.    | | mi tawa ala ~~tawa~~ sina.    |
+|:-|:-|:-|
+| *I am going towards you.* | | *I am not going towards you.* |
 
 ## PARTICLE
 *([nimi](#parts-of-speech-and-word-classes) lili)*

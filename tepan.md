@@ -31,3 +31,89 @@ In my dialect, a coordinating *comma* between two <sub><sup>GENITIVE PHRASE</sup
 | ona li sona e tomo pi telo nasa, pi ma ante. |
 |:-|
 | *She knows a foreign bar.* |
+
+## Numbers
+
+### 1 - 12
+
+<!-- Months -->
+<!-- tu tu = 2 + 2 -->
+
+| | | | | | | | |
+|-|-|-|-|-|-|-|-|
+| *1* | **wan**    | | *6*  | **luka wan**    | | *11* | **luka luka wan**    |
+| *2* | **tu**     | | *7*  | **luka tu**     | | *12* | **luka luka tu**     |
+| *3* | **tu wan** | | *8*  | **luka tu wan** | | | |
+| *4* | **tu tu**  | | *9*  | **luka tu tu**  | | | |
+| *5* | **luka**   | | *10* | **luka luka**   | | | |
+
+| | |
+|-|-|
+| *13* | ~~luka luka tu wan~~ |
+
+| | |
+|-|-|
+| *december* | **sike mun nanpa luka luka tu** |
+
+### 13 - 30
+
+<!-- Days -->
+<!-- tu tu = 2 * 2 -->
+<!-- mute = 3 -->
+
+| | | | | |
+|-|-|-|-|-|
+| *11* | ~~luka tu en wan~~      | | *16* | **luka mute en wan**   |
+| *12* | ~~luka tu en tu~~       | | *17* | **luka mute en tu**    |
+| *13* | **luka tu en mute**     | | *18* | **luka mute en mute**  |
+| *14* | **luka tu en tu tu**    | | *19* | **luka mute en tu tu** |
+| *15* | **luka tu en luka**     | | *20* | **luka mute en luka**  |
+| | | | | |
+| *21* | **luka tu tu en wan**   | | *26* | **luka luka en wan**   |
+| *22* | **luka tu tu en tu**    | | *27* | **luka luka en tu**    |
+| *23* | **luka tu tu en mute**  | | *28* | **luka luka en mute**  |
+| *24* | **luka tu tu en tu tu** | | *29* | **luka luka en tu tu** |
+| *25* | **luka tu tu en luka**  | | *30* | **luka luka en luka**  |
+
+| | |
+|-|-|
+| *31* | ~~luka luka en luka en wan~~ |
+| *32* | ~~luka luka en luka en tu~~  |
+
+| | |
+|-|-|
+| *25th of december* | **tenpo suno nanpa luka tu tu en luka pi sike mun nanpa luka luka tu** |
+
+### 31 - 99
+
+<!-- esun = 7 -->
+
+| | | | | |
+|-|-|-|-|-|
+| *16* | ~~luka tu en mute tu~~        | | *26*  | ~~luka tu tu en mute tu~~          |
+| *17* | ~~luka tu en esun~~           | | *27*  | ~~luka tu tu en esun~~             |
+| *18* | ~~luka tu en tu tu tu~~       | | *28*  | ~~luka tu tu en tu tu tu~~         |
+| *19* | ~~luka tu en mute mute~~      | | *29*  | ~~luka tu tu en mute mute~~        |
+| *20* | ~~luka tu en luka tu~~        | | *30*  | ~~luka tu tu en luka tu~~          |
+
+| | | | | |
+|-|-|-|-|-|
+| *31* | **luka tu mute en wan**       | | *91*  | **luka tu mute mute en wan**       |
+| *32* | **luka tu mute en tu**        | | *92*  | **luka tu mute mute en tu**        |
+| *33* | **luka tu mute en mute**      | | *93*  | **luka tu mute mute en mute**      |
+| *34* | **luka tu mute en tu tu**     | | *94*  | **luka tu mute mute en tu tu**     |
+| *35* | **luka tu mute en luka**      | | *95*  | **luka tu mute mute en luka**      |
+| *36* | **luka tu mute en mute tu**   | | *96*  | **luka tu mute mute en mute tu**   |
+| *37* | **luka tu mute en esun**      | | *97*  | **luka tu mute mute en esun**      |
+| *38* | **luka tu mute en tu tu tu**  | | *98*  | **luka tu mute mute en tu tu tu**  |
+| *39* | **luka tu mute en mute mute** | | *99*  | **luka tu mute mute en mute mute** |
+| *40* | **luka tu mute en luka tu**   | | *100* | ~~luka tu mute mute en luka tu~~   |
+
+### 100th - ...
+
+<!-- Years -->
+<!-- 100 = luka tu luka tu = luka tu pi nasin/poka/suli/(tenpo) tu = 10² -->
+
+| | |
+|-|-|
+| *2014* | **sike suno nanpa tu nanpa ala nanpa wan nanpa tu tu** |
