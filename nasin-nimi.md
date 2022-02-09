@@ -13,7 +13,7 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
   * [**<sub><sup>ADJECTIVE</sup></sub>**](#adjective)
   * [**<sub><sup>VERB</sup></sub>**](#verb): [**<sub><sup>PRE-VERB</sup></sub>**](#pre-verb)
   * [**<sub><sup>NOUN</sup></sub>**](#noun): [**<sub><sup>PRONOUN</sup></sub>**](#pronoun)
-  * [**<sub><sup>NOUN ADJECTIVE</sup></sub>**](#noun-adjective):
+  * [**<sub><sup>PRO-ADJECTIVE</sup></sub>**](#pro-adjective):
     * [**<sub><sup>PERSON</sup></sub>**](#person), [**<sub><sup>ORGAN</sup></sub>**](#organ), [**<sub><sup>LIFE-FORM</sup></sub>**](#life-form)
     * [**<sub><sup>THING</sup></sub>**](#thing), [**<sub><sup>CORRELATIVE</sup></sub>**](#correlative), [**<sub><sup>NUMBER</sup></sub>**](#number), [**<sub><sup>AREA</sup></sub>**](#area)
   * [**<sub><sup>PREPOSITION</sup></sub>**](#preposition)
@@ -180,11 +180,10 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 
 | |
 |:-|
-| [<sub><sup>ADJECTIVE</sup></sub>](#adjective)                                    |
-| [<sub><sup>VERB</sup></sub>](#verb): [<sub><sup>PRE-VERB</sup></sub>](#pre-verb) |
-| [<sub><sup>NOUN</sup></sub>](#noun): [<sub><sup>PRONOUN</sup></sub>](#pronoun)   |
-| [<sub><sup>NOUN ADJECTIVE</sup></sub>](#noun-adjective)                          |
-| [<sub><sup>PREPOSITION</sup></sub>](#preposition)                                |
+| [<sub><sup>NOUN</sup></sub>](#noun):           [<sub><sup>PRONOUN</sup></sub>](#pronoun)               |
+| [<sub><sup>VERB</sup></sub>](#verb):           [<sub><sup>PRE-VERB</sup></sub>](#pre-verb)             |
+| [<sub><sup>ADJECTIVE</sup></sub>](#adjective): [<sub><sup>PRO-ADJECTIVE</sup></sub>](#pro-adjective) |
+| [<sub><sup>PREPOSITION</sup></sub>](#preposition)                                                      |
 
 ### ADJECTIVE
 [↑](#content-word) <sub><sup>NIMI NOKA</sup></sub>
@@ -265,14 +264,8 @@ You can convert any <sub><sup>NOUN</sup></sub> into an <sub><sup>ADJECTIVE</sup>
 |:-|
 | <sub><sup>NOUN</sup></sub> *you* <br><sub><sup>ADJECTIVE</sup></sub> *of you* = *your* |
 
-### NOUN ADJECTIVE
-
-noun = nimi lawa
-adjective = nimi noka
-head adjective = nimi noka lawa
-
-person = "nimi suli poka jan"
-person = nimi noka jan
+### PRO-ADJECTIVE
+[↑](#adjective) <sub><sup>NIMI NOKA LAWA</sup></sub>
 
 *([nimi suli](#content-word) poka pi [nimi suli lawa](#noun))*
 
@@ -287,42 +280,42 @@ person = nimi noka jan
 | [<sub><sup>NUMBER</sup></sub>](#number) |
 | [<sub><sup>AREA</sup></sub>](#area) |
 
-You can convert any <sub><sup>NOUN ADJECTIVE</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning *that which is ...*. Its specific usage can be looked up in the [Dictionary](#dictionary).
+You can convert any <sub><sup>PRO-ADJECTIVE</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning *that which is ...*. Its specific usage can be looked up in the [Dictionary](#dictionary).
 
-| <sub><sup>NOUN ADJECTIVE</sup></sub> sewi |
+| <sub><sup>PRO-ADJECTIVE</sup></sub> sewi |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *divine* <br><sub><sup>NOUN</sup></sub> *that which is divine* = *God* |
 
 #### PERSON
-*([nimi suli poka](#noun-adjective) jan)*
+*([nimi suli poka](#pro-adjective) jan)*
 
 | <sub><sup>PERSON</sup></sub> meli |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *female* <br><sub><sup>NOUN</sup></sub> *feminine person* = *woman* |
 
 #### ORGAN
-*([nimi suli poka](#noun-adjective) ilo)*
+*([nimi suli poka](#pro-adjective) ilo)*
 
 | <sub><sup>ORGAN</sup></sub> lukin |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *light-sensitive* <br><sub><sup>NOUN</sup></sub> *light-sensitive organ* = *eye* <br><sub><sup>VERB</sup></sub> *to use eyes on* = *to see* |
 
 #### LIFE-FORM
-*([nimi suli poka](#noun-adjective) sijelo)*
+*([nimi suli poka](#pro-adjective) sijelo)*
 
 | <sub><sup>LIFE-FORM</sup></sub> waso |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *swimming* <br><sub><sup>NOUN</sup></sub> *swimming life-form* = *fish* |
 
 #### THING
-*([nimi suli poka](#noun-adjective) ijo)*
+*([nimi suli poka](#pro-adjective) ijo)*
 
 | <sub><sup>THING</sup></sub> sike |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *round* <br><sub><sup>NOUN</sup></sub> *round thing* = *circle*, *ball* |
 
 #### CORRELATIVE
-*([nimi suli poka](#noun-adjective) sama)*
+*([nimi suli poka](#pro-adjective) sama)*
 
 | <sub><sup>CORRELATIVE</sup></sub> ale |
 |:-|
@@ -347,14 +340,14 @@ You can convert any <sub><sup>CORRELATIVE</sup></sub> into an <sub><sup>ADJECTIV
 | <sub><sup>SENTENCE</sup></sub> *What is she doing?* |
 
 #### NUMBER
-*([nimi suli poka](#noun-adjective) nanpa)*
+*([nimi suli poka](#pro-adjective) nanpa)*
 
 | <sub><sup>NUMBER</sup></sub> tu |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *two* <br><sub><sup>NOUN</sup></sub> *two things* = *pair* |
 
 #### AREA
-*([nimi suli poka](#noun-adjective) pi ijo ale)*
+*([nimi suli poka](#pro-adjective) pi ijo ale)*
 
 | <sub><sup>AREA</sup></sub> insa |
 |:-|
@@ -572,7 +565,7 @@ Before **la**, the [<sub><sup>CORRELATIVE</sup></sub>](#correlative) **ni:** in 
 
 #### NAME
 
-[<sub><sup>NUMBER</sup></sub>](#number)s can be used as <sub><sup>NAME</sup></sub>s after **nanpa**. (Plus, the [<sub><sup>NOUN ADJECTIVE</sup></sub>](#noun-adjective) **nanpa** itself can be used as a <sub><sup>NAME</sup></sub>.)
+[<sub><sup>NUMBER</sup></sub>](#number)s can be used as <sub><sup>NAME</sup></sub>s after **nanpa**. (Plus, the [<sub><sup>PRO-ADJECTIVE</sup></sub>](#pro-adjective) **nanpa** itself can be used as a <sub><sup>NAME</sup></sub>.)
 
 | sina nanpa wan. | toki nanpa wan |
 |:-|:-|
