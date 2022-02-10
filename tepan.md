@@ -10,7 +10,7 @@ In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can 
 
 ## Grammar
 
-### [PRE-VERB](nasin-nimi.md#pre-verb)
+### [PRE-VERB](nimi-ale.md#pre-verb)
 
 In my dialect, <sub><sup>PRE-VERB</sup></sub>s are not omitted.
 

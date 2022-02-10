@@ -93,7 +93,7 @@ The <sub><sup>CONTEXT PHRASE</sup></sub> (i.e. a <sub><sup>PREPOSITIONAL PHRASE<
 
 ## Grammar
 
-### [PRE-VERB](nasin-nimi.md#pre-verb)
+### [PRE-VERB](nimi-ale.md#pre-verb)
 
 Additional <sub><sup>PRE-VERB</sup></sub>s are omitted.
 
