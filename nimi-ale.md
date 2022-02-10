@@ -300,26 +300,29 @@ You can convert any <sub><sup>CORRELATIVE</sup></sub> into an <sub><sup>ADJECTIV
 ### PREPOSITION
 <sub><sup>LUKA POKA SULI</sup></sub>
 
+A <sub><sup>SENTENCE</sup></sub> can end with a <sub><sup>CONTEXT</sup></sub> that consists of one or many <sub><sup>PREPOSITIONAL PHRASE</sup></sub>s that constitute the so-called <sub><sup>CONTEXT</sup></sub>.
+
+| mi pana e kala | tawa ona. | | mi pana e kala tawa ona. |
+|:-|:-|:-|:-|
+| *I hand out fish.* | *to her* | | *I give fish to her.* |
+
+The <sub><sup>CONTEXT</sup></sub> can describe the whole <sub><sup>SENTENCE</sup></sub> or its <sub><sup>OBJECT</sup></sub>, for example. See also [<sub><sup>IF-THEN</sup></sub>](#if-then).<!-- TODO or just any part of the sentence? or more restrictive? -->
+
+| mi lukin e meli pimeja. | lon sinpin tomo | | mi lukin e meli pimeja lon sinpin tomo. |
+|:-|:-|:-|:-|
+| *I see a black lady.* | *in front of the building* | | *I see a black lady in front of the building.* |
+
+When a <sub><sup>PREPOSITION</sup></sub> is used as an <sub><sup>ADJECTIVE</sup></sub> for the <sub><sup>PREDICATE</sup></sub> as well as a <sub><sup>PREPOSITION</sup></sub> for the <sub><sup>CONTEXT</sup></sub>, the <sub><sup>PREPOSITION</sup></sub> is omitted.
+
+| mi tawa ~~tawa~~ sina.    | | mi tawa ala ~~tawa~~ sina.    |
+|:-|:-|:-|
+| *I am going towards you.* | | *I am not going towards you.* |
+
 You can convert any <sub><sup>PREPOSITION</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *being ...* omitting its argument.
 
 | <sub><sup>PREPOSITION</sup></sub> tawa |
 |:-|
 | <sub><sup>PREPOSITION</sup></sub> *towards* <br><sub><sup>ADJECTIVE</sup></sub> *being towards* = *going* |
-
-<!-- TODO context phrase? -->
-A prepositional phrase can only be used at the end of a sentence. See also [<sub><sup>IF-THEN</sup></sub>](#if-then).
-
-| mi pana e kala tawa ona. |
-|:-|
-| *I give fish to her.* |
-
-<!-- TODO adjective in predicate + preposition in context -->
-
-When a <sub><sup>PREPOSITION</sup></sub> is used both as an <sub><sup>ADJECTIVE</sup></sub> and a <sub><sup>PREPOSITION</sup></sub>, the <sub><sup>PREPOSITION</sup></sub> is omitted.
-
-| mi tawa ~~tawa~~ sina.    | | mi tawa ala ~~tawa~~ sina.    |
-|:-|:-|:-|
-| *I am going towards you.* | | *I am not going towards you.* |
 
 ## PARTICLE
 <sub><sup>NIMI LILI</sup></sub>
