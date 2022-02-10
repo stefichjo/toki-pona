@@ -1,29 +1,7 @@
-# Parts of Speech, Word Classes and Dictionary
-*(nasin nimi)*
+# Dictionary
+*(nimi ale)*
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
-
-## Parts of Speech and Word Classes
-
-There are two word classes: [content words](#content-word) (i.e. these parts of speech: adjectives, prepositions, verbs, auxiliaries (or "pre-verbs") and nouns) and [particles](#particle) (i.e. these parts of speech: markers, conjunctions and onomatopeia). As a rule of thumb, you can change the part of speech of any content word, but you can't change the part of speech of a particle.
-
-But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verbs") and prepositions can be converted into nouns, adjectives and verbs, but not the other way around. Also, an onomatopeia can be converted into a content word meaning *the name ...* or *the sound ...*, and a content word can be used as an onomatopeia, e.g. **nanpa**.
-
-* [**<sub><sup>CONTENT WORD</sup></sub>**](#content-word)
-  * [**<sub><sup>ADJECTIVE</sup></sub>**](#adjective)
-  * [**<sub><sup>VERB</sup></sub>**](#verb): [**<sub><sup>PRE-VERB</sup></sub>**](#pre-verb)
-  * [**<sub><sup>NOUN</sup></sub>**](#noun): [**<sub><sup>PRONOUN</sup></sub>**](#pronoun)
-  * [**<sub><sup>PRO-ADJECTIVE</sup></sub>**](#pro-adjective):
-    * [**<sub><sup>PERSON</sup></sub>**](#person), [**<sub><sup>ORGAN</sup></sub>**](#organ), [**<sub><sup>LIFE-FORM</sup></sub>**](#life-form)
-    * [**<sub><sup>THING</sup></sub>**](#thing), [**<sub><sup>CORRELATIVE</sup></sub>**](#correlative), [**<sub><sup>NUMBER</sup></sub>**](#number), [**<sub><sup>AREA</sup></sub>**](#area)
-  * [**<sub><sup>PREPOSITION</sup></sub>**](#preposition)
-* [**<sub><sup>PARTICLE</sup></sub>**](#particle)
-  * [**<sub><sup>MARKER</sup></sub>**](#marker): [**<sub><sup>MOOD MARKER</sup></sub>**](#mood-marker), [**<sub><sup>CASE MARKER</sup></sub>**](#case-marker)
-  * [**<sub><sup>CONJUNCTION</sup></sub>**](#conjunction): [**<sub><sup>AND</sup></sub>**](#and), [**<sub><sup>OR</sup></sub>**](#or), [**<sub><sup>IF-THEN</sup></sub>**](#if-then)
-  * [**<sub><sup>ONOMATOPEIA</sup></sub>**](#onomatopeia): [**<sub><sup>NAME</sup></sub>**](#name), [**<sub><sup>INTERJECTION</sup></sub>**](#interjection)
-
-## Dictionary
-*(nimi ale)*
 
 | <sub><sup>SITELEN</sup></sub> | <sub><sup>KON</sup></sub> |
 |:-:|:-|
@@ -175,63 +153,16 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 | | [**<sub><sup>THING</sup></sub>**](#thing) <br><sub><sup>ADJECTIVE</sup></sub> *vast* <br><sub><sup>NOUN</sup></sub> *space*; *vacuum*, *void* |
 | <img src="musi/pona/wile.png" height="50" title="wile"><br>**wile** | [**<sub><sup>PRE-VERB</sup></sub>**](#pre-verb) <br><sub><sup>PRE-VERB</sup></sub> **must**, **need**, **require**, **should**, **want**, **wish** <br><sub><sup>ADJECTIVE</sup></sub> *inevitable*, *necessary* |
 
+nasin nimi
+As a rule of thumb, one can change the part of speech of any content word, but one can't change the part of speech of a particle.
+
+But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verbs") and prepositions can be converted into nouns, adjectives and verbs, but not the other way around. Also, an onomatopeia can be converted into a content word meaning *the name ...* or *the sound ...*, and a content word can be used as an onomatopeia or name, e.g. **nanpa**.
+
 ## CONTENT WORD
-[↑](#parts-of-speech-and-word-classes) <sub><sup>NIMI SULI</sup></sub>
-
-| |
-|:-|
-| [<sub><sup>NOUN</sup></sub>](#noun):           [<sub><sup>PRONOUN</sup></sub>](#pronoun)               |
-| [<sub><sup>VERB</sup></sub>](#verb):           [<sub><sup>PRE-VERB</sup></sub>](#pre-verb)             |
-| [<sub><sup>ADJECTIVE</sup></sub>](#adjective): [<sub><sup>PRO-ADJECTIVE</sup></sub>](#pro-adjective) |
-| [<sub><sup>PREPOSITION</sup></sub>](#preposition)                                                      |
-
-### ADJECTIVE
-[↑](#content-word) <sub><sup>NIMI NOKA</sup></sub>
-
-| <sub><sup>ADJECTIVE</sup></sub> pona |
-|:-|
-| <sub><sup>ADJECTIVE</sup></sub> *peaceful* |
-
-### VERB
-[↑](#content-word) <sub><sup>NIMI PALI</sup></sub>
-
-| |
-|:-|
-| [<sub><sup>PRE-VERB</sup></sub>](#pre-verb) |
-
-You can convert any <sub><sup>ADJECTIVE</sup></sub> into a <sub><sup>VERB</sup></sub> meaning *to make ...*.
-
-| <sub><sup>ADJECTIVE</sup></sub> pona |
-|:-|
-| <sub><sup>ADJECTIVE</sup></sub> *peaceful* <br><sub><sup>VERB</sup></sub> *to make peaceful* = *to pacify* |
-
-You can convert any <sub><sup>VERB</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *who ...*.
-
-| <sub><sup>VERB</sup></sub> moku |
-|:-|
-| <sub><sup>VERB</sup></sub> *to eat* <br><sub><sup>ADJECTIVE</sup></sub> *who eats* = *eating* |
-
-#### PRE-VERB
-[↑](#verb) <sub><sup>NIMI PALI LAWA</sup></sub>
-
-When the <sub><sup>MAIN CLAUSE</sup></sub> describes the modality of the <sub><sup>SUBORDINATE CLAUSE</sup></sub> with an <sub><sup>ADJECTIVE</sup></sub>, the <sub><sup>MAIN CLAUSE</sup></sub>'s <sub><sup>ADJECTIVE</sup></sub> can become the <sub><sup>SUBORDINATE CLAUSE</sup></sub>'s <sub><sup>PRE-VERB</sup></sub>.
-
-| <sub><sup>PRE-VERB</sup></sub> ken | ni li ken: mi toki. → mi ken toki. |
-|:-|:-|
-| <sub><sup>PRE-VERB</sup></sub> *can* <br><sub><sup>ADJECTIVE</sup></sub> *possible* | *I can talk.* |
-
-When <sub><sup>MAIN CLAUSE</sup></sub> and <sub><sup>SUBORDINATE CLAUSE</sup></sub> share the same <sub><sup>SUBJECT</sup></sub>, the <sub><sup>MAIN CLAUSE</sup></sub>'s <sub><sup>VERB</sup></sub> can become the <sub><sup>SUBORDINATE CLAUSE</sup></sub>'s <sub><sup>PRE-VERB</sup></sub>.
-
-| <sub><sup>PRE-VERB</sup></sub> sona | mi sona e (nasin) ni: mi toki. → mi sona toki. |
-|:-|:-|
-| <sub><sup>PRE-VERB</sup></sub> *to know how to* <br><sub><sup>VERB</sup></sub> *to know* | *I know how to talk.* |
+<sub><sup>NIMI SULI</sup></sub>
 
 ### NOUN
-[↑](#content-word) <sub><sup>NIMI LAWA</sup></sub>
-
-| |
-|:-|
-| [<sub><sup>PRONOUN</sup></sub>](#pronoun) |
+<sub><sup>NIMI LAWA</sup></sub>
 
 You can convert any <sub><sup>ADJECTIVE</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning *the state of being ...*.
 
@@ -258,64 +189,94 @@ You can convert any <sub><sup>NOUN</sup></sub> into an <sub><sup>ADJECTIVE</sup>
 | <sub><sup>NOUN</sup></sub> *someone* <br><sub><sup>ADJECTIVE</sup></sub> *of someone* = *someone's* | <sub><sup>ADJECTIVE</sup></sub> *hot* <br><sub><sup>NOUN</sup></sub> *that which is hot* = *fire* <br><sub><sup>VERB</sup></sub> *to use fire on* = *to cook* |
 
 #### PRONOUN
-[↑](#noun) <sub><sup>NIMI LAWA ESUN</sup></sub>
+<sub><sup>NIMI LAWA ESUN</sup></sub>
 
 | <sub><sup>PRONOUN</sup></sub> sina |
 |:-|
 | <sub><sup>NOUN</sup></sub> *you* <br><sub><sup>ADJECTIVE</sup></sub> *of you* = *your* |
 
-### PRO-ADJECTIVE
-[↑](#adjective) <sub><sup>NIMI NOKA LAWA</sup></sub>
+### VERB
+<sub><sup>NIMI PALI</sup></sub>
 
-*([nimi suli](#content-word) poka pi [nimi suli lawa](#noun))*
+You can convert any <sub><sup>ADJECTIVE</sup></sub> into a <sub><sup>VERB</sup></sub> meaning *to make ...*.
 
-| |
+| <sub><sup>ADJECTIVE</sup></sub> pona |
 |:-|
-| [<sub><sup>PERSON</sup></sub>](#person) |
-| [<sub><sup>ORGAN</sup></sub>](#organ) |
-| [<sub><sup>LIFE-FORM</sup></sub>](#life-form) |
-| |
-| [<sub><sup>THING</sup></sub>](#thing) |
-| [<sub><sup>CORRELATIVE</sup></sub>](#correlative) |
-| [<sub><sup>NUMBER</sup></sub>](#number) |
-| [<sub><sup>AREA</sup></sub>](#area) |
+| <sub><sup>ADJECTIVE</sup></sub> *peaceful* <br><sub><sup>VERB</sup></sub> *to make peaceful* = *to pacify* |
 
-You can convert any <sub><sup>PRO-ADJECTIVE</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning *that which is ...*. Its specific usage can be looked up in the [Dictionary](#dictionary).
+You can convert any <sub><sup>VERB</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *who ...*.
+
+| <sub><sup>VERB</sup></sub> moku |
+|:-|
+| <sub><sup>VERB</sup></sub> *to eat* <br><sub><sup>ADJECTIVE</sup></sub> *who eats* = *eating* |
+
+#### PRE-VERB
+<sub><sup>NIMI PALI LAWA</sup></sub>
+
+When the <sub><sup>MAIN CLAUSE</sup></sub> describes the modality of the <sub><sup>SUBORDINATE CLAUSE</sup></sub> with an <sub><sup>ADJECTIVE</sup></sub>, the <sub><sup>MAIN CLAUSE</sup></sub>'s <sub><sup>ADJECTIVE</sup></sub> can become the <sub><sup>SUBORDINATE CLAUSE</sup></sub>'s <sub><sup>PRE-VERB</sup></sub>.
+
+| <sub><sup>PRE-VERB</sup></sub> ken | ni li ken: mi toki. → mi ken toki. |
+|:-|:-|
+| <sub><sup>PRE-VERB</sup></sub> *can* <br><sub><sup>ADJECTIVE</sup></sub> *possible* | *I can talk.* |
+
+When <sub><sup>MAIN CLAUSE</sup></sub> and <sub><sup>SUBORDINATE CLAUSE</sup></sub> share the same <sub><sup>SUBJECT</sup></sub>, the <sub><sup>MAIN CLAUSE</sup></sub>'s <sub><sup>VERB</sup></sub> can become the <sub><sup>SUBORDINATE CLAUSE</sup></sub>'s <sub><sup>PRE-VERB</sup></sub>.
+
+| <sub><sup>PRE-VERB</sup></sub> sona | mi sona e (nasin) ni: mi toki. → mi sona toki. |
+|:-|:-|
+| <sub><sup>PRE-VERB</sup></sub> *to know how to* <br><sub><sup>VERB</sup></sub> *to know* | *I know how to talk.* |
+
+### ADJECTIVE
+<sub><sup>NIMI NOKA</sup></sub>
+
+| <sub><sup>ADJECTIVE</sup></sub> pona |
+|:-|
+| <sub><sup>ADJECTIVE</sup></sub> *peaceful* |
+
+#### PRO-ADJECTIVE
+<sub><sup>NIMI NOKA ESUN</sup></sub>
+
+You can convert any <sub><sup>PRO-ADJECTIVE</sup></sub> into a <sub><sup>NOUN</sup></sub>, that can be paraphrased as *that which is ...*. The specific meaning must be looked up in the [Dictionary](#dictionary).
 
 | <sub><sup>PRO-ADJECTIVE</sup></sub> sewi |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *divine* <br><sub><sup>NOUN</sup></sub> *that which is divine* = *God* |
 
-#### PERSON
-*([nimi suli poka](#pro-adjective) jan)*
+##### PERSON
+<sub><sup>NIMI NOKA JAN</sup></sub>
 
 | <sub><sup>PERSON</sup></sub> meli |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *female* <br><sub><sup>NOUN</sup></sub> *feminine person* = *woman* |
 
-#### ORGAN
-*([nimi suli poka](#pro-adjective) ilo)*
+##### ORGAN
+<sub><sup>NIMI NOKA ILO</sup></sub>
 
 | <sub><sup>ORGAN</sup></sub> lukin |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *light-sensitive* <br><sub><sup>NOUN</sup></sub> *light-sensitive organ* = *eye* <br><sub><sup>VERB</sup></sub> *to use eyes on* = *to see* |
 
-#### LIFE-FORM
-*([nimi suli poka](#pro-adjective) sijelo)*
+##### LIFE-FORM
+<sub><sup>NIMI NOKA SIJELO</sup></sub>
 
 | <sub><sup>LIFE-FORM</sup></sub> waso |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *swimming* <br><sub><sup>NOUN</sup></sub> *swimming life-form* = *fish* |
 
-#### THING
-*([nimi suli poka](#pro-adjective) ijo)*
+##### THING
+<sub><sup>NIMI NOKA IJO</sup></sub>
 
 | <sub><sup>THING</sup></sub> sike |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *round* <br><sub><sup>NOUN</sup></sub> *round thing* = *circle*, *ball* |
 
-#### CORRELATIVE
-*([nimi suli poka](#pro-adjective) sama)*
+###### AREA
+
+| <sub><sup>AREA</sup></sub> insa |
+|:-|
+| <sub><sup>ADJECTIVE</sup></sub> *inner* <br><sub><sup>NOUN</sup></sub> *inner area* = *innards* |
+
+##### CORRELATIVE
+<sub><sup>NIMI NOKA ESUN</sup></sub><!-- TODO correlative = pro-adjective ? -->
 
 | <sub><sup>CORRELATIVE</sup></sub> ale |
 |:-|
@@ -339,22 +300,15 @@ You can convert any <sub><sup>CORRELATIVE</sup></sub> into an <sub><sup>ADJECTIV
 |:-|
 | <sub><sup>SENTENCE</sup></sub> *What is she doing?* |
 
-#### NUMBER
-*([nimi suli poka](#pro-adjective) nanpa)*
+##### NUMBER
+<sub><sup>NIMI NOKA NANPA</sup></sub>
 
 | <sub><sup>NUMBER</sup></sub> tu |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *two* <br><sub><sup>NOUN</sup></sub> *two things* = *pair* |
 
-#### AREA
-*([nimi suli poka](#pro-adjective) pi ijo ale)*
-
-| <sub><sup>AREA</sup></sub> insa |
-|:-|
-| <sub><sup>ADJECTIVE</sup></sub> *inner* <br><sub><sup>NOUN</sup></sub> *inner area* = *innards* |
-
 ### PREPOSITION
-[↑](#content-word) <sub><sup>LUKA POKA SULI</sup></sub>
+<sub><sup>LUKA POKA SULI</sup></sub>
 
 <!-- TODO: LUKA POKA (SULI); NIMI (SULI) -->
 
