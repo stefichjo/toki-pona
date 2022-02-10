@@ -334,29 +334,15 @@ When a <sub><sup>PREPOSITION</sup></sub> is used both as an <sub><sup>ADJECTIVE<
 ## PARTICLE
 *([nimi](#parts-of-speech-and-word-classes) lili)*
 
-| |
-|:-|
-| [<sub><sup>MARKER</sup></sub>](#marker): [<sub><sup>MOOD</sup></sub>](#mood), [<sub><sup>CASE</sup></sub>](#case) |
-| [<sub><sup>CONJUNCTION</sup></sub>](#conjunction): [<sub><sup>AND</sup></sub>](#and), [<sub><sup>OR</sup></sub>](#or), [<sub><sup>IF-THEN</sup></sub>](#if-then) |
-| [<sub><sup>ONOMATOPEIA</sup></sub>](#onomatopeia): [<sub><sup>NAME</sup></sub>](#name), [<sub><sup>INTERJECTION</sup></sub>](#interjection) |
-
 <sub><sup>PARTICLE</sup></sub>s can only be used as <sub><sup>PARTICLE</sup></sub>s. (Only [<sub><sup>ONOMATOPEIA</sup></sub>](#onomatopeia)s can be both <sub><sup>PARTICLE</sup></sub>s and [<sub><sup>CONTENT WORD</sup></sub>](#content-word)s.)
 
 ### MARKER
 *([nimi lili](#particle) lawa)*
 
-| |
-|:-|
-| [<sub><sup>MOOD</sup></sub>](#mood): [<sub><sup>INDICATIVE MOOD</sup></sub>](#indicative), [<sub><sup>DEONTIC MOOD</sup></sub>](#deontic) |
-| [<sub><sup>CASE</sup></sub>](#case): [<sub><sup>GENITIVE CASE</sup></sub>](#genitive), [<sub><sup>ACCUSATIVE CASE</sup></sub>](#accusative) |
-
 #### MOOD
 
-| |
-|:-|
-| [<sub><sup>INDICATIVE MOOD</sup></sub>](#indicative): **li** |
-| [<sub><sup>DEONTIC MOOD</sup></sub>](#deontic): **o** |
- 
+<!-- predicate markerk -->
+
 ##### INDICATIVE
 *([nimi lili lawa](#marker) "li")*
 
@@ -413,11 +399,6 @@ A <sub><sup>VOLITIVE</sup></sub> can be reduced to the <sub><sup>OBJECT</sup></s
 
 #### CASE
 
-| |
-|:-|
-| [<sub><sup>GENITIVE CASE</sup></sub>](#genitive): **pi** |
-| [<sub><sup>ACCUSATIVE CASE</sup></sub>](#accusative): **e** |
-
 ##### GENITIVE
 *([nimi lili lawa](#marker) "pi")*
 
@@ -446,12 +427,6 @@ When there is enough context, the <sub><sup>OBJECT</sup></sub> of a [<sub><sup>V
 
 ### CONJUNCTION
 *([nimi lili](#particle) insa)*
-
-| |
-|:-|
-| [<sub><sup>AND</sup></sub>](#and) |
-| [<sub><sup>OR</sup></sub>](#or) |
-| [<sub><sup>IF-THEN</sup></sub>](#if-then) |
 
 #### AND
 *([nimi lili insa](#conjunction) "en")*
@@ -506,11 +481,6 @@ Before **la**, the [<sub><sup>CORRELATIVE</sup></sub>](#correlative) **ni:** in 
 
 ### ONOMATOPEIA
 *([nimi lili](#particle) poka)*
-
-| |
-|:-|
-| [<sub><sup>NAME</sup></sub>](#name) |
-| [<sub><sup>INTERJECTION</sup></sub>](#interjection) |
 
 <sub><sup>ONOMATOPEIA</sup></sub>s are <sub><sup>NAME</sup></sub>s and <sub><sup>INTERJECTION</sup></sub>s. They can be both <sub><sup>PARTICLE</sup></sub>s and [<sub><sup>CONTENT WORD</sup></sub>](#content-word)s when used without **kalama**.
 
