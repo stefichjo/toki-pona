@@ -155,4 +155,5 @@ jan li sona e <sub><sup>SEWI</sup></sub>, la ona li ken weka.
 
 ---
 
+conjunction
 anu, en, a, mu
