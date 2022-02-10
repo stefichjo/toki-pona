@@ -165,32 +165,16 @@ But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verb
 ### NOUN
 <sub><sup>NIMI LAWA</sup></sub>
 
-You can convert any <sub><sup>ADJECTIVE</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning *the state of being ...*.
+You can convert any <sub><sup>NOUN</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *of ...*. 
 
-| <sub><sup>ADJECTIVE</sup></sub> pona |
+| <sub><sup>NOUN</sup></sub> jan |
 |:-|
-| <sub><sup>ADJECTIVE</sup></sub> *peaceful* <br><sub><sup>NOUN</sup></sub> *the state of being peaceful* = *peace* |
-
-You can convert any <sub><sup>VERB</sup></sub> via an <sub><sup>ADJECTIVE</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning *the act of ...*.
-
-| <sub><sup>VERB</sup></sub> moku |
-|:-|
-| <sub><sup>VERB</sup></sub> *to eat* <br><sub><sup>ADJECTIVE</sup></sub> *eating* <br><sub><sup>NOUN</sup></sub> *the state of being eating* = *the act of eating* |
-
-You can convert any <sub><sup>VERB</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning *something that you ...*.
-
-| <sub><sup>VERB</sup></sub> moku |
-|:-|
-| <sub><sup>VERB</sup></sub> *to eat* <br><sub><sup>NOUN</sup></sub> *something that you eat* = *food* |
-
-You can convert any <sub><sup>NOUN</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *of ...* or into a <sub><sup>VERB</sup></sub> meaning *to use ... on*.
-
-| <sub><sup>NOUN</sup></sub> jan | <sub><sup>ADJECTIVE</sup></sub> seli |
-|:-|:-|
-| <sub><sup>NOUN</sup></sub> *someone* <br><sub><sup>ADJECTIVE</sup></sub> *of someone* = *someone's* | <sub><sup>ADJECTIVE</sup></sub> *hot* <br><sub><sup>NOUN</sup></sub> *that which is hot* = *fire* <br><sub><sup>VERB</sup></sub> *to use fire on* = *to cook* |
+| <sub><sup>NOUN</sup></sub> *someone* <br><sub><sup>ADJECTIVE</sup></sub> *of someone* = *someone's* |
 
 #### PRONOUN
 <sub><sup>NIMI LAWA ESUN</sup></sub>
+
+You can convert any <sub><sup>PRONOUN</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *of ...*. 
 
 | <sub><sup>PRONOUN</sup></sub> sina |
 |:-|
@@ -199,17 +183,11 @@ You can convert any <sub><sup>NOUN</sup></sub> into an <sub><sup>ADJECTIVE</sup>
 ### VERB
 <sub><sup>NIMI PALI</sup></sub>
 
-You can convert any <sub><sup>ADJECTIVE</sup></sub> into a <sub><sup>VERB</sup></sub> meaning *to make ...*.
-
-| <sub><sup>ADJECTIVE</sup></sub> pona |
-|:-|
-| <sub><sup>ADJECTIVE</sup></sub> *peaceful* <br><sub><sup>VERB</sup></sub> *to make peaceful* = *to pacify* |
-
-You can convert any <sub><sup>VERB</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *who ...*.
+You can convert any <sub><sup>VERB</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning *something that you ...*.
 
 | <sub><sup>VERB</sup></sub> moku |
 |:-|
-| <sub><sup>VERB</sup></sub> *to eat* <br><sub><sup>ADJECTIVE</sup></sub> *who eats* = *eating* |
+| <sub><sup>VERB</sup></sub> *to eat* <br><sub><sup>NOUN</sup></sub> *something that you eat* = *food* |
 
 #### PRE-VERB
 <sub><sup>NIMI PALI LAWA</sup></sub>
@@ -229,9 +207,23 @@ When <sub><sup>MAIN CLAUSE</sup></sub> and <sub><sup>SUBORDINATE CLAUSE</sup></s
 ### ADJECTIVE
 <sub><sup>NIMI NOKA</sup></sub>
 
+You can convert any <sub><sup>ADJECTIVE</sup></sub> into a <sub><sup>VERB</sup></sub> meaning *to make ...*.
+
 | <sub><sup>ADJECTIVE</sup></sub> pona |
 |:-|
-| <sub><sup>ADJECTIVE</sup></sub> *peaceful* |
+| <sub><sup>ADJECTIVE</sup></sub> *peaceful* <br><sub><sup>VERB</sup></sub> *to make peaceful* = *to pacify* |
+
+You can convert any <sub><sup>ADJECTIVE</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning *the state of being ...*.
+
+| <sub><sup>ADJECTIVE</sup></sub> pona |
+|:-|
+| <sub><sup>ADJECTIVE</sup></sub> *peaceful* <br><sub><sup>NOUN</sup></sub> *the state of being peaceful* = *peace* |
+
+You can convert any <sub><sup>VERB</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *...ing* (i.e. *who ...s*). Such a converted <sub><sup>ADJECTIVE</sup></sub> can be further converted into a <sub><sup>NOUN</sup></sub> meaning *the act of ...ing* (i.e. *the state of being ...ing*).
+
+| <sub><sup>VERB</sup></sub> moku |
+|:-|
+| <sub><sup>VERB</sup></sub> *to eat* <br><sub><sup>ADJECTIVE</sup></sub> *eating* <br><sub><sup>NOUN</sup></sub> *the act of eating* |
 
 #### PRO-ADJECTIVE
 <sub><sup>NIMI NOKA ESUN</sup></sub>
@@ -241,6 +233,12 @@ You can convert any <sub><sup>PRO-ADJECTIVE</sup></sub> into a <sub><sup>NOUN</s
 | <sub><sup>PRO-ADJECTIVE</sup></sub> sewi |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *divine* <br><sub><sup>NOUN</sup></sub> *that which is divine* = *God* |
+
+A converted <sub><sup>NOUN</sup></sub> can be furthermore converted into a <sub><sup>VERB</sup></sub>, that can be paraphrased as *to use ... on*.
+
+| <sub><sup>PRO-ADJECTIVE</sup></sub> seli |
+|:-|
+| <sub><sup>ADJECTIVE</sup></sub> *hot* <br><sub><sup>NOUN</sup></sub> *that which is hot* = *fire* <br><sub><sup>VERB</sup></sub> *to use fire on* = *to cook* |
 
 ##### PERSON
 <sub><sup>NIMI NOKA JAN</sup></sub>
@@ -332,19 +330,20 @@ When a <sub><sup>PREPOSITION</sup></sub> is used both as an <sub><sup>ADJECTIVE<
 | *I am going towards you.* | | *I am not going towards you.* |
 
 ## PARTICLE
-*([nimi](#parts-of-speech-and-word-classes) lili)*
+<sub><sup>NIMI LILI</sup></sub>
 
 <sub><sup>PARTICLE</sup></sub>s can only be used as <sub><sup>PARTICLE</sup></sub>s. (Only [<sub><sup>ONOMATOPEIA</sup></sub>](#onomatopeia)s can be both <sub><sup>PARTICLE</sup></sub>s and [<sub><sup>CONTENT WORD</sup></sub>](#content-word)s.)
 
 ### MARKER
-*([nimi lili](#particle) lawa)*
+<sub><sup>LUKA POKI</sup></sub>
 
 #### MOOD
+<sub><sup>POKI PALI</sup></sub>
 
-<!-- predicate markerk -->
+<!-- predicate marker -->
 
 ##### INDICATIVE
-*([nimi lili lawa](#marker) "li")*
+<sub><sup>POKI PI PALI LON</sup></sub>
 
 The <sub><sup>MOOD</sup></sub> **li** marks the <sub><sup>PREDICATE</sup></sub> of a <sub><sup>SENTENCE</sup></sub> as <sub><sup>INDICATIVE</sup></sub>.
 
@@ -365,7 +364,7 @@ If the <sub><sup>SUBJECT</sup></sub> is just **mi** or **sina**, the <sub><sup>M
 | *I am a man.* | *You are new.* |
 
 ##### DEONTIC
-*([nimi lili lawa](#marker) "o")*
+<sub><sup>POKI PI PALI WILE</sup></sub>
 
 The <sub><sup>MOOD</sup></sub> **o** marks a <sub><sup>SENTENCE</sup></sub> as <sub><sup>DEONTIC</sup></sub> (i.e. <sub><sup>VOLITIVE</sup></sub>, <sub><sup>VOCATIVE</sup></sub> or <sub><sup>IMPERATIVE</sup></sub>).
 
@@ -398,9 +397,10 @@ A <sub><sup>VOLITIVE</sup></sub> can be reduced to the <sub><sup>OBJECT</sup></s
 | *May you have a good meal.* → *Bon appétit!* |
 
 #### CASE
+<sub><sup>POKI</sup></sub>
 
 ##### GENITIVE
-*([nimi lili lawa](#marker) "pi")*
+<sub><sup>POKI NOKA</sup></sub>
 
 The <sub><sup>CASE</sup></sub> **pi** marks a <sub><sup>NOUN PHRASE</sup></sub> that can be translated as a <sub><sup>GENITIVE</sup></sub> or as an <sub><sup>ADJECTIVE</sup></sub>. A <sub><sup>SENTENCE</sup></sub> shouldn't have more than one <sub><sup>GENITIVE PHRASE</sup></sub>.
 
@@ -415,7 +415,7 @@ When the <sub><sup>NOUN PHRASE</sup></sub> consists of only one [<sub><sup>NOUN<
 | *the language of good* → *the good language* |
 
 ##### ACCUSATIVE
-*([nimi lili lawa](#marker) "e")*
+<sub><sup>POKI ANPA</sup></sub>
 
 The <sub><sup>CASE</sup></sub> **e** marks a <sub><sup>NOUN PHRASE</sup></sub> as an <sub><sup>ACCUSATIVE</sup></sub>, i.e. the <sub><sup>MAIN VERB</sup></sub>'s <sub><sup>OBJECT</sup></sub>.
 
@@ -426,10 +426,10 @@ When there is enough context, the <sub><sup>OBJECT</sup></sub> of a [<sub><sup>V
 | *The men know things/that/it.* → *The men know.* |
 
 ### CONJUNCTION
-*([nimi lili](#particle) insa)*
+<sub><sup>?</sup></sub><!-- TODO -->
 
 #### AND
-*([nimi lili insa](#conjunction) "en")*
+<sub><sup>?</sup></sub><!-- TODO -->
 
 The <sub><sup>CONJUNCTION</sup></sub> **en** means *and*. It combines two <sub><sup>NOUN PHRASE</sup></sub>s into one.
 
@@ -444,7 +444,7 @@ In <sub><sup>SENTENCE</sup></sub>s, the <sub><sup>CONJUNCTION</sup></sub> **en**
 | *But men and women are working and are happy.* |
 
 #### OR
-*([nimi lili insa](#conjunction) "anu")*
+<sub><sup>?</sup></sub><!-- TODO -->
 
 The <sub><sup>CONJUNCTION</sup></sub> **anu** means *or*. It combines two <sub><sup>NOUN PHRASE</sup></sub>s into one.
 
@@ -459,7 +459,7 @@ In yes-no-questions, the <sub><sup>CONJUNCTION</sup></sub> **anu** is omitted be
 | *Is she a parent?* |
 
 #### IF-THEN
-*([nimi lili insa](#conjunction) "la")*
+<sub><sup>?</sup></sub><!-- TODO -->
 
 The <sub><sup>CONJUNCTION</sup></sub> **la** can be put between the <sub><sup>CONTEXT PHRASE</sup></sub>, i.e. a [<sub><sup>PREPOSITIONAL PHRASE</sup></sub>](#preposition), and the <sub><sup>MAIN SENTENCE</sup></sub>.
 
@@ -480,7 +480,7 @@ Before **la**, the [<sub><sup>CORRELATIVE</sup></sub>](#correlative) **ni:** in 
 | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
 ### ONOMATOPEIA
-*([nimi lili](#particle) poka)*
+<sub><sup>?</sup></sub><!-- TODO -->
 
 <sub><sup>ONOMATOPEIA</sup></sub>s are <sub><sup>NAME</sup></sub>s and <sub><sup>INTERJECTION</sup></sub>s. They can be both <sub><sup>PARTICLE</sup></sub>s and [<sub><sup>CONTENT WORD</sup></sub>](#content-word)s when used without **kalama**.
 
@@ -489,6 +489,7 @@ Before **la**, the [<sub><sup>CORRELATIVE</sup></sub>](#correlative) **ni:** in 
 | *Her name goes "Sonja".* → *Her name is Sonja.* | *She heard a loud bleat.* |
 
 #### NAME
+<sub><sup>?</sup></sub><!-- TODO -->
 
 [<sub><sup>NUMBER</sup></sub>](#number)s can be used as <sub><sup>NAME</sup></sub>s after **nanpa**. (Plus, the [<sub><sup>PRO-ADJECTIVE</sup></sub>](#pro-adjective) **nanpa** itself can be used as a <sub><sup>NAME</sup></sub>.)
 
@@ -497,6 +498,7 @@ Before **la**, the [<sub><sup>CORRELATIVE</sup></sub>](#correlative) **ni:** in 
 | *You're number one.* | *the first language* |
 
 #### INTERJECTION
+<sub><sup>?</sup></sub><!-- TODO -->
 
 <sub><sup>PREPOSITION</sup></sub>s and <sub><sup>PRE-VERB</sup></sub>s can be modified by <sub><sup>INTERJECTION</sup></sub>s.
 
