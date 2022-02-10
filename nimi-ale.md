@@ -192,15 +192,9 @@ You can convert any <sub><sup>VERB</sup></sub> into a <sub><sup>NOUN</sup></sub>
 #### PRE-VERB
 <sub><sup>NIMI PALI LAWA</sup></sub>
 
-When the <sub><sup>MAIN CLAUSE</sup></sub> describes the modality of the <sub><sup>SUBORDINATE CLAUSE</sup></sub> with an <sub><sup>ADJECTIVE</sup></sub>, the <sub><sup>MAIN CLAUSE</sup></sub>'s <sub><sup>ADJECTIVE</sup></sub> can become the <sub><sup>SUBORDINATE CLAUSE</sup></sub>'s <sub><sup>PRE-VERB</sup></sub>.
+A <sub><sup>PRE-VERB</sup></sub> can be thought of as a remainder of a primordial <sub><sup>VERB</sup></sub> of a <sub><sup>MAIN CLAUSE</sup></sub> that has fallen into oblivion.
 
-| <sub><sup>PRE-VERB</sup></sub> ken | ni li ken: mi toki. → mi ken toki. |
-|:-|:-|
-| <sub><sup>PRE-VERB</sup></sub> *can* <br><sub><sup>ADJECTIVE</sup></sub> *possible* | *I can talk.* |
-
-When <sub><sup>MAIN CLAUSE</sup></sub> and <sub><sup>SUBORDINATE CLAUSE</sup></sub> share the same <sub><sup>SUBJECT</sup></sub>, the <sub><sup>MAIN CLAUSE</sup></sub>'s <sub><sup>VERB</sup></sub> can become the <sub><sup>SUBORDINATE CLAUSE</sup></sub>'s <sub><sup>PRE-VERB</sup></sub>.
-
-| <sub><sup>PRE-VERB</sup></sub> sona | mi sona e (nasin) ni: mi toki. → mi sona toki. |
+| <sub><sup>PRE-VERB</sup></sub> sona | mi sona e nasin ni: mi toki. → mi sona toki. |
 |:-|:-|
 | <sub><sup>PRE-VERB</sup></sub> *to know how to* <br><sub><sup>VERB</sup></sub> *to know* | *I know how to talk.* |
 
