@@ -192,7 +192,7 @@ You can convert any <sub><sup>VERB</sup></sub> into a <sub><sup>NOUN</sup></sub>
 #### PRE-VERB
 <sub><sup>NIMI PALI LAWA</sup></sub>
 
-A <sub><sup>PRE-VERB</sup></sub> can be thought of as a remainder of a primordial <sub><sup>VERB</sup></sub> of a <sub><sup>MAIN CLAUSE</sup></sub> that has fallen into oblivion.
+A <sub><sup>PRE-VERB</sup></sub> can be thought of as the remainder in a primordial <sub><sup>VERB</sup></sub> of a <sub><sup>MAIN CLAUSE</sup></sub> that has fallen into oblivion.
 
 | <sub><sup>PRE-VERB</sup></sub> sona | mi sona e nasin ni: mi toki. → mi sona toki. |
 |:-|:-|
@@ -222,17 +222,14 @@ You can convert any <sub><sup>VERB</sup></sub> into an <sub><sup>ADJECTIVE</sup>
 #### PRO-ADJECTIVE
 <sub><sup>NIMI NOKA ESUN</sup></sub>
 
-You can convert any <sub><sup>PRO-ADJECTIVE</sup></sub> into a <sub><sup>NOUN</sup></sub>, that can be paraphrased as *that which is ...*. The specific meaning must be looked up in the [Dictionary](#dictionary).
-
-| <sub><sup>PRO-ADJECTIVE</sup></sub> sewi |
-|:-|
-| <sub><sup>ADJECTIVE</sup></sub> *divine* <br><sub><sup>NOUN</sup></sub> *that which is divine* = *God* |
-
-A converted <sub><sup>NOUN</sup></sub> can be furthermore converted into a <sub><sup>VERB</sup></sub>, that can be paraphrased as *to use ... on*.
+You can convert any <sub><sup>PRO-ADJECTIVE</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning *that which is ...*. The specific meaning must be looked up in the [Dictionary](#dictionary). Such a converted <sub><sup>NOUN</sup></sub> can be further converted into a <sub><sup>VERB</sup></sub> meaning *to use ... on*, which often coincides with a conversion from <sub><sup>ADJECTIVE</sup></sub> to <sub><sup>VERB</sup></sub> implying *to make ...*.
 
 | <sub><sup>PRO-ADJECTIVE</sup></sub> seli |
 |:-|
-| <sub><sup>ADJECTIVE</sup></sub> *hot* <br><sub><sup>NOUN</sup></sub> *that which is hot* = *fire* <br><sub><sup>VERB</sup></sub> *to use fire on* = *to cook* |
+| <sub><sup>ADJECTIVE</sup></sub> *hot* <br><sub><sup>NOUN</sup></sub> *that which is hot* = *fire* <br><sub><sup>VERB</sup></sub> *to use fire on*/*to make hot* = *to cook* |
+
+<!-- TODO No word is classified as a pro-adjective. Hence this class might be superfluous and merged with correlatives. -->
+<!-- This means that PERSON, ORGAN, LIFE-FORM, THING, AREA and NUMBER are all "CORRELATIVE". -->
 
 ##### PERSON
 <sub><sup>NIMI NOKA JAN</sup></sub>
@@ -303,19 +300,20 @@ You can convert any <sub><sup>CORRELATIVE</sup></sub> into an <sub><sup>ADJECTIV
 ### PREPOSITION
 <sub><sup>LUKA POKA SULI</sup></sub>
 
-<!-- TODO: LUKA POKA (SULI); NIMI (SULI) -->
-
 You can convert any <sub><sup>PREPOSITION</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *being ...* omitting its argument.
 
 | <sub><sup>PREPOSITION</sup></sub> tawa |
 |:-|
 | <sub><sup>PREPOSITION</sup></sub> *towards* <br><sub><sup>ADJECTIVE</sup></sub> *being towards* = *going* |
 
+<!-- TODO context phrase? -->
 A prepositional phrase can only be used at the end of a sentence. See also [<sub><sup>IF-THEN</sup></sub>](#if-then).
 
 | mi pana e kala tawa ona. |
 |:-|
 | *I give fish to her.* |
+
+<!-- TODO adjective in predicate + preposition in context -->
 
 When a <sub><sup>PREPOSITION</sup></sub> is used both as an <sub><sup>ADJECTIVE</sup></sub> and a <sub><sup>PREPOSITION</sup></sub>, the <sub><sup>PREPOSITION</sup></sub> is omitted.
 
