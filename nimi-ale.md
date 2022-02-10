@@ -153,6 +153,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | | [**<sub><sup>THING</sup></sub>**](#thing) <br><sub><sup>ADJECTIVE</sup></sub> *vast* <br><sub><sup>NOUN</sup></sub> *space*; *vacuum*, *void* |
 | <img src="musi/pona/wile.png" height="50" title="wile"><br>**wile** | [**<sub><sup>PRE-VERB</sup></sub>**](#pre-verb) <br><sub><sup>PRE-VERB</sup></sub> **must**, **need**, **require**, **should**, **want**, **wish** <br><sub><sup>ADJECTIVE</sup></sub> *inevitable*, *necessary* |
 
+<!-- TODO -->
 nasin nimi
 As a rule of thumb, one can change the part of speech of any content word, but one can't change the part of speech of a particle.
 
@@ -335,7 +336,7 @@ When a <sub><sup>PREPOSITION</sup></sub> is used both as an <sub><sup>ADJECTIVE<
 
 | |
 |:-|
-| [<sub><sup>MARKER</sup></sub>](#marker): [<sub><sup>MOOD MARKER</sup></sub>](#mood), [<sub><sup>CASE MARKER</sup></sub>](#case) |
+| [<sub><sup>MARKER</sup></sub>](#marker): [<sub><sup>MOOD</sup></sub>](#mood), [<sub><sup>CASE</sup></sub>](#case) |
 | [<sub><sup>CONJUNCTION</sup></sub>](#conjunction): [<sub><sup>AND</sup></sub>](#and), [<sub><sup>OR</sup></sub>](#or), [<sub><sup>IF-THEN</sup></sub>](#if-then) |
 | [<sub><sup>ONOMATOPEIA</sup></sub>](#onomatopeia): [<sub><sup>NAME</sup></sub>](#name), [<sub><sup>INTERJECTION</sup></sub>](#interjection) |
 
@@ -346,10 +347,10 @@ When a <sub><sup>PREPOSITION</sup></sub> is used both as an <sub><sup>ADJECTIVE<
 
 | |
 |:-|
-| [<sub><sup>MOOD MARKER</sup></sub>](#mood): [<sub><sup>INDICATIVE MOOD</sup></sub>](#indicative), [<sub><sup>DEONTIC MOOD</sup></sub>](#deontic) |
-| [<sub><sup>CASE MARKER</sup></sub>](#case): [<sub><sup>GENITIVE CASE</sup></sub>](#genitive), [<sub><sup>ACCUSATIVE CASE</sup></sub>](#accusative) |
+| [<sub><sup>MOOD</sup></sub>](#mood): [<sub><sup>INDICATIVE MOOD</sup></sub>](#indicative), [<sub><sup>DEONTIC MOOD</sup></sub>](#deontic) |
+| [<sub><sup>CASE</sup></sub>](#case): [<sub><sup>GENITIVE CASE</sup></sub>](#genitive), [<sub><sup>ACCUSATIVE CASE</sup></sub>](#accusative) |
 
-#### MOOD MARKER
+#### MOOD
 
 | |
 |:-|
@@ -359,7 +360,7 @@ When a <sub><sup>PREPOSITION</sup></sub> is used both as an <sub><sup>ADJECTIVE<
 ##### INDICATIVE
 *([nimi lili lawa](#marker) "li")*
 
-The <sub><sup>MOOD MARKER</sup></sub> **li** marks the <sub><sup>PREDICATE</sup></sub> of a <sub><sup>SENTENCE</sup></sub> as <sub><sup>INDICATIVE</sup></sub>.
+The <sub><sup>MOOD</sup></sub> **li** marks the <sub><sup>PREDICATE</sup></sub> of a <sub><sup>SENTENCE</sup></sub> as <sub><sup>INDICATIVE</sup></sub>.
 
 | ona li mama. | ona li mama ala. |
 |:-|:-|
@@ -371,7 +372,7 @@ When there is enough context, a <sub><sup>SENTENCE</sup></sub> can be reduced to
 |:-|:-|:-|
 | *Is she a parent?* | *Yes.* | *No.* |
 
-If the <sub><sup>SUBJECT</sup></sub> is just **mi** or **sina**, the <sub><sup>MOOD MARKER</sup></sub> **li** is omitted.
+If the <sub><sup>SUBJECT</sup></sub> is just **mi** or **sina**, the <sub><sup>MOOD</sup></sub> **li** is omitted.
 
 | mi mije. | sina sin. |
 |:-|:-|
@@ -380,7 +381,7 @@ If the <sub><sup>SUBJECT</sup></sub> is just **mi** or **sina**, the <sub><sup>M
 ##### DEONTIC
 *([nimi lili lawa](#marker) "o")*
 
-The <sub><sup>MOOD MARKER</sup></sub> **o** marks a <sub><sup>SENTENCE</sup></sub> as <sub><sup>DEONTIC</sup></sub> (i.e. <sub><sup>VOLITIVE</sup></sub>, <sub><sup>VOCATIVE</sup></sub> or <sub><sup>IMPERATIVE</sup></sub>).
+The <sub><sup>MOOD</sup></sub> **o** marks a <sub><sup>SENTENCE</sup></sub> as <sub><sup>DEONTIC</sup></sub> (i.e. <sub><sup>VOLITIVE</sup></sub>, <sub><sup>VOCATIVE</sup></sub> or <sub><sup>IMPERATIVE</sup></sub>).
 
 | <sub><sup>VOLITIVE</sup></sub> mi o moku e ijo pona. |
 |:-|
@@ -410,7 +411,7 @@ A <sub><sup>VOLITIVE</sup></sub> can be reduced to the <sub><sup>OBJECT</sup></s
 |:-|
 | *May you have a good meal.* → *Bon appétit!* |
 
-#### CASE MARKER
+#### CASE
 
 | |
 |:-|
@@ -420,13 +421,13 @@ A <sub><sup>VOLITIVE</sup></sub> can be reduced to the <sub><sup>OBJECT</sup></s
 ##### GENITIVE
 *([nimi lili lawa](#marker) "pi")*
 
-The <sub><sup>CASE MARKER</sup></sub> **pi** marks a <sub><sup>NOUN PHRASE</sup></sub> that can be translated as a <sub><sup>GENITIVE</sup></sub> or as an <sub><sup>ADJECTIVE</sup></sub>. A <sub><sup>SENTENCE</sup></sub> shouldn't have more than one <sub><sup>GENITIVE PHRASE</sup></sub>.
+The <sub><sup>CASE</sup></sub> **pi** marks a <sub><sup>NOUN PHRASE</sup></sub> that can be translated as a <sub><sup>GENITIVE</sup></sub> or as an <sub><sup>ADJECTIVE</sup></sub>. A <sub><sup>SENTENCE</sup></sub> shouldn't have more than one <sub><sup>GENITIVE PHRASE</sup></sub>.
 
 | jan pi pona mute |
 |:-|
 | *a person of much good* → *a very good person* |
 
-When the <sub><sup>NOUN PHRASE</sup></sub> consists of only one [<sub><sup>NOUN</sup></sub>](#noun), the <sub><sup>CASE MARKER</sup></sub> **pi** is omitted.
+When the <sub><sup>NOUN PHRASE</sup></sub> consists of only one [<sub><sup>NOUN</sup></sub>](#noun), the <sub><sup>CASE</sup></sub> **pi** is omitted.
 
 | toki pona |
 |:-|
@@ -435,7 +436,7 @@ When the <sub><sup>NOUN PHRASE</sup></sub> consists of only one [<sub><sup>NOUN<
 ##### ACCUSATIVE
 *([nimi lili lawa](#marker) "e")*
 
-The <sub><sup>CASE MARKER</sup></sub> **e** marks a <sub><sup>NOUN PHRASE</sup></sub> as an <sub><sup>ACCUSATIVE</sup></sub>, i.e. the <sub><sup>MAIN VERB</sup></sub>'s <sub><sup>OBJECT</sup></sub>.
+The <sub><sup>CASE</sup></sub> **e** marks a <sub><sup>NOUN PHRASE</sup></sub> as an <sub><sup>ACCUSATIVE</sup></sub>, i.e. the <sub><sup>MAIN VERB</sup></sub>'s <sub><sup>OBJECT</sup></sub>.
 
 When there is enough context, the <sub><sup>OBJECT</sup></sub> of a [<sub><sup>VERB</sup></sub>](#verb) can be omitted.
 

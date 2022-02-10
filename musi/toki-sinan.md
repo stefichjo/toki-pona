@@ -141,8 +141,8 @@ jan li sona e <sub><sup>SEWI</sup></sub>, la ona li ken weka.
 | <sub><sup>**POKI PALI**</sup></sub>       | mood           |
 | | |
 | | |
-| <sub><sup>NIMI **LUKA POKI**</sup></sub>             | case marker             |
-| <sub><sup>NIMI **LUKA** PI POKI **PALI**</sup></sub> | mood marker: *li*, *o*  |
+| <sub><sup>NIMI **LUKA POKI**</sup></sub>             | CASE             |
+| <sub><sup>NIMI **LUKA** PI POKI **PALI**</sup></sub> | MOOD: *li*, *o*  |
 | <sub><sup>NIMI **LUKA** PI POKI **ANPA**</sup></sub> | accusative marker: *e*  |
 | <sub><sup>NIMI **LUKA** PI POKI **NOKA**</sup></sub> | genitive marker: *pi*   |
 
