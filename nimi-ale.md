@@ -259,7 +259,8 @@ You can convert any <sub><sup>PRO-ADJECTIVE</sup></sub> into a <sub><sup>NOUN</s
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *round* <br><sub><sup>NOUN</sup></sub> *round thing* = *circle*, *ball* |
 
-###### AREA
+##### AREA
+<sub><sup>NIMI NOKA IJO</sup></sub><!-- TODO IJO? -->
 
 | <sub><sup>AREA</sup></sub> insa |
 |:-|
@@ -267,6 +268,7 @@ You can convert any <sub><sup>PRO-ADJECTIVE</sup></sub> into a <sub><sup>NOUN</s
 
 ##### CORRELATIVE
 <sub><sup>NIMI NOKA ESUN</sup></sub><!-- TODO correlative = pro-adjective ? -->
+<!-- TODO correlatives converted into nouns are unique in that they reveal their head noun after "pi", i.e. "ijo". -->
 
 | <sub><sup>CORRELATIVE</sup></sub> ale |
 |:-|
