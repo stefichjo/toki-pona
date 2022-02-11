@@ -231,13 +231,13 @@ You can convert any <sub><sup>PRO-ADJECTIVE</sup></sub> into a <sub><sup>NOUN</s
 ##### CORRELATIVE
 <sub><sup>NIMI NOKA ESUN</sup></sub><!-- TODO consider: use definition of esun in normal toki pona -->
 
-You can convert any <sub><sup>CORRELATIVE</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning **ijo** - *(some) ... thing*.
+You can convert any <sub><sup>CORRELATIVE</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning **ijo** - *something*.*
 
 | <sub><sup>CORRELATIVE</sup></sub> ale |
 |:-|
-| <sub><sup>ADJECTIVE</sup></sub> *every* <br><sub><sup>NOUN</sup></sub> *every thing* = *everything* |
+| <sub><sup>ADJECTIVE</sup></sub> *every* <br><sub><sup>NOUN</sup></sub> *everything* |
 
-You can convert any <sub><sup>CORRELATIVE</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning **pi ijo ...** - *of something ...*.
+*Except in **pi**-phrases.
 
 | <sub><sup>NOUN PHRASE</sup></sub> mama pi ijo ale |
 |:-|
