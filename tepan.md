@@ -117,3 +117,23 @@ In my dialect, a coordinating *comma* between two <sub><sup>GENITIVE PHRASE</sup
 | | |
 |-|-|
 | *2014* | **sike suno nanpa tu nanpa ala nanpa wan nanpa tu tu** |
+
+### Fractions
+
+1/2 = wan tu
+1/3 = wan tu wan
+1/4 = wan tu tu
+1/5 = wan luka
+1/6 = wan luka wan
+1/7 = wan luka tu
+1/8 = wan luka tu wan
+1/9 = wan luka tu tu
+0.1 = wan luka luka
+0.2 = tu luka luka
+0.3 = tu wan luka luka
+0.4 = tu tu luka luka
+0.5 = luka luka luka → 1/2 = wan tu
+0.6 = luka wan luka luka
+
+
+1.5 = wan en luka luka luka → 3/2 = wan en wan tu = tu wan tu
