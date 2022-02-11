@@ -220,7 +220,7 @@ You can convert any <sub><sup>VERB</sup></sub> into an <sub><sup>ADJECTIVE</sup>
 | <sub><sup>VERB</sup></sub> *to eat* <br><sub><sup>ADJECTIVE</sup></sub> *eating* <br><sub><sup>NOUN</sup></sub> *the act of eating* |
 
 #### PRO-ADJECTIVE
-<sub><sup>NIMI NOKA ESUN</sup></sub>
+<sub><sup>NIMI NOKA LAWA</sup></sub>
 
 You can convert any <sub><sup>PRO-ADJECTIVE</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning *that which is ...*. The specific meaning must be looked up in the [Dictionary](#dictionary). Such a converted <sub><sup>NOUN</sup></sub> can be further converted into a <sub><sup>VERB</sup></sub> meaning *to use ... on*, which often resembles a conversion from <sub><sup>ADJECTIVE</sup></sub> to <sub><sup>VERB</sup></sub> with the meaning *to make ...*.
 
@@ -229,26 +229,27 @@ You can convert any <sub><sup>PRO-ADJECTIVE</sup></sub> into a <sub><sup>NOUN</s
 | <sub><sup>ADJECTIVE</sup></sub> *hot* <br><sub><sup>NOUN</sup></sub> *that which is hot* = *fire* <br><sub><sup>VERB</sup></sub> *to use fire on*/*to make hot* = *to cook* |
 
 ##### CORRELATIVE
-<sub><sup>NIMI NOKA ESUN</sup></sub><!-- TODO correlative = pro-adjective ? -->
-<!-- TODO correlatives converted into nouns are unique in that they reveal their head noun after "pi", i.e. "ijo". -->
+<sub><sup>NIMI NOKA ESUN</sup></sub><!-- TODO consider: use definition of esun in normal toki pona -->
+
+You can convert any <sub><sup>CORRELATIVE</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning **ijo** - *(some) ... thing*.
 
 | <sub><sup>CORRELATIVE</sup></sub> ale |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *every* <br><sub><sup>NOUN</sup></sub> *every thing* = *everything* |
 
-You can convert any <sub><sup>CORRELATIVE</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *of ...* using **pi ijo**.
+You can convert any <sub><sup>CORRELATIVE</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning **pi ijo ...** - *of something ...*.
 
 | <sub><sup>NOUN PHRASE</sup></sub> mama pi ijo ale |
 |:-|
 | <sub><sup>NOUN PHRASE</sup></sub> *parent of everything* |
 
-Sentences described by the correlative **ni** act like subordinate clauses.
+The <sub><sup>CORRELATIVE</sup></sub> **ni** introduces <sub><sup>SUBORDINATE CLAUSE</sup></sub>s.
 
 | <sub><sup>SENTENCE</sup></sub> mi sona e ni: mi anpa. |
 |:-|
 | <sub><sup>MAIN CLAUSE</sup></sub> + <sub><sup>SUBORDINATE CLAUSE</sup></sub> *I know that I'm powerless.* |
 
-You can convert any <sub><sup>CORRELATIVE</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *doing ...*.
+You can use any <sub><sup>CORRELATIVE</sup></sub> as a <sub><sup>PREDICATE</sup></sub> meaning *doing ...*.
 
 | <sub><sup>SENTENCE</sup></sub> ona li seme? |
 |:-|
