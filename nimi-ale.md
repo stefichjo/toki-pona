@@ -222,49 +222,11 @@ You can convert any <sub><sup>VERB</sup></sub> into an <sub><sup>ADJECTIVE</sup>
 #### PRO-ADJECTIVE
 <sub><sup>NIMI NOKA ESUN</sup></sub>
 
-You can convert any <sub><sup>PRO-ADJECTIVE</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning *that which is ...*. The specific meaning must be looked up in the [Dictionary](#dictionary). Such a converted <sub><sup>NOUN</sup></sub> can be further converted into a <sub><sup>VERB</sup></sub> meaning *to use ... on*, which often coincides with a conversion from <sub><sup>ADJECTIVE</sup></sub> to <sub><sup>VERB</sup></sub> implying *to make ...*.
+You can convert any <sub><sup>PRO-ADJECTIVE</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning *that which is ...*. The specific meaning must be looked up in the [Dictionary](#dictionary). Such a converted <sub><sup>NOUN</sup></sub> can be further converted into a <sub><sup>VERB</sup></sub> meaning *to use ... on*, which often resembles a conversion from <sub><sup>ADJECTIVE</sup></sub> to <sub><sup>VERB</sup></sub> with the meaning *to make ...*.
 
-| <sub><sup>PRO-ADJECTIVE</sup></sub> seli |
+| <sub><sup>THING</sup></sub> seli |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *hot* <br><sub><sup>NOUN</sup></sub> *that which is hot* = *fire* <br><sub><sup>VERB</sup></sub> *to use fire on*/*to make hot* = *to cook* |
-
-<!-- TODO No word is classified as a pro-adjective. Hence this class might be superfluous and merged with correlatives. -->
-<!-- This means that PERSON, ORGAN, LIFE-FORM, THING, AREA and NUMBER are all "CORRELATIVE". -->
-
-##### PERSON
-<sub><sup>NIMI NOKA JAN</sup></sub>
-
-| <sub><sup>PERSON</sup></sub> meli |
-|:-|
-| <sub><sup>ADJECTIVE</sup></sub> *female* <br><sub><sup>NOUN</sup></sub> *feminine person* = *woman* |
-
-##### ORGAN
-<sub><sup>NIMI NOKA ILO</sup></sub>
-
-| <sub><sup>ORGAN</sup></sub> lukin |
-|:-|
-| <sub><sup>ADJECTIVE</sup></sub> *light-sensitive* <br><sub><sup>NOUN</sup></sub> *light-sensitive organ* = *eye* <br><sub><sup>VERB</sup></sub> *to use eyes on* = *to see* |
-
-##### LIFE-FORM
-<sub><sup>NIMI NOKA SIJELO</sup></sub>
-
-| <sub><sup>LIFE-FORM</sup></sub> waso |
-|:-|
-| <sub><sup>ADJECTIVE</sup></sub> *swimming* <br><sub><sup>NOUN</sup></sub> *swimming life-form* = *fish* |
-
-##### THING
-<sub><sup>NIMI NOKA IJO</sup></sub>
-
-| <sub><sup>THING</sup></sub> sike |
-|:-|
-| <sub><sup>ADJECTIVE</sup></sub> *round* <br><sub><sup>NOUN</sup></sub> *round thing* = *circle*, *ball* |
-
-##### AREA
-<sub><sup>NIMI NOKA IJO</sup></sub><!-- TODO IJO? -->
-
-| <sub><sup>AREA</sup></sub> insa |
-|:-|
-| <sub><sup>ADJECTIVE</sup></sub> *inner* <br><sub><sup>NOUN</sup></sub> *inner area* = *innards* |
 
 ##### CORRELATIVE
 <sub><sup>NIMI NOKA ESUN</sup></sub><!-- TODO correlative = pro-adjective ? -->
@@ -298,6 +260,41 @@ You can convert any <sub><sup>CORRELATIVE</sup></sub> into an <sub><sup>ADJECTIV
 | <sub><sup>NUMBER</sup></sub> tu |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *two* <br><sub><sup>NOUN</sup></sub> *two things* = *pair* |
+
+##### THING
+<sub><sup>NIMI NOKA IJO</sup></sub>
+
+| <sub><sup>THING</sup></sub> sike |
+|:-|
+| <sub><sup>ADJECTIVE</sup></sub> *round* <br><sub><sup>NOUN</sup></sub> *round thing* = *circle*, *ball* |
+
+##### AREA
+<sub><sup>NIMI NOKA IJO</sup></sub><!-- TODO IJO? -->
+
+| <sub><sup>AREA</sup></sub> insa |
+|:-|
+| <sub><sup>ADJECTIVE</sup></sub> *inner* <br><sub><sup>NOUN</sup></sub> *inner area* = *innards* |
+
+##### PERSON
+<sub><sup>NIMI NOKA JAN</sup></sub>
+
+| <sub><sup>PERSON</sup></sub> meli |
+|:-|
+| <sub><sup>ADJECTIVE</sup></sub> *female* <br><sub><sup>NOUN</sup></sub> *feminine person* = *woman* |
+
+##### ORGAN
+<sub><sup>NIMI NOKA ILO</sup></sub>
+
+| <sub><sup>ORGAN</sup></sub> lukin |
+|:-|
+| <sub><sup>ADJECTIVE</sup></sub> *light-sensitive* <br><sub><sup>NOUN</sup></sub> *light-sensitive organ* = *eye* <br><sub><sup>VERB</sup></sub> *to use eyes on* = *to see* |
+
+##### LIFE-FORM
+<sub><sup>NIMI NOKA SIJELO</sup></sub>
+
+| <sub><sup>LIFE-FORM</sup></sub> waso |
+|:-|
+| <sub><sup>ADJECTIVE</sup></sub> *swimming* <br><sub><sup>NOUN</sup></sub> *swimming life-form* = *fish* |
 
 ### PREPOSITION
 <sub><sup>LUKA POKA SULI</sup></sub>
