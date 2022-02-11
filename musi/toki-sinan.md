@@ -155,5 +155,7 @@ jan li sona e <sub><sup>SEWI</sup></sub>, la ona li ken weka.
 
 ---
 
-conjunction
+conjunction linja poki
+anu linja poki pi wan tu
 anu, en, a, mu
+

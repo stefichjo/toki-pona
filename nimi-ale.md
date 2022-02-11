@@ -403,7 +403,7 @@ The <sub><sup>CASE</sup></sub> **pi** marks a <sub><sup>NOUN PHRASE</sup></sub> 
 |:-|
 | *a person of much good* → *a very good person* |
 
-When the <sub><sup>NOUN PHRASE</sup></sub> consists of only one [<sub><sup>NOUN</sup></sub>](#noun), the <sub><sup>CASE</sup></sub> **pi** is omitted.
+When the <sub><sup>NOUN PHRASE</sup></sub> consists of only one [<sub><sup>NOUN</sup></sub>](#noun), the <sub><sup>CASE MARKER</sup></sub> **pi** is omitted.
 
 | toki pona |
 |:-|
@@ -421,10 +421,10 @@ When there is enough context, the <sub><sup>OBJECT</sup></sub> of a [<sub><sup>V
 | *The men know things/that/it.* → *The men know.* |
 
 ### CONJUNCTION
-<sub><sup>?</sup></sub><!-- TODO -->
+<sub><sup>LINJA POKI</sup></sub><!-- TODO -->
 
 #### AND
-<sub><sup>?</sup></sub><!-- TODO -->
+<sub><sup>LINJA POKI PI IJO TU</sup></sub><!-- TODO -->
 
 The <sub><sup>CONJUNCTION</sup></sub> **en** means *and*. It combines two <sub><sup>NOUN PHRASE</sup></sub>s into one.
 
@@ -439,7 +439,7 @@ In <sub><sup>SENTENCE</sup></sub>s, the <sub><sup>CONJUNCTION</sup></sub> **en**
 | *But men and women are working and are happy.* |
 
 #### OR
-<sub><sup>?</sup></sub><!-- TODO -->
+<sub><sup>LINJA POKI PI IJO WAN TU</sup></sub><!-- TODO -->
 
 The <sub><sup>CONJUNCTION</sup></sub> **anu** means *or*. It combines two <sub><sup>NOUN PHRASE</sup></sub>s into one.
 
@@ -454,7 +454,7 @@ In yes-no-questions, the <sub><sup>CONJUNCTION</sup></sub> **anu** is omitted be
 | *Is she a parent?* |
 
 #### IF-THEN
-<sub><sup>?</sup></sub><!-- TODO -->
+<sub><sup>LINJA POKI PI IJO INSA</sup></sub><!-- TODO -->
 
 The <sub><sup>CONJUNCTION</sup></sub> **la** can be put between the <sub><sup>CONTEXT PHRASE</sup></sub>, i.e. a [<sub><sup>PREPOSITIONAL PHRASE</sup></sub>](#preposition), and the <sub><sup>MAIN SENTENCE</sup></sub>.
 
@@ -475,7 +475,7 @@ Before **la**, the [<sub><sup>CORRELATIVE</sup></sub>](#correlative) **ni:** in 
 | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
 ### ONOMATOPEIA
-<sub><sup>?</sup></sub><!-- TODO -->
+<sub><sup>NIMI KALAMA</sup></sub><!-- TODO -->
 
 <sub><sup>ONOMATOPEIA</sup></sub>s are <sub><sup>NAME</sup></sub>s and <sub><sup>INTERJECTION</sup></sub>s. They can be both <sub><sup>PARTICLE</sup></sub>s and [<sub><sup>CONTENT WORD</sup></sub>](#content-word)s when used without **kalama**.
 
@@ -484,7 +484,6 @@ Before **la**, the [<sub><sup>CORRELATIVE</sup></sub>](#correlative) **ni:** in 
 | *Her name goes "Sonja".* → *Her name is Sonja.* | *She heard a loud bleat.* |
 
 #### NAME
-<sub><sup>?</sup></sub><!-- TODO -->
 
 [<sub><sup>NUMBER</sup></sub>](#number)s can be used as <sub><sup>NAME</sup></sub>s after **nanpa**. (Plus, the [<sub><sup>PRO-ADJECTIVE</sup></sub>](#pro-adjective) **nanpa** itself can be used as a <sub><sup>NAME</sup></sub>.)
 
@@ -493,7 +492,6 @@ Before **la**, the [<sub><sup>CORRELATIVE</sup></sub>](#correlative) **ni:** in 
 | *You're number one.* | *the first language* |
 
 #### INTERJECTION
-<sub><sup>?</sup></sub><!-- TODO -->
 
 <sub><sup>PREPOSITION</sup></sub>s and <sub><sup>PRE-VERB</sup></sub>s can be modified by <sub><sup>INTERJECTION</sup></sub>s.
 
