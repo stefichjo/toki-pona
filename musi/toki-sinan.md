@@ -87,7 +87,7 @@ jan li sona e <sub><sup>SEWI</sup></sub>, la ona li ken weka.
 |-:|-:|-:|-:|-:|
 | *jan lili mute li kama lukin e ijo/jan* | **lutú puqpú** | | *ijo/jan li kama lukin e jan lili mute.* | **puqpú ~~lu~~túlú** |
 
-<sub><sup>ANPA</sup></sub> ante la <sub><sup>NIMI LILI</sup></sub> li ante lon open pi <sub><sup>NIMI PALI</sup></sub>. — <sub><sup>**q̌** [`Q`]
+<sub><sup>ANPA</sup></sub> ante la <sub><sup>NIMI LILI</sup></sub> li ante lon open pi <sub><sup>NIMI PALI</sup></sub>. — <sub><sup>**q̌** [`Q`]</sup></sub>
 
 | | | | | |
 |-:|-:|-:|-:|-:|
