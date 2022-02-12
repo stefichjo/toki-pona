@@ -66,7 +66,7 @@ misikeke
 | | [**<sub><sup>ORGAN</sup></sub>**](#organ) <br><sub><sup>NOUN</sup></sub> **head**; **mind**; <br><sub><sup>VERB</sup></sub> **to control**, **direct**, **guide**, **lead**, **own**, **plan**, **regulate**, **rule**: (*nasin lawa*) [**code of law**](pu.md#writings-of-baháulláh); <br><sub><sup>NOUN</sup></sub> [**guidance**](pu.md#toki-pona-proverbs) |
 | <img src="musi/pona/len.png" height="50" title="lenĵ"><br>**len** | [**<sub><sup>ORGAN</sup></sub>**](#organ) <br><sub><sup>NOUN</sup></sub> **cloth**, **clothing**, **fabric**, **textile**, [**vest**](pu.md#lesson-17); **cover**, **layer of privacy**; <br><sub><sup>VERB</sup></sub> *to hide* |
 | <img src="musi/pona/lete.png" height="50" title="fret"><br>**lete** | [**<sub><sup>THING</sup></sub>**](#thing--area) <br><sub><sup>ADJECTIVE</sup></sub> **cold**, **cool**; **uncooked**, **raw** <br><sub><sup>NOUN</sup></sub> *frost*, *ice* |
-| <img src="musi/pona/li.png" height="50" title="li"><br>**li** | [**<sub><sup>MARKER</sup></sub>**](#mood-marker) <br><sub><sup>PARTICLE</sup></sub> *(indicative)*, **(between any <sub><sup>SUBJECT</sup></sub> except mi alone or sina alone and its <sub><sup>PREDICATE</sup></sub>; also to introduce a new <sub><sup>PREDICATE</sup></sub> for the same <sub><sup>SUBJECT</sup></sub>)** |
+| <img src="musi/pona/li.png" height="50" title="li"><br>**li** | [**<sub><sup>MARKER</sup></sub>**](#predicate-marker) <br><sub><sup>PARTICLE</sup></sub> *(indicative)*, **(between any <sub><sup>SUBJECT</sup></sub> except mi alone or sina alone and its <sub><sup>PREDICATE</sup></sub>; also to introduce a new <sub><sup>PREDICATE</sup></sub> for the same <sub><sup>SUBJECT</sup></sub>)** |
 | <img src="musi/pona/lili.png" height="50" title="liklik"><br>**lili** | [**<sub><sup>THING</sup></sub>**](#thing--area) <br><sub><sup>ADJECTIVE</sup></sub> **little**, [**micro-**](pu.md#preface), [**narrow**](pu.md#lesson-13), **small**, **short**; (*~~pi tenpo~~ lili*) [**momentary**](pu.md#toki-pona-proverbs), [**temporary**](pu.md#toki-pona-proverbs); [**120**](pu.md#preface), **few**; **a bit**; (*~~pi sike suno~~ lili*) **young** <br><sub><sup>NOUN</sup></sub> (<sub><sup>KU</sup></sub> *kipisi*) *building block*, *detail*, *element*, *member*, *unit*; *part*, *particle*, *piece* |
 | <img src="musi/pona/linja.png" height="50" title="linja"><br>**linja** | [**<sub><sup>THING</sup></sub>**](#thing--area) <br><sub><sup>ADJECTIVE</sup></sub> *long and flexible* <br><sub><sup>NOUN</sup></sub> [*long flexible thing*](pu.md#errata): *chain*, **cord**, (*linja ~~lawa~~*) **hair**, **rope**, [**string**](pu.md#lesson-17), **thread**, **yarn**; *curve*, *line*; *row*; <br><sub><sup>VERB</sup></sub> *to tie* |
 | <img src="musi/pona/lipu.png" height="50" title="lipu"><br>**lipu** | [**<sub><sup>THING</sup></sub>**](#thing--area) <br><sub><sup>ADJECTIVE</sup></sub> *flat*, *thin* <br><sub><sup>NOUN</sup></sub> **flat object**: (*~~mute~~ lipu*) **book**, **card**, [**clay tablet**](pu.md#what-is-toki-pona), **document**, **paper**, [**piece of paper**](pu.md#lesson-2), [**postcard**](pu.md#what-is-toki-pona), [**printed book**](pu.md#what-is-toki-pona), **record**, **website** |
@@ -102,7 +102,7 @@ misikeke
 | <img src="musi/pona/nimi.png" height="50" title="nimi"><br>**nimi** | [**<sub><sup>VERB</sup></sub>**](#verb) <br><sub><sup>NOUN</sup></sub> **name**; **word** <br><sub><sup>VERB</sup></sub> *to call*, *define* |
 | <img src="musi/pona/noka.png" height="50" title="noga"><br>**noka** | [**<sub><sup>AREA</sup></sub>**](#area) <br><sub><sup>ADJECTIVE</sup></sub> *bottom*; (*anpa*) <br><sub><sup>NOUN</sup></sub> **lowest part**; **bottom**, [**foundation**](pu.md#lesson-15): (*lon noka*) [**at the bottom of**](pu.md#lesson-15); (*anpa*) |
 | | [**<sub><sup>ORGAN</sup></sub>**](#organ) <br><sub><sup>NOUN</sup></sub> **foot**, **leg**, **organ of locomotion**; <br><sub><sup>VERB</sup></sub> *to step on*, *kick* |
-| <img src="musi/pona/o.png" height="50" title="ho"><br>**o** | [**<sub><sup>MARKER</sup></sub>**](#mood-marker) <br><sub><sup>PARTICLE</sup></sub> *(deontic)* **(vocative or imperative)**, [**(call or command)**](pu.md#lesson-10), [**(shows who is being called or addressed; command or request; wish or desire)**](pu.md#lesson-10), **hey**, **o** |
+| <img src="musi/pona/o.png" height="50" title="ho"><br>**o** | [**<sub><sup>MARKER</sup></sub>**](#predicate-marker) <br><sub><sup>PARTICLE</sup></sub> *(deontic)* **(vocative or imperative)**, [**(call or command)**](pu.md#lesson-10), [**(shows who is being called or addressed; command or request; wish or desire)**](pu.md#lesson-10), **hey**, **o** |
 | <img src="musi/pona/olin.png" height="50" title="volim"><br>**olin** | [**<sub><sup>VERB</sup></sub>**](#verb) <br><sub><sup>VERB</sup></sub> [**to be a fan of**](pu.md#preface), **have compassion for**, **love**, **respect**, **show affection to**; <br><sub><sup>NOUN</sup></sub> *love*; <br><sub><sup>ADJECTIVE</sup></sub> [**beloved**](pu.md#lesson-18) |
 | <img src="musi/pona/ona.png" height="50" title="ona"><br>**ona** | [**<sub><sup>NOUN</sup></sub>**](#pronoun) (<sub><sup>EXTINCT</sup></sub> *iki*) <br><sub><sup>NOUN</sup></sub> **he**/*him*, **it**, **she**/*her*, **they**/*them*; <br><sub><sup>ADJECTIVE</sup></sub> *her*, *his*, *its*, *their* |
 | <img src="musi/pona/open.png" height="50" title="open"><br>**open** | [**<sub><sup>AREA</sup></sub>**](#area) <br><sub><sup>ADJECTIVE</sup></sub> *open*; *accessible*, *ready*; <br><sub><sup>VERB</sup></sub> **to open**, [**unseal**](pu.md#writings-of-baháulláh); *set up*, **turn on**; **begin**, **start** <br><sub><sup>NOUN</sup></sub> *aperture*, *opening*; *beginning*, *start*: (*lon open pi ... pini*) *... ago* |
@@ -312,7 +312,7 @@ A <sub><sup>SENTENCE</sup></sub> can end with a <sub><sup>CONTEXT</sup></sub> th
 |:-|:-|:-|:-|
 | *I hand out fish.* | *to her* | | *I give fish to her.* |
 
-The <sub><sup>CONTEXT</sup></sub> can describe the whole <sub><sup>SENTENCE</sup></sub> or its <sub><sup>OBJECT</sup></sub>, for example. See also [<sub><sup>IF-THEN</sup></sub>](#if-then).<!-- TODO or just any part of the sentence? or more restrictive? -->
+The <sub><sup>CONTEXT</sup></sub> can describe the whole <sub><sup>SENTENCE</sup></sub> or its <sub><sup>OBJECT</sup></sub>, for example. See also [<sub><sup>IF-THEN</sup></sub>](#if-then).
 
 | mi lukin e meli pimeja. | lon sinpin tomo | | mi lukin e meli pimeja lon sinpin tomo. |
 |:-|:-|:-|:-|
@@ -341,15 +341,13 @@ You can't convert <sub><sup>PARTICLE</sup></sub>s. A few exceptions can be looke
 ### MARKER
 <sub><sup>LUKA POKI</sup></sub>
 
-#### MOOD
+#### PREDICATE
 <sub><sup>POKI PALI</sup></sub>
-
-<!-- TODO predicate marker -->
 
 ##### INDICATIVE
 <sub><sup>POKI PI PALI LON</sup></sub>
 
-The <sub><sup>MOOD</sup></sub> **li** marks the <sub><sup>PREDICATE</sup></sub> of a <sub><sup>SENTENCE</sup></sub> as <sub><sup>INDICATIVE</sup></sub>.
+The <sub><sup>PREDICATE MARKER</sup></sub> **li** marks the <sub><sup>PREDICATE</sup></sub> of a <sub><sup>SENTENCE</sup></sub> as <sub><sup>INDICATIVE</sup></sub>.
 
 | ona li mama. | ona li mama ala. |
 |:-|:-|
@@ -361,7 +359,7 @@ When there is enough context, a <sub><sup>SENTENCE</sup></sub> can be reduced to
 |:-|:-|:-|
 | *Is she a parent?* | *Yes.* | *No.* |
 
-If the <sub><sup>SUBJECT</sup></sub> is just **mi** or **sina**, the <sub><sup>MOOD</sup></sub> **li** is omitted.
+If the <sub><sup>SUBJECT</sup></sub> is just **mi** or **sina**, the <sub><sup>PREDICATE MARKER</sup></sub> **li** is omitted.
 
 | mi mije. | sina sin. |
 |:-|:-|
@@ -370,7 +368,7 @@ If the <sub><sup>SUBJECT</sup></sub> is just **mi** or **sina**, the <sub><sup>M
 ##### DEONTIC
 <sub><sup>POKI PI PALI WILE</sup></sub>
 
-The <sub><sup>MOOD</sup></sub> **o** marks a <sub><sup>SENTENCE</sup></sub> as <sub><sup>DEONTIC</sup></sub> (i.e. <sub><sup>VOLITIVE</sup></sub>, <sub><sup>VOCATIVE</sup></sub> or <sub><sup>IMPERATIVE</sup></sub>).
+The <sub><sup>PREDICATE MARKER</sup></sub> **o** marks the <sub><sup>PREDICATE</sup></sub> of a <sub><sup>SENTENCE</sup></sub> as <sub><sup>DEONTIC</sup></sub> (i.e. <sub><sup>VOLITIVE</sup></sub>, <sub><sup>VOCATIVE</sup></sub> or <sub><sup>IMPERATIVE</sup></sub>).
 
 | <sub><sup>VOLITIVE</sup></sub> mi o moku e ijo pona. |
 |:-|
