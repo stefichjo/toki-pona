@@ -92,13 +92,20 @@ jan li sona e <sub><sup>SEWI</sup></sub>, la ona li weka lon tenpo mute.
 |-:|-:|-:|-:|-:|
 | *jan lili mute li kama lukin e ijo/jan* | **lutú puqpú** | | *ijo/jan li kama lukin e jan lili mute.* | **puqpú ~~lu~~túlú** |
 
-<sub><sup>ANPA</sup></sub> ante la <sub><sup>NIMI LILI</sup></sub> li ante lon open pi <sub><sup>NIMI PALI</sup></sub>. — <sub><sup>**q̌** [`Q`]</sup></sub>
+<sub><sup>ANPA</sup></sub> li kama ante, la <sub><sup>NIMI LILI</sup></sub> li kama ante lon open pi <sub><sup>NIMI PALI</sup></sub>. — <sub><sup>**q̌** [`Q`]</sup></sub>
 
 | | | | | |
 |-:|-:|-:|-:|-:|
 | *mi wan li lape*     | **jiq̌oŋ** | | *mi mute li lape*    | **maq̌oŋ** |
 | *sina wan li lape*   | **biq̌oŋ** | | *sina mute li lape*  | **suq̌oŋ** |
-| *ona wan li lape*    | **q̌oŋ**   | | *ona mute li lape*   | **q̌oŋ**   |
+| *ona (wan) li lape*  | **q̌oŋ**   | | *ona (mute) li lape* | **q̌oŋ**   |
+
+<sub><sup>POKA</sup></sub> li lon open <sub><sup>LINJA</sup></sub>.
+
+| | | | | | | |
+|-|-|-|-|-|-|-|
+| *(mi)* | *lape* | *lon tenpo ale* | | **reh** | **jiq̌oŋ** | **(jih)** |
+| <sub><sup>(SEWI)</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>POKA</sup></sub> | |  <sub><sup>POKI</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>(SEWI)</sup></sub> |
 
 ---
 
