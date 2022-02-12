@@ -3,13 +3,26 @@
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
+<!-- 
+KU
+tonsi
+jasima
+soko
+meso
+epiku
+kokosila
+lanpan
+n
+misikeke
+ -->
+
 | <sub><sup>SITELEN</sup></sub> | <sub><sup>KON</sup></sub> |
 |:-:|:-|
 | <img src="musi/pona/a.png" height="50" title="ha"><br>**a** | [**<sub><sup>INTERJECTION</sup></sub>**](#interjection) <br><sub><sup>PARTICLE</sup></sub> [**(emotion word)**](pu.md#lesson-10), (<sub><sup>KU</sup></sub> *kin*) **(emphasis or confirmation)** <br><sub><sup>ADVERB</sup></sub> [**so**](pu.md#lesson-10); [**ha**](pu.md#lesson-10), [**wow**](pu.md#lesson-10), [**yay**](pu.md#lesson-13): (*sama la + a* = <sub><sup>KU</sup></sub> *kin*) *also*, (<sub><sup>KU</sup></sub> *kin*) *indeed*, (*sin la + a* = <sub><sup>KU</sup></sub> *kin*) *too*; (*lon*) *yes* |
-| <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**<sub><sup>LIFE-FORM</sup></sub>**](#life-form) <br><sub><sup>ADJECTIVE</sup></sub> *cold-blooded*, *treacherous*: (*pipi akesi* = <sub><sup>CLASSIC</sup></sub> *akesi*) *arthropod*, (*toki akesi* = <sub><sup>KIPO</sup></sub> *toki ike* = <sub><sup>EXTINCT</sup></sub> *powe*) *to deceive* <br><sub><sup>NOUN</sup></sub> **non-cute animal**; **amphibian**, **reptile**; (<sub><sup>KU</sup></sub> *monsuta*) *monster*: (*pana e pilin akesi tawa* = <sub><sup>KU</sup></sub> *monsuta e*) *to scare* |
+| <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**<sub><sup>LIFE-FORM</sup></sub>**](#life-form) <br><sub><sup>ADJECTIVE</sup></sub> *cold-blooded*, *treacherous*: (*pipi akesi* = <sub><sup>CLASSIC</sup></sub> *akesi*) *arthropod*, (*toki akesi* = <sub><sup>EXTINCT</sup></sub> *powe*) *to deceive* <br><sub><sup>NOUN</sup></sub> **non-cute animal**; **amphibian**, **reptile**; (<sub><sup>KU</sup></sub> *monsuta*) *monster*: (*pana e pilin akesi tawa* = <sub><sup>KU</sup></sub> *monsuta e*) *to scare* |
 | <img src="musi/pona/ala.png" height="50" title="ara"><br>**ala** | [**<sub><sup>INTERJECTION</sup></sub>**](#interjection) <br><sub><sup>PARTICLE</sup></sub> *(negation)* <br><sub><sup>ADVERB</sup></sub> **not** <br><sub><sup>NOUN</sup></sub> [**nothingness**](pu.md#lesson-6) |
 | | [**<sub><sup>NUMBER</sup></sub>**](#number) <br><sub><sup>ADJECTIVE</sup></sub> **zero**, [**0**](pu.md#lesson-12); **no**: (*ijo ala* = <sub><sup>CLASSIC</sup></sub> *ala*) [**nothing**](pu.md#chapter-of-sincerity) <br><sub><sup>NOUN</sup></sub> [**zero**](pu.md#famous-quotations) |
-| <img src="musi/pona/alasa.png" height="50" title="a-la-ŝas"><br>**alasa** | [**<sub><sup>VERB</sup></sub>**](#verb) <br><sub><sup>VERB</sup></sub> **to hunt**, **forage**; (<sub><sup>KIPO</sup></sub> *lukin*) <br><sub><sup>NOUN</sup></sub> *prey* |
+| <img src="musi/pona/alasa.png" height="50" title="a-la-ŝas"><br>**alasa** | [**<sub><sup>VERB</sup></sub>**](#verb) <br><sub><sup>VERB</sup></sub> **to hunt**, **forage** <br><sub><sup>NOUN</sup></sub> *prey* |
 | <img src="musi/pona/ale.png" height="50" title="ale"><br>**ale** | [**<sub><sup>CORRELATIVE</sup></sub>**](#correlative) = <sub><sup>CLASSIC</sup></sub> *ali* <br><sub><sup>ADJECTIVE</sup></sub>  (*~~mute~~ ale*) **all**, **every**; (*~~wan~~ ale*) **all** <br><sub><sup>NOUN</sup></sub> **everything**; *area* |
 | | [**<sub><sup>NUMBER</sup></sub>**](#number) <br><sub><sup>ADJECTIVE</sup></sub> [**∞**](pu.md#lesson-12), **countless** <br><sub><sup>NOUN</sup></sub> [**infinity**](pu.md#famous-quotations); [**100**](pu.md#lesson-12) |
 | | [**<sub><sup>THING</sup></sub>**](#thing--area) <br><sub><sup>ADJECTIVE</sup></sub> **abundant**, **bountiful**, **plentiful** <br><sub><sup>NOUN</sup></sub> **abundance**; **life**, **universe** |
@@ -62,7 +75,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | <img src="musi/pona/luka.png" height="50" title="ruka"><br>**luka** | [**<sub><sup>ORGAN</sup></sub>**](#organ) <br><sub><sup>NOUN</sup></sub> **arm**, [**fingers**](pu.md#writings-of-baháulláh), **hand**, **tactile organ**; <br><sub><sup>VERB</sup></sub> *to touch* |
 | | [**<sub><sup>NUMBER</sup></sub>**](#number) <br><sub><sup>ADJECTIVE</sup></sub> [**5**](pu.md#lesson-12), **five** <br><sub><sup>NOUN</sup></sub> *quintet* |
 | <img src="musi/pona/lukin.png" height="50" title="luk-im"><br>**lukin** | [**<sub><sup>ORGAN</sup></sub>**](#organ) <br><sub><sup>NOUN</sup></sub> (<sub><sup>KU</sup></sub> *oko*) **eye**; <br><sub><sup>VERB</sup></sub> **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, (*lukin e sitelen*) **read**, [**search + <sub><sup>OBJECT</sup></sub>**](pu.md#preface), **watch** |
-| | [**<sub><sup>PRE-VERB</sup></sub>**](#pre-verb) <br><sub><sup>PRE-VERB</sup></sub> **try to**; [**to seek to**](pu.md#lesson-13): (*lukin jo* = <sub><sup>KIPO</sup></sub> *alasa*) [**to look for**](pu.md#errata) <br><sub><sup>VERB</sup></sub> *to care for* |
+| | [**<sub><sup>PRE-VERB</sup></sub>**](#pre-verb) <br><sub><sup>PRE-VERB</sup></sub> **to try to**; [**to seek to**](pu.md#lesson-13): (*lukin jo*) [**to look for**](pu.md#errata) <br><sub><sup>VERB</sup></sub> *to care for* |
 | <img src="musi/pona/lupa.png" height="50" title="rupa"><br>**lupa** | [**<sub><sup>THING</sup></sub>**](#thing--area) <br><sub><sup>ADJECTIVE</sup></sub> *concave*, *empty*, *hollow* <br><sub><sup>NOUN</sup></sub> *cave*, **orifice**: (*lupa meli*) [**womb**](pu.md#toki-pona-proverbs); **hole**: (*lupa ~~tomo~~*) **door**, (*lupa ~~suno~~*) **window** |
 | <img src="musi/pona/ma.png" height="50" title="maa"><br>**ma** | [**<sub><sup>AREA</sup></sub>**](#area) <br><sub><sup>ADJECTIVE</sup></sub> *outside* <br><sub><sup>NOUN</sup></sub> **outdoors**: **world**; (*~~sike~~ ma*) [**planet**](pu.md#toki-pona-proverbs); (*ma nimi*) *context* <br><sub><sup>VERB</sup></sub> *to orient* |
 | | [**<sub><sup>THING</sup></sub>**](#thing--area) <br><sub><sup>NOUN</sup></sub> **earth**, **land**, **soil**; (*ma ~~jan~~*) **country**, **territory** |
