@@ -18,12 +18,6 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 |:-|:-|:-|
 | [**mije**](#lesson-11) | <sub><sup>NOUN GROUP</sup></sub> | <sub><sup>NOUN PHRASE</sup></sub> |
 
-<sub><sup>AUXILIARY VERB</sup></sub>s are called <sub><sup>PRE-VERB</sup></sub>s.
-
-| | <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
-|:-|:-|:-|
-| [**kama**](#lesson-13) | <sub><sup>PRE-VERB</sup></sub> | <sub><sup>AUXILIARY VERB</sup></sub> |
-
 Since <sub><sup>NOUN</sup></sub>s and <sub><sup>PRONOUN</sup></sub>s are indistinguishable in Toki Pona, they are both called <sub><sup>NOUN</sup></sub>s.
 
 | | <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |

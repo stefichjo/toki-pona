@@ -4,7 +4,7 @@
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
 <!-- 
-KU
+KU TODO
 tonsi
 jasima
 soko
@@ -34,7 +34,7 @@ misikeke
 | | [**<sub><sup>AREA</sup></sub>**](#area) <br><sub><sup>ADJECTIVE</sup></sub> **enduring**, **kept**; (*awen ~~lon~~*) **staying**, **waiting**; (*~~pi sike/tenpo~~ awen*) *current*, *present*; (*tomo*); <br><sub><sup>VERB</sup></sub> (*tomo*) | <br><sub><sup>NOUN</sup></sub> (⇒ *tenpo*)
 | <img src="musi/pona/e.png" height="50" title="e"><br>**e** | [**<sub><sup>MARKER</sup></sub>**](#case-marker) <br><sub><sup>PARTICLE</sup></sub> **(before the direct <sub><sup>OBJECT</sup></sub>)** |
 | <img src="musi/pona/en.png" height="50" title="en"><br>**en** | [**<sub><sup>CONJUNCTION</sup></sub>**](#conjunction) <br><sub><sup>PARTICLE</sup></sub> **(between multiple <sub><sup>SUBJECT</sup></sub>s)**, [**and**](pu.md#lesson-16) |
-| <img src="musi/pona/esun.png" height="50" title="eĝum"><br>**esun** | [**<sub><sup>PREPOSITION</sup></sub>**](#preposition) <br><sub><sup>PREPOSITION</sup></sub> (*ante*) *instead of* <br><sub><sup>ADJECTIVE</sup></sub> (*ante*) *else*, **other**; (*ona esun* = *ona sama*) **each other**, *reciprocal* <br><sub><sup>NOUN</sup></sub> (*~~kama~~ esun*) *exchange*; **business transaction**; (*~~tomo~~ esun*) **shop**; (*~~ma~~ esun*) **bazaar**, **fair**, **market** |
+| <img src="musi/pona/esun.png" height="50" title="eĝum"><br>**esun** | [**<sub><sup>PREPOSITION</sup></sub>**](#preposition) <br><sub><sup>PREPOSITION</sup></sub> (*ante*) *instead of* <br><sub><sup>ADJECTIVE</sup></sub> (*ante*) *else*, **other**; (*ona esun* = *ona sama*) **each other**, *mutual* <br><sub><sup>NOUN</sup></sub> (*~~kama~~ esun*) *exchange*; **business transaction**; (*~~tomo~~ esun*) **shop**; (*~~ma~~ esun*) **bazaar**, **fair**, **market** |
 | | [**<sub><sup>NUMBER</sup></sub>**](#number) <br><sub><sup>ADJECTIVE</sup></sub> *7*, *seven* <br><sub><sup>NOUN</sup></sub> *septet*: (*sike esun*) *week* |
 | <img src="musi/pona/ijo.png" height="50" title="ijo"><br>**ijo** | [**<sub><sup>NOUN</sup></sub>**](#noun) <br><sub><sup>NOUN</sup></sub> [**being**](pu.md#lesson-2), **matter**, **object**, **phenomenon**, [**something**](pu.md#lesson-2), **thing**; <br><sub><sup>ADJECTIVE</sup></sub> *something's* |
 | <img src="musi/pona/ike.png" height="50" title="ilkea"><br>**ike** | [**<sub><sup>ADJECTIVE</sup></sub>**](#adjective) <br><sub><sup>ADJECTIVE</sup></sub> **bad**, [**harmful**](pu.md#toki-pona-proverbs), [**hostile**](pu.md#famous-quotations), **negative**; (*~~sin~~ ike*) **irrelevant**, [**needless**](pu.md#famous-quotations), **non-essential**; <br><sub><sup>NOUN</sup></sub> [**bad things**](pu.md#toki-pona-proverbs), [**evil**](pu.md#toki-pona-proverbs), [**fault**](pu.md#toki-pona-proverbs), [**negativity**](pu.md#toki-pona-proverbs), [**non-essentials**](pu.md#famous-quotations) |
@@ -153,7 +153,7 @@ misikeke
 | <img src="musi/pona/tenpo.png" height="50" title="tempo"><br>**tenpo** | [**<sub><sup>AREA</sup></sub>**](#area) <br><sub><sup>ADJECTIVE</sup></sub> *ephemeral*, *provisional*, *transitory* <br><sub><sup>NOUN</sup></sub> **moment**, **occasion**, **period**, **situation**, **time**: (*lon tenpo*) *for*; **duration**: (*lon tenpo*) *as long as*, [**during**](pu.md#lesson-14), *while*; (*sike*) *turn* |
 | <img src="musi/pona/toki.png" height="50" title="tok"><br>**toki** | [**<sub><sup>VERB</sup></sub>**](#verb) <br><sub><sup>VERB</sup></sub> **to communicate**, [**explain**](pu.md#famous-quotations), **say**, **speak**; **think**; <br><sub><sup>ADJECTIVE</sup></sub> [*talking*, *using language*](pu.md#errata); <br><sub><sup>NOUN</sup></sub> [**communication**](pu.md#toki-pona-proverbs), [**speech**](pu.md#lesson-5); [**language**](pu.md#lesson-5): (*lon toki*) [**in**](pu.md#lesson-8), [**something that you speak**](pu.md#lesson-5) <br><sub><sup>NOUN</sup></sub> *message*, (*~~toki pi~~ ijo sin*) *news* |
 | <img src="musi/pona/tomo.png" height="50" title="domo"><br>**tomo** | [**<sub><sup>ORGAN</sup></sub>**](#organ) <br><sub><sup>NOUN</sup></sub> *roof*, *shelter*: (*lon tomo* = *awen*) **protected**, **safe**; **indoor space**: **building**, **home**, **house**, **room**, [**shed**](pu.md#lesson-14) <br><sub><sup>VERB</sup></sub> (*awen*) [**to help in peril**](pu.md#short-obligatory-prayer), [**protect**](pu.md#lesson-15) |
-| <img src="musi/pona/tu.png" height="50" title="tu"><br>**tu** | [**<sub><sup>NUMBER</sup></sub>**](#number) <br><sub><sup>ADJECTIVE</sup></sub> [**2**](pu.md#lesson-12), **two**: (*tu tu* = <sub><sup>EXTINCT</sup></sub> *po*) *four*; <br><sub><sup>VERB</sup></sub> *to divide* <br><sub><sup>NOUN</sup></sub> *pair* |  <!-- TODO THING cf. mute -->
+| <img src="musi/pona/tu.png" height="50" title="tu"><br>**tu** | [**<sub><sup>NUMBER</sup></sub>**](#number) <br><sub><sup>ADJECTIVE</sup></sub> [**2**](pu.md#lesson-12), **two**: (*tu tu* = <sub><sup>EXTINCT</sup></sub> *po*) *four*; <br><sub><sup>VERB</sup></sub> *to divide* <br><sub><sup>NOUN</sup></sub> *pair* |
 | <img src="musi/pona/unpa.png" height="50" title="umf"><br>**unpa** | [**<sub><sup>VERB</sup></sub>**](#verb) <br><sub><sup>VERB</sup></sub> [*to have sex with*](pu.md#errata) |
 | <img src="musi/pona/uta.png" height="50" title="usta"><br>**uta** | [**<sub><sup>ORGAN</sup></sub>**](#organ) <br><sub><sup>NOUN</sup></sub> **jaw**, **lips**, **mouth**, **oral cavity**; <br><sub><sup>VERB</sup></sub> [**to kiss**](pu.md#lesson-18), *suck*, *taste* |
 | <img src="musi/pona/utala.png" height="50" title="udara"><br>**utala** | [**<sub><sup>ADJECTIVE</sup></sub>**](#adjective) <br><sub><sup>ADJECTIVE</sup></sub> *aggressive*; <br><sub><sup>VERB</sup></sub> *to attack*, **battle**, **challenge**, **compete against**, [**fight**](pu.md#lesson-9), *provoke*, **struggle against**; <br><sub><sup>NOUN</sup></sub> [**battle**](pu.md#lesson-14), [**fighting**](pu.md#toki-pona-proverbs) |
@@ -169,11 +169,7 @@ misikeke
 ## CONTENT WORD
 <sub><sup>NIMI SULI</sup></sub>
 
-<!-- TODO -->
-<!-- nasin nimi
-As a rule of thumb, one can change the part of speech of any content word, but one can't change the part of speech of a particle.
-
-But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verbs") and prepositions can be converted into nouns, adjectives and verbs, but not the other way around. Also, an onomatopeia can be converted into a content word meaning *the name ...* or *the sound ...*, and a content word can be used as an onomatopeia or name, e.g. **nanpa**. -->
+<sub><sup>CONTENT WORD</sup></sub>s are convertible. The number of <sub><sup>PRE-VERB</sup></sub>s and <sub><sup>PREPOSITION</sup></sub>s is limited to the ones listed in the [Dictionary](#dictionary).
 
 ### NOUN
 <sub><sup>NIMI LAWA</sup></sub>
@@ -185,7 +181,7 @@ You can convert any <sub><sup>NOUN</sup></sub> into an <sub><sup>ADJECTIVE</sup>
 | <sub><sup>NOUN</sup></sub> *someone* <br><sub><sup>ADJECTIVE</sup></sub> *of someone* = *someone's* |
 
 #### PRONOUN
-<sub><sup>NIMI LAWA ESUN</sup></sub>
+<sub><sup>NIMI LAWA SAMA</sup></sub>
 
 You can convert any <sub><sup>PRONOUN</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *of ...*. 
 
@@ -242,7 +238,7 @@ You can convert any <sub><sup>PRO-ADJECTIVE</sup></sub> into a <sub><sup>NOUN</s
 | <sub><sup>ADJECTIVE</sup></sub> *hot* <br><sub><sup>NOUN</sup></sub> *that which is hot* = *fire* <br><sub><sup>VERB</sup></sub> *to use fire on*/*to make hot* = *to cook* |
 
 ##### CORRELATIVE
-<sub><sup>NIMI NOKA ESUN</sup></sub><!-- TODO consider: use definition of esun in normal toki pona -->
+<sub><sup>NIMI NOKA SAMA</sup></sub>
 
 You can convert any <sub><sup>CORRELATIVE</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning **ijo** - *something*.*
 
@@ -337,7 +333,10 @@ You can convert any <sub><sup>PREPOSITION</sup></sub> into an <sub><sup>ADJECTIV
 ## PARTICLE
 <sub><sup>NIMI LILI</sup></sub>
 
-<sub><sup>PARTICLE</sup></sub>s can only be used as <sub><sup>PARTICLE</sup></sub>s. (Only [<sub><sup>ONOMATOPEIA</sup></sub>](#onomatopeia)s can be both <sub><sup>PARTICLE</sup></sub>s and [<sub><sup>CONTENT WORD</sup></sub>](#content-word)s.)
+<sub><sup>PARTICLE</sup></sub>s can only be used as <sub><sup>PARTICLE</sup></sub>s.
+
+
+You can't convert <sub><sup>PARTICLE</sup></sub>s. A few exceptions can be looked up in the [Dictionary](#dictionary). See also [<sub><sup>ONOMATOPEIA</sup></sub>](#onomatopeia).
 
 ### MARKER
 <sub><sup>LUKA POKI</sup></sub>
@@ -431,7 +430,7 @@ When there is enough context, the <sub><sup>OBJECT</sup></sub> of a [<sub><sup>V
 | *The men know things/that/it.* → *The men know.* |
 
 ### CONJUNCTION
-<sub><sup>LINJA POKI</sup></sub><!-- TODO -->
+<sub><sup>LINJA POKI</sup></sub>
 
 #### AND
 <sub><sup>LINJA POKI PI IJO SAMA TU</sup></sub>
@@ -485,7 +484,7 @@ Before **la**, the [<sub><sup>CORRELATIVE</sup></sub>](#correlative) **ni:** in 
 | *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
 
 ### ONOMATOPEIA
-<sub><sup>NIMI KALAMA</sup></sub><!-- TODO -->
+<sub><sup>NIMI KALAMA</sup></sub>
 
 <sub><sup>ONOMATOPEIA</sup></sub>s are <sub><sup>NAME</sup></sub>s and <sub><sup>INTERJECTION</sup></sub>s. They can be both <sub><sup>PARTICLE</sup></sub>s and [<sub><sup>CONTENT WORD</sup></sub>](#content-word)s when used without **kalama**.
 
