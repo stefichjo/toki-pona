@@ -335,7 +335,7 @@ You can convert any <sub><sup>PREPOSITION</sup></sub> into an <sub><sup>ADJECTIV
 #### MOOD
 <sub><sup>POKI PALI</sup></sub>
 
-<!-- predicate marker -->
+<!-- TODO predicate marker -->
 
 ##### INDICATIVE
 <sub><sup>POKI PI PALI LON</sup></sub>
@@ -424,7 +424,7 @@ When there is enough context, the <sub><sup>OBJECT</sup></sub> of a [<sub><sup>V
 <sub><sup>LINJA POKI</sup></sub><!-- TODO -->
 
 #### AND
-<sub><sup>LINJA POKI PI IJO TU</sup></sub><!-- TODO -->
+<sub><sup>LINJA POKI PI IJO SAMA TU</sup></sub>
 
 The <sub><sup>CONJUNCTION</sup></sub> **en** means *and*. It combines two <sub><sup>NOUN PHRASE</sup></sub>s into one.
 
@@ -439,7 +439,7 @@ In <sub><sup>SENTENCE</sup></sub>s, the <sub><sup>CONJUNCTION</sup></sub> **en**
 | *But men and women are working and are happy.* |
 
 #### OR
-<sub><sup>LINJA POKI PI IJO WAN TU</sup></sub><!-- TODO -->
+<sub><sup>LINJA POKI PI IJO ANTE TU</sup></sub>
 
 The <sub><sup>CONJUNCTION</sup></sub> **anu** means *or*. It combines two <sub><sup>NOUN PHRASE</sup></sub>s into one.
 
@@ -454,7 +454,7 @@ In yes-no-questions, the <sub><sup>CONJUNCTION</sup></sub> **anu** is omitted be
 | *Is she a parent?* |
 
 #### IF-THEN
-<sub><sup>LINJA POKI PI IJO INSA</sup></sub><!-- TODO -->
+<sub><sup>LINJA POKI PI IJO INSA</sup></sub>
 
 The <sub><sup>CONJUNCTION</sup></sub> **la** can be put between the <sub><sup>CONTEXT PHRASE</sup></sub>, i.e. a [<sub><sup>PREPOSITIONAL PHRASE</sup></sub>](#preposition), and the <sub><sup>MAIN SENTENCE</sup></sub>.
 
