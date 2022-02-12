@@ -5,7 +5,7 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 | <sub><sup>SITELEN</sup></sub> | <sub><sup>KON</sup></sub> |
 |:-:|:-|
-| <img src="musi/pona/a.png" height="50" title="ha"><br>**a** | [**<sub><sup>INTERJECTION</sup></sub>**](#interjection) <br><sub><sup>PARTICLE</sup></sub> [**(emotion word)**](pu.md#lesson-10), (<sub><sup>CLASSIC</sup></sub> *kin*) **(emphasis or confirmation)** <br><sub><sup>ADVERB</sup></sub> [**so**](pu.md#lesson-10); [**ha**](pu.md#lesson-10), [**wow**](pu.md#lesson-10), [**yay**](pu.md#lesson-13): (*sama la + a* = <sub><sup>CLASSIC</sup></sub> *kin*) *also*, (<sub><sup>CLASSIC</sup></sub> *kin*) *indeed*, (*awen la + a* = <sub><sup>PIJE</sup></sub> *kin*) *still*, (*sin la + a* = <sub><sup>CLASSIC</sup></sub> *kin*) *too*; (*lon*) *yes* |
+| <img src="musi/pona/a.png" height="50" title="ha"><br>**a** | [**<sub><sup>INTERJECTION</sup></sub>**](#interjection) <br><sub><sup>PARTICLE</sup></sub> [**(emotion word)**](pu.md#lesson-10), (<sub><sup>CLASSIC</sup></sub> *kin*) **(emphasis or confirmation)** <br><sub><sup>ADVERB</sup></sub> [**so**](pu.md#lesson-10); [**ha**](pu.md#lesson-10), [**wow**](pu.md#lesson-10), [**yay**](pu.md#lesson-13): (*sama la + a* = <sub><sup>CLASSIC</sup></sub> *kin*) *also*, (<sub><sup>CLASSIC</sup></sub> *kin*) *indeed*, (*sin la + a* = <sub><sup>CLASSIC</sup></sub> *kin*) *too*; (*lon*) *yes* |
 | <img src="musi/pona/akesi.png" height="50" title="hagedis"><br>**akesi** | [**<sub><sup>LIFE-FORM</sup></sub>**](#life-form) <br><sub><sup>ADJECTIVE</sup></sub> *cold-blooded*, *treacherous*: (*pipi akesi* = <sub><sup>CLASSIC</sup></sub> *akesi*) *arthropod*, (*toki akesi* = <sub><sup>KIPO</sup></sub> *toki ike* = <sub><sup>EXTINCT</sup></sub> *powe*) *to deceive* <br><sub><sup>NOUN</sup></sub> **non-cute animal**; **amphibian**, **reptile**; (<sub><sup>KIPO</sup></sub> *monsuta*) *monster*: (*pilin akesi tan* = <sub><sup>KIPO</sup></sub> *monsuta e*) *to fear*; (*jan akesi* = <sub><sup>KIPO</sup></sub> *monsuta*) *boogeyman* |
 | <img src="musi/pona/ala.png" height="50" title="ara"><br>**ala** | [**<sub><sup>INTERJECTION</sup></sub>**](#interjection) <br><sub><sup>PARTICLE</sup></sub> *(negation)* <br><sub><sup>ADVERB</sup></sub> **not** <br><sub><sup>NOUN</sup></sub> [**nothingness**](pu.md#lesson-6) |
 | | [**<sub><sup>NUMBER</sup></sub>**](#number) <br><sub><sup>ADJECTIVE</sup></sub> **zero**, [**0**](pu.md#lesson-12); **no**: (*ijo ala* = <sub><sup>CLASSIC</sup></sub> *ala*) [**nothing**](pu.md#chapter-of-sincerity) <br><sub><sup>NOUN</sup></sub> [**zero**](pu.md#famous-quotations) |
@@ -153,14 +153,14 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 | | [**<sub><sup>THING</sup></sub>**](#thing--area) <br><sub><sup>ADJECTIVE</sup></sub> *vast* <br><sub><sup>NOUN</sup></sub> *space*; *vacuum*, *void* |
 | <img src="musi/pona/wile.png" height="50" title="wile"><br>**wile** | [**<sub><sup>PRE-VERB</sup></sub>**](#pre-verb) <br><sub><sup>PRE-VERB</sup></sub> **must**, **need**, **require**, **should**, **want**, **wish** <br><sub><sup>ADJECTIVE</sup></sub> *inevitable*, *necessary* |
 
-<!-- TODO -->
-nasin nimi
-As a rule of thumb, one can change the part of speech of any content word, but one can't change the part of speech of a particle.
-
-But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verbs") and prepositions can be converted into nouns, adjectives and verbs, but not the other way around. Also, an onomatopeia can be converted into a content word meaning *the name ...* or *the sound ...*, and a content word can be used as an onomatopeia or name, e.g. **nanpa**.
-
 ## CONTENT WORD
 <sub><sup>NIMI SULI</sup></sub>
+
+<!-- TODO -->
+<!-- nasin nimi
+As a rule of thumb, one can change the part of speech of any content word, but one can't change the part of speech of a particle.
+
+But there are restrictions and loopholes in Toki Pona: auxiliaries (or "pre-verbs") and prepositions can be converted into nouns, adjectives and verbs, but not the other way around. Also, an onomatopeia can be converted into a content word meaning *the name ...* or *the sound ...*, and a content word can be used as an onomatopeia or name, e.g. **nanpa**. -->
 
 ### NOUN
 <sub><sup>NIMI LAWA</sup></sub>
