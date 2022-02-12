@@ -4,7 +4,9 @@
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
 <!-- 
-KU TODO
+TODO
+
+KU
 tonsi
 jasima
 soko
@@ -14,6 +16,11 @@ kokosila
 lanpan
 n
 misikeke
+ -->
+
+<!-- 
+TODO
+unpa
  -->
 
 | <sub><sup>SITELEN</sup></sub> | <sub><sup>KON</sup></sub> |
