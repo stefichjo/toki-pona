@@ -27,40 +27,45 @@ sama lili la toki Sinan la <sub><sup>NIMI SULI</sup></sub> li "moku" e <sub><sup
 | **suv**                  | **utala**                         |
 | <sub><sup>NIMI SULI</sup></sub> | <sub><sup>NIMI SULI</sup></sub>          |
 | | |
-| **suvwí**                | **jan utala**                     |
-| <sub><sup>NIMI SULI</sup></sub> | <sub><sup>LINJA PI NIMI SULI</sup></sub> |
-|                          | = <sub><sup>NIMI SULI</sup></sub> |
+| *jan utala*                       | **suvwí**                                |
+| <sub><sup>NIMI SULI</sup></sub>   | <sub><sup>LINJA PI NIMI SULI</sup></sub> |
+| = <sub><sup>NIMI SULI</sup></sub> |                                          |
 
-<sub><sup>NIMI LAWA</sup></sub> li kama <sub><sup>NOKA</sup></sub>, la ona li tawa open <sub><sup>LINJA</sup></sub>. — <sub><sup>**ŋ** [`ng`]</sup></sub>
+<!-- TODO format -->
 
-| | | | | |
-|-|-|-|-|-|
-| **ǧot** | **poŋ** | | **nimi** | **jan** |
-| <sub><sup>NOKA</sup></sub> | <sub><sup>LAWA</sup></sub> | | <sub><sup>LAWA</sup></sub> | <sub><sup>NOKA</sup></sub> |
-
-<sub><sup>NIMI NOKA</sup></sub> li kama <sub><sup>NOKA</sup></sub>, la ona li tawa pini <sub><sup>LINJA</sup></sub>. — <sub><sup>**č** [`ch`], **i** [`I`]</sup></sub>
+<sub><sup>NIMI LAWA</sup></sub> li kama lon <sub><sup>NOKA</sup></sub>, la ona li tawa open <sub><sup>LINJA</sup></sub>. — <sub><sup>**ŋ** [`ng`]</sup></sub>
 
 | | | | | |
 |-|-|-|-|-|
-| **qač** | **tin** | | **tomo** | **suli** |
+| *nimi* | *jan* | | **ǧot** | **poŋ** |
+| <sub><sup>LAWA</sup></sub> | <sub><sup>NOKA</sup></sub> | | <sub><sup>NOKA</sup></sub> | <sub><sup>LAWA</sup></sub> |
+
+<sub><sup>NIMI NOKA</sup></sub> li lon pini <sub><sup>LINJA</sup></sub>. — <sub><sup>**č** [`ch`], **i** [`I`]</sup></sub>
+
+| | | | | |
+|-|-|-|-|-|
+| *tomo* | *suli* | | **qač** | **tin** |
 | <sub><sup>LAWA</sup></sub> | <sub><sup>NOKA</sup></sub> | | <sub><sup>LAWA</sup></sub> | <sub><sup>NOKA</sup></sub> |
 
-<sub><sup>ANPA</sup></sub> li lon open. <sub><sup>LAWA</sup></sub> li lon pini. — <sub><sup>**ǧ** [`gh`]</sup></sub>
+<sub><sup>ANPA</sup></sub> li lon open. <sub><sup>SEWI</sup></sub> li lon pini. — <sub><sup>**ǧ** [`gh`]</sup></sub>
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
-| **jaǧ** | **suv** | **sulu** | | **jan Sulu** | **li utala** | **e jan ike** |
-| <sub><sup>ANPA</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>SEWI</sup></sub> | | <sub><sup>SEWI</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>ANPA</sup></sub> |
+| *jan Sulu* | *li utala* | *e jan ike* | | **jaǧ** | **suv** | **sulu** |
+| <sub><sup>SEWI</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>ANPA</sup></sub> | | <sub><sup>ANPA</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>SEWI</sup></sub> |
 
-jan li sona e <sub><sup>SEWI</sup></sub>, la ona li ken weka.
+jan li sona e <sub><sup>SEWI</sup></sub>, la ona li weka lon tenpo mute.
 
-| | | | | | |
-|-|-|-|-|-|-|
-| **jaǧ** | **suv** | | **(ona)** | **li utala** | **e jan ike** |
-| <sub><sup>ANPA</sup></sub> | <sub><sup>PALI</sup></sub> | | (<sub><sup>SEWI</sup></sub>) | <sub><sup>PALI</sup></sub> | <sub><sup>ANPA</sup></sub> |
+| | | | | | | |
+|-|-|-|-|-|-|-|
+| *(ona)* | *li utala* | *e jan ike* | | **jaǧ** | **suv** | **(ǧah)** |
+| (<sub><sup>SEWI</sup></sub>) | <sub><sup>PALI</sup></sub> | <sub><sup>ANPA</sup></sub> | | <sub><sup>ANPA</sup></sub> | <sub><sup>PALI</sup></sub> | (<sub><sup>SEWI</sup></sub>) |
 
 <!-- TODO plural -->
 
+
+| | | | | | | | |
+|-|-|-|-|-|-|-|-|
 | *jan ike*      | **jaǧ**   | | *noka*      | **qam**   | | *tomo tawa mun*      | **duj**    |
 | *jan ike mute* | **jaǧpú** | | *noka mute* | **qamdú** | | *tomo tawa mun mute* | **dujmey** |
 
