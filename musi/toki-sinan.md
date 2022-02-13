@@ -77,7 +77,7 @@ jan li sona e <sub><sup>SEWI</sup></sub>, la ona li weka lon tenpo mute.
 | *sina wan li utala e jan ike* | **jaǧ dasuv** | | *sina mute li utala e jan ike* | **jaǧ bosuv** |
 | *ona wan li utala e jan ike*  | **jaǧ suv**   | | *ona mute li utala e jan ike*  | **jaǧ lusuv** |
 
-<sub><sup>SEWI</sup></sub> li suli ala, la <sub><sup>NIMI PALI</sup></sub> li kama jo e <sub><sup>NIMI LILI</sup></sub> **-lú**; <sub><sup>ANPA</sup></sub> li tawa <sub><sup>SEWI</sup></sub>.
+<sub><sup>SEWI</sup></sub> li suli ala tawa jan toki, la ona li ken kama weka. ni la <sub><sup>NIMI PALI</sup></sub> li kama jo e <sub><sup>NIMI LILI</sup></sub> **-lú**. ni la <sub><sup>ANPA</sup></sub> li tawa <sub><sup>SEWI</sup></sub>.
 
 | | | | | |
 |-:|-:|-:|-:|-:|
@@ -100,12 +100,59 @@ jan li sona e <sub><sup>SEWI</sup></sub>, la ona li weka lon tenpo mute.
 | *sina wan li lape*   | **biq̌oŋ** | | *sina mute li lape*  | **suq̌oŋ** |
 | *ona (wan) li lape*  | **q̌oŋ**   | | *ona (mute) li lape* | **q̌oŋ**   |
 
-<sub><sup>POKA</sup></sub> li lon open <sub><sup>LINJA</sup></sub>.
+## PALI
+
+<!-- 
+TODO
+łiŋan mah = mi mute li jan Sinan
+= (mi mute) li mi mute e jan Sinan.
+ -->
+
+## POKA
+
+tenpo mute la <sub><sup>POKA</sup></sub> li lon open <sub><sup>LINJA</sup></sub>.
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
-| *(mi)* | *lape* | *lon tenpo ale* | | **reh** | **jiq̌oŋ** | **(jih)** |
-| <sub><sup>(SEWI)</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>POKA</sup></sub> | |  <sub><sup>POKI</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>(SEWI)</sup></sub> |
+| *(mi wan)* | *li lape* | *lon tenpo ale* | | **reh** | **jiq̌oŋ** | **(jih)** |
+| <sub><sup>(SEWI)</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>POKA</sup></sub> | |  <sub><sup>POKA</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>(SEWI)</sup></sub> |
+
+<sub><sup>NIMI LAWA</sup></sub> li "moku" e <sub><sup>NIMI LILI</sup></sub> **daq**, **mó**, **vad**, **vó** anu **ě**, la ona li kama lon <sub><sup>POKA</sup></sub>.
+
+| | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|
+| *(sina wan)* | *li pana* | *e lipu* | *tawa jan pona* | | **jupdaq** | **paq** | **danob** | **(soh)** |
+| <sub><sup>(SEWI)</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>ANPA</sup></sub> | <sub><sup>POKA</sup></sub> | |  <sub><sup>POKA</sup></sub> |  <sub><sup>ANPA</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>(SEWI)</sup></sub> |
+
+<sub><sup>POKA</sup></sub> pi <sub><sup>NIMI LILI</sup></sub> **ě** li lon pini <sub><sup>LINJA</sup></sub>.
+
+| | |
+|-|-|
+| *jan pona* | *li jan Sinan* |
+| <sub><sup>SEWI</sup></sub> | <sub><sup>PALI</sup></sub> |
+
+| | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|
+| *"jan pona la"* | *(-)* | *"li ona"* | *"e jan Sinan"* | | **łiŋan** | **ǧah** | **(-)** | **jupě** |
+| <sub><sup>POKA</sup></sub> | <sub><sup>(-)</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>ANPA</sup></sub> | |  <sub><sup>ANPA</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>(-)</sup></sub> |  <sub><sup>POKA</sup></sub> |
+
+<!-- TODO -->
+
+| | | |
+|-|-|-|
+| *jan pona* | *li lon* | *~~lon~~ tomo* |
+| <sub><sup>SEWI</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>POKA</sup></sub> |
+
+| | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|
+| *"jan pona la"* | *(-)* | *"li awen ona"* | *"lon tomo"* | | **juhdaq** | **ǧahtah** | **(-)** | **jupě** |
+| <sub><sup>POKA</sup></sub> | <sub><sup>(-)</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>POKA</sup></sub> | |  <sub><sup>POKA</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>(-)</sup></sub> |  <sub><sup>POKA</sup></sub> |
+
+
+
+<!-- TODO linja nimi pi nimi "li". -->
+
+<!-- TODO tah = awen -->
 
 ---
 
