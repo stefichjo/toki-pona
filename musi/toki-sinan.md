@@ -118,6 +118,49 @@ tenpo mute la <sub><sup>POKA</sup></sub> li lon open <sub><sup>LINJA</sup></sub>
 | *(mi wan)* | *li lape* | *lon tenpo ale* | | **reh** | **jiq̌oŋ** | **(jih)** |
 | <sub><sup>(SEWI)</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>POKA</sup></sub> | |  <sub><sup>POKA</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>(SEWI)</sup></sub> |
 
+<sub><sup>NIMI PALI</sup></sub> li "moku" e <sub><sup>NIMI LILI</sup></sub> **meh** anu **čuǧ**, **mó** anu **dí**, **pá**, **vis**, la ona li kama lon <sub><sup>POKA</sup></sub>.
+
+| | | | | |
+|-|-|-|-|-|
+| *mi ken lukin e jan ike, la* | *ona li ken lukin e mi* | | **jaǧ vileǧlahčuǧ** | **muleǧlah** |
+| <sub><sup>POKA</sup></sub> | <sub><sup>SEWI + PALI + ANPA</sup></sub> | | <sub><sup>POKA</sup></sub> | <sub><sup>PALI</sup></sub> |
+
+mi ken lukin e jan ike, la jan ike li ken lukin e mi.
+jaǧ vileǧlahčuǧ muleǧlah.
+jagh vIleghlaHchugh muleghlaH.
+
+dí - when; as soon as
+pá - before
+vis - while
+mó - because
+boǧ - relative clause marker
+meh - for
+
+<!-- TODO ekzemploj -->
+
+<sub><sup>NIMI PALI</sup></sub> li "moku" e <sub><sup>NIMI LILI</sup></sub> **boǧ**, la ona li kama
+
+<!-- la oficiro, kiun li batis, vidas min.
+mu:leǧ yas :qippú.boǧ
+jan pali ni: ona li luka kiwen wawa, li lukin e mi.
+
+mi vidas la oficiron, kiu batas lin.
+:qippú.boǧ yas vi:leǧ
+mi lukin e jan pali ni: (ona li) luka kiwen wawa e ona.
+
+boǧ - ni: ...
+meh - tan ni: ... li wile
+
+čuǧ - lon ni: ...
+mó - tan ni: ...
+
+dí - lon open ni: ...
+pá - lon kama ni: ...
+vís - lon tenpo ni: ... -->
+
+<!-- lon tenpo ni = lon awen ni -->
+<!-- TOOD -->
+
 <sub><sup>NIMI LAWA</sup></sub> li "moku" e <sub><sup>NIMI LILI</sup></sub> **daq**, **mó**, **vad**, **vó** anu **ě**, la ona li kama lon <sub><sup>POKA</sup></sub>.
 
 | | | | | | | | | |
@@ -125,7 +168,7 @@ tenpo mute la <sub><sup>POKA</sup></sub> li lon open <sub><sup>LINJA</sup></sub>
 | *(sina wan)* | *li pana* | *e lipu* | *tawa jan pona* | | **jupdaq** | **paq** | **danob** | **(soh)** |
 | <sub><sup>(SEWI)</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>ANPA</sup></sub> | <sub><sup>POKA</sup></sub> | |  <sub><sup>POKA</sup></sub> |  <sub><sup>ANPA</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>(SEWI)</sup></sub> |
 
-<sub><sup>POKA</sup></sub> pi <sub><sup>NIMI LILI</sup></sub> **ě** li lon pini <sub><sup>LINJA</sup></sub>.
+<sub><sup>POKA</sup></sub> pi <sub><sup>NIMI LILI</sup></sub> **ě** li lon pini <sub><sup>LINJA</sup></sub>. — <sub><sup>**ł** [`tlh`]</sup></sub>
 
 | | | | | | |
 |-|-|-|-|-|-|
@@ -136,72 +179,66 @@ tenpo mute la <sub><sup>POKA</sup></sub> li lon open <sub><sup>LINJA</sup></sub>
 
 | | | | | | | | |
 |-|-|-|-|-|-|-|-|
-| *jan pona* | *li lon* | *~~lon~~ tomo* | | **juhdaq** | **ǧahtah** | **jupě** |
+| *jan pona* | *li awen lon* | *~~lon~~ tomo* | | **juhdaq** | **ǧahtah** | **jupě** |
 | <sub><sup>SEWI</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>POKA</sup></sub> | |  <sub><sup>POKA</sup></sub> | <sub><sup>PALI</sup></sub> |  <sub><sup>POKA</sup></sub> |
 
+---
 
+| | |
+|-|-|
+| <sub><sup>**NIMI** SULI</sup></sub> | <sub><sup>CONTENT WORD</sup></sub> |
+| <sub><sup>**NIMI** LILI</sup></sub> | <sub><sup>PARTICLE</sup></sub>     |
 
-<!-- TODO linja nimi pi nimi "li". -->
+| | |
+|-|-|
+| <sub><sup>**LINJA** NIMI</sup></sub> | <sub><sup>PHRASE</sup></sub>   |
+| | |
+| <sub><sup>**LAWA** LINJA</sup></sub> | <sub><sup>HEAD</sup></sub>     |
+| <sub><sup>**NOKA** LINJA</sup></sub> | <sub><sup>MODIFIER</sup></sub> |
+| | |
+| | |
+| <sub><sup>**NIMI LAWA**</sup></sub>          | <sub><sup>NOUN</sup></sub>      |
+| <sub><sup>**NIMI LAWA SAMA**</sup></sub>     | <sub><sup>PRONOUN</sup></sub>   |
+| <sub><sup>**NIMI NOKA**</sup></sub>          | <sub><sup>ADJECTIVE</sup></sub> |
 
-<!-- TODO tah = awen -->
+| | |
+|-|-|
+| <sub><sup>**SEWI** PALI</sup></sub> | <sub><sup>SUBJECT</sup></sub>   |
+| <sub><sup>INSA **PALI**</sup></sub> | <sub><sup>PREDICATE</sup></sub> |
+| <sub><sup>**ANPA** PALI</sup></sub> | <sub><sup>OBJECT</sup></sub>    |
+| | |
+| | |
+| <sub><sup>**NIMI PALI**</sup></sub>                        | <sub><sup>VERB</sup></sub>     |
+| <sub><sup>**NIMI PALI** PI LINJA PALI **LAWA**</sup></sub> | <sub><sup>PRE-VERB</sup></sub> |
+
+| | |
+|-|-|
+| <sub><sup>**POKA** PALI</sup></sub>      | <sub><sup>CONTEXT</sup></sub>              |
+| | |
+| <sub><sup>NIMI **LUKA POKA** SULI</sup></sub> | <sub><sup>PREPOSITION</sup></sub>          |
+| <sub><sup>NIMI **LUKA POKA** LILI</sup></sub> | <sub><sup>CONTEXT MARKER</sup></sub>: *la* |
 
 ---
 
 | | |
 |-|-|
-| <sub><sup>**NIMI** SULI</sup></sub> | content word |
-| <sub><sup>**NIMI** LILI</sup></sub> | particle     |
+| <sub><sup>**POKI**</sup></sub>            | <sub><sup>CASE</sup></sub>           |
+| <sub><sup>**POKI ANPA**</sup></sub>       | <sub><sup>ACCUSATIVE</sup></sub>     |
+| <sub><sup>**POKI NOKA**</sup></sub>       | <sub><sup>GENITIVE</sup></sub>       |
+| <sub><sup>**POKI PALI**</sup></sub>       | <sub><sup>PREDICATE</sup></sub>      |
+| | |
+| | |
+| <sub><sup>NIMI **LUKA POKI**</sup></sub>             | <sub><sup>CASE MARKER</sup></sub>             |
+| <sub><sup>NIMI **LUKA** PI POKI **ANPA**</sup></sub> | <sub><sup>ACCUSATIVE MARKER</sup></sub>: *e*  |
+| <sub><sup>NIMI **LUKA** PI POKI **NOKA**</sup></sub> | <sub><sup>GENITIVE MARKER</sup></sub>: *pi*   |
+| <sub><sup>NIMI **LUKA** PI POKI **PALI**</sup></sub> | <sub><sup>PREDICATE MARKER</sup></sub>: *li*, *o*  |
 
 | | |
 |-|-|
-| <sub><sup>**LINJA** NIMI</sup></sub> | phrase   |
-| | |
-| <sub><sup>**LAWA** LINJA</sup></sub> | head     |
-| <sub><sup>**NOKA** LINJA</sup></sub> | modifier |
-| | |
-| | |
-| <sub><sup>**NIMI LAWA**</sup></sub>          | noun      |
-| <sub><sup>**NIMI LAWA SAMA**</sup></sub>     | pronoun   |
-| <sub><sup>**NIMI NOKA**</sup></sub>          | adjective |
-
-| | |
-|-|-|
-| <sub><sup>**SEWI** PALI</sup></sub> | subject   |
-| <sub><sup>INSA **PALI**</sup></sub> | predicate |
-| <sub><sup>**ANPA** PALI</sup></sub> | object    |
-| | |
-| | |
-| <sub><sup>**NIMI PALI**</sup></sub>                        | verb     |
-| <sub><sup>**NIMI PALI** PI LINJA PALI **LAWA**</sup></sub> | pre-verb |
-
-| | |
-|-|-|
-| <sub><sup>**POKA** PALI</sup></sub>      | context              |
-| | |
-| <sub><sup>NIMI **LUKA POKA** SULI</sup></sub> | preposition          |
-| <sub><sup>NIMI **LUKA POKA** LILI</sup></sub> | context marker: *la* |
-
----
-
-| | |
-|-|-|
-| <sub><sup>**POKI**</sup></sub>            | case           |
-| <sub><sup>**POKI ANPA**</sup></sub>       | accusative     |
-| <sub><sup>**POKI NOKA**</sup></sub>       | genitive       |
-| <sub><sup>**POKI PALI**</sup></sub>       | predicate      |
-| | |
-| | |
-| <sub><sup>NIMI **LUKA POKI**</sup></sub>             | CASE             |
-| <sub><sup>NIMI **LUKA** PI POKI **PALI**</sup></sub> | PREDICATE: *li*, *o*  |
-| <sub><sup>NIMI **LUKA** PI POKI **ANPA**</sup></sub> | accusative marker: *e*  |
-| <sub><sup>NIMI **LUKA** PI POKI **NOKA**</sup></sub> | genitive marker: *pi*   |
-
-| | |
-|-|-|
-| <sub><sup>**LINJA SULI**</sup></sub>      | sentence           |
-| <sub><sup>**LINJA PALI**</sup></sub>      | clause             |
-| <sub><sup>**LINJA PALI LAWA**</sup></sub> | main clause        |
-| <sub><sup>**LINJA PALI NOKA**</sup></sub> | subordinate clause |
+| <sub><sup>**LINJA SULI**</sup></sub>      | <sub><sup>SENTENCE</sup></sub>           |
+| <sub><sup>**LINJA PALI**</sup></sub>      | <sub><sup>CLAUSE</sup></sub>             |
+| <sub><sup>**LINJA PALI LAWA**</sup></sub> | <sub><sup>MAIN CLAUSE</sup></sub>        |
+| <sub><sup>**LINJA PALI NOKA**</sup></sub> | <sub><sup>SUBORDINATE CLAUSE</sup></sub> |
 
 ---
 
