@@ -7,13 +7,13 @@ sama lili la toki Sinan la <sub><sup>NIMI SULI</sup></sub> li "moku" e <sub><sup
 
 | | |
 |-|-|
-| **-qú**                  | **a**                             |
+| *a*                             | **-qú**                  |
 | <sub><sup>NIMI LILI</sup></sub> | <sub><sup>NIMI LILI</sup></sub>          |
 | | |
-| **tin**                  | **suli**                          |
+| *suli*                          | **tin**                  |
 | <sub><sup>NIMI SULI</sup></sub> | <sub><sup>NIMI SULI</sup></sub>          |
 | | |
-| **tinqú**                | **suli a**                        |
+| *suli a*                        | **tinqú**                |
 | <sub><sup>NIMI SULI</sup></sub> | <sub><sup>LINJA PI NIMI SULI</sup></sub> |
 |                          | = <sub><sup>NIMI SULI</sup></sub>        |
 
@@ -21,17 +21,15 @@ sama lili la toki Sinan la <sub><sup>NIMI SULI</sup></sub> li "moku" e <sub><sup
 
 | | |
 |-|-|
-| **wí**                   | **jan**                           |
-| <sub><sup>NIMI LILI</sup></sub> | <sub><sup>NIMI SULI</sup></sub>          |
+| *jan*                           | **wí**                   |
+| <sub><sup>NIMI SULI</sup></sub> | <sub><sup>NIMI LILI</sup></sub>          |
 | | |
-| **suv**                  | **utala**                         |
+| *utala*                         | **suv**                  |
 | <sub><sup>NIMI SULI</sup></sub> | <sub><sup>NIMI SULI</sup></sub>          |
 | | |
 | *jan utala*                       | **suvwí**                                |
 | <sub><sup>NIMI SULI</sup></sub>   | <sub><sup>LINJA PI NIMI SULI</sup></sub> |
 | = <sub><sup>NIMI SULI</sup></sub> |                                          |
-
-<!-- TODO format -->
 
 <sub><sup>NIMI LAWA</sup></sub> li kama lon <sub><sup>NOKA</sup></sub>, la ona li tawa open <sub><sup>LINJA</sup></sub>. — <sub><sup>**ŋ** [`ng`]</sup></sub>
 
