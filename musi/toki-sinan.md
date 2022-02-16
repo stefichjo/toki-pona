@@ -2,7 +2,7 @@
 
 sama toki pona la toki Sinan li jo e <sub><sup>NIMI SULI</sup></sub> e <sub><sup>NIMI LILI</sup></sub>.
 toki pona la <sub><sup>NIMI SULI</sup></sub> li "moku" e <sub><sup>NIMI LILI</sup></sub> li kama <sub><sup>LINJA PI NIMI SULI</sup></sub>.
-<sub><sup>LINJA PI NIMI SULI</sup></sub> ni li sama <sub><sup>NIMI SULI</sup></sub> wan lon <sub><sup>LINJA NIMI</sup></sub>.
+<sub><sup>LINJA PI NIMI SULI</sup></sub> ni li sama <sub><sup>NIMI SULI</sup></sub> wan lon <sub><sup>LINJA SULI</sup></sub>.
 sama lili la toki Sinan la <sub><sup>NIMI SULI</sup></sub> li "moku" e <sub><sup>NIMI LILI</sup></sub> li kama <sub><sup>NIMI SULI</sup></sub> sin. — <sub><sup>**ú** [`u'`]; **i** [`I`]</sup></sub>
 
 | | |
@@ -125,17 +125,14 @@ tenpo mute la <sub><sup>POKA</sup></sub> li lon open <sub><sup>LINJA</sup></sub>
 | *mi ken lukin e jan ike, la* | *ona li ken lukin e mi* | | **jaǧ vileǧlahčuǧ** | **muleǧlah** |
 | <sub><sup>POKA</sup></sub> | <sub><sup>SEWI + PALI + ANPA</sup></sub> | | <sub><sup>POKA</sup></sub> | <sub><sup>PALI</sup></sub> |
 
-mi ken lukin e jan ike, la jan ike li ken lukin e mi.
-jaǧ vileǧlahčuǧ muleǧlah.
-jagh vIleghlaHchugh muleghlaH.
-
+<!-- 
 dí - when; as soon as
 pá - before
 vis - while
 mó - because
 boǧ - relative clause marker
 meh - for
-
+ -->
 <!-- TODO ekzemploj -->
 
 <sub><sup>NIMI PALI</sup></sub> li "moku" e <sub><sup>NIMI LILI</sup></sub> **boǧ**, la ona li kama
@@ -240,9 +237,14 @@ vís - lon tenpo ni: ... -->
 | <sub><sup>**LINJA PALI LAWA**</sup></sub> | <sub><sup>MAIN CLAUSE</sup></sub>        |
 | <sub><sup>**LINJA PALI NOKA**</sup></sub> | <sub><sup>SUBORDINATE CLAUSE</sup></sub> |
 
+| | |
+|-|-|
+| <sub><sup>NIMI **LUKA PI LINJA TU**</sup></sub>           | <sub><sup>CONJUNCTION</sup></sub>: *anu*, *en*           |
+| <sub><sup>NIMI **LUKA PI LINJA** TU **ANTE**</sup></sub>      | *anu*           |
+| <sub><sup>NIMI **LUKA PI LINJA** TU **SAMA**</sup></sub>      | *en*            |
+
 ---
 
-conjunction linja poki
-anu linja poki pi wan tu
-anu, en, a, mu
+a, mu
 
+<!-- nimi lili (pi) kalama pilin -->
