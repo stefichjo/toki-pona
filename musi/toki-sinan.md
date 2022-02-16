@@ -19,15 +19,14 @@ sama lili la toki Sinan la <sub><sup>NIMI SULI</sup></sub> li "moku" e <sub><sup
 
 | | |
 |-|-|
-| *jan*                           | **wí**                   |
+| *jan*                           | **-wí**                   |
 | <sub><sup>NIMI SULI</sup></sub> | <sub><sup>NIMI LILI</sup></sub>          |
 | | |
 | *utala*                         | **suv**                  |
 | <sub><sup>NIMI SULI</sup></sub> | <sub><sup>NIMI SULI</sup></sub>          |
 | | |
 | *jan utala*                       | **suvwí**                                |
-| <sub><sup>NIMI SULI</sup></sub>   | <sub><sup>LINJA PI NIMI SULI</sup></sub> |
-| = <sub><sup>NIMI SULI</sup></sub> |                                          |
+| <sub><sup>LINJA PI NIMI SULI</sup></sub>   | <sub><sup>NIMI SULI</sup></sub> |
 
 <sub><sup>NIMI LAWA</sup></sub> li kama lon <sub><sup>NOKA</sup></sub>, la ona li tawa open <sub><sup>LINJA</sup></sub>. — <sub><sup>**ŋ** [`ng`]</sup></sub>
 
