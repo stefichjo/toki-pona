@@ -2,7 +2,6 @@
 
 sama toki pona la toki Sinan li jo e <sub><sup>NIMI SULI</sup></sub> e <sub><sup>NIMI LILI</sup></sub>.
 toki pona la <sub><sup>NIMI SULI</sup></sub> li "kama jo" e <sub><sup>NIMI LILI</sup></sub>.
-<sub><sup>LINJA PI NIMI SULI</sup></sub> ni li sama <sub><sup>NIMI SULI</sup></sub> wan lon <sub><sup>LINJA SULI</sup></sub>.
 sama lili la toki Sinan la <sub><sup>NIMI SULI</sup></sub> li "moku" e <sub><sup>NIMI LILI</sup></sub> li kama <sub><sup>NIMI SULI</sup></sub> sin. — <sub><sup>**ú** [`u'`]; **i** [`I`]</sup></sub>
 
 | | |
@@ -15,7 +14,6 @@ sama lili la toki Sinan la <sub><sup>NIMI SULI</sup></sub> li "moku" e <sub><sup
 | | |
 | *suli a*                        | **tinqú**                |
 | <sub><sup>NIMI SULI</sup></sub> | <sub><sup>LINJA PI NIMI SULI</sup></sub> |
-|                          | = <sub><sup>NIMI SULI</sup></sub>        |
 
 <sub><sup>NIMI LILI</sup></sub> mute pi toki Sinan li sama <sub><sup>NIMI SULI</sup></sub> pi toki pona. — <sub><sup>**s** [`S`]</sup></sub>
 
