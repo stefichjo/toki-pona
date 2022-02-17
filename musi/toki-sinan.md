@@ -56,7 +56,7 @@ jan li sona e <sub><sup>SEWI</sup></sub>, la ona li weka lon tenpo mute.
 | *(ona)* | *li utala* | *e jan ike* | | **jaǧ** | **suv** | **(ǧah)** |
 | (<sub><sup>SEWI</sup></sub>) | <sub><sup>PALI</sup></sub> | <sub><sup>ANPA</sup></sub> | | <sub><sup>ANPA</sup></sub> | <sub><sup>PALI</sup></sub> | (<sub><sup>SEWI</sup></sub>) |
 
-<!-- TODO plural -->
+<!-- TODO multenombro kaj aliaj sufiksoj -->
 
 
 | | | | | | | | |
@@ -104,6 +104,20 @@ jan li sona e <sub><sup>SEWI</sup></sub>, la ona li weka lon tenpo mute.
 | *mi mute* | *li jan Sinan* | | **łiŋan** | **mah** |
 | <sub><sup>SEWI</sup></sub> | <sub><sup>PALI</sup></sub> | | <sub><sup>ANPA</sup></sub> | <sub><sup>PALI</sup></sub> |
 
+## ...
+
+<sub><sup>NIMI PALI</sup></sub> li "moku" e <sub><sup>NIMI LILI</sup></sub> **boǧ**, la <sub><sup>SEWI</sup></sub> anu <sub><sup>NOKA</sup></sub> ona li kama kon pi <sub><sup>LINJA PALI</sup></sub> ni.
+
+| | | | | |
+|-|-|-|-|-|
+| *jan ike ni: (sina wan) li luka kiwen (e ona wan),* | *li lukin (e mi mute)* | | **nuleǧ** | **jaǧ daqipboǧ** |
+| <sub><sup>SEWI</sup></sub> | <sub><sup>PALI</sup></sub> | | <sub><sup>PALI</sup></sub> | <sub><sup>SEWI</sup></sub> |
+
+| | | | | |
+|-|-|-|-|-|
+| *jan ike ni: (ona wan) li luka kiwen (e sina wan),* | *li lukin (e mi mute)* | | **nuleǧ** | **duqipboǧ jaǧ** |
+| <sub><sup>SEWI</sup></sub> | <sub><sup>PALI</sup></sub> | | <sub><sup>PALI</sup></sub> | <sub><sup>SEWI</sup></sub> |
+
 ## POKA
 
 tenpo mute la <sub><sup>POKA</sup></sub> li lon open <sub><sup>LINJA</sup></sub>.
@@ -125,22 +139,13 @@ dí - when; as soon as
 pá - before
 vis - while
 mó - because
-boǧ - relative clause marker
 meh - for
  -->
 <!-- TODO ekzemploj -->
 
-<sub><sup>NIMI PALI</sup></sub> li "moku" e <sub><sup>NIMI LILI</sup></sub> **boǧ**, la ona li kama
+<!--
+la oficiro, kiun li batis, vidas min.
 
-<!-- la oficiro, kiun li batis, vidas min.
-mu:leǧ yas :qippú.boǧ
-jan pali ni: ona li luka kiwen wawa, li lukin e mi.
-
-mi vidas la oficiron, kiu batas lin.
-:qippú.boǧ yas vi:leǧ
-mi lukin e jan pali ni: (ona li) luka kiwen wawa e ona.
-
-boǧ - ni: ...
 meh - tan ni: ... li wile
 
 čuǧ - lon ni: ...
