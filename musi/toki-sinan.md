@@ -28,6 +28,21 @@ sama lili la toki Sinan la <sub><sup>NIMI SULI</sup></sub> li "moku" e <sub><sup
 | *jan utala*                       | **suvwí**                                |
 | <sub><sup>LINJA PI NIMI SULI</sup></sub>   | <sub><sup>NIMI SULI</sup></sub> |
 
+| | |
+|-|-|
+| *telo*                | **biq**    |
+| *telo suli*           | **biqǎ**   |
+| | |
+| *meli*                | **bé**     |
+| *meli lili*           | **béhom**  |
+| | |
+| *mama meli*           | **sos**    |
+| *mama meli pona (mi)* | **sosoy**  |
+| | |
+| *kon tawa*            | **sus**    |
+| *kon tawa lili*       | **sushom** |
+| *kon tawa wawa*       | **susǎ**   |
+
 <sub><sup>NIMI LAWA</sup></sub> li kama lon <sub><sup>NOKA</sup></sub>, la ona li tawa open <sub><sup>LINJA</sup></sub>. — <sub><sup>**ŋ** [`ng`]</sup></sub>
 
 | | | | | |
@@ -110,12 +125,12 @@ jan li sona e <sub><sup>SEWI</sup></sub>, la ona li weka lon tenpo mute.
 
 | | | | | |
 |-|-|-|-|-|
-| *jan ike ni: (sina wan) li luka kiwen (e ona wan),* | *li lukin (e mi mute)* | | **nuleǧ** | **jaǧ daqipboǧ** |
+| *jan ike ni: (sina wan) li luka kiwen (e ona wan),* | *li lukin (e mi mute)* | | **(mah) nuleǧ** | **jaǧ daqipboǧ (soh)** |
 | <sub><sup>SEWI</sup></sub> | <sub><sup>PALI</sup></sub> | | <sub><sup>PALI</sup></sub> | <sub><sup>SEWI</sup></sub> |
 
 | | | | | |
 |-|-|-|-|-|
-| *jan ike ni: (ona wan) li luka kiwen (e sina wan),* | *li lukin (e mi mute)* | | **nuleǧ** | **duqipboǧ jaǧ** |
+| *jan ike ni: (ona wan) li luka kiwen (e sina wan),* | *li lukin (e mi mute)* | | **(mah) nuleǧ** | **(soh) duqipboǧ jaǧ** |
 | <sub><sup>SEWI</sup></sub> | <sub><sup>PALI</sup></sub> | | <sub><sup>PALI</sup></sub> | <sub><sup>SEWI</sup></sub> |
 
 ## POKA
@@ -144,8 +159,6 @@ meh - for
 <!-- TODO ekzemploj -->
 
 <!--
-la oficiro, kiun li batis, vidas min.
-
 meh - tan ni: ... li wile
 
 čuǧ - lon ni: ...
