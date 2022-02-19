@@ -30,8 +30,8 @@ sama lili la toki Sinan la <sub><sup>NIMI SULI</sup></sub> li "moku" e <sub><sup
 
 | | |
 |-|-|
-| *telo*                | **biq**    |
-| *telo suli*           | **biqǎ**   |
+| *telo*                | **biq̌**    |
+| *telo suli*           | **biq̌ǎ**   |
 | | |
 | *meli*                | **bé**     |
 | *meli lili*           | **béhom**  |
@@ -43,6 +43,31 @@ sama lili la toki Sinan la <sub><sup>NIMI SULI</sup></sub> li "moku" e <sub><sup
 | *kon tawa lili*       | **sushom** |
 | *kon tawa wawa*       | **susǎ**   |
 
+| | |
+|-|-|
+| *jan lili*            | **puq**    |
+| *jan lili mute*       | **puqpú**  |
+| | |
+| *lukin*               | **min**    |
+| *lukin mute*          | **mindú**  |
+| | |
+| *mun*                 | **mas**    |
+| *mun mute*            | **masmey** |
+| | |
+| *kiwen pi tawa utala*              | **peŋ**    |
+| *kiwen mute pi tawa utala*         | **ča**     |
+| *kiwen mute pi tawa utala lon ale* | **peŋmey** |
+
+| | |
+|-|-|
+| *lipu*                                        | **paq**     |
+| *tawa lukin la ona ni li lipu. ona ...*       | **paqhey**  |
+| *jan li pana e nimi "lipu" tawa ona. ona ...* | **paqqoq**  |
+| *lipu a*                                      | **paqná**   |
+
+
+
+<!-- ? -->
 <sub><sup>NIMI LAWA</sup></sub> li kama lon <sub><sup>NOKA</sup></sub>, la ona li tawa open <sub><sup>LINJA</sup></sub>. — <sub><sup>**ŋ** [`ng`]</sup></sub>
 
 | | | | | |
