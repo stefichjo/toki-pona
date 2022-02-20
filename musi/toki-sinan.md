@@ -49,7 +49,7 @@ sama lili la toki Sinan la <sub><sup>NIMI SULI</sup></sub> li "moku" e <sub><sup
 | *jan lili mute*       | **puqpú**  |
 | | |
 | *lukin*               | **min**    |
-| *lukin mute*          | **mindú**  |
+| *lukin mute/tu*       | **mindú**  |
 | | |
 | *mun*                 | **mas**    |
 | *mun mute*            | **masmey** |
@@ -65,7 +65,19 @@ sama lili la toki Sinan la <sub><sup>NIMI SULI</sup></sub> li "moku" e <sub><sup
 | *jan li pana e nimi "lipu" tawa ona. ona ...* | **paqqoq**  |
 | *lipu a*                                      | **paqná**   |
 
+| | | |
+|-|-|-|
+| *pi mi wan*       | **-wij**    | **-wí**    |
+| *pi mi mute*      | **-maj**    | **-má**    |
+| *pi sina wan*     | **-lij**    | **-lí**    |
+| *pi sina mute*    | **-raj**    | **-rá**    |
+| *pi ona wan*      | **-daj**    | **-dá**    |
+| *pi ona mute*     | **-čaj**    | **-čá**    |
 
+| | |
+|-|-|
+| *ni (lon poka)*    | **-vam** |
+| *ni (lon weka)*    | **-veł** |
 
 <!-- ? -->
 <sub><sup>NIMI LAWA</sup></sub> li kama lon <sub><sup>NOKA</sup></sub>, la ona li tawa open <sub><sup>LINJA</sup></sub>. — <sub><sup>**ŋ** [`ng`]</sup></sub>
@@ -89,20 +101,12 @@ sama lili la toki Sinan la <sub><sup>NIMI SULI</sup></sub> li "moku" e <sub><sup
 | *jan Sulu* | *li utala* | *e jan ike* | | **jaǧ** | **suv** | **sulu** |
 | <sub><sup>SEWI</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>ANPA</sup></sub> | | <sub><sup>ANPA</sup></sub> | <sub><sup>PALI</sup></sub> | <sub><sup>SEWI</sup></sub> |
 
-jan li sona e <sub><sup>SEWI</sup></sub>, la ona li weka lon tenpo mute.
+jan ale li sona e <sub><sup>SEWI</sup></sub>, la tenpo mute la jan li toki ala e ona.
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
 | *(ona)* | *li utala* | *e jan ike* | | **jaǧ** | **suv** | **(ǧah)** |
 | (<sub><sup>SEWI</sup></sub>) | <sub><sup>PALI</sup></sub> | <sub><sup>ANPA</sup></sub> | | <sub><sup>ANPA</sup></sub> | <sub><sup>PALI</sup></sub> | (<sub><sup>SEWI</sup></sub>) |
-
-<!-- TODO multenombro kaj aliaj sufiksoj -->
-
-
-| | | | | | | | |
-|-|-|-|-|-|-|-|-|
-| *jan ike*      | **jaǧ**   | | *noka*      | **qam**   | | *tomo tawa mun*      | **duj**    |
-| *jan ike mute* | **jaǧpú** | | *noka mute* | **qamdú** | | *tomo tawa mun mute* | **dujmey** |
 
 <sub><sup>SEWI</sup></sub> li *ona wan* ala, la <sub><sup>NIMI PALI</sup></sub> li jo e <sub><sup>NIMI LILI</sup></sub> lon open. — **d** [`D`]
 
@@ -150,12 +154,12 @@ jan li sona e <sub><sup>SEWI</sup></sub>, la ona li weka lon tenpo mute.
 
 | | | | | |
 |-|-|-|-|-|
-| *jan ike ni: (sina wan) li luka kiwen (e ona wan),* | *li lukin (e mi mute)* | | **(mah) nuleǧ** | **jaǧ daqipboǧ (soh)** |
+| *jan ike ni: (sina wan) li luka utala (e ona wan),* | *li lukin (e mi mute)* | | **(mah) nuleǧ** | **jaǧ daqipboǧ (soh)** |
 | <sub><sup>SEWI</sup></sub> | <sub><sup>PALI</sup></sub> | | <sub><sup>PALI</sup></sub> | <sub><sup>SEWI</sup></sub> |
 
 | | | | | |
 |-|-|-|-|-|
-| *jan ike ni: (ona wan) li luka kiwen (e sina wan),* | *li lukin (e mi mute)* | | **(mah) nuleǧ** | **(soh) duqipboǧ jaǧ** |
+| *jan ike ni: (ona wan) li luka utala (e sina wan),* | *li lukin (e mi mute)* | | **(mah) nuleǧ** | **(soh) duqipboǧ jaǧ** |
 | <sub><sup>SEWI</sup></sub> | <sub><sup>PALI</sup></sub> | | <sub><sup>PALI</sup></sub> | <sub><sup>SEWI</sup></sub> |
 
 ## POKA
