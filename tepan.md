@@ -8,6 +8,44 @@ In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can 
 |:-|:-|:-|
 | *Good departure!* | **tawa pona.** | **kama tawa pona.** → **tan pona.** |
 
+| | |
+|-|-|
+| **kama wile** | *to decide* |
+| **nasin lawa** | *law* |
+| **sinpin lawa pi pilin pona** | *smile* |
+
+### Directions
+
+| | |
+|-|-|
+| **poka lawa** | *right* |
+| **poka pilin** | *left* |
+| | |
+| **open pi nasin suno** | *east* |
+| **pini pi nasin suno** | *west* |
+| **poka lawa pi nasin suno** | *north* |
+| **poka pilin pi nasin suno** | *south* |
+
+### Time
+
+| | |
+|-|-|
+| **sike esun** | *week* |
+| **sike mun** | *month* |
+| **sike suno** | *year* |
+
+#### Weekdays
+
+| | |
+|-|-|
+| **tenpo suno Suno** | *sunday* |
+| **tenpo suno Mun** | *monday* |
+| **tenpo suno Seli** | *tuesday* |
+| **tenpo suno Telo** | *wednesday* |
+| **tenpo suno Kasi** | *thursday* |
+| **tenpo suno Kiwen** | *friday* |
+| **tenpo suno Ma** | *saturday* |
+
 ## Grammar
 
 ### [PRE-VERB](nimi-ale.md#pre-verb)
