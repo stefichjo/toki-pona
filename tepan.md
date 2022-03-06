@@ -8,11 +8,78 @@ In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can 
 |:-|:-|:-|
 | *Good departure!* | **tawa pona.** | **kama tawa pona.** → **tan pona.** |
 
+
 | | |
 |-|-|
-| **kama wile** | *to decide* |
-| **nasin lawa** | *law* |
+| **kama wile**     | *to decide* |
+| **pilin akesi**   | *to fear* |
+
+| | |
+|-|-|
+| **kasi kule**     | *flower* |
+| | |
+| **nasin lawa**    | *law* |
+| **sinpin lawa**   | *face* |
+| | |
+| **supa lape**     | *bed* |
+| **tomo lape**     | *bedroom* |
+| | |
+| **telo lukin**    | *tear* |
+| | |
+| **lipu mani**     | *bill* |
+| **sike mani**     | *coin* |
+| **soweli mani**   | *cow* |
+| **waso mani**     | *chicken*, *hen* |
+| | |
+| **jan poka**      | *neighbour* |
+| | |
+| **jan pona**      | *friend* |
+| **pilin pona**    | *to be happy* |
+| | |
+| **sinpin sijelo** | *chest* |
+| | |
+| **ilo sona**      | *computer* |
+| **jan sona**      | *teacher* |
+| **tomo sona**     | *school, museum* |
+| | |
+| **kasi suli**     | *tree* |
+| **telo suli**     | *lake*, *ocean* |
+| | |
+| **ilo suno**      | *lamp*, *flashlight* |
+| **lupa suno**     | *window* |
+| **sitelen suno**  | *photo* |
+| | |
+| **ilo tawa**      | *vehicle*: *bicycle* |
+| **jan tawa**      | *traveller* |
+| **kon tawa**      | *wind* |
+| **sitelen tawa**  | *film* |
+| **soweli tawa**   | *horse* |
+| **telo tawa**     | *river* |
+| **tomo tawa**     | *car* |
+| | |
+| **lupa tomo**     | *door* |
+| **soweli tomo**   | *domesticated animal*: *cat*, *dog* |
+
+| | |
+|-|-|
+| **lipu mani sona**      | *credit card* |
+| **tomo tawa kon**       | *plane* |
+| **tomo tawa linja**     | *train* |
+
+| | |
+|-|-|
+| **jan pi tomo sona**          | *pupil* |
+| **pana e telo lukin**         | *to cry* |
 | **sinpin lawa pi pilin pona** | *smile* |
+| **tomo pi jan awen**          | *waiting room* |
+| **tomo lape pi jan tawa**     | *hotel* |
+
+
+ilo open     key
+ilo awen     shield, umbrella
+nasin pona   solution
+
+
 
 ### Directions
 
