@@ -1,4 +1,4 @@
-# (<sub><sup>TEPAN</sup></sub>)
+# TEPAN
 
 ## Dictionary
 
@@ -8,14 +8,25 @@ In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can 
 |:-|:-|:-|
 | *Good departure!* | **tawa pona.** | **kama tawa pona.** → **tan pona.** |
 
+<!-- TODO health sijelo = pona sijelo -->
 
 | | |
 |-|-|
+| **lon …, lon …** | *between … and …*
+
+| | |
+|-|-|
+| **kama anpa**     | *to fall* |
+| **kama moli**     | *to die* |
 | **kama wile**     | *to decide* |
+| | |
 | **pilin akesi**   | *to fear* |
+| **pilin pona**    | *to be happy* |
 
 | | |
 |-|-|
+| **ma kasi**       | *forest* |
+| | |
 | **kasi kule**     | *flower* |
 | | |
 | **nasin lawa**    | *law* |
@@ -24,22 +35,32 @@ In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can 
 | **supa lape**     | *bed* |
 | **tomo lape**     | *bedroom* |
 | | |
+| **palisa luka**   | *finger* |
+| | |
 | **telo lukin**    | *tear* |
+| | |
+| **kulupu mama**   | *family* |
+| **telo mama**     | *milk* |
 | | |
 | **lipu mani**     | *bill* |
 | **sike mani**     | *coin* |
 | **soweli mani**   | *cow* |
 | **waso mani**     | *chicken*, *hen* |
 | | |
+| **linja nimi**    | *sentence* |
+| **lipu nimi**     | *menu* |
+| | |
+| **supa noka**     | *stairs* |
+| | |
 | **jan poka**      | *neighbour* |
 | | |
 | **jan pona**      | *friend* |
-| **pilin pona**    | *to be happy* |
 | | |
 | **sinpin sijelo** | *chest* |
+| **pona sijelo**   | *health* |
 | | |
 | **ilo sona**      | *computer* |
-| **jan sona**      | *teacher* |
+| **jan sona**      | *expert*, *teacher* |
 | **tomo sona**     | *school, museum* |
 | | |
 | **kasi suli**     | *tree* |
@@ -51,28 +72,39 @@ In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can 
 | | |
 | **ilo tawa**      | *vehicle*: *bicycle* |
 | **jan tawa**      | *traveller* |
+| **kalama tawa**   | *radio* |
 | **kon tawa**      | *wind* |
-| **sitelen tawa**  | *film* |
+| **sitelen tawa**  | *film*, *TV* |
 | **soweli tawa**   | *horse* |
 | **telo tawa**     | *river* |
 | **tomo tawa**     | *car* |
 | | |
+| **ilo toki**      | *phone* |
+| **jan toki**      | *spokesperson* |
+| | |
 | **lupa tomo**     | *door* |
+| **ma tomo**       | *city* |
 | **soweli tomo**   | *domesticated animal*: *cat*, *dog* |
 
 | | |
 |-|-|
+| **kulupu mama sin**     | *married couple* |
 | **lipu mani sona**      | *credit card* |
 | **tomo tawa kon**       | *plane* |
 | **tomo tawa linja**     | *train* |
 
 | | |
 |-|-|
+| **jan sona pi pona sijelo**   | *doctor* |
+| **tomo pi pona sijelo**       | *hospital* |
 | **jan pi tomo sona**          | *pupil* |
 | **pana e telo lukin**         | *to cry* |
 | **sinpin lawa pi pilin pona** | *smile* |
 | **tomo pi jan awen**          | *waiting room* |
 | **tomo lape pi jan tawa**     | *hotel* |
+| **lipu pi nimi ale**          | *dictionary* |
+| **ko pi telo mama**           | *butter*, *cheese* |
+| **sike pi palisa luka**       | *ring* |
 
 
 ilo open     key
