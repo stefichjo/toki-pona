@@ -10,9 +10,9 @@ In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can 
 
 | | |
 |-|-|
-| **palisa e ijo**                | *to press/point at something with the finger* |
-| **luka e ijo (kepeken palisa)** | *to press something with the finger* |
-| **(pana e) palisa lon ijo**     | *to point at something with the finger* |
+| **palisa e ijo**, **luka e ijo (kepeken palisa)** | *to push something with the finger* |
+| | |
+| **palisa e nasin ijo**, **(pana e) palisa lon nasin ijo** | *to point at something* |
 
 | | |
 |-|-|
@@ -116,6 +116,23 @@ In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can 
 | | |
 |-|-|
 | **kama kulupu mama** | *to get married* |
+
+| | |
+|-|-|
+| **ijo jan** | *to be something of someone* |
+
+<!-- https://tatoeba.org/en/sentences/show/10627762 -->
+<!-- ijo sama mi li kepeken wawa. -->
+<!-- ijo sama mi -->
+<!-- ijo mi -->
+<!-- ni mi -->
+<!-- ni sama mi -->
+<!-- mi sona e jan sama sina. -->
+
+| | |
+|-|-|
+| **jan li toki e ni: ona li wile jo e ijo** | *someone orders something* |
+
 
 <!-- to hit something - pakala e ijo ? -->
 <!-- sina ken jo e ijo mi sama - you can have mine ? -->
