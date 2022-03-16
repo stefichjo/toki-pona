@@ -8,7 +8,27 @@ In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can 
 |:-|:-|:-|
 | *Good departure!* | **tawa pona.** | **kama tawa pona.** → **tan pona.** |
 
-<!-- TODO health sijelo = pona sijelo -->
+| | |
+|-|-|
+| **palisa e ijo**                | *to press/point at something with the finger* |
+| **luka e ijo (kepeken palisa)** | *to press something with the finger* |
+| **(pana e) palisa lon ijo**     | *to point at something with the finger* |
+
+| | |
+|-|-|
+| **lon pali**, **pali lon tenpo ni**         | *to be doing* |
+| **tawa pali**, **pali lon tenpo kama poka** | *to be going to do* |
+| **tan pali**, **pali lon tenpo pini poka**  | *to have done* |
+| | |
+| `?` **lon pali e jan lon ijo**              | *to make someone do something* |
+| `?` **tawa pali e jan tawa ijo**            | *to send someone to do something* |
+| `?` **tan pali e jan tan ijo**              | *to stop someone from doing something* |
+
+<!-- mi tan lape e sina. -->
+<!-- mi pana e telo lon insa poki. -->
+<!-- ~mi lon insa poki e telo.~ -->
+<!-- lon poka e ijo -->
+<!-- pana e ijo lon poka -->
 
 | | |
 |-|-|
@@ -88,16 +108,36 @@ In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can 
 
 | | |
 |-|-|
-| **kulupu mama sin**     | *married couple* |
 | **lipu mani sona**      | *credit card* |
 | **tomo tawa kon**       | *plane* |
 | **tomo tawa linja**     | *train* |
+| **tomo tawa telo**      | *ship* |
+
+| | |
+|-|-|
+| **kama kulupu mama** | *to get married* |
+
+<!-- to hit something - pakala e ijo ? -->
+<!-- sina ken jo e ijo mi sama - you can have mine ? -->
+
+<!-- pi mute wan -->
+<!-- pi mute lili -->
+<!-- pi mute ala -->
+
+
+| | |
+|-|-|
+| **kama sin** | *to return* |
+| **pana sin** | *to give back* |
+| **tawa sin** | *to go back* |
+| **toki sin** | *to reply* |
 
 | | |
 |-|-|
 | **jan sona pi pona sijelo**   | *doctor* |
 | **tomo pi pona sijelo**       | *hospital* |
 | **jan pi tomo sona**          | *pupil* |
+| **jan sona ~~pi tomo sona~~** | |
 | **pana e telo lukin**         | *to cry* |
 | **sinpin lawa pi pilin pona** | *smile* |
 | **tomo pi jan awen**          | *waiting room* |
@@ -106,12 +146,12 @@ In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can 
 | **ko pi telo mama**           | *butter*, *cheese* |
 | **sike pi palisa luka**       | *ring* |
 
-
-ilo open     key
-ilo awen     shield, umbrella
-nasin pona   solution
-
-
+| | |
+|-|-|
+| **ilo open** | *key* |
+| **ilo awen** | *shield* |
+| **ilo awen pi telo sewi** | *umbrella* |
+| **nasin pona** | *solution* |
 
 ### Directions
 
