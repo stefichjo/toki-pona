@@ -2,17 +2,15 @@
 
 ## Dictionary
 
-In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can be approximated by **kama tawa**. In [official Toki Pona](pu.md), **tawa** is used for *departure*.
-
-| | <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
-|:-|:-|:-|
-| *Good departure!* | **tawa pona.** | **kama tawa pona.** → **tan pona.** |
+### kon sin pi nimi ale
 
 | | |
 |-|-|
-| **palisa e ijo**, **luka e ijo (kepeken palisa)** | *to push something with the finger* |
-| | |
-| **palisa e nasin ijo**, **(pana e) palisa lon nasin ijo** | *to point at something* |
+| **lili** | *building block*, *detail*, *element*, *member*, *unit*; *part*, *particle*, *piece* |
+
+### ...
+
+<!-- jan li ken ala toki e ijo pi toki pona lon toki pona. -->
 
 | | |
 |-|-|
@@ -29,19 +27,6 @@ In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can 
 <!-- ~mi lon insa poki e telo.~ -->
 <!-- lon poka e ijo -->
 <!-- pana e ijo lon poka -->
-
-| | |
-|-|-|
-| **lon …, lon …** | *between … and …*
-
-| | |
-|-|-|
-| **kama anpa**     | *to fall* |
-| **kama moli**     | *to die* |
-| **kama wile**     | *to decide* |
-| | |
-| **pilin akesi**   | *to fear* |
-| **pilin pona**    | *to be happy* |
 
 | | |
 |-|-|
@@ -75,6 +60,8 @@ In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can 
 | **jan poka**      | *neighbour* |
 | | |
 | **jan pona**      | *friend* |
+| | |
+| **kon sewi**      | *atmosphere*, *weather* |
 | | |
 | **sinpin sijelo** | *chest* |
 | **pona sijelo**   | *health* |
@@ -119,7 +106,7 @@ In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can 
 
 | | |
 |-|-|
-| **ijo jan** | *to be something of someone* |
+| **ijo jan** | *to be someone's* |
 
 <!-- https://tatoeba.org/en/sentences/show/10627762 -->
 <!-- ijo sama mi li kepeken wawa. -->
@@ -128,6 +115,12 @@ In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can 
 <!-- ni mi -->
 <!-- ni sama mi -->
 <!-- mi sona e jan sama sina. -->
+
+
+<!-- tawa insa wawa - beat fast
+tawa insa nasa - shake
+tawa insa lili - sway
+tawa insa sike - rotate -->
 
 | | |
 |-|-|
@@ -144,24 +137,51 @@ In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can 
 
 | | |
 |-|-|
-| **kama sin** | *to return* |
-| **pana sin** | *to give back* |
-| **tawa sin** | *to go back* |
-| **toki sin** | *to reply* |
-
-| | |
-|-|-|
 | **jan sona pi pona sijelo**   | *doctor* |
 | **tomo pi pona sijelo**       | *hospital* |
 | **jan pi tomo sona**          | *pupil* |
 | **jan sona ~~pi tomo sona~~** | |
 | **pana e telo lukin**         | *to cry* |
 | **sinpin lawa pi pilin pona** | *smile* |
+| **nena ~pi sinpin lawa~**       | *nose* |
 | **tomo pi jan awen**          | *waiting room* |
 | **tomo lape pi jan tawa**     | *hotel* |
 | **lipu pi nimi ale**          | *dictionary* |
 | **ko pi telo mama**           | *butter*, *cheese* |
 | **sike pi palisa luka**       | *ring* |
+| **kalama wawa pi kon sewi**   | *thunder* |
+| **suno wawa pi kon sewi**     | *lightning* |
+
+### palisa
+
+| | |
+|-|-|
+| **palisa e ijo**, **luka e ijo (kepeken palisa)** | *to push something with the finger* |
+| | |
+| **palisa e nasin ijo**, **(pana e) palisa lon nasin ijo** | *to point at something* |
+
+### kama
+
+| | |
+|-|-|
+| **kama anpa**     | *to fall* |
+| **kama moli**     | *to die* |
+| **kama wile**     | *to decide* |
+
+### pilin
+
+| | |
+|-|-|
+| **pilin akesi**   | *to fear* |
+| **pilin pona**    | *to be happy* |
+
+### Prepositions
+
+| | |
+|-|-|
+| **lon …, lon …** | *between … and …*
+
+### Implicitly Transitive Adjectives
 
 | | |
 |-|-|
@@ -169,6 +189,15 @@ In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can 
 | **ilo awen** | *shield* |
 | **ilo awen pi telo sewi** | *umbrella* |
 | **nasin pona** | *solution* |
+
+### sin
+
+| | |
+|-|-|
+| **kama sin** | *to return* |
+| **pana sin** | *to give back* |
+| **tawa sin** | *to go back* |
+| **toki sin** | *to reply* |
 
 ### Directions
 
@@ -331,3 +360,11 @@ In my dialect, a coordinating *comma* between two <sub><sup>GENITIVE PHRASE</sup
 
 
 1.5 = wan en luka luka luka → 3/2 = wan en wan tu = tu wan tu
+
+
+In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can be approximated by **kama tawa**. In [official Toki Pona](pu.md), **tawa** is used for *departure*.
+
+| | <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
+|:-|:-|:-|
+| *Good departure!* | **tawa pona.** | **kama tawa pona.** → **tan pona.** |
+
