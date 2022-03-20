@@ -7,6 +7,7 @@
 | | |
 |-|-|
 | **lili** | *building block*, *detail*, *element*, *member*, *unit*; *part*, *particle*, *piece* |
+| **suwi** | *gentle* |
 
 ### ...
 
@@ -75,9 +76,9 @@
 | | |
 | **ilo suno**      | *lamp*, *flashlight* |
 | **lupa suno**     | *window* |
-| **sitelen suno**  | *photo* |
+| **sitelen suno**  | *photograph* |
 | | |
-| **ilo tawa**      | *vehicle*: *bicycle* |
+| **ilo tawa**      | *vehicle* |
 | **jan tawa**      | *traveller* |
 | **kalama tawa**   | *radio* |
 | **kon tawa**      | *wind* |
@@ -95,10 +96,13 @@
 
 | | |
 |-|-|
-| **lipu mani sona**      | *credit card* |
-| **tomo tawa kon**       | *plane* |
-| **tomo tawa linja**     | *train* |
-| **tomo tawa telo**      | *ship* |
+| **kiwen mani jelo**       | *gold* |
+| **lipu mani sona**        | *credit card* |
+| **tomo tawa kon**         | *plane* |
+| **tomo tawa linja**       | *train* |
+| **tomo tawa telo**        | *ship* |
+| **ilo tawa telo**         | *boat* |
+| **ilo tawa ~pi sike tu~** | *bycicle* |
 
 | | |
 |-|-|
@@ -135,6 +139,50 @@ tawa insa sike - rotate -->
 <!-- pi mute ala -->
 
 
+**lon tenpo sin** *again* (**lon tenpo sin kama**/**lon tenpo kama sin**)
+**lon tenpo sin lon tenpo kama**/**lon tenpo sin kama**
+
+
+la,
+ni = to do this, to do that
+pilin pona = pilin pi ale pona
+pilin ike = pilin pi ale ike
+ale = world (= ma)
+ale insa = `?` (= kon)
+pilin anpa - `?` shame, disgrace (= apeja)
+weka suli - mile
+kulupu waso - flock
+toki ~pi kalama~ lili - to whisper
+toki ~pi kalama~ wawa - to shout
+toki ~pi kalama~ pi wawa pona - to speak loudly and clearly
+toki utala - to argue
+toki wawa - to promise
+pilin insa - instinct
+wile insa - instinct, impulse
+sona insa - instinct
+sijelo - to live (sijelo insa = kon)
+sitelen insa - to imagine (jo e sitelen insa - to have an idea) (kama sitelen insa - to get an impression)
+sitelen lape - to dream
+toki insa - to think
+wan insa - concentration ???
+wawa insa - ???
+wan e wawa - concentration ???
+selo - isolate ???
+pini - close ???
+mi open e lukin mi -> mi open e lukin (???)
+moku e kon - to breathe (awen moku ala e kon - to hold one's breath)
+lukin e ~sitelen~ lipu - to read
+kama moli - to die
+kama tan sewi - `?` to fall down
+kama tawa anpa = `?` to fall down
+tawa anpa = to go down
+kama lon anpa = `?` to hit the floor
+kama anpa - to become humble `!`
+sinpin - to stand (kama sinpin - to stand up)
+sona - skill
+??? - adventure
+??? - wonder
+
 | | |
 |-|-|
 | **jan sona pi pona sijelo**   | *doctor* |
@@ -156,9 +204,9 @@ tawa insa sike - rotate -->
 
 | | |
 |-|-|
-| **palisa e ijo**, **luka e ijo (kepeken palisa)** | *to push something with the finger* |
+| **palisa e ijo**, **luka e ijo ~kepeken palisa~** | *to push something with the finger* |
 | | |
-| **palisa e nasin ijo**, **(pana e) palisa lon nasin ijo** | *to point at something* |
+| **palisa e nasin ijo**, **~pana e~ palisa lon nasin ijo** | *to point at something* |
 
 ### kama
 
@@ -367,4 +415,21 @@ In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can 
 | | <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
 |:-|:-|:-|
 | *Good departure!* | **tawa pona.** | **kama tawa pona.** → **tan pona.** |
+
+### Metaphors and Similes
+
+Metaphors are translated as similes.
+
+| | |
+|-|-|
+| *Her smile is sunshine.* → *Her smile is like sunshine.* | **sinpin lawa ona pi pilin pona li sama suno.** |
+
+### pi
+
+Avoiding multiple `pi`.
+
+| | |
+|-|-|
+| *away from the beach* | **weka pi poka pi telo suli la** → **weka pi poka telo la** |
+
 
