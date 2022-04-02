@@ -289,12 +289,6 @@ In my dialect, <sub><sup>PRE-VERB</sup></sub>s are not omitted.
 |:-|
 | *I need to learn how to swim.* |
 
-**open** and **pini** can be used as <sub><sup>PRE-VERB</sup></sub>s.
-
-| mi open pali. |
-|:-|
-| *I'm ready to work.* |
-
 ## Punctuation
 
 In my dialect, a coordinating *comma* between two <sub><sup>GENITIVE PHRASE</sup></sub>s can't be safely removed.
