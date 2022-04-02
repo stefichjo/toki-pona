@@ -281,6 +281,14 @@ sona - skill
 
 ## Grammar
 
+### open and pini
+
+*open* and *pini* are antonyms.
+
+| mi pini e ~~open pi~~ lupa tomo. |
+|:-|
+| *I closed the door.* |
+
 ### [PRE-VERB](nimi-ale.md#pre-verb)
 
 In my dialect, <sub><sup>PRE-VERB</sup></sub>s are not omitted.
