@@ -287,7 +287,7 @@ sona - skill
 
 | mi pini e ~~open pi~~ lupa tomo. |
 |:-|
-| *I closed the door.* |
+| *I ended the aperture of the door.* = *I closed the door.* |
 
 ### [PRE-VERB](nimi-ale.md#pre-verb)
 
