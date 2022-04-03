@@ -31,9 +31,18 @@
 
 | | |
 |-|-|
+| **tenpo**         | → sike |
+
+| | |
+|-|-|
+| **sike esun**     | *week* |
+| **tenpo esun**    | → sike esun |
+| | |
 | **ma kasi**       | *forest* |
 | | |
 | **kasi kule**     | *flower* |
+| | |
+| **nasin kulupu**  | *culture*, *protocol* |
 | | |
 | **nasin lawa**    | *law* |
 | **sinpin lawa**   | *face* |
@@ -43,6 +52,7 @@
 | | |
 | **palisa luka**   | *finger* |
 | | |
+| **lupa lukin**    | → lupa suno |
 | **telo lukin**    | *tear* |
 | | |
 | **kulupu mama**   | *family* |
@@ -53,8 +63,11 @@
 | **soweli mani**   | *cow* |
 | **waso mani**     | *chicken*, *hen* |
 | | |
+| **sike mun**      | *month* |
+| **tenpo mun**     | → sike mun | <!-- KU -->
+| | |
 | **linja nimi**    | *sentence* |
-| **lipu nimi**     | *menu* |
+| **lipu nimi**     | *menu*; → lipu pi nimi ale |
 | | |
 | **supa noka**     | *stairs* |
 | | |
@@ -66,6 +79,8 @@
 | | |
 | **sinpin sijelo** | *chest* |
 | **pona sijelo**   | *health* |
+| | |
+| **tenpo sike**    | → sike suno |
 | | |
 | **ilo sona**      | *computer* |
 | **jan sona**      | *expert*, *teacher* |
@@ -100,6 +115,7 @@
 | **lipu mani sona**        | *credit card* |
 | **tomo tawa kon**         | *plane* |
 | **tomo tawa linja**       | *train* |
+| **tomo tawa sewi**        | → tomo tawa kon |
 | **tomo tawa telo**        | *ship* |
 | **ilo tawa telo**         | *boat* |
 | **ilo tawa ~pi sike tu~** | *bycicle* |
@@ -182,6 +198,57 @@ sinpin - to stand (kama sinpin - to stand up)
 sona - skill
 ??? - adventure
 ??? - wonder
+
+pana e telo selo = to sweat
+lili - chapter
+pona wawa = stable
+"toki pi mama mije pi utala ala" has no ambiguities -> OK
+li weka mute ala = li lon ala weka suli
+waso Albatros ...
+`waso Pelican en waso Albatros` → waso suli ante
+pana e noka lon sijelo
+(kama) kiwen (pi tawa wawa) - to hit `?`
+telo pi tawa nasa = splashing water
+ko/suwi = kiwen ala - soft
+palisa utala
+kiwen utala
+linja lipu `?`
+lipu ko
+kulupu waso `?`
+linja waso - feather
+kiwen insa - bone
+kalama uta - voice
+pi sike suno mute ≠ pi sin ala - old
+pi wile moku - hungry
+wile kama sona tawa lon kon OK ("un-pona pre-verbs")
+pilin e wile moku `?`
+tenpo kama sin (≠ tenpo sin kama)
+poki kon - lungs
+kama anpa - to fall
+tawa anpa - to go down
+pi ale lili - most `?`
+"blah blah." `ni` li toki ona.
+
+mi tawa sewi `mi`. → mi tawa sewi. = mi iras supren.
+mi tawa anpa `mi`. → mi tawa anpa. = mi iras malsupren.
+
+Oni ne suspektus ion strangan, verŝajne ĉar "sewi" kaj "anpa" estas tujtuje io ekster la fiksita punkto ("mi"). "mi" estas ellasebla.
+
+mi tawa sinpin `mi`. = mi iras antaŭen.
+mi tawa monsi `mi`. = mi iras malantaŭen.
+mi tawa poka `mi`. = mi iras flanken.
+
+Mi suspektas ion strangan. "sinpin", "monsi" kaj "poka" estas korpopartoj de "mi".
+
+kiwen pi tawa wawa / kiwen utala / kiwen pi tawa utala
+
+pi kule mute → kule
+(cf. pi kule tu)
+
+kalama wawa uta - scream
+kalama uta wawa → kalama wawa uta
+kalama wawa → kalama wawa uta
+<!-- tatoeba: kalama uta wawa -->
 
 | | |
 |-|-|
@@ -306,6 +373,11 @@ In my dialect, a coordinating *comma* between two <sub><sup>GENITIVE PHRASE</sup
 | *She knows a foreign bar.* |
 
 ## Numbers
+
+| | |
+|-|-|
+| **wan** | *singleton* |
+| **tu**  | *pair*      |
 
 ### 1 - 12
 
