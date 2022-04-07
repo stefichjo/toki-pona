@@ -89,6 +89,7 @@ The <sub><sup>CONTEXT PHRASE</sup></sub> (i.e. a <sub><sup>PREPOSITIONAL PHRASE<
 
 ### [PRE-VERB](nimi-ale.md#pre-verb)
 
+<!-- TODO just "kama" -->
 Additional <sub><sup>PRE-VERB</sup></sub>s are omitted.
 
 | mi wile ~~kama~~ sona. |
@@ -100,19 +101,6 @@ When converting an <sub><sup>ADJECTIVE</sup></sub> with a <sub><sup>PRE-VERB</su
 | ~~kama~~ ante | ona li ~~kama~~ ante e ijo. |
 |:-|:-|
 | *change* | *She changed something.* |
-
-Instead of using the <sub><sup>VERB</sup></sub> **pilin** with a <sub><sup>NOUN</sup></sub> with an omitted <sub><sup>PRE-VERB</sup></sub> as its <sub><sup>OBJECT</sup></sub>, it is used as a <sub><sup>GENITIVE PHRASE</sup></sub>.
-
-| mi pilin e kama pi ijo ike. → mi pilin ike. |
-|:-|
-| *I feel bad.* |
-
-<!-- TODO
-  mi pilin e ni: ona li akesi.
-  mi pilin e ona — akesi.
-  mi pilin akesi e ona.
-  mi pilin akesi tan ona.
--->
 
 ## Punctuation
 

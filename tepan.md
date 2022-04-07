@@ -28,6 +28,7 @@
 <!-- ~mi lon insa poki e telo.~ -->
 <!-- lon poka e ijo -->
 <!-- pana e ijo lon poka -->
+<!-- "sitelen" also 3D representation -->
 
 | | |
 |-|-|
@@ -38,6 +39,25 @@
 | **sike esun**     | *week* |
 | **tenpo esun**    | → sike esun |
 | | |
+
+| **pilin insa**    | *instinct* `KU`          |
+| **sitelen insa**  | *imagination*, *idea*    | <!-- (kama sitelen insa - to get an impression) --><!-- sitelen insa pona/wawa revo -->
+| **sona insa**     | *instinct*               |
+| **toki insa**     | *thought*                |
+| **wan insa**      | *concentration*, *focus* |
+| **wile insa**     | *instinct*, *impulse*    |
+
+
+| **sitelen lape**  | *dream*                  |
+
+<!-- tawa insa wawa - beat fast
+tawa insa nasa - shake
+tawa insa lili - sway
+tawa insa sike - rotate -->
+
+
+| | |
+| **lipu kasi**     | *leaf* |
 | **ma kasi**       | *forest* |
 | | |
 | **kasi kule**     | *flower* |
@@ -50,7 +70,7 @@
 | **supa lape**     | *bed* |
 | **tomo lape**     | *bedroom* |
 | | |
-| **palisa luka**   | *finger* |
+| **palisa ~~luka~~**   | *finger* |
 | | |
 | **lupa lukin**    | → lupa suno |
 | **telo lukin**    | *tear* |
@@ -104,6 +124,7 @@
 | | |
 | **ilo toki**      | *phone* |
 | **jan toki**      | *spokesperson* |
+| **lipu toki**     | *letter* |
 | | |
 | **lupa tomo**     | *door* |
 | **ma tomo**       | *city* |
@@ -118,7 +139,7 @@
 | **tomo tawa sewi**        | → tomo tawa kon |
 | **tomo tawa telo**        | *ship* |
 | **ilo tawa telo**         | *boat* |
-| **ilo tawa ~pi sike tu~** | *bycicle* |
+| **ilo tawa ~pi sike tu~** | *bicycle* |
 
 | | |
 |-|-|
@@ -135,12 +156,6 @@
 <!-- ni mi -->
 <!-- ni sama mi -->
 <!-- mi sona e jan sama sina. -->
-
-
-<!-- tawa insa wawa - beat fast
-tawa insa nasa - shake
-tawa insa lili - sway
-tawa insa sike - rotate -->
 
 | | |
 |-|-|
@@ -173,15 +188,7 @@ toki ~pi kalama~ wawa - to shout
 toki ~pi kalama~ pi wawa pona - to speak loudly and clearly
 toki utala - to argue
 toki wawa - to promise
-pilin insa - instinct
-wile insa - instinct, impulse
-sona insa - instinct
 sijelo - to live (sijelo insa = kon)
-sitelen insa - to imagine (jo e sitelen insa - to have an idea) (kama sitelen insa - to get an impression)
-sitelen lape - to dream
-toki insa - to think
-wan insa - concentration ???
-wawa insa - ???
 wan e wawa - concentration ???
 selo - isolate ???
 pini - close ???
@@ -250,6 +257,9 @@ kalama uta wawa → kalama wawa uta
 kalama wawa → kalama wawa uta
 <!-- tatoeba: kalama uta wawa -->
 
+weka akesi e - to steal
+weka e - to forget (leave); to take away
+
 | | |
 |-|-|
 | **jan sona pi pona sijelo**   | *doctor* |
@@ -285,10 +295,21 @@ kalama wawa → kalama wawa uta
 
 ### pilin
 
+| |
+|-|
+| **pilin e ni: ijo X li kama** = **pilin e kama pi ijo X** = **pilin X** |
+
 | | |
 |-|-|
 | **pilin akesi**   | *to fear* |
+| **pilin jaki**    | *to be disgusted* |
+| **pilin lete**    | *to feel cold* |
 | **pilin pona**    | *to be happy* |
+| **pilin seli**    | *to feel hot* |
+| **pilin utala**   | *to be angry* |
+
+<!-- mi pilin e ni: mi anpa. = mi pilin anpa e mi. `?` -->
+<!-- mi pilin e ni: mi jaki. = mi pilin jaki e mi. `?` -->
 
 ### Prepositions
 
@@ -313,6 +334,28 @@ kalama wawa → kalama wawa uta
 | **pana sin** | *to give back* |
 | **tawa sin** | *to go back* |
 | **toki sin** | *to reply* |
+
+### ijo
+
+| | |
+|-|-|
+| **ijo pi nasin ni** = **ijo ni** | *such a thing*, *tiaĵo* |
+| **ijo pi nasin seme** = **ijo seme** | *what kind of thing* |
+| **ijo pi nasin ale** = **ijo ale** | *all kind of things* |
+| **ijo pi nasin ala** = **ijo ala** | *no kind of thing*, *neniaĵo* |
+
+| | |
+|-|-|
+| **mi jo e ni: sina wile e ona.** | *I have what you need.* |
+| **mi jo e ijo ni: sina wile e ona.** | *I have something that you need.* |
+
+<!-- mi sona e nasin ni: mi seli e moku. = mi sona e ijo ni: mi seli e moku. = mi sona seli e moku. -->
+
+### kulupu
+
+<!-- ona tu li lukin e ona sama. -->
+<!-- ona tu li lukin e ona sama lon kulupu. -->
+<!-- e ona sama lon kulupu = unu la alian -->
 
 ### Directions
 
@@ -507,3 +550,10 @@ Avoiding multiple `pi`.
 | *away from the beach* | **weka pi poka pi telo suli la** → **weka pi poka telo la** |
 
 
+# Sitelen Pona
+
+## Cartouche
+
+* `kalama .` = Ka
+* `kalama ..` = Kala
+* `poka-esun` = Pe
