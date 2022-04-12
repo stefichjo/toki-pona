@@ -34,19 +34,6 @@
 |-|-|
 | **tenpo**         | → sike |
 
-| | |
-|-|-|
-| **sike esun**     | *week* |
-| **tenpo esun**    | → sike esun |
-| | |
-
-| **pilin insa**    | *instinct* `KU`          |
-| **sitelen insa**  | *imagination*, *idea*    | <!-- (kama sitelen insa - to get an impression) --><!-- sitelen insa pona/wawa revo -->
-| **sona insa**     | *instinct*               |
-| **toki insa**     | *thought*                |
-| **wan insa**      | *concentration*, *focus* |
-| **wile insa**     | *instinct*, *impulse*    |
-
 
 | **sitelen lape**  | *dream*                  |
 
@@ -57,62 +44,52 @@ tawa insa sike - rotate -->
 
 
 | | |
+| **sike esun**     | *week* |
+| **tenpo esun**    | → sike esun |
+| **pilin insa**    | *instinct* `KU`          |
+| **sitelen insa**  | *imagination*, *idea*    | <!-- (kama sitelen insa - to get an impression) --><!-- sitelen insa pona/wawa revo -->
+| **sona insa**     | *instinct*               |
+| **toki insa**     | *thought*                |
+| **wan insa**      | *concentration*, *focus* |
+| **wile insa**     | *instinct*, *impulse*    |
 | **lipu kasi**     | *leaf* |
 | **ma kasi**       | *forest* |
-| | |
 | **kasi kule**     | *flower* |
-| | |
 | **nasin kulupu**  | *culture*, *protocol* |
-| | |
 | **nasin lawa**    | *law* |
 | **sinpin lawa**   | *face* |
-| | |
 | **supa lape**     | *bed* |
 | **tomo lape**     | *bedroom* |
-| | |
 | **palisa ~~luka~~**   | *finger* |
-| | |
 | **lupa lukin**    | → lupa suno |
 | **telo lukin**    | *tear* |
-| | |
 | **kulupu mama**   | *family* |
 | **telo mama**     | *milk* |
-| | |
 | **lipu mani**     | *bill* |
 | **sike mani**     | *coin* |
 | **soweli mani**   | *cow* |
 | **waso mani**     | *chicken*, *hen* |
-| | |
 | **sike mun**      | *month* |
 | **tenpo mun**     | → sike mun | <!-- KU -->
-| | |
 | **linja nimi**    | *sentence* |
 | **lipu nimi**     | *menu*; → lipu pi nimi ale |
-| | |
 | **supa noka**     | *stairs* |
-| | |
 | **jan poka**      | *neighbour* |
-| | |
 | **jan pona**      | *friend* |
-| | |
 | **kon sewi**      | *atmosphere*, *weather* |
-| | |
+| **toki sewi**     | *prayer* |
 | **sinpin sijelo** | *chest* |
 | **pona sijelo**   | *health* |
-| | |
 | **tenpo sike**    | → sike suno |
-| | |
 | **ilo sona**      | *computer* |
 | **jan sona**      | *expert*, *teacher* |
 | **tomo sona**     | *school, museum* |
-| | |
 | **kasi suli**     | *tree* |
 | **telo suli**     | *lake*, *ocean* |
-| | |
 | **ilo suno**      | *lamp*, *flashlight* |
 | **lupa suno**     | *window* |
 | **sitelen suno**  | *photograph* |
-| | |
+| **ko suwi**       | *honey*, *sugar* |
 | **ilo tawa**      | *vehicle* |
 | **jan tawa**      | *traveller* |
 | **kalama tawa**   | *radio* |
@@ -121,17 +98,17 @@ tawa insa sike - rotate -->
 | **soweli tawa**   | *horse* |
 | **telo tawa**     | *river* |
 | **tomo tawa**     | *car* |
-| | |
 | **ilo toki**      | *phone* |
 | **jan toki**      | *spokesperson* |
 | **lipu toki**     | *letter* |
-| | |
 | **lupa tomo**     | *door* |
 | **ma tomo**       | *city* |
 | **soweli tomo**   | *domesticated animal*: *cat*, *dog* |
+| **tomo wawa**     | *castle* |
 
 | | |
 |-|-|
+| **toki insa sewi**        | *meditation* |
 | **kiwen mani jelo**       | *gold* |
 | **lipu mani sona**        | *credit card* |
 | **tomo tawa kon**         | *plane* |
@@ -143,7 +120,7 @@ tawa insa sike - rotate -->
 
 | | |
 |-|-|
-| **kama kulupu mama** | *to get married* |
+| **kama kulupu mama (sin)** | *to get married* |
 
 | | |
 |-|-|
@@ -276,6 +253,9 @@ weka e - to forget (leave); to take away
 | **sike pi palisa luka**       | *ring* |
 | **kalama wawa pi kon sewi**   | *thunder* |
 | **suno wawa pi kon sewi**     | *lightning* |
+| **telo pi kon sewi**, **telo sewi** | *rain* | <!-- TOOD -->
+| **ko lete pi kon sewi**, **lete sewi** | *snow* | <!-- TOOD -->
+| **(kiwen) lete pi kon sewi**, **lete sewi** | *hail* | <!-- TOOD -->
 
 ### palisa
 
@@ -549,6 +529,12 @@ Avoiding multiple `pi`.
 |-|-|
 | *away from the beach* | **weka pi poka pi telo suli la** → **weka pi poka telo la** |
 
+### Relative Clause
+
+| |
+|-|
+| **mi lukin e jan ni: mi sona e ona.** → **mi lukin e jan ni: mi sona.** |
+| **mi lukin e jan ni: ona li sona e mi.** → **mi lukin e jan ni: sona e mi.** |
 
 # Sitelen Pona
 
@@ -557,3 +543,14 @@ Avoiding multiple `pi`.
 * `kalama .` = Ka
 * `kalama ..` = Kala
 * `poka-esun` = Pe
+
+<!-- poka wan: left; poka ante: right ??? -->
+<!-- `nanpa tu wan lon poka wan` → `wan` -->
+
+<!-- Piglet =  soweli Piki ? → soweli Mali = soweli mani lili -->
+<!-- ona li kama lon poka jan. = He met someone. -->
+<!-- mi pana e ona lon poka jan. = I made him meet someone. = I introduced him to someone. -->
+
+<!-- I already did that. tenpo pini la mi kama a pali e ni. -->
+<!-- open pi tenpo mute la - for the first time -->
+<!-- pini pi tenpo mute la - for the last time -->
