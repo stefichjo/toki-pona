@@ -44,67 +44,70 @@ tawa insa sike - rotate -->
 
 
 | | |
-| **sike esun**     | *week* |
-| **tenpo esun**    | → sike esun |
-| **pilin insa**    | *instinct* `KU`          |
-| **sitelen insa**  | *imagination*, *idea*    | <!-- (kama sitelen insa - to get an impression) --><!-- sitelen insa pona/wawa revo -->
-| **sona insa**     | *instinct*               |
-| **toki insa**     | *thought*                |
-| **wan insa**      | *concentration*, *focus* |
-| **wile insa**     | *instinct*, *impulse*    |
-| **lipu kasi**     | *leaf* |
-| **ma kasi**       | *forest* |
-| **kasi kule**     | *flower* |
-| **nasin kulupu**  | *culture*, *protocol* |
-| **nasin lawa**    | *law* |
-| **sinpin lawa**   | *face* |
-| **supa lape**     | *bed* |
-| **tomo lape**     | *bedroom* |
+| **sike esun**         | *week* |
+| **tenpo esun**        | → sike esun |
+| **pilin insa**        | *instinct* `KU`          |
+| **sitelen insa**      | *imagination*, *idea*    | <!-- (kama sitelen insa - to get an impression) --><!-- sitelen insa pona/wawa revo -->
+| **sona insa**         | *instinct*               |
+| **toki insa**         | *thought*                |
+| **wan insa**          | *concentration*, *focus* |
+| **wile insa**         | *instinct*, *impulse*    |
+| **lipu kasi**         | *leaf* |
+| **ma kasi**           | *forest* |
+| **kasi kule**         | *flower* |
+| **nasin kulupu**      | *culture*, *protocol* |
+| **anpa lawa**         | *neck* | <!-- `?` -->
+| **noka lawa**         | *neck* | <!-- `?` -->
+| **nasin lawa**        | *law* |
+| **sinpin lawa**       | *face* |
+| **supa lape**         | *bed* |
+| **tomo lape**         | *bedroom* |
 | **palisa ~~luka~~**   | *finger* |
-| **lupa lukin**    | → lupa suno |
-| **telo lukin**    | *tear* |
-| **kulupu mama**   | *family* |
-| **telo mama**     | *milk* |
-| **lipu mani**     | *bill* |
-| **sike mani**     | *coin* |
-| **soweli mani**   | *cow* |
-| **waso mani**     | *chicken*, *hen* |
-| **sike mun**      | *month* |
-| **tenpo mun**     | → sike mun | <!-- KU -->
-| **linja nimi**    | *sentence* |
-| **lipu nimi**     | *menu*; → lipu pi nimi ale |
-| **supa noka**     | *stairs* |
-| **jan poka**      | *neighbour* |
-| **jan pona**      | *friend* |
-| **kon sewi**      | *atmosphere*, *weather* |
-| **toki sewi**     | *prayer* |
-| **sinpin sijelo** | *chest* |
-| **pona sijelo**   | *health* |
-| **tenpo sike**    | → sike suno |
-| **ilo sona**      | *computer* |
-| **jan sona**      | *expert*, *teacher* |
-| **tomo sona**     | *school, museum* |
-| **kasi suli**     | *tree* |
-| **telo suli**     | *lake*, *ocean* |
-| **ilo suno**      | *lamp*, *flashlight* |
-| **lupa suno**     | *window* |
-| **sitelen suno**  | *photograph* |
-| **ko suwi**       | *honey*, *sugar* |
-| **ilo tawa**      | *vehicle* |
-| **jan tawa**      | *traveller* |
-| **kalama tawa**   | *radio* |
-| **kon tawa**      | *wind* |
-| **sitelen tawa**  | *film*, *TV* |
-| **soweli tawa**   | *horse* |
-| **telo tawa**     | *river* |
-| **tomo tawa**     | *car* |
-| **ilo toki**      | *phone* |
-| **jan toki**      | *spokesperson* |
-| **lipu toki**     | *letter* |
-| **lupa tomo**     | *door* |
-| **ma tomo**       | *city* |
-| **soweli tomo**   | *domesticated animal*: *cat*, *dog* |
-| **tomo wawa**     | *castle* |
+| **lupa lukin**        | → lupa suno |
+| **telo lukin**        | *tear* |
+| **kulupu mama**       | *family* |
+| **telo mama**         | *milk* |
+| **lipu mani**         | *bill* |
+| **sike mani**         | *coin* |
+| **soweli mani**       | *cow* |
+| **waso mani**         | *chicken*, *hen* |
+| **sike mun**          | *month* |
+| **tenpo mun**         | → sike mun | <!-- KU -->
+| **linja nimi**        | *sentence* |
+| **lipu nimi**         | *menu*; → lipu pi nimi ale |
+| **supa noka**         | *stairs* |
+| **jan poka**          | *neighbour* |
+| **jan pona**          | *friend* |
+| **kon sewi**          | *atmosphere*, *weather* |
+| **toki sewi**         | *prayer* |
+| **sinpin sijelo**     | *chest* |
+| **pona sijelo**       | *health* |
+| **tenpo sike**        | → sike suno |
+| **ilo sona**          | *computer* |
+| **jan sona**          | *expert*, *teacher* |
+| **tomo sona**         | *school, museum* |
+| **kasi suli**         | *tree* |
+| **telo suli**         | *lake*, *ocean* |
+| **ilo suno**          | *lamp*, *flashlight* |
+| **lupa suno**         | *window* |
+| **sitelen suno**      | *photograph* |
+| **ko suwi**           | *honey*, *sugar* |
+| **ilo tawa**          | *vehicle* |
+| **jan tawa**          | *traveller* |
+| **kalama tawa**       | *radio* |
+| **kon tawa**          | *wind* |
+| **sitelen tawa**      | *film*, *TV* |
+| **soweli tawa**       | *horse* |
+| **telo tawa**         | *river* |
+| **tomo tawa**         | *car* |
+| **ilo toki**          | *phone* |
+| **jan toki**          | *spokesperson* |
+| **lipu toki**         | *letter* |
+| **lupa tomo**         | *door* |
+| **ma tomo**           | *city* |
+| **soweli tomo**       | *domesticated animal*: *cat*, *dog* |
+| **kon walo**          | *cloud*, *fog* |
+| **tomo wawa**         | *castle* |
 
 | | |
 |-|-|
@@ -117,6 +120,8 @@ tawa insa sike - rotate -->
 | **tomo tawa telo**        | *ship* |
 | **ilo tawa telo**         | *boat* |
 | **ilo tawa ~pi sike tu~** | *bicycle* |
+| **kon walo ~~anpa~~**     | *fog* |
+| **kon walo ~~sewi~~**     | *cloud* |
 
 | | |
 |-|-|
