@@ -46,18 +46,18 @@ tawa insa sike - rotate -->
 | | |
 | **sike esun**         | *week* |
 | **tenpo esun**        | → sike esun |
-| **pilin insa**        | *instinct* `KU`          |
-| **sitelen insa**      | *imagination*, *idea*    | <!-- (kama sitelen insa - to get an impression) --><!-- sitelen insa pona/wawa revo -->
-| **sona insa**         | *instinct*               |
-| **toki insa**         | *thought*                |
+| **pilin insa**        | *instinct* `KU` |
+| **sitelen insa**      | *imagination*, *idea*, *impression* | <!-- sitelen insa pona/wawa/suwi revo -->
+| **sona insa**         | *instinct* |
+| **toki insa**         | *thought* |
 | **wan insa**          | *concentration*, *focus* |
-| **wile insa**         | *instinct*, *impulse*    |
+| **wile insa**         | *instinct*, *impulse* |
 | **lipu kasi**         | *leaf* |
 | **ma kasi**           | *forest* |
 | **kasi kule**         | *flower* |
 | **nasin kulupu**      | *culture*, *protocol* |
-| **anpa lawa**         | *neck* | <!-- `?` -->
-| **noka lawa**         | *neck* | <!-- `?` -->
+| **anpa lawa**         | *neck* `?` |
+| **noka lawa**         | *neck* `?` |
 | **nasin lawa**        | *law* |
 | **sinpin lawa**       | *face* |
 | **supa lape**         | *bed* |
@@ -72,7 +72,7 @@ tawa insa sike - rotate -->
 | **soweli mani**       | *cow* |
 | **waso mani**         | *chicken*, *hen* |
 | **sike mun**          | *month* |
-| **tenpo mun**         | → sike mun | <!-- KU -->
+| **tenpo mun**         | → sike mun `KU` |
 | **linja nimi**        | *sentence* |
 | **lipu nimi**         | *menu*; → lipu pi nimi ale |
 | **supa noka**         | *stairs* |
