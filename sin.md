@@ -168,11 +168,65 @@ The <sub><sup>CONJUNCTION</sup></sub> **la** becomes the ending **-a**.
 ##### Toko Bona
 *([Toki Pona Spin-Off](#spin-offs) à la Esperanto)*
 
-***Toko Bona*** has the grammar and the phonetics of ***Esperanto***. It keeps all words of ***Tok Bona*** except for **la** (which becomes the definite article) and adds **est-** from ***Esperanto***.
+Adjectives follow nouns. Nouns end in **-o**, adjectives end in **-a**.
 
 | | ***Toki Pona*** | ***Toko Bona*** |
 |:-|:-|:-|
-| *The friend is in the house.* | jan pona li lon tomo. | **la jano bona estas lon la domo.** |
+| *flashlight* | ilo suno | **ilo suna** |
+
+Pronouns end in **-i**.
+
+| | ***Toki Pona*** | ***Toko Bona*** |
+|:-|:-|:-|
+| *you and I* | sina en mi | **sini en mi** |
+| *her house* | tomo ona | **domo ona** |
+
+A correlative's stem ends in **-i**. Correlatives end in **-o**.
+
+| | ***Toki Pona*** | ***Toko Bona*** |
+|:-|:-|:-|
+| *what* | seme | **ŝenmio** |
+| *that* | ni | **nio** |
+| *something* | ijo | **io** |
+| *everything* | ale | **alio** |
+| | | |
+| *nothing* | ijo ala | **io ara** |
+
+The predicate is introduced by **as**. In combination with adjectives and verbs, **-as** is used as an ending. <!-- jes; estas (estigas!) -->
+
+| | ***Toki Pona*** | ***Toko Bona*** |
+|:-|:-|:-|
+| *She is a parent.* | ona li mama. | **oni as mamo.** |
+| *I sleep.* | mi lape. | **mi slapas.** |
+
+Direct objects are introduced by **je**.
+
+| | ***Toki Pona*** | ***Toko Bona*** |
+|:-|:-|:-|
+| *I love you.* | mi olin e sina. | **mi volas je sini.** |
+
+Infinitives are used after pre-verbs. They end in **-i**.
+
+| | ***Toki Pona*** | ***Toko Bona*** |
+|:-|:-|:-|
+| *I need to sleep.* | mi wile lape. | **mi vilas slapi.** |
+
+Prepositions end in **-aŭ**. <!-- -as aŭ -->
+
+| | ***Toki Pona*** | ***Toko Bona*** |
+|:-|:-|:-|
+| *You are working at home.* | sina pali lon tomo. | **sini faras lonaŭ domo.** |
+| *You are home.* | sina lon tomo. | **sini lonas aŭ domo.** |
+
+Numerals end in **-u**. <!-- -ua -->
+
+| | ***Toki Pona*** | ***Toko Bona*** |
+|:-|:-|:-|
+| *a unique language* | toki wan | **toko vana** |
+| *one language* | toki wan | **toko vanu** |
+| *first language* | toki nanpa wan | **toko nambo vanu** |
+
+-----
 
 Monosyllabic ***Tok Bona*** stems lose their vocalic ending, except for <sub><sup>INTERJECTION</sup></sub>s.
 
@@ -180,29 +234,6 @@ Monosyllabic ***Tok Bona*** stems lose their vocalic ending, except for <sub><su
 |:-|:-|:-|
 | *town* | ma tomo | **mo doma** |
 | *The animal bleats.* | soweli li mu. | **la ĉovelo muas.** |
-
-<sub><sup>NUMBER</sup></sub>s end in **-u** (and **-ua**).
-
-| | ***Toki Pona*** | ***Toko Bona*** |
-|:-|:-|:-|
-| *la unua lingvo* | toki nanpa wan | **la toko nambo wanu** → **la toko wanua** |
-
-<sub><sup>CORRELATIVE</sup></sub>s end in **-iu**.
-
-| | ***Toki Pona*** | ***Toko Bona*** |
-|:-|:-|:-|
-| *what* | seme | **ŝenmiu** |
-| *that* | ni | **niu** |
-| *every* | ale | **aliu** |
-| *no* | ala | **ariu** |
-
-<sub><sup>PRONOUN</sup></sub>s end in **-i**.
-
-| | ***Toki Pona*** | ***Toko Bona*** |
-|:-|:-|:-|
-| *I* | mi | **mi** |
-| *you* | sina | **sini** |
-| *she* | ona | **oni** |
 
 # Frontier Toki Pona
 

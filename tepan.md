@@ -40,7 +40,7 @@
 <!-- tawa insa wawa - beat fast
 tawa insa nasa - shake
 tawa insa lili - sway
-tawa insa sike - rotate -->
+tawa insa sike - rotate??? -->
 
 
 | | |
@@ -559,3 +559,35 @@ Avoiding multiple `pi`.
 <!-- I already did that. tenpo pini la mi kama a pali e ni. -->
 <!-- open pi tenpo mute la - for the first time -->
 <!-- pini pi tenpo mute la - for the last time -->
+
+
+-----
+
+mu pi kalama sewi < mu pi soweli mani loje
+mu pi kalama anpa < mu pi soweli wawa
+
+kon insa = kon [pu]
+pali insa = sitelen insa, kute insa, lukin insa, toki insa
+
+pilin wawa
+
+kalama uta anpa = deep voice
+kalama uta lili (pi wawa lili) = whisper
+
+"tawa pona" = kalama pi nimi "tawa pona"
+Pu = kalama pi nimi "Pu" = kalama nimi pi soweli Pu
+
+<!-- · ⸢⸥ ｢｣ -->
+
+tenpo mute, tenpo pi ale lili = preskaŭ ĉiam, la plimulto de la fojoj
+jan mute, jan pi ale lili = preskaŭ ĉiu, la plimulto
+
+tenpo pini la mi toki a e ni tawa sina.
+tenpo pini la mi toki e ni tawa sina a.
+tenpo pini a la mi toki e ni tawa sina.
+
+kama sewi `aufstehen` -> kama sinpin / kama tan (supa) lape
+kama sewi `aufsteigen` -> tawa sewi
+
+kama (lon) sewi = siegen ?
+mi lon sewi. I have the high ground. I won.
