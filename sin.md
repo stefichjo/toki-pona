@@ -218,7 +218,7 @@ Prepositions end in **-aŭ**. <!-- -as aŭ -->
 | *You are working at home.* | sina pali lon tomo. | **sini faras lonaŭ domo.** |
 | *You are home.* | sina lon tomo. | **sini lonas aŭ domo.** |
 
-Numerals end in **-u**. <!-- -ua -->
+Numerals end in **-u**. <!-- -ua --> <!-- tu/ta? -->
 
 | | ***Toki Pona*** | ***Toko Bona*** |
 |:-|:-|:-|
@@ -228,12 +228,137 @@ Numerals end in **-u**. <!-- -ua -->
 
 -----
 
+<!-- ŭa -->
+
 Monosyllabic ***Tok Bona*** stems lose their vocalic ending, except for <sub><sup>INTERJECTION</sup></sub>s.
 
 | | ***Toki Pona*** | ***Toko Bona*** |
 |:-|:-|:-|
 | *town* | ma tomo | **mo doma** |
 | *The animal bleats.* | soweli li mu. | **la ĉovelo muas.** |
+
+| | | |
+|-|-|-|
+| a | ha | ha/ja | <!-- interjection -->
+| akesi | hagedis | hagedo | <!-- -is -->
+| ala | ara | ara |
+| alasa | a-la-ŝas | alaŝaso |
+| ale | ale | alio |
+| anpa | an-ba | anbo |
+| ante | ander | anda | <!-- -er -->
+| anu | an | an | <!-- o = an? -->
+| awen | hawen | haŭi | <!-- -en -->
+| e | e | je | <!-- etimologio? -->
+| en | en | en |
+| esun | eĝum | eĝo | <!-- -um -->
+| ijo | io | io |
+| ike | ilkea | ilkea |
+| ilo | ilo | ilo |
+| insa | insajt | insajto |
+| jaki | jaki | jaka |
+| jan | jan | jano |
+| jelo | jelo | jela |
+| jo | jou | joŭi |
+| kala | kala | kalo |
+| kalama | galama | galamo |
+| kama | kam-ap | kami | <!-- -up -->
+| kasi | kasvi | kasvo |
+| ken | ken | keni |
+| kepeken | ĥebrejken | ĥebrejkaŭ | <!-- -en -->
+| kili | ĥili | ĥilo |
+| kiwen | kiven | kivo | <!-- -en -->
+| ko | gou | goŭo |
+| kon | koŋ | kono |
+| kule | kuler | kulo | <!-- -er --> <!-- it's not a case ending, though -->
+| kulupu | kulupu < grup | grupo |
+| kute | ekute | ekuti |
+| la | ? | ŭa |
+| lape | slapen | slapi | <!-- -en -->
+| laso | glas | glasa |
+| lawa | glava | glavo |
+| len | lenĵ | lenĵo | <!-- leĵo? -->
+| lete | fret | freta |
+| li | ? | as |
+| lili | liklik | liklika |
+| linja | linja | linjo |
+| lipu | lipu | lipo |
+| loje | roje | roja |
+| lon | loŋ | lonaŭ |
+| luka | ruka | ruko |
+| lukin | luk-im | luki | <!-- -im -->
+| lupa | rupa | rupo |
+| ma | maa | mao |
+| mama | mama | mamo |
+| mani | mani | mano |
+| meli | meri | mero |
+| mi | mi | mi |
+| mije | mies | mieo |
+| moku | mogu | mogi |
+| moli | muri | mura |
+| monsi | mon-ĉi | monĉo |
+| mu | mu | mu | <!-- interjection -->
+| mun | mun | muno |
+| musi | amuzi | amuza |
+| mute | multe | multa |
+| nanpa | namba | nambo |
+| nasa | nasau | nasa | <!-- -au -->
+| nasin | naĉin | naĉino |
+| nena | nena | neno |
+| ni | ni | nio |
+| nimi | nimi | nimo |
+| noka | noga | nogo |
+| o | ho | ho/u |
+| olin | volim | voli |
+| ona | ona | oni |
+| open | open | open |
+| pakala | bagar-ap | bagara | <!-- -ap -->
+| pali | fari | fari |
+| palisa | palica | palico |
+| pan | fan | fano |
+| pana | pana | pani |
+| pi | biloŋ | bilon |
+| pilin | fil-im | fili | <!-- -im -->
+| pimeja | pimea | pimea |
+| pini | pinis < finiŝ | fina | <!-- -is -->
+| pipi | bibite | bibito |
+| poka | boka | boko |
+| poki | bokis < boks | bokso |
+| pona | bona | bona |
+| pu | pu | pa |
+| sama | sama | samaŭ |
+| seli | ĉeli | ĉelo |
+| selo | ŝelo | ŝelo |
+| seme | ŝenme | ŝenmio |
+| sewi | sevit | sevito |
+| sijelo | tijelo | tijelo |
+| sike | sirkle | sirklo |
+| sin | ŝin | ŝina |
+| sina | sina | sini |
+| sinpin | cinbin | cinbin |
+| sitelen | ŝilderen | ŝildi | <!-- -er- -en -->
+| sona | codna | codni |
+| soweli | ĉoveli | ĉovelo |
+| suli | suri | sura |
+| suno | suno | suno |
+| supa | surfaco | surfaco |
+| suwi | swit | sŭita |
+| tan | dan | danaŭ |
+| taso | tas-ol < dats-ol | datsa | <!-- -ol -->
+| tawa | tawadz | taŭaŭ | <!-- -adz -->
+| telo | de-l-o | delo |
+| tenpo | tempo | tempo |
+| toki | tok | toko |
+| tomo | domo | domo |
+| tu | tu | tu/ta |
+| unpa | umf | umfi |
+| uta | usta | usto |
+| utala | udarati | udari | <!-- -ti -->
+| walo | valko | valka |
+| wan | ŭan | ŭanu/ŭana |
+| waso | ŭazo | ŭazo |
+| wawa | vahva | vava |
+| weka | ŭeĥa | ŭeĥa |
+| wile | ŭilen | ŭili |
 
 # Frontier Toki Pona
 
