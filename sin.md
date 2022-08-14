@@ -240,7 +240,7 @@ Monosyllabic ***Tok Bona*** stems lose their vocalic ending, except for <sub><su
 | | | |
 |-|-|-|
 | a | ha | ha/ja | <!-- interjection -->
-| akesi | hagedis | hagedo | <!-- -is -->
+| akesi | hagedis | hagediso |
 | ala | ara | ara |
 | alasa | a-la-ŝas | alaŝaso |
 | ale | ale | alio |
@@ -292,7 +292,7 @@ Monosyllabic ***Tok Bona*** stems lose their vocalic ending, except for <sub><su
 | mani | mani | mano |
 | meli | meri | mero |
 | mi | mi | mi |
-| mije | mies | mieo |
+| mije | mies | mieo | <!-- -s -->
 | moku | mogu | mogi |
 | moli | muri | mura |
 | monsi | mon-ĉi | monĉo |
