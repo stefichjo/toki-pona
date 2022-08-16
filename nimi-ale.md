@@ -331,6 +331,12 @@ When a <sub><sup>PREPOSITION</sup></sub> is used as an <sub><sup>ADJECTIVE</sup>
 |:-|:-|:-|
 | *I am going towards you.* | | *I am not going towards you.* |
 
+The <sub><sup>VERB</sup></sub> **pana** is used instead of converting the <sub><sup>PREPOSITION</sup></sub>s **lon**, **tan** and **tawa** into verbs, especially in order to avoid repeating **lon**, **tan** and **tawa** as a <sub><sup>PREPOSITION</sup></sub>.
+
+| mi pana e ilo toki lon poka ona. | | mi pana e telo tan selo. | | mi pana e lipu toki tawa sina. |
+|:-|:-|:-|:-|:-|
+| *I put the clock next to it.* | | *I'm sweating.* | | *I'm sending you a letter.* |
+
 You can convert any <sub><sup>PREPOSITION</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *being ...* omitting its argument.
 
 | <sub><sup>PREPOSITION</sup></sub> tawa |
