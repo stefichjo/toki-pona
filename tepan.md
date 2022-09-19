@@ -35,6 +35,8 @@
 | **tenpo**         | → sike |
 
 
+| | |
+|-|-|
 | **sitelen lape**  | *dream*                  |
 
 <!-- tawa insa wawa - beat fast
@@ -44,6 +46,7 @@ tawa insa sike - rotate??? -->
 
 
 | | |
+|-|-|
 | **sike esun**         | *week* |
 | **tenpo esun**        | → sike esun |
 | **pilin insa**        | *instinct* `KU` |
