@@ -1,14 +1,168 @@
-# TEPAN
+# Frontier Toki Pona (<sub><sup>TEPAN</sup></sub>)
 
-## Grammar
+## Referential Transparencies
 
-### open and pini
+| mi kama lon ma tomo. = mi tawa ma tomo. |
+|:-|
+| *I became being in the city.* = *I went to the city.* |
 
-*open* and *pini* are antonyms.
+| mi pini lon ma tomo. = mi tan ma tomo. |
+|:-|
+| *I stopped being in the city.* = *I left the city.* |
 
-| mi pini e ~~open pi~~ lupa tomo. |
+### la
+
+#### lon la
+
+| lon tenpo suno pini la = tenpo suno pini la |
+|:-|
+| *yesterday* |
+
+#### ni la
+
+| poka ni la = poka: |
+|:-|
+| *besides*, *by the way* |
+
+| taso ni la = taso: |
+|:-|
+| *independently from this* = *but* |
+
+#### lon ni la
+
+| lon ni: ..., la = ..., la |
+|:-|
+| *in the case of this: ...* = *if ...* |
+
+<!-- It should be possible to start a sentence with *la* instead of *ni la*. -->
+
+### li and e vs. lon and pi
+
+| ona li pali li kute e kalama musi. = ona li pali lon kute pi kalama musi. |
+|:-|
+| *He worked and listened to music.* = *He worked while listening to music.* |
+
+### Progressive
+
+| mi tawa. mi jo e telo kili. = mi tawa lon jo pi telo kili. |
+|:-|
+| *I brought juice.* |
+
+### Location Nouns
+
+| waso li tawa lon sewi pi tomo sona. = waso li tawa sewi tomo sona. |
+|:-|
+| *A bird flew over the school.* |
+
+#### kepeken and sama
+
+| sina pali lon kepeken pi ilo sona. = ~~sina pali kepeken ilo sona.~~ |
+|:-|
+| *You worked by means of a computer.* |
+
+| mi musi lon kepeken pi ilo sona. = mi musi tan jo pi ilo sona. |
+|:-|
+| *I played with a computer.* |
+
+| sina kepeken e ilo sona. = ~~sina kepeken ilo sona.~~ |
+|:-|
+| *You used a computer.* |
+
+| sina pali lon sama pi ilo sona. = ~~sina pali sama ilo sona.~~ |
+|:-|
+| *You worked like a computer.* |
+
+#### sewi vs. anpa and noka
+
+#### taso vs. anpa
+
+| mi pali lon taso pi jan lawa. |
+|:-|
+| *I worked in independence of a boss.* |
+
+| mi pali lon anpa pi jan lawa. |
+|:-|
+| *I worked in dependence of a boss.* |
+
+#### poka vs. weka
+
+| ona li tawa poka pi tomo sona. |
+|:-|
+| *She went next to the library.* |
+
+<!-- tan weka pi -->
+
+| ona li tawa weka pi tomo sona. |
+|:-|
+| *She went away from the library.* |
+
+<!-- tan poka pi -->
+
+## Antonyms
+
+### pona vs. ike, (jaki,) nasa, pakala, and utala
+
+### lili vs. suli and wawa
+
+### jaki vs. suwi
+
+### akesi vs. soweli
+
+<!-- akesi = dangerous? -->
+
+### a vs. ala (and mu)
+
+### sama vs. ante and esun
+
+| sina pilin lon ante pi ilo sona. |
+|:-|
+| *You felt different from a computer.* |
+
+| sina pana e mani lon esun pi suwi lete. |
+|:-|
+| *You gave money to a transaction of ice cream.* = *You bought ice cream.* |
+
+### pini vs. kama and open
+
+| mi pini e open pi lupa tomo. = mi pini e lupa tomo. |
 |:-|
 | *I ended the aperture of the door.* = *I closed the door.* |
+
+| mi pini e tawa pi tomo tawa. = mi pini e tomo tawa. |
+|:-|
+| *I ended the movement of the car.* = *I stopped the car.* |
+
+<!-- pini e pali -->
+
+| mi kama e ni: mi pali. = mi kama pali. |
+|:-|
+| *I let me emerge working.* = *I manage to work.* |
+
+| ni li kama: mi lape. = mi kama lape. |
+|:-|
+| *This came: I slept.* = *I fell asleep.* |
+
+| mi open e ni: mi pali. = mi open pali. |
+|:-|
+| *I start me working.* = *I start working.* |
+<!-- ready? ken? -->
+
+| mi pini e ni: mi pali. = mi pini pali. |
+|:-|
+| *I stopped me working.* = *I stopped working.* |
+<!-- pini vs. kama and open -->
+
+-----
+
+<!-- ijo ike li kama = ike li kama -->
+<!-- kama pi ijo ike -->
+
+
+# TEPAN
+
+<!-- "restored" Toki Pona -->
+
+## Grammar
 
 ### [PRE-VERB](nimi-ale.md#pre-verb)
 
