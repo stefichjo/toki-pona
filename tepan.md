@@ -1,6 +1,9 @@
 # Frontier Toki Pona (<sub><sup>TEPAN</sup></sub>)
 
-## Referential Transparencies
+<!-- ijo kiwen = kiwen] -->
+<!-- jan meli = meli -->
+
+## Abbreviations
 
 | mi kama lon ma tomo. = mi tawa ma tomo. |
 |:-|
@@ -9,6 +12,9 @@
 | mi pini lon ma tomo. = mi tan ma tomo. |
 |:-|
 | *I stopped being in the city.* = *I left the city.* |
+
+<!-- mi kama lon tawa ma tomo -->
+<!-- = mi kama tawa ma tomo -->
 
 ### la
 
@@ -19,6 +25,9 @@
 | *yesterday* |
 
 #### ni la
+
+<!-- Menciindas aliloke: x pi ijo ni = x ni -->
+<!-- Tio inkluzivas: ijo pi ijo ni = ijo ni -->
 
 | poka ni la = poka: |
 |:-|
@@ -42,12 +51,6 @@
 |:-|
 | *He worked and listened to music.* = *He worked while listening to music.* |
 
-### Progressive
-
-| mi tawa. mi jo e telo kili. = mi tawa lon jo pi telo kili. |
-|:-|
-| *I brought juice.* |
-
 ### Location Nouns
 
 | waso li tawa lon sewi pi tomo sona. = waso li tawa sewi tomo sona. |
@@ -63,6 +66,8 @@
 | mi musi lon kepeken pi ilo sona. = mi musi tan jo pi ilo sona. |
 |:-|
 | *I played with a computer.* |
+
+<!-- Implied: "kama musi" → "tan" = courtesy of, thanks to -->
 
 | sina kepeken e ilo sona. = ~~sina kepeken ilo sona.~~ |
 |:-|
@@ -102,7 +107,7 @@
 
 ### pona vs. ike, (jaki,) nasa, pakala, and utala
 
-### lili vs. suli and wawa
+### lili vs. mute, suli, and wawa
 
 ### jaki vs. suwi
 
@@ -141,6 +146,8 @@
 | ni li kama: mi lape. = mi kama lape. |
 |:-|
 | *This came: I slept.* = *I fell asleep.* |
+
+<!-- kama = kama lon? -->
 
 | mi open e ni: mi pali. = mi open pali. |
 |:-|
@@ -314,3 +321,4 @@ Avoiding multiple `pi`.
 | **mi lukin e jan ni: ona li sona e mi.** → **mi lukin e jan ni: sona e mi.** |
 
 
+<!-- mi sona ala e jan pi seme ni: ona li kama. -->
