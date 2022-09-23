@@ -1,30 +1,29 @@
 # Frontier Toki Pona (<sub><sup>TEPAN</sup></sub>)
 
-<!-- ijo kiwen = kiwen] -->
-<!-- jan meli = meli -->
+*Frontier Toki Pona* explores [omissions](#omissions) and [conversions](nimi-ale.md#content-word) of words that go beyond their definitions in the [dictionary](nimi-ale.md).
 
-## Abbreviations
+## Omissions
 
-| mi kama lon ma tomo. = mi tawa ma tomo. |
+<!-- table headlines -->
+
+
+
+
+### Possessive Pronouns
+
+When *tomo* means *home*, a possessive pronoun is omitted.
+
+| mi tawa tomo mi. = mi tawa tomo. |
 |:-|
-| *I became being in the city.* = *I went to the city.* |
+| *I went to my home.* = *I went home.* |
 
-| mi pini lon ma tomo. = mi tan ma tomo. |
-|:-|
-| *I stopped being in the city.* = *I left the city.* |
+### Particles
 
-<!-- mi kama lon tawa ma tomo -->
-<!-- = mi kama tawa ma tomo -->
-
-### la
-
-#### lon la
+#### la
 
 | lon tenpo suno pini la = tenpo suno pini la |
 |:-|
 | *yesterday* |
-
-#### ni la
 
 <!-- Menciindas aliloke: x pi ijo ni = x ni -->
 <!-- Tio inkluzivas: ijo pi ijo ni = ijo ni -->
@@ -37,13 +36,25 @@
 |:-|
 | *independently from this* = *but* |
 
-#### lon ni la
-
 | lon ni: ..., la = ..., la |
 |:-|
 | *in the case of this: ...* = *if ...* |
 
 <!-- It should be possible to start a sentence with *la* instead of *ni la*. -->
+
+
+## Substitutions
+
+| mi kama lon ma tomo. = mi tawa ma tomo. |
+|:-|
+| *I became being in the city.* = *I went to the city.* |
+
+| mi pini lon ma tomo. = mi tan ma tomo. |
+|:-|
+| *I stopped being in the city.* = *I left the city.* |
+
+<!-- mi kama lon tawa ma tomo -->
+<!-- = mi kama tawa ma tomo -->
 
 ### li and e vs. lon and pi
 
@@ -322,3 +333,9 @@ Avoiding multiple `pi`.
 
 
 <!-- mi sona ala e jan pi seme ni: ona li kama. -->
+
+<!-- 
+selo - form
+sama - function, role
+ona li pali lon sama pi jan sona
+ -->
