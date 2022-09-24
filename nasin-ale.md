@@ -1,21 +1,138 @@
 # Frontier Toki Pona (<sub><sup>TEPAN</sup></sub>)
 
-*Frontier Toki Pona* explores [omissions](#omissions) and [conversions](nimi-ale.md#content-word) of words that go beyond their definitions in the [dictionary](nimi-ale.md).
+*Frontier Toki Pona* explores omissions and [conversions](nimi-ale.md#content-word) of words that go beyond their definitions in the [dictionary](nimi-ale.md) and they way these words are used in [expressions](pu.md) in Pu. The ultimate goal is to find a nasin - a preferred way of omitting and converting words and expressing ideas - that is "pona enough" (*pona pona*), i.e. the sweet spot between "un-pona" (*pona ala*) and "too pona" (*pona ike*).
 
-## Omissions
+<!-- Subjective -->
 
-<!-- table headlines -->
+## li
+
+The first *li* after a single *mi* or *sina* is omitted.
+
+| | I worked and played. | |
+|-|-|-|
+| **pona ala**  | *mi li pali, li musi.* | <sub><sup>X</sup></sub>  |
+| **pona pona** | *mi pali, li musi.*    | <sub><sup>KU</sup></sub> |
+| **pona ike**  | *mi pali. mi musi.*    | <sub><sup>PU</sup></sub> |
+
+In my nasin, a <sub><sup>VERB</sup></sub> can be paraphrased as a <sub><sup>PSEUDO LOCATION NOUN</sup></sub>.
+
+| | She listened to music. | |
+|-|-|-|
+| **pona pona** | *ona li kute e kalama musi.*      | <sub><sup>∞</sup></sub>  |
+| **→**         | *ona li lon kute pi kalama musi.* | <sub><sup>X</sup></sub> |
+
+## kepeken, sama
+
+In my nasin, one cannot convert a <sub><sup>PSEUDO LOCATION NOUN</sup></sub> into a <sub><sup>PREPOSITION</sup></sub>.
+
+| | I use good tools. | |
+|-|-|-|
+| **pona pona** | *mi kepeken e ilo pona.*      | <sub><sup>KU</sup></sub> |
+| **→**         | *mi lon kepeken pi ilo pona.* | <sub><sup>X</sup></sub> |
+| **pona ike**  | *mi kepeken ilo pona.*        | <sub><sup>PU</sup></sub> |
+
+| | You speak like a computer. | |
+|-|-|-|
+| **pona pona** | *sina toki lon sama pi ilo sona.* | <sub><sup>X</sup></sub> |
+| **pona ike**  | *sina toki sama ilo sona.*        | <sub><sup>PU</sup></sub> |
+
+### Location Nouns
+
+In my nasin, one cannot convert a <sub><sup>LOCATION NOUN</sup></sub> into a <sub><sup>VERB</sup></sub>, but perhaps into a <sub><sup>PREPOSITION</sup></sub>.
+
+| | You're circling the sun. | |
+|-|-|-|
+| **pona pona** | *sina tawa lon sike suno.* | <sub><sup>X</sup></sub> |
+| **pona ike**  | *sina sike e suno.*        | <sub><sup>?</sup></sub> |
+
+| | I accompany a friend. | |
+|-|-|-|
+| **pona pona** | *mi lon poka pi jan pona.* | <sub><sup>PU</sup></sub> |
+| **→**         | *mi poka jan pona.*        | <sub><sup>?</sup></sub> |
+
+## lon, tan, tawa
+
+When *lon*, *tan* or *tawa* is used both as a <sub><sup>PREDICATE</sup></sub> and as a <sub><sup>PREPOSITION</sup></sub> one after the other, the <sub><sup>PREPOSITION</sup></sub> is omitted.
+
+| | I was in a town. | |
+|-|-|-|
+| **pona ala**  | *mi lon lon ma tomo.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *mi lon ma tomo.*     | <sub><sup>∞</sup></sub> |
+
+| | I left the town. | |
+|-|-|-|
+| **pona ala**  | *mi tan tan ma tomo.*  | <sub><sup>X</sup></sub> |
+| **pona pona** | *mi tan ma tomo.*      | <sub><sup>X</sup></sub> |
+| **pona ike**  | *mi tawa tan ma tomo.* | <sub><sup>∞</sup></sub> |
+
+| | Good departure! | |
+|-|-|-|
+| **pona pona** | *tan pona!*  | <sub><sup>X</sup></sub> |
+| **pona ike**  | *tawa pona!* | <sub><sup>∞</sup></sub> |
+
+## mi, sina, ona
+
+After *tomo* (meaning *home*), a possessive pronoun is usually omitted.
+
+| | I went home. | |
+|-|-|-|
+| **pona ala**  | *mi tawa tomo mi.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *mi tawa tomo.*    | <sub><sup>∞</sup></sub> |
+
+##
+
+-----
+
+| | A map covered the desk. | |
+|-|-|-|
+| **pona pona** | *lipu ma li len pi supa sitelen.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *lipu ma li len e supa sitelen.*       | <sub><sup>KIPO?</sup></sub> |
+
+In my nasin, one cannot convert a <sub><sup>PSEUDO LOCATION NOUN</sup></sub> into a <sub><sup>VERB</sup></sub>.
+
+| | A car circled the school. | |
+|-|-|-|
+| **pona pona** | *tomo tawa li (tawa) lon sike pi tomo sona.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *tomo tawa li sike e tomo sona.*             | <sub><sup>KIPO</sup></sub> |
+
+| | You worked with a computer. | |
+|-|-|-|
+| **pona pona** | *sina (pali) lon kepeken pi ilo sona.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *sina kepeken e ilo sona.*             | <sub><sup>KU</sup></sub> |
 
 
 
+-----
 
-### Possessive Pronouns
 
-When *tomo* means *home*, a possessive pronoun is omitted.
+ni li kama: lipu ma li len e supa sitelen.
 
-| mi tawa tomo mi. = mi tawa tomo. |
-|:-|
-| *I went to my home.* = *I went home.* |
+pona ala: ona li kepeken e ilo. (PIJE, KU)
+pona pona: ona li lon kepeken pi ilo pona.
+pona mute: ona li kepeken ilo pona. (SONJA)
+
+pa: ona li tawa ala tawa ma tomo.
+pp: ona li tawa ala ma tomo. (SONJA)
+pm: ona li tawa ma tomo ala. (MA PONA)
+
+pa: ma kasi li sike e ma tomo. (KIPO)
+pp: ma kasi li lon sike pi ma tomo.
+pm: ma kasi li sike ma tomo. (KIPO?)
+
+pa: tomo li poka e kasi suli.
+pp: tomo li lon poka pi kasi suli. (SONJA)
+pm: tomo li poka kasi suli. (EX PIJE, KIPO)
+
+pa: ... tawa mi 
+pp: tawa mi la ... (SONJA)
+pp: mi la ... (KU)
+
+| | un-pona | pona |
+|-|-|-|
+| *I slept.*    | mi li lape.   | mi lape. |
+| *You worked.* | sina li pali. | sina pali. |
+
+-----
 
 ### Particles
 
@@ -43,7 +160,7 @@ When *tomo* means *home*, a possessive pronoun is omitted.
 <!-- It should be possible to start a sentence with *la* instead of *ni la*. -->
 
 
-## Substitutions
+## Substitutions/Expressions/Wordings
 
 | mi kama lon ma tomo. = mi tawa ma tomo. |
 |:-|
@@ -55,18 +172,6 @@ When *tomo* means *home*, a possessive pronoun is omitted.
 
 <!-- mi kama lon tawa ma tomo -->
 <!-- = mi kama tawa ma tomo -->
-
-### li and e vs. lon and pi
-
-| ona li pali li kute e kalama musi. = ona li pali lon kute pi kalama musi. |
-|:-|
-| *He worked and listened to music.* = *He worked while listening to music.* |
-
-### Location Nouns
-
-| waso li tawa lon sewi pi tomo sona. = waso li tawa sewi tomo sona. |
-|:-|
-| *A bird flew over the school.* |
 
 #### kepeken and sama
 
