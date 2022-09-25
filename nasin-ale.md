@@ -108,7 +108,7 @@ In my nasin, *kepeken* and *sama* cannot be <sub><sup>PREPOSITION</sup></sub>s.
 
 When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 
-| | When the sun is red, it is the right time. | |
+| | When the sun was red, it was the right time. | |
 |-|-|-|
 | **pona ala**  | *lon ni: suno li loje, la tenpo pona li lon.* | <sub><sup>TEPAN</sup></sub> |
 | **pona pona** | *suno li loje, la tenpo pona li lon.*         | <sub><sup>∞</sup></sub> |
@@ -132,31 +132,39 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 | **pona ala**  | *ken a./ken ala.* | <sub><sup>TEPAN</sup></sub> |
 | **pona pona** | *ken./ala.*       | <sub><sup>PU</sup></sub> |
 
-| | You weren't able to come, where you? | |
+<!-- | | You weren't able to come, where you? | |
 |-|-|-|
 | **pona ala**  | *seme anu sina ken ala kama?* | <sub><sup>TEPAN</sup></sub> |
-| **pona pona** | *sina ken ala kama anu seme?* | <sub><sup>PU</sup></sub> |
+| **pona pona** | *sina ken ala kama anu seme?* | <sub><sup>PU</sup></sub> | -->
+
+### Antonyms
+
+#### sewi and lawa vs. anpa and noka
+
+| | There is a light above the table. | |
+|-|-|-|
+| **pona pona** | *suno li lon sewi supa.* | <sub><sup>∞</sup></sub> |
+
+| | There is a watch at the top of the tower. | |
+|-|-|-|
+| **pona ala**  | *ilo tenpo li lon lawa pi tomo palisa.* | <sub><sup>TEPAN</sup></sub> |
+| **pona pona** | *ilo tenpo li lon sewi pi tomo palisa.* | <sub><sup>∞</sup></sub> |
+
+| | There is a fish at the bottom of the ocean. | |
+|-|-|-|
+| **pona pona** | *kala li lon noka pi telo suli.*   | <sub><sup>PU</sup></sub> |
+| **pona ike**  | *kala li lon anpa pi telo suli.*   | <sub><sup>∞?</sup></sub> |
+
+| | There is a rock below the house. | |
+|-|-|-|
+| **pona pona** | *kiwen li lon anpa tomo.* | <sub><sup>∞</sup></sub> |
+| **pona ike**  | *kiwen li lon noka tomo.* | <sub><sup>PU</sup></sub> |
 
 -----
 
-## Substitutions/Expressions/Wordings
-
-| mi kama lon ma tomo. = mi tawa ma tomo. |
-|:-|
-| *I became being in the city.* = *I went to the city.* |
-
-| mi pini lon ma tomo. = mi tan ma tomo. |
-|:-|
-| *I stopped being in the city.* = *I left the city.* |
-
-<!-- mi kama lon tawa ma tomo -->
-<!-- = mi kama tawa ma tomo -->
-
-#### kepeken and sama
 
 <!-- Implied: "kama musi" → "tan" = courtesy of, thanks to -->
 
-#### sewi vs. anpa and noka
 
 #### taso vs. anpa
 
@@ -182,8 +190,6 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 
 <!-- tan poka pi -->
 
-## Antonyms
-
 ### pona vs. ike, (jaki,) nasa, pakala, and utala
 
 ### lili vs. mute, suli, and wawa
@@ -206,7 +212,7 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 |:-|
 | *You gave money to a transaction of ice cream.* = *You bought ice cream.* |
 
-### pini vs. kama and open
+### pini and selo vs. kama and open
 
 | mi pini e open pi lupa tomo. = mi pini e lupa tomo. |
 |:-|
@@ -242,11 +248,6 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 
 <!-- ijo ike li kama = ike li kama -->
 <!-- kama pi ijo ike -->
-
-
-# TEPAN
-
-<!-- "restored" Toki Pona -->
 
 ## Grammar
 
