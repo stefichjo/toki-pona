@@ -137,9 +137,9 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 | **pona ala**  | *seme anu sina ken ala kama?* | <sub><sup>TEPAN</sup></sub> |
 | **pona pona** | *sina ken ala kama anu seme?* | <sub><sup>PU</sup></sub> | -->
 
-### Antonyms
+## Antonyms
 
-#### sewi and lawa vs. anpa and noka
+### sewi and lawa vs. anpa and noka
 
 | | There is a light above the table. | |
 |-|-|-|
@@ -159,6 +159,45 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 |-|-|-|
 | **pona pona** | *kiwen li lon anpa tomo.* | <sub><sup>∞</sup></sub> |
 | **pona ike**  | *kiwen li lon noka tomo.* | <sub><sup>PU</sup></sub> |
+
+-----
+
+### kama and open vs. pini and selo
+
+| | There is a light above the table. | |
+|-|-|-|
+| **pona pona** | *suno li lon sewi supa.* | <sub><sup>∞</sup></sub> |
+
+| mi pini e open pi lupa tomo. = mi pini e lupa tomo. |
+|:-|
+| *I ended the aperture of the door.* = *I closed the door.* |
+
+| mi pini e tawa pi tomo tawa. = mi pini e tomo tawa. |
+|:-|
+| *I ended the movement of the car.* = *I stopped the car.* |
+
+<!-- pini e pali -->
+
+| mi kama e ni: mi pali. = mi kama pali. |
+|:-|
+| *I let me emerge working.* = *I manage to work.* |
+
+| ni li kama: mi lape. = mi kama lape. |
+|:-|
+| *This came: I slept.* = *I fell asleep.* |
+
+<!-- kama = kama lon? -->
+
+| mi open e ni: mi pali. = mi open pali. |
+|:-|
+| *I start me working.* = *I start working.* |
+<!-- ready? ken? -->
+
+| mi pini e ni: mi pali. = mi pini pali. |
+|:-|
+| *I stopped me working.* = *I stopped working.* |
+<!-- pini vs. kama and open -->
+
 
 -----
 
@@ -211,38 +250,6 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 | sina pana e mani lon esun pi suwi lete. |
 |:-|
 | *You gave money to a transaction of ice cream.* = *You bought ice cream.* |
-
-### pini and selo vs. kama and open
-
-| mi pini e open pi lupa tomo. = mi pini e lupa tomo. |
-|:-|
-| *I ended the aperture of the door.* = *I closed the door.* |
-
-| mi pini e tawa pi tomo tawa. = mi pini e tomo tawa. |
-|:-|
-| *I ended the movement of the car.* = *I stopped the car.* |
-
-<!-- pini e pali -->
-
-| mi kama e ni: mi pali. = mi kama pali. |
-|:-|
-| *I let me emerge working.* = *I manage to work.* |
-
-| ni li kama: mi lape. = mi kama lape. |
-|:-|
-| *This came: I slept.* = *I fell asleep.* |
-
-<!-- kama = kama lon? -->
-
-| mi open e ni: mi pali. = mi open pali. |
-|:-|
-| *I start me working.* = *I start working.* |
-<!-- ready? ken? -->
-
-| mi pini e ni: mi pali. = mi pini pali. |
-|:-|
-| *I stopped me working.* = *I stopped working.* |
-<!-- pini vs. kama and open -->
 
 -----
 
