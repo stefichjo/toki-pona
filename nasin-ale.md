@@ -4,7 +4,9 @@
 
 `*` <sub><sup>This is subject to personal preference.</sup></sub>
 
-## li
+## Omissions
+
+### li
 
 The first *li* after a single *mi* or *sina* is omitted.
 
@@ -21,7 +23,33 @@ In my nasin, a <sub><sup>VERB</sup></sub> after a secondary *li* (or *o*) can be
 | **pona pona** | *ona li pali, li kute e kalama musi.* | <sub><sup>∞</sup></sub>  |
 | **→**         | *ona li pali lon kute pi kalama musi.* | <sub><sup>TEPAN</sup></sub> |
 
-## Location Nouns
+### lon, tan, tawa
+
+When *lon*, *tan* or *tawa* is used both as a <sub><sup>PREDICATE</sup></sub> and as a <sub><sup>PREPOSITION</sup></sub> one after the other, the <sub><sup>PREPOSITION</sup></sub> is omitted.
+
+| | I was in the town. | |
+|-|-|-|
+| **pona ala**  | *mi lon lon ma tomo.* | <sub><sup>TEPAN</sup></sub> |
+| **pona pona** | *mi lon ma tomo.*     | <sub><sup>∞</sup></sub> |
+
+| | I didn't go to the town. | |
+|-|-|-|
+| **pona ala**  | *mi tawa ala tawa ma tomo.* | <sub><sup>TEPAN</sup></sub> |
+| **pona pona** | *mi tawa ala ma tomo.*      | <sub><sup>PU</sup></sub> |
+| **pona ike**  | *mi tawa ma tomo ala.*      | <sub><sup>MA PONA</sup></sub> |
+
+| | I left the town. | |
+|-|-|-|
+| **pona ala**  | *mi tan tan ma tomo.*  | <sub><sup>TEPAN</sup></sub> |
+| **pona pona** | *mi tan ma tomo.*      | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *mi tawa tan ma tomo.* | <sub><sup>∞</sup></sub> |
+
+| | Good departure! | |
+|-|-|-|
+| **pona pona** | *tan pona!*  | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *tawa pona!* | <sub><sup>∞</sup></sub> |
+
+#### Location Nouns
 
 In my nasin, there are some additional <sub><sup>LOCATION NOUN</sup></sub>s. 
 
@@ -50,7 +78,7 @@ In my nasin, one cannot convert a <sub><sup>LOCATION NOUN</sup></sub> into a <su
 | **pona pona** | *mi tawa lon poka pi jan pona.* | <sub><sup>PU</sup></sub> |
 | **pona ike**  | *mi tawa poka jan pona.*        | <sub><sup>EX PIJE, KIPO</sup></sub> |
 
-### kepeken, sama
+#### kepeken, sama
 
 In my nasin, *kepeken* and *sama* cannot be <sub><sup>PREPOSITION</sup></sub>s.
 
@@ -66,42 +94,7 @@ In my nasin, *kepeken* and *sama* cannot be <sub><sup>PREPOSITION</sup></sub>s.
 | **→**         | *sina lon sama pi ilo sona.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *sina sama ilo sona.*        | <sub><sup>PU</sup></sub> |
 
-## lon, tan, tawa
-
-When *lon*, *tan* or *tawa* is used both as a <sub><sup>PREDICATE</sup></sub> and as a <sub><sup>PREPOSITION</sup></sub> one after the other, the <sub><sup>PREPOSITION</sup></sub> is omitted.
-
-| | I was in the town. | |
-|-|-|-|
-| **pona ala**  | *mi lon lon ma tomo.* | <sub><sup>TEPAN</sup></sub> |
-| **pona pona** | *mi lon ma tomo.*     | <sub><sup>∞</sup></sub> |
-
-| | I didn't go to the town. | |
-|-|-|-|
-| **pona ala**  | *mi tawa ala tawa ma tomo.* | <sub><sup>TEPAN</sup></sub> |
-| **pona pona** | *mi tawa ala ma tomo.*      | <sub><sup>PU</sup></sub> |
-| **pona ike**  | *mi tawa ma tomo ala.*      | <sub><sup>MA PONA</sup></sub> |
-
-| | I left the town. | |
-|-|-|-|
-| **pona ala**  | *mi tan tan ma tomo.*  | <sub><sup>TEPAN</sup></sub> |
-| **pona pona** | *mi tan ma tomo.*      | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *mi tawa tan ma tomo.* | <sub><sup>∞</sup></sub> |
-
-| | Good departure! | |
-|-|-|-|
-| **pona pona** | *tan pona!*  | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *tawa pona!* | <sub><sup>∞</sup></sub> |
-
-## mi, sina, ona
-
-After *tomo* (meaning *home*), a possessive pronoun is usually omitted.
-
-| | I went home. | |
-|-|-|-|
-| **pona ala**  | *mi tawa tomo mi.* | <sub><sup>TEPAN</sup></sub> |
-| **pona pona** | *mi tawa tomo.*    | <sub><sup>∞</sup></sub> |
-
-## la
+### la
 
 | | yesterday | |
 |-|-|-|
@@ -113,12 +106,7 @@ After *tomo* (meaning *home*), a possessive pronoun is usually omitted.
 | **pona pona** | *tawa mi la ...* | <sub><sup>PU</sup></sub> |
 | **pona ike**  | *mi la ...*      | <sub><sup>PIJE, KU</sup></sub> |
 
-### ni la
-
-| | When I am good to people, people are good to me. | |
-|-|-|-|
-| **pona pona**  | *jan li pona tawa mi lon ni: mi pona tawa jan.* | <sub><sup>TEPAN</sup></sub> |
-| **→**          | *mi pona tawa jan, la jan li pona tawa mi.*     | <sub><sup>∞</sup></sub> |
+When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 
 | | When the sun is red, it is the right time. | |
 |-|-|-|
@@ -131,7 +119,7 @@ After *tomo* (meaning *home*), a possessive pronoun is usually omitted.
 | **pona pona** | *mi kama ala tan ni: kon sewi li ike.*     | <sub><sup>PU</sup></sub> |
 | **pona ike**  | *tenpo li ike, la mi kama ala.*            | <sub><sup>MA PONA</sup></sub> |
 
-## anu
+### anu
 
 | | Were you able to come? | |
 |-|-|-|
@@ -149,35 +137,7 @@ After *tomo* (meaning *home*), a possessive pronoun is usually omitted.
 | **pona ala**  | *seme anu sina ken ala kama?* | <sub><sup>TEPAN</sup></sub> |
 | **pona pona** | *sina ken ala kama anu seme?* | <sub><sup>PU</sup></sub> |
 
-
 -----
-
-<!-- | | A map covered the desk. | |
-|-|-|-|
-| **pona pona** | *lipu ma li len pi supa sitelen.* | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *lipu ma li len e supa sitelen.*       | <sub><sup>KIPO?</sup></sub> | -->
-
-### Particles
-
-#### la
-
-<!-- Menciindas aliloke: x pi ijo ni = x ni -->
-<!-- Tio inkluzivas: ijo pi ijo ni = ijo ni -->
-
-| poka ni la = poka: |
-|:-|
-| *besides*, *by the way* |
-
-| taso ni la = taso: |
-|:-|
-| *independently from this* = *but* |
-
-| lon ni: ..., la = ..., la |
-|:-|
-| *in the case of this: ...* = *if ...* |
-
-<!-- It should be possible to start a sentence with *la* instead of *ni la*. -->
-
 
 ## Substitutions/Expressions/Wordings
 
@@ -447,3 +407,25 @@ selo - form
 sama - function, role
 ona li pali lon sama pi jan sona
  -->
+
+<!-- ### mi, sina, ona
+
+After *tomo* (meaning *home*), a possessive pronoun is usually omitted.
+
+| | I went home. | |
+|-|-|-|
+| **pona ala**  | *mi tawa tomo mi.* | <sub><sup>TEPAN</sup></sub> |
+| **pona pona** | *mi tawa tomo.*    | <sub><sup>∞</sup></sub> | -->
+
+<!-- | | A map covered the desk. | |
+|-|-|-|
+| **pona pona** | *lipu ma li len pi supa sitelen.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *lipu ma li len e supa sitelen.*       | <sub><sup>KIPO?</sup></sub> | -->
+
+<!-- Menciindas aliloke: x pi ijo ni = x ni -->
+<!-- Tio inkluzivas: ijo pi ijo ni = ijo ni -->
+
+<!-- | taso ni la = taso: |
+|:-|
+| *independently from this* = *but* | -->
+
