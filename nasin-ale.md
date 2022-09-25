@@ -1,8 +1,8 @@
 # Frontier Toki Pona (<sub><sup>TEPAN</sup></sub>)
 
-*Frontier Toki Pona* explores omissions and [conversions](nimi-ale.md#content-word) of words that go beyond their definitions in the [dictionary](nimi-ale.md) and they way these words are used in [expressions](pu.md) in Pu. The ultimate goal is to find a nasin - a preferred way of omitting and converting words and expressing ideas - that is "pona enough" (*pona pona*), i.e. the sweet spot between "un-pona" (*pona ala*) and "too pona" (*pona ike*).
+*Frontier Toki Pona* explores omissions and [conversions](nimi-ale.md#content-word) of words that go beyond their definitions in the [dictionary](nimi-ale.md) and they way these words are used in [expressions](pu.md) in Pu. The ultimate goal is to outline a possible nasin that is "pona enough" (*pona pona*), i.e. a sweet spot between "un-pona" and "too pona" (*pona ala* and *pona ike*).`*`
 
-<!-- Subjective -->
+`*` <sub><sup>This is subject to personal preference.</sup></sub>
 
 ## li
 
@@ -10,16 +10,16 @@ The first *li* after a single *mi* or *sina* is omitted.
 
 | | I worked and played. | |
 |-|-|-|
-| **pona ala**  | *mi li pali, li musi.* | <sub><sup>X</sup></sub>  |
+| **pona ala**  | *mi li pali, li musi.* | <sub><sup>TEPAN</sup></sub>  |
 | **pona pona** | *mi pali, li musi.*    | <sub><sup>KU</sup></sub> |
 | **pona ike**  | *mi pali. mi musi.*    | <sub><sup>PU</sup></sub> |
 
-In my nasin, a <sub><sup>VERB</sup></sub> can be paraphrased as a <sub><sup>LOCATION NOUN</sup></sub>.
+In my nasin, a <sub><sup>VERB</sup></sub> after a secondary *li* (or *o*) can be paraphrased as a <sub><sup>LOCATION NOUN</sup></sub>.
 
-| | She listened to music. | |
+| | She worked and listened to music. | |
 |-|-|-|
-| **pona pona** | *ona li kute e kalama musi.*      | <sub><sup>∞</sup></sub>  |
-| **→**         | *ona li lon kute pi kalama musi.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *ona li pali, li kute e kalama musi.* | <sub><sup>∞</sup></sub>  |
+| **→**         | *ona li pali lon kute pi kalama musi.* | <sub><sup>TEPAN</sup></sub> |
 
 ## Location Nouns
 
@@ -27,20 +27,21 @@ In my nasin, there are some additional <sub><sup>LOCATION NOUN</sup></sub>s.
 
 | | There were trees standing around the school. | |
 |-|-|-|
-| **pona pona** | *kasi suli li lon nasin sike lon poka pi tomo sona.* | <sub><sup>X</sup></sub> |
-| **→**         | *kasi suli li lon sike pi tomo sona.*                | <sub><sup>X</sup></sub> |
+| **pona pona** | *kasi suli li lon nasin sike lon poka pi tomo sona.* | <sub><sup>TEPAN</sup></sub> |
+| **→**         | *kasi suli li lon sike pi tomo sona.*                | <sub><sup>TEPAN</sup></sub> |
 
 In my nasin, one cannot convert a <sub><sup>LOCATION NOUN</sup></sub> into a <sub><sup>VERB</sup></sub> ...
 
 | | You're circling the sun. | |
 |-|-|-|
-| **pona pona** | *sina tawa lon sike suno.* | <sub><sup>X</sup></sub> |
-| **pona ike**  | *sina sike e suno.*        | <sub><sup>KIPO/KU?</sup></sub> |
+| **pona ala**  | *sina tawa lon nasin sike lon poka suno.* | <sub><sup>TEPAN</sup></sub> |
+| **pona pona** | *sina tawa lon sike suno.*                | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *sina sike e suno.*                       | <sub><sup>KIPO/KU?</sup></sub> |
 
-| | I bought a car. | |
+| | I bought/sold a car. | |
 |-|-|-|
-| **pona pona** | *mi pana e mani lon esun pi tomo tawa.* | <sub><sup>X</sup></sub> |
-| **pona ike**  | *mi esun e tomo tawa.*                  | <sub><sup>KU</sup></sub> |
+| **pona pona** | *mi pana/kama jo e mani lon esun pi tomo tawa.* | <sub><sup>X</sup></sub> |
+| **pona ike**  | *mi esun e tomo tawa.*                          | <sub><sup>KU</sup></sub> |
 
 ... or into a <sub><sup>PREPOSITION</sup></sub>.
 
@@ -51,18 +52,19 @@ In my nasin, one cannot convert a <sub><sup>LOCATION NOUN</sup></sub> into a <su
 
 ### kepeken, sama
 
-In my nasin, one cannot convert a <sub><sup>LOCATION NOUN</sup></sub> into a <sub><sup>PREPOSITION</sup></sub>.
+In my nasin, *kepeken* and *sama* cannot be <sub><sup>PREPOSITION</sup></sub>s.
 
 | | I use good tools. | |
 |-|-|-|
 | **pona pona** | *mi kepeken e ilo pona.*      | <sub><sup>KU</sup></sub> |
-| **→**         | *mi lon kepeken pi ilo pona.* | <sub><sup>X</sup></sub> |
+| **→**         | *mi lon kepeken pi ilo pona.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *mi kepeken ilo pona.*        | <sub><sup>PU</sup></sub> |
 
-| | You speak like a computer. | |
+| | You are like a computer. | |
 |-|-|-|
-| **pona pona** | *sina toki lon sama pi ilo sona.* | <sub><sup>X</sup></sub> |
-| **pona ike**  | *sina toki sama ilo sona.*        | <sub><sup>PU</sup></sub> |
+| **pona pona** | *sina sama lon ilo sona.*    | <sub><sup>TEPAN</sup></sub> |
+| **→**         | *sina lon sama pi ilo sona.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *sina sama ilo sona.*        | <sub><sup>PU</sup></sub> |
 
 ## lon, tan, tawa
 
@@ -128,6 +130,25 @@ After *tomo* (meaning *home*), a possessive pronoun is usually omitted.
 | **pona ala**  | *tan ni: kon sewi li ike, la mi kama ala.* | <sub><sup>X</sup></sub> |
 | **pona pona** | *mi kama ala tan ni: kon sewi li ike.*     | <sub><sup>PU</sup></sub> |
 | **pona ike**  | *tenpo li ike, la mi kama ala.*            | <sub><sup>MA PONA</sup></sub> |
+
+## anu
+
+| | Were you able to come? | |
+|-|-|-|
+| **pona ala**  | *sina ken ala anu ken a kama?* | <sub><sup>TEPAN</sup></sub> |
+| **pona pona** | *sina ken ala ken kama?*       | <sub><sup>PU</sup></sub> |
+| **→**         | *sina ken kama anu seme?*      | <sub><sup>PU</sup></sub> |
+
+| | Yes./No. | |
+|-|-|-|
+| **pona ala**  | *ken a./ken ala.* | <sub><sup>TEPAN</sup></sub> |
+| **pona pona** | *ken./ala.*       | <sub><sup>PU</sup></sub> |
+
+| | You weren't able to come, where you? | |
+|-|-|-|
+| **pona ala**  | *seme anu sina ken ala kama?* | <sub><sup>TEPAN</sup></sub> |
+| **pona pona** | *sina ken ala kama anu seme?* | <sub><sup>PU</sup></sub> |
+
 
 -----
 
