@@ -14,16 +14,38 @@ The first *li* after a single *mi* or *sina* is omitted.
 | **pona pona** | *mi pali, li musi.*    | <sub><sup>KU</sup></sub> |
 | **pona ike**  | *mi pali. mi musi.*    | <sub><sup>PU</sup></sub> |
 
-In my nasin, a <sub><sup>VERB</sup></sub> can be paraphrased as a <sub><sup>PSEUDO LOCATION NOUN</sup></sub>.
+In my nasin, a <sub><sup>VERB</sup></sub> can be paraphrased as a <sub><sup>LOCATION NOUN</sup></sub>.
 
 | | She listened to music. | |
 |-|-|-|
 | **pona pona** | *ona li kute e kalama musi.*      | <sub><sup>∞</sup></sub>  |
 | **→**         | *ona li lon kute pi kalama musi.* | <sub><sup>X</sup></sub> |
 
-## kepeken, sama
+## Location Nouns
 
-In my nasin, one cannot convert a <sub><sup>PSEUDO LOCATION NOUN</sup></sub> into a <sub><sup>PREPOSITION</sup></sub>.
+In my nasin, there are some additional <sub><sup>LOCATION NOUN</sup></sub>s. 
+
+| | There were trees standing around the school. | |
+|-|-|-|
+| **pona pona** | *kasi suli li lon sike pi tomo sona.* | <sub><sup>X</sup></sub> |
+
+In my nasin, one cannot convert a <sub><sup>LOCATION NOUN</sup></sub> into a <sub><sup>VERB</sup></sub> ...
+
+| | You're circling the sun. | |
+|-|-|-|
+| **pona pona** | *sina tawa lon sike suno.* | <sub><sup>X</sup></sub> |
+| **pona ike**  | *sina sike e suno.*        | <sub><sup>KIPO/KU?</sup></sub> |
+
+... or into a <sub><sup>PREPOSITION</sup></sub>.
+
+| | I went with a friend. | |
+|-|-|-|
+| **pona pona** | *mi tawa lon poka pi jan pona.* | <sub><sup>PU</sup></sub> |
+| **pona ike**  | *mi tawa poka jan pona.*        | <sub><sup>EX PIJE, KIPO</sup></sub> |
+
+### kepeken, sama
+
+In my nasin, one cannot convert a <sub><sup>LOCATION NOUN</sup></sub> into a <sub><sup>PREPOSITION</sup></sub>.
 
 | | I use good tools. | |
 |-|-|-|
@@ -36,28 +58,20 @@ In my nasin, one cannot convert a <sub><sup>PSEUDO LOCATION NOUN</sup></sub> int
 | **pona pona** | *sina toki lon sama pi ilo sona.* | <sub><sup>X</sup></sub> |
 | **pona ike**  | *sina toki sama ilo sona.*        | <sub><sup>PU</sup></sub> |
 
-### Location Nouns
-
-In my nasin, one cannot convert a <sub><sup>LOCATION NOUN</sup></sub> into a <sub><sup>VERB</sup></sub>, but perhaps into a <sub><sup>PREPOSITION</sup></sub>.
-
-| | You're circling the sun. | |
-|-|-|-|
-| **pona pona** | *sina tawa lon sike suno.* | <sub><sup>X</sup></sub> |
-| **pona ike**  | *sina sike e suno.*        | <sub><sup>?</sup></sub> |
-
-| | I accompany a friend. | |
-|-|-|-|
-| **pona pona** | *mi lon poka pi jan pona.* | <sub><sup>PU</sup></sub> |
-| **→**         | *mi poka jan pona.*        | <sub><sup>?</sup></sub> |
-
 ## lon, tan, tawa
 
 When *lon*, *tan* or *tawa* is used both as a <sub><sup>PREDICATE</sup></sub> and as a <sub><sup>PREPOSITION</sup></sub> one after the other, the <sub><sup>PREPOSITION</sup></sub> is omitted.
 
-| | I was in a town. | |
+| | I was in the town. | |
 |-|-|-|
 | **pona ala**  | *mi lon lon ma tomo.* | <sub><sup>X</sup></sub> |
 | **pona pona** | *mi lon ma tomo.*     | <sub><sup>∞</sup></sub> |
+
+| | I didn't go to the town. | |
+|-|-|-|
+| **pona ala**  | *mi tawa ala tawa ma tomo.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *mi tawa ala ma tomo.*      | <sub><sup>PU</sup></sub> |
+| **pona ike**  | *mi tawa ma tomo ala.*      | <sub><sup>MA PONA</sup></sub> |
 
 | | I left the town. | |
 |-|-|-|
@@ -79,68 +93,47 @@ After *tomo* (meaning *home*), a possessive pronoun is usually omitted.
 | **pona ala**  | *mi tawa tomo mi.* | <sub><sup>X</sup></sub> |
 | **pona pona** | *mi tawa tomo.*    | <sub><sup>∞</sup></sub> |
 
-##
+## la
+
+| | yesterday | |
+|-|-|-|
+| **pona ala**  | *lon tenpo suno pini la ...* | <sub><sup>X</sup></sub> |
+| **pona pona** | *tenpo suno pini la ...*     | <sub><sup>∞</sup></sub> |
+
+| | from my perspective | |
+|-|-|-|
+| **pona pona** | *tawa mi la ...* | <sub><sup>PU</sup></sub> |
+| **pona ike**  | *mi la ...*      | <sub><sup>PIJE, KU</sup></sub> |
+
+### ni la
+
+| | When I am good to people, people are good to me. | |
+|-|-|-|
+| **pona pona**  | *jan li pona tawa mi lon ni: mi pona tawa jan.* | <sub><sup>X</sup></sub> |
+| **→**          | *mi pona tawa jan, la jan li pona tawa mi.*     | <sub><sup>∞</sup></sub> |
+
+| | When the sun is red, it is the right time. | |
+|-|-|-|
+| **pona ala**  | *lon ni: suno li loje, la tenpo pona li lon.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *suno li loje, la tenpo pona li lon.*         | <sub><sup>∞</sup></sub> |
+
+| | The weather was bad, so I didn't come. | |
+|-|-|-|
+| **pona ala**  | *tan ni: kon sewi li ike, la mi kama ala.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *kon sewi li ike. tan ni la mi kama ala.*  | <sub><sup>PU</sup></sub> |
+| **→**         | *mi kama ala tan ni: kon sewi li ike.*     | <sub><sup>PU</sup></sub> |
+| **pona ike**  | *tenpo li ike, la mi kama ala.*            | <sub><sup>MA PONA</sup></sub> |
 
 -----
 
-| | A map covered the desk. | |
+<!-- | | A map covered the desk. | |
 |-|-|-|
 | **pona pona** | *lipu ma li len pi supa sitelen.* | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *lipu ma li len e supa sitelen.*       | <sub><sup>KIPO?</sup></sub> |
-
-In my nasin, one cannot convert a <sub><sup>PSEUDO LOCATION NOUN</sup></sub> into a <sub><sup>VERB</sup></sub>.
-
-| | A car circled the school. | |
-|-|-|-|
-| **pona pona** | *tomo tawa li (tawa) lon sike pi tomo sona.* | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *tomo tawa li sike e tomo sona.*             | <sub><sup>KIPO</sup></sub> |
-
-| | You worked with a computer. | |
-|-|-|-|
-| **pona pona** | *sina (pali) lon kepeken pi ilo sona.* | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *sina kepeken e ilo sona.*             | <sub><sup>KU</sup></sub> |
-
-
-
------
-
-
-ni li kama: lipu ma li len e supa sitelen.
-
-pona ala: ona li kepeken e ilo. (PIJE, KU)
-pona pona: ona li lon kepeken pi ilo pona.
-pona mute: ona li kepeken ilo pona. (SONJA)
-
-pa: ona li tawa ala tawa ma tomo.
-pp: ona li tawa ala ma tomo. (SONJA)
-pm: ona li tawa ma tomo ala. (MA PONA)
-
-pa: ma kasi li sike e ma tomo. (KIPO)
-pp: ma kasi li lon sike pi ma tomo.
-pm: ma kasi li sike ma tomo. (KIPO?)
-
-pa: tomo li poka e kasi suli.
-pp: tomo li lon poka pi kasi suli. (SONJA)
-pm: tomo li poka kasi suli. (EX PIJE, KIPO)
-
-pa: ... tawa mi 
-pp: tawa mi la ... (SONJA)
-pp: mi la ... (KU)
-
-| | un-pona | pona |
-|-|-|-|
-| *I slept.*    | mi li lape.   | mi lape. |
-| *You worked.* | sina li pali. | sina pali. |
-
------
+| **pona ike**  | *lipu ma li len e supa sitelen.*       | <sub><sup>KIPO?</sup></sub> | -->
 
 ### Particles
 
 #### la
-
-| lon tenpo suno pini la = tenpo suno pini la |
-|:-|
-| *yesterday* |
 
 <!-- Menciindas aliloke: x pi ijo ni = x ni -->
 <!-- Tio inkluzivas: ijo pi ijo ni = ijo ni -->
@@ -175,23 +168,7 @@ pp: mi la ... (KU)
 
 #### kepeken and sama
 
-| sina pali lon kepeken pi ilo sona. = ~~sina pali kepeken ilo sona.~~ |
-|:-|
-| *You worked by means of a computer.* |
-
-| mi musi lon kepeken pi ilo sona. = mi musi tan jo pi ilo sona. |
-|:-|
-| *I played with a computer.* |
-
 <!-- Implied: "kama musi" → "tan" = courtesy of, thanks to -->
-
-| sina kepeken e ilo sona. = ~~sina kepeken ilo sona.~~ |
-|:-|
-| *You used a computer.* |
-
-| sina pali lon sama pi ilo sona. = ~~sina pali sama ilo sona.~~ |
-|:-|
-| *You worked like a computer.* |
 
 #### sewi vs. anpa and noka
 
