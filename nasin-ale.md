@@ -40,7 +40,7 @@ In my nasin, one cannot convert a <sub><sup>LOCATION NOUN</sup></sub> into a <su
 
 | | I bought/sold a car. | |
 |-|-|-|
-| **pona pona** | *mi pana/kama jo e mani lon esun pi tomo tawa.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *mi pana/kama jo e mani lon esun pi tomo tawa.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *mi esun e tomo tawa.*                          | <sub><sup>KU</sup></sub> |
 
 ... or into a <sub><sup>PREPOSITION</sup></sub>.
@@ -72,24 +72,24 @@ When *lon*, *tan* or *tawa* is used both as a <sub><sup>PREDICATE</sup></sub> an
 
 | | I was in the town. | |
 |-|-|-|
-| **pona ala**  | *mi lon lon ma tomo.* | <sub><sup>X</sup></sub> |
+| **pona ala**  | *mi lon lon ma tomo.* | <sub><sup>TEPAN</sup></sub> |
 | **pona pona** | *mi lon ma tomo.*     | <sub><sup>∞</sup></sub> |
 
 | | I didn't go to the town. | |
 |-|-|-|
-| **pona ala**  | *mi tawa ala tawa ma tomo.* | <sub><sup>X</sup></sub> |
+| **pona ala**  | *mi tawa ala tawa ma tomo.* | <sub><sup>TEPAN</sup></sub> |
 | **pona pona** | *mi tawa ala ma tomo.*      | <sub><sup>PU</sup></sub> |
 | **pona ike**  | *mi tawa ma tomo ala.*      | <sub><sup>MA PONA</sup></sub> |
 
 | | I left the town. | |
 |-|-|-|
-| **pona ala**  | *mi tan tan ma tomo.*  | <sub><sup>X</sup></sub> |
-| **pona pona** | *mi tan ma tomo.*      | <sub><sup>X</sup></sub> |
+| **pona ala**  | *mi tan tan ma tomo.*  | <sub><sup>TEPAN</sup></sub> |
+| **pona pona** | *mi tan ma tomo.*      | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *mi tawa tan ma tomo.* | <sub><sup>∞</sup></sub> |
 
 | | Good departure! | |
 |-|-|-|
-| **pona pona** | *tan pona!*  | <sub><sup>X</sup></sub> |
+| **pona pona** | *tan pona!*  | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *tawa pona!* | <sub><sup>∞</sup></sub> |
 
 ## mi, sina, ona
@@ -98,14 +98,14 @@ After *tomo* (meaning *home*), a possessive pronoun is usually omitted.
 
 | | I went home. | |
 |-|-|-|
-| **pona ala**  | *mi tawa tomo mi.* | <sub><sup>X</sup></sub> |
+| **pona ala**  | *mi tawa tomo mi.* | <sub><sup>TEPAN</sup></sub> |
 | **pona pona** | *mi tawa tomo.*    | <sub><sup>∞</sup></sub> |
 
 ## la
 
 | | yesterday | |
 |-|-|-|
-| **pona ala**  | *lon tenpo suno pini la ...* | <sub><sup>X</sup></sub> |
+| **pona ala**  | *lon tenpo suno pini la ...* | <sub><sup>TEPAN</sup></sub> |
 | **pona pona** | *tenpo suno pini la ...*     | <sub><sup>∞</sup></sub> |
 
 | | from my perspective | |
@@ -117,17 +117,17 @@ After *tomo* (meaning *home*), a possessive pronoun is usually omitted.
 
 | | When I am good to people, people are good to me. | |
 |-|-|-|
-| **pona pona**  | *jan li pona tawa mi lon ni: mi pona tawa jan.* | <sub><sup>X</sup></sub> |
+| **pona pona**  | *jan li pona tawa mi lon ni: mi pona tawa jan.* | <sub><sup>TEPAN</sup></sub> |
 | **→**          | *mi pona tawa jan, la jan li pona tawa mi.*     | <sub><sup>∞</sup></sub> |
 
 | | When the sun is red, it is the right time. | |
 |-|-|-|
-| **pona ala**  | *lon ni: suno li loje, la tenpo pona li lon.* | <sub><sup>X</sup></sub> |
+| **pona ala**  | *lon ni: suno li loje, la tenpo pona li lon.* | <sub><sup>TEPAN</sup></sub> |
 | **pona pona** | *suno li loje, la tenpo pona li lon.*         | <sub><sup>∞</sup></sub> |
 
 | | The weather was bad, so I didn't come. | |
 |-|-|-|
-| **pona ala**  | *tan ni: kon sewi li ike, la mi kama ala.* | <sub><sup>X</sup></sub> |
+| **pona ala**  | *tan ni: kon sewi li ike, la mi kama ala.* | <sub><sup>TEPAN</sup></sub> |
 | **pona pona** | *mi kama ala tan ni: kon sewi li ike.*     | <sub><sup>PU</sup></sub> |
 | **pona ike**  | *tenpo li ike, la mi kama ala.*            | <sub><sup>MA PONA</sup></sub> |
 
