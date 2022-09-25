@@ -27,7 +27,8 @@ In my nasin, there are some additional <sub><sup>LOCATION NOUN</sup></sub>s.
 
 | | There were trees standing around the school. | |
 |-|-|-|
-| **pona pona** | *kasi suli li lon sike pi tomo sona.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *kasi suli li lon nasin sike lon poka pi tomo sona.* | <sub><sup>X</sup></sub> |
+| **→**         | *kasi suli li lon sike pi tomo sona.*                | <sub><sup>X</sup></sub> |
 
 In my nasin, one cannot convert a <sub><sup>LOCATION NOUN</sup></sub> into a <sub><sup>VERB</sup></sub> ...
 
@@ -35,6 +36,11 @@ In my nasin, one cannot convert a <sub><sup>LOCATION NOUN</sup></sub> into a <su
 |-|-|-|
 | **pona pona** | *sina tawa lon sike suno.* | <sub><sup>X</sup></sub> |
 | **pona ike**  | *sina sike e suno.*        | <sub><sup>KIPO/KU?</sup></sub> |
+
+| | I bought a car. | |
+|-|-|-|
+| **pona pona** | *mi pana e mani lon esun pi tomo tawa.* | <sub><sup>X</sup></sub> |
+| **pona ike**  | *mi esun e tomo tawa.*                  | <sub><sup>KU</sup></sub> |
 
 ... or into a <sub><sup>PREPOSITION</sup></sub>.
 
@@ -120,8 +126,7 @@ After *tomo* (meaning *home*), a possessive pronoun is usually omitted.
 | | The weather was bad, so I didn't come. | |
 |-|-|-|
 | **pona ala**  | *tan ni: kon sewi li ike, la mi kama ala.* | <sub><sup>X</sup></sub> |
-| **pona pona** | *kon sewi li ike. tan ni la mi kama ala.*  | <sub><sup>PU</sup></sub> |
-| **→**         | *mi kama ala tan ni: kon sewi li ike.*     | <sub><sup>PU</sup></sub> |
+| **pona pona** | *mi kama ala tan ni: kon sewi li ike.*     | <sub><sup>PU</sup></sub> |
 | **pona ike**  | *tenpo li ike, la mi kama ala.*            | <sub><sup>MA PONA</sup></sub> |
 
 -----
