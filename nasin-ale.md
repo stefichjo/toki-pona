@@ -107,6 +107,13 @@ In my nasin, only *lon*, *tan*, and *tawa* are <sub><sup>PREPOSITION</sup></sub>
 | **→**         | *sina lon sama pi ilo sona.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *sina sama ilo sona.*        | <sub><sup>PU</sup></sub> |
 
+### ni
+
+| | out of here | |
+|-|-|-|
+| **pona ala**  | *tan insa pi ijo ni* | <sub><sup>X</sup></sub> |
+| **pona pona** | *tan insa ni*        | <sub><sup>TEPAN</sup></sub> |
+
 ### la
 
 | | yesterday | |
@@ -228,7 +235,7 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 | **→**         | *mi pini pali.* | <sub><sup>KU</sup></sub> |
 | **pona pona** | *mi pali ale.*  | <sub><sup>TEPAN</sup></sub> |
 
-### taso vs. noka
+### taso and weka vs. noka and poka
 
 | | I worked independently of a boss. | |
 |-|-|-|
@@ -240,12 +247,15 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 | **pona pona** | *mi pali lon noka pi jan lawa.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *mi pali lon anpa pi jan lawa.* | <sub><sup>X</sup></sub> |
 
-### poka vs. weka
-
 | | I played without a friend. | |
 |-|-|-|
 | **pona pona** | *mi musi lon weka pi jan pona.*     | <sub><sup>TEPAN</sup></sub> |
 | **→**         | *mi musi lon poka ala pi jan pona.* | <sub><sup>TEPAN</sup></sub> |
+
+| | But they worked and learned. | |
+|-|-|-|
+| **pona ala**  | *taso ni la ona li pali, li kama sona.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *taso ona li pali, li kama sona.*       | <sub><sup>PU</sup></sub> |
 
 ### pona vs. ike, (jaki,) nasa, pakala, and utala
 
