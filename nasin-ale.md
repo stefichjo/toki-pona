@@ -171,7 +171,7 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 
 | | at the end of the night | |
 |-|-|-|
-| **pona ala**  | *lon selo pi tenpo pimeja* | <sub><sup>TEPAN</sup></sub> |
+| **pona ala**  | *lon selo pi tenpo pimeja* | <sub><sup>X</sup></sub> |
 | **pona pona** | *lon pini pi tenpo pimeja* | <sub><sup>?</sup></sub> |
 
 | | before the night | |
@@ -185,7 +185,7 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 
 | | I closed the door. | |
 |-|-|-|
-| **pona ala**  | *mi selo e lupa tomo.*         | <sub><sup>TEPAN</sup></sub> |
+| **pona ala**  | *mi selo e lupa tomo.*         | <sub><sup>X</sup></sub> |
 | **pona pona** | *mi pini e lupa tomo.*         | <sub><sup>KU</sup></sub> |
 | **pona ike**  | *mi pini e open pi lupa tomo.* | <sub><sup>?</sup></sub> |
 
