@@ -12,7 +12,7 @@ The first *li* after a single *mi* or *sina* is omitted.
 
 | | I worked and played. | |
 |-|-|-|
-| **pona ala**  | *mi li pali, li musi.* | <sub><sup>TEPAN</sup></sub>  |
+| **pona ala**  | *mi li pali, li musi.* | <sub><sup>X</sup></sub>  |
 | **pona pona** | *mi pali, li musi.*    | <sub><sup>KU</sup></sub> |
 | **pona ike**  | *mi pali. mi musi.*    | <sub><sup>PU</sup></sub> |
 
@@ -29,18 +29,18 @@ When *lon*, *tan* or *tawa* is used both as a <sub><sup>PREDICATE</sup></sub> an
 
 | | I was in the town. | |
 |-|-|-|
-| **pona ala**  | *mi lon lon ma tomo.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ala**  | *mi lon lon ma tomo.* | <sub><sup>X</sup></sub> |
 | **pona pona** | *mi lon ma tomo.*     | <sub><sup>∞</sup></sub> |
 
 | | I didn't go to the town. | |
 |-|-|-|
-| **pona ala**  | *mi tawa ala tawa ma tomo.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ala**  | *mi tawa ala tawa ma tomo.* | <sub><sup>X</sup></sub> |
 | **pona pona** | *mi tawa ala ma tomo.*      | <sub><sup>PU</sup></sub> |
 | **pona ike**  | *mi tawa ma tomo ala.*      | <sub><sup>MA PONA</sup></sub> |
 
 | | I left the town. | |
 |-|-|-|
-| **pona ala**  | *mi tan tan ma tomo.*  | <sub><sup>TEPAN</sup></sub> |
+| **pona ala**  | *mi tan tan ma tomo.*  | <sub><sup>X</sup></sub> |
 | **pona pona** | *mi tan ma tomo.*      | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *mi tawa tan ma tomo.* | <sub><sup>∞</sup></sub> |
 
@@ -62,8 +62,8 @@ In my nasin, one cannot convert a <sub><sup>LOCATION NOUN</sup></sub> into a <su
 
 | | You're circling the sun. | |
 |-|-|-|
-| **pona ala**  | *sina tawa lon nasin sike lon poka suno.* | <sub><sup>TEPAN</sup></sub> |
-| **pona pona** | *sina tawa lon sike suno.*                | <sub><sup>TEPAN</sup></sub> |
+| **pona pona** | *sina tawa lon nasin sike lon poka suno.* | <sub><sup>TEPAN</sup></sub> |
+| **→**         | *sina tawa lon sike suno.*                | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *sina sike e suno.*                       | <sub><sup>KIPO/KU?</sup></sub> |
 
 | | I bought/sold a car. | |
@@ -98,7 +98,7 @@ In my nasin, *kepeken* and *sama* cannot be <sub><sup>PREPOSITION</sup></sub>s.
 
 | | yesterday | |
 |-|-|-|
-| **pona ala**  | *lon tenpo suno pini la ...* | <sub><sup>TEPAN</sup></sub> |
+| **pona ala**  | *lon tenpo suno pini la ...* | <sub><sup>X</sup></sub> |
 | **pona pona** | *tenpo suno pini la ...*     | <sub><sup>∞</sup></sub> |
 
 | | from my perspective | |
@@ -110,31 +110,32 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 
 | | When the sun was red, it was the right time. | |
 |-|-|-|
-| **pona ala**  | *lon ni: suno li loje, la tenpo pona li lon.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ala**  | *lon ni: suno li loje, la tenpo pona li lon.* | <sub><sup>X</sup></sub> |
 | **pona pona** | *suno li loje, la tenpo pona li lon.*         | <sub><sup>∞</sup></sub> |
 
 | | The weather was bad, so I didn't come. | |
 |-|-|-|
-| **pona ala**  | *tan ni: kon sewi li ike, la mi kama ala.* | <sub><sup>TEPAN</sup></sub> |
-| **pona pona** | *mi kama ala tan ni: kon sewi li ike.*     | <sub><sup>PU</sup></sub> |
+| **pona ala**  | *tan ni: kon sewi li ike, la mi kama ala.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *tan ni la mi kama ala: kon sewi li ike.*  | <sub><sup>TEPAN</sup></sub> |
+| **→**         | *mi kama ala tan ni: kon sewi li ike.*     | <sub><sup>PU</sup></sub> |
 | **pona ike**  | *tenpo li ike, la mi kama ala.*            | <sub><sup>MA PONA</sup></sub> |
 
 ### anu
 
 | | Were you able to come? | |
 |-|-|-|
-| **pona ala**  | *sina ken ala anu ken a kama?* | <sub><sup>TEPAN</sup></sub> |
+| **pona ala**  | *sina ken ala anu ken a kama?* | <sub><sup>X</sup></sub> |
 | **pona pona** | *sina ken ala ken kama?*       | <sub><sup>PU</sup></sub> |
 | **→**         | *sina ken kama anu seme?*      | <sub><sup>PU</sup></sub> |
 
 | | Yes./No. | |
 |-|-|-|
-| **pona ala**  | *ken a./ken ala.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ala**  | *ken a./ken ala.* | <sub><sup>X</sup></sub> |
 | **pona pona** | *ken./ala.*       | <sub><sup>PU</sup></sub> |
 
 <!-- | | You weren't able to come, where you? | |
 |-|-|-|
-| **pona ala**  | *seme anu sina ken ala kama?* | <sub><sup>TEPAN</sup></sub> |
+| **pona ala**  | *seme anu sina ken ala kama?* | <sub><sup>X</sup></sub> |
 | **pona pona** | *sina ken ala kama anu seme?* | <sub><sup>PU</sup></sub> | -->
 
 ## Antonyms
@@ -147,7 +148,7 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 
 | | There is a watch at the top of the tower. | |
 |-|-|-|
-| **pona ala**  | *ilo tenpo li lon lawa pi tomo palisa.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ala**  | *ilo tenpo li lon lawa pi tomo palisa.* | <sub><sup>X</sup></sub> |
 | **pona pona** | *ilo tenpo li lon sewi pi tomo palisa.* | <sub><sup>∞</sup></sub> |
 
 | | There is a fish at the bottom of the ocean. | |
@@ -188,8 +189,14 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 | **pona pona** | *mi pini e lupa tomo.*         | <sub><sup>KU</sup></sub> |
 | **pona ike**  | *mi pini e open pi lupa tomo.* | <sub><sup>?</sup></sub> |
 
+<!-- 
+kama manage to
+open = ken ready to
+selo = ale completely
+pini = awen ala stop ing, cease to
+ -->
 
-
+ <!-- kama anpa -> anpa (PU) -->
 
 <!-- to stop = awen e? -->
 
