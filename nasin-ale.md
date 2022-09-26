@@ -162,21 +162,36 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 
 -----
 
-### kama and open vs. pini and selo
+### pini and selo vs. kama and open
 
-| | There is a light above the table. | |
+| | after the night | |
 |-|-|-|
-| **pona pona** | *suno li lon sewi supa.* | <sub><sup>∞</sup></sub> |
+| **pona pona** | *lon pini pi tenpo pimeja* | <sub><sup>?</sup></sub> |
 
-| mi pini e open pi lupa tomo. = mi pini e lupa tomo. |
-|:-|
-| *I ended the aperture of the door.* = *I closed the door.* |
+| | at the end of the night | |
+|-|-|-|
+| **pona ala**  | *lon selo pi tenpo pimeja* | <sub><sup>TEPAN</sup></sub> |
+| **pona pona** | *lon pini pi tenpo pimeja* | <sub><sup>?</sup></sub> |
 
-| mi pini e tawa pi tomo tawa. = mi pini e tomo tawa. |
-|:-|
-| *I ended the movement of the car.* = *I stopped the car.* |
+| | before the night | |
+|-|-|-|
+| **pona pona** | *lon kama pi tenpo pimeja* | <sub><sup>TEPAN</sup></sub> |
+<!-- | **pona ike**  | *lon open pi tenpo pimeja* | <sub><sup>?</sup></sub> | -->
 
-<!-- pini e pali -->
+| | in the beginning of the night | |
+|-|-|-|
+| **pona pona** | *lon open pi tenpo pimeja* | <sub><sup>∞</sup></sub> |
+
+| | I closed the door. | |
+|-|-|-|
+| **pona ala**  | *mi selo e lupa tomo.*         | <sub><sup>TEPAN</sup></sub> |
+| **pona pona** | *mi pini e lupa tomo.*         | <sub><sup>KU</sup></sub> |
+| **pona ike**  | *mi pini e open pi lupa tomo.* | <sub><sup>?</sup></sub> |
+
+
+
+
+<!-- to stop = awen e? -->
 
 | mi kama e ni: mi pali. = mi kama pali. |
 |:-|
