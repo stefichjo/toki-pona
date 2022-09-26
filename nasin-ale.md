@@ -228,31 +228,24 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 | **→**         | *mi pini pali.* | <sub><sup>KU</sup></sub> |
 | **pona pona** | *mi pali ale.*  | <sub><sup>TEPAN</sup></sub> |
 
------
+### taso vs. noka
 
-#### taso vs. anpa
+| | I worked independently of a boss. | |
+|-|-|-|
+| **pona ala**  | *mi pali lon taso pi jan lawa.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *mi pali lon weka pi jan lawa.* | <sub><sup>TEPAN</sup></sub> |
 
-| mi pali lon taso pi jan lawa. |
-|:-|
-| *I worked in independence of a boss.* |
+| | I worked under a boss. | |
+|-|-|-|
+| **pona pona** | *mi pali lon noka pi jan lawa.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *mi pali lon anpa pi jan lawa.* | <sub><sup>X</sup></sub> |
 
-| mi pali lon anpa pi jan lawa. |
-|:-|
-| *I worked in dependence of a boss.* |
+### poka vs. weka
 
-#### poka vs. weka
-
-| ona li tawa poka pi tomo sona. |
-|:-|
-| *She went next to the library.* |
-
-<!-- tan weka pi -->
-
-| ona li tawa weka pi tomo sona. |
-|:-|
-| *She went away from the library.* |
-
-<!-- tan poka pi -->
+| | I played without a friend. | |
+|-|-|-|
+| **pona pona** | *mi musi lon weka pi jan pona.*     | <sub><sup>TEPAN</sup></sub> |
+| **→**         | *mi musi lon poka ala pi jan pona.* | <sub><sup>TEPAN</sup></sub> |
 
 ### pona vs. ike, (jaki,) nasa, pakala, and utala
 
