@@ -6,6 +6,19 @@
 
 ## Omissions
 
+### e
+
+| | The woman knew. | |
+|-|-|-|
+| **pona pona** | *meli li sona e ijo.* | <sub><sup>PU</sup></sub> |
+| **→**         | *meli li sona.*       | <sub><sup>PU</sup></sub> |
+| **→**         | *meli li jo e sona.*  | <sub><sup>TEPAN</sup></sub> |
+
+| | The man was cooking. | |
+|-|-|-|
+| **pona pona** | *mije li seli e ijo.*  | <sub><sup>PU</sup></sub> |
+| **→**         | *mije li pana e seli.* | <sub><sup>TEPAN</sup></sub> |
+
 ### li
 
 The first *li* after a single *mi* or *sina* is omitted.
@@ -20,7 +33,7 @@ In my nasin, a <sub><sup>VERB</sup></sub> after a secondary *li* (or *o*) can be
 
 | | She worked and listened to music. | |
 |-|-|-|
-| **pona pona** | *ona li pali, li kute e kalama musi.* | <sub><sup>∞</sup></sub>  |
+| **pona pona** | *ona li pali, li kute e kalama musi.*  | <sub><sup>∞</sup></sub>  |
 | **→**         | *ona li pali lon kute pi kalama musi.* | <sub><sup>TEPAN</sup></sub> |
 
 ### lon, tan, tawa
@@ -80,7 +93,7 @@ In my nasin, one cannot convert a <sub><sup>LOCATION NOUN</sup></sub> into a <su
 
 #### kepeken, sama
 
-In my nasin, *kepeken* and *sama* cannot be <sub><sup>PREPOSITION</sup></sub>s.
+In my nasin, only *lon*, *tan*, and *tawa* are <sub><sup>PREPOSITION</sup></sub>s.
 
 | | I use good tools. | |
 |-|-|-|
@@ -161,9 +174,9 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 | **pona pona** | *kiwen li lon anpa tomo.* | <sub><sup>∞</sup></sub> |
 | **pona ike**  | *kiwen li lon noka tomo.* | <sub><sup>PU</sup></sub> |
 
------
-
 ### pini and selo vs. kama and open
+
+<sub><sup>LOCATION NOUN</sup></sub>
 
 | | after the night | |
 |-|-|-|
@@ -183,49 +196,39 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 |-|-|-|
 | **pona pona** | *lon open pi tenpo pimeja* | <sub><sup>∞</sup></sub> |
 
+<sub><sup>VERB</sup></sub>
+
 | | I closed the door. | |
 |-|-|-|
 | **pona ala**  | *mi selo e lupa tomo.*         | <sub><sup>X</sup></sub> |
 | **pona pona** | *mi pini e lupa tomo.*         | <sub><sup>KU</sup></sub> |
-| **pona ike**  | *mi pini e open pi lupa tomo.* | <sub><sup>?</sup></sub> |
+| **pona ike**  | *mi pini e open pi lupa tomo.* | <sub><sup>X</sup></sub> |
 
-<!-- 
-kama manage to
-open = ken ready to
-selo = ale completely
-pini = awen ala stop ing, cease to
- -->
+| | I stopped the car. | |
+|-|-|-|
+| **pona pona** | *mi awen e tomo tawa.*         | <sub><sup>X</sup></sub> |
+| **pona ike**  | *mi pini e tawa pi tomo tawa.* | <sub><sup>X</sup></sub> |
+| **→**         | *mi pini e tomo tawa.*         | <sub><sup>KU</sup></sub> |
 
- <!-- kama anpa -> anpa (PU) -->
+<sub><sup>PRE-VERB</sup></sub>
 
-<!-- to stop = awen e? -->
+| | I started working. | |
+|-|-|-|
+| **pona ala**  | *mi open pali.* | <sub><sup>KU</sup></sub> |
+| **pona pona** | *mi kama pali.* | <sub><sup>PU</sup></sub> |
 
-| mi kama e ni: mi pali. = mi kama pali. |
-|:-|
-| *I let me emerge working.* = *I manage to work.* |
+| | I stopped working. | |
+|-|-|-|
+| **pona ala**  | *mi pini pali.*     | <sub><sup>KU</sup></sub> |
+| **pona pona** | *mi awen ala pali.* | <sub><sup>TEPAN</sup></sub> |
 
-| ni li kama: mi lape. = mi kama lape. |
-|:-|
-| *This came: I slept.* = *I fell asleep.* |
-
-<!-- kama = kama lon? -->
-
-| mi open e ni: mi pali. = mi open pali. |
-|:-|
-| *I start me working.* = *I start working.* |
-<!-- ready? ken? -->
-
-| mi pini e ni: mi pali. = mi pini pali. |
-|:-|
-| *I stopped me working.* = *I stopped working.* |
-<!-- pini vs. kama and open -->
-
+| | I finished working. | |
+|-|-|-|
+| **pona ala**  | *mi selo pali.* | <sub><sup>X</sup></sub> |
+| **→**         | *mi pini pali.* | <sub><sup>KU</sup></sub> |
+| **pona pona** | *mi pali ale.*  | <sub><sup>TEPAN</sup></sub> |
 
 -----
-
-
-<!-- Implied: "kama musi" → "tan" = courtesy of, thanks to -->
-
 
 #### taso vs. anpa
 
