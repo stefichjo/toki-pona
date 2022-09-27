@@ -203,12 +203,12 @@ In my nasin, the relative subject or the relative object of a relative clause ca
 | | I can see the man that I know. | |
 |-|-|-|
 | **pona pona**  | *mi ken lukin e mije ni: mi sona e ona.* | <sub><sup>X</sup></sub> |
-| **→**          | *mi ken lukin e mije ni: mi sona.*       | <sub><sup>X</sup></sub> |
+| **pona ike**   | *mi ken lukin e mije ni: mi sona.*       | <sub><sup>X</sup></sub> |
 
 | | I can see the man that knows me. | |
 |-|-|-|
 | **pona pona**  | *mi ken lukin e mije ni: ona li sona e mi.* | <sub><sup>X</sup></sub> |
-| **→**          | *mi ken lukin e mije ni: sona e mi.*        | <sub><sup>X</sup></sub> |
+| **pona ike**   | *mi ken lukin e mije ni: sona e mi.*        | <sub><sup>X</sup></sub> |
 
 ### ijo, ilo, jan
 
