@@ -163,7 +163,14 @@ In my nasin, *ni* can also mean *such*, in which case it doesn't undergo *ijo* d
 | **pona pona** | *seme pi ijo ni* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *seme ni*        | <sub><sup>X</sup></sub> | -->
 
-### tenpo and sike
+### Pro-Adjectives
+
+In my nasin, many <sub><sup>NOUN</sup></sub>s are interpreted as <sub><sup>PRO-ADJECTIVE</sup></sub>s, i.e. they undergo *ijo* dropping, *jan* dropping or *ilo* dropping.
+
+| | hard | |
+|-|-|-|
+| **pona pona** | *kiwen*      | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *sama kiwen* | <sub><sup>PU</sup></sub> |
 
 In my nasin, there is neither *tenpo* dropping nor *sike* dropping.
 
@@ -220,6 +227,8 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 |-|-|-|
 | **pona ala**  | *seme anu sina ken ala kama?* | <sub><sup>X</sup></sub> |
 | **pona pona** | *sina ken ala kama anu seme?* | <sub><sup>PU</sup></sub> | -->
+
+### Pre-Verbs
 
 ## Antonyms
 

@@ -322,6 +322,10 @@ A subordinating *comma* between a <sub><sup>SUBORDINATE CLAUSE</sup></sub> and *
 |:-|
 | *Water strengthens me.* |
 
+| mama mije li pu mute. |
+|:-|
+| *Fathers use the Toki Pona book a lot.* |
+
 ### Lesson 7
 *(Questions and Answers)*
 
