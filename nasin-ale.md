@@ -273,11 +273,6 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 | **pona ala**  | *ken a./ken ala.* | <sub><sup>X</sup></sub> |
 | **pona pona** | *ken./ala.*       | <sub><sup>PU</sup></sub> |
 
-<!-- | | You weren't able to come, where you? | |
-|-|-|-|
-| **pona ala**  | *seme anu sina ken ala kama?* | <sub><sup>X</sup></sub> |
-| **pona pona** | *sina ken ala kama anu seme?* | <sub><sup>PU</sup></sub> | -->
-
 ### Pre-Verbs
 
 ## Antonyms
