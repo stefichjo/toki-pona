@@ -116,6 +116,14 @@ In my nasin, only *lon*, *tan*, and *tawa* are <sub><sup>PREPOSITION</sup></sub>
 | **→**         | *sina lon sama pi ilo sona.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *sina sama ilo sona.*        | <sub><sup>PU</sup></sub> |
 
+In my nasin, <sub><sup>MIDDLE VOICE</sup></sub> must be expressed explicitly.
+
+| | A map covered the desk. | |
+|-|-|-|
+| **pona pona** | *jan li len e supa sitelen lon kepeken pi lipu ma.* | <sub><sup>TEPAN</sup></sub> |
+| **→**         | *lipu ma li (kama) len pi supa sitelen.*            | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *lipu ma li (kama) len e supa sitelen.*             | <sub><sup>X</sup></sub> |
+
 ### ala, ale, ijo, ni, seme
 
 In my nasin, <sub><sup>ADJECTIVE</sup></sub>s that have been converted to <sub><sup>NOUN</sup></sub>s meaning *things* don't undergo *ijo* dropping after *pi*.
