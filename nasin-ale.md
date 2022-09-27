@@ -33,7 +33,7 @@ In my nasin, a <sub><sup>VERB</sup></sub> after a secondary *li* (or *o*) can be
 
 | | She worked and listened to music. | |
 |-|-|-|
-| **pona pona** | *ona li pali, li kute e kalama musi.*  | <sub><sup>∞</sup></sub>  |
+| **pona pona** | *ona li pali, li kute e kalama musi.*  | <sub><sup>PU</sup></sub>  |
 | **→**         | *ona li pali lon kute pi kalama musi.* | <sub><sup>TEPAN</sup></sub> |
 
 ### lon, tan, tawa
@@ -43,7 +43,7 @@ When *lon*, *tan* or *tawa* is used both as a <sub><sup>PREDICATE</sup></sub> an
 | | I was in the town. | |
 |-|-|-|
 | **pona ala**  | *mi lon lon ma tomo.* | <sub><sup>X</sup></sub> |
-| **pona pona** | *mi lon ma tomo.*     | <sub><sup>∞</sup></sub> |
+| **pona pona** | *mi lon ma tomo.*     | <sub><sup>PU</sup></sub> |
 
 | | I didn't go to the town. | |
 |-|-|-|
@@ -55,12 +55,12 @@ When *lon*, *tan* or *tawa* is used both as a <sub><sup>PREDICATE</sup></sub> an
 |-|-|-|
 | **pona ala**  | *mi tan tan ma tomo.*  | <sub><sup>X</sup></sub> |
 | **pona pona** | *mi tan ma tomo.*      | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *mi tawa tan ma tomo.* | <sub><sup>∞</sup></sub> |
+| **pona ike**  | *mi tawa tan ma tomo.* | <sub><sup>PU</sup></sub> |
 
 | | Good departure! | |
 |-|-|-|
 | **pona pona** | *tan pona!*  | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *tawa pona!* | <sub><sup>∞</sup></sub> |
+| **pona ike**  | *tawa pona!* | <sub><sup>PU</sup></sub> |
 
 #### Location Nouns
 
@@ -159,7 +159,7 @@ In my nasin, *ni* can also mean *such*, in which case it doesn't undergo *ijo* d
 | | yesterday | |
 |-|-|-|
 | **pona ala**  | *lon tenpo suno pini la ...* | <sub><sup>X</sup></sub> |
-| **pona pona** | *tenpo suno pini la ...*     | <sub><sup>∞</sup></sub> |
+| **pona pona** | *tenpo suno pini la ...*     | <sub><sup>PU</sup></sub> |
 
 | | from my perspective | |
 |-|-|-|
@@ -171,14 +171,14 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 | | When the sun was red, it was the right time. | |
 |-|-|-|
 | **pona ala**  | *lon ni: suno li loje, la tenpo pona li lon.* | <sub><sup>X</sup></sub> |
-| **pona pona** | *suno li loje, la tenpo pona li lon.*         | <sub><sup>∞</sup></sub> |
+| **pona pona** | *suno li loje, la tenpo pona li lon.*         | <sub><sup>PU</sup></sub> |
 
-| | The weather was bad, so I didn't come. | |
+| | It was raining, so I didn't come. | |
 |-|-|-|
-| **pona ala**  | *tan ni: kon sewi li ike, la mi kama ala.* | <sub><sup>X</sup></sub> |
-| **pona pona** | *tan ni la mi kama ala: kon sewi li ike.*  | <sub><sup>TEPAN</sup></sub> |
-| **→**         | *mi kama ala tan ni: kon sewi li ike.*     | <sub><sup>PU</sup></sub> |
-| **pona ike**  | *tenpo li ike, la mi kama ala.*            | <sub><sup>MA PONA</sup></sub> |
+| **pona ala**  | *tan ni: telo li kama tan sewi, la mi kama ala.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *tan ni la mi kama ala: telo li kama tan sewi.*  | <sub><sup>TEPAN</sup></sub> |
+| **→**         | *mi kama ala tan ni: telo li kama tan sewi.*     | <sub><sup>PU</sup></sub> |
+| **pona ike**  | *telo li kama tan sewi, la mi kama ala.*         | <sub><sup>MA PONA</sup></sub> |
 
 ### anu
 
@@ -204,7 +204,7 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 
 | | There is a light above the table. | |
 |-|-|-|
-| **pona pona** | *suno li lon sewi supa.* | <sub><sup>∞</sup></sub> |
+| **pona pona** | *suno li lon sewi supa.* | <sub><sup>PU</sup></sub> |
 
 | | There is a clock at the top of the tower. | |
 |-|-|-|
@@ -240,7 +240,7 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 
 | | in the beginning of the night | |
 |-|-|-|
-| **pona pona** | *lon open pi tenpo pimeja* | <sub><sup>∞</sup></sub> |
+| **pona pona** | *lon open pi tenpo pimeja* | <sub><sup>KU</sup></sub> |
 
 <sub><sup>VERB</sup></sub>
 
@@ -371,6 +371,10 @@ In my dialect, <sub><sup>PRE-VERB</sup></sub>s are not omitted.
 | **mi lukin e jan ni: mi sona e ona.** → **mi lukin e jan ni: mi sona.** |
 | **mi lukin e jan ni: ona li sona e mi.** → **mi lukin e jan ni: sona e mi.** |
 
+<!-- 
+tenpo dropping
+tenpo sike ijo mun - mun - sike mun
+ -->
 
 <!-- mi sona ala e jan pi seme ni: ona li kama. -->
 
@@ -381,7 +385,7 @@ After *tomo* (meaning *home*), a possessive pronoun is usually omitted.
 | | I went home. | |
 |-|-|-|
 | **pona ala**  | *mi tawa tomo mi.* | <sub><sup>TEPAN</sup></sub> |
-| **pona pona** | *mi tawa tomo.*    | <sub><sup>∞</sup></sub> | -->
+| **pona pona** | *mi tawa tomo.*    | <sub><sup>PU</sup></sub> | -->
 
 <!-- | | A map covered the desk. | |
 |-|-|-|
@@ -390,8 +394,3 @@ After *tomo* (meaning *home*), a possessive pronoun is usually omitted.
 
 <!-- Menciindas aliloke: x pi ijo ni = x ni -->
 <!-- Tio inkluzivas: ijo pi ijo ni = ijo ni -->
-
-<!-- | taso ni la = taso: |
-|:-|
-| *independently from this* = *but* | -->
-
