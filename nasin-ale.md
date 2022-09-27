@@ -109,12 +109,12 @@ In my nasin, only *lon*, *tan*, and *tawa* are <sub><sup>PREPOSITION</sup></sub>
 
 ### ala, ale, ijo, ni, seme
 
-<sub><sup>CORRELATIVE</sup></sub>s undergo *ijo* dropping.
+In my nasin, <sub><sup>ADJECTIVE</sup></sub>s that have been converted to <sub><sup>NOUN</sup></sub>s meaning *things* don't undergo *ijo* dropping after *pi*.
 
-| | everything | |
+| | the happening of good things | |
 |-|-|-|
-| **pona pona** | *ijo ale* | <sub><sup>X</sup></sub> |
-| **pona pona** | *ale*     | <sub><sup>PU</sup></sub> |
+| **pona pona** | *kama pi ijo pona* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *kama pona*        | <sub><sup>X</sup></sub> |
 
 In my nasin, *ala* is not a <sub><sup>CORRELATIVE</sup></sub>, i.e. it doesn't undergo *ijo* dropping.
 
@@ -123,19 +123,19 @@ In my nasin, *ala* is not a <sub><sup>CORRELATIVE</sup></sub>, i.e. it doesn't u
 | **pona pona** | *ijo ala* | <sub><sup>PU</sup></sub> |
 | **pona ike**  | *ala*     | <sub><sup>KU</sup></sub> |
 
-After *pi*, *ijo* dropping of <sub><sup>CORRELATIVE</sup></sub>s is surpressed.
+After *pi*, *ijo* dropping of <sub><sup>CORRELATIVE</sup></sub>s don't undergo *ijo* dropping after *pi*.
 
 | | of everything | |
 |-|-|-|
 | **pona pona** | *pi ijo ale* | <sub><sup>PU</sup></sub> |
 
-In my nasin, <sub><sup>CORRELATIVE</sup></sub>s can also refer to *places*...
+<sub><sup>CORRELATIVE</sup></sub>s can also refer to *places*.
 
 | | where | |
 |-|-|-|
 | **pona pona** | *lon seme* | <sub><sup>PU</sup></sub> |
 
-...and *of that place* and *that* are merged, so that when *ijo* means *place*, it is dropped after *pi*.
+In my nasin, *of that place* and *that* are merged, so that when *ijo* means *place*, it is dropped after *pi*.
 
 | | behind that | |
 |-|-|-|
@@ -314,6 +314,15 @@ In my nasin, *sama* is an antonym of *ante*.
 | **→**         | *mi lon ante pi ilo sona.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *mi ante ilo sona.*        | <sub><sup>X</sup></sub> |
 
+<sub><sup>VERB</sup></sub>
+
+| | I replaced the wheel. | |
+|-|-|-|
+| **pona ala**  | *mi esun e sike pi ilo tawa.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *mi ante e sike pi ilo tawa.* | <sub><sup>TEPAN</sup></sub> |
+
+<sub><sup>ADJECTIVE</sup></sub>
+
 *sama* can mean *of the same group*, *of the same family*.
 
 | | sibling | |
@@ -321,7 +330,7 @@ In my nasin, *sama* is an antonym of *ante*.
 | **pona ala**  | *jan pi kulupu mama sama*    | <sub><sup>X</sup></sub> |
 | **pona pona** | *jan sama*                   | <sub><sup>PU</sup></sub> |
 
-| | They saw each other. | |
+| | They saw each other. | | <!-- ona kulupu ? -->
 |-|-|-|
 | **pona ala**  | *ona li lukin e ona lon kulupu.*    | <sub><sup>X</sup></sub> |
 | **pona pona** | *ona li lukin e ona lon sama.*      | <sub><sup>TEPAN</sup></sub> |
@@ -342,24 +351,12 @@ In my nasin, *ante* cannot undergo *jan* dropping.
 | **pona pona** | *o toki ala tawa jan ante.*           | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *o toki ala tawa ante.*               | <sub><sup>KIPO</sup></sub> |
 
-<sub><sup>VERB</sup></sub>
-
-| | I replaced the wheel. | |
-|-|-|-|
-| **pona ala**  | *mi esun e sike pi ilo tawa.* | <sub><sup>X</sup></sub> |
-| **pona pona** | *mi ante e sike pi ilo tawa.* | <sub><sup>TEPAN</sup></sub> |
-
-<sub><sup>ADJECTIVE</sup></sub>
-
 | | vice president | |
 |-|-|-|
 | **pona ala**  | *jan lawa ante*    | <sub><sup>X</sup></sub> |
-| **pona pona** | *jan lawa sin*     | <sub><sup>TEPAN</sup></sub> |
+| **pona pona** | *jan lawa sin*     | <sub><sup>KU</sup></sub> |
 
 -----
-
-<!-- ijo ike li kama = ike li kama -->
-<!-- kama pi ijo ike -->
 
 In my dialect, <sub><sup>PRE-VERB</sup></sub>s are not omitted.
 
