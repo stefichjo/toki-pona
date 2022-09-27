@@ -184,6 +184,32 @@ In my nasin, *ni* can also mean *such*, in which case it doesn't undergo *ijo* d
 | **pona pona** | *ijo ni* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *ni*     | <sub><sup>X</sup></sub> |
 
+#### Relative Clauses
+
+| | I see something that you don't see. | |
+|-|-|-|
+| **pona ala**  | *mi lukin e ijo. sina lukin ala e ijo ni.*         | <sub><sup>X</sup></sub> |
+| **pona pona** | *mi lukin e ijo ni: sina lukin ala e ona.*         | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *mi lukin e ijo pi seme ni: sina lukin ala e ona.* | <sub><sup>X</sup></sub> |
+
+| | Tell me what you see. | |
+|-|-|-|
+| **pona ala**  | *sina lukin e seme? o toki e ni tawa mi.*    | <sub><sup>X</sup></sub> |
+| **pona pona** | *o toki e ijo ni tawa mi: sina lukin e ona.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *o toki e ni tawa mi: sina lukin e seme?*    | <sub><sup>X</sup></sub> |
+
+In my nasin, the relative subject or the relative object of a relative clause can be omitted. Cf. omitting [e ijo](#e) and [yes/no answers](#anu).
+
+| | I can see the man that I know. | |
+|-|-|-|
+| **pona pona**  | *mi ken lukin e mije ni: mi sona e ona.* | <sub><sup>X</sup></sub> |
+| **→**          | *mi ken lukin e mije ni: mi sona.*       | <sub><sup>X</sup></sub> |
+
+| | I can see the man that knows me. | |
+|-|-|-|
+| **pona pona**  | *mi ken lukin e mije ni: ona li sona e mi.* | <sub><sup>X</sup></sub> |
+| **→**          | *mi ken lukin e mije ni: sona e mi.*        | <sub><sup>X</sup></sub> |
+
 ### ijo, ilo, jan
 
 In my nasin, many <sub><sup>NOUN</sup></sub>s are interpreted as <sub><sup>PRO-ADJECTIVE</sup></sub>s, i.e. they undergo *ijo* dropping, *ilo* dropping or *jan* dropping. (In my nasin, dropped *ilo* means *organ*.)
@@ -435,29 +461,3 @@ In my nasin, *kulupu* means *reciprocal*, *shared*.
 |-|-|-|
 | **pona ala**  | *ona li toki kulupu tawa ona sama.* | <sub><sup>X</sup></sub> |
 | **pona pona** | *ona li toki tawa ona sama.*        | <sub><sup>PU</sup></sub> |
-
-### Relative Clause
-
-| | I see something that you don't see. | |
-|-|-|-|
-| **pona ala**  | *mi lukin e ijo. sina lukin ala e ijo ni.*         | <sub><sup>X</sup></sub> |
-| **pona pona** | *mi lukin e ijo ni: sina lukin ala e ona.*         | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *mi lukin e ijo pi seme ni: sina lukin ala e ona.* | <sub><sup>X</sup></sub> |
-
-| | Tell me what you see. | |
-|-|-|-|
-| **pona ala**  | *sina lukin e seme? o toki e ni tawa mi.*    | <sub><sup>X</sup></sub> |
-| **pona pona** | *o toki e ijo ni tawa mi: sina lukin e ona.* | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *o toki e ni tawa mi: sina lukin e seme?*    | <sub><sup>X</sup></sub> |
-
-In my nasin, the relative subject or the relative object of a relative clause can be omitted. Cf. omitting [e ijo](#e) and [yes/no answers](#anu).
-
-| | I can see the man that I know. | |
-|-|-|-|
-| **pona pona**  | *mi ken lukin e mije ni: mi sona e ona.* | <sub><sup>X</sup></sub> |
-| **→**          | *mi ken lukin e mije ni: mi sona.*       | <sub><sup>X</sup></sub> |
-
-| | I can see the man that knows me. | |
-|-|-|-|
-| **pona pona**  | *mi ken lukin e mije ni: ona li sona e mi.* | <sub><sup>X</sup></sub> |
-| **→**          | *mi ken lukin e mije ni: sona e mi.*        | <sub><sup>X</sup></sub> |
