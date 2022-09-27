@@ -296,56 +296,76 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 | **pona ala**  | *taso ni la ona li pali, li kama sona.* | <sub><sup>X</sup></sub> |
 | **pona pona** | *taso ona li pali, li kama sona.*       | <sub><sup>PU</sup></sub> |
 
-### pona vs. ike, jaki, nasa, pakala, and utala
-
-### lili vs. mute, suli, and wawa
-
-### jaki vs. suwi
-
-### akesi vs. soweli
-
-<!-- akesi = malicious → dangerous? -->
-
-### a vs. ala (and mu)
-
 ### sama vs. ante and esun
 
-<!-- sin? -->
+<sub><sup>LOCATION NOUN</sup></sub>
+
+In my nasin, *sama* can also mean *function*, *role*.
+
+| | He worked as a teacher. | |
+|-|-|-|
+| **pona pona** | *ona li pali lon sama pi jan sona.* | <sub><sup>TEPAN</sup></sub> |
+
+In my nasin, *sama* is an antonym of *ante*.
+
+| | I am different from a computer. | |
+|-|-|-|
+| **pona pona** | *mi ante lon ilo sona.*    | <sub><sup>TEPAN</sup></sub> |
+| **→**         | *mi lon ante pi ilo sona.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *mi ante ilo sona.*        | <sub><sup>X</sup></sub> |
+
+*sama* can mean *of the same group*, *of the same family*.
+
+| | sibling | |
+|-|-|-|
+| **pona ala**  | *jan pi kulupu mama sama*    | <sub><sup>X</sup></sub> |
+| **pona pona** | *jan sama*                   | <sub><sup>PU</sup></sub> |
+
+| | They saw each other. | |
+|-|-|-|
+| **pona ala**  | *ona li lukin e ona lon kulupu.*    | <sub><sup>X</sup></sub> |
+| **pona pona** | *ona li lukin e ona lon sama.*      | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *ona li lukin e ona sama.*          | <sub><sup>PU</sup></sub> |
+
+In my nasin, *sama* cannot undergo *mi*/*sina*/*ona* dropping.
+
+| | He washed himself. | |
+|-|-|-|
+| **pona pona** | *ona li telo e ona sama.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *ona li telo e sama.*     | <sub><sup>KIPO</sup></sub> |
+
+In my nasin, *ante* cannot undergo *jan* dropping.
+
+| | Don't talk to strangers. | |
+|-|-|-|
+| **pona ala**  | *o toki ala tawa jan pi kulupu ante.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *o toki ala tawa jan ante.*           | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *o toki ala tawa ante.*               | <sub><sup>KIPO</sup></sub> |
+
+<sub><sup>VERB</sup></sub>
+
+| | I replaced the wheel. | |
+|-|-|-|
+| **pona ala**  | *mi esun e sike pi ilo tawa.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *mi ante e sike pi ilo tawa.* | <sub><sup>TEPAN</sup></sub> |
+
+<sub><sup>ADJECTIVE</sup></sub>
+
+| | vice president | |
+|-|-|-|
+| **pona ala**  | *jan lawa ante*    | <sub><sup>X</sup></sub> |
+| **pona pona** | *jan lawa sin*     | <sub><sup>TEPAN</sup></sub> |
+
+-----
 
 <!-- ijo ike li kama = ike li kama -->
 <!-- kama pi ijo ike -->
-
-## Grammar
-
-### [PRE-VERB](nimi-ale.md#pre-verb)
 
 In my dialect, <sub><sup>PRE-VERB</sup></sub>s are not omitted.
 
 | mi wile kama sona tawa lon telo. |
 |:-|
 | *I need to learn how to swim.* |
-
-In my dialect, the <sub><sup>NOUN</sup></sub> **tan** means *departure* and can be approximated by **kama tawa**. In [official Toki Pona](pu.md), **tawa** is used for *departure*.
-
-| | <sub><sup>SONJA</sup></sub> | <sub><sup>TEPAN</sup></sub> |
-|:-|:-|:-|
-| *Good departure!* | **tawa pona.** | **kama tawa pona.** → **tan pona.** |
-
-### Metaphors and Similes
-
-Metaphors are translated as similes.
-
-| | |
-|-|-|
-| *Her smile is sunshine.* → *Her smile is like sunshine.* | **sinpin lawa ona pi pilin pona li sama suno.** |
-
-### pi
-
-Avoiding multiple `pi`.
-
-| | |
-|-|-|
-| *away from the beach* | **weka pi poka pi telo suli la** → **weka pi poka telo la** |
 
 ### Relative Clause
 
@@ -356,12 +376,6 @@ Avoiding multiple `pi`.
 
 
 <!-- mi sona ala e jan pi seme ni: ona li kama. -->
-
-<!-- 
-selo - form
-sama - function, role
-ona li pali lon sama pi jan sona
- -->
 
 <!-- ### mi, sina, ona
 

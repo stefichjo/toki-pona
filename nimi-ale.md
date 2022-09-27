@@ -518,3 +518,18 @@ Before **la**, the [<sub><sup>CORRELATIVE</sup></sub>](#correlative) **ni:** in 
 | <sub><sup>INTERJECTION</sup></sub> a! | o kepeken ala ilo ike. | mi sona ala toki. |
 |:-|:-|:-|
 | <sub><sup>INTERJECTION</sup></sub> *Wow!* | *Don't use bad tools.* | *I don't know how to talk.* |
+
+<!-- 
+### pona vs. ike, jaki, nasa, pakala, and utala
+
+### lili vs. mute, suli, and wawa
+
+### jaki vs. suwi
+
+### akesi vs. soweli
+
+akesi = malicious → dangerous?
+
+### a vs. ala (and mu)
+
+-->
