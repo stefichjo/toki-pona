@@ -215,13 +215,20 @@ In my nasin, there is neither *tenpo* dropping nor *sike* dropping.
 
 | | day | |
 |-|-|-|
-| **pona pona** | *tenpo suno* | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *suno*       | <sub><sup>X</sup></sub> |
+| **pona pona** | *tenpo suno* | <sub><sup>PU</sup></sub> |
+| **pona ike**  | *suno*       | <sub><sup>KU</sup></sub> |
 
 | | month | |
 |-|-|-|
 | **pona pona** | *sike mun* | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *mun*      | <sub><sup>X</sup></sub> |
+| **pona ike**  | *mun*      | <sub><sup>KU</sup></sub> |
+
+In my nasin, there is no *nasin* dropping.
+
+| | law | |
+|-|-|-|
+| **pona pona** | *nasin lawa* | <sub><sup>PU</sup></sub> |
+| **pona ike**  | *lawa*       | <sub><sup>KU</sup></sub> |
 
 ### la
 
@@ -394,19 +401,6 @@ In my nasin, *sama* is an antonym of *ante*.
 
 <sub><sup>ADJECTIVE</sup></sub>
 
-*sama* can mean *of the same group*, *of the same family*.
-
-| | sibling | |
-|-|-|-|
-| **pona ala**  | *jan pi kulupu mama sama*    | <sub><sup>X</sup></sub> |
-| **pona pona** | *jan sama*                   | <sub><sup>PU</sup></sub> |
-
-| | They saw each other. | | <!-- ona kulupu ? -->
-|-|-|-|
-| **pona ala**  | *ona li lukin e ona lon kulupu.*    | <sub><sup>X</sup></sub> |
-| **pona pona** | *ona li lukin e ona lon sama.*      | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *ona li lukin e ona sama.*          | <sub><sup>PU</sup></sub> |
-
 In my nasin, *sama* cannot undergo *mi*/*sina*/*ona* dropping.
 
 | | He washed himself. | |
@@ -426,6 +420,22 @@ In my nasin, *ante* cannot undergo *jan* dropping.
 |-|-|-|
 | **pona ala**  | *jan lawa ante*    | <sub><sup>X</sup></sub> |
 | **pona pona** | *jan lawa sin*     | <sub><sup>KU</sup></sub> |
+
+#### kulupu
+
+*sama* can mean *of the same group*, *of the same family*.
+
+| | peer | |
+|-|-|-|
+| **pona ala**  | *jan pi kulupu sama* | <sub><sup>X</sup></sub> |
+| **pona pona** | *jan sama*           | <sub><sup>PU</sup></sub> |
+
+In my nasin, *kulupu* means *reciprocal*, *shared*.
+
+| | They talk to each other. | |
+|-|-|-|
+| **pona ala**  | *ona li toki kulupu tawa ona sama.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *ona li toki tawa ona sama.*        | <sub><sup>PU</sup></sub> |
 
 -----
 
