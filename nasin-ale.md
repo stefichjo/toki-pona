@@ -25,7 +25,7 @@ The first *li* after a single *mi* or *sina* is omitted.
 
 | | I worked and played. | |
 |-|-|-|
-| **pona ala**  | *mi li pali, li musi.* | <sub><sup>X</sup></sub>  |
+| **pona ala**  | *mi li pali, li musi.* | <sub><sup>X</sup></sub> |
 | **pona pona** | *mi pali, li musi.*    | <sub><sup>KU</sup></sub> |
 | **pona ike**  | *mi pali. mi musi.*    | <sub><sup>PU</sup></sub> |
 
@@ -33,8 +33,17 @@ In my nasin, a <sub><sup>VERB</sup></sub> after a secondary *li* (or *o*) can be
 
 | | She worked and listened to music. | |
 |-|-|-|
-| **pona pona** | *ona li pali, li kute e kalama musi.*  | <sub><sup>PU</sup></sub>  |
+| **pona pona** | *ona li pali, li kute e kalama musi.*  | <sub><sup>PU</sup></sub> |
 | **→**         | *ona li pali lon kute pi kalama musi.* | <sub><sup>TEPAN</sup></sub> |
+
+### mi, sina, ona
+
+Given enough context, <sub><sup>PRONOUN</sup></sub>s can be omitted.
+
+| | I went home. | |
+|-|-|-|
+| **pona pona** | *mi tawa tomo mi.* | <sub><sup>X</sup></sub> |
+| **→**         | *mi tawa tomo.*    | <sub><sup>PU</sup></sub> |
 
 ### lon, tan, tawa
 
@@ -153,6 +162,20 @@ In my nasin, *ni* can also mean *such*, in which case it doesn't undergo *ijo* d
 |-|-|-|
 | **pona pona** | *seme pi ijo ni* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *seme ni*        | <sub><sup>X</sup></sub> | -->
+
+### tenpo and sike
+
+In my nasin, there is neither *tenpo* dropping nor *sike* dropping.
+
+| | day | |
+|-|-|-|
+| **pona pona** | *tenpo suno* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *suno*       | <sub><sup>X</sup></sub> |
+
+| | month | |
+|-|-|-|
+| **pona pona** | *sike mun* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *mun*      | <sub><sup>X</sup></sub> |
 
 ### la
 
@@ -371,26 +394,9 @@ In my dialect, <sub><sup>PRE-VERB</sup></sub>s are not omitted.
 | **mi lukin e jan ni: mi sona e ona.** → **mi lukin e jan ni: mi sona.** |
 | **mi lukin e jan ni: ona li sona e mi.** → **mi lukin e jan ni: sona e mi.** |
 
-<!-- 
-tenpo dropping
-tenpo sike ijo mun - mun - sike mun
- -->
-
 <!-- mi sona ala e jan pi seme ni: ona li kama. -->
-
-<!-- ### mi, sina, ona
-
-After *tomo* (meaning *home*), a possessive pronoun is usually omitted.
-
-| | I went home. | |
-|-|-|-|
-| **pona ala**  | *mi tawa tomo mi.* | <sub><sup>TEPAN</sup></sub> |
-| **pona pona** | *mi tawa tomo.*    | <sub><sup>PU</sup></sub> | -->
 
 <!-- | | A map covered the desk. | |
 |-|-|-|
 | **pona pona** | *lipu ma li len pi supa sitelen.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *lipu ma li len e supa sitelen.*       | <sub><sup>KIPO?</sup></sub> | -->
-
-<!-- Menciindas aliloke: x pi ijo ni = x ni -->
-<!-- Tio inkluzivas: ijo pi ijo ni = ijo ni -->
