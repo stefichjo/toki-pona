@@ -443,9 +443,26 @@ In my nasin, *kulupu* means *reciprocal*, *shared*.
 
 ### Relative Clause
 
+| | I see something that you don't see. | |
+|-|-|-|
+| **pona ala**  | *mi lukin e ijo. sina lukin ala e ijo ni.*         | <sub><sup>X</sup></sub> |
+| **pona pona** | *mi lukin e ijo ni: sina lukin ala e ona.*         | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *mi lukin e ijo pi seme ni: sina lukin ala e ona.* | <sub><sup>X</sup></sub> |
+
+| | Tell me what you see. | |
+|-|-|-|
+| **pona ala**  | *sina lukin e seme? o toki e ni tawa mi.*    | <sub><sup>X</sup></sub> |
+| **pona pona** | *o toki e ijo ni tawa mi: sina lukin e ona.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *o toki e ni tawa mi: sina lukin e seme?*    | <sub><sup>X</sup></sub> |
+
+<!-- subject dropping -->
+<!-- object dropping -->
+
+
+
+<!-- 
 | |
 |-|
 | **mi lukin e jan ni: mi sona e ona.** → **mi lukin e jan ni: mi sona.** |
 | **mi lukin e jan ni: ona li sona e mi.** → **mi lukin e jan ni: sona e mi.** |
-
-<!-- mi sona ala e jan pi seme ni: ona li kama. -->
+ -->
