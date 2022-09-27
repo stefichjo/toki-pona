@@ -455,7 +455,7 @@ In my nasin, *kulupu* means *reciprocal*, *shared*.
 | **pona pona** | *o toki e ijo ni tawa mi: sina lukin e ona.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *o toki e ni tawa mi: sina lukin e seme?*    | <sub><sup>X</sup></sub> |
 
-In my nasin, the relative subject or the relative object of a relative clause can be omitted.
+In my nasin, the relative subject or the relative object of a relative clause can be omitted. Cf. omitting [e ijo](#e) and [yes/no answers](#anu).
 
 | | I can see the man that I know. | |
 |-|-|-|
@@ -466,5 +466,3 @@ In my nasin, the relative subject or the relative object of a relative clause ca
 |-|-|-|
 | **pona pona**  | *mi ken lukin e mije ni: ona li sona e mi.* | <sub><sup>X</sup></sub> |
 | **→**          | *mi ken lukin e mije ni: sona e mi.*        | <sub><sup>X</sup></sub> |
-
-<!-- Cf. yes/no, e ijo. -->
