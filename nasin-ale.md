@@ -163,14 +163,36 @@ In my nasin, *ni* can also mean *such*, in which case it doesn't undergo *ijo* d
 | **pona pona** | *seme pi ijo ni* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *seme ni*        | <sub><sup>X</sup></sub> | -->
 
-### Pro-Adjectives
+### ijo, ilo, jan
 
-In my nasin, many <sub><sup>NOUN</sup></sub>s are interpreted as <sub><sup>PRO-ADJECTIVE</sup></sub>s, i.e. they undergo *ijo* dropping, *jan* dropping or *ilo* dropping.
+In my nasin, many <sub><sup>NOUN</sup></sub>s are interpreted as <sub><sup>PRO-ADJECTIVE</sup></sub>s, i.e. they undergo *ijo* dropping, *ilo* dropping or *jan* dropping. (In my nasin, dropped *ilo* means *organ*.)
+
+| | hard object | |
+|-|-|-|
+| **pona ala**  | *ijo kiwen*  | <sub><sup>X</sup></sub> |
+| **pona pona** | *kiwen*      | <sub><sup>PU</sup></sub> |
 
 | | hard | |
 |-|-|-|
 | **pona pona** | *kiwen*      | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *sama kiwen* | <sub><sup>PU</sup></sub> |
+
+| | hand | |
+|-|-|-|
+| **pona ala**  | *ilo luka* | <sub><sup>X</sup></sub> |
+| **pona pona** | *luka*     | <sub><sup>PU</sup></sub> |
+
+| | to touch | |
+|-|-|-|
+| **pona pona** | *luka*  | <sub><sup>KU</sup></sub> |
+
+| | originator | |
+|-|-|-|
+| **pona ala**  | *jan mama* | <sub><sup>X</sup></sub> |
+| **pona pona** | *mama*     | <sub><sup>PU</sup></sub> |
+
+| | to give origin, of origin | |
+|-|-|-|
+| **pona pona** | *mama*      | <sub><sup>TEPAN</sup></sub> |
 
 In my nasin, there is neither *tenpo* dropping nor *sike* dropping.
 
