@@ -8,7 +8,7 @@
 
 ### e
 
-*e ijo* can be dropped, when there is enough context.
+*e ijo* can be dropped when there is enough context.
 
 | | The woman knew. | |
 |-|-|-|
@@ -80,6 +80,13 @@ When *lon*, *tan* or *tawa* is used both as a <sub><sup>PREDICATE</sup></sub> an
 | **pona pona** | *tan pona!*  | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *tawa pona!* | <sub><sup>PU</sup></sub> |
 
+In my nasin, it is not possible to convert a <sub><sup>PREPOSITION</sup></sub> into a <sub><sup>NOUN</sup></sub> with the meaning of the <sub><sup>PREPOSITION</sup></sub>'s <sub><sup>SUBJECT</sup></sub>.
+
+| | origin | |
+|-|-|-|
+| **pona pona** | *mama*  | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *tan*   | <sub><sup>KU</sup></sub> |
+
 #### Location Nouns
 
 In my nasin, there are some additional <sub><sup>LOCATION NOUN</sup></sub>s. 
@@ -107,7 +114,21 @@ In my nasin, one cannot convert a <sub><sup>LOCATION NOUN</sup></sub> into a <su
 | | I went with a friend. | |
 |-|-|-|
 | **pona pona** | *mi tawa lon poka pi jan pona.* | <sub><sup>PU</sup></sub> |
-| **pona ike**  | *mi tawa poka jan pona.*        | <sub><sup>EX PIJE, KIPO</sup></sub> |
+| **pona ike**  | *mi tawa poka jan pona.*        | <sub><sup>KIPO</sup></sub> |
+
+In my nasin, it is not possible to convert a <sub><sup>PREPOSITIONAL PHRASE</sup></sub> into a <sub><sup>VERB</sup></sub>.
+
+| | Where did you put the clock next to? | |
+|-|-|-|
+| **pona pona** | *sina pana e ilo tenpo lon poka seme?* | <sub><sup>PU</sup></sub> |
+| **pona ike**  | *sina lon poka seme e ilo tenpo?*      | <sub><sup>KIPO</sup></sub> |
+
+In my nasin, a <sub><sup>LOCATION NOUN</sup></sub> cannot be converted into an <sub><sup>ADJECTIVE</sup></sub> with the meaning of a direction towards somewhere.
+
+| | Don't look up! | |
+|-|-|-|
+| **pona pona** | *o lukin ala e sewi!* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *o lukin sewi ala!*   | <sub><sup>PIJE</sup></sub> |
 
 #### kepeken, sama
 
@@ -121,11 +142,10 @@ In my nasin, only *lon*, *tan*, and *tawa* are <sub><sup>PREPOSITION</sup></sub>
 
 | | You are like a computer. | |
 |-|-|-|
-| **pona pona** | *sina sama lon ilo sona.*    | <sub><sup>TEPAN</sup></sub> |
-| **→**         | *sina lon sama pi ilo sona.* | <sub><sup>TEPAN</sup></sub> |
+| **pona pona** | *sina lon sama pi ilo sona.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *sina sama ilo sona.*        | <sub><sup>PU</sup></sub> |
 
-In my nasin, <sub><sup>MIDDLE VOICE</sup></sub> must be expressed explicitly.
+In my nasin, <sub><sup>MIDDLE VOICE</sup></sub> and <sub><sup>PASSIVE</sup></sub> must be expressed differently in an idiomatic way.
 
 | | A map covered the desk. | |
 |-|-|-|
@@ -133,14 +153,34 @@ In my nasin, <sub><sup>MIDDLE VOICE</sup></sub> must be expressed explicitly.
 | **→**         | *lipu ma li (kama) len pi supa sitelen.*            | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *lipu ma li (kama) len e supa sitelen.*             | <sub><sup>X</sup></sub> |
 
+| | He looks like a bug. | |
+|-|-|-|
+| **pona pona** | *ona li lon sama pipi tawa lukin.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *ona li sama pipi tawa lukin.*     | <sub><sup>PU</sup></sub> |
+| **→**         | *ona li lukin sama pipi.*          | <sub><sup>PIJE</sup></sub> |
+
 In my nasin, <sub><sup>METAPHOR</sup></sub>s must be expressed as <sub><sup>SIMILE</sup></sub>s.
 
 | | That's music to my ears. | |
 |-|-|-|
-| **pona pona** | *ni li sama lon kalama musi tawa kute mi.*    | <sub><sup>TEPAN</sup></sub> |
-| **→**         | *ni li lon sama pi kalama musi tawa kute mi.* | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *ni li sama kalama musi tawa kute mi.*        | <sub><sup>PU</sup></sub> |
-| **→**         | *ni li kalama musi tawa kute mi.*             | <sub><sup>PU</sup></sub> |
+| **pona pona** | *ni li lon sama pi kalama musi tawa kute mi.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *ni li kalama musi tawa kute mi.*             | <sub><sup>PU</sup></sub> |
+
+### pi
+
+In my nasin, *pi* can't be used without a <sub><sup>HEAD NOUN</sup></sub>.
+
+| | This book is ours. | |
+|-|-|-|
+| **pona pona** | *lipu ni li ijo mi.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *lipu ni li pi mi.*  | <sub><sup>PIJE</sup></sub> |
+
+In my nasin, *pi* can't be used with a <sub><sup>PREPOSITIONAL PHRASE</sup></sub> as its argument.
+
+| | someone going home | |
+|-|-|-|
+| **pona pona** | *jan ni: ona li tawa tomo* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *jan pi tawa tomo*         | <sub><sup>KIPO</sup></sub> |
 
 ### ala, ale, ijo, ni, seme
 
