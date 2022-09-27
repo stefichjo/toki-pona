@@ -124,6 +124,15 @@ In my nasin, <sub><sup>MIDDLE VOICE</sup></sub> must be expressed explicitly.
 | **→**         | *lipu ma li (kama) len pi supa sitelen.*            | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *lipu ma li (kama) len e supa sitelen.*             | <sub><sup>X</sup></sub> |
 
+In my nasin, <sub><sup>METAPHOR</sup></sub>s must be expressed as <sub><sup>SIMILE</sup></sub>s.
+
+| | That's music to my ears. | |
+|-|-|-|
+| **pona pona** | *ni li sama lon kalama musi tawa kute mi.*    | <sub><sup>TEPAN</sup></sub> |
+| **→**         | *ni li lon sama pi kalama musi tawa kute mi.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *ni li sama kalama musi tawa kute mi.*        | <sub><sup>PU</sup></sub> |
+| **→**         | *ni li kalama musi tawa kute mi.*             | <sub><sup>PU</sup></sub> |
+
 ### ala, ale, ijo, ni, seme
 
 In my nasin, <sub><sup>ADJECTIVE</sup></sub>s that have been converted to <sub><sup>NOUN</sup></sub>s meaning *things* don't undergo *ijo* dropping after *pi*.
