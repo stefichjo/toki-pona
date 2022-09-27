@@ -1,4 +1,4 @@
-# Frontier Toki Pona (<sub><sup>TEPAN</sup></sub>)
+# The Frontier (<sub><sup>TEPAN</sup></sub>)
 
 *Frontier Toki Pona* explores omissions and [conversions](nimi-ale.md#content-word) of words that go beyond their definitions in the [dictionary](nimi-ale.md) and they way these words are used in [expressions](pu.md) in Pu. The ultimate goal is to outline a possible nasin that is "pona enough" (*pona pona*), i.e. a sweet spot between "un-pona" and "too pona" (*pona ala* and *pona ike*).`*`
 
