@@ -8,6 +8,8 @@
 
 ### e
 
+*e ijo* can be dropped, when there is enough context.
+
 | | The woman knew. | |
 |-|-|-|
 | **pona pona** | *meli li sona e ijo.* | <sub><sup>PU</sup></sub> |
@@ -18,6 +20,13 @@
 |-|-|-|
 | **pona pona** | *mije li seli e ijo.*  | <sub><sup>PU</sup></sub> |
 | **→**         | *mije li pana e seli.* | <sub><sup>TEPAN</sup></sub> |
+
+In my nasin, *e ijo* can't be dropped in context.
+
+| | Tell me about your work. | |
+|-|-|-|
+| **pona pona** | *o toki e ijo pi pali sina.*  | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *o toki pi pali sina.*        | <sub><sup>PIJE</sup></sub> |
 
 ### li
 
@@ -174,11 +183,6 @@ In my nasin, *ni* can also mean *such*, in which case it doesn't undergo *ijo* d
 |-|-|-|
 | **pona pona** | *ijo ni* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *ni*     | <sub><sup>X</sup></sub> |
-
-<!-- | | what about that | |
-|-|-|-|
-| **pona pona** | *seme pi ijo ni* | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *seme ni*        | <sub><sup>X</sup></sub> | -->
 
 ### ijo, ilo, jan
 
@@ -437,14 +441,6 @@ In my nasin, *kulupu* means *reciprocal*, *shared*.
 | **pona ala**  | *ona li toki kulupu tawa ona sama.* | <sub><sup>X</sup></sub> |
 | **pona pona** | *ona li toki tawa ona sama.*        | <sub><sup>PU</sup></sub> |
 
------
-
-In my dialect, <sub><sup>PRE-VERB</sup></sub>s are not omitted.
-
-| mi wile kama sona tawa lon telo. |
-|:-|
-| *I need to learn how to swim.* |
-
 ### Relative Clause
 
 | |
@@ -453,8 +449,3 @@ In my dialect, <sub><sup>PRE-VERB</sup></sub>s are not omitted.
 | **mi lukin e jan ni: ona li sona e mi.** → **mi lukin e jan ni: sona e mi.** |
 
 <!-- mi sona ala e jan pi seme ni: ona li kama. -->
-
-<!-- | | A map covered the desk. | |
-|-|-|-|
-| **pona pona** | *lipu ma li len pi supa sitelen.* | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *lipu ma li len e supa sitelen.*       | <sub><sup>KIPO?</sup></sub> | -->
