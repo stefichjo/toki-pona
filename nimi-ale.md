@@ -272,8 +272,6 @@ You can use any <sub><sup>CORRELATIVE</sup></sub> as a <sub><sup>PREDICATE</sup>
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *two* <br><sub><sup>NOUN</sup></sub> *two things* = *pair* |
 
-<!-- divided things -->
-
 ##### THING / AREA
 <sub><sup>NIMI NOKA IJO</sup></sub>
 
@@ -309,7 +307,7 @@ You can use any <sub><sup>CORRELATIVE</sup></sub> as a <sub><sup>PREDICATE</sup>
 ### PREPOSITION
 <sub><sup>LUKA POKA SULI</sup></sub>
 
-A <sub><sup>SENTENCE</sup></sub> can end with a <sub><sup>CONTEXT</sup></sub> that consists of one or many <sub><sup>PREPOSITIONAL PHRASE</sup></sub>s that constitute the so-called <sub><sup>CONTEXT</sup></sub>.
+A <sub><sup>SENTENCE</sup></sub> can end with a <sub><sup>CONTEXT</sup></sub> that consists of one or many <sub><sup>PREPOSITIONAL PHRASE</sup></sub>s that constitute the so-called <sub><sup>CONTEXT</sup></sub>.[*](nasin-ale.md#lon-tan-tawa)
 
 | mi pana e kala | tawa ona. | | mi pana e kala tawa ona. |
 |:-|:-|:-|:-|
@@ -320,18 +318,6 @@ The <sub><sup>CONTEXT</sup></sub> can describe the whole <sub><sup>SENTENCE</sup
 | mi lukin e meli pimeja. | lon sinpin tomo | | mi lukin e meli pimeja lon sinpin tomo. |
 |:-|:-|:-|:-|
 | *I see a black lady.* | *in front of the building* | | *I see a black lady in front of the building.* |
-
-When a <sub><sup>PREPOSITION</sup></sub> is used as an <sub><sup>ADJECTIVE</sup></sub> for the <sub><sup>PREDICATE</sup></sub> as well as a <sub><sup>PREPOSITION</sup></sub> for the <sub><sup>CONTEXT</sup></sub>, the <sub><sup>PREPOSITION</sup></sub> is omitted.
-
-| mi tawa ~~tawa~~ sina.    | | mi tawa ala ~~tawa~~ sina.    |
-|:-|:-|:-|
-| *I am going towards you.* | | *I am not going towards you.* |
-
-The <sub><sup>VERB</sup></sub> **pana** is used instead of converting the <sub><sup>PREPOSITION</sup></sub>s **lon**, **tan** and **tawa** into verbs, especially in order to avoid repeating **lon**, **tan** and **tawa** as a <sub><sup>PREPOSITION</sup></sub>.
-
-| mi pana e ilo toki lon poka ona. | | mi pana e telo tan selo. | | mi pana e lipu toki tawa sina. |
-|:-|:-|:-|:-|:-|
-| *I put the clock next to it.* | | *I'm sweating.* | | *I'm sending you a letter.* |
 
 You can convert any <sub><sup>PREPOSITION</sup></sub> into an <sub><sup>ADJECTIVE</sup></sub> meaning *being ...* omitting its argument.
 

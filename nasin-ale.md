@@ -128,6 +128,7 @@ In my nasin, it is not possible to convert a <sub><sup>PREPOSITIONAL PHRASE</sup
 
 | | Where did you put the clock next to? | |
 |-|-|-|
+| **pona ala**  | *sina lon e ilo tenpo lon poka seme?*  | <sub><sup>X</sup></sub> |
 | **pona pona** | *sina pana e ilo tenpo lon poka seme?* | <sub><sup>PU</sup></sub> |
 | **pona ike**  | *sina lon poka seme e ilo tenpo?*      | <sub><sup>KIPO</sup></sub> |
 
