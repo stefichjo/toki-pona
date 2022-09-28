@@ -355,14 +355,14 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 
 ### nanpa
 
-In my nasin, <sub><sup>NUMBER</sup></sub>s behave like <sub><sup>NAME</sup></sub>s. (<sub><sup>NUMBER</sup></sub>s are written in lowercase, though.) Therefore, *nanpa* behaves like *nimi*.
+In my nasin, <sub><sup>NUMBER</sup></sub>s behave like <sub><sup>NAME</sup></sub>s. (<sub><sup>NUMBER</sup></sub>s are written in lowercase, though.)
 
 | | bus number three | |
 |-|-|-|
 | **pona pona** | *tomo tawa kulupu pi nanpa tu wan* | <sub><sup>PIJE</sup></sub> |
 | **pona ike**  | *tomo tawa kulupu nanpa tu wan*    | <sub><sup>PU</sup></sub> |
 
-In my nasin, *nanpa* behaves like a <sub><sup>NAME</sup></sub> itself. (*nanpa* as a <sub><sup>NAME</sup></sub> is written in lowercase, though.)
+In my nasin, *nanpa* can behave like a <sub><sup>NAME</sup></sub> itself. (*nanpa* as a <sub><sup>NAME</sup></sub> is written in lowercase, though.)
 
 | | the third bus | |
 |-|-|-|
