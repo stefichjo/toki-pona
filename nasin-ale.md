@@ -45,6 +45,14 @@ In my nasin, a <sub><sup>VERB</sup></sub> after a secondary *li* (or *o*) can be
 | **pona pona** | *ona li pali, li kute e kalama musi.*  | <sub><sup>PU</sup></sub> |
 | **→**         | *ona li pali lon kute pi kalama musi.* | <sub><sup>TEPAN</sup></sub> |
 
+### o
+
+| | Hey Ali, be strong. | |
+|-|-|-|
+| **pona ala**  | *jan Ali o, o wawa.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *jan Ali o wawa.*    | <sub><sup>PU</sup></sub> |
+| **→**         | *o wawa, jan Ali o.* | <sub><sup>TEPAN</sup></sub> |
+
 ### mi, sina, ona
 
 Given enough context, <sub><sup>PRONOUN</sup></sub>s can be omitted.
