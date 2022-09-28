@@ -78,7 +78,7 @@ When <sub><sup>KIPO</sup></sub> converts an <sub><sup>ADJECTIVE</sup></sub> into
 | *news* | **sin** | **toki (pi ijo sin)** |
 | *day* | **suno** | **tenpo suno** |
 
-When **jaki** and **pimeja** become <sub><sup>NOUN</sup></sub>s, they appear as if an **ijo** went missing. Apparently, this makes sense, if they mean something primordial (from a human perspective) like **suno**, **sewi**, **seli** and so on. (Cf. [<sub><sup>TEPAN</sup></sub>](sin.md#thing--area).)
+When **jaki** and **pimeja** become <sub><sup>NOUN</sup></sub>s, they appear as if an **ijo** went missing. Apparently, this makes sense, if they mean something primordial (from a human perspective) like **suno**, **sewi**, **seli** and so on. (Cf. [<sub><sup>TEPAN</sup></sub>](toki-ale.md#thing--area).)
 
 | | <sub><sup>KIPO</sup></sub> | <sub><sup>TEPAN</sup></sub> |
 |:-|:-|:-|

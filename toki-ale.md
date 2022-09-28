@@ -397,7 +397,7 @@ Outside of ordinary <sub><sup>SENTENCE</sup></sub> structures, **sama** be used 
 
 This creative work by Stephan Schneider is based on [the official Toki Pona book](http://www.amazon.com/gp/product/0978292308) and website: [http://tokipona.org](http://tokipona.org)
 
-[***Enhanced Toki Pona***](#toki-namako) goes beyond [***Frontier Toki Pona***](sin.md) and should therefore not be mixed with ordinary [***Toki Pona***](README.md). (Cf. [***Fictional Toki Pona***](toki-sin.md).)
+[***Enhanced Toki Pona***](#toki-namako) goes beyond [***Frontier Toki Pona***](toki-ale.md) and should therefore not be mixed with ordinary [***Toki Pona***](README.md). (Cf. [***Fictional Toki Pona***](toki-sin.md).)
 
 ## Punctuation
 
@@ -588,7 +588,7 @@ In ***Toki Namako***, **namako** is a synonym of **sin** meaning *additional*, *
 | <sub><sup>SITELEN</sup></sub> | <sub><sup>KON</sup></sub> |
 |:-|:-|
 | <img src="musi/pona/sin.png" height="50" title="ŝin"> | [**<sub><sup>ADJECTIVE</sup></sub>**](#nimi-ale.md#adjective) *jaki* — **sin**, *suwi* <br><sub><sup>ADJECTIVE</sup></sub> **new**, **fresh** |
-| <img src="musi/pona/namako.png" height="50" title="namak"> | [**<sub><sup>PREPOSITION</sup></sub>**](#nimi-ale.md#preposition) **namako** — *taso* <br><sub><sup>PREPOSITION</sup></sub> [*in addition to*, *with*](sin.md#preposition) <br><sub><sup>ADJECTIVE</sup></sub> **additional**, **another**, **extra** |
+| <img src="musi/pona/namako.png" height="50" title="namak"> | [**<sub><sup>PREPOSITION</sup></sub>**](#nimi-ale.md#preposition) **namako** — *taso* <br><sub><sup>PREPOSITION</sup></sub> [*in addition to*, *with*](toki-ale.md#preposition) <br><sub><sup>ADJECTIVE</sup></sub> **additional**, **another**, **extra** |
 | | |
 | <img src="musi/pona/lukin.png" height="50" title="luk-im"> | [**<sub><sup>VERB</sup></sub>**](#verb) **lukin** <br><sub><sup>VERB</sup></sub> **to look at**, **see**; (*lukin ~~wawa~~*) **examine**, **observe**, **read**, [**search**](pu.md#preface), **watch** |
 | <img src="musi/pona/oko.png" height="50" title="oko"> | [**<sub><sup>NOUN</sup></sub>**](#noun) **oko** <br><sub><sup>NOUN</sup></sub> **eye** |
