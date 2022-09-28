@@ -311,7 +311,7 @@ A <sub><sup>SENTENCE</sup></sub> can end with a <sub><sup>CONTEXT</sup></sub> th
 
 | mi pana e kala | tawa ona. | | mi pana e kala tawa ona. |
 |:-|:-|:-|:-|
-| *I hand out fish.* | *to her* | | *I give fish to her.* |
+| *I hand out fish.* | *to her* | | *I give her fish.* |
 
 The <sub><sup>CONTEXT</sup></sub> can describe the whole <sub><sup>SENTENCE</sup></sub> or its <sub><sup>OBJECT</sup></sub>, for example. See also [<sub><sup>IF-THEN</sup></sub>](#if-then).
 
@@ -348,18 +348,6 @@ The <sub><sup>PREDICATE MARKER</sup></sub> **li** marks the <sub><sup>PREDICATE<
 |:-|:-|
 | *She is a parent.* | *She is not a parent.* |
 
-When there is enough context, a <sub><sup>SENTENCE</sup></sub> can be reduced to its <sub><sup>MAIN VERB</sup></sub> or even to the [<sub><sup>INTERJECTION</sup></sub>](#interjection) that modifies it.
-
-| ona li mama anu seme? | ona li mama. → mama. | ona li mama ala. → mama ala. → ala. |
-|:-|:-|:-|
-| *Is she a parent?* | *Yes.* | *No.* |
-
-If the <sub><sup>SUBJECT</sup></sub> is just **mi** or **sina**, the <sub><sup>PREDICATE MARKER</sup></sub> **li** is omitted.
-
-| mi mije. | sina sin. |
-|:-|:-|
-| *I am a man.* | *You are new.* |
-
 ##### DEONTIC
 <sub><sup>POKI PI PALI WILE</sup></sub>
 
@@ -381,12 +369,6 @@ The <sub><sup>PREDICATE MARKER</sup></sub> **o** marks the <sub><sup>PREDICATE</
 |:-|
 | *Hey Ali!* |
 
-A combination of <sub><sup>VOCATIVE</sup></sub> and <sub><sup>IMPERATIVE</sup></sub> is always replaced by a <sub><sup>VOLITIVE</sup></sub>.
-
-| <sub><sup>VOCATIVE</sup></sub> + <sub><sup>IMPERATIVE</sup></sub> jan Ali o, o wawa! → <sub><sup>VOLITIVE</sup></sub> jan Ali o wawa! |
-|:-|
-| *Hey Ali, be strong!* |
-
 A <sub><sup>VOLITIVE</sup></sub> can be reduced to the <sub><sup>OBJECT</sup></sub> of the <sub><sup>SENTENCE</sup></sub>, expressing a *wish*.
 
 | <sub><sup>VOLITIVE</sup></sub> sina o jo e moku pona. → moku pona! |
@@ -405,7 +387,7 @@ The <sub><sup>CASE</sup></sub> **pi** marks a <sub><sup>NOUN PHRASE</sup></sub> 
 |:-|
 | *a person of much good* → *a very good person* |
 
-When the <sub><sup>NOUN PHRASE</sup></sub> consists of only one [<sub><sup>NOUN</sup></sub>](#noun), the <sub><sup>CASE MARKER</sup></sub> **pi** is omitted.
+When the <sub><sup>NOUN PHRASE</sup></sub> consists of only one [<sub><sup>NOUN</sup></sub>](#noun), the <sub><sup>CASE MARKER</sup></sub> **pi** is omitted.[*](nasin-ale.md#pi)
 
 | toki pona |
 |:-|
@@ -414,13 +396,7 @@ When the <sub><sup>NOUN PHRASE</sup></sub> consists of only one [<sub><sup>NOUN<
 ##### ACCUSATIVE
 <sub><sup>POKI ANPA</sup></sub>
 
-The <sub><sup>CASE</sup></sub> **e** marks a <sub><sup>NOUN PHRASE</sup></sub> as an <sub><sup>ACCUSATIVE</sup></sub>, i.e. the <sub><sup>MAIN VERB</sup></sub>'s <sub><sup>OBJECT</sup></sub>.
-
-When there is enough context, the <sub><sup>OBJECT</sup></sub> of a [<sub><sup>VERB</sup></sub>](#verb) can be omitted.
-
-| mije li sona e ijo/ni/ona. → mije li sona. |
-|:-|
-| *The men know things/that/it.* → *The men know.* |
+The <sub><sup>CASE</sup></sub> **e** marks a <sub><sup>NOUN PHRASE</sup></sub> as an <sub><sup>ACCUSATIVE</sup></sub>, i.e. the <sub><sup>MAIN VERB</sup></sub>'s <sub><sup>OBJECT</sup></sub>.[*](nasin-ale.md#e)
 
 ### CONJUNCTION
 <sub><sup>LINJA POKI</sup></sub>
@@ -443,17 +419,11 @@ In <sub><sup>SENTENCE</sup></sub>s, the <sub><sup>CONJUNCTION</sup></sub> **en**
 #### OR
 <sub><sup>LINJA POKI PI IJO ANTE TU</sup></sub>
 
-The <sub><sup>CONJUNCTION</sup></sub> **anu** means *or*. It combines two <sub><sup>NOUN PHRASE</sup></sub>s into one.
+The <sub><sup>CONJUNCTION</sup></sub> **anu** means *or*. It combines two <sub><sup>NOUN PHRASE</sup></sub>s into one.[*](nasin-ale.md#anu)
 
 | <sub><sup>CONJUNCTION</sup></sub> anu | pona anu ike |
 |:-|:-|
 | <sub><sup>PARTICLE</sup></sub> *or* | *friendly or hostile* |
-
-In yes-no-questions, the <sub><sup>CONJUNCTION</sup></sub> **anu** is omitted between a negative and a positive <sub><sup>MAIN VERB</sup></sub>.
-
-| ona li mama anu seme? → ona li mama ala ~~anu~~ mama? |
-|:-|
-| *Is she a parent?* |
 
 #### IF-THEN
 <sub><sup>LINJA POKI PI IJO INSA</sup></sub>
@@ -464,17 +434,7 @@ The <sub><sup>CONJUNCTION</sup></sub> **la** can be put between the <sub><sup>CO
 |:-|
 | *Why are you calling me good?* |
 
-Before **la**, the [<sub><sup>PREPOSITION</sup></sub>](#preposition) **lon** is omitted.
-
-| ona li kama lon tenpo pimeja ni. → ~~lon~~ tenpo pimeja ni la ona li kama. |
-|:-|
-| *She is coming tonight.* → *Tonight, she is coming.* |
-
-Before **la**, the [<sub><sup>CORRELATIVE</sup></sub>](#correlative) **ni:** in front of a <sub><sup>SUBORDINATE CLAUSE</sup></sub> is omitted together with **lon**. In this case, **la** can be translated as *if ... then*.
-
-| jan li pona tawa mi lon ni: mi pona tawa jan. → ~~lon ni:~~ mi pona tawa jan, la jan li pona tawa mi. |
-|:-|
-| *People are good to me, if I'm good to people.* → *If I'm good to people, people are good to me.* |
+See [further uses of **la**](nasin-ale.md#la).
 
 ### ONOMATOPEIA
 <sub><sup>NIMI KALAMA</sup></sub>
