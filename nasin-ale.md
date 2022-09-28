@@ -225,7 +225,7 @@ In my nasin, the relative subject or the relative object of a relative clause ca
 
 ### pi
 
-After *pi*, *ijo* dropping of <sub><sup>CORRELATIVE</sup></sub>s don't undergo *ijo* dropping after *pi*.
+<sub><sup>CORRELATIVE</sup></sub>s don't undergo *ijo* dropping after *pi*.
 
 | | of everything | |
 |-|-|-|
