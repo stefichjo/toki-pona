@@ -174,30 +174,7 @@ In my nasin, <sub><sup>METAPHOR</sup></sub>s must be expressed as <sub><sup>SIMI
 | **pona pona** | *ni li lon sama pi kalama musi tawa kute mi.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *ni li kalama musi tawa kute mi.*             | <sub><sup>PU</sup></sub> |
 
-### pi
-
-In my nasin, *pi* can't be used without a <sub><sup>HEAD NOUN</sup></sub>.
-
-| | This book is ours. | |
-|-|-|-|
-| **pona pona** | *lipu ni li ijo mi.* | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *lipu ni li pi mi.*  | <sub><sup>PIJE</sup></sub> |
-
-In my nasin, *pi* can't be used with a <sub><sup>PREPOSITIONAL PHRASE</sup></sub> as its argument.
-
-| | someone going home | |
-|-|-|-|
-| **pona pona** | *jan ni: ona li tawa tomo* | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *jan pi tawa tomo*         | <sub><sup>KIPO</sup></sub> |
-
 ### ala, ale, ijo, ni, seme
-
-In my nasin, <sub><sup>ADJECTIVE</sup></sub>s that have been converted to <sub><sup>NOUN</sup></sub>s meaning *things* don't undergo *ijo* dropping after *pi*.
-
-| | the happening of good things | |
-|-|-|-|
-| **pona pona** | *kama pi ijo pona* | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *kama pona*        | <sub><sup>X</sup></sub> |
 
 In my nasin, *ala* is not a <sub><sup>CORRELATIVE</sup></sub>, i.e. it doesn't undergo *ijo* dropping.
 
@@ -206,24 +183,11 @@ In my nasin, *ala* is not a <sub><sup>CORRELATIVE</sup></sub>, i.e. it doesn't u
 | **pona pona** | *ijo ala* | <sub><sup>PU</sup></sub> |
 | **pona ike**  | *ala*     | <sub><sup>KU</sup></sub> |
 
-After *pi*, *ijo* dropping of <sub><sup>CORRELATIVE</sup></sub>s don't undergo *ijo* dropping after *pi*.
-
-| | of everything | |
-|-|-|-|
-| **pona pona** | *pi ijo ale* | <sub><sup>PU</sup></sub> |
-
 <sub><sup>CORRELATIVE</sup></sub>s can also refer to *places*.
 
 | | where | |
 |-|-|-|
 | **pona pona** | *lon seme* | <sub><sup>PU</sup></sub> |
-
-In my nasin, *of that place* and *that* are merged, so that when *ijo* means *place*, it is dropped after *pi*.
-
-| | behind that | |
-|-|-|-|
-| **pona ala**  | *lon monsi pi ijo ni* | <sub><sup>X</sup></sub> |
-| **pona pona** | *lon monsi ni*        | <sub><sup>TEPAN</sup></sub> |
 
 In my nasin, *ni* can also mean *such*, in which case it doesn't undergo *ijo* dropping.
 
@@ -257,6 +221,42 @@ In my nasin, the relative subject or the relative object of a relative clause ca
 |-|-|-|
 | **pona pona**  | *mi ken lukin e mije ni: ona li sona e mi.* | <sub><sup>X</sup></sub> |
 | **pona ike**   | *mi ken lukin e mije ni: sona e mi.*        | <sub><sup>X</sup></sub> |
+
+### pi
+
+After *pi*, *ijo* dropping of <sub><sup>CORRELATIVE</sup></sub>s don't undergo *ijo* dropping after *pi*.
+
+| | of everything | |
+|-|-|-|
+| **pona pona** | *pi ijo ale* | <sub><sup>PU</sup></sub> |
+
+In my nasin, <sub><sup>ADJECTIVE</sup></sub>s that have been converted to <sub><sup>NOUN</sup></sub>s meaning *things* don't undergo *ijo* dropping after *pi*.
+
+| | the happening of good things | |
+|-|-|-|
+| **pona pona** | *kama pi ijo pona* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *kama pona*        | <sub><sup>X</sup></sub> |
+
+In my nasin, *of that place* and *that* are merged, so that when *ijo* means *place*, it is dropped after *pi*.
+
+| | behind that | |
+|-|-|-|
+| **pona ala**  | *lon monsi pi ijo ni* | <sub><sup>X</sup></sub> |
+| **pona pona** | *lon monsi ni*        | <sub><sup>TEPAN</sup></sub> |
+
+In my nasin, *pi* can't be used without a <sub><sup>HEAD NOUN</sup></sub>.
+
+| | This book is ours. | |
+|-|-|-|
+| **pona pona** | *lipu ni li ijo mi.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *lipu ni li pi mi.*  | <sub><sup>PIJE</sup></sub> |
+
+In my nasin, *pi* can't be used with a <sub><sup>PREPOSITIONAL PHRASE</sup></sub> as its argument.
+
+| | someone going home | |
+|-|-|-|
+| **pona pona** | *jan ni: ona li tawa tomo* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *jan pi tawa tomo*         | <sub><sup>KIPO</sup></sub> |
 
 ### ijo, ilo, jan
 
@@ -346,6 +346,28 @@ When the *la*-phrase contains a sentence, *ni:* before it is omitted.
 |-|-|-|
 | **pona ala**  | *ken a./ken ala.* | <sub><sup>X</sup></sub> |
 | **pona pona** | *ken./ala.*       | <sub><sup>PU</sup></sub> |
+
+### nimi
+
+| | a ship named Abraham Lincoln | |
+|-|-|-|
+| **pona pona** | *tomo tawa telo pi nimi Epawan Linkan* | <sub><sup>TEPAN</sup></sub> |
+
+### nanpa
+
+In my nasin, <sub><sup>NUMBER</sup></sub>s behave like <sub><sup>NAME</sup></sub>s. (<sub><sup>NUMBER</sup></sub>s are written in lowercase, though.) Therefore, *nanpa* behaves like *nimi*.
+
+| | bus number three | |
+|-|-|-|
+| **pona pona** | *tomo tawa kulupu pi nanpa tu wan* | <sub><sup>PIJE</sup></sub> |
+| **pona ike**  | *tomo tawa kulupu nanpa tu wan*    | <sub><sup>PU</sup></sub> |
+
+In my nasin, *nanpa* behaves like a <sub><sup>NAME</sup></sub> itself. (*nanpa* as a <sub><sup>NAME</sup></sub> is written in lowercase, though.)
+
+| | the third bus | |
+|-|-|-|
+| **pona ala**  | *tomo tawa kulupu pi nanpa tu wan* | <sub><sup>PIJE</sup></sub> |
+| **pona pona** | *tomo tawa kulupu nanpa tu wan*    | <sub><sup>PU</sup></sub> |
 
 ### Pre-Verbs
 

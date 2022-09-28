@@ -247,17 +247,11 @@ You can convert any <sub><sup>PRO-ADJECTIVE</sup></sub> into a <sub><sup>NOUN</s
 ##### CORRELATIVE
 <sub><sup>NIMI NOKA SAMA</sup></sub>
 
-You can convert any <sub><sup>CORRELATIVE</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning **ijo** - *something*.*
+You can convert any <sub><sup>CORRELATIVE</sup></sub> into a <sub><sup>NOUN</sup></sub> meaning **ijo** - *something*.[*](nasin-ale.md#pi)
 
 | <sub><sup>CORRELATIVE</sup></sub> ale |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *every* <br><sub><sup>NOUN</sup></sub> *everything* |
-
-*Except in **pi**-phrases.
-
-| <sub><sup>NOUN PHRASE</sup></sub> mama pi ijo ale |
-|:-|
-| <sub><sup>NOUN PHRASE</sup></sub> *parent of everything* |
 
 The <sub><sup>CORRELATIVE</sup></sub> **ni** introduces <sub><sup>SUBORDINATE CLAUSE</sup></sub>s.
 
@@ -277,6 +271,8 @@ You can use any <sub><sup>CORRELATIVE</sup></sub> as a <sub><sup>PREDICATE</sup>
 | <sub><sup>NUMBER</sup></sub> tu |
 |:-|
 | <sub><sup>ADJECTIVE</sup></sub> *two* <br><sub><sup>NOUN</sup></sub> *two things* = *pair* |
+
+<!-- divided things -->
 
 ##### THING / AREA
 <sub><sup>NIMI NOKA IJO</sup></sub>
