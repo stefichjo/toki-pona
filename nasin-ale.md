@@ -1,6 +1,6 @@
 # The Frontier (<sub><sup>TEPAN</sup></sub>)
 
-*Frontier Toki Pona* explores omissions and [conversions](nimi-ale.md#content-word) of words that go beyond their definitions in the [dictionary](nimi-ale.md) and the way these words are used in [expressions](pu.md) in Pu. The ultimate goal is to outline a possible nasin that is "pona enough" (*pona pona*), i.e. a sweet spot between "un-pona" and "too pona" (*pona ala* and *pona ike*).`*`
+*Frontier Toki Pona* explores [conversions](nimi-ale.md#content-word) and [omissions](nimi-ale.md#particle) of words that go beyond their un-controversial definitions in the [dictionary](nimi-ale.md) and the way these words are used in [expressions](pu.md) in Pu. The ultimate goal is to outline a possible nasin that is "pona enough" (*pona pona*), i.e. a sweet spot between "un-pona" and "too pona" (*pona ala* and *pona ike*).`*`
 
 `*` <sub><sup>This is subject to personal preference.</sup></sub>
 
@@ -167,6 +167,11 @@ In my nasin, <sub><sup>MIDDLE VOICE</sup></sub> and <sub><sup>PASSIVE</sup></sub
 | **pona pona** | *ona li lon sama pipi tawa lukin.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *ona li sama pipi tawa lukin.*     | <sub><sup>PU</sup></sub> |
 | **→**         | *ona li lukin sama pipi.*          | <sub><sup>PIJE</sup></sub> |
+
+| | My head hurts. | |
+|-|-|-|
+| **pona pona** | *lawa mi li pana e pilin ike.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *lawa mi li pilin ike.*        | <sub><sup>MA PONA</sup></sub> |
 
 In my nasin, <sub><sup>METAPHOR</sup></sub>s must be expressed as <sub><sup>SIMILE</sup></sub>s.
 
@@ -351,7 +356,7 @@ Otherwise, a <sub><sup>SUBORDINATE CLAUSE</sup></sub> can only be used at the en
 | **pona ala**  | *ken a./ken ala.* | <sub><sup>X</sup></sub> |
 | **pona pona** | *ken./ala.*       | <sub><sup>PU</sup></sub> |
 
-In my nasin, it is not possible to convert *anu* into a <sub><sup>CONTENT WORD</sup></sub>.
+In my nasin, it is not possible to convert the <sub><sup>PARTICLE</sup></sub> *anu* into a <sub><sup>CONTENT WORD</sup></sub>.
 
 | | Choose a fruit. | |
 |-|-|-|
@@ -381,6 +386,15 @@ In my nasin, *nanpa* can behave like a <sub><sup>NAME</sup></sub> itself. (*nanp
 | **pona pona** | *tomo tawa kulupu nanpa tu wan*    | <sub><sup>PU</sup></sub> |
 
 ### Pre-Verbs
+
+In my nasin, *anpa* and *moli* don't undergo *kama* dropping.
+
+| | dying | |
+|-|-|-|
+| **pona pona** | *kama moli* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *moli*      | <sub><sup>PU</sup></sub> |
+
+In my nasin, 
 
 ## Antonyms
 
