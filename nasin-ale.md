@@ -321,12 +321,15 @@ In my nasin, there is no *nasin* dropping.
 | **pona pona** | *tawa mi la ...* | <sub><sup>PU</sup></sub> |
 | **pona ike**  | *mi la ...*      | <sub><sup>PIJE, KU</sup></sub> |
 
-When the *la*-phrase contains a sentence, *ni:* before it is omitted.
+When the *la*-phrase contains a <sub><sup>SUBORDINATE CLAUSE</sup></sub> with *lon ni:*, *lon ni:* is omitted.
 
 | | When the sun was red, it was the right time. | |
 |-|-|-|
 | **pona ala**  | *lon ni: suno li loje, la tenpo pona li lon.* | <sub><sup>X</sup></sub> |
 | **pona pona** | *suno li loje, la tenpo pona li lon.*         | <sub><sup>PU</sup></sub> |
+| **→**         | *lon ni la tenpo pona li lon: suno li loje.*  | <sub><sup>X</sup></sub> |
+
+Otherwise, a <sub><sup>SUBORDINATE CLAUSE</sup></sub> can only be used at the end of a <sub><sup>SENTENCE</sup></sub>.
 
 | | It was raining, so I didn't come. | |
 |-|-|-|
