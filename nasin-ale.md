@@ -351,6 +351,13 @@ Otherwise, a <sub><sup>SUBORDINATE CLAUSE</sup></sub> can only be used at the en
 | **pona ala**  | *ken a./ken ala.* | <sub><sup>X</sup></sub> |
 | **pona pona** | *ken./ala.*       | <sub><sup>PU</sup></sub> |
 
+In my nasin, it is not possible to convert *anu* into a <sub><sup>CONTENT WORD</sup></sub>.
+
+| | Choose a fruit. | |
+|-|-|-|
+| **pona pona** | *o kama wile e kili.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *o anu e kili.*       | <sub><sup>KU</sup></sub> |
+
 ### nimi
 
 | | a ship named Abraham Lincoln | |
