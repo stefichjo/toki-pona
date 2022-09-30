@@ -27,9 +27,33 @@ In my dialect, a coordinating *comma* between two <sub><sup>GENITIVE PHRASE</sup
 
 -----
 
-In my nasin, a comma doesn't denote a pause, but sparates two <sub><sup>PHRASE</sup></sub>s of the same kind. (A <sub><sup>SUBORDINATE CLAUSE</sup></sub> is surrounded by a colon and a comma. Two sentences are separated by a period, an exclamation mark, or a question mark.)
+In my nasin, a slight pause is indicated by an elipsis (...).
 
-| | Today I'm playing. | |
+| | But I was playing. | |
 |-|-|-|
-| **pona pona** | *tenpo suno ni la... mi musi.* | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *tenpo suno ni la, mi musi.*   | <sub><sup>MA PONA</sup></sub> |
+| **pona pona** | *taso... mi musi.* | <sub><sup>TEPAN</sup></sub> |
+| **pona ike**  | *taso, mi musi.*   | <sub><sup>MA PONA</sup></sub> |
+
+In my nasin, a <sub><sup>SUBORDINATE CLAUSE</sup></sub> starts with a colon and ends with a comma, unless the <sub><sup>SUBORDINATE CLAUSE</sup></sub> comes at the end of the <sub><sup>SENTENCE</sup></sub>, which is *pona enough* (**pona pona**).
+
+| | I was happy that you were there. | |
+|-|-|-|
+| **pona ala**  | *tan ni: sina lon, la mi pilin pona.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *mi pilin pona tan ni: sina lon.*     | <sub><sup>PU</sup></sub> |
+
+In my nasin, one can use ASCII characters instead of sitelen pona mid-sentence.
+
+| | one apple | |
+|-|-|-|
+| **pona pona** | *kili wan* | <sub><sup>PU</sup></sub> |
+| **→**         | *kili 1*   | <sub><sup>TEPAN</sup></sub> |
+
+| | the first language | |
+|-|-|-|
+| **pona pona** | *toki nanpa wan* | <sub><sup>PU</sup></sub> |
+| **→**         | *toki #1*        | <sub><sup>TEPAN</sup></sub> |
+
+| | At first, talk to him. | |
+|-|-|-|
+| **pona pona** | *nanpa wan la o toki tawa ona.* | <sub><sup>PU</sup></sub> |
+| **→**         | *#1) o toki tawa ona.*          | <sub><sup>TEPAN</sup></sub> |
