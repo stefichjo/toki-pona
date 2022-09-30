@@ -41,6 +41,24 @@ In my nasin, a <sub><sup>SUBORDINATE CLAUSE</sup></sub> starts with a colon and 
 | **pona ala**  | *tan ni: sina lon, la mi pilin pona.* | <sub><sup>X</sup></sub> |
 | **pona pona** | *mi pilin pona tan ni: sina lon.*     | <sub><sup>PU</sup></sub> |
 
+In my nasin, one can omit the comma between two <sub><sup>PHRASE</sup></sub> of same kind and rank...
+
+| | I was happy that you were there. | |
+|-|-|-|
+| **pona pona** | *ona li pali, li musi.* | <sub><sup>PU</sup></sub> |
+| **→**         | *ona li pali li musi.*  | <sub><sup>PU</sup></sub> |
+
+...however one cannot omit the comma between two *pi*-<sub><sup>PHRASE</sup></sub> of same kind and rank, in order to avoid confusion with one *pi*-<sub><sup>PHRASE</sup></sub> nested in another *pi*-<sub><sup>PHRASE</sup></sub>. In my nasin, both cases of putting two *pi*-<sub><sup>PHRASE</sup></sub>s adjacent to one another is *un-pona* (*pona ala*).
+
+| | music of a very friendly foreign country | |
+|-|-|-|
+| **pona ala**  | *kalama musi pi ma ante pi pona mute* | <sub><sup>X</sup></sub> |
+
+| | very good foreign music | |
+|-|-|-|
+| **pona ala**  | *kalama musi pi ma ante, pi pona mute* | <sub><sup>X</sup></sub> |
+| **pona ike**  | *kalama musi pi ma ante pi pona mute*  | <sub><sup>X</sup></sub> |
+
 In my nasin, one can use ASCII characters instead of sitelen pona mid-sentence.
 
 | | one apple | |
