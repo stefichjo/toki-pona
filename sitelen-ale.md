@@ -10,8 +10,9 @@ In my dialect, a coordinating *comma* between two <sub><sup>GENITIVE PHRASE</sup
 
 ## Cartouche
 
-* soweli `mani . loje . lili .` = soweli Maloli
-* soweli `noka . wawa .` = soweli Nowa
+* soweli `mani · loje · lili ·` = soweli Maloli
+* soweli `noka · wawa ·` = soweli Nowa
+* soweli `wile · nimi ·` `pu ·` = soweli Wini Pu
 
 <!-- poka wan: left; poka ante: right ??? -->
 <!-- `nanpa tu wan lon poka wan` → `wan` -->
@@ -48,7 +49,7 @@ In my nasin, one can omit the comma between two <sub><sup>PHRASE</sup></sub> of 
 | **pona pona** | *ona li pali, li musi.* | <sub><sup>PU</sup></sub> |
 | **→**         | *ona li pali li musi.*  | <sub><sup>PU</sup></sub> |
 
-...however one cannot omit the comma between two *pi*-<sub><sup>PHRASE</sup></sub> of same kind and rank, in order to avoid confusion with one *pi*-<sub><sup>PHRASE</sup></sub> nested in another *pi*-<sub><sup>PHRASE</sup></sub>. In my nasin, both cases of putting two *pi*-<sub><sup>PHRASE</sup></sub>s adjacent to one another is *un-pona* (*pona ala*).
+...however one cannot omit the comma between two *pi*-<sub><sup>PHRASE</sup></sub>s of same kind and rank, in order to avoid confusion with one *pi*-<sub><sup>PHRASE</sup></sub> nested in another *pi*-<sub><sup>PHRASE</sup></sub>. In my nasin, both cases of putting two *pi*-<sub><sup>PHRASE</sup></sub>s adjacent to one another is *un-pona* (**pona ala**).
 
 | | music of a very friendly foreign country | |
 |-|-|-|
@@ -71,7 +72,7 @@ In my nasin, one can use ASCII characters instead of sitelen pona mid-sentence.
 | **pona pona** | *toki nanpa wan* | <sub><sup>PU</sup></sub> |
 | **→**         | *toki #1*        | <sub><sup>TEPAN</sup></sub> |
 
-| | At first, talk to him. | |
+| | At first, say your name. | |
 |-|-|-|
-| **pona pona** | *nanpa wan la o toki tawa ona.* | <sub><sup>PU</sup></sub> |
-| **→**         | *#1) o toki tawa ona.*          | <sub><sup>TEPAN</sup></sub> |
+| **pona pona** | *nanpa wan la o toki e nimi sina.* | <sub><sup>PU</sup></sub> |
+| **→**         | *#1) o toki e nimi sina.*          | <sub><sup>TEPAN</sup></sub> |

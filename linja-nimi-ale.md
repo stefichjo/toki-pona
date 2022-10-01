@@ -1,5 +1,22 @@
 ## Dictionary
 
+<!-- compounds -->
+
+<!-- 
+### pona vs. ike, jaki, nasa, pakala, and utala
+
+### lili vs. mute, suli, and wawa
+
+### jaki vs. suwi
+
+### akesi vs. soweli
+
+akesi = malicious → dangerous?
+
+### a vs. ala (and mu)
+
+-->
+
 ### kon sin pi nimi ale
 
 | | |
