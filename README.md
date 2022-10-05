@@ -7,3 +7,4 @@ This creative work by Stephan Schneider is based on [the official Toki Pona book
 
 ![o pilin pona o pu](sitelen/kulupu/jan-pu/o-pilin-pona-o-pu.jpg)
 
+<!-- jan Tepan en jan ale ale ale -->

@@ -4,9 +4,7 @@
 
 `*` <sub><sup>This is subject to personal preference.</sup></sub>
 
-## Omissions
-
-### e
+## e
 
 *e ijo* can be dropped when there is enough context.
 
@@ -28,7 +26,7 @@ In my nasin, *e ijo* can't be dropped in context.
 | **pona pona** | *o toki e ijo pi pali sina.*  | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *o toki pi pali sina.*        | <sub><sup>PIJE</sup></sub> |
 
-### li
+## li
 
 The first *li* after a single *mi* or *sina* is omitted.
 
@@ -45,7 +43,7 @@ In my nasin, a <sub><sup>VERB</sup></sub> after a secondary *li* (or *o*) can be
 | **pona pona** | *ona li pali, li kute e kalama musi.*  | <sub><sup>PU</sup></sub> |
 | **→**         | *ona li pali lon kute pi kalama musi.* | <sub><sup>TEPAN</sup></sub> |
 
-### o
+## o
 
 | | Hey Ali, be strong. | |
 |-|-|-|
@@ -53,16 +51,16 @@ In my nasin, a <sub><sup>VERB</sup></sub> after a secondary *li* (or *o*) can be
 | **pona pona** | *jan Ali o wawa.*    | <sub><sup>PU</sup></sub> |
 | **→**         | *o wawa, jan Ali o.* | <sub><sup>TEPAN</sup></sub> |
 
-### mi, sina, ona
+## mi, sina, ona
 
-Given enough context, <sub><sup>PRONOUN</sup></sub>s can be omitted.
+Given enough context, a <sub><sup>PERSONAL PRONOUN PHRASE</sup></sub> can be omitted.
 
-| | I went home. | |
+| | We went home. | |
 |-|-|-|
-| **pona pona** | *mi tawa tomo mi.* | <sub><sup>X</sup></sub> |
-| **→**         | *mi tawa tomo.*    | <sub><sup>PU</sup></sub> |
+| **pona pona** | *mi mute li tawa tomo pi mi mute.* | <sub><sup>X</sup></sub> |
+| **→**         | *mi mute li tawa tomo.*            | <sub><sup>PU</sup></sub> |
 
-### lon, tan, tawa
+## lon, tan, tawa
 
 When *lon*, *tan* or *tawa* is used both as a <sub><sup>PREDICATE</sup></sub> and as a <sub><sup>PREPOSITION</sup></sub> one after the other, the <sub><sup>PREPOSITION</sup></sub> is omitted.
 
@@ -88,14 +86,14 @@ When *lon*, *tan* or *tawa* is used both as a <sub><sup>PREDICATE</sup></sub> an
 | **pona pona** | *tan pona!*  | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *tawa pona!* | <sub><sup>PU</sup></sub> |
 
-In my nasin, it is not possible to convert a <sub><sup>PREPOSITION</sup></sub> into a <sub><sup>NOUN</sup></sub> with the meaning of the <sub><sup>PREPOSITION</sup></sub>'s <sub><sup>SUBJECT</sup></sub>.
+In my nasin, it is not possible to convert a <sub><sup>PREPOSITION</sup></sub> into a <sub><sup>NOUN</sup></sub> with the meaning of the <sub><sup>PREPOSITION</sup></sub>'s <sub><sup>OBJECT</sup></sub>.
 
 | | origin | |
 |-|-|-|
 | **pona pona** | *mama*  | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *tan*   | <sub><sup>KU</sup></sub> |
 
-#### Location Nouns
+### Location Nouns
 
 In my nasin, there are some additional <sub><sup>LOCATION NOUN</sup></sub>s. 
 
@@ -139,7 +137,7 @@ In my nasin, a <sub><sup>LOCATION NOUN</sup></sub> cannot be converted into an <
 | **pona pona** | *o lukin ala e sewi!* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *o lukin sewi ala!*   | <sub><sup>PIJE</sup></sub> |
 
-#### kepeken, sama
+### kepeken, sama
 
 In my nasin, only *lon*, *tan*, and *tawa* are <sub><sup>PREPOSITION</sup></sub>s.
 
@@ -153,6 +151,8 @@ In my nasin, only *lon*, *tan*, and *tawa* are <sub><sup>PREPOSITION</sup></sub>
 |-|-|-|
 | **pona pona** | *sina lon sama pi ilo sona.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *sina sama ilo sona.*        | <sub><sup>PU</sup></sub> |
+
+<!-- somewhere else -->
 
 In my nasin, <sub><sup>MIDDLE VOICE</sup></sub> and <sub><sup>PASSIVE</sup></sub> must be expressed differently in an idiomatic way.
 
@@ -173,6 +173,11 @@ In my nasin, <sub><sup>MIDDLE VOICE</sup></sub> and <sub><sup>PASSIVE</sup></sub
 | **pona pona** | *lawa mi li pana e pilin ike.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *lawa mi li pilin ike.*        | <sub><sup>MA PONA</sup></sub> |
 
+| | The apple is being eaten by me. | |
+|-|-|-|
+| **pona pona** | *mi moku e kili.*      | <sub><sup>PU</sup></sub> |
+| **pona ike**  | *kili li ijo moku mi.* | <sub><sup>X</sup></sub> |
+
 In my nasin, <sub><sup>METAPHOR</sup></sub>s must be expressed as <sub><sup>SIMILE</sup></sub>s.
 
 | | That's music to my ears. | |
@@ -180,7 +185,7 @@ In my nasin, <sub><sup>METAPHOR</sup></sub>s must be expressed as <sub><sup>SIMI
 | **pona pona** | *ni li lon sama pi kalama musi tawa kute mi.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *ni li kalama musi tawa kute mi.*             | <sub><sup>PU</sup></sub> |
 
-### ala, ale, ijo, ni, seme
+## ala, ale, ijo, ni, seme
 
 In my nasin, *ala* is not a <sub><sup>CORRELATIVE</sup></sub>, i.e. it doesn't undergo *ijo* dropping.
 
@@ -202,7 +207,7 @@ In my nasin, *ni* can also mean *such*, in which case it doesn't undergo *ijo* d
 | **pona pona** | *ijo ni* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *ni*     | <sub><sup>X</sup></sub> |
 
-#### Relative Clauses
+### Relative Clauses
 
 | | I see something that you don't see. | |
 |-|-|-|
@@ -228,7 +233,7 @@ In my nasin, the relative subject or the relative object of a relative clause ca
 | **pona pona**  | *mi ken lukin e mije ni: ona li sona e mi.* | <sub><sup>X</sup></sub> |
 | **pona ike**   | *mi ken lukin e mije ni: sona e mi.*        | <sub><sup>X</sup></sub> |
 
-### pi
+## pi
 
 <sub><sup>CORRELATIVE</sup></sub>s don't undergo *ijo* dropping after *pi*.
 
@@ -250,12 +255,13 @@ In my nasin, *of that place* and *that* are merged, so that when *ijo* means *pl
 | **pona ala**  | *lon monsi pi ijo ni* | <sub><sup>X</sup></sub> |
 | **pona pona** | *lon monsi ni*        | <sub><sup>TEPAN</sup></sub> |
 
-In my nasin, *pi* can't be used without a <sub><sup>HEAD NOUN</sup></sub>.
+In my nasin, a <sub><sup>GENITIVE PHRASE</sup></sub> can't be used as a <sub><sup>PREDICATE</sup></sub>.
 
 | | This book is ours. | |
 |-|-|-|
 | **pona pona** | *lipu ni li ijo mi.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *lipu ni li pi mi.*  | <sub><sup>PIJE</sup></sub> |
+| **→**         | *lipu ni li mi.*     | <sub><sup>X</sup></sub> |
 
 In my nasin, *pi* can't be used with a <sub><sup>PREPOSITIONAL PHRASE</sup></sub> as its argument.
 
@@ -264,7 +270,7 @@ In my nasin, *pi* can't be used with a <sub><sup>PREPOSITIONAL PHRASE</sup></sub
 | **pona pona** | *jan ni: ona li tawa tomo* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *jan pi tawa tomo*         | <sub><sup>KIPO</sup></sub> |
 
-### ijo, ilo, jan
+## ijo, ilo, jan
 
 In my nasin, many <sub><sup>NOUN</sup></sub>s are interpreted as <sub><sup>PRO-ADJECTIVE</sup></sub>s, i.e. they undergo *ijo* dropping, *ilo* dropping or *jan* dropping. (In my nasin, dropped *ilo* means *organ*.)
 
@@ -314,7 +320,7 @@ In my nasin, there is no *nasin* dropping.
 | **pona pona** | *nasin lawa* | <sub><sup>PU</sup></sub> |
 | **pona ike**  | *lawa*       | <sub><sup>KU</sup></sub> |
 
-### la
+## la
 
 | | yesterday | |
 |-|-|-|
@@ -363,13 +369,13 @@ In my nasin, it is not possible to convert the <sub><sup>PARTICLE</sup></sub> *a
 | **pona pona** | *o kama wile e kili.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *o anu e kili.*       | <sub><sup>KU</sup></sub> |
 
-### nimi
+## nimi
 
 | | a ship named Abraham Lincoln | |
 |-|-|-|
 | **pona pona** | *tomo tawa telo pi nimi Epawan Linkan* | <sub><sup>TEPAN</sup></sub> |
 
-### nanpa
+## nanpa
 
 In my nasin, <sub><sup>NUMBER</sup></sub>s behave like <sub><sup>NAME</sup></sub>s. (<sub><sup>NUMBER</sup></sub>s are written in lowercase, though.)
 
@@ -385,7 +391,7 @@ In my nasin, *nanpa* can behave like a <sub><sup>NAME</sup></sub> itself. (*nanp
 | **pona ala**  | *tomo tawa kulupu pi nanpa tu wan* | <sub><sup>PIJE</sup></sub> |
 | **pona pona** | *tomo tawa kulupu nanpa tu wan*    | <sub><sup>PU</sup></sub> |
 
-### Pre-Verbs
+## Pre-Verbs
 
 In my nasin, *anpa* and *moli* don't undergo *kama* dropping.
 
@@ -394,165 +400,3 @@ In my nasin, *anpa* and *moli* don't undergo *kama* dropping.
 | **pona pona** | *kama moli* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *moli*      | <sub><sup>PU</sup></sub> |
 
-In my nasin, 
-
-## Antonyms
-
-### sewi and lawa vs. anpa and noka
-
-| | There is a light above the table. | |
-|-|-|-|
-| **pona pona** | *suno li lon sewi supa.* | <sub><sup>PU</sup></sub> |
-
-| | There is a clock at the top of the tower. | |
-|-|-|-|
-| **pona ala**  | *ilo tenpo li lon lawa pi tomo palisa.* | <sub><sup>X</sup></sub> |
-| **pona pona** | *ilo tenpo li lon sewi pi tomo palisa.* | <sub><sup>PU</sup></sub> |
-
-| | There is a fish at the bottom of the ocean. | |
-|-|-|-|
-| **pona pona** | *kala li lon noka pi telo suli.*   | <sub><sup>PU</sup></sub> |
-| **pona ike**  | *kala li lon anpa pi telo suli.*   | <sub><sup>KU</sup></sub> |
-
-| | There is a rock below the house. | |
-|-|-|-|
-| **pona pona** | *kiwen li lon anpa tomo.* | <sub><sup>KU</sup></sub> |
-| **pona ike**  | *kiwen li lon noka tomo.* | <sub><sup>PU</sup></sub> |
-
-### pini and selo vs. kama and open
-
-<sub><sup>LOCATION NOUN</sup></sub>
-
-| | after the night | |
-|-|-|-|
-| **pona pona** | *lon pini pi tenpo pimeja* | <sub><sup>?</sup></sub> |
-
-| | at the end of the night | |
-|-|-|-|
-| **pona ala**  | *lon selo pi tenpo pimeja* | <sub><sup>X</sup></sub> |
-| **pona pona** | *lon pini pi tenpo pimeja* | <sub><sup>?</sup></sub> |
-
-| | before the night | |
-|-|-|-|
-| **pona pona** | *lon kama pi tenpo pimeja* | <sub><sup>TEPAN</sup></sub> |
-
-| | in the beginning of the night | |
-|-|-|-|
-| **pona pona** | *lon open pi tenpo pimeja* | <sub><sup>KU</sup></sub> |
-
-<sub><sup>VERB</sup></sub>
-
-| | I closed the door. | |
-|-|-|-|
-| **pona ala**  | *mi selo e lupa tomo.*         | <sub><sup>X</sup></sub> |
-| **pona pona** | *mi pini e lupa tomo.*         | <sub><sup>KU</sup></sub> |
-| **pona ike**  | *mi pini e open pi lupa tomo.* | <sub><sup>X</sup></sub> |
-
-| | I stopped the car. | |
-|-|-|-|
-| **pona pona** | *mi awen e tomo tawa.*         | <sub><sup>X</sup></sub> |
-| **pona ike**  | *mi pini e tawa pi tomo tawa.* | <sub><sup>X</sup></sub> |
-| **→**         | *mi pini e tomo tawa.*         | <sub><sup>KU</sup></sub> |
-
-<sub><sup>PRE-VERB</sup></sub>
-
-| | I started working. | |
-|-|-|-|
-| **pona ala**  | *mi open pali.* | <sub><sup>KU</sup></sub> |
-| **pona pona** | *mi kama pali.* | <sub><sup>PU</sup></sub> |
-
-| | I stopped working. | |
-|-|-|-|
-| **pona ala**  | *mi pini pali.*     | <sub><sup>KU</sup></sub> |
-| **pona pona** | *mi awen ala pali.* | <sub><sup>TEPAN</sup></sub> |
-
-| | I finished working. | |
-|-|-|-|
-| **pona ala**  | *mi selo pali.* | <sub><sup>X</sup></sub> |
-| **→**         | *mi pini pali.* | <sub><sup>KU</sup></sub> |
-| **pona pona** | *mi pali ale.*  | <sub><sup>TEPAN</sup></sub> |
-
-### taso and weka vs. noka and poka
-
-| | I worked independently of a boss. | |
-|-|-|-|
-| **pona ala**  | *mi pali lon taso pi jan lawa.* | <sub><sup>X</sup></sub> |
-| **pona pona** | *mi pali lon weka pi jan lawa.* | <sub><sup>TEPAN</sup></sub> |
-
-| | I worked under a boss. | |
-|-|-|-|
-| **pona pona** | *mi pali lon noka pi jan lawa.* | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *mi pali lon anpa pi jan lawa.* | <sub><sup>X</sup></sub> |
-
-| | I played without a friend. | |
-|-|-|-|
-| **pona pona** | *mi musi lon weka pi jan pona.*     | <sub><sup>TEPAN</sup></sub> |
-| **→**         | *mi musi lon poka ala pi jan pona.* | <sub><sup>TEPAN</sup></sub> |
-
-| | But they worked and learned. | |
-|-|-|-|
-| **pona ala**  | *taso ni la ona li pali, li kama sona.* | <sub><sup>X</sup></sub> |
-| **pona pona** | *taso ona li pali, li kama sona.*       | <sub><sup>PU</sup></sub> |
-
-### sama vs. ante and esun
-
-<sub><sup>LOCATION NOUN</sup></sub>
-
-In my nasin, *sama* can also mean *function*, *role*.
-
-| | He worked as a teacher. | |
-|-|-|-|
-| **pona pona** | *ona li pali lon sama pi jan sona.* | <sub><sup>TEPAN</sup></sub> |
-
-In my nasin, *sama* is an antonym of *ante*.
-
-| | I am different from a computer. | |
-|-|-|-|
-| **pona pona** | *mi ante lon ilo sona.*    | <sub><sup>TEPAN</sup></sub> |
-| **→**         | *mi lon ante pi ilo sona.* | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *mi ante ilo sona.*        | <sub><sup>X</sup></sub> |
-
-<sub><sup>VERB</sup></sub>
-
-| | I replaced the wheel. | |
-|-|-|-|
-| **pona ala**  | *mi esun e sike pi ilo tawa.* | <sub><sup>X</sup></sub> |
-| **pona pona** | *mi ante e sike pi ilo tawa.* | <sub><sup>TEPAN</sup></sub> |
-
-<sub><sup>ADJECTIVE</sup></sub>
-
-In my nasin, *sama* cannot undergo *mi*/*sina*/*ona* dropping.
-
-| | He washed himself. | |
-|-|-|-|
-| **pona pona** | *ona li telo e ona sama.* | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *ona li telo e sama.*     | <sub><sup>KIPO</sup></sub> |
-
-In my nasin, *ante* cannot undergo *jan* dropping.
-
-| | Don't talk to strangers. | |
-|-|-|-|
-| **pona ala**  | *o toki ala tawa jan pi kulupu ante.* | <sub><sup>X</sup></sub> |
-| **pona pona** | *o toki ala tawa jan ante.*           | <sub><sup>TEPAN</sup></sub> |
-| **pona ike**  | *o toki ala tawa ante.*               | <sub><sup>KIPO</sup></sub> |
-
-| | vice president | |
-|-|-|-|
-| **pona ala**  | *jan lawa ante*    | <sub><sup>X</sup></sub> |
-| **pona pona** | *jan lawa sin*     | <sub><sup>KU</sup></sub> |
-
-#### kulupu
-
-*sama* can mean *of the same group*, *of the same family*.
-
-| | peer | |
-|-|-|-|
-| **pona ala**  | *jan pi kulupu sama* | <sub><sup>X</sup></sub> |
-| **pona pona** | *jan sama*           | <sub><sup>PU</sup></sub> |
-
-In my nasin, *kulupu* means *reciprocal*, *shared*.
-
-| | They talk to each other. | |
-|-|-|-|
-| **pona ala**  | *ona li toki kulupu tawa ona sama.* | <sub><sup>X</sup></sub> |
-| **pona pona** | *ona li toki tawa ona sama.*        | <sub><sup>PU</sup></sub> |
