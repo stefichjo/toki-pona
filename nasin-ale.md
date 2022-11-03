@@ -93,6 +93,20 @@ In my nasin, it is not possible to convert a <sub><sup>PREPOSITION</sup></sub> i
 | **pona pona** | *mama*  | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *tan*   | <sub><sup>KU</sup></sub> |
 
+In my nasin, it is not possible to prefix a <sub><sup>NOUN PHRASE</sup></sub> with another <sub><sup>NOUN PHRASE</sup></sub>.
+
+| | The capital Berlin is big. | |
+|-|-|-|
+| **pona pona** | *ma tomo Pelin li ma tomo lawa li suli.* | <sub><sup>PU</sup></sub> |
+| **pona ike**  | *ma tomo lawa: ma tomo Pelin, li suli.*  | <sub><sup>X</sup></sub> |
+
+Therefore, it is not possible to re-interpret a <sub><sup>PREPOSITION</sup></sub> as a <sub><sup>NOUN</sup></sub> prefixing a <sub><sup>NOUN PHRASE</sup></sub> in my nasin.
+
+| | origin: Berlin = from Berlin | |
+|-|-|-|
+| **pona ala**  | *tan: ma tomo Pelin* | <sub><sup>X</sup></sub> |
+| **pona pona** | *tan ma tomo Pelin*  | <sub><sup>PU</sup></sub> |
+
 ### Location Nouns
 
 In my nasin, there are some additional <sub><sup>LOCATION NOUN</sup></sub>s. 
