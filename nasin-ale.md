@@ -93,20 +93,6 @@ In my nasin, it is not possible to convert a <sub><sup>PREPOSITION</sup></sub> i
 | **pona pona** | *mama*  | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *tan*   | <sub><sup>KU</sup></sub> |
 
-In my nasin, it is not possible to prefix a <sub><sup>NOUN PHRASE</sup></sub> with another <sub><sup>NOUN PHRASE</sup></sub>.
-
-| | The capital Berlin is big. | |
-|-|-|-|
-| **pona pona** | *ma tomo Pelin li ma tomo lawa li suli.* | <sub><sup>PU</sup></sub> |
-| **pona ike**  | *ma tomo lawa: ma tomo Pelin, li suli.*  | <sub><sup>X</sup></sub> |
-
-Therefore, it is not possible to re-interpret a <sub><sup>PREPOSITION</sup></sub> as a <sub><sup>NOUN</sup></sub> prefixing a <sub><sup>NOUN PHRASE</sup></sub> in my nasin.
-
-| | origin: Berlin = from Berlin | |
-|-|-|-|
-| **pona ala**  | *tan: ma tomo Pelin* | <sub><sup>X</sup></sub> |
-| **pona pona** | *tan ma tomo Pelin*  | <sub><sup>PU</sup></sub> |
-
 ### Location Nouns
 
 In my nasin, there are some additional <sub><sup>LOCATION NOUN</sup></sub>s. 
@@ -239,12 +225,12 @@ In my nasin, the relative subject or the relative object of a relative clause ca
 
 | | I can see the man that I know. | |
 |-|-|-|
-| **pona pona**  | *mi ken lukin e mije ni: mi sona e ona.* | <sub><sup>X</sup></sub> |
+| **pona pona**  | *mi ken lukin e mije ni: mi sona e ona.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**   | *mi ken lukin e mije ni: mi sona.*       | <sub><sup>X</sup></sub> |
 
 | | I can see the man that knows me. | |
 |-|-|-|
-| **pona pona**  | *mi ken lukin e mije ni: ona li sona e mi.* | <sub><sup>X</sup></sub> |
+| **pona pona**  | *mi ken lukin e mije ni: ona li sona e mi.* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**   | *mi ken lukin e mije ni: sona e mi.*        | <sub><sup>X</sup></sub> |
 
 ## pi
@@ -277,12 +263,15 @@ In my nasin, a <sub><sup>GENITIVE PHRASE</sup></sub> can't be used as a <sub><su
 | **pona ike**  | *lipu ni li pi mi.*  | <sub><sup>PIJE</sup></sub> |
 | **→**         | *lipu ni li mi.*     | <sub><sup>X</sup></sub> |
 
-In my nasin, *pi* can't be used with a <sub><sup>PREPOSITIONAL PHRASE</sup></sub> as its argument.
+In my nasin, *pi* can't be used with a <sub><sup>PREPOSITIONAL PHRASE</sup></sub> as its argument neither can *pi* be omitted before such a <sub><sup>PREPOSITIONAL PHRASE</sup></sub>.
 
-| | someone going home | |
+| | homeward bounder | |
 |-|-|-|
+| **pona ala**  | *jan pi tawa: tomo*        | <sub><sup>X</sup></sub> |
 | **pona pona** | *jan ni: ona li tawa tomo* | <sub><sup>TEPAN</sup></sub> |
+| **→**         | *jan li tawa tomo. ona*    | <sub><sup>PU</sup></sub> |
 | **pona ike**  | *jan pi tawa tomo*         | <sub><sup>KIPO</sup></sub> |
+| **→**         | *jan tawa tomo*            | <sub><sup>KU</sup></sub> |
 
 ## ijo, ilo, jan
 
@@ -388,6 +377,20 @@ In my nasin, it is not possible to convert the <sub><sup>PARTICLE</sup></sub> *a
 | | a ship named Abraham Lincoln | |
 |-|-|-|
 | **pona pona** | *tomo tawa telo pi nimi Epawan Linkan* | <sub><sup>TEPAN</sup></sub> |
+
+In my nasin, it is not possible to prefix a <sub><sup>NOUN PHRASE</sup></sub> with another <sub><sup>NOUN PHRASE</sup></sub>.
+
+| | The capital Berlin is big. | |
+|-|-|-|
+| **pona pona** | *ma tomo Pelin li ma tomo lawa li suli.* | <sub><sup>PU</sup></sub> |
+| **pona ike**  | *ma tomo lawa: ma tomo Pelin, li suli.*  | <sub><sup>X</sup></sub> |
+
+Therefore, it is not possible to re-interpret a <sub><sup>PREPOSITION</sup></sub> as a <sub><sup>NOUN</sup></sub> prefixing a <sub><sup>NOUN PHRASE</sup></sub> in my nasin.
+
+| | origin: Berlin = from Berlin | |
+|-|-|-|
+| **pona ala**  | *tan: ma tomo Pelin* | <sub><sup>X</sup></sub> |
+| **pona pona** | *tan ma tomo Pelin*  | <sub><sup>PU</sup></sub> |
 
 ## nanpa
 
