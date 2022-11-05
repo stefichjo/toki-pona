@@ -387,10 +387,11 @@ In my nasin, it is not possible to prefix a <sub><sup>NOUN PHRASE</sup></sub> wi
 
 Therefore, it is not possible to re-interpret a <sub><sup>PREPOSITION</sup></sub> as a <sub><sup>NOUN</sup></sub> prefixing a <sub><sup>NOUN PHRASE</sup></sub> in my nasin.
 
-| | origin: Berlin = from Berlin | |
+| | Being me the target, it was good. = I liked it. | |
 |-|-|-|
-| **pona ala**  | *tan: ma tomo Pelin* | <sub><sup>X</sup></sub> |
-| **pona pona** | *tan ma tomo Pelin*  | <sub><sup>PU</sup></sub> |
+| **pona ala**  | *tawa: mi la ona li pona.* | <sub><sup>X</sup></sub> |
+| **pona pona** | *tawa mi la ona li pona.*  | <sub><sup>PU</sup></sub> |
+| **→**         | *ona li pona tawa mi.*     | <sub><sup>PU</sup></sub> |
 
 ## nanpa
 
