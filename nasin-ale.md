@@ -418,3 +418,188 @@ In my nasin, *anpa* and *moli* don't undergo *kama* dropping.
 | **pona pona** | *kama moli* | <sub><sup>TEPAN</sup></sub> |
 | **pona ike**  | *moli*      | <sub><sup>PU</sup></sub> |
 
+
+<!-- 
+[lipu pu] https://tatoeba.org/en/tags/show_sentences_with_tag/13335
+* meli X (= meli pi ma X, meli pi kulupu X)
+* sike (= sike suno)
+* kasi (= lipu kasi)
+* nena (= nena pi sinpin lawa)
+* sinpin (= sinpin lawa)
+* sinpin (= sinpin sijelo)
+* open (= open e ijo/lipu/toki)(open is also a "verb" in Pu.)
+(* lon X la = X la)
+(* X, la Y = ni: X, la Y)
+
+[lipu pu - pre-verbs] https://tatoeba.org/en/tags/show_sentences_with_tag/13428
+* anpa (= kama anpa)
+* moli (= kama moli)
+* wile sona (= wile kama sona)
+* lukin jo (= lukin kama jo)
+
+[lipu pu - prepositions] https://tatoeba.org/en/tags/show_sentences_with_tag/13429
+* kama tawa (= kama lon)
+
+[lipu pu - synonyms] https://tatoeba.org/en/tags/show_sentences_with_tag/13400
+* ali (= ale)
+* → noka (= anpa)
+* → kute (= lukin)
+* ? weka e (= awen ala sona e)
+
+[lipu pu - phonotactics] https://tatoeba.org/en/tags/show_sentences_with_tag/13416
+* ma Sawusi
+
+[lipu ku] https://tatoeba.org/en/tags/show_sentences_with_tag/12584
+* missing modifiers
+  * pilin (= pilin insa?)
+* missing head words
+  * lawa (= nasin lawa)
+  * lili (= ale lili)
+  * kulupu (= nasin kulupu)
+  * sin (= tenpo sin)
+  * sin (= ijo sin)
+  * kulupu (= tomo kulupu)
+  * jan (= (pi) "selo" jan) (soweli jan -> "sitelen" jan)
+* missing prepositions
+  * esun e X (= kama jo e X lon esun) (esun e X (= pana e X lon esun))
+  * tawa noka (= tawa kepeken noka)
+  * tawa sike (= tawa lon sike)
+  * pana esun (= pana lon esun) (by extension: kama jo esun (= kama jo lon esun))
+  * pali sin (= pali lon tenpo sin)
+* pre-verbs
+  * sona e (= kama sona e kon pi)
+* pali
+  * pona (= pona pali; pali lili)
+  * ike (= ike pali; pali suli)
+* ijo
+  * ala (= ijo ala)
+  * ijo ni (= ni)
+  * toki e (= toki e ijo pi)
+* X e (= pana e X tawa)
+  * pona e (= pana e pona tawa)
+  * ken e (= pana e ken tawa)
+
+
+[lipu ku - nimi ku suli] https://tatoeba.org/en/tags/show_sentences_with_tag/13392
+* namako, kin, kipisi, leko, monsuta, tonsi, jasima, kijetesantakalu, soko, meso, epiku, kokosila, lanpan, n, misikeke
+
+[lipu ku - nimi ku lili] https://tatoeba.org/en/tags/show_sentences_with_tag/13398
+* kan, kapesi, linluwi, misa, powe, ...
+
+[lipu ku - pre-verbs] https://tatoeba.org/en/tags/show_sentences_with_tag/13394
+* alasa
+* open, pini
+* tawa
+
+[lipu ku - particles] https://tatoeba.org/en/tags/show_sentences_with_tag/13396
+* mi/sina X li Y
+* pi X en Y
+* anu (= kama wile)
+* o X! (= X!)
+* X pi Y pi Z
+
+[lipu ku - prepositions] https://tatoeba.org/en/tags/show_sentences_with_tag/13395
+* mi sona e tan.
+* mi toki e lon. (= mi toki lon.)
+* mi kepeken e ilo. (= mi kepeken ilo.)
+* mi toki lon toki pona. (= mi toki e ijo pi toki pona.)
+* kepeken toki (= lon toki)
+* lon ijo wan (= e ijo pi ijo wan)
+* lon (=e ijo pi)
+
+[lipu ku - punctuation] https://tatoeba.org/en/tags/show_sentences_with_tag/13391
+* mi pona tawa jan la, jan li pona tawa mi.
+* mi pona tawa jan la jan li pona tawa mi.
+* tenpo suno ni la, jan Melani li kama.
+
+[lipu ku - not in writing] https://tatoeba.org/de/tags/show_sentences_with_tag/13549
+* sina jo e tomo tawa?
+
+[lipu ku - informal] https://tatoeba.org/en/tags/show_sentences_with_tag/13390
+* mi jo ala e pu.
+* nimi ni li pu ala.
+
+[lipu ku - non-ableist]
+- nasa = unusual, strange; silly; drunk, intoxicated; impulsive
+
+[lipu ku - non-speciesist]
+* akesi = reptile, amphibian
+
+[lipu ku - expressions] https://tatoeba.org/en/tags/show_sentences_with_tag/13401
+* ike tawa sijelo (= jaki), ...
+* moku soweli (= soweli), ...
+* kepeken len (= jo e len), ...
+
+[lipu  ku - topic marker] https://tatoeba.org/en/tags/show_sentences_with_tag/13418
+* X la ... = tawa X la ...
+* X (jan) la Y li lon. = jan li X e ni: Y li lon. = jan li X e Y.
+* Y li lon pana X (jan). = pana X (jan) la Y li lon. = jan li pana e X lon Y.
+* X la ona li ...; X la jan li ... e ona
+
+...
+; lupa suno = lupa lukin; weka akesi = kama jo ike; ilo tomo [Tepan] = ilo awen; tomo tawa kon = tomo tawa sewi
+([sike = tenpo]): sike esun = tenpo esun; sike mun = tenpo mun; sike suno = tenpo sike
+([Pije]): pi = e ijo pi; li ijo (pi) = li pi; pi nanpa; li sama X tawa lukin = li lukin sama X; X pi loje laso = X loje laso
+https://tatoeba.org/en/tags/show_sentences_with_tag/12584/tok
+
+[ma pona]: https://tatoeba.org/en/tags/show_sentences_with_tag/11604
+https://lipu-linku.github.io/
+* li kepeken X = li X
+* kule "category"
+* pilin X (= pana e pilin X)
+* toki lon toki -> kepeken
+
+[Pije] https://tatoeba.org/en/tags/show_sentences_with_tag/11603
+* pi X en Y -> [lipu ku - particles]
+* tawa/tan/sama/kepeken X la = X la -> [lipu ku - topic marker]
+* sentence, la = sentence la -> [lipu ku - punctuation]
+* lukin sama X (= sama X tawa lukin)
+* li pi X (= li ijo X)
+* pi X (= e ijo pi X)
+* X kule1 kule2 (= X pi kule1 kule2)
+* X pi nanpa wan  (= X nanpa wan)
+http://tokipona.net/tp/janpije/okamasona.php
+
+[Kipo] https://tatoeba.org/en/tags/show_sentences_with_tag/11602
+* sike e
+* ante/sama (= ona/jan/ijo ante/sama)
+* poka (= lon poka pi; li jo e)
+* sewi = formal
+* lon/tawa sewi e ijo (= pana e ijo lon sewi)
+
+[un-pona] ...
+
+[Tepan] https://tatoeba.org/en/tags/show_sentences_with_tag/11606
+* transitive modifiers: ilo awen, ilo open, nasin pona
+* pi selo X = of the form of X: soweli pi selo jan = monkey
+* (pi) jan (= pi selo jan)
+* utala = to hit
+* monsi li anpa = to sit
+* pi nanpa pini = last
+* nasin pi noka suli = bridge
+* sitelen = monument, doll (i.e. three-dimensional)
+* tenpo suli = hour
+* tenpo lili = minute
+* mi pona tawa jan, la = lon ni: mi pona tawa jan
+
+https://tatoeba.org/reviews/delete_sentence/{#}/-1
+
+[tokiponization][NOK]:
+chemistry: Osiken Nitoken Witoken Eli
+
+sike lukin -> lukin
+mama sewi -> sewi
+ma sike -> sike ma
+sitelen lukin -> sitelen
+tenpo suno pini ni -> tenpo suno pini
+x li jo e pona nasa -> pona li kama lon x
+tenpo nanpa pini [lipu ku - expressions] -> pini pi tenpo mute (open pi tenpo mute = tenpo nanpa wan)
+
+
+http://tokipona.org/nimi_pu.txt
+http://tokipona.org/nimi_pi_pu_ala.txt
+http://tokipona.org/compounds.txt
+https://nimi.pona.la/
+
+https://downloads.tatoeba.org/exports/per_language/tok/tok_sentences_detailed.tsv.bz2
+ -->

@@ -1,5 +1,7 @@
 ## Dictionary
 
+tenpo pi lili nasa → tenpo lili = suddenly
+
 <!-- compounds -->
 
 <!-- 
@@ -7,11 +9,10 @@
 
 ### lili vs. mute, suli, and wawa
 
-### jaki vs. suwi
-
 ### akesi vs. soweli
 
-akesi = malicious → dangerous?
+soweli → suwi
+akesi → jaki (malicious, dangerous)
 
 ### a vs. ala (and mu)
 
